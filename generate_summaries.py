@@ -8,80 +8,66 @@ ai_review_dir = os.path.join(base_dir, "ai_review")
 csv_path = os.path.join(base_dir, "aggregated_restaurants.csv")
 output_path = os.path.join(base_dir, "data.js")
 
-# Map of internal attribute keys to user-friendly short phrases (2-6 chars)
-SIGNAL_MAPPING = {
-    "high_chair_available": "嬰兒椅",
-    "kids_menu": "兒童餐",
-    "spacious_seating": "寬敞空間",
-    "kid_noise_tolerant": "童噪友善",
-}
-
-# Common positive signals to look for in reviews (simple keyword matching for MVP)
+# Common positive signals to look for in reviews representing observations
 REVIEW_KEYWORDS = {
-    "球池": "球池遊戲區",
-    "溜滑梯": "溜滑梯",
-    "尿布台": "尿布台",
-    "哺乳室": "哺乳室",
-    "沙坑": "沙坑遊戲",
-    "畫筆": "提供畫具",
-    "玩具": "豐富玩具",
-    "草地": "戶外草地",
-    "推車": "推車友善",
-    "友善": "店員親切",
+    "遊戲區": "似乎有遊戲區",
+    "球池": "似乎有遊戲區",
+    "溜滑梯": "似乎有遊戲區",
+    "玩具": "似乎有遊戲區",
+    "沙坑": "似乎有遊戲區",
+    "家庭客": "常見家庭客人",
+    "帶小孩": "常見家庭客人",
+    "帶兒童": "常見家庭客人",
+    "帶小朋友": "常見家庭客人",
+    "輕鬆": "氣氛可能較輕鬆",
+    "友善": "店員對小朋友友善",
+    "熱心": "店員對小朋友友善",
+    "親切": "店員對小朋友友善",
+    "推車": "空間適合推車",
+    "嬰兒車": "空間適合推車",
 }
 
 def generate_ai_summary(attributes, name):
-    """Generates a natural, idiomatic Chinese summary based on attributes."""
+    """Generates a 1-2 sentence observational summary based on attributes."""
     has_chair = attributes.get("high_chair_available")
     has_menu = attributes.get("kids_menu")
     has_space = attributes.get("spacious_seating")
     has_noise = attributes.get("kid_noise_tolerant")
 
     parts = []
-    # Handling facilities vs environment naturally
     if has_chair and has_menu:
-        parts.append("貼心準備了嬰兒椅與兒童餐，對帶小孩的爸媽來說非常方便")
+        parts.append("餐廳提供嬰兒椅與兒童餐")
     elif has_chair:
-        parts.append("備有嬰兒椅，用餐環境對孩子十分友善")
+        parts.append("餐廳有提供嬰兒椅")
     elif has_menu:
-        parts.append("提供專屬兒童餐，是個適合帶孩子來用餐的好選擇")
+        parts.append("餐廳有提供兒童餐")
 
     if has_space and has_noise:
-        parts.append("店內空間大且對小朋友的吵鬧聲也很包容，氛圍輕鬆自在")
+        parts.append("空間似乎寬敞且對小朋友的聲音較為包容")
     elif has_space:
-        parts.append("用餐環境相當寬敞，就算推著嬰兒車進出也很順暢")
+        parts.append("空間看似較為寬敞")
     elif has_noise:
-        parts.append("這家店的氣氛對小孩比較包容，就算小朋友稍微活潑一點也沒關係")
+        parts.append("氛圍可能對小朋友的聲音較為包容")
 
     if not parts:
-        return f"{name} 的用餐氣氛舒適，雖然沒有專門的育兒設備，但仍是個適合各類家庭輕鬆餐敘的空間。"
+        return "目前沒有明顯的專屬育兒設備資訊，但似乎仍是一般用餐的選項。"
 
-    if len(parts) > 1:
-        return "這裡" + "，".join(parts) + "，非常推薦給正在尋找親子餐廳的您。"
-    else:
-        # Single part, prepend restaurant name for better flow
-        first_part = parts[0]
-        return f"{name} {first_part}。"
+    summary = "，".join(parts) + "，整體環境可能對帶小孩的家庭較友善。"
+    return summary
 
 def extract_signals(row, attributes):
-    """Extracts 2-4 short evidence points from attributes and reviews."""
+    """Extracts 2-3 short evidence points from reviews."""
     signals = []
     
-    # 1. Add from confirmed attributes first (most reliable)
-    for attr, confirmed in attributes.items():
-        if confirmed:
-            signals.append(SIGNAL_MAPPING[attr])
-    
-    # 2. Search reviews for specific keyword signals
+    # Search reviews for specific keyword signals
     review_text = " ".join([row.get(f"評論{i}", "") for i in range(1, 6)])
     for kw, label in REVIEW_KEYWORDS.items():
-        if len(signals) >= 4:
+        if len(signals) >= 3:
             break
         if kw in review_text and label not in signals:
             signals.append(label)
             
-    # 3. Ensure at least 2, and cap at 4
-    return signals[:4]
+    return signals
 
 def main():
     restaurants = []

@@ -10,10 +10,9 @@ const restaurantData = [
       "spacious_seating": true,
       "kid_noise_tolerant": false
     },
-    "ai_summary": "Luguo Cafe / Z Space 用餐環境相當寬敞，就算推著嬰兒車進出也很順暢。",
+    "ai_summary": "空間看似較為寬敞，整體環境可能對帶小孩的家庭較友善。",
     "signals": [
-      "寬敞空間",
-      "店員親切"
+      "店員對小朋友友善"
     ]
   },
   {
@@ -27,8 +26,10 @@ const restaurantData = [
       "spacious_seating": false,
       "kid_noise_tolerant": false
     },
-    "ai_summary": "咖啡實驗室 的用餐氣氛舒適，雖然沒有專門的育兒裝置，但仍是個適合各類家庭輕鬆餐敘的空間。",
-    "signals": []
+    "ai_summary": "目前沒有明顯的專屬育兒設備資訊，但似乎仍是一般用餐的選項。",
+    "signals": [
+      "店員對小朋友友善"
+    ]
   },
   {
     "name": "Atlas Brunch & Pasta 亞斯義大利麵",
@@ -41,11 +42,9 @@ const restaurantData = [
       "spacious_seating": true,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "Atlas Brunch & Pasta 亞斯義大利麵 店內空間大且對小朋友的吵鬧聲也很包容，氛圍輕鬆自在。",
+    "ai_summary": "空間似乎寬敞且對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
     "signals": [
-      "寬敞空間",
-      "童噪友善",
-      "店員親切"
+      "店員對小朋友友善"
     ]
   },
   {
@@ -59,9 +58,9 @@ const restaurantData = [
       "spacious_seating": true,
       "kid_noise_tolerant": false
     },
-    "ai_summary": "森優咖啡 Tribu Cafe 用餐環境相當寬敞，就算推著嬰兒車進出也很順暢。",
+    "ai_summary": "空間看似較為寬敞，整體環境可能對帶小孩的家庭較友善。",
     "signals": [
-      "寬敞空間"
+      "店員對小朋友友善"
     ]
   },
   {
@@ -75,11 +74,9 @@ const restaurantData = [
       "spacious_seating": true,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "BACKMOUNT.後山咖啡/平日不限時咖啡廳/後山埤美食/下午茶外送/寵物友善/親子友善/南港公園餐廳 店內空間大且對小朋友的吵鬧聲也很包容，氛圍輕鬆自在。",
+    "ai_summary": "空間似乎寬敞且對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
     "signals": [
-      "寬敞空間",
-      "童噪友善",
-      "店員親切"
+      "店員對小朋友友善"
     ]
   },
   {
@@ -93,8 +90,10 @@ const restaurantData = [
       "spacious_seating": false,
       "kid_noise_tolerant": false
     },
-    "ai_summary": "咖啡俱樂部 COFFEE CLUB 的用餐氣氛舒適，雖然沒有專門的育兒裝置，但仍是個適合各類家庭輕鬆餐敘的空間。",
-    "signals": []
+    "ai_summary": "目前沒有明顯的專屬育兒設備資訊，但似乎仍是一般用餐的選項。",
+    "signals": [
+      "店員對小朋友友善"
+    ]
   },
   {
     "name": "HSQ COFFEE",
@@ -107,7 +106,7 @@ const restaurantData = [
       "spacious_seating": false,
       "kid_noise_tolerant": false
     },
-    "ai_summary": "HSQ COFFEE 的用餐氣氛舒適，雖然沒有專門的育兒裝置，但仍是個適合各類家庭輕鬆餐敘的空間。",
+    "ai_summary": "目前沒有明顯的專屬育兒設備資訊，但似乎仍是一般用餐的選項。",
     "signals": []
   },
   {
@@ -121,11 +120,8 @@ const restaurantData = [
       "spacious_seating": true,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "安好食 和平店 店內空間大且對小朋友的吵鬧聲也很包容，氛圍輕鬆自在。",
-    "signals": [
-      "寬敞空間",
-      "童噪友善"
-    ]
+    "ai_summary": "空間似乎寬敞且對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
+    "signals": []
   },
   {
     "name": "找諶 Chen’s Brunch",
@@ -138,10 +134,8 @@ const restaurantData = [
       "spacious_seating": false,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "找諶 Chen’s Brunch 這家店的氣氛對小孩比較包容，就算小朋友稍微活潑一點也沒關係。",
-    "signals": [
-      "童噪友善"
-    ]
+    "ai_summary": "氛圍可能對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
+    "signals": []
   },
   {
     "name": "大樹先生的家",
@@ -154,12 +148,9 @@ const restaurantData = [
       "spacious_seating": true,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "這裡提供專屬兒童餐，是個適合帶孩子來用餐的好選擇，店內空間大且對小朋友的吵鬧聲也很包容，氛圍輕鬆自在，非常推薦給正在尋找親子餐廳的您。",
+    "ai_summary": "餐廳有提供兒童餐，空間似乎寬敞且對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
     "signals": [
-      "兒童餐",
-      "寬敞空間",
-      "童噪友善",
-      "球池遊戲區"
+      "似乎有遊戲區"
     ]
   },
   {
@@ -173,11 +164,8 @@ const restaurantData = [
       "spacious_seating": true,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "Q Burger 中山農安店(直營) 店內空間大且對小朋友的吵鬧聲也很包容，氛圍輕鬆自在。",
-    "signals": [
-      "寬敞空間",
-      "童噪友善"
-    ]
+    "ai_summary": "空間似乎寬敞且對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
+    "signals": []
   },
   {
     "name": "子木咖啡",
@@ -190,12 +178,11 @@ const restaurantData = [
       "spacious_seating": false,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "這裡提供專屬兒童餐，是個適合帶孩子來用餐的好選擇，這家店的氣氛對小孩比較包容，就算小朋友稍微活潑一點也沒關係，非常推薦給正在尋找親子餐廳的您。",
+    "ai_summary": "餐廳有提供兒童餐，氛圍可能對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
     "signals": [
-      "兒童餐",
-      "童噪友善",
-      "溜滑梯",
-      "豐富玩具"
+      "似乎有遊戲區",
+      "常見家庭客人",
+      "店員對小朋友友善"
     ]
   },
   {
@@ -209,11 +196,9 @@ const restaurantData = [
       "spacious_seating": false,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "這裡提供專屬兒童餐，是個適合帶孩子來用餐的好選擇，這家店的氣氛對小孩比較包容，就算小朋友稍微活潑一點也沒關係，非常推薦給正在尋找親子餐廳的您。",
+    "ai_summary": "餐廳有提供兒童餐，氛圍可能對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
     "signals": [
-      "兒童餐",
-      "童噪友善",
-      "店員親切"
+      "店員對小朋友友善"
     ]
   },
   {
@@ -227,11 +212,8 @@ const restaurantData = [
       "spacious_seating": true,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "Timama kitchen 店內空間大且對小朋友的吵鬧聲也很包容，氛圍輕鬆自在。",
-    "signals": [
-      "寬敞空間",
-      "童噪友善"
-    ]
+    "ai_summary": "空間似乎寬敞且對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
+    "signals": []
   },
   {
     "name": "歡樂便所主題餐廳",
@@ -244,12 +226,11 @@ const restaurantData = [
       "spacious_seating": true,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "歡樂便所主題餐廳 店內空間大且對小朋友的吵鬧聲也很包容，氛圍輕鬆自在。",
+    "ai_summary": "空間似乎寬敞且對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
     "signals": [
-      "寬敞空間",
-      "童噪友善",
-      "球池遊戲區",
-      "店員親切"
+      "似乎有遊戲區",
+      "常見家庭客人",
+      "店員對小朋友友善"
     ]
   },
   {
@@ -263,10 +244,8 @@ const restaurantData = [
       "spacious_seating": false,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "早點醒 這家店的氣氛對小孩比較包容，就算小朋友稍微活潑一點也沒關係。",
-    "signals": [
-      "童噪友善"
-    ]
+    "ai_summary": "氛圍可能對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
+    "signals": []
   },
   {
     "name": "象園咖啡內湖店",
@@ -279,12 +258,8 @@ const restaurantData = [
       "spacious_seating": false,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "這裡貼心準備了嬰兒椅與兒童餐，對帶小孩的爸媽來說非常方便，這家店的氣氛對小孩比較包容，就算小朋友稍微活潑一點也沒關係，非常推薦給正在尋找親子餐廳的您。",
-    "signals": [
-      "嬰兒椅",
-      "兒童餐",
-      "童噪友善"
-    ]
+    "ai_summary": "餐廳提供嬰兒椅與兒童餐，氛圍可能對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
+    "signals": []
   },
   {
     "name": "白菜小姐義式坊",
@@ -297,11 +272,9 @@ const restaurantData = [
       "spacious_seating": true,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "白菜小姐義式坊 店內空間大且對小朋友的吵鬧聲也很包容，氛圍輕鬆自在。",
+    "ai_summary": "空間似乎寬敞且對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
     "signals": [
-      "寬敞空間",
-      "童噪友善",
-      "店員親切"
+      "店員對小朋友友善"
     ]
   },
   {
@@ -315,9 +288,9 @@ const restaurantData = [
       "spacious_seating": false,
       "kid_noise_tolerant": false
     },
-    "ai_summary": "WilsonPark 威爾森公園 （Steak & Wine） 的用餐氣氛舒適，雖然沒有專門的育兒裝置，但仍是個適合各類家庭輕鬆餐敘的空間。",
+    "ai_summary": "目前沒有明顯的專屬育兒設備資訊，但似乎仍是一般用餐的選項。",
     "signals": [
-      "店員親切"
+      "店員對小朋友友善"
     ]
   },
   {
@@ -331,11 +304,8 @@ const restaurantData = [
       "spacious_seating": false,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "這裡提供專屬兒童餐，是個適合帶孩子來用餐的好選擇，這家店的氣氛對小孩比較包容，就算小朋友稍微活潑一點也沒關係，非常推薦給正在尋找親子餐廳的您。",
-    "signals": [
-      "兒童餐",
-      "童噪友善"
-    ]
+    "ai_summary": "餐廳有提供兒童餐，氛圍可能對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
+    "signals": []
   },
   {
     "name": "吉祥小館",
@@ -348,9 +318,9 @@ const restaurantData = [
       "spacious_seating": false,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "吉祥小館 這家店的氣氛對小孩比較包容，就算小朋友稍微活潑一點也沒關係。",
+    "ai_summary": "氛圍可能對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
     "signals": [
-      "童噪友善"
+      "店員對小朋友友善"
     ]
   },
   {
@@ -364,11 +334,10 @@ const restaurantData = [
       "spacious_seating": true,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "LOST and Found 店內空間大且對小朋友的吵鬧聲也很包容，氛圍輕鬆自在。",
+    "ai_summary": "空間似乎寬敞且對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
     "signals": [
-      "寬敞空間",
-      "童噪友善",
-      "店員親切"
+      "氣氛可能較輕鬆",
+      "店員對小朋友友善"
     ]
   },
   {
@@ -382,10 +351,8 @@ const restaurantData = [
       "spacious_seating": true,
       "kid_noise_tolerant": false
     },
-    "ai_summary": "UMAMI 金色三麥 用餐環境相當寬敞，就算推著嬰兒車進出也很順暢。",
-    "signals": [
-      "寬敞空間"
-    ]
+    "ai_summary": "空間看似較為寬敞，整體環境可能對帶小孩的家庭較友善。",
+    "signals": []
   },
   {
     "name": "齊客咖啡 The Gathering Cafe",
@@ -398,10 +365,8 @@ const restaurantData = [
       "spacious_seating": false,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "齊客咖啡 The Gathering Cafe 這家店的氣氛對小孩比較包容，就算小朋友稍微活潑一點也沒關係。",
-    "signals": [
-      "童噪友善"
-    ]
+    "ai_summary": "氛圍可能對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
+    "signals": []
   },
   {
     "name": "羽樂歐陸創意料理",
@@ -414,9 +379,9 @@ const restaurantData = [
       "spacious_seating": false,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "羽樂歐陸創意料理 這家店的氣氛對小孩比較包容，就算小朋友稍微活潑一點也沒關係。",
+    "ai_summary": "氛圍可能對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
     "signals": [
-      "童噪友善"
+      "店員對小朋友友善"
     ]
   },
   {
@@ -430,12 +395,10 @@ const restaurantData = [
       "spacious_seating": true,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "這裡提供專屬兒童餐，是個適合帶孩子來用餐的好選擇，店內空間大且對小朋友的吵鬧聲也很包容，氛圍輕鬆自在，非常推薦給正在尋找親子餐廳的您。",
+    "ai_summary": "餐廳有提供兒童餐，空間似乎寬敞且對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
     "signals": [
-      "兒童餐",
-      "寬敞空間",
-      "童噪友善",
-      "豐富玩具"
+      "似乎有遊戲區",
+      "店員對小朋友友善"
     ]
   },
   {
@@ -449,10 +412,8 @@ const restaurantData = [
       "spacious_seating": false,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "打卡咖啡館迪化店 這家店的氣氛對小孩比較包容，就算小朋友稍微活潑一點也沒關係。",
-    "signals": [
-      "童噪友善"
-    ]
+    "ai_summary": "氛圍可能對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
+    "signals": []
   },
   {
     "name": "拉亞漢堡 臺北錦州",
@@ -465,9 +426,9 @@ const restaurantData = [
       "spacious_seating": false,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "拉亞漢堡 臺北錦州 這家店的氣氛對小孩比較包容，就算小朋友稍微活潑一點也沒關係。",
+    "ai_summary": "氛圍可能對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
     "signals": [
-      "童噪友善"
+      "店員對小朋友友善"
     ]
   },
   {
@@ -481,9 +442,9 @@ const restaurantData = [
       "spacious_seating": false,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "Bistro O 避世所 這家店的氣氛對小孩比較包容，就算小朋友稍微活潑一點也沒關係。",
+    "ai_summary": "氛圍可能對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
     "signals": [
-      "童噪友善"
+      "氣氛可能較輕鬆"
     ]
   },
   {
@@ -497,10 +458,8 @@ const restaurantData = [
       "spacious_seating": false,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "豐萃早午餐 這家店的氣氛對小孩比較包容，就算小朋友稍微活潑一點也沒關係。",
-    "signals": [
-      "童噪友善"
-    ]
+    "ai_summary": "氛圍可能對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
+    "signals": []
   },
   {
     "name": "Cafe La Connection",
@@ -513,10 +472,9 @@ const restaurantData = [
       "spacious_seating": true,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "Cafe La Connection 店內空間大且對小朋友的吵鬧聲也很包容，氛圍輕鬆自在。",
+    "ai_summary": "空間似乎寬敞且對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
     "signals": [
-      "寬敞空間",
-      "童噪友善"
+      "店員對小朋友友善"
     ]
   },
   {
@@ -530,10 +488,8 @@ const restaurantData = [
       "spacious_seating": false,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "Oneway CAFE玩味咖啡 這家店的氣氛對小孩比較包容，就算小朋友稍微活潑一點也沒關係。",
-    "signals": [
-      "童噪友善"
-    ]
+    "ai_summary": "氛圍可能對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
+    "signals": []
   },
   {
     "name": "農人餐桌",
@@ -546,12 +502,10 @@ const restaurantData = [
       "spacious_seating": true,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "這裡貼心準備了嬰兒椅與兒童餐，對帶小孩的爸媽來說非常方便，店內空間大且對小朋友的吵鬧聲也很包容，氛圍輕鬆自在，非常推薦給正在尋找親子餐廳的您。",
+    "ai_summary": "餐廳提供嬰兒椅與兒童餐，空間似乎寬敞且對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
     "signals": [
-      "嬰兒椅",
-      "兒童餐",
-      "寬敞空間",
-      "童噪友善"
+      "似乎有遊戲區",
+      "店員對小朋友友善"
     ]
   },
   {
@@ -565,9 +519,9 @@ const restaurantData = [
       "spacious_seating": false,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "Seeking Café 這家店的氣氛對小孩比較包容，就算小朋友稍微活潑一點也沒關係。",
+    "ai_summary": "氛圍可能對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
     "signals": [
-      "童噪友善"
+      "店員對小朋友友善"
     ]
   },
   {
@@ -581,12 +535,11 @@ const restaurantData = [
       "spacious_seating": true,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "這裡貼心準備了嬰兒椅與兒童餐，對帶小孩的爸媽來說非常方便，店內空間大且對小朋友的吵鬧聲也很包容，氛圍輕鬆自在，非常推薦給正在尋找親子餐廳的您。",
+    "ai_summary": "餐廳提供嬰兒椅與兒童餐，空間似乎寬敞且對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
     "signals": [
-      "嬰兒椅",
-      "兒童餐",
-      "寬敞空間",
-      "童噪友善"
+      "似乎有遊戲區",
+      "常見家庭客人",
+      "店員對小朋友友善"
     ]
   },
   {
@@ -600,7 +553,7 @@ const restaurantData = [
       "spacious_seating": false,
       "kid_noise_tolerant": false
     },
-    "ai_summary": "撞個咖啡Drunkard cafe 的用餐氣氛舒適，雖然沒有專門的育兒裝置，但仍是個適合各類家庭輕鬆餐敘的空間。",
+    "ai_summary": "目前沒有明顯的專屬育兒設備資訊，但似乎仍是一般用餐的選項。",
     "signals": []
   },
   {
@@ -614,8 +567,10 @@ const restaurantData = [
       "spacious_seating": false,
       "kid_noise_tolerant": false
     },
-    "ai_summary": "Le Park Cafe公園咖啡館 的用餐氣氛舒適，雖然沒有專門的育兒裝置，但仍是個適合各類家庭輕鬆餐敘的空間。",
-    "signals": []
+    "ai_summary": "目前沒有明顯的專屬育兒設備資訊，但似乎仍是一般用餐的選項。",
+    "signals": [
+      "氣氛可能較輕鬆"
+    ]
   },
   {
     "name": "媽妳講親子餐廳 (MONEY JUMP)",
@@ -628,12 +583,10 @@ const restaurantData = [
       "spacious_seating": true,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "這裡貼心準備了嬰兒椅與兒童餐，對帶小孩的爸媽來說非常方便，店內空間大且對小朋友的吵鬧聲也很包容，氛圍輕鬆自在，非常推薦給正在尋找親子餐廳的您。",
+    "ai_summary": "餐廳提供嬰兒椅與兒童餐，空間似乎寬敞且對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
     "signals": [
-      "嬰兒椅",
-      "兒童餐",
-      "寬敞空間",
-      "童噪友善"
+      "似乎有遊戲區",
+      "店員對小朋友友善"
     ]
   },
   {
@@ -647,7 +600,7 @@ const restaurantData = [
       "spacious_seating": false,
       "kid_noise_tolerant": false
     },
-    "ai_summary": "又一間商行SPAGHETTI（無訂位服務，營業時間為最後點餐時間） 的用餐氣氛舒適，雖然沒有專門的育兒裝置，但仍是個適合各類家庭輕鬆餐敘的空間。",
+    "ai_summary": "目前沒有明顯的專屬育兒設備資訊，但似乎仍是一般用餐的選項。",
     "signals": []
   },
   {
@@ -661,8 +614,10 @@ const restaurantData = [
       "spacious_seating": false,
       "kid_noise_tolerant": false
     },
-    "ai_summary": "Soshow Bar & Restaurant 的用餐氣氛舒適，雖然沒有專門的育兒裝置，但仍是個適合各類家庭輕鬆餐敘的空間。",
-    "signals": []
+    "ai_summary": "目前沒有明顯的專屬育兒設備資訊，但似乎仍是一般用餐的選項。",
+    "signals": [
+      "店員對小朋友友善"
+    ]
   },
   {
     "name": "臺灣夯BAR串燒烤小店",
@@ -675,7 +630,7 @@ const restaurantData = [
       "spacious_seating": false,
       "kid_noise_tolerant": false
     },
-    "ai_summary": "臺灣夯BAR串燒烤小店 的用餐氣氛舒適，雖然沒有專門的育兒裝置，但仍是個適合各類家庭輕鬆餐敘的空間。",
+    "ai_summary": "目前沒有明顯的專屬育兒設備資訊，但似乎仍是一般用餐的選項。",
     "signals": []
   },
   {
@@ -689,10 +644,8 @@ const restaurantData = [
       "spacious_seating": true,
       "kid_noise_tolerant": false
     },
-    "ai_summary": "MA CAFE 用餐環境相當寬敞，就算推著嬰兒車進出也很順暢。",
-    "signals": [
-      "寬敞空間"
-    ]
+    "ai_summary": "空間看似較為寬敞，整體環境可能對帶小孩的家庭較友善。",
+    "signals": []
   },
   {
     "name": "HAIR SALON BISTRO餐酒館",
@@ -705,7 +658,7 @@ const restaurantData = [
       "spacious_seating": false,
       "kid_noise_tolerant": false
     },
-    "ai_summary": "HAIR SALON BISTRO餐酒館 的用餐氣氛舒適，雖然沒有專門的育兒裝置，但仍是個適合各類家庭輕鬆餐敘的空間。",
+    "ai_summary": "目前沒有明顯的專屬育兒設備資訊，但似乎仍是一般用餐的選項。",
     "signals": []
   },
   {
@@ -719,11 +672,9 @@ const restaurantData = [
       "spacious_seating": true,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "別處咖啡 Away cafe 店內空間大且對小朋友的吵鬧聲也很包容，氛圍輕鬆自在。",
+    "ai_summary": "空間似乎寬敞且對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
     "signals": [
-      "寬敞空間",
-      "童噪友善",
-      "提供畫具"
+      "店員對小朋友友善"
     ]
   },
   {
@@ -737,10 +688,8 @@ const restaurantData = [
       "spacious_seating": false,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "疆毒串烤-南京店 這家店的氣氛對小孩比較包容，就算小朋友稍微活潑一點也沒關係。",
-    "signals": [
-      "童噪友善"
-    ]
+    "ai_summary": "氛圍可能對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
+    "signals": []
   },
   {
     "name": "威尼斯義大利餐廳",
@@ -753,11 +702,8 @@ const restaurantData = [
       "spacious_seating": true,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "威尼斯義大利餐廳 店內空間大且對小朋友的吵鬧聲也很包容，氛圍輕鬆自在。",
-    "signals": [
-      "寬敞空間",
-      "童噪友善"
-    ]
+    "ai_summary": "空間似乎寬敞且對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
+    "signals": []
   },
   {
     "name": "甲蟲秘境",
@@ -770,12 +716,10 @@ const restaurantData = [
       "spacious_seating": true,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "這裡貼心準備了嬰兒椅與兒童餐，對帶小孩的爸媽來說非常方便，店內空間大且對小朋友的吵鬧聲也很包容，氛圍輕鬆自在，非常推薦給正在尋找親子餐廳的您。",
+    "ai_summary": "餐廳提供嬰兒椅與兒童餐，空間似乎寬敞且對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
     "signals": [
-      "嬰兒椅",
-      "兒童餐",
-      "寬敞空間",
-      "童噪友善"
+      "似乎有遊戲區",
+      "店員對小朋友友善"
     ]
   },
   {
@@ -789,8 +733,10 @@ const restaurantData = [
       "spacious_seating": false,
       "kid_noise_tolerant": false
     },
-    "ai_summary": "心味酒餚居酒屋 的用餐氣氛舒適，雖然沒有專門的育兒裝置，但仍是個適合各類家庭輕鬆餐敘的空間。",
-    "signals": []
+    "ai_summary": "目前沒有明顯的專屬育兒設備資訊，但似乎仍是一般用餐的選項。",
+    "signals": [
+      "店員對小朋友友善"
+    ]
   },
   {
     "name": "ALL DAY ROASTING COMPANY 民生店",
@@ -803,11 +749,8 @@ const restaurantData = [
       "spacious_seating": true,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "ALL DAY ROASTING COMPANY 民生店 店內空間大且對小朋友的吵鬧聲也很包容，氛圍輕鬆自在。",
-    "signals": [
-      "寬敞空間",
-      "童噪友善"
-    ]
+    "ai_summary": "空間似乎寬敞且對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
+    "signals": []
   },
   {
     "name": "加爾第咖啡 (莊敬店)",
@@ -820,9 +763,9 @@ const restaurantData = [
       "spacious_seating": true,
       "kid_noise_tolerant": false
     },
-    "ai_summary": "加爾第咖啡 (莊敬店) 用餐環境相當寬敞，就算推著嬰兒車進出也很順暢。",
+    "ai_summary": "空間看似較為寬敞，整體環境可能對帶小孩的家庭較友善。",
     "signals": [
-      "寬敞空間"
+      "店員對小朋友友善"
     ]
   },
   {
@@ -836,11 +779,10 @@ const restaurantData = [
       "spacious_seating": true,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "這裡提供專屬兒童餐，是個適合帶孩子來用餐的好選擇，店內空間大且對小朋友的吵鬧聲也很包容，氛圍輕鬆自在，非常推薦給正在尋找親子餐廳的您。",
+    "ai_summary": "餐廳有提供兒童餐，空間似乎寬敞且對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
     "signals": [
-      "兒童餐",
-      "寬敞空間",
-      "童噪友善"
+      "氣氛可能較輕鬆",
+      "店員對小朋友友善"
     ]
   },
   {
@@ -854,11 +796,8 @@ const restaurantData = [
       "spacious_seating": true,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "聚聚樂 店內空間大且對小朋友的吵鬧聲也很包容，氛圍輕鬆自在。",
-    "signals": [
-      "寬敞空間",
-      "童噪友善"
-    ]
+    "ai_summary": "空間似乎寬敞且對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
+    "signals": []
   },
   {
     "name": "松果院子(午晚餐最後點餐時間：15:50/19:50)",
@@ -871,11 +810,8 @@ const restaurantData = [
       "spacious_seating": true,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "松果院子(午晚餐最後點餐時間：15:50/19:50) 店內空間大且對小朋友的吵鬧聲也很包容，氛圍輕鬆自在。",
-    "signals": [
-      "寬敞空間",
-      "童噪友善"
-    ]
+    "ai_summary": "空間似乎寬敞且對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
+    "signals": []
   },
   {
     "name": "Ho'me廚房&親子友善餐廳",
@@ -888,11 +824,11 @@ const restaurantData = [
       "spacious_seating": true,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "這裡提供專屬兒童餐，是個適合帶孩子來用餐的好選擇，店內空間大且對小朋友的吵鬧聲也很包容，氛圍輕鬆自在，非常推薦給正在尋找親子餐廳的您。",
+    "ai_summary": "餐廳有提供兒童餐，空間似乎寬敞且對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
     "signals": [
-      "兒童餐",
-      "寬敞空間",
-      "童噪友善"
+      "似乎有遊戲區",
+      "氣氛可能較輕鬆",
+      "店員對小朋友友善"
     ]
   },
   {
@@ -906,13 +842,8 @@ const restaurantData = [
       "spacious_seating": true,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "這裡貼心準備了嬰兒椅與兒童餐，對帶小孩的爸媽來說非常方便，店內空間大且對小朋友的吵鬧聲也很包容，氛圍輕鬆自在，非常推薦給正在尋找親子餐廳的您。",
-    "signals": [
-      "嬰兒椅",
-      "兒童餐",
-      "寬敞空間",
-      "童噪友善"
-    ]
+    "ai_summary": "餐廳提供嬰兒椅與兒童餐，空間似乎寬敞且對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
+    "signals": []
   },
   {
     "name": "咖啡學人-傑克威爾 The Cafeist & Jackwell",
@@ -925,10 +856,8 @@ const restaurantData = [
       "spacious_seating": false,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "咖啡學人-傑克威爾 The Cafeist & Jackwell 這家店的氣氛對小孩比較包容，就算小朋友稍微活潑一點也沒關係。",
-    "signals": [
-      "童噪友善"
-    ]
+    "ai_summary": "氛圍可能對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
+    "signals": []
   },
   {
     "name": "CAFEPRO職人咖啡商行敦化店",
@@ -941,9 +870,9 @@ const restaurantData = [
       "spacious_seating": true,
       "kid_noise_tolerant": false
     },
-    "ai_summary": "CAFEPRO職人咖啡商行敦化店 用餐環境相當寬敞，就算推著嬰兒車進出也很順暢。",
+    "ai_summary": "空間看似較為寬敞，整體環境可能對帶小孩的家庭較友善。",
     "signals": [
-      "寬敞空間"
+      "店員對小朋友友善"
     ]
   },
   {
@@ -957,11 +886,9 @@ const restaurantData = [
       "spacious_seating": true,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "這裡備有嬰兒椅，用餐環境對孩子十分友善，店內空間大且對小朋友的吵鬧聲也很包容，氛圍輕鬆自在，非常推薦給正在尋找親子餐廳的您。",
+    "ai_summary": "餐廳有提供嬰兒椅，空間似乎寬敞且對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
     "signals": [
-      "嬰兒椅",
-      "寬敞空間",
-      "童噪友善"
+      "氣氛可能較輕鬆"
     ]
   },
   {
@@ -975,11 +902,8 @@ const restaurantData = [
       "spacious_seating": false,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "這裡提供專屬兒童餐，是個適合帶孩子來用餐的好選擇，這家店的氣氛對小孩比較包容，就算小朋友稍微活潑一點也沒關係，非常推薦給正在尋找親子餐廳的您。",
-    "signals": [
-      "兒童餐",
-      "童噪友善"
-    ]
+    "ai_summary": "餐廳有提供兒童餐，氛圍可能對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
+    "signals": []
   },
   {
     "name": "茉莉漢堡",
@@ -992,11 +916,9 @@ const restaurantData = [
       "spacious_seating": true,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "這裡提供專屬兒童餐，是個適合帶孩子來用餐的好選擇，店內空間大且對小朋友的吵鬧聲也很包容，氛圍輕鬆自在，非常推薦給正在尋找親子餐廳的您。",
+    "ai_summary": "餐廳有提供兒童餐，空間似乎寬敞且對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
     "signals": [
-      "兒童餐",
-      "寬敞空間",
-      "童噪友善"
+      "常見家庭客人"
     ]
   },
   {
@@ -1010,10 +932,9 @@ const restaurantData = [
       "spacious_seating": false,
       "kid_noise_tolerant": true
     },
-    "ai_summary": "The Cup Coffee House 臺北 這家店的氣氛對小孩比較包容，就算小朋友稍微活潑一點也沒關係。",
+    "ai_summary": "氛圍可能對小朋友的聲音較為包容，整體環境可能對帶小孩的家庭較友善。",
     "signals": [
-      "童噪友善",
-      "店員親切"
+      "店員對小朋友友善"
     ]
   }
 ];

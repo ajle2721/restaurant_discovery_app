@@ -1,6 +1,7 @@
 // State Management
 const state = {
     filters: new Set(),
+    locations: new Set(), // Empty means "全區"
     selectedRestaurant: null,
     view: 'home'
 };
@@ -29,6 +30,15 @@ const floatShareBtn = document.getElementById('float-share');
 const detailShareBtn = document.getElementById('share-detail');
 const shareResultsBtn = document.getElementById('share-results');
 const toast = document.getElementById('toast');
+const locationText = document.getElementById('location-text');
+
+// Modal Elements
+const openLocationModalBtn = document.getElementById('open-location-modal');
+const locationModal = document.getElementById('location-modal');
+const closeLocationModalBtn = document.getElementById('close-location-modal');
+const confirmLocationBtn = document.getElementById('confirm-location');
+const locAllBtn = document.getElementById('loc-all');
+const locChips = document.querySelectorAll('.loc-chip');
 
 // Filter parameter mapping
 const paramToAttr = {
@@ -68,6 +78,48 @@ function setupEventListeners() {
         });
     });
 
+    // Location Modal Events
+    if (openLocationModalBtn) {
+        openLocationModalBtn.addEventListener('click', () => {
+            locationModal.classList.add('active');
+        });
+    }
+
+    const closeModal = () => {
+        locationModal.classList.remove('active');
+        updateLocationText();
+        renderList();
+        updateUrl();
+    };
+
+    if (closeLocationModalBtn) closeLocationModalBtn.addEventListener('click', closeModal);
+    if (confirmLocationBtn) confirmLocationBtn.addEventListener('click', closeModal);
+    if (locationModal) {
+        locationModal.addEventListener('click', (e) => {
+            if (e.target === locationModal) closeModal();
+        });
+    }
+
+    // Location Selection Logic
+    if (locAllBtn) {
+        locAllBtn.addEventListener('click', () => {
+            state.locations.clear();
+            updateModalUI();
+        });
+    }
+
+    locChips.forEach(chip => {
+        chip.addEventListener('click', () => {
+            const loc = chip.dataset.loc;
+            if (state.locations.has(loc)) {
+                state.locations.delete(loc);
+            } else {
+                state.locations.add(loc);
+            }
+            updateModalUI();
+        });
+    });
+
     // Navigation
     backHomeBtn.addEventListener('click', () => switchView('home'));
 
@@ -85,6 +137,10 @@ function renderList() {
     restaurantList.innerHTML = '';
 
     const filteredData = restaurantData.filter(res => {
+        if (state.locations.size > 0) {
+            const hasMatch = Array.from(state.locations).some(loc => res.address.includes(loc));
+            if (!hasMatch) return false;
+        }
         if (state.filters.size === 0) return true;
         return Array.from(state.filters).every(f => res.attributes[f] === true);
     });
@@ -145,8 +201,42 @@ function renderEmptyState() {
     `;
 }
 
+function updateModalUI() {
+    if (state.locations.size === 0) {
+        locAllBtn.classList.add('active');
+        locChips.forEach(c => c.classList.remove('active'));
+    } else {
+        locAllBtn.classList.remove('active');
+        locChips.forEach(c => {
+            if (state.locations.has(c.dataset.loc)) {
+                c.classList.add('active');
+            } else {
+                c.classList.remove('active');
+            }
+        });
+    }
+}
+
+function updateLocationText() {
+    if (!locationText) return;
+    
+    if (state.locations.size === 0) {
+        locationText.textContent = '台北市 · 全區';
+    } else if (state.locations.size === 1) {
+        locationText.textContent = Array.from(state.locations)[0];
+    } else if (state.locations.size === 2) {
+        locationText.textContent = Array.from(state.locations).join('、');
+    } else {
+        const first = Array.from(state.locations)[0];
+        locationText.textContent = `${first}等 ${state.locations.size} 區`;
+    }
+}
+
 window.clearFilters = () => {
     state.filters.clear();
+    state.locations.clear();
+    updateModalUI();
+    updateLocationText();
     document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
     renderList();
     updateUrl();
@@ -165,7 +255,7 @@ function showDetail(restaurant) {
     let signalsHtml = '';
     if (restaurant.signals && restaurant.signals.length > 0) {
         signalsHtml = `
-            <div style="font-weight: 700; margin-top: 1.5rem; margin-bottom: 0.75rem; color: var(--text-muted);">根據評論提及：</div>
+            <div style="font-weight: 700; margin-top: 1.5rem; margin-bottom: 0.75rem; color: var(--text-muted);">評論線索（來自最多5則評論）</div>
             <ul style="list-style: none; padding-left: 0; margin-bottom: 1.5rem;">
                 ${restaurant.signals.map(s => `<li style="font-size: 0.9rem; color: var(--text-main); margin-bottom: 0.4rem; display: flex; align-items: center; gap: 0.5rem;">● ${s}</li>`).join('')}
             </ul>
@@ -183,7 +273,7 @@ function showDetail(restaurant) {
         </div>
 
         <div class="ai-summary" style="margin-bottom: 1.5rem;">
-            <div class="ai-summary-title">✨ 小手 AI 評價摘要</div>
+            <div class="ai-summary-title">AI整理的親子用餐資訊</div>
             <div class="ai-summary-text">${restaurant.ai_summary}</div>
         </div>
 
@@ -220,6 +310,10 @@ function updateUrl() {
         if (param) params.set(param, '1');
     });
 
+    if (state.locations.size > 0) {
+        params.set('loc', Array.from(state.locations).join(','));
+    }
+
     if (state.view === 'detail' && state.selectedRestaurant) {
         params.set('r', state.selectedRestaurant.name);
     }
@@ -250,6 +344,17 @@ function checkUrlParams() {
             if (chip) chip.classList.add('active');
         });
     }
+
+    // Support location param
+    const locParam = params.get('loc');
+    if (locParam) {
+        locParam.split(',').forEach(loc => {
+            if (loc) state.locations.add(loc.trim());
+        });
+        updateModalUI();
+        updateLocationText();
+    }
+
     renderList();
 
     const restaurantParam = params.get('r');

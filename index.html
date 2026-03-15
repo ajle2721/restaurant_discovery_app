@@ -16,9 +16,9 @@
         <header>
             <h1>小手找食</h1>
             <p class="subtitle">台北親子餐廳一鍵搜，爸媽輕鬆吃</p>
-            <div class="location-selector">
+            <div class="location-selector" id="open-location-modal">
                 <span>📍</span>
-                <span>台北市 · 全區</span>
+                <span id="location-text">台北市 · 全區</span>
                 <span style="margin-left: auto;">▼</span>
             </div>
         </header>
@@ -69,6 +69,37 @@
     </div>
 
     <div id="toast" class="toast">連結已複製到剪貼簿！</div>
+
+    <!-- Location Modal -->
+    <div id="location-modal" class="modal-backdrop">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 class="modal-title">選擇行政區</h3>
+                <button class="modal-close" id="close-location-modal">×</button>
+            </div>
+            
+            <button class="loc-btn active" id="loc-all">台北市 · 全區</button>
+            
+            <div class="loc-chips-grid">
+                <div class="loc-chip" data-loc="中山區">中山區</div>
+                <div class="loc-chip" data-loc="中正區">中正區</div>
+                <div class="loc-chip" data-loc="信義區">信義區</div>
+                <div class="loc-chip" data-loc="內湖區">內湖區</div>
+                <div class="loc-chip" data-loc="北投區">北投區</div>
+                <div class="loc-chip" data-loc="南港區">南港區</div>
+                <div class="loc-chip" data-loc="士林區">士林區</div>
+                <div class="loc-chip" data-loc="大同區">大同區</div>
+                <div class="loc-chip" data-loc="大安區">大安區</div>
+                <div class="loc-chip" data-loc="文山區">文山區</div>
+                <div class="loc-chip" data-loc="松山區">松山區</div>
+                <div class="loc-chip" data-loc="萬華區">萬華區</div>
+            </div>
+            
+            <div class="modal-actions">
+                <button class="btn btn-primary" id="confirm-location" style="width: 100%;">確認</button>
+            </div>
+        </div>
+    </div>
 
     <!-- Data and App Logic -->
     <script src="data.js"></script>
