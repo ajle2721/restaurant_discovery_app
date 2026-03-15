@@ -1,0 +1,129 @@
+{
+  "id": "ChIJ7-iV4NmpQjQR0aadctCL7hk",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2381 0070",
+  "formattedAddress": "100台灣臺北市中正區忠孝西路一段122號",
+  "location": {
+    "latitude": 25.0473878,
+    "longitude": 121.51093709999999
+  },
+  "rating": 4.6,
+  "websiteUri": "https://getcoffeeclub.com/",
+  "userRatingCount": 363,
+  "displayName": {
+    "text": "咖啡俱樂部 COFFEE CLUB",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ7-iV4NmpQjQR0aadctCL7hk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4aE5FdDVkakpFWlVwSWRWbGtURGd0ZUVKbmNHYxAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 5,
+      "text": {
+        "text": "找到幾年前的照片，可惜北門最近在整修，不然景觀更美。咖啡很香、甜點美味、服務親切，嫩蛋起司帕里尼是我的最愛！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "找到幾年前的照片，可惜北門最近在整修，不然景觀更美。咖啡很香、甜點美味、服務親切，嫩蛋起司帕里尼是我的最愛！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "史提胖",
+        "uri": "https://www.google.com/maps/contrib/105712246521685665275/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWd2W_wPBJqQIJgQDA85cCRRzf2hlWra8j8Jq0kUV9no573Bxnd=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-30T14:56:52.744606180Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4aE5FdDVkakpFWlVwSWRWbGtURGd0ZUVKbmNHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4aE5FdDVkakpFWlVwSWRWbGtURGd0ZUVKbmNHYxAB!2m1!1s0x3442a9d9e095e8ef:0x19ee8bd0729da6d1"
+    },
+    {
+      "name": "places/ChIJ7-iV4NmpQjQR0aadctCL7hk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25waGNUVnpTMnR1ZUVsRlFuRm1iMFpXVlhKMWMzYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "自從北門改善之後，這裡變得寧靜許多，再也聽不到喧鬧的車水馬龍的聲音，彷彿置身於另一個結界，給人一種鬧中取靜的感覺，坐在北門前，第一排座位，啜飲一杯手沖香濃的咖啡，看著車來人往，就像在閱讀一本故事書，道盡北門興盛繁榮與塵埃落定！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "自從北門改善之後，這裡變得寧靜許多，再也聽不到喧鬧的車水馬龍的聲音，彷彿置身於另一個結界，給人一種鬧中取靜的感覺，坐在北門前，第一排座位，啜飲一杯手沖香濃的咖啡，看著車來人往，就像在閱讀一本故事書，道盡北門興盛繁榮與塵埃落定！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Julio",
+        "uri": "https://www.google.com/maps/contrib/101740278175789644289/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXjQOzUDhO03dHyt2AmpjhqQLbVQt3bWq_qXCDDmdbHr3lH8p6C-Q=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-09-29T12:00:16.801842617Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25waGNUVnpTMnR1ZUVsRlFuRm1iMFpXVlhKMWMzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25waGNUVnpTMnR1ZUVsRlFuRm1iMFpXVlhKMWMzYxAB!2m1!1s0x3442a9d9e095e8ef:0x19ee8bd0729da6d1"
+    },
+    {
+      "name": "places/ChIJ7-iV4NmpQjQR0aadctCL7hk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paWVpqUmxWRXhSVjFnMVlqRXRXbEoxVFhORWNFRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "單看店面以為很大一間 實際上小小的\n比較適合小歇一下 不是給你坐著聊八卦的哈哈哈\n比較驚艷的是 很少看到有茶味的巴斯克～\n珍珠伯爵巴斯克很推！😍喜歡\n飲料配點心可以折50元 有優惠讚讚！\n\n收現金",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "單看店面以為很大一間 實際上小小的\n比較適合小歇一下 不是給你坐著聊八卦的哈哈哈\n比較驚艷的是 很少看到有茶味的巴斯克～\n珍珠伯爵巴斯克很推！😍喜歡\n飲料配點心可以折50元 有優惠讚讚！\n\n收現金",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Frieda",
+        "uri": "https://www.google.com/maps/contrib/114541978699737127116/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWVmv4r_aIhEdxiPxo-HTkEH3UEsZm6xO43ZSedPQhxHbHrPcj=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-06-29T14:09:52.811206254Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paWVpqUmxWRXhSVjFnMVlqRXRXbEoxVFhORWNFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paWVpqUmxWRXhSVjFnMVlqRXRXbEoxVFhORWNFRRAB!2m1!1s0x3442a9d9e095e8ef:0x19ee8bd0729da6d1"
+    },
+    {
+      "name": "places/ChIJ7-iV4NmpQjQR0aadctCL7hk/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBc1BPNW93RRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "大年初一的早餐！有蛇財有得！蛇來蛇去，蛇🐍去喝杯咖啡，咖啡店的老板英文很好哦，店裡幾乎都是外國人，來電訂咖啡也都講英文啦！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "大年初一的早餐！有蛇財有得！蛇來蛇去，蛇🐍去喝杯咖啡，咖啡店的老板英文很好哦，店裡幾乎都是外國人，來電訂咖啡也都講英文啦！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chen Sakana",
+        "uri": "https://www.google.com/maps/contrib/110399276340471184399/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXMAcWsRRcJX-Shu6hgkkdRKzma2pwhmrUs5XMoWfB2WUihZIRnNQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-01-29T02:40:04.857372Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBc1BPNW93RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBc1BPNW93RRAB!2m1!1s0x3442a9d9e095e8ef:0x19ee8bd0729da6d1"
+    },
+    {
+      "name": "places/ChIJ7-iV4NmpQjQR0aadctCL7hk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wTmRtdFlPSFZ2YVd0NGNHUldPRGhUVms0d1JGRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "早上突然想喝西西里咖啡，於是路過買了一杯外帶。雖然價位偏高，但真的很好喝！！是在台北少數能喝到好喝的西西里咖啡",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "早上突然想喝西西里咖啡，於是路過買了一杯外帶。雖然價位偏高，但真的很好喝！！是在台北少數能喝到好喝的西西里咖啡",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林岑鍀",
+        "uri": "https://www.google.com/maps/contrib/106962371822672788905/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUfXN_3UaNeMQ__7-hS36rk7Y7qRyesVy7z6lGHrbIAnw3Ij4eD=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-08-03T02:02:28.618385206Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wTmRtdFlPSFZ2YVd0NGNHUldPRGhUVms0d1JGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wTmRtdFlPSFZ2YVd0NGNHUldPRGhUVms0d1JGRRAB!2m1!1s0x3442a9d9e095e8ef:0x19ee8bd0729da6d1"
+    }
+  ]
+}

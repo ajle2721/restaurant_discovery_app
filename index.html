@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+    <title>小手找食 - 台北親子餐廳搜尋</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="home-view" class="view active">
+        <header>
+            <h1>小手找食</h1>
+            <p class="subtitle">台北親子餐廳一鍵搜，爸媽輕鬆吃</p>
+            <div class="location-selector">
+                <span>📍</span>
+                <span>台北市 · 全區</span>
+                <span style="margin-left: auto;">▼</span>
+            </div>
+        </header>
+
+        <section class="filter-section">
+            <div class="filters-grid">
+                <div class="filter-chip" data-filter="high_chair_available">
+                    <span class="filter-icon">🪑</span>
+                    <span>嬰兒椅</span>
+                </div>
+                <div class="filter-chip" data-filter="kids_menu">
+                    <span class="filter-icon">🥘</span>
+                    <span>兒童餐</span>
+                </div>
+                <div class="filter-chip" data-filter="spacious_seating">
+                    <span class="filter-icon">🛋️</span>
+                    <span>寬敞座位</span>
+                </div>
+                <div class="filter-chip" data-filter="kid_noise_tolerant">
+                    <span class="filter-icon">🥳</span>
+                    <span>童噪友善</span>
+                </div>
+            </div>
+            <button id="share-results" class="btn btn-outline"
+                style="margin-top: 1rem; width: 100%; border-color: var(--secondary); color: var(--secondary);">
+                <span>🔗</span> 分享目前搜尋結果
+            </button>
+        </section>
+
+        <main id="restaurant-list" class="results-container">
+            <!-- Results will be injected here -->
+        </main>
+
+        <button id="float-share" class="fab">
+            <span>🔗</span>
+        </button>
+    </div>
+
+    <div id="detail-view" class="view">
+        <nav class="detail-header">
+            <button class="back-btn" id="back-home">←</button>
+            <div style="font-weight: 700; color: var(--text-muted);">餐廳詳情</div>
+            <button class="back-btn" id="share-detail">📤</button>
+        </nav>
+        <div id="detail-content" class="detail-content">
+            <!-- Detail content will be injected here -->
+        </div>
+    </div>
+
+    <div id="toast" class="toast">連結已複製到剪貼簿！</div>
+
+    <!-- Data and App Logic -->
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
+
+</html>

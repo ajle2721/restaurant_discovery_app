@@ -1,0 +1,27 @@
+{
+    "High chair available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Stroller accessible": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "座位不多卻很舒服自在",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "No",
+        "evidence": "精緻可愛的咖啡館...雖然只是一個咖啡廳卻很有高級感",
+        "confidence": 0.7
+    }
+}

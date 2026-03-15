@@ -1,0 +1,27 @@
+{
+    "High chair available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Stroller accessible": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "看我們東西多說要不然幫你們換到4人座位",
+        "confidence": 0.7
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "這家是寵物友善餐廳🍴 用心及貼心的店家！",
+        "confidence": 0.7
+    }
+}

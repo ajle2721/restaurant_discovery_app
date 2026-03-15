@@ -1,0 +1,121 @@
+{
+  "id": "ChIJLU4r6jurQjQRrr44krDtxuY",
+  "types": [
+    "coffee_shop",
+    "brunch_restaurant",
+    "vegetarian_restaurant",
+    "bicycle_store",
+    "cafe",
+    "sporting_goods_store",
+    "dessert_shop",
+    "confectionery",
+    "food_store",
+    "manufacturer",
+    "restaurant",
+    "food",
+    "store",
+    "event_venue",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2545 6680",
+  "formattedAddress": "105台灣臺北市松山區健康路8巷5號1樓",
+  "location": {
+    "latitude": 25.0523384,
+    "longitude": 121.5529739
+  },
+  "rating": 4.8,
+  "websiteUri": "https://www.facebook.com/TheGatheringCafe.TGC",
+  "userRatingCount": 157,
+  "displayName": {
+    "text": "齊客咖啡 The Gathering Cafe",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJLU4r6jurQjQRrr44krDtxuY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wc01Xd3dXRFZ1WmpkTmNFMDNOblZPUTBaNmExRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "打拋豬肉飯套餐\n洋蔥爆炒牛肉套餐\n附美式咖啡水果\n餐點現點現做。讚👍👍\n美式太濃不愛（冰熱都喝過）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "打拋豬肉飯套餐\n洋蔥爆炒牛肉套餐\n附美式咖啡水果\n餐點現點現做。讚👍👍\n美式太濃不愛（冰熱都喝過）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "載浮載沉的大頭美女",
+        "uri": "https://www.google.com/maps/contrib/111209166831744436590/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUubi7pSx70HIVDFs81Ip7UGcyiWeaog5yheX3x07zS99sBzQ8=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-08T14:19:11.724105647Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wc01Xd3dXRFZ1WmpkTmNFMDNOblZPUTBaNmExRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wc01Xd3dXRFZ1WmpkTmNFMDNOblZPUTBaNmExRRAB!2m1!1s0x3442ab3bea2b4e2d:0xe6c6edb09238beae"
+    },
+    {
+      "name": "places/ChIJLU4r6jurQjQRrr44krDtxuY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aYVMxcHhiRTlKVG05eFNGSlFlbE5KTkdrNFIyYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "有素食菜單👍但咖啡不愛\n松山整復KO酸麻脹痛卡\n可搜尋：金松深層鬆筋膜",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "有素食菜單👍但咖啡不愛\n松山整復KO酸麻脹痛卡\n可搜尋：金松深層鬆筋膜",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "李廣漢",
+        "uri": "https://www.google.com/maps/contrib/114144756791544250649/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIQdiqy5AGGOcc-Ag3-NDH8oGhlGvwBYs4X7KBSbrXT59ohUA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-30T13:22:05.665754845Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aYVMxcHhiRTlKVG05eFNGSlFlbE5KTkdrNFIyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aYVMxcHhiRTlKVG05eFNGSlFlbE5KTkdrNFIyYxAB!2m1!1s0x3442ab3bea2b4e2d:0xe6c6edb09238beae"
+    },
+    {
+      "name": "places/ChIJLU4r6jurQjQRrr44krDtxuY/reviews/ChZDSUhNMG9nS0VJQ0FnTURRdXVTRUVREAE",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 5,
+      "text": {
+        "text": "舒肥雞胸沙拉220\n附美式咖啡100（可補差價）\n不但好吃而且健康，半熟的水煮蛋搭配香脆的堅果還有生菜以及舒肥雞再淋上油，份量不算大，但價格合理\n\n洛神花茶（補差價+30）\n可回沖，不甜但很香，很順口，偏酸\n\n柚香金萱茶（補差價+30）\n可回沖，不甜但很香，也很順口\n\n蘋果派 140\n老闆自製，限定版，不是每次都有\n真的非常好吃，內餡的蘋果+肉桂澎湃，超級香甜好吃，皮不是特別脆但也不軟，剛剛好，強力推薦\n\n巧克力布朗尼 110\n老闆自製，含冰淇淋一球\n熱騰騰的巧克力布朗尼內有著滿滿堅果，吃起來香軟可口，搭配冰涼的冰淇淋，可以在沾上旁邊的甜甜巧克力醬，真的很經典，但不喜甜的自行衡量\n\n老奶奶檸檬蛋糕 100\n老闆自製\n個人覺得比外面的都大片，而且很適合不喜歡太甜的人，酸甜的檸檬香在灑上檸檬皮後香味又更上一層樓，口感軟綿，好吃\n\n店家服務超級好，而且環境整潔舒適，讓人很放鬆，適合和家人朋友去聊天小聚，超推他們的甜點，而且不用服務費",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "舒肥雞胸沙拉220\n附美式咖啡100（可補差價）\n不但好吃而且健康，半熟的水煮蛋搭配香脆的堅果還有生菜以及舒肥雞再淋上油，份量不算大，但價格合理\n\n洛神花茶（補差價+30）\n可回沖，不甜但很香，很順口，偏酸\n\n柚香金萱茶（補差價+30）\n可回沖，不甜但很香，也很順口\n\n蘋果派 140\n老闆自製，限定版，不是每次都有\n真的非常好吃，內餡的蘋果+肉桂澎湃，超級香甜好吃，皮不是特別脆但也不軟，剛剛好，強力推薦\n\n巧克力布朗尼 110\n老闆自製，含冰淇淋一球\n熱騰騰的巧克力布朗尼內有著滿滿堅果，吃起來香軟可口，搭配冰涼的冰淇淋，可以在沾上旁邊的甜甜巧克力醬，真的很經典，但不喜甜的自行衡量\n\n老奶奶檸檬蛋糕 100\n老闆自製\n個人覺得比外面的都大片，而且很適合不喜歡太甜的人，酸甜的檸檬香在灑上檸檬皮後香味又更上一層樓，口感軟綿，好吃\n\n店家服務超級好，而且環境整潔舒適，讓人很放鬆，適合和家人朋友去聊天小聚，超推他們的甜點，而且不用服務費",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "南蓁",
+        "uri": "https://www.google.com/maps/contrib/106926686517641147941/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUMkbkuzDDtIjyLQr2GdEOKWjzKBDLj208bJFZV42GNntDNYOnmqw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-03-10T15:53:04.933891Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRdXVTRUVREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRdXVTRUVREAE!2m1!1s0x3442ab3bea2b4e2d:0xe6c6edb09238beae"
+    },
+    {
+      "name": "places/ChIJLU4r6jurQjQRrr44krDtxuY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfNU5ubVdnEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "從外面經過時,本來以為是自行車行,沒想到裡面是有好吃餐點的咖啡廳~",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "從外面經過時,本來以為是自行車行,沒想到裡面是有好吃餐點的咖啡廳~",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Gill Tu",
+        "uri": "https://www.google.com/maps/contrib/114816972365757580234/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUtP3nsOdMcNXFKz4zMP06JafKuBxEYEoFV8DObexXig87QFWwh=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-01-13T03:34:14.532330Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfNU5ubVdnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfNU5ubVdnEAE!2m1!1s0x3442ab3bea2b4e2d:0xe6c6edb09238beae"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+    "High chair available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Stroller accessible": {
+        "result": "No",
+        "evidence": "店內主要是吧檯和兩人座",
+        "confidence": 0.7
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "坐在靠近門口的吧台位",
+        "confidence": 0.8
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "No",
+        "evidence": "店內主要是吧檯 and 兩人座",
+        "confidence": 0.7
+    }
+}

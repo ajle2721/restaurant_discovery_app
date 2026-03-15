@@ -1,0 +1,129 @@
+{
+  "id": "ChIJzf1Z-L-rQjQRJJ2JbvfGubs",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2506 2768",
+  "formattedAddress": "104台灣臺北市中山區長春路238號",
+  "location": {
+    "latitude": 25.0545479,
+    "longitude": 121.53819600000001
+  },
+  "rating": 4.2,
+  "userRatingCount": 294,
+  "displayName": {
+    "text": "麥味登 北市合江店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJzf1Z-L-rQjQRJJ2JbvfGubs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGbGRUUmpiMmgyTUZscU1ucENOSGR6ZWxWTVNHYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 2,
+      "text": {
+        "text": "一樣的連鎖店，該店份量真的小很多！！！\n那個雞胸肉小到我認為這隻雞營養不良🙃\n看到臉都綠了…\n麵體超乾硬…🤢\n原本只想給1⭐️，1⭐️是看在飲料有買一送一的份上🙂",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一樣的連鎖店，該店份量真的小很多！！！\n那個雞胸肉小到我認為這隻雞營養不良🙃\n看到臉都綠了…\n麵體超乾硬…🤢\n原本只想給1⭐️，1⭐️是看在飲料有買一送一的份上🙂",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Mo Ni",
+        "uri": "https://www.google.com/maps/contrib/108546857936335476196/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXiztOHYrNn3h4RO9gc6oZgYxxCPW5f6VhfEzi8ptpfYZRK8YMr=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-10-03T02:27:57.234722071Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGbGRUUmpiMmgyTUZscU1ucENOSGR6ZWxWTVNHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGbGRUUmpiMmgyTUZscU1ucENOSGR6ZWxWTVNHYxAB!2m1!1s0x3442abbff859fdcd:0xbbb9c6f76e899d24"
+    },
+    {
+      "name": "places/ChIJzf1Z-L-rQjQRJJ2JbvfGubs/reviews/Ci9DQUlRQUNvZENodHljRjlvT25BM2VsWk1Ubk01Ukd4dk5sWmxkV000VmtkblNVRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "用APP點餐外帶，訂單包含鮪魚握蛋捲餅和德腸握蛋捲餅，\n回家才發現做成兩份鮪魚握蛋捲餅，很傷心🥲，這不是我期待的口味呀。\n然後捲餅餅皮真的太油，豆皮蛋餅又太溼太水了...\n\nAPP上也找不到地方反應...",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "用APP點餐外帶，訂單包含鮪魚握蛋捲餅和德腸握蛋捲餅，\n回家才發現做成兩份鮪魚握蛋捲餅，很傷心🥲，這不是我期待的口味呀。\n然後捲餅餅皮真的太油，豆皮蛋餅又太溼太水了...\n\nAPP上也找不到地方反應...",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "一瓦",
+        "uri": "https://www.google.com/maps/contrib/100771684337772862929/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXA9QL7Xho7w5qRp-97D727a3rwO4I_FvnpNa36Y70hz8JtDHlG=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-07-27T06:23:47.459227592Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25BM2VsWk1Ubk01Ukd4dk5sWmxkV000VmtkblNVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25BM2VsWk1Ubk01Ukd4dk5sWmxkV000VmtkblNVRRAB!2m1!1s0x3442abbff859fdcd:0xbbb9c6f76e899d24"
+    },
+    {
+      "name": "places/ChIJzf1Z-L-rQjQRJJ2JbvfGubs/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WUVNXWk5WRkV5V214ak0wbGZjREpHZUhOT1gwRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 1,
+      "text": {
+        "text": "我是叫uber eat，訂單餐點裡有一份豬里肌捲餅，送來的東西裡面的豬肉完全沒熟，店家給的反應是剛剛太忙，忙沒差我可以接受店家不接我訂單，肉一整片熟沒熟難道看不出來嗎?我真的覺得太誇張了!",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "我是叫uber eat，訂單餐點裡有一份豬里肌捲餅，送來的東西裡面的豬肉完全沒熟，店家給的反應是剛剛太忙，忙沒差我可以接受店家不接我訂單，肉一整片熟沒熟難道看不出來嗎?我真的覺得太誇張了!",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "王兆立",
+        "uri": "https://www.google.com/maps/contrib/117449630065146800989/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIP8i9cu_FYr_fPuD7HDLylq73hqp64eueD0G30MxluzVzuzw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-10-30T02:47:19.232157357Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WUVNXWk5WRkV5V214ak0wbGZjREpHZUhOT1gwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WUVNXWk5WRkV5V214ak0wbGZjREpHZUhOT1gwRRAB!2m1!1s0x3442abbff859fdcd:0xbbb9c6f76e899d24"
+    },
+    {
+      "name": "places/ChIJzf1Z-L-rQjQRJJ2JbvfGubs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOMldscE5RVTV1VFVabmNtRm9UM1p0VkY5UVpuYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 2,
+      "text": {
+        "text": "打開餐盒這樣賣$190我簡直不敢相信⋯\n那個沙拉的種類跟份量跟圖片差異未免太大\n我可以接受ubereat點餐價格會比較高\n但是也不能差的那麼離譜啊～～～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "打開餐盒這樣賣$190我簡直不敢相信⋯\n那個沙拉的種類跟份量跟圖片差異未免太大\n我可以接受ubereat點餐價格會比較高\n但是也不能差的那麼離譜啊～～～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "jessie shen",
+        "uri": "https://www.google.com/maps/contrib/110369601131103983457/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV0q2CBimUmG7jpsRORGVLViEgRAxFZvhKWEVkLqnwaCYNurGQ=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-09-05T05:04:09.305729560Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOMldscE5RVTV1VFVabmNtRm9UM1p0VkY5UVpuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOMldscE5RVTV1VFVabmNtRm9UM1p0VkY5UVpuYxAB!2m1!1s0x3442abbff859fdcd:0xbbb9c6f76e899d24"
+    },
+    {
+      "name": "places/ChIJzf1Z-L-rQjQRJJ2JbvfGubs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKYVpFdFZOa3BVTWpWalFucHdOR3BGT0RWTlIwRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 2,
+      "text": {
+        "text": "2025.9\n時蔬豆皮蛋餅60\n豆皮蛋餅一打開 滿滿黑胡椒鹽\n上面那一層非常鹹 吃了應該會口渴 鈉含量爆表 索性不吃\n裡面是玉米粒跟花椰菜碎\n整體不難吃 但這胡椒沒辦法接受",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2025.9\n時蔬豆皮蛋餅60\n豆皮蛋餅一打開 滿滿黑胡椒鹽\n上面那一層非常鹹 吃了應該會口渴 鈉含量爆表 索性不吃\n裡面是玉米粒跟花椰菜碎\n整體不難吃 但這胡椒沒辦法接受",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Claire L",
+        "uri": "https://www.google.com/maps/contrib/112667832029117603840/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJb-4z3dupvakysnuCjZ7u775ky_6_41WHkmODRkdwhbMw2IA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-05T02:14:13.780832605Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKYVpFdFZOa3BVTWpWalFucHdOR3BGT0RWTlIwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKYVpFdFZOa3BVTWpWalFucHdOR3BGT0RWTlIwRRAB!2m1!1s0x3442abbff859fdcd:0xbbb9c6f76e899d24"
+    }
+  ]
+}

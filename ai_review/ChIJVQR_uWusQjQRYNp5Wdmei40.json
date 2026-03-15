@@ -1,0 +1,27 @@
+{
+    "High chair available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Stroller accessible": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "玩得很開心，也不會擁擠",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": "食物口味有清淡的選擇",
+        "confidence": 0.8
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "親子友善餐廳...我女兒一到店裡就開心玩遊戲室",
+        "confidence": 1.0
+    }
+}

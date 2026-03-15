@@ -1,0 +1,27 @@
+{
+    "High chair available": {
+        "result": "Yes",
+        "evidence": "挺適合兩歲多的孩子",
+        "confidence": 0.8
+    },
+    "Stroller accessible": {
+        "result": "Yes",
+        "evidence": "空間很寬敞，很適合親子聚會",
+        "confidence": 0.9
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "空間很大適合多人聚餐",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": "本來想點兔子咖喱飯...那既然開親子餐廳",
+        "confidence": 0.9
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "不過小孩真的太多了，所以周圍很吵鬧，很適合帶孩子來用餐",
+        "confidence": 1.0
+    }
+}

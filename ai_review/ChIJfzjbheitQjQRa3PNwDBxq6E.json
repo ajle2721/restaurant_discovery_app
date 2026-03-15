@@ -1,0 +1,27 @@
+{
+    "High chair available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Stroller accessible": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "主打原肉鮮切乾式熟成牛排",
+        "confidence": 0.8
+    },
+    "kid_noise_tolerant": {
+        "result": "No",
+        "evidence": "很適合節日、紀念日，與朋友和另一半好好慶祝一下",
+        "confidence": 0.9
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "High chair available": {
+        "result": "Yes",
+        "evidence": "夢幻旋轉木馬親子餐廳",
+        "confidence": 1.0
+    },
+    "Stroller accessible": {
+        "result": "Yes",
+        "evidence": "佔地很大，所有的小朋友都玩瘋了",
+        "confidence": 0.9
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "室內空間非常大.而且很舒適",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": "除了兒童餐，還有寶寶泥跟寶寶粥",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "如果喜歡小朋友 不怕孩子們吵的話，用餐體驗滿分囉",
+        "confidence": 1.0
+    }
+}

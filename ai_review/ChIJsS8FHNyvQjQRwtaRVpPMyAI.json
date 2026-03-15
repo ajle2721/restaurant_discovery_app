@@ -1,0 +1,27 @@
+{
+    "High chair available": {
+        "result": "Yes",
+        "evidence": "親子友善有尿布台",
+        "confidence": 1.0
+    },
+    "Stroller accessible": {
+        "result": "Yes",
+        "evidence": "店內環境明亮，設計的很用心",
+        "confidence": 0.8
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "環境整體感還不錯...有適合家庭聚餐的大圓桌",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": "最好吃的是甲蟲鬆餅...兒童餐覺得實在是太迷你",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "親子餐廳類型，會稍微「熱鬧」",
+        "confidence": 1.0
+    }
+}

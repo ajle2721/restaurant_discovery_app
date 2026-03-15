@@ -1,0 +1,135 @@
+{
+  "id": "ChIJvdWMGY2rQjQRjF3SNuha2Tw",
+  "types": [
+    "italian_restaurant",
+    "brunch_restaurant",
+    "coffee_shop",
+    "cafe",
+    "food_store",
+    "restaurant",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2765 0386",
+  "formattedAddress": "105台灣臺北市松山區富錦街449號",
+  "location": {
+    "latitude": 25.0609334,
+    "longitude": 121.56160799999999
+  },
+  "rating": 4.2,
+  "websiteUri": "http://www.r-pinecone.com/",
+  "userRatingCount": 2284,
+  "displayName": {
+    "text": "松果院子(午晚餐最後點餐時間：15:50/19:50)",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJvdWMGY2rQjQRjF3SNuha2Tw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oeGNuWTVaMDFqVUVsd2VGVkJRVjlSVkZkUFMwRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "松果院子位於民生社區富錦街，是一家從外觀就散發溫馨氣息的小餐廳。推門而入，木質的裝潢搭配暖色系的燈光，營造出一種非常有情調又舒適的氛圍，很適合朋友聚會或情侶約會。\n\n這次我點了三道餐點：招牌泰式海鮮手工麵、唐揚雞沙拉，以及干貝烏魚子燉飯。泰式海鮮手工麵其實沒有特別強烈的泰式風味，但整體融合得非常舒服，帶一點微辣和番茄的清爽感，配上能完整包裹醬汁的寬麵，口感相當討喜。唐揚雞則是本次用餐的驚喜，外皮酥脆、內裡多汁，味道偏甜但完全不膩，甚至讓人忍不住想像，若是開一個專門賣唐揚雞的小攤位，肯定會大排長龍。至於干貝烏魚子燉飯，烏魚子的存在感稍弱，必須細嚼才能在口腔中釋放出香氣，不過整體味道溫潤，不會過鹹，搭配干貝的鮮味，仍然相當和諧。\n\n整體來說，松果院子帶來的是一種恰到好處的舒適與美味，沒有過分張揚，卻讓人吃得安心愉快。這是一家讓人想再訪的小餐館，下次一定會再來試試其他菜色。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "松果院子位於民生社區富錦街，是一家從外觀就散發溫馨氣息的小餐廳。推門而入，木質的裝潢搭配暖色系的燈光，營造出一種非常有情調又舒適的氛圍，很適合朋友聚會或情侶約會。\n\n這次我點了三道餐點：招牌泰式海鮮手工麵、唐揚雞沙拉，以及干貝烏魚子燉飯。泰式海鮮手工麵其實沒有特別強烈的泰式風味，但整體融合得非常舒服，帶一點微辣和番茄的清爽感，配上能完整包裹醬汁的寬麵，口感相當討喜。唐揚雞則是本次用餐的驚喜，外皮酥脆、內裡多汁，味道偏甜但完全不膩，甚至讓人忍不住想像，若是開一個專門賣唐揚雞的小攤位，肯定會大排長龍。至於干貝烏魚子燉飯，烏魚子的存在感稍弱，必須細嚼才能在口腔中釋放出香氣，不過整體味道溫潤，不會過鹹，搭配干貝的鮮味，仍然相當和諧。\n\n整體來說，松果院子帶來的是一種恰到好處的舒適與美味，沒有過分張揚，卻讓人吃得安心愉快。這是一家讓人想再訪的小餐館，下次一定會再來試試其他菜色。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "吳秉軒（Kevin）",
+        "uri": "https://www.google.com/maps/contrib/107684658551577184176/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJoQLLzpnS68O0VYoaItASfD5-vaKjUuuuy8mRE1T995xrpwA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-17T03:48:45.391967185Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oeGNuWTVaMDFqVUVsd2VGVkJRVjlSVkZkUFMwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oeGNuWTVaMDFqVUVsd2VGVkJRVjlSVkZkUFMwRRAB!2m1!1s0x3442ab8d198cd5bd:0x3cd95ae836d25d8c"
+    },
+    {
+      "name": "places/ChIJvdWMGY2rQjQRjF3SNuha2Tw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SU1RsODBMVUU0WW0xTFEwVlpjRVU0WWw4eVlXYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 3,
+      "text": {
+        "text": "是個好聊天的地方~ 炸雞沙拉好吃但炸雞也太少了吧😂\n味道是不錯的，但份量太小吃不飽所以先給三星",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "是個好聊天的地方~ 炸雞沙拉好吃但炸雞也太少了吧😂\n味道是不錯的，但份量太小吃不飽所以先給三星",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Xin Ho",
+        "uri": "https://www.google.com/maps/contrib/113740663467431546332/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLM6rsgyqmeHmt_33Hh6crTbbfc9ztnvhvesf8n8s684L4LMQ=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-24T16:04:02.225917830Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SU1RsODBMVUU0WW0xTFEwVlpjRVU0WWw4eVlXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SU1RsODBMVUU0WW0xTFEwVlpjRVU0WWw4eVlXYxAB!2m1!1s0x3442ab8d198cd5bd:0x3cd95ae836d25d8c"
+    },
+    {
+      "name": "places/ChIJvdWMGY2rQjQRjF3SNuha2Tw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paUlNGcEhkRjlGY0ZveWVXWmtOblkzVkdsTllsRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "手工麵真的口感很好吃\n餐廳環境很棒，非常適合2-4人的聚餐\n炸雞沙拉是最推薦的一道，炸雞調味跟一般不同，肉質也軟嫩，搭配沙拉吃很不錯。\n泰式海鮮麵，味道不會很重，醬汁巴著麵條，因此味道很濃郁。\n南瓜鮮蔬麵味道就比較淡了，也有可能是因為先吃了炸雞沙拉跟泰式，所以會覺得比較淡😅\n整體用餐感覺是不錯的，所以會推薦2-4人的聚餐",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "手工麵真的口感很好吃\n餐廳環境很棒，非常適合2-4人的聚餐\n炸雞沙拉是最推薦的一道，炸雞調味跟一般不同，肉質也軟嫩，搭配沙拉吃很不錯。\n泰式海鮮麵，味道不會很重，醬汁巴著麵條，因此味道很濃郁。\n南瓜鮮蔬麵味道就比較淡了，也有可能是因為先吃了炸雞沙拉跟泰式，所以會覺得比較淡😅\n整體用餐感覺是不錯的，所以會推薦2-4人的聚餐",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Christopher Tsai",
+        "uri": "https://www.google.com/maps/contrib/115133242471333233408/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUiw4vsfs3nWspSDjQ-IvBzq_jcErMa1ukihAyD3JS3MTLWR9Rz=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-07-13T11:13:07.680929682Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paUlNGcEhkRjlGY0ZveWVXWmtOblkzVkdsTllsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paUlNGcEhkRjlGY0ZveWVXWmtOblkzVkdsTllsRRAB!2m1!1s0x3442ab8d198cd5bd:0x3cd95ae836d25d8c"
+    },
+    {
+      "name": "places/ChIJvdWMGY2rQjQRjF3SNuha2Tw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkM2IydE9WbEpJWTJaVU9UVnRRbWxGU1c5M04xRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "很舒服的一家咖啡廳\n植物系裝潢\n上餐速度滿快的\n假日有限時\n但沒客滿不會趕客人\n這點很不錯\n點餐+飲料可以折30\n餐點有加10%\n可以linepay結帳",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很舒服的一家咖啡廳\n植物系裝潢\n上餐速度滿快的\n假日有限時\n但沒客滿不會趕客人\n這點很不錯\n點餐+飲料可以折30\n餐點有加10%\n可以linepay結帳",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lin",
+        "uri": "https://www.google.com/maps/contrib/106130411138422956596/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKzGPAO2xeQTWTFKWn6OOc8B4B4EGNxHaHgmr-PBkfabZxWRvti=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-14T09:54:31.997730095Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkM2IydE9WbEpJWTJaVU9UVnRRbWxGU1c5M04xRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkM2IydE9WbEpJWTJaVU9UVnRRbWxGU1c5M04xRRAB!2m1!1s0x3442ab8d198cd5bd:0x3cd95ae836d25d8c"
+    },
+    {
+      "name": "places/ChIJvdWMGY2rQjQRjF3SNuha2Tw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKRWJIZGpYMVJ4VDFvMlRYcDJlRVprWDI5V1pGRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "唐揚雞沙拉很好吃！非常喜歡❤️\n但松露燉飯感覺沒有鹹味…\n松露味很濃 但少了鹹度有點水水的感覺\n另外有一位服務生的口氣偏微妙\n臉有點兇口氣沒有那麼好\n其他都很好👍🏻👍🏻👍🏻",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "唐揚雞沙拉很好吃！非常喜歡❤️\n但松露燉飯感覺沒有鹹味…\n松露味很濃 但少了鹹度有點水水的感覺\n另外有一位服務生的口氣偏微妙\n臉有點兇口氣沒有那麼好\n其他都很好👍🏻👍🏻👍🏻",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ravi",
+        "uri": "https://www.google.com/maps/contrib/110988856966194108291/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVjh9CXT9LvyXbnn3J2QbiBgPKYWMNICRSM_-nrOMYft1QeWXwe=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-29T13:14:15.328536345Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKRWJIZGpYMVJ4VDFvMlRYcDJlRVprWDI5V1pGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKRWJIZGpYMVJ4VDFvMlRYcDJlRVprWDI5V1pGRRAB!2m1!1s0x3442ab8d198cd5bd:0x3cd95ae836d25d8c"
+    }
+  ]
+}

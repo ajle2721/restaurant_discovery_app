@@ -1,0 +1,27 @@
+{
+    "High chair available": {
+        "result": "Yes",
+        "evidence": "不愧是親子餐廳",
+        "confidence": 1.0
+    },
+    "Stroller accessible": {
+        "result": "Yes",
+        "evidence": "對面是公園可以帶寵物、小孩、長輩放風",
+        "confidence": 0.9
+    },
+    "Spacious seating": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": "除了有兒童餐，特別的是還有提供「寶寶粥」呢！",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "內湖知名指標性親子餐廳...平日用餐時段人潮不斷",
+        "confidence": 1.0
+    }
+}
