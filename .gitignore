@@ -1,0 +1,22 @@
+# Secrets
+.env
+.env.txt
+GOOGLE_MAP_KEY
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+env/
+.env/
+
+# IDE
+.vscode/
+.idea/
+.gemini/
+
+# OS
+.DS_Store
+Thumbs.db
