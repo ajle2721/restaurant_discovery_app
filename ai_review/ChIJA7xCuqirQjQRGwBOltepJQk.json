@@ -11,7 +11,7 @@
     },
     "Spacious seating": {
         "result": "Yes",
-        "evidence": "位於台大辛亥路側門的早餐店，座位不少",
+        "evidence": "位於臺大辛亥路側門的早餐店，座位不少",
         "confidence": 0.8
     },
     "Kids menu available": {
@@ -21,7 +21,7 @@
     },
     "kid_noise_tolerant": {
         "result": "Yes",
-        "evidence": "小孩根本無法好好吃...位於台大辛亥路側門的早餐店，座位不少",
+        "evidence": "小孩根本無法好好吃...位於臺大辛亥路側門的早餐店，座位不少",
         "confidence": 0.8
     }
 }

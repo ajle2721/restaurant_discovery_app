@@ -1,7 +1,7 @@
 {
     "High chair available": {
         "result": "Yes",
-        "evidence": "親子友善有尿布台",
+        "evidence": "親子友善有尿布臺",
         "confidence": 1.0
     },
     "Stroller accessible": {
@@ -11,7 +11,7 @@
     },
     "Spacious seating": {
         "result": "Yes",
-        "evidence": "環境整體感還不錯...有適合家庭聚餐的大圓桌",
+        "evidence": "環境整體感還不錯...有適閤家庭聚餐的大圓桌",
         "confidence": 0.9
     },
     "Kids menu available": {
@@ -21,7 +21,7 @@
     },
     "kid_noise_tolerant": {
         "result": "Yes",
-        "evidence": "親子餐廳類型，會稍微「熱鬧」",
+        "evidence": "親子餐廳型別，會稍微「熱鬧」",
         "confidence": 1.0
     }
 }
