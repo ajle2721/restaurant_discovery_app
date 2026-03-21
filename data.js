@@ -10,7 +10,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：室內座位舒適且空間寬敞）",
+    "ai_summary": "整體來看，座位空間不擁擠，用餐節奏比較放鬆，對家庭客人來說會比較方便。",
     "signals": [
       "室內座位舒適且空間寬敞"
     ],
@@ -34,7 +34,7 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前看起來親子相關資訊不多，建議先向店家確認。",
     "signals": [],
     "place_id": "ChIJ13WfAXupQjQRPSGT92Z0z88",
     "formatted_address": "100臺灣臺北市中正區忠孝東路二段64巷6號",
@@ -56,7 +56,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "從親子用餐角度來看，座位空間不擁擠，整體氛圍對孩子活動較能接受，帶小孩來用餐會比較輕鬆。",
     "signals": [],
     "place_id": "ChIJ39G4keGtQjQRd5mdfKmFUlA",
     "formatted_address": "114臺灣臺北市內湖區民權東路六段296巷56號",
@@ -78,7 +78,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：空間很大舒服乾淨整潔）",
+    "ai_summary": "這家咖啡廳座位空間不擁擠，用餐節奏比較放鬆，帶小孩來用餐相對輕鬆。",
     "signals": [
       "空間很大舒服乾淨整潔"
     ],
@@ -102,7 +102,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：十分熱門的咖啡店，親子友善 | 內裡挑高空間開闊）",
+    "ai_summary": "從親子用餐角度來看，座位空間不擁擠，整體氛圍對孩子活動較能接受，整體服務感受偏友善，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "十分熱門的咖啡店，親子友善",
       "內裡挑高空間開闊"
@@ -127,7 +127,7 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前親子條件較不明確，帶小孩前建議先確認現場情況。",
     "signals": [],
     "place_id": "ChIJ7-iV4NmpQjQR0aadctCL7hk",
     "formatted_address": "100臺灣臺北市中正區忠孝西路一段122號",
@@ -149,7 +149,7 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前看起來親子相關資訊不多，建議先向店家確認。",
     "signals": [],
     "place_id": "ChIJ8e4b2r2tQjQRR3LLK-OpD_4",
     "formatted_address": "114臺灣臺北市內湖區民權東路六段121之1號",
@@ -171,7 +171,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "以家庭聚餐需求來看，座位空間不擁擠，整體氛圍對孩子活動較能接受，帶小孩來用餐會比較輕鬆。",
     "signals": [],
     "place_id": "ChIJA7xCuqirQjQRGwBOltepJQk",
     "formatted_address": "106臺灣臺北市大安區辛亥路二段201號1樓",
@@ -193,7 +193,7 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：適合想簡單飽餐一頓的早晨✨）",
+    "ai_summary": "這家早午餐店整體氛圍對孩子活動較能接受，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "適合想簡單飽餐一頓的早晨✨"
     ],
@@ -217,7 +217,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "提供兒童餐、座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：用餐區域蠻寬大的，不會擁擠 | 兒童餐的車車造型小朋友很喜歡）",
+    "ai_summary": "這家餐廳有兒童餐可選，座位空間不擁擠，整體氛圍對孩子活動較能接受，另帶有遊戲或活動元素，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "用餐區域蠻寬大的，不會擁擠",
       "兒童餐的車車造型小朋友很喜歡"
@@ -242,7 +242,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：買了Q堡簡易套餐 | 無論速度。服務。餐點都非常棒）",
+    "ai_summary": "整體來看，座位空間不擁擠，整體氛圍對孩子活動較能接受，對家庭客人來說會比較方便。",
     "signals": [
       "買了Q堡簡易套餐",
       "無論速度。服務。餐點都非常棒"
@@ -267,7 +267,7 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "提供兒童餐、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：我點了寶寶餐來吃）",
+    "ai_summary": "從親子用餐角度來看，有兒童餐可選，整體氛圍對孩子活動較能接受，帶小孩來用餐相對輕鬆。",
     "signals": [
       "我點了寶寶餐來吃"
     ],
@@ -291,7 +291,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "提供兒童餐、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：兒童慶生還有特別的佈置與蛋糕）",
+    "ai_summary": "這家餐廳有兒童餐可選，整體氛圍對孩子活動較能接受，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "兒童慶生還有特別的佈置與蛋糕"
     ],
@@ -315,7 +315,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "以家庭聚餐需求來看，座位空間不擁擠，整體氛圍對孩子活動較能接受，帶小孩來用餐會比較輕鬆。",
     "signals": [],
     "place_id": "ChIJd8JMXwKtQjQRtcgmBVKpiOs",
     "formatted_address": "114臺灣臺北市內湖區江南街71巷16弄32號",
@@ -337,7 +337,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：3樓較寬敞）",
+    "ai_summary": "這家餐廳座位空間不擁擠，整體氛圍對孩子活動較能接受，帶小孩來用餐相對輕鬆。",
     "signals": [
       "3樓較寬敞"
     ],
@@ -361,7 +361,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：生意很好！有許多組都在候位）",
+    "ai_summary": "這家餐廳整體氛圍對孩子活動較能接受，對家庭客人來說會比較方便。",
     "signals": [
       "生意很好！有許多組都在候位"
     ],
@@ -385,7 +385,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "提供嬰兒椅、提供兒童餐、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：不愧是親子餐廳）",
+    "ai_summary": "整體來看，有提供嬰兒椅，有兒童餐可選，整體氛圍對孩子活動較能接受，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "不愧是親子餐廳"
     ],
@@ -409,7 +409,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "整體來看，座位空間不擁擠，整體氛圍對孩子活動較能接受，帶小孩來用餐相對輕鬆。",
     "signals": [],
     "place_id": "ChIJFRwCvjitQjQRIUW3FrHbvlw",
     "formatted_address": "114臺灣臺北市內湖區江南街71巷16弄40號",
@@ -431,7 +431,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：提供包廂座位，空間溫暖舒服）",
+    "ai_summary": "這家餐廳座位空間不擁擠，用餐節奏比較放鬆，用來安排親子聚餐也滿合適。",
     "signals": [
       "提供包廂座位，空間溫暖舒服"
     ],
@@ -455,7 +455,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "提供兒童餐、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "從親子用餐角度來看，有兒童餐可選，整體氛圍對孩子活動較能接受，帶小孩來用餐會比較輕鬆。",
     "signals": [],
     "place_id": "ChIJhxfETbyuQjQRmD7M7JYcSXk",
     "formatted_address": "111臺灣臺北市士林區美崙街78號",
@@ -477,7 +477,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "整體來看，整體氛圍對孩子活動較能接受，對家庭客人來說會比較方便。",
     "signals": [],
     "place_id": "ChIJHZ56gp6uQjQRYaoc4dyx2lM",
     "formatted_address": "111臺灣臺北市士林區雨農路31號",
@@ -499,7 +499,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：環境跟桌距都很棒）",
+    "ai_summary": "從親子用餐角度來看，座位空間不擁擠，整體氛圍對孩子活動較能接受，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "環境跟桌距都很棒"
     ],
@@ -523,7 +523,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：挑高的空間搭配華麗的水晶吊燈）",
+    "ai_summary": "這家餐廳座位空間不擁擠，帶小孩來用餐相對輕鬆。",
     "signals": [
       "挑高的空間搭配華麗的水晶吊燈"
     ],
@@ -547,7 +547,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "這家咖啡廳整體氛圍對孩子活動較能接受，帶小孩來用餐會比較輕鬆。",
     "signals": [],
     "place_id": "ChIJLU4r6jurQjQRrr44krDtxuY",
     "formatted_address": "105臺灣臺北市松山區健康路8巷5號1樓",
@@ -569,7 +569,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "整體來看，整體氛圍對孩子活動較能接受，帶小孩來用餐相對輕鬆。",
     "signals": [],
     "place_id": "ChIJlVNfWeqrQjQRqO4OMZ0keZ4",
     "formatted_address": "105臺灣臺北市松山區南京東路四段162號",
@@ -591,7 +591,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "提供兒童餐、座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：點了兩份餐+兒童餐 | 用餐環境舒適，座位也很寬敞）",
+    "ai_summary": "整體來看，有兒童餐可選，座位空間不擁擠，整體氛圍對孩子活動較能接受，用餐節奏比較放鬆，帶小孩來用餐相對輕鬆。",
     "signals": [
       "點了兩份餐+兒童餐",
       "用餐環境舒適，座位也很寬敞"
@@ -616,7 +616,7 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：空間小客人講話幹擾大）",
+    "ai_summary": "以家庭聚餐需求來看，整體氛圍對孩子活動較能接受，對家庭客人來說會比較方便。",
     "signals": [
       "空間小客人講話幹擾大"
     ],
@@ -640,7 +640,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：聯名商品可愛）",
+    "ai_summary": "整體來看，整體氛圍對孩子活動較能接受，對家庭客人來說會比較方便。",
     "signals": [
       "聯名商品可愛"
     ],
@@ -664,7 +664,7 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "這家餐酒館整體氛圍對孩子活動較能接受，用來安排親子聚餐也滿合適。",
     "signals": [],
     "place_id": "ChIJMXDWhoWpQjQRJvXnYteR7xE",
     "formatted_address": "106臺灣臺北市大安區師大路49巷3號2樓",
@@ -686,7 +686,7 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "整體來看，整體氛圍對孩子活動較能接受，用來安排親子聚餐也滿合適。",
     "signals": [],
     "place_id": "ChIJN2UHYkCpQjQRwdxAiIhBEac",
     "formatted_address": "104臺灣臺北市中山區撫順街9號",
@@ -708,7 +708,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：環境舒適，座位空間不擁擠）",
+    "ai_summary": "從親子用餐角度來看，座位空間不擁擠，整體氛圍對孩子活動較能接受，用餐節奏比較放鬆，對家庭客人來說會比較方便。",
     "signals": [
       "環境舒適，座位空間不擁擠"
     ],
@@ -732,7 +732,7 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "以家庭聚餐需求來看，整體氛圍對孩子活動較能接受，帶小孩來用餐相對輕鬆。",
     "signals": [],
     "place_id": "ChIJO0Um2CmqQjQR1K5YldZ8Ibw",
     "formatted_address": "106臺灣臺北市大安區和平東路二段118巷38-1號",
@@ -754,7 +754,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "提供嬰兒椅、提供兒童餐、座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：空間很大適合多人聚餐 | 空間很寬敞，很適合親子聚會 | 挺適合兩歲多的孩子）",
+    "ai_summary": "以家庭聚餐需求來看，有提供嬰兒椅，有兒童餐可選，座位空間不擁擠，整體氛圍對孩子活動較能接受，帶小孩來用餐相對輕鬆。",
     "signals": [
       "空間很大適合多人聚餐",
       "空間很寬敞，很適合親子聚會",
@@ -780,7 +780,7 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "以家庭聚餐需求來看，整體氛圍對孩子活動較能接受，帶小孩來用餐會比較輕鬆。",
     "signals": [],
     "place_id": "ChIJO6GuZb6sQjQRpNEp6bTjfr8",
     "formatted_address": "114臺灣臺北市內湖區成功路五段420巷11號",
@@ -802,7 +802,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "提供嬰兒椅、提供兒童餐、座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：還有提供熱水、尿布臺 | 還有提供寶寶粥）",
+    "ai_summary": "以家庭聚餐需求來看，有提供嬰兒椅，有兒童餐可選，座位空間不擁擠，整體氛圍對孩子活動較能接受，也可見嬰幼兒照顧相關細節，對家庭客人來說會比較方便。",
     "signals": [
       "還有提供熱水、尿布臺",
       "還有提供寶寶粥"
@@ -827,7 +827,7 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "place_id": "ChIJoU4aSrSrQjQRcIkiMAukmFw",
     "formatted_address": "105臺灣臺北市松山區寧安街5巷2-8號",
@@ -849,7 +849,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家咖啡廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "place_id": "ChIJoV5Vt-CrQjQRX99q0bEVO_k",
     "formatted_address": "104臺灣臺北市中山區遼寧街146號",
@@ -871,7 +871,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "提供嬰兒椅、提供兒童餐、座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：室內空間非常大.而且很舒適 | 夢幻旋轉木馬親子餐廳）",
+    "ai_summary": "這家親子餐廳有提供嬰兒椅，有兒童餐可選，座位空間不擁擠，整體氛圍對孩子活動較能接受，用餐節奏比較放鬆，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "室內空間非常大.而且很舒適",
       "夢幻旋轉木馬親子餐廳"
@@ -896,7 +896,7 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "現有評論顯示，這家餐廳的親子友善訊號較少，若有明確需求，建議先向店家確認。",
     "signals": [],
     "place_id": "ChIJp7WiKXyrQjQRUaxE_f4nw0A",
     "formatted_address": "105臺灣臺北市松山區興安街192號",
@@ -918,7 +918,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "以目前可取得的資訊來看，這家餐廳較缺乏親子相關優勢，較適合事先確認座位與設備情況。",
     "signals": [],
     "place_id": "ChIJpdkbPm2pQjQR8IPxB9Jy8rI",
     "formatted_address": "2f, No. 47號中山北路一段中山區臺北市臺灣 104",
@@ -940,7 +940,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "place_id": "ChIJQ3o7S2SpQjQRe_XmRyh4OBY",
     "formatted_address": "10454臺灣臺北市中山區林森北路159巷4號",
@@ -962,7 +962,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "從親子用餐角度來看，座位空間不擁擠，帶小孩來用餐相對輕鬆。",
     "signals": [],
     "place_id": "ChIJQ6qFRCSrQjQRf5i_pjyKv0M",
     "formatted_address": "106臺灣臺北市大安區敦化南路二段11巷1號",
@@ -984,7 +984,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前未見明確的親子設施資訊，這家餐酒館是否適合帶小孩前往，仍需依現場環境評估。",
     "signals": [],
     "place_id": "ChIJq_1oDQmpQjQRlMaxMHpr3PU",
     "formatted_address": "108臺灣臺北市萬華區武昌街二段72號4樓",
@@ -1006,7 +1006,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：女兒還把貓貓哄睡了呢！ | 舒適放鬆的環境）",
+    "ai_summary": "從親子用餐角度來看，座位空間不擁擠，整體氛圍對孩子活動較能接受，用餐節奏比較放鬆，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "女兒還把貓貓哄睡了呢！",
       "舒適放鬆的環境"
@@ -1031,7 +1031,7 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "這家餐廳整體氛圍對孩子活動較能接受，帶小孩來用餐會比較輕鬆。",
     "signals": [],
     "place_id": "ChIJRe6azGGpQjQRFcbUze7j7IU",
     "formatted_address": "10491臺灣臺北市中山區南京東路二段214巷4號",
@@ -1053,7 +1053,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "以家庭聚餐需求來看，座位空間不擁擠，整體氛圍對孩子活動較能接受，對家庭客人來說會比較方便。",
     "signals": [],
     "place_id": "ChIJS-zNIF-pQjQR1vU1UjOlTM4",
     "formatted_address": "104臺灣臺北市中山區松江路235巷19號1樓",
@@ -1075,7 +1075,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "提供嬰兒椅、提供兒童餐、座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：店內環境明亮，設計的很用心 | 親子餐廳型別，會稍微「熱鬧」 | 親子友善有尿布臺）",
+    "ai_summary": "整體來看，有提供嬰兒椅，有兒童餐可選，座位空間不擁擠，整體氛圍對孩子活動較能接受，整體服務感受偏友善，用來安排親子聚餐也滿合適。",
     "signals": [
       "店內環境明亮，設計的很用心",
       "親子餐廳型別，會稍微「熱鬧」",
@@ -1101,7 +1101,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "現有評論顯示，這家餐廳的親子友善訊號較少，若有明確需求，建議先向店家確認。",
     "signals": [],
     "place_id": "ChIJsVHmQm6pQjQRykPNN0wJEd4",
     "formatted_address": "10491臺灣臺北市中山區中山北路一段37號",
@@ -1123,7 +1123,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：進門那片空間寬敞）",
+    "ai_summary": "這家餐廳座位空間不擁擠，整體氛圍對孩子活動較能接受，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "進門那片空間寬敞"
     ],
@@ -1147,7 +1147,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "以家庭聚餐需求來看，座位空間不擁擠，用來安排親子聚餐也滿合適。",
     "signals": [],
     "place_id": "ChIJTW_h3LSrQjQR1CQQteePjco",
     "formatted_address": "110臺灣臺北市信義區吳興街269巷1弄21號",
@@ -1169,7 +1169,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "提供兒童餐、座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "以家庭聚餐需求來看，有兒童餐可選，座位空間不擁擠，整體氛圍對孩子活動較能接受，帶小孩來用餐相對輕鬆。",
     "signals": [],
     "place_id": "ChIJU0O98aesQjQRXsDcaOW-mzw",
     "formatted_address": "115臺灣臺北市南港區經貿二路66之1號",
@@ -1191,7 +1191,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：場地寬敞且氛圍適合閒聊）",
+    "ai_summary": "整體來看，座位空間不擁擠，整體氛圍對孩子活動較能接受，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "場地寬敞且氛圍適合閒聊"
     ],
@@ -1215,7 +1215,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：適合2-4人的聚餐 | 是個好聊天的地方）",
+    "ai_summary": "這家餐廳座位空間不擁擠，整體氛圍對孩子活動較能接受，帶小孩來用餐相對輕鬆。",
     "signals": [
       "適合2-4人的聚餐",
       "是個好聊天的地方"
@@ -1240,7 +1240,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "提供兒童餐、座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：玩得很開心，也不會擁擠 | 食物口味有清淡的選擇）",
+    "ai_summary": "整體來看，有兒童餐可選，座位空間不擁擠，整體氛圍對孩子活動較能接受，用來安排親子聚餐也滿合適。",
     "signals": [
       "玩得很開心，也不會擁擠",
       "食物口味有清淡的選擇"
@@ -1265,7 +1265,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "提供嬰兒椅、提供兒童餐、座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：用餐環境寬敞及舒適 | 早午餐有多種選擇 | 樂雅樂餐廳）",
+    "ai_summary": "以家庭聚餐需求來看，有提供嬰兒椅，有兒童餐可選，座位空間不擁擠，整體氛圍對孩子活動較能接受，用餐節奏比較放鬆，對家庭客人來說會比較方便。",
     "signals": [
       "用餐環境寬敞及舒適",
       "早午餐有多種選擇",
@@ -1291,7 +1291,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：氛圍依舊獨特舒適）",
+    "ai_summary": "以家庭聚餐需求來看，整體氛圍對孩子活動較能接受，用餐節奏比較放鬆，用來安排親子聚餐也滿合適。",
     "signals": [
       "氛圍依舊獨特舒適"
     ],
@@ -1315,7 +1315,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：店內空間寬敞，氣氛平和）",
+    "ai_summary": "整體來看，座位空間不擁擠，用來安排親子聚餐也滿合適。",
     "signals": [
       "店內空間寬敞，氣氛平和"
     ],
@@ -1339,7 +1339,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "提供嬰兒椅、座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：適閤家庭聚餐的大圓桌 | 有適閤家庭聚餐的大圓桌）",
+    "ai_summary": "整體來看，有提供嬰兒椅，座位空間不擁擠，整體氛圍對孩子活動較能接受，用來安排親子聚餐也滿合適。",
     "signals": [
       "適閤家庭聚餐的大圓桌",
       "有適閤家庭聚餐的大圓桌"
@@ -1364,7 +1364,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "提供兒童餐、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：氣氛大眾化且隨興 | 一樣的連鎖店）",
+    "ai_summary": "這家餐廳有兒童餐可選，整體氛圍對孩子活動較能接受，帶小孩來用餐相對輕鬆。",
     "signals": [
       "氣氛大眾化且隨興",
       "一樣的連鎖店"
@@ -1389,7 +1389,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "提供兒童餐、座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：兒童餐的車車造型小朋友很喜歡）",
+    "ai_summary": "以家庭聚餐需求來看，有兒童餐可選，座位空間不擁擠，整體氛圍對孩子活動較能接受，另帶有遊戲或活動元素，帶小孩來用餐相對輕鬆。",
     "signals": [
       "兒童餐的車車造型小朋友很喜歡"
     ],
@@ -1413,7 +1413,7 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "這家咖啡廳整體氛圍對孩子活動較能接受，帶小孩來用餐相對輕鬆。",
     "signals": [],
     "place_id": "ChIJ__cnHACpQjQRqPOSGWdlHbI",
     "formatted_address": "104臺灣臺北市中山區長春路21號1樓",
@@ -1442,7 +1442,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "We didn't know what to expect... good places are usually not available at last second which we were able to make a reservation for...and when got there we were the only people there...\n\nBUT BOY WERE WE SURPRISED when the food we ordered made it's way to our table.  The server presented dish after dish and explained with excitement the ingredients and combinations!  The way he introduced the dishes really had us excited to try the dish.  As each dish arrived, we enjoyed and looked forward to the next one coming.  We ordered: Truffle Stuffed Fried Chicken Wings,  Char Siu Pork Ribs with Dark Plums, Szechuan Red Oil and Burrata Salad, Stinky Tofu Truffe \"in Memory of HK Shrimp Toast\" and the Braised Beef Trio with Tomato Salsa.  Each dish was very well prepared.  The flavour combinations were very tasty and kept us wanting more.\n\nThanks for the great service and experience.  We look forward to coming and trying other dishes!",
@@ -1468,7 +1468,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "從親子用餐角度來看，座位空間不擁擠，對家庭客人來說會比較方便。",
     "signals": [],
     "reviews": [
       "Urban Paradise truly lives up to its name. This bistro-style buffet offers an elevated dining experience that blends style, flavor, and atmosphere seamlessly. The space radiates good vibes—modern yet warm, making it the perfect spot for both casual gatherings and special occasions.\n\nThe food selection is outstanding, with a creative fusion of flavors that feels both familiar and refreshingly unique. Every dish I tried was delicious, beautifully plated, and thoughtfully crafted. The cocktails deserve a special mention—they are not only visually stunning but also perfectly balanced, easily some of the best I’ve had in Taipei.\n\nService was attentive and professional, adding to the overall polished experience without ever feeling intrusive. Urban Paradise strikes that rare balance of great food, amazing drinks, and inviting atmosphere. A must-visit if you’re in Taipei and looking for something truly memorable.",
@@ -1494,7 +1494,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家燒肉店的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Ok place to grab supper till past 12 midnight. Not the best of the best, but still quite alright. Not the best value for money, but it’s alright.\nThe food is fresh and wait staffs were very friendly, albeit very hard to communicate in English.\nOur server Yuan (長遠） tried his very best to accommodate us 😅😅😅.",
@@ -1520,7 +1520,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "The menu appears to include a variety of items but about half were unavailable when we visited for lunch, including #2 dishes the menu recommended. Disappointing. Our waiter was friendly and attentive, but had to double-check the menu and run to the kitchen twice while taking our order, so it felt like the kitchen wasn’t sure what they could actually make. Note that there’s a 10% service charge as well.\n\nWhat we ordered: Truffle chips (220 NTD) — these were excellent; Truffle Mushroom Chicken with cream (420 + 50 NTD) — I had this and it was delicious, the upgraded portion was just right for me; Stir-fried Mixed Seafood (470 + 50 NTD); and Paccheri Carbonara (370 NTD).\n\nThe food is very good, and worth the premium price. However, the inconsistent availability and what looked like poor kitchen management bring the experience down a notch. Highly recommended if you’re willing to spend a bit more, and hopefully they can improve the kitchen efficiency.",
@@ -1546,7 +1546,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "以家庭聚餐需求來看，整體氛圍對孩子活動較能接受，帶小孩來用餐會比較輕鬆。",
     "signals": [],
     "reviews": [
       "Nice casual dining place. Was looking for vegetarian options nearby the hotel and saw Miacucina. Portions are very generous (good for sharing between 2 smaller eaters). The pesto pasta was delicious! I wished there was more asparagus and mushrooms for the amount of noodles. Delish!",
@@ -1572,7 +1572,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：空間寬敞、氛圍好的音樂餐酒館）",
+    "ai_summary": "整體來看，座位空間不擁擠，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "空間寬敞、氛圍好的音樂餐酒館"
     ],
@@ -1600,7 +1600,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Was out for a walk, just looking for a drink and some light food. And a place to sit and work a little bit. I was so happy to find this place!  It was early, so it was fairly quiet which was perfect.\n\nI ended up eating more than I had planned because  the food looked great and I couldn't decide!\nI especially loved the kale salad, and fillet.  Fillet had roasted garlic  a pepper sauce, and fries on the side which was perfect.\nThe staff was also very friendly.  I could practice my very limited Chinese a little bit, but the staff speaks better English than I can speak Chinese, so they could always rescue me if I don't have the words!  I will add this to my list if must-gos when I am in town.",
@@ -1626,7 +1626,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Need to have reservations to go to this restaurant especially on holiday.  Luckily I go here weekdays and reserve a sit for 1 person on the day and it has vacant. This is not a fine dining experience and expect loud atmosphere especially some costumer already drunk. They have quick activities for fun like hollahoop show. I like also how the girls waitress serve and entertain you as foreigners.  They can speak English and I don't feel discriminated here.\n\nI ate alone with a good food and ambiance.  I reserve 22:00 and I got early in taipei so I move 21:30 in my reservations and have vacant seat for me.",
@@ -1652,7 +1652,7 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "The atmosphere is amazing and the cocktails even better! All the cocktails were fusions of classic cocktails with asian (taiwanese) style flavours, long island ice tea as melon ice tea! it's honestly one of the best in this trip",
@@ -1678,7 +1678,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Sinchao Rice Shoppe offers a refined spin on Taiwanese comfort food without losing its roots. The pork cutlet was perfectly crisp on the outside and juicy inside, well-seasoned and not overly greasy. The scallop rice with fish roe was a highlight: sweet, tender scallops paired with the savory roe, all sitting on fragrant rice that tied everything together beautifully.\n\nEven the tea cocktails were thoughtfully done, balanced and not overly sweet, which elevated the whole dining experience beyond just a rice shop.\n\nThe space feels modern yet warm, making it a great spot for a relaxed but quality meal in Taipei. Definitely worth a visit if you appreciate comfort food done with finesse.",
@@ -1704,7 +1704,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Lun Lun 1976 is one of the many restaurants in Xinyi SKM Mall A11, Taipei.  Online reservation is straightforward.  This Japanese restaurant stands out with its train-like façade and interior design.  The private cabins with different minimum charges are just as IG-able.  The minimum charge of the cabin which can accommodate up to 8 guests is NT$ 6,000 for lunch on a weekday.  Servers are patient and efficient.  Food is reasonably priced and of good quality.  Highly recommend the crispy Japanese-Style Deep Fried Chicken (NT$ 260), the refreshing Cold Beef Noodles with Sukiyaki Style (NT$ 320), and the flavorful Japanese-Style Taraba Crab Congee (NT$ 1,080) which is only available in October and November.",
@@ -1730,7 +1730,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：動線安排不擁擠）",
+    "ai_summary": "從親子用餐角度來看，座位空間不擁擠，整體氛圍對孩子活動較能接受，對家庭客人來說會比較方便。",
     "signals": [
       "動線安排不擁擠"
     ],
@@ -1758,7 +1758,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：友善提醒）",
+    "ai_summary": "以家庭聚餐需求來看，整體氛圍對孩子活動較能接受，整體服務感受偏友善，帶小孩來用餐相對輕鬆。",
     "signals": [
       "友善提醒"
     ],
@@ -1786,7 +1786,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：空間環境很寬敞）",
+    "ai_summary": "整體來看，座位空間不擁擠，整體氛圍對孩子活動較能接受，帶小孩來用餐相對輕鬆。",
     "signals": [
       "空間環境很寬敞"
     ],
@@ -1814,7 +1814,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐酒館的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "JK STUDIO dining experience is really first-class! The restaurant environment is elegant , and the lights are warm and comfortable, which is perfect for dating or celebrations. The food is exquisitely arranged and rich in flavors. From the appetizer to the main course, you can feel the chef’s thoughtfulness. The waiter is polite, so that you can enjoy your dinner easily. It‘s really worth recommending! ✨",
@@ -1840,7 +1840,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "🇵🇭A flavorful and well-balanced meal with bold seasoning and fresh ingredients. The crispy fish was the highlight, with great texture and a nice citrus kick. The stir-fries were aromatic and paired perfectly with rice. Generous portions and perfect for sharing — would definitely return😊",
@@ -1866,7 +1866,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：服務人員都滿友善親切的）",
+    "ai_summary": "整體來看，整體氛圍對孩子活動較能接受，整體服務感受偏友善，帶小孩來用餐相對輕鬆。",
     "signals": [
       "服務人員都滿友善親切的"
     ],
@@ -1894,7 +1894,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：但聽說晚上應該是比較熱鬧）",
+    "ai_summary": "整體來看，整體氛圍對孩子活動較能接受，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "但聽說晚上應該是比較熱鬧"
     ],
@@ -1922,7 +1922,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：店員基本上都滿友善的）",
+    "ai_summary": "以家庭聚餐需求來看，整體氛圍對孩子活動較能接受，整體服務感受偏友善，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "店員基本上都滿友善的"
     ],
@@ -1950,7 +1950,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：安排的座位很寬敞 | 當天算熱鬧不吵雜）",
+    "ai_summary": "從親子用餐角度來看，座位空間不擁擠，整體氛圍對孩子活動較能接受，用來安排親子聚餐也滿合適。",
     "signals": [
       "安排的座位很寬敞",
       "當天算熱鬧不吵雜"
@@ -1979,7 +1979,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：空間寬敞）",
+    "ai_summary": "以家庭聚餐需求來看，座位空間不擁擠，帶小孩來用餐相對輕鬆。",
     "signals": [
       "空間寬敞"
     ],
@@ -2007,7 +2007,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "We stumbled upon this restaurant while on holiday in Taipei and decided to give it a try for lunch. With only two of us, the waiter suggested the tasting menu for two, which proved to be an excellent choice. The food arrived promptly, and we were treated to a delightful culinary journey.\n\nThe dishes were expertly prepared, with standout options including the coffee pork ribs, which were fall-off-the-bone tender, and the rich, flavorful curry chicken with soft, juicy chicken thighs. The eggplant stir-fried with minced pork and chili was also a hit. While the Thai-style green papaya salad was a slight letdown due to the papaya being slightly underripe and hard, it didn't detract from the overall experience.\n\nThe set came with a unique and refreshing bottle of oolong tea infused with carbonated water, which was a lovely touch. What truly elevated our dining experience, however, was the exceptional service. The wait staff were attentive, checking in frequently to ensure everything met our expectations. The service was prompt and efficient, adding to the overall positive experience.\n\nOverall, we highly recommend this restaurant for its delicious food, unique offerings, and top-notch service. It's definitely worth a visit!",
@@ -2033,7 +2033,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "Ok so boom.  Here we are. Sitting down. No wait. They serve some nice little welcoming drink and snack.  And then averil Levine complicated comes on. Vibes. And then we order our food off the QR code. Not a big fan of QR codes. But the food was proper. The meat lava thing was pure buss down. The ox tongue is everything u could wish eating tongue would be. The fried cheese with honey is oddly satisfying. But if u get the ox tongue. Pair it with the fried cheese. Nice lil combo.  The staff is friendly and chill.  English friendly. And one of the chefs sings very well.  Will for sure come back. Ucit.",
@@ -2059,7 +2059,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "On the 4th floor with a view of 101 which is great, like the decor, high industrial ceiling.  Even with full occupancy, it was not noisy.  The style of lunch set, one main dish, three sides, rice and soup, nicely plated is popular among female, hence saw 90+% female customers.  Reasonably priced.  Enjoyed the vegetarian set.  Unfortunately though, the beef set was not as good, the beef was not of good quality.",
@@ -2085,7 +2085,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "Amazing cuisine with freshness!\nEntrees are awesome with squid and mushrooms, so delicious!\nMain course is stewed beef cheek with spinach risotto (it’s pesto flavor, so refreshing!) the beef is cooked very tender and flavorful.\nCan’t miss about the dessert, it’s earl grey tea flavor chiffon with fresh strawberries and whipped cream. Such a great match!",
@@ -2111,7 +2111,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "If Shin Yeh Taiwanese Cuisine did not exist, something essential in Taiwan’s culinary landscape would feel missing. This is the kind of food you continue to crave even when you are abroad—deeply comforting, unmistakably local, and rich with tradition. The A9 branch at Shin Kong Mitsukoshi Xinyi Place offers an especially refined experience. The restaurant serves a wide array of classic Taiwanese dishes, from time-honored banquet favorites to beloved home-style specialties, all prepared with consistency and care.\nThe atmosphere is elegant yet welcoming, making it suitable for both family gatherings and business meals. Compared with other Shin Yeh locations in Taipei, this branch feels the most polished and comfortable, with spacious seating and attentive service that never feels intrusive. It manages to preserve the warmth of traditional Taiwanese dining while presenting it in a modern, sophisticated setting.\nFor visitors who want to understand authentic Taiwanese cuisine—or for locals seeking a taste of home at its best—this location stands out as one of the finest representations of Shin Yeh’s legacy.",
@@ -2137,7 +2137,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：又是寵物友善... | 環境空間寬敞舒適）",
+    "ai_summary": "從親子用餐角度來看，座位空間不擁擠，整體氛圍對孩子活動較能接受，用餐節奏比較放鬆，用來安排親子聚餐也滿合適。",
     "signals": [
       "又是寵物友善...",
       "環境空間寬敞舒適"
@@ -2166,7 +2166,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：因為環境舒適、場地寬敞）",
+    "ai_summary": "整體來看，座位空間不擁擠，用餐節奏比較放鬆，帶小孩來用餐相對輕鬆。",
     "signals": [
       "因為環境舒適、場地寬敞"
     ],
@@ -2194,7 +2194,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "This place clearly knows how to play the high-end Japanese dining game, the kind where tweezers, smoke, and dramatic plating do most of the talking.\n\nThe setting is pleasant and polished, but don’t expect a jaw-drop moment. It’s nice… just not pause-and-take-a-photo-of-the-room nice. The real story is the fixed menu, which turned out to be a surprise, not necessarily the good kind. We were served a parade of meat cuts I would probably never order on my own, each one prepared with impressive technique, precision, and a lot of theatrical flair.\n\nAnd to be fair, the chefs work hard. Every piece of meat has its own method, timing, and ritual. You can feel the effort and craftsmanship. But somewhere between the camera-ready presentation and the last bite, the flavors didn’t quite keep up with the visuals. This is one of those meals where your phone eats better than you do.\n\nService, however, was genuinely excellent! Attentive, warm, and professional without being stiff. That part deserves real credit.\n\nPrices sit firmly at the high end, which would be easier to justify if the meat itself felt more special or indulgent. As it stands, it felt like paying premium prices for an experience that prioritizes concept and aesthetics over taste.\n\nWould I recommend it? Honestly… I’m on the fence. If you love culinary performances and Instagram moments, you might walk out happy. If you’re chasing unforgettable flavors, this one may leave you wondering what all the hype was about.",
@@ -2220,7 +2220,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "It’s a gem in Xinyi District, Taipei. The staff is courteous and food is beautifully presented.\nNot to mention that their NT$1380 teppan course offers A5 wagyu steak and lobster. Very impressive. Definitely will come back❤️",
@@ -2246,7 +2246,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前未見明確的親子設施資訊，這家日式餐廳是否適合帶小孩前往，仍需依現場環境評估。",
     "signals": [],
     "reviews": [
       "Great Japanese food near Da An park! Order the sashimi is super fresh. We had limited edition hotpot which taste good too",
@@ -2272,7 +2272,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "Unassuming little store recommended by our foodie cousin so we knew it would be amazing! It did not disappoint! Everything we had was so delicious! My favorite was the shrimp and asparagus hand roll. I’ve had many of these in my life but this was the best one by far with the crunchy texture inside. The crab/ikura/potato salad shell is a must order as well. The uni hand roll was sweet and not fishy. We were in love with the pork katsu Sando as well. The pork was super juicy and thick. I could barely bite it. I like that they offered katsu sauce or salt and pepper to season. It gave different flavors to the one dish. It’s enough for 2 to share and be quite satisfied. We will definitely be coming back!",
@@ -2298,7 +2298,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "food was mid , too pricey. the dessert was probably our best takeaway . anyways i think the pasta was not well cooked, had to chew for quite some time .\n\natmosphere was good though relaxing music and very nice for an anniversary night .",
@@ -2324,7 +2324,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Warm, homecoming environment with only eight seats -- really good choice for those who enjoys a quiet dining place. Dishes were served in perfect portions, house wine was good! Heard that they're gonna have a new menu in March!",
@@ -2350,7 +2350,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：整個桌面非常「熱鬧」）",
+    "ai_summary": "以家庭聚餐需求來看，整體氛圍對孩子活動較能接受，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "整個桌面非常「熱鬧」"
     ],
@@ -2378,7 +2378,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Basically taste like airplane food. Tiramisu was so bad. So hard n like a bread… clams n fish weren’t fresh too. Probably most of them are heat up foods but the prices is not heat up food price.\nMay be there was big crowds, it was extremely noisy and unable to talk.\n\nThe only good food i had today was Lasagna out of all..",
@@ -2404,7 +2404,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Overall food was nice but the portions would be a bit small for someone w a bigger appetite. All mains come w a bowl of rice and they said that u can ask for more if u want more. The food is served with nice plating and it’s really nice to have an open kitchen experience without all the smoke and oiliness.\nWe ordered the beef cheek, beef tongue, ratatouille, and pulled pork. The beef cheek was tender w nice gelatinous texture, which paired well w the savory n acidic red wine sauce. The beef tongue was super tender and the cocoa base sauce gave a curry like umami which was really nice and interesting. The mashed potato was very silky smooth. The touch of crispy onions was amazing! It added some flavor, texture, and fun vibrancy to the dishes. The pulled pork was very flavorful. Ratatouille was nice w the tomato base sauce n hot cream. The onsen egg was a really nice touch of creaminess. However, I think the veggies could’ve been more thick cut for more texture, juiciness, n freshness from the veggies themselves.",
@@ -2430,7 +2430,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：環境乾淨寬敞）",
+    "ai_summary": "以家庭聚餐需求來看，座位空間不擁擠，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "環境乾淨寬敞"
     ],
@@ -2458,7 +2458,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Decent overall. We weren't big fans of the fried veal but liked the fish and bread.",
@@ -2484,7 +2484,7 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "We had such a wonderful experience at Divino! From the moment we walked in, the staff was incredibly warm and welcoming. A special mention to Velma, who has always been the nicest friend and an absolutely amazing server. She took great care of us and gave us excellent suggestions throughout the meal.\n\nThe food was outstanding, we enjoyed perfectly cooked gnocchi, a delicious carbonara, and an amazing steak done just right. We finished with a beautiful panna cotta topped with a lovely red-fruit coulis. Everything was full of flavor and beautifully presented.\n\nOverall, a very memorable experience. Highly recommended! 🙌🍽️",
@@ -2510,7 +2510,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "I stayed at the Kimpton Da An Hotel and had breakfast at The Tavernist every morning — it was fantastic! The food was fresh and delicious, and the team was genuinely warm, attentive, and full of positive energy. You can really feel their great teamwork and hospitality. A wonderful way to start the day! Highly recommended.",
@@ -2536,7 +2536,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Got lucky on a weekend and went in solo. I say lucky because man it’s really crowded for brunch and dinner.\n\nAll the entree dishes here are on par with other high end brunch places. Presentation is great, portions are actually generous. Definitely a weekend splurge—but order ahead.\n\nHad the truffle bacon fries and beef tongue risotto. Loved the fries—first time I didn’t feel like I needed extra condiments to eat them.\n\nKnocked off a star for the risotto: Risotto didn’t completely absorb the stock and soften all the way through: grains were a little bit “dry hard” in the very center. To be explicit: it was undercooked, not “al dente”.\nCream Stew and balsamic glaze were really tasty and savory.",
@@ -2562,7 +2562,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "Reasonably priced Japanese restaurant. Overall food tasted pretty good, portion size was decent for the price.\nRestaurant can get a bit cramped for space, overall not a bad place for a quick meal.",
@@ -2588,7 +2588,7 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "I cannot speak Chinese. Their menu translates “pork pizza” in Chinese into “smoke salmon pizza” in English, so I got the wrong pizza. We were super hungry and in a hurry so I just accepted it. I pointed out the menu mistake to them and said, I’d just take it this time. Then that’s it. No apology nor any intention to take responsibility. It doesn’t seem like they were rude or anything, it seems like they were just young part-time kids who didn’t know what a decent restaurant should do.\n\nNote that they have a process of confirming the order with the customers. But again, I cannot understand Chinese. What’s the point …\n\nWe planned to take some home for our helper and she cannot eat pork so we had to buy sthg else for them. That pork pizza wasn’t good. It had some bone fractures in the minced pork, very disappointing. It took us 5 days to try to finish the food we didn’t like before we throw the rest away …",
@@ -2614,7 +2614,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "An exceptional dining experience and one of the highlights of my Taipei trip. From the very first bite, it was clear that this kitchen operates with precision, creativity, and discipline. The opening sequence — including a playful yet thoughtful edible “cork” — immediately established the restaurant’s confidence and sense of humor without drifting into gimmickry.\n\nEach course was carefully composed, beautifully presented, and thoughtfully paced. Flavors were refined, restrained, and purposeful, allowing technique and ingredients to shine. The ambiance was calm, elegant, and immersive, and the service attentive without ever being intrusive.\n\nThis is Michelin-level dining in the truest sense: originality grounded in craft, clarity of vision, and consistency throughout the meal. A destination restaurant I would gladly return to — and one that fully deserves continued recognition.",
@@ -2640,7 +2640,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "Great venue to book for a private lunch event. Very attentive staff and excellent food.",
@@ -2666,7 +2666,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Both the ribeye steak and lobster were fantastic! Portion of ribeye was big. Carrot soup was really amazing. I was looking forward to the Popovers but they tasted a tad underwhelming to me. Kids love the cream spinach. Garlic broccoli tasted fine.\nThe corn was very nice. Fries were good when they were hot but not so good when they turned cold.\n\nStaff were friendly and polite. Service is very good.\n\nRecommended to try it!",
@@ -2692,7 +2692,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：服務人員態度非常友善 | 這裡的座位配置寬敞舒適）",
+    "ai_summary": "整體來看，座位空間不擁擠，整體氛圍對孩子活動較能接受，整體服務感受偏友善，對家庭客人來說會比較方便。",
     "signals": [
       "服務人員態度非常友善",
       "這裡的座位配置寬敞舒適"
@@ -2721,7 +2721,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "Walked past and decided to try it given it has so many Michelin awards :)\n\nSuper attentive service and you can see how confident and proud the waiters are when they flash the light when we take photos of the food.\n\nThey had some interesting dishes and we enjoyed our experience.",
@@ -2747,7 +2747,7 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，這家義式餐廳在親子用餐條件上較不突出，帶小孩前往前可先確認現場安排。",
     "signals": [],
     "reviews": [
       "Nestled in Taipei, Trastevere proudly carries the legacy of Sabatini, a name synonymous with classic Roman dining since 1958. This connection, which even extends to the \"Sabatini\" stamp on the plates and bowls (a detail that initially seemed a touch curious), certainly sets a stage of anticipation. You settle in, thinking you're in for an authentic Roman holiday on a plate.\nOur group, in a noble quest for a comprehensive taste, made the bold decision to order basically the entirety of their set menu. A marathon of dishes ensued, a parade that showcased the breadth of their offerings. This approach, while ambitious (and requiring a good appetite!), gave us a thorough sampling.\nHowever, despite the impressive array and the clear nods to its Roman parentage, the food itself proved to be the most underwhelming chapter of our visit. When benchmarked against the truly authentic, soul-satisfying flavors one encounters in the trattorias and ristorantes of Rome itself, the dishes at Trastevere Taipei generally fell short. That spark, that depth of flavor that defines genuine Roman cuisine, seemed to be somewhat lost in translation.\nIt's a peculiar feeling to see the esteemed \"Sabatini\" name on your plate, a promise of quality and tradition, and then find the food doesn't quite sing the same glorious Roman opera. The ambition is there, the lineage is clear, but the execution, on this occasion, didn't transport us to the bustling, flavorful streets of Trastevere, Rome.\nThe Verdict:\nIf you're seeking a pleasant Italian-ish meal in Taipei with smart tableware, Trastevere might fit the bill. However, if you're chasing the robust, authentic taste of Rome and have high expectations based on its Sabatini connection, you might find, as we did, that the experience is a bit underwhelming. It's a restaurant with a famous Roman name, but it seems some of that Roman magic might have gotten a little jet-lagged on its way to Taipei. Maybe we are sad because we had high hope for this restaurant.",
@@ -2773,7 +2773,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "I celebrated my birthday with a friend here and had a really great time! Service was excellent - no complaints. The staff were all super courteous and made sure the explained all the dishes clearly to us. Atmosphere-wise, the lighting was a little too dark for my lighting but otherwise very comfortable. Now let's get to the food-we got the 9 course meal with 2 additional amouse bouches (not in menu). Wonderful flavors all around and interesting use of local ingredients and inventive flavor combinations and textures. The sourdough bread + beer butter and fermented chili butter was my fave, I wish there was a way to just buy it on its own!! Duck was fantastic except I wish the skin were crispy lol. On to the main - the wagyu was just.. ok for lack of a better term. It was wagyu alright but it was a bit too plain for my liking (not the restaurant's fault, maybe I have a less than refined taste in beef). Overall though still a wonderful meal and I would go here again but I'm looking forward to trying a different tasting menu. Cheers to Mume!",
@@ -2799,7 +2799,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "以家庭聚餐需求來看，整體氛圍對孩子活動較能接受，帶小孩來用餐相對輕鬆。",
     "signals": [],
     "reviews": [
       "Extreme good food alert!! Everything is cooked to perfection and with taste… quantities are reasonable and so is the price… I recommend to book though as it is getting packed quick!! I beg you to try the scallops and the squid as well as the 月見控肉飯",
@@ -2825,7 +2825,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "這家餐酒館整體氛圍對孩子活動較能接受，帶小孩來用餐相對輕鬆。",
     "signals": [],
     "reviews": [
       "Undoubtedly a hidden treasure in Minsheng Community! The drinks are truly delightful, and the fish and chips are delicious too! Out of the 6 drinks me and my family tried, we only described the desired feelings and flavors to the bartender for 3 of them, and the results were absolutely an enjoyable experience. Will definitely come back in the future!",
@@ -2851,7 +2851,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "It was by surprise a gem for me on my first morning back in Taipei, travelling alone seeking a break. The cafe situated on a busy start on the second floor took a nice mix bringing a sense of calm in the busy city.\n\nGreat service and fantastic food, but most importantly their coffee was rejuvenating. Perfect taste for the morning that I needed the caffeine kick after a whole day travel.\n\nThis will be on the top of my list with my loved ones coming back to Taipei.",
@@ -2877,7 +2877,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "What a legendary restaurant in Taipei city centre area!\n\nIt's small, it's ordinary but it's the taste of memories.\n\nIf you or your family have a military background, this is definitely the restaurant for you\nWithin this tiny place you get to enjoy flavours from different part of China, I mean, decades ago.\n\nAfter all these years they are still priced reasonably, the portion is still good for even one person to eat alone or for two to share more.\n\nNo one single item will disappoint you, just go ahead and order. If you have no idea what to eat, asking around or wait for clerks to recommend.",
@@ -2903,7 +2903,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前未見明確的親子設施資訊，這家餐酒館是否適合帶小孩前往，仍需依現場環境評估。",
     "signals": [],
     "reviews": [
       "Great spot for Italian food in Taiwan. The pasta was fresh, the pizza nicely done with a crispy base, and the tiramisu was a pleasant finish. Overall, the flavors were balanced and satisfying without being overly rich.\n\nWhat stood out most was the service — especially from staff member 穎. She was attentive, polite, and made the whole experience smoother and more enjoyable. So far, one of the best service experiences I’ve had in Taiwan.\n\nWould definitely come back. Worth a visit if you’re in the area.",
@@ -2929,7 +2929,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "It was full house, but we sat down for a meal as the staff called to confirm with someone but did not pick up the call (great service)\n\nWent in December And the chicken porridge was amazing and so comforting for the cold weather. The texture is the mushy kind which I love, similar to hongkong congee.  Flavour is terrific, chicken has the sesame oil frangrance and so tender.\n\nThe 青龍菜 is great but taste slightly different than Singapore, I think probably it's due to the water being used. Maybe spring water from the mountains.\n\nOrdered the fried chicken also and it's close to 咕嚕肉 or orange chicken, fantastic as well",
@@ -2955,7 +2955,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "The food was delicious, but the portions were a bit small. Drinks were unlimited. The staff kindly helped with the two little kids, which was very sweet and adorable.",
@@ -2981,7 +2981,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "Fantastic food. I had a vegetarian Greek omelet (without green onion, onion, and garlic), and my friends had hummus, french fries. and a pasta. My Greek omelet is full of vegetables and utterly delicious! And l saw the sign next to the entrance that this is a \"women and children friendly restaurant\", which means the facilities and ingredients are extra safe for kids and women, and they don't use any plastics that leach out Endocrine Disrupting Chemicals (EDC). The only thing that I don't like was the music was a bit too loud.",
@@ -3007,7 +3007,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Great local cuisine restaurant with a bit of a different flare to local delicacies. Great choices and everything was delicious. Highly recommended. Always nice to come with more people because then one can try a lot of dishes.",
@@ -3033,7 +3033,7 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Very value set meal, there’s way too much for two person. The white chicken is so delicious! It’s TWD1260 for 5 dishes and 1 small dessert",
@@ -3059,7 +3059,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "The food was incredible. Had the vegetarian mushroom and chickpea pasta WOW. Also tried the salt foam latte and wasn’t very used to the taste so we didn’t finish it, and the service staff was so sweet to offer to change the drink for us. Incredible service. Thank you for making our meal so good!",
@@ -3085,7 +3085,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "my family and I just had lunch here today.  the service was outstanding and very attentive.  the food was also delicious although a bit spicy for me (allergic to certain spices but still delicious).",
@@ -3111,7 +3111,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Savored an unforgettable evening of exquisite Japanese cuisine and warm camaraderie with like-minded friends at this hidden gem! While the food was outstanding, the company truly elevated the experience. Note that this restaurant will be relocating at the end of March, so be sure to visit before then. Highly recommended for a memorable dining experience!",
@@ -3137,7 +3137,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "We had a big breakfast that morning and were not very hungry at lunch, but we still had a good time there. The steamed 石斑魚was very tender and testy, 嚕肉was tender and not fatty. The waitress was very polite and helpful. There was a small service fee charge.",
@@ -3163,7 +3163,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：服務人員也都非常友善👍👍）",
+    "ai_summary": "以家庭聚餐需求來看，整體氛圍對孩子活動較能接受，整體服務感受偏友善，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "服務人員也都非常友善👍👍"
     ],
@@ -3191,7 +3191,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：留下很好的友善印象）",
+    "ai_summary": "這家餐廳整體氛圍對孩子活動較能接受，整體服務感受偏友善，對家庭客人來說會比較方便。",
     "signals": [
       "留下很好的友善印象"
     ],
@@ -3219,7 +3219,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Buttermilk is an American-style restaurant with some really strong highlights, but also a few misses. Overall, I’d rate it around a 3.5/5.\nI did feel it was a bit overpriced for what you get. The “seasonal vegetables” were underwhelming, just one type of leafy green and a tomato sliced into four pieces. The soup was okay, but nothing special.\nThat said, they absolutely nailed some dishes. The buttermilk biscuits were very tasty, the ribs were amazing and full of flavor, and the blueberry pie was superb, definitely one of the best parts of the meal.\nIt’s the kind of place where some items shine while others fall short. I would go back, but it’s not my favorite spot in town",
@@ -3245,7 +3245,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "以家庭聚餐需求來看，座位空間不擁擠，對家庭客人來說會比較方便。",
     "signals": [],
     "reviews": [
       "dessert may look nice but taste not good at all, not worth the price. I can accept so-so food quality, but cannot staff attitude, especially the girl at the counter (during 3-4pm) probably she has problem with foreigners, she does not even control facial expression when guests ask for something. Fair enough, no improvement means 1-star rating will keep coming. Perhaps she's the daughter of the owner, that would explain everything 🙃.",
@@ -3271,7 +3271,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "The food was quite nice, we got the soymilk\nPasta and pesto pasta. You can choose to make any entree a set. Great place to get afternoon tea and lunch. Decent price with decent food portion.",
@@ -3297,7 +3297,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "If you’re looking for an affordable yet refined donburi spot in Taipei, I recommend YORUよる_by Dennis Wang. After earning Michelin Plate recognition for three consecutive years as a fine dining restaurant, YORU has transformed that same spirit into high-quality Japanese set meals starting from just over NT$300, making it much more accessible.\n\nI tried the Mapo Fried Oyster Set. The oysters were crispy on the outside, tender and juicy inside, and surprisingly light without feeling greasy. The mapo tofu was an unexpected highlight — well-balanced in flavor, rich but not overpowering, and it didn’t overshadow the delicate taste of the fried oysters. The combination worked beautifully.\n\nI also ordered the Yoru Kiln-Roasted Beef Short Rib Set (NT$430). The kiln-roasted aroma was incredibly fragrant, with a subtle smoky flavor that became more enjoyable with every bite. Each set comes with the main dish, three side dishes, and a bowl of soup, making the meal both satisfying and well-rounded.",
@@ -3323,7 +3323,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：服務人員的友善跟細心問候）",
+    "ai_summary": "這家餐廳整體氛圍對孩子活動較能接受，整體服務感受偏友善，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "服務人員的友善跟細心問候"
     ],
@@ -3351,7 +3351,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家日式餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Amazing food, ordered their Beef Sukiyaki Udon & Clam Udon. Both were superb.\n\nFresh Clam & sweet seafood broth",
@@ -3377,7 +3377,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "Enjoyed our meal at King Ping Tea Restaurant. Overall a pleasant, friendly service. We ordered steam pork soup dumplings, shrimp floss wrapped in fresh lettuce, fried rice and braised beef noodle. Good taste, not too salty and good quality ingredients.",
@@ -3403,7 +3403,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Great little shop for quality burgers and tasty fries.\n\nOrdered the Bacon JR (double beef) and avocado (beef) + Large fries with JR sauce.\n\nThe beef patties were very juicy and tender, paired exceptionally well with the other ingredients. The avacado burger tasted very fresh. My only reason for giving 4 stars instead of 5 is that the beef patties are very salty, especially in a mostly-meat burger like the Bacon JR. The fries and JR sauce were awesome, herb seasoning was super delicious.\n\nSeating area inside was decently spacious with 4-5 tables and a high top bar, perfect for any party size up to 6 people per table.",
@@ -3429,7 +3429,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Normal food. Veggies are cold. A bit expensive considering the portion.",
@@ -3455,7 +3455,7 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "Slightly disappointing experience considering high reviews given. Basic food. Average meat quality. Not as tender a hoped. Nice Californian (Stags Leap - Hands of time) red wine, but served at room temperature. Language barrier can make it hard for non-mandarin speakers. Two of four dishes served were not as per order. Service was very friendly.",
@@ -3481,7 +3481,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "We had an amazing experience at Umeko. Each dishes was unique on its own and the flavors were exceptional, unlike anything we’ve tasted elsewhere. The staff were attentive and service was great. In the middle of the meal, the ladyboss came by and her warmth made us feel genuinely welcomed. The meal was truly memorable; we enjoyed all the dishes and will definitely be back again. Highly recommended!",
@@ -3507,7 +3507,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "We had variety of Xiao Long Bao including Truffle mushroom, original and seafood. I was bit surprised to find out that this restaurant has franchise in Japan and there several location.\n\nBut, I have the great feeling this place is the best out of all as it is the original.\n\nAtmosphere : It felt I was in Japan as many of customers are Japanese. However, this means it is chosen by many Japanese people.",
@@ -3533,7 +3533,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "The Peking duck was delicious, and the duck skin was incredibly crispy. I highly recommend it!!!\nAnd I really like the atmosphere of this restaurant.",
@@ -3559,7 +3559,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "I don't know how it got a 4.8 rating. Nothing special and the broth was not very good. Very light. Price is on the high-end for this type of food in Taipei. I got the spicy beef shank noodle soup and I would say the beef was average, but the broth was below average. Service was barely noticeable. There are other places to go, which I will search for. I was quite disappointed as I was looking forward based on the Google rating here.\n\nNo complaints about your beef, I just felt it was average, didn't say I wanted saltier beef.  Just providing my opinion here and letting people know what to expect.\n\nI don't know what you mean about charged based service? I expect friendliness, prompt service.  Your staff member seemed uninterested and bored.  Just my opinion.  Have a nice day.\n\n\"Health consciousness\" hmmm... Taiwanese cuisine includes high sugar bubble tea, deep fried high fat foods, lu ruo fan, pig blood, instestine, the list goes on.  You don't make any sense contradicting yourself.",
@@ -3585,7 +3585,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：用餐環境空間大、明亮）",
+    "ai_summary": "這家餐廳座位空間不擁擠，用來安排親子聚餐也滿合適。",
     "signals": [
       "用餐環境空間大、明亮"
     ],
@@ -3613,7 +3613,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "The seafood here is very fresh though not cheap. Expect to wait if you come during dinner time. You can leave your name and mobile number here for them to call you if there are no seats. Heard some patrons say the 酥炸水晶鰻 (if they have it for the day) is great though I have not tried it personally. Tried their seafood don and it is great. Worth the short wait.",
@@ -3639,7 +3639,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Updates: we came here again with 3 of us. This time, we got a bigger table and ordered their meal set for 3~4 people. We almost cleaned all the plates and foods were so delicious! Highly recommended ordering this set or just follow our photos to order the dishes. Those are the best!\n\nThis Izakaya 🏮 is under ABV chain restaurant and mixed with a bit American beer 🍺 bar style! This Izakaya is just right across a 5-star hotel in Zhongshan Dist. I’ve visited here many times and never got wrong with their signatures!",
@@ -3665,7 +3665,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Every item we ordered was a hit. As a non-vegetarian, I didn’t feel like there was something missing at all. The salad with tofu was tart and v refreshing - a great appetiser to kick off the meal. The mushroom with egg dish, one of their specialties, was the favourite at our table. Reminiscent of the stir fried egg white and crab dishes at Cantonese restaurants except that this was fully vegetarian and very yummy. Would also recommend the tea based tofu and the yam vermicelli soup - especially enjoyable with cold weather. Service was attentive and friendly as well. Wish I could’ve tried more dishes but will definitely stop by again the next time I’m in Taipei.",
@@ -3691,7 +3691,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：價錢很友善 | 用餐環境乾淨、舒適、空間大）",
+    "ai_summary": "這家餐廳座位空間不擁擠，整體氛圍對孩子活動較能接受，整體服務感受偏友善，帶小孩來用餐相對輕鬆。",
     "signals": [
       "價錢很友善",
       "用餐環境乾淨、舒適、空間大"
@@ -3720,7 +3720,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家日式餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Very friendly staff and positive vibes all round\n\nSome dishes were great, some were ok\n\nBlack tuna special, grilled pork belly and grilled chicken thighs were really good\n\nFresh Sapporo draft",
@@ -3746,7 +3746,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前未見明確的親子設施資訊，這家火鍋店是否適合帶小孩前往，仍需依現場環境評估。",
     "signals": [],
     "reviews": [
       "VERY RECOMMENDED.\n\nExcellent product at a reasonable price, event with the 10% service charge. The stuff is extremely kind and help us with our babies.\n\nThank you very much",
@@ -3772,7 +3772,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前未見明確的親子設施資訊，這家義式餐廳是否適合帶小孩前往，仍需依現場環境評估。",
     "signals": [],
     "reviews": [
       "Open late, nice for a late night coffee or cocktail. White russian was excellent presentation and well prepared.",
@@ -3798,7 +3798,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Excellent place for a Japanese meal.  I eat dinner here at least once a month. If you are uncertain about what to eat I recommend the 600 ntd menu.",
@@ -3824,7 +3824,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "***best lasagna in Taipei***\n\nBolognese lasagna - clear star here. It’s rich, comforting, perfectly layered, and just deeply satisfying.\n\nReginette ai Frutti di Mare - fresh, herbaceous, not overly sauced. Each seafood is individually cooked to perfection and not a dump-all, one pan approach.\n\nInsalata Invernale - thoughtful in the blend of garden veg mixed with yummy dressing. Salad alone nets you all the macro/micro nutrients for the day.\n\nThe space feels homey, and the staff’s smiles are honestly contagious.  It’s such a refreshing contrast to a lot of new dining spots in Taipei where service charges are automatic but the service itself feels nonexistent and robotic.\n\nThe fundamentals are so well dialed in (quality ingredients, technique, harmony, chefs touch, and consistency….our 3rd visit) It  wouldn’t be surprising to see this place creeping into Michelin-level territory.  加油👏",
@@ -3850,7 +3850,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "以家庭聚餐需求來看，座位空間不擁擠，整體氛圍對孩子活動較能接受，帶小孩來用餐相對輕鬆。",
     "signals": [],
     "reviews": [
       "The atmosphere is nice, but the ordering system was frustrating. The restaurant requires scanning a QR code to view the menu, yet they don’t provide WiFi. It felt odd, especially for customers who don’t have enough mobile data—I had trouble accessing the menu because of this. Offering guest WiFi or a few physical menus would make the experience much more convenient. Otherwise, everything was okay.",
@@ -3876,7 +3876,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Traditional chinese restaurant with authentic dishes. The food is tasty. The service is efficient and quick.\nThe staff are nice and the owner is very active and warm welcoming.\nThe crispy chicken is a must order, and the cabbage & tofu salad is good.\nThe beef rolls are delicious.\nThe menu is in Chinese. Therefore, it is better to come with a local friend or point de food on other tables or show them my below pictures\nHighly recommend.",
@@ -3902,7 +3902,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "I don’t usually leave negative reviews, and I understand that restaurant kitchens can get hectic, but from a customer’s point of view this place felt genuinely unclean. We had multiple issues during one visit, which made it hard to enjoy the meal and sat awkward at the bar.\n\nFirst, our rice on our initial order was hard and tasted like it had been sitting in the warmer since the day before and I know that flavor well. They kindly remade our beef/egg donburi, but the second plate came with a hair in it and I’m sure it’s the same rice because they looked in the rice warmer for a good 5-10seconds and scooped the same rice to put over our beef/egg donburi. My nigiri also had a gray hair on top. At that point we didn’t feel comfortable eating anymore. I could tell the staff didn’t seem happy about the complaints and they were apologetic, so we just asked to take the food to-go and ended up throwing it away. Even the takeout packing was sloppy, the beef and egg were flipped over with the rice sitting on top and I just threw it away next trash can I seen. I did eat all the food just cause it wasn’t awful but they have got to do something about their hair. I truly don’t know how the guy wearing a bandana got a hair in our food the second time of the remake and the sushi guys grey hair in my plate. Idk, just bad luck I guess.\n\nIt’s disappointing because this place was highly recommended. I can see why people rate it high though..the fish itself is good quality, the nigiri portions are generous, and the soup that came with the meal was excellent. The anago, though, needed a little more cooking.\n\nI think the kitchen and dining area could really use a deep cleaning, and simple things like wearing hairnets or hats would make a big difference. For a restaurant with a 4.9 rating, I honestly expected more attention to cleanliness and consistency. I hope they take reviews seriously because the potential is there, but this experience left us disappointed.",
@@ -3928,7 +3928,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐酒館的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Absolutely fantastic experience at this Cantonese restaurant! The dishes were bursting with authentic flavors, and the presentation was impeccable. The highlight for me was the incredible selection of cocktails—each one crafted with creativity and precision.",
@@ -3954,7 +3954,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "Tried their bbq chicken strips with cheese bento, taste is good and inexpensive. Costs around NT $120 per bento which comes with tender and flavorful chicken and generous amount of vegetable side dishes.",
@@ -3980,7 +3980,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "I’ve always loved their Shredded Lamb Tripe Salad. My grandpa used to bring this dish to our home whenever he visited, so it’s a nostalgic flavor from my childhood.\n\nI especially enjoy it with the spicy and tangy seasoning that really whets the appetite, especially in the summertime. I do feel it’s not quite as spicy as it used to be, but overall it’s still delicious.",
@@ -4006,7 +4006,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "I discovered this eatery thanks to ChatGPT (asked for recommendations of eateries around the area I was staying) and it did not disappoint. I ordered a large beef noodle soup and it was very good. It came with thick but tender slabs of beef. I also ordered a fried tofu dish which was tasty as well.\n\nThey have an English menu. The staff are also very hospitable and assisted me as I made my order.",
@@ -4032,7 +4032,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "A cozy place for a quick quality set meal, offers free flow hot black coffee, cold milk tea and cold wintermelon tea with every meal ordered. The restaurant hasn't changed much for the last 7 years, still going strong with seats getting filled up quickly upon opening for dinner at 5:30pm. Nothing really stands out, just a warming proper dining experience.",
@@ -4058,7 +4058,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "不葷主義者 Taipei offers one of the most thoughtfully crafted plant-based dining experiences in the city. It's the Ding Tai Febg Vegetarian/Vegan heaven!\n\nFrom the moment you walk in, the atmosphere feels calm, warm, and intentionally minimalist! It's perfect for settling into a slow, lingering dinner.\n\nThe menu focuses on clean, well-balanced flavors w all nature ingredients, and each dish feels like it’s designed to highlight ingredients at their best. Presentation is elegant without being pretentious, and the portions strike a nice balance between satisfying and not overly filling.\n\nService is attentive in a low-key, unobtrusive way. Staff are knowledgeable about the dishes and happy to offer suggestions based on your preferences, which adds a personal touch to the meal! Highly recommend this place!!",
@@ -4084,7 +4084,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "Been here few times, love the place from day one!\n\nTalented chef works with his little brother, recommend to sit at the chef table so you can enjoy the cooking show while having great natural wine.\n\nAuthentic dishes at decent price.",
@@ -4110,7 +4110,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Probably the best Chinese restaurant in the neighborhood. Good taste of all dishes.",
@@ -4136,7 +4136,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：燈光柔和、位置寬敞）",
+    "ai_summary": "從親子用餐角度來看，座位空間不擁擠，對家庭客人來說會比較方便。",
     "signals": [
       "燈光柔和、位置寬敞"
     ],
@@ -4164,7 +4164,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "This is a truly authentic Hong Kong-style restaurant, and it ranks in my top three Hong Kong-style restaurants.\nThe Hong Kong-style milk tea is rich, smooth, and comes in a generous portion.\nThe salted fish and diced chicken fried rice is aromatic, full of wok hei, and absolutely delicious. Prices are reasonable, making it well worth recommending!",
@@ -4190,7 +4190,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：友善店家可自帶酒）",
+    "ai_summary": "以家庭聚餐需求來看，座位空間不擁擠，整體氛圍對孩子活動較能接受，整體服務感受偏友善，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "友善店家可自帶酒"
     ],
@@ -4218,7 +4218,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Food was great! Glad to try this place as an alternative to other chain restaurants available. Really enjoyed this meal.",
@@ -4244,7 +4244,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "以家庭聚餐需求來看，整體氛圍對孩子活動較能接受，用來安排親子聚餐也滿合適。",
     "signals": [],
     "reviews": [
       "Happy birthday! Great place, food and drinks, for relaxing after an exhausted day!",
@@ -4270,7 +4270,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：大家酒酣耳熱好不熱鬧）",
+    "ai_summary": "以家庭聚餐需求來看，整體氛圍對孩子活動較能接受，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "大家酒酣耳熱好不熱鬧"
     ],
@@ -4298,7 +4298,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Took my mom and auntie here for a quick lunch. The value of the lunch set and freshness of seafood were exceptional.  We had 烤海鱸魚肚 & 花鯧，it came with 4 dishes of appetizers and soup; plus dessert. Definitely recommend to take both desserts if you have the stomach 😋😋; cheesy mochi and brown sugar tofu bean curd. I heard the price is higher for dinner, but judging by the quality of lunch set, I will definitely give it a try.",
@@ -4324,7 +4324,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "We tried several dishes here and overall had a delicious experience.\n\n• 🦪 Stir-fry oyster with Chinese doughnut: Easily the highlight of the meal. The oysters were fresh and perfectly cooked, and the pairing with the crispy doughnut was brilliant — the textures and flavors worked beautifully together.\n• 🌿 Cordia and white water vegetable: Slightly crunchy with a touch of sweetness, making it refreshing and light.\n• 🐖 Pork neck with squid and stinky tofu: Flavor was good, but the pork neck pieces were cut a bit large, so they came out a little chewy.\n• 🥭 Green mango dessert: Pickled green mango served over shaved ice. Unless you’re a big fan of green mango, this one may be worth skipping.\n\n⚠️ Note: The restaurant has a NT$1000 per person minimum, so be prepared to order above that amount for your table.",
@@ -4350,7 +4350,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "Japanese comfort food\n90 minutes dinning time\nGrilled eels are not cooked ( roasted) from scratch",
@@ -4376,7 +4376,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：是寵物友善的餐廳）",
+    "ai_summary": "這家義式餐廳整體氛圍對孩子活動較能接受，整體服務感受偏友善，帶小孩來用餐相對輕鬆。",
     "signals": [
       "是寵物友善的餐廳"
     ],
@@ -4404,7 +4404,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "In my definition, this is a fast food restaurant. The only difference is the platting and the pricing.\n\nService provided by the waiter was really thoughtful.\n\nPork chop was dry. Miso soup, rice and shredded cabbage are all you can eat!\n\nIt's crowded and noisy as fast food restaurant should be. And it's convenient.\n\nCashier mixed up my check with other's, twice! Be sure to double check yours before paying for it.",
@@ -4430,7 +4430,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Impossible to order. Workers standing around while we try to buy their food. Food not bad but not worth frustration.",
@@ -4456,7 +4456,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "This restaurant offers very good yet affordable udon. I especially like their tomato broth and their spicy one. You can also upgrade to a big bowl but the regular one is already enough for me. They also have some fried food which matches well with the udon. You can also add spring onion and sprinkle some crispy batter left from frying the other fried food. The menu has English and you can just mention the number of the order you want. They accept local and foreign credit cards as the mode of payment apart from cash.",
@@ -4482,7 +4482,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "Food was good! Pretty standard with all the other locations. They seemed really short staffed. Really hard to get water refills or anything else we needed.",
@@ -4508,7 +4508,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Possibly the 2nd best or really compatable contender to Ding Tai Feng TW's style little steamed dumpling. Very thin dumpling pastry yet very juicy and 50% larger in size to DTF's version. Well cooked and flaovored pan fries vege! Must try!",
@@ -4534,7 +4534,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "@snail_italian_restaurant\nThe smoked salmon Mediterranean salad as a starter is so refreshing and instantly whets your appetite 🤍\n\nThe truffle Iberico pork linguine is a true classic—\npan-seared Iberico pork jowl paired with perfectly cooked durum wheat linguine, coated in a fragrant truffle and olive oil sauce.\nRich, savory, and absolutely delicious. ✨🍝",
@@ -4560,7 +4560,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：用餐環境寬敞明亮）",
+    "ai_summary": "這家餐廳座位空間不擁擠，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "用餐環境寬敞明亮"
     ],
@@ -4588,7 +4588,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "Wow. SO GOOD. The best donburi in this area. The first time getting an actual real miso soup that isn't water and a piece of seaweed.\n\nStill so good. Cash only\n\nStill my favorite spot",
@@ -4614,7 +4614,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家親子餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Lovely and cozy little spot in Neihu, with great food quality. Good views of the tunnel from within the restaurant. We ordered 5 dishes for 3 people, the ingredients were fresh, from the vegetables in the salad to the lamb and meat, and each dish was presented beautifully. Good atmosphere within the restaurant, except they probably didn’t pay for music streaming because there were ads interrupting the music every 10 minutes which was distracting. Otherwise great dining experience!",
@@ -4640,7 +4640,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "An affordable place for delicious Chinese cuisine. Other than wine, sweet disserts are recommended.",
@@ -4666,7 +4666,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "There are many kinds of food, desserts and beverages.Other food are also good as well but those have been adjusted to be suitable for Taiwanese tastes already. However, the most authentic here I tried was durian ice-cream 😍\nThe service and staff are great!\nI went there for my dinner, they served the order faster than what I expected.",
@@ -4692,7 +4692,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家義式餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "The food here was good and very cheesy, making it a nice place to enjoy a comforting meal. Every dish leaned into rich, melted flavors that felt indulgent without being overwhelming. The pasta was especially good, cooked well and coated in a creamy, cheesy sauce that made each bite satisfying and warm. It felt like the kind of food meant to be enjoyed slowly, with plenty of flavor and a relaxed mood. The overall setting was pleasant and welcoming, giving the meal a casual and enjoyable vibe. Service was decent and steady throughout the visit, with staff handling orders smoothly and keeping things moving at a comfortable pace. While it was not overly fancy, the combination of cheesy dishes and good pasta made the experience worthwhile. It is a place that works well for a simple meal with friends or family when you want something hearty and familiar. The balance of tasty food, a nice atmosphere, and acceptable service made the visit enjoyable overall, and it left a positive impression as a spot for casual dining and comfort-style meals.",
@@ -4718,7 +4718,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Love the vibes here! Pasta looks better than it taste. It’s too dry and bland.\nMocha taste good and I definitely won’t mind two cups in a row 😋\nWorth another visit to try their avo toast with scrambled eggs and truffle fries !",
@@ -4744,7 +4744,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Good food.  My husband had the Turkish yogurt poached eggs and was impressed.\nI order the salad a s coffee. Everything is good and the service. Definitely visit again.",
@@ -4770,7 +4770,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Best western cuisine I'd ever have.  Every course is just perfect with quality & quantity.  Atmosphere is relax.  15 minutes taxi ride from city centre.",
@@ -4796,7 +4796,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "I really enjoy the dishes and the atmosphere. It’s quite nice for celebrations. This branch has a different menu from Taipei 101 location. I will definitely drop by again.",
@@ -4822,7 +4822,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Nice",
@@ -4848,7 +4848,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家日式餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "The quality for the price here is superb. Highly recommended.\n\nCame again twice in two days. It’s so good!!",
@@ -4874,7 +4874,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：座位寬敞 | 算是孕婦兒童友善）",
+    "ai_summary": "以家庭聚餐需求來看，座位空間不擁擠，整體氛圍對孩子活動較能接受，整體服務感受偏友善，帶小孩來用餐相對輕鬆。",
     "signals": [
       "座位寬敞",
       "算是孕婦兒童友善"
@@ -4903,7 +4903,7 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "A local, corner dai chow place. Everything from soups to stir-fry, hotplate, steam, fried, grilled, local '3 cups' marination. Ordered a few of their signature dishes to try. We had fried you tiao with fresh oysters, stir-fried green beans with deep fried pork intestines and 'dong po' pork - classic uncut version of braised pork belly, before it becomes lu rou fan! Fed us a family of 6, 4 adults and 2 kids after a late morning stroll and exercise at the nearby park. It was really well prepapred and cooked to perfection. Portions were medium sized. Just slightly too salty to my liking, but bearable with white rice and some brown rice tea which was served on the house. Good, kind, friendly service. Must visit if you are in the Neihu area!",
@@ -4929,7 +4929,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "A well-known place mainly for its donburi (among other dishes). Although the place is often quite busy, service is very fast — and hence turnover great. If you're visiting for dinner, the street-side parking spaces around are free.\n\nTheir seafood stock is very fresh, and the portion generous. It is a bit unusual in using warm unflavored rice.\n\nExtra point for service (I'd give 4.5): no vegetarian menu, but waitress was quick to suggest ordering bowl of rice and natto — make your own natto don. That worked great.\n\nReasonable prices with the fresh seafood is probably why they're packing the place all the time. Recommended.",
@@ -4955,7 +4955,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：店內空間寬敞舒適）",
+    "ai_summary": "這家餐廳座位空間不擁擠，用餐節奏比較放鬆，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "店內空間寬敞舒適"
     ],
@@ -4983,7 +4983,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Great tasting Tonkatsu, using special 五花肉 and dark chocolate in the curry sauce. Flavorful!\nIt’s a new restaurant in the neighborhood. Each main course about $400NTD.\nLess one star because they only served room-temperature tea, instead of hot tea! But that’s a small factor. Will return to fine here again.",
@@ -5009,7 +5009,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "One of the good restaurant around here\nCheck it out if you were around here",
@@ -5035,7 +5035,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Unfortunately, this restaurant doesn’t have an English name listed on Google Maps. With over 1,400 reviews, we decided to give it a try.\n\nThe space offers bar seating by the chef’s counter, where you can watch the chefs prepare the dishes, as well as rectangular tables suitable for groups of four. It’s clearly a popular Japanese restaurant among locals in this area.\n\nThat said, the food didn’t quite live up to the hype. The sashimi wasn’t as fresh as expected—still acceptable in taste, but nothing impressive. The chicken dish took quite a long time to prepare and ended up being below average in flavor.\n\nOn the positive side, the complimentary salad and edamame were surprisingly good and nicely done.\n\nOverall, while the restaurant has a strong local following, I personally found it quite overrated given the high expectations.",
@@ -5061,7 +5061,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "Good place to hangout after work, food portion was not small at all. Beer on tap are fresh, it was good and enjoyable dining experience overall. Appreciate their complementary sweet potato fries on the day.",
@@ -5087,7 +5087,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：店內寬敞明亮）",
+    "ai_summary": "以家庭聚餐需求來看，座位空間不擁擠，用來安排親子聚餐也滿合適。",
     "signals": [
       "店內寬敞明亮"
     ],
@@ -5115,7 +5115,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：沒想到店員非常友善）",
+    "ai_summary": "從親子用餐角度來看，整體氛圍對孩子活動較能接受，整體服務感受偏友善，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "沒想到店員非常友善"
     ],
@@ -5143,7 +5143,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "從親子用餐角度來看，座位空間不擁擠，帶小孩來用餐會比較輕鬆。",
     "signals": [],
     "reviews": [
       "Great food, service and atmosphere. While not authentic Sichuan cuisine, but the fusion spin tasted great. The Sichuan style Mapo Tofu was not too spicy but had a good numbing sensation and the tofu was so soft and the sauce was good. The fried calamari was fried well, nice and need crunchy and not too oily. The Fried Rice with Salty Fish and Chicken Strips was incredible, would recommend, the crispy rice on the bottom was so good! Would also recommend the Seafood with thick noodles in Hakka style, the noodles were just the right thickness and the chew was perfect (could use more seafood though). Not pictured, I also had the Sichuan style spicy beef in pot, which was good but the beef was too fatty for my liking, and the braised fried tofu (which I liked a lot, would recommend).",
@@ -5169,7 +5169,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "提供兒童餐、座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：兒童餐夠一大一小（3歲）吃 | 空間舒適寬敞）",
+    "ai_summary": "整體來看，有兒童餐可選，座位空間不擁擠，用餐節奏比較放鬆，對家庭客人來說會比較方便。",
     "signals": [
       "兒童餐夠一大一小（3歲）吃",
       "空間舒適寬敞"
@@ -5198,7 +5198,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "Traditional no frills but very nice.\n\nMy first time experience such local cuisine.\n\nDefinitely not your typical tourist type restaurant,\n\nEvery one is local here.",
@@ -5224,7 +5224,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：空間寬敞明亮舒服）",
+    "ai_summary": "以家庭聚餐需求來看，座位空間不擁擠，用餐節奏比較放鬆，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "空間寬敞明亮舒服"
     ],
@@ -5252,7 +5252,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "A warm neighborhood bar with a refined and quiet atmosphere — the perfect little spot to unwind. The wine selection includes carefully chosen red and white wines from various regions, including bottles directly from wineries. The owner thoughtfully introduces different varieties or simply chats with guests. You’ll also find a curated selection of beers, Japanese whisky, and even peated options, making it easy for everyone to discover their own favorite drink.",
@@ -5278,7 +5278,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "I had a burger again, this time with a full refill, making it even bigger and tastier! 🤣\n\n(Although less healthy)\n\nTakeout only 😭 The burger bun isn't your typical breakfast kind; it's more like McDonald's, finer and firmer!\n\nThe lettuce was generous, the tuna topping was average, but the egg was exceptionally delicious.\n\nThe handmade burger platter was exceptionally delicious and huge!\n\nIt was noticeably thicker and juicier than a regular burger bun,\n\n(even though I asked for no mayonnaise, no peanut butter, and no bacon).\n\nIt's really good for NT$109.\n\nI hope I can have it again tonight 🤣 I hope it's as delicious and big as it is, and that I can compare it with other burgers in the area.",
@@ -5304,7 +5304,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "it's good,It's up to you what menu you choose\nthey have much,beverage for free\ncan refill soft drink,rice and soup",
@@ -5330,7 +5330,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "It’s really good restaurant. The vibe is great. I think that could be celebration or YEP place. The dish is tasty. There is a parking lot for customer.",
@@ -5356,7 +5356,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "For the New Year, IKEA Restaurant offered two discounted combo sets. We chose the combo that included a beef steak, half a chicken, and Swedish meatballs. In my opinion, it tasted good!",
@@ -5382,7 +5382,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "Great food shared with everyone. A banquet with Hakka and Sichuan flavors, dish after dish , they were very tasty! We enjoyed it very much!",
@@ -5408,7 +5408,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：我覺得很友善）",
+    "ai_summary": "整體來看，整體氛圍對孩子活動較能接受，整體服務感受偏友善，用來安排親子聚餐也滿合適。",
     "signals": [
       "我覺得很友善"
     ],
@@ -5436,7 +5436,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：店面不大但位置寬敞舒適）",
+    "ai_summary": "從親子用餐角度來看，座位空間不擁擠，用餐節奏比較放鬆，對家庭客人來說會比較方便。",
     "signals": [
       "店面不大但位置寬敞舒適"
     ],
@@ -5464,7 +5464,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "Su Hung is a Taiwanese restaurant with multiple Michelin stars, and you can definitely taste the quality in their dishes. Everything we tried was very flavorful and well executed.\nThat said, two dishes completely stole the show: the Taiwanese burger and the sweet and sour fish. Both were absolutely amazing, perfectly balanced, rich in flavor, and truly memorable. Honestly, I would come back just for those two.\nA fantastic place for high-quality Taiwanese cuisine and definitely worth visiting.",
@@ -5490,7 +5490,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：氛圍很熱鬧.）",
+    "ai_summary": "這家餐廳整體氛圍對孩子活動較能接受，帶小孩來用餐相對輕鬆。",
     "signals": [
       "氛圍很熱鬧."
     ],
@@ -5518,7 +5518,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Ordered the dumplings and the luwei, both were amazing! The luwei was especially good and definitely worth the wait (we queued for around 20 minutes).\n\nFor the luwei, I recommend getting the 豆皮,豆乾, and their meat selection. The ayi can portion it out for you, just let her know how many people are in your group.\n\nAs for the dumplings, they were served piping hot and incredibly juicy inside! If you order them, I suggest eating them first before moving on to the other dishes, so the soup inside doesn’t get absorbed by the skin.",
@@ -5544,7 +5544,7 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "We threewent to the famous Xiaolongbao restaurant “G,” only to be turned away at the door.\nThey said they accept Google reservations only. Oh well…\n\nThere seemed to be a few empty tables inside, yet they were firm about seating reservation guests only. Perhaps it was for smoother operations, or simply out of fairness to those who had booked in advance. As travelers, we couldn’t know the full story — but the disappointment lingered.\n\nWith closing time approaching, we didn’t have the luxury of hesitation. I quickly checked the map and found another well-known spot not too far away. We naturally picked up our pace.\n\nThat’s how we ended up at Shuang Yue (雙月), a Michelin Bib Gourmand restaurant known for its excellent value.\n\nThe clam and chicken drumstick soup was clear yet deeply flavorful.\nThe chili chicken drumstick soup had a gentle heat that kept us reaching for another spoonful.\nThe braised sea bass was tender and delicate.\nAnd the spicy sesame noodles struck the perfect balance between nuttiness and heat.\n👍👍👍👍👍\n\nHighly recommended — every single dish.\n\nLooking back, not getting into “G” turned out to be a blessing in disguise.\nWe ended up having a truly wonderful meal at Shuang Yue.\n\nTravel often rewards you in the most unexpected ways.",
@@ -5570,7 +5570,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "We arrived just before 11am on a Saturday and it was pretty quiet, plenty of seats to choose from. Although after awhile it starts to get busy, so best to come here before 12.\nWe ordered their original soup dumplings (小籠湯包 $180NTD)and also their prawn and loofah dumplings (蝦仁絲瓜湯包 $260 NTD).\nIn general, I found the top part of the dumpling skin a bit too thick, and also the filling especially the meat from the original one breaks up really easily and not too smooth. The fillings are well seasoned. It's not the most expensive but also not the cheapest, $180 for 10 dumplings, I expect the quality to be a bit better.\nThe restaurant and toilet is clean, staff is friendly too.",
@@ -5596,7 +5596,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Full house even on a Wed night. Must have a reservation. For this price and no service charge, I cannot say any thing about food quality. They are decent, more homy style. Some food are like a quick pull together of outside snacks… like the chips, popcorns in the salad… cookies in the dessert…",
@@ -5622,7 +5622,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：葡萄酒友善餐廳）",
+    "ai_summary": "整體來看，整體氛圍對孩子活動較能接受，整體服務感受偏友善，帶小孩來用餐相對輕鬆。",
     "signals": [
       "葡萄酒友善餐廳"
     ],
@@ -5650,7 +5650,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "從親子用餐角度來看，整體氛圍對孩子活動較能接受，帶小孩來用餐相對輕鬆。",
     "signals": [],
     "reviews": [
       "Their food was absolutely delicious. I had chicken and waffles and tried their orange sunrise drink. It was a meal that I definitely enjoyed. The staff was very kind to assist me in getting my order.",
@@ -5676,7 +5676,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "The pork chop tasted authentic and flavorful — just note that it’s on the oily side, which is typical of traditional Taiwanese-style pork chops. If you’re not used to that, it might feel a bit heavy, but it’s true to how it’s meant to be cooked\n\nWe got the pork chop noodles and chicken leg rice -- total of NTD 360 for 2 dishes\n\nThe place itself is very charming. It feels like stepping into a restaurant from a 1980s movie, with that nostalgic, old-school atmosphere.\n\nIt was also packed with locals, and we seemed to be the only tourists. When we asked for an English menu, the staff were warm and accommodating; they even had a server walk us through it at our table. Really appreciated the hospitality :)",
@@ -5702,7 +5702,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：庭院寬敞靜謐）",
+    "ai_summary": "以家庭聚餐需求來看，座位空間不擁擠，用來安排親子聚餐也滿合適。",
     "signals": [
       "庭院寬敞靜謐"
     ],
@@ -5730,7 +5730,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：空間雖不算寬敞）",
+    "ai_summary": "從親子用餐角度來看，座位空間不擁擠，對家庭客人來說會比較方便。",
     "signals": [
       "空間雖不算寬敞"
     ],
@@ -5758,7 +5758,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "以家庭聚餐需求來看，整體氛圍對孩子活動較能接受，帶小孩來用餐會比較輕鬆。",
     "signals": [],
     "reviews": [
       "Absolute 5 Star experience.\n\nWe arrived late with only 10 minutes to order before the kitchen closes.\n\nWe were served by the very professional and helpful Miss Rachel. Fantastic service and recommendation. Order done and we were seated to a wonderful window seat all on under 8 minutes.\n\nAll the dishes recommended were fantastic.\n\nThe breakfast set comes with 2 drinks with the coffee being refillable AND choice of a different hot beverage upon refill. This is almost unheard of.\n\nBoth Pasta We ordered were cooked to perfection. The mushrooms were prepared in a crispy manner and infused thoroughly with truffle favors.\n\nThe sausage pasta was cooked with a wonderfully balanced cream sauce , rich without being overwhelming halfway through the meal.\n\nAs it was the Winter Solstice , 冬至， the restaurant offered free Tang Yuan for all of us what a pleasant end to a fabulous dining experience.\n\nThe crown jewel experience is the view of Taipei 101 from the window seats. This only is worth the meal price and more.\n\nThis restaurant is A must visit for anyone coming around the 101 area.",
@@ -5784,7 +5784,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "It was a very nice dinner when I visited Taiwan. The three cups chicken and sweet sour porks are so good. The restaurant is just crossed street from Sheraton where I stayed, so convenient!",
@@ -5810,7 +5810,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "The spaghetti with garlic shrimp was absolutely delicious, with perfectly cooked pasta and juicy shrimp. If you are looking for a cozy place with excellent cuisine and friendly staff, this is highly recommended!",
@@ -5836,7 +5836,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "5/5 — Vegetable pasta with green sauce\n3/5 — corn soup\n5/5 — clam pasta with green sauce and cheese (got this twice) —\n4/5 — scallop and shrimp pasta with white sauce.  The scallops and shrimp were good, but the white sauce wasn’t that flavorful, and the pasta was pasty.  Maybe I would have liked it with green sauce.\nBest pasta I’ve had in Taiwan.  Green sauce and cheese on top were great.  Got clam for meat.  Corn soup with bread on top was ok.  Bread slices with pesto sauce was pretty good.\n\nUpdate 7-13-23\n\nrigatoni with tomato meat sauce is ok.  4/5\nThe menu said beef in chinese which usually means beef slices, but it was ground beef which makes sense as a pasta sauce.  Cheese on top is good",
@@ -5862,7 +5862,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "First meal in Taipei and it made a very good start.   It is a very small local place and semi self service, ever dishes we ordered tasted good and would love to go back to try more dishes.  Highly recommended.",
@@ -5888,7 +5888,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "這家餐廳座位空間不擁擠，用來安排親子聚餐也滿合適。",
     "signals": [],
     "reviews": [
       "Excellent Taiwanese food, especially the soups. The hand pulled chicken with crab was very innovative. There was only one dish I thought was exited poorly, the sesame chicken rice wasn't very different from what I've had before and the chicken was dry.\n\nI almost gave 5 stars but the service could be improved. Nothing terrible about it but if the server is going to prepare and dish every course on the side and serve to us (instead of communal sharing), they need more than one server because it was very slow.\n\nThe room offers good privacy.",
@@ -5914,7 +5914,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "We stumbled upon this place during a night walk in April and finally decided to give it a try since it’s super close to our hotel. We were immediately greeted upon entering and seated quickly. The ambience was pleasant, and the place felt very clean.\nThe menu was impressive—probably the biggest and heaviest we’ve ever seen! I appreciated the pictures inside, which made choosing easier (though it still took us a while). Our eyes were definitely bigger than our stomachs at this point.\nWe ordered the following:\n\n1.  Roasted Peking duck ( 2 ways - wrap and porridge)\n2. Oyster omelet\n3. Stuff melon with meat\n4. Fried Tofu Chicken Wings\n5. Radish/Turnip Cake\n6. Braised Pork Belly\n\nEverything taste delicious especially perking duck wrap. Service was attentive throughout, and overall, it was a great experience.\nWould recommend if you’re nearby and want a comfortable spot with a wide variety of options.",
@@ -5940,7 +5940,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Definitely not a fine dining Definitely a delicious local homie gathering place. The pork knuckle is so good, crispy outside, tender & juicy inside and very flavorful. I think they might brine the meat to add flavor and remove the meaty smell before roast it. The rest of dishes are also flavorful but not super impressed. I think this restaurant might have been here for more than 40 years. We ordered more dishes after pounding pour after pour of high-proof spirits. The alcohol might burn out my palate for tasting food. I think you can have pretty decent food here for $500 per person if you plan your orders well.",
@@ -5966,7 +5966,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "The Peking roast duck is costly but delicious!\nSince it’s super popular, I recommend calling ahead to make a reservation and pre-order the roast duck (it takes one hour to cook).\n\nHope the owner will hire more wait-staff. The two waitresses were swarmed with serving a full house during lunch time.",
@@ -5992,7 +5992,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前未見明確的親子設施資訊，這家咖啡廳是否適合帶小孩前往，仍需依現場環境評估。",
     "signals": [],
     "reviews": [
       "The restaurant is tucked underneath the Central Library and serves a range of Taiwanese dishes. We went during late lunch and ordered the beef noodle soup along with some tea. The place seems pretty popular as all the side dishes and desserts were already sold out by then.\nThe beef noodle soup was quite good. The beef was tender, and the noodles had a nice bite. The flavour, though, felt a bit underwhelming. Overall, it’s a decent spot for a casual lunch.",
@@ -6018,7 +6018,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Can only really comment on the drinks because that was what we came for. My taiwanese friend recommended this place as it's the og bubble tea and it really didn't disappoint. What separates it from other bubble tea places are the size of the tapioca balls. They're much smaller here which I thought was really cool.\n\nAlso recommend the side order of radish cake. They're like lor Bach go at dim sum, and they are really well made with a tasty sauce. There is a minimum spend here and there was a queue as soon as it opened at 1130... We showed up just before it opened and we were 10th in the queue just to give you a sense of it.\n\nWhen you arrive, enter the queue and you'll be given a number. You can wait outside the restaurant in the hallway where you'll hear your number called. Sit down and scan the QR code at your table, and place your order. Go pay for your order, and that's when your order will go through. They do accept card. Also there is a minimum spend per person.",
@@ -6044,7 +6044,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "This place lives in an alley facing a school. We have been to the restaurant for a couple of times already. The food is delicious, highly recommend the salmon rice ball, the waiters and chefs are really nice! When you enter the restaurant, there are two tables that you can sit. Then you take 2 steps up to the bar table. There in the bar table you can see how the chefs cook which it’s really cool! Really like to come here again soon!",
@@ -6070,7 +6070,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "提供兒童餐，整體環境對帶小孩的家庭較為友善。（評論顯示：因為有小朋友所以點了兒童餐）",
+    "ai_summary": "以家庭聚餐需求來看，有兒童餐可選，帶小孩來用餐相對輕鬆。",
     "signals": [
       "因為有小朋友所以點了兒童餐"
     ],
@@ -6098,7 +6098,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前未見明確的親子設施資訊，這家日式餐廳是否適合帶小孩前往，仍需依現場環境評估。",
     "signals": [],
     "reviews": [
       "We came here couple years ago and have always wanted to visit again. This time my husband was feeling well, the server offered to him some modified dishes. We ordered two sets of the food. The presentation and the taste of each dish were great. Again, we loved it and enjoyed the atmosphere in the restaurant. Servers were attentive.",
@@ -6124,7 +6124,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "If you’re a fan of sour fish stew (酸菜魚), Laolao SuanCaiYu is a must-visit! The broth is deliciously tangy and full of flavors, with just the right balance of sourness and spice. The fish is tender and fresh, perfectly complementing the pickled cabbage.\n\nThe restaurant offers a comfortable, modern atmosphere with quick and friendly service. Portions are generous, and the prices are reasonable for the quality and taste. They also have a variety of side dishes and appetizers to pair with the main dish.\n\nA great spot for anyone craving a hearty, flavorful meal in the heart of Taipei. Highly recommend giving it a try!",
@@ -6150,7 +6150,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "The shrimp rice bowls (both with and without the soft shell crabs) were absolutely delicious! There was no fishy smell. The sauce was perfect! All the sunny side up eggs were cooked to perfection as well. The vegetables were a tad bland but it was still acceptable to me. The free brown sugar red date wolfberry hot tea tasted so good.\n\nThe lady serving us was friendly and accommodating. All the food items were served pretty fast too although it is stated in the menu that the soft shell crab shrimp bowl might take some time as the crabs are deep fried after order is taken. The soft shell crabs were very crispy as well. Basically, everyone in my family loves the food so much.\n\nRecommended to try out! We will definitely visit again the next time we are in Taipei.",
@@ -6176,7 +6176,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "Had an amazing lunch at Junto. Service was impeccable. Food was delicious and thoughtfully prepared. Each dish comes with a theme/story and combines fresh ingredients, chef’s creativity, and artful presentation.\n\nThe staff takes great care to make sure you are comfortable and explains the ingredients and stories behind each dish. It makes for a very enjoyable dining experience and we cannot wait to return to try the dinner menu which will showcase more entrees vs dim sum bites and therefore a whole different set of cooking skills according to the exceptional maître d’ Terry who warmly welcomes each guest.\n\nWe really feel like we were treated so well during our visit. See you soon!",
@@ -6202,7 +6202,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "Absolutely delicious! I ordered the hot and sour noodles and the shrimp tempura. Everything was cooked perfectly and came out quickly! The staff are extremely friendly as well. I’ll definitely be back!",
@@ -6228,7 +6228,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "I cannot overstate how fantastic of a lunch this was.\n\nFlavorful and fantastic lobster roll, smoked salmon, as well as a deeply enjoyable clam soup. Great idea with the tahini/katsuyobushi broccoli salad.\n\nHowever, the fish (threadfin) was truly exceptional, and one of the best fish cookery I have ever seen, well executed ichiyaboshi combined with a perfect cooking and a blowtorch finish that made the whole fish basically into creme brulee.\n\nWorth changing your way to drop by here, have a lunch with some sake.",
@@ -6254,7 +6254,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "Reply to owner's reply: Level 2 was almost empty but staff didn't use it. I was next in queue and more than 15pax left the restaurant from Level 2.\n\nDon't come without online reservation. Got queue number at 2.30pm and we are next in queue. At 2.50pm, there were many empty tables but realised shortly 6 tables were setup for the staff lunch and other tables were meant for 3.30pm lunch appointment. When I asked if we have a chance to get a table soon, staff informed that it's already indicated that the tables will only be available soonest at 3.30pm when we get our queue number at 2.30pm, so we just have to wait till 3.30pm. Upon my pushing again, staff said 1 reservation was cancelled so we got seated at 3.15pm. I also observed that the tables of 4pax were all reserved by 2pax each. I cannot reasonate with their reservation system so I won't recommend anyone to walk in.",
@@ -6280,7 +6280,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "First time here, accept walk-in only and you will need to scan their QR code when you reached.\nFood ordered:\nTruffle Mushroom Spaghetti - The smell of truffle , taste wise was average ok. I have taste better ones\n\nService - Good and attentive. No doubt.",
@@ -6306,7 +6306,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "We ordered curry with pork chops, bolognese, Bailey’s latte and a seasoned mixed fruit juice. Food is tasty, but a bit pricey, especially the juice considering the portion. My daughter loves their pudding. The price of the pudding is good for the quality. Not many seat but the atmosphere is good, retro fashion style. Only accept cash.\n\nAnyway, it’s a nice place for a quiet afternoon with friends and family.",
@@ -6332,7 +6332,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Updated: 04/2025\nThe quality dropped again, and went around dinner time, many dimsum dishes are sold out, so you have to book in advance. If they can maintain the quality consistently, it would be even better. 🙏🏻\n\nI first tried this place in 2020, and it was insanely good—like really good. The 腸粉 (Steamed Vermicelli Roll) was next level, with that perfectly soft, slightly chewy rice roll wrapping around crispy bouncy shrimp. The 叉燒 (Red BBQ puff) was another standout—the pastry was beautifully layered and flaky, and the red BBQ pork filling was generous and flavorful. The 蝦餃 (shrimp dumplings) had that perfect juicy, snappy shrimp texture, and even the 牛肉球 (meatballs) were huge and well-seasoned.\n\nThat being said, the quality here can be a bit inconsistent. I’ve been back many times, and I have to admit I was disappointed a few times—especially after the pandemic, when the place seemed to go downhill for a while. It even closed temporarily for renovations, so I decided to give it another shot.\n\nGood news—it’s back on track! Not quite at the peak level of my first visit, but way better than during that slump. The 蝦餃 (shrimp dumplings) wrapper was a little too soft and soaky this time, and some of the fried items were a bit greasy.\n\nOne thing that has never changed, though, is the service—absolutely top-tier. The staff is incredibly friendly and attentive every single time. I’ve been here more than ten times now, so I really hope they can keep maintain their standards as before.\n\nReasonable price for great dim sum in town! CP 很高 👏🏻",
@@ -6358,7 +6358,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Nice cozy place with private room at the back and more space on the second floor. The clams pasta is al dente. The steak is great. But the steak with the pasta was a bit tough. The kitchen is however not primed for large groups. We happen to meet a full capacity crowd and our steak took an hour to arrive.",
@@ -6384,7 +6384,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：整體來說氣氛很熱鬧）",
+    "ai_summary": "以家庭聚餐需求來看，整體氛圍對孩子活動較能接受，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "整體來說氣氛很熱鬧"
     ],
@@ -6412,7 +6412,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "整體來看，整體氛圍對孩子活動較能接受，對家庭客人來說會比較方便。",
     "signals": [],
     "reviews": [
       "While window shopping, we stumbled into this incredible restaurant and were seated immediately—no waiting required! The service was exceptional. We were personally met by the supervisor, Alison, who took our order and offered fantastic dish recommendations. Every plate was absolutely delicious.\nThe total came to roughly $60US, which was incredibly well worth the price. This delightful meal easily stands out as the most pleasant experience we had during our visit to Taipei. I highly recommend this restaurant; you are guaranteed a joyful and satisfying dining experience.",
@@ -6438,7 +6438,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：店內用餐空間偏窄但不擁擠）",
+    "ai_summary": "以家庭聚餐需求來看，座位空間不擁擠，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "店內用餐空間偏窄但不擁擠"
     ],
@@ -6466,7 +6466,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：店員態度也很友善）",
+    "ai_summary": "以家庭聚餐需求來看，整體氛圍對孩子活動較能接受，整體服務感受偏友善，用來安排親子聚餐也滿合適。",
     "signals": [
       "店員態度也很友善"
     ],
@@ -6494,7 +6494,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：服務生友善介紹餐點也很親切）",
+    "ai_summary": "整體來看，整體氛圍對孩子活動較能接受，整體服務感受偏友善，帶小孩來用餐相對輕鬆。",
     "signals": [
       "服務生友善介紹餐點也很親切"
     ],
@@ -6522,7 +6522,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：座位很寬敞）",
+    "ai_summary": "以家庭聚餐需求來看，座位空間不擁擠，對家庭客人來說會比較方便。",
     "signals": [
       "座位很寬敞"
     ],
@@ -6550,7 +6550,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "This curry rice is insane—\nit’s incredibly delicious!\nI highly recommend the curry rice, meat, and shrimp cake.\nThe croquette and cabbage are just average.\nYou can even get extra rice and curry sauce!\nThe curry sauce is authentically Japanese and super tasty.\nI totally recommend everyone to come try it.\nI ate two bowls of rice in one go!",
@@ -6576,7 +6576,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：寵物友善）",
+    "ai_summary": "以家庭聚餐需求來看，整體氛圍對孩子活動較能接受，整體服務感受偏友善，用來安排親子聚餐也滿合適。",
     "signals": [
       "寵物友善"
     ],
@@ -6604,7 +6604,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "This place is just alright. I had better sushi in the past before so I couldn’t say it will be the best sushi for me.",
@@ -6630,7 +6630,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "Feeling overwhelmed with the street around, I ducked in “The Carp” and was so happy I did. I kept it simple and had the medium spiced pork noodles, which were amaaaazing. I topped it off with the chicken and abalone soup, which has a lovely light flavor. Sat outside, which was serene and particularly welcome due to the frenetic neighborhood surrounding the restaurant.",
@@ -6656,7 +6656,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "So good~",
@@ -6682,7 +6682,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "My favourite meal in Taiwan so far! The beef roll was incredible. Amazing texture and so much flavour. The dumplings were really well made and prepared and the spinach was a nice clean side to add to the meal.\n\nThe Xiao long bao reminded me of my childhood when my mom used to steam it for me. When food is able to elicit an emotional response like that you know it's good.\n\nThe people working here were so nice. They could tell we couldn't speak mandarin and were patient with us. They have a really solid number queue system which is displayed outside so you know when it's your turn to go inside. Definitely recommend!!",
@@ -6708,7 +6708,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Absolutely the best sashimi I have ever had (believe it or not, including Japan!). The freshness and flavours of each individual slice shines through. Really well priced, much better than what you'd get in the restaurants. If you're lucky, you'll find the chef playing the piano whilst you're eating.\n\nCan be a bit tricky to find the restaurant as its down a quiet lane.",
@@ -6734,7 +6734,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "This was our last meal of our Taipei trip, and it did not let us down! We got quite an assortment of dishes and all of them were wonderful. I could not pick just one favorite item. It is probably good to go here with a group so you can try a bunch. The service was excellent, they kept our table full and made sure we had everything we needed. This was the perfect end to our short trip to Taiwan, Thanks! (also, thanks to Johnnie for taking us to this spot for our farewell meal!)",
@@ -6760,7 +6760,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "Food has an uncanny ability to make people happy - speaking from personal experience. I long for, look forward to, joy-making culinary experiences. In that spirit, 江牛樓 is a smile factory. A joy machine. Serving dishes of pure happiness.\n\nI was grinning with ecstasy through every minute of my first, second and third consecutive daily visits to 江牛樓. Yes - I am obsessed with these beef noodles. And for good reason. These guys are THE beef noodle masters. From the unctuous, umami infused broth. To the beef that melts in your chopsticks as you try to gobble it down. To the dramatic, smoky side dish with a healthy chunk of wasabi. It is joy personified.\n\nThe smile on my face lasted long after I left - and so too did the mouth-watering taste of the broth. And somehow, the staff at 江牛樓, while serving Michelin star quality food, remain completely down-to-earth, welcoming and delightfully unpretentious. After my third (and sadly final - for now) visit I felt like I was leaving family behind. Until I return to Taipei, I will have a void in my heart where the staff at 江牛樓 and their beef noodles will always remain.\n\nIf I could only have one beef noodle for the rest of my life, it would be this one. In fact, if I could only have one dish for the rest of my life, it would also be this.\n\nTry it - you will not be disappointed.\n\n謝謝你. Thank you. Thank you. Thank you 🙏🙏🙏",
@@ -6786,7 +6786,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：店員服務親切友善）",
+    "ai_summary": "從親子用餐角度來看，整體氛圍對孩子活動較能接受，整體服務感受偏友善，對家庭客人來說會比較方便。",
     "signals": [
       "店員服務親切友善"
     ],
@@ -6814,7 +6814,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "My friend had cheese and bacon croissant while I had cheese and egg. The portions are generous and also delicious. The owner and staff are really nice. They came to ask if I would like to sit inside because they were afraid it could be too hot outside. It's difficult to find a stop with quiet outdoor seating in Dihua Old Street, so I highly recommend this restaurant if you also enjoy sitting outside like me 😄",
@@ -6840,7 +6840,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "The food is really-really delicious. I'm visiting first time in Taiwan and the food everywhere is really great and specia,l but here the components are in perfect harmony and each bite is a pleasure.",
@@ -6866,7 +6866,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：卻整條迪化街沒看到友善廁所）",
+    "ai_summary": "整體來看，整體氛圍對孩子活動較能接受，整體服務感受偏友善，用來安排親子聚餐也滿合適。",
     "signals": [
       "卻整條迪化街沒看到友善廁所"
     ],
@@ -6894,7 +6894,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "What a surprising seafood restaurant! Fresh and delicious on all seafood served! On top of that, the dumplings were unusually tasty which was unusual for a seafood restaurant. It is located in an unassuming location where only local would know and enjoy! Adding a bottle of Taiwan beer puts the dining experience with friends to the next level.",
@@ -6920,7 +6920,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "Extremely long wait time, terrible steak (slimy, cold, and no tastes), and ridiculously high price.  The staff seems overwhelmed and was spitting out curse words.  It’s nice that the restaurant was part of the history, but as of now this is way below standard.  Will never come again.",
@@ -6946,7 +6946,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Stopped in for a late lunch and was most pleasantly surprised. The sashimi was expertly sliced, a cut above the standard izakaya fare. Vegetables were delicately seasoned, each dish thoughtfully prepared. Cosy atmosphere and gracious service. Certainly a place to which I shall return.",
@@ -6972,7 +6972,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：貼心又友善）",
+    "ai_summary": "整體來看，整體氛圍對孩子活動較能接受，整體服務感受偏友善，用來安排親子聚餐也滿合適。",
     "signals": [
       "貼心又友善"
     ],
@@ -7000,7 +7000,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：空間寬敞乾淨）",
+    "ai_summary": "以家庭聚餐需求來看，座位空間不擁擠，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "空間寬敞乾淨"
     ],
@@ -7028,7 +7028,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家義式餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Very good pasta with tasty Korean sauce, I also like their appetizers (Korean fried chicken, seafood pancake and soup).  It’s a creative Korean Italian fusion.",
@@ -7054,7 +7054,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "日向洋食 (Hinata) offers refined Japanese-style Western cuisine in an intimate, calm setting. Thoughtfully plated dishes balance comfort and elegance, making it ideal for a slow, special meal.\n\nA minimum spending of NT$200 per person applies, and reservations are required due to limited seating and strong demand.\n\nThe only downside: they accept cash only, which feels a little old-school.",
@@ -7080,7 +7080,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "I ordered the cheese bolognese, and the serving was big and filling. The taste itself was really good 😋 My companion got the meat lovers’ breakfast, and I was able to try the mushroom, which was soft and chewy. Everything we tried was well-prepared and tasty. I’d love to come back here the next time I’m in Taiwan!",
@@ -7106,7 +7106,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "This is a restaurant that I would only come to once. 🤔\n\nThe restaurant is on the second floor. The main dishes are rice bowls. The meat is small for the price. 🥩The side dishes are just some very cheap side dishes.\n\n💰The decoration costs a large proportion of the meal.\n\nThe store will receive a free side dish if it has five reviews🌟",
@@ -7132,7 +7132,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "The Spicy Chicken Hot Pot was delicious, packed with ingredients, and full of bold flavors. It was incredibly fragrant and paired perfectly with rice. The chicken was exceptionally tender.\n\nThe Green Papaya Chicken Hot Pot also had plenty of ingredients, but it was a bit overly salty, which was different from what I had expected.\n\nThe restaurant’s interior had a strong ancient ambiance, which I really liked.",
@@ -7158,7 +7158,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Having arrived in the Shilin area early for official business at the nearby Shilin Residence, I thought it most fitting to begin the day with a hearty breakfast at a reputable establishment. Sadly, my visit to the Shilin Kitchen within the Renaissance Taipei proved to be far less agreeable than anticipated.\n\nUpon entering, I was received by a male host whose demeanour could best be described as impatient and indifferent. One expects, at the very least, a modicum of courtesy and attentiveness in such establishments. Unfortunately, none was afforded. The interaction felt rushed and perfunctory, lacking even a semblance of hospitality.\n\nThe marble-top tables, though ostensibly luxurious, were presented bare, no placemats, no tablecloths, leaving every scratch, mark, and smear cruelly exposed under the morning light. It gave an impression less of minimalist chic and more of carelessness.\n\nAs for the breakfast itself, one could only describe it as entirely lacklustre. The scrambled eggs were a disappointment, texturally unappealing and lacking in seasoning. The pre-cooked fried eggs, sitting forlornly under a heat lamp, were equally uninspired. Fruits, which should bring freshness and colour to a morning plate, were limited to a paltry selection, perhaps two or three uninspired choices.\n\nThere was no sense of thought or culinary pride in the offerings. The entire affair felt as though it had been assembled out of obligation, not care. It was the kind of buffet one might expect at a lesser hotel chain, not from a property under the Marriott name.\n\nThankfully, I was in possession of a dining voucher, which slightly softened the blow. Had I paid full price for this uninspired experience, I dare say I would have regretted it most bitterly.\n\nA deeply underwhelming breakfast marked by indifferent service, poor presentation, and a conspicuous absence of culinary inspiration. I would not return, nor recommend it, unless, of course, one is armed with a voucher and exceedingly modest expectations.",
@@ -7184,7 +7184,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "Nice dining experience! The decor at the restaurant is very fun, with lots of cute little novelties!\n\nThe food is nice too, I can say with certainly that the fried chicken here is something to look forward to! How they are able to make the skin crispy but still maintain very thin, so it doesn’t hurt our mouth when eating it, awesome!\n\nThe noodle though, I must say, is nice, but I d had better noodle in some other place, to be fair\n\nBut all in all I’d say it’s still a very interesting dining experience that I’ll be sure to score 5 star and I myself would look forward to coming here the next time I’m in the neighborhood!",
@@ -7210,7 +7210,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "以家庭聚餐需求來看，整體氛圍對孩子活動較能接受，對家庭客人來說會比較方便。",
     "signals": [],
     "reviews": [
       "this romatic place at the night for a dinner\nfood good,service is good,clean place",
@@ -7236,7 +7236,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：整體空間寬敞舒適）",
+    "ai_summary": "從親子用餐角度來看，座位空間不擁擠，用餐節奏比較放鬆，用來安排親子聚餐也滿合適。",
     "signals": [
       "整體空間寬敞舒適"
     ],
@@ -7264,7 +7264,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "Ramen is more than perfect! It's super tasty! Fried oysters and lobster salad are great too. Chef and staff are very nice and friendly. Would love to re-visit and try other dishes.",
@@ -7290,7 +7290,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "整體來看，整體氛圍對孩子活動較能接受，用來安排親子聚餐也滿合適。",
     "signals": [],
     "reviews": [
       "Good",
@@ -7316,7 +7316,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：空間寬敞&廁所乾淨加分❤️）",
+    "ai_summary": "從親子用餐角度來看，座位空間不擁擠，用來安排親子聚餐也滿合適。",
     "signals": [
       "空間寬敞&廁所乾淨加分❤️"
     ],
@@ -7344,7 +7344,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：用餐環境乾淨且寬敞）",
+    "ai_summary": "從親子用餐角度來看，座位空間不擁擠，用來安排親子聚餐也滿合適。",
     "signals": [
       "用餐環境乾淨且寬敞"
     ],
@@ -7372,7 +7372,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "If you are craving authentic Malaysian food, you must visit Mr. Chee (Shilin Branch)! They hold a Halal-friendly certificate and use only Halal-certified meat sources, so you can dine with peace of mind. The location is very strategic, situated right near Zhishan Station. Their laksa soup is incredibly delicious, and you can really taste that all the condiments are freshly made. It is a highly recommended spot for any Muslim friend looking for a great meal in the area.",
@@ -7398,7 +7398,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Update: they changed to a nearby bigger place. Better one. More space for guests to eat, with same price and same excellent service.\n\nOne of the best ramen i have tasted, in my opinion. The place is small and cute, there was a line but i didn't wait too long. The food came very quickly and the employees were amazingly helpful.\n\nThe broth is really creamy so beware if you dislike thick broth. The texture of the noodle is unique and a great pair to the broth. The place itself is clean and comfortable.\n\nPrice wise is so-so, price range $190-$250 approximately.",
@@ -7424,7 +7424,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Delicious Japanese bento-style set meals with a Taiwanese twist.\nTaste is good and well-balanced, with generous portions.\nPrices are slightly above average, but value is added with free miso soup and friendly service.\nA satisfying and comforting meal overall.",
@@ -7450,7 +7450,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "提供兒童餐、座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：最令人滿意的是空間寬敞）",
+    "ai_summary": "這家餐廳有兒童餐可選，座位空間不擁擠，對家庭客人來說會比較方便。",
     "signals": [
       "最令人滿意的是空間寬敞"
     ],
@@ -7478,7 +7478,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Definitely need to try out their hotpot! I ordered beef hotpot and there are many ingredients added in both seafoods, vegetables and many meat balls! With only 190 TW dollar! They also offered free drink with unlimited refills and rice if you order fried chicken! Very popular among local!",
@@ -7504,7 +7504,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：空間寬敞）",
+    "ai_summary": "這家咖啡廳座位空間不擁擠，用來安排親子聚餐也滿合適。",
     "signals": [
       "空間寬敞"
     ],
@@ -7532,7 +7532,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Local time-honored brand Shanghai restaurant in Tainmu. Spacious and clean environment.\n\nMiniature pork steam bun was cute but tasted normal. Fang's specialty tofu was awesome! Soft tofu and it was appetizing.\n\nShredded beef fried rice had Wok Hei. It was absolutely one of my favorite fried rice! Deep-fried space-rib dressed w/ sweetened soy-sauce was impressive. Crispy outside and tasted like Taiwanese fried chicken.\n\nReasonable price and friendly service. We ordered six dishes and one soup for a total of NT$2500. Good for family gathering. Especially bringing elders. Next time must order donpo pork.",
@@ -7558,7 +7558,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：還是寵物友善的環境唷）",
+    "ai_summary": "這家餐廳整體氛圍對孩子活動較能接受，整體服務感受偏友善，帶小孩來用餐相對輕鬆。",
     "signals": [
       "還是寵物友善的環境唷"
     ],
@@ -7586,7 +7586,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "這家餐廳整體氛圍對孩子活動較能接受，對家庭客人來說會比較方便。",
     "signals": [],
     "reviews": [
       "This restaurant is like a fancy version of a noodle restaurant. It does not only serves noodles but also served some Taiwanese dishes and seafood. The noodle was tasty, and the owners were friendly. Strongly recommend this good place if you want to go to a simple place and chat with your friends in a good vibe which also provides tea for free.",
@@ -7612,7 +7612,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：氣氛熱鬧歡樂）",
+    "ai_summary": "以家庭聚餐需求來看，整體氛圍對孩子活動較能接受，帶小孩來用餐相對輕鬆。",
     "signals": [
       "氣氛熱鬧歡樂"
     ],
@@ -7640,7 +7640,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "從親子用餐角度來看，整體氛圍對孩子活動較能接受，用來安排親子聚餐也滿合適。",
     "signals": [],
     "reviews": [
       "Absolutely loved this hidden gem.  There’s actually a speak easy inside the restaurant (upstairs).  The food was spectacular!  We had the spicy fried chicken and sugar cane shrimp roll.  Eat the sugar cane that it’s wrapped around!!  Hookah was also great!  Love love love.",
@@ -7666,7 +7666,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "I’d give it three star not because it’s bad. The taste is good, the make is really basic. The ten herbs soup was tasty but the rib is all bones. Would have loved it maybe because I’m comparing it to how my grandparents would make it at home. For the chicken, I think it’s not as tender and flavourful but it fills me up. The noodle and vegetable is tasty but there’s lack of ingredient.\n\nHowever, if you’re not a local and you want to get a taste of Chinese local cuisine… this is not bad already.",
@@ -7692,7 +7692,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：也很親子友善）",
+    "ai_summary": "這家義式餐廳整體氛圍對孩子活動較能接受，整體服務感受偏友善，帶小孩來用餐相對輕鬆。",
     "signals": [
       "也很親子友善"
     ],
@@ -7720,7 +7720,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "The portion is more than enough for one people, next time i'm here i will choose to share than order for myself. The pasta itself tastes great, really generous with the sauce and the meat. The ambience of the restaurant is good, good cleanliness as well. The food was served quickly, and a bit crowded during my visit too.\n\nSuperb location, near Shilin MRT station.",
@@ -7746,7 +7746,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "So good!! Paid 115 NTD in total for the rice and the pork bun. Very good value for money!",
@@ -7772,7 +7772,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "One of the best dumpling and potsticker places in the Taipei area! Also be sure to order the always changing traditional soup of the day!",
@@ -7798,7 +7798,7 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "提供嬰兒椅，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "以家庭聚餐需求來看，有提供嬰兒椅，對家庭客人來說會比較方便。",
     "signals": [],
     "reviews": [
       "This spot serves up solid Taiwanese home-style comfort food. Very humble setting, nothing fancy, just good cooking. You can order on the machine (super easy), or if that’s not your vibe, the staff will happily take your order. The service is really friendly and everyone was nice. There's a self-help condiments that you get yourself on the side bar and a sink to wash your hands before eating too.\n\nWe ordered all the Taiwanese classics between the two of us and had ourselves a pretty satisfying meal. I’m not even that into Taiwanese food (other than that fatty pork over rice… my one true love), but everything was tasty. I’ve been to their other location too, and the quality is consistently good.\n\nIt was a rainy evening, no line at all, and we were seated right away. Cozy, comforting, and reliable—exactly what you want on a wet night!",
@@ -7824,7 +7824,7 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Located inside the Regent Taiwan Hotel in Beitou, this spot dishes out some solid hotpot. Their seafood and meats are super fresh, and once you place your order, the salad bar turns into an AYCE situation. Same with the dessert bar—yes, you can build your own ice cream sundae, and yes, it’s as fun as it sounds. You can even mix up your own soda flavors if you’re feeling creative.\n\nService is very friendly and efficient and the ambiance is pretty nice. Your typical hotel restaurant vibe in Taiwan. Great for big or small groups.\n\nA group of us came here and had a great meal—easy, tasty, and everyone left happy. The hotel also has an onsen, so next time I’m definitely pairing this with a spa day. Hotpot + hot spring? Yes, please.",
@@ -7850,7 +7850,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Amazing place with exceptional food. Service is just as you wish it would be!\n\nThank you team for making my dinner memorable with \"exotic\" outstanding food!\n\nMust visit !",
@@ -7876,7 +7876,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "Great service and delicious noodle. Japanese fried noodle is highly recommended.",
@@ -7902,7 +7902,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "Food was tasty. We ordered the eel with rice and crispy pork. They have english menus to look at and then you order using a QR code they place at your table, on receipt paper, when you sit down. You pay at the end.\n\nService was fast. Bathrooms were clean.",
@@ -7928,7 +7928,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "we ordered their set dinner.  the service was top 5 star hotel services. they explained their food well, and was attentive to customer's needs.  though it was a bit strange that this restaurant is located on ground floor which lacked a bit of privacy.  the food was nice, but only a few dishes were memorable.  can pass on the \"free\" french dessert.  the dessert that was included in all sets was alright. i wished they made their own ice cream.  their main course was their highlight!",
@@ -7954,7 +7954,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "Love the ambience, architecture n the cute landscape figurines! Omakase lunch was delicious especially the herbal duck soup.\nConsider upgrading the service staff uniform to be more aligned with the premium pricing n elegant atmosphere.\nCan improve on the range of toiletries in the spa rooms eg hair conditioner, facial cleanser, etc. Will recommend to friends!",
@@ -7980,7 +7980,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家燒肉店的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "AMAZING food quality and service. This is not your regular Yakiniku - the passion of the staff and owners permeates into every bite. Highly recommended!!",
@@ -8006,7 +8006,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "Great expérience here. Food is really good. View on the famous library make this special. Tina and Made were so kind and made your lunch very enjoyable. Great service. Thanks for their smile and kindness.",
@@ -8032,7 +8032,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Excellent food and excellent service from Oscar. Thank you for your service!",
@@ -8058,7 +8058,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "Best meal of our trip in Taiwan so far. Every course was tantalising, ingredients were high quality, taste was sublime. Highlights were the first dish (black beans were incredibly sweet), third dish (interesting), fourth dish (prawn so fresh, pork so tender), sixth dish (finished last drop of the soup). Worth the price tag of ntd1430 after tax. Complimentary entry to the adjoined Beitou Museum if you have a reservation for a meal at Yiran house. If I had to suggest improvements, it would be to add some crabmeat to the chawanmushi (couldn't find any), and source for better quality fruits (watermelon was bland). Regardless, was a fantastic meal. Highly recommend.",
@@ -8084,7 +8084,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：進來餐廳裡面蠻寬敞）",
+    "ai_summary": "從親子用餐角度來看，座位空間不擁擠，用來安排親子聚餐也滿合適。",
     "signals": [
       "進來餐廳裡面蠻寬敞"
     ],
@@ -8112,7 +8112,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "We came to Yu Dang Jia Restaurant for lunch after a morning soak in one of Beitou’s hot spring. They require advance reservations with a deposit which can be done via Facebook or Instagram and paid via PayPal. The restaurant is small with an L shaped counter. We communicated with the chef using Google translate and our limited Chinese. Tea is self serve and they have a selection of beer and wine though we did not ask for the list. The meal was about US$50 (TWD$1500) per person and comprised twelve courses. The dishes were beautifully presented. The quality of the seafood was superb. I thought it was just the right amount of food but others in my party were stuffed. My comments on the dishes are in the pictures I uploaded. My favorite was the tuna collar steak. I highly recommend this restaurant and it is an excellent cap to an onsen experience in Beitou.",
@@ -8138,7 +8138,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "chicken in the salad was very dry. played 1 single song, jingle bells, in repeating loop, for our entire meal.\n\nfood was decent.",
@@ -8164,7 +8164,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：炒地瓜葉牙齒友善）",
+    "ai_summary": "整體來看，整體氛圍對孩子活動較能接受，整體服務感受偏友善，帶小孩來用餐相對輕鬆。",
     "signals": [
       "炒地瓜葉牙齒友善"
     ],
@@ -8192,7 +8192,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "We came here before and it was amazing. But this time we felt a\nbit disappointed as we also lined up for like 30 minutes only to be served spoiled taro and 1 year old 油條. Nasty🤮 They did however have other special toppings that you can’t find anywhere else. Just hope they improve their food quality.",
@@ -8218,7 +8218,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Delicious springy ramen in bei tou. I love their fried mochi! They serve beer and sake.\nThey are open at 11.30am and make sure you are there early as the restraunt fills up within minutes. It's on a first come first serve basis.\nIf you manage to win a bell game, you get 50% off the fried tofu dish. Fun!\nService wise is efficient and ambience  wise, brings me back to 100 years ago in Japan. Overall a great experience.",
@@ -8244,7 +8244,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "Dining at Piacere, the main Italian restaurant at The Gaia Hotel, was a delightful experience.\n\nThe ambiance is beautifully complemented by stunning garden views and a lovely vista of the hotel's lobby library, making it a perfect setting for both breakfast and dinner.\n\nThe menu features a wonderful selection of Italian cuisine, showcasing fresh ingredients and expertly crafted dishes. Every meal felt like a celebration of flavors, making it a highlight of my stay.\n\nWhether you're starting your day with a hearty breakfast or enjoying a refined dinner, Piacere provides an inviting atmosphere that enhances the overall experience at The Gaia Hotel.\n\nThe combination of great food, beautiful surroundings, and attentive service truly sets Piacere apart. Highly recommended for anyone visiting Beitou!",
@@ -8270,7 +8270,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "We arrived without reservations and sat at the counter. The service staff is attentive and helpful. She helped our elderly parents decipher the menu and order. They truly enjoyed the chicken skewers, grilled mackerel and pao fan.\nThe chefs are amazing, working like a fine tuned instrument making music to our stomachs!\nBeef tongue stir fried with chilli is my favourite dish.\nBeef skewer with soy or pesto are both delicious.\nLamb skewers underwhelming.\nStirfried lotus greens were perfect!",
@@ -8296,7 +8296,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：座位空間寬敞舒適）",
+    "ai_summary": "這家餐廳座位空間不擁擠，用餐節奏比較放鬆，帶小孩來用餐相對輕鬆。",
     "signals": [
       "座位空間寬敞舒適"
     ],
@@ -8324,7 +8324,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "We have a seat alongside windows with clean and comfortable environment.\nVery nice experience while having each dinner set dishes, especially lobster with delicate flavor. Pretty good",
@@ -8350,7 +8350,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "Good Chinese cuisine around the neighborhood. The large portion of dishes  is a bit small for 4 people. We have ordered 5 dishes and good enough.",
@@ -8376,7 +8376,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "Came here for Mother’s Day lunch. Found this place after our visit to the library. Only 3 minutes walk. Be here early or ensure you make a reservation. Opens for lunch at 1130. They offer both set and ala carte meals. We order 2 different sets and additional pork dishes. Free flow of beverages are provided too. Overall, we had a pleasant experience.",
@@ -8402,7 +8402,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "This is the worst ramen shop I have visited in Taiwan. Please don’t tell me the owner is from Japan—this quality would only embarrass us Japanese people! The food here is absolutely not worth the price, especially for tourists unfamiliar with the area. I am one of those tourists, and it’s obvious this place is taking advantage of visitors.\nThe ramen has no flavor at all, the soup is extremely bland, and the portion size is shockingly small. The side dishes are overpriced—for example, two small oysters cost NT$150, while other places offer at least three for the same price. The so-called “onsen tamago” doesn’t resemble a proper Japanese-style egg at all; it’s basically a regular hard-boiled egg with a slightly soft yolk, yet they charge NT$40 for one. I really cannot understand what is special about it.\n\nOn top of that, the restaurant charges an extra 10% service fee despite the high prices. Customers should also be careful, as this place even overcharges by one or two dollars. It may seem small, but when they do this to every customer, it becomes an unreasonable profit.\n\nMost diners I saw were also tourists like us, and after this experience, I cannot recommend this restaurant to anyone.",
@@ -8428,7 +8428,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "We had this as a meal during our tour!\nThe spare ribs were hit or miss, with lots of bones and not much meat.\nThe broccoli that came with the spare ribs was well seasoned and delicious.\n\nThe food was generally heavily seasoned, but the salad was refreshing with a sesame dressing.",
@@ -8454,7 +8454,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "Visited 仙客來海鮮庭園餐廳 with a group of four and ordered 7 dishes. The food tasted good, and we appreciated the free-flow rice and ice cream, which was a nice touch. However, we did find the portions a bit small, especially considering the price, felt a little on the pricy side for what we got.\n\nThe restaurant was quite noisy during our visit since there was a party going on, so it’s probably better for large group gatherings than a quiet dinner.\n\nOverall, decent food, but not sure if the value matches the price point unless you’re here with a bigger group looking for a lively atmosphere.",
@@ -8480,7 +8480,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前未見明確的親子設施資訊，這家日式餐廳是否適合帶小孩前往，仍需依現場環境評估。",
     "signals": [],
     "reviews": [
       "[no English menu] the food is pretty good here and it’s popular in the dinner time. The service is also nice but the toilet is not very clean.",
@@ -8506,7 +8506,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "When you taste it, you know how they got the michelin. Very filling as well.\nI preferred the Taiwanese one over Western breakfast.\n10/10",
@@ -8532,7 +8532,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Should have read the latest reviews, before coming here. Avoid this place, unfortunately it leaves a bad impression. After ordering Ramen,\nI went to wash my hands and lady was asking me, while I was in a bathroom, if I want tofu and egg. I said, yes since  I thought this will  be part of Ramen. When paying, I realized that these were all extras. So instead of 399, the lady wanted to charge me 699. I protested, since I found it unfair. The lady, who previously was speaking English, \"forgot\" all her english and even started to talk loudly, telling me that \"how can you think that there can be a tofu in ramen\".\nAvoid this place and remember, that whatever the lady offers will require an extra charge.",
@@ -8558,7 +8558,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "提供兒童餐、座位空間較寬敞，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "以家庭聚餐需求來看，有兒童餐可選，座位空間不擁擠，帶小孩來用餐相對輕鬆。",
     "signals": [],
     "reviews": [
       "It's an IHOP or Friendly grade restaurant in Taiwan.\n\nSpacious and noisy. Western style settings of food and vibes. Not an upscale restaurant, one would enjoy food all by oneself or with a whole bunch of friends and chat about others' gossips!\n\nRecommended for people likes to eat listening not to the music but people yabbering!\n\nBTW, like many of the hospitality organizations, they are short on man power. Always inquire about any questions or concerns that you have, it will be taken care of, just a matter of time!",
@@ -8584,7 +8584,7 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Very welcoming staff. Unbelievable taste on Japanese cuisine with local Taiwanese touch. Sashimi and sushi size are generous. Miso soup is sweet and is complimentary. Seafood congee takes a while to prepare but is super umami-rich is flavourful. Must visit.",
@@ -8610,7 +8610,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "Amazing food, great atmosphere, comfortable seating. Perfect for a group meal in a relaxed setting. Tables spaced pretty far apart so you get a sense of privacy and intimacy.\n\nFavorite menu item by far was the crispy shrimp rice roll. A unique recipe to this restaurant, and amazing flavor, and well thought out concept.\n\nWould go whether or not I’m staying at this hotel.",
@@ -8636,7 +8636,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：店家對小孩很友善）",
+    "ai_summary": "整體來看，整體氛圍對孩子活動較能接受，整體服務感受偏友善，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "店家對小孩很友善"
     ],
@@ -8664,7 +8664,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "這家日式餐廳整體氛圍對孩子活動較能接受，用來安排親子聚餐也滿合適。",
     "signals": [],
     "reviews": [
       "I found the food delicious and was surprised by the big size of the portions. Free tea and miso soup. The decoration is very impressive. You must remove your shoes before entering. The staff is friendly and menu is available in English.",
@@ -8690,7 +8690,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：店員友善親切）",
+    "ai_summary": "這家餐廳整體氛圍對孩子活動較能接受，整體服務感受偏友善，用來安排親子聚餐也滿合適。",
     "signals": [
       "店員友善親切"
     ],
@@ -8718,7 +8718,7 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：在熱鬧的街道華西街裡面）",
+    "ai_summary": "這家餐廳整體氛圍對孩子活動較能接受，對家庭客人來說會比較方便。",
     "signals": [
       "在熱鬧的街道華西街裡面"
     ],
@@ -8746,7 +8746,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "For a pricey NT$4,000 omakase, the meal was a total letdown with dishes served in utter disarray: cold starters, then hot appetisers, followed by sashimi and then steamed egg. The jarring shifts in temperature and flavors felt chaotic and off-putting, nowhere near the seamless experience a proper omakase should deliver.\n\nThe atmosphere was downright stressful, the boss lady yelling, interrupting diners to chat, and barking at her staff right in front of everyone. She even scolded us for “eating and drinking too slowly,” making the whole evening tense and uncomfortable from start to finish.\n\nTo top it off, I ended up with gastroenteritis the next day. I wouldn’t recommend this restaurant.",
@@ -8772,7 +8772,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "Arrived around 7:00PM and got in right away. We all ordered individual beef noodle soup and dumplings to share. I ordered a large and i couldn't finish all the noodles. The noodles had a nice al dente chewiness to them. The beef was nice and tender. I've had richer more complex broths but it was still good.\n\nThe plump dumplings were freshly boiled and arrived hot.\n\nThe noodles and dumplings are a great  value.",
@@ -8798,7 +8798,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Great beef noodles in this lovely corner. The owner wants to replicate her fathers’ taste and this store is the result. The soup was cooked with beef bones for 9 hours; it’s favorable and surprisingly the soup gets even tastier when it’s less hot.\n\nThe side dishes are tasty and delicate. Another must try is the shrimp dumplings with sesame flavored hand-made sauce. The owner is hospitable. The place is warm and welcoming. It’s one of a kind dining experience in WanHua. Highly recommended.",
@@ -8824,7 +8824,7 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "We stopped by 天天利美食坊 in the heart of Ximending, and it was already buzzing before opening time.  We noticed that they have over 8K reviews, which definitely raised our expectations, and judging by the early lineup, we were not the only ones curious.\n\nWe arrived before they opened, but there were already people patiently waiting outside.  That alone tells you how popular this spot is, especially with visitors exploring the area.\n\nWe ordered their signature dishes, including the classic 滷肉飯 lu rou fan, 蘿蔔糕 radish cake, and 蚵仔煎 oyster omelette.  Everything came out hot and freshly cooked, which we really appreciated.  Overall, the food was good and satisfying, though the crowd leaned more toward tourists than local Taiwanese diners.\n\nThat said, the flavours were solid and comforting, especially when everything is made to order.  You can tell the kitchen moves fast.\n\nIf you are exploring Ximending and want to check off a well-known spot, 天天利美食坊 is the place for you.\n\nFood:  🍚🍚🍚🍚🍚 Must try.\nService: 👩‍🍳👩‍🍳👩‍🍳👩‍🍳\nKids: 👶👶👶👶\nPresentation: 📷\nTransit: 🚌🚌🚌🚌\nTips:\n📝 Place and pay for your order first before you get assigned a seat.\n📝 For take-out, ask the server directly since no line-up is needed.\n📝 Every dish is cooked to order, so expect piping hot food.\n📝 The space is small, and the wait for a seat can be long, so go with patience.\nWould we return: Yes 👱‍♀️",
@@ -8850,7 +8850,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "Cozy with amazing food. Only 2 tables available each night! Very intimate environment.",
@@ -8876,7 +8876,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "We came with the hope for Western breakfast but there was none when we came other than the sausage which they labeled as \"exotic food\" lol idk why! This is mostly Asian good so if you're expecting for pancakes, and french toast or western breakfast, you will br disappointed. The place was nice tho.",
@@ -8902,7 +8902,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "Recommended this restaurant by my dad as this place has been around since 1946. The sashimi and sushi here are very generous and and the prices are super affordable. Personally, the taste of the cuisine is different from what you'd get in Japan and more of a Taiwanese spin with some sweeter notes. I love the interior as it does have nostalgic vibes and the servers are nice as well.",
@@ -8928,7 +8928,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：人來人往、熱鬧非凡）",
+    "ai_summary": "這家餐廳整體氛圍對孩子活動較能接受，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "人來人往、熱鬧非凡"
     ],
@@ -8956,7 +8956,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Highly recommended!! Good service and food👍",
@@ -8982,7 +8982,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "The restaurant is located in the basement of\nWan Nian Commercial Building (萬年商業大樓) in Ximending.\n\nIt’s a bit hidden — you have to go down to the basement level. The area feels like an old-school food court, but each stall is clearly separated.\n\nThis was one of my favorite meals in Taiwan\n\nRich, flavorful broth, tender beef, and freshly handmade noodles. The dumplings were amazing too — especially with chili oil.\n\nVery local, cash only, and totally worth finding.\n\nI’m already craving it again just thinking about it.",
@@ -9008,7 +9008,7 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：真的很友善）",
+    "ai_summary": "從親子用餐角度來看，整體氛圍對孩子活動較能接受，整體服務感受偏友善，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "真的很友善"
     ],
@@ -9036,7 +9036,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "Had family reunion lunch in this restaurant, 12pax for 14,500 NTD, not too expensive while the portion of each dish is big enough, mainly seafood.\nParking is a big challenge in this area as we are not familiar with its location but not too far, there is a parking tower built by Caesar hotel within walking distance\nDeco of this restaurant is quite unique, feel like eating in our own living room at home.\nRecommended !!",
@@ -9062,7 +9062,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：相當熱鬧、美好的一天）",
+    "ai_summary": "整體來看，整體氛圍對孩子活動較能接受，對家庭客人來說會比較方便。",
     "signals": [
       "相當熱鬧、美好的一天"
     ],
@@ -9090,7 +9090,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Liang Xi Hao literally means “a house of double happiness.”🇹\n\nAfter the two women made their wishes at Longshan Temple,\nthis was the very first place we stepped into among the nearby eateries.\n\n'Squid Thick Soup' wasn’t exactly to my taste, to be honest.\n\nBut 'Braised Milkfish Belly' gave me, a devoted lover of fish, a quiet kind of delight. 😍\nIts flavor was delicate yet rich, with a subtle oiliness that made it unexpectedly appealing.\n\nWe dined on the second floor. The space was calm and tidy, pleasantly removed from the noise of the busy street below. That slight distance from the crowd made it even more enjoyable.\n\nAnd the prices were kind. Truly excellent value for money.\n\nSo naturally, it earns a high rating from me. 😄",
@@ -9116,7 +9116,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：位於萬華的這間友善寵物咖啡廳）",
+    "ai_summary": "以家庭聚餐需求來看，整體氛圍對孩子活動較能接受，整體服務感受偏友善，帶小孩來用餐相對輕鬆。",
     "signals": [
       "位於萬華的這間友善寵物咖啡廳"
     ],
@@ -9144,7 +9144,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "整體來看，整體氛圍對孩子活動較能接受，對家庭客人來說會比較方便。",
     "signals": [],
     "reviews": [
       "The food was decent, but quite overpriced for the overall experience. Service was slow and not very professional, which made the visit less enjoyable. The ordering system was also confusing — we had to queue ourselves just to get the 蘿蔔糕 and 腸粉, which felt inconvenient and poorly organized. The restaurant feels old, and cleanliness needs improvement; the floor was sticky and the overall hygiene was below expectations. With better management, improved service, and attention to cleanliness, this place could offer a much better dining experience.",
@@ -9170,7 +9170,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "The food and service were average, and the space was rather small. The restaurant seems to primarily focus on delivery orders. There's no restroom inside, which is something that could be improved.\n\nThe chicken and pork chops were decent, nothing special. I wouldn't recommend the crispy chicken! It's mostly skin; there's very little meat inside – a disappointment!\n\nI wouldn't recommend the shrimp patties either; they were too soft and didn't seem very fresh. The golden kimchi was good! A small plate costs 40 yuan, so the price is subjective.\n\nOverall, I think if you live nearby, you can check it out, but don't bother making a special trip to the restaurant!\n\nOrdering two main dishes, a small shrimp patty, two hash browns, and a small plate of kimchi totaled 400 yuan, which is acceptable.",
@@ -9196,7 +9196,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家日式餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Absolutely food from the heart - their omakase 無選單料理 is a great experience - generous with the finest ingredients, and well-thought out combination of seasoning.",
@@ -9222,7 +9222,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "A small Taiwanese style izakaya, maybe make a reservation cause it was pretty full when we dined there.\n\nLike most Japanese places in Taiwan, the food there is a bit of a fusion of Taiwanese style as well, but that’s not a bad thing. Maybe choose another place if you want something very authentically Japanese tho.\n\nThe food was generally good, but the service was a bit slow.",
@@ -9248,7 +9248,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Taiwanese Izakaya with lively vibes and tasty Taiwan style barbecue and fried dishes. Most of the wine are made in Taiwan, have to try their crispy pork, tamagoyaki with cheese and peanut butter. Just ordered the grilled food you’d like to try, they’re all delicious.",
@@ -9274,7 +9274,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Trying another braised pork rice for supper.\n\nPortion big. Especially for pork belly. So much bigger than the rest.  Taste is good and flavourful. Give a lot of side dishes and portion is packed. So very worth it and tasty. Hardly see a lot of shop giving so much stuffs.\n\nService fast and good.",
@@ -9300,7 +9300,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "It was very delicious. I went to eat there two years ago and only just got around to reviewing it. I even went two days in a row! This year I’m planning to go to Taiwan, and this restaurant is one of the places I will definitely go back to eat at! 😋",
@@ -9326,7 +9326,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "Fantastic dining experience, we felt taken care of. With only 9 seats, it was intimate watching the chef perform their craft. My spouse doesn't eat beef or pork, and they were able to substitute with lovely alternatives. Highly recommended!",
@@ -9352,7 +9352,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "I haven't been to China Liuchow where the noodle dish is originated from, so could not judge on the authenticity.\n\nBut the taste was good, sour and spicy soup with smooth but very chewy noodle, something you could not find easily in Taiwan.",
@@ -9378,7 +9378,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Good~",
@@ -9404,7 +9404,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：位子算寬敞）",
+    "ai_summary": "以家庭聚餐需求來看，座位空間不擁擠，用來安排親子聚餐也滿合適。",
     "signals": [
       "位子算寬敞"
     ],
@@ -9432,7 +9432,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "I recently dined at this Hakka restaurant with family, and I can confidently say it’s the best Hakka cuisine I’ve ever had. We ordered 10 different dishes to share, and every single one was absolutely delicious — not a single miss on the table! Each dish was full of flavor, perfectly seasoned, and beautifully presented.\n\nOn top of the amazing food, the service was equally impressive. The staff were friendly, attentive, and made us feel genuinely welcomed throughout the entire meal. It’s rare to find a place that delivers both outstanding food and warm, thoughtful service.\n\nIf you’re looking to experience authentic, top-quality Hakka food, this place is a must-visit. I’ll definitely be coming back!",
@@ -9458,7 +9458,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "I really craved meat, so I immediately went for the premium wagyu beef belly donburi at $450. The sauce was incredibly flavorful, and with the scallions and sesame sprinkled on top, it was really delicious. But I was a bit confused — is it supposed to be around medium-rare? Because my legs aren’t very mobile, and for people with poor dental strength, remember that this donburi requires a lot of chewing. If you have trouble with your teeth, it might be better to order the fully cooked yakiniku donburi, which is easier to chew and swallow.\nThe second dish was a regular yakiniku donburi at $280. I wanted to order a more affordable, safe choice to compare it with the $450 wagyu version. Basically, it’s fully cooked, and I think it’s suitable for kids or elderly people who prefer their meat well-done.",
@@ -9484,7 +9484,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "整體來看，整體氛圍對孩子活動較能接受，用來安排親子聚餐也滿合適。",
     "signals": [],
     "reviews": [
       "Very tasty food.\nWe ordered Korean style marbled pork cutlet Risotto and Roasted Garlic chicken pasta.\n\nMust visit again..",
@@ -9510,7 +9510,7 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "提供兒童餐，整體環境對帶小孩的家庭較為友善。",
+    "ai_summary": "這家餐廳有兒童餐可選，對家庭客人來說會比較方便。",
     "signals": [],
     "reviews": [
       "Yum!! Came here for xmas meal, we had a nice gathering with good foods. The portions are pretty big, and the coconut cake was delightful. The fries were delicious too, the steak is a bit thin tho. Will visit again.",
@@ -9536,7 +9536,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "Nangang has a good hot pot restaurant, those who like spicy food can come here.",
@@ -9562,7 +9562,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：別的貳樓有寵物友善）",
+    "ai_summary": "這家餐廳整體氛圍對孩子活動較能接受，整體服務感受偏友善，帶小孩來用餐相對輕鬆。",
     "signals": [
       "別的貳樓有寵物友善"
     ],
@@ -9590,7 +9590,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "fried chicken is crispy...lovely beef noodles",
@@ -9616,7 +9616,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Great food, nice place.\n\nVery hard to find, it's located in the basement 2 levels below building A",
@@ -9642,7 +9642,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "A basic Burger steak.\n\nThe burger steak had a lot of gristle, and the only good thing about the meal was that the meats was juicy and the fries were tasty. For 400 NTD, I’d rather pay 50 more and go to Hamburg Yoshi instead.",
@@ -9668,7 +9668,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：座位夠寬敞,）",
+    "ai_summary": "從親子用餐角度來看，座位空間不擁擠，對家庭客人來說會比較方便。",
     "signals": [
       "座位夠寬敞,"
     ],
@@ -9696,7 +9696,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：島語的早餐環境挑高寬敞）",
+    "ai_summary": "從親子用餐角度來看，座位空間不擁擠，帶小孩來用餐相對輕鬆。",
     "signals": [
       "島語的早餐環境挑高寬敞"
     ],
@@ -9724,7 +9724,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "Very old nostalgic place as if it has been untouched by time in the last 50 years. Worth coming to experience this vs the current hustling minimalist dining spaces trending nowadays.\n\nFood wise was ok. Our objective was to experience the Taiwanese food that has been enjoyed by their people in the past and this place was spot on.\n\nAfter dinner, you can take a slow walk toward the Raohe Night Market which is in close proximity.",
@@ -9750,7 +9750,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "Ordered the mackerel don and it's pretty good, so are the side dishes. The price is a bit higher than other Japanese don restaurants in the area.\n\nMiso soup and tea/lemon water are self-served and refillable. Take cash, credit cards, and mobile payment.",
@@ -9776,7 +9776,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：座位寬敞乾淨舒適）",
+    "ai_summary": "這家餐廳座位空間不擁擠，用餐節奏比較放鬆，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "座位寬敞乾淨舒適"
     ],
@@ -9804,7 +9804,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "I recently visited this restaurant that left me quite disappointed.\nThe owner had boasted about their generous portion sizes, claiming that most diners find them overwhelming.\n\nHowever, when I ordered a dish priced at 880, which was supposedly meant for two people, I was surprised to find the portion to be quite small. In fact, I was able to finish it all by myself, which is unusual for a meal advertised for two.\n\nThe flavors of the food were also underwhelming. While I expected a strong herbal taste typical of Tibetan cuisine, the dish turned out to be rather plain and lacked the depth of flavor I was hoping for. It felt like a missed opportunity to showcase the richness of traditional Tibetan flavors.\n\nAdditionally, I found the pricing of the tea to be excessive. Paying 130 for such a small cup seemed unreasonable and added to my overall dissatisfaction with the meal.\n\nIn summary, despite the restaurant’s claims about generous portions and flavorful dishes, my experience indicated that both the quantity and taste fell short of expectations, making it hard to justify the prices.",
@@ -9830,7 +9830,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Authentic tasting Cantonese Restaurant located in the Courtyard Taipei Hotel on Level 8.  They prepare the Roast Duck in front of you, so you know it's fresh. The steamed pancakes were of different colours which was different. The other dishes were also tasty and had really good flavours. You can order Dim Sums too",
@@ -9856,7 +9856,7 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "I came here expecting excellent pasta. What did i get? excellent pasta pasta.\nService was good. Got a view of the chefs.\n\nHaiku:\n\nView is excellent\nbellini pasta pasta\nI hope to come back",
@@ -9882,7 +9882,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "I would say their steam dumplings is average. Lots of varieties to choose from and the skin rather too thick. The meat inside was marinated well and don’t choose other steamed dumplings with shrimp an vege , it doesn’t taste as good. Other side dishes like spicy chicken , cabbage salad and sour soup are not too bad. Do make reservations for lunch time to avoid Long wait but food serve is really fast..\n\n2022 Sept 22:\nBeen here in 2019 and back again to try my favourite dumplings.. added new dishes as part of the set lunch like fried stripped potatoes and is really nice. The chicken salad is refreshing as the sauces contained kind of Chinese vinegar that makes it so appetising. The dumpling still tasted good as before..missed the fried soya bean with flounder fish… long searching to eat this but was so so here.. fish not so fresh and too salty! The braised pork belly is great but rich. The sour fish soup rather bland and prefer stronger sour based soup. The braised pig ear and beef kind of unique! Overall a satisfying meal!",
@@ -9908,7 +9908,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：空間寬敞明亮整潔）",
+    "ai_summary": "從親子用餐角度來看，座位空間不擁擠，用來安排親子聚餐也滿合適。",
     "signals": [
       "空間寬敞明亮整潔"
     ],
@@ -9936,7 +9936,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：*服務人員的態度很友善~~）",
+    "ai_summary": "整體來看，整體氛圍對孩子活動較能接受，整體服務感受偏友善，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "*服務人員的態度很友善~~"
     ],
@@ -9964,7 +9964,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "This Thai restaurant is a must-visit for anyone craving authentic and flavorful dishes. The highlight for me was the Moon Shrimp Cakes – crispy on the outside and bursting with juicy shrimp goodness on the inside. The fragrant Thai rice perfectly complemented every dish, with its soft, fluffy texture and subtle aroma. Another standout was the Spicy Stir-Fried Pork, which delivered just the right amount of heat and was packed with bold flavors. Each dish is crafted with care, making this spot a gem for Thai food lovers. Highly recommended!",
@@ -9990,7 +9990,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "The most interesting beer is the plum powder beer. Other than that, it’s not so many selections for craft beer bar. The fried pig intestine is okay, can be majorly improved if the spring onion inside isn’t so old.",
@@ -10016,7 +10016,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "The foods are delicious and prepared in a flash! And the service is top notch! The staff is really friendly and explains the food in detailed. Will definitely come back, thank you very much 💕",
@@ -10042,7 +10042,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：單人友善）",
+    "ai_summary": "以家庭聚餐需求來看，整體氛圍對孩子活動較能接受，整體服務感受偏友善，帶小孩來用餐相對輕鬆。",
     "signals": [
       "單人友善"
     ],
@@ -10070,7 +10070,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Michelin Guide Restaurant in Taipei’s Nangang District\n\nWe felt really lucky to visit this Michelin Guide–listed restaurant while in Taipei on a business trip with locals. Our local colleagues organised a huge spread of dishes for us — I’m not sure if it was a set menu, but we were served an impressive variety of food.\n\nPersonally, I found it a little harder to judge as some dishes weren’t quite to my usual taste, but the ones I did enjoy were lovely. The service was fast and efficient, though English was limited, which led to a small mix-up over vegetarian options — not the staff’s fault, just a language barrier.\n\nThe restaurant itself had a calm, refined atmosphere, and overall, it was a great experience. While I’m not sure it was the best meal we had in Taipei, it was still a memorable opportunity to try a Michelin-recommended local spot.",
@@ -10096,7 +10096,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "座位空間較寬敞，整體環境對帶小孩的家庭較為友善。（評論顯示：高挑明亮寬敞舒適的用餐環境）",
+    "ai_summary": "以家庭聚餐需求來看，座位空間不擁擠，用餐節奏比較放鬆，用來安排親子聚餐也滿合適。",
     "signals": [
       "高挑明亮寬敞舒適的用餐環境"
     ],
@@ -10124,7 +10124,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Came for work lunch and was easily able to get a table. Food was good, the Napa chicken sure packed a punch. The pork and yam dish was very flavourful as well, and I really liked the rice. Nice spot for a quick bite!",
@@ -10150,7 +10150,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：一人用餐也非常友善）",
+    "ai_summary": "從親子用餐角度來看，整體氛圍對孩子活動較能接受，整體服務感受偏友善，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "一人用餐也非常友善"
     ],
@@ -10178,7 +10178,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "Happy to receive my customerised steak and warm service",
@@ -10204,7 +10204,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：毛小孩友善餐廳）",
+    "ai_summary": "整體來看，整體氛圍對孩子活動較能接受，整體服務感受偏友善，帶小孩來用餐相對輕鬆。",
     "signals": [
       "毛小孩友善餐廳"
     ],
@@ -10232,7 +10232,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐酒館的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Very cute place !! Nice and lowkey to have a drink and chat with friends! Offer English menu aswell so very foreigner friendly. I felt very welcome here would highly recommend!!",
@@ -10258,7 +10258,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "The food that we ordered was great, it was flavorful and fresh.\n\nThe staff members were also very polite and helpful. They were always on hand to help and serve the tables, even when the restaurant was completelyful.\nThey never made us feel like we were sitting ducks waiting for service.\n\nThe restaurant has a self service for the utensils, but nothing to complain there. It was clean and that's what is important.\n\nThe food took a little long to get to the table but considering they had a full house and we were a large table, it's understandable. Once the first dish was serviced, the rest just came flying out of the kitchen. We didn't have to wait.\n\nThe restaurant is a bit small but not uncomfortable.\n\nHighly recommend to try this place out",
@@ -10284,7 +10284,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "Ordered it from FoodPanda and came with salad and miso soup. I like the way they made the egg, egg juice on the rice tastes even batter. Would like to ordered again next time.",
@@ -10310,7 +10310,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "The prices are reasonable for the large portions. You can even add more noodles for free when order. We’ve been here for many times whatever we ordered always tasted good.",
@@ -10336,7 +10336,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "2025/10/25 - Pay by cash only.\nVery student-friendly restaurant. We saw lots of student eat here.\nThe water, utensil, tissue, and plastic gloves are all self-service, so you have to get them yourself.\nThe fried food was fantastic.\nThe buttermilk fried chicken was juicy and tender inside, and crispy outside. And the French fries were freshly baked I believe, which is why they tasted the best out of the the other food on the fried platter. The chicken tender was okay as well.\nThe best sauces to pair with all the fried food were the honey mustard and barbecue sauce.",
@@ -10362,7 +10362,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "This is a solid 3 Stars restaurant. They offer Not super impressive Northern style Chinese food. Considering the price and the location, Muzha, where there’s not much of restaurants willing to come here. It deserves a four-star.",
@@ -10388,7 +10388,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "Alright beef noodles. Side dishes also of regular quality. Worker asked us how did we like the food, pretty welcoming.",
@@ -10414,7 +10414,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Great quality food for the price, down to earth owner. Izakaya-style ambience.\nThe Japanese prawn, tourched flounder nigiri, grilled cod and fried rice were absolute bangers. The slaw-style passion fruit pickled pumpkin side dish was super refreshing with a unique flavor profile I’ve never had before! Definitely recommend this hidden gem if you’re in the Wenshen district :)",
@@ -10440,7 +10440,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前未見明確的親子設施資訊，這家早午餐店是否適合帶小孩前往，仍需依現場環境評估。",
     "signals": [],
     "reviews": [
       "Every dish is absolutely delicious 😋\nThe pasta and risotto are good and don't forget to try the cheese fries. They are delicious potato wedges!",
@@ -10466,7 +10466,7 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "座位空間較寬敞、對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：餐廳寬敞乾淨 | 而且是個熱鬧商區）",
+    "ai_summary": "以家庭聚餐需求來看，座位空間不擁擠，整體氛圍對孩子活動較能接受，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "餐廳寬敞乾淨",
       "而且是個熱鬧商區"
@@ -10495,7 +10495,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "We ordered from this restaurant on UberEats. The food itself was decent. However, the portion sizes were very small. We ordered a set that was supposed to serve 4 incl rice for 4 people. However, it was so little rice that it was at best 1.5 portions. The portion size of the other dishes was also quite disappointing. We contacted the restaurant about that and received a surprisingly unhelpful reply. 1 star.",
@@ -10521,7 +10521,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Great service and great food!\nWe came in late but staff still let us in, had a great time here :)",
@@ -10547,7 +10547,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "The food here is great. Still quite crowded even at 3pm. Tried a variety of food including the xiao long bao and crispy red bean pancake. Very well made. The noodle soup is simple but delicious. Overall good food with simple service.",
@@ -10573,7 +10573,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "It’s a wonderful and delicate local Japanese restaurant in MuZha. The couple/owners put in lots of efforts of running the place and make it so authentically resemblances like a restaurant in Japan.",
@@ -10599,7 +10599,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Have a lunch before going to Taipei Zoo, the food is delicious and the price is reasonable. The friendly owner gave each of my kids toy as a present 😄.  Will be back if I visit Taiwan again.",
@@ -10625,7 +10625,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前沒有明確的親子設施資訊，是否適合帶小孩需看現場情況。",
     "signals": [],
     "reviews": [
       "Nice little hideaway on the top of the mountain with a nice view of Taipei 101 in the distant. The decor is well presented and the piped music of Christmas classics made you feel like you are not in Taipei but a Western country. The air is fresh but unfortunately the let down is that there is quite a fair amount of houseflies around on the table and food area, which dampens the dining experience.\n\nThe good is pretty decent, including the fried rice, fried tofu, fried mushrooms and french fries. The service could be better as there is little communication.",
@@ -10651,7 +10651,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "I often come here for a quick meal or dinner. I like to order their braised pork rice with egg and their mutton soup; they make a good combination and provide a fulfilling meal. Their bamboo shoot dish is also great.\n\nThe staff is friendly, and the retro-style decoration is interesting.",
@@ -10677,7 +10677,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "🇵🇭 I really really like the salad so delicious and also the soup is mouth savoring but the steak is not tender😊",
@@ -10703,7 +10703,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Great hearty meal with shop keepers that are not profit driven! I was alone and ordered a large (130TDW). I was asked if it was my first time (yes) and advised by the server to get the small instead (110TWD), because their small is already very full of meat and noodles :) glad I took their advice",
@@ -10729,7 +10729,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "We had the mushroom appetiser , the pork chop and the clam fettuccine . The appetiser was ok but the pork chop and fettuccine were outstanding ! The pork chop had a nice smokey flavour and was done perfectly . The clam fettuccine was full of fresh clams and this dish is totally garlic flavoured ; Excellent ! I had the guava and pineapple juice - very good 👍\nThe creme brûlée is a must order .\nOverall a great find ….. good food , good prices and good service !",
@@ -10755,7 +10755,7 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：店內氛圍熱鬧）",
+    "ai_summary": "整體來看，整體氛圍對孩子活動較能接受，帶小孩來用餐會比較輕鬆。",
     "signals": [
       "店內氛圍熱鬧"
     ],
@@ -10783,7 +10783,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "We had dinner here and the food here was really good, was a lot better than I initially expected.\n\nThey have a drink section that you can pour yourself and the tea is really good, highly recommended.\n\nWe had curry and the noodle soup, both was great.\n\nNot sure why the restaurant wasn’t packed with this type of food quality.\n\nTruly a hidden gem",
@@ -10809,7 +10809,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前未見明確的親子設施資訊，這家義式餐廳是否適合帶小孩前往，仍需依現場環境評估。",
     "signals": [],
     "reviews": [
       "Great pasta, tasty pizzas, and the apple pizza is a must-try—it’s the best!",
@@ -10835,7 +10835,7 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "對孩童活動較為包容，整體環境對帶小孩的家庭較為友善。（評論顯示：店員客氣友善）",
+    "ai_summary": "整體來看，整體氛圍對孩子活動較能接受，整體服務感受偏友善，對家庭客人來說會比較方便。",
     "signals": [
       "店員客氣友善"
     ],
@@ -10863,7 +10863,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "The fresh seafoods here, we are enjoying lunch and times. It’s a worthy for second visit.",
@@ -10889,7 +10889,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "從目前資訊來看，尚無法明確判斷這家餐廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
     "reviews": [
       "Was actually looking for another place and ended up here after a bit of a trek up. Decided to just have lunch here. The tofu was crispy and the tea fried rice was delectable. Had the locally-grown tie guan yin tea as well. Very delicious meal with a good view. The hostess was very sweet and welcoming and even gave me complimentary chocolate fudge that she had made after my meal. Would definitely come back here.",
@@ -10915,7 +10915,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
     "reviews": [
       "Awesome french cuisine",
@@ -10941,7 +10941,7 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前未見明確育兒相關設施資訊，是否適合帶小孩用餐仍需依實際情況評估。",
+    "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
     "reviews": [
       "Very delicious and traditional fare. One of my new favorite places!",
