@@ -137,12 +137,22 @@ function renderList() {
     restaurantList.innerHTML = '';
 
     const filteredData = restaurantData.filter(res => {
+        // District filter
         if (state.locations.size > 0) {
             const hasMatch = Array.from(state.locations).some(loc => res.address.includes(loc));
             if (!hasMatch) return false;
         }
-        if (state.filters.size === 0) return true;
-        return Array.from(state.filters).every(f => res.attributes[f] === true);
+
+        // Default homepage results: at least one child-friendly attribute must be 'yes'
+        // unless specific filters are selected.
+        if (state.filters.size === 0) {
+            const hasAnyYes = Object.values(res.attributes).some(val => val === 'yes');
+            if (!hasAnyYes) return false;
+            return true;
+        }
+
+        // Active child-friendly filters: only match 'yes'
+        return Array.from(state.filters).every(f => res.attributes[f] === 'yes');
     });
 
     if (filteredData.length === 0) {
@@ -156,7 +166,7 @@ function renderList() {
 
         let tagsHtml = '';
         Object.keys(res.attributes).forEach(attr => {
-            if (res.attributes[attr]) {
+            if (res.attributes[attr] === 'yes') {
                 tagsHtml += `<span class="tag"><span>${attributeIcons[attr]}</span> ${attributeLabels[attr]}</span>`;
             }
         });
@@ -247,7 +257,7 @@ function showDetail(restaurant) {
 
     let tagsHtml = '';
     Object.keys(restaurant.attributes).forEach(attr => {
-        if (restaurant.attributes[attr]) {
+        if (restaurant.attributes[attr] === 'yes') {
             tagsHtml += `<span class="tag" style="font-size: 0.9rem; padding: 0.4rem 0.8rem;"><span>${attributeIcons[attr]}</span> ${attributeLabels[attr]}</span>`;
         }
     });
