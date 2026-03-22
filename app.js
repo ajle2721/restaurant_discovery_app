@@ -136,6 +136,11 @@ function setupEventListeners() {
 
 function renderList() {
     restaurantList.innerHTML = '';
+    resultsCount.textContent = '';
+
+    if (state.filters.size === 0) {
+        return;
+    }
 
     const filteredData = restaurantData.filter(res => {
         // District filter
