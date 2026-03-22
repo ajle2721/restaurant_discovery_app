@@ -302,7 +302,6 @@ function showDetail(restaurant) {
                 本資訊由系統根據評論自動整理（每間約 5 則），可能與實際情況略有差異，建議搭配現場資訊判斷。
             </div>
             <div class="ai-summary-text">${restaurant.ai_summary}</div>
-            <div class="summary-helper">依少量評論整理，僅供參考</div>
         </div>
 
         ${signalsHtml}
