@@ -202,7 +202,7 @@ function renderList() {
 
         card.querySelector('.btn-maps').addEventListener('click', (e) => {
             e.stopPropagation();
-            window.open(res.url, '_blank');
+            window.open(getGoogleMapsUrl(res), '_blank');
         });
 
         card.addEventListener('click', () => showDetail(res));
@@ -306,7 +306,7 @@ function showDetail(restaurant) {
 
         ${signalsHtml}
 
-        <button class="btn btn-primary" style="width: 100%; margin-top: 1rem; padding: 1.125rem; font-size: 1rem;" onclick="window.open('${restaurant.url}', '_blank')">
+        <button class="btn btn-primary" style="width: 100%; margin-top: 1rem; padding: 1.125rem; font-size: 1rem;" onclick="window.open('${getGoogleMapsUrl(restaurant)}', '_blank')">
             在 Google 地圖中開啟
         </button>
     `;
@@ -450,6 +450,13 @@ function getDecisionSummary(res) {
     } else {
         return `親子相關資訊較少`;
     }
+}
+
+function getGoogleMapsUrl(res) {
+    if (res.place_id) {
+        return `https://www.google.com/maps/place/?api=1&place_id=${res.place_id}`;
+    }
+    return res.url;
 }
 
 init();
