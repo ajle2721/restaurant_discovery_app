@@ -453,10 +453,9 @@ function getDecisionSummary(res) {
 }
 
 function getGoogleMapsUrl(res) {
-    if (res.place_id) {
-        return `https://www.google.com/maps/place/?api=1&place_id=${res.place_id}`;
-    }
-    return res.url;
+    if (!res.place_id) return res.url;
+    const query = encodeURIComponent(`${res.name} ${res.address}`);
+    return `https://www.google.com/maps/search/?api=1&query=${query}&query_place_id=${res.place_id}`;
 }
 
 init();
