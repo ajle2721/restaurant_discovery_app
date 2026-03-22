@@ -43,10 +43,10 @@ body {
 
 /* Header & Landing */
 header {
-    padding: calc(1rem + var(--safe-area-inset-top)) 1.25rem 1rem;
+    padding: calc(2.5rem + var(--safe-area-inset-top)) 1.25rem 1.75rem;
     background: linear-gradient(135deg, var(--primary), var(--primary-light));
     color: white;
-    border-radius: 0 0 2rem 2rem;
+    border-radius: 0;
     box-shadow: var(--shadow);
     text-align: left;
 }
