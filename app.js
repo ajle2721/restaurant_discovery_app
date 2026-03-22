@@ -17,7 +17,7 @@ const attributeLabels = {
     high_chair_available: '嬰兒椅',
     kids_menu: '兒童餐',
     spacious_seating: '寬敞座位',
-    kid_noise_tolerant: '童噪友善'
+    kid_noise_tolerant: '不怕小孩吵'
 };
 
 // DOM Elements
@@ -31,6 +31,7 @@ const detailShareBtn = document.getElementById('share-detail');
 const shareResultsBtn = document.getElementById('share-results');
 const toast = document.getElementById('toast');
 const locationText = document.getElementById('location-text');
+const resultsCount = document.getElementById('results-count');
 
 // Modal Elements
 const openLocationModalBtn = document.getElementById('open-location-modal');
@@ -160,6 +161,8 @@ function renderList() {
         return;
     }
 
+    resultsCount.textContent = `找到 ${filteredData.length} 間符合條件的餐廳`;
+
     filteredData.forEach(res => {
         const card = document.createElement('div');
         card.className = 'restaurant-card';
@@ -171,9 +174,12 @@ function renderList() {
             }
         });
 
+        const summary = getDecisionSummary(res);
+
         card.innerHTML = `
             <div class="restaurant-name">${res.name}</div>
             <div class="restaurant-rating">⭐ ${res.rating}</div>
+            <div class="decision-summary">${summary}</div>
             <div class="restaurant-address">${res.address}</div>
             <div class="tag-container">
                 ${tagsHtml}
@@ -283,8 +289,15 @@ function showDetail(restaurant) {
         </div>
 
         <div class="ai-summary" style="margin-bottom: 1.5rem;">
-            <div class="ai-summary-title">AI整理的親子用餐資訊</div>
+            <div class="ai-summary-title">
+                AI整理的親子用餐資訊
+                <span class="info-icon" onclick="toggleDisclaimer(event)">ⓘ</span>
+            </div>
+            <div class="disclaimer-expandable" id="ai-disclaimer">
+                本資訊由系統根據評論自動整理（每間約 5 則），可能與實際情況略有差異，建議搭配現場資訊判斷。
+            </div>
             <div class="ai-summary-text">${restaurant.ai_summary}</div>
+            <div class="summary-helper">依少量評論整理，僅供參考</div>
         </div>
 
         ${signalsHtml}
@@ -412,6 +425,27 @@ function showToast(message) {
     setTimeout(() => {
         toast.classList.remove('show');
     }, 2000);
+}
+
+function toggleDisclaimer(e) {
+    e.stopPropagation();
+    const disclaimer = document.getElementById('ai-disclaimer');
+    if (disclaimer) {
+        disclaimer.classList.toggle('active');
+    }
+}
+
+function getDecisionSummary(res) {
+    const activeTags = Object.keys(res.attributes)
+        .filter(attr => res.attributes[attr] === 'yes');
+
+    if (activeTags.length >= 3) {
+        return `適合帶小孩`;
+    } else if (activeTags.length >= 1) {
+        return `親子相對友善`;
+    } else {
+        return `親子相關資訊較少`;
+    }
 }
 
 init();

@@ -14,8 +14,9 @@
 <body>
     <div id="home-view" class="view active">
         <header>
-            <h1>小手找食</h1>
-            <p class="subtitle">台北親子餐廳一鍵搜，爸媽輕鬆吃</p>
+            <h1>帶小孩吃哪間</h1>
+            <p class="subtitle">從評論幫你挑重點，快速找出更安心用餐的選擇</p>
+            <div class="trust-line">已整理 400+ 間台北餐廳</div>
             <div class="location-selector" id="open-location-modal">
                 <span>📍</span>
                 <span id="location-text">台北市 · 全區</span>
@@ -24,6 +25,7 @@
         </header>
 
         <section class="filter-section">
+            <div class="helper-text">先選一個你在意的條件：</div>
             <div class="filters-grid">
                 <div class="filter-chip" data-filter="high_chair_available">
                     <span class="filter-icon">🪑</span>
@@ -39,7 +41,7 @@
                 </div>
                 <div class="filter-chip" data-filter="kid_noise_tolerant">
                     <span class="filter-icon">🥳</span>
-                    <span>童噪友善</span>
+                    <span>不怕小孩吵</span>
                 </div>
             </div>
             <button id="share-results" class="btn btn-outline"
@@ -47,6 +49,8 @@
                 <span>🔗</span> 分享目前搜尋結果
             </button>
         </section>
+
+        <div id="results-count" class="results-label"></div>
 
         <main id="restaurant-list" class="results-container">
             <!-- Results will be injected here -->
