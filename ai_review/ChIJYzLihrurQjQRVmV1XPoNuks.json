@@ -1,0 +1,27 @@
+{
+    "High chair available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Stroller accessible": {
+        "result": "Yes",
+        "evidence": "安排的座位很寬敞",
+        "confidence": 0.8
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "安排的座位很寬敞",
+        "confidence": 0.8
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "當天算熱鬧不吵雜",
+        "confidence": 0.8
+    }
+}

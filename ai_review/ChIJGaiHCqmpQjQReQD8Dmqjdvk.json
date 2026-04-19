@@ -1,0 +1,27 @@
+{
+    "High chair available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Stroller accessible": {
+        "result": "No",
+        "evidence": "顛覆了傳統夜市老店的擁擠感",
+        "confidence": 0.8
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "顛覆了傳統夜市老店的擁擠感",
+        "confidence": 0.8
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "真的很友善",
+        "confidence": 0.8
+    }
+}

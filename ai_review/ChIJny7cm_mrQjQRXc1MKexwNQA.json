@@ -1,0 +1,27 @@
+{
+    "High chair available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Stroller accessible": {
+        "result": "Yes",
+        "evidence": "空間寬敞、氛圍好的音樂餐酒館",
+        "confidence": 0.8
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "空間寬敞、氛圍好的音樂餐酒館",
+        "confidence": 0.8
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    }
+}

@@ -2,26 +2,26 @@
     "High chair available": {
         "result": "Unknown",
         "evidence": null,
-        "confidence": 0.4
+        "confidence": 0.5
     },
     "Stroller accessible": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "No",
+        "evidence": "單看店面以為很大一間 實際上小小的",
+        "confidence": 0.7
     },
     "Spacious seating": {
         "result": "No",
-        "evidence": "單看店面以為很大一間 實際上小小的",
+        "evidence": "實際上小小的，適合小歇一下",
         "confidence": 0.9
     },
     "Kids menu available": {
         "result": "Unknown",
         "evidence": null,
-        "confidence": 0.4
+        "confidence": 0.5
     },
     "kid_noise_tolerant": {
         "result": "No",
-        "evidence": "給人一種鬧中取靜的感覺...比較適合小歇一下 不是給你坐著聊八卦的",
-        "confidence": 0.8
+        "evidence": "給人一種鬧中取靜的感覺，氛圍寧靜",
+        "confidence": 0.7
     }
 }

@@ -2,26 +2,26 @@
     "High chair available": {
         "result": "Unknown",
         "evidence": null,
-        "confidence": 0.4
+        "confidence": 0.5
     },
     "Stroller accessible": {
         "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "evidence": "有吧檯、座位區和包廂",
+        "confidence": 0.5
     },
     "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Kids menu available": {
-        "result": "No",
-        "evidence": "主打原肉鮮切乾式熟成牛排",
+        "result": "Yes",
+        "evidence": "提供包廂座位，空間溫暖舒服",
         "confidence": 0.8
     },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.5
+    },
     "kid_noise_tolerant": {
-        "result": "No",
-        "evidence": "很適合節日、紀念日，與朋友和另一半好好慶祝一下",
-        "confidence": 0.9
+        "result": "Unknown",
+        "evidence": "適合各類慶祝活動",
+        "confidence": 0.5
     }
 }

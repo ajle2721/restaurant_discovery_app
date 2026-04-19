@@ -3,7 +3,13 @@ const state = {
     filters: new Set(),
     locations: new Set(), // Empty means "全區"
     selectedRestaurant: null,
-    view: 'home'
+    view: 'home',
+    viewMode: 'list', // 'list' or 'map'
+    map: null,
+    markers: [],
+    userMarker: null,
+    askedForLocation: false,
+    lastFilteredResults: { section1: [], section2: [] }
 };
 
 const attributeIcons = {
@@ -57,6 +63,7 @@ const attrToParam = {
 
 // Initialization
 function init() {
+    initMap();
     renderList();
     checkUrlParams();
     setupEventListeners();
@@ -124,6 +131,23 @@ function setupEventListeners() {
     // Navigation
     backHomeBtn.addEventListener('click', () => switchView('home'));
 
+    // Filter Toggle
+    const collapseBtn = document.getElementById('collapse-filters');
+    const expandBtn = document.getElementById('expand-filters');
+    const filterExpanded = document.getElementById('filter-expanded');
+    const filterCollapsed = document.getElementById('filter-collapsed');
+
+    if (collapseBtn && expandBtn) {
+        collapseBtn.addEventListener('click', () => {
+            filterExpanded.classList.add('hidden');
+            filterCollapsed.classList.remove('hidden');
+        });
+        expandBtn.addEventListener('click', () => {
+            filterExpanded.classList.remove('hidden');
+            filterCollapsed.classList.add('hidden');
+        });
+    }
+
     // Sharing
     floatShareBtn.addEventListener('click', shareCurrentFilters);
     shareResultsBtn.addEventListener('click', shareCurrentFilters);
@@ -132,83 +156,165 @@ function setupEventListeners() {
             shareRestaurant(state.selectedRestaurant);
         }
     });
+
+    // View Toggle
+    const toggleListBtn = document.getElementById('toggle-list');
+    const toggleMapBtn = document.getElementById('toggle-map');
+    
+    if (toggleListBtn && toggleMapBtn) {
+        toggleListBtn.addEventListener('click', () => switchViewMode('list'));
+        toggleMapBtn.addEventListener('click', () => switchViewMode('map'));
+    }
 }
 
 function renderList() {
     restaurantList.innerHTML = '';
     resultsCount.textContent = '';
+    resultsCount.style.display = 'none';
 
     if (state.filters.size === 0) {
         return;
     }
 
-    const filteredData = restaurantData.filter(res => {
+    resultsCount.style.display = 'block';
+    const selectedFilters = Array.from(state.filters);
+
+    // 1. Filter out restaurants based on global exclusions and initial filtering
+    const eligibleData = restaurantData.filter(res => {
         // District filter
         if (state.locations.size > 0) {
             const hasMatch = Array.from(state.locations).some(loc => res.address.includes(loc));
             if (!hasMatch) return false;
         }
 
-        // Default homepage results: at least one child-friendly attribute must be 'yes'
-        // unless specific filters are selected.
-        if (state.filters.size === 0) {
-            const hasAnyYes = Object.values(res.attributes).some(val => val === 'yes');
-            if (!hasAnyYes) return false;
-            return true;
-        }
+        // Exclude: any selected filter = No
+        const hasNo = selectedFilters.some(f => res.attributes[f] === 'no');
+        if (hasNo) return false;
 
-        // Active child-friendly filters: only match 'yes'
-        return Array.from(state.filters).every(f => res.attributes[f] === 'yes');
+        // Exclude: ALL tags are Unknown (no information at all)
+        const allTagsUnknown = Object.values(res.attributes).every(val => val === 'unknown');
+        if (allTagsUnknown) return false;
+
+        return true;
     });
 
-    if (filteredData.length === 0) {
+    // 2. Group into two sections
+    // [Section 1] 符合條件的餐廳: ALL selected filters = Yes
+    const section1Data = eligibleData.filter(res => 
+        selectedFilters.every(f => res.attributes[f] === 'yes')
+    );
+
+    // [Section 2] 可能符合條件（評論資訊較少）: All selected filters are Unknown
+    // AND none are No (already handled by eligibleData filter)
+    const section2Data = eligibleData.filter(res => 
+        selectedFilters.every(f => res.attributes[f] === 'unknown')
+    );
+
+    if (section1Data.length === 0 && section2Data.length === 0) {
         renderEmptyState();
         return;
     }
 
-    resultsCount.textContent = `找到 ${filteredData.length} 間符合條件的餐廳`;
+    resultsCount.textContent = `找到 ${section1Data.length + section2Data.length} 間餐廳`;
 
-    filteredData.forEach(res => {
-        const card = document.createElement('div');
-        card.className = 'restaurant-card';
+    // Render Section 1
+    if (section1Data.length > 0) {
+        const header = document.createElement('div');
+        header.className = 'results-section-header';
+        header.textContent = '符合條件的餐廳';
+        restaurantList.appendChild(header);
 
-        let tagsHtml = '';
-        Object.keys(res.attributes).forEach(attr => {
-            if (res.attributes[attr] === 'yes') {
-                tagsHtml += `<span class="tag"><span>${attributeIcons[attr]}</span> ${attributeLabels[attr]}</span>`;
-            }
-        });
+        section1Data.forEach(res => renderCard(res));
+    }
 
-        const summary = getDecisionSummary(res);
+    // Render Section 2
+    if (section2Data.length > 0) {
+        const header = document.createElement('div');
+        header.className = 'results-section-header';
+        header.textContent = '可能符合條件（評論資訊較少）';
+        restaurantList.appendChild(header);
 
-        card.innerHTML = `
-            <div class="restaurant-name">${res.name}</div>
-            <div class="restaurant-rating">⭐ ${res.rating}</div>
-            <div class="decision-summary">${summary}</div>
-            <div class="restaurant-address">${res.address}</div>
-            <div class="tag-container">
-                ${tagsHtml}
-            </div>
-            <div class="card-actions">
-                <button class="btn btn-primary btn-detail">查看詳情</button>
-                <button class="btn btn-outline btn-maps">Google 地圖</button>
-            </div>
-        `;
+        const helper = document.createElement('div');
+        helper.className = 'results-section-helper';
+        helper.textContent = '這些餐廳未在評論中找到明確證據，但也未出現不符合的描述';
+        restaurantList.appendChild(helper);
 
-        card.querySelector('.btn-detail').addEventListener('click', (e) => {
-            e.stopPropagation();
-            showDetail(res);
-        });
+        section2Data.forEach(res => renderCard(res));
+    }
 
-        card.querySelector('.btn-maps').addEventListener('click', (e) => {
-            e.stopPropagation();
-            window.open(getGoogleMapsUrl(res), '_blank');
-        });
+    updateFilterSummary(section1Data.length + section2Data.length);
+    
+    // Store results for map persistence
+    state.lastFilteredResults = { section1: section1Data, section2: section2Data };
+    renderMap(section1Data, section2Data);
+}
 
-        card.addEventListener('click', () => showDetail(res));
+function updateFilterSummary(totalCount) {
+    const summaryDistrict = document.getElementById('summary-district');
+    const summaryFilters = document.getElementById('summary-filters');
+    const summaryCount = document.getElementById('summary-count');
 
-        restaurantList.appendChild(card);
+    if (!summaryDistrict || !summaryFilters || !summaryCount) return;
+
+    // District
+    if (state.locations.size === 0) {
+        summaryDistrict.textContent = '台北市 · 全區';
+    } else {
+        summaryDistrict.textContent = Array.from(state.locations).join('、');
+    }
+
+    // Filters
+    if (state.filters.size === 0) {
+        summaryFilters.textContent = '全部';
+    } else {
+        const labels = Array.from(state.filters).map(f => attributeLabels[f]);
+        summaryFilters.textContent = labels.join('、');
+    }
+
+    // Count
+    summaryCount.textContent = totalCount;
+}
+
+function renderCard(res) {
+    const card = document.createElement('div');
+    card.className = 'restaurant-card';
+
+    let tagsHtml = '';
+    Object.keys(res.attributes).forEach(attr => {
+        if (res.attributes[attr] === 'yes') {
+            tagsHtml += `<span class="tag"><span>${attributeIcons[attr]}</span> ${attributeLabels[attr]}</span>`;
+        }
     });
+
+    const summary = getDecisionSummary(res);
+
+    card.innerHTML = `
+        <div class="restaurant-name">${res.name}</div>
+        <div class="restaurant-rating">⭐ ${res.rating}</div>
+        <div class="decision-summary">${summary}</div>
+        <div class="restaurant-address">${res.address}</div>
+        <div class="tag-container">
+            ${tagsHtml}
+        </div>
+        <div class="card-actions">
+            <button class="btn btn-primary btn-detail">查看詳情</button>
+            <button class="btn btn-outline btn-maps">Google 地圖</button>
+        </div>
+    `;
+
+    card.querySelector('.btn-detail').addEventListener('click', (e) => {
+        e.stopPropagation();
+        showDetail(res);
+    });
+
+    card.querySelector('.btn-maps').addEventListener('click', (e) => {
+        e.stopPropagation();
+        window.open(getGoogleMapsUrl(res), '_blank');
+    });
+
+    card.addEventListener('click', () => showDetail(res));
+
+    restaurantList.appendChild(card);
 }
 
 function renderEmptyState() {
@@ -452,10 +558,160 @@ function getDecisionSummary(res) {
     }
 }
 
-function getGoogleMapsUrl(res) {
-    if (!res.place_id) return res.url;
-    const query = encodeURIComponent(`${res.name} ${res.address}`);
-    return `https://www.google.com/maps/search/?api=1&query=${query}&query_place_id=${res.place_id}`;
+function getGoogleMapsUrl(restaurant) {
+    if (restaurant.google_maps_url) return restaurant.google_maps_url;
+    const query = encodeURIComponent(restaurant.name + ' ' + restaurant.address);
+    return `https://www.google.com/maps/search/?api=1&query=${query}`;
+}
+
+// Map Functions
+function initMap() {
+    if (state.map) return;
+    
+    // Initialize map centered on Taipei
+    state.map = L.map('map').setView([25.0330, 121.5654], 13);
+    
+    // Use Google-like tiles (Voyager is a good clean alternative)
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>',
+        subdomains: 'abcd',
+        maxZoom: 20
+    }).addTo(state.map);
+}
+
+function switchViewMode(mode) {
+    state.viewMode = mode;
+    const listContainer = document.getElementById('restaurant-list');
+    const mapContainer = document.getElementById('map-container');
+    const toggleListBtn = document.getElementById('toggle-list');
+    const toggleMapBtn = document.getElementById('toggle-map');
+
+    if (mode === 'map') {
+        listContainer.classList.add('hidden');
+        mapContainer.classList.remove('hidden');
+        toggleMapBtn.classList.add('active');
+        toggleListBtn.classList.remove('active');
+        
+        // Fix Leaflet sizing issue when container becomes visible
+        setTimeout(() => {
+            state.map.invalidateSize();
+            
+            // Re-render markers to ensure fitBounds works with visible container
+            renderMap(state.lastFilteredResults.section1, state.lastFilteredResults.section2);
+
+            if (!state.askedForLocation) {
+                handleGeolocation();
+            }
+        }, 100);
+    } else {
+        listContainer.classList.remove('hidden');
+        mapContainer.classList.add('hidden');
+        toggleListBtn.classList.add('active');
+        toggleMapBtn.classList.remove('active');
+    }
+}
+
+function renderMap(section1, section2) {
+    if (!state.map) return;
+
+    // Clear existing markers
+    state.markers.forEach(m => state.map.removeLayer(m));
+    state.markers = [];
+
+    const allResults = [...section1.map(r => ({...r, type: 'confirmed'})), 
+                        ...section2.map(r => ({...r, type: 'potential'}))];
+
+    const markersToFit = [];
+
+    allResults.forEach(res => {
+        if (res.latitude && res.longitude) {
+            const color = res.type === 'confirmed' ? '#4FB3AA' : '#FFB347';
+            const marker = createMarker(res, color);
+            marker.addTo(state.map);
+            state.markers.push(marker);
+            markersToFit.push([res.latitude, res.longitude]);
+        }
+    });
+
+    // Auto-fit bounds if we have markers
+    if (markersToFit.length > 0) {
+        state.map.fitBounds(markersToFit, { padding: [50, 50], maxZoom: 15 });
+    }
+}
+
+function createMarker(res, color) {
+    const icon = L.divIcon({
+        className: 'custom-marker',
+        html: `<div style="background-color: ${color}; width: 24px; height: 24px; border-radius: 50%; border: 3px solid white; box-shadow: 0 2px 4px rgba(0,0,0,0.3);"></div>`,
+        iconSize: [24, 24],
+        iconAnchor: [12, 12]
+    });
+
+    const marker = L.marker([res.latitude, res.longitude], { icon: icon });
+
+    // Popup Content
+    const popupContent = document.createElement('div');
+    popupContent.className = 'map-popup-card';
+    
+    let tagsHtml = '';
+    Object.keys(res.attributes).forEach(attr => {
+        if (res.attributes[attr] === 'yes') {
+            tagsHtml += `<span class="map-popup-tag">${attributeIcons[attr]}</span>`;
+        }
+    });
+
+    popupContent.innerHTML = `
+        <div class="map-popup-title">${res.name}</div>
+        <div class="map-popup-rating">⭐ ${res.rating}</div>
+        <div class="map-popup-tags">${tagsHtml}</div>
+        <button class="map-popup-btn" id="popup-btn-${res.place_id}">查看詳情</button>
+        <a href="${getGoogleMapsUrl(res)}" target="_blank" class="map-popup-link">在 Google 地圖開啟</a>
+    `;
+
+    // Handle click on "View Detail" button in popup
+    marker.bindPopup(popupContent);
+    marker.on('popupopen', () => {
+        const btn = document.getElementById(`popup-btn-${res.place_id}`);
+        if (btn) {
+            btn.addEventListener('click', () => {
+                showDetail(res);
+            });
+        }
+    });
+
+    return marker;
+}
+
+function handleGeolocation() {
+    state.askedForLocation = true;
+    if (confirm('要顯示你目前所在位置嗎？這樣可以更方便比較附近餐廳的位置')) {
+        if ("geolocation" in navigator) {
+            navigator.geolocation.getCurrentPosition((position) => {
+                const lat = position.coords.latitude;
+                const lng = position.coords.longitude;
+                
+                // Remove old user marker
+                if (state.userMarker) {
+                    state.map.removeLayer(state.userMarker);
+                }
+
+                const userIcon = L.divIcon({
+                    className: 'user-marker',
+                    html: `<div style="background-color: #4285F4; width: 20px; height: 20px; border-radius: 50%; border: 3px solid white; box-shadow: 0 0 10px rgba(66,133,244,0.5);"></div>`,
+                    iconSize: [20, 20],
+                    iconAnchor: [10, 10]
+                });
+
+                state.userMarker = L.marker([lat, lng], { icon: userIcon, zIndexOffset: 1000 }).addTo(state.map);
+                state.userMarker.bindPopup("你在這裡");
+                
+                // Optionally center on user
+                // state.map.setView([lat, lng], 15);
+            }, (error) => {
+                console.warn("Geolocation denied or error:", error);
+            });
+        }
+    }
 }
 
 init();
