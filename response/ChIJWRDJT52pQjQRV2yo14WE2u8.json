@@ -1,0 +1,130 @@
+{
+  "id": "ChIJWRDJT52pQjQRV2yo14WE2u8",
+  "types": [
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2358 7276",
+  "formattedAddress": "10641台灣台北市大安区信义路二段16號1樓",
+  "location": {
+    "latitude": 25.034690299999998,
+    "longitude": 121.5249101
+  },
+  "rating": 4.3,
+  "websiteUri": "https://www.facebook.com/cyotao16",
+  "userRatingCount": 519,
+  "displayName": {
+    "text": "揪鬪本家",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJWRDJT52pQjQRV2yo14WE2u8/reviews/Ci9DQUlRQUNvZENodHljRjlvT210d1lsZ3pOM1pETlhWVFowVndaV1EyYjI5MFJGRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "與揪鬪老闆已結緣十餘年，當年剛開始營業時，他家小朋友還是小學生吧，如今已是大學生了，今天恰巧進城先電話預約，剛好有位子，點了鹽鞠五仔魚B套餐、鮭魚炸泡飯，等餐過程中老闆又送上兩塊烤魚，一解飢餓之感，享用新鮮美味的餐點，與當年的口味一樣，都是帶著認真的態度去面對每位客人，忽然抬頭一看有石狗公，要安排下次來朝聖的行程了。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "與揪鬪老闆已結緣十餘年，當年剛開始營業時，他家小朋友還是小學生吧，如今已是大學生了，今天恰巧進城先電話預約，剛好有位子，點了鹽鞠五仔魚B套餐、鮭魚炸泡飯，等餐過程中老闆又送上兩塊烤魚，一解飢餓之感，享用新鮮美味的餐點，與當年的口味一樣，都是帶著認真的態度去面對每位客人，忽然抬頭一看有石狗公，要安排下次來朝聖的行程了。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Daniel Fang",
+        "uri": "https://www.google.com/maps/contrib/114780649824240145240/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWJm3KW3pTeTBr92XGzA69em5rtVZFw3HJS6qLP4erxw32aqFNK=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-08-11T10:11:59.717885771Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210d1lsZ3pOM1pETlhWVFowVndaV1EyYjI5MFJGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210d1lsZ3pOM1pETlhWVFowVndaV1EyYjI5MFJGRRAB!2m1!1s0x3442a99d4fc91059:0xefda8485d7a86c57"
+    },
+    {
+      "name": "places/ChIJWRDJT52pQjQRV2yo14WE2u8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oT2NHOTJRbHBEWVdKRlluTTBOR1pNZW14aVRtYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "雖然很拍謝但是蛋糕超好吃，很難形容是什麼味道但是真的好好吃⋯⋯等等就去問店員有沒有單賣（不是波蘭）（不好笑） 丼飯也好吃推推下次還來",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "雖然很拍謝但是蛋糕超好吃，很難形容是什麼味道但是真的好好吃⋯⋯等等就去問店員有沒有單賣（不是波蘭）（不好笑） 丼飯也好吃推推下次還來",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "阿姆阿姆吃飽飽",
+        "uri": "https://www.google.com/maps/contrib/115403475306257585985/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUGIxG8nsbRtVkfLLiWYJAkLPe7nm4MQxV3osKIx5R5efmAKP4=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-08T11:23:36.168933207Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oT2NHOTJRbHBEWVdKRlluTTBOR1pNZW14aVRtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oT2NHOTJRbHBEWVdKRlluTTBOR1pNZW14aVRtYxAB!2m1!1s0x3442a99d4fc91059:0xefda8485d7a86c57"
+    },
+    {
+      "name": "places/ChIJWRDJT52pQjQRV2yo14WE2u8/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4OE43VldnEAE",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "很小的一家小店，氣氛跟味道都很好。甜點是意外的彩蛋。整體的品質並沒有因為疫情而改變，值得一再拜訪。位置很少，最好先打電話訂位！師傅最厲害的是，每次去吃的菜色都不重複😋",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很小的一家小店，氣氛跟味道都很好。甜點是意外的彩蛋。整體的品質並沒有因為疫情而改變，值得一再拜訪。位置很少，最好先打電話訂位！師傅最厲害的是，每次去吃的菜色都不重複😋",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Sandy Su",
+        "uri": "https://www.google.com/maps/contrib/112359563476328824293/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVJrJlpXl9sQ6QOnl3UXDKoOuLxElXpZs6oRlDKin82gtGXucQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-08-30T15:40:28.370529740Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN4OE43VldnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN4OE43VldnEAE!2m1!1s0x3442a99d4fc91059:0xefda8485d7a86c57"
+    },
+    {
+      "name": "places/ChIJWRDJT52pQjQRV2yo14WE2u8/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4X0llOVlBEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "2022一訪\n✨明太子雞腿丼+A套餐 $360\n👉茶碗蒸：蛋非常滑嫩，縫隙超小，是原味茶碗蒸沒有料在裡面\n👉明太子雞腿丼\n玉子燒甜甜軟軟的非常好吃\n明太子雞腿的調味比較不符合我的胃口，但明太子非常多\n漬物有小黃瓜、白蘿蔔、小番茄，是味道比較清淡的漬物\n👉味噌湯：有蔥、洋蔥、海帶、豆腐和一點點魚的碎肉\n👉甜點黑糖蜜奶酪：這個甜點提醒我下次要問好今日甜點是什麼，原本很期待抹茶提拉米蘇\n是普通好吃的奶酪\n✨招待：\n很酥脆好吃，其中一塊的椒鹽味非常夠味\n\n🪐低消250，中午用餐時間一個小時，無服務費\n🪐吧檯座位十個，雙人桌三張，平日中午客滿\n🪐招待的實在太驚艷，下次要點點看烤魚類\n推薦：招待、玉子燒>>>其他的\n\n2023二訪\n✨炙燒海鮮丼+A套餐$410（現在$420）\n👉炙燒海鮮丼：炙燒生魚片普通，無功無過，整碗最喜歡的又是玉子燒\n👉芝麻甜點：\n芝麻味很濃郁，底層和中間的蛋糕層是解膩用的，不過還是滿膩的，甜度中高(是吃完一定要喝茶解膩的膩度）（不知道是選的奶油乳酪問題還是為什麼）\n👉味噌湯、茶碗蒸與一訪差不多，不過上桌時非常燙\n🪐此次造訪平日中午店內尚有吧台位三個\n🪐推薦：玉子燒>>>茶碗蒸>芝麻甜點、炙燒海鮮丼>味噌湯\n\n三訪\n✨烤花魚便當$200（外帶）\n👉和風沙拉：醬應該是類似油醋？還有一小塊蘋果、芭樂、鳳梨\n👉烤花魚：魚比照片還大塊，魚肉有嫩、魚骨被烤到脆脆的，不過細的魚刺還是要挑掉的。本身吃起來已經滿鹹了，所以沒加店家附的椒鹽\n👉日式醬菜：醃白蘿蔔不怎麼酸甜，小黃瓜和番茄也都不會讓人想一吃再吃，就是解膩用的。這個的份量很小，盒子的設計是有凹凸的\n👉和風小菜：吃完沒什麼記憶點\n👉明太子玉子燒：玉子燒果然還是最好吃的，又甜又綿密。明太子我直接刮掉配飯，玉子燒就是要甜甜的\n⚠️等待製作要等15分鐘\n🪐目前三項當中最推花魚便當\n\n2024四訪\n✨醬燒雞便當$200\n雞肉算多，一打開盒就有醬燒的香氣，不過可惜的是烤的有點太乾，不是多汁的雞肉\n其他欄配菜和上次買便當時一樣，玉子燒還是和之前一樣好吃，這次的白蘿蔔、蕃茄和小黃瓜好像比之前好吃，不知道是不是調味有換\n🪐之前照片被估狗吃掉了⋯⋯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2022一訪\n✨明太子雞腿丼+A套餐 $360\n👉茶碗蒸：蛋非常滑嫩，縫隙超小，是原味茶碗蒸沒有料在裡面\n👉明太子雞腿丼\n玉子燒甜甜軟軟的非常好吃\n明太子雞腿的調味比較不符合我的胃口，但明太子非常多\n漬物有小黃瓜、白蘿蔔、小番茄，是味道比較清淡的漬物\n👉味噌湯：有蔥、洋蔥、海帶、豆腐和一點點魚的碎肉\n👉甜點黑糖蜜奶酪：這個甜點提醒我下次要問好今日甜點是什麼，原本很期待抹茶提拉米蘇\n是普通好吃的奶酪\n✨招待：\n很酥脆好吃，其中一塊的椒鹽味非常夠味\n\n🪐低消250，中午用餐時間一個小時，無服務費\n🪐吧檯座位十個，雙人桌三張，平日中午客滿\n🪐招待的實在太驚艷，下次要點點看烤魚類\n推薦：招待、玉子燒>>>其他的\n\n2023二訪\n✨炙燒海鮮丼+A套餐$410（現在$420）\n👉炙燒海鮮丼：炙燒生魚片普通，無功無過，整碗最喜歡的又是玉子燒\n👉芝麻甜點：\n芝麻味很濃郁，底層和中間的蛋糕層是解膩用的，不過還是滿膩的，甜度中高(是吃完一定要喝茶解膩的膩度）（不知道是選的奶油乳酪問題還是為什麼）\n👉味噌湯、茶碗蒸與一訪差不多，不過上桌時非常燙\n🪐此次造訪平日中午店內尚有吧台位三個\n🪐推薦：玉子燒>>>茶碗蒸>芝麻甜點、炙燒海鮮丼>味噌湯\n\n三訪\n✨烤花魚便當$200（外帶）\n👉和風沙拉：醬應該是類似油醋？還有一小塊蘋果、芭樂、鳳梨\n👉烤花魚：魚比照片還大塊，魚肉有嫩、魚骨被烤到脆脆的，不過細的魚刺還是要挑掉的。本身吃起來已經滿鹹了，所以沒加店家附的椒鹽\n👉日式醬菜：醃白蘿蔔不怎麼酸甜，小黃瓜和番茄也都不會讓人想一吃再吃，就是解膩用的。這個的份量很小，盒子的設計是有凹凸的\n👉和風小菜：吃完沒什麼記憶點\n👉明太子玉子燒：玉子燒果然還是最好吃的，又甜又綿密。明太子我直接刮掉配飯，玉子燒就是要甜甜的\n⚠️等待製作要等15分鐘\n🪐目前三項當中最推花魚便當\n\n2024四訪\n✨醬燒雞便當$200\n雞肉算多，一打開盒就有醬燒的香氣，不過可惜的是烤的有點太乾，不是多汁的雞肉\n其他欄配菜和上次買便當時一樣，玉子燒還是和之前一樣好吃，這次的白蘿蔔、蕃茄和小黃瓜好像比之前好吃，不知道是不是調味有換\n🪐之前照片被估狗吃掉了⋯⋯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "C H",
+        "uri": "https://www.google.com/maps/contrib/104245661409245047571/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUco1iAY4axVct8A233N-mlrKTf1mTT9qGb63ek0hyrRZFM0e4N=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2024-08-02T15:53:20.287129Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN4X0llOVlBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN4X0llOVlBEAE!2m1!1s0x3442a99d4fc91059:0xefda8485d7a86c57"
+    },
+    {
+      "name": "places/ChIJWRDJT52pQjQRV2yo14WE2u8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNMenJxV013EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "＊運氣很好，小小等一下就可以入座\n＊店面不大動線有點差，冷氣的導風板會滴水\n＊服務生不會主動做介紹，但沒收服務費還可接受\n＊餐點部分：\n→大推茶碗蒸，雖然沒有料上面只有海苔絲，但超級綿密軟嫩順口，調味的芡汁也很棒\n→炙燒海鮮丼偏普，飯很多但沒味道，而且我的丼不知為啥沒有山葵....只好配醬油將就。甜蝦對我來說偏腥，海鮮給的都還算大方",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "＊運氣很好，小小等一下就可以入座\n＊店面不大動線有點差，冷氣的導風板會滴水\n＊服務生不會主動做介紹，但沒收服務費還可接受\n＊餐點部分：\n→大推茶碗蒸，雖然沒有料上面只有海苔絲，但超級綿密軟嫩順口，調味的芡汁也很棒\n→炙燒海鮮丼偏普，飯很多但沒味道，而且我的丼不知為啥沒有山葵....只好配醬油將就。甜蝦對我來說偏腥，海鮮給的都還算大方",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jyun",
+        "uri": "https://www.google.com/maps/contrib/113521234101549924162/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU6AYZDrowpipQBmGrX7lT_EmZOVDaujSWqZlvqA2fz0Y4bC_8_=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2024-06-20T03:43:01.250706Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNMenJxV013EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNMenJxV013EAE!2m1!1s0x3442a99d4fc91059:0xefda8485d7a86c57"
+    }
+  ]
+}

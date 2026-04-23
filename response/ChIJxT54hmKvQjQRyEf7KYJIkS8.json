@@ -1,0 +1,131 @@
+{
+  "id": "ChIJxT54hmKvQjQRyEf7KYJIkS8",
+  "types": [
+    "japanese_restaurant",
+    "japanese_izakaya_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2897 8833",
+  "formattedAddress": "112台灣臺北市北投區永興路一段47號",
+  "location": {
+    "latitude": 25.139529399999997,
+    "longitude": 121.50047959999999
+  },
+  "rating": 4.9,
+  "websiteUri": "http://www.facebook.com/sampkamy",
+  "userRatingCount": 3720,
+  "displayName": {
+    "text": "酒米食堂chumi_canteen－北投店beitou",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJxT54hmKvQjQRyEf7KYJIkS8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25walJGZDBNRzB0UWt0R09FSnZTVkJmUTE5aFoyYxAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 5,
+      "text": {
+        "text": "餐點非常好吃，雖然價格偏高，但是值得。\n\n推薦鮭魚炒飯和茶泡飯，山藥蓬鬆燒也很推，明太子雞腿卷的明太子超厚很過癮，務必要搭配炒飯。\n醃漬番茄可以解膩，抹茶蜂蜜啤酒讓我這個不喝啤酒的人也能喝完。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點非常好吃，雖然價格偏高，但是值得。\n\n推薦鮭魚炒飯和茶泡飯，山藥蓬鬆燒也很推，明太子雞腿卷的明太子超厚很過癮，務必要搭配炒飯。\n醃漬番茄可以解膩，抹茶蜂蜜啤酒讓我這個不喝啤酒的人也能喝完。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "江勝倚",
+        "uri": "https://www.google.com/maps/contrib/101716512810783507323/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU9huNHBwAMbnSqITKx4D1vsFCj3PZISTjsm1-hBK7MOcZZhCHh7g=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-03-01T13:23:12.889542848Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25walJGZDBNRzB0UWt0R09FSnZTVkJmUTE5aFoyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25walJGZDBNRzB0UWt0R09FSnZTVkJmUTE5aFoyYxAB!2m1!1s0x3442af6286783ec5:0x2f91488229fb47c8"
+    },
+    {
+      "name": "places/ChIJxT54hmKvQjQRyEf7KYJIkS8/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xVFpuVndhRFF4ZEdjNVdYSnZiVWRVYlhSS1JWRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "還不錯吃，份量比一般的日式餐廳多～會吃很飽！\n\n唯一比較硬的規定是「低消，一定要點一杯飲料或水酒」，其中雖然也有供應熱茶，但對於不喜歡喝茶的我來說，即便是在9度寒流來襲時⋯為了不浪費80元的低消可樂，還是把它灌完了",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "還不錯吃，份量比一般的日式餐廳多～會吃很飽！\n\n唯一比較硬的規定是「低消，一定要點一杯飲料或水酒」，其中雖然也有供應熱茶，但對於不喜歡喝茶的我來說，即便是在9度寒流來襲時⋯為了不浪費80元的低消可樂，還是把它灌完了",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Burnice Hsu",
+        "uri": "https://www.google.com/maps/contrib/115191695399250928473/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIiihyNjrIHXTp8jU4cLdpU1t-1Ltll8dSTdKCaTafMzcno=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-08T16:43:35.176503361Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xVFpuVndhRFF4ZEdjNVdYSnZiVWRVYlhSS1JWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xVFpuVndhRFF4ZEdjNVdYSnZiVWRVYlhSS1JWRRAB!2m1!1s0x3442af6286783ec5:0x2f91488229fb47c8"
+    },
+    {
+      "name": "places/ChIJxT54hmKvQjQRyEf7KYJIkS8/reviews/Ci9DQUlRQUNvZENodHljRjlvT201NmJtaG1hMmQ2YzFSTVRsUlRjR2xIVmkxdFduYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 1,
+      "text": {
+        "text": "20251115\n我們大約在晚上十點抵達，進門才得知已接近打烊。結果一入座就得立刻把餐點全部點完。兩個又餓又慌的2人隨便點了菜，最後結帳金額為 NT$3,487（無酒精飲品，僅兩杯飲料）。\n這次用餐體驗，我認為並不符合每人 NT$1,800 的消費水平，主要是出在服務、耐心與細心度上。\n\n⸻\n原因如下：\n\n1）整體用餐過於匆促\n因為店家即將打烊，我們又是最後一桌點餐，上菜速度快到完全來不及應對。\n前一道熱菜還沒吃完，下一道又接著上，導致炸物、烤物一下子全部放涼。\n主食還沒結束，甜點又緊接上桌，甜鹹混著吃，體驗大打折扣。\n\n我們兩人既不是喝酒聊天，也不是滑手機吃很慢，就是正常用餐而已。\n以我們這種「專心吃飯、翻桌率也高」的客群，上菜節奏完全不顧客人體驗，確實欠缺最基本的服務禮貌。\n\n⸻\n\n2）抹茶啤酒詢問時的態度不佳\n\n因為好奇想試，但又怕一大杯踩雷喝不完，所以只是詢問是否能試喝一小口。\n無論店家想堅持規定，或願意破例，都應以好的語氣來說明，而不是用明顯不耐的態度來回應。\n\n若不是我想早點回飯店休息，光是當下的語氣，以我的個性可能直接轉頭離場。\n\n⸻\n\n3）清酒蛤蠣湯的溝通落差\n\n我一開始有明確表達「想要薑絲多的蛤蠣湯」。師傅只說若加薑絲味道會不同，但並未多做提醒，導致我沒意識到你們的「清酒蛤蠣湯」與一般居酒屋的版本不同。\n\n實際上桌後才知道，你們的是「清酒味極濃、類似清酒湯底」的版本，而不是我心中一般的蛤蠣湯。\n身為第一次來訪的客人，自然不會知道這道湯的風味落差如此大，這部分以師傅的專業應主動提醒。\n\n⸻\n\n4）我沒注意到 22:00 最後點餐時間固然是我的疏忽，但既然仍願意收客，就應維持專業與用心\n\n尤其是：\n\nA）兩人點了這麼多，一開始為何沒有提醒「份量是否過量」？\nB）若真的需要準時在 00:00 關店，也應先告知「上菜會一次全部出齊」以及客人可能會遇到的用餐壓力與體驗落差。\n\n⸻\n\n結論：\n\n餐點本身並不差，味道與口感都有一定的水準。\n但這次的整體感受，與你們「關於」頁面裡所強調的「溫度」與「用心」並不相符。\n很可惜，食物不錯，但服務細節完全破壞了體驗。\n\nNov,15,2025\n\nWe arrived at the restaurant at around 10 PM and only learned upon entering that it was close to closing time. As soon as we sat down, we were told to place our entire order immediately. Two hungry and flustered people ended up ordering quickly, and the final bill came to NT$3,487 (no alcohol, just two drinks).\n\nBased on this experience, I do not think it matched the NT$1,800-per-person level of service, mainly due to issues with service attitude, patience, and attention to detail.\n\n* The details may refer to the above Mandarin version for translation.\n⸻\n\nConclusion:\n\nThe food itself was not bad—both the flavor and texture were at a certain standard.\nHowever, the overall experience did not match the “warmth” and “attention to detail” described in your “About” page.\nIt’s a pity that the food was good, but the service details completely undermined the dining experience.",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "20251115\n我們大約在晚上十點抵達，進門才得知已接近打烊。結果一入座就得立刻把餐點全部點完。兩個又餓又慌的2人隨便點了菜，最後結帳金額為 NT$3,487（無酒精飲品，僅兩杯飲料）。\n這次用餐體驗，我認為並不符合每人 NT$1,800 的消費水平，主要是出在服務、耐心與細心度上。\n\n⸻\n原因如下：\n\n1）整體用餐過於匆促\n因為店家即將打烊，我們又是最後一桌點餐，上菜速度快到完全來不及應對。\n前一道熱菜還沒吃完，下一道又接著上，導致炸物、烤物一下子全部放涼。\n主食還沒結束，甜點又緊接上桌，甜鹹混著吃，體驗大打折扣。\n\n我們兩人既不是喝酒聊天，也不是滑手機吃很慢，就是正常用餐而已。\n以我們這種「專心吃飯、翻桌率也高」的客群，上菜節奏完全不顧客人體驗，確實欠缺最基本的服務禮貌。\n\n⸻\n\n2）抹茶啤酒詢問時的態度不佳\n\n因為好奇想試，但又怕一大杯踩雷喝不完，所以只是詢問是否能試喝一小口。\n無論店家想堅持規定，或願意破例，都應以好的語氣來說明，而不是用明顯不耐的態度來回應。\n\n若不是我想早點回飯店休息，光是當下的語氣，以我的個性可能直接轉頭離場。\n\n⸻\n\n3）清酒蛤蠣湯的溝通落差\n\n我一開始有明確表達「想要薑絲多的蛤蠣湯」。師傅只說若加薑絲味道會不同，但並未多做提醒，導致我沒意識到你們的「清酒蛤蠣湯」與一般居酒屋的版本不同。\n\n實際上桌後才知道，你們的是「清酒味極濃、類似清酒湯底」的版本，而不是我心中一般的蛤蠣湯。\n身為第一次來訪的客人，自然不會知道這道湯的風味落差如此大，這部分以師傅的專業應主動提醒。\n\n⸻\n\n4）我沒注意到 22:00 最後點餐時間固然是我的疏忽，但既然仍願意收客，就應維持專業與用心\n\n尤其是：\n\nA）兩人點了這麼多，一開始為何沒有提醒「份量是否過量」？\nB）若真的需要準時在 00:00 關店，也應先告知「上菜會一次全部出齊」以及客人可能會遇到的用餐壓力與體驗落差。\n\n⸻\n\n結論：\n\n餐點本身並不差，味道與口感都有一定的水準。\n但這次的整體感受，與你們「關於」頁面裡所強調的「溫度」與「用心」並不相符。\n很可惜，食物不錯，但服務細節完全破壞了體驗。\n\nNov,15,2025\n\nWe arrived at the restaurant at around 10 PM and only learned upon entering that it was close to closing time. As soon as we sat down, we were told to place our entire order immediately. Two hungry and flustered people ended up ordering quickly, and the final bill came to NT$3,487 (no alcohol, just two drinks).\n\nBased on this experience, I do not think it matched the NT$1,800-per-person level of service, mainly due to issues with service attitude, patience, and attention to detail.\n\n* The details may refer to the above Mandarin version for translation.\n⸻\n\nConclusion:\n\nThe food itself was not bad—both the flavor and texture were at a certain standard.\nHowever, the overall experience did not match the “warmth” and “attention to detail” described in your “About” page.\nIt’s a pity that the food was good, but the service details completely undermined the dining experience.",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ms. U",
+        "uri": "https://www.google.com/maps/contrib/103084144432338853752/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXFKi1apMMTe4Spd_BZQs5zZsAWu_VbDSpCl-_hAB1O4bs0k9k=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-16T07:40:40.687846462Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201NmJtaG1hMmQ2YzFSTVRsUlRjR2xIVmkxdFduYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201NmJtaG1hMmQ2YzFSTVRsUlRjR2xIVmkxdFduYxAB!2m1!1s0x3442af6286783ec5:0x2f91488229fb47c8"
+    },
+    {
+      "name": "places/ChIJxT54hmKvQjQRyEf7KYJIkS8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xObWMzaG1Sbk13WDNCT2VtUm1NMWhOUWtKamFWRRAB",
+      "relativePublishTimeDescription": "4 週前",
+      "rating": 5,
+      "text": {
+        "text": "有5星評論送蕨餅活動所以才有這種高評分，整體會只給4星。\n服務親切良好，收10%服務費，低消一杯飲料，用餐時間2小時，吧台位前面就是料理區，會有點油煙感，不知道是沒擦乾淨還是材質問題，桌子整個超級黏，然後盤子邊邊也都黏黏的，用餐全程整個覺得手一直很黏，還好是有濕紙巾可以用。星期五晚上滿座，最好先訂位。\n食物整體還行，烏龍麵份量蠻大的，鱈魚肝調味好吃。烤雞肉串很乾、豬肉硬柴，明太子醬美乃滋的比例偏高有點太膩，烤串水準需加強。水蓮有點苦，脆度OK，可能是清洗前處理沒弄好。\n特別的抹茶啤酒的苦味平衡的恰到好處，Highball好喝。\n餐後有附紅豆紫米西米露招待甜點。\n-------------------------------\n如果有認真看到這裡底下的朋友們，強烈建議可以去看看其他沒有給五星的評論喔～店家回覆很喜歡詭辯🙂\n1.桌子黏就是黏，回覆打說客人很多想趕快請人入桌是想表達什麼呢？表達你們為了想要快而不用顧慮清潔度的意思嗎？況且，我們有訂位且進去的時候還沒到尖峰期，人也還沒滿，請問是要快什麼？\n2.可以發現，只要評論一打出\"五星評論送禮\"，店家就會回覆什麼是要回饋給好評客人的，不喜歡可以不用硬要給五星。店員是在菜上桌後，主動說有拍照評論送小禮的活動，事實就是一般人聽到就會去按個五星拿小點心，而這家店有上千則五星也是這樣拿到的，請問這樣到底跟五星評論送禮的差別在哪？如果你今天沒送禮的誘惑，會有這麼高的評分嗎？是承認五星送禮很可恥嗎？真的不知道店家在強辯什麼……\n3.我們很確定上菜時沒有被告知豬肉要先食用喔～如果是真的忘記說了沒關係。\n4.我沒有說這家店很糟糕，它整體還是算不錯的，只是店家的回覆實在很……，總之從來沒遇過這種回覆的店家，不再說明一下對不起自己🙂",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "有5星評論送蕨餅活動所以才有這種高評分，整體會只給4星。\n服務親切良好，收10%服務費，低消一杯飲料，用餐時間2小時，吧台位前面就是料理區，會有點油煙感，不知道是沒擦乾淨還是材質問題，桌子整個超級黏，然後盤子邊邊也都黏黏的，用餐全程整個覺得手一直很黏，還好是有濕紙巾可以用。星期五晚上滿座，最好先訂位。\n食物整體還行，烏龍麵份量蠻大的，鱈魚肝調味好吃。烤雞肉串很乾、豬肉硬柴，明太子醬美乃滋的比例偏高有點太膩，烤串水準需加強。水蓮有點苦，脆度OK，可能是清洗前處理沒弄好。\n特別的抹茶啤酒的苦味平衡的恰到好處，Highball好喝。\n餐後有附紅豆紫米西米露招待甜點。\n-------------------------------\n如果有認真看到這裡底下的朋友們，強烈建議可以去看看其他沒有給五星的評論喔～店家回覆很喜歡詭辯🙂\n1.桌子黏就是黏，回覆打說客人很多想趕快請人入桌是想表達什麼呢？表達你們為了想要快而不用顧慮清潔度的意思嗎？況且，我們有訂位且進去的時候還沒到尖峰期，人也還沒滿，請問是要快什麼？\n2.可以發現，只要評論一打出\"五星評論送禮\"，店家就會回覆什麼是要回饋給好評客人的，不喜歡可以不用硬要給五星。店員是在菜上桌後，主動說有拍照評論送小禮的活動，事實就是一般人聽到就會去按個五星拿小點心，而這家店有上千則五星也是這樣拿到的，請問這樣到底跟五星評論送禮的差別在哪？如果你今天沒送禮的誘惑，會有這麼高的評分嗎？是承認五星送禮很可恥嗎？真的不知道店家在強辯什麼……\n3.我們很確定上菜時沒有被告知豬肉要先食用喔～如果是真的忘記說了沒關係。\n4.我沒有說這家店很糟糕，它整體還是算不錯的，只是店家的回覆實在很……，總之從來沒遇過這種回覆的店家，不再說明一下對不起自己🙂",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "賴辰",
+        "uri": "https://www.google.com/maps/contrib/105821002293583180237/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWAhOhf0flT77sNSZUyi1B8w_OWNnSVO51c-HUR7BHXh3mVWYc=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-21T11:55:47.359448874Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xObWMzaG1Sbk13WDNCT2VtUm1NMWhOUWtKamFWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xObWMzaG1Sbk13WDNCT2VtUm1NMWhOUWtKamFWRRAB!2m1!1s0x3442af6286783ec5:0x2f91488229fb47c8"
+    },
+    {
+      "name": "places/ChIJxT54hmKvQjQRyEf7KYJIkS8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21FMFpHaENRbmhxTjNWVU9YQmxWa2RZUzNoeVJWRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "打算去泡湯，所以先吃點美食，附近晚上要找到能吃的宵夜還不少，這家評價看起來不錯，所以先電話訂了位，還好有位子！吧台座位也不算太舒服，店內的空間不大，但還可以！從整體上菜的速度還不錯，但吃到最後一直在等牛肉上桌，感覺花蠻多時間的，但不枉費我們等這麼久口感非常的棒，有像和牛的感覺，是一家會想要再去的店，可惜蟹肉可樂餅沒有覺得有吃到螃蟹的感覺",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "打算去泡湯，所以先吃點美食，附近晚上要找到能吃的宵夜還不少，這家評價看起來不錯，所以先電話訂了位，還好有位子！吧台座位也不算太舒服，店內的空間不大，但還可以！從整體上菜的速度還不錯，但吃到最後一直在等牛肉上桌，感覺花蠻多時間的，但不枉費我們等這麼久口感非常的棒，有像和牛的感覺，是一家會想要再去的店，可惜蟹肉可樂餅沒有覺得有吃到螃蟹的感覺",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Anjo Chuang",
+        "uri": "https://www.google.com/maps/contrib/110288141194226360317/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3efEXgZwIGiwTng7d7oQRKfoR7E3kscC02LYMHzwcOHW_9DypKA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-24T08:39:41.983837736Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21FMFpHaENRbmhxTjNWVU9YQmxWa2RZUzNoeVJWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21FMFpHaENRbmhxTjNWVU9YQmxWa2RZUzNoeVJWRRAB!2m1!1s0x3442af6286783ec5:0x2f91488229fb47c8"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "id": "ChIJrcCWRgCtQjQRQ_pXCyJeJ0U",
+  "types": [
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "115台灣臺北市南港區經貿二路131號51100舖5 樓",
+  "location": {
+    "latitude": 25.0593449,
+    "longitude": 121.61758249999998
+  },
+  "rating": 4.6,
+  "websiteUri": "https://www.instagram.com/mitsuboshi_yakiniku/",
+  "userRatingCount": 881,
+  "displayName": {
+    "text": "叁星燒肉重飯-ミツボシ南港本店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJrcCWRgCtQjQRQ_pXCyJeJ0U/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaV2JrMVFPVEJOUkc5cVVXSnNTM3BYWmxkYVVWRRAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 5,
+      "text": {
+        "text": "1號餐口味很棒，且份量並沒有評論說的那麼少，加點了小朋友分享餐吃的很撐。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "1號餐口味很棒，且份量並沒有評論說的那麼少，加點了小朋友分享餐吃的很撐。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "DCW Tsai",
+        "uri": "https://www.google.com/maps/contrib/112676296149441198864/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLG4tSNIbi_Vpjtp2enUxaJQO2CSGqJvUs-azpDryoQG9bKCkw=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-02-26T07:26:59.235511872Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaV2JrMVFPVEJOUkc5cVVXSnNTM3BYWmxkYVVWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaV2JrMVFPVEJOUkc5cVVXSnNTM3BYWmxkYVVWRRAB!2m1!1s0x3442ad004696c0ad:0x45275e220b57fa43"
+    },
+    {
+      "name": "places/ChIJrcCWRgCtQjQRQ_pXCyJeJ0U/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taRU56VjRSemxEVUhOV2RIRnFiSFZUV0VoMmNVRRAB",
+      "relativePublishTimeDescription": "1 週前",
+      "rating": 5,
+      "text": {
+        "text": "偶然造訪點了豬肉燒肉重\n餐點和圖片一模一樣\n份量足夠 湯也好喝可續\n剛好遇到布丁半價優惠加購試試\n布丁觸感口感綿密入口即化\n令人驚豔印象深刻\n服務也很優質",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "偶然造訪點了豬肉燒肉重\n餐點和圖片一模一樣\n份量足夠 湯也好喝可續\n剛好遇到布丁半價優惠加購試試\n布丁觸感口感綿密入口即化\n令人驚豔印象深刻\n服務也很優質",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yu-Ho Chang",
+        "uri": "https://www.google.com/maps/contrib/113152410685068622044/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdBC4fjHgxcS511i_ZenawkC01-FQZdQo-f-J9KRxM4LBHEiFX=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-03-09T08:06:29.152345572Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taRU56VjRSemxEVUhOV2RIRnFiSFZUV0VoMmNVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taRU56VjRSemxEVUhOV2RIRnFiSFZUV0VoMmNVRRAB!2m1!1s0x3442ad004696c0ad:0x45275e220b57fa43"
+    },
+    {
+      "name": "places/ChIJrcCWRgCtQjQRQ_pXCyJeJ0U/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWV01VYzBNbGRRZVZsa1FXeDBWMHBGVlZOcU1XYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "參星重，好吃，看起來很豐盛，size不大，在拉拉Port算是CP值合理的，300元的叁星重飯不會失望。\n牛肉非常的鮮嫩，油脂豐富不澀\n豬肉油花分佈均勻，不會太肥\n米飯非常q彈爽口，醬汁的鹹甜恰當。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "參星重，好吃，看起來很豐盛，size不大，在拉拉Port算是CP值合理的，300元的叁星重飯不會失望。\n牛肉非常的鮮嫩，油脂豐富不澀\n豬肉油花分佈均勻，不會太肥\n米飯非常q彈爽口，醬汁的鹹甜恰當。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "詹Nathan",
+        "uri": "https://www.google.com/maps/contrib/107612912402760061263/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUv94AAZNhmnTJB-Tip1Y5BT-5KklptKtRkdmXCwH0v-RquH8SMhA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-22T04:59:27.510292389Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWV01VYzBNbGRRZVZsa1FXeDBWMHBGVlZOcU1XYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWV01VYzBNbGRRZVZsa1FXeDBWMHBGVlZOcU1XYxAB!2m1!1s0x3442ad004696c0ad:0x45275e220b57fa43"
+    },
+    {
+      "name": "places/ChIJrcCWRgCtQjQRQ_pXCyJeJ0U/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WWFVtaFhjRTV4ZG1OQlZVZzNZMjFqTkdwcmMwRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "支援line pay及信用卡。點餐後給叫號機，取餐後於美食街用餐，需自助回收餐盤。\n\n大約是遇到非洲豬瘟事件，禁宰令雖已解除但目前只提供牛肉餐點。\n\n整體是好吃的，肉質有基本水準，但出餐品質不穩，且盒飯比想像來的小些，因此覺得價格就偏高，若能穩定提供好品質，才能符合此等價位。\n\n叁星重$300/\n含牛後腹+牛肩胛；\n牛後腹吃起來有點像牛五花，筋感較多；\n牛肩胛有點煎過頭，口感偏Q；\n白飯軟Q好吃。\n\n綜合牛肉重$300/\n含牛肋+牛肩胛；\n牛肋偏小塊，部分煎過頭，整體還是不錯，醬汁跟飯也很搭；\n牛肩胛煎得剛好，軟嫩帶有彈性；\n部分白飯的口感像鍋巴，不喜歡。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "支援line pay及信用卡。點餐後給叫號機，取餐後於美食街用餐，需自助回收餐盤。\n\n大約是遇到非洲豬瘟事件，禁宰令雖已解除但目前只提供牛肉餐點。\n\n整體是好吃的，肉質有基本水準，但出餐品質不穩，且盒飯比想像來的小些，因此覺得價格就偏高，若能穩定提供好品質，才能符合此等價位。\n\n叁星重$300/\n含牛後腹+牛肩胛；\n牛後腹吃起來有點像牛五花，筋感較多；\n牛肩胛有點煎過頭，口感偏Q；\n白飯軟Q好吃。\n\n綜合牛肉重$300/\n含牛肋+牛肩胛；\n牛肋偏小塊，部分煎過頭，整體還是不錯，醬汁跟飯也很搭；\n牛肩胛煎得剛好，軟嫩帶有彈性；\n部分白飯的口感像鍋巴，不喜歡。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ally",
+        "uri": "https://www.google.com/maps/contrib/100131186886927345605/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWvJyLgd5TexxEKEzQ5zq7nnhRb22FeiuooDNH0eK4GRMmcsAVRwA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-19T09:03:01.862884562Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WWFVtaFhjRTV4ZG1OQlZVZzNZMjFqTkdwcmMwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WWFVtaFhjRTV4ZG1OQlZVZzNZMjFqTkdwcmMwRRAB!2m1!1s0x3442ad004696c0ad:0x45275e220b57fa43"
+    },
+    {
+      "name": "places/ChIJrcCWRgCtQjQRQ_pXCyJeJ0U/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkbFpESndaREJMUVRBeWFYSlVSM0JPTmprMVpFRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "看到評價不錯來試試，先說優點：擺盤好看，牛肉有燒烤香氣，米飯品質好搭配醬汁加上有附山葵醬很棒很美味..缺點是醬汁偏多整體偏鹹了點，吃完很口渴，牛肉品質以300來說不能要求太高算中等，份量男生來說偏少，個人是到隔壁點煎餃搭配才有飽足感...整體口味300元算物有所值，值得試試...",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "看到評價不錯來試試，先說優點：擺盤好看，牛肉有燒烤香氣，米飯品質好搭配醬汁加上有附山葵醬很棒很美味..缺點是醬汁偏多整體偏鹹了點，吃完很口渴，牛肉品質以300來說不能要求太高算中等，份量男生來說偏少，個人是到隔壁點煎餃搭配才有飽足感...整體口味300元算物有所值，值得試試...",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ken Shih",
+        "uri": "https://www.google.com/maps/contrib/102507381690577785516/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKU2liSCuuzprydeuIhfDnoybxRrnLbUovoyoBwOQs4f1ocuA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-08T07:00:50.157652033Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkbFpESndaREJMUVRBeWFYSlVSM0JPTmprMVpFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkbFpESndaREJMUVRBeWFYSlVSM0JPTmprMVpFRRAB!2m1!1s0x3442ad004696c0ad:0x45275e220b57fa43"
+    }
+  ]
+}

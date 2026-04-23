@@ -1,0 +1,132 @@
+{
+  "id": "ChIJZ9PLeZqrQjQR5A9V3xca_kw",
+  "types": [
+    "noodle_shop",
+    "deli",
+    "food_store",
+    "restaurant",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2766 6978",
+  "formattedAddress": "105台灣臺北市松山區三民路113巷18號5樓",
+  "location": {
+    "latitude": 25.0580605,
+    "longitude": 121.56229489999998
+  },
+  "rating": 4.4,
+  "userRatingCount": 1455,
+  "displayName": {
+    "text": "虎笑麵屋 無訂位服務",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJZ9PLeZqrQjQR5A9V3xca_kw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wSGFEbHBiVTV4TlhVdE1UWjNjMGM1YjBGTGRYYxAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 4,
+      "text": {
+        "text": "主打似台南的現沖溫體牛肉湯\n牛肉是台灣溫體牛莎朗心的部位，有7~8小片份量\n但湯頭卻跟不上牛肉的品質，不夠鮮甜，反而比較像滷味的味道， 小可惜\n\n總結：牛肉湯還是得去台南喝🙂‍↔️\n-\n📌個人喜好：6.5/10\n\n#虎笑麵屋 #台北溫體牛 #台北牛肉麵 #松山區美食",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "主打似台南的現沖溫體牛肉湯\n牛肉是台灣溫體牛莎朗心的部位，有7~8小片份量\n但湯頭卻跟不上牛肉的品質，不夠鮮甜，反而比較像滷味的味道， 小可惜\n\n總結：牛肉湯還是得去台南喝🙂‍↔️\n-\n📌個人喜好：6.5/10\n\n#虎笑麵屋 #台北溫體牛 #台北牛肉麵 #松山區美食",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chihying Huang",
+        "uri": "https://www.google.com/maps/contrib/108844452958567402409/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVHHP2wSZc0OvjStDODUpw3F9zCJBLDeojmaklKsm7nexMz3Ai_=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-03-03T11:31:49.234280985Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wSGFEbHBiVTV4TlhVdE1UWjNjMGM1YjBGTGRYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wSGFEbHBiVTV4TlhVdE1UWjNjMGM1YjBGTGRYYxAB!2m1!1s0x3442ab9a79cbd367:0x4cfe1a17df550fe4"
+    },
+    {
+      "name": "places/ChIJZ9PLeZqrQjQR5A9V3xca_kw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wcVEybzRSamd5WDFORlVWaERaamc1YnpsbE1VRRAB",
+      "relativePublishTimeDescription": "4 週前",
+      "rating": 4,
+      "text": {
+        "text": "麵的份量不少，還有附一個油條口感很脆口！\n溏心蛋跟小黃瓜中規中矩，牛肉的部分口感就是火鍋牛肉片，湯可以喝，還算溫潤。\n餐都有附紅茶。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "麵的份量不少，還有附一個油條口感很脆口！\n溏心蛋跟小黃瓜中規中矩，牛肉的部分口感就是火鍋牛肉片，湯可以喝，還算溫潤。\n餐都有附紅茶。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chun Li (Lili)",
+        "uri": "https://www.google.com/maps/contrib/110565360810462307345/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWascr_t-ed9llu1dtKW-jT2FDGKJXDOX992pbmnQc1uEOsXoaaKA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-21T07:39:38.472233869Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wcVEybzRSamd5WDFORlVWaERaamc1YnpsbE1VRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wcVEybzRSamd5WDFORlVWaERaamc1YnpsbE1VRRAB!2m1!1s0x3442ab9a79cbd367:0x4cfe1a17df550fe4"
+    },
+    {
+      "name": "places/ChIJZ9PLeZqrQjQR5A9V3xca_kw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GR1drdzFhRzQ0VVVwTkxWbHdaRlF0WldGd1VuYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 3,
+      "text": {
+        "text": "週末晚上前往，運氣好剛好不用排隊，入座後人潮很多，後面很多人在排隊，點的是清燉牛肉湯套餐280，整體CP值不是很高，唯一的亮點在乾拌麵，麵體Q醬汁調味鹹甜，吧附在麵上吃下去還是挺美味的，牛肉湯部分，湯頭是有調味過的燉煮湯頭，牛肉有嚼勁帶點筋，只能說這部分蠻普通的，不過若突然想吃現沖溫體牛，還算可以解解饞的。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "週末晚上前往，運氣好剛好不用排隊，入座後人潮很多，後面很多人在排隊，點的是清燉牛肉湯套餐280，整體CP值不是很高，唯一的亮點在乾拌麵，麵體Q醬汁調味鹹甜，吧附在麵上吃下去還是挺美味的，牛肉湯部分，湯頭是有調味過的燉煮湯頭，牛肉有嚼勁帶點筋，只能說這部分蠻普通的，不過若突然想吃現沖溫體牛，還算可以解解饞的。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "竣鋒",
+        "uri": "https://www.google.com/maps/contrib/110134653005113034229/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUGrXdb3JenZYmE8PHbsNAbi1QCSC1Du7nSE3OsBtKKEQVS5LwV=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-31T10:34:01.383209413Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GR1drdzFhRzQ0VVVwTkxWbHdaRlF0WldGd1VuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GR1drdzFhRzQ0VVVwTkxWbHdaRlF0WldGd1VuYxAB!2m1!1s0x3442ab9a79cbd367:0x4cfe1a17df550fe4"
+    },
+    {
+      "name": "places/ChIJZ9PLeZqrQjQR5A9V3xca_kw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOb2JXTlBZVUowZG0xU00wNUNVRTEyV1RFeU1tYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 3,
+      "text": {
+        "text": "其實來之前就有在觀望評價，發現好壞落差非常大，所以決定親自來一趟吃吃看\n結論是如不少人評論的真的非常普通！\n食物並不難吃，餐點有湯有麵有飲料還有小菜很上相，確實很有吸引人光顧的氣氛，但沒有到令人回味並且推薦人來吃的程度。\n比如套餐中的乾拌麵就是在自家巷口賣3、40元會想回購，賣個幾百元就算了⋯⋯溫體牛肉質不錯，湯頭調味就很不行，似乎加了一種特殊的香料，跟其他正統溫體牛肉湯比起來有個違和感。 算算價錢整套餐可以在台北市吃到更好的牛肉麵或湯了。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "其實來之前就有在觀望評價，發現好壞落差非常大，所以決定親自來一趟吃吃看\n結論是如不少人評論的真的非常普通！\n食物並不難吃，餐點有湯有麵有飲料還有小菜很上相，確實很有吸引人光顧的氣氛，但沒有到令人回味並且推薦人來吃的程度。\n比如套餐中的乾拌麵就是在自家巷口賣3、40元會想回購，賣個幾百元就算了⋯⋯溫體牛肉質不錯，湯頭調味就很不行，似乎加了一種特殊的香料，跟其他正統溫體牛肉湯比起來有個違和感。 算算價錢整套餐可以在台北市吃到更好的牛肉麵或湯了。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Rei Chen",
+        "uri": "https://www.google.com/maps/contrib/107444105353300548585/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWniqRPcLwYnENbE-FnSv7RorJugTFlgEvQeOPjEgf7th3RT4Tw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-10-19T13:32:43.238121675Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOb2JXTlBZVUowZG0xU00wNUNVRTEyV1RFeU1tYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOb2JXTlBZVUowZG0xU00wNUNVRTEyV1RFeU1tYxAB!2m1!1s0x3442ab9a79cbd367:0x4cfe1a17df550fe4"
+    },
+    {
+      "name": "places/ChIJZ9PLeZqrQjQR5A9V3xca_kw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toc1JUWnZNa2htY0doRFJXb3dUblpPTkUxc05IYxAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 3,
+      "text": {
+        "text": "點了清燉溫體牛套餐，湯還不錯，麵要點微辣比較夠味，紅茶還不錯，小菜有小黃瓜、半顆溏心蛋，吃完是覺得有點空虛，感覺沒吃飽然後一個套餐$280，感覺CP值不成正比，環境不錯，點餐的先生來的有點太快，我還來不及看好餐點就急著來點餐",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點了清燉溫體牛套餐，湯還不錯，麵要點微辣比較夠味，紅茶還不錯，小菜有小黃瓜、半顆溏心蛋，吃完是覺得有點空虛，感覺沒吃飽然後一個套餐$280，感覺CP值不成正比，環境不錯，點餐的先生來的有點太快，我還來不及看好餐點就急著來點餐",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Linna Dai",
+        "uri": "https://www.google.com/maps/contrib/104087817920395216005/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLk8F_7Qen0xxL-oEI08DXjuzjiqG1ENPIiHFPr_FY422X3kws=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-03-04T15:30:47.017321337Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toc1JUWnZNa2htY0doRFJXb3dUblpPTkUxc05IYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toc1JUWnZNa2htY0doRFJXb3dUblpPTkUxc05IYxAB!2m1!1s0x3442ab9a79cbd367:0x4cfe1a17df550fe4"
+    }
+  ]
+}

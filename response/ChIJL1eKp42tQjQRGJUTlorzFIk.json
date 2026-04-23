@@ -1,0 +1,131 @@
+{
+  "id": "ChIJL1eKp42tQjQRGJUTlorzFIk",
+  "types": [
+    "restaurant",
+    "bistro",
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2791 2727",
+  "formattedAddress": "114台灣臺北市內湖區民權東路六段137號",
+  "location": {
+    "latitude": 25.069126999999998,
+    "longitude": 121.5942007
+  },
+  "rating": 4.6,
+  "websiteUri": "https://www.buna.com.tw/",
+  "userRatingCount": 4769,
+  "displayName": {
+    "text": "布納咖啡館 內湖館",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJL1eKp42tQjQRGJUTlorzFIk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOMVMwRkRhMVZVZFZwZlIwSnpaV3BoZVVkS1VXYxAB",
+      "relativePublishTimeDescription": "1 週前",
+      "rating": 4,
+      "text": {
+        "text": "整個裝潢很漂亮，空間寬敞明亮舒服，菜單選擇很多目不暇給！讓人猶豫了好一陣子！\n\n🍝卡波娜拉蛋黃醬雞腿義大利麵：覺得雞腿的味道完全蓋過麵，導致蛋黃麵就只是普通的義大利麵，只是顏色偏黃而已，有點可惜…\n\n🍗酥炸嫩雞翅：菜單寫雞翅，其實給足了四隻雞翅四隻雞腿，炸的又香又酥，好吃！\n\n🍮提拉米蘇：一般好吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "整個裝潢很漂亮，空間寬敞明亮舒服，菜單選擇很多目不暇給！讓人猶豫了好一陣子！\n\n🍝卡波娜拉蛋黃醬雞腿義大利麵：覺得雞腿的味道完全蓋過麵，導致蛋黃麵就只是普通的義大利麵，只是顏色偏黃而已，有點可惜…\n\n🍗酥炸嫩雞翅：菜單寫雞翅，其實給足了四隻雞翅四隻雞腿，炸的又香又酥，好吃！\n\n🍮提拉米蘇：一般好吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lala",
+        "uri": "https://www.google.com/maps/contrib/114734612168166273449/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVlPsTTjXvy9VGHDn7MDPJkPRa1wNAtFMoz39BwI5Y5HaqCQmTdRA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-03-08T23:41:52.755552868Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOMVMwRkRhMVZVZFZwZlIwSnpaV3BoZVVkS1VXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOMVMwRkRhMVZVZFZwZlIwSnpaV3BoZVVkS1VXYxAB!2m1!1s0x3442ad8da78a572f:0x8914f38a96139518"
+    },
+    {
+      "name": "places/ChIJL1eKp42tQjQRGJUTlorzFIk/reviews/Ci9DQUlRQUNvZENodHljRjlvT214eFpUSjFablpEY1VaZlFqRldTR016TWtwUmNsRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "裡面很漂亮，座位也很多，服務很好，每道料理都會介紹說明。晚上很漂亮氣氛很好。料理都不錯，義大利麵很推，披薩口感也很好。唯獨豬肋排做法是濕的，我們外帶回家用氣炸鍋就口感不錯。\n鮭魚很厚實沒味道，我們自己灑上黑胡椒搭配還不錯。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "裡面很漂亮，座位也很多，服務很好，每道料理都會介紹說明。晚上很漂亮氣氛很好。料理都不錯，義大利麵很推，披薩口感也很好。唯獨豬肋排做法是濕的，我們外帶回家用氣炸鍋就口感不錯。\n鮭魚很厚實沒味道，我們自己灑上黑胡椒搭配還不錯。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Serene Daily Life",
+        "uri": "https://www.google.com/maps/contrib/115520874515167556682/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI50FNPgCGsAbCdbnzXp8NnEV1v2My0zfq-DsvFDzdl_TYdFQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-01T08:40:20.850103264Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214eFpUSjFablpEY1VaZlFqRldTR016TWtwUmNsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214eFpUSjFablpEY1VaZlFqRldTR016TWtwUmNsRRAB!2m1!1s0x3442ad8da78a572f:0x8914f38a96139518"
+    },
+    {
+      "name": "places/ChIJL1eKp42tQjQRGJUTlorzFIk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tVeWN6QTNOMU0xYkZwZlZHWnhRWFV6YlV0UFYwRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "牛排太熟⋯不能決定熟度，只是全熟或半熟，但是半熟也超熟\n雖然很常想不到要吃什麼就來吃這家\n但是這幾年覺得餐點品質有些微下降\n而且品項現在超多看得很亂",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "牛排太熟⋯不能決定熟度，只是全熟或半熟，但是半熟也超熟\n雖然很常想不到要吃什麼就來吃這家\n但是這幾年覺得餐點品質有些微下降\n而且品項現在超多看得很亂",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "溫溫",
+        "uri": "https://www.google.com/maps/contrib/103159500320898766097/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVTn07P5xXNyyI_HMxPJdsdBFJz4X6AHEsCMobm5APU-5oqZ8-g=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-23T09:18:57.663986609Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tVeWN6QTNOMU0xYkZwZlZHWnhRWFV6YlV0UFYwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tVeWN6QTNOMU0xYkZwZlZHWnhRWFV6YlV0UFYwRRAB!2m1!1s0x3442ad8da78a572f:0x8914f38a96139518"
+    },
+    {
+      "name": "places/ChIJL1eKp42tQjQRGJUTlorzFIk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sRmRqWmhTWGxLUVZaVE1VeEZMWGR0T1RaMFozYxAB",
+      "relativePublishTimeDescription": "4 週前",
+      "rating": 5,
+      "text": {
+        "text": "不限時咖啡店，好適合聚會吃吃喝喝聊聊沒有壓力！\n\n沒有包廂或連在一起的座位，只能包區。還好還算可以聊天～大人一起，孩子一桌🤣\n\n餐點好吃，惟飲料普普。工作人員聽錯、點錯餐點，還好可以換，算是服務態度好。生意很好，永遠客滿有點吵雜",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "不限時咖啡店，好適合聚會吃吃喝喝聊聊沒有壓力！\n\n沒有包廂或連在一起的座位，只能包區。還好還算可以聊天～大人一起，孩子一桌🤣\n\n餐點好吃，惟飲料普普。工作人員聽錯、點錯餐點，還好可以換，算是服務態度好。生意很好，永遠客滿有點吵雜",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Sheri Chen",
+        "uri": "https://www.google.com/maps/contrib/115041097136904060268/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJS-VwSaFk-SPWOCzDm7km4Z1jSLtDJ7fTrROrWpCy2kNMPvfI=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-20T02:16:00.354993303Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sRmRqWmhTWGxLUVZaVE1VeEZMWGR0T1RaMFozYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sRmRqWmhTWGxLUVZaVE1VeEZMWGR0T1RaMFozYxAB!2m1!1s0x3442ad8da78a572f:0x8914f38a96139518"
+    },
+    {
+      "name": "places/ChIJL1eKp42tQjQRGJUTlorzFIk/reviews/Ci9DQUlRQUNvZENodHljRjlvT214RFJVOXljblJUWkU5YU5WQnZNRlY1VjFCeWRtYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "服務態度我覺得非常好，從一開始沒訂位現場排隊帶位說可以到餐廳內等並可以直接點餐或掃碼點餐，用餐時間也沒有限制，非常適合聚會聊天，我點的米食料理部分看起來很不錯但吃起來很普通甚至是水準之下，飲料中規中矩，環境不錯位置夠多夠大且明亮，非常點一小份餐點聚會聊天。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "服務態度我覺得非常好，從一開始沒訂位現場排隊帶位說可以到餐廳內等並可以直接點餐或掃碼點餐，用餐時間也沒有限制，非常適合聚會聊天，我點的米食料理部分看起來很不錯但吃起來很普通甚至是水準之下，飲料中規中矩，環境不錯位置夠多夠大且明亮，非常點一小份餐點聚會聊天。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "愛旅遊的泡麵",
+        "uri": "https://www.google.com/maps/contrib/114725464665456987413/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVXeAQEPL1CL2UfMgIR5Eq3C5y7JYkgFi6_dZ3Fs4IV0F3vAdI=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-03T06:11:15.238413859Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214RFJVOXljblJUWkU5YU5WQnZNRlY1VjFCeWRtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214RFJVOXljblJUWkU5YU5WQnZNRlY1VjFCeWRtYxAB!2m1!1s0x3442ad8da78a572f:0x8914f38a96139518"
+    }
+  ]
+}

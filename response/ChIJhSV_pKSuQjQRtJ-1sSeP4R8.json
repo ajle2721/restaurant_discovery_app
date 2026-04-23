@@ -1,0 +1,130 @@
+{
+  "id": "ChIJhSV_pKSuQjQRtJ-1sSeP4R8",
+  "types": [
+    "ramen_restaurant",
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2883 0460",
+  "formattedAddress": "111台灣臺北市士林區中山北路五段505巷42弄2號",
+  "location": {
+    "latitude": 25.0931168,
+    "longitude": 121.52664290000001
+  },
+  "rating": 4.6,
+  "userRatingCount": 4983,
+  "displayName": {
+    "text": "荷麵亭 HASUMENTEI 士林店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJhSV_pKSuQjQRtJ-1sSeP4R8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSaGFUWmFjblpFTkhaWGVqYzROVzFLUldWbWFVRRAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 4,
+      "text": {
+        "text": "真正道地的濃厚豚骨拉麵（特別是博多系），核心精神是「覺得鹹是配冰開水，而不是把湯頭稀釋」。\n​這裡面其實牽涉到拉麵湯頭結構的幾個關鍵\n​1. 「替玉（加麵）」的物理原則\n​道地的豚骨拉麵，第一碗的湯頭必須熬得極度厚實、鹹度夠高且油脂豐富。這是因為當你加入第二球麵時，麵條本身會帶入水分，如果原本的湯不夠濃，加麵後味道就會變淡。正宗的吃法是靠殘留的濃湯去「抓」住新加的麵條，而冰水的作用是為了重置味覺，絕不是用來破壞碗裡的濃郁平衡。\n​2. 荷麵亭機制的結構性矛盾\n​荷麵亭一開始給的湯量偏少（如圖），加上這壺「清高湯」，導致了一個對重口味愛好者來說很尷尬的局面：\n​不加清湯： 吃到要加麵的時候，碗裡的湯根本不夠配，麵條會拌不開。\n​加了清湯： 原本好不容易熬出來的豚骨厚度跟油脂香氣，瞬間被稀釋，它沒有顏色也沒有油脂，一倒下去，整碗麵的靈魂就被沖散了，變成一碗普通的湯麵。\n​3. 錯置的「割湯」概念\n​你們提供清湯的做法，其實比較像是日本「沾麵（つけ麺）」最後吃完麵條後，用來稀釋沾醬當作熱湯喝的「割湯（割りスープ）」概念。把這個概念硬套在標榜濃厚的拉麵上，為了迎合部分覺得太鹹的客人，反而犧牲了追求道地厚實口感的初衷",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "真正道地的濃厚豚骨拉麵（特別是博多系），核心精神是「覺得鹹是配冰開水，而不是把湯頭稀釋」。\n​這裡面其實牽涉到拉麵湯頭結構的幾個關鍵\n​1. 「替玉（加麵）」的物理原則\n​道地的豚骨拉麵，第一碗的湯頭必須熬得極度厚實、鹹度夠高且油脂豐富。這是因為當你加入第二球麵時，麵條本身會帶入水分，如果原本的湯不夠濃，加麵後味道就會變淡。正宗的吃法是靠殘留的濃湯去「抓」住新加的麵條，而冰水的作用是為了重置味覺，絕不是用來破壞碗裡的濃郁平衡。\n​2. 荷麵亭機制的結構性矛盾\n​荷麵亭一開始給的湯量偏少（如圖），加上這壺「清高湯」，導致了一個對重口味愛好者來說很尷尬的局面：\n​不加清湯： 吃到要加麵的時候，碗裡的湯根本不夠配，麵條會拌不開。\n​加了清湯： 原本好不容易熬出來的豚骨厚度跟油脂香氣，瞬間被稀釋，它沒有顏色也沒有油脂，一倒下去，整碗麵的靈魂就被沖散了，變成一碗普通的湯麵。\n​3. 錯置的「割湯」概念\n​你們提供清湯的做法，其實比較像是日本「沾麵（つけ麺）」最後吃完麵條後，用來稀釋沾醬當作熱湯喝的「割湯（割りスープ）」概念。把這個概念硬套在標榜濃厚的拉麵上，為了迎合部分覺得太鹹的客人，反而犧牲了追求道地厚實口感的初衷",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林桑尼",
+        "uri": "https://www.google.com/maps/contrib/114401331765825101905/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLtjcG-lDE55W-fkDUJkforzVt4BEKhEH3ceWf3CFgbi-xkkg=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-22T12:43:17.794016215Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSaGFUWmFjblpFTkhaWGVqYzROVzFLUldWbWFVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSaGFUWmFjblpFTkhaWGVqYzROVzFLUldWbWFVRRAB!2m1!1s0x3442aea4a47f2585:0x1fe18f27b1b59fb4"
+    },
+    {
+      "name": "places/ChIJhSV_pKSuQjQRtJ-1sSeP4R8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pjMmJsOVFRazVtZUhWMGQwczNlWEp3TTJKdE1WRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "平日中午12點左右抵達\n很幸運不用排隊\n德島風味拉麵\n很有特色、夠味、好吃\n醬油濃厚豚骨不會太鹹\n湯頭濃郁\n會想喝光湯\n可以免費加麵兩次超讚\n很可惜中午沒有炸物\n店員都很親切！謝謝招待！\n有機會會再回訪",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "平日中午12點左右抵達\n很幸運不用排隊\n德島風味拉麵\n很有特色、夠味、好吃\n醬油濃厚豚骨不會太鹹\n湯頭濃郁\n會想喝光湯\n可以免費加麵兩次超讚\n很可惜中午沒有炸物\n店員都很親切！謝謝招待！\n有機會會再回訪",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Gina Wang",
+        "uri": "https://www.google.com/maps/contrib/108789946353794071971/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVkGfdZKKweF5b_DFQuBqCgU4bQZvHsUWbL3b0jfxLRwELl_ptZsg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-14T07:46:06.061359913Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pjMmJsOVFRazVtZUhWMGQwczNlWEp3TTJKdE1WRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pjMmJsOVFRazVtZUhWMGQwczNlWEp3TTJKdE1WRRAB!2m1!1s0x3442aea4a47f2585:0x1fe18f27b1b59fb4"
+    },
+    {
+      "name": "places/ChIJhSV_pKSuQjQRtJ-1sSeP4R8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxUlFtRkdSRkpUWlVwZmJsTk5XSGxpVEV3Mk5tYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "來這裡經過過了好幾次，常常看到大排長龍，但都沒進去吃。\n\n這次一樣散步經過，週日的晚上看到沒什麼人排隊，就決定進去嚐鮮了。\n\n我點的是辛豚骨拉麵，很神奇的他的湯頭並不是辣紅辣紅的顏色，喝起來卻有一股特殊的辣味口中，我反覆品嚐到底是什麼味道？後來發現他除了辣之外，那個辣應該是老薑的辣，非常特殊的辛拉麵口味。\n\n紫蘇蝦餅非常好吃，很特殊，個人認為必點。\n\n他的產品價格都不貴。\n\n下次一定再回來嘗試其他的產品。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "來這裡經過過了好幾次，常常看到大排長龍，但都沒進去吃。\n\n這次一樣散步經過，週日的晚上看到沒什麼人排隊，就決定進去嚐鮮了。\n\n我點的是辛豚骨拉麵，很神奇的他的湯頭並不是辣紅辣紅的顏色，喝起來卻有一股特殊的辣味口中，我反覆品嚐到底是什麼味道？後來發現他除了辣之外，那個辣應該是老薑的辣，非常特殊的辛拉麵口味。\n\n紫蘇蝦餅非常好吃，很特殊，個人認為必點。\n\n他的產品價格都不貴。\n\n下次一定再回來嘗試其他的產品。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "kenny",
+        "uri": "https://www.google.com/maps/contrib/110434484555921112012/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLkbrRtOJSFXzBGZ2259aRbVT-xdXUNc_IorjVABif9fv-n=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-17T23:42:34.026369153Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxUlFtRkdSRkpUWlVwZmJsTk5XSGxpVEV3Mk5tYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxUlFtRkdSRkpUWlVwZmJsTk5XSGxpVEV3Mk5tYxAB!2m1!1s0x3442aea4a47f2585:0x1fe18f27b1b59fb4"
+    },
+    {
+      "name": "places/ChIJhSV_pKSuQjQRtJ-1sSeP4R8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWM2FYUmpiVlY2YlRBelUzVTNZaTFZWkMxaE1rRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "這家荷麵亭真的不錯！我們平日去的時候沒有排隊，很幸運！🥳\n他們的拉麵口味濃郁，麵條口感也很不錯，吃起來很過癮。這裡記得是現金交易喔！而且可以免費加麵，飲水也是自取，非常貼心。👍\n如果你是拉麵控，又喜歡口味重一點的湯頭，這家很推薦！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這家荷麵亭真的不錯！我們平日去的時候沒有排隊，很幸運！🥳\n他們的拉麵口味濃郁，麵條口感也很不錯，吃起來很過癮。這裡記得是現金交易喔！而且可以免費加麵，飲水也是自取，非常貼心。👍\n如果你是拉麵控，又喜歡口味重一點的湯頭，這家很推薦！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Stanley Wu",
+        "uri": "https://www.google.com/maps/contrib/107810051810900662123/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXzhxXHipA9ECcJ3ZD2GJ1Y_twvwP4YwJuVL5p4jiQpg4UkA0KFqg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-05T12:27:22.607318926Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWM2FYUmpiVlY2YlRBelUzVTNZaTFZWkMxaE1rRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWM2FYUmpiVlY2YlRBelUzVTNZaTFZWkMxaE1rRRAB!2m1!1s0x3442aea4a47f2585:0x1fe18f27b1b59fb4"
+    },
+    {
+      "name": "places/ChIJhSV_pKSuQjQRtJ-1sSeP4R8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKbk1WcGtVVXgxZUVsRmFWOUlaV2h1WlVsWloyYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "日式拉麵豚骨湯濃郁！對我來說雖然已經註明稍淡，也還是覺得略鹹！如果飲食較清淡，是不適合在此用餐！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "日式拉麵豚骨湯濃郁！對我來說雖然已經註明稍淡，也還是覺得略鹹！如果飲食較清淡，是不適合在此用餐！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Angel “芸禾” Wei",
+        "uri": "https://www.google.com/maps/contrib/110568848433014416806/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL0Q6HJjMhYIto9ahh6VpL6MmxgizFY3GzZoVJ0rKy8YzONiA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-29T14:29:14.526373474Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKbk1WcGtVVXgxZUVsRmFWOUlaV2h1WlVsWloyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKbk1WcGtVVXgxZUVsRmFWOUlaV2h1WlVsWloyYxAB!2m1!1s0x3442aea4a47f2585:0x1fe18f27b1b59fb4"
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "ChIJ8R3JH0WuQjQR_5ttGeLOWTs",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2898 8661",
+  "formattedAddress": "112台灣臺北市北投區中山路3號",
+  "location": {
+    "latitude": 25.137186699999997,
+    "longitude": 121.5053326
+  },
+  "rating": 4.1,
+  "websiteUri": "http://www.tyq.com.tw/restaurants/gourmedise-fusion-cafe/",
+  "userRatingCount": 137,
+  "displayName": {
+    "text": "天饗食坊",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ8R3JH0WuQjQR_5ttGeLOWTs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1a2RYWmxTREpZTm1kblJYTkJRWFJYU2xrNFJFRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 1,
+      "text": {
+        "text": "有預約被安排坐窗邊，即使窗簾拉下來也跟太陽直射沒有差別，非常熱和刺眼，餐點等了50分鐘才來，隔壁晚來的都上餐了，詢問疑似是忘記做單，餐點部分炒飯蠻好吃的，螃蟹粥沒有味道，重點跟服務人員要濕紙巾時被置疑，請問吃剝螃蟹蟹腳不用擦手嗎？飲料去冰也問了三次，最後沒有去到冰，下次不會再來了😡",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "有預約被安排坐窗邊，即使窗簾拉下來也跟太陽直射沒有差別，非常熱和刺眼，餐點等了50分鐘才來，隔壁晚來的都上餐了，詢問疑似是忘記做單，餐點部分炒飯蠻好吃的，螃蟹粥沒有味道，重點跟服務人員要濕紙巾時被置疑，請問吃剝螃蟹蟹腳不用擦手嗎？飲料去冰也問了三次，最後沒有去到冰，下次不會再來了😡",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ellie",
+        "uri": "https://www.google.com/maps/contrib/115118099006038587702/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUPmMRaR557AeMvewZL5YKHQ5qO7Z8PLXNN6kxQcwuOHPc9Dyl5=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-07T05:13:25.513027954Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1a2RYWmxTREpZTm1kblJYTkJRWFJYU2xrNFJFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1a2RYWmxTREpZTm1kblJYTkJRWFJYU2xrNFJFRRAB!2m1!1s0x3442ae451fc91df1:0x3b59cee2196d9bff"
+    },
+    {
+      "name": "places/ChIJ8R3JH0WuQjQR_5ttGeLOWTs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psWVVrcFNUMloxZGxGTVVqUjZjRlpYWkVGSVlYYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "牛腩筋軟嫩好吃，果汁咖啡自取飲用，套餐附甜點。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "牛腩筋軟嫩好吃，果汁咖啡自取飲用，套餐附甜點。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "CT",
+        "uri": "https://www.google.com/maps/contrib/100237077412535838568/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK1dp7b-RLKby2-LZ5CWJlhrw_HK7c4XZUV-RUY6GEkC6C5tQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-11-08T22:15:17.905189372Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psWVVrcFNUMloxZGxGTVVqUjZjRlpYWkVGSVlYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psWVVrcFNUMloxZGxGTVVqUjZjRlpYWkVGSVlYYxAB!2m1!1s0x3442ae451fc91df1:0x3b59cee2196d9bff"
+    },
+    {
+      "name": "places/ChIJ8R3JH0WuQjQR_5ttGeLOWTs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4ZmRtTmZhakJQYnpObVdUUkZaMEpvTURGQk1tYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 2,
+      "text": {
+        "text": "優點： 餐點本身是不錯的。\n缺點： 服務流程災難級。\n• 等待時間： 入座50分鐘未上餐（11:40-12:30），理由是廚房漏單。\n• 順序錯亂： 晚到的客人都吃完走了，我們還在等。\n• 專業度不足： 員工來確認餐點三次還搞不清楚狀況，飲料去冰也做錯。\n如果您趕時間或重視服務品質，建議三思。希望店家能重新教育服務人員。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "優點： 餐點本身是不錯的。\n缺點： 服務流程災難級。\n• 等待時間： 入座50分鐘未上餐（11:40-12:30），理由是廚房漏單。\n• 順序錯亂： 晚到的客人都吃完走了，我們還在等。\n• 專業度不足： 員工來確認餐點三次還搞不清楚狀況，飲料去冰也做錯。\n如果您趕時間或重視服務品質，建議三思。希望店家能重新教育服務人員。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "AliLouis QQ",
+        "uri": "https://www.google.com/maps/contrib/107845392111577830419/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVxpN4Z6RiDFREF9Q5k7flOP61Scdu42ZdF9Erxt0VZKPrK984oJg=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-07T04:29:29.802581409Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4ZmRtTmZhakJQYnpObVdUUkZaMEpvTURGQk1tYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4ZmRtTmZhakJQYnpObVdUUkZaMEpvTURGQk1tYxAB!2m1!1s0x3442ae451fc91df1:0x3b59cee2196d9bff"
+    }
+  ]
+}

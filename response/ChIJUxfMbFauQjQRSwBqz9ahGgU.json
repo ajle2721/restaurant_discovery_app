@@ -1,0 +1,88 @@
+{
+  "id": "ChIJUxfMbFauQjQRSwBqz9ahGgU",
+  "types": [
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 7701 1777",
+  "formattedAddress": "112台灣臺北市北投區大業路300巷1號",
+  "location": {
+    "latitude": 25.128308099999998,
+    "longitude": 121.49812499999999
+  },
+  "rating": 3.5,
+  "websiteUri": "https://www.marriott.com/hotels/hotel-information/restaurant/tpebe-aloft-taipei-beitou/",
+  "userRatingCount": 189,
+  "displayName": {
+    "text": "聚聚樂",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJUxfMbFauQjQRSwBqz9ahGgU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kVlNuZERheko0VURoaVdtaFlVVUZFUVZWTFVFRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "寫評論沒有送東西\n\n不錯吃，店內提供多元的付款方式，包括Apple Pay、信用卡等等\n\n午餐時段空間舒服、內有廁所也算乾淨、地下停車場停車方便，消費1000元可以停一小時，服務人員大多是外籍人士，人均消費500以上，食物好吃，出餐節奏很剛好，飲料冰淇淋都不錯，白飯非常昂貴一碗30元很小碗\n\n唯一覺得需要改善的是冰淇淋勺子的水非活水，有點太髒了，其他都很好，基本上每個月都會用餐四次以上\n\n推薦指數🌕🌕🌕🌕\n再訪指數🌕🌕🌕🌕🌗\n好吃指數🌕🌕🌕🌕🌗\nCP值      🌕🌕🌕🌕",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "寫評論沒有送東西\n\n不錯吃，店內提供多元的付款方式，包括Apple Pay、信用卡等等\n\n午餐時段空間舒服、內有廁所也算乾淨、地下停車場停車方便，消費1000元可以停一小時，服務人員大多是外籍人士，人均消費500以上，食物好吃，出餐節奏很剛好，飲料冰淇淋都不錯，白飯非常昂貴一碗30元很小碗\n\n唯一覺得需要改善的是冰淇淋勺子的水非活水，有點太髒了，其他都很好，基本上每個月都會用餐四次以上\n\n推薦指數🌕🌕🌕🌕\n再訪指數🌕🌕🌕🌕🌗\n好吃指數🌕🌕🌕🌕🌗\nCP值      🌕🌕🌕🌕",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "N",
+        "uri": "https://www.google.com/maps/contrib/115816436000076423225/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV6qaeodthY3Kh7qwdkW7RzyOxCyxaSYwsM1fHdvHa2psavug=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-03T15:53:27.852053783Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kVlNuZERheko0VURoaVdtaFlVVUZFUVZWTFVFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kVlNuZERheko0VURoaVdtaFlVVUZFUVZWTFVFRRAB!2m1!1s0x3442ae566ccc1753:0x51aa1d6cf6a004b"
+    },
+    {
+      "name": "places/ChIJUxfMbFauQjQRSwBqz9ahGgU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21zelZHVlVWbTlTWDNWMmFsaFpNbUpuU1Rkb09HYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "餐點、氣氛及場地寬敞，很適合閒聊的餐廳。但每道菜的上菜速度慢，不趕時間是ok的。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點、氣氛及場地寬敞，很適合閒聊的餐廳。但每道菜的上菜速度慢，不趕時間是ok的。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yunice",
+        "uri": "https://www.google.com/maps/contrib/112242545554537040640/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW441hLEl4SuZG2-zt3B1rXBErod-whjz3dQpt9RGkVzbd9LvuaVg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-29T05:24:52.320342929Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21zelZHVlVWbTlTWDNWMmFsaFpNbUpuU1Rkb09HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21zelZHVlVWbTlTWDNWMmFsaFpNbUpuU1Rkb09HYxAB!2m1!1s0x3442ae566ccc1753:0x51aa1d6cf6a004b"
+    },
+    {
+      "name": "places/ChIJUxfMbFauQjQRSwBqz9ahGgU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sWFNXVXRiRWRUTjNsWVIydGZYelZOTXpCNGNrRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "位於台北北投的 Aloft Taipei Beitou 酒店內的 NOOK 聚聚樂（3樓），是一個充滿活力的餐飲空間，為你提供多樣的餐點選擇，每一道菜都能帶給你不同的味覺驚喜！今天來到這裡，品嚐了全新【夏季限定泰式料理】五道招牌菜，熱辣登場，香、辣、酸、爽，讓你一秒到曼谷街頭！每一道料理都讓人回味無窮，完美的夏日享受。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "位於台北北投的 Aloft Taipei Beitou 酒店內的 NOOK 聚聚樂（3樓），是一個充滿活力的餐飲空間，為你提供多樣的餐點選擇，每一道菜都能帶給你不同的味覺驚喜！今天來到這裡，品嚐了全新【夏季限定泰式料理】五道招牌菜，熱辣登場，香、辣、酸、爽，讓你一秒到曼谷街頭！每一道料理都讓人回味無窮，完美的夏日享受。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林卡拉",
+        "uri": "https://www.google.com/maps/contrib/107009539248668302053/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZBwHFqgPY8Pix319PTAEpuUHwe6vt4zrhW9BePLjm-JZxMtQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-07-07T07:28:30.536050436Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sWFNXVXRiRWRUTjNsWVIydGZYelZOTXpCNGNrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sWFNXVXRiRWRUTjNsWVIydGZYelZOTXpCNGNrRRAB!2m1!1s0x3442ae566ccc1753:0x51aa1d6cf6a004b"
+    }
+  ]
+}

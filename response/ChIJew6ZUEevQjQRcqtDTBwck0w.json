@@ -1,0 +1,130 @@
+{
+  "id": "ChIJew6ZUEevQjQRcqtDTBwck0w",
+  "types": [
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2891 2318",
+  "formattedAddress": "112台灣臺北市北投區幽雅路32號",
+  "location": {
+    "latitude": 25.138019300000003,
+    "longitude": 121.5146887
+  },
+  "rating": 4.7,
+  "websiteUri": "https://beitoumuseum.org.tw/",
+  "userRatingCount": 94,
+  "displayName": {
+    "text": "北投文物館-怡然居餐廳",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJew6ZUEevQjQRcqtDTBwck0w/reviews/Ci9DQUlRQUNvZENodHljRjlvT2trNWRqbFRRM1YzVjNCdlJrZEJUekJWVDBkS1JYYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "座落於北投靜謐山腰的日式建築，\n占地約八百坪環境清幽雅緻，\n前身為1921年的佳山溫泉旅館，\n於1984 年轉型為私人博物館，\n承載著北投溫泉文化的記憶。\n\n1998年更被台北市政府指定為市定古蹟，\n展現其獨特的歷史價值，\n建築於2008年完成全面整修，\n保留原有木造與日式韻味的基礎上，\n融入新的生命力。\n\n如今館內結合精緻懷石料理(採預約制)，\n與多元藝術展覽和文化活動，\n讓人在自然與人文交織的空間裡，\n感受歷史、藝術與美食所交織的魅力。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "座落於北投靜謐山腰的日式建築，\n占地約八百坪環境清幽雅緻，\n前身為1921年的佳山溫泉旅館，\n於1984 年轉型為私人博物館，\n承載著北投溫泉文化的記憶。\n\n1998年更被台北市政府指定為市定古蹟，\n展現其獨特的歷史價值，\n建築於2008年完成全面整修，\n保留原有木造與日式韻味的基礎上，\n融入新的生命力。\n\n如今館內結合精緻懷石料理(採預約制)，\n與多元藝術展覽和文化活動，\n讓人在自然與人文交織的空間裡，\n感受歷史、藝術與美食所交織的魅力。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "benny hu",
+        "uri": "https://www.google.com/maps/contrib/104364740883447245935/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUJwqOtDGPqATWGw7xRGwXPG1riBT2Olcv-6Yyv3ieYgyTy3ejl=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-30T14:04:26.572068792Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2trNWRqbFRRM1YzVjNCdlJrZEJUekJWVDBkS1JYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2trNWRqbFRRM1YzVjNCdlJrZEJUekJWVDBkS1JYYxAB!2m1!1s0x3442af4750990e7b:0x4c931c1c4c43ab72"
+    },
+    {
+      "name": "places/ChIJew6ZUEevQjQRcqtDTBwck0w/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoWWNEWlBjMnA0VFVGc1ZrSmxjaTAzZWxOTExWRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "環境清幽，在幾乎客滿的情況下仍能保持安靜，用餐品質還不錯\n\n但菜色稍嫌簡單且份量較少，餐廳本身沒有停車位，假日人多時需停到距離餐廳較遠的大馬路上，影響CP值⋯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境清幽，在幾乎客滿的情況下仍能保持安靜，用餐品質還不錯\n\n但菜色稍嫌簡單且份量較少，餐廳本身沒有停車位，假日人多時需停到距離餐廳較遠的大馬路上，影響CP值⋯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "April Tsai",
+        "uri": "https://www.google.com/maps/contrib/113702793486152385463/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJWlk4WnWJySRgHtomdw4HSTJ3BSp7Sll0Hd_rXWuub2qIaxQ=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-12T04:49:18.549605188Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoWWNEWlBjMnA0VFVGc1ZrSmxjaTAzZWxOTExWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoWWNEWlBjMnA0VFVGc1ZrSmxjaTAzZWxOTExWRRAB!2m1!1s0x3442af4750990e7b:0x4c931c1c4c43ab72"
+    },
+    {
+      "name": "places/ChIJew6ZUEevQjQRcqtDTBwck0w/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4TFdWVnNVMVpyVWtjdExWRjZSSGQyWWtKQ1ZVRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "在北投博物館裡的怡然居用餐是一種很愉快的體驗。懷石料理精緻細膩，份量恰到好處，氛圍安靜放鬆，讓人能專心感受食物與環境的美好。服務人員親切細心，讓整體用餐過程更添舒心。是一個值得再訪的地方。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在北投博物館裡的怡然居用餐是一種很愉快的體驗。懷石料理精緻細膩，份量恰到好處，氛圍安靜放鬆，讓人能專心感受食物與環境的美好。服務人員親切細心，讓整體用餐過程更添舒心。是一個值得再訪的地方。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "滾滾媽",
+        "uri": "https://www.google.com/maps/contrib/117927382994098923472/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW98mX1DswVJiUHsCxFsur-ho2rNqbU9VhkAgcYWaK7TJWIL07n=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-03T12:35:41.075006291Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4TFdWVnNVMVpyVWtjdExWRjZSSGQyWWtKQ1ZVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4TFdWVnNVMVpyVWtjdExWRjZSSGQyWWtKQ1ZVRRAB!2m1!1s0x3442af4750990e7b:0x4c931c1c4c43ab72"
+    },
+    {
+      "name": "places/ChIJew6ZUEevQjQRcqtDTBwck0w/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkQlJVcGtVRUl6WjFGUmRVbzNRbUpWUWt4c2FIYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "來訪多次，每次都有不同的料理組合，但這次的花樣較少，有點可惜。\n若有不吃的東西可以事前告知，會做變更～\n還是很喜歡這裡的環境，在百年古蹟用餐真讚！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "來訪多次，每次都有不同的料理組合，但這次的花樣較少，有點可惜。\n若有不吃的東西可以事前告知，會做變更～\n還是很喜歡這裡的環境，在百年古蹟用餐真讚！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Carol F",
+        "uri": "https://www.google.com/maps/contrib/112551628843263797745/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocITD0eAz0vgXVdLHw1OeRmHaBt2j7BVSUSQOWaBEeuYQ1zETw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-25T18:06:21.377733569Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkQlJVcGtVRUl6WjFGUmRVbzNRbUpWUWt4c2FIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkQlJVcGtVRUl6WjFGUmRVbzNRbUpWUWt4c2FIYxAB!2m1!1s0x3442af4750990e7b:0x4c931c1c4c43ab72"
+    },
+    {
+      "name": "places/ChIJew6ZUEevQjQRcqtDTBwck0w/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWd2VWVnFNVEJvWlVzd1ZUWjRkVU4zWjJsc1JXYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "今年的生日剛好是過年\n來體驗一下不同的生日大餐☺️\n餐點好吃 環境優美乾淨\n服務人員都非常的親切隨和\n謝謝你們讓我過了一個很幸福的54歲生日🥰",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今年的生日剛好是過年\n來體驗一下不同的生日大餐☺️\n餐點好吃 環境優美乾淨\n服務人員都非常的親切隨和\n謝謝你們讓我過了一個很幸福的54歲生日🥰",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "鄭心茹",
+        "uri": "https://www.google.com/maps/contrib/103135518851123248394/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKEw1bMBU-8L72t23PuLkYALdEowLlBDTznWlcxfJdLi3CUlg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-19T12:04:25.809137420Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWd2VWVnFNVEJvWlVzd1ZUWjRkVU4zWjJsc1JXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWd2VWVnFNVEJvWlVzd1ZUWjRkVU4zWjJsc1JXYxAB!2m1!1s0x3442af4750990e7b:0x4c931c1c4c43ab72"
+    }
+  ]
+}

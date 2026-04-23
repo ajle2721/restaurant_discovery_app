@@ -1,0 +1,25 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "UNKNOWN",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "目前沒有時間限制🚫新店裝潢很明亮寬敞",
+                             "confidence":  0.8
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "友善店家可自帶酒",
+                               "confidence":  0.8
+                           },
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "中",
+    "reason":  "空間寬敞、不怕小孩吵"
+}

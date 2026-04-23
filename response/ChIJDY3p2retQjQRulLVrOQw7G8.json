@@ -1,0 +1,132 @@
+{
+  "id": "ChIJDY3p2retQjQRulLVrOQw7G8",
+  "types": [
+    "italian_restaurant",
+    "food_store",
+    "restaurant",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 8751 6880",
+  "formattedAddress": "114台灣臺北市內湖區瑞光路583巷29號1F",
+  "location": {
+    "latitude": 25.080799199999998,
+    "longitude": 121.56789979999999
+  },
+  "rating": 4.4,
+  "websiteUri": "https://www.facebook.com/eatmucafe",
+  "userRatingCount": 115,
+  "displayName": {
+    "text": "義沐 Eat MU 台北內湖店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJDY3p2retQjQRulLVrOQw7G8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsclMzVXlia1ZKWlVOSFpWUkNiMlJTTnpGRWFWRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "從前菜到甜點，每道都滿好吃的！餐點選擇很多元，也有2人/4人套餐可以選擇，店員服務也很好～會想回訪嘗試其他餐點！\n\n前菜首推泰式酸辣小卷，酸酸甜甜的很開胃，小卷也很嫩\n\n主餐選了蒜辣牛肉義大利麵，可以選擇細麵和寬麵（照片中是寬麵），蒜味超級世界霹靂濃郁，比預期的辣一點大概有小辣的程度，牛肉七分熟吃起來也不會太老，有種油香味\n\n唯一不是那麼推薦的餐點是薄餅，餅皮有點乾硬",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "從前菜到甜點，每道都滿好吃的！餐點選擇很多元，也有2人/4人套餐可以選擇，店員服務也很好～會想回訪嘗試其他餐點！\n\n前菜首推泰式酸辣小卷，酸酸甜甜的很開胃，小卷也很嫩\n\n主餐選了蒜辣牛肉義大利麵，可以選擇細麵和寬麵（照片中是寬麵），蒜味超級世界霹靂濃郁，比預期的辣一點大概有小辣的程度，牛肉七分熟吃起來也不會太老，有種油香味\n\n唯一不是那麼推薦的餐點是薄餅，餅皮有點乾硬",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "JF Lee",
+        "uri": "https://www.google.com/maps/contrib/113556249434365870608/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLdDhoF93JBmKWfW1WCJFYHVtq1hXa5H4V8memQ5pXKzVXeGw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-19T08:45:55.902872632Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsclMzVXlia1ZKWlVOSFpWUkNiMlJTTnpGRWFWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsclMzVXlia1ZKWlVOSFpWUkNiMlJTTnpGRWFWRRAB!2m1!1s0x3442adb7dae98d0d:0x6fec30e4acd552ba"
+    },
+    {
+      "name": "places/ChIJDY3p2retQjQRulLVrOQw7G8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psUU5rbzVhV0oxUm1OSE1tWnhXbWs0UVV4SGJrRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "雙人饗宴，餐點水準以上，上菜速度很快，雖然價位稍高但算值得探訪！\n\n-核桃麵包/主廚濃湯：麵包的香蒜醬很好吃，玉米馬鈴薯濃湯普通。\n-干貝佐松露：松露味道不太明顯，但現煎干貝鮮香味很棒。\n-蒜辣牛小排義大利麵：小辣偏中辣的蒜醬，牛排選五分熟但覺得稍韌。\n-墨香中卷義大利麵：海鮮料豐富，中卷蝦子干貝新鮮，墨魚醬濃郁，整體推推！\n-紐約起士/香橙牛奶巧克力蛋糕：蛋糕都好吃，香味濃，香橙牛奶巧克力蛋糕酸甜味道搭配脆片口感很讚。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "雙人饗宴，餐點水準以上，上菜速度很快，雖然價位稍高但算值得探訪！\n\n-核桃麵包/主廚濃湯：麵包的香蒜醬很好吃，玉米馬鈴薯濃湯普通。\n-干貝佐松露：松露味道不太明顯，但現煎干貝鮮香味很棒。\n-蒜辣牛小排義大利麵：小辣偏中辣的蒜醬，牛排選五分熟但覺得稍韌。\n-墨香中卷義大利麵：海鮮料豐富，中卷蝦子干貝新鮮，墨魚醬濃郁，整體推推！\n-紐約起士/香橙牛奶巧克力蛋糕：蛋糕都好吃，香味濃，香橙牛奶巧克力蛋糕酸甜味道搭配脆片口感很讚。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "ChunER",
+        "uri": "https://www.google.com/maps/contrib/109755982936569070693/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVc3LRLzmPmaswiKgylH3eft2RcEPtB1_cSSW6AezUGbSXFoaw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-14T05:57:15.732250251Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psUU5rbzVhV0oxUm1OSE1tWnhXbWs0UVV4SGJrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psUU5rbzVhV0oxUm1OSE1tWnhXbWs0UVV4SGJrRRAB!2m1!1s0x3442adb7dae98d0d:0x6fec30e4acd552ba"
+    },
+    {
+      "name": "places/ChIJDY3p2retQjQRulLVrOQw7G8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tnemQzVmhOMnhCV2pVNVJVSmZkMnRTU3pabFQwRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "⭐️雙人饗宴套餐 $1780\n》核桃麵包、玉米馬鈴薯濃湯\n》鮮煎干貝佐松露\n》青醬牛小排燉飯\n》蒜香奶油鮮蝦義大利麵\n》甜點：蒙布朗、香橙牛奶巧克力蛋糕\n⭐️葡萄優格水果沙拉 $370\n⭐️香蕉oreo巧克力冰淇淋麻糬鬆餅 $300\n\n在內湖科技園區內的人氣餐廳，餐點主打義大利麵、燉飯、早午餐等\n\n雙人套餐的份量非常足夠，三個人分也很剛好，加點的葡萄優格沙拉清爽，水果分量足夠，搭配腰果核桃等味道豐富，是大人小孩都喜歡的前菜。開胃菜的部分相對來說比較普通，新鮮的干貝搭配一點沙拉，但干貝和沙拉本身沒有合在一起，算是稍微可惜的一道\n\n主餐的部分青醬牛小排燉飯米心軟硬適中，帶點嚼勁的牛小排搭配燉飯一起入口，慢慢咬會讓濃郁的青醬在口中散開，喜歡青醬的朋友很推薦。另一款蒜香奶油鮮蝦義大利麵名符其實，蒜香濃厚，伴著奶油醬汁和五隻去殼的大蝦，是重口味的朋友會喜歡的一道料理，小缺點是蒜味真的很重，要約會或是比較注重形象的朋友可能就不太推薦拉\n\n最後的甜點選了蒙布朗和香橙牛奶巧克力蛋糕，兩個調味比起主餐略顯普通，口味上來說蒙布朗更甜，是不難吃但也不會驚豔的安全牌。額外加點麻糬鬆餅上的巧克力冰淇淋非常濃厚，鬆餅裡面夾著麻糬軟Q又不會過乾，胃口大的朋友推薦可以點著一起吃喔",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "⭐️雙人饗宴套餐 $1780\n》核桃麵包、玉米馬鈴薯濃湯\n》鮮煎干貝佐松露\n》青醬牛小排燉飯\n》蒜香奶油鮮蝦義大利麵\n》甜點：蒙布朗、香橙牛奶巧克力蛋糕\n⭐️葡萄優格水果沙拉 $370\n⭐️香蕉oreo巧克力冰淇淋麻糬鬆餅 $300\n\n在內湖科技園區內的人氣餐廳，餐點主打義大利麵、燉飯、早午餐等\n\n雙人套餐的份量非常足夠，三個人分也很剛好，加點的葡萄優格沙拉清爽，水果分量足夠，搭配腰果核桃等味道豐富，是大人小孩都喜歡的前菜。開胃菜的部分相對來說比較普通，新鮮的干貝搭配一點沙拉，但干貝和沙拉本身沒有合在一起，算是稍微可惜的一道\n\n主餐的部分青醬牛小排燉飯米心軟硬適中，帶點嚼勁的牛小排搭配燉飯一起入口，慢慢咬會讓濃郁的青醬在口中散開，喜歡青醬的朋友很推薦。另一款蒜香奶油鮮蝦義大利麵名符其實，蒜香濃厚，伴著奶油醬汁和五隻去殼的大蝦，是重口味的朋友會喜歡的一道料理，小缺點是蒜味真的很重，要約會或是比較注重形象的朋友可能就不太推薦拉\n\n最後的甜點選了蒙布朗和香橙牛奶巧克力蛋糕，兩個調味比起主餐略顯普通，口味上來說蒙布朗更甜，是不難吃但也不會驚豔的安全牌。額外加點麻糬鬆餅上的巧克力冰淇淋非常濃厚，鬆餅裡面夾著麻糬軟Q又不會過乾，胃口大的朋友推薦可以點著一起吃喔",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Wang Jessie",
+        "uri": "https://www.google.com/maps/contrib/109637355686593924426/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUwy9QT3pKjm638pkYH4NbRipi_UnTPEwuSbqhsle_v3UWmcdyr=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-11T07:51:22.082717390Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tnemQzVmhOMnhCV2pVNVJVSmZkMnRTU3pabFQwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tnemQzVmhOMnhCV2pVNVJVSmZkMnRTU3pabFQwRRAB!2m1!1s0x3442adb7dae98d0d:0x6fec30e4acd552ba"
+    },
+    {
+      "name": "places/ChIJDY3p2retQjQRulLVrOQw7G8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pabVh6aDNRazF2V0VOck5EbGZlbnBxVmxOcWNWRRAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 5,
+      "text": {
+        "text": "座位算多，感覺是綜合西式美食，有美式brunch，義大利麵,薄餅pizza，西班牙燉飯，食物質量好！  當然價格也是中上，註冊會員可省100元。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "座位算多，感覺是綜合西式美食，有美式brunch，義大利麵,薄餅pizza，西班牙燉飯，食物質量好！  當然價格也是中上，註冊會員可省100元。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "KunBin Cheng",
+        "uri": "https://www.google.com/maps/contrib/103046873189380721373/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI-eZE1t0CpMJghF5MJd00vHHFKv1bC_onDQ253cxjqBFpZO1k=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-25T03:37:47.549601981Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pabVh6aDNRazF2V0VOck5EbGZlbnBxVmxOcWNWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pabVh6aDNRazF2V0VOck5EbGZlbnBxVmxOcWNWRRAB!2m1!1s0x3442adb7dae98d0d:0x6fec30e4acd552ba"
+    },
+    {
+      "name": "places/ChIJDY3p2retQjQRulLVrOQw7G8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twVlNWbDRTak13Y0hKSGVsWnlaMUpxTm5SbE9HYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "捷運西湖站附近，店內寬敞明亮，內用的座位很多，平日晚上客人不多上菜的速度非常快，每道菜份量跟口味都很不錯，比較可惜的是服務人員有點狀況外，不太知道怎麼招呼客人和整理桌面",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "捷運西湖站附近，店內寬敞明亮，內用的座位很多，平日晚上客人不多上菜的速度非常快，每道菜份量跟口味都很不錯，比較可惜的是服務人員有點狀況外，不太知道怎麼招呼客人和整理桌面",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Patty Chen",
+        "uri": "https://www.google.com/maps/contrib/116028492381567965911/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIhKPhd8F2m_VyoYsOtCW_YaGytoWWLrPMSHBxsVZUqVg09FQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-17T17:14:04.948868709Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twVlNWbDRTak13Y0hKSGVsWnlaMUpxTm5SbE9HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twVlNWbDRTak13Y0hKSGVsWnlaMUpxTm5SbE9HYxAB!2m1!1s0x3442adb7dae98d0d:0x6fec30e4acd552ba"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": "ChIJJ4zWvACrQjQRfklXErrIHi0",
+  "types": [
+    "korean_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 7735 2866",
+  "formattedAddress": "110台灣臺北市信義區松壽路12號4 樓",
+  "location": {
+    "latitude": 25.03531,
+    "longitude": 121.5660665
+  },
+  "rating": 4.9,
+  "websiteUri": "https://twozzim.com.tw/",
+  "userRatingCount": 1227,
+  "displayName": {
+    "text": "Twozzim韓國燉雞-台北信義店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJJ4zWvACrQjQRfklXErrIHi0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sSU1sYzVha1JVVEVnd2RqSlBTMTg0Tm1GUExXYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "餐點部分味道都很好，可能因為沒有額外加起司就不會太鹹；紅醬黑醬都好吃～肉都是雞腿肉帶皮，內有洋蔥地瓜馬鈴薯冬粉蔥，可以自行加點喜歡的配料。\n\n個人蠻喜歡手抓飯的麻油香，很開胃。飯卷就適合多人分食因為裡面包起司，可能自己吃會很飽。\n\n服務人員都滿友善親切的，只是空間比較開放旁邊經過的路人會看在吃什麼東西😆",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點部分味道都很好，可能因為沒有額外加起司就不會太鹹；紅醬黑醬都好吃～肉都是雞腿肉帶皮，內有洋蔥地瓜馬鈴薯冬粉蔥，可以自行加點喜歡的配料。\n\n個人蠻喜歡手抓飯的麻油香，很開胃。飯卷就適合多人分食因為裡面包起司，可能自己吃會很飽。\n\n服務人員都滿友善親切的，只是空間比較開放旁邊經過的路人會看在吃什麼東西😆",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "liao",
+        "uri": "https://www.google.com/maps/contrib/102132013927639707186/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ0MqDcla7dYDbJUp91gS-7VVNSmmhEyNdC4VD4-h1y5-cwQ9A=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-01T08:55:32.990804974Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sSU1sYzVha1JVVEVnd2RqSlBTMTg0Tm1GUExXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sSU1sYzVha1JVVEVnd2RqSlBTMTg0Tm1GUExXYxAB!2m1!1s0x3442ab00bcd68c27:0x2d1ec8ba1257497e"
+    },
+    {
+      "name": "places/ChIJJ4zWvACrQjQRfklXErrIHi0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psWlZuVklTMEp6Wkc5SE9YVnVOMjlpYUZORVlsRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "手機掃碼點餐\n要一成服務費\n位子很少，兩人座有四桌、四人座三桌\n用餐時間100分鐘\n點了雙人套餐 黑醬飯卷好吃（中間有起士\n玫瑰奶油燉雞 吃起來就是一點點辣的橘醬\n肉蠻嫩的，有洋蔥、冬粉、年糕、一片馬鈴薯、一片地瓜 吃到後面有點膩\n整體來說就是普通 不知道在吃什麼沒有特色",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "手機掃碼點餐\n要一成服務費\n位子很少，兩人座有四桌、四人座三桌\n用餐時間100分鐘\n點了雙人套餐 黑醬飯卷好吃（中間有起士\n玫瑰奶油燉雞 吃起來就是一點點辣的橘醬\n肉蠻嫩的，有洋蔥、冬粉、年糕、一片馬鈴薯、一片地瓜 吃到後面有點膩\n整體來說就是普通 不知道在吃什麼沒有特色",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Miranda LL",
+        "uri": "https://www.google.com/maps/contrib/107662967349440381908/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXpZ-U50AO_bS9aZVF3kZiH56BZuqXF8_z24Xn8TzOWZvlL1K8=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-09T12:41:47.601237656Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psWlZuVklTMEp6Wkc5SE9YVnVOMjlpYUZORVlsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psWlZuVklTMEp6Wkc5SE9YVnVOMjlpYUZORVlsRRAB!2m1!1s0x3442ab00bcd68c27:0x2d1ec8ba1257497e"
+    },
+    {
+      "name": "places/ChIJJ4zWvACrQjQRfklXErrIHi0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ReWVXRmtSRWhRU0dKTVdEaHpPVEkyTjBzNVlVRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 2,
+      "text": {
+        "text": "整體來說蠻失望的，不知道為什麼評論那麼高。這是一間我期待很久的餐廳，終於找時間來吃了，但從最一開始的服務就爛到不行。一到門口沒人出來主動帶位，等了幾秒才有一個男服務生走過來，不知道他今天是心情不好還是怎樣，臉臭到一個不行，搞得好像我們欠他錢一樣，置物籃甚至是我自己拿的，服務那麼爛還敢跟消費者收10%服務費？\n再來是餐點的部分，我們三個人點了一份雙人套餐跟單點一個泡菜鍋，除了玫瑰奶油燉雞好吃，其他的普到不行，甚至有點難吃的程度。其實價位也不算低 平均一個人快$500，但飯卷裡面竟然只有起司跟蘿蔔？泡菜鍋也好難喝，而且裡面有花椰菜？到底是怎樣啊？要不要乾脆叫台式泡菜豆腐鍋？\n說來說去其實最不滿意的還是那位男服務生的態度，希望公司可以看重這個問題。\n我本人是再也不會進到這間店用餐了，非常失望。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "整體來說蠻失望的，不知道為什麼評論那麼高。這是一間我期待很久的餐廳，終於找時間來吃了，但從最一開始的服務就爛到不行。一到門口沒人出來主動帶位，等了幾秒才有一個男服務生走過來，不知道他今天是心情不好還是怎樣，臉臭到一個不行，搞得好像我們欠他錢一樣，置物籃甚至是我自己拿的，服務那麼爛還敢跟消費者收10%服務費？\n再來是餐點的部分，我們三個人點了一份雙人套餐跟單點一個泡菜鍋，除了玫瑰奶油燉雞好吃，其他的普到不行，甚至有點難吃的程度。其實價位也不算低 平均一個人快$500，但飯卷裡面竟然只有起司跟蘿蔔？泡菜鍋也好難喝，而且裡面有花椰菜？到底是怎樣啊？要不要乾脆叫台式泡菜豆腐鍋？\n說來說去其實最不滿意的還是那位男服務生的態度，希望公司可以看重這個問題。\n我本人是再也不會進到這間店用餐了，非常失望。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "宛薫",
+        "uri": "https://www.google.com/maps/contrib/106108270354207875896/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXBBRG-KNdvSP_yxbY1Tqycb5yLsWM2ewxzBWxEG25jbCCJEz6V=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-20T18:07:41.864684953Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25ReWVXRmtSRWhRU0dKTVdEaHpPVEkyTjBzNVlVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ReWVXRmtSRWhRU0dKTVdEaHpPVEkyTjBzNVlVRRAB!2m1!1s0x3442ab00bcd68c27:0x2d1ec8ba1257497e"
+    },
+    {
+      "name": "places/ChIJJ4zWvACrQjQRfklXErrIHi0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkcWFtNVhjRXN6ZUhaQmFrUjVVSGQ0WkhNMVpFRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "店家人員很親切，餐點也都好好吃，兩大一小點了一份雙人套餐，本以為會吃不飽，結果吃到撐不下，喜歡吃韓式料理的人非常推薦來吃吃看，有寵物放推車裡是可以一起進入店裡的呦，真貼心，只可惜店內空間有限，內用座位數量不是很多，建議先預約訂位可以減少在現場等待的時間",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店家人員很親切，餐點也都好好吃，兩大一小點了一份雙人套餐，本以為會吃不飽，結果吃到撐不下，喜歡吃韓式料理的人非常推薦來吃吃看，有寵物放推車裡是可以一起進入店裡的呦，真貼心，只可惜店內空間有限，內用座位數量不是很多，建議先預約訂位可以減少在現場等待的時間",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Brady Peng",
+        "uri": "https://www.google.com/maps/contrib/113185417955684868588/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWP9oI9hTBzr_LEQ6n9L8eMN4ScUMbtDq7iMlkgfMt4Cp8x62ai4Q=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-14T01:11:29.112846293Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkcWFtNVhjRXN6ZUhaQmFrUjVVSGQ0WkhNMVpFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkcWFtNVhjRXN6ZUhaQmFrUjVVSGQ0WkhNMVpFRRAB!2m1!1s0x3442ab00bcd68c27:0x2d1ec8ba1257497e"
+    },
+    {
+      "name": "places/ChIJJ4zWvACrQjQRfklXErrIHi0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psbVRHNDNNbFJ6VkhsTU9HMTFlbWhzZGpZd2RWRRAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 5,
+      "text": {
+        "text": "餐廳位置較少候位等的蠻久的，點了雙人套餐，飽到不行，感覺三個人吃比較適合，最好吃的是鮪魚手抓飯，其他都中規中矩，燉雞畢竟是奶油比較容易膩，但年糕跟肉都很軟嫩！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐廳位置較少候位等的蠻久的，點了雙人套餐，飽到不行，感覺三個人吃比較適合，最好吃的是鮪魚手抓飯，其他都中規中矩，燉雞畢竟是奶油比較容易膩，但年糕跟肉都很軟嫩！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jennie",
+        "uri": "https://www.google.com/maps/contrib/111919516140299647353/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWMS8DRa5Ff11hz48kNyLdZX_qbfY_JXbN6N7wMi38WPI_V-R-4mw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-28T11:39:56.718764265Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psbVRHNDNNbFJ6VkhsTU9HMTFlbWhzZGpZd2RWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psbVRHNDNNbFJ6VkhsTU9HMTFlbWhzZGpZd2RWRRAB!2m1!1s0x3442ab00bcd68c27:0x2d1ec8ba1257497e"
+    }
+  ]
+}

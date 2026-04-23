@@ -1,0 +1,25 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "UNKNOWN",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "買了Q堡簡易套餐",
+                             "confidence":  0.6
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "無論速度。服務。餐點都非常棒",
+                               "confidence":  0.8
+                           },
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "中",
+    "reason":  "空間寬敞、不怕小孩吵"
+}

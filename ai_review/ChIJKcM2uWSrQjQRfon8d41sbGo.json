@@ -1,0 +1,25 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "UNKNOWN",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "挑高的空間搭配華麗的水晶吊燈",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "No",
+                               "evidence":  "營造出浪漫又高雅的氛圍...特別適合情侶約會或慶祝特別日子",
+                               "confidence":  0.9
+                           },
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "空間寬敞"
+}

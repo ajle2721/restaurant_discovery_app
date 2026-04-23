@@ -1,0 +1,130 @@
+{
+  "id": "ChIJgfp8ay6qQjQRcxepniNoKa8",
+  "types": [
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2377 0000",
+  "formattedAddress": "106台灣臺北市大安區臥龍街11號",
+  "location": {
+    "latitude": 25.024294200000003,
+    "longitude": 121.54680699999999
+  },
+  "rating": 4.4,
+  "websiteUri": "https://www.facebook.com/%E6%A8%82%E9%A3%9F%E5%A0%82-212522785453390/",
+  "userRatingCount": 822,
+  "displayName": {
+    "text": "樂食堂",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJgfp8ay6qQjQRcxepniNoKa8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOR2NqUjBNV0pDTFhKcFJWUnVSVTFqVFRSaE5IYxAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 5,
+      "text": {
+        "text": "綜合生魚片丼、可樂餅咖喱飯。\n無意間發現的一間小店，餐點CP值高，份量多。\n\n套餐有附 餐前沙拉、手捲、湯，份量多，價格與實物量相等。\n\n推薦大家品嚐！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "綜合生魚片丼、可樂餅咖喱飯。\n無意間發現的一間小店，餐點CP值高，份量多。\n\n套餐有附 餐前沙拉、手捲、湯，份量多，價格與實物量相等。\n\n推薦大家品嚐！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "高誌鴻",
+        "uri": "https://www.google.com/maps/contrib/103642144576656508872/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVWd8SQDytYE17OIlLV9N_hQgeNAyvUDA_jRoRPVZG2OZobEtQ9=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-03-03T07:30:13.966246152Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOR2NqUjBNV0pDTFhKcFJWUnVSVTFqVFRSaE5IYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOR2NqUjBNV0pDTFhKcFJWUnVSVTFqVFRSaE5IYxAB!2m1!1s0x3442aa2e6b7cfa81:0xaf2968239ea91773"
+    },
+    {
+      "name": "places/ChIJgfp8ay6qQjQRcxepniNoKa8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5SmVrNTFRME40ZDFOcU16WkJiamRRYm5Gb2FYYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "CP值不錯，手捲非常清爽好吃，除了炸豬排肉質有點乾澀外，點了幾樣均無雷，送餐的男店員很客氣！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "CP值不錯，手捲非常清爽好吃，除了炸豬排肉質有點乾澀外，點了幾樣均無雷，送餐的男店員很客氣！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "每天都在吃不飽",
+        "uri": "https://www.google.com/maps/contrib/108898565868711485710/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVG2RlGIE1F31441Ge36HmDqFqagUqBtuv0RzDOGx6kTQE3mrRPHg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-18T05:22:56.939856475Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5SmVrNTFRME40ZDFOcU16WkJiamRRYm5Gb2FYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5SmVrNTFRME40ZDFOcU16WkJiamRRYm5Gb2FYYxAB!2m1!1s0x3442aa2e6b7cfa81:0xaf2968239ea91773"
+    },
+    {
+      "name": "places/ChIJgfp8ay6qQjQRcxepniNoKa8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taWlJtbFZUVTUyZUVvMU1WZFdXV3hIVkVFM1dFRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "套餐含沙拉、茶碗蒸、手捲、味噌湯，超級划算。\n個人愛店小聲推！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "套餐含沙拉、茶碗蒸、手捲、味噌湯，超級划算。\n個人愛店小聲推！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Tzu-Chieh Huang",
+        "uri": "https://www.google.com/maps/contrib/112280641760153370974/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUdP3RHDtW1lQIMy_bhcU8R7Q1zK7d93wz-61DwYKlpCrLrOAr-dg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-25T14:38:19.445477670Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taWlJtbFZUVTUyZUVvMU1WZFdXV3hIVkVFM1dFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taWlJtbFZUVTUyZUVvMU1WZFdXV3hIVkVFM1dFRRAB!2m1!1s0x3442aa2e6b7cfa81:0xaf2968239ea91773"
+    },
+    {
+      "name": "places/ChIJgfp8ay6qQjQRcxepniNoKa8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGRVdDMWxVRWRrTkdadlVrVnhUVlZRUW1WTFVsRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "炸雞咖哩定食和生魚片定食包含茶碗蒸、沙拉、味噌湯、手捲和主餐，只要260／320，相當經濟實惠又美味，加點的炸透抽也相當美味，除了有點油煙味兒以外可謂是可圈可點！！！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "炸雞咖哩定食和生魚片定食包含茶碗蒸、沙拉、味噌湯、手捲和主餐，只要260／320，相當經濟實惠又美味，加點的炸透抽也相當美味，除了有點油煙味兒以外可謂是可圈可點！！！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lesley",
+        "uri": "https://www.google.com/maps/contrib/110591629917253004165/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVeW1pEKNTCThGUitkBEc5P-8RkmrZZQKWsujdBppUiZcK3EEX0Ug=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-06-24T13:46:48.035406499Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGRVdDMWxVRWRrTkdadlVrVnhUVlZRUW1WTFVsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGRVdDMWxVRWRrTkdadlVrVnhUVlZRUW1WTFVsRRAB!2m1!1s0x3442aa2e6b7cfa81:0xaf2968239ea91773"
+    },
+    {
+      "name": "places/ChIJgfp8ay6qQjQRcxepniNoKa8/reviews/ChdDSUhNMG9nS0VJQ0FnTUNncnFQTnVRRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "需要到現場後位，由店家安排入座\n胃口大的人選定食一定能吃的很飽足！\n除了主餐，另有水果沙拉、茶碗蒸、味增湯和手捲。\n炸麻糬也很推！外酥內軟，內層的鮮奶特別香。\n如果不是因為太飽，還會再點一份。\n\n#0208",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "需要到現場後位，由店家安排入座\n胃口大的人選定食一定能吃的很飽足！\n除了主餐，另有水果沙拉、茶碗蒸、味增湯和手捲。\n炸麻糬也很推！外酥內軟，內層的鮮奶特別香。\n如果不是因為太飽，還會再點一份。\n\n#0208",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Wan-Ling Jian",
+        "uri": "https://www.google.com/maps/contrib/110295369494598641638/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK8XdQbqNxUu38fUEe7kVVVmJq9uAecdsoIXdEBHUOuFKsCF_YL=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-02-17T11:56:14.603051Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNncnFQTnVRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNncnFQTnVRRRAB!2m1!1s0x3442aa2e6b7cfa81:0xaf2968239ea91773"
+    }
+  ]
+}

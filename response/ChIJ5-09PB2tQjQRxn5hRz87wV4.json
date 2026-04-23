@@ -1,0 +1,133 @@
+{
+  "id": "ChIJ5-09PB2tQjQRxn5hRz87wV4",
+  "types": [
+    "western_restaurant",
+    "bakery",
+    "food_store",
+    "restaurant",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2794 1193",
+  "formattedAddress": "114台灣臺北市內湖區金龍路177號",
+  "location": {
+    "latitude": 25.0867194,
+    "longitude": 121.5885836
+  },
+  "rating": 4.6,
+  "websiteUri": "https://www.facebook.com/TierraCasaRestaurant/",
+  "userRatingCount": 443,
+  "displayName": {
+    "text": "Tierra Casa Restaurant-台北內湖西餐廳 在地食材創意料理 價格訂位推薦 義式法式料理 2026人氣必吃美食 精品茶葉咖啡 聚餐親子餐廳 PTT Dcard",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ5-09PB2tQjQRxn5hRz87wV4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pocFRqTk9SbWRaWW1Ga1JXSmtlVWxaUldsUmRIYxAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 5,
+      "text": {
+        "text": "餐點好好吃，特別是義大利麵的醬汁調的真好！鴨胸也很讚，回神過來想到要拍照的時候只剩下一半了。店內有很多很讚的繪畫塗鴉，下次還會想再回訪~~",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點好好吃，特別是義大利麵的醬汁調的真好！鴨胸也很讚，回神過來想到要拍照的時候只剩下一半了。店內有很多很讚的繪畫塗鴉，下次還會想再回訪~~",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Cynthia Hou",
+        "uri": "https://www.google.com/maps/contrib/107942748748578253269/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWjTTq8YGOtC9I6tAj9kXx3ttth41OX-1c5hzX9-mNqaAIZ9rmgcw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-28T07:25:58.175837312Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pocFRqTk9SbWRaWW1Ga1JXSmtlVWxaUldsUmRIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pocFRqTk9SbWRaWW1Ga1JXSmtlVWxaUldsUmRIYxAB!2m1!1s0x3442ad1d3c3dede7:0x5ec13b3f47617ec6"
+    },
+    {
+      "name": "places/ChIJ5-09PB2tQjQRxn5hRz87wV4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4eU5WQkJOVEJWZWpWT2N6ZENOMDFoZUhGTk4zYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "這家真的好吃，我第一次吃到可以把鴨胸和章魚處理到很嫩不材還很好吃的店，尤其是章魚，真的很厲害！時常處理/吃/做料理的人都知道，章魚很難煮～一不小心就會過老像是嚼蠟～他們的麵包也是自己做的，很好吃～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這家真的好吃，我第一次吃到可以把鴨胸和章魚處理到很嫩不材還很好吃的店，尤其是章魚，真的很厲害！時常處理/吃/做料理的人都知道，章魚很難煮～一不小心就會過老像是嚼蠟～他們的麵包也是自己做的，很好吃～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃維民",
+        "uri": "https://www.google.com/maps/contrib/103131416717851222984/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKH1leaGJi9dE0p3h8c0jqb3HgNy2NY3RKoSH4kFTnYublOTg=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-12-25T15:19:54.372660360Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4eU5WQkJOVEJWZWpWT2N6ZENOMDFoZUhGTk4zYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4eU5WQkJOVEJWZWpWT2N6ZENOMDFoZUhGTk4zYxAB!2m1!1s0x3442ad1d3c3dede7:0x5ec13b3f47617ec6"
+    },
+    {
+      "name": "places/ChIJ5-09PB2tQjQRxn5hRz87wV4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCdlptczFjR1pQUkhsVWVtWmhZM000Y1dWamNsRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "店面不大，裝潢很簡單，平日下午有兩三桌都是很有氣質又悠閒的長者在用餐聊天～看菜單覺得單價算高，但是餐點上桌後覺得很值得！生菜很新鮮，肉烤的剛剛好，麵包紮實好吃！下次會再來～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店面不大，裝潢很簡單，平日下午有兩三桌都是很有氣質又悠閒的長者在用餐聊天～看菜單覺得單價算高，但是餐點上桌後覺得很值得！生菜很新鮮，肉烤的剛剛好，麵包紮實好吃！下次會再來～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jinny Chen",
+        "uri": "https://www.google.com/maps/contrib/100645496968511895036/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIAh3Wy-hrQWBoz7r0pRBdhQUIez73fB-0-qGV-0fJfsHJhZw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-09-25T09:16:05.074148075Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCdlptczFjR1pQUkhsVWVtWmhZM000Y1dWamNsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCdlptczFjR1pQUkhsVWVtWmhZM000Y1dWamNsRRAB!2m1!1s0x3442ad1d3c3dede7:0x5ec13b3f47617ec6"
+    },
+    {
+      "name": "places/ChIJ5-09PB2tQjQRxn5hRz87wV4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCM1RXdGtXV2QzVVdSNk1WQnFjMGRWVmt4aWFIYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "好久沒有這種每道菜都好吃的經驗了，從套餐附的湯就讓人驚艷，濃郁微辣，配麵包的果粒醬超有誠意！\n\n小卷義大利麵真的超讚，小卷好有嚼勁，義大利麵有加奶油，也滿香。豬排燉飯不論豬排或飯都優秀，豬排很Q，飯很好吃。\n\n西西里柚香咖啡也超讚，沒想到本來很可能偏酸的西西里咖啡，加上柚子可以這麼美味。是我喝過最棒的西西里咖啡了！\n\n唯一就是要等比較久，然後因為是開放式廚房，餐廳裡面油煙味比較重。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "好久沒有這種每道菜都好吃的經驗了，從套餐附的湯就讓人驚艷，濃郁微辣，配麵包的果粒醬超有誠意！\n\n小卷義大利麵真的超讚，小卷好有嚼勁，義大利麵有加奶油，也滿香。豬排燉飯不論豬排或飯都優秀，豬排很Q，飯很好吃。\n\n西西里柚香咖啡也超讚，沒想到本來很可能偏酸的西西里咖啡，加上柚子可以這麼美味。是我喝過最棒的西西里咖啡了！\n\n唯一就是要等比較久，然後因為是開放式廚房，餐廳裡面油煙味比較重。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Esther Ho",
+        "uri": "https://www.google.com/maps/contrib/111149564427643388688/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK2smwk7Vjoxdmcah7fdB_GkbPDgIyUvRbgo6OEamG26G5Zpg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-08-29T05:36:27.539959274Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCM1RXdGtXV2QzVVdSNk1WQnFjMGRWVmt4aWFIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCM1RXdGtXV2QzVVdSNk1WQnFjMGRWVmt4aWFIYxAB!2m1!1s0x3442ad1d3c3dede7:0x5ec13b3f47617ec6"
+    },
+    {
+      "name": "places/ChIJ5-09PB2tQjQRxn5hRz87wV4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sYVVrSnhlR0ZKTlZKcFRXWmhPRUkwUzBsdlZHYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "餐點味道還不錯，價格也不貴，可惜有點油煙味。但是開在這個地點真是有點奇怪，感覺這種住宅區只適合一般小吃店呢！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點味道還不錯，價格也不貴，可惜有點油煙味。但是開在這個地點真是有點奇怪，感覺這種住宅區只適合一般小吃店呢！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Sean Ho",
+        "uri": "https://www.google.com/maps/contrib/101916357762341648197/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWxF13kPNGJGSD3WLKSJPhqi-EnHRcLAuIqNvg6Kcb2o2Cy-pxjnA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-10-13T06:50:56.284084835Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sYVVrSnhlR0ZKTlZKcFRXWmhPRUkwUzBsdlZHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sYVVrSnhlR0ZKTlZKcFRXWmhPRUkwUzBsdlZHYxAB!2m1!1s0x3442ad1d3c3dede7:0x5ec13b3f47617ec6"
+    }
+  ]
+}

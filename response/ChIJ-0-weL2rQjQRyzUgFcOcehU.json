@@ -1,0 +1,129 @@
+{
+  "id": "ChIJ-0-weL2rQjQRyzUgFcOcehU",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 981 265 100",
+  "formattedAddress": "106台灣臺北市大安區信義路四段265巷31弄1號",
+  "location": {
+    "latitude": 25.034532199999997,
+    "longitude": 121.55532339999999
+  },
+  "rating": 4.8,
+  "websiteUri": "https://www.facebook.com/thestagecanteen/",
+  "userRatingCount": 137,
+  "displayName": {
+    "text": "The Stage Canteen",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ-0-weL2rQjQRyzUgFcOcehU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KU00xWlZiVU4yWVRGWlJYY3RMVEJaY2xoek5WRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "料理真的做的細緻好吃！本來是想說多點幾道分食、後面變成搶食！很推薦來的餐廳！來體驗他們對菜品的用心！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "料理真的做的細緻好吃！本來是想說多點幾道分食、後面變成搶食！很推薦來的餐廳！來體驗他們對菜品的用心！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "南爵訓練「早洩專業訓練、陰莖硬度強化訓練」",
+        "uri": "https://www.google.com/maps/contrib/105749045054221721953/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV5MGPF62xCs7sVmvjNR82vfpt4lPNoqm_oWK6gF1EUIQT5Ihc=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-31T15:19:51.268517756Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KU00xWlZiVU4yWVRGWlJYY3RMVEJaY2xoek5WRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KU00xWlZiVU4yWVRGWlJYY3RMVEJaY2xoek5WRRAB!2m1!1s0x3442abbd78b04ffb:0x157a9cc3152035cb"
+    },
+    {
+      "name": "places/ChIJ-0-weL2rQjQRyzUgFcOcehU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWWVptcGZjRE50ZG1GVllqUk9aeTFJWnpsb2NHYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "一人作業的小店，但上菜不算很慢，除了菜單也有黑板上的當日菜色，義大利麵和燉飯可以選半份或整份，配料例如蝦和干貝可以自行加點，每一道餐點都沒踩雷，檸檬酒燉飯我很愛，吃起來非常清爽。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一人作業的小店，但上菜不算很慢，除了菜單也有黑板上的當日菜色，義大利麵和燉飯可以選半份或整份，配料例如蝦和干貝可以自行加點，每一道餐點都沒踩雷，檸檬酒燉飯我很愛，吃起來非常清爽。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lee Bonnie",
+        "uri": "https://www.google.com/maps/contrib/105169078267318499548/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJdyMPWvYe4YGh2gKR3SkusDsSd8vUIyhUOP3bZl4ML7FMMzw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-14T12:52:49.052735502Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWWVptcGZjRE50ZG1GVllqUk9aeTFJWnpsb2NHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWWVptcGZjRE50ZG1GVllqUk9aeTFJWnpsb2NHYxAB!2m1!1s0x3442abbd78b04ffb:0x157a9cc3152035cb"
+    },
+    {
+      "name": "places/ChIJ-0-weL2rQjQRyzUgFcOcehU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxalozRkdjRXRpVFVKU1QxOHhNMUl3TTNweVMwRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "義大利麵非常好吃，清燉羊肉的湯頭也很棒，氣泡飲的蜂蜜味也很足，羊排有點過熟，適合悠閒吃飯，整體來說會想再訪\n位子不多，建議要訂位",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "義大利麵非常好吃，清燉羊肉的湯頭也很棒，氣泡飲的蜂蜜味也很足，羊排有點過熟，適合悠閒吃飯，整體來說會想再訪\n位子不多，建議要訂位",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Y.Y.",
+        "uri": "https://www.google.com/maps/contrib/107823454953171906034/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVba6L-YDwNIJZegbNgR66Ax9fRCnfRR9frT2SXhY357aY6XCN4=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-21T09:46:09.137894897Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxalozRkdjRXRpVFVKU1QxOHhNMUl3TTNweVMwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxalozRkdjRXRpVFVKU1QxOHhNMUl3TTNweVMwRRAB!2m1!1s0x3442abbd78b04ffb:0x157a9cc3152035cb"
+    },
+    {
+      "name": "places/ChIJ-0-weL2rQjQRyzUgFcOcehU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkcE1HcEJOM1U1V1RKdmRrZFBMV1JCYlV0RFFYYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "慕名而來，真的每一道都非常喜歡，調味都很剛好，價格也很實惠。最令我鍾愛的是湯品，湯頭有滿滿的海鮮的鮮甜\n義大利麵的麵條很有嚼勁，吸滿醬汁，十分有特色。\n羊排的肉質軟硬適中，也不至於太乾，搭配一旁的蔬菜十分剛好。\n不過廚房只有兩個人在準備餐點，忙進忙出實在太辛苦了，希望可以換到更大的地方，可以容納更多的客人",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "慕名而來，真的每一道都非常喜歡，調味都很剛好，價格也很實惠。最令我鍾愛的是湯品，湯頭有滿滿的海鮮的鮮甜\n義大利麵的麵條很有嚼勁，吸滿醬汁，十分有特色。\n羊排的肉質軟硬適中，也不至於太乾，搭配一旁的蔬菜十分剛好。\n不過廚房只有兩個人在準備餐點，忙進忙出實在太辛苦了，希望可以換到更大的地方，可以容納更多的客人",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Judy Chien",
+        "uri": "https://www.google.com/maps/contrib/115167799992019015978/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUzOmGWqUJhe88MRefh3JXgU78GhJzmZPigw8zPeLxlP1w34qtf=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-08-20T13:42:36.974565981Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkcE1HcEJOM1U1V1RKdmRrZFBMV1JCYlV0RFFYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkcE1HcEJOM1U1V1RKdmRrZFBMV1JCYlV0RFFYYxAB!2m1!1s0x3442abbd78b04ffb:0x157a9cc3152035cb"
+    },
+    {
+      "name": "places/ChIJ-0-weL2rQjQRyzUgFcOcehU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SblVGVTBaVWhWWW5Wc1IxbFBiMVJIVnkxWFExRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "真的是寶藏店🥳實惠又好吃\n重點是離我很近，之後會再訪的\n\n只有老闆一人控全場超強的\n看他辛苦又超熱的\n服務掌控可以，出餐會稍等一下\n\n食物整體的呈現味道都不錯\n重點是品項有半份的！！超貼心\n這樣就可以多點幾道，自己來也很適合\n麵飯的配料可以自己選配\n\n❤️蝦醬麵汁好蝦，麵條彈牙好吃\n會想外帶一份😆\n\n❤️檸檬酒燉飯，味道獨特\n真的吃出lemon cello 味道\n\n❤️鴨胸的熟度處理的剛好，煙燻味重很香\n\n❤️冰糕比較少地方有，比提拉更喜歡\n\n🤙帳單是用英文而且手寫，有溫度\n\n沒有服務費太太太佛，謝主隆恩",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "真的是寶藏店🥳實惠又好吃\n重點是離我很近，之後會再訪的\n\n只有老闆一人控全場超強的\n看他辛苦又超熱的\n服務掌控可以，出餐會稍等一下\n\n食物整體的呈現味道都不錯\n重點是品項有半份的！！超貼心\n這樣就可以多點幾道，自己來也很適合\n麵飯的配料可以自己選配\n\n❤️蝦醬麵汁好蝦，麵條彈牙好吃\n會想外帶一份😆\n\n❤️檸檬酒燉飯，味道獨特\n真的吃出lemon cello 味道\n\n❤️鴨胸的熟度處理的剛好，煙燻味重很香\n\n❤️冰糕比較少地方有，比提拉更喜歡\n\n🤙帳單是用英文而且手寫，有溫度\n\n沒有服務費太太太佛，謝主隆恩",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "仙女",
+        "uri": "https://www.google.com/maps/contrib/117958736694309856485/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVTj6fZ5roqyOxsdWlWMl6HIkNKAMmE6N1qTHSqcotYKDGgjoBB=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-08-30T07:40:49.732710413Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SblVGVTBaVWhWWW5Wc1IxbFBiMVJIVnkxWFExRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SblVGVTBaVWhWWW5Wc1IxbFBiMVJIVnkxWFExRRAB!2m1!1s0x3442abbd78b04ffb:0x157a9cc3152035cb"
+    }
+  ]
+}

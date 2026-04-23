@@ -1,0 +1,129 @@
+{
+  "id": "ChIJRWCr8w6pQjQRHQXCNuftDp0",
+  "types": [
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2302 4975",
+  "formattedAddress": "108台灣臺北市萬華區西藏路182號",
+  "location": {
+    "latitude": 25.0300054,
+    "longitude": 121.50304510000001
+  },
+  "rating": 4.3,
+  "userRatingCount": 210,
+  "displayName": {
+    "text": "悅勝 丼飯、生魚片、壽司專賣店-萬華店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJRWCr8w6pQjQRHQXCNuftDp0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paQ1RrMVNSMWhhU0haM1ZsRlJkbFI1T1VwVWVuYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 3,
+      "text": {
+        "text": "還好，不是很貴\n有免費的熱茶跟味噌湯（修邊鮭魚跟豆腐）、吃茶碗蒸、手捲、烤鯖魚丼飯、鮭魚壽司，不知怎麼回來血糖飆高，吃別家日本料理都不會。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "還好，不是很貴\n有免費的熱茶跟味噌湯（修邊鮭魚跟豆腐）、吃茶碗蒸、手捲、烤鯖魚丼飯、鮭魚壽司，不知怎麼回來血糖飆高，吃別家日本料理都不會。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林美玲",
+        "uri": "https://www.google.com/maps/contrib/104506255556065872345/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJoOrENyfa-WwBSf1wTrF5Zlb-SAbb5DZ6Tlw0EVBhKMbQZXA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-21T21:55:00.049133513Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paQ1RrMVNSMWhhU0haM1ZsRlJkbFI1T1VwVWVuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paQ1RrMVNSMWhhU0haM1ZsRlJkbFI1T1VwVWVuYxAB!2m1!1s0x3442a90ef3ab6045:0x9d0eede736c2051d"
+    },
+    {
+      "name": "places/ChIJRWCr8w6pQjQRHQXCNuftDp0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGcGQwRklaRll6WjIxR1NsUmlUVkJCVm1SMFdGRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "意外發現的日料店\n剛好超想吃生魚片\n生魚片都很新鮮\n醋飯也很好吃\n下次還來😋😋😋",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "意外發現的日料店\n剛好超想吃生魚片\n生魚片都很新鮮\n醋飯也很好吃\n下次還來😋😋😋",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林詩涵",
+        "uri": "https://www.google.com/maps/contrib/115138467458314967581/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKmOoQ-ilQ2-0KMtwF1AXRd8Aqqo1MROhvgnYml7FGPna7B=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-06T12:36:44.450645626Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGcGQwRklaRll6WjIxR1NsUmlUVkJCVm1SMFdGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGcGQwRklaRll6WjIxR1NsUmlUVkJCVm1SMFdGRRAB!2m1!1s0x3442a90ef3ab6045:0x9d0eede736c2051d"
+    },
+    {
+      "name": "places/ChIJRWCr8w6pQjQRHQXCNuftDp0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21zeVVrdzVaVTlEWkZKNVltbEVUM1JZZFhwblRWRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "悅勝生魚片丼飯，CP值高，食材新鮮，座位不多，現金交易，服務也不錯，熱茶及味噌湯自助拿取，是會回訪的店舖！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "悅勝生魚片丼飯，CP值高，食材新鮮，座位不多，現金交易，服務也不錯，熱茶及味噌湯自助拿取，是會回訪的店舖！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chiang hao",
+        "uri": "https://www.google.com/maps/contrib/109761189601745533779/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUL9kiEtJifg88G_LLdr2RO1O93PdMosQFqoj31bre1CBPl7pEEPg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-15T13:03:28.387274053Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21zeVVrdzVaVTlEWkZKNVltbEVUM1JZZFhwblRWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21zeVVrdzVaVTlEWkZKNVltbEVUM1JZZFhwblRWRRAB!2m1!1s0x3442a90ef3ab6045:0x9d0eede736c2051d"
+    },
+    {
+      "name": "places/ChIJRWCr8w6pQjQRHQXCNuftDp0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aaWJXWTVabnBrVW5VemNIVlFUV2hDY1dKSVdXYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "魚熟成的很剛好，有鮮味的同時也保留一定程度的口感，不會像有些店家熟成過頭魚肉過於軟爛。  不過飯的量偏多，如果不吃那麼多飯可能要和店家提前說明要減量。 另外還有味噌湯和麥茶可以自行盛裝，用餐體驗不錯。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "魚熟成的很剛好，有鮮味的同時也保留一定程度的口感，不會像有些店家熟成過頭魚肉過於軟爛。  不過飯的量偏多，如果不吃那麼多飯可能要和店家提前說明要減量。 另外還有味噌湯和麥茶可以自行盛裝，用餐體驗不錯。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Zephyr PF",
+        "uri": "https://www.google.com/maps/contrib/104978718669994780841/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUawgIAyspCPubB5-8RFS53KBQ-Ne2REubPHmOt5OxHyB7LWl32Cw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-09T14:47:16.491105659Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aaWJXWTVabnBrVW5VemNIVlFUV2hDY1dKSVdXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aaWJXWTVabnBrVW5VemNIVlFUV2hDY1dKSVdXYxAB!2m1!1s0x3442a90ef3ab6045:0x9d0eede736c2051d"
+    },
+    {
+      "name": "places/ChIJRWCr8w6pQjQRHQXCNuftDp0/reviews/ChdDSUhNMG9nS0VJM0YwSmZVa3JycV9BRRAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 5,
+      "text": {
+        "text": "隱身於台北萬華西藏路的「悅勝丼飯、生魚片、握壽司專賣店」無疑是當地日式料理的一顆閃耀明珠。這家專賣店雖然規模不大，卻以其新鮮的食材和精緻的菜色贏得了許多饕客的心。\n\n豐富多樣的丼飯選擇\n店內各式丼飯選擇豐富多元，尤其是海鮮丼飯系列，種類繁多令人目不暇給。每一道料理都能看出師傅的用心，不僅在擺盤上下足功夫，食材的搭配更是巧妙，讓人感受到日式料理的精髓。食材的新鮮度無可挑剔，每一口都能品嚐到海鮮的鮮甜與飯粒的彈牙，完美呈現了丼飯的精華。\n\n創意與傳統並存\n除了招牌丼飯外，店內的握壽司同樣值得一試。每一貫壽司都展現了師傅的創意與巧思，將傳統日式料理融入現代元素，創造出獨特的風味。搭配的小菜也別具特色，為整體用餐體驗增添了更多層次。\n\n小店大驚喜\n雖然店面不大，座位有限，但這卻為用餐體驗增添了一份獨特的親密感。店內環境雖然簡約，但乾淨整潔，讓人能夠專心享受美食。由於座位有限，強烈建議提前預約，以免撲空而歸。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "隱身於台北萬華西藏路的「悅勝丼飯、生魚片、握壽司專賣店」無疑是當地日式料理的一顆閃耀明珠。這家專賣店雖然規模不大，卻以其新鮮的食材和精緻的菜色贏得了許多饕客的心。\n\n豐富多樣的丼飯選擇\n店內各式丼飯選擇豐富多元，尤其是海鮮丼飯系列，種類繁多令人目不暇給。每一道料理都能看出師傅的用心，不僅在擺盤上下足功夫，食材的搭配更是巧妙，讓人感受到日式料理的精髓。食材的新鮮度無可挑剔，每一口都能品嚐到海鮮的鮮甜與飯粒的彈牙，完美呈現了丼飯的精華。\n\n創意與傳統並存\n除了招牌丼飯外，店內的握壽司同樣值得一試。每一貫壽司都展現了師傅的創意與巧思，將傳統日式料理融入現代元素，創造出獨特的風味。搭配的小菜也別具特色，為整體用餐體驗增添了更多層次。\n\n小店大驚喜\n雖然店面不大，座位有限，但這卻為用餐體驗增添了一份獨特的親密感。店內環境雖然簡約，但乾淨整潔，讓人能夠專心享受美食。由於座位有限，強烈建議提前預約，以免撲空而歸。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "日月空橋",
+        "uri": "https://www.google.com/maps/contrib/105796524165574581007/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWya-sBvDC6Kj4UQMQChce_GMA57SMn1PiNv6duCUtQFj5O7SvHhw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-05-20T14:17:44.948727Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJM0YwSmZVa3JycV9BRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJM0YwSmZVa3JycV9BRRAB!2m1!1s0x3442a90ef3ab6045:0x9d0eede736c2051d"
+    }
+  ]
+}

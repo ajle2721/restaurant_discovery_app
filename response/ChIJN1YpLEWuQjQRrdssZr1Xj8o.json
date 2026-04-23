@@ -1,0 +1,86 @@
+{
+  "id": "ChIJN1YpLEWuQjQRrdssZr1Xj8o",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2898 3838",
+  "formattedAddress": "112台灣臺北市北投區光明路224號2樓",
+  "location": {
+    "latitude": 25.1361028,
+    "longitude": 121.50496509999999
+  },
+  "rating": 4.2,
+  "userRatingCount": 85,
+  "displayName": {
+    "text": "水美食府",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJN1YpLEWuQjQRrdssZr1Xj8o/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCd09UaDZhelZKV21wcVNucGlWazF5ZVhwelFXYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "點680和980的套餐\n餐點精緻，食材搭配用心\n之後有機會再來用餐",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點680和980的套餐\n餐點精緻，食材搭配用心\n之後有機會再來用餐",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "ke-chin chao",
+        "uri": "https://www.google.com/maps/contrib/102632145478444833133/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIW2-we7p3pHhXI3VLPr8_ujSFHgQMPlz7lZT0WDzrPZUBZ6Q=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-11-22T16:12:46.115542232Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCd09UaDZhelZKV21wcVNucGlWazF5ZVhwelFXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCd09UaDZhelZKV21wcVNucGlWazF5ZVhwelFXYxAB!2m1!1s0x3442ae452c295637:0xca8f57bd662cdbad"
+    },
+    {
+      "name": "places/ChIJN1YpLEWuQjQRrdssZr1Xj8o/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkNWJHcHRkSEUzVWtaV1VrdzVUbXAzYW5waGIzYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "點了$680和$980的套餐，都很讚！值得回訪",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點了$680和$980的套餐，都很讚！值得回訪",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Mei-Chi Liao",
+        "uri": "https://www.google.com/maps/contrib/113456442829077730562/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUQ8Vd3adb5mv6G0aPZc-kXIhBQ_susJYoB7SiEiHzMtDRxOYJt9g=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-24T02:47:20.099382532Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkNWJHcHRkSEUzVWtaV1VrdzVUbXAzYW5waGIzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkNWJHcHRkSEUzVWtaV1VrdzVUbXAzYW5waGIzYxAB!2m1!1s0x3442ae452c295637:0xca8f57bd662cdbad"
+    },
+    {
+      "name": "places/ChIJN1YpLEWuQjQRrdssZr1Xj8o/reviews/ChZDSUhNMG9nS0VJQ0FnTURJaGFQSkhnEAE",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 5,
+      "text": {
+        "text": "原本以為水美以溫泉為亮點，哪知餐點一樣很出色，一定要來嚐嚐！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "原本以為水美以溫泉為亮點，哪知餐點一樣很出色，一定要來嚐嚐！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "JY Y",
+        "uri": "https://www.google.com/maps/contrib/106998713041512465467/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUN0Nj_60c6qhYGN462on4MR_Dm0WGO0xN0TSX-njG-fPofwg3osg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-28T09:46:14.569651599Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJaGFQSkhnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJaGFQSkhnEAE!2m1!1s0x3442ae452c295637:0xca8f57bd662cdbad"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "ChIJBao-TG6sQjQRSPZBdnvF7Bw",
+  "types": [
+    "asian_restaurant",
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 8752 5382",
+  "formattedAddress": "114台灣臺北市內湖區瑞光路513巷22弄15號",
+  "location": {
+    "latitude": 25.080173799999997,
+    "longitude": 121.56862729999997
+  },
+  "rating": 4.2,
+  "websiteUri": "http://www.httpswwwxssphakkacuisine.com/",
+  "userRatingCount": 1315,
+  "displayName": {
+    "text": "巷上食璞川菜客家菜",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJBao-TG6sQjQRSPZBdnvF7Bw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xORFZUTlpUbTFTVkVOSGEwTnROM0pmUzNsTFJrRRAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 4,
+      "text": {
+        "text": "菜色好吃，服務親切，環境舒適！豆苗好好吃！豆腐軟嫩香味夠",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "菜色好吃，服務親切，環境舒適！豆苗好好吃！豆腐軟嫩香味夠",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "輕洋",
+        "uri": "https://www.google.com/maps/contrib/107647450926984110513/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVxIDkiudQg-qG84rfnihDPiIUC8ttwmbGV7hbmSYFSSj7UHh1UyQ=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-03-01T23:39:48.823455566Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xORFZUTlpUbTFTVkVOSGEwTnROM0pmUzNsTFJrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xORFZUTlpUbTFTVkVOSGEwTnROM0pmUzNsTFJrRRAB!2m1!1s0x3442ac6e4c3eaa05:0x1cecc57b7641f648"
+    },
+    {
+      "name": "places/ChIJBao-TG6sQjQRSPZBdnvF7Bw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsMU4zQndOWFpMTlMwek9YZFFPV3REYmxkRlFWRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "2025年08月 要不是有人熟門熟路，我還不知道瑞光路有這麼好吃的餐廳，各種菜色都有一定的水准，直的是好吃，值得推薦前來品嚐。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2025年08月 要不是有人熟門熟路，我還不知道瑞光路有這麼好吃的餐廳，各種菜色都有一定的水准，直的是好吃，值得推薦前來品嚐。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Sean Chen",
+        "uri": "https://www.google.com/maps/contrib/107872194874261620664/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXA5MDnIMYRGFFJypvo5dapQEFQtI0I8i1Y_-OPp7-96y9g9ARfDg=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-10-28T06:14:28.989685140Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsMU4zQndOWFpMTlMwek9YZFFPV3REYmxkRlFWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsMU4zQndOWFpMTlMwek9YZFFPV3REYmxkRlFWRRAB!2m1!1s0x3442ac6e4c3eaa05:0x1cecc57b7641f648"
+    },
+    {
+      "name": "places/ChIJBao-TG6sQjQRSPZBdnvF7Bw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWMk9XdE1ia1J5ZEhoeFJtOUtkRXRCUkhoS1puYxAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 5,
+      "text": {
+        "text": "感受的到主廚用心創新的料理，美味可口。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "感受的到主廚用心創新的料理，美味可口。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "troutyo600620",
+        "uri": "https://www.google.com/maps/contrib/103028681791604108146/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUbXnHenHTpKeqwivC5lrbKjyfYLUar63n_k_CVPBw9UW4C8FAQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-03-05T12:45:35.554264979Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWMk9XdE1ia1J5ZEhoeFJtOUtkRXRCUkhoS1puYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWMk9XdE1ia1J5ZEhoeFJtOUtkRXRCUkhoS1puYxAB!2m1!1s0x3442ac6e4c3eaa05:0x1cecc57b7641f648"
+    },
+    {
+      "name": "places/ChIJBao-TG6sQjQRSPZBdnvF7Bw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKQ04yaFJZa1pWWlcxblpUQXlRMUYwV0dsTVNHYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "今天點的菜都很好吃，豆乾炒肉絲、鹹蛋皎白筍、旗魚芋頭米粉湯、椒子雞（椒麻口感。\n服務的阿姨都好熱情還幫忙換盤子，米粉湯也主動幫忙加湯，最後還送甜湯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天點的菜都很好吃，豆乾炒肉絲、鹹蛋皎白筍、旗魚芋頭米粉湯、椒子雞（椒麻口感。\n服務的阿姨都好熱情還幫忙換盤子，米粉湯也主動幫忙加湯，最後還送甜湯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Amy Chang",
+        "uri": "https://www.google.com/maps/contrib/103809241452090541676/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLx3SIRefn24gaXspATtDuVwbUMr-0M3fxyFCHe2w3ZjTl58A=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-08-08T11:42:16.496738651Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKQ04yaFJZa1pWWlcxblpUQXlRMUYwV0dsTVNHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKQ04yaFJZa1pWWlcxblpUQXlRMUYwV0dsTVNHYxAB!2m1!1s0x3442ac6e4c3eaa05:0x1cecc57b7641f648"
+    },
+    {
+      "name": "places/ChIJBao-TG6sQjQRSPZBdnvF7Bw/reviews/Ci9DQUlRQUNvZENodHljRjlvT205MVltVkJUMm90ZDBKQ2NHeHlZa3hQZGs0elpFRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "菜色豐富多元美味，服務熱親切。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "菜色豐富多元美味，服務熱親切。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Letitia Huang",
+        "uri": "https://www.google.com/maps/contrib/104663796440610724485/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJIH4ogsXjj0ocsa3gz3UhamyedbWBqflriZ4TMCDsUiXpSL2kd=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-18T19:02:45.722791610Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205MVltVkJUMm90ZDBKQ2NHeHlZa3hQZGs0elpFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205MVltVkJUMm90ZDBKQ2NHeHlZa3hQZGs0elpFRRAB!2m1!1s0x3442ac6e4c3eaa05:0x1cecc57b7641f648"
+    }
+  ]
+}

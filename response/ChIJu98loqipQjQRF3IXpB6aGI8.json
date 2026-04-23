@@ -1,0 +1,134 @@
+{
+  "id": "ChIJu98loqipQjQRF3IXpB6aGI8",
+  "types": [
+    "restaurant",
+    "chicken_restaurant",
+    "taiwanese_restaurant",
+    "chinese_restaurant",
+    "meal_delivery",
+    "food_delivery",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 3393 8952",
+  "formattedAddress": "100台灣臺北市中正區濟南路一段7號1樓",
+  "location": {
+    "latitude": 25.042732899999997,
+    "longitude": 121.52191270000002
+  },
+  "rating": 4.8,
+  "websiteUri": "https://www.moonmoonfood.com/CISTopic?g=S00037",
+  "userRatingCount": 24204,
+  "displayName": {
+    "text": "雙月食品社 濟南店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJu98loqipQjQRF3IXpB6aGI8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSNE5FWTVOVUZIY3pGamNVOXBhMXBhVmtOelpsRRAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 5,
+      "text": {
+        "text": "十一點半到，排了半個小時。排隊指示清晰，人多也不怕。愛恨椒芝麵真的很好吃，麻椒和芝麻香氣十足，麵條口感也很棒。干貝雞湯湯頭非常鮮甜，干貝超多。湯裡頭有三大塊雞肉，也有很多高麗菜，脆甜。吻仔魚飯超濃郁，滷肉飯的豬皮入口即化。兩個飯都是滿滿的油蔥香氣。沒有一樣不好吃，一定會再回來！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "十一點半到，排了半個小時。排隊指示清晰，人多也不怕。愛恨椒芝麵真的很好吃，麻椒和芝麻香氣十足，麵條口感也很棒。干貝雞湯湯頭非常鮮甜，干貝超多。湯裡頭有三大塊雞肉，也有很多高麗菜，脆甜。吻仔魚飯超濃郁，滷肉飯的豬皮入口即化。兩個飯都是滿滿的油蔥香氣。沒有一樣不好吃，一定會再回來！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Rachel",
+        "uri": "https://www.google.com/maps/contrib/103601143553737349736/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJaXBhW--HpSJVWrDvroOIv8yhMeAVSdbTjW52BVezdP9pu5kE=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-03-07T05:18:18.555242585Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSNE5FWTVOVUZIY3pGamNVOXBhMXBhVmtOelpsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSNE5FWTVOVUZIY3pGamNVOXBhMXBhVmtOelpsRRAB!2m1!1s0x3442a9a8a225dfbb:0x8f189a1ea4177217"
+    },
+    {
+      "name": "places/ChIJu98loqipQjQRF3IXpB6aGI8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Sb1RGcExUMTlRZDA0elFXRXdXRmd3VjNwc05YYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 1,
+      "text": {
+        "text": "規矩很多。愛恨椒之麵還可，喜歡麻醬麵的人可考慮。雞湯還不錯。滷味很鹹，海帶很軟，菜市場麵攤的都還比較好吃。蚵仔不錯。松露麵蠻膩的。孩子吃了一直找水，店家沒提供水也沒賣水。這家店的口味真的鹹又重，建議至少可賣礦泉水，不然孩子快崩潰。\n規矩超多，首先抽號碼牌，可理解。然後人要到才能進場，也理解。但人到了才讓我點餐，然後也不能先坐進去再點，還得現在外面機器點，然後陽光那麼大一直反光站在機台前根本無法好好閱讀菜單，一開始整個用餐心情就很煩躁了。用餐的氛圍跟process能否顧及一下。。。到底是為了要吃到什麼得帶著一家老小過那麼多關才能坐到位子上。以後不會再來了。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "規矩很多。愛恨椒之麵還可，喜歡麻醬麵的人可考慮。雞湯還不錯。滷味很鹹，海帶很軟，菜市場麵攤的都還比較好吃。蚵仔不錯。松露麵蠻膩的。孩子吃了一直找水，店家沒提供水也沒賣水。這家店的口味真的鹹又重，建議至少可賣礦泉水，不然孩子快崩潰。\n規矩超多，首先抽號碼牌，可理解。然後人要到才能進場，也理解。但人到了才讓我點餐，然後也不能先坐進去再點，還得現在外面機器點，然後陽光那麼大一直反光站在機台前根本無法好好閱讀菜單，一開始整個用餐心情就很煩躁了。用餐的氛圍跟process能否顧及一下。。。到底是為了要吃到什麼得帶著一家老小過那麼多關才能坐到位子上。以後不會再來了。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Sammi Fang",
+        "uri": "https://www.google.com/maps/contrib/116147257872955150946/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUzm6xqLkD-PHojulaMSNq1uV5Vzh6S42jGJ__f-keEf0xY8qE=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-15T15:50:42.015162248Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Sb1RGcExUMTlRZDA0elFXRXdXRmd3VjNwc05YYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Sb1RGcExUMTlRZDA0elFXRXdXRmd3VjNwc05YYxAB!2m1!1s0x3442a9a8a225dfbb:0x8f189a1ea4177217"
+    },
+    {
+      "name": "places/ChIJu98loqipQjQRF3IXpB6aGI8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkS2NFdFdWbVIxVUVGT1FuZFRhVGxxTkRCbVMxRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "稍微排了一下隊伍，大約20分鐘\n干貝燉雞腿湯$250\n很多干貝，雞肉是Q的肉質很讚\n湯超級好喝，滿滿的料和青菜\n超愛!\n紅燒金鮮鱸魚(少刺)$130\n真的沒有什麼刺，很好入口，一下子就吃完了\n雙月乾蚵$150\n蚵仔大部分都很肥美，吃下去塞滿嘴巴\n100%的滿足感\n愛恨椒芝麵(請拌開)$80\n這個麵是會讓我想要，現場買調理包回家煮的那種\n我喜歡!\n油飯$35\n比較普通一點，配一下甜辣醬好吃一點\n\n下一次我會想要點阿甘剝皮辣椒雞腿湯試試看\n滷味，不知道為什麼看起來比較不吸引我\n位子比較擁擠，但料理很實在!",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "稍微排了一下隊伍，大約20分鐘\n干貝燉雞腿湯$250\n很多干貝，雞肉是Q的肉質很讚\n湯超級好喝，滿滿的料和青菜\n超愛!\n紅燒金鮮鱸魚(少刺)$130\n真的沒有什麼刺，很好入口，一下子就吃完了\n雙月乾蚵$150\n蚵仔大部分都很肥美，吃下去塞滿嘴巴\n100%的滿足感\n愛恨椒芝麵(請拌開)$80\n這個麵是會讓我想要，現場買調理包回家煮的那種\n我喜歡!\n油飯$35\n比較普通一點，配一下甜辣醬好吃一點\n\n下一次我會想要點阿甘剝皮辣椒雞腿湯試試看\n滷味，不知道為什麼看起來比較不吸引我\n位子比較擁擠，但料理很實在!",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ape Matsa",
+        "uri": "https://www.google.com/maps/contrib/103972916966281807486/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXvHHw-g0Kv9WNzOK0JNLB6uTVSI0_so891nIHtRTPFie7jSTQG=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-04T10:20:34.032171244Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkS2NFdFdWbVIxVUVGT1FuZFRhVGxxTkRCbVMxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkS2NFdFdWbVIxVUVGT1FuZFRhVGxxTkRCbVMxRRAB!2m1!1s0x3442a9a8a225dfbb:0x8f189a1ea4177217"
+    },
+    {
+      "name": "places/ChIJu98loqipQjQRF3IXpB6aGI8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21RM1EyTlBXbEZzYm14TGFsTndjSHBNV0dSNVRsRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "​✨✨✨ 雙月食品社 濟南店 ✨✨✨\n​📍 位置｜台北市中正區\n​這間連續多年蟬聯米其林必比登推薦的名店，CP 值真的非常高，價格平實卻能享用到星級水準。店內環境明亮且服務專業，雖然排隊人潮眾多，但流動速度算快。整體給人一種對食材非常有堅持的感覺，是台北市內想要進補、喝好湯的首選餐廳，專業度與美味程度都令人相當滿意。\n​星級肯定的湯頭與誠意滿滿的份量，讓每一次用餐都覺得既划算又暖心。\n\n​🅿️ 停車資訊：俥亭時代寓所 uTagGo、台大醫院國際會議中心停車場、附近路邊停車格。\n​💳 付款方式：LINE Pay、信用卡、現金付款。\n​\n🥣 干貝燉雞腿湯\n小干貝的份量多到驚人，雞腿肉給得大方且肉質大多很嫩，整盅湯多到滿出來。最誇張的是裡面的高麗菜，多到像是丟了半顆進去一樣，湯頭吸滿了蔬菜的鮮甜與枸杞的香氣，喝起來非常過癮！\n\n​🍜 黑松露拌麵\n超級迷人的黑松露香氣，是目前心目中的第一名首選！麵條 Q 彈可口，均勻裹上濃郁的松露醬汁，每一口都是高級感十足的美味。\n\n​🐟 富士吻仔山拌飯\n滿到真的像一座山的吻仔魚，誠意十足！雖然拌勻後味道稍微偏鹹一點，但搭配飯裡的靈魂醬油真的十分美味，是吻仔魚愛好者的天堂。\n\n​🥗 台灣高麗菜\n高麗菜本身超級甜，讓人非常喜歡，不過有時候會吃到比較粗壯的菜根，如果能更多一點鮮嫩的葉子部分就更完美了。\n\n​🥣 紅燒金鮮鱸魚\n半片鱸魚的呈現方式很有特色，肉質新鮮紮實，搭配一旁的紅燒醬汁鹹甜適中，味道還不錯。\n\n​🦴 月亮骨肉\n帶有脆骨與肉的口感，能補充足夠的蛋白質，吃起來十分美味且有嚼勁。\n\n​🩹 米血糕\n口感非常 Q 嫩，調味適中，會讓人忍不住想再多點一份來享用。\n\n​🐷 豬耳朵\n滷味的味道表現較為中規中矩，雖然也不錯吃，但相對其他驚豔的菜色來說，記憶點比較一般。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "​✨✨✨ 雙月食品社 濟南店 ✨✨✨\n​📍 位置｜台北市中正區\n​這間連續多年蟬聯米其林必比登推薦的名店，CP 值真的非常高，價格平實卻能享用到星級水準。店內環境明亮且服務專業，雖然排隊人潮眾多，但流動速度算快。整體給人一種對食材非常有堅持的感覺，是台北市內想要進補、喝好湯的首選餐廳，專業度與美味程度都令人相當滿意。\n​星級肯定的湯頭與誠意滿滿的份量，讓每一次用餐都覺得既划算又暖心。\n\n​🅿️ 停車資訊：俥亭時代寓所 uTagGo、台大醫院國際會議中心停車場、附近路邊停車格。\n​💳 付款方式：LINE Pay、信用卡、現金付款。\n​\n🥣 干貝燉雞腿湯\n小干貝的份量多到驚人，雞腿肉給得大方且肉質大多很嫩，整盅湯多到滿出來。最誇張的是裡面的高麗菜，多到像是丟了半顆進去一樣，湯頭吸滿了蔬菜的鮮甜與枸杞的香氣，喝起來非常過癮！\n\n​🍜 黑松露拌麵\n超級迷人的黑松露香氣，是目前心目中的第一名首選！麵條 Q 彈可口，均勻裹上濃郁的松露醬汁，每一口都是高級感十足的美味。\n\n​🐟 富士吻仔山拌飯\n滿到真的像一座山的吻仔魚，誠意十足！雖然拌勻後味道稍微偏鹹一點，但搭配飯裡的靈魂醬油真的十分美味，是吻仔魚愛好者的天堂。\n\n​🥗 台灣高麗菜\n高麗菜本身超級甜，讓人非常喜歡，不過有時候會吃到比較粗壯的菜根，如果能更多一點鮮嫩的葉子部分就更完美了。\n\n​🥣 紅燒金鮮鱸魚\n半片鱸魚的呈現方式很有特色，肉質新鮮紮實，搭配一旁的紅燒醬汁鹹甜適中，味道還不錯。\n\n​🦴 月亮骨肉\n帶有脆骨與肉的口感，能補充足夠的蛋白質，吃起來十分美味且有嚼勁。\n\n​🩹 米血糕\n口感非常 Q 嫩，調味適中，會讓人忍不住想再多點一份來享用。\n\n​🐷 豬耳朵\n滷味的味道表現較為中規中矩，雖然也不錯吃，但相對其他驚豔的菜色來說，記憶點比較一般。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "鴿子柴",
+        "uri": "https://www.google.com/maps/contrib/110808386997790566405/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW05YjXREFj85mBkLVFPb4CWiFeAxK0luMrDZ3-23QwBBt0X5Wz=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-01-10T16:32:23.023297120Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21RM1EyTlBXbEZzYm14TGFsTndjSHBNV0dSNVRsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21RM1EyTlBXbEZzYm14TGFsTndjSHBNV0dSNVRsRRAB!2m1!1s0x3442a9a8a225dfbb:0x8f189a1ea4177217"
+    },
+    {
+      "name": "places/ChIJu98loqipQjQRF3IXpB6aGI8/reviews/Ci9DQUlRQUNvZENodHljRjlvT205SE0wOVdjamRvUmtjemEyOVBPRFZCUkU1VE4xRRAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 5,
+      "text": {
+        "text": "干貝雞湯\n湯頭非常清甜鮮美 干貝放了不少\n會為了湯頭回訪\n雞肉相對普通 沒有特別的味道\n雞汁飯記得攪拌均勻\n上層都是酥 醬在比較下面\n也是美味噴香\n朋友點的蒜頭雞湯\n蒜味剛剛好 帶點清甜\n仙草雲飲真的有在喝雲的感覺\n加上仙草顆粒 真的愛上這個口感\n酸梅汁冰鎮後更好喝",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "干貝雞湯\n湯頭非常清甜鮮美 干貝放了不少\n會為了湯頭回訪\n雞肉相對普通 沒有特別的味道\n雞汁飯記得攪拌均勻\n上層都是酥 醬在比較下面\n也是美味噴香\n朋友點的蒜頭雞湯\n蒜味剛剛好 帶點清甜\n仙草雲飲真的有在喝雲的感覺\n加上仙草顆粒 真的愛上這個口感\n酸梅汁冰鎮後更好喝",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Athena Chen",
+        "uri": "https://www.google.com/maps/contrib/117279057120820952931/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKjxpYUWh7XHBm6UTBKcvySwE5JUpuLa6unYNdSLFuuD182sA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-03-07T09:34:16.523867254Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205SE0wOVdjamRvUmtjemEyOVBPRFZCUkU1VE4xRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205SE0wOVdjamRvUmtjemEyOVBPRFZCUkU1VE4xRRAB!2m1!1s0x3442a9a8a225dfbb:0x8f189a1ea4177217"
+    }
+  ]
+}

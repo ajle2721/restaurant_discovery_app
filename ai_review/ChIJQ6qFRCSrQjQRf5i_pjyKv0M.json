@@ -1,0 +1,25 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "UNKNOWN",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "一樓很寬敞...早點來沒什麼人很安靜位子很多",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "No",
+                               "evidence":  "彷彿來到K書中心，大家都很安靜的使用筆電或看書",
+                               "confidence":  0.9
+                           },
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "空間寬敞"
+}

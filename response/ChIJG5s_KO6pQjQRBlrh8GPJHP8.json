@@ -1,0 +1,133 @@
+{
+  "id": "ChIJG5s_KO6pQjQRBlrh8GPJHP8",
+  "types": [
+    "japanese_izakaya_restaurant",
+    "yakitori_restaurant",
+    "bar",
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2571 1007",
+  "formattedAddress": "104台灣臺北市中山區中山北路二段39巷16之2號",
+  "location": {
+    "latitude": 25.0538354,
+    "longitude": 121.52433300000001
+  },
+  "rating": 4.6,
+  "websiteUri": "https://www.abv.com.tw/japanese/",
+  "userRatingCount": 2551,
+  "displayName": {
+    "text": "日式居酒館 ABV Bar & Kitchen 台北中山店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJG5s_KO6pQjQRBlrh8GPJHP8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GclZqUTFZM1Z0TTNJMlRuSmphbWxVYzBSSmNXYxAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 4,
+      "text": {
+        "text": "鹹食大致OK，\n但是生牛肉點的第二盤都是\n碎肉跟肥肉，很掉漆\n甜點也不建議點，過甜😣",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "鹹食大致OK，\n但是生牛肉點的第二盤都是\n碎肉跟肥肉，很掉漆\n甜點也不建議點，過甜😣",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "kiplin時尚吃貨 K",
+        "uri": "https://www.google.com/maps/contrib/107852137723654503258/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBQeWHJSircrphIRT3gqT_V9cR9C1zulMCpISaUUP1WARPGrp-3A=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-02-23T05:16:02.249860712Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GclZqUTFZM1Z0TTNJMlRuSmphbWxVYzBSSmNXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GclZqUTFZM1Z0TTNJMlRuSmphbWxVYzBSSmNXYxAB!2m1!1s0x3442a9ee283f9b1b:0xff1cc963f0e15a06"
+    },
+    {
+      "name": "places/ChIJG5s_KO6pQjQRBlrh8GPJHP8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tNMU5VOVdaMUkwZUVORk9WcEZabFJuUjBsMFZrRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 1,
+      "text": {
+        "text": "之前去過ABV的南洋餐酒館，很喜歡，也有一定的水準，這次因為家人喜歡日式料理，所以慶生就選擇ABV日式居酒館，結果超失望...除了照燒牛肉燒和青蔥肥腸串還可以接受，其中一道火烤辣味噌鮮魷，難吃到爆，根本不是現烤 ，送上來時不是熱的，也沒有火烤過的香氣，懷疑是冰箱拿出來微波的魷魚🙄。\n還有點餐時服務生態度極差，環境又悶熱，也是此店很糟糕的部分。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "之前去過ABV的南洋餐酒館，很喜歡，也有一定的水準，這次因為家人喜歡日式料理，所以慶生就選擇ABV日式居酒館，結果超失望...除了照燒牛肉燒和青蔥肥腸串還可以接受，其中一道火烤辣味噌鮮魷，難吃到爆，根本不是現烤 ，送上來時不是熱的，也沒有火烤過的香氣，懷疑是冰箱拿出來微波的魷魚🙄。\n還有點餐時服務生態度極差，環境又悶熱，也是此店很糟糕的部分。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "MT C",
+        "uri": "https://www.google.com/maps/contrib/111765831275916599276/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWpv_4dHqYyhzMa6Yx7ZBKVcuYdW_bHObuZeA52vRfSpBjylJL2=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-26T14:30:21.163424129Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tNMU5VOVdaMUkwZUVORk9WcEZabFJuUjBsMFZrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tNMU5VOVdaMUkwZUVORk9WcEZabFJuUjBsMFZrRRAB!2m1!1s0x3442a9ee283f9b1b:0xff1cc963f0e15a06"
+    },
+    {
+      "name": "places/ChIJG5s_KO6pQjQRBlrh8GPJHP8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSeVdtRkxVR1ZQVkdGbWNXcGxka2RaVUUxSlUyYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 3,
+      "text": {
+        "text": "預約定了6:30前往的時間到達的時候其實是有空位的，但服務生說不能入座因為有其他人預訂，結果我們這次確認其實有兩桌同時都是6:30預訂經過溝通才願意把其中一桌讓我們先行入座（我們提前15分鐘到達，我覺得是服務生的腦袋不夠靈活沒有想到可以讓我們先入座另一桌客人其實可以等時間到而原本的客人離席之後直接讓他們入住)還好同樣的服務生後來來的服務品質還算不錯，但也有人會假裝沒有看到我們舉手的需求\n再來說說這家餐酒館的菜色，老實說很普通，沒有讓人驚艷而味增牡蠣鍋這是鹹到爆炸，不知道是不是因為味噌本來就是重口味的關係；另一道鍋物雞肉為主，就相對是比較安全，但是吃到後來也是比較重口味，恐怕要加湯，才能夠覺得比較適當，其餘的大阪燒或是烏龍麵等等都很普通\n如照片當中所有的餐點及三瓶啤酒結帳下來這樣的份量是四個人使用女生的話是剛剛好價格是$3700有找；不算便宜唯一的優點是網路可以訂位離捷運站不算遠，然後就在飯店旁邊，所以也蠻多老外會進來來用餐供大家參考。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "預約定了6:30前往的時間到達的時候其實是有空位的，但服務生說不能入座因為有其他人預訂，結果我們這次確認其實有兩桌同時都是6:30預訂經過溝通才願意把其中一桌讓我們先行入座（我們提前15分鐘到達，我覺得是服務生的腦袋不夠靈活沒有想到可以讓我們先入座另一桌客人其實可以等時間到而原本的客人離席之後直接讓他們入住)還好同樣的服務生後來來的服務品質還算不錯，但也有人會假裝沒有看到我們舉手的需求\n再來說說這家餐酒館的菜色，老實說很普通，沒有讓人驚艷而味增牡蠣鍋這是鹹到爆炸，不知道是不是因為味噌本來就是重口味的關係；另一道鍋物雞肉為主，就相對是比較安全，但是吃到後來也是比較重口味，恐怕要加湯，才能夠覺得比較適當，其餘的大阪燒或是烏龍麵等等都很普通\n如照片當中所有的餐點及三瓶啤酒結帳下來這樣的份量是四個人使用女生的話是剛剛好價格是$3700有找；不算便宜唯一的優點是網路可以訂位離捷運站不算遠，然後就在飯店旁邊，所以也蠻多老外會進來來用餐供大家參考。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Estelle",
+        "uri": "https://www.google.com/maps/contrib/101931780304083544608/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW84HW76Gqy4gjvBj0LZX7fpP1WVHwM-ko_DjHnfUZm831ddJ_G=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-19T08:23:54.214036680Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSeVdtRkxVR1ZQVkdGbWNXcGxka2RaVUUxSlUyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSeVdtRkxVR1ZQVkdGbWNXcGxka2RaVUUxSlUyYxAB!2m1!1s0x3442a9ee283f9b1b:0xff1cc963f0e15a06"
+    },
+    {
+      "name": "places/ChIJG5s_KO6pQjQRBlrh8GPJHP8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5RlgwcEVhMFl5ZFVKbVlrWnNUazFWYVdwQ1owRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點都很好吃，\n雖然啤酒沒有鮮榨，\n但都相當有特色。\n與好友相聚，啤酒、美食，\n暢飲聊天，人生快意～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點都很好吃，\n雖然啤酒沒有鮮榨，\n但都相當有特色。\n與好友相聚，啤酒、美食，\n暢飲聊天，人生快意～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "沈暴龍",
+        "uri": "https://www.google.com/maps/contrib/109870764480105671741/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLUTfuZOfVys6V8xrVjrP415RWNdoq6OdSGfT8cRw4s1b3SCg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-11-13T16:19:14.670646196Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5RlgwcEVhMFl5ZFVKbVlrWnNUazFWYVdwQ1owRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5RlgwcEVhMFl5ZFVKbVlrWnNUazFWYVdwQ1owRRAB!2m1!1s0x3442a9ee283f9b1b:0xff1cc963f0e15a06"
+    },
+    {
+      "name": "places/ChIJG5s_KO6pQjQRBlrh8GPJHP8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkbFNtSmhRa1JwZURsSFFVaFlWSEY0VVhkalRXYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "我很少替餐廳寫評論，但今天在ABV的體驗實在太好了，一定要寫評論。從入座到離開，整個過程都因為Alex而變得特別難忘和舒服。\n\n他細心介紹菜單、分享酒品口味，服務自然又周到，還會恰到好處替我們整理桌面，卻不打擾我們聊天，感覺像老朋友在招呼。我們發現他招呼每一桌客人都是如此認真！這份專業和熱情真的讓人驚艷。\n\n餐點完全沒雷，明太子起司玉子燒、牛肉大阪燒、獅魚稻草燒、燒雞肉串每樣都超好吃，啤酒選擇多，都是Alex的推薦，非常非常好吃！這是我在台北最舒服的一頓晚餐，下次一定再來，也會拉朋友一起！Alex，謝謝你讓這一晚這麼難忘。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "我很少替餐廳寫評論，但今天在ABV的體驗實在太好了，一定要寫評論。從入座到離開，整個過程都因為Alex而變得特別難忘和舒服。\n\n他細心介紹菜單、分享酒品口味，服務自然又周到，還會恰到好處替我們整理桌面，卻不打擾我們聊天，感覺像老朋友在招呼。我們發現他招呼每一桌客人都是如此認真！這份專業和熱情真的讓人驚艷。\n\n餐點完全沒雷，明太子起司玉子燒、牛肉大阪燒、獅魚稻草燒、燒雞肉串每樣都超好吃，啤酒選擇多，都是Alex的推薦，非常非常好吃！這是我在台北最舒服的一頓晚餐，下次一定再來，也會拉朋友一起！Alex，謝謝你讓這一晚這麼難忘。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Trudy Hsu",
+        "uri": "https://www.google.com/maps/contrib/107013076786010655427/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJlBNdc0DN_ib2s7TicFMy8Nycyb0LKXuugVaAYi9WaN2KWCA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-10-28T14:48:38.546190599Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkbFNtSmhRa1JwZURsSFFVaFlWSEY0VVhkalRXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkbFNtSmhRa1JwZURsSFFVaFlWSEY0VVhkalRXYxAB!2m1!1s0x3442a9ee283f9b1b:0xff1cc963f0e15a06"
+    }
+  ]
+}

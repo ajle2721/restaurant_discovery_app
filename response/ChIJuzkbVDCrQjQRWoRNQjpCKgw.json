@@ -1,0 +1,130 @@
+{
+  "id": "ChIJuzkbVDCrQjQRWoRNQjpCKgw",
+  "types": [
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2793 7900",
+  "formattedAddress": "114台灣臺北市內湖區民善街88號1樓",
+  "location": {
+    "latitude": 25.060414899999998,
+    "longitude": 121.5752978
+  },
+  "rating": 3.4,
+  "websiteUri": "http://www.joyfull.com.tw/",
+  "userRatingCount": 1264,
+  "displayName": {
+    "text": "Joyfull台灣珍有福 台北內湖店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJuzkbVDCrQjQRWoRNQjpCKgw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KU2FIQXhPVkl5TjNSTU1rMHhVWGxIU0Y5a09FRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "2025/9/29去吃的，第一次吃這家，點了這些，因為沒有實際吃過九州的店面，所以沒有辦法做比較，但我覺得吃起來就是中規中矩，還可以，因為也是家庭用餐，環境就是在一樓賣場裡，舒適度也是可以，不會不好吃，也不會難吃，但如果有機會我還是想去九州實際吃看看，才能比較來台灣展店的究竟差別在哪",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2025/9/29去吃的，第一次吃這家，點了這些，因為沒有實際吃過九州的店面，所以沒有辦法做比較，但我覺得吃起來就是中規中矩，還可以，因為也是家庭用餐，環境就是在一樓賣場裡，舒適度也是可以，不會不好吃，也不會難吃，但如果有機會我還是想去九州實際吃看看，才能比較來台灣展店的究竟差別在哪",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "clementine胖珠格格",
+        "uri": "https://www.google.com/maps/contrib/114015334041104246539/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXiwB0GmA6R42JKTNxMyoQlr9gERkksil9ZPytuQ7Sdye7JpHc7=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-23T05:24:28.996404662Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KU2FIQXhPVkl5TjNSTU1rMHhVWGxIU0Y5a09FRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KU2FIQXhPVkl5TjNSTU1rMHhVWGxIU0Y5a09FRRAB!2m1!1s0x3442ab30541b39bb:0xc2a423a424d845a"
+    },
+    {
+      "name": "places/ChIJuzkbVDCrQjQRWoRNQjpCKgw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOR2VVWjJZM1pIVjFacmMyUnNTSEpNVGtFMk5IYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點種類多元，而且是非常多元的那種。\n\n重點是餐點味道不錯，還有飲料吧可以喝到飽。\n\n白飯跟味噌湯也是自助吃到飽。\n\n非常適合全家人或小朋友一起來吃。\n\n他的漢堡排我蠻推薦的，比很多挽肉都好吃。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點種類多元，而且是非常多元的那種。\n\n重點是餐點味道不錯，還有飲料吧可以喝到飽。\n\n白飯跟味噌湯也是自助吃到飽。\n\n非常適合全家人或小朋友一起來吃。\n\n他的漢堡排我蠻推薦的，比很多挽肉都好吃。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "kenny",
+        "uri": "https://www.google.com/maps/contrib/110434484555921112012/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLkbrRtOJSFXzBGZ2259aRbVT-xdXUNc_IorjVABif9fv-n=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-10T10:15:03.169489834Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOR2VVWjJZM1pIVjFacmMyUnNTSEpNVGtFMk5IYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOR2VVWjJZM1pIVjFacmMyUnNTSEpNVGtFMk5IYxAB!2m1!1s0x3442ab30541b39bb:0xc2a423a424d845a"
+    },
+    {
+      "name": "places/ChIJuzkbVDCrQjQRWoRNQjpCKgw/reviews/Ci9DQUlRQUNvZENodHljRjlvT201WFYxQXdhM051UlhKQlIzaDNYMDh5Wkd3elNtYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 2,
+      "text": {
+        "text": "第一次吃到可以用筷子整片夾起來的”歐姆蛋”….餐點跟服務品質（20:20進來時沒介紹餐點、環境，且發現味增湯已見底）有待加強",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次吃到可以用筷子整片夾起來的”歐姆蛋”….餐點跟服務品質（20:20進來時沒介紹餐點、環境，且發現味增湯已見底）有待加強",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "顏家俊",
+        "uri": "https://www.google.com/maps/contrib/109311400520200486423/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKZSOK7k82OtLVROaaYEoY5beU5bVM0dO8Nb_bWZ-3Utxd9rw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-18T12:45:57.885219694Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201WFYxQXdhM051UlhKQlIzaDNYMDh5Wkd3elNtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201WFYxQXdhM051UlhKQlIzaDNYMDh5Wkd3elNtYxAB!2m1!1s0x3442ab30541b39bb:0xc2a423a424d845a"
+    },
+    {
+      "name": "places/ChIJuzkbVDCrQjQRWoRNQjpCKgw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25walRsUlhOM1pIYjBSRGRIQlhUa3AwTm01T2JIYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "賣場內的美食街，內用空間超級多，裝潢色系偏向明亮。餐點則以日式洋食為主，賣些咖哩或漢堡排之類的，內用點餐的話有免費的汽水吧可以自己加。\n\n點餐後有提醒店員說飯半碗即可，但是出餐的時候還是忘記了，沙拉跟鐵板雞腿肉滿好吃的，但醬汁略甜應該是照燒醬之類，小菜跟湯就比較普通。店員滿有禮貌的，飲料機要清潔之前會逐桌詢問客人還有沒有需要。\n\n因為是線上QRcode點餐，用餐後線下結帳，有點麻煩。線上點餐流程的最後，如果可以直接串金流付款應該會更方便，客人吃完就可以直接離開店內，結帳也需要一個人力而且人多的時候客人還要排隊。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "賣場內的美食街，內用空間超級多，裝潢色系偏向明亮。餐點則以日式洋食為主，賣些咖哩或漢堡排之類的，內用點餐的話有免費的汽水吧可以自己加。\n\n點餐後有提醒店員說飯半碗即可，但是出餐的時候還是忘記了，沙拉跟鐵板雞腿肉滿好吃的，但醬汁略甜應該是照燒醬之類，小菜跟湯就比較普通。店員滿有禮貌的，飲料機要清潔之前會逐桌詢問客人還有沒有需要。\n\n因為是線上QRcode點餐，用餐後線下結帳，有點麻煩。線上點餐流程的最後，如果可以直接串金流付款應該會更方便，客人吃完就可以直接離開店內，結帳也需要一個人力而且人多的時候客人還要排隊。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Isaac Peng",
+        "uri": "https://www.google.com/maps/contrib/113994768321269710193/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXIWf7JEgxtIT-tkE_VP8IH10NDFJlOS4Q1lFt7qPnltOqOQIyG=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-27T10:17:32.211994001Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25walRsUlhOM1pIYjBSRGRIQlhUa3AwTm01T2JIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25walRsUlhOM1pIYjBSRGRIQlhUa3AwTm01T2JIYxAB!2m1!1s0x3442ab30541b39bb:0xc2a423a424d845a"
+    },
+    {
+      "name": "places/ChIJuzkbVDCrQjQRWoRNQjpCKgw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SNGNVWlNhV2RTT0V0SFNUTTNXbG8xZEVab01tYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "一家吃粗飽的店，價格算便宜，整體就是味道及份量普通，然後可以白飯味噌湯無限使用的店，但高麗菜絲不能續加。午間套餐送的霜淇淋冰晶感有點重。會收10%服務費",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一家吃粗飽的店，價格算便宜，整體就是味道及份量普通，然後可以白飯味噌湯無限使用的店，但高麗菜絲不能續加。午間套餐送的霜淇淋冰晶感有點重。會收10%服務費",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Alex Tsai",
+        "uri": "https://www.google.com/maps/contrib/115976367296545149541/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX8Y65EfwJxclKC79S05v_fDfFn1q7FpaDgqKG1fYSR6MIfM3c=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-11T00:30:00.754258241Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SNGNVWlNhV2RTT0V0SFNUTTNXbG8xZEVab01tYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SNGNVWlNhV2RTT0V0SFNUTTNXbG8xZEVab01tYxAB!2m1!1s0x3442ab30541b39bb:0xc2a423a424d845a"
+    }
+  ]
+}

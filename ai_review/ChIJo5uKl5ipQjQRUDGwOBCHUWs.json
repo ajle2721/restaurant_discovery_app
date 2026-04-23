@@ -1,0 +1,25 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "YES",
+                                  "evidence":  "空間很寬敞舒適的親子餐廳",
+                                  "confidence":  0.6
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "空間很大適合多人聚餐",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "Yes",
+                                "evidence":  "本來想點兔子咖哩飯...那既然開親子餐廳",
+                                "confidence":  0.9
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "不過小孩真的太多了，所以周圍很吵鬧，很適合帶孩子來用餐",
+                               "confidence":  1.0
+                           },
+    "parent_friendly_score":  4,
+    "parent_friendly_level":  "高",
+    "reason":  "有兒童椅、有兒童餐、空間寬敞、不怕小孩吵"
+}

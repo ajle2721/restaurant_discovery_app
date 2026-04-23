@@ -1,0 +1,25 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "YES",
+                                  "evidence":  "💖 服務滿分：給帶小孩的父母一個讚",
+                                  "confidence":  0.6
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "雙人套餐CP值高、海鮮新鮮、員工超友善",
+                               "confidence":  0.8
+                           },
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "中",
+    "reason":  "有兒童椅、不怕小孩吵"
+}

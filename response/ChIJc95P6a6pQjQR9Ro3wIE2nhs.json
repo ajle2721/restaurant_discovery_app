@@ -1,0 +1,130 @@
+{
+  "id": "ChIJc95P6a6pQjQR9Ro3wIE2nhs",
+  "types": [
+    "restaurant",
+    "food_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2336 8136",
+  "formattedAddress": "108台灣臺北市萬華區西園路一段240號",
+  "location": {
+    "latitude": 25.034773299999998,
+    "longitude": 121.49882459999999
+  },
+  "rating": 4.3,
+  "userRatingCount": 445,
+  "displayName": {
+    "text": "燒杯咖啡藝廚 Beaker ChefCafe /寵物友善/寵物店長/融合料理 / 貝果/沙拉-萬華人氣咖啡廳|必吃簡餐|網美下午茶 外帶輕食l融合料理|網美咖啡廳/手作/咖啡燒杯/餐廳/午餐/晚餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJc95P6a6pQjQR9Ro3wIE2nhs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1b1prWnVlRkJOWVdoRGQyZFlRMnRzUmtwcFkxRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "以前來過幾次沒印象，這一次來點了南瓜鍋和金目鱸魚餐，上菜時讓我們看得很開心，魚是一整尾的，而且附的湯和泡菜非常美味，南瓜鍋更是豐盛美味，這不是一般的南瓜鍋，而是南瓜濃湯火鍋，料很多份量又大而且美味可口，真的是棒極了。差點忘了說，副餐的咖啡也很有水準。\n吃到一半的時候店狗到了，這兩個孩子真是可愛呀，一直在我旁邊陪我吃飯（我知道不能亂餵），我們也有帶一隻小狗來，邊吃邊休息邊和狗玩真的很享受，一定會再找時間再來的",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "以前來過幾次沒印象，這一次來點了南瓜鍋和金目鱸魚餐，上菜時讓我們看得很開心，魚是一整尾的，而且附的湯和泡菜非常美味，南瓜鍋更是豐盛美味，這不是一般的南瓜鍋，而是南瓜濃湯火鍋，料很多份量又大而且美味可口，真的是棒極了。差點忘了說，副餐的咖啡也很有水準。\n吃到一半的時候店狗到了，這兩個孩子真是可愛呀，一直在我旁邊陪我吃飯（我知道不能亂餵），我們也有帶一隻小狗來，邊吃邊休息邊和狗玩真的很享受，一定會再找時間再來的",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "LYU青",
+        "uri": "https://www.google.com/maps/contrib/110330877381132946931/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKafzJS8HpNghvD6J6E139s15uC0a05Klynrdyf3e5efRvBow=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-20T14:26:14.925229995Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1b1prWnVlRkJOWVdoRGQyZFlRMnRzUmtwcFkxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1b1prWnVlRkJOWVdoRGQyZFlRMnRzUmtwcFkxRRAB!2m1!1s0x3442a9aee94fde73:0x1b9e3681c0371af5"
+    },
+    {
+      "name": "places/ChIJc95P6a6pQjQR9Ro3wIE2nhs/reviews/Ci9DQUlRQUNvZENodHljRjlvT25jdFpXSllTVXRQVlhwclZXWjVUalJFVERjeVYyYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "因為店名特殊而吸引眼球，裝潢佈置有風格也有巧思，餐點是簡餐形式為主$330上，燉蘿蔔牛肉味美，蛋糕另外單點$150也好吃，在台北市區平日不限時餐館裡有良好的CP值，老闆也親切溫和，在龍山寺站附近大推👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "因為店名特殊而吸引眼球，裝潢佈置有風格也有巧思，餐點是簡餐形式為主$330上，燉蘿蔔牛肉味美，蛋糕另外單點$150也好吃，在台北市區平日不限時餐館裡有良好的CP值，老闆也親切溫和，在龍山寺站附近大推👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lora Chang",
+        "uri": "https://www.google.com/maps/contrib/107425947500293090419/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJDs42Bfq76mTSGYU0mKAcsSlXgc9nv_Nl3hOtPQehAwkkS2A=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-19T13:10:07.247238153Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25jdFpXSllTVXRQVlhwclZXWjVUalJFVERjeVYyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25jdFpXSllTVXRQVlhwclZXWjVUalJFVERjeVYyYxAB!2m1!1s0x3442a9aee94fde73:0x1b9e3681c0371af5"
+    },
+    {
+      "name": "places/ChIJc95P6a6pQjQR9Ro3wIE2nhs/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xWFVtcFVNMkoyTUdOMFpuWXdTakpDTTBzeVpHYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "位於萬華的這間友善寵物咖啡廳，真的很值得推薦！拜完龍山寺後順道走過來，感覺行程安排得剛剛好，可以馬上找個地方坐下來休息。店內裝潢充滿氛圍，帶點溫馨感又不失設計感，非常適合午後來這裡放鬆一下。最棒的是這裡對寵物非常友善，可以帶毛小孩一起來，不論是自己用餐或和朋友聚會都很方便。店內還貼心提供插座，邊喝咖啡邊充電，對需要工作或滑手機的人來說很加分。甜點部分每天都會有不同的選擇，直接在陳列處就能看到當日供應，很有驚喜感；咖啡品質也相當不錯，香氣濃郁、入口順口。更特別的是，除了咖啡和甜點外，這裡還提供餐點，讓人不只可以來喝下午茶，肚子餓的時候也能享用一頓完整的餐食。整體來說，氛圍好、餐點好喝又好吃，加上寵物友善的特色，真的很適合再訪！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "位於萬華的這間友善寵物咖啡廳，真的很值得推薦！拜完龍山寺後順道走過來，感覺行程安排得剛剛好，可以馬上找個地方坐下來休息。店內裝潢充滿氛圍，帶點溫馨感又不失設計感，非常適合午後來這裡放鬆一下。最棒的是這裡對寵物非常友善，可以帶毛小孩一起來，不論是自己用餐或和朋友聚會都很方便。店內還貼心提供插座，邊喝咖啡邊充電，對需要工作或滑手機的人來說很加分。甜點部分每天都會有不同的選擇，直接在陳列處就能看到當日供應，很有驚喜感；咖啡品質也相當不錯，香氣濃郁、入口順口。更特別的是，除了咖啡和甜點外，這裡還提供餐點，讓人不只可以來喝下午茶，肚子餓的時候也能享用一頓完整的餐食。整體來說，氛圍好、餐點好喝又好吃，加上寵物友善的特色，真的很適合再訪！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yuan",
+        "uri": "https://www.google.com/maps/contrib/104778393306181039011/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIV3OsfbwDYwvPRKS-cZqO2nx2vSd5onyIFpLfTf6rhHfHryGU=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-09-17T12:35:30.109936731Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xWFVtcFVNMkoyTUdOMFpuWXdTakpDTTBzeVpHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xWFVtcFVNMkoyTUdOMFpuWXdTakpDTTBzeVpHYxAB!2m1!1s0x3442a9aee94fde73:0x1b9e3681c0371af5"
+    },
+    {
+      "name": "places/ChIJc95P6a6pQjQR9Ro3wIE2nhs/reviews/Ci9DQUlRQUNvZENodHljRjlvT201Uk5qUjNhSFZOUWkwemNFZDJlR0ZYTTBWd2QxRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "今天點了：台式蘿蔔燉牛腩，台式糖醋排骨飯，泰式椒麻雞，份量十足，口味也不錯\n沒有收服務費\n捷運龍山寺站出來，走路3分鐘內到",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天點了：台式蘿蔔燉牛腩，台式糖醋排骨飯，泰式椒麻雞，份量十足，口味也不錯\n沒有收服務費\n捷運龍山寺站出來，走路3分鐘內到",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chang Vicky",
+        "uri": "https://www.google.com/maps/contrib/104865898898911099720/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVV-TaUlZUUS3N2jj1Qzou_Ev3PA7kDw1jHRVxjgk6je_JB5j_I=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-01T05:40:58.753123097Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201Uk5qUjNhSFZOUWkwemNFZDJlR0ZYTTBWd2QxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201Uk5qUjNhSFZOUWkwemNFZDJlR0ZYTTBWd2QxRRAB!2m1!1s0x3442a9aee94fde73:0x1b9e3681c0371af5"
+    },
+    {
+      "name": "places/ChIJc95P6a6pQjQR9Ro3wIE2nhs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsaVkxZzVOVWN4YUZwZllqWnhjbXBuZVdSb1pWRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "一定會再回訪，阿勇阿福可愛到可以滿足喜歡法鬥🐷的人，心情好好，謝謝店家還願意給小黃瓜餵食，可以更近距離接觸，摸摸握手都來者不拒❤️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一定會再回訪，阿勇阿福可愛到可以滿足喜歡法鬥🐷的人，心情好好，謝謝店家還願意給小黃瓜餵食，可以更近距離接觸，摸摸握手都來者不拒❤️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "鄭心",
+        "uri": "https://www.google.com/maps/contrib/101897175286090026615/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX2TKJHhoaSuErtrKgBOjfDjVu-PowaYz7_QUPrZXdLO3zHCdRb0g=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-11-16T11:18:31.096483092Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsaVkxZzVOVWN4YUZwZllqWnhjbXBuZVdSb1pWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsaVkxZzVOVWN4YUZwZllqWnhjbXBuZVdSb1pWRRAB!2m1!1s0x3442a9aee94fde73:0x1b9e3681c0371af5"
+    }
+  ]
+}

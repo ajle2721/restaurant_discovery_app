@@ -1,0 +1,25 @@
+{
+  "id": "ChIJq_1oDQmpQjQRlMaxMHpr3PU",
+  "types": [
+    "bar",
+    "hair_salon",
+    "hair_care",
+    "service",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2381 8852",
+  "formattedAddress": "108台灣台北市万华区武昌街二段72號4樓",
+  "location": {
+    "latitude": 25.0447599,
+    "longitude": 121.5061792
+  },
+  "rating": 4.6,
+  "websiteUri": "https://www.facebook.com/hairsalonbistro/",
+  "userRatingCount": 78,
+  "displayName": {
+    "text": "HAIR SALON BISTRO餐酒館",
+    "languageCode": "zh-TW"
+  },
+  "reviews": []
+}

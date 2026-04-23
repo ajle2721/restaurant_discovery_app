@@ -1,0 +1,132 @@
+{
+  "id": "ChIJKTMk-LurQjQRj34Hcv02Muw",
+  "types": [
+    "restaurant",
+    "bistro",
+    "school",
+    "educational_institution",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2753 0108",
+  "formattedAddress": "110台灣臺北市信義區忠孝東路五段71巷25號",
+  "location": {
+    "latitude": 25.042636299999998,
+    "longitude": 121.56741600000001
+  },
+  "rating": 4.8,
+  "websiteUri": "https://linktr.ee/range2.0",
+  "userRatingCount": 3020,
+  "displayName": {
+    "text": "Range Bistrokaya",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJKTMk-LurQjQRj34Hcv02Muw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oSFYyMDBja3hpVlY5c1Z6bGhaalpZZDJ4R1ZXYxAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 5,
+      "text": {
+        "text": "剛好跟朋友約這家店真的很好吃，雖然我們五個人跟我們坐四個人的位置，從我進來到處去旁邊根本就沒有坐人，覺得應該要給我們六人的位子，我們五個人坐起來蠻擠\n酒單是要少桌上QR Code，吃的有實體菜單，整體來說沒有吃到什麼踩雷的東西都很好吃，就是菜上的有點慢\n酒的部分都很好喝，尤其是茶類條飲會喝不出來，但是有點小杯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "剛好跟朋友約這家店真的很好吃，雖然我們五個人跟我們坐四個人的位置，從我進來到處去旁邊根本就沒有坐人，覺得應該要給我們六人的位子，我們五個人坐起來蠻擠\n酒單是要少桌上QR Code，吃的有實體菜單，整體來說沒有吃到什麼踩雷的東西都很好吃，就是菜上的有點慢\n酒的部分都很好喝，尤其是茶類條飲會喝不出來，但是有點小杯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lee Ariel",
+        "uri": "https://www.google.com/maps/contrib/110082791881361942486/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUuh8yltc8BQwWcqy0rt0P_xbCWt-8ZVbFVvAdIDldoHfrAFb6GEw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-22T13:18:18.754799343Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oSFYyMDBja3hpVlY5c1Z6bGhaalpZZDJ4R1ZXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oSFYyMDBja3hpVlY5c1Z6bGhaalpZZDJ4R1ZXYxAB!2m1!1s0x3442abbbf8243329:0xec3236fd72077e8f"
+    },
+    {
+      "name": "places/ChIJKTMk-LurQjQRj34Hcv02Muw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tvd1ZUUkhlVzV6V0ZoTlpFeHFaMUl4ZUZsbUxVRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "他們家薯條是細長型，我個人很喜歡口感很好\n炸雞翅很搭酒\n草蝦義大利麵，草蝦新鮮有彈性\n整體來說他們家餐點都不踩雷",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "他們家薯條是細長型，我個人很喜歡口感很好\n炸雞翅很搭酒\n草蝦義大利麵，草蝦新鮮有彈性\n整體來說他們家餐點都不踩雷",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "NaNa T",
+        "uri": "https://www.google.com/maps/contrib/104077680349784487841/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVxYAWDzztxOF314pGJMgM-PsuvuNP3VKVOblfRMJ8cl1FflkTM=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-18T01:53:24.483357719Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tvd1ZUUkhlVzV6V0ZoTlpFeHFaMUl4ZUZsbUxVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tvd1ZUUkhlVzV6V0ZoTlpFeHFaMUl4ZUZsbUxVRRAB!2m1!1s0x3442abbbf8243329:0xec3236fd72077e8f"
+    },
+    {
+      "name": "places/ChIJKTMk-LurQjQRj34Hcv02Muw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KWWREQnhXRVF4T1d4dk9VWlBSVzF0V0U1S1ZGRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "本次用餐是與女友一起北上\n第一次來吃，店內氣氛歡樂，服務都很熱情，推薦的餐點都十分好吃\n我們點了好幾道菜，開胃菜的部分我們點了燉煮牛舌，牛舌吃起來軟嫩厚實，份量也是不少，推薦一定要點\n蔬食點了烤芥蘭&花椰菜，拌上他們的絲綢乳酪也是非常好吃\n排餐我們點了菲力牛排，肉質軟嫩，配上烤大蒜吃真的很讚，不輸高級餐廳，隨餐附上的薯條也是酥脆好吃\n主食我們點了海膽燉飯，飯的部分與海膽配合很滑順好吃，配上的干貝也很大塊，十分推薦點來吃\n因為餐點實在太好吃了所以我們又多點了兩道\n\n香檸雞松阪推薦給能吃辣的\n整體酸辣下酒 也是非常的好吃\n\n金沙軟殼蟹是我跟女友想了一下覺得沒什麼地方吃得到，最後決定點看看\n結果點了之後我們兩個都很愛的一道，蟹身軟嫩、蟹足酥脆 整體餐點協調有配上金沙醬與龍眼蜜非常好吃，我跟女友甚至想再點一次\n強烈建議第一次來的，或是沒吃過10月新菜單的一定要點！\n\n酒的部分因為女友不喝，我點了兩杯\n第一杯是店家推薦的侍女伯爵\n伯爵的層次豐富，柑橘味與迷迭香的層次很舒服，如果茶酒不知道點什麼推薦點這杯\n第二杯是鐵觀音茶酒，這杯就偏甜，個人認為鐵觀音的香氣很足，但層次上仕女伯爵更棒\n最後我點了一杯鐵觀音，茶香很足，冰的也很好喝\n\n女友點的都是軟飲料\n奶茶的部分茶香比較多一些，如果喜歡茶香多一點可以點看看\n熱鐵觀音茶香很棒，而且可以回沖，女友很喜歡！！\n\n推薦給看到的你來吃看看，建議事先訂位，不建議開車，可以坐捷運到市政府站後走過來大概3-5分鐘路程\n\n下次我跟女友有來北部玩還會來訪，餐點好吃，酒水好喝\n\n平常不太打評論的，但這家實在太好吃，有被驚豔到！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "本次用餐是與女友一起北上\n第一次來吃，店內氣氛歡樂，服務都很熱情，推薦的餐點都十分好吃\n我們點了好幾道菜，開胃菜的部分我們點了燉煮牛舌，牛舌吃起來軟嫩厚實，份量也是不少，推薦一定要點\n蔬食點了烤芥蘭&花椰菜，拌上他們的絲綢乳酪也是非常好吃\n排餐我們點了菲力牛排，肉質軟嫩，配上烤大蒜吃真的很讚，不輸高級餐廳，隨餐附上的薯條也是酥脆好吃\n主食我們點了海膽燉飯，飯的部分與海膽配合很滑順好吃，配上的干貝也很大塊，十分推薦點來吃\n因為餐點實在太好吃了所以我們又多點了兩道\n\n香檸雞松阪推薦給能吃辣的\n整體酸辣下酒 也是非常的好吃\n\n金沙軟殼蟹是我跟女友想了一下覺得沒什麼地方吃得到，最後決定點看看\n結果點了之後我們兩個都很愛的一道，蟹身軟嫩、蟹足酥脆 整體餐點協調有配上金沙醬與龍眼蜜非常好吃，我跟女友甚至想再點一次\n強烈建議第一次來的，或是沒吃過10月新菜單的一定要點！\n\n酒的部分因為女友不喝，我點了兩杯\n第一杯是店家推薦的侍女伯爵\n伯爵的層次豐富，柑橘味與迷迭香的層次很舒服，如果茶酒不知道點什麼推薦點這杯\n第二杯是鐵觀音茶酒，這杯就偏甜，個人認為鐵觀音的香氣很足，但層次上仕女伯爵更棒\n最後我點了一杯鐵觀音，茶香很足，冰的也很好喝\n\n女友點的都是軟飲料\n奶茶的部分茶香比較多一些，如果喜歡茶香多一點可以點看看\n熱鐵觀音茶香很棒，而且可以回沖，女友很喜歡！！\n\n推薦給看到的你來吃看看，建議事先訂位，不建議開車，可以坐捷運到市政府站後走過來大概3-5分鐘路程\n\n下次我跟女友有來北部玩還會來訪，餐點好吃，酒水好喝\n\n平常不太打評論的，但這家實在太好吃，有被驚豔到！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "阿巴阿巴鯊鯊",
+        "uri": "https://www.google.com/maps/contrib/109852603063086127023/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWf0ZJdGFcSMVv05SpFjeY2eWQjo1ecGTHCRCphqQAEXKTFr_saEg=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-10-24T14:30:44.667619536Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KWWREQnhXRVF4T1d4dk9VWlBSVzF0V0U1S1ZGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KWWREQnhXRVF4T1d4dk9VWlBSVzF0V0U1S1ZGRRAB!2m1!1s0x3442abbbf8243329:0xec3236fd72077e8f"
+    },
+    {
+      "name": "places/ChIJKTMk-LurQjQRj34Hcv02Muw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWc00yaHJjM0JvUkhKa1NsUkdkVGhvTkhwVFIwRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "酒水和餐點都不錯\n喜歡茶No.2，喝起來清爽\n香檸雞松阪和雞翅美味\n難得吃到燉的軟嫩的厚切牛舌\n牛排和薯條偏普通\n軟殼蟹可能因為淋上金莎醬，炸皮大多軟掉有點可惜，但調味是棒的\n\n跨年夜來\n店內電視在放跨年晚會轉播\n音樂是英文流行歌\n用餐時間2小時\n沒有跨年特別加收的費用或點餐規定\n\n整體蠻享受的\n不過就是有點偏貴\n感覺一樣的價位可以試試別的選擇",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "酒水和餐點都不錯\n喜歡茶No.2，喝起來清爽\n香檸雞松阪和雞翅美味\n難得吃到燉的軟嫩的厚切牛舌\n牛排和薯條偏普通\n軟殼蟹可能因為淋上金莎醬，炸皮大多軟掉有點可惜，但調味是棒的\n\n跨年夜來\n店內電視在放跨年晚會轉播\n音樂是英文流行歌\n用餐時間2小時\n沒有跨年特別加收的費用或點餐規定\n\n整體蠻享受的\n不過就是有點偏貴\n感覺一樣的價位可以試試別的選擇",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Judy",
+        "uri": "https://www.google.com/maps/contrib/106612206401875333281/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLa3I9-GoIpn8icONQxVS977rSEH3PyIZ-4u9-fbH1v6-A7H28L=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-01T10:04:31.385248005Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWc00yaHJjM0JvUkhKa1NsUkdkVGhvTkhwVFIwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWc00yaHJjM0JvUkhKa1NsUkdkVGhvTkhwVFIwRRAB!2m1!1s0x3442abbbf8243329:0xec3236fd72077e8f"
+    },
+    {
+      "name": "places/ChIJKTMk-LurQjQRj34Hcv02Muw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxUE1tWlZXakZoZEMxV2ExRnhTMW8yVkVZeGNWRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "#rangebistrokaya #鐵觀音茶酒 #末日雞翅 #香檸雞松坂 #黑松露菌菇雞燉飯 #當季鮮魚\n觀音茶酒意外的很烈，才喝1/5勁頭就上來了\n排餐的鱸魚非常新鮮，蘸上旁邊略鹹的白醬真的很搭🥰\n不過最喜歡的還是燉飯，黑松露真的有一個很神奇的味道👅 不管配啥的很讚👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "#rangebistrokaya #鐵觀音茶酒 #末日雞翅 #香檸雞松坂 #黑松露菌菇雞燉飯 #當季鮮魚\n觀音茶酒意外的很烈，才喝1/5勁頭就上來了\n排餐的鱸魚非常新鮮，蘸上旁邊略鹹的白醬真的很搭🥰\n不過最喜歡的還是燉飯，黑松露真的有一個很神奇的味道👅 不管配啥的很讚👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "YuHsien",
+        "uri": "https://www.google.com/maps/contrib/103328302825047791093/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXxBdyyiaUMn576f5CBz5vKFe35dSle8_p2UCYswSxOAy9H2pV-=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-11-10T11:22:14.870327194Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxUE1tWlZXakZoZEMxV2ExRnhTMW8yVkVZeGNWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxUE1tWlZXakZoZEMxV2ExRnhTMW8yVkVZeGNWRRAB!2m1!1s0x3442abbbf8243329:0xec3236fd72077e8f"
+    }
+  ]
+}

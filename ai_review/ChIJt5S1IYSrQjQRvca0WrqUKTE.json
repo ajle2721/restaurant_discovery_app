@@ -1,0 +1,25 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "YES",
+                                  "evidence":  "算是孕婦兒童友善",
+                                  "confidence":  0.6
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "座位寬敞",
+                             "confidence":  0.8
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "算是孕婦兒童友善",
+                               "confidence":  0.8
+                           },
+    "parent_friendly_score":  3,
+    "parent_friendly_level":  "高",
+    "reason":  "有兒童椅、空間寬敞、不怕小孩吵"
+}

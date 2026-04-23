@@ -1,0 +1,131 @@
+{
+  "id": "ChIJ_fFccXivQjQRQrVr4JQoLsU",
+  "types": [
+    "seafood_restaurant",
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2826 1490",
+  "formattedAddress": "112台灣台北市北投区裕民四路13號1樓",
+  "location": {
+    "latitude": 25.115498,
+    "longitude": 121.516249
+  },
+  "rating": 4.7,
+  "websiteUri": "http://www.facebook.com/yudangjia",
+  "userRatingCount": 317,
+  "displayName": {
+    "text": "漁當家食堂-請洽臉書IG預約",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ_fFccXivQjQRQrVr4JQoLsU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0RUxVSldNVlZzV1MxNVYweFVhRTVRZGxSNE5tYxAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 5,
+      "text": {
+        "text": "位在石牌捷運站附近的OMAKASE，食材新鮮，擺盤精緻，每道料理都很用心製作，非常美味，老闆會依照客人的需求調整餐點內容，餐後的冰淇淋是店家自製的，口味很特別，非常好吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "位在石牌捷運站附近的OMAKASE，食材新鮮，擺盤精緻，每道料理都很用心製作，非常美味，老闆會依照客人的需求調整餐點內容，餐後的冰淇淋是店家自製的，口味很特別，非常好吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Zooin",
+        "uri": "https://www.google.com/maps/contrib/105068208989776198120/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWbzksapxKA3BFxzGtAHbU5zt66z1A-_yqVL1hieOQNW7iHoiEh=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-03-05T09:12:39.801279301Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0RUxVSldNVlZzV1MxNVYweFVhRTVRZGxSNE5tYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0RUxVSldNVlZzV1MxNVYweFVhRTVRZGxSNE5tYxAB!2m1!1s0x3442af78715cf1fd:0xc52e2894e06bb542"
+    },
+    {
+      "name": "places/ChIJ_fFccXivQjQRQrVr4JQoLsU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CeU1FeDJlalZVV0hGNGNIbG5MV0l4ZGtVd2NGRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "令人印象深刻的無菜單料理。看google評價上的照片每次都不一樣，表示每天都是採購新鮮漁貨，看食材料理。這也是師父的經驗技術證明呢。\n但其實最讓我驚艷的反而是熟食哈哈哈，烤功一流🥰",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "令人印象深刻的無菜單料理。看google評價上的照片每次都不一樣，表示每天都是採購新鮮漁貨，看食材料理。這也是師父的經驗技術證明呢。\n但其實最讓我驚艷的反而是熟食哈哈哈，烤功一流🥰",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lynn Wu",
+        "uri": "https://www.google.com/maps/contrib/117284131128610543940/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXSOjc3qO5xAKBLr3QxL5WBgS9l1756m7W7YTKT5T1TTWSh8fzY=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-11T14:04:48.966450363Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CeU1FeDJlalZVV0hGNGNIbG5MV0l4ZGtVd2NGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CeU1FeDJlalZVV0hGNGNIbG5MV0l4ZGtVd2NGRRAB!2m1!1s0x3442af78715cf1fd:0xc52e2894e06bb542"
+    },
+    {
+      "name": "places/ChIJ_fFccXivQjQRQrVr4JQoLsU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xvdE5WOW5jMlJEZWpsZlZVcDFXRk5sYXpBM1UwRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "大約能容納12人的坐位\n師傅選擇當季食材設計料理\n有人不吃生食也很細心的設計熟食菜單\n茶水自取不收服務費\n值得回訪",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "大約能容納12人的坐位\n師傅選擇當季食材設計料理\n有人不吃生食也很細心的設計熟食菜單\n茶水自取不收服務費\n值得回訪",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Zoe Weng",
+        "uri": "https://www.google.com/maps/contrib/106507981116368101084/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJbx5h4bKdiZrPx8b1_VYmPXqnbMq4lnziE7WPa2UJhnhQzBw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-09T09:53:52.776839972Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xvdE5WOW5jMlJEZWpsZlZVcDFXRk5sYXpBM1UwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xvdE5WOW5jMlJEZWpsZlZVcDFXRk5sYXpBM1UwRRAB!2m1!1s0x3442af78715cf1fd:0xc52e2894e06bb542"
+    },
+    {
+      "name": "places/ChIJ_fFccXivQjQRQrVr4JQoLsU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25reFFYQkZPSEpuZFd0SFJIRnpaMFV5TldsT2FHYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 2,
+      "text": {
+        "text": "食物好吃但份量很少，吃過類似餐廳，知道這樣的無菜單料理是一道一道上菜但這家的上餐速度偏慢，內用位子不多需要提前訂位並匯訂金保留，服務是很好的但這樣的價位有更好的選擇。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "食物好吃但份量很少，吃過類似餐廳，知道這樣的無菜單料理是一道一道上菜但這家的上餐速度偏慢，內用位子不多需要提前訂位並匯訂金保留，服務是很好的但這樣的價位有更好的選擇。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "JNT",
+        "uri": "https://www.google.com/maps/contrib/115015316599678092916/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLpqay2qzpJPbt3CPXfsyo0ryul3sIlIIQz31OQ5CaIIMgmSvo=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-23T08:11:31.591045182Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25reFFYQkZPSEpuZFd0SFJIRnpaMFV5TldsT2FHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25reFFYQkZPSEpuZFd0SFJIRnpaMFV5TldsT2FHYxAB!2m1!1s0x3442af78715cf1fd:0xc52e2894e06bb542"
+    },
+    {
+      "name": "places/ChIJ_fFccXivQjQRQrVr4JQoLsU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xka09UaE5Ubk5zWTBaTmRURmZjSHBEZDJvNGRGRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "石牌也有無菜單日式料理，需要事先訂位！需先付訂金！大約十個座位的小店，超乾淨的，七年的店感覺像新開的！保持的很好！老闆也很親切和他的父親一起工作！覺得很溫馨\n十道菜色，做的很精緻，魚料理是沒有做成握壽司的樣子，都是搭配特調醬料，享受原味的感覺！澎湖的河豚皮好讓我驚艷！\n最後加上...黑鮪魚的臉頰肉...鍋子一開香氣撲鼻..還以為是牛排耶！\n湯品，熬煮澄清湯很費時，裡面加了蝦頭，魚肉和九層塔...超好喝，因為一般都是配味增湯，這次的湯好讓人回味\n連甜點芝麻冰淇淋，都是老闆自己做的！\n食材都很新鮮、盤子配合菜色，點綴一些香料葉子！絕配！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "石牌也有無菜單日式料理，需要事先訂位！需先付訂金！大約十個座位的小店，超乾淨的，七年的店感覺像新開的！保持的很好！老闆也很親切和他的父親一起工作！覺得很溫馨\n十道菜色，做的很精緻，魚料理是沒有做成握壽司的樣子，都是搭配特調醬料，享受原味的感覺！澎湖的河豚皮好讓我驚艷！\n最後加上...黑鮪魚的臉頰肉...鍋子一開香氣撲鼻..還以為是牛排耶！\n湯品，熬煮澄清湯很費時，裡面加了蝦頭，魚肉和九層塔...超好喝，因為一般都是配味增湯，這次的湯好讓人回味\n連甜點芝麻冰淇淋，都是老闆自己做的！\n食材都很新鮮、盤子配合菜色，點綴一些香料葉子！絕配！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Kelly凱莉",
+        "uri": "https://www.google.com/maps/contrib/111041661684514911258/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVF2lSHvIZX0NDYkKHH8vhOBKB57T-ZyQsLWlfTD7w5oUEXomVb=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-07-07T12:42:00.076224108Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xka09UaE5Ubk5zWTBaTmRURmZjSHBEZDJvNGRGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xka09UaE5Ubk5zWTBaTmRURmZjSHBEZDJvNGRGRRAB!2m1!1s0x3442af78715cf1fd:0xc52e2894e06bb542"
+    }
+  ]
+}

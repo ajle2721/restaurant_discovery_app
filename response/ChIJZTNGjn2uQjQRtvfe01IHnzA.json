@@ -1,0 +1,132 @@
+{
+  "id": "ChIJZTNGjn2uQjQRtvfe01IHnzA",
+  "types": [
+    "hamburger_restaurant",
+    "fast_food_restaurant",
+    "american_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2872 5357",
+  "formattedAddress": "111台灣臺北市士林區天玉街38巷15號",
+  "location": {
+    "latitude": 25.1199403,
+    "longitude": 121.5292432
+  },
+  "rating": 3.9,
+  "websiteUri": "https://www.facebook.com/marys.hamburger3815/",
+  "userRatingCount": 1734,
+  "displayName": {
+    "text": "茉莉漢堡",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJZTNGjn2uQjQRtvfe01IHnzA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aUGRGSnlWWFZHV2xoV1JFaFROR3B1VXpBeldsRRAB",
+      "relativePublishTimeDescription": "4 週前",
+      "rating": 2,
+      "text": {
+        "text": "這不是30年前的茉莉漢堡了\n沖著懷舊美味記憶來的人要做好心理準備\n炸鷄還可以\n薯條也不錯\n但青椒牛肉炒飯是什麼$%^&*\n非常不好吃\n米飯過於濕粘\n肉片還勾芡\n青椒就意思意思2條還3條\n還非常苗條＝＝\n\n還有\n整體環境空間算滿髒又油的\n感覺在回收碗盤之後也沒有人打掃清潔的",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這不是30年前的茉莉漢堡了\n沖著懷舊美味記憶來的人要做好心理準備\n炸鷄還可以\n薯條也不錯\n但青椒牛肉炒飯是什麼$%^&*\n非常不好吃\n米飯過於濕粘\n肉片還勾芡\n青椒就意思意思2條還3條\n還非常苗條＝＝\n\n還有\n整體環境空間算滿髒又油的\n感覺在回收碗盤之後也沒有人打掃清潔的",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "花神",
+        "uri": "https://www.google.com/maps/contrib/114918537621865578087/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJFkMeyEX9f_rB6wQuvfS0wIN6cTEO_hIefu6P49iYalQXC9g=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-01-28T09:17:45.598360072Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aUGRGSnlWWFZHV2xoV1JFaFROR3B1VXpBeldsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aUGRGSnlWWFZHV2xoV1JFaFROR3B1VXpBeldsRRAB!2m1!1s0x3442ae7d8e463365:0x309f0752d3def7b6"
+    },
+    {
+      "name": "places/ChIJZTNGjn2uQjQRtvfe01IHnzA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwUmNuTktibmRFVGtOU2FGZG5lbWhWUTNBMVlsRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "茉莉漢堡，比熱炒店還厲害的炒飯大推，還有奶昔必點，薯條是粗的有飽滿的馬鈴薯，口感相當足夠~續杯飲料可以喝到飽，自助區的清潔度可以多加強，有些黏膩感。\n內用冷氣不太涼，吃著吃著有點熱暈\n因為廚房在內側，稍有油煙味，外面有人抽煙時味也會飄進店裡。🥲\n廁所在地下室，地下室外用餐區有各種遊戲設施可以免費玩！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "茉莉漢堡，比熱炒店還厲害的炒飯大推，還有奶昔必點，薯條是粗的有飽滿的馬鈴薯，口感相當足夠~續杯飲料可以喝到飽，自助區的清潔度可以多加強，有些黏膩感。\n內用冷氣不太涼，吃著吃著有點熱暈\n因為廚房在內側，稍有油煙味，外面有人抽煙時味也會飄進店裡。🥲\n廁所在地下室，地下室外用餐區有各種遊戲設施可以免費玩！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Karin Lai",
+        "uri": "https://www.google.com/maps/contrib/117911624255995872602/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW2162jNzhTWwQctFgjE6SBBBvAvqZ7o-4-D-880FUIUCuMTa8=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-08-17T04:31:42.119657172Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwUmNuTktibmRFVGtOU2FGZG5lbWhWUTNBMVlsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwUmNuTktibmRFVGtOU2FGZG5lbWhWUTNBMVlsRRAB!2m1!1s0x3442ae7d8e463365:0x309f0752d3def7b6"
+    },
+    {
+      "name": "places/ChIJZTNGjn2uQjQRtvfe01IHnzA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkdFIxSlZUekpwUWxwb2NFaHJWVE5PVjE4eVNuYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 1,
+      "text": {
+        "text": "今天去吃整體的餐點都沒味道\n尤其是炸雞完全沒醃過調味也沒撒胡椒鹽\n現場調料只有芥末醬跟番茄醬\n最後還是加番茄醬免強吃完 超雷\n連拍照都懶得拍了…附上發票沒有亂黑店家",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天去吃整體的餐點都沒味道\n尤其是炸雞完全沒醃過調味也沒撒胡椒鹽\n現場調料只有芥末醬跟番茄醬\n最後還是加番茄醬免強吃完 超雷\n連拍照都懶得拍了…附上發票沒有亂黑店家",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Roger Hsu",
+        "uri": "https://www.google.com/maps/contrib/112731356622254472689/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJEZexANu1rSkNhKNc1ZR1dEPlgfXA2dIRFbGv6G8i1hpq5xw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-12-24T14:51:07.591102629Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkdFIxSlZUekpwUWxwb2NFaHJWVE5PVjE4eVNuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkdFIxSlZUekpwUWxwb2NFaHJWVE5PVjE4eVNuYxAB!2m1!1s0x3442ae7d8e463365:0x309f0752d3def7b6"
+    },
+    {
+      "name": "places/ChIJZTNGjn2uQjQRtvfe01IHnzA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5T1VuVlZkWGRDUkhOc09XNTZkWEUxTldSSFZFRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "📍天母人氣親子漢堡店｜茉莉漢堡\n美式漢堡🍔 + 奶昔🥤+ 免費遊戲機 = 小孩放電、大人放鬆的超棒組合💯\n\n藏身在天母靜巷內，鄰近捷運芝山站，這家茉莉漢堡真的太讚！\n✅ 漢堡多汁好吃\n✅ 奶昔超濃超好喝（推草莓🍓＆香草口味）\n✅ 飲料無限續杯\n✅ 地下室還有快打旋風機台、投籃機、射擊、親子曲棍球🎮 全！部！免！費！玩！\n✅ 全天不限時，還可以包場超佛心～\n\n很適合家庭聚餐或朋友帶小孩來放電，小朋友玩到不想走，大人聊天吃漢堡聊整下午也沒問題😂\n\n📸好拍又好吃，下次聚會就來這！\n\n#天母美食 #茉莉漢堡 #親子餐廳推薦 #台北親子景點 #美式漢堡 #奶昔控 #親子聚餐 #捷運芝山站 #不限時咖啡廳 #台北漢堡店 #免費遊樂設施",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "📍天母人氣親子漢堡店｜茉莉漢堡\n美式漢堡🍔 + 奶昔🥤+ 免費遊戲機 = 小孩放電、大人放鬆的超棒組合💯\n\n藏身在天母靜巷內，鄰近捷運芝山站，這家茉莉漢堡真的太讚！\n✅ 漢堡多汁好吃\n✅ 奶昔超濃超好喝（推草莓🍓＆香草口味）\n✅ 飲料無限續杯\n✅ 地下室還有快打旋風機台、投籃機、射擊、親子曲棍球🎮 全！部！免！費！玩！\n✅ 全天不限時，還可以包場超佛心～\n\n很適合家庭聚餐或朋友帶小孩來放電，小朋友玩到不想走，大人聊天吃漢堡聊整下午也沒問題😂\n\n📸好拍又好吃，下次聚會就來這！\n\n#天母美食 #茉莉漢堡 #親子餐廳推薦 #台北親子景點 #美式漢堡 #奶昔控 #親子聚餐 #捷運芝山站 #不限時咖啡廳 #台北漢堡店 #免費遊樂設施",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "NIKKI H",
+        "uri": "https://www.google.com/maps/contrib/116077711936382264490/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKP1vbhtHQTXEdrvkLFEKX0aQkyMscZHd8xeakT41ZUwRqhvQ=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-06-13T03:26:51.860191238Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5T1VuVlZkWGRDUkhOc09XNTZkWEUxTldSSFZFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5T1VuVlZkWGRDUkhOc09XNTZkWEUxTldSSFZFRRAB!2m1!1s0x3442ae7d8e463365:0x309f0752d3def7b6"
+    },
+    {
+      "name": "places/ChIJZTNGjn2uQjQRtvfe01IHnzA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1VGRGSk9ZVlpzUlV4amJtRXdVbmhvY0djNFlVRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "天母蠻久的漢堡店\n所以裝潢比較舊一點\n內用熱狗堡好吃😋",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "天母蠻久的漢堡店\n所以裝潢比較舊一點\n內用熱狗堡好吃😋",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yoco",
+        "uri": "https://www.google.com/maps/contrib/114670039782094879342/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtjYvUoh3odlm__hRnex1nbLfpTorJeKXy_998hOsWS4uZ9N2L=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-03T13:45:26.082725620Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1VGRGSk9ZVlpzUlV4amJtRXdVbmhvY0djNFlVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1VGRGSk9ZVlpzUlV4amJtRXdVbmhvY0djNFlVRRAB!2m1!1s0x3442ae7d8e463365:0x309f0752d3def7b6"
+    }
+  ]
+}

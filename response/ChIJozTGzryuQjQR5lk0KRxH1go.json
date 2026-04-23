@@ -1,0 +1,130 @@
+{
+  "id": "ChIJozTGzryuQjQR5lk0KRxH1go",
+  "types": [
+    "italian_restaurant",
+    "western_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 8866 2979",
+  "formattedAddress": "111台灣臺北市士林區美德街66號",
+  "location": {
+    "latitude": 25.095584300000002,
+    "longitude": 121.52509630000002
+  },
+  "rating": 3.5,
+  "userRatingCount": 1287,
+  "displayName": {
+    "text": "麵食士林",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJozTGzryuQjQR5lk0KRxH1go/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxcloxcDJhQzFDUW5GUWRGVnZkSGR3TVVReWJIYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 2,
+      "text": {
+        "text": "品質直線下降 難怪假日的晚上客人這麼少\n番茄雞肉麵加點了C餐230算平價\n濃湯是好喝\n但有頭髮😱還是半白半染的頭髮\n沙拉一樣很普通 大蒜麵包不難吃\n麵尚可 紅茶不好喝",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "品質直線下降 難怪假日的晚上客人這麼少\n番茄雞肉麵加點了C餐230算平價\n濃湯是好喝\n但有頭髮😱還是半白半染的頭髮\n沙拉一樣很普通 大蒜麵包不難吃\n麵尚可 紅茶不好喝",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Huang Miss",
+        "uri": "https://www.google.com/maps/contrib/116960386530231899236/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIqSISwqWwsiYa-et8bsbkJuBOaX68kCAfbrRawlTiuWmzcEQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-28T05:16:10.415720984Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxcloxcDJhQzFDUW5GUWRGVnZkSGR3TVVReWJIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxcloxcDJhQzFDUW5GUWRGVnZkSGR3TVVReWJIYxAB!2m1!1s0x3442aebccec634a3:0xad6471c293459e6"
+    },
+    {
+      "name": "places/ChIJozTGzryuQjQR5lk0KRxH1go/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGYWFIUllWbXRpUWpKNmNsbDNXV0pNZVU5VlNHYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 3,
+      "text": {
+        "text": "十年前的高中生美食，那時候下課要吃還要排隊，對當時的我們來說平價、好吃。這次又回到士林品嚐，沒看到從前排隊的人潮了，覺得沒有說多好吃，在想是十年後的自己嘴巴變挑了嗎？\n對照其它間麵食主義分店，竟然同樣的品項還比別人貴20\n尤其蔬菜義大利麵麵食主義賣95，麵食士林賣到140\n還是平價，但不知道為什麼比別家麵食主義貴",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "十年前的高中生美食，那時候下課要吃還要排隊，對當時的我們來說平價、好吃。這次又回到士林品嚐，沒看到從前排隊的人潮了，覺得沒有說多好吃，在想是十年後的自己嘴巴變挑了嗎？\n對照其它間麵食主義分店，竟然同樣的品項還比別人貴20\n尤其蔬菜義大利麵麵食主義賣95，麵食士林賣到140\n還是平價，但不知道為什麼比別家麵食主義貴",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "楊子瑜",
+        "uri": "https://www.google.com/maps/contrib/106762509833447721629/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL-9PkJ1UavOaUCuVUBiN0ZmmJlRJgQAHweGujl7MhyAkFyTHE=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-28T06:20:19.748766596Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGYWFIUllWbXRpUWpKNmNsbDNXV0pNZVU5VlNHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGYWFIUllWbXRpUWpKNmNsbDNXV0pNZVU5VlNHYxAB!2m1!1s0x3442aebccec634a3:0xad6471c293459e6"
+    },
+    {
+      "name": "places/ChIJozTGzryuQjQR5lk0KRxH1go/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkS2NEVlVhMU5PZFhJelpFVm5SVkJZV0hWblNHYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 2,
+      "text": {
+        "text": "初訪，點青醬蛤蜊麵，加點B套餐，麵條過軟沒有麵心感，青醬稀淡如水無滋味，蛤蜊癟癟的不新鮮，吃了不到一半，受不了只好放棄。吃東西的感受是很主觀的，個人意見僅供參考",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "初訪，點青醬蛤蜊麵，加點B套餐，麵條過軟沒有麵心感，青醬稀淡如水無滋味，蛤蜊癟癟的不新鮮，吃了不到一半，受不了只好放棄。吃東西的感受是很主觀的，個人意見僅供參考",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jerry阿貝",
+        "uri": "https://www.google.com/maps/contrib/114090912904140721346/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWtvTLqSQWzuDqvdolyX1ALsKZufT3AGHUrSYCwx1LQAPGNSPj4FA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-10-27T04:59:50.718190066Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkS2NEVlVhMU5PZFhJelpFVm5SVkJZV0hWblNHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkS2NEVlVhMU5PZFhJelpFVm5SVkJZV0hWblNHYxAB!2m1!1s0x3442aebccec634a3:0xad6471c293459e6"
+    },
+    {
+      "name": "places/ChIJozTGzryuQjQR5lk0KRxH1go/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aelF6SlJVMWxIYkhGdE5GQkphblJhTkVOU01sRRAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 5,
+      "text": {
+        "text": "間隔八年了，回來吃\n原物料上漲沒辦法只能調整價格，但老闆給的份量依舊豐富，口味也沒有什麼變，還是一樣的好吃，謝謝老闆！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "間隔八年了，回來吃\n原物料上漲沒辦法只能調整價格，但老闆給的份量依舊豐富，口味也沒有什麼變，還是一樣的好吃，謝謝老闆！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林郭定宏",
+        "uri": "https://www.google.com/maps/contrib/105737109291824414645/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXLpXHLo5BB32pM-tB8bwQXJfVTO6LM_GL7X9uPXChWdQgu8n3r=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-03-02T11:42:12.598300143Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aelF6SlJVMWxIYkhGdE5GQkphblJhTkVOU01sRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aelF6SlJVMWxIYkhGdE5GQkphblJhTkVOU01sRRAB!2m1!1s0x3442aebccec634a3:0xad6471c293459e6"
+    },
+    {
+      "name": "places/ChIJozTGzryuQjQR5lk0KRxH1go/reviews/ChdDSUhNMG9nS0VJQ0FnTUNReU03SnJnRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 3,
+      "text": {
+        "text": "價格實惠，麵很多，份量大，\n都這價位了，我想也沒什麼好挑惕了，\n乾淨能吃就好。\n\n店貓很可愛，親人；\n但綁在店外可能需要注意一下水份是否充足，\n今天傍晚去的時候水碗裡都沒水了，\n有點可憐。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "價格實惠，麵很多，份量大，\n都這價位了，我想也沒什麼好挑惕了，\n乾淨能吃就好。\n\n店貓很可愛，親人；\n但綁在店外可能需要注意一下水份是否充足，\n今天傍晚去的時候水碗裡都沒水了，\n有點可憐。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Alice Chiu",
+        "uri": "https://www.google.com/maps/contrib/105805701321016650260/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7aR61Q1ohA3XY3hk-vArA3a1g4CVemObU2YuzjZGRuqhVU9te=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-03-01T13:24:17.039258Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNReU03SnJnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNReU03SnJnRRAB!2m1!1s0x3442aebccec634a3:0xad6471c293459e6"
+    }
+  ]
+}

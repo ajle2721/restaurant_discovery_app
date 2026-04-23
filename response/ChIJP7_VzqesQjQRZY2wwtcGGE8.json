@@ -1,0 +1,131 @@
+{
+  "id": "ChIJP7_VzqesQjQRZY2wwtcGGE8",
+  "types": [
+    "ramen_restaurant",
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2786 1377",
+  "formattedAddress": "115台灣台北市南港区经贸二路166號中國信託金融園區A棟2樓",
+  "location": {
+    "latitude": 25.058488,
+    "longitude": 121.6162853
+  },
+  "rating": 4.2,
+  "websiteUri": "http://www.rakumenya.com.tw/",
+  "userRatingCount": 1655,
+  "displayName": {
+    "text": "樂麵屋 南港店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJP7_VzqesQjQRZY2wwtcGGE8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tVMlNXZzNkVlJ0WWxaVmVFMUVkVEpUWDBGbVptYxAB",
+      "relativePublishTimeDescription": "1 週前",
+      "rating": 5,
+      "text": {
+        "text": "點了柚子鹽味拉麵～湯頭很清爽很好喝，搭配細麵濃淡適中！\n高麗菜30元算CP值滿高的～用餐環境也很舒適乾淨，一人用餐也非常友善！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點了柚子鹽味拉麵～湯頭很清爽很好喝，搭配細麵濃淡適中！\n高麗菜30元算CP值滿高的～用餐環境也很舒適乾淨，一人用餐也非常友善！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "JF Lee",
+        "uri": "https://www.google.com/maps/contrib/113556249434365870608/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLdDhoF93JBmKWfW1WCJFYHVtq1hXa5H4V8memQ5pXKzVXeGw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-03-08T07:14:31.202462693Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tVMlNXZzNkVlJ0WWxaVmVFMUVkVEpUWDBGbVptYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tVMlNXZzNkVlJ0WWxaVmVFMUVkVEpUWDBGbVptYxAB!2m1!1s0x3442aca7ced5bf3f:0x4f1806d7c2b08d65"
+    },
+    {
+      "name": "places/ChIJP7_VzqesQjQRZY2wwtcGGE8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tNeVFYaG5SWEZITUVOVlozY3dPV1J0U0ZOclpVRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "這碗拉麵真的好吃到讓人想默默點第二碗。湯頭濃郁香醇卻完全不死鹹，每一口都能感受到用心熬煮的層次感，喝到最後一口都還是很順口。麵條彈牙有嚼勁，完美吸附湯汁，搭配軟嫩入味的叉燒、爽脆的配菜，整體口感超平衡。吃的時候真的會不自覺放慢速度，想好好享受每一口，是那種會讓人吃完還念念不忘、下次經過一定會再回訪的拉麵 🍜",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這碗拉麵真的好吃到讓人想默默點第二碗。湯頭濃郁香醇卻完全不死鹹，每一口都能感受到用心熬煮的層次感，喝到最後一口都還是很順口。麵條彈牙有嚼勁，完美吸附湯汁，搭配軟嫩入味的叉燒、爽脆的配菜，整體口感超平衡。吃的時候真的會不自覺放慢速度，想好好享受每一口，是那種會讓人吃完還念念不忘、下次經過一定會再回訪的拉麵 🍜",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yeplong H.",
+        "uri": "https://www.google.com/maps/contrib/111179564205129416087/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWTLhLLItS-UYm2bJK0q786P85r54M7TuBK04dA55TKDWLwTfazaw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-07T17:06:05.945387729Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tNeVFYaG5SWEZITUVOVlozY3dPV1J0U0ZOclpVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tNeVFYaG5SWEZITUVOVlozY3dPV1J0U0ZOclpVRRAB!2m1!1s0x3442aca7ced5bf3f:0x4f1806d7c2b08d65"
+    },
+    {
+      "name": "places/ChIJP7_VzqesQjQRZY2wwtcGGE8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wUFIxVm9iMjVIZDAxTldWZGZia3hpVFVoMFMwRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "柚香鹽味拉麵湯頭清爽，美中不足的是麵條硬度無法選擇，會希望再硬一點。\n二郎風拉麵的麵條跟油麵類似，肉跟蔬菜都很好吃。\n最後布丁比想像中好吃😋",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "柚香鹽味拉麵湯頭清爽，美中不足的是麵條硬度無法選擇，會希望再硬一點。\n二郎風拉麵的麵條跟油麵類似，肉跟蔬菜都很好吃。\n最後布丁比想像中好吃😋",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Maggie Lai",
+        "uri": "https://www.google.com/maps/contrib/116149965407232754866/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLfx8T7ccROxZ-i_fIGYkjOueo_deX2ErPSLmAoJdKTUeOw_8s=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-09T03:43:36.834956240Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wUFIxVm9iMjVIZDAxTldWZGZia3hpVFVoMFMwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wUFIxVm9iMjVIZDAxTldWZGZia3hpVFVoMFMwRRAB!2m1!1s0x3442aca7ced5bf3f:0x4f1806d7c2b08d65"
+    },
+    {
+      "name": "places/ChIJP7_VzqesQjQRZY2wwtcGGE8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twU00zSlJNSEoxYzNOcU5HdFRVRVpvVFZkUlpXYxAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 2,
+      "text": {
+        "text": "不知道是不是太晚進來快打烊了\n肉微冰 、湯不熱、麵吃起來很像水沒滾就丟下去煮⋯\n辣的沒有什麼特色⋯\n\n不過服務很好唷⋯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "不知道是不是太晚進來快打烊了\n肉微冰 、湯不熱、麵吃起來很像水沒滾就丟下去煮⋯\n辣的沒有什麼特色⋯\n\n不過服務很好唷⋯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "ChingYi Hsu",
+        "uri": "https://www.google.com/maps/contrib/112765947076031287452/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJK3tNBYniZLy4wIpCSVfhbN9DaC6u7KBrE4EdL67DhBz15OQ=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-03-04T00:08:41.026863347Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twU00zSlJNSEoxYzNOcU5HdFRVRVpvVFZkUlpXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twU00zSlJNSEoxYzNOcU5HdFRVRVpvVFZkUlpXYxAB!2m1!1s0x3442aca7ced5bf3f:0x4f1806d7c2b08d65"
+    },
+    {
+      "name": "places/ChIJP7_VzqesQjQRZY2wwtcGGE8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsaGMyMUJPRFJpVTJWWmJUaHdWM05xWTBsQ1VIYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "吃的是二郎風蒜味拉麵，肉的肥瘦均勻，咬起來有點炙燒的香氣，湯底很濃但不會到太閒，微微的蒜味搭配的很剛好。溫泉蛋好吃。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "吃的是二郎風蒜味拉麵，肉的肥瘦均勻，咬起來有點炙燒的香氣，湯底很濃但不會到太閒，微微的蒜味搭配的很剛好。溫泉蛋好吃。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Anson",
+        "uri": "https://www.google.com/maps/contrib/110830080153112863879/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV7wxbZx6wjr5zXe0QdA60OauKk1grQ1t2I1rgKacIbYTPg0rPc=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-23T06:10:33.718819286Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsaGMyMUJPRFJpVTJWWmJUaHdWM05xWTBsQ1VIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsaGMyMUJPRFJpVTJWWmJUaHdWM05xWTBsQ1VIYxAB!2m1!1s0x3442aca7ced5bf3f:0x4f1806d7c2b08d65"
+    }
+  ]
+}

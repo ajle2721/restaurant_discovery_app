@@ -1,0 +1,129 @@
+{
+  "id": "ChIJW1dApGqpQjQRHk52Eg3uSQw",
+  "types": [
+    "seafood_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2553 1841",
+  "formattedAddress": "103台灣臺北市大同區寧夏路81號",
+  "location": {
+    "latitude": 25.058757699999997,
+    "longitude": 121.5151915
+  },
+  "rating": 4.3,
+  "userRatingCount": 1575,
+  "displayName": {
+    "text": "太春小館海鮮餐廳",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJW1dApGqpQjQRHk52Eg3uSQw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoNVZrSnBMVFF3VlVsdlZsZFZYMjl0YVhvNVIwRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "同事生日，請吃飯，第一光臨，老闆娘親切的服務並招待私房菜炒臭豆腐，這道太特別了，沒多久一掃而空。毛毛蟲壽司也很有特色，龍蝦蒜蓉清蒸很好吃，四季豆牛肉很搭，透抽芋頭米粉湯頭很鮮，吃不完打包回家，隔天還要非常好吃😋。價格中等，不錯的用餐體驗。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "同事生日，請吃飯，第一光臨，老闆娘親切的服務並招待私房菜炒臭豆腐，這道太特別了，沒多久一掃而空。毛毛蟲壽司也很有特色，龍蝦蒜蓉清蒸很好吃，四季豆牛肉很搭，透抽芋頭米粉湯頭很鮮，吃不完打包回家，隔天還要非常好吃😋。價格中等，不錯的用餐體驗。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Andy Kao",
+        "uri": "https://www.google.com/maps/contrib/101835555054314149160/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXO0UU5roEzte69CmTtwSGkmRy3YOmZPRmC65K05qjW6edXhzd6=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-10T14:30:22.710102830Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoNVZrSnBMVFF3VlVsdlZsZFZYMjl0YVhvNVIwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoNVZrSnBMVFF3VlVsdlZsZFZYMjl0YVhvNVIwRRAB!2m1!1s0x3442a96aa440575b:0xc49ee0d12764e1e"
+    },
+    {
+      "name": "places/ChIJW1dApGqpQjQRHk52Eg3uSQw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkVk1HcHRkM3A2UW5WRGMzSlVXVTFzWW1veFUxRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "太春 一直是家族聚餐的選擇之一\n但這次的聚餐 感覺上是有差異了\n\n或許 是上菜的速度太快了 來不及好好品嚐美食\n\n所以 對食材的記憶 才幾天 卻如失憶般\n\n建議 速度可以放緩些 而不是被迫要趕進度\n\n服務人員的態度依舊很好",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "太春 一直是家族聚餐的選擇之一\n但這次的聚餐 感覺上是有差異了\n\n或許 是上菜的速度太快了 來不及好好品嚐美食\n\n所以 對食材的記憶 才幾天 卻如失憶般\n\n建議 速度可以放緩些 而不是被迫要趕進度\n\n服務人員的態度依舊很好",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳惠澤",
+        "uri": "https://www.google.com/maps/contrib/103069174016425729939/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLKLxHldSJHEMPpkmyQHzv__qovYBsw4euUMg6qu9KkXshE7Zs=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-11T18:38:21.995218547Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkVk1HcHRkM3A2UW5WRGMzSlVXVTFzWW1veFUxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkVk1HcHRkM3A2UW5WRGMzSlVXVTFzWW1veFUxRRAB!2m1!1s0x3442a96aa440575b:0xc49ee0d12764e1e"
+    },
+    {
+      "name": "places/ChIJW1dApGqpQjQRHk52Eg3uSQw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWWmVsZHJNMFIwYWpOM1ZrUkxNbUpqUjJOeVJHYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "建議訂位再去吃，我們晚上沒訂位去，店員說因為訂位很滿，所以只能點迷你版菜單上的菜，很多招牌菜沒得點，餐點的話，毛毛蟲壽司，椒麻臭豆腐不錯，有開傳統發票，可刷卡",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "建議訂位再去吃，我們晚上沒訂位去，店員說因為訂位很滿，所以只能點迷你版菜單上的菜，很多招牌菜沒得點，餐點的話，毛毛蟲壽司，椒麻臭豆腐不錯，有開傳統發票，可刷卡",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "亮",
+        "uri": "https://www.google.com/maps/contrib/111910607837135158210/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUsv4zA5V7Q5iIWlVV7DNL1QT4sbk7UvN-u9jzKtPYngcdVN1Sj=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-08-11T08:06:39.332323184Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWWmVsZHJNMFIwYWpOM1ZrUkxNbUpqUjJOeVJHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWWmVsZHJNMFIwYWpOM1ZrUkxNbUpqUjJOeVJHYxAB!2m1!1s0x3442a96aa440575b:0xc49ee0d12764e1e"
+    },
+    {
+      "name": "places/ChIJW1dApGqpQjQRHk52Eg3uSQw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xVMVJYSTJTMWx5UzJOTVRYUmlkM1pEUWtsRGJuYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "他們家的菜，隨便點都很好吃，尤其生魚片真的太鮮了，每次吃我都一定會點!!!!\n人少人多，要聚餐都適合的好餐廳。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "他們家的菜，隨便點都很好吃，尤其生魚片真的太鮮了，每次吃我都一定會點!!!!\n人少人多，要聚餐都適合的好餐廳。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "千惠",
+        "uri": "https://www.google.com/maps/contrib/114491345436072882765/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGf7RGL3girpmb8BFCO0Ms4MAEgZzOli8WgwJUKqwb_wFzav19pw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-08-10T06:20:45.565330631Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xVMVJYSTJTMWx5UzJOTVRYUmlkM1pEUWtsRGJuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xVMVJYSTJTMWx5UzJOTVRYUmlkM1pEUWtsRGJuYxAB!2m1!1s0x3442a96aa440575b:0xc49ee0d12764e1e"
+    },
+    {
+      "name": "places/ChIJW1dApGqpQjQRHk52Eg3uSQw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4UFExbHZlamwyYVRrd01GUlhSRk5tY0ZsdFNrRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 2,
+      "text": {
+        "text": "大家看Google不要只看分數\n記得點進去看看最差分類的內容\n回家爬了一下文 基本上面的雷都有中\n\n首先綜合肚生魚片\n說是綜合肚 但就鮭魚跟紅甘兩種\n沒關係這兩種我都愛吃\n但是一下肚…沒油脂香連個鮮味都沒有\n應該是廚房偷懶擺爛 魚直接沖水或泡水退冰\n加點的干貝有腥味我直接吐掉…\n\n毛毛蟲壽司根本悲劇…\n鮭魚只微微翻白就包捲了 預製的…\n炸蝦冷的還有油耗味 預製的…\n\n蘆筍蝦手捲更誇張\n一股阿摩尼亞的氨水味混雜明礬味…\n我也不是點海膽 哪來的明礬味我也不懂\n\n炒雙鮮\n花枝蝦球份量不少個頭不小\n但是吃進嘴裡就知是冷凍的\n一盤五百多 我沒預期會吃到冷凍海鮮…\n\n四季豆炒牛肉倒是不錯\n豆子炒得清脆爽口\n牛肉沒泡嫩精 大塊量多\n\n麻油松阪麵線的表現是當晚最佳\n香氣四溢 濃淡適中\n\n炸牛蒡端上桌是冷的…\n客人都來到餐廳吃飯了 就不能現炸嗎？\n結帳時將這個疑問轉達給櫃檯\n說是為了瀝油…是覺得客人都不懂做菜嗎\n炸物出鍋放在瀝網上瀝 30秒就夠了\n放再久 油也只是隨著時間被炸物吸收乾掉\n你就不能現炸 盛盤前再大火逼油嗎？\n\n我的結論是…\n食材不是預製就是不新鮮要不就是打混做\n一頓飯吃下來 只感受到廚房缺乏誠意滿滿的敷衍…",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "大家看Google不要只看分數\n記得點進去看看最差分類的內容\n回家爬了一下文 基本上面的雷都有中\n\n首先綜合肚生魚片\n說是綜合肚 但就鮭魚跟紅甘兩種\n沒關係這兩種我都愛吃\n但是一下肚…沒油脂香連個鮮味都沒有\n應該是廚房偷懶擺爛 魚直接沖水或泡水退冰\n加點的干貝有腥味我直接吐掉…\n\n毛毛蟲壽司根本悲劇…\n鮭魚只微微翻白就包捲了 預製的…\n炸蝦冷的還有油耗味 預製的…\n\n蘆筍蝦手捲更誇張\n一股阿摩尼亞的氨水味混雜明礬味…\n我也不是點海膽 哪來的明礬味我也不懂\n\n炒雙鮮\n花枝蝦球份量不少個頭不小\n但是吃進嘴裡就知是冷凍的\n一盤五百多 我沒預期會吃到冷凍海鮮…\n\n四季豆炒牛肉倒是不錯\n豆子炒得清脆爽口\n牛肉沒泡嫩精 大塊量多\n\n麻油松阪麵線的表現是當晚最佳\n香氣四溢 濃淡適中\n\n炸牛蒡端上桌是冷的…\n客人都來到餐廳吃飯了 就不能現炸嗎？\n結帳時將這個疑問轉達給櫃檯\n說是為了瀝油…是覺得客人都不懂做菜嗎\n炸物出鍋放在瀝網上瀝 30秒就夠了\n放再久 油也只是隨著時間被炸物吸收乾掉\n你就不能現炸 盛盤前再大火逼油嗎？\n\n我的結論是…\n食材不是預製就是不新鮮要不就是打混做\n一頓飯吃下來 只感受到廚房缺乏誠意滿滿的敷衍…",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "李秀野",
+        "uri": "https://www.google.com/maps/contrib/112042307680900466286/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXNzIFivNsMlylhk7MCJ7WX2NugUBxRUmrzvFYdPhCfcU3kkqk=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-07-22T12:18:44.671279097Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4UFExbHZlamwyYVRrd01GUlhSRk5tY0ZsdFNrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4UFExbHZlamwyYVRrd01GUlhSRk5tY0ZsdFNrRRAB!2m1!1s0x3442a96aa440575b:0xc49ee0d12764e1e"
+    }
+  ]
+}

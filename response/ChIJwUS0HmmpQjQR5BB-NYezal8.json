@@ -1,0 +1,130 @@
+{
+  "id": "ChIJwUS0HmmpQjQR5BB-NYezal8",
+  "types": [
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2568 2768",
+  "formattedAddress": "104台灣臺北市中山區中山北路二段24-3號",
+  "location": {
+    "latitude": 25.0538991,
+    "longitude": 121.52245019999998
+  },
+  "rating": 4,
+  "websiteUri": "https://reurl.cc/44N7A2",
+  "userRatingCount": 1145,
+  "displayName": {
+    "text": "新葡苑餐廳 台北中山店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJwUS0HmmpQjQR5BB-NYezal8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkaE5GcE1NMjFaY0VaMmIwZG5SSGhhTkhSM1VWRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "海鮮炒飯、蠔油芥藍、蟹黃豆腐煲是必點！\n尤其是把豆腐蓋在炒飯上有夠好吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "海鮮炒飯、蠔油芥藍、蟹黃豆腐煲是必點！\n尤其是把豆腐蓋在炒飯上有夠好吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Oscar Hung",
+        "uri": "https://www.google.com/maps/contrib/108879648540209006902/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVibil0xEG1X5CjuGgLguNI4gYOR98wYO9bkbAIq_lpwQu5OWDX=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-11-28T08:25:13.604523492Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkaE5GcE1NMjFaY0VaMmIwZG5SSGhhTkhSM1VWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkaE5GcE1NMjFaY0VaMmIwZG5SSGhhTkhSM1VWRRAB!2m1!1s0x3442a9691eb444c1:0x5f6ab387357e10e4"
+    },
+    {
+      "name": "places/ChIJwUS0HmmpQjQR5BB-NYezal8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aUFFtWnVRamxFZVhWUGVXcGxOWGwxV2tWU1NHYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "華主任是全台灣第一名服務人員🙎\n每次來都很開心🥳享用美食又有超級好服務",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "華主任是全台灣第一名服務人員🙎\n每次來都很開心🥳享用美食又有超級好服務",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "ya mei cheng",
+        "uri": "https://www.google.com/maps/contrib/116820255133761221236/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLmLPnV9vV75_uZK_yK3mUGPtRoPWWjN-omSpSWsG-l7cEf9g=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-29T05:18:56.528012985Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aUFFtWnVRamxFZVhWUGVXcGxOWGwxV2tWU1NHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aUFFtWnVRamxFZVhWUGVXcGxOWGwxV2tWU1NHYxAB!2m1!1s0x3442a9691eb444c1:0x5f6ab387357e10e4"
+    },
+    {
+      "name": "places/ChIJwUS0HmmpQjQR5BB-NYezal8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCTmJUTlVXbkZqV2tock56UnVkMkoxTkV4Rk4yYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "慶祝生日的好地方，服務人員很熱情，幫我們佈菜，照相，切蛋糕。菜也有一定水準，吃得賓主盡歡。很推薦一再光顧的餐廳。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "慶祝生日的好地方，服務人員很熱情，幫我們佈菜，照相，切蛋糕。菜也有一定水準，吃得賓主盡歡。很推薦一再光顧的餐廳。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chen-Ju Lin",
+        "uri": "https://www.google.com/maps/contrib/101559863335174783946/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWTHuWDk12TLtvkE7DfTH1CWmvbC_m6VyrYQjEVWmBWsoKwKhCVKg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-05T13:33:15.516623637Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCTmJUTlVXbkZqV2tock56UnVkMkoxTkV4Rk4yYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCTmJUTlVXbkZqV2tock56UnVkMkoxTkV4Rk4yYxAB!2m1!1s0x3442a9691eb444c1:0x5f6ab387357e10e4"
+    },
+    {
+      "name": "places/ChIJwUS0HmmpQjQR5BB-NYezal8/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRbjRQTlpBEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "在過去這間餐廳之前，比比有查看了其他在地響導的評論所以並不帶太大的期待，但是整體吃下來的感覺其實並不錯，況且餐廳環境十分的舒適，服務也很到位，比比很喜歡，烤鴨的部份也很不錯，不過港點的部份說實在的就平常了些。炒鴨架子這裡選擇的是高麗炒在這裡使用的是甜麵醬下去炒和一般的香辣口感不同，不能說不好吃但是從片皮，和鴨腿吃到最後會有點膩口下次應該用醬爆或椒鹽，蔥燒鯽魚還是會有不份骨頭不夠軟爛需要自行挑出吃的時候要小心。整體上價格偏高但是配合場地與服務其實還好。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在過去這間餐廳之前，比比有查看了其他在地響導的評論所以並不帶太大的期待，但是整體吃下來的感覺其實並不錯，況且餐廳環境十分的舒適，服務也很到位，比比很喜歡，烤鴨的部份也很不錯，不過港點的部份說實在的就平常了些。炒鴨架子這裡選擇的是高麗炒在這裡使用的是甜麵醬下去炒和一般的香辣口感不同，不能說不好吃但是從片皮，和鴨腿吃到最後會有點膩口下次應該用醬爆或椒鹽，蔥燒鯽魚還是會有不份骨頭不夠軟爛需要自行挑出吃的時候要小心。整體上價格偏高但是配合場地與服務其實還好。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "鼠比比",
+        "uri": "https://www.google.com/maps/contrib/103023870386877207742/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWlrAk0oNhBiLErC7u1OTkzVhzaHvvaLWY5s9utWvhnlwBl0wc=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-03-08T06:18:59.141884Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRbjRQTlpBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRbjRQTlpBEAE!2m1!1s0x3442a9691eb444c1:0x5f6ab387357e10e4"
+    },
+    {
+      "name": "places/ChIJwUS0HmmpQjQR5BB-NYezal8/reviews/ChdDSUhNMG9nS0VJQ0FnTURnZ291Q3l3RRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 3,
+      "text": {
+        "text": "整體菜色 口味偏淡\n東坡肉 顏色、味道不夠入味   肉味些微重。\n乾癟四季   ，也不夠乾癟\n片鴨餅皮蠻不錯  ，薄 容易入口  。 片鴨尚可。\n服務有待加強，上菜速度慢",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "整體菜色 口味偏淡\n東坡肉 顏色、味道不夠入味   肉味些微重。\n乾癟四季   ，也不夠乾癟\n片鴨餅皮蠻不錯  ，薄 容易入口  。 片鴨尚可。\n服務有待加強，上菜速度慢",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "向日葵瓜子",
+        "uri": "https://www.google.com/maps/contrib/100106933438406322486/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLNF-PBHMHhERdNjctSTTzrNc6E42mp2FwGCczEO8IrE2NMXODD=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-02-23T12:03:37.049895Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnZ291Q3l3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnZ291Q3l3RRAB!2m1!1s0x3442a9691eb444c1:0x5f6ab387357e10e4"
+    }
+  ]
+}

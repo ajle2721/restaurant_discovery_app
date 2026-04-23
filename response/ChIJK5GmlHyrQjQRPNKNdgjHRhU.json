@@ -1,0 +1,88 @@
+{
+  "id": "ChIJK5GmlHyrQjQRPNKNdgjHRhU",
+  "types": [
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2745 8917",
+  "formattedAddress": "105台灣臺北市松山區寶清街26號",
+  "location": {
+    "latitude": 25.051858,
+    "longitude": 121.568077
+  },
+  "rating": 4.5,
+  "websiteUri": "https://www.facebook.com/ujankitchen/",
+  "userRatingCount": 374,
+  "displayName": {
+    "text": "有間小館",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJK5GmlHyrQjQRPNKNdgjHRhU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25weFMxOVBUelYwWW5WRFkwWmtlRUZqY2pkTVRsRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "點了九道菜沒有一道踩雷！！\n金沙蝦球 宮保雞丁 口水雞 老皮嫩肉必點\n加上老闆用心招待\n完美的用餐體驗\n吃完就一個感受—哦原來這裡有一家寶藏小館🥰",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點了九道菜沒有一道踩雷！！\n金沙蝦球 宮保雞丁 口水雞 老皮嫩肉必點\n加上老闆用心招待\n完美的用餐體驗\n吃完就一個感受—哦原來這裡有一家寶藏小館🥰",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "yu chi Huang",
+        "uri": "https://www.google.com/maps/contrib/100103844128548651492/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJvMtTxSGWC3tMqmXJVzRTQtE6RlcJKi0Ihrzk1NsuTtCRmHQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-22T05:28:58.462232233Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25weFMxOVBUelYwWW5WRFkwWmtlRUZqY2pkTVRsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25weFMxOVBUelYwWW5WRFkwWmtlRUZqY2pkTVRsRRAB!2m1!1s0x3442ab7c94a6912b:0x1546c708768dd23c"
+    },
+    {
+      "name": "places/ChIJK5GmlHyrQjQRPNKNdgjHRhU/reviews/ChdDSUhNMG9nS0VJQ0FnSURiaUotQnZRRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "口味不錯\n老皮嫩肉真的大推~~~ 好喜歡這個口感\n剝皮辣椒牛肉有點兒鹹 蒜泥白肉的醬也蠻多的太鹹\n可以再想想要不要點的大概是胡麻炸雞跟梅汁排骨\n胡麻炸雞就搭起來有點違和、梅汁排骨不太中意",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "口味不錯\n老皮嫩肉真的大推~~~ 好喜歡這個口感\n剝皮辣椒牛肉有點兒鹹 蒜泥白肉的醬也蠻多的太鹹\n可以再想想要不要點的大概是胡麻炸雞跟梅汁排骨\n胡麻炸雞就搭起來有點違和、梅汁排骨不太中意",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "NJ",
+        "uri": "https://www.google.com/maps/contrib/109872323262190383094/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV47-22pVec_MeOwAtiBD7kpz6CNncrp56J6re-tVhF3Y8kOVLz3Q=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2024-08-01T12:59:20.267904Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURiaUotQnZRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURiaUotQnZRRRAB!2m1!1s0x3442ab7c94a6912b:0x1546c708768dd23c"
+    },
+    {
+      "name": "places/ChIJK5GmlHyrQjQRPNKNdgjHRhU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNDMWZMVTNBRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "以前常常買中午的便當料多味美，大推！川菜也都很有水準，水煮魚水煮牛肉都很讚，但感覺現在味道不太一樣了，而且比以前稍油。\n宮保雞丁：感覺吃起來和以前不一樣，現在雞肉應該是先炸後炒，整體偏油還算不錯吃，但只有辣沒有麻滿可惜的。\n酸菜魚：魚肉和酸菜都好吃，份量也給得不少，不過還是偏油，整碗浸在油裡。\n麻婆豆腐：個人滿喜歡的，不會過鹹很下飯，不過很久沒點了不知道味道是否還一樣。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "以前常常買中午的便當料多味美，大推！川菜也都很有水準，水煮魚水煮牛肉都很讚，但感覺現在味道不太一樣了，而且比以前稍油。\n宮保雞丁：感覺吃起來和以前不一樣，現在雞肉應該是先炸後炒，整體偏油還算不錯吃，但只有辣沒有麻滿可惜的。\n酸菜魚：魚肉和酸菜都好吃，份量也給得不少，不過還是偏油，整碗浸在油裡。\n麻婆豆腐：個人滿喜歡的，不會過鹹很下飯，不過很久沒點了不知道味道是否還一樣。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lèvr【第10級在地嚮導】",
+        "uri": "https://www.google.com/maps/contrib/115131688509506708788/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWReqt4dR6N7p45ZpSr8ODGEAaWrEOYRW_WXQCLNWUULTLqEq91g=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2024-10-11T16:11:57.088621Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNDMWZMVTNBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNDMWZMVTNBRRAB!2m1!1s0x3442ab7c94a6912b:0x1546c708768dd23c"
+    }
+  ]
+}

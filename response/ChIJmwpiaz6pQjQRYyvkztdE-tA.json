@@ -1,0 +1,133 @@
+{
+  "id": "ChIJmwpiaz6pQjQRYyvkztdE-tA",
+  "types": [
+    "japanese_curry_restaurant",
+    "japanese_restaurant",
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2396 8689",
+  "formattedAddress": "100台灣臺北市中正區寧波東街11-2號",
+  "location": {
+    "latitude": 25.032850900000003,
+    "longitude": 121.52013889999999
+  },
+  "rating": 4.7,
+  "websiteUri": "https://www.joo.com.tw/earlysummer/",
+  "userRatingCount": 1389,
+  "displayName": {
+    "text": "晴天廚房",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJmwpiaz6pQjQRYyvkztdE-tA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSZlRVOXRNRzFVWlZsa2NGVjNOa3BwY1VGT1RuYxAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 5,
+      "text": {
+        "text": "餐點現做很美味！點了唐揚雞咖哩，4大塊的唐揚雞非常飽足、咖哩中含豐富蔬菜；老闆說定食配菜可免費加，但初次附上的配菜份量十足很夠了～炸干貝讚！加購壽星餐有千層蛋糕和茶凍，餐點好吃，用餐愉快～\n\n平日中午用餐時間二樓滿座，慶幸有提早訂位！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點現做很美味！點了唐揚雞咖哩，4大塊的唐揚雞非常飽足、咖哩中含豐富蔬菜；老闆說定食配菜可免費加，但初次附上的配菜份量十足很夠了～炸干貝讚！加購壽星餐有千層蛋糕和茶凍，餐點好吃，用餐愉快～\n\n平日中午用餐時間二樓滿座，慶幸有提早訂位！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張佩琦",
+        "uri": "https://www.google.com/maps/contrib/100321573000011274637/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKPwoKHf4UwNPu49aNZqeKI-NqNKJeliP9xLUabkyaV8iFDzA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-03-03T07:27:51.210483842Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSZlRVOXRNRzFVWlZsa2NGVjNOa3BwY1VGT1RuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSZlRVOXRNRzFVWlZsa2NGVjNOa3BwY1VGT1RuYxAB!2m1!1s0x3442a93e6b620a9b:0xd0fa44d7cee42b63"
+    },
+    {
+      "name": "places/ChIJmwpiaz6pQjQRYyvkztdE-tA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oS1ZHbzNaV054ZVd4bU1qWm9jMm8wYjNwdVVXYxAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 5,
+      "text": {
+        "text": "看展後來覓食，無意間搜尋到的溫馨小店！唐揚雞咖哩份量非常多，第一次看到這麼大塊的唐揚雞，咖喱是蔬菜咖喱，口感溫潤非常有飽足感！豬排蠻軟嫩多汁。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "看展後來覓食，無意間搜尋到的溫馨小店！唐揚雞咖哩份量非常多，第一次看到這麼大塊的唐揚雞，咖喱是蔬菜咖喱，口感溫潤非常有飽足感！豬排蠻軟嫩多汁。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Candyred Tang",
+        "uri": "https://www.google.com/maps/contrib/109584148353947125749/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBUBMmkGqJyRtoUOFqMF_ttwu62CRyMSCSSKHZglL3tO0neNkj=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-27T05:32:37.121804509Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oS1ZHbzNaV054ZVd4bU1qWm9jMm8wYjNwdVVXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oS1ZHbzNaV054ZVd4bU1qWm9jMm8wYjNwdVVXYxAB!2m1!1s0x3442a93e6b620a9b:0xd0fa44d7cee42b63"
+    },
+    {
+      "name": "places/ChIJmwpiaz6pQjQRYyvkztdE-tA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOTlFVSnlWMlZLUTNObk0wMW1kRVJZU0ZGVVZtYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "氛圍溫馨，店面不大但位置寬敞舒適\n本來進店前想吃個甜點就好，結果點了大全餐😂\n甜點套餐：鮮奶的茶香與奶香平衡得剛剛好；巧克力千層的內餡濃郁又不甜膩，非常推薦！\n正餐選了馬告豬排與現烤花魚，豬排對牙口不好的人來說要花點力氣咬，但馬告特別的類胡椒香氣和微微的酸香非常開胃，也讓豬排不容易吃膩；花魚肉質軟嫩，可以趁熱配白飯與小菜，讓肉汁與油香和飯菜完美融合👍\n小菜也很美味，不會過鹹，十分下飯\n味噌湯鹹中有微微的甜味，入口醇厚\n有糖紅茶有茶香但不會回苦\n整體而言很推薦，下次會回訪來試試隔壁桌推薦的咖哩與章魚燒！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "氛圍溫馨，店面不大但位置寬敞舒適\n本來進店前想吃個甜點就好，結果點了大全餐😂\n甜點套餐：鮮奶的茶香與奶香平衡得剛剛好；巧克力千層的內餡濃郁又不甜膩，非常推薦！\n正餐選了馬告豬排與現烤花魚，豬排對牙口不好的人來說要花點力氣咬，但馬告特別的類胡椒香氣和微微的酸香非常開胃，也讓豬排不容易吃膩；花魚肉質軟嫩，可以趁熱配白飯與小菜，讓肉汁與油香和飯菜完美融合👍\n小菜也很美味，不會過鹹，十分下飯\n味噌湯鹹中有微微的甜味，入口醇厚\n有糖紅茶有茶香但不會回苦\n整體而言很推薦，下次會回訪來試試隔壁桌推薦的咖哩與章魚燒！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Athena Chen",
+        "uri": "https://www.google.com/maps/contrib/117279057120820952931/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKjxpYUWh7XHBm6UTBKcvySwE5JUpuLa6unYNdSLFuuD182sA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-22T11:15:05.840541132Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOTlFVSnlWMlZLUTNObk0wMW1kRVJZU0ZGVVZtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOTlFVSnlWMlZLUTNObk0wMW1kRVJZU0ZGVVZtYxAB!2m1!1s0x3442a93e6b620a9b:0xd0fa44d7cee42b63"
+    },
+    {
+      "name": "places/ChIJmwpiaz6pQjQRYyvkztdE-tA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCZmVuUnJaMTlsVEZRMWNuTk1hM1YxT0RCUU9XYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "豬肉咖哩味道特別，有別一般日式咖哩的風味，搭配份量不少的各式蔬菜，有點像是沙茶燴飯跟咖哩的綜合體。剛開始吃覺得風味奇特有點不能接受，但繼續吃下去卻發覺意外地好吃，而且蔬菜都是我喜歡的，很開心地把整盤吃光光了，意猶未盡。\n\n點餐方式是採線上點餐，可以選擇飯量和要不要附餐這點很棒，可以減少食材浪費。\n\n二樓的用餐空間很舒適乾淨，有水可以自取。缺點是二樓空間的回音很明顯，若遇到沒控制音量的客人交談，那真的有點吵。樓梯扶手有點粘膩，也是有點美中不足的地方。\n\n週間限定的咖哩價格比較親民，其他主餐價位稍高，感覺比較適合聚餐，或是偶爾想犒賞自己、吃頓好料的選擇。有機會再來嘗試其他餐點。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "豬肉咖哩味道特別，有別一般日式咖哩的風味，搭配份量不少的各式蔬菜，有點像是沙茶燴飯跟咖哩的綜合體。剛開始吃覺得風味奇特有點不能接受，但繼續吃下去卻發覺意外地好吃，而且蔬菜都是我喜歡的，很開心地把整盤吃光光了，意猶未盡。\n\n點餐方式是採線上點餐，可以選擇飯量和要不要附餐這點很棒，可以減少食材浪費。\n\n二樓的用餐空間很舒適乾淨，有水可以自取。缺點是二樓空間的回音很明顯，若遇到沒控制音量的客人交談，那真的有點吵。樓梯扶手有點粘膩，也是有點美中不足的地方。\n\n週間限定的咖哩價格比較親民，其他主餐價位稍高，感覺比較適合聚餐，或是偶爾想犒賞自己、吃頓好料的選擇。有機會再來嘗試其他餐點。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Katze Huang",
+        "uri": "https://www.google.com/maps/contrib/107075001450754112538/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJzPasjSgdGmOtLGibTbICntZ9T2tD7G9te3EYutmlNuhZxog=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-01T13:45:24.770852476Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCZmVuUnJaMTlsVEZRMWNuTk1hM1YxT0RCUU9XYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCZmVuUnJaMTlsVEZRMWNuTk1hM1YxT0RCUU9XYxAB!2m1!1s0x3442a93e6b620a9b:0xd0fa44d7cee42b63"
+    },
+    {
+      "name": "places/ChIJmwpiaz6pQjQRYyvkztdE-tA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOTmIwMXVaVzlNVFdWSmJqSmlialJHV1ZGdE0xRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 3,
+      "text": {
+        "text": "用餐規則稍微多了點（詳如照片），不過和店家彼此尊重的話是還好，無礙\n菜單提供QR掃描點餐，餐點滿五百元可刷卡\n\n餐點是挺有特色，白飯、湯品和醬汁都是可以免費續一次；咖哩很香真的很好吃尤其搭配的炸雞塊也非常美味，附飲品、湯品\n\n排餐的話，豬肉很有韌性不太好切（對於牙齒不好的人來說可能不太好咬），魚肉的部分可選花魚或青花魚，我選了花魚沒有魚刺，是以奶油為基底調味；並附有白飯（可免費加香鬆）、小菜以及湯、飲品\n\n單點胡麻青菜挺好吃，不過章魚燒倒是偏貴了而且也比較小顆\n\n據朋友說份量十足而且偏多，不過我個人覺得份量正常甚至有點少（？）也可能我的食量比較大啦\n\n比較感受不佳的地方是，店家似乎很急著關店，所以不斷地來收拾用完的碗盤及餐具（來收了三次），導致後半段用餐挺有壓力...最後一次還不小心將盤中的咖哩醬汁灑出來，導致醬汁沿著桌邊流到朋友裙子上...雖然店員當下立刻連聲道歉了但感受還是不太好...",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "用餐規則稍微多了點（詳如照片），不過和店家彼此尊重的話是還好，無礙\n菜單提供QR掃描點餐，餐點滿五百元可刷卡\n\n餐點是挺有特色，白飯、湯品和醬汁都是可以免費續一次；咖哩很香真的很好吃尤其搭配的炸雞塊也非常美味，附飲品、湯品\n\n排餐的話，豬肉很有韌性不太好切（對於牙齒不好的人來說可能不太好咬），魚肉的部分可選花魚或青花魚，我選了花魚沒有魚刺，是以奶油為基底調味；並附有白飯（可免費加香鬆）、小菜以及湯、飲品\n\n單點胡麻青菜挺好吃，不過章魚燒倒是偏貴了而且也比較小顆\n\n據朋友說份量十足而且偏多，不過我個人覺得份量正常甚至有點少（？）也可能我的食量比較大啦\n\n比較感受不佳的地方是，店家似乎很急著關店，所以不斷地來收拾用完的碗盤及餐具（來收了三次），導致後半段用餐挺有壓力...最後一次還不小心將盤中的咖哩醬汁灑出來，導致醬汁沿著桌邊流到朋友裙子上...雖然店員當下立刻連聲道歉了但感受還是不太好...",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "MAIまい",
+        "uri": "https://www.google.com/maps/contrib/105416153166288724327/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUKWEDTd2xuDrHA58EoSoE-zyzF7WF3NFJdE_ESXUSLLTpPbvD_=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-07T16:05:30.820769248Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOTmIwMXVaVzlNVFdWSmJqSmlialJHV1ZGdE0xRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOTmIwMXVaVzlNVFdWSmJqSmlialJHV1ZGdE0xRRAB!2m1!1s0x3442a93e6b620a9b:0xd0fa44d7cee42b63"
+    }
+  ]
+}

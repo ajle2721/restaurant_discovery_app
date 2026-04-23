@@ -1,0 +1,129 @@
+{
+  "id": "ChIJjVJZrvCrQjQRgVbFi8RKHlU",
+  "types": [
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 8661 6969",
+  "formattedAddress": "116台灣臺北市文山區指南路二段46號",
+  "location": {
+    "latitude": 24.987685100000004,
+    "longitude": 121.57520059999999
+  },
+  "rating": 4.5,
+  "userRatingCount": 1108,
+  "displayName": {
+    "text": "大隻佬 食堂",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJjVJZrvCrQjQRgVbFi8RKHlU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWT2NFUkphaTFRYmxZMk5GcDZVV0Z0ZDFSR1oxRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "趁著政大寒假時間來吃吃看，不然平時都包圍著政大學生，要等一段時間才能內用。價格雖然看起來不算平價，但餐點上桌後發現份量其實是和價格成正比的，點了平常很少看到的蔥燒雞腿麵吃吃看，一隻雞腿和雞翅讓整晚麵看起來肉量很足。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "趁著政大寒假時間來吃吃看，不然平時都包圍著政大學生，要等一段時間才能內用。價格雖然看起來不算平價，但餐點上桌後發現份量其實是和價格成正比的，點了平常很少看到的蔥燒雞腿麵吃吃看，一隻雞腿和雞翅讓整晚麵看起來肉量很足。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Pin-Chen Peng",
+        "uri": "https://www.google.com/maps/contrib/104879354112940263526/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUNt631ryF0AK91Fl97vMzofD2zJFCZKCWzlw5NC300o8l-ynM=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-25T12:04:31.320332226Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWT2NFUkphaTFRYmxZMk5GcDZVV0Z0ZDFSR1oxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWT2NFUkphaTFRYmxZMk5GcDZVV0Z0ZDFSR1oxRRAB!2m1!1s0x3442abf0ae59528d:0x551e4ac48bc55681"
+    },
+    {
+      "name": "places/ChIJjVJZrvCrQjQRgVbFi8RKHlU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aVlh6bEtlVUphVTE5R0xVaGplRlp0WjFKcFNXYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 3,
+      "text": {
+        "text": "賣相不錯，但就僅止於此了😅\n整體價位偏高\n\n半筋半肉牛肉麵全部味道都在表面\n需要靠自行調味來矯正，讓它稍微能入口\n咬牛筋像在嚼橡皮糖，牛肉硬梆梆\n\n酸辣水餃吃起來很像大滷水餃\n味道完全沒出來\n\n小黃瓜完全沒醃入味就直接上菜了\n\n一顆星給環境清潔度\n一顆星給服務\n最後一顆給食物",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "賣相不錯，但就僅止於此了😅\n整體價位偏高\n\n半筋半肉牛肉麵全部味道都在表面\n需要靠自行調味來矯正，讓它稍微能入口\n咬牛筋像在嚼橡皮糖，牛肉硬梆梆\n\n酸辣水餃吃起來很像大滷水餃\n味道完全沒出來\n\n小黃瓜完全沒醃入味就直接上菜了\n\n一顆星給環境清潔度\n一顆星給服務\n最後一顆給食物",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳穎",
+        "uri": "https://www.google.com/maps/contrib/109402283104167704779/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVsl6HftsrR02TZMEGZ7a8Do5Sj0zrKtBopXUPAZHoLDR0bWEE=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-05T14:02:03.086108301Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aVlh6bEtlVUphVTE5R0xVaGplRlp0WjFKcFNXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aVlh6bEtlVUphVTE5R0xVaGplRlp0WjFKcFNXYxAB!2m1!1s0x3442abf0ae59528d:0x551e4ac48bc55681"
+    },
+    {
+      "name": "places/ChIJjVJZrvCrQjQRgVbFi8RKHlU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21veGNWRlpSek5hWTBsV1FUaFZTV3A0VHpOaGVIYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 2,
+      "text": {
+        "text": "豬頭皮：乾、硬（我去加點香油改善了一點）\n紅油抄手：像麻醬+辣椒醬！！創意味道\n半筋半肉牛肉麵：湯》比較死鹹的，牛肉柴厲害、牛筋較硬\n蔥燒雞⋯像紅燒魚的湯底加蔥燒爛雞腿跟翅\n不可否認人員服務都不錯（除了收銀）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "豬頭皮：乾、硬（我去加點香油改善了一點）\n紅油抄手：像麻醬+辣椒醬！！創意味道\n半筋半肉牛肉麵：湯》比較死鹹的，牛肉柴厲害、牛筋較硬\n蔥燒雞⋯像紅燒魚的湯底加蔥燒爛雞腿跟翅\n不可否認人員服務都不錯（除了收銀）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chen BuBu",
+        "uri": "https://www.google.com/maps/contrib/101488988889680427658/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVB7cbSC0RWLnaRuwzQs85O8wEKLCLuScXQUafKDGSBhhym9pxP=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-01T11:39:02.165189809Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21veGNWRlpSek5hWTBsV1FUaFZTV3A0VHpOaGVIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21veGNWRlpSek5hWTBsV1FUaFZTV3A0VHpOaGVIYxAB!2m1!1s0x3442abf0ae59528d:0x551e4ac48bc55681"
+    },
+    {
+      "name": "places/ChIJjVJZrvCrQjQRgVbFi8RKHlU/reviews/Ci9DQUlRQUNvZENodHljRjlvT205c00xOXJVbGgwV25GcFgwZEJlalkyWTBsWVMzYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "老闆親切熱情\n用餐環境乾淨明亮\n還有音樂播放\n用餐時間不限\n牛肉麵肉大塊軟嫩\n內用可免費加湯加麵\n小菜平價又美味",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "老闆親切熱情\n用餐環境乾淨明亮\n還有音樂播放\n用餐時間不限\n牛肉麵肉大塊軟嫩\n內用可免費加湯加麵\n小菜平價又美味",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "旺寶",
+        "uri": "https://www.google.com/maps/contrib/106981452013625528662/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVo1wjrF269EwfgUNOQVGfFFYCKiLQBCvvxPEbwvDoCst5RAlFD=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-28T06:15:35.062442238Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205c00xOXJVbGgwV25GcFgwZEJlalkyWTBsWVMzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205c00xOXJVbGgwV25GcFgwZEJlalkyWTBsWVMzYxAB!2m1!1s0x3442abf0ae59528d:0x551e4ac48bc55681"
+    },
+    {
+      "name": "places/ChIJjVJZrvCrQjQRgVbFi8RKHlU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCUE1FRjBSVTVTZEU4elkwMU9WR1EwTUhCNU0wRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "感覺口味比較淡，但是有蒜末、酸菜等調味料可以自己加。麵加大不用錢，有免費飲料，讚讚",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "感覺口味比較淡，但是有蒜末、酸菜等調味料可以自己加。麵加大不用錢，有免費飲料，讚讚",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "凜喵喵",
+        "uri": "https://www.google.com/maps/contrib/118051895411540229837/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVxvPnJACbGm-gtCuaA-RBmVwqtV-fLPbBvebkSwW8-we7VAbpf=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-09T10:54:18.780331883Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCUE1FRjBSVTVTZEU4elkwMU9WR1EwTUhCNU0wRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCUE1FRjBSVTVTZEU4elkwMU9WR1EwTUhCNU0wRRAB!2m1!1s0x3442abf0ae59528d:0x551e4ac48bc55681"
+    }
+  ]
+}

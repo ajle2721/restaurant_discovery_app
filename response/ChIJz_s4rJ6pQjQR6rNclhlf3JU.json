@@ -1,0 +1,131 @@
+{
+  "id": "ChIJz_s4rJ6pQjQR6rNclhlf3JU",
+  "types": [
+    "chinese_restaurant",
+    "asian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2396 9611",
+  "formattedAddress": "100台灣臺北市中正區寧波東街1號",
+  "location": {
+    "latitude": 25.031899,
+    "longitude": 121.51939399999999
+  },
+  "rating": 3.8,
+  "websiteUri": "http://cpp.taipei/",
+  "userRatingCount": 2122,
+  "displayName": {
+    "text": "真北平",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJz_s4rJ6pQjQR6rNclhlf3JU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pZMWEyZDNSMTk1V0drd2RsZFdPRU5qWVc4M1RYYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 2,
+      "text": {
+        "text": "很久沒吃到每樣菜都不太好吃的和菜店\n北平烤鴨的一鴨兩吃$2080\n但真的比享鴨、宋廚、龍都酒樓、櫥窗港點吃的飽的烤鴨都還普通……\n完全無法覺得好吃\n炒的鴨架是真的不好吃了，台中美村路炒的北平烤鴨大勝。就算不跟任何餐廳比，也不會覺得好吃的那種。\n\n炒青菜的芥蘭菜竟然超級老，老的令人真的很失望也訝異……\n炒酸菜白肉也不好吃……豆乾肉絲也是失望到不行…….\n完全不知道今天點的有什麼菜是正常的（可能是餅皮吧、餅皮是正常的）\n\n之前看評分低還想可能大家口味不一，恩、但真的，就是評分那樣的口味吧",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很久沒吃到每樣菜都不太好吃的和菜店\n北平烤鴨的一鴨兩吃$2080\n但真的比享鴨、宋廚、龍都酒樓、櫥窗港點吃的飽的烤鴨都還普通……\n完全無法覺得好吃\n炒的鴨架是真的不好吃了，台中美村路炒的北平烤鴨大勝。就算不跟任何餐廳比，也不會覺得好吃的那種。\n\n炒青菜的芥蘭菜竟然超級老，老的令人真的很失望也訝異……\n炒酸菜白肉也不好吃……豆乾肉絲也是失望到不行…….\n完全不知道今天點的有什麼菜是正常的（可能是餅皮吧、餅皮是正常的）\n\n之前看評分低還想可能大家口味不一，恩、但真的，就是評分那樣的口味吧",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "謝寶",
+        "uri": "https://www.google.com/maps/contrib/103651557914265629916/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKbX79CozFyFcnxggMC-We5WLEufY7V1Iqfs3DokhoNaBm8Ig=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-11-23T11:35:11.076090722Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pZMWEyZDNSMTk1V0drd2RsZFdPRU5qWVc4M1RYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pZMWEyZDNSMTk1V0drd2RsZFdPRU5qWVc4M1RYYxAB!2m1!1s0x3442a99eac38fbcf:0x95dc5f19965cb3ea"
+    },
+    {
+      "name": "places/ChIJz_s4rJ6pQjQR6rNclhlf3JU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wUk5FOUhXbDlTZDNCSGNrRm5aVGh1UjNoblZuYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "久未至真北平，重新裝修煥然一新。預訂北平烤鴨加酸白菜火鍋再加點羊肚絲、鍋塌豆腐和涼拌白菜心，六人就吃得很满足了。希望老味道不要消失。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "久未至真北平，重新裝修煥然一新。預訂北平烤鴨加酸白菜火鍋再加點羊肚絲、鍋塌豆腐和涼拌白菜心，六人就吃得很满足了。希望老味道不要消失。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Annie Shia",
+        "uri": "https://www.google.com/maps/contrib/114744595749981112865/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLmPoVkV1PBxccL_ysQfE7zyiWexkxz8mzBEAp0K_kFOR213zWS=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-18T13:08:17.189450573Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wUk5FOUhXbDlTZDNCSGNrRm5aVGh1UjNoblZuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wUk5FOUhXbDlTZDNCSGNrRm5aVGh1UjNoblZuYxAB!2m1!1s0x3442a99eac38fbcf:0x95dc5f19965cb3ea"
+    },
+    {
+      "name": "places/ChIJz_s4rJ6pQjQR6rNclhlf3JU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0SVlYcHFUVEJOWVhoQk5FMUZNRnByVWpscFRHYxAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 4,
+      "text": {
+        "text": "現場用餐的人不少\n今天餐點的不多\n炒菜部分味道較鹹\n若吃的較清淡\n可問問不那麼鹹\n服務也還行",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "現場用餐的人不少\n今天餐點的不多\n炒菜部分味道較鹹\n若吃的較清淡\n可問問不那麼鹹\n服務也還行",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "judy pao",
+        "uri": "https://www.google.com/maps/contrib/108919709628186990364/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKMS4zolY4AuZhohjM_J4qkGHiYFEeopmJQDLotQU3j7SGyTg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-28T11:55:40.170198435Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0SVlYcHFUVEJOWVhoQk5FMUZNRnByVWpscFRHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0SVlYcHFUVEJOWVhoQk5FMUZNRnByVWpscFRHYxAB!2m1!1s0x3442a99eac38fbcf:0x95dc5f19965cb3ea"
+    },
+    {
+      "name": "places/ChIJz_s4rJ6pQjQR6rNclhlf3JU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kWVRWUkxhakJmV2s5QmFUZEpWSEJyWVRCSmEyYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "和家人聚餐來吃酸白菜火鍋，所有料理整體味道偏清淡，最喜歡的是牛肉蒸餃，整顆一口咬的時候肉汁在嘴中爆發，牛肉的鮮與紮實的肉感，非常Q彈的皮，超好吃😋",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "和家人聚餐來吃酸白菜火鍋，所有料理整體味道偏清淡，最喜歡的是牛肉蒸餃，整顆一口咬的時候肉汁在嘴中爆發，牛肉的鮮與紮實的肉感，非常Q彈的皮，超好吃😋",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "潘穎福",
+        "uri": "https://www.google.com/maps/contrib/110179003444341201071/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL8XIVBe7ZLTxoLN4ttMeBb6lFjY5OR1EHvwS9iGSk4NGaW6w=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-11-15T10:01:23.879111026Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kWVRWUkxhakJmV2s5QmFUZEpWSEJyWVRCSmEyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kWVRWUkxhakJmV2s5QmFUZEpWSEJyWVRCSmEyYxAB!2m1!1s0x3442a99eac38fbcf:0x95dc5f19965cb3ea"
+    },
+    {
+      "name": "places/ChIJz_s4rJ6pQjQR6rNclhlf3JU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5V1JGSlBVVXA2WWtkMWRGbEtOVkp3V1RaSmVrRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "台北真北平餐廳餐點上有涼拌類、麵食甜點類、湯類、火鍋類、海鮮、熱炒類等，菜色口味多元，還有北平烤鴨，滿足所有想要一品中國北方菜的饕客需求。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "台北真北平餐廳餐點上有涼拌類、麵食甜點類、湯類、火鍋類、海鮮、熱炒類等，菜色口味多元，還有北平烤鴨，滿足所有想要一品中國北方菜的饕客需求。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "王聖文",
+        "uri": "https://www.google.com/maps/contrib/104390385254797326051/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKQzBLZ00jPzIxyO3GUVdLrZKNqSGMHXKdLrjwQuqiE1PE3bw=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-01-11T00:45:18.466072088Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5V1JGSlBVVXA2WWtkMWRGbEtOVkp3V1RaSmVrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5V1JGSlBVVXA2WWtkMWRGbEtOVkp3V1RaSmVrRRAB!2m1!1s0x3442a99eac38fbcf:0x95dc5f19965cb3ea"
+    }
+  ]
+}

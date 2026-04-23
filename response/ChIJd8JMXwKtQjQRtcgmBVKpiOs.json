@@ -1,0 +1,130 @@
+{
+  "id": "ChIJd8JMXwKtQjQRtcgmBVKpiOs",
+  "types": [
+    "restaurant",
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 8797 4679",
+  "formattedAddress": "114台灣臺北市內湖區江南街71巷16弄32號",
+  "location": {
+    "latitude": 25.075542799999997,
+    "longitude": 121.5774855
+  },
+  "rating": 4.2,
+  "websiteUri": "https://www.facebook.com/timama2008/",
+  "userRatingCount": 639,
+  "displayName": {
+    "text": "Timama kitchen",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJd8JMXwKtQjQRtcgmBVKpiOs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0cVN6bFZUM0prYTNsNk5EVkhjVFZuYmpsa1RYYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "這家店一直放在口袋名單好久了！（是番紅花姐姐大推的好店）\n很棒的氛圍和環境、美味的餐點份量實在。跟女鵝一人點了一份主餐：松露蘑菇燉飯和雞肉起司筆管麵，很特別的芋頭濃湯第一次喝到；前菜煙燻鮭魚有4片，每片的厚度很有誠意！吃到一半又覺得不過癮，加點蒜香蝦佐雜糧麵包...真的真的好滿足！飲料自助區的黑糖鮮奶茶完全不會太甜又有奶茶的滿足感、無糖的阿里山烏龍茶也不輸給奶茶。壓軸是黑糖香草冰淇淋。很值得支持的優質店家。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這家店一直放在口袋名單好久了！（是番紅花姐姐大推的好店）\n很棒的氛圍和環境、美味的餐點份量實在。跟女鵝一人點了一份主餐：松露蘑菇燉飯和雞肉起司筆管麵，很特別的芋頭濃湯第一次喝到；前菜煙燻鮭魚有4片，每片的厚度很有誠意！吃到一半又覺得不過癮，加點蒜香蝦佐雜糧麵包...真的真的好滿足！飲料自助區的黑糖鮮奶茶完全不會太甜又有奶茶的滿足感、無糖的阿里山烏龍茶也不輸給奶茶。壓軸是黑糖香草冰淇淋。很值得支持的優質店家。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jessie Kao",
+        "uri": "https://www.google.com/maps/contrib/105617414875574662886/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUL6rDYVrjP10Ok7bSvA_Ge2a0oRFGjRqVbvnvvDza-g4k9kRMv=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-19T16:22:21.646167317Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0cVN6bFZUM0prYTNsNk5EVkhjVFZuYmpsa1RYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0cVN6bFZUM0prYTNsNk5EVkhjVFZuYmpsa1RYYxAB!2m1!1s0x3442ad025f4cc277:0xeb88a9520526c8b5"
+    },
+    {
+      "name": "places/ChIJd8JMXwKtQjQRtcgmBVKpiOs/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wa1RIYzVSaTFyWmxkTWNreDBRMWR0ZUdKVFpuYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "對女生來說份量還蠻足夠的，以健康餐來說是好吃的🥰，我點的是鱸魚，還有附白飯，另外也可以選麵包，同事點的有加套餐，所以有附沙拉跟湯，價位上以內湖來說是合理的～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "對女生來說份量還蠻足夠的，以健康餐來說是好吃的🥰，我點的是鱸魚，還有附白飯，另外也可以選麵包，同事點的有加套餐，所以有附沙拉跟湯，價位上以內湖來說是合理的～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Sunny Tsai",
+        "uri": "https://www.google.com/maps/contrib/105967706613348026018/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVB8jtQjmxA0p6j6eGBEeYtSDknmh5RJY61XdjbcgoUjSSAllCvJw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-19T23:58:23.633849770Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wa1RIYzVSaTFyWmxkTWNreDBRMWR0ZUdKVFpuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wa1RIYzVSaTFyWmxkTWNreDBRMWR0ZUdKVFpuYxAB!2m1!1s0x3442ad025f4cc277:0xeb88a9520526c8b5"
+    },
+    {
+      "name": "places/ChIJd8JMXwKtQjQRtcgmBVKpiOs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOaE1WSTJSamt0Y1hwMVVtWXdZVFkxVkRCNE1GRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "這間餐廳給人的第一印象相當不錯，座位寬敞、沙發區坐起來非常舒適，即使是一個人前來用餐，也能感受到放鬆自在的氛圍。雖然店內人潮不少、環境稍微吵雜，但整體空間開闊，不會讓人感到壓迫。地點也相當便利，對面就有停車場，一小時60元的價格合理又方便。\n今天來內湖開會，繞到附近找吃的，點了香蒜牛肉蔬菜綜合沙拉，份量剛好、味道清爽，牛肉嫩口、搭配香蒜香氣十足，整體平衡得很好。餐點價格合理，重點是不收服務費，讓人覺得誠意十足。整體來說，是一家很適合放鬆用餐、聊天聚會，或是一個人安靜享用餐點的好地方，會讓人想再回訪。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這間餐廳給人的第一印象相當不錯，座位寬敞、沙發區坐起來非常舒適，即使是一個人前來用餐，也能感受到放鬆自在的氛圍。雖然店內人潮不少、環境稍微吵雜，但整體空間開闊，不會讓人感到壓迫。地點也相當便利，對面就有停車場，一小時60元的價格合理又方便。\n今天來內湖開會，繞到附近找吃的，點了香蒜牛肉蔬菜綜合沙拉，份量剛好、味道清爽，牛肉嫩口、搭配香蒜香氣十足，整體平衡得很好。餐點價格合理，重點是不收服務費，讓人覺得誠意十足。整體來說，是一家很適合放鬆用餐、聊天聚會，或是一個人安靜享用餐點的好地方，會讓人想再回訪。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Bryant chu",
+        "uri": "https://www.google.com/maps/contrib/104482126597691216969/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXdZ9k4ZcKvZevVkSEBP0GGsJg4GI3PxegB7bEYwM8pxHcnHRU=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-31T05:05:31.267474421Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOaE1WSTJSamt0Y1hwMVVtWXdZVFkxVkRCNE1GRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOaE1WSTJSamt0Y1hwMVVtWXdZVFkxVkRCNE1GRRAB!2m1!1s0x3442ad025f4cc277:0xeb88a9520526c8b5"
+    },
+    {
+      "name": "places/ChIJd8JMXwKtQjQRtcgmBVKpiOs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0WkxYVjFUalpxVUZaMFFqWk9abmxCZUdwMVVFRRAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 3,
+      "text": {
+        "text": "很久沒去吃，午餐只有這些品項，甜點也變的很普通",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很久沒去吃，午餐只有這些品項，甜點也變的很普通",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Zhi zhi CHIANG",
+        "uri": "https://www.google.com/maps/contrib/109371740207606717188/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVqkiKQsgntiNGfEtUdnxEaAwYKTnIUW4yTSwcB0WeGcfY1kymQ6A=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-06T15:01:08.270903325Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0WkxYVjFUalpxVUZaMFFqWk9abmxCZUdwMVVFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0WkxYVjFUalpxVUZaMFFqWk9abmxCZUdwMVVFRRAB!2m1!1s0x3442ad025f4cc277:0xeb88a9520526c8b5"
+    },
+    {
+      "name": "places/ChIJd8JMXwKtQjQRtcgmBVKpiOs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwM09IcFRSMDlDYlZCV2IwaHJaa2xCZEVaMGFFRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點不錯吃，加點套餐，有濃湯、飲料吧，用餐不限時，且免收服務費，和朋友小聚，很棒！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點不錯吃，加點套餐，有濃湯、飲料吧，用餐不限時，且免收服務費，和朋友小聚，很棒！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "sunny chen",
+        "uri": "https://www.google.com/maps/contrib/108956548779012206522/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIH-xbOknMP1GAxAzVPM7NXo6DqDb4AOVYFEFF8k8ZcANbDBg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-13T07:59:06.718743770Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwM09IcFRSMDlDYlZCV2IwaHJaa2xCZEVaMGFFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwM09IcFRSMDlDYlZCV2IwaHJaa2xCZEVaMGFFRRAB!2m1!1s0x3442ad025f4cc277:0xeb88a9520526c8b5"
+    }
+  ]
+}

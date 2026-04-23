@@ -1,0 +1,129 @@
+{
+  "id": "ChIJF50nBQCpQjQRRgV92GsnEqA",
+  "types": [
+    "chinese_noodle_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 8942 2662",
+  "formattedAddress": "108台灣臺北市萬華區艋舺大道120巷11弄1號",
+  "location": {
+    "latitude": 25.0328895,
+    "longitude": 121.50237220000001
+  },
+  "rating": 4.8,
+  "userRatingCount": 409,
+  "displayName": {
+    "text": "雲水食堂|2025台北國際牛肉麵金牌獎|臺北牛肉麵推薦|萬華牛肉麵推薦|臺北美食推薦|萬華美食推薦|艋舺美食推薦",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJF50nBQCpQjQRRgV92GsnEqA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pVMWNuZzJSa1pGZDBGWE9XdHdXVmhDZVdGak1GRRAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 5,
+      "text": {
+        "text": "好吃的紅燒牛肉麵，特色二條粗大牛腱肉燉煮到極度軟嫩、搭配硬彈口麵條以及微辣紅燒湯頭協調性很好。\n\n還能進步的是湯頭比較多醬香，中藥香料味較弱。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "好吃的紅燒牛肉麵，特色二條粗大牛腱肉燉煮到極度軟嫩、搭配硬彈口麵條以及微辣紅燒湯頭協調性很好。\n\n還能進步的是湯頭比較多醬香，中藥香料味較弱。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jacko Huang",
+        "uri": "https://www.google.com/maps/contrib/111167920255477002036/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIkd2ChP2A5Fc1SyV4ViMuExevxWtrOmchiUikxCW2OgXh8Jg=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-02-24T10:01:50.335587482Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pVMWNuZzJSa1pGZDBGWE9XdHdXVmhDZVdGak1GRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pVMWNuZzJSa1pGZDBGWE9XdHdXVmhDZVdGak1GRRAB!2m1!1s0x3442a90005279d17:0xa012276bd87d0546"
+    },
+    {
+      "name": "places/ChIJF50nBQCpQjQRRgV92GsnEqA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkd09XTmZOM3B6V0VwVVRqSnpjM2RmZW01U1VWRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "紅燒牛肉麵很不錯，湯頭鮮美，沒有豆瓣醬奇怪的味道\n麵條雖然是陽春麵，但煮的剛剛好，口感剛剛好\n牛肉軟嫩入味，給的也大塊\n附餐的糖心蛋跟干絲都非常好吃\n不過價錢真的是不便宜，\n就算是當成點一碗麵加兩個小菜還是覺得小貴\n有點可惜就是...",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "紅燒牛肉麵很不錯，湯頭鮮美，沒有豆瓣醬奇怪的味道\n麵條雖然是陽春麵，但煮的剛剛好，口感剛剛好\n牛肉軟嫩入味，給的也大塊\n附餐的糖心蛋跟干絲都非常好吃\n不過價錢真的是不便宜，\n就算是當成點一碗麵加兩個小菜還是覺得小貴\n有點可惜就是...",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "地獄貓",
+        "uri": "https://www.google.com/maps/contrib/108270410785560756702/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV_2ppqWLcLoXtpRVJmhKiAAumDYp2cDsciduS_6ljdzJZJy6va=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-30T10:00:32.351831424Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkd09XTmZOM3B6V0VwVVRqSnpjM2RmZW01U1VWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkd09XTmZOM3B6V0VwVVRqSnpjM2RmZW01U1VWRRAB!2m1!1s0x3442a90005279d17:0xa012276bd87d0546"
+    },
+    {
+      "name": "places/ChIJF50nBQCpQjQRRgV92GsnEqA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tseVRGcDBZVEZ1TTBaQmJrZG5RUzFmT1RObVowRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "開幕時就來吃過，肉超級軟嫩，牙套妹我也能大口吃肉~回家後齒頰留香回味不已；我家女孩兒晚上睡覺做夢還夢到大口吃牛肉麵，睡醒跟我說好想再吃喔~\n好不容易今天又找到時間，忙碌的日子、冷冷的天，真的好想吃“牛肉湯餃”，於是我們又來了！！！\n咬了一口，媽啊~真的是“夢中情餃”耶！！！\n牛肉餃超扎實，一口咬下，肉汁噴出來~搭配紅燒牛肉湯，天阿~這會再度夢見大口吃湯餃啦！！！\n小菜每一項都非常可口，調味超適合搭配微微辣的紅燒牛肉湯~通通吃完一點都不想留下來~\n好吧！我說的再多都不及你來吃吃看~快來~",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "開幕時就來吃過，肉超級軟嫩，牙套妹我也能大口吃肉~回家後齒頰留香回味不已；我家女孩兒晚上睡覺做夢還夢到大口吃牛肉麵，睡醒跟我說好想再吃喔~\n好不容易今天又找到時間，忙碌的日子、冷冷的天，真的好想吃“牛肉湯餃”，於是我們又來了！！！\n咬了一口，媽啊~真的是“夢中情餃”耶！！！\n牛肉餃超扎實，一口咬下，肉汁噴出來~搭配紅燒牛肉湯，天阿~這會再度夢見大口吃湯餃啦！！！\n小菜每一項都非常可口，調味超適合搭配微微辣的紅燒牛肉湯~通通吃完一點都不想留下來~\n好吧！我說的再多都不及你來吃吃看~快來~",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "奕小靜（奕小靜）",
+        "uri": "https://www.google.com/maps/contrib/114232664816379338607/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVQ0-N0iGmUHhwIVwwrTkqgCyaDRtv64Dy9x1V1txAtcJ5Q2x_k=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-10T10:51:12.337950225Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tseVRGcDBZVEZ1TTBaQmJrZG5RUzFmT1RObVowRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tseVRGcDBZVEZ1TTBaQmJrZG5RUzFmT1RObVowRRAB!2m1!1s0x3442a90005279d17:0xa012276bd87d0546"
+    },
+    {
+      "name": "places/ChIJF50nBQCpQjQRRgV92GsnEqA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GTmNGbFZSbEZmUlhSQ01FeGxXV1pvVlROR1ozYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "位於萬華火車站附近店家美食，這次點了皮蛋麵套餐、溏心蛋、紅油鮮蝦餛飩、小菜⋯⋯，麵體滑順有嚼勁滿滿的皮蛋香～真好吃，鮮蝦餛飩很飽滿加上特調醬汁～味道口感層次很豐富，老板人也很客氣，還分享了烏龍清茶～順口好喝👍⋯⋯期待下次再來品嚐沒點的美食^_^～哈",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "位於萬華火車站附近店家美食，這次點了皮蛋麵套餐、溏心蛋、紅油鮮蝦餛飩、小菜⋯⋯，麵體滑順有嚼勁滿滿的皮蛋香～真好吃，鮮蝦餛飩很飽滿加上特調醬汁～味道口感層次很豐富，老板人也很客氣，還分享了烏龍清茶～順口好喝👍⋯⋯期待下次再來品嚐沒點的美食^_^～哈",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "JAY JAY",
+        "uri": "https://www.google.com/maps/contrib/115763096580919453666/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLiDiX96uUiubC5KAn9lwUuSrfFW_GOJ4DT3fO075CkG_EEaw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-09-19T05:41:40.107062695Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GTmNGbFZSbEZmUlhSQ01FeGxXV1pvVlROR1ozYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GTmNGbFZSbEZmUlhSQ01FeGxXV1pvVlROR1ozYxAB!2m1!1s0x3442a90005279d17:0xa012276bd87d0546"
+    },
+    {
+      "name": "places/ChIJF50nBQCpQjQRRgV92GsnEqA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWMVVEaFllRFIxYjJZeWNFMDRjbUpOVjI1NGIyYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "牛肉麵半筋半肉超喜愛吃的，皮蛋麵也超好吃很喜歡。位於萬華火車站附近走路3～5分鐘很方便。吃飽後可以到附近走走散散步，到龍山寺拜拜逛逛，有台灣三大寺廟之一很有名，還有剝皮寮文創區也有很多可以逛逛。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "牛肉麵半筋半肉超喜愛吃的，皮蛋麵也超好吃很喜歡。位於萬華火車站附近走路3～5分鐘很方便。吃飽後可以到附近走走散散步，到龍山寺拜拜逛逛，有台灣三大寺廟之一很有名，還有剝皮寮文創區也有很多可以逛逛。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "賴Eric Luf",
+        "uri": "https://www.google.com/maps/contrib/107517945171885423854/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVStBVBPVK1W1mfdr7Ow7sMGnNsBNN8fFsTRFOalXT_75xukFVN=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-23T04:20:58.754864157Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWMVVEaFllRFIxYjJZeWNFMDRjbUpOVjI1NGIyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWMVVEaFllRFIxYjJZeWNFMDRjbUpOVjI1NGIyYxAB!2m1!1s0x3442a90005279d17:0xa012276bd87d0546"
+    }
+  ]
+}

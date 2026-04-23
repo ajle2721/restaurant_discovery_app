@@ -1,0 +1,25 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "UNKNOWN",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "最令人滿意的是空間寬敞",
+                             "confidence":  0.8
+                         },
+    "Kids menu available":  {
+                                "result":  "Yes",
+                                "evidence":  "有沙拉、義大利麵、燉飯、排餐、兒童餐",
+                                "confidence":  0.8
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Unknown",
+                               "evidence":  null,
+                               "confidence":  0.4
+                           },
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "中",
+    "reason":  "有兒童餐、空間寬敞"
+}

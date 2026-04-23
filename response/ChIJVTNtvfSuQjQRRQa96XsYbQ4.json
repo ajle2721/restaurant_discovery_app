@@ -1,0 +1,109 @@
+{
+  "id": "ChIJVTNtvfSuQjQRRQa96XsYbQ4",
+  "types": [
+    "seafood_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2820 4658",
+  "formattedAddress": "112台灣臺北市北投區東華街二段114號",
+  "location": {
+    "latitude": 25.1187792,
+    "longitude": 121.5129538
+  },
+  "rating": 4,
+  "websiteUri": "https://www.facebook.com/cyclamen.restaurant/",
+  "userRatingCount": 2354,
+  "displayName": {
+    "text": "仙客來海鮮庭園餐廳",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJVTNtvfSuQjQRRQa96XsYbQ4/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SaE1GUjJOVVJmV2pCUVN6WndjSGt5V2pGSVdsRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "好吃，店員服務好又客氣，要先訂位，菜的份量還好，有些有點少，有點小盤，白飯可以一直吃，蠻重口味的",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "好吃，店員服務好又客氣，要先訂位，菜的份量還好，有些有點少，有點小盤，白飯可以一直吃，蠻重口味的",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "泡菜",
+        "uri": "https://www.google.com/maps/contrib/107981647681154521053/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYvPitIlGjLputjpqO89i7HAFghqs21rHyeo-BGLXZWgDy_vu_rg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-08-10T09:11:26.388467791Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SaE1GUjJOVVJmV2pCUVN6WndjSGt5V2pGSVdsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SaE1GUjJOVVJmV2pCUVN6WndjSGt5V2pGSVdsRRAB!2m1!1s0x3442aef4bd6d3355:0xe6d187be9bd0645"
+    },
+    {
+      "name": "places/ChIJVTNtvfSuQjQRRQa96XsYbQ4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pVMk5GUTNZakIxWm5KellVMHdaMHBGTjFjdFpsRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 3,
+      "text": {
+        "text": "相比前幾年漲價不少，在物價上漲的時代這點是完全可以接受，但無法理解為什麼份量變少，糖醋排骨根本沒幾塊\n點了何首烏雞湯(680)裡面的雞肉也很少，紅棗超硬\n泰式椒麻雞腿一份超過200，卻只有一塊好市多雞腿排去炸過切塊\n很多餐點的份量都偏小\n唯一比較足的是脆皮大腸\n飯還是可延續，雖然有點乾硬，18天啤酒價格是110",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "相比前幾年漲價不少，在物價上漲的時代這點是完全可以接受，但無法理解為什麼份量變少，糖醋排骨根本沒幾塊\n點了何首烏雞湯(680)裡面的雞肉也很少，紅棗超硬\n泰式椒麻雞腿一份超過200，卻只有一塊好市多雞腿排去炸過切塊\n很多餐點的份量都偏小\n唯一比較足的是脆皮大腸\n飯還是可延續，雖然有點乾硬，18天啤酒價格是110",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Paul Jean",
+        "uri": "https://www.google.com/maps/contrib/106703824795380927316/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVEf-r0makoFNAUjbx-L-AMPoIaZLepbG-M1Rg0xWbJH3U9BRgdDg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-05T23:59:12.290718902Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pVMk5GUTNZakIxWm5KellVMHdaMHBGTjFjdFpsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pVMk5GUTNZakIxWm5KellVMHdaMHBGTjFjdFpsRRAB!2m1!1s0x3442aef4bd6d3355:0xe6d187be9bd0645"
+    },
+    {
+      "name": "places/ChIJVTNtvfSuQjQRRQa96XsYbQ4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WaGFuRnNRV3hpYlU1UGRXUXpSbEJ0Um0xa1NHYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "老字號的熱炒店\n屹立不搖多年\n口味一定不錯\n從年輕吃到老\n沒一樣都不錯\n快炒用豬油 香氣才夠\n今天水蓮比較有土味 唯一的小缺點\n但其他品項都很好吃\n雞肉 牛肉都很棒\n白飯無限自取\n香菇雞湯意外好喝\n得到小朋友的肯定",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "老字號的熱炒店\n屹立不搖多年\n口味一定不錯\n從年輕吃到老\n沒一樣都不錯\n快炒用豬油 香氣才夠\n今天水蓮比較有土味 唯一的小缺點\n但其他品項都很好吃\n雞肉 牛肉都很棒\n白飯無限自取\n香菇雞湯意外好喝\n得到小朋友的肯定",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "鄭瑜",
+        "uri": "https://www.google.com/maps/contrib/106739249998692345774/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKYoa4njyUAmQlcoc3SCUwLl0muhCdbi9yn4zhuAdYgslMznA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-06-28T09:03:06.935706470Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WaGFuRnNRV3hpYlU1UGRXUXpSbEJ0Um0xa1NHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WaGFuRnNRV3hpYlU1UGRXUXpSbEJ0Um0xa1NHYxAB!2m1!1s0x3442aef4bd6d3355:0xe6d187be9bd0645"
+    },
+    {
+      "name": "places/ChIJVTNtvfSuQjQRRQa96XsYbQ4/reviews/Ci9DQUlRQUNvZENodHljRjlvT21jMlNYQmpiRlJRV0hsU1VIVkNkVEZVVVdGMk9WRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 1,
+      "text": {
+        "text": "我家就住旁邊 但熱炒我會去別的地方吃\n\n份量很少就算了，一盤三杯雞 2/3是皮和骨頭，我得假裝把皮和骨頭啃得津津有味，才能讓同行的弟弟以為我有吃肉，他能安心的夾肉吃。宮保雞丁情況一樣。\n\n客家小炒也又少又沒什麼東西可以吃。\n\n我們去的那天飯是沒煮熟的….😒",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "我家就住旁邊 但熱炒我會去別的地方吃\n\n份量很少就算了，一盤三杯雞 2/3是皮和骨頭，我得假裝把皮和骨頭啃得津津有味，才能讓同行的弟弟以為我有吃肉，他能安心的夾肉吃。宮保雞丁情況一樣。\n\n客家小炒也又少又沒什麼東西可以吃。\n\n我們去的那天飯是沒煮熟的….😒",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yeh Phoebe",
+        "uri": "https://www.google.com/maps/contrib/109452631962311713544/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXK0w5lVc6EaEjZxAQuhQNW6QWmNpBiyh9_ObeCUUVOAJ1eZ5Z1=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-14T19:17:57.494062301Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21jMlNYQmpiRlJRV0hsU1VIVkNkVEZVVVdGMk9WRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21jMlNYQmpiRlJRV0hsU1VIVkNkVEZVVVdGMk9WRRAB!2m1!1s0x3442aef4bd6d3355:0xe6d187be9bd0645"
+    }
+  ]
+}

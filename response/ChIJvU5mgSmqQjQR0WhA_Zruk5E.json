@@ -1,0 +1,130 @@
+{
+  "id": "ChIJvU5mgSmqQjQR0WhA_Zruk5E",
+  "types": [
+    "american_restaurant",
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2700 1680",
+  "formattedAddress": "106台灣臺北市大安區瑞安街145號",
+  "location": {
+    "latitude": 25.0265894,
+    "longitude": 121.5396576
+  },
+  "rating": 4.3,
+  "userRatingCount": 4188,
+  "displayName": {
+    "text": "樂子the Diner 瑞安店（台北大安區必吃特色早午餐 / 台北好吃聚餐餐廳推薦 / 大安森林公園附近美食／大安區寵物友善餐廳）",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJvU5mgSmqQjQR0WhA_Zruk5E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1SmRVNUhZUzFGVVMxQmVVNVpUa3RDWkhjNE5sRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "沙拉好吃！酪梨香氣十足；洋蔥圈外酥內軟，搭配兩種醬提供不同的口感；義大利麵中規中矩，燉飯松露味道不明顯，有點可惜，但整體的體驗還是好的。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "沙拉好吃！酪梨香氣十足；洋蔥圈外酥內軟，搭配兩種醬提供不同的口感；義大利麵中規中矩，燉飯松露味道不明顯，有點可惜，但整體的體驗還是好的。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Emily Lin",
+        "uri": "https://www.google.com/maps/contrib/115077253079047615146/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXSX8CjZRj3fo3HcRre3LXkgYx4hjlQhuZ66HHgFrfQcqMLwoZL=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-29T12:24:29.196711466Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1SmRVNUhZUzFGVVMxQmVVNVpUa3RDWkhjNE5sRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1SmRVNUhZUzFGVVMxQmVVNVpUa3RDWkhjNE5sRRAB!2m1!1s0x3442aa2981664ebd:0x9193ee9afd4068d1"
+    },
+    {
+      "name": "places/ChIJvU5mgSmqQjQR0WhA_Zruk5E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGSVkybEpOVTQ1ZG5GYU1VMUhPWFpyVkVWWVEyYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "口袋餐廳N次回訪，環境乾淨舒適，氣氛放鬆又不失質感，讓人一坐下來就覺得心情很好。服務人員態度非常友善，從入座到點餐都相當貼心，速度也很快。\n\n每一道料理都讓人驚喜：\n\n食材新鮮，味道很有層次不會過重。\n\n份量剛好，吃起來不會負擔又很滿足。\n\n特別喜歡 香菜堡 布朗尼冰淇淋 酪梨超人，味道真的好到必點！\n\n餐點品質、環境與服務都讓人覺得物超所值。已經開始期待下次再訪",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "口袋餐廳N次回訪，環境乾淨舒適，氣氛放鬆又不失質感，讓人一坐下來就覺得心情很好。服務人員態度非常友善，從入座到點餐都相當貼心，速度也很快。\n\n每一道料理都讓人驚喜：\n\n食材新鮮，味道很有層次不會過重。\n\n份量剛好，吃起來不會負擔又很滿足。\n\n特別喜歡 香菜堡 布朗尼冰淇淋 酪梨超人，味道真的好到必點！\n\n餐點品質、環境與服務都讓人覺得物超所值。已經開始期待下次再訪",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃一勳",
+        "uri": "https://www.google.com/maps/contrib/105560043489091958007/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIjToGjmgnyd0o6iOJlRhMCJwANdaM65ypR6djb6g2lCp0ywA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-12-11T02:42:18.604217212Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGSVkybEpOVTQ1ZG5GYU1VMUhPWFpyVkVWWVEyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGSVkybEpOVTQ1ZG5GYU1VMUhPWFpyVkVWWVEyYxAB!2m1!1s0x3442aa2981664ebd:0x9193ee9afd4068d1"
+    },
+    {
+      "name": "places/ChIJvU5mgSmqQjQR0WhA_Zruk5E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xRNWFITnRSazVCY21KZlRucHNUa1pSVlRaYWNWRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "服務5星：\n不論訂位、送餐或桌邊服務都有高品質，忘拿桌上的保溫瓶，男服務員在門外以大動作，讓人很難忽略的方式，尋找我們，騎機車經過看到，這種溫暖體貼的服務，走到哪裡都會成功吧！\n\n松露蘑菇漢堡3.5星\n漢堡麵包可換成生菜，非常加分。加點的蔬食還算豐富可口。\n\n松露菇菇燉飯3星\n點完後，不到3分端上，溫溫的，米心沒保留硬度，整粒米飯熟透，台灣口味吧。菇菇一樣豐富多樣好吃，但松露味不濃厚。偶爾會聞到淡淡松露味啦！\n可惜燉飯的飯粒像電鍋保溫拿出來的。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "服務5星：\n不論訂位、送餐或桌邊服務都有高品質，忘拿桌上的保溫瓶，男服務員在門外以大動作，讓人很難忽略的方式，尋找我們，騎機車經過看到，這種溫暖體貼的服務，走到哪裡都會成功吧！\n\n松露蘑菇漢堡3.5星\n漢堡麵包可換成生菜，非常加分。加點的蔬食還算豐富可口。\n\n松露菇菇燉飯3星\n點完後，不到3分端上，溫溫的，米心沒保留硬度，整粒米飯熟透，台灣口味吧。菇菇一樣豐富多樣好吃，但松露味不濃厚。偶爾會聞到淡淡松露味啦！\n可惜燉飯的飯粒像電鍋保溫拿出來的。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "linger",
+        "uri": "https://www.google.com/maps/contrib/111374809221777530640/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8x4IcLHgYdPyS0Pb--jBAjFQrx1ogO49_vNSAfwzBq9vdIVFZvw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-11-29T09:18:12.687084950Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xRNWFITnRSazVCY21KZlRucHNUa1pSVlRaYWNWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xRNWFITnRSazVCY21KZlRucHNUa1pSVlRaYWNWRRAB!2m1!1s0x3442aa2981664ebd:0x9193ee9afd4068d1"
+    },
+    {
+      "name": "places/ChIJvU5mgSmqQjQR0WhA_Zruk5E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w4NVdHMHRTbGMyYjFOMFdDMVJaR2xZVnkwMGVFRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "樂子瑞安店。\n在車水馬龍的台北街頭，總有個角落能讓你放慢腳步，那就是位於大安區的樂子瑞安店。\n樂子不只是一間餐廳，它更像一個承載著無數美好時光的小天地。當你踏入店內，暖色調的燈光、帶著美式懷舊感的裝潢，以及空氣中瀰漫的咖啡與現做餐點的香氣，瞬間就能讓你感受到一股溫馨且放鬆的氣氛。這裡沒有都市的喧囂，只有輕柔的背景音樂和人們愉快的交談聲。\n樂子，那份份量十足、真材實料的美式早午餐。無論是堆滿炒蛋、香腸、培根的「班尼迪克蛋」，還是淋上楓糖漿、口感鬆軟的「法式吐司」，每一道都充滿經典的美式風味，讓你一早就能活力滿滿。\n但樂子的美味不僅限於早午餐。他們家的「漢堡」也絕對值得一試。厚實多汁的漢堡排、搭配新鮮生菜和濃郁起司，每一口都是大大的滿足。此外，還有各式沙拉、開胃菜，以及特調飲品，從早到晚，都能滿足你對美味的所有想像。自在愜意的用餐體驗樂子瑞安店的環境氛圍，是它最大的魅力之一。這裡的座位配置寬敞舒適，無論是和朋友家人聚餐，或是獨自一人享受片刻寧靜，都能找到最適合你的角落。\n服務人員的親切與專業，也為整體用餐體驗大大加分。他們總是帶著微笑，細心介紹菜色，並在你需要時給予協助，讓你感到備受照顧。在這裡用餐，你是在享受一種悠閒、自在的生活態度。\n大家有空不妨來樂子瑞安店，安排一場美食饗宴，感受專屬於你的快樂吧！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "樂子瑞安店。\n在車水馬龍的台北街頭，總有個角落能讓你放慢腳步，那就是位於大安區的樂子瑞安店。\n樂子不只是一間餐廳，它更像一個承載著無數美好時光的小天地。當你踏入店內，暖色調的燈光、帶著美式懷舊感的裝潢，以及空氣中瀰漫的咖啡與現做餐點的香氣，瞬間就能讓你感受到一股溫馨且放鬆的氣氛。這裡沒有都市的喧囂，只有輕柔的背景音樂和人們愉快的交談聲。\n樂子，那份份量十足、真材實料的美式早午餐。無論是堆滿炒蛋、香腸、培根的「班尼迪克蛋」，還是淋上楓糖漿、口感鬆軟的「法式吐司」，每一道都充滿經典的美式風味，讓你一早就能活力滿滿。\n但樂子的美味不僅限於早午餐。他們家的「漢堡」也絕對值得一試。厚實多汁的漢堡排、搭配新鮮生菜和濃郁起司，每一口都是大大的滿足。此外，還有各式沙拉、開胃菜，以及特調飲品，從早到晚，都能滿足你對美味的所有想像。自在愜意的用餐體驗樂子瑞安店的環境氛圍，是它最大的魅力之一。這裡的座位配置寬敞舒適，無論是和朋友家人聚餐，或是獨自一人享受片刻寧靜，都能找到最適合你的角落。\n服務人員的親切與專業，也為整體用餐體驗大大加分。他們總是帶著微笑，細心介紹菜色，並在你需要時給予協助，讓你感到備受照顧。在這裡用餐，你是在享受一種悠閒、自在的生活態度。\n大家有空不妨來樂子瑞安店，安排一場美食饗宴，感受專屬於你的快樂吧！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "邱仲彥Robert Chiu",
+        "uri": "https://www.google.com/maps/contrib/110145736231004354082/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXuLWCXBIQSTvVL4Vq8Eby_MBcMLWhk6Xc42r3n2EEiIS-3TbXC=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-30T10:08:18.226531490Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w4NVdHMHRTbGMyYjFOMFdDMVJaR2xZVnkwMGVFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w4NVdHMHRTbGMyYjFOMFdDMVJaR2xZVnkwMGVFRRAB!2m1!1s0x3442aa2981664ebd:0x9193ee9afd4068d1"
+    },
+    {
+      "name": "places/ChIJvU5mgSmqQjQR0WhA_Zruk5E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSWllXVnpSVkZuVUd4RU9GOUZOMXB3UmtOUGJVRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "是好吃😋\n可能當天太冷了⋯⋯又或許聊天聊太久\n覺得食物不夠熱😂",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "是好吃😋\n可能當天太冷了⋯⋯又或許聊天聊太久\n覺得食物不夠熱😂",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "ZHENZHEN FU",
+        "uri": "https://www.google.com/maps/contrib/101646171807839681372/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX1CSXNaOGczT0HDW5_Ef_AHydjW2KdmJFImiZ-0rhrbyH2CBY=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-03T02:30:54.918168871Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSWllXVnpSVkZuVUd4RU9GOUZOMXB3UmtOUGJVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSWllXVnpSVkZuVUd4RU9GOUZOMXB3UmtOUGJVRRAB!2m1!1s0x3442aa2981664ebd:0x9193ee9afd4068d1"
+    }
+  ]
+}

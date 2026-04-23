@@ -1,0 +1,129 @@
+{
+  "id": "ChIJ1aZy0q6pQjQRwBhj14mvCbo",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2336 1129",
+  "formattedAddress": "108台灣臺北市萬華區西園路一段194號",
+  "location": {
+    "latitude": 25.0361421,
+    "longitude": 121.49923030000001
+  },
+  "rating": 4.1,
+  "websiteUri": "https://linktr.ee/liangxihao",
+  "userRatingCount": 4642,
+  "displayName": {
+    "text": "兩喜號 Liang Xi Hao - 西園店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ1aZy0q6pQjQRwBhj14mvCbo/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xcVdWTmFMVWQzTTJkc2NsVnVRVTlpTWxFMlRYYxAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 5,
+      "text": {
+        "text": "炒米粉好吃，米粉會Q彈，\n羹湯蠻好喝的味道夠，\n可以選不同羹湯或是綜合，\n還有一些炸物可以點來配。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "炒米粉好吃，米粉會Q彈，\n羹湯蠻好喝的味道夠，\n可以選不同羹湯或是綜合，\n還有一些炸物可以點來配。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "N",
+        "uri": "https://www.google.com/maps/contrib/105934143388737625665/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVrAfgLdI7g67PS9yJpEfNsIFvjnP3Tcq0Mhtacm_e4Y8DCtJo=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-02-24T09:54:21.825811464Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xcVdWTmFMVWQzTTJkc2NsVnVRVTlpTWxFMlRYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xcVdWTmFMVWQzTTJkc2NsVnVRVTlpTWxFMlRYYxAB!2m1!1s0x3442a9aed272a6d5:0xba09af89d76318c0"
+    },
+    {
+      "name": "places/ChIJ1aZy0q6pQjQRwBhj14mvCbo/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sQmFraEpWR3gxVTBkYU5sOWtjMkpuUm01cFZXYxAB",
+      "relativePublishTimeDescription": "4 週前",
+      "rating": 5,
+      "text": {
+        "text": "經過店門無數次的店家從未進去用餐，直覺裡是賣觀光客，貴且吃氣味的懷舊網紅店所以一直沒列入名單。今天決定試試這百年老店，我的直覺對了一半，的確是品味居多，份量絕對不是吃粗飽的地方，是貴了一點但不至於太誇張，可以接受。餐點好吃，口味略重，老店可以理解，下次再試試其它品項。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "經過店門無數次的店家從未進去用餐，直覺裡是賣觀光客，貴且吃氣味的懷舊網紅店所以一直沒列入名單。今天決定試試這百年老店，我的直覺對了一半，的確是品味居多，份量絕對不是吃粗飽的地方，是貴了一點但不至於太誇張，可以接受。餐點好吃，口味略重，老店可以理解，下次再試試其它品項。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "eric chen",
+        "uri": "https://www.google.com/maps/contrib/101923785599209488661/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKTtu76wyy_cHruC4ZgJwXHYqCCUeZJkFWIdwdfLolvqF0Q5w=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-21T10:24:01.088688138Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sQmFraEpWR3gxVTBkYU5sOWtjMkpuUm01cFZXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sQmFraEpWR3gxVTBkYU5sOWtjMkpuUm01cFZXYxAB!2m1!1s0x3442a9aed272a6d5:0xba09af89d76318c0"
+    },
+    {
+      "name": "places/ChIJ1aZy0q6pQjQRwBhj14mvCbo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCaVlWaHNSRU4zZVZsSmRrbFdZa0p2YTI1alZsRRAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 4,
+      "text": {
+        "text": "新式裝潢，古早風味，富有歷史的傳統老店，客人絡繹不絕；使用免洗餐具，雖然方便，卻覺著跟店內的風格不甚搭配。可惜可惜。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "新式裝潢，古早風味，富有歷史的傳統老店，客人絡繹不絕；使用免洗餐具，雖然方便，卻覺著跟店內的風格不甚搭配。可惜可惜。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hsueh Bruce",
+        "uri": "https://www.google.com/maps/contrib/118088146948852124013/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXFCPoF9q9SP2sf_2CFd6EjHkbrNJB7BxLP8wsXYDv5k7sxiEo=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-03-02T11:23:58.305662225Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCaVlWaHNSRU4zZVZsSmRrbFdZa0p2YTI1alZsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCaVlWaHNSRU4zZVZsSmRrbFdZa0p2YTI1alZsRRAB!2m1!1s0x3442a9aed272a6d5:0xba09af89d76318c0"
+    },
+    {
+      "name": "places/ChIJ1aZy0q6pQjQRwBhj14mvCbo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GVWVFaHBOMlkyTUVVMlJGZDNlSEpITTI1T1dYYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "前幾天看了電視介紹，休假來台北就順便跑來吃吃看。點了綜合羹湯、炒米粉、魯肉飯、酥炸赤肉塊、牛蒡天婦羅。\n魯肉飯跟炒米粉都很好吃，味道是我喜歡的口味！綜合羹湯，裡面的料還算不錯，料多紮實。但湯頭口味部分還好，有加了醋點綴一下，提昇口感。炸物比較喜愛牛蒡天婦羅，但炸物跟羹湯，都微溫而已，湯不燙口還ok。但炸物微溫，口感就比較沒那麼好就是了。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "前幾天看了電視介紹，休假來台北就順便跑來吃吃看。點了綜合羹湯、炒米粉、魯肉飯、酥炸赤肉塊、牛蒡天婦羅。\n魯肉飯跟炒米粉都很好吃，味道是我喜歡的口味！綜合羹湯，裡面的料還算不錯，料多紮實。但湯頭口味部分還好，有加了醋點綴一下，提昇口感。炸物比較喜愛牛蒡天婦羅，但炸物跟羹湯，都微溫而已，湯不燙口還ok。但炸物微溫，口感就比較沒那麼好就是了。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ronald Lee",
+        "uri": "https://www.google.com/maps/contrib/107125643047863333764/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIYOw88xMBJsFUxIt6aFX8eQZ5Yzh8lpnYK4ke6TDKmM-hg5w=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-11T08:06:52.568502280Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GVWVFaHBOMlkyTUVVMlJGZDNlSEpITTI1T1dYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GVWVFaHBOMlkyTUVVMlJGZDNlSEpITTI1T1dYYxAB!2m1!1s0x3442a9aed272a6d5:0xba09af89d76318c0"
+    },
+    {
+      "name": "places/ChIJ1aZy0q6pQjQRwBhj14mvCbo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GNGJrVnRYMGhyYTJwQlUxcEZSMEpFZDA5dWJsRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "內用時可透過手機座位桌上的QR code掃描點餐，並可支援線上以信用卡或電子支付（全支付）直接結帳。若想採用現金支付，必須填寫紙本菜單進行點餐後，再到櫃檯先行結帳。\n油豆腐沒有入味，綜合羹中的魷魚沒什麼味道，適合喜歡清淡口味的顧客。綜合羹的湯碗裡有第一籤、“大吉”二字~",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "內用時可透過手機座位桌上的QR code掃描點餐，並可支援線上以信用卡或電子支付（全支付）直接結帳。若想採用現金支付，必須填寫紙本菜單進行點餐後，再到櫃檯先行結帳。\n油豆腐沒有入味，綜合羹中的魷魚沒什麼味道，適合喜歡清淡口味的顧客。綜合羹的湯碗裡有第一籤、“大吉”二字~",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "ANDY LIAO",
+        "uri": "https://www.google.com/maps/contrib/100601260647145060109/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU21Pw6GlmIzrF48Acchq5Ii_0OSfpRMNTmwfXlZqf_pmILWQ3g=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-12-24T12:43:52.279543530Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GNGJrVnRYMGhyYTJwQlUxcEZSMEpFZDA5dWJsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GNGJrVnRYMGhyYTJwQlUxcEZSMEpFZDA5dWJsRRAB!2m1!1s0x3442a9aed272a6d5:0xba09af89d76318c0"
+    }
+  ]
+}

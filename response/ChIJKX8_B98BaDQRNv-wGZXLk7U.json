@@ -1,0 +1,131 @@
+{
+  "id": "ChIJKX8_B98BaDQRNv-wGZXLk7U",
+  "types": [
+    "german_restaurant",
+    "european_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2234 5611",
+  "formattedAddress": "116台灣臺北市文山區木新路三段97號",
+  "location": {
+    "latitude": 24.981944400000003,
+    "longitude": 121.56277779999999
+  },
+  "rating": 4.5,
+  "websiteUri": "https://www.facebook.com/GretasDeYiShiOuShiMeiShiWu/",
+  "userRatingCount": 855,
+  "displayName": {
+    "text": "德意事歐式美食屋",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJKX8_B98BaDQRNv-wGZXLk7U/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCcVpXTkVjblU1TTJKaWRrMU5SV0ZuZEd4SVYxRRAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 4,
+      "text": {
+        "text": "分量十足又不失精緻感。牛排熟度掌握得宜，肉質鮮嫩多汁，搭配特製醬汁更是令人回味無窮。無論是經典的牛排干貝套餐還是其他特色餐點，價格都非常合理，展現出「物超所值」的魅力。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "分量十足又不失精緻感。牛排熟度掌握得宜，肉質鮮嫩多汁，搭配特製醬汁更是令人回味無窮。無論是經典的牛排干貝套餐還是其他特色餐點，價格都非常合理，展現出「物超所值」的魅力。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃旺旺",
+        "uri": "https://www.google.com/maps/contrib/108310168225152683806/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWAkdDhTp9NHBDX2QtQEiYE3J0nzgaE9-lR1NdvAu5rBlSz1NU=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-03-01T03:00:44.922831685Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCcVpXTkVjblU1TTJKaWRrMU5SV0ZuZEd4SVYxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCcVpXTkVjblU1TTJKaWRrMU5SV0ZuZEd4SVYxRRAB!2m1!1s0x346801df073f7f29:0xb593cb9519b0ff36"
+    },
+    {
+      "name": "places/ChIJKX8_B98BaDQRNv-wGZXLk7U/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WWWVGRkZaMll5VkRsSGRqQjBYMHhVUkVOd1dGRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 3,
+      "text": {
+        "text": "今天8/28晚餐，我們提早幾天，預訂了13份餐點，可是燉飯跟義大利麵出餐比其他排餐晚了30～40分鐘，建議貴店如果出餐時間有那麼大的落差，可以事先建議客人選擇速度差不多的餐點。今年2/18我也帶過家人去用餐，那次麵包籃的麵包拿起來後，發現墊在底下的餐巾紙上有一隻小小強，但外場處理還不錯，其他餐點也沒問題，所以我這次也願意帶其他家人一起去用餐。可惜主餐出來的時間落差太大，我們很多人連甜點飲料都用完了，長輩還在等義大利麵。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天8/28晚餐，我們提早幾天，預訂了13份餐點，可是燉飯跟義大利麵出餐比其他排餐晚了30～40分鐘，建議貴店如果出餐時間有那麼大的落差，可以事先建議客人選擇速度差不多的餐點。今年2/18我也帶過家人去用餐，那次麵包籃的麵包拿起來後，發現墊在底下的餐巾紙上有一隻小小強，但外場處理還不錯，其他餐點也沒問題，所以我這次也願意帶其他家人一起去用餐。可惜主餐出來的時間落差太大，我們很多人連甜點飲料都用完了，長輩還在等義大利麵。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "暗黑巧克力",
+        "uri": "https://www.google.com/maps/contrib/118059159339451927045/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL8ufqZ-2VTYMfnCzuyxcYgPykwBo-ms0JBrhCOHZw0cWPc2Q=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-08-28T13:50:36.874850702Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WWWVGRkZaMll5VkRsSGRqQjBYMHhVUkVOd1dGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WWWVGRkZaMll5VkRsSGRqQjBYMHhVUkVOd1dGRRAB!2m1!1s0x346801df073f7f29:0xb593cb9519b0ff36"
+    },
+    {
+      "name": "places/ChIJKX8_B98BaDQRNv-wGZXLk7U/reviews/Ci9DQUlRQUNvZENodHljRjlvT21rd1kzUkdaRm8xZDA5NE9VaHBjMnRvWmpndGVtYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "不便宜但是食材都是真材實料，而且每一道料理都非常好吃，第一次吃很驚艷，非常適合闔家聚餐約會。\n今天帶了蛋糕來慶生，餐後請店家幫我們拿蛋糕時，店家竟然幫我們拆開並點上蠟燭端上桌，服務也太周到了吧！這次用餐家人們都留下很好的感受，有機會會再回訪。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "不便宜但是食材都是真材實料，而且每一道料理都非常好吃，第一次吃很驚艷，非常適合闔家聚餐約會。\n今天帶了蛋糕來慶生，餐後請店家幫我們拿蛋糕時，店家竟然幫我們拆開並點上蠟燭端上桌，服務也太周到了吧！這次用餐家人們都留下很好的感受，有機會會再回訪。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "王笙",
+        "uri": "https://www.google.com/maps/contrib/109473047785156448325/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXVAUGiukzO_bbP-PBgc_m2Rc3-vd-MOZxnnGTg-Urm4aCH6p32wg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-19T13:58:28.446778148Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21rd1kzUkdaRm8xZDA5NE9VaHBjMnRvWmpndGVtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21rd1kzUkdaRm8xZDA5NE9VaHBjMnRvWmpndGVtYxAB!2m1!1s0x346801df073f7f29:0xb593cb9519b0ff36"
+    },
+    {
+      "name": "places/ChIJKX8_B98BaDQRNv-wGZXLk7U/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toQldrWjBMUzFJV1U5UGNEUXdVRmRhYjB4SWJXYxAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 5,
+      "text": {
+        "text": "今天點了白板上的 美國Prime菲力，我覺得比教父牛排還要好吃。而且金額才賣1000出頭CP值爆表。\n這是我進五年來吃過最好吃的牛排。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天點了白板上的 美國Prime菲力，我覺得比教父牛排還要好吃。而且金額才賣1000出頭CP值爆表。\n這是我進五年來吃過最好吃的牛排。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "周佳運",
+        "uri": "https://www.google.com/maps/contrib/114882364593874632322/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVOfRm-rFH5wrfvW5kGQQEykIoymB7TdY5sy8qqdZpabOSSq2JM=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-03-07T05:33:43.521105154Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toQldrWjBMUzFJV1U5UGNEUXdVRmRhYjB4SWJXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toQldrWjBMUzFJV1U5UGNEUXdVRmRhYjB4SWJXYxAB!2m1!1s0x346801df073f7f29:0xb593cb9519b0ff36"
+    },
+    {
+      "name": "places/ChIJKX8_B98BaDQRNv-wGZXLk7U/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWMlJWSkhkemt0VFhWNlVtSjVPVUZpVVhoTVVGRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "太好了吃啦！第一次吃，絕對會再訪！\n\n1）德國豬腳點了兩份，非常好吃（這個餐點需要預定，電話訂位時可以先說）\n\n2）務必打電話先訂位，我們晚餐時段去，有兩組客人都沒位置，幸好我們下午有提早打電話訂\n\n3）今天主餐吃了德國豬腳、牛排+干貝、青醬海鮮燉飯、鮮蝦義大利麵每一道都好吃 飯後甜點也很讚，四個人吃五份主食差不多剛剛好（我們一家都很愛吃）\n\n4）主食可以按照人數加點180元套餐，很超值，有麵包沙拉甜點飲料",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "太好了吃啦！第一次吃，絕對會再訪！\n\n1）德國豬腳點了兩份，非常好吃（這個餐點需要預定，電話訂位時可以先說）\n\n2）務必打電話先訂位，我們晚餐時段去，有兩組客人都沒位置，幸好我們下午有提早打電話訂\n\n3）今天主餐吃了德國豬腳、牛排+干貝、青醬海鮮燉飯、鮮蝦義大利麵每一道都好吃 飯後甜點也很讚，四個人吃五份主食差不多剛剛好（我們一家都很愛吃）\n\n4）主食可以按照人數加點180元套餐，很超值，有麵包沙拉甜點飲料",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yuki Huang",
+        "uri": "https://www.google.com/maps/contrib/103393247389665490538/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUx32E6WphoOW1kCNxAnT0oWmyqgCYG-bU33ihD7KA_yWID_F8g=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-03T16:10:45.710969543Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWMlJWSkhkemt0VFhWNlVtSjVPVUZpVVhoTVVGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWMlJWSkhkemt0VFhWNlVtSjVPVUZpVVhoTVVGRRAB!2m1!1s0x346801df073f7f29:0xb593cb9519b0ff36"
+    }
+  ]
+}

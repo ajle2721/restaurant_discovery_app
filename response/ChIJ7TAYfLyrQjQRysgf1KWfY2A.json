@@ -1,0 +1,128 @@
+{
+  "id": "ChIJ7TAYfLyrQjQRysgf1KWfY2A",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2783 6704",
+  "formattedAddress": "115台灣臺北市南港區忠孝東路七段371號地址：115B1F (環球購物中心南港店）櫃位B116",
+  "location": {
+    "latitude": 25.052895499999998,
+    "longitude": 121.6072597
+  },
+  "rating": 4.8,
+  "userRatingCount": 1601,
+  "displayName": {
+    "text": "星馬快餐 Sin Ma Express 海南雞飯 星馬料理專賣店 台北南港環球百貨店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ7TAYfLyrQjQRysgf1KWfY2A/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pJd04weERSbFZwTmpoRU5FTnVXVE5LTVd4QlJYYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "口味還OK，不過稍貴，不知道是不是新馬料理就是這樣還是怎樣，配料、肉基本都是冷的。內用+10%清潔費，有評論+IG按讚送蛋的活動。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "口味還OK，不過稍貴，不知道是不是新馬料理就是這樣還是怎樣，配料、肉基本都是冷的。內用+10%清潔費，有評論+IG按讚送蛋的活動。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "劉家瑋",
+        "uri": "https://www.google.com/maps/contrib/100697475417464337316/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW0yIZrZKM8LasnLT_sRS7PctBF2easZ54cMBFxtFwTo9Vra6lPAQ=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-10-09T12:36:22.008371248Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pJd04weERSbFZwTmpoRU5FTnVXVE5LTVd4QlJYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pJd04weERSbFZwTmpoRU5FTnVXVE5LTVd4QlJYYxAB!2m1!1s0x3442abbc7c1830ed:0x60639fa5d41fc8ca"
+    },
+    {
+      "name": "places/ChIJ7TAYfLyrQjQRysgf1KWfY2A/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWcFozaDROVmRwZEdkNWNYQndhVzA1TldSU1lVRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "整體餐點符合期待，分享量恰恰好，雞肉的口感佳，孩子也吃的開心！現在以LINE加入會員，有入會好禮！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "整體餐點符合期待，分享量恰恰好，雞肉的口感佳，孩子也吃的開心！現在以LINE加入會員，有入會好禮！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "KEVIN YUAN",
+        "uri": "https://www.google.com/maps/contrib/110258624641535545626/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUwsAEsbTI0WfMMQpjloZqS5NThZk38Sp3u0SqCWg5cp8tnZVqu9w=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-17T11:19:26.750019538Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWcFozaDROVmRwZEdkNWNYQndhVzA1TldSU1lVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWcFozaDROVmRwZEdkNWNYQndhVzA1TldSU1lVRRAB!2m1!1s0x3442abbc7c1830ed:0x60639fa5d41fc8ca"
+    },
+    {
+      "name": "places/ChIJ7TAYfLyrQjQRysgf1KWfY2A/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toeExUZFViRTlHVVhKV2VETmlSako2YTJ4V1oxRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "食物還行，飯、麵、湯可免費加量。\n\n明明是美食街店，也不是真的坐在店內，是坐在店門口的走道上，只是店員會幫忙送餐上桌，就會算是內用，要加收10%服務費。如果選擇外帶，會加收3元餐具費用，再自行帶去美食街吃，這樣就不用收10%服務費，有點微妙。\n\n加官方line會贈送3杯飲料，但一次消費只能兌換一杯，即便是多人用餐，點了多份餐點也只能換一杯，很怪的規定。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "食物還行，飯、麵、湯可免費加量。\n\n明明是美食街店，也不是真的坐在店內，是坐在店門口的走道上，只是店員會幫忙送餐上桌，就會算是內用，要加收10%服務費。如果選擇外帶，會加收3元餐具費用，再自行帶去美食街吃，這樣就不用收10%服務費，有點微妙。\n\n加官方line會贈送3杯飲料，但一次消費只能兌換一杯，即便是多人用餐，點了多份餐點也只能換一杯，很怪的規定。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lazarus Hung",
+        "uri": "https://www.google.com/maps/contrib/112644860407788506166/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWlhnPCHuudUE5LXqukBCI9fMNCpx5HEu7Q_1ycb5rmM1KJ7wRJ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-18T05:46:37.883087064Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toeExUZFViRTlHVVhKV2VETmlSako2YTJ4V1oxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toeExUZFViRTlHVVhKV2VETmlSako2YTJ4V1oxRRAB!2m1!1s0x3442abbc7c1830ed:0x60639fa5d41fc8ca"
+    },
+    {
+      "name": "places/ChIJ7TAYfLyrQjQRysgf1KWfY2A/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkVU1XZ3lhbWhMUzNadVNUTmxhRlJMWTJWMU5tYxAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 5,
+      "text": {
+        "text": "捷運1號出口走道旁的小店，要收10%清潔費，但原本的餐點費用在環球內也算低價位，重點是很好吃！！！\n海南雞的白飯跟湯可以續、叻沙的麵也可以續，加入Line好友送的三張凍檸茶原本以為就普普，結果也很好喝，不會太苦澀跟酸，生椰吐司也很好吃，不會很甜，但是有奶油的油，很好吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "捷運1號出口走道旁的小店，要收10%清潔費，但原本的餐點費用在環球內也算低價位，重點是很好吃！！！\n海南雞的白飯跟湯可以續、叻沙的麵也可以續，加入Line好友送的三張凍檸茶原本以為就普普，結果也很好喝，不會太苦澀跟酸，生椰吐司也很好吃，不會很甜，但是有奶油的油，很好吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Haifon (早安恰吉)",
+        "uri": "https://www.google.com/maps/contrib/105816911214666169596/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX4wX0asFclzgp1EFnjgL6hUpf53addIKljpHQ9I32m9dQjmeJE6Q=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-03-01T10:44:24.083981442Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkVU1XZ3lhbWhMUzNadVNUTmxhRlJMWTJWMU5tYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkVU1XZ3lhbWhMUzNadVNUTmxhRlJMWTJWMU5tYxAB!2m1!1s0x3442abbc7c1830ed:0x60639fa5d41fc8ca"
+    },
+    {
+      "name": "places/ChIJ7TAYfLyrQjQRysgf1KWfY2A/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xZeGVIUktkRnBWY0c1MVdFTlRXbTluTkVkM2JrRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "雖然要收服務費，但是員工很親切，餐點好吃，凍檸茶很大杯划算，下次還想試試其他料理~",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "雖然要收服務費，但是員工很親切，餐點好吃，凍檸茶很大杯划算，下次還想試試其他料理~",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "LE HHYIN",
+        "uri": "https://www.google.com/maps/contrib/112944547322183502707/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVlzlHRDm98o5-Zk0nvvQGJ3faGsx0jZLYMwnrRqm8MWUVB9jkDEw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-12T04:29:56.125117810Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xZeGVIUktkRnBWY0c1MVdFTlRXbTluTkVkM2JrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xZeGVIUktkRnBWY0c1MVdFTlRXbTluTkVkM2JrRRAB!2m1!1s0x3442abbc7c1830ed:0x60639fa5d41fc8ca"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": "ChIJfckxJG2pQjQR-FFgYgin6bc",
+  "types": [
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 938 253 386",
+  "formattedAddress": "103台灣臺北市大同區太原路48巷7號",
+  "location": {
+    "latitude": 25.050861599999998,
+    "longitude": 121.51494919999999
+  },
+  "rating": 4.5,
+  "websiteUri": "https://m.facebook.com/Hp983038798/",
+  "userRatingCount": 705,
+  "displayName": {
+    "text": "富春食堂 無菜單料理",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJfckxJG2pQjQR-FFgYgin6bc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxR1pqWXlZa3h3ZFMxWVNYQmllbWh1TUZSSFNHYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點好吃價格合理，在北車後面這個價格蠻感動的，鮭魚握壽司印象中這6個是270元，簡直跟路邊攤差不多價格，而且鮭魚很厚。生魚片這邊是兩份一份綜合一份鮭魚都厚切的魚。另外大推他們的免費湯，雖然老闆說是用一堆魚的邊角下去熬的，但打撈技巧好會吃的話，其實可以獲得很多額外的海魚肉，非常讚",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點好吃價格合理，在北車後面這個價格蠻感動的，鮭魚握壽司印象中這6個是270元，簡直跟路邊攤差不多價格，而且鮭魚很厚。生魚片這邊是兩份一份綜合一份鮭魚都厚切的魚。另外大推他們的免費湯，雖然老闆說是用一堆魚的邊角下去熬的，但打撈技巧好會吃的話，其實可以獲得很多額外的海魚肉，非常讚",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張瀛双",
+        "uri": "https://www.google.com/maps/contrib/109332504655408481438/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVwAo3kikRuONpasd1DBzaKGzgDF0kq3jLCknVg_DOkBQGOwT52=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-08-31T17:00:50.146400265Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxR1pqWXlZa3h3ZFMxWVNYQmllbWh1TUZSSFNHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxR1pqWXlZa3h3ZFMxWVNYQmllbWh1TUZSSFNHYxAB!2m1!1s0x3442a96d2431c97d:0xb7e9a708626051f8"
+    },
+    {
+      "name": "places/ChIJfckxJG2pQjQR-FFgYgin6bc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5R2VVVjBhRUUwVldaS1ZUTnJORUpsWVd0SlIwRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "買定時送的魚湯用料非常豐富，裡面有許多多種魚跟蘿蔔喝起來相當淺甜。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "買定時送的魚湯用料非常豐富，裡面有許多多種魚跟蘿蔔喝起來相當淺甜。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Evan Lin",
+        "uri": "https://www.google.com/maps/contrib/102788226507612905497/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWUEEkmACGkW1juHBm90TQXNdAgZAfJtwOdmVRUDYVll1nhEtYdcg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-20T04:24:57.365482414Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5R2VVVjBhRUUwVldaS1ZUTnJORUpsWVd0SlIwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5R2VVVjBhRUUwVldaS1ZUTnJORUpsWVd0SlIwRRAB!2m1!1s0x3442a96d2431c97d:0xb7e9a708626051f8"
+    },
+    {
+      "name": "places/ChIJfckxJG2pQjQR-FFgYgin6bc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tNdE9GaENia3hyVW0xdVdrbHdNelIwY1hkTlNHYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "附近的生魚片都賣完了，只好來這家試試，東西還ok而且看得到大稻埕煙火，價格稍高？ 不太確定\n$290 雞腿丼\n$350 生魚片丼",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "附近的生魚片都賣完了，只好來這家試試，東西還ok而且看得到大稻埕煙火，價格稍高？ 不太確定\n$290 雞腿丼\n$350 生魚片丼",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "an ching chung",
+        "uri": "https://www.google.com/maps/contrib/102656056304015079087/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIKZQByEHcmEdMwsVrLeUGvDSOUh5NUtsAkds3vFydJPpk1Jw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-08-30T12:10:19.011579801Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tNdE9GaENia3hyVW0xdVdrbHdNelIwY1hkTlNHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tNdE9GaENia3hyVW0xdVdrbHdNelIwY1hkTlNHYxAB!2m1!1s0x3442a96d2431c97d:0xb7e9a708626051f8"
+    },
+    {
+      "name": "places/ChIJfckxJG2pQjQR-FFgYgin6bc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOV1UxcEVhV056Y0VsZmFGOUxkWGhaZWpOdFRVRRAB",
+      "relativePublishTimeDescription": "4 週前",
+      "rating": 4,
+      "text": {
+        "text": "味增湯可以免費喝，飯有點少，生魚片很新鮮",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "味增湯可以免費喝，飯有點少，生魚片很新鮮",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "吳所謂",
+        "uri": "https://www.google.com/maps/contrib/105062829792764952383/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK-6zTlz6pmIVzwtdwrdetlcawNpGAzdqHhmYypB64A-Ha_dw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-21T12:39:44.035597001Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOV1UxcEVhV056Y0VsZmFGOUxkWGhaZWpOdFRVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOV1UxcEVhV056Y0VsZmFGOUxkWGhaZWpOdFRVRRAB!2m1!1s0x3442a96d2431c97d:0xb7e9a708626051f8"
+    },
+    {
+      "name": "places/ChIJfckxJG2pQjQR-FFgYgin6bc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oT1RtTjBlVkZYWlRaemFVaG1ObTB6U2pGQ1gyYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "生魚片吃得出來新鮮的甜。\n\n老闆跟老闆娘都很客氣\n\n我會再訪，嘗試其他食材。\n\n推薦",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "生魚片吃得出來新鮮的甜。\n\n老闆跟老闆娘都很客氣\n\n我會再訪，嘗試其他食材。\n\n推薦",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "冷董",
+        "uri": "https://www.google.com/maps/contrib/117782255052841429603/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKRgcIyoWTYR3XGJwQJPoGMLiyfqfxRC4ag82ZJFmC8EWC5sA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-10T13:28:41.562566584Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oT1RtTjBlVkZYWlRaemFVaG1ObTB6U2pGQ1gyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oT1RtTjBlVkZYWlRaemFVaG1ObTB6U2pGQ1gyYxAB!2m1!1s0x3442a96d2431c97d:0xb7e9a708626051f8"
+    }
+  ]
+}

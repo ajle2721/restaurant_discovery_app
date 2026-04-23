@@ -1,0 +1,129 @@
+{
+  "id": "ChIJdbmSOCStQjQRGvTw5PRKwo8",
+  "types": [
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 8751 5182",
+  "formattedAddress": "114台灣台北市内湖区基湖路3巷9號1樓",
+  "location": {
+    "latitude": 25.0810684,
+    "longitude": 121.56630609999999
+  },
+  "rating": 4.5,
+  "userRatingCount": 98,
+  "displayName": {
+    "text": "18冠軍牛肉麵 台北內湖店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJdbmSOCStQjQRGvTw5PRKwo8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21nME5FMUxORVY0TTFKTVgwRlZXRjg1VjBFNFgxRRAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 5,
+      "text": {
+        "text": "牛肉麵的牛肉非常軟嫩、讓我非常驚艷，湯頭好喝不死鹹❤️家常麵也是我喜歡的，很推薦，附近也有停車場，很方便前往用餐😊🍀",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "牛肉麵的牛肉非常軟嫩、讓我非常驚艷，湯頭好喝不死鹹❤️家常麵也是我喜歡的，很推薦，附近也有停車場，很方便前往用餐😊🍀",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chris Cheng",
+        "uri": "https://www.google.com/maps/contrib/116083386279795810871/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUrkrFzmoaa33evrL6uS5INijmOPXBjAlMCYPO5BI4_9o3TZkm6=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-03-07T09:44:21.551383537Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21nME5FMUxORVY0TTFKTVgwRlZXRjg1VjBFNFgxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21nME5FMUxORVY0TTFKTVgwRlZXRjg1VjBFNFgxRRAB!2m1!1s0x3442ad243892b975:0x8fc24af4e4f0f41a"
+    },
+    {
+      "name": "places/ChIJdbmSOCStQjQRGvTw5PRKwo8/reviews/Ci9DQUlRQUNvZENodHljRjlvT210Qk9ERXRUVlZoTlVwMFVFTlNPRTk2T1hVNU0zYxAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 5,
+      "text": {
+        "text": "過年時經過才發現這間店\n今天下班過去品嚐看看\n點三種牛肉麵試試看\n我們最喜歡清燉牛肉麵👍\n魯牛肚挺好吃的👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "過年時經過才發現這間店\n今天下班過去品嚐看看\n點三種牛肉麵試試看\n我們最喜歡清燉牛肉麵👍\n魯牛肚挺好吃的👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "MEI Hello",
+        "uri": "https://www.google.com/maps/contrib/103246365606621380945/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWATCJ-YaJrha-vUk3tY6QuuFXzVEDvnTs-6oh84k4QtJul1hDgUQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-25T13:35:45.067228802Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210Qk9ERXRUVlZoTlVwMFVFTlNPRTk2T1hVNU0zYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210Qk9ERXRUVlZoTlVwMFVFTlNPRTk2T1hVNU0zYxAB!2m1!1s0x3442ad243892b975:0x8fc24af4e4f0f41a"
+    },
+    {
+      "name": "places/ChIJdbmSOCStQjQRGvTw5PRKwo8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toSmNtOURMVXBJUlZwSlVFcHFja0pVVEdSdVZYYxAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 5,
+      "text": {
+        "text": "滿不錯的晚餐，紅燒湯頭鮮美，不會過鹹過油。粗麵有勁不會太軟，湯有新鮮蕃茄丁點綴，牛肉也好吃，很不錯的用餐體驗。希望牛肉份量可以多一些。\n\n天氣冷的時候吃百菇雞湯麵有夠讚！雞翅也好好吃，謝謝你們來內湖開店。🥹",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "滿不錯的晚餐，紅燒湯頭鮮美，不會過鹹過油。粗麵有勁不會太軟，湯有新鮮蕃茄丁點綴，牛肉也好吃，很不錯的用餐體驗。希望牛肉份量可以多一些。\n\n天氣冷的時候吃百菇雞湯麵有夠讚！雞翅也好好吃，謝謝你們來內湖開店。🥹",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Welson Ho",
+        "uri": "https://www.google.com/maps/contrib/107632769687023942573/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVmEBtSN4Bkn6aXtkD2DyUJbchKTNYxO52QVNNeZYlSTOnycMR_=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-03-07T11:42:44.721939964Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toSmNtOURMVXBJUlZwSlVFcHFja0pVVEdSdVZYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toSmNtOURMVXBJUlZwSlVFcHFja0pVVEdSdVZYYxAB!2m1!1s0x3442ad243892b975:0x8fc24af4e4f0f41a"
+    },
+    {
+      "name": "places/ChIJdbmSOCStQjQRGvTw5PRKwo8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SbmNFRk9iRkF5TTFnd1RYTlpRbDkzT0dzd1RuYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "相當好吃，比門前隱味好吃，大碗的冠軍牛肉麵份量超足，建議點小碗的半斤半肉再加點滷牛舌跟牛肚，超軟嫩入味❤️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "相當好吃，比門前隱味好吃，大碗的冠軍牛肉麵份量超足，建議點小碗的半斤半肉再加點滷牛舌跟牛肚，超軟嫩入味❤️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jack Lin",
+        "uri": "https://www.google.com/maps/contrib/115325083659283489035/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLiFvhqCkDMKGVMZTPm9o63anr2rVPKwPUw92OotDcyVdRl9A=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-13T12:57:47.097921254Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SbmNFRk9iRkF5TTFnd1RYTlpRbDkzT0dzd1RuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SbmNFRk9iRkF5TTFnd1RYTlpRbDkzT0dzd1RuYxAB!2m1!1s0x3442ad243892b975:0x8fc24af4e4f0f41a"
+    },
+    {
+      "name": "places/ChIJdbmSOCStQjQRGvTw5PRKwo8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkUWRXVmhlbmhGU1hwMk9WTnZTVVZLTm01WFZWRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "牛肉麵料好實在，可以加湯一次、手工辣椒👍雞翅讓我驚艷😍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "牛肉麵料好實在，可以加湯一次、手工辣椒👍雞翅讓我驚艷😍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jeng",
+        "uri": "https://www.google.com/maps/contrib/113516555204142199176/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV6Mxc_ESa6NqH69m9ub-WEdMFXXCfbByOHYRcNR92x7ByGH6k=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-10T09:34:39.101435991Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkUWRXVmhlbmhGU1hwMk9WTnZTVVZLTm01WFZWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkUWRXVmhlbmhGU1hwMk9WTnZTVVZLTm01WFZWRRAB!2m1!1s0x3442ad243892b975:0x8fc24af4e4f0f41a"
+    }
+  ]
+}

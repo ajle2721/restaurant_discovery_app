@@ -1,0 +1,25 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "YES",
+                                  "evidence":  "親子餐廳類型",
+                                  "confidence":  0.6
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "環境整體感還不錯...有適閤家庭聚餐的大圓桌",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "Yes",
+                                "evidence":  "最好吃的是甲蟲鬆餅...兒童餐覺得實在是太迷你",
+                                "confidence":  1.0
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "親子餐廳型別，會稍微「熱鬧」",
+                               "confidence":  1.0
+                           },
+    "parent_friendly_score":  4,
+    "parent_friendly_level":  "高",
+    "reason":  "有兒童椅、有兒童餐、空間寬敞、不怕小孩吵"
+}

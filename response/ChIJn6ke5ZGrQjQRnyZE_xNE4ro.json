@@ -1,0 +1,130 @@
+{
+  "id": "ChIJn6ke5ZGrQjQRnyZE_xNE4ro",
+  "types": [
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2761 8344",
+  "formattedAddress": "105台灣臺北市松山區延壽街97號",
+  "location": {
+    "latitude": 25.0572222,
+    "longitude": 121.56638889999999
+  },
+  "rating": 4.3,
+  "websiteUri": "https://www.facebook.com/xiaobeiping/",
+  "userRatingCount": 954,
+  "displayName": {
+    "text": "小北平麵食館",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJn6ke5ZGrQjQRnyZE_xNE4ro/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xjNFVVZHJOVTV1V0hCcFdXVmlTM0IxWVZCcVNYYxAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 5,
+      "text": {
+        "text": "上週才去吃過，這週又特地從新莊帶爸媽去吃！覺得餐點好吃，出餐速度快，櫃檯老闆娘及店裏多數的服務人員都非常親切！爸媽吃完飯感到滿意，尤其喜歡小米粥及脆皮雞！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "上週才去吃過，這週又特地從新莊帶爸媽去吃！覺得餐點好吃，出餐速度快，櫃檯老闆娘及店裏多數的服務人員都非常親切！爸媽吃完飯感到滿意，尤其喜歡小米粥及脆皮雞！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "chiawen Chang",
+        "uri": "https://www.google.com/maps/contrib/102611968160570797676/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ1RUZ7xSjKCe3Ezmz8PT_FHoJCIoD-Vy5ZuTrMts5E_Q2I9w=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-03-01T05:33:53.167487962Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xjNFVVZHJOVTV1V0hCcFdXVmlTM0IxWVZCcVNYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xjNFVVZHJOVTV1V0hCcFdXVmlTM0IxWVZCcVNYYxAB!2m1!1s0x3442ab91e51ea99f:0xbae24413ff44269f"
+    },
+    {
+      "name": "places/ChIJn6ke5ZGrQjQRnyZE_xNE4ro/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KeWNXNVFkbTF3YjNob1JVOTJPUzF4WjA0MFdHYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "三鮮鍋貼底很酥脆 咬下去還有湯汁 真的好吃\n牛肉湯是比較家常口味的紅蘿蔔燉牛肉那種 整碗都是料\n麻辣羊肚絲 覺得口味可以再重一些 都說是麻辣了 可能是調整成大眾都能接受的 整體蠻好吃的 服務也挺親切",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "三鮮鍋貼底很酥脆 咬下去還有湯汁 真的好吃\n牛肉湯是比較家常口味的紅蘿蔔燉牛肉那種 整碗都是料\n麻辣羊肚絲 覺得口味可以再重一些 都說是麻辣了 可能是調整成大眾都能接受的 整體蠻好吃的 服務也挺親切",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Sheng Feng Tsai",
+        "uri": "https://www.google.com/maps/contrib/106901909233118304207/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXCIGIm4s7BxBQQdKCzQUFdMSQ8PB1bm4tm1XtbYwvUBwuTNyzw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-01T13:06:51.132879586Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KeWNXNVFkbTF3YjNob1JVOTJPUzF4WjA0MFdHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KeWNXNVFkbTF3YjNob1JVOTJPUzF4WjA0MFdHYxAB!2m1!1s0x3442ab91e51ea99f:0xbae24413ff44269f"
+    },
+    {
+      "name": "places/ChIJn6ke5ZGrQjQRnyZE_xNE4ro/reviews/Ci9DQUlRQUNvZENodHljRjlvT2prMmNtVnFkV0V5UkRaaWNrUXdlSEUzWjFWQlQyYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "不枉打了41通電話☎️！點餐到上桌 沒幾分鐘效率很強、餐點不會因爲快就失去火候和調味 這個猛！\n價位不高，請客 家宴 不難看！已經和家人在研究下次再訪不重復的菜色了👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "不枉打了41通電話☎️！點餐到上桌 沒幾分鐘效率很強、餐點不會因爲快就失去火候和調味 這個猛！\n價位不高，請客 家宴 不難看！已經和家人在研究下次再訪不重復的菜色了👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "金剛榮",
+        "uri": "https://www.google.com/maps/contrib/117324238103913361512/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWCJL9k1Ne_C_Ehp8mF9gTAK9iZo2V3KiWqO8uFA4Zg6Ae4TrQ=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-01-20T16:01:38.767987488Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2prMmNtVnFkV0V5UkRaaWNrUXdlSEUzWjFWQlQyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2prMmNtVnFkV0V5UkRaaWNrUXdlSEUzWjFWQlQyYxAB!2m1!1s0x3442ab91e51ea99f:0xbae24413ff44269f"
+    },
+    {
+      "name": "places/ChIJn6ke5ZGrQjQRnyZE_xNE4ro/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsZllVNUVlalZ0U0V4MFJuUkhUV3BxVTFWUmFXYxAB",
+      "relativePublishTimeDescription": "4 週前",
+      "rating": 4,
+      "text": {
+        "text": "週末晚上生意很好，需要稍等才能入座。\n餐點都料多，有鍋氣，炒的很好\n合菜玳瑁、客家小炒、宮保蝦仁都很好吃，還有一籠蒸餃、一分蔥油餅，蔥油餅夠厚，蔥味香濃，麵粉香味也很棒。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "週末晚上生意很好，需要稍等才能入座。\n餐點都料多，有鍋氣，炒的很好\n合菜玳瑁、客家小炒、宮保蝦仁都很好吃，還有一籠蒸餃、一分蔥油餅，蔥油餅夠厚，蔥味香濃，麵粉香味也很棒。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chun Li (Lili)",
+        "uri": "https://www.google.com/maps/contrib/110565360810462307345/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWascr_t-ed9llu1dtKW-jT2FDGKJXDOX992pbmnQc1uEOsXoaaKA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-21T08:04:34.983612094Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsZllVNUVlalZ0U0V4MFJuUkhUV3BxVTFWUmFXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsZllVNUVlalZ0U0V4MFJuUkhUV3BxVTFWUmFXYxAB!2m1!1s0x3442ab91e51ea99f:0xbae24413ff44269f"
+    },
+    {
+      "name": "places/ChIJn6ke5ZGrQjQRnyZE_xNE4ro/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKVldXNXVhMWhGZFhVdFZtaFNiR280ZWsxS1QwRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "服務人員蠻熱情的～\n平日中午沒有坐滿，但陸續有人\n脆皮雞真的很香還不錯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "服務人員蠻熱情的～\n平日中午沒有坐滿，但陸續有人\n脆皮雞真的很香還不錯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "鏗鏗",
+        "uri": "https://www.google.com/maps/contrib/100347497811269290119/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWSogUngFf9l3AtD7UYzePGgirPbqjoWT3voIRRlWxvFlwMavQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-27T11:49:28.600748526Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKVldXNXVhMWhGZFhVdFZtaFNiR280ZWsxS1QwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKVldXNXVhMWhGZFhVdFZtaFNiR280ZWsxS1QwRRAB!2m1!1s0x3442ab91e51ea99f:0xbae24413ff44269f"
+    }
+  ]
+}

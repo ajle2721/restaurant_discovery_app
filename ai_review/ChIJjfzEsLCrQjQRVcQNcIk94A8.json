@@ -1,0 +1,25 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "YES",
+                                  "evidence":  "對家庭客來說非常加分",
+                                  "confidence":  0.6
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "動線安排不擁擠",
+                             "confidence":  0.8
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "環境舒適、分割槽清楚、甜點與冰品表現優秀、對親子家庭友善",
+                               "confidence":  0.8
+                           },
+    "parent_friendly_score":  3,
+    "parent_friendly_level":  "高",
+    "reason":  "有兒童椅、空間寬敞、不怕小孩吵"
+}

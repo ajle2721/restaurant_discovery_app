@@ -1,0 +1,130 @@
+{
+  "id": "ChIJJwVz116pQjQRFjYsnOaZJaU",
+  "types": [
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2506 0065",
+  "formattedAddress": "10491台灣臺北市中山區錦州街252號",
+  "location": {
+    "latitude": 25.0602125,
+    "longitude": 121.53430399999999
+  },
+  "rating": 4,
+  "websiteUri": "https://www.facebook.com/%E5%B0%8F%E5%85%AD%E9%A3%9F%E5%A0%82-523198584483641/",
+  "userRatingCount": 1536,
+  "displayName": {
+    "text": "小六食堂",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJJwVz116pQjQRFjYsnOaZJaU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCYVRuRmFVWEZOUmt0a1JrdzFZMlZOUXpWcWRuYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "平日中午到訪，店內位子不多，建議避開用餐尖峰時間！\n\n是平價高CP值日式餐廳，甜點竟然是草莓真的特別🍓🍓🍓\n\n生魚片鮮度跟份量都蠻不錯的～附近上班族午餐推薦👍🏻",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "平日中午到訪，店內位子不多，建議避開用餐尖峰時間！\n\n是平價高CP值日式餐廳，甜點竟然是草莓真的特別🍓🍓🍓\n\n生魚片鮮度跟份量都蠻不錯的～附近上班族午餐推薦👍🏻",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Dragon Red",
+        "uri": "https://www.google.com/maps/contrib/100514071278724015758/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUebh6Of-QnCPDPli5CEcpomkRd41_VpqfkSEpproE9CaD4O_iBOg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-03T16:10:20.897452265Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCYVRuRmFVWEZOUmt0a1JrdzFZMlZOUXpWcWRuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCYVRuRmFVWEZOUmt0a1JrdzFZMlZOUXpWcWRuYxAB!2m1!1s0x3442a95ed7730527:0xa52599e69c2c3616"
+    },
+    {
+      "name": "places/ChIJJwVz116pQjQRFjYsnOaZJaU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taaFJqWllRWGh5WDB4eldGUmtiVXRGWVVZeVpsRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "接近八點了生意還是客滿的狀態，價格不貴，但同樣的價格比一般吃過的日式餐飲店食材好很多，離緣肉炸豬排口感蠻喜歡的，沒有那麼肥，也沒有里肌肉那麼乾，軟嫩恰到好處。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "接近八點了生意還是客滿的狀態，價格不貴，但同樣的價格比一般吃過的日式餐飲店食材好很多，離緣肉炸豬排口感蠻喜歡的，沒有那麼肥，也沒有里肌肉那麼乾，軟嫩恰到好處。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Steven Liu",
+        "uri": "https://www.google.com/maps/contrib/107020497685566662563/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK6uK1SSgkFmj3Zt1mJ8oU2xVkWoaZjs8gzmZWWt5vI5aHZsA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-03T15:52:03.059265546Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taaFJqWllRWGh5WDB4eldGUmtiVXRGWVVZeVpsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taaFJqWllRWGh5WDB4eldGUmtiVXRGWVVZeVpsRRAB!2m1!1s0x3442a95ed7730527:0xa52599e69c2c3616"
+    },
+    {
+      "name": "places/ChIJJwVz116pQjQRFjYsnOaZJaU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aRU9VczJTRk16WTNCWk16RjFPRWhmY0dkQ01YYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "今天點了炙燒海鮮丼加定食、綜合生魚片和手工雞肉丸，定食菜色搭配得宜感覺很豐盛，茶碗蒸、味噌湯、涼拌四季豆、芥末章魚、甜品等，我們兩個人吃得很舒服份量剛剛好，烤雞肉丸醬香味美👍\n改天要先預約試試無菜單料理！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天點了炙燒海鮮丼加定食、綜合生魚片和手工雞肉丸，定食菜色搭配得宜感覺很豐盛，茶碗蒸、味噌湯、涼拌四季豆、芥末章魚、甜品等，我們兩個人吃得很舒服份量剛剛好，烤雞肉丸醬香味美👍\n改天要先預約試試無菜單料理！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Tracy Yang",
+        "uri": "https://www.google.com/maps/contrib/114282543511178115597/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU2XbQ-qFcgQfgBezlok_pqffvYW28utdNAP87FKLiZAloNbNw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-23T12:51:24.135195063Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aRU9VczJTRk16WTNCWk16RjFPRWhmY0dkQ01YYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aRU9VczJTRk16WTNCWk16RjFPRWhmY0dkQ01YYxAB!2m1!1s0x3442a95ed7730527:0xa52599e69c2c3616"
+    },
+    {
+      "name": "places/ChIJJwVz116pQjQRFjYsnOaZJaU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sRGJWVnlUbGxLZEhkWGN6TmFkVmg2TVZGeFNVRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "收一成服務費\n鮭魚丼200 鮭魚油脂夠 味道不錯 但蘿蔔絲有土味 飯是熱飯 稍扣分 而且不知道為什麼要收服務費 店員只在一開始倒杯茶而已 其實完全可以自己倒",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "收一成服務費\n鮭魚丼200 鮭魚油脂夠 味道不錯 但蘿蔔絲有土味 飯是熱飯 稍扣分 而且不知道為什麼要收服務費 店員只在一開始倒杯茶而已 其實完全可以自己倒",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "晚晚",
+        "uri": "https://www.google.com/maps/contrib/108661215517250971437/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUlijanjKoATNee2jQtdQk_LxHK0vOvVnlT-v0o29Kr5-4duAkabg=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-12-06T16:01:26.310732362Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sRGJWVnlUbGxLZEhkWGN6TmFkVmg2TVZGeFNVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sRGJWVnlUbGxLZEhkWGN6TmFkVmg2TVZGeFNVRRAB!2m1!1s0x3442a95ed7730527:0xa52599e69c2c3616"
+    },
+    {
+      "name": "places/ChIJJwVz116pQjQRFjYsnOaZJaU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4b2JtNDNhbkpWWW1SclVsUjJjVTgwY0RKUlIzYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "是這區蠻好吃的日式料理(不跟高檔比喲)\n需要早點預約排隊～這次沒點到金目鯛",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "是這區蠻好吃的日式料理(不跟高檔比喲)\n需要早點預約排隊～這次沒點到金目鯛",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jane",
+        "uri": "https://www.google.com/maps/contrib/108324247070680935128/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKeAQFLQCOhFZbyiPd83RCYoQ8cK2CMHkp3ZJNdtnkM5g812WCs=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-25T04:39:31.241479230Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4b2JtNDNhbkpWWW1SclVsUjJjVTgwY0RKUlIzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4b2JtNDNhbkpWWW1SclVsUjJjVTgwY0RKUlIzYxAB!2m1!1s0x3442a95ed7730527:0xa52599e69c2c3616"
+    }
+  ]
+}

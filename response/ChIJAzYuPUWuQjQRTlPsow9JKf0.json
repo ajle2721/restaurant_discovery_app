@@ -1,0 +1,130 @@
+{
+  "id": "ChIJAzYuPUWuQjQRTlPsow9JKf0",
+  "types": [
+    "ramen_restaurant",
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2894 9588",
+  "formattedAddress": "112台灣臺北市北投區中和街30號",
+  "location": {
+    "latitude": 25.137918,
+    "longitude": 121.503029
+  },
+  "rating": 3.9,
+  "userRatingCount": 4447,
+  "displayName": {
+    "text": "满来温泉拉麵 man-lai",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJAzYuPUWuQjQRTlPsow9JKf0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ScVpEaFFkRzVITFdWQ2NraHFNbDlYVVVaSGQxRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "來北投吃過無數拉麵了，第一次遇到要服務費10%的拉麵店，真的很囂張喔\n拉麵算好吃，叉燒也很大塊，麵體也非常q彈，但是到底為什麼要服務費，請問跟其他家的拉麵店服務有特別好在哪裡？？？倒不如說是變相的漲價\n新店面，午餐時間來客量頗多，須排隊\n但是我以後應該不會來了\n最便宜的麵加上服務費就200以上了",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "來北投吃過無數拉麵了，第一次遇到要服務費10%的拉麵店，真的很囂張喔\n拉麵算好吃，叉燒也很大塊，麵體也非常q彈，但是到底為什麼要服務費，請問跟其他家的拉麵店服務有特別好在哪裡？？？倒不如說是變相的漲價\n新店面，午餐時間來客量頗多，須排隊\n但是我以後應該不會來了\n最便宜的麵加上服務費就200以上了",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "啾大米",
+        "uri": "https://www.google.com/maps/contrib/111958429340477122818/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUyrZMT0fG293MASmSEv3AwZ35gcx-b22zb-n7lwHXkqaqWBGevfA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-04T13:15:56.830407759Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25ScVpEaFFkRzVITFdWQ2NraHFNbDlYVVVaSGQxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ScVpEaFFkRzVITFdWQ2NraHFNbDlYVVVaSGQxRRAB!2m1!1s0x3442ae453d2e3603:0xfd29490fa3ec534e"
+    },
+    {
+      "name": "places/ChIJAzYuPUWuQjQRTlPsow9JKf0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSSVRrVkhaMVJJU2xKeGFYaExabXB3UkhFeFFXYxAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 5,
+      "text": {
+        "text": "因為是人氣餐廳真的是高朋滿座，蠻推薦他的握壽司真的很好吃！麻糬也是一絕，很特別，氣氛非常好，門口坐著候位可以拍拍照～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "因為是人氣餐廳真的是高朋滿座，蠻推薦他的握壽司真的很好吃！麻糬也是一絕，很特別，氣氛非常好，門口坐著候位可以拍拍照～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "惠雯",
+        "uri": "https://www.google.com/maps/contrib/114665568248636042834/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVHnMv6CbK67nQsDoBkSHIBeU1oxk8hX6e8R7y4oLBFntofzoIIEQ=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-23T16:24:15.325294550Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSSVRrVkhaMVJJU2xKeGFYaExabXB3UkhFeFFXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSSVRrVkhaMVJJU2xKeGFYaExabXB3UkhFeFFXYxAB!2m1!1s0x3442ae453d2e3603:0xfd29490fa3ec534e"
+    },
+    {
+      "name": "places/ChIJAzYuPUWuQjQRTlPsow9JKf0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kaFpsUmZjMEY1UlhsNE4waDJjMWRCY1dWRVQwRRAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 5,
+      "text": {
+        "text": "真心推薦\n麵很好吃湯頭也不錯\n尤其是招牌麻糬超級無敵好吃\n還是熱熱的那種燒麻糬\n納入口袋名單了\n價格也不貴",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "真心推薦\n麵很好吃湯頭也不錯\n尤其是招牌麻糬超級無敵好吃\n還是熱熱的那種燒麻糬\n納入口袋名單了\n價格也不貴",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Pp P",
+        "uri": "https://www.google.com/maps/contrib/112486361935631422062/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKgIe17X6Zx7EcNxQwi8lTbhfxWwi7Me3PePJaFL4_aS1tUVA=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-03-05T09:53:25.991961229Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kaFpsUmZjMEY1UlhsNE4waDJjMWRCY1dWRVQwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kaFpsUmZjMEY1UlhsNE4waDJjMWRCY1dWRVQwRRAB!2m1!1s0x3442ae453d2e3603:0xfd29490fa3ec534e"
+    },
+    {
+      "name": "places/ChIJAzYuPUWuQjQRTlPsow9JKf0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGeWMxWkZiVXBPV25ZNE5HZHdOVGhrZVRsUmJVRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "要收一成服務費，我不是很喜歡其他拉麵店都沒收，跟朋友來吃一人點一碗拉麵，炸豆腐跟烤麻糬，烤麻糬我覺得最好吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "要收一成服務費，我不是很喜歡其他拉麵店都沒收，跟朋友來吃一人點一碗拉麵，炸豆腐跟烤麻糬，烤麻糬我覺得最好吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "天菜洨當家",
+        "uri": "https://www.google.com/maps/contrib/106211817822239262127/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXAhJ2uGev8GxP1KNXqcNmdhdfp5IV24Mg8TptGyv3-NeF1Vt7fRQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-10T12:22:13.406871009Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGeWMxWkZiVXBPV25ZNE5HZHdOVGhrZVRsUmJVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGeWMxWkZiVXBPV25ZNE5HZHdOVGhrZVRsUmJVRRAB!2m1!1s0x3442ae453d2e3603:0xfd29490fa3ec534e"
+    },
+    {
+      "name": "places/ChIJAzYuPUWuQjQRTlPsow9JKf0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OUVowTllSRGxHWVRScFVUaEpaV3RpVDFadGNWRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 3,
+      "text": {
+        "text": "玩遊戲炸豆腐半價，很有趣！\n\n溫泉蛋的醬油下的恰當好處！\n\n拉麵台式風味，加上高麗菜很有趣。\n\n炸豆腐皮厚，個人偏好薄皮型。\n\n麻糬個人不愛，過甜。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "玩遊戲炸豆腐半價，很有趣！\n\n溫泉蛋的醬油下的恰當好處！\n\n拉麵台式風味，加上高麗菜很有趣。\n\n炸豆腐皮厚，個人偏好薄皮型。\n\n麻糬個人不愛，過甜。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "卡爾瑟斯",
+        "uri": "https://www.google.com/maps/contrib/102596134892226103244/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXRp3x-nAQvhe9aiktHw1eLYB8VvxmQDngcvHrA7h86yXnM3uLA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-12-25T07:17:10.845799562Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OUVowTllSRGxHWVRScFVUaEpaV3RpVDFadGNWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OUVowTllSRGxHWVRScFVUaEpaV3RpVDFadGNWRRAB!2m1!1s0x3442ae453d2e3603:0xfd29490fa3ec534e"
+    }
+  ]
+}

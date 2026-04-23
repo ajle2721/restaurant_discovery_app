@@ -1,0 +1,129 @@
+{
+  "id": "ChIJU7cRla6pQjQRhchv-ZhGAis",
+  "types": [
+    "seafood_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2306 3797",
+  "formattedAddress": "108台灣臺北市萬華區和平西路三段162號",
+  "location": {
+    "latitude": 25.0351547,
+    "longitude": 121.4983303
+  },
+  "rating": 4.1,
+  "userRatingCount": 1806,
+  "displayName": {
+    "text": "艋舺熱海 海鮮餐廳",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJU7cRla6pQjQRhchv-ZhGAis/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKTk1GaHdhRFZuWVdsV01VZEljMmR4U0VOdWFtYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "無菜單料理，有些菜蠻特別的，第一次吃到花生豆芽，畢生首見。魯雞腳魯的透爛，帶點微微辣，還不錯吃。唯一缺點，抽煙的不自愛，邊吃飯常邊飄進煙味，讓美味的菜失去了它的特色，同時影響用餐心情",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "無菜單料理，有些菜蠻特別的，第一次吃到花生豆芽，畢生首見。魯雞腳魯的透爛，帶點微微辣，還不錯吃。唯一缺點，抽煙的不自愛，邊吃飯常邊飄進煙味，讓美味的菜失去了它的特色，同時影響用餐心情",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Alexander",
+        "uri": "https://www.google.com/maps/contrib/117386112329282355428/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUdbvth-5gJu8jjiRNKNJ8UFR43-7H0ppArYZthy9_TeqQ6XUI=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-09T01:42:48.820361979Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKTk1GaHdhRFZuWVdsV01VZEljMmR4U0VOdWFtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKTk1GaHdhRFZuWVdsV01VZEljMmR4U0VOdWFtYxAB!2m1!1s0x3442a9ae9511b753:0x2b024698f96fc885"
+    },
+    {
+      "name": "places/ChIJU7cRla6pQjQRhchv-ZhGAis/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSSE1EWkdXWFJMZFZwUGJWVnpjbTVzY1VWdWVFRRAB",
+      "relativePublishTimeDescription": "4 週前",
+      "rating": 4,
+      "text": {
+        "text": "20260219料理都沒踩到雷都蠻好吃的、外表看起來一般但店裡面面積蠻大的、生意也很好、廁所沒有異味還算乾淨。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "20260219料理都沒踩到雷都蠻好吃的、外表看起來一般但店裡面面積蠻大的、生意也很好、廁所沒有異味還算乾淨。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Danny Hsu",
+        "uri": "https://www.google.com/maps/contrib/109250666753914164323/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLHBZh1gSZvQdaaXS9Nvfc6m4ablq2C9p4hVGqZjaV4wiWUOQ=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-02-21T11:33:03.326426628Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSSE1EWkdXWFJMZFZwUGJWVnpjbTVzY1VWdWVFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSSE1EWkdXWFJMZFZwUGJWVnpjbTVzY1VWdWVFRRAB!2m1!1s0x3442a9ae9511b753:0x2b024698f96fc885"
+    },
+    {
+      "name": "places/ChIJU7cRla6pQjQRhchv-ZhGAis/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGMGMwRlZUVVJCU1c1RWVFOWlUWFI0WlVWeU5uYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "很推這間藏在巷內卻不簡單的餐廳，小菜最喜歡滷雞腳滷得透徹又入味👍🏻生魚片跟干貝鮮美好吃，我最喜歡烤饅頭沾螃蟹羹鹹香鹹濃郁，雞湯也溫潤好喝，很適合聚餐的寶藏店",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很推這間藏在巷內卻不簡單的餐廳，小菜最喜歡滷雞腳滷得透徹又入味👍🏻生魚片跟干貝鮮美好吃，我最喜歡烤饅頭沾螃蟹羹鹹香鹹濃郁，雞湯也溫潤好喝，很適合聚餐的寶藏店",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "劉子瑄",
+        "uri": "https://www.google.com/maps/contrib/108368104285158896718/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXJb879bdm4jgRGtID2tSaqpjg-yNmMz0S9L3YPuXob9yaun9g=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-27T16:58:20.416169814Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGMGMwRlZUVVJCU1c1RWVFOWlUWFI0WlVWeU5uYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGMGMwRlZUVVJCU1c1RWVFOWlUWFI0WlVWeU5uYxAB!2m1!1s0x3442a9ae9511b753:0x2b024698f96fc885"
+    },
+    {
+      "name": "places/ChIJU7cRla6pQjQRhchv-ZhGAis/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GUWRWSlJlRUY1Y1RGeWRFcEpURUZWVjBsM1VXYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 3,
+      "text": {
+        "text": "每一樣拿手菜都很經典，口味都是好吃的\n只是價位有一點偏高一點，還是客朋滿座\n油雞肉都骨頭多一點，推薦法式生魚片是炙烤過的生魚片配上調味的生紫洋蔥",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "每一樣拿手菜都很經典，口味都是好吃的\n只是價位有一點偏高一點，還是客朋滿座\n油雞肉都骨頭多一點，推薦法式生魚片是炙烤過的生魚片配上調味的生紫洋蔥",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "YaoHsun Chen",
+        "uri": "https://www.google.com/maps/contrib/112720515366309721782/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJo8NxLsLA_vsiisxgLDVXVnGa6MjdHGPCtkyhPXFQL6PYS_gE=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-07T02:35:57.704915870Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GUWRWSlJlRUY1Y1RGeWRFcEpURUZWVjBsM1VXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GUWRWSlJlRUY1Y1RGeWRFcEpURUZWVjBsM1VXYxAB!2m1!1s0x3442a9ae9511b753:0x2b024698f96fc885"
+    },
+    {
+      "name": "places/ChIJU7cRla6pQjQRhchv-ZhGAis/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oVGVEazJPRmRqUVVGME1tbHRSek5RVURkQlkyYxAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 5,
+      "text": {
+        "text": "海鮮都有新鮮\n味道基本上都還不錯\ncp值因為價格高所以就不太高\n有荷包的可以點不錯的料理享受\n荷包不夠的多想想\n一隻蝦320 一尾三角魚250 的概念\n但東西真的還不錯吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "海鮮都有新鮮\n味道基本上都還不錯\ncp值因為價格高所以就不太高\n有荷包的可以點不錯的料理享受\n荷包不夠的多想想\n一隻蝦320 一尾三角魚250 的概念\n但東西真的還不錯吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "吳承諺",
+        "uri": "https://www.google.com/maps/contrib/117060985883053085826/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV_tKDzXcShJ67s5zfbC2mJpTMU5Mplz18l6u9jMD4gRvsAenM=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-22T15:25:31.210189731Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oVGVEazJPRmRqUVVGME1tbHRSek5RVURkQlkyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oVGVEazJPRmRqUVVGME1tbHRSek5RVURkQlkyYxAB!2m1!1s0x3442a9ae9511b753:0x2b024698f96fc885"
+    }
+  ]
+}

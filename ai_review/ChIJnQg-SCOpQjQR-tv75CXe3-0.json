@@ -1,0 +1,25 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "UNKNOWN",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "No",
+                               "evidence":  "氣氛非常好的一家店❤️我們用餐的時候裡面很安靜～每桌客人聊天都小小聲的～餐點也很好吃（在我不餓的情況下還能覺得好吃的是真的厲害👍）然後闆娘們都笑咪咪的",
+                               "confidence":  0.8
+                           },
+    "parent_friendly_score":  0,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "目前缺乏明確的親子友善資訊"
+}

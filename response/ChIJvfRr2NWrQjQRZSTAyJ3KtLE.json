@@ -1,0 +1,130 @@
+{
+  "id": "ChIJvfRr2NWrQjQRZSTAyJ3KtLE",
+  "types": [
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2706 1256",
+  "formattedAddress": "106台灣臺北市大安區仁愛路三段88號",
+  "location": {
+    "latitude": 25.037569299999998,
+    "longitude": 121.539034
+  },
+  "rating": 4.2,
+  "websiteUri": "https://www.facebook.com/%E5%BF%A0%E5%8D%97%E9%A3%AF%E9%A4%A8-1425823500998291/",
+  "userRatingCount": 3058,
+  "displayName": {
+    "text": "忠南飯館",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJvfRr2NWrQjQRZSTAyJ3KtLE/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sYWJrMXVlV1JyWVc1UmF6TkhlVlJmWkd0QlJVRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 3,
+      "text": {
+        "text": "在空軍總部對面\n小小的一間飯館\n不能定位\n生意很好\n上菜的速度很快\n有蓬萊米跟在來米兩種飯可以選擇\n也不能說不好吃\n但是沒有什麼記憶點\n總覺得缺點什麼\n應該是不會想再訪的店家",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在空軍總部對面\n小小的一間飯館\n不能定位\n生意很好\n上菜的速度很快\n有蓬萊米跟在來米兩種飯可以選擇\n也不能說不好吃\n但是沒有什麼記憶點\n總覺得缺點什麼\n應該是不會想再訪的店家",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Sylvia Wu",
+        "uri": "https://www.google.com/maps/contrib/106609909041977523878/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWHUCdtDJHK8z2sl4wJF-v6hXsFx_XvQ-NQcEYwntGAg9d7iSki=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-08T11:11:45.793007693Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sYWJrMXVlV1JyWVc1UmF6TkhlVlJmWkd0QlJVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sYWJrMXVlV1JyWVc1UmF6TkhlVlJmWkd0QlJVRRAB!2m1!1s0x3442abd5d86bf4bd:0xb1b4ca9dc8c02465"
+    },
+    {
+      "name": "places/ChIJvfRr2NWrQjQRZSTAyJ3KtLE/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GeVEzaE9jbXBWTkdab01Va3dXVkpSV0cxbE5FRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "星期六中午十二點前到，不用等。\n上菜很快\n菜色就是家的味道\n最喜歡泡菜牛肉\n黃豆蹄花很入味，豬腳皮很q彈，又做得到入口即化。唯一的問題是，黃豆很多，裝滿了整個碗🤣",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "星期六中午十二點前到，不用等。\n上菜很快\n菜色就是家的味道\n最喜歡泡菜牛肉\n黃豆蹄花很入味，豬腳皮很q彈，又做得到入口即化。唯一的問題是，黃豆很多，裝滿了整個碗🤣",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Isabelle Chai",
+        "uri": "https://www.google.com/maps/contrib/111408006045728104346/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWa_TU6OGw5OSJR4cdCmtg_A-qu2TrG1LOabFWYBpQCVJ1k2d87=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-26T08:48:25.656029573Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GeVEzaE9jbXBWTkdab01Va3dXVkpSV0cxbE5FRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GeVEzaE9jbXBWTkdab01Va3dXVkpSV0cxbE5FRRAB!2m1!1s0x3442abd5d86bf4bd:0xb1b4ca9dc8c02465"
+    },
+    {
+      "name": "places/ChIJvfRr2NWrQjQRZSTAyJ3KtLE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWTFUxbExkRzlsZEZkT2VFSmFNRVJmV1dORVQwRRAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 2,
+      "text": {
+        "text": "忠南飯館是我長久以來的愛店，已經算不清來吃多少次了，以前就算是住在國外時，想到回台灣要吃的餐廳首選也是這家，但現在價格越來越貴，CP值變得很低。\n以前來都要排隊，今天假日中午12點半完全沒人排，感覺來吃的人也變少很多。\n最扯的是這次吃到一半發現芥藍臘肉還有報紙黏在上面，老闆說可能是洗菜沒洗乾淨，要不要再炒一盤，都吃下去了耶，雖然最後結帳時老闆沒算這盤的錢，但是希望店家要加強衛生。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "忠南飯館是我長久以來的愛店，已經算不清來吃多少次了，以前就算是住在國外時，想到回台灣要吃的餐廳首選也是這家，但現在價格越來越貴，CP值變得很低。\n以前來都要排隊，今天假日中午12點半完全沒人排，感覺來吃的人也變少很多。\n最扯的是這次吃到一半發現芥藍臘肉還有報紙黏在上面，老闆說可能是洗菜沒洗乾淨，要不要再炒一盤，都吃下去了耶，雖然最後結帳時老闆沒算這盤的錢，但是希望店家要加強衛生。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jack Huang",
+        "uri": "https://www.google.com/maps/contrib/104441488984271292174/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWLMHdGjmIPNF1xmauF1eTq7Xg2DN3k8MrS4iNvlCqC4j9EqXi4sg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-27T10:43:44.602491179Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWTFUxbExkRzlsZEZkT2VFSmFNRVJmV1dORVQwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWTFUxbExkRzlsZEZkT2VFSmFNRVJmV1dORVQwRRAB!2m1!1s0x3442abd5d86bf4bd:0xb1b4ca9dc8c02465"
+    },
+    {
+      "name": "places/ChIJvfRr2NWrQjQRZSTAyJ3KtLE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4cWRucFVVamRDUTBOU2FqSXlTMEphVkVKeGRGRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "很久以前就知道這家餐館，最近因緣際會下，終於來這裡吃飯，整體來說飯館給人感覺很不錯，員工親切，小飯館的氣氛讓人舒服、自在，前後來了二次，點過五道不同的菜色\n\n豆乾炒肉絲-豆乾和肉絲炒得都很嫩，味道也不錯。\n酸菜回鍋肉-肉嫩，酸菜酸的夠味，很棒的組合，推薦的一道菜。\n紅燒獅子頭-獅子頭的調味很不錯，也很細緻，白菜燉煮入味，卻又不會過爛，這道菜也很推薦。\n麻婆豆腐-是一道清爽版的麻婆豆腐，如果是喜愛麻婆豆腐的人，可能會覺得不夠味。\n韭黃炒蛋-蛋炒的有些過老了，但味道還是不錯的。\n\n這裡的飯是免費取用，飯有二種-軟Q或鬆軟，十分貼心。\n\n這是一家可以再訪的家常眷村菜飯館。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很久以前就知道這家餐館，最近因緣際會下，終於來這裡吃飯，整體來說飯館給人感覺很不錯，員工親切，小飯館的氣氛讓人舒服、自在，前後來了二次，點過五道不同的菜色\n\n豆乾炒肉絲-豆乾和肉絲炒得都很嫩，味道也不錯。\n酸菜回鍋肉-肉嫩，酸菜酸的夠味，很棒的組合，推薦的一道菜。\n紅燒獅子頭-獅子頭的調味很不錯，也很細緻，白菜燉煮入味，卻又不會過爛，這道菜也很推薦。\n麻婆豆腐-是一道清爽版的麻婆豆腐，如果是喜愛麻婆豆腐的人，可能會覺得不夠味。\n韭黃炒蛋-蛋炒的有些過老了，但味道還是不錯的。\n\n這裡的飯是免費取用，飯有二種-軟Q或鬆軟，十分貼心。\n\n這是一家可以再訪的家常眷村菜飯館。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Vivian Yang",
+        "uri": "https://www.google.com/maps/contrib/112222710001354068731/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVM0iqW3HtpyOJMkvVCmTemuS3u2NGPpuGI9K18x9IIStcSE0UX=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-10T04:32:11.704893626Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4cWRucFVVamRDUTBOU2FqSXlTMEphVkVKeGRGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4cWRucFVVamRDUTBOU2FqSXlTMEphVkVKeGRGRRAB!2m1!1s0x3442abd5d86bf4bd:0xb1b4ca9dc8c02465"
+    },
+    {
+      "name": "places/ChIJvfRr2NWrQjQRZSTAyJ3KtLE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tReVozaHhielZqTjAxM00xZEJNbTVuVmw5d0xXYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "好滋味老店，口味偏重，泡菜牛肉是中式泡菜，有很香很香的發酵味，很爽口，帶一點酒香～\n\n點菜會附豆芽湯跟可免費續的茶和飯，飯還很貼心的準備蓬萊米跟在來米兩種的選擇，假日生意非常好，很多外帶也很多內用的，需要等一陣子，但上菜算蠻快的\n\n主餐價位有190、220、250三種，也有不同的餐和大菜（紅燒魚、滷牛腱）可以點，選擇算蠻多的\n\n雖然是老店，但服務很好，桌子也非常乾淨不會黏黏的，很推薦可以帶家人來吃～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "好滋味老店，口味偏重，泡菜牛肉是中式泡菜，有很香很香的發酵味，很爽口，帶一點酒香～\n\n點菜會附豆芽湯跟可免費續的茶和飯，飯還很貼心的準備蓬萊米跟在來米兩種的選擇，假日生意非常好，很多外帶也很多內用的，需要等一陣子，但上菜算蠻快的\n\n主餐價位有190、220、250三種，也有不同的餐和大菜（紅燒魚、滷牛腱）可以點，選擇算蠻多的\n\n雖然是老店，但服務很好，桌子也非常乾淨不會黏黏的，很推薦可以帶家人來吃～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Anne",
+        "uri": "https://www.google.com/maps/contrib/111652318183326998614/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5SaKt08P3443AeBhBV3a93gCabBqdn4L7eEMjlECREyiMFz7C=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-14T13:46:44.190587649Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tReVozaHhielZqTjAxM00xZEJNbTVuVmw5d0xXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tReVozaHhielZqTjAxM00xZEJNbTVuVmw5d0xXYxAB!2m1!1s0x3442abd5d86bf4bd:0xb1b4ca9dc8c02465"
+    }
+  ]
+}

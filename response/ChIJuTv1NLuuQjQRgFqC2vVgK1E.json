@@ -1,0 +1,134 @@
+{
+  "id": "ChIJuTv1NLuuQjQRgFqC2vVgK1E",
+  "types": [
+    "pub",
+    "bistro",
+    "liquor_store",
+    "bar",
+    "restaurant",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2882 8666",
+  "formattedAddress": "11162台灣臺北市士林區大東路152號",
+  "location": {
+    "latitude": 25.0923476,
+    "longitude": 121.52538159999999
+  },
+  "rating": 4.8,
+  "websiteUri": "https://linktr.ee/odin.shilin",
+  "userRatingCount": 2505,
+  "displayName": {
+    "text": "士林放感情餐酒館",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJuTv1NLuuQjQRgFqC2vVgK1E/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ad2MxWnBRVlZTVFhBMWJuRTJZMEpDVEZKS00zYxAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 5,
+      "text": {
+        "text": "氛圍佳、調酒佳、貓貓可愛的酒吧，菜單以動漫為主題，並有附註酒感、酸度、甜度。室內裝潢設計獨特，主題調酒裝飾亦富有巧思，且本次遇到的調酒師講解詳細並友善，值得再訪！\n260213-14\n10252524",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "氛圍佳、調酒佳、貓貓可愛的酒吧，菜單以動漫為主題，並有附註酒感、酸度、甜度。室內裝潢設計獨特，主題調酒裝飾亦富有巧思，且本次遇到的調酒師講解詳細並友善，值得再訪！\n260213-14\n10252524",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "YiZhen Lin",
+        "uri": "https://www.google.com/maps/contrib/103939476763483479537/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL-kVDb0173WvMJC39qgdWJTJ8bdr0pmcFYvkmGLF81CPbI7Q=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-03-02T11:21:21.921671853Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ad2MxWnBRVlZTVFhBMWJuRTJZMEpDVEZKS00zYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ad2MxWnBRVlZTVFhBMWJuRTJZMEpDVEZKS00zYxAB!2m1!1s0x3442aebb34f53bb9:0x512b60f5da825a80"
+    },
+    {
+      "name": "places/ChIJuTv1NLuuQjQRgFqC2vVgK1E/reviews/Ci9DQUlRQUNvZENodHljRjlvT25NeFVsVXRTRU5JTVdkamFUQkdOMFZXV2swNVpHYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "大家都是第一次來到這家餐酒館，搶頭香成為店裡第一批客人😏\n\n一翻開菜單瞬間吸引大家眼球，是漫畫，而且好多可愛擺飾，也都介紹得好詳細，店內有兩層樓，二樓主要是吸水煙，尤其是燈光設計我非常愛，手機一直拍拍拍，每組酒都有乾冰，拍照起來更仙更美，也是我們這群人最吵鬧😆\n\n殊不知過了多久意外發生，我把酒打翻了，好在沒波及到其他客人，酒杯沒破，工作人員迅速處理好，貼心的是老闆又補給我，還多送一杯Shot說是懲罰，但很好喝啦！！\n\n今天朋友生日還有生日禮，香檳紅一組或蛋糕，我們都選香檳紅，一上來也是不得了，很像花束，還有唱歌這趴儀式感，所有店內客人都很開心，老闆很會帶動氣氛也很大方有趣，餐點也是超級好吃，情緒價值有拉滿，剛好這天有四組客人都有壽星，我們這群有六人，我們最後要離開時，老闆又送我們一人一杯Shot\n，很會做人也很會做生意，五顆星都是給老闆的，謝謝老闆給我們這麼愉快的夜晚😁😚",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "大家都是第一次來到這家餐酒館，搶頭香成為店裡第一批客人😏\n\n一翻開菜單瞬間吸引大家眼球，是漫畫，而且好多可愛擺飾，也都介紹得好詳細，店內有兩層樓，二樓主要是吸水煙，尤其是燈光設計我非常愛，手機一直拍拍拍，每組酒都有乾冰，拍照起來更仙更美，也是我們這群人最吵鬧😆\n\n殊不知過了多久意外發生，我把酒打翻了，好在沒波及到其他客人，酒杯沒破，工作人員迅速處理好，貼心的是老闆又補給我，還多送一杯Shot說是懲罰，但很好喝啦！！\n\n今天朋友生日還有生日禮，香檳紅一組或蛋糕，我們都選香檳紅，一上來也是不得了，很像花束，還有唱歌這趴儀式感，所有店內客人都很開心，老闆很會帶動氣氛也很大方有趣，餐點也是超級好吃，情緒價值有拉滿，剛好這天有四組客人都有壽星，我們這群有六人，我們最後要離開時，老闆又送我們一人一杯Shot\n，很會做人也很會做生意，五顆星都是給老闆的，謝謝老闆給我們這麼愉快的夜晚😁😚",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張雨涵",
+        "uri": "https://www.google.com/maps/contrib/100961781394957272188/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL59eDGu_cDjMdpu9WzMaAGuT97M081BsJlSNhSmyrpo0BtJkg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-15T10:50:23.770657673Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25NeFVsVXRTRU5JTVdkamFUQkdOMFZXV2swNVpHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25NeFVsVXRTRU5JTVdkamFUQkdOMFZXV2swNVpHYxAB!2m1!1s0x3442aebb34f53bb9:0x512b60f5da825a80"
+    },
+    {
+      "name": "places/ChIJuTv1NLuuQjQRgFqC2vVgK1E/reviews/Ci9DQUlRQUNvZENodHljRjlvT25acFpGUndibW93YjE5aFQzTkRkbWgwVDBWQ01uYxAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 5,
+      "text": {
+        "text": "擁有復古又chill 的氛圍，讓人能輕鬆的享用風味獨特的創意調酒、美味餐點，服務人員都很親切、貼心的服務，讓我們感到很開心，真心推薦是情侶約會、閨蜜聚會、慶生包場、續攤宵夜必來的水煙餐酒館！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "擁有復古又chill 的氛圍，讓人能輕鬆的享用風味獨特的創意調酒、美味餐點，服務人員都很親切、貼心的服務，讓我們感到很開心，真心推薦是情侶約會、閨蜜聚會、慶生包場、續攤宵夜必來的水煙餐酒館！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Christine Huang",
+        "uri": "https://www.google.com/maps/contrib/112722289440114996079/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKcPHyxiHIbRd4JGd1OD0V3CakJmSdkGI4gKeEMeGhzX0Blsfc=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-21T13:43:43.011641676Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25acFpGUndibW93YjE5aFQzTkRkbWgwVDBWQ01uYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25acFpGUndibW93YjE5aFQzTkRkbWgwVDBWQ01uYxAB!2m1!1s0x3442aebb34f53bb9:0x512b60f5da825a80"
+    },
+    {
+      "name": "places/ChIJuTv1NLuuQjQRgFqC2vVgK1E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tJM2NWUkVlRk5VVnkxa1lWTnpTMDFoWnpCQmRWRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "三人用餐消費約2.8K。\n假日低消每人600元，限時三小時，服務沒話說耐心熱情。\n\n點餐，\n酥炸椒鹽美人魚120元（好吃配酒涮嘴），\n鮭魚明太子麵 350元（好吃濃郁會飽足，大推），\n醬爆牛肉塊300元（牛肉有點老醬也不喜，略油）\n香料雞腿塊300元（好吃下酒酥脆調味好）。\n\n酒類選，\n2號／5號／8號／環遊世界。\n\n覺得調酒普通，層次不足，\n不驚艷，\n雖有儀式感但不深刻（因為是組裝的簡單擺飾），\n\n不過，整體體驗還是好的，\n大致上餐點好吃，\n用餐三小時，可以聊好聊滿～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "三人用餐消費約2.8K。\n假日低消每人600元，限時三小時，服務沒話說耐心熱情。\n\n點餐，\n酥炸椒鹽美人魚120元（好吃配酒涮嘴），\n鮭魚明太子麵 350元（好吃濃郁會飽足，大推），\n醬爆牛肉塊300元（牛肉有點老醬也不喜，略油）\n香料雞腿塊300元（好吃下酒酥脆調味好）。\n\n酒類選，\n2號／5號／8號／環遊世界。\n\n覺得調酒普通，層次不足，\n不驚艷，\n雖有儀式感但不深刻（因為是組裝的簡單擺飾），\n\n不過，整體體驗還是好的，\n大致上餐點好吃，\n用餐三小時，可以聊好聊滿～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "一閃一閃亮金金",
+        "uri": "https://www.google.com/maps/contrib/115266089237055771205/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWtyu5ZTYYrH_sNZ2wINdSxJFkmdKZH6qFk3lo9g9jZORIvzjLL=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-12-14T06:05:51.772702465Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tJM2NWUkVlRk5VVnkxa1lWTnpTMDFoWnpCQmRWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tJM2NWUkVlRk5VVnkxa1lWTnpTMDFoWnpCQmRWRRAB!2m1!1s0x3442aebb34f53bb9:0x512b60f5da825a80"
+    },
+    {
+      "name": "places/ChIJuTv1NLuuQjQRgFqC2vVgK1E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paQ05WZHRSMk5EVkhWbVYyOVBaRzkyTkZJdE5uYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "一進去店面 以為桌次很少\n後來發現還有二樓\n可以帶狗狗來 真得超級寵物友善的那種\n不是不落地 關籠的那種喔\n十二種酒都很可愛\n挑了很久當第一杯\n但選的二號竟然說沒有 可惡\n但喝到的六號龍貓當第一杯超開心的啦\n好好喝\n下次想試試看特調\n\n我們喝的\n四號霍爾的移動城堡\n七號魔女宅急便\n九號天空之城\n都很好喝\n但我還是最喜歡六號龍貓了\n\n食物大致上都好吃\n點了\n肯瓊辣味炸雞沙拉\n生鮭魚明太子麵\n金沙小卷？（有點忘記名稱）\n炸物拼盤\n牛排\n除了拼盤的薯條不大滿意 其他都不錯\n而且三個人點這些份量有點太多了 哈哈哈\n\n然後好奇別桌有很美很特別的酒\n就詢問了一下\n說是 生日當月的招待\n是氣泡特調加一點紅酒\n超美又超好喝\n這種免費招待也太好了！！！\n然後還給了壽星一個氣球 上面還有\n特製畫畫 超可愛\n\n最後的美中不足就是\n有些服務生收東西有點太快...\n盤子裡面還有食物 或是酒杯還有一些酒\n就要收走\n是那種拿了才說要收走（某一位 大部分還是先詢問 才會拿）\n拿起了我還有一點酒的杯子說：這可以收了嗎？\n我立馬伸手把酒杯拿回來 說：還沒喝完！\n\n但真得蠻喜歡這間店的\n只是有時候音樂聲音有點大到聽不到另一邊的人說話 哈哈哈哈 但Bar似乎就是這樣\n還有機會會想去各個不同系列的放感情餐廳\n謝謝你們\n\n目前吃了四家，最喜歡的還是這家放感情系列。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一進去店面 以為桌次很少\n後來發現還有二樓\n可以帶狗狗來 真得超級寵物友善的那種\n不是不落地 關籠的那種喔\n十二種酒都很可愛\n挑了很久當第一杯\n但選的二號竟然說沒有 可惡\n但喝到的六號龍貓當第一杯超開心的啦\n好好喝\n下次想試試看特調\n\n我們喝的\n四號霍爾的移動城堡\n七號魔女宅急便\n九號天空之城\n都很好喝\n但我還是最喜歡六號龍貓了\n\n食物大致上都好吃\n點了\n肯瓊辣味炸雞沙拉\n生鮭魚明太子麵\n金沙小卷？（有點忘記名稱）\n炸物拼盤\n牛排\n除了拼盤的薯條不大滿意 其他都不錯\n而且三個人點這些份量有點太多了 哈哈哈\n\n然後好奇別桌有很美很特別的酒\n就詢問了一下\n說是 生日當月的招待\n是氣泡特調加一點紅酒\n超美又超好喝\n這種免費招待也太好了！！！\n然後還給了壽星一個氣球 上面還有\n特製畫畫 超可愛\n\n最後的美中不足就是\n有些服務生收東西有點太快...\n盤子裡面還有食物 或是酒杯還有一些酒\n就要收走\n是那種拿了才說要收走（某一位 大部分還是先詢問 才會拿）\n拿起了我還有一點酒的杯子說：這可以收了嗎？\n我立馬伸手把酒杯拿回來 說：還沒喝完！\n\n但真得蠻喜歡這間店的\n只是有時候音樂聲音有點大到聽不到另一邊的人說話 哈哈哈哈 但Bar似乎就是這樣\n還有機會會想去各個不同系列的放感情餐廳\n謝謝你們\n\n目前吃了四家，最喜歡的還是這家放感情系列。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jen78",
+        "uri": "https://www.google.com/maps/contrib/111371484210165292499/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUMDq2HswJHlAQy785trnsS3FeiZt52Zw0NdUmint12VdUAn7v2Mg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-23T16:57:05.801832473Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paQ05WZHRSMk5EVkhWbVYyOVBaRzkyTkZJdE5uYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paQ05WZHRSMk5EVkhWbVYyOVBaRzkyTkZJdE5uYxAB!2m1!1s0x3442aebb34f53bb9:0x512b60f5da825a80"
+    }
+  ]
+}

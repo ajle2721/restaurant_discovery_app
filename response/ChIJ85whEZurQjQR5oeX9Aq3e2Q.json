@@ -1,0 +1,134 @@
+{
+  "id": "ChIJ85whEZurQjQR5oeX9Aq3e2Q",
+  "types": [
+    "bistro",
+    "cafe",
+    "italian_restaurant",
+    "food_store",
+    "restaurant",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2713 4533",
+  "formattedAddress": "105台灣臺北市松山區敦化北路244巷37號",
+  "location": {
+    "latitude": 25.0610134,
+    "longitude": 121.54761140000001
+  },
+  "rating": 4.8,
+  "websiteUri": "https://www.facebook.com/IMcharlotte2021",
+  "userRatingCount": 874,
+  "displayName": {
+    "text": "夏綠沁私房義大利麵燉飯",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ85whEZurQjQR5oeX9Aq3e2Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSTFNGYzNlRGxJT1dzM1kwMDFYM1ZCUjJJNUxXYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "可以先訂位，店內位子不多，空間也小小的，附近算好停機車，位於熱鬧的商圈，餐點現點現做要等上一陣子，還蠻好吃的！份量也多，吃完好飽啊～品項沒有到很多可是很夠了！整體來說很讚👍值得吃～多人聚會好去處",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "可以先訂位，店內位子不多，空間也小小的，附近算好停機車，位於熱鬧的商圈，餐點現點現做要等上一陣子，還蠻好吃的！份量也多，吃完好飽啊～品項沒有到很多可是很夠了！整體來說很讚👍值得吃～多人聚會好去處",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ying Ting Huang",
+        "uri": "https://www.google.com/maps/contrib/117052972868540332934/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXTsLZQvqz4WqlfRRdBrDFRdyysf36UD5iGCtQcljQfKizRjvDk=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-02-14T15:16:08.782844081Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSTFNGYzNlRGxJT1dzM1kwMDFYM1ZCUjJJNUxXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSTFNGYzNlRGxJT1dzM1kwMDFYM1ZCUjJJNUxXYxAB!2m1!1s0x3442ab9b11219cf3:0x647bb70af49787e6"
+    },
+    {
+      "name": "places/ChIJ85whEZurQjQR5oeX9Aq3e2Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KS1pYRjZXa05YUWpWVU9XcGpORXBZUzBsSlJHYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點表現出色，用餐氣氛輕鬆舒服，非常適合聊天聚會。因為太急著開動，主菜來不及拍照就被掃光😂，整體 CP 值很高，會想再訪。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點表現出色，用餐氣氛輕鬆舒服，非常適合聊天聚會。因為太急著開動，主菜來不及拍照就被掃光😂，整體 CP 值很高，會想再訪。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Orange Huang",
+        "uri": "https://www.google.com/maps/contrib/115355299933918588664/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWbBYSXAyHKl6D0n8XDA-NE2RT9IK2j3OGxUYdEYr6Xmk8CdZfRPg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-01T13:52:17.949193120Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KS1pYRjZXa05YUWpWVU9XcGpORXBZUzBsSlJHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KS1pYRjZXa05YUWpWVU9XcGpORXBZUzBsSlJHYxAB!2m1!1s0x3442ab9b11219cf3:0x647bb70af49787e6"
+    },
+    {
+      "name": "places/ChIJ85whEZurQjQR5oeX9Aq3e2Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKblZXOHhkak5RV2xsWVdHSjZSVGRQVkcxak5HYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點非常好吃、環境也相當舒適的義式餐廳，提供口味特別的義大利麵、燉飯、鬆餅&飲料等～大推海鮮椒麻義大利麵！！麵體吸飽了醬汁，超級涮嘴😋紅酒牛肉飯的牛肉也很大塊，燉到入口即化❤️巧克力鬆餅也是我的愛，趁熱吃有夠酥脆！配上冰淇淋&巧可力醬超級享受！建議巧克力醬份量可以再多一點，不然一下就吃完了，不太過癮～店內裝潢也滿雅緻的，氣氛也滿好的，非常適合與三五好友聚聚聊天、享用美食👍第一次來用餐時，郭子乾還坐我們隔壁桌，但他和朋友聚餐，就沒有打擾了～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點非常好吃、環境也相當舒適的義式餐廳，提供口味特別的義大利麵、燉飯、鬆餅&飲料等～大推海鮮椒麻義大利麵！！麵體吸飽了醬汁，超級涮嘴😋紅酒牛肉飯的牛肉也很大塊，燉到入口即化❤️巧克力鬆餅也是我的愛，趁熱吃有夠酥脆！配上冰淇淋&巧可力醬超級享受！建議巧克力醬份量可以再多一點，不然一下就吃完了，不太過癮～店內裝潢也滿雅緻的，氣氛也滿好的，非常適合與三五好友聚聚聊天、享用美食👍第一次來用餐時，郭子乾還坐我們隔壁桌，但他和朋友聚餐，就沒有打擾了～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃蘭",
+        "uri": "https://www.google.com/maps/contrib/112349495770814501589/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWuhBMYjz86LhyNLm2dpT3daHsrFrrza5vB6VzF6xrREIqLuQamAQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-17T06:58:29.676058196Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKblZXOHhkak5RV2xsWVdHSjZSVGRQVkcxak5HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKblZXOHhkak5RV2xsWVdHSjZSVGRQVkcxak5HYxAB!2m1!1s0x3442ab9b11219cf3:0x647bb70af49787e6"
+    },
+    {
+      "name": "places/ChIJ85whEZurQjQR5oeX9Aq3e2Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSdFJWQmlaRzl6U214dldrRkVOMUpNYkd4RlRrRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "今天吃的是蕃茄香紅酒牛肉燉飯\n來之前才發生了一次小擦撞\n帶著車子受損的哀傷心情來這果腹\n不吃不知道，一吃驚艷到爆！\n\n牛頰肉燉得軟嫩多汁，一開始想說還要用的刀來分切，根本不用！湯匙就能輕鬆切斷軟嫩牛肉～更不用說放進嘴裡的口感了！\n\n燉飯保有著他經典的口感，在臺灣因為很容易被誤以為是「米心沒透」所以都會煮得比較軟爛，或是用一般的米來烹飪，但燉飯就該用燉飯專用的米種，那種口感真的才是經典！\n（吃不習慣的朋友們也有選擇口感軟的選項唷）\n\n燉飯的醬料也是讓人吃了不會膩也不會有味道不夠的問題～這家真的很猛\n\n真的要給自己的舌頭享受的機會\n\n停車的話不用擔心，旁邊有兩個公有停車場\n都是走路就能到的距離唷！\n\n大推～絕對會再來！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天吃的是蕃茄香紅酒牛肉燉飯\n來之前才發生了一次小擦撞\n帶著車子受損的哀傷心情來這果腹\n不吃不知道，一吃驚艷到爆！\n\n牛頰肉燉得軟嫩多汁，一開始想說還要用的刀來分切，根本不用！湯匙就能輕鬆切斷軟嫩牛肉～更不用說放進嘴裡的口感了！\n\n燉飯保有著他經典的口感，在臺灣因為很容易被誤以為是「米心沒透」所以都會煮得比較軟爛，或是用一般的米來烹飪，但燉飯就該用燉飯專用的米種，那種口感真的才是經典！\n（吃不習慣的朋友們也有選擇口感軟的選項唷）\n\n燉飯的醬料也是讓人吃了不會膩也不會有味道不夠的問題～這家真的很猛\n\n真的要給自己的舌頭享受的機會\n\n停車的話不用擔心，旁邊有兩個公有停車場\n都是走路就能到的距離唷！\n\n大推～絕對會再來！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "クソビッチ",
+        "uri": "https://www.google.com/maps/contrib/103337488070887175253/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXYBBWF3_RRfkDaWeIT2mLh-VA0HywwAOGKXaJ4RDX_-I9gx6Nv=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-29T08:03:33.190385513Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSdFJWQmlaRzl6U214dldrRkVOMUpNYkd4RlRrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSdFJWQmlaRzl6U214dldrRkVOMUpNYkd4RlRrRRAB!2m1!1s0x3442ab9b11219cf3:0x647bb70af49787e6"
+    },
+    {
+      "name": "places/ChIJ85whEZurQjQR5oeX9Aq3e2Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taQk4zVlJNWGx2VDNaRVpHeEpUV1JwWlc1WlVVRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "不知道餐廳名字是不是改了，上次來的時候好像叫「夏綠蒂」。環境溫馨明亮，是寵物友善的餐廳。餐點也很有特色，食材新鮮，調味馥郁、有層次！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "不知道餐廳名字是不是改了，上次來的時候好像叫「夏綠蒂」。環境溫馨明亮，是寵物友善的餐廳。餐點也很有特色，食材新鮮，調味馥郁、有層次！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Sunny Lee",
+        "uri": "https://www.google.com/maps/contrib/111202970338653421522/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI0SHM_LbFOBJOT3pDzllRz99KWz8rBnjCPVVVjksEyIg-S9A=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-11-05T13:16:46.772050843Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taQk4zVlJNWGx2VDNaRVpHeEpUV1JwWlc1WlVVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taQk4zVlJNWGx2VDNaRVpHeEpUV1JwWlc1WlVVRRAB!2m1!1s0x3442ab9b11219cf3:0x647bb70af49787e6"
+    }
+  ]
+}

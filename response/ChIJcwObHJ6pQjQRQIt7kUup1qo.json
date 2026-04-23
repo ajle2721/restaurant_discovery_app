@@ -1,0 +1,23 @@
+{
+  "id": "ChIJcwObHJ6pQjQRQIt7kUup1qo",
+  "types": [
+    "taiwanese_restaurant",
+    "tea_house",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2351 9554",
+  "formattedAddress": "100台灣臺北市中正區中山南路21之1號",
+  "location": {
+    "latitude": 25.0368012,
+    "longitude": 121.51898750000001
+  },
+  "websiteUri": "http://chunshuitang.com.tw/",
+  "displayName": {
+    "text": "春水堂 中正店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": []
+}

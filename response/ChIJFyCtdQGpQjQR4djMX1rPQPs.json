@@ -1,0 +1,129 @@
+{
+  "id": "ChIJFyCtdQGpQjQR4djMX1rPQPs",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2550 8010",
+  "formattedAddress": "10353台灣臺北市大同區承德路二段14號",
+  "location": {
+    "latitude": 25.0555007,
+    "longitude": 121.51796540000001
+  },
+  "rating": 4.5,
+  "websiteUri": "https://www.facebook.com/Zhananbistro5/",
+  "userRatingCount": 1077,
+  "displayName": {
+    "text": "渣男 中山店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJFyCtdQGpQjQR4djMX1rPQPs/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GTGRqVkNOMWx5VW5SRWVYVktZVUZ0ZG05dE9WRRAB",
+      "relativePublishTimeDescription": "4 週前",
+      "rating": 1,
+      "text": {
+        "text": "480的滷味拼盤很一般   沒什麼特色\n牛肉也一般   湯麵就是麵+湯\n餐點選擇不多   調酒感覺就是在亂搞\n調酒名字自以為的風趣\n非常不推薦   巷口賣的陽春麵+滷味   可能加起來300有找",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "480的滷味拼盤很一般   沒什麼特色\n牛肉也一般   湯麵就是麵+湯\n餐點選擇不多   調酒感覺就是在亂搞\n調酒名字自以為的風趣\n非常不推薦   巷口賣的陽春麵+滷味   可能加起來300有找",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "hsu Black",
+        "uri": "https://www.google.com/maps/contrib/115395137171456624718/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKhpwWuqb6vx8Ww3EjnYZkeSjp1J1YfDGbsX8H-HsTHBMwo9iI=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-19T20:30:56.469876532Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GTGRqVkNOMWx5VW5SRWVYVktZVUZ0ZG05dE9WRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GTGRqVkNOMWx5VW5SRWVYVktZVUZ0ZG05dE9WRRAB!2m1!1s0x3442a90175ad2017:0xfb40cf5a5fccd8e1"
+    },
+    {
+      "name": "places/ChIJFyCtdQGpQjQR4djMX1rPQPs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w4dFIxSjBWWFI0YVhsdFNuTXlUSE5uUzJONmNGRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "低消一杯飲料，現金結帳。\n滷味和調酒的店，調酒ㄧ杯320起，滷味ㄧ小盤80起。\n特製乾麵很好吃，這個必點，豬血糕也不錯，滷味拼盤就比較普通，口味偏死鹹。\n中場還有贈一小杯shot給每人一杯。\n整體來說氣氛很熱鬧，有點吵但是聽的到同桌的人說話，但價位不便宜下次會再考慮",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "低消一杯飲料，現金結帳。\n滷味和調酒的店，調酒ㄧ杯320起，滷味ㄧ小盤80起。\n特製乾麵很好吃，這個必點，豬血糕也不錯，滷味拼盤就比較普通，口味偏死鹹。\n中場還有贈一小杯shot給每人一杯。\n整體來說氣氛很熱鬧，有點吵但是聽的到同桌的人說話，但價位不便宜下次會再考慮",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Isis Chou",
+        "uri": "https://www.google.com/maps/contrib/103803714482018239969/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWDka99x6Awj4M5N93ReXUSeyltQOpCtJioEOJvKBD0dTA0sH8Yiw=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-08-21T08:28:21.573621702Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w4dFIxSjBWWFI0YVhsdFNuTXlUSE5uUzJONmNGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w4dFIxSjBWWFI0YVhsdFNuTXlUSE5uUzJONmNGRRAB!2m1!1s0x3442a90175ad2017:0xfb40cf5a5fccd8e1"
+    },
+    {
+      "name": "places/ChIJFyCtdQGpQjQR4djMX1rPQPs/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Sd1NFNDJTemd6TUhKd2NEZGZiRGd6UW0xeGJYYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 2,
+      "text": {
+        "text": "整間店的定價完全不太懂 貴的好離譜\n低消是兩杯飲料\n\n菜單標示不清 滷味拼盤有什麼 攪和攪和又是什麼 想問店員 店員好像也沒注意到 一直在廚房聊天 晃來晃去\n\n滷味拼盤 480沒什麼東西 （豬腱肉/雞胗/豆乾/貢丸/海帶）貴到荒謬了⋯而且就很普通的東西\n\n烤餃子好吃 醬料很讚",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "整間店的定價完全不太懂 貴的好離譜\n低消是兩杯飲料\n\n菜單標示不清 滷味拼盤有什麼 攪和攪和又是什麼 想問店員 店員好像也沒注意到 一直在廚房聊天 晃來晃去\n\n滷味拼盤 480沒什麼東西 （豬腱肉/雞胗/豆乾/貢丸/海帶）貴到荒謬了⋯而且就很普通的東西\n\n烤餃子好吃 醬料很讚",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Monica Chen",
+        "uri": "https://www.google.com/maps/contrib/101879221626164642040/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUNyhkehvE8b39Jg7F2cfBq2bMdXDuxxmZSjNV1mzMCXYRqZ355Nw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-08-19T05:38:25.903388801Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Sd1NFNDJTemd6TUhKd2NEZGZiRGd6UW0xeGJYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Sd1NFNDJTemd6TUhKd2NEZGZiRGd6UW0xeGJYYxAB!2m1!1s0x3442a90175ad2017:0xfb40cf5a5fccd8e1"
+    },
+    {
+      "name": "places/ChIJFyCtdQGpQjQR4djMX1rPQPs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOeWEyRnRVVFZZYlhWNU5tUlJkR2d0VG5KcFFtYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "餐點味道不錯，價格偏高，內用低消需要一杯飲品，因當天騎車所以喝了無酒精飲料，所以只喝了可樂，但店裡的燈光太昏暗，所以看菜單還有一點吃力。內用不收服務費。只是講話聊天因為環境吵雜會有一點吃力就是了。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點味道不錯，價格偏高，內用低消需要一杯飲品，因當天騎車所以喝了無酒精飲料，所以只喝了可樂，但店裡的燈光太昏暗，所以看菜單還有一點吃力。內用不收服務費。只是講話聊天因為環境吵雜會有一點吃力就是了。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "愛吃喵",
+        "uri": "https://www.google.com/maps/contrib/102695207878689937598/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW_OHZeZydyt_ab97K6GkkZGSxCr7GcxfAiTKONyf4GdgW7BYg=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-08-19T14:11:42.443376130Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOeWEyRnRVVFZZYlhWNU5tUlJkR2d0VG5KcFFtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOeWEyRnRVVFZZYlhWNU5tUlJkR2d0VG5KcFFtYxAB!2m1!1s0x3442a90175ad2017:0xfb40cf5a5fccd8e1"
+    },
+    {
+      "name": "places/ChIJFyCtdQGpQjQR4djMX1rPQPs/reviews/ChZDSUhNMG9nS0VJQ0FnSUNqMExIdlB3EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "餐點真的如google評價上的。\n\n麻辣鴨血不好吃，\n牛肚整個鹹到我不太想吃😥😥\n\n炸餃子🥟還行，\n素雞有黃瓜點綴也還不錯👌🏻\n\n上次來的時候有吃乾拌麵，\n印象中是好吃的～\n\n酒的部分這次喝了3隻猴子🐒🐒🐒\n就一般的威士忌，\n店員有很貼心的問我要幾顆冰塊，然後拿了水讓我自己加😊\n\n上次來因為客人比較多所以只剩中間的小矮圓桌可以坐，\n但是這次店內只有一組客人，\n還是不給我們大一點比較好坐的位子，這點比較不ok。\n\n確定會因為餐點的部分不在考慮來這小酌了🤣",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點真的如google評價上的。\n\n麻辣鴨血不好吃，\n牛肚整個鹹到我不太想吃😥😥\n\n炸餃子🥟還行，\n素雞有黃瓜點綴也還不錯👌🏻\n\n上次來的時候有吃乾拌麵，\n印象中是好吃的～\n\n酒的部分這次喝了3隻猴子🐒🐒🐒\n就一般的威士忌，\n店員有很貼心的問我要幾顆冰塊，然後拿了水讓我自己加😊\n\n上次來因為客人比較多所以只剩中間的小矮圓桌可以坐，\n但是這次店內只有一組客人，\n還是不給我們大一點比較好坐的位子，這點比較不ok。\n\n確定會因為餐點的部分不在考慮來這小酌了🤣",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yang luya",
+        "uri": "https://www.google.com/maps/contrib/112072117440493573565/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0wAcM8JK0vPeXQbzEc-SwqHjaAUelnYc3wB-uAO9DXA8R0ZBDtA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2024-04-16T23:19:22.492533Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNqMExIdlB3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNqMExIdlB3EAE!2m1!1s0x3442a90175ad2017:0xfb40cf5a5fccd8e1"
+    }
+  ]
+}

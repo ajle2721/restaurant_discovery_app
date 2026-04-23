@@ -1,0 +1,131 @@
+{
+  "id": "ChIJCzPYW2ipQjQR-p1YtM7k8jA",
+  "types": [
+    "dim_sum_restaurant",
+    "cantonese_restaurant",
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2511 7506",
+  "formattedAddress": "10491台灣臺北市中山區長春路16號",
+  "location": {
+    "latitude": 25.054801599999998,
+    "longitude": 121.52362959999998
+  },
+  "rating": 4.1,
+  "userRatingCount": 3341,
+  "displayName": {
+    "text": "金品茶樓",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJCzPYW2ipQjQR-p1YtM7k8jA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaUFZtaDRiM294VTNwU1QycEtjbkIwUjJoVU9GRRAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 5,
+      "text": {
+        "text": "帶老婆來台北吃浙江菜，推薦無錫排骨東坡肉，要配飯 否則太塩和太甜 。5星級 中價位 比港式飲茶好吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "帶老婆來台北吃浙江菜，推薦無錫排骨東坡肉，要配飯 否則太塩和太甜 。5星級 中價位 比港式飲茶好吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "mico chen",
+        "uri": "https://www.google.com/maps/contrib/100956804816122245431/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIrNsA_4jil8AuwCR7gWHj0NDGH9YWjI_WSEuPUE-1vRi_JbQ=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-02-26T09:28:14.627715088Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaUFZtaDRiM294VTNwU1QycEtjbkIwUjJoVU9GRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaUFZtaDRiM294VTNwU1QycEtjbkIwUjJoVU9GRRAB!2m1!1s0x3442a9685bd8330b:0x30f2e4ceb4589dfa"
+    },
+    {
+      "name": "places/ChIJCzPYW2ipQjQR-p1YtM7k8jA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WMWFFeDBOMmc0V0RsQ1RYQXRZekU1TlZoemMxRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "拜訪日期：Dec/2025\n蝦鬆要趁熱吃，冷掉後油條會吃起來更油\n小籠包還不錯、菜包很特別的是他的皮，很軟嫩👍🏻\n年糕雪菜、蔥爆牛肉都超鹹的，可能不小心加太多鹽\n最後來個心太軟當作甜點\n這裡超多觀光團客、想吃建議先訂位",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "拜訪日期：Dec/2025\n蝦鬆要趁熱吃，冷掉後油條會吃起來更油\n小籠包還不錯、菜包很特別的是他的皮，很軟嫩👍🏻\n年糕雪菜、蔥爆牛肉都超鹹的，可能不小心加太多鹽\n最後來個心太軟當作甜點\n這裡超多觀光團客、想吃建議先訂位",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "H. L",
+        "uri": "https://www.google.com/maps/contrib/111053996602291428400/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjValfEByqSGXUdPPWzmuz4Cnohw3RBu2LzSlhIp41bvYXNVEqdU=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-12-06T10:55:43.938197149Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WMWFFeDBOMmc0V0RsQ1RYQXRZekU1TlZoemMxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WMWFFeDBOMmc0V0RsQ1RYQXRZekU1TlZoemMxRRAB!2m1!1s0x3442a9685bd8330b:0x30f2e4ceb4589dfa"
+    },
+    {
+      "name": "places/ChIJCzPYW2ipQjQR-p1YtM7k8jA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOME1tRnJRVzVwYUZkMldtWnVla3htWTFsVk0xRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第一次發現的寶藏店，大推的是小籠包（真的湯汁超多又超級燙口）👍雪菜肉絲炒飯也很香，白飯粒粒分明～會推薦朋友來👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次發現的寶藏店，大推的是小籠包（真的湯汁超多又超級燙口）👍雪菜肉絲炒飯也很香，白飯粒粒分明～會推薦朋友來👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "錢多多",
+        "uri": "https://www.google.com/maps/contrib/100272711984905716995/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW_TRJ2P1AnSpXAncgAiQX6Sh5RltqHesVcXOFW5Nq4iufvSiXR7Q=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-19T04:01:25.142468598Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOME1tRnJRVzVwYUZkMldtWnVla3htWTFsVk0xRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOME1tRnJRVzVwYUZkMldtWnVla3htWTFsVk0xRRAB!2m1!1s0x3442a9685bd8330b:0x30f2e4ceb4589dfa"
+    },
+    {
+      "name": "places/ChIJCzPYW2ipQjQR-p1YtM7k8jA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SMlUwZ3diRVpxZDJaelMwWjFjSGhZYjJ0ME9XYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "因為看生意非常得好，所以我們就進來嚐鮮，1:30還有九成客人，東西真的蠻好吃的，廁所乾淨，唯一最貴的就是生菜蝦鬆加一片生菜要$20。\n中午只到2:00，\n要吃要早一點來、記得訂位哦。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "因為看生意非常得好，所以我們就進來嚐鮮，1:30還有九成客人，東西真的蠻好吃的，廁所乾淨，唯一最貴的就是生菜蝦鬆加一片生菜要$20。\n中午只到2:00，\n要吃要早一點來、記得訂位哦。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Austina Lin",
+        "uri": "https://www.google.com/maps/contrib/109434108742102776006/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLiMWwmsWJ6xSqzpckRR6brYG8V2MWkSaMrePUchbHXIFcvlg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-14T06:08:50.820953300Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SMlUwZ3diRVpxZDJaelMwWjFjSGhZYjJ0ME9XYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SMlUwZ3diRVpxZDJaelMwWjFjSGhZYjJ0ME9XYxAB!2m1!1s0x3442a9685bd8330b:0x30f2e4ceb4589dfa"
+    },
+    {
+      "name": "places/ChIJCzPYW2ipQjQR-p1YtM7k8jA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oMU1WaERTM0ExV1ZGMmRFTlpZMnhTYjNscFZsRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "跟鼎泰豐很相似\n但熱炒的部分口味較重很下飯\n炒飯的話，鼎泰豐略勝\n小籠包的部分都可圈可點",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "跟鼎泰豐很相似\n但熱炒的部分口味較重很下飯\n炒飯的話，鼎泰豐略勝\n小籠包的部分都可圈可點",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Francis Lan",
+        "uri": "https://www.google.com/maps/contrib/115066160859615926679/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIcyFsfMzBULOp4QwBnwymJBzj_OUl3g367sOdXTH5ysrIi=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-18T12:35:16.698744629Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oMU1WaERTM0ExV1ZGMmRFTlpZMnhTYjNscFZsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oMU1WaERTM0ExV1ZGMmRFTlpZMnhTYjNscFZsRRAB!2m1!1s0x3442a9685bd8330b:0x30f2e4ceb4589dfa"
+    }
+  ]
+}

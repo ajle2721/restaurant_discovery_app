@@ -1,0 +1,129 @@
+{
+  "id": "ChIJaQs-tESrQjQRvNYMuU3wROU",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2230 1788",
+  "formattedAddress": "116台灣臺北市文山區興隆路三段112巷3號",
+  "location": {
+    "latitude": 24.9988156,
+    "longitude": 121.5572509
+  },
+  "rating": 4.5,
+  "websiteUri": "https://food.think.com.tw/",
+  "userRatingCount": 770,
+  "displayName": {
+    "text": "星馬泰singmathai（文山店）",
+    "languageCode": "zh"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJaQs-tESrQjQRvNYMuU3wROU/reviews/Ci9DQUlRQUNvZENodHljRjlvT201blRXRjZUVEJaU2tWaldHaHdXWGRmV2xSa05sRRAB",
+      "relativePublishTimeDescription": "1 週前",
+      "rating": 5,
+      "text": {
+        "text": "餐點美味，服務周到，非常值得再訪的一間店。因為去坪林出遊，回程想吃星馬料理就找到這家，推薦雞腿撈麵，樓梯餅，飲料美祿也很好喝。服務生介紹非常詳細也很有禮貌。很喜歡的一間店。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點美味，服務周到，非常值得再訪的一間店。因為去坪林出遊，回程想吃星馬料理就找到這家，推薦雞腿撈麵，樓梯餅，飲料美祿也很好喝。服務生介紹非常詳細也很有禮貌。很喜歡的一間店。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Joy Peng",
+        "uri": "https://www.google.com/maps/contrib/116878997137037087038/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKSikWS9ftrP4HQ0RTwg4eIToAiQw5DLAkpKKsLR80paO1kGA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-03-08T09:58:20.357354511Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201blRXRjZUVEJaU2tWaldHaHdXWGRmV2xSa05sRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201blRXRjZUVEJaU2tWaldHaHdXWGRmV2xSa05sRRAB!2m1!1s0x3442ab44b43e0b69:0xe544f04db90cd6bc"
+    },
+    {
+      "name": "places/ChIJaQs-tESrQjQRvNYMuU3wROU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Sc1dUVllYMUkwWTJNeU5qaGZObk5rWDJGNExWRRAB",
+      "relativePublishTimeDescription": "1 週前",
+      "rating": 1,
+      "text": {
+        "text": "3/10 釐清一下，豆芽菜鋪在雞肉下方，當然是吃到最後才發現頭髮，如果頭髮在雞肉上，您們會沒有看到嗎？\n櫃檯事後有提供折價券表示歉意是沒錯，\n但是我婉拒也是事實；因為上菜小姐都低頭說話卻不戴口罩，這已經是餐飲業的忌諱了！\n\n餐點衛生不夠，豆芽菜裡夾頭髮，服務員態度很優，可是上菜規定要說話，卻都不戴口罩；餐點CP值低，白咖啡一杯$90，看起來是3合1即溶咖啡",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "3/10 釐清一下，豆芽菜鋪在雞肉下方，當然是吃到最後才發現頭髮，如果頭髮在雞肉上，您們會沒有看到嗎？\n櫃檯事後有提供折價券表示歉意是沒錯，\n但是我婉拒也是事實；因為上菜小姐都低頭說話卻不戴口罩，這已經是餐飲業的忌諱了！\n\n餐點衛生不夠，豆芽菜裡夾頭髮，服務員態度很優，可是上菜規定要說話，卻都不戴口罩；餐點CP值低，白咖啡一杯$90，看起來是3合1即溶咖啡",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "靖雯",
+        "uri": "https://www.google.com/maps/contrib/105632482780692650914/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW4CUlPm9Q448_8RRq0uFVXls5LSQ_2CAauGfzIYHolE4iC6tWu=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-03-10T14:16:02.980174800Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Sc1dUVllYMUkwWTJNeU5qaGZObk5rWDJGNExWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Sc1dUVllYMUkwWTJNeU5qaGZObk5rWDJGNExWRRAB!2m1!1s0x3442ab44b43e0b69:0xe544f04db90cd6bc"
+    },
+    {
+      "name": "places/ChIJaQs-tESrQjQRvNYMuU3wROU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaVVYweHBhSE5UU2tWeFl6QnVWeTFETjBoSWFtYxAB",
+      "relativePublishTimeDescription": "1 週前",
+      "rating": 5,
+      "text": {
+        "text": "服務人員很親切，很用心的介紹餐點\n泰椰狗狗焉超級好喝\n餐點都很好吃\n環境衛生也都很好\n結帳的時候櫃檯人員也會詢問今天餐點是否ok\n我覺得蠻好的\n下次還會在回訪",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "服務人員很親切，很用心的介紹餐點\n泰椰狗狗焉超級好喝\n餐點都很好吃\n環境衛生也都很好\n結帳的時候櫃檯人員也會詢問今天餐點是否ok\n我覺得蠻好的\n下次還會在回訪",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳怡如",
+        "uri": "https://www.google.com/maps/contrib/114543552895799073553/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW67tNkyLlBOg7wpgCpu4w2MsUj0ZYnRnCC8v8MKu4YgqA2o7pS=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-03-09T13:14:25.326918937Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaVVYweHBhSE5UU2tWeFl6QnVWeTFETjBoSWFtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaVVYweHBhSE5UU2tWeFl6QnVWeTFETjBoSWFtYxAB!2m1!1s0x3442ab44b43e0b69:0xe544f04db90cd6bc"
+    },
+    {
+      "name": "places/ChIJaQs-tESrQjQRvNYMuU3wROU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tZeGVHbHZXR05EUjNkTE4ydGlXVTl1Y1Zsb1VXYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "海南雞腿撈麵，撈麵硬度適中，口味不會太鹹，雞腿鮮嫩，無骨刺！\n店裡環境乾淨整潔！\n值得再次光顧！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "海南雞腿撈麵，撈麵硬度適中，口味不會太鹹，雞腿鮮嫩，無骨刺！\n店裡環境乾淨整潔！\n值得再次光顧！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "tingchun Lin",
+        "uri": "https://www.google.com/maps/contrib/116615172323721676164/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX6jWP2OE_DO2SqPYBDuCGI0gWp0mPx_PQQ1H0B2Olai513oKTbRA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-16T10:40:51.249633116Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tZeGVHbHZXR05EUjNkTE4ydGlXVTl1Y1Zsb1VXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tZeGVHbHZXR05EUjNkTE4ydGlXVTl1Y1Zsb1VXYxAB!2m1!1s0x3442ab44b43e0b69:0xe544f04db90cd6bc"
+    },
+    {
+      "name": "places/ChIJaQs-tESrQjQRvNYMuU3wROU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oMWRYa3hXV3REU21vMVZYWmZSa1F3ZWkxS1UzYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "第一次吃印度煎餅超大，還真不知該如何下手，哈哈\n整體而言，CP值很高，服務人員也很熱心介紹餐點，東西也很好吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次吃印度煎餅超大，還真不知該如何下手，哈哈\n整體而言，CP值很高，服務人員也很熱心介紹餐點，東西也很好吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃玉梅",
+        "uri": "https://www.google.com/maps/contrib/103732198949836274077/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVfhBQ0BOGI9ndwSNiXkezwCv8xkI1iiZaW7lNS-CIaizhxu2NU=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-18T05:24:56.328439194Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oMWRYa3hXV3REU21vMVZYWmZSa1F3ZWkxS1UzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oMWRYa3hXV3REU21vMVZYWmZSa1F3ZWkxS1UzYxAB!2m1!1s0x3442ab44b43e0b69:0xe544f04db90cd6bc"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "id": "ChIJ97N8KHGqQjQRwyZ8CRnNiuQ",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2938 2321",
+  "formattedAddress": "116台灣臺北市文山區開元街36號",
+  "location": {
+    "latitude": 24.9889993,
+    "longitude": 121.56975200000001
+  },
+  "rating": 3.9,
+  "websiteUri": "https://www.facebook.com/chao.fan.chao.fan/",
+  "userRatingCount": 615,
+  "displayName": {
+    "text": "潮飯",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ97N8KHGqQjQRwyZ8CRnNiuQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tJNU1WbHVVREpRT0ZoS2VXeDVNRVI1VFdablJtYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 1,
+      "text": {
+        "text": "除夕中午領年菜動線混亂無規劃讓人久等，蟹黃娃娃菜550吃不出蟹黃味",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "除夕中午領年菜動線混亂無規劃讓人久等，蟹黃娃娃菜550吃不出蟹黃味",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "傅偲侃",
+        "uri": "https://www.google.com/maps/contrib/100853073299585619258/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLRgMaa1NaQQ5BRSq4ykQCqT6X58ZYPGdoNzavVkAMEcyqfTA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-16T11:02:38.009143767Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tJNU1WbHVVREpRT0ZoS2VXeDVNRVI1VFdablJtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tJNU1WbHVVREpRT0ZoS2VXeDVNRVI1VFdablJtYxAB!2m1!1s0x3442aa71287cb3f7:0xe48acd19097c26c3"
+    },
+    {
+      "name": "places/ChIJ97N8KHGqQjQRwyZ8CRnNiuQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paeVgzUkViVEpCTVVSMmVsaEpaaTFETTFoNmFYYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "前陣子去動物園附近找餐廳🍴\n點少油但還是感覺非常油（個人主觀意見）\n個人推四季豆很好吃👍很下飯\n一碗白飯$20\n沒有收服務費\n二人，一男一女，本身食量不多\n三個菜，三碗飯，差不多就飽了\n費用大約$1000",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "前陣子去動物園附近找餐廳🍴\n點少油但還是感覺非常油（個人主觀意見）\n個人推四季豆很好吃👍很下飯\n一碗白飯$20\n沒有收服務費\n二人，一男一女，本身食量不多\n三個菜，三碗飯，差不多就飽了\n費用大約$1000",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Teresa Lu",
+        "uri": "https://www.google.com/maps/contrib/106673398616714280567/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVN5BFW9lpTYCqygV6Mw5IZJ-rD9MHpk3C-cKLVWs_hMqlnTGHu=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-08-03T03:38:54.735314407Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paeVgzUkViVEpCTVVSMmVsaEpaaTFETTFoNmFYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paeVgzUkViVEpCTVVSMmVsaEpaaTFETTFoNmFYYxAB!2m1!1s0x3442aa71287cb3f7:0xe48acd19097c26c3"
+    },
+    {
+      "name": "places/ChIJ97N8KHGqQjQRwyZ8CRnNiuQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWTVlqTkJNM0pIUmxCalR6UnFOelp4VWt4UVgyYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "木柵區公所旁用餐的好選擇，東坡肉很讚！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "木柵區公所旁用餐的好選擇，東坡肉很讚！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Daffy Lin",
+        "uri": "https://www.google.com/maps/contrib/104414435930197781307/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV_6E4ugOe5JrBbpIq6i0ex5wZ1m0fKMEDpSZkDwKfGFZRm1bq0Lg=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-12-23T04:12:50.797735105Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWTVlqTkJNM0pIUmxCalR6UnFOelp4VWt4UVgyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWTVlqTkJNM0pIUmxCalR6UnFOelp4VWt4UVgyYxAB!2m1!1s0x3442aa71287cb3f7:0xe48acd19097c26c3"
+    },
+    {
+      "name": "places/ChIJ97N8KHGqQjQRwyZ8CRnNiuQ/reviews/ChZDSUhNMG9nS0VJQ0FnTURvc2Vic1d3EAE",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 4,
+      "text": {
+        "text": "最近去木柵吃了一間很有特色的中式餐廳——潮飯，整體吃下來感覺還不錯，菜色很多是那種有點「功夫菜」等級的，不只是家常味而已。\n\n他們的桂花甜芋是我很期待的一道，吃起來芋頭本身略硬了點，不是那種入口即化的口感，有點小可惜。但配上淡淡甜味的桂花釀，味道還挺舒服的，不膩，很適合當飯後小甜點。\n\n四季肥腸我很推！肥腸炸得外皮酥酥的，裡面還是軟的，不會乾柴，配上脆口的四季豆，整體口感很有層次，一口接一口超涮嘴。\n\n然後是東坡肉，真的一夾就斷，完全不費力，肉超級軟爛但不會油膩，沾點醬汁配飯超讚，這道真的有水準。\n\n最後的麻糬豆沙鍋餅超驚喜，外層撒滿香香的芝麻，裡面包著Q彈的麻糬和綿密的豆沙餡，一咬下去甜香四溢，不會太甜，剛剛好",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "最近去木柵吃了一間很有特色的中式餐廳——潮飯，整體吃下來感覺還不錯，菜色很多是那種有點「功夫菜」等級的，不只是家常味而已。\n\n他們的桂花甜芋是我很期待的一道，吃起來芋頭本身略硬了點，不是那種入口即化的口感，有點小可惜。但配上淡淡甜味的桂花釀，味道還挺舒服的，不膩，很適合當飯後小甜點。\n\n四季肥腸我很推！肥腸炸得外皮酥酥的，裡面還是軟的，不會乾柴，配上脆口的四季豆，整體口感很有層次，一口接一口超涮嘴。\n\n然後是東坡肉，真的一夾就斷，完全不費力，肉超級軟爛但不會油膩，沾點醬汁配飯超讚，這道真的有水準。\n\n最後的麻糬豆沙鍋餅超驚喜，外層撒滿香香的芝麻，裡面包著Q彈的麻糬和綿密的豆沙餡，一咬下去甜香四溢，不會太甜，剛剛好",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ian Chang",
+        "uri": "https://www.google.com/maps/contrib/115321010276172011120/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIaT21YufU2wj_sw52wFh_UW4LJVZ4OtfG8ptTBqVapmSB7Og=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-04-26T01:13:46.835060Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvc2Vic1d3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvc2Vic1d3EAE!2m1!1s0x3442aa71287cb3f7:0xe48acd19097c26c3"
+    },
+    {
+      "name": "places/ChIJ97N8KHGqQjQRwyZ8CRnNiuQ/reviews/ChRDSUhNMG9nS0VJQ0FnSUN2NnA1VhAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 3,
+      "text": {
+        "text": "餐點還行 只是每道菜都太下飯⋯\n\n蝦仁炒飯味道清淡不適合單吃，飯沒一粒一粒的\n\n京醬肉絲的小黃瓜建議分開放 不然會搶味\n\n老皮嫩肉中規中矩\n\n❌鹹光餅不建議點（感覺是蒸的或微波爐加熱的，不是酥的是軟的）\n\n❤️炸銀絲卷很推薦\n\n苦瓜也很推\n\n蔥爆松阪豬肉中規中距",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點還行 只是每道菜都太下飯⋯\n\n蝦仁炒飯味道清淡不適合單吃，飯沒一粒一粒的\n\n京醬肉絲的小黃瓜建議分開放 不然會搶味\n\n老皮嫩肉中規中矩\n\n❌鹹光餅不建議點（感覺是蒸的或微波爐加熱的，不是酥的是軟的）\n\n❤️炸銀絲卷很推薦\n\n苦瓜也很推\n\n蔥爆松阪豬肉中規中距",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "蔡偉豪",
+        "uri": "https://www.google.com/maps/contrib/111957070758551417111/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUP1qYumZwi3Lb4s2h_OqK1dTDVf2gFuprpuLRFr_IHm2En9kU=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2024-12-10T03:45:50.843061Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChRDSUhNMG9nS0VJQ0FnSUN2NnA1VhAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChRDSUhNMG9nS0VJQ0FnSUN2NnA1VhAB!2m1!1s0x3442aa71287cb3f7:0xe48acd19097c26c3"
+    }
+  ]
+}

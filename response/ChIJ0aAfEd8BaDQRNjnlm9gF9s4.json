@@ -1,0 +1,130 @@
+{
+  "id": "ChIJ0aAfEd8BaDQRNjnlm9gF9s4",
+  "types": [
+    "italian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2939 0009",
+  "formattedAddress": "116台灣臺北市文山區木新路三段67號",
+  "location": {
+    "latitude": 24.982222,
+    "longitude": 121.5637081
+  },
+  "rating": 4.1,
+  "websiteUri": "https://www.facebook.com/Lirataipei/",
+  "userRatingCount": 2259,
+  "displayName": {
+    "text": "LI RA義大利廚房",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ0aAfEd8BaDQRNjnlm9gF9s4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1cldXdE5kbkZVYlUxRVdGcEpRVmM0VG0xc1lXYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "有幸被獲招待，而有第一次來訪的機會，據說義式料理功夫紮實很是厲害，自個兒是點了墨西哥風味辣唐揚雞義大利麵套餐，不論主副餐皆真材實料呈現，湯品印象深刻，炙燒牛和風沙拉、提拉米蘇及伯爵奶茶也都恰到好處。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "有幸被獲招待，而有第一次來訪的機會，據說義式料理功夫紮實很是厲害，自個兒是點了墨西哥風味辣唐揚雞義大利麵套餐，不論主副餐皆真材實料呈現，湯品印象深刻，炙燒牛和風沙拉、提拉米蘇及伯爵奶茶也都恰到好處。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "HIROTOKI",
+        "uri": "https://www.google.com/maps/contrib/106837842838044203005/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWJOWxzJ4OZAhCFND3aPsiHfgXilv7YR4ISXRJBXkBcyic6ms7i=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-07T12:54:05.697917990Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1cldXdE5kbkZVYlUxRVdGcEpRVmM0VG0xc1lXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1cldXdE5kbkZVYlUxRVdGcEpRVmM0VG0xc1lXYxAB!2m1!1s0x346801df111fa0d1:0xcef605d89be53936"
+    },
+    {
+      "name": "places/ChIJ0aAfEd8BaDQRNjnlm9gF9s4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxalVXTmxjVVJrVUZaYVpIbzNPVTVUVm1jMGEwRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "平日晚上人也不少 餐點不錯吃\n\n泰式椰奶義大利麵蠻有特別\n\n套餐+200 吃蠻飽 伯爵蛋糕好吃\n\n裝潢也特別 值得來",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "平日晚上人也不少 餐點不錯吃\n\n泰式椰奶義大利麵蠻有特別\n\n套餐+200 吃蠻飽 伯爵蛋糕好吃\n\n裝潢也特別 值得來",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Young Will",
+        "uri": "https://www.google.com/maps/contrib/105561082351148683831/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXF2ng5560iYKmD9Ml1H9_hBl2DzKNQlg_akfmEkh7WQn5qQ7rT=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-10T12:03:18.697549431Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxalVXTmxjVVJrVUZaYVpIbzNPVTVUVm1jMGEwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxalVXTmxjVVJrVUZaYVpIbzNPVTVUVm1jMGEwRRAB!2m1!1s0x346801df111fa0d1:0xcef605d89be53936"
+    },
+    {
+      "name": "places/ChIJ0aAfEd8BaDQRNjnlm9gF9s4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxM1lVRnRNbTFxVmpKdFFtaG9UWGhwYm1GaloxRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "文山最好吃的西餐廳。你，你，你，你不用找了，就是這一家。廚師手藝一流，就老板木訥了點。你問他河濱公園要怎麼個走法。往後走就到了。依舊面無表情。\n\n嚐即深嚐，深嚐，每一道東西都不錯吃，連咖啡也不錯，略帶酸味。木新路上的車子從外頭不間斷的開了過去，下班時刻。店小二！叫錯了，是服務人員，服務人員媒紐（menu）再借看一下。再來一杯咖啡，喝完了這杯，請進點小菜，人生難得……挑高的大廳，拱門座次，二樓還有兩米五高，我跟太太坐在閣樓上，俯看著用餐的人們，人們時而言語、時而食物、時而做態、時而飲料、時而不知所以，話說一半食物也一半，真是一臉色的滿足與飽足。看了一下小米手錶，已經走了六公里，路不在遠，任重道遠。我再次看向天花板、廊拱還有天花板下用餐的人們，人們依舊虔誠摩拜著餐點。主樑橫過挑高的天花板，臥樑向兩邊斜落三兩度，味蕾散到兩頭，分不清真假，應該只是仿古裝飾用的，滿足味覺與視覺。建築是凝固的音樂，誰說的？想不起來，餐廳裡播放著有些年代的英文歌曲，誰說的不打緊。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "文山最好吃的西餐廳。你，你，你，你不用找了，就是這一家。廚師手藝一流，就老板木訥了點。你問他河濱公園要怎麼個走法。往後走就到了。依舊面無表情。\n\n嚐即深嚐，深嚐，每一道東西都不錯吃，連咖啡也不錯，略帶酸味。木新路上的車子從外頭不間斷的開了過去，下班時刻。店小二！叫錯了，是服務人員，服務人員媒紐（menu）再借看一下。再來一杯咖啡，喝完了這杯，請進點小菜，人生難得……挑高的大廳，拱門座次，二樓還有兩米五高，我跟太太坐在閣樓上，俯看著用餐的人們，人們時而言語、時而食物、時而做態、時而飲料、時而不知所以，話說一半食物也一半，真是一臉色的滿足與飽足。看了一下小米手錶，已經走了六公里，路不在遠，任重道遠。我再次看向天花板、廊拱還有天花板下用餐的人們，人們依舊虔誠摩拜著餐點。主樑橫過挑高的天花板，臥樑向兩邊斜落三兩度，味蕾散到兩頭，分不清真假，應該只是仿古裝飾用的，滿足味覺與視覺。建築是凝固的音樂，誰說的？想不起來，餐廳裡播放著有些年代的英文歌曲，誰說的不打緊。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "是阿伯",
+        "uri": "https://www.google.com/maps/contrib/114237909472437739889/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW0hdC356MBHpweDpAC_2I6WicU73bwGwUBBW0QfqsatF8NfXPG=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-15T18:45:56.265872596Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxM1lVRnRNbTFxVmpKdFFtaG9UWGhwYm1GaloxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxM1lVRnRNbTFxVmpKdFFtaG9UWGhwYm1GaloxRRAB!2m1!1s0x346801df111fa0d1:0xcef605d89be53936"
+    },
+    {
+      "name": "places/ChIJ0aAfEd8BaDQRNjnlm9gF9s4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSaU1HcDRaVWRYVlROVVprNUpRa0p0UVdZdFZYYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點好吃， 裝潢精緻美麗～很適合帶朋友來聚餐！大推薦",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點好吃， 裝潢精緻美麗～很適合帶朋友來聚餐！大推薦",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "yoko Lin",
+        "uri": "https://www.google.com/maps/contrib/101287957281963403500/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXvWdbtDABTho4rLNlKhu1PHtv49lbhyUW0ce-k41D6ILpD0oA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-26T15:59:26.998689218Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSaU1HcDRaVWRYVlROVVprNUpRa0p0UVdZdFZYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSaU1HcDRaVWRYVlROVVprNUpRa0p0UVdZdFZYYxAB!2m1!1s0x346801df111fa0d1:0xcef605d89be53936"
+    },
+    {
+      "name": "places/ChIJ0aAfEd8BaDQRNjnlm9gF9s4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pZd2JHWjVkRU40VldSM2QzbDJTM0J1VTFjdFVFRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "今天來慶生，喜歡鄉村風氛圍，好典雅貴氣，餐點好吃，套餐＜主餐＞加200吃很飽，可以都能滿足到餐廳裡不同菜色的美味，麵包很有歐洲風味～好吃，彷彿置身歐洲午茶時光。很棒！很棒！今天的生日，吃的很開心。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天來慶生，喜歡鄉村風氛圍，好典雅貴氣，餐點好吃，套餐＜主餐＞加200吃很飽，可以都能滿足到餐廳裡不同菜色的美味，麵包很有歐洲風味～好吃，彷彿置身歐洲午茶時光。很棒！很棒！今天的生日，吃的很開心。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "coco",
+        "uri": "https://www.google.com/maps/contrib/108112425738668890222/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKY1irTYD3hz65AvT-rPJKKxvUiXU6k_1qjbzKLaUdXzIU3Ow=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-09-18T14:08:04.625806930Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pZd2JHWjVkRU40VldSM2QzbDJTM0J1VTFjdFVFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pZd2JHWjVkRU40VldSM2QzbDJTM0J1VTFjdFVFRRAB!2m1!1s0x346801df111fa0d1:0xcef605d89be53936"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "id": "ChIJiRDpRsurQjQRcHk6v2b4YPM",
+  "types": [
+    "restaurant",
+    "brunch_restaurant",
+    "pub",
+    "cocktail_bar",
+    "bar",
+    "western_restaurant",
+    "food_store",
+    "meal_delivery",
+    "food_delivery",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2939 5598",
+  "formattedAddress": "116台灣臺北市文山區木柵路三段49巷12號",
+  "location": {
+    "latitude": 24.9890729,
+    "longitude": 121.56612399999999
+  },
+  "rating": 4.5,
+  "websiteUri": "https://www.instagram.com/thewhobistro4912?igsh=c2J2NzFnbWEzZDdp",
+  "userRatingCount": 678,
+  "displayName": {
+    "text": "徙巷小餐酒x徙巷早午餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJiRDpRsurQjQRcHk6v2b4YPM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0RFNsSkZaMEZRT1VaV2FGOXhhamRNVVdoalJIYxAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 5,
+      "text": {
+        "text": "幫好朋友慶生\n帥氣的主廚推薦我們的菜色，都讓我們好驚豔😊\n食材新鮮擺盤又有品味\n令人難忘的一餐。下次還會來訪🥰",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "幫好朋友慶生\n帥氣的主廚推薦我們的菜色，都讓我們好驚豔😊\n食材新鮮擺盤又有品味\n令人難忘的一餐。下次還會來訪🥰",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林欣蓓",
+        "uri": "https://www.google.com/maps/contrib/106257413347015747738/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLDs8J88l9kq64ZMTRpBMbN9t-2tiG1cCubDSoUB--OhK7lAw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-27T12:47:50.379889266Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0RFNsSkZaMEZRT1VaV2FGOXhhamRNVVdoalJIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0RFNsSkZaMEZRT1VaV2FGOXhhamRNVVdoalJIYxAB!2m1!1s0x3442abcb46e91089:0xf360f866bf3a7970"
+    },
+    {
+      "name": "places/ChIJiRDpRsurQjQRcHk6v2b4YPM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xad05HdzVkRm94V0V0MFIwcHRibGRhU214clEwRRAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 5,
+      "text": {
+        "text": "意外發現的餐酒館，特別來慶生，主廚幫我們客製化菜單，餐點特好吃，主廚人超級好廚藝也非常棒，整家店氛圍很舒服，服務人員也很親切，絕對會在回訪的餐酒館！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "意外發現的餐酒館，特別來慶生，主廚幫我們客製化菜單，餐點特好吃，主廚人超級好廚藝也非常棒，整家店氛圍很舒服，服務人員也很親切，絕對會在回訪的餐酒館！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Maggie Hu",
+        "uri": "https://www.google.com/maps/contrib/101484548813888313423/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL5bcDi8U2TuqCvmJFvFxT8aB4Db4NapOVRYJtTKXW95CkClg=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-27T12:48:33.869625069Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xad05HdzVkRm94V0V0MFIwcHRibGRhU214clEwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xad05HdzVkRm94V0V0MFIwcHRibGRhU214clEwRRAB!2m1!1s0x3442abcb46e91089:0xf360f866bf3a7970"
+    },
+    {
+      "name": "places/ChIJiRDpRsurQjQRcHk6v2b4YPM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4dlltZzJjREUxVVZaeVZXeEVlR05VYjAwek0wRRAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 5,
+      "text": {
+        "text": "餐點好吃！\n份量也非常足夠！\n今日的松露薯條、松阪豬、油蒜蝦\n餐點都是新鮮的！\n調味也是主廚創新研發！\n是間值得來用餐的店！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點好吃！\n份量也非常足夠！\n今日的松露薯條、松阪豬、油蒜蝦\n餐點都是新鮮的！\n調味也是主廚創新研發！\n是間值得來用餐的店！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "KT",
+        "uri": "https://www.google.com/maps/contrib/115479721215098785817/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWdFhYPXHsuKyJZFZ5jToXqUwyr32QqA1HcxTl7OvlJljkBPgiLzw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-27T12:41:08.258664086Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4dlltZzJjREUxVVZaeVZXeEVlR05VYjAwek0wRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4dlltZzJjREUxVVZaeVZXeEVlR05VYjAwek0wRRAB!2m1!1s0x3442abcb46e91089:0xf360f866bf3a7970"
+    },
+    {
+      "name": "places/ChIJiRDpRsurQjQRcHk6v2b4YPM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21obFFuWklNRWRDV1d0TlRUTjFSblZGU2pnMVdHYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "常經過，真的常經過，巷子裡的一家小店，賣餐賣酒，「姑娘溫酒為君驚打冷」， 《南都夜曲》裏不是這樣唱的嗎？不要說你不知道南都夜曲，正港的台灣民謠，濃濃的日本味，從歌詞中可以得知喝的是清酒，清酒溫過比較好喝。喝過「獺祭」的人就會知道。\n\n問了一下店家有沒有留過學，店家說沒有，我說店內的裝潢比較英國風，不像美國風。店家回答，台灣人自己想像出來的外國風格，一樣帶著漂流木狂想曲。\n\n伽利略喔，皇后合唱團不正是這樣唱，所以女神卡卡（Lady GaGa）的藝名就是來自皇后合唱團的歌曲「Radio Ga Ga」，不過這家餐酒館裡一直播放國語歌曲，不搭調。文化是一種很細微的東西，不經意就觀察出來。\n\n咖啡來了，媽媽咪亞，還真苦。開店是得要下足功夫的，內行看門道，牆外行人，不見牆裡美眉笑。買水果去了。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "常經過，真的常經過，巷子裡的一家小店，賣餐賣酒，「姑娘溫酒為君驚打冷」， 《南都夜曲》裏不是這樣唱的嗎？不要說你不知道南都夜曲，正港的台灣民謠，濃濃的日本味，從歌詞中可以得知喝的是清酒，清酒溫過比較好喝。喝過「獺祭」的人就會知道。\n\n問了一下店家有沒有留過學，店家說沒有，我說店內的裝潢比較英國風，不像美國風。店家回答，台灣人自己想像出來的外國風格，一樣帶著漂流木狂想曲。\n\n伽利略喔，皇后合唱團不正是這樣唱，所以女神卡卡（Lady GaGa）的藝名就是來自皇后合唱團的歌曲「Radio Ga Ga」，不過這家餐酒館裡一直播放國語歌曲，不搭調。文化是一種很細微的東西，不經意就觀察出來。\n\n咖啡來了，媽媽咪亞，還真苦。開店是得要下足功夫的，內行看門道，牆外行人，不見牆裡美眉笑。買水果去了。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "是阿伯",
+        "uri": "https://www.google.com/maps/contrib/114237909472437739889/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW0hdC356MBHpweDpAC_2I6WicU73bwGwUBBW0QfqsatF8NfXPG=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-26T17:53:13.681134501Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21obFFuWklNRWRDV1d0TlRUTjFSblZGU2pnMVdHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21obFFuWklNRWRDV1d0TlRUTjFSblZGU2pnMVdHYxAB!2m1!1s0x3442abcb46e91089:0xf360f866bf3a7970"
+    },
+    {
+      "name": "places/ChIJiRDpRsurQjQRcHk6v2b4YPM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poRk9FSjZkek5LUW1GelRFSmthRGRQVFRsUE4zYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "第一次來點了兩道料理。炭香牛肉義大利麵和帕馬森松露薯條。義大利麵的部分味道偏清淡一點，牛肉非常嫩，味道還不錯；薯條的部分味道可以，皮偏厚，會導致有點油，容易膩。服務態度非常好。店內氛圍還不錯，有小強先生爬在進門後的玻璃牆，可以稍微加強一下清潔，除此之外沒什麼問題",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次來點了兩道料理。炭香牛肉義大利麵和帕馬森松露薯條。義大利麵的部分味道偏清淡一點，牛肉非常嫩，味道還不錯；薯條的部分味道可以，皮偏厚，會導致有點油，容易膩。服務態度非常好。店內氛圍還不錯，有小強先生爬在進門後的玻璃牆，可以稍微加強一下清潔，除此之外沒什麼問題",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Moo Fan",
+        "uri": "https://www.google.com/maps/contrib/115442874886065549759/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVuE8EB9vIj0DlPj9H6LYM7yV1qDaL_XoOWK6pFzWyupWto_jNg=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-14T10:49:09.806147977Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poRk9FSjZkek5LUW1GelRFSmthRGRQVFRsUE4zYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poRk9FSjZkek5LUW1GelRFSmthRGRQVFRsUE4zYxAB!2m1!1s0x3442abcb46e91089:0xf360f866bf3a7970"
+    }
+  ]
+}

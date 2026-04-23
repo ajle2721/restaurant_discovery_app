@@ -1,0 +1,130 @@
+{
+  "id": "ChIJLa98GXKtQjQRxQ58Wwem0NI",
+  "types": [
+    "italian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 976 141 378",
+  "formattedAddress": "114台灣臺北市內湖區瑞光路584號",
+  "location": {
+    "latitude": 25.080111799999997,
+    "longitude": 121.56624130000002
+  },
+  "rating": 4.3,
+  "websiteUri": "https://inline.app/booking/pastaio",
+  "userRatingCount": 2007,
+  "displayName": {
+    "text": "Pastaio 內湖",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJLa98GXKtQjQRxQ58Wwem0NI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWT1NWcGxWM2RzZG0xSU1UTkhhalptVjBOMFMyYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "被多款自製義大利麵所吸引，嘗試了最基礎的蛋黃麵，吃起來醬跟麵是分離的，不確定是否道地，但個人沒有喜歡。下次想試試看其他麵的表現\n反而被它的沙拉吸引，非常新鮮，且吃到難得一見的新鮮無花果，整體搭配起來清爽，可惜核桃糖切的太大塊，如果再碎一點更完美。\n大蒜麵包又香又脆，搭配起司，還不錯。\n烤雞中規中矩，倒是烤羊排令人驚艷，雖然外表看起來有點烤焦，裡面切開相當軟嫩，價位偏高，份量有點少。\n加點提拉米蘇，不是個人喜愛的，可以跳過。義式冰淇淋選了香草與太妃糖口味，好吃且融化非常快。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "被多款自製義大利麵所吸引，嘗試了最基礎的蛋黃麵，吃起來醬跟麵是分離的，不確定是否道地，但個人沒有喜歡。下次想試試看其他麵的表現\n反而被它的沙拉吸引，非常新鮮，且吃到難得一見的新鮮無花果，整體搭配起來清爽，可惜核桃糖切的太大塊，如果再碎一點更完美。\n大蒜麵包又香又脆，搭配起司，還不錯。\n烤雞中規中矩，倒是烤羊排令人驚艷，雖然外表看起來有點烤焦，裡面切開相當軟嫩，價位偏高，份量有點少。\n加點提拉米蘇，不是個人喜愛的，可以跳過。義式冰淇淋選了香草與太妃糖口味，好吃且融化非常快。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Wing LU",
+        "uri": "https://www.google.com/maps/contrib/108660705918146659615/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXRjnm1NPibSd7IyG5-kpz-6zJI7CfCGDe9Ok_KpBRAxQFVdoQ5=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-01T15:20:10.073804303Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWT1NWcGxWM2RzZG0xSU1UTkhhalptVjBOMFMyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWT1NWcGxWM2RzZG0xSU1UTkhhalptVjBOMFMyYxAB!2m1!1s0x3442ad72197caf2d:0xd2d0a6075b7c0ec5"
+    },
+    {
+      "name": "places/ChIJLa98GXKtQjQRxQ58Wwem0NI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SM1gzSnNkR1pRZEdkVmF6RjRTalZoZG5KMFptYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "中高價位的義大利麵\n味道很讚👅\n餐點都是很有水準的\n墨魚麵是真的有海味，吃一口就驚豔\n酥炸中卷300有找，覺得划算\n唯一遺憾就是想吃哈密瓜盅點到莫扎瑞拉起司\n松子青醬上也有一球起司\n導致所有餐點吃下來起司量太高了，有點膩\n服務蠻不錯的，環境偏吵雜\n廁所不在餐廳內，是與大樓共用",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "中高價位的義大利麵\n味道很讚👅\n餐點都是很有水準的\n墨魚麵是真的有海味，吃一口就驚豔\n酥炸中卷300有找，覺得划算\n唯一遺憾就是想吃哈密瓜盅點到莫扎瑞拉起司\n松子青醬上也有一球起司\n導致所有餐點吃下來起司量太高了，有點膩\n服務蠻不錯的，環境偏吵雜\n廁所不在餐廳內，是與大樓共用",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林肅憫",
+        "uri": "https://www.google.com/maps/contrib/115295731384074525375/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVcwW36YZ8EgGxVIB2bMY1pjto4nbB04Ogda0cvKZiUaWxhFGiR=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-07T15:35:21.861687860Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SM1gzSnNkR1pRZEdkVmF6RjRTalZoZG5KMFptYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SM1gzSnNkR1pRZEdkVmF6RjRTalZoZG5KMFptYxAB!2m1!1s0x3442ad72197caf2d:0xd2d0a6075b7c0ec5"
+    },
+    {
+      "name": "places/ChIJLa98GXKtQjQRxQ58Wwem0NI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCWVlrZHBXbFJuZDNSTFJHMU1lbXR2WlRRMlRWRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "手工義麵每道都優秀美味\n現今的生義麵品牌也越來越多了\n但這家店的口味設計獨具創意特色\n不走傳統保守路線的口味\n顛覆對義麵的味覺想像\n不同的麵寬搭配不同的色香味\n在台北分店也不少了\n價位符合對它的期待\n開放式的廚房\n可以欣賞主廚們炒製的樣貌\n也很賞心悅目",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "手工義麵每道都優秀美味\n現今的生義麵品牌也越來越多了\n但這家店的口味設計獨具創意特色\n不走傳統保守路線的口味\n顛覆對義麵的味覺想像\n不同的麵寬搭配不同的色香味\n在台北分店也不少了\n價位符合對它的期待\n開放式的廚房\n可以欣賞主廚們炒製的樣貌\n也很賞心悅目",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "妍值爆表",
+        "uri": "https://www.google.com/maps/contrib/118218032807764144789/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW12eAtgQ6MvgILoBsWNFEFtxURlNoR1k6TePIHklzfYYhIoBc=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-12-30T07:49:41.135032902Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCWVlrZHBXbFJuZDNSTFJHMU1lbXR2WlRRMlRWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCWVlrZHBXbFJuZDNSTFJHMU1lbXR2WlRRMlRWRRAB!2m1!1s0x3442ad72197caf2d:0xd2d0a6075b7c0ec5"
+    },
+    {
+      "name": "places/ChIJLa98GXKtQjQRxQ58Wwem0NI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GRk4wWkNla1k0WnpselpsOW5ZblJaYkdocFVsRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "葡萄乾瑞可塔很有特色，帽子餃還行，加上整顆大地瓜，地瓜本身就香甜，沾點調料也不錯，愛吃地瓜的我是蠻喜歡的\n蒜味細薯、無花果起士沙拉好吃\n芭娜娜巧克力蛋糕還不錯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "葡萄乾瑞可塔很有特色，帽子餃還行，加上整顆大地瓜，地瓜本身就香甜，沾點調料也不錯，愛吃地瓜的我是蠻喜歡的\n蒜味細薯、無花果起士沙拉好吃\n芭娜娜巧克力蛋糕還不錯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Masaki",
+        "uri": "https://www.google.com/maps/contrib/107953713135358571909/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWYA0tEU2jzeVDDTmqAWNT48ABYeeEvuYNIJbAkO4HtPCWhTCZUJg=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-02-12T02:10:46.599954669Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GRk4wWkNla1k0WnpselpsOW5ZblJaYkdocFVsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GRk4wWkNla1k0WnpselpsOW5ZblJaYkdocFVsRRAB!2m1!1s0x3442ad72197caf2d:0xd2d0a6075b7c0ec5"
+    },
+    {
+      "name": "places/ChIJLa98GXKtQjQRxQ58Wwem0NI/reviews/Ci9DQUlRQUNvZENodHljRjlvT214ZlRYRXpielJDTW5JMGJrMVVSMnRRWVhWRE5FRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "加入口袋名單很久的義大利麵餐廳，今天終於得償所願，很多人在說的油煙味的問題完全沒有感受到，除此之外，多種精心設計的麵條、搭配精心調製的口味令人印象深刻，特別推薦F1輪胎麵。服務用心並且注意細節，整體的用餐體驗讓人非常滿意，絕對值得五星好評。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "加入口袋名單很久的義大利麵餐廳，今天終於得償所願，很多人在說的油煙味的問題完全沒有感受到，除此之外，多種精心設計的麵條、搭配精心調製的口味令人印象深刻，特別推薦F1輪胎麵。服務用心並且注意細節，整體的用餐體驗讓人非常滿意，絕對值得五星好評。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "吳志鴻",
+        "uri": "https://www.google.com/maps/contrib/101315948558350153417/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWHVCuuvKODRsY7FNA_bg1EdQmYWDAd8QIvSlgPT0R4Tfs4KfQMBQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-18T10:56:27.580620767Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214ZlRYRXpielJDTW5JMGJrMVVSMnRRWVhWRE5FRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214ZlRYRXpielJDTW5JMGJrMVVSMnRRWVhWRE5FRRAB!2m1!1s0x3442ad72197caf2d:0xd2d0a6075b7c0ec5"
+    }
+  ]
+}

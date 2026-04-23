@@ -1,0 +1,130 @@
+{
+  "id": "ChIJjSj3KvarQjQRhQiXuwVdvwc",
+  "types": [
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2578 8856",
+  "formattedAddress": "105047台灣臺北市松山區八德路四段512-1號",
+  "location": {
+    "latitude": 25.0496774,
+    "longitude": 121.57088979999997
+  },
+  "rating": 4.7,
+  "websiteUri": "https://inline.app/booking/chinglou",
+  "userRatingCount": 2533,
+  "displayName": {
+    "text": "青樓中式餐酒館",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJjSj3KvarQjQRhQiXuwVdvwc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pNd2FIaDNVM05HUTJSYWIzRndaSE5vWTFkSFgzYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "多年前有吃過，似乎改了裝潢跟菜單\n料理都很不錯！推薦茄子、東坡肉、海鮮豆腐堡、花椒燒蛋，基本上點的的菜都好吃喔！\n只是包廂內覺得異味比較重，上菜後不知是桌子還是籃子有一個很重的異味",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "多年前有吃過，似乎改了裝潢跟菜單\n料理都很不錯！推薦茄子、東坡肉、海鮮豆腐堡、花椒燒蛋，基本上點的的菜都好吃喔！\n只是包廂內覺得異味比較重，上菜後不知是桌子還是籃子有一個很重的異味",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Amber Lian",
+        "uri": "https://www.google.com/maps/contrib/102029542824492920581/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUqBJa1MgP7dynGb1If8eFLyuaC8xQafATUlSFqzgOjezUZCKo7=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-11T00:08:28.452788183Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pNd2FIaDNVM05HUTJSYWIzRndaSE5vWTFkSFgzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pNd2FIaDNVM05HUTJSYWIzRndaSE5vWTFkSFgzYxAB!2m1!1s0x3442abf62af7288d:0x7bf5d05bb970885"
+    },
+    {
+      "name": "places/ChIJjSj3KvarQjQRhQiXuwVdvwc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twblgzcHdNWEZRY1ZWTFRFMWxURmsxV1c5TWFtYxAB",
+      "relativePublishTimeDescription": "1 週前",
+      "rating": 4,
+      "text": {
+        "text": "脆皮雞超好吃～推👍🏻\n但素食套餐很不行，吃完很空虛沒有飽足感😞",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "脆皮雞超好吃～推👍🏻\n但素食套餐很不行，吃完很空虛沒有飽足感😞",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Mango",
+        "uri": "https://www.google.com/maps/contrib/100887874733835687900/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWVNpvBMaCiGiyca5GGFKjSfy-q0ZvIu0URKuncQJdlS9lovXg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-03-08T02:21:00.509776879Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twblgzcHdNWEZRY1ZWTFRFMWxURmsxV1c5TWFtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twblgzcHdNWEZRY1ZWTFRFMWxURmsxV1c5TWFtYxAB!2m1!1s0x3442abf62af7288d:0x7bf5d05bb970885"
+    },
+    {
+      "name": "places/ChIJjSj3KvarQjQRhQiXuwVdvwc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkNGNITm9jekkzVHpGeU1VNU9NbVp0UkhNM1JXYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 3,
+      "text": {
+        "text": "3顆星（附上菜單）\n服務上我覺得兩極化，一進門沒有人馬上接待，當天我們的包廂在2樓，接待人員叫我自己上樓（我第一次來哪裡知道樓梯在哪裡？），上了2樓服務人員也只是手一筆比，有那麼多包廂，我哪知道是哪一間…\n不過有一說一，在用餐過程中上菜人員隨叫隨到，很認真幫我們服務！\n\n環境方面我真的覺得沒有很優，地板是木質的地板，走起來還有一點黏黏的，感覺沒有在打掃，走到牆壁還有蟑螂在爬，我覺得這是做餐飲業的一個大忌！\n\n餐點的部分我覺得雖然不差，但很普通，沒有什麼記憶點～\n東坡肉很軟嫩很下飯（不過好一點的餐廳要做的難吃也不容易吧）\n脆皮雞聽說是招牌，不過我覺得肉質有點乾，有點失敗\n其他菜也感覺沒有什麼特色，酒貴桑桑，比較不錯的地方是有幾個包廂可以唱歌！\n\n在價格上也沒有比較有優勢，不推薦！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "3顆星（附上菜單）\n服務上我覺得兩極化，一進門沒有人馬上接待，當天我們的包廂在2樓，接待人員叫我自己上樓（我第一次來哪裡知道樓梯在哪裡？），上了2樓服務人員也只是手一筆比，有那麼多包廂，我哪知道是哪一間…\n不過有一說一，在用餐過程中上菜人員隨叫隨到，很認真幫我們服務！\n\n環境方面我真的覺得沒有很優，地板是木質的地板，走起來還有一點黏黏的，感覺沒有在打掃，走到牆壁還有蟑螂在爬，我覺得這是做餐飲業的一個大忌！\n\n餐點的部分我覺得雖然不差，但很普通，沒有什麼記憶點～\n東坡肉很軟嫩很下飯（不過好一點的餐廳要做的難吃也不容易吧）\n脆皮雞聽說是招牌，不過我覺得肉質有點乾，有點失敗\n其他菜也感覺沒有什麼特色，酒貴桑桑，比較不錯的地方是有幾個包廂可以唱歌！\n\n在價格上也沒有比較有優勢，不推薦！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "YiChun",
+        "uri": "https://www.google.com/maps/contrib/105314337657340640245/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU7_1MWf-5Uje-HgsgkdJuklpo9BcXTEEY8psbX_vvEZTFs1d-n=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-20T12:38:41.821114551Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkNGNITm9jekkzVHpGeU1VNU9NbVp0UkhNM1JXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkNGNITm9jekkzVHpGeU1VNU9NbVp0UkhNM1JXYxAB!2m1!1s0x3442abf62af7288d:0x7bf5d05bb970885"
+    },
+    {
+      "name": "places/ChIJjSj3KvarQjQRhQiXuwVdvwc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aNVF6aGZUVEpQUWt4RVREVnVVM0pPWkVoek1HYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "先是名字吸引了我！心想怎麼會有餐廳叫這個名，日前到附近走走，「偷窺」了這家餐廳到底是什麼樣？再在Google上查看相關資訊，就下單訂席，感覺服務還不錯。\n今實際入門品嚐，第一個問題是門打不開？敲不開？雖然看到右邊門旁的小石獅子，好像是個機關，只敢輕觸不敢用力，害怕把那石獅子弄壞了，結果用敲的內裡開了木門，卻說爲什麽不轉那獅子，有意思！等到客人陸續入座，每個客人都對這門的開法有意見，雖然是都進了門，但每個人都有疑惑 或意見，這就是問題了！何況，這是客人進門的第一步，「錢」進門要順暢才能興隆！\n這家餐廳的裝潢採傳統古典風格，看來是花了大錢，感覺還不錯，菜餚也都OK，不過烤鴨的薄餅似放久上桌，有些硬粘，且烤鴨肉與皮都溫度不夠，其他菜裡紅油皮蛋可口，脆皮雞、百花油條也都不錯，上桌菜的溫度稍弱。\n服務人員態度都可以，幫忙點菜的小姐還幫忙控制菜量，而且態度很好很盡責。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "先是名字吸引了我！心想怎麼會有餐廳叫這個名，日前到附近走走，「偷窺」了這家餐廳到底是什麼樣？再在Google上查看相關資訊，就下單訂席，感覺服務還不錯。\n今實際入門品嚐，第一個問題是門打不開？敲不開？雖然看到右邊門旁的小石獅子，好像是個機關，只敢輕觸不敢用力，害怕把那石獅子弄壞了，結果用敲的內裡開了木門，卻說爲什麽不轉那獅子，有意思！等到客人陸續入座，每個客人都對這門的開法有意見，雖然是都進了門，但每個人都有疑惑 或意見，這就是問題了！何況，這是客人進門的第一步，「錢」進門要順暢才能興隆！\n這家餐廳的裝潢採傳統古典風格，看來是花了大錢，感覺還不錯，菜餚也都OK，不過烤鴨的薄餅似放久上桌，有些硬粘，且烤鴨肉與皮都溫度不夠，其他菜裡紅油皮蛋可口，脆皮雞、百花油條也都不錯，上桌菜的溫度稍弱。\n服務人員態度都可以，幫忙點菜的小姐還幫忙控制菜量，而且態度很好很盡責。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "KING (第10級在地嚮導)",
+        "uri": "https://www.google.com/maps/contrib/109750155652914128045/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKtnNaC96pwKQ4ttcOAEx_lXrfkHJAzM2jYWMeiMxH_m3evWw=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-11-19T18:21:47.939040713Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aNVF6aGZUVEpQUWt4RVREVnVVM0pPWkVoek1HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aNVF6aGZUVEpQUWt4RVREVnVVM0pPWkVoek1HYxAB!2m1!1s0x3442abf62af7288d:0x7bf5d05bb970885"
+    },
+    {
+      "name": "places/ChIJjSj3KvarQjQRhQiXuwVdvwc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5UmRsSjVVVVpNT1RaeE0yNUlXREpTWDA5alYxRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "位在繞河街尾八德立體停車場附近的青樓中餐館，在停車的時候很顯眼！\n\n中式古色古香的設計是青樓的特色，大門口需要轉開機關石獅子，門才會打開，非常有巧思又有趣！\n\n我們餐點\n鎮江春醋排骨\n雙味鴛鴦蝦球（金沙鹹蛋／芥末美奶滋）\n川味麻辣皮蛋\n宮保櫻花蝦高麗菜\n林家祖傳原味香腸\n飲料：仙女氣泡飲\n季節甜品─烏龍桂花凍\n青樓的主廚是澳門人，所以精通中川粵菜系，因此口味相當多完豐富！\n\n調酒：\n龍飛鳳舞\n梅蘭芳\n自由新疆\n薑軍\n青樓冰茶\n夕陽\n\n青樓提供最道地的創意菜系，有私密包廂可以歡唱作樂，店內的服務員也很熱情活潑！就是希望來青樓客人都可以有如帝王般的享受，留下愉快的回憶！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "位在繞河街尾八德立體停車場附近的青樓中餐館，在停車的時候很顯眼！\n\n中式古色古香的設計是青樓的特色，大門口需要轉開機關石獅子，門才會打開，非常有巧思又有趣！\n\n我們餐點\n鎮江春醋排骨\n雙味鴛鴦蝦球（金沙鹹蛋／芥末美奶滋）\n川味麻辣皮蛋\n宮保櫻花蝦高麗菜\n林家祖傳原味香腸\n飲料：仙女氣泡飲\n季節甜品─烏龍桂花凍\n青樓的主廚是澳門人，所以精通中川粵菜系，因此口味相當多完豐富！\n\n調酒：\n龍飛鳳舞\n梅蘭芳\n自由新疆\n薑軍\n青樓冰茶\n夕陽\n\n青樓提供最道地的創意菜系，有私密包廂可以歡唱作樂，店內的服務員也很熱情活潑！就是希望來青樓客人都可以有如帝王般的享受，留下愉快的回憶！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "七公主",
+        "uri": "https://www.google.com/maps/contrib/104048731011093959099/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVzwdiWuOW1ZsUT8xP0qc9uWEGjtypXncpQL6UY5U3zUNGOiQo=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-15T07:29:46.777592231Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5UmRsSjVVVVpNT1RaeE0yNUlXREpTWDA5alYxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5UmRsSjVVVVpNT1RaeE0yNUlXREpTWDA5alYxRRAB!2m1!1s0x3442abf62af7288d:0x7bf5d05bb970885"
+    }
+  ]
+}

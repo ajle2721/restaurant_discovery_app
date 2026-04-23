@@ -1,0 +1,130 @@
+{
+  "id": "ChIJNY-ZoyWrQjQRKft5AHQ1Rcs",
+  "types": [
+    "chinese_noodle_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 8661 2553",
+  "formattedAddress": "116台灣臺北市文山區木柵路三段102巷2號",
+  "location": {
+    "latitude": 24.988455,
+    "longitude": 121.56743970000001
+  },
+  "rating": 4.5,
+  "websiteUri": "https://www.facebook.com/%E6%BB%BF%E8%B1%90%E7%89%9B%E8%82%89%E9%BA%B5-108820768333891/",
+  "userRatingCount": 543,
+  "displayName": {
+    "text": "滿豐牛肉麵",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJNY-ZoyWrQjQRKft5AHQ1Rcs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWYU1ucHpVWGw0VEU0d1N6RlJkMlIzWVVGQmVWRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "生意非常的好，服務態度也很不錯\n內用有紅茶綠茶無限續用，綠茶是無糖的，紅茶的甜度大約是3分糖\n麻辣牛肉麵是嗜辣的朋友一定要點的，口味上真的是很不錯，另外還有牛肉、牛雜以及綜合麵都很正點\n\n桌上的醬料、蒜頭都給的很足，來到這裡可以吃的很開心",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "生意非常的好，服務態度也很不錯\n內用有紅茶綠茶無限續用，綠茶是無糖的，紅茶的甜度大約是3分糖\n麻辣牛肉麵是嗜辣的朋友一定要點的，口味上真的是很不錯，另外還有牛肉、牛雜以及綜合麵都很正點\n\n桌上的醬料、蒜頭都給的很足，來到這裡可以吃的很開心",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "米寶麻幸福滿載",
+        "uri": "https://www.google.com/maps/contrib/112051205416814749180/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUEO1BzyLpQO9rKtFxOzad3Xkhz-zwo3WgYpKVjpn24Ay6AK3Va=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-27T06:13:09.885439960Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWYU1ucHpVWGw0VEU0d1N6RlJkMlIzWVVGQmVWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWYU1ucHpVWGw0VEU0d1N6RlJkMlIzWVVGQmVWRRAB!2m1!1s0x3442ab25a3998f35:0xcb4535740079fb29"
+    },
+    {
+      "name": "places/ChIJNY-ZoyWrQjQRKft5AHQ1Rcs/reviews/Ci9DQUlRQUNvZENodHljRjlvT210aFpWaFphV0Y1YVhCcWNtRkhaVUp2VnpOdGVsRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "料多味美，cp值太高了。生意非常好。建議加酸菜與牛油，蒜頭加了也很爽口。 很不錯的店家",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "料多味美，cp值太高了。生意非常好。建議加酸菜與牛油，蒜頭加了也很爽口。 很不錯的店家",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陶陶",
+        "uri": "https://www.google.com/maps/contrib/116590353249314029108/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXVHeD3JAKP2aaeN3keOAEBIbVhAWMpUlWdDcBu3_WT6sENjnxqng=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-09-21T05:23:37.145299773Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210aFpWaFphV0Y1YVhCcWNtRkhaVUp2VnpOdGVsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210aFpWaFphV0Y1YVhCcWNtRkhaVUp2VnpOdGVsRRAB!2m1!1s0x3442ab25a3998f35:0xcb4535740079fb29"
+    },
+    {
+      "name": "places/ChIJNY-ZoyWrQjQRKft5AHQ1Rcs/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WaFpXdHVOMFV3ZUdaTVIzRnBTazg1VXpCSUxVRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "價格實惠，好吃份量足！湯頭不錯。搭配辣牛油跟酸菜更是增添風味不少！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "價格實惠，好吃份量足！湯頭不錯。搭配辣牛油跟酸菜更是增添風味不少！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳",
+        "uri": "https://www.google.com/maps/contrib/114253840016867347794/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXhl4nZE5h0Xi4hoekgYNyNMvclL_i55Ua3XO75yjSLOtNVho_R4w=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-10-25T08:23:02.763816993Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WaFpXdHVOMFV3ZUdaTVIzRnBTazg1VXpCSUxVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WaFpXdHVOMFV3ZUdaTVIzRnBTazg1VXpCSUxVRRAB!2m1!1s0x3442ab25a3998f35:0xcb4535740079fb29"
+    },
+    {
+      "name": "places/ChIJNY-ZoyWrQjQRKft5AHQ1Rcs/reviews/Ci9DQUlRQUNvZENodHljRjlvT213eE9FdFBlRkZIUVRaa2JGZEJVVXhyUkhaRE4zYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "1.牛肉麵湯頭很棒，但是麵（刀削）沒煮透，吃起來很硬。\n2.魯豆腐味道沒魯進去，吃起來很乾。\n3.台式泡菜高麗菜切的太細，超級不好夾，味道還可。\n4.豬耳朵還ok",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "1.牛肉麵湯頭很棒，但是麵（刀削）沒煮透，吃起來很硬。\n2.魯豆腐味道沒魯進去，吃起來很乾。\n3.台式泡菜高麗菜切的太細，超級不好夾，味道還可。\n4.豬耳朵還ok",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "壞狐狸",
+        "uri": "https://www.google.com/maps/contrib/103977602804554121547/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWveTLTlZEBBjzM6SEPyi2GSswoDypAf2xsVFSa2_6y68kEiofP=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-08-04T03:24:17.226977638Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT213eE9FdFBlRkZIUVRaa2JGZEJVVXhyUkhaRE4zYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT213eE9FdFBlRkZIUVRaa2JGZEJVVXhyUkhaRE4zYxAB!2m1!1s0x3442ab25a3998f35:0xcb4535740079fb29"
+    },
+    {
+      "name": "places/ChIJNY-ZoyWrQjQRKft5AHQ1Rcs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaeFNVMHhNM3BwUTJaVGJrcFdkaTFsVEZrNWFIYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "刀削麵有煮透，口感彈牙好吃\n麻辣湯頭辣感偏輕，湯一開始有種「水感」，加了調料後就正常了\n肉塊都是嫩的\n紅茶沒嚐到有點可惜\n注意夾板菜單跟牆面菜單不同，喜歡辣的要用夾板菜單",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "刀削麵有煮透，口感彈牙好吃\n麻辣湯頭辣感偏輕，湯一開始有種「水感」，加了調料後就正常了\n肉塊都是嫩的\n紅茶沒嚐到有點可惜\n注意夾板菜單跟牆面菜單不同，喜歡辣的要用夾板菜單",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Darling",
+        "uri": "https://www.google.com/maps/contrib/104954851593048120034/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBgPSeSJsOTuOONCH-W7nhTvtZsLJG1vyH2FAFkP9id1dSvDrh=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-08-19T10:04:54.636822513Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaeFNVMHhNM3BwUTJaVGJrcFdkaTFsVEZrNWFIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaeFNVMHhNM3BwUTJaVGJrcFdkaTFsVEZrNWFIYxAB!2m1!1s0x3442ab25a3998f35:0xcb4535740079fb29"
+    }
+  ]
+}

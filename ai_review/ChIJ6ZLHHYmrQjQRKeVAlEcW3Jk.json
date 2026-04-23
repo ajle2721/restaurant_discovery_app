@@ -1,0 +1,25 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "YES",
+                                  "evidence":  "親子友善",
+                                  "confidence":  0.6
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "內裡挑高空間開闊",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "十分熱門的咖啡店，親子友善",
+                               "confidence":  1.0
+                           },
+    "parent_friendly_score":  3,
+    "parent_friendly_level":  "高",
+    "reason":  "有兒童椅、空間寬敞、不怕小孩吵"
+}

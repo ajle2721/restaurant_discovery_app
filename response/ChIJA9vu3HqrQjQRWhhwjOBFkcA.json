@@ -1,0 +1,129 @@
+{
+  "id": "ChIJA9vu3HqrQjQRWhhwjOBFkcA",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2782 9835",
+  "formattedAddress": "115台灣臺北市南港區昆陽街58號",
+  "location": {
+    "latitude": 25.052651,
+    "longitude": 121.59280659999999
+  },
+  "rating": 4.4,
+  "userRatingCount": 357,
+  "displayName": {
+    "text": "找諶 Chen’s Brunch",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJA9vu3HqrQjQRWhhwjOBFkcA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oQlRtVldiVWRCVUcwM2NGRk1hRTFZYmtSVVkxRRAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 4,
+      "text": {
+        "text": "簡單乾淨的店面、燻雞蛋餅是粉漿蛋餅，皮Q不爛，內餡充足，吃起來滿足度很高。雞塊也炸的很酥、不會太油。還有一家店中店專賣咖啡。\n可現金/Linepay",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "簡單乾淨的店面、燻雞蛋餅是粉漿蛋餅，皮Q不爛，內餡充足，吃起來滿足度很高。雞塊也炸的很酥、不會太油。還有一家店中店專賣咖啡。\n可現金/Linepay",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Selina Wei",
+        "uri": "https://www.google.com/maps/contrib/109316656585064607645/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVsqpvi8p7m7J1ZN7T7FRB4kqPqujZvZydNGMQk5zAbv7CSyxE=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-02T03:20:44.687976559Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oQlRtVldiVWRCVUcwM2NGRk1hRTFZYmtSVVkxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oQlRtVldiVWRCVUcwM2NGRk1hRTFZYmtSVVkxRRAB!2m1!1s0x3442ab7adceedb03:0xc09145e08c70185a"
+    },
+    {
+      "name": "places/ChIJA9vu3HqrQjQRWhhwjOBFkcA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pacE56Vmlhak5LY25KalJ6UlVMVFZ1VTFWMWIxRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "今天的早餐日常💛\n手打豬總匯三明治（110元）蔬菜量超多，豬排醃得剛剛好～香氣滿滿不死鹹，只是咬的時候有點小筋，有點跟牙齒拉扯😆\n手打豬蛋餅加蛋（80元）是粉漿派，軟嫩滑口，但我私心還是愛酥酥脆脆的那種❤️\n火烤雞腿漢堡（90元）表現中規中矩，蛋要另外加15元～\n整體來說份量實在、價格偏小貴但吃得飽飽的，適合想簡單飽餐一頓的早晨✨",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天的早餐日常💛\n手打豬總匯三明治（110元）蔬菜量超多，豬排醃得剛剛好～香氣滿滿不死鹹，只是咬的時候有點小筋，有點跟牙齒拉扯😆\n手打豬蛋餅加蛋（80元）是粉漿派，軟嫩滑口，但我私心還是愛酥酥脆脆的那種❤️\n火烤雞腿漢堡（90元）表現中規中矩，蛋要另外加15元～\n整體來說份量實在、價格偏小貴但吃得飽飽的，適合想簡單飽餐一頓的早晨✨",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Anita Chang",
+        "uri": "https://www.google.com/maps/contrib/102199751123201360402/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLrVMiugYW7yoZ-ossCQjvFcv0lumahuis90ts_tmrwVEN33g=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-10-24T03:02:23.239625318Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pacE56Vmlhak5LY25KalJ6UlVMVFZ1VTFWMWIxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pacE56Vmlhak5LY25KalJ6UlVMVFZ1VTFWMWIxRRAB!2m1!1s0x3442ab7adceedb03:0xc09145e08c70185a"
+    },
+    {
+      "name": "places/ChIJA9vu3HqrQjQRWhhwjOBFkcA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2trMmNYRXdTWGhZWkZkSVZHZG9ibVF5ZGtZM1VtYxAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 1,
+      "text": {
+        "text": "從外送平台點了奶油吐司居然塗成這個樣子…根本就沒有認真塗。鐵板麵也超乾，醬汁超少，豬排肉腥味重，傻眼的一餐。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "從外送平台點了奶油吐司居然塗成這個樣子…根本就沒有認真塗。鐵板麵也超乾，醬汁超少，豬排肉腥味重，傻眼的一餐。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Wanting Chuang",
+        "uri": "https://www.google.com/maps/contrib/103458589774338615710/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKlZJlF7r4PRhTtCGXK4ueZMVB_BV6m0cz5LSXcGpYKVdPnFw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-10T03:46:43.865011838Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2trMmNYRXdTWGhZWkZkSVZHZG9ibVF5ZGtZM1VtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2trMmNYRXdTWGhZWkZkSVZHZG9ibVF5ZGtZM1VtYxAB!2m1!1s0x3442ab7adceedb03:0xc09145e08c70185a"
+    },
+    {
+      "name": "places/ChIJA9vu3HqrQjQRWhhwjOBFkcA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oSmVVWlRVWHBGVTJ4UmJXRm1WbDg0UW1OZmMwRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "1.蛋餅是粉漿Q彈好吃\n2.豬排蛋（全麥）吐司\n好多生菜好吃無負擔\n3.紅茶普通但屬順口",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "1.蛋餅是粉漿Q彈好吃\n2.豬排蛋（全麥）吐司\n好多生菜好吃無負擔\n3.紅茶普通但屬順口",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Gini Chen",
+        "uri": "https://www.google.com/maps/contrib/118132237134837584406/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVpFdBuN3Nw4OxdgWkC7cJwzvlCuuloF-t5RO14PCdX-ILEk32P=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-08T00:44:34.348179635Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oSmVVWlRVWHBGVTJ4UmJXRm1WbDg0UW1OZmMwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oSmVVWlRVWHBGVTJ4UmJXRm1WbDg0UW1OZmMwRRAB!2m1!1s0x3442ab7adceedb03:0xc09145e08c70185a"
+    },
+    {
+      "name": "places/ChIJA9vu3HqrQjQRWhhwjOBFkcA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYamFxUjVRRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "這次來到南港的一間不錯的早餐店找諶 Chen’s Brunch，我點了他們家的粉漿蛋餅和薏仁漿。這裡的粉漿蛋餅皮厚實柔軟，帶點Q彈的口感，吃起來和一般蛋餅不太一樣，更像是介於傳統粉漿和一般蛋餅之間的獨特版本。薏仁漿裡頭還有整粒的小薏仁（也就是大麥仁），喝起來不但香滑，還帶有一點淡淡的穀物清香，非常順口。\n\n店裡的設計也很有特色，後方連著一間咖啡廳，我看到不少客人都點了咖啡，特別是那杯拉花精緻的拿鐵，看起來很吸引人。這次因為已經點了飲料，所以沒機會嘗試他們的咖啡，下次一定要來試試看。\n\n這家店的選擇不僅僅是傳統早餐，它給人的感覺像是提供更多元的美食體驗。如果你經過南港，真的可以來試試看。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這次來到南港的一間不錯的早餐店找諶 Chen’s Brunch，我點了他們家的粉漿蛋餅和薏仁漿。這裡的粉漿蛋餅皮厚實柔軟，帶點Q彈的口感，吃起來和一般蛋餅不太一樣，更像是介於傳統粉漿和一般蛋餅之間的獨特版本。薏仁漿裡頭還有整粒的小薏仁（也就是大麥仁），喝起來不但香滑，還帶有一點淡淡的穀物清香，非常順口。\n\n店裡的設計也很有特色，後方連著一間咖啡廳，我看到不少客人都點了咖啡，特別是那杯拉花精緻的拿鐵，看起來很吸引人。這次因為已經點了飲料，所以沒機會嘗試他們的咖啡，下次一定要來試試看。\n\n這家店的選擇不僅僅是傳統早餐，它給人的感覺像是提供更多元的美食體驗。如果你經過南港，真的可以來試試看。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張吉楸",
+        "uri": "https://www.google.com/maps/contrib/107649252717224018658/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUGLiras7u9_JrEfvQOFr1_RfnQzsNHqHnRqDjnJdWryavjMXbG1g=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2024-10-19T07:20:57.685715Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYamFxUjVRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYamFxUjVRRRAB!2m1!1s0x3442ab7adceedb03:0xc09145e08c70185a"
+    }
+  ]
+}

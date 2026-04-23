@@ -1,0 +1,130 @@
+{
+  "id": "ChIJgcXkf1CuQjQRc3SOGvEDkvk",
+  "types": [
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2895 1255",
+  "formattedAddress": "112台灣臺北市北投區泉源路12號2樓之1",
+  "location": {
+    "latitude": 25.137062999999998,
+    "longitude": 121.504345
+  },
+  "rating": 4.2,
+  "websiteUri": "http://www.ootoya.com.tw/",
+  "userRatingCount": 1446,
+  "displayName": {
+    "text": "大戶屋新北投店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJgcXkf1CuQjQRc3SOGvEDkvk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsMGNYazRMVVZRYjJzelRUQlVjMGd5V0ZOc1ptYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 1,
+      "text": {
+        "text": "「碳烤雞肉香橘醋定食」，雞肉沒熟。\n\n如圖箭頭處（中間部位較厚）未熟透，肉眼可見明顯的粉紅色與血水，與旁邊熟透的白色雞肉有極大差異。\n\n且當晚因為網路當機，服務人員都在處理帶位、收桌、網路問題，在座位上等約5-10分都沒有人來點餐，還得自己去找服務人員告知要點餐。另因供餐時間只到晚上九點，基本上也無法再續飯與湯，話說茶水也包含在這其中嗎？因為完全沒再補第二次，其他分店都會一直問耶～～至於雞肉問題也就更沒機會再退回請店家重新復熱，可以理解九點後廚房要開始整理，但出餐品質也需要留意，若造成食安問題或任何身體不適，貴司應當難辭其咎。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "「碳烤雞肉香橘醋定食」，雞肉沒熟。\n\n如圖箭頭處（中間部位較厚）未熟透，肉眼可見明顯的粉紅色與血水，與旁邊熟透的白色雞肉有極大差異。\n\n且當晚因為網路當機，服務人員都在處理帶位、收桌、網路問題，在座位上等約5-10分都沒有人來點餐，還得自己去找服務人員告知要點餐。另因供餐時間只到晚上九點，基本上也無法再續飯與湯，話說茶水也包含在這其中嗎？因為完全沒再補第二次，其他分店都會一直問耶～～至於雞肉問題也就更沒機會再退回請店家重新復熱，可以理解九點後廚房要開始整理，但出餐品質也需要留意，若造成食安問題或任何身體不適，貴司應當難辭其咎。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "葉家成",
+        "uri": "https://www.google.com/maps/contrib/103312216559679195159/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXVWQ2YeIHl18O4b5Bornbyhlb6s8ajPs0-Jy1o_KWPi18pUGxz4A=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-23T19:14:49.365595347Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsMGNYazRMVVZRYjJzelRUQlVjMGd5V0ZOc1ptYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsMGNYazRMVVZRYjJzelRUQlVjMGd5V0ZOc1ptYxAB!2m1!1s0x3442ae507fe4c581:0xf99203f11a8e7473"
+    },
+    {
+      "name": "places/ChIJgcXkf1CuQjQRc3SOGvEDkvk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSdGMwRktia2d3ZFhOTGJVb3pUbDlyZERkcVltYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "在附近泡完湯後,，來這邊用餐。大戶屋吃很多次了，覺得料理都很不錯，服務也不錯。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在附近泡完湯後,，來這邊用餐。大戶屋吃很多次了，覺得料理都很不錯，服務也不錯。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "taisohofu",
+        "uri": "https://www.google.com/maps/contrib/101505643562787350883/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWIh9ylm5G4wBeYfDe3mzyltVNgiDeKcgsXBJU77vsGpI3UyjY=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-09T15:34:47.337442653Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSdGMwRktia2d3ZFhOTGJVb3pUbDlyZERkcVltYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSdGMwRktia2d3ZFhOTGJVb3pUbDlyZERkcVltYxAB!2m1!1s0x3442ae507fe4c581:0xf99203f11a8e7473"
+    },
+    {
+      "name": "places/ChIJgcXkf1CuQjQRc3SOGvEDkvk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSd2FFWnhjekkyTkUwM1pXSkdRMnM1Y0hWNGNWRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "天氣很冷一入坐就送上熱茶 服務很好\n位子竟然有插座蠻神奇的\n但味增烏龍麵鍋還好",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "天氣很冷一入坐就送上熱茶 服務很好\n位子竟然有插座蠻神奇的\n但味增烏龍麵鍋還好",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "嫺",
+        "uri": "https://www.google.com/maps/contrib/109496403661333797851/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8uraEr9rFuwf8vsDiqRT4ZKvAdY9Q35w4IWz5zBlOG5xFAUMbZQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-21T09:21:37.464748644Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSd2FFWnhjekkyTkUwM1pXSkdRMnM1Y0hWNGNWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSd2FFWnhjekkyTkUwM1pXSkdRMnM1Y0hWNGNWRRAB!2m1!1s0x3442ae507fe4c581:0xf99203f11a8e7473"
+    },
+    {
+      "name": "places/ChIJgcXkf1CuQjQRc3SOGvEDkvk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poNWRFdEpWakZJUzFVMVkySXpNVXgyVkZWUFdFRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "厚切豬排定食+雞排蓋飯加烏龍麵，味道就跟其他分店沒有太大的落差，不錯吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "厚切豬排定食+雞排蓋飯加烏龍麵，味道就跟其他分店沒有太大的落差，不錯吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "蘇洛克",
+        "uri": "https://www.google.com/maps/contrib/102507113205663062518/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVaEvCRr3P97drxHIPIXyl7l7MFl7UQwhkV-enxoa3fbaasJnbe=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-17T14:25:31.582308693Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poNWRFdEpWakZJUzFVMVkySXpNVXgyVkZWUFdFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poNWRFdEpWakZJUzFVMVkySXpNVXgyVkZWUFdFRRAB!2m1!1s0x3442ae507fe4c581:0xf99203f11a8e7473"
+    },
+    {
+      "name": "places/ChIJgcXkf1CuQjQRc3SOGvEDkvk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aT1pXWkJPWFp1Y0VjeU1XODJibTE2Um1aaldrRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "今天來大戶屋用餐，點了母親節特餐 $899，內容包含炸豬排飯、滑蛋豬排鍋，還附兩杯飲料和兩份冰淇淋甜點（口味可任選），整體表現很不錯！炸豬排酥脆不油膩，滑蛋豬排鍋湯頭鮮甜，豬排也非常入味。甜點冰淇淋很加分，飯後吃剛剛好。餐點份量足、CP值高，服務也很親切，節日限定套餐真的值得一試！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天來大戶屋用餐，點了母親節特餐 $899，內容包含炸豬排飯、滑蛋豬排鍋，還附兩杯飲料和兩份冰淇淋甜點（口味可任選），整體表現很不錯！炸豬排酥脆不油膩，滑蛋豬排鍋湯頭鮮甜，豬排也非常入味。甜點冰淇淋很加分，飯後吃剛剛好。餐點份量足、CP值高，服務也很親切，節日限定套餐真的值得一試！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "yo to",
+        "uri": "https://www.google.com/maps/contrib/105257692112572242417/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdyJezKM3zBvOa22uZjGhKNqkf6MVzYh40Yf9rwKJWb4I6U1z6=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-06-15T14:01:41.856892613Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aT1pXWkJPWFp1Y0VjeU1XODJibTE2Um1aaldrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aT1pXWkJPWFp1Y0VjeU1XODJibTE2Um1aaldrRRAB!2m1!1s0x3442ae507fe4c581:0xf99203f11a8e7473"
+    }
+  ]
+}

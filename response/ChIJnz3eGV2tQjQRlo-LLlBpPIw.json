@@ -1,0 +1,110 @@
+{
+  "id": "ChIJnz3eGV2tQjQRlo-LLlBpPIw",
+  "types": [
+    "western_restaurant",
+    "french_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 8791 0288",
+  "formattedAddress": "114台灣臺北市內湖區民權東路六段200號1樓",
+  "location": {
+    "latitude": 25.0682531,
+    "longitude": 121.5953867
+  },
+  "rating": 4.7,
+  "websiteUri": "https://www.facebook.com/fogant2022",
+  "userRatingCount": 182,
+  "displayName": {
+    "text": "Fogant",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJnz3eGV2tQjQRlo-LLlBpPIw/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xSGFVRkJXa05aTUhsWWRWRjBPVXhNYldKSFVtYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點精緻好吃 服務很好 主廚是很專業的 進來這家店後 會發現自己的氣質都提升了不少 每一樣餐點都可以感覺得到主廚的用心 口感極好👍🏻大推",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點精緻好吃 服務很好 主廚是很專業的 進來這家店後 會發現自己的氣質都提升了不少 每一樣餐點都可以感覺得到主廚的用心 口感極好👍🏻大推",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "喬兒",
+        "uri": "https://www.google.com/maps/contrib/116853006715107609280/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ9d1AS_ykidIxLOo3UZm9TBch4vyUhQvQZZuNFfQevx-gyIg=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-22T06:41:57.912363789Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xSGFVRkJXa05aTUhsWWRWRjBPVXhNYldKSFVtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xSGFVRkJXa05aTUhsWWRWRjBPVXhNYldKSFVtYxAB!2m1!1s0x3442ad5d19de3d9f:0x8c3c69502e8b8f96"
+    },
+    {
+      "name": "places/ChIJnz3eGV2tQjQRlo-LLlBpPIw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGcGRIWkpObEF5WDNOVU5rdHpXVUZxWTJKb1RrRRAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 5,
+      "text": {
+        "text": "每一道料理都非常的用心，層次分明。味道豐富。餐酒搭配非常的順暢。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "每一道料理都非常的用心，層次分明。味道豐富。餐酒搭配非常的順暢。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "ANDREW TSAI",
+        "uri": "https://www.google.com/maps/contrib/113834094507703176122/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKzHXU_19RJ128KtJ40hKdQ4iZEEKHOmrg02yM2v0ZQVKrYAg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-22T06:20:39.765081763Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGcGRIWkpObEF5WDNOVU5rdHpXVUZxWTJKb1RrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGcGRIWkpObEF5WDNOVU5rdHpXVUZxWTJKb1RrRRAB!2m1!1s0x3442ad5d19de3d9f:0x8c3c69502e8b8f96"
+    },
+    {
+      "name": "places/ChIJnz3eGV2tQjQRlo-LLlBpPIw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGWFkydHVVSFoyYzBOc1pEZERia2hZVVhodGVYYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "舒適的接待，讓人覺得很放鬆，謝謝主廚精心製作還有每一道每一道不厭其煩都會出來跟我們解說，由來和做法，每一道都是驚喜，連牛舌都可以燉煮像蛋糕一樣酥軟，真的太厲害了👍我要推薦更多朋友來吃，也謝謝主廚的生日蛋糕",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "舒適的接待，讓人覺得很放鬆，謝謝主廚精心製作還有每一道每一道不厭其煩都會出來跟我們解說，由來和做法，每一道都是驚喜，連牛舌都可以燉煮像蛋糕一樣酥軟，真的太厲害了👍我要推薦更多朋友來吃，也謝謝主廚的生日蛋糕",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chen Tintin喜楽旅行",
+        "uri": "https://www.google.com/maps/contrib/103255249548024081550/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocICfGzt1T64j7rbeMqAz8sWuXt02VuZRYC43BG-Ma8MmgKZK2I=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-01T14:42:25.173198943Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGWFkydHVVSFoyYzBOc1pEZERia2hZVVhodGVYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGWFkydHVVSFoyYzBOc1pEZERia2hZVVhodGVYYxAB!2m1!1s0x3442ad5d19de3d9f:0x8c3c69502e8b8f96"
+    },
+    {
+      "name": "places/ChIJnz3eGV2tQjQRlo-LLlBpPIw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwVU15MUxOR3MzT0ZaMlZqSkljV05vWm1OS2VtYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點精緻有創意而且很美味～ 主廚會用心介紹每一道菜 服務人員也很細心溫柔 來這慶祝聖誕節很有氣氛🎄🌟❤️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點精緻有創意而且很美味～ 主廚會用心介紹每一道菜 服務人員也很細心溫柔 來這慶祝聖誕節很有氣氛🎄🌟❤️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "裕珊",
+        "uri": "https://www.google.com/maps/contrib/109902391466264393068/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVIwV_OTKb9nDpLlHmtMLLHGT-GBcIJD-3kpiE5tWpewUvMdQR7uA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-25T16:44:25.255664273Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwVU15MUxOR3MzT0ZaMlZqSkljV05vWm1OS2VtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwVU15MUxOR3MzT0ZaMlZqSkljV05vWm1OS2VtYxAB!2m1!1s0x3442ad5d19de3d9f:0x8c3c69502e8b8f96"
+    }
+  ]
+}

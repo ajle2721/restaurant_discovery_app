@@ -1,0 +1,130 @@
+{
+  "id": "ChIJz2Nt86ypQjQR2Q53B_FEtOA",
+  "types": [
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2558 0131",
+  "formattedAddress": "103台灣臺北市大同區重慶北路一段62號2樓",
+  "location": {
+    "latitude": 25.051990999999997,
+    "longitude": 121.51382199999999
+  },
+  "rating": 4.5,
+  "websiteUri": "https://www.yuzhenxuan13.com/",
+  "userRatingCount": 2858,
+  "displayName": {
+    "text": "御珍軒",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJz2Nt86ypQjQR2Q53B_FEtOA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pZNWFuZGpUbEYxYldRd2VUWXpSV3RMTFd0eFJVRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 2,
+      "text": {
+        "text": "熱炒都行，蝦仁粉絲煲有入味，高麗菜的櫻花蝦多到爆，牛小排都嫩嫩~\n嗯…點心部份…上菜很快。\n所以是蒸了很久？一直在蒸籠上？\n\n鳳爪不是我愛的口感，也不是我想像的口味。如果可以的話，我會希望不要那麼像冷凍食品的口感就太好了。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "熱炒都行，蝦仁粉絲煲有入味，高麗菜的櫻花蝦多到爆，牛小排都嫩嫩~\n嗯…點心部份…上菜很快。\n所以是蒸了很久？一直在蒸籠上？\n\n鳳爪不是我愛的口感，也不是我想像的口味。如果可以的話，我會希望不要那麼像冷凍食品的口感就太好了。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ally Shih",
+        "uri": "https://www.google.com/maps/contrib/114168577562917313231/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVxXw32ZxG_L0XRdeGWMHRx6ewAzrnnzMlhPVYiMaNemr4CfuA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-17T14:54:34.757181737Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pZNWFuZGpUbEYxYldRd2VUWXpSV3RMTFd0eFJVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pZNWFuZGpUbEYxYldRd2VUWXpSV3RMTFd0eFJVRRAB!2m1!1s0x3442a9acf36d63cf:0xe0b444f107770ed9"
+    },
+    {
+      "name": "places/ChIJz2Nt86ypQjQR2Q53B_FEtOA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4dFNGRkZSRFo2VDJOQ2RYUnJVVUoyZDNaVGJVRRAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 5,
+      "text": {
+        "text": "已經來訪多次，服務人員以及櫃檯小姐親切，包廂隔音還需加強，否則用餐時感覺難免有點吵",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "已經來訪多次，服務人員以及櫃檯小姐親切，包廂隔音還需加強，否則用餐時感覺難免有點吵",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳勇志",
+        "uri": "https://www.google.com/maps/contrib/100036240986330742559/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLo9PYXAVNhg2Rxgk7HEvzzK0rXVpkcFd2vfn8UQ7iYOrvK4Q=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-03-01T18:07:01.451690715Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4dFNGRkZSRFo2VDJOQ2RYUnJVVUoyZDNaVGJVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4dFNGRkZSRFo2VDJOQ2RYUnJVVUoyZDNaVGJVRRAB!2m1!1s0x3442a9acf36d63cf:0xe0b444f107770ed9"
+    },
+    {
+      "name": "places/ChIJz2Nt86ypQjQR2Q53B_FEtOA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGalUwSTFVa2t3ZW5OV2FVbzNaWFJtT1ZKRmJsRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "北車京站附近的老字號港式餐廳\n料理每一道都超級美味\n鮮蝦腸粉蝦子彈牙皮薄軟嫩\n醬料道地\n腐皮捲酥脆外皮內餡紮實好吃\n鹹水餃第一次吃有點像大顆的水晶餃\nXO醬炒蘿蔔糕極推\n微微辣味又不會太鹹\n蘿蔔糕炒蛋及豆芽菜炒得入味🤤\n珍珠丸有點沒印象但是好吃的記憶\n干炒豬河肉不少\n河粉口感不會太軟爛\n醬料鹹淡適中帶一點點甜味\n讓人一口接一口\n鳳爪蒸到非常軟很好啃\n櫻花蝦高麗菜炒得脆脆的\n標準臺灣好吃的高麗菜\n奶黃流沙包內餡會爆汁而且很燙要小心燙口\n奶黃香氣十足\n海鮮豆腐煲料多\n大部分是魷魚及豆腐\n餐廳一入座服務生就馬上送茶\n座位是婚禮場地的圓桌\n裝潢有年代感又舒適明亮\n適合約4～8人聚餐\n人多可以吃到多種類的港點\n均分下來便宜\n唯一可惜的是沒有港式飲料如凍檸茶等\n但料理真的非常好吃道地有回到香港的感覺",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "北車京站附近的老字號港式餐廳\n料理每一道都超級美味\n鮮蝦腸粉蝦子彈牙皮薄軟嫩\n醬料道地\n腐皮捲酥脆外皮內餡紮實好吃\n鹹水餃第一次吃有點像大顆的水晶餃\nXO醬炒蘿蔔糕極推\n微微辣味又不會太鹹\n蘿蔔糕炒蛋及豆芽菜炒得入味🤤\n珍珠丸有點沒印象但是好吃的記憶\n干炒豬河肉不少\n河粉口感不會太軟爛\n醬料鹹淡適中帶一點點甜味\n讓人一口接一口\n鳳爪蒸到非常軟很好啃\n櫻花蝦高麗菜炒得脆脆的\n標準臺灣好吃的高麗菜\n奶黃流沙包內餡會爆汁而且很燙要小心燙口\n奶黃香氣十足\n海鮮豆腐煲料多\n大部分是魷魚及豆腐\n餐廳一入座服務生就馬上送茶\n座位是婚禮場地的圓桌\n裝潢有年代感又舒適明亮\n適合約4～8人聚餐\n人多可以吃到多種類的港點\n均分下來便宜\n唯一可惜的是沒有港式飲料如凍檸茶等\n但料理真的非常好吃道地有回到香港的感覺",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "粘漢",
+        "uri": "https://www.google.com/maps/contrib/101755301386257766690/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUrEr9JKETPD4kLsfPWtPto6ZdIf7r-OkOfEx72xsfexdx4bzhPfg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-18T13:44:16.231155692Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGalUwSTFVa2t3ZW5OV2FVbzNaWFJtT1ZKRmJsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGalUwSTFVa2t3ZW5OV2FVbzNaWFJtT1ZKRmJsRRAB!2m1!1s0x3442a9acf36d63cf:0xe0b444f107770ed9"
+    },
+    {
+      "name": "places/ChIJz2Nt86ypQjQR2Q53B_FEtOA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaNGVHVlBPVTFrU0dsNk9WY3hPRzlsYTA4M1VHYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "入口在長安西路上\n從重慶北路一定會錯過它的老店\n\n空間很大 位置很多\n東西都蠻好吃的 而且不會太貴\n\n明明是老店 而且就是在市中心\n但google map居然不太會跳出這家\n害我錯過這麼久\n\n推薦大家可以去試試\n\n腸粉和蝦鬆 拼盤都很好吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "入口在長安西路上\n從重慶北路一定會錯過它的老店\n\n空間很大 位置很多\n東西都蠻好吃的 而且不會太貴\n\n明明是老店 而且就是在市中心\n但google map居然不太會跳出這家\n害我錯過這麼久\n\n推薦大家可以去試試\n\n腸粉和蝦鬆 拼盤都很好吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Cynthia CC",
+        "uri": "https://www.google.com/maps/contrib/114605146842920700415/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdr11mFkSS62ZauFueB2k-NGJdTMetgG0OZdxiJLJz2j5vXd3s=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-23T07:07:10.737229209Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaNGVHVlBPVTFrU0dsNk9WY3hPRzlsYTA4M1VHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaNGVHVlBPVTFrU0dsNk9WY3hPRzlsYTA4M1VHYxAB!2m1!1s0x3442a9acf36d63cf:0xe0b444f107770ed9"
+    },
+    {
+      "name": "places/ChIJz2Nt86ypQjQR2Q53B_FEtOA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CeVIzbzFhblpxUnpKMloxWlhjMFp0VG5kdE1HYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "員工很勤快補充茶水，上菜也蠻快的。食物都不錯，特別喜歡杏仁豆腐、腸粉、叉燒包，覺得比較普通的是蔬菜和乾麵。另外店裡裝潢本身是不錯的，但很多簡體字海報破壞了店裡的質感，有點可惜。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "員工很勤快補充茶水，上菜也蠻快的。食物都不錯，特別喜歡杏仁豆腐、腸粉、叉燒包，覺得比較普通的是蔬菜和乾麵。另外店裡裝潢本身是不錯的，但很多簡體字海報破壞了店裡的質感，有點可惜。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "TZU-MIN CHANG",
+        "uri": "https://www.google.com/maps/contrib/108544632361888126872/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJW0FhsfNh6xTp-WnEUvHmA-1bQZcZWFAqMwLwIPSTkw0Nb1A=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-18T12:42:31.778966363Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CeVIzbzFhblpxUnpKMloxWlhjMFp0VG5kdE1HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CeVIzbzFhblpxUnpKMloxWlhjMFp0VG5kdE1HYxAB!2m1!1s0x3442a9acf36d63cf:0xe0b444f107770ed9"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "id": "ChIJ2QfiI86rQjQRh0aHi2jtzeA",
+  "types": [
+    "restaurant",
+    "brunch_restaurant",
+    "food_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2793 7660",
+  "formattedAddress": "114台灣臺北市內湖區南京東路六段501號",
+  "location": {
+    "latitude": 25.0617968,
+    "longitude": 121.5886617
+  },
+  "rating": 4.8,
+  "websiteUri": "https://www.instagram.com/knock.knock.heaven/",
+  "userRatingCount": 598,
+  "displayName": {
+    "text": "Knock Knock Heaven 內湖店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ2QfiI86rQjQRh0aHi2jtzeA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKVlgzTjFOMVY2T1hKeFFucFFMWGxUVUVWUFkxRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "馬告鹹豬肉溫沙拉：淡淡馬告香，非常高級感👍\n黑松露燉飯：松露味沒有很明顯，但也不錯！\n辣牛肉醬通心粉：一般能吃到的肉醬味，但帶有點微微煙燻酸味，也可！\n炸魚薯＆熱美式：尚可\n壽星贈送\n堅果提拉米蘇荷蘭鬆餅：超級好吃👍\n本日服務人員親切專業5顆星給她！\n用餐環境後來人多了就需要大聲說話，有點累！\n低消$500／人",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "馬告鹹豬肉溫沙拉：淡淡馬告香，非常高級感👍\n黑松露燉飯：松露味沒有很明顯，但也不錯！\n辣牛肉醬通心粉：一般能吃到的肉醬味，但帶有點微微煙燻酸味，也可！\n炸魚薯＆熱美式：尚可\n壽星贈送\n堅果提拉米蘇荷蘭鬆餅：超級好吃👍\n本日服務人員親切專業5顆星給她！\n用餐環境後來人多了就需要大聲說話，有點累！\n低消$500／人",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "T V",
+        "uri": "https://www.google.com/maps/contrib/101976788876947819237/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXAaZupURVwJkr69EMOyMPfjXKwaBhLoRTbAaDlSEuHYoOJeH_zZg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-05T13:13:27.867620326Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKVlgzTjFOMVY2T1hKeFFucFFMWGxUVUVWUFkxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKVlgzTjFOMVY2T1hKeFFucFFMWGxUVUVWUFkxRRAB!2m1!1s0x3442abce23e207d9:0xe0cded688b874687"
+    },
+    {
+      "name": "places/ChIJ2QfiI86rQjQRh0aHi2jtzeA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WNVkyTkxOa3htVmt3MVJ6VlRUMkUyYW01alkyYxAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 5,
+      "text": {
+        "text": "最近到台北內湖找朋友聚餐，發現一間氣氛很好、料理又有趣的餐廳 —— Knock Knock Heaven 內湖店。這裡主打創意無國界料理，把世界各地的風味巧妙融合成一道道有驚喜的餐點，從前菜、小食到主菜都有新意。我們點的厚培根奶油寬麵、墨西哥塔可和松露薯條等，口味都很好都讓人想一口接一口。\n餐廳空間設計簡約又明亮，落地窗讓自然光灑進來，就算日間或夜晚來用餐都有不同的氛圍，適合朋友聚會、下班小酌或悠閒約會。料理不僅好吃，擺盤也很精緻，每一道上桌都會讓人想拍照。\n因為餐點和環境都給人很有質感的感覺，來過一次就印象深刻，是那種之後聚餐還會想再帶朋友來的氛圍。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "最近到台北內湖找朋友聚餐，發現一間氣氛很好、料理又有趣的餐廳 —— Knock Knock Heaven 內湖店。這裡主打創意無國界料理，把世界各地的風味巧妙融合成一道道有驚喜的餐點，從前菜、小食到主菜都有新意。我們點的厚培根奶油寬麵、墨西哥塔可和松露薯條等，口味都很好都讓人想一口接一口。\n餐廳空間設計簡約又明亮，落地窗讓自然光灑進來，就算日間或夜晚來用餐都有不同的氛圍，適合朋友聚會、下班小酌或悠閒約會。料理不僅好吃，擺盤也很精緻，每一道上桌都會讓人想拍照。\n因為餐點和環境都給人很有質感的感覺，來過一次就印象深刻，是那種之後聚餐還會想再帶朋友來的氛圍。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Kelly’s Runway",
+        "uri": "https://www.google.com/maps/contrib/105591627739401477047/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW3Q-lAkEVk26JstIhZaQ_wmbVEmjMk0OUouFU7eobDm2GuVghGxQ=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-02-23T15:44:32.167604953Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WNVkyTkxOa3htVmt3MVJ6VlRUMkUyYW01alkyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WNVkyTkxOa3htVmt3MVJ6VlRUMkUyYW01alkyYxAB!2m1!1s0x3442abce23e207d9:0xe0cded688b874687"
+    },
+    {
+      "name": "places/ChIJ2QfiI86rQjQRh0aHi2jtzeA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkaVZGUldhRVZHTWxsTFRqUmxYM05vU1dKS1NYYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "首次嚐鮮🤗很好吃喔！臨時前往，感謝店員還是幫忙安排座位，燉飯的米粒沒那麼軟，義大利麵蠻好吃的，風味很不錯👍下次還會再光臨，想試試早午餐系列。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "首次嚐鮮🤗很好吃喔！臨時前往，感謝店員還是幫忙安排座位，燉飯的米粒沒那麼軟，義大利麵蠻好吃的，風味很不錯👍下次還會再光臨，想試試早午餐系列。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "城市旅人",
+        "uri": "https://www.google.com/maps/contrib/113645130703898498295/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtyO4cS1L7BQ2PWB3um5VVyqmF5USbrxbDjzeHaC2SxWeTD6XA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-12T07:53:58.720863138Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkaVZGUldhRVZHTWxsTFRqUmxYM05vU1dKS1NYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkaVZGUldhRVZHTWxsTFRqUmxYM05vU1dKS1NYYxAB!2m1!1s0x3442abce23e207d9:0xe0cded688b874687"
+    },
+    {
+      "name": "places/ChIJ2QfiI86rQjQRh0aHi2jtzeA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GT2NXaEhRWEZ0UkU4NGRtMVVSRXR2V0dJdFFsRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點單價不算便宜，但每一道味道都滿意！炸魚薯條是出乎預期的好食，炸魚不會只有厚厚的炸漿。寬麵很濃郁很邪惡，還點了一個咸的有起司和生火腿的鬆餅和楊枝甘露冰沙也不錯。鰻魚不算很驚喜但飯有滿滿的鰻魚汁，好吃的。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點單價不算便宜，但每一道味道都滿意！炸魚薯條是出乎預期的好食，炸魚不會只有厚厚的炸漿。寬麵很濃郁很邪惡，還點了一個咸的有起司和生火腿的鬆餅和楊枝甘露冰沙也不錯。鰻魚不算很驚喜但飯有滿滿的鰻魚汁，好吃的。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Evan Pan",
+        "uri": "https://www.google.com/maps/contrib/116961594185479953044/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXIlZWo-iiBwr13zPIiK24eH4bP3BjRGy1q3El8cPeW97fPLzs=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-10T07:57:40.861517365Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GT2NXaEhRWEZ0UkU4NGRtMVVSRXR2V0dJdFFsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GT2NXaEhRWEZ0UkU4NGRtMVVSRXR2V0dJdFFsRRAB!2m1!1s0x3442abce23e207d9:0xe0cded688b874687"
+    },
+    {
+      "name": "places/ChIJ2QfiI86rQjQRh0aHi2jtzeA/reviews/Ci9DQUlRQUNvZENodHljRjlvT214QmRXMHdUMWx0VERoMU5FZE9aVGxCUWt4UU9FRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "早午餐份量實在，擺盤精緻。食物美味、醬汁到位，搭配咖啡很加分。氣氛舒服，用餐時間90分鐘，推薦值得再訪。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "早午餐份量實在，擺盤精緻。食物美味、醬汁到位，搭配咖啡很加分。氣氛舒服，用餐時間90分鐘，推薦值得再訪。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "賴紅茶",
+        "uri": "https://www.google.com/maps/contrib/106246055395310894162/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5DpD8AzvvDixAuYK-7rLqDzoQQRbv_1SWM2kIQvZRM5_OWMJ0=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-30T05:10:13.157270644Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214QmRXMHdUMWx0VERoMU5FZE9aVGxCUWt4UU9FRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214QmRXMHdUMWx0VERoMU5FZE9aVGxCUWt4UU9FRRAB!2m1!1s0x3442abce23e207d9:0xe0cded688b874687"
+    }
+  ]
+}

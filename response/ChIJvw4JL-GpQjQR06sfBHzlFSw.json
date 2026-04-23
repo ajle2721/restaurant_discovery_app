@@ -1,0 +1,130 @@
+{
+  "id": "ChIJvw4JL-GpQjQR06sfBHzlFSw",
+  "types": [
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2531 7960",
+  "formattedAddress": "104台灣臺北市中山區民生西路45巷7弄21號",
+  "location": {
+    "latitude": 25.058802000000004,
+    "longitude": 121.5215569
+  },
+  "rating": 4.4,
+  "websiteUri": "https://chaojingrishidingshi.weebly.com/",
+  "userRatingCount": 1360,
+  "displayName": {
+    "text": "潮丼日式定食/平價美食餐廳",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJvw4JL-GpQjQR06sfBHzlFSw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pFMllVaHJOM0p5Y1hBNVkxTXpNa0pHYWtaQmFWRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "1.隱藏在巷弄裡的日式料理，有數桌內用座位，假日尖峰時段也有位子，是 planB 好選擇。\n\n2.唐揚雞丼 170 元，表現中規中矩，雞肉份量足，口感OK，有配菜\n\n3.味噌湯自取，主要就是湯\n\n4.限現金支付",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "1.隱藏在巷弄裡的日式料理，有數桌內用座位，假日尖峰時段也有位子，是 planB 好選擇。\n\n2.唐揚雞丼 170 元，表現中規中矩，雞肉份量足，口感OK，有配菜\n\n3.味噌湯自取，主要就是湯\n\n4.限現金支付",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "漢克探索中（HankExploring）",
+        "uri": "https://www.google.com/maps/contrib/118206233725636653771/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWcNqJ8B39K1EKQc-8OlOCK2GB-wezaJ0LgC-VkJChRW_VBm_OdLQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-22T02:33:19.493513954Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pFMllVaHJOM0p5Y1hBNVkxTXpNa0pHYWtaQmFWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pFMllVaHJOM0p5Y1hBNVkxTXpNa0pHYWtaQmFWRRAB!2m1!1s0x3442a9e12f090ebf:0x2c15e57c041fabd3"
+    },
+    {
+      "name": "places/ChIJvw4JL-GpQjQR06sfBHzlFSw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWb2NGQmZjREIzV1RSVWRtODRaazVUTTIxMGFsRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "店家佈置的很用心～肉不錯吃，免費的味增湯很真材實料！洋蔥很多，湯整體喝起來很清甜～\n但丼飯上的配菜都是冷的，口感也都沒有很好，整體吃起來有點怪🥹",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店家佈置的很用心～肉不錯吃，免費的味增湯很真材實料！洋蔥很多，湯整體喝起來很清甜～\n但丼飯上的配菜都是冷的，口感也都沒有很好，整體吃起來有點怪🥹",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Catherine Chen",
+        "uri": "https://www.google.com/maps/contrib/114148563680651104916/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLUWtcTshV9ma4IlCankIBiB2LgW2aOiz-eg6G6k9vcAp2lmg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-06T17:45:37.197244923Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWb2NGQmZjREIzV1RSVWRtODRaazVUTTIxMGFsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWb2NGQmZjREIzV1RSVWRtODRaazVUTTIxMGFsRRAB!2m1!1s0x3442a9e12f090ebf:0x2c15e57c041fabd3"
+    },
+    {
+      "name": "places/ChIJvw4JL-GpQjQR06sfBHzlFSw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sbE0zaDJZMlZ5Ym1wQ2RHUlBhbnBpVmxOVFYxRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "燒肉（牛肉）丼鹹甜醬汁還不錯吃，搭配花椰菜、玉米粒還行，套餐唐揚雞4塊+煙燻鮭魚2片+可爾必思1杯 $120，或許不要套餐，可以考慮單點唐揚雞就好。\n\n另外，單點鹽烤鯖魚味道還不錯，味噌湯鹹甜適中，算還不錯喝！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "燒肉（牛肉）丼鹹甜醬汁還不錯吃，搭配花椰菜、玉米粒還行，套餐唐揚雞4塊+煙燻鮭魚2片+可爾必思1杯 $120，或許不要套餐，可以考慮單點唐揚雞就好。\n\n另外，單點鹽烤鯖魚味道還不錯，味噌湯鹹甜適中，算還不錯喝！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "愛好自由",
+        "uri": "https://www.google.com/maps/contrib/112034913129299866380/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWa1Qg4zT5FxGKsh945vP5KUkJazoUZS8abQuGWNZIAHlymXr_URQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-20T10:03:37.526715934Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sbE0zaDJZMlZ5Ym1wQ2RHUlBhbnBpVmxOVFYxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sbE0zaDJZMlZ5Ym1wQ2RHUlBhbnBpVmxOVFYxRRAB!2m1!1s0x3442a9e12f090ebf:0x2c15e57c041fabd3"
+    },
+    {
+      "name": "places/ChIJvw4JL-GpQjQR06sfBHzlFSw/reviews/Ci9DQUlRQUNvZENodHljRjlvT210alJVTXhTbXRvV0dka2MwTmpkV2RQUnpaU2VFRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 1,
+      "text": {
+        "text": "好吃？別被評論騙到了==\n\n要什麼沒什麼，點來點去最後乾脆說沒有烏龍麵。\n\n紅茶喝起來像水龍頭裡的生水，噁心的味道揮之不去。\n\n味增湯甜的跟加了一整包糖沒兩樣⋯\n\n燒肉丼飯？那也是很懂做了，這個湯跟燴飯沒兩樣，又鹹又甜，菜是冰的？\n\n好奇整家店是有第三個人嗎？在等餐的時候，頻頻看到廚師跑出來跟櫃檯聊天，所以誰在顧火？我的飯不會是微波食品自己完成的吧⋯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "好吃？別被評論騙到了==\n\n要什麼沒什麼，點來點去最後乾脆說沒有烏龍麵。\n\n紅茶喝起來像水龍頭裡的生水，噁心的味道揮之不去。\n\n味增湯甜的跟加了一整包糖沒兩樣⋯\n\n燒肉丼飯？那也是很懂做了，這個湯跟燴飯沒兩樣，又鹹又甜，菜是冰的？\n\n好奇整家店是有第三個人嗎？在等餐的時候，頻頻看到廚師跑出來跟櫃檯聊天，所以誰在顧火？我的飯不會是微波食品自己完成的吧⋯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "苒陳",
+        "uri": "https://www.google.com/maps/contrib/102330845129582998048/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW3jhIsWV3GmLuAh35sRqDQGogvuFdBoHES2Iisu44ceNNFiwo=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-16T05:23:34.804636613Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210alJVTXhTbXRvV0dka2MwTmpkV2RQUnpaU2VFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210alJVTXhTbXRvV0dka2MwTmpkV2RQUnpaU2VFRRAB!2m1!1s0x3442a9e12f090ebf:0x2c15e57c041fabd3"
+    },
+    {
+      "name": "places/ChIJvw4JL-GpQjQR06sfBHzlFSw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pjM1ZqRkVSMWRFVVc4dFUzQTBObGRPVURsbFdIYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "其實食物蠻一般的，我的炸豬排油耗味說實在有點重，價格在中山去還不錯！但是食物真的還好，尤其是海帶絲有不新鮮的味道\n\n然後我朋友吃炸蝦，他覺得還麵粉太多了吧⋯咬下去不是肉味，是麵粉味⋯\n\n抱歉☹️剛剛飢腸轆轆看評價來的，結果有點失望，就算餓也沒覺得很好吃，但是店內音樂滿好聽的，服務很都很ok!",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "其實食物蠻一般的，我的炸豬排油耗味說實在有點重，價格在中山去還不錯！但是食物真的還好，尤其是海帶絲有不新鮮的味道\n\n然後我朋友吃炸蝦，他覺得還麵粉太多了吧⋯咬下去不是肉味，是麵粉味⋯\n\n抱歉☹️剛剛飢腸轆轆看評價來的，結果有點失望，就算餓也沒覺得很好吃，但是店內音樂滿好聽的，服務很都很ok!",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "鄧一貝",
+        "uri": "https://www.google.com/maps/contrib/116948795400246717433/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXB8948--X68ptVgm7wo1_jF60Bvg6FX5tYLp01y9JVnNOlwNE=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-26T11:12:09.426995913Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pjM1ZqRkVSMWRFVVc4dFUzQTBObGRPVURsbFdIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pjM1ZqRkVSMWRFVVc4dFUzQTBObGRPVURsbFdIYxAB!2m1!1s0x3442a9e12f090ebf:0x2c15e57c041fabd3"
+    }
+  ]
+}

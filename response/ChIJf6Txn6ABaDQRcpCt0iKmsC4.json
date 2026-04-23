@@ -1,0 +1,129 @@
+{
+  "id": "ChIJf6Txn6ABaDQRcpCt0iKmsC4",
+  "types": [
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2236 0208",
+  "formattedAddress": "116台灣臺北市文山區木柵路一段38號",
+  "location": {
+    "latitude": 24.986667,
+    "longitude": 121.54667099999999
+  },
+  "rating": 4.1,
+  "userRatingCount": 178,
+  "displayName": {
+    "text": "富順樓餐廳",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJf6Txn6ABaDQRcpCt0iKmsC4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWeU9GbGZUV05NUTI1emVsbDJWME4xUWxOd1pHYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "木柵老字號餐廳，餐廳的環境乾淨整潔，蔥油餅很喜歡，還外帶2份回家、外皮酥脆，每一口都充滿層次感，口感非常好，讓人一口接一口停不下來，加點辣椒更讓人讚不絕口。\n\n整體來說餐點美味，份量也很足，價格合理，會再光臨。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "木柵老字號餐廳，餐廳的環境乾淨整潔，蔥油餅很喜歡，還外帶2份回家、外皮酥脆，每一口都充滿層次感，口感非常好，讓人一口接一口停不下來，加點辣椒更讓人讚不絕口。\n\n整體來說餐點美味，份量也很足，價格合理，會再光臨。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Noly Chou",
+        "uri": "https://www.google.com/maps/contrib/107338633935677656536/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKIPAx6q6q-TU4ssOk4S6cH-mk_O3fTjgYzYo_EzH7f8So-XA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-01-04T09:18:45.730031029Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWeU9GbGZUV05NUTI1emVsbDJWME4xUWxOd1pHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWeU9GbGZUV05NUTI1emVsbDJWME4xUWxOd1pHYxAB!2m1!1s0x346801a09ff1a47f:0x2eb0a622d2ad9072"
+    },
+    {
+      "name": "places/ChIJf6Txn6ABaDQRcpCt0iKmsC4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkbVltc3pjMVZyU204eVNYTXdUbTVJZVUxcE1uYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "在復興派出所旁，老字號北平餐廳的分店，餐點份量澎湃，不收開瓶費，價格也不貴，是不錯的聚餐地點。\n\n當天印象較深刻的料理有涼拌羊肚、韭黃炒鱔糊、生菜蝦鬆。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在復興派出所旁，老字號北平餐廳的分店，餐點份量澎湃，不收開瓶費，價格也不貴，是不錯的聚餐地點。\n\n當天印象較深刻的料理有涼拌羊肚、韭黃炒鱔糊、生菜蝦鬆。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "a220501 a220501",
+        "uri": "https://www.google.com/maps/contrib/111260320647163589678/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXBlh-hlJGypDgpeFUd-2ThX2UGXnDr6-9fMEvQBTKF071yZKdS=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-12-09T14:00:28.167977442Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkbVltc3pjMVZyU204eVNYTXdUbTVJZVUxcE1uYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkbVltc3pjMVZyU204eVNYTXdUbTVJZVUxcE1uYxAB!2m1!1s0x346801a09ff1a47f:0x2eb0a622d2ad9072"
+    },
+    {
+      "name": "places/ChIJf6Txn6ABaDQRcpCt0iKmsC4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSbE0wcFNaak5rUWxwTGJuaFpjekY2YVhST2VVRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "常常經過，但還真沒來吃過\n因為家人的安排，來試試這家餐廳\n偏向北方麵店及烤鴨餐點\n前面還有蝦鬆，整體來說麵點不錯，烤鴨需要告知餐廳他才會再炒鴨架子，但鴨肉部分有些柴，但整體算不差。\n這個價格可以吃到這些餐點算不錯的了，如果喜歡這類餐點的是可以來試試看",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "常常經過，但還真沒來吃過\n因為家人的安排，來試試這家餐廳\n偏向北方麵店及烤鴨餐點\n前面還有蝦鬆，整體來說麵點不錯，烤鴨需要告知餐廳他才會再炒鴨架子，但鴨肉部分有些柴，但整體算不差。\n這個價格可以吃到這些餐點算不錯的了，如果喜歡這類餐點的是可以來試試看",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "李粉圓",
+        "uri": "https://www.google.com/maps/contrib/111377454664288569704/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKfvOqPVqfRCdeK30TSy1k5UEw_gH4LVmngtPRS7cHd42YZkw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-23T11:44:53.021039517Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSbE0wcFNaak5rUWxwTGJuaFpjekY2YVhST2VVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSbE0wcFNaak5rUWxwTGJuaFpjekY2YVhST2VVRRAB!2m1!1s0x346801a09ff1a47f:0x2eb0a622d2ad9072"
+    },
+    {
+      "name": "places/ChIJf6Txn6ABaDQRcpCt0iKmsC4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWcE4yVTVSbVZEYXpCdmJuTlJWblpaYVZoYVozYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "烤鴨三吃需要先預約，最好吃的是餅皮包肉，鴨肉皮很脆。\n炒飯有鍋氣很香，臭豆腐有臭，豆乾炒肉絲也不錯。\n和菜玳瑁口味不夠鹹可以不用點，蒸餃很像早餐店賣得也可以不用點",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "烤鴨三吃需要先預約，最好吃的是餅皮包肉，鴨肉皮很脆。\n炒飯有鍋氣很香，臭豆腐有臭，豆乾炒肉絲也不錯。\n和菜玳瑁口味不夠鹹可以不用點，蒸餃很像早餐店賣得也可以不用點",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "lin卉（Yui）",
+        "uri": "https://www.google.com/maps/contrib/105975050931507578024/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBf33CMnpZv1MlDB_j7ijQ0faEc_k4-y1Y7F-xAOPpc78hWiuu=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-25T10:21:11.965706453Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWcE4yVTVSbVZEYXpCdmJuTlJWblpaYVZoYVozYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWcE4yVTVSbVZEYXpCdmJuTlJWblpaYVZoYVozYxAB!2m1!1s0x346801a09ff1a47f:0x2eb0a622d2ad9072"
+    },
+    {
+      "name": "places/ChIJf6Txn6ABaDQRcpCt0iKmsC4/reviews/ChdDSUhNMG9nS0VOdXJyTkRBOGVLbXlRRRAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 4,
+      "text": {
+        "text": "脆皮烤鴨要先預訂，烤鴨皮脆餅皮香，三杯中卷口感軟有彈性很新鮮，蔥油餅好吃，鳳梨蝦球蝦仁大顆，小孩很喜歡，客家小炒可惜魷魚太硬，長輩難食用，蝦鬆吃起來很清爽～\n店內的洗手間，太小間，很難使用，希望可以改善，服務人員阿姨服務好，很會推薦菜單👍\n上菜速度快速，附近停車格很多，好停車。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "脆皮烤鴨要先預訂，烤鴨皮脆餅皮香，三杯中卷口感軟有彈性很新鮮，蔥油餅好吃，鳳梨蝦球蝦仁大顆，小孩很喜歡，客家小炒可惜魷魚太硬，長輩難食用，蝦鬆吃起來很清爽～\n店內的洗手間，太小間，很難使用，希望可以改善，服務人員阿姨服務好，很會推薦菜單👍\n上菜速度快速，附近停車格很多，好停車。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "RuRu Chen",
+        "uri": "https://www.google.com/maps/contrib/107690656427763874841/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW_bgniaIcJcjVlkbScJT8sSew5sIXKe8JA9Epri42E9kTIytI=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-05-15T03:58:20.870893Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VOdXJyTkRBOGVLbXlRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VOdXJyTkRBOGVLbXlRRRAB!2m1!1s0x346801a09ff1a47f:0x2eb0a622d2ad9072"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "id": "ChIJtVKLc66pQjQRY6z1XMAyucw",
+  "types": [
+    "chinese_noodle_restaurant",
+    "noodle_shop",
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2306 1636",
+  "formattedAddress": "108台灣臺北市萬華區廣州街175號",
+  "location": {
+    "latitude": 25.036748700000004,
+    "longitude": 121.50107779999999
+  },
+  "rating": 4,
+  "websiteUri": "https://www.facebook.com/pages/%E8%89%8B%E8%88%BA%E6%9F%B3%E5%B7%9E%E8%9E%BA%E8%9E%84%E7%B2%89/174572085937543",
+  "userRatingCount": 5254,
+  "displayName": {
+    "text": "艋舺螺螄粉 桂林米粉",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJtVKLc66pQjQRY6z1XMAyucw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25scmRFTmZTekV4VWxsNlowcGZXaTF4TFRSTVpXYxAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 4,
+      "text": {
+        "text": "符合台灣人口味，不會太酸辣刺激，可以把湯頭喝完，炸蛋30元，口感也不錯，手機線上點餐，算是蠻快的。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "符合台灣人口味，不會太酸辣刺激，可以把湯頭喝完，炸蛋30元，口感也不錯，手機線上點餐，算是蠻快的。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "RrOokKy",
+        "uri": "https://www.google.com/maps/contrib/113939880576334513410/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXodUVsyh9mgouBGxp1EfmLSsaldbgz6OZBdFitEwD7wVtlI2dFjw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-28T02:16:34.937245271Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25scmRFTmZTekV4VWxsNlowcGZXaTF4TFRSTVpXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25scmRFTmZTekV4VWxsNlowcGZXaTF4TFRSTVpXYxAB!2m1!1s0x3442a9ae738b52b5:0xccb932c05cf5ac63"
+    },
+    {
+      "name": "places/ChIJtVKLc66pQjQRY6z1XMAyucw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2trMU0zVlhUR00xWkhwaWFUTTBOblZVTUhkdFkwRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "很怕吃到髒螂，看那個整隻髒螂的評論，幸好沒遇到\n\n涼拌土豆絲開胃後再來個酸辣粉，配上隔壁推薦的洛神花茶，鹹辣又酸甜的\n\n辣度怕辣的人也能接受，不過店內此起彼落的擤鼻涕聲蠻好笑的",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很怕吃到髒螂，看那個整隻髒螂的評論，幸好沒遇到\n\n涼拌土豆絲開胃後再來個酸辣粉，配上隔壁推薦的洛神花茶，鹹辣又酸甜的\n\n辣度怕辣的人也能接受，不過店內此起彼落的擤鼻涕聲蠻好笑的",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "曜萱",
+        "uri": "https://www.google.com/maps/contrib/108920599737729224584/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI0qvAnaMu9SnBlnsZ2NtcIG6D6c7JIVOMXtFjYh7kMRzhjBR0=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-23T14:42:13.050277348Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2trMU0zVlhUR00xWkhwaWFUTTBOblZVTUhkdFkwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2trMU0zVlhUR00xWkhwaWFUTTBOblZVTUhkdFkwRRAB!2m1!1s0x3442a9ae738b52b5:0xccb932c05cf5ac63"
+    },
+    {
+      "name": "places/ChIJtVKLc66pQjQRY6z1XMAyucw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21rdFJVWkJjRmRqU21vdGVqTnRZMDVtUnpCM1UyYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 3,
+      "text": {
+        "text": "味道是經過改良的酸與辣的螺螄粉，桌上有調料味道不夠了可以自行增加，份量不小，價格與台北市其他的地區相比是合宜的，但是在本區就顯得比較高一點。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "味道是經過改良的酸與辣的螺螄粉，桌上有調料味道不夠了可以自行增加，份量不小，價格與台北市其他的地區相比是合宜的，但是在本區就顯得比較高一點。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Alex Fan",
+        "uri": "https://www.google.com/maps/contrib/108160347511103261678/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW2vSXgEv1aysEsOq0R5b1Bi0yr4s0xB_cbe7dqzpt1yjdSazHJdA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-11T05:41:00.122122988Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21rdFJVWkJjRmRqU21vdGVqTnRZMDVtUnpCM1UyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21rdFJVWkJjRmRqU21vdGVqTnRZMDVtUnpCM1UyYxAB!2m1!1s0x3442a9ae738b52b5:0xccb932c05cf5ac63"
+    },
+    {
+      "name": "places/ChIJtVKLc66pQjQRY6z1XMAyucw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21VM1EwaEJXRk5FTW5WbVdHWnRlSGhrVjE5V1dFRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "2025.12.08.第三次回返心得\n店員態度很桂林（請自己體會～）本人純粹是因為朋友愛吃這家螺螄粉才再訪。\n…………………………………………………………\n我吃酸辣粉覺得還可以，可能第一次吃酸辣粉不太能接受「太過Q」的麵體有點像在咬「口香糖」感覺，它不像米粉也不是麵，也不像米苔目口感，咬不太斷，讓我覺得不知道在吃什麼...但口味的麻辣很過癮，吃到最後又太鹹...，總得來說，會再陪朋友回訪，因朋友很愛吃螺螄粉（牛+大腸），她大推👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2025.12.08.第三次回返心得\n店員態度很桂林（請自己體會～）本人純粹是因為朋友愛吃這家螺螄粉才再訪。\n…………………………………………………………\n我吃酸辣粉覺得還可以，可能第一次吃酸辣粉不太能接受「太過Q」的麵體有點像在咬「口香糖」感覺，它不像米粉也不是麵，也不像米苔目口感，咬不太斷，讓我覺得不知道在吃什麼...但口味的麻辣很過癮，吃到最後又太鹹...，總得來說，會再陪朋友回訪，因朋友很愛吃螺螄粉（牛+大腸），她大推👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "diovan lin",
+        "uri": "https://www.google.com/maps/contrib/107437219947812660206/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUSm0-PdSVoXTi3I3uAxUyuXCXgTQerTWD8mylqdu-8lfUozCo=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-08T17:07:34.783264596Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21VM1EwaEJXRk5FTW5WbVdHWnRlSGhrVjE5V1dFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21VM1EwaEJXRk5FTW5WbVdHWnRlSGhrVjE5V1dFRRAB!2m1!1s0x3442a9ae738b52b5:0xccb932c05cf5ac63"
+    },
+    {
+      "name": "places/ChIJtVKLc66pQjQRY6z1XMAyucw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkYVkydFFUV1puZUVZeFdISnBOR1pQZDB0SFUzYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "非常、非常大碗！女生可以兩個人share一碗的大小！\n\n點了螺獅粉跟酸辣粉\n螺獅粉臭度：還好，調整的比較適合台灣味\n香度：不錯不錯\n酸辣：桌上還有醋和辣油可以自己加😚\n\n整體來說：\n吃的非常非常飽（因為份量真的超多）\n其他味道部分還可以，應該還會再回訪。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "非常、非常大碗！女生可以兩個人share一碗的大小！\n\n點了螺獅粉跟酸辣粉\n螺獅粉臭度：還好，調整的比較適合台灣味\n香度：不錯不錯\n酸辣：桌上還有醋和辣油可以自己加😚\n\n整體來說：\n吃的非常非常飽（因為份量真的超多）\n其他味道部分還可以，應該還會再回訪。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Shana Cai",
+        "uri": "https://www.google.com/maps/contrib/107877593214614490496/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUR5NV7nRYS8M-46HyDG1J3XnxDlt1QKDXVUymfh8M4wO7grdvo=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-01T05:15:07.162078827Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkYVkydFFUV1puZUVZeFdISnBOR1pQZDB0SFUzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkYVkydFFUV1puZUVZeFdISnBOR1pQZDB0SFUzYxAB!2m1!1s0x3442a9ae738b52b5:0xccb932c05cf5ac63"
+    }
+  ]
+}

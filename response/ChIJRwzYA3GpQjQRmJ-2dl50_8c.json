@@ -1,0 +1,130 @@
+{
+  "id": "ChIJRwzYA3GpQjQRmJ-2dl50_8c",
+  "types": [
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2393 4518",
+  "formattedAddress": "100台灣臺北市中正區青島東路7之5號號",
+  "location": {
+    "latitude": 25.044244,
+    "longitude": 121.52235909999999
+  },
+  "rating": 4.2,
+  "websiteUri": "https://www.facebook.com/%E7%8F%8D%E5%93%81%E5%B0%8F%E9%A4%A8-286678604798342/",
+  "userRatingCount": 793,
+  "displayName": {
+    "text": "珍品小館",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJRwzYA3GpQjQRmJ-2dl50_8c/reviews/Ci9DQUlRQUNvZENodHljRjlvT21vek5YaDZVWEYxZUVKNlNWQlFXVkZ2UWpsRk1FRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "吃了好幾次 每次都忘記紀錄 每次都很好吃\n新年第一天上班紀錄一下\n2025/01/02\n10人份 都點中份 一人約436元\n1.老皮嫩肉\n2.鳳梨蝦球\n3.酸菜白肉鍋👍\n4.豆干肉絲\n5.炒水蓮\n6.蔥油餅\n7.炒臭豆腐👍\n8.大餅捲牛肉👍\n9.脆皮肥腸",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "吃了好幾次 每次都忘記紀錄 每次都很好吃\n新年第一天上班紀錄一下\n2025/01/02\n10人份 都點中份 一人約436元\n1.老皮嫩肉\n2.鳳梨蝦球\n3.酸菜白肉鍋👍\n4.豆干肉絲\n5.炒水蓮\n6.蔥油餅\n7.炒臭豆腐👍\n8.大餅捲牛肉👍\n9.脆皮肥腸",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Fei Chen",
+        "uri": "https://www.google.com/maps/contrib/100527962190846589801/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJzMnYOTq37tWZcgtbnRwtemi62hEMbw87AAXxCuI_0gZKScA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-02T06:33:16.896844179Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21vek5YaDZVWEYxZUVKNlNWQlFXVkZ2UWpsRk1FRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21vek5YaDZVWEYxZUVKNlNWQlFXVkZ2UWpsRk1FRRAB!2m1!1s0x3442a97103d80c47:0xc7ff745e76b69f98"
+    },
+    {
+      "name": "places/ChIJRwzYA3GpQjQRmJ-2dl50_8c/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paTU5YUmZYMkZzVEdwTU5ITnhPV3N5TFhjeE4xRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "1. 好吃：蔥油餅、三杯雞、香干肉絲都，蝦仁蛋餅(稍鹹)。\n2. 中規中矩：炒絲瓜、開陽白菜、小籠湯包。3. 尚可：麻婆豆腐。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "1. 好吃：蔥油餅、三杯雞、香干肉絲都，蝦仁蛋餅(稍鹹)。\n2. 中規中矩：炒絲瓜、開陽白菜、小籠湯包。3. 尚可：麻婆豆腐。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lawless",
+        "uri": "https://www.google.com/maps/contrib/101455371689708016246/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXXw62KOPzkM7aLTgr16l1rSNpYvHvPTXE7C6rzNP0JVDYQ85yQLw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-29T12:52:03.578413300Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paTU5YUmZYMkZzVEdwTU5ITnhPV3N5TFhjeE4xRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paTU5YUmZYMkZzVEdwTU5ITnhPV3N5TFhjeE4xRRAB!2m1!1s0x3442a97103d80c47:0xc7ff745e76b69f98"
+    },
+    {
+      "name": "places/ChIJRwzYA3GpQjQRmJ-2dl50_8c/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGMGVEUjFUVEptU1dWS1dIYzNZVmgyWjJOcllYYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "立法院旁的老店\n真心覺得每一道都好吃\n人多還可以點酸菜白肉鍋\n酸酸的湯頭很暖胃\n蔥油餅放了不少的蔥夠味\n黃金雞也鮮甜必點\n招牌元蹄炸過不油膩我都多吃了好幾塊\n還有好吃的咖哩蟹\n有附上麵包可以沾醬汁一起吃\n\n有些菜需要預訂哦\n星期五都是客滿的記得要訂位",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "立法院旁的老店\n真心覺得每一道都好吃\n人多還可以點酸菜白肉鍋\n酸酸的湯頭很暖胃\n蔥油餅放了不少的蔥夠味\n黃金雞也鮮甜必點\n招牌元蹄炸過不油膩我都多吃了好幾塊\n還有好吃的咖哩蟹\n有附上麵包可以沾醬汁一起吃\n\n有些菜需要預訂哦\n星期五都是客滿的記得要訂位",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "千HSu",
+        "uri": "https://www.google.com/maps/contrib/104951520651759325282/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX-ypIJXsTArVIx4AbT3vaVSyQif3WTgK7WlA0VPr4ztr3d2VZ4iA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-11-11T16:04:25.250168849Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGMGVEUjFUVEptU1dWS1dIYzNZVmgyWjJOcllYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGMGVEUjFUVEptU1dWS1dIYzNZVmgyWjJOcllYYxAB!2m1!1s0x3442a97103d80c47:0xc7ff745e76b69f98"
+    },
+    {
+      "name": "places/ChIJRwzYA3GpQjQRmJ-2dl50_8c/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twdFNHUTNZa1p0VTBOZk9UazNUWEpGTm5CeWVFRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "人多相聚就吃桌菜\n珍品小館老牌餐廳\n酸菜白肉鍋真酸爽\n菜色味足道道下飯\n小籠湯包較爲一般\n豆沙鍋餅當作甜點\n香甜不膩完美結尾\n菜色清單：\n豆沙鍋餅 👍蒜香中卷 👍麻辣羊肚 👍\n合菜戴帽 👍三杯肥腸 👍\n酸菜牛肉 、小籠湯包 、絲瓜蝦仁湯包\n蔥油餅 、九層塔蛋 、鹽焗雞 、炒臭豆腐\n酸菜白肉鍋",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "人多相聚就吃桌菜\n珍品小館老牌餐廳\n酸菜白肉鍋真酸爽\n菜色味足道道下飯\n小籠湯包較爲一般\n豆沙鍋餅當作甜點\n香甜不膩完美結尾\n菜色清單：\n豆沙鍋餅 👍蒜香中卷 👍麻辣羊肚 👍\n合菜戴帽 👍三杯肥腸 👍\n酸菜牛肉 、小籠湯包 、絲瓜蝦仁湯包\n蔥油餅 、九層塔蛋 、鹽焗雞 、炒臭豆腐\n酸菜白肉鍋",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "shin",
+        "uri": "https://www.google.com/maps/contrib/115615398783145317326/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXLfzYHl0Zn2oFhTO_ug2e1Lf4ZfR2Epm5wUZ4KCqlSU1sRn9bS=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-02T14:52:57.223321844Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twdFNHUTNZa1p0VTBOZk9UazNUWEpGTm5CeWVFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twdFNHUTNZa1p0VTBOZk9UazNUWEpGTm5CeWVFRRAB!2m1!1s0x3442a97103d80c47:0xc7ff745e76b69f98"
+    },
+    {
+      "name": "places/ChIJRwzYA3GpQjQRmJ-2dl50_8c/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xablIwWm5VVmwwZFV0QlkySkpWMDVEWjIxTVZXYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "上菜快速、服務人員親切、菜色繁多、美味可口！尤其推薦酸菜白肉鍋、絲瓜小籠包和蔥油餅，蔥油餅內包蔥花，外皮煎得香酥脆，讓人忍不住連叫兩盤。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "上菜快速、服務人員親切、菜色繁多、美味可口！尤其推薦酸菜白肉鍋、絲瓜小籠包和蔥油餅，蔥油餅內包蔥花，外皮煎得香酥脆，讓人忍不住連叫兩盤。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "melody Lu",
+        "uri": "https://www.google.com/maps/contrib/110985950629151522716/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIFAZL2OtXwNAdHk6a19jT8LBzu6hfZlwFfocsJhJsssU7A6Q=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-10T16:45:25.059251899Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xablIwWm5VVmwwZFV0QlkySkpWMDVEWjIxTVZXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xablIwWm5VVmwwZFV0QlkySkpWMDVEWjIxTVZXYxAB!2m1!1s0x3442a97103d80c47:0xc7ff745e76b69f98"
+    }
+  ]
+}

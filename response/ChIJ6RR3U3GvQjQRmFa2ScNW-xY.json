@@ -1,0 +1,130 @@
+{
+  "id": "ChIJ6RR3U3GvQjQRmFa2ScNW-xY",
+  "types": [
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2828 2721",
+  "formattedAddress": "112台灣臺北市北投區明德路59號",
+  "location": {
+    "latitude": 25.108201599999997,
+    "longitude": 121.51833260000001
+  },
+  "rating": 4.7,
+  "websiteUri": "https://www.facebook.com/Mr.Tsuo/",
+  "userRatingCount": 361,
+  "displayName": {
+    "text": "左爺爺風味小館",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ6RR3U3GvQjQRmFa2ScNW-xY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WalN5MTZXVGN5UVZjNE0xUjVTQzAxY1MwNVdtYxAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 5,
+      "text": {
+        "text": "服務周到，餐點有家常味，也很好吃。點餐時，可以依照人數多寡選擇大份或小份，也可以客製化選擇少油、少鹽和素食（部分餐點）。餐廳旁邊還有他們的咖啡店，服務層面周到，結帳時會收10%服務費。感覺到店家的用心經營，力推！👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "服務周到，餐點有家常味，也很好吃。點餐時，可以依照人數多寡選擇大份或小份，也可以客製化選擇少油、少鹽和素食（部分餐點）。餐廳旁邊還有他們的咖啡店，服務層面周到，結帳時會收10%服務費。感覺到店家的用心經營，力推！👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chiao-Wen Yeh",
+        "uri": "https://www.google.com/maps/contrib/109478468943433705124/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVhGSNSMT5G8OszYdRAKq-1h2KLAm1iDcxaI423t-juQIzWhEl6=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-25T10:44:06.839135917Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WalN5MTZXVGN5UVZjNE0xUjVTQzAxY1MwNVdtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WalN5MTZXVGN5UVZjNE0xUjVTQzAxY1MwNVdtYxAB!2m1!1s0x3442af71537714e9:0x16fb56c349b65698"
+    },
+    {
+      "name": "places/ChIJ6RR3U3GvQjQRmFa2ScNW-xY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xrelNtMWxRV2hFV25veldUTXRZMmczZERaclNIYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "有推出適合二人、三人、四人、六人、八人的精緻合菜，也有推出適合一人享用的點心組合以及平日限定的個人套餐，一個人也可以來用餐，上次點了「法式牛粒」、「梅汁排骨」跟「麻婆豆腐」都很好吃！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "有推出適合二人、三人、四人、六人、八人的精緻合菜，也有推出適合一人享用的點心組合以及平日限定的個人套餐，一個人也可以來用餐，上次點了「法式牛粒」、「梅汁排骨」跟「麻婆豆腐」都很好吃！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Gavin Chien",
+        "uri": "https://www.google.com/maps/contrib/101759393723687081930/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBpxh0bG2P-nOaeIjnlkWjl-UxEc7XgpIExKshcOCuwjdienKv=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-17T13:25:35.287182307Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xrelNtMWxRV2hFV25veldUTXRZMmczZERaclNIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xrelNtMWxRV2hFV25veldUTXRZMmczZERaclNIYxAB!2m1!1s0x3442af71537714e9:0x16fb56c349b65698"
+    },
+    {
+      "name": "places/ChIJ6RR3U3GvQjQRmFa2ScNW-xY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kwdFp6TnRUMlkwZEcxaVpWUnNYMGxxTWtJNFNGRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 1,
+      "text": {
+        "text": "外帶便當\n之前因為有到店裡用餐過，覺得口味不錯，所以加入line 訊息，看他們有發每天的特色便當，一天一口味還不錯，所以陸續訂了有7、8次，每次3個便當左右，今天一次訂了5個水煮雞便當，結果⋯⋯湯匙舀下去，第一口便吃到「一根長髮」，心想算了⋯⋯（努力給自己心裡建設），然後⋯⋯哪知吃第三口⋯又來「一根長髮」，這下心裡崩潰掉⋯⋯我實在無法再說服自己「無視」，食不下嚥只好丟掉，以後⋯⋯再也不想委屈自己，直接刪掉line",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "外帶便當\n之前因為有到店裡用餐過，覺得口味不錯，所以加入line 訊息，看他們有發每天的特色便當，一天一口味還不錯，所以陸續訂了有7、8次，每次3個便當左右，今天一次訂了5個水煮雞便當，結果⋯⋯湯匙舀下去，第一口便吃到「一根長髮」，心想算了⋯⋯（努力給自己心裡建設），然後⋯⋯哪知吃第三口⋯又來「一根長髮」，這下心裡崩潰掉⋯⋯我實在無法再說服自己「無視」，食不下嚥只好丟掉，以後⋯⋯再也不想委屈自己，直接刪掉line",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "旅行愛玩咖（Tuan-Yi）",
+        "uri": "https://www.google.com/maps/contrib/102460120585841024593/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVPnXMuBcPklkJMjAusGIgYeXOJBiJLIve0YaMz4HubLDOKfsN3uA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-26T14:00:53.564733967Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kwdFp6TnRUMlkwZEcxaVpWUnNYMGxxTWtJNFNGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kwdFp6TnRUMlkwZEcxaVpWUnNYMGxxTWtJNFNGRRAB!2m1!1s0x3442af71537714e9:0x16fb56c349b65698"
+    },
+    {
+      "name": "places/ChIJ6RR3U3GvQjQRmFa2ScNW-xY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWbk0yZGpaak5wTldaemVsaFhkbVI2VVRSSVQxRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "相當有水準的地方小館，中式料理樣樣精緻！\n意料之外的好口味～～天母石牌北投吃飯真的可以約這裡！\n招牌的咖喱雞實在辣度太爽快，喜歡吃辣的朋友一定要試試～～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "相當有水準的地方小館，中式料理樣樣精緻！\n意料之外的好口味～～天母石牌北投吃飯真的可以約這裡！\n招牌的咖喱雞實在辣度太爽快，喜歡吃辣的朋友一定要試試～～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Takeshi Yang",
+        "uri": "https://www.google.com/maps/contrib/117045397425327942127/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWjlN-s5mf23GlAJNQyK-hRkq8GcRBP_YKCn5XVIqrSYdMuiPzpKQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-08-01T08:01:05.606700853Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWbk0yZGpaak5wTldaemVsaFhkbVI2VVRSSVQxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWbk0yZGpaak5wTldaemVsaFhkbVI2VVRSSVQxRRAB!2m1!1s0x3442af71537714e9:0x16fb56c349b65698"
+    },
+    {
+      "name": "places/ChIJ6RR3U3GvQjQRmFa2ScNW-xY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkMU9VTXpSVTgxZG5Od2VIUnBabVZDU1RaSlJtYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 1,
+      "text": {
+        "text": "份量一如照片看到的就是極度精緻，\n口味上雖說每個人觀感不同，兩人點了雙人套餐，單點一份咖喱雞，沒有一道菜的口位在平均值之內。\n\n加價購的飲料\n都不知道怎麼婉轉的形容了，\n價格是可以直接單買手搖飲，\n除了看到濃濃的色素，\n入口化學味以及死甜。\n\n服務生的動作緩慢的不可思議，\n制式化的詢問建議就可以省略了，\n沒有加分。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "份量一如照片看到的就是極度精緻，\n口味上雖說每個人觀感不同，兩人點了雙人套餐，單點一份咖喱雞，沒有一道菜的口位在平均值之內。\n\n加價購的飲料\n都不知道怎麼婉轉的形容了，\n價格是可以直接單買手搖飲，\n除了看到濃濃的色素，\n入口化學味以及死甜。\n\n服務生的動作緩慢的不可思議，\n制式化的詢問建議就可以省略了，\n沒有加分。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Arabella Liu",
+        "uri": "https://www.google.com/maps/contrib/107978373894159477194/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXpSObXGFain_hgcYUoeNt_2V6e13nrIs11BiaaZ96DFlkrVSVS=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-09-22T10:33:32.249262480Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkMU9VTXpSVTgxZG5Od2VIUnBabVZDU1RaSlJtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkMU9VTXpSVTgxZG5Od2VIUnBabVZDU1RaSlJtYxAB!2m1!1s0x3442af71537714e9:0x16fb56c349b65698"
+    }
+  ]
+}

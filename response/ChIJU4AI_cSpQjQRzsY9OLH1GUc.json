@@ -1,0 +1,131 @@
+{
+  "id": "ChIJU4AI_cSpQjQRzsY9OLH1GUc",
+  "types": [
+    "restaurant",
+    "taiwanese_restaurant",
+    "japanese_izakaya_restaurant",
+    "japanese_restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2308 1819",
+  "formattedAddress": "108台灣臺北市萬華區艋舺大道204號",
+  "location": {
+    "latitude": 25.0326363,
+    "longitude": 121.4994234
+  },
+  "rating": 4.8,
+  "userRatingCount": 1724,
+  "displayName": {
+    "text": "燒究食寓 萬華店 – 居酒屋｜宵夜｜串燒",
+    "languageCode": "zh"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJU4AI_cSpQjQRzsY9OLH1GUc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21jMFlUWlRVbWx6ZGxKWFR6bHBZbU5OVVZadVNIYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "食物都很好吃，尤其是老闆的私藏皮蛋料理，上面的海帶芽本身就很好吃了，位置不是很多，可以提前訂位",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "食物都很好吃，尤其是老闆的私藏皮蛋料理，上面的海帶芽本身就很好吃了，位置不是很多，可以提前訂位",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "德斯特",
+        "uri": "https://www.google.com/maps/contrib/117602211337626188392/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVWD20gpXE-JK6A-ueHzTj9MiQi0DdrWVSgy2DKd70jXeTRmWTc=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-03T12:07:13.826341354Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21jMFlUWlRVbWx6ZGxKWFR6bHBZbU5OVVZadVNIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21jMFlUWlRVbWx6ZGxKWFR6bHBZbU5OVVZadVNIYxAB!2m1!1s0x3442a9c4fd088053:0x4719f5b1383dc6ce"
+    },
+    {
+      "name": "places/ChIJU4AI_cSpQjQRzsY9OLH1GUc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsRWJYbHphRVZNUzFSWWJVZFhUVTVRUzJkb1pYYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "明太子烏龍很好吃\n但是明太子太少\n然後椒麻拌炒酥三寶\n裡面甜不辣的份量遠大於大腸\n覺得沒有很符合價格\n生啤很好喝\n上菜速度算快",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "明太子烏龍很好吃\n但是明太子太少\n然後椒麻拌炒酥三寶\n裡面甜不辣的份量遠大於大腸\n覺得沒有很符合價格\n生啤很好喝\n上菜速度算快",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yang FR",
+        "uri": "https://www.google.com/maps/contrib/106804181340363535714/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-f5uhHiUSykQ0nM1cdm4wRw5IC3WIZd335Ozf92NI-6E8Jaa1=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-30T14:57:50.801654105Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsRWJYbHphRVZNUzFSWWJVZFhUVTVRUzJkb1pYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsRWJYbHphRVZNUzFSWWJVZFhUVTVRUzJkb1pYYxAB!2m1!1s0x3442a9c4fd088053:0x4719f5b1383dc6ce"
+    },
+    {
+      "name": "places/ChIJU4AI_cSpQjQRzsY9OLH1GUc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KMmRuVnFSWFZGVlZaNlRFaDBkemhOT0ZoSWMxRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "東西很好吃，烤肉的火候很到位，拿手菜也很不錯，店家對小孩很友善，值得再來！\n今天剛好遇到聖誕節活動，剛好讓坐不住的小孩可以多坐一會兒，超棒的！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "東西很好吃，烤肉的火候很到位，拿手菜也很不錯，店家對小孩很友善，值得再來！\n今天剛好遇到聖誕節活動，剛好讓坐不住的小孩可以多坐一會兒，超棒的！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Selene Ma",
+        "uri": "https://www.google.com/maps/contrib/111631658561450723848/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXVi4lWzRL_GngF9uRE0UF3sF2gKTT4I2c7Z3I_CILOyXqKWvvB=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-12-10T12:17:07.464639296Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KMmRuVnFSWFZGVlZaNlRFaDBkemhOT0ZoSWMxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KMmRuVnFSWFZGVlZaNlRFaDBkemhOT0ZoSWMxRRAB!2m1!1s0x3442a9c4fd088053:0x4719f5b1383dc6ce"
+    },
+    {
+      "name": "places/ChIJU4AI_cSpQjQRzsY9OLH1GUc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poemRYRllNVk4xTW5ZekxYWkdiekJXVFhSbVYzYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "服務非常好，\n師傅們認真制作食物，\n食物有特色又很美味，\n環境抽風做得好好👍沒有燒烤味\n下次來台北必定再來光顧",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "服務非常好，\n師傅們認真制作食物，\n食物有特色又很美味，\n環境抽風做得好好👍沒有燒烤味\n下次來台北必定再來光顧",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Winnie Ip",
+        "uri": "https://www.google.com/maps/contrib/102456720563781915990/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIoDFhEJ1acvNOCBSO2Kr-7decYMHq4RNXsNF-YItRRBwJttQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-17T12:31:53.446757242Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poemRYRllNVk4xTW5ZekxYWkdiekJXVFhSbVYzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poemRYRllNVk4xTW5ZekxYWkdiekJXVFhSbVYzYxAB!2m1!1s0x3442a9c4fd088053:0x4719f5b1383dc6ce"
+    },
+    {
+      "name": "places/ChIJU4AI_cSpQjQRzsY9OLH1GUc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kcFdtRnZUblZKTVMxTmJUUkRWbkZSTXkxWWQyYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "大部分的餐點口味都偏重，但是配酒喝蠻剛好的，菜單上會標示推薦的菜色，像是肉片包蝦，整體來說還不錯，柚子牛排也很嫩好吃。服務態度也好，聽到筷子掉了有店員還立刻跑來幫我們換，出菜速度很快，（不知道是不是因為我們是第一組客人，不過一下子太快桌子有點擺不下），唯一美中不足的是居酒屋限時兩個小時半，真的有點不夠，想要好好喝酒聊天的可能要先想好續攤的地方。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "大部分的餐點口味都偏重，但是配酒喝蠻剛好的，菜單上會標示推薦的菜色，像是肉片包蝦，整體來說還不錯，柚子牛排也很嫩好吃。服務態度也好，聽到筷子掉了有店員還立刻跑來幫我們換，出菜速度很快，（不知道是不是因為我們是第一組客人，不過一下子太快桌子有點擺不下），唯一美中不足的是居酒屋限時兩個小時半，真的有點不夠，想要好好喝酒聊天的可能要先想好續攤的地方。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "歐強",
+        "uri": "https://www.google.com/maps/contrib/114969880595894125550/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBBJM3qM13aF8IhAZDINSX3lo4CD4uxsX4f2eai5cuZjdk3pWh=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-28T00:56:31.139661728Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kcFdtRnZUblZKTVMxTmJUUkRWbkZSTXkxWWQyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kcFdtRnZUblZKTVMxTmJUUkRWbkZSTXkxWWQyYxAB!2m1!1s0x3442a9c4fd088053:0x4719f5b1383dc6ce"
+    }
+  ]
+}

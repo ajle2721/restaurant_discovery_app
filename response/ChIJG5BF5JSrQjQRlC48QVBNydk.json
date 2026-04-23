@@ -1,0 +1,130 @@
+{
+  "id": "ChIJG5BF5JSrQjQRlC48QVBNydk",
+  "types": [
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2747 8558",
+  "formattedAddress": "105台灣臺北市松山區南京東路五段92.94.96號1樓",
+  "location": {
+    "latitude": 25.051257999999997,
+    "longitude": 121.561706
+  },
+  "rating": 4,
+  "websiteUri": "https://www.yayoi.com.tw/",
+  "userRatingCount": 1556,
+  "displayName": {
+    "text": "YAYOI彌生軒 南京三民店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJG5BF5JSrQjQRlC48QVBNydk/reviews/Ci9DQUlRQUNvZENodHljRjlvT214Rk1ESmtabTFOUVRsTmVtbGtPWGN4VFUxSFlYYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "蠻喜歡蜜黑醋也在雞肉定食\n酸酸的醬很開胃！\n日式炸豬排煮定食也不錯 但整體偏鹹\n\n白飯湯都可以續\n很下飯可以吃很飽🤭",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "蠻喜歡蜜黑醋也在雞肉定食\n酸酸的醬很開胃！\n日式炸豬排煮定食也不錯 但整體偏鹹\n\n白飯湯都可以續\n很下飯可以吃很飽🤭",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Wei",
+        "uri": "https://www.google.com/maps/contrib/110902468354072633051/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXHIzLd27SasjoVA9wNpJ-9SZmQx0S2LmTx9CoRBlQTqDN_P7A=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-24T07:53:51.633255597Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214Rk1ESmtabTFOUVRsTmVtbGtPWGN4VFUxSFlYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214Rk1ESmtabTFOUVRsTmVtbGtPWGN4VFUxSFlYYxAB!2m1!1s0x3442ab94e445901b:0xd9c94d50413c2e94"
+    },
+    {
+      "name": "places/ChIJG5BF5JSrQjQRlC48QVBNydk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WemRYRkxWMkpTVFhSelJXZzVPREYxVDJOcE1FRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "鮭魚丼的份量稍微少了點，提供的醬汁斟酌倒，不要倒太多很鹹，比較讓人驚艷的是一口壽司，鮭魚卵意外的沒有腥味，且吃起來甜甜的，相當不錯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "鮭魚丼的份量稍微少了點，提供的醬汁斟酌倒，不要倒太多很鹹，比較讓人驚艷的是一口壽司，鮭魚卵意外的沒有腥味，且吃起來甜甜的，相當不錯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "周勿人",
+        "uri": "https://www.google.com/maps/contrib/108941208132552349403/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL1Q4qQxa0jm_sq4UwqzkvmXagRYz58x1A0ymok8glZh4Fjag=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-10T16:51:59.114775313Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WemRYRkxWMkpTVFhSelJXZzVPREYxVDJOcE1FRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WemRYRkxWMkpTVFhSelJXZzVPREYxVDJOcE1FRRAB!2m1!1s0x3442ab94e445901b:0xd9c94d50413c2e94"
+    },
+    {
+      "name": "places/ChIJG5BF5JSrQjQRlC48QVBNydk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSVlZrOUhYekJ5ZVZoMlNrbERSSGxmUTJ0WWNVRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "2026/2/7 豪華煮定食（豬）$360，炸豬排、豬肉片、炸蝦與蛋液與丼飯醬完美結合，搭配粒粒分明的越光米，相當下飯。\n白飯、味噌湯及醃蘿蔔都能免費續用。\n環境舒適明亮，店員會主動詢問倒水。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2026/2/7 豪華煮定食（豬）$360，炸豬排、豬肉片、炸蝦與蛋液與丼飯醬完美結合，搭配粒粒分明的越光米，相當下飯。\n白飯、味噌湯及醃蘿蔔都能免費續用。\n環境舒適明亮，店員會主動詢問倒水。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Frances Liang",
+        "uri": "https://www.google.com/maps/contrib/116430868629872213070/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVc4k7pqLdKRuoIBXhsJKLDtu4LRAUjBAX4UDAeFQ5H7wBjUhOFog=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-07T12:38:37.188419038Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSVlZrOUhYekJ5ZVZoMlNrbERSSGxmUTJ0WWNVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSVlZrOUhYekJ5ZVZoMlNrbERSSGxmUTJ0WWNVRRAB!2m1!1s0x3442ab94e445901b:0xd9c94d50413c2e94"
+    },
+    {
+      "name": "places/ChIJG5BF5JSrQjQRlC48QVBNydk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tONFJYWlFibGRzVERabVltcFNaRmhwVEVnMlYyYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點好吃！定食套餐附白飯、味噌湯和醃蘿蔔都可以免費續，最多20份\n假日下午已過用餐時段還是有不少人，還好店內座位夠多，沒有訂位可以直接入座，服務員都客氣有禮，之後有機會會再來用餐",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點好吃！定食套餐附白飯、味噌湯和醃蘿蔔都可以免費續，最多20份\n假日下午已過用餐時段還是有不少人，還好店內座位夠多，沒有訂位可以直接入座，服務員都客氣有禮，之後有機會會再來用餐",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chunhui",
+        "uri": "https://www.google.com/maps/contrib/106838298016923364986/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUnBRTl7LzbLmtl44PabS_d6wl3EE188r28HZbknjxWCPL2EcHy=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-11-23T08:39:27.629721190Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tONFJYWlFibGRzVERabVltcFNaRmhwVEVnMlYyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tONFJYWlFibGRzVERabVltcFNaRmhwVEVnMlYyYxAB!2m1!1s0x3442ab94e445901b:0xd9c94d50413c2e94"
+    },
+    {
+      "name": "places/ChIJG5BF5JSrQjQRlC48QVBNydk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkaU1ISkJUWFZ4ZG1GNk1XbFJRVzlTYkhaWVJtYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "一口壽司和茶碗蒸真的蠻驚艷的，但是主餐的親子丼就顯得有些平凡無奇，我想可能也沒什麼人會在這邊點親子丼吧，但整體還是可以感受到日本的おもてなし，可以理解日本到處都有的平價定時來台灣變成高級料理了",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一口壽司和茶碗蒸真的蠻驚艷的，但是主餐的親子丼就顯得有些平凡無奇，我想可能也沒什麼人會在這邊點親子丼吧，但整體還是可以感受到日本的おもてなし，可以理解日本到處都有的平價定時來台灣變成高級料理了",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "顏吉米",
+        "uri": "https://www.google.com/maps/contrib/109712351849610030153/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIRyR4QUZA4_c6mNVEWDNGCHkyjLIqM6ZZwB4C2s87SwbYUXA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-08-17T07:05:56.746781254Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkaU1ISkJUWFZ4ZG1GNk1XbFJRVzlTYkhaWVJtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkaU1ISkJUWFZ4ZG1GNk1XbFJRVzlTYkhaWVJtYxAB!2m1!1s0x3442ab94e445901b:0xd9c94d50413c2e94"
+    }
+  ]
+}

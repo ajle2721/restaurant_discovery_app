@@ -1,0 +1,129 @@
+{
+  "id": "ChIJ0TklDKqrQjQRLAWzZf2HNbI",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2783 7669",
+  "formattedAddress": "115台灣臺北市南港區忠孝東路七段508號2樓",
+  "location": {
+    "latitude": 25.0522286,
+    "longitude": 121.60991349999999
+  },
+  "rating": 4.7,
+  "websiteUri": "https://www.royalpark.com.tw/",
+  "userRatingCount": 154,
+  "displayName": {
+    "text": "樂雅樂餐廳 生技園區店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ0TklDKqrQjQRLAWzZf2HNbI/reviews/Ci9DQUlRQUNvZENodHljRjlvT214dExUTkRXazB6YUdkTVNHSnFTbEJGYW1wd1RGRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "離南港車站很近，餐點跟一般樂雅樂不同，除了一般餐點還有日本料理可以選擇，座位寬敞乾淨舒適，提供飲料自助吧",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "離南港車站很近，餐點跟一般樂雅樂不同，除了一般餐點還有日本料理可以選擇，座位寬敞乾淨舒適，提供飲料自助吧",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Patty Chen",
+        "uri": "https://www.google.com/maps/contrib/116028492381567965911/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIhKPhd8F2m_VyoYsOtCW_YaGytoWWLrPMSHBxsVZUqVg09FQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-10T05:40:59.235289987Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214dExUTkRXazB6YUdkTVNHSnFTbEJGYW1wd1RGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214dExUTkRXazB6YUdkTVNHSnFTbEJGYW1wd1RGRRAB!2m1!1s0x3442abaa0c2539d1:0xb23587fd65b3052c"
+    },
+    {
+      "name": "places/ChIJ0TklDKqrQjQRLAWzZf2HNbI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25weU1TMU5jREZNYjB0bE1YTmtRbkZ5UnpSRFpVRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "樂雅樂南港生技園區的店，位於南港捷運站、南港車站附近，走了3分鐘，非常方便。\n\n連假的最後一天，人很少，進入生技園區，上二樓就是樂雅樂餐廳。空間大、乾淨、美，很舒服的設計風格。\n\n之前在其他分店吃牛排類的，價格比較高、但沒有驚艷，這次大家都選比較安全的照燒雞肉、義大利麵、鮭魚排⋯⋯都不錯！\n\n對女生而言，套餐份量很足夠；如果想多吃，白飯和味增湯可以續一次。\n\n自行掃碼點餐，外場人員有送上招待麵包2塊（可分為4塊），半開玩笑反應我們五個人，只給四塊怎麼分？外場人員沒有特別回應我們。自助吧有多種飲品可以選擇，但沒時間喝第二杯，就被同一個外場人員提醒，用餐時間到了，催促我們結帳。我們只有改去一樓的摩斯漢堡。\n\n相對而言，另一個送餐人員服務態度比較好，送餐的時候看到我們坐靠窗位置，還主動提醒可以把窗簾放下比較不曬，很貼心。\n\n可以現金、多元支付，若有加入會員，不時會有優惠活動。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "樂雅樂南港生技園區的店，位於南港捷運站、南港車站附近，走了3分鐘，非常方便。\n\n連假的最後一天，人很少，進入生技園區，上二樓就是樂雅樂餐廳。空間大、乾淨、美，很舒服的設計風格。\n\n之前在其他分店吃牛排類的，價格比較高、但沒有驚艷，這次大家都選比較安全的照燒雞肉、義大利麵、鮭魚排⋯⋯都不錯！\n\n對女生而言，套餐份量很足夠；如果想多吃，白飯和味增湯可以續一次。\n\n自行掃碼點餐，外場人員有送上招待麵包2塊（可分為4塊），半開玩笑反應我們五個人，只給四塊怎麼分？外場人員沒有特別回應我們。自助吧有多種飲品可以選擇，但沒時間喝第二杯，就被同一個外場人員提醒，用餐時間到了，催促我們結帳。我們只有改去一樓的摩斯漢堡。\n\n相對而言，另一個送餐人員服務態度比較好，送餐的時候看到我們坐靠窗位置，還主動提醒可以把窗簾放下比較不曬，很貼心。\n\n可以現金、多元支付，若有加入會員，不時會有優惠活動。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃毓婷",
+        "uri": "https://www.google.com/maps/contrib/113631764407456741268/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXDLns8MSM7xpykxQYGi9kWm0s8fVAT8U-MP-osrY0emtZsF-F=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-13T11:11:51.829362099Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25weU1TMU5jREZNYjB0bE1YTmtRbkZ5UnpSRFpVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25weU1TMU5jREZNYjB0bE1YTmtRbkZ5UnpSRFpVRRAB!2m1!1s0x3442abaa0c2539d1:0xb23587fd65b3052c"
+    },
+    {
+      "name": "places/ChIJ0TklDKqrQjQRLAWzZf2HNbI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ReU5qUk5VVE5wUmxCQmRWaFNNa015TWtzNVVHYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 3,
+      "text": {
+        "text": "雞腿排定食沒什麼配菜🥲\n不知道是不是點錯了😓",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "雞腿排定食沒什麼配菜🥲\n不知道是不是點錯了😓",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "HengJay",
+        "uri": "https://www.google.com/maps/contrib/118130663644972434914/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXqkR_yFeq3cGUuLASzLU6J-xIAkA3V1DhQi9rfsPOZ4uzhNsloKw=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-12-26T06:45:00.191369317Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ReU5qUk5VVE5wUmxCQmRWaFNNa015TWtzNVVHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ReU5qUk5VVE5wUmxCQmRWaFNNa015TWtzNVVHYxAB!2m1!1s0x3442abaa0c2539d1:0xb23587fd65b3052c"
+    },
+    {
+      "name": "places/ChIJ0TklDKqrQjQRLAWzZf2HNbI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2padllVNVRPWFF0YTNWSVdsaE9ZbE5YVTBsbVlWRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "空間明亮乾淨，座位寬敞，套餐美味超值，都有搭配蔬菜這點很喜歡，適合白天聚餐",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "空間明亮乾淨，座位寬敞，套餐美味超值，都有搭配蔬菜這點很喜歡，適合白天聚餐",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Peggy Chu",
+        "uri": "https://www.google.com/maps/contrib/111727080510241175301/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKE3Y7Ct3JpBC5fOymKG2hsPEO9bzR2PeAQk9Z3GSlCJBHOiiub=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-14T06:39:16.179633316Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2padllVNVRPWFF0YTNWSVdsaE9ZbE5YVTBsbVlWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2padllVNVRPWFF0YTNWSVdsaE9ZbE5YVTBsbVlWRRAB!2m1!1s0x3442abaa0c2539d1:0xb23587fd65b3052c"
+    },
+    {
+      "name": "places/ChIJ0TklDKqrQjQRLAWzZf2HNbI/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRaC1PcnNnRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "花椰菜不是炒的、也不是烤的，是水煮，口感不是很喜歡\n但因為想補充膳食纖維，點了才發現是水煮，一盤120元\n再訪：女生真的很難完食一份餐點（不會趕人，超棒）\n再訪：拿鐵不好喝，不要點\n\n2025/11 – 飲料變自助吧，有氣泡水～～\n最近的餐都變好好吃🤤\n\n2025/12 - 點了線上系統便當，比想像便宜，而且好吃；意外的收穫。\n又再一次點了便當，非常好吃 😋",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "花椰菜不是炒的、也不是烤的，是水煮，口感不是很喜歡\n但因為想補充膳食纖維，點了才發現是水煮，一盤120元\n再訪：女生真的很難完食一份餐點（不會趕人，超棒）\n再訪：拿鐵不好喝，不要點\n\n2025/11 – 飲料變自助吧，有氣泡水～～\n最近的餐都變好好吃🤤\n\n2025/12 - 點了線上系統便當，比想像便宜，而且好吃；意外的收穫。\n又再一次點了便當，非常好吃 😋",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "J.Y.C",
+        "uri": "https://www.google.com/maps/contrib/113918236631852127947/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJKlrmJlNB8R2yh8wPQKMeUync0XogMpAnijlMp3pcBMgRFmA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-30T09:37:47.079217498Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRaC1PcnNnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRaC1PcnNnRRAB!2m1!1s0x3442abaa0c2539d1:0xb23587fd65b3052c"
+    }
+  ]
+}

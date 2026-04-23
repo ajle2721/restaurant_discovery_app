@@ -1,0 +1,25 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "NO",
+                                  "evidence":  "沒有提供兒童座椅💺",
+                                  "confidence":  0.9
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "店員友善親切",
+                               "confidence":  0.8
+                           },
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "不怕小孩吵"
+}

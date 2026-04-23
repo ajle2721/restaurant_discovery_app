@@ -1,0 +1,130 @@
+{
+  "id": "ChIJvWPH_xOtQjQRpWFAqhbQiCw",
+  "types": [
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2785 5758",
+  "formattedAddress": "115台灣臺北市南港區經貿二路186號3樓C棟",
+  "location": {
+    "latitude": 25.058849199999997,
+    "longitude": 121.61493279999999
+  },
+  "rating": 4.7,
+  "websiteUri": "https://www.facebook.com/mitataigaya/",
+  "userRatingCount": 1493,
+  "displayName": {
+    "text": "大河屋 燒肉丼 串燒-中信南港店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJvWPH_xOtQjQRpWFAqhbQiCw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KR1FsUkVTVGhFU2w5aGJVaEVhV1JrZVY5WVVHYxAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 4,
+      "text": {
+        "text": "春節期間南港lalaport人潮洶湧，每間餐廳都大排長龍，只好轉戰對面人潮較少的中信園區覓食，選了這間也是連鎖的日式餐廳\n套餐價格算平價，店內提供小菜，味噌湯，霜淇淋無限享用，小菜口味都還行，套餐釜飯採高溫處理，久不攪動底下就會有鍋巴，套餐的主菜內容物有點少，所幸口味還能接受",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "春節期間南港lalaport人潮洶湧，每間餐廳都大排長龍，只好轉戰對面人潮較少的中信園區覓食，選了這間也是連鎖的日式餐廳\n套餐價格算平價，店內提供小菜，味噌湯，霜淇淋無限享用，小菜口味都還行，套餐釜飯採高溫處理，久不攪動底下就會有鍋巴，套餐的主菜內容物有點少，所幸口味還能接受",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ming yeh",
+        "uri": "https://www.google.com/maps/contrib/105270452918829276043/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5CK0Umg_VxVE6j3iYJQumzLZpjvJOHp8-FqUz7CdXNfZofIwIbQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-22T13:29:43.259960680Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KR1FsUkVTVGhFU2w5aGJVaEVhV1JrZVY5WVVHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KR1FsUkVTVGhFU2w5aGJVaEVhV1JrZVY5WVVHYxAB!2m1!1s0x3442ad13ffc763bd:0x2c88d016aa4061a5"
+    },
+    {
+      "name": "places/ChIJvWPH_xOtQjQRpWFAqhbQiCw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21rd016bHVURW8zVlVJeFZVWXRUSGRzWTFWeGRHYxAB",
+      "relativePublishTimeDescription": "4 週前",
+      "rating": 5,
+      "text": {
+        "text": "串燒類 、尤其很雞皮好吃～但份量都略少！還好有✨五星好評送娃娃菜，增加飽足。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "串燒類 、尤其很雞皮好吃～但份量都略少！還好有✨五星好評送娃娃菜，增加飽足。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "何小羽",
+        "uri": "https://www.google.com/maps/contrib/105262329336228428640/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUCcLFAPNVwKJvQSta0eyFnIVNvuLWMZkwOxaVmwz3bu2aYrtODpQ=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-21T11:54:33.019233445Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21rd016bHVURW8zVlVJeFZVWXRUSGRzWTFWeGRHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21rd016bHVURW8zVlVJeFZVWXRUSGRzWTFWeGRHYxAB!2m1!1s0x3442ad13ffc763bd:0x2c88d016aa4061a5"
+    },
+    {
+      "name": "places/ChIJvWPH_xOtQjQRpWFAqhbQiCw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tod1NuUkJWekZWTFcxTWVuSkdRbGxITUdwTlZIYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "謝謝各位服務人員的用心，小菜都不錯吃，外加上現在還有霜淇淋吃到飽，真的太讚👍👍了",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "謝謝各位服務人員的用心，小菜都不錯吃，外加上現在還有霜淇淋吃到飽，真的太讚👍👍了",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "許凱翔",
+        "uri": "https://www.google.com/maps/contrib/105139435498724937500/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKfcGWnftzhqs0glSwUagWXAWNc2QykSlCMKma4_v5N0YGhmw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-18T09:55:28.413447177Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tod1NuUkJWekZWTFcxTWVuSkdRbGxITUdwTlZIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tod1NuUkJWekZWTFcxTWVuSkdRbGxITUdwTlZIYxAB!2m1!1s0x3442ad13ffc763bd:0x2c88d016aa4061a5"
+    },
+    {
+      "name": "places/ChIJvWPH_xOtQjQRpWFAqhbQiCw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aQ1pGZzRjSEJxT1ZKTVpsZE1NakJaWkhsQ1VYYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "餐點主要為釜飯，有多樣串燒可選擇\n內用小菜、白飯、味噌湯、高麗菜絲可續\nCP值不錯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點主要為釜飯，有多樣串燒可選擇\n內用小菜、白飯、味噌湯、高麗菜絲可續\nCP值不錯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "ming Xiang",
+        "uri": "https://www.google.com/maps/contrib/110478711988523496347/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXhaI2ppbYP2jFjPMBACe4S_6iBQsAihFr7-2WknqxYAIaf2xRW=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-14T09:43:28.513564610Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aQ1pGZzRjSEJxT1ZKTVpsZE1NakJaWkhsQ1VYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aQ1pGZzRjSEJxT1ZKTVpsZE1NakJaWkhsQ1VYYxAB!2m1!1s0x3442ad13ffc763bd:0x2c88d016aa4061a5"
+    },
+    {
+      "name": "places/ChIJvWPH_xOtQjQRpWFAqhbQiCw/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJLUs2UEdBEAE",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 4,
+      "text": {
+        "text": "在中信南港C棟3F，可能因為隔壁Lala port 開幕又或是週六人潮較多，預約已經是用張紙寫人數叫號碼。\n✅可line pay✅5星🌟評論送娃娃菜✅裝飾有氣氛✅湯飯、飲料可續✅手機點餐\n⚠️有低消成人需268元⚠️10%清潔費⚠️用餐時間90分鐘⚠️餐點現做會需要等待一段時間（我們等了快40分鐘）\n\n人手明顯不足，客人走了但桌子會比較晚收拾。現場叫人也比較緩慢跟凌亂。如果很餓千萬不要等，因為剛好是有拿到優惠券才前往嘗試。\n感覺店員已經很努力了💪\n\n上菜幾乎等了快40分鐘，喝了3碗味增湯止餓才上菜。\n超激安牛肉丼，上面有秋葵切片。\n莎朗牛排感覺蠻普通不過算大塊，會付一些紅蘿蔔跟花椰菜。\n串燒類只點明太子玉子燒，尚可。\n5星的娃娃菜是同行的人填寫贈送的。\n應該是先抹奶油烤過在直接放入味增湯再加糊椒粉的感覺。\n整體來說很豐盛，但論CP值算普通。\n\n店內裝潢很有在地的感覺。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在中信南港C棟3F，可能因為隔壁Lala port 開幕又或是週六人潮較多，預約已經是用張紙寫人數叫號碼。\n✅可line pay✅5星🌟評論送娃娃菜✅裝飾有氣氛✅湯飯、飲料可續✅手機點餐\n⚠️有低消成人需268元⚠️10%清潔費⚠️用餐時間90分鐘⚠️餐點現做會需要等待一段時間（我們等了快40分鐘）\n\n人手明顯不足，客人走了但桌子會比較晚收拾。現場叫人也比較緩慢跟凌亂。如果很餓千萬不要等，因為剛好是有拿到優惠券才前往嘗試。\n感覺店員已經很努力了💪\n\n上菜幾乎等了快40分鐘，喝了3碗味增湯止餓才上菜。\n超激安牛肉丼，上面有秋葵切片。\n莎朗牛排感覺蠻普通不過算大塊，會付一些紅蘿蔔跟花椰菜。\n串燒類只點明太子玉子燒，尚可。\n5星的娃娃菜是同行的人填寫贈送的。\n應該是先抹奶油烤過在直接放入味增湯再加糊椒粉的感覺。\n整體來說很豐盛，但論CP值算普通。\n\n店內裝潢很有在地的感覺。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "U Chung",
+        "uri": "https://www.google.com/maps/contrib/104187392095037437558/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUeqS_WlLA9S5M2wQoQaGcC82Z9b4W0RmCU86qYFYlfxbxY_LkP=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-03-30T06:26:00.153448Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJLUs2UEdBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJLUs2UEdBEAE!2m1!1s0x3442ad13ffc763bd:0x2c88d016aa4061a5"
+    }
+  ]
+}

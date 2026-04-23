@@ -1,0 +1,128 @@
+{
+  "id": "ChIJN2UHYkCpQjQRwdxAiIhBEac",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2595 2565",
+  "formattedAddress": "104台灣臺北市中山區撫順街9號",
+  "location": {
+    "latitude": 25.0637738,
+    "longitude": 121.52140109999999
+  },
+  "rating": 4.2,
+  "userRatingCount": 434,
+  "displayName": {
+    "text": "豐萃早午餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJN2UHYkCpQjQRwdxAiIhBEac/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1MlR6aFNWM05aVkdsNGJsaFdjbVZNY1VVM05YYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "豬排蛋餅=6/10分\n捷運餐車買，一盒有五塊，\n可惜是冷的，有附一醬汁，\n沾醬較好吃，皮嫩肉軟嫩，\n調味是普通，貓會給六分。\n\n奶茶=6/10分\n味道是微甜，口感是滑順，\n調味是偏淡，沒有啥特別，\n整體是普通，貓會給六分。\n\n煎餃加蛋=6/10分\n一份有六顆，加上荷包蛋，\n有附一包醬，加醬較好吃，\n不加是普通，味道是鹹甜，\n口感是軟嫩，整體是普通。\n\n蜂蜜鮮奶茶=7/10分\n味道是清甜，口感是滑順，\n比奶茶好點，蜂蜜味道濃，\n帶點奶香味，貓會給七分。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "豬排蛋餅=6/10分\n捷運餐車買，一盒有五塊，\n可惜是冷的，有附一醬汁，\n沾醬較好吃，皮嫩肉軟嫩，\n調味是普通，貓會給六分。\n\n奶茶=6/10分\n味道是微甜，口感是滑順，\n調味是偏淡，沒有啥特別，\n整體是普通，貓會給六分。\n\n煎餃加蛋=6/10分\n一份有六顆，加上荷包蛋，\n有附一包醬，加醬較好吃，\n不加是普通，味道是鹹甜，\n口感是軟嫩，整體是普通。\n\n蜂蜜鮮奶茶=7/10分\n味道是清甜，口感是滑順，\n比奶茶好點，蜂蜜味道濃，\n帶點奶香味，貓會給七分。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "發財貓貓 LV10",
+        "uri": "https://www.google.com/maps/contrib/115365372085241730933/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUEeftAGrgm2jRahqhfa35nTV96iCvlazvK6JSVh6JsKLoGI-ifyg=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-01-27T06:45:53.708038778Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1MlR6aFNWM05aVkdsNGJsaFdjbVZNY1VVM05YYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1MlR6aFNWM05aVkdsNGJsaFdjbVZNY1VVM05YYxAB!2m1!1s0x3442a94062076537:0xa71141888840dcc1"
+    },
+    {
+      "name": "places/ChIJN2UHYkCpQjQRwdxAiIhBEac/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCWE1GQjZSWEpXTWtSNVZsY3ljMmRUTjI0NGMwRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 1,
+      "text": {
+        "text": "沒吃過這麼難吃的法式吐司，真的很難以下嚥。入座沒多久就看到很大一隻的蟑螂在牆壁爬來爬去，老闆叫別人出來打蟑螂，事後也沒有覺得不好意思之類的，還有一堆小蒼蠅在飛來飛去，一走進店裡就聞到了油耗味，看到這麼多評論五顆星，真的不知道怎麼給的，真的不能被評論騙來\n喔還有這個餐點要180幾元，不懂在貴什麼",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "沒吃過這麼難吃的法式吐司，真的很難以下嚥。入座沒多久就看到很大一隻的蟑螂在牆壁爬來爬去，老闆叫別人出來打蟑螂，事後也沒有覺得不好意思之類的，還有一堆小蒼蠅在飛來飛去，一走進店裡就聞到了油耗味，看到這麼多評論五顆星，真的不知道怎麼給的，真的不能被評論騙來\n喔還有這個餐點要180幾元，不懂在貴什麼",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "33",
+        "uri": "https://www.google.com/maps/contrib/117607355985630483779/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXkVOsTgNXHZ972AiKJdntJCoiYZQUaVdHDOmBVDuYouwZ6ptQQCg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-14T15:43:48.913871659Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCWE1GQjZSWEpXTWtSNVZsY3ljMmRUTjI0NGMwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCWE1GQjZSWEpXTWtSNVZsY3ljMmRUTjI0NGMwRRAB!2m1!1s0x3442a94062076537:0xa71141888840dcc1"
+    },
+    {
+      "name": "places/ChIJN2UHYkCpQjQRwdxAiIhBEac/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGVVVuUnFZa3RaWm5kSVF6VlJlSEl0TVhOclZtYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "雞腿排拼盤套餐的雞腿排香嫩多汁，加上清爽沙拉搭配，如果是跑團跑完聚餐可先預約地下室大約有24個座位，安心用餐聊天也不怕打擾到其他客人，很棒。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "雞腿排拼盤套餐的雞腿排香嫩多汁，加上清爽沙拉搭配，如果是跑團跑完聚餐可先預約地下室大約有24個座位，安心用餐聊天也不怕打擾到其他客人，很棒。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "周其偉",
+        "uri": "https://www.google.com/maps/contrib/100041405865624944950/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ_ZDUqN4vWJ40ZaqcGxVbj8rYAhYecb_4eDYdNP2H3jGyvDg=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-09-21T01:04:12.367051887Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGVVVuUnFZa3RaWm5kSVF6VlJlSEl0TVhOclZtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGVVVuUnFZa3RaWm5kSVF6VlJlSEl0TVhOclZtYxAB!2m1!1s0x3442a94062076537:0xa71141888840dcc1"
+    },
+    {
+      "name": "places/ChIJN2UHYkCpQjQRwdxAiIhBEac/reviews/ChdDSUhNMG9nS0VJQ0FnTURvOWVpWmxnRRAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐廳環境乾淨，重點量多cp值很高\n\n近捷運站附近方便抵達 已列入口袋名單～👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐廳環境乾淨，重點量多cp值很高\n\n近捷運站附近方便抵達 已列入口袋名單～👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "拉土",
+        "uri": "https://www.google.com/maps/contrib/108251823647313147049/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6iXK1XdTzz1ezpIs0-JdlWYknXolKlj4mmfNor9zm_gL56mQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-04-27T09:51:09.235385Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvOWVpWmxnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvOWVpWmxnRRAB!2m1!1s0x3442a94062076537:0xa71141888840dcc1"
+    },
+    {
+      "name": "places/ChIJN2UHYkCpQjQRwdxAiIhBEac/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOeGJ6RlBibDh4WmtkMmJWUnJWRFJWTWtaTmVtYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 3,
+      "text": {
+        "text": "價位真的蠻高的，可能是因為這個地方的房租也比較高吧所以轉嫁成物價，味道吃起來就是普普通通沒有特別驚艷，義式拼盤的麵包蠻好吃的。但是先奶茶喝起來超級像奶粉奶茶，味道跟好市多粉紅色的那個奶茶粉包泡出來的有90 %相近。\n如從其他評論出與做之間的距離真的很近，所以如果有人大聲講話整間店就是吵到不行。\n雖然有樓下的位置很好，可是要自己上下樓拿，那個樓梯的間距超級高，拿著餐點下去的時候完全看不到樓梯，我覺得我隨時都會摔死…",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "價位真的蠻高的，可能是因為這個地方的房租也比較高吧所以轉嫁成物價，味道吃起來就是普普通通沒有特別驚艷，義式拼盤的麵包蠻好吃的。但是先奶茶喝起來超級像奶粉奶茶，味道跟好市多粉紅色的那個奶茶粉包泡出來的有90 %相近。\n如從其他評論出與做之間的距離真的很近，所以如果有人大聲講話整間店就是吵到不行。\n雖然有樓下的位置很好，可是要自己上下樓拿，那個樓梯的間距超級高，拿著餐點下去的時候完全看不到樓梯，我覺得我隨時都會摔死…",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Rena",
+        "uri": "https://www.google.com/maps/contrib/108108843593492822762/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJZvMLSroYmrJZ3RHFvXWqoJCLxZwepzHPaABX-Tumn_S7plxY=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-07-30T16:48:37.942056854Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOeGJ6RlBibDh4WmtkMmJWUnJWRFJWTWtaTmVtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOeGJ6RlBibDh4WmtkMmJWUnJWRFJWTWtaTmVtYxAB!2m1!1s0x3442a94062076537:0xa71141888840dcc1"
+    }
+  ]
+}

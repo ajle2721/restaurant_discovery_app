@@ -1,0 +1,132 @@
+{
+  "id": "ChIJE63C8fypQjQRocBKJlXHlC8",
+  "types": [
+    "dim_sum_restaurant",
+    "cantonese_restaurant",
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 933 002 233",
+  "formattedAddress": "103台灣臺北市大同區承德路二段213號",
+  "location": {
+    "latitude": 25.059801099999998,
+    "longitude": 121.51844589999999
+  },
+  "rating": 4.5,
+  "websiteUri": "https://www.facebook.com/September19940914/",
+  "userRatingCount": 2046,
+  "displayName": {
+    "text": "九月茶餐廳",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJE63C8fypQjQRocBKJlXHlC8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoeVNsQXpXR1pPVDE5WmJXZGlOMlY2YjJGdFNsRRAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 5,
+      "text": {
+        "text": "餐點非常好吃，很適合想要嚐異國風味的美食，可以來試試",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點非常好吃，很適合想要嚐異國風味的美食，可以來試試",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳鈴津",
+        "uri": "https://www.google.com/maps/contrib/112212687736027213406/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW74olat9fN8QDz0SsLhGUB-oNeZnRUM85zshEnUL2HWTvjBl6sZw=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-27T04:15:54.816092494Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoeVNsQXpXR1pPVDE5WmJXZGlOMlY2YjJGdFNsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoeVNsQXpXR1pPVDE5WmJXZGlOMlY2YjJGdFNsRRAB!2m1!1s0x3442a9fcf1c2ad13:0x2f94c755264ac0a1"
+    },
+    {
+      "name": "places/ChIJE63C8fypQjQRocBKJlXHlC8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkak1UUTJkVkI2UlZwYVprMUpRelF4T1RKQ2NGRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "星洲炒米粉偏乾，感覺是咖哩粉下去炒，餐肉蛋飯真的就是餐肉，蛋，和白飯，以價格來說偏高",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "星洲炒米粉偏乾，感覺是咖哩粉下去炒，餐肉蛋飯真的就是餐肉，蛋，和白飯，以價格來說偏高",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Vincent Tien",
+        "uri": "https://www.google.com/maps/contrib/102220262551227615895/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIMbuYlDf-hioi-QQUfD3GrZWLDlQfm3yb8YPeqpeGs2pvlbQ=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-11-04T05:58:19.889029141Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkak1UUTJkVkI2UlZwYVprMUpRelF4T1RKQ2NGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkak1UUTJkVkI2UlZwYVprMUpRelF4T1RKQ2NGRRAB!2m1!1s0x3442a9fcf1c2ad13:0x2f94c755264ac0a1"
+    },
+    {
+      "name": "places/ChIJE63C8fypQjQRocBKJlXHlC8/reviews/ChZDSUhNMG9nS0VQWC16S1dHc0lYMlFBEAE",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 4,
+      "text": {
+        "text": "店內用餐空間偏窄但不擁擠，入座會送上熱茶。主食選擇多，比較可惜的是點心類品項選擇較少⋯⋯\n\n滑蛋牛肉飯$160\n鹹甜醬汁超下飯，炒蛋給的很大方。牛肉很嫩。會讓人忍不住一口接一口吃完！\n\n糖醋魚片飯$140\n魚片很嫩很軟，糖醋醬酸酸甜甜的配飯吃很讚～～旁邊的高麗菜偏清淡，感覺很健康。\n\n鮮蝦腐皮卷$145\n外皮酥脆，裡面有滿滿蝦仁、韭黃、香菜、筍絲、馬蹄粒。意外的驚豔！！！好吃到眼睛會為之一亮✨",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店內用餐空間偏窄但不擁擠，入座會送上熱茶。主食選擇多，比較可惜的是點心類品項選擇較少⋯⋯\n\n滑蛋牛肉飯$160\n鹹甜醬汁超下飯，炒蛋給的很大方。牛肉很嫩。會讓人忍不住一口接一口吃完！\n\n糖醋魚片飯$140\n魚片很嫩很軟，糖醋醬酸酸甜甜的配飯吃很讚～～旁邊的高麗菜偏清淡，感覺很健康。\n\n鮮蝦腐皮卷$145\n外皮酥脆，裡面有滿滿蝦仁、韭黃、香菜、筍絲、馬蹄粒。意外的驚豔！！！好吃到眼睛會為之一亮✨",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "湘湘",
+        "uri": "https://www.google.com/maps/contrib/102957934055381267258/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6_7n3tpkh6TVleTQWavBbZ2mpTkPanZtU3BhAloibtUM7rNc-=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-05-17T12:24:15.634409Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VQWC16S1dHc0lYMlFBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VQWC16S1dHc0lYMlFBEAE!2m1!1s0x3442a9fcf1c2ad13:0x2f94c755264ac0a1"
+    },
+    {
+      "name": "places/ChIJE63C8fypQjQRocBKJlXHlC8/reviews/ChZDSUhNMG9nS0VJQ0FnTURvbG9HUlJREAE",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 5,
+      "text": {
+        "text": "民權西路捷運站附近的港式餐廳\n裝潢濃濃港味\n走道不大但座位不會擠\n一入座就送上雞湯和茶\n雞湯順口暖身\n招牌滑蛋叉燒飯必點！\n滑蛋煎得熟度完美\n軟嫩配飯口感極佳\n叉燒調味重有嚼勁\n另一個招牌西多士同樣必點！\n奶油糖漿配上花生醬炸吐司麵包\n真的超級美味超級罪惡熱量爆表但超爽🤤\n港點腐皮卷鮮蝦餃也都好吃\n燒賣偏普通可以不用點\n比較可惜的是檸檬茶不是港式棟檸茶而是台式檸檬紅茶的味道\n店內很多道地香港風格裝飾\n想必老闆一定是堂堂正正的香港人！\n香港加油願榮光歸香港！🇭🇰",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "民權西路捷運站附近的港式餐廳\n裝潢濃濃港味\n走道不大但座位不會擠\n一入座就送上雞湯和茶\n雞湯順口暖身\n招牌滑蛋叉燒飯必點！\n滑蛋煎得熟度完美\n軟嫩配飯口感極佳\n叉燒調味重有嚼勁\n另一個招牌西多士同樣必點！\n奶油糖漿配上花生醬炸吐司麵包\n真的超級美味超級罪惡熱量爆表但超爽🤤\n港點腐皮卷鮮蝦餃也都好吃\n燒賣偏普通可以不用點\n比較可惜的是檸檬茶不是港式棟檸茶而是台式檸檬紅茶的味道\n店內很多道地香港風格裝飾\n想必老闆一定是堂堂正正的香港人！\n香港加油願榮光歸香港！🇭🇰",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "粘漢",
+        "uri": "https://www.google.com/maps/contrib/101755301386257766690/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUrEr9JKETPD4kLsfPWtPto6ZdIf7r-OkOfEx72xsfexdx4bzhPfg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-04-24T13:51:17.348766Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvbG9HUlJREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvbG9HUlJREAE!2m1!1s0x3442a9fcf1c2ad13:0x2f94c755264ac0a1"
+    },
+    {
+      "name": "places/ChIJE63C8fypQjQRocBKJlXHlC8/reviews/ChdDSUhNMG9nS0VJQ0FnTURRM3Q3b2lRRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "好久沒吃港式茶餐廳了，經過此家接近打烊前，趕緊進來滿足一下。\n\n點了一些茶點及兩樣主菜，口味都很道地，結帳時帥氣老闆也是一口香港腔，服務也很好，會再找時間帶親友來吃。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "好久沒吃港式茶餐廳了，經過此家接近打烊前，趕緊進來滿足一下。\n\n點了一些茶點及兩樣主菜，口味都很道地，結帳時帥氣老闆也是一口香港腔，服務也很好，會再找時間帶親友來吃。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Steven Ker",
+        "uri": "https://www.google.com/maps/contrib/116271738019949033875/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVx5Q_Wo9GXKdqwjoEjrgittjhXZGsZDfrj7pt7RQosKEuAh9wS=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-03-11T08:57:03.342144Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRM3Q3b2lRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRM3Q3b2lRRRAB!2m1!1s0x3442a9fcf1c2ad13:0x2f94c755264ac0a1"
+    }
+  ]
+}

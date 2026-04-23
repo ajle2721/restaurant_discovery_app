@@ -1,0 +1,130 @@
+{
+  "id": "ChIJRY5JmN8BaDQR3fElNvAA2yo",
+  "types": [
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2234 9519",
+  "formattedAddress": "116台灣臺北市文山區興隆路四段102號",
+  "location": {
+    "latitude": 24.983200600000004,
+    "longitude": 121.5619727
+  },
+  "rating": 4.7,
+  "websiteUri": "https://www.facebook.com/p/18%E7%B2%BE%E7%B7%BB%E5%B0%8F%E9%A4%A8-100064201832414",
+  "userRatingCount": 800,
+  "displayName": {
+    "text": "18精緻小館",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJRY5JmN8BaDQR3fElNvAA2yo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOalpqaGhia1U0V1V4YVdtdHNUa295YlhCblJrRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 3,
+      "text": {
+        "text": "性價比偏低，以木柵地段而言。豆苗250一盤比肉菜還貴。餐具自己來，餐廳不大但來客不少，味道中等。宮保雞丁交代大辣，廚房也盡力了，估計受限材料。人均小400。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "性價比偏低，以木柵地段而言。豆苗250一盤比肉菜還貴。餐具自己來，餐廳不大但來客不少，味道中等。宮保雞丁交代大辣，廚房也盡力了，估計受限材料。人均小400。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "KUL Jen",
+        "uri": "https://www.google.com/maps/contrib/110173334032563449979/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWLobk9jBWSlovLzpDzjIUBdBinrddwe9aKFasoxZ7xtuTGA3M=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-04T07:23:50.401175859Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOalpqaGhia1U0V1V4YVdtdHNUa295YlhCblJrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOalpqaGhia1U0V1V4YVdtdHNUa295YlhCblJrRRAB!2m1!1s0x346801df98498e45:0x2adb00f03625f1dd"
+    },
+    {
+      "name": "places/ChIJRY5JmN8BaDQR3fElNvAA2yo/reviews/ChZDSUhNMG9nS0VQUDdxSmJFMnJYUVl3EAE",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 5,
+      "text": {
+        "text": "口味很不錯的台式熱炒，不像一般熱炒的重油重鹹，調味都很適中，每道菜大約200元上下，份量還行，娃娃菜、豆腐和燴飯好吃，聽說招牌是炒飯可惜週末沒賣。\n✅娃娃菜(220元)：好吃，和肉絲及蝦米一起炒，調味不重，娃娃菜清甜可口，連湯汁都喝了好幾口👍\n✅鐵板豆腐(200元)：好吃，調味微辣，看起來略油入口還OK，雞蛋豆腐嫩嫩的很棒\n✅牛肉燴飯(120元)：不錯，有牛肉/香菇/木耳/高麗菜/紅蘿蔔，CP值高，不會太鹹太勾芡\n✅宮保雞丁(230元)：還行，味道不是很正統，沒有麻味，加了黃瓜頗神秘，雞肉還不錯\n✅番茄炒蛋(180元)：不錯，微勾芡的甜口醬汁，蛋是有點塊狀不是炒開的蛋花\n✅青菜豆腐湯(55元)：還行，湯頭清淡沒有過份調味，料給得不少",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "口味很不錯的台式熱炒，不像一般熱炒的重油重鹹，調味都很適中，每道菜大約200元上下，份量還行，娃娃菜、豆腐和燴飯好吃，聽說招牌是炒飯可惜週末沒賣。\n✅娃娃菜(220元)：好吃，和肉絲及蝦米一起炒，調味不重，娃娃菜清甜可口，連湯汁都喝了好幾口👍\n✅鐵板豆腐(200元)：好吃，調味微辣，看起來略油入口還OK，雞蛋豆腐嫩嫩的很棒\n✅牛肉燴飯(120元)：不錯，有牛肉/香菇/木耳/高麗菜/紅蘿蔔，CP值高，不會太鹹太勾芡\n✅宮保雞丁(230元)：還行，味道不是很正統，沒有麻味，加了黃瓜頗神秘，雞肉還不錯\n✅番茄炒蛋(180元)：不錯，微勾芡的甜口醬汁，蛋是有點塊狀不是炒開的蛋花\n✅青菜豆腐湯(55元)：還行，湯頭清淡沒有過份調味，料給得不少",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lèvr【第10級在地嚮導】",
+        "uri": "https://www.google.com/maps/contrib/115131688509506708788/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWReqt4dR6N7p45ZpSr8ODGEAaWrEOYRW_WXQCLNWUULTLqEq91g=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-05-10T17:06:20.494258Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VQUDdxSmJFMnJYUVl3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VQUDdxSmJFMnJYUVl3EAE!2m1!1s0x346801df98498e45:0x2adb00f03625f1dd"
+    },
+    {
+      "name": "places/ChIJRY5JmN8BaDQR3fElNvAA2yo/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2OTdtdVZREAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "去店內剛好炒飯類都賣完了\n平常不吃苦瓜 但苦瓜炒牛肉的苦味不明顯\n是一間不論炸物或熱炒都滿足的一頓餐\n糖醋魚片好吃到可以每天吃\n小可惜是鳳梨蝦球的麵衣有點厚 也或許是店家想呈現的口感\n但整體來說很滿意",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "去店內剛好炒飯類都賣完了\n平常不吃苦瓜 但苦瓜炒牛肉的苦味不明顯\n是一間不論炸物或熱炒都滿足的一頓餐\n糖醋魚片好吃到可以每天吃\n小可惜是鳳梨蝦球的麵衣有點厚 也或許是店家想呈現的口感\n但整體來說很滿意",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林函",
+        "uri": "https://www.google.com/maps/contrib/117745907235395707998/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWx_PwfR7nwDl74hdXKUmazTGr8Ge36N35E_y0X9mbkDudLkF4G=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2024-12-25T04:38:31.718062Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2OTdtdVZREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2OTdtdVZREAE!2m1!1s0x346801df98498e45:0x2adb00f03625f1dd"
+    },
+    {
+      "name": "places/ChIJRY5JmN8BaDQR3fElNvAA2yo/reviews/ChZDSUhNMG9nS0VJQ0FnSUR1eUlqOVZnEAE",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "現金結帳，無發票。\n從70元炒飯吃到現在90元，牛肉炒飯截至目前為止（2022.08.12）覺得是木柵最好吃的。\n2023.09.29：假日的時候他們不賣炒飯，所以今天點了炒麵、炒粄條跟燴飯來吃。\n燴飯的蔬菜量比炒飯多，但是有一點點辣，平常不吃辣的大人吃起來覺得爽口，小孩就吃得哇哇叫了，只好買飲料給他喝。嘴邊肉湯的肉很嫩，大概有十多片，不過湯喝起來就很清，這次算是嚐鮮點點看。\n我還是比較喜歡炒飯，如果這樣，大概假日就不會過去吃了。炒飯現在已經調整價錢到100元了。\n2023.11.30：已經接連兩天吃炒飯了，小孩吃不膩耶XD\n2024.02.16：開學日來吃炒飯慶祝^^\n2024.08.05：依舊是最愛炒飯第一名\n2024.10.11：依舊是最愛炒飯第一名\n2024.12.16：依舊是最愛炒飯第一名\n2025.02：依舊是最愛炒飯第一名\n2025.09：覺得炒飯變得比較乾？\n2025.12：嗯，還是很好吃。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "現金結帳，無發票。\n從70元炒飯吃到現在90元，牛肉炒飯截至目前為止（2022.08.12）覺得是木柵最好吃的。\n2023.09.29：假日的時候他們不賣炒飯，所以今天點了炒麵、炒粄條跟燴飯來吃。\n燴飯的蔬菜量比炒飯多，但是有一點點辣，平常不吃辣的大人吃起來覺得爽口，小孩就吃得哇哇叫了，只好買飲料給他喝。嘴邊肉湯的肉很嫩，大概有十多片，不過湯喝起來就很清，這次算是嚐鮮點點看。\n我還是比較喜歡炒飯，如果這樣，大概假日就不會過去吃了。炒飯現在已經調整價錢到100元了。\n2023.11.30：已經接連兩天吃炒飯了，小孩吃不膩耶XD\n2024.02.16：開學日來吃炒飯慶祝^^\n2024.08.05：依舊是最愛炒飯第一名\n2024.10.11：依舊是最愛炒飯第一名\n2024.12.16：依舊是最愛炒飯第一名\n2025.02：依舊是最愛炒飯第一名\n2025.09：覺得炒飯變得比較乾？\n2025.12：嗯，還是很好吃。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Alice Su",
+        "uri": "https://www.google.com/maps/contrib/105203122389714084694/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWmxbYf8Gw2snEtHzRmhMHTtssilcQbm1teo-b79mcYZMrR1pY=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-19T06:25:58.989312549Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR1eUlqOVZnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR1eUlqOVZnEAE!2m1!1s0x346801df98498e45:0x2adb00f03625f1dd"
+    },
+    {
+      "name": "places/ChIJRY5JmN8BaDQR3fElNvAA2yo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kMllXRlZNMk01ZERsS2NrUm9kRU54WTE5Nk9VRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "Cp值高，好吃，老闆，老闆娘人很好，客氣",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "Cp值高，好吃，老闆，老闆娘人很好，客氣",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "風映寒",
+        "uri": "https://www.google.com/maps/contrib/102019068317118447070/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIuBdRgzbNmaQjD3_x6EJY84E5JseMc4V3Wps_ylei158QdvQ=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-10-24T04:35:07.252708894Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kMllXRlZNMk01ZERsS2NrUm9kRU54WTE5Nk9VRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kMllXRlZNMk01ZERsS2NrUm9kRU54WTE5Nk9VRRAB!2m1!1s0x346801df98498e45:0x2adb00f03625f1dd"
+    }
+  ]
+}

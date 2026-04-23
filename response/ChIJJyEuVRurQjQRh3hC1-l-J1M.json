@@ -1,0 +1,130 @@
+{
+  "id": "ChIJJyEuVRurQjQRh3hC1-l-J1M",
+  "types": [
+    "italian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2377 6186",
+  "formattedAddress": "106台灣臺北市大安區和平東路二段118巷2弄1號1樓",
+  "location": {
+    "latitude": 25.024492199999997,
+    "longitude": 121.5427645
+  },
+  "rating": 4.4,
+  "websiteUri": "https://inline.app/booking/11pasta/daan",
+  "userRatingCount": 624,
+  "displayName": {
+    "text": "11PASTA Trattoria 食義_大安店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJJyEuVRurQjQRh3hC1-l-J1M/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCc2VHZHVNbXhtVUVka1RtSTFibTlxTWw5eVVsRRAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 5,
+      "text": {
+        "text": "付款方式：刷卡/現金\n服務費：10%\n青醬奶油湯很酷\n提拉米蘇標準 巴斯克還不錯\n鮭魚燉飯好吃 無刺\n義大利麵可以調辣度 中辣就很辣了\n整體好吃\n麵包跟沙拉都很好吃\n推推",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "付款方式：刷卡/現金\n服務費：10%\n青醬奶油湯很酷\n提拉米蘇標準 巴斯克還不錯\n鮭魚燉飯好吃 無刺\n義大利麵可以調辣度 中辣就很辣了\n整體好吃\n麵包跟沙拉都很好吃\n推推",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "YuHuei Huang (Pinao Cat)",
+        "uri": "https://www.google.com/maps/contrib/107309913742531377310/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU0pgLbzHxoOOzshBLsGzUHAs5F9zD9WSvCUK5P22oQuXHziKOY=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-03-04T14:13:43.482982073Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCc2VHZHVNbXhtVUVka1RtSTFibTlxTWw5eVVsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCc2VHZHVNbXhtVUVka1RtSTFibTlxTWw5eVVsRRAB!2m1!1s0x3442ab1b552e2127:0x53277ee9d7427887"
+    },
+    {
+      "name": "places/ChIJJyEuVRurQjQRh3hC1-l-J1M/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OQk1ubFJTUzFSY3pOR1kzWnBTVlJGUlhwQ2JHYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "商業午餐附的南瓜湯有餡料（馬鈴薯塊、杏鮑菇）很驚喜\n寒冷的雨天喝到一碗熱湯胃都暖了起來\n明太子奶油海鮮寬扁麵：味道不錯，明太子給的份量算多，配料有花枝蛤蜊巴沙魚(?)、蝦子也有去殼給讚👍🏻\n瑪格麗特Pizza：尺寸蠻大的，起司很足、九層塔再多一點更香，但蕃茄醬汁偏甜個人不愛\n環境舒適，會想再訪\n生意好，建議訂位",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "商業午餐附的南瓜湯有餡料（馬鈴薯塊、杏鮑菇）很驚喜\n寒冷的雨天喝到一碗熱湯胃都暖了起來\n明太子奶油海鮮寬扁麵：味道不錯，明太子給的份量算多，配料有花枝蛤蜊巴沙魚(?)、蝦子也有去殼給讚👍🏻\n瑪格麗特Pizza：尺寸蠻大的，起司很足、九層塔再多一點更香，但蕃茄醬汁偏甜個人不愛\n環境舒適，會想再訪\n生意好，建議訂位",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ko",
+        "uri": "https://www.google.com/maps/contrib/108855506991187371124/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKtjOKn2nUu5HtsRSi9ciiSA_osI7LODfbS26mQlDIrhIBtag=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-28T08:48:17.826917928Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OQk1ubFJTUzFSY3pOR1kzWnBTVlJGUlhwQ2JHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OQk1ubFJTUzFSY3pOR1kzWnBTVlJGUlhwQ2JHYxAB!2m1!1s0x3442ab1b552e2127:0x53277ee9d7427887"
+    },
+    {
+      "name": "places/ChIJJyEuVRurQjQRh3hC1-l-J1M/reviews/Ci9DQUlRQUNvZENodHljRjlvT200d2IySnpRMEpKTFhoTVkweHlPV001TkRoSlVIYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 3,
+      "text": {
+        "text": "今天點外送，選了檸檬清炒海鮮義大利麵，並將麵體更換為寬麵。海鮮配料算是有誠意，有蛤蠣、巴沙魚、蝦子與花枝，種類豐富、份量也不會讓人失望。調味走清炒路線，油脂感偏高，香氣足，檸檬的酸味讓整體不至於過於膩口，但酸香表現相對溫和，存在感沒有想像中突出。比較可惜的是麵體口感，寬麵在外送過程中稍微偏乾，吸附醬汁的表現不夠理想，如果麵條能再濕潤一些，整體完成度會更好。以外送義大利麵來說，整體仍屬中上水準，適合想吃份量足、配料多的清炒海鮮口味。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天點外送，選了檸檬清炒海鮮義大利麵，並將麵體更換為寬麵。海鮮配料算是有誠意，有蛤蠣、巴沙魚、蝦子與花枝，種類豐富、份量也不會讓人失望。調味走清炒路線，油脂感偏高，香氣足，檸檬的酸味讓整體不至於過於膩口，但酸香表現相對溫和，存在感沒有想像中突出。比較可惜的是麵體口感，寬麵在外送過程中稍微偏乾，吸附醬汁的表現不夠理想，如果麵條能再濕潤一些，整體完成度會更好。以外送義大利麵來說，整體仍屬中上水準，適合想吃份量足、配料多的清炒海鮮口味。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "U・x・U",
+        "uri": "https://www.google.com/maps/contrib/117991400513688588554/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWApZ7JAxbmwzFT10Q1sbnoQWh2ZY1vS8vNAmWzsFGSeFdGPrA0=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-22T16:25:46.892759701Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT200d2IySnpRMEpKTFhoTVkweHlPV001TkRoSlVIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT200d2IySnpRMEpKTFhoTVkweHlPV001TkRoSlVIYxAB!2m1!1s0x3442ab1b552e2127:0x53277ee9d7427887"
+    },
+    {
+      "name": "places/ChIJJyEuVRurQjQRh3hC1-l-J1M/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SUk9WZEVObEpJVXpSeFZuRlpUMFYxWVROUVYxRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 3,
+      "text": {
+        "text": "擺盤看起來不錯，但麵有點乾， 可能期望太高，有點失望。座位都很近，有點擁擠的感覺，隔壁桌聊天的聲音都可以聽的很清楚，也沒什麼服務的，就餐點端來之後就沒再有什麼服務或倒水之類的。價格不是那麼平易近人。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "擺盤看起來不錯，但麵有點乾， 可能期望太高，有點失望。座位都很近，有點擁擠的感覺，隔壁桌聊天的聲音都可以聽的很清楚，也沒什麼服務的，就餐點端來之後就沒再有什麼服務或倒水之類的。價格不是那麼平易近人。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "YH LAI",
+        "uri": "https://www.google.com/maps/contrib/102793181933740712583/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKhvalxpUhBcJE_y7uq0Fx2scwG7XXDw2UO0IlCmJoliuKq4fiT=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-07T16:20:23.181678430Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SUk9WZEVObEpJVXpSeFZuRlpUMFYxWVROUVYxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SUk9WZEVObEpJVXpSeFZuRlpUMFYxWVROUVYxRRAB!2m1!1s0x3442ab1b552e2127:0x53277ee9d7427887"
+    },
+    {
+      "name": "places/ChIJJyEuVRurQjQRh3hC1-l-J1M/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KcGNFeEtNRlJaTWpWaGNqUTVibDg1UW0xeFQxRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "焗烤紅酒燉牛肉 牛肉軟爛好吃，飯看起來是用十穀米之類，蠻特別的👍\n沙拉吃得到新鮮水果塊（蘋果、火龍果、梨子..）\n烤布蕾綿密好吃😋",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "焗烤紅酒燉牛肉 牛肉軟爛好吃，飯看起來是用十穀米之類，蠻特別的👍\n沙拉吃得到新鮮水果塊（蘋果、火龍果、梨子..）\n烤布蕾綿密好吃😋",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "橘子的天空",
+        "uri": "https://www.google.com/maps/contrib/109049819045027134074/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXdXc38oxybVsyasjVldMuBM4syH7f3hALIyzL2uoV4cUWcHGk=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-28T05:15:27.306221599Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KcGNFeEtNRlJaTWpWaGNqUTVibDg1UW0xeFQxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KcGNFeEtNRlJaTWpWaGNqUTVibDg1UW0xeFQxRRAB!2m1!1s0x3442ab1b552e2127:0x53277ee9d7427887"
+    }
+  ]
+}

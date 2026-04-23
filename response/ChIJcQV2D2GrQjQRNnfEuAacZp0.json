@@ -1,0 +1,130 @@
+{
+  "id": "ChIJcQV2D2GrQjQRNnfEuAacZp0",
+  "types": [
+    "asian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2722 6258",
+  "formattedAddress": "4樓, No. 11號松高路信義區臺北市台灣 11073",
+  "location": {
+    "latitude": 25.039594599999997,
+    "longitude": 121.5654546
+  },
+  "rating": 4.8,
+  "websiteUri": "https://www.facebook.com/YABIKITCHEN/",
+  "userRatingCount": 716,
+  "displayName": {
+    "text": "YABI KITCHEN DREAM PLAZA店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJcQV2D2GrQjQRNnfEuAacZp0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kUk56SlZVRTQwVEdGTFoxSTFPRWcyVjJkUVJYYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "2025年10月點兩人份套餐\n整體來說可以吃的超飽，咖啡口味的排骨很特別，有茶磚的茶也很特別。但口味上覺得尚可而已，沒有到覺得好吃。但當天服務人員還算可以，整體還算滿意。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2025年10月點兩人份套餐\n整體來說可以吃的超飽，咖啡口味的排骨很特別，有茶磚的茶也很特別。但口味上覺得尚可而已，沒有到覺得好吃。但當天服務人員還算可以，整體還算滿意。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Anny Ching",
+        "uri": "https://www.google.com/maps/contrib/117258638281995939361/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6VCdN6XJschd7dHNK1z72kqjttbZOLYFcLYXVciKbqNuRubg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-02T14:03:18.434493894Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kUk56SlZVRTQwVEdGTFoxSTFPRWcyVjJkUVJYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kUk56SlZVRTQwVEdGTFoxSTFPRWcyVjJkUVJYYxAB!2m1!1s0x3442ab610f760571:0x9d669c06b8c47736"
+    },
+    {
+      "name": "places/ChIJcQV2D2GrQjQRNnfEuAacZp0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsV1YwcFlSVnBKUlhkUmNEUjJMWEo1Ym10c2VHYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "我覺得餐點是好吃的，味道怪怪的是湯裡面的麵麩，服務人員也很多，薑黃飯一開始上來時沒熱，後面續飯講後有變熱的，人均約1000，吃不完可打包~",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "我覺得餐點是好吃的，味道怪怪的是湯裡面的麵麩，服務人員也很多，薑黃飯一開始上來時沒熱，後面續飯講後有變熱的，人均約1000，吃不完可打包~",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "day happy",
+        "uri": "https://www.google.com/maps/contrib/114156313270956659437/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXvFxW_71tMxdAbjvjHOoJRfgM75PXkEBo8ZMLuauaI2my8TIcoKw=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-01-23T07:03:44.135394892Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsV1YwcFlSVnBKUlhkUmNEUjJMWEo1Ym10c2VHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsV1YwcFlSVnBKUlhkUmNEUjJMWEo1Ym10c2VHYxAB!2m1!1s0x3442ab610f760571:0x9d669c06b8c47736"
+    },
+    {
+      "name": "places/ChIJcQV2D2GrQjQRNnfEuAacZp0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sV1pqRnRORmROVVdreFlubFJZVGRRYVhRMVpYYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "薑黃飯很香，單吃就很好吃了。星洲肉骨茶排骨豬肚湯的肉骨茶味若有似無，但豬肚味道是挺濃厚的，不愛。仁當牛肉的醬汁濃稠，香味撲鼻，肉的口感是有嚼勁的。\nP.S. 有些菜是中央廚房做好的料理包加熱上桌喔！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "薑黃飯很香，單吃就很好吃了。星洲肉骨茶排骨豬肚湯的肉骨茶味若有似無，但豬肚味道是挺濃厚的，不愛。仁當牛肉的醬汁濃稠，香味撲鼻，肉的口感是有嚼勁的。\nP.S. 有些菜是中央廚房做好的料理包加熱上桌喔！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yin-Chieh Hsu",
+        "uri": "https://www.google.com/maps/contrib/110293467206375940427/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLgQ1rBKWdT2qlDN4TbXlOhADHy53KY5rocQHdcNedpWGmrTA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-15T20:44:03.364383414Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sV1pqRnRORmROVVdreFlubFJZVGRRYVhRMVpYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sV1pqRnRORmROVVdreFlubFJZVGRRYVhRMVpYYxAB!2m1!1s0x3442ab610f760571:0x9d669c06b8c47736"
+    },
+    {
+      "name": "places/ChIJcQV2D2GrQjQRNnfEuAacZp0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sR1ZXWTNWRlJrWjI0eVRHRndObVpxVlRsTFFuYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 3,
+      "text": {
+        "text": "偏重口味的一家店，味道都蠻濃郁的，但也可能這樣吃不多，一下子就會覺得膩了，畢竟適合多人來吃，每樣吃一點點就夠了，調味蠻特別的，是其他餐廳比較少看到，但不會覺得特別好吃或是驚艷，不會特別想回訪。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "偏重口味的一家店，味道都蠻濃郁的，但也可能這樣吃不多，一下子就會覺得膩了，畢竟適合多人來吃，每樣吃一點點就夠了，調味蠻特別的，是其他餐廳比較少看到，但不會覺得特別好吃或是驚艷，不會特別想回訪。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ming-Shiu Lin",
+        "uri": "https://www.google.com/maps/contrib/111769151972996475536/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVmjODgFQsR2ukPe-Eg9GviPujwn3_WXAP9ui5EI7kuk60k47-u=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-30T02:58:41.940271490Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sR1ZXWTNWRlJrWjI0eVRHRndObVpxVlRsTFFuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sR1ZXWTNWRlJrWjI0eVRHRndObVpxVlRsTFFuYxAB!2m1!1s0x3442ab610f760571:0x9d669c06b8c47736"
+    },
+    {
+      "name": "places/ChIJcQV2D2GrQjQRNnfEuAacZp0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wMU0wMWxVMDlIY2w4dFZtVjVRM0J4T0dOVlFVRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "禮拜五晚上來吃\n很多道菜都沒了欸\n已他線上點餐的菜單為主\n好像也只有五人套餐\n我覺得整體偏貴\n咖啡排骨蠻好吃的 酷酷的\n但可能不會想再來吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "禮拜五晚上來吃\n很多道菜都沒了欸\n已他線上點餐的菜單為主\n好像也只有五人套餐\n我覺得整體偏貴\n咖啡排骨蠻好吃的 酷酷的\n但可能不會想再來吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "CC C",
+        "uri": "https://www.google.com/maps/contrib/101599036074432502921/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJi5vA_PVuRlqj7TxUWBiquGeSXdTpbguE7mKzXpC-bSiZeNojG=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-09T15:25:05.357807108Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wMU0wMWxVMDlIY2w4dFZtVjVRM0J4T0dOVlFVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wMU0wMWxVMDlIY2w4dFZtVjVRM0J4T0dOVlFVRRAB!2m1!1s0x3442ab610f760571:0x9d669c06b8c47736"
+    }
+  ]
+}

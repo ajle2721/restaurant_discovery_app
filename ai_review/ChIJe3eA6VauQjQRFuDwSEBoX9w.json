@@ -1,0 +1,25 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "YES",
+                                  "evidence":  "是許多家長帶小孩用餐的首選地點",
+                                  "confidence":  0.6
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "由於餐廳提供兒童專屬選單（兒童餐）且空間寬敞",
+                             "confidence":  0.8
+                         },
+    "Kids menu available":  {
+                                "result":  "Yes",
+                                "evidence":  "由於餐廳提供兒童專屬選單（兒童餐）且空間寬敞",
+                                "confidence":  0.8
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Unknown",
+                               "evidence":  null,
+                               "confidence":  0.4
+                           },
+    "parent_friendly_score":  3,
+    "parent_friendly_level":  "高",
+    "reason":  "有兒童椅、有兒童餐、空間寬敞"
+}

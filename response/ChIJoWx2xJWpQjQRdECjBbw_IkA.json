@@ -1,0 +1,128 @@
+{
+  "id": "ChIJoWx2xJWpQjQRdECjBbw_IkA",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2541 6889",
+  "formattedAddress": "10491台灣臺北市中山區民權西路36-1號1樓",
+  "location": {
+    "latitude": 25.0625868,
+    "longitude": 121.52130299999999
+  },
+  "rating": 4.8,
+  "userRatingCount": 3894,
+  "displayName": {
+    "text": "美術系壽司-台北中山店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJoWx2xJWpQjQRdECjBbw_IkA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WblRVdEhMVTQ0YTNKNFJFZE5Ua3BGTUU5MFYyYxAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 5,
+      "text": {
+        "text": "一個人去用餐，一進店裡馬上有親切的店員詢問，讓I人我有很安心的感覺，而且會主動說明點餐方式、介紹自助區。而且東西很好吃！值得推薦！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一個人去用餐，一進店裡馬上有親切的店員詢問，讓I人我有很安心的感覺，而且會主動說明點餐方式、介紹自助區。而且東西很好吃！值得推薦！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Food is everything, TW.",
+        "uri": "https://www.google.com/maps/contrib/112750679412232318859/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWvDpI2sMk04eOYOhjXoHlV_OQaGj3zim4FvIC1bc2ctmTOTps=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-03-03T15:52:57.258504010Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WblRVdEhMVTQ0YTNKNFJFZE5Ua3BGTUU5MFYyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WblRVdEhMVTQ0YTNKNFJFZE5Ua3BGTUU5MFYyYxAB!2m1!1s0x3442a995c4766ca1:0x40223fbc05a34074"
+    },
+    {
+      "name": "places/ChIJoWx2xJWpQjQRdECjBbw_IkA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOR1NGVkNZVWxhVjFCUWVEaGFRemRRUVhZeWVYYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "假日晚間用餐，稍微等候店員收桌即入座，上餐速度不慢，餐點可圈可點份量也很大，但有點可惜是主餐比較沒有令人印象深刻，倒是甜點若是還吃得下推薦加點很好吃!!",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "假日晚間用餐，稍微等候店員收桌即入座，上餐速度不慢，餐點可圈可點份量也很大，但有點可惜是主餐比較沒有令人印象深刻，倒是甜點若是還吃得下推薦加點很好吃!!",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "King•kid Joyce",
+        "uri": "https://www.google.com/maps/contrib/112389522486198666199/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXbW88ElbnDeVhbn_jLtAxzuq964voGreKF1kwy0VZU89rIQ6y9Ow=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-10T01:16:09.492660767Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOR1NGVkNZVWxhVjFCUWVEaGFRemRRUVhZeWVYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOR1NGVkNZVWxhVjFCUWVEaGFRemRRUVhZeWVYYxAB!2m1!1s0x3442a995c4766ca1:0x40223fbc05a34074"
+    },
+    {
+      "name": "places/ChIJoWx2xJWpQjQRdECjBbw_IkA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0V1psWlNRWE56VTFwaWJVeElka2d0U0cxT01XYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 2,
+      "text": {
+        "text": "說實話，我很少打那麼低的分數，但真的希望送出來的餐，顧一下品質，小菜也是用現成。連問店員什麼是神的魚，連問二位都一問三不知。握壽司到顧客面前是倒的，新鮮度也有待加強，開店不容易，在用餐時段人潮那麼少，真的要再加油",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "說實話，我很少打那麼低的分數，但真的希望送出來的餐，顧一下品質，小菜也是用現成。連問店員什麼是神的魚，連問二位都一問三不知。握壽司到顧客面前是倒的，新鮮度也有待加強，開店不容易，在用餐時段人潮那麼少，真的要再加油",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "P. W.",
+        "uri": "https://www.google.com/maps/contrib/114134220815322199558/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUNRnbPOnETphHiG6v9pMpj8j5rFfgdiE0j_3CUkjh-M74tieMxgQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-14T03:43:48.674734523Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0V1psWlNRWE56VTFwaWJVeElka2d0U0cxT01XYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0V1psWlNRWE56VTFwaWJVeElka2d0U0cxT01XYxAB!2m1!1s0x3442a995c4766ca1:0x40223fbc05a34074"
+    },
+    {
+      "name": "places/ChIJoWx2xJWpQjQRdECjBbw_IkA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aTFp6ZDRWVWhGTVRkcFluSkpXV2QzTVd4dFRtYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "沒有特別覺得好好吃或不好吃\n就普普通通\n飲料可以喝到飽（飲料機、冰沙機）\n環境還算乾淨\n只是吃完身體會有一點點味道\n\n有提前訂位\n平日19點來差不多滿的",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "沒有特別覺得好好吃或不好吃\n就普普通通\n飲料可以喝到飽（飲料機、冰沙機）\n環境還算乾淨\n只是吃完身體會有一點點味道\n\n有提前訂位\n平日19點來差不多滿的",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Rui Lin",
+        "uri": "https://www.google.com/maps/contrib/112392461635890474535/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVKS4McUaY2H-SaszvW6ckztCPq47R6D1cHr1mYOy-DdZ87Zr16=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-10T04:20:10.383595835Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aTFp6ZDRWVWhGTVRkcFluSkpXV2QzTVd4dFRtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aTFp6ZDRWVWhGTVRkcFluSkpXV2QzTVd4dFRtYxAB!2m1!1s0x3442a995c4766ca1:0x40223fbc05a34074"
+    },
+    {
+      "name": "places/ChIJoWx2xJWpQjQRdECjBbw_IkA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kUE9FeE5Oa0ZYZFVkM1FWRjVibmw2TWxKMWFuYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 3,
+      "text": {
+        "text": "連鎖平價的日式料理店，店內空間舒服，有免費的飲料吧可以取用，採QRcode點餐，用餐完後去櫃檯結帳，可刷卡/Apple Pay。\n\n🥢炸牛蒡天婦羅烏龍：味增湯烏龍麵湯頭濃郁，裡面也有其他配料，炸牛蒡天婦羅不油膩，牛蒡的味道也很夠但不會多到完全蓋掉天婦羅，整個套餐都蠻不錯的。\n\n🥢鹽烤挪威鯖魚定食：鯖魚偏乾水準算中下，小菜的部分也很普通配飯吃還可以，味增湯也就基基本本，整體這個定食我不會再點，感覺算是踩到雷，不曉得其他定食會不會也是一樣的狀況。\n\n🥢綜合生魚片（定食加點）：是定食加點的比較便宜，總共有五片，每個各一種的感覺，厚度蠻厚的，魚也都很新鮮，還蠻值得加點的。\n\n🥢上選刺身盛合（8種海鮮）：算是生海鮮的綜合拼盤，食材都很新鮮好吃，厚度也蠻厚的，生魚片類型的餐點感覺都不錯，很值得點。\n\n除了鹽烤挪威鯖魚定食以外的餐點都不錯吃，若以後有機會來用餐希望不要踩到雷。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "連鎖平價的日式料理店，店內空間舒服，有免費的飲料吧可以取用，採QRcode點餐，用餐完後去櫃檯結帳，可刷卡/Apple Pay。\n\n🥢炸牛蒡天婦羅烏龍：味增湯烏龍麵湯頭濃郁，裡面也有其他配料，炸牛蒡天婦羅不油膩，牛蒡的味道也很夠但不會多到完全蓋掉天婦羅，整個套餐都蠻不錯的。\n\n🥢鹽烤挪威鯖魚定食：鯖魚偏乾水準算中下，小菜的部分也很普通配飯吃還可以，味增湯也就基基本本，整體這個定食我不會再點，感覺算是踩到雷，不曉得其他定食會不會也是一樣的狀況。\n\n🥢綜合生魚片（定食加點）：是定食加點的比較便宜，總共有五片，每個各一種的感覺，厚度蠻厚的，魚也都很新鮮，還蠻值得加點的。\n\n🥢上選刺身盛合（8種海鮮）：算是生海鮮的綜合拼盤，食材都很新鮮好吃，厚度也蠻厚的，生魚片類型的餐點感覺都不錯，很值得點。\n\n除了鹽烤挪威鯖魚定食以外的餐點都不錯吃，若以後有機會來用餐希望不要踩到雷。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Nick Yang",
+        "uri": "https://www.google.com/maps/contrib/112522168987221545310/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLuvfS-5Hr9J-NABXhW57klJuP5FsEJ8EKtIkMBdC2eRjVf9A=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-21T16:24:54.348821328Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kUE9FeE5Oa0ZYZFVkM1FWRjVibmw2TWxKMWFuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kUE9FeE5Oa0ZYZFVkM1FWRjVibmw2TWxKMWFuYxAB!2m1!1s0x3442a995c4766ca1:0x40223fbc05a34074"
+    }
+  ]
+}

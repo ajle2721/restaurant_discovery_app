@@ -1,0 +1,129 @@
+{
+  "id": "ChIJ89QkcQCtQjQR5jOCwSGoPtc",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2627 5897",
+  "formattedAddress": "114台灣臺北市內湖區內湖路一段437巷4弄4號",
+  "location": {
+    "latitude": 25.081809,
+    "longitude": 121.5720315
+  },
+  "rating": 5,
+  "websiteUri": "https://nextkitchen.tw/htbreakfast/",
+  "userRatingCount": 14,
+  "displayName": {
+    "text": "擁灣晨食所 台北內湖店 |團購早餐會議|下午茶點心|早午餐|",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ89QkcQCtQjQR5jOCwSGoPtc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OTWQyeHZlVVJQTUVsaVNVVTRaM1U0YUZWVlNWRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "又來吃了一次漢堡，這次加好加滿，變更巨大美味了🤣\n（雖然比較不健康）\n\n只能外帶😭\n漢堡麵包體不是一般早餐那種，比較像麥當勞，較細緻結實！\n\n生菜給的不少，鮪魚料普通，蛋特別好吃。\n\n手打漢堡排出格的美味又巨大！\n明顯比漢堡麵包還要厚又多汁，\n(即使我要求不加美乃滋、沒點花生醬跟培根)\n109就能吃到真的很不賴。\n\n希望晚上也能吃到它🤣好吃程度及大小，能跟附近的 認識一下漢堡 對坑了",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "又來吃了一次漢堡，這次加好加滿，變更巨大美味了🤣\n（雖然比較不健康）\n\n只能外帶😭\n漢堡麵包體不是一般早餐那種，比較像麥當勞，較細緻結實！\n\n生菜給的不少，鮪魚料普通，蛋特別好吃。\n\n手打漢堡排出格的美味又巨大！\n明顯比漢堡麵包還要厚又多汁，\n(即使我要求不加美乃滋、沒點花生醬跟培根)\n109就能吃到真的很不賴。\n\n希望晚上也能吃到它🤣好吃程度及大小，能跟附近的 認識一下漢堡 對坑了",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "H. Yuan (阿谷)",
+        "uri": "https://www.google.com/maps/contrib/106020828943422194379/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXFQ01RqLEO5Bh3_ijns7Um_dh0wHKkaIlWsJkZZA1M8PJMHeFQZA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-01-31T04:03:26.099243050Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OTWQyeHZlVVJQTUVsaVNVVTRaM1U0YUZWVlNWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OTWQyeHZlVVJQTUVsaVNVVTRaM1U0YUZWVlNWRRAB!2m1!1s0x3442ad007124d4f3:0xd73ea821c18233e6"
+    },
+    {
+      "name": "places/ChIJ89QkcQCtQjQR5jOCwSGoPtc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKeVZua3lVekZIYW5WcU0wOTZlVkF6UzNGbFVHYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "每個餐點都很好吃！還點了薯條跟熱狗也都很好吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "每個餐點都很好吃！還點了薯條跟熱狗也都很好吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "吳佳頤",
+        "uri": "https://www.google.com/maps/contrib/107588183353881275613/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZ89H0HqWywiHOebHasULvAdrNaUZv5_po0XYUe6oXidwFULRX=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-12T05:00:19.068094831Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKeVZua3lVekZIYW5WcU0wOTZlVkF6UzNGbFVHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKeVZua3lVekZIYW5WcU0wOTZlVkF6UzNGbFVHYxAB!2m1!1s0x3442ad007124d4f3:0xd73ea821c18233e6"
+    },
+    {
+      "name": "places/ChIJ89QkcQCtQjQR5jOCwSGoPtc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tRNFpqZHRVM1prZHpJMk1teGhORVE0V20xNGQyYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "之前在三峽創始店吃過\n回味無窮\n現在內湖開了分店\n品質一樣讚! 讚! 讚!\n\n首推\"手打牛肉起司堡\"\n聽老闆說 是認真手打的\n難怪鮮嫩多汁\n\n貼心提醒\n請趁熱吃 咬的時候會爆汁\n請小心食用 =)",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "之前在三峽創始店吃過\n回味無窮\n現在內湖開了分店\n品質一樣讚! 讚! 讚!\n\n首推\"手打牛肉起司堡\"\n聽老闆說 是認真手打的\n難怪鮮嫩多汁\n\n貼心提醒\n請趁熱吃 咬的時候會爆汁\n請小心食用 =)",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Bonifacio Chu",
+        "uri": "https://www.google.com/maps/contrib/109635302874197910551/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUORDX-44DlNDtIEJW-r2P7kncCCEb5_pw5qt1awrReL4mPwaIhRA=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-30T07:42:55.626399444Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tRNFpqZHRVM1prZHpJMk1teGhORVE0V20xNGQyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tRNFpqZHRVM1prZHpJMk1teGhORVE0V20xNGQyYxAB!2m1!1s0x3442ad007124d4f3:0xd73ea821c18233e6"
+    },
+    {
+      "name": "places/ChIJ89QkcQCtQjQR5jOCwSGoPtc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CSlVtNUJTV3MyZW1OVVVEbEJXVWhGVFZkWmVYYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "漢堡超好吃，價格經濟實惠用料實在👍🏼👍🏼👍🏼",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "漢堡超好吃，價格經濟實惠用料實在👍🏼👍🏼👍🏼",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "曹語諾",
+        "uri": "https://www.google.com/maps/contrib/115364414444412553964/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXsMYD-a8EgH936ntxe4DjmbBuqSjsgjxx7BtXQS-K3W-NsQrg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-28T05:00:15.422512404Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CSlVtNUJTV3MyZW1OVVVEbEJXVWhGVFZkWmVYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CSlVtNUJTV3MyZW1OVVVEbEJXVWhGVFZkWmVYYxAB!2m1!1s0x3442ad007124d4f3:0xd73ea821c18233e6"
+    },
+    {
+      "name": "places/ChIJ89QkcQCtQjQR5jOCwSGoPtc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taM1pXdEZkRVl3ZEdOT2JUbFFOVmw2VmxwWk5IYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "蠻好吃的，尤其手打牛肉堡！大推！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "蠻好吃的，尤其手打牛肉堡！大推！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "韓天",
+        "uri": "https://www.google.com/maps/contrib/106827451856522723044/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVxgQ8E0d9mt982ACaicUpyrSrAM5Cg_X04UaUGFEVxFfl13reA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-28T05:21:10.268336802Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taM1pXdEZkRVl3ZEdOT2JUbFFOVmw2VmxwWk5IYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taM1pXdEZkRVl3ZEdOT2JUbFFOVmw2VmxwWk5IYxAB!2m1!1s0x3442ad007124d4f3:0xd73ea821c18233e6"
+    }
+  ]
+}

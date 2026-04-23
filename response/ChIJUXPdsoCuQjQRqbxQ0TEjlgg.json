@@ -1,0 +1,130 @@
+{
+  "id": "ChIJUXPdsoCuQjQRqbxQ0TEjlgg",
+  "types": [
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2872 8402",
+  "formattedAddress": "111台灣臺北市士林區天母東路7號",
+  "location": {
+    "latitude": 25.118223699999998,
+    "longitude": 121.53138799999999
+  },
+  "rating": 4.2,
+  "websiteUri": "https://lin.ee/w4eE6En",
+  "userRatingCount": 2252,
+  "displayName": {
+    "text": "方家小館",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJUXPdsoCuQjQRqbxQ0TEjlgg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tweU15MXBVRk0xU1UxVE5scFNNemg2YVd0SU4zYxAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 5,
+      "text": {
+        "text": "餐點很豐盛，也很好吃！服務很好，隨時會幫你換成新盤子。適合多人包廂聚餐",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點很豐盛，也很好吃！服務很好，隨時會幫你換成新盤子。適合多人包廂聚餐",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "ChinPing Cho",
+        "uri": "https://www.google.com/maps/contrib/108679986417126714637/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVjN7I7-J2543dRoz_7lNxiNaxmXv1o7UQQCOg4-3O-ZDaj34nF=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-03-02T12:53:10.657399835Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tweU15MXBVRk0xU1UxVE5scFNNemg2YVd0SU4zYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tweU15MXBVRk0xU1UxVE5scFNNemg2YVd0SU4zYxAB!2m1!1s0x3442ae80b2dd7351:0x8962331d150bca9"
+    },
+    {
+      "name": "places/ChIJUXPdsoCuQjQRqbxQ0TEjlgg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2prdFpqWnpURTlSU1hnNE5sOWpaVGgzVVU5TlFXYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "每道菜都好好吃！跟高雄比台北的餐廳有水準很多！臭豆腐、豆腐煲、花素蒸餃都好讚！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "每道菜都好好吃！跟高雄比台北的餐廳有水準很多！臭豆腐、豆腐煲、花素蒸餃都好讚！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Julia Tsai",
+        "uri": "https://www.google.com/maps/contrib/114027897243255563214/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7KKgB8wQId-DzV8cfst5Ie9y8h79gpSrUTyRIcYtcGOCaCPLA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-26T09:00:40.391600635Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2prdFpqWnpURTlSU1hnNE5sOWpaVGgzVVU5TlFXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2prdFpqWnpURTlSU1hnNE5sOWpaVGgzVVU5TlFXYxAB!2m1!1s0x3442ae80b2dd7351:0x8962331d150bca9"
+    },
+    {
+      "name": "places/ChIJUXPdsoCuQjQRqbxQ0TEjlgg/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oeWNrSk1abDlCTjFrNVFYcDVia1ZyVkVWQlptYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "餐點的單價不便宜，但味道是不錯的，清蒸臭豆腐很美味，砂鍋醃篤鮮的湯頭真不賴，麻婆豆腐很下飯。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點的單價不便宜，但味道是不錯的，清蒸臭豆腐很美味，砂鍋醃篤鮮的湯頭真不賴，麻婆豆腐很下飯。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Mark Lin (Mark)",
+        "uri": "https://www.google.com/maps/contrib/108571089037358933336/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW_22f0800yYvqbBuaNnEf9a4fPMqRRva7JOZGTn8ijDdugvawi=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-28T08:32:10.112072422Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oeWNrSk1abDlCTjFrNVFYcDVia1ZyVkVWQlptYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oeWNrSk1abDlCTjFrNVFYcDVia1ZyVkVWQlptYxAB!2m1!1s0x3442ae80b2dd7351:0x8962331d150bca9"
+    },
+    {
+      "name": "places/ChIJUXPdsoCuQjQRqbxQ0TEjlgg/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WTVVGRkRUVTlOWTAxdmEwbFdhRmR6YldSeU4zYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "門口就有公車站，未訂位，二人11:30到店午餐立即有位，服務親切即時，上海口味偏甜，推薦炒年糕，熏魚，爻肉，清蒸臭豆腐小籠湯包中規中矩，花素蒸餃有點乾，大體來說都不錯吃。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "門口就有公車站，未訂位，二人11:30到店午餐立即有位，服務親切即時，上海口味偏甜，推薦炒年糕，熏魚，爻肉，清蒸臭豆腐小籠湯包中規中矩，花素蒸餃有點乾，大體來說都不錯吃。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jiannan Che",
+        "uri": "https://www.google.com/maps/contrib/107548616804623806988/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVkBh2S8cS8Vpt4uZqXivRdplROUVPO7B62XQvPMqfhOmqJsQPz=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-23T01:09:19.445446613Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WTVVGRkRUVTlOWTAxdmEwbFdhRmR6YldSeU4zYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WTVVGRkRUVTlOWTAxdmEwbFdhRmR6YldSeU4zYxAB!2m1!1s0x3442ae80b2dd7351:0x8962331d150bca9"
+    },
+    {
+      "name": "places/ChIJUXPdsoCuQjQRqbxQ0TEjlgg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5T2NtNXJhVWx1VlVsU1VWaFRSa2xqVlZKdk5XYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "這次用餐整體感受不錯，菜品精緻。醬蟹年糕最令人印象深刻，蟹膏濃郁飽滿，與年糕的口感相互襯托。韭黃鱔糊則在甜鹹之間取得平衡，搭配香菜後風味更加濃厚，與菜飯一起的味道一起相得益彰。不過，在份量上就稍顯不足，若食量較大可能會覺得略有遺憾。此外，帶子的口感偏鬆散，少了些緊實的彈性。就感覺存在小小遺憾，但整體而言，菜色仍展現了細緻的火候與用心",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這次用餐整體感受不錯，菜品精緻。醬蟹年糕最令人印象深刻，蟹膏濃郁飽滿，與年糕的口感相互襯托。韭黃鱔糊則在甜鹹之間取得平衡，搭配香菜後風味更加濃厚，與菜飯一起的味道一起相得益彰。不過，在份量上就稍顯不足，若食量較大可能會覺得略有遺憾。此外，帶子的口感偏鬆散，少了些緊實的彈性。就感覺存在小小遺憾，但整體而言，菜色仍展現了細緻的火候與用心",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "BoHung Liu",
+        "uri": "https://www.google.com/maps/contrib/103219838287445294951/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUnzf20KoDySrpyYssF9DYAosjUU22V1aqpdvzc3cIz6BglzjIznQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-09T12:18:48.659684430Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5T2NtNXJhVWx1VlVsU1VWaFRSa2xqVlZKdk5XYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5T2NtNXJhVWx1VlVsU1VWaFRSa2xqVlZKdk5XYxAB!2m1!1s0x3442ae80b2dd7351:0x8962331d150bca9"
+    }
+  ]
+}

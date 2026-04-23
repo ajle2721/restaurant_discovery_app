@@ -1,0 +1,128 @@
+{
+  "id": "ChIJP9NOG2yvQjQRaS3wT8t85kY",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 938 636 197",
+  "formattedAddress": "111台灣臺北市士林區福林路197號1樓",
+  "location": {
+    "latitude": 25.097145,
+    "longitude": 121.53293059999999
+  },
+  "rating": 4.7,
+  "userRatingCount": 241,
+  "displayName": {
+    "text": "John的料理/士林官邸美食/無提供化妝室",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJP9NOG2yvQjQRaS3wT8t85kY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aS09DMVJNVWxqVXpSUlkxcFdNVmcxTVV4QmNGRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "非常驚豔的小店。\n\n每一道都好吃。老滷汁做出來的各項菜色，包括滷肉飯、滷豬腳、刈包等等都很好吃。雞肉飯也令人驚奇地香，難怪生意那麼好！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "非常驚豔的小店。\n\n每一道都好吃。老滷汁做出來的各項菜色，包括滷肉飯、滷豬腳、刈包等等都很好吃。雞肉飯也令人驚奇地香，難怪生意那麼好！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "James Ku",
+        "uri": "https://www.google.com/maps/contrib/110632975569542980904/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWHbI-GU6IPl5_Mnq4nAbKmD3tvnWdu29hXHphHO4zPKVYlXbn=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-27T15:36:20.489912841Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aS09DMVJNVWxqVXpSUlkxcFdNVmcxTVV4QmNGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aS09DMVJNVWxqVXpSUlkxcFdNVmcxTVV4QmNGRRAB!2m1!1s0x3442af6c1b4ed33f:0x46e67ccb4ff02d69"
+    },
+    {
+      "name": "places/ChIJP9NOG2yvQjQRaS3wT8t85kY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25NMU5pMUNWMlZsUkRGU1ZIUTFPRnAzWTNCV1dHYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "最愛豬腳飯，很常吃，好吃😋常用ubereats會員優惠外帶自取，很方便又比現場便宜一點🤩住附近的便當店最優選擇☺️也蠻常內用，多元行動支付也超方便！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "最愛豬腳飯，很常吃，好吃😋常用ubereats會員優惠外帶自取，很方便又比現場便宜一點🤩住附近的便當店最優選擇☺️也蠻常內用，多元行動支付也超方便！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "ryne white",
+        "uri": "https://www.google.com/maps/contrib/108136940284255923507/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJTRw7ycy23oHAzeBG28E3wmwhDsjPruzbTtATWM2ZjqSuIXQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-10-22T10:16:31.101209785Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25NMU5pMUNWMlZsUkRGU1ZIUTFPRnAzWTNCV1dHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25NMU5pMUNWMlZsUkRGU1ZIUTFPRnAzWTNCV1dHYxAB!2m1!1s0x3442af6c1b4ed33f:0x46e67ccb4ff02d69"
+    },
+    {
+      "name": "places/ChIJP9NOG2yvQjQRaS3wT8t85kY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wdWFIbEpSRll5WWpOQldsQmtiM1JJWlRSUVowRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "到故宮看展，路過剛好有路邊有停車位，就進來試試看，結果店雖小但客人不少，點了雞絲飯及舒肥雞胸飯，都還不錯，尤其是舒肥雞胸肉非常棒，值得推薦一下！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "到故宮看展，路過剛好有路邊有停車位，就進來試試看，結果店雖小但客人不少，點了雞絲飯及舒肥雞胸飯，都還不錯，尤其是舒肥雞胸肉非常棒，值得推薦一下！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "萬瀾書屋",
+        "uri": "https://www.google.com/maps/contrib/117094215053703692084/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU2eyD4spzwz-XcBjTO-LbQ3_-9Kid-sUnGoEQeUxx_pH6fx8UX=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-09-11T04:02:52.285185975Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wdWFIbEpSRll5WWpOQldsQmtiM1JJWlRSUVowRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wdWFIbEpSRll5WWpOQldsQmtiM1JJWlRSUVowRRAB!2m1!1s0x3442af6c1b4ed33f:0x46e67ccb4ff02d69"
+    },
+    {
+      "name": "places/ChIJP9NOG2yvQjQRaS3wT8t85kY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKSk4wNU9iRnBrZUdWR2FqQlRRVWhZVTB0SE5IYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "店員很熱情，東西平價好吃，推刈包！\n附近有停車場",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店員很熱情，東西平價好吃，推刈包！\n附近有停車場",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "紫喜歡",
+        "uri": "https://www.google.com/maps/contrib/101439764102736671273/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXU53O9tQDe0Ee9LKIQw8HrwWbQXLNLSVBaMNamBuBJYPgoppRy=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-25T07:32:50.895809954Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKSk4wNU9iRnBrZUdWR2FqQlRRVWhZVTB0SE5IYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKSk4wNU9iRnBrZUdWR2FqQlRRVWhZVTB0SE5IYxAB!2m1!1s0x3442af6c1b4ed33f:0x46e67ccb4ff02d69"
+    },
+    {
+      "name": "places/ChIJP9NOG2yvQjQRaS3wT8t85kY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkMU5VNUNlRTFUZWpCNFJpMTFkRlJLYzBJMlpGRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "不錯吃但是飯少就是超級少\n到有點難配菜跟肉🤣\n下次知道了",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "不錯吃但是飯少就是超級少\n到有點難配菜跟肉🤣\n下次知道了",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "C",
+        "uri": "https://www.google.com/maps/contrib/114492010099655815020/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJpxso4FlzE02OWIcsFQZWmuKxsQy5YnuRZt_146BPDkqWRuw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-03T10:28:39.905486472Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkMU5VNUNlRTFUZWpCNFJpMTFkRlJLYzBJMlpGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkMU5VNUNlRTFUZWpCNFJpMTFkRlJLYzBJMlpGRRAB!2m1!1s0x3442af6c1b4ed33f:0x46e67ccb4ff02d69"
+    }
+  ]
+}

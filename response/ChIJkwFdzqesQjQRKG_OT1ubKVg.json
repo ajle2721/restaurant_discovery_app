@@ -1,0 +1,130 @@
+{
+  "id": "ChIJkwFdzqesQjQRKG_OT1ubKVg",
+  "types": [
+    "american_restaurant",
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2788 3330",
+  "formattedAddress": "115台灣臺北市南港區經貿二路166號A棟2樓",
+  "location": {
+    "latitude": 25.058387099999997,
+    "longitude": 121.6158199
+  },
+  "rating": 4.1,
+  "userRatingCount": 2822,
+  "displayName": {
+    "text": "樂子the Diner 南港店（台北南港區必吃特色早午餐 / 台北好吃聚餐餐廳推薦 / 南港展覽館lalaport附近美食／南港寵物友善）",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJkwFdzqesQjQRKG_OT1ubKVg/reviews/Ci9DQUlRQUNvZENodHljRjlvT25rdFpVMUZlSEZYV1ZCTFVWUnpORFEzTkdKSkxYYxAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 4,
+      "text": {
+        "text": "座位很多但有點擠，各桌蠻近的。食物符合想像的味道。黑咖啡不太好喝很像不太貴的飯店的早餐自助餐自取的味道。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "座位很多但有點擠，各桌蠻近的。食物符合想像的味道。黑咖啡不太好喝很像不太貴的飯店的早餐自助餐自取的味道。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lucy Huang",
+        "uri": "https://www.google.com/maps/contrib/118032830054952110500/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUGdTqHkWZxEhHbOT_NTt_I5Xsu6LfrSw8284_VXvFgDhAQQEY=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-28T13:52:13.955012292Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25rdFpVMUZlSEZYV1ZCTFVWUnpORFEzTkdKSkxYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25rdFpVMUZlSEZYV1ZCTFVWUnpORFEzTkdKSkxYYxAB!2m1!1s0x3442aca7ce5d0193:0x58299b5b4fce6f28"
+    },
+    {
+      "name": "places/ChIJkwFdzqesQjQRKG_OT1ubKVg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tadlRuYzNkV28zUVROZlFVWnNiRWRKU2psaFZtYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 3,
+      "text": {
+        "text": "自從換成瓦城經營後各方面都下降了\n1.排餐無法更換配菜內容，偏偏配菜都是我們不愛吃的\n2.雞翅的西洋芹是冷凍過的，軟軟的咬下去裡面還是凍的。跟員工反應送回廚房時廚房人員臉很臭，送回來的西洋芹一樣是冷凍過的，只是比之前好一點點～\n3. 早餐荷包蛋點半熟的，來的是全熟的；以前薯餅很好吃，現在外層很硬咬不太動而且沒有馬鈴薯的香味；番茄泥是冰的(店長解釋：不冰會壞掉）；牛肉筋很多很硬，肉沒有牛肉該有的香氣，我個人是感覺反覆凍過的肉(店長解釋：早上才進的貨，肉剛好切到邊邊筋比較多的地方）。\n4. 員工送上另一份早餐便離開，我們發現少了肉丸，反覆查了我們點的餐，找了店長問才知道是肉還沒熟，2分鐘後就補上，送餐點的員工太省話了，讓我們困惑了好一陣子。\n店長換了人，態度很好（以前的也很好！），花了很多時間聽我們提出所有的意見，也去廚房了解並回覆給我們；雖然對他們而言合理的原因讓我們有很多疑惑，但看出他很努力了。\n我認為問題是出在公司策略，不管是要控制預算還是簡化餐點變化，都忽略了最終送上桌的東西都不該扣分；樂子是10幾年的老店，有一批忠誠的顧客，口味跟品質一吃就知道；當顧客對你失望離開就不會再回來了，那就算省了預算又有什麼意義？ 平時週日1點多該是坐滿的狀態，今天看只坐了1/3是從來沒遇過的。 瓦城是不是該檢視一下自己的策略是否正確？",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "自從換成瓦城經營後各方面都下降了\n1.排餐無法更換配菜內容，偏偏配菜都是我們不愛吃的\n2.雞翅的西洋芹是冷凍過的，軟軟的咬下去裡面還是凍的。跟員工反應送回廚房時廚房人員臉很臭，送回來的西洋芹一樣是冷凍過的，只是比之前好一點點～\n3. 早餐荷包蛋點半熟的，來的是全熟的；以前薯餅很好吃，現在外層很硬咬不太動而且沒有馬鈴薯的香味；番茄泥是冰的(店長解釋：不冰會壞掉）；牛肉筋很多很硬，肉沒有牛肉該有的香氣，我個人是感覺反覆凍過的肉(店長解釋：早上才進的貨，肉剛好切到邊邊筋比較多的地方）。\n4. 員工送上另一份早餐便離開，我們發現少了肉丸，反覆查了我們點的餐，找了店長問才知道是肉還沒熟，2分鐘後就補上，送餐點的員工太省話了，讓我們困惑了好一陣子。\n店長換了人，態度很好（以前的也很好！），花了很多時間聽我們提出所有的意見，也去廚房了解並回覆給我們；雖然對他們而言合理的原因讓我們有很多疑惑，但看出他很努力了。\n我認為問題是出在公司策略，不管是要控制預算還是簡化餐點變化，都忽略了最終送上桌的東西都不該扣分；樂子是10幾年的老店，有一批忠誠的顧客，口味跟品質一吃就知道；當顧客對你失望離開就不會再回來了，那就算省了預算又有什麼意義？ 平時週日1點多該是坐滿的狀態，今天看只坐了1/3是從來沒遇過的。 瓦城是不是該檢視一下自己的策略是否正確？",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "J K",
+        "uri": "https://www.google.com/maps/contrib/118053463285137946303/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWX0S8oYsU1P4QZhWXaWnXZ-oacXnSsrtKc80lhBknnA1vur_5Wjg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-07-27T15:06:06.337449699Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tadlRuYzNkV28zUVROZlFVWnNiRWRKU2psaFZtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tadlRuYzNkV28zUVROZlFVWnNiRWRKU2psaFZtYxAB!2m1!1s0x3442aca7ce5d0193:0x58299b5b4fce6f28"
+    },
+    {
+      "name": "places/ChIJkwFdzqesQjQRKG_OT1ubKVg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOVlFtVjZlVzE2VmxCZk4zcFNVakU0WkZrMVFtYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "很適合跟朋友去聚餐的地方喝飲料吃美式跟西班牙的料理，最喜歡他們的醬料酸酸辣辣的超級無敵好吃的！飲料有酒精跟五酒精的都很好喝喔，尤其是他們的甜點超讚的啦",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很適合跟朋友去聚餐的地方喝飲料吃美式跟西班牙的料理，最喜歡他們的醬料酸酸辣辣的超級無敵好吃的！飲料有酒精跟五酒精的都很好喝喔，尤其是他們的甜點超讚的啦",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lizzie “Lzzie MI” Chang",
+        "uri": "https://www.google.com/maps/contrib/102686525412987458701/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXclbcQVeWVDglCo9H6QtIObf4Z_huBtptXJ2KNx59a0vr5BR9N=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-09-13T01:49:49.266434218Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOVlFtVjZlVzE2VmxCZk4zcFNVakU0WkZrMVFtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOVlFtVjZlVzE2VmxCZk4zcFNVakU0WkZrMVFtYxAB!2m1!1s0x3442aca7ce5d0193:0x58299b5b4fce6f28"
+    },
+    {
+      "name": "places/ChIJkwFdzqesQjQRKG_OT1ubKVg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsdlFtZGhjbkExTVc1emFFMUtjRUU0Umt0YVluYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "有早午餐的餐廳\n餐點份量對大食量食客略顯不夠\n擺盤 口味 料理到位\n微底下麵包溫度不夠\n服務人員很貼心讓獨坐的我在沙發區\n可慢慢好好的用餐",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "有早午餐的餐廳\n餐點份量對大食量食客略顯不夠\n擺盤 口味 料理到位\n微底下麵包溫度不夠\n服務人員很貼心讓獨坐的我在沙發區\n可慢慢好好的用餐",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Fish L",
+        "uri": "https://www.google.com/maps/contrib/104575136889793308954/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLqbbL6TlXrgv2po0JIYV2SyeRS7VdTgOmTrQ4gvp8RvQjDujs=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-11-09T05:50:27.054922400Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsdlFtZGhjbkExTVc1emFFMUtjRUU0Umt0YVluYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsdlFtZGhjbkExTVc1emFFMUtjRUU0Umt0YVluYxAB!2m1!1s0x3442aca7ce5d0193:0x58299b5b4fce6f28"
+    },
+    {
+      "name": "places/ChIJkwFdzqesQjQRKG_OT1ubKVg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toSlZVSlFRWEJKZUU1Sk1EZHRVakl5ZFMxTlIzYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "The carrot cake was too dry,and very artificial  flavor,very disappointed.the chicken salad with extra avocado was a good choice. Service was friendly.\n*雞肉沙拉多加一份酪梨，非常美滿\n*紅蘿蔔蛋糕實在太乾了，沒有該有的口感外，糖霜也太人工味了，讓繫繫念念要點這甜品的熱情全澆熄了...\n*服務人員的態度很友善~~",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "The carrot cake was too dry,and very artificial  flavor,very disappointed.the chicken salad with extra avocado was a good choice. Service was friendly.\n*雞肉沙拉多加一份酪梨，非常美滿\n*紅蘿蔔蛋糕實在太乾了，沒有該有的口感外，糖霜也太人工味了，讓繫繫念念要點這甜品的熱情全澆熄了...\n*服務人員的態度很友善~~",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Fion Chen",
+        "uri": "https://www.google.com/maps/contrib/111823874984570968749/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXsycVssvLw6egpFyrqTP6pkVnOyR8h3_Zf_S2snWKbOoAwxMyK_g=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-10-23T06:26:23.355080889Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toSlZVSlFRWEJKZUU1Sk1EZHRVakl5ZFMxTlIzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toSlZVSlFRWEJKZUU1Sk1EZHRVakl5ZFMxTlIzYxAB!2m1!1s0x3442aca7ce5d0193:0x58299b5b4fce6f28"
+    }
+  ]
+}

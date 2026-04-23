@@ -1,0 +1,129 @@
+{
+  "id": "ChIJO0Um2CmqQjQR1K5YldZ8Ibw",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2736 1000",
+  "formattedAddress": "106台灣臺北市大安區和平東路二段118巷38-1號",
+  "location": {
+    "latitude": 25.0231064,
+    "longitude": 121.5427824
+  },
+  "rating": 4.7,
+  "websiteUri": "https://www.facebook.com/onewaycafeshop/",
+  "userRatingCount": 892,
+  "displayName": {
+    "text": "Oneway CAFE玩味咖啡",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJO0Um2CmqQjQR1K5YldZ8Ibw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wNldra3pjV1JSU1RaTE5HaDZTMDlrWDNWbWMxRRAB",
+      "relativePublishTimeDescription": "1 週前",
+      "rating": 5,
+      "text": {
+        "text": "好久沒回來118巷了，這次運動完來回味大學時候的午餐時光，發現這家咖啡店很有文青風格義大利麵軟硬適中，很喜歡。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "好久沒回來118巷了，這次運動完來回味大學時候的午餐時光，發現這家咖啡店很有文青風格義大利麵軟硬適中，很喜歡。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "HW C",
+        "uri": "https://www.google.com/maps/contrib/118431040930180418083/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIL_4gH9U-I6NcbZHbMfKlUvoG40WunlXJT9WGO6kvaFib3hw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-13T08:53:51.993975155Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wNldra3pjV1JSU1RaTE5HaDZTMDlrWDNWbWMxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wNldra3pjV1JSU1RaTE5HaDZTMDlrWDNWbWMxRRAB!2m1!1s0x3442aa29d826453b:0xbc217cd69558aed4"
+    },
+    {
+      "name": "places/ChIJO0Um2CmqQjQR1K5YldZ8Ibw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sb2MxVnFaekF3TFVkSU1HWTBaamhOYlVNMldIYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "海鮮披薩很好吃，皮很脆而且起司很厚。芒果冰沙很綿密而且不會過甜，第一次來光顧就覺得體驗很好，之後還會再來。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "海鮮披薩很好吃，皮很脆而且起司很厚。芒果冰沙很綿密而且不會過甜，第一次來光顧就覺得體驗很好，之後還會再來。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黎芷妍",
+        "uri": "https://www.google.com/maps/contrib/109925528624721662674/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVlAtXNpmuRrK6Bpa_HEZqXoF826EHlUMagaAbCQkHe_OpFtDxH=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-28T10:25:11.412807199Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sb2MxVnFaekF3TFVkSU1HWTBaamhOYlVNMldIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sb2MxVnFaekF3TFVkSU1HWTBaamhOYlVNMldIYxAB!2m1!1s0x3442aa29d826453b:0xbc217cd69558aed4"
+    },
+    {
+      "name": "places/ChIJO0Um2CmqQjQR1K5YldZ8Ibw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOWFZXY3RNSGRWYldGTlpuRkRabVpyYzNGTmJGRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "很溫馨的咖啡廳！😍 空堂很適合來休息\n松阪豬咖哩飯每次必點，真的很香～\n還有可愛的鸚鵡！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很溫馨的咖啡廳！😍 空堂很適合來休息\n松阪豬咖哩飯每次必點，真的很香～\n還有可愛的鸚鵡！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "吳宛榆",
+        "uri": "https://www.google.com/maps/contrib/108207252812647734252/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVlpRZZXuz8dZqAIIiT0FXAQns_0O4LWXCtCOxlRhtwgRXTP3hM=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-09-22T04:47:25.435577578Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOWFZXY3RNSGRWYldGTlpuRkRabVpyYzNGTmJGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOWFZXY3RNSGRWYldGTlpuRkRabVpyYzNGTmJGRRAB!2m1!1s0x3442aa29d826453b:0xbc217cd69558aed4"
+    },
+    {
+      "name": "places/ChIJO0Um2CmqQjQR1K5YldZ8Ibw/reviews/Ci9DQUlRQUNvZENodHljRjlvT205bU0yMW5VVWgyUlU4eFVGWkthV2RuV0VWS2VFRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "可以聽到鳥叫的咖啡店，飲料餐點平價卻飽足好吃～帕尼尼的麵包很讚！座位不多但推薦來看看！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "可以聽到鳥叫的咖啡店，飲料餐點平價卻飽足好吃～帕尼尼的麵包很讚！座位不多但推薦來看看！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "許家嘉（Gaga）",
+        "uri": "https://www.google.com/maps/contrib/109919648875714532481/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWyt01_LX4i4IpSqqljq-lXBngd0xEDONm-CxNJwDgCDF1iUvsS=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-12-25T12:05:23.087393234Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205bU0yMW5VVWgyUlU4eFVGWkthV2RuV0VWS2VFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205bU0yMW5VVWgyUlU4eFVGWkthV2RuV0VWS2VFRRAB!2m1!1s0x3442aa29d826453b:0xbc217cd69558aed4"
+    },
+    {
+      "name": "places/ChIJO0Um2CmqQjQR1K5YldZ8Ibw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kTVNYZGhWRk5tVkZkcmVGSm1RVmxvT1dWUldVRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "平價、口味不錯、用餐環境還不錯的小店\n\n商業午餐$130: 雞肉義大利麵+奶茶（可做無糖），沒有什麼好嫌的",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "平價、口味不錯、用餐環境還不錯的小店\n\n商業午餐$130: 雞肉義大利麵+奶茶（可做無糖），沒有什麼好嫌的",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林駿汗",
+        "uri": "https://www.google.com/maps/contrib/117074650012422790763/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW_44bUuZYqb4gvQHcODo946DEWdUE-MOcRKr2T-m4tFmLnaeDW4Q=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-08T04:23:07.059236147Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kTVNYZGhWRk5tVkZkcmVGSm1RVmxvT1dWUldVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kTVNYZGhWRk5tVkZkcmVGSm1RVmxvT1dWUldVRRAB!2m1!1s0x3442aa29d826453b:0xbc217cd69558aed4"
+    }
+  ]
+}

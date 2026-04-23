@@ -1,0 +1,129 @@
+{
+  "id": "ChIJtfVyH3SqQjQRdkK2ogdqv04",
+  "types": [
+    "steak_house",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 8661 9422",
+  "formattedAddress": "116台灣臺北市文山區木柵路三段48巷1弄3號",
+  "location": {
+    "latitude": 24.987759999999998,
+    "longitude": 121.56529180000001
+  },
+  "rating": 4.4,
+  "userRatingCount": 391,
+  "displayName": {
+    "text": "紅牛屋",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJtfVyH3SqQjQRdkK2ogdqv04/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s0NWRWQlhia3huY0VkemJrMWhORFJrZDFaM09XYxAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 5,
+      "text": {
+        "text": "今年過年期間帶家人去用餐，很好的用餐氛圍，是我喜歡的舊式風格餐廳，我們點了兩份牛排和一份羊排主餐，口味和肉品熟程度不錯，沒有過多調味很好，現場製作的沙拉非常棒，價格也不會貴到嚇人，值得去品嚐看看的店家。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今年過年期間帶家人去用餐，很好的用餐氛圍，是我喜歡的舊式風格餐廳，我們點了兩份牛排和一份羊排主餐，口味和肉品熟程度不錯，沒有過多調味很好，現場製作的沙拉非常棒，價格也不會貴到嚇人，值得去品嚐看看的店家。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "周大衛",
+        "uri": "https://www.google.com/maps/contrib/110536750674350765066/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVy5WnP3hiAXi6TvHRifI0cgk3bQsGbtspDsOmgmzJ14xexwbZg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-24T01:22:33.412442918Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s0NWRWQlhia3huY0VkemJrMWhORFJrZDFaM09XYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s0NWRWQlhia3huY0VkemJrMWhORFJrZDFaM09XYxAB!2m1!1s0x3442aa741f72f5b5:0x4ebf6a07a2b64276"
+    },
+    {
+      "name": "places/ChIJtfVyH3SqQjQRdkK2ogdqv04/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tZelgyZEtkRGM1U0hoNlYxUllObTU1UVZneVIyYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "法式料理、牛排真的很好吃..環境清幽、主廚以前是國宴主廚非常厲害。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "法式料理、牛排真的很好吃..環境清幽、主廚以前是國宴主廚非常厲害。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "羅景文",
+        "uri": "https://www.google.com/maps/contrib/115654535038601928364/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWS_ZRg2JyxWoNek0rcFMqdkVFG8bwvg2IJfv77srCIFsTo7wOy=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-09-15T06:08:14.160777612Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tZelgyZEtkRGM1U0hoNlYxUllObTU1UVZneVIyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tZelgyZEtkRGM1U0hoNlYxUllObTU1UVZneVIyYxAB!2m1!1s0x3442aa741f72f5b5:0x4ebf6a07a2b64276"
+    },
+    {
+      "name": "places/ChIJtfVyH3SqQjQRdkK2ogdqv04/reviews/ChdDSUhNMG9nS0VJQ0FnTUNZM3JpcTBRRRAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 5,
+      "text": {
+        "text": "N訪多次\n家人聚餐、公司尾牙、好友慶生等\n都會想起這家陪伴多年的法式餐廳\n老闆熱情風趣\n桌邊料理時會訴說著以前的經歷\n當場製作的凱撒沙拉醬非常新鮮美味\n與一般餐廳不同\n蔬菜棒沾藍莓沙拉醬可解膩\n法式麵包烤得皮脆內軟塗上奶油更順口\n愈嚼愈香的麵包體非常有咬勁\n吃過牛排、魚排、龍蝦\n對和羊排印象最深完全沒有羊騷味\n搭配薄荷醬可提升肉質的甜味\n桌上的煤油燈也是特色之一\n將用餐的環境點綴得更溫馨舒適\n推薦給想要為自己家人朋友\n留下美好用餐經驗的大家",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "N訪多次\n家人聚餐、公司尾牙、好友慶生等\n都會想起這家陪伴多年的法式餐廳\n老闆熱情風趣\n桌邊料理時會訴說著以前的經歷\n當場製作的凱撒沙拉醬非常新鮮美味\n與一般餐廳不同\n蔬菜棒沾藍莓沙拉醬可解膩\n法式麵包烤得皮脆內軟塗上奶油更順口\n愈嚼愈香的麵包體非常有咬勁\n吃過牛排、魚排、龍蝦\n對和羊排印象最深完全沒有羊騷味\n搭配薄荷醬可提升肉質的甜味\n桌上的煤油燈也是特色之一\n將用餐的環境點綴得更溫馨舒適\n推薦給想要為自己家人朋友\n留下美好用餐經驗的大家",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Kelly Huang",
+        "uri": "https://www.google.com/maps/contrib/104200142886511944907/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXu7MNnSA18JDvcXzwImDuLJVLpjvGebWb_Xhp_8oB55GjHWeyNyA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-05-04T14:19:42.429867Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNZM3JpcTBRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNZM3JpcTBRRRAB!2m1!1s0x3442aa741f72f5b5:0x4ebf6a07a2b64276"
+    },
+    {
+      "name": "places/ChIJtfVyH3SqQjQRdkK2ogdqv04/reviews/ChZDSUhNMG9nS0VNUENfN3E3dVlxR2Z3EAE",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 5,
+      "text": {
+        "text": "可惜只能評5顆星，不然我要給10顆星了！\n桌邊菜單很有特色，凱撒沙拉很好吃，主廚很幽默，是個很棒的餐廳",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "可惜只能評5顆星，不然我要給10顆星了！\n桌邊菜單很有特色，凱撒沙拉很好吃，主廚很幽默，是個很棒的餐廳",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Vanessa",
+        "uri": "https://www.google.com/maps/contrib/106259444441029157908/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVfHMMj-gO94gN5XN2uAbeWc9QrpjwMRDMXf7P50qJyD7_R9nU4ew=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-05-09T20:08:49.586972Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VNUENfN3E3dVlxR2Z3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VNUENfN3E3dVlxR2Z3EAE!2m1!1s0x3442aa741f72f5b5:0x4ebf6a07a2b64276"
+    },
+    {
+      "name": "places/ChIJtfVyH3SqQjQRdkK2ogdqv04/reviews/ChdDSUhNMG9nS0VJQ0FnTURvbWFuaWxBRRAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 5,
+      "text": {
+        "text": "搬來木柵4年多，一直想找機會嘗試！\n今天吃了果然名不虛傳，食物非常好吃，搭配著具有年代的裝潢，相當有氣氛。\n松露菲力牛排是有桌邊料理的，凱薩沙拉醬也是於桌邊現做，很用心且吃得出師父精湛手藝。是非常值得再訪的寶藏牛排館。推薦！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "搬來木柵4年多，一直想找機會嘗試！\n今天吃了果然名不虛傳，食物非常好吃，搭配著具有年代的裝潢，相當有氣氛。\n松露菲力牛排是有桌邊料理的，凱薩沙拉醬也是於桌邊現做，很用心且吃得出師父精湛手藝。是非常值得再訪的寶藏牛排館。推薦！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "TAI CHEN GUO",
+        "uri": "https://www.google.com/maps/contrib/101521715835600495422/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLDoPHPGGlVettvBk8ClxbyQiRfQ1S9Lw6Ep8_P5rupATLgJw=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-04-26T12:59:25.163106Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvbWFuaWxBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvbWFuaWxBRRAB!2m1!1s0x3442aa741f72f5b5:0x4ebf6a07a2b64276"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "ChIJO16aXm-pQjQR5OsC7hn8zKo",
+  "types": [
+    "taiwanese_restaurant",
+    "seafood_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2521 3200",
+  "formattedAddress": "10443台灣臺北市中山區林森北路107巷1號",
+  "location": {
+    "latitude": 25.0503769,
+    "longitude": 121.52524309999998
+  },
+  "rating": 4.5,
+  "websiteUri": "https://www.umeko.com.tw/",
+  "userRatingCount": 1990,
+  "displayName": {
+    "text": "梅子台灣料理餐廳 林森老店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJO16aXm-pQjQR5OsC7hn8zKo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxVmVqRkdPWEJyVlhwT1QzVlNPSEZSZUZCR2QzYxAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 4,
+      "text": {
+        "text": "為紅蟳米糕專程來，結果有些失望，蟹肉偏乾，蟹黃乾硬得不得了，那墊底的飯也沒有什麼蟹味。不會再點。其他菜色都很好！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "為紅蟳米糕專程來，結果有些失望，蟹肉偏乾，蟹黃乾硬得不得了，那墊底的飯也沒有什麼蟹味。不會再點。其他菜色都很好！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Andy Sun",
+        "uri": "https://www.google.com/maps/contrib/111039377503433559291/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWDRjLUOwjJR3w67neJpBwCTy_-zm01NKA18w5ryjZMnRIzWm7s=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-03-02T09:24:46.824563518Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxVmVqRkdPWEJyVlhwT1QzVlNPSEZSZUZCR2QzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxVmVqRkdPWEJyVlhwT1QzVlNPSEZSZUZCR2QzYxAB!2m1!1s0x3442a96f5e9a5e3b:0xaaccfc19ee02ebe4"
+    },
+    {
+      "name": "places/ChIJO16aXm-pQjQR5OsC7hn8zKo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxdVMwSm5URFpLVkcxUlUxWXlPRFZWY2pacVJXYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "🍽️ 兩個人掃光四道菜，大滿足！台北老字號「梅子餐廳」二次探店，依舊令人驚豔。\n🦀 紅蟳米糕：蟹黃飽滿，油飯香足。\n🦪 蔭汁蚵：蚵仔飽滿爆汁，鮮甜入味。\n🐖 煎豬肝：火候絕妙，軟嫩顛覆想像。\n🐟 烤鰻魚：食材新鮮，肉質滑溜。\n\n有幸遇見老闆娘梅子女士，親切互動中盡顯對菜品的堅持，體驗滿分。在台北，我也曾探訪過一些名聲在外的台菜餐廳，如山海樓、米香等。它們固然優秀，但唯有梅子餐廳，讓我有「每次來台北都想再訪」的強烈念想🤭🤭",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "🍽️ 兩個人掃光四道菜，大滿足！台北老字號「梅子餐廳」二次探店，依舊令人驚豔。\n🦀 紅蟳米糕：蟹黃飽滿，油飯香足。\n🦪 蔭汁蚵：蚵仔飽滿爆汁，鮮甜入味。\n🐖 煎豬肝：火候絕妙，軟嫩顛覆想像。\n🐟 烤鰻魚：食材新鮮，肉質滑溜。\n\n有幸遇見老闆娘梅子女士，親切互動中盡顯對菜品的堅持，體驗滿分。在台北，我也曾探訪過一些名聲在外的台菜餐廳，如山海樓、米香等。它們固然優秀，但唯有梅子餐廳，讓我有「每次來台北都想再訪」的強烈念想🤭🤭",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Eightsister888",
+        "uri": "https://www.google.com/maps/contrib/100344529557573516254/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLm9yjm2ekCx_VzIAGpCjLSBiumC5ZqiD7BlSXLR_9JfpwD2A=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-12-16T16:13:40.894400472Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxdVMwSm5URFpLVkcxUlUxWXlPRFZWY2pacVJXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxdVMwSm5URFpLVkcxUlUxWXlPRFZWY2pacVJXYxAB!2m1!1s0x3442a96f5e9a5e3b:0xaaccfc19ee02ebe4"
+    },
+    {
+      "name": "places/ChIJO16aXm-pQjQR5OsC7hn8zKo/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xT1UzWTRaRk5sUTJZeFJVbHNPVlp2YzJkRVEyYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點非常的好吃，服務也非常的細心。還有會幫忙拍照的服務員（雖然不知道拍的好不好，但蠻會帶氣氛的。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點非常的好吃，服務也非常的細心。還有會幫忙拍照的服務員（雖然不知道拍的好不好，但蠻會帶氣氛的。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "jean",
+        "uri": "https://www.google.com/maps/contrib/114222839792405178245/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLkxFZhhGO0PWEcao4DLp53gqVZ-QD8Ed0wq2Fmzi7jYuf1VA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-13T13:02:14.408467599Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xT1UzWTRaRk5sUTJZeFJVbHNPVlp2YzJkRVEyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xT1UzWTRaRk5sUTJZeFJVbHNPVlp2YzJkRVEyYxAB!2m1!1s0x3442a96f5e9a5e3b:0xaaccfc19ee02ebe4"
+    },
+    {
+      "name": "places/ChIJO16aXm-pQjQR5OsC7hn8zKo/reviews/Ci9DQUlRQUNvZENodHljRjlvT213eU5VWjVlRWR5VGtoMlQxcHFTRTE0UjJWUWMxRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "如點評饕客一樣感受，能感受餐點很用心製作！\n雖然今天一開始上菜速度慢了點，導致用餐有些空窗等待，單吃絲瓜和炒茄子有點鹹，也一直等不得點餐炒飯一起配…有點扣分。\n\n但隨著每道上菜和細心分菜服務，招待家人吃的很開心和滿意！\n\n很推薦：紅蟳米糕、炒豬肝、糖醋排骨、脆皮雞、苦瓜鳳梨雞湯、杏仁豆腐\n\n值得一吃！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "如點評饕客一樣感受，能感受餐點很用心製作！\n雖然今天一開始上菜速度慢了點，導致用餐有些空窗等待，單吃絲瓜和炒茄子有點鹹，也一直等不得點餐炒飯一起配…有點扣分。\n\n但隨著每道上菜和細心分菜服務，招待家人吃的很開心和滿意！\n\n很推薦：紅蟳米糕、炒豬肝、糖醋排骨、脆皮雞、苦瓜鳳梨雞湯、杏仁豆腐\n\n值得一吃！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Sherry",
+        "uri": "https://www.google.com/maps/contrib/116083507876599105753/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV819GmfdkvF8DFpPT-B2K0WM0iTVS_-1dvWU_0T3kP0pvuCtY=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-14T15:57:55.060585080Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT213eU5VWjVlRWR5VGtoMlQxcHFTRTE0UjJWUWMxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT213eU5VWjVlRWR5VGtoMlQxcHFTRTE0UjJWUWMxRRAB!2m1!1s0x3442a96f5e9a5e3b:0xaaccfc19ee02ebe4"
+    },
+    {
+      "name": "places/ChIJO16aXm-pQjQR5OsC7hn8zKo/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xcGIzZE9Za3RSWlhWaU5rSkpiMDFqUjJSV01VRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "整體位置都偏擠，裝潢應該是有些許翻新過（不然就是真的保存的很好）但真的很可惜桌椅沒有配合場地做起來不會不舒服，但擺放的位置偶爾會讓人尷尬。\n煎豬肝應該是招牌，切的薄片，還是很嫩\n白切雞（雞胸）有幾塊還是比較乾，可惜了～附的酸菜個人是不覺得搭，真的很像牛肉麵會出現的酸菜。\n炒空心菜，非常好吃！鹹度適中、很清脆；但因為青菜類選項較少，平常不會點空心菜的我也算因禍得福了\n炒飯，好濕，但我竟然蠻喜歡的；炒類的調味都很好\n芝麻排骨，肉有嫩也有嚼勁的地方，但都不會乾，調味也很好（不過真的很像沒那麼甜的烤魷魚的醬）\n服務都很主動，也親切；但金額是真的偏高\n真的非常多外國人來吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "整體位置都偏擠，裝潢應該是有些許翻新過（不然就是真的保存的很好）但真的很可惜桌椅沒有配合場地做起來不會不舒服，但擺放的位置偶爾會讓人尷尬。\n煎豬肝應該是招牌，切的薄片，還是很嫩\n白切雞（雞胸）有幾塊還是比較乾，可惜了～附的酸菜個人是不覺得搭，真的很像牛肉麵會出現的酸菜。\n炒空心菜，非常好吃！鹹度適中、很清脆；但因為青菜類選項較少，平常不會點空心菜的我也算因禍得福了\n炒飯，好濕，但我竟然蠻喜歡的；炒類的調味都很好\n芝麻排骨，肉有嫩也有嚼勁的地方，但都不會乾，調味也很好（不過真的很像沒那麼甜的烤魷魚的醬）\n服務都很主動，也親切；但金額是真的偏高\n真的非常多外國人來吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Abby Hu",
+        "uri": "https://www.google.com/maps/contrib/113287878106464678418/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLr7Dii448vM2ebxEg4v2tt507FBPtvzOQCL5ce9qkBq3jGgA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-08T04:19:20.846803858Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xcGIzZE9Za3RSWlhWaU5rSkpiMDFqUjJSV01VRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xcGIzZE9Za3RSWlhWaU5rSkpiMDFqUjJSV01VRRAB!2m1!1s0x3442a96f5e9a5e3b:0xaaccfc19ee02ebe4"
+    }
+  ]
+}

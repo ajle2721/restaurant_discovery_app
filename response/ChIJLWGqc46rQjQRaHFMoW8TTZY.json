@@ -1,0 +1,110 @@
+{
+  "id": "ChIJLWGqc46rQjQRaHFMoW8TTZY",
+  "types": [
+    "taiwanese_restaurant",
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 8787 8820",
+  "formattedAddress": "105台灣臺北市松山區民生東路五段258號",
+  "location": {
+    "latitude": 25.0588791,
+    "longitude": 121.5670791
+  },
+  "rating": 4.3,
+  "websiteUri": "https://www.facebook.com/Master.Restaurant/",
+  "userRatingCount": 345,
+  "displayName": {
+    "text": "大師廚館",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJLWGqc46rQjQRaHFMoW8TTZY/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBN2RMQ2xBRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "蠻好吃的，價格也不貴，不過感覺店家人手不足，所以上菜和送菜菜單都相對比較慢，\n另外建議店家可以在廁所裡面放一個掛勾，脫個外套卻沒有地方掛，蠻麻煩的",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "蠻好吃的，價格也不貴，不過感覺店家人手不足，所以上菜和送菜菜單都相對比較慢，\n另外建議店家可以在廁所裡面放一個掛勾，脫個外套卻沒有地方掛，蠻麻煩的",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "C Rabbit",
+        "uri": "https://www.google.com/maps/contrib/109378272226630562206/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIrj41e2YeWvOVkDB0p-36Suee_0RK8hxUSxT0fEZuwJv7cnQ=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-02-03T08:11:04.978757Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBN2RMQ2xBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBN2RMQ2xBRRAB!2m1!1s0x3442ab8e73aa612d:0x964d136fa14c7168"
+    },
+    {
+      "name": "places/ChIJLWGqc46rQjQRaHFMoW8TTZY/reviews/ChdDSUhNMG9nS0VJQ0FnSURyMEtQRGpRRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "民生社區的老店之一，從原本巷子搬到大馬路上的店面，手藝依舊，主要以家常料理為主。\n炒菜類都是常見的菜色，我們點了青菜、金莎軟絲、三杯鳳腿、糖醋排骨等。\n炒高麗菜、空心菜的火候掌握很好，算是青菜類的好選擇。金莎軟絲個人覺得過鹹，即便配飯吃還是蠻鹹的；糖醋排骨還不賴，酸甜好滋味；海瓜子也不會過老，鮮度剛剛好；三杯鳳腿就是青蛙腿做出三杯料理，其實跟雞肉差不多；客家小炒個人覺得有點雷，口味太重鹹，這樣就不像是客家料理了。豆腐煲和茭白筍算是中規中矩。\n整體來說，用餐環境很不錯，不過點菜速度頗慢，菜色選擇多，可以挑選自己喜歡的家常料理。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "民生社區的老店之一，從原本巷子搬到大馬路上的店面，手藝依舊，主要以家常料理為主。\n炒菜類都是常見的菜色，我們點了青菜、金莎軟絲、三杯鳳腿、糖醋排骨等。\n炒高麗菜、空心菜的火候掌握很好，算是青菜類的好選擇。金莎軟絲個人覺得過鹹，即便配飯吃還是蠻鹹的；糖醋排骨還不賴，酸甜好滋味；海瓜子也不會過老，鮮度剛剛好；三杯鳳腿就是青蛙腿做出三杯料理，其實跟雞肉差不多；客家小炒個人覺得有點雷，口味太重鹹，這樣就不像是客家料理了。豆腐煲和茭白筍算是中規中矩。\n整體來說，用餐環境很不錯，不過點菜速度頗慢，菜色選擇多，可以挑選自己喜歡的家常料理。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Allen Chien",
+        "uri": "https://www.google.com/maps/contrib/108256479781760994112/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXiCdrn-2B1Rg9s-OyEUHv0eo_RGvMeC5ll6mqhW-i8N8xME0y2=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2024-07-14T06:44:15.620732Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURyMEtQRGpRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURyMEtQRGpRRRAB!2m1!1s0x3442ab8e73aa612d:0x964d136fa14c7168"
+    },
+    {
+      "name": "places/ChIJLWGqc46rQjQRaHFMoW8TTZY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kTVVFUmpkV3hVTURRMWJrUTRjblpJY0RsSU4wRRAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 5,
+      "text": {
+        "text": "菜餚道地，我吃比較清淡，所以會覺得口味偏重，但還是好吃😋 老闆人很好，便當也好吃：）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "菜餚道地，我吃比較清淡，所以會覺得口味偏重，但還是好吃😋 老闆人很好，便當也好吃：）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chen Esther",
+        "uri": "https://www.google.com/maps/contrib/101742411910304300620/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVTJn92oasUS96lJGGTBNiAcLmULHgjSQDZgfgpPntPDdHBYEU=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-26T14:36:24.658426766Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kTVVFUmpkV3hVTURRMWJrUTRjblpJY0RsSU4wRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kTVVFUmpkV3hVTURRMWJrUTRjblpJY0RsSU4wRRAB!2m1!1s0x3442ab8e73aa612d:0x964d136fa14c7168"
+    },
+    {
+      "name": "places/ChIJLWGqc46rQjQRaHFMoW8TTZY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wcFNtcG9ZVXB1WDNOMmJuaFpVa3A1Tm5weGVVRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "大家酒酣耳熱好不熱鬧，菜色有記憶點，很下飯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "大家酒酣耳熱好不熱鬧，菜色有記憶點，很下飯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Edward Lee",
+        "uri": "https://www.google.com/maps/contrib/106438972386206125851/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKpNwoXsYABqG9aeHjnpBLyhpi4hS4Yk8a_HUWUHX1WDauZZMp5=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-07-12T11:44:06.837162153Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wcFNtcG9ZVXB1WDNOMmJuaFpVa3A1Tm5weGVVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wcFNtcG9ZVXB1WDNOMmJuaFpVa3A1Tm5weGVVRRAB!2m1!1s0x3442ab8e73aa612d:0x964d136fa14c7168"
+    }
+  ]
+}

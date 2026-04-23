@@ -1,0 +1,25 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "UNKNOWN",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "餐廳空間寬敞明亮，座位舒適...場地寬廣",
+                             "confidence":  1.0
+                         },
+    "Kids menu available":  {
+                                "result":  "Yes",
+                                "evidence":  "旁邊展示櫃有可愛的角落生物公仔...女生或親子客應該會喜歡",
+                                "confidence":  0.8
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "經常光顧的連鎖日式家庭餐廳...裝潢是偏美式復古的家庭餐廳風格",
+                               "confidence":  1.0
+                           },
+    "parent_friendly_score":  3,
+    "parent_friendly_level":  "高",
+    "reason":  "有兒童餐、空間寬敞、不怕小孩吵"
+}

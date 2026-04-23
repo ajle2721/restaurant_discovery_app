@@ -1,0 +1,129 @@
+{
+  "id": "ChIJeVR5KY6pQjQREwN2iYFlJn4",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2308 9162",
+  "formattedAddress": "108台灣臺北市萬華區梧州街6號1樓",
+  "location": {
+    "latitude": 25.0381073,
+    "longitude": 121.497569
+  },
+  "rating": 4.7,
+  "websiteUri": "https://www.facebook.com/mecocute2/posts/pfbid032zzwCRTWhxsLdCSmBLg4h1vCXQBHuGsscNSZBoTuhebzN5Bh7seQUr4m4YZRynVGl",
+  "userRatingCount": 263,
+  "displayName": {
+    "text": "潮麵堂 花椒牛肉麵",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJeVR5KY6pQjQREwN2iYFlJn4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwMGRHeGtlR1pYV2xkeVVsaENaWEZOUVVNd1YxRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "基本上紅燒也是花椒口味，我個人吃微辣，但這裡微辣還是很夠味喔。\n肉似乎還有煎過，會有微微的焦面，我覺得挺好的；蘿蔔、牛筋也都滷的很軟很透。\n除了地點外，我個人覺得各方面都很好，相當推薦。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "基本上紅燒也是花椒口味，我個人吃微辣，但這裡微辣還是很夠味喔。\n肉似乎還有煎過，會有微微的焦面，我覺得挺好的；蘿蔔、牛筋也都滷的很軟很透。\n除了地點外，我個人覺得各方面都很好，相當推薦。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "鎖螺絲",
+        "uri": "https://www.google.com/maps/contrib/113823771172148390236/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL5npdM8TxYkKaZD3wj_oUxDdlFgteKlc9zDglZmSg8rD_Bbw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-18T23:55:10.710720745Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwMGRHeGtlR1pYV2xkeVVsaENaWEZOUVVNd1YxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwMGRHeGtlR1pYV2xkeVVsaENaWEZOUVVNd1YxRRAB!2m1!1s0x3442a98e29795479:0x7e26658189760313"
+    },
+    {
+      "name": "places/ChIJeVR5KY6pQjQREwN2iYFlJn4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWWmVWaGZja1JrTFdWSllUUmlZak5NYmpJeldIYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "價位適中\n\n花椒牛肉麵 真的大推，先喝口湯 就很滿意，後面幾口麵一口湯超搭，完全不死鹹 大推，裡面的蘿蔔也悶的爛透 好吃😋",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "價位適中\n\n花椒牛肉麵 真的大推，先喝口湯 就很滿意，後面幾口麵一口湯超搭，完全不死鹹 大推，裡面的蘿蔔也悶的爛透 好吃😋",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張瑞業",
+        "uri": "https://www.google.com/maps/contrib/100997765608964214995/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL2kegI_1DJkoQ4m--W-fn-wVo1KEZqqrr7rywa94H_npzXYQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-10-31T12:13:41.778895458Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWWmVWaGZja1JrTFdWSllUUmlZak5NYmpJeldIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWWmVWaGZja1JrTFdWSllUUmlZak5NYmpJeldIYxAB!2m1!1s0x3442a98e29795479:0x7e26658189760313"
+    },
+    {
+      "name": "places/ChIJeVR5KY6pQjQREwN2iYFlJn4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OWVZIVkVNa1YyTUdkUlpUaHRjbTltTWs5b1MyYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "湯頭有3種，喜歡花椒香必推，牛肉頗具水準",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "湯頭有3種，喜歡花椒香必推，牛肉頗具水準",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "郭紋卉",
+        "uri": "https://www.google.com/maps/contrib/115907183016915312755/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIdH2m_VpnPqST0yRyZjsGpwt7r4uNGE71IXNDe3QzB2u_p0Q=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-10-26T11:59:08.255693216Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OWVZIVkVNa1YyTUdkUlpUaHRjbTltTWs5b1MyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OWVZIVkVNa1YyTUdkUlpUaHRjbTltTWs5b1MyYxAB!2m1!1s0x3442a98e29795479:0x7e26658189760313"
+    },
+    {
+      "name": "places/ChIJeVR5KY6pQjQREwN2iYFlJn4/reviews/ChZDSUhNMG9nS0VKcS11Tk9KOEpfZk13EAE",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "別單看價錢 像貴50元左右\n但CP值蠻高的\n肉用的是牛肋條, (我的最愛)\n而且肉量很多耶\n有點嚇一跳😱還有還有\n他那個肉有BBQ烤過的細膩功夫在裡面\n\n麵條也不同\n像是日系手打麵 Q彈型那種\n好有異國料理店feel~\n裡面還有一些蔬菜🥬很加分\n就不會很膩，且營養均衡～(青江菜+白蘿蔔)\n湯頭鹹度都可以隨時邊吃邊調整\n很貼心的客製化湯頭服務",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "別單看價錢 像貴50元左右\n但CP值蠻高的\n肉用的是牛肋條, (我的最愛)\n而且肉量很多耶\n有點嚇一跳😱還有還有\n他那個肉有BBQ烤過的細膩功夫在裡面\n\n麵條也不同\n像是日系手打麵 Q彈型那種\n好有異國料理店feel~\n裡面還有一些蔬菜🥬很加分\n就不會很膩，且營養均衡～(青江菜+白蘿蔔)\n湯頭鹹度都可以隨時邊吃邊調整\n很貼心的客製化湯頭服務",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "子鞋",
+        "uri": "https://www.google.com/maps/contrib/117580107531148786183/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUC4S_TNdnpehEKuyT-gR0-c20BNmXAAfrqOG1GD-3fHerqXRXW=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-06-10T11:58:24.005062Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VKcS11Tk9KOEpfZk13EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VKcS11Tk9KOEpfZk13EAE!2m1!1s0x3442a98e29795479:0x7e26658189760313"
+    },
+    {
+      "name": "places/ChIJeVR5KY6pQjQREwN2iYFlJn4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psNFlXRk9XWGt4YTNjMWRuTkxhbFoyU0V4c2FuYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "麵條很Q、麻醬很香，半筋半肉牛肉湯好喝、我們點的兩種小菜（花干及川耳）都很好吃😋",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "麵條很Q、麻醬很香，半筋半肉牛肉湯好喝、我們點的兩種小菜（花干及川耳）都很好吃😋",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林玉青",
+        "uri": "https://www.google.com/maps/contrib/110561475475096206914/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVVwPftyTii1O8h_D6CzQwPETzRAbge1WtUTa-Z5LrID4Ru3O0=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-12T12:27:30.523074548Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psNFlXRk9XWGt4YTNjMWRuTkxhbFoyU0V4c2FuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psNFlXRk9XWGt4YTNjMWRuTkxhbFoyU0V4c2FuYxAB!2m1!1s0x3442a98e29795479:0x7e26658189760313"
+    }
+  ]
+}

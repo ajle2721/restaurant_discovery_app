@@ -1,0 +1,134 @@
+{
+  "id": "ChIJRRyG_YyrQjQRLVtrXvdemBc",
+  "types": [
+    "american_restaurant",
+    "hamburger_restaurant",
+    "chicken_wings_restaurant",
+    "seafood_restaurant",
+    "bar",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2729 0168",
+  "formattedAddress": "110台灣臺北市信義區松仁路58號14樓",
+  "location": {
+    "latitude": 25.036672,
+    "longitude": 121.56813069999998
+  },
+  "rating": 4.7,
+  "websiteUri": "https://www.hooters.com.tw/",
+  "userRatingCount": 5817,
+  "displayName": {
+    "text": "HOOTERS美式餐廳 信義店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJRRyG_YyrQjQRLVtrXvdemBc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWTGNuZGpTVW8wVDJKWFFuWlVaM2hRY2tSak5uYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "蛤蜊濃湯很好喝～～\n今天我們是有包一區使用，特別感謝服務我們的Kelly不只長的很美，態度親切又很貼心！我因感冒所以跟她要了兩次熱水，後來她詢問我是否生理期來需不需要給我暖暖包，當下真的覺得很暖心也很謝謝她！希望貴司也能給予優秀員工表揚👍🏻",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "蛤蜊濃湯很好喝～～\n今天我們是有包一區使用，特別感謝服務我們的Kelly不只長的很美，態度親切又很貼心！我因感冒所以跟她要了兩次熱水，後來她詢問我是否生理期來需不需要給我暖暖包，當下真的覺得很暖心也很謝謝她！希望貴司也能給予優秀員工表揚👍🏻",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "徐理慧",
+        "uri": "https://www.google.com/maps/contrib/113468642760915102677/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXfDpY1V0tP0Z-LP6CB8w4Nfti7v5C17b2LJLU8_A0nTvAKtSSo=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-29T11:40:09.258876145Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWTGNuZGpTVW8wVDJKWFFuWlVaM2hRY2tSak5uYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWTGNuZGpTVW8wVDJKWFFuWlVaM2hRY2tSak5uYxAB!2m1!1s0x3442ab8cfd861c45:0x17985ef75e6b5b2d"
+    },
+    {
+      "name": "places/ChIJRRyG_YyrQjQRLVtrXvdemBc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pod1QwRjNhMEpDYzJsaFUwY3dWMmRTWjFrNVRrRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "現場服務人員精神飽滿、身材勻稱，看得出來相當自律與專業。餐點不僅擺盤用心，口感與風味也都有水準，讓人吃得滿足。搭配熱絡歡快的現場氣氛，無論是聚餐或朋友小聚，都能感受到輕鬆愉快的用餐體驗。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "現場服務人員精神飽滿、身材勻稱，看得出來相當自律與專業。餐點不僅擺盤用心，口感與風味也都有水準，讓人吃得滿足。搭配熱絡歡快的現場氣氛，無論是聚餐或朋友小聚，都能感受到輕鬆愉快的用餐體驗。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Happy",
+        "uri": "https://www.google.com/maps/contrib/111008916405808631861/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWK1W6Ho4OweJ2MEQbhVLSrjWlTkskbIR9rKNK_Yt6HhW-q_ciU8Q=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-12-19T18:42:30.730964400Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pod1QwRjNhMEpDYzJsaFUwY3dWMmRTWjFrNVRrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pod1QwRjNhMEpDYzJsaFUwY3dWMmRTWjFrNVRrRRAB!2m1!1s0x3442ab8cfd861c45:0x17985ef75e6b5b2d"
+    },
+    {
+      "name": "places/ChIJRRyG_YyrQjQRLVtrXvdemBc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCV00wWXlZWE5aVW1wd05sRjNibTR3TjNoU04zYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "本來想吃早午餐，到現場才發現早午餐是慶城店限定，想吃早午餐的人要注意一下❗️\n但來都來了，剛好遇到萬聖節裝潢，還是決定用餐\n\n水牛城拼盤的醬料過於死鹹，雞肉也偏柴，不推薦\n圈圈薯條吃起來很ㄙㄨㄚ、嘴，沒有提供醬料但灑上胡椒就好吃了\n煙燻鮭魚披薩是薄脆口感，配料還算豐富\n骰子牛的蒜頭比牛肉更驚豔\n當天最好吃的是鮮蝦義大利麵，不過份量偏少\n\n週日中午人潮不多，下午一點多忽然瞬間客滿，要用餐還是建議事先訂位！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "本來想吃早午餐，到現場才發現早午餐是慶城店限定，想吃早午餐的人要注意一下❗️\n但來都來了，剛好遇到萬聖節裝潢，還是決定用餐\n\n水牛城拼盤的醬料過於死鹹，雞肉也偏柴，不推薦\n圈圈薯條吃起來很ㄙㄨㄚ、嘴，沒有提供醬料但灑上胡椒就好吃了\n煙燻鮭魚披薩是薄脆口感，配料還算豐富\n骰子牛的蒜頭比牛肉更驚豔\n當天最好吃的是鮮蝦義大利麵，不過份量偏少\n\n週日中午人潮不多，下午一點多忽然瞬間客滿，要用餐還是建議事先訂位！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳亭臻",
+        "uri": "https://www.google.com/maps/contrib/103944798502776823416/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU5q4fQM86DgM7IR0qSP9e5n_MU7Ge2b8vII4R8FdiuK4zbrxLZ=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-10-26T23:52:49.565033072Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCV00wWXlZWE5aVW1wd05sRjNibTR3TjNoU04zYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCV00wWXlZWE5aVW1wd05sRjNibTR3TjNoU04zYxAB!2m1!1s0x3442ab8cfd861c45:0x17985ef75e6b5b2d"
+    },
+    {
+      "name": "places/ChIJRRyG_YyrQjQRLVtrXvdemBc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCTU5HUnhaM1ZQYVV4dk5rcGFRVVZFZWtWVWRFRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點美味😋服務好，餐廳氣氛活潑👍🏻靠窗座位區可以看到101",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點美味😋服務好，餐廳氣氛活潑👍🏻靠窗座位區可以看到101",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Penny Li",
+        "uri": "https://www.google.com/maps/contrib/105090709387899662911/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXfC7L_BTIFpd-N0Ykhc0Vmpij9zhVk4yuybw-t5DveexIzauLU=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-13T17:17:33.969126620Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCTU5HUnhaM1ZQYVV4dk5rcGFRVVZFZWtWVWRFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCTU5HUnhaM1ZQYVV4dk5rcGFRVVZFZWtWVWRFRRAB!2m1!1s0x3442ab8cfd861c45:0x17985ef75e6b5b2d"
+    },
+    {
+      "name": "places/ChIJRRyG_YyrQjQRLVtrXvdemBc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s0d1ZFTnlUM05sTVU4dFJrRnlObGM1YW1odGVtYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "好開心、好歡樂的一晚 🙌🏼🙌🏼\n\n好多許久不見的學長姐、家人們，都來了\n\n大夥啤酒一直喝，邊運動、邊聊天 🍺🍺\n\n表演一場比一場精彩火辣！！🌶️🔥\n\n整晚都在微醺中歡笑度過，喉嚨也燒聲\n\n祝福大家 ～ 聖誕快樂、天天都喜樂\n\n期待下次的活動囉 😘😘",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "好開心、好歡樂的一晚 🙌🏼🙌🏼\n\n好多許久不見的學長姐、家人們，都來了\n\n大夥啤酒一直喝，邊運動、邊聊天 🍺🍺\n\n表演一場比一場精彩火辣！！🌶️🔥\n\n整晚都在微醺中歡笑度過，喉嚨也燒聲\n\n祝福大家 ～ 聖誕快樂、天天都喜樂\n\n期待下次的活動囉 😘😘",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "George Wang",
+        "uri": "https://www.google.com/maps/contrib/114708733508630855002/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUF54MoG1b-gsQJI-U92tEUnQ_Rgu8GYBt8U3cLvmsjxFd-30BYVw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-15T07:46:32.156503055Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s0d1ZFTnlUM05sTVU4dFJrRnlObGM1YW1odGVtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s0d1ZFTnlUM05sTVU4dFJrRnlObGM1YW1odGVtYxAB!2m1!1s0x3442ab8cfd861c45:0x17985ef75e6b5b2d"
+    }
+  ]
+}

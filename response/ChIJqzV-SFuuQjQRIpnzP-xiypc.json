@@ -1,0 +1,130 @@
+{
+  "id": "ChIJqzV-SFuuQjQRIpnzP-xiypc",
+  "types": [
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 5551 8888",
+  "formattedAddress": "112台灣臺北市北投區奇岩路1號",
+  "location": {
+    "latitude": 25.1347904,
+    "longitude": 121.5072708
+  },
+  "rating": 4.7,
+  "websiteUri": "https://www.thegaiahotel.com/restaurants-detail/1__4/",
+  "userRatingCount": 438,
+  "displayName": {
+    "text": "北投奇岩一號",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJqzV-SFuuQjQRIpnzP-xiypc/reviews/Ci9DQUlRQUNvZENodHljRjlvT213M05uVk5UbTVHY210RU5uZDRTMFkzZVVwclVGRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "有五百盤的餐廳，可惜很多招牌菜要很多人才能吃。但整體上還是相當有水準的，左宗棠雞、清蒸鱸魚、乾癟四季豆配餅皮，都很棒\n\n也有提供兩人位置很貼心，不是只有圓桌。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "有五百盤的餐廳，可惜很多招牌菜要很多人才能吃。但整體上還是相當有水準的，左宗棠雞、清蒸鱸魚、乾癟四季豆配餅皮，都很棒\n\n也有提供兩人位置很貼心，不是只有圓桌。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "YW",
+        "uri": "https://www.google.com/maps/contrib/105928546633148851241/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUEPGA0ObZxg2yRQlZ4EGZtWYn9u8nen-5i73IF2iY8KRqHHpha=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-02-16T08:00:55.593960773Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT213M05uVk5UbTVHY210RU5uZDRTMFkzZVVwclVGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT213M05uVk5UbTVHY210RU5uZDRTMFkzZVVwclVGRRAB!2m1!1s0x3442ae5b487e35ab:0x97ca62ec3ff39922"
+    },
+    {
+      "name": "places/ChIJqzV-SFuuQjQRIpnzP-xiypc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xNME0wcEtNRVZEYzNoNE1WUmZSbFV0TlY5RldsRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點非常好吃💕服務人員也都好親切\n當時媽媽原本想再點一道麵，服務人員貼心提醒我們四人可能會太多～結果後來真的吃得很飽，慶幸聽了建議未加點那道，也非常感謝服務人員的用心！\n餐點的部分：\n豬肝很清爽、辣皮蛋窩窩頭很開胃、老皮嫩肉軟嫩的恰到好處、炒飯粒粒分明不油膩、四季豆配餅皮很有飽足感、酸菜牛媽媽很喜歡、豆酥魚細緻入口即化，每道菜都各有特色，整體口味水準都很高，吃得滿足又愉快🫶🏻\n下次去想吃稻香牛～🤎",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點非常好吃💕服務人員也都好親切\n當時媽媽原本想再點一道麵，服務人員貼心提醒我們四人可能會太多～結果後來真的吃得很飽，慶幸聽了建議未加點那道，也非常感謝服務人員的用心！\n餐點的部分：\n豬肝很清爽、辣皮蛋窩窩頭很開胃、老皮嫩肉軟嫩的恰到好處、炒飯粒粒分明不油膩、四季豆配餅皮很有飽足感、酸菜牛媽媽很喜歡、豆酥魚細緻入口即化，每道菜都各有特色，整體口味水準都很高，吃得滿足又愉快🫶🏻\n下次去想吃稻香牛～🤎",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ina Cheng",
+        "uri": "https://www.google.com/maps/contrib/107345793579410973651/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8ATantOxu0_q2JTmBLUka9DoEx2J2ebWeQ6uWnYP-Wsx11F2n=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-12T10:12:09.248599626Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xNME0wcEtNRVZEYzNoNE1WUmZSbFV0TlY5RldsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xNME0wcEtNRVZEYzNoNE1WUmZSbFV0TlY5RldsRRAB!2m1!1s0x3442ae5b487e35ab:0x97ca62ec3ff39922"
+    },
+    {
+      "name": "places/ChIJqzV-SFuuQjQRIpnzP-xiypc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toTVdHRk9jMkZ4T0dOSlNHcGlhbWRHUTBsVFlYYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "服務人員態度非常親切、餐點細緻、環境好\n還有一些500盤餐點、麻油雞飯⋯等\n下回人多再來吃⋯溫泉季買券1000可消費1200⋯旅展好像到11/16、11/17的樣子",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "服務人員態度非常親切、餐點細緻、環境好\n還有一些500盤餐點、麻油雞飯⋯等\n下回人多再來吃⋯溫泉季買券1000可消費1200⋯旅展好像到11/16、11/17的樣子",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Alice Huang",
+        "uri": "https://www.google.com/maps/contrib/105607136871132806206/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUArYe9xO1oSdgZ6FmVAQQI25ET1pJJLL_rWVVOEBbhxoqR81PaCw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-14T05:29:46.518833627Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toTVdHRk9jMkZ4T0dOSlNHcGlhbWRHUTBsVFlYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toTVdHRk9jMkZ4T0dOSlNHcGlhbWRHUTBsVFlYYxAB!2m1!1s0x3442ae5b487e35ab:0x97ca62ec3ff39922"
+    },
+    {
+      "name": "places/ChIJqzV-SFuuQjQRIpnzP-xiypc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xZd1VtOVpVVFoyTVhKSk1UTXdkMnhoTlRWYU1WRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "奇岩一號川菜真的超級好吃！每道菜味道都很到位而且無雷耶！麻辣冷豬肝、老皮嫩肉、藤椒酸菜豬、擔擔麵都超好吃！夏天限定的仙草聖代也爆好吃😍😍😍\n從停車到餐廳服務，所有員工的服務都超好的！\n川菜真的要人多一點才能吃到多一點菜色！真恨不得自己有好幾個胃可以多吃一些😅\n大地酒店一樓那個圖書館超美，好適合拍網美照！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "奇岩一號川菜真的超級好吃！每道菜味道都很到位而且無雷耶！麻辣冷豬肝、老皮嫩肉、藤椒酸菜豬、擔擔麵都超好吃！夏天限定的仙草聖代也爆好吃😍😍😍\n從停車到餐廳服務，所有員工的服務都超好的！\n川菜真的要人多一點才能吃到多一點菜色！真恨不得自己有好幾個胃可以多吃一些😅\n大地酒店一樓那個圖書館超美，好適合拍網美照！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "無花果",
+        "uri": "https://www.google.com/maps/contrib/111574737974142359899/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKVhv_prWq9unJx08Q0iv63msJhEBvpM7rIrMZGYkF5igEjnCHj=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-08-24T09:58:49.078040086Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xZd1VtOVpVVFoyTVhKSk1UTXdkMnhoTlRWYU1WRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xZd1VtOVpVVFoyTVhKSk1UTXdkMnhoTlRWYU1WRRAB!2m1!1s0x3442ae5b487e35ab:0x97ca62ec3ff39922"
+    },
+    {
+      "name": "places/ChIJqzV-SFuuQjQRIpnzP-xiypc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWak1rcE9hMk5SZVY5NFVFTTBXSG8xWkZkUldFRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "從停車開始就是很好的體驗，警衛很貼心的告訴我們車子停放的位置與大門的距離，出口的時候還會幫你指揮交通。服務人員都很貼心，也很熱心，知道我們有臨時性的會議還幫忙安排安靜的商務房間，讓我們開視訊會議。\n胡麻檳榔花：很清爽開胃\n辣椒蛋也頗有特色\n稻荷牛聽說是名菜，但是我不吃牛。同桌的客人覺得很好吃\n海鮮豆腐煲可惜的是蛤蠣有一點點腥味\n酸菜魚就非常推，因為他用的是龍膽石斑然後做的是沒有那麼油那麼鹹的口味，搭配油條頗有創意。\n剁椒魚頭選的是大頭漣，而且是曾文水庫的沒有那麼多腥味肉質很嫩，記得點他的手工麵線豁著湯一起喝很好吃\n這次吃太飽\n下次一定要來試他的麻油雞油飯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "從停車開始就是很好的體驗，警衛很貼心的告訴我們車子停放的位置與大門的距離，出口的時候還會幫你指揮交通。服務人員都很貼心，也很熱心，知道我們有臨時性的會議還幫忙安排安靜的商務房間，讓我們開視訊會議。\n胡麻檳榔花：很清爽開胃\n辣椒蛋也頗有特色\n稻荷牛聽說是名菜，但是我不吃牛。同桌的客人覺得很好吃\n海鮮豆腐煲可惜的是蛤蠣有一點點腥味\n酸菜魚就非常推，因為他用的是龍膽石斑然後做的是沒有那麼油那麼鹹的口味，搭配油條頗有創意。\n剁椒魚頭選的是大頭漣，而且是曾文水庫的沒有那麼多腥味肉質很嫩，記得點他的手工麵線豁著湯一起喝很好吃\n這次吃太飽\n下次一定要來試他的麻油雞油飯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Albert Yen",
+        "uri": "https://www.google.com/maps/contrib/108576012470249330853/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWEVN65ZCAevBjd71ChwgNzy9jxePoWwenA7tDsA-xV0TStB6cg=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-06-24T13:48:24.694553687Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWak1rcE9hMk5SZVY5NFVFTTBXSG8xWkZkUldFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWak1rcE9hMk5SZVY5NFVFTTBXSG8xWkZkUldFRRAB!2m1!1s0x3442ae5b487e35ab:0x97ca62ec3ff39922"
+    }
+  ]
+}

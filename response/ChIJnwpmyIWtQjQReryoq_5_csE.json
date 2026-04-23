@@ -1,0 +1,132 @@
+{
+  "id": "ChIJnwpmyIWtQjQReryoq_5_csE",
+  "types": [
+    "brunch_restaurant",
+    "food_store",
+    "restaurant",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2659 0112",
+  "formattedAddress": "114台灣臺北市內湖區瑞光路168號1樓",
+  "location": {
+    "latitude": 25.073890799999997,
+    "longitude": 121.57860409999999
+  },
+  "rating": 4.2,
+  "websiteUri": "http://instagram.com/leaves_cafe_dining/",
+  "userRatingCount": 930,
+  "displayName": {
+    "text": "LEAVES Cafe 午葉內湖旗艦店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJnwpmyIWtQjQReryoq_5_csE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pNNGRtbG9VVGhpTUc1aldWUlFZbGxMUlhWQk0yYxAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 5,
+      "text": {
+        "text": "推推培根蛋黃酪梨義大利麵，新品羽衣甘藍綠拿鐵也非常好喝！吃得非常飽，適合商業午餐、朋友聚會、午後也可以用用電腦。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "推推培根蛋黃酪梨義大利麵，新品羽衣甘藍綠拿鐵也非常好喝！吃得非常飽，適合商業午餐、朋友聚會、午後也可以用用電腦。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Robin",
+        "uri": "https://www.google.com/maps/contrib/107993647637899938103/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWRTm1uHrayuO-3kpqLvcicxQf4wGVWr-SGL6WZGxgkjIe-O2y7=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-03-02T05:47:51.533300596Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pNNGRtbG9VVGhpTUc1aldWUlFZbGxMUlhWQk0yYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pNNGRtbG9VVGhpTUc1aldWUlFZbGxMUlhWQk0yYxAB!2m1!1s0x3442ad85c8660a9f:0xc1727ffeaba8bc7a"
+    },
+    {
+      "name": "places/ChIJnwpmyIWtQjQReryoq_5_csE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4dGJGaHhNbVZGUm5ac1VFZzBhVVl3Y25Wck1IYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "儲存已久的店家 終於有機會到訪 假日附近蠻好停車的 環境空間都很不錯 佈置很愜意 去的時段剛好沒什麼人 店員蠻客氣的 但餐點還是等了好一陣子 餐點選擇不算少 份量來說 價格有點小貴 很多餐點都有酪梨🥑 朋友大推能量碗 炸節瓜也不錯 食材都還蠻新鮮的 很適合幾個朋友 聚餐 有機會會再到訪",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "儲存已久的店家 終於有機會到訪 假日附近蠻好停車的 環境空間都很不錯 佈置很愜意 去的時段剛好沒什麼人 店員蠻客氣的 但餐點還是等了好一陣子 餐點選擇不算少 份量來說 價格有點小貴 很多餐點都有酪梨🥑 朋友大推能量碗 炸節瓜也不錯 食材都還蠻新鮮的 很適合幾個朋友 聚餐 有機會會再到訪",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "kris chih",
+        "uri": "https://www.google.com/maps/contrib/110229769816199460512/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUpOk2hw9Ngwm8Hr2-IzxiYmxaeFSgcH31w8jAZkepRb7ZiMK2xjg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-17T06:28:42.970935375Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4dGJGaHhNbVZGUm5ac1VFZzBhVVl3Y25Wck1IYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4dGJGaHhNbVZGUm5ac1VFZzBhVVl3Y25Wck1IYxAB!2m1!1s0x3442ad85c8660a9f:0xc1727ffeaba8bc7a"
+    },
+    {
+      "name": "places/ChIJnwpmyIWtQjQReryoq_5_csE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKWVQxOUpSVEk0UkU1dWFrUnZabEJIWDBaek9GRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "這間餐廳真的名副其實主打「酪梨」，從門口到室內都是被綠葉包圍的氛圍，還放了超可愛的酪梨抱枕，整體環境很療癒、很好拍。餐點大部分也都能看到酪梨的身影，喜歡酪梨的人一定會很開心。\n\n我這次點了 乾酪奶醬培根酪梨蛋黃義大利麵，蠻濃郁、酪梨也融合得很自然；再搭一杯我覺得超驚喜好喝的 芝麻拿鐵，風味真的很特別。還有點了一份凱撒沙拉，份量跟味道都不錯。\n\n整體來說，環境舒服、餐點帶有創意，尤其喜歡酪梨的人會覺得很值得來試試。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這間餐廳真的名副其實主打「酪梨」，從門口到室內都是被綠葉包圍的氛圍，還放了超可愛的酪梨抱枕，整體環境很療癒、很好拍。餐點大部分也都能看到酪梨的身影，喜歡酪梨的人一定會很開心。\n\n我這次點了 乾酪奶醬培根酪梨蛋黃義大利麵，蠻濃郁、酪梨也融合得很自然；再搭一杯我覺得超驚喜好喝的 芝麻拿鐵，風味真的很特別。還有點了一份凱撒沙拉，份量跟味道都不錯。\n\n整體來說，環境舒服、餐點帶有創意，尤其喜歡酪梨的人會覺得很值得來試試。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lucrecia",
+        "uri": "https://www.google.com/maps/contrib/110207459258933437070/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWnJEh5xwglNWcyzLOjkREudRY-jbL0oTFMMSooNl16YimwzxTH=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-11-26T04:54:30.289568525Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKWVQxOUpSVEk0UkU1dWFrUnZabEJIWDBaek9GRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKWVQxOUpSVEk0UkU1dWFrUnZabEJIWDBaek9GRRAB!2m1!1s0x3442ad85c8660a9f:0xc1727ffeaba8bc7a"
+    },
+    {
+      "name": "places/ChIJnwpmyIWtQjQReryoq_5_csE/reviews/Ci9DQUlRQUNvZENodHljRjlvT21abWEydEJXbXBGTjJ0cVpGcGhTRFJJTUVwa00xRRAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "義大利麵的部分都蠻好吃的💕\n但鴨胸的調味我有點不太懂🫠\n酪梨飲品也好喜歡，可以吃到酪梨本人\n餐點的部分會願意再回訪😍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "義大利麵的部分都蠻好吃的💕\n但鴨胸的調味我有點不太懂🫠\n酪梨飲品也好喜歡，可以吃到酪梨本人\n餐點的部分會願意再回訪😍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "李品蓁",
+        "uri": "https://www.google.com/maps/contrib/105475312349605195545/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKi_EuP2juWVtSHcne_wysHZ1IJLR4YdQVQTSoP8U3Qxl74fQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-13T04:41:49.775237769Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21abWEydEJXbXBGTjJ0cVpGcGhTRFJJTUVwa00xRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21abWEydEJXbXBGTjJ0cVpGcGhTRFJJTUVwa00xRRAB!2m1!1s0x3442ad85c8660a9f:0xc1727ffeaba8bc7a"
+    },
+    {
+      "name": "places/ChIJnwpmyIWtQjQReryoq_5_csE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWcVpHdERNVkowVlVOdGNHZDZRMWMzVTNWV1oyYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "東西很好吃，但服務很普通\n個人覺得奶昔超級好喝！\n義大利麵的部分味道也很夠，海鮮量不多，但是新鮮、還不錯\n鷹嘴豆泥的料理也好吃：）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "東西很好吃，但服務很普通\n個人覺得奶昔超級好喝！\n義大利麵的部分味道也很夠，海鮮量不多，但是新鮮、還不錯\n鷹嘴豆泥的料理也好吃：）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "藍小魚",
+        "uri": "https://www.google.com/maps/contrib/109756575822924775563/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYQafqwnrqKf-USPwvERLTdfs-5_qz8juIAWe705NJcO2FBEc=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-22T04:17:23.213367619Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWcVpHdERNVkowVlVOdGNHZDZRMWMzVTNWV1oyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWcVpHdERNVkowVlVOdGNHZDZRMWMzVTNWV1oyYxAB!2m1!1s0x3442ad85c8660a9f:0xc1727ffeaba8bc7a"
+    }
+  ]
+}

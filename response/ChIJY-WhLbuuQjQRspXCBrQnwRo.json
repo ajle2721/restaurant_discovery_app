@@ -1,0 +1,130 @@
+{
+  "id": "ChIJY-WhLbuuQjQRspXCBrQnwRo",
+  "types": [
+    "ramen_restaurant",
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2881 3099",
+  "formattedAddress": "111台灣臺北市士林區大東路133號",
+  "location": {
+    "latitude": 25.091818,
+    "longitude": 121.52538399999999
+  },
+  "rating": 4.4,
+  "userRatingCount": 1887,
+  "displayName": {
+    "text": "百八龍拉麵",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJY-WhLbuuQjQRspXCBrQnwRo/reviews/Ci9DQUlRQUNvZENodHljRjlvT214aVptZFlUelJDVGtoNmVscDNMVzVsVlZCcmFFRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "一家蠻溫馨的日式拉麵小店\n他們家的拉麵（粗麵）很有嚼勁且Q彈，細麵也好吃，但個人更喜歡粗麵的口感～\n豚骨湯頭偏台式不算濃厚但是是好喝順口的！\n雞湯很清，喝起來沒負擔\n雞肉感覺是舒肥雞，口感蠻嫩、滿細緻的\n叉燒肉吃起來像南部口味，有淡淡的甜味\n目前有活動拉麵均一價$180以北部來說這價錢實在蠻佛心～～\n吃不夠可加麵加湯一次，加麵只能細麵\n廚師很親切，看到我們要離開還跟我們道別👋🏻",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一家蠻溫馨的日式拉麵小店\n他們家的拉麵（粗麵）很有嚼勁且Q彈，細麵也好吃，但個人更喜歡粗麵的口感～\n豚骨湯頭偏台式不算濃厚但是是好喝順口的！\n雞湯很清，喝起來沒負擔\n雞肉感覺是舒肥雞，口感蠻嫩、滿細緻的\n叉燒肉吃起來像南部口味，有淡淡的甜味\n目前有活動拉麵均一價$180以北部來說這價錢實在蠻佛心～～\n吃不夠可加麵加湯一次，加麵只能細麵\n廚師很親切，看到我們要離開還跟我們道別👋🏻",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "湘湘",
+        "uri": "https://www.google.com/maps/contrib/102957934055381267258/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6_7n3tpkh6TVleTQWavBbZ2mpTkPanZtU3BhAloibtUM7rNc-=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-01T15:36:47.790365782Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214aVptZFlUelJDVGtoNmVscDNMVzVsVlZCcmFFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214aVptZFlUelJDVGtoNmVscDNMVzVsVlZCcmFFRRAB!2m1!1s0x3442aebb2da1e563:0x1ac127b406c295b2"
+    },
+    {
+      "name": "places/ChIJY-WhLbuuQjQRspXCBrQnwRo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5WlpFTnpTVkl3UzJ3NFoySlBWRWd3UlZJNU1tYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "路過感覺不錯就進去還真的很不錯餐點平價實惠口味比很多名店好吃多了很多店只給1，2片肉就要250元以上這間店有3片肉才200元還可以免費加麵加湯服務親切而且會主動問要不要加麵",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "路過感覺不錯就進去還真的很不錯餐點平價實惠口味比很多名店好吃多了很多店只給1，2片肉就要250元以上這間店有3片肉才200元還可以免費加麵加湯服務親切而且會主動問要不要加麵",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "葉宸宇",
+        "uri": "https://www.google.com/maps/contrib/109110109735912273949/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXvvYcTk7LeXvWCevYLEJVYQr0Vh--yEwC-h0vfAFiNUV9gj0I=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-10-24T23:24:48.284239154Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5WlpFTnpTVkl3UzJ3NFoySlBWRWd3UlZJNU1tYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5WlpFTnpTVkl3UzJ3NFoySlBWRWd3UlZJNU1tYxAB!2m1!1s0x3442aebb2da1e563:0x1ac127b406c295b2"
+    },
+    {
+      "name": "places/ChIJY-WhLbuuQjQRspXCBrQnwRo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twSmVVMUxjVVZMWjBWaFkxVkRhMTl1TlZsUk5tYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "粗麵很好吃，Q彈又不會難咬，雞湯拉麵湯頭比想像中淡，但好喝，雞肉普通。\n激辛豚骨拉麵，湯頭好喝，肉片好吃。\n\n可免費加細麵、加湯，用餐環境乾淨且寬敞，最近有十周年活動，拉麵不分品項一律180，整體來說，如果之後路過會想再訪的好店。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "粗麵很好吃，Q彈又不會難咬，雞湯拉麵湯頭比想像中淡，但好喝，雞肉普通。\n激辛豚骨拉麵，湯頭好喝，肉片好吃。\n\n可免費加細麵、加湯，用餐環境乾淨且寬敞，最近有十周年活動，拉麵不分品項一律180，整體來說，如果之後路過會想再訪的好店。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "amber wu",
+        "uri": "https://www.google.com/maps/contrib/109194120462383609744/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocID7GyIiWmf_zYBedW_bSGcbe7uxmnFWGy7kvfdqRR9LbZSjw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-12-07T11:55:25.055252770Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twSmVVMUxjVVZMWjBWaFkxVkRhMTl1TlZsUk5tYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twSmVVMUxjVVZMWjBWaFkxVkRhMTl1TlZsUk5tYxAB!2m1!1s0x3442aebb2da1e563:0x1ac127b406c295b2"
+    },
+    {
+      "name": "places/ChIJY-WhLbuuQjQRspXCBrQnwRo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WcGNUbFFVemx5Y0hFMFptMUZhMHhZUWtwVk0zYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "非常普通的拉麵，蠻台式的，點了豚骨柚子沾麵$220，沾麵湯濃度高偏鹹，粗麵有嚼勁，粗度像烏龍麵，叉燒蠻好吃的。整體cp值算高，可以免費加麵加湯一次",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "非常普通的拉麵，蠻台式的，點了豚骨柚子沾麵$220，沾麵湯濃度高偏鹹，粗麵有嚼勁，粗度像烏龍麵，叉燒蠻好吃的。整體cp值算高，可以免費加麵加湯一次",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "vivi shuang",
+        "uri": "https://www.google.com/maps/contrib/116235101351634164837/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ3B2UFGYcK42xiq38P4WlXXnsG5xyE-RPFxhZVu80qLpcdFIk=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-21T07:29:30.637800437Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WcGNUbFFVemx5Y0hFMFptMUZhMHhZUWtwVk0zYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WcGNUbFFVemx5Y0hFMFptMUZhMHhZUWtwVk0zYxAB!2m1!1s0x3442aebb2da1e563:0x1ac127b406c295b2"
+    },
+    {
+      "name": "places/ChIJY-WhLbuuQjQRspXCBrQnwRo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aalZXbE9aVzVYYmpKVU9WbDNNMHM1VG5KNGFrRRAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 5,
+      "text": {
+        "text": "先說我不是托，但百八龍是少有的能在全面漲價中降價的，原200~220的麵現在均一185，就這點我給他五星好評不過分。\n環境方面：室內採用小燈照明，偏暗，溫馨風，座位是有的但約半數是吧台，好不好坐看人。\n餐品方面：我吃過三次左右，雞湯雖說是招牌但我印象確實不深，辛拉麵則是正常的豚骨+辛辣醬，以185元cp值是水準之上。\n個人體驗：服務員熱情，可再加一次麵（但她好像沒讓我選粗細也不曉得是不是忘了），cp值相比動輒260以上的拉麵可以了，要更低價只能去九湯屋那種調製的了。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "先說我不是托，但百八龍是少有的能在全面漲價中降價的，原200~220的麵現在均一185，就這點我給他五星好評不過分。\n環境方面：室內採用小燈照明，偏暗，溫馨風，座位是有的但約半數是吧台，好不好坐看人。\n餐品方面：我吃過三次左右，雞湯雖說是招牌但我印象確實不深，辛拉麵則是正常的豚骨+辛辣醬，以185元cp值是水準之上。\n個人體驗：服務員熱情，可再加一次麵（但她好像沒讓我選粗細也不曉得是不是忘了），cp值相比動輒260以上的拉麵可以了，要更低價只能去九湯屋那種調製的了。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "蕭維文（付喪神ペンギン）",
+        "uri": "https://www.google.com/maps/contrib/105196470411501959609/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUogRXtGV_i16Www7Fp6SOCXLIakSL-ZolF7-CPqtohE3phUGC3=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-03-03T06:11:32.689212548Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aalZXbE9aVzVYYmpKVU9WbDNNMHM1VG5KNGFrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aalZXbE9aVzVYYmpKVU9WbDNNMHM1VG5KNGFrRRAB!2m1!1s0x3442aebb2da1e563:0x1ac127b406c295b2"
+    }
+  ]
+}

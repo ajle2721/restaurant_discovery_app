@@ -1,0 +1,129 @@
+{
+  "id": "ChIJMUqmM3OpQjQRTKkB0Ue1hHA",
+  "types": [
+    "italian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2375 9977",
+  "formattedAddress": "100台灣臺北市中正區漢口街一段15號1樓",
+  "location": {
+    "latitude": 25.0452935,
+    "longitude": 121.51444300000001
+  },
+  "rating": 4.6,
+  "userRatingCount": 5405,
+  "displayName": {
+    "text": "翡冷翠義式餐廳",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJMUqmM3OpQjQRTKkB0Ue1hHA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKSFNHODFhMHR0YWw5SU9FUjJkMEZNUTFGeGVFRRAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 5,
+      "text": {
+        "text": "上菜速度蠻快. 收餐盤、加水速度也很好.\n今日：\n嫩煎沙朗青醬燉飯：口味與一般義式料理的青醬口味差不多. 未到很驚艷，沙朗稍微有一點點柴，如果再生一點也許會比較嫩. 但燉飯很不錯～是好吃的.\n鮭魚親子奶香燉飯：頓飯奶味很香，很好吃.\n鮮鱸魚雙蛋琴風馬鈴薯：海鮮部分-鱸魚還行，松露醬超重味. 如果會怕口味太強烈的，可能要思考一下.\n阿瑪菲海岸香鮭親子爆魚卵：蠻好吃的，吃一口才發現會辣（不過…菜單上沒有寫😅）\n\n整體上還不錯. 氛圍很熱鬧. 用餐年齡層也很廣.  可以當作一個用餐小聚的選擇.",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "上菜速度蠻快. 收餐盤、加水速度也很好.\n今日：\n嫩煎沙朗青醬燉飯：口味與一般義式料理的青醬口味差不多. 未到很驚艷，沙朗稍微有一點點柴，如果再生一點也許會比較嫩. 但燉飯很不錯～是好吃的.\n鮭魚親子奶香燉飯：頓飯奶味很香，很好吃.\n鮮鱸魚雙蛋琴風馬鈴薯：海鮮部分-鱸魚還行，松露醬超重味. 如果會怕口味太強烈的，可能要思考一下.\n阿瑪菲海岸香鮭親子爆魚卵：蠻好吃的，吃一口才發現會辣（不過…菜單上沒有寫😅）\n\n整體上還不錯. 氛圍很熱鬧. 用餐年齡層也很廣.  可以當作一個用餐小聚的選擇.",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Timberland Air",
+        "uri": "https://www.google.com/maps/contrib/103665402741182832078/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUKl1F0yq3bytWM4CheJUuY7gCQnb5EjdHQnVQKzRLWbGd-kr8Y=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-28T05:04:21.695460614Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKSFNHODFhMHR0YWw5SU9FUjJkMEZNUTFGeGVFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKSFNHODFhMHR0YWw5SU9FUjJkMEZNUTFGeGVFRRAB!2m1!1s0x3442a97333a64a31:0x7084b547d101a94c"
+    },
+    {
+      "name": "places/ChIJMUqmM3OpQjQRTKkB0Ue1hHA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGb1prSkZhbTVGZDI1RVQwWlNRMk0xVVY4eVlWRRAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 5,
+      "text": {
+        "text": "義大利麵香氣十足  必點！附餐的沙拉很新鮮 蘑菇濃湯好喝不膩 餐廳環境氣氛、服務都超棒。路過多年終於進來品嚐 真的很滿意！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "義大利麵香氣十足  必點！附餐的沙拉很新鮮 蘑菇濃湯好喝不膩 餐廳環境氣氛、服務都超棒。路過多年終於進來品嚐 真的很滿意！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Julie Lee",
+        "uri": "https://www.google.com/maps/contrib/103394250461898137134/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXrjpYq99S12EgkifjFKwD0gUgrt4Kxt98QEBOkStaAwdswbKuoaA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-28T09:17:46.624430906Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGb1prSkZhbTVGZDI1RVQwWlNRMk0xVVY4eVlWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGb1prSkZhbTVGZDI1RVQwWlNRMk0xVVY4eVlWRRAB!2m1!1s0x3442a97333a64a31:0x7084b547d101a94c"
+    },
+    {
+      "name": "places/ChIJMUqmM3OpQjQRTKkB0Ue1hHA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SRlRuRTVNbGhoTm1jdFFXWlpiWGhrUTJoT09HYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "五顆星是因為可免費升級飲料！！因為是帶女友來約會，特別看評價才來的，但可能是自己做功課還是不夠仔細，所以感受上還滿失望的🥲女友對於味道都不太滿意，幸好那個升級的飲料是好喝的🥹\n\n服務：有收服務費，所以基本的服務是可以的，收桌速度也滿快的（對我來說是好事），補水也都很快。\n\n餐點：當天點的是雙人套餐，沙拉是蕃茄乳酪，吃起來滿普通的，前菜是蕈菇節瓜鮮蝦那個，整體來說偏油，炒起來的味道很台菜，感覺去熱炒店能以更便宜的價格吃到的程度。\n\n主餐麵點了番茄培根乳酪筆管、明太子奶油干貝麵，主餐的味道都偏重鹹，剛開始的確會覺得很好吃，但到後面會需要配水吃，番茄的味道很新鮮，但真的油到很嚇人，女朋友到後面吃不完，因為真的太油了，值得誇獎的可能是培根滿大塊的；明太子那款相較下比較不油，但干貝的份量算滿少的，味道不錯，如果不介意干貝少量可以點這款。\n\n甜點應該是檸檬磅蛋糕，甜到會糖尿病的程度，幸好甜點不大，不然真的吃不完⋯\n\n氣氛：整體氣氛很不錯，可是廚房內場在播放台語歌，會讓人滿出戲的，畢竟菜已非義式。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "五顆星是因為可免費升級飲料！！因為是帶女友來約會，特別看評價才來的，但可能是自己做功課還是不夠仔細，所以感受上還滿失望的🥲女友對於味道都不太滿意，幸好那個升級的飲料是好喝的🥹\n\n服務：有收服務費，所以基本的服務是可以的，收桌速度也滿快的（對我來說是好事），補水也都很快。\n\n餐點：當天點的是雙人套餐，沙拉是蕃茄乳酪，吃起來滿普通的，前菜是蕈菇節瓜鮮蝦那個，整體來說偏油，炒起來的味道很台菜，感覺去熱炒店能以更便宜的價格吃到的程度。\n\n主餐麵點了番茄培根乳酪筆管、明太子奶油干貝麵，主餐的味道都偏重鹹，剛開始的確會覺得很好吃，但到後面會需要配水吃，番茄的味道很新鮮，但真的油到很嚇人，女朋友到後面吃不完，因為真的太油了，值得誇獎的可能是培根滿大塊的；明太子那款相較下比較不油，但干貝的份量算滿少的，味道不錯，如果不介意干貝少量可以點這款。\n\n甜點應該是檸檬磅蛋糕，甜到會糖尿病的程度，幸好甜點不大，不然真的吃不完⋯\n\n氣氛：整體氣氛很不錯，可是廚房內場在播放台語歌，會讓人滿出戲的，畢竟菜已非義式。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "孫卉萱",
+        "uri": "https://www.google.com/maps/contrib/113958509274454974616/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK28pg5ZdXH8gBUo2R6WUJk35CvL2jdH2maXNAHXqhLSFdLgw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-10-29T08:23:39.989075700Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SRlRuRTVNbGhoTm1jdFFXWlpiWGhrUTJoT09HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SRlRuRTVNbGhoTm1jdFFXWlpiWGhrUTJoT09HYxAB!2m1!1s0x3442a97333a64a31:0x7084b547d101a94c"
+    },
+    {
+      "name": "places/ChIJMUqmM3OpQjQRTKkB0Ue1hHA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xjNFpqQkdUSGhEVlMxTmIxSTNSMk5sYUZkTGFHYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "今日與公司同事們第一次前來用餐，體驗相當愉快。室內氛圍營造得很舒服，不會太吵也不會有壓迫感，讓人一走進來就放鬆下來。服務人員的介紹與點餐也都很細心、自然，會主動了解我們的口味並給出貼心建議，讓人覺得備受照顧。\n\n這次選擇了清爽、不膩口的餐點，風味層次比預期更突出，每一道都吃得出用料與手法的講究。平常我濃郁、清爽都能接受，但這次的爽口組合特別符合我的喜好。已經開始期待下次再訪，想嘗試更多不同菜色。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今日與公司同事們第一次前來用餐，體驗相當愉快。室內氛圍營造得很舒服，不會太吵也不會有壓迫感，讓人一走進來就放鬆下來。服務人員的介紹與點餐也都很細心、自然，會主動了解我們的口味並給出貼心建議，讓人覺得備受照顧。\n\n這次選擇了清爽、不膩口的餐點，風味層次比預期更突出，每一道都吃得出用料與手法的講究。平常我濃郁、清爽都能接受，但這次的爽口組合特別符合我的喜好。已經開始期待下次再訪，想嘗試更多不同菜色。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Vincent Huang",
+        "uri": "https://www.google.com/maps/contrib/107148823809809899015/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXbSR-6bziISNsaUQXCfJvRquINqlORCtOyicX4RFhOXcKz_uQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-05T11:13:00.791946507Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xjNFpqQkdUSGhEVlMxTmIxSTNSMk5sYUZkTGFHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xjNFpqQkdUSGhEVlMxTmIxSTNSMk5sYUZkTGFHYxAB!2m1!1s0x3442a97333a64a31:0x7084b547d101a94c"
+    },
+    {
+      "name": "places/ChIJMUqmM3OpQjQRTKkB0Ue1hHA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KeVN6WmZVbGMwTjNVNWFVUm9iRkZzWW1jd09XYxAB",
+      "relativePublishTimeDescription": "1 週前",
+      "rating": 5,
+      "text": {
+        "text": "餐點好吃，服務很好，而且上菜時間恰到好處，不快不慢！餐廳裡的每一位工作人員都辛苦了，謝謝",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點好吃，服務很好，而且上菜時間恰到好處，不快不慢！餐廳裡的每一位工作人員都辛苦了，謝謝",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "M Hsieh",
+        "uri": "https://www.google.com/maps/contrib/115190212768047460756/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIcmeseT6aAV20_oTU-8ZCYPGWCmmlyHa3kwvOfmJjT2PK-OMAa=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-03-08T09:10:34.584227042Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KeVN6WmZVbGMwTjNVNWFVUm9iRkZzWW1jd09XYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KeVN6WmZVbGMwTjNVNWFVUm9iRkZzWW1jd09XYxAB!2m1!1s0x3442a97333a64a31:0x7084b547d101a94c"
+    }
+  ]
+}

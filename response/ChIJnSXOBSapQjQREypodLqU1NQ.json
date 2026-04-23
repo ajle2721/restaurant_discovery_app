@@ -1,0 +1,136 @@
+{
+  "id": "ChIJnSXOBSapQjQREypodLqU1NQ",
+  "types": [
+    "bistro",
+    "brunch_restaurant",
+    "pub",
+    "bar",
+    "food_store",
+    "american_restaurant",
+    "restaurant",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2100 1321",
+  "formattedAddress": "10491台灣臺北市中山區民權東路一段74號",
+  "location": {
+    "latitude": 25.062483699999998,
+    "longitude": 121.52526569999999
+  },
+  "rating": 4.8,
+  "websiteUri": "https://reurl.cc/O5m87X",
+  "userRatingCount": 1479,
+  "displayName": {
+    "text": "說故事創義麵餐酒館-中山餐酒館/熱門餐酒館/必吃餐酒館|打卡餐酒館/寵物友善/義大利麵/球賽酒吧",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJnSXOBSapQjQREypodLqU1NQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkcFNsUnhhMjEwYkhrd2FuRmZWSGxDWm1WVlZYYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 1,
+      "text": {
+        "text": "單隻串燒一隻78 是我跟不上現在的物價嗎？我們是第一桌客人 進門沒有感覺服務感 我知道餐酒館消費比較高 但這樣的份量跟價格是合理的嗎？🤔餐點口味只能自己去嚐嚐 因為個人口味不同",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "單隻串燒一隻78 是我跟不上現在的物價嗎？我們是第一桌客人 進門沒有感覺服務感 我知道餐酒館消費比較高 但這樣的份量跟價格是合理的嗎？🤔餐點口味只能自己去嚐嚐 因為個人口味不同",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Kelly",
+        "uri": "https://www.google.com/maps/contrib/116968358717484661941/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK9vlw4puOjul021thV0z3OoSH9dObPJVR56dtiumzHZCJlW3PH=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-03T13:43:24.895869048Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkcFNsUnhhMjEwYkhrd2FuRmZWSGxDWm1WVlZYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkcFNsUnhhMjEwYkhrd2FuRmZWSGxDWm1WVlZYYxAB!2m1!1s0x3442a92605ce259d:0xd4d494ba74682a13"
+    },
+    {
+      "name": "places/ChIJnSXOBSapQjQREypodLqU1NQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWZlUyRjVkemN5Umw4NGNYbEtUR0p1YjNreU5YYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "今晚的每杯調酒都像是一場夢境，那種恰到好處的儀式感，真的會讓人的少女心瞬間被圈粉！✨\n\n看著那些美到冒泡、層次分明的藝術品，真的恨不得酒精耐受力能瞬間升級，除了視覺滿分，這裡的烤物也完全沒在客氣，每一口都是驚喜。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今晚的每杯調酒都像是一場夢境，那種恰到好處的儀式感，真的會讓人的少女心瞬間被圈粉！✨\n\n看著那些美到冒泡、層次分明的藝術品，真的恨不得酒精耐受力能瞬間升級，除了視覺滿分，這裡的烤物也完全沒在客氣，每一口都是驚喜。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "南爵訓練「早洩專業訓練、陰莖硬度強化訓練」",
+        "uri": "https://www.google.com/maps/contrib/105749045054221721953/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV5MGPF62xCs7sVmvjNR82vfpt4lPNoqm_oWK6gF1EUIQT5Ihc=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-18T17:48:40.616081836Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWZlUyRjVkemN5Umw4NGNYbEtUR0p1YjNreU5YYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWZlUyRjVkemN5Umw4NGNYbEtUR0p1YjNreU5YYxAB!2m1!1s0x3442a92605ce259d:0xd4d494ba74682a13"
+    },
+    {
+      "name": "places/ChIJnSXOBSapQjQREypodLqU1NQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWd1kxQnpiMkp1Y2pKWGFWSnRVak5MZDNkc2EzYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "🍝 創意料理｜每道菜都有靈魂\n這裡的餐點融合義式基底與創意靈感，不論是特色麵食、前菜拼盤，甚至是主廚特製料理，都展現出對味道與巧思的堅持。餐點美味、擺盤精緻，每一口都讓人想慢慢探索其中層次。 ￼\n\n🍸 調酒與飲品｜宵夜好去處\n夜幕降臨後，說故事搖身一變成為精緻酒吧，調酒花樣豐富、風味創新，是一間適合與朋友小酌、或是慶祝特別時刻的好地方。酒單與食物搭配得宜，令人一杯接一杯。 ￼\n\n🌇 氛圍與空間｜舒適又有故事感\n店內氛圍溫暖、燈光柔和，很適合談天說地、放鬆享用美食。位置靠近捷運中山國小站，交通方便。空間不大但舒適，無論是白天午餐或夜晚小酌，都能感受到自在又放鬆的氛圍。 ￼\n\n📍 特色亮點\n✨ 從白天到深夜都有服務，早餐、午餐、晚餐、宵夜通通照顧到。 ￼\n✨ 有時也提供包廂 & 活動空間，是聚會、慶生的好選擇。 ￼\n✨ 菜單品項多元，從義式麵食到創意小點與精緻調酒都很有看頭。 ￼\n\n⭐️ 總評（5/5）\n說故事創意麵餐酒館是一間「有味道的餐酒館」——不只料理好吃，更是一個能讓人停下腳步、聊聊故事、享受美食與美酒的地方。無論約會、好友聚餐或單純想找個地方好好吃一頓、喝一杯，這裡都是我的首選推薦之一。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "🍝 創意料理｜每道菜都有靈魂\n這裡的餐點融合義式基底與創意靈感，不論是特色麵食、前菜拼盤，甚至是主廚特製料理，都展現出對味道與巧思的堅持。餐點美味、擺盤精緻，每一口都讓人想慢慢探索其中層次。 ￼\n\n🍸 調酒與飲品｜宵夜好去處\n夜幕降臨後，說故事搖身一變成為精緻酒吧，調酒花樣豐富、風味創新，是一間適合與朋友小酌、或是慶祝特別時刻的好地方。酒單與食物搭配得宜，令人一杯接一杯。 ￼\n\n🌇 氛圍與空間｜舒適又有故事感\n店內氛圍溫暖、燈光柔和，很適合談天說地、放鬆享用美食。位置靠近捷運中山國小站，交通方便。空間不大但舒適，無論是白天午餐或夜晚小酌，都能感受到自在又放鬆的氛圍。 ￼\n\n📍 特色亮點\n✨ 從白天到深夜都有服務，早餐、午餐、晚餐、宵夜通通照顧到。 ￼\n✨ 有時也提供包廂 & 活動空間，是聚會、慶生的好選擇。 ￼\n✨ 菜單品項多元，從義式麵食到創意小點與精緻調酒都很有看頭。 ￼\n\n⭐️ 總評（5/5）\n說故事創意麵餐酒館是一間「有味道的餐酒館」——不只料理好吃，更是一個能讓人停下腳步、聊聊故事、享受美食與美酒的地方。無論約會、好友聚餐或單純想找個地方好好吃一頓、喝一杯，這裡都是我的首選推薦之一。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chih Shan Chang",
+        "uri": "https://www.google.com/maps/contrib/116257417035061328081/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUgBS5BfKTTQqzW2938hzxqPlJJddVypKZgnry20YP9Cnaw0JWb6w=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-15T06:27:47.434605517Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWd1kxQnpiMkp1Y2pKWGFWSnRVak5MZDNkc2EzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWd1kxQnpiMkp1Y2pKWGFWSnRVak5MZDNkc2EzYxAB!2m1!1s0x3442a92605ce259d:0xd4d494ba74682a13"
+    },
+    {
+      "name": "places/ChIJnSXOBSapQjQREypodLqU1NQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kTWVuUXpZVjlmWTBSRU5sSnNTM2R6T0hGbFNWRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "在網路上看到的推薦，真心不騙真的很讚，餐點每個都超好吃，餐點的價格真的很划算～\n超推薦吃明太子干貝義大利麵的～整個義大利麵超濃郁，明太子的香氣也超撲鼻的。\n\n還有各式各樣的酒類，每杯調酒都很有特色很好喝（取名也很有創意），如果不喝酒的也有無酒精的飲料及咖啡可以做選擇。\n\n這裡的氛圍真的很棒～環境不大但氛圍超級讚～氣氛超級好～老闆也很Nice～\n一開始只是跟朋友吃飯聊天喝喝小酒～後面老闆請我們喝純的shot ，還跟我們一起玩遊戲，真的很有趣，超感謝老闆請我們喝酒還跟我們一起娛樂，我們玩得真的很開心。\n\n真的很推薦朋友聚會聚餐可以選擇這裡，如果有聚會還可以預約包廂，裡面有ktv可以唱歌",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在網路上看到的推薦，真心不騙真的很讚，餐點每個都超好吃，餐點的價格真的很划算～\n超推薦吃明太子干貝義大利麵的～整個義大利麵超濃郁，明太子的香氣也超撲鼻的。\n\n還有各式各樣的酒類，每杯調酒都很有特色很好喝（取名也很有創意），如果不喝酒的也有無酒精的飲料及咖啡可以做選擇。\n\n這裡的氛圍真的很棒～環境不大但氛圍超級讚～氣氛超級好～老闆也很Nice～\n一開始只是跟朋友吃飯聊天喝喝小酒～後面老闆請我們喝純的shot ，還跟我們一起玩遊戲，真的很有趣，超感謝老闆請我們喝酒還跟我們一起娛樂，我們玩得真的很開心。\n\n真的很推薦朋友聚會聚餐可以選擇這裡，如果有聚會還可以預約包廂，裡面有ktv可以唱歌",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "劉子琪",
+        "uri": "https://www.google.com/maps/contrib/114374892880352671538/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVL7jA84JBPkbiEQQdQR1tMWr0jlrk5t-lLLW8V2ngtLRlSZaM4=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-12-21T15:30:31.879080222Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kTWVuUXpZVjlmWTBSRU5sSnNTM2R6T0hGbFNWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kTWVuUXpZVjlmWTBSRU5sSnNTM2R6T0hGbFNWRRAB!2m1!1s0x3442a92605ce259d:0xd4d494ba74682a13"
+    },
+    {
+      "name": "places/ChIJnSXOBSapQjQREypodLqU1NQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kcVdEQXRha1ozU2paWUxUTXpiekJIT1RGNFZtYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 2,
+      "text": {
+        "text": "完全不懂為什麼評價這麼高….\n請朋友吃生日餐整個超沒面子🌚\n\n首先是一進門店員服務就不怎麼樣\n有訂位還一副不清楚的感覺\n才剛坐下就被要求換位子\n靠近廁所位子 味道超臭體驗感超差…\n\n食物：義大利麵 $388 沒什麼料但口味還ok\n酒：調酒大概都 $400，感覺是賣造型為主，不會想續點\n服務：會加收服務費，但完全沒有服務可言\n甚至聽到在數落旁邊客人，感受非常不好\n環境：算是一間沒有什麼氣氛的餐酒館\n\n整體不推薦 提醒自己不會再前往",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "完全不懂為什麼評價這麼高….\n請朋友吃生日餐整個超沒面子🌚\n\n首先是一進門店員服務就不怎麼樣\n有訂位還一副不清楚的感覺\n才剛坐下就被要求換位子\n靠近廁所位子 味道超臭體驗感超差…\n\n食物：義大利麵 $388 沒什麼料但口味還ok\n酒：調酒大概都 $400，感覺是賣造型為主，不會想續點\n服務：會加收服務費，但完全沒有服務可言\n甚至聽到在數落旁邊客人，感受非常不好\n環境：算是一間沒有什麼氣氛的餐酒館\n\n整體不推薦 提醒自己不會再前往",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yun Yun",
+        "uri": "https://www.google.com/maps/contrib/112107944095180740579/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUMK0xDXT8WH9EfTteERQ3P2WKD7nUAG9k5CzKZ97UxSpLM44To=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-03T04:41:05.401340928Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kcVdEQXRha1ozU2paWUxUTXpiekJIT1RGNFZtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kcVdEQXRha1ozU2paWUxUTXpiekJIT1RGNFZtYxAB!2m1!1s0x3442a92605ce259d:0xd4d494ba74682a13"
+    }
+  ]
+}

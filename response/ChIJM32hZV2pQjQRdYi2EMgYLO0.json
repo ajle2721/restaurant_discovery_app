@@ -1,0 +1,129 @@
+{
+  "id": "ChIJM32hZV2pQjQRdYi2EMgYLO0",
+  "types": [
+    "italian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "108台灣臺北市萬華區長沙街二段127號",
+  "location": {
+    "latitude": 25.0405399,
+    "longitude": 121.50330699999999
+  },
+  "rating": 4.8,
+  "websiteUri": "https://www.instagram.com/antichisaporitaipei",
+  "userRatingCount": 70,
+  "displayName": {
+    "text": "Antichi Sapori 邊緣食堂",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJM32hZV2pQjQRdYi2EMgYLO0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5M01XOXFiMmgxUlVsRU9GcEVNa05tTFV0elJGRRAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 4,
+      "text": {
+        "text": "熟客制的義式私廚，整體用餐感受略低於期待\n\n👉這次用餐吃的餐點：\n晚間套餐 2000 / 人\n✨迷你泡芙｜火腿慕斯\n佛卡夏｜瑞克塔起司｜風乾蕃茄\n橄欖麵包棒\n✨雞肉凍｜鮪魚醬🧡\n橄欖｜牛肝菌｜雞肉\n蛋捲\n✨青花魚茴香葡萄柚沙拉\n✨胭脂蝦｜絲綢乳酪｜蝦醬🧡\n✨香腸青花筍貓耳朵｜乾燥青花筍花瓣\n✨紅蘿蔔餃子｜雞油菌｜鴨培根\n✨烤菲力｜帕馬森起司｜芝麻葉醬汁\n✨栗子提拉米蘇\n\n當晚最令人驚艷的，是「胭脂蝦｜絲綢乳酪｜蝦醬」，胭脂蝦本身鮮甜純淨，質地柔潤，搭配滑順的絲綢乳酪與風味濃縮的蝦醬，層次堆疊得恰到好處，醬汁的完成度極高，好吃到讓人忍不住想用麵包將盤底抹淨，一滴也不願錯過\n\n部分菜色的調味則較不符合個人喜好，例如「青花魚茴香葡萄柚沙拉」，葡萄柚的苦韻略為突出，與青花魚之間少了一點風味上的連結，整體顯得稍微分離\n\n主餐的「烤菲力」雖為現場製作，但上桌時溫度偏低，芝麻葉醬與帕馬森起司的存在感強烈，反而掩蓋了牛肉本身應有的香氣，略為可惜\n\n店內由主廚一人負責內外場，上菜節奏偏慢，約莫二十分鐘上一道，餐點份量精緻，往往短時間內便能分食完畢，使整體用餐過程有相當比例在等待中度過，所幸同行飯友都很健談，讓時間不至於顯得過於漫長\n\n雖然店內未收取服務費，但以無菜單料理的形式而言，適度的菜色介紹仍能幫助客人更完整理解料理理念，當天首道前菜上桌時並未主動說明，直到我們詢問後才補充解說，這樣的節奏稍微令人意外\n\n空間布置簡約溫馨，確實有種受邀至朋友家中用餐的親切感，不過儘管廚房設有抽油煙設備，現場仍瀰漫著明顯油煙氣味，對用餐體驗多少帶來一些影響\n\n終於解鎖這間放在口袋名單許久的義式私廚，或許是當天菜色組合，亦或未搭配餐酒的緣故，整體感受對我而言略低於期待",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "熟客制的義式私廚，整體用餐感受略低於期待\n\n👉這次用餐吃的餐點：\n晚間套餐 2000 / 人\n✨迷你泡芙｜火腿慕斯\n佛卡夏｜瑞克塔起司｜風乾蕃茄\n橄欖麵包棒\n✨雞肉凍｜鮪魚醬🧡\n橄欖｜牛肝菌｜雞肉\n蛋捲\n✨青花魚茴香葡萄柚沙拉\n✨胭脂蝦｜絲綢乳酪｜蝦醬🧡\n✨香腸青花筍貓耳朵｜乾燥青花筍花瓣\n✨紅蘿蔔餃子｜雞油菌｜鴨培根\n✨烤菲力｜帕馬森起司｜芝麻葉醬汁\n✨栗子提拉米蘇\n\n當晚最令人驚艷的，是「胭脂蝦｜絲綢乳酪｜蝦醬」，胭脂蝦本身鮮甜純淨，質地柔潤，搭配滑順的絲綢乳酪與風味濃縮的蝦醬，層次堆疊得恰到好處，醬汁的完成度極高，好吃到讓人忍不住想用麵包將盤底抹淨，一滴也不願錯過\n\n部分菜色的調味則較不符合個人喜好，例如「青花魚茴香葡萄柚沙拉」，葡萄柚的苦韻略為突出，與青花魚之間少了一點風味上的連結，整體顯得稍微分離\n\n主餐的「烤菲力」雖為現場製作，但上桌時溫度偏低，芝麻葉醬與帕馬森起司的存在感強烈，反而掩蓋了牛肉本身應有的香氣，略為可惜\n\n店內由主廚一人負責內外場，上菜節奏偏慢，約莫二十分鐘上一道，餐點份量精緻，往往短時間內便能分食完畢，使整體用餐過程有相當比例在等待中度過，所幸同行飯友都很健談，讓時間不至於顯得過於漫長\n\n雖然店內未收取服務費，但以無菜單料理的形式而言，適度的菜色介紹仍能幫助客人更完整理解料理理念，當天首道前菜上桌時並未主動說明，直到我們詢問後才補充解說，這樣的節奏稍微令人意外\n\n空間布置簡約溫馨，確實有種受邀至朋友家中用餐的親切感，不過儘管廚房設有抽油煙設備，現場仍瀰漫著明顯油煙氣味，對用餐體驗多少帶來一些影響\n\n終於解鎖這間放在口袋名單許久的義式私廚，或許是當天菜色組合，亦或未搭配餐酒的緣故，整體感受對我而言略低於期待",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Amy Su",
+        "uri": "https://www.google.com/maps/contrib/117565990287367616263/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVQvlhq-mXCTvzeoH5et4iDtpaStiXctlWPdc45uQSuKILP-9w8Jw=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-02-24T14:17:40.521397943Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5M01XOXFiMmgxUlVsRU9GcEVNa05tTFV0elJGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5M01XOXFiMmgxUlVsRU9GcEVNa05tTFV0elJGRRAB!2m1!1s0x3442a95d65a17d33:0xed2c18c810b68875"
+    },
+    {
+      "name": "places/ChIJM32hZV2pQjQRdYi2EMgYLO0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WS01IVTNUSFF6Y2tsZldXWXlWa2hRZFRGcldYYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "存在口袋名單很久\n剛好友人訂到位來幫朋友慶生\n地方有點隱密很容易錯過🤣\n套餐形式兩千不用服務費\n只有兩桌，地方很小主廚一位\n每道餐點都精緻好吃，感受到主廚用心與功力\n橘酒也好喝",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "存在口袋名單很久\n剛好友人訂到位來幫朋友慶生\n地方有點隱密很容易錯過🤣\n套餐形式兩千不用服務費\n只有兩桌，地方很小主廚一位\n每道餐點都精緻好吃，感受到主廚用心與功力\n橘酒也好喝",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Fina Wei",
+        "uri": "https://www.google.com/maps/contrib/103294547149119325590/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIELzKgfL1bryaQLNUG6BGnrpz1JX1LXDB4uRhVlQ1b9WDiFQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-10T08:30:31.471917246Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WS01IVTNUSFF6Y2tsZldXWXlWa2hRZFRGcldYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WS01IVTNUSFF6Y2tsZldXWXlWa2hRZFRGcldYYxAB!2m1!1s0x3442a95d65a17d33:0xed2c18c810b68875"
+    },
+    {
+      "name": "places/ChIJM32hZV2pQjQRdYi2EMgYLO0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GU2REQXhYMk5KTkZRelp5MHpkVlE0Wm0xMmJsRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "現在變成套餐的形式，一個人$2000不用服務費，從晚上6:30吃到10:30\n從麵包開始上總共有八道餐點\n最後今天是栗子提拉米蘇",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "現在變成套餐的形式，一個人$2000不用服務費，從晚上6:30吃到10:30\n從麵包開始上總共有八道餐點\n最後今天是栗子提拉米蘇",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Eat and fun in Tw",
+        "uri": "https://www.google.com/maps/contrib/114060051641503278015/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVS4i8-doRko0cBCUKP3y1bvPPmu65xnrecJpNdMo3D2MSaymgFGw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-16T15:15:01.688125122Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GU2REQXhYMk5KTkZRelp5MHpkVlE0Wm0xMmJsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GU2REQXhYMk5KTkZRelp5MHpkVlE0Wm0xMmJsRRAB!2m1!1s0x3442a95d65a17d33:0xed2c18c810b68875"
+    },
+    {
+      "name": "places/ChIJM32hZV2pQjQRdYi2EMgYLO0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGUWR6aGFORVkxYlVac00xVkNaRmhZWDBoQlJHYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "一人費用兩千元，室內空間溫馨，只有兩組四人座位，一次接待兩組，所以可能無法大聊天哈\n\n裝潢為工作室形式，一開始經過還有點不太敢推門進去哈",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一人費用兩千元，室內空間溫馨，只有兩組四人座位，一次接待兩組，所以可能無法大聊天哈\n\n裝潢為工作室形式，一開始經過還有點不太敢推門進去哈",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jenny",
+        "uri": "https://www.google.com/maps/contrib/107129008266106338096/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIk3OZuktfhJfvNn4Ugzik7xKgn2cxP5MALpO-dQhEMyb2maw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-11T05:10:48.871641647Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGUWR6aGFORVkxYlVac00xVkNaRmhZWDBoQlJHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGUWR6aGFORVkxYlVac00xVkNaRmhZWDBoQlJHYxAB!2m1!1s0x3442a95d65a17d33:0xed2c18c810b68875"
+    },
+    {
+      "name": "places/ChIJM32hZV2pQjQRdYi2EMgYLO0/reviews/ChdDSUhNMG9nS0VOM3otNXllbzVpYTdnRRAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 4,
+      "text": {
+        "text": "📍台北｜西門町 邊緣食堂 @antichisaporitaipei\n\n2024.12.27 初訪\n\n感謝朋友邀約！這次是6位用餐！喝了2瓶酒！\n老闆還為了酒鬼招待我好多酒喝！愛了！\n\nAntichi Sapori 邊緣食堂位於台北市萬華區，主打義大利南部家庭風味的無菜單料理餐廳，由主廚阿邦一人親力親為，從食材挑選到手工製作醬料與麵食，致力於呈現最道地的義式地中海料理。\n\n有一道餐點是麵，但有夠像老式電話的電話線！有夠可愛！我們6位吃飯是每人1500+\n\n阿邦話不多，基本上問他什麼他回答什麼🤣\n揪他喝酒速度最快！🤣\n\n餐廳內部氛圍溫馨，開放式廚房讓客人能近距離觀察主廚料理過程，增添互動樂趣，\n\n整體就是有麵包，有澱粉，有肉，有甜點\n\n📍店家資訊ℹ️\n\n邊緣食堂\n@antichisaporitaipei\n地址：台北市萬華區長沙街二段127號\n預約方式：請透過餐廳官方Facebook頁面進行預約\n\n#AntichiSapori #邊緣食#italianfood#italianstyle #義式料理#台北義式餐廳#預約制#台北美食推薦\n#萬華美食#台北餐廳推薦#台北餐酒館推薦#西門站",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "📍台北｜西門町 邊緣食堂 @antichisaporitaipei\n\n2024.12.27 初訪\n\n感謝朋友邀約！這次是6位用餐！喝了2瓶酒！\n老闆還為了酒鬼招待我好多酒喝！愛了！\n\nAntichi Sapori 邊緣食堂位於台北市萬華區，主打義大利南部家庭風味的無菜單料理餐廳，由主廚阿邦一人親力親為，從食材挑選到手工製作醬料與麵食，致力於呈現最道地的義式地中海料理。\n\n有一道餐點是麵，但有夠像老式電話的電話線！有夠可愛！我們6位吃飯是每人1500+\n\n阿邦話不多，基本上問他什麼他回答什麼🤣\n揪他喝酒速度最快！🤣\n\n餐廳內部氛圍溫馨，開放式廚房讓客人能近距離觀察主廚料理過程，增添互動樂趣，\n\n整體就是有麵包，有澱粉，有肉，有甜點\n\n📍店家資訊ℹ️\n\n邊緣食堂\n@antichisaporitaipei\n地址：台北市萬華區長沙街二段127號\n預約方式：請透過餐廳官方Facebook頁面進行預約\n\n#AntichiSapori #邊緣食#italianfood#italianstyle #義式料理#台北義式餐廳#預約制#台北美食推薦\n#萬華美食#台北餐廳推薦#台北餐酒館推薦#西門站",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Nicole Chen",
+        "uri": "https://www.google.com/maps/contrib/105840475687840746741/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtZhO_iUYMbKAg8ewLatwki1U9qWN_ywVDgZW8LksXaJDqGZ7A=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-05-13T10:34:34.755289Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VOM3otNXllbzVpYTdnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VOM3otNXllbzVpYTdnRRAB!2m1!1s0x3442a95d65a17d33:0xed2c18c810b68875"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "id": "ChIJad0qbLarQjQROo8t5fAtfhE",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2776 0015",
+  "formattedAddress": "106台灣臺北市大安區敦化南路一段190巷43號1樓",
+  "location": {
+    "latitude": 25.0427705,
+    "longitude": 121.5470538
+  },
+  "rating": 4.9,
+  "websiteUri": "https://www.facebook.com/%E5%B2%A1%E5%BF%83%E9%A3%9F%E5%A0%82-100863639350993/",
+  "userRatingCount": 4889,
+  "displayName": {
+    "text": "岡心食堂",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJad0qbLarQjQROo8t5fAtfhE/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SVlJrMTBiM3BWYlVwdmVVcDBNVkUzWjJ0aGFIYxAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 3,
+      "text": {
+        "text": "食材新鮮是基本，一般美味，沒有覺得特別美味。小眼睛男子的服務跟機器人差不多，加個芥末盤子還不會好好的放到桌上，不知道服務費是在收什麼服務。2位花了2000千多的晚餐，沒有覺得整體氛圍、服務有達到此價值。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "食材新鮮是基本，一般美味，沒有覺得特別美味。小眼睛男子的服務跟機器人差不多，加個芥末盤子還不會好好的放到桌上，不知道服務費是在收什麼服務。2位花了2000千多的晚餐，沒有覺得整體氛圍、服務有達到此價值。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yen Lucy",
+        "uri": "https://www.google.com/maps/contrib/108456861302078603826/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJkHuujjmLnRwYsr6MXzLOrgKe6GqnUmZMemxObsJ8x6ymHfA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-28T03:07:18.835982877Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SVlJrMTBiM3BWYlVwdmVVcDBNVkUzWjJ0aGFIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SVlJrMTBiM3BWYlVwdmVVcDBNVkUzWjJ0aGFIYxAB!2m1!1s0x3442abb66c2add69:0x117e2df0e52d8f3a"
+    },
+    {
+      "name": "places/ChIJad0qbLarQjQROo8t5fAtfhE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kelJDMXhPR3RaTmtWU1ZHdGxTMlJXU21Oc2JIYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "☆4.6\n\n▪︎美味蟹堡 - 如其名真的美味，一口咬下鮭魚卵+松葉蟹+明太子醬完美融合。\n\n▪︎綜合刺身 - 新鮮。\n\n▪︎炙燒鮭魚腹肉 - 炙燒出微焦油香，好吃到點兩次。\n\n▪︎鮭魚海老加州卷 - 用料實在，好吃滿足。\n\n▪︎明太子洋芋 - 鋪滿明太子醬，鹹香脆口。\n\n▪︎明太子雞腿排 - 多重口感，醬香皮脆肉鮮嫩。\n\n果然出自名店，不管是用料還是手藝都相當有水準，生意很好需訂位，絕對會再訪的店。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "☆4.6\n\n▪︎美味蟹堡 - 如其名真的美味，一口咬下鮭魚卵+松葉蟹+明太子醬完美融合。\n\n▪︎綜合刺身 - 新鮮。\n\n▪︎炙燒鮭魚腹肉 - 炙燒出微焦油香，好吃到點兩次。\n\n▪︎鮭魚海老加州卷 - 用料實在，好吃滿足。\n\n▪︎明太子洋芋 - 鋪滿明太子醬，鹹香脆口。\n\n▪︎明太子雞腿排 - 多重口感，醬香皮脆肉鮮嫩。\n\n果然出自名店，不管是用料還是手藝都相當有水準，生意很好需訂位，絕對會再訪的店。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "caGe Chen",
+        "uri": "https://www.google.com/maps/contrib/108330153970556235110/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWE9oNMiKS2506f4idyy3oPdbkNQi9Y4j3qMkBnVFJoP8GAklY=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-06T18:08:41.917323614Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kelJDMXhPR3RaTmtWU1ZHdGxTMlJXU21Oc2JIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kelJDMXhPR3RaTmtWU1ZHdGxTMlJXU21Oc2JIYxAB!2m1!1s0x3442abb66c2add69:0x117e2df0e52d8f3a"
+    },
+    {
+      "name": "places/ChIJad0qbLarQjQROo8t5fAtfhE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xnemREaEVWbVIzV0hjM09GaFdOVXAxWTFWdGQzYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "個人覺得偏普通。類似價位更好，吃的生魚片丼飯有蠻多的。\n味噌湯基本上沒有料，就是最普通的那種味噌湯噌。\n鮭魚親子丼的鮭魚不夠肥美，吃起來很健康的感覺。\n極上珠寶丼的海膽感覺不是都特別新鮮，有部分黑黑的，細嚼有甜味，但是尾韻會有微微的苦味。建議加價300去吃日本橋海鮮丼的極上珠寶丼，那裡的澎湃程度完勝，而且隨餐還有附前菜跟甜點。\n如果是要吃300出頭的好吃生魚丼飯，大推南方漁場。味噌湯超級鮮，生魚片也比較豐盛，整體價位還稍微便宜了一點。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "個人覺得偏普通。類似價位更好，吃的生魚片丼飯有蠻多的。\n味噌湯基本上沒有料，就是最普通的那種味噌湯噌。\n鮭魚親子丼的鮭魚不夠肥美，吃起來很健康的感覺。\n極上珠寶丼的海膽感覺不是都特別新鮮，有部分黑黑的，細嚼有甜味，但是尾韻會有微微的苦味。建議加價300去吃日本橋海鮮丼的極上珠寶丼，那裡的澎湃程度完勝，而且隨餐還有附前菜跟甜點。\n如果是要吃300出頭的好吃生魚丼飯，大推南方漁場。味噌湯超級鮮，生魚片也比較豐盛，整體價位還稍微便宜了一點。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Eiffel",
+        "uri": "https://www.google.com/maps/contrib/111896083655258850409/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWxQZDc8TPus2b33jfvG1hF1xU-rTntDyXc_6lSxt0fSAu6sUMDoQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-07T10:32:56.554948937Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xnemREaEVWbVIzV0hjM09GaFdOVXAxWTFWdGQzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xnemREaEVWbVIzV0hjM09GaFdOVXAxWTFWdGQzYxAB!2m1!1s0x3442abb66c2add69:0x117e2df0e52d8f3a"
+    },
+    {
+      "name": "places/ChIJad0qbLarQjQROo8t5fAtfhE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKb1NtWXlibmMwYW1sWE9VRjZVWEZrWWxoUGJuYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "餐點烤節瓜 有魚的濃濃味道\n義大利手卷不錯\n男店員只負責送餐，確認餐點為什麼有異味一無所知，有沒有想幫忙確認的意思",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點烤節瓜 有魚的濃濃味道\n義大利手卷不錯\n男店員只負責送餐，確認餐點為什麼有異味一無所知，有沒有想幫忙確認的意思",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Nicky Chen",
+        "uri": "https://www.google.com/maps/contrib/111900095097767072917/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXPalcOAn51qgFGYczVoOIejpc4wCqKpBMznySuT8MmZCQdw2-6=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-17T11:13:19.476885950Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKb1NtWXlibmMwYW1sWE9VRjZVWEZrWWxoUGJuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKb1NtWXlibmMwYW1sWE9VRjZVWEZrWWxoUGJuYxAB!2m1!1s0x3442abb66c2add69:0x117e2df0e52d8f3a"
+    },
+    {
+      "name": "places/ChIJad0qbLarQjQROo8t5fAtfhE/reviews/Ci9DQUlRQUNvZENodHljRjlvT21seFFsQldORmRmY1ZOWFRHWlpNbTlKZEZoaGQxRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "東區的巷子裡藏了一間小小的平價日式料理店\n沒有太多招牌或華麗裝潢，但用料和誠意讓人記得住\n.\n最驚喜的是蘆筍蝦手捲，酥脆爽口、蝦肉鮮甜，一入口馬上吃光，根本來不及拍照\n生魚片新鮮到讓人放心大口吃，蝦子加州捲更是出其不意地好吃，蝦子大到有點嚇到，口感也不馬虎\n整體來說，是那種你不會特地打卡炫耀，但會默默回訪很多次的店\n超適合平日下班後想吃點認真料理又不想花太多的日子",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "東區的巷子裡藏了一間小小的平價日式料理店\n沒有太多招牌或華麗裝潢，但用料和誠意讓人記得住\n.\n最驚喜的是蘆筍蝦手捲，酥脆爽口、蝦肉鮮甜，一入口馬上吃光，根本來不及拍照\n生魚片新鮮到讓人放心大口吃，蝦子加州捲更是出其不意地好吃，蝦子大到有點嚇到，口感也不馬虎\n整體來說，是那種你不會特地打卡炫耀，但會默默回訪很多次的店\n超適合平日下班後想吃點認真料理又不想花太多的日子",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jolin Tsai",
+        "uri": "https://www.google.com/maps/contrib/106438623951223441980/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXetRQhaa22aizlw9mbQY-W_Ip6l7YIh2ZzJ5woxxN_Kehd267x3Q=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-12-04T04:53:56.359210738Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21seFFsQldORmRmY1ZOWFRHWlpNbTlKZEZoaGQxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21seFFsQldORmRmY1ZOWFRHWlpNbTlKZEZoaGQxRRAB!2m1!1s0x3442abb66c2add69:0x117e2df0e52d8f3a"
+    }
+  ]
+}

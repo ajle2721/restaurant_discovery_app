@@ -1,0 +1,131 @@
+{
+  "id": "ChIJqQnsZmarQjQRPbMWsX43yfw",
+  "types": [
+    "restaurant",
+    "food_court",
+    "japanese_restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 80 000 0063",
+  "formattedAddress": "105台灣臺北市信義區松山路11號2 樓",
+  "location": {
+    "latitude": 25.0493031,
+    "longitude": 121.5786215
+  },
+  "rating": 4.3,
+  "websiteUri": "https://www.marukametw.com/index.php",
+  "userRatingCount": 388,
+  "displayName": {
+    "text": "丸亀製麵 Citylink松山店 烏龍麵餐廳",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJqQnsZmarQjQRPbMWsX43yfw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSS1pIUXphVWxtZUZwc1drWTBjeTFMY2twUFNuYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 4,
+      "text": {
+        "text": "點了花蛤烏龍麵（大），烏龍麵好吃就不多加敘述，湯頭也好喝但是裡面蠻多花蛤的碎殼，如果能濾一下碎殼就再好不過了。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點了花蛤烏龍麵（大），烏龍麵好吃就不多加敘述，湯頭也好喝但是裡面蠻多花蛤的碎殼，如果能濾一下碎殼就再好不過了。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "抹茶Ramen",
+        "uri": "https://www.google.com/maps/contrib/115968266471746259340/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV_sVROc5EAs0CtZW69b7aM-jMxPx7UJV_Dcm2Sc-qiXy9sTlxWVg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-09T15:59:11.288602766Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSS1pIUXphVWxtZUZwc1drWTBjeTFMY2twUFNuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSS1pIUXphVWxtZUZwc1drWTBjeTFMY2twUFNuYxAB!2m1!1s0x3442ab6666ec09a9:0xfcc9377eb116b33d"
+    },
+    {
+      "name": "places/ChIJqQnsZmarQjQRPbMWsX43yfw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkWUxVbzBabUZ3Vm05V2VWOXpha3QyVDFSdE0yYxAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 5,
+      "text": {
+        "text": "丸龜製麵感覺不管開在哪間百貨\n每家生意都好好\n雖然百貨很多美食可是沒有像丸龜這樣CP值高\n份量剛剛好、好吃、平價，翻桌快速又不用等太久",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "丸龜製麵感覺不管開在哪間百貨\n每家生意都好好\n雖然百貨很多美食可是沒有像丸龜這樣CP值高\n份量剛剛好、好吃、平價，翻桌快速又不用等太久",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "KAI SHUN",
+        "uri": "https://www.google.com/maps/contrib/103917354316965458977/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXzvQMxIa7AEsqaeSuOn1D40g_DFTDAf_gxGSyTY9CZACwuRf6fpg=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-03-07T06:46:38.680676649Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkWUxVbzBabUZ3Vm05V2VWOXpha3QyVDFSdE0yYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkWUxVbzBabUZ3Vm05V2VWOXpha3QyVDFSdE0yYxAB!2m1!1s0x3442ab6666ec09a9:0xfcc9377eb116b33d"
+    },
+    {
+      "name": "places/ChIJqQnsZmarQjQRPbMWsX43yfw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aWlVVOUVXRzVFU1VSaFRHOVpSR1p6VkRZeFJXYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "各類湯頭可續湯，烏龍麵很Q彈有勁，配料炸物有多種選擇，有飯也有烏龍麵，搭配多元，佐料也開放自取，現場座位多。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "各類湯頭可續湯，烏龍麵很Q彈有勁，配料炸物有多種選擇，有飯也有烏龍麵，搭配多元，佐料也開放自取，現場座位多。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "PAUL1",
+        "uri": "https://www.google.com/maps/contrib/116897209772616175248/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKwORfoI0ZHiciv5lDY6qqXoj93FxUwXjVYYlXLvJaEyUU000c=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-31T03:52:55.442691851Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aWlVVOUVXRzVFU1VSaFRHOVpSR1p6VkRZeFJXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aWlVVOUVXRzVFU1VSaFRHOVpSR1p6VkRZeFJXYxAB!2m1!1s0x3442ab6666ec09a9:0xfcc9377eb116b33d"
+    },
+    {
+      "name": "places/ChIJqQnsZmarQjQRPbMWsX43yfw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsdFJqSldYMFF3VGpSdGVVZHpOMFl5ZFhGRlRsRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "🇯🇵環境\n店裡是走日式簡約風，木質桌椅加上開放式廚房，看得到師傅在後面忙進忙出，現煮現端的感覺很安心。座位安排不算壅擠，適合一家人或朋友一起來快速解決一餐。\n\n🍜餐點\n烏龍麵真的 Q 彈，滑順到筷子不小心會變溜溜球。湯頭有清爽派（像時蔬豬肉烏龍麵）也有重口味派（番茄雞肉烏龍麵），各有特色。配上炸物小點（像炸雞、炸魚或關東煮）更是經典組合，可以自己加蔥花和蒜泥。\n\n👛價位\n中碗大概 130～150 元左右，大碗再多 30 元上下，算是可以接受的日式快速料理價位。以麵的份量和口感來說，CP 值還不錯。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "🇯🇵環境\n店裡是走日式簡約風，木質桌椅加上開放式廚房，看得到師傅在後面忙進忙出，現煮現端的感覺很安心。座位安排不算壅擠，適合一家人或朋友一起來快速解決一餐。\n\n🍜餐點\n烏龍麵真的 Q 彈，滑順到筷子不小心會變溜溜球。湯頭有清爽派（像時蔬豬肉烏龍麵）也有重口味派（番茄雞肉烏龍麵），各有特色。配上炸物小點（像炸雞、炸魚或關東煮）更是經典組合，可以自己加蔥花和蒜泥。\n\n👛價位\n中碗大概 130～150 元左右，大碗再多 30 元上下，算是可以接受的日式快速料理價位。以麵的份量和口感來說，CP 值還不錯。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jane Yang",
+        "uri": "https://www.google.com/maps/contrib/101632843410758598882/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKtsLgX2buot98khTDH___yi596oUItsOn_c7MC5QEvegpeWQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-09-21T07:48:57.828127403Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsdFJqSldYMFF3VGpSdGVVZHpOMFl5ZFhGRlRsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsdFJqSldYMFF3VGpSdGVVZHpOMFl5ZFhGRlRsRRAB!2m1!1s0x3442ab6666ec09a9:0xfcc9377eb116b33d"
+    },
+    {
+      "name": "places/ChIJqQnsZmarQjQRPbMWsX43yfw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYNU55bGpnRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "服務人員不論男女都很親切、熱情，主動詢問適時提供服務！\n店內桌椅位置稍嫌狹窄，用餐時間許多客人吃完不走…直接打起傳說對決或滑影片\n導致店內客人沒有座位可以坐😵‍💫\n但有公德心的客人還是居多👍\n今天點餐⬇️\n三號豚骨烏龍麵（湯）大碗-烏龍麵Q彈有嚼勁，豚骨湯頭清甜微濃，肉片算多並很夠味，店內用餐可以免費續湯（記得湯匙要拿起來）\n炸物-咖哩可樂餅、炸雞\n咖喱可樂餅味道很足夠，可惜放比較久..所以冷掉了😭但依然還不錯！很純粹的可樂餅，沒有以往的玉米粒之類配料，純咖喱口味的馬鈴薯泥\n炸雞的皮算厚脆，雞肉入味絲絲分明，是類似頂呱呱那種炸酥的炸雞\n多汁或炸香的炸雞各有所好，都挺不錯吃的👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "服務人員不論男女都很親切、熱情，主動詢問適時提供服務！\n店內桌椅位置稍嫌狹窄，用餐時間許多客人吃完不走…直接打起傳說對決或滑影片\n導致店內客人沒有座位可以坐😵‍💫\n但有公德心的客人還是居多👍\n今天點餐⬇️\n三號豚骨烏龍麵（湯）大碗-烏龍麵Q彈有嚼勁，豚骨湯頭清甜微濃，肉片算多並很夠味，店內用餐可以免費續湯（記得湯匙要拿起來）\n炸物-咖哩可樂餅、炸雞\n咖喱可樂餅味道很足夠，可惜放比較久..所以冷掉了😭但依然還不錯！很純粹的可樂餅，沒有以往的玉米粒之類配料，純咖喱口味的馬鈴薯泥\n炸雞的皮算厚脆，雞肉入味絲絲分明，是類似頂呱呱那種炸酥的炸雞\n多汁或炸香的炸雞各有所好，都挺不錯吃的👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "淳淳",
+        "uri": "https://www.google.com/maps/contrib/113703903638981372499/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWUkdQPCM4zoOtR1Gy8ahNYtv4mCEmbuEBHUm8FXZSJSr0214KP=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2024-10-13T12:58:17.117425Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYNU55bGpnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYNU55bGpnRRAB!2m1!1s0x3442ab6666ec09a9:0xfcc9377eb116b33d"
+    }
+  ]
+}
