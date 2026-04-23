@@ -4,12 +4,12 @@ const state = {
     locations: new Set(), // Empty means "全區"
     selectedRestaurant: null,
     view: 'home',
-    viewMode: 'list', // 'list' or 'map'
     map: null,
     markers: [],
     userMarker: null,
-    askedForLocation: false,
-    lastFilteredResults: { section1: [], section2: [] }
+    userLocation: null, // {lat, lng}
+    showLowLevel: false,
+    lastFilteredResults: []
 };
 
 const attributeIcons = {
@@ -20,7 +20,7 @@ const attributeIcons = {
 };
 
 const attributeLabels = {
-    high_chair_available: '嬰兒椅',
+    high_chair_available: '兒童椅',
     kids_menu: '兒童餐',
     spacious_seating: '寬敞座位',
     kid_noise_tolerant: '不怕小孩吵'
@@ -38,6 +38,9 @@ const shareResultsBtn = document.getElementById('share-results');
 const toast = document.getElementById('toast');
 const locationText = document.getElementById('location-text');
 const resultsCount = document.getElementById('results-count');
+const btnNearby = document.getElementById('btn-nearby');
+const btnShowLow = document.getElementById('btn-show-low');
+const moreOptionsContainer = document.getElementById('more-options-container');
 
 // Modal Elements
 const openLocationModalBtn = document.getElementById('open-location-modal');
@@ -47,44 +50,48 @@ const confirmLocationBtn = document.getElementById('confirm-location');
 const locAllBtn = document.getElementById('loc-all');
 const locChips = document.querySelectorAll('.loc-chip');
 
-// Filter parameter mapping
-const paramToAttr = {
-    'high_chair': 'high_chair_available',
-    'kids_menu': 'kids_menu',
-    'spacious_seating': 'spacious_seating',
-    'kid_noise_tolerant': 'kid_noise_tolerant'
-};
-const attrToParam = {
-    'high_chair_available': 'high_chair',
-    'kids_menu': 'kids_menu',
-    'spacious_seating': 'spacious_seating',
-    'kid_noise_tolerant': 'kid_noise_tolerant'
-};
-
 // Initialization
 function init() {
     initMap();
-    renderList();
     checkUrlParams();
+    renderList();
     setupEventListeners();
 }
 
 function setupEventListeners() {
-    // Filter Chips
+    // Quick Filter Chips
+    document.querySelectorAll('.quick-chip').forEach(chip => {
+        chip.addEventListener('click', () => {
+            const filterAttr = chip.dataset.filter;
+            toggleFilter(filterAttr);
+            chip.classList.toggle('active', state.filters.has(filterAttr));
+        });
+    });
+
+    // Main Filter Chips
     document.querySelectorAll('.filter-chip').forEach(chip => {
         chip.addEventListener('click', () => {
             const filterAttr = chip.dataset.filter;
-            if (state.filters.has(filterAttr)) {
-                state.filters.delete(filterAttr);
-                chip.classList.remove('active');
-            } else {
-                state.filters.add(filterAttr);
-                chip.classList.add('active');
-            }
-            renderList();
-            updateUrl();
+            toggleFilter(filterAttr);
         });
     });
+
+    // Nearby Button
+    if (btnNearby) {
+        btnNearby.addEventListener('click', () => {
+            handleGeolocation();
+            btnNearby.innerHTML = '<span class="loader"></span> 定位中...';
+        });
+    }
+    
+    // Show Low Button
+    if (btnShowLow) {
+        btnShowLow.addEventListener('click', () => {
+            state.showLowLevel = true;
+            renderList();
+            btnShowLow.style.display = 'none';
+        });
+    }
 
     // Location Modal Events
     if (openLocationModalBtn) {
@@ -150,103 +157,152 @@ function setupEventListeners() {
 
     // Sharing
     floatShareBtn.addEventListener('click', shareCurrentFilters);
-    shareResultsBtn.addEventListener('click', shareCurrentFilters);
+    if (shareResultsBtn) shareResultsBtn.addEventListener('click', shareCurrentFilters);
     detailShareBtn.addEventListener('click', () => {
         if (state.selectedRestaurant) {
             shareRestaurant(state.selectedRestaurant);
         }
     });
+}
 
-    // View Toggle
-    const toggleListBtn = document.getElementById('toggle-list');
-    const toggleMapBtn = document.getElementById('toggle-map');
-    
-    if (toggleListBtn && toggleMapBtn) {
-        toggleListBtn.addEventListener('click', () => switchViewMode('list'));
-        toggleMapBtn.addEventListener('click', () => switchViewMode('map'));
+function toggleFilter(filterAttr) {
+    if (state.filters.has(filterAttr)) {
+        state.filters.delete(filterAttr);
+    } else {
+        state.filters.add(filterAttr);
     }
+    
+    // Sync all chip styles
+    document.querySelectorAll(`[data-filter="${filterAttr}"]`).forEach(el => {
+        el.classList.toggle('active', state.filters.has(filterAttr));
+    });
+    
+    renderList();
+    updateUrl();
+}
+
+function calculateDistance(lat1, lon1, lat2, lon2) {
+    if (!lat1 || !lon1 || !lat2 || !lon2) return Infinity;
+    const R = 6371; // km
+    const dLat = (lat2 - lat1) * Math.PI / 180;
+    const dLon = (lon2 - lon1) * Math.PI / 180;
+    const a = Math.sin(dLat/2) * Math.sin(dLat/2) +
+              Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+              Math.sin(dLon/2) * Math.sin(dLon/2);
+    const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+    return R * c;
+}
+
+function formatDistance(km) {
+    if (km === Infinity) return '';
+    if (km < 1) return (km * 1000).toFixed(0) + 'm';
+    return km.toFixed(1) + 'km';
 }
 
 function renderList() {
     restaurantList.innerHTML = '';
-    resultsCount.textContent = '';
-    resultsCount.style.display = 'none';
-
-    if (state.filters.size === 0) {
-        return;
-    }
-
     resultsCount.style.display = 'block';
+
     const selectedFilters = Array.from(state.filters);
 
-    // 1. Filter out restaurants based on global exclusions and initial filtering
-    const eligibleData = restaurantData.filter(res => {
+    // 1. Calculate distances if user location exists
+    let dataWithDistance = restaurantData.map(res => {
+        let dist = Infinity;
+        if (state.userLocation && res.latitude && res.longitude) {
+            dist = calculateDistance(state.userLocation.lat, state.userLocation.lng, res.latitude, res.longitude);
+        }
+        return { ...res, distance: dist };
+    });
+
+    // 2. Filter out based on global exclusions and initial filtering
+    let eligibleData = dataWithDistance.filter(res => {
         // District filter
         if (state.locations.size > 0) {
             const hasMatch = Array.from(state.locations).some(loc => res.address.includes(loc));
             if (!hasMatch) return false;
         }
 
-        // Exclude: any selected filter = No
-        const hasNo = selectedFilters.some(f => res.attributes[f] === 'no');
-        if (hasNo) return false;
-
-        // Exclude: ALL tags are Unknown (no information at all)
-        const allTagsUnknown = Object.values(res.attributes).every(val => val === 'unknown');
-        if (allTagsUnknown) return false;
+        // Exclude: ALL tags are Unknown (no information at all) -> Wait, we want to allow them if showLowLevel is true
+        // But for explicit filters:
+        const meetsFilters = selectedFilters.every(f => res.attributes[f] === 'yes');
+        if (selectedFilters.length > 0 && !meetsFilters) return false;
 
         return true;
     });
 
-    // 2. Group into two sections
-    // [Section 1] 符合條件的餐廳: ALL selected filters = Yes
-    const section1Data = eligibleData.filter(res => 
-        selectedFilters.every(f => res.attributes[f] === 'yes')
-    );
+    // Sort by distance (nearest first), or if no distance, just by parent_friendly_score desc
+    eligibleData.sort((a, b) => {
+        if (state.userLocation) {
+            return a.distance - b.distance;
+        }
+        return (b.parent_friendly_score || 0) - (a.parent_friendly_score || 0);
+    });
 
-    // [Section 2] 可能符合條件（評論資訊較少）: All selected filters are Unknown
-    // AND none are No (already handled by eligibleData filter)
-    const section2Data = eligibleData.filter(res => 
-        selectedFilters.every(f => res.attributes[f] === 'unknown')
-    );
+    // Group into Primary (高+中) and Secondary (資訊不足)
+    const primaryData = eligibleData.filter(r => r.parent_friendly_level === '高' || r.parent_friendly_level === '中');
+    const secondaryData = eligibleData.filter(r => r.parent_friendly_level === '資訊不足');
 
-    if (section1Data.length === 0 && section2Data.length === 0) {
+    if (primaryData.length === 0 && secondaryData.length === 0) {
         renderEmptyState();
+        resultsCount.textContent = '找到 0 間餐廳';
+        moreOptionsContainer.style.display = 'none';
+        renderMap([]);
         return;
     }
 
-    resultsCount.textContent = `找到 ${section1Data.length + section2Data.length} 間餐廳`;
-
-    // Render Section 1
-    if (section1Data.length > 0) {
-        const header = document.createElement('div');
-        header.className = 'results-section-header';
-        header.textContent = '符合條件的餐廳';
-        restaurantList.appendChild(header);
-
-        section1Data.forEach(res => renderCard(res));
+    // Fallback logic
+    let fallbackTriggered = false;
+    if (state.userLocation && primaryData.length < 5 && secondaryData.length > 0 && !state.showLowLevel) {
+        fallbackTriggered = true;
     }
 
-    // Render Section 2
-    if (section2Data.length > 0) {
-        const header = document.createElement('div');
-        header.className = 'results-section-header';
-        header.textContent = '可能符合條件（評論資訊較少）';
-        restaurantList.appendChild(header);
+    resultsCount.textContent = `找到 ${eligibleData.length} 間餐廳`;
 
+    // Render Primary Data
+    if (primaryData.length > 0) {
+        primaryData.forEach(res => renderCard(res));
+    } else if (!state.showLowLevel && secondaryData.length > 0) {
         const helper = document.createElement('div');
         helper.className = 'results-section-helper';
-        helper.textContent = '這些餐廳未在評論中找到明確證據，但也未出現不符合的描述';
+        helper.textContent = '附近的高評價選擇較少，您可以展開查看其他選項👇';
+        helper.style.textAlign = 'center';
+        helper.style.marginTop = '2rem';
         restaurantList.appendChild(helper);
-
-        section2Data.forEach(res => renderCard(res));
     }
 
-    updateFilterSummary(section1Data.length + section2Data.length);
+    // Render Secondary Data if flag is true
+    if (state.showLowLevel) {
+        if (secondaryData.length > 0) {
+            const header = document.createElement('div');
+            header.className = 'results-section-header';
+            header.textContent = '其他選項 (資訊較少)';
+            restaurantList.appendChild(header);
+
+            secondaryData.forEach(res => renderCard(res));
+        }
+        moreOptionsContainer.style.display = 'none';
+    } else {
+        if (secondaryData.length > 0) {
+            moreOptionsContainer.style.display = 'block';
+            if (fallbackTriggered) {
+                btnShowLow.textContent = '附近選擇較少，顯示更多可能適合的餐廳';
+                btnShowLow.style.borderColor = 'var(--primary)';
+                btnShowLow.style.color = 'var(--primary)';
+            } else {
+                btnShowLow.textContent = '顯示更多資訊較少的選項';
+                btnShowLow.style.borderColor = '#CBD5E1';
+                btnShowLow.style.color = 'var(--text-muted)';
+            }
+        } else {
+            moreOptionsContainer.style.display = 'none';
+        }
+    }
+
+    updateFilterSummary(eligibleData.length);
     
     // Store results for map persistence
-    state.lastFilteredResults = { section1: section1Data, section2: section2Data };
-    renderMap(section1Data, section2Data);
+    state.lastFilteredResults = state.showLowLevel ? eligibleData : primaryData;
+    renderMap(state.lastFilteredResults);
 }
 
 function updateFilterSummary(totalCount) {
@@ -256,14 +312,12 @@ function updateFilterSummary(totalCount) {
 
     if (!summaryDistrict || !summaryFilters || !summaryCount) return;
 
-    // District
     if (state.locations.size === 0) {
-        summaryDistrict.textContent = '台北市 · 全區';
+        summaryDistrict.textContent = state.userLocation ? '我的附近' : '台北市全區';
     } else {
         summaryDistrict.textContent = Array.from(state.locations).join('、');
     }
 
-    // Filters
     if (state.filters.size === 0) {
         summaryFilters.textContent = '全部';
     } else {
@@ -271,7 +325,6 @@ function updateFilterSummary(totalCount) {
         summaryFilters.textContent = labels.join('、');
     }
 
-    // Count
     summaryCount.textContent = totalCount;
 }
 
@@ -279,41 +332,31 @@ function renderCard(res) {
     const card = document.createElement('div');
     card.className = 'restaurant-card';
 
-    let tagsHtml = '';
-    Object.keys(res.attributes).forEach(attr => {
-        if (res.attributes[attr] === 'yes') {
-            tagsHtml += `<span class="tag"><span>${attributeIcons[attr]}</span> ${attributeLabels[attr]}</span>`;
-        }
-    });
+    let distHtml = '';
+    if (res.distance && res.distance !== Infinity) {
+        distHtml = `<span class="distance-badge">🚶 ${formatDistance(res.distance)}</span>`;
+    }
 
-    const summary = getDecisionSummary(res);
+    const level = res.parent_friendly_level || '資訊不足';
+    const levelClass = level === '高' ? 'level-high' : (level === '中' ? 'level-mid' : 'level-low');
+    const reasonText = res.reason || '目前缺乏明確的親子友善資訊';
 
     card.innerHTML = `
-        <div class="restaurant-name">${res.name}</div>
-        <div class="restaurant-rating">⭐ ${res.rating}</div>
-        <div class="decision-summary">${summary}</div>
-        <div class="restaurant-address">${res.address}</div>
-        <div class="tag-container">
-            ${tagsHtml}
+        <div style="display: flex; justify-content: space-between; align-items: flex-start;">
+            <div class="restaurant-name">${res.name}</div>
+            ${distHtml}
         </div>
-        <div class="card-actions">
-            <button class="btn btn-primary btn-detail">查看詳情</button>
-            <button class="btn btn-outline btn-maps">Google 地圖</button>
+        <div class="restaurant-rating" style="margin-bottom: 0.75rem;">⭐ ${res.rating}</div>
+        
+        <div class="decision-reason">
+            <span class="level-badge ${levelClass}">${level}</span>
+            <span class="reason-text">${reasonText}</span>
         </div>
+        
+        <div class="restaurant-address">📍 ${res.address}</div>
     `;
 
-    card.querySelector('.btn-detail').addEventListener('click', (e) => {
-        e.stopPropagation();
-        showDetail(res);
-    });
-
-    card.querySelector('.btn-maps').addEventListener('click', (e) => {
-        e.stopPropagation();
-        window.open(getGoogleMapsUrl(res), '_blank');
-    });
-
     card.addEventListener('click', () => showDetail(res));
-
     restaurantList.appendChild(card);
 }
 
@@ -348,7 +391,7 @@ function updateLocationText() {
     if (!locationText) return;
     
     if (state.locations.size === 0) {
-        locationText.textContent = '台北市 · 全區';
+        locationText.textContent = state.userLocation ? '我的附近' : '台北市 · 全區';
     } else if (state.locations.size === 1) {
         locationText.textContent = Array.from(state.locations)[0];
     } else if (state.locations.size === 2) {
@@ -364,7 +407,7 @@ window.clearFilters = () => {
     state.locations.clear();
     updateModalUI();
     updateLocationText();
-    document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
+    document.querySelectorAll('.filter-chip, .quick-chip').forEach(c => c.classList.remove('active'));
     renderList();
     updateUrl();
 };
@@ -389,12 +432,21 @@ function showDetail(restaurant) {
         `;
     }
 
+    const level = restaurant.parent_friendly_level || '資訊不足';
+    const levelClass = level === '高' ? 'level-high' : (level === '中' ? 'level-mid' : 'level-low');
+
     detailContent.innerHTML = `
         <h1 style="margin-bottom: 0.5rem; color: var(--text-main);">${restaurant.name}</h1>
         <div class="restaurant-rating" style="font-size: 1.1rem; margin-bottom: 0.5rem;">⭐ ${restaurant.rating}</div>
         <div class="restaurant-address" style="font-size: 0.9rem; margin-bottom: 1.5rem;">📍 ${restaurant.address}</div>
         
-        <div style="font-weight: 700; margin-bottom: 1rem; color: var(--text-muted);">育兒友善標籤</div>
+        <div style="font-weight: 700; margin-bottom: 1rem; color: var(--text-muted);">親子友善評價</div>
+        <div class="decision-reason" style="margin-bottom: 1.5rem; font-size: 1.1rem;">
+            <span class="level-badge ${levelClass}">${level}</span>
+            <span class="reason-text">${restaurant.reason || '目前缺乏明確的親子友善資訊'}</span>
+        </div>
+        
+        <div style="font-weight: 700; margin-bottom: 1rem; color: var(--text-muted);">符合項目</div>
         <div class="tag-container" style="gap: 0.75rem; margin-bottom: 1.5rem;">
             ${tagsHtml}
         </div>
@@ -427,6 +479,11 @@ function switchView(viewName) {
         homeView.classList.add('active');
         detailView.classList.remove('active');
         window.scrollTo(0, 0);
+        
+        // Fix Leaflet sizing issue when returning
+        setTimeout(() => {
+            if (state.map) state.map.invalidateSize();
+        }, 100);
     } else {
         homeView.classList.remove('active');
         detailView.classList.add('active');
@@ -437,10 +494,9 @@ function switchView(viewName) {
 function updateUrl() {
     const params = new URLSearchParams();
 
-    // Use legacy 'f' param for backwards compatibility or new specific params
+    // Use specific params
     state.filters.forEach(attr => {
-        const param = attrToParam[attr];
-        if (param) params.set(param, '1');
+        params.set(attr, '1');
     });
 
     if (state.locations.size > 0) {
@@ -459,24 +515,12 @@ function checkUrlParams() {
     const params = new URLSearchParams(window.location.search);
 
     // Check for specific attribute params
-    Object.keys(paramToAttr).forEach(param => {
-        if (params.get(param) === '1') {
-            const attr = paramToAttr[param];
+    Object.keys(attributeLabels).forEach(attr => {
+        if (params.get(attr) === '1') {
             state.filters.add(attr);
-            const chip = document.querySelector(`.filter-chip[data-filter="${attr}"]`);
-            if (chip) chip.classList.add('active');
+            document.querySelectorAll(`[data-filter="${attr}"]`).forEach(el => el.classList.add('active'));
         }
     });
-
-    // Support legacy 'f' param
-    const filtersParam = params.get('f');
-    if (filtersParam) {
-        filtersParam.split(',').forEach(f => {
-            state.filters.add(f);
-            const chip = document.querySelector(`.filter-chip[data-filter="${f}"]`);
-            if (chip) chip.classList.add('active');
-        });
-    }
 
     // Support location param
     const locParam = params.get('loc');
@@ -487,8 +531,6 @@ function checkUrlParams() {
         updateModalUI();
         updateLocationText();
     }
-
-    renderList();
 
     const restaurantParam = params.get('r');
     if (restaurantParam) {
@@ -545,19 +587,6 @@ function toggleDisclaimer(e) {
     }
 }
 
-function getDecisionSummary(res) {
-    const activeTags = Object.keys(res.attributes)
-        .filter(attr => res.attributes[attr] === 'yes');
-
-    if (activeTags.length >= 3) {
-        return `適合帶小孩`;
-    } else if (activeTags.length >= 1) {
-        return `親子相對友善`;
-    } else {
-        return `親子相關資訊較少`;
-    }
-}
-
 function getGoogleMapsUrl(restaurant) {
     if (restaurant.google_maps_url) return restaurant.google_maps_url;
     const query = encodeURIComponent(restaurant.name + ' ' + restaurant.address);
@@ -579,53 +608,22 @@ function initMap() {
     }).addTo(state.map);
 }
 
-function switchViewMode(mode) {
-    state.viewMode = mode;
-    const listContainer = document.getElementById('restaurant-list');
-    const mapContainer = document.getElementById('map-container');
-    const toggleListBtn = document.getElementById('toggle-list');
-    const toggleMapBtn = document.getElementById('toggle-map');
-
-    if (mode === 'map') {
-        listContainer.classList.add('hidden');
-        mapContainer.classList.remove('hidden');
-        toggleMapBtn.classList.add('active');
-        toggleListBtn.classList.remove('active');
-        
-        // Fix Leaflet sizing issue when container becomes visible
-        setTimeout(() => {
-            state.map.invalidateSize();
-            
-            // Re-render markers to ensure fitBounds works with visible container
-            renderMap(state.lastFilteredResults.section1, state.lastFilteredResults.section2);
-
-            if (!state.askedForLocation) {
-                handleGeolocation();
-            }
-        }, 100);
-    } else {
-        listContainer.classList.remove('hidden');
-        mapContainer.classList.add('hidden');
-        toggleListBtn.classList.add('active');
-        toggleMapBtn.classList.remove('active');
-    }
-}
-
-function renderMap(section1, section2) {
+function renderMap(restaurants) {
     if (!state.map) return;
 
     // Clear existing markers
     state.markers.forEach(m => state.map.removeLayer(m));
     state.markers = [];
 
-    const allResults = [...section1.map(r => ({...r, type: 'confirmed'})), 
-                        ...section2.map(r => ({...r, type: 'potential'}))];
-
     const markersToFit = [];
 
-    allResults.forEach(res => {
+    restaurants.forEach(res => {
         if (res.latitude && res.longitude) {
-            const color = res.type === 'confirmed' ? '#4FB3AA' : '#FFB347';
+            // High=Green, Mid=Yellow, Low=Gray
+            let color = '#CBD5E1'; // Default Low
+            if (res.parent_friendly_level === '高') color = '#4FB3AA';
+            if (res.parent_friendly_level === '中') color = '#FFB347';
+            
             const marker = createMarker(res, color);
             marker.addTo(state.map);
             state.markers.push(marker);
@@ -633,18 +631,22 @@ function renderMap(section1, section2) {
         }
     });
 
+    if (state.userLocation) {
+        markersToFit.push([state.userLocation.lat, state.userLocation.lng]);
+    }
+
     // Auto-fit bounds if we have markers
     if (markersToFit.length > 0) {
-        state.map.fitBounds(markersToFit, { padding: [50, 50], maxZoom: 15 });
+        state.map.fitBounds(markersToFit, { padding: [30, 30], maxZoom: 15 });
     }
 }
 
 function createMarker(res, color) {
     const icon = L.divIcon({
         className: 'custom-marker',
-        html: `<div style="background-color: ${color}; width: 24px; height: 24px; border-radius: 50%; border: 3px solid white; box-shadow: 0 2px 4px rgba(0,0,0,0.3);"></div>`,
-        iconSize: [24, 24],
-        iconAnchor: [12, 12]
+        html: `<div style="background-color: ${color}; width: 20px; height: 20px; border-radius: 50%; border: 3px solid white; box-shadow: 0 2px 4px rgba(0,0,0,0.3);"></div>`,
+        iconSize: [20, 20],
+        iconAnchor: [10, 10]
     });
 
     const marker = L.marker([res.latitude, res.longitude], { icon: icon });
@@ -653,19 +655,15 @@ function createMarker(res, color) {
     const popupContent = document.createElement('div');
     popupContent.className = 'map-popup-card';
     
-    let tagsHtml = '';
-    Object.keys(res.attributes).forEach(attr => {
-        if (res.attributes[attr] === 'yes') {
-            tagsHtml += `<span class="map-popup-tag">${attributeIcons[attr]}</span>`;
-        }
-    });
+    const levelClass = res.parent_friendly_level === '高' ? 'level-high' : (res.parent_friendly_level === '中' ? 'level-mid' : 'level-low');
 
     popupContent.innerHTML = `
         <div class="map-popup-title">${res.name}</div>
-        <div class="map-popup-rating">⭐ ${res.rating}</div>
-        <div class="map-popup-tags">${tagsHtml}</div>
+        <div style="margin-bottom: 0.5rem; display: flex; align-items: center; gap: 0.5rem;">
+            <span class="level-badge ${levelClass}" style="padding: 0.1rem 0.4rem; font-size: 0.7rem;">${res.parent_friendly_level || '資訊不足'}</span>
+            <span style="font-size: 0.8rem;">⭐ ${res.rating}</span>
+        </div>
         <button class="map-popup-btn" id="popup-btn-${res.place_id}">查看詳情</button>
-        <a href="${getGoogleMapsUrl(res)}" target="_blank" class="map-popup-link">在 Google 地圖開啟</a>
     `;
 
     // Handle click on "View Detail" button in popup
@@ -683,34 +681,46 @@ function createMarker(res, color) {
 }
 
 function handleGeolocation() {
-    state.askedForLocation = true;
-    if (confirm('要顯示你目前所在位置嗎？這樣可以更方便比較附近餐廳的位置')) {
-        if ("geolocation" in navigator) {
-            navigator.geolocation.getCurrentPosition((position) => {
-                const lat = position.coords.latitude;
-                const lng = position.coords.longitude;
-                
-                // Remove old user marker
-                if (state.userMarker) {
-                    state.map.removeLayer(state.userMarker);
-                }
+    if ("geolocation" in navigator) {
+        navigator.geolocation.getCurrentPosition((position) => {
+            const lat = position.coords.latitude;
+            const lng = position.coords.longitude;
+            
+            state.userLocation = { lat, lng };
+            
+            // Remove old user marker
+            if (state.userMarker) {
+                state.map.removeLayer(state.userMarker);
+            }
 
-                const userIcon = L.divIcon({
-                    className: 'user-marker',
-                    html: `<div style="background-color: #4285F4; width: 20px; height: 20px; border-radius: 50%; border: 3px solid white; box-shadow: 0 0 10px rgba(66,133,244,0.5);"></div>`,
-                    iconSize: [20, 20],
-                    iconAnchor: [10, 10]
-                });
-
-                state.userMarker = L.marker([lat, lng], { icon: userIcon, zIndexOffset: 1000 }).addTo(state.map);
-                state.userMarker.bindPopup("你在這裡");
-                
-                // Optionally center on user
-                // state.map.setView([lat, lng], 15);
-            }, (error) => {
-                console.warn("Geolocation denied or error:", error);
+            const userIcon = L.divIcon({
+                className: 'user-marker',
+                html: `<div style="background-color: #4285F4; width: 18px; height: 18px; border-radius: 50%; border: 3px solid white; box-shadow: 0 0 10px rgba(66,133,244,0.5);"></div>`,
+                iconSize: [18, 18],
+                iconAnchor: [9, 9]
             });
-        }
+
+            state.userMarker = L.marker([lat, lng], { icon: userIcon, zIndexOffset: 1000 }).addTo(state.map);
+            state.userMarker.bindPopup("你的位置");
+            
+            btnNearby.innerHTML = '<span style="font-size: 1.25rem;">📍</span> 已套用附近餐廳';
+            btnNearby.style.backgroundColor = '#E2E8F0';
+            btnNearby.style.color = '#475569';
+            btnNearby.disabled = true;
+
+            // Clear selected regions when using geolocation
+            state.locations.clear();
+            updateModalUI();
+            updateLocationText();
+            
+            renderList();
+        }, (error) => {
+            console.warn("Geolocation denied or error:", error);
+            alert("無法取得位置，請確認是否開啟定位權限。");
+            btnNearby.innerHTML = '<span style="font-size: 1.25rem;">📍</span> 看我附近的餐廳';
+        });
+    } else {
+        alert("你的瀏覽器不支援定位功能。");
     }
 }
 

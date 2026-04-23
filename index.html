@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     <title>小手找食 - 台北親子友善餐廳搜尋</title>
     <meta property="og:title" content="小手找食 - 台北親子友善餐廳搜尋">
-    <meta property="og:description" content="不用翻評論，也能找到帶小孩安心吃飯的好餐廳">
+    <meta property="og:description" content="今天帶小孩吃什麼？看看你附近適合帶小孩的餐廳">
     <meta property="og:type" content="website">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -20,26 +20,52 @@
 <body>
     <div id="home-view" class="view active">
         <header>
-            <h1>小手找食</h1>
-            <p class="subtitle">不用翻評論，也能找到帶小孩安心吃飯的好餐廳</p>
-            <div class="trust-line">已整理 400+ 間台北餐廳</div>
-            <div class="location-selector" id="open-location-modal">
-                <span>📍</span>
-                <span id="location-text">台北市 · 全區</span>
-                <span style="margin-left: auto;">▼</span>
+            <h1 style="font-size: 1.75rem;">今天帶小孩吃什麼？</h1>
+            <p class="subtitle" style="margin-bottom: 1.5rem;">看看你附近適合帶小孩的餐廳</p>
+            
+            <button id="btn-nearby" class="btn btn-primary" style="width: 100%; margin-bottom: 0.75rem; font-size: 1rem; padding: 1.125rem; background: #fff; color: var(--primary); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+                <span style="font-size: 1.25rem;">📍</span> 看我附近的餐廳
+            </button>
+            
+            <div class="location-selector" id="open-location-modal" style="justify-content: center; background: transparent; border: 1px solid rgba(255,255,255,0.4); box-shadow: none;">
+                <span>或選擇地區：<span id="location-text">台北市 · 全區</span></span>
+                <span style="margin-left: 0.5rem;">▼</span>
             </div>
+            <div class="trust-line" style="margin-top: 1rem; margin-bottom: 0; text-align: center;">已為你分析 400+ 間台北餐廳評價</div>
         </header>
 
+        <!-- Quick Filters -->
+        <div class="quick-filters-container">
+            <div class="quick-filters-label">快速找 👇</div>
+            <div class="quick-filters-scroll">
+                <button class="quick-chip" data-filter="high_chair_available">👶 兒童椅</button>
+                <button class="quick-chip" data-filter="spacious_seating">🪑 空間寬敞</button>
+                <button class="quick-chip" data-filter="kid_noise_tolerant">🧸 不怕吵</button>
+                <button class="quick-chip" data-filter="kids_menu">🍱 兒童餐</button>
+            </div>
+        </div>
+
         <section class="filter-section" id="filter-section">
-            <div id="filter-expanded">
+            <div id="filter-collapsed">
+                <div class="filter-summary-bar">
+                    <div class="summary-info">
+                        <span id="summary-district">台北市</span> · 
+                        <span id="summary-filters">全部</span> · 
+                        <span id="summary-count">0</span> 間
+                    </div>
+                    <button id="expand-filters" class="btn-text">進一步篩選 ▼</button>
+                </div>
+            </div>
+
+            <div id="filter-expanded" class="hidden">
                 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.75rem;">
-                    <div class="helper-text" style="margin: 0;">先選取你在意的條件</div>
+                    <div class="helper-text" style="margin: 0;">幫你更精準（選填）</div>
                     <button id="collapse-filters" class="btn-text">收合 ▲</button>
                 </div>
                 <div class="filters-grid">
                     <div class="filter-chip" data-filter="high_chair_available">
                         <span class="filter-icon">🪑</span>
-                        <span>嬰兒椅</span>
+                        <span>兒童椅</span>
                     </div>
                     <div class="filter-chip" data-filter="kids_menu">
                         <span class="filter-icon">🥘</span>
@@ -59,46 +85,23 @@
                     <span>🔗</span> 分享目前搜尋結果
                 </button>
             </div>
-            
-            <div id="filter-collapsed" class="hidden">
-                <div class="filter-summary-bar">
-                    <div class="summary-info">
-                        <span id="summary-district">台北市</span> · 
-                        <span id="summary-filters">全部</span> · 
-                        <span id="summary-count">0</span> 間
-                    </div>
-                    <button id="expand-filters" class="btn-text">展開 ▼</button>
-                </div>
-            </div>
         </section>
 
-        <div id="results-count" class="results-label"></div>
-
-        <!-- View Toggle -->
-        <div class="view-toggle-container">
-            <div class="view-toggle">
-                <button id="toggle-list" class="toggle-btn active">列表</button>
-                <button id="toggle-map" class="toggle-btn">地圖</button>
-            </div>
+        <!-- Map Container (Mini Map) -->
+        <div id="map-container" class="results-container" style="padding-top: 1rem; padding-bottom: 0; height: auto; min-height: unset;">
+            <div id="map" style="height: 250px; min-height: 250px;"></div>
         </div>
+
+        <div id="results-count" class="results-label"></div>
 
         <main id="restaurant-list" class="results-container">
             <!-- Results will be injected here -->
         </main>
-
-        <!-- Map Container -->
-        <div id="map-container" class="results-container hidden">
-            <div id="map"></div>
-            <div class="map-legend">
-                <div class="legend-item">
-                    <span class="legend-dot confirmed"></span>
-                    <span>符合條件</span>
-                </div>
-                <div class="legend-item">
-                    <span class="legend-dot potential"></span>
-                    <span>可能符合</span>
-                </div>
-            </div>
+        
+        <div id="more-options-container" style="padding: 0 1.5rem 5rem; text-align: center; display: none;">
+            <button id="btn-show-low" class="btn btn-outline" style="width: 100%; border-color: #CBD5E1; color: var(--text-muted);">
+                顯示更多資訊較少的選項
+            </button>
         </div>
 
         <button id="float-share" class="fab">

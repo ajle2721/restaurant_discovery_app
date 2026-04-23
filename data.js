@@ -1,4 +1,4 @@
-const restaurantData = [
+﻿const restaurantData = [
   {
     "name": "Luguo Cafe / Z Space",
     "address": "112臺灣臺北市北投區學園路1號北藝大校園內-關渡美術館2樓 1號 二樓, 關渡美術館",
@@ -14,6 +14,9 @@ const restaurantData = [
     "signals": [
       "室內座位舒適且空間寬敞"
     ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJ1-Osh6CvQjQRE5DbEVM_GGk",
     "formatted_address": "112臺灣臺北市北投區學園路1號北藝大校園內-關渡美術館2樓 1號 二樓, 關渡美術館",
     "district": "",
@@ -36,6 +39,9 @@ const restaurantData = [
     },
     "ai_summary": "目前看起來親子相關資訊不多，建議先向店家確認。",
     "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ13WfAXupQjQRPSGT92Z0z88",
     "formatted_address": "100臺灣臺北市中正區忠孝東路二段64巷6號",
     "district": "",
@@ -58,6 +64,9 @@ const restaurantData = [
     },
     "ai_summary": "從親子用餐角度來看，座位空間不擁擠，整體氛圍對孩子活動較能接受，帶小孩來用餐會比較輕鬆。",
     "signals": [],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "空間寬敞、不怕小孩吵",
     "place_id": "ChIJ39G4keGtQjQRd5mdfKmFUlA",
     "formatted_address": "114臺灣臺北市內湖區民權東路六段296巷56號",
     "district": "",
@@ -82,6 +91,9 @@ const restaurantData = [
     "signals": [
       "空間很大舒服乾淨整潔"
     ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJ4QL3EsjWDRQRAj_JjQvT6GM",
     "formatted_address": "110臺灣臺北市信義區崇德街74號",
     "district": "",
@@ -97,7 +109,7 @@ const restaurantData = [
     "rating": "4.3",
     "url": "https://www.google.com/maps/search/?api=1&query=BACKMOUNT.後山咖啡/平日不限時咖啡廳/後山埤美食/下午茶外送/寵物友善/親子友善/南港公園餐廳&query_place_id=ChIJ6ZLHHYmrQjQRKeVAlEcW3Jk",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
@@ -107,6 +119,9 @@ const restaurantData = [
       "十分熱門的咖啡店，親子友善",
       "內裡挑高空間開闊"
     ],
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "有兒童椅、空間寬敞、不怕小孩吵",
     "place_id": "ChIJ6ZLHHYmrQjQRKeVAlEcW3Jk",
     "formatted_address": "115臺灣臺北市南港區福德街373巷23號",
     "district": "",
@@ -129,6 +144,9 @@ const restaurantData = [
     },
     "ai_summary": "目前親子條件較不明確，帶小孩前建議先確認現場情況。",
     "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ7-iV4NmpQjQR0aadctCL7hk",
     "formatted_address": "100臺灣臺北市中正區忠孝西路一段122號",
     "district": "",
@@ -151,6 +169,9 @@ const restaurantData = [
     },
     "ai_summary": "目前看起來親子相關資訊不多，建議先向店家確認。",
     "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ8e4b2r2tQjQRR3LLK-OpD_4",
     "formatted_address": "114臺灣臺北市內湖區民權東路六段121之1號",
     "district": "",
@@ -173,6 +194,9 @@ const restaurantData = [
     },
     "ai_summary": "以家庭聚餐需求來看，座位空間不擁擠，整體氛圍對孩子活動較能接受，帶小孩來用餐會比較輕鬆。",
     "signals": [],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "空間寬敞、不怕小孩吵",
     "place_id": "ChIJA7xCuqirQjQRGwBOltepJQk",
     "formatted_address": "106臺灣臺北市大安區辛亥路二段201號1樓",
     "district": "",
@@ -197,6 +221,9 @@ const restaurantData = [
     "signals": [
       "適合想簡單飽餐一頓的早晨✨"
     ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJA9vu3HqrQjQRWhhwjOBFkcA",
     "formatted_address": "115臺灣臺北市南港區昆陽街58號",
     "district": "",
@@ -212,7 +239,7 @@ const restaurantData = [
     "rating": "4.2",
     "url": "https://www.google.com/maps/search/?api=1&query=大樹先生的家&query_place_id=ChIJaSZ-CpupQjQRaqvVbaJ4FaM",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "yes",
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
@@ -222,6 +249,9 @@ const restaurantData = [
       "用餐區域蠻寬大的，不會擁擠",
       "兒童餐的車車造型小朋友很喜歡"
     ],
+    "parent_friendly_score": 4,
+    "parent_friendly_level": "高",
+    "reason": "有兒童椅、有兒童餐、空間寬敞、不怕小孩吵",
     "place_id": "ChIJaSZ-CpupQjQRaqvVbaJ4FaM",
     "formatted_address": "106臺灣臺北市大安區潮州街38號",
     "district": "",
@@ -247,6 +277,9 @@ const restaurantData = [
       "買了Q堡簡易套餐",
       "無論速度。服務。餐點都非常棒"
     ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "空間寬敞、不怕小孩吵",
     "place_id": "ChIJB3tqu_WpQjQR4k8D1g1BPUI",
     "formatted_address": "104臺灣臺北市中山區農安街170號",
     "district": "",
@@ -262,7 +295,7 @@ const restaurantData = [
     "rating": "4.5",
     "url": "https://www.google.com/maps/search/?api=1&query=子木咖啡&query_place_id=ChIJBy9WAHyrQjQRCDU8Cp-PLAc",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "yes",
       "spacious_seating": "no",
       "kid_noise_tolerant": "yes"
@@ -271,6 +304,9 @@ const restaurantData = [
     "signals": [
       "我點了寶寶餐來吃"
     ],
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "中",
+    "reason": "有兒童椅、有兒童餐、不怕小孩吵",
     "place_id": "ChIJBy9WAHyrQjQRCDU8Cp-PLAc",
     "formatted_address": "105臺灣臺北市松山區延壽街412號",
     "district": "",
@@ -295,6 +331,9 @@ const restaurantData = [
     "signals": [
       "兒童慶生還有特別的佈置與蛋糕"
     ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "有兒童餐、不怕小孩吵",
     "place_id": "ChIJCyKuHW-sQjQRLbLgae6QWSU",
     "formatted_address": "114臺灣臺北市內湖區內湖路一段300號",
     "district": "",
@@ -317,6 +356,9 @@ const restaurantData = [
     },
     "ai_summary": "以家庭聚餐需求來看，座位空間不擁擠，整體氛圍對孩子活動較能接受，帶小孩來用餐會比較輕鬆。",
     "signals": [],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "空間寬敞、不怕小孩吵",
     "place_id": "ChIJd8JMXwKtQjQRtcgmBVKpiOs",
     "formatted_address": "114臺灣臺北市內湖區江南街71巷16弄32號",
     "district": "",
@@ -332,7 +374,7 @@ const restaurantData = [
     "rating": "4.7",
     "url": "https://www.google.com/maps/search/?api=1&query=歡樂便所主題餐廳&query_place_id=ChIJd9QKFaWuQjQRLPGO-ltaXj4",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
@@ -341,6 +383,9 @@ const restaurantData = [
     "signals": [
       "3樓較寬敞"
     ],
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "有兒童椅、空間寬敞、不怕小孩吵",
     "place_id": "ChIJd9QKFaWuQjQRLPGO-ltaXj4",
     "formatted_address": "111臺灣臺北市士林區文林路173號2F",
     "district": "",
@@ -365,6 +410,9 @@ const restaurantData = [
     "signals": [
       "生意很好！有許多組都在候位"
     ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJeY-MOqSrQjQR30bwWOZVEcA",
     "formatted_address": "110臺灣臺北市信義區信義路五段150巷14弄12號",
     "district": "",
@@ -389,6 +437,9 @@ const restaurantData = [
     "signals": [
       "不愧是親子餐廳"
     ],
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "有兒童椅、有兒童餐、不怕小孩吵",
     "place_id": "ChIJfepvyousQjQRq2rFXvS-esU",
     "formatted_address": "114臺灣臺北市內湖區內湖路二段192號",
     "district": "",
@@ -411,6 +462,9 @@ const restaurantData = [
     },
     "ai_summary": "整體來看，座位空間不擁擠，整體氛圍對孩子活動較能接受，帶小孩來用餐相對輕鬆。",
     "signals": [],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "空間寬敞、不怕小孩吵",
     "place_id": "ChIJFRwCvjitQjQRIUW3FrHbvlw",
     "formatted_address": "114臺灣臺北市內湖區江南街71巷16弄40號",
     "district": "",
@@ -435,6 +489,9 @@ const restaurantData = [
     "signals": [
       "提供包廂座位，空間溫暖舒服"
     ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJfzjbheitQjQRa3PNwDBxq6E",
     "formatted_address": "114臺灣臺北市內湖區民權東路六段125之1號",
     "district": "",
@@ -457,6 +514,9 @@ const restaurantData = [
     },
     "ai_summary": "從親子用餐角度來看，有兒童餐可選，整體氛圍對孩子活動較能接受，帶小孩來用餐會比較輕鬆。",
     "signals": [],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "有兒童餐、不怕小孩吵",
     "place_id": "ChIJhxfETbyuQjQRmD7M7JYcSXk",
     "formatted_address": "111臺灣臺北市士林區美崙街78號",
     "district": "",
@@ -479,6 +539,9 @@ const restaurantData = [
     },
     "ai_summary": "整體來看，整體氛圍對孩子活動較能接受，對家庭客人來說會比較方便。",
     "signals": [],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJHZ56gp6uQjQRYaoc4dyx2lM",
     "formatted_address": "111臺灣臺北市士林區雨農路31號",
     "district": "",
@@ -503,6 +566,9 @@ const restaurantData = [
     "signals": [
       "環境跟桌距都很棒"
     ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "空間寬敞、不怕小孩吵",
     "place_id": "ChIJj9j7W2WrQjQR_UgmSg_0jkw",
     "formatted_address": "106臺灣臺北市大安區敦化南路二段11巷50號",
     "district": "",
@@ -527,6 +593,9 @@ const restaurantData = [
     "signals": [
       "挑高的空間搭配華麗的水晶吊燈"
     ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJKcM2uWSrQjQRfon8d41sbGo",
     "formatted_address": "110臺灣臺北市信義區松智路17號7樓",
     "district": "",
@@ -549,6 +618,9 @@ const restaurantData = [
     },
     "ai_summary": "這家咖啡廳整體氛圍對孩子活動較能接受，帶小孩來用餐會比較輕鬆。",
     "signals": [],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJLU4r6jurQjQRrr44krDtxuY",
     "formatted_address": "105臺灣臺北市松山區健康路8巷5號1樓",
     "district": "",
@@ -571,6 +643,9 @@ const restaurantData = [
     },
     "ai_summary": "整體來看，整體氛圍對孩子活動較能接受，帶小孩來用餐相對輕鬆。",
     "signals": [],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJlVNfWeqrQjQRqO4OMZ0keZ4",
     "formatted_address": "105臺灣臺北市松山區南京東路四段162號",
     "district": "",
@@ -586,7 +661,7 @@ const restaurantData = [
     "rating": "4.9",
     "url": "https://www.google.com/maps/search/?api=1&query=遊霂食光+MuMu+Land+|+親子友善+|+健康餐點+|+外送便當&query_place_id=ChIJM9l4kmOpQjQR9DEpCZWOlCM",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "yes",
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
@@ -596,6 +671,9 @@ const restaurantData = [
       "點了兩份餐+兒童餐",
       "用餐環境舒適，座位也很寬敞"
     ],
+    "parent_friendly_score": 4,
+    "parent_friendly_level": "高",
+    "reason": "有兒童椅、有兒童餐、空間寬敞、不怕小孩吵",
     "place_id": "ChIJM9l4kmOpQjQR9DEpCZWOlCM",
     "formatted_address": "108臺灣臺北市萬華區西園路一段145號號店坊B2樓-7",
     "district": "",
@@ -620,6 +698,9 @@ const restaurantData = [
     "signals": [
       "空間小客人講話幹擾大"
     ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJMUAZ63CpQjQRWLCOjtIeWkk",
     "formatted_address": "103臺灣臺北市大同區民生西路410號",
     "district": "",
@@ -644,6 +725,9 @@ const restaurantData = [
     "signals": [
       "聯名商品可愛"
     ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJMUwgSuKrQjQRizcHD3amAgk",
     "formatted_address": "10491臺灣臺北市中山區錦州街341號",
     "district": "",
@@ -666,6 +750,9 @@ const restaurantData = [
     },
     "ai_summary": "這家餐酒館整體氛圍對孩子活動較能接受，用來安排親子聚餐也滿合適。",
     "signals": [],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJMXDWhoWpQjQRJvXnYteR7xE",
     "formatted_address": "106臺灣臺北市大安區師大路49巷3號2樓",
     "district": "",
@@ -688,6 +775,9 @@ const restaurantData = [
     },
     "ai_summary": "整體來看，整體氛圍對孩子活動較能接受，用來安排親子聚餐也滿合適。",
     "signals": [],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJN2UHYkCpQjQRwdxAiIhBEac",
     "formatted_address": "104臺灣臺北市中山區撫順街9號",
     "district": "",
@@ -712,6 +802,9 @@ const restaurantData = [
     "signals": [
       "環境舒適，座位空間不擁擠"
     ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "空間寬敞、不怕小孩吵",
     "place_id": "ChIJnZy-IMqvQjQRhdX2w_4HcKs",
     "formatted_address": "111臺灣臺北市士林區華聲街87號",
     "district": "",
@@ -734,6 +827,9 @@ const restaurantData = [
     },
     "ai_summary": "以家庭聚餐需求來看，整體氛圍對孩子活動較能接受，帶小孩來用餐相對輕鬆。",
     "signals": [],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJO0Um2CmqQjQR1K5YldZ8Ibw",
     "formatted_address": "106臺灣臺北市大安區和平東路二段118巷38-1號",
     "district": "",
@@ -760,6 +856,9 @@ const restaurantData = [
       "空間很寬敞，很適合親子聚會",
       "挺適合兩歲多的孩子"
     ],
+    "parent_friendly_score": 4,
+    "parent_friendly_level": "高",
+    "reason": "有兒童椅、有兒童餐、空間寬敞、不怕小孩吵",
     "place_id": "ChIJo5uKl5ipQjQRUDGwOBCHUWs",
     "formatted_address": "100臺灣臺北市中正區重慶南路二段51號B1永豐餘大樓內",
     "district": "",
@@ -782,6 +881,9 @@ const restaurantData = [
     },
     "ai_summary": "以家庭聚餐需求來看，整體氛圍對孩子活動較能接受，帶小孩來用餐會比較輕鬆。",
     "signals": [],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJO6GuZb6sQjQRpNEp6bTjfr8",
     "formatted_address": "114臺灣臺北市內湖區成功路五段420巷11號",
     "district": "",
@@ -807,6 +909,9 @@ const restaurantData = [
       "還有提供熱水、尿布臺",
       "還有提供寶寶粥"
     ],
+    "parent_friendly_score": 4,
+    "parent_friendly_level": "高",
+    "reason": "有兒童椅、有兒童餐、空間寬敞、不怕小孩吵",
     "place_id": "ChIJoaP21WOpQjQRujwXUxC4FME",
     "formatted_address": "104臺灣臺北市中山區松江路69巷5號",
     "district": "",
@@ -829,6 +934,9 @@ const restaurantData = [
     },
     "ai_summary": "親子相關線索不多，有需求建議先詢問店家。",
     "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJoU4aSrSrQjQRcIkiMAukmFw",
     "formatted_address": "105臺灣臺北市松山區寧安街5巷2-8號",
     "district": "",
@@ -851,6 +959,9 @@ const restaurantData = [
     },
     "ai_summary": "從目前資訊來看，尚無法明確判斷這家咖啡廳的親子友善程度，可再搭配實際需求評估。",
     "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJoV5Vt-CrQjQRX99q0bEVO_k",
     "formatted_address": "104臺灣臺北市中山區遼寧街146號",
     "district": "",
@@ -876,6 +987,9 @@ const restaurantData = [
       "室內空間非常大.而且很舒適",
       "夢幻旋轉木馬親子餐廳"
     ],
+    "parent_friendly_score": 4,
+    "parent_friendly_level": "高",
+    "reason": "有兒童椅、有兒童餐、空間寬敞、不怕小孩吵",
     "place_id": "ChIJoZlomYarQjQRQ6dO-drU7eg",
     "formatted_address": "114臺灣臺北市內湖區民善街127號2 樓",
     "district": "",
@@ -898,6 +1012,9 @@ const restaurantData = [
     },
     "ai_summary": "現有評論顯示，這家餐廳的親子友善訊號較少，若有明確需求，建議先向店家確認。",
     "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJp7WiKXyrQjQRUaxE_f4nw0A",
     "formatted_address": "105臺灣臺北市松山區興安街192號",
     "district": "",
@@ -913,13 +1030,16 @@ const restaurantData = [
     "rating": "4.5",
     "url": "https://www.google.com/maps/search/?api=1&query=Soshow+Bar+&+Restaurant&query_place_id=ChIJpdkbPm2pQjQR8IPxB9Jy8rI",
     "attributes": {
-      "high_chair_available": "no",
+      "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
     "ai_summary": "以目前可取得的資訊來看，這家餐廳較缺乏親子相關優勢，較適合事先確認座位與設備情況。",
     "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJpdkbPm2pQjQR8IPxB9Jy8rI",
     "formatted_address": "2f, No. 47號中山北路一段中山區臺北市臺灣 104",
     "district": "",
@@ -942,6 +1062,9 @@ const restaurantData = [
     },
     "ai_summary": "目前缺少與親子設施相關的明確描述，是否適合帶小孩用餐，仍需視當天環境而定。",
     "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJQ3o7S2SpQjQRe_XmRyh4OBY",
     "formatted_address": "10454臺灣臺北市中山區林森北路159巷4號",
     "district": "",
@@ -964,6 +1087,9 @@ const restaurantData = [
     },
     "ai_summary": "從親子用餐角度來看，座位空間不擁擠，帶小孩來用餐相對輕鬆。",
     "signals": [],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJQ6qFRCSrQjQRf5i_pjyKv0M",
     "formatted_address": "106臺灣臺北市大安區敦化南路二段11巷1號",
     "district": "",
@@ -986,6 +1112,9 @@ const restaurantData = [
     },
     "ai_summary": "目前未見明確的親子設施資訊，這家餐酒館是否適合帶小孩前往，仍需依現場環境評估。",
     "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJq_1oDQmpQjQRlMaxMHpr3PU",
     "formatted_address": "108臺灣臺北市萬華區武昌街二段72號4樓",
     "district": "",
@@ -1011,6 +1140,9 @@ const restaurantData = [
       "女兒還把貓貓哄睡了呢！",
       "舒適放鬆的環境"
     ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "空間寬敞、不怕小孩吵",
     "place_id": "ChIJr52_JZ2pQjQRQ_UeWocNMTE",
     "formatted_address": "10089臺灣臺北市中正區羅斯福路三段244巷9弄2-1號",
     "district": "",
@@ -1033,6 +1165,9 @@ const restaurantData = [
     },
     "ai_summary": "這家餐廳整體氛圍對孩子活動較能接受，帶小孩來用餐會比較輕鬆。",
     "signals": [],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJRe6azGGpQjQRFcbUze7j7IU",
     "formatted_address": "10491臺灣臺北市中山區南京東路二段214巷4號",
     "district": "",
@@ -1055,6 +1190,9 @@ const restaurantData = [
     },
     "ai_summary": "以家庭聚餐需求來看，座位空間不擁擠，整體氛圍對孩子活動較能接受，對家庭客人來說會比較方便。",
     "signals": [],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "空間寬敞、不怕小孩吵",
     "place_id": "ChIJS-zNIF-pQjQR1vU1UjOlTM4",
     "formatted_address": "104臺灣臺北市中山區松江路235巷19號1樓",
     "district": "",
@@ -1081,6 +1219,9 @@ const restaurantData = [
       "親子餐廳型別，會稍微「熱鬧」",
       "親子友善有尿布臺"
     ],
+    "parent_friendly_score": 4,
+    "parent_friendly_level": "高",
+    "reason": "有兒童椅、有兒童餐、空間寬敞、不怕小孩吵",
     "place_id": "ChIJsS8FHNyvQjQRwtaRVpPMyAI",
     "formatted_address": "111臺灣臺北市士林區克強路30號1樓",
     "district": "",
@@ -1096,13 +1237,16 @@ const restaurantData = [
     "rating": "4.4",
     "url": "https://www.google.com/maps/search/?api=1&query=心味酒餚居酒屋&query_place_id=ChIJsVHmQm6pQjQRykPNN0wJEd4",
     "attributes": {
-      "high_chair_available": "no",
+      "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
     "ai_summary": "現有評論顯示，這家餐廳的親子友善訊號較少，若有明確需求，建議先向店家確認。",
     "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJsVHmQm6pQjQRykPNN0wJEd4",
     "formatted_address": "10491臺灣臺北市中山區中山北路一段37號",
     "district": "",
@@ -1127,6 +1271,9 @@ const restaurantData = [
     "signals": [
       "進門那片空間寬敞"
     ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "空間寬敞、不怕小孩吵",
     "place_id": "ChIJT2Oz1pKrQjQRRnykvhE9Bns",
     "formatted_address": "105臺灣臺北市松山區延壽街329號1樓",
     "district": "",
@@ -1149,6 +1296,9 @@ const restaurantData = [
     },
     "ai_summary": "以家庭聚餐需求來看，座位空間不擁擠，用來安排親子聚餐也滿合適。",
     "signals": [],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJTW_h3LSrQjQR1CQQteePjco",
     "formatted_address": "110臺灣臺北市信義區吳興街269巷1弄21號",
     "district": "",
@@ -1171,6 +1321,9 @@ const restaurantData = [
     },
     "ai_summary": "以家庭聚餐需求來看，有兒童餐可選，座位空間不擁擠，整體氛圍對孩子活動較能接受，帶小孩來用餐相對輕鬆。",
     "signals": [],
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "有兒童餐、空間寬敞、不怕小孩吵",
     "place_id": "ChIJU0O98aesQjQRXsDcaOW-mzw",
     "formatted_address": "115臺灣臺北市南港區經貿二路66之1號",
     "district": "",
@@ -1195,6 +1348,9 @@ const restaurantData = [
     "signals": [
       "場地寬敞且氛圍適合閒聊"
     ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "空間寬敞、不怕小孩吵",
     "place_id": "ChIJUxfMbFauQjQRSwBqz9ahGgU",
     "formatted_address": "112臺灣臺北市北投區大業路300巷1號",
     "district": "",
@@ -1220,6 +1376,9 @@ const restaurantData = [
       "適合2-4人的聚餐",
       "是個好聊天的地方"
     ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "空間寬敞、不怕小孩吵",
     "place_id": "ChIJvdWMGY2rQjQRjF3SNuha2Tw",
     "formatted_address": "105臺灣臺北市松山區富錦街449號",
     "district": "",
@@ -1245,6 +1404,9 @@ const restaurantData = [
       "玩得很開心，也不會擁擠",
       "食物口味有清淡的選擇"
     ],
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "有兒童餐、空間寬敞、不怕小孩吵",
     "place_id": "ChIJVQR_uWusQjQRYNp5Wdmei40",
     "formatted_address": "79號, 文湖街內湖區臺北市臺灣 11445",
     "district": "",
@@ -1260,7 +1422,7 @@ const restaurantData = [
     "rating": "4.1",
     "url": "https://www.google.com/maps/search/?api=1&query=樂雅樂餐廳+敦化店&query_place_id=ChIJvWWkxO6rQjQRHf_zc9VTcAE",
     "attributes": {
-      "high_chair_available": "yes",
+      "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
@@ -1271,6 +1433,9 @@ const restaurantData = [
       "早午餐有多種選擇",
       "樂雅樂餐廳"
     ],
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "有兒童餐、空間寬敞、不怕小孩吵",
     "place_id": "ChIJvWWkxO6rQjQRHf_zc9VTcAE",
     "formatted_address": "105臺灣臺北市松山區敦化北路199巷9號",
     "district": "",
@@ -1295,6 +1460,9 @@ const restaurantData = [
     "signals": [
       "氛圍依舊獨特舒適"
     ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJV_SOYpqpQjQRA9cnwa-fRdc",
     "formatted_address": "100臺灣臺北市中正區羅斯福路二段118號",
     "district": "",
@@ -1319,6 +1487,9 @@ const restaurantData = [
     "signals": [
       "店內空間寬敞，氣氛平和"
     ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJXV3RZsOrQjQRQvdi_pCOSvM",
     "formatted_address": "105臺灣臺北市松山區八德路三段12巷52弄13號1樓CAFEPRO",
     "district": "",
@@ -1334,7 +1505,7 @@ const restaurantData = [
     "rating": "4.1",
     "url": "https://www.google.com/maps/search/?api=1&query=筷子餐廳&query_place_id=ChIJySwN8durQjQRpe5ndb5Zriw",
     "attributes": {
-      "high_chair_available": "yes",
+      "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
@@ -1344,6 +1515,9 @@ const restaurantData = [
       "適閤家庭聚餐的大圓桌",
       "有適閤家庭聚餐的大圓桌"
     ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "空間寬敞、不怕小孩吵",
     "place_id": "ChIJySwN8durQjQRpe5ndb5Zriw",
     "formatted_address": "106臺灣臺北市大安區光復南路290巷1號",
     "district": "",
@@ -1369,6 +1543,9 @@ const restaurantData = [
       "氣氛大眾化且隨興",
       "一樣的連鎖店"
     ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "有兒童餐、不怕小孩吵",
     "place_id": "ChIJzf1Z-L-rQjQRJJ2JbvfGubs",
     "formatted_address": "104臺灣臺北市中山區長春路238號",
     "district": "",
@@ -1384,7 +1561,7 @@ const restaurantData = [
     "rating": "3.9",
     "url": "https://www.google.com/maps/search/?api=1&query=茉莉漢堡&query_place_id=ChIJZTNGjn2uQjQRtvfe01IHnzA",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "yes",
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
@@ -1393,6 +1570,9 @@ const restaurantData = [
     "signals": [
       "兒童餐的車車造型小朋友很喜歡"
     ],
+    "parent_friendly_score": 4,
+    "parent_friendly_level": "高",
+    "reason": "有兒童椅、有兒童餐、空間寬敞、不怕小孩吵",
     "place_id": "ChIJZTNGjn2uQjQRtvfe01IHnzA",
     "formatted_address": "111臺灣臺北市士林區天玉街38巷15號",
     "district": "",
@@ -1415,6 +1595,9 @@ const restaurantData = [
     },
     "ai_summary": "這家咖啡廳整體氛圍對孩子活動較能接受，帶小孩來用餐相對輕鬆。",
     "signals": [],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJ__cnHACpQjQRqPOSGWdlHbI",
     "formatted_address": "104臺灣臺北市中山區長春路21號1樓",
     "district": "",
@@ -1425,6 +1608,9 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The+Cup+Coffee+House+臺北&query_place_id=ChIJ__cnHACpQjQRqPOSGWdlHbI"
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJTb-0xPqrQjQRyldoASUCmPU",
     "name": "gubami Social",
     "address": "110臺灣臺北市信義區松壽路9號6樓",
@@ -1451,6 +1637,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJnea3ei-rQjQRJJpRyMTUlEE",
     "name": "URBAN PARADISE 信義店",
     "address": "110臺灣臺北市信義區松高路11號5樓",
@@ -1477,6 +1666,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJDRg6PQCrQjQRF5UBQT_vCSE",
     "name": "老井極上燒肉 臺北信義店",
     "address": "110臺灣臺北市信義區松仁路99號B1",
@@ -1503,6 +1695,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJpzAkec2rQjQRLYceVmNNtq4",
     "name": "默爾 pasta pizza(臺北信義威秀店)",
     "address": "110臺灣臺北市信義區松壽路20號2樓",
@@ -1529,6 +1724,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "有兒童椅、不怕小孩吵",
     "place_id": "ChIJMxoKdLqrQjQRiFDQr8nIhug",
     "name": "Miacucina信義店",
     "address": "110臺灣臺北市信義區松壽路11號2 樓",
@@ -1541,7 +1739,7 @@ const restaurantData = [
     "url": "https://maps.google.com/?cid=16755300232242155656&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
     "google_maps_url": "https://maps.google.com/?cid=16755300232242155656&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
@@ -1555,6 +1753,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJny7cm_mrQjQRXc1MKexwNQA",
     "name": "隱世餐酒館(臺北永春店)",
     "address": "110臺灣臺北市信義區忠孝東路五段297號B1F",
@@ -1583,6 +1784,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJKTMk-LurQjQRj34Hcv02Muw",
     "name": "Range Bistrokaya",
     "address": "110臺灣臺北市信義區忠孝東路五段71巷25號",
@@ -1609,6 +1813,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJRRyG_YyrQjQRLVtrXvdemBc",
     "name": "HOOTERS美式餐廳 信義店",
     "address": "110臺灣臺北市信義區松仁路58號14樓",
@@ -1635,6 +1842,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJc-2A5rKrQjQR0OCuN-EDetk",
     "name": "渣男 Taiwan Bistro 信義一渣",
     "address": "110臺灣臺北市信義區信義路五段150巷315弄12號",
@@ -1661,6 +1871,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJI-uHec6rQjQRolls8XbSbdY",
     "name": "心潮飯店｜臺北微風信義店 SINCHAO RICE SHOPPE",
     "address": "110臺灣臺北市信義區忠孝東路五段68號2樓",
@@ -1687,6 +1900,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ_Y4vZzKrQjQRcqCqvdGszQQ",
     "name": "輪輪1976 和食茶酒駅/ Lun Lun1976/臺北信義餐酒館/包廂餐廳",
     "address": "110405臺灣臺北市信義區松壽路11號3樓",
@@ -1713,6 +1929,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "有兒童椅、空間寬敞、不怕小孩吵",
     "place_id": "ChIJjfzEsLCrQjQRVcQNcIk94A8",
     "name": "饗食天堂 臺北信義店",
     "address": "110臺灣臺北市信義區松壽路12號ATT 4 FUN百貨6樓",
@@ -1725,7 +1944,7 @@ const restaurantData = [
     "url": "https://maps.google.com/?cid=1143981965851870293&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
     "google_maps_url": "https://maps.google.com/?cid=1143981965851870293&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
@@ -1741,6 +1960,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJc_6fMzerQjQRHcqXwpPVxFo",
     "name": "SALT&STONE 臺北101餐廳",
     "address": "110臺灣臺北市信義區市府路45號4樓",
@@ -1769,6 +1991,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "空間寬敞、不怕小孩吵",
     "place_id": "ChIJ1eXQShWrQjQR-9Ev_CR9KkI",
     "name": "初泰信義象山門市",
     "address": "110臺灣臺北市信義區信義路五段122號",
@@ -1797,6 +2022,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJz8_rGbyrQjQRD1-qfRm5C1M",
     "name": "JK STUDIO 法式餐酒館 (臺北信義店)｜預約制",
     "address": "110臺灣臺北市信義區基隆路一段147巷5弄13號",
@@ -1823,6 +2051,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJC1PDcsmrQjQR_f22mdWyC-g",
     "name": "SHANN SHANN 小香 臺北三越信義店",
     "address": "110臺灣臺北市信義區松壽路9號6樓",
@@ -1849,6 +2080,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJJ4zWvACrQjQRfklXErrIHi0",
     "name": "Twozzim韓國燉雞-臺北信義店",
     "address": "110臺灣臺北市信義區松壽路12號4 樓",
@@ -1877,6 +2111,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJg5qWU7irQjQR2loPcpgDxdE",
     "name": "30 BRUNCH",
     "address": "110臺灣臺北市信義區逸仙路26巷17號",
@@ -1905,6 +2142,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJ6ere6rurQjQRCmicPiS523g",
     "name": "INPARADISE 饗饗 微風信義店",
     "address": "110臺灣臺北市信義區忠孝東路五段68號46樓微風信義",
@@ -1933,6 +2173,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "空間寬敞、不怕小孩吵",
     "place_id": "ChIJYzLihrurQjQRVmV1XPoNuks",
     "name": "艾朋牛排餐酒館",
     "address": "110臺灣臺北市信義區忠孝東路五段139號2樓",
@@ -1962,6 +2205,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJsZoO7FOrQjQR8x55hLnwBDU",
     "name": "稻舍食館 微風信義店",
     "address": "110臺灣臺北市信義區忠孝東路五段68號4 樓",
@@ -1990,6 +2236,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJcQV2D2GrQjQRNnfEuAacZp0",
     "name": "YABI KITCHEN DREAM PLAZA店",
     "address": "4樓, No. 11號松高路信義區臺北市臺灣 11073",
@@ -2016,6 +2265,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJhxtvkqOrQjQRbbpjh4uldU8",
     "name": "GYUU NIKU ステーキ專門店",
     "address": "No. 412-6, No. 412-6號忠孝東路五段信義區臺北市臺灣 110",
@@ -2042,6 +2294,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJS6tN5nCrQjQRViIItrTnwug",
     "name": "稻舍食館 統一時代店",
     "address": "110臺灣臺北市信義區忠孝東路五段8號號 B2",
@@ -2068,6 +2323,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJee7pgLSrQjQRIvEw0Gv3H58",
     "name": "溫度小館Chaleureux",
     "address": "11050臺灣臺北市信義區莊敬路391巷3弄16號",
@@ -2094,6 +2352,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJrSZypLCrQjQRdNWuZqKdwqM",
     "name": "欣葉臺菜 信義新天地A9店",
     "address": "110臺灣臺北市信義區松壽路9號8樓",
@@ -2120,6 +2381,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "空間寬敞、不怕小孩吵",
     "place_id": "ChIJPbbLlLurQjQReNJaofMjXFE",
     "name": "泰集 微風信義店",
     "address": "110臺灣臺北市信義區忠孝東路五段68號4樓",
@@ -2149,6 +2413,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJQeGuX7mrQjQRaWkzgt7mxpU",
     "name": "星期五美式餐廳 信義餐廳",
     "address": "110臺灣臺北市信義區忠孝東路五段8號2樓",
@@ -2177,6 +2444,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJL6olmHSrQjQRLQ7itONyGgs",
     "name": "樂軒松阪亭",
     "address": "110臺灣臺北市信義區松高路19號6樓",
@@ -2203,6 +2473,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJtc-KWvurQjQR3ePz0SetDRE",
     "name": "吾界 鐵板燒",
     "address": "110臺灣臺北市信義區信義路六段119號",
@@ -2229,6 +2502,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJVV0ISSqqQjQRV3Yu84qzaTg",
     "name": "魚韻日式料理",
     "address": "106臺灣臺北市大安區瑞安街208巷24弄14號",
@@ -2255,6 +2531,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJad0qbLarQjQROo8t5fAtfhE",
     "name": "岡心食堂",
     "address": "106臺灣臺北市大安區敦化南路一段190巷43號1樓",
@@ -2281,6 +2560,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJwQPcmc-rQjQRtXDQA__PPwg",
     "name": "solo pasta",
     "address": "106臺灣臺北市大安區安和路一段29-1號",
@@ -2307,6 +2589,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ-0-weL2rQjQRyzUgFcOcehU",
     "name": "The Stage Canteen",
     "address": "106臺灣臺北市大安區信義路四段265巷31弄1號",
@@ -2333,6 +2618,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJl92ABjKrQjQRUGV4VQcIRaQ",
     "name": "嵩 臺北大安",
     "address": "106臺灣臺北市大安區延吉街131巷35號",
@@ -2361,6 +2649,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJxTLhpyg9aTQRecXNly6631M",
     "name": "77opèt Restaurant",
     "address": "106臺灣臺北市大安區復興南路一段279巷30弄3號1樓",
@@ -2387,6 +2678,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJXcfVuYSrQjQROcYuv1Ti-Dg",
     "name": "文｜火｜處｜方 料理所",
     "address": "106臺灣臺北市大安區文昌街80號1樓",
@@ -2413,6 +2707,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJly19jbyrQjQRBN17akR0XKo",
     "name": "好米亞",
     "address": "106臺灣臺北市大安區敦化南路一段270巷6號",
@@ -2441,6 +2738,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJt9661tCrQjQRXMVpa4A5Bmg",
     "name": "L' AGE 熟成餐廳",
     "address": "106臺灣臺北市大安區仁愛路三段143巷25號",
@@ -2467,6 +2767,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJyytYucyrQjQRuUWbJ0VOrko",
     "name": "Divino Taipei",
     "address": "106臺灣臺北市大安區安和路二段71巷15號",
@@ -2493,6 +2796,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJxcYXoSWrQjQRk0UEolx-iGM",
     "name": "The Tavernist",
     "address": "106臺灣臺北市大安區仁愛路四段27巷25號12F",
@@ -2519,6 +2825,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJx_wX4virQjQRX2J2swlasUo",
     "name": "Ombré敦南店｜大安區餐酒館 - 多國料理餐廳 - 臺北早午餐推薦",
     "address": "106臺灣臺北市大安區北市敦化南路一段161巷70號",
@@ -2545,6 +2854,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJgfp8ay6qQjQRcxepniNoKa8",
     "name": "樂食堂",
     "address": "106臺灣臺北市大安區臥龍街11號",
@@ -2571,6 +2883,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJJyEuVRurQjQRh3hC1-l-J1M",
     "name": "11PASTA Trattoria 食義_大安店",
     "address": "106臺灣臺北市大安區和平東路二段118巷2弄1號1樓",
@@ -2597,6 +2912,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJt2exNxurQjQROcDnwKLeXA4",
     "name": "Restaurant A",
     "address": "106臺灣臺北市大安區忠孝東路三段282號新光三越Diamond Towers 二館4樓四樓",
@@ -2623,6 +2941,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJpfoexc2rQjQRTYSFv1cqWF0",
     "name": "PICO PICO",
     "address": "106臺灣臺北市大安區安和路一段102巷28號",
@@ -2649,6 +2970,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ1aexh9GrQjQRBdl35-SffoQ",
     "name": "樂邦",
     "address": "106臺灣臺北市大安區大安路一段183號",
@@ -2675,6 +2999,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "空間寬敞、不怕小孩吵",
     "place_id": "ChIJvU5mgSmqQjQR0WhA_Zruk5E",
     "name": "樂子the Diner 瑞安店（臺北大安區必吃特色早午餐 / 臺北好吃聚餐餐廳推薦 / 大安森林公園附近美食／大安區寵物友善餐廳）",
     "address": "106臺灣臺北市大安區瑞安街145號",
@@ -2704,6 +3031,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJfWNqV8-rQjQRJAiwfk_LCyg",
     "name": "南村｜私廚‧小酒棧",
     "address": "106臺灣臺北市大安區忠孝東路四段216巷33弄10號",
@@ -2730,6 +3060,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ90ln_c-rQjQRp2jywC1baXs",
     "name": "義大利餐廳 TRASTEVERE 大安區 忠孝復興站 美食",
     "address": "106臺灣臺北市大安區復興南路一段107巷7號1樓",
@@ -2756,6 +3089,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJp6GC5NGrQjQRDuHabyIYADA",
     "name": "MUME",
     "address": "106臺灣臺北市大安區四維路28號",
@@ -2782,6 +3118,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJD6Po8jqrQjQRAWmFk3XnIUk",
     "name": "UNCLE RAY 串燒·牛飲·咖哩 臺北大安",
     "address": "106臺灣臺北市大安區敦化南路一段160巷48號1樓",
@@ -2808,6 +3147,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJjVvh6d2rQjQRUnfw6CCzkDo",
     "name": "The House Taipei 屋內（臺北大安區雪茄酒吧餐酒館推薦／東區夜晚美食調酒／科技大樓站美食）",
     "address": "106臺灣臺北市大安區復興南路二段185號",
@@ -2834,6 +3176,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ1x_RyCyrQjQRFeMwfE9teds",
     "name": "BRUN不然-信義店(捷運大安站)",
     "address": "106臺灣臺北市大安區信義路四段103號2F",
@@ -2860,6 +3205,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJvfRr2NWrQjQRZSTAyJ3KtLE",
     "name": "忠南飯館",
     "address": "106臺灣臺北市大安區仁愛路三段88號",
@@ -2886,6 +3234,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJmYvKcaKrQjQRP84_3tp7iW0",
     "name": "Agusto 牛排龍蝦餐酒館 大安店｜臺北美食義式餐廳 生日聚餐約會推薦",
     "address": "106臺灣臺北市大安區忠孝東路四段216巷27弄15號1樓",
@@ -2912,6 +3263,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "有兒童椅",
     "place_id": "ChIJC2sNRzOrQjQRLjwFHKve68E",
     "name": "十二月 粥品 • 茶飲 • 私房菜｜臺北大安店",
     "address": "106臺灣臺北市大安區大安路一段19巷10號",
@@ -2924,7 +3278,7 @@ const restaurantData = [
     "url": "https://maps.google.com/?cid=13973507095337974830&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
     "google_maps_url": "https://maps.google.com/?cid=13973507095337974830&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
@@ -2938,6 +3292,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJSVOJyLipQjQRT_OG-Tg1QRg",
     "name": "PAPA RESTAURANT （臺北師大店）／師大美食/師大義大利麵/師大簡餐/師大披薩/師大手工烘培/師大歐式麵包/師大下午茶/師大聚餐推薦/師大商業午餐/師大包場",
     "address": "106臺灣臺北市大安區師大路80巷1-1號",
@@ -2964,6 +3321,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJLU89EYKpQjQRoPkxb7kg0Aw",
     "name": "吐司利亞 永康店",
     "address": "106臺灣臺北市大安區信義路二段200號",
@@ -2990,6 +3350,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJpdhua9OrQjQRFSrQFoUcnJQ",
     "name": "饞食坊",
     "address": "106臺灣臺北市大安區信義路四段30巷58號",
@@ -3016,6 +3379,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ63TtzA2pQjQRYLTOoGVHw3g",
     "name": "豐禾 臺味風格料理 臺北南京東店",
     "address": "104臺灣臺北市中山區南京東路二段146號2F",
@@ -3042,6 +3408,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJHdyrxrWpQjQRVUx2nUhAuPs",
     "name": "Second Floor 貳樓中山南西店",
     "address": "104臺灣臺北市中山區中山北路二段16巷22號",
@@ -3068,6 +3437,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJyQU1ZgWsQjQR5kN2WtEzKtU",
     "name": "頁小館",
     "address": "10463臺灣臺北市中山區北安路595巷20弄4號1樓",
@@ -3094,6 +3466,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJjTMYlGerQjQRFFqF4P5iLfQ",
     "name": "THE·春 Fusion 中山（最後收客時間 20:30）",
     "address": "10491臺灣臺北市中山區中山北路三段23號",
@@ -3120,6 +3495,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJr9JFPW-pQjQRvynzM2OVS6I",
     "name": "青葉臺灣料理（創始店）",
     "address": "104臺灣臺北市中山區中山北路一段105巷10號",
@@ -3146,6 +3524,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJc3mO3Y-pQjQRu0eMzMjdyj0",
     "name": "一屋 x COUPLE²｜臺北中山區慶生・紀念日餐酒館",
     "address": "104臺灣臺北市中山區中山北路一段83巷18號",
@@ -3174,6 +3555,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJg3D5FFSpQjQRjxW3v1V5q4c",
     "name": "瑪喜餐廳",
     "address": "10491臺灣臺北市中山區中山北路三段26-1號民權西路捷運站 9 or 10號出口400公尺",
@@ -3202,6 +3586,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJZf_OS2ipQjQRE1H_bmSb708",
     "name": "Buttermilk 摩登美式餐廳",
     "address": "10491臺灣臺北市中山區中山北路二段57之1號",
@@ -3228,6 +3615,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJPSyKR2mpQjQRLB_JwBEp9H4",
     "name": "咖啡瑪榭 中山店",
     "address": "10491臺灣臺北市中山區中山北路二段16巷15號1樓",
@@ -3254,6 +3644,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJkSOTUfKrQjQRmr6m00-3INA",
     "name": "糀日和 Kouji Wafu Pasta",
     "address": "10489臺灣臺北市中山區龍江路79號",
@@ -3280,6 +3673,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJWSrdbHOrQjQRUBnsOzPfyE8",
     "name": "よる-Yoru by Dennis Wang",
     "address": "10491臺灣臺北市中山區八德路二段332巷16號",
@@ -3306,6 +3702,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJHQT4ZMepQjQRNA8BTVY9L-o",
     "name": "阪前鐵板燒 臺北中山北店",
     "address": "104臺灣臺北市中山區中山北路二段52號",
@@ -3334,6 +3733,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJoWx2xJWpQjQRdECjBbw_IkA",
     "name": "美術系壽司-臺北中山店",
     "address": "10491臺灣臺北市中山區民權西路36-1號1樓",
@@ -3360,6 +3762,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJCzPYW2ipQjQR-p1YtM7k8jA",
     "name": "金品茶樓",
     "address": "10491臺灣臺北市中山區長春路16號",
@@ -3386,6 +3791,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJe_wsDfqpQjQRQTD25ugIkK4",
     "name": "butcher jr. by lanpengyou 中山",
     "address": "10444臺灣臺北市中山區中山北路一段140巷2-2號1樓",
@@ -3412,6 +3820,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJvw4JL-GpQjQR06sfBHzlFSw",
     "name": "潮丼日式定食/平價美食餐廳",
     "address": "104臺灣臺北市中山區民生西路45巷7弄21號",
@@ -3438,6 +3849,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJVz_H32ipQjQRDDbDTPoI01Q",
     "name": "王品牛排 臺北中山北店",
     "address": "104臺灣臺北市中山區中山北路二段33號2F",
@@ -3464,6 +3878,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJO16aXm-pQjQR5OsC7hn8zKo",
     "name": "梅子臺灣料理餐廳 林森老店",
     "address": "10443臺灣臺北市中山區林森北路107巷1號",
@@ -3490,6 +3907,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJtyBB3GepQjQRwXoHDB1wr7Y",
     "name": "京鼎樓",
     "address": "10491臺灣臺北市中山區長春路47號",
@@ -3516,6 +3936,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJwUS0HmmpQjQR5BB-NYezal8",
     "name": "新葡苑餐廳 臺北中山店",
     "address": "104臺灣臺北市中山區中山北路二段24-3號",
@@ -3542,6 +3965,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJRW1L0dupQjQRAF4Le1cC9-k",
     "name": "新禾料理廚房 Culina Nova",
     "address": "10491臺灣臺北市中山區長春路82號1F",
@@ -3568,6 +3994,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJW_lv_hmpQjQRFslAyToEpRE",
     "name": "YABI KITCHEN 臺北誠品南西店",
     "address": "104臺灣臺北市中山區南京西路14號2F",
@@ -3596,6 +4025,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJJwVz116pQjQRFjYsnOaZJaU",
     "name": "小六食堂",
     "address": "10491臺灣臺北市中山區錦州街252號",
@@ -3622,6 +4054,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJG5s_KO6pQjQRBlrh8GPJHP8",
     "name": "日式居酒館 ABV Bar & Kitchen 臺北中山店",
     "address": "104臺灣臺北市中山區中山北路二段39巷16之2號",
@@ -3648,6 +4083,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJx1oTFV6pQjQRUtZAGCMtB1I",
     "name": "禪風茶樓",
     "address": "104臺灣臺北市中山區松江路182號2樓",
@@ -3674,6 +4112,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "空間寬敞、不怕小孩吵",
     "place_id": "ChIJyZbq2WWtQjQRyfvDoL6CN6Q",
     "name": "麵屋技庵",
     "address": "10491臺灣臺北市中山區大直街18號",
@@ -3703,6 +4144,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJQ74D72WpQjQRGFc9NT18x5E",
     "name": "日式居酒屋 Mura邑居酒屋 臺北中山區 中山站 美食 推薦 japanese restaurant",
     "address": "號 No, No. 36林森北路119巷中山區臺北市臺灣 104",
@@ -3729,6 +4173,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ8R7p8mipQjQR4J3PHLfBw84",
     "name": "滋立Mizu料亭鍋物 - 中山 火鍋|臺北中山火鍋|中山區餐廳|臺北私密包廂餐廳|職人握壽司|日本A5和牛|臺北高階火鍋|中山 火鍋美食",
     "address": "10491臺灣臺北市中山區中山北路二段39巷14-1號",
@@ -3755,6 +4202,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJnSXOBSapQjQREypodLqU1NQ",
     "name": "說故事創義麵餐酒館-中山餐酒館/熱門餐酒館/必吃餐酒館|打卡餐酒館/寵物友善/義大利麵/球賽酒吧",
     "address": "10491臺灣臺北市中山區民權東路一段74號",
@@ -3781,6 +4231,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJc3yInFapQjQRtBc1qSDHY7s",
     "name": "半沢日本料理-臺北美食 臺北日本料理 附近美食 中山區美食 中山區餐廳 中山區日本料理",
     "address": "104026臺灣臺北市中山區撫順街2號",
@@ -3807,6 +4260,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJqxr9UO6rQjQRw9xnehrCHvg",
     "name": "千層吧",
     "address": "105臺灣臺北市松山區民生東路五段138巷17號",
@@ -3833,6 +4289,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "空間寬敞、不怕小孩吵",
     "place_id": "ChIJYRoU1marQjQROmsP8urhm8Y",
     "name": "關東本家-松山深夜美食|街邊美食|巷弄美食|人氣關東煮|人氣消夜|在地推薦宵夜",
     "address": "105臺灣臺北市松山區吉祥路41號",
@@ -3859,6 +4318,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJn6ke5ZGrQjQRnyZE_xNE4ro",
     "name": "小北平麵食館",
     "address": "105臺灣臺北市松山區延壽街97號",
@@ -3885,6 +4347,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJPxtqjXurQjQRVFC7Av8hfpg",
     "name": "大鵬壽司",
     "address": "10561臺灣臺北市松山區八德路四段245巷32弄49號",
@@ -3911,6 +4376,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJjSj3KvarQjQRhQiXuwVdvwc",
     "name": "青樓中式餐酒館",
     "address": "105047臺灣臺北市松山區八德路四段512-1號",
@@ -3937,6 +4405,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJX3S6GsKrQjQRQs59XAaTHFE",
     "name": "ONE GOOD烤肉飯(松山總店）",
     "address": "105臺灣臺北市松山區光復南路17巷34號1樓",
@@ -3963,6 +4434,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJD2QAcsCrQjQRsoPgiqP9iBU",
     "name": "四海一家",
     "address": "105臺灣臺北市松山區八德路四段72巷10弄16號1樓",
@@ -3989,6 +4463,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJoeG-BpSrQjQRxAW5R4IQT6g",
     "name": "東引小吃店（推薦深夜美食 牛肉麵 臺北宵夜 捷運南京三民站）",
     "address": "105臺灣臺北市松山區南京東路五段291巷20弄3-2號",
@@ -4015,6 +4492,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJh_KxcJKrQjQRFv_v-q2UyHs",
     "name": "敘。暖暖｜warm place",
     "address": "105臺灣臺北市松山區三民路113巷15號1樓",
@@ -4041,6 +4521,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJZRnK2ferQjQR0tXt_reAwQc",
     "name": "不葷主義茶餐廳 臺北店 (13:30/20:30最後點餐｜僅收現金)",
     "address": "105臺灣臺北市松山區南京東路三段275號2樓",
@@ -4067,6 +4550,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJNZqcBoerQjQRvs1gO8HapYA",
     "name": "黑馬小廚",
     "address": "105臺灣臺北市松山區寶清街71號",
@@ -4093,6 +4579,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJK5GmlHyrQjQRPNKNdgjHRhU",
     "name": "有間小館",
     "address": "105臺灣臺北市松山區寶清街26號",
@@ -4119,6 +4608,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJMdql9jOrQjQRz9ysezDvPAQ",
     "name": "肉執事臺北松山門市",
     "address": "105057臺灣臺北市松山區市民大道六段135號",
@@ -4147,6 +4639,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJhVyTLZWrQjQRaNfIK-fOkJE",
     "name": "萬芳冰室 南京店｜茶餐廳｜南京三民美食推薦",
     "address": "105臺灣臺北市松山區南京東路五段66巷16號",
@@ -4173,6 +4668,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "空間寬敞、不怕小孩吵",
     "place_id": "ChIJMTDjgL-rQjQRYK9zG2KJ-iw",
     "name": "阿東師",
     "address": "105臺灣臺北市松山區市民大道五段173號",
@@ -4201,6 +4699,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJZ9PLeZqrQjQR5A9V3xca_kw",
     "name": "虎笑麵屋 無訂位服務",
     "address": "105臺灣臺北市松山區三民路113巷18號5樓",
@@ -4227,6 +4728,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJE1T0HLqrQjQRiTd_HoSvC1Y",
     "name": "合居酒屋",
     "address": "105臺灣臺北市松山區新東街6巷4號",
@@ -4253,6 +4757,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJLWGqc46rQjQRaHFMoW8TTZY",
     "name": "大師廚館",
     "address": "105臺灣臺北市松山區民生東路五段258號",
@@ -4281,6 +4788,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJn8-tLZWrQjQR90RWDVyx_W8",
     "name": "絕好調 和食海鮮酒場",
     "address": "105臺灣臺北市松山區吉祥路61號",
@@ -4307,6 +4817,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJnaPPuO6rQjQRNZlSdw5Irik",
     "name": "富錦樹臺菜香檳 敦北店",
     "address": "10548臺灣臺北市松山區敦化北路199巷17號1樓",
@@ -4333,6 +4846,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJG5BF5JSrQjQRlC48QVBNydk",
     "name": "YAYOI彌生軒 南京三民店",
     "address": "105臺灣臺北市松山區南京東路五段92.94.96號1樓",
@@ -4359,6 +4875,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJ85whEZurQjQR5oeX9Aq3e2Q",
     "name": "夏綠沁私房義大利麵燉飯",
     "address": "105臺灣臺北市松山區敦化北路244巷37號",
@@ -4387,6 +4906,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJS2oVop6rQjQRF7WCG3-Tzwk",
     "name": "大戶屋 松山車站店",
     "address": "110臺灣臺北市信義區松山路11號",
@@ -4413,6 +4935,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "有兒童椅",
     "place_id": "ChIJX5yZXwCrQjQRKUrbiH1XkVY",
     "name": "小韓室 韓食 飯捲專賣 @臺北松山店",
     "address": "105臺灣臺北市松山區新東街7號",
@@ -4425,7 +4950,7 @@ const restaurantData = [
     "url": "https://maps.google.com/?cid=6237863155563448873&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
     "google_maps_url": "https://maps.google.com/?cid=6237863155563448873&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
@@ -4439,6 +4964,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJqQnsZmarQjQRPbMWsX43yfw",
     "name": "丸亀製麵 Citylink松山店 烏龍麵餐廳",
     "address": "105臺灣臺北市信義區松山路11號2 樓",
@@ -4465,6 +4993,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJx21xK_urQjQRJ0n6URaDN5k",
     "name": "添好運 松山車站店",
     "address": "110臺灣臺北市信義區松山路11號號 2 樓",
@@ -4491,6 +5022,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJMzU45eirQjQRLJZBNaaDen4",
     "name": "京鼎小館",
     "address": "105臺灣臺北市松山區敦化北路155巷13號",
@@ -4517,6 +5051,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ37mFwu6rQjQRMDAw9IxDH44",
     "name": "Snail 蝸牛義大利餐廳 民生店",
     "address": "105臺灣臺北市松山區民生東路四段56巷3弄10號",
@@ -4543,6 +5080,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJxaIcSp6rQjQRhc47ZASYmn0",
     "name": "松山機場2F美食廣場",
     "address": "105臺灣臺北市松山區敦化北路340-9號第二航廈 (國內線航廈)",
@@ -4571,6 +5111,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJnTkg-8yrQjQR9_mNRfYyySk",
     "name": "浮誇海鮮丼飯專門店",
     "address": "105臺灣臺北市松山區南京東路五段291巷20弄24號",
@@ -4597,6 +5140,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ5-09PB2tQjQRxn5hRz87wV4",
     "name": "Tierra Casa Restaurant-臺北內湖西餐廳 在地食材創意料理 價格訂位推薦 義式法式料理 2026人氣必吃美食 精品茶葉咖啡 聚餐親子餐廳 PTT Dcard",
     "address": "114臺灣臺北市內湖區金龍路177號",
@@ -4623,6 +5169,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJVwidem-sQjQRNq1w2eqA4jU",
     "name": "飯BAR 內湖創始店",
     "address": "114臺灣臺北市內湖區內湖路一段360巷2號",
@@ -4649,6 +5198,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJBQCOmmStQjQR0DvynmAtv7c",
     "name": "P.Ming泰式廚坊",
     "address": "114臺灣臺北市內湖區內湖路一段600巷2號",
@@ -4675,6 +5227,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJLa98GXKtQjQRxQ58Wwem0NI",
     "name": "Pastaio 內湖",
     "address": "114臺灣臺北市內湖區瑞光路584號",
@@ -4701,6 +5256,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJnwpmyIWtQjQReryoq_5_csE",
     "name": "LEAVES Cafe 午葉內湖旗艦店",
     "address": "114臺灣臺北市內湖區瑞光路168號1樓",
@@ -4727,6 +5285,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ2QfiI86rQjQRh0aHi2jtzeA",
     "name": "Knock Knock Heaven 內湖店",
     "address": "114臺灣臺北市內湖區南京東路六段501號",
@@ -4753,6 +5314,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJnz3eGV2tQjQRlo-LLlBpPIw",
     "name": "Fogant",
     "address": "114臺灣臺北市內湖區民權東路六段200號1樓",
@@ -4779,6 +5343,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJMfJ0YverQjQRIb9ud_y5yQ8",
     "name": "DA ANTONIO by 隨意鳥地方 內湖花市概念店",
     "address": "114臺灣臺北市內湖區新湖三路28號A館2樓",
@@ -4805,6 +5372,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJdbmSOCStQjQRGvTw5PRKwo8",
     "name": "18冠軍牛肉麵 臺北內湖店",
     "address": "114臺灣臺北市內湖區基湖路3巷9號1樓",
@@ -4831,6 +5401,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ0SWCQk-tQjQRNhAexjHgLBg",
     "name": "澄食小人屋2《江南店》內湖美食 內湖restaurant 內湖日本料理 內湖生魚片 內湖日本料理 內湖壽司",
     "address": "114臺灣臺北市內湖區江南街26號",
@@ -4857,6 +5430,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "有兒童椅、空間寬敞、不怕小孩吵",
     "place_id": "ChIJt5S1IYSrQjQRvca0WrqUKTE",
     "name": "美福乾式熟成牛排館 Fresh & Aged Italian steak house",
     "address": "114臺灣臺北市內湖區民善街128號2F",
@@ -4869,7 +5445,7 @@ const restaurantData = [
     "url": "https://maps.google.com/?cid=3542526110010230461&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
     "google_maps_url": "https://maps.google.com/?cid=3542526110010230461&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
@@ -4886,6 +5462,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJncAQtGGsQjQR88wpyzdS0dg",
     "name": "大湖餐館 內湖",
     "address": "114臺灣臺北市內湖區內湖路二段103巷76號",
@@ -4912,6 +5491,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJv8ymJnmsQjQRRRJ4b0I9LDw",
     "name": "金泰日式料理-內湖店",
     "address": "114臺灣臺北市內湖區舊宗路二段121巷34號",
@@ -4938,6 +5520,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJ27QZUW6sQjQRKdZidoV-nAY",
     "name": "Marcus老倉庫內湖店",
     "address": "114臺灣臺北市內湖區瑞光路583巷25號1樓",
@@ -4966,6 +5551,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJKcezcQCtQjQR1ApWkMx-oag",
     "name": "託你の福Tony’s Food 豬排",
     "address": "114臺灣臺北市內湖區港墘路82巷9號",
@@ -4992,6 +5580,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ82GvfICsQjQRey8st1BvYjM",
     "name": "六品小館內湖店",
     "address": "114臺灣臺北市內湖區瑞光路421號",
@@ -5018,6 +5609,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJc-_1Bo2sQjQRYH4iH8hugo0",
     "name": "澄食小人屋《湖光店》",
     "address": "114臺灣臺北市內湖區成功路四段41巷1號",
@@ -5044,6 +5638,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ_arISaqtQjQR_wwFFgzwBZ0",
     "name": "GumGum Not Only Beer & Wings 雞翅啤酒吧-內科店",
     "address": "11492臺灣臺北市內湖區基湖路3巷68號",
@@ -5070,6 +5667,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJDY3p2retQjQRulLVrOQw7G8",
     "name": "義沐 Eat MU 臺北內湖店",
     "address": "114臺灣臺北市內湖區瑞光路583巷29號1F",
@@ -5098,6 +5698,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "有兒童椅、不怕小孩吵",
     "place_id": "ChIJ-_bMiiitQjQRVwXUA-8CaPs",
     "name": "四川龍府",
     "address": "114臺灣臺北市內湖區民權東路六段286號",
@@ -5110,7 +5713,7 @@ const restaurantData = [
     "url": "https://maps.google.com/?cid=18115732726682486103&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
     "google_maps_url": "https://maps.google.com/?cid=18115732726682486103&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
@@ -5126,6 +5729,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJT5DCioGsQjQRbQedv2ZyHgA",
     "name": "Home Garden餐廳-昇恆昌旗艦店",
     "address": "11469臺灣臺北市內湖區金莊路129號5F",
@@ -5152,6 +5758,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "有兒童餐、空間寬敞",
     "place_id": "ChIJ90YV0NytQjQRu7MgOPDCZkc",
     "name": "漫時生活",
     "address": "114臺灣臺北市內湖區內湖路一段372號",
@@ -5181,6 +5790,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJkwSIgu2tQjQRI3PluwY2a1Q",
     "name": "永寶餐廳",
     "address": "114臺灣臺北市內湖區瑞光路106號",
@@ -5207,6 +5819,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJL1eKp42tQjQRGJUTlorzFIk",
     "name": "布納咖啡館 內湖館",
     "address": "114臺灣臺北市內湖區民權東路六段137號",
@@ -5235,6 +5850,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJVwvRHYWsQjQR2ZpBlIN_vjM",
     "name": "陳三Chen*3 Bistro",
     "address": "11494臺灣臺北市內湖區民權東路六段123巷34弄21-1號",
@@ -5261,6 +5879,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ89QkcQCtQjQR5jOCwSGoPtc",
     "name": "擁灣晨食所 臺北內湖店 |團購早餐會議|下午茶點心|早午餐|",
     "address": "114臺灣臺北市內湖區內湖路一段437巷4弄4號",
@@ -5287,6 +5908,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJuzkbVDCrQjQRWoRNQjpCKgw",
     "name": "Joyfull臺灣珍有福 臺北內湖店",
     "address": "114臺灣臺北市內湖區民善街88號1樓",
@@ -5313,6 +5937,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ9SRDXVGtQjQRzVBCVI_dMH4",
     "name": "圓安宴粵菜料理",
     "address": "11467臺灣臺北市內湖區成功路二段322號",
@@ -5339,6 +5966,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJu-P6-H2rQjQRWseKixF7B-Y",
     "name": "IKEA瑞典餐廳 內湖店",
     "address": "114臺灣臺北市內湖區舊宗路一段128號",
@@ -5365,6 +5995,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJBao-TG6sQjQRSPZBdnvF7Bw",
     "name": "巷上食璞川菜客家菜",
     "address": "114臺灣臺北市內湖區瑞光路513巷22弄15號",
@@ -5391,6 +6024,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJC8ObMXqpQjQRXnbI0Upn_4Y",
     "name": "大嗑西式餐館",
     "address": "100臺灣臺北市中正區濟南路二段18-3號",
@@ -5419,6 +6055,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJmwpiaz6pQjQRYyvkztdE-tA",
     "name": "晴天廚房",
     "address": "100臺灣臺北市中正區寧波東街11-2號",
@@ -5447,6 +6086,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJJwMI43OpQjQRwwiSvnmKVyk",
     "name": "蘇杭餐廳 濟南店",
     "address": "100臺灣臺北市中正區濟南路一段2-1號",
@@ -5473,6 +6115,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJMUqmM3OpQjQRTKkB0Ue1hHA",
     "name": "翡冷翠義式餐廳",
     "address": "100臺灣臺北市中正區漢口街一段15號1樓",
@@ -5501,6 +6146,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJneQYHHepQjQRQlYfuWrcbj0",
     "name": "龍門客棧餃子館 (林森店)",
     "address": "100臺灣臺北市中正區林森南路61巷19號",
@@ -5527,6 +6175,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJu98loqipQjQRF3IXpB6aGI8",
     "name": "雙月食品社 濟南店",
     "address": "100臺灣臺北市中正區濟南路一段7號1樓",
@@ -5553,6 +6204,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJYV_m-5ipQjQRJdIuCQxssNk",
     "name": "黃龍莊",
     "address": "100臺灣臺北市中正區牯嶺街43號",
@@ -5579,6 +6233,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJX09S9XCpQjQRPaixaaRO7i0",
     "name": "Petit France 小法國餐館",
     "address": "100臺灣臺北市中正區青島東路21-4號1樓",
@@ -5605,6 +6262,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJFYxL_1upQjQRjGl7CEUZE-g",
     "name": "臺北美味小館",
     "address": "100臺灣臺北市中正區林森南路61巷17號",
@@ -5633,6 +6293,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJm-QuVXCpQjQR-3ze0o0Fivw",
     "name": "Nola Kitchen 臺北林森店(二號巷子口內、喜來登飯店後方)",
     "address": "100臺灣臺北市中正區林森南路2號",
@@ -5659,6 +6322,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJf4YzfnKpQjQRlr3nfrNxQx0",
     "name": "臺北東一排骨總店",
     "address": "100臺灣臺北市中正區延平南路61號2樓",
@@ -5685,6 +6351,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJk1fboZmpQjQR_sb0-SnNvrg",
     "name": "孫立人將軍官邸（陸軍聯誼廳）",
     "address": "100臺灣臺北市中正區南昌路一段136號",
@@ -5713,6 +6382,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJgbsfD3GpQjQR7z5ZO22KdVQ",
     "name": "雙月食品社 青島店",
     "address": "100臺灣臺北市中正區青島東路6之2號",
@@ -5741,6 +6413,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJneUTn3KpQjQR8_eBLgiNFMU",
     "name": "Second Floor 貳樓微風臺北車站店",
     "address": "100臺灣臺北市中正區北平西路3號2樓",
@@ -5767,6 +6442,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJRwzYA3GpQjQRmJ-2dl50_8c",
     "name": "珍品小館",
     "address": "100臺灣臺北市中正區青島東路7之5號號",
@@ -5793,6 +6471,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJdSdIyfepQjQRR91GnujqVSw",
     "name": "MIXTIO 秘地餐廳",
     "address": "100臺灣臺北市中正區仁愛路一段1號",
@@ -5819,6 +6500,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ1Tl3NsCpQjQRJOPnahxr1Cs",
     "name": "大樹義麵坊-2026平價排隊美食 臺北中正義大利麵 焗烤 商業午餐 外送推薦 熱門義式料理餐廳 訂位推薦 團體學校安親班訂餐外送 聚餐包場 臺大醫院 中正紀念堂附近美食 PTT Dcard",
     "address": "100臺灣臺北市中正區林森南路45-1號",
@@ -5845,6 +6529,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJYUGWzJupQjQR30LzEzBzJFM",
     "name": "蘇杭點心店",
     "address": "100臺灣臺北市中正區羅斯福路二段14號",
@@ -5871,6 +6558,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJJVBTsHGpQjQRujvx-I3zXPI",
     "name": "臺北喜來登大飯店-請客樓",
     "address": "100臺灣臺北市中正區忠孝東路一段12號17樓",
@@ -5897,6 +6587,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJT1SHrAypQjQRkYqSrpzuimo",
     "name": "點水樓 懷寧店",
     "address": "100臺灣臺北市中正區懷寧街64號",
@@ -5923,6 +6616,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJsfYkyp6pQjQRc15Kj0EOY7M",
     "name": "天然臺湘菜館",
     "address": "100臺灣臺北市中正區羅斯福路一段61號",
@@ -5949,6 +6645,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJz_s4rJ6pQjQR6rNclhlf3JU",
     "name": "真北平",
     "address": "100臺灣臺北市中正區寧波東街1號",
@@ -5975,6 +6674,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJz_UT0p-pQjQRrpA4MLmPo-A",
     "name": "詩篇咖啡餐廳Psalms Cafe & Restaurant",
     "address": "100臺灣臺北市中正區中山南路20號B1",
@@ -6001,6 +6703,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJcwObHJ6pQjQRQIt7kUup1qo",
     "name": "春水堂 中正店",
     "address": "100臺灣臺北市中正區中山南路21之1號",
@@ -6027,6 +6732,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJWRDJT52pQjQRV2yo14WE2u8",
     "name": "揪鬪本家",
     "address": "10641臺灣臺北市大安區信義路二段16號1樓",
@@ -6053,6 +6761,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "有兒童餐",
     "place_id": "ChIJd2lnDKCpQjQReTq7BQlF8Kc",
     "name": "陶板屋 臺北重慶南店",
     "address": "100臺灣臺北市中正區重慶南路一段58號2樓",
@@ -6081,6 +6792,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJXwOtVnCpQjQRTVueuwzw_2M",
     "name": "御景日本料理",
     "address": "2之4號, No. 2之4號林森南路中正區臺北市臺灣 100",
@@ -6107,6 +6821,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJE9VkEfupQjQRDV-R2oV0w70",
     "name": "姥姥酸菜魚 微風北車店",
     "address": "100臺灣臺北市中正區北平西路3號2樓",
@@ -6133,6 +6850,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJLZxabbKpQjQR6cN-5ukbq78",
     "name": "忠青商行",
     "address": "100臺灣臺北市中正區青島東路6-1號",
@@ -6159,6 +6879,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJSxNePs-pQjQRn3kFHsWNoIQ",
     "name": "JUNTO 同",
     "address": "Floor 2, No. 22館前路中正區臺北市臺灣 100",
@@ -6185,6 +6908,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJqxSUlAypQjQRx1e_MFwNIdg",
     "name": "擂銗餐廳",
     "address": "103臺灣臺北市大同區長安西路57號",
@@ -6211,6 +6937,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJDcbHlEipQjQR15zhkJX0LO4",
     "name": "漁陶屋 日式料理",
     "address": "103臺灣臺北市大同區承德路三段206之1號",
@@ -6237,6 +6966,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJazuHbz6pQjQRGGRLxz2VfIQ",
     "name": "稻舍食館 迪化店",
     "address": "103臺灣臺北市大同區迪化街一段329號",
@@ -6263,6 +6995,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJMwu0sxmpQjQRhngWqb23XlQ",
     "name": "waku waku pasta 赤峰店",
     "address": "103臺灣臺北市大同區赤峰街8巷4號",
@@ -6289,6 +7024,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJnQg-SCOpQjQR-tv75CXe3-0",
     "name": "閣樓哩",
     "address": "103臺灣臺北市大同區歸綏街157號",
@@ -6315,6 +7053,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJz2Nt86ypQjQR2Q53B_FEtOA",
     "name": "御珍軒",
     "address": "103臺灣臺北市大同區重慶北路一段62號2樓",
@@ -6341,6 +7082,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJK-3CxhWpQjQRCdqRFa1pamo",
     "name": "牧山丘",
     "address": "103臺灣臺北市大同區迪化街一段173號",
@@ -6367,6 +7111,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJFyCtdQGpQjQR4djMX1rPQPs",
     "name": "渣男 中山店",
     "address": "10353臺灣臺北市大同區承德路二段14號",
@@ -6395,6 +7142,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "有兒童椅、不怕小孩吵",
     "place_id": "ChIJwQvTceOpQjQRhxBKSCWjU6A",
     "name": "真珠-臺灣佳味 京站店",
     "address": "10351臺灣臺北市大同區承德路一段1號B3",
@@ -6407,7 +7157,7 @@ const restaurantData = [
     "url": "https://maps.google.com/?cid=11552756849657385095&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
     "google_maps_url": "https://maps.google.com/?cid=11552756849657385095&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
@@ -6421,6 +7171,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJE63C8fypQjQRocBKJlXHlC8",
     "name": "九月茶餐廳",
     "address": "103臺灣臺北市大同區承德路二段213號",
@@ -6449,6 +7202,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJm_pGd5arQjQRsD_vJMWg8Cc",
     "name": "大烹小饌",
     "address": "103臺灣臺北市大同區民生西路146-1號",
@@ -6477,6 +7233,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJIU2EWtypQjQRjZIwpUbyzJs",
     "name": "Les tables",
     "address": "103臺灣臺北市大同區貴德街75-2號1樓",
@@ -6505,6 +7264,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJy4Zxx_WpQjQRfU5kuDH_EaA",
     "name": "濤濤鮮魚舖",
     "address": "103臺灣臺北市大同區錦西街82號1樓",
@@ -6533,6 +7295,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ3-qdbQ2pQjQRT18amXFhVNM",
     "name": "大叔食事unclefoodday",
     "address": "103臺灣臺北市大同區哈密街89號",
@@ -6559,6 +7324,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJ89MCdu6pQjQR17vPpkI-s1g",
     "name": "築地良味食事處",
     "address": "103臺灣臺北市大同區塔城街33號",
@@ -6587,6 +7355,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJW1dApGqpQjQRHk52Eg3uSQw",
     "name": "太春小館海鮮餐廳",
     "address": "103臺灣臺北市大同區寧夏路81號",
@@ -6613,6 +7384,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ_6v6xhWpQjQRq8kQTzsl8Ks",
     "name": "鯉魚 The Carp",
     "address": "10347臺灣臺北市大同區迪化街一段177號",
@@ -6639,6 +7413,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJE5WLUEKpQjQRJclmSUePuLM",
     "name": "叼饞重慶麻辣炸物-臺北大同店",
     "address": "103臺灣臺北市大同區蘭州街107號",
@@ -6665,6 +7442,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJU21B8GupQjQRRRTsNGB9Qrg",
     "name": "川畝園麵食館",
     "address": "103臺灣臺北市大同區承德路二段120號1樓",
@@ -6691,6 +7471,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJfckxJG2pQjQR-FFgYgin6bc",
     "name": "富春食堂 無選單料理",
     "address": "103臺灣臺北市大同區太原路48巷7號",
@@ -6717,6 +7500,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJW1dApGqpQjQRkoYUEBUrujk",
     "name": "太春小館",
     "address": "103臺灣臺北市大同區民生西路198-4號",
@@ -6743,6 +7529,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJzxNdESWpQjQR3fTbZzBvgF4",
     "name": "江牛樓",
     "address": "103臺灣臺北市大同區民樂街6號",
@@ -6769,6 +7558,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJO31ex8qpQjQRem2fMQdSVls",
     "name": "Parko Parco 牛肚包義大利餐酒館",
     "address": "103臺灣臺北市大同區承德路三段80號1樓",
@@ -6797,6 +7589,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJp6WvuNWpQjQRfupqxOY5xMk",
     "name": "Moni .curry｜咖哩餐廳。擠花甜點。貓貓酥",
     "address": "103臺灣臺北市大同區西寧北路63號1樓2樓",
@@ -6823,6 +7618,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ34cvQ2ipQjQRnOh2lyvPml0",
     "name": "小小麥臺北南西店",
     "address": "103臺灣臺北市大同區南京西路338號1樓",
@@ -6849,6 +7647,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJvZ52YQmpQjQR4l-ag3QE3ms",
     "name": "無所洋食- 蔬食日式洋食--義大利麵、咖哩、中式米飯、拌麵 (Vegan Pasta & Curry Rice)",
     "address": "103臺灣臺北市大同區迪化街一段358之1號",
@@ -6877,6 +7678,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJswgE9kCpQjQReuxY4WDtFaE",
     "name": "大同海產商行",
     "address": "103臺灣臺北市大同區民權西路144巷19弄1號",
@@ -6903,6 +7707,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJoaiywAWpQjQRZl6XrDU3z3I",
     "name": "波麗路餐廳-創始本店",
     "address": "103臺灣臺北市大同區民生西路314號",
@@ -6929,6 +7736,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJtwAEZxSpQjQRBCD2BRSoJvA",
     "name": "幹嘛日式餐酒館",
     "address": "103臺灣臺北市大同區民樂街18號",
@@ -6955,6 +7765,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJfchZDuqpQjQRq9o6PCGinXY",
     "name": "炎炎大阪燒 大稻埕店",
     "address": "103臺灣臺北市大同區大稻埕碼頭貨櫃市集",
@@ -6983,6 +7796,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJ7wNaysSvQjQR_SXHqoILp1k",
     "name": "村民食堂廚窗港點 士林官邸店",
     "address": "111臺灣臺北市士林區福林路188號",
@@ -7011,6 +7827,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJvZks39avQjQR3Vo7qkc23zY",
     "name": "金孫韓廚 義大利麵(士林店)",
     "address": "111臺灣臺北市士林區中山北路五段505巷20號",
@@ -7037,6 +7856,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJvYcdrlOvQjQRZ_5wNZRyEA0",
     "name": "日向洋食（不提供當日定位，可現場候位",
     "address": "11143臺灣臺北市士林區大西路35號",
@@ -7063,6 +7885,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ67abfVavQjQRscMhuF5_tQA",
     "name": "小倉庫食研所",
     "address": "111臺灣臺北市士林區福佳里美崙街86巷2號1樓",
@@ -7089,6 +7914,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJSxHVM_OvQjQRVXbGAenRppE",
     "name": "士林貳貳參丼飯",
     "address": "111臺灣臺北市士林區中正路223巷11號",
@@ -7115,6 +7943,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ_3LZiLyvQjQR3SvEA0zV4Hk",
     "name": "大俠請留步",
     "address": "111臺灣臺北市士林區文林路188號",
@@ -7141,6 +7972,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJGUQiXkmvQjQRo59OxREZD-I",
     "name": "士林廚房",
     "address": "11141臺灣臺北市士林區中山北路五段470巷8號1樓",
@@ -7167,6 +8001,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJh4d5b7CuQjQRvEGhf7bj0oQ",
     "name": "道樂屋臺",
     "address": "111臺灣臺北市士林區基河路112號",
@@ -7193,6 +8030,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJ49WFWqOuQjQRrf0Diips1Oo",
     "name": "歐品鄉廚",
     "address": "111臺灣臺北市士林區中正路235巷32號士林捷運1號出口旁",
@@ -7219,6 +8059,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJ2SJ2x6mvQjQRZit4gMTJ-ZM",
     "name": "萬麗軒",
     "address": "111臺灣臺北市士林區中山北路五段470巷8號1樓",
@@ -7247,6 +8090,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJhSV_pKSuQjQRtJ-1sSeP4R8",
     "name": "荷麵亭 HASUMENTEI 士林店",
     "address": "111臺灣臺北市士林區中山北路五段505巷42弄2號",
@@ -7273,6 +8119,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJ_cGoEQCvQjQRaXdtAsUBw2c",
     "name": "雞老闆 桶仔雞 士林店",
     "address": "111臺灣臺北市士林區文林路101巷2號",
@@ -7299,6 +8148,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJtSeOoqKuQjQRZ_YxmJ94R2E",
     "name": "天母盛鑫-士林聚餐餐廳|歐式料理|歐式餐廳|特色餐廳|必吃異國料理|異國美食|異國料理推薦|在地推薦餐廳",
     "address": "111臺灣臺北市士林區中山北路五段729號",
@@ -7327,6 +8179,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJY-WhLbuuQjQRspXCBrQnwRo",
     "name": "百八龍拉麵",
     "address": "111臺灣臺北市士林區大東路133號",
@@ -7355,6 +8210,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "有兒童椅",
     "place_id": "ChIJjTSZ0Z6vQjQRDNOAqXk7IB4",
     "name": "池先生Kopitiam (士林店)",
     "address": "111臺灣臺北市士林區福華路150號",
@@ -7367,7 +8225,7 @@ const restaurantData = [
     "url": "https://maps.google.com/?cid=2170800414113452812&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
     "google_maps_url": "https://maps.google.com/?cid=2170800414113452812&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
@@ -7381,6 +8239,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJge0A1GmvQjQRJpe5wYgCeNM",
     "name": "隱家拉麵 士林店",
     "address": "111臺灣臺北市士林區中山北路五段505巷22號",
@@ -7407,6 +8268,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJWW34AmGvQjQRPpdckEU-j7Q",
     "name": "味擂家みらい家日式料理 士林店（無訂位服務）",
     "address": "111臺灣臺北市士林區福壽街1號1樓",
@@ -7433,6 +8297,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "有兒童餐、空間寬敞",
     "place_id": "ChIJ2VWqSkKuQjQRuQkg3lsruls",
     "name": "Skylark洋食‧芳鄰 士林中山北店",
     "address": "111臺灣臺北市士林區中山北路五段565號",
@@ -7461,6 +8328,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJpwJIT6WuQjQRw0vYVcv1nZY",
     "name": "食來運轉",
     "address": "111臺灣臺北市士林區小東街31號",
@@ -7487,6 +8357,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJ8cB1EeatQjQRzyJE5xssb_M",
     "name": "Boulevard Cafe 林蔭美式餐酒食(供餐至20:00)",
     "address": "111臺灣臺北市士林區至善路二段33號",
@@ -7515,6 +8388,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJUXPdsoCuQjQRqbxQ0TEjlgg",
     "name": "方家小館",
     "address": "111臺灣臺北市士林區天母東路7號",
@@ -7541,6 +8417,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJASUZtbquQjQRNQwpDbydjLI",
     "name": "食尚曼谷",
     "address": "111臺灣臺北市士林區大東路54號",
@@ -7569,6 +8448,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJW5esxZeuQjQRlWxyAQ4gFyE",
     "name": "士林廣澤擔仔麵｜芝山捷運站美食｜士林排隊美食｜天母推薦人氣必吃餐廳",
     "address": "111臺灣臺北市士林區福華路10號",
@@ -7595,6 +8477,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJu0lVxvmvQjQRzGeexldsNEQ",
     "name": "蔦燒日式居酒屋-士林店",
     "address": "111臺灣臺北市士林區中山北路五段505巷42弄1號",
@@ -7623,6 +8508,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJuTv1NLuuQjQRgFqC2vVgK1E",
     "name": "士林放感情餐酒館",
     "address": "11162臺灣臺北市士林區大東路152號",
@@ -7649,6 +8537,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJx5ETtLquQjQRAMnE00uPGtc",
     "name": "海友十全排骨",
     "address": "111臺灣臺北市士林區大東路49號",
@@ -7675,6 +8566,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "有兒童椅、不怕小孩吵",
     "place_id": "ChIJ8d31sryuQjQRYRWoyUaa2YM",
     "name": "Creative Pasta 創義麵 士林店",
     "address": "111臺灣臺北市士林區美德街32號近士林捷運站1號出口",
@@ -7687,7 +8581,7 @@ const restaurantData = [
     "url": "https://maps.google.com/?cid=9500794517736396129&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
     "google_maps_url": "https://maps.google.com/?cid=9500794517736396129&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
@@ -7703,6 +8597,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJozTGzryuQjQR5lk0KRxH1go",
     "name": "麵食士林",
     "address": "111臺灣臺北市士林區美德街66號",
@@ -7729,6 +8626,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJP9NOG2yvQjQRaS3wT8t85kY",
     "name": "John的料理/士林官邸美食/無提供化妝室",
     "address": "111臺灣臺北市士林區福林路197號1樓",
@@ -7755,6 +8655,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ-3ozs6faDRQRyjuQLk-wjEQ",
     "name": "及品鍋貼水餃專賣店",
     "address": "111臺灣臺北市士林區美崙街93號",
@@ -7781,6 +8684,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJA9_TFFmvQjQRA-tp1e3KJlo",
     "name": "雙月食品社 北投店",
     "address": "112臺灣臺北市北投區光明路228號",
@@ -7793,7 +8699,7 @@ const restaurantData = [
     "url": "https://maps.google.com/?cid=6496102635365067523&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
     "google_maps_url": "https://maps.google.com/?cid=6496102635365067523&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
     "attributes": {
-      "high_chair_available": "yes",
+      "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
       "kid_noise_tolerant": "unknown"
@@ -7807,6 +8713,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJl7ziPQCvQjQRJyCcG50hMUo",
     "name": "三燔北投 Mihan Beitou",
     "address": "112臺灣臺北市北投區泉源路19號北投晶泉豐旅2樓",
@@ -7833,6 +8742,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJxT54hmKvQjQRyEf7KYJIkS8",
     "name": "酒米食堂chumi_canteen－北投店beitou",
     "address": "112臺灣臺北市北投區永興路一段47號",
@@ -7859,6 +8771,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJQwXI52mvQjQRCMFnpsUhxFw",
     "name": "長生塩人 北投車站",
     "address": "112009臺灣臺北市北投區育仁路8巷3號",
@@ -7885,6 +8800,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJgcXkf1CuQjQRc3SOGvEDkvk",
     "name": "大戶屋新北投店",
     "address": "112臺灣臺北市北投區泉源路12號2樓之1",
@@ -7911,6 +8829,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJhdUJQkWuQjQRBjl-hfM5hUo",
     "name": "PURE CUISINE",
     "address": "112臺灣臺北市北投區中和街2號1F",
@@ -7937,6 +8858,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJeyrNBUKuQjQR9nEJ_PLE_Ps",
     "name": "少帥禪園-臺北北投張學良幽禁舊居",
     "address": "112臺灣臺北市北投區幽雅路34號",
@@ -7963,6 +8887,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJw-RrmtKvQjQRsXrpHF7qSCQ",
     "name": "谷炭燒肉",
     "address": "11282臺灣臺北市北投區裕民六路114巷22號",
@@ -7989,6 +8916,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJqzV-SFuuQjQRIpnzP-xiypc",
     "name": "北投奇巖一號",
     "address": "112臺灣臺北市北投區奇巖路1號",
@@ -8015,6 +8945,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJmUBgXZmvQjQReJDEy08D34c",
     "name": "泉源閣 Bando Club",
     "address": "112臺灣臺北市北投區泉源路19號北投晶泉豐旅3樓",
@@ -8041,6 +8974,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJew6ZUEevQjQRcqtDTBwck0w",
     "name": "北投文物館-怡然居餐廳",
     "address": "112臺灣臺北市北投區幽雅路32號",
@@ -8067,6 +9003,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJf5b9IeOvQjQRXyHwj63mp6A",
     "name": "北投飢廠",
     "address": "112臺灣臺北市北投區中央北路三段17-1號",
@@ -8095,6 +9034,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ_fFccXivQjQRQrVr4JQoLsU",
     "name": "漁當家食堂-請洽臉書IG預約",
     "address": "112臺灣臺北市北投區裕民四路13號1樓",
@@ -8121,6 +9063,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJb3wiSkWuQjQRYj2ArhtpNoU",
     "name": "陶板屋 新北投光明店",
     "address": "112臺灣臺北市北投區光明路217號2F",
@@ -8147,6 +9092,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJ04yBjBWvQjQReUH9xXgLaCo",
     "name": "蓬萊臺菜餐廳",
     "address": "11252臺灣臺北市北投區中和街238號1F",
@@ -8175,6 +9123,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJObAPmYyuQjQRpFI6mLHcmT0",
     "name": "水龜伯古早味",
     "address": "112臺灣臺北市北投區石牌路二段75巷8號",
@@ -8201,6 +9152,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJAzYuPUWuQjQRTlPsow9JKf0",
     "name": "滿來溫泉拉麵 man-lai",
     "address": "112臺灣臺北市北投區中和街30號",
@@ -8227,6 +9181,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJuyhfTVmvQjQRqS9NO23JTKY",
     "name": "喜歡西餐廳(大地酒店)",
     "address": "112臺灣臺北市北投區奇巖路1號",
@@ -8253,6 +9210,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJpQgAfFquQjQRpp63uJbAbas",
     "name": "蔦燒日式居酒屋-北投店",
     "address": "112臺灣臺北市北投區溫泉路30巷24號",
@@ -8279,6 +9239,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJfVg9VFGuQjQR3OXOjpHCw5s",
     "name": "阿馬非餐廳",
     "address": "112臺灣臺北市北投區大業路516巷2號",
@@ -8307,6 +9270,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJqcTs72muQjQRZrBTzCnlQVs",
     "name": "歐陸餐廳 C'est Bon - 北投麗禧溫泉酒店 Grand View Resort Beitou",
     "address": "112臺灣臺北市北投區幽雅路30號",
@@ -8333,6 +9299,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ6RR3U3GvQjQRmFa2ScNW-xY",
     "name": "左爺爺風味小館",
     "address": "112臺灣臺北市北投區明德路59號",
@@ -8359,6 +9328,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ8R3JH0WuQjQR_5ttGeLOWTs",
     "name": "天饗食坊",
     "address": "112臺灣臺北市北投區中山路3號",
@@ -8385,6 +9357,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ4X_60A-vQjQRltT9fRg8H08",
     "name": "滿味串燒溫泉拉麵-北投美食-北投餐廳-Restaurants",
     "address": "112臺灣臺北市北投區光明路218之5號1 樓",
@@ -8411,6 +9386,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJN1YpLEWuQjQRrdssZr1Xj8o",
     "name": "水美食府",
     "address": "112臺灣臺北市北投區光明路224號2樓",
@@ -8437,6 +9415,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJVTNtvfSuQjQRRQa96XsYbQ4",
     "name": "仙客來海鮮庭園餐廳",
     "address": "112臺灣臺北市北投區東華街二段114號",
@@ -8463,6 +9444,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJPVfZFVeuQjQRDInpxCw-Mmg",
     "name": "大竹屋日式料理",
     "address": "112臺灣臺北市北投區西安街二段251號",
@@ -8489,6 +9473,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJqcTs72muQjQR6_66vECtOOs",
     "name": "雍翠庭 Chinese Cuisine - 北投麗禧溫泉酒店 Grand View Resort Beitou",
     "address": "112臺灣臺北市北投區幽雅路30號",
@@ -8515,6 +9502,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJMS0V1s-vQjQR5_38BIspw7g",
     "name": "滿足溫泉拉麵",
     "address": "112臺灣臺北市北投區中山路1之8號",
@@ -8541,6 +9531,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "有兒童椅、有兒童餐、空間寬敞",
     "place_id": "ChIJe3eA6VauQjQRFuDwSEBoX9w",
     "name": "樂雅樂餐廳 北投店",
     "address": "112臺灣臺北市北投區北投路二段9號",
@@ -8553,7 +9546,7 @@ const restaurantData = [
     "url": "https://maps.google.com/?cid=15879525436442599446&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
     "google_maps_url": "https://maps.google.com/?cid=15879525436442599446&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "yes",
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
@@ -8567,6 +9560,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJjRzzCaipQjQRzNo88d0xnbo",
     "name": "三味食堂",
     "address": "108臺灣臺北市萬華區貴陽街二段116號",
@@ -8593,6 +9589,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJoUCeU66pQjQRfM0ZEYp4JiM",
     "name": "臺北凱達大飯店 家宴中餐廳",
     "address": "108臺灣臺北市萬華區艋舺大道167號3 樓",
@@ -8619,6 +9618,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJU4AI_cSpQjQRzsY9OLH1GUc",
     "name": "燒究食寓 萬華店 – 居酒屋｜宵夜｜串燒",
     "address": "108臺灣臺北市萬華區艋舺大道204號",
@@ -8647,6 +9649,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "有兒童椅、不怕小孩吵",
     "place_id": "ChIJX4JLHaipQjQRfvkdSezeSEs",
     "name": "小林英夫日本料理/西門日本料理/萬華美食/臺北平價美食推薦/臺北日本料理/西門町美食/臺北推薦餐廳",
     "address": "108臺灣臺北市萬華區康定路120號",
@@ -8659,7 +9664,7 @@ const restaurantData = [
     "url": "https://maps.google.com/?cid=5424830857588111742&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
     "google_maps_url": "https://maps.google.com/?cid=5424830857588111742&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
@@ -8673,6 +9678,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJyyNcAlypQjQR9eK2YpdBP44",
     "name": "三重奏加蚋 Trio kitchen",
     "address": "108臺灣臺北市萬華區東園街114號",
@@ -8685,7 +9693,7 @@ const restaurantData = [
     "url": "https://maps.google.com/?cid=10249983395370558197&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
     "google_maps_url": "https://maps.google.com/?cid=10249983395370558197&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "no",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
@@ -8701,6 +9709,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJG3lCC6mpQjQRjdUJV4xltuQ",
     "name": "醉華樓菜館",
     "address": "108臺灣臺北市萬華區華西街127號",
@@ -8729,6 +9740,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ1UFLHaipQjQRC5ZDFnm8bpo",
     "name": "三十三間堂",
     "address": "108臺灣臺北市萬華區康定路116號",
@@ -8755,6 +9769,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJC9bmhw6pQjQRMzLaT4VIVCo",
     "name": "富宏牛肉麵",
     "address": "108臺灣臺北市萬華區洛陽街67號",
@@ -8781,6 +9798,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJF50nBQCpQjQRRgV92GsnEqA",
     "name": "雲水食堂|2025臺北國際牛肉麵金牌獎|臺北牛肉麵推薦|萬華牛肉麵推薦|臺北美食推薦|萬華美食推薦|艋舺美食推薦",
     "address": "108臺灣臺北市萬華區艋舺大道120巷11弄1號",
@@ -8807,6 +9827,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJsTvfsg6pQjQRCk_3ZI36rk0",
     "name": "天天利美食坊",
     "address": "108臺灣臺北市萬華區漢中街32巷1號",
@@ -8833,6 +9856,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJM32hZV2pQjQRdYi2EMgYLO0",
     "name": "Antichi Sapori 邊緣食堂",
     "address": "108臺灣臺北市萬華區長沙街二段127號",
@@ -8859,6 +9885,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJU32eU66pQjQRhbvE4r33OLE",
     "name": "百宴自助餐廳",
     "address": "108臺灣臺北市萬華區艋舺大道167號5F",
@@ -8885,6 +9914,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJa4mXFAmpQjQR8Yx-EvJM9tA",
     "name": "美觀園日本料理",
     "address": "108臺灣臺北市萬華區峨眉街47號",
@@ -8911,6 +9943,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJY4KDoKmpQjQR2RFjiDc6c2Y",
     "name": "源芳刈包",
     "address": "108臺灣臺北市萬華區華西街17-2號",
@@ -8939,6 +9974,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJeVR5KY6pQjQREwN2iYFlJn4",
     "name": "潮麵堂 花椒牛肉麵",
     "address": "108臺灣臺北市萬華區梧州街6號1樓",
@@ -8965,6 +10003,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJsSC8HAmpQjQR7uCNzzunDRw",
     "name": "老山東牛肉麵",
     "address": "108臺灣臺北市萬華區西寧南路70號B1之15室",
@@ -8991,6 +10032,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJGaiHCqmpQjQReQD8Dmqjdvk",
     "name": "小王煮瓜",
     "address": "108臺灣臺北市萬華區華西街17之4號攤位153號",
@@ -9019,6 +10063,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJU7cRla6pQjQRhchv-ZhGAis",
     "name": "艋舺熱海 海鮮餐廳",
     "address": "108臺灣臺北市萬華區和平西路三段162號",
@@ -9045,6 +10092,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJtbu-JE2oQjQRdRYZ7jLitwE",
     "name": "珍寶園餐廳",
     "address": "108臺灣臺北市萬華區環河南路二段308號",
@@ -9073,6 +10123,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ1aZy0q6pQjQRwBhj14mvCbo",
     "name": "兩喜號 Liang Xi Hao - 西園店",
     "address": "108臺灣臺北市萬華區西園路一段194號",
@@ -9099,6 +10152,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJc95P6a6pQjQR9Ro3wIE2nhs",
     "name": "燒杯咖啡藝廚 Beaker ChefCafe /寵物友善/寵物店長/融合料理 / 貝果/沙拉-萬華人氣咖啡廳|必吃簡餐|網美下午茶 外帶輕食l融合料理|網美咖啡廳/手作/咖啡燒杯/餐廳/午餐/晚餐",
     "address": "108臺灣臺北市萬華區西園路一段240號",
@@ -9127,6 +10183,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJZdcmMwmpQjQRVhoFltvFacY",
     "name": "金獅樓",
     "address": "108臺灣臺北市萬華區西寧南路36號10樓",
@@ -9153,6 +10212,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJB_wial2pQjQRHZYJmy3ZKNo",
     "name": "職人丼深夜食堂 萬華店",
     "address": "108臺灣臺北市萬華區東園街35巷12號",
@@ -9179,6 +10241,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJRWCr8w6pQjQRHQXCNuftDp0",
     "name": "悅勝 丼飯、生魚片、壽司專賣店-萬華店",
     "address": "108臺灣臺北市萬華區西藏路182號",
@@ -9205,6 +10270,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJz4guBbSpQjQRqmvmBKzcVVY",
     "name": "喜舍居酒屋いざかや",
     "address": "108臺灣臺北市萬華區東園街68-1號",
@@ -9231,6 +10299,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJD7sYG7SpQjQRVicqpYHeUOg",
     "name": "家吶子臺式居酒屋 Ka-la̍h-á",
     "address": "108臺灣臺北市萬華區東園街68-4號",
@@ -9257,6 +10328,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJhdX4M6mpQjQRmAgMlFTjsow",
     "name": "四方阿九魯肉飯 萬華店",
     "address": "108臺灣臺北市萬華區廣州街225號",
@@ -9283,6 +10357,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJwySZTampQjQRjDgDXnuZRHY",
     "name": "兩喜號 Liang Xi Hao - 總店",
     "address": "108臺灣臺北市萬華區廣州街245號",
@@ -9309,6 +10386,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJUxzmnmypQjQRoZ_XCCzsuXg",
     "name": "鐵 F.f Teppanyaki 鐵板燒（萬大店）",
     "address": "108臺灣臺北市萬華區萬大路486巷16號",
@@ -9335,6 +10415,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJtVKLc66pQjQRY6z1XMAyucw",
     "name": "艋舺螺螄粉 桂林米粉",
     "address": "108臺灣臺北市萬華區廣州街175號",
@@ -9361,6 +10444,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJlxJ_aYWrQjQREGdqLotZiBo",
     "name": "飯丸屋-臺北南港店",
     "address": "115臺灣臺北市南港區南港路一段229號1f",
@@ -9387,6 +10473,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJO1lQbwCtQjQRHSxoPz3smt0",
     "name": "SALT&STONE 南港Lalaport餐廳",
     "address": "11568臺灣臺北市南港區經貿二路131號1樓",
@@ -9415,6 +10504,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJOZb-_gWtQjQRXA4QgcB7KLE",
     "name": "柚子花花青春客家菜(南港LalaPort)",
     "address": "115臺灣臺北市南港區經貿二路131號6樓",
@@ -9441,6 +10533,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJrcCWRgCtQjQRQ_pXCyJeJ0U",
     "name": "叄星燒肉重飯-ミツボシ南港本店",
     "address": "115臺灣臺北市南港區經貿二路131號51100舖5 樓",
@@ -9467,6 +10562,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJmTG6816rQjQROj9fjiCafjY",
     "name": "NEVERLAND Bakery Cafe",
     "address": "115臺灣臺北市南港區南港路一段265號",
@@ -9493,6 +10591,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "有兒童餐",
     "place_id": "ChIJ3eVGaACtQjQRgQvpyfaX5Fs",
     "name": "La Ohana (LaLaport南港店)",
     "address": "115臺灣臺北市南港區經貿二路131號5 樓",
@@ -9519,6 +10620,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJv-25mDirQjQRRgkQjMffEO4",
     "name": "辛隱-南港美食 南港小吃 南港餐廳 附近美食 南港鍋物 南港宵夜",
     "address": "115臺灣臺北市南港區興中路12巷9號1.2 樓",
@@ -9545,6 +10649,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJyWRT3mWrQjQRFOM_DSk68CE",
     "name": "Second Floor 貳樓南港車站店",
     "address": "115臺灣臺北市南港區忠孝東路七段359號 City LinkB棟 2樓",
@@ -9573,6 +10680,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJXfCvReOrQjQRs3K2Lo84HaI",
     "name": "南港燴館中餐廳",
     "address": "115臺灣臺北市南港區經貿二路1號3樓",
@@ -9599,6 +10709,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ01YLW3-rQjQRzHtinzvbCJk",
     "name": "大河牧場 漢堡排專売-南港環球店",
     "address": "115臺灣臺北市南港區忠孝東路七段371號B1樓",
@@ -9625,6 +10738,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJuQA5ptitQjQRygxCSKc2xg4",
     "name": "肉的長谷川 南港LaLaport",
     "address": "115臺灣臺北市南港區經貿二路105巷1號5樓美食街",
@@ -9651,6 +10767,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJPUX9iw6tQjQRE-UwkTLnci4",
     "name": "東方樓 臺北漢來店",
     "address": "115臺灣臺北市南港區經貿一路168號3F",
@@ -9679,6 +10798,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJNc0LPgutQjQRrSvB7evg2BE",
     "name": "島語 臺北漢來店",
     "address": "115臺灣臺北市南港區經貿一路168號2樓",
@@ -9707,6 +10829,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ-WB-7nerQjQRB4yWvA0THi4",
     "name": "磚窯古早料理南港創始店",
     "address": "115臺灣臺北市南港區松河街318號",
@@ -9733,6 +10858,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJvWPH_xOtQjQRpWFAqhbQiCw",
     "name": "大河屋 燒肉丼 串燒-中信南港店",
     "address": "115臺灣臺北市南港區經貿二路186號3樓C棟",
@@ -9759,6 +10887,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJ0TklDKqrQjQRLAWzZf2HNbI",
     "name": "樂雅樂餐廳 生技園區店",
     "address": "115臺灣臺北市南港區忠孝東路七段508號2樓",
@@ -9787,6 +10918,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJP6YFq-urQjQRxiqqPoCY7cE",
     "name": "青丹扎西_南港展覽館店",
     "address": "115臺灣臺北市南港區南港路一段53號",
@@ -9813,6 +10947,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJD0Os712rQjQRoQEIH9Hvm0k",
     "name": "粵亮廣式料理",
     "address": "115臺灣臺北市南港區忠孝東路七段359號8樓",
@@ -9839,6 +10976,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJk7mhJNirQjQRukXA362LDGU",
     "name": "BELLINI Pasta Pasta 南港潤泰店",
     "address": "忠孝東路七段369號 CityLink南港店, C棟 8樓南港區臺北市臺灣 11561",
@@ -9865,6 +11005,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ2UiM5KesQjQRVScr2ns4Dxs",
     "name": "餡老滿 南港店",
     "address": "115臺灣臺北市南港區經貿二路66號2 樓",
@@ -9891,6 +11034,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJGZIplKCtQjQRlsUdzV3hjrg",
     "name": "YAYOI彌生軒 南港LaLaport店",
     "address": "115臺灣臺北市南港區經貿二路131號5F",
@@ -9919,6 +11065,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJkwFdzqesQjQRKG_OT1ubKVg",
     "name": "樂子the Diner 南港店（臺北南港區必吃特色早午餐 / 臺北好吃聚餐餐廳推薦 / 南港展覽館lalaport附近美食／南港寵物友善）",
     "address": "115臺灣臺北市南港區經貿二路166號A棟2樓",
@@ -9947,6 +11096,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJI55cuqesQjQR8VGfK9gNLec",
     "name": "非常泰 - 南港中信店",
     "address": "115臺灣臺北市南港區經貿二路186-1號1樓C棟",
@@ -9973,6 +11125,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJI0ufUFirQjQRz254cAjj26M",
     "name": "武侍酒 日式居酒屋",
     "address": "115臺灣臺北市南港區南港路一段111號",
@@ -9999,6 +11154,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ7TAYfLyrQjQRysgf1KWfY2A",
     "name": "星馬快餐 Sin Ma Express 海南雞飯 星馬料理專賣店 臺北南港環球百貨店",
     "address": "115臺灣臺北市南港區忠孝東路七段371號地址：115B1F (環球購物中心南港店）櫃位B116",
@@ -10025,6 +11183,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJmURK7l2rQjQR2T4AgotOy6s",
     "name": "敘日 全日餐廳-臺北六福萬怡酒店",
     "address": "115臺灣臺北市南港區忠孝東路七段359號7樓",
@@ -10053,6 +11214,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJqX7CxKesQjQRWduxZ7juYTM",
     "name": "欣葉小聚 南港店",
     "address": "115臺灣臺北市南港區經貿二路166號A棟中國信託金融園區1樓",
@@ -10079,6 +11243,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "空間寬敞",
     "place_id": "ChIJ_WJhTf6tQjQRzjrZmrFJ-dM",
     "name": "享鮮餐廳南港分店",
     "address": "115臺灣臺北市南港區經貿二路188號2樓",
@@ -10107,6 +11274,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJiU_ciEyrQjQRtt_BLln5Cdo",
     "name": "時時香 南港車站店",
     "address": "115臺灣臺北市南港區忠孝東路七段369號9樓C棟",
@@ -10133,6 +11303,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJP7_VzqesQjQRZY2wwtcGGE8",
     "name": "樂麵屋 南港店",
     "address": "115臺灣臺北市南港區經貿二路166號中國信託金融園區A棟2樓",
@@ -10161,6 +11334,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJRRkE4_yrQjQR0Wxxt_bOVuk",
     "name": "Cow過來（原悅喀西餐）",
     "address": "116臺灣臺北市文山區木柵路一段222號",
@@ -10187,6 +11363,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJURTE5n2rQjQRgj-n9IMohFU",
     "name": "呼嚕小酒館 Purrson Bistro",
     "address": "116臺灣臺北市文山區木柵路三段103巷1號",
@@ -10215,6 +11394,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ78KtsmiqQjQRQAFTAhWCTJk",
     "name": "渣男TaiwanBistro 木柵二渣",
     "address": "116臺灣臺北市文山區萬芳路9-1號",
@@ -10241,6 +11423,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJRY5JmN8BaDQR3fElNvAA2yo",
     "name": "18精緻小館",
     "address": "116臺灣臺北市文山區興隆路四段102號",
@@ -10267,6 +11452,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJExaV59OrQjQRPTswyqFCMIg",
     "name": "祥二屋 日式丼飯料理專門店",
     "address": "116080臺灣臺北市文山區興隆路三段136號2樓",
@@ -10293,6 +11481,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJr1cQsgCqQjQRyN_8_vfFBm0",
     "name": "MINT PASTA 綠薄荷麵食坊",
     "address": "116臺灣臺北市文山區景興路274之2號",
@@ -10319,6 +11510,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJDac_FEmrQjQRWFjYb8KNK3Q",
     "name": "Pattie-O 樂緹歐美式餐廳",
     "address": "116臺灣臺北市文山區興隆路三段112巷4弄46號1樓",
@@ -10345,6 +11539,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJf6Txn6ABaDQRcpCt0iKmsC4",
     "name": "富順樓餐廳",
     "address": "116臺灣臺北市文山區木柵路一段38號",
@@ -10371,6 +11568,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJjVJZrvCrQjQRgVbFi8RKHlU",
     "name": "大隻佬 食堂",
     "address": "116臺灣臺北市文山區指南路二段46號",
@@ -10397,6 +11597,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ_3e32U2rQjQRYPisZQ7gO40",
     "name": "春美harumi（店休至網路社群）不接訂位😉",
     "address": "116臺灣臺北市文山區興隆路四段67號",
@@ -10423,6 +11626,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJiRDpRsurQjQRcHk6v2b4YPM",
     "name": "徙巷小餐酒x徙巷早午餐",
     "address": "116臺灣臺北市文山區木柵路三段49巷12號",
@@ -10449,6 +11655,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "空間寬敞、不怕小孩吵",
     "place_id": "ChIJSSfUMwuqQjQR2pEY_9X3t5g",
     "name": "弘大一號出口",
     "address": "116臺灣臺北市文山區木柵路二段70號",
@@ -10478,6 +11687,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ97N8KHGqQjQRwyZ8CRnNiuQ",
     "name": "潮飯",
     "address": "116臺灣臺北市文山區開元街36號",
@@ -10504,6 +11716,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJaQs-tESrQjQRvNYMuU3wROU",
     "name": "星馬泰singmathai（文山店）",
     "address": "116臺灣臺北市文山區興隆路三段112巷3號",
@@ -10530,6 +11745,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJcaceqxOqQjQRjSTp2mVr7A0",
     "name": "福鼎湯包店",
     "address": "116臺灣臺北市文山區興隆路三段112巷2弄13號",
@@ -10556,6 +11774,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJN6TVv8yrQjQRi2lEcyAobnk",
     "name": "胖夫妻日式料理",
     "address": "116臺灣臺北市文山區興隆路三段36巷6號",
@@ -10582,6 +11803,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJsea9_nqqQjQRx7sLYot9aAo",
     "name": "敘緣小館",
     "address": "116臺灣臺北市文山區新光路一段53號",
@@ -10608,6 +11832,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJi_wfbTIAaDQRglsYk5vXA3k",
     "name": "貓空龍門客棧",
     "address": "116臺灣臺北市文山區指南路三段38巷22之2號",
@@ -10634,6 +11861,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJL3zx0rgBaDQRdw7IJgZql9g",
     "name": "寶杏堂 手切滷肉飯 溫補羊肉湯",
     "address": "116臺灣臺北市文山區木新路三段179號",
@@ -10660,6 +11890,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJKX8_B98BaDQRNv-wGZXLk7U",
     "name": "德意事歐式美食屋",
     "address": "116臺灣臺北市文山區木新路三段97號",
@@ -10686,6 +11919,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJNY-ZoyWrQjQRKft5AHQ1Rcs",
     "name": "滿豐牛肉麵",
     "address": "116臺灣臺北市文山區木柵路三段102巷2號",
@@ -10712,6 +11948,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ51ckrG2rQjQRMY8TOluuHNU",
     "name": "ConfitRémi 黑米",
     "address": "116臺灣臺北市文山區羅斯福路五段269巷16號",
@@ -10738,6 +11977,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJ3ZnMlHuqQjQRMj4lIpQR6xE",
     "name": "Juicy Bun Burger 就是棒 美式餐廳 政大店",
     "address": "116臺灣臺北市文山區萬壽路19號1樓",
@@ -10766,6 +12008,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJFekkptgBaDQRNxL7DbKmF8E",
     "name": "-焱鬼鍋燒專門店-文山三番店 木柵美食 木柵餐廳 木柵小吃 木柵restaurant 動物園美食 政大美食",
     "address": "116臺灣臺北市文山區木新路二段252號",
@@ -10792,6 +12037,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJ0aAfEd8BaDQRNjnlm9gF9s4",
     "name": "LI RA義大利廚房",
     "address": "116臺灣臺北市文山區木新路三段67號",
@@ -10818,6 +12066,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "不怕小孩吵",
     "place_id": "ChIJNQ-iKA2qQjQR3Uqz2pmL8fI",
     "name": "魚玄雞小館 - 母親節訂位及外帶、4/1正式開啟",
     "address": "116臺灣臺北市文山區興隆路三段225號",
@@ -10846,6 +12097,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJjeYFGHSqQjQR2lF22e6zzLM",
     "name": "御神烹-原香日式私廚",
     "address": "116臺灣臺北市文山區木柵路三段48巷1弄9號",
@@ -10872,6 +12126,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJBU_cKzAAaDQRcCcJUAS4lmM",
     "name": "貓空清泉山莊 景點餐廳",
     "address": "116臺灣臺北市文山區指南路三段38巷33-3號號（右側",
@@ -10898,6 +12155,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJtfVyH3SqQjQRdkK2ogdqv04",
     "name": "紅牛屋",
     "address": "116臺灣臺北市文山區木柵路三段48巷1弄3號",
@@ -10924,6 +12184,9 @@ const restaurantData = [
     ]
   },
   {
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "目前缺乏明確的親子友善資訊",
     "place_id": "ChIJaWfvlQCqQjQRSzfJ51RhuRg",
     "name": "義興樓EAT-THING RESTAURANT",
     "address": "116臺灣臺北市文山區景文街121號",
