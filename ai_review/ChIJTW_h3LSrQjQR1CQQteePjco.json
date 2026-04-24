@@ -1,25 +1,30 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "UNKNOWN",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "空間寬敞，桌椅高度很適合久坐...座位間距離很寬裕",
-                             "confidence":  1.0
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "No",
-                               "evidence":  "工作一整天進入心流狀態不怕中斷",
-                               "confidence":  0.7
-                           },
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "資訊不足",
-    "reason":  "空間寬敞"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "空間寬敞",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "地點位在熱鬧的吳興街巷內",
+        "confidence": 0.9
+    },
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "綜合評估",
+    "generated_signals": [
+        "地點位在熱鬧的吳興街巷內",
+        "空間寬敞"
+    ],
+    "generated_summary": "評論指出這家餐廳空間寬敞、對親子家庭友善。"
 }

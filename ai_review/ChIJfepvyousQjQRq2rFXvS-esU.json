@@ -1,25 +1,30 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "YES",
-                                  "evidence":  "不愧是親子餐廳～",
-                                  "confidence":  0.6
-                              },
-    "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "Kids menu available":  {
-                                "result":  "Yes",
-                                "evidence":  "除了有兒童餐，特別的是還有提供「寶寶粥」呢！",
-                                "confidence":  1.0
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "內湖知名指標性親子餐廳...平日用餐時段人潮不斷",
-                               "confidence":  1.0
-                           },
-    "parent_friendly_score":  3,
-    "parent_friendly_level":  "高",
-    "reason":  "有兒童椅、有兒童餐、不怕小孩吵"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": "特別的是還有提供「寶寶粥」呢",
+        "confidence": 0.9
+    },
+    "kid_noise_tolerant": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "綜合評估",
+    "generated_signals": [
+        "特別的是還有提供「寶寶粥」呢",
+        "除了有兒童餐"
+    ],
+    "generated_summary": "評論指出這家餐廳有兒童餐點。"
 }

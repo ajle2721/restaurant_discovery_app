@@ -1,25 +1,30 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "YES",
-                                  "evidence":  "很棒的親子餐廳",
-                                  "confidence":  0.6
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "餐點很好吃，飲料也不錯，整體的價位合理",
-                             "confidence":  0.8
-                         },
-    "Kids menu available":  {
-                                "result":  "Yes",
-                                "evidence":  "還有提供寶寶粥",
-                                "confidence":  1.0
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "很棒的親子餐廳，有球池、車車、廚房組，還有提供熱水、尿布臺",
-                               "confidence":  1.0
-                           },
-    "parent_friendly_score":  4,
-    "parent_friendly_level":  "高",
-    "reason":  "有兒童椅、有兒童餐、空間寬敞、不怕小孩吵"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "小小的店很溫馨",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": "還有提供寶寶粥",
+        "confidence": 0.9
+    },
+    "kid_noise_tolerant": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "綜合評估",
+    "generated_signals": [
+        "還有提供寶寶粥",
+        "小小的店很溫馨"
+    ],
+    "generated_summary": "評論指出這家餐廳有兒童餐點，但需留意座位較擁擠/空間偏小。"
 }

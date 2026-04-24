@@ -1,25 +1,29 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "UNKNOWN",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "用餐環境寬敞及舒適",
-                             "confidence":  0.9
-                         },
-    "Kids menu available":  {
-                                "result":  "Yes",
-                                "evidence":  "樂雅樂餐廳",
-                                "confidence":  1.0
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "餐廳外面有個小公園，適合小朋友跑跳",
-                               "confidence":  1.0
-                           },
-    "parent_friendly_score":  3,
-    "parent_friendly_level":  "高",
-    "reason":  "有兒童餐、空間寬敞、不怕小孩吵"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "用餐環境寬敞及舒適",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "綜合評估",
+    "generated_signals": [
+        "用餐環境寬敞及舒適"
+    ],
+    "generated_summary": "評論指出這家餐廳空間寬敞。"
 }

@@ -1,25 +1,29 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "UNKNOWN",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "No",
-                             "evidence":  "雖然座位不多",
-                             "confidence":  0.9
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "氣氛好，有室內及室外座位，開放式的空間，享受室外的綠意",
-                               "confidence":  0.7
-                           },
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "資訊不足",
-    "reason":  "不怕小孩吵"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "No",
+        "evidence": "在康寧醫院附近的安靜社區",
+        "confidence": 0.9
+    },
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
+    "reason": "綜合評估",
+    "generated_signals": [
+        "在康寧醫院附近的安靜社區"
+    ],
+    "generated_summary": "但需留意氣氛安靜/不適合帶小孩。"
 }

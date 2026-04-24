@@ -1,25 +1,31 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "UNKNOWN",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "一樓很寬敞...早點來沒什麼人很安靜位子很多",
-                             "confidence":  0.9
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "No",
-                               "evidence":  "彷彿來到K書中心，大家都很安靜的使用筆電或看書",
-                               "confidence":  0.9
-                           },
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "資訊不足",
-    "reason":  "空間寬敞"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "沒有上去二樓 但一樓很寬敞 環境也很好 是會一直拜訪的咖啡店 😚",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "No",
+        "evidence": "大家都很安靜的使用筆電或看書",
+        "confidence": 0.9
+    },
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "綜合評估",
+    "generated_signals": [
+        "大家都很安靜的使用筆電或看書",
+        "早點來沒什麼人很安靜位子很多👍👍👍",
+        "沒有上去二樓 但一樓很寬敞 環境也很好 是會一直拜訪的咖啡店 😚"
+    ],
+    "generated_summary": "評論指出這家餐廳空間寬敞，但需留意氣氛安靜/不適合帶小孩。"
 }

@@ -1,25 +1,29 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "UNKNOWN",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "店內空間寬敞，氣氛平和",
-                             "confidence":  0.9
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "No",
-                               "evidence":  "不限時咖啡廳適合用電腦的人...很多人在談生意",
-                               "confidence":  0.8
-                           },
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "資訊不足",
-    "reason":  "空間寬敞"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "店內空間寬敞",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "綜合評估",
+    "generated_signals": [
+        "店內空間寬敞"
+    ],
+    "generated_summary": "評論指出這家餐廳空間寬敞。"
 }

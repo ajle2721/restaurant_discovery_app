@@ -1,25 +1,30 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "YES",
-                                  "evidence":  "幫我們準備嬰兒座椅及兒童碗盤",
-                                  "confidence":  0.9
-                              },
-    "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "沒想到店員非常友善",
-                               "confidence":  0.8
-                           },
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "中",
-    "reason":  "有兒童椅、不怕小孩吵"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "整體氣氛很熱鬧",
+        "confidence": 0.9
+    },
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "綜合評估",
+    "generated_signals": [
+        "整體氣氛很熱鬧",
+        "這間四川麻辣＋螺螄粉鴛鴦鍋真的超讚👍完全適合聚餐或慶生"
+    ],
+    "generated_summary": "評論指出這家餐廳對親子家庭友善。"
 }

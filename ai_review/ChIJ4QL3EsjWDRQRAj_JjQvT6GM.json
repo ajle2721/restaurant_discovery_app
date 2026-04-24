@@ -1,25 +1,30 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "UNKNOWN",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "空間很大舒服乾淨整潔",
-                             "confidence":  0.9
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "No",
-                               "evidence":  "氣氛溫馨安靜...很適合久坐工作",
-                               "confidence":  0.8
-                           },
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "資訊不足",
-    "reason":  "空間寬敞"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "空間很大舒服乾淨整潔",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "No",
+        "evidence": "氣氛很溫馨安靜",
+        "confidence": 0.9
+    },
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "綜合評估",
+    "generated_signals": [
+        "氣氛很溫馨安靜",
+        "空間很大舒服乾淨整潔"
+    ],
+    "generated_summary": "評論指出這家餐廳空間寬敞，但需留意氣氛安靜/不適合帶小孩。"
 }

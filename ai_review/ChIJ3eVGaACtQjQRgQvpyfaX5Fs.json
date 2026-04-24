@@ -1,25 +1,29 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "UNKNOWN",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "No",
-                             "evidence":  "有點擁擠",
-                             "confidence":  0.8
-                         },
-    "Kids menu available":  {
-                                "result":  "Yes",
-                                "evidence":  "首先等了90分鐘期望太高非常失望食物「非常」難吃不是普通的難吃根本跟夏威夷料理完全沒關係完全頂多就是臺式夏威夷「風格」裝潢裝飾餐點而已主餐的牛肉送來還有血請他們二次加熱之後送來除了牛肉是溫溫的飯是溫冷的配菜也是兒童餐也很難吃尤其是漢堡排薯條連小孩也覺得不好吃吃一口就不吃了再來明明現場沒有到客滿卻無法自己選座位？？？我們有帶小孩還安排在中間的位置詢問是否可以換到沙發被拒絕但我們快吃完才有客人坐到那桌另一點服務人員感覺沒有接受過完善的教育訓練ㄧ問三不知還要問另一位服務員…總結完全不推薦",
-                                "confidence":  0.8
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Unknown",
-                               "evidence":  null,
-                               "confidence":  0.4
-                           },
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "資訊不足",
-    "reason":  "有兒童餐"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": "首先等了90分鐘期望太高非常失望食物「非常」難吃不是普通的難吃根本跟夏威夷料理完全沒關係完全頂多就是台式夏威夷「風格」裝潢裝飾餐點而已主餐的牛肉送來還有血請他們二次加熱之後送來除了牛肉是溫溫的飯是溫冷的配菜也是兒童餐也很難吃尤其是漢堡排薯條連小孩也覺得不好吃吃一口就不吃了再來明明現場沒有到客滿卻無法自己選座位",
+        "confidence": 0.9
+    },
+    "kid_noise_tolerant": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "綜合評估",
+    "generated_signals": [
+        "首先等了90分鐘期望太高非常失望食物「非常」難吃不是普通的難吃根本跟夏威夷料理完全沒關係完全頂多就是台式夏威夷「風格」裝潢裝飾餐點而已主餐的牛肉送來還有血請他們二次加熱之後送來除了牛肉是溫溫的飯是溫冷的配菜也是兒童餐也很難吃尤其是漢堡排薯條連小孩也覺得不好吃吃一口就不吃了再來明明現場沒有到客滿卻無法自己選座位"
+    ],
+    "generated_summary": "評論指出這家餐廳有兒童餐點。"
 }

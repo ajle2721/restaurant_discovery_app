@@ -1,25 +1,29 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "UNKNOWN",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "No",
-                               "evidence":  "環境安靜、座位間不壓迫",
-                               "confidence":  0.8
-                           },
-    "parent_friendly_score":  0,
-    "parent_friendly_level":  "資訊不足",
-    "reason":  "目前缺乏明確的親子友善資訊"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "No",
+        "evidence": "環境安靜、座位間不壓迫",
+        "confidence": 0.9
+    },
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
+    "reason": "綜合評估",
+    "generated_signals": [
+        "環境安靜、座位間不壓迫"
+    ],
+    "generated_summary": "但需留意氣氛安靜/不適合帶小孩。"
 }

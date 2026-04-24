@@ -1,25 +1,30 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "UNKNOWN",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "空間寬敞、氛圍好的音樂餐酒館",
-                             "confidence":  0.8
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Unknown",
-                               "evidence":  null,
-                               "confidence":  0.4
-                           },
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "資訊不足",
-    "reason":  "空間寬敞"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "空間寬敞、座位舒適、氛圍拉滿、菜式豐富、是味覺加上聽覺雙重享受放鬆好地方",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "綜合評估",
+    "generated_signals": [
+        "空間寬敞、座位舒適、氛圍拉滿、菜式豐富、是味覺加上聽覺雙重享受放鬆好地方",
+        "空間寬敞、氛圍好的音樂餐酒館"
+    ],
+    "generated_summary": "評論指出這家餐廳空間寬敞。"
 }

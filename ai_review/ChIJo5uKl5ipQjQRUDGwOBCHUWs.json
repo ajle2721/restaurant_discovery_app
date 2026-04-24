@@ -1,25 +1,36 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "YES",
-                                  "evidence":  "空間很寬敞舒適的親子餐廳",
-                                  "confidence":  0.6
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "空間很大適合多人聚餐",
-                             "confidence":  0.9
-                         },
-    "Kids menu available":  {
-                                "result":  "Yes",
-                                "evidence":  "本來想點兔子咖哩飯...那既然開親子餐廳",
-                                "confidence":  0.9
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "不過小孩真的太多了，所以周圍很吵鬧，很適合帶孩子來用餐",
-                               "confidence":  1.0
-                           },
-    "parent_friendly_score":  4,
-    "parent_friendly_level":  "高",
-    "reason":  "有兒童椅、有兒童餐、空間寬敞、不怕小孩吵"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "空間很寬敞舒適的親子餐廳",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": "⚠️兒童餐：本來想點兔子咖喱飯",
+        "confidence": 0.9
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "還算適合小孩吃的餐點",
+        "confidence": 0.9
+    },
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "綜合評估",
+    "generated_signals": [
+        "✅兒童餐：青醬雞肉丸麵",
+        "不知道是不是因為挑高聲音很容易放大像菜市場一樣🥲不過真的是做到非常親子友善",
+        "空間很大適合多人聚餐",
+        "很適合親子聚會",
+        "空間很寬敞",
+        "⚠️兒童餐：本來想點兔子咖喱飯",
+        "還算適合小孩吃的餐點",
+        "空間很寬敞舒適的親子餐廳"
+    ],
+    "generated_summary": "評論指出這家餐廳空間寬敞、有兒童餐點、對親子家庭友善。"
 }

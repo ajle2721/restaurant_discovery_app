@@ -1,25 +1,31 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "YES",
-                                  "evidence":  "餐點份量也很大很有飽足感～ 適合帶小朋友來拍照嚐鮮",
-                                  "confidence":  0.6
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "3樓較寬敞",
-                             "confidence":  0.9
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "有一堆表情便便抱枕滿逗趣...適合親子的唷",
-                               "confidence":  1.0
-                           },
-    "parent_friendly_score":  3,
-    "parent_friendly_level":  "高",
-    "reason":  "有兒童椅、空間寬敞、不怕小孩吵"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "3樓較寬敞",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": "1.店內雖像親子餐廳卻沒有提供兒童餐具",
+        "confidence": 0.9
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "也滿適合親子的唷",
+        "confidence": 0.9
+    },
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "綜合評估",
+    "generated_signals": [
+        "3樓較寬敞",
+        "1.店內雖像親子餐廳卻沒有提供兒童餐具",
+        "也滿適合親子的唷"
+    ],
+    "generated_summary": "評論指出這家餐廳空間寬敞、有兒童餐點、對親子家庭友善。"
 }

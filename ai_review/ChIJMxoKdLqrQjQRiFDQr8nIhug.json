@@ -1,25 +1,29 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "YES",
-                                  "evidence":  "另外觀察了一下很多家長帶小朋友來用餐",
-                                  "confidence":  0.6
-                              },
-    "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "算是「親子友善」😆小朋友哭鬧在這邊很平常",
-                               "confidence":  0.8
-                           },
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "中",
-    "reason":  "有兒童椅、不怕小孩吵"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "算是「親子友善」😆小朋友哭鬧在這邊很平常",
+        "confidence": 0.9
+    },
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "綜合評估",
+    "generated_signals": [
+        "算是「親子友善」😆小朋友哭鬧在這邊很平常"
+    ],
+    "generated_summary": "評論指出這家餐廳對親子家庭友善。"
 }

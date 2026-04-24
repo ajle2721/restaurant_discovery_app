@@ -1,25 +1,29 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "UNKNOWN",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Unknown",
-                               "evidence":  null,
-                               "confidence":  0.4
-                           },
-    "parent_friendly_score":  0,
-    "parent_friendly_level":  "資訊不足",
-    "reason":  "目前缺乏明確的親子友善資訊"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "丼飯很好吃 有點的小菜也都不錯 小小的店 氣氛放鬆放鬆的 音樂不會太吵 不過是沒營業到真的很深夜 晚上10點差不多就關了 但推薦 路邊有停車位可以停 或者停旁邊學校的停車場",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
+    "reason": "綜合評估",
+    "generated_signals": [
+        "丼飯很好吃 有點的小菜也都不錯 小小的店 氣氛放鬆放鬆的 音樂不會太吵 不過是沒營業到真的很深夜 晚上10點差不多就關了 但推薦 路邊有停車位可以停 或者停旁邊學校的停車場"
+    ],
+    "generated_summary": "但需留意座位較擁擠/空間偏小。"
 }

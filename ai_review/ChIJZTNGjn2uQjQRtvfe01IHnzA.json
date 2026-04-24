@@ -1,25 +1,29 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "YES",
-                                  "evidence":  "很適合家庭聚餐或朋友帶小孩來放電",
-                                  "confidence":  0.6
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "整體環境空間算滿大...地下室還有各種遊戲設施",
-                             "confidence":  0.8
-                         },
-    "Kids menu available":  {
-                                "result":  "Yes",
-                                "evidence":  "兒童餐的車車造型小朋友很喜歡",
-                                "confidence":  0.9
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "天母人氣親子漢堡店...地下室還有各種遊戲設施可以免費玩",
-                               "confidence":  1.0
-                           },
-    "parent_friendly_score":  4,
-    "parent_friendly_level":  "高",
-    "reason":  "有兒童椅、有兒童餐、空間寬敞、不怕小孩吵"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "很適合家庭聚餐或朋友帶小孩來放電",
+        "confidence": 0.9
+    },
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "綜合評估",
+    "generated_signals": [
+        "很適合家庭聚餐或朋友帶小孩來放電"
+    ],
+    "generated_summary": "評論指出這家餐廳對親子家庭友善。"
 }
