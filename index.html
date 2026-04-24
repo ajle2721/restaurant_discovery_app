@@ -86,20 +86,7 @@
         <!-- Map Container (Mini Map) -->
         <div id="map-container" class="results-container" style="padding-top: 1rem; padding-bottom: 0; height: auto; min-height: unset;">
             <div style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0.75rem; text-align: center; font-weight: 600;">目前顯示較適合帶小孩的餐廳</div>
-            <div class="map-legend" style="display: flex; justify-content: center; gap: 1rem; margin-bottom: 0.75rem; font-size: 0.85rem; color: var(--text-main); font-weight: 600;">
-                <div style="display: flex; align-items: center; gap: 0.3rem;">
-                    <div style="background-color: #4FB3AA; width: 12px; height: 12px; border-radius: 50%; border: 2px solid white; box-shadow: 0 1px 2px rgba(0,0,0,0.3);"></div>
-                    <span>適合帶小孩</span>
-                </div>
-                <div style="display: flex; align-items: center; gap: 0.3rem;">
-                    <div style="background-color: #FFB347; width: 12px; height: 12px; border-radius: 50%; border: 2px solid white; box-shadow: 0 1px 2px rgba(0,0,0,0.3);"></div>
-                    <span>可能適合</span>
-                </div>
-                <div style="display: flex; align-items: center; gap: 0.3rem;">
-                    <div style="background-color: #CBD5E1; width: 12px; height: 12px; border-radius: 50%; border: 2px solid white; box-shadow: 0 1px 2px rgba(0,0,0,0.3);"></div>
-                    <span>資訊較少</span>
-                </div>
-            </div>
+
             <div id="map" style="height: 250px; min-height: 250px;"></div>
         </div>
 
@@ -108,15 +95,6 @@
         <main id="restaurant-list" class="results-container">
             <!-- Results will be injected here -->
         </main>
-        
-        <div id="more-options-container" style="padding: 0 1.5rem 5rem; text-align: center; display: none;">
-            <button id="btn-show-low" class="btn btn-outline" style="width: 100%; border-color: #CBD5E1; color: var(--text-muted);">
-                顯示更多資訊較少的選項
-            </button>
-            <button id="btn-hide-low" class="btn btn-outline" style="width: 100%; border-color: #CBD5E1; color: var(--text-muted); display: none;">
-                收起資訊較少的選項 ▲
-            </button>
-        </div>
 
         <button id="float-share" class="fab">
             <span>🔗</span>

@@ -9,6 +9,8 @@ const state = {
     userMarker: null,
     userCircle: null,
     userLocation: null, // {lat, lng}
+    showHighLevel: true,
+    showMidLevel: true,
     showLowLevel: false,
     lastFilteredResults: []
 };
@@ -51,6 +53,14 @@ const closeLocationModalBtn = document.getElementById('close-location-modal');
 const confirmLocationBtn = document.getElementById('confirm-location');
 const locAllBtn = document.getElementById('loc-all');
 const locChips = document.querySelectorAll('.loc-chip');
+
+
+window.toggleCategory = function(level) {
+    if (level === 'high') state.showHighLevel = !state.showHighLevel;
+    if (level === 'mid') state.showMidLevel = !state.showMidLevel;
+    if (level === 'low') state.showLowLevel = !state.showLowLevel;
+    renderList();
+};
 
 // Initialization
 function init() {
@@ -257,92 +267,60 @@ function renderList() {
         return (b.parent_friendly_score || 0) - (a.parent_friendly_score || 0);
     });
 
-    // Group into Primary (高+中) and Secondary (資訊不足)
-    const primaryData = eligibleData.filter(r => r.parent_friendly_level === '高' || r.parent_friendly_level === '中');
-    const secondaryData = eligibleData.filter(r => r.parent_friendly_level === '資訊不足');
+    // Group into High, Mid, Low
+    const highData = eligibleData.filter(r => r.parent_friendly_level === '高');
+    const midData = eligibleData.filter(r => r.parent_friendly_level === '中');
+    const lowData = eligibleData.filter(r => r.parent_friendly_level === '資訊不足');
 
-    if (primaryData.length === 0 && secondaryData.length === 0) {
+    if (highData.length === 0 && midData.length === 0 && lowData.length === 0) {
         renderEmptyState();
         resultsCount.innerHTML = `
             <div style="background: var(--card-bg); padding: 1rem; border-radius: 1rem; box-shadow: 0 1px 2px rgba(0,0,0,0.05); margin-bottom: 0.5rem; font-weight: 600; line-height: 1.6;">
-                <div style="display: flex; align-items: center;"><div style="display:flex; align-items:center; margin-right:0.5rem;"><span style="display:inline-block; width:10px; height:10px; background:#4FB3AA; border-radius:50%; border: 1.5px solid var(--card-bg); z-index: 2;"></span><span style="display:inline-block; width:10px; height:10px; background:#FFB347; border-radius:50%; margin-left:-4px; border: 1.5px solid var(--card-bg); z-index: 1;"></span></div>適合帶小孩：0 間</div>
-                <div><span style="display:inline-block; width:10px; height:10px; background:#CBD5E1; border-radius:50%; margin-right:0.5rem;"></span>其他選項：0 間</div>
+                <div style="display: flex; align-items: center;"><div style="display:inline-block; width:10px; height:10px; background:#4FB3AA; border-radius:50%; margin-right:0.5rem;"></div>適合帶小孩：0 間</div>
+                <div style="display: flex; align-items: center;"><div style="display:inline-block; width:10px; height:10px; background:#FFB347; border-radius:50%; margin-right:0.5rem;"></div>可能適合：0 間</div>
+                <div style="display: flex; align-items: center;"><div style="display:inline-block; width:10px; height:10px; background:#CBD5E1; border-radius:50%; margin-right:0.5rem;"></div>資訊較少：0 間</div>
             </div>
         `;
-        moreOptionsContainer.style.display = 'none';
         renderMap([]);
         return;
     }
 
-    // Fallback logic
-    let fallbackTriggered = false;
-    if (state.userLocation && primaryData.length < 5 && secondaryData.length > 0 && !state.showLowLevel) {
-        fallbackTriggered = true;
-    }
-
     resultsCount.innerHTML = `
-        <div style="background: var(--card-bg); padding: 1rem; border-radius: 1rem; box-shadow: 0 1px 2px rgba(0,0,0,0.05); margin-bottom: 0.5rem; font-weight: 600; line-height: 1.6;">
-            <div style="display: flex; align-items: center;"><div style="display:flex; align-items:center; margin-right:0.5rem;"><span style="display:inline-block; width:10px; height:10px; background:#4FB3AA; border-radius:50%; border: 1.5px solid var(--card-bg); z-index: 2;"></span><span style="display:inline-block; width:10px; height:10px; background:#FFB347; border-radius:50%; margin-left:-4px; border: 1.5px solid var(--card-bg); z-index: 1;"></span></div>適合帶小孩：${primaryData.length} 間</div>
-            <div><span style="display:inline-block; width:10px; height:10px; background:#CBD5E1; border-radius:50%; margin-right:0.5rem;"></span>其他選項：${secondaryData.length} 間</div>
+        <div style="background: var(--card-bg); padding: 0.5rem; border-radius: 1rem; box-shadow: 0 1px 2px rgba(0,0,0,0.05); margin-bottom: 0.5rem; font-weight: 600; line-height: 1.6;">
+            <div onclick="toggleCategory('high')" style="cursor: pointer; display: flex; align-items: center; justify-content: space-between; padding: 0.5rem; border-radius: 0.5rem; transition: background 0.2s;" onmouseover="this.style.background='#f1f5f9'" onmouseout="this.style.background='transparent'">
+                <div style="display: flex; align-items: center;"><div style="display:inline-block; width:10px; height:10px; background:#4FB3AA; border-radius:50%; margin-right:0.5rem;"></div>適合帶小孩：${highData.length} 間</div>
+                <div style="color: var(--text-muted);">${state.showHighLevel ? '▲' : '▼'}</div>
+            </div>
+            <div onclick="toggleCategory('mid')" style="cursor: pointer; display: flex; align-items: center; justify-content: space-between; padding: 0.5rem; border-radius: 0.5rem; transition: background 0.2s;" onmouseover="this.style.background='#f1f5f9'" onmouseout="this.style.background='transparent'">
+                <div style="display: flex; align-items: center;"><div style="display:inline-block; width:10px; height:10px; background:#FFB347; border-radius:50%; margin-right:0.5rem;"></div>可能適合：${midData.length} 間</div>
+                <div style="color: var(--text-muted);">${state.showMidLevel ? '▲' : '▼'}</div>
+            </div>
+            <div onclick="toggleCategory('low')" style="cursor: pointer; display: flex; align-items: center; justify-content: space-between; padding: 0.5rem; border-radius: 0.5rem; transition: background 0.2s;" onmouseover="this.style.background='#f1f5f9'" onmouseout="this.style.background='transparent'">
+                <div style="display: flex; align-items: center;"><div style="display:inline-block; width:10px; height:10px; background:#CBD5E1; border-radius:50%; margin-right:0.5rem;"></div>資訊較少：${lowData.length} 間</div>
+                <div style="color: var(--text-muted);">${state.showLowLevel ? '▲' : '▼'}</div>
+            </div>
         </div>
     `;
 
-    // Render Primary Data
-    if (primaryData.length > 0) {
-        primaryData.forEach(res => renderCard(res));
-    } else if (!state.showLowLevel && secondaryData.length > 0) {
-        const helper = document.createElement('div');
-        helper.className = 'results-section-helper';
-        helper.textContent = '附近的高評價選擇較少，您可以展開查看其他選項👇';
-        helper.style.textAlign = 'center';
-        helper.style.marginTop = '2rem';
-        restaurantList.appendChild(helper);
+    // Render Data based on toggles
+    if (state.showHighLevel && highData.length > 0) {
+        highData.forEach(res => renderCard(res));
     }
-
-    // Render Secondary Data if flag is true
-    if (state.showLowLevel) {
-        if (secondaryData.length > 0) {
-            const header = document.createElement('div');
-            header.className = 'results-section-header';
-            header.textContent = '其他選項 (資訊較少)';
-            restaurantList.appendChild(header);
-
-            secondaryData.forEach(res => renderCard(res));
-            
-            moreOptionsContainer.style.display = 'block';
-            if (btnShowLow) btnShowLow.style.display = 'none';
-            if (btnHideLow) btnHideLow.style.display = 'block';
-        } else {
-            moreOptionsContainer.style.display = 'none';
-        }
-    } else {
-        if (secondaryData.length > 0) {
-            moreOptionsContainer.style.display = 'block';
-            if (btnShowLow) btnShowLow.style.display = 'flex';
-            if (btnHideLow) btnHideLow.style.display = 'none';
-            
-            if (fallbackTriggered) {
-                btnShowLow.innerHTML = `<div style="font-size: 0.85rem; margin-bottom: 0.5rem; color: var(--text-muted); font-weight: 500;">附近選擇較少，還有 ${secondaryData.length} 間餐廳可參考（資訊較少）</div><div style="font-size: 1rem; font-weight: 700;">顯示全部餐廳</div>`;
-                btnShowLow.style.borderColor = 'var(--primary)';
-                btnShowLow.style.color = 'var(--primary)';
-                btnShowLow.style.padding = '0.75rem';
-                btnShowLow.style.flexDirection = 'column';
-            } else {
-                btnShowLow.innerHTML = `<div style="font-size: 0.85rem; margin-bottom: 0.5rem; color: var(--text-muted); font-weight: 500;">還有 ${secondaryData.length} 間餐廳可參考（資訊較少）</div><div style="font-size: 1rem; font-weight: 700;">顯示全部餐廳</div>`;
-                btnShowLow.style.borderColor = '#CBD5E1';
-                btnShowLow.style.color = 'var(--text-muted)';
-                btnShowLow.style.padding = '0.75rem';
-                btnShowLow.style.flexDirection = 'column';
-            }
-        } else {
-            moreOptionsContainer.style.display = 'none';
-        }
+    if (state.showMidLevel && midData.length > 0) {
+        midData.forEach(res => renderCard(res));
+    }
+    if (state.showLowLevel && lowData.length > 0) {
+        lowData.forEach(res => renderCard(res));
     }
 
     updateFilterSummary(eligibleData.length);
-    
+
     // Store results for map persistence
-    state.lastFilteredResults = state.showLowLevel ? eligibleData : primaryData;
+    let mapData = [];
+    if (state.showHighLevel) mapData = mapData.concat(highData);
+    if (state.showMidLevel) mapData = mapData.concat(midData);
+    if (state.showLowLevel) mapData = mapData.concat(lowData);
+    state.lastFilteredResults = mapData;
     renderMap(state.lastFilteredResults);
 }
 
@@ -780,6 +758,8 @@ function handleGeolocation() {
             state.userMarker = L.marker([lat, lng], { icon: userIcon, zIndexOffset: 1000 }).addTo(state.map);
             state.userMarker.bindPopup("你的位置");
             
+            state.showHighLevel = true;
+            state.showMidLevel = true;
             state.showLowLevel = true; // Show all restaurants within 3km immediately
             
             btnNearby.innerHTML = '<span style="font-size: 1.25rem;">📍</span> 已套用附近餐廳';
