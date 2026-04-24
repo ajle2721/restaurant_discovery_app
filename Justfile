@@ -6,7 +6,7 @@ default:
   @just --list
 
 serve:
-  live-server --port={{port}} --host=0.0.0.0 --no-browser
+  live-server --port={{port}} --host=0.0.0.0 .
 
 serve-open:
-  live-server --port={{port}} --host=0.0.0.0
+  live-server --port={{port}} --host=0.0.0.0 --open .
