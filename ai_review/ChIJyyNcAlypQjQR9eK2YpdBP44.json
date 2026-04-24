@@ -1,8 +1,8 @@
 {
     " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "No",
+        "evidence": "沒有提供兒童座椅",
+        "confidence": 1
     },
     "Spacious seating": {
         "result": "No",
@@ -26,5 +26,5 @@
         "小小的店",
         "就是座位間很近"
     ],
-    "generated_summary": "但需留意座位較擁擠/空間偏小。"
+    "generated_summary": "但需留意未提供兒童椅、座位較擁擠/空間偏小。"
 }
