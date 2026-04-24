@@ -2,6 +2,7 @@
 .env
 .env.txt
 GOOGLE_MAP_KEY
+.direnv/
 
 # Python
 __pycache__/
