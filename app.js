@@ -41,6 +41,7 @@ const locationText = document.getElementById('location-text');
 const resultsCount = document.getElementById('results-count');
 const btnNearby = document.getElementById('btn-nearby');
 const btnShowLow = document.getElementById('btn-show-low');
+const btnHideLow = document.getElementById('btn-hide-low');
 const moreOptionsContainer = document.getElementById('more-options-container');
 
 // Modal Elements
@@ -90,7 +91,17 @@ function setupEventListeners() {
         btnShowLow.addEventListener('click', () => {
             state.showLowLevel = true;
             renderList();
-            btnShowLow.style.display = 'none';
+        });
+    }
+
+    // Hide Low Button
+    if (btnHideLow) {
+        btnHideLow.addEventListener('click', () => {
+            state.showLowLevel = false;
+            renderList();
+            if (resultsCount) {
+                resultsCount.scrollIntoView({ behavior: 'smooth', block: 'center' });
+            }
         });
     }
 
@@ -297,11 +308,19 @@ function renderList() {
             restaurantList.appendChild(header);
 
             secondaryData.forEach(res => renderCard(res));
+            
+            moreOptionsContainer.style.display = 'block';
+            if (btnShowLow) btnShowLow.style.display = 'none';
+            if (btnHideLow) btnHideLow.style.display = 'block';
+        } else {
+            moreOptionsContainer.style.display = 'none';
         }
-        moreOptionsContainer.style.display = 'none';
     } else {
         if (secondaryData.length > 0) {
             moreOptionsContainer.style.display = 'block';
+            if (btnShowLow) btnShowLow.style.display = 'flex';
+            if (btnHideLow) btnHideLow.style.display = 'none';
+            
             if (fallbackTriggered) {
                 btnShowLow.innerHTML = `<div style="font-size: 0.85rem; margin-bottom: 0.5rem; color: var(--text-muted); font-weight: 500;">附近選擇較少，還有 ${secondaryData.length} 間餐廳可參考（資訊較少）</div><div style="font-size: 1rem; font-weight: 700;">顯示全部餐廳</div>`;
                 btnShowLow.style.borderColor = 'var(--primary)';
