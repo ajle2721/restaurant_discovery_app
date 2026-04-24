@@ -22,7 +22,7 @@ const attributeIcons = {
 const attributeLabels = {
     high_chair_available: '兒童椅',
     kids_menu: '兒童餐',
-    spacious_seating: '寬敞座位',
+    spacious_seating: '空間寬敞',
     kid_noise_tolerant: '不怕小孩吵'
 };
 
@@ -119,6 +119,7 @@ function setupEventListeners() {
     if (locAllBtn) {
         locAllBtn.addEventListener('click', () => {
             state.locations.clear();
+            clearUserLocation();
             updateModalUI();
         });
     }
@@ -131,6 +132,7 @@ function setupEventListeners() {
             } else {
                 state.locations.add(loc);
             }
+            clearUserLocation();
             updateModalUI();
         });
     });
@@ -222,6 +224,11 @@ function renderList() {
             if (!hasMatch) return false;
         }
 
+        // Distance filter (only show restaurants within 3km if nearby is active)
+        if (state.userLocation && res.distance > 3) {
+            return false;
+        }
+
         // Exclude: ALL tags are Unknown (no information at all) -> Wait, we want to allow them if showLowLevel is true
         // But for explicit filters:
         const meetsFilters = selectedFilters.every(f => res.attributes[f] === 'yes');
@@ -244,7 +251,12 @@ function renderList() {
 
     if (primaryData.length === 0 && secondaryData.length === 0) {
         renderEmptyState();
-        resultsCount.textContent = '找到 0 間餐廳';
+        resultsCount.innerHTML = `
+            <div style="background: var(--card-bg); padding: 1rem; border-radius: 1rem; box-shadow: 0 1px 2px rgba(0,0,0,0.05); margin-bottom: 0.5rem; font-weight: 600; line-height: 1.6;">
+                <div style="display: flex; align-items: center;"><div style="display:flex; align-items:center; margin-right:0.5rem;"><span style="display:inline-block; width:10px; height:10px; background:#4FB3AA; border-radius:50%; border: 1.5px solid var(--card-bg); z-index: 2;"></span><span style="display:inline-block; width:10px; height:10px; background:#FFB347; border-radius:50%; margin-left:-4px; border: 1.5px solid var(--card-bg); z-index: 1;"></span></div>適合帶小孩：0 間</div>
+                <div><span style="display:inline-block; width:10px; height:10px; background:#CBD5E1; border-radius:50%; margin-right:0.5rem;"></span>其他選項：0 間</div>
+            </div>
+        `;
         moreOptionsContainer.style.display = 'none';
         renderMap([]);
         return;
@@ -256,7 +268,12 @@ function renderList() {
         fallbackTriggered = true;
     }
 
-    resultsCount.textContent = `找到 ${eligibleData.length} 間餐廳`;
+    resultsCount.innerHTML = `
+        <div style="background: var(--card-bg); padding: 1rem; border-radius: 1rem; box-shadow: 0 1px 2px rgba(0,0,0,0.05); margin-bottom: 0.5rem; font-weight: 600; line-height: 1.6;">
+            <div style="display: flex; align-items: center;"><div style="display:flex; align-items:center; margin-right:0.5rem;"><span style="display:inline-block; width:10px; height:10px; background:#4FB3AA; border-radius:50%; border: 1.5px solid var(--card-bg); z-index: 2;"></span><span style="display:inline-block; width:10px; height:10px; background:#FFB347; border-radius:50%; margin-left:-4px; border: 1.5px solid var(--card-bg); z-index: 1;"></span></div>適合帶小孩：${primaryData.length} 間</div>
+            <div><span style="display:inline-block; width:10px; height:10px; background:#CBD5E1; border-radius:50%; margin-right:0.5rem;"></span>其他選項：${secondaryData.length} 間</div>
+        </div>
+    `;
 
     // Render Primary Data
     if (primaryData.length > 0) {
@@ -285,13 +302,17 @@ function renderList() {
         if (secondaryData.length > 0) {
             moreOptionsContainer.style.display = 'block';
             if (fallbackTriggered) {
-                btnShowLow.textContent = '附近選擇較少，顯示更多可能適合的餐廳';
+                btnShowLow.innerHTML = `<div style="font-size: 0.85rem; margin-bottom: 0.5rem; color: var(--text-muted); font-weight: 500;">附近選擇較少，還有 ${secondaryData.length} 間餐廳可參考（資訊較少）</div><div style="font-size: 1rem; font-weight: 700;">顯示全部餐廳</div>`;
                 btnShowLow.style.borderColor = 'var(--primary)';
                 btnShowLow.style.color = 'var(--primary)';
+                btnShowLow.style.padding = '0.75rem';
+                btnShowLow.style.flexDirection = 'column';
             } else {
-                btnShowLow.textContent = '顯示更多資訊較少的選項';
+                btnShowLow.innerHTML = `<div style="font-size: 0.85rem; margin-bottom: 0.5rem; color: var(--text-muted); font-weight: 500;">還有 ${secondaryData.length} 間餐廳可參考（資訊較少）</div><div style="font-size: 1rem; font-weight: 700;">顯示全部餐廳</div>`;
                 btnShowLow.style.borderColor = '#CBD5E1';
                 btnShowLow.style.color = 'var(--text-muted)';
+                btnShowLow.style.padding = '0.75rem';
+                btnShowLow.style.flexDirection = 'column';
             }
         } else {
             moreOptionsContainer.style.display = 'none';
@@ -339,7 +360,14 @@ function renderCard(res) {
 
     const level = res.parent_friendly_level || '資訊不足';
     const levelClass = level === '高' ? 'level-high' : (level === '中' ? 'level-mid' : 'level-low');
-    const reasonText = res.reason || '目前缺乏明確的親子友善資訊';
+    
+    let positiveAttributes = [];
+    Object.keys(res.attributes || {}).forEach(attr => {
+        if (res.attributes[attr] === 'yes' && attributeLabels[attr]) {
+            positiveAttributes.push(attributeLabels[attr]);
+        }
+    });
+    const reasonText = positiveAttributes.length > 0 ? positiveAttributes.join('、') : '目前缺乏明確的親子友善資訊';
 
     card.innerHTML = `
         <div style="display: flex; justify-content: space-between; align-items: flex-start;">
@@ -402,9 +430,24 @@ function updateLocationText() {
     }
 }
 
+function clearUserLocation() {
+    state.userLocation = null;
+    if (state.userMarker && state.map) {
+        state.map.removeLayer(state.userMarker);
+        state.userMarker = null;
+    }
+    if (btnNearby) {
+        btnNearby.innerHTML = '<span style="font-size: 1.25rem;">📍</span> 看我附近的餐廳';
+        btnNearby.style.backgroundColor = '';
+        btnNearby.style.color = '';
+        btnNearby.disabled = false;
+    }
+}
+
 window.clearFilters = () => {
     state.filters.clear();
     state.locations.clear();
+    clearUserLocation();
     updateModalUI();
     updateLocationText();
     document.querySelectorAll('.filter-chip, .quick-chip').forEach(c => c.classList.remove('active'));
@@ -416,18 +459,19 @@ function showDetail(restaurant) {
     state.selectedRestaurant = restaurant;
 
     let tagsHtml = '';
-    Object.keys(restaurant.attributes).forEach(attr => {
-        if (restaurant.attributes[attr] === 'yes') {
+    Object.keys(restaurant.attributes || {}).forEach(attr => {
+        if (restaurant.attributes[attr] === 'yes' && attributeLabels[attr]) {
             tagsHtml += `<span class="tag" style="font-size: 0.9rem; padding: 0.4rem 0.8rem;"><span>${attributeIcons[attr]}</span> ${attributeLabels[attr]}</span>`;
         }
     });
 
     let signalsHtml = '';
-    if (restaurant.signals && restaurant.signals.length > 0) {
+    let signals = Array.isArray(restaurant.signals) ? restaurant.signals : (typeof restaurant.signals === 'string' ? [restaurant.signals] : []);
+    if (signals.length > 0) {
         signalsHtml = `
             <div style="font-weight: 700; margin-top: 1.5rem; margin-bottom: 0.75rem; color: var(--text-muted);">評論線索（來自最多5則評論）</div>
             <ul style="list-style: none; padding-left: 0; margin-bottom: 1.5rem;">
-                ${restaurant.signals.map(s => `<li style="font-size: 0.9rem; color: var(--text-main); margin-bottom: 0.4rem; display: flex; align-items: center; gap: 0.5rem;">● ${s}</li>`).join('')}
+                ${signals.map(s => `<li style="font-size: 0.9rem; color: var(--text-main); margin-bottom: 0.4rem; display: flex; align-items: center; gap: 0.5rem;">● ${s}</li>`).join('')}
             </ul>
         `;
     }
@@ -442,8 +486,7 @@ function showDetail(restaurant) {
         
         <div style="font-weight: 700; margin-bottom: 1rem; color: var(--text-muted);">親子友善評價</div>
         <div class="decision-reason" style="margin-bottom: 1.5rem; font-size: 1.1rem;">
-            <span class="level-badge ${levelClass}">${level}</span>
-            <span class="reason-text">${restaurant.reason || '目前缺乏明確的親子友善資訊'}</span>
+            <span class="level-badge ${levelClass}" style="font-size: 0.9rem; padding: 0.4rem 0.8rem;">${level}</span>
         </div>
         
         <div style="font-weight: 700; margin-bottom: 1rem; color: var(--text-muted);">符合項目</div>
@@ -637,7 +680,7 @@ function renderMap(restaurants) {
 
     // Auto-fit bounds if we have markers
     if (markersToFit.length > 0) {
-        state.map.fitBounds(markersToFit, { padding: [30, 30], maxZoom: 15 });
+        state.map.fitBounds(markersToFit, { padding: [30, 30], maxZoom: 16 });
     }
 }
 
