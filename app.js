@@ -7,6 +7,7 @@ const state = {
     map: null,
     markers: [],
     userMarker: null,
+    userCircle: null,
     userLocation: null, // {lat, lng}
     showLowLevel: false,
     lastFilteredResults: []
@@ -657,6 +658,11 @@ function renderMap(restaurants) {
     // Clear existing markers
     state.markers.forEach(m => state.map.removeLayer(m));
     state.markers = [];
+    
+    if (state.userCircle) {
+        state.map.removeLayer(state.userCircle);
+        state.userCircle = null;
+    }
 
     const markersToFit = [];
 
@@ -676,10 +682,19 @@ function renderMap(restaurants) {
 
     if (state.userLocation) {
         markersToFit.push([state.userLocation.lat, state.userLocation.lng]);
+        state.userCircle = L.circle([state.userLocation.lat, state.userLocation.lng], {
+            radius: 3000,
+            color: '#4285F4',
+            fillColor: '#4285F4',
+            fillOpacity: 0.1,
+            weight: 1
+        }).addTo(state.map);
     }
 
-    // Auto-fit bounds if we have markers
-    if (markersToFit.length > 0) {
+    // Auto-fit bounds
+    if (state.userLocation && state.userCircle) {
+        state.map.fitBounds(state.userCircle.getBounds(), { padding: [10, 10] });
+    } else if (markersToFit.length > 0) {
         state.map.fitBounds(markersToFit, { padding: [30, 30], maxZoom: 16 });
     }
 }
@@ -745,6 +760,8 @@ function handleGeolocation() {
 
             state.userMarker = L.marker([lat, lng], { icon: userIcon, zIndexOffset: 1000 }).addTo(state.map);
             state.userMarker.bindPopup("你的位置");
+            
+            state.showLowLevel = true; // Show all restaurants within 3km immediately
             
             btnNearby.innerHTML = '<span style="font-size: 1.25rem;">📍</span> 已套用附近餐廳';
             btnNearby.style.backgroundColor = '#E2E8F0';
