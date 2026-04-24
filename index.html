@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
     <title>小手找食 - 台北親子友善餐廳搜尋</title>
     <meta property="og:title" content="小手找食 - 台北親子友善餐廳搜尋">
-    <meta property="og:description" content="今天帶小孩吃什麼？看看你附近適合帶小孩的餐廳">
+    <meta property="og:description" content="帶小孩吃什麼？看看你附近適合帶小孩的餐廳">
     <meta property="og:type" content="website">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -20,7 +20,7 @@
 <body>
     <div id="home-view" class="view active">
         <header>
-            <h1 style="font-size: 1.75rem;">今天帶小孩吃什麼？</h1>
+            <h1 style="font-size: 1.75rem;">帶小孩吃什麼？</h1>
             <p class="subtitle" style="margin-bottom: 1.5rem;">看看你附近適合帶小孩的餐廳</p>
             
             <button id="btn-nearby" class="btn btn-primary" style="width: 100%; margin-bottom: 0.75rem; font-size: 1rem; padding: 1.125rem; background: #fff; color: var(--primary); box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
@@ -38,10 +38,10 @@
         <div class="quick-filters-container">
             <div class="quick-filters-label">快速找 👇</div>
             <div class="quick-filters-scroll">
-                <button class="quick-chip" data-filter="high_chair_available">👶 兒童椅</button>
-                <button class="quick-chip" data-filter="spacious_seating">🪑 空間寬敞</button>
-                <button class="quick-chip" data-filter="kid_noise_tolerant">🧸 不怕吵</button>
-                <button class="quick-chip" data-filter="kids_menu">🍱 兒童餐</button>
+                <button class="quick-chip" data-filter="high_chair_available">🪑 兒童椅</button>
+                <button class="quick-chip" data-filter="spacious_seating">🛋️ 空間寬敞</button>
+                <button class="quick-chip" data-filter="kid_noise_tolerant">🥳 不怕吵</button>
+                <button class="quick-chip" data-filter="kids_menu">🥘 兒童餐</button>
             </div>
         </div>
 
@@ -73,22 +73,33 @@
                     </div>
                     <div class="filter-chip" data-filter="spacious_seating">
                         <span class="filter-icon">🛋️</span>
-                        <span>寬敞座位</span>
+                        <span>空間寬敞</span>
                     </div>
                     <div class="filter-chip" data-filter="kid_noise_tolerant">
                         <span class="filter-icon">🥳</span>
                         <span>不怕小孩吵</span>
                     </div>
                 </div>
-                <button id="share-results" class="btn btn-outline"
-                    style="margin-top: 1rem; width: 100%; border-color: var(--secondary); color: var(--secondary);">
-                    <span>🔗</span> 分享目前搜尋結果
-                </button>
             </div>
         </section>
 
         <!-- Map Container (Mini Map) -->
         <div id="map-container" class="results-container" style="padding-top: 1rem; padding-bottom: 0; height: auto; min-height: unset;">
+            <div style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0.75rem; text-align: center; font-weight: 600;">目前顯示較適合帶小孩的餐廳</div>
+            <div class="map-legend" style="display: flex; justify-content: center; gap: 1rem; margin-bottom: 0.75rem; font-size: 0.85rem; color: var(--text-main); font-weight: 600;">
+                <div style="display: flex; align-items: center; gap: 0.3rem;">
+                    <div style="background-color: #4FB3AA; width: 12px; height: 12px; border-radius: 50%; border: 2px solid white; box-shadow: 0 1px 2px rgba(0,0,0,0.3);"></div>
+                    <span>適合帶小孩</span>
+                </div>
+                <div style="display: flex; align-items: center; gap: 0.3rem;">
+                    <div style="background-color: #FFB347; width: 12px; height: 12px; border-radius: 50%; border: 2px solid white; box-shadow: 0 1px 2px rgba(0,0,0,0.3);"></div>
+                    <span>可能適合</span>
+                </div>
+                <div style="display: flex; align-items: center; gap: 0.3rem;">
+                    <div style="background-color: #CBD5E1; width: 12px; height: 12px; border-radius: 50%; border: 2px solid white; box-shadow: 0 1px 2px rgba(0,0,0,0.3);"></div>
+                    <span>資訊較少</span>
+                </div>
+            </div>
             <div id="map" style="height: 250px; min-height: 250px;"></div>
         </div>
 
