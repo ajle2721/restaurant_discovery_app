@@ -37,14 +37,10 @@ const detailContent = document.getElementById('detail-content');
 const backHomeBtn = document.getElementById('back-home');
 const floatShareBtn = document.getElementById('float-share');
 const detailShareBtn = document.getElementById('share-detail');
-const shareResultsBtn = document.getElementById('share-results');
 const toast = document.getElementById('toast');
 const locationText = document.getElementById('location-text');
 const resultsCount = document.getElementById('results-count');
 const btnNearby = document.getElementById('btn-nearby');
-const btnShowLow = document.getElementById('btn-show-low');
-const btnHideLow = document.getElementById('btn-hide-low');
-const moreOptionsContainer = document.getElementById('more-options-container');
 
 // Modal Elements
 const openLocationModalBtn = document.getElementById('open-location-modal');
@@ -96,25 +92,6 @@ function setupEventListeners() {
         });
     }
     
-    // Show Low Button
-    if (btnShowLow) {
-        btnShowLow.addEventListener('click', () => {
-            state.showLowLevel = true;
-            renderList();
-        });
-    }
-
-    // Hide Low Button
-    if (btnHideLow) {
-        btnHideLow.addEventListener('click', () => {
-            state.showLowLevel = false;
-            renderList();
-            if (resultsCount) {
-                resultsCount.scrollIntoView({ behavior: 'smooth', block: 'center' });
-            }
-        });
-    }
-
     // Location Modal Events
     if (openLocationModalBtn) {
         openLocationModalBtn.addEventListener('click', () => {
@@ -181,7 +158,6 @@ function setupEventListeners() {
 
     // Sharing
     floatShareBtn.addEventListener('click', shareCurrentFilters);
-    if (shareResultsBtn) shareResultsBtn.addEventListener('click', shareCurrentFilters);
     detailShareBtn.addEventListener('click', () => {
         if (state.selectedRestaurant) {
             shareRestaurant(state.selectedRestaurant);

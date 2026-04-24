@@ -30,8 +30,9 @@
 - **前端**：Vanilla HTML / CSS / JavaScript (ES6+)。
 - **樣式設計**：採用現代化的 Glassmorphism 效果與流暢的 CSS 動畫。
 - **數據管線**：
-  - `fetch_details.py`: 使用 Google Places API (New) 抓取餐廳詳細資料與評論。
-  - `generate_summaries.py`: Python 數據處理腳本，根據抓取的評論 JSON 生成 `data.js` 靜態數據。
+  - `fetch_details.py`: 使用 Google Places API (New) 抓取餐廳詳細資料與評論，輸出到 `response/`。
+  - `ai_review/*.json`: 每家餐廳的親子友善分析結果來源。
+  - `build-ai-review-index.mjs`: 將 `response/` 與 `ai_review/` 組合成前端使用的 `ai_review/index.js`。
 - **部署**：透過 GitHub Actions 自動部署至 GitHub Pages。
 
 ---
@@ -44,8 +45,12 @@
    cd restaurant_discovery_app
    ```
 
-2. **開啟網頁**：
-   直接使用瀏覽器開啟 `index.html` 即可預覽。
+2. **啟動本地站台**：
+   ```bash
+   nix develop
+   just build
+   just serve
+   ```
 
 3. **重新生成數據 (可選)**：
    若需更新餐廳資料，需安裝 Python 環境與相關套件：
@@ -53,7 +58,7 @@
    pip install -r requirements.txt
    # 需於 .env.txt 設定 GOOGLE_MAP_KEY
    python fetch_details.py
-   python generate_summaries.py
+   just build
    ```
 
 ---
