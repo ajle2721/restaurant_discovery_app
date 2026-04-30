@@ -1,0 +1,175 @@
+﻿$responseDir = "response"
+$outputDir = "ai_review"
+if (-not (Test-Path $outputDir)) {
+    New-Item -ItemType Directory -Path $outputDir | Out-Null
+}
+
+$patterns = @{
+    "high_chair_available" = @{
+        "Yes" = @("有.*(兒童椅|嬰兒椅|餐椅|小椅子|高腳椅)", "提供.*(兒童椅|嬰兒椅|餐椅|小椅子)", "備有.*(兒童椅|嬰兒椅|餐椅)")
+        "No"  = @("沒有.*(兒童椅|嬰兒椅|餐椅)", "沒.*(兒童椅|嬰兒椅|餐椅)", "無.*(兒童椅|嬰兒椅|餐椅)", "不提供.*(兒童椅|嬰兒椅|餐椅)")
+    }
+    "spacious_seating" = @{
+        "Yes" = @("空間(很)?(大|寬敞)", "寬敞", "推車(很)?方便", "好推車", "可以推車", "適合推車", "放得下推車", "空間很夠")
+        "No"  = @("空間(狹)?小", "小小(的)?店", "座位(間)?(很|太|較)?(擠|近|小)", "位置(很|太|較)?(擠|近|小)", "位子(很|太|較)?(擠|近|小)", "不適合推車", "推車進不去", "沒地方放推車", "偏擁擠", "較擁擠", "狹窄")
+    }
+    "kids_menu" = @{
+        "Yes" = @("兒童餐", "寶寶粥", "小朋友餐", "寶寶餐")
+        "No"  = @("沒有兒童餐", "沒兒童餐", "無兒童餐", "沒有寶寶粥", "不提供兒童餐")
+    }
+    "kid_noise_tolerant" = @{
+        "Yes" = @("適合帶小孩", "親子友善", "兒童友善", "歡迎小孩", "適合親子", "對小孩友善", "對孩子友善", "小朋友友善", "非常適合(帶)?小朋友")
+        "No"  = @("很安靜", "氣氛店", "謝絕小孩", "不接待(小孩|小朋友)", "不適合(帶)?(小孩|嬰兒|小朋友)", "拒絕小孩", "怕吵", "滿安靜")
+    }
+}
+
+function Split-IntoSentences($text) {
+    if (-not $text) { return @() }
+    $parts = $text -split '[。！\!\？\?，,；;\n]'
+    $results = @()
+    foreach ($p in $parts) {
+        $trimmed = $p.Trim()
+        if ($trimmed) { $results += $trimmed }
+    }
+    return $results
+}
+
+$files = Get-ChildItem -Path $responseDir -Filter "*.json"
+Write-Host "Re-evaluating $($files.Count) response files with strict logic..."
+
+$count = 0
+
+foreach ($file in $files) {
+    try {
+        $jsonContent = [System.IO.File]::ReadAllText($file.FullName, [System.Text.Encoding]::UTF8)
+        $data = $jsonContent | ConvertFrom-Json
+        
+        $reviews = $data.reviews
+        $allSentences = @()
+        
+        if ($reviews) {
+            foreach ($r in $reviews) {
+                $text = ""
+                if ($null -ne $r.originalText -and $null -ne $r.originalText.text) {
+                    $text = $r.originalText.text
+                } elseif ($null -ne $r.text -and $null -ne $r.text.text) {
+                    $text = $r.text.text
+                }
+                
+                if ($text) {
+                    $allSentences += Split-IntoSentences $text
+                }
+            }
+        }
+        
+        $analysis = @{}
+        $allSignals = @()
+        
+        foreach ($tag in $patterns.Keys) {
+            $yesSentences = @()
+            $noSentences = @()
+            
+            foreach ($s in $allSentences) {
+                foreach ($pat in $patterns[$tag]["Yes"]) {
+                    if ($s -match $pat) {
+                        $yesSentences += $s
+                        break
+                    }
+                }
+                foreach ($pat in $patterns[$tag]["No"]) {
+                    if ($s -match $pat) {
+                        $noSentences += $s
+                        break
+                    }
+                }
+            }
+            
+            $result = "Unknown"
+            if ($yesSentences.Count -gt 0 -and $noSentences.Count -eq 0) {
+                $result = "Yes"
+            } elseif ($noSentences.Count -gt 0 -and $yesSentences.Count -eq 0) {
+                $result = "No"
+            } elseif ($yesSentences.Count -gt 0 -and $noSentences.Count -gt 0) {
+                $result = "No"
+            }
+            
+            $evidence = @()
+            if ($yesSentences.Count -gt 0) { $evidence += $yesSentences }
+            if ($noSentences.Count -gt 0) { $evidence += $noSentences }
+            
+            $evidence = $evidence | Select-Object -Unique
+            if ($evidence) { $allSignals += $evidence }
+            
+            $conf = 0.4
+            if ($result -ne "Unknown") { $conf = 0.9 }
+            
+            $analysis[$tag] = @{
+                "result" = $result
+                "evidence" = if ($evidence.Count -gt 0) { $evidence[0] } else { $null }
+                "confidence" = $conf
+            }
+        }
+        
+        $allSignals = $allSignals | Select-Object -Unique
+        
+        $positives = @()
+        $negatives = @()
+        
+        if ($analysis["high_chair_available"]["result"] -eq "Yes") { $positives += "提供兒童椅" }
+        elseif ($analysis["high_chair_available"]["result"] -eq "No") { $negatives += "未提供兒童椅" }
+        
+        if ($analysis["spacious_seating"]["result"] -eq "Yes") { $positives += "空間寬敞" }
+        elseif ($analysis["spacious_seating"]["result"] -eq "No") { $negatives += "座位較擁擠/空間偏小" }
+        
+        if ($analysis["kids_menu"]["result"] -eq "Yes") { $positives += "有兒童餐點" }
+        
+        if ($analysis["kid_noise_tolerant"]["result"] -eq "Yes") { $positives += "對親子家庭友善" }
+        elseif ($analysis["kid_noise_tolerant"]["result"] -eq "No") { $negatives += "氣氛安靜/不適合帶小孩" }
+        
+        $summary = ""
+        if ($positives.Count -eq 0 -and $negatives.Count -eq 0) {
+            $summary = "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。"
+        } else {
+            $parts = @()
+            if ($positives.Count -gt 0) { $parts += "評論指出這家餐廳" + ($positives -join "、") }
+            if ($negatives.Count -gt 0) { $parts += "但需留意" + ($negatives -join "、") }
+            $summary = ($parts -join "，") + "。"
+        }
+        
+        $score = 0
+        if ($analysis["high_chair_available"]["result"] -eq "Yes") { $score += 2 }
+        if ($analysis["spacious_seating"]["result"] -eq "Yes") { $score += 1 }
+        if ($analysis["kids_menu"]["result"] -eq "Yes") { $score += 1 }
+        if ($analysis["kid_noise_tolerant"]["result"] -eq "Yes") { $score += 1 }
+        
+        if ($analysis["high_chair_available"]["result"] -eq "No" -or $analysis["spacious_seating"]["result"] -eq "No" -or $analysis["kid_noise_tolerant"]["result"] -eq "No") {
+            $score -= 2
+        }
+        
+        $level = "資訊不足"
+        if ($score -ge 3) { $level = "高" }
+        elseif ($score -gt 0) { $level = "中" }
+        
+        $finalOutput = [ordered]@{
+            " child_seat available" = $analysis["high_chair_available"]
+            "Spacious seating" = $analysis["spacious_seating"]
+            "Kids menu available" = $analysis["kids_menu"]
+            "kid_noise_tolerant" = $analysis["kid_noise_tolerant"]
+            "parent_friendly_score" = $score
+            "parent_friendly_level" = $level
+            "reason" = "綜合評估"
+            "generated_signals" = $allSignals
+            "generated_summary" = $summary
+        }
+        
+        $outPath = Join-Path $outputDir $file.Name
+        $jsonOut = $finalOutput | ConvertTo-Json -Depth 10 -Compress
+        [System.IO.File]::WriteAllText($outPath, $jsonOut, [System.Text.Encoding]::UTF8)
+        $count++
+        
+    } catch {
+        Write-Host "Error processing $($file.Name): $_"
+    }
+}
+
+Write-Host "Successfully re-evaluated $count AI analysis files."
