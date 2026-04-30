@@ -556,8 +556,8 @@ function showDetail(restaurant) {
         `;
     }
 
-    const level = restaurant.parent_friendly_level || '資訊不足';
-    const isRecommended = (level === '高' || level === '中');
+    const level = restaurant.parent_friendly_level || 'Insufficient Info';
+    const isRecommended = (level === 'High' || level === 'Medium' || level === '高' || level === '中');
     
     let warningsHtml = '';
     Object.keys(restaurant.attributes || {}).forEach(attr => {
@@ -584,9 +584,9 @@ function showDetail(restaurant) {
                 if (!label) return '';
                 let color = '#15803d';
                 let bg = '#f0fdf4';
-                if (level === 'Medium') { color = '#16a34a'; bg = '#f0fdf4'; }
-                if (level === 'Needs Attention') { color = '#ef4444'; bg = '#fef2f2'; }
-                if (level === 'Insufficient Info') { color = '#64748b'; bg = '#f8fafc'; }
+                if (level === 'Medium' || level === '中') { color = '#16a34a'; bg = '#f0fdf4'; }
+                if (level === 'Needs Attention' || level === '需留意') { color = '#ef4444'; bg = '#fef2f2'; }
+                if (level === 'Insufficient Info' || level === '資訊不足') { color = '#64748b'; bg = '#f8fafc'; }
                 return `<span style="padding: 0.4rem 0.8rem; border-radius: 0.5rem; font-weight: 800; font-size: 0.9rem; background: ${bg}; color: ${color};">${label}</span>`;
             })()}
         </div>
