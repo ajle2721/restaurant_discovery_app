@@ -355,7 +355,7 @@ function renderCard(res, container) {
     card.className = 'restaurant-card';
     card.id = `card-${res.place_id}`;
 
-    const isNeedsAttention = res.parent_friendly_level === '需留意';
+    const isNeedsAttention = res.parent_friendly_level === 'Needs Attention';
 
     let distHtml = '';
     if (res.distance && res.distance !== Infinity) {
@@ -571,9 +571,9 @@ function showDetail(restaurant) {
                 if (!label) return '';
                 let color = '#15803d';
                 let bg = '#f0fdf4';
-                if (level === '中') { color = '#16a34a'; bg = '#f0fdf4'; }
-                if (level === '需留意') { color = '#ef4444'; bg = '#fef2f2'; }
-                if (level === '資訊不足') { color = '#64748b'; bg = '#f8fafc'; }
+                if (level === 'Medium') { color = '#16a34a'; bg = '#f0fdf4'; }
+                if (level === 'Needs Attention') { color = '#ef4444'; bg = '#fef2f2'; }
+                if (level === 'Insufficient Info') { color = '#64748b'; bg = '#f8fafc'; }
                 return `<span style="padding: 0.4rem 0.8rem; border-radius: 0.5rem; font-weight: 800; font-size: 0.9rem; background: ${bg}; color: ${color};">${label}</span>`;
             })()}
         </div>
