@@ -22,7 +22,12 @@ const taipeiDistricts = [
 ];
 
 function readJson(filePath) {
-  return JSON.parse(fs.readFileSync(filePath, "utf8"));
+  try {
+    return JSON.parse(fs.readFileSync(filePath, "utf8"));
+  } catch (err) {
+    console.error(`Error parsing ${filePath}:`, err.message);
+    return {};
+  }
 }
 
 function normalizeResult(result) {
