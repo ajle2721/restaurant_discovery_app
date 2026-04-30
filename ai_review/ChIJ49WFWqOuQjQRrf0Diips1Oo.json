@@ -1,27 +1,31 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
-    "generated_signals": [],
-    "generated_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "No",
+                             "evidence":  "需要注意的是店內沒有設置無障礙空間，對於行動不便者或推嬰兒車的客人可能會稍微不方便。",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Unknown",
+                               "evidence":  null,
+                               "confidence":  0.4
+                           },
+    "parent_friendly_score":  -1,
+    "parent_friendly_level":  "Needs Attention",
+    "reason":  "AI語意綜合評估",
+    "generated_signals":  [
+                              "需要注意的是店內沒有設置無障礙空間，對於行動不便者或推嬰兒車的客人可能會稍微不方便。",
+                              "座位間距適中，但整體氛圍比較平淡。"
+                          ],
+    "generated_summary":  "店內主要用餐區位於二樓且無障礙設施較不足，對於攜帶嬰兒車的家長較不方便；目前評論中未提及兒童椅或兒童餐等具體資訊。",
+    "card_summary":  "該餐廳空間較擁擠，帶小孩前往需多加留意。"
 }

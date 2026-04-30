@@ -1,30 +1,32 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "最令人滿意的是空間寬敞",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "Yes",
-        "evidence": "有沙拉、義大利麵、燉飯、排餐、兒童餐",
-        "confidence": 0.9
-    },
-    "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "最令人滿意的是空間寬敞",
-        "有沙拉、義大利麵、燉飯、排餐、兒童餐"
-    ],
-    "generated_summary": "評論指出這家餐廳空間寬敞、有兒童餐點。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "最令人滿意的是空間寬敞，早餐時間客人不多，宜人的用餐空間。",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "Yes",
+                                "evidence":  "有沙拉、義大利麵、燉飯、排餐、兒童餐",
+                                "confidence":  0.9
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "在士林想找一間能好好坐下來吃早午餐、慢慢聊天的地方，這裡會是安心的選擇。",
+                               "confidence":  0.9
+                           },
+    "parent_friendly_score":  3,
+    "parent_friendly_level":  "High",
+    "reason":  "AI語意綜合評估",
+    "generated_signals":  [
+                              "最令人滿意的是空間寬敞，早餐時間客人不多，宜人的用餐空間。",
+                              "有沙拉、義大利麵、燉飯、排餐、兒童餐",
+                              "在士林想找一間能好好坐下來吃早午餐、慢慢聊天的地方，這裡會是安心的選擇。"
+                          ],
+    "generated_summary":  "這間餐廳空間寬敞舒適，提供兒童餐，並且適合帶小孩前來用餐。",
+    "card_summary":  "空間寬敞舒適，提供兒童餐，並且適合帶小孩前來用餐。"
 }

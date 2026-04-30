@@ -1,29 +1,31 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "適合家庭聚餐或帶長輩來吃",
-        "confidence": 0.9
-    },
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "適合家庭聚餐或帶長輩來吃"
-    ],
-    "generated_summary": "評論指出這家餐廳對親子家庭友善。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "分量適中，價格以現在來說算合理，適合家庭聚餐或帶長輩來吃，大家都能找到喜歡的菜色。",
+                               "confidence":  0.9
+                           },
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "Medium",
+    "reason":  "AI語意綜合評估",
+    "generated_signals":  [
+                              "分量適中，價格以現在來說算合理，適合家庭聚餐或帶長輩來吃，大家都能找到喜歡的菜色。",
+                              "疫情時吃過一次，念念不忘，今天走仙跡岩親子步道前，先來回味，味道一樣讚，。"
+                          ],
+    "generated_summary":  "這是一家適合家庭聚餐的傳統老店，口味深受長輩與家庭客喜愛，但目前評論中較少提及兒童椅或兒童餐等具體設施。",
+    "card_summary":  "這是一家適合家庭聚餐的傳統老店。"
 }

@@ -1,30 +1,34 @@
-{
-    " child_seat available": {
-        "result": "Yes",
-        "evidence": "幫我們準備嬰兒座椅及兒童碗盤",
-        "confidence": 1
-    },
-    "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "整體氣氛很熱鬧",
-        "confidence": 0.9
-    },
-    "parent_friendly_score": 3,
-    "parent_friendly_level": "高",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "整體氣氛很熱鬧",
-        "這間四川麻辣＋螺螄粉鴛鴦鍋真的超讚👍完全適合聚餐或慶生"
-    ],
-    "generated_summary": "評論指出這家餐廳提供兒童椅、對親子家庭友善。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Yes",
+                                  "evidence":  "沒想到店員非常友善！幫我們準備嬰兒座椅及兒童碗盤",
+                                  "confidence":  0.9
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "整體氣氛很熱鬧，服務也不錯，生日聚餐來這裡真的超適合，吃得開心又有活動感，湯頭、食材和活動都讓人印象深刻，下次還想再帶朋友來慶祝！",
+                               "confidence":  0.9
+                           },
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "High",
+    "reason":  "AI語意綜合評估",
+    "generated_signals":  [
+                              "沒想到店員非常友善！幫我們準備嬰兒座椅及兒童碗盤",
+                              "整體氣氛很熱鬧",
+                              "銷魂飯是嫩牛片配上微辣的飯，辛香味很夠，加上半生熟蛋的加持，大人小孩也停不下來。",
+                              "孩子很喜歡吃魚，我們點了招牌福氣魚 ，沒有想過肉質這麼細嫩～",
+                              "孩子點了紅茶奶蓋，順口不膩"
+                          ],
+    "generated_summary":  "店家提供嬰兒座椅，且氣氛熱鬧適合親子用餐，餐點中也有適合兒童的選項。",
+    "card_summary":  "店家提供嬰兒座椅，且氣氛熱鬧適合親子用餐，餐點中也有適合兒童的選項。"
 }

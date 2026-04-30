@@ -1,30 +1,30 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "空間寬敞明亮整潔",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "No",
-        "evidence": "店內氛圍安靜、有條理",
-        "confidence": 0.9
-    },
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "空間寬敞明亮整潔",
-        "店內氛圍安靜、有條理"
-    ],
-    "generated_summary": "評論指出這家餐廳空間寬敞，但需留意氣氛安靜/不適合帶小孩。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "位於 南港LaLaport 5樓，空間寬敞明亮整潔，座位舒適平板點餐流程順暢直觀。",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Unknown",
+                               "evidence":  null,
+                               "confidence":  0.4
+                           },
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "Medium",
+    "reason":  "AI語意綜合評估",
+    "generated_signals":  [
+                              "位於 南港LaLaport 5樓，空間寬敞明亮整潔，座位舒適平板點餐流程順暢直觀。"
+                          ],
+    "generated_summary":  "該餐廳環境寬敞舒適，但目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary":  "環境舒適，是可以考慮的親子聚餐地點。"
 }

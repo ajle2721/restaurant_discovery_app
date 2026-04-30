@@ -1,30 +1,31 @@
-{
-    " child_seat available": {
-        "result": "No",
-        "evidence": "沒有提供兒童座椅",
-        "confidence": 1
-    },
-    "Spacious seating": {
-        "result": "No",
-        "evidence": "小小的店",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "小小的店",
-        "就是座位間很近"
-    ],
-    "generated_summary": "但需留意未提供兒童椅、座位較擁擠/空間偏小。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "No",
+                                  "evidence":  "沒有提供兒童座椅💺，有嬰幼兒的話，建議先打電話詢問店家。",
+                                  "confidence":  0.9
+                              },
+    "Spacious seating":  {
+                             "result":  "No",
+                             "evidence":  "小小的店，氣氛很好。就是座位間很近。",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Unknown",
+                               "evidence":  null,
+                               "confidence":  0.4
+                           },
+    "parent_friendly_score":  -2,
+    "parent_friendly_level":  "Needs Attention",
+    "reason":  "AI語意綜合評估",
+    "generated_signals":  [
+                              "小小的店，氣氛很好。就是座位間很近。",
+                              "沒有提供兒童座椅💺，有嬰幼兒的話，建議先打電話詢問店家。"
+                          ],
+    "generated_summary":  "該店空間較為狹小且座位間距近，且明確表示未提供兒童座椅，建議攜帶嬰幼兒的家長先行致電確認。",
+    "card_summary":  "該餐廳未提供兒童椅且空間較擁擠，帶小孩前往需多加留意。"
 }

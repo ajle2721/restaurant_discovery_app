@@ -1,27 +1,30 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
-    "generated_signals": [],
-    "generated_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "No",
+                             "evidence":  "1～2人用餐需和其他人併桌。",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Unknown",
+                               "evidence":  null,
+                               "confidence":  0.4
+                           },
+    "parent_friendly_score":  -1,
+    "parent_friendly_level":  "Needs Attention",
+    "reason":  "AI語意綜合評估",
+    "generated_signals":  [
+                              "1～2人用餐需和其他人併桌。"
+                          ],
+    "generated_summary":  "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
+    "card_summary":  "該餐廳空間較擁擠，帶小孩前往需多加留意。"
 }

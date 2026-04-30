@@ -1,31 +1,34 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "3樓較寬敞",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "Yes",
-        "evidence": "1.店內雖像親子餐廳卻沒有提供兒童餐具",
-        "confidence": 0.9
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "也滿適合親子的唷",
-        "confidence": 0.9
-    },
-    "parent_friendly_score": 3,
-    "parent_friendly_level": "高",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "3樓較寬敞",
-        "1.店內雖像親子餐廳卻沒有提供兒童餐具",
-        "也滿適合親子的唷"
-    ],
-    "generated_summary": "評論指出這家餐廳空間寬敞、有兒童餐點、對親子家庭友善。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "3樓較寬敞，採光很美，走時尚網美裝潢，鮮明活潑的黃色搭配白黑色系，角落還有網美牆浴缸球池，多款表情便便抱枕滿逗趣",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "也滿適合親子的唷，小孩很愛2樓及3樓的球池區，玩到不想走😆",
+                               "confidence":  0.9
+                           },
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "Medium",
+    "reason":  "AI語意綜合評估",
+    "generated_signals":  [
+                              "也滿適合親子的唷，小孩很愛2樓及3樓的球池區，玩到不想走😆",
+                              "3樓較寬敞，採光很美，走時尚網美裝潢，鮮明活潑的黃色搭配白黑色系，角落還有網美牆浴缸球池，多款表情便便抱枕滿逗趣",
+                              "有一個球池供小朋友玩耍，裡面還有放很多泳圈，餐廳裡的小孩們都玩得很開心捨不得走",
+                              "適合帶小朋友來拍照嚐鮮，食物調理包的感覺很重，嘗鮮的聚會拍照餐廳，2樓有小小的兒童遊戲池。",
+                              "店內雖像親子餐廳卻沒有提供兒童餐具,小朋友只能給個咖啡用湯匙😔"
+                          ],
+    "generated_summary":  "餐廳設有球池供小朋友玩耍，環境對親子友善且空間寬敞，但評論提到未提供兒童餐具，建議家長可自行準備。",
+    "card_summary":  "餐廳設有球池供小朋友玩耍。"
 }

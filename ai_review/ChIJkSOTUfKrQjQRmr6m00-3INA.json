@@ -1,27 +1,30 @@
-{
-    " child_seat available": {
-        "result": "Yes",
-        "evidence": "有兒童專用椅 (需事先預約)",
-        "confidence": 1
-    },
-    "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
-    "generated_signals": [],
-    "generated_summary": "評論指出這家餐廳提供兒童椅。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Yes",
+                                  "evidence":  "東西好吃，價位微高，有兒童專用椅 (需事先預約)",
+                                  "confidence":  0.9
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Unknown",
+                               "evidence":  null,
+                               "confidence":  0.4
+                           },
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "Medium",
+    "reason":  "AI語意綜合評估",
+    "generated_signals":  [
+                              "東西好吃，價位微高，有兒童專用椅 (需事先預約)"
+                          ],
+    "generated_summary":  "該餐廳提供兒童專用椅，但需事先預約，其他親子友善相關資訊較少提及。",
+    "card_summary":  "環境舒適，是可以考慮的親子聚餐地點。"
 }

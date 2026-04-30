@@ -1,30 +1,32 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "座位寬敞",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "算是孕婦兒童友善",
-        "confidence": 0.9
-    },
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "算是孕婦兒童友善",
-        "座位寬敞"
-    ],
-    "generated_summary": "評論指出這家餐廳空間寬敞、對親子家庭友善。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "座位寬敞，桌與桌的間距很大，連娃娃車應該都能輕鬆推過，不用擔心被隔壁客人影響。",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "剛好遇到隔壁桌有失控尖叫的小孩，可能擔心我們會受到影響，主動向我們提出更換座位的安排，以及招待超美味的甜點，美福表現出高水準的處理能力。",
+                               "confidence":  0.9
+                           },
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "Medium",
+    "reason":  "AI語意綜合評估",
+    "generated_signals":  [
+                              "座位寬敞，桌與桌的間距很大，連娃娃車應該都能輕鬆推過，不用擔心被隔壁客人影響。",
+                              "剛好遇到隔壁桌有失控尖叫的小孩",
+                              "算是孕婦兒童友善"
+                          ],
+    "generated_summary":  "餐廳空間寬敞，適合推車進出。對於兒童用餐的突發狀況，服務人員展現高水準的應對能力，整體對親子客群友善。",
+    "card_summary":  "餐廳空間寬敞，適合推車進出，對於兒童用餐的突發狀況，服務人員展現高水準的應對能力。"
 }

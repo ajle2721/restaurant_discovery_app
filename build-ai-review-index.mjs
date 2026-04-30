@@ -81,6 +81,7 @@ function buildRecord(placeId) {
     google_maps_url: googleMapsUrl,
     attributes: getAiAttributes(aiReview),
     ai_summary: aiReview.generated_summary || "",
+    card_summary: aiReview.card_summary || "",
     signals,
     parent_friendly_score: aiReview.parent_friendly_score ?? 0,
     parent_friendly_level: aiReview.parent_friendly_level || "資訊不足",

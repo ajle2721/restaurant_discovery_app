@@ -1,30 +1,31 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "空間很大舒服乾淨整潔",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "No",
-        "evidence": "氣氛很溫馨安靜",
-        "confidence": 0.9
-    },
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "氣氛很溫馨安靜",
-        "空間很大舒服乾淨整潔"
-    ],
-    "generated_summary": "評論指出這家餐廳空間寬敞，但需留意氣氛安靜/不適合帶小孩。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "空間很大舒服乾淨整潔",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "No",
+                               "evidence":  "整體是我很喜歡的木質裝潢，氣氛很溫馨安靜，座位大多有插座，很適合久坐工作。",
+                               "confidence":  0.9
+                           },
+    "parent_friendly_score":  0,
+    "parent_friendly_level":  "Needs Attention",
+    "reason":  "AI語意綜合評估",
+    "generated_signals":  [
+                              "空間很大舒服乾淨整潔",
+                              "整體是我很喜歡的木質裝潢，氣氛很溫馨安靜，座位大多有插座，很適合久坐工作。"
+                          ],
+    "generated_summary":  "店內空間寬敞且乾淨整潔，但環境氣氛較為安靜，適合久坐工作，可能較不適合怕吵鬧的親子客群。",
+    "card_summary":  "空間較寬敞，但環境較安靜，前往時需多加留意。"
 }

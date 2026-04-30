@@ -1,31 +1,34 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Kids menu available": {
-        "result": "Yes",
-        "evidence": "除了兒童餐",
-        "confidence": 0.9
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "親子友善空間 小朋友都很愛 已購買 ^3",
-        "confidence": 0.9
-    },
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "除了兒童餐",
-        "還有寶寶泥跟寶寶粥🥣",
-        "親子友善空間 小朋友都很愛 已購買 ^3"
-    ],
-    "generated_summary": "評論指出這家餐廳有兒童餐點、對親子家庭友善。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "室內空間非常大.而且很舒適",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "Yes",
+                                "evidence":  "除了兒童餐，還有寶寶泥跟寶寶粥🥣",
+                                "confidence":  0.9
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "有孩子們的地方真的好歡樂，光跟朋友的娃玩耍就覺得很療育。",
+                               "confidence":  0.9
+                           },
+    "parent_friendly_score":  3,
+    "parent_friendly_level":  "High",
+    "reason":  "AI語意綜合評估",
+    "generated_signals":  [
+                              "室內空間非常大.而且很舒適",
+                              "除了兒童餐，還有寶寶泥跟寶寶粥🥣",
+                              "有孩子們的地方真的好歡樂，光跟朋友的娃玩耍就覺得很療育。",
+                              "親子友善空間 小朋友都很愛",
+                              "如果喜歡小朋友 不怕孩子們吵的話，用餐體驗滿分囉～"
+                          ],
+    "generated_summary":  "該餐廳空間寬敞舒適，提供兒童餐及寶寶粥，且環境充滿歡樂氣氛，非常適合帶小孩前往慶生或聚餐。",
+    "card_summary":  "空間寬敞舒適，提供兒童餐及寶寶粥，且環境充滿歡樂氣氛，非常適合帶小孩前往慶生或聚餐。"
 }

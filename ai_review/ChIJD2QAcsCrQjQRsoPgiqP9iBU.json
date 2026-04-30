@@ -1,27 +1,34 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
-    "generated_signals": [],
-    "generated_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "往裡面走環境大有天地，還有包廂，讓人彷彿穿越時空，回到了那個京味巷弄濃厚的年代。",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "無論是與家人共享天倫之樂，還是與朋友聚會暢談，這裡都是不錯的選擇。",
+                               "confidence":  0.9
+                           },
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "Medium",
+    "reason":  "AI語意綜合評估",
+    "generated_signals":  [
+                              "往裡面走環境大有天地，還有包廂，讓人彷彿穿越時空，回到了那個京味巷弄濃厚的年代。",
+                              "無論是與家人共享天倫之樂，還是與朋友聚會暢談，這裡都是不錯的選擇。",
+                              "這裡的氛圍讓人感到親切，即使是陌生人也能因為一道菜而打成一片。",
+                              "長輩們也會趁這個機會教導子女，如：夾菜時不可在盤子裡挑三揀四，這不僅是禮貌問題，也是對同桌的用餐人尊重。",
+                              "聚餐的好地方"
+                          ],
+    "generated_summary":  "餐廳內部空間寬敞且設有包廂，氛圍親切熱鬧，非常適合家庭聚餐與帶小孩前往。",
+    "card_summary":  "餐廳內部空間寬敞且設有包廂，氛圍親切熱鬧，非常適合家庭聚餐與帶小孩前往。"
 }

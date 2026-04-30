@@ -1,27 +1,31 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
-    "generated_signals": [],
-    "generated_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "No",
+                             "evidence":  "我們五個人跟我們坐四個人的位置，從我進來到處去旁邊根本就沒有坐人，覺得應該要給我們六人的位子，我們五個人坐起來蠻擠",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "第一次來吃，店內氣氛歡樂，服務都很熱情，推薦的餐點都十分好吃",
+                               "confidence":  0.9
+                           },
+    "parent_friendly_score":  0,
+    "parent_friendly_level":  "Needs Attention",
+    "reason":  "AI語意綜合評估",
+    "generated_signals":  [
+                              "覺得應該要給我們六人的位子",
+                              "第一次來吃，店內氣氛歡樂，服務都很熱情，推薦的餐點都十分好吃"
+                          ],
+    "generated_summary":  "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
+    "card_summary":  "對小孩聲音較為包容，但空間較擁擠，前往時需多加留意。"
 }

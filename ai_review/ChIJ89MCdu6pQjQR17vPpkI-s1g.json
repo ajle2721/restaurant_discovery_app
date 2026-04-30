@@ -1,27 +1,32 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
-    "generated_signals": [],
-    "generated_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "No",
+                             "evidence":  "唯一的缺點就是位子太少、太小，會有一點擠。",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Unknown",
+                               "evidence":  null,
+                               "confidence":  0.4
+                           },
+    "parent_friendly_score":  -1,
+    "parent_friendly_level":  "Needs Attention",
+    "reason":  "AI語意綜合評估",
+    "generated_signals":  [
+                              "店面空間不大，把外面的座位加進去也不是很多，大概跟一般小間拉麵店差不多大而已。",
+                              "店面不大，以 L 型吧台為主，座位之間距離近一點，但也因此有種「看師傅現做、吃得很專心」的緊密感。",
+                              "唯一的缺點就是位子太少、太小，會有一點擠。"
+                          ],
+    "generated_summary":  "店內空間狹小且座位較為擁擠，不適合推車進入，目前評論中也未提及兒童椅或兒童餐等相關設施。",
+    "card_summary":  "該餐廳空間較擁擠，帶小孩前往需多加留意。"
 }

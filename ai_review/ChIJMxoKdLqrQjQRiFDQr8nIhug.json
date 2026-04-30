@@ -1,29 +1,31 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "算是「親子友善」😆小朋友哭鬧在這邊很平常",
-        "confidence": 0.9
-    },
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "算是「親子友善」😆小朋友哭鬧在這邊很平常"
-    ],
-    "generated_summary": "評論指出這家餐廳對親子家庭友善。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "No",
+                             "evidence":  "看了一下用餐的狀況，不建議超過八人以上用餐，店內只能排一排長桌不是很方便大家聊天。",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "另外觀察了一下很多家長帶小朋友來用餐，算是「親子友善」😆小朋友哭鬧在這邊很平常，家長不用有壓力。",
+                               "confidence":  0.9
+                           },
+    "parent_friendly_score":  0,
+    "parent_friendly_level":  "Needs Attention",
+    "reason":  "AI語意綜合評估",
+    "generated_signals":  [
+                              "看了一下用餐的狀況，不建議超過八人以上用餐，店內只能排一排長桌不是很方便大家聊天。",
+                              "另外觀察了一下很多家長帶小朋友來用餐，算是「親子友善」😆小朋友哭鬧在這邊很平常，家長不用有壓力。"
+                          ],
+    "generated_summary":  "該餐廳對親子相當友善，環境氣氛熱鬧，家長帶小孩用餐較無壓力，但店內空間配置較為狹長，不適合大型聚餐。",
+    "card_summary":  "對小孩聲音較為包容，但空間較擁擠，前往時需多加留意。"
 }

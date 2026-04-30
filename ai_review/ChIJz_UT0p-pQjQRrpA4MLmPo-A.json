@@ -1,27 +1,30 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
-    "generated_signals": [],
-    "generated_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "喜樂和諧的用餐氛圍充滿笑聲，美味健康的佳餚以及貼心的服務，現場有詩歌和音樂演唱。",
+                               "confidence":  0.9
+                           },
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "Medium",
+    "reason":  "AI語意綜合評估",
+    "generated_signals":  [
+                              "喜樂和諧的用餐氛圍充滿笑聲，美味健康的佳餚以及貼心的服務，現場有詩歌和音樂演唱。"
+                          ],
+    "generated_summary":  "餐廳用餐氛圍歡樂且充滿笑聲，環境氣氛相對熱鬧，適合家庭聚會。",
+    "card_summary":  "餐廳用餐氛圍歡樂且充滿笑聲，環境氣氛相對熱鬧，適合家庭聚會。"
 }

@@ -1,29 +1,32 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "店內寬敞明亮",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "店內寬敞明亮"
-    ],
-    "generated_summary": "評論指出這家餐廳空間寬敞。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "店內寬敞明亮，內用的座位很多，平日晚上客人不多上菜的速度非常快，每道菜份量跟口味都很不錯，比較可惜的是服務人員有點狀況外，不太知道怎麼招呼客人和整理桌面",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "加點的葡萄優格沙拉清爽，水果分量足夠，搭配腰果核桃等味道豐富，是大人小孩都喜歡的前菜。",
+                               "confidence":  0.9
+                           },
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "Medium",
+    "reason":  "AI語意綜合評估",
+    "generated_signals":  [
+                              "店內寬敞明亮，內用的座位很多，平日晚上客人不多上菜的速度非常快，每道菜份量跟口味都很不錯，比較可惜的是服務人員有點狀況外，不太知道怎麼招呼客人和整理桌面",
+                              "加點的葡萄優格沙拉清爽，水果分量足夠，搭配腰果核桃等味道豐富，是大人小孩都喜歡的前菜。",
+                              "座位算多，感覺是綜合西式美食，有美式brunch，義大利麵,薄餅pizza，西班牙燉飯，食物質量好！"
+                          ],
+    "generated_summary":  "店內空間寬敞明亮且座位充足，餐點口味也受到大人與小孩的喜愛，適合家庭聚餐。",
+    "card_summary":  "店內空間寬敞明亮且座位充足，餐點口味也受到大人與小孩的喜愛，適合家庭聚餐。"
 }

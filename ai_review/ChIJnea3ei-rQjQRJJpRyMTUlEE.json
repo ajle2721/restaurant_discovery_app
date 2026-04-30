@@ -1,29 +1,30 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "整體環境如果是坐到沙發區的話真的很寬敞很舒適",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "整體環境如果是坐到沙發區的話真的很寬敞很舒適"
-    ],
-    "generated_summary": "評論指出這家餐廳空間寬敞。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "環境乾淨整潔，座位不擁擠，空間感還不錯。",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Unknown",
+                               "evidence":  null,
+                               "confidence":  0.4
+                           },
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "Medium",
+    "reason":  "AI語意綜合評估",
+    "generated_signals":  [
+                              "環境乾淨整潔，座位不擁擠，空間感還不錯。"
+                          ],
+    "generated_summary":  "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。店內環境寬敞舒適，座位安排不擁擠。",
+    "card_summary":  "環境舒適，是可以考慮的親子聚餐地點。"
 }

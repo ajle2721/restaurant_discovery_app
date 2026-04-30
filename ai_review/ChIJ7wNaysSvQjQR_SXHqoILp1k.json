@@ -1,30 +1,33 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "環境優點： 空間寬敞乾淨",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "適合家庭聚餐或帶長輩前往",
-        "confidence": 0.9
-    },
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "適合家庭聚餐或帶長輩前往",
-        "環境優點： 空間寬敞乾淨"
-    ],
-    "generated_summary": "評論指出這家餐廳空間寬敞、對親子家庭友善。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "空間寬敞乾淨，後方即有大型公有停車場，停車非常方便，適合家庭聚餐或帶長輩前往。",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "空間寬敞乾淨，後方即有大型公有停車場，停車非常方便，適合家庭聚餐或帶長輩前往。",
+                               "confidence":  0.9
+                           },
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "Medium",
+    "reason":  "AI語意綜合評估",
+    "generated_signals":  [
+                              "餐桌間距夠寬，不會吵嘈，用餐環境舒適，服務態度好，旁邊就有停車場，真的是很優的用餐選擇，推薦！",
+                              "空間寬敞乾淨，後方即有大型公有停車場，停車非常方便，適合家庭聚餐或帶長輩前往。",
+                              "腹地算大，坐起來也不會太擁擠",
+                              "孩童優惠 80公分以下 免費 81~100公分 清潔費120元 101公分～140公分 半價"
+                          ],
+    "generated_summary":  "餐廳空間寬敞且桌距大，非常適合家庭聚餐，並設有明確的孩童收費優惠標準。",
+    "card_summary":  "餐廳空間寬敞且桌距大，非常適合家庭聚餐，並設有明確的孩童收費優惠標準。"
 }

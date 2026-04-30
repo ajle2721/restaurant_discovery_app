@@ -1,32 +1,33 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "座位也很寬敞",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "Yes",
-        "evidence": "點了兩份餐+兒童餐 調味都滿原型的 很推薦",
-        "confidence": 0.9
-    },
-    "kid_noise_tolerant": {
-        "result": "No",
-        "evidence": "應該是親子友善店家",
-        "confidence": 0.9
-    },
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "應該是親子友善店家",
-        "對我只想安靜吃飯好適合",
-        "座位也很寬敞",
-        "點了兩份餐+兒童餐 調味都滿原型的 很推薦"
-    ],
-    "generated_summary": "評論指出這家餐廳空間寬敞、有兒童餐點，但需留意氣氛安靜/不適合帶小孩。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "用餐環境舒適，座位也很寬敞，還有水可以喝，都是加分項目！",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "Yes",
+                                "evidence":  "點了兩份餐+兒童餐 調味都滿原型的 很推薦！！",
+                                "confidence":  0.9
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "店內用餐環境看起來也不錯，應該是親子友善店家，店內還有兒童遊戲區。",
+                               "confidence":  0.9
+                           },
+    "parent_friendly_score":  3,
+    "parent_friendly_level":  "High",
+    "reason":  "AI語意綜合評估",
+    "generated_signals":  [
+                              "用餐環境舒適，座位也很寬敞，還有水可以喝，都是加分項目！",
+                              "點了兩份餐+兒童餐 調味都滿原型的 很推薦！！",
+                              "店內用餐環境看起來也不錯，應該是親子友善店家，店內還有兒童遊戲區。",
+                              "原本看照片以為遊戲區玩具很少 結果小孩根本玩到不想回家🤣"
+                          ],
+    "generated_summary":  "該餐廳提供兒童餐且設有兒童遊戲區，環境寬敞舒適，是非常適合親子用餐的友善店家。",
+    "card_summary":  "提供兒童餐且設有兒童遊戲區，環境寬敞舒適，是非常適合親子用餐的友善店家。"
 }

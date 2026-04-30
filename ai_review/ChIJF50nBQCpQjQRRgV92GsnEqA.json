@@ -1,27 +1,30 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
-    "generated_signals": [],
-    "generated_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "我家女孩兒晚上睡覺做夢還夢到大口吃牛肉麵，睡醒跟我說好想再吃喔~",
+                               "confidence":  0.9
+                           },
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "Medium",
+    "reason":  "AI語意綜合評估",
+    "generated_signals":  [
+                              "我家女孩兒晚上睡覺做夢還夢到大口吃牛肉麵，睡醒跟我說好想再吃喔~"
+                          ],
+    "generated_summary":  "評論中有家長帶小孩前往用餐，孩子對店內的牛肉麵評價極高且會想再次造訪。",
+    "card_summary":  "評論中有家長帶小孩前往用餐，孩子對店內的牛肉麵評價極高且會想再次造訪。"
 }

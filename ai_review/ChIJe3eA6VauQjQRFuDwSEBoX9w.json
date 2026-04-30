@@ -1,30 +1,32 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "由於餐廳提供兒童專屬菜單（兒童餐）且空間寬敞",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "Yes",
-        "evidence": "由於餐廳提供兒童專屬菜單（兒童餐）且空間寬敞",
-        "confidence": 0.9
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "非常適合家庭聚餐或朋友小憩",
-        "confidence": 0.9
-    },
-    "parent_friendly_score": 3,
-    "parent_friendly_level": "高",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "非常適合家庭聚餐或朋友小憩",
-        "由於餐廳提供兒童專屬菜單（兒童餐）且空間寬敞"
-    ],
-    "generated_summary": "評論指出這家餐廳空間寬敞、有兒童餐點、對親子家庭友善。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "由於餐廳提供兒童專屬菜單（兒童餐）且空間寬敞，是許多家長帶小孩用餐的首選地點。",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "Yes",
+                                "evidence":  "由於餐廳提供兒童專屬菜單（兒童餐）且空間寬敞，是許多家長帶小孩用餐的首選地點。",
+                                "confidence":  0.9
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "由於餐廳提供兒童專屬菜單（兒童餐）且空間寬敞，是許多家長帶小孩用餐的首選地點。",
+                               "confidence":  0.9
+                           },
+    "parent_friendly_score":  3,
+    "parent_friendly_level":  "High",
+    "reason":  "AI語意綜合評估",
+    "generated_signals":  [
+                              "但是位子比較大，氣氛算舒適",
+                              "由於餐廳提供兒童專屬菜單（兒童餐）且空間寬敞，是許多家長帶小孩用餐的首選地點。",
+                              "服務不錯，環境也整潔明亮，就鄰桌幼童一直大叫，有點吵雜"
+                          ],
+    "generated_summary":  "餐廳提供兒童餐且空間寬敞，環境溫馨隨和，是許多家長帶小孩用餐的首選地點。",
+    "card_summary":  "餐廳提供兒童餐且空間寬敞，環境溫馨隨和，是許多家長帶小孩用餐的首選地點。"
 }

@@ -1,30 +1,31 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "餐廳的桌距是完全沒在客氣的寬敞",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "餐廳的桌距是完全沒在客氣的寬敞",
-        "大廳寬敞"
-    ],
-    "generated_summary": "評論指出這家餐廳空間寬敞。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "餐廳的桌距是完全沒在客氣的寬敞",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "整體來說，本店絕不是CP值最高或最驚奇的餐廳，卻是帶家人、朋友、客戶來訪可以開心吃飯而不失體面的選擇",
+                               "confidence":  0.9
+                           },
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "Medium",
+    "reason":  "AI語意綜合評估",
+    "generated_signals":  [
+                              "餐廳的桌距是完全沒在客氣的寬敞",
+                              "整體來說，本店絕不是CP值最高或最驚奇的餐廳，卻是帶家人、朋友、客戶來訪可以開心吃飯而不失體面的選擇"
+                          ],
+    "generated_summary":  "餐廳環境寬敞舒適，適合帶家人前往用餐。",
+    "card_summary":  "環境寬敞舒適，適合帶家人前往用餐。"
 }
