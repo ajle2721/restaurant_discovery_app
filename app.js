@@ -28,10 +28,10 @@ const attributeLabels = {
 };
 
 const levelLabels = {
-    '高': '👍 適合帶小孩',
-    '中': '🙂 可以考慮',
-    '需留意': '⚠️ 需留意',
-    '資訊不足': '❓ 資訊較少'
+    'High': '👍 適合帶小孩',
+    'Medium': '🙂 可以考慮',
+    'Needs Attention': '⚠️ 需留意',
+    'Insufficient Info': '❓ 資訊較少'
 };
 
 // DOM Elements
@@ -239,7 +239,7 @@ function renderList() {
     });
 
     // Sort
-    const levelWeight = { '高': 4, '中': 3, '需留意': 2, '資訊不足': 1 };
+    const levelWeight = { 'High': 4, 'Medium': 3, 'Needs Attention': 2, 'Insufficient Info': 1 };
     eligibleData.sort((a, b) => {
         const weightA = levelWeight[a.parent_friendly_level] || 0;
         const weightB = levelWeight[b.parent_friendly_level] || 0;
@@ -250,9 +250,9 @@ function renderList() {
 
     // Split into Groups
     // Recommended: High or Medium
-    const recommended = eligibleData.filter(r => r.parent_friendly_level === '高' || r.parent_friendly_level === '中');
+    const recommended = eligibleData.filter(r => r.parent_friendly_level === 'High' || r.parent_friendly_level === 'Medium');
     // Others: Insufficient Info or Needs Attention
-    const others = eligibleData.filter(r => r.parent_friendly_level === '資訊不足' || r.parent_friendly_level === '需留意');
+    const others = eligibleData.filter(r => r.parent_friendly_level === 'Insufficient Info' || r.parent_friendly_level === 'Needs Attention');
 
     if (recommended.length === 0 && others.length === 0) {
         renderEmptyState();
@@ -402,9 +402,9 @@ function renderCard(res, container) {
                     let color = '#15803d';
                     let bg = '#f0fdf4';
                     let borderColor = 'transparent';
-                    if (level === '中') { color = '#16a34a'; bg = '#f0fdf4'; }
-                    if (level === '需留意') { color = '#ef4444'; bg = '#fef2f2'; borderColor = '#FECACA'; }
-                    if (level === '資訊不足') { color = '#64748b'; bg = '#f8fafc'; borderColor = '#E2E8F0'; }
+                    if (level === 'Medium') { color = '#16a34a'; bg = '#f0fdf4'; }
+                    if (level === 'Needs Attention') { color = '#ef4444'; bg = '#fef2f2'; borderColor = '#FECACA'; }
+                    if (level === 'Insufficient Info') { color = '#64748b'; bg = '#f8fafc'; borderColor = '#E2E8F0'; }
                     return `<span class="decision-summary" style="color: ${color}; background: ${bg}; border: 1px solid ${borderColor};">${levelLabels[level]}</span>`;
                 })()}
             </div>
@@ -761,16 +761,16 @@ function renderMap(restaurants) {
     restaurants.forEach(res => {
         if (res.latitude && res.longitude) {
             // Only show High/Medium by default
-            const level = res.parent_friendly_level || '資訊不足';
-            if (!state.showMore && level !== '高' && level !== '中') {
+            const level = res.parent_friendly_level || 'Insufficient Info';
+            if (!state.showMore && level !== 'High' && level !== 'Medium') {
                 return;
             }
 
             // High=Dark Green, Mid=Light Green, Attention=Red, Info=Grey
             let color = '#94a3b8'; // Default Grey (Insufficient Info)
-            if (level === '高') color = '#15803d'; // Dark Green
-            if (level === '中') color = '#86efac'; // Light Green
-            if (level === '需留意') color = '#ef4444'; // Red
+            if (level === 'High') color = '#15803d'; // Dark Green
+            if (level === 'Medium') color = '#86efac'; // Light Green
+            if (level === 'Needs Attention') color = '#ef4444'; // Red
             
             const marker = createMarker(res, color);
             marker.addTo(state.map);
@@ -812,8 +812,8 @@ function createMarker(res, color) {
     const popupContent = document.createElement('div');
     popupContent.className = 'map-popup-card';
     
-    const level = res.parent_friendly_level || '資訊不足';
-    const isRecommended = (level === '高' || level === '中');
+    const level = res.parent_friendly_level || 'Insufficient Info';
+    const isRecommended = (level === 'High' || level === 'Medium');
 
     popupContent.innerHTML = `
         <div class="map-popup-title">${res.name}</div>
@@ -823,9 +823,9 @@ function createMarker(res, color) {
                 if (!label) return '';
                 let color = '#15803d';
                 let bg = '#f0fdf4';
-                if (level === '中') { color = '#16a34a'; bg = '#f0fdf4'; }
-                if (level === '需留意') { color = '#ef4444'; bg = '#fef2f2'; }
-                if (level === '資訊不足') { color = '#64748b'; bg = '#f8fafc'; }
+                if (level === 'Medium') { color = '#16a34a'; bg = '#f0fdf4'; }
+                if (level === 'Needs Attention') { color = '#ef4444'; bg = '#fef2f2'; }
+                if (level === 'Insufficient Info') { color = '#64748b'; bg = '#f8fafc'; }
                 return `<span style="font-size: 0.75rem; font-weight: 700; padding: 0.15rem 0.4rem; border-radius: 0.4rem; background: ${bg}; color: ${color};">${label}</span>`;
             })()}
             <span style="font-size: 0.8rem; font-weight: 600; color: #64748b;">⭐ ${res.rating}</span>
