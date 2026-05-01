@@ -24,7 +24,7 @@ const attributeLabels = {
     high_chair_available: '兒童椅',
     kids_menu: '兒童餐',
     spacious_seating: '空間寬敞',
-    kid_noise_tolerant: '不怕小孩吵'
+    kid_noise_tolerant: '不怕吵'
 };
 
 const levelLabels = {
