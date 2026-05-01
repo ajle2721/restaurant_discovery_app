@@ -5,9 +5,9 @@
                                   "confidence":  0.4
                               },
     "Spacious seating":  {
-                             "result":  "No",
-                             "evidence":  "看了一下用餐的狀況，不建議超過八人以上用餐，店內只能排一排長桌不是很方便大家聊天。",
-                             "confidence":  0.9
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
                          },
     "Kids menu available":  {
                                 "result":  "Unknown",
@@ -19,13 +19,12 @@
                                "evidence":  "另外觀察了一下很多家長帶小朋友來用餐，算是「親子友善」😆小朋友哭鬧在這邊很平常，家長不用有壓力。",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  0,
-    "parent_friendly_level":  "Needs Attention",
-    "reason":  "AI語意綜合評估",
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "Medium",
+    "reason":  "手動修正：評論關於長桌描述不足以判斷空間不寬敞",
     "generated_signals":  [
-                              "看了一下用餐的狀況，不建議超過八人以上用餐，店內只能排一排長桌不是很方便大家聊天。",
                               "另外觀察了一下很多家長帶小朋友來用餐，算是「親子友善」😆小朋友哭鬧在這邊很平常，家長不用有壓力。"
                           ],
-    "generated_summary":  "該餐廳對親子相當友善，環境氣氛熱鬧，家長帶小孩用餐較無壓力，但店內空間配置較為狹長，不適合大型聚餐。",
-    "card_summary":  "對小孩聲音較為包容，但空間較擁擠，前往時需多加留意。"
+    "generated_summary":  "該餐廳對親子相當友善，環境氣氛熱鬧，家長帶小孩用餐較無壓力。目前關於空間與設備的具體資訊較少，建議前往前可先向店家確認。",
+    "card_summary":  "環境氛圍熱鬧，對小孩聲音較為包容，是可以考慮的親子用餐地點。"
 }
