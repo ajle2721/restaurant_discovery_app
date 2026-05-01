@@ -248,10 +248,12 @@ function renderList() {
         '高': 4, '中': 3, '需留意': 2, '資訊不足': 1 
     };
     eligibleData.sort((a, b) => {
+        if (state.userLocation && a.distance !== b.distance) {
+            return a.distance - b.distance;
+        }
         const weightA = levelWeight[a.parent_friendly_level] || 0;
         const weightB = levelWeight[b.parent_friendly_level] || 0;
         if (weightA !== weightB) return weightB - weightA;
-        if (state.userLocation) return a.distance - b.distance;
         return (b.parent_friendly_score || 0) - (a.parent_friendly_score || 0);
     });
 
