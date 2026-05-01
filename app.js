@@ -403,7 +403,6 @@ function renderCard(res, container) {
             <div class="restaurant-name" style="font-size: 1.1rem; margin-bottom: 0; line-height: 1.3;">${res.name}</div>
             <div style="display: flex; align-items: center; gap: 0.5rem;">
                 ${distHtml}
-                <span style="font-size: 1.1rem; color: var(--text-muted); opacity: 0.4;">📋</span>
             </div>
         </div>
 
