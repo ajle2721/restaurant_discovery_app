@@ -10,7 +10,8 @@ const state = {
     userCircle: null,
     userLocation: null, // {lat, lng}
     showMore: false,
-    lastFilteredResults: []
+    lastFilteredResults: [],
+    markerMap: {}
 };
 
 const attributeIcons = {
@@ -403,6 +404,7 @@ function renderCard(res, container) {
             <div class="restaurant-name" style="font-size: 1.1rem; margin-bottom: 0; line-height: 1.3;">${res.name}</div>
             <div style="display: flex; align-items: center; gap: 0.5rem;">
                 ${distHtml}
+                <button class="view-on-map-btn" title="在地圖上查看" onclick="focusRestaurantOnMap(event, '${res.place_id}')">📍</button>
             </div>
         </div>
 
@@ -454,15 +456,7 @@ function renderCard(res, container) {
         document.querySelectorAll('.restaurant-card').forEach(c => c.classList.remove('highlighted'));
         card.classList.add('highlighted');
         
-        // If not clicking a specific action, show detail
         showDetail(res);
-        
-        // Link to map
-        if (state.markers[res.place_id]) {
-            const marker = state.markers[res.place_id];
-            state.map.setView(marker.getLatLng(), 16);
-            marker.openPopup();
-        }
     });
 
     container.appendChild(card);
@@ -770,6 +764,8 @@ function renderMap(restaurants) {
         state.userCircle = null;
     }
 
+    state.markers = [];
+    state.markerMap = {};
     const markersToFit = [];
 
     restaurants.forEach(res => {
@@ -789,6 +785,7 @@ function renderMap(restaurants) {
             const marker = createMarker(res, color);
             marker.addTo(state.map);
             state.markers.push(marker);
+            state.markerMap[res.place_id] = marker;
             markersToFit.push([res.latitude, res.longitude]);
         }
     });
@@ -809,6 +806,44 @@ function renderMap(restaurants) {
         state.map.fitBounds(state.userCircle.getBounds(), { padding: [10, 10] });
     } else if (markersToFit.length > 0) {
         state.map.fitBounds(markersToFit, { padding: [30, 30], maxZoom: 16 });
+    }
+}
+
+function focusRestaurantOnMap(event, placeId) {
+    if (event) event.stopPropagation();
+
+    const marker = state.markerMap[placeId];
+    if (marker) {
+        // 1. Scroll map into view
+        const mapContainer = document.getElementById('map-container');
+        if (mapContainer) {
+            mapContainer.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }
+
+        // 2. Center and Zoom map
+        state.map.setView(marker.getLatLng(), 16, { animate: true });
+
+        // 3. Open Popup
+        setTimeout(() => {
+            marker.openPopup();
+        }, 300);
+
+        // 4. Highlight Pin
+        const el = marker.getElement();
+        if (el) {
+            el.classList.add('marker-highlight');
+            setTimeout(() => {
+                el.classList.remove('marker-highlight');
+            }, 3000);
+        }
+    } else {
+        // If marker is not visible (e.g. filtered out but in list)
+        // Try to show more if possible
+        if (!state.showMore) {
+            state.showMore = true;
+            renderList();
+            setTimeout(() => focusRestaurantOnMap(null, placeId), 600);
+        }
     }
 }
 
