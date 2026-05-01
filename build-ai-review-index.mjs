@@ -72,6 +72,44 @@ function buildRecord(placeId) {
       ? [aiReview.generated_signals]
       : [];
 
+  const priceLevel = response.priceLevel || null;
+  
+  // Extract cuisine from types
+  const cuisineMap = {
+    'italian_restaurant': '義大利料理',
+    'japanese_restaurant': '日式料理',
+    'korean_restaurant': '韓式料理',
+    'chinese_restaurant': '中式料理',
+    'thai_restaurant': '泰式料理',
+    'french_restaurant': '法式料理',
+    'american_restaurant': '美式料理',
+    'mexican_restaurant': '墨西哥料理',
+    'vietnamese_restaurant': '越南料理',
+    'vegetarian_restaurant': '蔬食料理',
+    'steak_house': '牛排館',
+    'sushi_restaurant': '壽司',
+    'pizza_restaurant': '披薩',
+    'ramen_restaurant': '拉麵',
+    'cafe': '咖啡廳',
+    'bakery': '烘焙/甜點',
+    'bar': '酒吧/餐酒館',
+    'bistro': '小酒館/餐酒館',
+    'brunch_restaurant': '早午餐'
+  };
+
+  let cuisine = null;
+  if (Array.isArray(response.types)) {
+    // Find the first matching cuisine type
+    const matchedType = response.types.find(t => cuisineMap[t]);
+    if (matchedType) {
+      const cuisineLabel = cuisineMap[matchedType];
+      // Rule: If name already contains the cuisine label, don't repeat it
+      if (!name.includes(cuisineLabel) && !name.toLowerCase().includes(matchedType.split('_')[0])) {
+        cuisine = cuisineLabel;
+      }
+    }
+  }
+
   return {
     place_id: placeId,
     name,
@@ -80,6 +118,8 @@ function buildRecord(placeId) {
     district: extractDistrict(formattedAddress),
     rating: String(response.rating ?? ""),
     user_ratings_total: response.userRatingCount ?? 0,
+    price_level: priceLevel,
+    cuisine: cuisine,
     latitude: response.location?.latitude ?? null,
     longitude: response.location?.longitude ?? null,
     url: googleMapsUrl,

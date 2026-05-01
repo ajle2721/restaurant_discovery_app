@@ -404,13 +404,30 @@ function renderCard(res, container) {
 
     card.innerHTML = `
         <!-- 1. Name Section -->
-        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 0.5rem; gap: 0.75rem;">
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 0.25rem; gap: 0.75rem;">
             <div class="restaurant-name" style="font-size: 1.1rem; margin-bottom: 0; line-height: 1.3; flex: 1; min-width: 0;">${res.name}</div>
             <div style="display: flex; align-items: center; gap: 0.4rem; flex-shrink: 0;">
                 ${distHtml}
                 <button class="view-on-map-btn" title="在地圖上查看" onclick="focusRestaurantOnMap(event, '${res.place_id}')">${icons.mapPin}</button>
             </div>
         </div>
+
+        <!-- 1.5 Price & Cuisine -->
+        ${(() => {
+            const priceMap = {
+                'PRICE_LEVEL_INEXPENSIVE': '$',
+                'PRICE_LEVEL_MODERATE': '$$',
+                'PRICE_LEVEL_EXPENSIVE': '$$$',
+                'PRICE_LEVEL_VERY_EXPENSIVE': '$$$$',
+                '1': '$', '2': '$$', '3': '$$$', '4': '$$$$'
+            };
+            const priceStr = priceMap[res.price_level] || (typeof res.price_level === 'number' ? '$'.repeat(res.price_level) : '');
+            const parts = [];
+            if (res.cuisine) parts.push(res.cuisine);
+            if (priceStr) parts.push(priceStr);
+            if (parts.length === 0) return '';
+            return `<div style="font-size: 0.85rem; color: #94a3b8; margin-bottom: 0.6rem; font-weight: 500;">${parts.join(' · ')}</div>`;
+        })()}
 
         <!-- 2. Decision Group (Recommendation + Warnings/Tags) -->
         <div style="margin-bottom: 0.65rem; display: flex; align-items: center; gap: 0.6rem;">
