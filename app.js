@@ -404,9 +404,9 @@ function renderCard(res, container) {
 
     card.innerHTML = `
         <!-- 1. Name Section -->
-        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 0.5rem;">
-            <div class="restaurant-name" style="font-size: 1.1rem; margin-bottom: 0; line-height: 1.3;">${res.name}</div>
-            <div style="display: flex; align-items: center; gap: 0.5rem;">
+        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 0.5rem; gap: 0.75rem;">
+            <div class="restaurant-name" style="font-size: 1.1rem; margin-bottom: 0; line-height: 1.3; flex: 1; min-width: 0;">${res.name}</div>
+            <div style="display: flex; align-items: center; gap: 0.4rem; flex-shrink: 0;">
                 ${distHtml}
                 <button class="view-on-map-btn" title="在地圖上查看" onclick="focusRestaurantOnMap(event, '${res.place_id}')">${icons.mapPin}</button>
             </div>
