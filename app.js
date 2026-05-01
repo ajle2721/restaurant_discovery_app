@@ -903,8 +903,16 @@ function createMarker(res, color) {
 }
 
 function handleGeolocation() {
+    if (state.userLocation) {
+        clearGeolocation();
+        return;
+    }
+
     resetViewState();
     if ("geolocation" in navigator) {
+        // Show loading state
+        btnNearby.innerHTML = '<span class="loading-spinner"></span> 取得位置中...';
+        
         navigator.geolocation.getCurrentPosition((position) => {
             const lat = position.coords.latitude;
             const lng = position.coords.longitude;
@@ -930,10 +938,11 @@ function handleGeolocation() {
             state.showMidLevel = true;
             state.showLowLevel = true; // Show all restaurants within 3km immediately
             
-            btnNearby.innerHTML = `<span style="font-size: 1.25rem; display: inline-flex; align-items: center; margin-right: 4px;">${icons.mapPin}</span> 已套用附近餐廳`;
-            btnNearby.style.backgroundColor = '#E2E8F0';
-            btnNearby.style.color = '#475569';
-            btnNearby.disabled = true;
+            btnNearby.innerHTML = `<span style="font-size: 1.25rem; display: inline-flex; align-items: center; margin-right: 4px;">${icons.mapPin}</span> 取消附近餐廳`;
+            btnNearby.style.backgroundColor = '#fef2f2';
+            btnNearby.style.color = '#ef4444';
+            btnNearby.style.borderColor = '#fee2e2';
+            btnNearby.disabled = false;
 
             // Clear selected regions when using geolocation
             state.locations.clear();
@@ -949,6 +958,27 @@ function handleGeolocation() {
     } else {
         alert("你的瀏覽器不支援定位功能。");
     }
+}
+
+function clearGeolocation() {
+    state.userLocation = null;
+    if (state.userMarker) {
+        state.map.removeLayer(state.userMarker);
+        state.userMarker = null;
+    }
+    if (state.userCircle) {
+        state.map.removeLayer(state.userCircle);
+        state.userCircle = null;
+    }
+
+    // Reset button to original style
+    btnNearby.innerHTML = `<span style="font-size: 1.25rem; display: inline-flex; align-items: center; margin-right: 4px;">${icons.mapPin}</span> 看我附近的餐廳`;
+    btnNearby.style.backgroundColor = '#fff';
+    btnNearby.style.color = 'var(--primary)';
+    btnNearby.style.borderColor = 'transparent';
+    btnNearby.disabled = false;
+
+    renderList();
 }
 
 init();
