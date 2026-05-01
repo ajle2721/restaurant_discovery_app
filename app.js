@@ -28,6 +28,10 @@ const attributeLabels = {
     kid_noise_tolerant: '不怕吵'
 };
 
+const icons = {
+    mapPin: `<svg viewBox="0 0 24 24" width="1.2em" height="1.2em" fill="currentColor" style="display: inline-block; vertical-align: middle;"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>`
+};
+
 const levelLabels = {
     'High': '👍 適合帶小孩',
     'Medium': '🙂 可以考慮',
@@ -404,7 +408,7 @@ function renderCard(res, container) {
             <div class="restaurant-name" style="font-size: 1.1rem; margin-bottom: 0; line-height: 1.3;">${res.name}</div>
             <div style="display: flex; align-items: center; gap: 0.5rem;">
                 ${distHtml}
-                <button class="view-on-map-btn" title="在地圖上查看" onclick="focusRestaurantOnMap(event, '${res.place_id}')">📍</button>
+                <button class="view-on-map-btn" title="在地圖上查看" onclick="focusRestaurantOnMap(event, '${res.place_id}')">${icons.mapPin}</button>
             </div>
         </div>
 
@@ -446,7 +450,7 @@ function renderCard(res, container) {
                 <span style="color: #FFB800;">⭐</span> ${res.rating}
             </div>
             <div style="display: flex; align-items: center; gap: 0.2rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">
-                <span>📍</span> ${res.address}
+                <span style="color: var(--primary);">${icons.mapPin}</span> ${res.address}
             </div>
         </div>
     `;
@@ -570,7 +574,9 @@ function showDetail(restaurant) {
     detailContent.innerHTML = `
         <h1 style="margin-bottom: 0.5rem; color: var(--text-main);">${restaurant.name}</h1>
         <div class="restaurant-rating" style="font-size: 1.1rem; margin-bottom: 0.5rem;">⭐ ${restaurant.rating}</div>
-        <div class="restaurant-address" style="font-size: 0.9rem; margin-bottom: 1.5rem;">📍 ${restaurant.address}</div>
+        <div class="restaurant-address" style="font-size: 0.9rem; margin-bottom: 1.5rem;">
+            <span style="color: var(--primary);">${icons.mapPin}</span> ${restaurant.address}
+        </div>
         
         <div style="font-weight: 700; margin-bottom: 1rem; color: var(--text-muted);">親子友善建議</div>
         <div style="margin-bottom: 1.5rem;">
@@ -924,7 +930,7 @@ function handleGeolocation() {
             state.showMidLevel = true;
             state.showLowLevel = true; // Show all restaurants within 3km immediately
             
-            btnNearby.innerHTML = '<span style="font-size: 1.25rem;">📍</span> 已套用附近餐廳';
+            btnNearby.innerHTML = `<span style="font-size: 1.25rem; display: inline-flex; align-items: center; margin-right: 4px;">${icons.mapPin}</span> 已套用附近餐廳`;
             btnNearby.style.backgroundColor = '#E2E8F0';
             btnNearby.style.color = '#475569';
             btnNearby.disabled = true;
@@ -938,7 +944,7 @@ function handleGeolocation() {
         }, (error) => {
             console.warn("Geolocation denied or error:", error);
             alert("無法取得位置，請確認是否開啟定位權限。");
-            btnNearby.innerHTML = '<span style="font-size: 1.25rem;">📍</span> 看我附近的餐廳';
+            btnNearby.innerHTML = `<span style="font-size: 1.25rem; display: inline-flex; align-items: center; margin-right: 4px;">${icons.mapPin}</span> 看我附近的餐廳`;
         });
     } else {
         alert("你的瀏覽器不支援定位功能。");
