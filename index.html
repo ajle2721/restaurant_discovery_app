@@ -19,83 +19,99 @@
 
 <body>
     <div id="home-view" class="view active">
-        <header>
-            <h1 style="font-size: 1.75rem;">帶小孩吃什麼？</h1>
-            <p class="subtitle" style="margin-bottom: 1.5rem;">看看你附近適合帶小孩的餐廳</p>
+        <header class="main-header">
+            <h1 class="main-title">帶小孩吃什麼？</h1>
+            <p class="subtitle">輸入地點，看看附近適合帶小孩的餐廳</p>
             
-            <button id="btn-nearby" class="btn btn-primary" style="width: 100%; margin-bottom: 0.75rem; font-size: 1rem; padding: 1.125rem; background: #fff; color: var(--primary); box-shadow: 0 4px 6px rgba(0,0,0,0.1); display: flex; align-items: center; justify-content: center; gap: 0.5rem;">
-                <svg viewBox="0 0 24 24" width="1.25rem" height="1.25rem" fill="currentColor" style="display: inline-block; vertical-align: middle;"><path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/></svg>
-                看我附近的餐廳
-            </button>
-            
-            <div class="location-selector" id="open-location-modal" style="justify-content: center; background: transparent; border: 1px solid rgba(255,255,255,0.4); box-shadow: none;">
-                <span>或選擇地區：<span id="location-text">台北市 · 全區</span></span>
-                <span style="margin-left: 0.5rem;">▼</span>
+            <div class="search-container">
+                <div class="search-input-wrapper">
+                    <svg class="search-icon" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                    <input type="text" id="location-search" placeholder="輸入地點（捷運站、地標或行政區）" autocomplete="off">
+                    <button id="clear-search" class="clear-search hidden">&times;</button>
+                </div>
+                <div id="search-autocomplete" class="autocomplete-dropdown hidden"></div>
             </div>
-            <div class="trust-line" style="margin-top: 1rem; margin-bottom: 0; text-align: center;">已為你分析 400+ 間台北餐廳評價</div>
+
+            <div class="entry-actions">
+                <button id="btn-nearby" class="btn btn-nearby">
+                    <span class="icon">📍</span> 看我附近的餐廳
+                </button>
+            </div>
+
+            <div class="quick-links">
+                <span class="quick-links-label">熱門地點：</span>
+                <div class="quick-links-scroll">
+                    <button class="quick-link-item" data-loc="大安區">大安區</button>
+                    <button class="quick-link-item" data-loc="信義區">信義區</button>
+                    <button class="quick-link-item" data-loc="台北車站">台北車站</button>
+                    <button class="quick-link-item" data-loc="西門町">西門町</button>
+                    <button class="quick-link-item" data-loc="中山站">中山站</button>
+                </div>
+            </div>
         </header>
 
-        <!-- Quick Filters -->
-        <div class="quick-filters-container">
-            <div class="quick-filters-label">快速找 👇</div>
-            <div class="quick-filters-scroll">
-                <button class="quick-chip" data-filter="high_chair_available">🪑 兒童椅</button>
-                <button class="quick-chip" data-filter="spacious_seating">🛋️ 空間寬敞</button>
-                <button class="quick-chip" data-filter="kid_noise_tolerant">🥳 不怕吵</button>
-                <button class="quick-chip" data-filter="kids_menu">🥘 兒童餐</button>
+        <!-- Search Results View (Hidden until searched) -->
+        <div id="search-results-view" class="hidden">
+            <div id="search-status-bar" class="search-status-bar">
+                <div class="status-content">
+                    <span id="current-search-location">顯示全部</span>
+                    <button id="reset-search" class="btn-text">重新搜尋</button>
+                </div>
             </div>
+
+            <!-- Map Container -->
+            <div id="map-container" class="map-view">
+                <div id="map"></div>
+                <div class="map-overlay-controls">
+                    <label class="map-toggle">
+                        <input type="checkbox" id="hide-others-markers" checked>
+                        <span class="toggle-text">僅顯示推薦餐廳</span>
+                    </label>
+                </div>
+            </div>
+
+            <!-- Filters Section -->
+            <div class="filter-section">
+                <div class="filter-header">
+                    <span class="filter-title">篩選條件</span>
+                    <button id="clear-all-filters" class="btn-text hidden">清除篩選</button>
+                </div>
+                <div class="filters-scroll">
+                    <button class="filter-chip" data-filter="high_chair_available">🪑 兒童椅</button>
+                    <button class="filter-chip" data-filter="spacious_seating">🛋️ 空間寬敞</button>
+                    <button class="filter-chip" data-filter="kid_noise_tolerant">🥳 不怕吵</button>
+                    <button class="filter-chip" data-filter="kids_menu">🥘 兒童餐</button>
+                </div>
+            </div>
+
+            <main id="restaurant-list" class="results-container">
+                <!-- Recommended Section -->
+                <div id="recommended-section" class="results-section">
+                    <div class="section-header">值得推薦 (高 / 中)</div>
+                    <div id="recommended-list"></div>
+                </div>
+
+                <!-- Fallback Section (Hidden until needed) -->
+                <div id="fallback-hint" class="fallback-hint hidden"></div>
+
+                <!-- Others Section (Collapsible) -->
+                <div id="others-section" class="results-section">
+                    <button id="toggle-others" class="toggle-others-btn">
+                        <span>查看更多 (含資訊不足或需留意)</span>
+                        <span class="arrow">▼</span>
+                    </button>
+                    <div id="others-list" class="collapsible-content hidden"></div>
+                </div>
+
+                <!-- No Results State -->
+                <div id="no-results" class="empty-state hidden">
+                    <span class="empty-icon">🔍</span>
+                    <h3 id="no-results-title">找不到了</h3>
+                    <p id="no-results-desc">試試搜尋其他地點或減少條件</p>
+                    <div id="no-results-suggestions" class="suggestion-chips"></div>
+                </div>
+            </main>
         </div>
-
-        <section class="filter-section" id="filter-section">
-            <div id="filter-collapsed">
-                <div class="filter-summary-bar">
-                    <div class="summary-info">
-                        <span id="summary-district">台北市</span> · 
-                        <span id="summary-filters">全部</span> · 
-                        <span id="summary-count">0</span> 間
-                    </div>
-                    <button id="expand-filters" class="btn-text">進一步篩選 ▼</button>
-                </div>
-            </div>
-
-            <div id="filter-expanded" class="hidden">
-                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.75rem;">
-                    <div class="helper-text" style="margin: 0;">幫你更精準（選填）</div>
-                    <button id="collapse-filters" class="btn-text">收合 ▲</button>
-                </div>
-                <div class="filters-grid">
-                    <div class="filter-chip" data-filter="high_chair_available">
-                        <span class="filter-icon">🪑</span>
-                        <span>兒童椅</span>
-                    </div>
-                    <div class="filter-chip" data-filter="kids_menu">
-                        <span class="filter-icon">🥘</span>
-                        <span>兒童餐</span>
-                    </div>
-                    <div class="filter-chip" data-filter="spacious_seating">
-                        <span class="filter-icon">🛋️</span>
-                        <span>空間寬敞</span>
-                    </div>
-                    <div class="filter-chip" data-filter="kid_noise_tolerant">
-                        <span class="filter-icon">🥳</span>
-                        <span>不怕吵</span>
-                    </div>
-                </div>
-            </div>
-        </section>
-
-        <!-- Map Container (Mini Map) -->
-        <div id="map-container" class="results-container" style="padding-top: 1rem; padding-bottom: 0; height: auto; min-height: unset;">
-            <div id="map-status" style="font-size: 0.85rem; color: var(--text-muted); margin-bottom: 0.75rem; text-align: center; font-weight: 600;">目前顯示較適合帶小孩的餐廳</div>
-
-            <div id="map" style="height: 250px; min-height: 250px;"></div>
-        </div>
-
-        <div id="results-count" class="results-label"></div>
-
-        <main id="restaurant-list" class="results-container">
-            <!-- Results will be injected here -->
-        </main>
 
         <button id="float-share" class="fab">
             <span>🔗</span>
@@ -115,38 +131,9 @@
 
     <div id="toast" class="toast">連結已複製到剪貼簿！</div>
 
-    <!-- Location Modal -->
-    <div id="location-modal" class="modal-backdrop">
-        <div class="modal-content">
-            <div class="modal-header">
-                <h3 class="modal-title">選擇行政區</h3>
-                <button class="modal-close" id="close-location-modal">×</button>
-            </div>
-            
-            <button class="loc-btn active" id="loc-all">台北市 · 全區</button>
-            
-            <div class="loc-chips-grid">
-                <div class="loc-chip" data-loc="中山區">中山區</div>
-                <div class="loc-chip" data-loc="中正區">中正區</div>
-                <div class="loc-chip" data-loc="信義區">信義區</div>
-                <div class="loc-chip" data-loc="內湖區">內湖區</div>
-                <div class="loc-chip" data-loc="北投區">北投區</div>
-                <div class="loc-chip" data-loc="南港區">南港區</div>
-                <div class="loc-chip" data-loc="士林區">士林區</div>
-                <div class="loc-chip" data-loc="大同區">大同區</div>
-                <div class="loc-chip" data-loc="大安區">大安區</div>
-                <div class="loc-chip" data-loc="文山區">文山區</div>
-                <div class="loc-chip" data-loc="松山區">松山區</div>
-                <div class="loc-chip" data-loc="萬華區">萬華區</div>
-            </div>
-            
-            <div class="modal-actions">
-                <button class="btn btn-primary" id="confirm-location" style="width: 100%;">確認</button>
-            </div>
-        </div>
-    </div>
 
     <!-- Data and App Logic -->
+    <script src="locations.js"></script>
     <script src="ai_review/index.js"></script>
     <script src="app.js"></script>
 </body>
