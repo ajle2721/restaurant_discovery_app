@@ -1,32 +1,27 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "拿到麵要離開時店裡的小朋友還特別跟我說byebye實在太可愛了😍",
-                               "confidence":  0.9
-                           },
-    "generated_signals":  [
-                              "拿到麵要離開時店裡的小朋友還特別跟我說byebye實在太可愛了😍",
-                              "一間溫馨的小店。",
-                              "牆壁看似可以隨意塗鴉，蠻有趣的"
-                          ],
-    "generated_summary":  "店內氛圍溫馨且有小朋友互動，環境對親子相對友善。",
-    "card_summary":  "店內氛圍溫馨且有小朋友互動，環境對親子相對友善。",
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "資訊不足",
-    "reason":  "不怕小孩吵"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "綜合評估",
+    "generated_signals": [],
+    "generated_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。"
 }

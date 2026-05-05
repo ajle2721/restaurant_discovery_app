@@ -1,30 +1,29 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "這裡的座位配置寬敞舒適，無論是和朋友家人聚餐，或是獨自一人享受片刻寧靜，都能找到最適合你的角落。",
-                             "confidence":  0.9
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Unknown",
-                               "evidence":  null,
-                               "confidence":  0.4
-                           },
-    "generated_signals":  [
-                              "這裡的座位配置寬敞舒適，無論是和朋友家人聚餐，或是獨自一人享受片刻寧靜，都能找到最適合你的角落。"
-                          ],
-    "generated_summary":  "餐廳環境寬敞舒適，適合與家人聚餐，但目前評論中較少提及兒童座椅或兒童餐等具體親子設施資訊。",
-    "card_summary":  "環境舒適，是可以考慮的親子聚餐地點。",
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "資訊不足",
-    "reason":  "空間寬敞"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "這裡的座位配置寬敞舒適",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "綜合評估",
+    "generated_signals": [
+        "這裡的座位配置寬敞舒適"
+    ],
+    "generated_summary": "評論指出這家餐廳空間寬敞。"
 }

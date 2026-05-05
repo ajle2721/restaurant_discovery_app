@@ -1,33 +1,31 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "座位寬敞乾淨舒適",
-                             "confidence":  0.9
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Unknown",
-                               "evidence":  null,
-                               "confidence":  0.4
-                           },
-    "generated_signals":  [
-                              "座位寬敞乾淨舒適",
-                              "空間大、乾淨、美，很舒服的設計風格。",
-                              "空間明亮乾淨，座位寬敞",
-                              "適合白天聚餐"
-                          ],
-    "generated_summary":  "餐廳座位寬敞、空間大且明亮乾淨，適合聚餐。然而，評論中未明確提及兒童椅、兒童餐或對孩童噪音的容忍度。",
-    "card_summary":  "餐廳座位寬敞、空間大且明亮乾淨，適合聚餐，然而。",
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "資訊不足",
-    "reason":  "空間寬敞"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "座位寬敞乾淨舒適",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "綜合評估",
+    "generated_signals": [
+        "座位寬敞乾淨舒適",
+        "座位寬敞",
+        "空間大、乾淨、美"
+    ],
+    "generated_summary": "評論指出這家餐廳空間寬敞。"
 }

@@ -1,32 +1,30 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "店內真的十分熱鬧，感覺大家都是很快樂且放鬆的在這裡聚餐。",
-                               "confidence":  0.9
-                           },
-    "generated_signals":  [
-                              "店內真的十分熱鬧，感覺大家都是很快樂且放鬆的在這裡聚餐。",
-                              "喜歡熱鬧的可以去，大家喝開就吵起來大聲講話的氛圍。",
-                              "適合朋友聚會的好地方，喝酒的氣氛很棒，還有很多的小遊戲可以玩。"
-                          ],
-    "generated_summary":  "店內氣氛十分熱鬧且放鬆，屬於不拘束的用餐環境，適合不怕吵雜的家庭聚餐。",
-    "card_summary":  "店內氣氛十分熱鬧且放鬆，屬於不拘束的用餐環境，適合不怕吵雜的家庭聚餐。",
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "資訊不足",
-    "reason":  "不怕小孩吵"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "但還是受老闆的好好照顧（真不好意思）店內真的十分熱鬧",
+        "confidence": 0.9
+    },
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "綜合評估",
+    "generated_signals": [
+        "但還是受老闆的好好照顧（真不好意思）店內真的十分熱鬧",
+        "喜歡熱鬧的可以去"
+    ],
+    "generated_summary": "評論指出這家餐廳對親子家庭友善。"
 }

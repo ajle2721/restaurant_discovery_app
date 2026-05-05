@@ -1,31 +1,29 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "環境跟桌距都很棒！很適合聚餐",
-                             "confidence":  0.9
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "週末人非常多～是一個大家會聊天的地方，所以會稍微有一點吵雜，但聊天還是聽得到。",
-                               "confidence":  0.9
-                           },
-    "generated_signals":  [
-                              "環境跟桌距都很棒！很適合聚餐",
-                              "週末人非常多～是一個大家會聊天的地方，所以會稍微有一點吵雜，但聊天還是聽得到。"
-                          ],
-    "generated_summary":  "該餐廳環境寬敞舒適且桌距適中，氣氛熱鬧，適合聚餐。",
-    "card_summary":  "環境寬敞舒適且桌距適中，氣氛熱鬧，適合聚餐。",
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "中",
-    "reason":  "空間寬敞、不怕小孩吵"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "很適合聚餐",
+        "confidence": 0.9
+    },
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "綜合評估",
+    "generated_signals": [
+        "很適合聚餐"
+    ],
+    "generated_summary": "評論指出這家餐廳對親子家庭友善。"
 }

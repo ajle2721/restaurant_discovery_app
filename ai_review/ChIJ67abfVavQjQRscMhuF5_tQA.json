@@ -1,31 +1,27 @@
-﻿{
-    " child_seat available":  {
-                                  "evidence":  "User provided info",
-                                  "result":  "Yes",
-                                  "confidence":  1
-                              },
-    "Spacious seating":  {
-                             "evidence":  "User provided info",
-                             "result":  "Yes",
-                             "confidence":  1
-                         },
-    "Kids menu available":  {
-                                "result":  "Yes",
-                                "evidence":  "小朋友番茄麵（附飲料） $270",
-                                "confidence":  0.9
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "環境是乾淨的，空間是喧嘩的，可能在傳統市場+科教館附近，有這樣的店存在是難得的，所以備受盛譽",
-                               "confidence":  0.9
-                           },
-    "generated_signals":  [
-                              "小朋友番茄麵（附飲料） $270",
-                              "環境是乾淨的，空間是喧嘩的，可能在傳統市場+科教館附近，有這樣的店存在是難得的，所以備受盛譽"
-                          ],
-    "generated_summary":  "店內提供小朋友番茄麵等兒童餐點，環境氣氛較為喧嘩且鄰近科教館，適合帶小孩前往用餐。",
-    "card_summary":  "店內提供小朋友番茄麵等兒童餐點，環境氣氛較為喧嘩且鄰近科教館，適合帶小孩前往用餐。",
-    "parent_friendly_score":  4,
-    "parent_friendly_level":  "高",
-    "reason":  "有兒童椅、有兒童餐、空間寬敞、不怕小孩吵"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "綜合評估",
+    "generated_signals": [],
+    "generated_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。"
 }

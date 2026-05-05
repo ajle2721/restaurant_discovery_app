@@ -121,13 +121,20 @@ def evaluate_restaurant(data):
     if analysis["kids_menu"]["result"] == "Yes": score += 1
     if analysis["kid_noise_tolerant"]["result"] == "Yes": score += 1
     
-    if analysis["high_chair_available"]["result"] == "No" or analysis["spacious_seating"]["result"] == "No" or analysis["kid_noise_tolerant"]["result"] == "No":
+    # Determine level
+    has_negatives = analysis["high_chair_available"]["result"] == "No" or \
+                    analysis["spacious_seating"]["result"] == "No" or \
+                    analysis["kid_noise_tolerant"]["result"] == "No"
+
+    if has_negatives:
         score -= 2
-        
+
     if score >= 3:
         level = "高"
-    elif score > 0:
+    elif score > 0 and not has_negatives:
         level = "中"
+    elif has_negatives:
+        level = "需留意"
     else:
         level = "資訊不足"
         

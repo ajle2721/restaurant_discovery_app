@@ -1,31 +1,30 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "No",
-                             "evidence":  "只是空間不大，桌與桌的間距稍微擁擠。",
-                             "confidence":  0.9
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "No",
-                               "evidence":  "坐在內部用餐，若碰到了喝的儘興的、太嗨的，還真覺得太吵。",
-                               "confidence":  0.9
-                           },
-    "generated_signals":  [
-                              "只是空間不大，桌與桌的間距稍微擁擠。",
-                              "坐在內部用餐，若碰到了喝的儘興的、太嗨的，還真覺得太吵。"
-                          ],
-    "generated_summary":  "該餐廳空間較為擁擠，且因提供酒類飲品，環境可能較為吵雜，較不適合帶小孩前往。",
-    "card_summary":  "該餐廳空間較擁擠且環境較安靜，帶小孩前往需多加留意。",
-    "parent_friendly_score":  0,
-    "parent_friendly_level":  "資訊不足",
-    "reason":  "目前缺乏明確的親子友善資訊"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "室內座位較擁擠",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "在熱鬧的街道華西街裡面",
+        "confidence": 0.9
+    },
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "需留意",
+    "reason": "綜合評估",
+    "generated_signals": [
+        "在熱鬧的街道華西街裡面",
+        "室內座位較擁擠"
+    ],
+    "generated_summary": "評論指出這家餐廳對親子家庭友善，但需留意座位較擁擠/空間偏小。"
 }

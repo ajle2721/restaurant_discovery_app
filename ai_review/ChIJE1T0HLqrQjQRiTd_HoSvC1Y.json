@@ -1,32 +1,27 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "整體用餐環境舒服、餐點美味，以後一定會常來！😌✨",
-                             "confidence":  0.9
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "社區居酒屋很熱絡，有親子，好友，夫妻適合各式各樣的搭檔，沒啥壓力，口味不錯，尤其是串燒類，清酒順口。",
-                               "confidence":  0.9
-                           },
-    "generated_signals":  [
-                              "社區居酒屋很熱絡，有親子，好友，夫妻適合各式各樣的搭檔，沒啥壓力，口味不錯，尤其是串燒類，清酒順口。",
-                              "整體用餐環境舒服、餐點美味，以後一定會常來！😌✨",
-                              "優：氣氛歡樂，用很多古玩具裝潢"
-                          ],
-    "generated_summary":  "餐廳氣氛熱絡且環境舒服，評論提到適合親子同行，店內裝潢包含許多古玩具，氛圍歡樂。",
-    "card_summary":  "餐廳氣氛熱絡且環境舒服，評論提到適合親子同行，店內裝潢包含許多古玩具，氛圍歡樂。",
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "中",
-    "reason":  "空間寬敞、不怕小孩吵"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "綜合評估",
+    "generated_signals": [],
+    "generated_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。"
 }

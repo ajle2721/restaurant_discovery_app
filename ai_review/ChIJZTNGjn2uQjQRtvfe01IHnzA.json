@@ -1,31 +1,29 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "很適合家庭聚餐或朋友帶小孩來放電，小朋友玩到不想走，大人聊天吃漢堡聊整下午也沒問題😂",
-                               "confidence":  0.9
-                           },
-    "generated_signals":  [
-                              "很適合家庭聚餐或朋友帶小孩來放電，小朋友玩到不想走，大人聊天吃漢堡聊整下午也沒問題😂",
-                              "地下室還有快打旋風機台、投籃機、射擊、親子曲棍球🎮 全！部！免！費！玩！"
-                          ],
-    "generated_summary":  "該餐廳設有免費遊戲機台，非常適合家庭聚餐並讓小朋友放電。",
-    "card_summary":  "設有免費遊戲機台，非常適合家庭聚餐並讓小朋友放電。",
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "資訊不足",
-    "reason":  "不怕小孩吵"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "很適合家庭聚餐或朋友帶小孩來放電",
+        "confidence": 0.9
+    },
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "綜合評估",
+    "generated_signals": [
+        "很適合家庭聚餐或朋友帶小孩來放電"
+    ],
+    "generated_summary": "評論指出這家餐廳對親子家庭友善。"
 }

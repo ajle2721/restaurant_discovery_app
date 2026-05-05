@@ -1,31 +1,29 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "No",
-                             "evidence":  "店內空間不大桌距甚窄，如鄰桌聊天音量過大勢必直接影響到用餐心情，但所幸戸外用餐區尚稱寬闊舒適若不想受干擾且天氣許可或可選擇在室外用餐亦是一種不錯的安排。",
-                             "confidence":  0.9
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "幾乎每週都來，適合家庭聚餐，氣氛活絡，服務生也會隨時注意加水，非常棒的餐廳！",
-                               "confidence":  0.9
-                           },
-    "generated_signals":  [
-                              "店內空間不大桌距甚窄",
-                              "幾乎每週都來，適合家庭聚餐，氣氛活絡，服務生也會隨時注意加水，非常棒的餐廳！"
-                          ],
-    "generated_summary":  "餐廳氣氛活絡且適合家庭聚餐，但店內空間較小且桌距較窄，攜帶推車者可能較不便，建議可選擇戶外座位。",
-    "card_summary":  "對小孩聲音較為包容，但空間較擁擠，前往時需多加留意。",
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "資訊不足",
-    "reason":  "不怕小孩吵"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "適合家庭聚餐",
+        "confidence": 0.9
+    },
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "綜合評估",
+    "generated_signals": [
+        "適合家庭聚餐"
+    ],
+    "generated_summary": "評論指出這家餐廳對親子家庭友善。"
 }

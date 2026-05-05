@@ -1,31 +1,27 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "裡面比我想像的大很多，很像一間澳門城堡的外型",
-                             "confidence":  0.9
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "店內座位多、翻桌快，雖然人多時會稍微吵雜，但整體用餐上仍然舒適。",
-                               "confidence":  0.9
-                           },
-    "generated_signals":  [
-                              "裡面比我想像的大很多，很像一間澳門城堡的外型",
-                              "店內座位多、翻桌快，雖然人多時會稍微吵雜，但整體用餐上仍然舒適。"
-                          ],
-    "generated_summary":  "該餐廳空間寬敞且環境較為熱鬧，對於攜帶兒童用餐的家庭來說相對自在，但目前評論中未提及兒童椅或兒童餐點資訊。",
-    "card_summary":  "空間寬敞且環境較為熱鬧。",
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "中",
-    "reason":  "空間寬敞、不怕小孩吵"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "綜合評估",
+    "generated_signals": [],
+    "generated_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。"
 }

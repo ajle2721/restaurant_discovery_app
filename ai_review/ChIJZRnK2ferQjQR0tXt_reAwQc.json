@@ -1,31 +1,27 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "No",
-                             "evidence":  "桌子蠻小的要一直擠出空間放菜餚，有點困擾，限時90分鐘真的就是在吃飯，沒辦法聊太多天。",
-                             "confidence":  0.9
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "店內人聲鼎沸、溫度很高，大家都不想喝湯，1人1杯冰飲。",
-                               "confidence":  0.9
-                           },
-    "generated_signals":  [
-                              "店內人聲鼎沸、溫度很高，大家都不想喝湯，1人1杯冰飲。",
-                              "桌子蠻小的要一直擠出空間放菜餚，有點困擾，限時90分鐘真的就是在吃飯，沒辦法聊太多天。"
-                          ],
-    "generated_summary":  "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary":  "對小孩聲音較為包容，但空間較擁擠，前往時需多加留意。",
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "資訊不足",
-    "reason":  "不怕小孩吵"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "綜合評估",
+    "generated_signals": [],
+    "generated_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。"
 }

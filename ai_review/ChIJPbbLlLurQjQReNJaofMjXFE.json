@@ -1,30 +1,31 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "環境空間寬敞舒適，裝潢帶有泰式市集風格，適合家庭聚餐或朋友聚會。",
-                             "confidence":  0.9
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "環境空間寬敞舒適，裝潢帶有泰式市集風格，適合家庭聚餐或朋友聚會。",
-                               "confidence":  0.9
-                           },
-    "generated_signals":  [
-                              "環境空間寬敞舒適，裝潢帶有泰式市集風格，適合家庭聚餐或朋友聚會。"
-                          ],
-    "generated_summary":  "餐廳環境寬敞舒適且氣氛活絡，適合家庭聚餐。",
-    "card_summary":  "環境寬敞舒適且氣氛活絡，適合家庭聚餐。",
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "中",
-    "reason":  "空間寬敞、不怕小孩吵"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "環境空間寬敞舒適",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "但尖峰時段人多還是有點熱鬧",
+        "confidence": 0.9
+    },
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "綜合評估",
+    "generated_signals": [
+        "但尖峰時段人多還是有點熱鬧",
+        "環境空間寬敞舒適",
+        "適合家庭聚餐或朋友聚會"
+    ],
+    "generated_summary": "評論指出這家餐廳空間寬敞、對親子家庭友善。"
 }

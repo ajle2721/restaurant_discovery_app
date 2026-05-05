@@ -1,34 +1,30 @@
-﻿{
-    " child_seat available":  {
-                                  "evidence":  "User provided info",
-                                  "result":  "Yes",
-                                  "confidence":  1
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "用餐區域蠻寬大的，不會擁擠動線還可以，另外還有類似包廂的地方！",
-                             "confidence":  0.9
-                         },
-    "Kids menu available":  {
-                                "result":  "Yes",
-                                "evidence":  "兒童餐的車車造型小朋友很喜歡（麵包、蛋、炸南瓜、主食）",
-                                "confidence":  0.9
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "舉辦各種親子活動的好地方～提供的食物很好吃，食材也很新鮮，生菜沙拉裡面還有切片的鮑魚，很用心準備的料理。",
-                               "confidence":  0.9
-                           },
-    "generated_signals":  [
-                              "用餐區域蠻寬大的，不會擁擠動線還可以，另外還有類似包廂的地方！",
-                              "桌位不多,位子很寬敞",
-                              "兒童餐的車車造型小朋友很喜歡（麵包、蛋、炸南瓜、主食）",
-                              "舉辦各種親子活動的好地方～提供的食物很好吃，食材也很新鮮，生菜沙拉裡面還有切片的鮑魚，很用心準備的料理。",
-                              "不得不說以親子餐廳來講～這遊樂區很豐富"
-                          ],
-    "generated_summary":  "這是一家設施極為豐富的親子餐廳，提供受歡迎的兒童餐且用餐空間寬敞，非常適合帶小孩參與各類親子活動。",
-    "card_summary":  "這是一家設施極為豐富的親子餐廳，提供受歡迎的兒童餐且用餐空間寬敞。",
-    "parent_friendly_score":  4,
-    "parent_friendly_level":  "高",
-    "reason":  "有兒童椅、有兒童餐、空間寬敞、不怕小孩吵"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "位子很寬敞",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": "兒童餐的車車造型小朋友很喜歡（麵包、蛋、炸南瓜、主食）",
+        "confidence": 0.9
+    },
+    "kid_noise_tolerant": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "綜合評估",
+    "generated_signals": [
+        "位子很寬敞",
+        "兒童餐的車車造型小朋友很喜歡（麵包、蛋、炸南瓜、主食）"
+    ],
+    "generated_summary": "評論指出這家餐廳空間寬敞、有兒童餐點。"
 }

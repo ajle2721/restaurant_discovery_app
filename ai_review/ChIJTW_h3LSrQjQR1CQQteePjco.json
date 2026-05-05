@@ -1,31 +1,30 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "空間寬敞，桌椅高度很適合久坐，插頭充足，而且座位間距離很寬裕。",
-                             "confidence":  0.9
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Unknown",
-                               "evidence":  null,
-                               "confidence":  0.4
-                           },
-    "generated_signals":  [
-                              "空間寬敞，桌椅高度很適合久坐，插頭充足，而且座位間距離很寬裕。",
-                              "座位很多，一樓與地下室兩層不怕沒位置，且座位之間間隔很開舒適不壅擠。"
-                          ],
-    "generated_summary":  "該店空間寬敞且座位間距舒適，但目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary":  "該店空間寬敞且座位間距舒適。",
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "資訊不足",
-    "reason":  "空間寬敞"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "空間寬敞",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "地點位在熱鬧的吳興街巷內",
+        "confidence": 0.9
+    },
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "綜合評估",
+    "generated_signals": [
+        "空間寬敞",
+        "地點位在熱鬧的吳興街巷內"
+    ],
+    "generated_summary": "評論指出這家餐廳空間寬敞、對親子家庭友善。"
 }

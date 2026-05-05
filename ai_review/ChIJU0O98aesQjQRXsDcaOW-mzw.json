@@ -1,32 +1,29 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "餐廳空間寬敞明亮，座位舒適，環境乾淨。",
-                             "confidence":  0.9
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "旁邊展示櫃有可愛的角落生物公仔，滿療癒的，女生或親子客應該會喜歡。",
-                               "confidence":  0.9
-                           },
-    "generated_signals":  [
-                              "餐廳空間寬敞明亮，座位舒適，環境乾淨。",
-                              "旁邊展示櫃有可愛的角落生物公仔，滿療癒的，女生或親子客應該會喜歡。",
-                              "場地寬廣用餐環境好。"
-                          ],
-    "generated_summary":  "該餐廳用餐空間寬敞舒適，且店內設有可愛公仔展示，氛圍適合親子客群前往。",
-    "card_summary":  "用餐空間寬敞舒適，且店內設有可愛公仔展示，氛圍適合親子客群前往。",
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "中",
-    "reason":  "空間寬敞、不怕小孩吵"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "餐廳空間寬敞明亮",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "綜合評估",
+    "generated_signals": [
+        "餐廳空間寬敞明亮"
+    ],
+    "generated_summary": "評論指出這家餐廳空間寬敞。"
 }

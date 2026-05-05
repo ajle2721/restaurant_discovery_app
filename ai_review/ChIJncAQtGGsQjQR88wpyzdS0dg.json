@@ -1,32 +1,29 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "No",
-                             "evidence":  "我們位置本來就小，還一直縮小我們能用餐的範圍，打包的店員一直搖晃我們的餐桌，用餐環境真的很差。",
-                             "confidence":  0.9
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "客人吵雜聲超大。",
-                               "confidence":  0.9
-                           },
-    "generated_signals":  [
-                              "我們位置本來就小，還一直縮小我們能用餐的範圍，打包的店員一直搖晃我們的餐桌，用餐環境真的很差。",
-                              "環境比較擁擠，食物好吃價格不高，服務態度很好，不會因為忙而不耐煩，會再訪。",
-                              "客人吵雜聲超大。"
-                          ],
-    "generated_summary":  "該餐廳環境較為擁擠且用餐空間狹小，但因環境較為吵雜，對於帶小孩的家庭來說可能較無安靜用餐的壓力。",
-    "card_summary":  "對小孩聲音較為包容，但空間較擁擠，前往時需多加留意。",
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "資訊不足",
-    "reason":  "不怕小孩吵"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "環境比較擁擠",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "需留意",
+    "reason": "綜合評估",
+    "generated_signals": [
+        "環境比較擁擠"
+    ],
+    "generated_summary": "但需留意座位較擁擠/空間偏小。"
 }
