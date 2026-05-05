@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,12 +19,12 @@
                                "evidence":  null,
                                "confidence":  0.4
                            },
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "Medium",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "店內環境乾淨又有設計感，燈光柔和、位置寬敞，一個人來吃也不會尷尬。"
                           ],
     "generated_summary":  "店內環境寬敞舒適且具設計感，但目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary":  "店內環境寬敞舒適且具設計感。"
+    "card_summary":  "店內環境寬敞舒適且具設計感。",
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "空間寬敞"
 }

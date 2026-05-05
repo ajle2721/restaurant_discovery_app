@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,12 +19,12 @@
                                "evidence":  null,
                                "confidence":  0.4
                            },
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "Medium",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "今天是生日來信義店用餐，因爲環境舒適、場地寬敞，店內服務人員親切、主動認真，特別是Carina，落座一會兒便來詢問是否點餐？"
                           ],
     "generated_summary":  "該餐廳環境舒適且場地寬敞，適合家庭聚餐，但目前評論中較少提及兒童椅或兒童餐等具體親子設施資訊。",
-    "card_summary":  "環境舒適，是可以考慮的親子聚餐地點。"
+    "card_summary":  "環境舒適，是可以考慮的親子聚餐地點。",
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "空間寬敞"
 }

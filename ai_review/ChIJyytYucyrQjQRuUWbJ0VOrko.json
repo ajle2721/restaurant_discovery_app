@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,14 +19,14 @@
                                "evidence":  "入店後覺得很嘈雜，又暗位子又小。",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  -2,
-    "parent_friendly_level":  "Needs Attention",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "店內燈光昏暗，座位擁擠。",
                               "入店後覺得很嘈雜，又暗位子又小。",
                               "跟桌距很近以外其他都是很好的體驗。"
                           ],
     "generated_summary":  "該餐廳空間較為擁擠且環境嘈雜，目前評論中未提及兒童座椅或兒童餐等親子友善設施，較適合情侶或成人聚餐。",
-    "card_summary":  "該餐廳空間較擁擠且環境較安靜，帶小孩前往需多加留意。"
+    "card_summary":  "該餐廳空間較擁擠且環境較安靜，帶小孩前往需多加留意。",
+    "parent_friendly_score":  0,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "目前缺乏明確的親子友善資訊"
 }

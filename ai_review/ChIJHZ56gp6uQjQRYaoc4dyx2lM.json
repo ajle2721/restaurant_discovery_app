@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,12 +19,12 @@
                                "evidence":  "很適合家庭聚會或是跟親朋好友來吃",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "Medium",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "很適合家庭聚會或是跟親朋好友來吃"
                           ],
     "generated_summary":  "該餐廳氛圍適合家庭聚會，但目前評論中較少提及兒童座椅、兒童餐或空間大小等具體親子設施資訊，建議前往前可先向店家確認。",
-    "card_summary":  "環境舒適，是可以考慮的親子聚餐地點。"
+    "card_summary":  "環境舒適，是可以考慮的親子聚餐地點。",
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "不怕小孩吵"
 }

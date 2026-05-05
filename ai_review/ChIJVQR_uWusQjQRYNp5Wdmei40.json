@@ -1,8 +1,8 @@
-{
+﻿{
     " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
+                                  "evidence":  "User provided info",
+                                  "result":  "Yes",
+                                  "confidence":  1
                               },
     "Spacious seating":  {
                              "result":  "Yes",
@@ -10,22 +10,22 @@
                              "confidence":  0.9
                          },
     "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
+                                "evidence":  "User provided info",
+                                "result":  "Yes",
+                                "confidence":  1
                             },
     "kid_noise_tolerant":  {
                                "result":  "Yes",
                                "evidence":  "環境小巧舒適，人員和善，很適合有小孩的朋友們，也可慶生、抓周、各式不同的活動。",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "Medium",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "我原本有一點擔心遊戲區不夠大，但小朋友們在B1、一樓、前院遊走，都玩得很開心，也不會擁擠。",
                               "環境小巧舒適，人員和善，很適合有小孩的朋友們，也可慶生、抓周、各式不同的活動。"
                           ],
     "generated_summary":  "該餐廳非常適合舉辦親子活動，環境溫馨且空間規劃良好，讓孩子們能自在遊玩，且工作人員對親子客群相當友善。",
-    "card_summary":  "非常適合舉辦親子活動，環境溫馨且空間規劃良好，讓孩子們能自在遊玩。"
+    "card_summary":  "非常適合舉辦親子活動，環境溫馨且空間規劃良好，讓孩子們能自在遊玩。",
+    "parent_friendly_score":  4,
+    "parent_friendly_level":  "高",
+    "reason":  "有兒童椅、有兒童餐、空間寬敞、不怕小孩吵"
 }

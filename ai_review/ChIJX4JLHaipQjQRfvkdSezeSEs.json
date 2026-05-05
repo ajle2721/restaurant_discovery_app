@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,12 +19,12 @@
                                "evidence":  "沒想到，店裡的員工和老闆對小朋友都超級友善、非常有耐心，讓身為家長的我們感到非常窩心和放鬆。",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "Medium",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "沒想到，店裡的員工和老闆對小朋友都超級友善、非常有耐心，讓身為家長的我們感到非常窩心和放鬆。"
                           ],
     "generated_summary":  "店家對親子客群非常友善，員工與老闆對小朋友極具耐心，讓家長能感到放鬆與溫暖。",
-    "card_summary":  "店家對親子客群非常友善，員工與老闆對小朋友極具耐心，讓家長能感到放鬆與溫暖。"
+    "card_summary":  "店家對親子客群非常友善，員工與老闆對小朋友極具耐心，讓家長能感到放鬆與溫暖。",
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "不怕小孩吵"
 }

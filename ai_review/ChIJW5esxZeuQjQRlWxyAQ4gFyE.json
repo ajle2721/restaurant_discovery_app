@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,13 +19,13 @@
                                "evidence":  "門口那種台式小館特有的熱鬧氣味，走進去就知道是會吃得很滿足的那種地方。",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  0,
-    "parent_friendly_level":  "Needs Attention",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "門口那種台式小館特有的熱鬧氣味，走進去就知道是會吃得很滿足的那種地方。",
                               "今天我們點了10多道菜，菜很多，小桌子放不下，想換個稍大的桌子，姊說「你們吃快點就好了」。"
                           ],
     "generated_summary":  "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary":  "對小孩聲音較為包容，但空間較擁擠，前往時需多加留意。"
+    "card_summary":  "對小孩聲音較為包容，但空間較擁擠，前往時需多加留意。",
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "不怕小孩吵"
 }

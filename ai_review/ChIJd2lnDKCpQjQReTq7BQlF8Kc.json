@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,14 +19,14 @@
                                "evidence":  "現場真的偏吵雜",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "High",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "因為有小朋友所以點了兒童餐，有機會的話希望能調降炸物的比例，畢竟小朋友吃炸物不太好",
                               "現場真的偏吵雜",
                               "每年春節都會來這聚餐，表現都有一定的水準"
                           ],
     "generated_summary":  "店內提供兒童餐，且環境氣氛較為熱鬧，適合家庭聚餐。",
-    "card_summary":  "店內提供兒童餐，且環境氣氛較為熱鬧，適合家庭聚餐。"
+    "card_summary":  "店內提供兒童餐，且環境氣氛較為熱鬧，適合家庭聚餐。",
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "中",
+    "reason":  "有兒童餐、不怕小孩吵"
 }

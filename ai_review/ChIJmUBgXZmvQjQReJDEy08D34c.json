@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,13 +19,13 @@
                                "evidence":  "在那些細碎的家族交談與笑聲中，菜餚一道道上桌。",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "Medium",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "大小包間裡很舒服且沒有一望無際的人海感。",
                               "在那些細碎的家族交談與笑聲中，菜餚一道道上桌。"
                           ],
     "generated_summary":  "餐廳環境舒適寬敞，且適合家庭聚餐，氛圍輕鬆自在。",
-    "card_summary":  "環境舒適寬敞，且適合家庭聚餐，氛圍輕鬆自在。"
+    "card_summary":  "環境舒適寬敞，且適合家庭聚餐，氛圍輕鬆自在。",
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "中",
+    "reason":  "空間寬敞、不怕小孩吵"
 }

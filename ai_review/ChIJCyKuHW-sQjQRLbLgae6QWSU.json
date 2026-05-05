@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,13 +19,13 @@
                                "evidence":  "兒童慶生還有特別的佈置與蛋糕，真的很用心～",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "Medium",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "兒童慶生還有特別的佈置與蛋糕，真的很用心～",
                               "適合聚餐，寵物友善的環境。"
                           ],
     "generated_summary":  "餐廳對兒童慶生非常用心，提供特別的佈置與蛋糕，且環境適合聚餐。",
-    "card_summary":  "餐廳對兒童慶生非常用心，提供特別的佈置與蛋糕，且環境適合聚餐。"
+    "card_summary":  "餐廳對兒童慶生非常用心，提供特別的佈置與蛋糕，且環境適合聚餐。",
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "不怕小孩吵"
 }

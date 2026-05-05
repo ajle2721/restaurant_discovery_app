@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,14 +19,14 @@
                                "evidence":  "拿到麵要離開時店裡的小朋友還特別跟我說byebye實在太可愛了😍",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "Medium",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "拿到麵要離開時店裡的小朋友還特別跟我說byebye實在太可愛了😍",
                               "一間溫馨的小店。",
                               "牆壁看似可以隨意塗鴉，蠻有趣的"
                           ],
     "generated_summary":  "店內氛圍溫馨且有小朋友互動，環境對親子相對友善。",
-    "card_summary":  "店內氛圍溫馨且有小朋友互動，環境對親子相對友善。"
+    "card_summary":  "店內氛圍溫馨且有小朋友互動，環境對親子相對友善。",
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "不怕小孩吵"
 }

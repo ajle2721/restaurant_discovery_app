@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,13 +19,13 @@
                                "evidence":  "今天跟朋友約好帶小孩聚餐來吃韓式，剛好也有小包廂，感覺慶生也很適合😆",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "Medium",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "今天跟朋友約好帶小孩聚餐來吃韓式，剛好也有小包廂，感覺慶生也很適合😆",
                               "小孩的矽膠湯匙請要定期更換，沒洗乾淨日積月累都會卡食物汙垢，藍色矽膠湯匙周圍都是辣醬的顏色。"
                           ],
     "generated_summary":  "店內設有包廂空間，適合親子聚餐或慶生，但有評論指出兒童餐具的清潔狀況需加強。",
-    "card_summary":  "環境舒適，是可以考慮的親子聚餐地點。"
+    "card_summary":  "環境舒適，是可以考慮的親子聚餐地點。",
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "不怕小孩吵"
 }

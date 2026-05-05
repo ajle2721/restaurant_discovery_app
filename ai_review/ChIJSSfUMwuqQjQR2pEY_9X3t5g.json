@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,12 +19,12 @@
                                "evidence":  null,
                                "confidence":  0.4
                            },
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "Medium",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "餐廳寬敞乾淨，女老闆客氣，長得很像韓國人，它的韓式小菜約有20種，自助式隨意吃，僅試了一種海帶芽，有點酸蠻甜的。"
                           ],
     "generated_summary":  "餐廳環境寬敞舒適，目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary":  "環境舒適，是可以考慮的親子聚餐地點。"
+    "card_summary":  "環境舒適，是可以考慮的親子聚餐地點。",
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "空間寬敞"
 }

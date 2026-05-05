@@ -1,13 +1,13 @@
-{
+﻿{
     " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
+                                  "evidence":  "User provided info",
+                                  "result":  "Yes",
+                                  "confidence":  1
                               },
     "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
+                             "evidence":  "User provided info",
+                             "result":  "Yes",
+                             "confidence":  1
                          },
     "Kids menu available":  {
                                 "result":  "Yes",
@@ -19,13 +19,13 @@
                                "evidence":  "親子餐廳類型，會稍微「熱鬧」，不過佈置不錯，相當不錯的甲蟲餐廳，週末常客滿記得提早訂位",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "High",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "親子餐廳類型，會稍微「熱鬧」，不過佈置不錯，相當不錯的甲蟲餐廳，週末常客滿記得提早訂位",
                               "兒童餐覺得實在是太迷你價錢偏高，直接點大人餐點比較划算，小孩光顧著玩什麼都覺得好吃😄"
                           ],
     "generated_summary":  "這是一間親子友善的甲蟲主題餐廳，環境熱鬧且設有兒童餐與遊戲區，非常適合帶小孩前往體驗。",
-    "card_summary":  "這是一間親子友善的甲蟲主題餐廳，環境熱鬧且設有兒童餐與遊戲區，非常適合帶小孩前往體驗。"
+    "card_summary":  "這是一間親子友善的甲蟲主題餐廳，環境熱鬧且設有兒童餐與遊戲區，非常適合帶小孩前往體驗。",
+    "parent_friendly_score":  4,
+    "parent_friendly_level":  "高",
+    "reason":  "有兒童椅、有兒童餐、空間寬敞、不怕小孩吵"
 }

@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,13 +19,13 @@
                                "evidence":  "餐點好吃，小朋友和大人都吃得很高興，有機會一定會再回來吃，拉麵還可加麵，內用還有免費的飲料，Google評價還送可麗餅，真的是太棒了😊",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "Medium",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "用餐環境乾淨、舒適、空間大，重點是剛好今天吃素，老闆也很親切的幫我做成素烏醋麵，就已經很好吃了！",
                               "餐點好吃，小朋友和大人都吃得很高興，有機會一定會再回來吃，拉麵還可加麵，內用還有免費的飲料，Google評價還送可麗餅，真的是太棒了😊"
                           ],
     "generated_summary":  "餐廳環境寬敞舒適，且對親子家庭友善，適合帶小朋友一同前往用餐。",
-    "card_summary":  "環境寬敞舒適，且對親子家庭友善，適合帶小朋友一同前往用餐。"
+    "card_summary":  "環境寬敞舒適，且對親子家庭友善，適合帶小朋友一同前往用餐。",
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "中",
+    "reason":  "空間寬敞、不怕小孩吵"
 }

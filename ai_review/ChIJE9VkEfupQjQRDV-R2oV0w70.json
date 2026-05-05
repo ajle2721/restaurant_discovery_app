@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,13 +19,13 @@
                                "evidence":  "非尖峰時段來用餐，環境安靜、座位間不壓迫，一個人吃鍋也能很放鬆。",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  0,
-    "parent_friendly_level":  "Needs Attention",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "非尖峰時段來用餐，環境安靜、座位間不壓迫，一個人吃鍋也能很放鬆。",
                               "用餐環境乾淨，味道也ok，所以還是很不錯。"
                           ],
     "generated_summary":  "餐廳環境乾淨且座位間距不壓迫，但評論提到環境較為安靜，且目前未有關於兒童椅或兒童餐的具體資訊。",
-    "card_summary":  "空間較寬敞，但環境較安靜，前往時需多加留意。"
+    "card_summary":  "空間較寬敞，但環境較安靜，前往時需多加留意。",
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "空間寬敞"
 }

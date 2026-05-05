@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,12 +19,12 @@
                                "evidence":  "用餐空間乾淨舒適，氣氛安靜不吵雜，適合朋友聚餐、情侶約會，或想好好吃一頓飯的時候。",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  -1,
-    "parent_friendly_level":  "Needs Attention",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "用餐空間乾淨舒適，氣氛安靜不吵雜，適合朋友聚餐、情侶約會，或想好好吃一頓飯的時候。"
                           ],
     "generated_summary":  "根據評論顯示，該餐廳環境較安靜，帶小孩前往需多加留意。",
-    "card_summary":  "該餐廳環境較安靜，帶小孩前往需多加留意。"
+    "card_summary":  "該餐廳環境較安靜，帶小孩前往需多加留意。",
+    "parent_friendly_score":  0,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "目前缺乏明確的親子友善資訊"
 }

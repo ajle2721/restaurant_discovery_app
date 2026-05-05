@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,14 +19,14 @@
                                "evidence":  "整體餐點符合期待，分享量恰恰好，雞肉的口感佳，孩子也吃的開心！",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  0,
-    "parent_friendly_level":  "Needs Attention",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "整體餐點符合期待，分享量恰恰好，雞肉的口感佳，孩子也吃的開心！",
                               "捷運1號出口走道旁的小店，要收10%清潔費，但原本的餐點費用在環球內也算低價位，重點是很好吃！！！",
                               "明明是美食街店，也不是真的坐在店內，是坐在店門口的走道上，只是店員會幫忙送餐上桌，就會算是內用，要加收10%服務費。"
                           ],
     "generated_summary":  "餐點口味受孩子喜愛，但店面空間較小且位於走道旁，座位環境相對受限。",
-    "card_summary":  "對小孩聲音較為包容，但空間較擁擠，前往時需多加留意。"
+    "card_summary":  "對小孩聲音較為包容，但空間較擁擠，前往時需多加留意。",
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "不怕小孩吵"
 }

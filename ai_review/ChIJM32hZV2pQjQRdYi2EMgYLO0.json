@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,13 +19,13 @@
                                "evidence":  "裝潢為工作室形式，一開始經過還有點不太敢推門進去哈",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  -2,
-    "parent_friendly_level":  "Needs Attention",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "只有兩桌，地方很小主廚一位",
                               "裝潢為工作室形式，一開始經過還有點不太敢推門進去哈"
                           ],
     "generated_summary":  "根據評論顯示，該餐廳空間較擁擠、環境較安靜，帶小孩前往需多加留意。",
-    "card_summary":  "該餐廳空間較擁擠且環境較安靜，帶小孩前往需多加留意。"
+    "card_summary":  "該餐廳空間較擁擠且環境較安靜，帶小孩前往需多加留意。",
+    "parent_friendly_score":  0,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "目前缺乏明確的親子友善資訊"
 }

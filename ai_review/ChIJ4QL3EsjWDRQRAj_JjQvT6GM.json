@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,13 +19,13 @@
                                "evidence":  "整體是我很喜歡的木質裝潢，氣氛很溫馨安靜，座位大多有插座，很適合久坐工作。",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  0,
-    "parent_friendly_level":  "Needs Attention",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "空間很大舒服乾淨整潔",
                               "整體是我很喜歡的木質裝潢，氣氛很溫馨安靜，座位大多有插座，很適合久坐工作。"
                           ],
     "generated_summary":  "店內空間寬敞且乾淨整潔，但環境氣氛較為安靜，適合久坐工作，可能較不適合怕吵鬧的親子客群。",
-    "card_summary":  "空間較寬敞，但環境較安靜，前往時需多加留意。"
+    "card_summary":  "空間較寬敞，但環境較安靜，前往時需多加留意。",
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "空間寬敞"
 }

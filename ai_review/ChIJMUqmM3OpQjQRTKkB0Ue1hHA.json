@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,12 +19,12 @@
                                "evidence":  "整體上還不錯. 氛圍很熱鬧. 用餐年齡層也很廣.",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "Medium",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "整體上還不錯. 氛圍很熱鬧. 用餐年齡層也很廣."
                           ],
     "generated_summary":  "餐廳氛圍熱鬧且客群年齡層廣，適合家庭聚餐，但目前評論中未提及兒童座椅、空間大小及兒童餐點等具體親子設施資訊。",
-    "card_summary":  "餐廳氛圍熱鬧且客群年齡層廣。"
+    "card_summary":  "餐廳氛圍熱鬧且客群年齡層廣。",
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "不怕小孩吵"
 }

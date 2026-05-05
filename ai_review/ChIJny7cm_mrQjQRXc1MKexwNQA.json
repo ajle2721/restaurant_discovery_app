@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,13 +19,13 @@
                                "evidence":  "演唱都很會帶氣氛，觀眾氛圍也都挺嗨！",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "Medium",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "空間寬敞、座位舒適、氛圍拉滿、菜式豐富、是味覺加上聽覺雙重享受放鬆好地方！",
                               "演唱都很會帶氣氛，觀眾氛圍也都挺嗨！"
                           ],
     "generated_summary":  "該餐廳空間寬敞且座位舒適，現場演唱氣氛熱鬧，適合聚餐。",
-    "card_summary":  "空間寬敞且座位舒適，現場演唱氣氛熱鬧，適合聚餐。"
+    "card_summary":  "空間寬敞且座位舒適，現場演唱氣氛熱鬧，適合聚餐。",
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "中",
+    "reason":  "空間寬敞、不怕小孩吵"
 }

@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,14 +19,14 @@
                                "evidence":  "店內滿席有點吵，整個空間回音大，不確定這種有點鬧烘烘的氛圍是不是店家想呈現的？",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  -2,
-    "parent_friendly_level":  "Needs Attention",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "桌距窄，店內滿席有點吵。",
                               "店內空間不大，但桌數並不算少，所以桌距滿近的，整個空間回音大。",
                               "用餐的小空間中座位卻可坐滿近三十人，稍顯壓迫。"
                           ],
     "generated_summary":  "根據評論顯示，該餐廳空間較擁擠、環境較安靜，帶小孩前往需多加留意。",
-    "card_summary":  "該餐廳空間較擁擠且環境較安靜，帶小孩前往需多加留意。"
+    "card_summary":  "該餐廳空間較擁擠且環境較安靜，帶小孩前往需多加留意。",
+    "parent_friendly_score":  0,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "目前缺乏明確的親子友善資訊"
 }

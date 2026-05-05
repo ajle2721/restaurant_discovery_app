@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,13 +19,13 @@
                                "evidence":  null,
                                "confidence":  0.4
                            },
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "Medium",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "環境是好的 桌距夠大 靠西邊區域有窗戶可以看到外面 環境算明亮",
                               "座位之間距離足夠不會太擁擠"
                           ],
     "generated_summary":  "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。餐廳環境寬敞舒適，桌距足夠。",
-    "card_summary":  "環境舒適，是可以考慮的親子聚餐地點。"
+    "card_summary":  "環境舒適，是可以考慮的親子聚餐地點。",
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "空間寬敞"
 }

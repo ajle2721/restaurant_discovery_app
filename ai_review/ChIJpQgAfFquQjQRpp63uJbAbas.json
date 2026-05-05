@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,12 +19,12 @@
                                "evidence":  null,
                                "confidence":  0.4
                            },
-    "parent_friendly_score":  -1,
-    "parent_friendly_level":  "Needs Attention",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "🎊🎊很棒的地方，雖然窄小一點，坐吧台跟料理區域沒有隔板，所以很熱，臉不是喝出來的紅，是料理區域熱氣讓臉紅燙感🤭🤭。"
                           ],
     "generated_summary":  "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary":  "該餐廳空間較擁擠，帶小孩前往需多加留意。"
+    "card_summary":  "該餐廳空間較擁擠，帶小孩前往需多加留意。",
+    "parent_friendly_score":  0,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "目前缺乏明確的親子友善資訊"
 }

@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,13 +19,13 @@
                                "evidence":  "店內空間關係顯得很吵雜（但也沒辦法），很看旁邊的客人如何。",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  -2,
-    "parent_friendly_level":  "Needs Attention",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "店內空間關係顯得很吵雜（但也沒辦法）",
                               "店內空間關係顯得很吵雜（但也沒辦法），很看旁邊的客人如何。"
                           ],
     "generated_summary":  "店內座位較少且空間較為擁擠，環境較為吵雜，目前評論中未提及兒童相關設施或餐點。",
-    "card_summary":  "該餐廳空間較擁擠且環境較安靜，帶小孩前往需多加留意。"
+    "card_summary":  "該餐廳空間較擁擠且環境較安靜，帶小孩前往需多加留意。",
+    "parent_friendly_score":  0,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "目前缺乏明確的親子友善資訊"
 }

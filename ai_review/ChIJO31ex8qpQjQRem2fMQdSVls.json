@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,12 +19,12 @@
                                "evidence":  null,
                                "confidence":  0.4
                            },
-    "parent_friendly_score":  -1,
-    "parent_friendly_level":  "Needs Attention",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "不過，座位配置真的比較緊湊一點，然後用餐時間跟低消都有規定，去之前要先注意一下時間安排。"
                           ],
     "generated_summary":  "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary":  "該餐廳空間較擁擠，帶小孩前往需多加留意。"
+    "card_summary":  "該餐廳空間較擁擠，帶小孩前往需多加留意。",
+    "parent_friendly_score":  0,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "目前缺乏明確的親子友善資訊"
 }

@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "No",
                                   "evidence":  "沒有提供兒童座椅💺，有嬰幼兒的話，建議先打電話詢問店家。",
@@ -19,13 +19,13 @@
                                "evidence":  null,
                                "confidence":  0.4
                            },
-    "parent_friendly_score":  -2,
-    "parent_friendly_level":  "Needs Attention",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "小小的店，氣氛很好。就是座位間很近。",
                               "沒有提供兒童座椅💺，有嬰幼兒的話，建議先打電話詢問店家。"
                           ],
     "generated_summary":  "該店空間較為狹小且座位間距近，且明確表示未提供兒童座椅，建議攜帶嬰幼兒的家長先行致電確認。",
-    "card_summary":  "該餐廳未提供兒童椅且空間較擁擠，帶小孩前往需多加留意。"
+    "card_summary":  "該餐廳未提供兒童椅且空間較擁擠，帶小孩前往需多加留意。",
+    "parent_friendly_score":  0,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "目前缺乏明確的親子友善資訊"
 }

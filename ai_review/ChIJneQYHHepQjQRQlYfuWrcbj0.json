@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,12 +19,12 @@
                                "evidence":  "湯沒有很燙，看起來很像很辣但不會辣，小孩也可以吃。",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "Medium",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "湯沒有很燙，看起來很像很辣但不會辣，小孩也可以吃。"
                           ],
     "generated_summary":  "店內餐點口味較溫和，評論提及牛肉麵湯頭小孩也可以食用。",
-    "card_summary":  "店內餐點口味較溫和，評論提及牛肉麵湯頭小孩也可以食用。"
+    "card_summary":  "店內餐點口味較溫和，評論提及牛肉麵湯頭小孩也可以食用。",
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "不怕小孩吵"
 }

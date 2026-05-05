@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,13 +19,13 @@
                                "evidence":  "二樓有一整排的靠窗座位可以使用插座，彷彿來到K書中心，大家都很安靜的使用筆電或看書，很喜歡的氛圍。",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  0,
-    "parent_friendly_level":  "Needs Attention",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "沒有上去二樓 但一樓很寬敞 環境也很好 是會一直拜訪的咖啡店 😚",
                               "二樓有一整排的靠窗座位可以使用插座，彷彿來到K書中心，大家都很安靜的使用筆電或看書，很喜歡的氛圍。"
                           ],
     "generated_summary":  "店內一樓空間寬敞，但二樓環境較為安靜，多為讀書或使用筆電的顧客，可能較不適合攜帶幼童。",
-    "card_summary":  "空間較寬敞，但環境較安靜，前往時需多加留意。"
+    "card_summary":  "空間較寬敞，但環境較安靜，前往時需多加留意。",
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "空間寬敞"
 }

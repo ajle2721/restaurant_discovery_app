@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Yes",
                                   "evidence":  "很不錯的地方，兒童座椅空間也不會影響到別桌。",
@@ -19,13 +19,13 @@
                                "evidence":  null,
                                "confidence":  0.4
                            },
-    "parent_friendly_score":  0,
-    "parent_friendly_level":  "Needs Attention",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "很不錯的地方，兒童座椅空間也不會影響到別桌。",
                               "桌距比較近。"
                           ],
     "generated_summary":  "餐廳提供兒童座椅，但店內桌距較近，空間感較為擁擠。",
-    "card_summary":  "設有兒童椅，但空間較擁擠，前往時需多加留意。"
+    "card_summary":  "設有兒童椅，但空間較擁擠，前往時需多加留意。",
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "有兒童椅"
 }

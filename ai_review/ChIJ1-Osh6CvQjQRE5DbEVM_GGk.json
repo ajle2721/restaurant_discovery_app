@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,9 +19,6 @@
                                "evidence":  "如果你喜歡安靜又帶點文藝氛圍的空間，Luguo Cafe / Z Space 絕對值得收藏，無論是來工作、閱讀，還是單純想好好享受一份甜點與咖啡的午後時光，都能在這裡找到屬於自己的節奏。",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  -1,
-    "parent_friendly_level":  "Needs Attention",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "很安靜餐點都有給學生的優惠",
                               "瞬間回神發現這裡增添一份寧謐，遠離塵囂的感覺，是多麼悠閒自得！",
@@ -30,5 +27,8 @@
                               "無論是想一個人靜靜地享受咖啡，或是與朋友輕聲交談，這裡都是一個很適合的空間。"
                           ],
     "generated_summary":  "評論中提及餐廳環境安靜、寧謐，適合一個人閱讀或輕聲交談，可能不太適合帶小孩。",
-    "card_summary":  "該餐廳環境較安靜，帶小孩前往需多加留意。"
+    "card_summary":  "該餐廳環境較安靜，帶小孩前往需多加留意。",
+    "parent_friendly_score":  0,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "目前缺乏明確的親子友善資訊"
 }

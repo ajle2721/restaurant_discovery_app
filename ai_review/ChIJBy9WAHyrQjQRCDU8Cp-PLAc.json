@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,9 +19,6 @@
                                "evidence":  "很難得有親子友善的咖啡廳。",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "High",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "感謝老闆願意提供親子空間，遊戲區讓孩子可以放電一下，老闆娘也親切有禮。",
                               "小朋友很喜歡店內的玩具，店內的玩具感覺是很用心挑選的，都是木頭材質，而且可以發揮創意的。",
@@ -30,5 +27,8 @@
                               "我點了寶寶餐來吃，漢堡排很多汁！茄汁飯也很夠味～"
                           ],
     "generated_summary":  "這是一家設有遊戲區的親子友善咖啡廳，提供寶寶餐且玩具質感佳，非常適合帶小孩前往放電。",
-    "card_summary":  "這是一家設有遊戲區的親子友善咖啡廳，提供寶寶餐且玩具質感佳，非常適合帶小孩前往放電。"
+    "card_summary":  "這是一家設有遊戲區的親子友善咖啡廳，提供寶寶餐且玩具質感佳，非常適合帶小孩前往放電。",
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "中",
+    "reason":  "有兒童餐、不怕小孩吵"
 }

@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,9 +19,6 @@
                                "evidence":  "也滿適合親子的唷，小孩很愛2樓及3樓的球池區，玩到不想走😆",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "Medium",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "也滿適合親子的唷，小孩很愛2樓及3樓的球池區，玩到不想走😆",
                               "3樓較寬敞，採光很美，走時尚網美裝潢，鮮明活潑的黃色搭配白黑色系，角落還有網美牆浴缸球池，多款表情便便抱枕滿逗趣",
@@ -30,5 +27,8 @@
                               "店內雖像親子餐廳卻沒有提供兒童餐具,小朋友只能給個咖啡用湯匙😔"
                           ],
     "generated_summary":  "餐廳設有球池供小朋友玩耍，環境對親子友善且空間寬敞，但評論提到未提供兒童餐具，建議家長可自行準備。",
-    "card_summary":  "餐廳設有球池供小朋友玩耍。"
+    "card_summary":  "餐廳設有球池供小朋友玩耍。",
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "中",
+    "reason":  "空間寬敞、不怕小孩吵"
 }

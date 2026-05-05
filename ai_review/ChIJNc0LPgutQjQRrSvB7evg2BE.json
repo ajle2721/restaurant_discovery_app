@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,9 +19,6 @@
                                "evidence":  null,
                                "confidence":  0.4
                            },
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "Medium",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "島語的早餐環境挑高寬敞，採光極佳，用餐氛圍從容優雅。",
                               "餐廳裝潢亮麗，座位寬敞且走道預留充足，拿菜動線流暢。",
@@ -29,5 +26,8 @@
                               "環境很乾淨寬敞，路上有兩個洗手台。"
                           ],
     "generated_summary":  "餐廳環境寬敞舒適，動線規劃良好，但目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary":  "環境舒適，是可以考慮的親子聚餐地點。"
+    "card_summary":  "環境舒適，是可以考慮的親子聚餐地點。",
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "空間寬敞"
 }

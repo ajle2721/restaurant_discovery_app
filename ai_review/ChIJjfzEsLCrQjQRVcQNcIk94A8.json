@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,14 +19,14 @@
                                "evidence":  "右手邊還有專為孩子打造的兒童專區，這點真的解決了許多爸媽想好好吃頓飯的痛點，對家庭客來說非常加分。",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "Medium",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "右手邊還有專為孩子打造的兒童專區，這點真的解決了許多爸媽想好好吃頓飯的痛點，對家庭客來說非常加分。",
                               "動線安排不擁擠，即使人潮多，取餐時還算順暢。",
                               "整體來說，環境舒適、分區清楚、甜點與冰品表現優秀、對親子家庭友善。"
                           ],
     "generated_summary":  "該餐廳設有專屬兒童區域，對家庭客相當友善，且整體動線規劃良好，即使人潮眾多也能保持取餐順暢。",
-    "card_summary":  "設有專屬兒童區域，對家庭客相當友善，且整體動線規劃良好，即使人潮眾多也能保持取餐順暢。"
+    "card_summary":  "設有專屬兒童區域，對家庭客相當友善，且整體動線規劃良好，即使人潮眾多也能保持取餐順暢。",
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "中",
+    "reason":  "空間寬敞、不怕小孩吵"
 }

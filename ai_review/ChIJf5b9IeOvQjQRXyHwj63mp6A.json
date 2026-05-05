@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,14 +19,14 @@
                                "evidence":  "這裡不管是朋友聚餐、家庭聚會，甚至一個人想吃好一點的料理都很適合。",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "Medium",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "室內空間寬闊",
                               "進來餐廳裡面蠻寬敞， 每桌都會給一個專用水壺和水杯， 一般外面的餐廳 水喝起來都有怪味 他們的水 還不錯喝 沒有怪味。",
                               "這裡不管是朋友聚餐、家庭聚會，甚至一個人想吃好一點的料理都很適合。"
                           ],
     "generated_summary":  "餐廳室內空間寬闊舒適，且氛圍適合家庭聚會，是帶小孩用餐的友善選擇。",
-    "card_summary":  "餐廳室內空間寬闊舒適，且氛圍適合家庭聚會，是帶小孩用餐的友善選擇。"
+    "card_summary":  "餐廳室內空間寬闊舒適，且氛圍適合家庭聚會，是帶小孩用餐的友善選擇。",
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "中",
+    "reason":  "空間寬敞、不怕小孩吵"
 }

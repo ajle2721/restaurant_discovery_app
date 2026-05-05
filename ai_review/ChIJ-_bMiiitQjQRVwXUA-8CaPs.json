@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Yes",
                                   "evidence":  "沒想到店員非常友善！幫我們準備嬰兒座椅及兒童碗盤",
@@ -19,9 +19,6 @@
                                "evidence":  "整體氣氛很熱鬧，服務也不錯，生日聚餐來這裡真的超適合，吃得開心又有活動感，湯頭、食材和活動都讓人印象深刻，下次還想再帶朋友來慶祝！",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "High",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "沒想到店員非常友善！幫我們準備嬰兒座椅及兒童碗盤",
                               "整體氣氛很熱鬧",
@@ -30,5 +27,8 @@
                               "孩子點了紅茶奶蓋，順口不膩"
                           ],
     "generated_summary":  "店家提供嬰兒座椅，且氣氛熱鬧適合親子用餐，餐點中也有適合兒童的選項。",
-    "card_summary":  "店家提供嬰兒座椅，且氣氛熱鬧適合親子用餐，餐點中也有適合兒童的選項。"
+    "card_summary":  "店家提供嬰兒座椅，且氣氛熱鬧適合親子用餐，餐點中也有適合兒童的選項。",
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "中",
+    "reason":  "有兒童椅、不怕小孩吵"
 }

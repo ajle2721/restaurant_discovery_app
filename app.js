@@ -39,6 +39,37 @@ const levelLabels = {
     '資訊不足': '❓ 資訊較少'
 };
 
+function getPFSummaryTags(res) {
+    const level = res.parent_friendly_level;
+    const isPositive = (level === 'High' || level === '高' || level === 'Medium' || level === '中');
+    const isWarning = (level === 'Needs Attention' || level === '需留意');
+    
+    let tags = [];
+    if (res.attributes) {
+        if (isPositive) {
+            if (res.attributes.spacious_seating === 'yes') tags.push('空間寬敞');
+            if (res.attributes.kid_noise_tolerant === 'yes') tags.push('不怕吵');
+            if (res.attributes.high_chair_available === 'yes') tags.push('兒童椅');
+            if (res.attributes.kids_menu === 'yes') tags.push('兒童餐');
+        } else if (isWarning) {
+            if (res.attributes.spacious_seating === 'no') tags.push('空間可能較擁擠');
+            if (res.attributes.kid_noise_tolerant === 'no') tags.push('環境可能偏安靜');
+            if (res.attributes.high_chair_available === 'no') tags.push('可能無兒童椅');
+            if (res.attributes.kids_menu === 'no') tags.push('可能無兒童餐');
+        }
+    }
+    
+    if (isWarning && tags.length === 0) {
+        if (res.ai_summary && (res.ai_summary.includes('擠') || res.ai_summary.includes('狹窄'))) {
+            tags.push('空間可能較擁擠');
+        } else {
+            tags.push('建議先確認環境');
+        }
+    }
+    
+    return tags.join('、');
+}
+
 // DOM Elements
 const restaurantList = document.getElementById('restaurant-list');
 const homeView = document.getElementById('home-view');
@@ -166,10 +197,20 @@ function setupEventListeners() {
         state.searchLocation = null;
         state.userLocation = null;
         state.filters.clear();
+        state.hideLowQualityMarkers = true; // Reset to default: hide low quality
+        state.showOthers = false; // Reset to default: hide others list
+        
         document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
         searchInput.value = '';
         clearSearchBtn.classList.add('hidden');
         searchResultsView.classList.add('hidden');
+        floatShareBtn.classList.add('hidden');
+        
+        // Update checkbox UI
+        const hideMarkersToggle = document.getElementById('hide-others-markers');
+        if (hideMarkersToggle) hideMarkersToggle.checked = true;
+        
+        document.querySelector('.trending-section').classList.remove('hidden');
         document.querySelector('.main-header').style.display = 'block';
         updateUrl();
     });
@@ -181,6 +222,29 @@ function setupEventListeners() {
     floatShareBtn.addEventListener('click', shareCurrentFilters);
     detailShareBtn.addEventListener('click', () => {
         if (state.selectedRestaurant) shareRestaurant(state.selectedRestaurant);
+    });
+
+    // Trending Items
+    document.querySelectorAll('.trending-item').forEach(item => {
+        item.addEventListener('click', () => {
+            const locName = item.dataset.loc;
+            const filter = item.dataset.filter;
+            
+            // Set filters
+            state.filters.clear();
+            if (filter) {
+                state.filters.add(filter);
+                // Sync UI chips
+                document.querySelectorAll('.filter-chip').forEach(chip => {
+                    chip.classList.toggle('active', chip.dataset.filter === filter);
+                });
+            } else {
+                document.querySelectorAll('.filter-chip').forEach(chip => chip.classList.remove('active'));
+            }
+
+            const locObj = state.locationData.find(l => l.name === locName);
+            if (locObj) selectLocation(locObj);
+        });
     });
 }
 
@@ -236,12 +300,12 @@ function handleNearby() {
             };
             state.userLocation = { lat: loc.lat, lng: loc.lng };
             selectLocation(loc);
-            btnNearby.innerHTML = '<span class="icon">📍</span> 看我附近的餐廳';
+            btnNearby.innerHTML = '<span class="icon">📍</span> <span class="btn-text-desktop">看我附近適合帶小孩的餐廳</span><span class="btn-text-mobile">找我附近適合小孩的餐廳</span>';
         },
         (err) => {
             console.error(err);
             showToast('定位失敗，請手動輸入地點');
-            btnNearby.innerHTML = '<span class="icon">📍</span> 看我附近的餐廳';
+            btnNearby.innerHTML = '<span class="icon">📍</span> <span class="btn-text-desktop">看我附近適合帶小孩的餐廳</span><span class="btn-text-mobile">找我附近適合小孩的餐廳</span>';
         }
     );
 }
@@ -255,7 +319,9 @@ function selectLocation(loc) {
     
     // Switch UI to results mode
     document.querySelector('.main-header').style.display = 'block'; 
+    document.querySelector('.trending-section').classList.add('hidden');
     searchResultsView.classList.remove('hidden');
+    floatShareBtn.classList.remove('hidden');
     currentSearchLocText.textContent = loc.name;
     
     // CRITICAL: Leaflet needs to know the size changed after being unhidden
@@ -418,6 +484,14 @@ function renderCard(res, container) {
     else if (level === 'Needs Attention' || level === '需留意') levelClass = 'attention';
     else levelClass = 'info';
 
+    // Collect tags/warnings for quick viewing
+    const summaryTags = getPFSummaryTags(res);
+    let extraInfoHtml = '';
+    if (summaryTags) {
+        const color = (level === 'Needs Attention' || level === '需留意') ? '#ef4444' : 'var(--secondary)';
+        extraInfoHtml = `<span style="font-size: 0.8rem; color: ${color}; font-weight: 700; opacity: 0.9;">${summaryTags}</span>`;
+    }
+
     const distHtml = res.distance !== Infinity ? `<span class="distance-badge">🚶 ${formatDistance(res.distance)}</span>` : '';
 
     card.innerHTML = `
@@ -428,8 +502,9 @@ function renderCard(res, container) {
                 <button class="view-on-map-btn" onclick="focusOnMap(event, '${res.place_id}')">📍 地圖</button>
             </div>
         </div>
-        <div style="margin-bottom: 0.75rem;">
+        <div style="margin-bottom: 0.75rem; display: flex; align-items: center; gap: 0.6rem; flex-wrap: wrap;">
             <span class="decision-summary ${levelClass}">${levelLabels[level] || level}</span>
+            ${extraInfoHtml}
         </div>
         <div class="card-summary">${res.card_summary || res.ai_summary || '目前親子友善資訊較有限。'}</div>
         <div style="display: flex; align-items: center; gap: 0.8rem; font-size: 0.75rem; color: #64748b;">
@@ -479,6 +554,10 @@ function showDetail(restaurant) {
         }
     });
 
+    if (!tagsHtml) {
+        tagsHtml = '<div style="color: var(--text-muted); font-size: 0.9rem; font-style: italic;">未看到明確的親子友善資訊</div>';
+    }
+
     let signalsHtml = '';
     let signals = Array.isArray(restaurant.signals) ? restaurant.signals : (typeof restaurant.signals === 'string' ? [restaurant.signals] : []);
     if (signals.length > 0) {
@@ -498,12 +577,13 @@ function showDetail(restaurant) {
         <div class="restaurant-address" style="font-size: 0.9rem; margin-bottom: 1.5rem;">📍 ${restaurant.address}</div>
         
         <div style="font-weight: 700; margin-bottom: 1rem; color: var(--text-muted);">親子友善建議</div>
-        <div style="margin-bottom: 1.5rem;">
+        <div style="margin-bottom: 1.5rem; display: flex; align-items: center; gap: 0.75rem; flex-wrap: wrap;">
             <span style="padding: 0.5rem 1rem; border-radius: 0.5rem; font-weight: 800; font-size: 0.9rem; 
                 ${(level === 'High' || level === '高' || level === 'Medium' || level === '中') ? 'background: #f0fdf4; color: #15803d;' : ''}
                 ${(level === 'Needs Attention' || level === '需留意') ? 'background: #fef2f2; color: #ef4444; border: 1px solid #fecaca;' : ''}
                 ${(level === 'Insufficient Info' || level === '資訊不足') ? 'background: #f8fafc; color: #64748b; border: 1px solid #e2e8f0;' : ''}
             ">${levelLabels[level] || level}</span>
+            ${(level === 'Needs Attention' || level === '需留意') ? `<span style="font-size: 0.9rem; font-weight: 700; color: #ef4444;">${getPFSummaryTags(restaurant)}</span>` : ''}
         </div>
         
         <div style="font-weight: 700; margin-bottom: 1rem; color: var(--text-muted);">親子友善條件</div>
@@ -568,12 +648,12 @@ function renderMap(restaurants) {
     if (state.searchLocation) {
         // Use a prominent blue pin for the search center
         const centerIcon = L.divIcon({
-            html: `<div style="background-color: #3b82f6; width: 12px; height: 12px; border: 3px solid white; border-radius: 50%; box-shadow: 0 0 15px rgba(59, 130, 246, 0.5); position: relative;">
-                     <div style="position: absolute; bottom: -8px; left: 50%; transform: translateX(-50%); width: 0; height: 0; border-left: 6px solid transparent; border-right: 6px solid transparent; border-top: 8px solid #3b82f6;"></div>
+            html: `<div class="search-center-marker-inner" style="background-color: #3b82f6; width: 16px; height: 16px; border: 3px solid white; border-radius: 50%; box-shadow: 0 0 15px rgba(59, 130, 246, 0.6); position: relative;">
+                     <div style="position: absolute; bottom: -10px; left: 50%; transform: translateX(-50%); width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-top: 11px solid #3b82f6;"></div>
                    </div>`,
-            className: 'search-center-marker',
-            iconSize: [24, 24],
-            iconAnchor: [12, 12]
+            className: 'search-center-marker-outer',
+            iconSize: [32, 32],
+            iconAnchor: [16, 16]
         });
 
         const centerMarker = L.marker([state.searchLocation.lat, state.searchLocation.lng], {

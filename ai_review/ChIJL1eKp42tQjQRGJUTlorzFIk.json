@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,13 +19,13 @@
                                "evidence":  "生意很好，永遠客滿有點吵雜。",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "Medium",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "整個裝潢很漂亮，空間寬敞明亮舒服，菜單選擇很多目不暇給！",
                               "生意很好，永遠客滿有點吵雜。"
                           ],
     "generated_summary":  "該餐廳空間寬敞舒適，且環境較為熱鬧吵雜，適合聚會聊天。",
-    "card_summary":  "空間寬敞舒適，且環境較為熱鬧吵雜，適合聚會聊天。"
+    "card_summary":  "空間寬敞舒適，且環境較為熱鬧吵雜，適合聚會聊天。",
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "中",
+    "reason":  "空間寬敞、不怕小孩吵"
 }

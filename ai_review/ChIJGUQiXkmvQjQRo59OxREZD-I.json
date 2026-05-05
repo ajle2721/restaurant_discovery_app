@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,13 +19,13 @@
                                "evidence":  "雖然菜色不算太多，但是整體吃起來的感覺很舒適，可能較適合喜歡安靜及不喜氣味太重的小夥伴用餐。",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  0,
-    "parent_friendly_level":  "Needs Attention",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "環境幽靜，位子跟位子間距不會過近，就算是平日晚上人也是不少。",
                               "雖然菜色不算太多，但是整體吃起來的感覺很舒適，可能較適合喜歡安靜及不喜氣味太重的小夥伴用餐。"
                           ],
     "generated_summary":  "餐廳環境舒適且座位間距寬敞，但氛圍較為幽靜，可能較適合喜歡安靜用餐的顧客。",
-    "card_summary":  "空間較寬敞，但環境較安靜，前往時需多加留意。"
+    "card_summary":  "空間較寬敞，但環境較安靜，前往時需多加留意。",
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "空間寬敞"
 }

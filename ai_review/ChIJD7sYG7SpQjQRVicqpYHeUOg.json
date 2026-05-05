@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,13 +19,13 @@
                                "evidence":  "雖然店內非常吵，但推！",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "Medium",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "雖然店內非常吵，但推！",
                               "整體來說很好，適合下課下班的聚會。"
                           ],
     "generated_summary":  "店內氣氛熱鬧且適合聚會，雖然環境較為吵雜，但目前評論中較少提及兒童椅或兒童餐等具體親子設施。",
-    "card_summary":  "店內氣氛熱鬧且適合聚會。"
+    "card_summary":  "店內氣氛熱鬧且適合聚會。",
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "不怕小孩吵"
 }

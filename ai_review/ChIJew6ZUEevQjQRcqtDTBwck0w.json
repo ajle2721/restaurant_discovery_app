@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,13 +19,13 @@
                                "evidence":  "環境清幽，在幾乎客滿的情況下仍能保持安靜，用餐品質還不錯",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  -1,
-    "parent_friendly_level":  "Needs Attention",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "環境清幽，在幾乎客滿的情況下仍能保持安靜，用餐品質還不錯",
                               "氛圍安靜放鬆，讓人能專心感受食物與環境的美好。"
                           ],
     "generated_summary":  "根據評論顯示，該餐廳環境較安靜，帶小孩前往需多加留意。",
-    "card_summary":  "該餐廳環境較安靜，帶小孩前往需多加留意。"
+    "card_summary":  "該餐廳環境較安靜，帶小孩前往需多加留意。",
+    "parent_friendly_score":  0,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "目前缺乏明確的親子友善資訊"
 }

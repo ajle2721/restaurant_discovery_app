@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,12 +19,12 @@
                                "evidence":  null,
                                "confidence":  0.4
                            },
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "Medium",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "小大人餐－起司蛋雞肉飯 270"
                           ],
     "generated_summary":  "餐廳提供有「小大人餐」供兒童選擇，其餘親子友善設施資訊較不明確。",
-    "card_summary":  "餐廳提供有「小大人餐」供兒童選擇，其餘親子友善設施資訊較不明確。"
+    "card_summary":  "餐廳提供有「小大人餐」供兒童選擇，其餘親子友善設施資訊較不明確。",
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "有兒童餐"
 }

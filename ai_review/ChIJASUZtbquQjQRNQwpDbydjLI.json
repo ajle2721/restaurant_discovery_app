@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,13 +19,13 @@
                                "evidence":  "這次和家人一起吃晚餐，5位大人，一位兒童，餐點好吃，戶外也適合多人聚餐",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "Medium",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "空間很棒，別有洞天感。",
                               "這次和家人一起吃晚餐，5位大人，一位兒童，餐點好吃，戶外也適合多人聚餐"
                           ],
     "generated_summary":  "餐廳空間寬敞且環境獨特，適合家庭聚餐，評論中提到曾有顧客帶小孩前往用餐。",
-    "card_summary":  "餐廳空間寬敞且環境獨特，適合家庭聚餐，評論中提到曾有顧客帶小孩前往用餐。"
+    "card_summary":  "餐廳空間寬敞且環境獨特，適合家庭聚餐，評論中提到曾有顧客帶小孩前往用餐。",
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "中",
+    "reason":  "空間寬敞、不怕小孩吵"
 }

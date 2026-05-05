@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,12 +19,12 @@
                                "evidence":  "很適合小家庭用餐。",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "Medium",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "很適合小家庭用餐。"
                           ],
     "generated_summary":  "該餐廳環境氛圍適合小家庭前往用餐。",
-    "card_summary":  "環境氛圍適合小家庭前往用餐。"
+    "card_summary":  "環境氛圍適合小家庭前往用餐。",
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "不怕小孩吵"
 }

@@ -1,8 +1,8 @@
-{
+﻿{
     " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
+                                  "evidence":  "User provided info",
+                                  "result":  "Yes",
+                                  "confidence":  1
                               },
     "Spacious seating":  {
                              "result":  "Yes",
@@ -19,9 +19,6 @@
                                "evidence":  "不過小孩真的太多了，所以周圍很吵鬧，很適合帶孩子來用餐，有很不錯的小孩遊樂設施，但情侶用餐再考慮一下。",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  3,
-    "parent_friendly_level":  "High",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "空間很寬敞，很適合親子聚會。",
                               "不過小孩真的太多了，所以周圍很吵鬧，有很不錯的小孩遊樂設施",
@@ -29,5 +26,8 @@
                               "空間很大適合多人聚餐"
                           ],
     "generated_summary":  "該餐廳空間寬敞且非常親子友善，設有適合學齡前兒童的遊戲區及兒童餐點，環境氣氛熱鬧，非常適合帶小孩前往。",
-    "card_summary":  "空間寬敞且非常親子友善，設有適合學齡前兒童的遊戲區及兒童餐點，環境氣氛熱鬧。"
+    "card_summary":  "空間寬敞且非常親子友善，設有適合學齡前兒童的遊戲區及兒童餐點，環境氣氛熱鬧。",
+    "parent_friendly_score":  4,
+    "parent_friendly_level":  "高",
+    "reason":  "有兒童椅、有兒童餐、空間寬敞、不怕小孩吵"
 }

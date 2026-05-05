@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,9 +19,6 @@
                                "evidence":  "這間餐廳不論價格，份量味道都適合家庭朋友聚餐，雖然美中不足，但仍推薦給想試試家常台菜的網友們。",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  0,
-    "parent_friendly_level":  "Needs Attention",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "這間餐廳不論價格，份量味道都適合家庭朋友聚餐，雖然美中不足，但仍推薦給想試試家常台菜的網友們。",
                               "鳯梨蝦球：蝦球很大顆，鳯梨甜又多，小朋友的最愛",
@@ -29,5 +26,8 @@
                               "餐廳在2樓，招牌不明顯，沒有電梯。"
                           ],
     "generated_summary":  "餐廳適合家庭聚餐，餐點如鳳梨蝦球深受小朋友喜愛；但店內空間較擁擠且無電梯，攜帶推車可能較不方便。",
-    "card_summary":  "對小孩聲音較為包容，但空間較擁擠，前往時需多加留意。"
+    "card_summary":  "對小孩聲音較為包容，但空間較擁擠，前往時需多加留意。",
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "不怕小孩吵"
 }

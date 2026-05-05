@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,13 +19,13 @@
                                "evidence":  "不管你是招待親友、家庭聚餐、上山賞景品茶，他們的餐點及服務不會讓你失望。",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "Medium",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "不管你是招待親友、家庭聚餐、上山賞景品茶，他們的餐點及服務不會讓你失望。",
                               "好吃到小孩說下次要再來"
                           ],
     "generated_summary":  "這間餐廳非常適合家庭聚餐，評論提到餐點美味到讓小孩主動表示下次想再來，服務人員也相當親切。",
-    "card_summary":  "非常適合家庭聚餐，評論提到餐點美味到讓小孩主動表示下次想再來，服務人員也相當親切。"
+    "card_summary":  "非常適合家庭聚餐，評論提到餐點美味到讓小孩主動表示下次想再來，服務人員也相當親切。",
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "不怕小孩吵"
 }

@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,14 +19,14 @@
                                "evidence":  "日式炊飯小孩也喜歡",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  0,
-    "parent_friendly_level":  "Needs Attention",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "日式炊飯小孩也喜歡",
                               "與鄰座較為靠近",
                               "但是桌距過近，隔壁桌的聊天聲聽得很清楚，少了些高級餐廳的氛圍感😅"
                           ],
     "generated_summary":  "餐廳環境較為擁擠且桌距較近，但餐點口味受到小孩喜愛，氣氛適合家庭聚餐。",
-    "card_summary":  "對小孩聲音較為包容，但空間較擁擠，前往時需多加留意。"
+    "card_summary":  "對小孩聲音較為包容，但空間較擁擠，前往時需多加留意。",
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "不怕小孩吵"
 }

@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,9 +19,6 @@
                                "evidence":  "無論是與家人共享天倫之樂，還是與朋友聚會暢談，這裡都是不錯的選擇。",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "Medium",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "往裡面走環境大有天地，還有包廂，讓人彷彿穿越時空，回到了那個京味巷弄濃厚的年代。",
                               "無論是與家人共享天倫之樂，還是與朋友聚會暢談，這裡都是不錯的選擇。",
@@ -30,5 +27,8 @@
                               "聚餐的好地方"
                           ],
     "generated_summary":  "餐廳內部空間寬敞且設有包廂，氛圍親切熱鬧，非常適合家庭聚餐與帶小孩前往。",
-    "card_summary":  "餐廳內部空間寬敞且設有包廂，氛圍親切熱鬧，非常適合家庭聚餐與帶小孩前往。"
+    "card_summary":  "餐廳內部空間寬敞且設有包廂，氛圍親切熱鬧，非常適合家庭聚餐與帶小孩前往。",
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "中",
+    "reason":  "空間寬敞、不怕小孩吵"
 }

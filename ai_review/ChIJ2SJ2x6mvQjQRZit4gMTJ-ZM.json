@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,14 +19,14 @@
                                "evidence":  "整體用餐氛圍安靜舒適，非常適合家庭聚餐。",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "Medium",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "整體空間寬敞舒適，燈光柔和不刺眼，給人一種沉穩又放鬆的氛圍，很適合家庭聚餐或朋友聚會。",
                               "整體用餐氛圍安靜舒適，非常適合家庭聚餐。",
                               "整體而言每道菜都很不錯 很適合家庭聚餐🫶🏻"
                           ],
     "generated_summary":  "餐廳空間寬敞舒適，用餐氛圍安靜且適合家庭聚餐。",
-    "card_summary":  "餐廳空間寬敞舒適，用餐氛圍安靜且適合家庭聚餐。"
+    "card_summary":  "餐廳空間寬敞舒適，用餐氛圍安靜且適合家庭聚餐。",
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "中",
+    "reason":  "空間寬敞、不怕小孩吵"
 }

@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,14 +19,14 @@
                                "evidence":  "我們有帶小孩還安排在中間的位置詢問是否可以換到沙發被拒絕但我們快吃完才有客人坐到那桌",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "High",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "兒童餐也很難吃尤其是漢堡排薯條連小孩也覺得不好吃吃一口就不吃了",
                               "我們有帶小孩還安排在中間的位置詢問是否可以換到沙發被拒絕但我們快吃完才有客人坐到那桌",
                               "上拼盤後，顯得桌子不大，有點擁擠"
                           ],
     "generated_summary":  "店內提供兒童餐且有家長帶小孩用餐，適合家庭聚會，但有評論反映桌面空間較小且兒童餐口味不盡理想。",
-    "card_summary":  "店內提供兒童餐且有家長帶小孩用餐。"
+    "card_summary":  "店內提供兒童餐且有家長帶小孩用餐。",
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "中",
+    "reason":  "有兒童餐、不怕小孩吵"
 }

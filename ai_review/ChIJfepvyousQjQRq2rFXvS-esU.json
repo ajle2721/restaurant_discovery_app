@@ -1,13 +1,13 @@
-{
+﻿{
     " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
+                                  "evidence":  "User provided info",
+                                  "result":  "Yes",
+                                  "confidence":  1
                               },
     "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
+                             "evidence":  "User provided info",
+                             "result":  "Yes",
+                             "confidence":  1
                          },
     "Kids menu available":  {
                                 "result":  "Yes",
@@ -19,13 +19,13 @@
                                "evidence":  "不愧是親子餐廳～",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "High",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "除了有兒童餐，特別的是還有提供「寶寶粥」呢！",
                               "不愧是親子餐廳～"
                           ],
     "generated_summary":  "該餐廳為親子友善餐廳，提供兒童餐及寶寶粥，適合帶小孩前往用餐。",
-    "card_summary":  "為親子友善餐廳，提供兒童餐及寶寶粥，適合帶小孩前往用餐。"
+    "card_summary":  "為親子友善餐廳，提供兒童餐及寶寶粥，適合帶小孩前往用餐。",
+    "parent_friendly_score":  4,
+    "parent_friendly_level":  "高",
+    "reason":  "有兒童椅、有兒童餐、空間寬敞、不怕小孩吵"
 }

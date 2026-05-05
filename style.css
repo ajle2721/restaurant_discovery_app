@@ -28,6 +28,10 @@ body {
     overflow-x: hidden;
 }
 
+.hidden {
+    display: none !important;
+}
+
 /* Animations */
 @keyframes fadeIn {
     from {
@@ -47,30 +51,32 @@ body {
     color: white;
     border-radius: 0 0 2.5rem 2.5rem;
     box-shadow: var(--shadow-lg);
-    text-align: center;
+    text-align: left;
     position: relative;
     z-index: 200;
 }
 
 .main-title {
-    font-size: 2.25rem;
-    font-weight: 800;
-    margin-bottom: 0.5rem;
-    letter-spacing: -0.025em;
+    font-size: 2.375rem;
+    font-weight: 700;
+    margin-bottom: 0.85rem;
+    letter-spacing: 0.05em;
+    line-height: 1.3;
 }
 
 .subtitle {
-    font-size: 1.1rem;
-    opacity: 0.9;
-    margin-bottom: 2rem;
-    font-weight: 500;
+    font-size: 1rem;
+    opacity: 0.75;
+    margin-bottom: 1.5rem;
+    font-weight: 300;
+    letter-spacing: 0.02em;
 }
 
 /* Search UI */
 .search-container {
     position: relative;
     max-width: 500px;
-    margin: 0 auto 1.5rem;
+    margin: 0 0 1.5rem;
 }
 
 .search-input-wrapper {
@@ -182,14 +188,33 @@ body {
     backdrop-filter: blur(8px);
     color: white;
     border: 1.5px solid rgba(255, 255, 255, 0.4);
-    padding: 0.875rem 1.5rem;
+    padding: 0.875rem 1.75rem;
     border-radius: 2rem;
     font-size: 1rem;
     font-weight: 700;
     display: inline-flex;
     align-items: center;
+    justify-content: center;
     gap: 0.5rem;
     transition: var(--transition);
+    max-width: 90%;
+}
+
+.btn-text-desktop {
+    display: inline;
+}
+
+.btn-text-mobile {
+    display: none;
+}
+
+@media (max-width: 600px) {
+    .btn-text-desktop {
+        display: none;
+    }
+    .btn-text-mobile {
+        display: inline;
+    }
 }
 
 .btn-nearby:hover {
@@ -200,7 +225,7 @@ body {
 .quick-links {
     text-align: left;
     max-width: 500px;
-    margin: 0 auto;
+    margin: 0;
 }
 
 .quick-links-label {
@@ -633,6 +658,12 @@ body {
     gap: 0.25rem;
 }
 
+.detail-content .tag {
+    font-size: 0.85rem;
+    padding: 0.4rem 0.8rem;
+    font-weight: 700;
+}
+
 .btn {
     flex: 1;
     padding: 0.75rem;
@@ -724,23 +755,37 @@ body {
 }
 
 /* Floating Share Button */
+/* Floating Share Button - Visual De-prioritization */
 .fab {
     position: fixed;
-    bottom: 2rem;
-    right: 1.5rem;
-    width: 3.5rem;
-    height: 3.5rem;
-    border-radius: 1.75rem;
-    background: var(--secondary);
-    color: white;
+    bottom: 2.5rem;
+    right: 1.25rem;
+    width: 2.75rem; /* ~44px */
+    height: 2.75rem;
+    border-radius: 50%;
+    background: #FFFFFF;
+    color: var(--text-muted);
     display: flex;
     align-items: center;
     justify-content: center;
-    box-shadow: var(--shadow-lg);
-    border: none;
-    font-size: 1.25rem;
-    z-index: 100;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+    border: 1px solid #E2E8F0;
+    font-size: 1.1rem;
+    z-index: 1000;
     transition: var(--transition);
+    cursor: pointer;
+}
+
+.fab:hover {
+    transform: translateY(-2px);
+    background: #F8FAFC;
+    color: var(--primary);
+    border-color: var(--primary-light);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+}
+
+.fab:active {
+    transform: scale(0.95);
 }
 
 /* Toast Notification */
@@ -846,4 +891,189 @@ body {
     height: 1.1rem;
     cursor: pointer;
     accent-color: var(--primary);
+}
+
+/* Homepage Redesign */
+.trending-section {
+    padding: 2.5rem 1.5rem 4rem;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.section-title {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--text-main);
+    margin-bottom: 1.25rem;
+    text-align: left;
+}
+
+.trending-grid {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+}
+
+.trending-item {
+    background: white;
+    border: 1px solid #e2e8f0;
+    padding: 1.125rem 1.25rem;
+    border-radius: 1.25rem;
+    text-align: left;
+    font-size: 0.95rem;
+    font-weight: 700;
+    color: var(--text-main);
+    cursor: pointer;
+    transition: var(--transition);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.02);
+    line-height: 1.5;
+}
+
+.trending-item::after {
+    content: '→';
+    color: var(--primary);
+    font-weight: 800;
+    opacity: 0.5;
+}
+
+.trending-item:hover {
+    border-color: var(--primary-light);
+    background: rgba(255, 126, 103, 0.02);
+    transform: translateX(4px);
+    box-shadow: 0 4px 12px rgba(255, 126, 103, 0.08);
+}
+
+.trending-item:hover::after {
+    opacity: 1;
+}
+
+@media (max-width: 480px) {
+    .main-title {
+        font-size: 2rem;
+    }
+}
+
+/* Desktop Optimization - Focus on centering and readability while keeping vertical flow */
+@media (min-width: 768px) {
+    /* Full-width backgrounds, centered content */
+    .main-header {
+        width: 100%;
+        max-width: none;
+        border-radius: 0 0 3rem 3rem;
+        padding-top: 4rem;
+        padding-bottom: 4rem;
+    }
+
+    .main-header > * {
+        max-width: 900px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .trending-section {
+        max-width: 900px;
+        margin: 0 auto;
+        padding: 4rem 2rem;
+    }
+    
+    .trending-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1.25rem;
+    }
+
+    /* Results Page - Revert to Vertical Stack but center content */
+    #search-results-view {
+        display: block; /* Remove grid */
+        height: auto;
+        overflow: visible;
+    }
+
+    #search-status-bar .status-content {
+        max-width: 900px;
+        margin: 0 auto;
+    }
+
+    #map-container { 
+        max-width: 900px;
+        margin: 2rem auto !important;
+        height: 450px !important;
+        border-radius: 2rem !important;
+        box-shadow: var(--shadow-lg);
+    }
+    
+    .results-content-wrapper {
+        display: block;
+        max-width: 900px;
+        margin: 0 auto;
+        background: transparent;
+    }
+    
+    .filter-section {
+        position: static; /* No longer sticky on desktop for vertical flow */
+        background: transparent;
+        box-shadow: none;
+        padding: 1.5rem 0;
+        border-bottom: 1px solid #e2e8f0;
+        margin-bottom: 2rem;
+    }
+    
+    .results-container {
+        padding: 0;
+    }
+    
+    .restaurant-card {
+        margin-bottom: 2rem;
+        transition: transform 0.2s ease;
+    }
+
+    .restaurant-card:hover {
+        transform: scale(1.01);
+    }
+
+    /* Detail View - Center focused */
+    #detail-view {
+        background: #f8fafc;
+    }
+    
+    .detail-content {
+        max-width: 800px;
+        margin: 2rem auto 5rem;
+        background: white;
+        border-radius: 2.5rem;
+        box-shadow: var(--shadow-lg);
+        padding: 4rem;
+    }
+    
+    .detail-header {
+        max-width: 800px;
+        margin: 1.5rem auto 0;
+        background: white;
+        border-radius: 1.5rem;
+        padding: 1rem 1.5rem;
+    }
+}
+
+
+.search-center-marker-inner {
+    animation: markerPulse 2s infinite;
+}
+
+@keyframes markerPulse {
+    0% {
+        transform: scale(1);
+        box-shadow: 0 0 10px rgba(59, 130, 246, 0.5);
+    }
+    50% {
+        transform: scale(1.15);
+        box-shadow: 0 0 20px rgba(59, 130, 246, 0.8);
+    }
+    100% {
+        transform: scale(1);
+        box-shadow: 0 0 10px rgba(59, 130, 246, 0.5);
+    }
 }

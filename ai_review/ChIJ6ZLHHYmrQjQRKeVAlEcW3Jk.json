@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Unknown",
                                   "evidence":  null,
@@ -19,13 +19,13 @@
                                "evidence":  "十分熱門的咖啡店，親子友善。",
                                "confidence":  0.9
                            },
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "Medium",
-    "reason":  "AI語意綜合評估",
     "generated_signals":  [
                               "內裡挑高空間開闊，，而且還看到一套很大的名牌音響，清柔播放著清晰音樂，真的很享受的情境。",
                               "十分熱門的咖啡店，親子友善。"
                           ],
     "generated_summary":  "店內空間挑高開闊且明確標註為親子友善餐廳，適合家長帶小孩前往用餐。",
-    "card_summary":  "店內空間挑高開闊且明確標註為親子友善餐廳，適合家長帶小孩前往用餐。"
+    "card_summary":  "店內空間挑高開闊且明確標註為親子友善餐廳，適合家長帶小孩前往用餐。",
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "中",
+    "reason":  "空間寬敞、不怕小孩吵"
 }
