@@ -5,9 +5,9 @@
         "confidence": 0.4
     },
     "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "Yes",
+        "evidence": "內裡挑高空間開闊，，而且還看到一套很大的名牌音響，清柔播放著清晰音樂，真的很享受的情境。",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -15,12 +15,12 @@
         "confidence": 0.4
     },
     "kid_noise_tolerant": {
-        "result": "No",
-        "evidence": "親子友善",
-        "confidence": 0.9
+        "result": "Yes",
+        "evidence": "十分熱門的咖啡店，親子友善。",
+        "confidence": 1.0
     },
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
     "reason": "綜合評估",
     "generated_signals": [
         "內裡挑高空間開闊，，而且還看到一套很大的名牌音響，清柔播放著清晰音樂，真的很享受的情境。",

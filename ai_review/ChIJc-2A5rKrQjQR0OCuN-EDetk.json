@@ -5,9 +5,9 @@
         "confidence": 0.4
     },
     "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "No",
+        "evidence": "因為是小酒館定位，人多時會稍微有點擠（但不至於很吵）",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -19,8 +19,8 @@
         "evidence": null,
         "confidence": 0.4
     },
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "需留意",
     "reason": "綜合評估",
     "generated_signals": [
         "因為是小酒館定位，人多時會稍微有點擠（但不至於很吵）",

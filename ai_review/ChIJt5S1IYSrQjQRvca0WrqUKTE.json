@@ -6,8 +6,8 @@
     },
     "Spacious seating": {
         "result": "Yes",
-        "evidence": "座位寬敞",
-        "confidence": 0.9
+        "evidence": "座位寬敞，桌與桌的間距很大，連娃娃車應該都能輕鬆推過，不用擔心被隔壁客人影響。",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -16,8 +16,8 @@
     },
     "kid_noise_tolerant": {
         "result": "Yes",
-        "evidence": "算是孕婦兒童友善",
-        "confidence": 0.9
+        "evidence": "剛好遇到隔壁桌有失控尖叫的小孩，可能擔心我們會受到影響，主動向我們提出更換座位的安排，以及招待超美味的甜點，美福表現出高水準的處理能力。",
+        "confidence": 1.0
     },
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",

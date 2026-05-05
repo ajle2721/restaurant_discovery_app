@@ -1,13 +1,13 @@
 {
     " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "No",
+        "evidence": "沒有提供兒童座椅💺，有嬰幼兒的話，建議先打電話詢問店家。",
+        "confidence": 1.0
     },
     "Spacious seating": {
         "result": "No",
-        "evidence": "就是座位間很近",
-        "confidence": 0.9
+        "evidence": "小小的店，氣氛很好。就是座位間很近。",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",

@@ -15,12 +15,12 @@
         "confidence": 0.4
     },
     "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "Yes",
+        "evidence": "整桌同事吃得非常開心，氣氛也越來越熱絡。",
+        "confidence": 1.0
     },
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "綜合評估",
     "generated_signals": [
         "整桌同事吃得非常開心，氣氛也越來越熱絡。",

@@ -15,12 +15,12 @@
         "confidence": 0.4
     },
     "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "Yes",
+        "evidence": "喜樂和諧的用餐氛圍充滿笑聲，美味健康的佳餚以及貼心的服務，現場有詩歌和音樂演唱。",
+        "confidence": 1.0
     },
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "綜合評估",
     "generated_signals": [
         "喜樂和諧的用餐氛圍充滿笑聲，美味健康的佳餚以及貼心的服務，現場有詩歌和音樂演唱。"

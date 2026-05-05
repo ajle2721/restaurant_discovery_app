@@ -6,8 +6,8 @@
     },
     "Spacious seating": {
         "result": "Yes",
-        "evidence": "座位很寬敞",
-        "confidence": 0.9
+        "evidence": "座位很寬敞，只是環境燈光有點暗。",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",

@@ -5,9 +5,9 @@
         "confidence": 0.4
     },
     "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "No",
+        "evidence": "到了現場居然叫我們把嬰兒車收起來.怕影響到動線….（當然最後我是無視他們展開嬰兒車，本人無法抱者嬰兒3個小時）",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -19,8 +19,8 @@
         "evidence": null,
         "confidence": 0.4
     },
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "需留意",
     "reason": "綜合評估",
     "generated_signals": [
         "到了現場居然叫我們把嬰兒車收起來.怕影響到動線….（當然最後我是無視他們展開嬰兒車，本人無法抱者嬰兒3個小時）"

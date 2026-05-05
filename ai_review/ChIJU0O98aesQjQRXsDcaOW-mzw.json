@@ -6,8 +6,8 @@
     },
     "Spacious seating": {
         "result": "Yes",
-        "evidence": "餐廳空間寬敞明亮",
-        "confidence": 0.9
+        "evidence": "餐廳空間寬敞明亮，座位舒適，環境乾淨。",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -15,11 +15,11 @@
         "confidence": 0.4
     },
     "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "Yes",
+        "evidence": "旁邊展示櫃有可愛的角落生物公仔，滿療癒的，女生或親子客應該會喜歡。",
+        "confidence": 1.0
     },
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "綜合評估",
     "generated_signals": [

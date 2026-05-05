@@ -6,8 +6,8 @@
     },
     "Spacious seating": {
         "result": "Yes",
-        "evidence": "空間寬敞、氛圍好的音樂餐酒館",
-        "confidence": 0.9
+        "evidence": "空間寬敞、座位舒適、氛圍拉滿、菜式豐富、是味覺加上聽覺雙重享受放鬆好地方！",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -15,11 +15,11 @@
         "confidence": 0.4
     },
     "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "Yes",
+        "evidence": "演唱都很會帶氣氛，觀眾氛圍也都挺嗨！",
+        "confidence": 1.0
     },
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "綜合評估",
     "generated_signals": [

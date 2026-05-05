@@ -15,12 +15,12 @@
         "confidence": 0.4
     },
     "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "Yes",
+        "evidence": "第一次吃很驚艷，非常適合闔家聚餐約會。",
+        "confidence": 1.0
     },
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "綜合評估",
     "generated_signals": [
         "第一次吃很驚艷，非常適合闔家聚餐約會。"

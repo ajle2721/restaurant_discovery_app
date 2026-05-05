@@ -5,9 +5,9 @@
         "confidence": 0.4
     },
     "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "Yes",
+        "evidence": "位置都非常舒適主要是服務很好，也不會趕人走。",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -19,8 +19,8 @@
         "evidence": null,
         "confidence": 0.4
     },
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "綜合評估",
     "generated_signals": [
         "位置都非常舒適主要是服務很好，也不會趕人走。"

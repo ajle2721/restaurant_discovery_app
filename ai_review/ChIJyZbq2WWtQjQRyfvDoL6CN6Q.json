@@ -6,8 +6,8 @@
     },
     "Spacious seating": {
         "result": "Yes",
-        "evidence": "用餐環境乾淨、舒適、空間大",
-        "confidence": 0.9
+        "evidence": "用餐環境乾淨、舒適、空間大，重點是剛好今天吃素，老闆也很親切的幫我做成素烏醋麵，就已經很好吃了！",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -15,11 +15,11 @@
         "confidence": 0.4
     },
     "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "Yes",
+        "evidence": "餐點好吃，小朋友和大人都吃得很高興，有機會一定會再回來吃，拉麵還可加麵，內用還有免費的飲料，Google評價還送可麗餅，真的是太棒了😊",
+        "confidence": 1.0
     },
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "綜合評估",
     "generated_signals": [

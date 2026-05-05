@@ -6,8 +6,8 @@
     },
     "Spacious seating": {
         "result": "Yes",
-        "evidence": "空間寬敞明亮整潔",
-        "confidence": 0.9
+        "evidence": "位於 南港LaLaport 5樓，空間寬敞明亮整潔，座位舒適平板點餐流程順暢直觀。",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -17,7 +17,7 @@
     "kid_noise_tolerant": {
         "result": "No",
         "evidence": "店內氛圍安靜、有條理",
-        "confidence": 0.9
+        "confidence": 1.0
     },
     "parent_friendly_score": -1,
     "parent_friendly_level": "需留意",

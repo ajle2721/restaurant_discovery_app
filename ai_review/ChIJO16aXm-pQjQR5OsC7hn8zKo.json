@@ -5,9 +5,9 @@
         "confidence": 0.4
     },
     "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "No",
+        "evidence": "整體位置都偏擠，裝潢應該是有些許翻新過（不然就是真的保存的很好）但真的很可惜桌椅沒有配合場地做起來不會不舒服，但擺放的位置偶爾會讓人尷尬。",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -19,8 +19,8 @@
         "evidence": null,
         "confidence": 0.4
     },
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "需留意",
     "reason": "綜合評估",
     "generated_signals": [
         "整體位置都偏擠，裝潢應該是有些許翻新過（不然就是真的保存的很好）但真的很可惜桌椅沒有配合場地做起來不會不舒服，但擺放的位置偶爾會讓人尷尬。"

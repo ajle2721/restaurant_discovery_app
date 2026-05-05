@@ -6,21 +6,21 @@
     },
     "Spacious seating": {
         "result": "Yes",
-        "evidence": "座位也很寬敞",
-        "confidence": 0.9
+        "evidence": "用餐環境舒適，座位也很寬敞，還有水可以喝，都是加分項目！",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Yes",
-        "evidence": "點了兩份餐+兒童餐 調味都滿原型的 很推薦",
-        "confidence": 0.9
+        "evidence": "點了兩份餐+兒童餐 調味都滿原型的 很推薦！！",
+        "confidence": 1.0
     },
     "kid_noise_tolerant": {
-        "result": "No",
-        "evidence": "應該是親子友善店家",
-        "confidence": 0.9
+        "result": "Yes",
+        "evidence": "店內用餐環境看起來也不錯，應該是親子友善店家，店內還有兒童遊戲區。",
+        "confidence": 1.0
     },
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "需留意",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
     "reason": "綜合評估",
     "generated_signals": [
         "用餐環境舒適，座位也很寬敞，還有水可以喝，都是加分項目！",

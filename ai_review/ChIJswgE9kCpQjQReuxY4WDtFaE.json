@@ -5,9 +5,9 @@
         "confidence": 0.4
     },
     "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "No",
+        "evidence": "環境雖然不大但座位溫馨舒適🍽️。",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -16,8 +16,8 @@
     },
     "kid_noise_tolerant": {
         "result": "No",
-        "evidence": "適合安靜細細品味海味",
-        "confidence": 0.9
+        "evidence": "整體氛圍樸實無華，適合安靜細細品味海味，價格合理且份量足，用餐時段常常客滿，建議先訂位。",
+        "confidence": 1.0
     },
     "parent_friendly_score": -2,
     "parent_friendly_level": "需留意",

@@ -5,9 +5,9 @@
         "confidence": 0.4
     },
     "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "Yes",
+        "evidence": "空間超大的超舒服的",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -16,10 +16,10 @@
     },
     "kid_noise_tolerant": {
         "result": "Yes",
-        "evidence": "價格超值很適合家庭聚餐或宴請朋友",
-        "confidence": 0.9
+        "evidence": "價格超值很適合家庭聚餐或宴請朋友！",
+        "confidence": 1.0
     },
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "綜合評估",
     "generated_signals": [

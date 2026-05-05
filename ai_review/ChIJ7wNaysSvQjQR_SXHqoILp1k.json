@@ -6,8 +6,8 @@
     },
     "Spacious seating": {
         "result": "Yes",
-        "evidence": "環境優點： 空間寬敞乾淨",
-        "confidence": 0.9
+        "evidence": "空間寬敞乾淨，後方即有大型公有停車場，停車非常方便，適合家庭聚餐或帶長輩前往。",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -16,8 +16,8 @@
     },
     "kid_noise_tolerant": {
         "result": "Yes",
-        "evidence": "適合家庭聚餐或帶長輩前往",
-        "confidence": 0.9
+        "evidence": "空間寬敞乾淨，後方即有大型公有停車場，停車非常方便，適合家庭聚餐或帶長輩前往。",
+        "confidence": 1.0
     },
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",

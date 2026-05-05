@@ -6,8 +6,8 @@
     },
     "Spacious seating": {
         "result": "Yes",
-        "evidence": "整體空間寬敞舒適",
-        "confidence": 0.9
+        "evidence": "整體空間寬敞舒適，燈光柔和不刺眼，給人一種沉穩又放鬆的氛圍，很適合家庭聚餐或朋友聚會。",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -15,12 +15,12 @@
         "confidence": 0.4
     },
     "kid_noise_tolerant": {
-        "result": "No",
-        "evidence": "很適合家庭聚餐或朋友聚會",
-        "confidence": 0.9
+        "result": "Yes",
+        "evidence": "整體用餐氛圍安靜舒適，非常適合家庭聚餐。",
+        "confidence": 1.0
     },
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "需留意",
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
     "reason": "綜合評估",
     "generated_signals": [
         "整體空間寬敞舒適，燈光柔和不刺眼，給人一種沉穩又放鬆的氛圍，很適合家庭聚餐或朋友聚會。",

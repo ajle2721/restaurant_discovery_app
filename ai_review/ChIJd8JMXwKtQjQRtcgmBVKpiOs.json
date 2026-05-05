@@ -6,8 +6,8 @@
     },
     "Spacious seating": {
         "result": "Yes",
-        "evidence": "座位寬敞、沙發區坐起來非常舒適",
-        "confidence": 0.9
+        "evidence": "這間餐廳給人的第一印象相當不錯，座位寬敞、沙發區坐起來非常舒適，即使是一個人前來用餐，也能感受到放鬆自在的氛圍。",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -15,12 +15,12 @@
         "confidence": 0.4
     },
     "kid_noise_tolerant": {
-        "result": "No",
-        "evidence": "或是一個人安靜享用餐點的好地方",
-        "confidence": 0.9
+        "result": "Yes",
+        "evidence": "雖然店內人潮不少、環境稍微吵雜，但整體空間開闊，不會讓人感到壓迫。",
+        "confidence": 1.0
     },
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "需留意",
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
     "reason": "綜合評估",
     "generated_signals": [
         "這間餐廳給人的第一印象相當不錯，座位寬敞、沙發區坐起來非常舒適，即使是一個人前來用餐，也能感受到放鬆自在的氛圍。",

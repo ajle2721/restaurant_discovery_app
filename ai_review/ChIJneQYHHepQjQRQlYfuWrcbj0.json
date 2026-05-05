@@ -15,12 +15,12 @@
         "confidence": 0.4
     },
     "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "Yes",
+        "evidence": "湯沒有很燙，看起來很像很辣但不會辣，小孩也可以吃。",
+        "confidence": 1.0
     },
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "綜合評估",
     "generated_signals": [
         "湯沒有很燙，看起來很像很辣但不會辣，小孩也可以吃。"

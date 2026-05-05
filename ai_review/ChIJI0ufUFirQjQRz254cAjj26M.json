@@ -5,9 +5,9 @@
         "confidence": 0.4
     },
     "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "No",
+        "evidence": "南港展覽館周邊的居酒屋，空間不大，但氛圍感挺夠的～很舒服。",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -17,7 +17,7 @@
     "kid_noise_tolerant": {
         "result": "No",
         "evidence": "沒有什麼人很安靜",
-        "confidence": 0.9
+        "confidence": 1.0
     },
     "parent_friendly_score": -2,
     "parent_friendly_level": "需留意",

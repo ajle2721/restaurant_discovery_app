@@ -6,8 +6,8 @@
     },
     "Spacious seating": {
         "result": "No",
-        "evidence": "室內座位較擁擠",
-        "confidence": 0.9
+        "evidence": "只是空間不大，桌與桌的間距稍微擁擠。",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -15,11 +15,11 @@
         "confidence": 0.4
     },
     "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "在熱鬧的街道華西街裡面",
-        "confidence": 0.9
+        "result": "No",
+        "evidence": "坐在內部用餐，若碰到了喝的儘興的、太嗨的，還真覺得太吵。",
+        "confidence": 1.0
     },
-    "parent_friendly_score": -1,
+    "parent_friendly_score": -2,
     "parent_friendly_level": "需留意",
     "reason": "綜合評估",
     "generated_signals": [

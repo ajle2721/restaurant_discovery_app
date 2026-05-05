@@ -11,15 +11,15 @@
     },
     "Kids menu available": {
         "result": "Yes",
-        "evidence": "因為有小朋友所以點了兒童餐",
-        "confidence": 0.9
+        "evidence": "因為有小朋友所以點了兒童餐，有機會的話希望能調降炸物的比例，畢竟小朋友吃炸物不太好",
+        "confidence": 1.0
     },
     "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "Yes",
+        "evidence": "現場真的偏吵雜",
+        "confidence": 1.0
     },
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "綜合評估",
     "generated_signals": [

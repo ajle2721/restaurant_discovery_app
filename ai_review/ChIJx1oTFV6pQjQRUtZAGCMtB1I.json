@@ -5,9 +5,9 @@
         "confidence": 0.4
     },
     "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "Yes",
+        "evidence": "在寸土寸金的台北鬧區，餐館裡面的佈置非常的讓人覺得可以淡定下來，而且不會為了追求桌數而犧牲顧客行走的舒適，行走的動線上面，留了許多餘裕，享受美食之餘，不會為了走動或者座位空間而覺得憋屈，很難得。",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -19,8 +19,8 @@
         "evidence": null,
         "confidence": 0.4
     },
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "綜合評估",
     "generated_signals": [
         "不會為了走動或者座位空間而覺得憋屈"

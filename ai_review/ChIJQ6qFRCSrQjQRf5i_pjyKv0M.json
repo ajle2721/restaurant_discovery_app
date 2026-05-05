@@ -7,7 +7,7 @@
     "Spacious seating": {
         "result": "Yes",
         "evidence": "沒有上去二樓 但一樓很寬敞 環境也很好 是會一直拜訪的咖啡店 😚",
-        "confidence": 0.9
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -16,8 +16,8 @@
     },
     "kid_noise_tolerant": {
         "result": "No",
-        "evidence": "早點來沒什麼人很安靜位子很多👍👍👍",
-        "confidence": 0.9
+        "evidence": "二樓有一整排的靠窗座位可以使用插座，彷彿來到K書中心，大家都很安靜的使用筆電或看書，很喜歡的氛圍。",
+        "confidence": 1.0
     },
     "parent_friendly_score": -1,
     "parent_friendly_level": "需留意",

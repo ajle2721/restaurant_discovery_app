@@ -15,12 +15,12 @@
         "confidence": 0.4
     },
     "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "Yes",
+        "evidence": "今天跟朋友約好帶小孩聚餐來吃韓式，剛好也有小包廂，感覺慶生也很適合😆",
+        "confidence": 1.0
     },
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "綜合評估",
     "generated_signals": [
         "今天跟朋友約好帶小孩聚餐來吃韓式，剛好也有小包廂，感覺慶生也很適合😆",

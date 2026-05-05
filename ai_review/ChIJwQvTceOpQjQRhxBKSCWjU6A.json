@@ -1,8 +1,8 @@
 {
     " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "Yes",
+        "evidence": "八位大人一位小孩（友善提供兒童座椅及餐具），點了十人份的套餐，共十二道菜一湯，兩樣招待小菜，十份茶水及甜點。",
+        "confidence": 1.0
     },
     "Spacious seating": {
         "result": "Unknown",
@@ -16,11 +16,11 @@
     },
     "kid_noise_tolerant": {
         "result": "Yes",
-        "evidence": "非常適合家庭或朋友聚餐",
-        "confidence": 0.9
+        "evidence": "餐廳整體的氛圍相當不錯，裝潢帶有時髦的復古感，非常適合家庭或朋友聚餐。",
+        "confidence": 1.0
     },
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
     "reason": "綜合評估",
     "generated_signals": [
         "八位大人一位小孩（友善提供兒童座椅及餐具）",

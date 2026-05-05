@@ -6,8 +6,8 @@
     },
     "Spacious seating": {
         "result": "Yes",
-        "evidence": "座位夠寬敞",
-        "confidence": 0.9
+        "evidence": "公司尾牙訂了20人大桌包廂, 座位夠寬敞, 帶一間廁所, 整體空間感很舒適不擁擠。",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -17,7 +17,7 @@
     "kid_noise_tolerant": {
         "result": "Yes",
         "evidence": "特別適合家庭聚會、商務宴客或慶生派對",
-        "confidence": 0.9
+        "confidence": 1.0
     },
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",

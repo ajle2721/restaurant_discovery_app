@@ -6,18 +6,18 @@
     },
     "Spacious seating": {
         "result": "Yes",
-        "evidence": "3樓較寬敞",
-        "confidence": 0.9
+        "evidence": "3樓較寬敞，採光很美，走時尚網美裝潢，鮮明活潑的黃色搭配白黑色系，角落還有網美牆浴缸球池，多款表情便便抱枕滿逗趣",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Yes",
         "evidence": "1.店內雖像親子餐廳卻沒有提供兒童餐具",
-        "confidence": 0.9
+        "confidence": 1.0
     },
     "kid_noise_tolerant": {
         "result": "Yes",
-        "evidence": "也滿適合親子的唷",
-        "confidence": 0.9
+        "evidence": "也滿適合親子的唷，小孩很愛2樓及3樓的球池區，玩到不想走😆",
+        "confidence": 1.0
     },
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",

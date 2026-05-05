@@ -16,8 +16,8 @@
     },
     "kid_noise_tolerant": {
         "result": "No",
-        "evidence": "環境舒適安靜",
-        "confidence": 0.9
+        "evidence": "環境舒適安靜，適合朋友聊天、約會",
+        "confidence": 1.0
     },
     "parent_friendly_score": -2,
     "parent_friendly_level": "需留意",

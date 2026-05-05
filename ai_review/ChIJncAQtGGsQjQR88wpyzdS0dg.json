@@ -6,8 +6,8 @@
     },
     "Spacious seating": {
         "result": "No",
-        "evidence": "環境比較擁擠",
-        "confidence": 0.9
+        "evidence": "我們位置本來就小，還一直縮小我們能用餐的範圍，打包的店員一直搖晃我們的餐桌，用餐環境真的很差。",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -15,11 +15,11 @@
         "confidence": 0.4
     },
     "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "Yes",
+        "evidence": "客人吵雜聲超大。",
+        "confidence": 1.0
     },
-    "parent_friendly_score": -2,
+    "parent_friendly_score": -1,
     "parent_friendly_level": "需留意",
     "reason": "綜合評估",
     "generated_signals": [

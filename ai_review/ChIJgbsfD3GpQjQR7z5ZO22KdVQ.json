@@ -5,9 +5,9 @@
         "confidence": 0.4
     },
     "Spacious seating": {
-        "result": "Yes",
-        "evidence": "空間雖不算寬敞",
-        "confidence": 0.9
+        "result": "No",
+        "evidence": "用餐座位雖然很窄，可是座位下有置物籃 是很貼心周全。",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -19,8 +19,8 @@
         "evidence": null,
         "confidence": 0.4
     },
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "需留意",
     "reason": "綜合評估",
     "generated_signals": [
         "用餐座位雖然很窄，可是座位下有置物籃 是很貼心周全。",

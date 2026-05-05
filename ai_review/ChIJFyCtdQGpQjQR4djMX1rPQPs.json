@@ -5,9 +5,9 @@
         "confidence": 0.4
     },
     "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "No",
+        "evidence": "上次來因為客人比較多所以只剩中間的小矮圓桌可以坐，但是這次店內只有一組客人，還是不給我們大一點比較好坐的位子，這點比較不ok。",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -17,10 +17,10 @@
     "kid_noise_tolerant": {
         "result": "Yes",
         "evidence": "整體來說氣氛很熱鬧",
-        "confidence": 0.9
+        "confidence": 1.0
     },
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "需留意",
     "reason": "綜合評估",
     "generated_signals": [
         "還是不給我們大一點比較好坐的位子"

@@ -5,9 +5,9 @@
         "confidence": 0.4
     },
     "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "Yes",
+        "evidence": "餐廳蠻大，磚紅色洞穴似的裝潢氛圍蠻好，隔壁桌似乎是拍照指定區，時刻不停的有人被服務生引導過來拍照。",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -17,9 +17,9 @@
     "kid_noise_tolerant": {
         "result": "Yes",
         "evidence": "整體而言這裡是個很適合聚餐或是特別日子來",
-        "confidence": 0.9
+        "confidence": 1.0
     },
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "綜合評估",
     "generated_signals": [

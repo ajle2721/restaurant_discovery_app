@@ -5,9 +5,9 @@
         "confidence": 0.4
     },
     "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "No",
+        "evidence": "其實不用等很久，但實際上餐廳裡面的桌子只有7桌，進場必須要跟人併桌用餐、兩個人來吃飯最適合，人多餐廳就不好安排。",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -19,8 +19,8 @@
         "evidence": null,
         "confidence": 0.4
     },
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "需留意",
     "reason": "綜合評估",
     "generated_signals": [
         "其實不用等很久，但實際上餐廳裡面的桌子只有7桌，進場必須要跟人併桌用餐、兩個人來吃飯最適合，人多餐廳就不好安排。"

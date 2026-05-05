@@ -15,12 +15,12 @@
         "confidence": 0.4
     },
     "kid_noise_tolerant": {
-        "result": "No",
-        "evidence": "如果想在西門町找一間適合聚餐、聊天、慢慢吃的日式料理店",
-        "confidence": 0.9
+        "result": "Yes",
+        "evidence": "沒想到，店裡的員工和老闆對小朋友都超級友善、非常有耐心，讓身為家長的我們感到非常窩心和放鬆。",
+        "confidence": 1.0
     },
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "綜合評估",
     "generated_signals": [
         "沒想到，店裡的員工和老闆對小朋友都超級友善、非常有耐心，讓身為家長的我們感到非常窩心和放鬆。"

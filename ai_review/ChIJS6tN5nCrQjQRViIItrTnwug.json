@@ -5,9 +5,9 @@
         "confidence": 0.4
     },
     "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "No",
+        "evidence": "裝潢古色古香，位置排得很擠，但沒有辦法，這是在百貨公司地下街。",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -17,7 +17,7 @@
     "kid_noise_tolerant": {
         "result": "No",
         "evidence": "安靜很棒",
-        "confidence": 0.9
+        "confidence": 1.0
     },
     "parent_friendly_score": -2,
     "parent_friendly_level": "需留意",

@@ -11,13 +11,13 @@
     },
     "Kids menu available": {
         "result": "Yes",
-        "evidence": "我點了寶寶餐來吃",
-        "confidence": 0.9
+        "evidence": "我點了寶寶餐來吃，漢堡排很多汁！茄汁飯也很夠味～",
+        "confidence": 1.0
     },
     "kid_noise_tolerant": {
         "result": "Yes",
-        "evidence": "以親子友善餐廳來說",
-        "confidence": 0.9
+        "evidence": "很難得有親子友善的咖啡廳。",
+        "confidence": 1.0
     },
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",

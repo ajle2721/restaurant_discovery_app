@@ -5,9 +5,9 @@
         "confidence": 0.4
     },
     "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "Yes",
+        "evidence": "整體用餐環境舒服、餐點美味，以後一定會常來！😌✨",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -15,12 +15,12 @@
         "confidence": 0.4
     },
     "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "Yes",
+        "evidence": "社區居酒屋很熱絡，有親子，好友，夫妻適合各式各樣的搭檔，沒啥壓力，口味不錯，尤其是串燒類，清酒順口。",
+        "confidence": 1.0
     },
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
     "reason": "綜合評估",
     "generated_signals": [
         "社區居酒屋很熱絡，有親子，好友，夫妻適合各式各樣的搭檔，沒啥壓力，口味不錯，尤其是串燒類，清酒順口。",

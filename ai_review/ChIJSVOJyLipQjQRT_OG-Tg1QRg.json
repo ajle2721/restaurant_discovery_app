@@ -5,9 +5,9 @@
         "confidence": 0.4
     },
     "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "No",
+        "evidence": "今日座位安排-感覺不舒服，裡面的人進出不方便（一邊被鋼琴擋住），小犬位置也被凸起來的牆卡住一些空間",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -15,12 +15,12 @@
         "confidence": 0.4
     },
     "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "Yes",
+        "evidence": "感覺是滿家庭式的空間，也滿適合社團家聚，師生聚餐或公司社團包場。",
+        "confidence": 1.0
     },
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "需留意",
     "reason": "綜合評估",
     "generated_signals": [
         "今日座位安排-感覺不舒服，裡面的人進出不方便（一邊被鋼琴擋住），小犬位置也被凸起來的牆卡住一些空間",

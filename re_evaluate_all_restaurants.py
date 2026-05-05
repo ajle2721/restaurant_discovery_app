@@ -13,8 +13,8 @@ PATTERNS = {
         "No": [r"沒有.*(兒童椅|嬰兒椅|餐椅)", r"沒.*(兒童椅|嬰兒椅|餐椅)", r"無.*(兒童椅|嬰兒椅|餐椅)", r"不提供.*(兒童椅|嬰兒椅|餐椅)"]
     },
     "spacious_seating": {
-        "Yes": [r"空間(很)?(大|寬敞)", r"寬敞", r"推車(很)?方便", r"好推車", r"可以推車", r"適合推車", r"放得下推車", r"空間很夠"],
-        "No": [r"空間(狹)?小", r"小小(的)?店", r"座位(間)?(很|太|較)?(擠|近|小)", r"位置(很|太|較)?(擠|近|小)", r"位子(很|太|較)?(擠|近|小)", r"不適合推車", r"推車進不去", r"沒地方放推車", r"偏擁擠", r"較擁擠"]
+        "Yes": [r"空間(很)?(大|寬敞)", r"(?<!不)寬敞", r"(?<!不算)寬敞", r"推車(很)?方便", r"好推車", r"可以推車", r"適合推車", r"放得下推車", r"空間很夠"],
+        "No": [r"空間(狹)?小", r"小小(的)?店", r"座位(間)?(很|太|較)?(擠|近|小|窄)", r"位置(很|太|較)?(擠|近|小|窄)", r"位子(很|太|較)?(擠|近|小|窄)", r"不適合推車", r"推車進不去", r"沒地方放推車", r"偏擁擠", r"較擁擠", r"狹窄", r"很窄"]
     },
     "kids_menu": {
         "Yes": [r"兒童餐", r"寶寶粥", r"小朋友餐", r"寶寶餐"],
@@ -45,33 +45,54 @@ def evaluate_restaurant(data, existing_ai_review=None):
     all_signals = []
     
     for tag, patterns in PATTERNS.items():
-        yes_sentences = []
-        no_sentences = []
-        
-        for sentence in all_sentences:
-            for pattern in patterns["Yes"]:
-                if re.search(pattern, sentence):
-                    yes_sentences.append(sentence)
+        # Check for manual overrides in existing data
+        manual_result = None
+        if existing_ai_review:
+            # Check for various key mappings
+            overrides = {
+                "high_chair_available": ["High chair available", " child_seat available", "child_seat available"],
+                "spacious_seating": ["Spacious seating", "Stroller accessible"],
+                "kids_menu": ["Kids menu available"],
+                "kid_noise_tolerant": ["kid_noise_tolerant"]
+            }
+            for key in overrides.get(tag, []):
+                val = existing_ai_review.get(key, {}).get("result")
+                if val in ["Yes", "No"]:
+                    manual_result = val
+                    manual_evidence = existing_ai_review.get(key, {}).get("evidence")
                     break
-            for pattern in patterns["No"]:
-                if re.search(pattern, sentence):
-                    no_sentences.append(sentence)
-                    break
-                    
-        if len(yes_sentences) > 0 and len(no_sentences) == 0:
-            result = "Yes"
-        elif len(no_sentences) > 0 and len(yes_sentences) == 0:
-            result = "No"
-        elif len(yes_sentences) > 0 and len(no_sentences) > 0:
-            result = "No" 
+
+        if manual_result:
+            result = manual_result
+            evidence = [manual_evidence] if manual_evidence else []
         else:
-            result = "Unknown"
+            yes_sentences = []
+            no_sentences = []
             
-        evidence = []
-        if yes_sentences:
-            evidence.extend(yes_sentences)
-        if no_sentences:
-            evidence.extend(no_sentences)
+            for sentence in all_sentences:
+                for pattern in patterns["Yes"]:
+                    if re.search(pattern, sentence):
+                        yes_sentences.append(sentence)
+                        break
+                for pattern in patterns["No"]:
+                    if re.search(pattern, sentence):
+                        no_sentences.append(sentence)
+                        break
+                        
+            if len(yes_sentences) > 0 and len(no_sentences) == 0:
+                result = "Yes"
+            elif len(no_sentences) > 0 and len(yes_sentences) == 0:
+                result = "No"
+            elif len(yes_sentences) > 0 and len(no_sentences) > 0:
+                result = "No" 
+            else:
+                result = "Unknown"
+                
+            evidence = []
+            if yes_sentences:
+                evidence.extend(yes_sentences)
+            if no_sentences:
+                evidence.extend(no_sentences)
             
         evidence = list(set(evidence))
         all_signals.extend(evidence)
@@ -79,7 +100,7 @@ def evaluate_restaurant(data, existing_ai_review=None):
         analysis[tag] = {
             "result": result,
             "evidence": evidence[0] if evidence else None,
-            "confidence": 0.9 if result != "Unknown" else 0.4
+            "confidence": 1.0 if manual_result else (0.9 if result != "Unknown" else 0.4)
         }
     
     all_signals = list(set(all_signals))

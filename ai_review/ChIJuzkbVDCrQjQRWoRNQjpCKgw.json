@@ -5,9 +5,9 @@
         "confidence": 0.4
     },
     "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "Yes",
+        "evidence": "賣場內的美食街，內用空間超級多，裝潢色系偏向明亮。",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -16,10 +16,10 @@
     },
     "kid_noise_tolerant": {
         "result": "Yes",
-        "evidence": "非常適合全家人或小朋友一起來吃",
-        "confidence": 0.9
+        "evidence": "非常適合全家人或小朋友一起來吃。",
+        "confidence": 1.0
     },
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "綜合評估",
     "generated_signals": [

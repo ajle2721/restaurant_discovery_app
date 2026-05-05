@@ -6,8 +6,8 @@
     },
     "Spacious seating": {
         "result": "Yes",
-        "evidence": "進來餐廳裡面蠻寬敞",
-        "confidence": 0.9
+        "evidence": "室內空間寬闊，還算舒適，雖然有評論抱怨吊燈有灰塵，但我個人不在意這點，灰塵到處都有，感覺不影響用餐就好。",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -15,11 +15,11 @@
         "confidence": 0.4
     },
     "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "Yes",
+        "evidence": "這裡不管是朋友聚餐、家庭聚會，甚至一個人想吃好一點的料理都很適合。",
+        "confidence": 1.0
     },
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "綜合評估",
     "generated_signals": [

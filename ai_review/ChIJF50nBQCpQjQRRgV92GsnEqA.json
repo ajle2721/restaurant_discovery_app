@@ -15,12 +15,12 @@
         "confidence": 0.4
     },
     "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "Yes",
+        "evidence": "我家女孩兒晚上睡覺做夢還夢到大口吃牛肉麵，睡醒跟我說好想再吃喔~",
+        "confidence": 1.0
     },
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "綜合評估",
     "generated_signals": [
         "我家女孩兒晚上睡覺做夢還夢到大口吃牛肉麵，睡醒跟我說好想再吃喔~"

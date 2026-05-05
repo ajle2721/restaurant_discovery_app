@@ -6,8 +6,8 @@
     },
     "Spacious seating": {
         "result": "Yes",
-        "evidence": "餐廳寬敞乾淨",
-        "confidence": 0.9
+        "evidence": "餐廳寬敞乾淨，女老闆客氣，長得很像韓國人，它的韓式小菜約有20種，自助式隨意吃，僅試了一種海帶芽，有點酸蠻甜的。",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -17,7 +17,7 @@
     "kid_noise_tolerant": {
         "result": "Yes",
         "evidence": "而且是個熱鬧商區",
-        "confidence": 0.9
+        "confidence": 1.0
     },
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",

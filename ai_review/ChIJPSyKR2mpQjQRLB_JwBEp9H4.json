@@ -6,8 +6,8 @@
     },
     "Spacious seating": {
         "result": "Yes",
-        "evidence": "整體環境乾淨、空間寬敞、服務親切、份量充足、價位合理、無用餐時間限制",
-        "confidence": 0.9
+        "evidence": "整體環境乾淨、空間寬敞、服務親切、份量充足、價位合理、無用餐時間限制，願意再次來用餐。",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -15,11 +15,11 @@
         "confidence": 0.4
     },
     "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "Yes",
+        "evidence": "通常地下室有位置，而且常常有聚會＆小孩玩玩具，地下室環境沒裝潢，隔壁聊天聲音聲聲入耳。",
+        "confidence": 1.0
     },
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "綜合評估",
     "generated_signals": [

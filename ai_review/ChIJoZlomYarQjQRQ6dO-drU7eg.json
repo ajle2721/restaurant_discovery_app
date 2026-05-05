@@ -1,26 +1,26 @@
 {
     " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "Yes",
+        "evidence": "User provided info",
+        "confidence": 1.0
     },
     "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "Yes",
+        "evidence": "User provided info",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Yes",
-        "evidence": "除了兒童餐",
-        "confidence": 0.9
+        "evidence": "除了兒童餐，還有寶寶泥跟寶寶粥🥣",
+        "confidence": 1.0
     },
     "kid_noise_tolerant": {
         "result": "Yes",
-        "evidence": "親子友善空間 小朋友都很愛 已購買 ^3",
-        "confidence": 0.9
+        "evidence": "有孩子們的地方真的好歡樂，光跟朋友的娃玩耍就覺得很療育。",
+        "confidence": 1.0
     },
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": 5,
+    "parent_friendly_level": "高",
     "reason": "綜合評估",
     "generated_signals": [
         "室內空間非常大.而且很舒適",

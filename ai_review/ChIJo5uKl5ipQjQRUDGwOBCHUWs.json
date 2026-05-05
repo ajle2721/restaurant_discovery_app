@@ -1,25 +1,25 @@
 {
     " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "Yes",
+        "evidence": "User provided info",
+        "confidence": 1.0
     },
     "Spacious seating": {
         "result": "Yes",
-        "evidence": "空間很寬敞舒適的親子餐廳",
-        "confidence": 0.9
+        "evidence": "空間很寬敞，很適合親子聚會。",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Yes",
-        "evidence": "⚠️兒童餐：本來想點兔子咖喱飯",
-        "confidence": 0.9
+        "evidence": "兒童餐：青醬雞肉丸麵。",
+        "confidence": 1.0
     },
     "kid_noise_tolerant": {
         "result": "Yes",
-        "evidence": "還算適合小孩吃的餐點",
-        "confidence": 0.9
+        "evidence": "不過小孩真的太多了，所以周圍很吵鬧，很適合帶孩子來用餐，有很不錯的小孩遊樂設施，但情侶用餐再考慮一下。",
+        "confidence": 1.0
     },
-    "parent_friendly_score": 3,
+    "parent_friendly_score": 5,
     "parent_friendly_level": "高",
     "reason": "綜合評估",
     "generated_signals": [

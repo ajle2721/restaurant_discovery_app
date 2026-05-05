@@ -6,8 +6,8 @@
     },
     "Spacious seating": {
         "result": "No",
-        "evidence": "小小的店面",
-        "confidence": 0.9
+        "evidence": "內用位子狹窄，坐在門邊的話會很冷",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",

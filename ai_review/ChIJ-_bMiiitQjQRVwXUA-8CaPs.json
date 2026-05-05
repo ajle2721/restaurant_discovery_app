@@ -1,8 +1,8 @@
 {
     " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "Yes",
+        "evidence": "沒想到店員非常友善！幫我們準備嬰兒座椅及兒童碗盤",
+        "confidence": 1.0
     },
     "Spacious seating": {
         "result": "Unknown",
@@ -16,11 +16,11 @@
     },
     "kid_noise_tolerant": {
         "result": "Yes",
-        "evidence": "整體氣氛很熱鬧",
-        "confidence": 0.9
+        "evidence": "整體氣氛很熱鬧，服務也不錯，生日聚餐來這裡真的超適合，吃得開心又有活動感，湯頭、食材和活動都讓人印象深刻，下次還想再帶朋友來慶祝！",
+        "confidence": 1.0
     },
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
     "reason": "綜合評估",
     "generated_signals": [
         "沒想到店員非常友善！幫我們準備嬰兒座椅及兒童碗盤",

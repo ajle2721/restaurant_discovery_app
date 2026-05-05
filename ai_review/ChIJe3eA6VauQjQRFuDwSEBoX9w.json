@@ -6,18 +6,18 @@
     },
     "Spacious seating": {
         "result": "Yes",
-        "evidence": "由於餐廳提供兒童專屬菜單（兒童餐）且空間寬敞",
-        "confidence": 0.9
+        "evidence": "由於餐廳提供兒童專屬菜單（兒童餐）且空間寬敞，是許多家長帶小孩用餐的首選地點。",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Yes",
-        "evidence": "由於餐廳提供兒童專屬菜單（兒童餐）且空間寬敞",
-        "confidence": 0.9
+        "evidence": "由於餐廳提供兒童專屬菜單（兒童餐）且空間寬敞，是許多家長帶小孩用餐的首選地點。",
+        "confidence": 1.0
     },
     "kid_noise_tolerant": {
         "result": "Yes",
-        "evidence": "非常適合家庭聚餐或朋友小憩",
-        "confidence": 0.9
+        "evidence": "由於餐廳提供兒童專屬菜單（兒童餐）且空間寬敞，是許多家長帶小孩用餐的首選地點。",
+        "confidence": 1.0
     },
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",

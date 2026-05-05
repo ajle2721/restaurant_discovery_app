@@ -10,14 +10,14 @@
         "confidence": 0.4
     },
     "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "No",
+        "evidence": "飲料選擇不多，小朋友只能喝汽水。",
+        "confidence": 1.0
     },
     "kid_noise_tolerant": {
         "result": "Yes",
-        "evidence": "現場熱鬧又帶點老派茶樓特有的喧囂感",
-        "confidence": 0.9
+        "evidence": "用餐時段生意相當好，幾乎座無虛席，現場熱鬧又帶點老派茶樓特有的喧囂感。",
+        "confidence": 1.0
     },
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",

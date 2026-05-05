@@ -1,26 +1,26 @@
 {
     " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "Yes",
+        "evidence": "User provided info",
+        "confidence": 1.0
     },
     "Spacious seating": {
         "result": "Yes",
-        "evidence": "位子很寬敞",
-        "confidence": 0.9
+        "evidence": "用餐區域蠻寬大的，不會擁擠動線還可以，另外還有類似包廂的地方！",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Yes",
         "evidence": "兒童餐的車車造型小朋友很喜歡（麵包、蛋、炸南瓜、主食）",
-        "confidence": 0.9
+        "confidence": 1.0
     },
     "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "Yes",
+        "evidence": "舉辦各種親子活動的好地方～提供的食物很好吃，食材也很新鮮，生菜沙拉裡面還有切片的鮑魚，很用心準備的料理。",
+        "confidence": 1.0
     },
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": 5,
+    "parent_friendly_level": "高",
     "reason": "綜合評估",
     "generated_signals": [
         "用餐區域蠻寬大的，不會擁擠動線還可以，另外還有類似包廂的地方！",

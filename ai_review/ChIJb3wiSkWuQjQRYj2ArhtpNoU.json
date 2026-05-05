@@ -5,9 +5,9 @@
         "confidence": 0.4
     },
     "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "No",
+        "evidence": "但是桌距過近，隔壁桌的聊天聲聽得很清楚，少了些高級餐廳的氛圍感😅",
+        "confidence": 1.0
     },
     "Kids menu available": {
         "result": "Unknown",
@@ -16,11 +16,11 @@
     },
     "kid_noise_tolerant": {
         "result": "Yes",
-        "evidence": "不限時的話還滿適合聚餐聊天的",
-        "confidence": 0.9
+        "evidence": "日式炊飯小孩也喜歡",
+        "confidence": 1.0
     },
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "需留意",
     "reason": "綜合評估",
     "generated_signals": [
         "日式炊飯小孩也喜歡",
