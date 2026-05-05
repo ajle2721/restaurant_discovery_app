@@ -23,7 +23,9 @@ const taipeiDistricts = [
 
 function readJson(filePath) {
   try {
-    return JSON.parse(fs.readFileSync(filePath, "utf8"));
+    const content = fs.readFileSync(filePath, "utf8");
+    // Strip UTF-8 BOM if present
+    return JSON.parse(content.replace(/^\uFEFF/, ""));
   } catch (err) {
     console.error(`Error parsing ${filePath}:`, err.message);
     return {};
