@@ -22,6 +22,10 @@
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
     "reason": "綜合評估",
-    "generated_signals": [],
-    "generated_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。"
+    "generated_signals": [
+        "很不錯的地方，兒童座椅空間也不會影響到別桌。",
+        "桌距比較近。"
+    ],
+    "generated_summary": "餐廳提供兒童座椅，但店內桌距較近，空間感較為擁擠。",
+    "card_summary": "設有兒童椅，但空間較擁擠，前往時需多加留意。"
 }

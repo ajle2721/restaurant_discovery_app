@@ -11,22 +11,21 @@
     },
     "Kids menu available": {
         "result": "Yes",
-        "evidence": "兒童餐覺得實在是太迷你價錢偏高",
+        "evidence": "小朋友餐食也偏多 吃不完",
         "confidence": 0.9
     },
     "kid_noise_tolerant": {
         "result": "Yes",
-        "evidence": "親子友善有尿布台",
+        "evidence": "會稍微「熱鬧」",
         "confidence": 0.9
     },
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "綜合評估",
     "generated_signals": [
-        "會稍微「熱鬧」",
-        "兒童餐覺得實在是太迷你價錢偏高",
-        "小朋友餐食也偏多 吃不完",
-        "親子友善有尿布台"
+        "親子餐廳類型，會稍微「熱鬧」，不過佈置不錯，相當不錯的甲蟲餐廳，週末常客滿記得提早訂位",
+        "兒童餐覺得實在是太迷你價錢偏高，直接點大人餐點比較划算，小孩光顧著玩什麼都覺得好吃😄"
     ],
-    "generated_summary": "評論指出這家餐廳有兒童餐點、對親子家庭友善。"
+    "generated_summary": "這是一間親子友善的甲蟲主題餐廳，環境熱鬧且設有兒童餐與遊戲區，非常適合帶小孩前往體驗。",
+    "card_summary": "這是一間親子友善的甲蟲主題餐廳，環境熱鬧且設有兒童餐與遊戲區，非常適合帶小孩前往體驗。"
 }

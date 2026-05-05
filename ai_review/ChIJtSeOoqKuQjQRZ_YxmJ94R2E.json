@@ -6,7 +6,7 @@
     },
     "Spacious seating": {
         "result": "Yes",
-        "evidence": "空間寬敞&廁所乾淨加分❤️",
+        "evidence": "女廁空間寬敞",
         "confidence": 0.9
     },
     "Kids menu available": {
@@ -24,8 +24,8 @@
     "reason": "綜合評估",
     "generated_signals": [
         "空間寬敞&廁所乾淨加分❤️",
-        "女廁空間寬敞",
-        "老闆願意把空間大大撥給洗手間佔用好幾坪實在難得"
+        "唯獨真的是太熱絡了，所以用餐時間稍稍難免會有吵雜，但可以接受的範圍囉！"
     ],
-    "generated_summary": "評論指出這家餐廳空間寬敞。"
+    "generated_summary": "該餐廳用餐空間寬敞，且環境氛圍熱絡，適合家庭聚餐。",
+    "card_summary": "用餐空間寬敞，且環境氛圍熱絡，適合家庭聚餐。"
 }

@@ -31,7 +31,7 @@ def split_into_sentences(text):
     sentences = re.split(r'[。！!？?，,；;\n]', text)
     return [s.strip() for s in sentences if s.strip()]
 
-def evaluate_restaurant(data):
+def evaluate_restaurant(data, existing_ai_review=None):
     reviews = data.get("reviews", [])
     all_sentences = []
     
@@ -138,6 +138,19 @@ def evaluate_restaurant(data):
     else:
         level = "資訊不足"
         
+    # PRESERVE EXISTING SUMMARIES IF THEY EXIST
+    final_summary = summary
+    final_card_summary = summary
+    final_signals = all_signals
+
+    if existing_ai_review:
+        if existing_ai_review.get("generated_summary") and len(existing_ai_review.get("generated_summary")) > 20:
+            final_summary = existing_ai_review.get("generated_summary")
+        if existing_ai_review.get("card_summary") and len(existing_ai_review.get("card_summary")) > 10:
+            final_card_summary = existing_ai_review.get("card_summary")
+        if existing_ai_review.get("generated_signals") and len(existing_ai_review.get("generated_signals")) > 0:
+            final_signals = existing_ai_review.get("generated_signals")
+
     final_output = {
         " child_seat available": analysis["high_chair_available"],
         "Spacious seating": analysis["spacious_seating"],
@@ -146,8 +159,9 @@ def evaluate_restaurant(data):
         "parent_friendly_score": score,
         "parent_friendly_level": level,
         "reason": "綜合評估",
-        "generated_signals": all_signals,
-        "generated_summary": summary
+        "generated_signals": final_signals,
+        "generated_summary": final_summary,
+        "card_summary": final_card_summary
     }
     return final_output
 
@@ -161,10 +175,16 @@ def main():
         output_path = os.path.join(output_dir, filename)
         
         try:
-            with open(filepath, 'r', encoding='utf-8') as f:
+            # Load existing review if it exists to preserve summaries
+            existing_ai_review = None
+            if os.path.exists(output_path):
+                with open(output_path, 'r', encoding='utf-8-sig') as f:
+                    existing_ai_review = json.load(f)
+
+            with open(filepath, 'r', encoding='utf-8-sig') as f:
                 data = json.load(f)
                 
-            analysis = evaluate_restaurant(data)
+            analysis = evaluate_restaurant(data, existing_ai_review)
             
             with open(output_path, 'w', encoding='utf-8') as f:
                 json.dump(analysis, f, ensure_ascii=False, indent=4)

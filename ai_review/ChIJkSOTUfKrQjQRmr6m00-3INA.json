@@ -22,6 +22,9 @@
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
     "reason": "綜合評估",
-    "generated_signals": [],
-    "generated_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。"
+    "generated_signals": [
+        "東西好吃，價位微高，有兒童專用椅 (需事先預約)"
+    ],
+    "generated_summary": "該餐廳提供兒童專用椅，但需事先預約，其他親子友善相關資訊較少提及。",
+    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。"
 }

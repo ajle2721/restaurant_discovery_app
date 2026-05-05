@@ -16,15 +16,16 @@
     },
     "kid_noise_tolerant": {
         "result": "No",
-        "evidence": "氛圍安靜放鬆",
+        "evidence": "在幾乎客滿的情況下仍能保持安靜",
         "confidence": 0.9
     },
     "parent_friendly_score": -2,
     "parent_friendly_level": "需留意",
     "reason": "綜合評估",
     "generated_signals": [
-        "氛圍安靜放鬆",
-        "在幾乎客滿的情況下仍能保持安靜"
+        "環境清幽，在幾乎客滿的情況下仍能保持安靜，用餐品質還不錯",
+        "氛圍安靜放鬆，讓人能專心感受食物與環境的美好。"
     ],
-    "generated_summary": "但需留意氣氛安靜/不適合帶小孩。"
+    "generated_summary": "根據評論顯示，該餐廳環境較安靜，帶小孩前往需多加留意。",
+    "card_summary": "該餐廳環境較安靜，帶小孩前往需多加留意。"
 }

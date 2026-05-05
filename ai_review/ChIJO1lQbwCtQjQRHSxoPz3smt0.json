@@ -6,7 +6,7 @@
     },
     "Spacious seating": {
         "result": "Yes",
-        "evidence": "店內空間大、但座位也多",
+        "evidence": "位子算寬敞",
         "confidence": 0.9
     },
     "Kids menu available": {
@@ -23,8 +23,9 @@
     "parent_friendly_level": "中",
     "reason": "綜合評估",
     "generated_signals": [
-        "店內空間大、但座位也多",
-        "位子算寬敞"
+        "環境不錯，用餐環境明亮乾淨，位子算寬敞，也有不會被其他桌客人影響到的空間距離。",
+        "店內空間大、但座位也多。"
     ],
-    "generated_summary": "評論指出這家餐廳空間寬敞。"
+    "generated_summary": "餐廳用餐環境寬敞舒適，座位間距適當，但目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "餐廳用餐環境寬敞舒適。"
 }

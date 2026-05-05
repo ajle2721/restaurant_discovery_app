@@ -6,31 +6,28 @@
     },
     "Spacious seating": {
         "result": "Yes",
-        "evidence": "空間很寬敞",
+        "evidence": "空間很寬敞舒適的親子餐廳",
         "confidence": 0.9
     },
     "Kids menu available": {
         "result": "Yes",
-        "evidence": "✅兒童餐：青醬雞肉丸麵",
+        "evidence": "⚠️兒童餐：本來想點兔子咖喱飯",
         "confidence": 0.9
     },
     "kid_noise_tolerant": {
         "result": "Yes",
-        "evidence": "很適合親子聚會",
+        "evidence": "還算適合小孩吃的餐點",
         "confidence": 0.9
     },
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
     "reason": "綜合評估",
     "generated_signals": [
-        "空間很寬敞",
-        "還算適合小孩吃的餐點",
-        "很適合親子聚會",
-        "不知道是不是因為挑高聲音很容易放大像菜市場一樣🥲不過真的是做到非常親子友善",
-        "空間很大適合多人聚餐",
-        "空間很寬敞舒適的親子餐廳",
-        "✅兒童餐：青醬雞肉丸麵",
-        "⚠️兒童餐：本來想點兔子咖喱飯"
+        "空間很寬敞，很適合親子聚會。",
+        "不過小孩真的太多了，所以周圍很吵鬧，有很不錯的小孩遊樂設施",
+        "兒童餐：青醬雞肉丸麵。",
+        "空間很大適合多人聚餐"
     ],
-    "generated_summary": "評論指出這家餐廳空間寬敞、有兒童餐點、對親子家庭友善。"
+    "generated_summary": "該餐廳空間寬敞且非常親子友善，設有適合學齡前兒童的遊戲區及兒童餐點，環境氣氛熱鬧，非常適合帶小孩前往。",
+    "card_summary": "空間寬敞且非常親子友善，設有適合學齡前兒童的遊戲區及兒童餐點，環境氣氛熱鬧。"
 }

@@ -6,7 +6,7 @@
     },
     "Spacious seating": {
         "result": "Yes",
-        "evidence": "空間寬敞、座位舒適、氛圍拉滿、菜式豐富、是味覺加上聽覺雙重享受放鬆好地方",
+        "evidence": "空間寬敞、氛圍好的音樂餐酒館",
         "confidence": 0.9
     },
     "Kids menu available": {
@@ -23,8 +23,9 @@
     "parent_friendly_level": "中",
     "reason": "綜合評估",
     "generated_signals": [
-        "空間寬敞、座位舒適、氛圍拉滿、菜式豐富、是味覺加上聽覺雙重享受放鬆好地方",
-        "空間寬敞、氛圍好的音樂餐酒館"
+        "空間寬敞、座位舒適、氛圍拉滿、菜式豐富、是味覺加上聽覺雙重享受放鬆好地方！",
+        "演唱都很會帶氣氛，觀眾氛圍也都挺嗨！"
     ],
-    "generated_summary": "評論指出這家餐廳空間寬敞。"
+    "generated_summary": "該餐廳空間寬敞且座位舒適，現場演唱氣氛熱鬧，適合聚餐。",
+    "card_summary": "空間寬敞且座位舒適，現場演唱氣氛熱鬧，適合聚餐。"
 }

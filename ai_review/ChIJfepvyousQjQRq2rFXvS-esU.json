@@ -11,7 +11,7 @@
     },
     "Kids menu available": {
         "result": "Yes",
-        "evidence": "特別的是還有提供「寶寶粥」呢",
+        "evidence": "除了有兒童餐",
         "confidence": 0.9
     },
     "kid_noise_tolerant": {
@@ -23,8 +23,9 @@
     "parent_friendly_level": "中",
     "reason": "綜合評估",
     "generated_signals": [
-        "特別的是還有提供「寶寶粥」呢",
-        "除了有兒童餐"
+        "除了有兒童餐，特別的是還有提供「寶寶粥」呢！",
+        "不愧是親子餐廳～"
     ],
-    "generated_summary": "評論指出這家餐廳有兒童餐點。"
+    "generated_summary": "該餐廳為親子友善餐廳，提供兒童餐及寶寶粥，適合帶小孩前往用餐。",
+    "card_summary": "為親子友善餐廳，提供兒童餐及寶寶粥，適合帶小孩前往用餐。"
 }

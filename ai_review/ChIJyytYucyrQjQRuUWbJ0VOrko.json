@@ -22,6 +22,11 @@
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
     "reason": "綜合評估",
-    "generated_signals": [],
-    "generated_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。"
+    "generated_signals": [
+        "店內燈光昏暗，座位擁擠。",
+        "入店後覺得很嘈雜，又暗位子又小。",
+        "跟桌距很近以外其他都是很好的體驗。"
+    ],
+    "generated_summary": "該餐廳空間較為擁擠且環境嘈雜，目前評論中未提及兒童座椅或兒童餐等親子友善設施，較適合情侶或成人聚餐。",
+    "card_summary": "該餐廳空間較擁擠且環境較安靜，帶小孩前往需多加留意。"
 }

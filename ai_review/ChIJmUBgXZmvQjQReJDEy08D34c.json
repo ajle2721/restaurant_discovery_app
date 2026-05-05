@@ -22,6 +22,10 @@
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
     "reason": "綜合評估",
-    "generated_signals": [],
-    "generated_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。"
+    "generated_signals": [
+        "大小包間裡很舒服且沒有一望無際的人海感。",
+        "在那些細碎的家族交談與笑聲中，菜餚一道道上桌。"
+    ],
+    "generated_summary": "餐廳環境舒適寬敞，且適合家庭聚餐，氛圍輕鬆自在。",
+    "card_summary": "環境舒適寬敞，且適合家庭聚餐，氛圍輕鬆自在。"
 }

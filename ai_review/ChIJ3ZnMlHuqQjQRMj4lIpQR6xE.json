@@ -16,16 +16,17 @@
     },
     "kid_noise_tolerant": {
         "result": "No",
-        "evidence": "但整體氛圍年輕、熱鬧",
+        "evidence": "店內氛圍熱鬧",
         "confidence": 0.9
     },
     "parent_friendly_score": -2,
     "parent_friendly_level": "需留意",
     "reason": "綜合評估",
     "generated_signals": [
-        "但整體氛圍年輕、熱鬧",
+        "座位數量不少，但桌距偏近，用餐尖峰時段容易顯得擁擠。",
         "但若想要安靜用餐",
-        "店內氛圍熱鬧"
+        "座位雖然有點擁擠但數量不少"
     ],
-    "generated_summary": "但需留意氣氛安靜/不適合帶小孩。"
+    "generated_summary": "店內氛圍熱鬧適合帶小孩，但座位間距較近且尖峰時段較擁擠，推車進出可能較不便。",
+    "card_summary": "對小孩聲音較為包容，但空間較擁擠，前往時需多加留意。"
 }

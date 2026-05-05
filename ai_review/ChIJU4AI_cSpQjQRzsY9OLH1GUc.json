@@ -22,6 +22,11 @@
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
     "reason": "綜合評估",
-    "generated_signals": [],
-    "generated_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。"
+    "generated_signals": [
+        "位置不是很多，可以提前訂位",
+        "店家對小孩很友善，值得再來！",
+        "今天剛好遇到聖誕節活動，剛好讓坐不住的小孩可以多坐一會兒，超棒的！"
+    ],
+    "generated_summary": "店家對小孩相當友善，且有互動活動能安撫孩子，但店內座位空間較為有限。",
+    "card_summary": "對小孩聲音較為包容，但空間較擁擠，前往時需多加留意。"
 }
