@@ -1,8 +1,8 @@
 {
     " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "Yes",
+        "evidence": "Manual update",
+        "confidence": 1.0
     },
     "Spacious seating": {
         "result": "Unknown",
@@ -15,16 +15,18 @@
         "confidence": 1.0
     },
     "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "result": "Yes",
+        "evidence": "Manual update",
+        "confidence": 1.0
     },
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "手動更新資料",
     "generated_signals": [
+        "提供兒童椅",
+        "不怕小孩吵",
         "小大人餐－起司蛋雞肉飯 270"
     ],
-    "generated_summary": "餐廳提供有「小大人餐」供兒童選擇，其餘親子友善設施資訊較不明確。",
-    "card_summary": "餐廳提供有「小大人餐」供兒童選擇，其餘親子友善設施資訊較不明確。"
+    "generated_summary": "貳樓中山南西店提供兒童椅、兒童餐，且環境對小孩吵鬧容忍度高，是非常推薦的親子友善餐廳。",
+    "card_summary": "提供兒童椅與兒童餐，對親子非常友善。"
 }

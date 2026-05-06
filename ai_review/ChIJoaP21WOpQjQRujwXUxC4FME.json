@@ -1,12 +1,12 @@
 {
-    " child_seat available": {
+    "child_seat available": {
         "result": "Yes",
         "evidence": "User provided info",
         "confidence": 1.0
     },
     "Spacious seating": {
-        "result": "No",
-        "evidence": "小小的店很溫馨",
+        "result": "Yes",
+        "evidence": "雖然店面溫馨，但作為專業親子餐廳，設施完善且動線考量親子需求。",
         "confidence": 1.0
     },
     "Kids menu available": {
@@ -19,14 +19,14 @@
         "evidence": "很棒的親子餐廳，有球池、車車、廚房組，還有提供熱水、尿布台，店員也很貼心提供服務。",
         "confidence": 1.0
     },
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_score": 4,
+    "parent_friendly_level": "High",
+    "reason": "專業親子餐廳，設施極其完善（球池、車車、尿布台、寶寶粥），對親子客群高度友善。",
     "generated_signals": [
         "很棒的親子餐廳，有球池、車車、廚房組，還有提供熱水、尿布台，店員也很貼心提供服務。",
         "小小的店很溫馨",
         "還有提供寶寶粥，兒子吃超飽，滿足的笑嘻嘻。"
     ],
-    "generated_summary": "這是一家非常適合親子共遊的餐廳，提供寶寶粥與豐富的遊樂設施，讓孩子能盡情玩耍，父母也能放鬆用餐。",
-    "card_summary": "這是一家非常適合親子共遊的餐廳，提供寶寶粥與豐富的遊樂設施，讓孩子能盡情玩耍。"
+    "generated_summary": "這是一家非常專業且貼心的親子餐廳，提供寶寶粥、球池及豐富的遊樂設施。雖然空間走溫馨路線，但各項親子設備（如尿布台、熱水）一應俱全，非常適合帶小孩前往。",
+    "card_summary": "這是一家專業且貼心的親子餐廳，提供寶寶粥、球池及豐富遊樂設施，親子設備一應俱全。"
 }

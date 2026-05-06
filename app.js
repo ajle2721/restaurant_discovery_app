@@ -375,10 +375,10 @@ function renderResults() {
         return { ...res, distance: dist };
     });
 
-    // 2. Filter by 3km and Category
+    // 2. Filter by distance (Adaptive: 1.5km for points, 2.5km for districts)
+    const maxRadius = (center.type === '行政區') ? 2.5 : 1.5;
     let filtered = data.filter(res => {
-        // Only show within 3km as requested
-        if (res.distance > 3) return false;
+        if (res.distance > maxRadius) return false;
         
         if (state.filters.size > 0) {
             return Array.from(state.filters).every(f => res.attributes[f] === 'yes');
@@ -466,6 +466,25 @@ function calculateDistance(lat1, lon1, lat2, lon2) {
     return R * c;
 }
 
+function calculateTravelTimes(km) {
+    if (km === Infinity) return null;
+    
+    // Heuristic: Real road distance is approx 1.3x straight-line distance in Taipei
+    const roadKm = km * 1.3;
+    
+    // Walking: ~4.5 km/h
+    const walkingMin = Math.round((roadKm / 4.5) * 60);
+    
+    // Driving: ~20 km/h (average Taipei city speed with traffic/lights)
+    const drivingMin = Math.round((roadKm / 20) * 60) + 1; // +1 min buffer
+    
+    return {
+        walking: walkingMin,
+        driving: drivingMin,
+        roadKm: roadKm.toFixed(1)
+    };
+}
+
 function formatDistance(km) {
     if (km === Infinity) return '';
     if (km < 1) return (km * 1000).toFixed(0) + 'm';
@@ -492,15 +511,20 @@ function renderCard(res, container) {
         extraInfoHtml = `<span style="font-size: 0.8rem; color: ${color}; font-weight: 700; opacity: 0.9;">${summaryTags}</span>`;
     }
 
-    const distHtml = res.distance !== Infinity ? `<span class="distance-badge">🚶 ${formatDistance(res.distance)}</span>` : '';
+    const times = calculateTravelTimes(res.distance);
+    let timePillHtml = '';
+    if (times) {
+        timePillHtml = `
+            <button class="time-pill-btn" onclick="focusOnMap(event, '${res.place_id}')" title="在地圖上查看">
+                <span class="pin">📍</span> 🚶${times.walking}分 | 🚗${times.driving}分 <span class="arrow">›</span>
+            </button>
+        `;
+    }
 
     card.innerHTML = `
-        <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 0.5rem; gap: 0.5rem;">
+        <div class="card-header-row">
             <div class="restaurant-name">${res.name}</div>
-            <div style="display: flex; gap: 0.4rem; align-items: center; flex-shrink: 0;">
-                ${distHtml}
-                <button class="view-on-map-btn" onclick="focusOnMap(event, '${res.place_id}')">📍 地圖</button>
-            </div>
+            ${timePillHtml}
         </div>
         <div style="margin-bottom: 0.75rem; display: flex; align-items: center; gap: 0.6rem; flex-wrap: wrap;">
             <span class="decision-summary ${levelClass}">${levelLabels[level] || level}</span>
@@ -597,10 +621,16 @@ function showDetail(restaurant) {
         </div>
         ${signalsHtml}
 
-        <button class="btn btn-primary" style="width: 100%; margin-top: 1rem; padding: 1.125rem;" onclick="window.open('https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(restaurant.name + ' ' + restaurant.address)}', '_blank')">
+        <button id="btn-open-google-maps" class="btn btn-primary" style="width: 100%; margin-top: 1rem; padding: 1.125rem;">
             在 Google 地圖中開啟
         </button>
     `;
+
+    // Add event listener after setting innerHTML to avoid quote issues in onclick attributes
+    document.getElementById('btn-open-google-maps').addEventListener('click', () => {
+        const query = encodeURIComponent(restaurant.name + ' ' + restaurant.address);
+        window.open(`https://www.google.com/maps/search/?api=1&query=${query}`, '_blank');
+    });
 
     switchView('detail');
     updateUrl();
@@ -691,8 +721,14 @@ function renderMap(restaurants) {
                 icon: pinIcon
             }).addTo(state.map);
             
+            const times = calculateTravelTimes(res.distance);
+            const timeInfo = times ? `<div class="map-popup-time">🚶${times.walking}分 | 🚗${times.driving}分</div>` : '';
+
             marker.bindPopup(`<div class="map-popup-card">
-                <div class="map-popup-title">${res.name}</div>
+                <div class="map-popup-header">
+                    <div class="map-popup-title">${res.name}</div>
+                    ${timeInfo}
+                </div>
                 <div class="map-popup-rating">⭐ ${res.rating}</div>
                 <div style="margin-bottom: 8px;"><span class="decision-summary" style="background: ${color}; color: #fff; padding: 2px 6px; border-radius: 4px; font-size: 11px;">${levelLabels[res.parent_friendly_level] || res.parent_friendly_level}</span></div>
                 <button class="map-popup-btn" onclick="showDetailById('${res.place_id}')">查看詳情</button>
