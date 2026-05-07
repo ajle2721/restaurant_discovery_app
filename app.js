@@ -515,8 +515,8 @@ function renderCard(res, container) {
     let timePillHtml = '';
     if (times) {
         timePillHtml = `
-            <button class="time-pill-btn" onclick="focusOnMap(event, '${res.place_id}')" title="在地圖上查看">
-                <span class="pin">📍</span> 🚶${times.walking}分 | 🚗${times.driving}分 <span class="arrow">›</span>
+            <button class="time-tag" onclick="focusOnMap(event, '${res.place_id}')" title="在地圖上查看">
+                🚶${times.walking}分 · 🚗${times.driving}分
             </button>
         `;
     }
@@ -538,7 +538,7 @@ function renderCard(res, container) {
     `;
 
     card.addEventListener('click', (e) => {
-        if (!e.target.closest('.view-on-map-btn')) {
+        if (!e.target.closest('.time-tag')) {
             showDetail(res);
         }
     });
@@ -724,15 +724,20 @@ function renderMap(restaurants) {
             const times = calculateTravelTimes(res.distance);
             const timeInfo = times ? `<div class="map-popup-time">🚶${times.walking}分 | 🚗${times.driving}分</div>` : '';
 
-            marker.bindPopup(`<div class="map-popup-card">
-                <div class="map-popup-header">
-                    <div class="map-popup-title">${res.name}</div>
-                    ${timeInfo}
+            marker.bindPopup(`<div class="map-popup-compact">
+                <div class="map-popup-title-row">
+                    <span class="map-popup-name">${res.name}</span>
+                    <span class="map-popup-rating">⭐${res.rating}</span>
                 </div>
-                <div class="map-popup-rating">⭐ ${res.rating}</div>
-                <div style="margin-bottom: 8px;"><span class="decision-summary" style="background: ${color}; color: #fff; padding: 2px 6px; border-radius: 4px; font-size: 11px;">${levelLabels[res.parent_friendly_level] || res.parent_friendly_level}</span></div>
-                <button class="map-popup-btn" onclick="showDetailById('${res.place_id}')">查看詳情</button>
-            </div>`);
+                <div class="map-popup-meta-row">
+                    <span class="map-popup-level-tag" style="background: ${color}">${levelLabels[res.parent_friendly_level] || res.parent_friendly_level}</span>
+                    ${times ? `<span class="map-popup-time-mini">🚶${times.walking}分 · 🚗${times.driving}分</span>` : ''}
+                </div>
+                <button class="map-popup-action" onclick="showDetailById('${res.place_id}')">查看詳情</button>
+            </div>`, { 
+                maxWidth: 240,
+                autoPanPadding: L.point(20, 20)
+            });
             
             state.markers.push(marker);
             state.markerMap[res.place_id] = marker;
@@ -787,7 +792,7 @@ function checkUrlParams() {
 function shareCurrentFilters() {
     const url = window.location.href;
     if (navigator.share) {
-        navigator.share({ title: '小手找食', url: url });
+        navigator.share({ title: '帶小孩吃什麼？', url: url });
     } else {
         navigator.clipboard.writeText(url);
         showToast('連結已複製');

@@ -66,9 +66,9 @@ body {
 
 .subtitle {
     font-size: 1rem;
-    opacity: 0.75;
+    opacity: 0.9;
     margin-bottom: 1.5rem;
-    font-weight: 300;
+    font-weight: 500;
     letter-spacing: 0.02em;
 }
 
@@ -184,20 +184,21 @@ body {
 }
 
 .btn-nearby {
-    background: rgba(255, 255, 255, 0.2);
-    backdrop-filter: blur(8px);
-    color: white;
-    border: 1.5px solid rgba(255, 255, 255, 0.4);
+    background: white;
+    color: var(--primary);
+    border: none;
     padding: 0.875rem 1.75rem;
     border-radius: 2rem;
     font-size: 1rem;
-    font-weight: 700;
+    font-weight: 800;
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    gap: 0.5rem;
+    gap: 0.6rem;
     transition: var(--transition);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.15);
     max-width: 90%;
+    cursor: pointer;
 }
 
 .btn-text-desktop {
@@ -218,8 +219,9 @@ body {
 }
 
 .btn-nearby:hover {
-    background: rgba(255, 255, 255, 0.3);
-    transform: translateY(-1px);
+    background: white;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
 }
 
 .quick-links {
@@ -479,33 +481,6 @@ body {
     z-index: 9999 !important;
 }
 
-.view-on-map-btn {
-    background: #EBF5FF;
-    border: 1px solid #BFDBFE;
-    border-radius: 2rem;
-    padding: 0.4rem 0.6rem;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    gap: 0.25rem;
-    cursor: pointer;
-    transition: var(--transition);
-    font-size: 0.8rem;
-    font-weight: 800;
-    color: #2563EB;
-    box-shadow: 0 1px 2px rgba(37, 99, 235, 0.05);
-    white-space: nowrap;
-    line-height: 1;
-}
-
-.view-on-map-btn:hover {
-    background: #DBEAFE;
-    border-color: #3B82F6;
-    color: #1D4ED8;
-    transform: translateY(-1px);
-    box-shadow: 0 4px 6px -1px rgba(37, 99, 235, 0.1);
-}
-
 /* Custom Pin Markers */
 .custom-pin {
     display: flex;
@@ -548,44 +523,89 @@ body {
     min-width: 180px;
 }
 
-.map-popup-title {
+/* Compact Popup for Mobile */
+.map-popup-compact {
+    min-width: 160px;
+    max-width: 220px;
+}
+
+.map-popup-title-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 8px;
+    margin-bottom: 6px;
+}
+
+.map-popup-name {
     font-weight: 800;
-    font-size: 1rem;
-    margin-bottom: 0.25rem;
+    font-size: 0.95rem;
     color: var(--text-main);
+    line-height: 1.3;
 }
 
 .map-popup-rating {
-    color: #FFB800;
+    font-size: 0.85rem;
     font-weight: 700;
-    margin-bottom: 0.5rem;
+    color: #FFB800;
+    white-space: nowrap;
 }
 
-.map-popup-tags {
+.map-popup-meta-row {
     display: flex;
-    flex-wrap: wrap;
-    gap: 0.25rem;
-    margin-bottom: 0.75rem;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 10px;
 }
 
-.map-popup-tag {
-    font-size: 0.75rem;
-    background: #f0f0f0;
-    padding: 0.1rem 0.4rem;
-    border-radius: 0.25rem;
+.map-popup-level-tag {
+    font-size: 10px;
+    color: white;
+    padding: 2px 6px;
+    border-radius: 4px;
+    font-weight: 700;
+    white-space: nowrap;
 }
 
-.map-popup-btn {
+.map-popup-time-mini {
+    font-size: 10px;
+    color: var(--text-muted);
+    white-space: nowrap;
+}
+
+.map-popup-action {
     width: 100%;
-    padding: 0.5rem;
+    padding: 8px;
     background: var(--primary);
     color: white;
     border: none;
-    border-radius: 0.5rem;
+    border-radius: 8px;
     font-weight: 700;
+    font-size: 0.85rem;
     cursor: pointer;
-    font-size: 0.875rem;
+    transition: var(--transition);
 }
+
+.map-popup-action:active {
+    transform: scale(0.95);
+}
+
+/* Leaflet Popup Overrides */
+.leaflet-popup-content-wrapper {
+    padding: 0;
+    border-radius: 12px;
+    box-shadow: var(--shadow-lg);
+}
+
+.leaflet-popup-content {
+    margin: 12px 14px;
+    line-height: 1.4;
+}
+
+.leaflet-popup-tip {
+    box-shadow: none;
+}
+
 
 /* Results */
 .results-container {
@@ -600,50 +620,33 @@ body {
     margin-bottom: 0.6rem;
 }
 
-.time-pill-btn {
-    background: white;
-    border: 1.5px solid var(--secondary);
-    color: var(--secondary);
-    padding: 0.35rem 0.85rem;
-    border-radius: 2rem;
-    font-size: 0.8rem;
-    font-weight: 800;
+.time-tag {
+    background: #f1f5f9;
+    border: none;
+    color: var(--text-muted);
+    padding: 0.25rem 0.6rem;
+    border-radius: 0.5rem;
+    font-size: 0.75rem;
+    font-weight: 600;
     cursor: pointer;
     white-space: nowrap;
-    transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    transition: all 0.2s ease;
     display: flex;
     align-items: center;
-    gap: 6px;
+    gap: 4px;
     flex-shrink: 0;
-    box-shadow: 0 2px 4px rgba(79, 179, 170, 0.1);
 }
 
-.time-pill-btn .pin {
-    font-size: 0.9rem;
-    transition: transform 0.2s ease;
+.time-tag:hover {
+    background: #e2e8f0;
+    color: var(--text-main);
+    transform: translateY(-1px);
 }
 
-.time-pill-btn .arrow {
-    font-size: 1.1rem;
-    margin-left: 2px;
-    opacity: 0.7;
+.time-tag:active {
+    transform: translateY(0);
 }
 
-.time-pill-btn:hover {
-    background: var(--secondary);
-    color: white;
-    transform: translateY(-2px) scale(1.02);
-    box-shadow: 0 6px 15px rgba(79, 179, 170, 0.3);
-}
-
-.time-pill-btn:hover .pin {
-    transform: scale(1.2) rotate(-10deg);
-}
-
-.time-pill-btn:hover .arrow {
-    opacity: 1;
-    transform: translateX(2px);
-}
 
 .restaurant-card {
     background: var(--card-bg);
