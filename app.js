@@ -14,6 +14,40 @@ const state = {
     currentResults: []
 };
 
+// GA4 Tracking Helper
+function trackEvent(eventName, params = {}) {
+    if (typeof window.gtag === 'function') {
+        // 確保不送出精準座標或個資
+        const safeParams = { ...params };
+        delete safeParams.lat;
+        delete safeParams.lng;
+        delete safeParams.address;
+        
+        window.gtag('event', eventName, safeParams);
+    }
+}
+
+// Throttle function for map interactions
+function throttle(func, limit) {
+    let inThrottle;
+    return function() {
+        const args = arguments;
+        const context = this;
+        if (!inThrottle) {
+            func.apply(context, args);
+            inThrottle = true;
+            setTimeout(() => inThrottle = false, limit);
+        }
+    }
+}
+
+const filterMap = {
+    high_chair_available: 'child_seat_available',
+    kids_menu: 'kids_menu_available',
+    spacious_seating: 'spacious_seating',
+    kid_noise_tolerant: 'kid_noise_tolerant'
+};
+
 const attributeIcons = {
     high_chair_available: '🪑',
     kids_menu: '🥘',
@@ -136,14 +170,20 @@ function setupEventListeners() {
     });
 
     // Nearby Button
-    btnNearby.addEventListener('click', handleNearby);
+    btnNearby.addEventListener('click', () => {
+        trackEvent('click_nearby');
+        handleNearby();
+    });
 
     // Quick Links
     document.querySelectorAll('.quick-link-item').forEach(btn => {
         btn.addEventListener('click', () => {
             const locName = btn.dataset.loc;
             const locObj = state.locationData.find(l => l.name === locName);
-            if (locObj) selectLocation(locObj);
+            
+            trackEvent('click_popular_location', { location_name: locName });
+            
+            if (locObj) selectLocation(locObj, 'popular_location');
         });
     });
 
@@ -151,13 +191,22 @@ function setupEventListeners() {
     document.querySelectorAll('.filter-chip').forEach(chip => {
         chip.addEventListener('click', () => {
             const filter = chip.dataset.filter;
+            let action = 'select';
+            
             if (state.filters.has(filter)) {
                 state.filters.delete(filter);
                 chip.classList.remove('active');
+                action = 'deselect';
             } else {
                 state.filters.add(filter);
                 chip.classList.add('active');
             }
+            
+            trackEvent('use_filter', {
+                filter_name: filterMap[filter] || filter,
+                action: action
+            });
+            
             renderResults();
             updateUrl();
         });
@@ -180,12 +229,30 @@ function setupEventListeners() {
         hideMarkersToggle.addEventListener('change', (e) => {
             state.hideLowQualityMarkers = e.target.checked;
             state.showOthers = !e.target.checked; // Sync list expansion with map toggle
+            
+            trackEvent('toggle_recommended_only', {
+                action: state.hideLowQualityMarkers ? 'on' : 'off',
+                location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
+            });
+            
             renderResults();
         });
     }
 
     // Toggle Others
     toggleOthersBtn.addEventListener('click', () => {
+        // Track BEFORE state change to get current counts
+        const recommended = state.currentResults.filter(r => ['High', 'Medium', '高', '中'].includes(r.parent_friendly_level));
+        const others = state.currentResults.filter(r => ['Insufficient Info', 'Needs Attention', '資訊不足', '需留意'].includes(r.parent_friendly_level));
+        
+        if (!state.showOthers) {
+            trackEvent('click_show_more', {
+                location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none',
+                visible_restaurant_count: recommended.length,
+                hidden_restaurant_count: others.length
+            });
+        }
+
         state.showOthers = !state.showOthers;
         state.hideLowQualityMarkers = !state.showOthers; // Sync map toggle with list expansion
         if (hideMarkersToggle) hideMarkersToggle.checked = state.hideLowQualityMarkers;
@@ -229,7 +296,10 @@ function setupEventListeners() {
         item.addEventListener('click', () => {
             const locName = item.dataset.loc;
             const filter = item.dataset.filter;
+            const scenarioTitle = item.textContent.trim();
             
+            trackEvent('click_suggested_scenario', { scenario_title: scenarioTitle });
+
             // Set filters
             state.filters.clear();
             if (filter) {
@@ -243,7 +313,7 @@ function setupEventListeners() {
             }
 
             const locObj = state.locationData.find(l => l.name === locName);
-            if (locObj) selectLocation(locObj);
+            if (locObj) selectLocation(locObj, 'suggested_scenario');
         });
     });
 }
@@ -275,13 +345,12 @@ function handleAutocomplete() {
         autocompleteDropdown.querySelectorAll('.autocomplete-item').forEach(item => {
             item.addEventListener('click', () => {
                 const locObj = matches.find(m => m.name === item.dataset.name);
-                selectLocation(locObj);
+                selectLocation(locObj, 'manual_input');
             });
         });
     } else {
         autocompleteDropdown.classList.add('hidden');
     }
-}
 
 function handleNearby() {
     if (!navigator.geolocation) {
@@ -299,7 +368,7 @@ function handleNearby() {
                 type: '目前位置'
             };
             state.userLocation = { lat: loc.lat, lng: loc.lng };
-            selectLocation(loc);
+            selectLocation(loc, 'nearby');
             btnNearby.innerHTML = '<span class="icon">📍</span> <span class="btn-text-desktop">看我附近適合帶小孩的餐廳</span><span class="btn-text-mobile">找我附近適合小孩的餐廳</span>';
         },
         (err) => {
@@ -310,13 +379,20 @@ function handleNearby() {
     );
 }
 
-function selectLocation(loc) {
+function selectLocation(loc, source = 'other') {
     state.searchLocation = loc;
     state.showOthers = false; // Reset to only show High+Medium results on new search
     searchInput.value = loc.name;
     autocompleteDropdown.classList.add('hidden');
     clearSearchBtn.classList.remove('hidden');
     
+    // GA4: search_location
+    trackEvent('search_location', {
+        location_query: loc.name === '我附近' ? 'nearby' : loc.name,
+        search_source: source,
+        selected_filters: Array.from(state.filters).map(f => filterMap[f] || f).join(',')
+    });
+
     // Switch UI to results mode
     document.querySelector('.main-header').style.display = 'block'; 
     document.querySelector('.trending-section').classList.add('hidden');
@@ -404,6 +480,8 @@ function renderResults() {
     // 5. Split and Render
     const recommended = filtered.filter(r => r.parent_friendly_level === 'High' || r.parent_friendly_level === 'Medium' || r.parent_friendly_level === '高' || r.parent_friendly_level === '中');
     const others = filtered.filter(r => r.parent_friendly_level === 'Insufficient Info' || r.parent_friendly_level === 'Needs Attention' || r.parent_friendly_level === '資訊不足' || r.parent_friendly_level === '需留意');
+
+    state.currentResults = filtered; // Store for GA count tracking
 
     recommended.forEach(res => renderCard(res, recommendedList));
     others.forEach(res => renderCard(res, othersList));
@@ -539,6 +617,12 @@ function renderCard(res, container) {
 
     card.addEventListener('click', (e) => {
         if (!e.target.closest('.time-tag')) {
+            trackEvent('view_restaurant_detail', {
+                restaurant_name: res.name,
+                source: 'list_card',
+                recommendation_level: levelLabels[res.parent_friendly_level] || res.parent_friendly_level,
+                location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
+            });
             showDetail(res);
         }
     });
@@ -631,6 +715,10 @@ function showDetail(restaurant) {
 
     // Add event listener after setting innerHTML to avoid quote issues in onclick attributes
     document.getElementById('btn-open-google-maps').addEventListener('click', () => {
+        trackEvent('open_google_maps', {
+            restaurant_name: restaurant.name,
+            location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
+        });
         const query = encodeURIComponent(restaurant.name + ' ' + restaurant.address);
         window.open(`https://www.google.com/maps/search/?api=1&query=${query}`, '_blank');
     });
@@ -660,6 +748,17 @@ function initMap() {
         attribution: '&copy; CARTO'
     }).addTo(state.map);
     L.control.zoom({ position: 'bottomright' }).addTo(state.map);
+
+    // GA4: map_interaction
+    const trackMapInteraction = throttle((type) => {
+        trackEvent('map_interaction', {
+            interaction_type: type,
+            location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
+        });
+    }, 2000);
+
+    state.map.on('dragend', () => trackMapInteraction('drag'));
+    state.map.on('zoomend', () => trackMapInteraction('zoom'));
 }
 
 function renderMap(restaurants) {
@@ -736,12 +835,20 @@ function renderMap(restaurants) {
                     <span class="map-popup-level-tag" style="background: ${color}">${levelLabels[res.parent_friendly_level] || res.parent_friendly_level}</span>
                     ${times ? `<span class="map-popup-time-mini">🚶${times.walking}分 · 🚗${times.driving}分</span>` : ''}
                 </div>
-                <button class="map-popup-action" onclick="showDetailById('${res.place_id}')">查看詳情</button>
+                <button class="map-popup-action" onclick="showDetailFromMap('${res.place_id}')">查看詳情</button>
             </div>`, { 
                 maxWidth: 240,
                 autoPanPadding: L.point(20, 20)
             });
             
+            marker.on('click', () => {
+                trackEvent('click_map_restaurant', {
+                    restaurant_name: res.name,
+                    recommendation_level: levelLabels[res.parent_friendly_level] || res.parent_friendly_level,
+                    location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
+                });
+            });
+
             state.markers.push(marker);
             state.markerMap[res.place_id] = marker;
             bounds.push([res.latitude, res.longitude]);
@@ -754,6 +861,19 @@ function renderMap(restaurants) {
         state.map.setView([state.searchLocation.lat, state.searchLocation.lng], 15);
     }
 }
+
+window.showDetailFromMap = (id) => {
+    const res = restaurantData.find(r => r.place_id === id);
+    if (res) {
+        trackEvent('view_restaurant_detail', {
+            restaurant_name: res.name,
+            source: 'map_card',
+            recommendation_level: levelLabels[res.parent_friendly_level] || res.parent_friendly_level,
+            location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
+        });
+        showDetail(res);
+    }
+};
 
 window.showDetailById = (id) => {
     const res = restaurantData.find(r => r.place_id === id);
