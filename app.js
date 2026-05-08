@@ -792,7 +792,12 @@ function checkUrlParams() {
 function shareCurrentFilters() {
     const url = window.location.href;
     if (navigator.share) {
-        navigator.share({ title: '帶小孩吃什麼？', url: url });
+        const locationName = state.searchLocation ? state.searchLocation.name : '台北';
+        navigator.share({ 
+            title: '帶小孩吃什麼？',
+            text: `我在看「${locationName}」附近適合帶小孩的餐廳，推薦給你！`,
+            url: url 
+        });
     } else {
         navigator.clipboard.writeText(url);
         showToast('連結已複製');
@@ -802,7 +807,11 @@ function shareCurrentFilters() {
 function shareRestaurant(res) {
     const url = window.location.href;
     if (navigator.share) {
-        navigator.share({ title: res.name, url: url });
+        navigator.share({ 
+            title: res.name,
+            text: `推薦這間親子友善餐廳給你：${res.name}！\n地址：${res.address}`,
+            url: url 
+        });
     } else {
         navigator.clipboard.writeText(url);
         showToast('連結已複製');
