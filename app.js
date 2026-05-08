@@ -351,6 +351,7 @@ function handleAutocomplete() {
     } else {
         autocompleteDropdown.classList.add('hidden');
     }
+}
 
 function handleNearby() {
     if (!navigator.geolocation) {
