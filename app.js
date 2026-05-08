@@ -469,8 +469,8 @@ function calculateDistance(lat1, lon1, lat2, lon2) {
 function calculateTravelTimes(km) {
     if (km === Infinity) return null;
     
-    // Heuristic: Real road distance is approx 1.3x straight-line distance in Taipei
-    const roadKm = km * 1.3;
+    // Heuristic: Real road distance is approx 1.45x straight-line distance in Taipei
+    const roadKm = km * 1.45;
     
     // Walking: ~4.5 km/h
     const walkingMin = Math.round((roadKm / 4.5) * 60);
@@ -624,6 +624,9 @@ function showDetail(restaurant) {
         <button id="btn-open-google-maps" class="btn btn-primary" style="width: 100%; margin-top: 1rem; padding: 1.125rem;">
             在 Google 地圖中開啟
         </button>
+        <div style="font-size: 0.75rem; color: var(--text-muted); text-align: center; margin-top: 0.75rem; font-style: italic;">
+            * 預估時間僅供參考，實際路程視地形與道路狀況而定。
+        </div>
     `;
 
     // Add event listener after setting innerHTML to avoid quote issues in onclick attributes
