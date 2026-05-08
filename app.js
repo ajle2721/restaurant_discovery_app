@@ -759,7 +759,18 @@ window.showDetailById = (id) => {
 
 function updateUrl() {
     const params = new URLSearchParams();
-    if (state.searchLocation) params.set('loc', state.searchLocation.name);
+    if (state.searchLocation) {
+        params.set('loc', state.searchLocation.name);
+        // 如果是經緯度為主的搜尋（如：我附近），將座標也放入 URL
+        if (state.searchLocation.lat && state.searchLocation.lng) {
+            // 對於非固定行政區/捷運站的位置，我們附上經緯度
+            const isStaticLoc = state.locationData.find(l => l.name === state.searchLocation.name);
+            if (!isStaticLoc || state.searchLocation.name === '我附近') {
+                params.set('lat', state.searchLocation.lat.toFixed(6));
+                params.set('lng', state.searchLocation.lng.toFixed(6));
+            }
+        }
+    }
     state.filters.forEach(f => params.append('f', f));
     if (state.view === 'detail' && state.selectedRestaurant) params.set('r', state.selectedRestaurant.place_id);
     
@@ -770,8 +781,19 @@ function updateUrl() {
 function checkUrlParams() {
     const params = new URLSearchParams(window.location.search);
     const locName = params.get('loc');
+    const lat = params.get('lat');
+    const lng = params.get('lng');
     
-    if (locName && state.locationData.length > 0) {
+    // 優先檢查經緯度（分享的位置）
+    if (lat && lng) {
+        const loc = {
+            name: locName || '分享的位置',
+            lat: parseFloat(lat),
+            lng: parseFloat(lng),
+            type: '分享位置'
+        };
+        selectLocation(loc);
+    } else if (locName && state.locationData.length > 0) {
         const loc = state.locationData.find(l => l.name === locName);
         if (loc) selectLocation(loc);
     }
