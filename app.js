@@ -789,81 +789,99 @@ function checkUrlParams() {
     }
 }
 
-function copyToClipboard(text) {
-    if (navigator.clipboard && navigator.clipboard.writeText) {
-        navigator.clipboard.writeText(text).then(() => {
-            showToast('連結已複製');
-        }).catch(err => {
-            console.error('Clipboard failed', err);
-            // Extreme fallback
-            const input = document.createElement('input');
-            input.value = text;
+function copyToClipboard(text, quiet = false) {
+    const performCopy = (txt) => {
+        if (navigator.clipboard && navigator.clipboard.writeText) {
+            return navigator.clipboard.writeText(txt);
+        } else {
+            const input = document.createElement('textarea');
+            input.value = txt;
             document.body.appendChild(input);
             input.select();
-            document.execCommand('copy');
+            const success = document.execCommand('copy');
             document.body.removeChild(input);
-            showToast('連結已複製');
-        });
-    } else {
-        const input = document.createElement('input');
-        input.value = text;
-        document.body.appendChild(input);
-        input.select();
-        document.execCommand('copy');
-        document.body.removeChild(input);
-        showToast('連結已複製');
-    }
+            return success ? Promise.resolve() : Promise.reject();
+        }
+    };
+
+    performCopy(text).then(() => {
+        if (!quiet) showToast('已複製分享內容');
+    }).catch(err => {
+        console.error('Clipboard failed', err);
+        // Last resort: prompt the user to copy manually
+        window.prompt('請手動複製分享內容：', text);
+    });
 }
 
 async function shareCurrentFilters() {
     const url = window.location.href;
     const locationName = state.searchLocation ? state.searchLocation.name : '台北';
-    const shareData = {
-        title: '帶小孩吃什麼？',
-        text: `我在看「${locationName}」附近適合帶小孩的餐廳，推薦給你！`,
-        url: url
-    };
+    const shareText = `我在看「${locationName}」附近適合帶小孩的餐廳，推薦給你！`;
+    const fullContent = `${shareText}\n${url}`;
 
     if (navigator.share) {
         try {
-            await navigator.share(shareData);
+            // Some browsers prefer separate fields, some prefer combined.
+            // We'll try the full data first.
+            await navigator.share({
+                title: '帶小孩吃什麼？',
+                text: shareText,
+                url: url
+            });
         } catch (err) {
-            console.warn('Native share failed:', err);
             if (err.name !== 'AbortError') {
-                copyToClipboard(url);
+                console.warn('Native share failed, trying combined text:', err);
+                try {
+                    // Try sharing as a single text block
+                    await navigator.share({
+                        title: '帶小孩吃什麼？',
+                        text: fullContent
+                    });
+                } catch (err2) {
+                    copyToClipboard(fullContent);
+                }
             }
         }
     } else {
-        copyToClipboard(url);
+        copyToClipboard(fullContent);
     }
 }
 
 async function shareRestaurant(res) {
     const url = window.location.href;
-    const shareData = {
-        title: res.name,
-        text: `推薦這間親子友善餐廳給你：${res.name}！\n地址：${res.address}`,
-        url: url
-    };
+    const shareText = `推薦這間親子友善餐廳給你：${res.name}！\n地址：${res.address}`;
+    const fullContent = `${shareText}\n${url}`;
 
     if (navigator.share) {
         try {
-            await navigator.share(shareData);
+            await navigator.share({
+                title: res.name,
+                text: shareText,
+                url: url
+            });
         } catch (err) {
-            console.warn('Native share failed:', err);
             if (err.name !== 'AbortError') {
-                copyToClipboard(url);
+                try {
+                    await navigator.share({
+                        title: res.name,
+                        text: fullContent
+                    });
+                } catch (err2) {
+                    copyToClipboard(fullContent);
+                }
             }
         }
     } else {
-        copyToClipboard(url);
+        copyToClipboard(fullContent);
     }
 }
 
 function showToast(msg) {
+    if (!toast) return;
     toast.textContent = msg;
+    toast.style.zIndex = "9999"; // Ensure it's on top
     toast.classList.add('show');
-    setTimeout(() => toast.classList.remove('show'), 2000);
+    setTimeout(() => toast.classList.remove('show'), 3000);
 }
 
 // Start the app
