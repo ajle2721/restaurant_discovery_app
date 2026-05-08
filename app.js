@@ -15,15 +15,21 @@ const state = {
 };
 
 // GA4 Tracking Helper
-function trackEvent(eventName, params = {}) {
-    if (typeof window.gtag === 'function') {
-        // 確保不送出精準座標或個資
-        const safeParams = { ...params };
-        delete safeParams.lat;
-        delete safeParams.lng;
-        delete safeParams.address;
-        
-        window.gtag('event', eventName, safeParams);
+function trackEvent(eventName, params) {
+    try {
+        if (typeof window.gtag === 'function') {
+            var safeParams = {};
+            if (params) {
+                for (var key in params) {
+                    if (key !== 'lat' && key !== 'lng' && key !== 'address') {
+                        safeParams[key] = params[key];
+                    }
+                }
+            }
+            window.gtag('event', eventName, safeParams);
+        }
+    } catch (e) {
+        console.warn('Tracking failed', e);
     }
 }
 
@@ -395,10 +401,15 @@ function selectLocation(loc, source = 'other') {
     clearSearchBtn.classList.remove('hidden');
     
     // GA4: search_location
+    var selectedFiltersArr = [];
+    state.filters.forEach(function(f) {
+        selectedFiltersArr.push(filterMap[f] || f);
+    });
+
     trackEvent('search_location', {
         location_query: loc.name === '我附近' ? 'nearby' : loc.name,
         search_source: source,
-        selected_filters: Array.from(state.filters).map(f => filterMap[f] || f).join(',')
+        selected_filters: selectedFiltersArr.join(',')
     });
 
     // Switch UI to results mode
@@ -979,46 +990,42 @@ function copyToClipboard(text, quiet = false) {
     });
 }
 
-async function shareCurrentFilters() {
+function shareCurrentFilters() {
     const url = getShareUrl();
     const locationName = state.searchLocation ? state.searchLocation.name : '台北';
     const shareText = `我在看「${locationName}」附近適合帶小孩的餐廳，推薦給你！`;
     const fullContent = `${shareText}\n${url}`;
 
     if (navigator.share) {
-        try {
-            await navigator.share({
-                title: '帶小孩吃什麼？',
-                text: shareText,
-                url: url
-            });
-        } catch (err) {
+        navigator.share({
+            title: '帶小孩吃什麼？',
+            text: shareText,
+            url: url
+        }).catch(err => {
             if (err.name !== 'AbortError') {
                 copyToClipboard(fullContent);
             }
-        }
+        });
     } else {
         copyToClipboard(fullContent);
     }
 }
 
-async function shareRestaurant(res) {
+function shareRestaurant(res) {
     const url = getShareUrl();
     const shareText = `推薦這間親子友善餐廳給你：${res.name}！\n地址：${res.address}`;
     const fullContent = `${shareText}\n${url}`;
 
     if (navigator.share) {
-        try {
-            await navigator.share({
-                title: res.name,
-                text: shareText,
-                url: url
-            });
-        } catch (err) {
+        navigator.share({
+            title: res.name,
+            text: shareText,
+            url: url
+        }).catch(err => {
             if (err.name !== 'AbortError') {
                 copyToClipboard(fullContent);
             }
-        }
+        });
     } else {
         copyToClipboard(fullContent);
     }
