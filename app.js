@@ -751,7 +751,7 @@ function switchView(viewName) {
 
 function initMap() {
     if (state.map) return;
-    state.map = L.map('map', { zoomControl: false }).setView([25.033, 121.565], 13);
+    state.map = L.map('map-container', { zoomControl: false }).setView([25.033, 121.565], 13);
     L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
         attribution: '&copy; CARTO'
     }).addTo(state.map);
