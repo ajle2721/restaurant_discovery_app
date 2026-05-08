@@ -128,21 +128,28 @@ const noResultsState = document.getElementById('no-results');
 
 // Initialization
 function init() {
-    // Check if data is available
-    if (typeof locationData === 'undefined') {
-        console.error('locationData is not loaded. Make sure locations.js is included.');
-        state.locationData = [];
-    } else {
-        state.locationData = locationData;
-    }
+    try {
+        console.log('Initializing app...');
+        // Check if data is available
+        if (typeof locationData === 'undefined') {
+            console.error('locationData is not loaded. Make sure locations.js is included.');
+            state.locationData = [];
+        } else {
+            state.locationData = locationData;
+        }
 
-    if (typeof restaurantData === 'undefined') {
-        console.error('restaurantData is not loaded. Make sure ai_review/index.js is included.');
-    }
+        if (typeof restaurantData === 'undefined') {
+            console.error('restaurantData is not loaded. Make sure ai_review/index.js is included.');
+        }
 
-    initMap();
-    setupEventListeners();
-    checkUrlParams();
+        initMap();
+        setupEventListeners();
+        checkUrlParams();
+        console.log('App initialized successfully');
+    } catch (err) {
+        console.error('App initialization failed:', err);
+        showToast('網站載入失敗，請重新整理');
+    }
 }
 
 function setupEventListeners() {
@@ -750,16 +757,19 @@ function initMap() {
     }).addTo(state.map);
     L.control.zoom({ position: 'bottomright' }).addTo(state.map);
 
-    // GA4: map_interaction
-    const trackMapInteraction = throttle((type) => {
-        trackEvent('map_interaction', {
-            interaction_type: type,
-            location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
-        });
-    }, 2000);
+    // GA4: map_interaction (Deferred to avoid initialization issues)
+    setTimeout(() => {
+        if (!state.map) return;
+        const trackMapInteraction = throttle((type) => {
+            trackEvent('map_interaction', {
+                interaction_type: type,
+                location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
+            });
+        }, 2000);
 
-    state.map.on('dragend', () => trackMapInteraction('drag'));
-    state.map.on('zoomend', () => trackMapInteraction('zoom'));
+        state.map.on('dragend', () => trackMapInteraction('drag'));
+        state.map.on('zoomend', () => trackMapInteraction('zoom'));
+    }, 1000);
 }
 
 function renderMap(restaurants) {
