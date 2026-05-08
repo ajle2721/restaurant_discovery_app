@@ -789,14 +789,20 @@ function checkUrlParams() {
     
     // 優先檢查經緯度（分享的位置或「我附近」）
     if (lat && lng) {
+        console.log('Detected shared location:', lat, lng);
         const loc = {
             name: locName || '分享的位置',
             lat: parseFloat(lat),
             lng: parseFloat(lng),
             type: '分享位置'
         };
-        // 延遲一下確保資料與地圖已就緒
-        setTimeout(() => selectLocation(loc), 100);
+        
+        // 確保在所有初始化完成後執行
+        if (document.readyState === 'complete') {
+            selectLocation(loc);
+        } else {
+            window.addEventListener('load', () => selectLocation(loc));
+        }
     } else if (locName && state.locationData.length > 0) {
         const loc = state.locationData.find(l => l.name === locName);
         if (loc) selectLocation(loc);
