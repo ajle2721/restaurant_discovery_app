@@ -757,24 +757,27 @@ window.showDetailById = (id) => {
     if (res) showDetail(res);
 };
 
-function updateUrl() {
+function getShareUrl() {
     const params = new URLSearchParams();
     if (state.searchLocation) {
         params.set('loc', state.searchLocation.name);
-        // 如果是經緯度為主的搜尋（如：我附近），將座標也放入 URL
         if (state.searchLocation.lat && state.searchLocation.lng) {
-            // 對於非固定行政區/捷運站的位置，我們附上經緯度
-            const isStaticLoc = state.locationData.find(l => l.name === state.searchLocation.name);
-            if (!isStaticLoc || state.searchLocation.name === '我附近') {
-                params.set('lat', state.searchLocation.lat.toFixed(6));
-                params.set('lng', state.searchLocation.lng.toFixed(6));
-            }
+            // 對於「我附近」或任何帶有座標的動態位置，強制附上經緯度
+            params.set('lat', state.searchLocation.lat.toFixed(6));
+            params.set('lng', state.searchLocation.lng.toFixed(6));
         }
     }
     state.filters.forEach(f => params.append('f', f));
-    if (state.view === 'detail' && state.selectedRestaurant) params.set('r', state.selectedRestaurant.place_id);
+    if (state.view === 'detail' && state.selectedRestaurant) {
+        params.set('r', state.selectedRestaurant.place_id);
+    }
     
-    const newUrl = window.location.pathname + (params.toString() ? '?' + params.toString() : '');
+    const queryString = params.toString();
+    return window.location.origin + window.location.pathname + (queryString ? '?' + queryString : '');
+}
+
+function updateUrl() {
+    const newUrl = getShareUrl();
     window.history.replaceState({}, '', newUrl);
 }
 
@@ -784,7 +787,7 @@ function checkUrlParams() {
     const lat = params.get('lat');
     const lng = params.get('lng');
     
-    // 優先檢查經緯度（分享的位置）
+    // 優先檢查經緯度（分享的位置或「我附近」）
     if (lat && lng) {
         const loc = {
             name: locName || '分享的位置',
@@ -792,7 +795,8 @@ function checkUrlParams() {
             lng: parseFloat(lng),
             type: '分享位置'
         };
-        selectLocation(loc);
+        // 延遲一下確保資料與地圖已就緒
+        setTimeout(() => selectLocation(loc), 100);
     } else if (locName && state.locationData.length > 0) {
         const loc = state.locationData.find(l => l.name === locName);
         if (loc) selectLocation(loc);
@@ -836,15 +840,13 @@ function copyToClipboard(text, quiet = false) {
 }
 
 async function shareCurrentFilters() {
-    const url = window.location.href;
+    const url = getShareUrl();
     const locationName = state.searchLocation ? state.searchLocation.name : '台北';
     const shareText = `我在看「${locationName}」附近適合帶小孩的餐廳，推薦給你！`;
     const fullContent = `${shareText}\n${url}`;
 
     if (navigator.share) {
         try {
-            // Some browsers prefer separate fields, some prefer combined.
-            // We'll try the full data first.
             await navigator.share({
                 title: '帶小孩吃什麼？',
                 text: shareText,
@@ -852,16 +854,7 @@ async function shareCurrentFilters() {
             });
         } catch (err) {
             if (err.name !== 'AbortError') {
-                console.warn('Native share failed, trying combined text:', err);
-                try {
-                    // Try sharing as a single text block
-                    await navigator.share({
-                        title: '帶小孩吃什麼？',
-                        text: fullContent
-                    });
-                } catch (err2) {
-                    copyToClipboard(fullContent);
-                }
+                copyToClipboard(fullContent);
             }
         }
     } else {
@@ -870,7 +863,7 @@ async function shareCurrentFilters() {
 }
 
 async function shareRestaurant(res) {
-    const url = window.location.href;
+    const url = getShareUrl();
     const shareText = `推薦這間親子友善餐廳給你：${res.name}！\n地址：${res.address}`;
     const fullContent = `${shareText}\n${url}`;
 
@@ -883,14 +876,7 @@ async function shareRestaurant(res) {
             });
         } catch (err) {
             if (err.name !== 'AbortError') {
-                try {
-                    await navigator.share({
-                        title: res.name,
-                        text: fullContent
-                    });
-                } catch (err2) {
-                    copyToClipboard(fullContent);
-                }
+                copyToClipboard(fullContent);
             }
         }
     } else {
