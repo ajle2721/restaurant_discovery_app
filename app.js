@@ -789,32 +789,74 @@ function checkUrlParams() {
     }
 }
 
-function shareCurrentFilters() {
-    const url = window.location.href;
-    if (navigator.share) {
-        const locationName = state.searchLocation ? state.searchLocation.name : '台北';
-        navigator.share({ 
-            title: '帶小孩吃什麼？',
-            text: `我在看「${locationName}」附近適合帶小孩的餐廳，推薦給你！`,
-            url: url 
+function copyToClipboard(text) {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+        navigator.clipboard.writeText(text).then(() => {
+            showToast('連結已複製');
+        }).catch(err => {
+            console.error('Clipboard failed', err);
+            // Extreme fallback
+            const input = document.createElement('input');
+            input.value = text;
+            document.body.appendChild(input);
+            input.select();
+            document.execCommand('copy');
+            document.body.removeChild(input);
+            showToast('連結已複製');
         });
     } else {
-        navigator.clipboard.writeText(url);
+        const input = document.createElement('input');
+        input.value = text;
+        document.body.appendChild(input);
+        input.select();
+        document.execCommand('copy');
+        document.body.removeChild(input);
         showToast('連結已複製');
     }
 }
 
-function shareRestaurant(res) {
+async function shareCurrentFilters() {
     const url = window.location.href;
+    const locationName = state.searchLocation ? state.searchLocation.name : '台北';
+    const shareData = {
+        title: '帶小孩吃什麼？',
+        text: `我在看「${locationName}」附近適合帶小孩的餐廳，推薦給你！`,
+        url: url
+    };
+
     if (navigator.share) {
-        navigator.share({ 
-            title: res.name,
-            text: `推薦這間親子友善餐廳給你：${res.name}！\n地址：${res.address}`,
-            url: url 
-        });
+        try {
+            await navigator.share(shareData);
+        } catch (err) {
+            console.warn('Native share failed:', err);
+            if (err.name !== 'AbortError') {
+                copyToClipboard(url);
+            }
+        }
     } else {
-        navigator.clipboard.writeText(url);
-        showToast('連結已複製');
+        copyToClipboard(url);
+    }
+}
+
+async function shareRestaurant(res) {
+    const url = window.location.href;
+    const shareData = {
+        title: res.name,
+        text: `推薦這間親子友善餐廳給你：${res.name}！\n地址：${res.address}`,
+        url: url
+    };
+
+    if (navigator.share) {
+        try {
+            await navigator.share(shareData);
+        } catch (err) {
+            console.warn('Native share failed:', err);
+            if (err.name !== 'AbortError') {
+                copyToClipboard(url);
+            }
+        }
+    } else {
+        copyToClipboard(url);
     }
 }
 
