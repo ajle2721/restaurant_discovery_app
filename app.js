@@ -613,7 +613,7 @@ function renderCard(res, container) {
     if (times) {
         timePillHtml = `
             <div class="time-tag-text">
-                🚶${times.walking}分 · 🚗${times.driving}分
+                🚶${times.walking}分鐘 · 🚗${times.driving}分鐘
             </div>
         `;
     }
@@ -855,7 +855,7 @@ function renderMap(restaurants) {
                 </div>
                 <div class="map-popup-meta-row">
                     <span class="map-popup-level-tag" style="background: ${color}">${levelLabels[res.parent_friendly_level] || res.parent_friendly_level}</span>
-                    ${times ? `<span class="map-popup-time-mini">🚶${times.walking}分 · 🚗${times.driving}分</span>` : ''}
+                    ${times ? `<span class="map-popup-time-mini">🚶${times.walking}分鐘 · 🚗${times.driving}分鐘</span>` : ''}
                 </div>
                 <button class="map-popup-action" onclick="showDetailFromMap('${res.place_id}')">查看詳情</button>
             </div>`, { 
