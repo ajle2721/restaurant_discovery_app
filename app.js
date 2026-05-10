@@ -612,9 +612,9 @@ function renderCard(res, container) {
     let timePillHtml = '';
     if (times) {
         timePillHtml = `
-            <button class="time-tag" onclick="focusOnMap(event, '${res.place_id}')" title="在地圖上查看">
+            <div class="time-tag-text">
                 🚶${times.walking}分 · 🚗${times.driving}分
-            </button>
+            </div>
         `;
     }
 
@@ -630,19 +630,21 @@ function renderCard(res, container) {
         <div class="card-summary">${res.card_summary || res.ai_summary || '目前親子友善資訊較有限。'}</div>
         <div style="display: flex; align-items: center; gap: 0.8rem; font-size: 0.75rem; color: #64748b;">
             <span>⭐ ${res.rating}</span>
-            <span style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">📍 ${res.address}</span>
+            <span style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">📍 ${fixSimplifiedAddress(res.address)}</span>
         </div>
     `;
 
     card.addEventListener('click', (e) => {
         if (!e.target.closest('.time-tag')) {
-            trackEvent('view_restaurant_detail', {
+            // Track clicking the card to jump to map
+            trackEvent('click_restaurant_card', {
                 restaurant_name: res.name,
                 source: 'list_card',
                 recommendation_level: levelLabels[res.parent_friendly_level] || res.parent_friendly_level,
                 location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
             });
-            showDetail(res);
+            // Jump to map instead of showing detail
+            focusOnMap(e, res.place_id);
         }
     });
 
@@ -701,7 +703,7 @@ function showDetail(restaurant) {
     detailContent.innerHTML = `
         <h1 style="margin-bottom: 0.5rem; color: var(--text-main);">${restaurant.name}</h1>
         <div class="restaurant-rating" style="font-size: 1.1rem; margin-bottom: 0.5rem;">⭐ ${restaurant.rating}</div>
-        <div class="restaurant-address" style="font-size: 0.9rem; margin-bottom: 1.5rem;">📍 ${restaurant.address}</div>
+        <div class="restaurant-address" style="font-size: 0.9rem; margin-bottom: 1.5rem;">📍 ${fixSimplifiedAddress(restaurant.address)}</div>
         
         <div style="font-weight: 700; margin-bottom: 1rem; color: var(--text-muted);">親子友善建議</div>
         <div style="margin-bottom: 1.5rem; display: flex; align-items: center; gap: 0.75rem; flex-wrap: wrap;">
@@ -731,11 +733,12 @@ function showDetail(restaurant) {
 
     // Add event listener after setting innerHTML to avoid quote issues in onclick attributes
     document.getElementById('btn-open-google-maps').addEventListener('click', () => {
+        const cleanAddr = fixSimplifiedAddress(restaurant.address);
         trackEvent('open_google_maps', {
             restaurant_name: restaurant.name,
             location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
         });
-        const query = encodeURIComponent(restaurant.name + ' ' + restaurant.address);
+        const query = encodeURIComponent(restaurant.name + ' ' + cleanAddr);
         window.open(`https://www.google.com/maps/search/?api=1&query=${query}`, '_blank');
     });
 
@@ -1010,7 +1013,8 @@ function shareCurrentFilters() {
 
 function shareRestaurant(res) {
     const url = getShareUrl();
-    const shareText = `推薦這間親子友善餐廳給你：${res.name}！\n地址：${res.address}`;
+    const cleanAddr = fixSimplifiedAddress(res.address);
+    const shareText = `推薦這間親子友善餐廳給你：${res.name}！\n地址：${cleanAddr}`;
     const fullContent = `${shareText}\n${url}`;
 
     if (navigator.share) {
@@ -1026,6 +1030,27 @@ function shareRestaurant(res) {
     } else {
         copyToClipboard(fullContent);
     }
+}
+
+// Utilities
+function fixSimplifiedAddress(addr) {
+    if (!addr) return '';
+    return addr
+        .replace(/东路/g, '東路')
+        .replace(/信义/g, '信義')
+        .replace(/万华/g, '萬華')
+        .replace(/区/g, '區')
+        .replace(/号/g, '號')
+        .replace(/楼/g, '樓')
+        .replace(/湾/g, '灣')
+        .replace(/台/g, '臺')
+        .replace(/国/g, '國')
+        .replace(/学/g, '學')
+        .replace(/发/g, '發')
+        .replace(/电/g, '電')
+        .replace(/复/g, '復')
+        .replace(/关/g, '關')
+        .replace(/园/g, '園');
 }
 
 function showToast(msg) {
