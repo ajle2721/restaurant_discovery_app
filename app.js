@@ -963,7 +963,15 @@ function checkUrlParams() {
     const resId = params.get('r');
     if (resId && typeof restaurantData !== 'undefined') {
         const res = restaurantData.find(r => r.place_id === resId);
-        if (res) showDetail(res);
+        if (res) {
+            trackEvent('view_restaurant_detail', {
+                restaurant_name: res.name,
+                source: 'direct_link',
+                recommendation_level: levelLabels[res.parent_friendly_level] || res.parent_friendly_level,
+                location_context: 'none'
+            });
+            showDetail(res);
+        }
     }
 }
 
