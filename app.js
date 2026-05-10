@@ -635,7 +635,8 @@ function renderCard(res, container) {
     `;
 
     card.addEventListener('click', (e) => {
-        if (!e.target.closest('.time-tag')) {
+        if (!e.target.closest('.time-tag-text')) {
+            console.log('Card clicked, jumping to map:', res.name);
             // Track clicking the card to jump to map
             trackEvent('click_restaurant_card', {
                 restaurant_name: res.name,
