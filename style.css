@@ -749,22 +749,74 @@ body {
     display: inline-block;
 }
 
-.decision-summary.high, .decision-summary.medium {
-    background: #f0fdf4;
-    color: #15803d;
+/* Decision Summary Levels - Refined Palette */
+.decision-summary {
+    display: inline-flex;
+    align-items: center;
+    padding: 0.2rem 0.75rem;
+    border-radius: 2rem;
+    font-size: 0.75rem;
+    font-weight: 800;
+    gap: 0.35rem;
+    line-height: 1.2;
 }
 
-.decision-summary.attention {
-    background: #fef2f2;
-    color: #ef4444;
-    border: 1px solid #fecaca;
+.card-status-row {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    margin-bottom: 0.75rem;
+    flex-wrap: wrap;
 }
+
+.decision-summary.high {
+    background: linear-gradient(135deg, #ecfdf5 0%, #d1fae5 100%);
+    color: #059669;
+    border: 1px solid #a7f3d0;
+}
+.decision-summary.high .status-dot { background: #10b981; }
+
+.decision-summary.medium {
+    background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+    color: #0284c7;
+    border: 1px solid #bae6fd;
+}
+.decision-summary.medium .status-dot { background: #38bdf8; }
+
+.decision-summary.low-match {
+    background: linear-gradient(135deg, #f5f3ff 0%, #ede9fe 100%);
+    color: #6366f1;
+    border: 1px solid #ddd6fe;
+}
+.decision-summary.low-match .status-dot { background: #818cf8; }
+
 
 .decision-summary.info {
-    background: #f8fafc;
+    background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
     color: #64748b;
     border: 1px solid #e2e8f0;
 }
+.decision-summary.info .status-dot { background: #94a3b8; }
+
+.decision-summary.attention {
+    background: linear-gradient(135deg, #fef2f2 0%, #fee2e2 100%);
+    color: #dc2626;
+    border: 1px solid #fecaca;
+}
+.decision-summary.attention .status-dot { background: #ef4444; }
+
+/* Summary Tags Text - Synchronized with Level Colors */
+.summary-tags-text {
+    font-size: 0.75rem;
+    font-weight: 800;
+    opacity: 0.9;
+    line-height: 1.2;
+}
+.summary-tags-text.high { color: #059669; }
+.summary-tags-text.medium { color: #0284c7; }
+.summary-tags-text.info { color: #64748b; }
+.summary-tags-text.attention { color: #dc2626; }
+.summary-tags-text.low-match { color: #6366f1; }
 
 .tag-container {
     display: flex;
@@ -1318,3 +1370,30 @@ body {
         font-size: 2.5rem;
     }
 }
+
+.match-rate-badge {
+    font-size: 0.7rem;
+    font-weight: 800;
+    color: var(--secondary);
+    background: rgba(79, 179, 170, 0.08);
+    border: 1px solid rgba(79, 179, 170, 0.2);
+    padding: 2px 8px;
+    border-radius: 6px;
+    white-space: nowrap;
+    display: inline-flex;
+    align-items: center;
+}
+
+.match-rate-badge-small {
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: #64748b; /* Slate 500 */
+    background: #f1f5f9; /* Slate 100 */
+    border: 1px solid #e2e8f0; /* Slate 200 */
+    padding: 2px 6px;
+    border-radius: 4px;
+    white-space: nowrap;
+    display: inline-flex;
+    align-items: center;
+}
+

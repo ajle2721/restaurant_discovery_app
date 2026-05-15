@@ -1,4 +1,3 @@
-// State Management
 const state = {
     filters: new Set(),
     searchLocation: null, // {name, lat, lng, type, district}
@@ -12,6 +11,25 @@ const state = {
     showOthers: false,
     hideLowQualityMarkers: true, // Default to true
     currentResults: []
+};
+
+// Global Detail Viewer (must be global for onclick)
+window.showDetailFromMap = function(placeId) {
+    console.log('showDetailFromMap called with:', placeId);
+    try {
+        if (typeof restaurantData === 'undefined') {
+            console.error('restaurantData is missing!');
+            return;
+        }
+        const res = restaurantData.find(r => r.place_id === placeId);
+        if (res) {
+            showDetail(res);
+        } else {
+            console.error('Restaurant not found for ID:', placeId);
+        }
+    } catch (err) {
+        console.error('Error in showDetailFromMap:', err);
+    }
 };
 
 // GA4 Tracking Helper
@@ -80,32 +98,23 @@ const levelLabels = {
 };
 
 function getPFSummaryTags(res, overrideLevel) {
-    const level = overrideLevel || res.parent_friendly_level;
-    const isPositive = (level === 'High' || level === '高' || level === 'Medium' || level === '中');
-    const isWarning = (level === 'Needs Attention' || level === '需留意');
+    const attrs = res.attributes || {};
     
-    let tags = [];
-    if (res.attributes) {
-        if (isPositive) {
-            if (res.attributes.spacious_seating === 'yes') tags.push('空間寬敞');
-            if (res.attributes.kid_noise_tolerant === 'yes') tags.push('不怕吵');
-            if (res.attributes.high_chair_available === 'yes') tags.push('兒童椅');
-            if (res.attributes.kids_menu === 'yes') tags.push('兒童餐');
-        } else if (isWarning) {
-            if (res.attributes.spacious_seating === 'no') tags.push('空間可能較擁擠');
-            if (res.attributes.kid_noise_tolerant === 'no') tags.push('環境可能偏安靜');
-            if (res.attributes.high_chair_available === 'no') tags.push('可能無兒童椅');
-            if (res.attributes.kids_menu === 'no') tags.push('可能無兒童餐');
-        }
+    // If filters are active, show match count
+    if (state.filters && state.filters.size > 0) {
+        let matchCount = 0;
+        state.filters.forEach(f => {
+            if (attrs[f] === 'yes') matchCount++;
+        });
+        return `符合 ${matchCount}/${state.filters.size} 項勾選條件`;
     }
-    
-    if (isWarning && tags.length === 0) {
-        if (res.ai_summary && (res.ai_summary.includes('擠') || res.ai_summary.includes('狹窄'))) {
-            tags.push('空間可能較擁擠');
-        } else {
-            tags.push('建議先確認環境');
-        }
-    }
+
+    // Default view: list positive amenities
+    const tags = [];
+    if (attrs.high_chair_available === 'yes') tags.push('兒童椅');
+    if (attrs.kids_menu === 'yes') tags.push('兒童餐');
+    if (attrs.spacious_seating === 'yes') tags.push('空間寬敞');
+    if (attrs.kid_noise_tolerant === 'yes') tags.push('不怕吵');
     
     return tags.join('、');
 }
@@ -150,6 +159,23 @@ function init() {
 
         initMap();
         setupEventListeners();
+        state.map.on('locationerror', onLocationError);
+
+        // Global listener for map popup buttons (View Details)
+        state.map.on('popupopen', (e) => {
+            const container = e.popup.getElement();
+            const btn = container.querySelector('.btn-show-detail-from-map');
+            if (btn) {
+                const res = e.popup.options.restaurantData;
+                if (res) {
+                    btn.addEventListener('click', () => {
+                        showDetail(res);
+                    });
+                }
+            }
+        });
+
+        console.log('Map initialized');
         checkUrlParams();
         console.log('App initialized successfully');
     } catch (err) {
@@ -444,12 +470,141 @@ function selectLocation(loc, source = 'other') {
     }
 }
 
-function renderResults() {
+function calculatePersonalizedScore(res) {
+    if (!state.filters || state.filters.size === 0) {
+        return {
+            score: res.rating * 10, // Default sorting
+            level: res.parent_friendly_level || 'Insufficient Info'
+        };
+    }
+
+    let score = 0;
+    let matchCount = 0;
+    let missCount = 0;
+    let otherMatchCount = 0;
+    let unknownCount = 0;
+    const attrs = res.attributes || {};
+    const allKeys = ['high_chair_available', 'kids_menu', 'spacious_seating', 'kid_noise_tolerant'];
+
+    allKeys.forEach(key => {
+        const val = attrs[key];
+        const isSelected = state.filters.has(key);
+
+        if (val === 'yes') {
+            if (isSelected) {
+                score += 100;
+                matchCount++;
+            } else {
+                score += 1;
+                otherMatchCount++;
+            }
+        } else if (val === 'no') {
+            if (isSelected) {
+                score -= 1000; // Dealbreaker
+                missCount++;
+            } else {
+                score -= 1;
+            }
+        } else {
+            unknownCount++;
+        }
+    });
+
+    // Determine level based on requested hierarchy
+    let level = 'Insufficient Info';
+    if (missCount > 0) {
+        level = 'Needs Attention'; // "不太符合條件"
+    } else if (matchCount === state.filters.size && state.filters.size > 0) {
+        level = 'High'; // "值得推薦"
+    } else if (matchCount > 0 || (otherMatchCount > 0 && missCount === 0)) {
+        level = 'Medium'; // "可以考慮"
+    } else if (unknownCount === 4) {
+        level = 'Insufficient Info';
+    }
+
+    return { score, level };
+}
+
+async function renderResults() {
     try {
+        const recommendedList = document.getElementById('recommended-list');
+        const othersList = document.getElementById('others-list');
+        const toggleOthersBtn = document.getElementById('toggle-others');
+        const fallbackHint = document.getElementById('fallback-hint');
+        const noResultsState = document.getElementById('no-results');
+
         recommendedList.innerHTML = '';
         othersList.innerHTML = '';
         fallbackHint.classList.add('hidden');
         noResultsState.classList.add('hidden');
+
+        // Update Level Labels for this session
+        levelLabels['Needs Attention'] = '不太符合條件';
+        levelLabels['High'] = '值得推薦';
+        levelLabels['Medium'] = '可以考慮';
+        levelLabels['Insufficient Info'] = '資訊不足';
+
+        const center = state.searchLocation;
+        if (!center) return;
+
+        // 1. Calculate distances
+        let restaurants = restaurantData.map(res => ({
+            ...res,
+            distance: calculateDistance(center.lat, center.lng, res.latitude, res.longitude)
+        }));
+
+        // 2. Filter by distance
+        const maxRadius = (center.type === '行政區') ? 2.5 : 1.5;
+        let filtered = restaurants.filter(res => res.distance <= maxRadius);
+
+        if (filtered.length === 0) {
+            handleNoResults(center);
+            return;
+        }
+
+        const resultsContainer = document.getElementById('search-results-view');
+        resultsContainer.classList.remove('hidden');
+        homeView.classList.add('search-active');
+
+        // Apply new dynamic status to each restaurant for sorting/rendering
+        const processed = filtered.map(res => {
+            const status = getDynamicStatus(res, state.filters);
+            return { ...res, dynamicLevel: status.level, dynamicStatus: status };
+        });
+
+        // Priority for sorting
+        const priority = {
+            'High': 5,
+            'Medium': 4,
+            'Low Match': 3,
+            'Insufficient Info': 2,
+            'Needs Attention': 1
+        };
+
+        const sorted = processed.sort((a, b) => {
+            const pA = priority[a.dynamicLevel] || 0;
+            const pB = priority[b.dynamicLevel] || 0;
+            if (pA !== pB) return pB - pA;
+            return (a.distance || 0) - (b.distance || 0); // Secondarily sort by distance (nearest first)
+        });
+
+        // 4. Split and Render
+        const recommended = sorted.filter(r => r.dynamicLevel === 'High' || r.dynamicLevel === 'Medium' || r.dynamicLevel === 'Low Match');
+        const others = sorted.filter(r => r.dynamicLevel === 'Insufficient Info' || r.dynamicLevel === 'Needs Attention');
+
+        state.currentResults = sorted; 
+
+        recommended.forEach(res => renderCard(res, recommendedList, res.dynamicLevel));
+        others.forEach(res => renderCard(res, othersList, res.dynamicLevel));
+        
+        // Update Toggle UI
+        othersList.classList.toggle('hidden', !state.showOthers);
+        toggleOthersBtn.classList.toggle('active', state.showOthers);
+        toggleOthersBtn.querySelector('span').textContent = state.showOthers ? '收合額外選項' : '查看更多 (含資訊不足或不太符合條件)';
+        document.getElementById('others-section').classList.toggle('hidden', others.length === 0);
+
+        const mapData = state.showOthers ? sorted : recommended;
+        renderMap(mapData); 
 
         // Update Clear Filters button visibility
         const clearAllFiltersBtn = document.getElementById('clear-all-filters');
@@ -461,94 +616,6 @@ function renderResults() {
         if (hideMarkersToggle) {
             hideMarkersToggle.checked = state.hideLowQualityMarkers;
         }
-        
-        if (!state.searchLocation) {
-            console.warn('No search location selected');
-            return;
-        }
-
-        const center = state.searchLocation;
-        console.log('Rendering results for:', center.name);
-        
-        // Ensure restaurantData exists
-        if (typeof restaurantData === 'undefined') {
-            throw new Error('restaurantData is not loaded');
-        }
-    // 1. Pre-calculate distance for all
-    let data = restaurantData.map(res => {
-        const dist = calculateDistance(center.lat, center.lng, res.latitude, res.longitude);
-        
-        // --- DYNAMIC SCORING LOGIC ---
-        let score = 0;
-        const attrs = res.attributes || {};
-        
-        // Define dynamic weights: Selected = 12, Non-selected = 1
-        const getWeight = (key) => state.filters.has(key) ? 12 : 1;
-        
-        // Positive signals
-        if (attrs.high_chair_available === 'yes') score += getWeight('high_chair_available');
-        if (attrs.kids_menu === 'yes') score += getWeight('kids_menu');
-        if (attrs.spacious_seating === 'yes') score += getWeight('spacious_seating');
-        if (attrs.kid_noise_tolerant === 'yes') score += getWeight('kid_noise_tolerant');
-        
-        // Dynamic Negative signals: Heavy penalty only if user cares about this attribute
-        if (attrs.high_chair_available === 'no') score -= getWeight('high_chair_available');
-        if (attrs.spacious_seating === 'no') score -= getWeight('spacious_seating');
-        if (attrs.kid_noise_tolerant === 'no') score -= getWeight('kid_noise_tolerant');
-        
-        // Determine dynamic level
-        let level = '資訊不足';
-        if (score >= 10) level = '高';
-        else if (score >= 1) level = '中';
-        else if (score < 0) level = '需留意';
-        
-        return { ...res, distance: dist, dynamicScore: score, dynamicLevel: level };
-    });
-
-    // 2. Filter by distance (Adaptive: 1.5km for points, 2.5km for districts)
-    const maxRadius = (center.type === '行政區') ? 2.5 : 1.5;
-    let filtered = data.filter(res => {
-        return res.distance <= maxRadius;
-    });
-
-    // 3. Sort (By Dynamic Score first, then distance)
-    filtered.sort((a, b) => {
-        if (b.dynamicScore !== a.dynamicScore) return b.dynamicScore - a.dynamicScore;
-        return a.distance - b.distance;
-    });
-
-    // 4. Check for No Results
-    if (filtered.length === 0) {
-        handleNoResults(center);
-        return;
-    }
-
-    // 5. Split and Render (Use dynamicLevel instead of static level)
-    const recommended = filtered.filter(r => r.dynamicLevel === '高' || r.dynamicLevel === '中');
-    const others = filtered.filter(r => r.dynamicLevel === '資訊不足' || r.dynamicLevel === '需留意');
-
-    state.currentResults = filtered; 
-
-    recommended.forEach(res => renderCard(res, recommendedList, res.dynamicLevel));
-    others.forEach(res => renderCard(res, othersList, res.dynamicLevel));
-    
-    // Update Toggle Button UI
-    othersList.classList.toggle('hidden', !state.showOthers);
-    toggleOthersBtn.classList.toggle('active', state.showOthers);
-    toggleOthersBtn.querySelector('span').textContent = state.showOthers ? '收合額外選項' : '查看更多 (含資訊不足或需留意)';
-    document.getElementById('others-section').classList.toggle('hidden', others.length === 0);
-
-    // If showOthers is true, show ALL on map. Otherwise, only recommended.
-    // However, for the "Map" button to work even when collapsed, we need markers for all.
-    // User's request: "僅顯示...high+medium餐廳位置" (previous)
-    // New request: "地圖上無法顯示...即使我按了餐廳卡片右上角的地圖也一樣"
-    // To satisfy both: 
-    // 1. If showOthers is false, only show High/Medium markers by default.
-    // 2. If showOthers is true, show ALL markers.
-    // 3. When clicking "Map" button on an "Others" card, we should show that specific marker even if collapsed.
-    
-    const mapData = state.showOthers ? filtered : recommended;
-    renderMap(mapData);
     } catch (err) {
         console.error('Error rendering results:', err);
         showToast('載入結果時發生錯誤');
@@ -591,7 +658,7 @@ function calculateDistance(lat1, lon1, lat2, lon2) {
 }
 
 function calculateTravelTimes(km) {
-    if (km === Infinity) return null;
+    if (km === Infinity || isNaN(km)) return null;
     
     // Heuristic: Real road distance is approx 1.45x straight-line distance in Taipei
     const roadKm = km * 1.45;
@@ -615,27 +682,78 @@ function formatDistance(km) {
     return km.toFixed(1) + 'km';
 }
 
+function getDynamicStatus(res, selectedFilters) {
+    const attrs = res.attributes || {};
+    const allKeys = ['high_chair_available', 'kids_menu', 'spacious_seating', 'kid_noise_tolerant'];
+    
+    // 1. 不太符合條件 (Any selected filter is 'no')
+    let hasNo = false;
+    selectedFilters.forEach(f => {
+        if (attrs[f] === 'no') hasNo = true;
+    });
+    if (hasNo) return { level: 'Needs Attention', label: '不太符合條件', class: 'attention' };
+
+    // 2. 資訊不足 (All 4 are unknown/missing)
+    const allUnknown = allKeys.every(k => !attrs[k] || attrs[k] === 'unknown');
+    if (allUnknown) return { level: 'Insufficient Info', label: '資訊不足', class: 'info' };
+
+    // If user has selected filters
+    if (selectedFilters.size > 0) {
+        let matchCount = 0;
+        selectedFilters.forEach(f => {
+            if (attrs[f] === 'yes') matchCount++;
+        });
+
+        // 值得推薦 (Perfect match of all selected filters)
+        if (matchCount === selectedFilters.size) {
+            return { level: 'High', label: '值得推薦', class: 'high' };
+        }
+        
+        // 可以考慮 (At least one match, and we already know there's no 'no')
+        if (matchCount >= 1) {
+            return { level: 'Medium', label: '可以考慮', class: 'medium' };
+        }
+
+        // 其他友善選擇 (Zero matches, but something else is 'yes')
+        let hasOtherYes = false;
+        allKeys.forEach(k => {
+            if (!selectedFilters.has(k) && attrs[k] === 'yes') hasOtherYes = true;
+        });
+        if (hasOtherYes) {
+            return { level: 'Low Match', label: '其他友善選擇', class: 'low-match' };
+        }
+        
+        return { level: 'Insufficient Info', label: '資訊不足', class: 'info' };
+    }
+
+    // Default view (no filters selected)
+    let totalYes = 0;
+    allKeys.forEach(k => { if (attrs[k] === 'yes') totalYes++; });
+    if (totalYes >= 2) return { level: 'High', label: '值得推薦', class: 'high' };
+    if (totalYes >= 1) return { level: 'Medium', label: '可以考慮', class: 'medium' };
+    return { level: 'Insufficient Info', label: '資訊不足', class: 'info' };
+}
+
 function renderCard(res, container, overrideLevel) {
     const card = document.createElement('div');
     card.className = 'restaurant-card';
     card.id = `card-${res.place_id}`;
+    card.style.cursor = 'pointer';
 
-    const level = overrideLevel || res.parent_friendly_level;
-    let levelClass = '';
-    if (level === 'High' || level === '高') levelClass = 'high';
-    else if (level === 'Medium' || level === '中') levelClass = 'medium';
-    else if (level === 'Needs Attention' || level === '需留意') levelClass = 'attention';
-    else levelClass = 'info';
+    // Calculate dynamic status based on new rules
+    const status = getDynamicStatus(res, state.filters);
+    const level = status.level;
+    const levelClass = status.class;
+    const displayLabel = status.label;
 
     // Collect tags/warnings for quick viewing
     const summaryTags = getPFSummaryTags(res, level);
     let extraInfoHtml = '';
     if (summaryTags) {
-        const color = (level === 'Needs Attention' || level === '需留意') ? '#ef4444' : 'var(--secondary)';
-        extraInfoHtml = `<span style="font-size: 0.8rem; color: ${color}; font-weight: 700; opacity: 0.9;">${summaryTags}</span>`;
+        extraInfoHtml = `<span class="summary-tags-text ${levelClass}">${summaryTags}</span>`;
     }
 
-    const times = calculateTravelTimes(res.distance);
+    const times = res.distance ? calculateTravelTimes(res.distance) : null;
     let timePillHtml = '';
     if (times) {
         timePillHtml = `
@@ -650,8 +768,11 @@ function renderCard(res, container, overrideLevel) {
             <div class="restaurant-name">${res.name}</div>
             ${timePillHtml}
         </div>
-        <div style="margin-bottom: 0.75rem; display: flex; align-items: center; gap: 0.6rem; flex-wrap: wrap;">
-            <span class="decision-summary ${levelClass}">${levelLabels[level] || level}</span>
+        <div class="card-status-row">
+            <div class="decision-summary ${levelClass}">
+                <span class="status-dot"></span>
+                ${displayLabel}
+            </div>
             ${extraInfoHtml}
         </div>
         <div class="card-summary">${res.card_summary || res.ai_summary || '目前親子友善資訊較有限。'}</div>
@@ -662,18 +783,15 @@ function renderCard(res, container, overrideLevel) {
     `;
 
     card.addEventListener('click', (e) => {
-        if (!e.target.closest('.time-tag-text')) {
-            console.log('Card clicked, jumping to map:', res.name);
-            // Track clicking the card to jump to map
+        console.log('Card clicked, jumping to map:', res.name);
+        try {
             trackEvent('click_restaurant_card', {
                 restaurant_name: res.name,
-                source: 'list_card',
-                recommendation_level: levelLabels[res.parent_friendly_level] || res.parent_friendly_level,
-                location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
+                source: 'list_card'
             });
-            // Jump to map instead of showing detail
-            focusOnMap(e, res.place_id);
-        }
+        } catch (err) {}
+        
+        focusOnMap(e, res.place_id);
     });
 
     container.appendChild(card);
@@ -702,88 +820,130 @@ function focusOnMap(e, placeId) {
 window.focusRestaurantOnMap = focusOnMap; // For backward compatibility if any
 
 function showDetail(restaurant) {
-    state.selectedRestaurant = restaurant;
-
-    let tagsHtml = '';
-    Object.keys(restaurant.attributes || {}).forEach(attr => {
-        if (restaurant.attributes[attr] === 'yes' && attributeLabels[attr]) {
-            tagsHtml += `<span class="tag"><span>${attributeIcons[attr]}</span> ${attributeLabels[attr]}</span>`;
-        }
-    });
-
-    if (!tagsHtml) {
-        tagsHtml = '<div style="color: var(--text-muted); font-size: 0.9rem; font-style: italic;">未看到明確的親子友善資訊</div>';
-    }
-
-    let signalsHtml = '';
-    let signals = Array.isArray(restaurant.signals) ? restaurant.signals : (typeof restaurant.signals === 'string' ? [restaurant.signals] : []);
-    if (signals.length > 0) {
-        signalsHtml = `
-            <div style="font-weight: 700; margin-top: 1.5rem; margin-bottom: 0.75rem; color: var(--text-muted);">評論線索</div>
-            <ul style="list-style: none; padding-left: 0; margin-bottom: 1.5rem;">
-                ${signals.map(s => `<li style="font-size: 0.9rem; color: var(--text-main); margin-bottom: 0.4rem; display: flex; align-items: center; gap: 0.5rem;">● ${s}</li>`).join('')}
-            </ul>
-        `;
-    }
-
-    const level = restaurant.dynamicLevel || restaurant.parent_friendly_level || 'Insufficient Info';
+    if (!restaurant) return;
     
-    // Calculate times if distance is available
-    const times = restaurant.distance ? calculateTravelTimes(restaurant.distance) : null;
-    const timeHtml = times ? `
-        <div style="display: flex; gap: 0.5rem; margin-bottom: 1.5rem;">
-            <span style="background: #f1f5f9; padding: 0.4rem 0.8rem; border-radius: 2rem; font-size: 0.85rem; font-weight: 700; color: #475569;">🚶 步行約 ${times.walking} 分鐘</span>
-            <span style="background: #f1f5f9; padding: 0.4rem 0.8rem; border-radius: 2rem; font-size: 0.85rem; font-weight: 700; color: #475569;">🚗 開車約 ${times.driving} 分鐘</span>
-        </div>
-    ` : '';
+    try {
+        state.selectedRestaurant = restaurant;
 
-    detailContent.innerHTML = `
-        <h1 style="margin-bottom: 0.5rem; color: var(--text-main);">${restaurant.name}</h1>
-        <div class="restaurant-rating" style="font-size: 1.1rem; margin-bottom: 0.5rem;">⭐ ${restaurant.rating}</div>
-        <div class="restaurant-address" style="font-size: 0.9rem; margin-bottom: 0.85rem;">📍 ${fixSimplifiedAddress(restaurant.address)}</div>
-        
-        ${timeHtml}
-
-        <div style="font-weight: 700; margin-bottom: 1rem; color: var(--text-muted);">親子友善建議</div>
-        <div style="margin-bottom: 1.5rem; display: flex; align-items: center; gap: 0.75rem; flex-wrap: wrap;">
-            <span style="padding: 0.5rem 1rem; border-radius: 0.5rem; font-weight: 800; font-size: 0.9rem; 
-                ${(level === 'High' || level === '高' || level === 'Medium' || level === '中') ? 'background: #f0fdf4; color: #15803d;' : ''}
-                ${(level === 'Needs Attention' || level === '需留意') ? 'background: #fef2f2; color: #ef4444; border: 1px solid #fecaca;' : ''}
-                ${(level === 'Insufficient Info' || level === '資訊不足') ? 'background: #f8fafc; color: #64748b; border: 1px solid #e2e8f0;' : ''}
-            ">${levelLabels[level] || level}</span>
-            ${(level === 'Needs Attention' || level === '需留意') ? `<span style="font-size: 0.9rem; font-weight: 700; color: #ef4444;">${getPFSummaryTags(restaurant)}</span>` : ''}
-        </div>
-        
-        <div style="font-weight: 700; margin-bottom: 1rem; color: var(--text-muted);">親子友善條件</div>
-        <div class="tag-container" style="gap: 0.75rem; margin-bottom: 1.5rem;">
-            ${tagsHtml}
-        </div>
-
-        <div class="ai-summary" style="margin-bottom: 1.5rem;">
-            <div class="ai-summary-title">親子用餐摘要</div>
-            <div class="ai-summary-text">${restaurant.ai_summary}</div>
-        </div>
-        ${signalsHtml}
-
-        <button id="btn-open-google-maps" class="btn btn-primary" style="width: 100%; margin-top: 1rem; padding: 1.125rem;">
-            在 Google 地圖中開啟
-        </button>
-    `;
-
-    // Add event listener after setting innerHTML to avoid quote issues in onclick attributes
-    document.getElementById('btn-open-google-maps').addEventListener('click', () => {
-        const cleanAddr = fixSimplifiedAddress(restaurant.address);
-        trackEvent('open_google_maps', {
-            restaurant_name: restaurant.name,
-            location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
+        let tagsHtml = '';
+        const attributes = restaurant.attributes || {};
+        Object.keys(attributes).forEach(attr => {
+            if (attributes[attr] === 'yes' && attributeLabels[attr]) {
+                tagsHtml += `<span class="tag"><span>${attributeIcons[attr] || '✨'}</span> ${attributeLabels[attr]}</span>`;
+            }
         });
-        const query = encodeURIComponent(restaurant.name + ' ' + cleanAddr);
-        window.open(`https://www.google.com/maps/search/?api=1&query=${query}`, '_blank');
-    });
 
-    switchView('detail');
-    updateUrl();
+        if (!tagsHtml) {
+            tagsHtml = '<div style="color: var(--text-muted); font-size: 0.9rem; font-style: italic;">未看到明確的親子友善資訊</div>';
+        }
+
+        let signalsHtml = '';
+        let signals = Array.isArray(restaurant.signals) ? restaurant.signals : (typeof restaurant.signals === 'string' ? [restaurant.signals] : []);
+        if (signals.length > 0) {
+            signalsHtml = `
+                <div style="font-weight: 700; margin-top: 1.5rem; margin-bottom: 0.75rem; color: var(--text-muted);">評論線索</div>
+                <ul style="list-style: none; padding-left: 0; margin-bottom: 1.5rem;">
+                    ${signals.map(s => `<li style="font-size: 0.9rem; color: var(--text-main); margin-bottom: 0.4rem; display: flex; align-items: center; gap: 0.5rem;">● ${s}</li>`).join('')}
+                </ul>
+            `;
+        }
+
+        const status = getDynamicStatus(restaurant, state.filters);
+        const level = status.level;
+        const displayLabel = status.label;
+        const levelClass = status.class;
+        
+        // Calculate match count for detail view
+        let matchCount = 0;
+        const attributes_for_count = restaurant.attributes || {};
+        if (state.filters && state.filters.size > 0) {
+            state.filters.forEach(f => {
+                if (attributes_for_count[f] === 'yes') matchCount++;
+            });
+        }
+        
+        const summaryTags = getPFSummaryTags(restaurant, level);
+
+        // Calculate times if distance is available
+        const times = restaurant.distance ? calculateTravelTimes(restaurant.distance) : null;
+        const timeHtml = times ? `
+            <div style="display: flex; gap: 0.5rem; margin-bottom: 1.5rem;">
+                <span style="background: #f1f5f9; padding: 0.4rem 0.8rem; border-radius: 2rem; font-size: 0.85rem; font-weight: 700; color: #475569;">🚶 步行約 ${times.walking} 分鐘</span>
+                <span style="background: #f1f5f9; padding: 0.4rem 0.8rem; border-radius: 2rem; font-size: 0.85rem; font-weight: 700; color: #475569;">🚗 開車約 ${times.driving} 分鐘</span>
+            </div>
+        ` : '';
+
+        detailContent.innerHTML = `
+            <h1 style="margin-bottom: 0.5rem; color: var(--text-main);">${restaurant.name || '未命名餐廳'}</h1>
+            <div class="restaurant-rating" style="font-size: 1.1rem; margin-bottom: 0.5rem;">⭐ ${restaurant.rating || 'N/A'}</div>
+            <div class="restaurant-address" style="font-size: 0.9rem; margin-bottom: 0.85rem;">📍 ${fixSimplifiedAddress(restaurant.address || '')}</div>
+            
+            ${timeHtml}
+
+            <div style="font-weight: 700; margin-bottom: 1rem; color: var(--text-muted);">親子友善建議</div>
+            <div style="margin-bottom: 1.5rem; display: flex; align-items: center; gap: 0.75rem; flex-wrap: wrap;">
+                <div class="decision-summary ${levelClass}">
+                    <span class="status-dot"></span>
+                    ${displayLabel}
+                </div>
+                ${(level === 'Needs Attention' || level === '需留意') ? `<span class="summary-tags-text attention">${getPFSummaryTags(restaurant)}</span>` : (summaryTags ? `<span class="summary-tags-text ${levelClass}">${summaryTags}</span>` : '')}
+            </div>
+            
+            <div style="font-weight: 700; margin-bottom: 1rem; color: var(--text-muted);">親子友善條件</div>
+            <div class="tag-container" style="gap: 0.75rem; margin-bottom: 1.5rem;">
+                ${tagsHtml}
+            </div>
+
+            <div class="ai-summary" style="margin-bottom: 1.5rem;">
+                <div class="ai-summary-title">親子用餐摘要</div>
+                <div class="ai-summary-text">${restaurant.ai_summary || '目前尚無摘要資訊。'}</div>
+            </div>
+            ${signalsHtml}
+
+            <button id="btn-open-google-maps" class="btn btn-primary" style="width: 100%; margin-top: 1rem; padding: 1.125rem;">
+                在 Google 地圖中開啟
+            </button>
+        `;
+
+        const gMapBtn = document.getElementById('btn-open-google-maps');
+        if (gMapBtn) {
+            gMapBtn.addEventListener('click', () => {
+                const cleanAddr = fixSimplifiedAddress(restaurant.address || '');
+                try {
+                    trackEvent('open_google_maps', {
+                        restaurant_name: restaurant.name,
+                        location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
+                    });
+                } catch (e) {}
+                const query = encodeURIComponent((restaurant.name || '') + ' ' + cleanAddr);
+                window.open(`https://www.google.com/maps/search/?api=1&query=${query}`, '_blank');
+            });
+        }
+
+        switchView('detail');
+        updateUrl();
+    } catch (err) {
+        console.error('Error in showDetail:', err);
+        showToast('無法載入詳情，請稍後再試');
+    }
 }
+
+// Global helper to check for low match condition
+function isLowMatchGlobal(restaurant, level) {
+    if (state.filters && state.filters.size > 0) {
+        const isRecommended = (level === 'High' || level === '高' || level === 'Medium' || level === '中');
+        if (!isRecommended) return false;
+
+        let matchCount = 0;
+        const attributes = restaurant.attributes || {};
+        state.filters.forEach(f => {
+            if (attributes[f] === 'yes') matchCount++;
+        });
+        return matchCount === 0;
+    }
+    return false;
+}
+
 
 function switchView(viewName) {
     state.view = viewName;
@@ -829,16 +989,21 @@ function renderMap(restaurants) {
     state.markerMap = {};
 
     const colorMap = {
-        'High': '#15803d', '高': '#15803d',
-        'Medium': '#86efac', '中': '#86efac',
-        'Needs Attention': '#ef4444', '需留意': '#ef4444',
-        'Insufficient Info': '#94a3b8', '資訊不足': '#94a3b8'
+        'High': '#059669', '高': '#059669',
+        'Medium': '#0284c7', '中': '#0284c7',
+        'Needs Attention': '#dc2626', '需留意': '#dc2626',
+        'Insufficient Info': '#94a3b8', '資訊不足': '#94a3b8',
+        'Low Match': '#6366f1' // New purple for low matches
     };
 
     const bounds = [];
+    const usedCoords = new Map(); // Track coordinates to prevent overlap
     
     // Add Search Center Marker
     if (state.searchLocation) {
+        const coordKey = `${state.searchLocation.lat.toFixed(6)},${state.searchLocation.lng.toFixed(6)}`;
+        usedCoords.set(coordKey, 1);
+        
         // Use a prominent blue pin for the search center
         const centerIcon = L.divIcon({
             html: `<div class="search-center-marker-inner" style="background-color: #3b82f6; width: 16px; height: 16px; border: 3px solid white; border-radius: 50%; box-shadow: 0 0 15px rgba(59, 130, 246, 0.6); position: relative;">
@@ -851,7 +1016,8 @@ function renderMap(restaurants) {
 
         const centerMarker = L.marker([state.searchLocation.lat, state.searchLocation.lng], {
             icon: centerIcon,
-            zIndexOffset: 1000
+            zIndexOffset: -1000, // Move to back
+            interactive: false   // Don't intercept clicks
         }).addTo(state.map);
         
         centerMarker.bindPopup(`<b>搜尋中心</b><br>${state.searchLocation.name}`);
@@ -861,13 +1027,32 @@ function renderMap(restaurants) {
 
     restaurants.forEach(res => {
         if (res.latitude && res.longitude) {
-            const level = res.dynamicLevel || res.parent_friendly_level;
-            const isLowQuality = (level === 'Insufficient Info' || level === 'Needs Attention' || level === '資訊不足' || level === '需留意');
-            
+            let markerLat = res.latitude;
+            let markerLng = res.longitude;
+
+            // Jitter logic: if coords match exactly, add a tiny offset
+            const coordKey = `${res.latitude.toFixed(6)},${res.longitude.toFixed(6)}`;
+            if (usedCoords.has(coordKey)) {
+                const count = usedCoords.get(coordKey);
+                usedCoords.set(coordKey, count + 1);
+                
+                // Add tiny offset (approx 20-25 meters) in a circular pattern
+                const angle = (count - 1) * (2 * Math.PI / 8); 
+                const radius = 0.0002; 
+                markerLat += Math.cos(angle) * radius;
+                markerLng += Math.sin(angle) * radius;
+            } else {
+                usedCoords.set(coordKey, 1);
+            }
+
+            const status = getDynamicStatus(res, state.filters);
+            const level = status.level;
+            const color = colorMap[level] || '#94a3b8';
+            const isLowQuality = (level === 'Insufficient Info' || level === 'Needs Attention');
+
             // Skip if user wants to hide low quality markers
             if (state.hideLowQualityMarkers && isLowQuality) return;
 
-            const color = colorMap[level] || '#94a3b8';
             const isHollow = isLowQuality;
 
             const pinIcon = L.divIcon({
@@ -880,7 +1065,7 @@ function renderMap(restaurants) {
                 popupAnchor: [0, -30]
             });
 
-            const marker = L.marker([res.latitude, res.longitude], {
+            const marker = L.marker([markerLat, markerLng], {
                 icon: pinIcon
             }).addTo(state.map);
             
@@ -893,7 +1078,7 @@ function renderMap(restaurants) {
                     <span class="map-popup-rating">⭐${res.rating}</span>
                 </div>
                 <div class="map-popup-meta-row">
-                    <span class="map-popup-level-tag" style="background: ${color}">${levelLabels[level] || level}</span>
+                    <span class="map-popup-level-tag" style="background: ${color}">${status.label}</span>
                     ${times ? `<span class="map-popup-time-mini">🚶${times.walking}分鐘 · 🚗${times.driving}分鐘</span>` : ''}
                 </div>
                 <button class="map-popup-action" onclick="showDetailFromMap('${res.place_id}')">查看詳情</button>
@@ -901,7 +1086,7 @@ function renderMap(restaurants) {
                 maxWidth: 240,
                 autoPanPadding: L.point(20, 20)
             });
-            
+
             marker.on('click', () => {
                 trackEvent('click_map_restaurant', {
                     restaurant_name: res.name,
