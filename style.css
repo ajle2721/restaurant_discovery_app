@@ -49,7 +49,7 @@ body {
     padding: calc(2.5rem + var(--safe-area-inset-top)) 1.5rem 2.5rem;
     background: linear-gradient(135deg, var(--primary), var(--primary-light));
     color: white;
-    border-radius: 0 0 2.5rem 2.5rem;
+    border-radius: 0 0 3rem 3rem;
     box-shadow: var(--shadow-lg);
     text-align: left;
     position: relative;
@@ -57,11 +57,11 @@ body {
 }
 
 .main-title {
-    font-size: 2.375rem;
-    font-weight: 700;
-    margin-bottom: 0.85rem;
-    letter-spacing: 0.05em;
-    line-height: 1.3;
+    font-size: 2.25rem;
+    font-weight: 800;
+    margin-bottom: 0.5rem;
+    letter-spacing: -0.02em;
+    line-height: 1.1;
 }
 
 .subtitle {
@@ -69,7 +69,16 @@ body {
     opacity: 0.9;
     margin-bottom: 1.5rem;
     font-weight: 500;
-    letter-spacing: 0.02em;
+}
+
+.search-step-label {
+    font-size: 0.8rem;
+    font-weight: 800;
+    color: white;
+    opacity: 0.85;
+    margin-bottom: 0.5rem;
+    letter-spacing: 0.05em;
+    text-shadow: 0 1px 2px rgba(0,0,0,0.1);
 }
 
 /* Search UI */
@@ -340,17 +349,75 @@ body {
     display: none;
 }
 
+/* Home Page Filter Section Overlay */
+.main-filter-section {
+    margin: 1rem 0 1.25rem;
+    background: rgba(255, 255, 255, 0.12);
+    padding: 1.25rem;
+    border-radius: 1.5rem;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+}
+
+.main-filter-section .filter-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.85rem;
+}
+
+.main-filter-section .filter-title {
+    font-size: 0.85rem;
+    font-weight: 800;
+    color: white;
+    letter-spacing: 0.05em;
+}
+
+.main-filter-section .filters-scroll {
+    display: flex;
+    flex-wrap: wrap; /* 讓標籤自動換行 */
+    gap: 0.75rem;
+    overflow-x: visible;
+    padding-bottom: 0;
+}
+
+.main-filter-section .filter-chip {
+    flex: 1 1 calc(50% - 0.5rem); /* 讓標籤在手機上佔約一半寬度 */
+    justify-content: center;
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+    border-color: rgba(255, 255, 255, 0.3);
+    padding: 0.75rem 0.5rem;
+}
+
+.main-filter-section .filter-chip:hover {
+    background: rgba(255, 255, 255, 0.3);
+}
+
+.main-filter-section .filter-chip.active {
+    background: var(--accent);
+    color: var(--text-main);
+    border-color: var(--accent);
+    box-shadow: 0 4px 15px rgba(255, 217, 61, 0.4);
+}
+
+.main-filter-section .filter-chip.active::before {
+    content: '✓';
+    margin-right: 4px;
+}
+
 .filter-chip {
     flex-shrink: 0;
-    padding: 0.5rem 1rem;
+    padding: 0.6rem 1.1rem;
     border-radius: 2rem;
     background: #f8fafc;
     color: #64748b;
     border: 1px solid #e2e8f0;
-    font-size: 0.85rem;
-    font-weight: 600;
+    font-size: 0.9rem;
+    font-weight: 700;
     cursor: pointer;
-    transition: all 0.2s ease;
+    transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
     display: flex;
     align-items: center;
     gap: 0.4rem;
@@ -1189,4 +1256,65 @@ body {
     font-weight: 700;
     cursor: pointer;
     margin-top: 8px;
+}
+
+/* Features Section */
+.features-section {
+    padding: 3rem 1.5rem 5rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 1.5rem;
+    max-width: 1000px;
+    margin: 0 auto;
+    animation: fadeIn 0.6s ease-out 0.2s both;
+}
+
+.feature-card {
+    background: var(--card-bg);
+    padding: 2.5rem 1.5rem;
+    border-radius: 2rem;
+    text-align: center;
+    box-shadow: var(--shadow);
+    border: 1px solid rgba(0, 0, 0, 0.03);
+    transition: var(--transition);
+}
+
+.feature-card:hover {
+    transform: translateY(-8px);
+    box-shadow: var(--shadow-lg);
+}
+
+.feature-icon {
+    font-size: 3rem;
+    margin-bottom: 1.25rem;
+    display: block;
+}
+
+.feature-card h3 {
+    font-size: 1.35rem;
+    font-weight: 800;
+    color: var(--text-main);
+    margin-bottom: 0.75rem;
+    letter-spacing: -0.01em;
+}
+
+.feature-card p {
+    font-size: 0.95rem;
+    color: var(--text-muted);
+    line-height: 1.7;
+}
+
+@media (max-width: 600px) {
+    .features-section {
+        padding: 2.5rem 1.25rem 4rem;
+        gap: 1.25rem;
+    }
+    
+    .feature-card {
+        padding: 2rem 1.25rem;
+    }
+    
+    .feature-icon {
+        font-size: 2.5rem;
+    }
 }

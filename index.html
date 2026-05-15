@@ -36,8 +36,21 @@
     <div id="home-view" class="view active">
         <header class="main-header">
             <h1 class="main-title">帶小孩吃什麼？</h1>
-            <p class="subtitle">輸入地點，尋找台北適合帶小孩的餐廳</p>
+            <p class="subtitle">根據你在意的條件，客製化你的台北親子餐廳推薦</p>
             
+            <div class="main-filter-section">
+                <div class="filter-header">
+                    <span class="filter-title">第一步：勾選你在意的條件 (會加權推薦)</span>
+                    <button id="clear-all-filters" class="btn-text hidden">清除</button>
+                </div>
+                <div class="filters-scroll">
+                    <button class="filter-chip" data-filter="high_chair_available">🪑 兒童椅</button>
+                    <button class="filter-chip" data-filter="spacious_seating">🛋️ 空間寬敞</button>
+                    <button class="filter-chip" data-filter="kid_noise_tolerant">🥳 不怕吵</button>
+                    <button class="filter-chip" data-filter="kids_menu">🥘 兒童餐</button>
+                </div>
+            </div>
+            <div class="search-step-label">第二步：輸入地點或看我附近</div>
             <div class="search-container">
                 <div class="search-input-wrapper">
                     <svg class="search-icon" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
@@ -54,7 +67,7 @@
             </div>
 
             <div class="quick-links">
-                <span class="quick-links-label">熱門地點：</span>
+                <span class="quick-links-label">或是從熱門區域挑選：</span>
                 <div class="quick-links-scroll">
                     <button class="quick-link-item" data-loc="大安區">大安區</button>
                     <button class="quick-link-item" data-loc="信義區">信義區</button>
@@ -65,15 +78,21 @@
             </div>
         </header>
 
-
-
-        <section class="trending-section">
-            <h2 class="section-title">最近大家在找</h2>
-            <div class="trending-grid">
-                <button class="trending-item" data-loc="大安區">👨‍👩‍👧‍👦 帶小孩在大安區輕鬆吃飯</button>
-                <button class="trending-item" data-loc="台北車站" data-filter="spacious_seating">🚉 帶小孩在台北車站找個可以休息的地方</button>
-                <button class="trending-item" data-loc="西門町" data-filter="kid_noise_tolerant">😌 在西門町帶小孩也不用一直提醒小聲</button>
-                <button class="trending-item" data-loc="中山站" data-filter="high_chair_available">🪑 在中山站找有兒童椅的餐廳</button>
+        <section class="features-section">
+            <div class="feature-card">
+                <div class="feature-icon">🤖</div>
+                <h3>AI 語意分析</h3>
+                <p>分析數千則真實評論，抓取兒童椅、空間大小等關鍵線索。</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon">⚖️</div>
+                <h3>個人化加權</h3>
+                <p>根據你選取的條件即時算分，排在上面的就是最適合你的。</p>
+            </div>
+            <div class="feature-card">
+                <div class="feature-icon">🛡️</div>
+                <h3>避開雷區</h3>
+                <p>自動過濾掉空間擁擠或環境過於安靜的餐廳，減少用餐焦慮。</p>
             </div>
         </section>
 
@@ -99,19 +118,7 @@
 
             <!-- Filters & List Wrapper -->
             <div class="results-content-wrapper">
-                <!-- Filters Section -->
-                <div class="filter-section">
-                    <div class="filter-header">
-                        <span class="filter-title">篩選條件</span>
-                        <button id="clear-all-filters" class="btn-text hidden">清除篩選</button>
-                    </div>
-                    <div class="filters-scroll">
-                        <button class="filter-chip" data-filter="high_chair_available">🪑 兒童椅</button>
-                        <button class="filter-chip" data-filter="spacious_seating">🛋️ 空間寬敞</button>
-                        <button class="filter-chip" data-filter="kid_noise_tolerant">🥳 不怕吵</button>
-                        <button class="filter-chip" data-filter="kids_menu">🥘 兒童餐</button>
-                    </div>
-                </div>
+
 
                 <main id="restaurant-list" class="results-container">
                     <!-- Recommended Section -->

@@ -79,8 +79,8 @@ const levelLabels = {
     '資訊不足': '❓ 資訊較少'
 };
 
-function getPFSummaryTags(res) {
-    const level = res.parent_friendly_level;
+function getPFSummaryTags(res, overrideLevel) {
+    const level = overrideLevel || res.parent_friendly_level;
     const isPositive = (level === 'High' || level === '高' || level === 'Medium' || level === '中');
     const isWarning = (level === 'Needs Attention' || level === '需留意');
     
@@ -290,7 +290,10 @@ function setupEventListeners() {
         const hideMarkersToggle = document.getElementById('hide-others-markers');
         if (hideMarkersToggle) hideMarkersToggle.checked = true;
         
-        document.querySelector('.trending-section').classList.remove('hidden');
+        const trendingSection = document.querySelector('.trending-section');
+        if (trendingSection) trendingSection.classList.remove('hidden');
+        const featuresSection = document.querySelector('.features-section');
+        if (featuresSection) featuresSection.classList.remove('hidden');
         document.querySelector('.main-header').style.display = 'block';
         updateUrl();
     });
@@ -414,7 +417,13 @@ function selectLocation(loc, source = 'other') {
 
     // Switch UI to results mode
     document.querySelector('.main-header').style.display = 'block'; 
-    document.querySelector('.trending-section').classList.add('hidden');
+    
+    // Hide home-only sections
+    const trendingSection = document.querySelector('.trending-section');
+    if (trendingSection) trendingSection.classList.add('hidden');
+    const featuresSection = document.querySelector('.features-section');
+    if (featuresSection) featuresSection.classList.add('hidden');
+    
     searchResultsView.classList.remove('hidden');
     floatShareBtn.classList.remove('hidden');
     currentSearchLocText.textContent = loc.name;
@@ -465,45 +474,63 @@ function renderResults() {
         if (typeof restaurantData === 'undefined') {
             throw new Error('restaurantData is not loaded');
         }
+    // 1. Pre-calculate distance for all
     let data = restaurantData.map(res => {
         const dist = calculateDistance(center.lat, center.lng, res.latitude, res.longitude);
-        return { ...res, distance: dist };
+        
+        // --- DYNAMIC SCORING LOGIC ---
+        let score = 0;
+        const attrs = res.attributes || {};
+        
+        // Define dynamic weights: Selected = 12, Non-selected = 1
+        const getWeight = (key) => state.filters.has(key) ? 12 : 1;
+        
+        // Positive signals
+        if (attrs.high_chair_available === 'yes') score += getWeight('high_chair_available');
+        if (attrs.kids_menu === 'yes') score += getWeight('kids_menu');
+        if (attrs.spacious_seating === 'yes') score += getWeight('spacious_seating');
+        if (attrs.kid_noise_tolerant === 'yes') score += getWeight('kid_noise_tolerant');
+        
+        // Dynamic Negative signals: Heavy penalty only if user cares about this attribute
+        if (attrs.high_chair_available === 'no') score -= getWeight('high_chair_available');
+        if (attrs.spacious_seating === 'no') score -= getWeight('spacious_seating');
+        if (attrs.kid_noise_tolerant === 'no') score -= getWeight('kid_noise_tolerant');
+        
+        // Determine dynamic level
+        let level = '資訊不足';
+        if (score >= 10) level = '高';
+        else if (score >= 1) level = '中';
+        else if (score < 0) level = '需留意';
+        
+        return { ...res, distance: dist, dynamicScore: score, dynamicLevel: level };
     });
 
     // 2. Filter by distance (Adaptive: 1.5km for points, 2.5km for districts)
     const maxRadius = (center.type === '行政區') ? 2.5 : 1.5;
     let filtered = data.filter(res => {
-        if (res.distance > maxRadius) return false;
-        
-        if (state.filters.size > 0) {
-            return Array.from(state.filters).every(f => res.attributes[f] === 'yes');
-        }
-        return true;
+        return res.distance <= maxRadius;
     });
 
-    // 3. Sort
-    const levelWeight = { 'High': 4, 'Medium': 3, 'Insufficient Info': 2, 'Needs Attention': 1, '高': 4, '中': 3, '資訊不足': 2, '需留意': 1 };
+    // 3. Sort (By Dynamic Score first, then distance)
     filtered.sort((a, b) => {
-        const weightA = levelWeight[a.parent_friendly_level] || 0;
-        const weightB = levelWeight[b.parent_friendly_level] || 0;
-        if (weightA !== weightB) return weightB - weightA;
+        if (b.dynamicScore !== a.dynamicScore) return b.dynamicScore - a.dynamicScore;
         return a.distance - b.distance;
     });
 
-    // 4. Check for No Results (Try wider radius if empty for fallback)
+    // 4. Check for No Results
     if (filtered.length === 0) {
         handleNoResults(center);
         return;
     }
 
-    // 5. Split and Render
-    const recommended = filtered.filter(r => r.parent_friendly_level === 'High' || r.parent_friendly_level === 'Medium' || r.parent_friendly_level === '高' || r.parent_friendly_level === '中');
-    const others = filtered.filter(r => r.parent_friendly_level === 'Insufficient Info' || r.parent_friendly_level === 'Needs Attention' || r.parent_friendly_level === '資訊不足' || r.parent_friendly_level === '需留意');
+    // 5. Split and Render (Use dynamicLevel instead of static level)
+    const recommended = filtered.filter(r => r.dynamicLevel === '高' || r.dynamicLevel === '中');
+    const others = filtered.filter(r => r.dynamicLevel === '資訊不足' || r.dynamicLevel === '需留意');
 
-    state.currentResults = filtered; // Store for GA count tracking
+    state.currentResults = filtered; 
 
-    recommended.forEach(res => renderCard(res, recommendedList));
-    others.forEach(res => renderCard(res, othersList));
+    recommended.forEach(res => renderCard(res, recommendedList, res.dynamicLevel));
+    others.forEach(res => renderCard(res, othersList, res.dynamicLevel));
     
     // Update Toggle Button UI
     othersList.classList.toggle('hidden', !state.showOthers);
@@ -588,12 +615,12 @@ function formatDistance(km) {
     return km.toFixed(1) + 'km';
 }
 
-function renderCard(res, container) {
+function renderCard(res, container, overrideLevel) {
     const card = document.createElement('div');
     card.className = 'restaurant-card';
     card.id = `card-${res.place_id}`;
 
-    const level = res.parent_friendly_level;
+    const level = overrideLevel || res.parent_friendly_level;
     let levelClass = '';
     if (level === 'High' || level === '高') levelClass = 'high';
     else if (level === 'Medium' || level === '中') levelClass = 'medium';
@@ -601,7 +628,7 @@ function renderCard(res, container) {
     else levelClass = 'info';
 
     // Collect tags/warnings for quick viewing
-    const summaryTags = getPFSummaryTags(res);
+    const summaryTags = getPFSummaryTags(res, level);
     let extraInfoHtml = '';
     if (summaryTags) {
         const color = (level === 'Needs Attention' || level === '需留意') ? '#ef4444' : 'var(--secondary)';
@@ -699,13 +726,24 @@ function showDetail(restaurant) {
         `;
     }
 
-    const level = restaurant.parent_friendly_level || 'Insufficient Info';
+    const level = restaurant.dynamicLevel || restaurant.parent_friendly_level || 'Insufficient Info';
     
+    // Calculate times if distance is available
+    const times = restaurant.distance ? calculateTravelTimes(restaurant.distance) : null;
+    const timeHtml = times ? `
+        <div style="display: flex; gap: 0.5rem; margin-bottom: 1.5rem;">
+            <span style="background: #f1f5f9; padding: 0.4rem 0.8rem; border-radius: 2rem; font-size: 0.85rem; font-weight: 700; color: #475569;">🚶 步行約 ${times.walking} 分鐘</span>
+            <span style="background: #f1f5f9; padding: 0.4rem 0.8rem; border-radius: 2rem; font-size: 0.85rem; font-weight: 700; color: #475569;">🚗 開車約 ${times.driving} 分鐘</span>
+        </div>
+    ` : '';
+
     detailContent.innerHTML = `
         <h1 style="margin-bottom: 0.5rem; color: var(--text-main);">${restaurant.name}</h1>
         <div class="restaurant-rating" style="font-size: 1.1rem; margin-bottom: 0.5rem;">⭐ ${restaurant.rating}</div>
-        <div class="restaurant-address" style="font-size: 0.9rem; margin-bottom: 1.5rem;">📍 ${fixSimplifiedAddress(restaurant.address)}</div>
+        <div class="restaurant-address" style="font-size: 0.9rem; margin-bottom: 0.85rem;">📍 ${fixSimplifiedAddress(restaurant.address)}</div>
         
+        ${timeHtml}
+
         <div style="font-weight: 700; margin-bottom: 1rem; color: var(--text-muted);">親子友善建議</div>
         <div style="margin-bottom: 1.5rem; display: flex; align-items: center; gap: 0.75rem; flex-wrap: wrap;">
             <span style="padding: 0.5rem 1rem; border-radius: 0.5rem; font-weight: 800; font-size: 0.9rem; 
@@ -823,7 +861,7 @@ function renderMap(restaurants) {
 
     restaurants.forEach(res => {
         if (res.latitude && res.longitude) {
-            const level = res.parent_friendly_level;
+            const level = res.dynamicLevel || res.parent_friendly_level;
             const isLowQuality = (level === 'Insufficient Info' || level === 'Needs Attention' || level === '資訊不足' || level === '需留意');
             
             // Skip if user wants to hide low quality markers
@@ -855,7 +893,7 @@ function renderMap(restaurants) {
                     <span class="map-popup-rating">⭐${res.rating}</span>
                 </div>
                 <div class="map-popup-meta-row">
-                    <span class="map-popup-level-tag" style="background: ${color}">${levelLabels[res.parent_friendly_level] || res.parent_friendly_level}</span>
+                    <span class="map-popup-level-tag" style="background: ${color}">${levelLabels[level] || level}</span>
                     ${times ? `<span class="map-popup-time-mini">🚶${times.walking}分鐘 · 🚗${times.driving}分鐘</span>` : ''}
                 </div>
                 <button class="map-popup-action" onclick="showDetailFromMap('${res.place_id}')">查看詳情</button>
@@ -886,12 +924,14 @@ function renderMap(restaurants) {
 }
 
 window.showDetailFromMap = (id) => {
-    const res = restaurantData.find(r => r.place_id === id);
+    // Priority: find in current dynamic results first to get personalized level
+    const res = state.currentResults.find(r => r.place_id === id) || restaurantData.find(r => r.place_id === id);
     if (res) {
+        const level = res.dynamicLevel || res.parent_friendly_level;
         trackEvent('view_restaurant_detail', {
             restaurant_name: res.name,
             source: 'map_card',
-            recommendation_level: levelLabels[res.parent_friendly_level] || res.parent_friendly_level,
+            recommendation_level: levelLabels[level] || level,
             location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
         });
         showDetail(res);
@@ -899,7 +939,7 @@ window.showDetailFromMap = (id) => {
 };
 
 window.showDetailById = (id) => {
-    const res = restaurantData.find(r => r.place_id === id);
+    const res = state.currentResults.find(r => r.place_id === id) || restaurantData.find(r => r.place_id === id);
     if (res) showDetail(res);
 };
 
