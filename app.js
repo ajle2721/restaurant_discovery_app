@@ -862,7 +862,10 @@ function showDetail(restaurant) {
             });
         }
         
-        const summaryTags = getPFSummaryTags(restaurant, level);
+        let summaryTags = getPFSummaryTags(restaurant, level);
+        if ((!state.filters || state.filters.size === 0) && summaryTags) {
+            summaryTags = '根據親子友善條件綜合評估';
+        }
 
         // Calculate times if distance is available
         const times = restaurant.distance ? calculateTravelTimes(restaurant.distance) : null;
