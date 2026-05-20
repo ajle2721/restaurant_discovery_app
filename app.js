@@ -951,8 +951,18 @@ function showDetail(restaurant) {
         }
         
         let summaryTags = getPFSummaryTags(restaurant, level);
-        if ((!state.filters || state.filters.size === 0) && summaryTags) {
-            summaryTags = '根據親子友善條件綜合評估';
+        if (!state.filters || state.filters.size === 0) {
+            summaryTags = '💡 評估依據：系統根據店家的親子硬體設備與環境進行綜合分析。';
+        } else if (summaryTags) {
+            if (summaryTags.startsWith('留意：')) {
+                summaryTags = '⚠️ ' + summaryTags;
+            } else if (summaryTags.startsWith('符合')) {
+                summaryTags = '🔍 ' + summaryTags;
+            } else if (summaryTags.startsWith('具備其他')) {
+                summaryTags = '✨ ' + summaryTags;
+            } else if (summaryTags.startsWith('評論未提及')) {
+                summaryTags = 'ℹ️ ' + summaryTags;
+            }
         }
 
         // Calculate times if distance is available
@@ -972,12 +982,12 @@ function showDetail(restaurant) {
             ${timeHtml}
 
             <div style="font-weight: 700; margin-bottom: 1rem; color: var(--text-muted);">親子友善建議</div>
-            <div style="margin-bottom: 1.5rem; display: flex; align-items: center; gap: 0.75rem; flex-wrap: wrap;">
+            <div style="margin-bottom: 1.5rem;">
                 <div class="decision-summary ${levelClass}">
                     <span class="status-dot"></span>
                     ${displayLabel}
                 </div>
-                ${(level === 'Needs Attention' || level === '需留意') ? `<span class="summary-tags-text attention">${getPFSummaryTags(restaurant)}</span>` : (summaryTags ? `<span class="summary-tags-text ${levelClass}">${summaryTags}</span>` : '')}
+                ${summaryTags ? `<div class="summary-tags-text ${levelClass}" style="font-size: 0.85rem; font-weight: 600; margin-top: 0.5rem; line-height: 1.5;">${summaryTags}</div>` : ''}
             </div>
             
             <div style="font-weight: 700; margin-bottom: 1rem; color: var(--text-muted);">親子友善條件</div>
