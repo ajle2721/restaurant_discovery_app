@@ -102,6 +102,68 @@ function getPFSummaryTags(res, overrideLevel) {
     
     // If filters are active, show match count
     if (state.filters && state.filters.size > 0) {
+        const level = overrideLevel || (typeof getDynamicStatus === 'function' ? getDynamicStatus(res, state.filters).level : 'Insufficient Info');
+        
+        const attributeDetails = {
+            high_chair_available: {
+                yes: '兒童椅',
+                no: '無提供兒童椅',
+                unknown: '評論未提及兒童椅'
+            },
+            kids_menu: {
+                yes: '兒童餐',
+                no: '無提供兒童餐',
+                unknown: '評論未提及兒童餐'
+            },
+            spacious_seating: {
+                yes: '空間寬敞',
+                no: '空間較為擁擠',
+                unknown: '評論未提及空間大小'
+            },
+            kid_noise_tolerant: {
+                yes: '不怕吵鬧',
+                no: '氣氛較安靜',
+                unknown: '評論未提及氣氛安靜度'
+            }
+        };
+
+        if (level === 'Needs Attention' || level === '需留意') {
+            const missAttrs = [];
+            state.filters.forEach(f => {
+                if (attrs[f] === 'no') {
+                    missAttrs.push(attributeDetails[f].no);
+                }
+            });
+            if (missAttrs.length > 0) {
+                return `留意：${missAttrs.join('、')}`;
+            }
+        }
+        
+        if (level === 'Insufficient Info' || level === '資訊不足') {
+            const unknownAttrs = [];
+            state.filters.forEach(f => {
+                if (!attrs[f] || attrs[f] === 'unknown') {
+                    unknownAttrs.push(attributeDetails[f].unknown);
+                }
+            });
+            if (unknownAttrs.length > 0) {
+                return `${unknownAttrs.join('、')}`;
+            }
+        }
+        
+        if (level === 'Low Match' || level === '其他友善選擇') {
+            const allKeys = ['high_chair_available', 'kids_menu', 'spacious_seating', 'kid_noise_tolerant'];
+            const otherYesAttrs = [];
+            allKeys.forEach(k => {
+                if (!state.filters.has(k) && attrs[k] === 'yes') {
+                    otherYesAttrs.push(attributeDetails[k].yes);
+                }
+            });
+            if (otherYesAttrs.length > 0) {
+                return `具備其他特色：${otherYesAttrs.join('、')}`;
+            }
+        }
+
         let matchCount = 0;
         state.filters.forEach(f => {
             if (attrs[f] === 'yes') matchCount++;
