@@ -159,7 +159,6 @@ function init() {
 
         initMap();
         setupEventListeners();
-        state.map.on('locationerror', onLocationError);
 
         // Global listener for map popup buttons (View Details)
         state.map.on('popupopen', (e) => {
