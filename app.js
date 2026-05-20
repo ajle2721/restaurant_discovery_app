@@ -140,14 +140,29 @@ function getPFSummaryTags(res, overrideLevel) {
         }
         
         if (level === 'Insufficient Info' || level === '資訊不足') {
-            const unknownAttrs = [];
+            const unknownNouns = [];
+            const nounMap = {
+                high_chair_available: '兒童椅',
+                kids_menu: '兒童餐',
+                spacious_seating: '空間大小',
+                kid_noise_tolerant: '氣氛安靜度'
+            };
             state.filters.forEach(f => {
                 if (!attrs[f] || attrs[f] === 'unknown') {
-                    unknownAttrs.push(attributeDetails[f].unknown);
+                    if (nounMap[f]) {
+                        unknownNouns.push(nounMap[f]);
+                    }
                 }
             });
-            if (unknownAttrs.length > 0) {
-                return `${unknownAttrs.join('、')}`;
+            if (unknownNouns.length > 0) {
+                if (unknownNouns.length === 1) {
+                    return `評論未提及${unknownNouns[0]}`;
+                } else if (unknownNouns.length === 2) {
+                    return `評論未提及${unknownNouns[0]}與${unknownNouns[1]}`;
+                } else {
+                    const lastNoun = unknownNouns.pop();
+                    return `評論未提及${unknownNouns.join('、')}與${lastNoun}`;
+                }
             }
         }
         
@@ -646,7 +661,13 @@ async function renderResults() {
             const pA = priority[a.dynamicLevel] || 0;
             const pB = priority[b.dynamicLevel] || 0;
             if (pA !== pB) return pB - pA;
-            return (a.distance || 0) - (b.distance || 0); // Secondarily sort by distance (nearest first)
+
+            // Within the same dynamicLevel, sort by matchCount descending
+            const mA = a.dynamicStatus.matchCount || 0;
+            const mB = b.dynamicStatus.matchCount || 0;
+            if (mA !== mB) return mB - mA;
+
+            return (a.distance || 0) - (b.distance || 0); // Tertiarily sort by distance (nearest first)
         });
 
         // 4. Split and Render
@@ -747,32 +768,36 @@ function getDynamicStatus(res, selectedFilters) {
     const attrs = res.attributes || {};
     const allKeys = ['high_chair_available', 'kids_menu', 'spacious_seating', 'kid_noise_tolerant'];
     
-    // 1. 不太符合條件 (Any selected filter is 'no')
-    let hasNo = false;
-    selectedFilters.forEach(f => {
-        if (attrs[f] === 'no') hasNo = true;
-    });
-    if (hasNo) return { level: 'Needs Attention', label: '不太符合條件', class: 'attention' };
-
-    // 2. 資訊不足 (All 4 are unknown/missing)
-    const allUnknown = allKeys.every(k => !attrs[k] || attrs[k] === 'unknown');
-    if (allUnknown) return { level: 'Insufficient Info', label: '資訊不足', class: 'info' };
-
-    // If user has selected filters
-    if (selectedFilters.size > 0) {
-        let matchCount = 0;
+    let matchCount = 0;
+    if (selectedFilters && selectedFilters.size > 0) {
         selectedFilters.forEach(f => {
             if (attrs[f] === 'yes') matchCount++;
         });
+    }
 
+    // 1. 不太符合條件 (Any selected filter is 'no')
+    let hasNo = false;
+    if (selectedFilters && selectedFilters.size > 0) {
+        selectedFilters.forEach(f => {
+            if (attrs[f] === 'no') hasNo = true;
+        });
+    }
+    if (hasNo) return { level: 'Needs Attention', label: '不太符合條件', class: 'attention', matchCount: matchCount };
+
+    // 2. 資訊不足 (All 4 are unknown/missing)
+    const allUnknown = allKeys.every(k => !attrs[k] || attrs[k] === 'unknown');
+    if (allUnknown) return { level: 'Insufficient Info', label: '資訊不足', class: 'info', matchCount: matchCount };
+
+    // If user has selected filters
+    if (selectedFilters && selectedFilters.size > 0) {
         // 值得推薦 (Perfect match of all selected filters)
         if (matchCount === selectedFilters.size) {
-            return { level: 'High', label: '值得推薦', class: 'high' };
+            return { level: 'High', label: '值得推薦', class: 'high', matchCount: matchCount };
         }
         
         // 可以考慮 (At least one match, and we already know there's no 'no')
         if (matchCount >= 1) {
-            return { level: 'Medium', label: '可以考慮', class: 'medium' };
+            return { level: 'Medium', label: '可以考慮', class: 'medium', matchCount: matchCount };
         }
 
         // 其他友善選擇 (Zero matches, but something else is 'yes')
@@ -781,18 +806,18 @@ function getDynamicStatus(res, selectedFilters) {
             if (!selectedFilters.has(k) && attrs[k] === 'yes') hasOtherYes = true;
         });
         if (hasOtherYes) {
-            return { level: 'Low Match', label: '其他友善選擇', class: 'low-match' };
+            return { level: 'Low Match', label: '其他友善選擇', class: 'low-match', matchCount: matchCount };
         }
         
-        return { level: 'Insufficient Info', label: '資訊不足', class: 'info' };
+        return { level: 'Insufficient Info', label: '資訊不足', class: 'info', matchCount: matchCount };
     }
 
     // Default view (no filters selected)
     let totalYes = 0;
     allKeys.forEach(k => { if (attrs[k] === 'yes') totalYes++; });
-    if (totalYes >= 2) return { level: 'High', label: '值得推薦', class: 'high' };
-    if (totalYes >= 1) return { level: 'Medium', label: '可以考慮', class: 'medium' };
-    return { level: 'Insufficient Info', label: '資訊不足', class: 'info' };
+    if (totalYes >= 2) return { level: 'High', label: '值得推薦', class: 'high', matchCount: 0 };
+    if (totalYes >= 1) return { level: 'Medium', label: '可以考慮', class: 'medium', matchCount: 0 };
+    return { level: 'Insufficient Info', label: '資訊不足', class: 'info', matchCount: 0 };
 }
 
 function renderCard(res, container, overrideLevel) {
