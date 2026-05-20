@@ -924,15 +924,17 @@ function showDetail(restaurant) {
         }
 
         let signalsHtml = '';
+        /* 暫時隱藏判斷依據（原評論線索）區塊以避免合規爭議
         let signals = Array.isArray(restaurant.signals) ? restaurant.signals : (typeof restaurant.signals === 'string' ? [restaurant.signals] : []);
         if (signals.length > 0) {
             signalsHtml = `
-                <div style="font-weight: 700; margin-top: 1.5rem; margin-bottom: 0.75rem; color: var(--text-muted);">評論線索</div>
+                <div style="font-weight: 700; margin-top: 1.5rem; margin-bottom: 0.75rem; color: var(--text-muted);">判斷依據</div>
                 <ul style="list-style: none; padding-left: 0; margin-bottom: 1.5rem;">
                     ${signals.map(s => `<li style="font-size: 0.9rem; color: var(--text-main); margin-bottom: 0.4rem; display: flex; align-items: center; gap: 0.5rem;">● ${s}</li>`).join('')}
                 </ul>
             `;
         }
+        */
 
         const status = getDynamicStatus(restaurant, state.filters);
         const level = status.level;
@@ -984,7 +986,7 @@ function showDetail(restaurant) {
             </div>
 
             <div class="ai-summary" style="margin-bottom: 1.5rem;">
-                <div class="ai-summary-title">親子用餐摘要</div>
+                <div class="ai-summary-title">親子用餐摘要（AI根據公開評論整理）</div>
                 <div class="ai-summary-text">${restaurant.ai_summary || '目前尚無摘要資訊。'}</div>
             </div>
             ${signalsHtml}
