@@ -1999,7 +1999,7 @@ body {
 }
 
 /* Mobile landscape optimization for Shortlist Drawer & Comparative Table */
-@media (orientation: landscape) and (max-height: 500px) {
+@media (max-height: 520px) {
     .drawer {
         height: 92vh !important; /* Make drawer significantly taller on landscape viewports */
         max-height: 100vh !important;

@@ -516,6 +516,7 @@ function setupEventListeners() {
                     detailFavBtn.innerHTML = '📋 加入考慮清單';
                 }
                 showToast('已清空考慮清單');
+                updateUrl();
             }
         });
     }
@@ -1407,6 +1408,11 @@ function getShareUrl() {
         params.set('r', state.selectedRestaurant.place_id);
     }
     
+    // 保持 favorites 在網址中，讓「在瀏覽器中開啟」能順利傳遞考慮清單
+    if (state.favorites && state.favorites.size > 0) {
+        params.set('favs', Array.from(state.favorites).join(','));
+    }
+    
     const queryString = params.toString();
     return window.location.origin + window.location.pathname + (queryString ? '?' + queryString : '');
 }
@@ -1435,26 +1441,27 @@ function checkUrlParams() {
             saveFavorites();
             updateShortlistUI();
             
-            // 自動開啟考慮清單抽屜，讓使用者立即看到分享的項目
-            const openDrawer = () => {
-                const shortlistDrawer = document.getElementById('shortlist-drawer');
-                const shortlistDrawerOverlay = document.getElementById('shortlist-drawer-overlay');
-                if (shortlistDrawer && shortlistDrawerOverlay) {
-                    shortlistDrawer.classList.add('active');
-                    shortlistDrawerOverlay.classList.add('active');
-                    renderShortlistDrawer();
+            // 使用 sessionStorage 來記錄此連線階段是否已自動開啟過此分享的抽屜
+            const sessionKey = 'shortlist_auto_opened_' + favsParam;
+            if (!sessionStorage.getItem(sessionKey)) {
+                sessionStorage.setItem(sessionKey, 'true');
+                
+                // 自動開啟考慮清單抽屜，讓使用者立即看到分享的項目
+                const openDrawer = () => {
+                    const shortlistDrawer = document.getElementById('shortlist-drawer');
+                    const shortlistDrawerOverlay = document.getElementById('shortlist-drawer-overlay');
+                    if (shortlistDrawer && shortlistDrawerOverlay) {
+                        shortlistDrawer.classList.add('active');
+                        shortlistDrawerOverlay.classList.add('active');
+                        renderShortlistDrawer();
+                    }
+                };
+                if (document.readyState === 'complete') {
+                    openDrawer();
+                } else {
+                    window.addEventListener('load', openDrawer);
                 }
-            };
-            if (document.readyState === 'complete') {
-                openDrawer();
-            } else {
-                window.addEventListener('load', openDrawer);
             }
-            
-            // 清理網址參數，使重整時不會重複觸發開啟抽屜
-            const newUrl = new URL(window.location.href);
-            newUrl.searchParams.delete('favs');
-            window.history.replaceState({}, '', newUrl.toString());
         }
     }
 
@@ -1718,6 +1725,9 @@ function toggleFavorite(placeId, event) {
     if (shortlistDrawer && shortlistDrawer.classList.contains('active')) {
         renderShortlistDrawer();
     }
+
+    // 4. Update the URL parameters to match current shortlist
+    updateUrl();
 }
 
 function renderShortlistDrawer() {
