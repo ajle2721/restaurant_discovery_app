@@ -61,11 +61,31 @@ function getAiAttributes(aiReview) {
   };
 }
 
+function cleanRestaurantName(name) {
+  if (!name) return "";
+  let cleaned = name;
+  const regex = /([\(|（|\[|【])(.*?)([\)|）|\]|】])/g;
+  cleaned = cleaned.replace(regex, (match, open, content, close) => {
+    const trimmed = content.trim();
+    const isBranch = /店$|館$|房$|室$|LalaPort$/i.test(trimmed);
+    const hasStuffing = /點餐|最後|供餐|推薦|美食|宵夜|捷運|訂位|不限時|外送|不提供|店休|僅收|只收|現金|／|\/|\||｜/g.test(trimmed);
+    if ((isBranch || !hasStuffing) && trimmed.length <= 12) {
+      return match;
+    } else {
+      return "";
+    }
+  });
+  cleaned = cleaned.replace(/[\(|（|\[|【][^\)|）|\]|】]*$/g, '');
+  cleaned = cleaned.replace(/[\/|／|\||｜].*$/g, '');
+  return cleaned.trim();
+}
+
 function buildRecord(placeId) {
   const response = readJson(path.join(responseDir, `${placeId}.json`));
   const aiReview = readJson(path.join(aiReviewDir, `${placeId}.json`));
 
-  const name = response.displayName?.text || "";
+  const rawName = response.displayName?.text || "";
+  const name = cleanRestaurantName(rawName);
   const formattedAddress = response.formattedAddress || "";
   const googleMapsUrl = buildGoogleMapsUrl(name, placeId);
   const signals = Array.isArray(aiReview.generated_signals)
