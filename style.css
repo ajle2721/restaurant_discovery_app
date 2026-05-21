@@ -685,7 +685,7 @@ body {
     align-items: flex-start;
     gap: 0.75rem;
     margin-bottom: 0.6rem;
-    padding-right: 2.6rem; /* Avoid overlapping with absolute favorite heart button */
+    padding-right: 3.5rem; /* Safe space to prevent overlapping with absolute favorite heart button */
 }
 
 .time-tag, .time-tag-text {
@@ -1935,6 +1935,32 @@ body {
 
     .drawer.active {
         transform: translateY(0);
+    }
+}
+
+/* Mobile-responsive Drawer Header and Layout Optimizations */
+@media (max-width: 480px) {
+    .drawer-header {
+        position: relative;
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 0.85rem;
+        padding: 1.25rem 1.25rem 1rem;
+    }
+    
+    .drawer-actions {
+        width: 100%;
+        justify-content: flex-start;
+        gap: 0.6rem;
+        padding-right: 2.5rem; /* Safe space to prevent collision with absolute close button */
+        box-sizing: border-box;
+    }
+
+    .drawer-actions .close-btn {
+        position: absolute;
+        top: 1.25rem;
+        right: 1.25rem;
+        margin: 0;
     }
 }
 
