@@ -1397,3 +1397,25 @@ body {
     align-items: center;
 }
 
+/* Base dimension and shape for decision summary status dots */
+.status-dot {
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    display: inline-block;
+    flex-shrink: 0;
+}
+
+/* Match recommendation pill size in detail view with amenities tags (.detail-content .tag) */
+.detail-content .decision-summary {
+    padding: 0.4rem 0.8rem;
+    font-size: 0.85rem;
+    border-radius: 2rem;
+    gap: 0.4rem;
+}
+
+.detail-content .decision-summary .status-dot {
+    width: 8px;
+    height: 8px;
+}
+

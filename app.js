@@ -967,12 +967,28 @@ function showDetail(restaurant) {
 
         // Calculate times if distance is available
         const times = restaurant.distance ? calculateTravelTimes(restaurant.distance) : null;
-        const timeHtml = times ? `
-            <div style="display: flex; gap: 0.5rem; margin-bottom: 1.5rem;">
-                <span style="background: #f1f5f9; padding: 0.4rem 0.8rem; border-radius: 2rem; font-size: 0.85rem; font-weight: 700; color: #475569;">🚶 步行約 ${times.walking} 分鐘</span>
-                <span style="background: #f1f5f9; padding: 0.4rem 0.8rem; border-radius: 2rem; font-size: 0.85rem; font-weight: 700; color: #475569;">🚗 開車約 ${times.driving} 分鐘</span>
-            </div>
-        ` : '';
+        let timeHtml = '';
+        if (times) {
+            const startLocName = state.searchLocation ? state.searchLocation.name : '';
+            const startLocType = state.searchLocation ? state.searchLocation.type : '';
+            const isNearby = startLocName === '我附近' || startLocType === '目前位置';
+            
+            let originLabel = '';
+            if (isNearby) {
+                originLabel = '目前位置';
+            } else if (startLocType === '行政區') {
+                originLabel = `「${startLocName}中心點」`;
+            } else {
+                originLabel = `「${startLocName}」`;
+            }
+
+            timeHtml = `
+                <div style="display: flex; gap: 0.5rem; margin-bottom: 1.5rem; flex-wrap: wrap;">
+                    <span style="background: #f1f5f9; padding: 0.25rem 0.6rem; border-radius: 2rem; font-size: 0.75rem; font-weight: 600; color: #475569;">🚶 從${originLabel}步行約 ${times.walking} 分鐘</span>
+                    <span style="background: #f1f5f9; padding: 0.25rem 0.6rem; border-radius: 2rem; font-size: 0.75rem; font-weight: 600; color: #475569;">🚗 從${originLabel}開車約 ${times.driving} 分鐘</span>
+                </div>
+            `;
+        }
 
         detailContent.innerHTML = `
             <h1 style="margin-bottom: 0.5rem; color: var(--text-main);">${restaurant.name || '未命名餐廳'}</h1>
@@ -1262,11 +1278,21 @@ function checkUrlParams() {
     // 優先檢查經緯度（分享的位置或「我附近」）
     if (lat && lng) {
         console.log('Detected shared location:', lat, lng);
+        
+        // 嘗試在已知的地點資料中比對以還原正確的 type (例如「行政區」或「捷運站」)
+        let matchedType = '分享位置';
+        if (locName && state.locationData && state.locationData.length > 0) {
+            const matchedLoc = state.locationData.find(l => l.name === locName);
+            if (matchedLoc) {
+                matchedType = matchedLoc.type;
+            }
+        }
+
         const loc = {
             name: locName || '分享的位置',
             lat: parseFloat(lat),
             lng: parseFloat(lng),
-            type: '分享位置'
+            type: matchedType
         };
         
         // 確保在所有初始化完成後執行
