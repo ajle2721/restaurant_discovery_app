@@ -97,7 +97,7 @@ const levelLabels = {
     '資訊不足': '❓ 資訊較少'
 };
 
-function getPFSummaryTags(res, overrideLevel) {
+function getPFSummaryTags(res, overrideLevel, simpleFormat = false) {
     const attrs = res.attributes || {};
     
     // If filters are active, show match count
@@ -180,10 +180,20 @@ function getPFSummaryTags(res, overrideLevel) {
         }
 
         let matchCount = 0;
+        const matchedNames = [];
         state.filters.forEach(f => {
-            if (attrs[f] === 'yes') matchCount++;
+            if (attrs[f] === 'yes') {
+                matchCount++;
+                matchedNames.push(attributeLabels[f]);
+            }
         });
-        return `符合 ${matchCount}/${state.filters.size} 項勾選條件`;
+        if (matchCount > 0) {
+            if (simpleFormat) {
+                return `符合 ${matchCount}/${state.filters.size} 項勾選條件`;
+            }
+            return `符合 ${matchCount}/${state.filters.size}：${matchedNames.join('、')}`;
+        }
+        return `符合 0/${state.filters.size} 項勾選條件`;
     }
 
     // Default view: list positive amenities
@@ -915,7 +925,12 @@ function showDetail(restaurant) {
         const attributes = restaurant.attributes || {};
         Object.keys(attributes).forEach(attr => {
             if (attributes[attr] === 'yes' && attributeLabels[attr]) {
-                tagsHtml += `<span class="tag"><span>${attributeIcons[attr] || '✨'}</span> ${attributeLabels[attr]}</span>`;
+                const isMatched = state.filters && state.filters.has(attr);
+                if (isMatched) {
+                    tagsHtml += `<span class="tag matched"><span>✓ ${attributeIcons[attr] || '✨'}</span> ${attributeLabels[attr]}</span>`;
+                } else {
+                    tagsHtml += `<span class="tag"><span>${attributeIcons[attr] || '✨'}</span> ${attributeLabels[attr]}</span>`;
+                }
             }
         });
 
@@ -950,7 +965,7 @@ function showDetail(restaurant) {
             });
         }
         
-        let summaryTags = getPFSummaryTags(restaurant, level);
+        let summaryTags = getPFSummaryTags(restaurant, level, true);
         if (!state.filters || state.filters.size === 0) {
             summaryTags = '💡 評估依據：系統根據店家的親子硬體設備與環境進行綜合分析。';
         } else if (summaryTags) {
