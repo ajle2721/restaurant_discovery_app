@@ -1463,7 +1463,8 @@ body {
 
 /* Shortlist FAB (Floating Action Button) */
 .shortlist-fab {
-    right: 4.5rem; /* Sit to the left of the share button */
+    right: 1.25rem; /* Align to the bottom right, no longer shifted by the obsolete share button */
+    bottom: 1.5rem; /* Move slightly lower to avoid blocking card content */
     background: var(--primary);
     color: white;
     border-color: var(--primary-light);
@@ -2072,4 +2073,42 @@ body {
     .comparison-table th, .comparison-table td {
         padding: 0.5rem 0.75rem !important; /* Tighter comparison table padding */
     }
+}
+
+/* Transposed Table styling for mobile portrait */
+.comparison-table.transposed th,
+.comparison-table.transposed td {
+    padding: 0.6rem 0.5rem;
+    font-size: 0.75rem;
+}
+
+.comparison-table.transposed th:first-child {
+    font-weight: 800;
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    background: #f8fafc;
+    min-width: 75px;
+    max-width: 95px;
+    white-space: normal;
+}
+
+.comparison-mobile-tip {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    background: #eff6ff;
+    border: 1px solid #bfdbfe;
+    color: #1e40af;
+    padding: 0.6rem 0.8rem;
+    border-radius: 0.75rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    margin-bottom: 0.75rem;
+    line-height: 1.4;
+    text-align: left;
+}
+
+.comparison-mobile-tip .tip-icon {
+    font-size: 0.9rem;
+    flex-shrink: 0;
 }
