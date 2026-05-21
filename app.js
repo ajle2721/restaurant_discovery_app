@@ -1165,12 +1165,16 @@ function renderCard(res, container, overrideLevel) {
 function focusOnMap(e, placeId) {
     e.stopPropagation();
     const res = restaurantData.find(r => r.place_id === placeId);
-    if (res && state.map) {
+    const resultsView = document.getElementById('search-results-view');
+    if (res && state.map && resultsView) {
         // If marker doesn't exist, it might be in 'others' and hidden.
         if (!state.markerMap[placeId]) {
             state.showOthers = true;
             renderResults();
         }
+
+        // Lock scroll events IMMEDIATELY to prevent layout shifts/scroll events from auto-collapsing the map
+        state.isInitialSearchScroll = true;
 
         // If the map is collapsed, expand it!
         const mapContainer = document.getElementById('map-container');
@@ -1186,8 +1190,19 @@ function focusOnMap(e, placeId) {
             const focus = () => {
                 state.map.setView([res.latitude, res.longitude], 17);
                 marker.openPopup();
-                // Scroll map into view if needed
-                document.getElementById('map-container').scrollIntoView({ behavior: 'smooth' });
+                
+                // Directly and reliably scroll the viewport using scrollIntoView
+                resultsView.scrollIntoView({ behavior: 'smooth' });
+                
+                // Also scroll again after transition finishes to guarantee alignment regardless of layout changes
+                setTimeout(() => {
+                    resultsView.scrollIntoView({ behavior: 'smooth' });
+                }, 350);
+
+                // Allow scroll collapse again after the smooth scroll completes
+                setTimeout(() => {
+                    state.isInitialSearchScroll = false;
+                }, 800);
             };
 
             if (needsDelay) {
@@ -1196,6 +1211,9 @@ function focusOnMap(e, placeId) {
             } else {
                 focus();
             }
+        } else {
+            // Re-enable scroll listener if marker was not found
+            state.isInitialSearchScroll = false;
         }
     }
 }
