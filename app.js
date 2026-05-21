@@ -495,7 +495,13 @@ function setupEventListeners() {
     let isDragging = false;
 
     const handleTouchStart = (e) => {
+        // If the user touched a button or interactive element inside the header, ignore dragging
+        if (e.target.closest('button') || e.target.closest('.drawer-actions')) {
+            isDragging = false;
+            return;
+        }
         startY = e.touches[0].clientY;
+        currentY = startY; // Reset currentY to startY to prevent stale values from previous gestures
         isDragging = true;
     };
 
@@ -650,9 +656,16 @@ function setupEventListeners() {
         if (relativeScrollY > 120 && !mapContainer.classList.contains('collapsed') && !state.mapManuallyToggled) {
             toggleMap(false);
             autoCollapsed = true;
+
+            // Stabilize layout: adjust scroll position so the first restaurant smoothly aligns with the viewport top
+            state.isInitialSearchScroll = true;
+            window.scrollTo(0, resultsView.offsetTop);
+            setTimeout(() => {
+                state.isInitialSearchScroll = false;
+            }, 50);
         }
-        // User scrolled back to the top of search results (relative scroll < 20) and map was auto-collapsed
-        else if (relativeScrollY < 20 && mapContainer.classList.contains('collapsed') && autoCollapsed) {
+        // User scrolled back past the top of search results (relative scroll < -10) and map was auto-collapsed
+        else if (relativeScrollY < -10 && mapContainer.classList.contains('collapsed') && autoCollapsed) {
             toggleMap(true);
             autoCollapsed = false;
         }
