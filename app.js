@@ -12,7 +12,8 @@ const state = {
     hideLowQualityMarkers: true, // Default to true
     currentResults: [],
     favorites: new Set(),
-    mapManuallyToggled: false
+    mapManuallyToggled: false,
+    isInitialSearchScroll: false
 };
 
 // Global Detail Viewer (must be global for onclick)
@@ -634,6 +635,7 @@ function setupEventListeners() {
     // Auto-collapse map on mobile scroll
     let autoCollapsed = false;
     window.addEventListener('scroll', () => {
+        if (state.isInitialSearchScroll) return; // Skip during initial scroll jump
         if (window.innerWidth >= 768) return;
         const resultsView = document.getElementById('search-results-view');
         if (!resultsView || resultsView.classList.contains('hidden')) return;
@@ -642,14 +644,15 @@ function setupEventListeners() {
         if (!mapContainer) return;
 
         const currentScrollY = window.scrollY;
+        const relativeScrollY = currentScrollY - resultsView.offsetTop;
 
-        // User scrolled down past 120px and map is expanded
-        if (currentScrollY > 120 && !mapContainer.classList.contains('collapsed') && !state.mapManuallyToggled) {
+        // User scrolled down past 120px relative to search results top, and map is expanded
+        if (relativeScrollY > 120 && !mapContainer.classList.contains('collapsed') && !state.mapManuallyToggled) {
             toggleMap(false);
             autoCollapsed = true;
         }
-        // User scrolled back to the very top and map was auto-collapsed
-        else if (currentScrollY < 20 && mapContainer.classList.contains('collapsed') && autoCollapsed) {
+        // User scrolled back to the top of search results (relative scroll < 20) and map was auto-collapsed
+        else if (relativeScrollY < 20 && mapContainer.classList.contains('collapsed') && autoCollapsed) {
             toggleMap(true);
             autoCollapsed = false;
         }
@@ -743,6 +746,7 @@ function handleNearby() {
 function selectLocation(loc, source = 'other') {
     state.searchLocation = loc;
     state.mapManuallyToggled = false;
+    state.isInitialSearchScroll = true; // Mark that we are doing the initial search scroll
     toggleMap(true);
     state.showOthers = false; // Reset to only show High+Medium results on new search
     searchInput.value = loc.name;
@@ -782,11 +786,19 @@ function selectLocation(loc, source = 'other') {
             updateUrl();
             // Scroll to results
             searchResultsView.scrollIntoView({ behavior: 'smooth' });
+            
+            // Allow auto-collapse after scroll completes
+            setTimeout(() => {
+                state.isInitialSearchScroll = false;
+            }, 1000);
         }, 100);
     } else {
         renderResults();
         updateUrl();
         searchResultsView.scrollIntoView({ behavior: 'smooth' });
+        setTimeout(() => {
+            state.isInitialSearchScroll = false;
+        }, 1000);
     }
 }
 
