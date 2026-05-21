@@ -1172,12 +1172,30 @@ function focusOnMap(e, placeId) {
             renderResults();
         }
 
+        // If the map is collapsed, expand it!
+        const mapContainer = document.getElementById('map-container');
+        let needsDelay = false;
+        if (mapContainer && mapContainer.classList.contains('collapsed')) {
+            toggleMap(true);
+            state.mapManuallyToggled = false; // Restore auto-collapse behavior
+            needsDelay = true;
+        }
+
         const marker = state.markerMap[placeId];
         if (marker) {
-            state.map.setView([res.latitude, res.longitude], 17);
-            marker.openPopup();
-            // Scroll map into view if needed
-            document.getElementById('map-container').scrollIntoView({ behavior: 'smooth' });
+            const focus = () => {
+                state.map.setView([res.latitude, res.longitude], 17);
+                marker.openPopup();
+                // Scroll map into view if needed
+                document.getElementById('map-container').scrollIntoView({ behavior: 'smooth' });
+            };
+
+            if (needsDelay) {
+                // Wait for the container to start expanding so Leaflet can calculate dimensions correctly
+                setTimeout(focus, 150);
+            } else {
+                focus();
+            }
         }
     }
 }
