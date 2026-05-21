@@ -704,16 +704,38 @@ body {
     flex-shrink: 0;
 }
 
-.restaurant-card .time-tag-text {
-    position: absolute;
-    top: 3.6rem;
-    right: 1rem;
-    z-index: 10;
+.card-footer-time {
+    color: #64748b;
+    font-size: 0.72rem;
+    font-weight: 600;
+    white-space: nowrap;
+    display: inline-flex;
+    align-items: center;
 }
 
-.restaurant-card.has-time .card-header-row,
-.restaurant-card.has-time .card-status-row {
-    padding-right: 8.5rem;
+.card-footer-row {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+    font-size: 0.72rem;
+    color: #64748b;
+    margin-top: 0.8rem;
+}
+
+.card-footer-row .card-rating {
+    font-weight: 700;
+    color: #f59e0b;
+    white-space: nowrap;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.15rem;
+}
+
+.card-footer-row .card-address {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    flex: 1;
 }
 
 .time-tag {
@@ -1976,3 +1998,72 @@ body {
     }
 }
 
+/* Mobile landscape optimization for Shortlist Drawer & Comparative Table */
+@media (orientation: landscape) and (max-height: 500px) {
+    .drawer {
+        height: 92vh !important; /* Make drawer significantly taller on landscape viewports */
+        max-height: 100vh !important;
+    }
+    
+    .drawer-header {
+        padding: 0.6rem 1rem 0.4rem !important; /* Extremely tight headers */
+        flex-direction: row !important; /* Restore row layout in landscape for wide screens */
+        align-items: center !important;
+        gap: 1rem !important;
+    }
+    
+    .drawer-header .drawer-title-area {
+        gap: 0.35rem !important;
+    }
+    
+    .drawer-header .drawer-title {
+        font-size: 1.1rem !important;
+    }
+    
+    .drawer-header .drawer-icon {
+        font-size: 1.2rem !important;
+    }
+    
+    .drawer-actions {
+        width: auto !important; /* Overrule 100% on narrow mobile width */
+        padding-right: 0 !important;
+        margin: 0 !important;
+        display: flex !important;
+        align-items: center !important;
+        gap: 0.5rem !important;
+    }
+    
+    .drawer-actions .close-btn {
+        position: static !important; /* Put close button inline on landscape */
+        width: 28px !important;
+        height: 28px !important;
+        font-size: 1.2rem !important;
+    }
+    
+    .btn-share-list, .btn-clear-all {
+        padding: 0.3rem 0.6rem !important; /* Tighter padding for landscape headers */
+        font-size: 0.7rem !important;
+    }
+    
+    .drawer-tabs {
+        margin: 0.25rem 1rem !important; /* Tighter tab margins */
+        padding: 2px !important;
+    }
+    
+    .drawer-tab {
+        padding: 0.35rem !important;
+        font-size: 0.8rem !important;
+    }
+    
+    .drawer-body {
+        padding: 0 1rem 0.75rem !important;
+    }
+    
+    .comparison-table-wrapper {
+        margin-top: 0.25rem !important;
+    }
+    
+    .comparison-table th, .comparison-table td {
+        padding: 0.5rem 0.75rem !important; /* Tighter comparison table padding */
+    }
+}

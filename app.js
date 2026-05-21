@@ -953,13 +953,10 @@ function renderCard(res, container, overrideLevel) {
     }
 
     const times = res.distance ? calculateTravelTimes(res.distance) : null;
-    let timePillHtml = '';
+    let timeHtml = '';
     if (times) {
-        card.classList.add('has-time');
-        timePillHtml = `
-            <div class="time-tag-text">
-                🚶${times.walking}分鐘 · 🚗${times.driving}分鐘
-            </div>
+        timeHtml = `
+            <span class="card-footer-time">(🚶${times.walking}分鐘 · 🚗${times.driving}分鐘)</span>
         `;
     }
 
@@ -968,7 +965,6 @@ function renderCard(res, container, overrideLevel) {
         <button class="card-favorite-btn ${isFav ? 'active' : ''}" data-place-id="${res.place_id}" title="${isFav ? '移出考慮清單' : '加入考慮清單'}">
             ${isFav ? '❤️' : '🤍'}
         </button>
-        ${timePillHtml}
         <div class="card-header-row">
             <div class="restaurant-name">${res.name}</div>
         </div>
@@ -980,9 +976,10 @@ function renderCard(res, container, overrideLevel) {
             ${extraInfoHtml}
         </div>
         <div class="card-summary">${res.card_summary || res.ai_summary || '目前親子友善資訊較有限。'}</div>
-        <div style="display: flex; align-items: center; gap: 0.8rem; font-size: 0.75rem; color: #64748b;">
-            <span>⭐ ${res.rating}</span>
-            <span style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">📍 ${fixSimplifiedAddress(res.address)}</span>
+        <div class="card-footer-row">
+            <span class="card-rating">⭐ ${res.rating}</span>
+            ${timeHtml}
+            <span class="card-address">📍 ${fixSimplifiedAddress(res.address)}</span>
         </div>
     `;
 
