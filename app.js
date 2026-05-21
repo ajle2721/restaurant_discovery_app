@@ -470,6 +470,7 @@ function setupEventListeners() {
         closeShortlistDrawerBtn.addEventListener('click', () => {
             shortlistDrawer.classList.remove('active');
             shortlistDrawerOverlay.classList.remove('active');
+            shortlistDrawer.classList.remove('full-height');
         });
     }
 
@@ -477,7 +478,60 @@ function setupEventListeners() {
         shortlistDrawerOverlay.addEventListener('click', () => {
             shortlistDrawer.classList.remove('active');
             shortlistDrawerOverlay.classList.remove('active');
+            shortlistDrawer.classList.remove('full-height');
         });
+    }
+
+    // Touch Swiping / Tap Gestures for Drawer Height on Mobile
+    const dragHandle = shortlistDrawer ? shortlistDrawer.querySelector('.drawer-drag-handle') : null;
+    const drawerHeader = shortlistDrawer ? shortlistDrawer.querySelector('.drawer-header') : null;
+
+    let startY = 0;
+    let currentY = 0;
+    let isDragging = false;
+
+    const handleTouchStart = (e) => {
+        startY = e.touches[0].clientY;
+        isDragging = true;
+    };
+
+    const handleTouchMove = (e) => {
+        if (!isDragging) return;
+        currentY = e.touches[0].clientY;
+    };
+
+    const handleTouchEnd = () => {
+        if (!isDragging) return;
+        isDragging = false;
+        const diffY = startY - currentY; // Swipe up is positive
+
+        if (diffY > 60) {
+            // Swipe UP -> expand to full-height
+            shortlistDrawer.classList.add('full-height');
+        } else if (diffY < -60) {
+            // Swipe DOWN -> contract to regular height or close
+            if (shortlistDrawer.classList.contains('full-height')) {
+                shortlistDrawer.classList.remove('full-height');
+            } else {
+                shortlistDrawer.classList.remove('active');
+                shortlistDrawerOverlay.classList.remove('active');
+            }
+        }
+    };
+
+    if (dragHandle) {
+        dragHandle.addEventListener('touchstart', handleTouchStart, { passive: true });
+        dragHandle.addEventListener('touchmove', handleTouchMove, { passive: true });
+        dragHandle.addEventListener('touchend', handleTouchEnd);
+        dragHandle.addEventListener('click', () => {
+            shortlistDrawer.classList.toggle('full-height');
+        });
+    }
+
+    if (drawerHeader) {
+        drawerHeader.addEventListener('touchstart', handleTouchStart, { passive: true });
+        drawerHeader.addEventListener('touchmove', handleTouchMove, { passive: true });
+        drawerHeader.addEventListener('touchend', handleTouchEnd);
     }
 
     if (tabList && tabCompare) {

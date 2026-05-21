@@ -1608,6 +1608,28 @@ body {
     transform: translateY(0);
 }
 
+.drawer-drag-handle {
+    width: 40px;
+    height: 5px;
+    background: rgba(0, 0, 0, 0.15);
+    border-radius: 3px;
+    margin: 10px auto 2px;
+    cursor: pointer;
+    flex-shrink: 0;
+    transition: background 0.3s;
+}
+
+.drawer-drag-handle:hover {
+    background: rgba(0, 0, 0, 0.25);
+}
+
+@media (max-width: 767px) {
+    .drawer.full-height {
+        height: 95vh !important;
+        max-height: 95vh !important;
+    }
+}
+
 .drawer-header {
     padding: 1.5rem 1.5rem 1rem;
     display: flex;
