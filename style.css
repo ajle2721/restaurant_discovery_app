@@ -2003,6 +2003,12 @@ body {
     .drawer {
         height: 92vh !important; /* Make drawer significantly taller on landscape viewports */
         max-height: 100vh !important;
+        width: 100vw !important; /* Force full width on mobile landscape viewports */
+        left: 0 !important;
+        right: 0 !important;
+        bottom: 0 !important;
+        margin: 0 !important;
+        border-radius: 2rem 2rem 0 0 !important; /* Rounded only at the top */
     }
     
     .drawer-header {
