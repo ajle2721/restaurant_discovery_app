@@ -11,7 +11,8 @@ const state = {
     showOthers: false,
     hideLowQualityMarkers: true, // Default to true
     currentResults: [],
-    favorites: new Set()
+    favorites: new Set(),
+    mapManuallyToggled: false
 };
 
 // Global Detail Viewer (must be global for onclick)
@@ -395,6 +396,8 @@ function setupEventListeners() {
         state.filters.clear();
         state.hideLowQualityMarkers = true; // Reset to default: hide low quality
         state.showOthers = false; // Reset to default: hide others list
+        state.mapManuallyToggled = false;
+        toggleMap(true);
         
         document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
         searchInput.value = '';
@@ -610,6 +613,69 @@ function setupEventListeners() {
             renderShortlistDrawer();
         }
     });
+
+    // Map Collapse Button click listener
+    const toggleMapBtn = document.getElementById('toggle-map-btn');
+    if (toggleMapBtn) {
+        toggleMapBtn.addEventListener('click', () => {
+            const mapContainer = document.getElementById('map-container');
+            if (mapContainer) {
+                const isCollapsed = mapContainer.classList.contains('collapsed');
+                state.mapManuallyToggled = true; // Mark as explicitly toggled by user
+                toggleMap(isCollapsed);
+                
+                trackEvent('click_toggle_map', {
+                    action: isCollapsed ? 'expand' : 'collapse'
+                });
+            }
+        });
+    }
+
+    // Auto-collapse map on mobile scroll
+    let autoCollapsed = false;
+    window.addEventListener('scroll', () => {
+        if (window.innerWidth >= 768) return;
+        const resultsView = document.getElementById('search-results-view');
+        if (!resultsView || resultsView.classList.contains('hidden')) return;
+
+        const mapContainer = document.getElementById('map-container');
+        if (!mapContainer) return;
+
+        const currentScrollY = window.scrollY;
+
+        // User scrolled down past 120px and map is expanded
+        if (currentScrollY > 120 && !mapContainer.classList.contains('collapsed') && !state.mapManuallyToggled) {
+            toggleMap(false);
+            autoCollapsed = true;
+        }
+        // User scrolled back to the very top and map was auto-collapsed
+        else if (currentScrollY < 20 && mapContainer.classList.contains('collapsed') && autoCollapsed) {
+            toggleMap(true);
+            autoCollapsed = false;
+        }
+    });
+}
+
+function toggleMap(visible) {
+    const mapContainer = document.getElementById('map-container');
+    const toggleMapBtn = document.getElementById('toggle-map-btn');
+    if (!mapContainer || !toggleMapBtn) return;
+
+    const mapBtnText = toggleMapBtn.querySelector('.map-btn-text');
+
+    if (visible) {
+        mapContainer.classList.remove('collapsed');
+        if (mapBtnText) mapBtnText.textContent = '收起地圖';
+        // Invalidate size after transition finishes
+        setTimeout(() => {
+            if (state.map) {
+                state.map.invalidateSize();
+            }
+        }, 360);
+    } else {
+        mapContainer.classList.add('collapsed');
+        if (mapBtnText) mapBtnText.textContent = '顯示地圖';
+    }
 }
 
 function handleAutocomplete() {
@@ -676,6 +742,8 @@ function handleNearby() {
 
 function selectLocation(loc, source = 'other') {
     state.searchLocation = loc;
+    state.mapManuallyToggled = false;
+    toggleMap(true);
     state.showOthers = false; // Reset to only show High+Medium results on new search
     searchInput.value = loc.name;
     autocompleteDropdown.classList.add('hidden');
@@ -1343,11 +1411,22 @@ function renderMap(restaurants) {
 
         const centerMarker = L.marker([state.searchLocation.lat, state.searchLocation.lng], {
             icon: centerIcon,
-            zIndexOffset: -1000, // Move to back
-            interactive: false   // Don't intercept clicks
+            interactive: true
         }).addTo(state.map);
         
-        centerMarker.bindPopup(`<b>搜尋中心</b><br>${state.searchLocation.name}`);
+        const isCurrent = state.searchLocation.type === '目前位置' || state.searchLocation.name === '我附近';
+        const popupContent = `
+            <div class="map-popup-compact" style="text-align: center; padding: 4px; min-width: 140px;">
+                <div style="font-size: 1.25rem; margin-bottom: 4px;">${isCurrent ? '📍' : '🔍'}</div>
+                <strong style="color: var(--primary); font-size: 0.9rem; display: block; margin-bottom: 4px;">
+                    ${isCurrent ? '您的目前位置' : '您搜尋的位置'}
+                </strong>
+                <div style="font-size: 0.8rem; color: var(--text-main); font-weight: 600; word-break: break-all;">
+                    ${state.searchLocation.name}
+                </div>
+            </div>
+        `;
+        centerMarker.bindPopup(popupContent);
         state.markers.push(centerMarker);
         bounds.push([state.searchLocation.lat, state.searchLocation.lng]);
     }

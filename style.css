@@ -2120,3 +2120,22 @@ body {
     font-size: 0.9rem;
     flex-shrink: 0;
 }
+
+/* Collapsible Map */
+.map-view {
+    transition: height 0.35s ease, margin 0.35s ease, padding 0.35s ease, opacity 0.35s ease;
+}
+.map-view.collapsed {
+    height: 0 !important;
+    min-height: 0 !important;
+    margin-top: 0 !important;
+    margin-bottom: 0 !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    opacity: 0 !important;
+    pointer-events: none !important;
+    border: none !important;
+    box-shadow: none !important;
+}
