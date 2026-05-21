@@ -1874,138 +1874,73 @@ function renderShortlistDrawer() {
         let tableHtml = '';
 
         if (isMobilePortrait) {
-            // Mobile Portrait: Transposed comparison table (Columns are restaurants, Rows are features)
-            const transposedRows = [
-                { label: '餐廳名稱', key: 'name_link' },
-                { label: '評分', key: 'rating' },
-                { label: '兒童椅', key: 'chair' },
-                { label: '空間寬敞', key: 'spacious' },
-                { label: '不怕吵', key: 'noise' },
-                { label: '兒童餐', key: 'menu' },
-                { label: '車程/步行', key: 'travel' },
-                { label: '操作', key: 'action' }
-            ];
-
-            const cols = savedRestaurants.map(res => {
-                const attrs = res.attributes || {};
-                
-                const checkIcon = '<span class="check-icon">✓ 有</span>';
-                const crossIcon = '<span class="cross-icon">✗ 較小</span>';
-                const crossGeneralIcon = '<span class="cross-icon">✗ 無</span>';
-                const unknownIcon = '<span class="unknown-icon">? 未知</span>';
-
-                const chair = attrs.high_chair_available === 'yes' ? checkIcon : (attrs.high_chair_available === 'no' ? crossGeneralIcon : unknownIcon);
-                const spacious = attrs.spacious_seating === 'yes' ? checkIcon : (attrs.spacious_seating === 'no' ? crossIcon : unknownIcon);
-                const noise = attrs.kid_noise_tolerant === 'yes' ? checkIcon : (attrs.kid_noise_tolerant === 'no' ? crossGeneralIcon : unknownIcon);
-                const menu = attrs.kids_menu === 'yes' ? checkIcon : (attrs.kids_menu === 'no' ? crossGeneralIcon : unknownIcon);
-
-                const times = res.distance ? calculateTravelTimes(res.distance) : null;
-                const travelText = times ? `🚗${times.driving}分 / 🚶${times.walking}分` : '未定位';
-
-                return {
-                    name_link: `
-                        <div class="comparison-table-name-cell">
-                            <a href="#" onclick="window.showDetailFromMap('${res.place_id}'); return false;">${res.name}</a>
-                        </div>
-                    `,
-                    rating: `<span style="font-weight: 700; color: var(--primary);">${res.rating} ⭐</span>`,
-                    chair: chair,
-                    spacious: spacious,
-                    noise: noise,
-                    menu: menu,
-                    travel: `<span style="color: var(--text-muted); font-weight: 600;">${travelText}</span>`,
-                    action: `<span class="comparison-table-del" data-place-id="${res.place_id}">刪除</span>`
-                };
-            });
-
-            tableHtml = `
+            tableHtml += `
                 <div class="comparison-mobile-tip">
                     <span class="tip-icon">💡</span>
-                    <span>手機橫放或使用大螢幕，可切換為橫向寬表格對比喔！</span>
-                </div>
-                <div class="comparison-table-wrapper">
-                    <table class="comparison-table transposed">
-                        <tbody>
-            `;
-
-            transposedRows.forEach(row => {
-                tableHtml += `
-                    <tr>
-                        <th>${row.label}</th>
-                `;
-                cols.forEach(col => {
-                    tableHtml += `<td>${col[row.key]}</td>`;
-                });
-                tableHtml += `</tr>`;
-            });
-
-            tableHtml += `
-                        </tbody>
-                    </table>
-                </div>
-            `;
-        } else {
-            // Desktop or Landscape: Horizontal comparison table
-            tableHtml = `
-                <div class="comparison-table-wrapper">
-                    <table class="comparison-table">
-                        <thead>
-                            <tr>
-                                <th>餐廳名稱</th>
-                                <th>評分</th>
-                                <th>兒童椅</th>
-                                <th>空間寬敞</th>
-                                <th>不怕吵</th>
-                                <th>兒童餐</th>
-                                <th>車程/步行</th>
-                                <th>操作</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-            `;
-
-            savedRestaurants.forEach(res => {
-                const attrs = res.attributes || {};
-                
-                const checkIcon = '<span class="check-icon">✓ 有</span>';
-                const crossIcon = '<span class="cross-icon">✗ 較小</span>';
-                const crossGeneralIcon = '<span class="cross-icon">✗ 無</span>';
-                const unknownIcon = '<span class="unknown-icon">? 未知</span>';
-
-                const chair = attrs.high_chair_available === 'yes' ? checkIcon : (attrs.high_chair_available === 'no' ? crossGeneralIcon : unknownIcon);
-                const spacious = attrs.spacious_seating === 'yes' ? checkIcon : (attrs.spacious_seating === 'no' ? crossIcon : unknownIcon);
-                const noise = attrs.kid_noise_tolerant === 'yes' ? checkIcon : (attrs.kid_noise_tolerant === 'no' ? crossGeneralIcon : unknownIcon);
-                const menu = attrs.kids_menu === 'yes' ? checkIcon : (attrs.kids_menu === 'no' ? crossGeneralIcon : unknownIcon);
-
-                const times = res.distance ? calculateTravelTimes(res.distance) : null;
-                const travelText = times ? `🚗${times.driving}分 / 🚶${times.walking}分` : '未定位';
-
-                tableHtml += `
-                    <tr>
-                        <td>
-                            <div class="comparison-table-name-cell">
-                                <a href="#" onclick="window.showDetailFromMap('${res.place_id}'); return false;">${res.name}</a>
-                            </div>
-                        </td>
-                        <td style="font-weight: 700; color: var(--primary);">${res.rating} ⭐</td>
-                        <td>${chair}</td>
-                        <td>${spacious}</td>
-                        <td>${noise}</td>
-                        <td>${menu}</td>
-                        <td style="color: var(--text-muted); font-weight: 600;">${travelText}</td>
-                        <td>
-                            <span class="comparison-table-del" data-place-id="${res.place_id}">刪除</span>
-                        </td>
-                    </tr>
-                `;
-            });
-
-            tableHtml += `
-                        </tbody>
-                    </table>
+                    <span>手機橫放或使用大螢幕，可獲得更佳的對比排版體驗喔！</span>
                 </div>
             `;
         }
+
+        tableHtml += `
+            <div class="comparison-table-wrapper">
+                <table class="comparison-table">
+                    <thead>
+                        <tr>
+                            <th>餐廳名稱</th>
+                            <th>評分</th>
+                            <th>兒童椅</th>
+                            <th>空間寬敞</th>
+                            <th>不怕吵</th>
+                            <th>兒童餐</th>
+                            <th>車程/步行</th>
+                            <th>操作</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+        `;
+
+        savedRestaurants.forEach(res => {
+            const attrs = res.attributes || {};
+            
+            const checkIcon = '<span class="check-icon">✓ 有</span>';
+            const crossIcon = '<span class="cross-icon">✗ 較小</span>';
+            const crossGeneralIcon = '<span class="cross-icon">✗ 無</span>';
+            const unknownIcon = '<span class="unknown-icon">? 未知</span>';
+
+            const chair = attrs.high_chair_available === 'yes' ? checkIcon : (attrs.high_chair_available === 'no' ? crossGeneralIcon : unknownIcon);
+            const spacious = attrs.spacious_seating === 'yes' ? checkIcon : (attrs.spacious_seating === 'no' ? crossIcon : unknownIcon);
+            const noise = attrs.kid_noise_tolerant === 'yes' ? checkIcon : (attrs.kid_noise_tolerant === 'no' ? crossGeneralIcon : unknownIcon);
+            const menu = attrs.kids_menu === 'yes' ? checkIcon : (attrs.kids_menu === 'no' ? crossGeneralIcon : unknownIcon);
+
+            const times = res.distance ? calculateTravelTimes(res.distance) : null;
+            const travelText = times ? `🚗${times.driving}分 / 🚶${times.walking}分` : '未定位';
+
+            tableHtml += `
+                <tr>
+                    <td>
+                        <div class="comparison-table-name-cell">
+                            <a href="#" onclick="window.showDetailFromMap('${res.place_id}'); return false;">${res.name}</a>
+                        </div>
+                    </td>
+                    <td style="font-weight: 700; color: var(--primary);">${res.rating} ⭐</td>
+                    <td>${chair}</td>
+                    <td>${spacious}</td>
+                    <td>${noise}</td>
+                    <td>${menu}</td>
+                    <td style="color: var(--text-muted); font-weight: 600;">${travelText}</td>
+                    <td>
+                        <span class="comparison-table-del" data-place-id="${res.place_id}">刪除</span>
+                    </td>
+                </tr>
+            `;
+        });
+
+        tableHtml += `
+                    </tbody>
+                </table>
+            </div>
+        `;
         compareView.innerHTML = tableHtml;
 
         // Wire table delete links

@@ -2098,22 +2098,7 @@ body {
     }
 }
 
-/* Transposed Table styling for mobile portrait */
-.comparison-table.transposed th,
-.comparison-table.transposed td {
-    padding: 0.6rem 0.5rem;
-    font-size: 0.75rem;
-}
 
-.comparison-table.transposed th:first-child {
-    font-weight: 800;
-    font-size: 0.75rem;
-    color: var(--text-muted);
-    background: #f8fafc;
-    min-width: 75px;
-    max-width: 95px;
-    white-space: normal;
-}
 
 .comparison-mobile-tip {
     display: flex;
