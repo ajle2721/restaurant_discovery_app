@@ -955,6 +955,7 @@ function renderCard(res, container, overrideLevel) {
     const times = res.distance ? calculateTravelTimes(res.distance) : null;
     let timePillHtml = '';
     if (times) {
+        card.classList.add('has-time');
         timePillHtml = `
             <div class="time-tag-text">
                 🚶${times.walking}分鐘 · 🚗${times.driving}分鐘
@@ -967,9 +968,9 @@ function renderCard(res, container, overrideLevel) {
         <button class="card-favorite-btn ${isFav ? 'active' : ''}" data-place-id="${res.place_id}" title="${isFav ? '移出考慮清單' : '加入考慮清單'}">
             ${isFav ? '❤️' : '🤍'}
         </button>
+        ${timePillHtml}
         <div class="card-header-row">
             <div class="restaurant-name">${res.name}</div>
-            ${timePillHtml}
         </div>
         <div class="card-status-row">
             <div class="decision-summary ${levelClass}">

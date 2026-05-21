@@ -704,6 +704,18 @@ body {
     flex-shrink: 0;
 }
 
+.restaurant-card .time-tag-text {
+    position: absolute;
+    top: 3.6rem;
+    right: 1rem;
+    z-index: 10;
+}
+
+.restaurant-card.has-time .card-header-row,
+.restaurant-card.has-time .card-status-row {
+    padding-right: 8.5rem;
+}
+
 .time-tag {
     cursor: pointer;
 }
