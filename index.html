@@ -150,8 +150,10 @@
             </div>
         </div>
 
-        <button id="float-share" class="fab hidden">
-            <span>🔗</span>
+
+        <button id="float-shortlist" class="fab shortlist-fab hidden">
+            <span>📋</span>
+            <span id="shortlist-count" class="badge">0</span>
         </button>
     </div>
 
@@ -167,6 +169,35 @@
     </div>
 
     <div id="toast" class="toast">連結已複製到剪貼簿！</div>
+
+    <!-- Shortlist Drawer Overlay -->
+    <div id="shortlist-drawer-overlay" class="drawer-overlay"></div>
+    <div id="shortlist-drawer" class="drawer">
+        <div class="drawer-header">
+            <div class="drawer-title-area">
+                <span class="drawer-icon">📋</span>
+                <h2 class="drawer-title">考慮清單</h2>
+                <span id="drawer-count-badge" class="badge">0</span>
+            </div>
+            <div class="drawer-actions">
+                <button id="btn-share-shortlist" class="btn-share-list hidden">🔗 分享清單</button>
+                <button id="btn-clear-shortlist" class="btn-clear-all hidden">🗑️ 清空全部</button>
+                <button id="close-shortlist-drawer" class="close-btn">&times;</button>
+            </div>
+        </div>
+        <div class="drawer-tabs">
+            <button id="tab-list" class="drawer-tab active">📋 口袋名單</button>
+            <button id="tab-compare" class="drawer-tab">📊 雙排對比分析</button>
+        </div>
+        <div class="drawer-body">
+            <div id="shortlist-list-view" class="drawer-view active">
+                <!-- Shortlisted cards injected here -->
+            </div>
+            <div id="shortlist-compare-view" class="drawer-view">
+                <!-- Comparison table injected here -->
+            </div>
+        </div>
+    </div>
 
 
     <!-- Data and App Logic -->

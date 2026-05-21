@@ -10,7 +10,8 @@ const state = {
     locationData: [], // From taipei_locations.json
     showOthers: false,
     hideLowQualityMarkers: true, // Default to true
-    currentResults: []
+    currentResults: [],
+    favorites: new Set()
 };
 
 // Global Detail Viewer (must be global for onclick)
@@ -214,6 +215,7 @@ const detailContent = document.getElementById('detail-content');
 const backHomeBtn = document.getElementById('back-home');
 const floatShareBtn = document.getElementById('float-share');
 const detailShareBtn = document.getElementById('share-detail');
+const shareShortlistBtn = document.getElementById('btn-share-shortlist');
 const toast = document.getElementById('toast');
 const searchInput = document.getElementById('location-search');
 const autocompleteDropdown = document.getElementById('search-autocomplete');
@@ -245,7 +247,9 @@ function init() {
         }
 
         initMap();
+        loadFavorites();
         setupEventListeners();
+        updateShortlistUI();
 
         // Global listener for map popup buttons (View Details)
         state.map.on('popupopen', (e) => {
@@ -396,7 +400,7 @@ function setupEventListeners() {
         searchInput.value = '';
         clearSearchBtn.classList.add('hidden');
         searchResultsView.classList.add('hidden');
-        floatShareBtn.classList.add('hidden');
+        if (floatShareBtn) floatShareBtn.classList.add('hidden');
         
         // Update checkbox UI
         const hideMarkersToggle = document.getElementById('hide-others-markers');
@@ -414,7 +418,7 @@ function setupEventListeners() {
     backHomeBtn.addEventListener('click', () => switchView('home'));
 
     // Sharing
-    floatShareBtn.addEventListener('click', shareCurrentFilters);
+    if (floatShareBtn) floatShareBtn.addEventListener('click', shareCurrentFilters);
     detailShareBtn.addEventListener('click', () => {
         if (state.selectedRestaurant) shareRestaurant(state.selectedRestaurant);
     });
@@ -444,6 +448,105 @@ function setupEventListeners() {
             if (locObj) selectLocation(locObj, 'suggested_scenario');
         });
     });
+
+    // Shortlist Floating Button and Drawer Trigger
+    const floatShortlistBtn = document.getElementById('float-shortlist');
+    const closeShortlistDrawerBtn = document.getElementById('close-shortlist-drawer');
+    const shortlistDrawerOverlay = document.getElementById('shortlist-drawer-overlay');
+    const shortlistDrawer = document.getElementById('shortlist-drawer');
+    const tabList = document.getElementById('tab-list');
+    const tabCompare = document.getElementById('tab-compare');
+    const clearShortlistBtn = document.getElementById('btn-clear-shortlist');
+
+    if (floatShortlistBtn) {
+        floatShortlistBtn.addEventListener('click', () => {
+            shortlistDrawer.classList.add('active');
+            shortlistDrawerOverlay.classList.add('active');
+            renderShortlistDrawer();
+        });
+    }
+
+    if (closeShortlistDrawerBtn) {
+        closeShortlistDrawerBtn.addEventListener('click', () => {
+            shortlistDrawer.classList.remove('active');
+            shortlistDrawerOverlay.classList.remove('active');
+        });
+    }
+
+    if (shortlistDrawerOverlay) {
+        shortlistDrawerOverlay.addEventListener('click', () => {
+            shortlistDrawer.classList.remove('active');
+            shortlistDrawerOverlay.classList.remove('active');
+        });
+    }
+
+    if (tabList && tabCompare) {
+        tabList.addEventListener('click', () => {
+            tabList.classList.add('active');
+            tabCompare.classList.remove('active');
+            document.getElementById('shortlist-list-view').classList.add('active');
+            document.getElementById('shortlist-compare-view').classList.remove('active');
+            renderShortlistDrawer();
+        });
+
+        tabCompare.addEventListener('click', () => {
+            tabCompare.classList.add('active');
+            tabList.classList.remove('active');
+            document.getElementById('shortlist-compare-view').classList.add('active');
+            document.getElementById('shortlist-list-view').classList.remove('active');
+            renderShortlistDrawer();
+        });
+    }
+
+    if (clearShortlistBtn) {
+        clearShortlistBtn.addEventListener('click', () => {
+            if (confirm('確定要清空考慮清單中的所有餐廳嗎？')) {
+                state.favorites.clear();
+                saveFavorites();
+                updateShortlistUI();
+                renderShortlistDrawer();
+                // Also update any visible card favorite states
+                document.querySelectorAll('.card-favorite-btn').forEach(btn => {
+                    btn.classList.remove('active');
+                    btn.innerHTML = '🤍';
+                });
+                const detailFavBtn = document.getElementById('btn-detail-fav');
+                if (detailFavBtn) {
+                    detailFavBtn.classList.remove('active');
+                    detailFavBtn.innerHTML = '📋 加入考慮清單';
+                }
+                showToast('已清空考慮清單');
+            }
+        });
+    }
+
+    if (shareShortlistBtn) {
+        shareShortlistBtn.addEventListener('click', () => {
+            if (state.favorites.size === 0) return;
+            const favIds = Array.from(state.favorites).join(',');
+            const shareUrl = new URL(window.location.href.split('?')[0]);
+            shareUrl.searchParams.set('favs', favIds);
+            
+            const shareText = `這是我精選的台北親子友善餐廳考慮清單，分享給你！`;
+            const fullContent = `${shareText}\n${shareUrl.toString()}`;
+            
+            if (navigator.share) {
+                navigator.share({
+                    title: '我的台北親子餐廳考慮清單',
+                    text: shareText,
+                    url: shareUrl.toString()
+                }).catch(err => {
+                    if (err.name !== 'AbortError') {
+                        copyToClipboard(fullContent, true);
+                        showToast('考慮清單連結已複製，快分享給好友吧！');
+                    }
+                });
+            } else {
+                copyToClipboard(fullContent, true);
+                showToast('考慮清單連結已複製，快分享給好友吧！');
+            }
+        });
+    }
 }
 
 function handleAutocomplete() {
@@ -537,7 +640,7 @@ function selectLocation(loc, source = 'other') {
     if (featuresSection) featuresSection.classList.add('hidden');
     
     searchResultsView.classList.remove('hidden');
-    floatShareBtn.classList.remove('hidden');
+    if (floatShareBtn) floatShareBtn.classList.add('hidden'); // Ensure hidden as per user feedback
     currentSearchLocText.textContent = loc.name;
     
     // CRITICAL: Leaflet needs to know the size changed after being unhidden
@@ -859,7 +962,11 @@ function renderCard(res, container, overrideLevel) {
         `;
     }
 
+    const isFav = state.favorites.has(res.place_id);
     card.innerHTML = `
+        <button class="card-favorite-btn ${isFav ? 'active' : ''}" data-place-id="${res.place_id}" title="${isFav ? '移出考慮清單' : '加入考慮清單'}">
+            ${isFav ? '❤️' : '🤍'}
+        </button>
         <div class="card-header-row">
             <div class="restaurant-name">${res.name}</div>
             ${timePillHtml}
@@ -877,6 +984,14 @@ function renderCard(res, container, overrideLevel) {
             <span style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis;">📍 ${fixSimplifiedAddress(res.address)}</span>
         </div>
     `;
+
+    const favBtn = card.querySelector('.card-favorite-btn');
+    if (favBtn) {
+        favBtn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            toggleFavorite(res.place_id, e);
+        });
+    }
 
     card.addEventListener('click', (e) => {
         console.log('Card clicked, jumping to map:', res.name);
@@ -980,8 +1095,11 @@ function showDetail(restaurant) {
             }
         }
 
-        // Calculate times if distance is available
-        const times = restaurant.distance ? calculateTravelTimes(restaurant.distance) : null;
+        let dist = restaurant.distance;
+        if (dist === undefined && state.searchLocation && restaurant.latitude && restaurant.longitude) {
+            dist = calculateDistance(state.searchLocation.lat, state.searchLocation.lng, restaurant.latitude, restaurant.longitude);
+        }
+        const times = dist ? calculateTravelTimes(dist) : null;
         let timeHtml = '';
         if (times) {
             const startLocName = state.searchLocation ? state.searchLocation.name : '';
@@ -1005,11 +1123,16 @@ function showDetail(restaurant) {
             `;
         }
 
+        const isDetailFav = state.favorites.has(restaurant.place_id);
         detailContent.innerHTML = `
             <h1 style="margin-bottom: 0.5rem; color: var(--text-main);">${restaurant.name || '未命名餐廳'}</h1>
             <div class="restaurant-rating" style="font-size: 1.1rem; margin-bottom: 0.5rem;">⭐ ${restaurant.rating || 'N/A'}</div>
             <div class="restaurant-address" style="font-size: 0.9rem; margin-bottom: 0.85rem;">📍 ${fixSimplifiedAddress(restaurant.address || '')}</div>
             
+            <button class="detail-favorite-btn ${isDetailFav ? 'active' : ''}" id="btn-detail-fav">
+                ${isDetailFav ? '❤️ 已在考慮清單中' : '📋 加入考慮清單'}
+            </button>
+
             ${timeHtml}
 
             <div style="font-weight: 700; margin-bottom: 1rem; color: var(--text-muted);">親子友善建議</div>
@@ -1036,6 +1159,17 @@ function showDetail(restaurant) {
                 在 Google 地圖中開啟
             </button>
         `;
+
+        const detailFavBtn = document.getElementById('btn-detail-fav');
+        if (detailFavBtn) {
+            detailFavBtn.addEventListener('click', () => {
+                toggleFavorite(restaurant.place_id);
+                // Visual feedback is handled via global listeners, but we sync this btn immediately
+                const isNowFav = state.favorites.has(restaurant.place_id);
+                detailFavBtn.className = `detail-favorite-btn ${isNowFav ? 'active' : ''}`;
+                detailFavBtn.innerHTML = isNowFav ? '❤️ 已在考慮清單中' : '📋 加入考慮清單';
+            });
+        }
 
         const gMapBtn = document.getElementById('btn-open-google-maps');
         if (gMapBtn) {
@@ -1286,6 +1420,46 @@ function updateUrl() {
 
 function checkUrlParams() {
     const params = new URLSearchParams(window.location.search);
+    
+    // 檢查是否有分享的考慮清單
+    const favsParam = params.get('favs');
+    if (favsParam) {
+        console.log('Shared favorites detected:', favsParam);
+        const ids = favsParam.split(',');
+        let loadedAny = false;
+        ids.forEach(id => {
+            if (id && typeof restaurantData !== 'undefined' && restaurantData.some(r => r.place_id === id)) {
+                state.favorites.add(id);
+                loadedAny = true;
+            }
+        });
+        if (loadedAny) {
+            saveFavorites();
+            updateShortlistUI();
+            
+            // 自動開啟考慮清單抽屜，讓使用者立即看到分享的項目
+            const openDrawer = () => {
+                const shortlistDrawer = document.getElementById('shortlist-drawer');
+                const shortlistDrawerOverlay = document.getElementById('shortlist-drawer-overlay');
+                if (shortlistDrawer && shortlistDrawerOverlay) {
+                    shortlistDrawer.classList.add('active');
+                    shortlistDrawerOverlay.classList.add('active');
+                    renderShortlistDrawer();
+                }
+            };
+            if (document.readyState === 'complete') {
+                openDrawer();
+            } else {
+                window.addEventListener('load', openDrawer);
+            }
+            
+            // 清理網址參數，使重整時不會重複觸發開啟抽屜
+            const newUrl = new URL(window.location.href);
+            newUrl.searchParams.delete('favs');
+            window.history.replaceState({}, '', newUrl.toString());
+        }
+    }
+
     const locName = params.get('loc');
     const lat = params.get('lat');
     const lng = params.get('lng');
@@ -1435,6 +1609,267 @@ function showToast(msg) {
     toast.style.zIndex = "9999"; // Ensure it's on top
     toast.classList.add('show');
     setTimeout(() => toast.classList.remove('show'), 3000);
+}
+
+// Shortlist & Favorite Helpers
+function loadFavorites() {
+    try {
+        const stored = localStorage.getItem('taipei_kids_restaurants_favorites');
+        if (stored) {
+            const arr = JSON.parse(stored);
+            if (Array.isArray(arr)) {
+                state.favorites = new Set(arr);
+            }
+        }
+    } catch (e) {
+        console.error('Failed to load favorites', e);
+    }
+}
+
+function saveFavorites() {
+    try {
+        const arr = Array.from(state.favorites);
+        localStorage.setItem('taipei_kids_restaurants_favorites', JSON.stringify(arr));
+    } catch (e) {
+        console.error('Failed to save favorites', e);
+    }
+}
+
+function updateShortlistUI() {
+    const floatShortlistBtn = document.getElementById('float-shortlist');
+    const shortlistCountBadge = document.getElementById('shortlist-count');
+    const drawerCountBadge = document.getElementById('drawer-count-badge');
+    const clearShortlistBtn = document.getElementById('btn-clear-shortlist');
+    const shareShortlistBtn = document.getElementById('btn-share-shortlist');
+
+    const count = state.favorites.size;
+
+    if (floatShortlistBtn) {
+        if (count > 0) {
+            floatShortlistBtn.classList.remove('hidden');
+        } else {
+            floatShortlistBtn.classList.add('hidden');
+            // If the drawer was open, close it
+            const shortlistDrawer = document.getElementById('shortlist-drawer');
+            const shortlistDrawerOverlay = document.getElementById('shortlist-drawer-overlay');
+            if (shortlistDrawer && shortlistDrawer.classList.contains('active')) {
+                shortlistDrawer.classList.remove('active');
+                shortlistDrawerOverlay.classList.remove('active');
+            }
+        }
+    }
+
+    if (shortlistCountBadge) {
+        shortlistCountBadge.textContent = count;
+    }
+    if (drawerCountBadge) {
+        drawerCountBadge.textContent = count;
+    }
+    if (clearShortlistBtn) {
+        if (count > 0) {
+            clearShortlistBtn.classList.remove('hidden');
+        } else {
+            clearShortlistBtn.classList.add('hidden');
+        }
+    }
+    if (shareShortlistBtn) {
+        if (count > 0) {
+            shareShortlistBtn.classList.remove('hidden');
+        } else {
+            shareShortlistBtn.classList.add('hidden');
+        }
+    }
+}
+
+function toggleFavorite(placeId, event) {
+    const isNowFav = !state.favorites.has(placeId);
+    
+    // Find restaurant name for logging
+    const res = restaurantData.find(r => r.place_id === placeId);
+    const resName = res ? res.name : '';
+
+    if (isNowFav) {
+        state.favorites.add(placeId);
+        showToast(`已將「${resName}」加入考慮清單`);
+        trackEvent('add_to_shortlist', { restaurant_name: resName });
+    } else {
+        state.favorites.delete(placeId);
+        showToast(`已將「${resName}」移出考慮清單`);
+        trackEvent('remove_from_shortlist', { restaurant_name: resName });
+    }
+
+    saveFavorites();
+    updateShortlistUI();
+
+    // 1. Sync card buttons across the app
+    document.querySelectorAll(`.card-favorite-btn[data-place-id="${placeId}"]`).forEach(btn => {
+        btn.classList.toggle('active', isNowFav);
+        btn.innerHTML = isNowFav ? '❤️' : '🤍';
+        btn.title = isNowFav ? '移出考慮清單' : '加入考慮清單';
+    });
+
+    // 2. Sync detail view button if open
+    const detailFavBtn = document.getElementById('btn-detail-fav');
+    if (detailFavBtn && detailFavBtn.dataset.placeId === placeId) {
+        detailFavBtn.classList.toggle('active', isNowFav);
+        detailFavBtn.innerHTML = isNowFav ? '❤️ 已在考慮清單中' : '📋 加入考慮清單';
+    }
+
+    // 3. Re-render drawer if open
+    const shortlistDrawer = document.getElementById('shortlist-drawer');
+    if (shortlistDrawer && shortlistDrawer.classList.contains('active')) {
+        renderShortlistDrawer();
+    }
+}
+
+function renderShortlistDrawer() {
+    const listView = document.getElementById('shortlist-list-view');
+    const compareView = document.getElementById('shortlist-compare-view');
+
+    if (!listView || !compareView) return;
+
+    const count = state.favorites.size;
+    if (count === 0) {
+        const emptyHtml = `
+            <div class="drawer-empty-state">
+                <span class="drawer-empty-icon">📋</span>
+                <h3>你的考慮清單還是空的</h3>
+                <p>在餐廳卡片或詳情頁面中點擊「加入考慮」，即可在此比對與挑選心儀的餐廳！</p>
+            </div>
+        `;
+        listView.innerHTML = emptyHtml;
+        compareView.innerHTML = emptyHtml;
+        return;
+    }
+
+    // Get selected restaurant data objects
+    const savedRestaurants = Array.from(state.favorites)
+        .map(id => {
+            const res = restaurantData.find(r => r.place_id === id);
+            if (!res) return null;
+            const copy = { ...res };
+            if (state.searchLocation && copy.latitude && copy.longitude) {
+                copy.distance = calculateDistance(state.searchLocation.lat, state.searchLocation.lng, copy.latitude, copy.longitude);
+            }
+            return copy;
+        })
+        .filter(Boolean);
+
+    // Render list view
+    if (listView.classList.contains('active')) {
+        let listHtml = '<div class="shortlist-list">';
+        savedRestaurants.forEach(res => {
+            const status = getDynamicStatus(res, state.filters);
+            const levelClass = status.class;
+            const displayLabel = status.label;
+            
+            // Build amenity text
+            const ams = [];
+            const attrs = res.attributes || {};
+            if (attrs.high_chair_available === 'yes') ams.push('🪑兒童椅');
+            if (attrs.kids_menu === 'yes') ams.push('🥘兒童餐');
+            if (attrs.spacious_seating === 'yes') ams.push('🛋️空間寬敞');
+            if (attrs.kid_noise_tolerant === 'yes') ams.push('🥳不怕吵');
+            const amsText = ams.length > 0 ? ams.join(' · ') : '暫無特徵標籤';
+
+            listHtml += `
+                <div class="shortlist-card" style="cursor: pointer;" onclick="window.showDetailFromMap('${res.place_id}')">
+                    <div class="shortlist-info">
+                        <div class="shortlist-name-row">
+                            <span class="shortlist-name">${res.name}</span>
+                            <span class="match-rate-badge-small">${res.rating} ⭐</span>
+                        </div>
+                        <div class="shortlist-summary">${res.card_summary || res.ai_summary || '無摘要'}</div>
+                        <div class="shortlist-amenities">${amsText}</div>
+                    </div>
+                    <button class="shortlist-del-btn" data-place-id="${res.place_id}" title="移出清單">🗑️</button>
+                </div>
+            `;
+        });
+        listHtml += '</div>';
+        listView.innerHTML = listHtml;
+
+        // Wire delete buttons
+        listView.querySelectorAll('.shortlist-del-btn').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                e.stopPropagation();
+                toggleFavorite(btn.dataset.placeId);
+            });
+        });
+    }
+
+    // Render comparison table view
+    if (compareView.classList.contains('active')) {
+        let tableHtml = `
+            <div class="comparison-table-wrapper">
+                <table class="comparison-table">
+                    <thead>
+                        <tr>
+                            <th>餐廳名稱</th>
+                            <th>評分</th>
+                            <th>兒童椅</th>
+                            <th>空間寬敞</th>
+                            <th>不怕吵</th>
+                            <th>兒童餐</th>
+                            <th>車程/步行</th>
+                            <th>操作</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+        `;
+
+        savedRestaurants.forEach(res => {
+            const attrs = res.attributes || {};
+            
+            const checkIcon = '<span class="check-icon">✓ 有</span>';
+            const crossIcon = '<span class="cross-icon">✗ 較小</span>';
+            const crossGeneralIcon = '<span class="cross-icon">✗ 無</span>';
+            const unknownIcon = '<span class="unknown-icon">? 未知</span>';
+
+            const chair = attrs.high_chair_available === 'yes' ? checkIcon : (attrs.high_chair_available === 'no' ? crossGeneralIcon : unknownIcon);
+            const spacious = attrs.spacious_seating === 'yes' ? checkIcon : (attrs.spacious_seating === 'no' ? crossIcon : unknownIcon);
+            const noise = attrs.kid_noise_tolerant === 'yes' ? checkIcon : (attrs.kid_noise_tolerant === 'no' ? crossGeneralIcon : unknownIcon);
+            const menu = attrs.kids_menu === 'yes' ? checkIcon : (attrs.kids_menu === 'no' ? crossGeneralIcon : unknownIcon);
+
+            // Travel times
+            const times = res.distance ? calculateTravelTimes(res.distance) : null;
+            const travelText = times ? `🚗${times.driving}分 / 🚶${times.walking}分` : '未定位';
+
+            tableHtml += `
+                <tr>
+                    <td>
+                        <div class="comparison-table-name-cell">
+                            <a href="#" onclick="window.showDetailFromMap('${res.place_id}'); return false;">${res.name}</a>
+                        </div>
+                    </td>
+                    <td style="font-weight: 700; color: var(--primary);">${res.rating} ⭐</td>
+                    <td>${chair}</td>
+                    <td>${spacious}</td>
+                    <td>${noise}</td>
+                    <td>${menu}</td>
+                    <td style="color: var(--text-muted); font-weight: 600;">${travelText}</td>
+                    <td>
+                        <span class="comparison-table-del" data-place-id="${res.place_id}">刪除</span>
+                    </td>
+                </tr>
+            `;
+        });
+
+        tableHtml += `
+                    </tbody>
+                </table>
+            </div>
+        `;
+        compareView.innerHTML = tableHtml;
+
+        // Wire table delete links
+        compareView.querySelectorAll('.comparison-table-del').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                e.stopPropagation();
+                toggleFavorite(btn.dataset.placeId);
+            });
+        });
+    }
 }
 
 // Start the app
