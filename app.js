@@ -670,7 +670,7 @@ function handleNearby() {
         return;
     }
 
-    btnNearby.innerHTML = '定位中...';
+    btnNearby.innerHTML = '<span class="icon">⏳</span>';
     navigator.geolocation.getCurrentPosition(
         (pos) => {
             const loc = {
@@ -681,12 +681,12 @@ function handleNearby() {
             };
             state.userLocation = { lat: loc.lat, lng: loc.lng };
             selectLocation(loc, 'nearby');
-            btnNearby.innerHTML = '<span class="icon">📍</span> <span class="btn-text-desktop">看我附近適合帶小孩的餐廳</span><span class="btn-text-mobile">找我附近適合小孩的餐廳</span>';
+            btnNearby.innerHTML = '<span class="icon">📍</span>';
         },
         (err) => {
             console.error(err);
             showToast('定位失敗，請手動輸入地點');
-            btnNearby.innerHTML = '<span class="icon">📍</span> <span class="btn-text-desktop">看我附近適合帶小孩的餐廳</span><span class="btn-text-mobile">找我附近適合小孩的餐廳</span>';
+            btnNearby.innerHTML = '<span class="icon">📍</span>';
         }
     );
 }

@@ -349,32 +349,74 @@ body {
     display: none;
 }
 
-/* Home Page Filter Section Overlay */
-.main-filter-section {
-    margin: 1rem 0 1.25rem;
+/* Home Page Unified Frosted-Glass Card (Plan A) */
+.main-search-card {
+    margin: 1.5rem auto 1.5rem;
+    width: 100%;
+    max-width: 500px;
     background: rgba(255, 255, 255, 0.12);
-    padding: 1.25rem;
-    border-radius: 1.5rem;
+    border-radius: 1.75rem;
     border: 1px solid rgba(255, 255, 255, 0.2);
-    backdrop-filter: blur(10px);
-    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.08);
+    overflow: hidden;
+    animation: fadeIn 0.5s ease-out;
 }
 
-.main-filter-section .filter-header {
+.search-widget-section {
+    padding: 1.5rem;
+}
+
+.search-widget-divider {
+    height: 1px;
+    background: rgba(255, 255, 255, 0.15);
+    margin: 0;
+}
+
+.main-search-card .filter-header {
     display: flex;
     justify-content: space-between;
     align-items: center;
     margin-bottom: 0.85rem;
 }
 
-.main-filter-section .filter-title {
+.main-search-card .filter-title,
+.main-search-card .search-step-label {
     font-size: 0.85rem;
     font-weight: 800;
     color: white;
     letter-spacing: 0.05em;
+    opacity: 0.95;
+    margin-bottom: 0.85rem;
+    display: block;
 }
 
-.main-filter-section .filters-scroll {
+.main-search-card .search-step-label {
+    margin-bottom: 0.75rem;
+}
+
+.main-search-card .btn-text {
+    color: rgba(255, 255, 255, 0.9);
+    padding: 0.25rem 0.6rem;
+    font-size: 0.8rem;
+    font-weight: 700;
+    border-radius: 0.5rem;
+    background: rgba(255, 255, 255, 0.15);
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    transition: var(--transition);
+    white-space: nowrap;
+    flex-shrink: 0;
+    line-height: 1.2;
+}
+
+.main-search-card .btn-text:hover {
+    color: var(--accent);
+    background: rgba(255, 255, 255, 0.25);
+    border-color: var(--accent);
+}
+
+.main-search-card .filters-scroll {
     display: flex;
     flex-wrap: wrap; /* 讓標籤自動換行 */
     gap: 0.75rem;
@@ -382,8 +424,8 @@ body {
     padding-bottom: 0;
 }
 
-.main-filter-section .filter-chip {
-    flex: 1 1 calc(50% - 0.5rem); /* 讓標籤在手機上佔約一半寬度 */
+.main-search-card .filter-chip {
+    flex: 1 1 calc(50% - 0.375rem); /* 讓標籤在手機上佔約一半寬度 */
     justify-content: center;
     background: rgba(255, 255, 255, 0.2);
     color: white;
@@ -391,20 +433,61 @@ body {
     padding: 0.75rem 0.5rem;
 }
 
-.main-filter-section .filter-chip:hover {
+.main-search-card .filter-chip:hover {
     background: rgba(255, 255, 255, 0.3);
 }
 
-.main-filter-section .filter-chip.active {
+.main-search-card .filter-chip.active {
     background: var(--accent);
     color: var(--text-main);
     border-color: var(--accent);
     box-shadow: 0 4px 15px rgba(255, 217, 61, 0.4);
 }
 
-.main-filter-section .filter-chip.active::before {
+.main-search-card .filter-chip.active::before {
     content: '✓';
     margin-right: 4px;
+}
+
+.main-search-card .search-container {
+    max-width: 100%;
+    width: 100%;
+    margin-bottom: 0;
+}
+
+.search-input-wrapper #location-search {
+    flex: 1;
+    min-width: 0;
+    width: auto;
+    padding-right: 0.5rem;
+}
+
+.btn-nearby-embed {
+    background: rgba(255, 126, 103, 0.12);
+    border: none;
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    color: var(--primary);
+    font-size: 1.15rem;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    margin-right: 0.5rem;
+    transition: var(--transition);
+    flex-shrink: 0;
+}
+
+@media (hover: hover) {
+    .btn-nearby-embed:hover {
+        background: rgba(255, 126, 103, 0.2);
+        transform: scale(1.08);
+    }
+}
+
+.btn-nearby-embed:active {
+    transform: scale(0.95);
 }
 
 .filter-chip {
@@ -533,6 +616,8 @@ body {
     cursor: pointer;
     padding: 0.5rem;
     transition: var(--transition);
+    white-space: nowrap;
+    flex-shrink: 0;
 }
 
 /* Marker Highlight */
@@ -938,10 +1023,12 @@ body {
     transition: var(--transition);
 }
 
-.back-btn:hover {
-    color: var(--primary); /* Micro-interaction hover color matching the brand primary */
-    transform: scale(1.08);
-    box-shadow: var(--shadow-lg);
+@media (hover: hover) {
+    .back-btn:hover {
+        color: var(--primary); /* Micro-interaction hover color matching the brand primary */
+        transform: scale(1.08);
+        box-shadow: var(--shadow-lg);
+    }
 }
 
 .back-btn:active {

@@ -38,32 +38,39 @@
             <h1 class="main-title">帶小孩吃什麼？</h1>
             <p class="subtitle">你的在意，決定你的推薦。</p>
             
-            <div class="main-filter-section">
-                <div class="filter-header">
-                    <span class="filter-title">第一步：勾選你在意的條件 (依符合程度推薦)</span>
-                    <button id="clear-all-filters" class="btn-text hidden">清除</button>
+            <div class="main-search-card">
+                <!-- Step 1: Filters -->
+                <div class="search-widget-section">
+                    <div class="filter-header">
+                        <span class="filter-title">第一步：勾選你在意的條件 (依符合程度推薦)</span>
+                        <button id="clear-all-filters" class="btn-text hidden">清除</button>
+                    </div>
+                    <div class="filters-scroll">
+                        <button class="filter-chip" data-filter="high_chair_available">🪑 兒童椅</button>
+                        <button class="filter-chip" data-filter="spacious_seating">🛋️ 空間寬敞</button>
+                        <button class="filter-chip" data-filter="kid_noise_tolerant">🥳 不怕吵</button>
+                        <button class="filter-chip" data-filter="kids_menu">🥘 兒童餐</button>
+                    </div>
                 </div>
-                <div class="filters-scroll">
-                    <button class="filter-chip" data-filter="high_chair_available">🪑 兒童椅</button>
-                    <button class="filter-chip" data-filter="spacious_seating">🛋️ 空間寬敞</button>
-                    <button class="filter-chip" data-filter="kid_noise_tolerant">🥳 不怕吵</button>
-                    <button class="filter-chip" data-filter="kids_menu">🥘 兒童餐</button>
-                </div>
-            </div>
-            <div class="search-step-label">第二步：輸入地點或看我附近</div>
-            <div class="search-container">
-                <div class="search-input-wrapper">
-                    <svg class="search-icon" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
-                    <input type="text" id="location-search" placeholder="輸入捷運站、地標或行政區" autocomplete="off">
-                    <button id="clear-search" class="clear-search hidden">&times;</button>
-                </div>
-                <div id="search-autocomplete" class="autocomplete-dropdown hidden"></div>
-            </div>
 
-            <div class="entry-actions">
-                <button id="btn-nearby" class="btn btn-nearby">
-                    <span class="icon">📍</span> <span class="btn-text-desktop">看我附近適合帶小孩的餐廳</span><span class="btn-text-mobile">找我附近適合小孩的餐廳</span>
-                </button>
+                <!-- Divider -->
+                <div class="search-widget-divider"></div>
+
+                <!-- Step 2: Location -->
+                <div class="search-widget-section">
+                    <div class="search-step-label">第二步：輸入地點或看我附近</div>
+                    <div class="search-container">
+                        <div class="search-input-wrapper">
+                            <svg class="search-icon" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                            <input type="text" id="location-search" placeholder="輸入捷運站、地標或行政區" autocomplete="off">
+                            <button id="clear-search" class="clear-search hidden">&times;</button>
+                            <button id="btn-nearby" class="btn-nearby-embed" title="找我附近適合帶小孩的餐廳">
+                                <span class="icon">📍</span>
+                            </button>
+                        </div>
+                        <div id="search-autocomplete" class="autocomplete-dropdown hidden"></div>
+                    </div>
+                </div>
             </div>
 
             <div class="quick-links">
