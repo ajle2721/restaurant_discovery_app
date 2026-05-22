@@ -933,6 +933,19 @@ body {
     justify-content: center;
     box-shadow: var(--shadow);
     border: none;
+    color: var(--text-muted); /* Explicitly set to a beautiful grey to override system/browser defaults */
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+.back-btn:hover {
+    color: var(--primary); /* Micro-interaction hover color matching the brand primary */
+    transform: scale(1.08);
+    box-shadow: var(--shadow-lg);
+}
+
+.back-btn:active {
+    transform: scale(0.95);
 }
 
 .detail-content {
@@ -1699,10 +1712,12 @@ body {
     transition: var(--transition);
 }
 
-.btn-clear-all:hover {
-    background: #ef4444;
-    color: white;
-    border-color: #ef4444;
+@media (hover: hover) {
+    .btn-clear-all:hover {
+        background: #ef4444;
+        color: white;
+        border-color: #ef4444;
+    }
 }
 
 .btn-share-list {
@@ -1717,10 +1732,12 @@ body {
     transition: var(--transition);
 }
 
-.btn-share-list:hover {
-    background: #0284c7;
-    color: white;
-    border-color: #0284c7;
+@media (hover: hover) {
+    .btn-share-list:hover {
+        background: #0284c7;
+        color: white;
+        border-color: #0284c7;
+    }
 }
 
 .close-btn {

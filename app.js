@@ -1112,7 +1112,10 @@ function focusOnMap(e, placeId) {
 
         const marker = state.markerMap[placeId];
         if (marker) {
-            state.map.setView([res.latitude, res.longitude], 17);
+            // Offset the map center slightly North of the marker coordinate (res.latitude + 0.0008)
+            // and pass { animate: false } to allow instantaneous positioning, which lets Leaflet's
+            // built-in autoPan calculate positions perfectly without viewport animation collisions.
+            state.map.setView([res.latitude + 0.0008, res.longitude], 17, { animate: false });
             marker.openPopup();
             
             // Directly and reliably scroll the viewport using scrollIntoView
