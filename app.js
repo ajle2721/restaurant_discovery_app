@@ -782,9 +782,9 @@ function calculatePersonalizedScore(res) {
     // Determine level based on requested hierarchy
     let level = 'Insufficient Info';
     if (missCount > 0) {
-        level = 'Needs Attention'; // "不太符合條件"
+        level = 'Needs Attention'; // "不符合條件"
     } else if (matchCount === state.filters.size && state.filters.size > 0) {
-        level = 'High'; // "值得推薦"
+        level = 'High'; // "很適合你"
     } else if (matchCount > 0 || (otherMatchCount > 0 && missCount === 0)) {
         level = 'Medium'; // "可以考慮"
     } else if (unknownCount === 4) {
@@ -808,8 +808,8 @@ async function renderResults() {
         noResultsState.classList.add('hidden');
 
         // Update Level Labels for this session
-        levelLabels['Needs Attention'] = '不太符合條件';
-        levelLabels['High'] = '值得推薦';
+        levelLabels['Needs Attention'] = '不符合條件';
+        levelLabels['High'] = (state.filters && state.filters.size > 0) ? '很適合你' : '值得推薦';
         levelLabels['Medium'] = '可以考慮';
         levelLabels['Insufficient Info'] = '資訊不足';
 
@@ -875,7 +875,7 @@ async function renderResults() {
         // Update Toggle UI
         othersList.classList.toggle('hidden', !state.showOthers);
         toggleOthersBtn.classList.toggle('active', state.showOthers);
-        toggleOthersBtn.querySelector('span').textContent = state.showOthers ? '收合額外選項' : '查看更多 (含資訊不足或不太符合條件)';
+        toggleOthersBtn.querySelector('span').textContent = state.showOthers ? '收合額外選項' : '查看更多 (含資訊不足或不符合條件)';
         document.getElementById('others-section').classList.toggle('hidden', others.length === 0);
 
         const mapData = state.showOthers ? sorted : recommended;
@@ -968,14 +968,14 @@ function getDynamicStatus(res, selectedFilters) {
         });
     }
 
-    // 1. 不太符合條件 (Any selected filter is 'no')
+    // 1. 不符合條件 (Any selected filter is 'no')
     let hasNo = false;
     if (selectedFilters && selectedFilters.size > 0) {
         selectedFilters.forEach(f => {
             if (attrs[f] === 'no') hasNo = true;
         });
     }
-    if (hasNo) return { level: 'Needs Attention', label: '不太符合條件', class: 'attention', matchCount: matchCount };
+    if (hasNo) return { level: 'Needs Attention', label: '不符合條件', class: 'attention', matchCount: matchCount };
 
     // 2. 資訊不足 (All 4 are unknown/missing)
     const allUnknown = allKeys.every(k => !attrs[k] || attrs[k] === 'unknown');
@@ -983,9 +983,9 @@ function getDynamicStatus(res, selectedFilters) {
 
     // If user has selected filters
     if (selectedFilters && selectedFilters.size > 0) {
-        // 值得推薦 (Perfect match of all selected filters)
+        // 很適合你 (Perfect match of all selected filters)
         if (matchCount === selectedFilters.size) {
-            return { level: 'High', label: '值得推薦', class: 'high', matchCount: matchCount };
+            return { level: 'High', label: '很適合你', class: 'high', matchCount: matchCount };
         }
         
         // 可以考慮 (At least one match, and we already know there's no 'no')
