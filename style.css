@@ -455,6 +455,10 @@ body {
     margin-bottom: 0;
 }
 
+.main-search-card .quick-links {
+    margin-top: 1.25rem;
+}
+
 .search-input-wrapper #location-search {
     flex: 1;
     min-width: 0;
