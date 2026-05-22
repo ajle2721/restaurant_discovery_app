@@ -564,7 +564,7 @@ function setupEventListeners() {
 
     if (clearShortlistBtn) {
         clearShortlistBtn.addEventListener('click', () => {
-            if (confirm('確定要清空考慮清單中的所有餐廳嗎？')) {
+            if (confirm('確定要清空口袋名單中的所有餐廳嗎？')) {
                 state.favorites.clear();
                 saveFavorites();
                 updateShortlistUI();
@@ -577,9 +577,9 @@ function setupEventListeners() {
                 const detailFavBtn = document.getElementById('btn-detail-fav');
                 if (detailFavBtn) {
                     detailFavBtn.classList.remove('active');
-                    detailFavBtn.innerHTML = '📋 加入考慮清單';
+                    detailFavBtn.innerHTML = '❤️ 加入口袋名單';
                 }
-                showToast('已清空考慮清單');
+                showToast('已清空口袋名單');
                 updateUrl();
             }
         });
@@ -592,12 +592,12 @@ function setupEventListeners() {
             const shareUrl = new URL(window.location.href.split('?')[0]);
             shareUrl.searchParams.set('favs', favIds);
             
-            const shareText = `這是我精選的台北親子友善餐廳考慮清單，分享給你！`;
+            const shareText = `這是我精選的台北親子友善餐廳口袋名單，分享給你！`;
             const fullContent = `${shareText}\n${shareUrl.toString()}`;
             
             if (navigator.share) {
                 navigator.share({
-                    title: '我的台北親子餐廳考慮清單',
+                    title: '我的台北親子餐廳口袋名單',
                     text: shareText,
                     url: shareUrl.toString()
                 }).catch(err => {
@@ -659,10 +659,13 @@ function setupEventListeners() {
 
             // Stabilize layout: adjust scroll position so the first restaurant smoothly aligns with the viewport top
             state.isInitialSearchScroll = true;
-            window.scrollTo(0, resultsView.offsetTop);
+            window.scrollTo({
+                top: resultsView.offsetTop,
+                behavior: 'smooth'
+            });
             setTimeout(() => {
                 state.isInitialSearchScroll = false;
-            }, 50);
+            }, 400);
         }
         // User scrolled back past the top of search results (relative scroll < -10) and map was auto-collapsed
         else if (relativeScrollY < -10 && mapContainer.classList.contains('collapsed') && autoCollapsed) {
@@ -1118,7 +1121,7 @@ function renderCard(res, container, overrideLevel) {
 
     const isFav = state.favorites.has(res.place_id);
     card.innerHTML = `
-        <button class="card-favorite-btn ${isFav ? 'active' : ''}" data-place-id="${res.place_id}" title="${isFav ? '移出考慮清單' : '加入考慮清單'}">
+        <button class="card-favorite-btn ${isFav ? 'active' : ''}" data-place-id="${res.place_id}" title="${isFav ? '移出口袋名單' : '加入口袋名單'}">
             ${isFav ? '❤️' : '🤍'}
         </button>
         <div class="card-header-row">
@@ -1320,7 +1323,7 @@ function showDetail(restaurant) {
             <div class="restaurant-address" style="font-size: 0.9rem; margin-bottom: 0.85rem;">📍 ${fixSimplifiedAddress(restaurant.address || '')}</div>
             
             <button class="detail-favorite-btn ${isDetailFav ? 'active' : ''}" id="btn-detail-fav">
-                ${isDetailFav ? '❤️ 已在考慮清單中' : '📋 加入考慮清單'}
+                ${isDetailFav ? '❤️ 已在口袋名單中' : '❤️ 加入口袋名單'}
             </button>
 
             ${timeHtml}
@@ -1357,7 +1360,7 @@ function showDetail(restaurant) {
                 // Visual feedback is handled via global listeners, but we sync this btn immediately
                 const isNowFav = state.favorites.has(restaurant.place_id);
                 detailFavBtn.className = `detail-favorite-btn ${isNowFav ? 'active' : ''}`;
-                detailFavBtn.innerHTML = isNowFav ? '❤️ 已在考慮清單中' : '📋 加入考慮清單';
+                detailFavBtn.innerHTML = isNowFav ? '❤️ 已在口袋名單中' : '❤️ 加入口袋名單';
             });
         }
 
@@ -1610,7 +1613,7 @@ function getShareUrl() {
         params.set('r', state.selectedRestaurant.place_id);
     }
     
-    // 保持 favorites 在網址中，讓「在瀏覽器中開啟」能順利傳遞考慮清單
+    // 保持 favorites 在網址中，讓「在瀏覽器中開啟」能順利傳遞口袋名單
     if (state.favorites && state.favorites.size > 0) {
         params.set('favs', Array.from(state.favorites).join(','));
     }
@@ -1648,7 +1651,7 @@ function checkUrlParams() {
             if (!sessionStorage.getItem(sessionKey)) {
                 sessionStorage.setItem(sessionKey, 'true');
                 
-                // 自動開啟考慮清單抽屜，讓使用者立即看到分享的項目
+                // 自動開啟口袋名單抽屜，讓使用者立即看到分享的項目
                 const openDrawer = () => {
                     const shortlistDrawer = document.getElementById('shortlist-drawer');
                     const shortlistDrawerOverlay = document.getElementById('shortlist-drawer-overlay');
@@ -1897,11 +1900,11 @@ function toggleFavorite(placeId, event) {
 
     if (isNowFav) {
         state.favorites.add(placeId);
-        showToast(`已將「${resName}」加入考慮清單`);
+        showToast(`已將「${resName}」加入口袋名單`);
         trackEvent('add_to_shortlist', { restaurant_name: resName });
     } else {
         state.favorites.delete(placeId);
-        showToast(`已將「${resName}」移出考慮清單`);
+        showToast(`已將「${resName}」移出口袋名單`);
         trackEvent('remove_from_shortlist', { restaurant_name: resName });
     }
 
@@ -1912,14 +1915,14 @@ function toggleFavorite(placeId, event) {
     document.querySelectorAll(`.card-favorite-btn[data-place-id="${placeId}"]`).forEach(btn => {
         btn.classList.toggle('active', isNowFav);
         btn.innerHTML = isNowFav ? '❤️' : '🤍';
-        btn.title = isNowFav ? '移出考慮清單' : '加入考慮清單';
+        btn.title = isNowFav ? '移出口袋名單' : '加入口袋名單';
     });
 
     // 2. Sync detail view button if open
     const detailFavBtn = document.getElementById('btn-detail-fav');
     if (detailFavBtn && detailFavBtn.dataset.placeId === placeId) {
         detailFavBtn.classList.toggle('active', isNowFav);
-        detailFavBtn.innerHTML = isNowFav ? '❤️ 已在考慮清單中' : '📋 加入考慮清單';
+        detailFavBtn.innerHTML = isNowFav ? '❤️ 已在口袋名單中' : '❤️ 加入口袋名單';
     }
 
     // 3. Re-render drawer if open
@@ -1942,9 +1945,9 @@ function renderShortlistDrawer() {
     if (count === 0) {
         const emptyHtml = `
             <div class="drawer-empty-state">
-                <span class="drawer-empty-icon">📋</span>
-                <h3>你的考慮清單還是空的</h3>
-                <p>在餐廳卡片或詳情頁面中點擊「加入考慮」，即可在此比對與挑選心儀的餐廳！</p>
+                <span class="drawer-empty-icon">❤️</span>
+                <h3>你的口袋名單還是空的</h3>
+                <p>在餐廳卡片或詳情頁面中點擊「加入口袋」，即可在此比對與挑選心儀的餐廳！</p>
             </div>
         `;
         listView.innerHTML = emptyHtml;
