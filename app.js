@@ -685,7 +685,11 @@ function handleNearby() {
         },
         (err) => {
             console.error(err);
-            showToast('定位失敗，請手動輸入地點');
+            if (err && err.code === 1) { // 1 is GeolocationPositionError.PERMISSION_DENIED
+                showToast('已停用定位。請點擊網址列旁的「鎖頭」或「設定」圖示重新開啟定位權限，或手動輸入地點。', 6000);
+            } else {
+                showToast('定位失敗，請手動輸入地點');
+            }
             btnNearby.innerHTML = '<span class="icon">📍</span>';
         }
     );
@@ -1713,12 +1717,20 @@ function fixSimplifiedAddress(addr) {
         .replace(/园/g, '園');
 }
 
-function showToast(msg) {
+let toastTimeoutId = null;
+function showToast(msg, duration = 3000) {
     if (!toast) return;
     toast.textContent = msg;
     toast.style.zIndex = "9999"; // Ensure it's on top
     toast.classList.add('show');
-    setTimeout(() => toast.classList.remove('show'), 3000);
+    
+    if (toastTimeoutId) {
+        clearTimeout(toastTimeoutId);
+    }
+    toastTimeoutId = setTimeout(() => {
+        toast.classList.remove('show');
+        toastTimeoutId = null;
+    }, duration);
 }
 
 // Shortlist & Favorite Helpers
