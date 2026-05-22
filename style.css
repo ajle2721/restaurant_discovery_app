@@ -1488,7 +1488,7 @@ body {
     background: var(--card-bg);
     padding: 2.5rem 2rem;
     border-radius: 2rem;
-    text-align: left;
+    text-align: center;
     box-shadow: var(--shadow);
     border: 1px solid rgba(0, 0, 0, 0.03);
     transition: var(--transition);
@@ -1517,6 +1517,7 @@ body {
     font-size: 0.95rem;
     color: var(--text-muted);
     line-height: 1.7;
+    text-align: left;
 }
 
 @media (max-width: 600px) {
