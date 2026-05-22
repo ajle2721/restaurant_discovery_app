@@ -1065,7 +1065,6 @@ function renderCard(res, container, overrideLevel) {
         <div class="card-footer-row">
             <span class="card-rating">⭐ ${res.rating}</span>
             ${timeHtml}
-            <span class="card-address">📍 ${fixSimplifiedAddress(res.address)}</span>
         </div>
     `;
 
@@ -1448,6 +1447,7 @@ function renderMap(restaurants) {
                     <span class="map-popup-level-tag" style="background: ${color}">${status.label}</span>
                     ${times ? `<span class="map-popup-time-mini">🚶${times.walking}分鐘 · 🚗${times.driving}分鐘</span>` : ''}
                 </div>
+                <div class="map-popup-address">📍 ${fixSimplifiedAddress(res.address)}</div>
                 <button class="map-popup-action" onclick="showDetailFromMap('${res.place_id}')">查看詳情</button>
             </div>`, { 
                 maxWidth: 240,

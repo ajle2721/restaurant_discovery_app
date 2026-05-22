@@ -640,6 +640,13 @@ body {
     white-space: nowrap;
 }
 
+.map-popup-address {
+    font-size: 11px;
+    color: var(--text-muted);
+    margin-bottom: 10px;
+    line-height: 1.4;
+}
+
 .map-popup-action {
     width: 100%;
     padding: 8px;
@@ -731,12 +738,6 @@ body {
     gap: 0.15rem;
 }
 
-.card-footer-row .card-address {
-    white-space: nowrap;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    flex: 1;
-}
 
 .time-tag {
     cursor: pointer;
