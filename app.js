@@ -11,9 +11,7 @@ const state = {
     showOthers: false,
     hideLowQualityMarkers: true, // Default to true
     currentResults: [],
-    favorites: new Set(),
-    mapManuallyToggled: false,
-    isInitialSearchScroll: false
+    favorites: new Set()
 };
 
 // Global Detail Viewer (must be global for onclick)
@@ -397,8 +395,6 @@ function setupEventListeners() {
         state.filters.clear();
         state.hideLowQualityMarkers = true; // Reset to default: hide low quality
         state.showOthers = false; // Reset to default: hide others list
-        state.mapManuallyToggled = false;
-        toggleMap(true);
         
         document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
         searchInput.value = '';
@@ -426,6 +422,16 @@ function setupEventListeners() {
     detailShareBtn.addEventListener('click', () => {
         if (state.selectedRestaurant) shareRestaurant(state.selectedRestaurant);
     });
+
+    // Detail Favorite Button
+    const detailFavBtn = document.getElementById('btn-detail-fav');
+    if (detailFavBtn) {
+        detailFavBtn.addEventListener('click', () => {
+            if (state.selectedRestaurant) {
+                toggleFavorite(state.selectedRestaurant.place_id);
+            }
+        });
+    }
 
     // Trending Items
     document.querySelectorAll('.trending-item').forEach(item => {
@@ -577,7 +583,7 @@ function setupEventListeners() {
                 const detailFavBtn = document.getElementById('btn-detail-fav');
                 if (detailFavBtn) {
                     detailFavBtn.classList.remove('active');
-                    detailFavBtn.innerHTML = '❤️ 加入口袋名單';
+                    detailFavBtn.innerHTML = '🤍';
                 }
                 showToast('已清空口袋名單');
                 updateUrl();
@@ -621,80 +627,6 @@ function setupEventListeners() {
         }
     });
 
-    // Map Collapse Button click listener
-    const toggleMapBtn = document.getElementById('toggle-map-btn');
-    if (toggleMapBtn) {
-        toggleMapBtn.addEventListener('click', () => {
-            const mapContainer = document.getElementById('map-container');
-            if (mapContainer) {
-                const isCollapsed = mapContainer.classList.contains('collapsed');
-                state.mapManuallyToggled = true; // Mark as explicitly toggled by user
-                toggleMap(isCollapsed);
-                
-                trackEvent('click_toggle_map', {
-                    action: isCollapsed ? 'expand' : 'collapse'
-                });
-            }
-        });
-    }
-
-    // Auto-collapse map on mobile scroll
-    let autoCollapsed = false;
-    window.addEventListener('scroll', () => {
-        if (state.isInitialSearchScroll) return; // Skip during initial scroll jump
-        if (window.innerWidth >= 768) return;
-        const resultsView = document.getElementById('search-results-view');
-        if (!resultsView || resultsView.classList.contains('hidden')) return;
-
-        const mapContainer = document.getElementById('map-container');
-        if (!mapContainer) return;
-
-        const currentScrollY = window.scrollY;
-        const relativeScrollY = currentScrollY - resultsView.offsetTop;
-
-        // User scrolled down past 120px relative to search results top, and map is expanded
-        if (relativeScrollY > 120 && !mapContainer.classList.contains('collapsed') && !state.mapManuallyToggled) {
-            toggleMap(false);
-            autoCollapsed = true;
-
-            // Stabilize layout: adjust scroll position so the first restaurant smoothly aligns with the viewport top
-            state.isInitialSearchScroll = true;
-            window.scrollTo({
-                top: resultsView.offsetTop,
-                behavior: 'smooth'
-            });
-            setTimeout(() => {
-                state.isInitialSearchScroll = false;
-            }, 400);
-        }
-        // User scrolled back past the top of search results (relative scroll < -10) and map was auto-collapsed
-        else if (relativeScrollY < -10 && mapContainer.classList.contains('collapsed') && autoCollapsed) {
-            toggleMap(true);
-            autoCollapsed = false;
-        }
-    });
-}
-
-function toggleMap(visible) {
-    const mapContainer = document.getElementById('map-container');
-    const toggleMapBtn = document.getElementById('toggle-map-btn');
-    if (!mapContainer || !toggleMapBtn) return;
-
-    const mapBtnText = toggleMapBtn.querySelector('.map-btn-text');
-
-    if (visible) {
-        mapContainer.classList.remove('collapsed');
-        if (mapBtnText) mapBtnText.textContent = '收起地圖';
-        // Invalidate size after transition finishes
-        setTimeout(() => {
-            if (state.map) {
-                state.map.invalidateSize();
-            }
-        }, 360);
-    } else {
-        mapContainer.classList.add('collapsed');
-        if (mapBtnText) mapBtnText.textContent = '顯示地圖';
-    }
 }
 
 function handleAutocomplete() {
@@ -761,9 +693,6 @@ function handleNearby() {
 
 function selectLocation(loc, source = 'other') {
     state.searchLocation = loc;
-    state.mapManuallyToggled = false;
-    state.isInitialSearchScroll = true; // Mark that we are doing the initial search scroll
-    toggleMap(true);
     state.showOthers = false; // Reset to only show High+Medium results on new search
     searchInput.value = loc.name;
     autocompleteDropdown.classList.add('hidden');
@@ -802,19 +731,11 @@ function selectLocation(loc, source = 'other') {
             updateUrl();
             // Scroll to results
             searchResultsView.scrollIntoView({ behavior: 'smooth' });
-            
-            // Allow auto-collapse after scroll completes
-            setTimeout(() => {
-                state.isInitialSearchScroll = false;
-            }, 1000);
         }, 100);
     } else {
         renderResults();
         updateUrl();
         searchResultsView.scrollIntoView({ behavior: 'smooth' });
-        setTimeout(() => {
-            state.isInitialSearchScroll = false;
-        }, 1000);
     }
 }
 
@@ -1121,6 +1042,12 @@ function renderCard(res, container, overrideLevel) {
 
     const isFav = state.favorites.has(res.place_id);
     card.innerHTML = `
+        <button class="card-map-btn" data-place-id="${res.place_id}" title="在地圖上查看">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
+                <circle cx="12" cy="10" r="3"></circle>
+            </svg>
+        </button>
         <button class="card-favorite-btn ${isFav ? 'active' : ''}" data-place-id="${res.place_id}" title="${isFav ? '移出口袋名單' : '加入口袋名單'}">
             ${isFav ? '❤️' : '🤍'}
         </button>
@@ -1142,6 +1069,14 @@ function renderCard(res, container, overrideLevel) {
         </div>
     `;
 
+    const mapBtn = card.querySelector('.card-map-btn');
+    if (mapBtn) {
+        mapBtn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            focusOnMap(e, res.place_id);
+        });
+    }
+
     const favBtn = card.querySelector('.card-favorite-btn');
     if (favBtn) {
         favBtn.addEventListener('click', (e) => {
@@ -1151,7 +1086,7 @@ function renderCard(res, container, overrideLevel) {
     }
 
     card.addEventListener('click', (e) => {
-        console.log('Card clicked, jumping to map:', res.name);
+        console.log('Card clicked, showing details:', res.name);
         try {
             trackEvent('click_restaurant_card', {
                 restaurant_name: res.name,
@@ -1159,7 +1094,7 @@ function renderCard(res, container, overrideLevel) {
             });
         } catch (err) {}
         
-        focusOnMap(e, res.place_id);
+        showDetail(res);
     });
 
     container.appendChild(card);
@@ -1176,47 +1111,13 @@ function focusOnMap(e, placeId) {
             renderResults();
         }
 
-        // Lock scroll events IMMEDIATELY to prevent layout shifts/scroll events from auto-collapsing the map
-        state.isInitialSearchScroll = true;
-
-        // If the map is collapsed, expand it!
-        const mapContainer = document.getElementById('map-container');
-        let needsDelay = false;
-        if (mapContainer && mapContainer.classList.contains('collapsed')) {
-            toggleMap(true);
-            state.mapManuallyToggled = false; // Restore auto-collapse behavior
-            needsDelay = true;
-        }
-
         const marker = state.markerMap[placeId];
         if (marker) {
-            const focus = () => {
-                state.map.setView([res.latitude, res.longitude], 17);
-                marker.openPopup();
-                
-                // Directly and reliably scroll the viewport using scrollIntoView
-                resultsView.scrollIntoView({ behavior: 'smooth' });
-                
-                // Also scroll again after transition finishes to guarantee alignment regardless of layout changes
-                setTimeout(() => {
-                    resultsView.scrollIntoView({ behavior: 'smooth' });
-                }, 350);
-
-                // Allow scroll collapse again after the smooth scroll completes
-                setTimeout(() => {
-                    state.isInitialSearchScroll = false;
-                }, 800);
-            };
-
-            if (needsDelay) {
-                // Wait for the container to start expanding so Leaflet can calculate dimensions correctly
-                setTimeout(focus, 150);
-            } else {
-                focus();
-            }
-        } else {
-            // Re-enable scroll listener if marker was not found
-            state.isInitialSearchScroll = false;
+            state.map.setView([res.latitude, res.longitude], 17);
+            marker.openPopup();
+            
+            // Directly and reliably scroll the viewport using scrollIntoView
+            resultsView.scrollIntoView({ behavior: 'smooth' });
         }
     }
 }
@@ -1310,22 +1211,16 @@ function showDetail(restaurant) {
 
             timeHtml = `
                 <div style="display: flex; gap: 0.5rem; margin-bottom: 1.5rem; flex-wrap: wrap;">
-                    <span style="background: #f1f5f9; padding: 0.25rem 0.6rem; border-radius: 2rem; font-size: 0.75rem; font-weight: 600; color: #475569;">🚶 從${originLabel}步行約 ${times.walking} 分鐘</span>
-                    <span style="background: #f1f5f9; padding: 0.25rem 0.6rem; border-radius: 2rem; font-size: 0.75rem; font-weight: 600; color: #475569;">🚗 從${originLabel}開車約 ${times.driving} 分鐘</span>
+                    <span style="background: #f1f5f9; padding: 0.25rem 0.6rem; border-radius: 2rem; font-size: 0.75rem; font-weight: 600; color: #475569;">🚶/🚗 從${originLabel}步行約 ${times.walking} 分鐘、開車約 ${times.driving} 分鐘</span>
                 </div>
             `;
         }
 
-        const isDetailFav = state.favorites.has(restaurant.place_id);
         detailContent.innerHTML = `
             <h1 style="margin-bottom: 0.5rem; color: var(--text-main);">${restaurant.name || '未命名餐廳'}</h1>
             <div class="restaurant-rating" style="font-size: 1.1rem; margin-bottom: 0.5rem;">⭐ ${restaurant.rating || 'N/A'}</div>
             <div class="restaurant-address" style="font-size: 0.9rem; margin-bottom: 0.85rem;">📍 ${fixSimplifiedAddress(restaurant.address || '')}</div>
             
-            <button class="detail-favorite-btn ${isDetailFav ? 'active' : ''}" id="btn-detail-fav">
-                ${isDetailFav ? '❤️ 已在口袋名單中' : '❤️ 加入口袋名單'}
-            </button>
-
             ${timeHtml}
 
             <div style="font-weight: 700; margin-bottom: 1rem; color: var(--text-muted);">親子友善建議</div>
@@ -1355,13 +1250,11 @@ function showDetail(restaurant) {
 
         const detailFavBtn = document.getElementById('btn-detail-fav');
         if (detailFavBtn) {
-            detailFavBtn.addEventListener('click', () => {
-                toggleFavorite(restaurant.place_id);
-                // Visual feedback is handled via global listeners, but we sync this btn immediately
-                const isNowFav = state.favorites.has(restaurant.place_id);
-                detailFavBtn.className = `detail-favorite-btn ${isNowFav ? 'active' : ''}`;
-                detailFavBtn.innerHTML = isNowFav ? '❤️ 已在口袋名單中' : '❤️ 加入口袋名單';
-            });
+            detailFavBtn.dataset.placeId = restaurant.place_id;
+            const isNowFav = state.favorites.has(restaurant.place_id);
+            detailFavBtn.classList.toggle('active', isNowFav);
+            detailFavBtn.innerHTML = isNowFav ? '❤️' : '🤍';
+            detailFavBtn.title = isNowFav ? '移出口袋名單' : '加入口袋名單';
         }
 
         const gMapBtn = document.getElementById('btn-open-google-maps');
@@ -1449,10 +1342,10 @@ function renderMap(restaurants) {
 
     const colorMap = {
         'High': '#059669', '高': '#059669',
-        'Medium': '#0284c7', '中': '#0284c7',
+        'Medium': '#84cc16', '中': '#84cc16',
         'Needs Attention': '#dc2626', '需留意': '#dc2626',
         'Insufficient Info': '#94a3b8', '資訊不足': '#94a3b8',
-        'Low Match': '#6366f1' // New purple for low matches
+        'Low Match': '#0284c7' // New blue for low matches
     };
 
     const bounds = [];
@@ -1463,14 +1356,18 @@ function renderMap(restaurants) {
         const coordKey = `${state.searchLocation.lat.toFixed(6)},${state.searchLocation.lng.toFixed(6)}`;
         usedCoords.set(coordKey, 1);
         
-        // Use a prominent blue pin for the search center
+        // Use a premium Google Maps style red pin for the search center/user location
         const centerIcon = L.divIcon({
-            html: `<div class="search-center-marker-inner" style="background-color: #3b82f6; width: 16px; height: 16px; border: 3px solid white; border-radius: 50%; box-shadow: 0 0 15px rgba(59, 130, 246, 0.6); position: relative;">
-                     <div style="position: absolute; bottom: -10px; left: 50%; transform: translateX(-50%); width: 0; height: 0; border-left: 8px solid transparent; border-right: 8px solid transparent; border-top: 11px solid #3b82f6;"></div>
+            html: `<div class="search-center-marker-inner" style="width: 36px; height: 36px; display: flex; align-items: center; justify-content: center;">
+                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="36" height="36" style="display: block; filter: drop-shadow(0 3px 5px rgba(0,0,0,0.3));">
+                       <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z" fill="#EA4335"/>
+                       <circle cx="12" cy="9" r="3.2" fill="#7A1E1A"/>
+                     </svg>
                    </div>`,
             className: 'search-center-marker-outer',
-            iconSize: [32, 32],
-            iconAnchor: [16, 16]
+            iconSize: [36, 36],
+            iconAnchor: [18, 33],
+            popupAnchor: [0, -33]
         });
 
         const centerMarker = L.marker([state.searchLocation.lat, state.searchLocation.lng], {
@@ -1922,7 +1819,8 @@ function toggleFavorite(placeId, event) {
     const detailFavBtn = document.getElementById('btn-detail-fav');
     if (detailFavBtn && detailFavBtn.dataset.placeId === placeId) {
         detailFavBtn.classList.toggle('active', isNowFav);
-        detailFavBtn.innerHTML = isNowFav ? '❤️ 已在口袋名單中' : '❤️ 加入口袋名單';
+        detailFavBtn.innerHTML = isNowFav ? '❤️' : '🤍';
+        detailFavBtn.title = isNowFav ? '移出口袋名單' : '加入口袋名單';
     }
 
     // 3. Re-render drawer if open

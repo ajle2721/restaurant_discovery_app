@@ -102,7 +102,6 @@
                 <div class="status-content">
                     <span id="current-search-location">顯示全部</span>
                     <div class="status-actions" style="display: flex; gap: 0.75rem; align-items: center;">
-                        <button id="toggle-map-btn" class="btn-text" style="display: flex; align-items: center; gap: 0.25rem;">🗺️ <span class="map-btn-text">收起地圖</span></button>
                         <button id="reset-search" class="btn-text">重新搜尋</button>
                     </div>
                 </div>
@@ -162,9 +161,14 @@
 
     <div id="detail-view" class="view">
         <nav class="detail-header">
-            <button class="back-btn" id="back-home">←</button>
+            <button class="back-btn" id="back-home" title="返回">←</button>
             <div style="font-weight: 700; color: var(--text-muted);">餐廳詳情</div>
-            <button class="back-btn" id="share-detail">🔗</button>
+            <div style="display: flex; gap: 0.5rem;">
+                <button class="back-btn" id="share-detail" title="分享餐廳">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="display: block;"><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"></path><polyline points="16 6 12 2 8 6"></polyline><line x1="12" y1="2" x2="12" y2="15"></line></svg>
+                </button>
+                <button class="back-btn" id="btn-detail-fav" title="加入口袋名單">🤍</button>
+            </div>
         </nav>
         <div id="detail-content" class="detail-content">
             <!-- Detail content will be injected here -->
@@ -184,7 +188,10 @@
                 <span id="drawer-count-badge" class="badge">0</span>
             </div>
             <div class="drawer-actions">
-                <button id="btn-share-shortlist" class="btn-share-list hidden">🔗 分享清單</button>
+                <button id="btn-share-shortlist" class="btn-share-list hidden">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: -2px; margin-right: 4px;"><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"></path><polyline points="16 6 12 2 8 6"></polyline><line x1="12" y1="2" x2="12" y2="15"></line></svg>
+                    分享名單
+                </button>
                 <button id="btn-clear-shortlist" class="btn-clear-all hidden">🗑️ 清空全部</button>
                 <button id="close-shortlist-drawer" class="close-btn">&times;</button>
             </div>

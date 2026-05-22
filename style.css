@@ -685,7 +685,7 @@ body {
     align-items: flex-start;
     gap: 0.75rem;
     margin-bottom: 0.6rem;
-    padding-right: 3.5rem; /* Safe space to prevent overlapping with absolute favorite heart button */
+    padding-right: 6.5rem; /* Safe space to prevent overlapping with absolute favorite and map buttons */
 }
 
 .time-tag, .time-tag-text {
@@ -812,18 +812,18 @@ body {
 .decision-summary.high .status-dot { background: #10b981; }
 
 .decision-summary.medium {
+    background: linear-gradient(135deg, #f7fee7 0%, #ecfccb 100%);
+    color: #4d7c0f;
+    border: 1px solid #d9f99d;
+}
+.decision-summary.medium .status-dot { background: #84cc16; }
+
+.decision-summary.low-match {
     background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
     color: #0284c7;
     border: 1px solid #bae6fd;
 }
-.decision-summary.medium .status-dot { background: #38bdf8; }
-
-.decision-summary.low-match {
-    background: linear-gradient(135deg, #f5f3ff 0%, #ede9fe 100%);
-    color: #6366f1;
-    border: 1px solid #ddd6fe;
-}
-.decision-summary.low-match .status-dot { background: #818cf8; }
+.decision-summary.low-match .status-dot { background: #38bdf8; }
 
 
 .decision-summary.info {
@@ -848,10 +848,10 @@ body {
     line-height: 1.2;
 }
 .summary-tags-text.high { color: #059669; }
-.summary-tags-text.medium { color: #0284c7; }
+.summary-tags-text.medium { color: #4d7c0f; }
 .summary-tags-text.info { color: #64748b; }
 .summary-tags-text.attention { color: #dc2626; }
-.summary-tags-text.low-match { color: #6366f1; }
+.summary-tags-text.low-match { color: #0284c7; }
 
 .tag-container {
     display: flex;
@@ -1297,21 +1297,19 @@ body {
 
 
 .search-center-marker-inner {
-    animation: markerPulse 2s infinite;
+    animation: markerPulse 2s infinite ease-in-out;
+    transform-origin: bottom center;
 }
 
 @keyframes markerPulse {
     0% {
         transform: scale(1);
-        box-shadow: 0 0 10px rgba(59, 130, 246, 0.5);
     }
     50% {
-        transform: scale(1.15);
-        box-shadow: 0 0 20px rgba(59, 130, 246, 0.8);
+        transform: scale(1.12);
     }
     100% {
         transform: scale(1);
-        box-shadow: 0 0 10px rgba(59, 130, 246, 0.5);
     }
 }
 
@@ -1545,40 +1543,43 @@ body {
 }
 
 .card-favorite-btn.active {
-    background: var(--primary);
-    color: white;
-    border-color: var(--primary);
+    background: rgba(255, 255, 255, 0.95);
+    border-color: rgba(0, 0, 0, 0.05);
 }
 
-/* Detail View Favorite Pill Button */
-.detail-favorite-btn {
-    display: inline-flex;
+/* Card Map Centering Shortcut Pin Button */
+.card-map-btn {
+    position: absolute;
+    top: 1rem;
+    right: 3.75rem; /* Left of the favorite heart button with a clean 0.5rem gap */
+    width: 2.25rem;
+    height: 2.25rem;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.95);
+    backdrop-filter: blur(4px);
+    border: 1px solid rgba(0, 0, 0, 0.05);
+    display: flex;
     align-items: center;
-    gap: 0.5rem;
-    padding: 0.5rem 1rem;
-    border-radius: 2rem;
-    border: 1.5px solid #cbd5e1;
-    background: white;
-    color: #475569;
-    font-size: 0.85rem;
-    font-weight: 700;
+    justify-content: center;
+    color: var(--text-muted);
     cursor: pointer;
     transition: var(--transition);
-    margin-bottom: 1.25rem;
+    z-index: 10;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
 }
 
-.detail-favorite-btn:hover {
-    border-color: var(--primary-light);
-    color: var(--primary);
-    background: rgba(255, 126, 103, 0.02);
+.card-map-btn:hover {
+    transform: scale(1.1);
+    background: white;
+    box-shadow: 0 4px 12px rgba(79, 179, 170, 0.2); /* Beautiful turquoise shadow glow matching marker hover */
+    color: var(--secondary); /* Brand turquoise color */
 }
 
-.detail-favorite-btn.active {
-    background: var(--primary);
-    color: white;
-    border-color: var(--primary);
-    box-shadow: 0 4px 10px rgba(255, 126, 103, 0.25);
+.card-map-btn svg {
+    display: block;
+    transition: var(--transition);
 }
+
 
 /* Shortlist Drawer Styles */
 .drawer-overlay {
@@ -1704,9 +1705,9 @@ body {
 }
 
 .btn-share-list {
-    background: rgba(99, 102, 241, 0.08);
-    color: #6366f1;
-    border: 1px solid rgba(99, 102, 241, 0.2);
+    background: rgba(2, 132, 199, 0.08);
+    color: #0284c7;
+    border: 1px solid rgba(2, 132, 199, 0.2);
     padding: 0.4rem 0.8rem;
     border-radius: 0.75rem;
     font-size: 0.75rem;
@@ -1716,9 +1717,9 @@ body {
 }
 
 .btn-share-list:hover {
-    background: #6366f1;
+    background: #0284c7;
     color: white;
-    border-color: #6366f1;
+    border-color: #0284c7;
 }
 
 .close-btn {
@@ -2137,24 +2138,4 @@ body {
     flex-shrink: 0;
 }
 
-/* Collapsible Map */
-.map-view {
-    transition: height 0.4s cubic-bezier(0.16, 1, 0.3, 1), 
-                margin 0.4s cubic-bezier(0.16, 1, 0.3, 1), 
-                padding 0.4s cubic-bezier(0.16, 1, 0.3, 1), 
-                opacity 0.3s ease;
-}
-.map-view.collapsed {
-    height: 0 !important;
-    min-height: 0 !important;
-    margin-top: 0 !important;
-    margin-bottom: 0 !important;
-    margin-left: auto !important;
-    margin-right: auto !important;
-    padding-top: 0 !important;
-    padding-bottom: 0 !important;
-    opacity: 0 !important;
-    pointer-events: none !important;
-    border: none !important;
-    box-shadow: none !important;
-}
+
