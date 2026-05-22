@@ -123,6 +123,28 @@ body {
     outline: none;
 }
 
+#location-search::placeholder {
+    font-size: 0.95rem;
+    font-weight: 500;
+    color: var(--text-muted);
+    opacity: 0.8;
+}
+
+@media (max-width: 600px) {
+    #location-search {
+        padding: 0.85rem 0.5rem 0.85rem 2.5rem;
+        font-size: 0.95rem;
+    }
+    #location-search::placeholder {
+        font-size: 0.82rem;
+    }
+    .search-icon {
+        left: 0.85rem;
+        width: 16px;
+        height: 16px;
+    }
+}
+
 .clear-search {
     background: #f1f5f9;
     border: none;
