@@ -516,6 +516,43 @@ body {
     transform: scale(0.95);
 }
 
+.nearby-locator-container {
+    margin: 0.5rem 0 1.25rem;
+    text-align: left;
+    animation: fadeIn 0.5s ease-out 0.1s both;
+}
+
+.btn-nearby-prominent {
+    background: rgba(255, 255, 255, 0.16);
+    color: white;
+    border: 1.5px solid rgba(255, 255, 255, 0.45);
+    padding: 0.75rem 1.25rem;
+    border-radius: 2rem;
+    font-size: 0.95rem;
+    font-weight: 800;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    cursor: pointer;
+    transition: var(--transition);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+}
+
+.btn-nearby-prominent:hover {
+    background: rgba(255, 255, 255, 0.28);
+    border-color: var(--accent);
+    color: var(--accent);
+    transform: translateY(-2px);
+    box-shadow: 0 6px 15px rgba(255, 217, 61, 0.25);
+}
+
+.btn-nearby-prominent:active {
+    transform: translateY(0) scale(0.98);
+    background: rgba(255, 255, 255, 0.16);
+}
+
 .filter-chip {
     flex-shrink: 0;
     padding: 0.6rem 1.1rem;
@@ -1197,11 +1234,17 @@ body {
     overflow: hidden;
     box-shadow: var(--shadow-lg);
     border: 1px solid #e2e8f0;
-    transition: height 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    transition: height 0.4s cubic-bezier(0.4, 0, 0.2, 1),
+                margin 0.4s cubic-bezier(0.4, 0, 0.2, 1),
+                border-radius 0.4s cubic-bezier(0.4, 0, 0.2, 1),
+                max-width 0.4s cubic-bezier(0.4, 0, 0.2, 1);
 }
 
 .map-view.enlarged {
     height: 70vh !important;
+    margin: 1.5rem 0 !important;
+    border-radius: 0 !important;
+    max-width: none !important;
 }
 
 #map {
@@ -2161,14 +2204,19 @@ body {
 }
 
 .comparison-table-del {
-    color: #ef4444;
-    text-decoration: none;
-    font-weight: 700;
+    color: #cbd5e1;
     cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.4rem;
+    border-radius: 0.5rem;
+    transition: var(--transition);
 }
 
 .comparison-table-del:hover {
-    text-decoration: underline;
+    color: #ef4444;
+    background: rgba(239, 68, 68, 0.05);
 }
 
 /* Empty drawer state */
