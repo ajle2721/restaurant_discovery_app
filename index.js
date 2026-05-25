@@ -2051,6 +2051,36 @@ const restaurantData = [
     "reviews": []
   },
   {
+    "place_id": "ChIJ2fF1Rb-uQjQR0aeFiyky7Mc",
+    "name": "漢堡王 Burger King 兒童樂園店",
+    "address": "111台灣臺北市士林區福佳里承德路五段55號3樓",
+    "formatted_address": "111台灣臺北市士林區福佳里承德路五段55號3樓",
+    "district": "士林區",
+    "rating": "4",
+    "user_ratings_total": 502,
+    "price_level": "PRICE_LEVEL_MODERATE",
+    "cuisine": "美式料理",
+    "latitude": 25.098117499999997,
+    "longitude": 121.515366,
+    "url": "https://www.google.com/maps/search/?api=1&query=%E6%BC%A2%E5%A0%A1%E7%8E%8B%20Burger%20King%20%E5%85%92%E7%AB%A5%E6%A8%82%E5%9C%92%E5%BA%97&query_place_id=ChIJ2fF1Rb-uQjQR0aeFiyky7Mc",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%BC%A2%E5%A0%A1%E7%8E%8B%20Burger%20King%20%E5%85%92%E7%AB%A5%E6%A8%82%E5%9C%92%E5%BA%97&query_place_id=ChIJ2fF1Rb-uQjQR0aeFiyky7Mc",
+    "attributes": {
+      "high_chair_available": "unknown",
+      "kids_menu": "unknown",
+      "spacious_seating": "yes",
+      "kid_noise_tolerant": "unknown"
+    },
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
+    "signals": [
+      "這裡的漢堡王舒適寬敞"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "離線關鍵字快速評估",
+    "reviews": []
+  },
+  {
     "place_id": "ChIJ2fwhPJSpQjQRQYWd_WNTblc",
     "name": "好初早餐 中山",
     "address": "103台灣臺北市大同區建明里長安西路124號",
@@ -2530,16 +2560,16 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
+      "spacious_seating": "no",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
     "signals": [
-      "儘管空間不算寬敞"
+      "店內空間較擁擠"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
     "reason": "離線關鍵字快速評估",
     "reviews": []
   },
@@ -3037,6 +3067,36 @@ const restaurantData = [
     "card_summary": "",
     "signals": [
       "走進室內顯得寬敞悠閒"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "離線關鍵字快速評估",
+    "reviews": []
+  },
+  {
+    "place_id": "ChIJ4f0XTJyvQjQRkZbOhd6LqgM",
+    "name": "鼎豐FOOD",
+    "address": "111台灣臺北市士林區福佳里承德路五段55號",
+    "formatted_address": "111台灣臺北市士林區福佳里承德路五段55號",
+    "district": "士林區",
+    "rating": "4.3",
+    "user_ratings_total": 264,
+    "price_level": null,
+    "cuisine": null,
+    "latitude": 25.0980571,
+    "longitude": 121.51533669999999,
+    "url": "https://www.google.com/maps/search/?api=1&query=%E9%BC%8E%E8%B1%90FOOD&query_place_id=ChIJ4f0XTJyvQjQRkZbOhd6LqgM",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%BC%8E%E8%B1%90FOOD&query_place_id=ChIJ4f0XTJyvQjQRkZbOhd6LqgM",
+    "attributes": {
+      "high_chair_available": "unknown",
+      "kids_menu": "yes",
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "unknown"
+    },
+    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點。",
+    "card_summary": "",
+    "signals": [
+      "這樣的兒童餐收180"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
@@ -4718,15 +4778,15 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "no"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
     "signals": [
-      "不會吵雜"
+      "多了一份安靜與自在"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
     "reason": "離線關鍵字快速評估",
     "reviews": []
   },
@@ -5191,15 +5251,15 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "no"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
     "signals": [
-      "整體來說不會太吵雜"
+      "老闆親切 店內安靜 只有貓貓愛講話而且很親人😂"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
     "reason": "離線關鍵字快速評估",
     "reviews": []
   },
@@ -6174,16 +6234,16 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "no"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
     "signals": [
       "去站前上街舞課前到此吃早午餐、座位寬敞舒適整潔明亮、窗景很美🤩入口處的圓沙發很有特色🥰 共3層樓、快過年上午人不多沒有開放第3層",
-      "跟網友第一次見面、想說約個不太熱鬧的地方、方便淺聊一下"
+      "不過空間廣闊且學生也都安靜讀書故坐於其中尚稱舒適"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "資訊不足",
     "reason": "離線關鍵字快速評估",
     "reviews": []
   },
@@ -7491,6 +7551,36 @@ const restaurantData = [
     "reviews": []
   },
   {
+    "place_id": "ChIJCwY8XimvQjQRHq9RBs16-0Y",
+    "name": "鴻屋蛋包飯",
+    "address": "111台灣臺北市士林區福佳里承德路五段55號",
+    "formatted_address": "111台灣臺北市士林區福佳里承德路五段55號",
+    "district": "士林區",
+    "rating": "4.6",
+    "user_ratings_total": 198,
+    "price_level": null,
+    "cuisine": null,
+    "latitude": 25.098117499999997,
+    "longitude": 121.515366,
+    "url": "https://www.google.com/maps/search/?api=1&query=%E9%B4%BB%E5%B1%8B%E8%9B%8B%E5%8C%85%E9%A3%AF&query_place_id=ChIJCwY8XimvQjQRHq9RBs16-0Y",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%B4%BB%E5%B1%8B%E8%9B%8B%E5%8C%85%E9%A3%AF&query_place_id=ChIJCwY8XimvQjQRHq9RBs16-0Y",
+    "attributes": {
+      "high_chair_available": "unknown",
+      "kids_menu": "yes",
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "unknown"
+    },
+    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點。",
+    "card_summary": "",
+    "signals": [
+      "跟一份雞米花兒童餐"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "離線關鍵字快速評估",
+    "reviews": []
+  },
+  {
     "place_id": "ChIJCyKuHW-sQjQRLbLgae6QWSU",
     "name": "Second Floor 貳樓西湖店",
     "address": "114台灣臺北市內湖區內湖路一段300號",
@@ -8581,6 +8671,36 @@ const restaurantData = [
     "reviews": []
   },
   {
+    "place_id": "ChIJF-MsSGCqQjQR0MhKD-NXpns",
+    "name": "7-ELEVEN 動物園門市",
+    "address": "116台灣臺北市文山區新光路二段30號1樓",
+    "formatted_address": "116台灣臺北市文山區新光路二段30號1樓",
+    "district": "文山區",
+    "rating": "3.6",
+    "user_ratings_total": 182,
+    "price_level": null,
+    "cuisine": null,
+    "latitude": 24.998254700000004,
+    "longitude": 121.5811215,
+    "url": "https://www.google.com/maps/search/?api=1&query=7-ELEVEN%20%E5%8B%95%E7%89%A9%E5%9C%92%E9%96%80%E5%B8%82&query_place_id=ChIJF-MsSGCqQjQR0MhKD-NXpns",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=7-ELEVEN%20%E5%8B%95%E7%89%A9%E5%9C%92%E9%96%80%E5%B8%82&query_place_id=ChIJF-MsSGCqQjQR0MhKD-NXpns",
+    "attributes": {
+      "high_chair_available": "unknown",
+      "kids_menu": "unknown",
+      "spacious_seating": "no",
+      "kid_noise_tolerant": "unknown"
+    },
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
+    "card_summary": "",
+    "signals": [
+      "常常會出現人山人海、人潮擁擠的狀況"
+    ],
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
+    "reason": "離線關鍵字快速評估",
+    "reviews": []
+  },
+  {
     "place_id": "ChIJF0vFuO2rQjQRWB6d1NTlV_k",
     "name": "BRUN不然-安和店",
     "address": "106台灣臺北市大安區建倫里安和路一段7號",
@@ -9491,15 +9611,15 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "no"
     },
-    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
     "signals": [
       "雖然看得出是擁擠的用餐空間",
       "不適合帶小孩前往"
     ],
-    "parent_friendly_score": -1,
+    "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
     "reason": "離線關鍵字快速評估",
     "reviews": []
@@ -10078,15 +10198,13 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
-    "signals": [
-      "氛圍放鬆不吵雜"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
     "reason": "離線關鍵字快速評估",
     "reviews": []
   },
@@ -10662,6 +10780,36 @@ const restaurantData = [
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
     "reason": "綜合評估",
+    "reviews": []
+  },
+  {
+    "place_id": "ChIJJXfzUy-vQjQRnDMCtQN-g_U",
+    "name": "呀咪食堂",
+    "address": "111台灣臺北市士林區福佳里承德路五段55號",
+    "formatted_address": "111台灣臺北市士林區福佳里承德路五段55號",
+    "district": "士林區",
+    "rating": "4.3",
+    "user_ratings_total": 64,
+    "price_level": null,
+    "cuisine": "中式料理",
+    "latitude": 25.097975299999998,
+    "longitude": 121.51518899999998,
+    "url": "https://www.google.com/maps/search/?api=1&query=%E5%91%80%E5%92%AA%E9%A3%9F%E5%A0%82&query_place_id=ChIJJXfzUy-vQjQRnDMCtQN-g_U",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%91%80%E5%92%AA%E9%A3%9F%E5%A0%82&query_place_id=ChIJJXfzUy-vQjQRnDMCtQN-g_U",
+    "attributes": {
+      "high_chair_available": "unknown",
+      "kids_menu": "yes",
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "unknown"
+    },
+    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點。",
+    "card_summary": "",
+    "signals": [
+      "小朋友吃兒童餐"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "離線關鍵字快速評估",
     "reviews": []
   },
   {
@@ -11301,6 +11449,36 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
+    "reason": "離線關鍵字快速評估",
+    "reviews": []
+  },
+  {
+    "place_id": "ChIJL-BJs3aqQjQRLgXRc-JrSIk",
+    "name": "麥當勞-台北動物園三餐廳",
+    "address": "116台灣臺北市文山區萬興里新光路二段30號",
+    "formatted_address": "116台灣臺北市文山區萬興里新光路二段30號",
+    "district": "文山區",
+    "rating": "3.9",
+    "user_ratings_total": 1969,
+    "price_level": "PRICE_LEVEL_INEXPENSIVE",
+    "cuisine": "早午餐",
+    "latitude": 24.998658199999998,
+    "longitude": 121.5819061,
+    "url": "https://www.google.com/maps/search/?api=1&query=%E9%BA%A5%E7%95%B6%E5%8B%9E-%E5%8F%B0%E5%8C%97%E5%8B%95%E7%89%A9%E5%9C%92%E4%B8%89%E9%A4%90%E5%BB%B3&query_place_id=ChIJL-BJs3aqQjQRLgXRc-JrSIk",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%BA%A5%E7%95%B6%E5%8B%9E-%E5%8F%B0%E5%8C%97%E5%8B%95%E7%89%A9%E5%9C%92%E4%B8%89%E9%A4%90%E5%BB%B3&query_place_id=ChIJL-BJs3aqQjQRLgXRc-JrSIk",
+    "attributes": {
+      "high_chair_available": "unknown",
+      "kids_menu": "unknown",
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "yes"
+    },
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
+    "signals": [
+      "適合家庭客"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "離線關鍵字快速評估",
     "reviews": []
   },
@@ -13457,6 +13635,34 @@ const restaurantData = [
     "reviews": []
   },
   {
+    "place_id": "ChIJNztb8TOvQjQR-JKZTFYMiPA",
+    "name": "肉醬bar 披薩熱狗堡義大利麵（聚食光店B1）",
+    "address": "111台灣臺北市士林區福佳里士商路189號B1",
+    "formatted_address": "111台灣臺北市士林區福佳里士商路189號B1",
+    "district": "士林區",
+    "rating": "4.7",
+    "user_ratings_total": 563,
+    "price_level": null,
+    "cuisine": "美式料理",
+    "latitude": 25.096142399999998,
+    "longitude": 121.51709650000001,
+    "url": "https://www.google.com/maps/search/?api=1&query=%E8%82%89%E9%86%ACbar%20%E6%8A%AB%E8%96%A9%E7%86%B1%E7%8B%97%E5%A0%A1%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5%EF%BC%88%E8%81%9A%E9%A3%9F%E5%85%89%E5%BA%97B1%EF%BC%89&query_place_id=ChIJNztb8TOvQjQR-JKZTFYMiPA",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%82%89%E9%86%ACbar%20%E6%8A%AB%E8%96%A9%E7%86%B1%E7%8B%97%E5%A0%A1%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5%EF%BC%88%E8%81%9A%E9%A3%9F%E5%85%89%E5%BA%97B1%EF%BC%89&query_place_id=ChIJNztb8TOvQjQR-JKZTFYMiPA",
+    "attributes": {
+      "high_chair_available": "unknown",
+      "kids_menu": "unknown",
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "unknown"
+    },
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "離線關鍵字快速評估",
+    "reviews": []
+  },
+  {
     "place_id": "ChIJO0Um2CmqQjQR1K5YldZ8Ibw",
     "name": "Oneway CAFE玩味咖啡",
     "address": "106台灣臺北市大安區和平東路二段118巷38-1號",
@@ -14673,15 +14879,14 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
     "signals": [
-      "環境很舒服乾淨",
-      "有種輕鬆愉快又不吵雜的氛圍"
+      "環境很舒服乾淨"
     ],
-    "parent_friendly_score": 2,
+    "parent_friendly_score": 1,
     "parent_friendly_level": "中",
     "reason": "離線關鍵字快速評估",
     "reviews": []
@@ -14853,15 +15058,13 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
-    "signals": [
-      "現場環境輕鬆不吵雜"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
     "reason": "離線關鍵字快速評估",
     "reviews": []
   },
@@ -16548,6 +16751,34 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
+    "reason": "離線關鍵字快速評估",
+    "reviews": []
+  },
+  {
+    "place_id": "ChIJTx9g6ImqQjQRS0zkHp2PCwM",
+    "name": "老虎店",
+    "address": "116台灣臺北市文山區萬興里新光路二段30號",
+    "formatted_address": "116台灣臺北市文山區萬興里新光路二段30號",
+    "district": "文山區",
+    "rating": "3.7",
+    "user_ratings_total": 109,
+    "price_level": null,
+    "cuisine": null,
+    "latitude": 24.9941891,
+    "longitude": 121.58346139999998,
+    "url": "https://www.google.com/maps/search/?api=1&query=%E8%80%81%E8%99%8E%E5%BA%97&query_place_id=ChIJTx9g6ImqQjQRS0zkHp2PCwM",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%80%81%E8%99%8E%E5%BA%97&query_place_id=ChIJTx9g6ImqQjQRS0zkHp2PCwM",
+    "attributes": {
+      "high_chair_available": "unknown",
+      "kids_menu": "unknown",
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "unknown"
+    },
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
     "reason": "離線關鍵字快速評估",
     "reviews": []
   },
@@ -19592,15 +19823,13 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
-    "signals": [
-      "卻也不會感到吵雜"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
     "reason": "離線關鍵字快速評估",
     "reviews": []
   },
@@ -21382,15 +21611,13 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
-    "signals": [
-      "不會太吵雜"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
     "reason": "離線關鍵字快速評估",
     "reviews": []
   },
@@ -21472,15 +21699,13 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
-    "signals": [
-      "不吵雜"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
     "reason": "離線關鍵字快速評估",
     "reviews": []
   },
@@ -26280,19 +26505,18 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E6%98%A5%E9%9C%96%E5%B0%8F%E9%A3%9F&query_place_id=ChIJk7sai7evQjQRSu7Q7UCAlzg",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%98%A5%E9%9C%96%E5%B0%8F%E9%A3%9F&query_place_id=ChIJk7sai7evQjQRSu7Q7UCAlzg",
     "attributes": {
-      "high_chair_available": "yes",
+      "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 用餐空間寬敞舒服。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
     "signals": [
-      "問了下有沒有嬰兒椅",
       "店家內用空間相當寬敞"
     ],
-    "parent_friendly_score": 3,
-    "parent_friendly_level": "高",
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "離線關鍵字快速評估",
     "reviews": []
   },
@@ -27993,15 +28217,13 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
-    "signals": [
-      "一進門就能感受到餐廳的氣氛典雅又不失熱鬧"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
     "reason": "離線關鍵字快速評估",
     "reviews": []
   },
@@ -28317,15 +28539,13 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
-    "signals": [
-      "有冷氣 輕音樂 舒適不吵雜的用餐環境"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
     "reason": "離線關鍵字快速評估",
     "reviews": []
   },
@@ -29945,15 +30165,14 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
     "signals": [
-      "店內寬敞.舒適",
-      "這裡不僅有親子友善空間還是竉物友善餐廳"
+      "店內寬敞.舒適"
     ],
-    "parent_friendly_score": 2,
+    "parent_friendly_score": 1,
     "parent_friendly_level": "中",
     "reason": "離線關鍵字快速評估",
     "reviews": []
@@ -31385,7 +31604,7 @@ const restaurantData = [
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
     "signals": [
-      "卻又不會吵雜"
+      "愛店 幾乎每週必訪 食物品質好乾淨健康 但最驚艷的是 仍能兼顧美味 調味豐富有層次 店員Steven服務優質且親切 親子友善"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
@@ -31536,6 +31755,36 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
+    "reason": "離線關鍵字快速評估",
+    "reviews": []
+  },
+  {
+    "place_id": "ChIJt7vNFFSvQjQRp-Cw_uCjY8k",
+    "name": "INTRO Kitchen",
+    "address": "11162台灣臺北市士林區福佳里基河路300巷21號",
+    "formatted_address": "11162台灣臺北市士林區福佳里基河路300巷21號",
+    "district": "士林區",
+    "rating": "4.2",
+    "user_ratings_total": 1319,
+    "price_level": null,
+    "cuisine": "早午餐",
+    "latitude": 25.093770799999998,
+    "longitude": 121.5185614,
+    "url": "https://www.google.com/maps/search/?api=1&query=INTRO%20Kitchen&query_place_id=ChIJt7vNFFSvQjQRp-Cw_uCjY8k",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=INTRO%20Kitchen&query_place_id=ChIJt7vNFFSvQjQRp-Cw_uCjY8k",
+    "attributes": {
+      "high_chair_available": "unknown",
+      "kids_menu": "unknown",
+      "spacious_seating": "yes",
+      "kid_noise_tolerant": "unknown"
+    },
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
+    "signals": [
+      "燈光美、氣氛佳、服務周到、美學擺盤、用完環境空間寬敞、還有戶外庭院"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "離線關鍵字快速評估",
     "reviews": []
   },
@@ -31704,15 +31953,13 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
-    "signals": [
-      "環境是可以聊天 不吵雜"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
     "reason": "離線關鍵字快速評估",
     "reviews": []
   },
@@ -33361,15 +33608,13 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
-    "signals": [
-      "不走吵雜的大桌聚會風"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
     "reason": "離線關鍵字快速評估",
     "reviews": []
   },
@@ -33886,15 +34131,13 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
-    "signals": [
-      "可能也是因為一人前往居多不會覺得吵雜"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
     "reason": "離線關鍵字快速評估",
     "reviews": []
   },
@@ -34252,6 +34495,34 @@ const restaurantData = [
     "reviews": []
   },
   {
+    "place_id": "ChIJxyg5guSvQjQR3e_FtvpF9AU",
+    "name": "瓦非屋",
+    "address": "111台灣臺北市士林區福佳里承德路五段55號3F",
+    "formatted_address": "111台灣臺北市士林區福佳里承德路五段55號3F",
+    "district": "士林區",
+    "rating": "4.9",
+    "user_ratings_total": 27,
+    "price_level": null,
+    "cuisine": "咖啡廳",
+    "latitude": 25.0980653,
+    "longitude": 121.5153693,
+    "url": "https://www.google.com/maps/search/?api=1&query=%E7%93%A6%E9%9D%9E%E5%B1%8B&query_place_id=ChIJxyg5guSvQjQR3e_FtvpF9AU",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%93%A6%E9%9D%9E%E5%B1%8B&query_place_id=ChIJxyg5guSvQjQR3e_FtvpF9AU",
+    "attributes": {
+      "high_chair_available": "unknown",
+      "kids_menu": "unknown",
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "unknown"
+    },
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "離線關鍵字快速評估",
+    "reviews": []
+  },
+  {
     "place_id": "ChIJy-wfvAmpQjQRUizTD5r4PDg",
     "name": "Go義式西門店(紅樓)",
     "address": "108台灣臺北市萬華區西門里內江街5號",
@@ -34596,6 +34867,36 @@ const restaurantData = [
     "card_summary": "",
     "signals": [
       "可能因為離峰沒什麼人所以感覺上整體環境蠻寬敞並且冷氣溫度舒適"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "離線關鍵字快速評估",
+    "reviews": []
+  },
+  {
+    "place_id": "ChIJybpQZV2vQjQRGEIYQ6T7QOk",
+    "name": "義品院義大利麵",
+    "address": "111台灣臺北市士林區福佳里承德路五段55號2樓",
+    "formatted_address": "111台灣臺北市士林區福佳里承德路五段55號2樓",
+    "district": "士林區",
+    "rating": "4.5",
+    "user_ratings_total": 183,
+    "price_level": null,
+    "cuisine": "義大利料理",
+    "latitude": 25.098117499999997,
+    "longitude": 121.515366,
+    "url": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A9%E5%93%81%E9%99%A2%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5&query_place_id=ChIJybpQZV2vQjQRGEIYQ6T7QOk",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%BE%A9%E5%93%81%E9%99%A2%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5&query_place_id=ChIJybpQZV2vQjQRGEIYQ6T7QOk",
+    "attributes": {
+      "high_chair_available": "unknown",
+      "kids_menu": "yes",
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "unknown"
+    },
+    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點。",
+    "card_summary": "",
+    "signals": [
+      "裡面一堆湯匙（包含有大湯匙、兒童餐具的小湯匙）很不甘願的拿了一支兒童小湯匙給我"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
