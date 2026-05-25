@@ -1619,6 +1619,37 @@ function updateUrl(push = false) {
     }
 }
 
+function urlMatchesCurrentState(params) {
+    const locName = params.get('loc');
+    const lat = params.get('lat');
+    const lng = params.get('lng');
+    
+    const hasLocInUrl = !!locName;
+    const hasLocInState = !!state.searchLocation;
+    
+    if (hasLocInUrl !== hasLocInState) return false;
+    
+    if (hasLocInUrl && hasLocInState) {
+        if (state.searchLocation.name !== locName) return false;
+        if (lat && state.searchLocation.lat) {
+            if (Math.abs(state.searchLocation.lat - parseFloat(lat)) > 0.0001) return false;
+        }
+        if (lng && state.searchLocation.lng) {
+            if (Math.abs(state.searchLocation.lng - parseFloat(lng)) > 0.0001) return false;
+        }
+    }
+    
+    // Check filters
+    const urlFilters = params.getAll('f');
+    if (urlFilters.length !== state.filters.size) return false;
+    
+    for (let f of urlFilters) {
+        if (!state.filters.has(f)) return false;
+    }
+    
+    return true;
+}
+
 function syncStateFromUrl(isInitialLoad = false) {
     const params = new URLSearchParams(window.location.search);
     
@@ -1664,67 +1695,76 @@ function syncStateFromUrl(isInitialLoad = false) {
         }
     }
 
-    // 2. 恢復過濾條件
-    state.filters.clear();
-    document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
-    params.getAll('f').forEach(f => {
-        state.filters.add(f);
-        const chip = document.querySelector(`.filter-chip[data-filter="${f}"]`);
-        if (chip) chip.classList.add('active');
-    });
+    // Check if the search parameters in URL match current active search state.
+    // If they match, skip re-evaluating and re-rendering to prevent scroll resets/jumps!
+    const searchStateMatches = urlMatchesCurrentState(params);
 
-    // 3. 恢復搜尋地點
-    const locName = params.get('loc');
-    const lat = params.get('lat');
-    const lng = params.get('lng');
-    
-    if (lat && lng) {
-        console.log('Syncing location from URL:', lat, lng);
-        let matchedType = '分享位置';
-        if (locName && state.locationData && state.locationData.length > 0) {
-            const matchedLoc = state.locationData.find(l => l.name === locName);
-            if (matchedLoc) {
-                matchedType = matchedLoc.type;
-            }
-        }
+    if (!searchStateMatches) {
+        console.log('Syncing search state from URL...');
+        // 2. 恢復過濾條件
+        state.filters.clear();
+        document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
+        params.getAll('f').forEach(f => {
+            state.filters.add(f);
+            const chip = document.querySelector(`.filter-chip[data-filter="${f}"]`);
+            if (chip) chip.classList.add('active');
+        });
 
-        const loc = {
-            name: locName || '分享的位置',
-            lat: parseFloat(lat),
-            lng: parseFloat(lng),
-            type: matchedType
-        };
+        // 3. 恢復搜尋地點
+        const locName = params.get('loc');
+        const lat = params.get('lat');
+        const lng = params.get('lng');
         
-        // When syncing state back, do not push to history again
-        if (document.readyState === 'complete') {
-            selectLocation(loc, 'url_sync', false);
-        } else {
-            window.addEventListener('load', () => selectLocation(loc, 'url_sync', false));
-        }
-    } else if (locName && state.locationData.length > 0) {
-        const loc = state.locationData.find(l => l.name === locName);
-        if (loc) {
+        if (lat && lng) {
+            console.log('Syncing location from URL:', lat, lng);
+            let matchedType = '分享位置';
+            if (locName && state.locationData && state.locationData.length > 0) {
+                const matchedLoc = state.locationData.find(l => l.name === locName);
+                if (matchedLoc) {
+                    matchedType = matchedLoc.type;
+                }
+            }
+
+            const loc = {
+                name: locName || '分享的位置',
+                lat: parseFloat(lat),
+                lng: parseFloat(lng),
+                type: matchedType
+            };
+            
+            // When syncing state back, do not push to history again
             if (document.readyState === 'complete') {
                 selectLocation(loc, 'url_sync', false);
             } else {
                 window.addEventListener('load', () => selectLocation(loc, 'url_sync', false));
             }
+        } else if (locName && state.locationData.length > 0) {
+            const loc = state.locationData.find(l => l.name === locName);
+            if (loc) {
+                if (document.readyState === 'complete') {
+                    selectLocation(loc, 'url_sync', false);
+                } else {
+                    window.addEventListener('load', () => selectLocation(loc, 'url_sync', false));
+                }
+            }
+        } else {
+            // No location in URL: we are back at the landing page!
+            state.searchLocation = null;
+            state.userLocation = null;
+            state.showOthers = false;
+            searchInput.value = '';
+            clearSearchBtn.classList.add('hidden');
+            searchResultsView.classList.add('hidden');
+            if (floatShareBtn) floatShareBtn.classList.add('hidden');
+            
+            const trendingSection = document.querySelector('.trending-section');
+            if (trendingSection) trendingSection.classList.remove('hidden');
+            const featuresSection = document.querySelector('.features-section');
+            if (featuresSection) featuresSection.classList.remove('hidden');
+            document.querySelector('.main-header').style.display = 'block';
         }
     } else {
-        // No location in URL: we are back at the landing page!
-        state.searchLocation = null;
-        state.userLocation = null;
-        state.showOthers = false;
-        searchInput.value = '';
-        clearSearchBtn.classList.add('hidden');
-        searchResultsView.classList.add('hidden');
-        if (floatShareBtn) floatShareBtn.classList.add('hidden');
-        
-        const trendingSection = document.querySelector('.trending-section');
-        if (trendingSection) trendingSection.classList.remove('hidden');
-        const featuresSection = document.querySelector('.features-section');
-        if (featuresSection) featuresSection.classList.remove('hidden');
-        document.querySelector('.main-header').style.display = 'block';
+        console.log('URL search state matches current state, skipping search re-render.');
     }
 
     // 4. 恢復餐廳詳情
