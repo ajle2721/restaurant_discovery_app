@@ -729,7 +729,7 @@ function handleNearby() {
 
     btnNearby.innerHTML = '<span class="icon">⏳</span>';
     if (btnNearbyProminent) {
-        btnNearbyProminent.innerHTML = '<span class="icon">⏳</span><span>定位中，請稍候...</span>';
+        btnNearbyProminent.innerHTML = '<span class="icon">⏳</span><span>定位中...</span>';
     }
 
     navigator.geolocation.getCurrentPosition(
@@ -738,14 +738,16 @@ function handleNearby() {
                 name: '我附近',
                 lat: pos.coords.latitude,
                 lng: pos.coords.longitude,
-                type: '目前位置'
+                type: '平衡位置' // Keep same logic
             };
+            // Note: type is normally '目前位置' but let's make sure it matches original pos logic
+            loc.type = '目前位置';
             state.userLocation = { lat: loc.lat, lng: loc.lng };
             selectLocation(loc, 'nearby');
             
             btnNearby.innerHTML = '<span class="icon">📍</span>';
             if (btnNearbyProminent) {
-                btnNearbyProminent.innerHTML = '<span class="icon">📍</span><span>自動定位：尋找我附近的親子餐廳</span>';
+                btnNearbyProminent.innerHTML = '<span class="icon">📍</span><span>尋找我附近的親子餐廳</span>';
             }
         },
         (err) => {
@@ -758,7 +760,7 @@ function handleNearby() {
             
             btnNearby.innerHTML = '<span class="icon">📍</span>';
             if (btnNearbyProminent) {
-                btnNearbyProminent.innerHTML = '<span class="icon">📍</span><span>自動定位：尋找我附近的親子餐廳</span>';
+                btnNearbyProminent.innerHTML = '<span class="icon">📍</span><span>尋找我附近的親子餐廳</span>';
             }
         }
     );

@@ -538,6 +538,7 @@ body {
     backdrop-filter: blur(8px);
     -webkit-backdrop-filter: blur(8px);
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+    white-space: nowrap;
 }
 
 .btn-nearby-prominent:hover {
@@ -551,6 +552,16 @@ body {
 .btn-nearby-prominent:active {
     transform: translateY(0) scale(0.98);
     background: rgba(255, 255, 255, 0.16);
+}
+
+@media (max-width: 480px) {
+    .btn-nearby-prominent {
+        font-size: 0.82rem;
+        padding: 0.65rem 1.1rem;
+    }
+    .nearby-locator-container {
+        margin: 0.4rem 0 1rem;
+    }
 }
 
 .filter-chip {
