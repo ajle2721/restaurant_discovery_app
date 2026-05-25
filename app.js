@@ -266,7 +266,7 @@ function init() {
         });
 
         console.log('Map initialized');
-        checkUrlParams();
+        syncStateFromUrl(true);
         console.log('App initialized successfully');
     } catch (err) {
         console.error('App initialization failed:', err);
@@ -411,11 +411,19 @@ function setupEventListeners() {
         const featuresSection = document.querySelector('.features-section');
         if (featuresSection) featuresSection.classList.remove('hidden');
         document.querySelector('.main-header').style.display = 'block';
-        updateUrl();
+        updateUrl(true);
     });
 
     // Navigation
-    backHomeBtn.addEventListener('click', () => switchView('home'));
+    backHomeBtn.addEventListener('click', () => {
+        const params = new URLSearchParams(window.location.search);
+        if (params.get('loc') || params.get('f') || window.history.length > 1) {
+            window.history.back();
+        } else {
+            switchView('home');
+            updateUrl(false);
+        }
+    });
 
     // Sharing
     if (floatShareBtn) floatShareBtn.addEventListener('click', shareCurrentFilters);
@@ -627,6 +635,45 @@ function setupEventListeners() {
         }
     });
 
+    // popstate listener for back/forward browser buttons
+    window.addEventListener('popstate', (e) => {
+        console.log('Popstate detected, syncing view with URL...');
+        syncStateFromUrl(false);
+    });
+
+    // Map size toggle (Enlarge Map)
+    const toggleMapSizeBtn = document.getElementById('btn-toggle-map-size');
+    const mapContainer = document.getElementById('map-container');
+    if (toggleMapSizeBtn && mapContainer) {
+        toggleMapSizeBtn.addEventListener('click', () => {
+            const isEnlarged = mapContainer.classList.toggle('enlarged');
+            const iconSpan = toggleMapSizeBtn.querySelector('.icon');
+            const textSpan = toggleMapSizeBtn.querySelector('.toggle-btn-text');
+            
+            if (isEnlarged) {
+                if (iconSpan) iconSpan.textContent = '收合';
+                if (textSpan) textSpan.textContent = '收合地圖';
+                trackEvent('enlarge_map', { action: 'enlarge' });
+            } else {
+                if (iconSpan) iconSpan.textContent = '🗺️';
+                if (textSpan) textSpan.textContent = '放大地圖';
+                trackEvent('enlarge_map', { action: 'collapse' });
+            }
+            
+            // Redraw Leaflet map size dynamically during the height transition
+            let count = 0;
+            const interval = setInterval(() => {
+                if (state.map) {
+                    state.map.invalidateSize();
+                }
+                count++;
+                if (count >= 20) { // 20 iterations * 20ms = 400ms transition duration
+                    clearInterval(interval);
+                }
+            }, 20);
+        });
+    }
+
 }
 
 function handleAutocomplete() {
@@ -695,7 +742,7 @@ function handleNearby() {
     );
 }
 
-function selectLocation(loc, source = 'other') {
+function selectLocation(loc, source = 'other', pushState = true) {
     state.searchLocation = loc;
     state.showOthers = false; // Reset to only show High+Medium results on new search
     searchInput.value = loc.name;
@@ -732,13 +779,13 @@ function selectLocation(loc, source = 'other') {
         setTimeout(() => {
             state.map.invalidateSize();
             renderResults();
-            updateUrl();
+            updateUrl(pushState);
             // Scroll to results
             searchResultsView.scrollIntoView({ behavior: 'smooth' });
         }, 100);
     } else {
         renderResults();
-        updateUrl();
+        updateUrl(pushState);
         searchResultsView.scrollIntoView({ behavior: 'smooth' });
     }
 }
@@ -1130,156 +1177,144 @@ function focusOnMap(e, placeId) {
 
 window.focusRestaurantOnMap = focusOnMap; // For backward compatibility if any
 
+function renderDetailContent(restaurant) {
+    let tagsHtml = '';
+    const attributes = restaurant.attributes || {};
+    Object.keys(attributes).forEach(attr => {
+        if (attributes[attr] === 'yes' && attributeLabels[attr]) {
+            const isMatched = state.filters && state.filters.has(attr);
+            if (isMatched) {
+                tagsHtml += `<span class="tag matched"><span>✓ ${attributeIcons[attr] || '✨'}</span> ${attributeLabels[attr]}</span>`;
+            } else {
+                tagsHtml += `<span class="tag"><span>${attributeIcons[attr] || '✨'}</span> ${attributeLabels[attr]}</span>`;
+            }
+        }
+    });
+
+    if (!tagsHtml) {
+        tagsHtml = '<div style="color: var(--text-muted); font-size: 0.9rem; font-style: italic;">未看到明確的親子友善資訊</div>';
+    }
+
+    const status = getDynamicStatus(restaurant, state.filters);
+    const level = status.level;
+    const displayLabel = status.label;
+    const levelClass = status.class;
+    
+    // Calculate match count for detail view
+    let matchCount = 0;
+    const attributes_for_count = restaurant.attributes || {};
+    if (state.filters && state.filters.size > 0) {
+        state.filters.forEach(f => {
+            if (attributes_for_count[f] === 'yes') matchCount++;
+        });
+    }
+    
+    let summaryTags = getPFSummaryTags(restaurant, level, true);
+    if (!state.filters || state.filters.size === 0) {
+        summaryTags = '💡 評估依據：系統根據店家的親子硬體設備與環境進行綜合分析。';
+    } else if (summaryTags) {
+        if (summaryTags.startsWith('留意：')) {
+            summaryTags = '⚠️ ' + summaryTags;
+        } else if (summaryTags.startsWith('符合')) {
+            summaryTags = '🔍 ' + summaryTags;
+        } else if (summaryTags.startsWith('具備其他')) {
+            summaryTags = '✨ ' + summaryTags;
+        } else if (summaryTags.startsWith('評論未提及')) {
+            summaryTags = 'ℹ️ ' + summaryTags;
+        }
+    }
+
+    let dist = restaurant.distance;
+    if (dist === undefined && state.searchLocation && restaurant.latitude && restaurant.longitude) {
+        dist = calculateDistance(state.searchLocation.lat, state.searchLocation.lng, restaurant.latitude, restaurant.longitude);
+    }
+    const times = dist ? calculateTravelTimes(dist) : null;
+    let timeHtml = '';
+    if (times) {
+        const startLocName = state.searchLocation ? state.searchLocation.name : '';
+        const startLocType = state.searchLocation ? state.searchLocation.type : '';
+        const isNearby = startLocName === '我附近' || startLocType === '目前位置';
+        
+        let originLabel = '';
+        if (isNearby) {
+            originLabel = '目前位置';
+        } else if (startLocType === '行政區') {
+            originLabel = `「${startLocName}中心點」`;
+        } else {
+            originLabel = `「${startLocName}」`;
+        }
+
+        timeHtml = `
+            <div style="display: flex; gap: 0.5rem; margin-bottom: 1.5rem; flex-wrap: wrap;">
+                <span style="background: #f1f5f9; padding: 0.25rem 0.6rem; border-radius: 2rem; font-size: 0.75rem; font-weight: 600; color: #475569;">🚶/🚗 從${originLabel}步行約 ${times.walking} 分鐘、開車約 ${times.driving} 分鐘</span>
+            </div>
+        `;
+    }
+
+    detailContent.innerHTML = `
+        <h1 style="margin-bottom: 0.5rem; color: var(--text-main);">${restaurant.name || '未命名餐廳'}</h1>
+        <div class="restaurant-rating" style="font-size: 1.1rem; margin-bottom: 0.5rem;">⭐ ${restaurant.rating || 'N/A'}</div>
+        <div class="restaurant-address" style="font-size: 0.9rem; margin-bottom: 0.85rem;">📍 ${fixSimplifiedAddress(restaurant.address || '')}</div>
+        
+        ${timeHtml}
+
+        <div style="font-weight: 700; margin-bottom: 1rem; color: var(--text-muted);">親子友善建議</div>
+        <div style="margin-bottom: 1.5rem;">
+            <div class="decision-summary ${levelClass}">
+                <span class="status-dot"></span>
+                ${displayLabel}
+            </div>
+            ${summaryTags ? `<div class="summary-tags-text ${levelClass}" style="font-size: 0.85rem; font-weight: 600; margin-top: 0.5rem; line-height: 1.5;">${summaryTags}</div>` : ''}
+        </div>
+        
+        <div style="font-weight: 700; margin-bottom: 1rem; color: var(--text-muted);">親子友善條件</div>
+        <div class="tag-container" style="gap: 0.75rem; margin-bottom: 1.5rem;">
+            ${tagsHtml}
+        </div>
+
+        <div class="ai-summary" style="margin-bottom: 1.5rem;">
+            <div class="ai-summary-title">親子用餐摘要（AI根據公開評論整理）</div>
+            <div class="ai-summary-text">${restaurant.ai_summary || '目前尚無摘要資訊。'}</div>
+        </div>
+
+        <button id="btn-open-google-maps" class="btn btn-primary" style="width: 100%; margin-top: 1rem; padding: 1.125rem;">
+            在 Google 地圖中開啟
+        </button>
+    `;
+
+    const detailFavBtn = document.getElementById('btn-detail-fav');
+    if (detailFavBtn) {
+        detailFavBtn.dataset.placeId = restaurant.place_id;
+        const isNowFav = state.favorites.has(restaurant.place_id);
+        detailFavBtn.classList.toggle('active', isNowFav);
+        detailFavBtn.innerHTML = isNowFav ? '❤️' : '🤍';
+        detailFavBtn.title = isNowFav ? '移出口袋名單' : '加入口袋名單';
+    }
+
+    const gMapBtn = document.getElementById('btn-open-google-maps');
+    if (gMapBtn) {
+        gMapBtn.addEventListener('click', () => {
+            const cleanAddr = fixSimplifiedAddress(restaurant.address || '');
+            try {
+                trackEvent('open_google_maps', {
+                    restaurant_name: restaurant.name,
+                    location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
+                });
+            } catch (e) {}
+            const query = encodeURIComponent((restaurant.name || '') + ' ' + cleanAddr);
+            window.open(`https://www.google.com/maps/search/?api=1&query=${query}`, '_blank');
+        });
+    }
+}
+
 function showDetail(restaurant) {
     if (!restaurant) return;
     
     try {
         state.selectedRestaurant = restaurant;
-
-        let tagsHtml = '';
-        const attributes = restaurant.attributes || {};
-        Object.keys(attributes).forEach(attr => {
-            if (attributes[attr] === 'yes' && attributeLabels[attr]) {
-                const isMatched = state.filters && state.filters.has(attr);
-                if (isMatched) {
-                    tagsHtml += `<span class="tag matched"><span>✓ ${attributeIcons[attr] || '✨'}</span> ${attributeLabels[attr]}</span>`;
-                } else {
-                    tagsHtml += `<span class="tag"><span>${attributeIcons[attr] || '✨'}</span> ${attributeLabels[attr]}</span>`;
-                }
-            }
-        });
-
-        if (!tagsHtml) {
-            tagsHtml = '<div style="color: var(--text-muted); font-size: 0.9rem; font-style: italic;">未看到明確的親子友善資訊</div>';
-        }
-
-        let signalsHtml = '';
-        /* 暫時隱藏判斷依據（原評論線索）區塊以避免合規爭議
-        let signals = Array.isArray(restaurant.signals) ? restaurant.signals : (typeof restaurant.signals === 'string' ? [restaurant.signals] : []);
-        if (signals.length > 0) {
-            signalsHtml = `
-                <div style="font-weight: 700; margin-top: 1.5rem; margin-bottom: 0.75rem; color: var(--text-muted);">判斷依據</div>
-                <ul style="list-style: none; padding-left: 0; margin-bottom: 1.5rem;">
-                    ${signals.map(s => `<li style="font-size: 0.9rem; color: var(--text-main); margin-bottom: 0.4rem; display: flex; align-items: center; gap: 0.5rem;">● ${s}</li>`).join('')}
-                </ul>
-            `;
-        }
-        */
-
-        const status = getDynamicStatus(restaurant, state.filters);
-        const level = status.level;
-        const displayLabel = status.label;
-        const levelClass = status.class;
-        
-        // Calculate match count for detail view
-        let matchCount = 0;
-        const attributes_for_count = restaurant.attributes || {};
-        if (state.filters && state.filters.size > 0) {
-            state.filters.forEach(f => {
-                if (attributes_for_count[f] === 'yes') matchCount++;
-            });
-        }
-        
-        let summaryTags = getPFSummaryTags(restaurant, level, true);
-        if (!state.filters || state.filters.size === 0) {
-            summaryTags = '💡 評估依據：系統根據店家的親子硬體設備與環境進行綜合分析。';
-        } else if (summaryTags) {
-            if (summaryTags.startsWith('留意：')) {
-                summaryTags = '⚠️ ' + summaryTags;
-            } else if (summaryTags.startsWith('符合')) {
-                summaryTags = '🔍 ' + summaryTags;
-            } else if (summaryTags.startsWith('具備其他')) {
-                summaryTags = '✨ ' + summaryTags;
-            } else if (summaryTags.startsWith('評論未提及')) {
-                summaryTags = 'ℹ️ ' + summaryTags;
-            }
-        }
-
-        let dist = restaurant.distance;
-        if (dist === undefined && state.searchLocation && restaurant.latitude && restaurant.longitude) {
-            dist = calculateDistance(state.searchLocation.lat, state.searchLocation.lng, restaurant.latitude, restaurant.longitude);
-        }
-        const times = dist ? calculateTravelTimes(dist) : null;
-        let timeHtml = '';
-        if (times) {
-            const startLocName = state.searchLocation ? state.searchLocation.name : '';
-            const startLocType = state.searchLocation ? state.searchLocation.type : '';
-            const isNearby = startLocName === '我附近' || startLocType === '目前位置';
-            
-            let originLabel = '';
-            if (isNearby) {
-                originLabel = '目前位置';
-            } else if (startLocType === '行政區') {
-                originLabel = `「${startLocName}中心點」`;
-            } else {
-                originLabel = `「${startLocName}」`;
-            }
-
-            timeHtml = `
-                <div style="display: flex; gap: 0.5rem; margin-bottom: 1.5rem; flex-wrap: wrap;">
-                    <span style="background: #f1f5f9; padding: 0.25rem 0.6rem; border-radius: 2rem; font-size: 0.75rem; font-weight: 600; color: #475569;">🚶/🚗 從${originLabel}步行約 ${times.walking} 分鐘、開車約 ${times.driving} 分鐘</span>
-                </div>
-            `;
-        }
-
-        detailContent.innerHTML = `
-            <h1 style="margin-bottom: 0.5rem; color: var(--text-main);">${restaurant.name || '未命名餐廳'}</h1>
-            <div class="restaurant-rating" style="font-size: 1.1rem; margin-bottom: 0.5rem;">⭐ ${restaurant.rating || 'N/A'}</div>
-            <div class="restaurant-address" style="font-size: 0.9rem; margin-bottom: 0.85rem;">📍 ${fixSimplifiedAddress(restaurant.address || '')}</div>
-            
-            ${timeHtml}
-
-            <div style="font-weight: 700; margin-bottom: 1rem; color: var(--text-muted);">親子友善建議</div>
-            <div style="margin-bottom: 1.5rem;">
-                <div class="decision-summary ${levelClass}">
-                    <span class="status-dot"></span>
-                    ${displayLabel}
-                </div>
-                ${summaryTags ? `<div class="summary-tags-text ${levelClass}" style="font-size: 0.85rem; font-weight: 600; margin-top: 0.5rem; line-height: 1.5;">${summaryTags}</div>` : ''}
-            </div>
-            
-            <div style="font-weight: 700; margin-bottom: 1rem; color: var(--text-muted);">親子友善條件</div>
-            <div class="tag-container" style="gap: 0.75rem; margin-bottom: 1.5rem;">
-                ${tagsHtml}
-            </div>
-
-            <div class="ai-summary" style="margin-bottom: 1.5rem;">
-                <div class="ai-summary-title">親子用餐摘要（AI根據公開評論整理）</div>
-                <div class="ai-summary-text">${restaurant.ai_summary || '目前尚無摘要資訊。'}</div>
-            </div>
-            ${signalsHtml}
-
-            <button id="btn-open-google-maps" class="btn btn-primary" style="width: 100%; margin-top: 1rem; padding: 1.125rem;">
-                在 Google 地圖中開啟
-            </button>
-        `;
-
-        const detailFavBtn = document.getElementById('btn-detail-fav');
-        if (detailFavBtn) {
-            detailFavBtn.dataset.placeId = restaurant.place_id;
-            const isNowFav = state.favorites.has(restaurant.place_id);
-            detailFavBtn.classList.toggle('active', isNowFav);
-            detailFavBtn.innerHTML = isNowFav ? '❤️' : '🤍';
-            detailFavBtn.title = isNowFav ? '移出口袋名單' : '加入口袋名單';
-        }
-
-        const gMapBtn = document.getElementById('btn-open-google-maps');
-        if (gMapBtn) {
-            gMapBtn.addEventListener('click', () => {
-                const cleanAddr = fixSimplifiedAddress(restaurant.address || '');
-                try {
-                    trackEvent('open_google_maps', {
-                        restaurant_name: restaurant.name,
-                        location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
-                    });
-                } catch (e) {}
-                const query = encodeURIComponent((restaurant.name || '') + ' ' + cleanAddr);
-                window.open(`https://www.google.com/maps/search/?api=1&query=${query}`, '_blank');
-            });
-        }
-
+        renderDetailContent(restaurant);
         switchView('detail');
-        updateUrl();
+        updateUrl(true); // PUSH state on showing details
     } catch (err) {
         console.error('Error in showDetail:', err);
         showToast('無法載入詳情，請稍後再試');
@@ -1526,15 +1561,19 @@ function getShareUrl() {
     return window.location.origin + window.location.pathname + (queryString ? '?' + queryString : '');
 }
 
-function updateUrl() {
+function updateUrl(push = false) {
     const newUrl = getShareUrl();
-    window.history.replaceState({}, '', newUrl);
+    if (push) {
+        window.history.pushState({ view: state.view }, '', newUrl);
+    } else {
+        window.history.replaceState({ view: state.view }, '', newUrl);
+    }
 }
 
-function checkUrlParams() {
+function syncStateFromUrl(isInitialLoad = false) {
     const params = new URLSearchParams(window.location.search);
     
-    // 檢查是否有分享的考慮清單
+    // 1. 檢查是否有分享的考慮清單
     const favsParam = params.get('favs');
     if (favsParam) {
         console.log('Shared favorites detected:', favsParam);
@@ -1551,38 +1590,47 @@ function checkUrlParams() {
             updateShortlistUI();
             
             // 使用 sessionStorage 來記錄此連線階段是否已自動開啟過此分享的抽屜
-            const sessionKey = 'shortlist_auto_opened_' + favsParam;
-            if (!sessionStorage.getItem(sessionKey)) {
-                sessionStorage.setItem(sessionKey, 'true');
-                
-                // 自動開啟口袋名單抽屜，讓使用者立即看到分享的項目
-                const openDrawer = () => {
-                    const shortlistDrawer = document.getElementById('shortlist-drawer');
-                    const shortlistDrawerOverlay = document.getElementById('shortlist-drawer-overlay');
-                    if (shortlistDrawer && shortlistDrawerOverlay) {
-                        shortlistDrawer.classList.add('active');
-                        shortlistDrawerOverlay.classList.add('active');
-                        renderShortlistDrawer();
+            if (isInitialLoad) {
+                const sessionKey = 'shortlist_auto_opened_' + favsParam;
+                if (!sessionStorage.getItem(sessionKey)) {
+                    sessionStorage.setItem(sessionKey, 'true');
+                    
+                    // 自動開啟口袋名單抽屜，讓使用者立即看到分享的項目
+                    const openDrawer = () => {
+                        const shortlistDrawer = document.getElementById('shortlist-drawer');
+                        const shortlistDrawerOverlay = document.getElementById('shortlist-drawer-overlay');
+                        if (shortlistDrawer && shortlistDrawerOverlay) {
+                            shortlistDrawer.classList.add('active');
+                            shortlistDrawerOverlay.classList.add('active');
+                            renderShortlistDrawer();
+                        }
+                    };
+                    if (document.readyState === 'complete') {
+                        openDrawer();
+                    } else {
+                        window.addEventListener('load', openDrawer);
                     }
-                };
-                if (document.readyState === 'complete') {
-                    openDrawer();
-                } else {
-                    window.addEventListener('load', openDrawer);
                 }
             }
         }
     }
 
+    // 2. 恢復過濾條件
+    state.filters.clear();
+    document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
+    params.getAll('f').forEach(f => {
+        state.filters.add(f);
+        const chip = document.querySelector(`.filter-chip[data-filter="${f}"]`);
+        if (chip) chip.classList.add('active');
+    });
+
+    // 3. 恢復搜尋地點
     const locName = params.get('loc');
     const lat = params.get('lat');
     const lng = params.get('lng');
     
-    // 優先檢查經緯度（分享的位置或「我附近」）
     if (lat && lng) {
-        console.log('Detected shared location:', lat, lng);
-        
-        // 嘗試在已知的地點資料中比對以還原正確的 type (例如「行政區」或「捷運站」)
+        console.log('Syncing location from URL:', lat, lng);
         let matchedType = '分享位置';
         if (locName && state.locationData && state.locationData.length > 0) {
             const matchedLoc = state.locationData.find(l => l.name === locName);
@@ -1598,35 +1646,51 @@ function checkUrlParams() {
             type: matchedType
         };
         
-        // 確保在所有初始化完成後執行
+        // When syncing state back, do not push to history again
         if (document.readyState === 'complete') {
-            selectLocation(loc);
+            selectLocation(loc, 'url_sync', false);
         } else {
-            window.addEventListener('load', () => selectLocation(loc));
+            window.addEventListener('load', () => selectLocation(loc, 'url_sync', false));
         }
     } else if (locName && state.locationData.length > 0) {
         const loc = state.locationData.find(l => l.name === locName);
-        if (loc) selectLocation(loc);
+        if (loc) {
+            if (document.readyState === 'complete') {
+                selectLocation(loc, 'url_sync', false);
+            } else {
+                window.addEventListener('load', () => selectLocation(loc, 'url_sync', false));
+            }
+        }
+    } else {
+        // No location in URL: we are back at the landing page!
+        state.searchLocation = null;
+        state.userLocation = null;
+        state.showOthers = false;
+        searchInput.value = '';
+        clearSearchBtn.classList.add('hidden');
+        searchResultsView.classList.add('hidden');
+        if (floatShareBtn) floatShareBtn.classList.add('hidden');
+        
+        const trendingSection = document.querySelector('.trending-section');
+        if (trendingSection) trendingSection.classList.remove('hidden');
+        const featuresSection = document.querySelector('.features-section');
+        if (featuresSection) featuresSection.classList.remove('hidden');
+        document.querySelector('.main-header').style.display = 'block';
     }
-    
-    params.getAll('f').forEach(f => {
-        state.filters.add(f);
-        const chip = document.querySelector(`.filter-chip[data-filter="${f}"]`);
-        if (chip) chip.classList.add('active');
-    });
 
+    // 4. 恢復餐廳詳情
     const resId = params.get('r');
     if (resId && typeof restaurantData !== 'undefined') {
         const res = restaurantData.find(r => r.place_id === resId);
         if (res) {
-            trackEvent('view_restaurant_detail', {
-                restaurant_name: res.name,
-                source: 'direct_link',
-                recommendation_level: levelLabels[res.parent_friendly_level] || res.parent_friendly_level,
-                location_context: 'none'
-            });
-            showDetail(res);
+            state.selectedRestaurant = res;
+            renderDetailContent(res);
+            switchView('detail');
+        } else {
+            switchView('home');
         }
+    } else {
+        switchView('home');
     }
 }
 
