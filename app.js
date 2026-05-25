@@ -1391,10 +1391,13 @@ function switchView(viewName) {
     } else {
         state.view = 'home';
         detailView.classList.remove('active');
-        document.body.style.overflow = ''; // Unlock background window scroll
         
-        // Dynamic Leaflet redraw trigger
-        setTimeout(() => { if (state.map) state.map.invalidateSize(); }, 100);
+        // Delay restoring background scrollbar and invalidating map size until the slide-out transition
+        // completely finishes (650ms) to prevent stutters, layout jumps, or scroll position shifting during active animation.
+        setTimeout(() => {
+            document.body.style.overflow = ''; // Unlock background window scroll
+            if (state.map) state.map.invalidateSize();
+        }, 650);
     }
 }
 

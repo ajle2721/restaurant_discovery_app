@@ -20,6 +20,10 @@
     -webkit-tap-highlight-color: transparent;
 }
 
+html {
+    scrollbar-gutter: stable;
+}
+
 body {
     font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
     background-color: var(--bg-color);
@@ -1087,9 +1091,9 @@ body {
     z-index: 2000;
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
-    transition: transform 0.38s cubic-bezier(0.32, 0.94, 0.6, 1),
-                opacity 0.38s cubic-bezier(0.32, 0.94, 0.6, 1),
-                visibility 0.38s cubic-bezier(0.32, 0.94, 0.6, 1);
+    transition: transform 0.65s cubic-bezier(0.25, 1, 0.3, 1),
+                opacity 0.65s cubic-bezier(0.25, 1, 0.3, 1),
+                visibility 0.65s cubic-bezier(0.25, 1, 0.3, 1);
     transform: translate3d(100%, 0, 0);
     opacity: 0;
     visibility: hidden;
