@@ -1238,6 +1238,7 @@ body {
                 margin 0.4s cubic-bezier(0.4, 0, 0.2, 1),
                 border-radius 0.4s cubic-bezier(0.4, 0, 0.2, 1),
                 max-width 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+    outline: none !important;
 }
 
 .map-view.enlarged {
@@ -1245,6 +1246,12 @@ body {
     margin: 1.5rem 0 !important;
     border-radius: 0 !important;
     max-width: none !important;
+    border: none !important;
+    outline: none !important;
+}
+
+#map, .leaflet-container {
+    outline: none !important;
 }
 
 #map {

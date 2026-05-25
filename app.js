@@ -802,13 +802,23 @@ function selectLocation(loc, source = 'other', pushState = true) {
             state.map.invalidateSize();
             renderResults();
             updateUrl(pushState);
-            // Scroll to results
-            searchResultsView.scrollIntoView({ behavior: 'smooth' });
-        }, 100);
+            
+            // Scroll to previous position on popstate, or scroll to results on manual user search
+            if (source === 'url_sync') {
+                window.scrollTo(0, lastScrollY);
+            } else {
+                searchResultsView.scrollIntoView({ behavior: 'smooth' });
+            }
+        }, 120);
     } else {
         renderResults();
         updateUrl(pushState);
-        searchResultsView.scrollIntoView({ behavior: 'smooth' });
+        
+        if (source === 'url_sync') {
+            window.scrollTo(0, lastScrollY);
+        } else {
+            searchResultsView.scrollIntoView({ behavior: 'smooth' });
+        }
     }
 }
 
