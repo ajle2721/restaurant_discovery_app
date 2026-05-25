@@ -659,11 +659,23 @@ function setupEventListeners() {
             const textSpan = toggleMapSizeBtn.querySelector('.toggle-btn-text');
             
             if (isEnlarged) {
-                if (iconSpan) iconSpan.textContent = '收合';
+                if (iconSpan) {
+                    iconSpan.innerHTML = `
+                        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="display: block;">
+                            <path d="M4 14h6v6M20 10h-6V4M14 10l7-7M10 14l-7 7"/>
+                        </svg>
+                    `;
+                }
                 if (textSpan) textSpan.textContent = '收合地圖';
                 trackEvent('enlarge_map', { action: 'enlarge' });
             } else {
-                if (iconSpan) iconSpan.textContent = '🗺️';
+                if (iconSpan) {
+                    iconSpan.innerHTML = `
+                        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="display: block;">
+                            <path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/>
+                        </svg>
+                    `;
+                }
                 if (textSpan) textSpan.textContent = '放大地圖';
                 trackEvent('enlarge_map', { action: 'collapse' });
             }
@@ -805,10 +817,8 @@ function selectLocation(loc, source = 'other', pushState = true) {
             renderResults();
             updateUrl(pushState);
             
-            // Scroll to previous position on popstate, or scroll to results on manual user search
-            if (source === 'url_sync') {
-                window.scrollTo(0, lastScrollY);
-            } else {
+            // Only scroll to results on manual user search, not during back/forward URL synchronization
+            if (source !== 'url_sync') {
                 searchResultsView.scrollIntoView({ behavior: 'smooth' });
             }
         }, 120);
@@ -816,9 +826,7 @@ function selectLocation(loc, source = 'other', pushState = true) {
         renderResults();
         updateUrl(pushState);
         
-        if (source === 'url_sync') {
-            window.scrollTo(0, lastScrollY);
-        } else {
+        if (source !== 'url_sync') {
             searchResultsView.scrollIntoView({ behavior: 'smooth' });
         }
     }
@@ -1376,24 +1384,16 @@ let lastScrollY = 0;
 
 function switchView(viewName) {
     if (viewName === 'detail') {
-        // Store the scroll position Y before leaving home/results view
-        if (state.view === 'home') {
-            lastScrollY = window.scrollY;
-        }
         state.view = 'detail';
-        homeView.classList.remove('active');
         detailView.classList.add('active');
-        window.scrollTo(0, 0);
+        detailView.scrollTo(0, 0); // Scroll detail view overlay back to its top
+        document.body.style.overflow = 'hidden'; // Lock background window scroll to prevent double scrolling
     } else {
         state.view = 'home';
-        homeView.classList.add('active');
         detailView.classList.remove('active');
+        document.body.style.overflow = ''; // Unlock background window scroll
         
-        // Restore scroll position after view elements are rendered
-        setTimeout(() => {
-            window.scrollTo(0, lastScrollY);
-        }, 30);
-        
+        // Dynamic Leaflet redraw trigger
         setTimeout(() => { if (state.map) state.map.invalidateSize(); }, 100);
     }
 }

@@ -1065,7 +1065,7 @@ body {
     color: white;
 }
 
-/* Detail View */
+/* Detail View - Cross-view SPA slide transition */
 .view {
     display: none;
     min-height: 100vh;
@@ -1073,6 +1073,33 @@ body {
 
 .view.active {
     display: block;
+}
+
+#detail-view {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100vh;
+    background: var(--bg-color);
+    z-index: 2000;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
+    transition: transform 0.38s cubic-bezier(0.32, 0.94, 0.6, 1),
+                opacity 0.38s cubic-bezier(0.32, 0.94, 0.6, 1),
+                visibility 0.38s cubic-bezier(0.32, 0.94, 0.6, 1);
+    transform: translate3d(100%, 0, 0);
+    opacity: 0;
+    visibility: hidden;
+    display: block !important; /* Force override display none to support transitions */
+}
+
+#detail-view.active {
+    transform: translate3d(0, 0, 0);
+    opacity: 1;
+    visibility: visible;
 }
 
 .detail-header {
