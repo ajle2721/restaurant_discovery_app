@@ -29,7 +29,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -60,7 +60,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -91,7 +91,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -122,7 +122,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -153,7 +153,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -184,7 +184,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -215,7 +215,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -249,7 +249,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -284,7 +284,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 4,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -306,18 +306,16 @@ const restaurantData = [
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown",
-      "has_play_area": "yes",
+      "has_play_area": "unknown",
       "has_private_room": "unknown",
       "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳設有遊戲區或提供玩具讓小孩放電。",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
-    "signals": [
-      "還會自己咬玩具來找玩"
-    ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -350,7 +348,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -384,7 +382,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -415,7 +413,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -448,7 +446,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -479,7 +477,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -512,7 +510,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -543,7 +541,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -574,7 +572,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -605,7 +603,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -636,7 +634,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -669,7 +667,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -700,7 +698,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -733,7 +731,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -767,7 +765,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -800,7 +798,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -831,7 +829,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -865,7 +863,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -896,7 +894,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -930,7 +928,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -963,7 +961,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -996,7 +994,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -1029,7 +1027,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -1060,7 +1058,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -1093,7 +1091,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -1111,22 +1109,25 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E7%8E%A9%E7%BE%A9%E5%85%92%20%E7%BE%A9%E5%BC%8F%E8%94%AC%E9%A3%9F%E6%96%99%E7%90%86&query_place_id=ChIJ15iOqwuvQjQRkN4jrjvfVY4",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%B3%A5%E7%8E%A9%E7%BE%A9%E5%85%92%20%E7%BE%A9%E5%BC%8F%E8%94%AC%E9%A3%9F%E6%96%99%E7%90%86&query_place_id=ChIJ15iOqwuvQjQRkN4jrjvfVY4",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes",
-      "has_play_area": "unknown",
+      "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
-      "Google 官方登記適合兒童用餐"
+      "Google 官方登記適合兒童用餐",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "parent_friendly_score": 6,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -1157,7 +1158,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -1188,7 +1189,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -1221,7 +1222,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -1252,7 +1253,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -1285,7 +1286,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -1318,7 +1319,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -1336,20 +1337,25 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E7%9A%BF%E7%9A%BF%E5%AE%B6%E6%96%99%E7%90%86&query_place_id=ChIJ1WJhMgCrQjQRTpOKfFXLTVk",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%9A%BF%E7%9A%BF%E5%AE%B6%E6%96%99%E7%90%86&query_place_id=ChIJ1WJhMgCrQjQRTpOKfFXLTVk",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown",
-      "has_play_area": "unknown",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "signals": [
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間",
+      "系統自動識別：親子主題餐廳環境適合孩童不怕吵"
+    ],
+    "parent_friendly_score": 6,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -1382,7 +1388,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -1413,7 +1419,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -1444,7 +1450,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -1475,7 +1481,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -1506,7 +1512,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -1537,7 +1543,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -1559,19 +1565,18 @@ const restaurantData = [
       "kids_menu": "unknown",
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown",
-      "has_play_area": "yes",
+      "has_play_area": "unknown",
       "has_private_room": "unknown",
       "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 設有遊戲區或提供玩具讓小孩放電。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
     "signals": [
-      "店面是無障礙設計寬敞明亮",
-      "玩具很便宜"
+      "店面是無障礙設計寬敞明亮"
     ],
-    "parent_friendly_score": 3,
-    "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -1604,7 +1609,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -1635,7 +1640,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -1666,7 +1671,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -1697,7 +1702,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -1730,7 +1735,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -1767,7 +1772,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 6,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -1798,7 +1803,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -1831,7 +1836,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -1864,7 +1869,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -1895,7 +1900,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -1926,7 +1931,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -1961,7 +1966,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -1994,7 +1999,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -2027,7 +2032,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -2058,7 +2063,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -2089,7 +2094,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -2124,7 +2129,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -2158,7 +2163,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -2189,7 +2194,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -2220,7 +2225,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -2253,7 +2258,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -2287,7 +2292,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -2318,7 +2323,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -2349,7 +2354,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -2380,7 +2385,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -2413,7 +2418,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -2444,7 +2449,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -2475,7 +2480,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -2506,7 +2511,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -2537,7 +2542,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -2568,7 +2573,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -2603,7 +2608,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -2634,7 +2639,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -2669,7 +2674,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -2700,7 +2705,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -2733,7 +2738,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -2764,7 +2769,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -2797,7 +2802,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -2828,7 +2833,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -2865,7 +2870,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 7,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -2898,7 +2903,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -2933,7 +2938,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -2964,7 +2969,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -2995,7 +3000,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -3028,7 +3033,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -3059,7 +3064,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -3090,7 +3095,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -3123,7 +3128,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -3156,7 +3161,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -3189,7 +3194,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -3220,7 +3225,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -3251,7 +3256,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -3285,7 +3290,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -3318,7 +3323,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -3353,7 +3358,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -3386,7 +3391,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -3417,7 +3422,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -3450,7 +3455,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -3483,7 +3488,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -3514,7 +3519,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -3532,22 +3537,26 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E5%B6%BC%E8%BC%95%E9%A3%9F%E9%A4%A8Flower%20Island%20Brunch-%E5%8F%B0%E5%8C%97%E5%A3%AB%E6%9E%97%E7%AB%99%E8%BC%95%E9%A3%9F%E6%97%A9%E5%8D%88%E9%A4%90&query_place_id=ChIJ45oJLh6vQjQRirxG0KgMRp8",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%8A%B1%E5%B6%BC%E8%BC%95%E9%A3%9F%E9%A4%A8Flower%20Island%20Brunch-%E5%8F%B0%E5%8C%97%E5%A3%AB%E6%9E%97%E7%AB%99%E8%BC%95%E9%A3%9F%E6%97%A9%E5%8D%88%E9%A4%90&query_place_id=ChIJ45oJLh6vQjQRirxG0KgMRp8",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown",
-      "has_play_area": "unknown",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
       "has_private_room": "yes",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 設有包廂或可提供包場聚會辦活動, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
-      "直接包場🤣太幸福了吧"
+      "直接包場🤣太幸福了吧",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間",
+      "系統自動識別：親子主題餐廳環境適合孩童不怕吵"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "parent_friendly_score": 7,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -3578,7 +3587,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -3609,7 +3618,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -3642,7 +3651,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -3675,7 +3684,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -3697,18 +3706,16 @@ const restaurantData = [
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown",
-      "has_play_area": "yes",
+      "has_play_area": "unknown",
       "has_private_room": "unknown",
       "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳設有遊戲區或提供玩具讓小孩放電。",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
-    "signals": [
-      "店內有繪本"
-    ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -3741,7 +3748,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -3774,7 +3781,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -3808,7 +3815,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -3839,7 +3846,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -3857,22 +3864,25 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E7%94%B0%E4%B8%AD%E5%9C%92%20%E5%85%A7%E6%B9%96%E5%BA%97&query_place_id=ChIJ4Z8YGY2sQjQRxOZSCQRmIWw",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%94%B0%E4%B8%AD%E5%9C%92%20%E5%85%A7%E6%B9%96%E5%BA%97&query_place_id=ChIJ4Z8YGY2sQjQRxOZSCQRmIWw",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "no",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes",
-      "has_play_area": "unknown",
+      "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
-      "Google 官方登記適合兒童用餐"
+      "Google 官方登記適合兒童用餐",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "parent_friendly_score": 6,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -3903,7 +3913,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -3938,7 +3948,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 5,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -3971,7 +3981,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -4005,7 +4015,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -4039,7 +4049,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -4072,7 +4082,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -4090,20 +4100,25 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=Tierra%20Casa%20Restaurant-%E5%8F%B0%E5%8C%97%E5%85%A7%E6%B9%96%E8%A5%BF%E9%A4%90%E5%BB%B3%20%E5%9C%A8%E5%9C%B0%E9%A3%9F%E6%9D%90%E5%89%B5%E6%84%8F%E6%96%99%E7%90%86%20%E5%83%B9%E6%A0%BC%E8%A8%82%E4%BD%8D%E6%8E%A8%E8%96%A6%20%E7%BE%A9%E5%BC%8F%E6%B3%95%E5%BC%8F%E6%96%99%E7%90%86%202026%E4%BA%BA%E6%B0%A3%E5%BF%85%E5%90%83%E7%BE%8E%E9%A3%9F%20%E7%B2%BE%E5%93%81%E8%8C%B6%E8%91%89%E5%92%96%E5%95%A1%20%E8%81%9A%E9%A4%90%E8%A6%AA%E5%AD%90%E9%A4%90%E5%BB%B3%20PTT%20Dcard&query_place_id=ChIJ5-09PB2tQjQRxn5hRz87wV4",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Tierra%20Casa%20Restaurant-%E5%8F%B0%E5%8C%97%E5%85%A7%E6%B9%96%E8%A5%BF%E9%A4%90%E5%BB%B3%20%E5%9C%A8%E5%9C%B0%E9%A3%9F%E6%9D%90%E5%89%B5%E6%84%8F%E6%96%99%E7%90%86%20%E5%83%B9%E6%A0%BC%E8%A8%82%E4%BD%8D%E6%8E%A8%E8%96%A6%20%E7%BE%A9%E5%BC%8F%E6%B3%95%E5%BC%8F%E6%96%99%E7%90%86%202026%E4%BA%BA%E6%B0%A3%E5%BF%85%E5%90%83%E7%BE%8E%E9%A3%9F%20%E7%B2%BE%E5%93%81%E8%8C%B6%E8%91%89%E5%92%96%E5%95%A1%20%E8%81%9A%E9%A4%90%E8%A6%AA%E5%AD%90%E9%A4%90%E5%BB%B3%20PTT%20Dcard&query_place_id=ChIJ5-09PB2tQjQRxn5hRz87wV4",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown",
-      "has_play_area": "unknown",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "signals": [
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間",
+      "系統自動識別：親子主題餐廳環境適合孩童不怕吵"
+    ],
+    "parent_friendly_score": 6,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -4136,7 +4151,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -4167,7 +4182,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -4200,7 +4215,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -4236,7 +4251,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 5,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -4267,7 +4282,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -4285,22 +4300,25 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E5%B3%AF%E4%BA%91%E5%A4%8F%E4%BB%A4%E7%87%9F%E5%86%AC%E4%BB%A4%E7%87%9F%E8%A6%AA%E5%AD%90%E7%87%9F&query_place_id=ChIJ59ChBXmvQjQRD_NviPN1OBk",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B3%AF%E4%BA%91%E5%A4%8F%E4%BB%A4%E7%87%9F%E5%86%AC%E4%BB%A4%E7%87%9F%E8%A6%AA%E5%AD%90%E7%87%9F&query_place_id=ChIJ59ChBXmvQjQRD_NviPN1OBk",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes",
-      "has_play_area": "unknown",
+      "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
-      "小朋友早上7點就在吵鬧"
+      "小朋友早上7點就在吵鬧",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "parent_friendly_score": 6,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -4331,7 +4349,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -4365,7 +4383,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -4396,7 +4414,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -4427,7 +4445,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -4458,7 +4476,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -4491,7 +4509,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -4515,16 +4533,17 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown",
       "has_play_area": "unknown",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
-      "環境整潔寬敞"
+      "環境整潔寬敞",
+      "就是一般早餐店水準(已自行將店家紙袋換成塑膠袋方便小朋友吃)"
     ],
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -4555,7 +4574,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -4586,7 +4605,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -4617,7 +4636,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -4650,7 +4669,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -4681,7 +4700,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -4714,7 +4733,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -4747,7 +4766,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -4780,7 +4799,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -4813,7 +4832,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -4846,7 +4865,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -4879,7 +4898,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -4912,7 +4931,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -4943,7 +4962,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -4974,7 +4993,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -5008,7 +5027,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -5039,7 +5058,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -5070,7 +5089,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -5101,7 +5120,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -5134,7 +5153,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -5165,7 +5184,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -5196,7 +5215,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -5229,7 +5248,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -5262,7 +5281,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -5293,7 +5312,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -5311,23 +5330,26 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=BACKMOUNT.%E5%BE%8C%E5%B1%B1%E5%92%96%E5%95%A1&query_place_id=ChIJ6ZLHHYmrQjQRKeVAlEcW3Jk",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=BACKMOUNT.%E5%BE%8C%E5%B1%B1%E5%92%96%E5%95%A1&query_place_id=ChIJ6ZLHHYmrQjQRKeVAlEcW3Jk",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes",
-      "has_play_area": "unknown",
+      "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
       "Google 官方登記提供兒童餐點",
-      "Google 官方登記適合兒童用餐"
+      "Google 官方登記適合兒童用餐",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "parent_friendly_score": 7,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -5358,7 +5380,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -5389,7 +5411,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -5420,7 +5442,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -5451,7 +5473,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -5482,7 +5504,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -5515,7 +5537,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -5546,7 +5568,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -5577,7 +5599,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -5608,7 +5630,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -5641,7 +5663,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -5674,7 +5696,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -5705,7 +5727,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -5738,7 +5760,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -5769,7 +5791,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -5800,7 +5822,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -5831,7 +5853,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -5862,7 +5884,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -5893,7 +5915,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -5924,7 +5946,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -5958,7 +5980,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -5989,7 +6011,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -6007,20 +6029,25 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E8%89%AF%E5%8F%8B%E5%B0%8F%E9%A4%A8&query_place_id=ChIJ7e_rfHmpQjQRoQFSKIVubuc",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%89%AF%E5%8F%8B%E5%B0%8F%E9%A4%A8&query_place_id=ChIJ7e_rfHmpQjQRoQFSKIVubuc",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown",
-      "has_play_area": "unknown",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "signals": [
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間",
+      "系統自動識別：親子主題餐廳環境適合孩童不怕吵"
+    ],
+    "parent_friendly_score": 6,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -6051,7 +6078,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -6084,7 +6111,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -6119,7 +6146,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -6152,7 +6179,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -6185,7 +6212,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -6216,7 +6243,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -6247,7 +6274,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -6280,7 +6307,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -6298,20 +6325,25 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E5%85%AD%E5%93%81%E5%B0%8F%E9%A4%A8%E5%85%A7%E6%B9%96%E5%BA%97&query_place_id=ChIJ82GvfICsQjQRey8st1BvYjM",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%AD%E5%93%81%E5%B0%8F%E9%A4%A8%E5%85%A7%E6%B9%96%E5%BA%97&query_place_id=ChIJ82GvfICsQjQRey8st1BvYjM",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown",
-      "has_play_area": "unknown",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "signals": [
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間",
+      "系統自動識別：親子主題餐廳環境適合孩童不怕吵"
+    ],
+    "parent_friendly_score": 6,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -6342,7 +6374,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -6375,7 +6407,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -6406,7 +6438,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -6439,7 +6471,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -6470,7 +6502,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -6501,7 +6533,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -6532,7 +6564,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -6563,7 +6595,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -6596,7 +6628,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -6629,7 +6661,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -6660,7 +6692,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -6693,7 +6725,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -6724,7 +6756,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -6757,7 +6789,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -6788,7 +6820,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -6821,7 +6853,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -6856,7 +6888,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -6891,7 +6923,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -6924,7 +6956,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -6955,7 +6987,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -6986,7 +7018,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -7020,7 +7052,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -7051,7 +7083,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -7082,7 +7114,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -7117,7 +7149,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -7148,7 +7180,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -7183,7 +7215,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -7214,7 +7246,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -7245,7 +7277,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -7276,7 +7308,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -7309,7 +7341,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -7340,7 +7372,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -7371,7 +7403,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -7402,7 +7434,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -7435,7 +7467,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -7457,17 +7489,19 @@ const restaurantData = [
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes",
-      "has_play_area": "unknown",
+      "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
       "使用者回報與人工校正：店家設有兒童高腳椅",
-      "Google 官方登記適合兒童用餐"
+      "Google 官方登記適合兒童用餐",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤"
     ],
-    "parent_friendly_score": 3,
+    "parent_friendly_score": 6,
     "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析（人工校正）",
     "reviews": []
@@ -7502,7 +7536,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -7535,7 +7569,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -7566,7 +7600,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -7599,7 +7633,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -7630,7 +7664,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -7663,7 +7697,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -7696,7 +7730,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -7727,7 +7761,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -7758,7 +7792,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -7789,7 +7823,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -7820,7 +7854,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -7854,7 +7888,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -7885,7 +7919,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -7916,7 +7950,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -7934,20 +7968,25 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E5%B0%B1%E6%98%AF%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5%E5%B1%8B%20ITS%20PASTA&query_place_id=ChIJAUXQ3cirQjQRWRFKdOpGOOk",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B0%B1%E6%98%AF%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5%E5%B1%8B%20ITS%20PASTA&query_place_id=ChIJAUXQ3cirQjQRWRFKdOpGOOk",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown",
-      "has_play_area": "unknown",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "signals": [
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間",
+      "系統自動識別：親子主題餐廳環境適合孩童不怕吵"
+    ],
+    "parent_friendly_score": 6,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -7980,7 +8019,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -8011,7 +8050,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -8042,7 +8081,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -8060,20 +8099,25 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=ivy%27s%20house%20life%20%E8%A6%AA%E5%AD%90%E7%A9%BA%E9%96%93&query_place_id=ChIJAfEv-O-rQjQR0a-J7OymCKQ",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=ivy%27s%20house%20life%20%E8%A6%AA%E5%AD%90%E7%A9%BA%E9%96%93&query_place_id=ChIJAfEv-O-rQjQR0a-J7OymCKQ",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown",
-      "has_play_area": "unknown",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "signals": [
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間",
+      "系統自動識別：親子主題餐廳環境適合孩童不怕吵"
+    ],
+    "parent_friendly_score": 6,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -8107,7 +8151,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -8138,7 +8182,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -8169,7 +8213,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -8200,7 +8244,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -8231,7 +8275,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -8264,7 +8308,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -8297,7 +8341,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -8328,7 +8372,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -8359,7 +8403,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -8390,7 +8434,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -8421,7 +8465,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -8452,7 +8496,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -8486,7 +8530,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -8517,7 +8561,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -8550,7 +8594,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -8581,7 +8625,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -8612,7 +8656,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -8643,7 +8687,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -8674,7 +8718,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -8707,7 +8751,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -8741,7 +8785,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -8759,25 +8803,27 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E5%AD%90%E6%9C%A8%E5%92%96%E5%95%A1&query_place_id=ChIJBy9WAHyrQjQRCDU8Cp-PLAc",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%AD%90%E6%9C%A8%E5%92%96%E5%95%A1&query_place_id=ChIJBy9WAHyrQjQRCDU8Cp-PLAc",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "yes",
       "spacious_seating": "no",
       "kid_noise_tolerant": "yes",
       "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 但空間較為擁擠, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
       "也不會感覺到擁擠",
       "Google 官方登記提供兒童餐點",
       "Google 官方登記適合兒童用餐",
-      "遊戲區讓孩子可以放電一下"
+      "感謝老闆願意提供親子空間",
+      "小孩一次喝二杯",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "parent_friendly_score": 5,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -8808,7 +8854,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -8841,7 +8887,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -8874,7 +8920,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -8905,7 +8951,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -8936,7 +8982,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -8967,7 +9013,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -9000,7 +9046,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -9035,7 +9081,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -9066,7 +9112,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -9100,7 +9146,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -9131,7 +9177,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -9162,7 +9208,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -9193,7 +9239,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -9226,7 +9272,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -9248,18 +9294,16 @@ const restaurantData = [
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown",
-      "has_play_area": "yes",
+      "has_play_area": "unknown",
       "has_private_room": "unknown",
       "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳設有遊戲區或提供玩具讓小孩放電。",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
-    "signals": [
-      "而且還是玩具總動員的元素～～～"
-    ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -9290,7 +9334,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -9324,7 +9368,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -9355,7 +9399,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -9388,7 +9432,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -9421,7 +9465,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -9452,7 +9496,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -9485,7 +9529,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -9503,22 +9547,26 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=Lazzy%20Cafe%20%E5%AF%B5%E7%89%A9%E9%A4%90%E5%BB%B3%20Pet%20Friendly%20Restaurant&query_place_id=ChIJCbpbfRurQjQRFSMfXnkWYcA",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Lazzy%20Cafe%20%E5%AF%B5%E7%89%A9%E9%A4%90%E5%BB%B3%20Pet%20Friendly%20Restaurant&query_place_id=ChIJCbpbfRurQjQRFSMfXnkWYcA",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown",
-      "has_play_area": "unknown",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
       "has_private_room": "yes",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 設有包廂或可提供包場聚會辦活動, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
-      "聽說還有包廂式"
+      "聽說還有包廂式",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間",
+      "系統自動識別：親子主題餐廳環境適合孩童不怕吵"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "parent_friendly_score": 7,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -9551,7 +9599,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -9582,7 +9630,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -9613,7 +9661,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -9646,7 +9694,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -9664,23 +9712,26 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E9%B4%BB%E5%B1%8B%E8%9B%8B%E5%8C%85%E9%A3%AF&query_place_id=ChIJCwY8XimvQjQRHq9RBs16-0Y",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%B4%BB%E5%B1%8B%E8%9B%8B%E5%8C%85%E9%A3%AF&query_place_id=ChIJCwY8XimvQjQRHq9RBs16-0Y",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes",
-      "has_play_area": "unknown",
+      "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
       "跟一份雞米花兒童餐",
-      "Google 官方登記適合兒童用餐"
+      "Google 官方登記適合兒童用餐",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "parent_friendly_score": 7,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -9714,7 +9765,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -9745,7 +9796,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -9776,7 +9827,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -9807,7 +9858,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -9840,7 +9891,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -9871,7 +9922,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -9904,7 +9955,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -9935,7 +9986,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -9966,7 +10017,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -9997,7 +10048,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -10028,7 +10079,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -10059,7 +10110,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -10092,7 +10143,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -10125,7 +10176,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -10158,7 +10209,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -10191,7 +10242,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -10222,7 +10273,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -10255,7 +10306,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -10288,7 +10339,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -10319,7 +10370,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -10350,7 +10401,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -10381,7 +10432,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -10412,7 +10463,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -10443,7 +10494,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -10476,7 +10527,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -10507,7 +10558,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -10529,18 +10580,16 @@ const restaurantData = [
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown",
-      "has_play_area": "yes",
+      "has_play_area": "unknown",
       "has_private_room": "unknown",
       "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳設有遊戲區或提供玩具讓小孩放電。",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
-    "signals": [
-      "用很多古玩具裝潢"
-    ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -10573,7 +10622,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -10604,7 +10653,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -10637,7 +10686,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -10671,7 +10720,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -10702,7 +10751,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -10720,20 +10769,25 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=Funny%E6%8B%BE%E5%85%89%20%E8%A6%AA%E5%AD%90%E6%84%9F%E5%AE%98%E4%BA%92%E5%8B%95%E7%A9%BA%E9%96%93%20%E5%92%96%E5%95%A1%E5%BB%B3&query_place_id=ChIJE6didaGtQjQR1fFRaq4lQdE",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Funny%E6%8B%BE%E5%85%89%20%E8%A6%AA%E5%AD%90%E6%84%9F%E5%AE%98%E4%BA%92%E5%8B%95%E7%A9%BA%E9%96%93%20%E5%92%96%E5%95%A1%E5%BB%B3&query_place_id=ChIJE6didaGtQjQR1fFRaq4lQdE",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown",
-      "has_play_area": "unknown",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "signals": [
+      "館內設施乾淨適合小朋友",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳環境適合孩童不怕吵"
+    ],
+    "parent_friendly_score": 6,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -10766,7 +10820,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -10797,7 +10851,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -10830,7 +10884,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -10865,7 +10919,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -10898,7 +10952,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -10929,7 +10983,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -10959,11 +11013,11 @@ const restaurantData = [
     "card_summary": "",
     "signals": [
       "✓除了小嬰兒的食品奶粉、衣物、奶瓶、吸嘴、玩具、推車、汽座、高腳椅等",
-      "搭配什麼玩具活動"
+      "✓除了小嬰兒的食品奶粉、衣物、奶瓶、吸嘴、玩具、推車、汽座、高腳椅等"
     ],
     "parent_friendly_score": 4,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -10998,7 +11052,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -11031,7 +11085,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -11062,7 +11116,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -11093,7 +11147,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -11124,7 +11178,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -11155,7 +11209,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -11173,20 +11227,25 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E4%BB%A3%E9%AD%9A%E7%BF%85%E7%BE%B9&query_place_id=ChIJF52lPTWpQjQROyhGZ90skmk",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E4%BB%A3%E9%AD%9A%E7%BF%85%E7%BE%B9&query_place_id=ChIJF52lPTWpQjQROyhGZ90skmk",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown",
-      "has_play_area": "unknown",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "signals": [
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間",
+      "系統自動識別：親子主題餐廳環境適合孩童不怕吵"
+    ],
+    "parent_friendly_score": 6,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -11219,7 +11278,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -11250,7 +11309,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -11284,7 +11343,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -11315,7 +11374,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -11346,7 +11405,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -11377,7 +11436,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -11408,7 +11467,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -11439,7 +11498,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -11470,7 +11529,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -11501,7 +11560,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -11532,7 +11591,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -11563,7 +11622,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -11594,7 +11653,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -11627,7 +11686,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -11660,7 +11719,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -11693,7 +11752,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -11726,7 +11785,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -11757,7 +11816,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -11791,7 +11850,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -11822,7 +11881,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -11853,7 +11912,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -11886,7 +11945,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -11917,7 +11976,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -11948,7 +12007,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -11979,7 +12038,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -12013,7 +12072,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -12044,7 +12103,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -12075,7 +12134,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -12109,7 +12168,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -12142,7 +12201,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -12176,7 +12235,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -12209,7 +12268,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -12242,7 +12301,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -12273,7 +12332,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -12307,7 +12366,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -12340,7 +12399,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -12371,7 +12430,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -12404,7 +12463,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -12435,7 +12494,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -12469,7 +12528,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -12500,7 +12559,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -12531,7 +12590,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -12554,15 +12613,17 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown",
       "has_play_area": "unknown",
-      "has_private_room": "unknown",
+      "has_private_room": "yes",
       "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "signals": [
+      "這次和朋友們共15 人到店裡聚餐把整間店包下來"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -12595,7 +12656,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -12626,7 +12687,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -12659,7 +12720,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -12693,7 +12754,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -12724,7 +12785,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -12755,7 +12816,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -12790,7 +12851,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -12821,7 +12882,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -12854,7 +12915,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -12885,7 +12946,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -12916,7 +12977,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -12949,7 +13010,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -12980,7 +13041,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -13011,7 +13072,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -13044,7 +13105,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -13075,7 +13136,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -13108,7 +13169,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -13139,7 +13200,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -13172,7 +13233,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -13203,7 +13264,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -13234,7 +13295,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -13265,7 +13326,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -13299,7 +13360,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -13330,7 +13391,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -13361,7 +13422,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -13392,7 +13453,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -13426,7 +13487,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -13444,22 +13505,26 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E7%9A%87%E5%9F%8E%E8%80%81%E5%AA%BD&query_place_id=ChIJIzxoocarQjQRONCdaF7cU6A",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%9A%87%E5%9F%8E%E8%80%81%E5%AA%BD&query_place_id=ChIJIzxoocarQjQRONCdaF7cU6A",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown",
-      "has_play_area": "unknown",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
       "has_private_room": "yes",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 設有包廂或可提供包場聚會辦活動, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
-      "剛好有人退訂包廂"
+      "剛好有人退訂包廂",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間",
+      "系統自動識別：親子主題餐廳環境適合孩童不怕吵"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "parent_friendly_score": 7,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -13490,7 +13555,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -13521,7 +13586,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -13552,7 +13617,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -13585,7 +13650,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -13619,7 +13684,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -13650,7 +13715,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -13683,7 +13748,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -13716,7 +13781,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -13750,7 +13815,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -13784,7 +13849,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -13818,7 +13883,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -13849,7 +13914,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -13882,7 +13947,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -13915,7 +13980,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -13946,7 +14011,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -13980,7 +14045,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -14011,7 +14076,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -14042,7 +14107,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -14073,7 +14138,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -14106,7 +14171,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -14139,7 +14204,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -14170,7 +14235,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -14201,7 +14266,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -14236,7 +14301,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -14267,7 +14332,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -14300,7 +14365,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -14333,7 +14398,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -14364,7 +14429,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -14395,7 +14460,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -14428,7 +14493,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -14459,7 +14524,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -14490,7 +14555,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -14524,7 +14589,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -14542,23 +14607,26 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E9%BA%A5%E7%95%B6%E5%8B%9E-%E5%8F%B0%E5%8C%97%E5%8B%95%E7%89%A9%E5%9C%92%E4%B8%89%E9%A4%90%E5%BB%B3&query_place_id=ChIJL-BJs3aqQjQRLgXRc-JrSIk",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%BA%A5%E7%95%B6%E5%8B%9E-%E5%8F%B0%E5%8C%97%E5%8B%95%E7%89%A9%E5%9C%92%E4%B8%89%E9%A4%90%E5%BB%B3&query_place_id=ChIJL-BJs3aqQjQRLgXRc-JrSIk",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes",
-      "has_play_area": "unknown",
+      "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
       "Google 官方登記提供兒童餐點",
-      "Google 官方登記適合兒童用餐"
+      "Google 官方登記適合兒童用餐",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "parent_friendly_score": 7,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -14593,7 +14661,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -14624,7 +14692,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -14655,7 +14723,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -14686,7 +14754,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -14717,7 +14785,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -14748,7 +14816,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -14779,7 +14847,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -14810,7 +14878,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -14843,7 +14911,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -14874,7 +14942,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -14905,7 +14973,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -14936,7 +15004,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -14969,7 +15037,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -15000,7 +15068,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -15034,7 +15102,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -15065,7 +15133,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -15098,7 +15166,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -15129,7 +15197,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -15160,7 +15228,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -15191,7 +15259,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -15224,7 +15292,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -15242,23 +15310,25 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=TankQ%20cafe%26Bar%E5%BF%A0%E5%AD%9D%E6%95%A6%E5%8C%96%E5%BA%97&query_place_id=ChIJM8BvRWGpQjQR8bRf97kUcyk",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=TankQ%20cafe%26Bar%E5%BF%A0%E5%AD%9D%E6%95%A6%E5%8C%96%E5%BA%97&query_place_id=ChIJM8BvRWGpQjQR8bRf97kUcyk",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes",
       "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
       "而不是盯著手機或吵鬧",
-      "有別於其他親子餐廳只提供遊戲區"
+      "有別於其他親子餐廳只提供遊戲區",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤"
     ],
-    "parent_friendly_score": 3,
+    "parent_friendly_score": 6,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -15291,7 +15361,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -15309,25 +15379,27 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E9%81%8A%E9%9C%82%E9%A3%9F%E5%85%89%20MuMu%20Land&query_place_id=ChIJM9l4kmOpQjQR9DEpCZWOlCM",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%81%8A%E9%9C%82%E9%A3%9F%E5%85%89%20MuMu%20Land&query_place_id=ChIJM9l4kmOpQjQR9DEpCZWOlCM",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "yes",
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes",
       "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
       "座位也很寬敞",
       "Google 官方登記提供兒童餐點",
       "Google 官方登記適合兒童用餐",
-      "店內還有兒童遊戲區"
+      "店內還有兒童遊戲區",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤"
     ],
-    "parent_friendly_score": 5,
+    "parent_friendly_score": 8,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -15358,7 +15430,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -15389,7 +15461,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -15423,7 +15495,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -15454,7 +15526,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -15485,7 +15557,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -15518,7 +15590,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -15552,7 +15624,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -15585,7 +15657,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -15618,7 +15690,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -15651,7 +15723,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -15682,7 +15754,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -15713,7 +15785,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -15744,7 +15816,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -15777,7 +15849,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -15808,7 +15880,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -15839,7 +15911,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -15872,7 +15944,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -15903,7 +15975,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -15934,7 +16006,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -15965,7 +16037,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -15996,7 +16068,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -16029,7 +16101,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -16060,7 +16132,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -16093,7 +16165,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -16124,7 +16196,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -16155,7 +16227,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -16188,7 +16260,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -16219,7 +16291,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -16250,7 +16322,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -16281,7 +16353,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -16312,7 +16384,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -16343,7 +16415,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -16374,7 +16446,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -16405,7 +16477,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -16436,7 +16508,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -16469,7 +16541,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -16500,7 +16572,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -16534,7 +16606,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -16565,7 +16637,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -16598,7 +16670,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -16629,7 +16701,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -16660,7 +16732,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -16693,7 +16765,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -16724,7 +16796,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -16758,7 +16830,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -16791,7 +16863,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -16824,7 +16896,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -16855,7 +16927,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -16886,7 +16958,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -16919,7 +16991,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -16950,7 +17022,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -16968,23 +17040,26 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=Attimo%E6%84%9B%E8%92%82%E8%8E%AB%E6%A8%82%E9%AB%98%E7%A9%8D%E6%9C%A8&query_place_id=ChIJNfxmOieoQjQRi4dEyvfZa0g",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Attimo%E6%84%9B%E8%92%82%E8%8E%AB%E6%A8%82%E9%AB%98%E7%A9%8D%E6%9C%A8&query_place_id=ChIJNfxmOieoQjQRi4dEyvfZa0g",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown",
+      "kid_noise_tolerant": "yes",
       "has_play_area": "yes",
       "has_private_room": "yes",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳設有遊戲區或提供玩具讓小孩放電, 設有包廂或可提供包場聚會辦活動。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 設有包廂或可提供包場聚會辦活動, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
-      "室內有滑梯、木馬、多類玩具⋯",
-      "咖啡餐飲區平日若有團體消費還可以加幾百元就能包場不受打擾很棒"
+      "咖啡餐飲區平日若有團體消費還可以加幾百元就能包場不受打擾很棒",
+      "優秀又親切的教練帶領小朋友玩競技疊杯",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間",
+      "系統自動識別：親子主題餐廳環境適合孩童不怕吵"
     ],
-    "parent_friendly_score": 3,
+    "parent_friendly_score": 7,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -17015,7 +17090,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -17048,7 +17123,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -17082,7 +17157,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -17115,7 +17190,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -17146,7 +17221,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -17177,7 +17252,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -17210,7 +17285,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -17241,7 +17316,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -17272,7 +17347,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -17306,7 +17381,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -17337,7 +17412,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -17368,7 +17443,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -17399,7 +17474,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -17432,7 +17507,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -17465,7 +17540,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -17496,7 +17571,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -17531,7 +17606,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 4,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -17562,7 +17637,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -17595,7 +17670,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -17629,7 +17704,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -17662,7 +17737,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -17693,7 +17768,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -17727,7 +17802,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -17760,7 +17835,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -17791,7 +17866,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -17822,7 +17897,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -17853,7 +17928,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -17887,7 +17962,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -17918,7 +17993,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -17949,7 +18024,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -17967,23 +18042,26 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E9%BA%A5%E7%95%B6%E5%8B%9E&query_place_id=ChIJPQVttPGuQjQRUCAZG1JpEh4",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%BA%A5%E7%95%B6%E5%8B%9E&query_place_id=ChIJPQVttPGuQjQRUCAZG1JpEh4",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes",
-      "has_play_area": "unknown",
+      "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
       "Google 官方登記提供兒童餐點",
-      "Google 官方登記適合兒童用餐"
+      "Google 官方登記適合兒童用餐",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "parent_friendly_score": 7,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -18017,7 +18095,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -18048,7 +18126,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -18082,7 +18160,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -18113,7 +18191,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -18144,7 +18222,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -18175,7 +18253,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -18209,7 +18287,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -18240,7 +18318,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -18273,7 +18351,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -18306,7 +18384,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -18337,7 +18415,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -18370,7 +18448,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -18401,7 +18479,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -18432,7 +18510,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -18465,7 +18543,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -18498,7 +18576,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -18529,7 +18607,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -18563,7 +18641,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -18594,7 +18672,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -18627,7 +18705,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -18660,7 +18738,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -18691,7 +18769,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -18724,7 +18802,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -18757,7 +18835,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -18788,7 +18866,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -18819,7 +18897,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -18850,7 +18928,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -18881,7 +18959,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -18914,7 +18992,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -18945,7 +19023,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -18976,7 +19054,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -19009,7 +19087,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -19040,7 +19118,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -19071,7 +19149,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -19102,7 +19180,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -19136,7 +19214,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -19169,7 +19247,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -19200,7 +19278,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -19231,7 +19309,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -19262,7 +19340,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -19293,7 +19371,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -19324,7 +19402,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -19355,7 +19433,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -19386,7 +19464,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -19417,7 +19495,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -19448,7 +19526,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -19481,7 +19559,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -19515,7 +19593,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -19546,7 +19624,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -19581,7 +19659,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -19614,7 +19692,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -19645,7 +19723,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -19676,7 +19754,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -19709,7 +19787,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -19740,7 +19818,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -19774,7 +19852,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -19807,7 +19885,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -19841,7 +19919,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -19872,7 +19950,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -19905,7 +19983,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -19939,7 +20017,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -19972,7 +20050,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -20005,7 +20083,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -20038,7 +20116,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -20071,7 +20149,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -20102,7 +20180,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -20135,7 +20213,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -20168,7 +20246,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -20201,7 +20279,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -20232,7 +20310,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -20263,7 +20341,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -20294,7 +20372,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -20325,7 +20403,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -20356,7 +20434,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -20387,7 +20465,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -20418,7 +20496,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -20449,7 +20527,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -20483,7 +20561,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -20517,7 +20595,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -20548,7 +20626,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -20581,7 +20659,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -20615,7 +20693,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -20646,7 +20724,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -20681,7 +20759,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -20715,7 +20793,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -20748,7 +20826,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -20781,7 +20859,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -20812,7 +20890,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -20843,7 +20921,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -20876,7 +20954,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -20909,7 +20987,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -20943,7 +21021,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -20976,7 +21054,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -21007,7 +21085,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -21040,7 +21118,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -21073,7 +21151,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -21106,7 +21184,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -21124,24 +21202,26 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=Mini%20Club&query_place_id=ChIJTxZvioStQjQRnhz-x1rJLx8",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Mini%20Club&query_place_id=ChIJTxZvioStQjQRnhz-x1rJLx8",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes",
       "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
       "Google 官方登記提供兒童餐點",
       "Google 官方登記適合兒童用餐",
-      "牆上有影像能夠看到小孩在球池玩"
+      "牆上有影像能夠看到小孩在球池玩",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤"
     ],
-    "parent_friendly_score": 4,
+    "parent_friendly_score": 7,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -21172,7 +21252,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -21205,7 +21285,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -21236,7 +21316,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -21254,24 +21334,27 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E6%A8%82%E9%9B%85%E6%A8%82%E9%A4%90%E5%BB%B3%20%E5%8D%97%E6%B8%AF%E5%BA%97&query_place_id=ChIJU0O98aesQjQRXsDcaOW-mzw",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%A8%82%E9%9B%85%E6%A8%82%E9%A4%90%E5%BB%B3%20%E5%8D%97%E6%B8%AF%E5%BA%97&query_place_id=ChIJU0O98aesQjQRXsDcaOW-mzw",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "yes",
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes",
-      "has_play_area": "unknown",
+      "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
       "餐廳空間寬敞明亮",
       "Google 官方登記提供兒童餐點",
-      "Google 官方登記適合兒童用餐"
+      "Google 官方登記適合兒童用餐",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間"
     ],
-    "parent_friendly_score": 3,
+    "parent_friendly_score": 8,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -21302,7 +21385,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -21333,7 +21416,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -21364,7 +21447,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -21395,7 +21478,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -21426,7 +21509,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -21457,7 +21540,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -21488,7 +21571,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -21519,7 +21602,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -21552,7 +21635,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -21583,7 +21666,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -21614,7 +21697,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -21645,7 +21728,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -21676,7 +21759,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -21709,7 +21792,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -21740,7 +21823,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -21774,7 +21857,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -21807,7 +21890,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -21841,7 +21924,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -21863,18 +21946,16 @@ const restaurantData = [
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown",
-      "has_play_area": "yes",
+      "has_play_area": "unknown",
       "has_private_room": "unknown",
       "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳設有遊戲區或提供玩具讓小孩放電。",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
-    "signals": [
-      "很像辦家家酒的一家店"
-    ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -21907,7 +21988,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -21938,7 +22019,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -21973,7 +22054,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -22004,7 +22085,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -22037,7 +22118,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -22055,24 +22136,27 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=Ho%27me%E5%BB%9A%E6%88%BF%26%E8%A6%AA%E5%AD%90%E5%8F%8B%E5%96%84%E9%A4%90%E5%BB%B3&query_place_id=ChIJVQR_uWusQjQRYNp5Wdmei40",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ho%27me%E5%BB%9A%E6%88%BF%26%E8%A6%AA%E5%AD%90%E5%8F%8B%E5%96%84%E9%A4%90%E5%BB%B3&query_place_id=ChIJVQR_uWusQjQRYNp5Wdmei40",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown",
+      "kid_noise_tolerant": "yes",
       "has_play_area": "yes",
       "has_private_room": "yes",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 設有遊戲區或提供玩具讓小孩放電, 設有包廂或可提供包場聚會辦活動。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 但空間較為擁擠, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 設有包廂或可提供包場聚會辦活動, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
       "也不會擁擠",
       "我女兒一到店裡就開心玩遊戲室",
-      "這次選擇這邊舉辦抓周派對🎉"
+      "這次選擇這邊舉辦抓周派對🎉",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳環境適合孩童不怕吵"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "parent_friendly_score": 5,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -22103,7 +22187,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -22134,7 +22218,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -22167,7 +22251,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -22198,7 +22282,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -22229,7 +22313,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -22260,7 +22344,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -22291,7 +22375,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -22322,7 +22406,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -22353,7 +22437,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -22384,7 +22468,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -22417,7 +22501,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -22448,7 +22532,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -22479,7 +22563,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -22510,7 +22594,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -22541,7 +22625,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -22559,20 +22643,25 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E7%89%8C%E5%85%B1%E8%9E%8D%E9%81%8A%E6%88%B2%E5%A0%B4&query_place_id=ChIJVX6SwfOuQjQR-HS_wRCrTeI",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%9F%B3%E7%89%8C%E5%85%B1%E8%9E%8D%E9%81%8A%E6%88%B2%E5%A0%B4&query_place_id=ChIJVX6SwfOuQjQR-HS_wRCrTeI",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown",
-      "has_play_area": "unknown",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "signals": [
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間",
+      "系統自動識別：親子主題餐廳環境適合孩童不怕吵"
+    ],
+    "parent_friendly_score": 6,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -22606,7 +22695,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -22640,7 +22729,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -22673,7 +22762,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -22706,7 +22795,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -22737,7 +22826,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -22768,7 +22857,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -22786,20 +22875,25 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E8%80%81%E9%A5%95%E7%89%9B%E6%8E%92%E5%BA%97&query_place_id=ChIJVxWmVQCpQjQRMs8RxOlVUts",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%80%81%E9%A5%95%E7%89%9B%E6%8E%92%E5%BA%97&query_place_id=ChIJVxWmVQCpQjQRMs8RxOlVUts",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown",
-      "has_play_area": "unknown",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "signals": [
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間",
+      "系統自動識別：親子主題餐廳環境適合孩童不怕吵"
+    ],
+    "parent_friendly_score": 6,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -22832,7 +22926,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -22866,7 +22960,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -22897,7 +22991,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -22928,7 +23022,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -22959,7 +23053,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -22990,7 +23084,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -23024,7 +23118,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -23055,7 +23149,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -23088,7 +23182,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -23119,7 +23213,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -23150,7 +23244,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -23183,7 +23277,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -23216,7 +23310,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -23247,7 +23341,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -23278,7 +23372,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -23311,7 +23405,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -23344,7 +23438,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -23377,7 +23471,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -23410,7 +23504,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -23443,7 +23537,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -23474,7 +23568,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -23505,7 +23599,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -23536,7 +23630,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -23569,7 +23663,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -23600,7 +23694,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -23631,7 +23725,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -23664,7 +23758,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -23697,7 +23791,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -23715,22 +23809,26 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E6%BC%A2%E9%99%BD%E9%9F%93%E5%BC%8F%E9%99%B6%E7%9B%A4%E7%83%A4%E8%82%89%20%ED%95%9C%EC%96%91%EB%B6%88%EA%B3%A0%EA%B8%B0%EC%A0%84%EB%AC%B8%EC%A0%90%20%E4%BE%86%E8%87%AA%E9%9F%93%E5%9C%8B30%E5%B9%B4%E7%9A%84%E5%AE%B6%E5%82%B3%E5%8F%A3%E5%91%B3&query_place_id=ChIJX5WUMgCrQjQRuIJBSfVDolc",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%BC%A2%E9%99%BD%E9%9F%93%E5%BC%8F%E9%99%B6%E7%9B%A4%E7%83%A4%E8%82%89%20%ED%95%9C%EC%96%91%EB%B6%88%EA%B3%A0%EA%B8%B0%EC%A0%84%EB%AC%B8%EC%A0%90%20%E4%BE%86%E8%87%AA%E9%9F%93%E5%9C%8B30%E5%B9%B4%E7%9A%84%E5%AE%B6%E5%82%B3%E5%8F%A3%E5%91%B3&query_place_id=ChIJX5WUMgCrQjQRuIJBSfVDolc",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown",
-      "has_play_area": "unknown",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
       "has_private_room": "yes",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 設有包廂或可提供包場聚會辦活動, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
-      "由於坐在包廂"
+      "由於坐在包廂",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間",
+      "系統自動識別：親子主題餐廳環境適合孩童不怕吵"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "parent_friendly_score": 7,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -23754,17 +23852,18 @@ const restaurantData = [
       "kid_noise_tolerant": "yes",
       "has_play_area": "unknown",
       "has_private_room": "yes",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善, 設有包廂或可提供包場聚會辦活動。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善, 設有包廂或可提供包場聚會辦活動, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
       "今天跟朋友約好帶小孩聚餐來吃韓式",
-      "最驚喜的是店內竟然還有包廂空間"
+      "最驚喜的是店內竟然還有包廂空間",
+      "小孩的矽膠湯匙請要定期更換"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -23797,7 +23896,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -23828,7 +23927,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -23861,7 +23960,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -23896,7 +23995,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 4,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -23925,11 +24024,11 @@ const restaurantData = [
     "ai_summary": "根據評論分析，這家餐廳設有遊戲區或提供玩具讓小孩放電。",
     "card_summary": "",
     "signals": [
-      "店內空間不大但算舒適～還有很多小玩具可以借來玩～（小時候會玩的那種）"
+      "還有提供玩具可以讓小朋友打發時間"
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -23947,22 +24046,26 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=ivy%27s%20house%20%E8%A6%AA%E5%AD%90%20cafe&query_place_id=ChIJXVywCxKrQjQRNB0_Jyx1y6o",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=ivy%27s%20house%20%E8%A6%AA%E5%AD%90%20cafe&query_place_id=ChIJXVywCxKrQjQRNB0_Jyx1y6o",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown",
-      "has_play_area": "unknown",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
       "has_private_room": "yes",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 設有包廂或可提供包場聚會辦活動, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
-      "備註：也歡迎大家包場慶生"
+      "備註：也歡迎大家包場慶生",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間",
+      "系統自動識別：親子主題餐廳環境適合孩童不怕吵"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "parent_friendly_score": 7,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -23993,7 +24096,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -24024,7 +24127,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -24055,7 +24158,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -24088,7 +24191,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -24119,7 +24222,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -24154,7 +24257,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -24185,7 +24288,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -24216,7 +24319,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -24247,7 +24350,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -24280,7 +24383,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -24313,7 +24416,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -24347,7 +24450,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -24381,7 +24484,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -24414,7 +24517,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -24445,7 +24548,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -24476,7 +24579,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -24509,7 +24612,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -24542,7 +24645,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -24573,7 +24676,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -24604,7 +24707,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -24635,7 +24738,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -24666,7 +24769,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -24697,7 +24800,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -24731,7 +24834,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -24749,22 +24852,25 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E8%90%AC%E8%8A%B3%E5%9B%9B%E8%99%9F%E5%85%AC%E5%9C%92%20%E5%85%92%E7%AB%A5%E6%94%80%E7%88%AC%E6%B2%99%E5%9D%91%E9%81%8A%E6%88%B2%E5%A0%B4&query_place_id=ChIJYZnP_WiqQjQRtshUu3ycWcQ",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%90%AC%E8%8A%B3%E5%9B%9B%E8%99%9F%E5%85%AC%E5%9C%92%20%E5%85%92%E7%AB%A5%E6%94%80%E7%88%AC%E6%B2%99%E5%9D%91%E9%81%8A%E6%88%B2%E5%A0%B4&query_place_id=ChIJYZnP_WiqQjQRtshUu3ycWcQ",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown",
+      "kid_noise_tolerant": "yes",
       "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳設有遊戲區或提供玩具讓小孩放電。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
-      "2017年改建為創意兒童攀爬+沙坑遊戲場"
+      "2017年改建為創意兒童攀爬+沙坑遊戲場",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳環境適合孩童不怕吵"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "parent_friendly_score": 6,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -24797,7 +24903,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -24828,7 +24934,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -24862,7 +24968,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -24895,7 +25001,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -24926,7 +25032,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -24959,7 +25065,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -24992,7 +25098,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -25023,7 +25129,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -25056,7 +25162,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -25087,7 +25193,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -25118,7 +25224,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -25149,7 +25255,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -25180,7 +25286,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -25211,7 +25317,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -25244,7 +25350,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -25262,23 +25368,26 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%89%E8%8E%89%E6%BC%A2%E5%A0%A1&query_place_id=ChIJZTNGjn2uQjQRtvfe01IHnzA",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%89%E8%8E%89%E6%BC%A2%E5%A0%A1&query_place_id=ChIJZTNGjn2uQjQRtvfe01IHnzA",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "no",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes",
-      "has_play_area": "unknown",
+      "has_play_area": "yes",
       "has_private_room": "yes",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善, 設有包廂或可提供包場聚會辦活動。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 設有包廂或可提供包場聚會辦活動, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
       "Google 官方登記適合兒童用餐",
-      "還可以包場超佛心～"
+      "美式漢堡🍔 + 奶昔🥤+ 免費遊戲機 = 小孩放電、大人放鬆的超棒組合💯",
+      "還可以包場超佛心～",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "parent_friendly_score": 7,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -25309,7 +25418,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -25340,7 +25449,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -25371,7 +25480,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -25402,7 +25511,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -25435,7 +25544,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -25469,7 +25578,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -25500,7 +25609,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -25534,7 +25643,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -25552,22 +25661,26 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E6%B5%81%E9%87%91%E6%AD%B2%E6%9C%88%E7%B4%85%E8%8C%B6%E9%A4%90%E5%9D%8A&query_place_id=ChIJZe-3S7qpQjQRomolCrIbqkM",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B5%81%E9%87%91%E6%AD%B2%E6%9C%88%E7%B4%85%E8%8C%B6%E9%A4%90%E5%9D%8A&query_place_id=ChIJZe-3S7qpQjQRomolCrIbqkM",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown",
-      "has_play_area": "unknown",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
       "has_private_room": "yes",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 設有包廂或可提供包場聚會辦活動, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
-      "可能是環境太舒適+非封閉包廂式隔間+欄杆的元素加成"
+      "可能是環境太舒適+非封閉包廂式隔間+欄杆的元素加成",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間",
+      "系統自動識別：親子主題餐廳環境適合孩童不怕吵"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "parent_friendly_score": 7,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -25598,7 +25711,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -25632,7 +25745,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -25665,7 +25778,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -25700,7 +25813,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -25734,7 +25847,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -25765,7 +25878,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -25796,7 +25909,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -25827,7 +25940,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -25860,7 +25973,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -25893,7 +26006,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -25924,7 +26037,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -25955,7 +26068,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -25986,7 +26099,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -26019,7 +26132,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -26052,7 +26165,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -26085,7 +26198,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -26118,7 +26231,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -26152,7 +26265,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -26185,7 +26298,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -26220,7 +26333,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -26253,7 +26366,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -26284,7 +26397,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -26315,7 +26428,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -26349,7 +26462,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -26383,7 +26496,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -26405,19 +26518,18 @@ const restaurantData = [
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no",
-      "has_play_area": "yes",
+      "has_play_area": "unknown",
       "has_private_room": "unknown",
       "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩, 設有遊戲區或提供玩具讓小孩放電。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
     "signals": [
-      "巷子裡的安靜配上店內溫暖的燈光",
-      "從各種可愛的公仔（瑪利歐、辛普森、玩具總動員）到充滿設計感的藝術海報"
+      "巷子裡的安靜配上店內溫暖的燈光"
     ],
-    "parent_friendly_score": 0,
+    "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -26448,7 +26560,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -26481,7 +26593,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -26515,7 +26627,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -26548,7 +26660,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -26579,7 +26691,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -26612,7 +26724,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -26643,7 +26755,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -26674,7 +26786,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -26705,7 +26817,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -26736,7 +26848,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -26767,7 +26879,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -26798,7 +26910,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -26831,7 +26943,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -26864,7 +26976,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -26895,7 +27007,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -26913,25 +27025,28 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E6%A8%B9%E5%85%88%E7%94%9F%E7%9A%84%E5%AE%B6&query_place_id=ChIJaSZ-CpupQjQRaqvVbaJ4FaM",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E6%A8%B9%E5%85%88%E7%94%9F%E7%9A%84%E5%AE%B6&query_place_id=ChIJaSZ-CpupQjQRaqvVbaJ4FaM",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "yes",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown",
+      "kid_noise_tolerant": "yes",
       "has_play_area": "yes",
       "has_private_room": "yes",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 設有遊戲區或提供玩具讓小孩放電, 設有包廂或可提供包場聚會辦活動。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 設有包廂或可提供包場聚會辦活動, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
       "桌位不多,位子很寬敞",
       "兒童餐的車車造型小朋友很喜歡（麵包、蛋、炸南瓜、主食）",
-      "沙坑、學步腳踏車都可以使用～",
-      "另外還有類似包廂的地方"
+      "如果說是因為一部分成本是小朋友的遊戲維護",
+      "另外還有類似包廂的地方",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳環境適合孩童不怕吵"
     ],
-    "parent_friendly_score": 5,
+    "parent_friendly_score": 9,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -26962,7 +27077,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -26993,7 +27108,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -27024,7 +27139,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -27058,7 +27173,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -27089,7 +27204,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -27122,7 +27237,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -27153,7 +27268,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -27186,7 +27301,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -27217,7 +27332,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -27250,7 +27365,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -27284,7 +27399,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -27315,7 +27430,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -27346,7 +27461,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -27379,7 +27494,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -27410,7 +27525,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -27441,7 +27556,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -27472,7 +27587,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -27503,7 +27618,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -27534,7 +27649,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -27565,7 +27680,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -27596,7 +27711,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -27627,7 +27742,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -27660,7 +27775,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -27693,7 +27808,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -27727,7 +27842,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -27761,7 +27876,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -27795,7 +27910,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -27828,7 +27943,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -27859,7 +27974,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -27890,7 +28005,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -27923,7 +28038,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -27954,7 +28069,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -27988,7 +28103,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -28021,7 +28136,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -28052,7 +28167,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -28085,7 +28200,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -28116,7 +28231,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -28147,7 +28262,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -28178,7 +28293,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -28212,7 +28327,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -28243,7 +28358,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -28274,7 +28389,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -28305,7 +28420,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -28338,7 +28453,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -28369,7 +28484,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -28402,7 +28517,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -28433,7 +28548,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -28464,7 +28579,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -28495,7 +28610,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -28526,7 +28641,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -28560,7 +28675,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -28591,7 +28706,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -28624,7 +28739,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -28658,7 +28773,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -28691,7 +28806,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -28709,25 +28824,27 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E6%AD%A1%E6%A8%82%E4%BE%BF%E6%89%80%E4%B8%BB%E9%A1%8C%E9%A4%90%E5%BB%B3&query_place_id=ChIJd9QKFaWuQjQRLPGO-ltaXj4",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%AD%A1%E6%A8%82%E4%BE%BF%E6%89%80%E4%B8%BB%E9%A1%8C%E9%A4%90%E5%BB%B3&query_place_id=ChIJd9QKFaWuQjQRLPGO-ltaXj4",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "yes",
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes",
       "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
       "3樓較寬敞",
       "Google 官方登記提供兒童餐點",
       "Google 官方登記適合兒童用餐",
-      "小孩在球池玩得不亦樂乎"
+      "小孩在球池玩得不亦樂乎",
+      "1.店內雖像親子餐廳卻沒有提供兒童餐具,小朋友只能給個咖啡用湯匙😔",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳"
     ],
-    "parent_friendly_score": 5,
+    "parent_friendly_score": 8,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -28760,7 +28877,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -28794,7 +28911,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -28827,7 +28944,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -28861,7 +28978,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -28894,7 +29011,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -28925,7 +29042,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -28956,7 +29073,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -28989,7 +29106,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -29022,7 +29139,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -29053,7 +29170,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -29084,7 +29201,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -29119,7 +29236,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 4,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -29150,7 +29267,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -29184,7 +29301,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -29202,24 +29319,27 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E6%A8%82%E9%9B%85%E6%A8%82%E9%A4%90%E5%BB%B3%20%E5%8C%97%E6%8A%95%E5%BA%97&query_place_id=ChIJe3eA6VauQjQRFuDwSEBoX9w",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%A8%82%E9%9B%85%E6%A8%82%E9%A4%90%E5%BB%B3%20%E5%8C%97%E6%8A%95%E5%BA%97&query_place_id=ChIJe3eA6VauQjQRFuDwSEBoX9w",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "yes",
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes",
-      "has_play_area": "unknown",
+      "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
       "由於餐廳提供兒童專屬菜單（兒童餐）且空間寬敞",
       "由於餐廳提供兒童專屬菜單（兒童餐）且空間寬敞",
-      "是許多家長帶小孩用餐的首選地點"
+      "是許多家長帶小孩用餐的首選地點",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間"
     ],
-    "parent_friendly_score": 3,
+    "parent_friendly_score": 8,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -29252,7 +29372,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -29283,7 +29403,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -29316,7 +29436,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -29347,7 +29467,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -29378,7 +29498,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -29409,7 +29529,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -29440,7 +29560,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -29471,7 +29591,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -29504,7 +29624,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -29535,7 +29655,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -29568,7 +29688,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -29599,7 +29719,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -29630,7 +29750,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -29661,7 +29781,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -29695,7 +29815,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -29726,7 +29846,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -29757,7 +29877,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -29788,7 +29908,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -29819,7 +29939,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -29850,7 +29970,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -29883,7 +30003,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -29917,7 +30037,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -29950,7 +30070,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -29981,7 +30101,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -30012,7 +30132,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -30043,7 +30163,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -30076,7 +30196,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -30109,7 +30229,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -30140,7 +30260,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -30171,7 +30291,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -30204,7 +30324,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -30235,7 +30355,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -30268,7 +30388,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -30301,7 +30421,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -30332,7 +30452,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -30365,7 +30485,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -30396,7 +30516,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -30430,7 +30550,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -30461,7 +30581,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -30492,7 +30612,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -30525,7 +30645,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -30559,7 +30679,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -30577,22 +30697,26 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E8%B1%A1%E5%9C%92%E5%92%96%E5%95%A1%E5%85%A7%E6%B9%96%E5%BA%97&query_place_id=ChIJfepvyousQjQRq2rFXvS-esU",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%B1%A1%E5%9C%92%E5%92%96%E5%95%A1%E5%85%A7%E6%B9%96%E5%BA%97&query_place_id=ChIJfepvyousQjQRq2rFXvS-esU",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown",
-      "has_play_area": "unknown",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
-      "除了有兒童餐"
+      "除了有兒童餐",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間",
+      "系統自動識別：親子主題餐廳環境適合孩童不怕吵"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "parent_friendly_score": 7,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -30625,7 +30749,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -30656,7 +30780,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -30691,7 +30815,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -30725,7 +30849,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -30756,7 +30880,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -30787,7 +30911,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -30818,7 +30942,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -30851,7 +30975,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -30884,7 +31008,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -30915,7 +31039,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -30933,20 +31057,25 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=313%E9%B5%9D%E8%82%89%E6%93%94&query_place_id=ChIJgUo_u46uQjQRTuXU4tZmReM",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=313%E9%B5%9D%E8%82%89%E6%93%94&query_place_id=ChIJgUo_u46uQjQRTuXU4tZmReM",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown",
-      "has_play_area": "unknown",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "signals": [
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間",
+      "系統自動識別：親子主題餐廳環境適合孩童不怕吵"
+    ],
+    "parent_friendly_score": 6,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -30977,7 +31106,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -31010,7 +31139,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -31041,7 +31170,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -31072,7 +31201,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -31103,7 +31232,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -31134,7 +31263,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -31165,7 +31294,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -31196,7 +31325,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -31227,7 +31356,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -31258,7 +31387,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -31289,7 +31418,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -31325,7 +31454,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 5,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -31356,7 +31485,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -31387,7 +31516,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -31418,7 +31547,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -31451,7 +31580,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -31482,7 +31611,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -31513,7 +31642,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -31535,19 +31664,20 @@ const restaurantData = [
       "kids_menu": "yes",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown",
-      "has_play_area": "unknown",
+      "has_play_area": "yes",
       "has_private_room": "unknown",
       "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 並有提供兒童餐點。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 並有提供兒童餐點, 設有遊戲區或提供玩具讓小孩放電。",
     "card_summary": "",
     "signals": [
       "寵物友善也有兒童餐椅",
-      "寵物友善也有兒童餐椅"
+      "寵物友善也有兒童餐椅",
+      "廁所內竟然有尿布台真貼心❤️"
     ],
-    "parent_friendly_score": 3,
+    "parent_friendly_score": 5,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -31578,7 +31708,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -31609,7 +31739,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -31640,7 +31770,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -31673,7 +31803,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -31704,7 +31834,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -31735,7 +31865,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -31766,7 +31896,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -31790,18 +31920,19 @@ const restaurantData = [
       "kid_noise_tolerant": "yes",
       "has_play_area": "unknown",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
       "有兒童座椅跟餐具",
       "餐廳空間寬敞",
-      "Google 官方登記適合兒童用餐"
+      "Google 官方登記適合兒童用餐",
+      "有兒童座椅跟餐具"
     ],
-    "parent_friendly_score": 4,
+    "parent_friendly_score": 5,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -31832,7 +31963,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -31863,7 +31994,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -31898,7 +32029,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 4,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -31932,7 +32063,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -31963,7 +32094,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -31997,7 +32128,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -32030,7 +32161,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -32063,7 +32194,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -32094,7 +32225,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -32125,7 +32256,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -32159,7 +32290,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -32190,7 +32321,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -32221,7 +32352,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -32252,7 +32383,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -32285,7 +32416,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -32318,7 +32449,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -32349,7 +32480,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -32380,7 +32511,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -32413,7 +32544,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -32444,7 +32575,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -32477,7 +32608,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -32508,7 +32639,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -32542,7 +32673,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -32573,7 +32704,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -32604,7 +32735,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -32637,7 +32768,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -32668,7 +32799,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -32701,7 +32832,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -32734,7 +32865,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -32765,7 +32896,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -32798,7 +32929,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -32829,7 +32960,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -32862,7 +32993,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -32893,7 +33024,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -32924,7 +33055,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -32955,7 +33086,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -32986,7 +33117,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -33019,7 +33150,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -33053,7 +33184,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -33087,7 +33218,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -33120,7 +33251,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -33153,7 +33284,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -33188,7 +33319,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 4,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -33219,7 +33350,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -33253,7 +33384,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -33286,7 +33417,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -33317,7 +33448,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -33348,7 +33479,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -33382,7 +33513,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -33413,7 +33544,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -33444,7 +33575,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -33475,7 +33606,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -33497,16 +33628,18 @@ const restaurantData = [
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown",
-      "has_play_area": "unknown",
+      "has_play_area": "yes",
       "has_private_room": "unknown",
       "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有遊戲區或提供玩具讓小孩放電。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "signals": [
+      "原本爸爸擔心小小孩轉不動,結果多擔心,真的很好轉,也很穩固,洞洞板很實用,小孩常用的小物收納也有家了 ●就像一座小小圖書館,孩子很享受坐在旁邊挑書看書"
+    ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -33537,7 +33670,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -33571,7 +33704,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -33602,7 +33735,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -33633,7 +33766,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -33664,7 +33797,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -33697,7 +33830,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -33730,7 +33863,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -33761,7 +33894,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -33792,7 +33925,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -33825,7 +33958,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -33858,7 +33991,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -33889,7 +34022,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -33924,7 +34057,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 4,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -33958,7 +34091,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -33989,7 +34122,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -34020,7 +34153,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -34050,11 +34183,11 @@ const restaurantData = [
     "card_summary": "",
     "signals": [
       "Google 官方登記適合兒童用餐",
-      "結果她主動跟我說可以幫我洗兒童餐具"
+      "後來因為小孩的餐具有油漬"
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -34087,7 +34220,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -34120,7 +34253,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -34144,16 +34277,17 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown",
       "has_play_area": "unknown",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
-      "店裡稍微有些陰暗擁擠"
+      "店裡稍微有些陰暗擁擠",
+      "其他品項還有點過蝦蘆手卷、炒烏龍麵、茶碗蒸、親子丼跟章魚沙拉"
     ],
-    "parent_friendly_score": -2,
+    "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -34187,7 +34321,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -34218,7 +34352,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -34249,7 +34383,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -34280,7 +34414,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -34311,7 +34445,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -34342,7 +34476,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -34373,7 +34507,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -34406,7 +34540,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -34437,7 +34571,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -34455,22 +34589,25 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%A0%96%E9%A3%9F%E5%B1%85%E4%B8%8B%E9%85%92%E8%8F%9C-%E5%8F%B0%E5%8C%97%E5%B9%B3%E5%83%B9%E7%A2%B3%E7%83%A4&query_place_id=ChIJmVYrFACvQjQRIyBie8cp9Ek",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%97%A5%E6%A0%96%E9%A3%9F%E5%B1%85%E4%B8%8B%E9%85%92%E8%8F%9C-%E5%8F%B0%E5%8C%97%E5%B9%B3%E5%83%B9%E7%A2%B3%E7%83%A4&query_place_id=ChIJmVYrFACvQjQRIyBie8cp9Ek",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "no",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes",
-      "has_play_area": "unknown",
+      "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
-      "Google 官方登記適合兒童用餐"
+      "Google 官方登記適合兒童用餐",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "parent_friendly_score": 6,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -34501,7 +34638,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -34534,7 +34671,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -34565,7 +34702,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -34596,7 +34733,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -34629,7 +34766,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -34660,7 +34797,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -34691,7 +34828,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -34724,7 +34861,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -34757,7 +34894,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -34790,7 +34927,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -34821,7 +34958,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -34852,7 +34989,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -34883,7 +35020,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -34914,7 +35051,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -34945,7 +35082,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -34978,7 +35115,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -35011,7 +35148,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -35044,7 +35181,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -35077,7 +35214,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -35110,7 +35247,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -35134,14 +35271,16 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown",
       "has_play_area": "unknown",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "signals": [
+      "沒記錯是點了鮭魚親子丼飯 鮭魚很厚 鮭魚卵也很好吃 整個就是很讚 點丼飯都會附贈一碗味增湯 味增湯也不是普通的 裡面的料很多 有兩個蝦子 蛤蜊三顆 還有魚片兩個 很鮮甜 超級愛 前前後後也吃了十次以上 丼飯最常點的就是鮭魚親子丼&豪華海鮮丼 每次吃都沒有失望 一樣那麼好吃 料也是很多 整個就是很「浮誇」"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -35174,7 +35313,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -35205,7 +35344,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -35238,7 +35377,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -35271,7 +35410,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -35304,7 +35443,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -35326,18 +35465,16 @@ const restaurantData = [
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown",
-      "has_play_area": "yes",
+      "has_play_area": "unknown",
       "has_private_room": "unknown",
       "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳設有遊戲區或提供玩具讓小孩放電。",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
-    "signals": [
-      "購買促銷的小車玩具景品的好地方"
-    ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -35368,7 +35505,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -35399,7 +35536,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -35433,7 +35570,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -35464,7 +35601,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -35495,7 +35632,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -35526,7 +35663,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -35559,7 +35696,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -35590,7 +35727,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -35623,7 +35760,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -35654,7 +35791,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -35687,7 +35824,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -35718,7 +35855,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -35749,7 +35886,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -35780,7 +35917,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -35798,22 +35935,25 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%9C%E5%BF%83%E8%8B%91&query_place_id=ChIJo1AkxEerQjQRqZifoDTKgEw",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%9D%9C%E5%BF%83%E8%8B%91&query_place_id=ChIJo1AkxEerQjQRqZifoDTKgEw",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no",
-      "has_play_area": "unknown",
+      "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 但環境較安靜，可能不太適合好動吵鬧的小孩, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
-      "跟姐妹一起來靜心苑 養心 吃溫補超讚❤️日式感好舒服 安靜 慢活 😌"
+      "跟姐妹一起來靜心苑 養心 吃溫補超讚❤️日式感好舒服 安靜 慢活 😌",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間"
     ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -35844,7 +35984,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -35862,25 +36002,27 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E8%BE%B2%E4%BA%BA%E9%A4%90%E6%A1%8C&query_place_id=ChIJo5uKl5ipQjQRUDGwOBCHUWs",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%BE%B2%E4%BA%BA%E9%A4%90%E6%A1%8C&query_place_id=ChIJo5uKl5ipQjQRUDGwOBCHUWs",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "yes",
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes",
       "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
       "空間很寬敞",
       "⚠️兒童餐：本來想點兔子咖喱飯",
       "所以周圍很吵鬧",
-      "有廚房玩具遊樂桌三張"
+      "有很不錯的小孩遊樂設施",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤"
     ],
-    "parent_friendly_score": 5,
+    "parent_friendly_score": 8,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -35911,7 +36053,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -35944,7 +36086,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -35977,7 +36119,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -36008,7 +36150,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -36039,7 +36181,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -36073,7 +36215,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -36104,7 +36246,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -36137,7 +36279,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -36168,7 +36310,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -36199,7 +36341,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -36230,7 +36372,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -36261,7 +36403,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -36294,7 +36436,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -36325,7 +36467,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -36343,25 +36485,27 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E5%AA%BD%E5%A6%B3%E8%AC%9B%E8%A6%AA%E5%AD%90%E9%A4%90%E5%BB%B3%20%28MONEY%20JUMP%29&query_place_id=ChIJoZlomYarQjQRQ6dO-drU7eg",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%AA%BD%E5%A6%B3%E8%AC%9B%E8%A6%AA%E5%AD%90%E9%A4%90%E5%BB%B3%20%28MONEY%20JUMP%29&query_place_id=ChIJoZlomYarQjQRQ6dO-drU7eg",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes",
       "has_play_area": "yes",
       "has_private_room": "yes",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 設有包廂或可提供包場聚會辦活動。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 設有包廂或可提供包場聚會辦活動, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
       "除了兒童餐",
       "親子友善空間 小朋友都很愛 已購買 ^3",
-      "還有很多兒童遊戲室",
-      "還有人在這裡辦抓周"
+      "可以讓小朋友好好放電😆",
+      "還有人在這裡辦抓周",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤"
     ],
-    "parent_friendly_score": 5,
+    "parent_friendly_score": 8,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -36392,7 +36536,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -36410,25 +36554,27 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E6%B7%98%E6%86%A9%E6%99%82%E5%85%89%E8%A6%AA%E5%AD%90%E9%A4%90%E5%BB%B3%E3%83%BB%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5%E3%83%BB%E6%89%8B%E4%BD%9C%E7%87%89%E9%A3%AF%E3%83%BB%E7%8F%BE%E7%83%A4%E9%AC%86%E9%A4%85&query_place_id=ChIJoaP21WOpQjQRujwXUxC4FME",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B7%98%E6%86%A9%E6%99%82%E5%85%89%E8%A6%AA%E5%AD%90%E9%A4%90%E5%BB%B3%E3%83%BB%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5%E3%83%BB%E6%89%8B%E4%BD%9C%E7%87%89%E9%A3%AF%E3%83%BB%E7%8F%BE%E7%83%A4%E9%AC%86%E9%A4%85&query_place_id=ChIJoaP21WOpQjQRujwXUxC4FME",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes",
       "has_play_area": "yes",
       "has_private_room": "yes",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 設有包廂或可提供包場聚會辦活動。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 設有包廂或可提供包場聚會辦活動, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
       "Google 官方登記提供兒童餐點",
       "Google 官方登記適合兒童用餐",
       "有球池、車車、廚房組",
-      "抓周宴"
+      "抓周宴",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤"
     ],
-    "parent_friendly_score": 5,
+    "parent_friendly_score": 8,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -36461,7 +36607,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -36492,7 +36638,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -36525,7 +36671,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -36556,7 +36702,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -36587,7 +36733,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -36618,7 +36764,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -36636,20 +36782,25 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E9%AE%AE%E5%BB%9A%E6%88%BF&query_place_id=ChIJp3mUMN6tQjQR35PJqtDtbg4",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%AE%AE%E5%BB%9A%E6%88%BF&query_place_id=ChIJp3mUMN6tQjQR35PJqtDtbg4",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown",
-      "has_play_area": "unknown",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "signals": [
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間",
+      "系統自動識別：親子主題餐廳環境適合孩童不怕吵"
+    ],
+    "parent_friendly_score": 6,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -36680,7 +36831,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -36711,7 +36862,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -36744,7 +36895,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -36777,7 +36928,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -36810,7 +36961,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -36841,7 +36992,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -36874,7 +37025,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -36905,7 +37056,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -36936,7 +37087,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -36967,7 +37118,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -36998,7 +37149,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -37029,7 +37180,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -37060,7 +37211,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -37091,7 +37242,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -37125,7 +37276,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -37159,7 +37310,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -37190,7 +37341,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -37221,7 +37372,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -37254,7 +37405,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -37285,7 +37436,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -37316,7 +37467,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -37347,7 +37498,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -37365,20 +37516,25 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E6%B5%B7%E5%92%8C%E5%AE%9C%E9%A3%9F%E5%9D%8A&query_place_id=ChIJq6lxyBCpQjQRi9hvghO2pwk",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B5%B7%E5%92%8C%E5%AE%9C%E9%A3%9F%E5%9D%8A&query_place_id=ChIJq6lxyBCpQjQRi9hvghO2pwk",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown",
-      "has_play_area": "unknown",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "signals": [
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間",
+      "系統自動識別：親子主題餐廳環境適合孩童不怕吵"
+    ],
+    "parent_friendly_score": 6,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -37409,7 +37565,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -37440,7 +37596,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -37471,7 +37627,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -37502,7 +37658,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -37533,7 +37689,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -37567,7 +37723,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -37585,23 +37741,26 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E5%B1%B1%E8%A6%AA%E5%AD%90%E9%A4%A8&query_place_id=ChIJqY40N0-pQjQRPKnz9iXctP0",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%AD%E5%B1%B1%E8%A6%AA%E5%AD%90%E9%A4%A8&query_place_id=ChIJqY40N0-pQjQRPKnz9iXctP0",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown",
+      "kid_noise_tolerant": "yes",
       "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 設有遊戲區或提供玩具讓小孩放電。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
       "空間大👉一個平面大空間",
-      "分：大肢體活動區＞教玩具操作區＞躺躺寶寶區"
+      "室內有哺乳室、飲水機、尿布檯",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳環境適合孩童不怕吵"
     ],
-    "parent_friendly_score": 3,
+    "parent_friendly_score": 7,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -37632,7 +37791,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -37663,7 +37822,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -37694,7 +37853,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -37727,7 +37886,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -37760,7 +37919,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -37794,7 +37953,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -37825,7 +37984,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -37856,7 +38015,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -37889,7 +38048,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -37920,7 +38079,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -37953,7 +38112,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -37986,7 +38145,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -38017,7 +38176,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -38050,7 +38209,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -38068,20 +38227,25 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E9%8A%98%E5%82%B3%E8%B6%8A%E5%8D%97%E7%BE%8E%E9%A3%9F&query_place_id=ChIJr3PdVCupQjQR7m9_pCmXPpM",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%8A%98%E5%82%B3%E8%B6%8A%E5%8D%97%E7%BE%8E%E9%A3%9F&query_place_id=ChIJr3PdVCupQjQR7m9_pCmXPpM",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown",
-      "has_play_area": "unknown",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "signals": [
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間",
+      "系統自動識別：親子主題餐廳環境適合孩童不怕吵"
+    ],
+    "parent_friendly_score": 6,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -38114,7 +38278,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -38145,7 +38309,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -38178,7 +38342,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -38212,7 +38376,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -38243,7 +38407,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -38276,7 +38440,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -38307,7 +38471,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -38340,7 +38504,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -38371,7 +38535,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -38404,7 +38568,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -38435,7 +38599,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -38466,7 +38630,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -38500,7 +38664,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -38531,7 +38695,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -38562,7 +38726,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -38595,7 +38759,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -38626,7 +38790,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -38659,7 +38823,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -38692,7 +38856,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -38725,7 +38889,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -38756,7 +38920,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -38789,7 +38953,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -38820,7 +38984,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -38853,7 +39017,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -38884,7 +39048,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -38902,24 +39066,26 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E7%94%B2%E8%9F%B2%E7%A7%98%E5%A2%83&query_place_id=ChIJsS8FHNyvQjQRwtaRVpPMyAI",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%94%B2%E8%9F%B2%E7%A7%98%E5%A2%83&query_place_id=ChIJsS8FHNyvQjQRwtaRVpPMyAI",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes",
       "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
       "兒童餐覺得實在是太迷你價錢偏高",
       "會稍微「熱鬧」",
-      "小朋友遊戲區可以看書"
+      "親子友善有尿布台",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤"
     ],
-    "parent_friendly_score": 4,
+    "parent_friendly_score": 7,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -38952,7 +39118,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -38985,7 +39151,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -39016,7 +39182,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -39047,7 +39213,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -39078,7 +39244,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -39112,7 +39278,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -39146,7 +39312,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -39179,7 +39345,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -39212,7 +39378,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -39246,7 +39412,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -39277,7 +39443,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -39310,7 +39476,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -39341,7 +39507,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -39374,7 +39540,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -39407,7 +39573,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -39440,7 +39606,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -39473,7 +39639,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -39504,7 +39670,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -39535,7 +39701,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -39568,7 +39734,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -39599,7 +39765,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -39630,7 +39796,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -39664,7 +39830,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -39697,7 +39863,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -39730,7 +39896,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -39761,7 +39927,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -39795,7 +39961,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -39828,7 +39994,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -39861,7 +40027,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -39894,7 +40060,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -39929,7 +40095,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -39960,7 +40126,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -39991,7 +40157,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -40024,7 +40190,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -40055,7 +40221,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -40086,7 +40252,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -40117,7 +40283,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -40148,7 +40314,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -40182,7 +40348,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -40215,7 +40381,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -40248,7 +40414,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -40281,7 +40447,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -40312,7 +40478,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -40345,7 +40511,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -40378,7 +40544,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -40409,7 +40575,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -40442,7 +40608,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -40475,7 +40641,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -40508,7 +40674,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -40539,7 +40705,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -40572,7 +40738,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -40605,7 +40771,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -40636,7 +40802,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -40669,7 +40835,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -40702,7 +40868,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -40736,7 +40902,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -40769,7 +40935,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -40800,7 +40966,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -40833,7 +40999,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -40864,7 +41030,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -40898,7 +41064,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -40931,7 +41097,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -40962,7 +41128,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -40996,7 +41162,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -41029,7 +41195,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -41060,7 +41226,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -41091,7 +41257,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -41124,7 +41290,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -41155,7 +41321,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -41186,7 +41352,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -41219,7 +41385,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -41252,7 +41418,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -41285,7 +41451,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -41316,7 +41482,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -41347,7 +41513,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -41378,7 +41544,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -41411,7 +41577,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -41445,7 +41611,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -41476,7 +41642,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -41507,7 +41673,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -41540,7 +41706,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -41571,7 +41737,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -41604,7 +41770,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -41637,7 +41803,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -41670,7 +41836,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -41701,7 +41867,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -41719,23 +41885,26 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E6%A8%82%E9%9B%85%E6%A8%82%E9%A4%90%E5%BB%B3%20%E6%95%A6%E5%8C%96%E5%BA%97&query_place_id=ChIJvWWkxO6rQjQRHf_zc9VTcAE",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%A8%82%E9%9B%85%E6%A8%82%E9%A4%90%E5%BB%B3%20%E6%95%A6%E5%8C%96%E5%BA%97&query_place_id=ChIJvWWkxO6rQjQRHf_zc9VTcAE",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes",
-      "has_play_area": "unknown",
+      "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
       "Google 官方登記提供兒童餐點",
-      "Google 官方登記適合兒童用餐"
+      "Google 官方登記適合兒童用餐",
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "parent_friendly_score": 7,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -41766,7 +41935,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -41797,7 +41966,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -41828,7 +41997,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -41859,7 +42028,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -41893,7 +42062,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -41924,7 +42093,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -41955,7 +42124,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -41986,7 +42155,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -42017,7 +42186,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -42035,20 +42204,25 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=BabyCar%E8%A6%AA%E5%AD%90%E8%B3%BC%E7%89%A9%E7%B6%B2-%E5%8F%B0%E5%8C%97%E5%BA%97&query_place_id=ChIJvwmzezOqQjQRq9mDJkp-EDo",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=BabyCar%E8%A6%AA%E5%AD%90%E8%B3%BC%E7%89%A9%E7%B6%B2-%E5%8F%B0%E5%8C%97%E5%BA%97&query_place_id=ChIJvwmzezOqQjQRq9mDJkp-EDo",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown",
-      "has_play_area": "unknown",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "signals": [
+      "系統自動識別：官方登記或評論提及為親子主題餐廳",
+      "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+      "系統自動識別：親子主題餐廳提供遊戲/玩具空間",
+      "系統自動識別：親子主題餐廳環境適合孩童不怕吵"
+    ],
+    "parent_friendly_score": 6,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -42079,7 +42253,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -42110,7 +42284,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -42143,7 +42317,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -42174,7 +42348,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -42208,7 +42382,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -42241,7 +42415,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -42272,7 +42446,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -42306,7 +42480,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -42337,7 +42511,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -42361,17 +42535,18 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown",
       "has_play_area": "unknown",
       "has_private_room": "yes",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 設有包廂或可提供包場聚會辦活動。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 設有包廂或可提供包場聚會辦活動, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
       "八位大人一位小孩（友善提供兒童座椅及餐具）",
-      "包廂有低消"
+      "包廂有低消",
+      "八位大人一位小孩（友善提供兒童座椅及餐具）"
     ],
-    "parent_friendly_score": 3,
+    "parent_friendly_score": 4,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -42402,7 +42577,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -42436,7 +42611,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -42469,7 +42644,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -42500,7 +42675,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -42531,7 +42706,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -42562,7 +42737,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -42595,7 +42770,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -42626,7 +42801,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -42659,7 +42834,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -42693,7 +42868,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -42726,7 +42901,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -42757,7 +42932,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -42790,7 +42965,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -42823,7 +42998,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -42847,16 +43022,17 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown",
       "has_play_area": "unknown",
       "has_private_room": "unknown",
-      "has_tableware": "unknown"
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點。",
+    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
+      "還貼心提供兒童餐與小朋友餐具",
       "還貼心提供兒童餐與小朋友餐具"
     ],
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -42889,7 +43065,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -42920,7 +43096,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -42951,7 +43127,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -42984,7 +43160,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -43018,7 +43194,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -43051,7 +43227,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -43082,7 +43258,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -43113,7 +43289,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -43146,7 +43322,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -43177,7 +43353,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -43208,7 +43384,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -43241,7 +43417,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -43274,7 +43450,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -43305,7 +43481,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -43336,7 +43512,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -43369,7 +43545,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -43403,7 +43579,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -43436,7 +43612,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -43469,7 +43645,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -43500,7 +43676,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -43533,7 +43709,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -43564,7 +43740,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -43597,7 +43773,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -43628,7 +43804,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -43661,7 +43837,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -43694,7 +43870,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -43727,7 +43903,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -43758,7 +43934,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -43792,7 +43968,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -43823,7 +43999,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -43854,7 +44030,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -43887,7 +44063,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -43920,7 +44096,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -43953,7 +44129,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -43988,7 +44164,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -44023,7 +44199,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -44056,7 +44232,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -44087,7 +44263,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -44118,7 +44294,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -44152,7 +44328,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -44183,7 +44359,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -44216,7 +44392,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -44249,7 +44425,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -44280,7 +44456,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -44313,7 +44489,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -44344,7 +44520,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -44375,7 +44551,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -44406,7 +44582,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -44439,7 +44615,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -44470,7 +44646,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -44501,7 +44677,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -44532,7 +44708,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -44563,7 +44739,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -44594,7 +44770,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -44627,7 +44803,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -44658,7 +44834,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -44691,7 +44867,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -44725,7 +44901,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   },
   {
@@ -44756,7 +44932,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析",
     "reviews": []
   }
 ];
