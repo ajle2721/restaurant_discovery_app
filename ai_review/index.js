@@ -17,7 +17,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -47,7 +50,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -75,7 +81,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -103,7 +112,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -131,7 +143,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -159,7 +174,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -187,7 +205,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -215,7 +236,10 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -246,15 +270,19 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
       "幫我們準備嬰兒座椅及兒童碗盤",
-      "整體氣氛很熱鬧"
+      "整體氣氛很熱鬧",
+      "幫我們準備嬰兒座椅及兒童碗盤"
     ],
-    "parent_friendly_score": 3,
+    "parent_friendly_score": 4,
     "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -277,13 +305,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "yes",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有遊戲區或提供玩具讓小孩放電。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "還會自己咬玩具來找玩"
+    ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -305,7 +338,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -335,7 +371,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -366,7 +405,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -394,7 +436,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -424,7 +469,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -452,7 +500,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -482,7 +533,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -510,7 +564,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -538,7 +595,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -566,7 +626,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -594,7 +657,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -624,7 +690,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -652,7 +721,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -682,14 +754,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
-      "環境空間寬敞舒適"
+      "環境空間寬敞舒適",
+      "靠路邊的位子光線明亮有包廂感"
     ],
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -712,7 +788,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -742,7 +821,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -770,14 +852,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
-      "要超過四點才能安靜睡覺"
+      "要超過四點才能安靜睡覺",
+      "得到的回覆是\"我們要辦活動\""
     ],
-    "parent_friendly_score": -2,
+    "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -800,7 +886,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -828,7 +917,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -859,7 +951,10 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅。",
     "card_summary": "",
@@ -889,7 +984,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -919,7 +1017,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -949,7 +1050,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -977,7 +1081,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -1007,7 +1114,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -1037,7 +1147,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -1065,7 +1178,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -1093,7 +1209,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -1123,7 +1242,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -1151,7 +1273,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -1181,7 +1306,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -1211,7 +1339,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -1239,7 +1370,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -1269,7 +1403,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -1297,7 +1434,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -1325,7 +1465,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -1353,7 +1496,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -1381,7 +1527,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -1409,15 +1558,19 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "yes",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 設有遊戲區或提供玩具讓小孩放電。",
     "card_summary": "",
     "signals": [
-      "店面是無障礙設計寬敞明亮"
+      "店面是無障礙設計寬敞明亮",
+      "玩具很便宜"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -1439,7 +1592,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -1469,7 +1625,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -1497,7 +1656,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -1525,7 +1687,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -1553,7 +1718,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -1583,17 +1751,21 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "yes",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
       "嬰兒座椅很乾淨沒有黏黏的",
       "桌子之間寬敞",
       "餐具兒童餐具器皿也有洗乾淨",
-      "今天帶小孩（1歲）一起來用餐"
+      "今天帶小孩（1歲）一起來用餐",
+      "餐具兒童餐具器皿也有洗乾淨"
     ],
-    "parent_friendly_score": 5,
+    "parent_friendly_score": 6,
     "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -1616,7 +1788,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -1644,7 +1819,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -1674,7 +1852,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -1704,7 +1885,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -1732,7 +1916,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -1760,7 +1947,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -1792,7 +1982,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -1822,7 +2015,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -1852,7 +2048,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -1880,7 +2079,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -1908,15 +2110,19 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 並有提供兒童餐點。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 並有提供兒童餐點, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
       "桌距不會太擁擠",
+      "⚠️提供兒童餐具/水杯",
       "⚠️提供兒童餐具/水杯"
     ],
-    "parent_friendly_score": -1,
+    "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -1939,7 +2145,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -1970,7 +2179,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -1998,7 +2210,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -2026,7 +2241,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -2056,7 +2274,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點。",
     "card_summary": "",
@@ -2087,7 +2308,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -2115,7 +2339,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -2143,7 +2370,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -2171,7 +2401,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -2201,7 +2434,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -2229,7 +2465,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -2257,7 +2496,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -2285,7 +2527,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -2313,7 +2558,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -2341,7 +2589,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -2373,7 +2624,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -2401,7 +2655,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -2433,7 +2690,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -2461,7 +2721,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -2491,7 +2754,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -2519,7 +2785,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -2549,7 +2818,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -2577,16 +2849,21 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
       "座位區、兒童餐椅、各種小物販售區",
       "Google 官方登記提供兒童餐點",
-      "Google 官方登記適合兒童用餐"
+      "Google 官方登記適合兒童用餐",
+      "在台北市有球池跟溜滑梯🛝可以放電的地方好棒～推薦",
+      "這裡一直是我包場的口袋名單"
     ],
-    "parent_friendly_score": 4,
+    "parent_friendly_score": 7,
     "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -2609,7 +2886,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -2639,7 +2919,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -2671,7 +2954,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -2699,7 +2985,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -2727,7 +3016,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -2757,7 +3049,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -2785,7 +3080,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -2813,7 +3111,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -2843,7 +3144,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -2873,7 +3177,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -2903,7 +3210,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -2931,7 +3241,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -2959,7 +3272,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -2990,7 +3306,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -3020,7 +3339,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -3052,7 +3374,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -3082,7 +3407,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -3110,7 +3438,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -3140,13 +3471,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "還有一個很舒適的小包廂"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -3168,7 +3504,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -3196,13 +3535,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "直接包場🤣太幸福了吧"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -3224,7 +3568,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -3252,7 +3599,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -3280,7 +3630,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -3310,7 +3663,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -3340,13 +3696,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "yes",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有遊戲區或提供玩具讓小孩放電。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "店內有繪本"
+    ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -3368,7 +3729,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -3398,7 +3762,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -3428,7 +3795,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -3459,7 +3829,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -3487,7 +3860,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -3517,7 +3893,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -3545,15 +3924,19 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "yes",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 用餐空間寬敞舒服。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 用餐空間寬敞舒服, 設有遊戲區或提供玩具讓小孩放電。",
     "card_summary": "",
     "signals": [
       "有高腳椅的座位區區",
-      "走進室內顯得寬敞悠閒"
+      "走進室內顯得寬敞悠閒",
+      "還有兒童遊戲室"
     ],
-    "parent_friendly_score": 3,
+    "parent_friendly_score": 5,
     "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -3576,7 +3959,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -3606,7 +3992,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -3637,7 +4026,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -3668,7 +4060,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -3698,7 +4093,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -3726,7 +4124,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -3756,7 +4157,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -3784,7 +4188,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -3814,16 +4221,20 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
       "座位形式多樣（高腳椅、大長桌、階梯座席、沙發區）",
       "• 空間寬敞多元： 挑高設計減少壓迫感",
-      "外面一般座位就會比較吵雜"
+      "外面一般座位就會比較吵雜",
+      "開會時覺得包廂比較適合"
     ],
-    "parent_friendly_score": 4,
+    "parent_friendly_score": 5,
     "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -3846,7 +4257,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -3874,7 +4288,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -3904,7 +4321,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -3932,7 +4352,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -3963,7 +4386,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -3991,7 +4417,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -4019,7 +4448,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -4047,7 +4479,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -4077,7 +4512,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -4107,7 +4545,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -4135,7 +4576,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -4163,7 +4607,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -4191,7 +4638,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -4221,7 +4671,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -4249,7 +4702,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -4279,7 +4735,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -4309,7 +4768,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -4339,7 +4801,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -4369,7 +4834,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -4399,7 +4867,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -4429,7 +4900,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -4459,7 +4933,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -4487,7 +4964,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -4515,14 +4995,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
-      "稍嫌擁擠"
+      "稍嫌擁擠",
+      "因為10個人訂了包廂"
     ],
-    "parent_friendly_score": -2,
+    "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -4545,7 +5029,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -4573,7 +5060,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -4601,7 +5091,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -4629,7 +5122,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -4659,7 +5155,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -4687,7 +5186,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -4715,7 +5217,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -4745,7 +5250,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -4775,7 +5283,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -4803,7 +5314,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -4834,7 +5348,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -4862,7 +5379,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -4890,7 +5410,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -4918,7 +5441,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -4946,7 +5472,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -4974,7 +5503,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -5004,7 +5536,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -5032,7 +5567,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -5060,7 +5598,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -5088,7 +5629,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -5118,7 +5662,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -5148,7 +5695,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -5176,7 +5726,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點。",
     "card_summary": "",
@@ -5206,7 +5759,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -5234,7 +5790,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -5262,7 +5821,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -5290,7 +5852,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -5318,7 +5883,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -5346,7 +5914,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -5374,7 +5945,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -5405,7 +5979,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -5433,7 +6010,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -5461,7 +6041,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -5489,7 +6072,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -5519,7 +6105,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -5551,7 +6140,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -5581,7 +6173,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -5611,7 +6206,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -5639,7 +6237,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -5667,7 +6268,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -5697,7 +6301,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -5725,7 +6332,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -5753,7 +6363,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -5783,7 +6396,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -5811,7 +6427,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -5841,7 +6460,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -5869,7 +6491,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -5897,7 +6522,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -5925,7 +6553,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -5953,7 +6584,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -5983,7 +6617,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -6013,7 +6650,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -6041,7 +6681,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -6071,7 +6714,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -6099,7 +6745,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -6129,7 +6778,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -6157,7 +6809,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -6187,16 +6842,20 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
       "滿驚豔的 空間舒適寬敞",
-      "兒童餐夠一大一小（3歲）吃"
+      "兒童餐夠一大一小（3歲）吃",
+      "座位有雙人四人還有包廂的"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -6218,15 +6877,19 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 但環境較安靜，可能不太適合好動吵鬧的小孩, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
       "不會太擁擠",
-      "內部空間很安靜舒適"
+      "內部空間很安靜舒適",
+      "如果想要私密空間 建議訂包廂"
     ],
-    "parent_friendly_score": -2,
+    "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -6249,13 +6912,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "包廂式空間乾淨舒適"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -6277,7 +6945,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -6305,7 +6976,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -6333,7 +7007,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -6364,7 +7041,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -6392,7 +7072,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -6420,7 +7103,10 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 用餐空間寬敞舒服, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -6452,7 +7138,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -6480,7 +7169,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -6512,7 +7204,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -6540,7 +7235,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -6568,7 +7266,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -6596,13 +7297,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "每一層樓等於一個包廂"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -6624,7 +7330,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -6652,7 +7361,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -6680,7 +7392,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -6708,7 +7423,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -6735,19 +7453,23 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E8%B2%93%E7%86%8A%E9%A4%90%E5%BB%B3%20Panda%20Cafe&query_place_id=ChIJ9w1DX0erQjQRsDLrMW4l-rU",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%B2%93%E7%86%8A%E9%A4%90%E5%BB%B3%20Panda%20Cafe&query_place_id=ChIJ9w1DX0erQjQRsDLrMW4l-rU",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
     "signals": [
+      "使用者回報與人工校正：店家設有兒童高腳椅",
       "Google 官方登記適合兒童用餐"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介融合分析",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析（人工校正）",
     "reviews": []
   },
   {
@@ -6768,7 +7490,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -6798,7 +7523,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -6828,7 +7556,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -6856,7 +7587,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -6886,7 +7620,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -6914,7 +7651,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -6944,7 +7684,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -6974,7 +7717,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -7002,7 +7748,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -7030,7 +7779,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -7058,7 +7810,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -7086,7 +7841,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -7117,7 +7875,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -7145,7 +7906,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -7173,7 +7937,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -7201,7 +7968,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -7231,7 +8001,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -7259,7 +8032,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -7287,7 +8063,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -7315,7 +8094,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -7346,7 +8128,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -7374,7 +8159,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -7402,7 +8190,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -7430,7 +8221,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -7458,7 +8252,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -7488,7 +8285,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -7518,7 +8318,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -7546,7 +8349,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -7574,7 +8380,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -7602,7 +8411,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -7630,7 +8442,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -7658,7 +8473,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -7689,7 +8507,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -7717,7 +8538,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -7747,7 +8571,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -7775,7 +8602,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -7803,7 +8633,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -7831,7 +8664,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -7859,7 +8695,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -7889,7 +8728,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -7920,17 +8762,21 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電。",
     "card_summary": "",
     "signals": [
       "也不會感覺到擁擠",
       "Google 官方登記提供兒童餐點",
-      "Google 官方登記適合兒童用餐"
+      "Google 官方登記適合兒童用餐",
+      "遊戲區讓孩子可以放電一下"
     ],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -7952,7 +8798,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -7980,13 +8829,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "須包場預訂8-10人"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -8008,13 +8862,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "他們說比比去的3樓是酒家包廂當然吃的就是酒家菜"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -8036,7 +8895,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -8064,7 +8926,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -8092,7 +8957,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -8120,7 +8988,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -8150,16 +9021,20 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
       "店內乾淨寬敞還有小包廂以及吧台",
-      "地點並非熱鬧的用餐地段"
+      "地點並非熱鬧的用餐地段",
+      "店內乾淨寬敞還有小包廂以及吧台"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -8181,7 +9056,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -8209,7 +9087,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -8240,7 +9121,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -8268,7 +9152,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -8296,7 +9183,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -8324,7 +9214,10 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅。",
     "card_summary": "",
@@ -8354,13 +9247,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "yes",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有遊戲區或提供玩具讓小孩放電。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "而且還是玩具總動員的元素～～～"
+    ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -8382,7 +9280,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -8410,14 +9311,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
-      "內部空間寬敞"
+      "內部空間寬敞",
+      "平日下午也是滿滿的人 一開始坐吧檯後面有幫我移小桌 五點有包場活動"
     ],
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -8440,7 +9345,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -8468,7 +9376,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -8498,13 +9409,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "平日幾乎包場"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -8526,7 +9442,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -8554,7 +9473,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -8584,13 +9506,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "聽說還有包廂式"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -8612,7 +9539,10 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅。",
     "card_summary": "",
@@ -8642,7 +9572,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -8670,7 +9603,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -8698,7 +9634,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -8728,7 +9667,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -8759,7 +9701,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -8790,7 +9735,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -8818,7 +9766,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -8846,7 +9797,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -8874,13 +9828,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "還有包廂"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -8902,7 +9861,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -8930,7 +9892,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -8960,7 +9925,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -8988,7 +9956,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -9016,7 +9987,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -9044,7 +10018,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -9072,7 +10049,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -9100,7 +10080,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -9130,13 +10113,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "被安排在二樓包廂用餐"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -9158,7 +10146,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -9188,7 +10179,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -9218,7 +10212,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -9246,7 +10243,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -9276,7 +10276,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -9306,7 +10309,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -9334,7 +10340,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -9362,7 +10371,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -9390,7 +10402,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -9418,7 +10433,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -9446,7 +10464,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -9476,7 +10497,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -9504,13 +10528,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "yes",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有遊戲區或提供玩具讓小孩放電。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "用很多古玩具裝潢"
+    ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -9532,7 +10561,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -9562,7 +10594,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -9590,7 +10625,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -9620,14 +10658,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
-      "廁所乾淨有附衛生紙🧻整體不算很安靜"
+      "廁所乾淨有附衛生紙🧻整體不算很安靜",
+      "老派的一切  跟自己約會 順便包場"
     ],
-    "parent_friendly_score": -2,
+    "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -9650,7 +10692,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -9678,7 +10723,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -9706,7 +10754,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -9736,7 +10787,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -9764,7 +10818,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -9794,7 +10851,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -9826,7 +10886,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -9856,7 +10919,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -9884,15 +10950,19 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "yes",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 設有遊戲區或提供玩具讓小孩放電。",
     "card_summary": "",
     "signals": [
-      "✓除了小嬰兒的食品奶粉、衣物、奶瓶、吸嘴、玩具、推車、汽座、高腳椅等"
+      "✓除了小嬰兒的食品奶粉、衣物、奶瓶、吸嘴、玩具、推車、汽座、高腳椅等",
+      "搭配什麼玩具活動"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": 4,
+    "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -9914,7 +10984,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -9946,7 +11019,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -9976,7 +11052,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -10004,7 +11083,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -10032,7 +11114,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -10060,7 +11145,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -10088,7 +11176,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -10116,13 +11207,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "還有包廂可以玩"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -10144,7 +11240,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -10172,7 +11271,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -10203,7 +11305,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -10231,7 +11336,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -10259,7 +11367,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -10287,7 +11398,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -10315,7 +11429,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -10343,7 +11460,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -10371,7 +11491,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -10399,7 +11522,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -10427,7 +11553,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -10455,7 +11584,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -10483,7 +11615,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -10513,7 +11648,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -10543,7 +11681,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -10573,7 +11714,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -10603,7 +11747,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -10631,7 +11778,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -10662,7 +11812,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -10690,7 +11843,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -10718,7 +11874,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -10748,7 +11907,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -10776,7 +11938,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -10804,7 +11969,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -10832,14 +12000,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
-      "可能較適合喜歡安靜及不喜氣味太重的小夥伴用餐"
+      "可能較適合喜歡安靜及不喜氣味太重的小夥伴用餐",
+      "口味不錯有：藥膳蝦、炒河粉、生春捲、熱菜區牛肉、烤牛肉、麻辣鴨血、生魚片、麵包區及甜點等"
     ],
-    "parent_friendly_score": -2,
+    "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -10862,7 +12034,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -10890,7 +12065,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -10918,7 +12096,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -10949,7 +12130,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -10979,7 +12163,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -11010,7 +12197,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -11040,7 +12230,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -11070,7 +12263,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -11098,7 +12294,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -11129,7 +12328,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -11159,7 +12361,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -11187,7 +12392,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -11217,7 +12425,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -11245,14 +12456,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
-      "（然後再次感謝店員幫我們拍照 還因為燈光比較暗給我們會發亮的造型檯燈🥺 也容許我們吵吵鬧鬧了很久>"
+      "（然後再次感謝店員幫我們拍照 還因為燈光比較暗給我們會發亮的造型檯燈🥺 也容許我們吵吵鬧鬧了很久>",
+      "二樓可以包場只需要低消4000"
     ],
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -11275,7 +12490,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -11303,7 +12521,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -11331,7 +12552,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -11359,7 +12583,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -11389,7 +12616,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -11417,7 +12647,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -11447,7 +12680,10 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -11478,7 +12714,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -11506,7 +12745,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -11534,16 +12776,20 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電。",
     "card_summary": "",
     "signals": [
       "室內座位稍微偏擁擠",
-      "能在奇岩站附近發現這麼可愛又親子友善的咖啡廳"
+      "能在奇岩站附近發現這麼可愛又親子友善的咖啡廳",
+      "二樓設有一間很棒的親子遊戲室"
     ],
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "資訊不足",
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -11565,7 +12811,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -11593,7 +12842,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -11623,7 +12875,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -11651,7 +12906,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -11679,7 +12937,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -11709,7 +12970,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -11737,7 +13001,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -11765,7 +13032,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -11795,7 +13065,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -11823,7 +13096,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -11853,7 +13129,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -11881,7 +13160,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -11911,7 +13193,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -11939,7 +13224,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -11967,7 +13255,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -11995,7 +13286,10 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -12026,7 +13320,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -12054,7 +13351,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -12082,7 +13382,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -12110,14 +13413,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
-      "但沒有什麼咖啡豆香👩🏼‍💻店內顧客蠻安靜"
+      "但沒有什麼咖啡豆香👩🏼‍💻店內顧客蠻安靜",
+      "聽到有包場"
     ],
-    "parent_friendly_score": -2,
+    "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -12140,13 +13447,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "剛好有人退訂包廂"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -12168,7 +13480,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -12196,7 +13511,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -12224,7 +13542,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -12252,7 +13573,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -12282,7 +13606,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -12313,7 +13640,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -12341,7 +13671,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -12371,7 +13704,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -12401,14 +13737,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
-      "空間很安靜"
+      "空間很安靜",
+      "樓上有包廂可以看DVD影片"
     ],
-    "parent_friendly_score": -2,
+    "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -12431,14 +13771,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
-      "也不會覺得擁擠或有壓迫感"
+      "也不會覺得擁擠或有壓迫感",
+      "洛儀的一歲生日派對就是在曜日辦的"
     ],
-    "parent_friendly_score": -2,
+    "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -12461,14 +13805,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
-      "想要安靜的也有獨立包廂可提前預約"
+      "想要安靜的也有獨立包廂可提前預約",
+      "也有包廂"
     ],
-    "parent_friendly_score": -2,
+    "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -12491,7 +13839,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -12519,7 +13870,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -12549,7 +13903,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -12579,7 +13936,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -12607,15 +13967,19 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
-      "因沒訂位所以坐在一樓高腳椅的地方"
+      "因沒訂位所以坐在一樓高腳椅的地方",
+      "最美的是後院的玻璃屋包廂"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -12637,7 +14001,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -12665,7 +14032,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -12693,7 +14063,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -12721,7 +14094,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -12751,7 +14127,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -12781,7 +14160,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -12809,7 +14191,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -12837,7 +14222,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -12869,7 +14257,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -12897,13 +14288,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "包廂還可以唱歌"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -12925,7 +14321,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -12955,7 +14354,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -12983,7 +14385,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -13011,7 +14416,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -13041,7 +14449,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -13069,7 +14480,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -13097,7 +14511,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -13128,7 +14545,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -13159,16 +14579,20 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
       "空間寬敞明亮舒服",
-      "永遠客滿有點吵雜"
+      "永遠客滿有點吵雜",
+      "只能包區"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -13190,7 +14614,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -13218,7 +14645,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -13246,7 +14676,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -13274,7 +14707,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -13302,7 +14738,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -13330,7 +14769,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -13358,7 +14800,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -13386,7 +14831,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -13416,7 +14864,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -13444,7 +14895,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -13472,7 +14926,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -13500,7 +14957,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -13530,7 +14990,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -13558,7 +15021,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點。",
     "card_summary": "",
@@ -13589,7 +15055,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -13617,7 +15086,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -13647,7 +15119,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -13675,7 +15150,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -13703,7 +15181,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -13731,7 +15212,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -13761,15 +15245,19 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電。",
     "card_summary": "",
     "signals": [
-      "而不是盯著手機或吵鬧"
+      "而不是盯著手機或吵鬧",
+      "有別於其他親子餐廳只提供遊戲區"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -13791,7 +15279,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -13821,16 +15312,20 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電。",
     "card_summary": "",
     "signals": [
       "座位也很寬敞",
       "Google 官方登記提供兒童餐點",
-      "Google 官方登記適合兒童用餐"
+      "Google 官方登記適合兒童用餐",
+      "店內還有兒童遊戲區"
     ],
-    "parent_friendly_score": 3,
+    "parent_friendly_score": 5,
     "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -13853,7 +15348,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -13881,7 +15379,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -13909,14 +15410,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
-      "目前沒有時間限制🚫新店裝潢很明亮寬敞"
+      "目前沒有時間限制🚫新店裝潢很明亮寬敞",
+      "很適合包場"
     ],
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -13939,7 +15444,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -13967,7 +15475,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -13995,7 +15506,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -14025,7 +15539,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -14056,7 +15573,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -14086,7 +15606,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -14116,7 +15639,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -14146,7 +15672,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -14174,7 +15703,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -14202,7 +15734,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -14230,7 +15765,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -14260,7 +15798,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -14288,7 +15829,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -14316,7 +15860,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -14346,7 +15893,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -14374,7 +15924,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -14402,7 +15955,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -14430,7 +15986,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -14458,7 +16017,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -14488,7 +16050,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -14516,7 +16081,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -14546,7 +16114,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -14574,7 +16145,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -14602,7 +16176,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -14632,7 +16209,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -14660,7 +16240,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -14688,7 +16271,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -14716,7 +16302,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -14744,7 +16333,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -14772,7 +16364,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -14800,7 +16395,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -14828,7 +16426,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -14856,7 +16457,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -14886,7 +16490,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -14914,7 +16521,10 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -14945,7 +16555,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -14973,7 +16586,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -15003,7 +16619,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -15031,7 +16650,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -15059,7 +16681,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -15089,7 +16714,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -15117,7 +16745,10 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -15148,7 +16779,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -15178,7 +16812,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -15208,7 +16845,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -15236,7 +16876,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -15264,7 +16907,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -15294,7 +16940,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -15322,13 +16971,19 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "yes",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有遊戲區或提供玩具讓小孩放電, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "室內有滑梯、木馬、多類玩具⋯",
+      "咖啡餐飲區平日若有團體消費還可以加幾百元就能包場不受打擾很棒"
+    ],
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -15350,7 +17005,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -15378,7 +17036,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -15408,7 +17069,10 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 但空間較為擁擠。",
     "card_summary": "",
@@ -15439,7 +17103,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -15469,7 +17136,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -15497,7 +17167,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -15525,7 +17198,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -15555,7 +17231,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -15583,7 +17262,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -15611,14 +17293,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
-      "在康寧醫院附近的安靜社區"
+      "在康寧醫院附近的安靜社區",
+      "另外也有包廂提供小型聚會"
     ],
-    "parent_friendly_score": -2,
+    "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -15641,7 +17327,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -15669,7 +17358,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -15697,7 +17389,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -15725,13 +17420,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "有一間包廂可以6人一起用餐"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -15753,7 +17453,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -15783,7 +17486,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -15811,15 +17517,19 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 並有提供兒童餐點。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 並有提供兒童餐點, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
       "店家除了協助準備兒童座椅、兒童餐具",
+      "店家除了協助準備兒童座椅、兒童餐具",
       "店家除了協助準備兒童座椅、兒童餐具"
     ],
-    "parent_friendly_score": 3,
+    "parent_friendly_score": 4,
     "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -15842,7 +17552,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -15870,7 +17583,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -15900,14 +17616,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
-      "店內位置寬敞"
+      "店內位置寬敞",
+      "七月底時遇到包場沒得吃"
     ],
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -15930,7 +17650,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -15960,7 +17683,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -15988,7 +17714,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -16019,7 +17748,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -16049,7 +17781,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -16077,7 +17812,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -16105,7 +17843,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -16133,7 +17874,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -16164,7 +17908,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -16192,7 +17939,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -16220,7 +17970,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -16251,15 +18004,19 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "yes",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 設有遊戲區或提供玩具讓小孩放電。",
     "card_summary": "",
     "signals": [
-      "整體環境乾淨、空間寬敞、服務親切、份量充足、價位合理、無用餐時間限制"
+      "整體環境乾淨、空間寬敞、服務親切、份量充足、價位合理、無用餐時間限制",
+      "而且常常有聚會＆小孩玩玩具"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -16281,7 +18038,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -16309,14 +18069,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
+      "公司尾牙訂了20人大桌包廂, 座位夠寬敞, 帶一間廁所, 整體空間感很舒適不擁擠",
       "公司尾牙訂了20人大桌包廂, 座位夠寬敞, 帶一間廁所, 整體空間感很舒適不擁擠"
     ],
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -16339,7 +18103,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -16367,7 +18134,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -16395,7 +18165,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -16423,7 +18196,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -16454,7 +18230,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -16482,7 +18261,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -16512,7 +18294,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -16542,7 +18327,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -16570,7 +18358,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -16600,7 +18391,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -16628,7 +18422,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -16656,7 +18453,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -16686,7 +18486,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -16716,7 +18519,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -16744,7 +18550,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -16775,7 +18584,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -16803,7 +18615,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -16833,7 +18648,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -16863,7 +18681,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -16891,7 +18712,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -16921,7 +18745,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -16951,7 +18778,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -16979,7 +18809,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -17007,7 +18840,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -17035,7 +18871,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -17063,7 +18902,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -17093,7 +18935,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -17121,7 +18966,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -17149,7 +18997,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -17179,7 +19030,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -17207,7 +19061,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -17235,7 +19092,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -17263,7 +19123,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -17294,7 +19157,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -17324,7 +19190,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -17352,7 +19221,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -17380,7 +19252,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -17408,7 +19283,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -17436,7 +19314,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -17464,7 +19345,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -17492,7 +19376,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -17520,7 +19407,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -17548,7 +19438,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -17576,7 +19469,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -17606,7 +19502,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -17637,7 +19536,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -17665,7 +19567,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -17697,7 +19602,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -17727,7 +19635,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -17755,7 +19666,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -17783,7 +19697,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -17813,7 +19730,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -17841,7 +19761,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -17872,7 +19795,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -17902,7 +19828,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -17933,7 +19862,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -17961,7 +19893,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -17991,7 +19926,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -18022,7 +19960,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -18052,13 +19993,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "師生聚餐或公司社團包場"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -18080,7 +20026,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -18110,7 +20059,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -18140,7 +20092,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -18168,7 +20123,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -18198,7 +20156,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -18228,7 +20189,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -18258,7 +20222,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -18286,7 +20253,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -18314,7 +20284,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -18342,7 +20315,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -18370,7 +20346,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -18398,7 +20377,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -18426,7 +20408,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -18454,7 +20439,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -18482,7 +20470,10 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "no",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 用餐空間寬敞舒服。",
     "card_summary": "",
@@ -18513,14 +20504,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
+      "包廂裡人蠻多的難免吵雜",
       "包廂裡人蠻多的難免吵雜"
     ],
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -18543,7 +20538,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -18571,7 +20569,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -18601,14 +20602,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
-      "餐廳的桌距是完全沒在客氣的寬敞"
+      "餐廳的桌距是完全沒在客氣的寬敞",
+      "包廂容納三桌"
     ],
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -18631,7 +20636,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -18659,16 +20667,20 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
       "環境更為寬敞與安靜",
-      "外面的桌席似乎比較吵雜"
+      "外面的桌席似乎比較吵雜",
+      "這次聚餐訂在包廂相對安靜氣氛很好"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -18690,7 +20702,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -18721,7 +20736,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -18751,7 +20769,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -18781,7 +20802,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -18809,7 +20833,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -18837,7 +20864,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -18867,7 +20897,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -18897,7 +20930,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -18928,7 +20964,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -18958,7 +20997,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -18986,7 +21028,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -19016,7 +21061,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -19046,7 +21094,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -19076,16 +21127,20 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電。",
     "card_summary": "",
     "signals": [
       "Google 官方登記提供兒童餐點",
-      "Google 官方登記適合兒童用餐"
+      "Google 官方登記適合兒童用餐",
+      "牆上有影像能夠看到小孩在球池玩"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": 4,
+    "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -19107,7 +21162,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -19135,7 +21193,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -19165,7 +21226,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -19193,7 +21257,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -19225,7 +21292,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -19253,7 +21323,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -19281,7 +21354,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -19309,7 +21385,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -19337,7 +21416,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -19365,7 +21447,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -19393,7 +21478,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -19421,7 +21509,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -19449,7 +21540,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -19479,7 +21573,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -19507,7 +21604,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -19535,7 +21635,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -19563,7 +21666,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -19591,13 +21697,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "適合多人包廂聚餐"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -19619,7 +21730,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -19647,7 +21761,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -19678,7 +21795,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -19708,7 +21828,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -19739,13 +21862,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "yes",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有遊戲區或提供玩具讓小孩放電。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "很像辦家家酒的一家店"
+    ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -19767,7 +21895,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -19797,7 +21928,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -19825,16 +21959,20 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
       "整體環境很舒服",
-      "人多時也蠻吵雜的會影響隔壁鄰座"
+      "人多時也蠻吵雜的會影響隔壁鄰座",
+      "也很適合包場辦活動沒有壓迫感"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -19856,7 +21994,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -19884,7 +22025,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -19914,15 +22058,20 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "yes",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 設有遊戲區或提供玩具讓小孩放電, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
-      "也不會擁擠"
+      "也不會擁擠",
+      "我女兒一到店裡就開心玩遊戲室",
+      "這次選擇這邊舉辦抓周派對🎉"
     ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "資訊不足",
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -19944,7 +22093,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -19972,7 +22124,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -20000,7 +22155,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -20030,7 +22188,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -20058,7 +22219,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -20086,7 +22250,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -20114,7 +22281,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -20142,7 +22312,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -20170,7 +22343,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -20198,7 +22374,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -20226,7 +22405,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -20256,7 +22438,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -20284,7 +22469,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -20312,7 +22500,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -20340,7 +22531,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -20368,7 +22562,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -20396,7 +22593,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -20427,7 +22627,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -20458,7 +22661,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -20488,7 +22694,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -20518,7 +22727,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -20546,7 +22758,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -20574,7 +22789,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -20602,7 +22820,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -20632,7 +22853,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -20663,7 +22887,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -20691,7 +22918,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -20719,7 +22949,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -20747,7 +22980,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -20775,14 +23011,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
-      "加上門口那種台式小館特有的熱鬧氣味"
+      "加上門口那種台式小館特有的熱鬧氣味",
+      "店內還有包廂"
     ],
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -20805,7 +23045,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -20833,7 +23076,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -20863,7 +23109,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -20891,7 +23140,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -20919,7 +23171,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -20949,7 +23204,10 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅。",
     "card_summary": "",
@@ -20979,7 +23237,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -21007,7 +23268,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -21035,7 +23299,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -21065,7 +23332,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -21095,7 +23365,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -21125,7 +23398,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -21155,7 +23431,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -21185,7 +23464,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -21213,7 +23495,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -21241,7 +23526,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -21269,7 +23557,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -21299,7 +23590,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -21327,7 +23621,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -21355,7 +23652,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -21385,7 +23685,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -21415,13 +23718,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "由於坐在包廂"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -21443,14 +23751,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
-      "今天跟朋友約好帶小孩聚餐來吃韓式"
+      "今天跟朋友約好帶小孩聚餐來吃韓式",
+      "最驚喜的是店內竟然還有包廂空間"
     ],
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -21473,13 +23785,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "場地可安排包廂"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -21501,7 +23818,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -21529,7 +23849,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -21559,7 +23882,10 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "no",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -21591,13 +23917,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "yes",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有遊戲區或提供玩具讓小孩放電。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "店內空間不大但算舒適～還有很多小玩具可以借來玩～（小時候會玩的那種）"
+    ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -21619,13 +23950,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "備註：也歡迎大家包場慶生"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -21647,7 +23983,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -21675,7 +24014,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -21703,7 +24045,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -21731,7 +24076,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -21761,7 +24109,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -21789,16 +24140,20 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
       "一二樓環境寬敞明亮超級好出片",
-      "很吵雜"
+      "很吵雜",
+      "很適合讀書會、都更説明會包場活動、坐捷運走路3分鐘就到了"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -21820,7 +24175,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -21848,7 +24206,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -21876,7 +24237,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -21904,7 +24268,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -21934,7 +24301,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -21964,7 +24334,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -21995,7 +24368,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -22026,7 +24402,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -22056,7 +24435,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -22084,7 +24466,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -22112,7 +24497,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -22142,7 +24530,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -22172,7 +24563,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -22200,7 +24594,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -22228,7 +24625,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -22256,7 +24656,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -22284,7 +24687,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -22312,7 +24718,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -22343,13 +24752,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "yes",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有遊戲區或提供玩具讓小孩放電。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "2017年改建為創意兒童攀爬+沙坑遊戲場"
+    ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -22371,7 +24785,10 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅。",
     "card_summary": "",
@@ -22401,7 +24818,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -22429,7 +24849,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -22460,7 +24883,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -22490,7 +24916,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -22518,7 +24947,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -22548,7 +24980,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -22578,7 +25013,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -22606,7 +25044,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -22636,7 +25077,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -22664,7 +25108,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -22692,7 +25139,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -22720,7 +25170,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -22748,7 +25201,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -22776,7 +25232,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -22806,14 +25265,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
-      "Google 官方登記適合兒童用餐"
+      "Google 官方登記適合兒童用餐",
+      "還可以包場超佛心～"
     ],
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -22836,7 +25299,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -22864,7 +25330,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -22892,7 +25361,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -22920,7 +25392,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -22948,7 +25423,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -22978,7 +25456,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -23009,7 +25490,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -23037,14 +25521,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
-      "室內吵雜的氛圍也沒有改變"
+      "室內吵雜的氛圍也沒有改變",
+      "被安排的位置在靠近包廂的末端"
     ],
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -23067,13 +25555,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "可能是環境太舒適+非封閉包廂式隔間+欄杆的元素加成"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -23095,7 +25588,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -23123,7 +25619,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -23154,7 +25653,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -23184,16 +25686,20 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
       "Google 官方登記提供兒童餐點",
-      "Google 官方登記適合兒童用餐"
+      "Google 官方登記適合兒童用餐",
+      "包廂可自行播放音樂 氣氛佳 非常適合聚會~"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -23215,7 +25721,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -23246,7 +25755,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -23274,7 +25786,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -23302,7 +25817,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -23330,7 +25848,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -23360,7 +25881,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -23390,7 +25914,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -23418,7 +25945,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -23446,7 +25976,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -23474,7 +26007,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -23504,7 +26040,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -23534,7 +26073,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -23564,7 +26106,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -23594,7 +26139,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -23625,7 +26173,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -23655,15 +26206,19 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 但環境較安靜，可能不太適合好動吵鬧的小孩, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
       "空間明亮寬敞",
-      "散發著安靜與溫柔的氛圍"
+      "散發著安靜與溫柔的氛圍",
+      "很適合聚會或包場活動.還有抽卡小活動（水杯架）"
     ],
-    "parent_friendly_score": -1,
+    "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -23686,13 +26241,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "要先說包廂偏小"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -23714,7 +26274,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -23742,7 +26305,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -23770,7 +26336,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -23801,7 +26370,10 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -23832,14 +26404,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "yes",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩, 設有遊戲區或提供玩具讓小孩放電。",
     "card_summary": "",
     "signals": [
-      "巷子裡的安靜配上店內溫暖的燈光"
+      "巷子裡的安靜配上店內溫暖的燈光",
+      "從各種可愛的公仔（瑪利歐、辛普森、玩具總動員）到充滿設計感的藝術海報"
     ],
-    "parent_friendly_score": -2,
+    "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -23862,7 +26438,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -23890,7 +26469,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -23920,7 +26502,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -23951,7 +26536,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -23981,7 +26569,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -24009,7 +26600,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -24039,7 +26633,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -24067,7 +26664,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -24095,7 +26695,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -24123,7 +26726,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -24151,7 +26757,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -24179,7 +26788,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -24207,7 +26819,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -24237,7 +26852,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -24267,7 +26885,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -24295,16 +26916,21 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "yes",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 設有遊戲區或提供玩具讓小孩放電, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
       "桌位不多,位子很寬敞",
-      "兒童餐的車車造型小朋友很喜歡（麵包、蛋、炸南瓜、主食）"
+      "兒童餐的車車造型小朋友很喜歡（麵包、蛋、炸南瓜、主食）",
+      "沙坑、學步腳踏車都可以使用～",
+      "另外還有類似包廂的地方"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": 5,
+    "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -24326,7 +26952,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -24354,7 +26983,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -24382,7 +27014,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -24410,7 +27045,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -24441,7 +27079,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -24469,7 +27110,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -24499,7 +27143,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -24527,13 +27174,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "（註：2樓提供了包廂可以朋友聚餐）"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -24555,7 +27207,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -24583,7 +27238,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -24613,15 +27271,19 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
-      "另有高腳椅的吧台區"
+      "另有高腳椅的吧台區",
+      "一個包場的概念"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -24643,7 +27305,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -24671,7 +27336,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -24699,7 +27367,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -24729,7 +27400,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -24757,7 +27431,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -24785,7 +27462,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -24813,7 +27493,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -24841,7 +27524,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -24869,7 +27555,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -24897,7 +27586,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -24925,7 +27617,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -24953,7 +27648,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -24983,7 +27681,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -25013,7 +27714,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -25044,7 +27748,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -25075,7 +27782,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -25106,7 +27816,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -25136,7 +27849,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -25164,7 +27880,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -25192,7 +27911,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -25222,7 +27944,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -25250,7 +27975,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -25281,13 +28009,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "包廂慶生很特別"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -25309,7 +28042,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -25337,7 +28073,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -25367,7 +28106,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -25395,7 +28137,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -25423,7 +28168,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -25451,7 +28199,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -25482,7 +28233,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -25510,7 +28264,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -25538,7 +28295,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -25566,7 +28326,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -25596,7 +28359,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -25624,7 +28390,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -25654,7 +28423,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -25682,7 +28454,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -25710,7 +28485,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -25738,7 +28516,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -25766,7 +28547,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -25797,7 +28581,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -25825,13 +28612,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "包場～應該算離峰時段💎"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -25853,7 +28645,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -25884,7 +28679,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -25914,16 +28712,20 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電。",
     "card_summary": "",
     "signals": [
       "3樓較寬敞",
       "Google 官方登記提供兒童餐點",
-      "Google 官方登記適合兒童用餐"
+      "Google 官方登記適合兒童用餐",
+      "小孩在球池玩得不亦樂乎"
     ],
-    "parent_friendly_score": 3,
+    "parent_friendly_score": 5,
     "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -25946,7 +28748,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -25976,15 +28781,19 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電。",
     "card_summary": "",
     "signals": [
-      "適合帶小孩來"
+      "適合帶小孩來",
+      "還有一些小朋友的玩具可以玩"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -26006,7 +28815,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點。",
     "card_summary": "",
@@ -26036,14 +28848,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
-      "環境安靜又舒服"
+      "環境安靜又舒服",
+      "另外有提供會議包廂還附設投影機"
     ],
-    "parent_friendly_score": -2,
+    "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -26066,7 +28882,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -26096,7 +28915,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -26124,7 +28946,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -26152,7 +28977,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -26182,7 +29010,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -26212,7 +29043,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -26240,7 +29074,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -26268,15 +29105,19 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
       "當初訂位時有說需要兒童椅",
-      "最棒的是親子友善"
+      "最棒的是親子友善",
+      "店員把我們安排在三樓的包廂座位"
     ],
-    "parent_friendly_score": 3,
+    "parent_friendly_score": 4,
     "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -26299,7 +29140,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -26327,14 +29171,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
-      "Google 官方登記適合兒童用餐"
+      "Google 官方登記適合兒童用餐",
+      "*不會主動提供兒童餐具"
     ],
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -26357,7 +29205,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -26389,7 +29240,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -26419,7 +29273,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -26447,7 +29304,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -26477,7 +29337,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -26505,7 +29368,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -26533,7 +29399,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -26561,7 +29430,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -26589,7 +29461,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -26617,7 +29492,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -26647,7 +29525,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -26675,7 +29556,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -26705,7 +29589,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -26733,7 +29620,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -26761,7 +29651,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -26789,7 +29682,10 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -26820,7 +29716,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -26848,7 +29747,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -26876,7 +29778,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -26904,7 +29809,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -26932,7 +29840,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -26960,7 +29871,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -26990,7 +29904,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -27021,7 +29938,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -27051,7 +29971,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -27079,7 +30002,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -27107,7 +30033,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -27135,7 +30064,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -27165,7 +30097,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -27195,7 +30130,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -27223,7 +30161,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -27251,7 +30192,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -27281,7 +30225,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -27309,7 +30256,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -27339,13 +30289,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "小缺點就是包廂隔音普通"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -27367,7 +30322,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -27395,7 +30353,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -27425,7 +30386,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -27453,7 +30417,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -27484,7 +30451,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -27512,7 +30482,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -27540,7 +30513,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -27570,7 +30546,10 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -27601,7 +30580,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點。",
     "card_summary": "",
@@ -27631,7 +30613,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -27661,7 +30646,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -27689,16 +30677,20 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
       "Google 官方登記提供兒童餐點",
-      "Google 官方登記適合兒童用餐"
+      "Google 官方登記適合兒童用餐",
+      "有吧檯、座位區和包廂"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -27720,7 +30712,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -27751,7 +30746,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -27779,7 +30777,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -27807,7 +30808,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -27835,7 +30839,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -27865,7 +30872,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -27895,7 +30905,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -27923,7 +30936,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -27951,7 +30967,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -27979,7 +30998,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -28009,7 +31031,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -28037,7 +31062,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -28065,7 +31093,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -28093,7 +31124,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -28121,7 +31155,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -28149,7 +31186,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -28177,7 +31217,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -28205,7 +31248,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -28233,7 +31279,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -28261,16 +31310,20 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
       "親子友善提供兒童餐具、兒童椅",
       "親子友善提供兒童餐具、兒童椅",
+      "親子友善提供兒童餐具、兒童椅",
       "親子友善提供兒童餐具、兒童椅"
     ],
-    "parent_friendly_score": 4,
+    "parent_friendly_score": 5,
     "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -28293,7 +31346,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -28321,7 +31377,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -28349,7 +31408,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -28377,7 +31439,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -28407,7 +31472,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -28435,7 +31503,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -28463,7 +31534,10 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 並有提供兒童餐點。",
     "card_summary": "",
@@ -28494,7 +31568,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -28522,7 +31599,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -28550,7 +31630,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -28578,7 +31661,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -28608,7 +31694,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -28636,7 +31725,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -28664,7 +31756,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -28692,7 +31787,10 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -28724,7 +31822,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -28752,7 +31853,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -28780,15 +31884,19 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
       "有兒童座椅、兒童餐具 還有可愛的恐龍餐盤",
-      "Google 官方登記適合兒童用餐"
+      "Google 官方登記適合兒童用餐",
+      "有兒童座椅、兒童餐具 還有可愛的恐龍餐盤"
     ],
-    "parent_friendly_score": 3,
+    "parent_friendly_score": 4,
     "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -28811,7 +31919,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -28842,7 +31953,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -28870,7 +31984,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -28901,13 +32018,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "非常幸運可以包場"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -28929,7 +32051,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -28959,7 +32084,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -28987,7 +32115,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -29015,7 +32146,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -29046,7 +32180,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -29074,7 +32211,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -29102,7 +32242,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -29130,7 +32273,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -29160,7 +32306,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -29190,7 +32339,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -29218,7 +32370,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -29246,7 +32401,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -29276,7 +32434,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -29304,7 +32465,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -29334,7 +32498,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -29362,7 +32529,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -29393,7 +32563,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -29421,7 +32594,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -29449,7 +32625,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -29479,7 +32658,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -29507,7 +32689,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -29537,13 +32722,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "只是包廂內覺得異味比較重"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -29565,7 +32755,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -29593,7 +32786,10 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅。",
     "card_summary": "",
@@ -29623,7 +32819,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -29651,13 +32850,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "適合朋友聚會～情侶約會🤭調酒🍹很厲害～店長人超nice👍❤️❤️❤️2樓包廂很舒服😌"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -29679,7 +32883,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -29707,7 +32914,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -29735,7 +32945,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -29763,7 +32976,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -29791,7 +33007,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -29821,7 +33040,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -29852,7 +33074,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -29883,7 +33108,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -29913,7 +33141,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -29943,16 +33174,20 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電。",
     "card_summary": "",
     "signals": [
       "用餐空間寬敞、明亮、舒適",
-      "Google 官方登記適合兒童用餐"
+      "Google 官方登記適合兒童用餐",
+      "旁邊有很大的遊戲室"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": 4,
+    "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -29974,7 +33209,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -30002,7 +33240,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -30033,7 +33274,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -30063,7 +33307,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -30091,7 +33338,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -30119,7 +33369,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -30150,7 +33403,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -30178,7 +33434,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -30206,7 +33465,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -30234,7 +33496,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -30262,7 +33527,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -30290,14 +33558,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
-      "Google 官方登記適合兒童用餐"
+      "Google 官方登記適合兒童用餐",
+      "適合親子包場地下室活動"
     ],
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -30320,7 +33592,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -30348,7 +33623,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -30376,7 +33654,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -30404,13 +33685,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "環境：有類似包廂的座位"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -30432,13 +33718,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "記得之前也遇見過有附近醫院包廂晚宴"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -30460,7 +33751,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -30488,7 +33782,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -30516,7 +33813,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -30546,7 +33846,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -30576,7 +33879,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -30604,15 +33910,19 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
       "放了兒童椅時",
-      "Google 官方登記適合兒童用餐"
+      "Google 官方登記適合兒童用餐",
+      "也友善地問了需不需要兒童椅跟兒童餐具"
     ],
-    "parent_friendly_score": 3,
+    "parent_friendly_score": 4,
     "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -30635,7 +33945,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -30666,7 +33979,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -30694,7 +34010,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -30722,14 +34041,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
-      "Google 官方登記適合兒童用餐"
+      "Google 官方登記適合兒童用餐",
+      "結果她主動跟我說可以幫我洗兒童餐具"
     ],
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -30752,7 +34075,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -30782,7 +34108,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -30812,7 +34141,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -30842,7 +34174,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -30873,7 +34208,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -30901,7 +34239,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -30929,7 +34270,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -30957,7 +34301,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -30985,7 +34332,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -31013,7 +34363,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -31041,7 +34394,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -31071,7 +34427,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -31099,7 +34458,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -31129,7 +34491,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -31157,13 +34522,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "被安排在包廂區"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -31185,7 +34555,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -31213,7 +34586,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -31241,7 +34617,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -31271,7 +34650,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -31299,7 +34681,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -31327,7 +34712,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -31357,7 +34745,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -31387,7 +34778,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -31417,7 +34811,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -31445,7 +34842,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -31473,7 +34873,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -31501,7 +34904,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -31529,7 +34935,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -31557,7 +34966,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -31587,7 +34999,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -31617,7 +35032,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -31647,7 +35065,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -31677,13 +35098,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "✨ 有時也提供包廂 & 活動空間"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -31705,7 +35131,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -31733,7 +35162,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -31763,7 +35195,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -31791,7 +35226,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -31821,7 +35259,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -31851,7 +35292,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -31881,13 +35325,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "yes",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有遊戲區或提供玩具讓小孩放電。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "購買促銷的小車玩具景品的好地方"
+    ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -31909,7 +35358,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -31937,7 +35389,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -31965,7 +35420,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -31996,7 +35454,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -32024,7 +35485,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -32052,7 +35516,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -32080,7 +35547,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -32110,7 +35580,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -32138,7 +35611,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -32168,7 +35644,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -32196,7 +35675,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -32226,7 +35708,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -32254,7 +35739,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -32282,7 +35770,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -32310,7 +35801,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -32340,7 +35834,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -32368,16 +35865,20 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電。",
     "card_summary": "",
     "signals": [
       "空間很寬敞",
       "⚠️兒童餐：本來想點兔子咖喱飯",
-      "所以周圍很吵鬧"
+      "所以周圍很吵鬧",
+      "有廚房玩具遊樂桌三張"
     ],
-    "parent_friendly_score": 3,
+    "parent_friendly_score": 5,
     "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -32400,7 +35901,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -32428,7 +35932,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -32458,7 +35965,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -32488,7 +35998,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -32516,7 +36029,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -32544,7 +36060,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -32575,7 +36094,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -32603,7 +36125,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -32633,7 +36158,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -32661,7 +36189,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -32689,7 +36220,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -32717,7 +36251,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -32745,7 +36282,10 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅。",
     "card_summary": "",
@@ -32775,7 +36315,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -32803,16 +36346,21 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
       "除了兒童餐",
-      "親子友善空間 小朋友都很愛 已購買 ^3"
+      "親子友善空間 小朋友都很愛 已購買 ^3",
+      "還有很多兒童遊戲室",
+      "還有人在這裡辦抓周"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": 5,
+    "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -32834,7 +36382,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -32862,16 +36413,21 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
       "Google 官方登記提供兒童餐點",
-      "Google 官方登記適合兒童用餐"
+      "Google 官方登記適合兒童用餐",
+      "有球池、車車、廚房組",
+      "抓周宴"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": 5,
+    "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -32893,7 +36449,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -32923,7 +36482,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -32951,7 +36513,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -32981,7 +36546,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -33009,7 +36577,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -33037,7 +36608,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -33065,7 +36639,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -33093,7 +36670,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -33121,7 +36701,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -33149,13 +36732,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "剛好二樓包廂也有空位"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -33177,7 +36765,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -33207,7 +36798,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -33237,7 +36831,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -33265,7 +36862,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -33295,7 +36895,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -33323,7 +36926,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -33351,7 +36957,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -33379,7 +36988,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -33407,7 +37019,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -33435,7 +37050,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -33463,7 +37081,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -33491,7 +37112,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -33522,7 +37146,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -33553,7 +37180,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -33581,7 +37211,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -33609,7 +37242,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -33639,7 +37275,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -33667,7 +37306,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -33695,7 +37337,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -33723,7 +37368,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -33751,7 +37399,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -33779,7 +37430,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -33807,7 +37461,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -33835,7 +37492,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -33863,7 +37523,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -33891,14 +37554,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
-      "關起門來就可以隔絕外面的吵雜"
+      "關起門來就可以隔絕外面的吵雜",
+      "人多這次是訂包廂（有低消"
     ],
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -33921,15 +37588,19 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "yes",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 設有遊戲區或提供玩具讓小孩放電。",
     "card_summary": "",
     "signals": [
-      "空間大👉一個平面大空間"
+      "空間大👉一個平面大空間",
+      "分：大肢體活動區＞教玩具操作區＞躺躺寶寶區"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -33951,7 +37622,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -33979,7 +37653,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -34007,7 +37684,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -34035,7 +37715,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -34065,7 +37748,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -34095,7 +37781,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -34126,7 +37815,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -34154,7 +37846,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -34182,7 +37877,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -34212,7 +37910,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -34240,7 +37941,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -34270,7 +37974,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -34300,7 +38007,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -34328,7 +38038,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -34358,7 +38071,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -34386,7 +38102,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -34416,7 +38135,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -34444,7 +38166,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -34474,7 +38199,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -34505,7 +38233,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -34533,13 +38264,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "下次再去要訂包廂"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -34561,7 +38297,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -34589,7 +38328,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -34619,7 +38361,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -34647,7 +38392,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -34677,7 +38425,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -34705,7 +38456,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -34733,7 +38487,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -34764,7 +38521,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -34792,7 +38552,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -34820,7 +38583,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -34850,7 +38616,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -34878,7 +38647,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -34908,7 +38680,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -34938,7 +38713,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -34968,7 +38746,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -34996,7 +38777,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -35026,7 +38810,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -35054,7 +38841,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -35084,7 +38874,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -35112,16 +38905,20 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "yes",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 設有遊戲區或提供玩具讓小孩放電。",
     "card_summary": "",
     "signals": [
       "兒童餐覺得實在是太迷你價錢偏高",
-      "會稍微「熱鬧」"
+      "會稍微「熱鬧」",
+      "小朋友遊戲區可以看書"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": 4,
+    "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -35143,7 +38940,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -35173,7 +38973,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -35203,7 +39006,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -35231,7 +39037,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -35259,7 +39068,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -35287,7 +39099,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -35318,7 +39133,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -35349,7 +39167,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -35379,7 +39200,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -35409,7 +39233,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -35440,7 +39267,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -35468,7 +39298,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -35498,7 +39331,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -35526,7 +39362,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -35556,13 +39395,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "訂了三樓包廂10人一桌但沒點桌菜隨各人喜好點"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -35584,7 +39428,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -35614,7 +39461,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -35644,7 +39494,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -35672,7 +39525,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -35700,7 +39556,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -35730,7 +39589,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -35758,7 +39620,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -35786,7 +39651,10 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -35817,7 +39685,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -35847,7 +39718,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -35877,7 +39751,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -35905,7 +39782,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -35936,7 +39816,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -35966,7 +39849,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -35996,7 +39882,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -36026,16 +39915,20 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
       "空間寬敞&廁所乾淨加分❤️",
-      "所以用餐時間稍稍難免會有吵雜"
+      "所以用餐時間稍稍難免會有吵雜",
+      "其他的用餐區域有大型包廂也有沙發四人座"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -36057,7 +39950,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -36085,7 +39981,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -36113,7 +40012,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -36143,7 +40045,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -36171,7 +40076,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -36199,7 +40107,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -36227,7 +40138,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -36255,14 +40169,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
-      "東區那條巷子安靜得剛好"
+      "東區那條巷子安靜得剛好",
+      "這次與朋友相約在包廂裡"
     ],
-    "parent_friendly_score": -2,
+    "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -36285,7 +40203,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -36315,7 +40236,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -36345,7 +40269,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -36375,7 +40302,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -36403,7 +40333,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -36433,7 +40366,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -36463,7 +40399,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -36491,7 +40430,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -36521,7 +40463,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -36551,7 +40496,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -36581,7 +40529,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -36609,7 +40560,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -36639,7 +40593,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -36669,7 +40626,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -36697,7 +40657,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -36727,7 +40690,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -36757,7 +40723,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -36788,7 +40757,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -36818,7 +40790,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -36846,7 +40821,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -36876,7 +40854,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -36904,7 +40885,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -36935,7 +40919,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -36965,7 +40952,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -36993,14 +40983,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
-      "也是我們這群人最吵鬧😆"
+      "也是我們這群人最吵鬧😆",
+      "真心推薦是情侶約會、閨蜜聚會、慶生包場、續攤宵夜必來的水煙餐酒館"
     ],
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -37023,7 +41017,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -37053,7 +41050,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -37081,7 +41081,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -37109,13 +41112,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "也很適合像我們年底這種小尾牙或生日派對"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -37137,7 +41145,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -37165,7 +41176,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -37193,7 +41207,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -37223,7 +41240,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -37253,7 +41273,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -37283,7 +41306,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -37311,7 +41337,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -37339,7 +41368,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -37367,7 +41399,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -37397,14 +41432,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點。",
+    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
+      "有水杯、餐具、兒童餐具、衛生紙、置物籃",
       "有水杯、餐具、兒童餐具、衛生紙、置物籃"
     ],
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -37427,7 +41466,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -37455,7 +41497,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -37483,7 +41528,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -37513,7 +41561,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -37541,7 +41592,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -37571,7 +41625,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -37601,7 +41658,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -37631,7 +41691,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -37659,7 +41722,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -37690,7 +41756,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -37718,7 +41787,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -37746,7 +41818,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -37774,7 +41849,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -37802,7 +41880,10 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -37833,7 +41914,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -37861,7 +41945,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -37889,7 +41976,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -37917,7 +42007,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -37945,7 +42038,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -37973,7 +42069,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -38001,7 +42100,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -38029,7 +42131,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -38059,7 +42164,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -38087,7 +42195,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -38118,7 +42229,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
     "card_summary": "",
@@ -38148,7 +42262,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -38176,7 +42293,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -38207,7 +42327,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -38235,15 +42358,19 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
-      "八位大人一位小孩（友善提供兒童座椅及餐具）"
+      "八位大人一位小孩（友善提供兒童座椅及餐具）",
+      "包廂有低消"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -38265,7 +42392,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -38293,7 +42423,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -38324,7 +42457,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -38354,7 +42490,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -38382,7 +42521,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -38410,7 +42552,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -38438,13 +42583,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "下次部門聚餐要包場辦在這裡😋"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -38466,7 +42616,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -38494,7 +42647,10 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅。",
     "card_summary": "",
@@ -38524,7 +42680,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -38555,7 +42714,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -38585,7 +42747,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -38613,13 +42778,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "外間約有4個不同大小的圓桌、1-2個小方桌？內間（包廂？）不確定有幾桌"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -38641,7 +42811,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -38671,7 +42844,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點。",
     "card_summary": "",
@@ -38701,13 +42877,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "可能因為坐包廂 所以要找服務人員不是很方便"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -38729,7 +42910,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -38757,7 +42941,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -38785,7 +42972,10 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅。",
     "card_summary": "",
@@ -38815,7 +43005,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -38846,7 +43039,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -38876,7 +43072,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -38904,7 +43103,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -38932,7 +43134,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -38962,7 +43167,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -38990,7 +43198,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -39018,7 +43229,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -39048,7 +43262,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -39078,7 +43295,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -39106,7 +43326,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -39134,7 +43357,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -39164,14 +43390,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
-      "雖然旁邊客人是有小孩的有一點吵雜但還算舒適"
+      "雖然旁邊客人是有小孩的有一點吵雜但還算舒適",
+      "到現場才發現原來餐廳有分包廂"
     ],
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -39194,7 +43424,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -39224,7 +43457,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -39254,7 +43490,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -39282,7 +43521,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -39312,7 +43554,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -39340,7 +43585,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -39370,7 +43618,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -39398,7 +43649,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -39428,7 +43682,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -39458,7 +43715,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -39488,7 +43748,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -39516,14 +43779,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
-      "Google 官方登記適合兒童用餐"
+      "Google 官方登記適合兒童用餐",
+      "還有獨立的包廂空間"
     ],
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -39546,7 +43813,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -39574,7 +43844,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -39602,7 +43875,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -39632,7 +43908,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
     "card_summary": "",
@@ -39662,7 +43941,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -39692,7 +43974,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -39724,16 +44009,20 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善, 貼心準備了兒童碗盤專用用具。",
     "card_summary": "",
     "signals": [
       "裡面一堆湯匙（包含有大湯匙、兒童餐具的小湯匙）很不甘願的拿了一支兒童小湯匙給我",
-      "Google 官方登記適合兒童用餐"
+      "Google 官方登記適合兒童用餐",
+      "裡面一堆湯匙（包含有大湯匙、兒童餐具的小湯匙）很不甘願的拿了一支兒童小湯匙給我"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -39755,7 +44044,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -39785,7 +44077,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -39813,7 +44108,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -39841,14 +44139,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
     "signals": [
-      "座位擁擠"
+      "座位擁擠",
+      "改裝後也能提供可以容納10個人的包廂空間"
     ],
-    "parent_friendly_score": -2,
+    "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -39871,7 +44173,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -39899,7 +44204,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -39929,13 +44237,18 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "yes",
+      "has_tableware": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳設有包廂或可提供包場聚會辦活動。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "包廂隔音還需加強"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -39957,7 +44270,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -39985,7 +44301,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "no",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
@@ -40015,7 +44334,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -40043,7 +44365,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -40071,7 +44396,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -40099,7 +44427,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -40129,7 +44460,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -40157,7 +44491,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -40185,7 +44522,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -40213,7 +44553,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -40241,7 +44584,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -40269,7 +44615,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -40299,7 +44648,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
@@ -40327,7 +44679,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -40357,7 +44712,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
@@ -40388,7 +44746,10 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
     "card_summary": "",
