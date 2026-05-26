@@ -26,7 +26,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -46,17 +46,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "位子不多，建議要訂位"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -84,7 +82,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -104,17 +102,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "其實不用等很久，但實際上餐廳裡面的桌子只有7桌，進場必須要跟人併桌用餐、兩個人來吃飯最適合，人多餐廳就不好安排。"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -142,7 +138,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -170,7 +166,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -191,20 +187,14 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
-    "signals": [
-      "整桌同事吃得非常開心，氣氛也越來越熱絡。",
-      "店內還收藏了許多從民國51年至今不同版本的大同寶寶，以及各種充滿兒時回憶的小物，彷彿走進一段時光隧道。",
-      "進門有柑仔店的感覺",
-      "尤其是看到那大同娃娃牆",
-      "店內佈置很復古，很多古早味零食跟大同寶寶，帶長輩來吃很有懷舊的味道"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -222,19 +212,20 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E8%80%81%E7%88%BA%E5%B0%8F%E8%8A%B1%E5%9C%92&query_place_id=ChIJ-_VdlmGpQjQRzQLgorNNDLA",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%80%81%E7%88%BA%E5%B0%8F%E8%8A%B1%E5%9C%92&query_place_id=ChIJ-_VdlmGpQjQRzQLgorNNDLA",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "no",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
     "signals": [
+      "包括高腳椅區都沒有人使用",
       "Google 官方登記適合兒童用餐"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -257,18 +248,15 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "店家提供嬰兒座椅，且氣氛熱鬧適合親子用餐，餐點中也有適合兒童的選項。",
-    "card_summary": "店家提供嬰兒座椅，且氣氛熱鬧適合親子用餐，餐點中也有適合兒童的選項。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "沒想到店員非常友善！幫我們準備嬰兒座椅及兒童碗盤",
-      "整體氣氛很熱鬧",
-      "銷魂飯是嫩牛片配上微辣的飯，辛香味很夠，加上半生熟蛋的加持，大人小孩也停不下來。",
-      "孩子很喜歡吃魚，我們點了招牌福氣魚 ，沒有想過肉質這麼細嫩～",
-      "孩子點了紅茶奶蓋，順口不膩"
+      "幫我們準備嬰兒座椅及兒童碗盤",
+      "整體氣氛很熱鬧"
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -296,7 +284,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -326,7 +314,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -357,7 +345,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -385,7 +373,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -415,7 +403,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -443,7 +431,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -473,7 +461,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -497,11 +485,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -525,11 +513,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -549,17 +537,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "不過內用座位不算多，所以也無法訂位，只能現場候位，門口備有候位座椅。"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -587,7 +573,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -617,7 +603,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -645,7 +631,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -668,17 +654,14 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "餐廳座位寬敞、空間大且明亮乾淨，適合聚餐。然而，評論中未明確提及兒童椅、兒童餐或對孩童噪音的容忍度。",
-    "card_summary": "餐廳座位寬敞、空間大且明亮乾淨，適合聚餐，然而。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "座位寬敞乾淨舒適",
-      "空間大、乾淨、美，很舒服的設計風格。",
-      "空間明亮乾淨，座位寬敞",
-      "適合白天聚餐"
+      "座位寬敞乾淨舒適"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -708,7 +691,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -738,7 +721,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -762,11 +745,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -796,7 +779,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -824,7 +807,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -833,8 +816,8 @@ const restaurantData = [
     "address": "112台灣台北市北投区学园路1號北藝大校園內-關渡美術館2樓 1號 二樓, 關渡美術館",
     "formatted_address": "112台灣台北市北投区学园路1號北藝大校園內-關渡美術館2樓 1號 二樓, 關渡美術館",
     "district": "",
-    "rating": "4.6",
-    "user_ratings_total": 189,
+    "rating": "4.5",
+    "user_ratings_total": 196,
     "price_level": null,
     "cuisine": "早午餐",
     "latitude": 25.133525499999998,
@@ -843,22 +826,19 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Luguo%20Cafe&query_place_id=ChIJ1-Osh6CvQjQRE5DbEVM_GGk",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
-      "spacious_seating": "unknown",
+      "kids_menu": "no",
+      "spacious_seating": "yes",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "評論中提及餐廳環境安靜、寧謐，適合一個人閱讀或輕聲交談，可能不太適合帶小孩。",
-    "card_summary": "該餐廳環境較安靜，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
     "signals": [
-      "很安靜餐點都有給學生的優惠",
-      "瞬間回神發現這裡增添一份寧謐，遠離塵囂的感覺，是多麼悠閒自得！",
-      "氛圍寧靜舒服，很適合一個人帶著書或筆電來待著。",
-      "如果你喜歡安靜又帶點文藝氛圍的空間",
-      "無論是想一個人靜靜地享受咖啡，或是與朋友輕聲交談，這裡都是一個很適合的空間。"
+      "外面有著寬闊的視野",
+      "很安靜餐點都有給學生的優惠"
     ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -876,17 +856,19 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E8%96%87%E7%93%A6%E7%90%AA%E7%BE%A9%E5%BC%8F%E9%A4%90%E9%85%92%E9%A4%A8&query_place_id=ChIJ1-W8w1GvQjQRZu52WCjFKP0",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%96%87%E7%93%A6%E7%90%AA%E7%BE%A9%E5%BC%8F%E9%A4%90%E9%85%92%E9%A4%A8&query_place_id=ChIJ1-W8w1GvQjQRZu52WCjFKP0",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "signals": [
+      "進店左側吧檯5張高腳椅"
+    ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -916,7 +898,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -946,18 +928,18 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJ13WfAXupQjQRPSGT92Z0z88",
     "name": "咖啡實驗室",
-    "address": "100台灣臺北市中正區忠孝東路二段64巷6號",
-    "formatted_address": "100台灣臺北市中正區忠孝東路二段64巷6號",
+    "address": "100台灣臺北市中正區幸福里忠孝東路二段64巷6號",
+    "formatted_address": "100台灣臺北市中正區幸福里忠孝東路二段64巷6號",
     "district": "中正區",
-    "rating": "4.5",
-    "user_ratings_total": 771,
-    "price_level": null,
+    "rating": "4.6",
+    "user_ratings_total": 788,
+    "price_level": "PRICE_LEVEL_MODERATE",
     "cuisine": "咖啡廳",
     "latitude": 25.0429973,
     "longitude": 121.5286123,
@@ -965,20 +947,16 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%92%96%E5%95%A1%E5%AF%A6%E9%A9%97%E5%AE%A4&query_place_id=ChIJ13WfAXupQjQRPSGT92Z0z88",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "kids_menu": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠、環境較安靜，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠且環境較安靜，帶小孩前往需多加留意。",
-    "signals": [
-      "環境非常安靜。",
-      "空間不大，但整體很舒服。",
-      "店內播放輕爵士，讓人不自覺氣質起來~（怕會破壞店裡的氣氛，所以急忙把手機開靜音）"
-    ],
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
+    "signals": [],
     "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1008,7 +986,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1038,7 +1016,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1066,7 +1044,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1086,17 +1064,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "唯獨可惜的是餐廳的空間稍微狹隘了一些。"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1126,7 +1102,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1150,11 +1126,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1184,7 +1160,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1214,7 +1190,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1242,7 +1218,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1272,7 +1248,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1300,7 +1276,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1328,7 +1304,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1352,11 +1328,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1380,11 +1356,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1412,7 +1388,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1442,7 +1418,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1465,14 +1441,14 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "空間環境很寬敞，聚餐很適合～"
+      "空間環境很寬敞"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1500,7 +1476,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1524,11 +1500,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1556,7 +1532,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1586,7 +1562,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1619,7 +1595,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 5,
     "parent_friendly_level": "高",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1647,7 +1623,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1677,7 +1653,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1707,7 +1683,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1735,7 +1711,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1763,18 +1739,18 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJ27QZUW6sQjQRKdZidoV-nAY",
     "name": "Marcus老倉庫內湖店",
-    "address": "114台灣臺北市內湖區瑞光路583巷25號1樓",
-    "formatted_address": "114台灣臺北市內湖區瑞光路583巷25號1樓",
+    "address": "114台灣臺北市內湖區西湖里瑞光路583巷25號1樓",
+    "formatted_address": "114台灣臺北市內湖區西湖里瑞光路583巷25號1樓",
     "district": "內湖區",
     "rating": "4.4",
-    "user_ratings_total": 6375,
-    "price_level": null,
+    "user_ratings_total": 6394,
+    "price_level": "PRICE_LEVEL_MODERATE",
     "cuisine": "早午餐",
     "latitude": 25.0807832,
     "longitude": 121.5678828,
@@ -1782,20 +1758,20 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Marcus%E8%80%81%E5%80%89%E5%BA%AB%E5%85%A7%E6%B9%96%E5%BA%97&query_place_id=ChIJ27QZUW6sQjQRKdZidoV-nAY",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
+      "kids_menu": "yes",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
       "店內空間寬敞舒適",
-      "餐廳的空間很大，寬敞舒適。",
-      "空間寬敞舒適！"
+      "Google 官方登記提供兒童餐點",
+      "Google 官方登記適合兒童用餐"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1825,7 +1801,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1855,7 +1831,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1879,11 +1855,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1911,7 +1887,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1942,7 +1918,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -1963,18 +1939,17 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "no"
     },
-    "ai_summary": "餐廳空間寬敞舒適，用餐氛圍安靜且適合家庭聚餐。",
-    "card_summary": "餐廳空間寬敞舒適，用餐氛圍安靜且適合家庭聚餐。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
     "signals": [
-      "整體空間寬敞舒適，燈光柔和不刺眼，給人一種沉穩又放鬆的氛圍，很適合家庭聚餐或朋友聚會。",
-      "整體用餐氛圍安靜舒適，非常適合家庭聚餐。",
-      "整體而言每道菜都很不錯 很適合家庭聚餐🫶🏻"
+      "整體空間寬敞舒適",
+      "整體用餐氛圍安靜舒適"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2002,7 +1977,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2022,17 +1997,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
-    "signals": [
-      "餐廳空間很大"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2062,7 +2035,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2080,21 +2053,20 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=Skylark%E6%B4%8B%E9%A3%9F%E2%80%A7%E8%8A%B3%E9%84%B0%20%E5%A3%AB%E6%9E%97%E4%B8%AD%E5%B1%B1%E5%8C%97%E5%BA%97&query_place_id=ChIJ2VWqSkKuQjQRuQkg3lsruls",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Skylark%E6%B4%8B%E9%A3%9F%E2%80%A7%E8%8A%B3%E9%84%B0%20%E5%A3%AB%E6%9E%97%E4%B8%AD%E5%B1%B1%E5%8C%97%E5%BA%97&query_place_id=ChIJ2VWqSkKuQjQRuQkg3lsruls",
     "attributes": {
-      "high_chair_available": "yes",
+      "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "這間餐廳空間寬敞舒適，提供兒童餐，並且適合帶小孩前來用餐。",
-    "card_summary": "空間寬敞舒適，提供兒童餐，並且適合帶小孩前來用餐。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點。",
+    "card_summary": "",
     "signals": [
-      "最令人滿意的是空間寬敞，早餐時間客人不多，宜人的用餐空間。",
-      "有沙拉、義大利麵、燉飯、排餐、兒童餐",
-      "在士林想找一間能好好坐下來吃早午餐、慢慢聊天的地方，這裡會是安心的選擇。"
+      "最令人滿意的是空間寬敞",
+      "有沙拉、義大利麵、燉飯、排餐、兒童餐"
     ],
-    "parent_friendly_score": 5,
-    "parent_friendly_level": "高",
-    "reason": "綜合評估",
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2122,7 +2094,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2150,7 +2122,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2178,7 +2150,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2208,7 +2180,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2236,7 +2208,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2264,7 +2236,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2292,7 +2264,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2320,7 +2292,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2348,7 +2320,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2378,7 +2350,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2406,7 +2378,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2438,7 +2410,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2466,7 +2438,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2496,7 +2468,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2524,7 +2496,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2554,7 +2526,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2578,11 +2550,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2614,7 +2586,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 4,
     "parent_friendly_level": "高",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2644,7 +2616,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2676,7 +2648,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2704,7 +2676,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2728,11 +2700,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2762,7 +2734,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2790,7 +2762,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2810,29 +2782,26 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "餐廳雖然不大，但是裝潢也很有品位；食物方面樣樣的味道都很不錯，披薩或他們的意大利麵必須多品嚐；服務方面也很好",
-      "餐廳裝潢由於沒裝天花板，客人講話聲產生回音，感覺有些吵。"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJ39G4keGtQjQRd5mdfKmFUlA",
     "name": "Atlas Brunch & Pasta 亞斯義大利麵",
-    "address": "114台灣臺北市內湖區民權東路六段296巷56號",
-    "formatted_address": "114台灣臺北市內湖區民權東路六段296巷56號",
+    "address": "114台灣臺北市內湖區葫洲里民權東路六段296巷56號",
+    "formatted_address": "114台灣臺北市內湖區葫洲里民權東路六段296巷56號",
     "district": "內湖區",
     "rating": "4.5",
-    "user_ratings_total": 921,
-    "price_level": null,
+    "user_ratings_total": 941,
+    "price_level": "PRICE_LEVEL_MODERATE",
     "cuisine": "義大利料理",
     "latitude": 25.0708248,
     "longitude": 121.6081639,
@@ -2840,16 +2809,18 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Atlas%20Brunch%20%26%20Pasta%20%E4%BA%9E%E6%96%AF%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5&query_place_id=ChIJ39G4keGtQjQRd5mdfKmFUlA",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
+      "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
+    "signals": [
+      "Google 官方登記適合兒童用餐"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2879,7 +2850,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2909,7 +2880,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2937,7 +2908,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2965,7 +2936,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -2988,16 +2959,15 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "店內氛圍熱鬧適合帶小孩，但座位間距較近且尖峰時段較擁擠，推車進出可能較不便。",
-    "card_summary": "對小孩聲音較為包容，但空間較擁擠，前往時需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "座位數量不少，但桌距偏近，用餐尖峰時段容易顯得擁擠。",
-      "但若想要安靜用餐",
-      "座位雖然有點擁擠但數量不少"
+      "用餐尖峰時段容易顯得擁擠",
+      "店內氛圍熱鬧"
     ],
     "parent_friendly_score": -1,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3027,7 +2997,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3047,19 +3017,19 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "yes",
-      "spacious_seating": "unknown",
+      "spacious_seating": "no",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "店內提供兒童餐且有家長帶小孩用餐，適合家庭聚會，但有評論反映桌面空間較小且兒童餐口味不盡理想。",
-    "card_summary": "店內提供兒童餐且有家長帶小孩用餐。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "兒童餐也很難吃尤其是漢堡排薯條連小孩也覺得不好吃吃一口就不吃了",
-      "我們有帶小孩還安排在中間的位置詢問是否可以換到沙發被拒絕但我們快吃完才有客人坐到那桌",
-      "上拼盤後，顯得桌子不大，有點擁擠"
+      "有點擁擠",
+      "首先等了90分鐘期望太高非常失望食物「非常」難吃不是普通的難吃根本跟夏威夷料理完全沒關係完全頂多就是台式夏威夷「風格」裝潢裝飾餐點而已主餐的牛肉送來還有血請他們二次加熱之後送來除了牛肉是溫溫的飯是溫冷的配菜也是兒童餐也很難吃尤其是漢堡排薯條連小孩也覺得不好吃吃一口就不吃了再來明明現場沒有到客滿卻無法自己選座位？？？我們有帶小孩還安排在中間的位置詢問是否可以換到沙發被拒絕但我們快吃完才有客人坐到那桌另一點服務人員感覺沒有接受過完善的教育訓練ㄧ問三不知還要問另一位服務員…總結完全不推薦",
+      "首先等了90分鐘期望太高非常失望食物「非常」難吃不是普通的難吃根本跟夏威夷料理完全沒關係完全頂多就是台式夏威夷「風格」裝潢裝飾餐點而已主餐的牛肉送來還有血請他們二次加熱之後送來除了牛肉是溫溫的飯是溫冷的配菜也是兒童餐也很難吃尤其是漢堡排薯條連小孩也覺得不好吃吃一口就不吃了再來明明現場沒有到客滿卻無法自己選座位？？？我們有帶小孩還安排在中間的位置詢問是否可以換到沙發被拒絕但我們快吃完才有客人坐到那桌另一點服務人員感覺沒有接受過完善的教育訓練ㄧ問三不知還要問另一位服務員…總結完全不推薦"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3089,7 +3059,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3117,7 +3087,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3147,7 +3117,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3175,7 +3145,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3203,7 +3173,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3231,7 +3201,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3259,7 +3229,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3279,18 +3249,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "店內主要用餐區位於二樓且無障礙設施較不足，對於攜帶嬰兒車的家長較不方便；目前評論中未提及兒童椅或兒童餐等具體資訊。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "需要注意的是店內沒有設置無障礙空間，對於行動不便者或推嬰兒車的客人可能會稍微不方便。",
-      "座位間距適中，但整體氛圍比較平淡。"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3320,7 +3287,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3340,18 +3307,17 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "店內空間寬敞且乾淨整潔，但環境氣氛較為安靜，適合久坐工作，可能較不適合怕吵鬧的親子客群。",
-    "card_summary": "空間較寬敞，但環境較安靜，前往時需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
     "signals": [
-      "空間很大舒服乾淨整潔",
-      "整體是我很喜歡的木質裝潢，氣氛很溫馨安靜，座位大多有插座，很適合久坐工作。"
+      "氣氛很溫馨安靜"
     ],
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3379,7 +3345,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3409,7 +3375,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3439,7 +3405,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3470,7 +3436,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3490,17 +3456,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "店內用餐空間非常擁擠且燈光昏暗，較不適合需要寬敞空間或推車的家庭。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "裡面座位超級擠、燈光極暗，三人要坐兩人桌，兩人也坐兩人桌⋯"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3530,7 +3494,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3558,7 +3522,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3576,19 +3540,20 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E6%A8%82%E8%8A%99%E5%91%B3%E8%94%AC%E9%A3%9F%E6%96%99%E7%90%86&query_place_id=ChIJ4c6jWmOsQjQRlsmQu2VQd8c",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%A8%82%E8%8A%99%E5%91%B3%E8%94%AC%E9%A3%9F%E6%96%99%E7%90%86&query_place_id=ChIJ4c6jWmOsQjQRlsmQu2VQd8c",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 用餐空間寬敞舒服。",
     "card_summary": "",
     "signals": [
+      "有高腳椅的座位區區",
       "走進室內顯得寬敞悠閒"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3618,7 +3583,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3649,7 +3614,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3679,7 +3644,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3709,7 +3674,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3729,17 +3694,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "店面不大，裝潢很簡單，平日下午有兩三桌都是很有氣質又悠閒的長者在用餐聊天～"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3759,18 +3722,17 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
-      "kid_noise_tolerant": "yes"
+      "spacious_seating": "yes",
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "餐廳氣氛活絡且適合家庭聚餐，但店內空間較小且桌距較窄，攜帶推車者可能較不便，建議可選擇戶外座位。",
-    "card_summary": "對小孩聲音較為包容，但空間較擁擠，前往時需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "店內空間不大桌距甚窄",
-      "幾乎每週都來，適合家庭聚餐，氣氛活絡，服務生也會隨時注意加水，非常棒的餐廳！"
+      "但所幸戸外用餐區尚稱寬闊舒適若不想受干擾且天氣許可或可選擇在室外用餐亦是一種不錯的安排"
     ],
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3798,7 +3760,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3828,7 +3790,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3846,20 +3808,21 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E4%BC%AF%E6%9C%97%E5%92%96%E5%95%A1%E9%A4%A8%20%E7%A7%91%E5%A4%A7%E6%A6%82%E5%BF%B5%E5%BA%97&query_place_id=ChIJ57TqDX2pQjQRd8b2xKxjsks",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%BC%AF%E6%9C%97%E5%92%96%E5%95%A1%E9%A4%A8%20%E7%A7%91%E5%A4%A7%E6%A6%82%E5%BF%B5%E5%BA%97&query_place_id=ChIJ57TqDX2pQjQRd8b2xKxjsks",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
     "signals": [
+      "座位形式多樣（高腳椅、大長桌、階梯座席、沙發區）",
       "• 空間寬敞多元： 挑高設計減少壓迫感",
       "外面一般座位就會比較吵雜"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "parent_friendly_score": 4,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3887,7 +3850,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3917,7 +3880,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3945,7 +3908,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -3976,7 +3939,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4004,7 +3967,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4032,7 +3995,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4060,7 +4023,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4090,7 +4053,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4120,7 +4083,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4148,7 +4111,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4176,7 +4139,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4204,7 +4167,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4234,7 +4197,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4262,7 +4225,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4292,7 +4255,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4322,7 +4285,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4352,7 +4315,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4382,7 +4345,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4412,7 +4375,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4442,7 +4405,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4472,7 +4435,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4500,7 +4463,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4528,7 +4491,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4549,19 +4512,16 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "餐廳適合家庭聚餐，餐點如鳳梨蝦球深受小朋友喜愛；但店內空間較擁擠且無電梯，攜帶推車可能較不方便。",
-    "card_summary": "對小孩聲音較為包容，但空間較擁擠，前往時需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
+    "card_summary": "",
     "signals": [
-      "這間餐廳不論價格，份量味道都適合家庭朋友聚餐，雖然美中不足，但仍推薦給想試試家常台菜的網友們。",
-      "鳯梨蝦球：蝦球很大顆，鳯梨甜又多，小朋友的最愛",
-      "六個人點太多菜，桌子偏小，稍嫌擁擠，但很合我們的胃口。",
-      "餐廳在2樓，招牌不明顯，沒有電梯。"
+      "稍嫌擁擠"
     ],
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4579,20 +4539,17 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E5%80%89%E5%BA%AB%E9%A3%9F%E7%A0%94%E6%89%80&query_place_id=ChIJ67abfVavQjQRscMhuF5_tQA",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E5%80%89%E5%BA%AB%E9%A3%9F%E7%A0%94%E6%89%80&query_place_id=ChIJ67abfVavQjQRscMhuF5_tQA",
     "attributes": {
-      "high_chair_available": "yes",
-      "kids_menu": "yes",
-      "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "high_chair_available": "unknown",
+      "kids_menu": "unknown",
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "店內提供小朋友番茄麵等兒童餐點，環境氣氛較為喧嘩且鄰近科教館，適合帶小孩前往用餐。",
-    "card_summary": "店內提供小朋友番茄麵等兒童餐點，環境氣氛較為喧嘩且鄰近科教館，適合帶小孩前往用餐。",
-    "signals": [
-      "小朋友番茄麵（附飲料） $270",
-      "環境是乾淨的，空間是喧嘩的，可能在傳統市場+科教館附近，有這樣的店存在是難得的，所以備受盛譽"
-    ],
-    "parent_friendly_score": 5,
-    "parent_friendly_level": "高",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4620,7 +4577,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4648,7 +4605,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4678,7 +4635,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4702,11 +4659,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4734,7 +4691,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4764,7 +4721,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4794,7 +4751,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4822,18 +4779,18 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJ6ZLHHYmrQjQRKeVAlEcW3Jk",
     "name": "BACKMOUNT.後山咖啡",
-    "address": "115台灣臺北市南港區福德街373巷23號",
-    "formatted_address": "115台灣臺北市南港區福德街373巷23號",
+    "address": "115台灣臺北市南港區仁福里福德街373巷23號",
+    "formatted_address": "115台灣臺北市南港區仁福里福德街373巷23號",
     "district": "南港區",
     "rating": "4.3",
-    "user_ratings_total": 739,
-    "price_level": null,
+    "user_ratings_total": 755,
+    "price_level": "PRICE_LEVEL_MODERATE",
     "cuisine": null,
     "latitude": 25.039683999999998,
     "longitude": 121.59143499999999,
@@ -4841,19 +4798,19 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=BACKMOUNT.%E5%BE%8C%E5%B1%B1%E5%92%96%E5%95%A1&query_place_id=ChIJ6ZLHHYmrQjQRKeVAlEcW3Jk",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
-      "spacious_seating": "yes",
+      "kids_menu": "yes",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "店內空間挑高開闊且明確標註為親子友善餐廳，適合家長帶小孩前往用餐。",
-    "card_summary": "店內空間挑高開闊且明確標註為親子友善餐廳，適合家長帶小孩前往用餐。",
+    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "內裡挑高空間開闊，，而且還看到一套很大的名牌音響，清柔播放著清晰音樂，真的很享受的情境。",
-      "十分熱門的咖啡店，親子友善。"
+      "Google 官方登記提供兒童餐點",
+      "Google 官方登記適合兒童用餐"
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4881,7 +4838,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4909,7 +4866,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4937,7 +4894,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4958,16 +4915,14 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "這家餐廳被評論為非常適合家庭聚餐，氛圍熱鬧且用餐時間充裕，但目前較少提及兒童椅或兒童餐等具體設施資訊。",
-    "card_summary": "被評論為非常適合家庭聚餐。",
-    "signals": [
-      "非常適合朋友聚餐或家庭聚餐，而且 座位區也能看到 101，增添不少用餐氛圍。"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -4995,7 +4950,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5025,7 +4980,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5053,7 +5008,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5081,17 +5036,17 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJ7-iV4NmpQjQR0aadctCL7hk",
     "name": "咖啡俱樂部 COFFEE CLUB",
-    "address": "100台灣臺北市中正區忠孝西路一段122號",
-    "formatted_address": "100台灣臺北市中正區忠孝西路一段122號",
+    "address": "100台灣臺北市中正區光復里忠孝西路一段122號",
+    "formatted_address": "100台灣臺北市中正區光復里忠孝西路一段122號",
     "district": "中正區",
     "rating": "4.6",
-    "user_ratings_total": 363,
+    "user_ratings_total": 378,
     "price_level": null,
     "cuisine": "咖啡廳",
     "latitude": 25.0473878,
@@ -5100,20 +5055,16 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%92%96%E5%95%A1%E4%BF%B1%E6%A8%82%E9%83%A8%20COFFEE%20CLUB&query_place_id=ChIJ7-iV4NmpQjQR0aadctCL7hk",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
-      "spacious_seating": "no",
-      "kid_noise_tolerant": "no"
+      "kids_menu": "no",
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "店內空間較小且環境氛圍安靜，較適合短暫休憩，目前評論中未提及兒童椅或兒童餐等親子友善設施。",
-    "card_summary": "該餐廳空間較擁擠且環境較安靜，帶小孩前往需多加留意。",
-    "signals": [
-      "單看店面以為很大一間 實際上小小的",
-      "這裡變得寧靜許多，再也聽不到喧鬧的車水馬龍的聲音，彷彿置身於另一個結界，給人一種鬧中取靜的感覺",
-      "比較適合小歇一下 不是給你坐著聊八卦的哈哈哈"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5143,7 +5094,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5173,7 +5124,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5201,7 +5152,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5231,7 +5182,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5259,7 +5210,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5283,11 +5234,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5315,7 +5266,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5335,19 +5286,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
-      "kid_noise_tolerant": "yes"
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "餐點口味受孩子喜愛，但店面空間較小且位於走道旁，座位環境相對受限。",
-    "card_summary": "對小孩聲音較為包容，但空間較擁擠，前往時需多加留意。",
-    "signals": [
-      "整體餐點符合期待，分享量恰恰好，雞肉的口感佳，孩子也吃的開心！",
-      "捷運1號出口走道旁的小店，要收10%清潔費，但原本的餐點費用在環球內也算低價位，重點是很好吃！！！",
-      "明明是美食街店，也不是真的坐在店內，是坐在店門口的走道上，只是店員會幫忙送餐上桌，就會算是內用，要加收10%服務費。"
-    ],
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5375,7 +5322,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5403,7 +5350,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5434,7 +5381,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5462,7 +5409,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5490,7 +5437,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5518,7 +5465,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5548,7 +5495,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5580,7 +5527,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5610,7 +5557,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5631,19 +5578,16 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "餐廳空間寬敞且桌距大，非常適合家庭聚餐，並設有明確的孩童收費優惠標準。",
-    "card_summary": "餐廳空間寬敞且桌距大，非常適合家庭聚餐，並設有明確的孩童收費優惠標準。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "餐桌間距夠寬，不會吵嘈，用餐環境舒適，服務態度好，旁邊就有停車場，真的是很優的用餐選擇，推薦！",
-      "空間寬敞乾淨，後方即有大型公有停車場，停車非常方便，適合家庭聚餐或帶長輩前往。",
-      "腹地算大，坐起來也不會太擁擠",
-      "孩童優惠 80公分以下 免費 81~100公分 清潔費120元 101公分～140公分 半價"
+      "環境優點： 空間寬敞乾淨"
     ],
-    "parent_friendly_score": 2,
+    "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5671,7 +5615,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5699,7 +5643,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5729,7 +5673,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5750,18 +5694,14 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "餐廳氛圍輕鬆且適合家庭聚餐，但目前評論中較少提及兒童椅、空間大小或兒童餐等具體資訊。",
-    "card_summary": "餐廳氛圍輕鬆且適合家庭聚餐。",
-    "signals": [
-      "星期日晚上一家五口去用餐",
-      "適合家庭或同事間的聚餐。",
-      "整體環境乾淨明亮，用餐氣氛也算輕鬆。"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5789,7 +5729,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5809,17 +5749,17 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "店內位子不多，空間也小小的，附近算好停機車，位於熱鬧的商圈，餐點現點現做要等上一陣子，還蠻好吃的！"
+      "位於熱鬧的商圈"
     ],
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5847,7 +5787,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5877,7 +5817,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5897,19 +5837,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "店內空間狹小且座位較為擁擠，不適合推車進入，目前評論中也未提及兒童椅或兒童餐等相關設施。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "店面空間不大，把外面的座位加進去也不是很多，大概跟一般小間拉麵店差不多大而已。",
-      "店面不大，以 L 型吧台為主，座位之間距離近一點，但也因此有種「看師傅現做、吃得很專心」的緊密感。",
-      "唯一的缺點就是位子太少、太小，會有一點擠。"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5929,17 +5865,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論提及該店僅提供外帶，無內用空間，且較少提及兒童餐或嬰兒椅等親子資訊。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "只能外帶😭"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5963,11 +5897,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -5991,11 +5925,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -6025,7 +5959,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -6055,7 +5989,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -6083,7 +6017,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -6106,14 +6040,14 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "店內空間寬敞且桌椅配置不擁擠，環境舒適，但目前評論中較少提及兒童椅或兒童餐等具體親子設施。",
-    "card_summary": "店內空間寬敞且桌椅配置不擁擠。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "空間寬敞，不會桌椅擠在一起"
+      "空間寬敞"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -6141,7 +6075,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -6159,30 +6093,29 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=Creative%20Pasta%20%E5%89%B5%E7%BE%A9%E9%BA%B5%20%E5%A3%AB%E6%9E%97%E5%BA%97&query_place_id=ChIJ8d31sryuQjQRYRWoyUaa2YM",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Creative%20Pasta%20%E5%89%B5%E7%BE%A9%E9%BA%B5%20%E5%A3%AB%E6%9E%97%E5%BA%97&query_place_id=ChIJ8d31sryuQjQRYRWoyUaa2YM",
     "attributes": {
-      "high_chair_available": "yes",
+      "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "餐廳對親子非常友善，店員會主動提供圖畫紙給小朋友，並細心確認孩童的客製化餐點需求。",
-    "card_summary": "餐廳對親子非常友善，店員會主動提供圖畫紙給小朋友，並細心確認孩童的客製化餐點需求。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "內用環境舒適，也很親子友善，假日圓框女店員服務超好，貼心又熱情，對於小朋友需求和客製化餐點都很仔細確認，還主動給小朋友圖畫紙打發時間。",
-      "創義麵的東西都蠻好吃的，每一家分店也不會有水準落差很大的狀況，整體來說吃起來味道都滿一致，也有很多創意的口味，親子/寵物友善，所以在用餐環境上可以自行評估。"
+      "也很親子友善"
     ],
-    "parent_friendly_score": 2,
+    "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Manual Update",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJ8e4b2r2tQjQRR3LLK-OpD_4",
     "name": "HSQ COFFEE",
-    "address": "114台灣臺北市內湖區民權東路六段121之1號",
-    "formatted_address": "114台灣臺北市內湖區民權東路六段121之1號",
+    "address": "114台灣臺北市內湖區湖元里民權東路六段121之1號",
+    "formatted_address": "114台灣臺北市內湖區湖元里民權東路六段121之1號",
     "district": "內湖區",
     "rating": "4.4",
-    "user_ratings_total": 262,
+    "user_ratings_total": 277,
     "price_level": null,
     "cuisine": "咖啡廳",
     "latitude": 25.069117499999997,
@@ -6191,18 +6124,16 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=HSQ%20COFFEE&query_place_id=ChIJ8e4b2r2tQjQRR3LLK-OpD_4",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
-      "spacious_seating": "yes",
+      "kids_menu": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "店內環境舒適自在，但目前評論中較少提及兒童椅、兒童餐等具體親子設施。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
-    "signals": [
-      "座位不多卻很舒服自在"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -6232,7 +6163,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -6253,17 +6184,17 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "這家餐廳環境寬敞舒適且明亮，並提供份量充足的兒童餐，非常適合帶小孩的家庭聚餐。",
-    "card_summary": "這家環境寬敞舒適且明亮，並提供份量充足的兒童餐，非常適合帶小孩的家庭聚餐。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點。",
+    "card_summary": "",
     "signals": [
-      "滿驚豔的 空間舒適寬敞，兒童餐夠一大一小（3歲）吃",
-      "環境很大也算明亮，餐點不會等太久，是線上點餐的方式，店員都很有禮貌，座位有雙人四人還有包廂的，選擇蠻多的，店往前一點就有一個停車場"
+      "滿驚豔的 空間舒適寬敞",
+      "兒童餐夠一大一小（3歲）吃"
     ],
-    "parent_friendly_score": 3,
-    "parent_friendly_level": "高",
-    "reason": "綜合評估",
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -6283,19 +6214,18 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
+      "spacious_seating": "no",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "根據評論顯示，該餐廳環境較安靜，帶小孩前往需多加留意。",
-    "card_summary": "空間較寬敞，但環境較安靜，前往時需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
     "signals": [
-      "內部空間很安靜舒適，不會太擁擠",
-      "浪漫的用餐氛圍加上溫暖的員工互動，讓整體體驗更加分。",
-      "客人五花八門，如果想要私密空間 建議訂包廂。"
+      "不會太擁擠",
+      "內部空間很安靜舒適"
     ],
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -6323,7 +6253,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -6351,7 +6281,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -6379,7 +6309,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -6410,7 +6340,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -6434,11 +6364,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -6466,7 +6396,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -6484,20 +6414,21 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=KONZY%20KAVA&query_place_id=ChIJ99ljC_urQjQR-bWiohgIPBg",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=KONZY%20KAVA&query_place_id=ChIJ99ljC_urQjQR-bWiohgIPBg",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 用餐空間寬敞舒服, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
     "signals": [
+      "高腳椅有些掉皮需要注意",
       "空間寬敞舒適",
       "店內算安靜"
     ],
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -6525,7 +6456,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -6557,7 +6488,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -6577,19 +6508,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "餐廳空間寬敞舒適，且評論提到適合家庭聚餐，對於攜帶小孩的家庭來說環境相對友善。",
-    "card_summary": "餐廳空間寬敞舒適，且評論提到適合家庭聚餐，對於攜帶小孩的家庭來說環境相對友善。",
-    "signals": [
-      "空間超大的超舒服的",
-      "非常大的店內只有我們和另一桌客人",
-      "價格超值很適合家庭聚餐或宴請朋友！"
-    ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -6617,7 +6544,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -6645,7 +6572,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -6673,7 +6600,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -6701,7 +6628,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -6729,7 +6656,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -6757,7 +6684,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -6787,7 +6714,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -6815,7 +6742,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -6845,7 +6772,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -6875,7 +6802,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -6903,17 +6830,17 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJA7xCuqirQjQRGwBOltepJQk",
     "name": "安好食 和平店",
-    "address": "106台灣臺北市大安區辛亥路二段201號1樓",
-    "formatted_address": "106台灣臺北市大安區辛亥路二段201號1樓",
+    "address": "106台灣臺北市大安區龍淵里辛亥路二段201號1樓",
+    "formatted_address": "106台灣臺北市大安區龍淵里辛亥路二段201號1樓",
     "district": "大安區",
     "rating": "4.4",
-    "user_ratings_total": 1223,
+    "user_ratings_total": 1254,
     "price_level": null,
     "cuisine": null,
     "latitude": 25.021663999999998,
@@ -6922,19 +6849,18 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%AE%89%E5%A5%BD%E9%A3%9F%20%E5%92%8C%E5%B9%B3%E5%BA%97&query_place_id=ChIJA7xCuqirQjQRGwBOltepJQk",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
-      "spacious_seating": "yes",
+      "kids_menu": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "店內用餐環境不錯且座位不少，曾有家長帶小孩前往用餐，但反映蛋餅皮較硬，小孩較難食用。",
-    "card_summary": "店內用餐環境不錯且座位不少。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "位於台大辛亥路側門的早餐店，座位不少，無紙本菜單採用座位掃描點餐，有多元支付，也有提供WiFi 。",
-      "小孩根本無法好好吃…。"
+      "Google 官方登記適合兒童用餐"
     ],
-    "parent_friendly_score": 2,
+    "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -6962,7 +6888,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -6985,27 +6911,25 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "店內用餐環境較為擁擠且桌面偏小，座位數量有限且常需併桌，對於追求寬敞空間的親子客群可能較不方便。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
+    "card_summary": "",
     "signals": [
-      "兩人桌桌面真的太小，多點一點都快放不下，跟隔壁座也沒有距離，用餐環境擁擠不舒適",
-      "位子因為用餐時間人多，而且桌數有限，所以1、2人來併桌很正常。",
-      "座位不多，等候的客人很多，店家或者合適邊邊區提供椅子供等候用。"
+      "用餐環境擁擠不舒適"
     ],
     "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJA9vu3HqrQjQRWhhwjOBFkcA",
     "name": "找諶 Chen’s Brunch",
-    "address": "115台灣臺北市南港區昆陽街58號",
-    "formatted_address": "115台灣臺北市南港區昆陽街58號",
+    "address": "115台灣臺北市南港區西新里昆陽街58號",
+    "formatted_address": "115台灣臺北市南港區西新里昆陽街58號",
     "district": "南港區",
     "rating": "4.4",
-    "user_ratings_total": 357,
-    "price_level": null,
+    "user_ratings_total": 363,
+    "price_level": "PRICE_LEVEL_INEXPENSIVE",
     "cuisine": null,
     "latitude": 25.052651,
     "longitude": 121.59280659999999,
@@ -7015,14 +6939,16 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
+    "signals": [
+      "Google 官方登記適合兒童用餐"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -7050,7 +6976,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -7078,7 +7004,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -7106,7 +7032,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -7126,18 +7052,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "餐廳空間寬敞且環境獨特，適合家庭聚餐，評論中提到曾有顧客帶小孩前往用餐。",
-    "card_summary": "餐廳空間寬敞且環境獨特，適合家庭聚餐，評論中提到曾有顧客帶小孩前往用餐。",
-    "signals": [
-      "空間很棒，別有洞天感。",
-      "這次和家人一起吃晚餐，5位大人，一位兒童，餐點好吃，戶外也適合多人聚餐"
-    ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -7168,7 +7091,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -7196,7 +7119,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -7224,7 +7147,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -7252,7 +7175,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -7282,7 +7205,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -7310,7 +7233,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -7338,7 +7261,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -7366,7 +7289,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -7397,7 +7320,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -7425,7 +7348,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -7453,7 +7376,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -7481,7 +7404,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -7505,11 +7428,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -7539,18 +7462,18 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJB3tqu_WpQjQR4k8D1g1BPUI",
     "name": "Q Burger 中山農安店(直營)",
-    "address": "104台灣臺北市中山區農安街170號",
-    "formatted_address": "104台灣臺北市中山區農安街170號",
+    "address": "104台灣臺北市中山區行政里農安街170號",
+    "formatted_address": "104台灣臺北市中山區行政里農安街170號",
     "district": "中山區",
     "rating": "4.1",
-    "user_ratings_total": 382,
-    "price_level": null,
+    "user_ratings_total": 387,
+    "price_level": "PRICE_LEVEL_INEXPENSIVE",
     "cuisine": "早午餐",
     "latitude": 25.0645542,
     "longitude": 121.5345043,
@@ -7560,14 +7483,16 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
+    "signals": [
+      "Google 官方登記適合兒童用餐"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -7595,7 +7520,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -7616,16 +7541,14 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "餐廳環境明亮且氛圍舒適，被評論者認為適合家庭小聚，但目前較少提及兒童椅或兒童餐等具體親子設施。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
-    "signals": [
-      "店內環境乾淨明亮，座位不算太多，但氛圍舒適，適合朋友聚餐或家庭小聚。"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -7646,17 +7569,14 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "這間餐廳非常適合家庭聚餐，評論提到餐點美味到讓小孩主動表示下次想再來，服務人員也相當親切。",
-    "card_summary": "非常適合家庭聚餐，評論提到餐點美味到讓小孩主動表示下次想再來，服務人員也相當親切。",
-    "signals": [
-      "不管你是招待親友、家庭聚餐、上山賞景品茶，他們的餐點及服務不會讓你失望。",
-      "好吃到小孩說下次要再來"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -7684,7 +7604,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -7712,7 +7632,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -7743,7 +7663,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -7771,7 +7691,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -7801,7 +7721,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -7829,7 +7749,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -7849,18 +7769,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "餐點水準一般、服務一般、環境偏小",
-      "小小的店 氣氛放鬆放鬆的 音樂不會太吵"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -7884,11 +7801,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -7916,7 +7833,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -7946,7 +7863,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -7977,17 +7894,17 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJBy9WAHyrQjQRCDU8Cp-PLAc",
     "name": "子木咖啡",
-    "address": "105台灣臺北市松山區延壽街412號",
-    "formatted_address": "105台灣臺北市松山區延壽街412號",
+    "address": "105台灣臺北市松山區龍田里延壽街412號",
+    "formatted_address": "105台灣臺北市松山區龍田里延壽街412號",
     "district": "松山區",
     "rating": "4.5",
-    "user_ratings_total": 183,
+    "user_ratings_total": 184,
     "price_level": null,
     "cuisine": null,
     "latitude": 25.056220699999997,
@@ -7997,21 +7914,19 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "yes",
-      "spacious_seating": "unknown",
+      "spacious_seating": "no",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "這是一家設有遊戲區的親子友善咖啡廳，提供寶寶餐且玩具質感佳，非常適合帶小孩前往放電。",
-    "card_summary": "這是一家設有遊戲區的親子友善咖啡廳，提供寶寶餐且玩具質感佳，非常適合帶小孩前往放電。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "感謝老闆願意提供親子空間，遊戲區讓孩子可以放電一下，老闆娘也親切有禮。",
-      "小朋友很喜歡店內的玩具，店內的玩具感覺是很用心挑選的，都是木頭材質，而且可以發揮創意的。",
-      "很難得有親子友善的咖啡廳。",
-      "小孩坐不住也沒關係，就放生去旁邊遊戲區，雖然不大，但童書、溜滑梯盪鞦韆、玩具也是應有盡有。",
-      "我點了寶寶餐來吃，漢堡排很多汁！茄汁飯也很夠味～"
+      "也不會感覺到擁擠",
+      "Google 官方登記提供兒童餐點",
+      "Google 官方登記適合兒童用餐"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8039,7 +7954,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8067,7 +7982,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8095,7 +8010,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8123,7 +8038,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8147,11 +8062,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8171,17 +8086,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "店內空間較為狹窄，評論反映店員會要求收起嬰兒車以免影響動線，對攜帶推車的家長較不方便。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "到了現場居然叫我們把嬰兒車收起來.怕影響到動線….（當然最後我是無視他們展開嬰兒車，本人無法抱者嬰兒3個小時）"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8211,7 +8124,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8242,7 +8155,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8266,11 +8179,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8301,7 +8214,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8321,17 +8234,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "店內空間較為狹窄，出入加湯或拿飲料可能較不方便，評論中未提及兒童椅或兒童餐等設施。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "店家內用位置，選到裡面的，之後要出來（加湯拿飲料）有點麻煩，位置比較窄。"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8359,7 +8270,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8387,7 +8298,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8417,7 +8328,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8445,7 +8356,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8473,7 +8384,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8503,7 +8414,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8531,7 +8442,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8561,7 +8472,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8589,7 +8500,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8617,7 +8528,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8647,7 +8558,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8675,7 +8586,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8693,17 +8604,19 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=Fika%20Fika%20Cafe%20A13&query_place_id=ChIJCdBOMP6rQjQRPExzFfbBQ9k",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Fika%20Fika%20Cafe%20A13&query_place_id=ChIJCdBOMP6rQjQRPExzFfbBQ9k",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "signals": [
+      "有慵懶沙發、高腳椅座位、小方桌"
+    ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8731,7 +8644,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8759,7 +8672,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8789,7 +8702,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8819,38 +8732,38 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJCyKuHW-sQjQRLbLgae6QWSU",
     "name": "Second Floor 貳樓西湖店",
-    "address": "114台灣臺北市內湖區內湖路一段300號",
-    "formatted_address": "114台灣臺北市內湖區內湖路一段300號",
+    "address": "114台灣臺北市內湖區西湖里內湖路一段300號",
+    "formatted_address": "114台灣臺北市內湖區西湖里內湖路一段300號",
     "district": "內湖區",
     "rating": "4.3",
-    "user_ratings_total": 6121,
-    "price_level": null,
+    "user_ratings_total": 6212,
+    "price_level": "PRICE_LEVEL_MODERATE",
     "cuisine": "美式料理",
     "latitude": 25.0818802,
     "longitude": 121.5687222,
     "url": "https://www.google.com/maps/search/?api=1&query=Second%20Floor%20%E8%B2%B3%E6%A8%93%E8%A5%BF%E6%B9%96%E5%BA%97&query_place_id=ChIJCyKuHW-sQjQRLbLgae6QWSU",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Second%20Floor%20%E8%B2%B3%E6%A8%93%E8%A5%BF%E6%B9%96%E5%BA%97&query_place_id=ChIJCyKuHW-sQjQRLbLgae6QWSU",
     "attributes": {
-      "high_chair_available": "yes",
+      "high_chair_available": "unknown",
       "kids_menu": "yes",
-      "spacious_seating": "yes",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "餐廳對兒童慶生非常用心，提供特別的佈置與蛋糕，且環境適合聚餐。",
-    "card_summary": "餐廳對兒童慶生非常用心，提供特別的佈置與蛋糕，且環境適合聚餐。",
+    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "兒童慶生還有特別的佈置與蛋糕，真的很用心～",
-      "適合聚餐，寵物友善的環境。"
+      "Google 官方登記提供兒童餐點",
+      "Google 官方登記適合兒童用餐"
     ],
-    "parent_friendly_score": 4,
-    "parent_friendly_level": "高",
-    "reason": "Manual Update",
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8874,11 +8787,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8906,7 +8819,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8930,11 +8843,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8954,21 +8867,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "餐廳內部空間寬敞且設有包廂，氛圍親切熱鬧，非常適合家庭聚餐與帶小孩前往。",
-    "card_summary": "餐廳內部空間寬敞且設有包廂，氛圍親切熱鬧，非常適合家庭聚餐與帶小孩前往。",
-    "signals": [
-      "往裡面走環境大有天地，還有包廂，讓人彷彿穿越時空，回到了那個京味巷弄濃厚的年代。",
-      "無論是與家人共享天倫之樂，還是與朋友聚會暢談，這裡都是不錯的選擇。",
-      "這裡的氛圍讓人感到親切，即使是陌生人也能因為一道菜而打成一片。",
-      "長輩們也會趁這個機會教導子女，如：夾菜時不可在盤子裡挑三揀四，這不僅是禮貌問題，也是對同桌的用餐人尊重。",
-      "聚餐的好地方"
-    ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -8996,7 +8903,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9019,16 +8926,14 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "店內氣氛十分熱鬧且放鬆，屬於不拘束的用餐環境，適合不怕吵雜的家庭聚餐。",
-    "card_summary": "店內氣氛十分熱鬧且放鬆，屬於不拘束的用餐環境，適合不怕吵雜的家庭聚餐。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "店內真的十分熱鬧，感覺大家都是很快樂且放鬆的在這裡聚餐。",
-      "喜歡熱鬧的可以去，大家喝開就吵起來大聲講話的氛圍。",
-      "適合朋友聚會的好地方，喝酒的氣氛很棒，還有很多的小遊戲可以玩。"
+      "但還是受老闆的好好照顧（真不好意思）店內真的十分熱鬧"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9049,17 +8954,14 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "店內氣氛熱鬧且適合聚會，雖然環境較為吵雜，但目前評論中較少提及兒童椅或兒童餐等具體親子設施。",
-    "card_summary": "店內氣氛熱鬧且適合聚會。",
-    "signals": [
-      "雖然店內非常吵，但推！",
-      "整體來說很好，適合下課下班的聚會。"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9087,7 +8989,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9111,11 +9013,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9143,7 +9045,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9171,7 +9073,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9201,7 +9103,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9229,7 +9131,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9259,7 +9161,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9280,18 +9182,16 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "店內空間寬敞明亮且座位充足，餐點口味也受到大人與小孩的喜愛，適合家庭聚餐。",
-    "card_summary": "店內空間寬敞明亮且座位充足，餐點口味也受到大人與小孩的喜愛，適合家庭聚餐。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "店內寬敞明亮，內用的座位很多，平日晚上客人不多上菜的速度非常快，每道菜份量跟口味都很不錯，比較可惜的是服務人員有點狀況外，不太知道怎麼招呼客人和整理桌面",
-      "加點的葡萄優格沙拉清爽，水果分量足夠，搭配腰果核桃等味道豐富，是大人小孩都喜歡的前菜。",
-      "座位算多，感覺是綜合西式美食，有美式brunch，義大利麵,薄餅pizza，西班牙燉飯，食物質量好！"
+      "店內寬敞明亮"
     ],
-    "parent_friendly_score": 2,
+    "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9319,7 +9219,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9349,7 +9249,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9379,7 +9279,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9407,7 +9307,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9435,7 +9335,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9456,16 +9356,14 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "餐廳環境適合聚餐與觀看運動賽事，氣氛較為熱鬧，但目前評論中較少提及兒童椅或兒童餐等具體親子設施。",
-    "card_summary": "環境適合聚餐與觀看運動賽事。",
-    "signals": [
-      "環境很適合朋友聚餐看運動賽事👍"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9485,18 +9383,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "店面空間精緻小巧、座位不多、建議打電話預約一下比較好！",
-      "店面小巧溫馨，讓人感覺十分舒適。"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9524,7 +9419,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9554,7 +9449,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9582,7 +9477,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9602,19 +9497,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "餐廳氣氛熱絡且環境舒服，評論提到適合親子同行，店內裝潢包含許多古玩具，氛圍歡樂。",
-    "card_summary": "餐廳氣氛熱絡且環境舒服，評論提到適合親子同行，店內裝潢包含許多古玩具，氛圍歡樂。",
-    "signals": [
-      "社區居酒屋很熱絡，有親子，好友，夫妻適合各式各樣的搭檔，沒啥壓力，口味不錯，尤其是串燒類，清酒順口。",
-      "整體用餐環境舒服、餐點美味，以後一定會常來！😌✨",
-      "優：氣氛歡樂，用很多古玩具裝潢"
-    ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9644,7 +9535,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9668,11 +9559,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9692,18 +9583,17 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "店內空間較為狹窄且走道不大，目前評論中未提及兒童椅或兒童餐等具體親子設施。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "店內用餐空間偏窄但不擁擠，入座會送上熱茶。",
-      "走道不大但座位不會擠"
+      "店內用餐空間偏窄但不擁擠"
     ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9733,7 +9623,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9761,7 +9651,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9789,7 +9679,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9809,18 +9699,17 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "餐廳環境乾淨且座位間距不壓迫，但評論提到環境較為安靜，且目前未有關於兒童椅或兒童餐的具體資訊。",
-    "card_summary": "空間較寬敞，但環境較安靜，前往時需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
     "signals": [
-      "非尖峰時段來用餐，環境安靜、座位間不壓迫，一個人吃鍋也能很放鬆。",
-      "用餐環境乾淨，味道也ok，所以還是很不錯。"
+      "環境安靜、座位間不壓迫"
     ],
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9848,7 +9737,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9878,7 +9767,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9910,7 +9799,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9940,7 +9829,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9961,17 +9850,14 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "有家長帶小孩前往用餐且店內氛圍放鬆舒適，但目前評論中未提及兒童椅、兒童餐或空間寬敞度等具體資訊。",
-    "card_summary": "有家長帶小孩前往用餐且店內氛圍放鬆舒適。",
-    "signals": [
-      "想說跨年夜跟小孩來去口袋名單吃，結果7點快8點都開店至少2、3小時了吧？",
-      "店內用餐氛圍放鬆舒服。"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -9989,17 +9875,19 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E5%8D%A1%E5%A4%9A%E6%91%A9%E5%AC%B0%E7%AB%A5%E9%A4%A8%20%E4%BF%A1%E7%BE%A9%E4%BF%A1%E5%AE%89%E5%BA%97&query_place_id=ChIJExvq5I2rQjQR2YB1WueooX8",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8D%A1%E5%A4%9A%E6%91%A9%E5%AC%B0%E7%AB%A5%E9%A4%A8%20%E4%BF%A1%E7%BE%A9%E4%BF%A1%E5%AE%89%E5%BA%97&query_place_id=ChIJExvq5I2rQjQR2YB1WueooX8",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "signals": [
+      "✓除了小嬰兒的食品奶粉、衣物、奶瓶、吸嘴、玩具、推車、汽座、高腳椅等"
+    ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10031,7 +9919,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10061,7 +9949,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10089,7 +9977,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10117,7 +10005,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10145,7 +10033,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10166,16 +10054,14 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "評論中有家長帶小孩前往用餐，孩子對店內的牛肉麵評價極高且會想再次造訪。",
-    "card_summary": "評論中有家長帶小孩前往用餐，孩子對店內的牛肉麵評價極高且會想再次造訪。",
-    "signals": [
-      "我家女孩兒晚上睡覺做夢還夢到大口吃牛肉麵，睡醒跟我說好想再吃喔~"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10203,7 +10089,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10231,7 +10117,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10259,17 +10145,17 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJFRwCvjitQjQRIUW3FrHbvlw",
     "name": "白菜小姐義式坊",
-    "address": "114台灣臺北市內湖區江南街71巷16弄40號",
-    "formatted_address": "114台灣臺北市內湖區江南街71巷16弄40號",
+    "address": "114台灣臺北市內湖區港墘里江南街71巷16弄40號",
+    "formatted_address": "114台灣臺北市內湖區港墘里江南街71巷16弄40號",
     "district": "內湖區",
     "rating": "4.6",
-    "user_ratings_total": 787,
+    "user_ratings_total": 799,
     "price_level": null,
     "cuisine": "義大利料理",
     "latitude": 25.0755914,
@@ -10280,16 +10166,17 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "從店門口是看不出來，裡面有這麼寬敞舒適，沉穩舒服的環境，很適合帶著寵物來消磨一餐，一個下午的感覺。"
+      "裡面有這麼寬敞舒適",
+      "Google 官方登記適合兒童用餐"
     ],
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10317,7 +10204,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10345,7 +10232,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10373,7 +10260,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10401,7 +10288,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10422,17 +10309,14 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
-    "signals": [
-      "非常適合聚餐的店",
-      "真的很適合聚餐"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10460,7 +10344,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10488,7 +10372,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10516,7 +10400,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10540,11 +10424,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10572,7 +10456,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10602,7 +10486,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10622,17 +10506,17 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "還是不給我們大一點比較好坐的位子"
+      "整體來說氣氛很熱鬧"
     ],
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10662,7 +10546,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10692,7 +10576,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10720,7 +10604,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10741,17 +10625,17 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "該餐廳空間較為擁擠，且因提供酒類飲品，環境可能較為吵雜，較不適合帶小孩前往。",
-    "card_summary": "該餐廳空間較擁擠且環境較安靜，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "只是空間不大，桌與桌的間距稍微擁擠。",
-      "坐在內部用餐，若碰到了喝的儘興的、太嗨的，還真覺得太吵。"
+      "室內座位較擁擠",
+      "在熱鬧的街道華西街裡面"
     ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10771,17 +10655,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
-    "signals": [
-      "假日下午已過用餐時段還是有不少人，還好店內座位夠多，沒有訂位可以直接入座，服務員都客氣有禮，之後有機會會再來用餐"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10805,11 +10687,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10839,7 +10721,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10867,7 +10749,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10895,7 +10777,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10923,7 +10805,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10943,18 +10825,17 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "餐廳環境舒適且座位間距寬敞，但氛圍較為幽靜，可能較適合喜歡安靜用餐的顧客。",
-    "card_summary": "空間較寬敞，但環境較安靜，前往時需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
     "signals": [
-      "環境幽靜，位子跟位子間距不會過近，就算是平日晚上人也是不少。",
-      "雖然菜色不算太多，但是整體吃起來的感覺很舒適，可能較適合喜歡安靜及不喜氣味太重的小夥伴用餐。"
+      "可能較適合喜歡安靜及不喜氣味太重的小夥伴用餐"
     ],
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -10982,7 +10863,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11010,7 +10891,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11041,7 +10922,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11071,7 +10952,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11094,14 +10975,15 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "該餐廳環境寬敞舒適，但目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
     "signals": [
-      "位於 南港LaLaport 5樓，空間寬敞明亮整潔，座位舒適平板點餐流程順暢直觀。"
+      "空間寬敞明亮整潔",
+      "店內氛圍安靜、有條理"
     ],
     "parent_friendly_score": -1,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11131,7 +11013,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11154,14 +11036,14 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
+    "card_summary": "",
     "signals": [
-      "座位稍微擁擠，平日人潮就不少，假日通常需要排隊，不過翻桌率很快"
+      "顛覆了傳統夜市老店的擁擠感"
     ],
     "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11189,7 +11071,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11220,7 +11102,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11250,7 +11132,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11278,7 +11160,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11308,7 +11190,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11336,7 +11218,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11366,7 +11248,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11390,11 +11272,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11422,7 +11304,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11450,7 +11332,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11480,7 +11362,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11508,18 +11390,18 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJHZ56gp6uQjQRYaoc4dyx2lM",
     "name": "吉祥小館",
-    "address": "111台灣臺北市士林區雨農路31號",
-    "formatted_address": "111台灣臺北市士林區雨農路31號",
+    "address": "111台灣臺北市士林區福志里雨農路31號",
+    "formatted_address": "111台灣臺北市士林區福志里雨農路31號",
     "district": "士林區",
     "rating": "4.3",
-    "user_ratings_total": 839,
-    "price_level": null,
+    "user_ratings_total": 845,
+    "price_level": "PRICE_LEVEL_MODERATE",
     "cuisine": "中式料理",
     "latitude": 25.0989039,
     "longitude": 121.53224080000001,
@@ -11527,18 +11409,18 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%90%89%E7%A5%A5%E5%B0%8F%E9%A4%A8&query_place_id=ChIJHZ56gp6uQjQRYaoc4dyx2lM",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
+      "kids_menu": "no",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "該餐廳氛圍適合家庭聚會，但目前評論中較少提及兒童座椅、兒童餐或空間大小等具體親子設施資訊，建議前往前可先向店家確認。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "很適合家庭聚會或是跟親朋好友來吃"
+      "Google 官方登記適合兒童用餐"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11556,19 +11438,20 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E5%92%96%E5%95%A1%E5%AD%B8%E4%BA%BA%20The%20Cafeist&query_place_id=ChIJHd5KQ2CpQjQRFy3A8Me8CCE",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%92%96%E5%95%A1%E5%AD%B8%E4%BA%BA%20The%20Cafeist&query_place_id=ChIJHd5KQ2CpQjQRFy3A8Me8CCE",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 但環境較安靜，可能不太適合好動吵鬧的小孩。",
     "card_summary": "",
     "signals": [
+      "以及窗台旁高腳椅區",
       "店內氣氛優雅安靜"
     ],
-    "parent_friendly_score": -2,
+    "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11586,21 +11469,17 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=Second%20Floor%20%E8%B2%B3%E6%A8%93%E4%B8%AD%E5%B1%B1%E5%8D%97%E8%A5%BF%E5%BA%97&query_place_id=ChIJHdyrxrWpQjQRVUx2nUhAuPs",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Second%20Floor%20%E8%B2%B3%E6%A8%93%E4%B8%AD%E5%B1%B1%E5%8D%97%E8%A5%BF%E5%BA%97&query_place_id=ChIJHdyrxrWpQjQRVUx2nUhAuPs",
     "attributes": {
-      "high_chair_available": "yes",
-      "kids_menu": "yes",
+      "high_chair_available": "unknown",
+      "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "貳樓中山南西店提供兒童椅、兒童餐，且環境對小孩吵鬧容忍度高，是非常推薦的親子友善餐廳。",
-    "card_summary": "提供兒童椅與兒童餐，對親子非常友善。",
-    "signals": [
-      "提供兒童椅",
-      "不怕小孩吵",
-      "小大人餐－起司蛋雞肉飯 270"
-    ],
-    "parent_friendly_score": 3,
-    "parent_friendly_level": "高",
-    "reason": "手動更新資料",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11628,7 +11507,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11659,7 +11538,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11683,11 +11562,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11707,17 +11586,17 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
     "signals": [
-      "南港展覽館周邊的居酒屋，空間不大，但氛圍感挺夠的～很舒服。"
+      "沒有什麼人很安靜"
     ],
     "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11737,17 +11616,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "8位成人安排一個小桌子，稍大圓桌須低消6000元, 平日午餐並沒有人潮，此安排非常不ok😂"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11775,7 +11652,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11805,7 +11682,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11833,7 +11710,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11861,7 +11738,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11891,7 +11768,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11915,11 +11792,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11949,7 +11826,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -11977,7 +11854,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12007,7 +11884,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12035,7 +11912,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12063,7 +11940,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12091,7 +11968,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12109,19 +11986,20 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=Grab%20a%20Bite%20%E5%B9%B8%E7%A6%8F%E6%8F%90%E9%A3%9F&query_place_id=ChIJIf-zrMyrQjQR_itasHwIbkc",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Grab%20a%20Bite%20%E5%B9%B8%E7%A6%8F%E6%8F%90%E9%A3%9F&query_place_id=ChIJIf-zrMyrQjQR_itasHwIbkc",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "no",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
     "signals": [
+      "還有一排高腳椅區（提供插座）",
       "Google 官方登記適合兒童用餐"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12149,7 +12027,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12177,7 +12055,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12205,7 +12083,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12235,7 +12113,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12263,7 +12141,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12291,7 +12169,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12311,19 +12189,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "只可惜店內空間有限，內用座位數量不是很多，建議先預約訂位可以減少在現場等待的時間",
-      "位子很少，兩人座有四桌、四人座三桌",
-      "餐廳位置較少候位等的蠻久的"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12351,7 +12225,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12381,7 +12255,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12412,7 +12286,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12440,7 +12314,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12463,14 +12337,14 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "餐廳環境寬敞舒適且桌距適中，適合家庭聚餐，但目前評論中較少提及兒童座椅、兒童餐點及對兒童噪音的包容度等具體資訊。",
-    "card_summary": "環境寬敞舒適且桌距適中。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "空間寬敞雅致、燈光柔和舒適，讓人一坐下就覺得放鬆愜意，每一張桌子之間保有一定距離，不會感覺擁擠。"
+      "就能感受到與一般中式餐廳不同的氛圍：空間寬敞雅致、燈光柔和舒適"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12500,7 +12374,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12530,7 +12404,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12560,7 +12434,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12583,14 +12457,14 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
     "signals": [
       "想要安靜的也有獨立包廂可提前預約"
     ],
     "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12610,17 +12484,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "平日中午到訪，店內位子不多，建議避開用餐尖峰時間！"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12643,14 +12515,14 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
+    "card_summary": "",
     "signals": [
       "有點擁擠的感覺"
     ],
     "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12680,7 +12552,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12708,7 +12580,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12726,17 +12598,19 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E7%89%A7%E5%B1%B1%E4%B8%98&query_place_id=ChIJK-3CxhWpQjQRCdqRFa1pamo",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%89%A7%E5%B1%B1%E4%B8%98&query_place_id=ChIJK-3CxhWpQjQRCdqRFa1pamo",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅。",
+    "card_summary": "",
+    "signals": [
+      "因沒訂位所以坐在一樓高腳椅的地方"
+    ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12764,7 +12638,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12792,7 +12666,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12816,11 +12690,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12850,7 +12724,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12880,7 +12754,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12900,18 +12774,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
-      "kid_noise_tolerant": "yes"
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "對小孩聲音較為包容，但空間較擁擠，前往時需多加留意。",
-    "signals": [
-      "覺得應該要給我們六人的位子",
-      "第一次來吃，店內氣氛歡樂，服務都很熱情，推薦的餐點都十分好吃"
-    ],
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12939,7 +12810,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12971,7 +12842,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -12992,16 +12863,14 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "該餐廳氛圍適合闔家聚餐，但目前評論中較少提及與親子用餐相關的具體設施資訊，建議前往前可先向店家確認。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
-    "signals": [
-      "第一次吃很驚艷，非常適合闔家聚餐約會。"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -13029,18 +12898,18 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJKcM2uWSrQjQRfon8d41sbGo",
     "name": "UMAMI 金色三麥",
-    "address": "110台灣臺北市信義區松智路17號7樓",
-    "formatted_address": "110台灣臺北市信義區松智路17號7樓",
+    "address": "110台灣臺北市信義區西村里松智路17號7樓",
+    "formatted_address": "110台灣臺北市信義區西村里松智路17號7樓",
     "district": "信義區",
     "rating": "4.2",
-    "user_ratings_total": 2267,
-    "price_level": null,
+    "user_ratings_total": 2302,
+    "price_level": "PRICE_LEVEL_EXPENSIVE",
     "cuisine": "酒吧/餐酒館",
     "latitude": 25.034398499999998,
     "longitude": 121.56617980000001,
@@ -13048,16 +12917,18 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=UMAMI%20%E9%87%91%E8%89%B2%E4%B8%89%E9%BA%A5&query_place_id=ChIJKcM2uWSrQjQRfon8d41sbGo",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
+      "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
+    "signals": [
+      "Google 官方登記適合兒童用餐"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -13085,7 +12956,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -13105,17 +12976,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "內用座位不多"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -13145,7 +13014,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -13173,7 +13042,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -13201,7 +13070,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -13232,7 +13101,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -13262,7 +13131,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -13285,15 +13154,15 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "該餐廳空間寬敞舒適，且環境較為熱鬧吵雜，適合聚會聊天。",
-    "card_summary": "空間寬敞舒適，且環境較為熱鬧吵雜，適合聚會聊天。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "整個裝潢很漂亮，空間寬敞明亮舒服，菜單選擇很多目不暇給！",
-      "生意很好，永遠客滿有點吵雜。"
+      "空間寬敞明亮舒服",
+      "永遠客滿有點吵雜"
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -13317,11 +13186,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -13341,17 +13210,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。店內用餐空間寬敞舒適，與鄰桌保持適當距離。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
-    "signals": [
-      "入座後覺得跟左右邊的鄰居們有一定距離，是很舒服的空間，說話也比較自在。"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -13379,7 +13246,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -13407,7 +13274,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -13435,7 +13302,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -13459,11 +13326,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -13483,17 +13350,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。店內環境舒適且服務親切。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
-    "signals": [
-      "位置都非常舒適主要是服務很好，也不會趕人走。"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -13523,7 +13388,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -13551,7 +13416,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -13572,16 +13437,14 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
-    "signals": [
-      "大家酒酣耳熱好不熱鬧，菜色有記憶點，很下飯"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -13605,11 +13468,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -13630,14 +13493,16 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
+    "signals": [
+      "環境偏吵雜"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -13665,7 +13530,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -13696,7 +13561,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -13724,7 +13589,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -13754,7 +13619,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -13774,18 +13639,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
-      "kid_noise_tolerant": "no"
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠、環境較安靜，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠且環境較安靜，帶小孩前往需多加留意。",
-    "signals": [
-      "只有兩桌，地方很小主廚一位",
-      "裝潢為工作室形式，一開始經過還有點不太敢推門進去哈"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -13813,7 +13675,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -13841,7 +13703,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -13871,7 +13733,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -13901,7 +13763,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -13931,17 +13793,17 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJM9l4kmOpQjQR9DEpCZWOlCM",
     "name": "遊霂食光 MuMu Land",
-    "address": "108台灣臺北市萬華區西園路一段145號號店坊B2樓-7",
-    "formatted_address": "108台灣臺北市萬華區西園路一段145號號店坊B2樓-7",
+    "address": "108台灣臺北市萬華區富民里西園路一段145號號店坊B2樓-7",
+    "formatted_address": "108台灣臺北市萬華區富民里西園路一段145號號店坊B2樓-7",
     "district": "萬華區",
     "rating": "4.9",
-    "user_ratings_total": 183,
+    "user_ratings_total": 192,
     "price_level": null,
     "cuisine": null,
     "latitude": 25.0360914,
@@ -13954,17 +13816,16 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "該餐廳提供兒童餐且設有兒童遊戲區，環境寬敞舒適，是非常適合親子用餐的友善店家。",
-    "card_summary": "提供兒童餐且設有兒童遊戲區，環境寬敞舒適，是非常適合親子用餐的友善店家。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "用餐環境舒適，座位也很寬敞，還有水可以喝，都是加分項目！",
-      "點了兩份餐+兒童餐 調味都滿原型的 很推薦！！",
-      "店內用餐環境看起來也不錯，應該是親子友善店家，店內還有兒童遊戲區。",
-      "原本看照片以為遊戲區玩具很少 結果小孩根本玩到不想回家🤣"
+      "座位也很寬敞",
+      "Google 官方登記提供兒童餐點",
+      "Google 官方登記適合兒童用餐"
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -13992,7 +13853,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -14016,11 +13877,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -14043,14 +13904,14 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "店內環境寬敞且適合包場，但目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "店內環境寬敞且適合包場。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "新店裝潢很明亮寬敞，菜色價位1500/2500，很適合包場，座位11位。"
+      "目前沒有時間限制🚫新店裝潢很明亮寬敞"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -14078,18 +13939,18 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJMUAZ63CpQjQRWLCOjtIeWkk",
     "name": "打卡咖啡館迪化店",
-    "address": "103台灣臺北市大同區民生西路410號",
-    "formatted_address": "103台灣臺北市大同區民生西路410號",
+    "address": "103台灣臺北市大同區永樂里民生西路410號",
+    "formatted_address": "103台灣臺北市大同區永樂里民生西路410號",
     "district": "大同區",
     "rating": "4.6",
-    "user_ratings_total": 195,
-    "price_level": null,
+    "user_ratings_total": 198,
+    "price_level": "PRICE_LEVEL_INEXPENSIVE",
     "cuisine": "咖啡廳",
     "latitude": 25.0568258,
     "longitude": 121.50907839999998,
@@ -14097,18 +13958,16 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%89%93%E5%8D%A1%E5%92%96%E5%95%A1%E9%A4%A8%E8%BF%AA%E5%8C%96%E5%BA%97&query_place_id=ChIJMUAZ63CpQjQRWLCOjtIeWkk",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "kids_menu": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "空間不大但很舒適的咖啡廳"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -14131,25 +13990,25 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "餐廳氛圍熱鬧且客群年齡層廣，適合家庭聚餐，但目前評論中未提及兒童座椅、空間大小及兒童餐點等具體親子設施資訊。",
-    "card_summary": "餐廳氛圍熱鬧且客群年齡層廣。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "整體上還不錯. 氛圍很熱鬧. 用餐年齡層也很廣."
+      "整體上還不錯. 氛圍很熱鬧. 用餐年齡層也很廣.  可以當作一個用餐小聚的選擇."
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJMUwgSuKrQjQRizcHD3amAgk",
     "name": "拉亞漢堡 台北錦州",
-    "address": "10491台灣臺北市中山區錦州街341號",
-    "formatted_address": "10491台灣臺北市中山區錦州街341號",
+    "address": "10491台灣臺北市中山區江寧里錦州街341號",
+    "formatted_address": "10491台灣臺北市中山區江寧里錦州街341號",
     "district": "中山區",
     "rating": "4.3",
-    "user_ratings_total": 1032,
-    "price_level": null,
+    "user_ratings_total": 1056,
+    "price_level": "PRICE_LEVEL_INEXPENSIVE",
     "cuisine": "早午餐",
     "latitude": 25.0603964,
     "longitude": 121.5396992,
@@ -14157,16 +14016,19 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%8B%89%E4%BA%9E%E6%BC%A2%E5%A0%A1%20%E5%8F%B0%E5%8C%97%E9%8C%A6%E5%B7%9E&query_place_id=ChIJMUwgSuKrQjQRizcHD3amAgk",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
+      "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
+    "signals": [
+      "Google 官方登記提供兒童餐點",
+      "Google 官方登記適合兒童用餐"
+    ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -14196,7 +14058,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -14226,7 +14088,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -14256,18 +14118,18 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJMXDWhoWpQjQRJvXnYteR7xE",
     "name": "Bistro O 避世所",
-    "address": "106台灣臺北市大安區師大路49巷3號2樓",
-    "formatted_address": "106台灣臺北市大安區師大路49巷3號2樓",
+    "address": "106台灣臺北市大安區古莊里師大路49巷3號2樓",
+    "formatted_address": "106台灣臺北市大安區古莊里師大路49巷3號2樓",
     "district": "大安區",
     "rating": "4.6",
-    "user_ratings_total": 832,
-    "price_level": null,
+    "user_ratings_total": 837,
+    "price_level": "PRICE_LEVEL_MODERATE",
     "cuisine": "酒吧/餐酒館",
     "latitude": 25.024302499999997,
     "longitude": 121.52877310000001,
@@ -14275,19 +14137,16 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Bistro%20O%20%E9%81%BF%E4%B8%96%E6%89%80&query_place_id=ChIJMXDWhoWpQjQRJvXnYteR7xE",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "kids_menu": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "店內座位較少且空間較為擁擠，環境較為吵雜，目前評論中未提及兒童相關設施或餐點。",
-    "card_summary": "該餐廳空間較擁擠且環境較安靜，帶小孩前往需多加留意。",
-    "signals": [
-      "店內空間關係顯得很吵雜（但也沒辦法）",
-      "店內空間關係顯得很吵雜（但也沒辦法），很看旁邊的客人如何。"
-    ],
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
+    "signals": [],
     "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -14315,7 +14174,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -14343,7 +14202,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -14373,7 +14232,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -14401,7 +14260,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -14429,7 +14288,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -14452,14 +14311,14 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "店內環境寬敞舒適且具設計感，但目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "店內環境寬敞舒適且具設計感。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "店內環境乾淨又有設計感，燈光柔和、位置寬敞，一個人來吃也不會尷尬。"
+      "燈光柔和、位置寬敞"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -14487,7 +14346,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -14511,11 +14370,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -14536,16 +14395,14 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
-    "signals": [
-      "很適合聚餐～"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -14573,7 +14430,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -14603,7 +14460,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -14631,7 +14488,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -14654,14 +14511,14 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "該餐廳對親子相當友善，環境氣氛熱鬧，家長帶小孩用餐較無壓力。目前關於空間與設備的具體資訊較少，建議前往前可先向店家確認。",
-    "card_summary": "環境氛圍熱鬧，對小孩聲音較為包容，是可以考慮的親子用餐地點。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "另外觀察了一下很多家長帶小朋友來用餐，算是「親子友善」😆小朋友哭鬧在這邊很平常，家長不用有壓力。"
+      "算是「親子友善」😆小朋友哭鬧在這邊很平常"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -14685,11 +14542,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -14717,7 +14574,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -14747,7 +14604,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -14771,22 +14628,22 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJN2UHYkCpQjQRwdxAiIhBEac",
     "name": "豐萃早午餐",
-    "address": "104台灣臺北市中山區撫順街9號",
-    "formatted_address": "104台灣臺北市中山區撫順街9號",
+    "address": "104台灣臺北市中山區集英里撫順街9號",
+    "formatted_address": "104台灣臺北市中山區集英里撫順街9號",
     "district": "中山區",
     "rating": "4.2",
-    "user_ratings_total": 434,
-    "price_level": null,
+    "user_ratings_total": 435,
+    "price_level": "PRICE_LEVEL_MODERATE",
     "cuisine": null,
     "latitude": 25.0637738,
     "longitude": 121.52140109999999,
@@ -14795,17 +14652,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "店內座位間距狹窄，且環境容易受鄰近客人談話影響而變得吵雜，目前評論中未提及親子友善設施。",
-    "card_summary": "該餐廳空間較擁擠且環境較安靜，帶小孩前往需多加留意。",
-    "signals": [
-      "如從其他評論出與做之間的距離真的很近，所以如果有人大聲講話整間店就是吵到不行。"
-    ],
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
+    "signals": [],
     "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -14833,7 +14688,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -14857,11 +14712,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -14889,7 +14744,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -14917,7 +14772,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -14945,7 +14800,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -14973,7 +14828,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -14996,16 +14851,14 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
+    "card_summary": "",
     "signals": [
-      "裡頭空間不大，桌椅擺設樸實，一樓、二樓都有座位；樓梯有些陡，對行動不便的人來說可能有些不便。",
-      "坐二樓桌距近、滿擁擠的。",
-      "缺點是二樓桌跟桌距離有點近、感覺座位有點擁擠。"
+      "坐二樓桌距近、滿擁擠的"
     ],
     "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -15033,7 +14886,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -15051,19 +14904,20 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=ABOUT%20H%20Coffee&query_place_id=ChIJNT6QrMCpQjQRH-6LmZg2YJk",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=ABOUT%20H%20Coffee&query_place_id=ChIJNT6QrMCpQjQRH-6LmZg2YJk",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
     "signals": [
+      "偷偷告訴你~ 一進門玻璃窗邊的高腳椅座位最受貓咪們青睞喔",
       "唯一小缺點 前往當日許多父母帶小孩一同前往 小孩較不受控音量很大 使整個環境變的些許吵雜"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -15091,7 +14945,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -15121,7 +14975,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -15145,11 +14999,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -15169,17 +15023,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "店面不大、座位僅有12個 因此強烈建議事先訂位！"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -15209,7 +15061,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -15237,7 +15089,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -15255,19 +15107,20 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%B4%90%E7%B4%84%E6%8A%AB%E8%96%A9%20%E4%B8%AD%E5%B1%B1%E5%BA%97%20LNYPIZZA%20Little%20New%20York%20Pizzeria%20Zhongshan&query_place_id=ChIJNb6GQrWpQjQRImUqecT3qcQ",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B0%8F%E7%B4%90%E7%B4%84%E6%8A%AB%E8%96%A9%20%E4%B8%AD%E5%B1%B1%E5%BA%97%20LNYPIZZA%20Little%20New%20York%20Pizzeria%20Zhongshan&query_place_id=ChIJNb6GQrWpQjQRImUqecT3qcQ",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
     "signals": [
+      "還是高腳椅（不穩會要搖晃）都不太好坐",
       "對於部分怕生討厭吵雜的內向者來說"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -15297,7 +15150,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -15320,17 +15173,14 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "餐廳環境寬敞舒適，動線規劃良好，但目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "島語的早餐環境挑高寬敞，採光極佳，用餐氛圍從容優雅。",
-      "餐廳裝潢亮麗，座位寬敞且走道預留充足，拿菜動線流暢。",
-      "空間很明亮乾淨，座位和隔桌之間也有一定距離不至於互相干擾。",
-      "環境很乾淨寬敞，路上有兩個洗手台。"
+      "島語的早餐環境挑高寬敞"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -15358,7 +15208,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -15386,7 +15236,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -15416,7 +15266,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -15444,7 +15294,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -15472,7 +15322,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -15500,7 +15350,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -15530,7 +15380,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -15548,19 +15398,20 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=ECM%20%E5%92%96%E5%95%A1%E8%A8%AA%E3%80%82%E5%96%9D%E5%92%96%E5%95%A1%E6%99%82%E9%96%93%EF%BC%9A%E9%80%B1%E5%85%AD12%3A00-18%3A30%EF%BC%8C%E5%B9%B3%E6%97%A5%E6%AD%A1%E8%BF%8E%E4%BD%BF%E7%94%A8line%E8%A8%82%E8%B3%BC%E5%92%96%E5%95%A1%E8%B1%86&query_place_id=ChIJNzly4QOqQjQRjAKHVyMJgfw",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=ECM%20%E5%92%96%E5%95%A1%E8%A8%AA%E3%80%82%E5%96%9D%E5%92%96%E5%95%A1%E6%99%82%E9%96%93%EF%BC%9A%E9%80%B1%E5%85%AD12%3A00-18%3A30%EF%BC%8C%E5%B9%B3%E6%97%A5%E6%AD%A1%E8%BF%8E%E4%BD%BF%E7%94%A8line%E8%A8%82%E8%B3%BC%E5%92%96%E5%95%A1%E8%B1%86&query_place_id=ChIJNzly4QOqQjQRjAKHVyMJgfw",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "no",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 但空間較為擁擠。",
     "card_summary": "",
     "signals": [
+      "約五個高腳椅就客滿",
       "店內比較擁擠不太適合內用"
     ],
-    "parent_friendly_score": -2,
+    "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -15588,18 +15439,18 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJO0Um2CmqQjQR1K5YldZ8Ibw",
     "name": "Oneway CAFE玩味咖啡",
-    "address": "106台灣臺北市大安區和平東路二段118巷38-1號",
-    "formatted_address": "106台灣臺北市大安區和平東路二段118巷38-1號",
+    "address": "106台灣臺北市大安區龍淵里和平東路二段118巷38-1號",
+    "formatted_address": "106台灣臺北市大安區龍淵里和平東路二段118巷38-1號",
     "district": "大安區",
     "rating": "4.7",
-    "user_ratings_total": 892,
-    "price_level": null,
+    "user_ratings_total": 915,
+    "price_level": "PRICE_LEVEL_INEXPENSIVE",
     "cuisine": null,
     "latitude": 25.0231064,
     "longitude": 121.5427824,
@@ -15607,18 +15458,16 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Oneway%20CAFE%E7%8E%A9%E5%91%B3%E5%92%96%E5%95%A1&query_place_id=ChIJO0Um2CmqQjQR1K5YldZ8Ibw",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "kids_menu": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "座位不多但推薦來看看！"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -15638,17 +15487,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "整體位置都偏擠，裝潢應該是有些許翻新過（不然就是真的保存的很好）但真的很可惜桌椅沒有配合場地做起來不會不舒服，但擺放的位置偶爾會讓人尷尬。"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -15671,15 +15518,14 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "餐廳用餐環境寬敞舒適，座位間距適當，但目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "餐廳用餐環境寬敞舒適。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "環境不錯，用餐環境明亮乾淨，位子算寬敞，也有不會被其他桌客人影響到的空間距離。",
-      "店內空間大、但座位也多。"
+      "位子算寬敞"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -15699,17 +15545,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "不過，座位配置真的比較緊湊一點，然後用餐時間跟低消都有規定，去之前要先注意一下時間安排。"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -15737,18 +15581,18 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJO6GuZb6sQjQRpNEp6bTjfr8",
     "name": "Seeking Café",
-    "address": "114台灣臺北市內湖區成功路五段420巷11號",
-    "formatted_address": "114台灣臺北市內湖區成功路五段420巷11號",
+    "address": "114台灣臺北市內湖區金湖里成功路五段420巷11號",
+    "formatted_address": "114台灣臺北市內湖區金湖里成功路五段420巷11號",
     "district": "內湖區",
-    "rating": "4.5",
-    "user_ratings_total": 225,
-    "price_level": null,
+    "rating": "4.6",
+    "user_ratings_total": 237,
+    "price_level": "PRICE_LEVEL_MODERATE",
     "cuisine": "咖啡廳",
     "latitude": 25.075314799999997,
     "longitude": 121.6077784,
@@ -15756,18 +15600,18 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Seeking%20Caf%C3%A9&query_place_id=ChIJO6GuZb6sQjQRpNEp6bTjfr8",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "kids_menu": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
     "signals": [
-      "雖然座位不多，但老闆、老闆娘熱情款待，咖啡香、氣氛好，值得推薦！"
+      "在康寧醫院附近的安靜社區"
     ],
     "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -15795,7 +15639,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -15823,7 +15667,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -15851,7 +15695,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -15879,7 +15723,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -15909,7 +15753,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -15930,16 +15774,14 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "該餐廳氛圍適合家庭聚餐，且有適合兒童食用的去骨鵝肉等菜色，整體環境對親子客群友善。",
-    "card_summary": "氛圍適合家庭聚餐，且有適合兒童食用的去骨鵝肉等菜色，整體環境對親子客群友善。",
-    "signals": [
-      "感覺很適合家庭或長輩來吃，兩個人也ok都適合，大家有來LALAPORT不妨可以吃吃看。"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -15970,7 +15812,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -15990,18 +15832,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "因為內用位置不多，建議先找位置再點餐，但翻桌率挺快的，用餐後要自行回收餐盤。",
-      "生意超好常要排隊、座無虛席併桌是常態"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -16031,7 +15870,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -16061,7 +15900,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -16091,7 +15930,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -16119,7 +15958,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -16150,7 +15989,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -16180,7 +16019,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -16204,11 +16043,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -16232,11 +16071,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -16264,7 +16103,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -16295,7 +16134,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -16323,7 +16162,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -16343,17 +16182,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "結果店雖小但客人不少，點了雞絲飯及舒肥雞胸飯，都還不錯，尤其是舒肥雞胸肉非常棒，值得推薦一下！"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -16384,7 +16221,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -16405,17 +16242,16 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "餐廳空間寬敞舒適，且地下室環境常有家庭聚會與小孩玩耍，氣氛相對熱鬧，適合親子前往。",
-    "card_summary": "餐廳空間寬敞舒適，且地下室環境常有家庭聚會與小孩玩耍，氣氛相對熱鬧，適合親子前往。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "整體環境乾淨、空間寬敞、服務親切、份量充足、價位合理、無用餐時間限制，願意再次來用餐。",
-      "通常地下室有位置，而且常常有聚會＆小孩玩玩具，地下室環境沒裝潢，隔壁聊天聲音聲聲入耳。"
+      "整體環境乾淨、空間寬敞、服務親切、份量充足、價位合理、無用餐時間限制"
     ],
-    "parent_friendly_score": 2,
+    "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -16443,7 +16279,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -16464,16 +16300,16 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。餐廳環境寬敞舒適，設有包廂。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "公司尾牙訂了20人大桌包廂, 座位夠寬敞, 帶一間廁所, 整體空間感很舒適不擁擠。"
+      "公司尾牙訂了20人大桌包廂, 座位夠寬敞, 帶一間廁所, 整體空間感很舒適不擁擠"
     ],
-    "parent_friendly_score": 2,
+    "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -16497,11 +16333,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -16529,7 +16365,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -16557,7 +16393,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -16580,14 +16416,15 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "餐廳環境寬敞舒適且氣氛活絡，適合家庭聚餐。",
-    "card_summary": "環境寬敞舒適且氣氛活絡，適合家庭聚餐。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "環境空間寬敞舒適，裝潢帶有泰式市集風格，適合家庭聚餐或朋友聚會。"
+      "環境空間寬敞舒適",
+      "但尖峰時段人多還是有點熱鬧"
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -16615,7 +16452,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -16645,7 +16482,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -16675,7 +16512,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -16699,11 +16536,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -16733,7 +16570,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -16761,7 +16598,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -16789,7 +16626,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -16819,7 +16656,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -16849,14 +16686,14 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJQ3o7S2SpQjQRe_XmRyh4OBY",
     "name": "台灣夯BAR串燒烤小店",
-    "address": "10454台灣臺北市中山區林森北路159巷4號",
-    "formatted_address": "10454台灣臺北市中山區林森北路159巷4號",
+    "address": "10454台灣臺北市中山區正義里林森北路159巷4號",
+    "formatted_address": "10454台灣臺北市中山區正義里林森北路159巷4號",
     "district": "中山區",
     "rating": "4.6",
     "user_ratings_total": 49,
@@ -16868,28 +16705,26 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8F%B0%E7%81%A3%E5%A4%AFBAR%E4%B8%B2%E7%87%92%E7%83%A4%E5%B0%8F%E5%BA%97&query_place_id=ChIJQ3o7S2SpQjQRe_XmRyh4OBY",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
+      "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。不過根據評論，該餐廳環境適合家庭聚餐。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
-    "signals": [
-      "假日來生意挺好的，不管是朋友、情侶還是家人用餐都算適合"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJQ6qFRCSrQjQRf5i_pjyKv0M",
     "name": "MA CAFE",
-    "address": "106台灣臺北市大安區敦化南路二段11巷1號",
-    "formatted_address": "106台灣臺北市大安區敦化南路二段11巷1號",
+    "address": "106台灣臺北市大安區義安里敦化南路二段11巷1號",
+    "formatted_address": "106台灣臺北市大安區義安里敦化南路二段11巷1號",
     "district": "大安區",
     "rating": "4.4",
-    "user_ratings_total": 166,
+    "user_ratings_total": 174,
     "price_level": null,
     "cuisine": null,
     "latitude": 25.032674999999998,
@@ -16898,19 +16733,19 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=MA%20CAFE&query_place_id=ChIJQ6qFRCSrQjQRf5i_pjyKv0M",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
+      "kids_menu": "no",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "店內一樓空間寬敞，但二樓環境較為安靜，多為讀書或使用筆電的顧客，可能較不適合攜帶幼童。",
-    "card_summary": "空間較寬敞，但環境較安靜，前往時需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
       "沒有上去二樓 但一樓很寬敞 環境也很好 是會一直拜訪的咖啡店 😚",
-      "二樓有一整排的靠窗座位可以使用插座，彷彿來到K書中心，大家都很安靜的使用筆電或看書，很喜歡的氛圍。"
+      "Google 官方登記適合兒童用餐"
     ],
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -16934,11 +16769,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -16968,7 +16803,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -16998,7 +16833,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -17026,7 +16861,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -17056,7 +16891,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -17079,14 +16914,14 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "該餐廳環境舒適且場地寬敞，適合家庭聚餐，但目前評論中較少提及兒童椅或兒童餐等具體親子設施資訊。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "今天是生日來信義店用餐，因爲環境舒適、場地寬敞，店內服務人員親切、主動認真，特別是Carina，落座一會兒便來詢問是否點餐？"
+      "因爲環境舒適、場地寬敞"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -17106,18 +16941,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "小小的店面，提供10位吧檯式座位",
-      "內用位子狹窄，坐在門邊的話會很冷"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -17145,7 +16977,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -17173,7 +17005,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -17201,7 +17033,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -17231,7 +17063,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -17259,7 +17091,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -17287,7 +17119,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -17317,7 +17149,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -17337,17 +17169,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "和之前悅客相比店面不大，但是店員與顧客的距離更近更有溫度了，就像鐵板上的牛排一樣（離題了😅）。"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -17371,11 +17201,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -17403,7 +17233,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -17434,7 +17264,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -17457,14 +17287,14 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "根據評論顯示，該餐廳環境較安靜，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳環境較安靜，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
     "signals": [
-      "用餐空間乾淨舒適，氣氛安靜不吵雜，適合朋友聚餐、情侶約會，或想好好吃一頓飯的時候。"
+      "氣氛安靜不吵雜"
     ],
     "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -17484,17 +17314,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "雖然店面不大，座位有限，但這卻為用餐體驗增添了一份獨特的親密感。"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -17514,17 +17342,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "餐廳不大但來客不少，味道中等。"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -17552,7 +17378,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -17580,7 +17406,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -17608,18 +17434,18 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJRe6azGGpQjQRFcbUze7j7IU",
     "name": "疆毒串烤-南京店",
-    "address": "10491台灣臺北市中山區南京東路二段214巷4號",
-    "formatted_address": "10491台灣臺北市中山區南京東路二段214巷4號",
+    "address": "10491台灣臺北市中山區朱園里南京東路二段214巷4號",
+    "formatted_address": "10491台灣臺北市中山區朱園里南京東路二段214巷4號",
     "district": "中山區",
     "rating": "4.5",
-    "user_ratings_total": 796,
-    "price_level": null,
+    "user_ratings_total": 803,
+    "price_level": "PRICE_LEVEL_INEXPENSIVE",
     "cuisine": "酒吧/餐酒館",
     "latitude": 25.051499,
     "longitude": 121.535967,
@@ -17627,18 +17453,16 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%96%86%E6%AF%92%E4%B8%B2%E7%83%A4-%E5%8D%97%E4%BA%AC%E5%BA%97&query_place_id=ChIJRe6azGGpQjQRFcbUze7j7IU",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
-      "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kids_menu": "no",
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "no"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "店面不大環境不錯的燒烤夜店"
-    ],
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
+    "signals": [],
     "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -17666,7 +17490,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -17694,7 +17518,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -17718,11 +17542,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -17752,18 +17576,18 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJS-zNIF-pQjQR1vU1UjOlTM4",
     "name": "威尼斯義大利餐廳",
-    "address": "104台灣臺北市中山區松江路235巷19號1樓",
-    "formatted_address": "104台灣臺北市中山區松江路235巷19號1樓",
+    "address": "104台灣臺北市中山區松江里松江路235巷19號1樓",
+    "formatted_address": "104台灣臺北市中山區松江里松江路235巷19號1樓",
     "district": "中山區",
     "rating": "4.4",
-    "user_ratings_total": 2772,
-    "price_level": null,
+    "user_ratings_total": 2800,
+    "price_level": "PRICE_LEVEL_MODERATE",
     "cuisine": "義大利料理",
     "latitude": 25.058964099999997,
     "longitude": 121.53427830000001,
@@ -17771,18 +17595,19 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A8%81%E5%B0%BC%E6%96%AF%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%A4%90%E5%BB%B3&query_place_id=ChIJS-zNIF-pQjQR1vU1UjOlTM4",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
-      "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kids_menu": "yes",
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，僅提及店內空間寬敞舒適，建議前往前可先向店家確認兒童設施。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
+    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "整體來說體驗非常好，內用環境乾淨舒適，空間也大，相當適合三五好友聚會聊天吃美食。"
+      "Google 官方登記提供兒童餐點",
+      "Google 官方登記適合兒童用餐"
     ],
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -17810,7 +17635,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -17842,7 +17667,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -17872,7 +17697,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -17900,7 +17725,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -17924,11 +17749,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -17948,17 +17773,17 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
     "signals": [
-      "裝潢古色古香，位置排得很擠，但沒有辦法，這是在百貨公司地下街。"
+      "安靜很棒"
     ],
     "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -17986,7 +17811,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18017,7 +17842,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18047,7 +17872,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18078,7 +17903,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18106,7 +17931,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18136,7 +17961,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18159,14 +17984,15 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "餐廳環境寬敞舒適，目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "餐廳寬敞乾淨，女老闆客氣，長得很像韓國人，它的韓式小菜約有20種，自助式隨意吃，僅試了一種海帶芽，有點酸蠻甜的。"
+      "餐廳寬敞乾淨",
+      "而且是個熱鬧商區"
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18196,7 +18022,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18216,18 +18042,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
-      "kid_noise_tolerant": "yes"
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "該餐廳為家庭式經營，環境氛圍適合聚餐，但有顧客反映座位空間較為狹窄且動線不便。",
-    "card_summary": "對小孩聲音較為包容，但空間較擁擠，前往時需多加留意。",
-    "signals": [
-      "今日座位安排-感覺不舒服，裡面的人進出不方便（一邊被鋼琴擋住），小犬位置也被凸起來的牆卡住一些空間",
-      "感覺是滿家庭式的空間，也滿適合社團家聚，師生聚餐或公司社團包場。"
-    ],
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18257,7 +18080,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18287,7 +18110,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18315,7 +18138,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18345,7 +18168,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18375,7 +18198,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18405,7 +18228,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18433,7 +18256,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18457,11 +18280,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18485,11 +18308,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18517,7 +18340,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18545,7 +18368,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18573,7 +18396,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18597,11 +18420,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18629,37 +18452,38 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJT2Oz1pKrQjQRRnykvhE9Bns",
     "name": "ALL DAY ROASTING COMPANY 民生店",
-    "address": "105台灣台北市松山區延寿街329號1樓",
-    "formatted_address": "105台灣台北市松山區延寿街329號1樓",
+    "address": "105台灣台北市松山區介寿里延寿街329號1樓",
+    "formatted_address": "105台灣台北市松山區介寿里延寿街329號1樓",
     "district": "松山區",
     "rating": "4.4",
-    "user_ratings_total": 2246,
-    "price_level": null,
+    "user_ratings_total": 2284,
+    "price_level": "PRICE_LEVEL_MODERATE",
     "cuisine": "咖啡廳",
     "latitude": 25.056864299999997,
     "longitude": 121.56023719999999,
     "url": "https://www.google.com/maps/search/?api=1&query=ALL%20DAY%20ROASTING%20COMPANY%20%E6%B0%91%E7%94%9F%E5%BA%97&query_place_id=ChIJT2Oz1pKrQjQRRnykvhE9Bns",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=ALL%20DAY%20ROASTING%20COMPANY%20%E6%B0%91%E7%94%9F%E5%BA%97&query_place_id=ChIJT2Oz1pKrQjQRRnykvhE9Bns",
     "attributes": {
-      "high_chair_available": "unknown",
-      "kids_menu": "unknown",
+      "high_chair_available": "yes",
+      "kids_menu": "no",
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "該店空間寬敞舒適，但目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "進門那片空間寬敞，陽光撒下來很舒服。"
+      "左手邊高腳椅區",
+      "空間整體寬敞且明亮"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18689,7 +18513,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18717,7 +18541,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18747,7 +18571,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18768,17 +18592,16 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "評論指出這家餐廳空間寬敞、對親子家庭友善。",
-    "card_summary": "環境寬敞舒適，適合帶家人前往用餐。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "餐廳的桌距是完全沒在客氣的寬敞",
-      "整體來說，本店絕不是CP值最高或最驚奇的餐廳，卻是帶家人、朋友、客戶來訪可以開心吃飯而不失體面的選擇"
+      "餐廳的桌距是完全沒在客氣的寬敞"
     ],
-    "parent_friendly_score": 2,
+    "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18806,7 +18629,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18837,7 +18660,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18868,7 +18691,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18898,7 +18721,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18928,7 +18751,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18956,7 +18779,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -18984,7 +18807,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -19014,7 +18837,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -19044,18 +18867,18 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJTW_h3LSrQjQR1CQQteePjco",
     "name": "加爾第咖啡 (莊敬店)",
-    "address": "110台灣臺北市信義區吳興街269巷1弄21號",
-    "formatted_address": "110台灣臺北市信義區吳興街269巷1弄21號",
+    "address": "110台灣臺北市信義區三張里吳興街269巷1弄21號",
+    "formatted_address": "110台灣臺北市信義區三張里吳興街269巷1弄21號",
     "district": "信義區",
     "rating": "4.4",
-    "user_ratings_total": 518,
-    "price_level": null,
+    "user_ratings_total": 525,
+    "price_level": "PRICE_LEVEL_MODERATE",
     "cuisine": "咖啡廳",
     "latitude": 25.0276048,
     "longitude": 121.56393870000001,
@@ -19063,19 +18886,19 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8A%A0%E7%88%BE%E7%AC%AC%E5%92%96%E5%95%A1%20%28%E8%8E%8A%E6%95%AC%E5%BA%97%29&query_place_id=ChIJTW_h3LSrQjQR1CQQteePjco",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
+      "kids_menu": "no",
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "該店空間寬敞且座位間距舒適，但目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "該店空間寬敞且座位間距舒適。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "空間寬敞，桌椅高度很適合久坐，插頭充足，而且座位間距離很寬裕。",
-      "座位很多，一樓與地下室兩層不怕沒位置，且座位之間間隔很開舒適不壅擠。"
+      "空間寬敞",
+      "地點位在熱鬧的吳興街巷內"
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -19105,7 +18928,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -19129,11 +18952,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -19163,7 +18986,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -19193,7 +19016,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -19221,7 +19044,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -19252,7 +19075,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -19280,7 +19103,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -19310,7 +19133,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -19338,18 +19161,18 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJU0O98aesQjQRXsDcaOW-mzw",
     "name": "樂雅樂餐廳 南港店",
-    "address": "115台灣臺北市南港區經貿二路66之1號",
-    "formatted_address": "115台灣臺北市南港區經貿二路66之1號",
+    "address": "115台灣臺北市南港區三重里經貿二路66之1號",
+    "formatted_address": "115台灣臺北市南港區三重里經貿二路66之1號",
     "district": "南港區",
-    "rating": "4",
-    "user_ratings_total": 1651,
-    "price_level": null,
+    "rating": "3.9",
+    "user_ratings_total": 1664,
+    "price_level": "PRICE_LEVEL_MODERATE",
     "cuisine": null,
     "latitude": 25.057192999999998,
     "longitude": 121.61589,
@@ -19357,20 +19180,20 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%A8%82%E9%9B%85%E6%A8%82%E9%A4%90%E5%BB%B3%20%E5%8D%97%E6%B8%AF%E5%BA%97&query_place_id=ChIJU0O98aesQjQRXsDcaOW-mzw",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
+      "kids_menu": "yes",
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "該餐廳用餐空間寬敞舒適，且店內設有可愛公仔展示，氛圍適合親子客群前往。",
-    "card_summary": "用餐空間寬敞舒適，且店內設有可愛公仔展示，氛圍適合親子客群前往。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "餐廳空間寬敞明亮，座位舒適，環境乾淨。",
-      "旁邊展示櫃有可愛的角落生物公仔，滿療癒的，女生或親子客應該會喜歡。",
-      "場地寬廣用餐環境好。"
+      "餐廳空間寬敞明亮",
+      "Google 官方登記提供兒童餐點",
+      "Google 官方登記適合兒童用餐"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -19390,17 +19213,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "1～2人用餐需和其他人併桌。"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -19428,7 +19249,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -19452,11 +19273,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -19484,7 +19305,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -19504,19 +19325,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
-      "kid_noise_tolerant": "yes"
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "店家對小孩相當友善，且有互動活動能安撫孩子，但店內座位空間較為有限。",
-    "card_summary": "對小孩聲音較為包容，但空間較擁擠，前往時需多加留意。",
-    "signals": [
-      "位置不是很多，可以提前訂位",
-      "店家對小孩很友善，值得再來！",
-      "今天剛好遇到聖誕節活動，剛好讓坐不住的小孩可以多坐一會兒，超棒的！"
-    ],
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -19544,7 +19361,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -19564,17 +19381,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "餐廳內部空間寬敞，但目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
-    "signals": [
-      "外表看起來一般但店裡面面積蠻大的。"
-    ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -19595,16 +19410,14 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳環境較安靜，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳環境較安靜，帶小孩前往需多加留意。",
-    "signals": [
-      "環境氛圍很不錯👍🏻  客群彼此間說話不大聲"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -19634,7 +19447,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -19662,7 +19475,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -19690,7 +19503,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -19718,7 +19531,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -19746,7 +19559,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -19770,11 +19583,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -19802,7 +19615,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -19833,7 +19646,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -19863,18 +19676,18 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJUxfMbFauQjQRSwBqz9ahGgU",
     "name": "聚聚樂",
-    "address": "112台灣臺北市北投區大業路300巷1號",
-    "formatted_address": "112台灣臺北市北投區大業路300巷1號",
+    "address": "112台灣臺北市北投區中央里大業路300巷1號",
+    "formatted_address": "112台灣臺北市北投區中央里大業路300巷1號",
     "district": "北投區",
     "rating": "3.5",
-    "user_ratings_total": 189,
-    "price_level": null,
+    "user_ratings_total": 190,
+    "price_level": "PRICE_LEVEL_MODERATE",
     "cuisine": "中式料理",
     "latitude": 25.128308099999998,
     "longitude": 121.49812499999999,
@@ -19884,16 +19697,17 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "評論指出這家餐廳空間寬敞。",
-    "card_summary": "評論指出這家餐廳空間寬敞。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "餐點、氣氛及場地寬敞"
+      "餐點、氣氛及場地寬敞",
+      "Google 官方登記適合兒童用餐"
     ],
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -19913,19 +19727,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "店面真的很小",
-      "空間窄小又偏暗",
-      "空間有點小"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -19955,7 +19765,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -19983,7 +19793,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20014,7 +19824,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20042,7 +19852,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20072,7 +19882,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20090,20 +19900,19 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=Ho%27me%E5%BB%9A%E6%88%BF%26%E8%A6%AA%E5%AD%90%E5%8F%8B%E5%96%84%E9%A4%90%E5%BB%B3&query_place_id=ChIJVQR_uWusQjQRYNp5Wdmei40",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Ho%27me%E5%BB%9A%E6%88%BF%26%E8%A6%AA%E5%AD%90%E5%8F%8B%E5%96%84%E9%A4%90%E5%BB%B3&query_place_id=ChIJVQR_uWusQjQRYNp5Wdmei40",
     "attributes": {
-      "high_chair_available": "yes",
-      "kids_menu": "yes",
-      "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "high_chair_available": "unknown",
+      "kids_menu": "unknown",
+      "spacious_seating": "no",
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "該餐廳非常適合舉辦親子活動，環境溫馨且空間規劃良好，讓孩子們能自在遊玩，且工作人員對親子客群相當友善。",
-    "card_summary": "非常適合舉辦親子活動，環境溫馨且空間規劃良好，讓孩子們能自在遊玩。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
+    "card_summary": "",
     "signals": [
-      "我原本有一點擔心遊戲區不夠大，但小朋友們在B1、一樓、前院遊走，都玩得很開心，也不會擁擠。",
-      "環境小巧舒適，人員和善，很適合有小孩的朋友們，也可慶生、抓周、各式不同的活動。"
+      "也不會擁擠"
     ],
-    "parent_friendly_score": 5,
-    "parent_friendly_level": "高",
-    "reason": "綜合評估",
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20131,7 +19940,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20159,7 +19968,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20189,7 +19998,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20217,7 +20026,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20245,7 +20054,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20269,11 +20078,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20301,7 +20110,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20329,7 +20138,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20349,17 +20158,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
-    "signals": [
-      "位於圖書館總館附近的日式料理，位置不多但坐起來很舒適"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20387,7 +20194,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20417,7 +20224,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20445,7 +20252,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20473,7 +20280,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20501,7 +20308,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20529,7 +20336,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20557,7 +20364,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20588,7 +20395,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20619,18 +20426,18 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJV_SOYpqpQjQRA9cnwa-fRdc",
     "name": "咖啡學人-傑克威爾 The Cafeist & Jackwell",
-    "address": "100台灣臺北市中正區羅斯福路二段118號",
-    "formatted_address": "100台灣臺北市中正區羅斯福路二段118號",
+    "address": "100台灣臺北市中正區板溪里羅斯福路二段118號",
+    "formatted_address": "100台灣臺北市中正區板溪里羅斯福路二段118號",
     "district": "中正區",
     "rating": "4.6",
-    "user_ratings_total": 856,
-    "price_level": null,
+    "user_ratings_total": 869,
+    "price_level": "PRICE_LEVEL_INEXPENSIVE",
     "cuisine": null,
     "latitude": 25.026467999999998,
     "longitude": 121.5227586,
@@ -20638,16 +20445,18 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%92%96%E5%95%A1%E5%AD%B8%E4%BA%BA-%E5%82%91%E5%85%8B%E5%A8%81%E7%88%BE%20The%20Cafeist%20%26%20Jackwell&query_place_id=ChIJV_SOYpqpQjQRA9cnwa-fRdc",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
+      "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
+    "signals": [
+      "Google 官方登記適合兒童用餐"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20677,7 +20486,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20698,16 +20507,14 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，僅提及適合家庭聚餐，建議前往前可先向店家確認。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
-    "signals": [
-      "整體吃下來，飯Bar內湖旗艦店是很舒服合胃口的，適合約會或家庭聚餐。"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20731,11 +20538,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20763,7 +20570,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20793,7 +20600,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20814,16 +20621,17 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "餐廳在二樓，似乎有重新改裝過，覺得桌距變得比較近一點，用餐環境少了點高級牛排館的氛圍。"
+      "廁所的部分稍嫌擁擠",
+      "3. 我們坐在距離廚房最近的餐桌 非常吵雜 超級影響用餐品質"
     ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20851,7 +20659,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20875,11 +20683,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20903,11 +20711,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20935,7 +20743,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20955,18 +20763,17 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "對小孩聲音較為包容，但空間較擁擠，前往時需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "門口那種台式小館特有的熱鬧氣味，走進去就知道是會吃得很滿足的那種地方。",
-      "今天我們點了10多道菜，菜很多，小桌子放不下，想換個稍大的桌子，姊說「你們吃快點就好了」。"
+      "加上門口那種台式小館特有的熱鬧氣味"
     ],
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -20994,7 +20801,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21024,7 +20831,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21044,19 +20851,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "很小的一家小店，氣氛跟味道都很好。",
-      "位置很少，最好先打電話訂位！",
-      "店面不大動線有點差，冷氣的導風板會滴水"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21076,17 +20879,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "因為座位都是吧台桌所以空間比較剛好。"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21116,7 +20917,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21134,17 +20935,19 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=HI%20MATE%20%EF%BC%81&query_place_id=ChIJWUVw-nevQjQR1SU2xzyuGZY",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=HI%20MATE%20%EF%BC%81&query_place_id=ChIJWUVw-nevQjQR1SU2xzyuGZY",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "signals": [
+      "並且還問要不要換到非高腳椅的用餐區"
+    ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21168,11 +20971,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21200,7 +21003,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21223,15 +21026,14 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "該餐廳用餐環境寬敞明亮，但有評論指出上菜節奏較快，未考量到桌邊有嬰兒的需求。目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "用餐環境空間大、明亮",
-      "桌子很滿，一直上菜，沒顧慮桌邊有嬰兒。"
+      "用餐環境空間大、明亮"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21261,7 +21063,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21291,7 +21093,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21321,7 +21123,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21351,7 +21153,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21379,7 +21181,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21407,7 +21209,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21435,7 +21237,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21455,19 +21257,17 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
-      "kid_noise_tolerant": "no"
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠、環境較安靜，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠且環境較安靜，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "桌距窄，店內滿席有點吵。",
-      "店內空間不大，但桌數並不算少，所以桌距滿近的，整個空間回音大。",
-      "用餐的小空間中座位卻可坐滿近三十人，稍顯壓迫。"
+      "但桌距過近、略顯吵雜"
     ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21495,7 +21295,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21519,11 +21319,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21553,7 +21353,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21576,14 +21376,14 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "店家對親子客群非常友善，員工與老闆對小朋友極具耐心，讓家長能感到放鬆與溫暖。",
-    "card_summary": "店家對親子客群非常友善，員工與老闆對小朋友極具耐心，讓家長能感到放鬆與溫暖。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "沒想到，店裡的員工和老闆對小朋友都超級友善、非常有耐心，讓身為家長的我們感到非常窩心和放鬆。"
+      "💖 服務滿分：給帶小孩的父母一個讚"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21611,7 +21411,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21634,15 +21434,14 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "店內設有包廂空間，適合親子聚餐或慶生，但有評論指出兒童餐具的清潔狀況需加強。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "今天跟朋友約好帶小孩聚餐來吃韓式，剛好也有小包廂，感覺慶生也很適合😆",
-      "小孩的矽膠湯匙請要定期更換，沒洗乾淨日積月累都會卡食物汙垢，藍色矽膠湯匙周圍都是辣醬的顏色。"
+      "今天跟朋友約好帶小孩聚餐來吃韓式"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21670,7 +21469,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21698,7 +21497,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21728,7 +21527,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21738,27 +21537,29 @@ const restaurantData = [
     "formatted_address": "105台灣臺北市松山區八德路三段12巷52弄13號1樓CAFEPRO",
     "district": "松山區",
     "rating": "4.4",
-    "user_ratings_total": 386,
-    "price_level": null,
+    "user_ratings_total": 397,
+    "price_level": "PRICE_LEVEL_MODERATE",
     "cuisine": null,
     "latitude": 25.0461135,
     "longitude": 121.55000650000001,
     "url": "https://www.google.com/maps/search/?api=1&query=CAFEPRO%E8%81%B7%E4%BA%BA%E5%92%96%E5%95%A1%E5%95%86%E8%A1%8C%E6%95%A6%E5%8C%96%E5%BA%97&query_place_id=ChIJXV3RZsOrQjQRQvdi_pCOSvM",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=CAFEPRO%E8%81%B7%E4%BA%BA%E5%92%96%E5%95%A1%E5%95%86%E8%A1%8C%E6%95%A6%E5%8C%96%E5%BA%97&query_place_id=ChIJXV3RZsOrQjQRQvdi_pCOSvM",
     "attributes": {
-      "high_chair_available": "unknown",
-      "kids_menu": "unknown",
+      "high_chair_available": "yes",
+      "kids_menu": "no",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "店內空間寬敞舒適，但目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "店內空間寬敞，氣氛平和，伯爵紅茶巴斯克的口味尚可，質感濕軟，帶點微酸的滋味。"
+      "高腳椅的位置",
+      "店內空間寬敞",
+      "Google 官方登記適合兒童用餐"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "parent_friendly_score": 4,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21786,7 +21587,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21814,7 +21615,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21842,7 +21643,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21870,7 +21671,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21890,17 +21691,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "店內位子不多 一定要先網路訂位"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21930,7 +21729,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21958,7 +21757,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -21989,7 +21788,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22013,11 +21812,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22041,11 +21840,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22073,7 +21872,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22103,7 +21902,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22126,14 +21925,14 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "該店用餐環境寬敞舒適，但目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "該店用餐環境寬敞舒適。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "用餐環境乾淨且寬敞，最近有十周年活動，拉麵不分品項一律180，整體來說，如果之後路過會想再訪的好店。"
+      "用餐環境乾淨且寬敞"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22164,7 +21963,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22195,7 +21994,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22215,17 +22014,17 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "和隔壁同樣也是必訪名店的「小王煮瓜」相比，源芳的店面就顯得略小甚至有些不起眼。"
+      "人來人往、熱鬧非凡"
     ],
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22253,7 +22052,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22281,7 +22080,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22311,7 +22110,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22334,14 +22133,14 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "店內環境乾淨寬敞，但目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "餐點好吃、老闆又帥又親切、環境乾淨寬敞！"
+      "餐點好吃、老闆又帥又親切、環境乾淨寬敞"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22369,7 +22168,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22397,7 +22196,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22417,17 +22216,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "人多的話，一個人需要和別人併桌。"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22451,11 +22248,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22483,7 +22280,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22514,7 +22311,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22542,7 +22339,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22560,17 +22357,19 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=ADDICT%E6%B2%89%E7%99%AE%E9%A4%90%E9%85%92%E9%A4%A8&query_place_id=ChIJYw8FAUapQjQRJsabw9DQEbs",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=ADDICT%E6%B2%89%E7%99%AE%E9%A4%90%E9%85%92%E9%A4%A8&query_place_id=ChIJYw8FAUapQjQRJsabw9DQEbs",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "signals": [
+      "結果是高腳椅配圓桌的座位"
+    ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22598,7 +22397,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22621,14 +22420,15 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "該餐廳用餐空間寬敞，但目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "安排的座位很寬敞"
+      "安排的座位很寬敞",
+      "當天算熱鬧不吵雜"
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22658,7 +22458,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22686,7 +22486,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22716,7 +22516,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22746,7 +22546,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22774,7 +22574,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22804,7 +22604,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22832,7 +22632,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22856,11 +22656,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22888,7 +22688,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22908,18 +22708,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
-      "kid_noise_tolerant": "yes"
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "對小孩聲音較為包容，但空間較擁擠，前往時需多加留意。",
-    "signals": [
-      "店內人聲鼎沸、溫度很高，大家都不想喝湯，1人1杯冰飲。",
-      "桌子蠻小的要一直擠出空間放菜餚，有點困擾，限時90分鐘真的就是在吃飯，沒辦法聊太多天。"
-    ],
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22947,7 +22744,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -22977,18 +22774,18 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJZTNGjn2uQjQRtvfe01IHnzA",
     "name": "茉莉漢堡",
-    "address": "111台灣臺北市士林區天玉街38巷15號",
-    "formatted_address": "111台灣臺北市士林區天玉街38巷15號",
+    "address": "111台灣臺北市士林區天玉里天玉街38巷15號",
+    "formatted_address": "111台灣臺北市士林區天玉里天玉街38巷15號",
     "district": "士林區",
     "rating": "3.9",
-    "user_ratings_total": 1734,
-    "price_level": null,
+    "user_ratings_total": 1748,
+    "price_level": "PRICE_LEVEL_MODERATE",
     "cuisine": "美式料理",
     "latitude": 25.1199403,
     "longitude": 121.5292432,
@@ -22996,19 +22793,18 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%8C%89%E8%8E%89%E6%BC%A2%E5%A0%A1&query_place_id=ChIJZTNGjn2uQjQRtvfe01IHnzA",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
+      "kids_menu": "no",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "該餐廳設有免費遊戲機台，非常適合家庭聚餐並讓小朋友放電。",
-    "card_summary": "設有免費遊戲機台，非常適合家庭聚餐並讓小朋友放電。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "很適合家庭聚餐或朋友帶小孩來放電，小朋友玩到不想走，大人聊天吃漢堡聊整下午也沒問題😂",
-      "地下室還有快打旋風機台、投籃機、射擊、親子曲棍球🎮 全！部！免！費！玩！"
+      "Google 官方登記適合兒童用餐"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23036,7 +22832,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23064,7 +22860,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23092,7 +22888,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23120,7 +22916,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23150,7 +22946,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23181,7 +22977,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23209,7 +23005,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23228,20 +23024,18 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%87%91%E7%8D%85%E6%A8%93&query_place_id=ChIJZdcmMwmpQjQRVhoFltvFacY",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "no",
+      "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "該餐廳環境熱鬧喧囂，對兒童噪音較具包容力，但未提供兒童餐點，且評論中未提及兒童座椅與空間寬敞度資訊。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "飲料選擇不多，小朋友只能喝汽水。",
-      "用餐時段生意相當好，幾乎座無虛席，現場熱鬧又帶點老派茶樓特有的喧囂感。",
-      "室內吵雜的氛圍也沒有改變。"
+      "室內吵雜的氛圍也沒有改變"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23269,7 +23063,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23293,11 +23087,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23328,7 +23122,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23358,7 +23152,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23389,7 +23183,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23420,7 +23214,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23448,7 +23242,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23472,11 +23266,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23496,17 +23290,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "空間不大但很舒適"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23536,7 +23328,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23566,7 +23358,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23590,11 +23382,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23622,7 +23414,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23650,7 +23442,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23680,7 +23472,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23710,7 +23502,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23740,7 +23532,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23770,7 +23562,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23801,7 +23593,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23824,15 +23616,14 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "餐廳環境寬敞舒適，但目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "高挑明亮寬敞舒適的用餐環境，看著菜單都讓人垂涎三尺。",
-      "窗邊的位置很明亮，空間寬敞"
+      "高挑明亮寬敞舒適的用餐環境"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23863,7 +23654,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23883,17 +23674,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "要先說包廂偏小，最多6個人剛好"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23921,7 +23710,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23949,7 +23738,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -23980,17 +23769,17 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJ__cnHACpQjQRqPOSGWdlHbI",
     "name": "The Cup Coffee House 台北",
-    "address": "104台灣臺北市中山區長春路21號1樓",
-    "formatted_address": "104台灣臺北市中山區長春路21號1樓",
+    "address": "104台灣臺北市中山區中山里長春路21號1樓",
+    "formatted_address": "104台灣臺北市中山區中山里長春路21號1樓",
     "district": "中山區",
     "rating": "4.8",
-    "user_ratings_total": 158,
+    "user_ratings_total": 184,
     "price_level": null,
     "cuisine": "咖啡廳",
     "latitude": 25.055139,
@@ -23998,19 +23787,20 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=The%20Cup%20Coffee%20House%20%E5%8F%B0%E5%8C%97&query_place_id=ChIJ__cnHACpQjQRqPOSGWdlHbI",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=The%20Cup%20Coffee%20House%20%E5%8F%B0%E5%8C%97&query_place_id=ChIJ__cnHACpQjQRqPOSGWdlHbI",
     "attributes": {
-      "high_chair_available": "unknown",
-      "kids_menu": "unknown",
-      "spacious_seating": "no",
-      "kid_noise_tolerant": "no"
+      "high_chair_available": "yes",
+      "kids_menu": "no",
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "座位不多，除了雙人桌也有個人吧台座位"
+      "只剩下高腳椅可以坐",
+      "整個氣氛比較熱鬧"
     ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24040,7 +23830,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24060,17 +23850,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。該餐廳用餐環境寬敞舒適，餐桌間距足夠。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
-    "signals": [
-      "用餐環境真的挺舒服的，餐桌之間的距離夠寬，所以不會有壓抑的感覺，而且椅子很好做。"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24100,7 +23888,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24131,7 +23919,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24154,15 +23942,14 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "店內氣氛熱鬧且具人情味，適合家庭聚餐。目前評論中較少提及與親子用餐相關的具體設施資訊，建議前往前可先向店家確認。",
-    "card_summary": "店內氣氛熱鬧且具人情味，適合家庭聚餐。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "一進門就感受到士林店熱鬧又接地氣的氣氛，牆上滿滿的布旗、老店風格的裝飾，看得出是一家很有人情味的店。",
-      "整體環境雖然偏熱鬧，但非常適合家人、朋友聚餐聊天，不會拘束。"
+      "一進門就感受到士林店熱鬧又接地氣的氣氛"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24190,7 +23977,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24220,7 +24007,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24248,7 +24035,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24268,19 +24055,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "大約能容納12人的坐位",
-      "大約十個座位的小店，超乾淨的，七年的店感覺像新開的！",
-      "內用位子不多需要提前訂位並匯訂金保留"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24308,7 +24091,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24336,7 +24119,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24360,11 +24143,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24392,7 +24175,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24422,7 +24205,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24452,7 +24235,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24476,11 +24259,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24498,23 +24281,20 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E6%A8%B9%E5%85%88%E7%94%9F%E7%9A%84%E5%AE%B6&query_place_id=ChIJaSZ-CpupQjQRaqvVbaJ4FaM",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E6%A8%B9%E5%85%88%E7%94%9F%E7%9A%84%E5%AE%B6&query_place_id=ChIJaSZ-CpupQjQRaqvVbaJ4FaM",
     "attributes": {
-      "high_chair_available": "yes",
+      "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "這是一家設施極為豐富的親子餐廳，提供受歡迎的兒童餐且用餐空間寬敞，非常適合帶小孩參與各類親子活動。",
-    "card_summary": "這是一家設施極為豐富的親子餐廳，提供受歡迎的兒童餐且用餐空間寬敞。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點。",
+    "card_summary": "",
     "signals": [
-      "用餐區域蠻寬大的，不會擁擠動線還可以，另外還有類似包廂的地方！",
       "桌位不多,位子很寬敞",
-      "兒童餐的車車造型小朋友很喜歡（麵包、蛋、炸南瓜、主食）",
-      "舉辦各種親子活動的好地方～提供的食物很好吃，食材也很新鮮，生菜沙拉裡面還有切片的鮑魚，很用心準備的料理。",
-      "不得不說以親子餐廳來講～這遊樂區很豐富"
+      "兒童餐的車車造型小朋友很喜歡（麵包、蛋、炸南瓜、主食）"
     ],
-    "parent_friendly_score": 5,
-    "parent_friendly_level": "高",
-    "reason": "綜合評估",
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24542,7 +24322,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24563,17 +24343,14 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "這是一家適合家庭聚餐的傳統老店，口味深受長輩與家庭客喜愛，但目前評論中較少提及兒童椅或兒童餐等具體設施。",
-    "card_summary": "這是一家適合家庭聚餐的傳統老店。",
-    "signals": [
-      "分量適中，價格以現在來說算合理，適合家庭聚餐或帶長輩來吃，大家都能找到喜歡的菜色。",
-      "疫情時吃過一次，念念不忘，今天走仙跡岩親子步道前，先來回味，味道一樣讚，。"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24601,7 +24378,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24632,7 +24409,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24652,17 +24429,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "東區的巷子裡藏了一間小小的平價日式料理店"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24692,7 +24467,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24720,7 +24495,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24744,11 +24519,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24776,7 +24551,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24806,7 +24581,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24824,17 +24599,19 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E5%85%89%E4%B8%80%E4%B8%80%E5%80%8B%E6%99%82%E9%96%93%20%28%20%E7%94%9F%E6%85%8B%E6%B1%A0%E6%97%81%E7%B6%A0%E8%89%B2%E5%BB%BA%E7%AF%89%20%29&query_place_id=ChIJb0aUA5SrQjQRZ9tlUfw2QNM",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%85%89%E4%B8%80%E4%B8%80%E5%80%8B%E6%99%82%E9%96%93%20%28%20%E7%94%9F%E6%85%8B%E6%B1%A0%E6%97%81%E7%B6%A0%E8%89%B2%E5%BB%BA%E7%AF%89%20%29&query_place_id=ChIJb0aUA5SrQjQRZ9tlUfw2QNM",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "signals": [
+      "另有高腳椅的吧台區"
+    ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24862,7 +24639,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24880,21 +24657,17 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E9%99%B6%E6%9D%BF%E5%B1%8B%20%E6%96%B0%E5%8C%97%E6%8A%95%E5%85%89%E6%98%8E%E5%BA%97&query_place_id=ChIJb3wiSkWuQjQRYj2ArhtpNoU",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%99%B6%E6%9D%BF%E5%B1%8B%20%E6%96%B0%E5%8C%97%E6%8A%95%E5%85%89%E6%98%8E%E5%BA%97&query_place_id=ChIJb3wiSkWuQjQRYj2ArhtpNoU",
     "attributes": {
-      "high_chair_available": "yes",
-      "kids_menu": "yes",
-      "spacious_seating": "no",
-      "kid_noise_tolerant": "yes"
+      "high_chair_available": "unknown",
+      "kids_menu": "unknown",
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "餐廳環境較為擁擠且桌距較近，但餐點口味受到小孩喜愛，氣氛適合家庭聚餐。",
-    "card_summary": "對小孩聲音較為包容，但空間較擁擠，前往時需多加留意。",
-    "signals": [
-      "日式炊飯小孩也喜歡",
-      "與鄰座較為靠近",
-      "但是桌距過近，隔壁桌的聊天聲聽得很清楚，少了些高級餐廳的氛圍感😅"
-    ],
-    "parent_friendly_score": 3,
-    "parent_friendly_level": "高",
-    "reason": "Manual Update",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24924,7 +24697,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24952,7 +24725,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -24980,7 +24753,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25008,7 +24781,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25036,7 +24809,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25064,7 +24837,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25092,7 +24865,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25120,7 +24893,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25148,7 +24921,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25178,7 +24951,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25208,7 +24981,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25239,7 +25012,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25270,7 +25043,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25301,7 +25074,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25331,7 +25104,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25359,7 +25132,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25387,7 +25160,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25410,15 +25183,14 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
+    "card_summary": "",
     "signals": [
-      "因為是小酒館定位，人多時會稍微有點擠（但不至於很吵）",
-      "店裡音樂不會太吵，座位也不會太狹窄的那種壓迫感。"
+      "又不想去太吵或太擁擠的夜店或居酒屋"
     ],
     "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25442,11 +25214,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25477,7 +25249,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25501,11 +25273,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25526,16 +25298,14 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "店內用餐環境較為熱鬧且音量較大，對於擔心小孩吵鬧的家長而言壓力較小，但目前評論中未提及兒童椅或兒童餐等具體設施。",
-    "card_summary": "店內用餐環境較為熱鬧且音量較大。",
-    "signals": [
-      "當天用餐有很多上班族，聲音大聲非常的吵，想要舒服吃飯就比較不適合，撇除這點跟等候時間，其他都還不錯。"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25565,7 +25335,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25589,11 +25359,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25621,7 +25391,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25645,11 +25415,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25680,7 +25450,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25708,7 +25478,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25736,7 +25506,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25760,11 +25530,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25794,7 +25564,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25818,11 +25588,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25852,7 +25622,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25880,7 +25650,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25904,11 +25674,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25936,7 +25706,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25964,7 +25734,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -25982,21 +25752,20 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E9%99%B6%E6%9D%BF%E5%B1%8B%20%E5%8F%B0%E5%8C%97%E9%87%8D%E6%85%B6%E5%8D%97%E5%BA%97&query_place_id=ChIJd2lnDKCpQjQReTq7BQlF8Kc",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%99%B6%E6%9D%BF%E5%B1%8B%20%E5%8F%B0%E5%8C%97%E9%87%8D%E6%85%B6%E5%8D%97%E5%BA%97&query_place_id=ChIJd2lnDKCpQjQReTq7BQlF8Kc",
     "attributes": {
-      "high_chair_available": "yes",
+      "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "店內提供兒童餐，且環境氣氛較為熱鬧，適合家庭聚餐。",
-    "card_summary": "店內提供兒童餐，且環境氣氛較為熱鬧，適合家庭聚餐。",
+    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "因為有小朋友所以點了兒童餐，有機會的話希望能調降炸物的比例，畢竟小朋友吃炸物不太好",
-      "現場真的偏吵雜",
-      "每年春節都會來這聚餐，表現都有一定的水準"
+      "因為有小朋友所以點了兒童餐",
+      "現場真的偏吵雜"
     ],
-    "parent_friendly_score": 3,
-    "parent_friendly_level": "高",
-    "reason": "Manual Update",
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -26024,7 +25793,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -26052,18 +25821,18 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJd8JMXwKtQjQRtcgmBVKpiOs",
     "name": "Timama kitchen",
-    "address": "114台灣臺北市內湖區江南街71巷16弄32號",
-    "formatted_address": "114台灣臺北市內湖區江南街71巷16弄32號",
+    "address": "114台灣臺北市內湖區港墘里江南街71巷16弄32號",
+    "formatted_address": "114台灣臺北市內湖區港墘里江南街71巷16弄32號",
     "district": "內湖區",
     "rating": "4.2",
-    "user_ratings_total": 639,
-    "price_level": null,
+    "user_ratings_total": 654,
+    "price_level": "PRICE_LEVEL_MODERATE",
     "cuisine": "咖啡廳",
     "latitude": 25.075542799999997,
     "longitude": 121.5774855,
@@ -26071,20 +25840,19 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Timama%20kitchen&query_place_id=ChIJd8JMXwKtQjQRtcgmBVKpiOs",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
-      "spacious_seating": "yes",
+      "kids_menu": "yes",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "店內空間寬敞開闊且環境氣氛熱鬧，適合家庭聚餐，也有顧客分享帶著孩子一同前往用餐的經驗。",
-    "card_summary": "店內空間寬敞開闊且環境氣氛熱鬧，適合家庭聚餐，也有顧客分享帶著孩子一同前往用餐的經驗。",
+    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "這間餐廳給人的第一印象相當不錯，座位寬敞、沙發區坐起來非常舒適，即使是一個人前來用餐，也能感受到放鬆自在的氛圍。",
-      "雖然店內人潮不少、環境稍微吵雜，但整體空間開闊，不會讓人感到壓迫。",
-      "跟女鵝一人點了一份主餐：松露蘑菇燉飯和雞肉起司筆管麵，很特別的芋頭濃湯第一次喝到；前菜煙燻鮭魚有4片，每片的厚度很有誠意！"
+      "Google 官方登記提供兒童餐點",
+      "Google 官方登記適合兒童用餐"
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -26114,18 +25882,18 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJd9QKFaWuQjQRLPGO-ltaXj4",
     "name": "歡樂便所主題餐廳",
-    "address": "111台灣臺北市士林區文林路173號2F",
-    "formatted_address": "111台灣臺北市士林區文林路173號2F",
+    "address": "111台灣臺北市士林區仁勇里文林路173號2F",
+    "formatted_address": "111台灣臺北市士林區仁勇里文林路173號2F",
     "district": "士林區",
     "rating": "4.7",
-    "user_ratings_total": 4443,
-    "price_level": null,
+    "user_ratings_total": 4530,
+    "price_level": "PRICE_LEVEL_MODERATE",
     "cuisine": null,
     "latitude": 25.089589099999998,
     "longitude": 121.52683329999999,
@@ -26137,18 +25905,16 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "餐廳設有球池供小朋友玩耍，環境對親子友善且空間寬敞，但評論提到未提供兒童餐具，建議家長可自行準備。",
-    "card_summary": "餐廳設有球池供小朋友玩耍。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "也滿適合親子的唷，小孩很愛2樓及3樓的球池區，玩到不想走😆",
-      "3樓較寬敞，採光很美，走時尚網美裝潢，鮮明活潑的黃色搭配白黑色系，角落還有網美牆浴缸球池，多款表情便便抱枕滿逗趣",
-      "有一個球池供小朋友玩耍，裡面還有放很多泳圈，餐廳裡的小孩們都玩得很開心捨不得走",
-      "適合帶小朋友來拍照嚐鮮，食物調理包的感覺很重，嘗鮮的聚會拍照餐廳，2樓有小小的兒童遊戲池。",
-      "店內雖像親子餐廳卻沒有提供兒童餐具,小朋友只能給個咖啡用湯匙😔"
+      "3樓較寬敞",
+      "Google 官方登記提供兒童餐點",
+      "Google 官方登記適合兒童用餐"
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -26178,7 +25944,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -26208,7 +25974,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -26238,7 +26004,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -26258,19 +26024,17 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "店內空間寬敞舒適，但環境較為安靜，帶小孩前往需多加留意。",
-    "card_summary": "空間寬敞，但環境較為安靜，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
     "signals": [
-      "店內空間寬敞舒適。",
-      "環境安靜又舒服，不趕人，超級chill，完完全全是圖書館裡的隱藏補給站。",
-      "用餐環境安靜沒有壓力。"
+      "環境安靜又舒服"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "可以考慮",
-    "reason": "空間寬敞，但環境安靜需留意",
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -26300,7 +26064,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -26328,7 +26092,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -26356,7 +26120,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -26386,7 +26150,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -26416,7 +26180,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -26440,11 +26204,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -26472,7 +26236,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -26503,7 +26267,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -26531,7 +26295,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -26561,7 +26325,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -26584,16 +26348,16 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "餐廳提供兒童餐且空間寬敞，環境溫馨隨和，是許多家長帶小孩用餐的首選地點。",
-    "card_summary": "餐廳提供兒童餐且空間寬敞，環境溫馨隨和，是許多家長帶小孩用餐的首選地點。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "但是位子比較大，氣氛算舒適",
-      "由於餐廳提供兒童專屬菜單（兒童餐）且空間寬敞，是許多家長帶小孩用餐的首選地點。",
-      "服務不錯，環境也整潔明亮，就鄰桌幼童一直大叫，有點吵雜"
+      "由於餐廳提供兒童專屬菜單（兒童餐）且空間寬敞",
+      "由於餐廳提供兒童專屬菜單（兒童餐）且空間寬敞",
+      "是許多家長帶小孩用餐的首選地點"
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -26623,7 +26387,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -26651,7 +26415,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -26681,7 +26445,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -26709,7 +26473,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -26737,7 +26501,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -26765,7 +26529,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -26793,7 +26557,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -26817,11 +26581,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -26851,7 +26615,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -26879,7 +26643,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -26889,7 +26653,7 @@ const restaurantData = [
     "formatted_address": "110台灣臺北市信義區信義路五段150巷14弄12號",
     "district": "信義區",
     "rating": "4.3",
-    "user_ratings_total": 257,
+    "user_ratings_total": 262,
     "price_level": null,
     "cuisine": "早午餐",
     "latitude": 25.028388200000002,
@@ -26898,16 +26662,18 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%97%A9%E9%BB%9E%E9%86%92&query_place_id=ChIJeY-MOqSrQjQR30bwWOZVEcA",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
+      "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
+    "signals": [
+      "Google 官方登記適合兒童用餐"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -26935,7 +26701,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -26963,7 +26729,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -26983,17 +26749,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "店內空間較小且座位數量不多，目前評論中未提及兒童椅或兒童餐等親子友善設施。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "內用的位子不算是很多，而且從5.開始營業之前就開始排隊，建議可以早一點到，不然會需要等一段時間。"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27024,7 +26788,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27052,7 +26816,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27080,7 +26844,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27104,11 +26868,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27136,7 +26900,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27164,7 +26928,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27187,15 +26951,14 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "根據評論顯示，該餐廳環境較安靜，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳環境較安靜，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
     "signals": [
-      "環境清幽，在幾乎客滿的情況下仍能保持安靜，用餐品質還不錯",
-      "氛圍安靜放鬆，讓人能專心感受食物與環境的美好。"
+      "在幾乎客滿的情況下仍能保持安靜"
     ],
     "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27226,7 +26989,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27246,15 +27009,17 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "unknown",
+      "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
+    "signals": [
+      "用餐環境很舒服"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27282,7 +27047,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27310,7 +27075,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27334,11 +27099,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27368,7 +27133,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27389,18 +27154,16 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "餐廳室內空間寬闊舒適，且氛圍適合家庭聚會，是帶小孩用餐的友善選擇。",
-    "card_summary": "餐廳室內空間寬闊舒適，且氛圍適合家庭聚會，是帶小孩用餐的友善選擇。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "室內空間寬闊",
-      "進來餐廳裡面蠻寬敞， 每桌都會給一個專用水壺和水杯， 一般外面的餐廳 水喝起來都有怪味 他們的水 還不錯喝 沒有怪味。",
-      "這裡不管是朋友聚餐、家庭聚會，甚至一個人想吃好一點的料理都很適合。"
+      "室內空間寬闊"
     ],
-    "parent_friendly_score": 2,
+    "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27424,11 +27187,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27456,7 +27219,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27486,7 +27249,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27514,7 +27277,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27537,14 +27300,14 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。不過店內環境寬敞舒適，用餐空間較為充足。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
       "座位空間寬敞舒適"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27568,11 +27331,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27600,7 +27363,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27630,7 +27393,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27658,7 +27421,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27689,7 +27452,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27713,11 +27476,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27741,11 +27504,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27775,7 +27538,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27806,7 +27569,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27824,20 +27587,19 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E8%B1%A1%E5%9C%92%E5%92%96%E5%95%A1%E5%85%A7%E6%B9%96%E5%BA%97&query_place_id=ChIJfepvyousQjQRq2rFXvS-esU",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%B1%A1%E5%9C%92%E5%92%96%E5%95%A1%E5%85%A7%E6%B9%96%E5%BA%97&query_place_id=ChIJfepvyousQjQRq2rFXvS-esU",
     "attributes": {
-      "high_chair_available": "yes",
+      "high_chair_available": "unknown",
       "kids_menu": "yes",
-      "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "該餐廳為親子友善餐廳，提供兒童餐及寶寶粥，適合帶小孩前往用餐。",
-    "card_summary": "為親子友善餐廳，提供兒童餐及寶寶粥，適合帶小孩前往用餐。",
+    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點。",
+    "card_summary": "",
     "signals": [
-      "除了有兒童餐，特別的是還有提供「寶寶粥」呢！",
-      "不愧是親子餐廳～"
+      "除了有兒童餐"
     ],
-    "parent_friendly_score": 5,
-    "parent_friendly_level": "高",
-    "reason": "綜合評估",
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27867,7 +27629,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27895,18 +27657,18 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJfzjbheitQjQRa3PNwDBxq6E",
     "name": "WilsonPark 威爾森公園 （Steak & Wine）",
-    "address": "114台灣臺北市內湖區民權東路六段125之1號",
-    "formatted_address": "114台灣臺北市內湖區民權東路六段125之1號",
+    "address": "114台灣臺北市內湖區寶湖里民權東路六段125之1號",
+    "formatted_address": "114台灣臺北市內湖區寶湖里民權東路六段125之1號",
     "district": "內湖區",
     "rating": "4.7",
-    "user_ratings_total": 698,
-    "price_level": null,
+    "user_ratings_total": 710,
+    "price_level": "PRICE_LEVEL_MODERATE",
     "cuisine": "酒吧/餐酒館",
     "latitude": 25.0691142,
     "longitude": 121.5930578,
@@ -27914,16 +27676,19 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=WilsonPark%20%E5%A8%81%E7%88%BE%E6%A3%AE%E5%85%AC%E5%9C%92%20%EF%BC%88Steak%20%26%20Wine%EF%BC%89&query_place_id=ChIJfzjbheitQjQRa3PNwDBxq6E",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
+      "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
+    "signals": [
+      "Google 官方登記提供兒童餐點",
+      "Google 官方登記適合兒童用餐"
+    ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27954,7 +27719,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -27982,7 +27747,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28010,7 +27775,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28034,11 +27799,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28068,7 +27833,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28088,17 +27853,17 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "店內環境寬廣且舒適，適合多人聚餐。目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "店內環境寬廣且舒適，適合多人聚餐。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "店內環境寬廣、氣氛舒服也有提供多人桌"
+      "但聽說晚上應該是比較熱鬧"
     ],
-    "parent_friendly_score": 2,
+    "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28126,7 +27891,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28154,7 +27919,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28182,7 +27947,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28212,7 +27977,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28240,7 +28005,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28268,7 +28033,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28288,18 +28053,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "用餐座位雖然很窄，可是座位下有置物籃 是很貼心周全。",
-      "內用座位相鄰有點狹窄，這間分店排隊時間較長，但整體感受都很不錯！"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28323,11 +28085,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28347,17 +28109,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。店內用餐空間寬敞，翻桌率快。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
-    "signals": [
-      "後來發現內部用餐空間挺大的，而且翻桌率也很快。"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28381,11 +28141,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28413,7 +28173,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28441,7 +28201,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28469,7 +28229,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28501,7 +28261,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 4,
     "parent_friendly_level": "高",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28529,7 +28289,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28557,7 +28317,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28585,7 +28345,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28605,15 +28365,17 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "unknown",
+      "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
+    "signals": [
+      "整體的用餐環境很舒服"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28641,7 +28403,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28669,7 +28431,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28700,7 +28462,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28728,7 +28490,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28752,11 +28514,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28784,7 +28546,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28807,14 +28569,14 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
     "signals": [
       "喧囂的台北彷彿安靜了下來"
     ],
     "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28842,7 +28604,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28870,7 +28632,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28890,17 +28652,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "桌距很近 其實不太適合交談。"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28932,7 +28692,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 4,
     "parent_friendly_level": "高",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28956,11 +28716,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -28984,11 +28744,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -29019,17 +28779,17 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJhxfETbyuQjQRmD7M7JYcSXk",
     "name": "巧果子",
-    "address": "111台灣臺北市士林區美崙街78號",
-    "formatted_address": "111台灣臺北市士林區美崙街78號",
+    "address": "111台灣臺北市士林區福佳里美崙街78號",
+    "formatted_address": "111台灣臺北市士林區福佳里美崙街78號",
     "district": "士林區",
     "rating": "4.3",
-    "user_ratings_total": 104,
+    "user_ratings_total": 106,
     "price_level": null,
     "cuisine": "咖啡廳",
     "latitude": 25.0970974,
@@ -29038,20 +28798,19 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%B7%A7%E6%9E%9C%E5%AD%90&query_place_id=ChIJhxfETbyuQjQRmD7M7JYcSXk",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
-      "spacious_seating": "unknown",
+      "kids_menu": "no",
+      "spacious_seating": "no",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "店內氛圍溫馨且有小朋友互動，環境對親子相對友善。",
-    "card_summary": "店內氛圍溫馨且有小朋友互動，環境對親子相對友善。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "拿到麵要離開時店裡的小朋友還特別跟我說byebye實在太可愛了😍",
-      "一間溫馨的小店。",
-      "牆壁看似可以隨意塗鴉，蠻有趣的"
+      "所以並不會令人感到擁擠",
+      "Google 官方登記適合兒童用餐"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -29075,11 +28834,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -29110,7 +28869,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -29138,7 +28897,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -29168,7 +28927,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -29196,7 +28955,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -29224,7 +28983,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -29255,7 +29014,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -29279,11 +29038,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -29311,7 +29070,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -29335,11 +29094,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -29369,7 +29128,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -29399,7 +29158,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -29420,16 +29179,14 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
-    "signals": [
-      "適合聚餐的好地方～"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -29457,7 +29214,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -29487,7 +29244,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -29515,7 +29272,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -29545,7 +29302,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -29573,7 +29330,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -29604,7 +29361,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -29632,7 +29389,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -29660,17 +29417,17 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJj9j7W2WrQjQR_UgmSg_0jkw",
     "name": "LOST and Found",
-    "address": "106台灣臺北市大安區敦化南路二段11巷50號",
-    "formatted_address": "106台灣臺北市大安區敦化南路二段11巷50號",
+    "address": "106台灣臺北市大安區義安里敦化南路二段11巷50號",
+    "formatted_address": "106台灣臺北市大安區義安里敦化南路二段11巷50號",
     "district": "大安區",
-    "rating": "4.1",
-    "user_ratings_total": 791,
+    "rating": "4.2",
+    "user_ratings_total": 866,
     "price_level": null,
     "cuisine": "早午餐",
     "latitude": 25.0324772,
@@ -29679,19 +29436,18 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=LOST%20and%20Found&query_place_id=ChIJj9j7W2WrQjQR_UgmSg_0jkw",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
-      "spacious_seating": "yes",
+      "kids_menu": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "該餐廳環境寬敞舒適且桌距適中，氣氛熱鬧，適合聚餐。",
-    "card_summary": "環境寬敞舒適且桌距適中，氣氛熱鬧，適合聚餐。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "環境跟桌距都很棒！很適合聚餐",
-      "週末人非常多～是一個大家會聊天的地方，所以會稍微有一點吵雜，但聊天還是聽得到。"
+      "Google 官方登記適合兒童用餐"
     ],
-    "parent_friendly_score": 2,
+    "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -29719,7 +29475,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -29742,14 +29498,14 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
+    "card_summary": "",
     "signals": [
-      "環境稍擁擠，地板油膩，座位稍微擠"
+      "環境稍擁擠"
     ],
     "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -29773,11 +29529,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -29801,11 +29557,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -29825,18 +29581,17 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "yes",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "餐廳提供兒童座椅，但店內桌距較近，空間感較為擁擠。",
-    "card_summary": "設有兒童椅，但空間較擁擠，前往時需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅。",
+    "card_summary": "",
     "signals": [
-      "很不錯的地方，兒童座椅空間也不會影響到別桌。",
-      "桌距比較近。"
+      "兒童座椅空間也不會影響到別桌"
     ],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -29860,11 +29615,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -29888,11 +29643,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -29920,7 +29675,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -29948,7 +29703,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -29976,7 +29731,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30004,7 +29759,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30027,14 +29782,14 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "根據評論顯示，該餐廳環境較安靜，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳環境較安靜，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
     "signals": [
-      "如果喜歡日式料理，想找一間不吵雜、能靜靜享受料理的地方，御神烹值得來。"
+      "在木柵安靜的巷弄裡"
     ],
     "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30057,16 +29812,15 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "該餐廳設有專屬兒童區域，對家庭客相當友善，且整體動線規劃良好，即使人潮眾多也能保持取餐順暢。",
-    "card_summary": "設有專屬兒童區域，對家庭客相當友善，且整體動線規劃良好，即使人潮眾多也能保持取餐順暢。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "右手邊還有專為孩子打造的兒童專區，這點真的解決了許多爸媽想好好吃頓飯的痛點，對家庭客來說非常加分。",
-      "動線安排不擁擠，即使人潮多，取餐時還算順暢。",
-      "整體來說，環境舒適、分區清楚、甜點與冰品表現優秀、對親子家庭友善。"
+      "動線安排不擁擠",
+      "對家庭客來說非常加分"
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30097,7 +29851,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30127,7 +29881,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30150,14 +29904,14 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
       "庭院寬敞靜謐"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30188,7 +29942,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30216,7 +29970,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30236,18 +29990,18 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "spacious_seating": "no",
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。餐廳環境寬敞舒適，桌距足夠。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "環境是好的 桌距夠大 靠西邊區域有窗戶可以看到外面 環境算明亮",
-      "座位之間距離足夠不會太擁擠"
+      "座位之間距離足夠不會太擁擠",
+      "不會太過於吵雜"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30277,7 +30031,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30305,7 +30059,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30333,7 +30087,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30364,7 +30118,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30392,7 +30146,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30410,19 +30164,17 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E7%B3%80%E6%97%A5%E5%92%8C%20Kouji%20Wafu%20Pasta&query_place_id=ChIJkSOTUfKrQjQRmr6m00-3INA",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%B3%80%E6%97%A5%E5%92%8C%20Kouji%20Wafu%20Pasta&query_place_id=ChIJkSOTUfKrQjQRmr6m00-3INA",
     "attributes": {
-      "high_chair_available": "yes",
+      "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "該餐廳提供兒童專用椅，但需事先預約，其他親子友善相關資訊較少提及。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
-    "signals": [
-      "東西好吃，價位微高，有兒童專用椅 (需事先預約)"
-    ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30450,7 +30202,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30478,7 +30230,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30506,7 +30258,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30536,7 +30288,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30564,7 +30316,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30592,7 +30344,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30610,19 +30362,17 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E6%A8%82%E5%AD%90the%20Diner%20%E5%8D%97%E6%B8%AF%E5%BA%97&query_place_id=ChIJkwFdzqesQjQRKG_OT1ubKVg",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%A8%82%E5%AD%90the%20Diner%20%E5%8D%97%E6%B8%AF%E5%BA%97&query_place_id=ChIJkwFdzqesQjQRKG_OT1ubKVg",
     "attributes": {
-      "high_chair_available": "yes",
-      "kids_menu": "yes",
-      "spacious_seating": "no",
-      "kid_noise_tolerant": "yes"
+      "high_chair_available": "unknown",
+      "kids_menu": "unknown",
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "座位很多但有點擠，各桌蠻近的。"
-    ],
-    "parent_friendly_score": 3,
-    "parent_friendly_level": "高",
-    "reason": "Manual Update",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30646,11 +30396,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30678,7 +30428,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30706,7 +30456,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30734,7 +30484,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30754,17 +30504,17 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "spacious_seating": "no",
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。不過評論指出該餐廳環境適合家庭聚餐。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
+    "card_summary": "",
     "signals": [
-      "整體服務和用餐環境都不錯，適合家庭聚餐或朋友聚會，下次想再試試看其他口味的鍋！"
+      "因為空間超擁擠"
     ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30784,17 +30534,17 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。餐廳空間寬敞，適合聚餐。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "餐廳蠻大，磚紅色洞穴似的裝潢氛圍蠻好，隔壁桌似乎是拍照指定區，時刻不停的有人被服務生引導過來拍照。"
+      "整個桌面非常「熱鬧」"
     ],
-    "parent_friendly_score": 2,
+    "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30822,7 +30572,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30853,18 +30603,18 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJlVNfWeqrQjQRqO4OMZ0keZ4",
     "name": "羽樂歐陸創意料理",
-    "address": "105台灣臺北市松山區南京東路四段162號",
-    "formatted_address": "105台灣臺北市松山區南京東路四段162號",
+    "address": "105台灣臺北市松山區復勢里南京東路四段162號",
+    "formatted_address": "105台灣臺北市松山區復勢里南京東路四段162號",
     "district": "松山區",
     "rating": "4.7",
-    "user_ratings_total": 4227,
-    "price_level": null,
+    "user_ratings_total": 4332,
+    "price_level": "PRICE_LEVEL_MODERATE",
     "cuisine": null,
     "latitude": 25.051355599999997,
     "longitude": 121.55648749999999,
@@ -30873,15 +30623,18 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "spacious_seating": "yes",
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
+    "signals": [
+      "環境很舒服",
+      "Google 官方登記適合兒童用餐"
+    ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30909,7 +30662,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30937,7 +30690,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30967,7 +30720,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -30987,15 +30740,17 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "unknown",
+      "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
+    "signals": [
+      "環境很舒服"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31016,17 +30771,16 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "餐廳環境寬敞舒適，且適合家庭聚餐，但目前評論中未提及兒童座椅或兒童餐等具體親子設施。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "環境乾淨寬敞，但服務若提升會為貴司再加分喔！",
-      "用餐環境悠閒適合情侶、家庭、好友聚餐哥推薦給大家"
+      "環境乾淨寬敞"
     ],
-    "parent_friendly_score": 2,
+    "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31056,7 +30810,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31087,7 +30841,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31115,7 +30869,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31139,11 +30893,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31171,7 +30925,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31199,7 +30953,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31227,7 +30981,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31251,11 +31005,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31276,17 +31030,16 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "餐廳環境舒適寬敞，且適合家庭聚餐，氛圍輕鬆自在。",
-    "card_summary": "環境舒適寬敞，且適合家庭聚餐，氛圍輕鬆自在。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "大小包間裡很舒服且沒有一望無際的人海感。",
-      "在那些細碎的家族交談與笑聲中，菜餚一道道上桌。"
+      "地下停車場寬闊得讓人想起某種無人的儀式感"
     ],
-    "parent_friendly_score": 2,
+    "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31306,17 +31059,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。餐廳內部座位空間寬敞，用餐環境舒適。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
-    "signals": [
-      "桌子空間很大，兩人桌等於饗賓漢來的四人桌 單人也是給你兩人桌~"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31346,7 +31097,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31366,17 +31117,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，僅提到店內座位間距寬敞，建議前往前可先向店家確認。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
-    "signals": [
-      "環境：座位間距夠這一點比板橋店好。"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31400,11 +31149,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31432,7 +31181,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31460,7 +31209,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31478,20 +31227,19 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E6%99%B4%E5%A4%A9%E5%BB%9A%E6%88%BF&query_place_id=ChIJmwpiaz6pQjQRYyvkztdE-tA",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%99%B4%E5%A4%A9%E5%BB%9A%E6%88%BF&query_place_id=ChIJmwpiaz6pQjQRYyvkztdE-tA",
     "attributes": {
-      "high_chair_available": "yes",
+      "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
-      "kid_noise_tolerant": "yes"
+      "spacious_seating": "yes",
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "店內空間較小，但有提供兒童椅，且座位安排舒適。",
-    "card_summary": "提供兒童椅，店內空間不大但座位舒適。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "有兒童椅",
-      "店內空間其實不大"
+      "店面不大但位置寬敞舒適"
     ],
-    "parent_friendly_score": 2,
+    "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31519,7 +31267,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31547,7 +31295,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31575,7 +31323,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31605,7 +31353,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31635,7 +31383,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31663,7 +31411,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31691,7 +31439,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31715,11 +31463,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31743,11 +31491,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31775,7 +31523,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31805,7 +31553,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31835,7 +31583,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31855,18 +31603,17 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "店內空間較小且環境安靜，適合沉澱或工作，目前評論中未提及兒童相關設施與餐點資訊。",
-    "card_summary": "該餐廳空間較擁擠且環境較安靜，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
     "signals": [
-      "店面不大但有樓中樓座位，裡面布置有懷舊家具，還有動訊息人物。",
-      "我們用餐的時候裡面很安靜～每桌客人聊天都小小聲的～"
+      "氣氛非常好的一家店❤️我們用餐的時候裡面很安靜～每桌客人聊天都小小聲的～餐點也很好吃（在我不餓的情況下還能覺得好吃的是真的厲害👍）然後闆娘們都笑咪咪的"
     ],
     "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31896,7 +31643,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31916,18 +31663,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "空間不大但舒適，無論是白天午餐或夜晚小酌，都能感受到自在又放鬆的氛圍。",
-      "環境不大但氛圍超級讚～氣氛超級好～"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31951,11 +31695,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -31985,7 +31729,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32013,7 +31757,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32043,7 +31787,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32073,17 +31817,17 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJnZy-IMqvQjQRhdX2w_4HcKs",
     "name": "Cafe La Connection",
-    "address": "111台灣臺北市士林區華聲街87號",
-    "formatted_address": "111台灣臺北市士林區華聲街87號",
+    "address": "111台灣臺北市士林區福佳里華聲街87號",
+    "formatted_address": "111台灣臺北市士林區福佳里華聲街87號",
     "district": "士林區",
-    "rating": "4.7",
-    "user_ratings_total": 138,
+    "rating": "4.8",
+    "user_ratings_total": 141,
     "price_level": null,
     "cuisine": null,
     "latitude": 25.0948207,
@@ -32093,17 +31837,17 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "店內環境舒適且座位空間不擁擠，但座位數較少，目前評論中較少提及其他親子友善設施。",
-    "card_summary": "店內環境舒適且座位空間不擁擠。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "環境舒適，座位空間不擁擠，但是座位不多，四五組客人就差不多滿了。"
+      "Google 官方登記適合兒童用餐"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32131,7 +31875,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32151,17 +31895,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
-      "kid_noise_tolerant": "no"
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "該餐廳空間較小且座位有限，環境較為安靜，建議用餐時避免過於吵雜以免影響他人。",
-    "card_summary": "該餐廳空間較擁擠且環境較安靜，帶小孩前往需多加留意。",
-    "signals": [
-      "但開放式空間且位子偏少，不要太吵以免影響其他人用餐"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32189,7 +31931,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32212,16 +31954,15 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "該餐廳環境較為擁擠且用餐空間狹小，但因環境較為吵雜，對於帶小孩的家庭來說可能較無安靜用餐的壓力。",
-    "card_summary": "對小孩聲音較為包容，但空間較擁擠，前往時需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "我們位置本來就小，還一直縮小我們能用餐的範圍，打包的店員一直搖晃我們的餐桌，用餐環境真的很差。",
-      "環境比較擁擠，食物好吃價格不高，服務態度很好，不會因為忙而不耐煩，會再訪。",
-      "客人吵雜聲超大。"
+      "環境比較擁擠",
+      "*客人吵雜聲超大"
     ],
     "parent_friendly_score": -1,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32249,7 +31990,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32270,16 +32011,14 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "店內餐點口味較溫和，評論提及牛肉麵湯頭小孩也可以食用。",
-    "card_summary": "店內餐點口味較溫和，評論提及牛肉麵湯頭小孩也可以食用。",
-    "signals": [
-      "湯沒有很燙，看起來很像很辣但不會辣，小孩也可以吃。"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32297,22 +32036,17 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=Second%20Floor%20%E8%B2%B3%E6%A8%93%E5%BE%AE%E9%A2%A8%E5%8F%B0%E5%8C%97%E8%BB%8A%E7%AB%99%E5%BA%97&query_place_id=ChIJneUTn3KpQjQR8_eBLgiNFMU",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Second%20Floor%20%E8%B2%B3%E6%A8%93%E5%BE%AE%E9%A2%A8%E5%8F%B0%E5%8C%97%E8%BB%8A%E7%AB%99%E5%BA%97&query_place_id=ChIJneUTn3KpQjQR8_eBLgiNFMU",
     "attributes": {
-      "high_chair_available": "yes",
-      "kids_menu": "yes",
-      "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "high_chair_available": "unknown",
+      "kids_menu": "unknown",
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "貳樓微風台北車站店具備完整的親子友善設施，包括兒童椅、兒童餐，且空間寬敞、不怕小孩吵鬧，非常推薦。",
-    "card_summary": "具備完整親子設施，空間寬敞且對小孩友善。",
-    "signals": [
-      "提供兒童椅",
-      "提供兒童餐",
-      "不怕小孩吵",
-      "空間寬廣，適合聊天聚會。"
-    ],
-    "parent_friendly_score": 4,
-    "parent_friendly_level": "高",
-    "reason": "手動更新資料",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32335,14 +32069,14 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。店內環境寬敞舒適，座位安排不擁擠。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "環境乾淨整潔，座位不擁擠，空間感還不錯。"
+      "整體環境如果是坐到沙發區的話真的很寬敞很舒適"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32366,11 +32100,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32400,7 +32134,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32428,7 +32162,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32449,17 +32183,16 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "該餐廳空間寬敞且座位舒適，現場演唱氣氛熱鬧，適合聚餐。",
-    "card_summary": "空間寬敞且座位舒適，現場演唱氣氛熱鬧，適合聚餐。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "空間寬敞、座位舒適、氛圍拉滿、菜式豐富、是味覺加上聽覺雙重享受放鬆好地方！",
-      "演唱都很會帶氣氛，觀眾氛圍也都挺嗨！"
+      "空間寬敞、氛圍好的音樂餐酒館"
     ],
-    "parent_friendly_score": 2,
+    "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32483,11 +32216,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32515,7 +32248,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32543,7 +32276,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32573,7 +32306,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32601,7 +32334,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32619,22 +32352,21 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E8%BE%B2%E4%BA%BA%E9%A4%90%E6%A1%8C&query_place_id=ChIJo5uKl5ipQjQRUDGwOBCHUWs",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%BE%B2%E4%BA%BA%E9%A4%90%E6%A1%8C&query_place_id=ChIJo5uKl5ipQjQRUDGwOBCHUWs",
     "attributes": {
-      "high_chair_available": "yes",
+      "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "該餐廳空間寬敞且非常親子友善，設有適合學齡前兒童的遊戲區及兒童餐點，環境氣氛熱鬧，非常適合帶小孩前往。",
-    "card_summary": "空間寬敞且非常親子友善，設有適合學齡前兒童的遊戲區及兒童餐點，環境氣氛熱鬧。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "空間很寬敞，很適合親子聚會。",
-      "不過小孩真的太多了，所以周圍很吵鬧，有很不錯的小孩遊樂設施",
-      "兒童餐：青醬雞肉丸麵。",
-      "空間很大適合多人聚餐"
+      "空間很寬敞",
+      "⚠️兒童餐：本來想點兔子咖喱飯",
+      "所以周圍很吵鬧"
     ],
-    "parent_friendly_score": 5,
+    "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32662,7 +32394,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32692,7 +32424,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32722,7 +32454,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32750,7 +32482,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32778,7 +32510,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32809,7 +32541,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32837,7 +32569,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32867,7 +32599,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32887,17 +32619,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "店家小小的 有內用及戶外區 內用位置不多"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32921,22 +32651,22 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJoV5Vt-CrQjQRX99q0bEVO_k",
     "name": "Le Park Cafe公園咖啡館",
-    "address": "104台灣臺北市中山區遼寧街146號",
-    "formatted_address": "104台灣臺北市中山區遼寧街146號",
+    "address": "104台灣臺北市中山區復華里遼寧街146號",
+    "formatted_address": "104台灣臺北市中山區復華里遼寧街146號",
     "district": "中山區",
     "rating": "4.5",
-    "user_ratings_total": 1489,
-    "price_level": null,
+    "user_ratings_total": 1514,
+    "price_level": "PRICE_LEVEL_MODERATE",
     "cuisine": null,
     "latitude": 25.0538428,
     "longitude": 121.54203099999998,
@@ -32944,16 +32674,16 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Le%20Park%20Cafe%E5%85%AC%E5%9C%92%E5%92%96%E5%95%A1%E9%A4%A8&query_place_id=ChIJoV5Vt-CrQjQRX99q0bEVO_k",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
+      "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
     "signals": [],
-    "parent_friendly_score": 0,
+    "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32981,7 +32711,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -32999,17 +32729,19 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=PASTAIO%20%E6%89%8B%E5%B7%A5%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5%20%E5%85%89%E5%BE%A9%E5%BA%97&query_place_id=ChIJoWstbC6rQjQRS5JYXUqAzAU",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=PASTAIO%20%E6%89%8B%E5%B7%A5%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5%20%E5%85%89%E5%BE%A9%E5%BA%97&query_place_id=ChIJoWstbC6rQjQRS5JYXUqAzAU",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "signals": [
+      "這次沒事先訂位坐在高腳椅吧檯"
+    ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -33029,17 +32761,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。店內環境被評價為空間舒服。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
-    "signals": [
-      "店內空間舒服"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -33057,23 +32787,20 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E5%AA%BD%E5%A6%B3%E8%AC%9B%E8%A6%AA%E5%AD%90%E9%A4%90%E5%BB%B3%20%28MONEY%20JUMP%29&query_place_id=ChIJoZlomYarQjQRQ6dO-drU7eg",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%AA%BD%E5%A6%B3%E8%AC%9B%E8%A6%AA%E5%AD%90%E9%A4%90%E5%BB%B3%20%28MONEY%20JUMP%29&query_place_id=ChIJoZlomYarQjQRQ6dO-drU7eg",
     "attributes": {
-      "high_chair_available": "yes",
+      "high_chair_available": "unknown",
       "kids_menu": "yes",
-      "spacious_seating": "yes",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "該餐廳空間寬敞舒適，提供兒童餐及寶寶粥，且環境充滿歡樂氣氛，非常適合帶小孩前往慶生或聚餐。",
-    "card_summary": "空間寬敞舒適，提供兒童餐及寶寶粥，且環境充滿歡樂氣氛，非常適合帶小孩前往慶生或聚餐。",
+    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "室內空間非常大.而且很舒適",
-      "除了兒童餐，還有寶寶泥跟寶寶粥🥣",
-      "有孩子們的地方真的好歡樂，光跟朋友的娃玩耍就覺得很療育。",
-      "親子友善空間 小朋友都很愛",
-      "如果喜歡小朋友 不怕孩子們吵的話，用餐體驗滿分囉～"
+      "除了兒童餐",
+      "親子友善空間 小朋友都很愛 已購買 ^3"
     ],
-    "parent_friendly_score": 5,
-    "parent_friendly_level": "高",
-    "reason": "綜合評估",
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -33101,39 +32828,38 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJoaP21WOpQjQRujwXUxC4FME",
     "name": "淘憩時光親子餐廳・義大利麵・手作燉飯・現烤鬆餅",
-    "address": "104台灣臺北市中山區松江路69巷5號",
-    "formatted_address": "104台灣臺北市中山區松江路69巷5號",
+    "address": "104台灣臺北市中山區朱園里松江路69巷5號",
+    "formatted_address": "104台灣臺北市中山區朱園里松江路69巷5號",
     "district": "中山區",
     "rating": "4.4",
-    "user_ratings_total": 945,
-    "price_level": null,
+    "user_ratings_total": 963,
+    "price_level": "PRICE_LEVEL_MODERATE",
     "cuisine": null,
     "latitude": 25.0494544,
     "longitude": 121.53387049999999,
     "url": "https://www.google.com/maps/search/?api=1&query=%E6%B7%98%E6%86%A9%E6%99%82%E5%85%89%E8%A6%AA%E5%AD%90%E9%A4%90%E5%BB%B3%E3%83%BB%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5%E3%83%BB%E6%89%8B%E4%BD%9C%E7%87%89%E9%A3%AF%E3%83%BB%E7%8F%BE%E7%83%A4%E9%AC%86%E9%A4%85&query_place_id=ChIJoaP21WOpQjQRujwXUxC4FME",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%B7%98%E6%86%A9%E6%99%82%E5%85%89%E8%A6%AA%E5%AD%90%E9%A4%90%E5%BB%B3%E3%83%BB%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5%E3%83%BB%E6%89%8B%E4%BD%9C%E7%87%89%E9%A3%AF%E3%83%BB%E7%8F%BE%E7%83%A4%E9%AC%86%E9%A4%85&query_place_id=ChIJoaP21WOpQjQRujwXUxC4FME",
     "attributes": {
-      "high_chair_available": "yes",
+      "high_chair_available": "unknown",
       "kids_menu": "yes",
-      "spacious_seating": "yes",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "這是一家非常專業且貼心的親子餐廳，提供寶寶粥、球池及豐富的遊樂設施。雖然空間走溫馨路線，但各項親子設備（如尿布台、熱水）一應俱全，非常適合帶小孩前往。",
-    "card_summary": "這是一家專業且貼心的親子餐廳，提供寶寶粥、球池及豐富遊樂設施，親子設備一應俱全。",
+    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "很棒的親子餐廳，有球池、車車、廚房組，還有提供熱水、尿布台，店員也很貼心提供服務。",
-      "小小的店很溫馨",
-      "還有提供寶寶粥，兒子吃超飽，滿足的笑嘻嘻。"
+      "Google 官方登記提供兒童餐點",
+      "Google 官方登記適合兒童用餐"
     ],
-    "parent_friendly_score": 4,
-    "parent_friendly_level": "High",
-    "reason": "專業親子餐廳，設施極其完善（球池、車車、尿布台、寶寶粥），對親子客群高度友善。",
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -33163,7 +32889,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -33187,11 +32913,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -33221,7 +32947,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -33245,11 +32971,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -33273,11 +32999,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -33305,7 +33031,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -33333,7 +33059,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -33361,7 +33087,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -33381,17 +33107,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
-    "signals": [
-      "座位沒有很多 不會很擠"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -33415,11 +33139,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -33428,9 +33152,9 @@ const restaurantData = [
     "address": "105台灣臺北市松山區興安街192號",
     "formatted_address": "105台灣臺北市松山區興安街192號",
     "district": "松山區",
-    "rating": "4.5",
-    "user_ratings_total": 1269,
-    "price_level": null,
+    "rating": "4.4",
+    "user_ratings_total": 1329,
+    "price_level": "PRICE_LEVEL_MODERATE",
     "cuisine": "義大利料理",
     "latitude": 25.0559695,
     "longitude": 121.54527279999999,
@@ -33438,18 +33162,18 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8F%88%E4%B8%80%E9%96%93%E5%95%86%E8%A1%8CSPAGHETTI&query_place_id=ChIJp7WiKXyrQjQRUaxE_f4nw0A",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
+      "kids_menu": "no",
       "spacious_seating": "no",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
+    "card_summary": "",
     "signals": [
-      "店內主要是吧檯和兩人座，大廚就在面前開放式廚房烹飪，一次用鐵鍋翻炒四鍋真的滿驚人的！"
+      "但不會到擁擠"
     ],
     "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -33479,7 +33203,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -33507,7 +33231,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -33537,7 +33261,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -33557,17 +33281,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "🎊🎊很棒的地方，雖然窄小一點，坐吧台跟料理區域沒有隔板，所以很熱，臉不是喝出來的紅，是料理區域熱氣讓臉紅燙感🤭🤭。"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -33595,7 +33317,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -33623,7 +33345,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -33651,7 +33373,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -33679,7 +33401,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -33699,28 +33421,26 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "因為不限時且座位不多，建議先訂位。"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJpdkbPm2pQjQR8IPxB9Jy8rI",
     "name": "Soshow Bar & Restaurant",
-    "address": "2f, No. 47號中山北路一段中山區臺北市台灣 104",
-    "formatted_address": "2f, No. 47號中山北路一段中山區臺北市台灣 104",
+    "address": "2f, No. 47號中山北路一段正得里中山區臺北市台灣 104",
+    "formatted_address": "2f, No. 47號中山北路一段正得里中山區臺北市台灣 104",
     "district": "中山區",
     "rating": "4.5",
-    "user_ratings_total": 1441,
-    "price_level": null,
+    "user_ratings_total": 1468,
+    "price_level": "PRICE_LEVEL_MODERATE",
     "cuisine": "咖啡廳",
     "latitude": 25.049198699999998,
     "longitude": 121.52157310000001,
@@ -33730,14 +33450,14 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
     "signals": [],
-    "parent_friendly_score": 0,
+    "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -33768,7 +33488,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -33799,7 +33519,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -33820,16 +33540,14 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳環境較安靜，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳環境較安靜，帶小孩前往需多加留意。",
-    "signals": [
-      "很適合約會的餐廳，整體氣氛舒服又有質感，會讓人想慢慢吃、好好聊天。"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -33853,11 +33571,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -33887,7 +33605,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -33908,16 +33626,14 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。不過根據評論，該餐廳環境適合家庭聚餐。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
-    "signals": [
-      "假日來生意挺好的，不管是朋友、情侶還是家人用餐都算適合"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -33945,7 +33661,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -33973,7 +33689,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34001,7 +33717,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34029,7 +33745,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34049,18 +33765,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
-      "kid_noise_tolerant": "yes"
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "該店適合家庭快速用餐，但店內座位空間較為狹窄，且目前評論中未提及兒童椅或兒童餐相關資訊。",
-    "card_summary": "對小孩聲音較為包容，但空間較擁擠，前往時需多加留意。",
-    "signals": [
-      "座位安排不算壅擠，適合一家人或朋友一起來快速解決一餐。",
-      "店內桌椅位置稍嫌狹窄，用餐時間許多客人吃完不走…直接打起傳說對決或滑影片導致店內客人沒有座位可以坐。"
-    ],
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34088,7 +33801,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34116,7 +33829,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34144,7 +33857,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34162,19 +33875,19 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E6%AC%A3%E8%91%89%E5%B0%8F%E8%81%9A%20%E5%8D%97%E6%B8%AF%E5%BA%97&query_place_id=ChIJqX7CxKesQjQRWduxZ7juYTM",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%AC%A3%E8%91%89%E5%B0%8F%E8%81%9A%20%E5%8D%97%E6%B8%AF%E5%BA%97&query_place_id=ChIJqX7CxKesQjQRWduxZ7juYTM",
     "attributes": {
-      "high_chair_available": "yes",
+      "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，僅有評論提及該餐廳適合家庭聚餐，建議前往前可先向店家確認兒童椅及兒童餐等設施。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "服務好上菜快環境舒適，是一家很適合家庭聚餐的台菜餐廳。"
+      "關起門來就可以隔絕外面的吵雜"
     ],
-    "parent_friendly_score": 2,
+    "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "Manual Update",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34204,14 +33917,14 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJq_1oDQmpQjQRlMaxMHpr3PU",
     "name": "HAIR SALON BISTRO餐酒館",
-    "address": "108台灣台北市万华区武昌街二段72號4樓",
-    "formatted_address": "108台灣台北市万华区武昌街二段72號4樓",
+    "address": "108台灣台北市万华区西门里武昌街二段72號4樓",
+    "formatted_address": "108台灣台北市万华区西门里武昌街二段72號4樓",
     "district": "",
     "rating": "4.6",
     "user_ratings_total": 78,
@@ -34228,11 +33941,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34252,17 +33965,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "餐廳空間寬敞舒適，適合推車進出且用餐環境不擁擠，但目前評論中較少提及兒童餐椅或兒童餐等相關資訊。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
-    "signals": [
-      "空間位置很大不會跟隔壁太近吃飯配山景很棒，帶雙胞胎戰車一起去也很好移動，不會影響到別人。"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34286,11 +33997,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34320,7 +34031,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34350,7 +34061,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34381,7 +34092,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34405,11 +34116,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34429,19 +34140,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "內用座位桌數不多記得提前預約訂位！",
-      "桌面真的不大 但整體溫馨氛圍感瑕不掩瑜",
-      "桌間太近，桌面空間小，份量有些小，不然很棒！"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34464,14 +34171,14 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
     "signals": [
       "知道我們有臨時性的會議還幫忙安排安靜的商務房間"
     ],
     "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34499,7 +34206,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34529,7 +34236,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34549,18 +34256,17 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "該餐廳空間寬敞且環境較為熱鬧，對於攜帶兒童用餐的家庭來說相對自在，但目前評論中未提及兒童椅或兒童餐點資訊。",
-    "card_summary": "空間寬敞且環境較為熱鬧。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "裡面比我想像的大很多，很像一間澳門城堡的外型",
-      "店內座位多、翻桌快，雖然人多時會稍微吵雜，但整體用餐上仍然舒適。"
+      "雖然人多時會稍微吵雜"
     ],
-    "parent_friendly_score": 2,
+    "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34588,7 +34294,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34618,7 +34324,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34646,7 +34352,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34676,7 +34382,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34704,18 +34410,18 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJr52_JZ2pQjQRQ_UeWocNMTE",
     "name": "別處咖啡 Away cafe",
-    "address": "10089台灣臺北市中正區羅斯福路三段244巷9弄2-1號",
-    "formatted_address": "10089台灣臺北市中正區羅斯福路三段244巷9弄2-1號",
+    "address": "10089台灣臺北市中正區文盛里羅斯福路三段244巷9弄2-1號",
+    "formatted_address": "10089台灣臺北市中正區文盛里羅斯福路三段244巷9弄2-1號",
     "district": "中正區",
     "rating": "4.4",
-    "user_ratings_total": 512,
-    "price_level": null,
+    "user_ratings_total": 526,
+    "price_level": "PRICE_LEVEL_MODERATE",
     "cuisine": null,
     "latitude": 25.0169359,
     "longitude": 121.530442,
@@ -34723,16 +34429,18 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%88%A5%E8%99%95%E5%92%96%E5%95%A1%20Away%20cafe&query_place_id=ChIJr52_JZ2pQjQRQ_UeWocNMTE",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
+      "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
+    "signals": [
+      "Google 官方登記適合兒童用餐"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34763,7 +34471,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34791,7 +34499,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34815,11 +34523,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34847,7 +34555,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34877,7 +34585,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34895,17 +34603,17 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E6%AC%A3%E8%91%89%E5%8F%B0%E8%8F%9C%20%E4%BF%A1%E7%BE%A9%E6%96%B0%E5%A4%A9%E5%9C%B0A9%E5%BA%97&query_place_id=ChIJrSZypLCrQjQRdNWuZqKdwqM",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%AC%A3%E8%91%89%E5%8F%B0%E8%8F%9C%20%E4%BF%A1%E7%BE%A9%E6%96%B0%E5%A4%A9%E5%9C%B0A9%E5%BA%97&query_place_id=ChIJrSZypLCrQjQRdNWuZqKdwqM",
     "attributes": {
-      "high_chair_available": "yes",
+      "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "Manual Update",
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34935,7 +34643,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34963,7 +34671,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -34982,18 +34690,16 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%8F%81%E6%98%9F%E7%87%92%E8%82%89%E9%87%8D%E9%A3%AF-%E3%83%9F%E3%83%84%E3%83%9C%E3%82%B7%E5%8D%97%E6%B8%AF%E6%9C%AC%E5%BA%97&query_place_id=ChIJrcCWRgCtQjQRQ_pXCyJeJ0U",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "yes",
+      "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "該餐廳有提供小朋友分享餐，其餘親子友善設施資訊較少，建議前往前可先向店家確認。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
-    "signals": [
-      "加點了小朋友分享餐吃的很撐。"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35024,7 +34730,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35052,7 +34758,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35080,7 +34786,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35110,7 +34816,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35138,7 +34844,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35168,7 +34874,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35198,7 +34904,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35228,7 +34934,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35256,7 +34962,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35286,7 +34992,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35314,7 +35020,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35344,7 +35050,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35372,7 +35078,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35390,20 +35096,20 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E7%94%B2%E8%9F%B2%E7%A7%98%E5%A2%83&query_place_id=ChIJsS8FHNyvQjQRwtaRVpPMyAI",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%94%B2%E8%9F%B2%E7%A7%98%E5%A2%83&query_place_id=ChIJsS8FHNyvQjQRwtaRVpPMyAI",
     "attributes": {
-      "high_chair_available": "yes",
+      "high_chair_available": "unknown",
       "kids_menu": "yes",
-      "spacious_seating": "yes",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "這是一間親子友善的甲蟲主題餐廳，環境熱鬧且設有兒童餐與遊戲區，非常適合帶小孩前往體驗。",
-    "card_summary": "這是一間親子友善的甲蟲主題餐廳，環境熱鬧且設有兒童餐與遊戲區，非常適合帶小孩前往體驗。",
+    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "親子餐廳類型，會稍微「熱鬧」，不過佈置不錯，相當不錯的甲蟲餐廳，週末常客滿記得提早訂位",
-      "兒童餐覺得實在是太迷你價錢偏高，直接點大人餐點比較划算，小孩光顧著玩什麼都覺得好吃😄"
+      "兒童餐覺得實在是太迷你價錢偏高",
+      "會稍微「熱鬧」"
     ],
-    "parent_friendly_score": 5,
-    "parent_friendly_level": "高",
-    "reason": "綜合評估",
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35426,14 +35132,14 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
     "signals": [
       "這是一碗會讓你安靜下來的牛肉麵"
     ],
     "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35456,16 +35162,14 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "店內空間較為擁擠狹窄，且環境較為嘈雜，目前評論中未提及兒童座椅或兒童餐點等相關資訊。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
+    "card_summary": "",
     "signals": [
-      "店內空間偏擁擠，用餐時難免會被店員來回穿梭時「ㄎㄟˊ」到幾下，動線較為緊湊。",
-      "內用環境擁擠嘈雜，且座位說實在的不太乾淨，地板有陳年污漬的髒污感。",
-      "位子跟位子之間真的蠻近的。"
+      "店內空間偏擁擠"
     ],
     "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35493,7 +35197,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35521,18 +35225,18 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJsVHmQm6pQjQRykPNN0wJEd4",
     "name": "心味酒肴居酒屋",
-    "address": "10491台灣臺北市中山區中山北路一段37號",
-    "formatted_address": "10491台灣臺北市中山區中山北路一段37號",
+    "address": "10491台灣臺北市中山區正得里中山北路一段37號",
+    "formatted_address": "10491台灣臺北市中山區正得里中山北路一段37號",
     "district": "中山區",
     "rating": "4.4",
-    "user_ratings_total": 1478,
-    "price_level": null,
+    "user_ratings_total": 1481,
+    "price_level": "PRICE_LEVEL_MODERATE",
     "cuisine": "日式料理",
     "latitude": 25.0489817,
     "longitude": 121.52145790000002,
@@ -35540,16 +35244,16 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%BF%83%E5%91%B3%E9%85%92%E8%82%B4%E5%B1%85%E9%85%92%E5%B1%8B&query_place_id=ChIJsVHmQm6pQjQRykPNN0wJEd4",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
+      "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
     "signals": [],
-    "parent_friendly_score": 0,
+    "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35580,7 +35284,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35611,7 +35315,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35641,7 +35345,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35664,14 +35368,14 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，僅提及店內空間寬敞，建議前往前可先向店家確認兒童設施與餐點。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "空間寬敞，四位用餐都還蠻足夠"
+      "空間寬敞"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35702,7 +35406,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35730,7 +35434,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35760,7 +35464,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35781,16 +35485,14 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，僅提到適合家庭聚餐，建議前往前可先向店家確認。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
-    "signals": [
-      "很適合家庭聚餐、尾牙吃飯、朋友相聚用餐～"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35820,7 +35522,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35844,11 +35546,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35868,18 +35570,17 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠、環境較安靜，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠且環境較安靜，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
     "signals": [
-      "環境雖然不大但座位溫馨舒適🍽️。",
-      "整體氛圍樸實無華，適合安靜細細品味海味，價格合理且份量足，用餐時段常常客滿，建議先訂位。"
+      "適合安靜細細品味海味"
     ],
     "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35909,7 +35610,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35937,7 +35638,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35965,7 +35666,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -35995,7 +35696,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36023,7 +35724,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36047,11 +35748,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36082,7 +35783,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36103,18 +35804,16 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "餐廳空間寬敞，適合推車進出。對於兒童用餐的突發狀況，服務人員展現高水準的應對能力，整體對親子客群友善。",
-    "card_summary": "餐廳空間寬敞，適合推車進出，對於兒童用餐的突發狀況，服務人員展現高水準的應對能力。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "座位寬敞，桌與桌的間距很大，連娃娃車應該都能輕鬆推過，不用擔心被隔壁客人影響。",
-      "剛好遇到隔壁桌有失控尖叫的小孩",
-      "算是孕婦兒童友善"
+      "座位寬敞"
     ],
-    "parent_friendly_score": 2,
+    "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36144,7 +35843,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36172,7 +35871,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36202,7 +35901,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36225,14 +35924,14 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，但店家對於顧客吵鬧的包容度較高，建議前往前可先向店家確認兒童設施。",
-    "card_summary": "目前評論中較少提及與親子用餐相關的具體資訊。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "一群人比較吵鬧，也沒有被擺臉色。"
+      "當天去過生日 一群人比較吵鬧"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36262,7 +35961,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36292,7 +35991,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36315,15 +36014,15 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "該餐廳用餐空間寬敞，且環境氛圍熱絡，適合家庭聚餐。",
-    "card_summary": "用餐空間寬敞，且環境氛圍熱絡，適合家庭聚餐。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
       "空間寬敞&廁所乾淨加分❤️",
-      "唯獨真的是太熱絡了，所以用餐時間稍稍難免會有吵雜，但可以接受的範圍囉！"
+      "所以用餐時間稍稍難免會有吵雜"
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36351,7 +36050,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36375,11 +36074,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36409,7 +36108,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36437,7 +36136,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36465,7 +36164,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36493,7 +36192,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36521,7 +36220,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36551,7 +36250,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36581,7 +36280,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36601,17 +36300,17 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "餐廳規模不大，總共6桌。"
+      "相當熱鬧、美好的一天"
     ],
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36631,19 +36330,17 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠、環境較安靜，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠且環境較安靜，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
     "signals": [
-      "餐廳屬於精緻15人座位安排，讓客人近距離感受到廚師的用心以及準備食材的視感。",
-      "餐廳又很安靜，坐的太靠近 反而有點不自在。",
-      "店門不大，座位也很少。"
+      "餐廳又很安靜"
     ],
     "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36671,7 +36368,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36701,7 +36398,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36731,7 +36428,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36755,11 +36452,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36789,7 +36486,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36812,14 +36509,14 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
     "signals": [
       "隱藏在安靜的巷內"
     ],
     "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36849,7 +36546,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36873,11 +36570,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36907,7 +36604,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36937,7 +36634,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36961,11 +36658,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -36985,17 +36682,17 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "可惜我們那天的桌子有點小，我們先被一位女店員帶位到四人座，坐下後又被一位男店員請起立到兩人座。"
+      "氣氛熱鬧歡樂"
     ],
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37025,7 +36722,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37056,7 +36753,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37086,7 +36783,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37114,7 +36811,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37137,14 +36834,14 @@ const restaurantData = [
       "spacious_seating": "no",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
+    "card_summary": "",
     "signals": [
-      "位子比較擁擠，但料理很實在!"
+      "位子比較擁擠"
     ],
     "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37168,11 +36865,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37203,7 +36900,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37233,7 +36930,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37261,7 +36958,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37282,14 +36979,16 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
+    "signals": [
+      "也是我們這群人最吵鬧😆"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37319,7 +37018,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37347,7 +37046,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37375,7 +37074,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37403,7 +37102,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37431,7 +37130,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37459,7 +37158,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37489,7 +37188,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37519,7 +37218,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37542,14 +37241,14 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "根據評論顯示，該餐廳環境較安靜，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳環境較安靜，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
     "signals": [
-      "用餐環境舒適安靜，座位安排合理，適合想找一個安靜空間吃飯或簡單聚餐的人。"
+      "用餐環境舒適安靜"
     ],
     "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37577,7 +37276,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37597,18 +37296,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "該餐廳用餐空間寬敞，且評論指出非常適合全家人或小朋友一同前往用餐。",
-    "card_summary": "用餐空間寬敞，且評論指出非常適合全家人或小朋友一同前往用餐。",
-    "signals": [
-      "賣場內的美食街，內用空間超級多，裝潢色系偏向明亮。",
-      "非常適合全家人或小朋友一起來吃。"
-    ],
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37628,17 +37324,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "連個放包包外套的地方都沒有，QR code點餐，餐具自己拿，水自己倒，只能說很普，我限動都懶的發了"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37668,7 +37362,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37698,7 +37392,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37726,7 +37420,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37754,7 +37448,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37777,14 +37471,14 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "評論指出這家餐廳對親子家庭友善。",
-    "card_summary": "環境氛圍適合小家庭前往用餐。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "很適合小家庭用餐。"
+      "吵雜但仍可交談"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37812,7 +37506,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37830,19 +37524,19 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E6%A8%82%E5%AD%90the%20Diner%20%E7%91%9E%E5%AE%89%E5%BA%97&query_place_id=ChIJvU5mgSmqQjQR0WhA_Zruk5E",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%A8%82%E5%AD%90the%20Diner%20%E7%91%9E%E5%AE%89%E5%BA%97&query_place_id=ChIJvU5mgSmqQjQR0WhA_Zruk5E",
     "attributes": {
-      "high_chair_available": "yes",
-      "kids_menu": "yes",
+      "high_chair_available": "unknown",
+      "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "餐廳環境寬敞舒適，適合與家人聚餐，但目前評論中較少提及兒童座椅或兒童餐等具體親子設施資訊。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "這裡的座位配置寬敞舒適，無論是和朋友家人聚餐，或是獨自一人享受片刻寧靜，都能找到最適合你的角落。"
+      "這裡的座位配置寬敞舒適"
     ],
-    "parent_friendly_score": 4,
-    "parent_friendly_level": "高",
-    "reason": "Manual Update",
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37872,7 +37566,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37902,7 +37596,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37926,41 +37620,42 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJvWWkxO6rQjQRHf_zc9VTcAE",
     "name": "樂雅樂餐廳 敦化店",
-    "address": "105台灣臺北市松山區敦化北路199巷9號",
-    "formatted_address": "105台灣臺北市松山區敦化北路199巷9號",
+    "address": "105台灣臺北市松山區精忠里敦化北路199巷9號",
+    "formatted_address": "105台灣臺北市松山區精忠里敦化北路199巷9號",
     "district": "松山區",
     "rating": "4.1",
-    "user_ratings_total": 2404,
-    "price_level": null,
+    "user_ratings_total": 2425,
+    "price_level": "PRICE_LEVEL_MODERATE",
     "cuisine": null,
     "latitude": 25.056750899999997,
     "longitude": 121.55204900000001,
     "url": "https://www.google.com/maps/search/?api=1&query=%E6%A8%82%E9%9B%85%E6%A8%82%E9%A4%90%E5%BB%B3%20%E6%95%A6%E5%8C%96%E5%BA%97&query_place_id=ChIJvWWkxO6rQjQRHf_zc9VTcAE",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%A8%82%E9%9B%85%E6%A8%82%E9%A4%90%E5%BB%B3%20%E6%95%A6%E5%8C%96%E5%BA%97&query_place_id=ChIJvWWkxO6rQjQRHf_zc9VTcAE",
     "attributes": {
-      "high_chair_available": "yes",
+      "high_chair_available": "unknown",
       "kids_menu": "yes",
-      "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "該餐廳用餐環境寬敞舒適，但目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
+    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "服務人員感覺都待很久了，態度都非常好，用餐環境寬敞及舒適。"
+      "Google 官方登記提供兒童餐點",
+      "Google 官方登記適合兒童用餐"
     ],
-    "parent_friendly_score": 3,
-    "parent_friendly_level": "高",
-    "reason": "Manual Update",
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -37980,17 +37675,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "店內位置不多狹長型，只能現金付款。"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38014,11 +37707,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38042,11 +37735,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38074,35 +37767,38 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJvdWMGY2rQjQRjF3SNuha2Tw",
     "name": "松果院子",
-    "address": "105台灣臺北市松山區富錦街449號",
-    "formatted_address": "105台灣臺北市松山區富錦街449號",
+    "address": "105台灣臺北市松山區三民里富錦街449號",
+    "formatted_address": "105台灣臺北市松山區三民里富錦街449號",
     "district": "松山區",
     "rating": "4.2",
-    "user_ratings_total": 2284,
-    "price_level": null,
+    "user_ratings_total": 2306,
+    "price_level": "PRICE_LEVEL_MODERATE",
     "cuisine": "義大利料理",
     "latitude": 25.0609334,
     "longitude": 121.56160799999999,
     "url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BE%E6%9E%9C%E9%99%A2%E5%AD%90&query_place_id=ChIJvdWMGY2rQjQRjF3SNuha2Tw",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9D%BE%E6%9E%9C%E9%99%A2%E5%AD%90&query_place_id=ChIJvdWMGY2rQjQRjF3SNuha2Tw",
     "attributes": {
-      "high_chair_available": "unknown",
-      "kids_menu": "unknown",
+      "high_chair_available": "yes",
+      "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅, 環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
+    "signals": [
+      "餐廳有兒童椅",
+      "Google 官方登記適合兒童用餐"
+    ],
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38122,17 +37818,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "小小的一間飯館"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38156,11 +37850,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38188,7 +37882,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38216,7 +37910,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38244,7 +37938,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38272,7 +37966,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38300,7 +37994,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38330,7 +38024,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38354,11 +38048,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38389,7 +38083,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38419,7 +38113,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38447,7 +38141,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38478,7 +38172,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -1,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38498,18 +38192,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "然後桌子跟桌子桌距很近，不太適合聊天",
-      "還想要補充「位置、座位」也越來越擠了，沒有以前用餐的享受感，會想回訪的感覺降很低。"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38530,17 +38221,16 @@ const restaurantData = [
       "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "餐廳提供兒童座椅與餐具，且整體氛圍溫馨，非常適合家庭聚餐。",
-    "card_summary": "餐廳提供兒童座椅與餐具，且整體氛圍溫馨，非常適合家庭聚餐。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅。",
+    "card_summary": "",
     "signals": [
-      "八位大人一位小孩（友善提供兒童座椅及餐具）",
-      "餐廳整體的氛圍相當不錯，裝潢帶有時髦的復古感，非常適合家庭或朋友聚餐。"
+      "八位大人一位小孩（友善提供兒童座椅及餐具）"
     ],
-    "parent_friendly_score": 3,
-    "parent_friendly_level": "高",
-    "reason": "綜合評估",
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38568,7 +38258,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38599,7 +38289,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38629,7 +38319,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38653,11 +38343,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38685,7 +38375,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38713,7 +38403,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38741,7 +38431,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38769,7 +38459,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38787,17 +38477,19 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=Street%20Pasta%E8%A1%97%E9%A0%AD%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5&query_place_id=ChIJwdwji8arQjQRxue7HINlHjw",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Street%20Pasta%E8%A1%97%E9%A0%AD%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5&query_place_id=ChIJwdwji8arQjQRxue7HINlHjw",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "signals": [
+      "加一個高腳椅二人桌"
+    ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38828,7 +38520,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38858,7 +38550,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38878,17 +38570,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "該店環境明亮舒適，但目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
-    "signals": [
-      "樣貌與環境新穎，空間明亮舒適，菜品樣貌也誘人，無數名人到訪，沒來吃過還真不好意思說出去。"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38916,7 +38606,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38946,7 +38636,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38976,7 +38666,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -38996,17 +38686,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "該餐廳用餐空間寬敞舒適，動線規劃良好，但目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
-    "signals": [
-      "不會為了走動或者座位空間而覺得憋屈"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39030,11 +38718,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39058,11 +38746,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39080,17 +38768,19 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=Sky%20Cofi%20%E5%92%96%E5%95%A1%E9%A4%A8&query_place_id=ChIJx5pbLJCrQjQR-bUq5x-2j2s",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Sky%20Cofi%20%E5%92%96%E5%95%A1%E9%A4%A8&query_place_id=ChIJx5pbLJCrQjQR-bUq5x-2j2s",
     "attributes": {
-      "high_chair_available": "unknown",
+      "high_chair_available": "yes",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳有提供兒童座椅。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "signals": [
+      "配備單人高腳椅、沙發區、2人座、辦公室會議長桌"
+    ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39121,7 +38811,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39151,7 +38841,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39179,7 +38869,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39199,17 +38889,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "店內的空間不大，但還可以！"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39232,14 +38920,14 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "根據評論顯示，該餐廳環境較安靜，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳環境較安靜，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
     "signals": [
-      "環境舒適安靜，適合朋友聊天、約會"
+      "環境舒適安靜"
     ],
     "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39267,7 +38955,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39287,17 +38975,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，僅提到店內桌距適中、座位舒適，建議前往前可先向店家確認。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
-    "signals": [
-      "桌距不會很近，座位很舒服。"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39327,7 +39013,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39350,15 +39036,14 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "美食廣場用餐環境寬敞明亮，但目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "美食廣場用餐環境寬敞明亮。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "松山機場第二航廈二樓設有美食廣場，有提供很多品牌的餐飲選擇，用餐環境寬敞明亮。",
-      "重新裝璜整理過，乾凈寬敞，雖然店家不多，但整體而言還是ok的，有一些台灣意象表現的不錯"
+      "用餐環境寬敞明亮"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39386,7 +39071,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39410,11 +39095,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39444,7 +39129,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39474,7 +39159,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39504,7 +39189,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39532,7 +39217,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39560,7 +39245,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39590,7 +39275,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39618,7 +39303,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39641,14 +39326,14 @@ const restaurantData = [
       "spacious_seating": "yes",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "店內座位空間寬敞，適合用餐，但目前評論中較少提及與親子友善設施相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "座位很寬敞，只是環境燈光有點暗。"
+      "座位很寬敞"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39676,7 +39361,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39706,7 +39391,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39736,7 +39421,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39766,7 +39451,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39790,22 +39475,22 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
     "place_id": "ChIJySwN8durQjQRpe5ndb5Zriw",
     "name": "筷子餐廳",
-    "address": "106台灣臺北市大安區光復南路290巷1號",
-    "formatted_address": "106台灣臺北市大安區光復南路290巷1號",
+    "address": "106台灣臺北市大安區正聲里光復南路290巷1號",
+    "formatted_address": "106台灣臺北市大安區正聲里光復南路290巷1號",
     "district": "大安區",
     "rating": "4.1",
-    "user_ratings_total": 1172,
-    "price_level": null,
+    "user_ratings_total": 1184,
+    "price_level": "PRICE_LEVEL_MODERATE",
     "cuisine": "中式料理",
     "latitude": 25.039132,
     "longitude": 121.55713300000001,
@@ -39813,18 +39498,18 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%AD%B7%E5%AD%90%E9%A4%90%E5%BB%B3&query_place_id=ChIJySwN8durQjQRpe5ndb5Zriw",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
+      "kids_menu": "no",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
     "signals": [
-      "有適合家庭聚餐的大圓桌"
+      "Google 官方登記適合兒童用餐"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39852,7 +39537,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39870,19 +39555,17 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=Second%20Floor%20%E8%B2%B3%E6%A8%93%E5%8D%97%E6%B8%AF%E8%BB%8A%E7%AB%99%E5%BA%97&query_place_id=ChIJyWRT3mWrQjQRFOM_DSk68CE",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Second%20Floor%20%E8%B2%B3%E6%A8%93%E5%8D%97%E6%B8%AF%E8%BB%8A%E7%AB%99%E5%BA%97&query_place_id=ChIJyWRT3mWrQjQRFOM_DSk68CE",
     "attributes": {
-      "high_chair_available": "yes",
-      "kids_menu": "yes",
-      "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "high_chair_available": "unknown",
+      "kids_menu": "unknown",
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。僅有評論提到店內座位舒適。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
-    "signals": [
-      "整體還行，座位蠻舒服"
-    ],
-    "parent_friendly_score": 4,
-    "parent_friendly_level": "高",
-    "reason": "Manual Update",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39912,7 +39595,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39933,17 +39616,16 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "餐廳環境寬敞舒適，且對親子家庭友善，適合帶小朋友一同前往用餐。",
-    "card_summary": "環境寬敞舒適，且對親子家庭友善，適合帶小朋友一同前往用餐。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "card_summary": "",
     "signals": [
-      "用餐環境乾淨、舒適、空間大，重點是剛好今天吃素，老闆也很親切的幫我做成素烏醋麵，就已經很好吃了！",
-      "餐點好吃，小朋友和大人都吃得很高興，有機會一定會再回來吃，拉麵還可加麵，內用還有免費的飲料，Google評價還送可麗餅，真的是太棒了😊"
+      "用餐環境乾淨、舒適、空間大"
     ],
-    "parent_friendly_score": 2,
+    "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39973,7 +39655,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -39992,18 +39674,20 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%80%81%E5%80%89%E5%BA%AB&query_place_id=ChIJy_uSHZeuQjQRkIZPihOvkxk",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
+      "kids_menu": "yes",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
     "signals": [
-      "可能因為離峰沒什麼人所以感覺上整體環境蠻寬敞並且冷氣溫度舒適"
+      "可能因為離峰沒什麼人所以感覺上整體環境蠻寬敞並且冷氣溫度舒適",
+      "Google 官方登記提供兒童餐點",
+      "Google 官方登記適合兒童用餐"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -40033,7 +39717,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -40063,7 +39747,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -40091,7 +39775,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -40109,20 +39793,17 @@ const restaurantData = [
     "url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E9%87%8D%E5%A5%8F%E5%8A%A0%E8%9A%8B%20Trio%20kitchen&query_place_id=ChIJyyNcAlypQjQR9eK2YpdBP44",
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E4%B8%89%E9%87%8D%E5%A5%8F%E5%8A%A0%E8%9A%8B%20Trio%20kitchen&query_place_id=ChIJyyNcAlypQjQR9eK2YpdBP44",
     "attributes": {
-      "high_chair_available": "no",
+      "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "no",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "該店空間較為狹小且座位間距近，且明確表示未提供兒童座椅，建議攜帶嬰幼兒的家長先行致電確認。",
-    "card_summary": "該餐廳未提供兒童椅且空間較擁擠，帶小孩前往需多加留意。",
-    "signals": [
-      "小小的店，氣氛很好。就是座位間很近。",
-      "沒有提供兒童座椅💺，有嬰幼兒的話，建議先打電話詢問店家。"
-    ],
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -40143,18 +39824,16 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "no",
-      "kid_noise_tolerant": "no"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "該餐廳空間較為擁擠且環境嘈雜，目前評論中未提及兒童座椅或兒童餐等親子友善設施，較適合情侶或成人聚餐。",
-    "card_summary": "該餐廳空間較擁擠且環境較安靜，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳但空間較為擁擠。",
+    "card_summary": "",
     "signals": [
-      "店內燈光昏暗，座位擁擠。",
-      "入店後覺得很嘈雜，又暗位子又小。",
-      "跟桌距很近以外其他都是很好的體驗。"
+      "座位擁擠"
     ],
     "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -40182,7 +39861,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -40212,7 +39891,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": -2,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -40232,17 +39911,15 @@ const restaurantData = [
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
-      "spacious_seating": "yes",
+      "spacious_seating": "unknown",
       "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "該餐廳空間寬敞且座位充足，適合多人聚餐，但目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。",
-    "signals": [
-      "空間很大 位置很多"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -40266,11 +39943,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -40293,14 +39970,14 @@ const restaurantData = [
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "no"
     },
-    "ai_summary": "根據評論顯示，該餐廳環境較安靜，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳環境較安靜，帶小孩前往需多加留意。",
+    "ai_summary": "根據評論分析，這家餐廳但環境較安靜，可能不太適合好動吵鬧的小孩。",
+    "card_summary": "",
     "signals": [
       "環境乾淨優雅安靜"
     ],
     "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -40328,7 +40005,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -40356,7 +40033,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -40384,7 +40061,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -40414,7 +40091,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -40442,7 +40119,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -40470,7 +40147,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -40491,16 +40168,14 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "yes"
+      "kid_noise_tolerant": "unknown"
     },
-    "ai_summary": "餐廳用餐氛圍歡樂且充滿笑聲，環境氣氛相對熱鬧，適合家庭聚會。",
-    "card_summary": "餐廳用餐氛圍歡樂且充滿笑聲，環境氣氛相對熱鬧，適合家庭聚會。",
-    "signals": [
-      "喜樂和諧的用餐氛圍充滿笑聲，美味健康的佳餚以及貼心的服務，現場有詩歌和音樂演唱。"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
+    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "signals": [],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -40524,11 +40199,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -40556,7 +40231,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -40586,7 +40261,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -40614,7 +40289,7 @@ const restaurantData = [
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -40623,9 +40298,9 @@ const restaurantData = [
     "address": "104台灣臺北市中山區長春路238號",
     "formatted_address": "104台灣臺北市中山區長春路238號",
     "district": "中山區",
-    "rating": "4.2",
-    "user_ratings_total": 294,
-    "price_level": null,
+    "rating": "4.1",
+    "user_ratings_total": 297,
+    "price_level": "PRICE_LEVEL_INEXPENSIVE",
     "cuisine": "早午餐",
     "latitude": 25.0545479,
     "longitude": 121.53819600000001,
@@ -40635,14 +40310,16 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "card_summary": "",
+    "signals": [
+      "Google 官方登記適合兒童用餐"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -40673,7 +40350,7 @@ const restaurantData = [
     ],
     "parent_friendly_score": 2,
     "parent_friendly_level": "中",
-    "reason": "離線關鍵字快速評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
   {
@@ -40697,11 +40374,11 @@ const restaurantData = [
       "kid_noise_tolerant": "unknown"
     },
     "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "目前親子相關資訊較有限，建議前往前可先確認。",
+    "card_summary": "",
     "signals": [],
     "parent_friendly_score": 0,
     "parent_friendly_level": "資訊不足",
-    "reason": "綜合評估",
+    "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   }
 ];
