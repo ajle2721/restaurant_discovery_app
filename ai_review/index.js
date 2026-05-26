@@ -1864,7 +1864,7 @@ const restaurantData = [
   },
   {
     "place_id": "ChIJ2R0hreyvQjQRMbmj_BRkLdY",
-    "name": "有點～義～思 義大利麵",
+    "name": "有點",
     "address": "111台灣臺北市士林區福佳里美崙街59號",
     "formatted_address": "111台灣臺北市士林區福佳里美崙街59號",
     "district": "士林區",
@@ -1874,8 +1874,8 @@ const restaurantData = [
     "cuisine": "義大利料理",
     "latitude": 25.0970002,
     "longitude": 121.52227769999998,
-    "url": "https://www.google.com/maps/search/?api=1&query=%E6%9C%89%E9%BB%9E%EF%BD%9E%E7%BE%A9%EF%BD%9E%E6%80%9D%20%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5&query_place_id=ChIJ2R0hreyvQjQRMbmj_BRkLdY",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9C%89%E9%BB%9E%EF%BD%9E%E7%BE%A9%EF%BD%9E%E6%80%9D%20%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5&query_place_id=ChIJ2R0hreyvQjQRMbmj_BRkLdY",
+    "url": "https://www.google.com/maps/search/?api=1&query=%E6%9C%89%E9%BB%9E&query_place_id=ChIJ2R0hreyvQjQRMbmj_BRkLdY",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%9C%89%E9%BB%9E&query_place_id=ChIJ2R0hreyvQjQRMbmj_BRkLdY",
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
@@ -2339,17 +2339,19 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%BC%A2%E5%A0%A1%E7%8E%8B%20Burger%20King%20%E5%85%92%E7%AB%A5%E6%A8%82%E5%9C%92%E5%BA%97&query_place_id=ChIJ2fF1Rb-uQjQR0aeFiyky7Mc",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
+      "kids_menu": "yes",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
     "signals": [
-      "這裡的漢堡王舒適寬敞"
+      "這裡的漢堡王舒適寬敞",
+      "Google 官方登記提供兒童餐點",
+      "Google 官方登記適合兒童用餐"
     ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -3635,14 +3637,15 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點。",
+    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
     "signals": [
-      "這樣的兒童餐收180"
+      "這樣的兒童餐收180",
+      "Google 官方登記適合兒童用餐"
     ],
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -6735,13 +6738,15 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "Google 官方登記適合兒童用餐"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -8723,14 +8728,15 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點。",
+    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
     "signals": [
-      "跟一份雞米花兒童餐"
+      "跟一份雞米花兒童餐",
+      "Google 官方登記適合兒童用餐"
     ],
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -9078,7 +9084,7 @@ const restaurantData = [
   },
   {
     "place_id": "ChIJDVF49WaqQjQRUj2c4bMNJgQ",
-    "name": "媽咪廚房Mami's Kitchen～好吃泡菜團購中！",
+    "name": "媽咪廚房Mami's Kitchen",
     "address": "116台灣臺北市文山區博嘉里和平東路四段358號1樓",
     "formatted_address": "116台灣臺北市文山區博嘉里和平東路四段358號1樓",
     "district": "文山區",
@@ -9088,8 +9094,8 @@ const restaurantData = [
     "cuisine": "早午餐",
     "latitude": 24.998995,
     "longitude": 121.5740134,
-    "url": "https://www.google.com/maps/search/?api=1&query=%E5%AA%BD%E5%92%AA%E5%BB%9A%E6%88%BFMami%27s%20Kitchen%EF%BD%9E%E5%A5%BD%E5%90%83%E6%B3%A1%E8%8F%9C%E5%9C%98%E8%B3%BC%E4%B8%AD%EF%BC%81&query_place_id=ChIJDVF49WaqQjQRUj2c4bMNJgQ",
-    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%AA%BD%E5%92%AA%E5%BB%9A%E6%88%BFMami%27s%20Kitchen%EF%BD%9E%E5%A5%BD%E5%90%83%E6%B3%A1%E8%8F%9C%E5%9C%98%E8%B3%BC%E4%B8%AD%EF%BC%81&query_place_id=ChIJDVF49WaqQjQRUj2c4bMNJgQ",
+    "url": "https://www.google.com/maps/search/?api=1&query=%E5%AA%BD%E5%92%AA%E5%BB%9A%E6%88%BFMami%27s%20Kitchen&query_place_id=ChIJDVF49WaqQjQRUj2c4bMNJgQ",
+    "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%AA%BD%E5%92%AA%E5%BB%9A%E6%88%BFMami%27s%20Kitchen&query_place_id=ChIJDVF49WaqQjQRUj2c4bMNJgQ",
     "attributes": {
       "high_chair_available": "unknown",
       "kids_menu": "no",
@@ -12363,14 +12369,14 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E5%91%80%E5%92%AA%E9%A3%9F%E5%A0%82&query_place_id=ChIJJXfzUy-vQjQRnDMCtQN-g_U",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "yes",
+      "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
     "signals": [
-      "小朋友吃兒童餐"
+      "Google 官方登記適合兒童用餐"
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",
@@ -13120,16 +13126,17 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E9%BA%A5%E7%95%B6%E5%8B%9E-%E5%8F%B0%E5%8C%97%E5%8B%95%E7%89%A9%E5%9C%92%E4%B8%89%E9%A4%90%E5%BB%B3&query_place_id=ChIJL-BJs3aqQjQRLgXRc-JrSIk",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
+      "kids_menu": "yes",
       "spacious_seating": "unknown",
       "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
+    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
     "signals": [
-      "適合家庭客"
+      "Google 官方登記提供兒童餐點",
+      "Google 官方登記適合兒童用餐"
     ],
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -15430,15 +15437,17 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E8%82%89%E9%86%ACbar%20%E6%8A%AB%E8%96%A9%E7%86%B1%E7%8B%97%E5%A0%A1%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5%EF%BC%88%E8%81%9A%E9%A3%9F%E5%85%89%E5%BA%97B1%EF%BC%89&query_place_id=ChIJNztb8TOvQjQR-JKZTFYMiPA",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
+      "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "Google 官方登記適合兒童用餐"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -19037,13 +19046,15 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "unknown",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "Google 官方登記適合兒童用餐"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -28688,7 +28699,7 @@ const restaurantData = [
     "signals": [
       "有兒童座椅跟餐具",
       "餐廳空間寬敞",
-      "是個親子友善的餐廳"
+      "Google 官方登記適合兒童用餐"
     ],
     "parent_friendly_score": 4,
     "parent_friendly_level": "高",
@@ -31314,15 +31325,17 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E6%89%BE%E9%BB%9E%E5%90%83%E7%9A%84%E6%97%A9%E9%A4%90%E5%BA%97&query_place_id=ChIJn1xWIGeqQjQRVkU0dLTx054",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
+      "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "Google 官方登記適合兒童用餐"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -35890,16 +35903,17 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=INTRO%20Kitchen&query_place_id=ChIJt7vNFFSvQjQRp-Cw_uCjY8k",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
+      "kids_menu": "no",
       "spacious_seating": "yes",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服。",
+    "ai_summary": "根據評論分析，這家餐廳用餐空間寬敞舒服, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
     "signals": [
-      "燈光美、氣氛佳、服務周到、美學擺盤、用完環境空間寬敞、還有戶外庭院"
+      "燈光美、氣氛佳、服務周到、美學擺盤、用完環境空間寬敞、還有戶外庭院",
+      "Google 官方登記適合兒童用餐"
     ],
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
@@ -39208,15 +39222,17 @@ const restaurantData = [
     "google_maps_url": "https://www.google.com/maps/search/?api=1&query=%E7%93%A6%E9%9D%9E%E5%B1%8B&query_place_id=ChIJxyg5guSvQjQR3e_FtvpF9AU",
     "attributes": {
       "high_chair_available": "unknown",
-      "kids_menu": "unknown",
+      "kids_menu": "no",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "ai_summary": "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
-    "signals": [],
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
+    "signals": [
+      "Google 官方登記適合兒童用餐"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
   },
@@ -39708,14 +39724,15 @@ const restaurantData = [
       "high_chair_available": "unknown",
       "kids_menu": "yes",
       "spacious_seating": "unknown",
-      "kid_noise_tolerant": "unknown"
+      "kid_noise_tolerant": "yes"
     },
-    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點。",
+    "ai_summary": "根據評論分析，這家餐廳並有提供兒童餐點, 環境氣氛適合帶小孩用餐，親子友善。",
     "card_summary": "",
     "signals": [
-      "裡面一堆湯匙（包含有大湯匙、兒童餐具的小湯匙）很不甘願的拿了一支兒童小湯匙給我"
+      "裡面一堆湯匙（包含有大湯匙、兒童餐具的小湯匙）很不甘願的拿了一支兒童小湯匙給我",
+      "Google 官方登記適合兒童用餐"
     ],
-    "parent_friendly_score": 1,
+    "parent_friendly_score": 2,
     "parent_friendly_level": "中",
     "reason": "Google 官方親子標籤與評論/簡介融合分析",
     "reviews": []
