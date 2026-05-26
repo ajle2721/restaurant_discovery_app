@@ -70,21 +70,30 @@ const filterMap = {
     high_chair_available: 'child_seat_available',
     kids_menu: 'kids_menu_available',
     spacious_seating: 'spacious_seating',
-    kid_noise_tolerant: 'kid_noise_tolerant'
+    kid_noise_tolerant: 'kid_noise_tolerant',
+    has_play_area: 'has_play_area',
+    has_private_room: 'has_private_room',
+    has_tableware: 'has_tableware'
 };
 
 const attributeIcons = {
     high_chair_available: '🪑',
     kids_menu: '🥘',
     spacious_seating: '🛋️',
-    kid_noise_tolerant: '🥳'
+    kid_noise_tolerant: '🥳',
+    has_play_area: '🧸',
+    has_private_room: '🚪',
+    has_tableware: '🍽️'
 };
 
 const attributeLabels = {
     high_chair_available: '兒童椅',
     kids_menu: '兒童餐',
     spacious_seating: '空間寬敞',
-    kid_noise_tolerant: '不怕吵'
+    kid_noise_tolerant: '不怕吵',
+    has_play_area: '遊戲玩具',
+    has_private_room: '包廂包場',
+    has_tableware: '兒童餐具'
 };
 
 const levelLabels = {
@@ -125,6 +134,21 @@ function getPFSummaryTags(res, overrideLevel, simpleFormat = false) {
                 yes: '不怕吵鬧',
                 no: '氣氛較安靜',
                 unknown: '評論未提及氣氛安靜度'
+            },
+            has_play_area: {
+                yes: '遊戲玩具',
+                no: '無提供玩具',
+                unknown: '評論未提及遊戲設施'
+            },
+            has_private_room: {
+                yes: '包廂包場',
+                no: '無提供包廂',
+                unknown: '評論未提及包場服務'
+            },
+            has_tableware: {
+                yes: '兒童餐具',
+                no: '無提供兒童餐具',
+                unknown: '評論未提及餐具提供'
             }
         };
 
@@ -146,7 +170,10 @@ function getPFSummaryTags(res, overrideLevel, simpleFormat = false) {
                 high_chair_available: '兒童椅',
                 kids_menu: '兒童餐',
                 spacious_seating: '空間大小',
-                kid_noise_tolerant: '氣氛安靜度'
+                kid_noise_tolerant: '氣氛安靜度',
+                has_play_area: '遊戲玩具區',
+                has_private_room: '包廂包場',
+                has_tableware: '兒童餐具'
             };
             state.filters.forEach(f => {
                 if (!attrs[f] || attrs[f] === 'unknown') {
@@ -168,7 +195,7 @@ function getPFSummaryTags(res, overrideLevel, simpleFormat = false) {
         }
         
         if (level === 'Low Match' || level === '其他友善選擇') {
-            const allKeys = ['high_chair_available', 'kids_menu', 'spacious_seating', 'kid_noise_tolerant'];
+            const allKeys = ['high_chair_available', 'kids_menu', 'spacious_seating', 'kid_noise_tolerant', 'has_play_area', 'has_private_room', 'has_tableware'];
             const otherYesAttrs = [];
             allKeys.forEach(k => {
                 if (!state.filters.has(k) && attrs[k] === 'yes') {
@@ -203,6 +230,9 @@ function getPFSummaryTags(res, overrideLevel, simpleFormat = false) {
     if (attrs.kids_menu === 'yes') tags.push('兒童餐');
     if (attrs.spacious_seating === 'yes') tags.push('空間寬敞');
     if (attrs.kid_noise_tolerant === 'yes') tags.push('不怕吵');
+    if (attrs.has_play_area === 'yes') tags.push('遊戲玩具');
+    if (attrs.has_private_room === 'yes') tags.push('包廂包場');
+    if (attrs.has_tableware === 'yes') tags.push('兒童餐具');
     
     return tags.join('、');
 }
