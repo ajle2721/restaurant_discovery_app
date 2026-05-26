@@ -876,7 +876,7 @@ function calculatePersonalizedScore(res) {
     let otherMatchCount = 0;
     let unknownCount = 0;
     const attrs = res.attributes || {};
-    const allKeys = ['high_chair_available', 'kids_menu', 'spacious_seating', 'kid_noise_tolerant'];
+    const allKeys = ['high_chair_available', 'kids_menu', 'spacious_seating', 'kid_noise_tolerant', 'has_play_area', 'has_private_room', 'has_tableware'];
 
     allKeys.forEach(key => {
         const val = attrs[key];
@@ -910,7 +910,7 @@ function calculatePersonalizedScore(res) {
         level = 'High'; // "很適合你"
     } else if (matchCount > 0 || (otherMatchCount > 0 && missCount === 0)) {
         level = 'Medium'; // "可以考慮"
-    } else if (unknownCount === 4) {
+    } else if (unknownCount === allKeys.length) {
         level = 'Insufficient Info';
     }
 
@@ -1082,7 +1082,7 @@ function formatDistance(km) {
 
 function getDynamicStatus(res, selectedFilters) {
     const attrs = res.attributes || {};
-    const allKeys = ['high_chair_available', 'kids_menu', 'spacious_seating', 'kid_noise_tolerant'];
+    const allKeys = ['high_chair_available', 'kids_menu', 'spacious_seating', 'kid_noise_tolerant', 'has_play_area', 'has_private_room', 'has_tableware'];
     
     let matchCount = 0;
     if (selectedFilters && selectedFilters.size > 0) {
