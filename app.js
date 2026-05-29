@@ -294,6 +294,8 @@ function init() {
 
         // Global listener for map popup buttons (View Details)
         state.map.on('popupopen', (e) => {
+            // Prevent moveend from wiping markers (Leaflet auto-pans when opening a popup)
+            state.popupOpen = true;
             const container = e.popup.getElement();
             const btn = container.querySelector('.btn-show-detail-from-map');
             if (btn) {
@@ -304,6 +306,9 @@ function init() {
                     });
                 }
             }
+        });
+        state.map.on('popupclose', () => {
+            state.popupOpen = false;
         });
 
         console.log('Map initialized');
@@ -1377,6 +1382,9 @@ function focusOnMap(e, placeId) {
 
         const marker = state.markerMap[placeId];
         if (marker) {
+            // Pre-set popupOpen so the moveend handler (fired by setView) does not
+            // wipe and redraw markers before openPopup() gets a chance to run.
+            state.popupOpen = true;
             // Offset the map center slightly North of the marker coordinate (res.latitude + 0.0008)
             // and pass { animate: false } to allow instantaneous positioning, which lets Leaflet's
             // built-in autoPan calculate positions perfectly without viewport animation collisions.
@@ -1641,7 +1649,9 @@ function renderMap(restaurants) {
     // Setup moveend listener once to handle pans and zooms
     if (!state.mapMoveEndListenerSetup) {
         state.map.on('moveend', () => {
-            // Only refresh markers, do NOT fit bounds on user drag/zoom
+            // Skip refresh if a popup is open — Leaflet fires moveend when
+            // auto-panning to reveal a popup, and refreshing would destroy it.
+            if (state.popupOpen) return;
             refreshMapMarkers();
         });
         state.mapMoveEndListenerSetup = true;
