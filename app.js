@@ -67,33 +67,36 @@ function throttle(func, limit) {
 }
 
 const filterMap = {
+    has_tableware: 'has_tableware',
     high_chair_available: 'child_seat_available',
+    has_diaper_table: 'has_diaper_table',
     kids_menu: 'kids_menu_available',
-    spacious_seating: 'spacious_seating',
     kid_noise_tolerant: 'kid_noise_tolerant',
+    spacious_seating: 'spacious_seating',
     has_play_area: 'has_play_area',
-    has_private_room: 'has_private_room',
-    has_tableware: 'has_tableware'
+    has_private_room: 'has_private_room'
 };
 
 const attributeIcons = {
+    has_tableware: '🍽️',
     high_chair_available: '🪑',
+    has_diaper_table: '🍼',
     kids_menu: '🥘',
-    spacious_seating: '🛋️',
     kid_noise_tolerant: '🥳',
+    spacious_seating: '🛋️',
     has_play_area: '🧸',
-    has_private_room: '🚪',
-    has_tableware: '🍽️'
+    has_private_room: '🚪'
 };
 
 const attributeLabels = {
+    has_tableware: '兒童餐具',
     high_chair_available: '兒童椅',
+    has_diaper_table: '尿布台',
     kids_menu: '兒童餐',
-    spacious_seating: '空間寬敞',
     kid_noise_tolerant: '不怕吵',
-    has_play_area: '遊戲玩具',
-    has_private_room: '包廂包場',
-    has_tableware: '兒童餐具'
+    spacious_seating: '空間寬敞',
+    has_play_area: '有遊樂區',
+    has_private_room: '可包場辦活動'
 };
 
 const levelLabels = {
@@ -115,40 +118,45 @@ function getPFSummaryTags(res, overrideLevel, simpleFormat = false) {
         const level = overrideLevel || (typeof getDynamicStatus === 'function' ? getDynamicStatus(res, state.filters).level : 'Insufficient Info');
         
         const attributeDetails = {
+            has_tableware: {
+                yes: '兒童餐具',
+                no: '無提供兒童餐具',
+                unknown: '評論未提及餐具提供'
+            },
             high_chair_available: {
                 yes: '兒童椅',
                 no: '無提供兒童椅',
                 unknown: '評論未提及兒童椅'
+            },
+            has_diaper_table: {
+                yes: '有尿布台',
+                no: '無尿布台',
+                unknown: '評論未提及尿布台'
             },
             kids_menu: {
                 yes: '兒童餐',
                 no: '無提供兒童餐',
                 unknown: '評論未提及兒童餐'
             },
-            spacious_seating: {
-                yes: '空間寬敞',
-                no: '空間較為擁擠',
-                unknown: '評論未提及空間大小'
-            },
             kid_noise_tolerant: {
                 yes: '不怕吵鬧',
                 no: '氣氛較安靜',
                 unknown: '評論未提及氣氛安靜度'
             },
+            spacious_seating: {
+                yes: '空間寬敞',
+                no: '空間較為擁擠',
+                unknown: '評論未提及空間大小'
+            },
             has_play_area: {
-                yes: '遊戲玩具',
-                no: '無提供玩具',
+                yes: '有遊樂區',
+                no: '無遊樂區',
                 unknown: '評論未提及遊戲設施'
             },
             has_private_room: {
-                yes: '包廂包場',
+                yes: '可包場辦活動',
                 no: '無提供包廂',
                 unknown: '評論未提及包場服務'
-            },
-            has_tableware: {
-                yes: '兒童餐具',
-                no: '無提供兒童餐具',
-                unknown: '評論未提及餐具提供'
             }
         };
 
@@ -167,13 +175,14 @@ function getPFSummaryTags(res, overrideLevel, simpleFormat = false) {
         if (level === 'Insufficient Info' || level === '資訊不足') {
             const unknownNouns = [];
             const nounMap = {
+                has_tableware: '兒童餐具',
                 high_chair_available: '兒童椅',
+                has_diaper_table: '尿布台',
                 kids_menu: '兒童餐',
-                spacious_seating: '空間大小',
                 kid_noise_tolerant: '氣氛安靜度',
-                has_play_area: '遊戲玩具區',
-                has_private_room: '包廂包場',
-                has_tableware: '兒童餐具'
+                spacious_seating: '空間大小',
+                has_play_area: '遊樂區',
+                has_private_room: '可包場辦活動'
             };
             state.filters.forEach(f => {
                 if (!attrs[f] || attrs[f] === 'unknown') {
@@ -195,7 +204,7 @@ function getPFSummaryTags(res, overrideLevel, simpleFormat = false) {
         }
         
         if (level === 'Low Match' || level === '其他友善選擇') {
-            const allKeys = ['high_chair_available', 'kids_menu', 'spacious_seating', 'kid_noise_tolerant', 'has_play_area', 'has_private_room', 'has_tableware'];
+            const allKeys = ['has_tableware', 'high_chair_available', 'has_diaper_table', 'kids_menu', 'kid_noise_tolerant', 'spacious_seating', 'has_play_area', 'has_private_room'];
             const otherYesAttrs = [];
             allKeys.forEach(k => {
                 if (!state.filters.has(k) && attrs[k] === 'yes') {
@@ -226,13 +235,14 @@ function getPFSummaryTags(res, overrideLevel, simpleFormat = false) {
 
     // Default view: list positive amenities
     const tags = [];
-    if (attrs.high_chair_available === 'yes') tags.push('兒童椅');
-    if (attrs.kids_menu === 'yes') tags.push('兒童餐');
-    if (attrs.spacious_seating === 'yes') tags.push('空間寬敞');
-    if (attrs.kid_noise_tolerant === 'yes') tags.push('不怕吵');
-    if (attrs.has_play_area === 'yes') tags.push('遊戲玩具');
-    if (attrs.has_private_room === 'yes') tags.push('包廂包場');
     if (attrs.has_tableware === 'yes') tags.push('兒童餐具');
+    if (attrs.high_chair_available === 'yes') tags.push('兒童椅');
+    if (attrs.has_diaper_table === 'yes') tags.push('尿布台');
+    if (attrs.kids_menu === 'yes') tags.push('兒童餐');
+    if (attrs.kid_noise_tolerant === 'yes') tags.push('不怕吵');
+    if (attrs.spacious_seating === 'yes') tags.push('空間寬敞');
+    if (attrs.has_play_area === 'yes') tags.push('有遊樂區');
+    if (attrs.has_private_room === 'yes') tags.push('可包場辦活動');
     
     return tags.join('、');
 }
@@ -250,6 +260,7 @@ const toast = document.getElementById('toast');
 const searchInput = document.getElementById('location-search');
 const autocompleteDropdown = document.getElementById('search-autocomplete');
 const btnNearby = document.getElementById('btn-nearby');
+const searchMagnifier = document.getElementById('search-magnifier');
 const clearSearchBtn = document.getElementById('clear-search');
 const searchResultsView = document.getElementById('search-results-view');
 const currentSearchLocText = document.getElementById('current-search-location');
@@ -310,6 +321,13 @@ function setupEventListeners() {
     searchInput.addEventListener('focus', () => {
         if (searchInput.value.trim().length > 0) {
             autocompleteDropdown.classList.remove('hidden');
+        } else {
+            showPopularRecommendations();
+        }
+    });
+    searchInput.addEventListener('click', () => {
+        if (searchInput.value.trim().length === 0) {
+            showPopularRecommendations();
         }
     });
 
@@ -324,21 +342,39 @@ function setupEventListeners() {
     clearSearchBtn.addEventListener('click', () => {
         searchInput.value = '';
         clearSearchBtn.classList.add('hidden');
+        if (searchMagnifier) searchMagnifier.classList.remove('hidden');
         autocompleteDropdown.classList.add('hidden');
         searchInput.focus();
     });
 
     // Nearby Button
-    btnNearby.addEventListener('click', () => {
-        trackEvent('click_nearby');
-        handleNearby();
-    });
+    if (btnNearby) {
+        btnNearby.addEventListener('click', () => {
+            trackEvent('click_nearby');
+            handleNearby();
+        });
+    }
 
     const btnNearbyProminent = document.getElementById('btn-nearby-prominent');
     if (btnNearbyProminent) {
         btnNearbyProminent.addEventListener('click', () => {
             trackEvent('click_nearby_prominent');
             handleNearby();
+        });
+    }
+
+    const btnTaipeiAll = document.getElementById('btn-taipei-all');
+    if (btnTaipeiAll) {
+        btnTaipeiAll.addEventListener('click', () => {
+            trackEvent('click_taipei_all');
+            const taipeiAllLoc = {
+                name: '整個台北市',
+                type: '全市',
+                district: '全市',
+                lat: 25.037487, // Taipei Center
+                lng: 121.564766
+            };
+            selectLocation(taipeiAllLoc, 'taipei_all');
         });
     }
 
@@ -437,6 +473,7 @@ function setupEventListeners() {
         document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
         searchInput.value = '';
         clearSearchBtn.classList.add('hidden');
+        if (searchMagnifier) searchMagnifier.classList.remove('hidden');
         searchResultsView.classList.add('hidden');
         if (floatShareBtn) floatShareBtn.classList.add('hidden');
         
@@ -726,14 +763,62 @@ function setupEventListeners() {
 
 }
 
+function showPopularRecommendations() {
+    const popularList = [
+        { name: '我附近', type: '目前位置', icon: '📍' },
+        { name: '台北市全區', type: '全市', icon: '🗺️' },
+        { name: '大安區', type: '行政區', icon: '🏘️' },
+        { name: '信義區', type: '行政區', icon: '🏘️' },
+        { name: '台北車站', type: '捷運站/車站/地標', icon: '🚇' },
+        { name: '西門町', type: '商圈/捷運站', icon: '🚇' },
+        { name: '中山站', type: '捷運站/商圈', icon: '🚇' }
+    ];
+
+    autocompleteDropdown.innerHTML = `
+        <div class="autocomplete-section-title" style="padding: 0.5rem 1rem 0.25rem; font-size: 0.8rem; font-weight: 700; color: var(--text-muted); background: #f8fafc; border-bottom: 1px solid #e2e8f0;">熱門推薦區域</div>
+        ${popularList.map(loc => `
+            <div class="autocomplete-item" data-name="${loc.name}">
+                <span class="icon">${loc.icon}</span>
+                <span class="name">${loc.name}</span>
+                <span class="type">${loc.type}</span>
+            </div>
+        `).join('')}
+    `;
+    autocompleteDropdown.classList.remove('hidden');
+
+    autocompleteDropdown.querySelectorAll('.autocomplete-item').forEach(item => {
+        item.addEventListener('click', () => {
+            const name = item.dataset.name;
+            if (name === '我附近') {
+                handleNearby();
+            } else if (name === '台北市全區') {
+                const taipeiAllLoc = {
+                    name: '整個台北市',
+                    type: '全市',
+                    district: '全市',
+                    lat: 25.037487,
+                    lng: 121.564766
+                };
+                selectLocation(taipeiAllLoc, 'autocomplete_popular');
+            } else {
+                const locObj = state.locationData.find(l => l.name === name);
+                if (locObj) selectLocation(locObj, 'autocomplete_popular');
+            }
+            autocompleteDropdown.classList.add('hidden');
+        });
+    });
+}
+
 function handleAutocomplete() {
     const query = searchInput.value.trim().toLowerCase();
     if (query.length === 0) {
-        autocompleteDropdown.classList.add('hidden');
+        showPopularRecommendations();
         clearSearchBtn.classList.add('hidden');
+        if (searchMagnifier) searchMagnifier.classList.remove('hidden');
         return;
     }
     clearSearchBtn.classList.remove('hidden');
+    if (searchMagnifier) searchMagnifier.classList.add('hidden');
 
     const matches = state.locationData.filter(loc => {
         return loc.name.toLowerCase().includes(query) || 
@@ -768,8 +853,14 @@ function handleNearby() {
     }
 
     const btnNearbyProminent = document.getElementById('btn-nearby-prominent');
+    const mapPinSvg = `
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="15" height="15" style="display: block; filter: drop-shadow(0 1px 1px rgba(0,0,0,0.3));">
+            <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z" fill="#EA4335"/>
+            <circle cx="12" cy="9" r="3.2" fill="#7A1E1A"/>
+        </svg>
+    `;
 
-    btnNearby.innerHTML = '<span class="icon">⏳</span>';
+    if (btnNearby) btnNearby.innerHTML = '<span class="icon">⏳</span>';
     if (btnNearbyProminent) {
         btnNearbyProminent.innerHTML = '<span class="icon">⏳</span><span>定位中...</span>';
     }
@@ -780,16 +871,14 @@ function handleNearby() {
                 name: '我附近',
                 lat: pos.coords.latitude,
                 lng: pos.coords.longitude,
-                type: '平衡位置' // Keep same logic
+                type: '目前位置'
             };
-            // Note: type is normally '目前位置' but let's make sure it matches original pos logic
-            loc.type = '目前位置';
             state.userLocation = { lat: loc.lat, lng: loc.lng };
             selectLocation(loc, 'nearby');
             
-            btnNearby.innerHTML = '<span class="icon">📍</span>';
+            if (btnNearby) btnNearby.innerHTML = '<span class="icon">📍</span>';
             if (btnNearbyProminent) {
-                btnNearbyProminent.innerHTML = '<span class="icon">📍</span><span>尋找我附近的親子餐廳</span>';
+                btnNearbyProminent.innerHTML = `<span class="icon">${mapPinSvg}</span><span>我附近</span>`;
             }
         },
         (err) => {
@@ -800,9 +889,9 @@ function handleNearby() {
                 showToast('定位失敗，請手動輸入地點');
             }
             
-            btnNearby.innerHTML = '<span class="icon">📍</span>';
+            if (btnNearby) btnNearby.innerHTML = '<span class="icon">📍</span>';
             if (btnNearbyProminent) {
-                btnNearbyProminent.innerHTML = '<span class="icon">📍</span><span>尋找我附近的親子餐廳</span>';
+                btnNearbyProminent.innerHTML = `<span class="icon">${mapPinSvg}</span><span>我附近</span>`;
             }
         }
     );
@@ -814,6 +903,7 @@ function selectLocation(loc, source = 'other', pushState = true) {
     searchInput.value = loc.name;
     autocompleteDropdown.classList.add('hidden');
     clearSearchBtn.classList.remove('hidden');
+    if (searchMagnifier) searchMagnifier.classList.add('hidden');
     
     // GA4: search_location
     var selectedFiltersArr = [];
@@ -876,7 +966,7 @@ function calculatePersonalizedScore(res) {
     let otherMatchCount = 0;
     let unknownCount = 0;
     const attrs = res.attributes || {};
-    const allKeys = ['high_chair_available', 'kids_menu', 'spacious_seating', 'kid_noise_tolerant', 'has_play_area', 'has_private_room', 'has_tableware'];
+    const allKeys = ['has_tableware', 'high_chair_available', 'has_diaper_table', 'kids_menu', 'kid_noise_tolerant', 'spacious_seating', 'has_play_area', 'has_private_room'];
 
     allKeys.forEach(key => {
         const val = attrs[key];
@@ -946,7 +1036,7 @@ async function renderResults() {
         }));
 
         // 2. Filter by distance
-        const maxRadius = (center.type === '行政區') ? 2.5 : 1.5;
+        const maxRadius = (center.type === '全市' || center.name === '整個台北市') ? 99999 : ((center.type === '行政區') ? 2.5 : 1.5);
         let filtered = restaurants.filter(res => res.distance <= maxRadius);
 
         if (filtered.length === 0) {
@@ -987,13 +1077,37 @@ async function renderResults() {
         });
 
         // 4. Split and Render
-        const recommended = sorted.filter(r => r.dynamicLevel === 'High' || r.dynamicLevel === 'Medium' || r.dynamicLevel === 'Low Match');
-        const others = sorted.filter(r => r.dynamicLevel === 'Insufficient Info' || r.dynamicLevel === 'Needs Attention');
+        const exactMatches = sorted.filter(r => r.dynamicLevel === 'High' || r.dynamicLevel === 'Medium');
+        
+        let recommended, others;
+        if (exactMatches.length > 0) {
+            recommended = exactMatches;
+            others = sorted.filter(r => r.dynamicLevel === 'Low Match' || r.dynamicLevel === 'Insufficient Info' || r.dynamicLevel === 'Needs Attention');
+        } else {
+            recommended = sorted.filter(r => r.dynamicLevel === 'Low Match');
+            others = sorted.filter(r => r.dynamicLevel === 'Insufficient Info' || r.dynamicLevel === 'Needs Attention');
+        }
 
         state.currentResults = sorted; 
 
         recommended.forEach(res => renderCard(res, recommendedList, res.dynamicLevel));
         others.forEach(res => renderCard(res, othersList, res.dynamicLevel));
+
+        // Check if there are no exact matches (High/Medium) when filters are active
+        if (state.filters && state.filters.size > 0) {
+            if (exactMatches.length === 0) {
+                if (recommended.length > 0) {
+                    fallbackHint.textContent = '找不到符合勾選條件的餐廳，請參考以下其他友善選擇：';
+                } else {
+                    fallbackHint.textContent = '找不到符合勾選條件的餐廳，請調整條件，或參考下方「查看更多」選項。';
+                }
+                fallbackHint.classList.remove('hidden');
+            } else {
+                fallbackHint.classList.add('hidden');
+            }
+        } else {
+            fallbackHint.classList.add('hidden');
+        }
         
         // Update Toggle UI
         othersList.classList.toggle('hidden', !state.showOthers);
@@ -1082,7 +1196,7 @@ function formatDistance(km) {
 
 function getDynamicStatus(res, selectedFilters) {
     const attrs = res.attributes || {};
-    const allKeys = ['high_chair_available', 'kids_menu', 'spacious_seating', 'kid_noise_tolerant', 'has_play_area', 'has_private_room', 'has_tableware'];
+    const allKeys = ['has_tableware', 'high_chair_available', 'has_diaper_table', 'kids_menu', 'kid_noise_tolerant', 'spacious_seating', 'has_play_area', 'has_private_room'];
     
     let matchCount = 0;
     if (selectedFilters && selectedFilters.size > 0) {
@@ -1155,7 +1269,8 @@ function renderCard(res, container, overrideLevel) {
         extraInfoHtml = `<span class="summary-tags-text ${levelClass}">${summaryTags}</span>`;
     }
 
-    const times = res.distance ? calculateTravelTimes(res.distance) : null;
+    const isWholeCity = state.searchLocation && (state.searchLocation.type === '全市' || state.searchLocation.name === '整個台北市');
+    const times = (!isWholeCity && res.distance) ? calculateTravelTimes(res.distance) : null;
     let timeHtml = '';
     if (times) {
         timeHtml = `
@@ -1252,7 +1367,8 @@ window.focusRestaurantOnMap = focusOnMap; // For backward compatibility if any
 function renderDetailContent(restaurant) {
     let tagsHtml = '';
     const attributes = restaurant.attributes || {};
-    Object.keys(attributes).forEach(attr => {
+    const orderedKeys = ['has_tableware', 'high_chair_available', 'has_diaper_table', 'kids_menu', 'kid_noise_tolerant', 'spacious_seating', 'has_play_area', 'has_private_room'];
+    orderedKeys.forEach(attr => {
         if (attributes[attr] === 'yes' && attributeLabels[attr]) {
             const isMatched = state.filters && state.filters.has(attr);
             if (isMatched) {
@@ -1300,7 +1416,8 @@ function renderDetailContent(restaurant) {
     if (dist === undefined && state.searchLocation && restaurant.latitude && restaurant.longitude) {
         dist = calculateDistance(state.searchLocation.lat, state.searchLocation.lng, restaurant.latitude, restaurant.longitude);
     }
-    const times = dist ? calculateTravelTimes(dist) : null;
+    const isWholeCity = state.searchLocation && (state.searchLocation.type === '全市' || state.searchLocation.name === '整個台北市');
+    const times = (!isWholeCity && dist) ? calculateTravelTimes(dist) : null;
     let timeHtml = '';
     if (times) {
         const startLocName = state.searchLocation ? state.searchLocation.name : '';
@@ -1373,8 +1490,14 @@ function renderDetailContent(restaurant) {
                     location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
                 });
             } catch (e) {}
-            const query = encodeURIComponent((restaurant.name || '') + ' ' + cleanAddr);
-            window.open(`https://www.google.com/maps/search/?api=1&query=${query}`, '_blank');
+            
+            const targetUrl = restaurant.google_maps_url || restaurant.url;
+            if (targetUrl) {
+                window.open(targetUrl, '_blank');
+            } else {
+                const query = encodeURIComponent((restaurant.name || '') + ' ' + cleanAddr);
+                window.open(`https://www.google.com/maps/search/?api=1&query=${query}`, '_blank');
+            }
         });
     }
 }
@@ -1472,8 +1595,9 @@ function renderMap(restaurants) {
     const usedCoords = new Map(); // Track coordinates to prevent overlap
     
     // Add Search Center Marker
-    if (state.searchLocation) {
-        const coordKey = `${state.searchLocation.lat.toFixed(6)},${state.searchLocation.lng.toFixed(6)}`;
+    const isWholeCity = state.searchLocation && (state.searchLocation.type === '全市' || state.searchLocation.name === '整個台北市');
+    if (state.searchLocation && !isWholeCity) {
+        const coordKey = `${state.searchLocation.lat.toFixed(5)},${state.searchLocation.lng.toFixed(5)}`;
         usedCoords.set(coordKey, 1);
         
         // Use a premium Google Maps style red pin for the search center/user location
@@ -1518,7 +1642,7 @@ function renderMap(restaurants) {
             let markerLng = res.longitude;
 
             // Jitter logic: if coords match exactly, add a tiny offset
-            const coordKey = `${res.latitude.toFixed(6)},${res.longitude.toFixed(6)}`;
+            const coordKey = `${res.latitude.toFixed(5)},${res.longitude.toFixed(5)}`;
             if (usedCoords.has(coordKey)) {
                 const count = usedCoords.get(coordKey);
                 usedCoords.set(coordKey, count + 1);
@@ -1556,7 +1680,8 @@ function renderMap(restaurants) {
                 icon: pinIcon
             }).addTo(state.map);
             
-            const times = calculateTravelTimes(res.distance);
+            const isWholeCity = state.searchLocation && (state.searchLocation.type === '全市' || state.searchLocation.name === '整個台北市');
+            const times = (!isWholeCity) ? calculateTravelTimes(res.distance) : null;
             const timeInfo = times ? `<div class="map-popup-time">🚶${times.walking}分 | 🚗${times.driving}分</div>` : '';
 
             marker.bindPopup(`<div class="map-popup-compact">
@@ -1784,6 +1909,7 @@ function syncStateFromUrl(isInitialLoad = false) {
             state.showOthers = false;
             searchInput.value = '';
             clearSearchBtn.classList.add('hidden');
+            if (searchMagnifier) searchMagnifier.classList.remove('hidden');
             searchResultsView.classList.add('hidden');
             if (floatShareBtn) floatShareBtn.classList.add('hidden');
             
@@ -2075,10 +2201,14 @@ function renderShortlistDrawer() {
             // Build amenity text
             const ams = [];
             const attrs = res.attributes || {};
+            if (attrs.has_tableware === 'yes') ams.push('🍽️兒童餐具');
             if (attrs.high_chair_available === 'yes') ams.push('🪑兒童椅');
+            if (attrs.has_diaper_table === 'yes') ams.push('🍼尿布台');
             if (attrs.kids_menu === 'yes') ams.push('🥘兒童餐');
-            if (attrs.spacious_seating === 'yes') ams.push('🛋️空間寬敞');
             if (attrs.kid_noise_tolerant === 'yes') ams.push('🥳不怕吵');
+            if (attrs.spacious_seating === 'yes') ams.push('🛋️空間寬敞');
+            if (attrs.has_play_area === 'yes') ams.push('🧸有遊樂區');
+            if (attrs.has_private_room === 'yes') ams.push('🚪可包場辦活動');
             const amsText = ams.length > 0 ? ams.join(' · ') : '暫無特徵標籤';
 
             listHtml += `
@@ -2135,10 +2265,14 @@ function renderShortlistDrawer() {
                         <tr>
                             <th>餐廳名稱</th>
                             <th>評分</th>
+                            <th>兒童餐具</th>
                             <th>兒童椅</th>
-                            <th>空間寬敞</th>
-                            <th>不怕吵</th>
+                            <th>尿布台</th>
                             <th>兒童餐</th>
+                            <th>不怕吵</th>
+                            <th>空間寬敞</th>
+                            <th>有遊樂區</th>
+                            <th>可包場</th>
                             <th>車程/步行</th>
                             <th>操作</th>
                         </tr>
@@ -2158,9 +2292,14 @@ function renderShortlistDrawer() {
             const spacious = attrs.spacious_seating === 'yes' ? checkIcon : (attrs.spacious_seating === 'no' ? crossIcon : unknownIcon);
             const noise = attrs.kid_noise_tolerant === 'yes' ? checkIcon : (attrs.kid_noise_tolerant === 'no' ? crossGeneralIcon : unknownIcon);
             const menu = attrs.kids_menu === 'yes' ? checkIcon : (attrs.kids_menu === 'no' ? crossGeneralIcon : unknownIcon);
+            const tableware = attrs.has_tableware === 'yes' ? checkIcon : (attrs.has_tableware === 'no' ? crossGeneralIcon : unknownIcon);
+            const diaper = attrs.has_diaper_table === 'yes' ? checkIcon : (attrs.has_diaper_table === 'no' ? crossGeneralIcon : unknownIcon);
+            const play = attrs.has_play_area === 'yes' ? checkIcon : (attrs.has_play_area === 'no' ? crossGeneralIcon : unknownIcon);
+            const room = attrs.has_private_room === 'yes' ? checkIcon : (attrs.has_private_room === 'no' ? crossGeneralIcon : unknownIcon);
 
-            const times = res.distance ? calculateTravelTimes(res.distance) : null;
-            const travelText = times ? `🚗${times.driving}分 / 🚶${times.walking}分` : '未定位';
+            const isWholeCity = state.searchLocation && (state.searchLocation.type === '全市' || state.searchLocation.name === '整個台北市');
+            const times = (!isWholeCity && res.distance) ? calculateTravelTimes(res.distance) : null;
+            const travelText = times ? `🚗${times.driving}分 / 🚶${times.walking}分` : (isWholeCity ? '全市範圍' : '未定位');
 
             tableHtml += `
                 <tr>
@@ -2170,10 +2309,14 @@ function renderShortlistDrawer() {
                         </div>
                     </td>
                     <td style="font-weight: 700; color: var(--primary);">${res.rating} ⭐</td>
+                    <td>${tableware}</td>
                     <td>${chair}</td>
-                    <td>${spacious}</td>
-                    <td>${noise}</td>
+                    <td>${diaper}</td>
                     <td>${menu}</td>
+                    <td>${noise}</td>
+                    <td>${spacious}</td>
+                    <td>${play}</td>
+                    <td>${room}</td>
                     <td style="color: var(--text-muted); font-weight: 600;">${travelText}</td>
                     <td>
                         <span class="comparison-table-del" data-place-id="${res.place_id}" title="移出清單">

@@ -289,13 +289,17 @@ body {
     background: rgba(255, 255, 255, 0.15);
     border: 1px solid rgba(255, 255, 255, 0.2);
     color: white;
-    padding: 0.5rem 1rem;
+    padding: 0.5rem 1.1rem;
     border-radius: 2rem;
     font-size: 0.875rem;
     font-weight: 600;
     white-space: nowrap;
     cursor: pointer;
     transition: var(--transition);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.35rem;
 }
 
 .quick-link-item:hover {
@@ -516,57 +520,24 @@ body {
     }
 }
 
-.btn-nearby-embed:active {
-    transform: scale(0.95);
-}
-
-.nearby-locator-container {
-    margin: 0.5rem 0 1.25rem;
-    text-align: left;
-    animation: fadeIn 0.5s ease-out 0.1s both;
-}
-
-.btn-nearby-prominent {
-    background: rgba(255, 255, 255, 0.16);
-    color: white;
-    border: 1.5px solid rgba(255, 255, 255, 0.45);
-    padding: 0.75rem 1.25rem;
-    border-radius: 2rem;
-    font-size: 0.95rem;
-    font-weight: 800;
+.search-magnifier-embed {
+    color: var(--text-muted);
+    width: 34px;
+    height: 34px;
     display: inline-flex;
     align-items: center;
-    gap: 0.5rem;
-    cursor: pointer;
+    justify-content: center;
+    margin-right: 0.5rem;
+    flex-shrink: 0;
     transition: var(--transition);
-    backdrop-filter: blur(8px);
-    -webkit-backdrop-filter: blur(8px);
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
-    white-space: nowrap;
+    opacity: 0.8;
 }
 
-.btn-nearby-prominent:hover {
-    background: rgba(255, 255, 255, 0.28);
-    border-color: var(--accent);
-    color: var(--accent);
-    transform: translateY(-2px);
-    box-shadow: 0 6px 15px rgba(255, 217, 61, 0.25);
+.search-magnifier-embed svg {
+    display: block;
 }
 
-.btn-nearby-prominent:active {
-    transform: translateY(0) scale(0.98);
-    background: rgba(255, 255, 255, 0.16);
-}
 
-@media (max-width: 480px) {
-    .btn-nearby-prominent {
-        font-size: 0.82rem;
-        padding: 0.65rem 1.1rem;
-    }
-    .nearby-locator-container {
-        margin: 0.4rem 0 1rem;
-    }
-}
 
 .filter-chip {
     flex-shrink: 0;

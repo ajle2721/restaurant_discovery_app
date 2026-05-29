@@ -46,13 +46,14 @@
                         <button id="clear-all-filters" class="btn-text hidden">清除</button>
                     </div>
                     <div class="filters-scroll">
-                        <button class="filter-chip" data-filter="high_chair_available">🪑 兒童椅</button>
-                        <button class="filter-chip" data-filter="spacious_seating">🛋️ 空間寬敞</button>
-                        <button class="filter-chip" data-filter="kid_noise_tolerant">🥳 不怕吵</button>
-                        <button class="filter-chip" data-filter="kids_menu">🥘 兒童餐</button>
-                        <button class="filter-chip" data-filter="has_play_area">🧸 遊戲玩具</button>
-                        <button class="filter-chip" data-filter="has_private_room">🚪 包廂包場</button>
                         <button class="filter-chip" data-filter="has_tableware">🍽️ 兒童餐具</button>
+                        <button class="filter-chip" data-filter="high_chair_available">🪑 兒童椅</button>
+                        <button class="filter-chip" data-filter="has_diaper_table">🍼 尿布台</button>
+                        <button class="filter-chip" data-filter="kids_menu">🥘 兒童餐</button>
+                        <button class="filter-chip" data-filter="kid_noise_tolerant">🥳 不怕吵</button>
+                        <button class="filter-chip" data-filter="spacious_seating">🛋️ 空間寬敞</button>
+                        <button class="filter-chip" data-filter="has_play_area">🧸 有遊樂區</button>
+                        <button class="filter-chip" data-filter="has_private_room">🚪 可包場辦活動</button>
                     </div>
                 </div>
 
@@ -67,25 +68,36 @@
                             <svg class="search-icon" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
                             <input type="text" id="location-search" placeholder="輸入捷運站、地標或行政區" autocomplete="off">
                             <button id="clear-search" class="clear-search hidden">&times;</button>
-                            <button id="btn-nearby" class="btn-nearby-embed" title="找我附近適合帶小孩的餐廳">
-                                <span class="icon">📍</span>
-                            </button>
+                            <div id="search-magnifier" class="search-magnifier-embed" title="搜尋">
+                                <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                            </div>
                         </div>
                         <div id="search-autocomplete" class="autocomplete-dropdown hidden"></div>
                     </div>
 
-                    <!-- Prominent Locator Action -->
-                    <div class="nearby-locator-container">
-                        <button id="btn-nearby-prominent" class="btn-nearby-prominent" title="定位我附近適合帶小孩的餐廳">
-                            <span class="icon">📍</span>
-                            <span>尋找我附近的親子餐廳</span>
-                        </button>
-                    </div>
-
                     <!-- Quick Links Shortcut -->
                     <div class="quick-links">
-                        <span class="quick-links-label">或是從熱門區域挑選：</span>
+                        <span class="quick-links-label">熱門區域挑選：</span>
                         <div class="quick-links-scroll">
+                            <button id="btn-nearby-prominent" class="quick-link-item" title="定位我附近適合帶小孩的餐廳">
+                                <span class="icon" style="display: inline-flex; align-items: center;">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="15" height="15" style="display: block; filter: drop-shadow(0 1px 1px rgba(0,0,0,0.3));">
+                                        <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z" fill="#EA4335"/>
+                                        <circle cx="12" cy="9" r="3.2" fill="#7A1E1A"/>
+                                    </svg>
+                                </span>
+                                <span>我附近</span>
+                            </button>
+                            <button id="btn-taipei-all" class="quick-link-item" title="尋找整個台北市的親子餐廳">
+                                <span class="icon" style="display: inline-flex; align-items: center;">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="display: block;">
+                                        <polygon points="3 6 9 3 15 6 21 3 21 18 15 21 9 18 3 21"></polygon>
+                                        <line x1="9" y1="3" x2="9" y2="18"></line>
+                                        <line x1="15" y1="6" x2="15" y2="21"></line>
+                                    </svg>
+                                </span>
+                                <span>台北市全區</span>
+                            </button>
                             <button class="quick-link-item" data-loc="大安區">大安區</button>
                             <button class="quick-link-item" data-loc="信義區">信義區</button>
                             <button class="quick-link-item" data-loc="台北車站">台北車站</button>
@@ -157,11 +169,10 @@
                     <!-- Recommended Section -->
                     <div id="recommended-section" class="results-section">
                         <div class="section-header">為你精選的推薦</div>
+                        <!-- Fallback Hint (Hidden until needed) -->
+                        <div id="fallback-hint" class="fallback-hint hidden" style="margin: 0 0 1.25rem 0;"></div>
                         <div id="recommended-list"></div>
                     </div>
-
-                    <!-- Fallback Section (Hidden until needed) -->
-                    <div id="fallback-hint" class="fallback-hint hidden"></div>
 
                     <!-- Others Section (Collapsible) -->
                     <div id="others-section" class="results-section">
