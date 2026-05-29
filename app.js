@@ -768,8 +768,6 @@ function showPopularRecommendations() {
     const popularList = [
         { name: '我附近', type: '目前位置', icon: '📍' },
         { name: '台北市全區', type: '全市', icon: '🗺️' },
-        { name: '大安區', type: '行政區', icon: '🏘️' },
-        { name: '信義區', type: '行政區', icon: '🏘️' },
         { name: '台北車站', type: '捷運站/車站/地標', icon: '🚇' },
         { name: '西門町', type: '商圈/捷運站', icon: '🚇' },
         { name: '中山站', type: '捷運站/商圈', icon: '🚇' }
@@ -940,7 +938,12 @@ function selectLocation(loc, source = 'other', pushState = true) {
             
             // Only scroll to results on manual user search, not during back/forward URL synchronization
             if (source !== 'url_sync') {
-                searchResultsView.scrollIntoView({ behavior: 'smooth' });
+                const searchCard = document.querySelector('.main-search-card');
+                if (searchCard) {
+                    searchCard.scrollIntoView({ behavior: 'smooth' });
+                } else {
+                    searchResultsView.scrollIntoView({ behavior: 'smooth' });
+                }
             }
         }, 120);
     } else {
@@ -948,7 +951,12 @@ function selectLocation(loc, source = 'other', pushState = true) {
         updateUrl(pushState);
         
         if (source !== 'url_sync') {
-            searchResultsView.scrollIntoView({ behavior: 'smooth' });
+            const searchCard = document.querySelector('.main-search-card');
+            if (searchCard) {
+                searchCard.scrollIntoView({ behavior: 'smooth' });
+            } else {
+                searchResultsView.scrollIntoView({ behavior: 'smooth' });
+            }
         }
     }
 }
