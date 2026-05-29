@@ -1606,6 +1606,52 @@ function initMap() {
 
 function renderMap(restaurants) {
     if (!state.map) return;
+    
+    // Store restaurants for progressive zoom-based rendering
+    state.mapRestaurants = restaurants;
+    
+    const bounds = [];
+    const isWholeCity = state.searchLocation && (state.searchLocation.type === '全市' || state.searchLocation.name === '整個台北市');
+    if (state.searchLocation && !isWholeCity) {
+        bounds.push([state.searchLocation.lat, state.searchLocation.lng]);
+    }
+    
+    restaurants.forEach(res => {
+        if (res.latitude && res.longitude) {
+            const status = getDynamicStatus(res, state.filters);
+            const level = status.level;
+            const isLowQuality = (level === 'Insufficient Info' || level === 'Needs Attention');
+
+            // Skip if user wants to hide low quality markers
+            if (state.hideLowQualityMarkers && isLowQuality) return;
+
+            bounds.push([res.latitude, res.longitude]);
+        }
+    });
+
+    if (bounds.length > 0) {
+        state.map.fitBounds(bounds, { padding: [50, 50], maxZoom: 16 });
+    } else if (state.searchLocation) {
+        state.map.setView([state.searchLocation.lat, state.searchLocation.lng], 15);
+    }
+
+    // Perform initial marker rendering based on new view/zoom
+    refreshMapMarkers();
+
+    // Setup moveend listener once to handle pans and zooms
+    if (!state.mapMoveEndListenerSetup) {
+        state.map.on('moveend', () => {
+            // Only refresh markers, do NOT fit bounds on user drag/zoom
+            refreshMapMarkers();
+        });
+        state.mapMoveEndListenerSetup = true;
+    }
+}
+
+function refreshMapMarkers() {
+    if (!state.map || !state.mapRestaurants) return;
+
+    // Clear existing markers
     state.markers.forEach(m => state.map.removeLayer(m));
     state.markers = [];
     state.markerMap = {};
@@ -1615,19 +1661,16 @@ function renderMap(restaurants) {
         'Medium': '#84cc16', '中': '#84cc16',
         'Needs Attention': '#dc2626', '需留意': '#dc2626',
         'Insufficient Info': '#94a3b8', '資訊不足': '#94a3b8',
-        'Low Match': '#0284c7' // New blue for low matches
+        'Low Match': '#0284c7'
     };
 
-    const bounds = [];
-    const usedCoords = new Map(); // Track coordinates to prevent overlap
-    
-    // Add Search Center Marker
     const isWholeCity = state.searchLocation && (state.searchLocation.type === '全市' || state.searchLocation.name === '整個台北市');
+    const zoom = state.map.getZoom();
+    const mapBounds = state.map.getBounds();
+    const totalCount = state.mapRestaurants.length;
+
+    // 1. Render Search Center Pin
     if (state.searchLocation && !isWholeCity) {
-        const coordKey = `${state.searchLocation.lat.toFixed(5)},${state.searchLocation.lng.toFixed(5)}`;
-        usedCoords.set(coordKey, 1);
-        
-        // Use a premium Google Maps style red pin for the search center/user location
         const centerIcon = L.divIcon({
             html: `<div class="search-center-marker-inner" style="width: 36px; height: 36px; display: flex; align-items: center; justify-content: center;">
                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="36" height="36" style="display: block; filter: drop-shadow(0 3px 5px rgba(0,0,0,0.3));">
@@ -1660,92 +1703,108 @@ function renderMap(restaurants) {
         `;
         centerMarker.bindPopup(popupContent);
         state.markers.push(centerMarker);
-        bounds.push([state.searchLocation.lat, state.searchLocation.lng]);
     }
 
-    restaurants.forEach(res => {
-        if (res.latitude && res.longitude) {
-            let markerLat = res.latitude;
-            let markerLng = res.longitude;
+    const usedCoords = new Map();
 
-            // Jitter logic: if coords match exactly, add a tiny offset
-            const coordKey = `${res.latitude.toFixed(5)},${res.longitude.toFixed(5)}`;
-            if (usedCoords.has(coordKey)) {
-                const count = usedCoords.get(coordKey);
-                usedCoords.set(coordKey, count + 1);
-                
-                // Add tiny offset (approx 20-25 meters) in a circular pattern
-                const angle = (count - 1) * (2 * Math.PI / 8); 
-                const radius = 0.0002; 
-                markerLat += Math.cos(angle) * radius;
-                markerLng += Math.sin(angle) * radius;
-            } else {
-                usedCoords.set(coordKey, 1);
+    // 2. Filter mapRestaurants by zoom level and viewport bounds if count is large (> 60)
+    const filteredRestaurants = state.mapRestaurants.filter(res => {
+        if (!res.latitude || !res.longitude) return false;
+
+        const status = getDynamicStatus(res, state.filters);
+        const level = status.level;
+        const isLowQuality = (level === 'Insufficient Info' || level === 'Needs Attention');
+
+        // Apply global hideLowQualityMarkers toggle
+        if (state.hideLowQualityMarkers && isLowQuality) return false;
+
+        // Progressive filtering logic based on zoom levels
+        if (totalCount > 60) {
+            if (zoom <= 11) {
+                // Show only High level recommendations at very low zoom
+                return level === 'High';
+            } else if (zoom === 12) {
+                // Show High and Medium recommendations
+                return level === 'High' || level === 'Medium';
+            } else if (zoom === 13) {
+                // Show High, Medium, and Low Match
+                return level === 'High' || level === 'Medium' || level === 'Low Match';
+            } else if (zoom >= 14) {
+                // Show all categories, but ONLY if they are within current map viewport bounds
+                // This prevents cluttering by hiding pins that are off-screen
+                return mapBounds.contains([res.latitude, res.longitude]);
             }
-
-            const status = getDynamicStatus(res, state.filters);
-            const level = status.level;
-            const color = colorMap[level] || '#94a3b8';
-            const isLowQuality = (level === 'Insufficient Info' || level === 'Needs Attention');
-
-            // Skip if user wants to hide low quality markers
-            if (state.hideLowQualityMarkers && isLowQuality) return;
-
-            const isHollow = isLowQuality;
-
-            const pinIcon = L.divIcon({
-                html: `<div class="custom-pin">
-                         <div class="pin-teardrop ${isHollow ? 'hollow' : ''}" style="background-color: ${color}; color: ${color};"></div>
-                       </div>`,
-                className: '',
-                iconSize: [24, 30],
-                iconAnchor: [12, 30],
-                popupAnchor: [0, -30]
-            });
-
-            const marker = L.marker([markerLat, markerLng], {
-                icon: pinIcon
-            }).addTo(state.map);
-            
-            const isWholeCity = state.searchLocation && (state.searchLocation.type === '全市' || state.searchLocation.name === '整個台北市');
-            const times = (!isWholeCity) ? calculateTravelTimes(res.distance) : null;
-            const timeInfo = times ? `<div class="map-popup-time">🚶${times.walking}分 | 🚗${times.driving}分</div>` : '';
-
-            marker.bindPopup(`<div class="map-popup-compact">
-                <div class="map-popup-title-row">
-                    <span class="map-popup-name">${res.name}</span>
-                    <span class="map-popup-rating">⭐${res.rating}</span>
-                </div>
-                <div class="map-popup-meta-row">
-                    <span class="map-popup-level-tag" style="background: ${color}">${status.label}</span>
-                    ${times ? `<span class="map-popup-time-mini">🚶${times.walking}分鐘 · 🚗${times.driving}分鐘</span>` : ''}
-                </div>
-                <div class="map-popup-address">📍 ${fixSimplifiedAddress(res.address)}</div>
-                <button class="map-popup-action" onclick="showDetailFromMap('${res.place_id}')">查看詳情</button>
-            </div>`, { 
-                maxWidth: 240,
-                autoPanPadding: L.point(20, 20)
-            });
-
-            marker.on('click', () => {
-                trackEvent('click_map_restaurant', {
-                    restaurant_name: res.name,
-                    recommendation_level: levelLabels[res.parent_friendly_level] || res.parent_friendly_level,
-                    location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
-                });
-            });
-
-            state.markers.push(marker);
-            state.markerMap[res.place_id] = marker;
-            bounds.push([res.latitude, res.longitude]);
         }
+        return true;
     });
 
-    if (bounds.length > 0) {
-        state.map.fitBounds(bounds, { padding: [50, 50], maxZoom: 16 });
-    } else if (state.searchLocation) {
-        state.map.setView([state.searchLocation.lat, state.searchLocation.lng], 15);
-    }
+    // 3. Render filtered restaurant markers
+    filteredRestaurants.forEach(res => {
+        let markerLat = res.latitude;
+        let markerLng = res.longitude;
+
+        // Jitter logic for overlapping pins
+        const coordKey = `${res.latitude.toFixed(5)},${res.longitude.toFixed(5)}`;
+        if (usedCoords.has(coordKey)) {
+            const count = usedCoords.get(coordKey);
+            usedCoords.set(coordKey, count + 1);
+            const angle = (count - 1) * (2 * Math.PI / 8); 
+            const radius = 0.0002; 
+            markerLat += Math.cos(angle) * radius;
+            markerLng += Math.sin(angle) * radius;
+        } else {
+            usedCoords.set(coordKey, 1);
+        }
+
+        const status = getDynamicStatus(res, state.filters);
+        const level = status.level;
+        const color = colorMap[level] || '#94a3b8';
+        const isLowQuality = (level === 'Insufficient Info' || level === 'Needs Attention');
+        const isHollow = isLowQuality;
+
+        const pinIcon = L.divIcon({
+            html: `<div class="custom-pin">
+                     <div class="pin-teardrop ${isHollow ? 'hollow' : ''}" style="background-color: ${color}; color: ${color};"></div>
+                   </div>`,
+            className: '',
+            iconSize: [24, 30],
+            iconAnchor: [12, 30],
+            popupAnchor: [0, -30]
+        });
+
+        const marker = L.marker([markerLat, markerLng], {
+            icon: pinIcon
+        }).addTo(state.map);
+        
+        const times = (!isWholeCity) ? calculateTravelTimes(res.distance) : null;
+
+        marker.bindPopup(`<div class="map-popup-compact">
+            <div class="map-popup-title-row">
+                <span class="map-popup-name">${res.name}</span>
+                <span class="map-popup-rating">⭐${res.rating}</span>
+            </div>
+            <div class="map-popup-meta-row">
+                <span class="map-popup-level-tag" style="background: ${color}">${status.label}</span>
+                ${times ? `<span class="map-popup-time-mini">🚶${times.walking}分鐘 · 🚗${times.driving}分鐘</span>` : ''}
+            </div>
+            <div class="map-popup-address">📍 ${fixSimplifiedAddress(res.address)}</div>
+            <button class="map-popup-action" onclick="showDetailFromMap('${res.place_id}')">查看詳情</button>
+        </div>`, { 
+            maxWidth: 240,
+            autoPanPadding: L.point(20, 20)
+        });
+
+        marker.on('click', () => {
+            trackEvent('click_map_restaurant', {
+                restaurant_name: res.name,
+                recommendation_level: levelLabels[res.parent_friendly_level] || res.parent_friendly_level,
+                location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
+            });
+        });
+
+        state.markers.push(marker);
+        state.markerMap[res.place_id] = marker;
+    });
 }
 
 window.showDetailFromMap = (id) => {
