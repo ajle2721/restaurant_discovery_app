@@ -486,6 +486,7 @@ function setupEventListeners() {
         const featuresSection = document.querySelector('.features-section');
         if (featuresSection) featuresSection.classList.remove('hidden');
         document.querySelector('.main-header').style.display = 'block';
+        window.scrollTo({ top: 0, behavior: 'smooth' });
         updateUrl(true);
     });
 
@@ -1918,6 +1919,7 @@ function syncStateFromUrl(isInitialLoad = false) {
             const featuresSection = document.querySelector('.features-section');
             if (featuresSection) featuresSection.classList.remove('hidden');
             document.querySelector('.main-header').style.display = 'block';
+            window.scrollTo({ top: 0, behavior: 'smooth' });
         }
     } else {
         console.log('URL search state matches current state, skipping search re-render.');
