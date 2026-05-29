@@ -405,13 +405,16 @@ function setupEventListeners() {
                 chip.classList.add('active');
             }
             
-            trackEvent('use_filter', {
-                filter_name: filterMap[filter] || filter,
-                action: action
-            });
-            
-            renderResults();
-            updateUrl();
+            // Toggle active state in UI instantly, then defer heavy search execution
+            setTimeout(() => {
+                trackEvent('use_filter', {
+                    filter_name: filterMap[filter] || filter,
+                    action: action
+                });
+                
+                renderResults();
+                updateUrl();
+            }, 20);
         });
     });
 
@@ -421,8 +424,12 @@ function setupEventListeners() {
         clearAllFiltersBtn.addEventListener('click', () => {
             state.filters.clear();
             document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
-            renderResults();
-            updateUrl();
+            
+            // Reset active states in UI instantly, then defer heavy search execution
+            setTimeout(() => {
+                renderResults();
+                updateUrl();
+            }, 20);
         });
     }
 
@@ -438,7 +445,10 @@ function setupEventListeners() {
                 location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
             });
             
-            renderResults();
+            // Update checkbox state instantly, then defer heavy rendering
+            setTimeout(() => {
+                renderResults();
+            }, 20);
         });
     }
 
@@ -459,7 +469,11 @@ function setupEventListeners() {
         state.showOthers = !state.showOthers;
         state.hideLowQualityMarkers = !state.showOthers; // Sync map toggle with list expansion
         if (hideMarkersToggle) hideMarkersToggle.checked = state.hideLowQualityMarkers;
-        renderResults();
+        
+        // Toggle expansion instantly, then defer heavy rendering
+        setTimeout(() => {
+            renderResults();
+        }, 20);
     });
 
     // Reset Search
@@ -900,6 +914,10 @@ function selectLocation(loc, source = 'other', pushState = true) {
     state.searchLocation = loc;
     state.showOthers = false; // Reset to only show High+Medium results on new search
     searchInput.value = loc.name;
+    
+    // Dismiss mobile keyboard and focus
+    if (searchInput) searchInput.blur();
+    
     autocompleteDropdown.classList.add('hidden');
     clearSearchBtn.classList.remove('hidden');
     if (searchMagnifier) searchMagnifier.classList.add('hidden');
