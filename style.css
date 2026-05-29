@@ -1240,6 +1240,7 @@ body {
 }
 .map-view {
     position: relative;
+    z-index: 10;
     height: 40vh;
     min-height: 300px;
     margin: 1.5rem;
