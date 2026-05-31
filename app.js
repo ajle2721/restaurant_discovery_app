@@ -1593,9 +1593,19 @@ function renderDetailContent(restaurant) {
         <a id="btn-open-google-maps" class="btn btn-primary" href="${googleMapsUrl}" target="${mapTarget}" rel="noopener noreferrer" style="width: 100%; margin-top: 1rem; padding: 1.125rem; text-decoration: none; color: white; box-sizing: border-box;">
             在 Google 地圖中開啟
         </a>
-        <button id="btn-trigger-feedback" class="btn-feedback-trigger">
-            <span>🚩</span> 協助回報與貢獻此餐廳資訊
-        </button>
+        
+        <div class="community-contrib-card">
+            <div class="contrib-header">
+                <span class="contrib-emoji">💝</span>
+                <span class="contrib-title">資訊回報與共享</span>
+            </div>
+            <p class="contrib-text">
+                本站資訊由 AI 與熱心爸媽協助整理。若您發現店家資訊與實際不符，或想提供最新消息，歡迎點擊下方回報！
+            </p>
+            <button id="btn-trigger-feedback" class="btn btn-secondary" style="width: 100%; padding: 0.85rem; border-radius: 0.85rem;">
+                <span>✍️</span> 立即回報或補充資訊
+            </button>
+        </div>
     `;
 
     const detailFavBtn = document.getElementById('btn-detail-fav');
