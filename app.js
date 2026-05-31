@@ -68,6 +68,45 @@ function throttle(func, limit) {
     }
 }
 
+function isInAppBrowser() {
+    const ua = navigator.userAgent || navigator.vendor || window.opera;
+    const uaLower = ua.toLowerCase();
+    return uaLower.includes('fban') || 
+           uaLower.includes('fbav') || 
+           uaLower.includes('line/') || 
+           uaLower.includes('instagram') || 
+           uaLower.includes('micromessenger') || // WeChat
+           uaLower.includes('pxbrowser');
+}
+
+function initInAppBrowserHandling() {
+    if (!isInAppBrowser()) return;
+    
+    // Show global warning banner if not dismissed in session
+    if (!sessionStorage.getItem('dismissed-in-app-banner')) {
+        const homeView = document.getElementById('home-view');
+        if (homeView) {
+            const banner = document.createElement('div');
+            banner.className = 'in-app-banner';
+            banner.innerHTML = `
+                <div class="in-app-banner-content">
+                    <span class="in-app-banner-icon">⚠️</span>
+                    <span class="in-app-banner-text">
+                        偵測到您目前正使用社群軟體（LINE/臉書）內建瀏覽器。為避免無法順利定位或開啟 Google 地圖，建議點擊右上角<strong>「⋯」</strong>並選擇<strong>「在瀏覽器中開啟」</strong>（或用 Safari/Chrome 開啟）。
+                    </span>
+                </div>
+                <button id="close-in-app-banner" class="close-in-app-banner" aria-label="關閉提示">&times;</button>
+            `;
+            homeView.insertBefore(banner, homeView.firstChild);
+            
+            document.getElementById('close-in-app-banner').addEventListener('click', () => {
+                banner.remove();
+                sessionStorage.setItem('dismissed-in-app-banner', 'true');
+            });
+        }
+    }
+}
+
 const filterMap = {
     has_tableware: 'has_tableware',
     high_chair_available: 'child_seat_available',
@@ -293,6 +332,7 @@ function init() {
         loadFavorites();
         setupEventListeners();
         updateShortlistUI();
+        initInAppBrowserHandling();
 
         // Global listener for map popup buttons (View Details)
         state.map.on('popupopen', (e) => {
@@ -1516,6 +1556,20 @@ function renderDetailContent(restaurant) {
         googleMapsUrl = `https://www.google.com/maps/search/?api=1&query=${query}`;
     }
 
+    const isApp = isInAppBrowser();
+    const mapTarget = isApp ? '_self' : '_blank';
+    let mapWarningHtml = '';
+    if (isApp) {
+        mapWarningHtml = `
+            <div style="margin-top: 0.75rem; padding: 0.75rem 1rem; background: #fffbeb; border: 1px solid #fef3c7; border-radius: 12px; font-size: 0.8rem; color: #b45309; line-height: 1.5; display: flex; gap: 0.5rem; align-items: flex-start; text-align: left; box-sizing: border-box;">
+                <span style="font-size: 1.1rem; line-height: 1; margin-top: 0.1rem;">⚠️</span>
+                <div>
+                    偵測到社群軟體內建瀏覽器限制。若地圖無法正常開啟，請點選右上角<strong>「三個點 ⋯」</strong>並選擇<strong>「在瀏覽器中開啟」</strong>。
+                </div>
+            </div>
+        `;
+    }
+
     detailContent.innerHTML = `
         <h1 style="margin-bottom: 0.5rem; color: var(--text-main);">${restaurant.name || '未命名餐廳'}</h1>
         <div class="restaurant-rating" style="font-size: 1.1rem; margin-bottom: 0.5rem;">⭐ ${restaurant.rating || 'N/A'}</div>
@@ -1542,9 +1596,10 @@ function renderDetailContent(restaurant) {
             <div class="ai-summary-text">${restaurant.ai_summary || '目前尚無摘要資訊。'}</div>
         </div>
 
-        <a id="btn-open-google-maps" class="btn btn-primary" href="${googleMapsUrl}" target="_blank" rel="noopener noreferrer" style="width: 100%; margin-top: 1rem; padding: 1.125rem; text-decoration: none; color: white; box-sizing: border-box;">
+        <a id="btn-open-google-maps" class="btn btn-primary" href="${googleMapsUrl}" target="${mapTarget}" rel="noopener noreferrer" style="width: 100%; margin-top: 1rem; padding: 1.125rem; text-decoration: none; color: white; box-sizing: border-box;">
             在 Google 地圖中開啟
         </a>
+        ${mapWarningHtml}
         <button id="btn-trigger-feedback" class="btn-feedback-trigger">
             <span>🚩</span> 資訊有誤？回報此餐廳糾錯
         </button>

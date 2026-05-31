@@ -2703,4 +2703,58 @@ body {
     }
 }
 
+/* In-App Browser Warning Banner */
+.in-app-banner {
+    background-color: #fffbeb;
+    border-bottom: 1px solid #fef3c7;
+    padding: 0.75rem 1rem;
+    position: relative;
+    z-index: 1000;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 0.75rem;
+    font-size: 0.85rem;
+    color: #b45309;
+    animation: fadeIn 0.3s ease-out;
+}
+
+.in-app-banner-content {
+    display: flex;
+    gap: 0.5rem;
+    align-items: flex-start;
+    line-height: 1.4;
+}
+
+.in-app-banner-icon {
+    font-size: 1.1rem;
+    flex-shrink: 0;
+}
+
+.in-app-banner-text strong {
+    font-weight: 700;
+    color: #92400e;
+    text-decoration: underline;
+}
+
+.close-in-app-banner {
+    background: none;
+    border: none;
+    font-size: 1.25rem;
+    color: #b45309;
+    cursor: pointer;
+    padding: 0 0.25rem;
+    line-height: 1;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0.7;
+    transition: opacity 0.2s;
+}
+
+.close-in-app-banner:hover {
+    opacity: 1;
+}
+
 
