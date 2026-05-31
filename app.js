@@ -1,3 +1,5 @@
+const WEB3FORMS_ACCESS_KEY = "c7b3994f-f590-4126-a12f-111c28c58a19";
+
 const state = {
     filters: new Set(),
     searchLocation: null, // {name, lat, lng, type, district}
@@ -781,6 +783,38 @@ function setupEventListeners() {
         });
     }
 
+    // Feedback Modal Close & Cancel Actions
+    const closeFeedbackBtn = document.getElementById('close-feedback-modal');
+    if (closeFeedbackBtn) {
+        closeFeedbackBtn.addEventListener('click', closeFeedbackModal);
+    }
+    
+    const cancelFeedbackBtn = document.getElementById('btn-cancel-feedback');
+    if (cancelFeedbackBtn) {
+        cancelFeedbackBtn.addEventListener('click', closeFeedbackModal);
+    }
+    
+    const feedbackOverlay = document.getElementById('feedback-modal-overlay');
+    if (feedbackOverlay) {
+        feedbackOverlay.addEventListener('click', closeFeedbackModal);
+    }
+    
+    // Feedback Form Submit Action
+    const feedbackForm = document.getElementById('feedback-form');
+    if (feedbackForm) {
+        feedbackForm.addEventListener('submit', handleFeedbackSubmit);
+    }
+
+    // ESC key closes feedback modal
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') {
+            const modal = document.getElementById('feedback-modal');
+            if (modal && modal.classList.contains('active')) {
+                closeFeedbackModal();
+            }
+        }
+    });
+
 }
 
 function showPopularRecommendations() {
@@ -1504,6 +1538,9 @@ function renderDetailContent(restaurant) {
         <button id="btn-open-google-maps" class="btn btn-primary" style="width: 100%; margin-top: 1rem; padding: 1.125rem;">
             在 Google 地圖中開啟
         </button>
+        <button id="btn-trigger-feedback" class="btn-feedback-trigger">
+            <span>🚩</span> 資訊有誤？回報此餐廳糾錯
+        </button>
     `;
 
     const detailFavBtn = document.getElementById('btn-detail-fav');
@@ -1533,6 +1570,13 @@ function renderDetailContent(restaurant) {
                 const query = encodeURIComponent((restaurant.name || '') + ' ' + cleanAddr);
                 window.open(`https://www.google.com/maps/search/?api=1&query=${query}`, '_blank');
             }
+        });
+    }
+
+    const feedbackTriggerBtn = document.getElementById('btn-trigger-feedback');
+    if (feedbackTriggerBtn) {
+        feedbackTriggerBtn.addEventListener('click', () => {
+            openFeedbackModal(restaurant);
         });
     }
 }
@@ -2443,6 +2487,123 @@ function renderShortlistDrawer() {
                 toggleFavorite(btn.dataset.placeId);
             });
         });
+    }
+}
+
+// Feedback Modal functions
+function openFeedbackModal(restaurant) {
+    if (!restaurant) return;
+    trackEvent('open_feedback_modal', { restaurant_name: restaurant.name });
+    
+    const modalOverlay = document.getElementById('feedback-modal-overlay');
+    const modal = document.getElementById('feedback-modal');
+    const nameInput = document.getElementById('feedback-restaurant-name');
+    const idInput = document.getElementById('feedback-restaurant-id');
+    const descriptionTextarea = document.getElementById('feedback-description');
+    const emailInput = document.getElementById('feedback-email');
+    
+    // Prefill
+    if (nameInput) nameInput.value = restaurant.name || '';
+    if (idInput) idInput.value = restaurant.place_id || '';
+    
+    // Clear form fields
+    document.querySelectorAll('.feedback-issue-cb').forEach(cb => cb.checked = false);
+    if (descriptionTextarea) descriptionTextarea.value = '';
+    if (emailInput) emailInput.value = '';
+    
+    // Show Modal
+    if (modalOverlay) modalOverlay.classList.add('active');
+    if (modal) modal.classList.add('active');
+    document.body.style.overflow = 'hidden'; // Lock scrolling
+}
+
+function closeFeedbackModal() {
+    const modalOverlay = document.getElementById('feedback-modal-overlay');
+    const modal = document.getElementById('feedback-modal');
+    
+    if (modalOverlay) modalOverlay.classList.remove('active');
+    if (modal) modal.classList.remove('active');
+    
+    // Restore scrolling only if detail view is NOT active
+    if (state.view !== 'detail') {
+        document.body.style.overflow = '';
+    }
+}
+
+async function handleFeedbackSubmit(e) {
+    e.preventDefault();
+    
+    const submitBtn = document.getElementById('btn-submit-feedback');
+    const originalBtnText = submitBtn ? submitBtn.innerHTML : '提交回報';
+    
+    // Collect checked issues
+    const checkedIssues = [];
+    document.querySelectorAll('.feedback-issue-cb:checked').forEach(cb => {
+        checkedIssues.push(cb.value);
+    });
+    
+    const description = document.getElementById('feedback-description').value.trim();
+    const email = document.getElementById('feedback-email').value.trim();
+    const restaurantName = document.getElementById('feedback-restaurant-name').value;
+    const restaurantId = document.getElementById('feedback-restaurant-id').value;
+    
+    // Validation: Must select at least one issue, OR write a description
+    if (checkedIssues.length === 0 && !description) {
+        alert('請至少勾選一項發現的問題或填寫具體說明！');
+        return;
+    }
+    
+    // Spam honeypot check
+    const honeypot = document.querySelector('.hidden-honeypot');
+    if (honeypot && honeypot.checked) {
+        console.warn('Bot detected');
+        closeFeedbackModal();
+        return;
+    }
+    
+    try {
+        if (submitBtn) {
+            submitBtn.disabled = true;
+            submitBtn.innerHTML = '⌛ 提交中...';
+        }
+        
+        // Construct payload for Web3Forms
+        const payload = {
+            access_key: WEB3FORMS_ACCESS_KEY,
+            name: "親子餐廳地圖 - 糾錯系統",
+            subject: `🚩 餐廳資訊糾錯: ${restaurantName}`,
+            restaurant_name: restaurantName,
+            restaurant_id: restaurantId,
+            issues: checkedIssues.join(', '),
+            description: description,
+            email: email || '未提供'
+        };
+        
+        const response = await fetch('https://api.web3forms.com/submit', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json',
+                'Accept': 'application/json'
+            },
+            body: JSON.stringify(payload)
+        });
+        
+        const result = await response.json();
+        
+        if (response.ok && result.success) {
+            showToast('感謝您的回報！我們會核實並儘快修正。');
+            closeFeedbackModal();
+        } else {
+            throw new Error(result.message || '發送失敗');
+        }
+    } catch (err) {
+        console.error('Error submitting feedback:', err);
+        alert('提交失敗，請檢查網路連線或稍後再試。');
+    } finally {
+        if (submitBtn) {
+            submitBtn.disabled = false;
+            submitBtn.innerHTML = originalBtnText;
+        }
     }
 }
 
