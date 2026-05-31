@@ -1609,21 +1609,21 @@ function renderDetailContent(restaurant) {
 
     const gMapBtn = document.getElementById('btn-open-google-maps');
     if (gMapBtn) {
-        gMapBtn.addEventListener('click', () => {
+        gMapBtn.onclick = () => {
             try {
                 trackEvent('open_google_maps', {
                     restaurant_name: restaurant.name,
                     location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
                 });
             } catch (e) {}
-        });
+        };
     }
 
     const feedbackTriggerBtn = document.getElementById('btn-trigger-feedback');
     if (feedbackTriggerBtn) {
-        feedbackTriggerBtn.addEventListener('click', () => {
+        feedbackTriggerBtn.onclick = () => {
             openFeedbackModal(restaurant);
-        });
+        };
     }
 }
 
