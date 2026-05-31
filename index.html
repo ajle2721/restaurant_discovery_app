@@ -263,8 +263,8 @@
     <div id="feedback-modal" class="modal">
         <button id="close-feedback-modal" class="modal-close-btn" title="關閉">&times;</button>
         <div class="modal-header">
-            <h2 class="modal-title">🚩 餐廳資訊糾錯回報</h2>
-            <p class="modal-subtitle">如果您發現此餐廳的親子友善資訊有誤，請協助糾錯更新！</p>
+            <h2 class="modal-title">🚩 協助回報與貢獻資訊</h2>
+            <p class="modal-subtitle">如果您有更準確的親子友善資訊，或發現內容有誤，歡迎協助回報與補充！</p>
         </div>
         <form id="feedback-form" class="modal-body">
             <!-- Honeypot for Spam protection -->
@@ -279,38 +279,9 @@
 
             <!-- Issue Choices (Checkboxes) -->
             <div class="form-group">
-                <label class="form-label">請勾選發現的問題（可複選）</label>
-                <div class="checkbox-grid">
-                    <label class="checkbox-label">
-                        <input type="checkbox" class="feedback-issue-cb" value="實際上無提供兒童餐具"> 🍽️ 實際上無兒童餐具
-                    </label>
-                    <label class="checkbox-label">
-                        <input type="checkbox" class="feedback-issue-cb" value="實際上無提供兒童椅"> 🪑 實際上無兒童椅
-                    </label>
-                    <label class="checkbox-label">
-                        <input type="checkbox" class="feedback-issue-cb" value="實際上無尿布台"> 🍼 實際上無尿布台
-                    </label>
-                    <label class="checkbox-label">
-                        <input type="checkbox" class="feedback-issue-cb" value="實際上無提供兒童餐"> 🥘 實際上無兒童餐
-                    </label>
-                    <label class="checkbox-label">
-                        <input type="checkbox" class="feedback-issue-cb" value="實際上氣氛安靜不適合吵鬧"> 🥳 實際上需保持安靜
-                    </label>
-                    <label class="checkbox-label">
-                        <input type="checkbox" class="feedback-issue-cb" value="實際上空間狹窄推車不便"> 🛋️ 實際上空間較狹窄
-                    </label>
-                    <label class="checkbox-label">
-                        <input type="checkbox" class="feedback-issue-cb" value="實際上無遊樂區設施"> 🧸 實際上無遊樂區
-                    </label>
-                    <label class="checkbox-label">
-                        <input type="checkbox" class="feedback-issue-cb" value="實際上無提供包場活動"> 🚪 實際上不可包場
-                    </label>
-                    <label class="checkbox-label text-danger">
-                        <input type="checkbox" class="feedback-issue-cb" value="餐廳已歇業或搬遷"> ⚠️ 餐廳已歇業/搬遷
-                    </label>
-                    <label class="checkbox-label">
-                        <input type="checkbox" class="feedback-issue-cb" value="其他"> 💬 其他錯誤或補充
-                    </label>
+                <label class="form-label">請選擇您要回報或補充的項目（可複選）</label>
+                <div id="feedback-issue-grid" class="checkbox-grid">
+                    <!-- Checkboxes will be dynamically rendered here -->
                 </div>
             </div>
 

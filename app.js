@@ -1601,7 +1601,7 @@ function renderDetailContent(restaurant) {
         </a>
         ${mapWarningHtml}
         <button id="btn-trigger-feedback" class="btn-feedback-trigger">
-            <span>🚩</span> 資訊有誤？回報此餐廳糾錯
+            <span>🚩</span> 協助回報與貢獻此餐廳資訊
         </button>
     `;
 
@@ -2559,8 +2559,103 @@ function openFeedbackModal(restaurant) {
     if (nameInput) nameInput.value = restaurant.name || '';
     if (idInput) idInput.value = restaurant.place_id || '';
     
-    // Clear form fields
-    document.querySelectorAll('.feedback-issue-cb').forEach(cb => cb.checked = false);
+    // Dynamically render issue checkboxes based on restaurant's current attributes
+    const attrs = restaurant.attributes || {};
+    const issueGrid = document.getElementById('feedback-issue-grid');
+    if (issueGrid) {
+        const specs = [
+            {
+                key: 'has_tableware',
+                emoji: '🍽️',
+                yesLabel: '實際上無兒童餐具',
+                yesValue: '實際上無提供兒童餐具',
+                noLabel: '其實有兒童餐具',
+                noValue: '其實有提供兒童餐具'
+            },
+            {
+                key: 'high_chair_available',
+                emoji: '🪑',
+                yesLabel: '實際上無兒童椅',
+                yesValue: '實際上無提供兒童椅',
+                noLabel: '其實有兒童椅',
+                noValue: '其實有提供兒童椅'
+            },
+            {
+                key: 'has_diaper_table',
+                emoji: '🍼',
+                yesLabel: '實際上無尿布台',
+                yesValue: '實際上無尿布台',
+                noLabel: '其實有尿布台',
+                noValue: '其實有尿布台'
+            },
+            {
+                key: 'kids_menu',
+                emoji: '🥘',
+                yesLabel: '實際上無兒童餐',
+                yesValue: '實際上無提供兒童餐',
+                noLabel: '其實有兒童餐',
+                noValue: '其實有提供兒童餐'
+            },
+            {
+                key: 'kid_noise_tolerant',
+                emoji: '🥳',
+                yesLabel: '實際上氣氛安靜需留意',
+                yesValue: '實際上氣氛安靜不適合吵鬧',
+                noLabel: '其實環境不怕吵鬧',
+                noValue: '其實環境不怕吵鬧'
+            },
+            {
+                key: 'spacious_seating',
+                emoji: '🛋️',
+                yesLabel: '實際上空間較狹窄',
+                yesValue: '實際上空間較狹窄',
+                noLabel: '其實空間寬敞',
+                noValue: '其實空間寬敞'
+            },
+            {
+                key: 'has_play_area',
+                emoji: '🧸',
+                yesLabel: '實際上無遊樂區',
+                yesValue: '實際上無遊樂區',
+                noLabel: '其實有遊樂區',
+                noValue: '其實有遊樂區'
+            },
+            {
+                key: 'has_private_room',
+                emoji: '🚪',
+                yesLabel: '實際上不可包場',
+                yesValue: '實際上不可包場',
+                noLabel: '其實可包場辦活動',
+                noValue: '其實可包場辦活動'
+            }
+        ];
+
+        let gridHtml = '';
+        specs.forEach(spec => {
+            const hasFeature = attrs[spec.key] === 'yes';
+            const label = hasFeature ? spec.yesLabel : spec.noLabel;
+            const value = hasFeature ? spec.yesValue : spec.noValue;
+            gridHtml += `
+                <label class="checkbox-label">
+                    <input type="checkbox" class="feedback-issue-cb" value="${value}"> ${spec.emoji} ${label}
+                </label>
+            `;
+        });
+
+        // Add static options: closed/moved and other
+        gridHtml += `
+            <label class="checkbox-label text-danger">
+                <input type="checkbox" class="feedback-issue-cb" value="餐廳已歇業或搬遷"> ⚠️ 餐廳已歇業/搬遷
+            </label>
+            <label class="checkbox-label">
+                <input type="checkbox" class="feedback-issue-cb" value="其他"> 💬 其他建議或補充
+            </label>
+        `;
+
+        issueGrid.innerHTML = gridHtml;
+    }
+    
+    // Clear form text inputs
     if (descriptionTextarea) descriptionTextarea.value = '';
     if (emailInput) emailInput.value = '';
     
@@ -2602,7 +2697,7 @@ async function handleFeedbackSubmit(e) {
     
     // Validation: Must select at least one issue, OR write a description
     if (checkedIssues.length === 0 && !description) {
-        alert('請至少勾選一項發現的問題或填寫具體說明！');
+        alert('請至少選擇一個欲回報或補充的項目，或填寫具體說明！');
         return;
     }
     
@@ -2623,8 +2718,8 @@ async function handleFeedbackSubmit(e) {
         // Construct form data payload for Web3Forms to prevent CORS preflight and PWA spam filters
         const formData = new URLSearchParams();
         formData.append('access_key', WEB3FORMS_ACCESS_KEY);
-        formData.append('name', '親子餐廳地圖 - 糾錯系統');
-        formData.append('subject', `🚩 餐廳資訊糾錯: ${restaurantName}`);
+        formData.append('name', '親子餐廳地圖 - 資訊回報與貢獻');
+        formData.append('subject', `🚩 餐廳資訊更新回報: ${restaurantName}`);
         formData.append('restaurant_name', restaurantName);
         formData.append('restaurant_id', restaurantId);
         formData.append('issues', checkedIssues.join(', '));
@@ -2645,7 +2740,7 @@ async function handleFeedbackSubmit(e) {
         const result = await response.json();
         
         if (response.ok && result.success) {
-            showToast('感謝您的回報！我們會核實並儘快修正。');
+            showToast('感謝您的回報與貢獻！我們會核實並儘快更新。');
             closeFeedbackModal();
         } else {
             throw new Error(result.message || '伺服器回應異常');
