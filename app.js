@@ -2575,9 +2575,12 @@ async function handleFeedbackSubmit(e) {
             restaurant_name: restaurantName,
             restaurant_id: restaurantId,
             issues: checkedIssues.join(', '),
-            description: description,
-            email: email || '未提供'
+            description: description
         };
+        
+        if (email) {
+            payload.email = email;
+        }
         
         const response = await fetch('https://api.web3forms.com/submit', {
             method: 'POST',
