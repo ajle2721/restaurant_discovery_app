@@ -2594,11 +2594,11 @@ async function handleFeedbackSubmit(e) {
             showToast('感謝您的回報！我們會核實並儘快修正。');
             closeFeedbackModal();
         } else {
-            throw new Error(result.message || '發送失敗');
+            throw new Error(result.message || '伺服器回應異常');
         }
     } catch (err) {
         console.error('Error submitting feedback:', err);
-        alert('提交失敗，請檢查網路連線或稍後再試。');
+        alert('提交失敗：' + err.message + '\n\n【排查提示】\n如果您在手機上測試時使用的是局域網 IP (如 192.168.x.x) 或直接開檔案測試，Web3Forms 安全機制可能會因為網域不符而拒絕傳送。請部署至 GitHub Pages 後再在正式網址上測試，即可正常使用！');
     } finally {
         if (submitBtn) {
             submitBtn.disabled = false;

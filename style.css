@@ -1115,7 +1115,7 @@ body {
 }
 
 .detail-content {
-    padding: 1.5rem;
+    padding: 1.5rem 1.5rem 6.5rem; /* Large bottom padding for scroll space on mobile */
 }
 
 .ai-summary {
