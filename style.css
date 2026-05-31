@@ -2710,26 +2710,4 @@ body {
     }
 }
 
-/* Contribution Link next to header */
-.btn-contribute-link {
-    background: none;
-    border: none;
-    color: var(--secondary);
-    font-size: 0.82rem;
-    font-weight: 700;
-    cursor: pointer;
-    display: inline-flex;
-    align-items: center;
-    gap: 0.25rem;
-    padding: 0.25rem 0.5rem;
-    border-radius: 0.5rem;
-    transition: var(--transition);
-    text-decoration: none;
-}
-
-.btn-contribute-link:hover {
-    background: rgba(79, 179, 170, 0.08);
-    color: #3fa198;
-}
-
 
