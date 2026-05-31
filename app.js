@@ -107,6 +107,24 @@ function initInAppBrowserHandling() {
     }
 }
 
+function updateQuickLinksUI() {
+    const loc = state.searchLocation;
+    const items = document.querySelectorAll('.quick-link-item');
+    items.forEach(btn => {
+        let isActive = false;
+        if (loc) {
+            if (btn.dataset.loc && btn.dataset.loc === loc.name) {
+                isActive = true;
+            } else if (btn.id === 'btn-nearby-prominent' && loc.name === '我附近') {
+                isActive = true;
+            } else if (btn.id === 'btn-taipei-all' && (loc.name === '整個台北市' || loc.name === '台北市全區' || loc.type === '全市')) {
+                isActive = true;
+            }
+        }
+        btn.classList.toggle('active', isActive);
+    });
+}
+
 const filterMap = {
     has_tableware: 'has_tableware',
     high_chair_available: 'child_seat_available',
@@ -549,6 +567,7 @@ function setupEventListeners() {
         document.querySelector('.main-header').style.display = 'block';
         window.scrollTo({ top: 0, behavior: 'smooth' });
         updateUrl(true);
+        updateQuickLinksUI();
     });
 
     // Navigation
@@ -1056,6 +1075,7 @@ function selectLocation(loc, source = 'other', pushState = true) {
             }
         }
     }
+    updateQuickLinksUI();
 }
 
 function calculatePersonalizedScore(res) {
@@ -2112,6 +2132,7 @@ function syncStateFromUrl(isInitialLoad = false) {
             if (featuresSection) featuresSection.classList.remove('hidden');
             document.querySelector('.main-header').style.display = 'block';
             window.scrollTo({ top: 0, behavior: 'smooth' });
+            updateQuickLinksUI();
         }
     } else {
         console.log('URL search state matches current state, skipping search re-render.');

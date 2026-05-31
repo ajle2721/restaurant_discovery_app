@@ -309,6 +309,13 @@ body {
     background: rgba(255, 255, 255, 0.25);
 }
 
+.quick-link-item.active {
+    background: var(--accent) !important;
+    color: var(--text-main) !important;
+    border-color: var(--accent) !important;
+    box-shadow: 0 4px 15px rgba(255, 217, 61, 0.4) !important;
+}
+
 /* Results View */
 .search-status-bar {
     padding: 1.25rem 1.5rem;
