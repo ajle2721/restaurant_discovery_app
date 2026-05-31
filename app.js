@@ -424,7 +424,11 @@ function setupEventListeners() {
     if (btnNearbyProminent) {
         btnNearbyProminent.addEventListener('click', () => {
             trackEvent('click_nearby_prominent');
-            handleNearby();
+            if (state.searchLocation && state.searchLocation.name === '我附近') {
+                resetSearchBtn.click();
+            } else {
+                handleNearby();
+            }
         });
     }
 
@@ -439,7 +443,11 @@ function setupEventListeners() {
                 lat: 25.037487, // Taipei Center
                 lng: 121.564766
             };
-            selectLocation(taipeiAllLoc, 'taipei_all');
+            if (state.searchLocation && (state.searchLocation.name === '整個台北市' || state.searchLocation.name === '台北市全區' || state.searchLocation.type === '全市')) {
+                resetSearchBtn.click();
+            } else {
+                selectLocation(taipeiAllLoc, 'taipei_all');
+            }
         });
     }
 
@@ -447,11 +455,16 @@ function setupEventListeners() {
     document.querySelectorAll('.quick-link-item').forEach(btn => {
         btn.addEventListener('click', () => {
             const locName = btn.dataset.loc;
-            const locObj = state.locationData.find(l => l.name === locName);
+            if (!locName) return; // Skip buttons without data-loc like "我附近" or "台北市全區" to avoid duplicate handlers
             
             trackEvent('click_popular_location', { location_name: locName });
             
-            if (locObj) selectLocation(locObj, 'popular_location');
+            if (state.searchLocation && state.searchLocation.name === locName) {
+                resetSearchBtn.click();
+            } else {
+                const locObj = state.locationData.find(l => l.name === locName);
+                if (locObj) selectLocation(locObj, 'popular_location');
+            }
         });
     });
 
