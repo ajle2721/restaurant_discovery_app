@@ -2710,54 +2710,26 @@ body {
     }
 }
 
-/* Community Contribution Card */
-.community-contrib-card {
-    margin-top: 1.5rem;
-    padding: 1.25rem;
-    background: #f0fdfa;
-    border: 1.5px dashed var(--secondary);
-    border-radius: 1.25rem;
-    text-align: left;
-    box-sizing: border-box;
-    display: flex;
-    flex-direction: column;
-    gap: 0.65rem;
-    animation: fadeIn 0.4s ease-out;
-}
-
-.contrib-header {
-    display: flex;
-    align-items: center;
-    gap: 0.5rem;
-}
-
-.contrib-emoji {
-    font-size: 1.2rem;
-    line-height: 1;
-}
-
-.contrib-title {
-    font-size: 0.95rem;
-    font-weight: 700;
-    color: #0d9488;
-}
-
-.contrib-text {
-    margin: 0;
+/* Contribution Link next to header */
+.btn-contribute-link {
+    background: none;
+    border: none;
+    color: var(--secondary);
     font-size: 0.82rem;
-    color: #0f766e;
-    line-height: 1.5;
+    font-weight: 700;
+    cursor: pointer;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.25rem;
+    padding: 0.25rem 0.5rem;
+    border-radius: 0.5rem;
+    transition: var(--transition);
+    text-decoration: none;
 }
 
-.btn-secondary {
-    background: var(--secondary);
-    color: white;
-    box-shadow: 0 4px 10px rgba(79, 179, 170, 0.15);
-}
-
-.btn-secondary:hover {
-    background: #3fa198;
-    box-shadow: 0 4px 12px rgba(79, 179, 170, 0.3);
+.btn-contribute-link:hover {
+    background: rgba(79, 179, 170, 0.08);
+    color: #3fa198;
 }
 
 
