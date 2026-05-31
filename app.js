@@ -1509,6 +1509,13 @@ function renderDetailContent(restaurant) {
         `;
     }
 
+    const cleanAddrForMap = fixSimplifiedAddress(restaurant.address || '');
+    let googleMapsUrl = restaurant.google_maps_url || restaurant.url;
+    if (!googleMapsUrl) {
+        const query = encodeURIComponent((restaurant.name || '') + ' ' + cleanAddrForMap);
+        googleMapsUrl = `https://www.google.com/maps/search/?api=1&query=${query}`;
+    }
+
     detailContent.innerHTML = `
         <h1 style="margin-bottom: 0.5rem; color: var(--text-main);">${restaurant.name || '未命名餐廳'}</h1>
         <div class="restaurant-rating" style="font-size: 1.1rem; margin-bottom: 0.5rem;">⭐ ${restaurant.rating || 'N/A'}</div>
@@ -1535,9 +1542,9 @@ function renderDetailContent(restaurant) {
             <div class="ai-summary-text">${restaurant.ai_summary || '目前尚無摘要資訊。'}</div>
         </div>
 
-        <button id="btn-open-google-maps" class="btn btn-primary" style="width: 100%; margin-top: 1rem; padding: 1.125rem;">
+        <a id="btn-open-google-maps" class="btn btn-primary" href="${googleMapsUrl}" target="_blank" rel="noopener noreferrer" style="width: 100%; margin-top: 1rem; padding: 1.125rem; text-decoration: none; color: white; box-sizing: border-box;">
             在 Google 地圖中開啟
-        </button>
+        </a>
         <button id="btn-trigger-feedback" class="btn-feedback-trigger">
             <span>🚩</span> 資訊有誤？回報此餐廳糾錯
         </button>
@@ -1555,21 +1562,12 @@ function renderDetailContent(restaurant) {
     const gMapBtn = document.getElementById('btn-open-google-maps');
     if (gMapBtn) {
         gMapBtn.addEventListener('click', () => {
-            const cleanAddr = fixSimplifiedAddress(restaurant.address || '');
             try {
                 trackEvent('open_google_maps', {
                     restaurant_name: restaurant.name,
                     location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
                 });
             } catch (e) {}
-            
-            const targetUrl = restaurant.google_maps_url || restaurant.url;
-            if (targetUrl) {
-                window.open(targetUrl, '_blank');
-            } else {
-                const query = encodeURIComponent((restaurant.name || '') + ' ' + cleanAddr);
-                window.open(`https://www.google.com/maps/search/?api=1&query=${query}`, '_blank');
-            }
         });
     }
 
