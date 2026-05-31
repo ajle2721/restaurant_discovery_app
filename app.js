@@ -2567,28 +2567,26 @@ async function handleFeedbackSubmit(e) {
             submitBtn.innerHTML = '⌛ 提交中...';
         }
         
-        // Construct payload for Web3Forms
-        const payload = {
-            access_key: WEB3FORMS_ACCESS_KEY,
-            name: "親子餐廳地圖 - 糾錯系統",
-            subject: `🚩 餐廳資訊糾錯: ${restaurantName}`,
-            restaurant_name: restaurantName,
-            restaurant_id: restaurantId,
-            issues: checkedIssues.join(', '),
-            description: description
-        };
-        
+        // Construct form data payload for Web3Forms to prevent CORS preflight and PWA spam filters
+        const formData = new URLSearchParams();
+        formData.append('access_key', WEB3FORMS_ACCESS_KEY);
+        formData.append('name', '親子餐廳地圖 - 糾錯系統');
+        formData.append('subject', `🚩 餐廳資訊糾錯: ${restaurantName}`);
+        formData.append('restaurant_name', restaurantName);
+        formData.append('restaurant_id', restaurantId);
+        formData.append('issues', checkedIssues.join(', '));
+        formData.append('description', description);
         if (email) {
-            payload.email = email;
+            formData.append('email', email);
         }
         
         const response = await fetch('https://api.web3forms.com/submit', {
             method: 'POST',
             headers: {
-                'Content-Type': 'application/json',
+                'Content-Type': 'application/x-www-form-urlencoded',
                 'Accept': 'application/json'
             },
-            body: JSON.stringify(payload)
+            body: formData.toString()
         });
         
         const result = await response.json();
