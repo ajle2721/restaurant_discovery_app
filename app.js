@@ -11,7 +11,12 @@ const state = {
     markerMap: {},
     locationData: [], // From taipei_locations.json
     showOthers: false,
-    hideLowQualityMarkers: true, // Default to true
+    get hideLowQualityMarkers() {
+        return !this.showOthers;
+    },
+    set hideLowQualityMarkers(val) {
+        this.showOthers = !val;
+    },
     currentResults: [],
     favorites: new Set(),
     viewTransitionTimeoutId: null,
