@@ -13,7 +13,9 @@ const state = {
     showOthers: false,
     hideLowQualityMarkers: true, // Default to true
     currentResults: [],
-    favorites: new Set()
+    favorites: new Set(),
+    viewTransitionTimeoutId: null,
+    isUiNavigation: false
 };
 
 // Global Detail Viewer (must be global for onclick)
@@ -559,7 +561,12 @@ function setupEventListeners() {
     backHomeBtn.addEventListener('click', () => {
         const params = new URLSearchParams(window.location.search);
         if (params.get('loc') || params.get('f') || window.history.length > 1) {
+            state.isUiNavigation = true;
             window.history.back();
+            // Safety timeout to reset the flag if popstate is blocked/not fired
+            setTimeout(() => {
+                state.isUiNavigation = false;
+            }, 100);
         } else {
             switchView('home');
             updateUrl(false);
@@ -779,7 +786,9 @@ function setupEventListeners() {
     // popstate listener for back/forward browser buttons
     window.addEventListener('popstate', (e) => {
         console.log('Popstate detected, syncing view with URL...');
-        syncStateFromUrl(false);
+        const useAnimation = state.isUiNavigation;
+        state.isUiNavigation = false; // Reset flag
+        syncStateFromUrl(false, useAnimation);
     });
 
     // Map size toggle (Enlarge Map)
@@ -1660,9 +1669,22 @@ function isLowMatchGlobal(restaurant, level) {
 
 let lastScrollY = 0;
 
-function switchView(viewName) {
+function switchView(viewName, animate = true) {
+    if (state.viewTransitionTimeoutId) {
+        clearTimeout(state.viewTransitionTimeoutId);
+        state.viewTransitionTimeoutId = null;
+    }
+
+    if (!animate) {
+        detailView.classList.add('no-transition');
+    } else {
+        detailView.classList.remove('no-transition');
+    }
+
     if (viewName === 'detail') {
         state.view = 'detail';
+        lastScrollY = window.scrollY;
+        
         detailView.classList.add('active');
         detailView.scrollTo(0, 0); // Scroll detail view overlay back to its top
         document.body.style.overflow = 'hidden'; // Lock background window scroll to prevent double scrolling
@@ -1670,12 +1692,26 @@ function switchView(viewName) {
         state.view = 'home';
         detailView.classList.remove('active');
         
-        // Delay restoring background scrollbar and invalidating map size until the slide-out transition
-        // completely finishes (650ms) to prevent stutters, layout jumps, or scroll position shifting during active animation.
-        setTimeout(() => {
+        const restoreHomeState = () => {
             document.body.style.overflow = ''; // Unlock background window scroll
-            if (state.map) state.map.invalidateSize();
-        }, 650);
+            window.scrollTo(0, lastScrollY);
+        };
+
+        if (!animate) {
+            restoreHomeState();
+        } else {
+            // Delay restoring background scrollbar until the slide-out transition
+            // completely finishes (300ms) to prevent stutters or scroll position shifting during active animation.
+            state.viewTransitionTimeoutId = setTimeout(() => {
+                state.viewTransitionTimeoutId = null;
+                restoreHomeState();
+            }, 300);
+        }
+    }
+
+    if (!animate) {
+        void detailView.offsetHeight; // Force reflow
+        detailView.classList.remove('no-transition');
     }
 }
 
@@ -1991,7 +2027,7 @@ function urlMatchesCurrentState(params) {
     return true;
 }
 
-function syncStateFromUrl(isInitialLoad = false) {
+function syncStateFromUrl(isInitialLoad = false, animate = false) {
     const params = new URLSearchParams(window.location.search);
     
     // 1. 檢查是否有分享的考慮清單
@@ -2118,12 +2154,12 @@ function syncStateFromUrl(isInitialLoad = false) {
         if (res) {
             state.selectedRestaurant = res;
             renderDetailContent(res);
-            switchView('detail');
+            switchView('detail', animate);
         } else {
-            switchView('home');
+            switchView('home', animate);
         }
     } else {
-        switchView('home');
+        switchView('home', animate);
     }
 }
 
