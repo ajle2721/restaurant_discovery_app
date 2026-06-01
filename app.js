@@ -1462,26 +1462,46 @@ function focusOnMap(e, placeId) {
     const res = restaurantData.find(r => r.place_id === placeId);
     const resultsView = document.getElementById('search-results-view');
     if (res && state.map && resultsView) {
-        // If marker doesn't exist, it might be in 'others' and hidden.
+        let needsReRender = false;
+        
+        // If it's a low quality marker and we are currently hiding them, toggle it off
+        const status = getDynamicStatus(res, state.filters);
+        const isLowQuality = (status.level === 'Insufficient Info' || status.level === 'Needs Attention');
+        
+        if (isLowQuality && state.hideLowQualityMarkers) {
+            state.hideLowQualityMarkers = false;
+            needsReRender = true;
+        }
+
+        // If marker doesn't exist in markerMap, it might be in 'others' or not rendered yet
         if (!state.markerMap[placeId]) {
             state.showOthers = true;
+            needsReRender = true;
+        }
+
+        if (needsReRender) {
             renderResults();
         }
 
+        // Pre-set popupOpen so moveend handler does not wipe popup
+        state.popupOpen = true;
+
+        // Offset the map center slightly North of the marker coordinate (res.latitude + 0.0008)
+        // and pass { animate: false } to allow instantaneous positioning
+        state.map.setView([res.latitude + 0.0008, res.longitude], 17, { animate: false });
+        
+        // Force refresh markers in the new viewport location to ensure the clicked marker is created
+        refreshMapMarkers();
+
         const marker = state.markerMap[placeId];
         if (marker) {
-            // Pre-set popupOpen so the moveend handler (fired by setView) does not
-            // wipe and redraw markers before openPopup() gets a chance to run.
-            state.popupOpen = true;
-            // Offset the map center slightly North of the marker coordinate (res.latitude + 0.0008)
-            // and pass { animate: false } to allow instantaneous positioning, which lets Leaflet's
-            // built-in autoPan calculate positions perfectly without viewport animation collisions.
-            state.map.setView([res.latitude + 0.0008, res.longitude], 17, { animate: false });
             marker.openPopup();
-            
-            // Directly and reliably scroll the viewport using scrollIntoView
-            resultsView.scrollIntoView({ behavior: 'smooth' });
+        } else {
+            state.popupOpen = false; // reset if marker failed to render
         }
+        
+        // Directly and reliably scroll the viewport using scrollIntoView
+        resultsView.scrollIntoView({ behavior: 'smooth' });
     }
 }
 
@@ -1843,6 +1863,19 @@ function refreshMapMarkers() {
 
     const usedCoords = new Map();
 
+    const prominenceRanks = new Map();
+    if (totalCount > 60) {
+        // Sort restaurants by prominence score: reviews * rating + rating
+        const sorted = [...state.mapRestaurants].sort((a, b) => {
+            const scoreA = (a.user_ratings_total || 0) * (parseFloat(a.rating) || 0) + (parseFloat(a.rating) || 0);
+            const scoreB = (b.user_ratings_total || 0) * (parseFloat(b.rating) || 0) + (parseFloat(b.rating) || 0);
+            return scoreB - scoreA;
+        });
+        sorted.forEach((res, index) => {
+            prominenceRanks.set(res.place_id, index);
+        });
+    }
+
     // 2. Filter mapRestaurants by zoom level and viewport bounds if count is large (> 60)
     const filteredRestaurants = state.mapRestaurants.filter(res => {
         if (!res.latitude || !res.longitude) return false;
@@ -1854,20 +1887,20 @@ function refreshMapMarkers() {
         // Apply global hideLowQualityMarkers toggle
         if (state.hideLowQualityMarkers && isLowQuality) return false;
 
-        // Progressive filtering logic based on zoom levels
+        // Progressive filtering logic based on zoom levels (Google Maps style - prominence-based)
         if (totalCount > 60) {
+            const rank = prominenceRanks.get(res.place_id);
             if (zoom <= 11) {
-                // Show only High level recommendations at very low zoom
-                return level === 'High';
+                // Show only top 15 most prominent matching restaurants
+                return rank < 15;
             } else if (zoom === 12) {
-                // Show High and Medium recommendations
-                return level === 'High' || level === 'Medium';
+                // Show top 30 most prominent matching restaurants
+                return rank < 30;
             } else if (zoom === 13) {
-                // Show High, Medium, and Low Match
-                return level === 'High' || level === 'Medium' || level === 'Low Match';
+                // Show top 60 most prominent matching restaurants
+                return rank < 60;
             } else if (zoom >= 14) {
                 // Show all categories, but ONLY if they are within current map viewport bounds
-                // This prevents cluttering by hiding pins that are off-screen
                 return mapBounds.contains([res.latitude, res.longitude]);
             }
         }
