@@ -1,0 +1,132 @@
+{
+  "id": "ChIJ2796tb6rQjQRZomiex08R2A",
+  "types": [
+    "brunch_restaurant",
+    "breakfast_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2766 6766",
+  "formattedAddress": "110台灣臺北市信義區新仁里忠孝東路四段559巷16弄17號",
+  "location": {
+    "latitude": 25.042463299999998,
+    "longitude": 121.5642637
+  },
+  "rating": 4.4,
+  "websiteUri": "https://lin.ee/zA4bOU0",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 3012,
+  "displayName": {
+    "text": "真芳碳烤吐司-信義創始店 台北早餐三明治",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ2796tb6rQjQRZomiex08R2A/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WZk5FTndSVmRuY0VKc1ptMXBSak0zVUZWVFkwRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "第一次來這邊吃，我覺得整體氛圍以及店員的態度還蠻不錯的。然而我自己覺得餐點的份量跟它的價格對不起來，像照片的豬肉蛋起司要75元，份量稍嫌不足；然後這大小的紅茶竟然要40元，可能CP值不夠高，但它的吐司是蠻不錯吃的，有個淡淡的碳烤味。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次來這邊吃，我覺得整體氛圍以及店員的態度還蠻不錯的。然而我自己覺得餐點的份量跟它的價格對不起來，像照片的豬肉蛋起司要75元，份量稍嫌不足；然後這大小的紅茶竟然要40元，可能CP值不夠高，但它的吐司是蠻不錯吃的，有個淡淡的碳烤味。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林澤勳",
+        "uri": "https://www.google.com/maps/contrib/111838130311272053075/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXt8wzbPNnumyEb3Ndtt0GSGyAqnMfVJRE3BF3zMx37cn63gknW=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-22T23:19:04.562863217Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WZk5FTndSVmRuY0VKc1ptMXBSak0zVUZWVFkwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WZk5FTndSVmRuY0VKc1ptMXBSak0zVUZWVFkwRRAB!2m1!1s0x3442abbeb57abfdb:0x60473c1d7ba28966"
+    },
+    {
+      "name": "places/ChIJ2796tb6rQjQRZomiex08R2A/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxemVHMWFNV1F5YWt0Q0xXd3pOelpKYWtZNVVrRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "用餐環境不錯\n但是下次再點\n肯定不會點真芳三明治\n本來是為了高麗菜絲而點\n但是後來卻發現還有薯泥\n澱粉太多了\n\n點豬肉蛋起司即可\n冷泡茶很小一杯\n不知道有何玄機\n\n有數位支付\n有載具",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "用餐環境不錯\n但是下次再點\n肯定不會點真芳三明治\n本來是為了高麗菜絲而點\n但是後來卻發現還有薯泥\n澱粉太多了\n\n點豬肉蛋起司即可\n冷泡茶很小一杯\n不知道有何玄機\n\n有數位支付\n有載具",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Saki",
+        "uri": "https://www.google.com/maps/contrib/109293260128056617383/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWOl2vaglUH0vjNjjuEZLUxFsBEIE2z635YXnWQok-lsh1-E5Irzg=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-02-23T16:38:59.549563494Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxemVHMWFNV1F5YWt0Q0xXd3pOelpKYWtZNVVrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxemVHMWFNV1F5YWt0Q0xXd3pOelpKYWtZNVVrRRAB!2m1!1s0x3442abbeb57abfdb:0x60473c1d7ba28966"
+    },
+    {
+      "name": "places/ChIJ2796tb6rQjQRZomiex08R2A/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xZdGMxRkdNelJQYWtGWWJscFlWRXB3UTJScVVGRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第一次帶女兒來真芳用餐，難怪一直是排隊名店—真的名不虛傳！\n\n🍞 招牌真芳三明治必點！\n我點了手打挾心豬肉排三明治，份量超扎實，豬排厚度剛剛好、咬下去多汁不柴，搭配手工蛋與高麗菜，整體味道平衡又飽足。雖然看起來份量大，但越吃越順口，一下就掃光。\n\n🍫 女兒最愛的巧克力花生吐司\n滿滿花生香再加上巧克力，好吃到她吃到一半還停不下來，一邊吃一邊笑，非常滿足。連我偷咬一口都覺得很可以！\n\n🥤 紅茶牛奶好喝到驚喜\n甜度剛好，是古早味紅茶加鮮奶的那種順口，跟三明治超搭。\n\n📸 氛圍很棒，親子來也很放鬆\n店內明亮溫馨，木質裝潢讓人坐著就覺得舒服。和女兒邊聊天邊吃早餐，是很幸福的時刻。\n\n👍 份量實在、價格合理、服務效率快\n就算人多，店員仍然保持親切、動作俐落。一份三明治真的會飽，CP 值很高。\n\n✔️ 總結：真芳果然是早餐界標竿\n好吃、乾淨、選項多，帶家人來完全不踩雷，下次還會再來試試其他口味！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次帶女兒來真芳用餐，難怪一直是排隊名店—真的名不虛傳！\n\n🍞 招牌真芳三明治必點！\n我點了手打挾心豬肉排三明治，份量超扎實，豬排厚度剛剛好、咬下去多汁不柴，搭配手工蛋與高麗菜，整體味道平衡又飽足。雖然看起來份量大，但越吃越順口，一下就掃光。\n\n🍫 女兒最愛的巧克力花生吐司\n滿滿花生香再加上巧克力，好吃到她吃到一半還停不下來，一邊吃一邊笑，非常滿足。連我偷咬一口都覺得很可以！\n\n🥤 紅茶牛奶好喝到驚喜\n甜度剛好，是古早味紅茶加鮮奶的那種順口，跟三明治超搭。\n\n📸 氛圍很棒，親子來也很放鬆\n店內明亮溫馨，木質裝潢讓人坐著就覺得舒服。和女兒邊聊天邊吃早餐，是很幸福的時刻。\n\n👍 份量實在、價格合理、服務效率快\n就算人多，店員仍然保持親切、動作俐落。一份三明治真的會飽，CP 值很高。\n\n✔️ 總結：真芳果然是早餐界標竿\n好吃、乾淨、選項多，帶家人來完全不踩雷，下次還會再來試試其他口味！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林韋志",
+        "uri": "https://www.google.com/maps/contrib/111791773024803388930/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUg5mpyzRjdR7zyH47yTIEQgD2LICRZzfqBrOUJ7Z8TVd-Cvyg-GA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-06T01:54:08.771361783Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xZdGMxRkdNelJQYWtGWWJscFlWRXB3UTJScVVGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xZdGMxRkdNelJQYWtGWWJscFlWRXB3UTJScVVGRRAB!2m1!1s0x3442abbeb57abfdb:0x60473c1d7ba28966"
+    },
+    {
+      "name": "places/ChIJ2796tb6rQjQRZomiex08R2A/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSU1ZGaEZNSFJ0ZDJOdVRuaEhkWGN3V2xoUldGRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "比比每次吃早餐，只要有真芳大概都會選擇真芳，主要是不會有鐵板麵濃烈的油味。比比也很喜歡她們家的花生花生或花生巧克力，當然花生花生是首選。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "比比每次吃早餐，只要有真芳大概都會選擇真芳，主要是不會有鐵板麵濃烈的油味。比比也很喜歡她們家的花生花生或花生巧克力，當然花生花生是首選。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "鼠比比",
+        "uri": "https://www.google.com/maps/contrib/103023870386877207742/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWlrAk0oNhBiLErC7u1OTkzVhzaHvvaLWY5s9utWvhnlwBl0wc=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-01-04T01:12:49.196630009Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSU1ZGaEZNSFJ0ZDJOdVRuaEhkWGN3V2xoUldGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSU1ZGaEZNSFJ0ZDJOdVRuaEhkWGN3V2xoUldGRRAB!2m1!1s0x3442abbeb57abfdb:0x60473c1d7ba28966"
+    },
+    {
+      "name": "places/ChIJ2796tb6rQjQRZomiex08R2A/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKTFVWaFdWV052VlRoV1JYVnVVR010WVhSZmFGRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "碳烤土司我覺得還不錯，但蛋餅是我們不喜歡的濕濕類型，但整體如果想吃吐司總匯類的話，我覺得是早餐的好選擇。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "碳烤土司我覺得還不錯，但蛋餅是我們不喜歡的濕濕類型，但整體如果想吃吐司總匯類的話，我覺得是早餐的好選擇。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "愛旅遊的泡麵",
+        "uri": "https://www.google.com/maps/contrib/114725464665456987413/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVXeAQEPL1CL2UfMgIR5Eq3C5y7JYkgFi6_dZ3Fs4IV0F3vAdI=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-03-02T04:00:11.307437532Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKTFVWaFdWV052VlRoV1JYVnVVR010WVhSZmFGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKTFVWaFdWV052VlRoV1JYVnVVR010WVhSZmFGRRAB!2m1!1s0x3442abbeb57abfdb:0x60473c1d7ba28966"
+    }
+  ]
+}

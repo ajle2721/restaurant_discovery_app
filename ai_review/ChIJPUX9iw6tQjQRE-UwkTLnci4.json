@@ -1,30 +1,53 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "公司尾牙訂了20人大桌包廂, 座位夠寬敞, 帶一間廁所, 整體空間感很舒適不擁擠。",
-        "confidence": 1.0
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "特別適合家庭聚會、商務宴客或慶生派對",
-        "confidence": 1.0
-    },
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "公司尾牙訂了20人大桌包廂, 座位夠寬敞, 帶一間廁所, 整體空間感很舒適不擁擠。"
-    ],
-    "generated_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。餐廳環境寬敞舒適，設有包廂。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Yes",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "公司尾牙訂了20人大桌包廂, 座位夠寬敞, 帶一間廁所, 整體空間感很舒適不擁擠。",
+                             "confidence":  1
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "特別適合家庭聚會、商務宴客或慶生派對",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Yes",
+                             "evidence":  "公司尾牙訂了20人大桌包廂, 座位夠寬敞, 帶一間廁所, 整體空間感很舒適不擁擠。500盤推薦, 雖然不是米其林, 飲食口味畢竟是主觀的, 我個人覺得合口味喜歡就好, 畢竟即使是米其林認證, 過於精緻的餐點, 往往也未必好吃。一開始的幾道前菜就令人感到合拍對味, 沒有華麗的烹調, 卻有著腳踏實地的風味, 容易咀嚼的口感, 食材之間互不搶味; 真心推薦果味黑醋肉, 肥瘦剛好, 肉肉帶著脆度, 黑醋完全不嗆鼻, 沒有骨頭, 可以安心一口吃。腸粉包的炸兩薄脆不扎上顎不咬舌頭, 沒有過多的醬汁, 吃得到腸粉的香味。燉花膠也是恰到好處的膠質感, 不黏嘴, 一咬就開; 重點菜色烤鴨, 這是我目前吃過的烤鴨中的榜首",
+                             "confidence":  0.9
+                         },
+    "has_tableware":  {
+                          "result":  "Yes",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，服務人員接待熱忱、服務態度良好。店內貼心備有兒童座椅與專用餐具。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "使用者回報與人工校正：漢來美食集團分店均有提供兒童安全椅",
+                              "公司尾牙訂了20人大桌包廂, 座位夠寬敞, 帶一間廁所, 整體空間感很舒適不擁擠",
+                              "系統自動識別：同時提供兒童椅與兒童餐具，通常為親子友善且不怕吵之用餐環境",
+                              "使用者回報與人工校正：漢來美食集團分店均貼心提供兒童專用餐具"
+                          ],
+    "parent_friendly_score":  5,
+    "parent_friendly_level":  "高",
+    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
 }

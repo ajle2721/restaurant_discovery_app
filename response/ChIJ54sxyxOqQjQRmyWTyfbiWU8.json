@@ -1,0 +1,131 @@
+{
+  "id": "ChIJ54sxyxOqQjQRmyWTyfbiWU8",
+  "types": [
+    "pizza_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2932 4988",
+  "formattedAddress": "9號, 興隆路三段36巷17弄興得里文山區臺北市台灣 116",
+  "location": {
+    "latitude": 24.9995938,
+    "longitude": 121.55543150000001
+  },
+  "rating": 4.4,
+  "websiteUri": "https://hemusih.com/casa-coffee-pizza/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 593,
+  "displayName": {
+    "text": "CASA咖薩 咖啡披薩手作坊",
+    "languageCode": "ja"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ54sxyxOqQjQRmyWTyfbiWU8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t3eGEzUlVaVEZaVVdOS1JrNWFWelJZVFZsVGNsRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "今天在文山區的 CASA 披薩咖啡吃到一份讓人愉悅到的套餐。你知道，有些店不是靠華麗取勝，而是靠一種「我沒有要欺負你的荷包」的誠意。這裡的披薩是現場手作、現場窯烤，像有人在你面前慢慢把心意鋪上去的那種感覺。咖哩雞飯和咖哩牛肉飯也很不敷衍，醬汁像是花了時間跟你對話，溫柔地把味道推向舌尖。\n\n最讓我意外的，可能是在學校旁的關係，是整套吃下來，價非常友善。你會有一種被世界短暫善待的錯覺，原來美味跟可以不用付出巨大代價。走出店門時，我甚至覺得這餐不只填飽胃，也讓今天變得比較美好。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天在文山區的 CASA 披薩咖啡吃到一份讓人愉悅到的套餐。你知道，有些店不是靠華麗取勝，而是靠一種「我沒有要欺負你的荷包」的誠意。這裡的披薩是現場手作、現場窯烤，像有人在你面前慢慢把心意鋪上去的那種感覺。咖哩雞飯和咖哩牛肉飯也很不敷衍，醬汁像是花了時間跟你對話，溫柔地把味道推向舌尖。\n\n最讓我意外的，可能是在學校旁的關係，是整套吃下來，價非常友善。你會有一種被世界短暫善待的錯覺，原來美味跟可以不用付出巨大代價。走出店門時，我甚至覺得這餐不只填飽胃，也讓今天變得比較美好。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Terry Chiang",
+        "uri": "https://www.google.com/maps/contrib/109053335007001422325/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXqxy9H39m4-eG6MRflJY-R9Fs3NrkjWTGuo5fXBD7h0bcx_3PVfQ=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-11-24T01:21:44.988917839Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t3eGEzUlVaVEZaVVdOS1JrNWFWelJZVFZsVGNsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t3eGEzUlVaVEZaVVdOS1JrNWFWelJZVFZsVGNsRRAB!2m1!1s0x3442aa13cb318be7:0x4f59e2f6c993259b"
+    },
+    {
+      "name": "places/ChIJ54sxyxOqQjQRmyWTyfbiWU8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GWVVYbHBkVkp0TWxWYWVFMTNNMFJaVFZwaE1uYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "那天經過門口，店員親切地招呼，就想說進來嚐嚐鮮。\n一走進店裡就覺得環境很舒服，讓人放鬆。\n餐點選擇很多元，我們特地點了比較少見的披薩。\n\n結果超驚艷！薄皮口感剛剛好，真的很好吃，會想再回訪🍕✨",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "那天經過門口，店員親切地招呼，就想說進來嚐嚐鮮。\n一走進店裡就覺得環境很舒服，讓人放鬆。\n餐點選擇很多元，我們特地點了比較少見的披薩。\n\n結果超驚艷！薄皮口感剛剛好，真的很好吃，會想再回訪🍕✨",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "李韻如",
+        "uri": "https://www.google.com/maps/contrib/106848610292103245039/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXijDnju9NYJvNimmkVKJTG-DRL6bYUOR4d_plawSswBD4384Q=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-15T06:13:50.682014662Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GWVVYbHBkVkp0TWxWYWVFMTNNMFJaVFZwaE1uYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GWVVYbHBkVkp0TWxWYWVFMTNNMFJaVFZwaE1uYxAB!2m1!1s0x3442aa13cb318be7:0x4f59e2f6c993259b"
+    },
+    {
+      "name": "places/ChIJ54sxyxOqQjQRmyWTyfbiWU8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CQk4yVnhSa0ZNT0doRFZVNXZNamh6YTJVM2QzYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "常常來吃他們家比薩～\n皮很Q彈！蠻好吃的❤️\n\n義大利麵也很不錯～\n焗烤起司稍微鹹一點🥹\n\n最近有萬聖節的佈置很用心👍🏻",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "常常來吃他們家比薩～\n皮很Q彈！蠻好吃的❤️\n\n義大利麵也很不錯～\n焗烤起司稍微鹹一點🥹\n\n最近有萬聖節的佈置很用心👍🏻",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "小蘋果",
+        "uri": "https://www.google.com/maps/contrib/114562905299081861012/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU4ADwLvR5rHIvEi-KVgVdRNlThsRel_hsmisLOHJMDiOA3Vajv=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-22T12:32:40.999955031Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CQk4yVnhSa0ZNT0doRFZVNXZNamh6YTJVM2QzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CQk4yVnhSa0ZNT0doRFZVNXZNamh6YTJVM2QzYxAB!2m1!1s0x3442aa13cb318be7:0x4f59e2f6c993259b"
+    },
+    {
+      "name": "places/ChIJ54sxyxOqQjQRmyWTyfbiWU8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pRMVNHWnZhVTkzVWt0aE5rRlhVeTExTVRneU4zYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "好吃，披薩和麵都好吃，麵類特別推薦蒜辣味道的麵，披薩都是手工窯烤的，店裡還有提供各式醬料供顧客使用，很有誠意的有免費的起司粉，我第一次遇到這麼有誠意的店家，上餐的速度也很快，非常推薦",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "好吃，披薩和麵都好吃，麵類特別推薦蒜辣味道的麵，披薩都是手工窯烤的，店裡還有提供各式醬料供顧客使用，很有誠意的有免費的起司粉，我第一次遇到這麼有誠意的店家，上餐的速度也很快，非常推薦",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Alisa Tsai",
+        "uri": "https://www.google.com/maps/contrib/107490310030037699913/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJGqjuSlUm0I0nrEafCybiV5_GE6FHVxAG8OS2QHpTVJX39nWAp=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-03T11:12:05.607268595Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pRMVNHWnZhVTkzVWt0aE5rRlhVeTExTVRneU4zYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pRMVNHWnZhVTkzVWt0aE5rRlhVeTExTVRneU4zYxAB!2m1!1s0x3442aa13cb318be7:0x4f59e2f6c993259b"
+    },
+    {
+      "name": "places/ChIJ54sxyxOqQjQRmyWTyfbiWU8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WdlQydzNjR1oxU3pkdUxVcFhRVWhzU3paMWJtYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "Pizza很好吃，但是我覺得風扇可以不用一直開著，風力太強，菜很快冷掉，發票紙類常常吹落一地，直吹也很不舒服，而且特別有開冷氣時通常覺得多餘，客人有特別說再開，也可以順便省電。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "Pizza很好吃，但是我覺得風扇可以不用一直開著，風力太強，菜很快冷掉，發票紙類常常吹落一地，直吹也很不舒服，而且特別有開冷氣時通常覺得多餘，客人有特別說再開，也可以順便省電。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yamamoto Ishi",
+        "uri": "https://www.google.com/maps/contrib/110921821591888650271/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLpjfSswRS12gzwZc70DuuqQGX6YR5NWl8-Cx_WkJf6YERB=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-17T10:07:28.750818985Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WdlQydzNjR1oxU3pkdUxVcFhRVWhzU3paMWJtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WdlQydzNjR1oxU3pkdUxVcFhRVWhzU3paMWJtYxAB!2m1!1s0x3442aa13cb318be7:0x4f59e2f6c993259b"
+    }
+  ]
+}

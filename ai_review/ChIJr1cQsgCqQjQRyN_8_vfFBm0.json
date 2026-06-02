@@ -1,31 +1,50 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "裡面比我想像的大很多，很像一間澳門城堡的外型",
-        "confidence": 1.0
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "店內座位多、翻桌快，雖然人多時會稍微吵雜，但整體用餐上仍然舒適。",
-        "confidence": 1.0
-    },
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "裡面比我想像的大很多，很像一間澳門城堡的外型",
-        "店內座位多、翻桌快，雖然人多時會稍微吵雜，但整體用餐上仍然舒適。"
-    ],
-    "generated_summary": "該餐廳空間寬敞且環境較為熱鬧，對於攜帶兒童用餐的家庭來說相對自在，但目前評論中未提及兒童椅或兒童餐點資訊。",
-    "card_summary": "空間寬敞且環境較為熱鬧。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  "裡面比我想像的大很多，很像一間澳門城堡的外型",
+                             "confidence":  1
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "店內座位多、翻桌快，雖然人多時會稍微吵雜，但整體用餐上仍然舒適。",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。氣氛輕鬆親子友善，適合帶孩子前來用餐。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "雖然人多時會稍微吵雜"
+                          ],
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "中",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

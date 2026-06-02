@@ -1,0 +1,130 @@
+{
+  "id": "ChIJ0T8kdeyvQjQRP_fYUl6rVVg",
+  "types": [
+    "food_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 900 029 038",
+  "formattedAddress": "11163台灣臺北市士林區福德里文林路316號1樓",
+  "location": {
+    "latitude": 25.092242,
+    "longitude": 121.526179
+  },
+  "rating": 4.4,
+  "websiteUri": "https://www.facebook.com/p/%E6%9D%B1%E4%BA%AC%E5%AE%B6%E5%BA%AD%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5-%E5%A0%BA%E4%BA%BA%E9%A4%90%E9%A3%B2-61556499227446/?locale=zh_TW",
+  "userRatingCount": 89,
+  "displayName": {
+    "text": "東京家庭義大利麵 士林",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ0T8kdeyvQjQRP_fYUl6rVVg/reviews/Ci9DQUlRQUNvZENodHljRjlvT201VmMzZDZTMU5ZVkhsYU5XMHdNMDAzTFhBdFluYxAB",
+      "relativePublishTimeDescription": "本週",
+      "rating": 5,
+      "text": {
+        "text": "店內空間寬敞舒適，很適合和朋友一起聊天聚餐～店員也很親切！候位不會等待很久🥹\n這次點的肉醬義大利麵非常好吃，醬汁濃郁、屬於重口味系很夠味！再搭配奶油玉米濃湯，整體吃起來很有滿足感\n份量也很充足，吃完整個超有飽足感，是會想再回訪的一餐🫶💗",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店內空間寬敞舒適，很適合和朋友一起聊天聚餐～店員也很親切！候位不會等待很久🥹\n這次點的肉醬義大利麵非常好吃，醬汁濃郁、屬於重口味系很夠味！再搭配奶油玉米濃湯，整體吃起來很有滿足感\n份量也很充足，吃完整個超有飽足感，是會想再回訪的一餐🫶💗",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "吳詠蓁 Hannah",
+        "uri": "https://www.google.com/maps/contrib/110494928923612209590/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWiLip0rGCVJAFghQmvBckji2KbSnUcaMpdI_FuGCAyOLVxgJGv=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-05-24T13:47:30.509105060Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201VmMzZDZTMU5ZVkhsYU5XMHdNMDAzTFhBdFluYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201VmMzZDZTMU5ZVkhsYU5XMHdNMDAzTFhBdFluYxAB!2m1!1s0x3442afec75243fd1:0x5855ab5e52d8f73f"
+    },
+    {
+      "name": "places/ChIJ0T8kdeyvQjQRP_fYUl6rVVg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoSlpUZ3lOMEpmVUhGNlFYUmtWVlZsTUVJNFkyYxAB",
+      "relativePublishTimeDescription": "本週",
+      "rating": 5,
+      "text": {
+        "text": "店員介紹詳細，店內乾淨，餐點好吃，屬於濃厚口味，主餐、麵包、湯都好吃，只是可惜沒有套餐選項，希望能有套餐優惠。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店員介紹詳細，店內乾淨，餐點好吃，屬於濃厚口味，主餐、麵包、湯都好吃，只是可惜沒有套餐選項，希望能有套餐優惠。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yuyu",
+        "uri": "https://www.google.com/maps/contrib/100729336346301473708/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVM5TY49IDplR99CuGR7HoHUvSqxIQiVSeed5voQPPpbwFTMNzRpA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-05-24T10:26:09.660875343Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoSlpUZ3lOMEpmVUhGNlFYUmtWVlZsTUVJNFkyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoSlpUZ3lOMEpmVUhGNlFYUmtWVlZsTUVJNFkyYxAB!2m1!1s0x3442afec75243fd1:0x5855ab5e52d8f73f"
+    },
+    {
+      "name": "places/ChIJ0T8kdeyvQjQRP_fYUl6rVVg/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xcVgzUnVXWEY2UTBOQ2VqWlZjbTAwUzJGalMxRRAB",
+      "relativePublishTimeDescription": "本週",
+      "rating": 4,
+      "text": {
+        "text": "不錯吃，但是感覺跟東京沒什麼關聯，口味蠻台式的感覺",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "不錯吃，但是感覺跟東京沒什麼關聯，口味蠻台式的感覺",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Krystal Chen",
+        "uri": "https://www.google.com/maps/contrib/104855877455916668878/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWo7K92uuUCePX3hyuwdgJi4047UujLK34i2ucSPuVBg9CTcz8R=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-05-23T13:51:08.708940238Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xcVgzUnVXWEY2UTBOQ2VqWlZjbTAwUzJGalMxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xcVgzUnVXWEY2UTBOQ2VqWlZjbTAwUzJGalMxRRAB!2m1!1s0x3442afec75243fd1:0x5855ab5e52d8f73f"
+    },
+    {
+      "name": "places/ChIJ0T8kdeyvQjQRP_fYUl6rVVg/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WRFUwOXVRbWRQZDNSVWFtTjJOVmx6UVZwR1prRRAB",
+      "relativePublishTimeDescription": "本週",
+      "rating": 5,
+      "text": {
+        "text": "對女生來說很剛好的份量，試營運期間沒有紅茶，還會解釋義大利麵特點，提拉米蘇真的必點，整體來說很棒！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "對女生來說很剛好的份量，試營運期間沒有紅茶，還會解釋義大利麵特點，提拉米蘇真的必點，整體來說很棒！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "珮瑜 ღ ᰔ K.",
+        "uri": "https://www.google.com/maps/contrib/100888223694635439492/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW28KXvK14AiL8itgMzIPiUTV-H9RXRpJe1hr1BrlUseLSCD6YEgA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-05-23T10:33:59.458085839Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WRFUwOXVRbWRQZDNSVWFtTjJOVmx6UVZwR1prRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WRFUwOXVRbWRQZDNSVWFtTjJOVmx6UVZwR1prRRAB!2m1!1s0x3442afec75243fd1:0x5855ab5e52d8f73f"
+    },
+    {
+      "name": "places/ChIJ0T8kdeyvQjQRP_fYUl6rVVg/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OdVRuZHBkV3BUUzJaSFduVlphMUZ6VjBsMUxXYxAB",
+      "relativePublishTimeDescription": "本週",
+      "rating": 4,
+      "text": {
+        "text": "味道不錯，確實是濃郁系，但可不可以再留一點汁....麵乾太快了！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "味道不錯，確實是濃郁系，但可不可以再留一點汁....麵乾太快了！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jeremy B",
+        "uri": "https://www.google.com/maps/contrib/104198332088274732871/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI1GkqNy-6RlXjC-oBVhqcak7PbABWGZSaCZnlqCaXrNBw3Qg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-05-20T10:08:36.401816120Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OdVRuZHBkV3BUUzJaSFduVlphMUZ6VjBsMUxXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OdVRuZHBkV3BUUzJaSFduVlphMUZ6VjBsMUxXYxAB!2m1!1s0x3442afec75243fd1:0x5855ab5e52d8f73f"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "No",
+                             "evidence":  "座位算多但是規劃上稍嫌擁擠的溫馨小店",
+                             "confidence":  0.8
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "No",
+                               "evidence":  "大家聊天也都安安靜靜的氣氛很好",
+                               "confidence":  0.8
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，餐點與整體服務品質獲得顧客良好回饋。座位較擁擠且環境偏安靜，適合帶孩子前來用餐。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "座位算多但是規劃上稍嫌擁擠的溫馨小店",
+                              "大家聊天也都安安靜靜的氣氛很好"
+                          ],
+    "parent_friendly_score":  -2,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+}

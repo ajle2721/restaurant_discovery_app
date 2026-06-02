@@ -1,34 +1,56 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "3樓較寬敞，採光很美，走時尚網美裝潢，鮮明活潑的黃色搭配白黑色系，角落還有網美牆浴缸球池，多款表情便便抱枕滿逗趣",
-        "confidence": 1.0
-    },
-    "Kids menu available": {
-        "result": "Yes",
-        "evidence": "1.店內雖像親子餐廳卻沒有提供兒童餐具",
-        "confidence": 1.0
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "也滿適合親子的唷，小孩很愛2樓及3樓的球池區，玩到不想走😆",
-        "confidence": 1.0
-    },
-    "parent_friendly_score": 3,
-    "parent_friendly_level": "高",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "也滿適合親子的唷，小孩很愛2樓及3樓的球池區，玩到不想走😆",
-        "3樓較寬敞，採光很美，走時尚網美裝潢，鮮明活潑的黃色搭配白黑色系，角落還有網美牆浴缸球池，多款表情便便抱枕滿逗趣",
-        "有一個球池供小朋友玩耍，裡面還有放很多泳圈，餐廳裡的小孩們都玩得很開心捨不得走",
-        "適合帶小朋友來拍照嚐鮮，食物調理包的感覺很重，嘗鮮的聚會拍照餐廳，2樓有小小的兒童遊戲池。",
-        "店內雖像親子餐廳卻沒有提供兒童餐具,小朋友只能給個咖啡用湯匙😔"
-    ],
-    "generated_summary": "餐廳設有球池供小朋友玩耍，環境對親子友善且空間寬敞，但評論提到未提供兒童餐具，建議家長可自行準備。",
-    "card_summary": "餐廳設有球池供小朋友玩耍。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Yes",
+                                  "evidence":  "系統自動識別：官方登記或評論提及為親子主題餐廳，提供兒童椅",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "3樓較寬敞，採光很美，走時尚網美裝潢，鮮明活潑的黃色搭配白黑色系，角落還有網美牆浴缸球池，多款表情便便抱枕滿逗趣",
+                             "confidence":  1
+                         },
+    "Kids menu available":  {
+                                "result":  "Yes",
+                                "evidence":  "1.店內雖像親子餐廳卻沒有提供兒童餐具",
+                                "confidence":  1
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "也滿適合親子的唷，小孩很愛2樓及3樓的球池區，玩到不想走😆",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Yes",
+                          "evidence":  "小孩在球池玩得不亦樂乎",
+                          "confidence":  0.9
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Yes",
+                          "evidence":  "1.店內雖像親子餐廳卻沒有提供兒童餐具",
+                          "confidence":  0.9
+                      },
+    "has_diaper_table":  {
+                             "result":  "Yes",
+                             "evidence":  "系統自動識別：親子主題餐廳必備尿布台",
+                             "confidence":  1
+                         },
+    "generated_summary":  "根據評論分析，手作麵包與特色輕食風味獲得顧客好評。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點，設有遊戲區讓孩子放電，店內設有尿布台或哺乳室。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "3樓較寬敞",
+                              "Google 官方登記提供兒童餐點",
+                              "Google 官方登記適合兒童用餐",
+                              "小孩在球池玩得不亦樂乎",
+                              "1.店內雖像親子餐廳卻沒有提供兒童餐具,小朋友只能給個咖啡用湯匙😔",
+                              "系統自動識別：官方登記或評論提及為親子主題餐廳，提供兒童椅",
+                              "系統自動識別：親子主題餐廳必備尿布台"
+                          ],
+    "parent_friendly_score":  9,
+    "parent_friendly_level":  "高",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

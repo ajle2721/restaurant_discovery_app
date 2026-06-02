@@ -1,0 +1,55 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "Yes",
+                                  "evidence":  "系統自動識別：官方登記或評論提及為親子主題餐廳，提供兒童椅",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "Kids menu available":  {
+                                "result":  "Yes",
+                                "evidence":  "Google 官方登記提供兒童餐點",
+                                "confidence":  1
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "Google 官方登記適合兒童用餐",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Yes",
+                          "evidence":  "牆上有影像能夠看到小孩在球池玩",
+                          "confidence":  0.9
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Yes",
+                          "evidence":  "這碗的大小就是家用的一個小碗",
+                          "confidence":  0.9
+                      },
+    "has_diaper_table":  {
+                             "result":  "Yes",
+                             "evidence":  "系統自動識別：親子主題餐廳必備尿布台",
+                             "confidence":  1
+                         },
+    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點，設有遊戲區讓孩子放電，店內設有尿布台或哺乳室。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "Google 官方登記提供兒童餐點",
+                              "Google 官方登記適合兒童用餐",
+                              "牆上有影像能夠看到小孩在球池玩",
+                              "系統自動識別：官方登記或評論提及為親子主題餐廳，提供兒童椅",
+                              "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+                              "系統自動識別：親子主題餐廳必備尿布台"
+                          ],
+    "parent_friendly_score":  8,
+    "parent_friendly_level":  "高",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+}

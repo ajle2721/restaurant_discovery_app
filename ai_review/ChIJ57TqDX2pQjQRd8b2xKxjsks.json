@@ -1,0 +1,52 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "Yes",
+                                  "evidence":  "座位形式多樣（高腳椅、大長桌、階梯座席、沙發區）",
+                                  "confidence":  0.8
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "• 空間寬敞多元： 挑高設計減少壓迫感",
+                             "confidence":  0.8
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "外面一般座位就會比較吵雜",
+                               "confidence":  0.8
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Yes",
+                             "evidence":  "開會時覺得包廂比較適合。(💯餐點可以抵包廂費用)",
+                             "confidence":  0.9
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，精緻的早午餐拼盤深受顧客喜愛。店內貼心備有兒童座椅。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "座位形式多樣（高腳椅、大長桌、階梯座席、沙發區）",
+                              "• 空間寬敞多元： 挑高設計減少壓迫感",
+                              "外面一般座位就會比較吵雜"
+                          ],
+    "parent_friendly_score":  4,
+    "parent_friendly_level":  "高",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+}

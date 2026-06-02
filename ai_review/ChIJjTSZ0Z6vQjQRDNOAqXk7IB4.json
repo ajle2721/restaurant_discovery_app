@@ -1,31 +1,50 @@
-{
-    " child_seat available": {
-        "result": "Yes",
-        "evidence": "很不錯的地方，兒童座椅空間也不會影響到別桌。",
-        "confidence": 1.0
-    },
-    "Spacious seating": {
-        "result": "No",
-        "evidence": "桌距比較近。",
-        "confidence": 1.0
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "很不錯的地方，兒童座椅空間也不會影響到別桌。",
-        "桌距比較近。"
-    ],
-    "generated_summary": "餐廳提供兒童座椅，但店內桌距較近，空間感較為擁擠。",
-    "card_summary": "設有兒童椅，但空間較擁擠，前往時需多加留意。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Yes",
+                                  "evidence":  "很不錯的地方，兒童座椅空間也不會影響到別桌。",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  "桌距比較近。",
+                             "confidence":  1
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Unknown",
+                               "evidence":  null,
+                               "confidence":  0.4
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。店內貼心備有兒童座椅。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "兒童座椅空間也不會影響到別桌"
+                          ],
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "中",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

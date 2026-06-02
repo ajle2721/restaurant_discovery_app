@@ -1,0 +1,130 @@
+{
+  "id": "ChIJCQRu0QaqQjQRI3j4lpYZdbQ",
+  "types": [
+    "italian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2930 6518",
+  "formattedAddress": "116台灣臺北市文山區景行里景興路202巷8號",
+  "location": {
+    "latitude": 24.9920027,
+    "longitude": 121.54331140000001
+  },
+  "rating": 4,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 475,
+  "displayName": {
+    "text": "義蘿蒂義大利麵",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJCQRu0QaqQjQRI3j4lpYZdbQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxelQyVlBRemRGWmxaMU4waENhak5oTlZSc2NGRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "2026/03\n單食物是3顆星，松子青醬雞肉$150+香菇、綠花椰$25份量不小的台式義大利麵，麵偏軟醬汁偏多。不過感覺就是家裡樓下廚房的感覺，老闆娘跟多數客人都認識的感覺也很親切招呼。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2026/03\n單食物是3顆星，松子青醬雞肉$150+香菇、綠花椰$25份量不小的台式義大利麵，麵偏軟醬汁偏多。不過感覺就是家裡樓下廚房的感覺，老闆娘跟多數客人都認識的感覺也很親切招呼。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Vicky Chen",
+        "uri": "https://www.google.com/maps/contrib/118119192909184833718/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVoaXc7_Vmd_V4UKrSYMgKF_xJf-OpfsDyBbcn3JQGNb--u5XjWSA=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-03-05T04:10:22.979834429Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxelQyVlBRemRGWmxaMU4waENhak5oTlZSc2NGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxelQyVlBRemRGWmxaMU4waENhak5oTlZSc2NGRRAB!2m1!1s0x3442aa06d16e0409:0xb475199696f87823"
+    },
+    {
+      "name": "places/ChIJCQRu0QaqQjQRI3j4lpYZdbQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xamJVbEJjWE14YW5ocFpuRllVV1ZSTjE5aFgzYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "價格便宜又實惠\n點xo醬清炒雞肉義大利麵\n\n微辣清爽好吃\n唯一小小不足的可能只夠一個女生吃\n食量大的人可能要加麵",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "價格便宜又實惠\n點xo醬清炒雞肉義大利麵\n\n微辣清爽好吃\n唯一小小不足的可能只夠一個女生吃\n食量大的人可能要加麵",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "一八六",
+        "uri": "https://www.google.com/maps/contrib/105166577263193108796/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXGPfUiJT_4Uxq-08cl53dmSrEYvHy9UU7_X6bRlQfeP1UScEqFrA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-03-07T04:34:35.113978471Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xamJVbEJjWE14YW5ocFpuRllVV1ZSTjE5aFgzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xamJVbEJjWE14YW5ocFpuRllVV1ZSTjE5aFgzYxAB!2m1!1s0x3442aa06d16e0409:0xb475199696f87823"
+    },
+    {
+      "name": "places/ChIJCQRu0QaqQjQRI3j4lpYZdbQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWaWFFSnNVRGwwWWxOblIyUjZZV2x3ZUZwaldIYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "假日中午到此處用餐，店裡大概有有7-8成已坐滿。\n櫃檯的外送平板一直傳出有單的聲響，生意感覺很不錯。\n因為帶著兩個孩子，其中一個身高大約100公分，需要兒童座椅。放眼望去餐廳裡只有一張兒童椅，這個部分覺得有點可惜。（因為很多家庭來用餐。）\n餐點可以選擇的品項五花八門，甚至還有涼拌小黃瓜可以選擇，價格也都非常平易近人。如果需要的話，餐點可以加菜加菇，也可以加飯加麵。\n餐點的口味上，雖然不是想像中「義大利麵」該有的味道和樣子，但我自己覺得很有「家」的味道。就好像媽媽在廚房喊說：「吃飯了～」，洗完手坐到餐桌前會吃到的味道😌\n店裡有紅茶跟水可以無限暢飲，也可以花50元點鮮奶茶，鮮奶茶裡有一個紅茶包，奶味明顯，甜度大概是半糖到少糖之間，味道相當不錯～\n我覺得小可惜的是沒有供應炸物類的小點心，但以「家庭式」料理而言，我想也已經可以滿足期待了👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "假日中午到此處用餐，店裡大概有有7-8成已坐滿。\n櫃檯的外送平板一直傳出有單的聲響，生意感覺很不錯。\n因為帶著兩個孩子，其中一個身高大約100公分，需要兒童座椅。放眼望去餐廳裡只有一張兒童椅，這個部分覺得有點可惜。（因為很多家庭來用餐。）\n餐點可以選擇的品項五花八門，甚至還有涼拌小黃瓜可以選擇，價格也都非常平易近人。如果需要的話，餐點可以加菜加菇，也可以加飯加麵。\n餐點的口味上，雖然不是想像中「義大利麵」該有的味道和樣子，但我自己覺得很有「家」的味道。就好像媽媽在廚房喊說：「吃飯了～」，洗完手坐到餐桌前會吃到的味道😌\n店裡有紅茶跟水可以無限暢飲，也可以花50元點鮮奶茶，鮮奶茶裡有一個紅茶包，奶味明顯，甜度大概是半糖到少糖之間，味道相當不錯～\n我覺得小可惜的是沒有供應炸物類的小點心，但以「家庭式」料理而言，我想也已經可以滿足期待了👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Joy Hsu",
+        "uri": "https://www.google.com/maps/contrib/108336599008211215770/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKEf5xVg05arNLGBGqkjbairbxQfvjORBB9MKMLpkfrR7PlD_I=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-09-01T07:22:04.286677679Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWaWFFSnNVRGwwWWxOblIyUjZZV2x3ZUZwaldIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWaWFFSnNVRGwwWWxOblIyUjZZV2x3ZUZwaldIYxAB!2m1!1s0x3442aa06d16e0409:0xb475199696f87823"
+    },
+    {
+      "name": "places/ChIJCQRu0QaqQjQRI3j4lpYZdbQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGelpIbDJXVGMxTWpFeFNVMUtXVWR3YkhCWlIyYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "點了清炒 《卡非雞肉》義大利麵 加麵130\n一點都不辣 好吃平價 還有附紅茶\n特好吃 感覺還可以再叫一碗的\n現金付款先 寫好單子到櫃檯結帳",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點了清炒 《卡非雞肉》義大利麵 加麵130\n一點都不辣 好吃平價 還有附紅茶\n特好吃 感覺還可以再叫一碗的\n現金付款先 寫好單子到櫃檯結帳",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "歐陽亞倫",
+        "uri": "https://www.google.com/maps/contrib/101007491566910467668/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKapbvBZ1UgrpteBXMrSVgtupChlek-AaVBJKFtOhXq8lVRtw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-05T12:05:56.452411395Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGelpIbDJXVGMxTWpFeFNVMUtXVWR3YkhCWlIyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGelpIbDJXVGMxTWpFeFNVMUtXVWR3YkhCWlIyYxAB!2m1!1s0x3442aa06d16e0409:0xb475199696f87823"
+    },
+    {
+      "name": "places/ChIJCQRu0QaqQjQRI3j4lpYZdbQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGNVpuQm5kRVJpTWxCbFdtdFRRWFJmU0hCUE9GRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "景美附近的義大利麵店🍝\n價格合理 環境也合理\n有飲料可以喝☕️\n清炒類的蒜片有著熟悉的香氣🧄\n下次會試試看其他餐點🥘",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "景美附近的義大利麵店🍝\n價格合理 環境也合理\n有飲料可以喝☕️\n清炒類的蒜片有著熟悉的香氣🧄\n下次會試試看其他餐點🥘",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "侯阿丁",
+        "uri": "https://www.google.com/maps/contrib/116220231144774763668/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI0U5KQo46aChAcLHoyEccHrH7PQzzFaEZ0Dpt1G44ur297TFg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-29T03:50:48.032423170Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGNVpuQm5kRVJpTWxCbFdtdFRRWFJmU0hCUE9GRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGNVpuQm5kRVJpTWxCbFdtdFRRWFJmU0hCUE9GRRAB!2m1!1s0x3442aa06d16e0409:0xb475199696f87823"
+    }
+  ]
+}

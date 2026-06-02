@@ -1,31 +1,51 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "空間寬敞，桌椅高度很適合久坐，插頭充足，而且座位間距離很寬裕。",
-        "confidence": 1.0
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "地點位在熱鬧的吳興街巷內",
-        "confidence": 1.0
-    },
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "空間寬敞，桌椅高度很適合久坐，插頭充足，而且座位間距離很寬裕。",
-        "座位很多，一樓與地下室兩層不怕沒位置，且座位之間間隔很開舒適不壅擠。"
-    ],
-    "generated_summary": "該店空間寬敞且座位間距舒適，但目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "該店空間寬敞且座位間距舒適。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "空間寬敞，桌椅高度很適合久坐，插頭充足，而且座位間距離很寬裕。",
+                             "confidence":  1
+                         },
+    "Kids menu available":  {
+                                "result":  "No",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "地點位在熱鬧的吳興街巷內",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，特調咖啡與各式飲品口感精緻。空間寬敞舒適，氣氛熱鬧親子友善，適合帶孩子前來用餐。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "空間寬敞",
+                              "地點位在熱鬧的吳興街巷內"
+                          ],
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "中",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

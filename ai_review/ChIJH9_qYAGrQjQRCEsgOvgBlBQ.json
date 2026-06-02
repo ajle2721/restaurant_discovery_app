@@ -1,0 +1,50 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "（然後再次感謝店員幫我們拍照 還因為燈光比較暗給我們會發亮的造型檯燈🥺 也容許我們吵吵鬧鬧了很久\u003e",
+                               "confidence":  0.8
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Yes",
+                             "evidence":  "大概開兩年的店，價格算平價，二樓可以包場只需要低消4000，住在景美40年了，看Google評論過來",
+                             "confidence":  0.9
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。氣氛輕鬆親子友善，適合帶孩子前來用餐。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "（然後再次感謝店員幫我們拍照 還因為燈光比較暗給我們會發亮的造型檯燈🥺 也容許我們吵吵鬧鬧了很久\u003e"
+                          ],
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "中",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+}

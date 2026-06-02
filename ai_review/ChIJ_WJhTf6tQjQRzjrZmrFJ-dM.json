@@ -1,31 +1,50 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "高挑明亮寬敞舒適的用餐環境，看著菜單都讓人垂涎三尺。",
-        "confidence": 1.0
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "高挑明亮寬敞舒適的用餐環境，看著菜單都讓人垂涎三尺。",
-        "窗邊的位置很明亮，空間寬敞"
-    ],
-    "generated_summary": "餐廳環境寬敞舒適，但目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  "使用者回報與人工校正：有提供兒童椅",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "高挑明亮寬敞舒適的用餐環境，看著菜單都讓人垂涎三尺。",
+                             "confidence":  1
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Unknown",
+                               "evidence":  "系統自動識別：同時提供兒童椅與兒童餐具，通常為親子友善且不怕吵之用餐環境",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  "使用者回報與人工校正：有提供兒童餐具",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  "系統自動識別與人工校正：分店位於百貨商場內，可直接使用百貨的育嬰室與尿布台",
+                             "confidence":  1
+                         },
+    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。空間寬敞舒適，適合帶孩子前來用餐。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "高挑明亮寬敞舒適的用餐環境"
+                          ],
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "中",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

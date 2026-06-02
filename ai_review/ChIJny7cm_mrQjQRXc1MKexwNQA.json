@@ -1,31 +1,50 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "空間寬敞、座位舒適、氛圍拉滿、菜式豐富、是味覺加上聽覺雙重享受放鬆好地方！",
-        "confidence": 1.0
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "演唱都很會帶氣氛，觀眾氛圍也都挺嗨！",
-        "confidence": 1.0
-    },
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "空間寬敞、座位舒適、氛圍拉滿、菜式豐富、是味覺加上聽覺雙重享受放鬆好地方！",
-        "演唱都很會帶氣氛，觀眾氛圍也都挺嗨！"
-    ],
-    "generated_summary": "該餐廳空間寬敞且座位舒適，現場演唱氣氛熱鬧，適合聚餐。",
-    "card_summary": "空間寬敞且座位舒適，現場演唱氣氛熱鬧，適合聚餐。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "空間寬敞、座位舒適、氛圍拉滿、菜式豐富、是味覺加上聽覺雙重享受放鬆好地方！",
+                             "confidence":  1
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Unknown",
+                               "evidence":  "演唱都很會帶氣氛，觀眾氛圍也都挺嗨！",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Yes",
+                             "evidence":  "不建議包場，太難吃",
+                             "confidence":  0.9
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，店內用餐空間規劃寬敞，活動動線舒適。空間寬敞舒適，適合帶孩子前來用餐。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "空間寬敞、氛圍好的音樂餐酒館"
+                          ],
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "中",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

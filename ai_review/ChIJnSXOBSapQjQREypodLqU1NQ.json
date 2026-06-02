@@ -1,31 +1,52 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "No",
-        "evidence": "空間不大但舒適，無論是白天午餐或夜晚小酌，都能感受到自在又放鬆的氛圍。",
-        "confidence": 1.0
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "空間不大但舒適，無論是白天午餐或夜晚小酌，都能感受到自在又放鬆的氛圍。",
-        "環境不大但氛圍超級讚～氣氛超級好～"
-    ],
-    "generated_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Yes",
+                                  "evidence":  "使用者回報與人工校正：所有創義麵分店均提供兒童座椅",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  "空間不大但舒適，無論是白天午餐或夜晚小酌，都能感受到自在又放鬆的氛圍。",
+                             "confidence":  1
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  "還貼心提供兒童餐與小朋友餐具",
+                                "confidence":  0.8
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "系統自動識別：同時提供兒童椅與兒童餐具，通常為親子友善且不怕吵之用餐環境",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Yes",
+                             "evidence":  "✨ 有時也提供包廂 \u0026 活動空間，是聚會、慶生的好選擇。 ￼",
+                             "confidence":  0.9
+                         },
+    "has_tableware":  {
+                          "result":  "Yes",
+                          "evidence":  "使用者回報與人工校正：所有創義麵分店均貼心提供兒童專用餐具",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。店內貼心備有兒童座椅與專用餐具。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "使用者回報與人工校正：所有創義麵分店均提供兒童座椅",
+                              "系統自動識別：同時提供兒童椅與兒童餐具，通常為親子友善且不怕吵之用餐環境",
+                              "使用者回報與人工校正：所有創義麵分店均貼心提供兒童專用餐具"
+                          ],
+    "parent_friendly_score":  4,
+    "parent_friendly_level":  "高",
+    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
 }

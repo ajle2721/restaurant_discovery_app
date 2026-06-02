@@ -1,0 +1,52 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "Yes",
+                                  "evidence":  "使用者回報與人工校正：所有I\u0027m Pasta分店均提供兒童餐椅",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "系統自動識別：同時提供兒童椅與兒童餐具，通常為親子友善且不怕吵之用餐環境",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Yes",
+                          "evidence":  "使用者回報與人工校正：有提供兒童餐具",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，這家餐廳氣氛輕鬆親子友善，店內貼心備有兒童座椅與專用餐具。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "使用者回報與人工校正：所有I\u0027m Pasta分店均提供兒童餐椅",
+                              "系統自動識別：同時提供兒童椅與兒童餐具，通常為親子友善且不怕吵之用餐環境",
+                              "使用者回報與人工校正：所有I\u0027m Pasta分店均貼心提供兒童餐具"
+                          ],
+    "parent_friendly_score":  4,
+    "parent_friendly_level":  "高",
+    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
+}

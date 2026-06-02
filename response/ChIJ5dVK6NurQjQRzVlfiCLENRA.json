@@ -1,0 +1,129 @@
+{
+  "id": "ChIJ5dVK6NurQjQRzVlfiCLENRA",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2930 2699",
+  "formattedAddress": "116台灣臺北市文山區興得里興隆路三段36巷14弄7號1樓",
+  "location": {
+    "latitude": 24.9997802,
+    "longitude": 121.55478970000001
+  },
+  "rating": 4.7,
+  "websiteUri": "https://www.facebook.com/profile.php?id=61574423426345",
+  "userRatingCount": 89,
+  "displayName": {
+    "text": "葡萄園(Vine Yard)",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ5dVK6NurQjQRzVlfiCLENRA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKZlNsZFVhbTQ0VFVodlIyMWhZa0o0WDIxUlJGRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "環境舒服，服務良好，餐點美味\n推薦乾鍋雞、芋頭粥、多元化小菜！\n整體非常推薦，\n唯一美中不足就是出餐速度",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境舒服，服務良好，餐點美味\n推薦乾鍋雞、芋頭粥、多元化小菜！\n整體非常推薦，\n唯一美中不足就是出餐速度",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "楊釆樺",
+        "uri": "https://www.google.com/maps/contrib/113105775723960979378/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWYVWlvZ5tvB0oq_Ert8JQ0Z-GZuF4aY75M0gAPG4GFYzrjYE8ONw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-14T04:44:20.251334012Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKZlNsZFVhbTQ0VFVodlIyMWhZa0o0WDIxUlJGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKZlNsZFVhbTQ0VFVodlIyMWhZa0o0WDIxUlJGRRAB!2m1!1s0x3442abdbe84ad5e5:0x1035c422885f59cd"
+    },
+    {
+      "name": "places/ChIJ5dVK6NurQjQRzVlfiCLENRA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCV2VHTkpOekJwTkdoeE1uRndkREkwZWtoTFIxRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "家庭式小飯館，吃起來很舒服，位置也比較舒適，藏在巷子裏，香菇雞湯很好喝且神奇，雞湯只有雞肉沒有骨頭，泡菜牛肉好吃，蒸扁鱈不錯，住附近會再來這樣小孩放學免煮飯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "家庭式小飯館，吃起來很舒服，位置也比較舒適，藏在巷子裏，香菇雞湯很好喝且神奇，雞湯只有雞肉沒有骨頭，泡菜牛肉好吃，蒸扁鱈不錯，住附近會再來這樣小孩放學免煮飯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "lo shine",
+        "uri": "https://www.google.com/maps/contrib/113769021993915995071/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW0om5nbWyugg_4siJr1qk8aOG6frP4z5oOQOzmNPVQw8nnXy_2=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-08-06T10:58:34.880231817Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCV2VHTkpOekJwTkdoeE1uRndkREkwZWtoTFIxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCV2VHTkpOekJwTkdoeE1uRndkREkwZWtoTFIxRRAB!2m1!1s0x3442abdbe84ad5e5:0x1035c422885f59cd"
+    },
+    {
+      "name": "places/ChIJ5dVK6NurQjQRzVlfiCLENRA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCWGNXZGlZMDFvZGxoQ2VqaGlka3d4WkhWTmIwRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "隱藏在住宅區裡的家庭式餐廳，是名義上真的家庭式的那種，寧靜舒服的空間，燈光柔和不刺眼。餐點就是類自助式的，拿多少付多少。現場有飯有粥可選擇，主食都是現點現做，一盤80元，小菜是好幾種放在一個碟子裡40元。飲料好幾種，還有冰淇淋！用餐環境真的很不錯，適合一個人待著靜靜用餐，在這人群匆匆的台北市，北漂的日子裏還有這種地方待一下，靜下心來好好吃一頓熱騰騰的家常飯，挺不錯的",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "隱藏在住宅區裡的家庭式餐廳，是名義上真的家庭式的那種，寧靜舒服的空間，燈光柔和不刺眼。餐點就是類自助式的，拿多少付多少。現場有飯有粥可選擇，主食都是現點現做，一盤80元，小菜是好幾種放在一個碟子裡40元。飲料好幾種，還有冰淇淋！用餐環境真的很不錯，適合一個人待著靜靜用餐，在這人群匆匆的台北市，北漂的日子裏還有這種地方待一下，靜下心來好好吃一頓熱騰騰的家常飯，挺不錯的",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "ai vien Qiong",
+        "uri": "https://www.google.com/maps/contrib/101035958563987330501/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVY81GmcetYX6GJ28k0bWHvkDrDn4-Ka_ahhUxKFqiLnrxGnC0=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-08-15T10:39:28.779422294Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCWGNXZGlZMDFvZGxoQ2VqaGlka3d4WkhWTmIwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCWGNXZGlZMDFvZGxoQ2VqaGlka3d4WkhWTmIwRRAB!2m1!1s0x3442abdbe84ad5e5:0x1035c422885f59cd"
+    },
+    {
+      "name": "places/ChIJ5dVK6NurQjQRzVlfiCLENRA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SR1VrVXRZMU5OZG5KcVVFUm9WMHB6U1dOSVMxRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "非常特別的用餐體驗，當天老闆提到尚未開學，我們剛好第一桌。\n點了大家推薦的乾烹雞，四季豆雞肉跟馬鈴薯味道都很特別，卻又有一致性；小菜是熱的拼盤我們沒有特別選，每一樣都好吃；雞湯的肉量也比想像中多。\n店內有飲料吧自取，包含咖啡機、煮好的決明子、不知道甜度的豆漿等等。\n蠻特別的經驗，可以來體驗看看。重點是好吃，離開前還外帶一份小菜跟主菜當明天的便當。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "非常特別的用餐體驗，當天老闆提到尚未開學，我們剛好第一桌。\n點了大家推薦的乾烹雞，四季豆雞肉跟馬鈴薯味道都很特別，卻又有一致性；小菜是熱的拼盤我們沒有特別選，每一樣都好吃；雞湯的肉量也比想像中多。\n店內有飲料吧自取，包含咖啡機、煮好的決明子、不知道甜度的豆漿等等。\n蠻特別的經驗，可以來體驗看看。重點是好吃，離開前還外帶一份小菜跟主菜當明天的便當。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hsun Hung",
+        "uri": "https://www.google.com/maps/contrib/100204708329265678276/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWkGIbNTob8Econ5vjiuKMp0FzdK3qfK1SLGdQpzRFFTMpcqQA_Qg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-28T01:52:26.468836214Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SR1VrVXRZMU5OZG5KcVVFUm9WMHB6U1dOSVMxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SR1VrVXRZMU5OZG5KcVVFUm9WMHB6U1dOSVMxRRAB!2m1!1s0x3442abdbe84ad5e5:0x1035c422885f59cd"
+    },
+    {
+      "name": "places/ChIJ5dVK6NurQjQRzVlfiCLENRA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkTk5HZ3RNSEIyVDBobGRFMVlVa3hsY1dZeGVWRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "全部單點，拿多少付多少\n芋頭粥$40\n小菜$40\n乾鍋雞$80\n老闆很客氣，人手不足，主食現炒需要稍作等待\n芋頭粥本身有鹹，有高湯的味道，除了燉得軟爛的芋頭泥跟米粥，也有塊狀的芋頭\n小菜各有各的味道，有涼拌梅汁味的，也有滷味跟水煮\n乾鍋雞微辣，調味剛好，藕片跟馬鈴薯先煎炸後更好包覆調味\n環境上在剛開門時過去，空間不會太過擁擠，但四人桌只有三桌，如果人數較多要用餐應該會太擠\n另外夏天餐飲業難免有果蠅。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "全部單點，拿多少付多少\n芋頭粥$40\n小菜$40\n乾鍋雞$80\n老闆很客氣，人手不足，主食現炒需要稍作等待\n芋頭粥本身有鹹，有高湯的味道，除了燉得軟爛的芋頭泥跟米粥，也有塊狀的芋頭\n小菜各有各的味道，有涼拌梅汁味的，也有滷味跟水煮\n乾鍋雞微辣，調味剛好，藕片跟馬鈴薯先煎炸後更好包覆調味\n環境上在剛開門時過去，空間不會太過擁擠，但四人桌只有三桌，如果人數較多要用餐應該會太擠\n另外夏天餐飲業難免有果蠅。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "劉俐君",
+        "uri": "https://www.google.com/maps/contrib/113043257310273461158/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKZNeHcIekn6nvNGlATtDL2uo0M_4bd4oVWPFssh_XJX8e9Rw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-08-12T10:47:28.630887014Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkTk5HZ3RNSEIyVDBobGRFMVlVa3hsY1dZeGVWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkTk5HZ3RNSEIyVDBobGRFMVlVa3hsY1dZeGVWRRAB!2m1!1s0x3442abdbe84ad5e5:0x1035c422885f59cd"
+    }
+  ]
+}

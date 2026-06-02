@@ -1,0 +1,51 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "不論是不限時的使用或寬敞的座位空間都相當友善",
+                             "confidence":  0.8
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "總評 ⭐️:  很棒的咖啡廳 也有插座 氣氛很好 復古文青 按樓有投影幕會播放療瘉的影片 環境較吵雜 平日晚上來二樓幾乎都被訂位訂滿了 建議可以先訂位",
+                               "confidence":  0.8
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，這家餐廳空間寬敞舒適，氣氛熱鬧親子友善。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "不論是不限時的使用或寬敞的座位空間都相當友善",
+                              "總評 ⭐️:  很棒的咖啡廳 也有插座 氣氛很好 復古文青 按樓有投影幕會播放療瘉的影片 環境較吵雜 平日晚上來二樓幾乎都被訂位訂滿了 建議可以先訂位"
+                          ],
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "中",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+}

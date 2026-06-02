@@ -1,31 +1,50 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "松山機場第二航廈二樓設有美食廣場，有提供很多品牌的餐飲選擇，用餐環境寬敞明亮。",
-        "confidence": 1.0
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "松山機場第二航廈二樓設有美食廣場，有提供很多品牌的餐飲選擇，用餐環境寬敞明亮。",
-        "重新裝璜整理過，乾凈寬敞，雖然店家不多，但整體而言還是ok的，有一些台灣意象表現的不錯"
-    ],
-    "generated_summary": "美食廣場用餐環境寬敞明亮，但目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "美食廣場用餐環境寬敞明亮。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "松山機場第二航廈二樓設有美食廣場，有提供很多品牌的餐飲選擇，用餐環境寬敞明亮。",
+                             "confidence":  1
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Unknown",
+                               "evidence":  null,
+                               "confidence":  0.4
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  "位於百貨商場/交通樞紐（105台灣臺北市松山區敦化北路340-9號第二航厦 (國內線航厦)），商場內設有公共尿布台及哺乳室",
+                             "confidence":  1
+                         },
+    "generated_summary":  "根據評論分析，店內用餐空間規劃寬敞，活動動線舒適。空間寬敞舒適，適合帶孩子前來用餐。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "用餐環境寬敞明亮"
+                          ],
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "中",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

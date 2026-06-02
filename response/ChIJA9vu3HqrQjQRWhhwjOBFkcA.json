@@ -8,13 +8,14 @@
     "establishment"
   ],
   "internationalPhoneNumber": "+886 2 2782 9835",
-  "formattedAddress": "115台灣臺北市南港區昆陽街58號",
+  "formattedAddress": "115台灣臺北市南港區西新里昆陽街58號",
   "location": {
     "latitude": 25.052651,
     "longitude": 121.59280659999999
   },
   "rating": 4.4,
-  "userRatingCount": 357,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 363,
   "displayName": {
     "text": "找諶 Chen’s Brunch",
     "languageCode": "zh-TW"
@@ -22,7 +23,7 @@
   "reviews": [
     {
       "name": "places/ChIJA9vu3HqrQjQRWhhwjOBFkcA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oQlRtVldiVWRCVUcwM2NGRk1hRTFZYmtSVVkxRRAB",
-      "relativePublishTimeDescription": "3 週前",
+      "relativePublishTimeDescription": "3 個月前",
       "rating": 4,
       "text": {
         "text": "簡單乾淨的店面、燻雞蛋餅是粉漿蛋餅，皮Q不爛，內餡充足，吃起來滿足度很高。雞塊也炸的很酥、不會太油。還有一家店中店專賣咖啡。\n可現金/Linepay",
@@ -43,7 +44,7 @@
     },
     {
       "name": "places/ChIJA9vu3HqrQjQRWhhwjOBFkcA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pacE56Vmlhak5LY25KalJ6UlVMVFZ1VTFWMWIxRRAB",
-      "relativePublishTimeDescription": "4 個月前",
+      "relativePublishTimeDescription": "7 個月前",
       "rating": 4,
       "text": {
         "text": "今天的早餐日常💛\n手打豬總匯三明治（110元）蔬菜量超多，豬排醃得剛剛好～香氣滿滿不死鹹，只是咬的時候有點小筋，有點跟牙齒拉扯😆\n手打豬蛋餅加蛋（80元）是粉漿派，軟嫩滑口，但我私心還是愛酥酥脆脆的那種❤️\n火烤雞腿漢堡（90元）表現中規中矩，蛋要另外加15元～\n整體來說份量實在、價格偏小貴但吃得飽飽的，適合想簡單飽餐一頓的早晨✨",
@@ -64,7 +65,7 @@
     },
     {
       "name": "places/ChIJA9vu3HqrQjQRWhhwjOBFkcA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2trMmNYRXdTWGhZWkZkSVZHZG9ibVF5ZGtZM1VtYxAB",
-      "relativePublishTimeDescription": "2 週前",
+      "relativePublishTimeDescription": "3 個月前",
       "rating": 1,
       "text": {
         "text": "從外送平台點了奶油吐司居然塗成這個樣子…根本就沒有認真塗。鐵板麵也超乾，醬汁超少，豬排肉腥味重，傻眼的一餐。",
@@ -85,7 +86,7 @@
     },
     {
       "name": "places/ChIJA9vu3HqrQjQRWhhwjOBFkcA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oSmVVWlRVWHBGVTJ4UmJXRm1WbDg0UW1OZmMwRRAB",
-      "relativePublishTimeDescription": "3 個月前",
+      "relativePublishTimeDescription": "6 個月前",
       "rating": 5,
       "text": {
         "text": "1.蛋餅是粉漿Q彈好吃\n2.豬排蛋（全麥）吐司\n好多生菜好吃無負擔\n3.紅茶普通但屬順口",
@@ -125,5 +126,6 @@
       "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYamFxUjVRRRAB&d=17924085&t=1",
       "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYamFxUjVRRRAB!2m1!1s0x3442ab7adceedb03:0xc09145e08c70185a"
     }
-  ]
+  ],
+  "goodForChildren": true
 }

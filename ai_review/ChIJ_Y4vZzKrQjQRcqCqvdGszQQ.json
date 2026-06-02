@@ -1,30 +1,50 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "No",
-        "evidence": "要先說包廂偏小，最多6個人剛好",
-        "confidence": 1.0
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "要先說包廂偏小，最多6個人剛好"
-    ],
-    "generated_summary": "根據評論顯示，該餐廳空間較擁擠，帶小孩前往需多加留意。",
-    "card_summary": "該餐廳空間較擁擠，帶小孩前往需多加留意。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  "要先說包廂偏小，最多6個人剛好",
+                             "confidence":  1
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Unknown",
+                               "evidence":  null,
+                               "confidence":  0.4
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Yes",
+                             "evidence":  "要先說包廂偏小，最多6個人剛好",
+                             "confidence":  0.9
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Yes",
+                             "evidence":  "位於百貨商場/大樓（110405台灣臺北市信義區松壽路11號3樓），商場內設有公共尿布台及哺乳室",
+                             "confidence":  1
+                         },
+    "generated_summary":  "根據評論分析，精緻的燉飯與焗烤料理深受顧客好評。可就近使用商場內公共尿布台及哺乳室。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "系統自動識別：位於百貨商場/大樓（新光三越信義新天地A11），可使用商場內公共尿布台及哺乳室"
+                          ],
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "中",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

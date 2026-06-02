@@ -1,0 +1,52 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "No",
+                             "evidence":  "室內座位稍微偏擁擠",
+                             "confidence":  0.8
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "能在奇岩站附近發現這麼可愛又親子友善的咖啡廳",
+                               "confidence":  0.8
+                           },
+    "has_play_area":  {
+                          "result":  "Yes",
+                          "evidence":  "二樓設有一間很棒的親子遊戲室",
+                          "confidence":  0.9
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，設有讓兒童遊玩的專屬設施或遊戲空間。設有遊戲區讓孩子放電。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "室內座位稍微偏擁擠",
+                              "能在奇岩站附近發現這麼可愛又親子友善的咖啡廳",
+                              "二樓設有一間很棒的親子遊戲室"
+                          ],
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "中",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+}

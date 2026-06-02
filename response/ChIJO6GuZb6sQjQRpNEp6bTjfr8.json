@@ -4,20 +4,21 @@
     "coffee_shop",
     "cafe",
     "food_store",
-    "food",
     "store",
+    "food",
     "point_of_interest",
     "establishment"
   ],
   "internationalPhoneNumber": "+886 2 2631 1763",
-  "formattedAddress": "114台灣臺北市內湖區成功路五段420巷11號",
+  "formattedAddress": "114台灣臺北市內湖區金湖里成功路五段420巷11號",
   "location": {
     "latitude": 25.075314799999997,
     "longitude": 121.6077784
   },
-  "rating": 4.5,
+  "rating": 4.6,
   "websiteUri": "https://www.facebook.com/SeekingCafe.Taipei/",
-  "userRatingCount": 225,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 237,
   "displayName": {
     "text": "Seeking Café",
     "languageCode": "en"
@@ -25,7 +26,7 @@
   "reviews": [
     {
       "name": "places/ChIJO6GuZb6sQjQRpNEp6bTjfr8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pBMlEzaGpOV3BzV0ZwS2RVbHBVbHB6TmxScGMwRRAB",
-      "relativePublishTimeDescription": "2 週前",
+      "relativePublishTimeDescription": "3 個月前",
       "rating": 5,
       "text": {
         "text": "難得週六一大早找到有營業的咖啡廳，點了一杯黑沙芝麻飲，味道濃醇順口，搭配蘑菇雞肉口袋吐司很match～老闆夫妻服務也很親切☺",
@@ -43,6 +44,48 @@
       "publishTime": "2026-02-07T02:30:53.688039653Z",
       "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pBMlEzaGpOV3BzV0ZwS2RVbHBVbHB6TmxScGMwRRAB&d=17924085&t=1",
       "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pBMlEzaGpOV3BzV0ZwS2RVbHBVbHB6TmxScGMwRRAB!2m1!1s0x3442acbe65aea13b:0xbf7ee3b4e929d1a4"
+    },
+    {
+      "name": "places/ChIJO6GuZb6sQjQRpNEp6bTjfr8/reviews/ChdDSUhNMG9nS0VJQ0FnSURwa2ZiMnBnRRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 3,
+      "text": {
+        "text": "餐點部分2.5星，拿鐵奶泡不夠細緻咖啡與牛奶沒有融合，喝起來不順口，起司火腿口袋吐司.中規中矩的表現.感覺是一對退休的夫妻經營的.環境氛圍還不錯.",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點部分2.5星，拿鐵奶泡不夠細緻咖啡與牛奶沒有融合，喝起來不順口，起司火腿口袋吐司.中規中矩的表現.感覺是一對退休的夫妻經營的.環境氛圍還不錯.",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "K K",
+        "uri": "https://www.google.com/maps/contrib/114546286053473376351/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWRL8fjyHTmNXbkSt0U82K7lopQk8avb-CRakDNWB27XEyhgbHE=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2023-08-23T16:52:51.924299Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURwa2ZiMnBnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURwa2ZiMnBnRRAB!2m1!1s0x3442acbe65aea13b:0xbf7ee3b4e929d1a4"
+    },
+    {
+      "name": "places/ChIJO6GuZb6sQjQRpNEp6bTjfr8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNScnVISEhnEAE",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 5,
+      "text": {
+        "text": "老闆推薦的阿里山手冲咖啡！果香味濃，檸檬塔也很棒！下次再來試另外一款手冲咖啡！這裡似乎沒有時間限制！無論朋友聚會聊天或帶筆記電腦處理文件工作也是不錯的選擇，讓人覺得放鬆！老闆人也非常好！親切！意外的發現新的地點，也適合小猴🏍️好停車。另外也有包廂提供小型聚會",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "老闆推薦的阿里山手冲咖啡！果香味濃，檸檬塔也很棒！下次再來試另外一款手冲咖啡！這裡似乎沒有時間限制！無論朋友聚會聊天或帶筆記電腦處理文件工作也是不錯的選擇，讓人覺得放鬆！老闆人也非常好！親切！意外的發現新的地點，也適合小猴🏍️好停車。另外也有包廂提供小型聚會",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "wendy chang",
+        "uri": "https://www.google.com/maps/contrib/104644056915972320501/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVAiLAYTA4o8gpCQw134A8vxC8CoiAKTLZDZP5G0EJtgY5pNddt=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2023-04-02T10:27:55.944741Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNScnVISEhnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNScnVISEhnEAE!2m1!1s0x3442acbe65aea13b:0xbf7ee3b4e929d1a4"
     },
     {
       "name": "places/ChIJO6GuZb6sQjQRpNEp6bTjfr8/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzX2ZpZFlBEAE",
@@ -67,7 +110,7 @@
     },
     {
       "name": "places/ChIJO6GuZb6sQjQRpNEp6bTjfr8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SeGFHVldhM2hvYlhjdFZFNWZNVlJsVTJJMFVuYxAB",
-      "relativePublishTimeDescription": "8 個月前",
+      "relativePublishTimeDescription": "11 個月前",
       "rating": 5,
       "text": {
         "text": "社區重要的存在！\n雖然座位不多，但老闆、老闆娘熱情款待，咖啡香、氣氛好，值得推薦！",
@@ -86,5 +129,6 @@
       "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SeGFHVldhM2hvYlhjdFZFNWZNVlJsVTJJMFVuYxAB&d=17924085&t=1",
       "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SeGFHVldhM2hvYlhjdFZFNWZNVlJsVTJJMFVuYxAB!2m1!1s0x3442acbe65aea13b:0xbf7ee3b4e929d1a4"
     }
-  ]
+  ],
+  "menuForChildren": false
 }

@@ -1,0 +1,133 @@
+{
+  "id": "ChIJATdJwuerQjQRtRfm_Jmqsuc",
+  "types": [
+    "italian_restaurant",
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2545 7819",
+  "formattedAddress": "105台灣臺北市松山區中正里南京東路三段335巷15號",
+  "location": {
+    "latitude": 25.053031999999998,
+    "longitude": 121.54747169999997
+  },
+  "rating": 4.1,
+  "websiteUri": "https://www.facebook.com/KirimPastaMianShiZhuYinanJingDian/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 1188,
+  "displayName": {
+    "text": "麵食主義 KIRIN PASTA 南京店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJATdJwuerQjQRtRfm_Jmqsuc/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xWU1GZHFka1ZOYlRrelNESnBURTVNUTNoVVgzYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "今天公司聚餐，店內座位不少但比較擠，用餐環境乾淨，服務速度快速。\n\n今天點了蒜味辣椒麵加雞肉和漁夫蒜辣海鮮麵，蒜味辣椒麵辣度比較高，吃來很爽，加點雞肉可以增加飽腹感。漁夫蒜辣海鮮麵口感上沒那麼辣，海鮮種類豐富，蝦頗新鮮，蒜味充足，吃起來舒服，推薦給喜歡義大利麵朋友😉😉😉",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天公司聚餐，店內座位不少但比較擠，用餐環境乾淨，服務速度快速。\n\n今天點了蒜味辣椒麵加雞肉和漁夫蒜辣海鮮麵，蒜味辣椒麵辣度比較高，吃來很爽，加點雞肉可以增加飽腹感。漁夫蒜辣海鮮麵口感上沒那麼辣，海鮮種類豐富，蝦頗新鮮，蒜味充足，吃起來舒服，推薦給喜歡義大利麵朋友😉😉😉",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jason",
+        "uri": "https://www.google.com/maps/contrib/106347245696698120125/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVuQwFerHesctD7Eov9u_PIqRkV5IAAmxNMaCC3L3yh1OjuUt7zfg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-20T06:39:57.637217121Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xWU1GZHFka1ZOYlRrelNESnBURTVNUTNoVVgzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xWU1GZHFka1ZOYlRrelNESnBURTVNUTNoVVgzYxAB!2m1!1s0x3442abe7c2493701:0xe7b2aa99fce617b5"
+    },
+    {
+      "name": "places/ChIJATdJwuerQjQRtRfm_Jmqsuc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxaVRIUTBYM2c1UVdSU1RsVnJXRWQwVld4bWJIYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "臺北cp值高的義大利麵餐廳，口味非常好～建議加佛卡夏烤餅，出餐速度快，用料實在～翻桌速度快！推薦青醬雞肉和白酒蛤蜊",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "臺北cp值高的義大利麵餐廳，口味非常好～建議加佛卡夏烤餅，出餐速度快，用料實在～翻桌速度快！推薦青醬雞肉和白酒蛤蜊",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張琬琦",
+        "uri": "https://www.google.com/maps/contrib/115532032291017395828/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUuMXhj1VnK771_nFprZobQZQ6n1BIN2s7PS2s6avgsGPioT2yD=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-10T10:35:30.416835293Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxaVRIUTBYM2c1UVdSU1RsVnJXRWQwVld4bWJIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxaVRIUTBYM2c1UVdSU1RsVnJXRWQwVld4bWJIYxAB!2m1!1s0x3442abe7c2493701:0xe7b2aa99fce617b5"
+    },
+    {
+      "name": "places/ChIJATdJwuerQjQRtRfm_Jmqsuc/reviews/ChdDSUhNMG9nS0VJU2drNXZjdTZLTW1BRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 2,
+      "text": {
+        "text": "晚上用餐、店內用餐環境簡易，掃碼點餐上菜時間還算快；我們點了檸香時蔬鱸魚麵加C套餐、以及青醬奶油雞肉麵。\n\n先上的是套餐、包含兩小圓麵包已烤過微酥脆但無其它佐料，藍莓優酪風味的小沙拉與玉米湯；湯的部份有火腿與玉米、稠度剛好口味也符合預期。\n\n檸香時蔬鱸魚麵：上來後攪拌同時就發現有蒜味，確實有加了蒜泥在內；鱸魚有經過烹炸才加入，也因此口感非常像「土魠魚塊」偏硬且失去鱸魚的鮮嫩口感！加上麵體使用銅模直麵、口感也微偏硬，讓人覺得有點訝異。\n\n青醬奶油雞肉麵：青醬味香不夠、濃稠度不足，同樣麵體也是偏硬～完全不行！\n\n價格雖較便宜、但整體感覺上並非吃口味而是吃粗飽；沒想到分店這麼多、口味卻沒有亮點？下次會審慎評估是否有光臨必要（50）。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "晚上用餐、店內用餐環境簡易，掃碼點餐上菜時間還算快；我們點了檸香時蔬鱸魚麵加C套餐、以及青醬奶油雞肉麵。\n\n先上的是套餐、包含兩小圓麵包已烤過微酥脆但無其它佐料，藍莓優酪風味的小沙拉與玉米湯；湯的部份有火腿與玉米、稠度剛好口味也符合預期。\n\n檸香時蔬鱸魚麵：上來後攪拌同時就發現有蒜味，確實有加了蒜泥在內；鱸魚有經過烹炸才加入，也因此口感非常像「土魠魚塊」偏硬且失去鱸魚的鮮嫩口感！加上麵體使用銅模直麵、口感也微偏硬，讓人覺得有點訝異。\n\n青醬奶油雞肉麵：青醬味香不夠、濃稠度不足，同樣麵體也是偏硬～完全不行！\n\n價格雖較便宜、但整體感覺上並非吃口味而是吃粗飽；沒想到分店這麼多、口味卻沒有亮點？下次會審慎評估是否有光臨必要（50）。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jerry Chu",
+        "uri": "https://www.google.com/maps/contrib/117901470165078116183/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVDMA9-oB2AyI_LUa2mZ_T22dT_emdj22cMbdwI7HlsEZGBWG4=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-05-14T23:19:36.077569Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJU2drNXZjdTZLTW1BRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJU2drNXZjdTZLTW1BRRAB!2m1!1s0x3442abe7c2493701:0xe7b2aa99fce617b5"
+    },
+    {
+      "name": "places/ChIJATdJwuerQjQRtRfm_Jmqsuc/reviews/Ci9DQUlRQUNvZENodHljRjlvT210V09WOUdaRUZ5VUY5a2JYZzJPREJPYTNJd2RWRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "2025.08.08\n\n在捷運站南京復興站附近，交通方便。\n\n菜單看起來有點像連鎖店I'm pasta，但是套餐的部分很明顯不一樣，還有一些有趣的菜色（像是海龍王湯，但我沒點）。\n\n還有可可寬麵（但不是每種口味的義大利麵都可以配可可寬麵）。套餐搭配的冷飲就是紅茶，無法更換（聽別桌客人和店員的對話）。\n\n今天點的是漁夫蒜辣海鮮麵，我點大辣，麵加大，貝殼麵。\n對於平常吃中辣的我，大辣是真的很辣，我吃沒幾口就要喝一堆水，整盤麵吃完我就灌完了一瓶礦泉水。所以如果平常有在吃辣的，建議點小辣或中辣就好。\n\n海鮮的量普普通通。蒜味也夠味。貝殼麵有彈性。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2025.08.08\n\n在捷運站南京復興站附近，交通方便。\n\n菜單看起來有點像連鎖店I'm pasta，但是套餐的部分很明顯不一樣，還有一些有趣的菜色（像是海龍王湯，但我沒點）。\n\n還有可可寬麵（但不是每種口味的義大利麵都可以配可可寬麵）。套餐搭配的冷飲就是紅茶，無法更換（聽別桌客人和店員的對話）。\n\n今天點的是漁夫蒜辣海鮮麵，我點大辣，麵加大，貝殼麵。\n對於平常吃中辣的我，大辣是真的很辣，我吃沒幾口就要喝一堆水，整盤麵吃完我就灌完了一瓶礦泉水。所以如果平常有在吃辣的，建議點小辣或中辣就好。\n\n海鮮的量普普通通。蒜味也夠味。貝殼麵有彈性。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Psychopathic Crush",
+        "uri": "https://www.google.com/maps/contrib/114939944959754457624/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUZ2p2x-MbhUI8bhu5BMco-5jHhsLiXWgpJFVVIcZgrVpn4lFbC=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-08-12T11:22:50.383291797Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210V09WOUdaRUZ5VUY5a2JYZzJPREJPYTNJd2RWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210V09WOUdaRUZ5VUY5a2JYZzJPREJPYTNJd2RWRRAB!2m1!1s0x3442abe7c2493701:0xe7b2aa99fce617b5"
+    },
+    {
+      "name": "places/ChIJATdJwuerQjQRtRfm_Jmqsuc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GVVl6azNaM2xUVjFZMGFGQlhWM0JhV2s0MGNIYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 2,
+      "text": {
+        "text": "火車站學生補習區便宜義大利麵、燉飯等級，同價位的711義大利麵都比較好吃。\n\n造訪次數：1\n最後造訪：2025/11/27",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "火車站學生補習區便宜義大利麵、燉飯等級，同價位的711義大利麵都比較好吃。\n\n造訪次數：1\n最後造訪：2025/11/27",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lu Shin-Hung",
+        "uri": "https://www.google.com/maps/contrib/100016895778984807308/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVlPoVmZ4e2Ob7muHDX3rTrhVjrtyYq4T1v4y0aAUhAdFFiUKmGFA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-27T06:37:12.791278198Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GVVl6azNaM2xUVjFZMGFGQlhWM0JhV2s0MGNIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GVVl6azNaM2xUVjFZMGFGQlhWM0JhV2s0MGNIYxAB!2m1!1s0x3442abe7c2493701:0xe7b2aa99fce617b5"
+    }
+  ]
+}

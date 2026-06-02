@@ -1,0 +1,50 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Unknown",
+                               "evidence":  null,
+                               "confidence":  0.4
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Yes",
+                             "evidence":  "以台菜來說，這家餐廳的整體水準相當穩定，以每人一千出頭的價格來說真的不錯，包廂式空間乾淨舒適，服務親切，價格合理一分錢一分貨。多年沒來，這次反而讓我對十得私廚的印象更好了，是一家值得再次回訪的好地方。",
+                             "confidence":  0.9
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，店內用餐空間規劃寬敞，活動動線舒適。",
+    "card_summary":  "",
+    "generated_signals":  [
+
+                          ],
+    "parent_friendly_score":  0,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+}

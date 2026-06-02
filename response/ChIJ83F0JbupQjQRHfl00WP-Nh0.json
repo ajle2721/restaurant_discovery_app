@@ -1,0 +1,130 @@
+{
+  "id": "ChIJ83F0JbupQjQRHfl00WP-Nh0",
+  "types": [
+    "seafood_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2303 6976",
+  "formattedAddress": "100台灣臺北市中正區忠勤里中華路二段311巷19號",
+  "location": {
+    "latitude": 25.028782399999997,
+    "longitude": 121.50610389999999
+  },
+  "rating": 4.2,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 698,
+  "displayName": {
+    "text": "小漁村精緻海鮮平價快炒",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ83F0JbupQjQRHfl00WP-Nh0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pJNFRrZEdhRXBKTW0xeU0ydzNSMFk1Wm5wU1FXYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "很好吃欸！每樣都好吃！\n隱藏版韭菜蝦仁水餃真的好吃！\n豬肝很厚也很嫩\n金沙豆腐、臭三寶、麻油川七、蔥燒牛\n聚餐好地方！還有免費提供熱茶！\n7人12道菜$380/人",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很好吃欸！每樣都好吃！\n隱藏版韭菜蝦仁水餃真的好吃！\n豬肝很厚也很嫩\n金沙豆腐、臭三寶、麻油川七、蔥燒牛\n聚餐好地方！還有免費提供熱茶！\n7人12道菜$380/人",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "湯姆瑞塔",
+        "uri": "https://www.google.com/maps/contrib/107858707384495921856/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVuHRmx3BcjlAkBe6pWFeOi73Gud7OQrXYVGaMi6W-8cwbCk1I=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-25T00:12:21.044993432Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pJNFRrZEdhRXBKTW0xeU0ydzNSMFk1Wm5wU1FXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pJNFRrZEdhRXBKTW0xeU0ydzNSMFk1Wm5wU1FXYxAB!2m1!1s0x3442a9bb257471f3:0x1d36fe63d174f91d"
+    },
+    {
+      "name": "places/ChIJ83F0JbupQjQRHfl00WP-Nh0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ORFdYTm5hbHBuTWxWUlNraHlOVkYyZFdSMFZFRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "南機場夜市裡的美味平價熱炒。\n我喜歡這間沒有許多熱炒店過鹹的調味。\n\n不會很常來南機場，但偶爾來逛這家常客滿，要不坐位八成滿，是生意很好的熱炒店。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "南機場夜市裡的美味平價熱炒。\n我喜歡這間沒有許多熱炒店過鹹的調味。\n\n不會很常來南機場，但偶爾來逛這家常客滿，要不坐位八成滿，是生意很好的熱炒店。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "PH Hostel",
+        "uri": "https://www.google.com/maps/contrib/113142903667169794290/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZ3-EhFZPvQIyr7Bhji807NmJtCVXSOzQkMssnlhXob3zem3ve=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-25T13:27:31.675279649Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ORFdYTm5hbHBuTWxWUlNraHlOVkYyZFdSMFZFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ORFdYTm5hbHBuTWxWUlNraHlOVkYyZFdSMFZFRRAB!2m1!1s0x3442a9bb257471f3:0x1d36fe63d174f91d"
+    },
+    {
+      "name": "places/ChIJ83F0JbupQjQRHfl00WP-Nh0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSRk4yOWFkMU16ZG5sc05qbDVPVXBZUlV4UE9FRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "服務親切，下午四點營業，提前到老闆一個小時到老闆也有讓我們吃，好貼心啊",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "服務親切，下午四點營業，提前到老闆一個小時到老闆也有讓我們吃，好貼心啊",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "沙拉飯團",
+        "uri": "https://www.google.com/maps/contrib/105985716856226723286/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV0p3fIKUQPtfwg5jZWu1Tbi6YIX4DpkWBxSvU5zisvcPrZF0j1wg=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-02-17T04:13:26.841013010Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSRk4yOWFkMU16ZG5sc05qbDVPVXBZUlV4UE9FRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSRk4yOWFkMU16ZG5sc05qbDVPVXBZUlV4UE9FRRAB!2m1!1s0x3442a9bb257471f3:0x1d36fe63d174f91d"
+    },
+    {
+      "name": "places/ChIJ83F0JbupQjQRHfl00WP-Nh0/reviews/Ci9DQUlRQUNvZENodHljRjlvT20weFZXbEVXSHBzTkVnMlZVNXJlSGRJYVhWNFpsRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "1人均價500，每道菜火候拿捏的剛好，美味，雖然份量有點小，上菜迅速，只限現金交易，推薦",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "1人均價500，每道菜火候拿捏的剛好，美味，雖然份量有點小，上菜迅速，只限現金交易，推薦",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "ChiaTe Hung",
+        "uri": "https://www.google.com/maps/contrib/113451696201839341890/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVCxm0DZCcE0-bELich4edBmTpUwgp-RO-CvzAauUc-Izy3Qwm9=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-27T01:28:41.672414368Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20weFZXbEVXSHBzTkVnMlZVNXJlSGRJYVhWNFpsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20weFZXbEVXSHBzTkVnMlZVNXJlSGRJYVhWNFpsRRAB!2m1!1s0x3442a9bb257471f3:0x1d36fe63d174f91d"
+    },
+    {
+      "name": "places/ChIJ83F0JbupQjQRHfl00WP-Nh0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GMk0ybFVaMU5LTTA5MVlubzVSMlYzTlU1YWRIYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "平價好吃的快炒店，店裡面算滿乾淨的，帶外國友人來她很喜歡，宮保雞丁好吃但有點辣😂",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "平價好吃的快炒店，店裡面算滿乾淨的，帶外國友人來她很喜歡，宮保雞丁好吃但有點辣😂",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "MapMaster",
+        "uri": "https://www.google.com/maps/contrib/117955348549877690960/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWifXpRjWN8Mh73QFvWnrK0xVsSIMsPOA5PpIEpHV-HBsWkSck=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-22T05:51:07.605425385Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GMk0ybFVaMU5LTTA5MVlubzVSMlYzTlU1YWRIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GMk0ybFVaMU5LTTA5MVlubzVSMlYzTlU1YWRIYxAB!2m1!1s0x3442a9bb257471f3:0x1d36fe63d174f91d"
+    }
+  ]
+}

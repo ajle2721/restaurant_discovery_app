@@ -1,33 +1,54 @@
-{
-    " child_seat available": {
-        "result": "Yes",
-        "evidence": "Manual update",
-        "confidence": 1.0
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "在台北車站二樓的微風美食區，位置好找，空間寬廣，適合聊天聚會。",
-        "confidence": 1.0
-    },
-    "Kids menu available": {
-        "result": "Yes",
-        "evidence": "Manual update",
-        "confidence": 1.0
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "Manual update",
-        "confidence": 1.0
-    },
-    "parent_friendly_score": 4,
-    "parent_friendly_level": "高",
-    "reason": "手動更新資料",
-    "generated_signals": [
-        "提供兒童椅",
-        "提供兒童餐",
-        "不怕小孩吵",
-        "空間寬廣，適合聊天聚會。"
-    ],
-    "generated_summary": "貳樓微風台北車站店具備完整的親子友善設施，包括兒童椅、兒童餐，且空間寬敞、不怕小孩吵鬧，非常推薦。",
-    "card_summary": "具備完整親子設施，空間寬敞且對小孩友善。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Yes",
+                                  "evidence":  "Manual update",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  "在台北車站二樓的微風美食區，位置好找，空間寬廣，適合聊天聚會。",
+                             "confidence":  1
+                         },
+    "Kids menu available":  {
+                                "result":  "Yes",
+                                "evidence":  "Manual update",
+                                "confidence":  1
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "Manual update",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Yes",
+                          "evidence":  "使用者回報與人工校正：所有貳樓分店均貼心提供兒童餐具",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Yes",
+                             "evidence":  "位於百貨商場/交通樞紐（100台灣臺北市中正區北平西路3號2樓），商場內設有公共尿布台及哺乳室",
+                             "confidence":  1
+                         },
+    "generated_summary":  "根據評論分析，服務人員接待熱忱、服務態度良好。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點，可就近使用商場內公共尿布台及哺乳室，且店內貼心提供畫紙與蠟筆給小孩畫畫。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "使用者回報與人工校正：所有貳樓分店均提供兒童座椅",
+                              "使用者回報與人工校正：所有貳樓分店均提供專屬兒童餐點",
+                              "系統自動識別：同時提供兒童椅與兒童餐具，通常為親子友善且不怕吵之用餐環境",
+                              "使用者回報與人工校正：所有貳樓分店均貼心提供兒童餐具",
+                              "系統自動識別：位於百貨商場/大樓（微風廣場/微風商場），可使用商場內公共尿布台及哺乳室"
+                          ],
+    "parent_friendly_score":  6,
+    "parent_friendly_level":  "高",
+    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
 }

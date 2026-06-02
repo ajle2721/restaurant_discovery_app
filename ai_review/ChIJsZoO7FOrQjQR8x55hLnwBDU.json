@@ -1,30 +1,54 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "空間寬敞，四位用餐都還蠻足夠",
-        "confidence": 1.0
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "空間寬敞，四位用餐都還蠻足夠"
-    ],
-    "generated_summary": "目前評論中較少提及與親子用餐相關的具體資訊，僅提及店內空間寬敞，建議前往前可先向店家確認兒童設施與餐點。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Yes",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "空間寬敞，四位用餐都還蠻足夠",
+                             "confidence":  1
+                         },
+    "Kids menu available":  {
+                                "result":  "No",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  null,
+                               "confidence":  0.4
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Yes",
+                          "evidence":  "飯雖然有點小碗",
+                          "confidence":  0.9
+                      },
+    "has_diaper_table":  {
+                             "result":  "Yes",
+                             "evidence":  "位於百貨商場/交通樞紐（110台灣臺北市信義區忠孝東路五段68號4 樓），商場內設有公共尿布台及哺乳室",
+                             "confidence":  1
+                         },
+    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。店內貼心備有兒童座椅與專用餐具，可就近使用商場內公共尿布台及哺乳室。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "使用者回報與人工校正：有提供兒童椅",
+                              "空間寬敞",
+                              "系統自動識別：同時提供兒童椅與兒童餐具，通常為親子友善且不怕吵之用餐環境",
+                              "使用者回報與人工校正：有提供兒童餐具",
+                              "系統自動識別與人工校正：分店位於百貨商場內，可直接使用百貨的育嬰室與尿布台"
+                          ],
+    "parent_friendly_score":  6,
+    "parent_friendly_level":  "高",
+    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
 }

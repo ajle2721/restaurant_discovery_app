@@ -1,34 +1,50 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "往裡面走環境大有天地，還有包廂，讓人彷彿穿越時空，回到了那個京味巷弄濃厚的年代。",
-        "confidence": 1.0
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "無論是與家人共享天倫之樂，還是與朋友聚會暢談，這裡都是不錯的選擇。",
-        "confidence": 1.0
-    },
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "往裡面走環境大有天地，還有包廂，讓人彷彿穿越時空，回到了那個京味巷弄濃厚的年代。",
-        "無論是與家人共享天倫之樂，還是與朋友聚會暢談，這裡都是不錯的選擇。",
-        "這裡的氛圍讓人感到親切，即使是陌生人也能因為一道菜而打成一片。",
-        "長輩們也會趁這個機會教導子女，如：夾菜時不可在盤子裡挑三揀四，這不僅是禮貌問題，也是對同桌的用餐人尊重。",
-        "聚餐的好地方"
-    ],
-    "generated_summary": "餐廳內部空間寬敞且設有包廂，氛圍親切熱鬧，非常適合家庭聚餐與帶小孩前往。",
-    "card_summary": "餐廳內部空間寬敞且設有包廂，氛圍親切熱鬧，非常適合家庭聚餐與帶小孩前往。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  "往裡面走環境大有天地，還有包廂，讓人彷彿穿越時空，回到了那個京味巷弄濃厚的年代。",
+                             "confidence":  1
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Unknown",
+                               "evidence":  "無論是與家人共享天倫之樂，還是與朋友聚會暢談，這裡都是不錯的選擇。",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Yes",
+                             "evidence":  "一進門入口小，老闆還貼心：一人可以等一下，馬上有位子。往裡面走環境大有天地，還有包廂，讓人彷彿穿越時空，回到了那個京味巷弄濃厚的年代。今天，我們要品嚐的是這裡的幾道招牌菜：泰式涼拌海鮮、合菜戴帽、川丸子湯和牛肉餡餅。",
+                             "confidence":  0.9
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，服務人員接待熱忱、服務態度良好。",
+    "card_summary":  "",
+    "generated_signals":  [
+
+                          ],
+    "parent_friendly_score":  0,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

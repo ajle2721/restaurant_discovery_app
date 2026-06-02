@@ -1,34 +1,54 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Kids menu available": {
-        "result": "Yes",
-        "evidence": "我點了寶寶餐來吃，漢堡排很多汁！茄汁飯也很夠味～",
-        "confidence": 1.0
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "很難得有親子友善的咖啡廳。",
-        "confidence": 1.0
-    },
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "感謝老闆願意提供親子空間，遊戲區讓孩子可以放電一下，老闆娘也親切有禮。",
-        "小朋友很喜歡店內的玩具，店內的玩具感覺是很用心挑選的，都是木頭材質，而且可以發揮創意的。",
-        "很難得有親子友善的咖啡廳。",
-        "小孩坐不住也沒關係，就放生去旁邊遊戲區，雖然不大，但童書、溜滑梯盪鞦韆、玩具也是應有盡有。",
-        "我點了寶寶餐來吃，漢堡排很多汁！茄汁飯也很夠味～"
-    ],
-    "generated_summary": "這是一家設有遊戲區的親子友善咖啡廳，提供寶寶餐且玩具質感佳，非常適合帶小孩前往放電。",
-    "card_summary": "這是一家設有遊戲區的親子友善咖啡廳，提供寶寶餐且玩具質感佳，非常適合帶小孩前往放電。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Yes",
+                                  "evidence":  "系統自動識別：官方登記或評論提及為親子主題餐廳，提供兒童椅",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "No",
+                             "evidence":  "也不會感覺到擁擠",
+                             "confidence":  0.8
+                         },
+    "Kids menu available":  {
+                                "result":  "Yes",
+                                "evidence":  "我點了寶寶餐來吃，漢堡排很多汁！茄汁飯也很夠味～",
+                                "confidence":  1
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "很難得有親子友善的咖啡廳。",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Yes",
+                          "evidence":  "遊戲區讓孩子可以放電一下",
+                          "confidence":  0.9
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Yes",
+                          "evidence":  "小孩一次喝二杯",
+                          "confidence":  0.8
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，店內規劃與氛圍對攜帶幼童的家庭相當友善。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點，設有遊戲區讓孩子放電。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "系統自動識別：官方登記或評論提及為親子主題餐廳，提供兒童椅",
+                              "Google 官方登記提供兒童餐點",
+                              "Google 官方登記適合兒童用餐",
+                              "感謝老闆願意提供親子空間",
+                              "小孩一次喝二杯"
+                          ],
+    "parent_friendly_score":  5,
+    "parent_friendly_level":  "高",
+    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
 }

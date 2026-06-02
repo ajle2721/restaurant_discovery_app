@@ -1,0 +1,131 @@
+{
+  "id": "ChIJMcs8xF2rQjQR7BccAbbR-jM",
+  "types": [
+    "salad_shop",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 906 511 811",
+  "formattedAddress": "115台灣臺北市南港區新光里忠孝東路七段371號B1",
+  "location": {
+    "latitude": 25.052895499999998,
+    "longitude": 121.6072597
+  },
+  "rating": 4.3,
+  "websiteUri": "https://thegreenerytw.com/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 918,
+  "displayName": {
+    "text": "TG 蔬坊 The Greenery 南港環球店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJMcs8xF2rQjQR7BccAbbR-jM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toYU1uSlJSek5TWVRaRUxXZHFURlptTWxZMU0wRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "種類和風味豐富的選擇\n的確很美味\n在車站的設點也相當方便\n吃一半才想起要拍照\n可以自選二種主題沙拉的組合\n藜麥鷹嘴豆沙拉裡的小黃瓜紫色蔬菜口感非常爽脆\n芝麻葉沙拉也很鮮脆\n整體很新鮮吃起來很舒服",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "種類和風味豐富的選擇\n的確很美味\n在車站的設點也相當方便\n吃一半才想起要拍照\n可以自選二種主題沙拉的組合\n藜麥鷹嘴豆沙拉裡的小黃瓜紫色蔬菜口感非常爽脆\n芝麻葉沙拉也很鮮脆\n整體很新鮮吃起來很舒服",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Emily Tsai",
+        "uri": "https://www.google.com/maps/contrib/115727218496043176012/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV2Nw3Y0oDqRl1ENJOdGzTd8HYtKplq7QQkrqzVFr1I5Erub5ds5Q=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-27T04:46:39.716444792Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toYU1uSlJSek5TWVRaRUxXZHFURlptTWxZMU0wRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toYU1uSlJSek5TWVRaRUxXZHFURlptTWxZMU0wRRAB!2m1!1s0x3442ab5dc43ccb31:0x33fad1b6011c17ec"
+    },
+    {
+      "name": "places/ChIJMcs8xF2rQjQR7BccAbbR-jM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsbFVFdEZRMHB1VDFveWNGUXhTRFJoUWpOS1NrRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "必須說～先看過其他人評論，還是想說去買一下\n但肉與碳水的比例真的差很多🥹\n我點了大沙拉，可以挑四種菜色，三種都是挑有肉的，但目前看下來真的都是碳水\n原型碳水當然好但是有點多🥹\n服務人員態度也很好，就是分配感覺很不均🥹",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "必須說～先看過其他人評論，還是想說去買一下\n但肉與碳水的比例真的差很多🥹\n我點了大沙拉，可以挑四種菜色，三種都是挑有肉的，但目前看下來真的都是碳水\n原型碳水當然好但是有點多🥹\n服務人員態度也很好，就是分配感覺很不均🥹",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chiyun “子綺” Tseng",
+        "uri": "https://www.google.com/maps/contrib/100382378724277299781/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXSn69Oq35O4XFpOcjQKBORwG5eWsB_urcIXp_uzSjD46KiuqRx=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-26T11:27:17.392241692Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsbFVFdEZRMHB1VDFveWNGUXhTRFJoUWpOS1NrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsbFVFdEZRMHB1VDFveWNGUXhTRFJoUWpOS1NrRRAB!2m1!1s0x3442ab5dc43ccb31:0x33fad1b6011c17ec"
+    },
+    {
+      "name": "places/ChIJMcs8xF2rQjQR7BccAbbR-jM/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ORlExTllWRmQyTTFCR2RITk1OalJYY3pCTGIzYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 1,
+      "text": {
+        "text": "真的是要提醒自己不能買這家😆 能明白肉比馬鈴薯貴，但這個比例份量也太少了…😬",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "真的是要提醒自己不能買這家😆 能明白肉比馬鈴薯貴，但這個比例份量也太少了…😬",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Emily Tao",
+        "uri": "https://www.google.com/maps/contrib/111728763711623991826/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW-lo6xugisn-vG_CTVo6G5Yvslv9TyuRs3_IELkBPpqTg0-7md=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-01T11:49:31.580419150Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25ORlExTllWRmQyTTFCR2RITk1OalJYY3pCTGIzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ORlExTllWRmQyTTFCR2RITk1OalJYY3pCTGIzYxAB!2m1!1s0x3442ab5dc43ccb31:0x33fad1b6011c17ec"
+    },
+    {
+      "name": "places/ChIJMcs8xF2rQjQR7BccAbbR-jM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCaU1uY3lkR2x5ZUZsME1ITlpURE5JTTBFM2IzYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "上次8/10下午五點多左右第一次買沙拉，一個年輕女店員問我要什麼醬，我講完之後他就把餐給我，一直到上高鐵吃的時候才覺得為什麼吃起來很乾，以為已經加了還是很乾（我點的是檸檬口味）。直到今天8/24下午五點一個姐姐來服務，給了我選的醬才知道原來上次年輕女店員沒給醬！我知道了，以後有姐姐的班我才要來買",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "上次8/10下午五點多左右第一次買沙拉，一個年輕女店員問我要什麼醬，我講完之後他就把餐給我，一直到上高鐵吃的時候才覺得為什麼吃起來很乾，以為已經加了還是很乾（我點的是檸檬口味）。直到今天8/24下午五點一個姐姐來服務，給了我選的醬才知道原來上次年輕女店員沒給醬！我知道了，以後有姐姐的班我才要來買",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hsiao Chin Lee",
+        "uri": "https://www.google.com/maps/contrib/109613121320121726517/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYTq0gQZJZDPdlSXgiJ654zWaToyK5-XxcGDAUF0KfpiZWyDs=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-08-24T09:41:42.551513169Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCaU1uY3lkR2x5ZUZsME1ITlpURE5JTTBFM2IzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCaU1uY3lkR2x5ZUZsME1ITlpURE5JTTBFM2IzYxAB!2m1!1s0x3442ab5dc43ccb31:0x33fad1b6011c17ec"
+    },
+    {
+      "name": "places/ChIJMcs8xF2rQjQR7BccAbbR-jM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaTmRFNW1jM1p2Vm5SMFgxaGZSekZ0UmxSaU5tYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "食物的色彩令人很有食慾，都是一些原型食物，感覺就很健康。今天為了祭祖，所以都買奶蛋素、五辛素，本來以為會吃不飽，但沒想到吃起來很有份量。\n一般的健康餐，總讓人感覺沒味道..太清淡...但這些食物就是又健康又好吃∼\n小胃口女生應該小盒2道菜就很足夠，正常食量買中盒3道菜，食量較大的，可以吃大盒，可選4道菜。\n因為它晚上營業時間還蠻晚的，非常適合加班晚歸，然後不想吃油膩便當的人的選擇∼∼",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "食物的色彩令人很有食慾，都是一些原型食物，感覺就很健康。今天為了祭祖，所以都買奶蛋素、五辛素，本來以為會吃不飽，但沒想到吃起來很有份量。\n一般的健康餐，總讓人感覺沒味道..太清淡...但這些食物就是又健康又好吃∼\n小胃口女生應該小盒2道菜就很足夠，正常食量買中盒3道菜，食量較大的，可以吃大盒，可選4道菜。\n因為它晚上營業時間還蠻晚的，非常適合加班晚歸，然後不想吃油膩便當的人的選擇∼∼",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Fanny Liu",
+        "uri": "https://www.google.com/maps/contrib/106571298606406290861/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLyddGYEIEN32Zt25LakZFP8ZKoi_5BrcSq8vFTMgy9lXwZYw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-06T07:29:40.980784615Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaTmRFNW1jM1p2Vm5SMFgxaGZSekZ0UmxSaU5tYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaTmRFNW1jM1p2Vm5SMFgxaGZSekZ0UmxSaU5tYxAB!2m1!1s0x3442ab5dc43ccb31:0x33fad1b6011c17ec"
+    }
+  ]
+}

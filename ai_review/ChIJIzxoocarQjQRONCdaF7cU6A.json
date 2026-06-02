@@ -1,0 +1,51 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "Yes",
+                                  "evidence":  "系統自動識別：官方登記為家庭式餐飲，提供兒童座椅",
+                                  "confidence":  0.8
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "系統自動識別：官方登記為家庭式餐飲，環境適合家庭客用餐，不怕吵",
+                               "confidence":  0.8
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Yes",
+                             "evidence":  "剛好有人退訂包廂，才有辦法吃到美味的佳餚",
+                             "confidence":  0.9
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。店內貼心備有兒童座椅。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "系統自動識別：官方登記為家庭式餐飲，提供兒童座椅",
+                              "系統自動識別：官方登記為家庭式餐飲，環境適合家庭客用餐，不怕吵"
+                          ],
+    "parent_friendly_score":  3,
+    "parent_friendly_level":  "高",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+}

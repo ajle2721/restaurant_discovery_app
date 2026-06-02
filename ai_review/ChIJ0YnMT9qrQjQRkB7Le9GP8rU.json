@@ -1,0 +1,53 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "Yes",
+                                  "evidence":  "使用者回報與人工校正：所有Miacucina分店均提供兒童餐椅",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "環境空間寬敞舒適",
+                             "confidence":  0.8
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "使用者回報與人工校正：環境氣氛熱鬧不怕吵",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Yes",
+                             "evidence":  "靠路邊的位子光線明亮有包廂感",
+                             "confidence":  0.9
+                         },
+    "has_tableware":  {
+                          "result":  "Yes",
+                          "evidence":  "使用者回報與人工校正：所有Miacucina分店均貼心提供兒童專用碗盤餐具",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  "系統自動識別：位於百貨商場/大樓（微風廣場/微風商場），可使用商場內公共尿布台及哺乳室",
+                             "confidence":  1
+                         },
+    "generated_summary":  "根據評論分析，這家餐廳的鬆餅、蛋糕與薄餅等下午茶點心廣受家長與孩子稱讚，用餐空間寬敞舒服且採光明亮。店內為親子準備了兒童座椅與專用碗盤餐具，熱鬧輕鬆的氛圍非常適合帶小孩前來一同分食美味的蔬食料理。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "使用者回報與人工校正：所有Miacucina分店均提供兒童餐椅",
+                              "環境空間寬敞舒適",
+                              "使用者回報與人工校正：環境氣氛熱鬧不怕吵",
+                              "使用者回報與人工校正：所有Miacucina分店均貼心提供兒童專用碗盤餐具"
+                          ],
+    "parent_friendly_score":  5,
+    "parent_friendly_level":  "高",
+    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
+}

@@ -1,0 +1,52 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "Yes",
+                                  "evidence":  "系統自動識別：官方登記或評論提及為親子主題餐廳，提供兒童椅",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "系統自動識別：親子主題餐廳環境適合孩童不怕吵",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "No",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Yes",
+                             "evidence":  "直接包場🤣太幸福了吧",
+                             "confidence":  0.9
+                         },
+    "has_tableware":  {
+                          "result":  "Yes",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，服務人員接待熱忱、服務態度良好。店內貼心備有兒童座椅與專用餐具。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "系統自動識別：官方登記或評論提及為親子主題餐廳，提供兒童椅",
+                              "系統自動識別：親子主題餐廳環境適合孩童不怕吵",
+                              "使用者回報與人工校正：貼心提供兒童餐具"
+                          ],
+    "parent_friendly_score":  4,
+    "parent_friendly_level":  "高",
+    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
+}

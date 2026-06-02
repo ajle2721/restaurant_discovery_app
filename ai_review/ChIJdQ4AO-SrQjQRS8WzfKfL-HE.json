@@ -1,0 +1,51 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "適合帶小孩來",
+                               "confidence":  0.8
+                           },
+    "has_play_area":  {
+                          "result":  "Yes",
+                          "evidence":  "還有一些小朋友的玩具可以玩",
+                          "confidence":  0.8
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，店內規劃與氛圍對攜帶幼童的家庭相當友善。設有遊戲區讓孩子放電。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "適合帶小孩來",
+                              "還有一些小朋友的玩具可以玩"
+                          ],
+    "parent_friendly_score":  3,
+    "parent_friendly_level":  "高",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+}

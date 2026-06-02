@@ -1,0 +1,53 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "Yes",
+                                  "evidence":  "寵物友善也有兒童餐椅",
+                                  "confidence":  0.8
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "Kids menu available":  {
+                                "result":  "Yes",
+                                "evidence":  "寵物友善也有兒童餐椅",
+                                "confidence":  0.8
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "系統自動識別：同時提供兒童椅與兒童餐具，通常為親子友善且不怕吵之用餐環境",
+                               "confidence":  1.0
+                           },
+    "has_play_area":  {
+                          "result":  "No",
+                          "evidence":  "人工校正：僅設有尿布台，無兒童遊樂區/遊戲空間",
+                          "confidence":  1.0
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Yes",
+                          "evidence":  "使用者回報與人工校正：提供兒童專用碗盤餐具",
+                          "confidence":  1.0
+                      },
+    "has_diaper_table":  {
+                             "result":  "Yes",
+                             "evidence":  "廁所內竟然有尿布台真貼心❤️",
+                             "confidence":  0.8
+                         },
+    "generated_summary":  "根據評論分析，店內規劃與氛圍對攜帶幼童的家庭相當友善。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點，店內設有尿布台或哺乳室。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "寵物友善也有兒童餐椅",
+                              "系統自動識別：同時提供兒童椅與兒童餐具，通常為親子友善且不怕吵之用餐環境",
+                              "使用者回報與人工校正：提供兒童專用碗盤餐具",
+                              "廁所內竟然有尿布台真貼心❤️"
+                          ],
+    "parent_friendly_score":  6,
+    "parent_friendly_level":  "高",
+    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
+}

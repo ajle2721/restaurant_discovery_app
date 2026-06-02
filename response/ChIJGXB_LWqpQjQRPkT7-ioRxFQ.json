@@ -1,0 +1,134 @@
+{
+  "id": "ChIJGXB_LWqpQjQRPkT7-ioRxFQ",
+  "types": [
+    "brunch_restaurant",
+    "hamburger_restaurant",
+    "breakfast_restaurant",
+    "american_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2537 5378",
+  "formattedAddress": "114台灣臺北市內湖區內湖里成功路四段30巷14號1樓",
+  "location": {
+    "latitude": 25.0821856,
+    "longitude": 121.59141430000001
+  },
+  "rating": 4.4,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 185,
+  "displayName": {
+    "text": "早食暮想 精緻早午餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJGXB_LWqpQjQRPkT7-ioRxFQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT21jMk9XaDVPV2R2VUZZM1VGVkZaMmwwUmpkcmVFRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "周邊停車其實還算好停，基本要停停車場，路邊停車有點難，出餐速度很快\n辣椒蠻好吃的",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "周邊停車其實還算好停，基本要停停車場，路邊停車有點難，出餐速度很快\n辣椒蠻好吃的",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林楓",
+        "uri": "https://www.google.com/maps/contrib/114457943984356320570/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLHMuUj6ZQTnwTC9fUwwrVZKzP4XOGfTP1dZ8Czf_KcUitJKQ=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-01-07T08:41:22.798043923Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21jMk9XaDVPV2R2VUZZM1VGVkZaMmwwUmpkcmVFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21jMk9XaDVPV2R2VUZZM1VGVkZaMmwwUmpkcmVFRRAB!2m1!1s0x3442a96a2d7f7019:0x54c4112afafb443e"
+    },
+    {
+      "name": "places/ChIJGXB_LWqpQjQRPkT7-ioRxFQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2podVowTlZkVGc1Y1hkS2VtMUlTalZKU2xWWWRYYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "嚐鮮吃吃看千層三星蔥餅\n以為是像蔥抓餅，問了店員說是裡面包蔥比較像餡餅，結果真的很好吃😋\n蔥的香氣十足且餅咬起來很Q彈❣️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "嚐鮮吃吃看千層三星蔥餅\n以為是像蔥抓餅，問了店員說是裡面包蔥比較像餡餅，結果真的很好吃😋\n蔥的香氣十足且餅咬起來很Q彈❣️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Vanessa Huang",
+        "uri": "https://www.google.com/maps/contrib/103996585483511220694/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJeyIF2zRpRQukRETZ979rd9cfmXt-A5lO77ywrhPibwpWcDg=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-15T02:59:03.962344845Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2podVowTlZkVGc1Y1hkS2VtMUlTalZKU2xWWWRYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2podVowTlZkVGc1Y1hkS2VtMUlTalZKU2xWWWRYYxAB!2m1!1s0x3442a96a2d7f7019:0x54c4112afafb443e"
+    },
+    {
+      "name": "places/ChIJGXB_LWqpQjQRPkT7-ioRxFQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUR6aUtHN2ZBEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "點了很多人推薦的蘿蔔糕炒蛋（單點$70）\n本身就有點微辣，味道還不錯\n炒的辣醬是那種有點甜甜的豆瓣辣醬，還吃得到XO醬裡的小魚乾、干貝粒",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點了很多人推薦的蘿蔔糕炒蛋（單點$70）\n本身就有點微辣，味道還不錯\n炒的辣醬是那種有點甜甜的豆瓣辣醬，還吃得到XO醬裡的小魚乾、干貝粒",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "C",
+        "uri": "https://www.google.com/maps/contrib/108804551433273553717/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIUvsH2Ii6PY-rLeniIzzV1u4vO9eAIh_xVtCu9FtLfUJoz7J8=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2024-06-07T04:01:00.625883Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR6aUtHN2ZBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR6aUtHN2ZBEAE!2m1!1s0x3442a96a2d7f7019:0x54c4112afafb443e"
+    },
+    {
+      "name": "places/ChIJGXB_LWqpQjQRPkT7-ioRxFQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4MnZUNFpBEAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 4,
+      "text": {
+        "text": "服務態度很好！\n食物好吃，奶茶好喝\n鐵板麵跟其他早餐店不一樣\n會加很多生菜🥬超讚！\n葡萄奶素換丹麥吐司，餡料爆炸多\n唯一小希望就是高麗菜炒蘿蔔糕可以有蛋奶素的版本🥺",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "服務態度很好！\n食物好吃，奶茶好喝\n鐵板麵跟其他早餐店不一樣\n會加很多生菜🥬超讚！\n葡萄奶素換丹麥吐司，餡料爆炸多\n唯一小希望就是高麗菜炒蘿蔔糕可以有蛋奶素的版本🥺",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "PEI RU LIN (Haluya)",
+        "uri": "https://www.google.com/maps/contrib/117626244043104168851/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU0p0796h8QYAJxbAADlr7NrO-bSBo6iEMGmHq1dv7WfAMIvcmx=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2023-06-06T12:48:39.560987Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR4MnZUNFpBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR4MnZUNFpBEAE!2m1!1s0x3442a96a2d7f7019:0x54c4112afafb443e"
+    },
+    {
+      "name": "places/ChIJGXB_LWqpQjQRPkT7-ioRxFQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURXb3NxU0x3EAE",
+      "relativePublishTimeDescription": "4 年前",
+      "rating": 5,
+      "text": {
+        "text": "。鐵板麵的麵條切面是正方形，比油麵再粗、比烏龍麵再細一點，口感不錯，蛋沒特別說的話是半熟，這道整體沒有覺得很特別，但也不差！\n\n。芝心法式餐外面的法式吐司很軟嫩不焦黑很香！但內容物吃起來就有點無聊，沒特別喜歡法式吐司的人這道可以跳過～\n\n。豬排蛋吐司內的調味好棒！清爽香甜，整個味道就是有用心的，有比其他家早餐店好吃！\n\n。無糖綠很濃超讚！是茉莉綠茶，雖然是人工香料但就喜歡這味道！因此我們又付錢續杯了，比較可惜的內用還是封膜的紙杯，如果用玻璃杯會更環保，也附了塑膠吸管雖然我們沒用，但覺得為了環保可以更好！\n\n。冰美式好喝！不苦澀很解膩，是用瓷馬克杯裝讚讚。\n\n。XO醬蘿蔔糕炒蛋 非常有特色，還吃到三粒滿大的干貝+滿滿小魚乾，整個海味很夠！還有蠻多碎高麗菜在裡面，味道一絕超推！重點是老闆娘製作前貼心問我們要不要把特製辣椒醬炒進去？因為這道跟朋友共食他怕辣就先不要，但「沒加辣還是非常夠味喔！」完全不會讓重口味的人失望！😆\n\n。特製辣椒很辣很夠味，很想點湯來喝更過癮，但這家目前是沒有賣湯滴～\n\n。整家店超級乾淨明亮，連廁所都是！如果店家可以推出炒青菜跟清湯，我覺得我們應該就會天天住在這裡面了😍（蔬菜是我的本命還是無法一餐只吃這些🤪）但這家店真的比一般早餐店好很多！店內油煙味也不重（跟其他早餐店比）音樂音量也適中不會太吵，今天比較熱空調也剛好（本人和朋友怕熱）處處是用心！👍🏾\n\n。要先付款ㄛ～只有兩人在經營，這樣合理，只是提醒一下。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "。鐵板麵的麵條切面是正方形，比油麵再粗、比烏龍麵再細一點，口感不錯，蛋沒特別說的話是半熟，這道整體沒有覺得很特別，但也不差！\n\n。芝心法式餐外面的法式吐司很軟嫩不焦黑很香！但內容物吃起來就有點無聊，沒特別喜歡法式吐司的人這道可以跳過～\n\n。豬排蛋吐司內的調味好棒！清爽香甜，整個味道就是有用心的，有比其他家早餐店好吃！\n\n。無糖綠很濃超讚！是茉莉綠茶，雖然是人工香料但就喜歡這味道！因此我們又付錢續杯了，比較可惜的內用還是封膜的紙杯，如果用玻璃杯會更環保，也附了塑膠吸管雖然我們沒用，但覺得為了環保可以更好！\n\n。冰美式好喝！不苦澀很解膩，是用瓷馬克杯裝讚讚。\n\n。XO醬蘿蔔糕炒蛋 非常有特色，還吃到三粒滿大的干貝+滿滿小魚乾，整個海味很夠！還有蠻多碎高麗菜在裡面，味道一絕超推！重點是老闆娘製作前貼心問我們要不要把特製辣椒醬炒進去？因為這道跟朋友共食他怕辣就先不要，但「沒加辣還是非常夠味喔！」完全不會讓重口味的人失望！😆\n\n。特製辣椒很辣很夠味，很想點湯來喝更過癮，但這家目前是沒有賣湯滴～\n\n。整家店超級乾淨明亮，連廁所都是！如果店家可以推出炒青菜跟清湯，我覺得我們應該就會天天住在這裡面了😍（蔬菜是我的本命還是無法一餐只吃這些🤪）但這家店真的比一般早餐店好很多！店內油煙味也不重（跟其他早餐店比）音樂音量也適中不會太吵，今天比較熱空調也剛好（本人和朋友怕熱）處處是用心！👍🏾\n\n。要先付款ㄛ～只有兩人在經營，這樣合理，只是提醒一下。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Peace Luna",
+        "uri": "https://www.google.com/maps/contrib/106197982582935194966/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV6kiCfa5J_KhaNCAeyOwGmD9Y9ugzqYhsL0EXTHPkiUqXckMT8=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2022-03-23T07:50:15.057272Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURXb3NxU0x3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURXb3NxU0x3EAE!2m1!1s0x3442a96a2d7f7019:0x54c4112afafb443e"
+    }
+  ],
+  "goodForChildren": true
+}

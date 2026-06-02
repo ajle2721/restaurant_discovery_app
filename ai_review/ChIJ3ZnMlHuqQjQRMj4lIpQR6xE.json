@@ -1,32 +1,51 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "No",
-        "evidence": "座位數量不少，但桌距偏近，用餐尖峰時段容易顯得擁擠。",
-        "confidence": 1.0
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "店內氛圍熱鬧，牆面與擺設走美式休閒風格，適合朋友聚會或學生社團聚餐，但若想要安靜用餐，可能需要避開尖峰時段。",
-        "confidence": 1.0
-    },
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "座位數量不少，但桌距偏近，用餐尖峰時段容易顯得擁擠。",
-        "但若想要安靜用餐",
-        "座位雖然有點擁擠但數量不少"
-    ],
-    "generated_summary": "店內氛圍熱鬧適合帶小孩，但座位間距較近且尖峰時段較擁擠，推車進出可能較不便。",
-    "card_summary": "對小孩聲音較為包容，但空間較擁擠，前往時需多加留意。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "No",
+                             "evidence":  "座位數量不少，但桌距偏近，用餐尖峰時段容易顯得擁擠。",
+                             "confidence":  1
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "店內氛圍熱鬧，牆面與擺設走美式休閒風格，適合朋友聚會或學生社團聚餐，但若想要安靜用餐，可能需要避開尖峰時段。",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。氣氛輕鬆熱鬧，但座位較為緊湊，適合帶孩子前來用餐。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "用餐尖峰時段容易顯得擁擠",
+                              "店內氛圍熱鬧"
+                          ],
+    "parent_friendly_score":  -1,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

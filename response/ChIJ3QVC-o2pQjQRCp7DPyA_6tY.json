@@ -1,0 +1,132 @@
+{
+  "id": "ChIJ3QVC-o2pQjQRCp7DPyA_6tY",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2364 3733",
+  "formattedAddress": "100台灣臺北市中正區文盛里羅斯福路三段240巷11號",
+  "location": {
+    "latitude": 25.0177882,
+    "longitude": 121.5299181
+  },
+  "rating": 4.2,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 473,
+  "displayName": {
+    "text": "永和豆漿（公館臺大店）",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ3QVC-o2pQjQRCp7DPyA_6tY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xjM1pubEhXalZaZG0xRVNqQmZkV3R6WmtOME0yYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "這間永和豆漿真的是蠻文青的，logo 的設計有理念，用餐的環境不少植栽，些許綠意\n\n同樣是蛋餅，菜脯蛋餅給你懷舊的古早味；同樣是豆漿，加南瓜或芋頭打出來的味道，多了健康的口感",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這間永和豆漿真的是蠻文青的，logo 的設計有理念，用餐的環境不少植栽，些許綠意\n\n同樣是蛋餅，菜脯蛋餅給你懷舊的古早味；同樣是豆漿，加南瓜或芋頭打出來的味道，多了健康的口感",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Bill Lin",
+        "uri": "https://www.google.com/maps/contrib/113203827021807812924/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV0XyH-q_JwBgACLqRhDjud-pbC93ISu15YKfhNAzPNY2iLbnTvXg=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-01-06T11:38:37.977455268Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xjM1pubEhXalZaZG0xRVNqQmZkV3R6WmtOME0yYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xjM1pubEhXalZaZG0xRVNqQmZkV3R6WmtOME0yYxAB!2m1!1s0x3442a98dfa4205dd:0xd6ea3f203fc39e0a"
+    },
+    {
+      "name": "places/ChIJ3QVC-o2pQjQRCp7DPyA_6tY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSUVdXMDRaQzFaVmpZNFQyMHRhbFl4YTJSdVpHYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 2,
+      "text": {
+        "text": "本店特色主打「焦香」，蔥油餅是焦的，鐵板麵竟然也是！  湯包內餡很多胡椒，比較見仁見智，供參～～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "本店特色主打「焦香」，蔥油餅是焦的，鐵板麵竟然也是！  湯包內餡很多胡椒，比較見仁見智，供參～～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "阿哲",
+        "uri": "https://www.google.com/maps/contrib/114379165537398949986/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVa1xq0RZAP3_Zi35VrHWCUoHfE84nSdQHiZpmFegfVKfbzbHwx=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-17T02:04:12.143459462Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSUVdXMDRaQzFaVmpZNFQyMHRhbFl4YTJSdVpHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSUVdXMDRaQzFaVmpZNFQyMHRhbFl4YTJSdVpHYxAB!2m1!1s0x3442a98dfa4205dd:0xd6ea3f203fc39e0a"
+    },
+    {
+      "name": "places/ChIJ3QVC-o2pQjQRCp7DPyA_6tY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKdFpFZzNOamxWZEhwSmF6QTFXRUZsWVRCeFlYYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "飲料點仙草豆漿\n本以為是仙草茶加豆漿，原來是有仙草凍\n店內飲用不會封膜，所以能直接看到裡面\n沒想到竟然有一片蔥…頓時食慾全無😞\n溫的也好像沒有很溫就是了",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "飲料點仙草豆漿\n本以為是仙草茶加豆漿，原來是有仙草凍\n店內飲用不會封膜，所以能直接看到裡面\n沒想到竟然有一片蔥…頓時食慾全無😞\n溫的也好像沒有很溫就是了",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "洪阿愷",
+        "uri": "https://www.google.com/maps/contrib/113875951102551785696/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUrxEeCfUgF8aVen_hLMZuii8kIfFtlNMxiPmiyM-4MO8JPjIOohQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-04T10:43:29.481037695Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKdFpFZzNOamxWZEhwSmF6QTFXRUZsWVRCeFlYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKdFpFZzNOamxWZEhwSmF6QTFXRUZsWVRCeFlYYxAB!2m1!1s0x3442a98dfa4205dd:0xd6ea3f203fc39e0a"
+    },
+    {
+      "name": "places/ChIJ3QVC-o2pQjQRCp7DPyA_6tY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKVE5HdGFPVXhNVnpkc2NHWkdWVE5PT0VFMk9HYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 3,
+      "text": {
+        "text": "服務人員很好\n食物見仁見智 個人….小籠包的肉太詭異了 肉包的肉也是 在這區域價格可以拉高但食材但別醬\n試試看在自己評論吧….",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "服務人員很好\n食物見仁見智 個人….小籠包的肉太詭異了 肉包的肉也是 在這區域價格可以拉高但食材但別醬\n試試看在自己評論吧….",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ray Allen",
+        "uri": "https://www.google.com/maps/contrib/118101383117868240128/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUGjjfMdLKqhoRncN0MCtrtUXjioC1c-_umnjshZ3vQj5Gq-aAc=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-08-30T03:01:05.436096268Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKVE5HdGFPVXhNVnpkc2NHWkdWVE5PT0VFMk9HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKVE5HdGFPVXhNVnpkc2NHWkdWVE5PT0VFMk9HYxAB!2m1!1s0x3442a98dfa4205dd:0xd6ea3f203fc39e0a"
+    },
+    {
+      "name": "places/ChIJ3QVC-o2pQjQRCp7DPyA_6tY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toVU9XcFlkRTl5UTNwdVVEQmFNMUZtYTNFeE9FRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "看到牆上的小故事特別有感觸！ 從以前在河岸留言樓上搬過來的粉絲！我每天的早午餐， 最喜歡吃這裡的湯包蒸餃豆漿 套餐 ， 蛋餅和蘿蔔糕 配上這裡特調的蒜蓉醬，特別美味好吃！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "看到牆上的小故事特別有感觸！ 從以前在河岸留言樓上搬過來的粉絲！我每天的早午餐， 最喜歡吃這裡的湯包蒸餃豆漿 套餐 ， 蛋餅和蘿蔔糕 配上這裡特調的蒜蓉醬，特別美味好吃！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "ivy91023",
+        "uri": "https://www.google.com/maps/contrib/111042002155414948966/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKRJ7-ozBfzOzygJnhcLnRw33WykvwYiwJcioH1Ghj5kd7rGA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-26T14:35:20.694306914Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toVU9XcFlkRTl5UTNwdVVEQmFNMUZtYTNFeE9FRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toVU9XcFlkRTl5UTNwdVVEQmFNMUZtYTNFeE9FRRAB!2m1!1s0x3442a98dfa4205dd:0xd6ea3f203fc39e0a"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

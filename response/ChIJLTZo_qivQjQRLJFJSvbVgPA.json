@@ -1,0 +1,130 @@
+{
+  "id": "ChIJLTZo_qivQjQRLJFJSvbVgPA",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2823 5051",
+  "formattedAddress": "112台灣臺北市北投區吉利里致遠二路81號",
+  "location": {
+    "latitude": 25.1160377,
+    "longitude": 121.51154539999999
+  },
+  "rating": 4.4,
+  "websiteUri": "https://www.facebook.com/share/18K7TSeKvg/?mibextid=wwXIfr",
+  "userRatingCount": 185,
+  "displayName": {
+    "text": "米堡早午餐（國小對面）",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJLTZo_qivQjQRLJFJSvbVgPA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoTFNITlZjMmh0ZHpkRWJ6SjJWVlF3VDJ0eE9YYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "🍔🥪🥤石牌國小對面的✨米堡早午餐✨環境乾淨整潔，餐點好吃、價格親民，是這一帶讓人吃過會想再來的簡單早午餐店。😋👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "🍔🥪🥤石牌國小對面的✨米堡早午餐✨環境乾淨整潔，餐點好吃、價格親民，是這一帶讓人吃過會想再來的簡單早午餐店。😋👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "W",
+        "uri": "https://www.google.com/maps/contrib/117696143022621251669/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL9QbM5jxRlYQtprDhuRXinLJ01OS0qJUncHwcZRRVGU81cVg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-11T02:34:25.928857317Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoTFNITlZjMmh0ZHpkRWJ6SjJWVlF3VDJ0eE9YYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoTFNITlZjMmh0ZHpkRWJ6SjJWVlF3VDJ0eE9YYxAB!2m1!1s0x3442afa8fe68362d:0xf080d5f64a49912c"
+    },
+    {
+      "name": "places/ChIJLTZo_qivQjQRLJFJSvbVgPA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRcE5lc3lnRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "炒泡麵非常棒！我有加蛋。還有九層塔蛋餅和鮮奶茶，都很好，吃的很飽。圖片中的九層塔蛋餅已經被吃了一半。\n小孩點的1號餐有雞球、脆薯和煎餃，說都好吃，最好吃的是雞球，類似雞塊的味道，只是圓圓小小顆。附一杯柳橙汁有果肉。\n桌上還有放手機架給客人用，真棒。\n店員送餐時超級親切，還主動去自助取餐具的地方拿湯匙給我們，說吃冬粉比較方便，還跟我們說那邊有醬油膏可以加。第一次來，很謝謝店員的親切招呼。\n唯一缺點是內用油煙很大。\n東西很好吃，會再來。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "炒泡麵非常棒！我有加蛋。還有九層塔蛋餅和鮮奶茶，都很好，吃的很飽。圖片中的九層塔蛋餅已經被吃了一半。\n小孩點的1號餐有雞球、脆薯和煎餃，說都好吃，最好吃的是雞球，類似雞塊的味道，只是圓圓小小顆。附一杯柳橙汁有果肉。\n桌上還有放手機架給客人用，真棒。\n店員送餐時超級親切，還主動去自助取餐具的地方拿湯匙給我們，說吃冬粉比較方便，還跟我們說那邊有醬油膏可以加。第一次來，很謝謝店員的親切招呼。\n唯一缺點是內用油煙很大。\n東西很好吃，會再來。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "李小玲",
+        "uri": "https://www.google.com/maps/contrib/104902326193238473365/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXsRgyPe9A1nePuWKpDpd2SO2I5DcpcdkUqO9UscYUC9jR5uL_VgA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-03-02T03:51:45.366506Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRcE5lc3lnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRcE5lc3lnRRAB!2m1!1s0x3442afa8fe68362d:0xf080d5f64a49912c"
+    },
+    {
+      "name": "places/ChIJLTZo_qivQjQRLJFJSvbVgPA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wVlpsbFJUM2hrWkZGQk1scGpZMjVRYlZCWE1YYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "外送叫過太多次\n每次份量都飽到不行\n這次備註給店家說希望可以少一點\n沒想到店家真的照我的備註去做\n還在單子上畫愛心～\n這麼好的店家除了五顆星還是五顆星",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "外送叫過太多次\n每次份量都飽到不行\n這次備註給店家說希望可以少一點\n沒想到店家真的照我的備註去做\n還在單子上畫愛心～\n這麼好的店家除了五顆星還是五顆星",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "魏志軒",
+        "uri": "https://www.google.com/maps/contrib/109428048509994645947/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWDJBjGYPRK9SOeP3IAEmoX48_F8sAna4Foh_QvVvjMfKULaI5NKw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-06T05:08:47.945131299Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wVlpsbFJUM2hrWkZGQk1scGpZMjVRYlZCWE1YYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wVlpsbFJUM2hrWkZGQk1scGpZMjVRYlZCWE1YYxAB!2m1!1s0x3442afa8fe68362d:0xf080d5f64a49912c"
+    },
+    {
+      "name": "places/ChIJLTZo_qivQjQRLJFJSvbVgPA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSTllYZEtWelJhVmxsWk9Vc3daV1pHYUhwNkxWRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "點了外送，只是在餐點上註明有小朋友請幫忙把吐司切成三角形，店家也太貼心。還附上一張小紙條問候小朋友。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點了外送，只是在餐點上註明有小朋友請幫忙把吐司切成三角形，店家也太貼心。還附上一張小紙條問候小朋友。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張逸邦",
+        "uri": "https://www.google.com/maps/contrib/111071074040607727689/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdaC6FEZy1QKU7dJVJQm3hl-u17Z3xSqPvDJYIeg9fyNIPowE4=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-28T23:28:20.310098670Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSTllYZEtWelJhVmxsWk9Vc3daV1pHYUhwNkxWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSTllYZEtWelJhVmxsWk9Vc3daV1pHYUhwNkxWRRAB!2m1!1s0x3442afa8fe68362d:0xf080d5f64a49912c"
+    },
+    {
+      "name": "places/ChIJLTZo_qivQjQRLJFJSvbVgPA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkOFkzUklBEAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "點了黑胡椒鐵板麵，還不錯\n起司蛋餅也好吃，\n覺得一家早餐店蛋餅好不好吃很重要❤️\n下次想點推薦的九層塔炒冬粉蛋餅？\n現在還有google評論送煎餃\n滿開心的，推推",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點了黑胡椒鐵板麵，還不錯\n起司蛋餅也好吃，\n覺得一家早餐店蛋餅好不好吃很重要❤️\n下次想點推薦的九層塔炒冬粉蛋餅？\n現在還有google評論送煎餃\n滿開心的，推推",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "多芭安小姐",
+        "uri": "https://www.google.com/maps/contrib/107623689194940999242/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZ9YQIexq4hKxGcHzCVCgjF4OO7W4TFkJ8tut7dweljgMUy9c=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2024-02-16T04:35:24.527550Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNkOFkzUklBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNkOFkzUklBEAE!2m1!1s0x3442afa8fe68362d:0xf080d5f64a49912c"
+    }
+  ]
+}

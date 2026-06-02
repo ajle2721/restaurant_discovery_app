@@ -1,0 +1,134 @@
+{
+  "id": "ChIJNfWwdpqpQjQRLmhpS1LGEzU",
+  "types": [
+    "hot_pot_restaurant",
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2555 7606",
+  "formattedAddress": "103台灣臺北市大同區玉泉里鄭州路125號",
+  "location": {
+    "latitude": 25.0503696,
+    "longitude": 121.51084469999999
+  },
+  "rating": 4.4,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 585,
+  "displayName": {
+    "text": "鍋HoMe即享鍋",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Hot pot & ice creams offered in a compact, unpretentious restaurant with tabletop stoves.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJNfWwdpqpQjQRLmhpS1LGEzU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKSFVETXpTM3BJUzNCbGJqUkNVUzFDZFRSSE5tYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "今天跟朋友去點了藥膳鍋跟麻辣豆腐鍋\n兩份都另外加點牛肉（培根與低脂）\n總花費400多元（以台北來算不貴）\n11:45抵達就我們一桌，但很快都滿了\n佐料、白飯、紅茶、冰淇淋都自取\n中規中矩的小火鍋店（沒亮點就是了）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天跟朋友去點了藥膳鍋跟麻辣豆腐鍋\n兩份都另外加點牛肉（培根與低脂）\n總花費400多元（以台北來算不貴）\n11:45抵達就我們一桌，但很快都滿了\n佐料、白飯、紅茶、冰淇淋都自取\n中規中矩的小火鍋店（沒亮點就是了）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Eason Chou",
+        "uri": "https://www.google.com/maps/contrib/118193559199837838016/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU9uSWqtVoLbBewexomGNQah7MNlB_XMIcfhGQPG06pptRcYpWEuw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-08T07:15:37.534290804Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKSFVETXpTM3BJUzNCbGJqUkNVUzFDZFRSSE5tYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKSFVETXpTM3BJUzNCbGJqUkNVUzFDZFRSSE5tYxAB!2m1!1s0x3442a99a76b0f535:0x3513c6524b69682e"
+    },
+    {
+      "name": "places/ChIJNfWwdpqpQjQRLmhpS1LGEzU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKd2JtUnNjV1J2WTJRNGQxODFSa05KV2paNVpsRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 1,
+      "text": {
+        "text": "這麼好吃（超雷）的店一定要推薦給各位~~~\n老闆人超細心 讓我們體驗了如同鍋中的料理\n如果你也想邊吃邊流汗 超級歡迎您來~~\n食物只能說非常一般 這個價位有更好的選擇",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這麼好吃（超雷）的店一定要推薦給各位~~~\n老闆人超細心 讓我們體驗了如同鍋中的料理\n如果你也想邊吃邊流汗 超級歡迎您來~~\n食物只能說非常一般 這個價位有更好的選擇",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "大帥哥",
+        "uri": "https://www.google.com/maps/contrib/112692271804363505558/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZYKpZzOhm4WA47ddiaz-4E1jgEbi5htaWRtPKdRlUpyI0WYCCHg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-03-01T11:43:43.655691342Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKd2JtUnNjV1J2WTJRNGQxODFSa05KV2paNVpsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKd2JtUnNjV1J2WTJRNGQxODFSa05KV2paNVpsRRAB!2m1!1s0x3442a99a76b0f535:0x3513c6524b69682e"
+    },
+    {
+      "name": "places/ChIJNfWwdpqpQjQRLmhpS1LGEzU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tFemNWbDJXV2h0YzFJNU4yVnRORVJEY25BeU5YYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "這一帶比較少見能在中午營業、又主打平價路線的火鍋店，因此偶爾午休想吃得好一點、暖和一點時，這裡就成了不錯的選擇。環境算是乾淨明亮，用餐節奏也不會太匆忙，適合想稍微放鬆一下再回去工作的上班族。\n\n火鍋本身的口味與份量都屬於中規中矩，不會特別驚艷，但味道穩定、蔬菜與肉品也算新鮮，吃完有種「剛剛好」的滿足感。值得一提的是，店內提供白飯、飲料與冰淇淋無限續用，對食量較大或想慢慢吃的人來說算是加分項目。整體而言，如果想在附近找一間方便、溫暖、填飽肚子的選擇，這家火鍋店仍然挺合適的。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這一帶比較少見能在中午營業、又主打平價路線的火鍋店，因此偶爾午休想吃得好一點、暖和一點時，這裡就成了不錯的選擇。環境算是乾淨明亮，用餐節奏也不會太匆忙，適合想稍微放鬆一下再回去工作的上班族。\n\n火鍋本身的口味與份量都屬於中規中矩，不會特別驚艷，但味道穩定、蔬菜與肉品也算新鮮，吃完有種「剛剛好」的滿足感。值得一提的是，店內提供白飯、飲料與冰淇淋無限續用，對食量較大或想慢慢吃的人來說算是加分項目。整體而言，如果想在附近找一間方便、溫暖、填飽肚子的選擇，這家火鍋店仍然挺合適的。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "HenryNien",
+        "uri": "https://www.google.com/maps/contrib/110612189305607848393/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ4mB4rSNtUDzNQDNmCUYyYEaUjIvRI2h6AasnSumDbuvIqQw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-09T02:14:25.590332456Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tFemNWbDJXV2h0YzFJNU4yVnRORVJEY25BeU5YYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tFemNWbDJXV2h0YzFJNU4yVnRORVJEY25BeU5YYxAB!2m1!1s0x3442a99a76b0f535:0x3513c6524b69682e"
+    },
+    {
+      "name": "places/ChIJNfWwdpqpQjQRLmhpS1LGEzU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5bVpFNUNWRzFZVFZsZk5VaEdabmxoYkVONWFYYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 3,
+      "text": {
+        "text": "地點在台北地下街Y27出入口。\n用餐環境空間不大單鍋價格在200上下，若無加購其他品項單鍋的配料稍嫌少了些。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "地點在台北地下街Y27出入口。\n用餐環境空間不大單鍋價格在200上下，若無加購其他品項單鍋的配料稍嫌少了些。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黎廉",
+        "uri": "https://www.google.com/maps/contrib/107991780044093419051/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWkIqrUk-rQIQ-C8j3OaD6vC4qOq9HNn1xu8InbwjqhDBaoDNGv9w=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-08-26T09:04:32.657293999Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5bVpFNUNWRzFZVFZsZk5VaEdabmxoYkVONWFYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5bVpFNUNWRzFZVFZsZk5VaEdabmxoYkVONWFYYxAB!2m1!1s0x3442a99a76b0f535:0x3513c6524b69682e"
+    },
+    {
+      "name": "places/ChIJNfWwdpqpQjQRLmhpS1LGEzU/reviews/ChdDSUhNMG9nS0VJQ0FnTURJa0xlMW9nRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "鍋Home是一間讓人會想再回訪的火鍋店！店員服務非常親切，從進門就熱情招呼，點餐時也會耐心介紹菜單，讓人感受到賓至如歸的溫暖。\n\n火鍋湯頭選擇多元，食材新鮮，無論是肉品、海鮮還是蔬菜都給得大方，CP值非常高。尤其是套餐的份量實在，價格平易近人，對學生或小資族來說非常友善。（也有素食選擇）\n\n內用還提供免費的紅茶與冰淇淋，紅茶解膩剛剛好，冰淇淋則是飯後的完美收尾，讓整體用餐體驗更加加分。\n\n環境乾淨明亮，用餐氛圍舒適，即使人多也不覺得擁擠。推薦給想找好吃又不傷荷包的火鍋愛好者，鍋Home真的是物超所值的一家店！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "鍋Home是一間讓人會想再回訪的火鍋店！店員服務非常親切，從進門就熱情招呼，點餐時也會耐心介紹菜單，讓人感受到賓至如歸的溫暖。\n\n火鍋湯頭選擇多元，食材新鮮，無論是肉品、海鮮還是蔬菜都給得大方，CP值非常高。尤其是套餐的份量實在，價格平易近人，對學生或小資族來說非常友善。（也有素食選擇）\n\n內用還提供免費的紅茶與冰淇淋，紅茶解膩剛剛好，冰淇淋則是飯後的完美收尾，讓整體用餐體驗更加加分。\n\n環境乾淨明亮，用餐氛圍舒適，即使人多也不覺得擁擠。推薦給想找好吃又不傷荷包的火鍋愛好者，鍋Home真的是物超所值的一家店！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Tzujung Yang",
+        "uri": "https://www.google.com/maps/contrib/110522677617094023980/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLDClXUAbIkOtFk-1HM8EPl3GgkXCiwbqBK-l8MXytP1tUjo6F8=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-04-06T09:05:42.655779Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJa0xlMW9nRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJa0xlMW9nRRAB!2m1!1s0x3442a99a76b0f535:0x3513c6524b69682e"
+    }
+  ]
+}

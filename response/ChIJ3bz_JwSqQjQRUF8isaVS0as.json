@@ -1,0 +1,131 @@
+{
+  "id": "ChIJ3bz_JwSqQjQRUF8isaVS0as",
+  "types": [
+    "thai_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 8663 9389",
+  "formattedAddress": "116台灣臺北市文山區景東里景興路151號",
+  "location": {
+    "latitude": 24.993837600000003,
+    "longitude": 121.5448447
+  },
+  "rating": 4.1,
+  "websiteUri": "https://www.facebook.com/kangtaithaibistro/?locale2=zh_TW",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 519,
+  "displayName": {
+    "text": "康泰小館泰式料理",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ3bz_JwSqQjQRUF8isaVS0as/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOcGFYZE1jVnBUYkhGbmJYSmZRMDVIUjFKeFVuYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "這家泰式料理整體還不錯，味道偏向台灣人習慣的口味。店面空間比較小，座位不多，用餐時間人潮多會稍微擠一點，假日建議先訂位比較保險。\n份量不算多，我們三個人點了四道菜剛剛好，建議人多的話要多點幾樣才夠。餐點辣度偏溫和，他們標的小辣對我這種平常愛吃辣的人來說幾乎等於不辣，想要有辣感的朋友可以直接挑中辣以上。\n整體來說，如果想吃泰式但不想太刺激，這裡很合適；追求正宗辣勁或大份量的話可能會覺得稍微不過癮。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這家泰式料理整體還不錯，味道偏向台灣人習慣的口味。店面空間比較小，座位不多，用餐時間人潮多會稍微擠一點，假日建議先訂位比較保險。\n份量不算多，我們三個人點了四道菜剛剛好，建議人多的話要多點幾樣才夠。餐點辣度偏溫和，他們標的小辣對我這種平常愛吃辣的人來說幾乎等於不辣，想要有辣感的朋友可以直接挑中辣以上。\n整體來說，如果想吃泰式但不想太刺激，這裡很合適；追求正宗辣勁或大份量的話可能會覺得稍微不過癮。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "MOFAN WU",
+        "uri": "https://www.google.com/maps/contrib/108975714572406800795/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLXICwjYwrVK9Yt7W20lBOpIM50GKcDIQ2qhTAJR84QcZ7c1w=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-23T07:05:02.259083545Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOcGFYZE1jVnBUYkhGbmJYSmZRMDVIUjFKeFVuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOcGFYZE1jVnBUYkhGbmJYSmZRMDVIUjFKeFVuYxAB!2m1!1s0x3442aa0427ffbcdd:0xabd152a5b1225f50"
+    },
+    {
+      "name": "places/ChIJ3bz_JwSqQjQRUF8isaVS0as/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoeGRuUktTMk5UZWpac1UwTmtTRXd0U21STlFXYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "店內空間較擁擠\n餐點尚可但量少價位偏高\n果汁如能天然更棒",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店內空間較擁擠\n餐點尚可但量少價位偏高\n果汁如能天然更棒",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "蔡沛珅",
+        "uri": "https://www.google.com/maps/contrib/100855144718542383784/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLDoBVsxx-2Sn-2YwboThNN4Gai4dE_uAv4IOiwdjiAjUEioA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-11-12T12:44:25.158946214Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoeGRuUktTMk5UZWpac1UwTmtTRXd0U21STlFXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoeGRuUktTMk5UZWpac1UwTmtTRXd0U21STlFXYxAB!2m1!1s0x3442aa0427ffbcdd:0xabd152a5b1225f50"
+    },
+    {
+      "name": "places/ChIJ3bz_JwSqQjQRUF8isaVS0as/reviews/Ci9DQUlRQUNvZENodHljRjlvT2preVFsaFBXV2x0U0RRelpVRnpaRzgxY0RoVlluYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "不難吃的雲南菜，加上一些東南亞味，算是景美一帶還能吃的中式料理。味道十分特殊。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "不難吃的雲南菜，加上一些東南亞味，算是景美一帶還能吃的中式料理。味道十分特殊。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "美眉",
+        "uri": "https://www.google.com/maps/contrib/114269489037010499967/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKF-8glovz_3pBxNjUnQWW562LDbbRNPBC0g1l_xoVLsKJaww=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-22T18:05:54.737440649Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2preVFsaFBXV2x0U0RRelpVRnpaRzgxY0RoVlluYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2preVFsaFBXV2x0U0RRelpVRnpaRzgxY0RoVlluYxAB!2m1!1s0x3442aa0427ffbcdd:0xabd152a5b1225f50"
+    },
+    {
+      "name": "places/ChIJ3bz_JwSqQjQRUF8isaVS0as/reviews/ChZDSUhNMG9nS0VJQ0FnTURvazQ3X0lBEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "。鮮豔的黃色招牌在夜色中格外醒目，店內裝潢簡潔樸實，營造出輕鬆自在的用餐氛圍。儘管空間不算寬敞，但絡繹不絕的食客證明了其料理的魅力。\n招牌菜色如綠咖哩雞、泰式奶茶和月亮蝦餅等都表現出色。綠咖哩的椰奶香氣濃郁，辣度適中，搭配軟嫩的雞肉和入味的蔬菜，令人食指大動。泰式奶茶茶香濃郁，甜度恰到好處，是解辣的最佳選擇。月亮蝦餅外酥內Q彈，沾上特製梅醬，酸甜滋味更添風味",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "。鮮豔的黃色招牌在夜色中格外醒目，店內裝潢簡潔樸實，營造出輕鬆自在的用餐氛圍。儘管空間不算寬敞，但絡繹不絕的食客證明了其料理的魅力。\n招牌菜色如綠咖哩雞、泰式奶茶和月亮蝦餅等都表現出色。綠咖哩的椰奶香氣濃郁，辣度適中，搭配軟嫩的雞肉和入味的蔬菜，令人食指大動。泰式奶茶茶香濃郁，甜度恰到好處，是解辣的最佳選擇。月亮蝦餅外酥內Q彈，沾上特製梅醬，酸甜滋味更添風味",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "要命的小方",
+        "uri": "https://www.google.com/maps/contrib/101145268547300274697/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6ZnUuibWApWLAwydzodaIaWbzJF-iS5aRts_l1IAtbyQVIVHNpw=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-04-28T12:49:54.711269Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvazQ3X0lBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvazQ3X0lBEAE!2m1!1s0x3442aa0427ffbcdd:0xabd152a5b1225f50"
+    },
+    {
+      "name": "places/ChIJ3bz_JwSqQjQRUF8isaVS0as/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoeVQwUmtjV3RVVFZKWldsZGpaSHBzYms1ZmExRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "唯一缺點座位太擠\n大薄片又薄又脆\n生鮮蝦q彈\n酸辣海鮮湯酸的過癮\n炒河粉口味適中\n椒麻豆腐有一點點不像椒麻",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "唯一缺點座位太擠\n大薄片又薄又脆\n生鮮蝦q彈\n酸辣海鮮湯酸的過癮\n炒河粉口味適中\n椒麻豆腐有一點點不像椒麻",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張理",
+        "uri": "https://www.google.com/maps/contrib/105125192646693337743/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUoRNaHis5-wbFYZalFMcicFk0vstFg8MctNcltzMRFubR3dZml=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-08-04T12:57:05.913749155Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoeVQwUmtjV3RVVFZKWldsZGpaSHBzYms1ZmExRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoeVQwUmtjV3RVVFZKWldsZGpaSHBzYms1ZmExRRAB!2m1!1s0x3442aa0427ffbcdd:0xabd152a5b1225f50"
+    }
+  ]
+}

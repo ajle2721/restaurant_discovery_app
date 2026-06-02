@@ -1,0 +1,135 @@
+{
+  "id": "ChIJDZR5S9CrQjQRo2E7h0QiaFY",
+  "types": [
+    "coffee_shop",
+    "brunch_restaurant",
+    "cafe",
+    "food_store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2771 8281",
+  "formattedAddress": "106台灣臺北市大安區仁愛里仁愛路四段91巷23號",
+  "location": {
+    "latitude": 25.0386679,
+    "longitude": 121.5467191
+  },
+  "rating": 4.3,
+  "websiteUri": "https://facebook.com/mycrosscafe",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1213,
+  "displayName": {
+    "text": "Cross Cafe克勞斯咖啡店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJDZR5S9CrQjQRo2E7h0QiaFY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkclNsWTFlVUl0Y2kxWFdEQlhOazR4Ym1OcU1IYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "每道食物都好吃，比較特別的是拿獎的牛肉麵。\n第一口帶著咖啡味，於傳統的牛肉麵味道不一樣。\n\n再繼續慢慢品嚐湯頭，逐漸接受新口味之後，\n還蠻喜歡咖啡口味的牛肉麵，非常香。\n\n甜點、飲料都一流！👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "每道食物都好吃，比較特別的是拿獎的牛肉麵。\n第一口帶著咖啡味，於傳統的牛肉麵味道不一樣。\n\n再繼續慢慢品嚐湯頭，逐漸接受新口味之後，\n還蠻喜歡咖啡口味的牛肉麵，非常香。\n\n甜點、飲料都一流！👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ivy Ngu",
+        "uri": "https://www.google.com/maps/contrib/102803721269229054270/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWgJU7jmk-8dsz1lAagbM9zwGOXYj0B5StqmuT8q8H7Mg2280ER=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-15T23:33:55.514361773Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkclNsWTFlVUl0Y2kxWFdEQlhOazR4Ym1OcU1IYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkclNsWTFlVUl0Y2kxWFdEQlhOazR4Ym1OcU1IYxAB!2m1!1s0x3442abd04b79940d:0x56682244873b61a3"
+    },
+    {
+      "name": "places/ChIJDZR5S9CrQjQRo2E7h0QiaFY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21STFJVdFZjbXB1Y2poMmIyaElNRk4wVDB0SGRGRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "一間提供各式餐點的咖啡廳（早午餐，義大利麵，排餐，拉麵？，甜點）等等...\n進去的時候共3組客人，出餐速度偏慢，然後我們的餐點還去了別桌...但店員第一時間也拿了自製月餅出來道歉覺得沒有問題～\n\n餐點就是簡單擺盤該有的都有但不豐富，口味也跟預想的一樣！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一間提供各式餐點的咖啡廳（早午餐，義大利麵，排餐，拉麵？，甜點）等等...\n進去的時候共3組客人，出餐速度偏慢，然後我們的餐點還去了別桌...但店員第一時間也拿了自製月餅出來道歉覺得沒有問題～\n\n餐點就是簡單擺盤該有的都有但不豐富，口味也跟預想的一樣！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "EJ Lin",
+        "uri": "https://www.google.com/maps/contrib/101193802653841410962/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWNMhv7NkIFQsXFeQpwvym59IZ-4C2NUybGBQJkxh4CurORLfuPpg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-09-21T14:58:10.429383657Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21STFJVdFZjbXB1Y2poMmIyaElNRk4wVDB0SGRGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21STFJVdFZjbXB1Y2poMmIyaElNRk4wVDB0SGRGRRAB!2m1!1s0x3442abd04b79940d:0x56682244873b61a3"
+    },
+    {
+      "name": "places/ChIJDZR5S9CrQjQRo2E7h0QiaFY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taeGFtTm5ja3cwVm10NmJXcFNSSFZCZG1rMWJFRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "跟朋友聚餐\n來到這家咖啡廳\n\n座位跟座位之間距離不會太近\n口味一般般、甜點尚可\n\n算是附近經濟實惠且不限時的咖啡廳\n\n☑️野菇松露燉飯\n☑️燻鮭魚酪梨早午餐\n☑️珍珠奶茶鬆餅",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "跟朋友聚餐\n來到這家咖啡廳\n\n座位跟座位之間距離不會太近\n口味一般般、甜點尚可\n\n算是附近經濟實惠且不限時的咖啡廳\n\n☑️野菇松露燉飯\n☑️燻鮭魚酪梨早午餐\n☑️珍珠奶茶鬆餅",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "May- ̫-",
+        "uri": "https://www.google.com/maps/contrib/114820254531660423000/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-7S60gfalMRzFPVP__zqYPxXbjVkTylgBWVHWIS2pu8XHHKeC=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-08-31T13:56:23.025214369Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taeGFtTm5ja3cwVm10NmJXcFNSSFZCZG1rMWJFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taeGFtTm5ja3cwVm10NmJXcFNSSFZCZG1rMWJFRRAB!2m1!1s0x3442abd04b79940d:0x56682244873b61a3"
+    },
+    {
+      "name": "places/ChIJDZR5S9CrQjQRo2E7h0QiaFY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poUGMzZzVNV3BEWm5KRlluVnRaV1ZvYlVOUldtYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "環境清幽，空間寬敞，冷氣超級涼。甜點🍮超級好吃，價格也不太貴。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境清幽，空間寬敞，冷氣超級涼。甜點🍮超級好吃，價格也不太貴。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "sally yu",
+        "uri": "https://www.google.com/maps/contrib/107178375917915594723/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKD2a1qQPNBpdsIw6qtrQws7dGQdsCvES_mhzxPVm474Ht7Zw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-06T07:17:44.893202924Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poUGMzZzVNV3BEWm5KRlluVnRaV1ZvYlVOUldtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poUGMzZzVNV3BEWm5KRlluVnRaV1ZvYlVOUldtYxAB!2m1!1s0x3442abd04b79940d:0x56682244873b61a3"
+    },
+    {
+      "name": "places/ChIJDZR5S9CrQjQRo2E7h0QiaFY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tacWVVbENlRkp6TFhkUVdqVndMVFJ5ZGxsUlNXYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "健康又好吃😋\n很喜歡醬料的調味\n服務親切\n環境舒適\n下次再來吃得獎牛肉麵🏆",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "健康又好吃😋\n很喜歡醬料的調味\n服務親切\n環境舒適\n下次再來吃得獎牛肉麵🏆",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Doris Hui",
+        "uri": "https://www.google.com/maps/contrib/104545358745667468617/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWzj3jxafdCI5ZJDR3WFXUxLoa4RMAScMdg4VS7SL-KEjr7_uT5g=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-23T06:35:57.348506036Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tacWVVbENlRkp6TFhkUVdqVndMVFJ5ZGxsUlNXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tacWVVbENlRkp6TFhkUVdqVndMVFJ5ZGxsUlNXYxAB!2m1!1s0x3442abd04b79940d:0x56682244873b61a3"
+    }
+  ]
+}

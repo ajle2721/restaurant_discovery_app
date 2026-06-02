@@ -1,0 +1,130 @@
+{
+  "id": "ChIJGUaW25KuQjQRdK7ybzQYIEo",
+  "types": [
+    "breakfast_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2821 5708",
+  "formattedAddress": "112台灣臺北市北投區石牌里致遠一路一段116號",
+  "location": {
+    "latitude": 25.1100088,
+    "longitude": 121.51514759999998
+  },
+  "rating": 4.1,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 408,
+  "displayName": {
+    "text": "早餐廚房",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJGUaW25KuQjQRdK7ybzQYIEo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKbmMySnpTVW8xWW1WaWRURnpZMUpKVG1GbGVVRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "在地社區早餐店，餐點好吃，價格實惠，上餐速度快，用餐環境也很不錯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在地社區早餐店，餐點好吃，價格實惠，上餐速度快，用餐環境也很不錯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳伯烱",
+        "uri": "https://www.google.com/maps/contrib/108313230644332994065/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIx7ScM3jw3fs9e7Is-9utNGCJw0_J8CkVK_8ySFiFZ6fVl04pe=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-03-09T01:06:14.328931865Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKbmMySnpTVW8xWW1WaWRURnpZMUpKVG1GbGVVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKbmMySnpTVW8xWW1WaWRURnpZMUpKVG1GbGVVRRAB!2m1!1s0x3442ae92db964619:0x4a2018346ff2ae74"
+    },
+    {
+      "name": "places/ChIJGUaW25KuQjQRdK7ybzQYIEo/reviews/ChdDSUhNMG9nS0VJQ0FnTURRMThtaHRBRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 3,
+      "text": {
+        "text": "每次經過人都很多……今天第一次買\n點了肉排蛋吐司 但線上點餐沒有成功\n於是就到櫃檯 付款結帳 想說是50元\n店員說是60元，並解釋菜單上肉排是豬絞肉  黑胡椒肉排才是一般肉排 當下慶幸我沒有線上點餐成功 因為我要點的是‘ㄧ般肉排‘’’ 吃起來也沒黑胡椒啊 跟一般肉排無差異@@\n吃早餐第一次碰到這種情況～\n餐點蠻普通的\n就是ㄧ般早餐店會吃到的那種\n個人是不會再回訪～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "每次經過人都很多……今天第一次買\n點了肉排蛋吐司 但線上點餐沒有成功\n於是就到櫃檯 付款結帳 想說是50元\n店員說是60元，並解釋菜單上肉排是豬絞肉  黑胡椒肉排才是一般肉排 當下慶幸我沒有線上點餐成功 因為我要點的是‘ㄧ般肉排‘’’ 吃起來也沒黑胡椒啊 跟一般肉排無差異@@\n吃早餐第一次碰到這種情況～\n餐點蠻普通的\n就是ㄧ般早餐店會吃到的那種\n個人是不會再回訪～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jennifer",
+        "uri": "https://www.google.com/maps/contrib/103972840051397729795/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJYZNh12gjzv1NtlPXR-Yh4HHY9fSYEPOFjXeJWeydkVeF18WJ2=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-03-15T10:45:09.916670Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRMThtaHRBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRMThtaHRBRRAB!2m1!1s0x3442ae92db964619:0x4a2018346ff2ae74"
+    },
+    {
+      "name": "places/ChIJGUaW25KuQjQRdK7ybzQYIEo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xRMFZHTklRbFV5WmsxVGJHRkRXWGxVUm5SSGFtYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 1,
+      "text": {
+        "text": "今天的早餐吃了一肚子的氣，如果店家不歡迎人家LINE pay或者街口付款的話，就不要設這個方式。 之前我是老客戶了，都是付現金，態度很好，最近三次用了LINE  PAY，態度完全不一樣了，如果店家不喜歡這種付款方式，你就不要設LINE PAY今天站櫃臺不曉得是不是老闆娘？已經第三次了，用現金付款態度很好，用LINE  PAY 付款就不耐煩，  第一次以為是店裡忙，第二次又是一樣，今天第三次了，因為第一次使用街口，不大懂得處理，結果我以為付了兩次款，就問了老闆娘一下，結果口氣很差，轉頭就走，都是老鄰居，老客戶了，所以在這邊給你評論，是絕對不會再去的店，那天如果有人PO在石牌人社團，那對妳們一定有損，現在同性質的早餐店很多，客戶也有很多選擇，只是因為老店了老鄰居了，所以一再光顧，也不直接PO社團，態度真的要改進！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天的早餐吃了一肚子的氣，如果店家不歡迎人家LINE pay或者街口付款的話，就不要設這個方式。 之前我是老客戶了，都是付現金，態度很好，最近三次用了LINE  PAY，態度完全不一樣了，如果店家不喜歡這種付款方式，你就不要設LINE PAY今天站櫃臺不曉得是不是老闆娘？已經第三次了，用現金付款態度很好，用LINE  PAY 付款就不耐煩，  第一次以為是店裡忙，第二次又是一樣，今天第三次了，因為第一次使用街口，不大懂得處理，結果我以為付了兩次款，就問了老闆娘一下，結果口氣很差，轉頭就走，都是老鄰居，老客戶了，所以在這邊給你評論，是絕對不會再去的店，那天如果有人PO在石牌人社團，那對妳們一定有損，現在同性質的早餐店很多，客戶也有很多選擇，只是因為老店了老鄰居了，所以一再光顧，也不直接PO社團，態度真的要改進！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "蔡淑芳",
+        "uri": "https://www.google.com/maps/contrib/112495426821775101601/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIrTcNTINth-1dHvVMjdy-M-Tm8LI0GFzMhPIDBqfme2Tmyhw=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-28T03:48:06.796754532Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xRMFZHTklRbFV5WmsxVGJHRkRXWGxVUm5SSGFtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xRMFZHTklRbFV5WmsxVGJHRkRXWGxVUm5SSGFtYxAB!2m1!1s0x3442ae92db964619:0x4a2018346ff2ae74"
+    },
+    {
+      "name": "places/ChIJGUaW25KuQjQRdK7ybzQYIEo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkbFJEVnlOemh2U0dGb1oyRjBiVzlmVjBWNWRIYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "還不錯，捲餅正常、火腿蛋吐司也正常，鐵板麵是粗麵體還行。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "還不錯，捲餅正常、火腿蛋吐司也正常，鐵板麵是粗麵體還行。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jason Wu",
+        "uri": "https://www.google.com/maps/contrib/109915680100302235171/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJrPfj0uC1MvxdnGKJqEXATI3Ekh6p-cFWsdRg9I9VT68JsnQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-03-08T11:47:51.730309899Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkbFJEVnlOemh2U0dGb1oyRjBiVzlmVjBWNWRIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkbFJEVnlOemh2U0dGb1oyRjBiVzlmVjBWNWRIYxAB!2m1!1s0x3442ae92db964619:0x4a2018346ff2ae74"
+    },
+    {
+      "name": "places/ChIJGUaW25KuQjQRdK7ybzQYIEo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwalQxUnpWRFpIVUhOd2QweHhNalpYVmpSYWVrRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 1,
+      "text": {
+        "text": "線上點餐過了40分鐘去拿 被告知還要10分鐘 後來第二趟過了大概15分去拿 我報號碼 看都不看直接指著外面台子上的餐點 我還要一個一個看哪一樣是我的 (買了好幾年 態度一次比一次還差🙄🙄🙄)",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "線上點餐過了40分鐘去拿 被告知還要10分鐘 後來第二趟過了大概15分去拿 我報號碼 看都不看直接指著外面台子上的餐點 我還要一個一個看哪一樣是我的 (買了好幾年 態度一次比一次還差🙄🙄🙄)",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Doreen",
+        "uri": "https://www.google.com/maps/contrib/108194208233820377200/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJg8Dv0ZI5BxS50Sny7wHLmYMOoWINXnavKrf6tpDFgKHAejA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-25T04:54:11.716195391Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwalQxUnpWRFpIVUhOd2QweHhNalpYVmpSYWVrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwalQxUnpWRFpIVUhOd2QweHhNalpYVmpSYWVrRRAB!2m1!1s0x3442ae92db964619:0x4a2018346ff2ae74"
+    }
+  ]
+}

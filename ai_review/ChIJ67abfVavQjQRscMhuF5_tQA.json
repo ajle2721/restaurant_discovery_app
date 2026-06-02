@@ -1,31 +1,50 @@
-{
-    " child_seat available": {
-        "result": "Yes",
-        "evidence": "User provided info",
-        "confidence": 1.0
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "User provided info",
-        "confidence": 1.0
-    },
-    "Kids menu available": {
-        "result": "Yes",
-        "evidence": "小朋友番茄麵（附飲料） $270",
-        "confidence": 1.0
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "環境是乾淨的，空間是喧嘩的，可能在傳統市場+科教館附近，有這樣的店存在是難得的，所以備受盛譽",
-        "confidence": 1.0
-    },
-    "parent_friendly_score": 5,
-    "parent_friendly_level": "高",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "小朋友番茄麵（附飲料） $270",
-        "環境是乾淨的，空間是喧嘩的，可能在傳統市場+科教館附近，有這樣的店存在是難得的，所以備受盛譽"
-    ],
-    "generated_summary": "店內提供小朋友番茄麵等兒童餐點，環境氣氛較為喧嘩且鄰近科教館，適合帶小孩前往用餐。",
-    "card_summary": "店內提供小朋友番茄麵等兒童餐點，環境氣氛較為喧嘩且鄰近科教館，適合帶小孩前往用餐。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  "User provided info",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  "User provided info",
+                             "confidence":  1
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  "小朋友番茄麵（附飲料） $270",
+                                "confidence":  1
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Unknown",
+                               "evidence":  "環境是乾淨的，空間是喧嘩的，可能在傳統市場+科教館附近，有這樣的店存在是難得的，所以備受盛譽",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。",
+    "card_summary":  "",
+    "generated_signals":  [
+
+                          ],
+    "parent_friendly_score":  0,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

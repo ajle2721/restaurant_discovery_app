@@ -1,0 +1,50 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "No",
+                                  "evidence":  "使用者回報與人工校正：外帶型或座位極少的精緻外帶/街邊咖啡店，無提供兒童椅",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "Kids menu available":  {
+                                "result":  "No",
+                                "evidence":  "使用者回報與人工校正：無提供兒童餐點",
+                                "confidence":  1
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "No",
+                               "evidence":  "使用者回報與人工校正：不具備親子硬體，不適合帶小孩用餐",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "No",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "No",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，特調咖啡與各式飲品口感精緻。環境較為安靜，帶小孩需留意，適合帶孩子前來用餐。",
+    "card_summary":  "",
+    "generated_signals":  [
+
+                          ],
+    "parent_friendly_score":  -2,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
+}

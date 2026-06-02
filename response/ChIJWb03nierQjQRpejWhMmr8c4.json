@@ -1,0 +1,138 @@
+{
+  "id": "ChIJWb03nierQjQRpejWhMmr8c4",
+  "types": [
+    "restaurant",
+    "bistro",
+    "cafe",
+    "meal_delivery",
+    "food_delivery",
+    "food_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2715 5995",
+  "formattedAddress": "105台灣臺北市松山區民有里敦化北路222巷34號1樓",
+  "location": {
+    "latitude": 25.0598219,
+    "longitude": 121.54723899999999
+  },
+  "rating": 4.6,
+  "websiteUri": "https://www.instagram.com/pique.2015/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 347,
+  "displayName": {
+    "text": "野餐廚房 PIQUE NIQUE｜台北義大利麵・燉飯・咖啡",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJWb03nierQjQRpejWhMmr8c4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5eldXVlRSV1JCZUVGbFVHZExTazltWWtSUU4zYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第一次來訪，多次路過一直沒有來吃，感覺是有點太晚XD 直接點了招牌的青醬雞腿燉飯，以菜單的推薦似乎雞腿是拿手菜，雖然是基本款，不過要弄到皮香肉嫩也需要功夫，上菜我認為不會等太久，玉米濃湯上完大概十分鐘內就上主餐了，不得不說你們的青醬真的好吃，義大利麵或燉飯我吃過不少家青醬吃到後期都會有點膩口，而你們在提供足夠份量的情況下會想一直吃，個人有加小辣提味，雞腿也是相當不錯，皮不會太厚肉也嫩，煎的很好，紅茶用的茶包應該也算及格的還行，服務還不錯很積極在招呼客人，餐點部分雖然雞腿這種東西上限比較一般但處理的不錯，反而是青醬口味滿有鑑別度的，也許下次路過還會再來！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次來訪，多次路過一直沒有來吃，感覺是有點太晚XD 直接點了招牌的青醬雞腿燉飯，以菜單的推薦似乎雞腿是拿手菜，雖然是基本款，不過要弄到皮香肉嫩也需要功夫，上菜我認為不會等太久，玉米濃湯上完大概十分鐘內就上主餐了，不得不說你們的青醬真的好吃，義大利麵或燉飯我吃過不少家青醬吃到後期都會有點膩口，而你們在提供足夠份量的情況下會想一直吃，個人有加小辣提味，雞腿也是相當不錯，皮不會太厚肉也嫩，煎的很好，紅茶用的茶包應該也算及格的還行，服務還不錯很積極在招呼客人，餐點部分雖然雞腿這種東西上限比較一般但處理的不錯，反而是青醬口味滿有鑑別度的，也許下次路過還會再來！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "塵埃一頁",
+        "uri": "https://www.google.com/maps/contrib/107343793121878463332/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIRw3uYgKPLp3rn9WAl6pS8tAk7g6V6isaWAuqw7nsF4rjNFw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-31T04:13:56.767072301Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5eldXVlRSV1JCZUVGbFVHZExTazltWWtSUU4zYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5eldXVlRSV1JCZUVGbFVHZExTazltWWtSUU4zYxAB!2m1!1s0x3442ab279e37bd59:0xcef1abc984d6e8a5"
+    },
+    {
+      "name": "places/ChIJWb03nierQjQRpejWhMmr8c4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25jMVNtWjFkRkpJTFRGbE1uQTBNWEYwWVRKWVlsRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "週日晚上很多餐廳未營業，就嚐嚐一下，基本上義大利麵紅醬及青醬口味都不錯，麵條處理的很好，雞腿肉及雞腿排也不差，唯有紅醬稍微偏甜，值得贊許的餐廳！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "週日晚上很多餐廳未營業，就嚐嚐一下，基本上義大利麵紅醬及青醬口味都不錯，麵條處理的很好，雞腿肉及雞腿排也不差，唯有紅醬稍微偏甜，值得贊許的餐廳！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "萬瀾書屋",
+        "uri": "https://www.google.com/maps/contrib/117094215053703692084/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU2eyD4spzwz-XcBjTO-LbQ3_-9Kid-sUnGoEQeUxx_pH6fx8UX=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-10T02:37:01.851393597Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25jMVNtWjFkRkpJTFRGbE1uQTBNWEYwWVRKWVlsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25jMVNtWjFkRkpJTFRGbE1uQTBNWEYwWVRKWVlsRRAB!2m1!1s0x3442ab279e37bd59:0xcef1abc984d6e8a5"
+    },
+    {
+      "name": "places/ChIJWb03nierQjQRpejWhMmr8c4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGSE1teExNV2hRT0c5d1NEbEZTekJtVWxaNFgzYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "地方小小的，義大利麵清炒油放很少，口味也較清淡，感覺是可以天天吃的餐廳，營業時段對睡過用餐時段的人很友善，整體價格也不貴。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "地方小小的，義大利麵清炒油放很少，口味也較清淡，感覺是可以天天吃的餐廳，營業時段對睡過用餐時段的人很友善，整體價格也不貴。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "tone hector",
+        "uri": "https://www.google.com/maps/contrib/114443572853817007313/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXhK1CbnO7i-ZeoXGl5Nh8Pz-SxMk2TFY688bp8AB4vBi-FL61h9w=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-11-02T06:43:25.400883969Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGSE1teExNV2hRT0c5d1NEbEZTekJtVWxaNFgzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGSE1teExNV2hRT0c5d1NEbEZTekJtVWxaNFgzYxAB!2m1!1s0x3442ab279e37bd59:0xcef1abc984d6e8a5"
+    },
+    {
+      "name": "places/ChIJWb03nierQjQRpejWhMmr8c4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tReFJHUXdZbmxUYzI5dFlUZEhla0pvTUhOc09GRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "🐶寵物友善餐廳🐶\n\n臨時找到的餐廳～\n店員都很親切、「炸雞」很好吃👍\n狗狗可落地、需牽繩喲🥰\n\n附近很好停車🅿️\n·民有市場地下停車場\n·中山國中地下停車場\n假日位子都蠻多的～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "🐶寵物友善餐廳🐶\n\n臨時找到的餐廳～\n店員都很親切、「炸雞」很好吃👍\n狗狗可落地、需牽繩喲🥰\n\n附近很好停車🅿️\n·民有市場地下停車場\n·中山國中地下停車場\n假日位子都蠻多的～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Tsai-Li Lee",
+        "uri": "https://www.google.com/maps/contrib/105909530589297204364/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUOXHE-CZVXHuesog-PuB9su4vCSjJTpLyBGJRtg9eWLy6s_lZJ5A=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-30T10:35:01.322516482Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tReFJHUXdZbmxUYzI5dFlUZEhla0pvTUhOc09GRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tReFJHUXdZbmxUYzI5dFlUZEhla0pvTUhOc09GRRAB!2m1!1s0x3442ab279e37bd59:0xcef1abc984d6e8a5"
+    },
+    {
+      "name": "places/ChIJWb03nierQjQRpejWhMmr8c4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5aGNYTXhjR2wwUlVwRVVqVTVXWGRFYUhKeFRYYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "本來要去吃黃金麵線突然被吸引就進來。\n不敢相信這麼一大塊雞腿排的麵這樣只要260？青醬也很好吃味道一切都非常剛好，麵量我個人覺得算多，加套餐飲料+湯吃很飽也才300初頭多，在台北市區真得算是CP值很高了😍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "本來要去吃黃金麵線突然被吸引就進來。\n不敢相信這麼一大塊雞腿排的麵這樣只要260？青醬也很好吃味道一切都非常剛好，麵量我個人覺得算多，加套餐飲料+湯吃很飽也才300初頭多，在台北市區真得算是CP值很高了😍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "YI CHEN CHEN",
+        "uri": "https://www.google.com/maps/contrib/113444789711898487445/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLv0T-yAKU0cAILMAnvZo4HpPofKFnlk2Jis1WoRWvoK0Wt9A=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-13T08:55:06.866683255Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5aGNYTXhjR2wwUlVwRVVqVTVXWGRFYUhKeFRYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5aGNYTXhjR2wwUlVwRVVqVTVXWGRFYUhKeFRYYxAB!2m1!1s0x3442ab279e37bd59:0xcef1abc984d6e8a5"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

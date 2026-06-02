@@ -1,31 +1,51 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "今天跟朋友約好帶小孩聚餐來吃韓式，剛好也有小包廂，感覺慶生也很適合😆",
-        "confidence": 1.0
-    },
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "今天跟朋友約好帶小孩聚餐來吃韓式，剛好也有小包廂，感覺慶生也很適合😆",
-        "小孩的矽膠湯匙請要定期更換，沒洗乾淨日積月累都會卡食物汙垢，藍色矽膠湯匙周圍都是辣醬的顏色。"
-    ],
-    "generated_summary": "店內設有包廂空間，適合親子聚餐或慶生，但有評論指出兒童餐具的清潔狀況需加強。",
-    "card_summary": "環境舒適，是可以考慮的親子聚餐地點。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "今天跟朋友約好帶小孩聚餐來吃韓式，剛好也有小包廂，感覺慶生也很適合😆",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Yes",
+                             "evidence":  "最驚喜的是店內竟然還有包廂空間！在松山區這種寸土寸金的地方，能跟朋友在獨立空間裡一邊吃著道地飯捲一邊聊天，隱私感滿分，完全不用擔心被打擾。",
+                             "confidence":  0.9
+                         },
+    "has_tableware":  {
+                          "result":  "Yes",
+                          "evidence":  "小孩的矽膠湯匙請要定期更換",
+                          "confidence":  0.8
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，店內用餐空間規劃寬敞，活動動線舒適。店內貼心備有兒童專用餐具。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "今天跟朋友約好帶小孩聚餐來吃韓式",
+                              "小孩的矽膠湯匙請要定期更換"
+                          ],
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "中",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

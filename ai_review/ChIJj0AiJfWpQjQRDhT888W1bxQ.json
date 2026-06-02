@@ -1,0 +1,53 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "Yes",
+                                  "evidence":  "使用者回報與人工校正：成真咖啡分店均提供兒童餐椅",
+                                  "confidence":  1.0
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "座位寬敞且不限時",
+                             "confidence":  0.8
+                         },
+    "Kids menu available":  {
+                                "result":  "No",
+                                "evidence":  "使用者回報與人工校正：舒芙蕾厚鬆餅是孩子的最愛。無兒童專屬套餐，部分百貨店（如SOGO店）可使用商場尿布台",
+                                "confidence":  1.0
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "下午通常會比較熱鬧",
+                               "confidence":  0.8
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Yes",
+                          "evidence":  "使用者回報與人工校正：成真咖啡分店均貼心提供兒童餐具",
+                          "confidence":  1.0
+                      },
+    "has_diaper_table":  {
+                             "result":  "No",
+                             "evidence":  "使用者回報與人工校正：一般門市無設置尿布台，部分百貨店可使用商場內公共設施",
+                             "confidence":  1.0
+                         },
+    "generated_summary":  "根據評論分析，服務人員接待熱忱、服務態度良好。店內貼心備有兒童座椅與專用餐具。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "使用者回報與人工校正：成真咖啡分店均提供兒童餐椅",
+                              "座位寬敞且不限時",
+                              "下午通常會比較熱鬧",
+                              "使用者回報與人工校正：成真咖啡分店均貼心提供兒童餐具"
+                          ],
+    "parent_friendly_score":  5,
+    "parent_friendly_level":  "高",
+    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
+}

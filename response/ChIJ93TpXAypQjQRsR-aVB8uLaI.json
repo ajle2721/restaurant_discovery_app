@@ -1,0 +1,131 @@
+{
+  "id": "ChIJ93TpXAypQjQRsR-aVB8uLaI",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2361 1539",
+  "formattedAddress": "100台灣臺北市中正區光復里延平南路19號",
+  "location": {
+    "latitude": 25.0457656,
+    "longitude": 121.5107683
+  },
+  "rating": 4.1,
+  "websiteUri": "https://www.facebook.com/%E6%85%B6%E4%B8%89%E8%99%9F%E7%83%A4%E8%82%89%E5%80%89%E5%BA%AB%E6%97%A9%E5%8D%88%E9%A4%90-1518873891534676/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1365,
+  "displayName": {
+    "text": "慶三號-台北延平店 營業到13:00",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ93TpXAypQjQRsR-aVB8uLaI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OVlJtaGhPR290VEZSdVQzUTNZakZOYW05V09GRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "如果喜歡的話不妨點個讚讓我知道謝謝：）\n這次跟著朋友來到台北逛街\n看到網路上介紹 第一次來到這裡用餐\n\n店內使用QR碼點餐 用餐完需回收餐具\n跟朋友分別點了炭烤吐司、沙威瑪、蛋餅\n、炸物、飲料等 店家推薦餐點嚐鮮一下\n\n20字短評挑戰：\n種類多樣 出餐快速\n健康美味 輕爽不膩\n值得👍。\n\n大家來到台北逛街 可以順便來品嚐看看\n第一次體驗很不錯 有機會會再次回訪\n地點就在西門町附近～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "如果喜歡的話不妨點個讚讓我知道謝謝：）\n這次跟著朋友來到台北逛街\n看到網路上介紹 第一次來到這裡用餐\n\n店內使用QR碼點餐 用餐完需回收餐具\n跟朋友分別點了炭烤吐司、沙威瑪、蛋餅\n、炸物、飲料等 店家推薦餐點嚐鮮一下\n\n20字短評挑戰：\n種類多樣 出餐快速\n健康美味 輕爽不膩\n值得👍。\n\n大家來到台北逛街 可以順便來品嚐看看\n第一次體驗很不錯 有機會會再次回訪\n地點就在西門町附近～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "鍾育廷",
+        "uri": "https://www.google.com/maps/contrib/118154583082790357101/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXHT0LnN7LJqCyJarGp8aLhbvOmW_7eN240OVPcweggfxsJgEOq=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-09T03:28:53.508984950Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OVlJtaGhPR290VEZSdVQzUTNZakZOYW05V09GRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OVlJtaGhPR290VEZSdVQzUTNZakZOYW05V09GRRAB!2m1!1s0x3442a90c5ce974f7:0xa22d2e1f549a1fb1"
+    },
+    {
+      "name": "places/ChIJ93TpXAypQjQRsR-aVB8uLaI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GYU1XTklTRXBEVVROQ2JpMVNhSGhOUlRaek5WRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 1,
+      "text": {
+        "text": "紙袋選得很爛，外帶來吃油到爆炸。\n\n不知道為什麼生意好到爆炸。\n\n雞腿排筋多到爆炸有夠難咬。\n\n絕對不會回訪的爛店！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "紙袋選得很爛，外帶來吃油到爆炸。\n\n不知道為什麼生意好到爆炸。\n\n雞腿排筋多到爆炸有夠難咬。\n\n絕對不會回訪的爛店！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "落花純雪",
+        "uri": "https://www.google.com/maps/contrib/100249547901819405252/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUn59IrXyP8KAA53UZAUn6Mcn6loYo3CrG4jVZPZ9-5Bf_XAV4=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-10T23:28:33.425506026Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GYU1XTklTRXBEVVROQ2JpMVNhSGhOUlRaek5WRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GYU1XTklTRXBEVVROQ2JpMVNhSGhOUlRaek5WRRAB!2m1!1s0x3442a90c5ce974f7:0xa22d2e1f549a1fb1"
+    },
+    {
+      "name": "places/ChIJ93TpXAypQjQRsR-aVB8uLaI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21veVh6aEVZVUpXU21KT2R6Y3RibEF5ZWs5b05rRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "其實餐點還不錯，但是那個慶三大總匯裡面冰的薯泥蛋和不熱的碳烤吐司與牛五花就比比而言口感怪怪的，冬瓜仙草還不錯喝！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "其實餐點還不錯，但是那個慶三大總匯裡面冰的薯泥蛋和不熱的碳烤吐司與牛五花就比比而言口感怪怪的，冬瓜仙草還不錯喝！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "鼠比比",
+        "uri": "https://www.google.com/maps/contrib/103023870386877207742/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWlrAk0oNhBiLErC7u1OTkzVhzaHvvaLWY5s9utWvhnlwBl0wc=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-10-12T01:53:21.480060565Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21veVh6aEVZVUpXU21KT2R6Y3RibEF5ZWs5b05rRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21veVh6aEVZVUpXU21KT2R6Y3RibEF5ZWs5b05rRRAB!2m1!1s0x3442a90c5ce974f7:0xa22d2e1f549a1fb1"
+    },
+    {
+      "name": "places/ChIJ93TpXAypQjQRsR-aVB8uLaI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkM1lrNXJlVzFIYTBnNWJGQlBObEZyVUV0dFZrRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "*跟公主一起在飯店吃元氣早午餐*\n跟我家公主住在西門町的飯店裡，隔天早餐問了她想吃什麼，我們兩個選了半天選了慶三號，隔天早上先打電話去預約，然後再走7、8分鐘當作早晨運動過去拿早餐，門口點早餐的人很多，而且門口還擺了超過50個現做三明治，讓趕時間上班的人可以拿了直接付錢離開，很方便也很貼心呢；裡面做早餐的小姐姐小哥哥們也很多位，內用環境有點小（我想畢竟是台北嘛），還好有先預訂，等了兩三分鐘就拿了早餐回飯店了，早餐非常好吃，公主很滿意～～公主點的好奇小男孩套餐豐盛又好吃～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "*跟公主一起在飯店吃元氣早午餐*\n跟我家公主住在西門町的飯店裡，隔天早餐問了她想吃什麼，我們兩個選了半天選了慶三號，隔天早上先打電話去預約，然後再走7、8分鐘當作早晨運動過去拿早餐，門口點早餐的人很多，而且門口還擺了超過50個現做三明治，讓趕時間上班的人可以拿了直接付錢離開，很方便也很貼心呢；裡面做早餐的小姐姐小哥哥們也很多位，內用環境有點小（我想畢竟是台北嘛），還好有先預訂，等了兩三分鐘就拿了早餐回飯店了，早餐非常好吃，公主很滿意～～公主點的好奇小男孩套餐豐盛又好吃～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lightman Cheng",
+        "uri": "https://www.google.com/maps/contrib/112076135242747933316/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVgKUdQ434FEilPIfIElJXZlD6kdxJ4Zy6nLcakAcImNjaiBVQQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-24T03:01:32.476889157Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkM1lrNXJlVzFIYTBnNWJGQlBObEZyVUV0dFZrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkM1lrNXJlVzFIYTBnNWJGQlBObEZyVUV0dFZrRRAB!2m1!1s0x3442a90c5ce974f7:0xa22d2e1f549a1fb1"
+    },
+    {
+      "name": "places/ChIJ93TpXAypQjQRsR-aVB8uLaI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kdllUVTBUVk5rV205MWVXcHJWVWRvTmxocU4yYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "內用位子不多～店員很多努力出餐\n大熱天 辛苦他們了～\n點了肉蛋吐司 整體不錯～朋友點的蘿蔔糕也煎得脆脆的 還不錯～餐點上餐速度算快～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "內用位子不多～店員很多努力出餐\n大熱天 辛苦他們了～\n點了肉蛋吐司 整體不錯～朋友點的蘿蔔糕也煎得脆脆的 還不錯～餐點上餐速度算快～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jennifer",
+        "uri": "https://www.google.com/maps/contrib/103972840051397729795/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJYZNh12gjzv1NtlPXR-Yh4HHY9fSYEPOFjXeJWeydkVeF18WJ2=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-09-20T03:51:22.582941591Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kdllUVTBUVk5rV205MWVXcHJWVWRvTmxocU4yYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kdllUVTBUVk5rV205MWVXcHJWVWRvTmxocU4yYxAB!2m1!1s0x3442a90c5ce974f7:0xa22d2e1f549a1fb1"
+    }
+  ]
+}

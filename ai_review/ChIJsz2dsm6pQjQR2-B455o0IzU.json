@@ -1,0 +1,53 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "Yes",
+                                  "evidence":  "使用者回報與人工校正：所有Miacucina分店均提供兒童餐椅",
+                                  "confidence":  1.0
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "愛店 幾乎每週必訪 食物品質好乾淨健康 但最驚艷的是 仍能兼顧美味 調味豐富有層次 店員Steven服務優質且親切 親子友善",
+                               "confidence":  0.8
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Yes",
+                          "evidence":  "使用者回報與人工校正：所有Miacucina分店均貼心提供兒童專用碗盤餐具",
+                          "confidence":  1.0
+                      },
+    "has_diaper_table":  {
+                             "result":  "Yes",
+                             "evidence":  "系統自動識別：位於百貨商場/大樓（新光三越南西店），可使用商場內公共尿布台及哺乳室",
+                             "confidence":  1.0
+                         },
+    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。店內貼心備有兒童座椅與專用餐具，可就近使用商場內公共尿布台及哺乳室。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "使用者回報與人工校正：所有Miacucina分店均提供兒童餐椅",
+                              "愛店 幾乎每週必訪 食物品質好乾淨健康 但最驚艷的是 仍能兼顧美味 調味豐富有層次 店員Steven服務優質且親切 親子友善",
+                              "使用者回報與人工校正：所有Miacucina分店均貼心提供兒童專用碗盤餐具",
+                              "系統自動識別：位於百貨商場/大樓（新光三越南西店），可使用商場內公共尿布台及哺乳室"
+                          ],
+    "parent_friendly_score":  5,
+    "parent_friendly_level":  "高",
+    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
+}

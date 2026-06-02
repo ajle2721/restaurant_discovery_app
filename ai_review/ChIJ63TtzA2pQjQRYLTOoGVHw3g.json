@@ -1,33 +1,50 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "No",
-        "evidence": "六個人點太多菜，桌子偏小，稍嫌擁擠，但很合我們的胃口。",
-        "confidence": 1.0
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "這間餐廳不論價格，份量味道都適合家庭朋友聚餐，雖然美中不足，但仍推薦給想試試家常台菜的網友們。",
-        "confidence": 1.0
-    },
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "這間餐廳不論價格，份量味道都適合家庭朋友聚餐，雖然美中不足，但仍推薦給想試試家常台菜的網友們。",
-        "鳯梨蝦球：蝦球很大顆，鳯梨甜又多，小朋友的最愛",
-        "六個人點太多菜，桌子偏小，稍嫌擁擠，但很合我們的胃口。",
-        "餐廳在2樓，招牌不明顯，沒有電梯。"
-    ],
-    "generated_summary": "餐廳適合家庭聚餐，餐點如鳳梨蝦球深受小朋友喜愛；但店內空間較擁擠且無電梯，攜帶推車可能較不方便。",
-    "card_summary": "對小孩聲音較為包容，但空間較擁擠，前往時需多加留意。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "No",
+                             "evidence":  "六個人點太多菜，桌子偏小，稍嫌擁擠，但很合我們的胃口。",
+                             "confidence":  1
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Unknown",
+                               "evidence":  "這間餐廳不論價格，份量味道都適合家庭朋友聚餐，雖然美中不足，但仍推薦給想試試家常台菜的網友們。",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Yes",
+                             "evidence":  "因為10個人訂了包廂，有低消7000元，於是選了兩組套餐，套餐裡完全沒湯品，所以再單點個雞湯，可含服務費，就超過了。",
+                             "confidence":  0.9
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，服務人員接待熱忱、服務態度良好。座位較為緊湊，適合帶孩子前來用餐。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "稍嫌擁擠"
+                          ],
+    "parent_friendly_score":  -2,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

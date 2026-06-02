@@ -1,0 +1,139 @@
+{
+  "id": "ChIJ7dY68dmrQjQReMo5JUlgjwo",
+  "types": [
+    "brunch_restaurant",
+    "hamburger_restaurant",
+    "cafe",
+    "american_restaurant",
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 8773 5311",
+  "formattedAddress": "106台灣臺北市大安區誠安里忠孝東路三段251巷7弄15號1 樓",
+  "location": {
+    "latitude": 25.043043899999997,
+    "longitude": 121.542323
+  },
+  "rating": 4.3,
+  "websiteUri": "https://shop.ichefpos.com/store/yI8iOx64/instore/ordering?tableName=VzE",
+  "userRatingCount": 1158,
+  "displayName": {
+    "text": "威布好食 早午餐",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Casual daytime cafe offering breakfast & brunch fare in a snug locale with playful floral decor.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ7dY68dmrQjQReMo5JUlgjwo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSblRHUlJTMngxTVZwS2VVVndWMWxOTTBsbFdrRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "服務人員很親切，餐點食物好吃，份量也很夠，自以為自己一個人可以吃完一份漢堡排餐，所以還多點了餐後甜點，結果吃不完只能把甜點外帶。   店內裝潢樸實，雖然用餐空間不大，但舒適整潔，不少座位區旁還有插座，可以讓手機快沒電的粗心鬼（像我這次）能緊急充一下電，真是太貼心了。  下次有機會帶家人再來。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "服務人員很親切，餐點食物好吃，份量也很夠，自以為自己一個人可以吃完一份漢堡排餐，所以還多點了餐後甜點，結果吃不完只能把甜點外帶。   店內裝潢樸實，雖然用餐空間不大，但舒適整潔，不少座位區旁還有插座，可以讓手機快沒電的粗心鬼（像我這次）能緊急充一下電，真是太貼心了。  下次有機會帶家人再來。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Brady Peng",
+        "uri": "https://www.google.com/maps/contrib/113185417955684868588/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWP9oI9hTBzr_LEQ6n9L8eMN4ScUMbtDq7iMlkgfMt4Cp8x62ai4Q=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-29T05:27:07.789464630Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSblRHUlJTMngxTVZwS2VVVndWMWxOTTBsbFdrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSblRHUlJTMngxTVZwS2VVVndWMWxOTTBsbFdrRRAB!2m1!1s0x3442abd9f13ad6ed:0xa8f60492539ca78"
+    },
+    {
+      "name": "places/ChIJ7dY68dmrQjQReMo5JUlgjwo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tjMFlrSlpaWGRLVFdsd2NFVmpPVzB3ZDJzdE5IYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "終於有店家願意幫我把班尼迪克蛋裡面的煙燻鮭魚弄熟，太感謝🙏好吃,還附一個小優格開胃,薯角還可以換炒蛋",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "終於有店家願意幫我把班尼迪克蛋裡面的煙燻鮭魚弄熟，太感謝🙏好吃,還附一個小優格開胃,薯角還可以換炒蛋",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chu Chu",
+        "uri": "https://www.google.com/maps/contrib/109154832058961816464/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXTuup82e_w9MEjBYNsnr2hRhBL_-ufXYiif4f8A6_vg25NE58T9g=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-12T06:40:36.750039233Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tjMFlrSlpaWGRLVFdsd2NFVmpPVzB3ZDJzdE5IYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tjMFlrSlpaWGRLVFdsd2NFVmpPVzB3ZDJzdE5IYxAB!2m1!1s0x3442abd9f13ad6ed:0xa8f60492539ca78"
+    },
+    {
+      "name": "places/ChIJ7dY68dmrQjQReMo5JUlgjwo/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kV1FqTjBNMHh0UWkxQ2IweE9Wak50VDIwM2RtYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "在巷弄的早午餐\n份量夠，口味不錯\n可以加購換法式吐司，好吃\n魚卵義大利麵意外的不錯，份量超級夠\n\n是會回訪的店",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在巷弄的早午餐\n份量夠，口味不錯\n可以加購換法式吐司，好吃\n魚卵義大利麵意外的不錯，份量超級夠\n\n是會回訪的店",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "夏小曄",
+        "uri": "https://www.google.com/maps/contrib/104080394728420473287/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXxXKR62_QllIkR1j0XakTd_ea4_Q3EBWcyGdao-73IbCgtPzPWXg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-30T11:50:29.855544273Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kV1FqTjBNMHh0UWkxQ2IweE9Wak50VDIwM2RtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kV1FqTjBNMHh0UWkxQ2IweE9Wak50VDIwM2RtYxAB!2m1!1s0x3442abd9f13ad6ed:0xa8f60492539ca78"
+    },
+    {
+      "name": "places/ChIJ7dY68dmrQjQReMo5JUlgjwo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twRk5VOUtTMDFXV0RZNVdXb3hORzluTVVkb2JIYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "高中時上班前意外來吃到這家班奈狄克蛋，記憶猶新永遠記得這是我在台灣吃過最好吃的班奈狄克蛋，但因為我忘了這間店的名字，如今過了快十年意外來到付出的書店，又再次與這間店相遇，一樣是令人感到溫暖的料理，一樣是舒服讓人可以小休片刻的氣場，謝謝這間店的存在，讓我在孕期疲憊不堪的心靈，有地方休息好好讓自己吃頓飯。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "高中時上班前意外來吃到這家班奈狄克蛋，記憶猶新永遠記得這是我在台灣吃過最好吃的班奈狄克蛋，但因為我忘了這間店的名字，如今過了快十年意外來到付出的書店，又再次與這間店相遇，一樣是令人感到溫暖的料理，一樣是舒服讓人可以小休片刻的氣場，謝謝這間店的存在，讓我在孕期疲憊不堪的心靈，有地方休息好好讓自己吃頓飯。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "詠詠（Ariel）",
+        "uri": "https://www.google.com/maps/contrib/110713929113746135645/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWH-FV2FOV_7iwlBdJw2wULdn-yVd4u2_Wd3QKTkLdIHkJe4fCO=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-20T07:45:22.719470250Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twRk5VOUtTMDFXV0RZNVdXb3hORzluTVVkb2JIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twRk5VOUtTMDFXV0RZNVdXb3hORzluTVVkb2JIYxAB!2m1!1s0x3442abd9f13ad6ed:0xa8f60492539ca78"
+    },
+    {
+      "name": "places/ChIJ7dY68dmrQjQReMo5JUlgjwo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxS2RHOHRNVkJPVVZVMVMwOTFabE5sUVc0MFpHYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "每次都點漢堡法式吐司。很喜歡法式吐司，漢堡也很多汁，有插頭可以充電，窗戶的位子，也很適合一個人，悠閒的吃早午餐，店家通常也不會趕人，非常喜歡這裡。\n朋友說燉飯也好吃。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "每次都點漢堡法式吐司。很喜歡法式吐司，漢堡也很多汁，有插頭可以充電，窗戶的位子，也很適合一個人，悠閒的吃早午餐，店家通常也不會趕人，非常喜歡這裡。\n朋友說燉飯也好吃。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "A W",
+        "uri": "https://www.google.com/maps/contrib/110214534562632223905/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKzEiwjjItvk3K8MH83YOhbkRnjtvhMuqvkC3zUr7gY9110Sac=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-09T15:58:51.019097222Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxS2RHOHRNVkJPVVZVMVMwOTFabE5sUVc0MFpHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxS2RHOHRNVkJPVVZVMVMwOTFabE5sUVc0MFpHYxAB!2m1!1s0x3442abd9f13ad6ed:0xa8f60492539ca78"
+    }
+  ]
+}

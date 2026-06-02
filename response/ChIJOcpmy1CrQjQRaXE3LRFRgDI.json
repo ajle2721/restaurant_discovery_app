@@ -1,0 +1,132 @@
+{
+  "id": "ChIJOcpmy1CrQjQRaXE3LRFRgDI",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2547 1072",
+  "formattedAddress": "105台灣臺北市松山區精忠里民生東路四段103號",
+  "location": {
+    "latitude": 25.0582061,
+    "longitude": 121.5524769
+  },
+  "rating": 4.2,
+  "websiteUri": "https://www.qburger.com.tw/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 866,
+  "displayName": {
+    "text": "Q Burger 松山民生店(直營)",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJOcpmy1CrQjQRaXE3LRFRgDI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxNmMwSkRaR0pMUWxGWFNucHRPVXhITnpVMlNYYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "出餐速度很快 餐點美味 我跟太太 吃的很滿足\n店員 店長 服務態度親切 服務很好",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "出餐速度很快 餐點美味 我跟太太 吃的很滿足\n店員 店長 服務態度親切 服務很好",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳志煜",
+        "uri": "https://www.google.com/maps/contrib/106008271864887784134/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK_0s1xPCxauFgvyuFLUr1knP_YY9wrIeC5KU2HyGasrwJx8w=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-03-04T04:28:30.510327582Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxNmMwSkRaR0pMUWxGWFNucHRPVXhITnpVMlNYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxNmMwSkRaR0pMUWxGWFNucHRPVXhITnpVMlNYYxAB!2m1!1s0x3442ab50cb66ca39:0x328051112d377169"
+    },
+    {
+      "name": "places/ChIJOcpmy1CrQjQRaXE3LRFRgDI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkRlQzcElNV1EwTjJGSVkxRnFhVFZVUWtSeU0wRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "點外送有雙重巧克力可朗芙，餐點送到打開看發現覺得跟外送圖片不一樣，打電話去問才說上面麥片賣完了，請問賣完是不用通知嗎？價錢一樣，少東西是不用通知的嗎？？這算欺騙消費者嗎？",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點外送有雙重巧克力可朗芙，餐點送到打開看發現覺得跟外送圖片不一樣，打電話去問才說上面麥片賣完了，請問賣完是不用通知嗎？價錢一樣，少東西是不用通知的嗎？？這算欺騙消費者嗎？",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳玉瑄",
+        "uri": "https://www.google.com/maps/contrib/108350881143971704860/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI_TpoOAG5ZJwL3XbD_CE_FPmW-4U8aoyVbuWmSsVwrz1rP6Q=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-18T04:10:09.297067926Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkRlQzcElNV1EwTjJGSVkxRnFhVFZVUWtSeU0wRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkRlQzcElNV1EwTjJGSVkxRnFhVFZVUWtSeU0wRRAB!2m1!1s0x3442ab50cb66ca39:0x328051112d377169"
+    },
+    {
+      "name": "places/ChIJOcpmy1CrQjQRaXE3LRFRgDI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GQlMwcFNPVUp1UlZoRFJXMXFZbEpJWDJ3eGNuYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 1,
+      "text": {
+        "text": "不推薦用餐。\n\n實際走訪，非尖峰時間，上餐速度慢、多桌桌上有垃圾或桌面不乾淨，廁所也髒亂。這樣的餐廳要我相信食物衛生，我是不確定。\n\n個人認為店家沒有要積極處理，不然怎麼會近期那麼多負評，卻還是同樣的服務標準。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "不推薦用餐。\n\n實際走訪，非尖峰時間，上餐速度慢、多桌桌上有垃圾或桌面不乾淨，廁所也髒亂。這樣的餐廳要我相信食物衛生，我是不確定。\n\n個人認為店家沒有要積極處理，不然怎麼會近期那麼多負評，卻還是同樣的服務標準。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "SL H",
+        "uri": "https://www.google.com/maps/contrib/118147943845923034696/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVy8x0V8tUQj_XdUZJxVBinwXMO_1w9XTKaKajdsxqSe_26p9jQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-07T06:25:33.228166832Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GQlMwcFNPVUp1UlZoRFJXMXFZbEpJWDJ3eGNuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GQlMwcFNPVUp1UlZoRFJXMXFZbEpJWDJ3eGNuYxAB!2m1!1s0x3442ab50cb66ca39:0x328051112d377169"
+    },
+    {
+      "name": "places/ChIJOcpmy1CrQjQRaXE3LRFRgDI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1VlVWQTVMVWRYZFU1bldtczJjVGxWYkZWaVRVRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 4,
+      "text": {
+        "text": "📍品質穩定的連鎖店，蛋餅中規中矩，沒有太特別的口感，但沒什麼油耗味，整體還是可朗芙比較特別\n📍鮮奶茶好喝",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "📍品質穩定的連鎖店，蛋餅中規中矩，沒有太特別的口感，但沒什麼油耗味，整體還是可朗芙比較特別\n📍鮮奶茶好喝",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "CY Y",
+        "uri": "https://www.google.com/maps/contrib/116013603511918937897/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLqilagCBtNgiywlNL5KvWb-pvDxqkhHr4EHZVUjcywqN7eZQ=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-08-15T05:34:26.350970096Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1VlVWQTVMVWRYZFU1bldtczJjVGxWYkZWaVRVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1VlVWQTVMVWRYZFU1bldtczJjVGxWYkZWaVRVRRAB!2m1!1s0x3442ab50cb66ca39:0x328051112d377169"
+    },
+    {
+      "name": "places/ChIJOcpmy1CrQjQRaXE3LRFRgDI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WNmNGTlFNa3RXU1dRMFprRnBja1ZzVG1odFMxRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 2,
+      "text": {
+        "text": "做出這種炒泡麵的人是不是沒吃過炒泡麵？\n第一次吃到這麽多湯汁、麵這麼軟爛的炒泡麵\n感覺跟同桌點的鐵板麵只差在使用不一樣的麵而已",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "做出這種炒泡麵的人是不是沒吃過炒泡麵？\n第一次吃到這麽多湯汁、麵這麼軟爛的炒泡麵\n感覺跟同桌點的鐵板麵只差在使用不一樣的麵而已",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hsun T.",
+        "uri": "https://www.google.com/maps/contrib/103548522298425734686/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXJ9D-mckUbbALAq05Tl2npWKk7M5mzvHz4BBWoFsJQgqeKhlJFGA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-07T04:32:31.801599850Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WNmNGTlFNa3RXU1dRMFprRnBja1ZzVG1odFMxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WNmNGTlFNa3RXU1dRMFprRnBja1ZzVG1odFMxRRAB!2m1!1s0x3442ab50cb66ca39:0x328051112d377169"
+    }
+  ],
+  "goodForChildren": true
+}

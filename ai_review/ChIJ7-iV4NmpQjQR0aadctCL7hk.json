@@ -1,32 +1,50 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "No",
-        "evidence": "單看店面以為很大一間 實際上小小的",
-        "confidence": 1.0
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "No",
-        "evidence": "這裡變得寧靜許多，再也聽不到喧鬧的車水馬龍的聲音，彷彿置身於另一個結界，給人一種鬧中取靜的感覺",
-        "confidence": 1.0
-    },
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "單看店面以為很大一間 實際上小小的",
-        "這裡變得寧靜許多，再也聽不到喧鬧的車水馬龍的聲音，彷彿置身於另一個結界，給人一種鬧中取靜的感覺",
-        "比較適合小歇一下 不是給你坐著聊八卦的哈哈哈"
-    ],
-    "generated_summary": "店內空間較小且環境氛圍安靜，較適合短暫休憩，目前評論中未提及兒童椅或兒童餐等親子友善設施。",
-    "card_summary": "該餐廳空間較擁擠且環境較安靜，帶小孩前往需多加留意。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  "單看店面以為很大一間 實際上小小的",
+                             "confidence":  1
+                         },
+    "Kids menu available":  {
+                                "result":  "No",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Unknown",
+                               "evidence":  "這裡變得寧靜許多，再也聽不到喧鬧的車水馬龍的聲音，彷彿置身於另一個結界，給人一種鬧中取靜的感覺",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，手工甜點與下午茶點心口感精緻，評價優良。",
+    "card_summary":  "",
+    "generated_signals":  [
+
+                          ],
+    "parent_friendly_score":  0,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

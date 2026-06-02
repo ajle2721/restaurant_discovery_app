@@ -1,0 +1,131 @@
+{
+  "id": "ChIJ29oh1Y2uQjQRu781QHam1hA",
+  "types": [
+    "restaurant",
+    "brunch_restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2821 5380",
+  "formattedAddress": "112台灣臺北市北投區裕民里懷德街77號",
+  "location": {
+    "latitude": 25.1136698,
+    "longitude": 121.5195883
+  },
+  "rating": 4.7,
+  "websiteUri": "https://m.facebook.com/foodfield77/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 339,
+  "displayName": {
+    "text": "糧田",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ29oh1Y2uQjQRu781QHam1hA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wVGFpMVhRemRIZFZRME5rMTBObWRMYUdsZmNVRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "雞腿很軟嫩好吃，南瓜湯很原味也很好喝，麵包份量剛剛好淺嚐又增加飽足，沙拉葉類今天口感顯太老醬太少沒吃完，服務親切，環境安靜，社區宅用餐好地方",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "雞腿很軟嫩好吃，南瓜湯很原味也很好喝，麵包份量剛剛好淺嚐又增加飽足，沙拉葉類今天口感顯太老醬太少沒吃完，服務親切，環境安靜，社區宅用餐好地方",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "楊冬冬",
+        "uri": "https://www.google.com/maps/contrib/106171500803536838580/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK9Csr6oNG8vCz4V78oo0jgIYynobXGO1yre9rzDFf6hrnasw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-02T07:41:20.468252119Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wVGFpMVhRemRIZFZRME5rMTBObWRMYUdsZmNVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wVGFpMVhRemRIZFZRME5rMTBObWRMYUdsZmNVRRAB!2m1!1s0x3442ae8dd521dadb:0x10d6a6764035bfbb"
+    },
+    {
+      "name": "places/ChIJ29oh1Y2uQjQRu781QHam1hA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CcVRsYzJiWFJyTWxaU05EVkxXV2RNTmsxR1lYYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "一直都是口袋名單的餐廳，原型食物的概念，整套餐點內容都非常講究，套餐名稱也很有意境！最喜歡的是「海」套餐，微帶酸味的海鮮，除了有大蝦、蛤蜊、鯛魚，店家自製的小麵包佐上南瓜湯，每一口都很回味，店家的杯子跟某部韓劇的杯子一樣，才再說想去買一組，結果孩子跟老闆娘偷偷策劃，變成我的聖誕禮物，在這樣很久沒有許過願的年紀…突然溫暖上心頭🤭🤭🤭，真好 ，這樣用心的店家 ❤️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一直都是口袋名單的餐廳，原型食物的概念，整套餐點內容都非常講究，套餐名稱也很有意境！最喜歡的是「海」套餐，微帶酸味的海鮮，除了有大蝦、蛤蜊、鯛魚，店家自製的小麵包佐上南瓜湯，每一口都很回味，店家的杯子跟某部韓劇的杯子一樣，才再說想去買一組，結果孩子跟老闆娘偷偷策劃，變成我的聖誕禮物，在這樣很久沒有許過願的年紀…突然溫暖上心頭🤭🤭🤭，真好 ，這樣用心的店家 ❤️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "jung Li shin",
+        "uri": "https://www.google.com/maps/contrib/111735719215463884712/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXiW61IaPJ6lQ3fNWwyyWA1q4wRY1u1O0Lrrj540y1FJJg6ww6ClA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-25T07:08:05.939595637Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CcVRsYzJiWFJyTWxaU05EVkxXV2RNTmsxR1lYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CcVRsYzJiWFJyTWxaU05EVkxXV2RNTmsxR1lYYxAB!2m1!1s0x3442ae8dd521dadb:0x10d6a6764035bfbb"
+    },
+    {
+      "name": "places/ChIJ29oh1Y2uQjQRu781QHam1hA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5U2RsZGFUbmRWYkV0dVQydzJjbFpuYTJkcGJFRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "捷運石牌站走到店約9分鐘\n店內佈置有特色\n座位約30多個 外面有一桌庭院座位\n空調適中 音樂輕柔\n待餐時間稍長 適合休閑來客\n今天週六有團體稍喧嘩\n老闆娘服務好 幫我們調位置\n餐點新鮮美味\n整體有4.7顆星的實力",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "捷運石牌站走到店約9分鐘\n店內佈置有特色\n座位約30多個 外面有一桌庭院座位\n空調適中 音樂輕柔\n待餐時間稍長 適合休閑來客\n今天週六有團體稍喧嘩\n老闆娘服務好 幫我們調位置\n餐點新鮮美味\n整體有4.7顆星的實力",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "HSINFU CHEN",
+        "uri": "https://www.google.com/maps/contrib/117687167599491924243/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIDjOHpU84BgQvQGK9kN-ANVnyofJKyNWecrZaSYxrwczAvHw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-09-27T06:32:33.027560379Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5U2RsZGFUbmRWYkV0dVQydzJjbFpuYTJkcGJFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5U2RsZGFUbmRWYkV0dVQydzJjbFpuYTJkcGJFRRAB!2m1!1s0x3442ae8dd521dadb:0x10d6a6764035bfbb"
+    },
+    {
+      "name": "places/ChIJ29oh1Y2uQjQRu781QHam1hA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWS05WaFhTR2RDYTBOb2MxRTJOR2xmU0RkVWQyYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "到榮總看診後已錯過正常午餐時間，Google尋找附近店家發現糧田下午時間仍有供餐，進門後貼心的老闆娘先給我們麵包填肚子🥰\n點了三樣不同的主餐，樣樣都有特色而美味，整體套餐的組合，可以感受到店家非常用心，兼具美味以及健康💯\n同時價格也非常平實。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "到榮總看診後已錯過正常午餐時間，Google尋找附近店家發現糧田下午時間仍有供餐，進門後貼心的老闆娘先給我們麵包填肚子🥰\n點了三樣不同的主餐，樣樣都有特色而美味，整體套餐的組合，可以感受到店家非常用心，兼具美味以及健康💯\n同時價格也非常平實。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳Irene",
+        "uri": "https://www.google.com/maps/contrib/100898976836160777432/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWEwBMxmWTP3EE4jOZxs0WGlM3VNu-lc1Y7URN7EXY1carLhqnseg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-27T10:53:32.395952814Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWS05WaFhTR2RDYTBOb2MxRTJOR2xmU0RkVWQyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWS05WaFhTR2RDYTBOb2MxRTJOR2xmU0RkVWQyYxAB!2m1!1s0x3442ae8dd521dadb:0x10d6a6764035bfbb"
+    },
+    {
+      "name": "places/ChIJ29oh1Y2uQjQRu781QHam1hA/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3NXB5dzdRRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "超好吃！四個主餐我都吃過了，蛋糕麵包也很讚！尤其是輕乳酪蛋糕🍰超好吃😋我覺得都100分！老闆娘也超好 真的很推👍\n每份300元，真的都吃超飽～份量很夠😍吃完都超飽的",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "超好吃！四個主餐我都吃過了，蛋糕麵包也很讚！尤其是輕乳酪蛋糕🍰超好吃😋我覺得都100分！老闆娘也超好 真的很推👍\n每份300元，真的都吃超飽～份量很夠😍吃完都超飽的",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "蔡宇甯",
+        "uri": "https://www.google.com/maps/contrib/116388348042801602077/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJioFggg9seg-hwgq1xXznDwPZDLAIGjQhJ36-ilhQLjznxDg=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2024-08-15T10:17:21.605451Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM3NXB5dzdRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM3NXB5dzdRRRAB!2m1!1s0x3442ae8dd521dadb:0x10d6a6764035bfbb"
+    }
+  ]
+}

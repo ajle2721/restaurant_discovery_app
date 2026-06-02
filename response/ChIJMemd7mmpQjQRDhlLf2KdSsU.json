@@ -1,0 +1,139 @@
+{
+  "id": "ChIJMemd7mmpQjQRDhlLf2KdSsU",
+  "types": [
+    "brunch_restaurant",
+    "vegetarian_restaurant",
+    "italian_restaurant",
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2531 3792",
+  "formattedAddress": "10491台灣臺北市中山區民安里民生西路66巷23號",
+  "location": {
+    "latitude": 25.056841,
+    "longitude": 121.52082700000001
+  },
+  "rating": 4.2,
+  "websiteUri": "https://www.facebook.com/R.mosu/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1101,
+  "displayName": {
+    "text": "卡莯舒",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Easygoing spot with an understated ambiance offering pasta, burgers & salad, with veggie options.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJMemd7mmpQjQRDhlLf2KdSsU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCRU5VaGFWbXRrV0hoZlVVOTVPVzFwUlZNNGNuYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "來訪第三次了，餐點品質穩定、環境整潔，人員的服務態度也很棒！\n\n來雙連想吃西餐，但難以抉擇時，卡沐蔬往往是心中的首選～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "來訪第三次了，餐點品質穩定、環境整潔，人員的服務態度也很棒！\n\n來雙連想吃西餐，但難以抉擇時，卡沐蔬往往是心中的首選～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yu-Wen Gao",
+        "uri": "https://www.google.com/maps/contrib/116215041839120301899/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXn-KgyGnPqUGvt2T3lH17sINOLx2AnQiuxrYYQ7KlQgmglnafXmw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-29T11:47:16.532772964Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCRU5VaGFWbXRrV0hoZlVVOTVPVzFwUlZNNGNuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCRU5VaGFWbXRrV0hoZlVVOTVPVzFwUlZNNGNuYxAB!2m1!1s0x3442a969ee9de931:0xc54a9d627f4b190e"
+    },
+    {
+      "name": "places/ChIJMemd7mmpQjQRDhlLf2KdSsU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGRmFGRkpTMWh4YTNwNGIzRjFabmszVEdsS1NIYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "卡沐舒歐陸料理餐廳，真的燈光美、氣氛佳，重點餐點超級好吃，吃得出自然無負擔的好食材，有夠用心，每一道餐點都滿意👍，就連菜單和品牌都超有質感，大大大推薦",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "卡沐舒歐陸料理餐廳，真的燈光美、氣氛佳，重點餐點超級好吃，吃得出自然無負擔的好食材，有夠用心，每一道餐點都滿意👍，就連菜單和品牌都超有質感，大大大推薦",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "何彥勳",
+        "uri": "https://www.google.com/maps/contrib/113426661733748224390/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ0oDuuHb2zWde31UZH5_ZInRVh_-Kuy-kRkvLrvTwjx_SCMQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-25T04:22:37.273435166Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGRmFGRkpTMWh4YTNwNGIzRjFabmszVEdsS1NIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGRmFGRkpTMWh4YTNwNGIzRjFabmszVEdsS1NIYxAB!2m1!1s0x3442a969ee9de931:0xc54a9d627f4b190e"
+    },
+    {
+      "name": "places/ChIJMemd7mmpQjQRDhlLf2KdSsU/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xbkxWUlhNVjlDYXpobFpHcEVZM1paVFhKdFUwRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "中午抽完血肚子超餓肚，走到蔬沐還好已開始營業，點了南瓜濃湯🎃，香濃可口，墨西哥肉醬烤餅，餅皮薄脆，上面的乳酪絲超多超好吃的，下次再來吃別的，很多品項都想吃。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "中午抽完血肚子超餓肚，走到蔬沐還好已開始營業，點了南瓜濃湯🎃，香濃可口，墨西哥肉醬烤餅，餅皮薄脆，上面的乳酪絲超多超好吃的，下次再來吃別的，很多品項都想吃。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "余玲慧",
+        "uri": "https://www.google.com/maps/contrib/108710415642172505660/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ24jTKc4DKbrcq50h55qFJ0FLZoreR8fX07mCmNzDUNLAU5A=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-22T13:19:56.116952948Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xbkxWUlhNVjlDYXpobFpHcEVZM1paVFhKdFUwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xbkxWUlhNVjlDYXpobFpHcEVZM1paVFhKdFUwRRAB!2m1!1s0x3442a969ee9de931:0xc54a9d627f4b190e"
+    },
+    {
+      "name": "places/ChIJMemd7mmpQjQRDhlLf2KdSsU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOTU5sWXpkRFpyT1RkVlZsTnFXRU5DWjFoTmJVRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "非常棒的一餐\n特別喜歡裏頭的酸黃瓜\n不知道是不是自己做的！\n也有可能是搭得好所以沒有那種罐頭感\n整體就是很新鮮美味的三明治",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "非常棒的一餐\n特別喜歡裏頭的酸黃瓜\n不知道是不是自己做的！\n也有可能是搭得好所以沒有那種罐頭感\n整體就是很新鮮美味的三明治",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "0411",
+        "uri": "https://www.google.com/maps/contrib/103664219834702406406/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0M45igK5a_y1AZ7aDxU_15gfz5es4_WR_fDuQRVcO7tkThy_X=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-23T11:51:50.991680576Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOTU5sWXpkRFpyT1RkVlZsTnFXRU5DWjFoTmJVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOTU5sWXpkRFpyT1RkVlZsTnFXRU5DWjFoTmJVRRAB!2m1!1s0x3442a969ee9de931:0xc54a9d627f4b190e"
+    },
+    {
+      "name": "places/ChIJMemd7mmpQjQRDhlLf2KdSsU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKT2NqVXpVVXBLTVdoNk1WZHFjRjkwUldSV0xYYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "難得遇到素食為主肉食為輔的餐廳，點了三個主餐都很好吃，推薦！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "難得遇到素食為主肉食為輔的餐廳，點了三個主餐都很好吃，推薦！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hui-chun Shih",
+        "uri": "https://www.google.com/maps/contrib/102095785341336091156/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVWJ8Ur4i_610VwUnPub8RkirpM_2WRYuMj1UPqaS4M0OuvcsqB=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-11T12:19:57.104183200Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKT2NqVXpVVXBLTVdoNk1WZHFjRjkwUldSV0xYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKT2NqVXpVVXBLTVdoNk1WZHFjRjkwUldSV0xYYxAB!2m1!1s0x3442a969ee9de931:0xc54a9d627f4b190e"
+    }
+  ]
+}

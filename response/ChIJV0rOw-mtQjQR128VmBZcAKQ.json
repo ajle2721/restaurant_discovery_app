@@ -1,0 +1,128 @@
+{
+  "id": "ChIJV0rOw-mtQjQR128VmBZcAKQ",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 8797 6667",
+  "formattedAddress": "11444台灣臺北市內湖區西湖里內湖路一段293號",
+  "location": {
+    "latitude": 25.0823476,
+    "longitude": 121.56733979999998
+  },
+  "rating": 4.6,
+  "userRatingCount": 98,
+  "displayName": {
+    "text": "UNO COFFEE 內湖店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJV0rOw-mtQjQR128VmBZcAKQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGalFrVTBkVzE2YlV0a1lVMXhhVTlUTFhCNFgxRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "非常推薦，從在內湖工作到現在，已來訪多次，每次假日來上班都會過來購買咖啡☕️，有時也會買奶茶、茶類或是貝果、拖鞋麵包🥯，不管是飲品還是餐點都非常好吃，物超所值❤️，而且老闆跟老闆娘人都很好哦🥰",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "非常推薦，從在內湖工作到現在，已來訪多次，每次假日來上班都會過來購買咖啡☕️，有時也會買奶茶、茶類或是貝果、拖鞋麵包🥯，不管是飲品還是餐點都非常好吃，物超所值❤️，而且老闆跟老闆娘人都很好哦🥰",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "心怡",
+        "uri": "https://www.google.com/maps/contrib/104731855961545580890/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKXKs3s2WSD4_37LdBJEVRxSzoj5uQ4yAKEMM31vQECAnS_bw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-03-01T03:53:53.003965826Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGalFrVTBkVzE2YlV0a1lVMXhhVTlUTFhCNFgxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGalFrVTBkVzE2YlV0a1lVMXhhVTlUTFhCNFgxRRAB!2m1!1s0x3442ade9c3ce4a57:0xa4005c1698156fd7"
+    },
+    {
+      "name": "places/ChIJV0rOw-mtQjQR128VmBZcAKQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Fd2RHRm5iWEpOVEVNNWNURlRUMFpKYTFGRVpsRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "以前都在隔壁星巴克，但環境越來越差\n這次比較早在附近會議，剛好有機會來UNO。\n\n環境跟老闆都非常溫馨親切，價格也很親民\n飲料跟餐點都很可以😌\n\n以後早一點在附近都會想來UNO",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "以前都在隔壁星巴克，但環境越來越差\n這次比較早在附近會議，剛好有機會來UNO。\n\n環境跟老闆都非常溫馨親切，價格也很親民\n飲料跟餐點都很可以😌\n\n以後早一點在附近都會想來UNO",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Candice A-Xiong",
+        "uri": "https://www.google.com/maps/contrib/109541803990676973077/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUxKhxFy5yktPBMnvMFQFNMiL0B_bzB2Co91iZ9koNqJb1e1Ln2=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-23T06:22:25.317786392Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Fd2RHRm5iWEpOVEVNNWNURlRUMFpKYTFGRVpsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Fd2RHRm5iWEpOVEVNNWNURlRUMFpKYTFGRVpsRRAB!2m1!1s0x3442ade9c3ce4a57:0xa4005c1698156fd7"
+    },
+    {
+      "name": "places/ChIJV0rOw-mtQjQR128VmBZcAKQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWdFprbG1kM0JsWm1waVluaE1VMWQ2TkVrMlJGRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "✨內科最喜歡的外帶店✨\n優質用心的老闆夫妻經營的咖啡店\n本來都買公司附近的星x克、路x莎，被雷過很多次後，只喝這家的咖啡！！咖啡品質穩定，卡布奇諾跟燕麥拿鐵都好喝。\n餐點製作也很用心，推早餐三明治跟貝果，鮪魚貝果超好吃😋，吃過之後完全不會想要買對面的工地流動早餐🤣",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "✨內科最喜歡的外帶店✨\n優質用心的老闆夫妻經營的咖啡店\n本來都買公司附近的星x克、路x莎，被雷過很多次後，只喝這家的咖啡！！咖啡品質穩定，卡布奇諾跟燕麥拿鐵都好喝。\n餐點製作也很用心，推早餐三明治跟貝果，鮪魚貝果超好吃😋，吃過之後完全不會想要買對面的工地流動早餐🤣",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "HM Huang",
+        "uri": "https://www.google.com/maps/contrib/109994155573385493986/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIB0XPIqfbeROQotCBG7XrkmvwMywuVVQh9GJ6MxLN-lSiQM48=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-10-25T04:37:23.622413182Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWdFprbG1kM0JsWm1waVluaE1VMWQ2TkVrMlJGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWdFprbG1kM0JsWm1waVluaE1VMWQ2TkVrMlJGRRAB!2m1!1s0x3442ade9c3ce4a57:0xa4005c1698156fd7"
+    },
+    {
+      "name": "places/ChIJV0rOw-mtQjQR128VmBZcAKQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaNHNmXzNBRRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "我第一次來，點了鮪魚鮮蔬吐司超好吃的，裡面還有起司還有好多菜菜，吐司烤的剛剛好👍這樣才60元，加上拿鐵很濃好喝。讓我整天心情都好好😘哈哈哈～\n謝謝親切的夫妻倆人～太美好的地方😁謝謝您們。要走時又加點了乳酪貝果，我的最愛，我還會來。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "我第一次來，點了鮪魚鮮蔬吐司超好吃的，裡面還有起司還有好多菜菜，吐司烤的剛剛好👍這樣才60元，加上拿鐵很濃好喝。讓我整天心情都好好😘哈哈哈～\n謝謝親切的夫妻倆人～太美好的地方😁謝謝您們。要走時又加點了乳酪貝果，我的最愛，我還會來。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "大大",
+        "uri": "https://www.google.com/maps/contrib/101354608259250471098/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWnNWy-V1aDzQLspo2Tr5__18JlqYr_CzBlWP1DQJIzHrtF993f=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2023-09-07T09:27:34.748293Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNaNHNmXzNBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNaNHNmXzNBRRAB!2m1!1s0x3442ade9c3ce4a57:0xa4005c1698156fd7"
+    },
+    {
+      "name": "places/ChIJV0rOw-mtQjQR128VmBZcAKQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0U1JrWXpaVk4zWldGcGRFTldUMU00VVdwSk1rRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "點過很多次外送，蛋沙拉拖鞋麵包超划算，生菜給很多，太大需要分兩餐吃🤣\n核桃乳酪貝果也很推薦👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點過很多次外送，蛋沙拉拖鞋麵包超划算，生菜給很多，太大需要分兩餐吃🤣\n核桃乳酪貝果也很推薦👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Viola Sureshan",
+        "uri": "https://www.google.com/maps/contrib/101014277303217799193/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLX7G09HMNi1WR66jgELVw47HTy2z0_y9NoLhxCxHruGk8lvw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-03-08T06:01:36.114600806Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0U1JrWXpaVk4zWldGcGRFTldUMU00VVdwSk1rRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0U1JrWXpaVk4zWldGcGRFTldUMU00VVdwSk1rRRAB!2m1!1s0x3442ade9c3ce4a57:0xa4005c1698156fd7"
+    }
+  ]
+}

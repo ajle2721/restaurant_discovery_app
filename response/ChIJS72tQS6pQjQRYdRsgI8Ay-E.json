@@ -1,0 +1,130 @@
+{
+  "id": "ChIJS72tQS6pQjQRYdRsgI8Ay-E",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2508 0855",
+  "formattedAddress": "10491台灣臺北市中山區朱園里松江路97巷4號",
+  "location": {
+    "latitude": 25.0508933,
+    "longitude": 121.533673
+  },
+  "rating": 4.1,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 28,
+  "displayName": {
+    "text": "古摩尼 GOOD MORNING",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJS72tQS6pQjQRYdRsgI8Ay-E/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KeExYUnROVFk0UVhSQ1IwNTVWbDh3ZEdwc1VHYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "服務人員很客氣,鐵板麵醬汁有點太水,其他整體而言很棒,套餐組合也不貴。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "服務人員很客氣,鐵板麵醬汁有點太水,其他整體而言很棒,套餐組合也不貴。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Alice Peng",
+        "uri": "https://www.google.com/maps/contrib/117628570040980602614/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ28n73HEaY7YClU-ym8EADrCAtrnwhdmltGGsgqA2EYBwre5U=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-22T01:34:16.770799129Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KeExYUnROVFk0UVhSQ1IwNTVWbDh3ZEdwc1VHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KeExYUnROVFk0UVhSQ1IwNTVWbDh3ZEdwc1VHYxAB!2m1!1s0x3442a92e41adbd4b:0xe1cb008f806cd461"
+    },
+    {
+      "name": "places/ChIJS72tQS6pQjQRYdRsgI8Ay-E/reviews/ChZDSUhNMG9nS0VJQ0FnSURWdVp6N1N3EAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "這是我意外發現的一間早餐店，原本單純只是看到座位區與煎台區有透明門簾隔開，內用就不會全身都油煙味，所以就進去吃吃看，沒想到餐點意外的讓我覺得很好吃，今天點了肉醬鐵板麵➕里肌肉+蛋95元，麵條是粗的必較像烏龍麵的口感，但又沒有烏龍麵那麼軟，口感有嚼勁，搭配肉醬很好吃，不會肉醬跟麵條是分離的感覺，大推。昨天吃了法式吐司也很不錯。老闆服務很親切，有經過可以去試試。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這是我意外發現的一間早餐店，原本單純只是看到座位區與煎台區有透明門簾隔開，內用就不會全身都油煙味，所以就進去吃吃看，沒想到餐點意外的讓我覺得很好吃，今天點了肉醬鐵板麵➕里肌肉+蛋95元，麵條是粗的必較像烏龍麵的口感，但又沒有烏龍麵那麼軟，口感有嚼勁，搭配肉醬很好吃，不會肉醬跟麵條是分離的感覺，大推。昨天吃了法式吐司也很不錯。老闆服務很親切，有經過可以去試試。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "玩妮莎",
+        "uri": "https://www.google.com/maps/contrib/105425860403949046360/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLN_yA49d1QfxCmVf2csFnImGEy1upQ8EbWQctGDIWDA_vesg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2023-12-14T02:17:44.806731Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURWdVp6N1N3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURWdVp6N1N3EAE!2m1!1s0x3442a92e41adbd4b:0xe1cb008f806cd461"
+    },
+    {
+      "name": "places/ChIJS72tQS6pQjQRYdRsgI8Ay-E/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnaWNDREt3EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "點了一號餐95$，麵條像烏龍麵的口感，很讚，老闆人很健談，還可以選擇蛋的熟度",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點了一號餐95$，麵條像烏龍麵的口感，很讚，老闆人很健談，還可以選擇蛋的熟度",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "李意婕",
+        "uri": "https://www.google.com/maps/contrib/107800124807413669805/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI6KX5qK1Rh70qf59s5Ym9jW_bk8UkhIITh-1Ek_6U1oH-j8g=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-02-18T11:56:44.641978Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnaWNDREt3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnaWNDREt3EAE!2m1!1s0x3442a92e41adbd4b:0xe1cb008f806cd461"
+    },
+    {
+      "name": "places/ChIJS72tQS6pQjQRYdRsgI8Ay-E/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoeWJ6Mmp3RRAB",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 5,
+      "text": {
+        "text": "在這附近上班這麼久 第一次買這家早餐\n老闆娘很親切\n奶油白醬義大利麵~比較像是烏龍麵口感\n味道濃郁度適中\n兒童餐的炸物也非常酥脆\n放到冷掉也沒啥油耗感\n奶茶對我來說有點偏淡 但還可以接受\n\n⭐️悠悠飲食參考：\n甜：手搖飲半糖>偶爾3分糖\n鹹：蠻重鹹的\n辣：中辣",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在這附近上班這麼久 第一次買這家早餐\n老闆娘很親切\n奶油白醬義大利麵~比較像是烏龍麵口感\n味道濃郁度適中\n兒童餐的炸物也非常酥脆\n放到冷掉也沒啥油耗感\n奶茶對我來說有點偏淡 但還可以接受\n\n⭐️悠悠飲食參考：\n甜：手搖飲半糖>偶爾3分糖\n鹹：蠻重鹹的\n辣：中辣",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "悠寶",
+        "uri": "https://www.google.com/maps/contrib/104529697923417154591/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUMBOsGdw2EvWlPx57iHFRCjt2psvGi50IRGW77tlhh6XCC8SL1KA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2023-02-16T05:45:07.721710Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNoeWJ6Mmp3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNoeWJ6Mmp3RRAB!2m1!1s0x3442a92e41adbd4b:0xe1cb008f806cd461"
+    },
+    {
+      "name": "places/ChIJS72tQS6pQjQRYdRsgI8Ay-E/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2M09IWFd3EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "老闆娘在家安胎，明年才會營業。\n很棒的早餐店，各式餐點都好吃，環境也舒適。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "老闆娘在家安胎，明年才會營業。\n很棒的早餐店，各式餐點都好吃，環境也舒適。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳小美",
+        "uri": "https://www.google.com/maps/contrib/113586250577301530516/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWDIVx3wra9lBnWnyMGZiV6y9q0xN9Z6lNw1AVLV6gLEi0h0SdnvQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2024-12-08T23:48:22.254697Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2M09IWFd3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2M09IWFd3EAE!2m1!1s0x3442a92e41adbd4b:0xe1cb008f806cd461"
+    }
+  ],
+  "goodForChildren": true
+}

@@ -1,9 +1,4 @@
 ﻿{
-    "generated_signals":  [
-                              "整體還行，座位蠻舒服"
-                          ],
-    "generated_summary":  "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。僅有評論提到店內座位舒適。",
-    "card_summary":  "環境舒適，是可以考慮的親子聚餐地點。",
     " child_seat available":  {
                                   "evidence":  "Manual update",
                                   "result":  "Yes",
@@ -11,7 +6,7 @@
                               },
     "Spacious seating":  {
                              "evidence":  "Manual update",
-                             "result":  "Yes",
+                             "result":  "Unknown",
                              "confidence":  1
                          },
     "Kids menu available":  {
@@ -24,7 +19,36 @@
                                "result":  "Yes",
                                "confidence":  1
                            },
-    "parent_friendly_score":  4,
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Yes",
+                          "evidence":  "使用者回報與人工校正：所有貳樓分店均貼心提供兒童餐具",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Yes",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，店內用餐空間規劃寬敞，活動動線舒適。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點，可就近使用商場內公共尿布台及哺乳室，且店內貼心提供畫紙與蠟筆給小孩畫畫。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "使用者回報與人工校正：所有貳樓分店均提供兒童座椅",
+                              "使用者回報與人工校正：所有貳樓分店均提供專屬兒童餐點",
+                              "系統自動識別：同時提供兒童椅與兒童餐具，通常為親子友善且不怕吵之用餐環境",
+                              "使用者回報與人工校正：所有貳樓分店均貼心提供兒童餐具",
+                              "系統自動識別：位於百貨商場/大樓（CityLink百貨商場），可使用商場內公共尿布台及哺乳室"
+                          ],
+    "parent_friendly_score":  6,
     "parent_friendly_level":  "高",
-    "reason":  "Manual Update"
+    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
 }

@@ -139,7 +139,21 @@ def main():
                     reviews_text += f"Review {i}:\n{text}\n\n"
                     
             if not reviews_text.strip():
-                print(f"⚠️ {filename} ({name}) 沒有評論資料，跳過。")
+                print(f"⚠️ {filename} ({name}) 沒有評論資料，自動建立預設『資訊不足』評估（省下 AI Token）。")
+                final_output = {
+                    " child_seat available": {"result": "Unknown", "evidence": None, "confidence": 0.4},
+                    "Spacious seating": {"result": "Unknown", "evidence": None, "confidence": 0.4},
+                    "Kids menu available": {"result": "Unknown", "evidence": None, "confidence": 0.4},
+                    "kid_noise_tolerant": {"result": "Unknown", "evidence": None, "confidence": 0.4},
+                    "parent_friendly_score": 0,
+                    "parent_friendly_level": "資訊不足",
+                    "reason": "目前無足夠評論資料進行AI評估",
+                    "generated_signals": [],
+                    "generated_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。"
+                }
+                with open(output_path, 'w', encoding='utf-8') as f:
+                    json.dump(final_output, f, ensure_ascii=False, indent=4)
+                count += 1
                 continue
                 
             print(f"🔄 正在分析: {name} ({filename})...")

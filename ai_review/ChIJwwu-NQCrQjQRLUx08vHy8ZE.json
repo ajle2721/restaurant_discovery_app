@@ -1,0 +1,52 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "Yes",
+                                  "evidence":  "使用者回報與人工校正：有提供兒童餐椅",
+                                  "confidence":  1.0
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "Kids menu available":  {
+                                "result":  "No",
+                                "evidence":  "使用者回報與人工校正：義大利麵連鎖店，主要分布於百貨商場，義大利麵很適合與孩子分食共食",
+                                "confidence":  1.0
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "Google 官方登記適合兒童用餐",
+                               "confidence":  1.0
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Yes",
+                          "evidence":  "使用者回報與人工校正：有提供兒童餐具",
+                          "confidence":  1.0
+                      },
+    "has_diaper_table":  {
+                             "result":  "No",
+                             "evidence":  "使用者回報與人工校正：一般街邊店無尿布台，百貨商場分店可使用商場公共尿布台設施",
+                             "confidence":  1.0
+                         },
+    "generated_summary":  "根據評論分析，店內提供的義大利麵等義式餐點口感良好，獲得顧客肯定。店內貼心備有兒童座椅與專用餐具。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "使用者回報與人工校正：有提供兒童餐椅",
+                              "Google 官方登記適合兒童用餐",
+                              "使用者回報與人工校正：有提供兒童餐具"
+                          ],
+    "parent_friendly_score":  4,
+    "parent_friendly_level":  "高",
+    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
+}

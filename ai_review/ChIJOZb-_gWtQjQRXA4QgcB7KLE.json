@@ -1,30 +1,50 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "感覺很適合家庭或長輩來吃，兩個人也ok都適合，大家有來LALAPORT不妨可以吃吃看。",
-        "confidence": 1.0
-    },
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "感覺很適合家庭或長輩來吃，兩個人也ok都適合，大家有來LALAPORT不妨可以吃吃看。"
-    ],
-    "generated_summary": "該餐廳氛圍適合家庭聚餐，且有適合兒童食用的去骨鵝肉等菜色，整體環境對親子客群友善。",
-    "card_summary": "氛圍適合家庭聚餐，且有適合兒童食用的去骨鵝肉等菜色，整體環境對親子客群友善。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Unknown",
+                               "evidence":  "感覺很適合家庭或長輩來吃，兩個人也ok都適合，大家有來LALAPORT不妨可以吃吃看。",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Yes",
+                             "evidence":  "位於百貨商場/交通樞紐（115台灣臺北市南港區經貿二路131號6樓），商場內設有公共尿布台及哺乳室",
+                             "confidence":  1
+                         },
+    "generated_summary":  "根據評論分析，服務人員接待熱忱、服務態度良好。可就近使用商場內公共尿布台及哺乳室。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "系統自動識別：位於百貨商場/大樓（三井 LaLaport），可使用商場內公共尿布台及哺乳室"
+                          ],
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "中",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

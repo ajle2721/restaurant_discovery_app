@@ -1,31 +1,55 @@
-{
-    " child_seat available": {
-        "result": "Yes",
-        "evidence": "User provided info",
-        "confidence": 1.0
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "User provided info",
-        "confidence": 1.0
-    },
-    "Kids menu available": {
-        "result": "Yes",
-        "evidence": "兒童餐覺得實在是太迷你價錢偏高，直接點大人餐點比較划算，小孩光顧著玩什麼都覺得好吃😄",
-        "confidence": 1.0
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "親子餐廳類型，會稍微「熱鬧」，不過佈置不錯，相當不錯的甲蟲餐廳，週末常客滿記得提早訂位",
-        "confidence": 1.0
-    },
-    "parent_friendly_score": 5,
-    "parent_friendly_level": "高",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "親子餐廳類型，會稍微「熱鬧」，不過佈置不錯，相當不錯的甲蟲餐廳，週末常客滿記得提早訂位",
-        "兒童餐覺得實在是太迷你價錢偏高，直接點大人餐點比較划算，小孩光顧著玩什麼都覺得好吃😄"
-    ],
-    "generated_summary": "這是一間親子友善的甲蟲主題餐廳，環境熱鬧且設有兒童餐與遊戲區，非常適合帶小孩前往體驗。",
-    "card_summary": "這是一間親子友善的甲蟲主題餐廳，環境熱鬧且設有兒童餐與遊戲區，非常適合帶小孩前往體驗。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Yes",
+                                  "evidence":  "User provided info",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  "User provided info",
+                             "confidence":  1
+                         },
+    "Kids menu available":  {
+                                "result":  "Yes",
+                                "evidence":  "兒童餐覺得實在是太迷你價錢偏高，直接點大人餐點比較划算，小孩光顧著玩什麼都覺得好吃😄",
+                                "confidence":  1
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "親子餐廳類型，會稍微「熱鬧」，不過佈置不錯，相當不錯的甲蟲餐廳，週末常客滿記得提早訂位",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Yes",
+                          "evidence":  "小朋友遊戲區可以看書",
+                          "confidence":  0.9
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Yes",
+                          "evidence":  "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Yes",
+                             "evidence":  "親子友善有尿布台",
+                             "confidence":  0.9
+                         },
+    "generated_summary":  "根據評論分析，店內規劃與氛圍對攜帶幼童的家庭相當友善。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點，設有遊戲區讓孩子放電，店內設有尿布台或哺乳室。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "兒童餐覺得實在是太迷你價錢偏高",
+                              "會稍微「熱鬧」",
+                              "親子友善有尿布台",
+                              "親子友善有尿布台",
+                              "系統自動識別：官方登記或評論提及為親子主題餐廳，提供兒童椅",
+                              "系統自動識別：親子主題餐廳必備兒童專用碗盤"
+                          ],
+    "parent_friendly_score":  8,
+    "parent_friendly_level":  "高",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

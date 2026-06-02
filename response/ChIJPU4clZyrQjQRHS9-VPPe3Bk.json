@@ -1,0 +1,132 @@
+{
+  "id": "ChIJPU4clZyrQjQRHS9-VPPe3Bk",
+  "types": [
+    "brunch_restaurant",
+    "cafe",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2771 0559",
+  "formattedAddress": "106台灣臺北市大安區仁愛路四段145號",
+  "location": {
+    "latitude": 25.0381835,
+    "longitude": 121.55152419999999
+  },
+  "rating": 4.6,
+  "websiteUri": "https://dreamerscoffee.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 879,
+  "displayName": {
+    "text": "DREAMERS COFFEE ROASTERS 仁愛店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJPU4clZyrQjQRHS9-VPPe3Bk/reviews/Ci9DQUlRQUNvZENodHljRjlvT201eVZXNXBObDlTV25RM1NrWklSMFpuZERGWWVFRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 2,
+      "text": {
+        "text": "肉醬義大利麵很難吃\n蘑菇濃湯溫度份量很好\n草莓可頌法式吐司好吃\n每間分店感覺都不太一樣\n這間確實比較吵一點\n員工講話聊天或也大聲",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "肉醬義大利麵很難吃\n蘑菇濃湯溫度份量很好\n草莓可頌法式吐司好吃\n每間分店感覺都不太一樣\n這間確實比較吵一點\n員工講話聊天或也大聲",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Mil",
+        "uri": "https://www.google.com/maps/contrib/113971752679197402929/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVwY6wa9qRZbc_3okwyMcBFDGkVf52bOYCDKuCFW_SM2Mz1jNA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-17T17:18:56.151831999Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201eVZXNXBObDlTV25RM1NrWklSMFpuZERGWWVFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201eVZXNXBObDlTV25RM1NrWklSMFpuZERGWWVFRRAB!2m1!1s0x3442ab9c951c4e3d:0x19dcdef3547e2f1d"
+    },
+    {
+      "name": "places/ChIJPU4clZyrQjQRHS9-VPPe3Bk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21rMWQwNXRTVkJMYm1wV2QyODBPVzVEU1RkNk5YYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "青醬番茄起司帕尼尼好吃。熱的焙茶拿鐵粉感很重…不好喝。環境不錯\n司康也好吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "青醬番茄起司帕尼尼好吃。熱的焙茶拿鐵粉感很重…不好喝。環境不錯\n司康也好吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "小美食家",
+        "uri": "https://www.google.com/maps/contrib/101529946243984724153/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIAoWFoz_4CGb9pZu9aSbl7JYatnVxg3cLrnwU575CEGJp3RA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-09T13:59:19.627042974Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21rMWQwNXRTVkJMYm1wV2QyODBPVzVEU1RkNk5YYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21rMWQwNXRTVkJMYm1wV2QyODBPVzVEU1RkNk5YYxAB!2m1!1s0x3442ab9c951c4e3d:0x19dcdef3547e2f1d"
+    },
+    {
+      "name": "places/ChIJPU4clZyrQjQRHS9-VPPe3Bk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSa1JWVlhOSFJWTTNneFNYWnRZa0ppVVhCUlVGRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "周末午後，和朋友來到仁愛圓環旁的 Dreamers Coffee Roasters 仁愛店。木質桌面、柔和光線加上悠閒音樂，氣氛讓人一進門就放鬆下來。\n這次點了酪梨薄餅與墨西哥捲餅沙拉，薄脆餅皮搭配酪梨、墨西哥辣椒與黑豆，層次豐富又開胃；捲餅包著滿滿餡料與香料香氣，配上清爽的生菜沙拉與一小碟酸奶，口感剛好平衡。\n最後一杯熱拿鐵收尾，綿密奶泡與咖啡香完美融合，為整場聚會畫上輕柔的句點。\nDreamers 的氛圍與餐點一樣溫暖細膩，是那種可以坐上一下午、聊到忘記時間的地方。☕🥑🍕",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "周末午後，和朋友來到仁愛圓環旁的 Dreamers Coffee Roasters 仁愛店。木質桌面、柔和光線加上悠閒音樂，氣氛讓人一進門就放鬆下來。\n這次點了酪梨薄餅與墨西哥捲餅沙拉，薄脆餅皮搭配酪梨、墨西哥辣椒與黑豆，層次豐富又開胃；捲餅包著滿滿餡料與香料香氣，配上清爽的生菜沙拉與一小碟酸奶，口感剛好平衡。\n最後一杯熱拿鐵收尾，綿密奶泡與咖啡香完美融合，為整場聚會畫上輕柔的句點。\nDreamers 的氛圍與餐點一樣溫暖細膩，是那種可以坐上一下午、聊到忘記時間的地方。☕🥑🍕",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "STEVEN TSAI",
+        "uri": "https://www.google.com/maps/contrib/115221885343377997100/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUI3zY3nrcq2mgEEoWOZRi3hPK6YWUzx4CNaIm2CpZJ2usPJ1hqpQ=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-11-04T13:05:38.698891187Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSa1JWVlhOSFJWTTNneFNYWnRZa0ppVVhCUlVGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSa1JWVlhOSFJWTTNneFNYWnRZa0ppVVhCUlVGRRAB!2m1!1s0x3442ab9c951c4e3d:0x19dcdef3547e2f1d"
+    },
+    {
+      "name": "places/ChIJPU4clZyrQjQRHS9-VPPe3Bk/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xb09EY3dkV2h6U1hacVVtOVdNME5MY2sxbldGRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "早上7點就營業，不需定位即可入座（再晚一點可能就需要先訂位比較保險）\n適合早起的人來吃頓美好的早餐，推薦酪梨開放式三明治跟肉桂栗子拿鐵咖啡❤️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "早上7點就營業，不需定位即可入座（再晚一點可能就需要先訂位比較保險）\n適合早起的人來吃頓美好的早餐，推薦酪梨開放式三明治跟肉桂栗子拿鐵咖啡❤️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "洪靖涵",
+        "uri": "https://www.google.com/maps/contrib/112852684752201496706/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXK0NIc6EAKkutT1-YmEQIWx_jjO5aKPbix0mtXibcE4z5iO774=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-11-15T23:35:38.811172306Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xb09EY3dkV2h6U1hacVVtOVdNME5MY2sxbldGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xb09EY3dkV2h6U1hacVVtOVdNME5MY2sxbldGRRAB!2m1!1s0x3442ab9c951c4e3d:0x19dcdef3547e2f1d"
+    },
+    {
+      "name": "places/ChIJPU4clZyrQjQRHS9-VPPe3Bk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25BMGJHMVVibDl1YVhoWFlYQlZaRlZ6WW5sQmJGRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "酪梨女神蛋捲，非常好吃，蛋捲內的甜椒與起司的搭配酸鹹解膩，蛋上放的酪梨雖然不是味道的主角，但是增加了一層口感。\n薯條就是外酥內軟，也好吃。\n\n價格與餐點和環境相應。\n\n如有路過會再回訪",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "酪梨女神蛋捲，非常好吃，蛋捲內的甜椒與起司的搭配酸鹹解膩，蛋上放的酪梨雖然不是味道的主角，但是增加了一層口感。\n薯條就是外酥內軟，也好吃。\n\n價格與餐點和環境相應。\n\n如有路過會再回訪",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳柏宇",
+        "uri": "https://www.google.com/maps/contrib/106667472471746463895/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVREzHw-C4Y0nZksOquowdqa0NxfvUy6BJizr4LIcwfxPMk8ZgVGQ=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-02T02:43:12.488446129Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25BMGJHMVVibDl1YVhoWFlYQlZaRlZ6WW5sQmJGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25BMGJHMVVibDl1YVhoWFlYQlZaRlZ6WW5sQmJGRRAB!2m1!1s0x3442ab9c951c4e3d:0x19dcdef3547e2f1d"
+    }
+  ]
+}

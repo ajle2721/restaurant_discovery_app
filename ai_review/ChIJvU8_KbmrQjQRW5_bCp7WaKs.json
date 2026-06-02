@@ -1,0 +1,50 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "No",
+                                  "evidence":  "使用者回報與人工校正：主打專業極品手沖咖啡，不提供兒童餐椅",
+                                  "confidence":  1.0
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "空間大",
+                             "confidence":  0.8
+                         },
+    "Kids menu available":  {
+                                "result":  "No",
+                                "evidence":  "使用者回報與人工校正：無提供兒童餐點",
+                                "confidence":  1.0
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "No",
+                               "evidence":  "使用者回報與人工校正：客群多為商務洽談或安靜閱讀，環境極度不建議帶極其活潑的幼童前往",
+                               "confidence":  1.0
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "No",
+                          "evidence":  "使用者回報與人工校正：客群多為商務洽談或安靜閱讀，不提供兒童專用餐具",
+                          "confidence":  1.0
+                      },
+    "has_diaper_table":  {
+                             "result":  "No",
+                             "evidence":  "使用者回報與人工校正：店內無設置尿布台",
+                             "confidence":  1.0
+                         },
+    "generated_summary":  "根據評論分析，用餐環境舒適，氣氛輕鬆愜意。空間寬敞但環境較為安靜，帶好動小孩需留意，適合帶孩子前來用餐。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "空間大"
+                          ],
+    "parent_friendly_score":  -1,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
+}

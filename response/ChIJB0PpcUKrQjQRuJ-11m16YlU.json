@@ -1,0 +1,136 @@
+{
+  "id": "ChIJB0PpcUKrQjQRuJ-11m16YlU",
+  "types": [
+    "cafe",
+    "salad_shop",
+    "brunch_restaurant",
+    "coffee_shop",
+    "food_store",
+    "restaurant",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2514 7100",
+  "formattedAddress": "105台灣臺北市松山區中正里南京東路三段303巷8弄7號1樓",
+  "location": {
+    "latitude": 25.0530552,
+    "longitude": 121.54714750000001
+  },
+  "rating": 4.1,
+  "websiteUri": "https://www.journeykaffe.org/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1657,
+  "displayName": {
+    "text": "覺旅咖啡 Journey Kaffe 南京復興店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJB0PpcUKrQjQRuJ-11m16YlU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tzMlJVbGtSamhKVm1aTk9FVjFkRWhvY0hsS2VtYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "剛好遇到了教日文的老師，難得來到了南京復興站，希望能統整自己日文的能力，希望像多米多羅一樣N1及格就好，不用兩次都滿分。點了沙拉🥗跟美式咖啡☕️來第一次上日文課，中規中矩沒有很驚艷，咖啡不苦還不錯，後來上完一小時的課想說都在這，點了一碗麵🍜貝殼麵🐚但竟然上面的麵貝殼麵🐚是冷的…😯嗚嗚下次應該不會再來了",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "剛好遇到了教日文的老師，難得來到了南京復興站，希望能統整自己日文的能力，希望像多米多羅一樣N1及格就好，不用兩次都滿分。點了沙拉🥗跟美式咖啡☕️來第一次上日文課，中規中矩沒有很驚艷，咖啡不苦還不錯，後來上完一小時的課想說都在這，點了一碗麵🍜貝殼麵🐚但竟然上面的麵貝殼麵🐚是冷的…😯嗚嗚下次應該不會再來了",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "王百翔",
+        "uri": "https://www.google.com/maps/contrib/101141398071844992938/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL1gAEgHLD10DXB8AXUQ651PzKZQ3e2CFwuqP2U-zUxxzzyvA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-28T15:29:08.228617649Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tzMlJVbGtSamhKVm1aTk9FVjFkRWhvY0hsS2VtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tzMlJVbGtSamhKVm1aTk9FVjFkRWhvY0hsS2VtYxAB!2m1!1s0x3442ab4271e94307:0x55627a6dd6b59fb8"
+    },
+    {
+      "name": "places/ChIJB0PpcUKrQjQRuJ-11m16YlU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSVVIweFlaWEpvWTJRd1RITlRSR0pPUm0xeFZsRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "之前去過內湖的覺旅，覺得餐點品質很好，因此在發現南京復興也有一間後，很快就找機會來用餐。這邊沒有限時，餐點好吃份量也夠，份量最足的就是義大利麵了，地中海早午餐比較少一點，但是再加一個點心就很剛好，軟餅乾、香蕉蛋糕、巧克力起士布朗尼都很好吃，搭配一杯濃濃的英式早餐茶剛剛好。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "之前去過內湖的覺旅，覺得餐點品質很好，因此在發現南京復興也有一間後，很快就找機會來用餐。這邊沒有限時，餐點好吃份量也夠，份量最足的就是義大利麵了，地中海早午餐比較少一點，但是再加一個點心就很剛好，軟餅乾、香蕉蛋糕、巧克力起士布朗尼都很好吃，搭配一杯濃濃的英式早餐茶剛剛好。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Michelle Shih",
+        "uri": "https://www.google.com/maps/contrib/105302798450941189280/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUMcRlPnvKc4abT4n6Z0gFHHTWwxOTF23NtOgl4kZaVCfx83Ko=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-03T08:07:03.744583743Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSVVIweFlaWEpvWTJRd1RITlRSR0pPUm0xeFZsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSVVIweFlaWEpvWTJRd1RITlRSR0pPUm0xeFZsRRAB!2m1!1s0x3442ab4271e94307:0x55627a6dd6b59fb8"
+    },
+    {
+      "name": "places/ChIJB0PpcUKrQjQRuJ-11m16YlU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Ob01ETk9MVzVTWVhKb0xXbFNibkJvU25wYWJVRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 3,
+      "text": {
+        "text": "不限時的咖啡廳，很適合自營工作者，而且有電源插座和免費wifi，不過wifi偶爾不太穩定，會出現較慢甚至無法連線的狀況，如果是需要網路快速或順暢的人，建議還是連自己的網路。也有飲水可以自行取用。\n\n這家在捷運南京復興站附近，藏在巷子裡，算隱密安靜，有分外面陽台區和裡面跟地下室，這天跟朋友約週日下午3點，人不算多，坐到晚上6點半，內用區還是有位子。\n\n餐點算還可以，但我以前吃過覺旅內湖店，覺得以前的沙拉和義大利麵比較好吃，這次的青醬鮮蝦麵，麵沒什麼味道，沒有入味，麵跟料好像各自分開。\n\n雞肉堅果沙拉算是清淡的餐點，不過搭配蜂蜜芥末醬也算較重口味，堅果很多，咬到有點累😂雞肉調味沒有太重，適合喜歡清淡的人。\n\n這次還點了香蕉野莓奶昔$150，跟以前比感覺有變小杯，可以調整冰塊，我選微冰沒有太冰，還算濃郁。\n\n用餐完要自行回收，吃不完也可以自行打包，有一區有各種打包的包材，另外有Tabasco辣椒醬跟起司粉可以加，算還不錯。有兩間廁所可以使用。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "不限時的咖啡廳，很適合自營工作者，而且有電源插座和免費wifi，不過wifi偶爾不太穩定，會出現較慢甚至無法連線的狀況，如果是需要網路快速或順暢的人，建議還是連自己的網路。也有飲水可以自行取用。\n\n這家在捷運南京復興站附近，藏在巷子裡，算隱密安靜，有分外面陽台區和裡面跟地下室，這天跟朋友約週日下午3點，人不算多，坐到晚上6點半，內用區還是有位子。\n\n餐點算還可以，但我以前吃過覺旅內湖店，覺得以前的沙拉和義大利麵比較好吃，這次的青醬鮮蝦麵，麵沒什麼味道，沒有入味，麵跟料好像各自分開。\n\n雞肉堅果沙拉算是清淡的餐點，不過搭配蜂蜜芥末醬也算較重口味，堅果很多，咬到有點累😂雞肉調味沒有太重，適合喜歡清淡的人。\n\n這次還點了香蕉野莓奶昔$150，跟以前比感覺有變小杯，可以調整冰塊，我選微冰沒有太冰，還算濃郁。\n\n用餐完要自行回收，吃不完也可以自行打包，有一區有各種打包的包材，另外有Tabasco辣椒醬跟起司粉可以加，算還不錯。有兩間廁所可以使用。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "小蛙Judy",
+        "uri": "https://www.google.com/maps/contrib/117286423995551138735/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7xGGrJ5ydWpuPFtEgbuQg7TLxfTlVBEXKpmbHJx4U1-UcRyU_=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-09-23T07:48:32.090164639Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Ob01ETk9MVzVTWVhKb0xXbFNibkJvU25wYWJVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Ob01ETk9MVzVTWVhKb0xXbFNibkJvU25wYWJVRRAB!2m1!1s0x3442ab4271e94307:0x55627a6dd6b59fb8"
+    },
+    {
+      "name": "places/ChIJB0PpcUKrQjQRuJ-11m16YlU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pONWIxcGFYM2RrTm5oU1MwaENTVzlaVG0xaGRHYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "鮮蝦櫛瓜義大利麵+雞肉\n份量普通，貝殼麵煮得比較軟沒有嚼勁，不過喜歡它以清炒的方式料理，可以吃到櫛瓜和蝦子鮮甜的味道\n雞胸肉應該有煎過，很香\n還有一個有燕麥和蔓越莓的小糕點蠻好吃的，有點甜但很適合當下午茶",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "鮮蝦櫛瓜義大利麵+雞肉\n份量普通，貝殼麵煮得比較軟沒有嚼勁，不過喜歡它以清炒的方式料理，可以吃到櫛瓜和蝦子鮮甜的味道\n雞胸肉應該有煎過，很香\n還有一個有燕麥和蔓越莓的小糕點蠻好吃的，有點甜但很適合當下午茶",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Winnie",
+        "uri": "https://www.google.com/maps/contrib/113165144941682569070/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU87NEA5TfD-hCTjfW8I0oPrfJhjlmzqVpHDCyEYYqpeqRllIrk=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-28T09:35:30.477214229Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pONWIxcGFYM2RrTm5oU1MwaENTVzlaVG0xaGRHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pONWIxcGFYM2RrTm5oU1MwaENTVzlaVG0xaGRHYxAB!2m1!1s0x3442ab4271e94307:0x55627a6dd6b59fb8"
+    },
+    {
+      "name": "places/ChIJB0PpcUKrQjQRuJ-11m16YlU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwNVZETkxUMHBHYWt4ZmNUQkpUVFUzVERKWlpHYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "2/21到店用餐\n一直很喜歡鮮蝦櫛瓜麵，吃過不少次外送也點過很多次\n但這天到店用餐被這個驚人的油量嚇到…根本快變成湯麵\n勉強吃到後面真的不行…",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2/21到店用餐\n一直很喜歡鮮蝦櫛瓜麵，吃過不少次外送也點過很多次\n但這天到店用餐被這個驚人的油量嚇到…根本快變成湯麵\n勉強吃到後面真的不行…",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "吳冠瑩",
+        "uri": "https://www.google.com/maps/contrib/105587215526985883341/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUugZmh0ogsbyMoKvRMPxN0RbLc5s4YNKZeLOWMdYF3MJg-dTJH=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-23T06:13:37.617356965Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwNVZETkxUMHBHYWt4ZmNUQkpUVFUzVERKWlpHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwNVZETkxUMHBHYWt4ZmNUQkpUVFUzVERKWlpHYxAB!2m1!1s0x3442ab4271e94307:0x55627a6dd6b59fb8"
+    }
+  ]
+}

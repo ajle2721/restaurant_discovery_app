@@ -1,0 +1,52 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "裡面十分的寬敞舒適",
+                             "confidence":  0.8
+                         },
+    "Kids menu available":  {
+                                "result":  "Yes",
+                                "evidence":  "Google 官方登記提供兒童餐點",
+                                "confidence":  1
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "Google 官方登記適合兒童用餐",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  "今日濃湯雖然小小碗",
+                          "confidence":  0.9
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，清爽健康的蔬食與沙拉料理深受顧客青睞。店內提供兒童餐點。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "裡面十分的寬敞舒適",
+                              "Google 官方登記提供兒童餐點",
+                              "Google 官方登記適合兒童用餐"
+                          ],
+    "parent_friendly_score":  3,
+    "parent_friendly_level":  "高",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+}

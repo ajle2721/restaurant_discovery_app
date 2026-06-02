@@ -1,32 +1,50 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "整體用餐環境舒服、餐點美味，以後一定會常來！😌✨",
-        "confidence": 1.0
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "社區居酒屋很熱絡，有親子，好友，夫妻適合各式各樣的搭檔，沒啥壓力，口味不錯，尤其是串燒類，清酒順口。",
-        "confidence": 1.0
-    },
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "社區居酒屋很熱絡，有親子，好友，夫妻適合各式各樣的搭檔，沒啥壓力，口味不錯，尤其是串燒類，清酒順口。",
-        "整體用餐環境舒服、餐點美味，以後一定會常來！😌✨",
-        "優：氣氛歡樂，用很多古玩具裝潢"
-    ],
-    "generated_summary": "餐廳氣氛熱絡且環境舒服，評論提到適合親子同行，店內裝潢包含許多古玩具，氛圍歡樂。",
-    "card_summary": "餐廳氣氛熱絡且環境舒服，評論提到適合親子同行，店內裝潢包含許多古玩具，氛圍歡樂。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  "整體用餐環境舒服、餐點美味，以後一定會常來！😌✨",
+                             "confidence":  1
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Unknown",
+                               "evidence":  "社區居酒屋很熱絡，有親子，好友，夫妻適合各式各樣的搭檔，沒啥壓力，口味不錯，尤其是串燒類，清酒順口。",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。",
+    "card_summary":  "",
+    "generated_signals":  [
+
+                          ],
+    "parent_friendly_score":  0,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

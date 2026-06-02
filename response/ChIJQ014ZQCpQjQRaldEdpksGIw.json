@@ -1,0 +1,132 @@
+{
+  "id": "ChIJQ014ZQCpQjQRaldEdpksGIw",
+  "types": [
+    "brunch_restaurant",
+    "food_store",
+    "store",
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2558 0668",
+  "formattedAddress": "103台灣臺北市大同區建泰里南京西路18巷6弄3號2樓",
+  "location": {
+    "latitude": 25.0520593,
+    "longitude": 121.519853
+  },
+  "rating": 4.8,
+  "websiteUri": "https://www.instagram.com/tingroom.coffee/?next=%2F",
+  "userRatingCount": 434,
+  "displayName": {
+    "text": "TING ROOM CAFE",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJQ014ZQCpQjQRaldEdpksGIw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKVU1VaHVXVGQyY200Mk9XaGhjMHROUlV4amJtYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "怎麼可以有這麼棒的咖啡廳！！服務和餐點都超棒的！老闆娘好美好客氣喔！❤️❤️❤️\n很美且非常暖心的一間店！有機會一定會再來！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "怎麼可以有這麼棒的咖啡廳！！服務和餐點都超棒的！老闆娘好美好客氣喔！❤️❤️❤️\n很美且非常暖心的一間店！有機會一定會再來！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃璿蓁",
+        "uri": "https://www.google.com/maps/contrib/113692590337370568759/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKGEbD-TU8RQdEmK53eXqgPQgHQUNPn7K2wHEiwc-iSV84vTw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-26T05:04:37.556921241Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKVU1VaHVXVGQyY200Mk9XaGhjMHROUlV4amJtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKVU1VaHVXVGQyY200Mk9XaGhjMHROUlV4amJtYxAB!2m1!1s0x3442a90065784d43:0x8c182c997644576a"
+    },
+    {
+      "name": "places/ChIJQ014ZQCpQjQRaldEdpksGIw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SWGJIaFpRMGxNWkRsS1kxaFlRelprVmpCSWRVRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點好吃且份量不小，外場服務的小姐態度非常~~之好，即使忙碌也都滿臉笑容，實在讓人印象深刻，服務最高只有5顆星不足以表達我的感受，謝謝你們給我們如此愉快的用餐體驗。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點好吃且份量不小，外場服務的小姐態度非常~~之好，即使忙碌也都滿臉笑容，實在讓人印象深刻，服務最高只有5顆星不足以表達我的感受，謝謝你們給我們如此愉快的用餐體驗。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "簡湯匙",
+        "uri": "https://www.google.com/maps/contrib/114600333469310932012/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVjqbobMiezTfmAG722wgE4CKi4pY4yQK71ZI0xCdl3Yb7BPUGV=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-27T14:17:29.349324977Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SWGJIaFpRMGxNWkRsS1kxaFlRelprVmpCSWRVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SWGJIaFpRMGxNWkRsS1kxaFlRelprVmpCSWRVRRAB!2m1!1s0x3442a90065784d43:0x8c182c997644576a"
+    },
+    {
+      "name": "places/ChIJQ014ZQCpQjQRaldEdpksGIw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xod1ptVjBVMFp5TjJSWldUVlNUVTQyYmpsTU0wRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "有點讓人失望\n第一個上來是飲料，很好喝！\n\n食品擺盤也很好看！\n今日點義式嫩煎牛肉香料咖喱飯\n咖哩真的很好吃，但牛肉吃起來很像組合肉\n而且油脂味很重，如果是漢堡排那種，建議餐點品名要更換一下\n因為明顯不是牛肉煎出來的味道\n\n朋友點的是早午餐，一樣擺盤好看\n但薯條明顯是氣炸鍋炸出來的，口感很硬\n叉子很難叉進去的那種\n\n以上是個人口味問題見仁見智\n可惜這次沒有提拉米蘇有點想試試看\n（其實蠻多品項沒有在線上菜單裡面的）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "有點讓人失望\n第一個上來是飲料，很好喝！\n\n食品擺盤也很好看！\n今日點義式嫩煎牛肉香料咖喱飯\n咖哩真的很好吃，但牛肉吃起來很像組合肉\n而且油脂味很重，如果是漢堡排那種，建議餐點品名要更換一下\n因為明顯不是牛肉煎出來的味道\n\n朋友點的是早午餐，一樣擺盤好看\n但薯條明顯是氣炸鍋炸出來的，口感很硬\n叉子很難叉進去的那種\n\n以上是個人口味問題見仁見智\n可惜這次沒有提拉米蘇有點想試試看\n（其實蠻多品項沒有在線上菜單裡面的）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "郭姵均",
+        "uri": "https://www.google.com/maps/contrib/104835168794479921439/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLh6oIIFESnpMGfoB50XLQ5pBYbdt2yi8KKACSOxq8IoL8ZMA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-03T03:14:54.661172478Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xod1ptVjBVMFp5TjJSWldUVlNUVTQyYmpsTU0wRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xod1ptVjBVMFp5TjJSWldUVlNUVTQyYmpsTU0wRRAB!2m1!1s0x3442a90065784d43:0x8c182c997644576a"
+    },
+    {
+      "name": "places/ChIJQ014ZQCpQjQRaldEdpksGIw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psQ2JuZzFUVjlUZW5GV1gxRTNaMEpSY2tGS2VIYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐廳氛圍舒適，餐點價位合理，雙人座的桌距較近，四人座的桌距較舒適，音樂聲略大但不妨礙交談。假日用餐有提醒限時兩小時，不過無人候位也不會特別清場，感謝店家的貼心。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐廳氛圍舒適，餐點價位合理，雙人座的桌距較近，四人座的桌距較舒適，音樂聲略大但不妨礙交談。假日用餐有提醒限時兩小時，不過無人候位也不會特別清場，感謝店家的貼心。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "叮噹包",
+        "uri": "https://www.google.com/maps/contrib/104784508354805616240/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLQZkyJTvuMP9ZJ4lHugUlgQPW_85Y_XF7RUb2fItwmy4QXIg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-21T13:28:36.068906284Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psQ2JuZzFUVjlUZW5GV1gxRTNaMEpSY2tGS2VIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psQ2JuZzFUVjlUZW5GV1gxRTNaMEpSY2tGS2VIYxAB!2m1!1s0x3442a90065784d43:0x8c182c997644576a"
+    },
+    {
+      "name": "places/ChIJQ014ZQCpQjQRaldEdpksGIw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoVldISTVWMEo2VTFsWFgzRTBNSFF0Y2paWFEyYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "更多美食介紹 IG：@33.flavorseeker\n\n餐點從早午餐盤到香料咖哩一應俱全，全天都能享受多層次的美味。招牌香料咖哩以番茄為底，融合焦糖化的洋蔥與香料的濃郁香氣，口感層次豐富；早午餐盤擺盤精緻、份量剛好，不僅飽足，也超適合拍照打卡。另外，飲品選擇同樣多元，包含咖啡、氣泡飲、有機花茶與冰沙等，無論何時造訪，都能找到專屬你的美好時光。\n\n多蜜紅酒燉牛肉\n這道絕對是我下次來還會點的紅酒燉牛肉！吃得出店家的巧思，還有專屬於Ting Room Coffee的味道。牛肋條以時間換取極致的柔嫩口感，低溫慢燉數小時，讓紅酒的濃郁香氣與香料完美滲透，每口燉牛肉都充滿層次變化，帶著微酸甜的成熟風味，尾韻則是迷人的酒香。讓人驚喜的是加入蘋果塊，除了口感很特別外，也讓醬汁增添自然的果香及甜感。\n\n義式香料豬腱子肉裸麥早午餐\n義式慢燉帶骨腱子肉化身為早午餐盤中的靈魂主角，醬汁都是店家自行研發調製，每口都是充滿義式香料的香氣，番茄和巴西里帶出義式料理的調味精隨，與軟嫩肉質交織出迷人風味。早午餐盤豐富，搭配麵包、薯條、沙拉及滑嫩的西式炒蛋，充滿飽足感。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "更多美食介紹 IG：@33.flavorseeker\n\n餐點從早午餐盤到香料咖哩一應俱全，全天都能享受多層次的美味。招牌香料咖哩以番茄為底，融合焦糖化的洋蔥與香料的濃郁香氣，口感層次豐富；早午餐盤擺盤精緻、份量剛好，不僅飽足，也超適合拍照打卡。另外，飲品選擇同樣多元，包含咖啡、氣泡飲、有機花茶與冰沙等，無論何時造訪，都能找到專屬你的美好時光。\n\n多蜜紅酒燉牛肉\n這道絕對是我下次來還會點的紅酒燉牛肉！吃得出店家的巧思，還有專屬於Ting Room Coffee的味道。牛肋條以時間換取極致的柔嫩口感，低溫慢燉數小時，讓紅酒的濃郁香氣與香料完美滲透，每口燉牛肉都充滿層次變化，帶著微酸甜的成熟風味，尾韻則是迷人的酒香。讓人驚喜的是加入蘋果塊，除了口感很特別外，也讓醬汁增添自然的果香及甜感。\n\n義式香料豬腱子肉裸麥早午餐\n義式慢燉帶骨腱子肉化身為早午餐盤中的靈魂主角，醬汁都是店家自行研發調製，每口都是充滿義式香料的香氣，番茄和巴西里帶出義式料理的調味精隨，與軟嫩肉質交織出迷人風味。早午餐盤豐富，搭配麵包、薯條、沙拉及滑嫩的西式炒蛋，充滿飽足感。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃佳珊（33）",
+        "uri": "https://www.google.com/maps/contrib/101605641440087204050/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJfsJOJJ8BvcWJG7ZZevHl1zUAVCxu51gGfDHzDBm1Nod0PfMs=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-08-16T07:08:26.390618871Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoVldISTVWMEo2VTFsWFgzRTBNSFF0Y2paWFEyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoVldISTVWMEo2VTFsWFgzRTBNSFF0Y2paWFEyYxAB!2m1!1s0x3442a90065784d43:0x8c182c997644576a"
+    }
+  ]
+}

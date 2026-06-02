@@ -7,26 +7,47 @@
     "Kids menu available":  {
                                 "result":  "Yes",
                                 "evidence":  "因為有小朋友所以點了兒童餐，有機會的話希望能調降炸物的比例，畢竟小朋友吃炸物不太好",
-                                "confidence":  1.0
+                                "confidence":  1
                             },
     "kid_noise_tolerant":  {
                                "result":  "Yes",
                                "evidence":  "現場真的偏吵雜",
-                               "confidence":  1.0
+                               "confidence":  1
                            },
-    "generated_signals":  [
-                              "因為有小朋友所以點了兒童餐，有機會的話希望能調降炸物的比例，畢竟小朋友吃炸物不太好",
-                              "現場真的偏吵雜",
-                              "每年春節都會來這聚餐，表現都有一定的水準"
-                          ],
-    "generated_summary":  "店內提供兒童餐，且環境氣氛較為熱鬧，適合家庭聚餐。",
-    "card_summary":  "店內提供兒童餐，且環境氣氛較為熱鬧，適合家庭聚餐。",
     " child_seat available":  {
                                   "evidence":  "Manual update",
                                   "result":  "Yes",
                                   "confidence":  1
                               },
-    "parent_friendly_score":  3,
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Yes",
+                          "evidence":  "使用者回報與人工校正：所有陶板屋分店均貼心提供兒童專用碗盤餐具",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，排餐與肉類料理火候恰當、肉質扎實，受食客肯定。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點，且店內貼心提供畫紙與蠟筆給小孩畫畫。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "使用者回報與人工校正：所有陶板屋分店均提供兒童餐椅",
+                              "使用者回報與人工校正：所有陶板屋分店均提供專屬兒童餐",
+                              "現場真的偏吵雜",
+                              "使用者回報與人工校正：所有陶板屋分店均貼心提供兒童專用碗盤餐具"
+                          ],
+    "parent_friendly_score":  5,
     "parent_friendly_level":  "高",
-    "reason":  "Manual Update"
+    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
 }

@@ -1,0 +1,140 @@
+{
+  "id": "ChIJISDf6FyvQjQRZr2sJCJGudg",
+  "types": [
+    "coffee_shop",
+    "brunch_restaurant",
+    "cafe",
+    "dessert_shop",
+    "confectionery",
+    "food_store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2820 1362",
+  "formattedAddress": "112台灣臺北市北投區振華里石牌路二段126號",
+  "location": {
+    "latitude": 25.117879,
+    "longitude": 121.51736589999999
+  },
+  "rating": 4.4,
+  "websiteUri": "https://www.mcdonalds.com/tw/zh-tw/full-menu/mccafe.html",
+  "userRatingCount": 99,
+  "displayName": {
+    "text": "McCafé 咖啡-台北石牌店",
+    "languageCode": "en"
+  },
+  "editorialSummary": {
+    "text": "McDonald's chain for a variety of specialty coffee drinks, baked goods & other food offerings.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJISDf6FyvQjQRZr2sJCJGudg/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WNVIwTmlkSFpwTUdwNWFGcG1hRTlJT0ZSalkyYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "用餐時段外帶人爆多的😅 邊等邊編輯影片做公益🙏",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "用餐時段外帶人爆多的😅 邊等邊編輯影片做公益🙏",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "YT半公益頻道「Who is CC?」",
+        "uri": "https://www.google.com/maps/contrib/105282993772926185567/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXKjpdhaJofUnOLKqJZSr5Mz3qAYBhfxoE53amGW0NOv-LiZfQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-09-07T04:20:54.380798722Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WNVIwTmlkSFpwTUdwNWFGcG1hRTlJT0ZSalkyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WNVIwTmlkSFpwTUdwNWFGcG1hRTlJT0ZSalkyYxAB!2m1!1s0x3442af5ce8df2021:0xd8b9462224acbd66"
+    },
+    {
+      "name": "places/ChIJISDf6FyvQjQRZr2sJCJGudg/reviews/ChdDSUhNMG9nS0VJQ0FnSURXbHItcjNBRRAB",
+      "relativePublishTimeDescription": "4 年前",
+      "rating": 4,
+      "text": {
+        "text": "小而巧，服務接待人員很耐心的幫忙：使用機器點餐，快速方便，好食的一餐！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "小而巧，服務接待人員很耐心的幫忙：使用機器點餐，快速方便，好食的一餐！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "阿華田WSH",
+        "uri": "https://www.google.com/maps/contrib/115695961823034396474/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWhczH8dkk6TbvKo7jrhvtcyUAgujNw9Okt1dhq42nK7uLFUYpBrw=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2022-03-24T13:20:08.014258Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURXbHItcjNBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURXbHItcjNBRRAB!2m1!1s0x3442af5ce8df2021:0xd8b9462224acbd66"
+    },
+    {
+      "name": "places/ChIJISDf6FyvQjQRZr2sJCJGudg/reviews/ChZDSUhNMG9nS0VJQ0FnTUNZMGFYeUJnEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "想吃看看厚鬆堡的味道  結果它不是我的菜\n大玉米濃湯 玉米粒比之前吃的還少\n送餐服務的速度不錯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "想吃看看厚鬆堡的味道  結果它不是我的菜\n大玉米濃湯 玉米粒比之前吃的還少\n送餐服務的速度不錯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Fen Tseng",
+        "uri": "https://www.google.com/maps/contrib/102654490548936646886/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKxjZxFwpT8sTJAlk6frOE56v9clVYPfha7JpYnSuA-M9AgPw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-05-05T01:08:38.173117Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNZMGFYeUJnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNZMGFYeUJnEAE!2m1!1s0x3442af5ce8df2021:0xd8b9462224acbd66"
+    },
+    {
+      "name": "places/ChIJISDf6FyvQjQRZr2sJCJGudg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsa1drMXVSbVpCZFV0bmVsOHpTbGRaTUVkVUxXYxAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 1,
+      "text": {
+        "text": "冷氣很弱空氣不流通，坐一下頭就痛，咖啡超水超難喝",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "冷氣很弱空氣不流通，坐一下頭就痛，咖啡超水超難喝",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Cathy chiu",
+        "uri": "https://www.google.com/maps/contrib/118091494977627437260/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWRzfLycOJElSpQOKOcc6GyBRbLDmsgoKUlkG5ar7xh8TxHpYz1=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-06-15T12:19:25.072923590Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsa1drMXVSbVpCZFV0bmVsOHpTbGRaTUVkVUxXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsa1drMXVSbVpCZFV0bmVsOHpTbGRaTUVkVUxXYxAB!2m1!1s0x3442af5ce8df2021:0xd8b9462224acbd66"
+    },
+    {
+      "name": "places/ChIJISDf6FyvQjQRZr2sJCJGudg/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5N3NmNVlREAE",
+      "relativePublishTimeDescription": "5 年前",
+      "rating": 5,
+      "text": {
+        "text": "不喝咖啡的人可以試試阿薩姆鮮奶茶很好喝！！☺️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "不喝咖啡的人可以試試阿薩姆鮮奶茶很好喝！！☺️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "高琬雯",
+        "uri": "https://www.google.com/maps/contrib/108907240740564883222/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUz9cJWJFfGRUxtedZ-uEfLXVFLXE1y4g3gLENhgI-Cfo3L-tw9CQ=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2021-01-31T10:01:31.145264Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN5N3NmNVlREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN5N3NmNVlREAE!2m1!1s0x3442af5ce8df2021:0xd8b9462224acbd66"
+    }
+  ]
+}

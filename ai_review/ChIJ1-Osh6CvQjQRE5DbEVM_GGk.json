@@ -1,34 +1,51 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "No",
-        "evidence": "如果你喜歡安靜又帶點文藝氛圍的空間，Luguo Cafe / Z Space 絕對值得收藏，無論是來工作、閱讀，還是單純想好好享受一份甜點與咖啡的午後時光，都能在這裡找到屬於自己的節奏。",
-        "confidence": 1.0
-    },
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "很安靜餐點都有給學生的優惠",
-        "瞬間回神發現這裡增添一份寧謐，遠離塵囂的感覺，是多麼悠閒自得！",
-        "氛圍寧靜舒服，很適合一個人帶著書或筆電來待著。",
-        "如果你喜歡安靜又帶點文藝氛圍的空間",
-        "無論是想一個人靜靜地享受咖啡，或是與朋友輕聲交談，這裡都是一個很適合的空間。"
-    ],
-    "generated_summary": "評論中提及餐廳環境安靜、寧謐，適合一個人閱讀或輕聲交談，可能不太適合帶小孩。",
-    "card_summary": "該餐廳環境較安靜，帶小孩前往需多加留意。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "外面有著寬闊的視野",
+                             "confidence":  0.8
+                         },
+    "Kids menu available":  {
+                                "result":  "No",
+                                "evidence":  "Google 官方登記無提供兒童餐點",
+                                "confidence":  1
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "No",
+                               "evidence":  "如果你喜歡安靜又帶點文藝氛圍的空間，Luguo Cafe / Z Space 絕對值得收藏，無論是來工作、閱讀，還是單純想好好享受一份甜點與咖啡的午後時光，都能在這裡找到屬於自己的節奏。",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，手作麵包與特色輕食風味獲得顧客好評。空間寬敞但環境較為安靜，帶好動小孩需留意，適合帶孩子前來用餐。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "外面有著寬闊的視野",
+                              "很安靜餐點都有給學生的優惠"
+                          ],
+    "parent_friendly_score":  -1,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

@@ -1,0 +1,129 @@
+{
+  "id": "ChIJAyQaP3urQjQRhZYKdSAgfEs",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2782 3069",
+  "formattedAddress": "115台灣臺北市南港區西新里成功路一段28號1樓",
+  "location": {
+    "latitude": 25.0553049,
+    "longitude": 121.5928945
+  },
+  "rating": 4.1,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 79,
+  "displayName": {
+    "text": "That's all",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJAyQaP3urQjQRhZYKdSAgfEs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2swM2FFaDFTalo0YVZwNGJqUnVOV1ZFZEZoMFJVRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "店內有小狗味，很想嚕牠可惜他在躺地板耍廢，店內動物不少",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店內有小狗味，很想嚕牠可惜他在躺地板耍廢，店內動物不少",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林楓",
+        "uri": "https://www.google.com/maps/contrib/114457943984356320570/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLHMuUj6ZQTnwTC9fUwwrVZKzP4XOGfTP1dZ8Czf_KcUitJKQ=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-12-24T01:28:30.370968819Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2swM2FFaDFTalo0YVZwNGJqUnVOV1ZFZEZoMFJVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2swM2FFaDFTalo0YVZwNGJqUnVOV1ZFZEZoMFJVRRAB!2m1!1s0x3442ab7b3f1a2403:0x4b7c2020750a9685"
+    },
+    {
+      "name": "places/ChIJAyQaP3urQjQRhZYKdSAgfEs/reviews/ChZDSUhNMG9nS0VJQ0FnSUNydWFXdEN3EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "餐點不差，環境沒頂好但也不差，\n有冷氣還有一隻…柯基？",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點不差，環境沒頂好但也不差，\n有冷氣還有一隻…柯基？",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "H. Yuan (阿谷)",
+        "uri": "https://www.google.com/maps/contrib/106020828943422194379/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXFQ01RqLEO5Bh3_ijns7Um_dh0wHKkaIlWsJkZZA1M8PJMHeFQZA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2024-07-09T05:56:28.308069Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNydWFXdEN3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNydWFXdEN3EAE!2m1!1s0x3442ab7b3f1a2403:0x4b7c2020750a9685"
+    },
+    {
+      "name": "places/ChIJAyQaP3urQjQRhZYKdSAgfEs/reviews/ChZDSUhNMG9nS0VJQ0FnSURQbGVuMmR3EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "在等台灣企業總部的客戶\n就到隔壁吃看看\n老闆很客氣、餐點美味（不好吃我也不會評論🤣🤣）\n還有老帥哥狗狗，可摸可拍照🤣🤣",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在等台灣企業總部的客戶\n就到隔壁吃看看\n老闆很客氣、餐點美味（不好吃我也不會評論🤣🤣）\n還有老帥哥狗狗，可摸可拍照🤣🤣",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Misia C.",
+        "uri": "https://www.google.com/maps/contrib/101820253585973703665/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUaU_kwwYukw82hn-wKtXBlBn5qMUuNVH-nHzgCQfiSMihc5bSj=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2024-12-04T09:26:19.694085Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURQbGVuMmR3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURQbGVuMmR3EAE!2m1!1s0x3442ab7b3f1a2403:0x4b7c2020750a9685"
+    },
+    {
+      "name": "places/ChIJAyQaP3urQjQRhZYKdSAgfEs/reviews/ChZDSUhNMG9nS0VJQ0FnSUNjLVlQbkJ3EAE",
+      "relativePublishTimeDescription": "6 年前",
+      "rating": 4,
+      "text": {
+        "text": "每次南港拜訪客戶一定會停留一下\n就算只買個紅茶也療癒\n店家紅茶一直維持很好的品質\n也一直研發新餐點\n最近吃咖哩飯\n偏印度式較明顯的咖喱味\n真的很刺激味蕾\n身為一個少女的我默默吃完一碗真的誇張（😂）\n另\n薯條還是一樣現炸美味有夠大份\n老闆珍藏的經典漫畫還是看不完啊~\n1090316",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "每次南港拜訪客戶一定會停留一下\n就算只買個紅茶也療癒\n店家紅茶一直維持很好的品質\n也一直研發新餐點\n最近吃咖哩飯\n偏印度式較明顯的咖喱味\n真的很刺激味蕾\n身為一個少女的我默默吃完一碗真的誇張（😂）\n另\n薯條還是一樣現炸美味有夠大份\n老闆珍藏的經典漫畫還是看不完啊~\n1090316",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Nicole Lai",
+        "uri": "https://www.google.com/maps/contrib/102384322192336547584/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWCkLell0nU99rV2yRYGOWX2ULzWdZsvdmN_ZVc8XXxb-mxP7yYrA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2020-03-16T15:29:12.013270Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNjLVlQbkJ3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNjLVlQbkJ3EAE!2m1!1s0x3442ab7b3f1a2403:0x4b7c2020750a9685"
+    },
+    {
+      "name": "places/ChIJAyQaP3urQjQRhZYKdSAgfEs/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxbUpUT013EAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "狗狗很可愛但喝水嗆到酷酷嫂\n沙拉堡根本潛艇等級",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "狗狗很可愛但喝水嗆到酷酷嫂\n沙拉堡根本潛艇等級",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "xulyurui",
+        "uri": "https://www.google.com/maps/contrib/101449471587052609510/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUP3qvNrAaqHM5_CLQIJ6rhS-gn4X5ltjIid2BEJaFNTzsd3cr5sg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2023-12-22T01:06:50.766390Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMxbUpUT013EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMxbUpUT013EAE!2m1!1s0x3442ab7b3f1a2403:0x4b7c2020750a9685"
+    }
+  ]
+}

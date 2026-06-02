@@ -1,0 +1,131 @@
+{
+  "id": "ChIJG-UxbmupQjQRZ8CbeHSsOmU",
+  "types": [
+    "breakfast_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2556 8551",
+  "formattedAddress": "103台灣臺北市大同區星明里太原路154號",
+  "location": {
+    "latitude": 25.054493,
+    "longitude": 121.5162799
+  },
+  "rating": 4.5,
+  "websiteUri": "http://www.cdmc.com.tw:8080/mobile/index.do;jsessionid=A04B093EF1BEB25CFE58F3C0E60AF4E7?terminalId=DMCK0122101&qrdeskid=0#/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 596,
+  "displayName": {
+    "text": "日新現做早餐店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJG-UxbmupQjQRZ8CbeHSsOmU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5Uk0xbDNVbkZmWlZoNmFuWjRRbVIzWkdkd01GRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 3,
+      "text": {
+        "text": "蛋餅加菜會有很多小黃瓜不錯吃，餐點價格也都蠻實惠，但冷氣太弱空氣也不流通，有煙味有點重沒用的不太舒服，建議外帶。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "蛋餅加菜會有很多小黃瓜不錯吃，餐點價格也都蠻實惠，但冷氣太弱空氣也不流通，有煙味有點重沒用的不太舒服，建議外帶。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "三重Bro",
+        "uri": "https://www.google.com/maps/contrib/112517312873120340198/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0KREqpY5bseTEAjPIhnQyCHtcGvNp_ME86ctCWOwYCb-gW3ZN=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-08-24T05:45:16.262470939Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5Uk0xbDNVbkZmWlZoNmFuWjRRbVIzWkdkd01GRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5Uk0xbDNVbkZmWlZoNmFuWjRRbVIzWkdkd01GRRAB!2m1!1s0x3442a96b6e31e51b:0x653aac74789bc067"
+    },
+    {
+      "name": "places/ChIJG-UxbmupQjQRZ8CbeHSsOmU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKWVFYTndXbUkyUmxOb01qWkliMHBIUmpOMmNWRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "這家據說是Reddit 在地人推薦 剛好離北車也不遠就來吃一下傳統早餐店的滋味 一開始最讓人印象深刻的是可以QR code 點餐而且客製內容豐富 最棒的是還能line pay 街口支付 餐點部分就是你我以前巷口早餐店的味道 店內乾淨舒適還放著老中文歌 氣氛相當不錯 推薦國內外遊客 早上肚子餓了 可以來這裡吃吃早餐回味小時候的回憶",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這家據說是Reddit 在地人推薦 剛好離北車也不遠就來吃一下傳統早餐店的滋味 一開始最讓人印象深刻的是可以QR code 點餐而且客製內容豐富 最棒的是還能line pay 街口支付 餐點部分就是你我以前巷口早餐店的味道 店內乾淨舒適還放著老中文歌 氣氛相當不錯 推薦國內外遊客 早上肚子餓了 可以來這裡吃吃早餐回味小時候的回憶",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "維妮",
+        "uri": "https://www.google.com/maps/contrib/109932774710021759373/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVJ5RiGnbGMSSe5DiHLhA4YrRzcBovRs4aORa1ve421rK-IiPQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-08-14T03:24:22.981113817Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKWVFYTndXbUkyUmxOb01qWkliMHBIUmpOMmNWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKWVFYTndXbUkyUmxOb01qWkliMHBIUmpOMmNWRRAB!2m1!1s0x3442a96b6e31e51b:0x653aac74789bc067"
+    },
+    {
+      "name": "places/ChIJG-UxbmupQjQRZ8CbeHSsOmU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkWWVVUnVlUzFHZFZGQ2FHdFRWVXB5YjBaVFdXYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "很喜歡這間店的app!\n很鉅細靡遺！\n材料可以分開點！\n飲料用鋼杯裝！讚讚\n2025.12月edited",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很喜歡這間店的app!\n很鉅細靡遺！\n材料可以分開點！\n飲料用鋼杯裝！讚讚\n2025.12月edited",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張特別",
+        "uri": "https://www.google.com/maps/contrib/117786854641718905617/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUCd8avzTKCWiicboUdD_29L2KrnjWuZTAnB7idEA3Lt1uzzY7xBg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-07T05:26:17.264757480Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkWWVVUnVlUzFHZFZGQ2FHdFRWVXB5YjBaVFdXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkWWVVUnVlUzFHZFZGQ2FHdFRWVXB5YjBaVFdXYxAB!2m1!1s0x3442a96b6e31e51b:0x653aac74789bc067"
+    },
+    {
+      "name": "places/ChIJG-UxbmupQjQRZ8CbeHSsOmU/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3NnBxelhREAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "🍳中山站、寧夏夜市附近的傳統早餐店！\n\n這家是我個人很愛的早餐店，之前來找住附近的朋友時吃過幾點次，這次中午經過附近突然想吃，赫然發現只開到下午一點，當時已接近一點，還好親切的店員們還是讓我進去內用，真的連早餐店的人情味都滿分💯\n\n餐點方面，比較需要注意的是飲料可以調整甜度，但「⚠️少糖跟微糖和一般飲料店相反唷！」，這家少糖是三分；微糖是七分。\n\n內用直接掃桌上的條碼線上點餐，很厲害的一個是，這家店的線上點餐系統完美重現了台灣早餐店豐富客製化選項的優點，而且點餐介面也不會太繁瑣，親自點餐的話應該就知道我在說什麼🤣\n\n餐點口味方面都不錯，或許不到最頂，但也是台灣好吃的早餐店的口味了。我個人比較沒那麼喜歡蛋餅，因為蛋餅是比較軟皮的蛋餅，但蛋餅味道也不差。另外，鐵板麵是類似油麵的麵體，味道還不賴。\n\n價格方面也不貴，一兩百就可以吃很飽了，不過畢竟在國小正對面，上學時段可能人很多，要注意預留時間。\n\n內用座位區比較小且擁擠是沒那麼舒服，但除此之外也沒什麼好挑剔的，店內雖有些老舊但也還算乾淨。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "🍳中山站、寧夏夜市附近的傳統早餐店！\n\n這家是我個人很愛的早餐店，之前來找住附近的朋友時吃過幾點次，這次中午經過附近突然想吃，赫然發現只開到下午一點，當時已接近一點，還好親切的店員們還是讓我進去內用，真的連早餐店的人情味都滿分💯\n\n餐點方面，比較需要注意的是飲料可以調整甜度，但「⚠️少糖跟微糖和一般飲料店相反唷！」，這家少糖是三分；微糖是七分。\n\n內用直接掃桌上的條碼線上點餐，很厲害的一個是，這家店的線上點餐系統完美重現了台灣早餐店豐富客製化選項的優點，而且點餐介面也不會太繁瑣，親自點餐的話應該就知道我在說什麼🤣\n\n餐點口味方面都不錯，或許不到最頂，但也是台灣好吃的早餐店的口味了。我個人比較沒那麼喜歡蛋餅，因為蛋餅是比較軟皮的蛋餅，但蛋餅味道也不差。另外，鐵板麵是類似油麵的麵體，味道還不賴。\n\n價格方面也不貴，一兩百就可以吃很飽了，不過畢竟在國小正對面，上學時段可能人很多，要注意預留時間。\n\n內用座位區比較小且擁擠是沒那麼舒服，但除此之外也沒什麼好挑剔的，店內雖有些老舊但也還算乾淨。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "優質餐廳蒐藏家",
+        "uri": "https://www.google.com/maps/contrib/118056394838495255004/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKdXevOyy5OFVBZQhejLkBc_N67egdZVZpkbBKeB1YmxmFpFg=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-03-25T09:40:06.843104Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3NnBxelhREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3NnBxelhREAE!2m1!1s0x3442a96b6e31e51b:0x653aac74789bc067"
+    },
+    {
+      "name": "places/ChIJG-UxbmupQjQRZ8CbeHSsOmU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsMVNVbHhlSGg2TlU5M2FUVm9aWFpXUlRndFluYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 3,
+      "text": {
+        "text": "生意很好 外帶預訂訂單很多 店家有條理處理每筆訂單 ～\n餐點覺得還好～🥲",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "生意很好 外帶預訂訂單很多 店家有條理處理每筆訂單 ～\n餐點覺得還好～🥲",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jennifer",
+        "uri": "https://www.google.com/maps/contrib/103972840051397729795/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJYZNh12gjzv1NtlPXR-Yh4HHY9fSYEPOFjXeJWeydkVeF18WJ2=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-05T09:47:45.069161667Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsMVNVbHhlSGg2TlU5M2FUVm9aWFpXUlRndFluYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsMVNVbHhlSGg2TlU5M2FUVm9aWFpXUlRndFluYxAB!2m1!1s0x3442a96b6e31e51b:0x653aac74789bc067"
+    }
+  ]
+}

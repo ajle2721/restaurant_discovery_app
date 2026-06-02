@@ -1,0 +1,129 @@
+{
+  "id": "ChIJ9R3Z83mrQjQRhVhQROb8yGk",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2932 5290",
+  "formattedAddress": "116台灣臺北市文山區景仁里景仁街20巷12號",
+  "location": {
+    "latitude": 24.9977192,
+    "longitude": 121.5401255
+  },
+  "rating": 4.2,
+  "userRatingCount": 71,
+  "displayName": {
+    "text": "玉秀早午餐 (美式早午餐)",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ9R3Z83mrQjQRhVhQROb8yGk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0VVJEZEtaMEV5YWt4Q05XcERjSFJJWlV0NU9VRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "親切純樸的早餐店，漢堡放了很多細切白洋蔥，也有番茄，吃起來很舒服。蛋餅也不錯。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "親切純樸的早餐店，漢堡放了很多細切白洋蔥，也有番茄，吃起來很舒服。蛋餅也不錯。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "olga su",
+        "uri": "https://www.google.com/maps/contrib/113884753979915057815/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVnOdu2-tdGX4YA2Tb7UvEQ2P8qNnzHIpdvtTg7OLyJQQshSNvYIw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-05T02:45:20.505849412Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0VVJEZEtaMEV5YWt4Q05XcERjSFJJWlV0NU9VRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0VVJEZEtaMEV5YWt4Q05XcERjSFJJWlV0NU9VRRAB!2m1!1s0x3442ab79f3d91df5:0x69c8fce644505885"
+    },
+    {
+      "name": "places/ChIJ9R3Z83mrQjQRhVhQROb8yGk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paSlF6RnpPR2hwWDNoVlh6aEJURVkwYUV4NFdVRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "家庭式早餐店，漢堡蛋餅口味不錯，紅茶就相當普通。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "家庭式早餐店，漢堡蛋餅口味不錯，紅茶就相當普通。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Daffy Lin",
+        "uri": "https://www.google.com/maps/contrib/104414435930197781307/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV_6E4ugOe5JrBbpIq6i0ex5wZ1m0fKMEDpSZkDwKfGFZRm1bq0Lg=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-11-05T04:35:46.029616612Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paSlF6RnpPR2hwWDNoVlh6aEJURVkwYUV4NFdVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paSlF6RnpPR2hwWDNoVlh6aEJURVkwYUV4NFdVRRAB!2m1!1s0x3442ab79f3d91df5:0x69c8fce644505885"
+    },
+    {
+      "name": "places/ChIJ9R3Z83mrQjQRhVhQROb8yGk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKVVdGQkRlWEp1VkVWRU1uZFFiVmRtWWt0TVUzYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 1,
+      "text": {
+        "text": "一個豬排蛋餅，一個培根蛋餅，沒說沒問直接兩種放一起，蛋餅皮全都燒焦，詢問鐵板麵套餐是否有加肉，（直接加熱狗，直接用120元的），結完帳了，又再說少算我20元……",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一個豬排蛋餅，一個培根蛋餅，沒說沒問直接兩種放一起，蛋餅皮全都燒焦，詢問鐵板麵套餐是否有加肉，（直接加熱狗，直接用120元的），結完帳了，又再說少算我20元……",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "許小玉",
+        "uri": "https://www.google.com/maps/contrib/112439772098777436766/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW1hPnK-k7KmurY7KuVqjC31IZMDghngM7Mgasn8veUKc_RKu-gwQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-10-18T00:18:45.470685345Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKVVdGQkRlWEp1VkVWRU1uZFFiVmRtWWt0TVUzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKVVdGQkRlWEp1VkVWRU1uZFFiVmRtWWt0TVUzYxAB!2m1!1s0x3442ab79f3d91df5:0x69c8fce644505885"
+    },
+    {
+      "name": "places/ChIJ9R3Z83mrQjQRhVhQROb8yGk/reviews/ChZDSUhNMG9nS0VJQ0FnSURMbzRiYkhBEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "蛋餅（有蔥）和鐵板麵都好吃，份量也夠，至於價格和環境較普通",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "蛋餅（有蔥）和鐵板麵都好吃，份量也夠，至於價格和環境較普通",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張耿嘉",
+        "uri": "https://www.google.com/maps/contrib/110147273566898072713/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWDvfeW_BZnV8HLpCiJkIq_TC7hTkAMlFM-hCS2bztgj5p8_QNI=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2024-06-30T08:59:46.490983Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURMbzRiYkhBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURMbzRiYkhBEAE!2m1!1s0x3442ab79f3d91df5:0x69c8fce644505885"
+    },
+    {
+      "name": "places/ChIJ9R3Z83mrQjQRhVhQROb8yGk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwallrUkNTbVZ1ZG5CMU1rUlVXbFZTYzJWYVoxRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "餐點好吃 便宜 騎車去那裡都感覺也很難停車 停紅線又怕檢舉魔人 所以車牌盡量朝內",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點好吃 便宜 騎車去那裡都感覺也很難停車 停紅線又怕檢舉魔人 所以車牌盡量朝內",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Black Pig",
+        "uri": "https://www.google.com/maps/contrib/104808880939680344179/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJLD_kCfLIqzXcjwmrhJn6vvLVYpjDFYOrRS30mgr_EhlVaAg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-11-25T09:23:03.190234645Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwallrUkNTbVZ1ZG5CMU1rUlVXbFZTYzJWYVoxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwallrUkNTbVZ1ZG5CMU1rUlVXbFZTYzJWYVoxRRAB!2m1!1s0x3442ab79f3d91df5:0x69c8fce644505885"
+    }
+  ]
+}

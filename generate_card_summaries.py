@@ -48,11 +48,11 @@ def generate_card_summary(level, features, ai_summary):
             return "空間舒適，適合家庭用餐，但設施資訊較少。"
             
     elif level == "需留意" or level == "Needs Attention":
-        if "空間" in ai_summary and "小" in ai_summary:
+        if "空間" in ai_summary and ("小" in ai_summary or "擁擠" in ai_summary or "緊湊" in ai_summary):
             return "空間較小且座位有限，帶小孩前往需留意。"
         if "安靜" in ai_summary:
             return "環境較為安靜，帶小孩用餐可能需要多留意。"
-        return "部分條件較為受限，建議查看詳情後再做決定。"
+        return "部分用餐條件較受限，建議查看詳情後再做決定。"
         
     else: # 資訊不足
         return "目前親子設施相關資訊較有限，建議前往前再確認。"
@@ -81,12 +81,16 @@ def main():
             features = get_unique_features(resp_data)
             
             card_summary = generate_card_summary(level, features, ai_summary)
+            if card_summary:
+                card_summary = card_summary.replace(",", "，")
             
             # Truncate if necessary (though our templates are short)
             if len(card_summary) > 45:
                 card_summary = card_summary[:42] + "..."
                 
             ai_data["card_summary"] = card_summary
+            if "generated_summary" in ai_data and isinstance(ai_data["generated_summary"], str):
+                ai_data["generated_summary"] = ai_data["generated_summary"].replace(",", "，")
             
             with open(ai_path, "w", encoding="utf-8") as f:
                 json.dump(ai_data, f, ensure_ascii=False, indent=4)

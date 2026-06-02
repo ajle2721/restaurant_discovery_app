@@ -1,0 +1,128 @@
+{
+  "id": "ChIJDSgyVE-rQjQRXy9Z9vJMWBA",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2930 0100",
+  "formattedAddress": "116台灣臺北市文山區景華里羅斯福路六段267號1樓後棟",
+  "location": {
+    "latitude": 24.994896999999998,
+    "longitude": 121.54157399999998
+  },
+  "rating": 4.6,
+  "userRatingCount": 134,
+  "displayName": {
+    "text": "早安獸",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJDSgyVE-rQjQRXy9Z9vJMWBA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaM2EwdHllbWxaU2xJeVRtUlFYMGh5YlV4aFQwRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "各式早餐都非常好吃，\n處處可見老闆的用心。\n\n大推炒泡麵！❤️\n\n老闆總是活力滿滿，\n會讓人開心一整天。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "各式早餐都非常好吃，\n處處可見老闆的用心。\n\n大推炒泡麵！❤️\n\n老闆總是活力滿滿，\n會讓人開心一整天。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "余仁龍",
+        "uri": "https://www.google.com/maps/contrib/102588434969143310985/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWA6bjxeLrtmBRt9rbZYbgchNlfQ09kORucFrCGwMKqTAr83E8T=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-19T02:55:23.010541904Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaM2EwdHllbWxaU2xJeVRtUlFYMGh5YlV4aFQwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaM2EwdHllbWxaU2xJeVRtUlFYMGh5YlV4aFQwRRAB!2m1!1s0x3442ab4f5432280d:0x10584cf2f6592f5f"
+    },
+    {
+      "name": "places/ChIJDSgyVE-rQjQRXy9Z9vJMWBA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Od2FGaG5ORTFOVVRKTFkyZFZiekUxUjFGbFJFRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "我是景美在地人，必須說這間是我覺得景美最好吃的早餐店！一個禮拜會來這邊報到三次，不管是蛋餅還是吐司都很好吃，有做出跟其他早餐店的差別，老闆非常親切有活力、一間小而美的寶藏小店🫶🏻🥰",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "我是景美在地人，必須說這間是我覺得景美最好吃的早餐店！一個禮拜會來這邊報到三次，不管是蛋餅還是吐司都很好吃，有做出跟其他早餐店的差別，老闆非常親切有活力、一間小而美的寶藏小店🫶🏻🥰",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "YiJhen Liu",
+        "uri": "https://www.google.com/maps/contrib/107523827633605878887/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUuTNGeQbPQvFxckoa4dJNVaAPUSJYmdtTkR9sd5Rjp8iIlFgAq=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-21T04:40:45.754481988Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Od2FGaG5ORTFOVVRKTFkyZFZiekUxUjFGbFJFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Od2FGaG5ORTFOVVRKTFkyZFZiekUxUjFGbFJFRRAB!2m1!1s0x3442ab4f5432280d:0x10584cf2f6592f5f"
+    },
+    {
+      "name": "places/ChIJDSgyVE-rQjQRXy9Z9vJMWBA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oUWJXUTBiR2RmTWxaMlpESXpTRXRxYVZVNFRrRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "支持有風格的小店！\n老闆熱情、充滿活力！\n我們點了「麻辣王子炒泡麵」、「果漬豬排蛋餅」、「蘋果薯泥厚蛋吐司」。\n\n「蘋果薯泥厚蛋吐司」：清爽解膩，適合要吃健康餐、早餐不能吃太油的人\n\n「果漬豬排蛋餅」：蛋餅是脆脆的，肉質軟嫩。\n\n「麻辣王子炒泡麵」：炒泡麵非常的入味！\n\n座位比較少、比較窄。但是非常推薦來試試看！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "支持有風格的小店！\n老闆熱情、充滿活力！\n我們點了「麻辣王子炒泡麵」、「果漬豬排蛋餅」、「蘋果薯泥厚蛋吐司」。\n\n「蘋果薯泥厚蛋吐司」：清爽解膩，適合要吃健康餐、早餐不能吃太油的人\n\n「果漬豬排蛋餅」：蛋餅是脆脆的，肉質軟嫩。\n\n「麻辣王子炒泡麵」：炒泡麵非常的入味！\n\n座位比較少、比較窄。但是非常推薦來試試看！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "大吃一驚",
+        "uri": "https://www.google.com/maps/contrib/113998334653419775914/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUZ0iRQbAtXSma-Zs7vywfUO4_BUUGCWQsHFar8uYk6doJpD_0=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-10-27T02:43:36.025198697Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oUWJXUTBiR2RmTWxaMlpESXpTRXRxYVZVNFRrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oUWJXUTBiR2RmTWxaMlpESXpTRXRxYVZVNFRrRRAB!2m1!1s0x3442ab4f5432280d:0x10584cf2f6592f5f"
+    },
+    {
+      "name": "places/ChIJDSgyVE-rQjQRXy9Z9vJMWBA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tzMk9XRlZZMmQzWlhsMFlXUnpXSFYxWkVaeFdYYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "外面抽煙的話，體驗會很差\n夏天可能會有蚊子\n\n出餐快，好吃，奶茶也不甜",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "外面抽煙的話，體驗會很差\n夏天可能會有蚊子\n\n出餐快，好吃，奶茶也不甜",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "YARUO LIANG",
+        "uri": "https://www.google.com/maps/contrib/113256758668217815896/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXXO1FWaRaagJBISmv9MloGmjMZLMWUl9MdV7EwY0Gk4rXqqHs=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-01-09T03:46:29.411486313Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tzMk9XRlZZMmQzWlhsMFlXUnpXSFYxWkVaeFdYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tzMk9XRlZZMmQzWlhsMFlXUnpXSFYxWkVaeFdYYxAB!2m1!1s0x3442ab4f5432280d:0x10584cf2f6592f5f"
+    },
+    {
+      "name": "places/ChIJDSgyVE-rQjQRXy9Z9vJMWBA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21jNFltcFVNR0kyTWtac1FrVnlXa2gwVGtGaFRHYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "住景美那麼久，最常去吃的早餐店❤️\n老闆人很好服務也超好\n雖然位子不多，有時候需要坐外面，但早餐好吃都值得😊\n推推炒泡麵，可以加購套餐！\n裡面還有高麗菜+蛋+肉片，也不會太鹹👍🏼\n奶茶就是早餐店經典奶茶，好喝！\n出餐也很快～～大勝其他家早餐店",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "住景美那麼久，最常去吃的早餐店❤️\n老闆人很好服務也超好\n雖然位子不多，有時候需要坐外面，但早餐好吃都值得😊\n推推炒泡麵，可以加購套餐！\n裡面還有高麗菜+蛋+肉片，也不會太鹹👍🏼\n奶茶就是早餐店經典奶茶，好喝！\n出餐也很快～～大勝其他家早餐店",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Grace Lin",
+        "uri": "https://www.google.com/maps/contrib/107169740671925961999/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmTzFj-sksdowPYdPw1-5qi5GAWGNwl7fKxFowXS9N8DbMBSBGtg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-20T05:45:34.221680144Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21jNFltcFVNR0kyTWtac1FrVnlXa2gwVGtGaFRHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21jNFltcFVNR0kyTWtac1FrVnlXa2gwVGtGaFRHYxAB!2m1!1s0x3442ab4f5432280d:0x10584cf2f6592f5f"
+    }
+  ]
+}

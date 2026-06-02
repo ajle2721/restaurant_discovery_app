@@ -1,33 +1,57 @@
-{
-    " child_seat available": {
-        "result": "Yes",
-        "evidence": "User provided info",
-        "confidence": 1.0
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "空間很寬敞，很適合親子聚會。",
-        "confidence": 1.0
-    },
-    "Kids menu available": {
-        "result": "Yes",
-        "evidence": "兒童餐：青醬雞肉丸麵。",
-        "confidence": 1.0
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "不過小孩真的太多了，所以周圍很吵鬧，很適合帶孩子來用餐，有很不錯的小孩遊樂設施，但情侶用餐再考慮一下。",
-        "confidence": 1.0
-    },
-    "parent_friendly_score": 5,
-    "parent_friendly_level": "高",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "空間很寬敞，很適合親子聚會。",
-        "不過小孩真的太多了，所以周圍很吵鬧，有很不錯的小孩遊樂設施",
-        "兒童餐：青醬雞肉丸麵。",
-        "空間很大適合多人聚餐"
-    ],
-    "generated_summary": "該餐廳空間寬敞且非常親子友善，設有適合學齡前兒童的遊戲區及兒童餐點，環境氣氛熱鬧，非常適合帶小孩前往。",
-    "card_summary": "空間寬敞且非常親子友善，設有適合學齡前兒童的遊戲區及兒童餐點，環境氣氛熱鬧。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Yes",
+                                  "evidence":  "User provided info",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "空間很寬敞，很適合親子聚會。",
+                             "confidence":  1
+                         },
+    "Kids menu available":  {
+                                "result":  "Yes",
+                                "evidence":  "兒童餐：青醬雞肉丸麵。",
+                                "confidence":  1
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "不過小孩真的太多了，所以周圍很吵鬧，很適合帶孩子來用餐，有很不錯的小孩遊樂設施，但情侶用餐再考慮一下。",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Yes",
+                          "evidence":  "✅遊戲區",
+                          "confidence":  0.9
+                      },
+    "has_private_room":  {
+                             "result":  "Yes",
+                             "evidence":  "人工校正：提供精緻親子生日慶生、寶寶週歲抓週派對與家庭活動包場辦活動",
+                             "confidence":  1
+                         },
+    "has_tableware":  {
+                          "result":  "Yes",
+                          "evidence":  "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Yes",
+                             "evidence":  "系統自動識別：親子主題餐廳必備尿布台",
+                             "confidence":  1
+                         },
+    "generated_summary":  "根據評論分析，這家餐廳設有深受孩子喜愛的廚房玩具遊樂桌與圍裙裝扮拍照區，挑高的用餐空間寬敞舒適，氣氛歡樂熱鬧。店內專注於選用新鮮天然食材，並貼心備有兒童座椅與專用碗盤餐具，同時提供精緻的親子生日慶生與寶寶週歲抓週包場活動服務。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "系統自動識別：官方登記或評論提及為親子主題餐廳，提供兒童椅",
+                              "空間很寬敞",
+                              "⚠️兒童餐：本來想點兔子咖喱飯",
+                              "所以周圍很吵鬧",
+                              "有很不錯的小孩遊樂設施",
+                              "人工校正：提供精緻親子生日慶生、寶寶週歲抓週派對與家庭活動包場辦活動",
+                              "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+                              "系統自動識別：親子主題餐廳必備尿布台"
+                          ],
+    "parent_friendly_score":  10,
+    "parent_friendly_level":  "高",
+    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
 }

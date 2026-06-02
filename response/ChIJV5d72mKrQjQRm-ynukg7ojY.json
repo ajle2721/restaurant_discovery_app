@@ -1,0 +1,133 @@
+{
+  "id": "ChIJV5d72mKrQjQRm-ynukg7ojY",
+  "types": [
+    "restaurant",
+    "brunch_restaurant",
+    "food_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 8772 6867",
+  "formattedAddress": "106台灣臺北市大安區車層里延吉街70巷5弄6號",
+  "location": {
+    "latitude": 25.0423428,
+    "longitude": 121.5536322
+  },
+  "rating": 4.6,
+  "websiteUri": "https://atfirst03.weebly.com/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 3252,
+  "displayName": {
+    "text": "At.First早寓",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJV5d72mKrQjQRm-ynukg7ojY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SRk5UZzRjV2wyVmtsZmF6ZE5YM2xVZGxKMGRIYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "沒訂位的來兩次都沒能吃上\n這次訂位前往\n好像太太期待 就比較失望…\n\n食物沒有讓我有任何驚艷的點\n可頌完全不酥、內抹奶油會容易膩\n松阪豬煎的頗硬 口感不是很好\n歐姆蛋裡的起司太多 量大約主角「蛋」了\n\n另外就是餐具區的飲用水🚰\n真的水量太小啦…感覺需要修一下囉…",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "沒訂位的來兩次都沒能吃上\n這次訂位前往\n好像太太期待 就比較失望…\n\n食物沒有讓我有任何驚艷的點\n可頌完全不酥、內抹奶油會容易膩\n松阪豬煎的頗硬 口感不是很好\n歐姆蛋裡的起司太多 量大約主角「蛋」了\n\n另外就是餐具區的飲用水🚰\n真的水量太小啦…感覺需要修一下囉…",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chloe Chen",
+        "uri": "https://www.google.com/maps/contrib/116270306675237879065/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUct4LvudzWpqC-WJssgaysZ027TP07JzH8tBVMYcx26wwC9z1RQw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-30T09:08:29.281051923Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SRk5UZzRjV2wyVmtsZmF6ZE5YM2xVZGxKMGRIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SRk5UZzRjV2wyVmtsZmF6ZE5YM2xVZGxKMGRIYxAB!2m1!1s0x3442ab62da7b9757:0x36a23b48baa7ec9b"
+    },
+    {
+      "name": "places/ChIJV5d72mKrQjQRm-ynukg7ojY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tvd1JtbGtaMVUwT1VsdmFHdG1UeloyUjJGaWJWRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "生意很好👍🏻週末一定要訂位！早午餐選擇很多，餐盤很豐富，鮮魚份量很大，但可惜是選用鯛魚，法國吐司也稍失望🥹牛排蠻熟的～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "生意很好👍🏻週末一定要訂位！早午餐選擇很多，餐盤很豐富，鮮魚份量很大，但可惜是選用鯛魚，法國吐司也稍失望🥹牛排蠻熟的～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Tracy",
+        "uri": "https://www.google.com/maps/contrib/110452211329687281566/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXc2mxuUlMaMsCnCGtXbwJo-raMmH_-IunDtxo7DrHLGyBiAGtkbQ=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-02-22T05:25:15.240210565Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tvd1JtbGtaMVUwT1VsdmFHdG1UeloyUjJGaWJWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tvd1JtbGtaMVUwT1VsdmFHdG1UeloyUjJGaWJWRRAB!2m1!1s0x3442ab62da7b9757:0x36a23b48baa7ec9b"
+    },
+    {
+      "name": "places/ChIJV5d72mKrQjQRm-ynukg7ojY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Rek9FbDFOVU15YTJGdFR6TkRURk5FUlRCaU5HYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "昨天朋友有訂位，店裡已經高朋滿座，今天11點到就可以馬上入座，也許是下雨天？\n加利亞香辣茄汁阪腱牛排義大利麵，連續二天來吃同一道餐，微辣的麵麵牛排軟嫩新鮮美味料理，價錢親民最重要好吃到極點！\n一個人花300元左右可以吃到好吃令人開心的美食！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "昨天朋友有訂位，店裡已經高朋滿座，今天11點到就可以馬上入座，也許是下雨天？\n加利亞香辣茄汁阪腱牛排義大利麵，連續二天來吃同一道餐，微辣的麵麵牛排軟嫩新鮮美味料理，價錢親民最重要好吃到極點！\n一個人花300元左右可以吃到好吃令人開心的美食！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jessica Lien",
+        "uri": "https://www.google.com/maps/contrib/115911683989323574306/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIXxuohWytfK--HArm6FOo_4kkb3voGXilR96vC0jadrKyjEg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-31T08:18:29.966527714Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Rek9FbDFOVU15YTJGdFR6TkRURk5FUlRCaU5HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Rek9FbDFOVU15YTJGdFR6TkRURk5FUlRCaU5HYxAB!2m1!1s0x3442ab62da7b9757:0x36a23b48baa7ec9b"
+    },
+    {
+      "name": "places/ChIJV5d72mKrQjQRm-ynukg7ojY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kNllrbEViMEpDYmpsV1ZUWXRkMmRDUlRWUVRYYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "大年初二也有齊全的菜色很不簡單，只是才吃1小時六點就準備收攤，感覺有些催促",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "大年初二也有齊全的菜色很不簡單，只是才吃1小時六點就準備收攤，感覺有些催促",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Amy Skylin",
+        "uri": "https://www.google.com/maps/contrib/102857947139201863135/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLoLHTy7MQxz1tlH_EN8eHmvwR7-kckfQQWv4G1pAU3e-UM6A=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-03-05T13:12:50.277488106Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kNllrbEViMEpDYmpsV1ZUWXRkMmRDUlRWUVRYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kNllrbEViMEpDYmpsV1ZUWXRkMmRDUlRWUVRYYxAB!2m1!1s0x3442ab62da7b9757:0x36a23b48baa7ec9b"
+    },
+    {
+      "name": "places/ChIJV5d72mKrQjQRm-ynukg7ojY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CM2RFbzBOSEpUYkRjMldVZFhOMFZYUnkwMmNGRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "他名字叫早寓，到來此對我來說是偶遇，看見裝修明亮，便走進來，餐牌照片拍得非常吸引，台灣的Brunch 真的太競爭了。\n我們order了一個大蝦，牛油果可頌，賣相擺盤都不錯，但蛋的芝士太多，可頌當中加牛油，薯條有包漿來炸的，所以整體太膩了，雖然擺盤賣相是好的。\n另外一個雞腿扒法國吐司，這個不是太膩，但雞腿太鹹，其實只要優酪和菜沙拉多一點，整體便平均了，他們的咖啡算是不錯，有改良空間的brunch店。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "他名字叫早寓，到來此對我來說是偶遇，看見裝修明亮，便走進來，餐牌照片拍得非常吸引，台灣的Brunch 真的太競爭了。\n我們order了一個大蝦，牛油果可頌，賣相擺盤都不錯，但蛋的芝士太多，可頌當中加牛油，薯條有包漿來炸的，所以整體太膩了，雖然擺盤賣相是好的。\n另外一個雞腿扒法國吐司，這個不是太膩，但雞腿太鹹，其實只要優酪和菜沙拉多一點，整體便平均了，他們的咖啡算是不錯，有改良空間的brunch店。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lau Herman",
+        "uri": "https://www.google.com/maps/contrib/100943750436074674172/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX5xFpOFgff_BWWoMFbXhcDUqM-2IpFirMzm08kx3Ac6K56Mk-c=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-10T04:20:38.373752988Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CM2RFbzBOSEpUYkRjMldVZFhOMFZYUnkwMmNGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CM2RFbzBOSEpUYkRjMldVZFhOMFZYUnkwMmNGRRAB!2m1!1s0x3442ab62da7b9757:0x36a23b48baa7ec9b"
+    }
+  ]
+}

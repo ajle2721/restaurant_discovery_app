@@ -1,31 +1,54 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "環境不錯，用餐環境明亮乾淨，位子算寬敞，也有不會被其他桌客人影響到的空間距離。",
-        "confidence": 1.0
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "環境不錯，用餐環境明亮乾淨，位子算寬敞，也有不會被其他桌客人影響到的空間距離。",
-        "店內空間大、但座位也多。"
-    ],
-    "generated_summary": "餐廳用餐環境寬敞舒適，座位間距適當，但目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": "餐廳用餐環境寬敞舒適。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Yes",
+                                  "evidence":  "使用者回報與人工校正：備有兒童椅（店內僅有2張，訂位時必須提早去電預約）",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "環境不錯，用餐環境明亮乾淨，位子算寬敞，也有不會被其他桌客人影響到的空間距離。",
+                             "confidence":  1
+                         },
+    "Kids menu available":  {
+                                "result":  "No",
+                                "evidence":  "使用者回報與人工校正：無專屬兒童套餐，提供義式料理與美式餐點分食",
+                                "confidence":  1
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "系統自動識別：同時提供兒童椅與兒童餐具，通常為親子友善且不怕吵之用餐環境",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Yes",
+                          "evidence":  "使用者回報與人工校正：貼心提供兒童專用餐具",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Yes",
+                             "evidence":  "位於百貨商場/交通樞紐（11568台灣臺北市南港區經貿二路131號1樓），商場內設有公共尿布台及哺乳室",
+                             "confidence":  1
+                         },
+    "generated_summary":  "根據評論分析，店內製作的披薩口味深受顧客推崇。店內貼心備有兒童座椅與專用餐具，可就近使用商場內公共尿布台及哺乳室。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "使用者回報與人工校正：備有兒童椅（店內僅有2張，訂位時必須提早去電預約）",
+                              "位子算寬敞",
+                              "系統自動識別：同時提供兒童椅與兒童餐具，通常為親子友善且不怕吵之用餐環境",
+                              "使用者回報與人工校正：貼心提供兒童專用餐具",
+                              "系統自動識別與人工校正：位於百貨商場內，可使用商場內公共尿布台及哺乳室"
+                          ],
+    "parent_friendly_score":  6,
+    "parent_friendly_level":  "高",
+    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
 }

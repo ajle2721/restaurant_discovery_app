@@ -1,31 +1,50 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "環境幽靜，位子跟位子間距不會過近，就算是平日晚上人也是不少。",
-        "confidence": 1.0
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "No",
-        "evidence": "雖然菜色不算太多，但是整體吃起來的感覺很舒適，可能較適合喜歡安靜及不喜氣味太重的小夥伴用餐。",
-        "confidence": 1.0
-    },
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "環境幽靜，位子跟位子間距不會過近，就算是平日晚上人也是不少。",
-        "雖然菜色不算太多，但是整體吃起來的感覺很舒適，可能較適合喜歡安靜及不喜氣味太重的小夥伴用餐。"
-    ],
-    "generated_summary": "餐廳環境舒適且座位間距寬敞，但氛圍較為幽靜，可能較適合喜歡安靜用餐的顧客。",
-    "card_summary": "空間較寬敞，但環境較安靜，前往時需多加留意。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  "環境幽靜，位子跟位子間距不會過近，就算是平日晚上人也是不少。",
+                             "confidence":  1
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "No",
+                               "evidence":  "雖然菜色不算太多，但是整體吃起來的感覺很舒適，可能較適合喜歡安靜及不喜氣味太重的小夥伴用餐。",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，手作麵包與特色輕食風味獲得顧客好評。環境較為安靜，帶小孩需留意，適合帶孩子前來用餐。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "可能較適合喜歡安靜及不喜氣味太重的小夥伴用餐"
+                          ],
+    "parent_friendly_score":  -2,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

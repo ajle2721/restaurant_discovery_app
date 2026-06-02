@@ -1,0 +1,133 @@
+{
+  "id": "ChIJ5cvC-pOtQjQR1ERBJ5Z2HBo",
+  "types": [
+    "brunch_restaurant",
+    "breakfast_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 902 358 698",
+  "formattedAddress": "114台灣臺北市內湖區紫星里星雲街77號",
+  "location": {
+    "latitude": 25.079110399999998,
+    "longitude": 121.5928606
+  },
+  "rating": 4.3,
+  "websiteUri": "https://www.instagram.com/morning77_/?igshid=1h4sq3gam9lng",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 189,
+  "displayName": {
+    "text": "早。",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ5cvC-pOtQjQR1ERBJ5Z2HBo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5UVdrWldPRlp6UlhNMldVRk5UMHBCTkZaR05VRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "也是看評論來的 內用\n人員服務都很親切\n環境整潔  廁所 很乾淨\n餐點 好吃 推薦唷～👍🏻👍🏻👍🏻\n有來附近的話 還會再來🩵🩵",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "也是看評論來的 內用\n人員服務都很親切\n環境整潔  廁所 很乾淨\n餐點 好吃 推薦唷～👍🏻👍🏻👍🏻\n有來附近的話 還會再來🩵🩵",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hebe Wu",
+        "uri": "https://www.google.com/maps/contrib/105392280739746050906/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjURu35e-z4TajVEMaaPUYfcnj59IfownV54e62IqEXfwyxDEgXR=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-08T04:58:25.186560657Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5UVdrWldPRlp6UlhNMldVRk5UMHBCTkZaR05VRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5UVdrWldPRlp6UlhNMldVRk5UMHBCTkZaR05VRRAB!2m1!1s0x3442ad93fac2cbe5:0x1a1c7696274144d4"
+    },
+    {
+      "name": "places/ChIJ5cvC-pOtQjQR1ERBJ5Z2HBo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2padGFVZFVRV0ozYzE5RGFEaGxaVVpTYlVjekxVRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 1,
+      "text": {
+        "text": "點了外送發現牛排義大利麵的牛排肉是假肉，吃起來有點像泡棉？😱在意的人請不要點！我的建議是不如價格提高用真肉，不然不要賣這個品項，鮪魚蛋餅就正常味道。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點了外送發現牛排義大利麵的牛排肉是假肉，吃起來有點像泡棉？😱在意的人請不要點！我的建議是不如價格提高用真肉，不然不要賣這個品項，鮪魚蛋餅就正常味道。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Y U",
+        "uri": "https://www.google.com/maps/contrib/109447812243690891171/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIGRAq-5jdkdL8BqbJr0_HtkuvCioRnNq5IHfNh8VNkDaWCS98=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-10-12T05:14:13.684969614Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2padGFVZFVRV0ozYzE5RGFEaGxaVVpTYlVjekxVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2padGFVZFVRV0ozYzE5RGFEaGxaVVpTYlVjekxVRRAB!2m1!1s0x3442ad93fac2cbe5:0x1a1c7696274144d4"
+    },
+    {
+      "name": "places/ChIJ5cvC-pOtQjQR1ERBJ5Z2HBo/reviews/ChZDSUhNMG9nS0VJQ0FnTUNROUttOVhBEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "小清新風的早餐店，店名很特別👍早餐種類很多，食材新鮮，可以坐在窗側一邊安靜用餐，一邊透過大片玻璃看來來往往的車輛人流，也可以坐進店內角落，和三五好友暢聊",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "小清新風的早餐店，店名很特別👍早餐種類很多，食材新鮮，可以坐在窗側一邊安靜用餐，一邊透過大片玻璃看來來往往的車輛人流，也可以坐進店內角落，和三五好友暢聊",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "韓韓",
+        "uri": "https://www.google.com/maps/contrib/116260416290601420678/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXDd54-wQq2yHMzqcNtNzsbjl8gElTMsxLp3LJKWcz3u80bng3cag=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-03-02T11:16:36.432478Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNROUttOVhBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNROUttOVhBEAE!2m1!1s0x3442ad93fac2cbe5:0x1a1c7696274144d4"
+    },
+    {
+      "name": "places/ChIJ5cvC-pOtQjQR1ERBJ5Z2HBo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWNmN6VjBkVjkzZWpSaWRGSklOMGc1ZGxvMlVWRRAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 5,
+      "text": {
+        "text": "上次吃就覺得很讚\n第二次吃 吃到差點忘記拍照\n漢堡份量超大（圖為魚排漢堡）\n最喜歡卡拉雞腿堡、蘿蔔糕、雞塊、薯餅\n除了吃完會有點油煙味>",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "上次吃就覺得很讚\n第二次吃 吃到差點忘記拍照\n漢堡份量超大（圖為魚排漢堡）\n最喜歡卡拉雞腿堡、蘿蔔糕、雞塊、薯餅\n除了吃完會有點油煙味>",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "小松",
+        "uri": "https://www.google.com/maps/contrib/100172161049600254475/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUISS1F3TSMMVlaUT0xP6PrUUsb3KBFLasB4CVs56kj_eaUy6Kz=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-06-20T04:32:14.867980422Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWNmN6VjBkVjkzZWpSaWRGSklOMGc1ZGxvMlVWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWNmN6VjBkVjkzZWpSaWRGSklOMGc1ZGxvMlVWRRAB!2m1!1s0x3442ad93fac2cbe5:0x1a1c7696274144d4"
+    },
+    {
+      "name": "places/ChIJ5cvC-pOtQjQR1ERBJ5Z2HBo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKOXJtRThBRRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 4,
+      "text": {
+        "text": "冰紅茶無敵好喝！\n吻仔魚蛋餅用料實在口感酥嫩！\n煎餃外皮酥脆內餡肉多汁甜！\n蘿蔔糕外酥，口感還算軟但稍硬\n黑胡椒鐵板麵的麵口感稍硬，豬排肉軟嫩\n蔥抓餅就稍微普通，少了點脆酥口感\n\n整體來說如果再點一次餐\n冰紅茶ㄧ定點\n然後吻仔魚蛋餅+煎餃就好",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "冰紅茶無敵好喝！\n吻仔魚蛋餅用料實在口感酥嫩！\n煎餃外皮酥脆內餡肉多汁甜！\n蘿蔔糕外酥，口感還算軟但稍硬\n黑胡椒鐵板麵的麵口感稍硬，豬排肉軟嫩\n蔥抓餅就稍微普通，少了點脆酥口感\n\n整體來說如果再點一次餐\n冰紅茶ㄧ定點\n然後吻仔魚蛋餅+煎餃就好",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Mark Wu",
+        "uri": "https://www.google.com/maps/contrib/108525770591188513481/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLm9d-3HJ3TiY_s3f7eGzvAFbNxf6S4N9letyg5PLc8tGQ6qbs=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2023-06-27T04:19:31.832812Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNKOXJtRThBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNKOXJtRThBRRAB!2m1!1s0x3442ad93fac2cbe5:0x1a1c7696274144d4"
+    }
+  ],
+  "goodForChildren": true
+}

@@ -1,0 +1,134 @@
+{
+  "id": "ChIJKaPybQupQjQR2My_7TkOKRE",
+  "types": [
+    "coffee_shop",
+    "cafe",
+    "food_store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2312 3287",
+  "formattedAddress": "100台灣中正區光復里沅陵街13號",
+  "location": {
+    "latitude": 25.042904,
+    "longitude": 121.51206099999997
+  },
+  "rating": 4,
+  "websiteUri": "http://blog.udn.com/uppu/110770776",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 230,
+  "displayName": {
+    "text": "沅緣咖啡簡餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJKaPybQupQjQR2My_7TkOKRE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aUGVrSkJTa3RQVm5aT1VUWk9kazlZWm14eGRtYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "整體用餐體驗相當不錯，氣氛輕鬆，適合朋友或同事聚會。店內有提供唱歌設備，可以一邊用餐一邊歡唱，互動性高，不會無聊。菜色表現有水準，口味不會過於油膩，份量也算充足，幾道招牌菜都很下飯。上菜速度正常，服務人員態度親切，對需求回應也很即時。整體來說，是一間兼顧餐點品質與娛樂性的好地方，想吃飯又想放鬆唱歌的話，會願意再訪。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "整體用餐體驗相當不錯，氣氛輕鬆，適合朋友或同事聚會。店內有提供唱歌設備，可以一邊用餐一邊歡唱，互動性高，不會無聊。菜色表現有水準，口味不會過於油膩，份量也算充足，幾道招牌菜都很下飯。上菜速度正常，服務人員態度親切，對需求回應也很即時。整體來說，是一間兼顧餐點品質與娛樂性的好地方，想吃飯又想放鬆唱歌的話，會願意再訪。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "小彭有愛",
+        "uri": "https://www.google.com/maps/contrib/117858148690963729523/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXTBjtulYuMauZfIUaijhS1ijbohL7L5oMkchgr3Akb7g0XXKW2=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-15T13:28:29.495700701Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aUGVrSkJTa3RQVm5aT1VUWk9kazlZWm14eGRtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aUGVrSkJTa3RQVm5aT1VUWk9kazlZWm14eGRtYxAB!2m1!1s0x3442a90b6df2a329:0x11290e39edbfccd8"
+    },
+    {
+      "name": "places/ChIJKaPybQupQjQR2My_7TkOKRE/reviews/ChZDSUhNMG9nS0VJQ0FnSURUaGJTbEd3EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "家庭聚餐、吃桌菜、還可以唱卡啦Ok還蠻歡樂，因為吃桌菜都是組合好的，無法選擇，算是家常菜，份量蠻大，口味較ㄧ般，自己比較喜歡的是油飯、牛肉湯…..",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "家庭聚餐、吃桌菜、還可以唱卡啦Ok還蠻歡樂，因為吃桌菜都是組合好的，無法選擇，算是家常菜，份量蠻大，口味較ㄧ般，自己比較喜歡的是油飯、牛肉湯…..",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "小喵喵",
+        "uri": "https://www.google.com/maps/contrib/103582322902548061649/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVl5TaZFLAPdzSYwcvdTA_ajFH_tIkn60zUIBSlVypySFEJTmg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2024-05-26T04:08:37.318677Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURUaGJTbEd3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURUaGJTbEd3EAE!2m1!1s0x3442a90b6df2a329:0x11290e39edbfccd8"
+    },
+    {
+      "name": "places/ChIJKaPybQupQjQR2My_7TkOKRE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNwcVl1VWNnEAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 4,
+      "text": {
+        "text": "在沅陵街二樓的咖啡簡餐，但他們還有隱藏版桌菜，三樓的房間，只要7000元就有一桌子豐盛的菜餚，還可從中午唱卡拉OK到下午五點，對喜歡唱歌的朋友是一個另類的選擇！\n除了餐點，我最愛的是他們自製的蜂蜜檸檬汁，炎炎夏日可以一杯接一杯喝，一大壺才200元哦！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在沅陵街二樓的咖啡簡餐，但他們還有隱藏版桌菜，三樓的房間，只要7000元就有一桌子豐盛的菜餚，還可從中午唱卡拉OK到下午五點，對喜歡唱歌的朋友是一個另類的選擇！\n除了餐點，我最愛的是他們自製的蜂蜜檸檬汁，炎炎夏日可以一杯接一杯喝，一大壺才200元哦！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lia Lin",
+        "uri": "https://www.google.com/maps/contrib/117251657173570916422/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIEJjCp8oxznXuzQ88lzVutF8TnngKadN-50-SKBONszafSGQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2023-08-06T09:34:58.415526Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNwcVl1VWNnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNwcVl1VWNnEAE!2m1!1s0x3442a90b6df2a329:0x11290e39edbfccd8"
+    },
+    {
+      "name": "places/ChIJKaPybQupQjQR2My_7TkOKRE/reviews/Ci9DQUlRQUNvZENodHljRjlvT213eVNVd3lUMVF4T1VKMlNVaGtTWGg1VW14R1ZVRRAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 3,
+      "text": {
+        "text": "桌菜不錯，午間套餐$250比較簡單一些。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "桌菜不錯，午間套餐$250比較簡單一些。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jung Chen",
+        "uri": "https://www.google.com/maps/contrib/115937210979061624410/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWzcefaUL-z3jKxVwzudqvenQirl8ztjZD0WsZ-Jt3172cUrXp=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-07-10T04:30:28.964694403Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT213eVNVd3lUMVF4T1VKMlNVaGtTWGg1VW14R1ZVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT213eVNVd3lUMVF4T1VKMlNVaGtTWGg1VW14R1ZVRRAB!2m1!1s0x3442a90b6df2a329:0x11290e39edbfccd8"
+    },
+    {
+      "name": "places/ChIJKaPybQupQjQR2My_7TkOKRE/reviews/ChdDSUhNMG9nS0VJQ0FnSUR0NTVEVy1BRRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 4,
+      "text": {
+        "text": "每道菜非常好吃，包廂還可以唱歌。西門很老的台式餐廳口味很滿足😊",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "每道菜非常好吃，包廂還可以唱歌。西門很老的台式餐廳口味很滿足😊",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Kumi Taki",
+        "uri": "https://www.google.com/maps/contrib/106853651782585365743/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX-2JUjt2ARV3YzKF88qOZxufCo0b4M2CmsSlRK3jLpiZ48qiVo=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2024-02-07T15:53:13.631756Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR0NTVEVy1BRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR0NTVEVy1BRRAB!2m1!1s0x3442a90b6df2a329:0x11290e39edbfccd8"
+    }
+  ]
+}

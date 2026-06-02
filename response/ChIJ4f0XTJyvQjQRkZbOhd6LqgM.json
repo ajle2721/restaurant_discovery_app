@@ -1,0 +1,129 @@
+{
+  "id": "ChIJ4f0XTJyvQjQRkZbOhd6LqgM",
+  "types": [
+    "fast_food_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "111台灣臺北市士林區福佳里承德路五段55號",
+  "location": {
+    "latitude": 25.0980571,
+    "longitude": 121.51533669999999
+  },
+  "rating": 4.3,
+  "userRatingCount": 264,
+  "displayName": {
+    "text": "鼎豐FOOD",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ4f0XTJyvQjQRkZbOhd6LqgM/reviews/ChdDSUhNMG9nS0VJQ0FnTURJeHQzQTd3RRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "兒童節當天前往用餐，雖然人真的爆多的排隊也很久！但出餐卻沒等太久，點了炒泡麵餐口味覺得挺好吃的，店家的服務也很棒。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "兒童節當天前往用餐，雖然人真的爆多的排隊也很久！但出餐卻沒等太久，點了炒泡麵餐口味覺得挺好吃的，店家的服務也很棒。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林艾咪",
+        "uri": "https://www.google.com/maps/contrib/102159918111965542332/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmltJ0wKpY59Pc2fUBPqGnqc-IQdWqLYITmdbx9dF9gSQ6ZAw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-04-13T13:50:33.419228Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJeHQzQTd3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJeHQzQTd3RRAB!2m1!1s0x3442af9c4c17fde1:0x3aa8bde85ce9691"
+    },
+    {
+      "name": "places/ChIJ4f0XTJyvQjQRkZbOhd6LqgM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2treFZVTklRbTU2YzNOV1EyVjBkVXQxZG0xaFExRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 1,
+      "text": {
+        "text": "噁心的店，寫的很好聽\n這樣的兒童餐收180\n\n難吃\n給五星都是因為有送東西吧",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "噁心的店，寫的很好聽\n這樣的兒童餐收180\n\n難吃\n給五星都是因為有送東西吧",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Roy Liao",
+        "uri": "https://www.google.com/maps/contrib/105894480667268371826/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIAIMmYVPw5ZQkX9393EEyXo9soqA00pJKVFccAkzbAnmX2HQ=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-08-22T10:45:23.278731457Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2treFZVTklRbTU2YzNOV1EyVjBkVXQxZG0xaFExRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2treFZVTklRbTU2YzNOV1EyVjBkVXQxZG0xaFExRRAB!2m1!1s0x3442af9c4c17fde1:0x3aa8bde85ce9691"
+    },
+    {
+      "name": "places/ChIJ4f0XTJyvQjQRkZbOhd6LqgM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmN3VlTUpnEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 1,
+      "text": {
+        "text": "這點份量賣$89元⋯如果買小薯$40元是只有十根嗎？拿到真的很傻眼🙄\n\n說是用秤重的？\n\n隔壁漢堡王大薯才$69。又粗份量也多！真的很不值得！奉勸大家直接吃漢堡王就好！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這點份量賣$89元⋯如果買小薯$40元是只有十根嗎？拿到真的很傻眼🙄\n\n說是用秤重的？\n\n隔壁漢堡王大薯才$69。又粗份量也多！真的很不值得！奉勸大家直接吃漢堡王就好！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林璿霙",
+        "uri": "https://www.google.com/maps/contrib/106035403464252679775/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK63W8fZko4SKsCfVevnZVrF0kgbRKuaEDxraGRRDdPA8CBgQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2024-12-29T08:52:56.301025Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmN3VlTUpnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmN3VlTUpnEAE!2m1!1s0x3442af9c4c17fde1:0x3aa8bde85ce9691"
+    },
+    {
+      "name": "places/ChIJ4f0XTJyvQjQRkZbOhd6LqgM/reviews/ChdDSUhNMG9nS0VJQ0FnSUN0eE5PRG13RRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 2,
+      "text": {
+        "text": "開門就來了了，而且是現炸的東西，這個雞腿炸的又黑又乾而且裡面都黑黑的，小孩都咬不起來真的很雷，這裡是兒童樂園小孩客人居多，小孩吃的東西應該更嚴格把關品質才是",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "開門就來了了，而且是現炸的東西，這個雞腿炸的又黑又乾而且裡面都黑黑的，小孩都咬不起來真的很雷，這裡是兒童樂園小孩客人居多，小孩吃的東西應該更嚴格把關品質才是",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lynn Huang",
+        "uri": "https://www.google.com/maps/contrib/100347649017028028751/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXKYB7oBP3tcEaFp-_kAdyyEL4Y7Lbqa9dyz7EtJ2gNN8pmkgW4=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2024-01-29T03:06:03.276237Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN0eE5PRG13RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN0eE5PRG13RRAB!2m1!1s0x3442af9c4c17fde1:0x3aa8bde85ce9691"
+    },
+    {
+      "name": "places/ChIJ4f0XTJyvQjQRkZbOhd6LqgM/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJdzV5QnZRRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 1,
+      "text": {
+        "text": "東西貴又難吃真的是有夠雷的店飲料更誇張熱可可變常溫就算了可可超淡跟在喝開水一樣 葡萄汁也是我還不如喝開水就好無言不會在吃這家了⋯⋯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "東西貴又難吃真的是有夠雷的店飲料更誇張熱可可變常溫就算了可可超淡跟在喝開水一樣 葡萄汁也是我還不如喝開水就好無言不會在吃這家了⋯⋯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Dy K",
+        "uri": "https://www.google.com/maps/contrib/109429272657495523376/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVAfHn1LPefgSZycD6fih6GMtXeLcf6ixx1B1L6VpfSxkiAkdA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-04-04T08:46:43.728622Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJdzV5QnZRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJdzV5QnZRRRAB!2m1!1s0x3442af9c4c17fde1:0x3aa8bde85ce9691"
+    }
+  ],
+  "goodForChildren": true
+}

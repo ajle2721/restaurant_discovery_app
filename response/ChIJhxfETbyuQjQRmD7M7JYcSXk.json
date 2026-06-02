@@ -8,43 +8,22 @@
     "establishment"
   ],
   "internationalPhoneNumber": "+886 2 2836 3078",
-  "formattedAddress": "111台灣臺北市士林區美崙街78號",
+  "formattedAddress": "111台灣臺北市士林區福佳里美崙街78號",
   "location": {
     "latitude": 25.0970974,
     "longitude": 121.52189589999999
   },
   "rating": 4.3,
   "websiteUri": "http://www.facebook.com/spaghettionly/",
-  "userRatingCount": 104,
+  "userRatingCount": 106,
   "displayName": {
     "text": "巧果子",
     "languageCode": "zh-TW"
   },
   "reviews": [
     {
-      "name": "places/ChIJhxfETbyuQjQRmD7M7JYcSXk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSVFVuWktSM1pzVFVJek1tOTVVSFZVVDJaM1pVRRAB",
-      "relativePublishTimeDescription": "1 個月前",
-      "rating": 1,
-      "text": {
-        "text": "這麼優質的餐點不能只有我吃到😇\n第一次吃到那麼油又那麼鹹的白醬\n海鮮的蛤蜊很不新鮮\n早餐店的義大利麵\n價格非常「平易近人」（？）\n請大家一定要來試試看☺️",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "這麼優質的餐點不能只有我吃到😇\n第一次吃到那麼油又那麼鹹的白醬\n海鮮的蛤蜊很不新鮮\n早餐店的義大利麵\n價格非常「平易近人」（？）\n請大家一定要來試試看☺️",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Hans Lin",
-        "uri": "https://www.google.com/maps/contrib/107868174810886162249/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLfymk9ufk2ub3NFW9ajTE1awrVyDNOk39_baBa7jhB2U-hjw=s128-c0x00000000-cc-rp-mo"
-      },
-      "publishTime": "2026-01-04T05:37:28.849917633Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSVFVuWktSM1pzVFVJek1tOTVVSFZVVDJaM1pVRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSVFVuWktSM1pzVFVJek1tOTVVSFZVVDJaM1pVRRAB!2m1!1s0x3442aebc4dc41787:0x79491c96eccc3e98"
-    },
-    {
       "name": "places/ChIJhxfETbyuQjQRmD7M7JYcSXk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsNGExQkpWMTlFWm0xemJXcGFTRkZEUmpkNFptYxAB",
-      "relativePublishTimeDescription": "3 週前",
+      "relativePublishTimeDescription": "3 個月前",
       "rating": 5,
       "text": {
         "text": "剛剛買了德式香腸紅醬義大利麵給小孩吃\n小孩非常喜歡💕\n感謝前面的鹹水雞老闆介紹好店家給我\n拿到麵要離開時店裡的小朋友還特別跟我說byebye實在太可愛了😍\n是一家一定會再回購的義大利麵店～",
@@ -64,8 +43,29 @@
       "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsNGExQkpWMTlFWm0xemJXcGFTRkZEUmpkNFptYxAB!2m1!1s0x3442aebc4dc41787:0x79491c96eccc3e98"
     },
     {
+      "name": "places/ChIJhxfETbyuQjQRmD7M7JYcSXk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSVFVuWktSM1pzVFVJek1tOTVVSFZVVDJaM1pVRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 1,
+      "text": {
+        "text": "這麼優質的餐點不能只有我吃到😇\n第一次吃到那麼油又那麼鹹的白醬\n海鮮的蛤蜊很不新鮮\n早餐店的義大利麵\n價格非常「平易近人」（？）\n請大家一定要來試試看☺️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這麼優質的餐點不能只有我吃到😇\n第一次吃到那麼油又那麼鹹的白醬\n海鮮的蛤蜊很不新鮮\n早餐店的義大利麵\n價格非常「平易近人」（？）\n請大家一定要來試試看☺️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hans Lin",
+        "uri": "https://www.google.com/maps/contrib/107868174810886162249/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLfymk9ufk2ub3NFW9ajTE1awrVyDNOk39_baBa7jhB2U-hjw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-04T05:37:28.849917633Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSVFVuWktSM1pzVFVJek1tOTVVSFZVVDJaM1pVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSVFVuWktSM1pzVFVJek1tOTVVSFZVVDJaM1pVRRAB!2m1!1s0x3442aebc4dc41787:0x79491c96eccc3e98"
+    },
+    {
       "name": "places/ChIJhxfETbyuQjQRmD7M7JYcSXk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21jeFNUWmhOSEF4TkhoMFVrMHpVREJ6V2t3d2MxRRAB",
-      "relativePublishTimeDescription": "3 個月前",
+      "relativePublishTimeDescription": "6 個月前",
       "rating": 1,
       "text": {
         "text": "餐點鹹到靠杯，鹽巴當起司粉在撒也沒水，店員就顧小孩聊天抽菸，不是會上菜就能開店欸",
@@ -104,6 +104,29 @@
       "publishTime": "2024-10-19T05:18:47.501155Z",
       "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYOWRLOGpnRRAB&d=17924085&t=1",
       "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYOWRLOGpnRRAB!2m1!1s0x3442aebc4dc41787:0x79491c96eccc3e98"
+    },
+    {
+      "name": "places/ChIJhxfETbyuQjQRmD7M7JYcSXk/reviews/ChdDSUhNMG9nS0VJQ0FnSURLMUxmWGtnRRAB",
+      "relativePublishTimeDescription": "5 年前",
+      "rating": 5,
+      "text": {
+        "text": "來到位於新光醫院附近的巧果子用餐，進入店內的那一刻，竟讓我懷舊的想起了我們那個年代的「小歇」。\n門口擺放著幾張座位，店內的空間屬於狹長型格局，雖然面積不大，但是座位的擺放使用雙人座居多，所以並不會令人感到擁擠，而且環境相當整潔。\n餐點現點現做，上菜的速度很快，餐點也很可口，不過黑糖拿鐵稍微過甜，芹菜蝦仁義大利麵的口味則偏淡了點。\n非常推薦蔥抓餅，厚實鬆軟的餅皮，真的非常好吃。\n菊花枸杞茶也是必點的項目，菊花的香氣搭配枸杞的微甜，熱熱的喝上一口似乎連心情都能被療癒。\n店家服務態度非常親切，在這裡真的像是回家的感覺那般的，令人覺得輕鬆自在。\n待了一個多小時，老闆還親切的送上一杯檸檬紅茶招待，真的太貼心了。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "來到位於新光醫院附近的巧果子用餐，進入店內的那一刻，竟讓我懷舊的想起了我們那個年代的「小歇」。\n門口擺放著幾張座位，店內的空間屬於狹長型格局，雖然面積不大，但是座位的擺放使用雙人座居多，所以並不會令人感到擁擠，而且環境相當整潔。\n餐點現點現做，上菜的速度很快，餐點也很可口，不過黑糖拿鐵稍微過甜，芹菜蝦仁義大利麵的口味則偏淡了點。\n非常推薦蔥抓餅，厚實鬆軟的餅皮，真的非常好吃。\n菊花枸杞茶也是必點的項目，菊花的香氣搭配枸杞的微甜，熱熱的喝上一口似乎連心情都能被療癒。\n店家服務態度非常親切，在這裡真的像是回家的感覺那般的，令人覺得輕鬆自在。\n待了一個多小時，老闆還親切的送上一杯檸檬紅茶招待，真的太貼心了。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "ᴀɴɴ",
+        "uri": "https://www.google.com/maps/contrib/112294100703660321914/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtKvoVyjFGHZlsFQlXRuj2O00xyv1rrMMDv2PysCfTygK0MvbXuw=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2021-05-01T16:17:33.594369Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURLMUxmWGtnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURLMUxmWGtnRRAB!2m1!1s0x3442aebc4dc41787:0x79491c96eccc3e98"
     }
-  ]
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
 }

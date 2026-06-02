@@ -1,0 +1,50 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  "人工校正：非親子主題餐廳",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "寵物友善餐廳，環境氣氛較為熱鬧，不怕吵",
+                               "confidence":  0.8
+                           },
+    "has_play_area":  {
+                          "result":  "No",
+                          "evidence":  "人工校正：該店為寵物友善餐廳，其拍照棚與遊戲設施僅供狗狗/毛孩使用，並無兒童遊戲設施",
+                          "confidence":  1
+                      },
+    "has_private_room":  {
+                             "result":  "Yes",
+                             "evidence":  "聽說還有包廂式，下次會再來！",
+                             "confidence":  0.9
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，這家餐廳環境氣氛適合帶小孩用餐，親子友善。另外，本餐館為寵物友善餐廳，店內搭景棚、包廂與活動區僅供毛孩與狗狗使用，未設有兒童遊戲區。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "寵物友善餐廳，環境氣氛較為熱鬧，不怕吵"
+                          ],
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "中",
+    "reason":  "Google 官方標籤糾錯與人工校正（寵物友善餐廳，非親子玩樂型）"
+}

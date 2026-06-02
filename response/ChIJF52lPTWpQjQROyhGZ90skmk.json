@@ -1,0 +1,129 @@
+{
+  "id": "ChIJF52lPTWpQjQROyhGZ90skmk",
+  "types": [
+    "family_restaurant",
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2331 5600",
+  "formattedAddress": "100台灣臺北市中正區光復里開封街一段51號",
+  "location": {
+    "latitude": 25.0461343,
+    "longitude": 121.5122588
+  },
+  "rating": 4.1,
+  "userRatingCount": 116,
+  "displayName": {
+    "text": "三代魚翅羹",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJF52lPTWpQjQROyhGZ90skmk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GQ1NUaGtVMjV0ZDNGTU5URXROREZ6Wld4RlNWRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 3,
+      "text": {
+        "text": "很多年沒吃了，十多年前在附近上班時中午常常吃。味道吃起來沒有以前好吃，魯肉飯還不錯，一碗30還不算貴。肉羹方面，小小塊，以前比較大比較吃得到肉的纖維，現在就比較沒那麼有口感。油豆腐八角味道比較重一點，中規中矩。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很多年沒吃了，十多年前在附近上班時中午常常吃。味道吃起來沒有以前好吃，魯肉飯還不錯，一碗30還不算貴。肉羹方面，小小塊，以前比較大比較吃得到肉的纖維，現在就比較沒那麼有口感。油豆腐八角味道比較重一點，中規中矩。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ronald Lee",
+        "uri": "https://www.google.com/maps/contrib/107125643047863333764/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIYOw88xMBJsFUxIt6aFX8eQZ5Yzh8lpnYK4ke6TDKmM-hg5w=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-26T14:16:06.317245350Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GQ1NUaGtVMjV0ZDNGTU5URXROREZ6Wld4RlNWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GQ1NUaGtVMjV0ZDNGTU5URXROREZ6Wld4RlNWRRAB!2m1!1s0x3442a9353da59d17:0x69922cdd6746283b"
+    },
+    {
+      "name": "places/ChIJF52lPTWpQjQROyhGZ90skmk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4VWFtZDBTVlUzTlMxNU1sUlRaMWhRYVZKa2ExRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "平價小吃，油豆腐很入味，肉羹還有米粉調味很剛好，不會過油過鹹，老闆娘很親切，內用冷氣很涼，環境也乾淨",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "平價小吃，油豆腐很入味，肉羹還有米粉調味很剛好，不會過油過鹹，老闆娘很親切，內用冷氣很涼，環境也乾淨",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "chen iris",
+        "uri": "https://www.google.com/maps/contrib/115915705510587571360/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLMTzOntpqCI7pDyiUcFyTTqx6PmK82FSMU7i1oDSIo3ZrMzw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-19T09:24:53.771841286Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4VWFtZDBTVlUzTlMxNU1sUlRaMWhRYVZKa2ExRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4VWFtZDBTVlUzTlMxNU1sUlRaMWhRYVZKa2ExRRAB!2m1!1s0x3442a9353da59d17:0x69922cdd6746283b"
+    },
+    {
+      "name": "places/ChIJF52lPTWpQjQROyhGZ90skmk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWVUxXNUtNR3BwTmtORmJraGFSR2d0VDJGU2NXYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "平價小吃\n肉羹湯小碗但 肉羹蠻實料的\n辣椒好吃\n一份豆腐25有五個三角豆腐\n竟然乾麵才40\n很難有這種價錢了\n\n內用都是免洗碗筷餐具😟",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "平價小吃\n肉羹湯小碗但 肉羹蠻實料的\n辣椒好吃\n一份豆腐25有五個三角豆腐\n竟然乾麵才40\n很難有這種價錢了\n\n內用都是免洗碗筷餐具😟",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳映妤",
+        "uri": "https://www.google.com/maps/contrib/103305662831150557867/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXKpR6N0Bja3F7DzJVJ9-IepBY7gxo5_eICar42bm_XAQpqmdU=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-12T08:41:18.661925145Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWVUxXNUtNR3BwTmtORmJraGFSR2d0VDJGU2NXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWVUxXNUtNR3BwTmtORmJraGFSR2d0VDJGU2NXYxAB!2m1!1s0x3442a9353da59d17:0x69922cdd6746283b"
+    },
+    {
+      "name": "places/ChIJF52lPTWpQjQROyhGZ90skmk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twb1JVaFNNM1Z0TWs1TlgyUnlheTAxWjNGVFoxRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點好吃\n但可能跟老闆確認一下價錢有沒有更新\n太忙的時候 可能會忘記\n羹湯55滷蛋15 共70元\n但老闆一下說70一下說75⋯⋯\n\n最後是找我25元（有跟老闆確認的找零）\n\n但畢竟有在附近工作都會去他們那家吃，老闆有年紀大了，以後會挑比較不忙的時間去。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點好吃\n但可能跟老闆確認一下價錢有沒有更新\n太忙的時候 可能會忘記\n羹湯55滷蛋15 共70元\n但老闆一下說70一下說75⋯⋯\n\n最後是找我25元（有跟老闆確認的找零）\n\n但畢竟有在附近工作都會去他們那家吃，老闆有年紀大了，以後會挑比較不忙的時間去。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "羅美棠（Mia）",
+        "uri": "https://www.google.com/maps/contrib/116384087057322986219/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW620gcSkBTTxQdnbVPsLdDdxXd6_hHgrZSsnNuY8FKZjSNlopS=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-03-09T04:45:43.225102355Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twb1JVaFNNM1Z0TWs1TlgyUnlheTAxWjNGVFoxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twb1JVaFNNM1Z0TWs1TlgyUnlheTAxWjNGVFoxRRAB!2m1!1s0x3442a9353da59d17:0x69922cdd6746283b"
+    },
+    {
+      "name": "places/ChIJF52lPTWpQjQROyhGZ90skmk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKWk1qSTFlbFpSZHpKMFR6SlFSalUwV0RkdU5sRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 2,
+      "text": {
+        "text": "在車站附近，便宜省錢吃粗飽的店，不要期待味道。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在車站附近，便宜省錢吃粗飽的店，不要期待味道。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Vicky Li",
+        "uri": "https://www.google.com/maps/contrib/105496867324020430862/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWSioOKMXRj26vMS4kutgdgljKFRgsXGT8qPw7dvsijiNpXdOo=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-01-31T07:06:08.939597773Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKWk1qSTFlbFpSZHpKMFR6SlFSalUwV0RkdU5sRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKWk1qSTFlbFpSZHpKMFR6SlFSalUwV0RkdU5sRRAB!2m1!1s0x3442a9353da59d17:0x69922cdd6746283b"
+    }
+  ]
+}

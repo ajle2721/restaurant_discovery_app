@@ -1,0 +1,131 @@
+{
+  "id": "ChIJIyr_STurQjQRi6sJZDMGsYw",
+  "types": [
+    "restaurant",
+    "italian_restaurant",
+    "chinese_restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2651 0102",
+  "formattedAddress": "115台灣臺北市南港區南港里新民街95號",
+  "location": {
+    "latitude": 25.055706699999998,
+    "longitude": 121.61070319999999
+  },
+  "rating": 4.2,
+  "websiteUri": "https://www.facebook.com/people/95%E8%A4%87%E5%90%88%E5%BC%8F%E5%BB%9A%E6%88%BF/100063567471528/",
+  "userRatingCount": 57,
+  "displayName": {
+    "text": "95複合式廚房",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJIyr_STurQjQRi6sJZDMGsYw/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3cmYzZnRRRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "點了雞腿 鯖魚雙拼套餐，價格240元\n炸雞腿居然軟嫩多汁，而且雞腿醃過的感覺，味道超棒的，重點是不油膩。\n烤魚好大一片，且魚肉烤的很嫩，整體而言餐點符合水準。另外有味噌湯、甜湯、綠茶可自行取用。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點了雞腿 鯖魚雙拼套餐，價格240元\n炸雞腿居然軟嫩多汁，而且雞腿醃過的感覺，味道超棒的，重點是不油膩。\n烤魚好大一片，且魚肉烤的很嫩，整體而言餐點符合水準。另外有味噌湯、甜湯、綠茶可自行取用。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Allen Lin",
+        "uri": "https://www.google.com/maps/contrib/115412850453473479867/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLnkqoGqU_th9ssHoUi30gBo24K5O8CrGQR3jzkFouevZK60w=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-03-20T14:02:11.656140Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3cmYzZnRRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3cmYzZnRRRRAB!2m1!1s0x3442ab3b49ff2a23:0x8cb106336409ab8b"
+    },
+    {
+      "name": "places/ChIJIyr_STurQjQRi6sJZDMGsYw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGS1Uyc3diVTR0VjBGSGRFdzJTWEpmTW5WRE1XYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 1,
+      "text": {
+        "text": "人手嚴重不足，還一直讓新顧客進來，點餐到上菜起碼要超過40分鐘（真心沒有誇大，我還特別算過時間），奉勸中午只有1小時出來用餐的同仁，絕對不要來這家店，不然你只會氣死自己，活生生浪費一個寶貴的午休\n然後環境髒亂，上一位吃完的餐盒餐具，堆在店裡每張桌子都沒收，髒的餐盤裡裡外外到處都是。你們再不限期改善，將會向相關單位，及衛生局、環保局來做檢舉稽查。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "人手嚴重不足，還一直讓新顧客進來，點餐到上菜起碼要超過40分鐘（真心沒有誇大，我還特別算過時間），奉勸中午只有1小時出來用餐的同仁，絕對不要來這家店，不然你只會氣死自己，活生生浪費一個寶貴的午休\n然後環境髒亂，上一位吃完的餐盒餐具，堆在店裡每張桌子都沒收，髒的餐盤裡裡外外到處都是。你們再不限期改善，將會向相關單位，及衛生局、環保局來做檢舉稽查。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Unbound Onon",
+        "uri": "https://www.google.com/maps/contrib/117058110955106509241/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVhWnoDSN7QFiTlHYdXBQNZG_YRvr9_0r0JIOkZh_JQffaSPXUxZQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-15T04:06:01.757371065Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGS1Uyc3diVTR0VjBGSGRFdzJTWEpmTW5WRE1XYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGS1Uyc3diVTR0VjBGSGRFdzJTWEpmTW5WRE1XYxAB!2m1!1s0x3442ab3b49ff2a23:0x8cb106336409ab8b"
+    },
+    {
+      "name": "places/ChIJIyr_STurQjQRi6sJZDMGsYw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHeE9pMGRnEAE",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 5,
+      "text": {
+        "text": "超推薦雞腿便當！菜不會很油膩，炸雞腿超juicy，煎排骨也不錯。\n外帶會附一杯茶，或是可以跟老闆娘說換成湯～～\n外帶跟內用的錢會有差，因為內用的話可以無限續飯湯，湯的部分還會有鹹湯跟甜湯，還有綠茶。也是很划算～～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "超推薦雞腿便當！菜不會很油膩，炸雞腿超juicy，煎排骨也不錯。\n外帶會附一杯茶，或是可以跟老闆娘說換成湯～～\n外帶跟內用的錢會有差，因為內用的話可以無限續飯湯，湯的部分還會有鹹湯跟甜湯，還有綠茶。也是很划算～～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Elva Tu",
+        "uri": "https://www.google.com/maps/contrib/107269607623249352679/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUe4NYtWA4AWzWcsFbfobocS4SLVjYvSLn77iwlzB2PhxvLpjmn=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2022-09-06T09:02:26.455908Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNHeE9pMGRnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNHeE9pMGRnEAE!2m1!1s0x3442ab3b49ff2a23:0x8cb106336409ab8b"
+    },
+    {
+      "name": "places/ChIJIyr_STurQjQRi6sJZDMGsYw/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxbVAyS2ZnEAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "每次有機會經過這，就會來這間吃，只有午餐時間供餐，能夠吃到機會就更低了。\n我吃素，能有的選擇就更限縮了，但闆娘很貼心，有特製奶素餐點，南瓜醬是整顆南瓜下去打的，非常真材實料，每次吃完都身心舒暢～開心🥳，大推👍\n闆娘貼心應景附湯圓，自製甜湯「紅豆湯圓」😂",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "每次有機會經過這，就會來這間吃，只有午餐時間供餐，能夠吃到機會就更低了。\n我吃素，能有的選擇就更限縮了，但闆娘很貼心，有特製奶素餐點，南瓜醬是整顆南瓜下去打的，非常真材實料，每次吃完都身心舒暢～開心🥳，大推👍\n闆娘貼心應景附湯圓，自製甜湯「紅豆湯圓」😂",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "古Morning",
+        "uri": "https://www.google.com/maps/contrib/111991524603098065147/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUV3pfe7I58zAA_1suq_I1NbpJ6-BWnFm3685gwnjZsj2ndaFF7=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2023-12-22T04:30:29.132890Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMxbVAyS2ZnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMxbVAyS2ZnEAE!2m1!1s0x3442ab3b49ff2a23:0x8cb106336409ab8b"
+    },
+    {
+      "name": "places/ChIJIyr_STurQjQRi6sJZDMGsYw/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtczhIejV3RRAB",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 5,
+      "text": {
+        "text": "品質很穩定的店家，吃了好幾次了\n可以用手機點餐直接付款非常方便\n\n有中式套餐和西式義大利麵\n人多去吃也方便\n\n唯一的缺點大概就是中午人非常多\n很容易沒位子",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "品質很穩定的店家，吃了好幾次了\n可以用手機點餐直接付款非常方便\n\n有中式套餐和西式義大利麵\n人多去吃也方便\n\n唯一的缺點大概就是中午人非常多\n很容易沒位子",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Cynthia CC",
+        "uri": "https://www.google.com/maps/contrib/114605146842920700415/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdr11mFkSS62ZauFueB2k-NGJdTMetgG0OZdxiJLJz2j5vXd3s=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2022-12-09T02:00:08.207715Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQtczhIejV3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQtczhIejV3RRAB!2m1!1s0x3442ab3b49ff2a23:0x8cb106336409ab8b"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "No",
+                                  "evidence":  "人工校正：不提供兒童餐椅",
+                                  "confidence":  1.0
+                              },
+    "Spacious seating":  {
+                             "result":  "No",
+                             "evidence":  "人工校正：座位寬敞但有高低差，可能不適合推車進入",
+                             "confidence":  1.0
+                         },
+    "Kids menu available":  {
+                                "result":  "Yes",
+                                "evidence":  "使用者回報與人工校正：有提供兒童餐",
+                                "confidence":  1.0
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Unknown",
+                               "evidence":  "人工校正：評論中未提及是否怕吵",
+                               "confidence":  1.0
+                           },
+    "has_play_area":  {
+                          "result":  "No",
+                          "evidence":  "人工校正：無設置兒童遊樂設施",
+                          "confidence":  1.0
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  "人工校正：評論中未提及兒童餐具",
+                          "confidence":  1.0
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  "人工校正：不知道有無尿布台",
+                             "confidence":  1.0
+                         },
+    "generated_summary":  "根據評論分析，這家餐廳有提供兒童餐點，但無兒童座椅與遊樂設施。另外，店內座位寬敞但有高低差，可能不適合推車進入。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "使用者回報與人工校正：有提供兒童餐"
+                          ],
+    "parent_friendly_score":  -1,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
+}

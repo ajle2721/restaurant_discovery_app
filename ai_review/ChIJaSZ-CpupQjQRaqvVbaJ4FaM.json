@@ -1,34 +1,56 @@
-{
-    " child_seat available": {
-        "result": "Yes",
-        "evidence": "User provided info",
-        "confidence": 1.0
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "用餐區域蠻寬大的，不會擁擠動線還可以，另外還有類似包廂的地方！",
-        "confidence": 1.0
-    },
-    "Kids menu available": {
-        "result": "Yes",
-        "evidence": "兒童餐的車車造型小朋友很喜歡（麵包、蛋、炸南瓜、主食）",
-        "confidence": 1.0
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "舉辦各種親子活動的好地方～提供的食物很好吃，食材也很新鮮，生菜沙拉裡面還有切片的鮑魚，很用心準備的料理。",
-        "confidence": 1.0
-    },
-    "parent_friendly_score": 5,
-    "parent_friendly_level": "高",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "用餐區域蠻寬大的，不會擁擠動線還可以，另外還有類似包廂的地方！",
-        "桌位不多,位子很寬敞",
-        "兒童餐的車車造型小朋友很喜歡（麵包、蛋、炸南瓜、主食）",
-        "舉辦各種親子活動的好地方～提供的食物很好吃，食材也很新鮮，生菜沙拉裡面還有切片的鮑魚，很用心準備的料理。",
-        "不得不說以親子餐廳來講～這遊樂區很豐富"
-    ],
-    "generated_summary": "這是一家設施極為豐富的親子餐廳，提供受歡迎的兒童餐且用餐空間寬敞，非常適合帶小孩參與各類親子活動。",
-    "card_summary": "這是一家設施極為豐富的親子餐廳，提供受歡迎的兒童餐且用餐空間寬敞。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Yes",
+                                  "evidence":  "User provided info",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "用餐區域蠻寬大的，不會擁擠動線還可以，另外還有類似包廂的地方！",
+                             "confidence":  1
+                         },
+    "Kids menu available":  {
+                                "result":  "Yes",
+                                "evidence":  "兒童餐的車車造型小朋友很喜歡（麵包、蛋、炸南瓜、主食）",
+                                "confidence":  1
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "舉辦各種親子活動的好地方～提供的食物很好吃，食材也很新鮮，生菜沙拉裡面還有切片的鮑魚，很用心準備的料理。",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Yes",
+                          "evidence":  "遊戲區真的很大",
+                          "confidence":  0.9
+                      },
+    "has_private_room":  {
+                             "result":  "Yes",
+                             "evidence":  "用餐區域蠻寬大的，不會擁擠動線還可以，另外還有類似包廂的地方！",
+                             "confidence":  0.9
+                         },
+    "has_tableware":  {
+                          "result":  "Yes",
+                          "evidence":  "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Yes",
+                             "evidence":  "有哺乳室、兒童洗手台",
+                             "confidence":  0.9
+                         },
+    "generated_summary":  "根據評論分析，店內提供的義大利麵等義式餐點口感良好，獲得顧客肯定。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點，設有遊戲區讓孩子放電，店內設有尿布台或哺乳室。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "桌位不多,位子很寬敞",
+                              "兒童餐的車車造型小朋友很喜歡（麵包、蛋、炸南瓜、主食）",
+                              "如果說是因為一部分成本是小朋友的遊戲維護",
+                              "有哺乳室、兒童洗手台",
+                              "系統自動識別：官方登記或評論提及為親子主題餐廳，提供兒童椅",
+                              "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+                              "系統自動識別：親子主題餐廳環境適合孩童不怕吵"
+                          ],
+    "parent_friendly_score":  9,
+    "parent_friendly_level":  "高",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

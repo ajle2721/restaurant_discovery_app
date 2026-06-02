@@ -1,30 +1,54 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "環境空間寬敞舒適，裝潢帶有泰式市集風格，適合家庭聚餐或朋友聚會。",
-        "confidence": 1.0
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "環境空間寬敞舒適，裝潢帶有泰式市集風格，適合家庭聚餐或朋友聚會。",
-        "confidence": 1.0
-    },
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "環境空間寬敞舒適，裝潢帶有泰式市集風格，適合家庭聚餐或朋友聚會。"
-    ],
-    "generated_summary": "餐廳環境寬敞舒適且氣氛活絡，適合家庭聚餐。",
-    "card_summary": "環境寬敞舒適且氣氛活絡，適合家庭聚餐。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Yes",
+                                  "evidence":  "使用者回報與人工校正：泰集分店均有提供兒童椅",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "環境空間寬敞舒適，裝潢帶有泰式市集風格，適合家庭聚餐或朋友聚會。",
+                             "confidence":  1
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "環境空間寬敞舒適，裝潢帶有泰式市集風格，適合家庭聚餐或朋友聚會。",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Yes",
+                          "evidence":  "使用者回報與人工校正：泰集分店均貼心提供兒童餐具",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Yes",
+                             "evidence":  "位於百貨商場/交通樞紐（110台灣臺北市信義區忠孝東路五段68號4樓），商場內設有公共尿布台及哺乳室",
+                             "confidence":  1
+                         },
+    "generated_summary":  "根據評論分析，小籠包與各式中式點心風味地道，深受好評。店內貼心備有兒童座椅與專用餐具，可就近使用商場內公共尿布台及哺乳室。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "使用者回報與人工校正：泰集分店均有提供兒童椅",
+                              "環境空間寬敞舒適",
+                              "但尖峰時段人多還是有點熱鬧",
+                              "使用者回報與人工校正：泰集分店均貼心提供兒童餐具",
+                              "系統自動識別：位於百貨商場/大樓（微風廣場/微風商場），可使用商場內公共尿布台及哺乳室"
+                          ],
+    "parent_friendly_score":  6,
+    "parent_friendly_level":  "高",
+    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
 }

@@ -1,10 +1,4 @@
 ﻿{
-    "generated_signals":  [
-                              "兒童慶生還有特別的佈置與蛋糕，真的很用心～",
-                              "適合聚餐，寵物友善的環境。"
-                          ],
-    "generated_summary":  "餐廳對兒童慶生非常用心，提供特別的佈置與蛋糕，且環境適合聚餐。",
-    "card_summary":  "餐廳對兒童慶生非常用心，提供特別的佈置與蛋糕，且環境適合聚餐。",
     " child_seat available":  {
                                   "evidence":  "Manual update",
                                   "result":  "Yes",
@@ -12,7 +6,7 @@
                               },
     "Spacious seating":  {
                              "evidence":  "Manual update",
-                             "result":  "Yes",
+                             "result":  "Unknown",
                              "confidence":  1
                          },
     "Kids menu available":  {
@@ -25,7 +19,35 @@
                                "result":  "Yes",
                                "confidence":  1
                            },
-    "parent_friendly_score":  4,
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Yes",
+                          "evidence":  "使用者回報與人工校正：所有貳樓分店均貼心提供兒童餐具",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，服務人員接待熱忱、服務態度良好。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點，且店內貼心提供畫紙與蠟筆給小孩畫畫。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "使用者回報與人工校正：所有貳樓分店均提供兒童座椅",
+                              "使用者回報與人工校正：所有貳樓分店均提供專屬兒童餐點",
+                              "Google 官方登記適合兒童用餐",
+                              "使用者回報與人工校正：所有貳樓分店均貼心提供兒童餐具"
+                          ],
+    "parent_friendly_score":  5,
     "parent_friendly_level":  "高",
-    "reason":  "Manual Update"
+    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
 }

@@ -1,0 +1,52 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "Yes",
+                                  "evidence":  "使用者回報與人工校正：店內備有兒童餐椅，但精品咖啡環境較為安靜，空間更適合靜態用餐",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "店內空間大又舒服",
+                             "confidence":  0.8
+                         },
+    "Kids menu available":  {
+                                "result":  "No",
+                                "evidence":  "使用者回報與人工校正：精品咖啡與千層蛋糕名店，無專屬兒童套餐",
+                                "confidence":  1
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "No",
+                               "evidence":  "使用者回報與人工校正：環境較為安靜，適合安靜與靜態用餐，不太適合好動吵鬧的幼童",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Yes",
+                          "evidence":  "使用者回報與人工校正：貼心提供兒童專用餐具",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "No",
+                             "evidence":  "使用者回報與人工校正：店內無設置尿布台",
+                             "confidence":  1
+                         },
+    "generated_summary":  "根據評論分析，精緻的早午餐拼盤深受顧客喜愛。店內貼心備有兒童座椅與專用餐具。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "使用者回報與人工校正：店內備有兒童餐椅，但精品咖啡環境較為安靜，空間更適合靜態用餐",
+                              "店內空間大又舒服",
+                              "使用者回報與人工校正：貼心提供兒童專用餐具"
+                          ],
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "中",
+    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
+}

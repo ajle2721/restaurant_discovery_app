@@ -1,0 +1,129 @@
+{
+  "id": "ChIJN-6G9iqrQjQRH-bJFwEAzco",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2764 5600",
+  "formattedAddress": "110台灣臺北市信義區基隆路一段145-1號1樓",
+  "location": {
+    "latitude": 25.0427155,
+    "longitude": 121.5656238
+  },
+  "rating": 4,
+  "websiteUri": "https://shop.ichefpos.com/store/KnTM-dhG/instore/ordering?tableName=TDM",
+  "userRatingCount": 577,
+  "displayName": {
+    "text": "FEELING PASTA 感受創新",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJN-6G9iqrQjQRH-bJFwEAzco/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twUmFscEpZbU40Wm5oc1gyczFSMWxxVWs0MVNIYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 2,
+      "text": {
+        "text": "看看這肉都柴掉 菜單介紹說不會讓我吃到會柴的雞胸？ 可能是因為要打烊了🤔\n蛋白質48g肉熟重至少要155克！\n餐具是叉子比較不好食用\n但調味是符合250元的水準",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "看看這肉都柴掉 菜單介紹說不會讓我吃到會柴的雞胸？ 可能是因為要打烊了🤔\n蛋白質48g肉熟重至少要155克！\n餐具是叉子比較不好食用\n但調味是符合250元的水準",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Kuan you Chen",
+        "uri": "https://www.google.com/maps/contrib/112763527657016721738/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXRJrmLITfjfLa9V7tNuAGJOIyFsXrMOpXt8k5X-oCr9avRI2m=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-13T13:23:08.778758898Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twUmFscEpZbU40Wm5oc1gyczFSMWxxVWs0MVNIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twUmFscEpZbU40Wm5oc1gyczFSMWxxVWs0MVNIYxAB!2m1!1s0x3442ab2af686ee37:0xcacd000117c9e61f"
+    },
+    {
+      "name": "places/ChIJN-6G9iqrQjQRH-bJFwEAzco/reviews/Ci9DQUlRQUNvZENodHljRjlvT25FMmFUQlhSV00yWDBWc1R6RjVXRWR0ZVZBMGFWRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "環境舒適，東西好吃又健康\n超級推雞腿，皮酥，肉質好\n醬汁搭配起來也很清爽\n溏心蛋熟度很棒\n飲控還可以吃到這麼好吃的餐點，完全可以😌\n店內用餐環境舒適，服務也很剛好親切\n如果有來附近公務是很適合選擇",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境舒適，東西好吃又健康\n超級推雞腿，皮酥，肉質好\n醬汁搭配起來也很清爽\n溏心蛋熟度很棒\n飲控還可以吃到這麼好吃的餐點，完全可以😌\n店內用餐環境舒適，服務也很剛好親切\n如果有來附近公務是很適合選擇",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Carbs • Pro • Fat • Alc",
+        "uri": "https://www.google.com/maps/contrib/116281274670215907584/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUaDQBknQji8qXBVXuDvKWKiM-b2IqUXl4dIiEnz_CNE3xLg1Y=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-01T07:00:20.534612406Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25FMmFUQlhSV00yWDBWc1R6RjVXRWR0ZVZBMGFWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25FMmFUQlhSV00yWDBWc1R6RjVXRWR0ZVZBMGFWRRAB!2m1!1s0x3442ab2af686ee37:0xcacd000117c9e61f"
+    },
+    {
+      "name": "places/ChIJN-6G9iqrQjQRH-bJFwEAzco/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aTlNHc3llRnBmWVVsRk1VNVFPR3BFWWxsc1FWRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 1,
+      "text": {
+        "text": "我點過這家外送很多次 價格真的不便宜\n當初會繼續點是因為牛肉夠嫩好吃 其他菜品也都很不錯 今天期待的點餐 結果送來裡面食物好亂 不知道是否跟外送員有關係\n\n然後牛肉切的厚度和嫩度跟之前差很多 沒有那麼美味了 還有其他配菜變得好少…餐點拿到就吃了 也不是熱的 我覺得挺失望\n花500買這樣的一個餐盒 是在送走客人….",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "我點過這家外送很多次 價格真的不便宜\n當初會繼續點是因為牛肉夠嫩好吃 其他菜品也都很不錯 今天期待的點餐 結果送來裡面食物好亂 不知道是否跟外送員有關係\n\n然後牛肉切的厚度和嫩度跟之前差很多 沒有那麼美味了 還有其他配菜變得好少…餐點拿到就吃了 也不是熱的 我覺得挺失望\n花500買這樣的一個餐盒 是在送走客人….",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "松本秀",
+        "uri": "https://www.google.com/maps/contrib/115284565002749173209/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJXDXtgU0IPxyfV1nxcD0LFDdXEPZ0Bi-xrbsZG_wiegsjOjg=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-06T08:59:03.172736415Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aTlNHc3llRnBmWVVsRk1VNVFPR3BFWWxsc1FWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aTlNHc3llRnBmWVVsRk1VNVFPR3BFWWxsc1FWRRAB!2m1!1s0x3442ab2af686ee37:0xcacd000117c9e61f"
+    },
+    {
+      "name": "places/ChIJN-6G9iqrQjQRH-bJFwEAzco/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pFeFVFVkJhVjlOUkVOYWNHVmxaR0ZvYXpGcmFYYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 1,
+      "text": {
+        "text": "原本一切都很完美，服務人員態度超好，餐點看起來也很美味，也願意幫三歲小朋友客製無調味便當，一切的一切都非常美好，直到看著裝便當的工作人員戴著同一雙手套連打兩顆生蛋然後直接手抓蘆筍放入便當，手上拿著不知道有沒有沙門氏菌要給小朋友的便當，心裡直接崩潰！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "原本一切都很完美，服務人員態度超好，餐點看起來也很美味，也願意幫三歲小朋友客製無調味便當，一切的一切都非常美好，直到看著裝便當的工作人員戴著同一雙手套連打兩顆生蛋然後直接手抓蘆筍放入便當，手上拿著不知道有沒有沙門氏菌要給小朋友的便當，心裡直接崩潰！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳碩甫",
+        "uri": "https://www.google.com/maps/contrib/101979327198852247603/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3u5ZrqkFO_hryDp7AWvK6PM9NE7zrh8JCwY64xp6wIGjrVmo7=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-26T10:33:09.344096211Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pFeFVFVkJhVjlOUkVOYWNHVmxaR0ZvYXpGcmFYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pFeFVFVkJhVjlOUkVOYWNHVmxaR0ZvYXpGcmFYYxAB!2m1!1s0x3442ab2af686ee37:0xcacd000117c9e61f"
+    },
+    {
+      "name": "places/ChIJN-6G9iqrQjQRH-bJFwEAzco/reviews/Ci9DQUlRQUNvZENodHljRjlvT25scFpIZFBOSGRrZFVVMGJXNXJhamRCWDNSR1psRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "拿到的蝦子跟干貝大小跟圖片落差太多了，雖然雞腿排很好吃，但花 $520 拿到這樣實在算不上滿意",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "拿到的蝦子跟干貝大小跟圖片落差太多了，雖然雞腿排很好吃，但花 $520 拿到這樣實在算不上滿意",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "瑾",
+        "uri": "https://www.google.com/maps/contrib/106095363800925964369/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWO7z2kQH0ae6gixPHCW1Oys33fraWP8cOTxnmc7w02Dh2fwqYp=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-02T07:26:23.169509578Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25scFpIZFBOSGRrZFVVMGJXNXJhamRCWDNSR1psRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25scFpIZFBOSGRrZFVVMGJXNXJhamRCWDNSR1psRRAB!2m1!1s0x3442ab2af686ee37:0xcacd000117c9e61f"
+    }
+  ]
+}

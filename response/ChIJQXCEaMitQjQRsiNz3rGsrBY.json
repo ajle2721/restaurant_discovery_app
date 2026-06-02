@@ -1,0 +1,129 @@
+{
+  "id": "ChIJQXCEaMitQjQRsiNz3rGsrBY",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2797 0819",
+  "formattedAddress": "114台灣臺北市內湖區西湖里瑞光路513巷22弄11號",
+  "location": {
+    "latitude": 25.080052499999997,
+    "longitude": 121.5688593
+  },
+  "rating": 4.8,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 2943,
+  "displayName": {
+    "text": "Dreamers Coffee Roasters 內湖店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJQXCEaMitQjQRsiNz3rGsrBY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSb056WnpYMGRCTlVWNVNuVlhXbkpoUTNadVdrRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "首次來，餐點是天然食物做的素食，美味健康無負擔。即便不是吃素的我，也會想再來。\n可惜的是進來店裡需要走沒有扶手的樓梯，對身障或年老的人士會卻步",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "首次來，餐點是天然食物做的素食，美味健康無負擔。即便不是吃素的我，也會想再來。\n可惜的是進來店裡需要走沒有扶手的樓梯，對身障或年老的人士會卻步",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Tiffany Huang",
+        "uri": "https://www.google.com/maps/contrib/103323517817102360138/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKGOjMMvkvLpdCCXBXrel_e9l8fGZU5uOfZTbQ1tIuU1PdZ=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-27T05:16:23.860163557Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSb056WnpYMGRCTlVWNVNuVlhXbkpoUTNadVdrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSb056WnpYMGRCTlVWNVNuVlhXbkpoUTNadVdrRRAB!2m1!1s0x3442adc868847041:0x16acacb1de7323b2"
+    },
+    {
+      "name": "places/ChIJQXCEaMitQjQRsiNz3rGsrBY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taSmVYWXlVV05NTFRWdVZYQnBWVEZIVmkxcFpXYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "4.1星。不管是餐廳裝潢，菜單，餐點，販售雜糧麵包等等，都跟另一家餐廳Preserve很像，但Preserve比較美味🤣這家餐點吃起來味道普通，沒什麼記憶點，少了一個驚艷感，而且刀子不符合人體工學，切食物很不好用。唯一亮點只有黑松露義大利麵份量非常足夠(可看照片)。自行找座位入座，有沙發座位也有吧台，也有個人座，掃碼點餐，點完餐要先到櫃檯付款，可現金，信用卡，line pay",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "4.1星。不管是餐廳裝潢，菜單，餐點，販售雜糧麵包等等，都跟另一家餐廳Preserve很像，但Preserve比較美味🤣這家餐點吃起來味道普通，沒什麼記憶點，少了一個驚艷感，而且刀子不符合人體工學，切食物很不好用。唯一亮點只有黑松露義大利麵份量非常足夠(可看照片)。自行找座位入座，有沙發座位也有吧台，也有個人座，掃碼點餐，點完餐要先到櫃檯付款，可現金，信用卡，line pay",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "L Adam",
+        "uri": "https://www.google.com/maps/contrib/105160648810486234894/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUb9swDkH2NMajXpmESDFlqic-a4LrCZWdgGz8w0BBR5WOb8UtF=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-21T12:41:53.115689524Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taSmVYWXlVV05NTFRWdVZYQnBWVEZIVmkxcFpXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taSmVYWXlVV05NTFRWdVZYQnBWVEZIVmkxcFpXYxAB!2m1!1s0x3442adc868847041:0x16acacb1de7323b2"
+    },
+    {
+      "name": "places/ChIJQXCEaMitQjQRsiNz3rGsrBY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tScVZtMDJjbnBpWTJWeWVtRm5USEZtV0dkQmRHYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "一進店面\n覺得有回到澳洲的感覺\nChill 的氛圍 還蠻喜歡的\n等餐的時候拍店家的環境\n打卡送可頌 覺得開心🥳\n少給一顆心還是覺得餐點普遍價位偏高",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一進店面\n覺得有回到澳洲的感覺\nChill 的氛圍 還蠻喜歡的\n等餐的時候拍店家的環境\n打卡送可頌 覺得開心🥳\n少給一顆心還是覺得餐點普遍價位偏高",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張哈哈",
+        "uri": "https://www.google.com/maps/contrib/103510381553298469706/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVitd2ICapj5l75BrA4fr36xlK32Cfo9ZHBpdPd9uQloJ_RG5kf=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-24T07:15:01.231631184Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tScVZtMDJjbnBpWTJWeWVtRm5USEZtV0dkQmRHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tScVZtMDJjbnBpWTJWeWVtRm5USEZtV0dkQmRHYxAB!2m1!1s0x3442adc868847041:0x16acacb1de7323b2"
+    },
+    {
+      "name": "places/ChIJQXCEaMitQjQRsiNz3rGsrBY/reviews/Ci9DQUlRQUNvZENodHljRjlvT205bFlWODNUbTVLUlRadlNVSk1abll4VkdwR1JtYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點表現不錯，咖啡香氣濃郁，店內環境舒適安靜，適合聊天或工作。整體氛圍放鬆，是內湖值得再訪的咖啡店。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點表現不錯，咖啡香氣濃郁，店內環境舒適安靜，適合聊天或工作。整體氛圍放鬆，是內湖值得再訪的咖啡店。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "JP",
+        "uri": "https://www.google.com/maps/contrib/116293815092838930708/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVE62618ikqyrK77O5ZOqClTrfgihiDpiaCM5b4TDilVIzqhw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-03-08T05:47:58.201926061Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205bFlWODNUbTVLUlRadlNVSk1abll4VkdwR1JtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205bFlWODNUbTVLUlRadlNVSk1abll4VkdwR1JtYxAB!2m1!1s0x3442adc868847041:0x16acacb1de7323b2"
+    },
+    {
+      "name": "places/ChIJQXCEaMitQjQRsiNz3rGsrBY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SRGQwTnVja3hhTTJoUU5tUnZhR0o1ZGtoUGVYYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "味道不錯，我有機會還會再來吃。那杯湯是松露口味，很濃郁，好喝。不過有點貴，一杯要180元，物價漲太快了。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "味道不錯，我有機會還會再來吃。那杯湯是松露口味，很濃郁，好喝。不過有點貴，一杯要180元，物價漲太快了。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chu",
+        "uri": "https://www.google.com/maps/contrib/105925497396516410782/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXzCEf2lkepWMCtF831MXqqIa0yNnpjHWDfyBnV1l0uY7etK1E=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-08T09:10:07.595203267Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SRGQwTnVja3hhTTJoUU5tUnZhR0o1ZGtoUGVYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SRGQwTnVja3hhTTJoUU5tUnZhR0o1ZGtoUGVYYxAB!2m1!1s0x3442adc868847041:0x16acacb1de7323b2"
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": "ChIJFSy4iaavQjQRlZYEUAkEwNs",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2823 6355",
+  "formattedAddress": "112台灣臺北市北投區東華里立農街二段265號",
+  "location": {
+    "latitude": 25.118925599999997,
+    "longitude": 121.51468429999998
+  },
+  "rating": 4.5,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 137,
+  "displayName": {
+    "text": "美式早餐屋—北投立農店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJFSy4iaavQjQRlZYEUAkEwNs/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Sa2FFZFRSMFF4U0dSa1ptUXhiak54V0dwU1puYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "店家各個親切有禮，讓人一早心情會變好。傳統早餐的食物普通但是好吃的。東西乾淨整潔。點餐可以紙本畫單或線上(需另外網頁登入line)。內用位置算多，比較小，但吃早餐也相當足夠。\n👍🏻👍🏻",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店家各個親切有禮，讓人一早心情會變好。傳統早餐的食物普通但是好吃的。東西乾淨整潔。點餐可以紙本畫單或線上(需另外網頁登入line)。內用位置算多，比較小，但吃早餐也相當足夠。\n👍🏻👍🏻",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jenny Cheng",
+        "uri": "https://www.google.com/maps/contrib/116334935831312092993/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjURAmCSsELj6BTnflJc_fb57ecqCi8oNk2Jbz2asy288LLG9xs=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-07T03:13:15.363983829Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Sa2FFZFRSMFF4U0dSa1ptUXhiak54V0dwU1puYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Sa2FFZFRSMFF4U0dSa1ptUXhiak54V0dwU1puYxAB!2m1!1s0x3442afa689b82c15:0xdbc0040950049695"
+    },
+    {
+      "name": "places/ChIJFSy4iaavQjQRlZYEUAkEwNs/reviews/ChdDSUhNMG9nS0VJQ0FnSUNudjlHT3hBRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 3,
+      "text": {
+        "text": "#鄰近國立陽明交通大學陽明校區\n#鄰近臺北榮民總醫院\n\n自己找位置 桌上掃描QR Code\n餐點口味還可以 價格一般\n送餐小妹妹把餐點放到桌上就走了\n一句話也沒講 我還以為是啞吧\n直到她跟同事聊天 我才發現 原來她會說話\n\n戴粗框眼鏡 綁馬尾\n穿一件粉紅色T-shirt的肉肉小妹妹啊\n上班認真點好嗎 桌號都記不清楚\n送錯餐兩次 也不會說抱歉餒\n- - - - - - - - - - - - - - - - - - - - - - -\n美式早餐屋 “北投立農店\n地址：台北市北投區立農街二段265號",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "#鄰近國立陽明交通大學陽明校區\n#鄰近臺北榮民總醫院\n\n自己找位置 桌上掃描QR Code\n餐點口味還可以 價格一般\n送餐小妹妹把餐點放到桌上就走了\n一句話也沒講 我還以為是啞吧\n直到她跟同事聊天 我才發現 原來她會說話\n\n戴粗框眼鏡 綁馬尾\n穿一件粉紅色T-shirt的肉肉小妹妹啊\n上班認真點好嗎 桌號都記不清楚\n送錯餐兩次 也不會說抱歉餒\n- - - - - - - - - - - - - - - - - - - - - - -\n美式早餐屋 “北投立農店\n地址：台北市北投區立農街二段265號",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ming Wu",
+        "uri": "https://www.google.com/maps/contrib/106364874971729060221/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXsFvb6AMKqcJi-R7AESQop8SyYRTPH6rhsgoj5zeZv4Ors1rpUEw=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2024-10-01T23:11:41.552949Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNudjlHT3hBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNudjlHT3hBRRAB!2m1!1s0x3442afa689b82c15:0xdbc0040950049695"
+    },
+    {
+      "name": "places/ChIJFSy4iaavQjQRlZYEUAkEwNs/reviews/ChZDSUhNMG9nS0VJQ0FnSUM4N2NhS1V3EAE",
+      "relativePublishTimeDescription": "5 年前",
+      "rating": 4,
+      "text": {
+        "text": "店內位置不多，店員十分親切，且價格親民，於店內用餐後並無太重的油煙味👍\n在菜單上看到怪味蛋餅十分特別！有興趣的朋友們可以點看看~這邊就不透露內容物了😂\n鐵板麵可選擇加蛋熟度，但是麵品稍鹹~",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店內位置不多，店員十分親切，且價格親民，於店內用餐後並無太重的油煙味👍\n在菜單上看到怪味蛋餅十分特別！有興趣的朋友們可以點看看~這邊就不透露內容物了😂\n鐵板麵可選擇加蛋熟度，但是麵品稍鹹~",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Eva",
+        "uri": "https://www.google.com/maps/contrib/116247575286707995418/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUwkwTju-mMg5gLmso5rhP8NPdGJwEezq7rcy7WEGwsYgTBc2HC=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2020-11-20T11:22:01.441062Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM4N2NhS1V3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM4N2NhS1V3EAE!2m1!1s0x3442afa689b82c15:0xdbc0040950049695"
+    },
+    {
+      "name": "places/ChIJFSy4iaavQjQRlZYEUAkEwNs/reviews/ChZDSUhNMG9nS0VJQ0FnSURjMnBtb2JBEAE",
+      "relativePublishTimeDescription": "5 年前",
+      "rating": 4,
+      "text": {
+        "text": "日式套餐還不錯，蛋裡面有九層塔跟鮪魚。缺點是份量略少，海苔已經軟掉，想分兩口吃會咬不斷。\n台式里肌炒麵青菜滿多的，蛋是半熟蛋，個人覺得稍鹹一點。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "日式套餐還不錯，蛋裡面有九層塔跟鮪魚。缺點是份量略少，海苔已經軟掉，想分兩口吃會咬不斷。\n台式里肌炒麵青菜滿多的，蛋是半熟蛋，個人覺得稍鹹一點。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "周黑馬",
+        "uri": "https://www.google.com/maps/contrib/101854900626913742227/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3hM8rqnzUxXA21_62duIL1dlGOjXlsoWnHWqaGcbL1cuJK9RZ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2020-06-07T05:07:25.296054Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURjMnBtb2JBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURjMnBtb2JBEAE!2m1!1s0x3442afa689b82c15:0xdbc0040950049695"
+    },
+    {
+      "name": "places/ChIJFSy4iaavQjQRlZYEUAkEwNs/reviews/ChZDSUhNMG9nS0VJQ0FnSURwbXFqNUt3EAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "九層塔蛋餅煎的很香 脆薯洋葱圈炸的酥脆爽口不油,紅茶甜度剛好!",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "九層塔蛋餅煎的很香 脆薯洋葱圈炸的酥脆爽口不油,紅茶甜度剛好!",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hung Ying Chin",
+        "uri": "https://www.google.com/maps/contrib/102948445950242536104/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWrTUi0KryGn8WR6xJ2dRSha3200WZrgSuI5IBXjoiAIojOd0pI=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2023-09-07T07:14:40.899623Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURwbXFqNUt3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURwbXFqNUt3EAE!2m1!1s0x3442afa689b82c15:0xdbc0040950049695"
+    }
+  ]
+}

@@ -1,33 +1,50 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "空間寬敞乾淨，後方即有大型公有停車場，停車非常方便，適合家庭聚餐或帶長輩前往。",
-        "confidence": 1.0
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "空間寬敞乾淨，後方即有大型公有停車場，停車非常方便，適合家庭聚餐或帶長輩前往。",
-        "confidence": 1.0
-    },
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "餐桌間距夠寬，不會吵嘈，用餐環境舒適，服務態度好，旁邊就有停車場，真的是很優的用餐選擇，推薦！",
-        "空間寬敞乾淨，後方即有大型公有停車場，停車非常方便，適合家庭聚餐或帶長輩前往。",
-        "腹地算大，坐起來也不會太擁擠",
-        "孩童優惠 80公分以下 免費 81~100公分 清潔費120元 101公分～140公分 半價"
-    ],
-    "generated_summary": "餐廳空間寬敞且桌距大，非常適合家庭聚餐，並設有明確的孩童收費優惠標準。",
-    "card_summary": "餐廳空間寬敞且桌距大，非常適合家庭聚餐，並設有明確的孩童收費優惠標準。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "空間寬敞乾淨，後方即有大型公有停車場，停車非常方便，適合家庭聚餐或帶長輩前往。",
+                             "confidence":  1
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Unknown",
+                               "evidence":  "空間寬敞乾淨，後方即有大型公有停車場，停車非常方便，適合家庭聚餐或帶長輩前往。",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，店內用餐空間規劃寬敞，活動動線舒適。空間寬敞舒適，適合帶孩子前來用餐。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "環境優點： 空間寬敞乾淨"
+                          ],
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "中",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

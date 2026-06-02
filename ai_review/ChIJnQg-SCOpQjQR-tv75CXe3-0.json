@@ -1,31 +1,50 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "No",
-        "evidence": "店面不大但有樓中樓座位，裡面布置有懷舊家具，還有動漫人物。",
-        "confidence": 1.0
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "No",
-        "evidence": "我們用餐的時候裡面很安靜～每桌客人聊天都小小聲的～",
-        "confidence": 1.0
-    },
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "店面不大但有樓中樓座位，裡面布置有懷舊家具，還有動訊息人物。",
-        "我們用餐的時候裡面很安靜～每桌客人聊天都小小聲的～"
-    ],
-    "generated_summary": "店內空間較小且環境安靜，適合沉澱或工作，目前評論中未提及兒童相關設施與餐點資訊。",
-    "card_summary": "該餐廳空間較擁擠且環境較安靜，帶小孩前往需多加留意。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  "店面不大但有樓中樓座位，裡面布置有懷舊家具，還有動漫人物。",
+                             "confidence":  1
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "No",
+                               "evidence":  "我們用餐的時候裡面很安靜～每桌客人聊天都小小聲的～",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，店內提供的義大利麵等義式餐點口感良好，獲得顧客肯定。環境較為安靜，帶小孩需留意，適合帶孩子前來用餐。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "氣氛非常好的一家店❤️我們用餐的時候裡面很安靜～每桌客人聊天都小小聲的～餐點也很好吃（在我不餓的情況下還能覺得好吃的是真的厲害👍）然後闆娘們都笑咪咪的"
+                          ],
+    "parent_friendly_score":  -2,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

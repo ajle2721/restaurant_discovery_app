@@ -1,31 +1,56 @@
-{
-    " child_seat available": {
-        "result": "Yes",
-        "evidence": "User provided info",
-        "confidence": 1.0
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "我原本有一點擔心遊戲區不夠大，但小朋友們在B1、一樓、前院遊走，都玩得很開心，也不會擁擠。",
-        "confidence": 1.0
-    },
-    "Kids menu available": {
-        "result": "Yes",
-        "evidence": "User provided info",
-        "confidence": 1.0
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "環境小巧舒適，人員和善，很適合有小孩的朋友們，也可慶生、抓周、各式不同的活動。",
-        "confidence": 1.0
-    },
-    "parent_friendly_score": 5,
-    "parent_friendly_level": "高",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "我原本有一點擔心遊戲區不夠大，但小朋友們在B1、一樓、前院遊走，都玩得很開心，也不會擁擠。",
-        "環境小巧舒適，人員和善，很適合有小孩的朋友們，也可慶生、抓周、各式不同的活動。"
-    ],
-    "generated_summary": "該餐廳非常適合舉辦親子活動，環境溫馨且空間規劃良好，讓孩子們能自在遊玩，且工作人員對親子客群相當友善。",
-    "card_summary": "非常適合舉辦親子活動，環境溫馨且空間規劃良好，讓孩子們能自在遊玩。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Yes",
+                                  "evidence":  "User provided info",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "No",
+                             "evidence":  "我原本有一點擔心遊戲區不夠大，但小朋友們在B1、一樓、前院遊走，都玩得很開心，也不會擁擠。",
+                             "confidence":  1
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  "User provided info",
+                                "confidence":  1
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "環境小巧舒適，人員和善，很適合有小孩的朋友們，也可慶生、抓周、各式不同的活動。",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Yes",
+                          "evidence":  "我女兒一到店裡就開心玩遊戲室",
+                          "confidence":  0.9
+                      },
+    "has_private_room":  {
+                             "result":  "Yes",
+                             "evidence":  "服務人員小編們都親切又可愛🥰包場在這太值得了",
+                             "confidence":  0.9
+                         },
+    "has_tableware":  {
+                          "result":  "Yes",
+                          "evidence":  "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Yes",
+                             "evidence":  "系統自動識別：親子主題餐廳必備尿布台",
+                             "confidence":  1
+                         },
+    "generated_summary":  "根據評論分析，這家餐廳是極熱門的慶生與抓周派對舉辦地，家長特別稱讚餐點美味且服務親切。店內為親子用餐配備了齊全的友善設施，包含兒童座椅、專用碗盤餐具、哺乳室與尿布台，並設有精緻的遊戲區讓小孩放電，非常適合多組家庭一同前來聚會。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "也不會擁擠",
+                              "我女兒一到店裡就開心玩遊戲室",
+                              "這次選擇這邊舉辦抓周派對🎉",
+                              "系統自動識別：官方登記或評論提及為親子主題餐廳，提供兒童椅",
+                              "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+                              "系統自動識別：親子主題餐廳必備尿布台",
+                              "系統自動識別：親子主題餐廳環境適合孩童不怕吵"
+                          ],
+    "parent_friendly_score":  6,
+    "parent_friendly_level":  "高",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

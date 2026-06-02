@@ -1,0 +1,129 @@
+{
+  "id": "ChIJ2R0hreyvQjQRMbmj_BRkLdY",
+  "types": [
+    "italian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 913 610 639",
+  "formattedAddress": "111台灣臺北市士林區福佳里美崙街59號",
+  "location": {
+    "latitude": 25.0970002,
+    "longitude": 121.52227769999998
+  },
+  "rating": 4.5,
+  "userRatingCount": 41,
+  "displayName": {
+    "text": "有點～義～思 義大利麵",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ2R0hreyvQjQRMbmj_BRkLdY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poTGNreDBUMjlxVmtwV1JHSTRSVFpwYlVaTk1sRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "食材新鮮\n份量很足夠\n義大利麵都有蔬菜、菇類（份量很多！）\n推推👍👍👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "食材新鮮\n份量很足夠\n義大利麵都有蔬菜、菇類（份量很多！）\n推推👍👍👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "CY L",
+        "uri": "https://www.google.com/maps/contrib/116783476185252240243/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZwDVsXag17KsaQLSh8mkPwy1h9-blRCwz23zusAk351ZyBMbI=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-03-03T03:21:04.210145579Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poTGNreDBUMjlxVmtwV1JHSTRSVFpwYlVaTk1sRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poTGNreDBUMjlxVmtwV1JHSTRSVFpwYlVaTk1sRRAB!2m1!1s0x3442afecad211dd9:0xd62d6414fca3b931"
+    },
+    {
+      "name": "places/ChIJ2R0hreyvQjQRMbmj_BRkLdY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkVk9XOXpPV1JXVjFCQk1rdHJNR05HU0doMFkzYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "1. 160元左右的大碗義大利麵份量很多，可以裝滿一大碗，每次都能吃飽。\n2. 雞肉和配菜(菇類、有點乾澀的花椰菜)給得很大方，且裹滿醬汁，非常好吃。\n3. 已嘗試紅醬、白醬、青醬。我覺得白醬最好吃，奶油味十分濃郁，醬汁都有掛在麵條上，每一口都是滿滿的奶油香。相比之下，紅醬還需加強，有股水果番茄的酸味，甜味偏淡。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "1. 160元左右的大碗義大利麵份量很多，可以裝滿一大碗，每次都能吃飽。\n2. 雞肉和配菜(菇類、有點乾澀的花椰菜)給得很大方，且裹滿醬汁，非常好吃。\n3. 已嘗試紅醬、白醬、青醬。我覺得白醬最好吃，奶油味十分濃郁，醬汁都有掛在麵條上，每一口都是滿滿的奶油香。相比之下，紅醬還需加強，有股水果番茄的酸味，甜味偏淡。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Go-chen綸",
+        "uri": "https://www.google.com/maps/contrib/108976201727177660091/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX_J0y3RO7GTfK4FnE6XQ2S5lVAmDCrSLYsSs_p9r3ycnkNln1j=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-08-06T01:05:09.145056442Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkVk9XOXpPV1JXVjFCQk1rdHJNR05HU0doMFkzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkVk9XOXpPV1JXVjFCQk1rdHJNR05HU0doMFkzYxAB!2m1!1s0x3442afecad211dd9:0xd62d6414fca3b931"
+    },
+    {
+      "name": "places/ChIJ2R0hreyvQjQRMbmj_BRkLdY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNIbjd6eXpnRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "強烈建議先打電話預約唷！可以提早30分先打，尤其是有點焗烤的話～另外只有外帶沒有內用\n\n個人偏好奶油和蒜香，覺得味道都很不錯，蔬菜的量也多，100-120元可以吃到這個份量的義大利麵臺北太難了🥹",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "強烈建議先打電話預約唷！可以提早30分先打，尤其是有點焗烤的話～另外只有外帶沒有內用\n\n個人偏好奶油和蒜香，覺得味道都很不錯，蔬菜的量也多，100-120元可以吃到這個份量的義大利麵臺北太難了🥹",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Guan Ru (觀觀)",
+        "uri": "https://www.google.com/maps/contrib/118074696234145103592/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXGzXxB0PnQqNRp8R5EAilMy_Ykl4XnU4mZzpAC6FinTEFkmzE=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2024-09-10T14:52:06.454517Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNIbjd6eXpnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNIbjd6eXpnRRAB!2m1!1s0x3442afecad211dd9:0xd62d6414fca3b931"
+    },
+    {
+      "name": "places/ChIJ2R0hreyvQjQRMbmj_BRkLdY/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3amN5Vm5BRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "起初得知大辣要加10元有點嚇到，因為完全無法理解為什麼加辣就要加價。但後來老闆解釋後才知道是因為他們不用一般的辣，都是用鬼椒辣所以比較貴需要加價。才能夠理解這樣的操作。後來是買了不用加價的中辣。\n我個人是覺得可以分成一般辣跟鬼椒辣，畢竟一般店家是不會到加辣需要加價的，感覺有點牽強，尤其是平常在外都吃很辣的人。\n\n原本看紙碗看起來蠻大但份量大概一半感覺有點少，但是用湯匙挖的時候發現份量真的算多的！飯、菇類、花椰菜、玉米份量也都夠！\n之後還是會光顧的！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "起初得知大辣要加10元有點嚇到，因為完全無法理解為什麼加辣就要加價。但後來老闆解釋後才知道是因為他們不用一般的辣，都是用鬼椒辣所以比較貴需要加價。才能夠理解這樣的操作。後來是買了不用加價的中辣。\n我個人是覺得可以分成一般辣跟鬼椒辣，畢竟一般店家是不會到加辣需要加價的，感覺有點牽強，尤其是平常在外都吃很辣的人。\n\n原本看紙碗看起來蠻大但份量大概一半感覺有點少，但是用湯匙挖的時候發現份量真的算多的！飯、菇類、花椰菜、玉米份量也都夠！\n之後還是會光顧的！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "TH L",
+        "uri": "https://www.google.com/maps/contrib/115312293636706024820/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ2vcO5P5-_QrTCg2XYx7rN2CBsfBYxlfgv698o3z14Kxkoh94L=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-03-20T11:34:25.510933Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3amN5Vm5BRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3amN5Vm5BRRAB!2m1!1s0x3442afecad211dd9:0xd62d6414fca3b931"
+    },
+    {
+      "name": "places/ChIJ2R0hreyvQjQRMbmj_BRkLdY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkbmFqUnVkSEY0VVhkUGFtUjVZamxSVFVOVWVYYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "份量大，價格便宜，很好吃😋推薦給大家",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "份量大，價格便宜，很好吃😋推薦給大家",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "武志新",
+        "uri": "https://www.google.com/maps/contrib/104667435474467745977/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7rmSmC801Gm1XssasvrSz3eeB4eMnjcCK4emqqeW-cxP5wbeG=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-11-02T13:24:44.214917824Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkbmFqUnVkSEY0VVhkUGFtUjVZamxSVFVOVWVYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkbmFqUnVkSEY0VVhkUGFtUjVZamxSVFVOVWVYYxAB!2m1!1s0x3442afecad211dd9:0xd62d6414fca3b931"
+    }
+  ]
+}

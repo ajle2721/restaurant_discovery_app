@@ -1,32 +1,52 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "動線安排不擁擠，即使人潮多，取餐時還算順暢。",
-        "confidence": 1.0
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "右手邊還有專為孩子打造的兒童專區，這點真的解決了許多爸媽想好好吃頓飯的痛點，對家庭客來說非常加分。",
-        "confidence": 1.0
-    },
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "右手邊還有專為孩子打造的兒童專區，這點真的解決了許多爸媽想好好吃頓飯的痛點，對家庭客來說非常加分。",
-        "動線安排不擁擠，即使人潮多，取餐時還算順暢。",
-        "整體來說，環境舒適、分區清楚、甜點與冰品表現優秀、對親子家庭友善。"
-    ],
-    "generated_summary": "該餐廳設有專屬兒童區域，對家庭客相當友善，且整體動線規劃良好，即使人潮眾多也能保持取餐順暢。",
-    "card_summary": "設有專屬兒童區域，對家庭客相當友善，且整體動線規劃良好，即使人潮眾多也能保持取餐順暢。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Yes",
+                                  "evidence":  "使用者回報與人工校正：所有饗食天堂分店均提供兒童餐椅",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "動線安排不擁擠，即使人潮多，取餐時還算順暢。",
+                             "confidence":  1
+                         },
+    "Kids menu available":  {
+                                "result":  "Yes",
+                                "evidence":  "使用者回報與人工校正：所有饗食天堂分店均提供豐富的兒童餐點",
+                                "confidence":  1
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "右手邊還有專為孩子打造的兒童專區，這點真的解決了許多爸媽想好好吃頓飯的痛點，對家庭客來說非常加分。",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Yes",
+                          "evidence":  "使用者回報與人工校正：所有饗食天堂分店均貼心提供兒童專用碗盤餐具",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Yes",
+                             "evidence":  "位於百貨商場/交通樞紐（110台灣臺北市信義區松壽路12號ATT 4 FUN百貨6樓），商場內設有公共尿布台及哺乳室",
+                             "confidence":  1
+                         },
+    "generated_summary":  "根據評論分析，餐點與整體服務品質獲得顧客良好回饋。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點，可就近使用商場內公共尿布台及哺乳室。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "動線安排不擁擠",
+                              "對家庭客來說非常加分",
+                              "系統自動識別：位於百貨商場/大樓（ATT 4 FUN百貨），可使用商場內公共尿布台及哺乳室"
+                          ],
+    "parent_friendly_score":  3,
+    "parent_friendly_level":  "高",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

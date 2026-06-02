@@ -11,9 +11,16 @@ const state = {
     markerMap: {},
     locationData: [], // From taipei_locations.json
     showOthers: false,
-    hideLowQualityMarkers: true, // Default to true
+    get hideLowQualityMarkers() {
+        return !this.showOthers;
+    },
+    set hideLowQualityMarkers(val) {
+        this.showOthers = !val;
+    },
     currentResults: [],
-    favorites: new Set()
+    favorites: new Set(),
+    viewTransitionTimeoutId: null,
+    isUiNavigation: false
 };
 
 // Global Detail Viewer (must be global for onclick)
@@ -128,7 +135,7 @@ const attributeLabels = {
     kid_noise_tolerant: '不怕吵',
     spacious_seating: '空間寬敞',
     has_play_area: '有遊樂區',
-    has_private_room: '可包場辦活動'
+    has_private_room: '包廂或可包場'
 };
 
 const levelLabels = {
@@ -186,9 +193,9 @@ function getPFSummaryTags(res, overrideLevel, simpleFormat = false) {
                 unknown: '評論未提及遊戲設施'
             },
             has_private_room: {
-                yes: '可包場辦活動',
-                no: '無提供包廂',
-                unknown: '評論未提及包場服務'
+                yes: '有包廂或可包場',
+                no: '無提供包廂或包場',
+                unknown: '評論未提及包廂或包場'
             }
         };
 
@@ -214,7 +221,7 @@ function getPFSummaryTags(res, overrideLevel, simpleFormat = false) {
                 kid_noise_tolerant: '氣氛安靜度',
                 spacious_seating: '空間大小',
                 has_play_area: '遊樂區',
-                has_private_room: '可包場辦活動'
+                has_private_room: '包廂或可包場'
             };
             state.filters.forEach(f => {
                 if (!attrs[f] || attrs[f] === 'unknown') {
@@ -274,7 +281,7 @@ function getPFSummaryTags(res, overrideLevel, simpleFormat = false) {
     if (attrs.kid_noise_tolerant === 'yes') tags.push('不怕吵');
     if (attrs.spacious_seating === 'yes') tags.push('空間寬敞');
     if (attrs.has_play_area === 'yes') tags.push('有遊樂區');
-    if (attrs.has_private_room === 'yes') tags.push('可包場辦活動');
+    if (attrs.has_private_room === 'yes') tags.push('包廂或可包場');
     
     return tags.join('、');
 }
@@ -559,7 +566,12 @@ function setupEventListeners() {
     backHomeBtn.addEventListener('click', () => {
         const params = new URLSearchParams(window.location.search);
         if (params.get('loc') || params.get('f') || window.history.length > 1) {
+            state.isUiNavigation = true;
             window.history.back();
+            // Safety timeout to reset the flag if popstate is blocked/not fired
+            setTimeout(() => {
+                state.isUiNavigation = false;
+            }, 100);
         } else {
             switchView('home');
             updateUrl(false);
@@ -779,7 +791,9 @@ function setupEventListeners() {
     // popstate listener for back/forward browser buttons
     window.addEventListener('popstate', (e) => {
         console.log('Popstate detected, syncing view with URL...');
-        syncStateFromUrl(false);
+        const useAnimation = state.isUiNavigation;
+        state.isUiNavigation = false; // Reset flag
+        syncStateFromUrl(false, useAnimation);
     });
 
     // Map size toggle (Enlarge Map)
@@ -1453,26 +1467,46 @@ function focusOnMap(e, placeId) {
     const res = restaurantData.find(r => r.place_id === placeId);
     const resultsView = document.getElementById('search-results-view');
     if (res && state.map && resultsView) {
-        // If marker doesn't exist, it might be in 'others' and hidden.
+        let needsReRender = false;
+        
+        // If it's a low quality marker and we are currently hiding them, toggle it off
+        const status = getDynamicStatus(res, state.filters);
+        const isLowQuality = (status.level === 'Insufficient Info' || status.level === 'Needs Attention');
+        
+        if (isLowQuality && state.hideLowQualityMarkers) {
+            state.hideLowQualityMarkers = false;
+            needsReRender = true;
+        }
+
+        // If marker doesn't exist in markerMap, it might be in 'others' or not rendered yet
         if (!state.markerMap[placeId]) {
             state.showOthers = true;
+            needsReRender = true;
+        }
+
+        if (needsReRender) {
             renderResults();
         }
 
+        // Pre-set popupOpen so moveend handler does not wipe popup
+        state.popupOpen = true;
+
+        // Offset the map center slightly North of the marker coordinate (res.latitude + 0.0008)
+        // and pass { animate: false } to allow instantaneous positioning
+        state.map.setView([res.latitude + 0.0008, res.longitude], 17, { animate: false });
+        
+        // Force refresh markers in the new viewport location to ensure the clicked marker is created
+        refreshMapMarkers();
+
         const marker = state.markerMap[placeId];
         if (marker) {
-            // Pre-set popupOpen so the moveend handler (fired by setView) does not
-            // wipe and redraw markers before openPopup() gets a chance to run.
-            state.popupOpen = true;
-            // Offset the map center slightly North of the marker coordinate (res.latitude + 0.0008)
-            // and pass { animate: false } to allow instantaneous positioning, which lets Leaflet's
-            // built-in autoPan calculate positions perfectly without viewport animation collisions.
-            state.map.setView([res.latitude + 0.0008, res.longitude], 17, { animate: false });
             marker.openPopup();
-            
-            // Directly and reliably scroll the viewport using scrollIntoView
-            resultsView.scrollIntoView({ behavior: 'smooth' });
+        } else {
+            state.popupOpen = false; // reset if marker failed to render
         }
+        
+        // Directly and reliably scroll the viewport using scrollIntoView
+        resultsView.scrollIntoView({ behavior: 'smooth' });
     }
 }
 
@@ -1660,9 +1694,22 @@ function isLowMatchGlobal(restaurant, level) {
 
 let lastScrollY = 0;
 
-function switchView(viewName) {
+function switchView(viewName, animate = true) {
+    if (state.viewTransitionTimeoutId) {
+        clearTimeout(state.viewTransitionTimeoutId);
+        state.viewTransitionTimeoutId = null;
+    }
+
+    if (!animate) {
+        detailView.classList.add('no-transition');
+    } else {
+        detailView.classList.remove('no-transition');
+    }
+
     if (viewName === 'detail') {
         state.view = 'detail';
+        lastScrollY = window.scrollY;
+        
         detailView.classList.add('active');
         detailView.scrollTo(0, 0); // Scroll detail view overlay back to its top
         document.body.style.overflow = 'hidden'; // Lock background window scroll to prevent double scrolling
@@ -1670,12 +1717,26 @@ function switchView(viewName) {
         state.view = 'home';
         detailView.classList.remove('active');
         
-        // Delay restoring background scrollbar and invalidating map size until the slide-out transition
-        // completely finishes (650ms) to prevent stutters, layout jumps, or scroll position shifting during active animation.
-        setTimeout(() => {
+        const restoreHomeState = () => {
             document.body.style.overflow = ''; // Unlock background window scroll
-            if (state.map) state.map.invalidateSize();
-        }, 650);
+            window.scrollTo(0, lastScrollY);
+        };
+
+        if (!animate) {
+            restoreHomeState();
+        } else {
+            // Delay restoring background scrollbar until the slide-out transition
+            // completely finishes (300ms) to prevent stutters or scroll position shifting during active animation.
+            state.viewTransitionTimeoutId = setTimeout(() => {
+                state.viewTransitionTimeoutId = null;
+                restoreHomeState();
+            }, 300);
+        }
+    }
+
+    if (!animate) {
+        void detailView.offsetHeight; // Force reflow
+        detailView.classList.remove('no-transition');
     }
 }
 
@@ -1807,6 +1868,19 @@ function refreshMapMarkers() {
 
     const usedCoords = new Map();
 
+    const prominenceRanks = new Map();
+    if (totalCount > 60) {
+        // Sort restaurants by prominence score: reviews * rating + rating
+        const sorted = [...state.mapRestaurants].sort((a, b) => {
+            const scoreA = (a.user_ratings_total || 0) * (parseFloat(a.rating) || 0) + (parseFloat(a.rating) || 0);
+            const scoreB = (b.user_ratings_total || 0) * (parseFloat(b.rating) || 0) + (parseFloat(b.rating) || 0);
+            return scoreB - scoreA;
+        });
+        sorted.forEach((res, index) => {
+            prominenceRanks.set(res.place_id, index);
+        });
+    }
+
     // 2. Filter mapRestaurants by zoom level and viewport bounds if count is large (> 60)
     const filteredRestaurants = state.mapRestaurants.filter(res => {
         if (!res.latitude || !res.longitude) return false;
@@ -1818,20 +1892,20 @@ function refreshMapMarkers() {
         // Apply global hideLowQualityMarkers toggle
         if (state.hideLowQualityMarkers && isLowQuality) return false;
 
-        // Progressive filtering logic based on zoom levels
+        // Progressive filtering logic based on zoom levels (Google Maps style - prominence-based)
         if (totalCount > 60) {
+            const rank = prominenceRanks.get(res.place_id);
             if (zoom <= 11) {
-                // Show only High level recommendations at very low zoom
-                return level === 'High';
+                // Show only top 15 most prominent matching restaurants
+                return rank < 15;
             } else if (zoom === 12) {
-                // Show High and Medium recommendations
-                return level === 'High' || level === 'Medium';
+                // Show top 30 most prominent matching restaurants
+                return rank < 30;
             } else if (zoom === 13) {
-                // Show High, Medium, and Low Match
-                return level === 'High' || level === 'Medium' || level === 'Low Match';
+                // Show top 60 most prominent matching restaurants
+                return rank < 60;
             } else if (zoom >= 14) {
                 // Show all categories, but ONLY if they are within current map viewport bounds
-                // This prevents cluttering by hiding pins that are off-screen
                 return mapBounds.contains([res.latitude, res.longitude]);
             }
         }
@@ -1991,7 +2065,7 @@ function urlMatchesCurrentState(params) {
     return true;
 }
 
-function syncStateFromUrl(isInitialLoad = false) {
+function syncStateFromUrl(isInitialLoad = false, animate = false) {
     const params = new URLSearchParams(window.location.search);
     
     // 1. 檢查是否有分享的考慮清單
@@ -2118,12 +2192,12 @@ function syncStateFromUrl(isInitialLoad = false) {
         if (res) {
             state.selectedRestaurant = res;
             renderDetailContent(res);
-            switchView('detail');
+            switchView('detail', animate);
         } else {
-            switchView('home');
+            switchView('home', animate);
         }
     } else {
-        switchView('home');
+        switchView('home', animate);
     }
 }
 
@@ -2396,7 +2470,7 @@ function renderShortlistDrawer() {
             if (attrs.kid_noise_tolerant === 'yes') ams.push('🥳不怕吵');
             if (attrs.spacious_seating === 'yes') ams.push('🛋️空間寬敞');
             if (attrs.has_play_area === 'yes') ams.push('🧸有遊樂區');
-            if (attrs.has_private_room === 'yes') ams.push('🚪可包場辦活動');
+            if (attrs.has_private_room === 'yes') ams.push('🚪包廂或可包場');
             const amsText = ams.length > 0 ? ams.join(' · ') : '暫無特徵標籤';
 
             listHtml += `
@@ -2617,10 +2691,10 @@ function openFeedbackModal(restaurant) {
             {
                 key: 'has_private_room',
                 emoji: '🚪',
-                yesLabel: '實際上不可包場',
-                yesValue: '實際上不可包場',
-                noLabel: '其實可包場辦活動',
-                noValue: '其實可包場辦活動'
+                yesLabel: '實際上無包廂且不可包場',
+                yesValue: '實際上無包廂且不可包場',
+                noLabel: '其實有包廂或可包場',
+                noValue: '其實有包廂或可包場'
             }
         ];
 

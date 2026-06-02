@@ -1,30 +1,50 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "No",
-        "evidence": "結論：特色預訂菜3天前該訂的記得訂，但電話非常難打，我是21:30以後才打通，適合餐聚，但開放式空間且位子偏少，不要太吵以免影響其他人用餐。",
-        "confidence": 1.0
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "No",
-        "evidence": "結論：特色預訂菜3天前該訂的記得訂，但電話非常難打，我是21:30以後才打通，適合餐聚，但開放式空間且位子偏少，不要太吵以免影響其他人用餐。",
-        "confidence": 1.0
-    },
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "需留意",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "但開放式空間且位子偏少，不要太吵以免影響其他人用餐"
-    ],
-    "generated_summary": "該餐廳空間較小且座位有限，環境較為安靜，建議用餐時避免過於吵雜以免影響他人。",
-    "card_summary": "該餐廳空間較擁擠且環境較安靜，帶小孩前往需多加留意。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  "結論：特色預訂菜3天前該訂的記得訂，但電話非常難打，我是21:30以後才打通，適合餐聚，但開放式空間且位子偏少，不要太吵以免影響其他人用餐。",
+                             "confidence":  1
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Unknown",
+                               "evidence":  "結論：特色預訂菜3天前該訂的記得訂，但電話非常難打，我是21:30以後才打通，適合餐聚，但開放式空間且位子偏少，不要太吵以免影響其他人用餐。",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。",
+    "card_summary":  "",
+    "generated_signals":  [
+
+                          ],
+    "parent_friendly_score":  0,
+    "parent_friendly_level":  "資訊不足",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

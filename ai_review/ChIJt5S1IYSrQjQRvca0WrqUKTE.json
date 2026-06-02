@@ -1,32 +1,50 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "座位寬敞，桌與桌的間距很大，連娃娃車應該都能輕鬆推過，不用擔心被隔壁客人影響。",
-        "confidence": 1.0
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "剛好遇到隔壁桌有失控尖叫的小孩，可能擔心我們會受到影響，主動向我們提出更換座位的安排，以及招待超美味的甜點，美福表現出高水準的處理能力。",
-        "confidence": 1.0
-    },
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "綜合評估",
-    "generated_signals": [
-        "座位寬敞，桌與桌的間距很大，連娃娃車應該都能輕鬆推過，不用擔心被隔壁客人影響。",
-        "剛好遇到隔壁桌有失控尖叫的小孩",
-        "算是孕婦兒童友善"
-    ],
-    "generated_summary": "餐廳空間寬敞，適合推車進出。對於兒童用餐的突發狀況，服務人員展現高水準的應對能力，整體對親子客群友善。",
-    "card_summary": "餐廳空間寬敞，適合推車進出，對於兒童用餐的突發狀況，服務人員展現高水準的應對能力。"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "座位寬敞，桌與桌的間距很大，連娃娃車應該都能輕鬆推過，不用擔心被隔壁客人影響。",
+                             "confidence":  1
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Unknown",
+                               "evidence":  "剛好遇到隔壁桌有失控尖叫的小孩，可能擔心我們會受到影響，主動向我們提出更換座位的安排，以及招待超美味的甜點，美福表現出高水準的處理能力。",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，手作麵包與特色輕食風味獲得顧客好評。空間寬敞舒適，適合帶孩子前來用餐。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "座位寬敞"
+                          ],
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "中",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

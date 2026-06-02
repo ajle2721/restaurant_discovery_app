@@ -1,0 +1,54 @@
+﻿{
+    " child_seat available":  {
+                                  "result":  "Yes",
+                                  "evidence":  "系統自動識別：官方登記或評論提及為親子主題餐廳，提供兒童椅",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "是親子友善餐廳裡面竟然有小球池，環境熱鬧不怕吵",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Yes",
+                          "evidence":  "1985的草莓🍓甜心愛心披薩🍕+烤雞翅孩子們搶著吃😋一樓的球池溜滑梯就可以讓他們玩到捨不得離開～角色扮演也是超可愛的🥰之前有來參加過週歲派對就感到店家非常用心",
+                          "confidence":  0.9
+                      },
+    "has_private_room":  {
+                             "result":  "Yes",
+                             "evidence":  "官方登記及評論提及：提供一條龍包場慶生活動、週歲抓週派對與主題派對",
+                             "confidence":  1
+                         },
+    "has_tableware":  {
+                          "result":  "Yes",
+                          "evidence":  "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Yes",
+                             "evidence":  "系統自動識別：親子主題餐廳必備尿布台",
+                             "confidence":  1
+                         },
+    "generated_summary":  "根據評論分析，店內一樓設有讓孩子們玩到捨不得離開的球池溜滑梯與角色扮演區，特色草莓甜心愛心披薩與烤雞翅深受小朋友喜愛。店家貼心備有兒童座椅、專用碗盤餐具與尿布台，並提供包廂與豐富的主題互動派對，是家庭聚會的放電首選。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "系統自動識別：官方登記或評論提及為親子主題餐廳，提供兒童椅",
+                              "官方登記及評論提及：提供一條龍包場慶生活動、週歲抓週派對與主題派對",
+                              "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+                              "是親子友善餐廳裡面竟然有小球池，環境熱鬧不怕吵",
+                              "一樓的球池溜滑梯就可以讓他們玩到捨不得離開，提供Pizza DIY與動物互動派對等豐富親子活動"
+                          ],
+    "parent_friendly_score":  8,
+    "parent_friendly_level":  "高",
+    "reason":  "人工校正數據與評論語意融合分析"
+}

@@ -5,26 +5,48 @@
                              "confidence":  0.4
                          },
     "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
+                                "result":  "No",
+                                "evidence":  "使用者回報與人工校正：欣葉（台菜/日本料理等）無專屬兒童餐，但其經典料理與菜色非常適合與兒童分食",
+                                "confidence":  1
                             },
     "kid_noise_tolerant":  {
                                "result":  "Yes",
                                "evidence":  "服務好上菜快環境舒適，是一家很適合家庭聚餐的台菜餐廳。",
-                               "confidence":  1.0
+                               "confidence":  1
                            },
-    "generated_signals":  [
-                              "服務好上菜快環境舒適，是一家很適合家庭聚餐的台菜餐廳。"
-                          ],
-    "generated_summary":  "目前評論中較少提及與親子用餐相關的具體資訊，僅有評論提及該餐廳適合家庭聚餐，建議前往前可先向店家確認兒童椅及兒童餐等設施。",
-    "card_summary":  "環境舒適，是可以考慮的親子聚餐地點。",
     " child_seat available":  {
                                   "evidence":  "Manual update",
                                   "result":  "Yes",
                                   "confidence":  1
                               },
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "中",
-    "reason":  "Manual Update"
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Yes",
+                             "evidence":  "人多這次是訂包廂（有低消，但不確定是多少），包廂座位算舒適，關起門來就可以隔絕外面的吵雜，整體還不錯👍",
+                             "confidence":  0.9
+                         },
+    "has_tableware":  {
+                          "result":  "Yes",
+                          "evidence":  "使用者回報與人工校正：欣葉旗下餐廳均有提供兒童專用碗盤餐具",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  "位於百貨商場/大樓（115台灣臺北市南港區經貿二路166號A棟中國信託金融園區1樓），商場內設有公共尿布台及哺乳室",
+                             "confidence":  1
+                         },
+    "generated_summary":  "根據評論分析，服務人員接待熱忱、服務態度良好。店內貼心備有兒童座椅與專用餐具。",
+    "card_summary":  "",
+    "generated_signals":  [
+                              "使用者回報與人工校正：欣葉旗下餐廳均有提供兒童餐椅",
+                              "關起門來就可以隔絕外面的吵雜",
+                              "使用者回報與人工校正：欣葉旗下餐廳均有提供兒童專用碗盤餐具"
+                          ],
+    "parent_friendly_score":  4,
+    "parent_friendly_level":  "高",
+    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
 }

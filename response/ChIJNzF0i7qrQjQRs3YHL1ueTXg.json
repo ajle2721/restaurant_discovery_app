@@ -1,0 +1,130 @@
+{
+  "id": "ChIJNzF0i7qrQjQRs3YHL1ueTXg",
+  "types": [
+    "breakfast_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 8935 2922",
+  "formattedAddress": "116台灣臺北市文山區景美里育英街5-1號",
+  "location": {
+    "latitude": 24.990392600000003,
+    "longitude": 121.5393146
+  },
+  "rating": 4.7,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 169,
+  "displayName": {
+    "text": "醬飽早午餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJNzF0i7qrQjQRs3YHL1ueTXg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tScmVsOWZhVkY0TW5OYUxWQjJiM2xhTjIxWmJVRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第一次來吃醬飽早午餐，簡潔明亮的設計、天花板則是木屋樑柱式的設計，很有空間感，點了一個牛肉堡和里肌肉蛋餅（還要了辣椒）、一杯拿鐵，食物美味好吃、辣椒更是加分項目。\n但店內就是廚房準備的聲響和用餐客人聊天的聲音再加上電視播放新聞就有點吵雜！\n整體上是推薦給想來吃早午餐的朋友！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次來吃醬飽早午餐，簡潔明亮的設計、天花板則是木屋樑柱式的設計，很有空間感，點了一個牛肉堡和里肌肉蛋餅（還要了辣椒）、一杯拿鐵，食物美味好吃、辣椒更是加分項目。\n但店內就是廚房準備的聲響和用餐客人聊天的聲音再加上電視播放新聞就有點吵雜！\n整體上是推薦給想來吃早午餐的朋友！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "魏萩萍",
+        "uri": "https://www.google.com/maps/contrib/111833190172137023466/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUC5SveFF-3c_rbEZ5mzCIStHAsTvrBJsYfjxSQ5I-f5rHWqxCLcQ=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-02T12:08:28.615943555Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tScmVsOWZhVkY0TW5OYUxWQjJiM2xhTjIxWmJVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tScmVsOWZhVkY0TW5OYUxWQjJiM2xhTjIxWmJVRRAB!2m1!1s0x3442abba8b743137:0x784d9e5b2f0776b3"
+    },
+    {
+      "name": "places/ChIJNzF0i7qrQjQRs3YHL1ueTXg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWa2RYQkxNamR5ZDFRMFVWRmlSSFZaU2kxWU1FRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "店面乾淨整潔，生意相當不錯；老闆親切有禮、服務周到，食材新鮮美味，價格也很親民，是一間讓人吃過就會想再回訪的早餐店。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店面乾淨整潔，生意相當不錯；老闆親切有禮、服務周到，食材新鮮美味，價格也很親民，是一間讓人吃過就會想再回訪的早餐店。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "王小寶",
+        "uri": "https://www.google.com/maps/contrib/109789419857444838092/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU8OCsFmoTWSEv6HO3nqhFTt239-5Qiu-Vrf9qC0hug6r8rCv--FA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-17T03:15:53.565063894Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWa2RYQkxNamR5ZDFRMFVWRmlSSFZaU2kxWU1FRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWa2RYQkxNamR5ZDFRMFVWRmlSSFZaU2kxWU1FRRAB!2m1!1s0x3442abba8b743137:0x784d9e5b2f0776b3"
+    },
+    {
+      "name": "places/ChIJNzF0i7qrQjQRs3YHL1ueTXg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGc1RHSnNaVkI2TTI4NFFsSnFMVVpuUVdKRmJWRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "蛋餅口感個人覺得普通，環境不錯，有多元支付，價格不貴，剛好經過可以試試",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "蛋餅口感個人覺得普通，環境不錯，有多元支付，價格不貴，剛好經過可以試試",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "許淳翔",
+        "uri": "https://www.google.com/maps/contrib/109866139913523516158/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUQWe_kfjAkM1p4sq-KRCtiLZJijPJLstk2eFT98wXcbzinzCs=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-01-28T09:23:58.238527983Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGc1RHSnNaVkI2TTI4NFFsSnFMVVpuUVdKRmJWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGc1RHSnNaVkI2TTI4NFFsSnFMVVpuUVdKRmJWRRAB!2m1!1s0x3442abba8b743137:0x784d9e5b2f0776b3"
+    },
+    {
+      "name": "places/ChIJNzF0i7qrQjQRs3YHL1ueTXg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmNWVXVVVREAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "目前在景美附近最喜歡的早餐店，老闆親切，但因為很熱門等待時間大約都要 15-20 分鐘，建議趕時間一定要先打電話喔！\n\n📍個人必點\n- 宮保雞丁義大利麵好吃但會辣，加半熟蛋 100 分真的好好吃🤤\n- 蔬菜蛋餅味道偏淡但蔬菜量很多很讚，或是點捲餅蔬菜也很多\n-薯餅加胡椒酥脆好吃😋 沒有太多油耗味\n-法式吐司好吃😋 而且才 45 元價格超平價\n-巧克力厚片：\n\n✌️其他試過覺得還好的\n- 小肉豆：提供這個品項的早餐店不多可試試看，但我不會特別愛\n- 起司條：味道偏鹹偏重，大概吃一條就差不多了",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "目前在景美附近最喜歡的早餐店，老闆親切，但因為很熱門等待時間大約都要 15-20 分鐘，建議趕時間一定要先打電話喔！\n\n📍個人必點\n- 宮保雞丁義大利麵好吃但會辣，加半熟蛋 100 分真的好好吃🤤\n- 蔬菜蛋餅味道偏淡但蔬菜量很多很讚，或是點捲餅蔬菜也很多\n-薯餅加胡椒酥脆好吃😋 沒有太多油耗味\n-法式吐司好吃😋 而且才 45 元價格超平價\n-巧克力厚片：\n\n✌️其他試過覺得還好的\n- 小肉豆：提供這個品項的早餐店不多可試試看，但我不會特別愛\n- 起司條：味道偏鹹偏重，大概吃一條就差不多了",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Su Sunny",
+        "uri": "https://www.google.com/maps/contrib/111829493091767471297/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI5QoLsaMDlHiZ0_EfUpJKVrbSZ6DwB_gTL11INEDneS9Nliqf-=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-01-01T08:24:04.960650Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmNWVXVVVREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmNWVXVVVREAE!2m1!1s0x3442abba8b743137:0x784d9e5b2f0776b3"
+    },
+    {
+      "name": "places/ChIJNzF0i7qrQjQRs3YHL1ueTXg/reviews/ChdDSUhNMG9nS0VJQ0FnSURqdTdXbXV3RRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "醬燒雞腿漢堡加蛋（+10元）, 中杯鮮奶茶的量就蠻多的了，漢堡麵包烤的很酥，雞腿排非常入味（吃到最後有點偏鹹）, 現點現做等了大概10幾分鐘。若要內用大概要八點半前，不然直接大排長龍。最近天氣炎熱但還沒開冷氣，進店會有點悶熱，但坐一陣子就覺得還好。東西好吃，會再回訪試試看其他東西～\n\n六月回訪～\n店裡已經有開冷氣了，但不是超級涼的那種，且內用完身上會有油煙味。鮪魚蛋餅味道不錯且裡面有加玉米，但份量偏小，煎餃一份8顆，是我喜歡的口感，外表脆硬有嚼勁，可惜內餡不是很夠。早上八點半到已經座無虛席且電話響不停，要來吃要趁早阿～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "醬燒雞腿漢堡加蛋（+10元）, 中杯鮮奶茶的量就蠻多的了，漢堡麵包烤的很酥，雞腿排非常入味（吃到最後有點偏鹹）, 現點現做等了大概10幾分鐘。若要內用大概要八點半前，不然直接大排長龍。最近天氣炎熱但還沒開冷氣，進店會有點悶熱，但坐一陣子就覺得還好。東西好吃，會再回訪試試看其他東西～\n\n六月回訪～\n店裡已經有開冷氣了，但不是超級涼的那種，且內用完身上會有油煙味。鮪魚蛋餅味道不錯且裡面有加玉米，但份量偏小，煎餃一份8顆，是我喜歡的口感，外表脆硬有嚼勁，可惜內餡不是很夠。早上八點半到已經座無虛席且電話響不停，要來吃要趁早阿～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Vivian Hsieh",
+        "uri": "https://www.google.com/maps/contrib/108447457665815838666/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXN7CI-nXQWQDJYQzci1Z4F1bpZyedSXgVuTWVO8hXcnUYW1Ww=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2024-06-17T01:19:23.550096Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURqdTdXbXV3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURqdTdXbXV3RRAB!2m1!1s0x3442abba8b743137:0x784d9e5b2f0776b3"
+    }
+  ]
+}

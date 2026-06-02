@@ -1,0 +1,131 @@
+{
+  "id": "ChIJC7nwSYyuQjQRdsj3BMA_x1o",
+  "types": [
+    "japanese_restaurant",
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2822 7181",
+  "formattedAddress": "112台灣臺北市北投區裕民里裕民六路114巷25號",
+  "location": {
+    "latitude": 25.114461,
+    "longitude": 121.51839499999998
+  },
+  "rating": 4.4,
+  "websiteUri": "https://facebook.com/pages/category/Japanese-Restaurant/%E5%AD%9D-%E6%97%A5%E6%9C%AC%E6%96%99%E7%90%86-312686748752482",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 403,
+  "displayName": {
+    "text": "孝居酒屋🏮",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJC7nwSYyuQjQRdsj3BMA_x1o/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twbU5rSXlOVTlvVFZJeldraHRTbHBwYUdWbFMyYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "很溫馨的用餐環境，謝謝廚師特別幫一歲寶寶改良清淡少鹽版的日式炒烏龍，寶寶吃得很開心。服務人員也都很貼心👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很溫馨的用餐環境，謝謝廚師特別幫一歲寶寶改良清淡少鹽版的日式炒烏龍，寶寶吃得很開心。服務人員也都很貼心👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "liuanting",
+        "uri": "https://www.google.com/maps/contrib/106366643498670709397/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXcy6mCYb6eQOw373e1_iEAE6lqfjuv8TWmKrLFesULr0NKpNtW7A=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-10-11T05:05:39.038631840Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twbU5rSXlOVTlvVFZJeldraHRTbHBwYUdWbFMyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twbU5rSXlOVTlvVFZJeldraHRTbHBwYUdWbFMyYxAB!2m1!1s0x3442ae8c49f0b90b:0x5ac73fc004f7c876"
+    },
+    {
+      "name": "places/ChIJC7nwSYyuQjQRdsj3BMA_x1o/reviews/ChdDSUhNMG9nS0VJQ0FnSUNCeXNMZ3JBRRAB",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 4,
+      "text": {
+        "text": "一踏進去就有日劇「黑心居酒屋」的感覺！\n\n店裡環境乾淨，佈置小巧，在裡面用餐都有暖暖的感覺。菜單提供的品項其實不少，相比一般居酒屋，有更多的定食類品項，可以吃飽吃好。\n食物基本上都好吃沒有什麼大地雷，老闆與店員和老客人間的互動讓人覺得超級溫馨！目前個人最愛是味噌醬豬五花超下飯！\n\n如果有什麼生活煩惱，是個可以和朋友同事來這裡喝一杯吃個飯聊心事的好地方。好店家繼續支持！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一踏進去就有日劇「黑心居酒屋」的感覺！\n\n店裡環境乾淨，佈置小巧，在裡面用餐都有暖暖的感覺。菜單提供的品項其實不少，相比一般居酒屋，有更多的定食類品項，可以吃飽吃好。\n食物基本上都好吃沒有什麼大地雷，老闆與店員和老客人間的互動讓人覺得超級溫馨！目前個人最愛是味噌醬豬五花超下飯！\n\n如果有什麼生活煩惱，是個可以和朋友同事來這裡喝一杯吃個飯聊心事的好地方。好店家繼續支持！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Smin Lew",
+        "uri": "https://www.google.com/maps/contrib/109704479733969976815/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUC4k8ukVQ3v88SHtPw0XHN3GorPRzqLXOk9a78mbpRmYBLMmk5=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2022-12-22T04:17:13.707003Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNCeXNMZ3JBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNCeXNMZ3JBRRAB!2m1!1s0x3442ae8c49f0b90b:0x5ac73fc004f7c876"
+    },
+    {
+      "name": "places/ChIJC7nwSYyuQjQRdsj3BMA_x1o/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfNlB6SmdRRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "很小巧可愛的日本料理店\n烤物較少，炸物較多\n價格合理，飯糰很推薦",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很小巧可愛的日本料理店\n烤物較少，炸物較多\n價格合理，飯糰很推薦",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "趙方梅",
+        "uri": "https://www.google.com/maps/contrib/105188444824356850650/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW46i9rIhPrFIezTQQXPgz1xlyTd7S0QmQ7vI3ti8jxX-ZKVnDJCA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-01-12T12:04:32.090094Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfNlB6SmdRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfNlB6SmdRRRAB!2m1!1s0x3442ae8c49f0b90b:0x5ac73fc004f7c876"
+    },
+    {
+      "name": "places/ChIJC7nwSYyuQjQRdsj3BMA_x1o/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHd2VIaVRnEAE",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 5,
+      "text": {
+        "text": "溫馨的小居酒屋，店內乾淨寬敞還有小包廂以及吧台，適合聚餐也可以獨自用餐。重點是餐點好吃，價錢也在合理範圍。\n\n餐點有許多定食料理，也有日式的配菜以及主食。以定食來說，他的份量足夠，一人份用餐剛剛好。\n\n我喜歡他們的漢堡肉定食，漢堡肉吃起來酥脆，肉質不乾不柴。我覺得是一道男女都適合的定食餐點。如果喜歡簡單一點的餐點，他們也有丼飯可以選擇。\n\n這是一間在住家附近開了很久的日式料理店，地點並非熱鬧的用餐地段，可想而知為什麼他們可以屹立不搖的經營這麼久，而且用餐時段店內總是客滿，我想是因為他們用心經營自己的味道，並且訂出合理的價位，讓住在附近甚至從外地來的客人願意經常光顧支持，我便是其一。希望喜歡日式料理的朋友可以前往用餐。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "溫馨的小居酒屋，店內乾淨寬敞還有小包廂以及吧台，適合聚餐也可以獨自用餐。重點是餐點好吃，價錢也在合理範圍。\n\n餐點有許多定食料理，也有日式的配菜以及主食。以定食來說，他的份量足夠，一人份用餐剛剛好。\n\n我喜歡他們的漢堡肉定食，漢堡肉吃起來酥脆，肉質不乾不柴。我覺得是一道男女都適合的定食餐點。如果喜歡簡單一點的餐點，他們也有丼飯可以選擇。\n\n這是一間在住家附近開了很久的日式料理店，地點並非熱鬧的用餐地段，可想而知為什麼他們可以屹立不搖的經營這麼久，而且用餐時段店內總是客滿，我想是因為他們用心經營自己的味道，並且訂出合理的價位，讓住在附近甚至從外地來的客人願意經常光顧支持，我便是其一。希望喜歡日式料理的朋友可以前往用餐。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Huan-Yang Lin",
+        "uri": "https://www.google.com/maps/contrib/109036682655308931051/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWEoAcZg2zwqP6GVYwjmuKiJWbCbujJg1uqrdcQ0d_9pipXIRNurQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2023-04-08T04:44:22.054945Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNHd2VIaVRnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNHd2VIaVRnEAE!2m1!1s0x3442ae8c49f0b90b:0x5ac73fc004f7c876"
+    },
+    {
+      "name": "places/ChIJC7nwSYyuQjQRdsj3BMA_x1o/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4N3BIdklBEAE",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 3,
+      "text": {
+        "text": "推薦：炒烏龍麵，麵體很Q、胡麻龍鬚菜、菜很嫩\n\n服務人員對酒類解釋很仔細 👍\n\n其他菜色吃不習慣，揚出豆腐、日式厚切豬排（一咬下去，皮肉分離的口感，皮很脆、肉偏乾、醬料裡面有哇沙米）南蠻炸雞（肉偏乾、調料口味和之前吃的不一樣）\n\n最有印象覺得特別的：奶油蟹肉可麗餅，裡面奶油是有點液態的，第一次吃到的口感很特別",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "推薦：炒烏龍麵，麵體很Q、胡麻龍鬚菜、菜很嫩\n\n服務人員對酒類解釋很仔細 👍\n\n其他菜色吃不習慣，揚出豆腐、日式厚切豬排（一咬下去，皮肉分離的口感，皮很脆、肉偏乾、醬料裡面有哇沙米）南蠻炸雞（肉偏乾、調料口味和之前吃的不一樣）\n\n最有印象覺得特別的：奶油蟹肉可麗餅，裡面奶油是有點液態的，第一次吃到的口感很特別",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳小君",
+        "uri": "https://www.google.com/maps/contrib/101011096142145365509/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKnT1uqsZ9-5AtA0J0wq-YMm6Lll0FRqmmQ74orUVbkAhYImg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2023-05-18T04:02:16.630614Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN4N3BIdklBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN4N3BIdklBEAE!2m1!1s0x3442ae8c49f0b90b:0x5ac73fc004f7c876"
+    }
+  ]
+}

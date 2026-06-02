@@ -1,0 +1,133 @@
+{
+  "id": "ChIJPxryaGGvQjQRZU1P8AOad8A",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 987 519 578",
+  "formattedAddress": "11273台灣臺北市北投區立農里吉利街123巷9號1F",
+  "location": {
+    "latitude": 25.118991599999998,
+    "longitude": 121.50623879999999
+  },
+  "rating": 4.9,
+  "websiteUri": "https://lin.ee/YAElGWg",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 197,
+  "displayName": {
+    "text": "米の嶼 沖繩飯糰",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJPxryaGGvQjQRZU1P8AOad8A/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGTFdrOXFka2gyTjFKQmFUbEJhRTkwVWtVelNIYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "好奇這間店一陣子了 今天第一次走進去買\n點了看起來最飽的香煎無骨雞腿加起司片\n還蠻好吃的耶，吃完一顆有飽的感覺！\n而且整間店看起來很衛生\n烹調的方式也不會很油膩\n住附近會想要常常來吃喔！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "好奇這間店一陣子了 今天第一次走進去買\n點了看起來最飽的香煎無骨雞腿加起司片\n還蠻好吃的耶，吃完一顆有飽的感覺！\n而且整間店看起來很衛生\n烹調的方式也不會很油膩\n住附近會想要常常來吃喔！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "YuYu D (Dy)",
+        "uri": "https://www.google.com/maps/contrib/116297514861180972365/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXVk1y0CktKUbu1qydVcvcyZYP4_IfptgxejH3W9MlY90_ctfyf=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-23T06:01:07.561364245Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGTFdrOXFka2gyTjFKQmFUbEJhRTkwVWtVelNIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGTFdrOXFka2gyTjFKQmFUbEJhRTkwVWtVelNIYxAB!2m1!1s0x3442af6168f21a3f:0xc0779a03f04f4d65"
+    },
+    {
+      "name": "places/ChIJPxryaGGvQjQRZU1P8AOad8A/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oVGFUWnZYMHBCWTFCWFJtSlFPWEpCZG5sclFXYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "第一次。假日剛好在附近有活動就去嘗鮮一下，是剛營業的時間，飯糰都是現作的感覺所以稍微等了一下~~口味還算清爽~搭配的紅茶也清爽，店內氣氛尚未感受到~生意不錯蠻多客人是外帶的!!包裝有點可愛~感覺是家族經營的食堂(櫃台小姐跟廚房人員看起來)~如果不是假日忙碌時段應該氣氛會更好~",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次。假日剛好在附近有活動就去嘗鮮一下，是剛營業的時間，飯糰都是現作的感覺所以稍微等了一下~~口味還算清爽~搭配的紅茶也清爽，店內氣氛尚未感受到~生意不錯蠻多客人是外帶的!!包裝有點可愛~感覺是家族經營的食堂(櫃台小姐跟廚房人員看起來)~如果不是假日忙碌時段應該氣氛會更好~",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "艾小莫",
+        "uri": "https://www.google.com/maps/contrib/112290384438526140158/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVTttEHomywhrA4-LjBr67tpbDlq9JGe8PFnron5NfkLS3UZpfe-Q=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-09T06:12:02.597491537Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oVGFUWnZYMHBCWTFCWFJtSlFPWEpCZG5sclFXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oVGFUWnZYMHBCWTFCWFJtSlFPWEpCZG5sclFXYxAB!2m1!1s0x3442af6168f21a3f:0xc0779a03f04f4d65"
+    },
+    {
+      "name": "places/ChIJPxryaGGvQjQRZU1P8AOad8A/reviews/ChdDSUhNMG9nS0VJQ0FnSURfaXRLZXFnRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "剛搬到這附近，發現這間沖繩飯糰專賣店，讓我超開心！每次假日想來，卻總是太晚到，店家已打烊，這次終於吃到了，真的不虛此行👍\n\n店面不大，但乾淨小巧，整體氛圍很愜意，有 7-8 個吧台座位，坐下來剛剛好。我點了「香濃炙燒起司」，裡面包著午餐肉，再加上香氣濃郁的海苔，整體口感很扎實，每一口都飽滿濃郁，飽足感十足！配上一杯奶茶剛剛好，奶茶的甜度也調得很棒，不會太甜，喝起來很順口。\n\n另外，店家的包裝也很用心，飯糰包裝上用麻繩固定，不但防止打開，還可以掛著帶走，細節真的做得很棒。下次我會更早起來，為了再吃到這樣溫暖又滿足的早餐。推薦給喜歡沖繩飯糰的朋友，這間店真的值得一試～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "剛搬到這附近，發現這間沖繩飯糰專賣店，讓我超開心！每次假日想來，卻總是太晚到，店家已打烊，這次終於吃到了，真的不虛此行👍\n\n店面不大，但乾淨小巧，整體氛圍很愜意，有 7-8 個吧台座位，坐下來剛剛好。我點了「香濃炙燒起司」，裡面包著午餐肉，再加上香氣濃郁的海苔，整體口感很扎實，每一口都飽滿濃郁，飽足感十足！配上一杯奶茶剛剛好，奶茶的甜度也調得很棒，不會太甜，喝起來很順口。\n\n另外，店家的包裝也很用心，飯糰包裝上用麻繩固定，不但防止打開，還可以掛著帶走，細節真的做得很棒。下次我會更早起來，為了再吃到這樣溫暖又滿足的早餐。推薦給喜歡沖繩飯糰的朋友，這間店真的值得一試～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林佳瑩",
+        "uri": "https://www.google.com/maps/contrib/101601625832592933626/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWoToAJm2p0ltuSe3kUpSBI07_MOWUaDPr-3w8uKx3h1l7v0BgkPQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-01-23T06:59:13.435635Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfaXRLZXFnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfaXRLZXFnRRAB!2m1!1s0x3442af6168f21a3f:0xc0779a03f04f4d65"
+    },
+    {
+      "name": "places/ChIJPxryaGGvQjQRZU1P8AOad8A/reviews/ChZDSUhNMG9nS0VJQ0FnTURRbXN1RkZREAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "在唭哩岸站附近巷弄間開的一家飯糰店，店內用餐環境較小，點了咖喱可樂餅和香煎雞腿的口味，飯糰內包著紮實的午餐肉和滑順的蛋，吃起來份量滿足且美味，早餐若想吃飯糰這家蠻推薦的，值得來買👍👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在唭哩岸站附近巷弄間開的一家飯糰店，店內用餐環境較小，點了咖喱可樂餅和香煎雞腿的口味，飯糰內包著紮實的午餐肉和滑順的蛋，吃起來份量滿足且美味，早餐若想吃飯糰這家蠻推薦的，值得來買👍👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃俊傑",
+        "uri": "https://www.google.com/maps/contrib/100753915671096779842/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI6UfliteXMF41LGY0dbXe2iiPdY0N4e6yZl79mpPp2kAG0Km0=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-03-10T14:28:54.352040Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRbXN1RkZREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRbXN1RkZREAE!2m1!1s0x3442af6168f21a3f:0xc0779a03f04f4d65"
+    },
+    {
+      "name": "places/ChIJPxryaGGvQjQRZU1P8AOad8A/reviews/ChdDSUhNMG9nS0VJQ0FnTURRNWRxQXBnRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 3,
+      "text": {
+        "text": "厚切炸豬里肌90 醬很少，感覺在吃食物原味。蛋不錯，午餐肉也沒有太鹹。\n包裝很環保，繩子當提帶。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "厚切炸豬里肌90 醬很少，感覺在吃食物原味。蛋不錯，午餐肉也沒有太鹹。\n包裝很環保，繩子當提帶。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Angelis Kung",
+        "uri": "https://www.google.com/maps/contrib/116192664756917754604/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLt9lMHhuE1VVyuIrFrBV4a7b9nm8hqNYO_XFaurJ286fwQWw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-03-12T14:42:57.387900Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRNWRxQXBnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRNWRxQXBnRRAB!2m1!1s0x3442af6168f21a3f:0xc0779a03f04f4d65"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

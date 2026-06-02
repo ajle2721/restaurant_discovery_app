@@ -1,0 +1,131 @@
+{
+  "id": "ChIJB_iF5NOpQjQRmnf7YGKoj4I",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2383 2275",
+  "formattedAddress": "100台灣臺北市中正區光復里延平南路36-1號",
+  "location": {
+    "latitude": 25.046354299999997,
+    "longitude": 121.510707
+  },
+  "rating": 4.2,
+  "websiteUri": "https://www.facebook.com/fufupigpig",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1056,
+  "displayName": {
+    "text": "富士山の豬",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJB_iF5NOpQjQRmnf7YGKoj4I/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wYWFVMU5WMjVpVkRWeFVtZDFZM3BUV21oTWRIYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "今天11點到現場時店員告知蛋餅和飯類產品都賣完了，店家生意很好，入內登記候位約等15-20分前面2組人，點了蜂蜜雞肉套餐(沙拉+紅茶)附一杯牛奶和富士山的豬餐點，出餐速度還滿快的，麵包沙拉很好吃，只是雞肉有點柴偏硬。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天11點到現場時店員告知蛋餅和飯類產品都賣完了，店家生意很好，入內登記候位約等15-20分前面2組人，點了蜂蜜雞肉套餐(沙拉+紅茶)附一杯牛奶和富士山的豬餐點，出餐速度還滿快的，麵包沙拉很好吃，只是雞肉有點柴偏硬。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "evonne tzeng",
+        "uri": "https://www.google.com/maps/contrib/107525368649475426666/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLWCFVe7IosbvFWHkWs4Dgg4ErH88EQRoIxVOrrg_S4slBDYo7s=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-28T13:18:37.752698854Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wYWFVMU5WMjVpVkRWeFVtZDFZM3BUV21oTWRIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wYWFVMU5WMjVpVkRWeFVtZDFZM3BUV21oTWRIYxAB!2m1!1s0x3442a9d3e485f807:0x828fa86260fb779a"
+    },
+    {
+      "name": "places/ChIJB_iF5NOpQjQRmnf7YGKoj4I/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pFeVEyMUlURXB1Ym5KYVZHMUxVMWhLYmpsM2RXYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "#招牌手打豬早午餐\n手作麵包有淡淡蜂蜜香很好吃！\n漢堡排多汁但有點小塊\n其他都是簡單配料\n這個價格來說稍嫌單調\n\n#蜂蜜雞肉早午餐\n可能是醃漬手法沒有真的蜂蜜\n怪我對他有奇怪的期待🤣\n肉質不柴但也不到嫩\n\n店面不大平日就需要候位了\n裝潢蠻可愛～\n這次沒吃到最想吃的蛋餅…\n去就掛售完 可惡",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "#招牌手打豬早午餐\n手作麵包有淡淡蜂蜜香很好吃！\n漢堡排多汁但有點小塊\n其他都是簡單配料\n這個價格來說稍嫌單調\n\n#蜂蜜雞肉早午餐\n可能是醃漬手法沒有真的蜂蜜\n怪我對他有奇怪的期待🤣\n肉質不柴但也不到嫩\n\n店面不大平日就需要候位了\n裝潢蠻可愛～\n這次沒吃到最想吃的蛋餅…\n去就掛售完 可惡",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "A mu a mu",
+        "uri": "https://www.google.com/maps/contrib/107956212383685068171/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocId11o3PojpdrFQPhlEk9wSLcv599-MJgVj7PmLGwf_7qKq4mo=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-24T15:00:31.003048360Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pFeVEyMUlURXB1Ym5KYVZHMUxVMWhLYmpsM2RXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pFeVEyMUlURXB1Ym5KYVZHMUxVMWhLYmpsM2RXYxAB!2m1!1s0x3442a9d3e485f807:0x828fa86260fb779a"
+    },
+    {
+      "name": "places/ChIJB_iF5NOpQjQRmnf7YGKoj4I/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsdmIyMHlNSEpSVkdsa1VUWXhTMUZQY1dsdlNGRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "「比比登推薦」乾淨舒服的店，餐點也不錯好吃，麵包手打豬味道都很好。比比點了一套早午餐，小鼠們點三明治都是招牌手打豬系列的。比較怪的是我的套餐給了一支叉子和小小的鏟子，不是很好使，鏟子又叉不進奶油盒，半熟蛋光用叉子又很難食用，這個餐具部份應該還要再改進一下。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "「比比登推薦」乾淨舒服的店，餐點也不錯好吃，麵包手打豬味道都很好。比比點了一套早午餐，小鼠們點三明治都是招牌手打豬系列的。比較怪的是我的套餐給了一支叉子和小小的鏟子，不是很好使，鏟子又叉不進奶油盒，半熟蛋光用叉子又很難食用，這個餐具部份應該還要再改進一下。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "鼠比比",
+        "uri": "https://www.google.com/maps/contrib/103023870386877207742/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWlrAk0oNhBiLErC7u1OTkzVhzaHvvaLWY5s9utWvhnlwBl0wc=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-12-28T01:27:57.232912938Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsdmIyMHlNSEpSVkdsa1VUWXhTMUZQY1dsdlNGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsdmIyMHlNSEpSVkdsa1VUWXhTMUZQY1dsdlNGRRAB!2m1!1s0x3442a9d3e485f807:0x828fa86260fb779a"
+    },
+    {
+      "name": "places/ChIJB_iF5NOpQjQRmnf7YGKoj4I/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paQmRsZHBaREI0TVVkYU9EbGxkRkpHU1U1d1pXYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "生意很好的早午餐\n漢堡肉不錯\n蛋餅皮不是我喜歡的脆皮小可惜\n鮮奶茶可以點有推～\n只收現金",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "生意很好的早午餐\n漢堡肉不錯\n蛋餅皮不是我喜歡的脆皮小可惜\n鮮奶茶可以點有推～\n只收現金",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Eric Jhang",
+        "uri": "https://www.google.com/maps/contrib/115150867746431341925/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocILuwm1gKJPSnere32ZQF4qOtQcr_rTRLfK4LQYG-dgl9OggQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-03-06T10:05:59.099519807Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paQmRsZHBaREI0TVVkYU9EbGxkRkpHU1U1d1pXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paQmRsZHBaREI0TVVkYU9EbGxkRkpHU1U1d1pXYxAB!2m1!1s0x3442a9d3e485f807:0x828fa86260fb779a"
+    },
+    {
+      "name": "places/ChIJB_iF5NOpQjQRmnf7YGKoj4I/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwQ1drSk9iVEYyWkZsVU9EVlBZVmRaWlVjMFlWRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 4,
+      "text": {
+        "text": "初訪享用肉芋蛋餅加上套餐炸薯條和冰美式咖啡\n肉鬆芋頭的餡料很足，薯條剛炸好外酥內軟好吃\n咖啡相對普通\n店面乾淨溫馨舒服，有機會會再訪",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "初訪享用肉芋蛋餅加上套餐炸薯條和冰美式咖啡\n肉鬆芋頭的餡料很足，薯條剛炸好外酥內軟好吃\n咖啡相對普通\n店面乾淨溫馨舒服，有機會會再訪",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Michael Hsu (Michael Hsu)",
+        "uri": "https://www.google.com/maps/contrib/116612266093648633821/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLUHszae7sD5pq9_wehyToBBNv3NpukbPLQ0vfa_QxjqydzQhY=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-03-02T05:27:22.432469021Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwQ1drSk9iVEYyWkZsVU9EVlBZVmRaWlVjMFlWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwQ1drSk9iVEYyWkZsVU9EVlBZVmRaWlVjMFlWRRAB!2m1!1s0x3442a9d3e485f807:0x828fa86260fb779a"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "id": "ChIJ4zZbxq-pQjQRPJZHyQZzTIo",
+  "types": [
+    "coffee_shop",
+    "pizza_restaurant",
+    "cafe",
+    "food_store",
+    "bar",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2331 4458",
+  "formattedAddress": "111台灣臺北市士林區仁勇里小東街34號",
+  "location": {
+    "latitude": 25.089369599999998,
+    "longitude": 121.5263188
+  },
+  "rating": 4.6,
+  "websiteUri": "https://www.instagram.com/bro.coffee.pizza/",
+  "userRatingCount": 237,
+  "displayName": {
+    "text": "BRO Coffee & Pizza Bar - 寵物友善",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ4zZbxq-pQjQRPJZHyQZzTIo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsWWRsY3djVkJ1Wm5CcWFHbE9aREo0U1dWTkxVRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "這裡的披薩真的好吃～\n店內環境很舒服、很放鬆\n老闆推薦的烏龍嗨也很讚！\n\n最加分的是 寵物友善\n毛孩可以落地～還有寵物餐可以吃\n帶狗來完全沒有壓力\n是會想再回訪的一間店🍕",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這裡的披薩真的好吃～\n店內環境很舒服、很放鬆\n老闆推薦的烏龍嗨也很讚！\n\n最加分的是 寵物友善\n毛孩可以落地～還有寵物餐可以吃\n帶狗來完全沒有壓力\n是會想再回訪的一間店🍕",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃萱萱",
+        "uri": "https://www.google.com/maps/contrib/109432079280442048117/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIN_-rCCj7gxwNESEVTZKSlWjNZDpdHdXyb7sZbJ179vpV-jQ=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-26T05:42:49.438621036Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsWWRsY3djVkJ1Wm5CcWFHbE9aREo0U1dWTkxVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsWWRsY3djVkJ1Wm5CcWFHbE9aREo0U1dWTkxVRRAB!2m1!1s0x3442a9afc65b36e3:0x8a4c7306c947963c"
+    },
+    {
+      "name": "places/ChIJ4zZbxq-pQjQRPJZHyQZzTIo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKTloyUnFXRE5IYVhaWVZWbzJORWxUWDB0TldVRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "餐點都小小一份的，味道還可以⋯\n但重點是，毛孩可落地，可上沙發，對毛孩很友善，然後服務很好，很客氣⋯\n環境（有沙發）和服務態度會讓我會選擇再訪！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點都小小一份的，味道還可以⋯\n但重點是，毛孩可落地，可上沙發，對毛孩很友善，然後服務很好，很客氣⋯\n環境（有沙發）和服務態度會讓我會選擇再訪！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Erh Yun",
+        "uri": "https://www.google.com/maps/contrib/107241988566830038199/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV9uEq2qKYYSybnCJA0h7jk1-cCKi8ztumQxvpodB1eZjMutsE2=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-09-03T19:16:35.970522894Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKTloyUnFXRE5IYVhaWVZWbzJORWxUWDB0TldVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKTloyUnFXRE5IYVhaWVZWbzJORWxUWDB0TldVRRAB!2m1!1s0x3442a9afc65b36e3:0x8a4c7306c947963c"
+    },
+    {
+      "name": "places/ChIJ4zZbxq-pQjQRPJZHyQZzTIo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGdWNtVjZSblJtT1RkbWRFd3hhV2RvTWtwelExRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "環境舒適乾淨 店員也客氣禮貌\n狗狗可以上座位🥰🥰\n餐點普通 但這個環境已經加100分❤️\n\n當天友人不小心用破杯子\n謝謝店員的幫忙處理 完全沒有任何責怪\n真的很不好意思🥹 謝謝這麼友善的店家",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境舒適乾淨 店員也客氣禮貌\n狗狗可以上座位🥰🥰\n餐點普通 但這個環境已經加100分❤️\n\n當天友人不小心用破杯子\n謝謝店員的幫忙處理 完全沒有任何責怪\n真的很不好意思🥹 謝謝這麼友善的店家",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳安娜",
+        "uri": "https://www.google.com/maps/contrib/116298028534621405494/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXAAkE7sdxXKoZZDAEdcuo_Pf6JA9OqUrF7Ih4ToD-FXqwfKOHtww=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-08-21T13:18:04.381273070Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGdWNtVjZSblJtT1RkbWRFd3hhV2RvTWtwelExRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGdWNtVjZSblJtT1RkbWRFd3hhV2RvTWtwelExRRAB!2m1!1s0x3442a9afc65b36e3:0x8a4c7306c947963c"
+    },
+    {
+      "name": "places/ChIJ4zZbxq-pQjQRPJZHyQZzTIo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxdVozUlBVVUZ1VEVOQ1VFcFBNMjQ0UzBzME0xRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "寵物有善！毛小孩可以落地，上沙發椅！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "寵物有善！毛小孩可以落地，上沙發椅！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yoli Chu",
+        "uri": "https://www.google.com/maps/contrib/110434515228530225625/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKSztbeInDfmVnIY0VrlO06i2GbjTr8vBSmRiqXwFBLUTIKcg=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-27T09:56:52.664456237Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxdVozUlBVVUZ1VEVOQ1VFcFBNMjQ0UzBzME0xRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxdVozUlBVVUZ1VEVOQ1VFcFBNMjQ0UzBzME0xRRAB!2m1!1s0x3442a9afc65b36e3:0x8a4c7306c947963c"
+    },
+    {
+      "name": "places/ChIJ4zZbxq-pQjQRPJZHyQZzTIo/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsLXVmTlNREAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "餐點都非常好吃，披薩是薄皮的那種，超愛～另外很推珍奶，本身不甜有奶、茶香且珍珠QQ的非常好吃（不會很甜那種）～雞翅也好吃。\n\n能感受老闆和團隊非常用心在經營，環境非常舒適，空間寬敞又設計嘅，有兩層樓座位區，店面掛了好幾幅超Q的狗狗照片～超療癒！\n這家是寵物友善讚讚👍🏻👍🏻大推",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點都非常好吃，披薩是薄皮的那種，超愛～另外很推珍奶，本身不甜有奶、茶香且珍珠QQ的非常好吃（不會很甜那種）～雞翅也好吃。\n\n能感受老闆和團隊非常用心在經營，環境非常舒適，空間寬敞又設計嘅，有兩層樓座位區，店面掛了好幾幅超Q的狗狗照片～超療癒！\n這家是寵物友善讚讚👍🏻👍🏻大推",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "蔡芮郁 / 芮芮去哪裡",
+        "uri": "https://www.google.com/maps/contrib/106422463849055579580/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU1nh-IY8XPqEVxLBk8AHy-TPk165moHZktz4KNOHnN-07wcKTFtw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2023-11-17T00:37:38.422904Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNsLXVmTlNREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNsLXVmTlNREAE!2m1!1s0x3442a9afc65b36e3:0x8a4c7306c947963c"
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "id": "ChIJBWgZEb2pQjQRU2_7VpjKlIo",
+  "types": [
+    "cafe",
+    "gift_shop",
+    "chocolate_shop",
+    "candy_store",
+    "dessert_shop",
+    "confectionery",
+    "food_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2552 8386",
+  "formattedAddress": "103台灣台北市大同区大有里迪化街一段248號2樓",
+  "location": {
+    "latitude": 25.060102200000003,
+    "longitude": 121.509312
+  },
+  "rating": 4.5,
+  "websiteUri": "http://cofe.cyberbiz.co/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 583,
+  "displayName": {
+    "text": "COFE 喫茶 · 咖啡",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJBWgZEb2pQjQRU2_7VpjKlIo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWR1RUVm5aelZmYUV0V2NHZDJkV2s0YjJFNFgxRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "強烈建議訂位，位置雖然多但是人更多，尤其是大稻埕這邊的遊客很多。茶巧克力都很有特色，而且茶味很濃郁明顯，每種茶的特徵都可以吃到。吐司也超好吃很軟，尤其是肉桂的味道很香。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "強烈建議訂位，位置雖然多但是人更多，尤其是大稻埕這邊的遊客很多。茶巧克力都很有特色，而且茶味很濃郁明顯，每種茶的特徵都可以吃到。吐司也超好吃很軟，尤其是肉桂的味道很香。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Amy",
+        "uri": "https://www.google.com/maps/contrib/107416104391959265608/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUzHpGY876_4Z8DwqWLycuUSm3batFgjksORlaSozbjIkDSPJoj=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-04T09:49:00.688857914Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWR1RUVm5aelZmYUV0V2NHZDJkV2s0YjJFNFgxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWR1RUVm5aelZmYUV0V2NHZDJkV2s0YjJFNFgxRRAB!2m1!1s0x3442a9bd11196805:0x8a94ca9856fb6f53"
+    },
+    {
+      "name": "places/ChIJBWgZEb2pQjQRU2_7VpjKlIo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paMllrbEhjVkZ1UkRac1pqaG9NWEpOUkhGdVVVRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "週末午後人多，但有些許空位。\n咖啡放冰塊喝跟直接單喝有不同風味，建議含些咖啡在口中吸氣細品，能有更豐富風味。有股南棗核桃糕的風味，非常有特色。\n茶口味巧克力別緻，台灣茶組合的茶味很重。通常茶巧克力是巧克力主味附帶茶味，但這裡的茶口味\n巧克力則是茶成爲主味，巧克力只是配角。相當驚人，每個茶口味的區別很明確。\n適合帶本小書慢慢品慢慢看。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "週末午後人多，但有些許空位。\n咖啡放冰塊喝跟直接單喝有不同風味，建議含些咖啡在口中吸氣細品，能有更豐富風味。有股南棗核桃糕的風味，非常有特色。\n茶口味巧克力別緻，台灣茶組合的茶味很重。通常茶巧克力是巧克力主味附帶茶味，但這裡的茶口味\n巧克力則是茶成爲主味，巧克力只是配角。相當驚人，每個茶口味的區別很明確。\n適合帶本小書慢慢品慢慢看。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "江晉諺",
+        "uri": "https://www.google.com/maps/contrib/103373691366292264742/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJaJ0ef4sWZWhtq-bJgAItMeKvpCwnVnlspLh29tlsQfoCLAA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-31T08:40:22.458571681Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paMllrbEhjVkZ1UkRac1pqaG9NWEpOUkhGdVVVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paMllrbEhjVkZ1UkRac1pqaG9NWEpOUkhGdVVVRRAB!2m1!1s0x3442a9bd11196805:0x8a94ca9856fb6f53"
+    },
+    {
+      "name": "places/ChIJBWgZEb2pQjQRU2_7VpjKlIo/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aVmVHUXpWVE4yYzBkSWJGQkdabVV0V2tsUVJFRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "街頭真的太熱了，所以找所咖啡店涼快一下吧，\n首間到訪的咖啡店位於迪化街，\n根據網絡記載，這條街道在過往主要是都雜貨，茶葉，藥材等零售商店為主，大約於30年前開始進行活化，令稍為沒落的舊區再度復甦起來。\n🍑\n而是日首間到訪的餐廳，正正就是座落於活化後的店子中，一樓是販賣精品的店子，二樓才是餐廳的部份，沿著樓梯慢慢地拾級而上，有點像走進時光隧道般穿越時空，懷舊味道濃烈的裝潢啊！\n🍑\n先喝杯Pour Over Coffee 歇息一下吧，\n來到台灣，當然要喝這邊出產的咖啡豆啊，\n選了來自阿里山的咖啡豆\nOriginal: Alishan\nProcess: Natural\nRoasting Level: Light\n☕️咖啡清清爽爽的，果酸非常出眾，絕對適合極酷熱的天氣下品嚐啊！\n🍑\n從YouTube 的影片中得悉，這裡的巧克力是採用了台灣茶加可可脂，以低溫及長時間萃取當中風味，再加上其他成份來提升及穩定味道，是吃得到的台灣茶啊！😀\n在店子裡，可獨立地點選巧克力嚐嚐看，於是選了以下兩款：\n🍫高山烏龍 - 來自阿里山的金萱烏龍茶葉加上可可脂做成的巧克力，建議品嚐時放在嘴裡令她慢慢溶化，首先嚐到的是巧克力的滑溜，當巧克力慢慢在口腔中融化時，茶味開始釋出，甜度是可接受的範圍內，茶味的餘韻比巧克力的稍為突顯，是小的較偏愛的方向。\n🍫碧螺春紫蘇梅 - 原材料都是出產於台灣的，三峽碧螺春 + 苗栗紫蘇 x 嘉義中埔梅子製作而成的產品，入口先是紫蘇梅等淡淡芬芳，之後茶味慢慢滲出，很優雅的巧克力呢☺️\n🍑\n本來想品嚐巧克力後，買點伴手禮便離開，但看著室外很猛烈的陽光，心忖還是先躲在室內暫避吧，而既然這裡除了咖啡之外，茶也是不可或缺，就嚐嚐茶類吧😊\n☕️咖啡果乾葉茶\n介紹文中說是採用了帶有龍眼乾甜及烏梅酸的咖啡果皮，加上紅茶調製而成的茶飲，入口溫柔順滑的，不會太濃，非常適合仲夏慢嚐🙂\n🍑\n在喝茶的時候又想吃點甜的😆來都來了，就吃吧🤭\n🍮巧克力布丁\n眷見成份有黑巧克力的所以點了她，布丁體非常軟滑，入口時很自然地滑下去了，巧克力的味道也很足夠，就是甜度稍高了，幸好配合無糖的純茶可調節那份膩口呢。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "街頭真的太熱了，所以找所咖啡店涼快一下吧，\n首間到訪的咖啡店位於迪化街，\n根據網絡記載，這條街道在過往主要是都雜貨，茶葉，藥材等零售商店為主，大約於30年前開始進行活化，令稍為沒落的舊區再度復甦起來。\n🍑\n而是日首間到訪的餐廳，正正就是座落於活化後的店子中，一樓是販賣精品的店子，二樓才是餐廳的部份，沿著樓梯慢慢地拾級而上，有點像走進時光隧道般穿越時空，懷舊味道濃烈的裝潢啊！\n🍑\n先喝杯Pour Over Coffee 歇息一下吧，\n來到台灣，當然要喝這邊出產的咖啡豆啊，\n選了來自阿里山的咖啡豆\nOriginal: Alishan\nProcess: Natural\nRoasting Level: Light\n☕️咖啡清清爽爽的，果酸非常出眾，絕對適合極酷熱的天氣下品嚐啊！\n🍑\n從YouTube 的影片中得悉，這裡的巧克力是採用了台灣茶加可可脂，以低溫及長時間萃取當中風味，再加上其他成份來提升及穩定味道，是吃得到的台灣茶啊！😀\n在店子裡，可獨立地點選巧克力嚐嚐看，於是選了以下兩款：\n🍫高山烏龍 - 來自阿里山的金萱烏龍茶葉加上可可脂做成的巧克力，建議品嚐時放在嘴裡令她慢慢溶化，首先嚐到的是巧克力的滑溜，當巧克力慢慢在口腔中融化時，茶味開始釋出，甜度是可接受的範圍內，茶味的餘韻比巧克力的稍為突顯，是小的較偏愛的方向。\n🍫碧螺春紫蘇梅 - 原材料都是出產於台灣的，三峽碧螺春 + 苗栗紫蘇 x 嘉義中埔梅子製作而成的產品，入口先是紫蘇梅等淡淡芬芳，之後茶味慢慢滲出，很優雅的巧克力呢☺️\n🍑\n本來想品嚐巧克力後，買點伴手禮便離開，但看著室外很猛烈的陽光，心忖還是先躲在室內暫避吧，而既然這裡除了咖啡之外，茶也是不可或缺，就嚐嚐茶類吧😊\n☕️咖啡果乾葉茶\n介紹文中說是採用了帶有龍眼乾甜及烏梅酸的咖啡果皮，加上紅茶調製而成的茶飲，入口溫柔順滑的，不會太濃，非常適合仲夏慢嚐🙂\n🍑\n在喝茶的時候又想吃點甜的😆來都來了，就吃吧🤭\n🍮巧克力布丁\n眷見成份有黑巧克力的所以點了她，布丁體非常軟滑，入口時很自然地滑下去了，巧克力的味道也很足夠，就是甜度稍高了，幸好配合無糖的純茶可調節那份膩口呢。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "春桃",
+        "uri": "https://www.google.com/maps/contrib/114968733698121751257/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVQqlBaCAkXQdMPdz5KQB52XE1kkELI67psYXpyzQvFvxlvpYyq=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-08-29T06:48:10.829426007Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aVmVHUXpWVE4yYzBkSWJGQkdabVV0V2tsUVJFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aVmVHUXpWVE4yYzBkSWJGQkdabVV0V2tsUVJFRRAB!2m1!1s0x3442a9bd11196805:0x8a94ca9856fb6f53"
+    },
+    {
+      "name": "places/ChIJBWgZEb2pQjQRU2_7VpjKlIo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xodk0wdDNOV1ZwWlMxR1NYTTNNbEZ6YUc5a2JGRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 2,
+      "text": {
+        "text": "平日週二12點多，人不多有位置\n茶品飲料選擇少，吐司好吃，粕布籽沾醬很香，但沒有兩年前搭配火腿和沙拉的組合，有點無趣～一顆蛋+一片厚片佐沾醬+小杯美式咖啡=250元….不太值得\n\n但服務人員親切禮貌周到",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "平日週二12點多，人不多有位置\n茶品飲料選擇少，吐司好吃，粕布籽沾醬很香，但沒有兩年前搭配火腿和沙拉的組合，有點無趣～一顆蛋+一片厚片佐沾醬+小杯美式咖啡=250元….不太值得\n\n但服務人員親切禮貌周到",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "歐麥高",
+        "uri": "https://www.google.com/maps/contrib/117957869885961820509/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXEg2Xme8cutAelN8P2zxt65kmiSvN7lEvmnB0QjlWQcm8vbqV9_Q=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-24T12:28:46.750044189Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xodk0wdDNOV1ZwWlMxR1NYTTNNbEZ6YUc5a2JGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xodk0wdDNOV1ZwWlMxR1NYTTNNbEZ6YUc5a2JGRRAB!2m1!1s0x3442a9bd11196805:0x8a94ca9856fb6f53"
+    },
+    {
+      "name": "places/ChIJBWgZEb2pQjQRU2_7VpjKlIo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oVGJHOUpXRGRyT0UwNWJrSnhXamhhVVZOek5tYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "茶巧克力很特別\n東方美人茶溫潤順口\n肉桂糖土司套餐也很特別\n有鴨蛋跟破布子醬\n鹹鹹甜甜的滋味",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "茶巧克力很特別\n東方美人茶溫潤順口\n肉桂糖土司套餐也很特別\n有鴨蛋跟破布子醬\n鹹鹹甜甜的滋味",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "christine771225",
+        "uri": "https://www.google.com/maps/contrib/101468887430974630231/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLma2hy_8uwJWY0yCYyjbb9yfZs8xUhYbmNHO_HkOyAKIuuVQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-04T05:20:03.405000271Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oVGJHOUpXRGRyT0UwNWJrSnhXamhhVVZOek5tYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oVGJHOUpXRGRyT0UwNWJrSnhXamhhVVZOek5tYxAB!2m1!1s0x3442a9bd11196805:0x8a94ca9856fb6f53"
+    }
+  ]
+}

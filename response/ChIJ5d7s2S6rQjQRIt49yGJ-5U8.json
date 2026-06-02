@@ -1,0 +1,133 @@
+{
+  "id": "ChIJ5d7s2S6rQjQRIt49yGJ-5U8",
+  "types": [
+    "brunch_restaurant",
+    "breakfast_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2727 2158",
+  "formattedAddress": "110台灣臺北市信義區松光里松山路515巷2弄2號",
+  "location": {
+    "latitude": 25.038491999999998,
+    "longitude": 121.578436
+  },
+  "rating": 4.8,
+  "websiteUri": "https://www.facebook.com/%E4%BA%AB%E5%8D%8A%E5%A4%A9%E6%97%A9%E9%A3%9F%E6%97%A9%E8%8C%B6-108816118389569/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 999,
+  "displayName": {
+    "text": "享半天早食&早茶",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ5d7s2S6rQjQRIt49yGJ-5U8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGUFlsVk9kRkZxYWxkNVRtbHlZME5GUTIwMUxVRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "食物中規中矩，像漢堡雖然味道不錯，但肉排煎非常焦黑，感覺有礙健康。蛋餅很特別，皮很脆，像餅乾一樣，但整個餅感不是我愛的類型，不過鮪魚餡調得很不錯。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "食物中規中矩，像漢堡雖然味道不錯，但肉排煎非常焦黑，感覺有礙健康。蛋餅很特別，皮很脆，像餅乾一樣，但整個餅感不是我愛的類型，不過鮪魚餡調得很不錯。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "mu mu",
+        "uri": "https://www.google.com/maps/contrib/115675681630425395358/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVsS5iQfpLz5lSxUlc6zSXK7IYjemCdKDYC-EcFYkqtX6Qt54gmow=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-03-05T13:16:02.370879252Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGUFlsVk9kRkZxYWxkNVRtbHlZME5GUTIwMUxVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGUFlsVk9kRkZxYWxkNVRtbHlZME5GUTIwMUxVRRAB!2m1!1s0x3442ab2ed9ecdee5:0x4fe57e62c83dde22"
+    },
+    {
+      "name": "places/ChIJ5d7s2S6rQjQRIt49yGJ-5U8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4alNHMWZhbWhSV0hGaExUQnhTR1pHU0VSaFdFRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "點了漢堡排捲餅，口感不錯，價格 $100。店內環境乾淨整潔。可惜二大壺紅茶放在外面且未加蓋子，衛生狀況仍有待評估。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點了漢堡排捲餅，口感不錯，價格 $100。店內環境乾淨整潔。可惜二大壺紅茶放在外面且未加蓋子，衛生狀況仍有待評估。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Happy",
+        "uri": "https://www.google.com/maps/contrib/111008916405808631861/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWK1W6Ho4OweJ2MEQbhVLSrjWlTkskbIR9rKNK_Yt6HhW-q_ciU8Q=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-02-13T00:16:36.054679494Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4alNHMWZhbWhSV0hGaExUQnhTR1pHU0VSaFdFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4alNHMWZhbWhSV0hGaExUQnhTR1pHU0VSaFdFRRAB!2m1!1s0x3442ab2ed9ecdee5:0x4fe57e62c83dde22"
+    },
+    {
+      "name": "places/ChIJ5d7s2S6rQjQRIt49yGJ-5U8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkR1ptSTBlVWgxYXpVM1lYZG1PRll0TmpSM1owRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "1.選擇很多樣的傳統早餐店\n\n蛋餅很好吃，外皮酥脆，內料豐富\n有些泰式的可以嘗試看看，酸辣口感層次蠻豐富的\n\n整體來說還不錯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "1.選擇很多樣的傳統早餐店\n\n蛋餅很好吃，外皮酥脆，內料豐富\n有些泰式的可以嘗試看看，酸辣口感層次蠻豐富的\n\n整體來說還不錯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "李育丞",
+        "uri": "https://www.google.com/maps/contrib/111589912709477659119/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZ7PhfLj3_iK-uACNvirxWQJBYT7mZ8UY-YKr6Ki2Eu_i6BWnbRw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-21T08:37:09.474211561Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkR1ptSTBlVWgxYXpVM1lYZG1PRll0TmpSM1owRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkR1ptSTBlVWgxYXpVM1lYZG1PRll0TmpSM1owRRAB!2m1!1s0x3442ab2ed9ecdee5:0x4fe57e62c83dde22"
+    },
+    {
+      "name": "places/ChIJ5d7s2S6rQjQRIt49yGJ-5U8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sMVowUmtTa2g0VUdOdlQyNXdaR1UyWjNvd1VYYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "永春捷運站走路可達也可以從捷運站租Ubike停至林口公園的停車點走過去很近！\n用餐環境乾淨舒適\n餐點好吃 飲料還可以調甜度！\n老闆和員工們都很親切🌟",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "永春捷運站走路可達也可以從捷運站租Ubike停至林口公園的停車點走過去很近！\n用餐環境乾淨舒適\n餐點好吃 飲料還可以調甜度！\n老闆和員工們都很親切🌟",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "K K",
+        "uri": "https://www.google.com/maps/contrib/113525140668818205650/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWgTXbWMxj2t9ZaOJ_WnrE7leFm6eWSmIQH-K4An8kcjTHn-FAP=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-06T02:17:52.992150522Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sMVowUmtTa2g0VUdOdlQyNXdaR1UyWjNvd1VYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sMVowUmtTa2g0VUdOdlQyNXdaR1UyWjNvd1VYYxAB!2m1!1s0x3442ab2ed9ecdee5:0x4fe57e62c83dde22"
+    },
+    {
+      "name": "places/ChIJ5d7s2S6rQjQRIt49yGJ-5U8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25jNFRUZGxXSGhGVjE5WE5rVktUM3BhUzBWdlUwRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第一次到訪，覺得店內的座位配置還算不錯，吧台在中間，然後周圍大部分都是二人座，用餐前老闆會先幫客人消毒這點很好，服務態度親切。菜單蠻有特色的，不少樣式是其他家早午餐店沒有，所以我就點一個炸蝦明太子墨西哥捲，+40元就能有薯條和飲料，我蠻推薦加價10元升級成奶茶類的，甜度推薦半糖很剛好，薯條我認為就很一般的水準，墨西哥捲倒是不錯，蝦子能明顯吃得出有份量，醬也不會太甜，對我來說剛好，人蠻多的，感覺生意很旺，口碑店家，我下次還會來試試新出的冷麵。\n\n===\n再訪點了炸魚冷麵，冷麵吃起來滿順口，酸辣度剛好，炸魚三塊都算大，吃起來很過癮，搭配長期的40元套餐=190，覺得合理，下次會再訪",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次到訪，覺得店內的座位配置還算不錯，吧台在中間，然後周圍大部分都是二人座，用餐前老闆會先幫客人消毒這點很好，服務態度親切。菜單蠻有特色的，不少樣式是其他家早午餐店沒有，所以我就點一個炸蝦明太子墨西哥捲，+40元就能有薯條和飲料，我蠻推薦加價10元升級成奶茶類的，甜度推薦半糖很剛好，薯條我認為就很一般的水準，墨西哥捲倒是不錯，蝦子能明顯吃得出有份量，醬也不會太甜，對我來說剛好，人蠻多的，感覺生意很旺，口碑店家，我下次還會來試試新出的冷麵。\n\n===\n再訪點了炸魚冷麵，冷麵吃起來滿順口，酸辣度剛好，炸魚三塊都算大，吃起來很過癮，搭配長期的40元套餐=190，覺得合理，下次會再訪",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "塵埃一頁",
+        "uri": "https://www.google.com/maps/contrib/107343793121878463332/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIRw3uYgKPLp3rn9WAl6pS8tAk7g6V6isaWAuqw7nsF4rjNFw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-29T03:44:09.209189370Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25jNFRUZGxXSGhGVjE5WE5rVktUM3BhUzBWdlUwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25jNFRUZGxXSGhGVjE5WE5rVktUM3BhUzBWdlUwRRAB!2m1!1s0x3442ab2ed9ecdee5:0x4fe57e62c83dde22"
+    }
+  ],
+  "goodForChildren": true
+}
