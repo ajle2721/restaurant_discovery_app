@@ -58,6 +58,10 @@ function getAiAttributes(aiReview) {
     kids_menu: normalizeResult(aiReview["Kids menu available"]?.result),
     spacious_seating: normalizeResult(aiReview["Spacious seating"]?.result),
     kid_noise_tolerant: normalizeResult(aiReview.kid_noise_tolerant?.result),
+    has_play_area: normalizeResult(aiReview.has_play_area?.result),
+    has_private_room: normalizeResult(aiReview.has_private_room?.result),
+    has_tableware: normalizeResult(aiReview.has_tableware?.result),
+    has_diaper_table: normalizeResult(aiReview.has_diaper_table?.result),
   };
 }
 

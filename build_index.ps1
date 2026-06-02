@@ -1,4 +1,4 @@
-﻿
+
 $baseDir = Get-Location
 $aiReviewDir = Join-Path $baseDir "ai_review"
 $responseDir = Join-Path $baseDir "response"
@@ -78,8 +78,10 @@ function Build-Record($placeId) {
             "has_play_area" = Normalize-Result $aiReview.has_play_area.result
             "has_private_room" = Normalize-Result $aiReview.has_private_room.result
             "has_tableware" = Normalize-Result $aiReview.has_tableware.result
+            "has_diaper_table" = Normalize-Result $aiReview.has_diaper_table.result
         }
         "ai_summary" = if ($aiReview.generated_summary) { $aiReview.generated_summary } else { "" }
+        "card_summary" = if ($aiReview.card_summary) { $aiReview.card_summary } else { "" }
         "signals" = $signals
         "parent_friendly_score" = if ($null -ne $aiReview.parent_friendly_score) { $aiReview.parent_friendly_score } else { 0 }
         "parent_friendly_level" = $level
