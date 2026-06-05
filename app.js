@@ -20,7 +20,8 @@ const state = {
     currentResults: [],
     favorites: new Set(),
     viewTransitionTimeoutId: null,
-    isUiNavigation: false
+    isUiNavigation: false,
+    expandedRadius: false
 };
 
 // Global Detail Viewer (must be global for onclick)
@@ -1017,6 +1018,7 @@ function handleNearby() {
 function selectLocation(loc, source = 'other', pushState = true) {
     state.searchLocation = loc;
     state.showOthers = false; // Reset to only show High+Medium results on new search
+    state.expandedRadius = false; // Reset search range expansion
     searchInput.value = loc.name;
     
     // Dismiss mobile keyboard and focus
@@ -1190,7 +1192,10 @@ async function renderResults() {
         }));
 
         // 2. Filter by distance
-        const maxRadius = (center.type === '全市' || center.name === '整個台北市') ? 99999 : ((center.type === '行政區') ? 2.5 : 1.5);
+        let maxRadius = (center.type === '全市' || center.name === '整個台北市') ? 99999 : ((center.type === '行政區') ? 2.5 : 1.5);
+        if (state.expandedRadius) {
+            maxRadius = (center.type === '全市' || center.name === '整個台北市') ? 99999 : ((center.type === '行政區') ? 5.0 : 3.0);
+        }
         let filtered = restaurants.filter(res => res.distance <= maxRadius);
 
         if (filtered.length === 0) {
@@ -1277,14 +1282,33 @@ async function renderResults() {
                     recommendation = '您可以考慮減少篩選條件以獲得更多推薦。';
                 }
 
-                fallbackHint.textContent = `${msg}${recommendation}`;
+                const isWholeCity = (center.type === '全市' || center.name === '整個台北市');
+                let expandHtml = '';
+                if (!isWholeCity) {
+                    if (!state.expandedRadius) {
+                        expandHtml = `或者，您可以嘗試 <a href="#" id="btn-expand-search" style="color: #2563eb; text-decoration: underline; cursor: pointer; font-weight: 700; margin-left: 2px;">擴大搜尋範圍</a>。`;
+                    } else {
+                        expandHtml = `（已擴大搜尋範圍）`;
+                    }
+                }
+
+                fallbackHint.innerHTML = `${msg}${recommendation}${expandHtml}`;
                 fallbackHint.classList.remove('hidden');
+
+                const btnExpand = document.getElementById('btn-expand-search');
+                if (btnExpand) {
+                    btnExpand.onclick = (e) => {
+                        e.preventDefault();
+                        state.expandedRadius = true;
+                        renderResults();
+                    };
+                }
             }
         } else if (state.filters && state.filters.size > 0 && exactMatches.length === 0) {
             if (recommended.length > 0) {
-                fallbackHint.textContent = '找不到符合勾選條件的餐廳，請參考以下其他友善選擇：';
+                fallbackHint.innerHTML = '找不到符合勾選條件的餐廳，請參考以下其他友善選擇：';
             } else {
-                fallbackHint.textContent = '找不到符合勾選條件的餐廳，請調整條件，或參考下方「查看更多」選項。';
+                fallbackHint.innerHTML = '找不到符合勾選條件的餐廳，請調整條件，或參考下方「查看更多」選項。';
             }
             fallbackHint.classList.remove('hidden');
         }
@@ -1696,6 +1720,51 @@ function renderDetailContent(restaurant) {
             <div class="ai-summary-title">親子用餐摘要（AI根據公開評論整理）</div>
             <div class="ai-summary-text">${restaurant.ai_summary || '目前尚無摘要資訊。'}</div>
         </div>
+        
+        <div class="detail-feedback-section" id="ai-summary-feedback-container" style="margin-top: 1.5rem; margin-bottom: 1.5rem; border-top: 1px solid #e2e8f0; padding-top: 1.25rem;">
+            <div style="font-size: 0.8rem; font-weight: 700; color: var(--text-muted); margin-bottom: 0.65rem;">本頁資訊有幫助嗎？</div>
+            <div id="ai-feedback-options" style="display: flex; gap: 0.6rem;">
+                <button class="feedback-vote-btn" id="btn-feedback-helpful" style="display: inline-flex; align-items: center; gap: 0.25rem; background: #f1f5f9; border: 1px solid #cbd5e1; border-radius: 0.5rem; padding: 0.35rem 0.75rem; font-size: 0.75rem; font-weight: 600; color: var(--text-main); cursor: pointer; transition: all 0.2s;">
+                    👍 有幫助
+                </button>
+                <button class="feedback-vote-btn" id="btn-feedback-unhelpful" style="display: inline-flex; align-items: center; gap: 0.25rem; background: #f1f5f9; border: 1px solid #cbd5e1; border-radius: 0.5rem; padding: 0.35rem 0.75rem; font-size: 0.75rem; font-weight: 600; color: var(--text-main); cursor: pointer; transition: all 0.2s;">
+                    👎 沒幫助
+                </button>
+            </div>
+            <div id="ai-feedback-form-container" class="hidden" style="margin-top: 1rem; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 0.75rem; padding: 1rem; font-size: 0.9rem; color: var(--text-main);">
+                <div style="font-weight: 700; margin-bottom: 0.75rem; color: #475569;">哪裡沒有幫助？</div>
+                <div style="display: flex; flex-direction: column; gap: 0.5rem; margin-bottom: 1rem;">
+                    <label style="display: inline-flex; align-items: center; gap: 0.5rem; cursor: pointer; font-weight: 500;">
+                        <input type="checkbox" class="ai-feedback-issue" value="找不到符合需求的餐廳"> 找不到符合需求的餐廳
+                    </label>
+                    <label style="display: inline-flex; align-items: center; gap: 0.5rem; cursor: pointer; font-weight: 500;">
+                        <input type="checkbox" class="ai-feedback-issue" value="餐廳資訊不夠完整"> 餐廳資訊不夠完整
+                    </label>
+                    <label style="display: inline-flex; align-items: center; gap: 0.5rem; cursor: pointer; font-weight: 500;">
+                        <input type="checkbox" class="ai-feedback-issue" value="資料似乎不準確"> 資料似乎不準確
+                    </label>
+                    <label style="display: inline-flex; align-items: center; gap: 0.5rem; cursor: pointer; font-weight: 500;">
+                        <input type="checkbox" class="ai-feedback-issue" value="缺少我在意的條件"> 缺少我在意的條件
+                    </label>
+                    <label style="display: inline-flex; align-items: center; gap: 0.5rem; cursor: pointer; font-weight: 500;">
+                        <input type="checkbox" class="ai-feedback-issue" value="其他"> 其他
+                    </label>
+                </div>
+                
+                <div style="font-weight: 700; margin-bottom: 0.5rem; color: #475569;">願意多告訴我一些嗎？（選填）</div>
+                <textarea id="ai-feedback-more-text" rows="3" style="width: 100%; border: 1px solid #cbd5e1; border-radius: 0.5rem; padding: 0.5rem; font-family: inherit; font-size: 0.9rem; margin-bottom: 1rem; box-sizing: border-box; resize: vertical;" placeholder="請輸入說明..."></textarea>
+                
+                <div style="font-weight: 700; margin-bottom: 0.5rem; color: #475569;">願意接受後續訪談嗎？（選填 Email）</div>
+                <input type="email" id="ai-feedback-email" style="width: 100%; border: 1px solid #cbd5e1; border-radius: 0.5rem; padding: 0.5rem; font-family: inherit; font-size: 0.9rem; margin-bottom: 1rem; box-sizing: border-box;" placeholder="example@email.com">
+                
+                <button class="btn btn-primary" id="btn-submit-ai-feedback" style="width: 100%; padding: 0.75rem; font-size: 0.9rem; font-weight: 700; color: white; border: none; border-radius: 0.5rem; cursor: pointer;">
+                    提交回饋
+                </button>
+            </div>
+            <div id="ai-feedback-thank-you" class="hidden" style="font-weight: 700; color: #16a34a; margin-top: 0.5rem; font-size: 0.95rem;">
+                感謝回饋！
+            </div>
+        </div>
 
         <a id="btn-open-google-maps" class="btn btn-primary" href="${googleMapsUrl}" target="${mapTarget}" rel="noopener noreferrer" style="width: 100%; margin-top: 1rem; padding: 1.125rem; text-decoration: none; color: white; box-sizing: border-box;">
             在 Google 地圖中開啟
@@ -1730,6 +1799,53 @@ function renderDetailContent(restaurant) {
     if (feedbackTriggerBtn) {
         feedbackTriggerBtn.onclick = () => {
             openFeedbackModal(restaurant);
+        };
+    }
+
+    // AI Summary Feedback event listeners
+    const btnHelpful = document.getElementById('btn-feedback-helpful');
+    const btnUnhelpful = document.getElementById('btn-feedback-unhelpful');
+    const feedbackOptions = document.getElementById('ai-feedback-options');
+    const feedbackFormContainer = document.getElementById('ai-feedback-form-container');
+    const feedbackThankYou = document.getElementById('ai-feedback-thank-you');
+    const btnSubmitAiFeedback = document.getElementById('btn-submit-ai-feedback');
+
+    if (btnHelpful) {
+        btnHelpful.onclick = () => {
+            feedbackOptions.classList.add('hidden');
+            feedbackThankYou.classList.remove('hidden');
+            submitAiFeedback(true, [], '', '', restaurant);
+        };
+    }
+
+    if (btnUnhelpful) {
+        btnUnhelpful.onclick = () => {
+            feedbackOptions.classList.add('hidden');
+            feedbackFormContainer.classList.remove('hidden');
+        };
+    }
+
+    if (btnSubmitAiFeedback) {
+        btnSubmitAiFeedback.onclick = async () => {
+            const checkedIssues = [];
+            document.querySelectorAll('.ai-feedback-issue:checked').forEach(cb => {
+                checkedIssues.push(cb.value);
+            });
+            const comment = document.getElementById('ai-feedback-more-text').value.trim();
+            const email = document.getElementById('ai-feedback-email').value.trim();
+
+            const originalBtnText = btnSubmitAiFeedback.innerHTML;
+            btnSubmitAiFeedback.disabled = true;
+            btnSubmitAiFeedback.innerHTML = '⌛ 提交中...';
+
+            await submitAiFeedback(false, checkedIssues, comment, email, restaurant);
+
+            btnSubmitAiFeedback.disabled = false;
+            btnSubmitAiFeedback.innerHTML = originalBtnText;
+
+            feedbackFormContainer.classList.add('hidden');
+            feedbackThankYou.classList.remove('hidden');
+            showToast('感謝您的寶貴回饋！');
         };
     }
 }
@@ -2897,5 +3013,41 @@ async function handleFeedbackSubmit(e) {
     }
 }
 
+async function submitAiFeedback(isHelpful, checkedIssues, comment, email, restaurant) {
+    try {
+        const formData = new URLSearchParams();
+        formData.append('access_key', WEB3FORMS_ACCESS_KEY);
+        formData.append('name', '親子餐廳地圖 - 詳情頁面意見回饋');
+        formData.append('subject', `${isHelpful ? '👍' : '👎'} 詳情頁面回饋: ${restaurant.name || '未命名餐廳'}`);
+        formData.append('restaurant_name', restaurant.name || '未命名餐廳');
+        formData.append('restaurant_id', restaurant.place_id || '');
+        formData.append('is_helpful', isHelpful ? '有幫助' : '沒幫助');
+        if (!isHelpful) {
+            formData.append('issues', checkedIssues.join(', ') || '無');
+            formData.append('comment', comment || '無');
+        }
+        if (email) {
+            formData.append('email', email);
+        }
+
+        const response = await fetch('https://api.web3forms.com/submit', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/x-www-form-urlencoded',
+                'Accept': 'application/json'
+            },
+            body: formData.toString()
+        });
+
+        const result = await response.json();
+        if (!response.ok || !result.success) {
+            console.error('AI Feedback server error:', result.message);
+        }
+    } catch (err) {
+        console.error('Error submitting AI feedback:', err);
+    }
+}
+
 // Start the app
 init();
+
