@@ -5188,7 +5188,7 @@
     },
     {
         "place_id":  "ChIJ1Tl3NsCpQjQRJOPnahxr1Cs",
-        "name":  "大樹義麵坊-2026平價排隊美食 台北中正義大利麵 焗烤 商業午餐 外送推薦 熱門義式料理餐廳 訂位推薦 團體學校安親班訂餐外送 聚餐包場 臺大醫院 中正紀念堂附近美食 PTT Dcard",
+        "name":  "大樹義麵坊",
         "address":  "100台灣台北市中正區林森南路45-1號",
         "formatted_address":  "100台灣台北市中正區林森南路45-1號",
         "district":  "中正區",
@@ -5198,8 +5198,8 @@
         "cuisine":  "義大利料理",
         "latitude":  25.040394,
         "longitude":  121.52225449999999,
-        "url":  "https://www.google.com/maps/search/?api=1\u0026query=%E5%A4%A7%E6%A8%B9%E7%BE%A9%E9%BA%B5%E5%9D%8A-2026%E5%B9%B3%E5%83%B9%E6%8E%92%E9%9A%8A%E7%BE%8E%E9%A3%9F%20%E5%8F%B0%E5%8C%97%E4%B8%AD%E6%AD%A3%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5%20%E7%84%97%E7%83%A4%20%E5%95%86%E6%A5%AD%E5%8D%88%E9%A4%90%20%E5%A4%96%E9%80%81%E6%8E%A8%E8%96%A6%20%E7%86%B1%E9%96%80%E7%BE%A9%E5%BC%8F%E6%96%99%E7%90%86%E9%A4%90%E5%BB%B3%20%E8%A8%82%E4%BD%8D%E6%8E%A8%E8%96%A6%20%E5%9C%98%E9%AB%94%E5%AD%B8%E6%A0%A1%E5%AE%89%E8%A6%AA%E7%8F%AD%E8%A8%82%E9%A4%90%E5%A4%96%E9%80%81%20%E8%81%9A%E9%A4%90%E5%8C%85%E5%A0%B4%20%E8%87%BA%E5%A4%A7%E9%86%AB%E9%99%A2%20%E4%B8%AD%E6%AD%A3%E7%B4%80%E5%BF%B5%E5%A0%82%E9%99%84%E8%BF%91%E7%BE%8E%E9%A3%9F%20PTT%20Dcard\u0026query_place_id=ChIJ1Tl3NsCpQjQRJOPnahxr1Cs",
-        "google_maps_url":  "https://www.google.com/maps/search/?api=1\u0026query=%E5%A4%A7%E6%A8%B9%E7%BE%A9%E9%BA%B5%E5%9D%8A-2026%E5%B9%B3%E5%83%B9%E6%8E%92%E9%9A%8A%E7%BE%8E%E9%A3%9F%20%E5%8F%B0%E5%8C%97%E4%B8%AD%E6%AD%A3%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5%20%E7%84%97%E7%83%A4%20%E5%95%86%E6%A5%AD%E5%8D%88%E9%A4%90%20%E5%A4%96%E9%80%81%E6%8E%A8%E8%96%A6%20%E7%86%B1%E9%96%80%E7%BE%A9%E5%BC%8F%E6%96%99%E7%90%86%E9%A4%90%E5%BB%B3%20%E8%A8%82%E4%BD%8D%E6%8E%A8%E8%96%A6%20%E5%9C%98%E9%AB%94%E5%AD%B8%E6%A0%A1%E5%AE%89%E8%A6%AA%E7%8F%AD%E8%A8%82%E9%A4%90%E5%A4%96%E9%80%81%20%E8%81%9A%E9%A4%90%E5%8C%85%E5%A0%B4%20%E8%87%BA%E5%A4%A7%E9%86%AB%E9%99%A2%20%E4%B8%AD%E6%AD%A3%E7%B4%80%E5%BF%B5%E5%A0%82%E9%99%84%E8%BF%91%E7%BE%8E%E9%A3%9F%20PTT%20Dcard\u0026query_place_id=ChIJ1Tl3NsCpQjQRJOPnahxr1Cs",
+        "url":  "https://www.google.com/maps/search/?api=1\u0026query=%E5%A4%A7%E6%A8%B9%E7%BE%A9%E9%BA%B5%E5%9D%8A\u0026query_place_id=ChIJ1Tl3NsCpQjQRJOPnahxr1Cs",
+        "google_maps_url":  "https://www.google.com/maps/search/?api=1\u0026query=%E5%A4%A7%E6%A8%B9%E7%BE%A9%E9%BA%B5%E5%9D%8A\u0026query_place_id=ChIJ1Tl3NsCpQjQRJOPnahxr1Cs",
         "attributes":  {
                            "kid_noise_tolerant":  "unknown",
                            "has_private_room":  "unknown",
@@ -87652,7 +87652,7 @@
     },
     {
         "place_id":  "ChIJOevZzWypQjQRwmWHkTUjhWg",
-        "name":  "大樹義麵坊-師大店-2026平價排隊美食 台北大安義大利麵 焗烤 商業午餐 外送推薦 熱門義式料理餐廳 訂位推薦 團體學校安親班訂餐外送 聚餐包場 師大商圈 師範大學附近美食 PTT Dcard",
+        "name":  "大樹義麵坊-師大店",
         "address":  "106013台灣台北市大安區古莊里浦城街13巷2號1樓",
         "formatted_address":  "106013台灣台北市大安區古莊里浦城街13巷2號1樓",
         "district":  "大安區",
@@ -87662,8 +87662,8 @@
         "cuisine":  "義大利料理",
         "latitude":  25.0245084,
         "longitude":  121.52713859999999,
-        "url":  "https://www.google.com/maps/search/?api=1\u0026query=%E5%A4%A7%E6%A8%B9%E7%BE%A9%E9%BA%B5%E5%9D%8A-%E5%B8%AB%E5%A4%A7%E5%BA%97-2026%E5%B9%B3%E5%83%B9%E6%8E%92%E9%9A%8A%E7%BE%8E%E9%A3%9F%20%E5%8F%B0%E5%8C%97%E5%A4%A7%E5%AE%89%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5%20%E7%84%97%E7%83%A4%20%E5%95%86%E6%A5%AD%E5%8D%88%E9%A4%90%20%E5%A4%96%E9%80%81%E6%8E%A8%E8%96%A6%20%E7%86%B1%E9%96%80%E7%BE%A9%E5%BC%8F%E6%96%99%E7%90%86%E9%A4%90%E5%BB%B3%20%E8%A8%82%E4%BD%8D%E6%8E%A8%E8%96%A6%20%E5%9C%98%E9%AB%94%E5%AD%B8%E6%A0%A1%E5%AE%89%E8%A6%AA%E7%8F%AD%E8%A8%82%E9%A4%90%E5%A4%96%E9%80%81%20%E8%81%9A%E9%A4%90%E5%8C%85%E5%A0%B4%20%E5%B8%AB%E5%A4%A7%E5%95%86%E5%9C%88%20%E5%B8%AB%E7%AF%84%E5%A4%A7%E5%AD%B8%E9%99%84%E8%BF%91%E7%BE%8E%E9%A3%9F%20PTT%20Dcard\u0026query_place_id=ChIJOevZzWypQjQRwmWHkTUjhWg",
-        "google_maps_url":  "https://www.google.com/maps/search/?api=1\u0026query=%E5%A4%A7%E6%A8%B9%E7%BE%A9%E9%BA%B5%E5%9D%8A-%E5%B8%AB%E5%A4%A7%E5%BA%97-2026%E5%B9%B3%E5%83%B9%E6%8E%92%E9%9A%8A%E7%BE%8E%E9%A3%9F%20%E5%8F%B0%E5%8C%97%E5%A4%A7%E5%AE%89%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5%20%E7%84%97%E7%83%A4%20%E5%95%86%E6%A5%AD%E5%8D%88%E9%A4%90%20%E5%A4%96%E9%80%81%E6%8E%A8%E8%96%A6%20%E7%86%B1%E9%96%80%E7%BE%A9%E5%BC%8F%E6%96%99%E7%90%86%E9%A4%90%E5%BB%B3%20%E8%A8%82%E4%BD%8D%E6%8E%A8%E8%96%A6%20%E5%9C%98%E9%AB%94%E5%AD%B8%E6%A0%A1%E5%AE%89%E8%A6%AA%E7%8F%AD%E8%A8%82%E9%A4%90%E5%A4%96%E9%80%81%20%E8%81%9A%E9%A4%90%E5%8C%85%E5%A0%B4%20%E5%B8%AB%E5%A4%A7%E5%95%86%E5%9C%88%20%E5%B8%AB%E7%AF%84%E5%A4%A7%E5%AD%B8%E9%99%84%E8%BF%91%E7%BE%8E%E9%A3%9F%20PTT%20Dcard\u0026query_place_id=ChIJOevZzWypQjQRwmWHkTUjhWg",
+        "url":  "https://www.google.com/maps/search/?api=1\u0026query=%E5%A4%A7%E6%A8%B9%E7%BE%A9%E9%BA%B5%E5%9D%8A-%E5%B8%AB%E5%A4%A7%E5%BA%97\u0026query_place_id=ChIJOevZzWypQjQRwmWHkTUjhWg",
+        "google_maps_url":  "https://www.google.com/maps/search/?api=1\u0026query=%E5%A4%A7%E6%A8%B9%E7%BE%A9%E9%BA%B5%E5%9D%8A-%E5%B8%AB%E5%A4%A7%E5%BA%97\u0026query_place_id=ChIJOevZzWypQjQRwmWHkTUjhWg",
         "attributes":  {
                            "kid_noise_tolerant":  "unknown",
                            "has_private_room":  "yes",
