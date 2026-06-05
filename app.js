@@ -20,7 +20,8 @@ const state = {
     currentResults: [],
     favorites: new Set(),
     viewTransitionTimeoutId: null,
-    isUiNavigation: false
+    isUiNavigation: false,
+    expandedRadius: false
 };
 
 // Global Detail Viewer (must be global for onclick)
@@ -1017,6 +1018,7 @@ function handleNearby() {
 function selectLocation(loc, source = 'other', pushState = true) {
     state.searchLocation = loc;
     state.showOthers = false; // Reset to only show High+Medium results on new search
+    state.expandedRadius = false; // Reset search expansion for the new search
     searchInput.value = loc.name;
     
     // Dismiss mobile keyboard and focus
@@ -1190,7 +1192,10 @@ async function renderResults() {
         }));
 
         // 2. Filter by distance
-        const maxRadius = (center.type === '全市' || center.name === '整個台北市') ? 99999 : ((center.type === '行政區') ? 2.5 : 1.5);
+        let maxRadius = (center.type === '全市' || center.name === '整個台北市') ? 99999 : ((center.type === '行政區') ? 2.5 : 1.5);
+        if (state.expandedRadius) {
+            maxRadius *= 2;
+        }
         let filtered = restaurants.filter(res => res.distance <= maxRadius);
 
         if (filtered.length === 0) {
@@ -1247,20 +1252,59 @@ async function renderResults() {
         recommended.forEach(res => renderCard(res, recommendedList, res.dynamicLevel));
         others.forEach(res => renderCard(res, othersList, res.dynamicLevel));
 
-        // Check if there are no exact matches (High/Medium) when filters are active
-        if (state.filters && state.filters.size > 0) {
-            if (exactMatches.length === 0) {
-                if (recommended.length > 0) {
-                    fallbackHint.textContent = '找不到符合勾選條件的餐廳，請參考以下其他友善選擇：';
+        // Check if there are no exact matches or matches <= 3 (excluding city-wide search)
+        const isTaipeiAll = (center.type === '全市' || center.name === '整個台北市');
+        fallbackHint.innerHTML = '';
+        fallbackHint.classList.add('hidden');
+
+        if (exactMatches.length <= 3 && !isTaipeiAll) {
+            if (!state.expandedRadius) {
+                let msg = '';
+                if (exactMatches.length === 0) {
+                    if (state.filters && state.filters.size > 0) {
+                        msg = '找不到完全符合篩選條件的餐廳。';
+                    } else {
+                        msg = '找不到此區域附近的親子友善餐廳。';
+                    }
                 } else {
-                    fallbackHint.textContent = '找不到符合勾選條件的餐廳，請調整條件，或參考下方「查看更多」選項。';
+                    msg = `此區域附近完全符合條件的選擇較少（僅 ${exactMatches.length} 間）。`;
                 }
+
+                fallbackHint.innerHTML = `
+                    <div style="display: flex; flex-direction: column; align-items: flex-start; gap: 0.5rem;">
+                        <span>${msg}要將搜尋範圍擴大一倍嗎？（如：1.5公里擴大至3公里）</span>
+                        <button class="expand-range-btn" id="btn-expand-range" style="margin-top: 0.25rem;">
+                            🔍 擴大搜尋範圍
+                        </button>
+                    </div>
+                `;
                 fallbackHint.classList.remove('hidden');
+
+                const btnExpandRange = document.getElementById('btn-expand-range');
+                if (btnExpandRange) {
+                    btnExpandRange.addEventListener('click', () => {
+                        trackEvent('expand_search_range', {
+                            original_radius: (center.type === '行政區') ? 2.5 : 1.5,
+                            new_radius: (center.type === '行政區') ? 5.0 : 3.0,
+                            location_name: center.name
+                        });
+                        state.expandedRadius = true;
+                        renderResults();
+                    });
+                }
             } else {
-                fallbackHint.classList.add('hidden');
+                let originalRadiusText = (center.type === '行政區') ? '2.5公里' : '1.5公里';
+                let newRadiusText = (center.type === '行政區') ? '5公里' : '3公里';
+                fallbackHint.innerHTML = `<div>🔍 已將搜尋範圍從 ${originalRadiusText} 擴大至 ${newRadiusText}。</div>`;
+                fallbackHint.classList.remove('hidden');
             }
-        } else {
-            fallbackHint.classList.add('hidden');
+        } else if (state.filters && state.filters.size > 0 && exactMatches.length === 0) {
+            if (recommended.length > 0) {
+                fallbackHint.textContent = '找不到符合勾選條件的餐廳，請參考以下其他友善選擇：';
+            } else {
+                fallbackHint.textContent = '找不到符合勾選條件的餐廳，請調整條件，或參考下方「查看更多」選項。';
+            }
+            fallbackHint.classList.remove('hidden');
         }
         
         // Update Toggle UI
