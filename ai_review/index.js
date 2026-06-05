@@ -8988,18 +8988,19 @@
                            "has_private_room":  "unknown",
                            "spacious_seating":  "yes",
                            "kids_menu":  "yes",
-                           "has_diaper_table":  "unknown",
+                           "has_diaper_table":  "yes",
                            "has_play_area":  "unknown",
                            "has_tableware":  "unknown",
                            "high_chair_available":  "yes"
                        },
-        "ai_summary":  "根據評論分析，服務人員接待熱忱、服務態度良好。店內貼心備有兒童座椅，並提供兒童餐點。",
+        "ai_summary":  "根據評論分析，服務人員接待熱忱、服務態度良好。店內貼心備有兒童座椅，並提供兒童餐點。位於兒童新樂園內，可使用園區公共尿布台及哺乳室。",
         "card_summary":  "",
         "signals":  [
                         "使用者回報與人工校正：有提供兒童座椅",
                         "這裡的漢堡王舒適寬敞",
                         "Google 官方登記提供兒童餐點",
-                        "Google 官方登記適合兒童用餐"
+                        "Google 官方登記適合兒童用餐",
+                        "位於兒童新樂園內，可使用園區公共尿布台及哺乳室"
                     ],
         "parent_friendly_score":  5,
         "parent_friendly_level":  "高",
@@ -15483,16 +15484,17 @@
                            "has_private_room":  "unknown",
                            "spacious_seating":  "unknown",
                            "kids_menu":  "yes",
-                           "has_diaper_table":  "unknown",
+                           "has_diaper_table":  "yes",
                            "has_play_area":  "unknown",
                            "has_tableware":  "unknown",
                            "high_chair_available":  "unknown"
                        },
-        "ai_summary":  "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。店內提供兒童餐點。",
+        "ai_summary":  "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。店內提供兒童餐點。位於兒童新樂園內，可使用園區公共尿布台及哺乳室。",
         "card_summary":  "",
         "signals":  [
                         "這樣的兒童餐收180",
-                        "Google 官方登記適合兒童用餐"
+                        "Google 官方登記適合兒童用餐",
+                        "位於兒童新樂園內，可使用園區公共尿布台及哺乳室"
                     ],
         "parent_friendly_score":  2,
         "parent_friendly_level":  "中",
@@ -42612,17 +42614,18 @@
                            "has_private_room":  "unknown",
                            "spacious_seating":  "unknown",
                            "kids_menu":  "yes",
-                           "has_diaper_table":  "unknown",
+                           "has_diaper_table":  "yes",
                            "has_play_area":  "unknown",
                            "has_tableware":  "unknown",
                            "high_chair_available":  "yes"
                        },
-        "ai_summary":  "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。店內貼心備有兒童座椅，並提供兒童餐點。",
+        "ai_summary":  "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。店內貼心備有兒童座椅，並提供兒童餐點。位於兒童新樂園內，可使用園區公共尿布台及哺乳室。",
         "card_summary":  "",
         "signals":  [
                         "跟一份雞米花兒童餐",
                         "Google 官方登記適合兒童用餐",
-                        "系統自動識別：官方登記為家庭式餐飲，提供兒童座椅"
+                        "系統自動識別：官方登記為家庭式餐飲，提供兒童座椅",
+                        "位於兒童新樂園內，可使用園區公共尿布台及哺乳室"
                     ],
         "parent_friendly_score":  4,
         "parent_friendly_level":  "高",
@@ -66278,14 +66281,17 @@
                            "has_private_room":  "unknown",
                            "spacious_seating":  "unknown",
                            "kids_menu":  "no",
-                           "has_diaper_table":  "unknown",
+                           "has_diaper_table":  "yes",
                            "has_play_area":  "unknown",
                            "has_tableware":  "unknown",
                            "high_chair_available":  "unknown"
                        },
-        "ai_summary":  "根據評論分析，這家餐廳氣氛輕鬆親子友善。",
+        "ai_summary":  "根據評論分析，這家餐廳氣氛輕鬆親子友善。位於兒童新樂園內，可使用園區公共尿布台及哺乳室。",
         "card_summary":  "",
-        "signals":  "Google 官方登記適合兒童用餐",
+        "signals":  [
+                        "Google 官方登記適合兒童用餐",
+                        "位於兒童新樂園內，可使用園區公共尿布台及哺乳室"
+                    ],
         "parent_friendly_score":  1,
         "parent_friendly_level":  "中",
         "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析",
