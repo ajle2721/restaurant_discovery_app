@@ -868,7 +868,7 @@ body {
     display: flex;
     align-items: center;
     flex-wrap: wrap;
-    gap: 0.4rem 0.6rem;
+    gap: 0.25rem 0.35rem;
     font-size: 0.72rem;
     color: #64748b;
     margin-top: 0.8rem;
@@ -2757,5 +2757,5 @@ body {
 .card-meta-dot {
     color: #cbd5e1;
     font-weight: bold;
-    margin: 0 0.15rem;
+    margin: 0 0.05rem;
 }

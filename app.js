@@ -1437,21 +1437,19 @@ function renderCard(res, container, overrideLevel) {
     const times = (!isWholeCity && res.distance) ? calculateTravelTimes(res.distance) : null;
     let timeHtml = '';
     if (times) {
-        timeHtml = `
-            <span class="card-footer-time">(🚶${times.walking}分鐘 · 🚗${times.driving}分鐘)</span>
-        `;
+        timeHtml = `<span class="card-footer-time">(🚶${times.walking}分鐘·🚗${times.driving}分鐘)</span>`;
     }
 
     const priceSymbol = priceSymbols[res.price_level];
     let footerHtml = `<span class="card-rating">⭐ ${res.rating}</span>`;
     if (res.cuisine) {
-        footerHtml += ` <span class="card-meta-dot">·</span> <span class="card-cuisine">${res.cuisine}</span>`;
+        footerHtml += `<span class="card-meta-dot">·</span><span class="card-cuisine">${res.cuisine}</span>`;
     }
     if (priceSymbol) {
-        footerHtml += ` <span class="card-meta-dot">·</span> <span class="card-price" title="${res.price_level}">${priceSymbol}</span>`;
+        footerHtml += `<span class="card-meta-dot">·</span><span class="card-price" title="${res.price_level}">${priceSymbol}</span>`;
     }
     if (timeHtml) {
-        footerHtml += ` <span class="card-meta-dot">·</span> ${timeHtml}`;
+        footerHtml += `<span class="card-meta-dot">·</span>${timeHtml}`;
     }
 
     const isFav = state.favorites.has(res.place_id);
