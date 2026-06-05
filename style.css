@@ -2714,4 +2714,37 @@ body {
     }
 }
 
+/* --- Mobile UX Optimizations --- */
 
+/* Compact Header when search is active */
+.search-active .main-title,
+.search-active .subtitle,
+.search-active .header-stats {
+    display: none !important;
+}
+
+.search-active .main-header {
+    padding: calc(1rem + var(--safe-area-inset-top)) 1.5rem 1rem;
+    border-radius: 0 0 1.5rem 1.5rem;
+}
+
+/* Active filter indicators in sticky status bar */
+.active-filters-bar-compact {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    margin-top: 2px;
+}
+
+.active-filters-bar-compact .filter-indicator-mini {
+    font-size: 0.7rem;
+    background: rgba(255, 126, 103, 0.1);
+    color: var(--primary);
+    padding: 1px 6px;
+    border-radius: 4px;
+    font-weight: 700;
+    display: inline-flex;
+    align-items: center;
+    gap: 2px;
+    border: 1px solid rgba(255, 126, 103, 0.15);
+}

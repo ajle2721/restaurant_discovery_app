@@ -134,7 +134,10 @@
         <div id="search-results-view" class="hidden">
             <div id="search-status-bar" class="search-status-bar">
                 <div class="status-content">
-                    <span id="current-search-location">顯示全部</span>
+                    <div style="display: flex; flex-direction: column; gap: 0.25rem; min-width: 0;">
+                        <span id="current-search-location">顯示全部</span>
+                        <div id="active-filters-bar" class="active-filters-bar-compact hidden"></div>
+                    </div>
                     <div class="status-actions" style="display: flex; gap: 0.75rem; align-items: center;">
                         <button id="reset-search" class="btn-text">重新搜尋</button>
                     </div>

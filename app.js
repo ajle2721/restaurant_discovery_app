@@ -1014,6 +1014,9 @@ function selectLocation(loc, source = 'other', pushState = true) {
     
     // Dismiss mobile keyboard and focus
     if (searchInput) searchInput.blur();
+    if (document.activeElement) {
+        document.activeElement.blur();
+    }
     
     autocompleteDropdown.classList.add('hidden');
     clearSearchBtn.classList.remove('hidden');
@@ -1144,6 +1147,25 @@ async function renderResults() {
         othersList.innerHTML = '';
         fallbackHint.classList.add('hidden');
         noResultsState.classList.add('hidden');
+
+        // Update dynamic active filter indicators in sticky search-status-bar
+        const activeFiltersBar = document.getElementById('active-filters-bar');
+        if (activeFiltersBar) {
+            activeFiltersBar.innerHTML = '';
+            if (state.filters && state.filters.size > 0) {
+                activeFiltersBar.classList.remove('hidden');
+                state.filters.forEach(f => {
+                    const icon = attributeIcons[f] || '✨';
+                    const label = attributeLabels[f] || f;
+                    const indicator = document.createElement('span');
+                    indicator.className = 'filter-indicator-mini';
+                    indicator.innerHTML = `${icon} ${label}`;
+                    activeFiltersBar.appendChild(indicator);
+                });
+            } else {
+                activeFiltersBar.classList.add('hidden');
+            }
+        }
 
         // Update Level Labels for this session
         levelLabels['Needs Attention'] = '不符合條件';
