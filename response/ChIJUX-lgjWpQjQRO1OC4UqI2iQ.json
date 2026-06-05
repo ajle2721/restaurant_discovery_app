@@ -1,134 +1,92 @@
-{
-  "id": "ChIJUX-lgjWpQjQRO1OC4UqI2iQ",
-  "types": [
-    "coffee_shop",
-    "cafe",
-    "food_store",
-    "bar",
-    "store",
-    "restaurant",
-    "food",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2550 0335",
-  "formattedAddress": "103台灣臺北市大同區建明里長安西路78巷3弄4-1號",
-  "location": {
-    "latitude": 25.0497072,
-    "longitude": 121.51939759999999
-  },
-  "rating": 4.3,
-  "websiteUri": "https://www.facebook.com/Nearbycafe/?locale=zh_TW",
-  "userRatingCount": 536,
-  "displayName": {
-    "text": "附近咖啡",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJUX-lgjWpQjQRO1OC4UqI2iQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oWlp6UjVkR05EVkVWMlMycHdXVEJwU0hsblEwRRAB",
-      "relativePublishTimeDescription": "2 個月前",
-      "rating": 5,
-      "text": {
-        "text": "在中山站鬧區裡\n意外找到一個可以好好休憩的角落\n\n空間寧靜又舒適 喜歡大家有共識的放低音量\n像暫時離開城市節奏的小空間✨\n\n🍯 熱蜂蜜牛奶很好喝 冬天來一杯特別暖\n🍗 炸雞塊也不錯 番茄醬需要另外索取",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "在中山站鬧區裡\n意外找到一個可以好好休憩的角落\n\n空間寧靜又舒適 喜歡大家有共識的放低音量\n像暫時離開城市節奏的小空間✨\n\n🍯 熱蜂蜜牛奶很好喝 冬天來一杯特別暖\n🍗 炸雞塊也不錯 番茄醬需要另外索取",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Zoey Hsu",
-        "uri": "https://www.google.com/maps/contrib/111195203129235349309/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXOIe-itcVkIoN6_T2aGW5qlKhDenqb6TXs1ZdoO-6BjBLy8wGq5g=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2026-03-09T04:10:15.157518838Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oWlp6UjVkR05EVkVWMlMycHdXVEJwU0hsblEwRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oWlp6UjVkR05EVkVWMlMycHdXVEJwU0hsblEwRRAB!2m1!1s0x3442a93582a57f51:0x24da884ae182533b"
-    },
-    {
-      "name": "places/ChIJUX-lgjWpQjQRO1OC4UqI2iQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aVk1FVXRSamh5U0UxSE4zRjVVMDU0YTJSTVUxRRAB",
-      "relativePublishTimeDescription": "5 個月前",
-      "rating": 5,
-      "text": {
-        "text": "一家在離北車地下街很近的小巷子裡的咖啡廳。但有很特別的餐點~水餃，且有特別的香菜口味喔~原本我不太吃豬肉，所以幾乎很久沒吃水餃，但喜歡香菜，所以香菜可以稍稍掩蓋豬肉味，且真的味道掩蓋不少，算是不錯吃的水餃。另外還有皮蛋辣椒麵，也不錯的味道，但餐點分量不多剛剛好適合女生胃。\n由於低銷是飲料，所以一般客人多數來喝飲料加甜點。算是特別的餐廳。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "一家在離北車地下街很近的小巷子裡的咖啡廳。但有很特別的餐點~水餃，且有特別的香菜口味喔~原本我不太吃豬肉，所以幾乎很久沒吃水餃，但喜歡香菜，所以香菜可以稍稍掩蓋豬肉味，且真的味道掩蓋不少，算是不錯吃的水餃。另外還有皮蛋辣椒麵，也不錯的味道，但餐點分量不多剛剛好適合女生胃。\n由於低銷是飲料，所以一般客人多數來喝飲料加甜點。算是特別的餐廳。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Shirley Hu",
-        "uri": "https://www.google.com/maps/contrib/108632132661273497182/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7xhxck_XPbDKlP28ucxHSI_63dJA5fSvwv-yLS7tbJHKah7JL=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2025-12-22T03:51:33.212495752Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aVk1FVXRSamh5U0UxSE4zRjVVMDU0YTJSTVUxRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aVk1FVXRSamh5U0UxSE4zRjVVMDU0YTJSTVUxRRAB!2m1!1s0x3442a93582a57f51:0x24da884ae182533b"
-    },
-    {
-      "name": "places/ChIJUX-lgjWpQjQRO1OC4UqI2iQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xweGIwNVpSV1I0UTI0M1ltcG9WbGQyYUV4UlUwRRAB",
-      "relativePublishTimeDescription": "7 個月前",
-      "rating": 5,
-      "text": {
-        "text": "第一次來 體驗超級好 本來就看評論看到開的晚又有沙發 所以來了 但我只有自己一個人 沙發區看起來是4-5人 而其他位子都滿了 店員人也很好 讓我坐沙發 後面陸陸續續有人來來去去 也沒有叫我換走 態度也很好 皮蛋辣椒麵好吃！阿法芙朵也好好喝、巴斯克是流心的😋，這次體驗真不錯 感受好 吃的也覺得好開心！",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "第一次來 體驗超級好 本來就看評論看到開的晚又有沙發 所以來了 但我只有自己一個人 沙發區看起來是4-5人 而其他位子都滿了 店員人也很好 讓我坐沙發 後面陸陸續續有人來來去去 也沒有叫我換走 態度也很好 皮蛋辣椒麵好吃！阿法芙朵也好好喝、巴斯克是流心的😋，這次體驗真不錯 感受好 吃的也覺得好開心！",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "劉若妍",
-        "uri": "https://www.google.com/maps/contrib/111458245063488805430/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUb0TIbclQK_S-iytn0NtL-6UgfXPIcZhOhUvs3Tih1FrzWglSZ4Q=s128-c0x00000000-cc-rp-mo"
-      },
-      "publishTime": "2025-10-02T14:25:13.120540486Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xweGIwNVpSV1I0UTI0M1ltcG9WbGQyYUV4UlUwRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xweGIwNVpSV1I0UTI0M1ltcG9WbGQyYUV4UlUwRRAB!2m1!1s0x3442a93582a57f51:0x24da884ae182533b"
-    },
-    {
-      "name": "places/ChIJUX-lgjWpQjQRO1OC4UqI2iQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25odVRsTjNWV3BHU0U1MGRrcFBWUzE2TlVRMldYYxAB",
-      "relativePublishTimeDescription": "7 個月前",
-      "rating": 5,
-      "text": {
-        "text": "來喝杯脆脆黑糖卡布咖啡、桂花烏龍茶、瑪格麗特披薩，有室內、戶外座位及洗手間，餐點、飲品味道不錯，適合在鬧區短暫休憩的場所。☕🥤🍕💖",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "來喝杯脆脆黑糖卡布咖啡、桂花烏龍茶、瑪格麗特披薩，有室內、戶外座位及洗手間，餐點、飲品味道不錯，適合在鬧區短暫休憩的場所。☕🥤🍕💖",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Eric Lin",
-        "uri": "https://www.google.com/maps/contrib/109985046207980329346/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV9CO8kL0I7JR1zWPVM7zGch7fDK_pOOHRagFT8m2-HQOG4cBYHAg=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2025-10-26T01:26:46.005404462Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25odVRsTjNWV3BHU0U1MGRrcFBWUzE2TlVRMldYYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25odVRsTjNWV3BHU0U1MGRrcFBWUzE2TlVRMldYYxAB!2m1!1s0x3442a93582a57f51:0x24da884ae182533b"
-    },
-    {
-      "name": "places/ChIJUX-lgjWpQjQRO1OC4UqI2iQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaaWExcEVTeTFqUTFKbllsWlpRekoxVlhOc1YwRRAB",
-      "relativePublishTimeDescription": "10 個月前",
-      "rating": 4,
-      "text": {
-        "text": "網路名店，人潮絡繹不絕。只有現金支付。\n前台員工只有一個，現場很容易有空城計的感覺，出菜速度偏慢，需要有點耐心。有用餐時間限制。有沙發區，有大桌小桌的區域。\n餐點跟咖啡真的是普普通通，沒有讓人特別覺得特別的地方。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "網路名店，人潮絡繹不絕。只有現金支付。\n前台員工只有一個，現場很容易有空城計的感覺，出菜速度偏慢，需要有點耐心。有用餐時間限制。有沙發區，有大桌小桌的區域。\n餐點跟咖啡真的是普普通通，沒有讓人特別覺得特別的地方。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Ben 乃碩",
-        "uri": "https://www.google.com/maps/contrib/115775501458004798763/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXjDs1YlKiWjFPWZbG36ECsWu9tvgeRU73Cr1qn1KHZxWhKO6U8=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2025-07-20T09:16:34.657516072Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaaWExcEVTeTFqUTFKbllsWlpRekoxVlhOc1YwRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaaWExcEVTeTFqUTFKbllsWlpRekoxVlhOc1YwRRAB!2m1!1s0x3442a93582a57f51:0x24da884ae182533b"
-    }
-  ]
+﻿{
+    "id":  "ChIJUX-lgjWpQjQRO1OC4UqI2iQ",
+    "types":  [
+                  "coffee_shop",
+                  "bar",
+                  "cafe",
+                  "food_store",
+                  "store",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2550 0335",
+    "formattedAddress":  "No. 4-1號, Alley 3, Lane 78, Chang\u0027an W Rd, Jianming Village, Datong District, Taipei City, Taiwan 103",
+    "location":  {
+                     "latitude":  25.0497072,
+                     "longitude":  121.51939759999999
+                 },
+    "rating":  4.3,
+    "websiteUri":  "https://www.facebook.com/Nearbycafe/?locale=zh_TW",
+    "userRatingCount":  535,
+    "displayName":  {
+                        "text":  "Nearby Cafe",
+                        "languageCode":  "en"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJUX-lgjWpQjQRO1OC4UqI2iQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT201Wk1pMVdOWEJvVURWb2NFdG1TMjVLT1dWeWMyYxAB",
+                        "relativePublishTimeDescription":  "3 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "I love the vibe this cafe gives out. It’s just so chill. Ordered their cilantro dumplings and they are yummy! Cilantro taste is there. And on top of that I also ordered their chilli preserved egg noodles, also not bad!",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "I love the vibe this cafe gives out. It’s just so chill. Ordered their cilantro dumplings and they are yummy! Cilantro taste is there. And on top of that I also ordered their chilli preserved egg noodles, also not bad!",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Jamie Tey",
+                                                  "uri":  "https://www.google.com/maps/contrib/102310872442441348618/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUQ6BKp1yMEHP4UjUGgZyYGpxRiovuDPzZYPSLAFUiKBnQNPZ0=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2026-02-06T07:30:44.565625735Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201Wk1pMVdOWEJvVURWb2NFdG1TMjVLT1dWeWMyYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201Wk1pMVdOWEJvVURWb2NFdG1TMjVLT1dWeWMyYxAB!2m1!1s0x3442a93582a57f51:0x24da884ae182533b"
+                    },
+                    {
+                        "name":  "places/ChIJUX-lgjWpQjQRO1OC4UqI2iQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paMk1GSlFSbGhHVjNkdU4wTTJlVWRxWkRKV2VtYxAB",
+                        "relativePublishTimeDescription":  "3 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Nice cafe nearby. No frills, no special rules.\n\nI like outdoor seating with a smoking area, decent bathroom, open hours. Choice of everything from normal coffee to various teas to dumplings to beer on tap. I had pistachio cheesecake and honey milk tea (not overly sweet) and the next day did it again.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Nice cafe nearby. No frills, no special rules.\n\nI like outdoor seating with a smoking area, decent bathroom, open hours. Choice of everything from normal coffee to various teas to dumplings to beer on tap. I had pistachio cheesecake and honey milk tea (not overly sweet) and the next day did it again.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Anton",
+                                                  "uri":  "https://www.google.com/maps/contrib/115147713756033952334/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjW2IMjUzHcb7n4Lw8xAfpPY2mYGnTf3hCyYYwjIsxPL-I2bec_P=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2026-03-05T08:26:01.978515432Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paMk1GSlFSbGhHVjNkdU4wTTJlVWRxWkRKV2VtYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paMk1GSlFSbGhHVjNkdU4wTTJlVWRxWkRKV2VtYxAB!2m1!1s0x3442a93582a57f51:0x24da884ae182533b"
+                    },
+                    {
+                        "name":  "places/ChIJUX-lgjWpQjQRO1OC4UqI2iQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOVE4xb3dUREkyVkhaVlJrNHpNV0ZUVTJWdmMyYxAB",
+                        "relativePublishTimeDescription":  "11 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Nearby Cafe – A Cool Coffee Haven After Brunch\n\nWe stopped by Nearby Cafe for a post-brunch coffee and were pleasantly surprised. The café offers a quiet and cozy environment, perfect for relaxing or chatting after a meal.\n\nWe ordered the ice cube coffee latte and iced drip coffee with a hint of honey—both were refreshing and full of flavor, ideal for a hot day. The quality of the coffee really stood out, and you can tell they care about the brewing process.\n\nIf you\u0027re in the area and need a cool break with great coffee, Nearby Cafe is definitely worth a visit!",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Nearby Cafe – A Cool Coffee Haven After Brunch\n\nWe stopped by Nearby Cafe for a post-brunch coffee and were pleasantly surprised. The café offers a quiet and cozy environment, perfect for relaxing or chatting after a meal.\n\nWe ordered the ice cube coffee latte and iced drip coffee with a hint of honey—both were refreshing and full of flavor, ideal for a hot day. The quality of the coffee really stood out, and you can tell they care about the brewing process.\n\nIf you\u0027re in the area and need a cool break with great coffee, Nearby Cafe is definitely worth a visit!",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Andy Notomuljo",
+                                                  "uri":  "https://www.google.com/maps/contrib/107183143460975497272/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocLTsMoJOvTlI_6LVGoEsNkBfQY1QRPQ9_TeyRaK8mReb3DJiQ=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2025-06-22T05:41:32.796065271Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOVE4xb3dUREkyVkhaVlJrNHpNV0ZUVTJWdmMyYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOVE4xb3dUREkyVkhaVlJrNHpNV0ZUVTJWdmMyYxAB!2m1!1s0x3442a93582a57f51:0x24da884ae182533b"
+                    }
+                ]
 }

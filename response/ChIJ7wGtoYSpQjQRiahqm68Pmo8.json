@@ -1,134 +1,134 @@
-{
-  "id": "ChIJ7wGtoYSpQjQRiahqm68Pmo8",
-  "types": [
-    "brunch_restaurant",
-    "dessert_shop",
-    "confectionery",
-    "food_store",
-    "store",
-    "restaurant",
-    "food",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2595 9218",
-  "formattedAddress": "103台灣臺北市大同區斯文里大龍街85巷8號",
-  "location": {
-    "latitude": 25.0663695,
-    "longitude": 121.51632199999999
-  },
-  "rating": 4.9,
-  "websiteUri": "https://www.facebook.com/4040cafe",
-  "userRatingCount": 253,
-  "displayName": {
-    "text": "蕼蒔荳留",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJ7wGtoYSpQjQRiahqm68Pmo8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5R1JrcGlURTVNYVhKNFVEbDJVbE53WTBZM1VFRRAB",
-      "relativePublishTimeDescription": "6 個月前",
-      "rating": 5,
-      "text": {
-        "text": "一間溫暖又安靜的小店，裡面有兩隻個性迥異的貓，一隻優雅，一隻可親。餐點選項不少，我和友人點的餐點都非常好吃。店內的座位不多，靠近中午的時候，人就越來越多，幾乎滿座。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "一間溫暖又安靜的小店，裡面有兩隻個性迥異的貓，一隻優雅，一隻可親。餐點選項不少，我和友人點的餐點都非常好吃。店內的座位不多，靠近中午的時候，人就越來越多，幾乎滿座。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Marina Wang",
-        "uri": "https://www.google.com/maps/contrib/109087741686359380380/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVAR-xhc6Yp4qJdZrjOtpUieoOev7RRvxUovRtsPmQUpZNWHKaE=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2025-11-26T01:26:18.589475434Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5R1JrcGlURTVNYVhKNFVEbDJVbE53WTBZM1VFRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5R1JrcGlURTVNYVhKNFVEbDJVbE53WTBZM1VFRRAB!2m1!1s0x3442a984a1ad01ef:0x8f9a0faf9b6aa889"
-    },
-    {
-      "name": "places/ChIJ7wGtoYSpQjQRiahqm68Pmo8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twNlpEbENSVzlCUWtwc1QxcDJXRlZhY1Y4MFJtYxAB",
-      "relativePublishTimeDescription": "3 個月前",
-      "rating": 5,
-      "text": {
-        "text": "一直都沒有好好的紀錄這裡的美好，\n我幾乎每次回台北我都會來。\n這裡給我一種我夢想的家的溫暖。\n闆娘養了可愛的柚子跟金桔\n食物飲料都很美味，一切都那麼剛好。\n實在太常來了，隨手拈來附上幾張食物照。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "一直都沒有好好的紀錄這裡的美好，\n我幾乎每次回台北我都會來。\n這裡給我一種我夢想的家的溫暖。\n闆娘養了可愛的柚子跟金桔\n食物飲料都很美味，一切都那麼剛好。\n實在太常來了，隨手拈來附上幾張食物照。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Chia-Yu 'Candice' Liao",
-        "uri": "https://www.google.com/maps/contrib/113616944548305039349/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVj0tE1e7eF-6IzLNr7AAuBMhWLyL5ludySTS8RZ-rEXfYTdvdx=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2026-02-02T16:05:26.228151123Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twNlpEbENSVzlCUWtwc1QxcDJXRlZhY1Y4MFJtYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twNlpEbENSVzlCUWtwc1QxcDJXRlZhY1Y4MFJtYxAB!2m1!1s0x3442a984a1ad01ef:0x8f9a0faf9b6aa889"
-    },
-    {
-      "name": "places/ChIJ7wGtoYSpQjQRiahqm68Pmo8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21weFNHeGhNVmQ0VkVWMFNUSTJRWHBXU2xoeFpuYxAB",
-      "relativePublishTimeDescription": "8 個月前",
-      "rating": 4,
-      "text": {
-        "text": "2025/09/06   內附菜單   街口支付   390\n\n蕼蒔荳留隱身於大同區巷弄中，店內氛圍溫馨自在，處處感受得到小巧思。入座時先被可愛店貓療癒一番 🐈，隨即而來的餐點讓人食指大動。招牌瑞典魚湯香氣十足，溫潤帶點異國風情，每一口都暖心又開胃 🍲。推薦一定要試試他們的貝果，搭配手工藍莓醬，酸甜平衡、口感層次豐富，是回訪理由之一 🥯💜。德式肉腸與燕麥雜糧優格同樣表現出色，份量足且健康。西班牙家常蛋餅也很受好評，餡料實在。店員親切、服務貼心，整體用餐體驗相當舒服 😌。不論是給自己一個悠閒早午餐，還是與友共度午後，都很推薦這裡。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "2025/09/06   內附菜單   街口支付   390\n\n蕼蒔荳留隱身於大同區巷弄中，店內氛圍溫馨自在，處處感受得到小巧思。入座時先被可愛店貓療癒一番 🐈，隨即而來的餐點讓人食指大動。招牌瑞典魚湯香氣十足，溫潤帶點異國風情，每一口都暖心又開胃 🍲。推薦一定要試試他們的貝果，搭配手工藍莓醬，酸甜平衡、口感層次豐富，是回訪理由之一 🥯💜。德式肉腸與燕麥雜糧優格同樣表現出色，份量足且健康。西班牙家常蛋餅也很受好評，餡料實在。店員親切、服務貼心，整體用餐體驗相當舒服 😌。不論是給自己一個悠閒早午餐，還是與友共度午後，都很推薦這裡。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Bruce",
-        "uri": "https://www.google.com/maps/contrib/110640037665682516012/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUqM0u9y0PLDbRhG-J6aUYarcQYHW9zOLHnyd9V8wv30mrkJPJb=s128-c0x00000000-cc-rp-mo-ba8"
-      },
-      "publishTime": "2025-09-07T09:26:15.985224655Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21weFNHeGhNVmQ0VkVWMFNUSTJRWHBXU2xoeFpuYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21weFNHeGhNVmQ0VkVWMFNUSTJRWHBXU2xoeFpuYxAB!2m1!1s0x3442a984a1ad01ef:0x8f9a0faf9b6aa889"
-    },
-    {
-      "name": "places/ChIJ7wGtoYSpQjQRiahqm68Pmo8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWa1JHVkdaVFY0Y0ZweVZESlhkMXBwU1ZsTlFtYxAB",
-      "relativePublishTimeDescription": "6 個月前",
-      "rating": 5,
-      "text": {
-        "text": "老闆娘選品餐具很用心，店內有貓咪可以看。\n\n有許多異國料理可以品嚐。\n\n食物很特別，好吃，會再訪。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "老闆娘選品餐具很用心，店內有貓咪可以看。\n\n有許多異國料理可以品嚐。\n\n食物很特別，好吃，會再訪。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Hui Yi",
-        "uri": "https://www.google.com/maps/contrib/105085603275055607063/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ3Ud1XiGx6Zdm3W7uH5Wdt5WDJVZ6AnDegsuresxcSCLDMLg=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2025-11-02T12:27:48.877139875Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWa1JHVkdaVFY0Y0ZweVZESlhkMXBwU1ZsTlFtYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWa1JHVkdaVFY0Y0ZweVZESlhkMXBwU1ZsTlFtYxAB!2m1!1s0x3442a984a1ad01ef:0x8f9a0faf9b6aa889"
-    },
-    {
-      "name": "places/ChIJ7wGtoYSpQjQRiahqm68Pmo8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwNFdtMUdOVVZCZWt0cFMyRTRNRGd6YmtwWFIyYxAB",
-      "relativePublishTimeDescription": "4 個月前",
-      "rating": 5,
-      "text": {
-        "text": "在圓山站尋覓店家，一看到店名就吸引了我\n\n店小小的、整體很溫馨慢活，有貓咪超療癒\n\n一開門就有貓咪迎賓，他是隻話癆還很親人😻\n用餐時間一直都有他的聲音陪伴，超級可愛還有被療癒 ❤️\n\n餐點很好吃\n三明治的吐司烤的酥軟、搭配火腿超級好吃\n\n伯爵奶茶很香，奶香跟茶香都很濃郁，非常推薦，一壺的喝法倒出來喝很有儀式感\n杯子上的貓咪湯匙超可愛\n\n每次上台北都會想來 😻",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "在圓山站尋覓店家，一看到店名就吸引了我\n\n店小小的、整體很溫馨慢活，有貓咪超療癒\n\n一開門就有貓咪迎賓，他是隻話癆還很親人😻\n用餐時間一直都有他的聲音陪伴，超級可愛還有被療癒 ❤️\n\n餐點很好吃\n三明治的吐司烤的酥軟、搭配火腿超級好吃\n\n伯爵奶茶很香，奶香跟茶香都很濃郁，非常推薦，一壺的喝法倒出來喝很有儀式感\n杯子上的貓咪湯匙超可愛\n\n每次上台北都會想來 😻",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Tai Liu",
-        "uri": "https://www.google.com/maps/contrib/103588998327544805668/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW2ZneK-q5jFschp8mfU6WLlQuw1T9BQd5IyNaAT-9B6BSiz82L=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2026-01-03T05:41:07.766439853Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwNFdtMUdOVVZCZWt0cFMyRTRNRGd6YmtwWFIyYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwNFdtMUdOVVZCZWt0cFMyRTRNRGd6YmtwWFIyYxAB!2m1!1s0x3442a984a1ad01ef:0x8f9a0faf9b6aa889"
-    }
-  ]
+﻿{
+    "id":  "ChIJ7wGtoYSpQjQRiahqm68Pmo8",
+    "types":  [
+                  "brunch_restaurant",
+                  "dessert_shop",
+                  "confectionery",
+                  "food_store",
+                  "restaurant",
+                  "food",
+                  "store",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2595 9218",
+    "formattedAddress":  "No. 8號, Lane 85, Dalong St, Siwen Village, Datong District, Taipei City, Taiwan 103",
+    "location":  {
+                     "latitude":  25.0663695,
+                     "longitude":  121.51632199999999
+                 },
+    "rating":  4.9,
+    "websiteUri":  "https://www.facebook.com/4040cafe",
+    "userRatingCount":  256,
+    "displayName":  {
+                        "text":  "蕼蒔荳留",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJ7wGtoYSpQjQRiahqm68Pmo8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNic2NtamxnRRAB",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "A very pleasant place for coffee and light meal. The lady shop owner is very friendly, not to mention two lovely cats. Highly recommended.\n\n2024.09.19\nSecond visit today. Did enjoy the food, drink and atmosphere there.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "A very pleasant place for coffee and light meal. The lady shop owner is very friendly, not to mention two lovely cats. Highly recommended.\n\n2024.09.19\nSecond visit today. Did enjoy the food, drink and atmosphere there.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "NotQuiteAGuide",
+                                                  "uri":  "https://www.google.com/maps/contrib/114914875793526552474/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocJAYqT1aCza-Cv5M-S1C4bMI4MM82TdytYHwb1xmK7xANu2TA=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2024-09-19T05:38:13.443385Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNic2NtamxnRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNic2NtamxnRRAB!2m1!1s0x3442a984a1ad01ef:0x8f9a0faf9b6aa889"
+                    },
+                    {
+                        "name":  "places/ChIJ7wGtoYSpQjQRiahqm68Pmo8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNieFkzM1NREAE",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Food is great. It was a Friday afternoon, so it was not crowded, so I ordered a chicken meal, and the meat was well cooked and delicious. Unfortunately the cats were available.  Overall it was great experience. Recommended.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Food is great. It was a Friday afternoon, so it was not crowded, so I ordered a chicken meal, and the meat was well cooked and delicious. Unfortunately the cats were available.  Overall it was great experience. Recommended.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "doppler louis",
+                                                  "uri":  "https://www.google.com/maps/contrib/105702987318303598854/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUeGCawBkQRDPu1BfRSeeVzLlir_dCEseegPZD39OBNAcPMpQcvmw=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2024-07-29T10:53:17.251811Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNieFkzM1NREAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNieFkzM1NREAE!2m1!1s0x3442a984a1ad01ef:0x8f9a0faf9b6aa889"
+                    },
+                    {
+                        "name":  "places/ChIJ7wGtoYSpQjQRiahqm68Pmo8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5R1JrcGlURTVNYVhKNFVEbDJVbE53WTBZM1VFRRAB",
+                        "relativePublishTimeDescription":  "6 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "A warm and quiet little shop with two cats with very different personalities—one elegant, the other affectionate. The food selection is plentiful, and everything my friend and I ordered was delicious. There aren\u0027t many seats, and it gets increasingly crowded and almost full as lunchtime approaches.",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "一間溫暖又安靜的小店，裡面有兩隻個性迥異的貓，一隻優雅，一隻可親。餐點選項不少，我和友人點的餐點都非常好吃。店內的座位不多，靠近中午的時候，人就越來越多，幾乎滿座。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Marina Wang",
+                                                  "uri":  "https://www.google.com/maps/contrib/109087741686359380380/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVAR-xhc6Yp4qJdZrjOtpUieoOev7RRvxUovRtsPmQUpZNWHKaE=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-11-26T01:26:18.589475434Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5R1JrcGlURTVNYVhKNFVEbDJVbE53WTBZM1VFRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5R1JrcGlURTVNYVhKNFVEbDJVbE53WTBZM1VFRRAB!2m1!1s0x3442a984a1ad01ef:0x8f9a0faf9b6aa889"
+                    },
+                    {
+                        "name":  "places/ChIJ7wGtoYSpQjQRiahqm68Pmo8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twNlpEbENSVzlCUWtwc1QxcDJXRlZhY1Y4MFJtYxAB",
+                        "relativePublishTimeDescription":  "4 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "I haven\u0027t properly documented the beauty of this place before.\n\nI come here almost every time I return to Taipei.\n\nIt gives me the warmth of my dream home.\n\nThe owner has adorable pomelos and kumquats.\n\nThe food and drinks are delicious; everything is just perfect.\n\nI come here so often that I\u0027ve just grabbed a few photos of the food.",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "一直都沒有好好的紀錄這裡的美好，\n我幾乎每次回台北我都會來。\n這裡給我一種我夢想的家的溫暖。\n闆娘養了可愛的柚子跟金桔\n食物飲料都很美味，一切都那麼剛好。\n實在太常來了，隨手拈來附上幾張食物照。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Chia-Yu \u0027Candice\u0027 Liao",
+                                                  "uri":  "https://www.google.com/maps/contrib/113616944548305039349/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVj0tE1e7eF-6IzLNr7AAuBMhWLyL5ludySTS8RZ-rEXfYTdvdx=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2026-02-02T16:05:26.228151123Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twNlpEbENSVzlCUWtwc1QxcDJXRlZhY1Y4MFJtYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twNlpEbENSVzlCUWtwc1QxcDJXRlZhY1Y4MFJtYxAB!2m1!1s0x3442a984a1ad01ef:0x8f9a0faf9b6aa889"
+                    },
+                    {
+                        "name":  "places/ChIJ7wGtoYSpQjQRiahqm68Pmo8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21weFNHeGhNVmQ0VkVWMFNUSTJRWHBXU2xoeFpuYxAB",
+                        "relativePublishTimeDescription":  "9 months ago",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "2025/09/06 Menu included. Payment via Jiekou (street payment). 390\n\n\nHidden in the alleys of Datong District, Shishidouliu boasts a warm and inviting atmosphere with thoughtful touches throughout. Upon being seated, you\u0027re immediately soothed by the adorable shop cat 🐈, before the food begins to whet your appetite. The signature Swedish fish soup is incredibly fragrant, warm and slightly exotic, each bite comforting and appetizing 🍲. I highly recommend trying their bagels, paired with handmade blueberry sauce—a perfect balance of sweet and sour, with a rich and complex flavor profile, making it a reason to return 🥯💜. The German sausage and oat yogurt are equally excellent, generously portioned and healthy. The Spanish homemade omelet is also highly praised, with its hearty filling. The staff are friendly and attentive, making for a very comfortable dining experience 😌. Whether you\u0027re treating yourself to a leisurely brunch or spending an afternoon with friends, this is a highly recommended place.",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "2025/09/06   內附菜單   街口支付   390\n\n蕼蒔荳留隱身於大同區巷弄中，店內氛圍溫馨自在，處處感受得到小巧思。入座時先被可愛店貓療癒一番 🐈，隨即而來的餐點讓人食指大動。招牌瑞典魚湯香氣十足，溫潤帶點異國風情，每一口都暖心又開胃 🍲。推薦一定要試試他們的貝果，搭配手工藍莓醬，酸甜平衡、口感層次豐富，是回訪理由之一 🥯💜。德式肉腸與燕麥雜糧優格同樣表現出色，份量足且健康。西班牙家常蛋餅也很受好評，餡料實在。店員親切、服務貼心，整體用餐體驗相當舒服 😌。不論是給自己一個悠閒早午餐，還是與友共度午後，都很推薦這裡。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Bruce",
+                                                  "uri":  "https://www.google.com/maps/contrib/110640037665682516012/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUqM0u9y0PLDbRhG-J6aUYarcQYHW9zOLHnyd9V8wv30mrkJPJb=s128-c0x00000000-cc-rp-mo-ba8"
+                                              },
+                        "publishTime":  "2025-09-07T09:26:15.985224655Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21weFNHeGhNVmQ0VkVWMFNUSTJRWHBXU2xoeFpuYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21weFNHeGhNVmQ0VkVWMFNUSTJRWHBXU2xoeFpuYxAB!2m1!1s0x3442a984a1ad01ef:0x8f9a0faf9b6aa889"
+                    }
+                ]
 }

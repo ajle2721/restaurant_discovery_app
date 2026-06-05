@@ -1,130 +1,67 @@
-{
-  "id": "ChIJ9W7NgU2pQjQRvY_dGCYbIcA",
-  "types": [
-    "chinese_restaurant",
-    "restaurant",
-    "point_of_interest",
-    "food",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2593 0155",
-  "formattedAddress": "10491台灣臺北市中山區恆安里中山北路二段183巷1-5號",
-  "location": {
-    "latitude": 25.063858999999997,
-    "longitude": 121.52300450000001
-  },
-  "rating": 4.4,
-  "websiteUri": "https://www.facebook.com/springleek.tw",
-  "userRatingCount": 635,
-  "displayName": {
-    "text": "春韭 晴光店",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJ9W7NgU2pQjQRvY_dGCYbIcA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxaVEyTnNaRlppVmtka1EwSlBWVlJ4Ym1oWFdWRRAB",
-      "relativePublishTimeDescription": "3 個月前",
-      "rating": 5,
-      "text": {
-        "text": "如果你是老饕，這裡就是黃仁勳地圖中，除了【驥園】之外，他老人家愛來踩點的雞湯所在地，黃仁勳上回來喝雞湯太感動，留下八百元美金的小費，老闆直接裱框放在牆上讓大家欣賞「八百圖」搭配簽名，甚為有趣。\n\n晴光店的整體氛圍很棒，全是老闆收藏的老物件。每一層樓等於一個包廂，收費採人頭均價配好的新台菜料理，廚師大量使用花椒、藤椒、辣椒，讓整個餐吃起來頗有川菜既視感，但又有了川菜特有的「重油」。\n\n鮑魚火龍果玉子紙相當逗趣，口味新鮮有趣；牛肉四季豆調味相當成熟，也是白飯殺手；雞湯一鍋使用六隻母雞熬煮，毫無疑問，與【驥園】絲毫不遜色，不加一顆鹽，單純以火腿調味，相當鮮甜；避風塘龍蝦、排骨堪稱全場最驚艷，搭上白粥，只能用過癮形容味蕾的快樂。最後上水果時，首次發現有店家準備「櫻桃」來收尾，誠意足且也極用心，值得造訪！",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "如果你是老饕，這裡就是黃仁勳地圖中，除了【驥園】之外，他老人家愛來踩點的雞湯所在地，黃仁勳上回來喝雞湯太感動，留下八百元美金的小費，老闆直接裱框放在牆上讓大家欣賞「八百圖」搭配簽名，甚為有趣。\n\n晴光店的整體氛圍很棒，全是老闆收藏的老物件。每一層樓等於一個包廂，收費採人頭均價配好的新台菜料理，廚師大量使用花椒、藤椒、辣椒，讓整個餐吃起來頗有川菜既視感，但又有了川菜特有的「重油」。\n\n鮑魚火龍果玉子紙相當逗趣，口味新鮮有趣；牛肉四季豆調味相當成熟，也是白飯殺手；雞湯一鍋使用六隻母雞熬煮，毫無疑問，與【驥園】絲毫不遜色，不加一顆鹽，單純以火腿調味，相當鮮甜；避風塘龍蝦、排骨堪稱全場最驚艷，搭上白粥，只能用過癮形容味蕾的快樂。最後上水果時，首次發現有店家準備「櫻桃」來收尾，誠意足且也極用心，值得造訪！",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Kingbaby Chou",
-        "uri": "https://www.google.com/maps/contrib/100602741421065492727/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYF8QsXJN16_KCnu63DbZ110RKhImHHpKDA9VgbJ5iicHF-SEkIQ=s128-c0x00000000-cc-rp-mo-ba7"
-      },
-      "publishTime": "2026-02-02T05:45:57.566721532Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxaVEyTnNaRlppVmtka1EwSlBWVlJ4Ym1oWFdWRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxaVEyTnNaRlppVmtka1EwSlBWVlJ4Ym1oWFdWRRAB!2m1!1s0x3442a94d81cd6ef5:0xc0211b2618dd8fbd"
-    },
-    {
-      "name": "places/ChIJ9W7NgU2pQjQRvY_dGCYbIcA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKb1VrRnBRalZPUTFacFFXaFhiRGswTlVOaWEwRRAB",
-      "relativePublishTimeDescription": "3 個月前",
-      "rating": 2,
-      "text": {
-        "text": "期望過高，雞湯是招牌，其他口味設計實在太雷同！\n照片中4道菜色唯一共同點，偏甜～ 吃完完全沒有留下任何記憶點\n\n另外，在無菜單料理的餐廳，沒有每一道都解說用意做法，有點失格\n\n沒有辦法幫忙分菜這件事還可以理解，\n菜色設計食材重複性偏高，但過年期間沒有其他食材可以使用，實在不能成為理由",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "期望過高，雞湯是招牌，其他口味設計實在太雷同！\n照片中4道菜色唯一共同點，偏甜～ 吃完完全沒有留下任何記憶點\n\n另外，在無菜單料理的餐廳，沒有每一道都解說用意做法，有點失格\n\n沒有辦法幫忙分菜這件事還可以理解，\n菜色設計食材重複性偏高，但過年期間沒有其他食材可以使用，實在不能成為理由",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "陳科維",
-        "uri": "https://www.google.com/maps/contrib/110564821733217433605/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXBIYdh4GeKhGmoqilb91-PaeiDdTcI3woC0cPiMpW55Il-3G7S=s128-c0x00000000-cc-rp-mo-ba2"
-      },
-      "publishTime": "2026-02-23T03:14:33.895475537Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKb1VrRnBRalZPUTFacFFXaFhiRGswTlVOaWEwRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKb1VrRnBRalZPUTFacFFXaFhiRGswTlVOaWEwRRAB!2m1!1s0x3442a94d81cd6ef5:0xc0211b2618dd8fbd"
-    },
-    {
-      "name": "places/ChIJ9W7NgU2pQjQRvY_dGCYbIcA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsdVRXVXlSbEZFWjB0SlduRjBSM1JpU214aVFWRRAB",
-      "relativePublishTimeDescription": "5 個月前",
-      "rating": 4,
-      "text": {
-        "text": "選了3000元/人的桌菜，訂位時需要全額匯款預訂，並且餐廳現場只能付現\n\n每道料理都很好吃！最愛的應該是玫瑰牛舌下面的四季豆藤椒皮蛋涼拌菜❤️很解膩又兼具打開味蕾的配菜！\n雞湯果然名不虛傳，但是除此之外，有些瑕不掩瑜的是除了上菜時間很慢之外，上菜順序也讓人疑惑💦\n前面一道一道（牛、雞、魚）慢慢吃已經很容易飽，上到一大塊滷得軟嫩香噴的豬蹄膀，大家都只能有心無力的用眼睛享用😂更別說後面還有完全能當主食的避風塘沙母+白粥、和牛洋蔥起司焗烤銀絲捲…\n不過讓人感動的是飯後水果居然是櫻桃！！！覺得格調整個都提升了不少～如果有機會還是想去吃吃❤️",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "選了3000元/人的桌菜，訂位時需要全額匯款預訂，並且餐廳現場只能付現\n\n每道料理都很好吃！最愛的應該是玫瑰牛舌下面的四季豆藤椒皮蛋涼拌菜❤️很解膩又兼具打開味蕾的配菜！\n雞湯果然名不虛傳，但是除此之外，有些瑕不掩瑜的是除了上菜時間很慢之外，上菜順序也讓人疑惑💦\n前面一道一道（牛、雞、魚）慢慢吃已經很容易飽，上到一大塊滷得軟嫩香噴的豬蹄膀，大家都只能有心無力的用眼睛享用😂更別說後面還有完全能當主食的避風塘沙母+白粥、和牛洋蔥起司焗烤銀絲捲…\n不過讓人感動的是飯後水果居然是櫻桃！！！覺得格調整個都提升了不少～如果有機會還是想去吃吃❤️",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Sandra Tsai",
-        "uri": "https://www.google.com/maps/contrib/103106384454611083509/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjURDTum9uPDLKsIJapqdB7qSAJ8F4hiSd7HrZMLCKdUeoJTu67f=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2025-12-19T02:21:39.345045373Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsdVRXVXlSbEZFWjB0SlduRjBSM1JpU214aVFWRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsdVRXVXlSbEZFWjB0SlduRjBSM1JpU214aVFWRRAB!2m1!1s0x3442a94d81cd6ef5:0xc0211b2618dd8fbd"
-    },
-    {
-      "name": "places/ChIJ9W7NgU2pQjQRvY_dGCYbIcA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GRlRFTlZiRGxhTFhaRmJHVlBSbmg0UjJ3d1lsRRAB",
-      "relativePublishTimeDescription": "5 個月前",
-      "rating": 5,
-      "text": {
-        "text": "12/20晚餐\n著名私廚餐廳在一棟不大的房子裡面，三層樓。一定要訂位才有位置。\n環境不錯，但不是那種非常奢華的裝潢，反倒懷舊的裝置氛圍圍繞在用餐區域中。呼應主廚菜色營造一種比較傳統菜色的感覺。\n雖然菜色不是新創方式但也是改良了不少內容。感覺主廚是要推出自己拿手在色香味方面的功夫，口感上也不遑多讓，也是相當優秀。\n整體的菜色搭配的很好。有部分菜色雖不是個人親睞的口味或烹調方式但可以看出主廚的手藝及用料的確是相當用心。\n整體來說是很讚的體驗，我們12人用餐還是無法消耗這一桌的食物，服務人員還用心打包讓我們帶走。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "12/20晚餐\n著名私廚餐廳在一棟不大的房子裡面，三層樓。一定要訂位才有位置。\n環境不錯，但不是那種非常奢華的裝潢，反倒懷舊的裝置氛圍圍繞在用餐區域中。呼應主廚菜色營造一種比較傳統菜色的感覺。\n雖然菜色不是新創方式但也是改良了不少內容。感覺主廚是要推出自己拿手在色香味方面的功夫，口感上也不遑多讓，也是相當優秀。\n整體的菜色搭配的很好。有部分菜色雖不是個人親睞的口味或烹調方式但可以看出主廚的手藝及用料的確是相當用心。\n整體來說是很讚的體驗，我們12人用餐還是無法消耗這一桌的食物，服務人員還用心打包讓我們帶走。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Kenny Lin",
-        "uri": "https://www.google.com/maps/contrib/110405370554067986796/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3yaz6pQQwK7xMTOjpLsMxsARw6JDcx6NU2bsyzkpQK_9afMdq=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2025-12-23T01:39:41.629096804Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GRlRFTlZiRGxhTFhaRmJHVlBSbmg0UjJ3d1lsRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GRlRFTlZiRGxhTFhaRmJHVlBSbmg0UjJ3d1lsRRAB!2m1!1s0x3442a94d81cd6ef5:0xc0211b2618dd8fbd"
-    },
-    {
-      "name": "places/ChIJ9W7NgU2pQjQRvY_dGCYbIcA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKU1RubDBXRWhuZFRGT09FTmxhR0pYUVRReExWRRAB",
-      "relativePublishTimeDescription": "6 個月前",
-      "rating": 4,
-      "text": {
-        "text": "這是一家無菜單料理，這次我們選的是一人$3000的餐點\n座位被安排在3樓，旁邊就是洗手間，裡面居然還有浴缸，真的是太特別了！\n\n前三道冷盤系列，真的是讓我非常的驚艷！\n\n第一道是用蛋皮把鮑魚、紫蘇、火龍果跟一個脆片夾醬全部包在一起吃！\n說是包，但因為有那個脆片其實沒有辦法真的捲起來\n不過真的超好吃\n紫蘇沒有一般我們之前吃到那種很強烈的味道，他的味道反而很輕柔\n是單吃都會覺得很舒服！\n鮑魚軟嫩的程度也是剛剛好，帶著一點點細微的甜味\n\n再來，如果我沒有記錯上面是牛舌，但是最好吃的是下面的藤椒（拌著皮蛋）\n藤椒帶著淡淡的麻味，單吃都非常好吃！\n在場的人都有驚呼連連！\n\n第三道上面是牛三寶…牛肚、牛筋、牛肉（？有點忘記第三個是什麼了？）\n平常吃微辣到小辣，這個吃起來我覺得蠻辣的！能吃辣的朋友覺得還好\n下面墊的是調味過後的生白菜\n調味的剛剛好，讓人驚豔！\n\n（這兩道都是配角，讓人流連忘返，真的都蓋過了主角的光芒）\n\n再來是海參，很軟（我本來對他就是沒有興趣，在這裡吃完也沒有改變想法）\n\n雞湯是他們這邊的招牌\n據說是用五隻雞熬成湯，用這個湯再去熬這隻雞！裡面還有放豬腳魚翅香菇等等食材，熬了非常久，超大一鍋！\n底下一個爐子，但是裡面其實就放了一個燒過的炭，用的是砂鍋裝，整體而言應該算是用他自身的鍋具做保溫，而不是有加熱維持溫度，所以如果喝到太後面，確實會偏冷，就比較容易膩！\n他是很濃郁的湯，我覺得是好喝的，可是沒有到會哇的地步XD\n可能是我更喜歡味道單純一點，但是濃郁的雞湯，結果喝起來濃郁，但是味道很複雜，閉著眼睛喝，其實感受不出來他是雞湯\n\n魚做得還蠻清淡的，上面好像是紅椒，但是也是有一點辣味（越吃到後面越沒有專心聽服務生介紹菜品XD）\n調味走清淡風\n一片魚一片絲瓜，交錯排列\n\n再來附上醋吧，喝起來酸酸甜甜的\n我怕酸，我覺得他喝起來稍微超出我能接受的酸，但也甜！\n朋友覺得非常好喝，很想續杯\n\n再來就是蹄膀了！大部分的人到這裡，其實已經快飽、飽、很飽了！\n在這個狀況下看到蹄膀，其實下意識地就會覺得很膩\n我也確實沒有吃\n至於旁邊裝飾的青江菜…有一點太生了！\n\n下一道有點類似西滷肉\n我也幾乎沒有吃\n其實有點不太了解…..前面走非常精緻、突出、特別的風格，後面卻是有辦桌的感覺！\n看了就沒有很想動筷子\n\n再來是粥配螃蟹\n很奇怪的是，附上的剃螃蟹餐具很少，夾螃蟹的只有一個\n但確實願意勤奮拆螃蟹的人不多！\n我不確定是螃蟹的品種問題還是料理方式，總之 肉都一根一根黏在殼上，非常難弄下來。是你已經看到他一根一根插在那裡，拿著工具挖他都很難下來的那種狀態。殼很硬，所以其實很難直接用嘴巴吃\n粥有淡淡的鹹度很清爽，建議加一點螃蟹裡面的蒜酥\n不過蒜酥的大蒜味很濃郁，鹹度也比較高，可能真的只要一點點可以提味；我加的稍微多了一點，覺得味道太濃有一點可惜了粥\n\n銀絲捲中間包的是起司跟牛肉！(可惜照片刪了也沒上傳成功)\n沒有仔細聽介紹，好像牛肉是和牛，但是我沒有很確定\n炸的很好吃，不會有油膩感、起司有畫龍點睛的效果、牛肉偶爾會有筋油（就是咬起來會有一塊偏硬的感覺，我不喜歡這個）\n\n甜點是桃膠桂花銀耳枸杞（大概是這幾個食材吧，有一點不確定），銀耳是細細脆脆的， 個人偏好軟的銀耳\n調味不甜、淡淡的….\n\n最後上的是葡萄(一整串葡萄配上很古色古香的底座~照片沒上傳成功)\n中心很軟、皮很薄、水分多、很甜很好吃\n\n整體吃下來環境很好，總共有三層樓，一層一張桌子，都是10人的位子\n坐在3樓的好處是沒有任何人會經過\n有專屬的服務生上菜、介紹\n\n至於菜色就如同前面介紹的，前三樣真的非常的棒、非常的好吃，讓我很想再來\n但後面就有一種越來越不怎麼樣的感覺\n或許是食材本身比較昂貴、工比較細緻，但我確實沒有吃出驚喜或滿足感！\n\n前三道讓我覺得我在私廚、在高級餐廳，後面讓我覺得我在吃辦桌！\n\n當然吃飽絕對沒問題，光那個蹄膀就知道這一餐一定是可以吃的很飽的\n我們也打包了很多菜\n10人一桌，這讓定位門檻高了許多（對我而言啦）\n\n總之是一個讓我很難下定決心再次訂位的一家餐廳！\n晚上用餐時間到九點（應該說他九點一定會收拾，但並沒有告知幾點一定要走人，我們九點離開的時候還有別桌在聊天）",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "這是一家無菜單料理，這次我們選的是一人$3000的餐點\n座位被安排在3樓，旁邊就是洗手間，裡面居然還有浴缸，真的是太特別了！\n\n前三道冷盤系列，真的是讓我非常的驚艷！\n\n第一道是用蛋皮把鮑魚、紫蘇、火龍果跟一個脆片夾醬全部包在一起吃！\n說是包，但因為有那個脆片其實沒有辦法真的捲起來\n不過真的超好吃\n紫蘇沒有一般我們之前吃到那種很強烈的味道，他的味道反而很輕柔\n是單吃都會覺得很舒服！\n鮑魚軟嫩的程度也是剛剛好，帶著一點點細微的甜味\n\n再來，如果我沒有記錯上面是牛舌，但是最好吃的是下面的藤椒（拌著皮蛋）\n藤椒帶著淡淡的麻味，單吃都非常好吃！\n在場的人都有驚呼連連！\n\n第三道上面是牛三寶…牛肚、牛筋、牛肉（？有點忘記第三個是什麼了？）\n平常吃微辣到小辣，這個吃起來我覺得蠻辣的！能吃辣的朋友覺得還好\n下面墊的是調味過後的生白菜\n調味的剛剛好，讓人驚豔！\n\n（這兩道都是配角，讓人流連忘返，真的都蓋過了主角的光芒）\n\n再來是海參，很軟（我本來對他就是沒有興趣，在這裡吃完也沒有改變想法）\n\n雞湯是他們這邊的招牌\n據說是用五隻雞熬成湯，用這個湯再去熬這隻雞！裡面還有放豬腳魚翅香菇等等食材，熬了非常久，超大一鍋！\n底下一個爐子，但是裡面其實就放了一個燒過的炭，用的是砂鍋裝，整體而言應該算是用他自身的鍋具做保溫，而不是有加熱維持溫度，所以如果喝到太後面，確實會偏冷，就比較容易膩！\n他是很濃郁的湯，我覺得是好喝的，可是沒有到會哇的地步XD\n可能是我更喜歡味道單純一點，但是濃郁的雞湯，結果喝起來濃郁，但是味道很複雜，閉著眼睛喝，其實感受不出來他是雞湯\n\n魚做得還蠻清淡的，上面好像是紅椒，但是也是有一點辣味（越吃到後面越沒有專心聽服務生介紹菜品XD）\n調味走清淡風\n一片魚一片絲瓜，交錯排列\n\n再來附上醋吧，喝起來酸酸甜甜的\n我怕酸，我覺得他喝起來稍微超出我能接受的酸，但也甜！\n朋友覺得非常好喝，很想續杯\n\n再來就是蹄膀了！大部分的人到這裡，其實已經快飽、飽、很飽了！\n在這個狀況下看到蹄膀，其實下意識地就會覺得很膩\n我也確實沒有吃\n至於旁邊裝飾的青江菜…有一點太生了！\n\n下一道有點類似西滷肉\n我也幾乎沒有吃\n其實有點不太了解…..前面走非常精緻、突出、特別的風格，後面卻是有辦桌的感覺！\n看了就沒有很想動筷子\n\n再來是粥配螃蟹\n很奇怪的是，附上的剃螃蟹餐具很少，夾螃蟹的只有一個\n但確實願意勤奮拆螃蟹的人不多！\n我不確定是螃蟹的品種問題還是料理方式，總之 肉都一根一根黏在殼上，非常難弄下來。是你已經看到他一根一根插在那裡，拿著工具挖他都很難下來的那種狀態。殼很硬，所以其實很難直接用嘴巴吃\n粥有淡淡的鹹度很清爽，建議加一點螃蟹裡面的蒜酥\n不過蒜酥的大蒜味很濃郁，鹹度也比較高，可能真的只要一點點可以提味；我加的稍微多了一點，覺得味道太濃有一點可惜了粥\n\n銀絲捲中間包的是起司跟牛肉！(可惜照片刪了也沒上傳成功)\n沒有仔細聽介紹，好像牛肉是和牛，但是我沒有很確定\n炸的很好吃，不會有油膩感、起司有畫龍點睛的效果、牛肉偶爾會有筋油（就是咬起來會有一塊偏硬的感覺，我不喜歡這個）\n\n甜點是桃膠桂花銀耳枸杞（大概是這幾個食材吧，有一點不確定），銀耳是細細脆脆的， 個人偏好軟的銀耳\n調味不甜、淡淡的….\n\n最後上的是葡萄(一整串葡萄配上很古色古香的底座~照片沒上傳成功)\n中心很軟、皮很薄、水分多、很甜很好吃\n\n整體吃下來環境很好，總共有三層樓，一層一張桌子，都是10人的位子\n坐在3樓的好處是沒有任何人會經過\n有專屬的服務生上菜、介紹\n\n至於菜色就如同前面介紹的，前三樣真的非常的棒、非常的好吃，讓我很想再來\n但後面就有一種越來越不怎麼樣的感覺\n或許是食材本身比較昂貴、工比較細緻，但我確實沒有吃出驚喜或滿足感！\n\n前三道讓我覺得我在私廚、在高級餐廳，後面讓我覺得我在吃辦桌！\n\n當然吃飽絕對沒問題，光那個蹄膀就知道這一餐一定是可以吃的很飽的\n我們也打包了很多菜\n10人一桌，這讓定位門檻高了許多（對我而言啦）\n\n總之是一個讓我很難下定決心再次訂位的一家餐廳！\n晚上用餐時間到九點（應該說他九點一定會收拾，但並沒有告知幾點一定要走人，我們九點離開的時候還有別桌在聊天）",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Jo",
-        "uri": "https://www.google.com/maps/contrib/110391292619881228191/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMbZkSnnSzOb3ZmV6o4u14Rmjc8_fZOVayi6QeK2t4UU8ezxrb=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2025-11-17T01:02:34.060775961Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKU1RubDBXRWhuZFRGT09FTmxhR0pYUVRReExWRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKU1RubDBXRWhuZFRGT09FTmxhR0pYUVRReExWRRAB!2m1!1s0x3442a94d81cd6ef5:0xc0211b2618dd8fbd"
-    }
-  ]
+﻿{
+    "id":  "ChIJ9W7NgU2pQjQRvY_dGCYbIcA",
+    "types":  [
+                  "chinese_restaurant",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2593 0155",
+    "formattedAddress":  "No. 1-5, Lane 183, Section 2, Zhongshan N Rd, Heng\u0027an Village, Zhongshan District, Taipei City, Taiwan 10491",
+    "location":  {
+                     "latitude":  25.063858999999997,
+                     "longitude":  121.52300450000001
+                 },
+    "rating":  4.4,
+    "websiteUri":  "https://www.facebook.com/springleek.tw",
+    "userRatingCount":  639,
+    "displayName":  {
+                        "text":  "Springleek Qingguang Branch",
+                        "languageCode":  "en"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJ9W7NgU2pQjQRvY_dGCYbIcA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmc2ZuOXZnRRAB",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "A fine dining restaurant that needs reservations in advance and deposits.\n\nThe food is Chinese Taiwanese with fusion feel. They don’t serve wine so you need to get your own and there will be a cleaning fee for each glass used or per bottle basis.\n\nThe deco is very interesting as it retains the old tradition Taiwanese houses and structures with modern settings.\n\nThe food was all fine and beautifully presented. Everything tasted good, especially the Chicken Soup, very satisfying. The fruits and vinegar drinks were more ordinary.\n\nThey were quite strict about the dining time limits of 2 hours, so you need to be prepared and be mindful about it.\n\nYou can bring your own wine and they will provide glasses but not serve you., which means you need to do it yourselves.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "A fine dining restaurant that needs reservations in advance and deposits.\n\nThe food is Chinese Taiwanese with fusion feel. They don’t serve wine so you need to get your own and there will be a cleaning fee for each glass used or per bottle basis.\n\nThe deco is very interesting as it retains the old tradition Taiwanese houses and structures with modern settings.\n\nThe food was all fine and beautifully presented. Everything tasted good, especially the Chicken Soup, very satisfying. The fruits and vinegar drinks were more ordinary.\n\nThey were quite strict about the dining time limits of 2 hours, so you need to be prepared and be mindful about it.\n\nYou can bring your own wine and they will provide glasses but not serve you., which means you need to do it yourselves.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "don low",
+                                                  "uri":  "https://www.google.com/maps/contrib/111956324532010905226/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjU2RNErwfnr7kddcjnFV8YNw_UDLseBMQ8q-tyfQ1G-xy4iwTQ=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2024-12-30T04:05:53.447266Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmc2ZuOXZnRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmc2ZuOXZnRRAB!2m1!1s0x3442a94d81cd6ef5:0xc0211b2618dd8fbd"
+                    },
+                    {
+                        "name":  "places/ChIJ9W7NgU2pQjQRvY_dGCYbIcA/reviews/ChZDSUhNMG9nS0VJQ0FnTURvazRMc0lREAE",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "Enjoyed nice service and food.  Loved the hearty chicken soup and was impressed by the flaky garlic pork with porridge！ If the fried wagyu bread changed to plain one would be probably more appreciated！",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Enjoyed nice service and food.  Loved the hearty chicken soup and was impressed by the flaky garlic pork with porridge！ If the fried wagyu bread changed to plain one would be probably more appreciated！",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "I CHEN CHEN",
+                                                  "uri":  "https://www.google.com/maps/contrib/104982034042835154111/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocKlHtJoP8_SYOf-Kp5CVGXfBfb3czg2ri5_baTncyrHxw3NDg=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-04-28T12:29:13.123406Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvazRMc0lREAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvazRMc0lREAE!2m1!1s0x3442a94d81cd6ef5:0xc0211b2618dd8fbd"
+                    }
+                ]
 }

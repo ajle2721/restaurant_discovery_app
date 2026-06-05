@@ -1,132 +1,130 @@
-{
-  "id": "ChIJ-dD7-s-pQjQRqw4JZutsb5A",
-  "types": [
-    "japanese_restaurant",
-    "restaurant",
-    "food",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2383 0030",
-  "formattedAddress": "108412台灣台北市万华区仁德里桂林路1號4樓",
-  "location": {
-    "latitude": 25.037703,
-    "longitude": 121.5061818
-  },
-  "rating": 4.7,
-  "websiteUri": "https://www.watami.com.tw/nikuteiwatami-new-2",
-  "userRatingCount": 1006,
-  "displayName": {
-    "text": "和民 手作廚房 桂林家樂福店",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJ-dD7-s-pQjQRqw4JZutsb5A/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paM2RtTmlVRWswYnpKMmRYVXhXV3gzVlVkMVQxRRAB",
-      "relativePublishTimeDescription": "4 個月前",
-      "rating": 5,
-      "text": {
-        "text": "東西選擇多，味道也都不錯，鍋的份量比較小、但有放題的湯與白飯，能夠吃的非常飽😋\n兒童友善，有送圖畫紙與彩虹筆，也有兒童餐。\n今天的服務員薛海也非常客氣與友善，非常感謝❤️",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "東西選擇多，味道也都不錯，鍋的份量比較小、但有放題的湯與白飯，能夠吃的非常飽😋\n兒童友善，有送圖畫紙與彩虹筆，也有兒童餐。\n今天的服務員薛海也非常客氣與友善，非常感謝❤️",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "愛樂芬",
-        "uri": "https://www.google.com/maps/contrib/115012524327368198820/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6Py1M0T_j7RBhMjOa2kqTbwj2VlHcr3LmEUSzE9Icqmnhr4g=s128-c0x00000000-cc-rp-mo-ba2"
-      },
-      "publishTime": "2026-01-18T06:03:21.365554588Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paM2RtTmlVRWswYnpKMmRYVXhXV3gzVlVkMVQxRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paM2RtTmlVRWswYnpKMmRYVXhXV3gzVlVkMVQxRRAB!2m1!1s0x3442a9cffafbd0f9:0x906f6ceb66090eab"
-    },
-    {
-      "name": "places/ChIJ-dD7-s-pQjQRqw4JZutsb5A/reviews/Ci9DQUlRQUNvZENodHljRjlvT25VdFFuVnFkak42ZDBWMlkySlBhMmxuVWxOclNrRRAB",
-      "relativePublishTimeDescription": "4 個月前",
-      "rating": 4,
-      "text": {
-        "text": "20260111\n不錯吃😋\n滿足2人套餐\n(吃到飽：白飯，味噌湯，霜淇淋，飲料吧)",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "20260111\n不錯吃😋\n滿足2人套餐\n(吃到飽：白飯，味噌湯，霜淇淋，飲料吧)",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Maggie",
-        "uri": "https://www.google.com/maps/contrib/111129190521240327047/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUtikEw7Q9tRWE_LDIHSX5rWE1O-NwR7_H5Z1GJ3eQzkjJlPIEv=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2026-01-12T22:42:48.851006683Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25VdFFuVnFkak42ZDBWMlkySlBhMmxuVWxOclNrRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25VdFFuVnFkak42ZDBWMlkySlBhMmxuVWxOclNrRRAB!2m1!1s0x3442a9cffafbd0f9:0x906f6ceb66090eab"
-    },
-    {
-      "name": "places/ChIJ-dD7-s-pQjQRqw4JZutsb5A/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xacFRsVnhRbk5hWW10blpGODRkRE5pVDBsc2NGRRAB",
-      "relativePublishTimeDescription": "3 個月前",
-      "rating": 1,
-      "text": {
-        "text": "今晚點的日本和牛鍋，隨餐附的果凍還以為是甜點，結果都吃完（覺得湯頭有點單薄），吃一口~~靠~~怎麼果凍是鹹的，跟服務人員詢問，結果是湯頭~~是湯頭~~是湯頭，當場傻眼，服務人員送餐來怎麼什麼都沒說，說一句“您的和牛鍋”然後人就走了！ 第一次來店消費覺得你們的教育訓練很糟糕，不會再來了，有損你們身為“日商”的商譽！",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "今晚點的日本和牛鍋，隨餐附的果凍還以為是甜點，結果都吃完（覺得湯頭有點單薄），吃一口~~靠~~怎麼果凍是鹹的，跟服務人員詢問，結果是湯頭~~是湯頭~~是湯頭，當場傻眼，服務人員送餐來怎麼什麼都沒說，說一句“您的和牛鍋”然後人就走了！ 第一次來店消費覺得你們的教育訓練很糟糕，不會再來了，有損你們身為“日商”的商譽！",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "ШИ ЮАНЬ ХУАНГ",
-        "uri": "https://www.google.com/maps/contrib/108067563874130455121/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUoT6t2TZyCpOkeSeELqZn16qFOiFhUkJTSteN6g0OrWe8yeHxV=s128-c0x00000000-cc-rp-mo-ba4"
-      },
-      "publishTime": "2026-02-08T10:19:30.159029343Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xacFRsVnhRbk5hWW10blpGODRkRE5pVDBsc2NGRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xacFRsVnhRbk5hWW10blpGODRkRE5pVDBsc2NGRRAB!2m1!1s0x3442a9cffafbd0f9:0x906f6ceb66090eab"
-    },
-    {
-      "name": "places/ChIJ-dD7-s-pQjQRqw4JZutsb5A/reviews/Ci9DQUlRQUNvZENodHljRjlvT25BM1prTlllR3QyUTFwTU5VMWFaelJJVG1aMlZtYxAB",
-      "relativePublishTimeDescription": "10 個月前",
-      "rating": 4,
-      "text": {
-        "text": "❤️口味中規中矩，但龍蝦鍋物裡的蝦子🦐龍蝦🦞很新鮮，殼很好剝離👍龍蝦海味定食附餐🉑選飯🍚或麵🍜既然店內有白飯可自己裝，建議可選麵🤣這樣飯跟麵都吃的到😋霜淇淋🍦白飯🍚味噌湯內用都自取無限暢吃暢飲😆\n\n💚點了一份龍蝦海味定食$469（湯頭有昆布跟味噌可選）\n另ㄧ份蒲燒鰻魚日本和🐮重定食$429\n可另加購生菜🥬或碳酸汽水飲料暢飲🥤\n\n🅿️在西門家樂福4樓美食街，家樂褔停車位多，有停車結帳時可跟店員說，會給停車折抵券，若在家樂福購物🛍️也會給停車折抵券",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "❤️口味中規中矩，但龍蝦鍋物裡的蝦子🦐龍蝦🦞很新鮮，殼很好剝離👍龍蝦海味定食附餐🉑選飯🍚或麵🍜既然店內有白飯可自己裝，建議可選麵🤣這樣飯跟麵都吃的到😋霜淇淋🍦白飯🍚味噌湯內用都自取無限暢吃暢飲😆\n\n💚點了一份龍蝦海味定食$469（湯頭有昆布跟味噌可選）\n另ㄧ份蒲燒鰻魚日本和🐮重定食$429\n可另加購生菜🥬或碳酸汽水飲料暢飲🥤\n\n🅿️在西門家樂福4樓美食街，家樂褔停車位多，有停車結帳時可跟店員說，會給停車折抵券，若在家樂福購物🛍️也會給停車折抵券",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "emma韓國艾多美阿拉比卡香醇咖啡",
-        "uri": "https://www.google.com/maps/contrib/111509653716236051371/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV4fMEUvOVGF8jPaEPdWvIOIU7slSD8T5wruXkAoHcQ0TKaPRg=s128-c0x00000000-cc-rp-mo-ba8"
-      },
-      "publishTime": "2025-07-19T17:45:52.226962735Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25BM1prTlllR3QyUTFwTU5VMWFaelJJVG1aMlZtYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25BM1prTlllR3QyUTFwTU5VMWFaelJJVG1aMlZtYxAB!2m1!1s0x3442a9cffafbd0f9:0x906f6ceb66090eab"
-    },
-    {
-      "name": "places/ChIJ-dD7-s-pQjQRqw4JZutsb5A/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xneFN6RjFURXcyYm0xa2VuRjJaMlZSTlZwV1NtYxAB",
-      "relativePublishTimeDescription": "10 個月前",
-      "rating": 2,
-      "text": {
-        "text": "鰻魚好吃，這邊用餐不用服務費👍🏻\n點購定食，白飯、味噌湯與冰淇淋可以免費無限使用。\n\n用餐時間：2025/07/12",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "鰻魚好吃，這邊用餐不用服務費👍🏻\n點購定食，白飯、味噌湯與冰淇淋可以免費無限使用。\n\n用餐時間：2025/07/12",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "李宗錡",
-        "uri": "https://www.google.com/maps/contrib/114829943593385231580/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXzEiktLCmIaGKDQ4TENauYHamGbKYaC9rkJ4KR3MjmE_VSihrT=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2025-07-16T23:45:49.651000307Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xneFN6RjFURXcyYm0xa2VuRjJaMlZSTlZwV1NtYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xneFN6RjFURXcyYm0xa2VuRjJaMlZSTlZwV1NtYxAB!2m1!1s0x3442a9cffafbd0f9:0x906f6ceb66090eab"
-    }
-  ],
-  "menuForChildren": true,
-  "goodForChildren": true
+﻿{
+    "id":  "ChIJ-dD7-s-pQjQRqw4JZutsb5A",
+    "types":  [
+                  "japanese_restaurant",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2383 0030",
+    "formattedAddress":  "108412, Taiwan, Taipei City, Wanhua District, Rende Village, Guilin Rd, 1號4樓",
+    "location":  {
+                     "latitude":  25.037703,
+                     "longitude":  121.5061818
+                 },
+    "rating":  4.7,
+    "websiteUri":  "https://www.watami.com.tw/nikuteiwatami-new-2",
+    "userRatingCount":  1027,
+    "displayName":  {
+                        "text":  "和民 手作廚房 桂林家樂福店",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJ-dD7-s-pQjQRqw4JZutsb5A/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJaFlLbFV3EAE",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Food were all good and tasty except that miso soup was too bland and ice cream not creamy.\n\nPrices are good value.\n\nThere were only 2 service staff but they were helpful and quick to respond. Thank you, I\u0027ve enjoyed my meal very much.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Food were all good and tasty except that miso soup was too bland and ice cream not creamy.\n\nPrices are good value.\n\nThere were only 2 service staff but they were helpful and quick to respond. Thank you, I\u0027ve enjoyed my meal very much.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Doreen Leong",
+                                                  "uri":  "https://www.google.com/maps/contrib/101040773668104905824/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXab68RsxZfwGV-vLDxasUfH3oAVMi5nTXeGLK5ckn-J7XwkcZI=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-04-03T11:21:27.171308Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJaFlLbFV3EAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJaFlLbFV3EAE!2m1!1s0x3442a9cffafbd0f9:0x906f6ceb66090eab"
+                    },
+                    {
+                        "name":  "places/ChIJ-dD7-s-pQjQRqw4JZutsb5A/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1VFdtVkJiREZ3VmpOUFFsQk1RalI1VmxwZlQwRRAB",
+                        "relativePublishTimeDescription":  "6 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Best Watami branch outside of Japan. The Unagi set, Buta \u0026 Gyu set was awesome! Must come and try!",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Best Watami branch outside of Japan. The Unagi set, Buta \u0026 Gyu set was awesome! Must come and try!",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Leslie Lim",
+                                                  "uri":  "https://www.google.com/maps/contrib/116490585100410577945/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocL88D1WmzYpAMtBWDUkghtuy6aqCKngUg_2KfXDANeDFiZFmUQ=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-11-21T03:51:47.402881442Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1VFdtVkJiREZ3VmpOUFFsQk1RalI1VmxwZlQwRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1VFdtVkJiREZ3VmpOUFFsQk1RalI1VmxwZlQwRRAB!2m1!1s0x3442a9cffafbd0f9:0x906f6ceb66090eab"
+                    },
+                    {
+                        "name":  "places/ChIJ-dD7-s-pQjQRqw4JZutsb5A/reviews/ChdDSUhNMG9nS0VJQ0FnTURRNzVQQXZnRRAB",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Food was great and the desserts were included. However, it was the exceptional service that impressed me. Waiter 薛海was excellent in serving my mother and my aunt. He was not only patient, he was humble and humorous. I want to sincerely appreciate him for making our dinner experience memorable. Thank you 薛海， you are one of a kind. 👍❤️",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Food was great and the desserts were included. However, it was the exceptional service that impressed me. Waiter 薛海was excellent in serving my mother and my aunt. He was not only patient, he was humble and humorous. I want to sincerely appreciate him for making our dinner experience memorable. Thank you 薛海， you are one of a kind. 👍❤️",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "JQ L.",
+                                                  "uri":  "https://www.google.com/maps/contrib/112592308685816314473/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocJJO_rFPnRDZHYTcDacjrqiHd5bfz8X-ZjIMNiObUtPXcsLBg=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2025-03-15T13:16:21.102135Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRNzVQQXZnRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRNzVQQXZnRRAB!2m1!1s0x3442a9cffafbd0f9:0x906f6ceb66090eab"
+                    },
+                    {
+                        "name":  "places/ChIJ-dD7-s-pQjQRqw4JZutsb5A/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJdUptT09nEAE",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Food are very delicious. I’d recommend this restaurant.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Food are very delicious. I’d recommend this restaurant.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Hyeji Yoo",
+                                                  "uri":  "https://www.google.com/maps/contrib/104046125287069570741/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocL-oHho94vqGFrZZV6aA5bbtFXK7ZFybEPFitzFD4KgRTSpPw=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2025-03-30T04:54:05.239990Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJdUptT09nEAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJdUptT09nEAE!2m1!1s0x3442a9cffafbd0f9:0x906f6ceb66090eab"
+                    },
+                    {
+                        "name":  "places/ChIJ-dD7-s-pQjQRqw4JZutsb5A/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWMFQxSjFiMjlZVGtrNFdsQjVVbEJwVDA4eVltYxAB",
+                        "relativePublishTimeDescription":  "4 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Nice",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Nice",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "阿勇仔",
+                                                  "uri":  "https://www.google.com/maps/contrib/114902577542612030714/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocL3FrJIXKzgeFPLCn85Q6jbr0n4thyHlsWxPtwYwinXEheRUA=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2026-02-04T04:41:13.094149749Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWMFQxSjFiMjlZVGtrNFdsQjVVbEJwVDA4eVltYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWMFQxSjFiMjlZVGtrNFdsQjVVbEJwVDA4eVltYxAB!2m1!1s0x3442a9cffafbd0f9:0x906f6ceb66090eab"
+                    }
+                ]
 }

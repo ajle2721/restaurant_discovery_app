@@ -1,129 +1,66 @@
-{
-  "id": "ChIJFefrWyqvQjQRh4kPxEG1nRQ",
-  "types": [
-    "brunch_restaurant",
-    "restaurant",
-    "food",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 906 531 286",
-  "formattedAddress": "111台灣臺北市士林區百齡里華齡街70號",
-  "location": {
-    "latitude": 25.0844049,
-    "longitude": 121.51947500000001
-  },
-  "rating": 4.3,
-  "userRatingCount": 206,
-  "displayName": {
-    "text": "小菠蘿3號店-複合式早午餐",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJFefrWyqvQjQRh4kPxEG1nRQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURiMTRUU3lBRRAB",
-      "relativePublishTimeDescription": "1 年前",
-      "rating": 4,
-      "text": {
-        "text": "東西好吃\n不貴cp值高\n煎餃用炸的好吃\n古早味麵配半熟蛋也好吃\n環保概念店\n蛋餅也很好吃\n本來要給5顆星\n但怕太多人知道\n會搶走附近人吃早餐的權利\n可以來吃吃",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "東西好吃\n不貴cp值高\n煎餃用炸的好吃\n古早味麵配半熟蛋也好吃\n環保概念店\n蛋餅也很好吃\n本來要給5顆星\n但怕太多人知道\n會搶走附近人吃早餐的權利\n可以來吃吃",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "羅世棠（MC羅哥）",
-        "uri": "https://www.google.com/maps/contrib/100512515922160324515/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXVFLi93cUFc9hwH-kxiOiRBKhUpzfG0EyKyxHfXnup78Zsc2Mz=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2024-08-10T10:16:42.307404Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURiMTRUU3lBRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURiMTRUU3lBRRAB!2m1!1s0x3442af2a5bebe715:0x149db541c40f8987"
-    },
-    {
-      "name": "places/ChIJFefrWyqvQjQRh4kPxEG1nRQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURCcmVmUGlRRRAB",
-      "relativePublishTimeDescription": "3 年前",
-      "rating": 5,
-      "text": {
-        "text": "小菠蘿3號店，\n口味不錯的中平價早餐。\n芋見起司50NTD吐司鬆軟，芋泥厚足。\n義大利肉醬麵條偏軟55NTD，口味較淡。\n荷包蛋15NTD，\n黑芝麻牛奶20NTD，\n玉米蛋餅35NTD。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "小菠蘿3號店，\n口味不錯的中平價早餐。\n芋見起司50NTD吐司鬆軟，芋泥厚足。\n義大利肉醬麵條偏軟55NTD，口味較淡。\n荷包蛋15NTD，\n黑芝麻牛奶20NTD，\n玉米蛋餅35NTD。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Richard Chien",
-        "uri": "https://www.google.com/maps/contrib/108640562004956874863/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVecuL7oGC9dreg65GUiOw7UHstdZ70pVRZsqXU2uwIYGC80xjU=s128-c0x00000000-cc-rp-mo-ba8"
-      },
-      "publishTime": "2023-02-11T18:54:12.350386Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURCcmVmUGlRRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURCcmVmUGlRRRAB!2m1!1s0x3442af2a5bebe715:0x149db541c40f8987"
-    },
-    {
-      "name": "places/ChIJFefrWyqvQjQRh4kPxEG1nRQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3akp1QXVRRRAB",
-      "relativePublishTimeDescription": "1 年前",
-      "rating": 4,
-      "text": {
-        "text": "餐點好好吃 招牌肉蛋土司 炒麵 生意很好 新品上市紅糖Q糯米第一次嚐鮮 大推👍",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "餐點好好吃 招牌肉蛋土司 炒麵 生意很好 新品上市紅糖Q糯米第一次嚐鮮 大推👍",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Brad Chou",
-        "uri": "https://www.google.com/maps/contrib/117376272638826265477/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6AiSQ-It3ANaC7mNcGdv9qVdMq81h_cQHj7IMGT8vyVRM8KKm_g=s128-c0x00000000-cc-rp-mo-ba8"
-      },
-      "publishTime": "2025-03-24T04:16:53.956357Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3akp1QXVRRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3akp1QXVRRRAB!2m1!1s0x3442af2a5bebe715:0x149db541c40f8987"
-    },
-    {
-      "name": "places/ChIJFefrWyqvQjQRh4kPxEG1nRQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURoMXE2S3dRRRAB",
-      "relativePublishTimeDescription": "3 年前",
-      "rating": 4,
-      "text": {
-        "text": "1.餐廳環境 - 店內整潔\n2.服務態度 - 不錯\n3.餐點 - 各式早餐\n4.特色推薦 - 蛋餅味道還不錯 單點的雞排比較可惜 炸的皮太厚 店內座位多。有機會再二訪",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "1.餐廳環境 - 店內整潔\n2.服務態度 - 不錯\n3.餐點 - 各式早餐\n4.特色推薦 - 蛋餅味道還不錯 單點的雞排比較可惜 炸的皮太厚 店內座位多。有機會再二訪",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "yi",
-        "uri": "https://www.google.com/maps/contrib/112769875686149618314/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKQKt1_bpoQe8ZHzbQWUE51V0ugfMu8bX0x2rMmQYjj84Xj_w=s128-c0x00000000-cc-rp-mo-ba7"
-      },
-      "publishTime": "2023-03-08T06:04:01.648884Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURoMXE2S3dRRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURoMXE2S3dRRRAB!2m1!1s0x3442af2a5bebe715:0x149db541c40f8987"
-    },
-    {
-      "name": "places/ChIJFefrWyqvQjQRh4kPxEG1nRQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUdllQSVpnEAE",
-      "relativePublishTimeDescription": "2 年前",
-      "rating": 4,
-      "text": {
-        "text": "餐點雖然跟外面早餐店味道差不多，價格稍高，但內用有文青風的裝潢，冷氣和舒適的用餐環境，蘿蔔糕和豬排煎的很漂亮，東西都還不錯吃，內用採QR點餐，也可到櫃台點餐，假日人蠻多的，現場位置有限不ㄧ定有位置",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "餐點雖然跟外面早餐店味道差不多，價格稍高，但內用有文青風的裝潢，冷氣和舒適的用餐環境，蘿蔔糕和豬排煎的很漂亮，東西都還不錯吃，內用採QR點餐，也可到櫃台點餐，假日人蠻多的，現場位置有限不ㄧ定有位置",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "阿昌",
-        "uri": "https://www.google.com/maps/contrib/118298174000953158216/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLG2B5OxF-ahtAAmKGhgunsVXHyyCh6p0q0EMzKQn00EQVS=s128-c0x00000000-cc-rp-mo-ba4"
-      },
-      "publishTime": "2024-05-18T07:54:33.720327Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNUdllQSVpnEAE&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNUdllQSVpnEAE!2m1!1s0x3442af2a5bebe715:0x149db541c40f8987"
-    }
-  ]
+﻿{
+    "id":  "ChIJFefrWyqvQjQRh4kPxEG1nRQ",
+    "types":  [
+                  "brunch_restaurant",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 906 531 286",
+    "formattedAddress":  "No. 70號, Hualing St, Bailing Village, Shilin District, Taipei City, Taiwan 111",
+    "location":  {
+                     "latitude":  25.0844049,
+                     "longitude":  121.51947500000001
+                 },
+    "rating":  4.3,
+    "userRatingCount":  206,
+    "displayName":  {
+                        "text":  "小菠蘿3號店-複合式早午餐",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJFefrWyqvQjQRh4kPxEG1nRQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURiMTRUU3lBRRAB",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "The food is delicious, reasonably priced, and great value. The fried dumplings are especially good. The traditional noodles with a soft-boiled egg are also delicious. It\u0027s an eco-friendly concept store, and the egg pancakes are also very tasty. I was going to give it 5 stars, but I\u0027m worried that too many people will find out and take away the opportunity for nearby residents to have breakfast. You should definitely check it out!",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "東西好吃\n不貴cp值高\n煎餃用炸的好吃\n古早味麵配半熟蛋也好吃\n環保概念店\n蛋餅也很好吃\n本來要給5顆星\n但怕太多人知道\n會搶走附近人吃早餐的權利\n可以來吃吃",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "羅世棠（MC羅哥）",
+                                                  "uri":  "https://www.google.com/maps/contrib/100512515922160324515/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXVFLi93cUFc9hwH-kxiOiRBKhUpzfG0EyKyxHfXnup78Zsc2Mz=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2024-08-10T10:16:42.307404Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURiMTRUU3lBRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURiMTRUU3lBRRAB!2m1!1s0x3442af2a5bebe715:0x149db541c40f8987"
+                    },
+                    {
+                        "name":  "places/ChIJFefrWyqvQjQRh4kPxEG1nRQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3akp1QXVRRRAB",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "The food was delicious! Their signature meat and egg toast and fried noodles were especially popular. The business was booming. Their new brown sugar chewy glutinous rice was a first-time try – highly recommended! 👍",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "餐點好好吃 招牌肉蛋土司 炒麵 生意很好 新品上市紅糖Q糯米第一次嚐鮮 大推👍",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Brad Chou",
+                                                  "uri":  "https://www.google.com/maps/contrib/117376272638826265477/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjW6AiSQ-It3ANaC7mNcGdv9qVdMq81h_cQHj7IMGT8vyVRM8KKm_g=s128-c0x00000000-cc-rp-mo-ba8"
+                                              },
+                        "publishTime":  "2025-03-24T04:16:53.956357Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3akp1QXVRRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3akp1QXVRRRAB!2m1!1s0x3442af2a5bebe715:0x149db541c40f8987"
+                    }
+                ]
 }

@@ -1,130 +1,130 @@
-{
-  "id": "ChIJSxaBohGvQjQRLvt37mEHcoY",
-  "types": [
-    "brunch_restaurant",
-    "restaurant",
-    "food",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2823 0009",
-  "formattedAddress": "112台灣臺北市北投區東華里立農街二段261號",
-  "location": {
-    "latitude": 25.1189499,
-    "longitude": 121.51456459999999
-  },
-  "rating": 4.5,
-  "websiteUri": "https://iding.tw/stores/ff0d5e1a/menu",
-  "userRatingCount": 148,
-  "displayName": {
-    "text": "晨堡Brunch",
-    "languageCode": "zh"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJSxaBohGvQjQRLvt37mEHcoY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pjM1NWcExXVTh4ZEVSZmNXbGhXR2hyUmpocFVHYxAB",
-      "relativePublishTimeDescription": "6 個月前",
-      "rating": 4,
-      "text": {
-        "text": "雞腿帕瑪森很好吃，清爽不油膩\n鮪魚蛋餅是濕潤的口感，非常喜歡 👍",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "雞腿帕瑪森很好吃，清爽不油膩\n鮪魚蛋餅是濕潤的口感，非常喜歡 👍",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "語",
-        "uri": "https://www.google.com/maps/contrib/100121618378142657345/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXCYzqe_-gEDqv-stTdiLUML2-pOeGz5GXJUkVroA-13RfXrhkeUA=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2025-11-16T12:52:25.972879843Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pjM1NWcExXVTh4ZEVSZmNXbGhXR2hyUmpocFVHYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pjM1NWcExXVTh4ZEVSZmNXbGhXR2hyUmpocFVHYxAB!2m1!1s0x3442af11a281164b:0x86720761ee77fb2e"
-    },
-    {
-      "name": "places/ChIJSxaBohGvQjQRLvt37mEHcoY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taRVNIVmxNVXQ0YzFCUFUxVjVSVVZFT1U0dFlVRRAB",
-      "relativePublishTimeDescription": "9 個月前",
-      "rating": 4,
-      "text": {
-        "text": "招牌總匯不推，吃起來加工味重\n但很推鬆到泥吐司！肉鬆很香，芋泥很綿密！",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "招牌總匯不推，吃起來加工味重\n但很推鬆到泥吐司！肉鬆很香，芋泥很綿密！",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "楚珩霈",
-        "uri": "https://www.google.com/maps/contrib/105660971629792667391/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVouvHau0RzisMT-wmD-EwL2k-zoeMtOZ0dNS5R6dm840icpjRF=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2025-08-11T08:53:59.235769970Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taRVNIVmxNVXQ0YzFCUFUxVjVSVVZFT1U0dFlVRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taRVNIVmxNVXQ0YzFCUFUxVjVSVVZFT1U0dFlVRRAB!2m1!1s0x3442af11a281164b:0x86720761ee77fb2e"
-    },
-    {
-      "name": "places/ChIJSxaBohGvQjQRLvt37mEHcoY/reviews/ChdDSUhNMG9nS0VJQ0FnSURmcXBqb3hRRRAB",
-      "relativePublishTimeDescription": "1 年前",
-      "rating": 4,
-      "text": {
-        "text": "2025/1路過\n\n附近很多早餐店，路過被菜單吸引就入座。\n店內乾淨明亮，適合跟朋友來吃順便聊天，採QR code點餐，這次點了六號黑堡，有驚艷到，很好吃，蝦餅外酥內嫩，搭配漢堡皮很不錯，下次會想再來嘗試其他口味。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "2025/1路過\n\n附近很多早餐店，路過被菜單吸引就入座。\n店內乾淨明亮，適合跟朋友來吃順便聊天，採QR code點餐，這次點了六號黑堡，有驚艷到，很好吃，蝦餅外酥內嫩，搭配漢堡皮很不錯，下次會想再來嘗試其他口味。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Lulu",
-        "uri": "https://www.google.com/maps/contrib/114398821210644521212/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZSmmACPUGltDiydFXkwtihvbbjqPE4tnLeBZ2kb4sdeJ56plB=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2025-01-05T12:47:52.369444Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmcXBqb3hRRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmcXBqb3hRRRAB!2m1!1s0x3442af11a281164b:0x86720761ee77fb2e"
-    },
-    {
-      "name": "places/ChIJSxaBohGvQjQRLvt37mEHcoY/reviews/ChZDSUhNMG9nS0VJYVkxTDdZNktLalBBEAE",
-      "relativePublishTimeDescription": "1 年前",
-      "rating": 5,
-      "text": {
-        "text": "絕對的寶藏店舖，pandabox 25%折扣的外送訂單。到手後漢堡皮在內含生菜和番茄醬的情況下不會濕濕軟軟，蝦排幾乎和漢堡麵包一樣大，每一口都咬得到。薯條雖然口味普通，有灑上胡椒粉也有附上番茄醬，細心度滿分！紅茶也不會太甜，比美芝城微糖還不甜，很符合我的口味。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "絕對的寶藏店舖，pandabox 25%折扣的外送訂單。到手後漢堡皮在內含生菜和番茄醬的情況下不會濕濕軟軟，蝦排幾乎和漢堡麵包一樣大，每一口都咬得到。薯條雖然口味普通，有灑上胡椒粉也有附上番茄醬，細心度滿分！紅茶也不會太甜，比美芝城微糖還不甜，很符合我的口味。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "HL LIU",
-        "uri": "https://www.google.com/maps/contrib/118177624593375253157/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLRzDIFM04avhx7z1BhXPeEt1O7Z1iwZ9ni4UjOa3XCbL2etw=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2025-05-19T03:14:44.649099Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJYVkxTDdZNktLalBBEAE&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJYVkxTDdZNktLalBBEAE!2m1!1s0x3442af11a281164b:0x86720761ee77fb2e"
-    },
-    {
-      "name": "places/ChIJSxaBohGvQjQRLvt37mEHcoY/reviews/ChZDSUhNMG9nS0VJQ0FnSURWNUx6OER3EAE",
-      "relativePublishTimeDescription": "2 年前",
-      "rating": 4,
-      "text": {
-        "text": "洋蔥鮪魚帕瑪森\n燻雞蛋乳酪餅\n半熟蛋\n煎餃\n\n喜歡帕瑪森，輕食早餐吃完很舒服，店裡的辣椒也很不錯👍🏻\n煎餃很普通\n燻雞蛋乳酪餅單吃完有點空虛，但味道是好的，建議搭配其他小點或飲料～\n\n附近不好停車，走路或機車會方便許多，不然就要停到陽明大學裡面，中醫藥研究所那邊，然後走小側門來吃",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "洋蔥鮪魚帕瑪森\n燻雞蛋乳酪餅\n半熟蛋\n煎餃\n\n喜歡帕瑪森，輕食早餐吃完很舒服，店裡的辣椒也很不錯👍🏻\n煎餃很普通\n燻雞蛋乳酪餅單吃完有點空虛，但味道是好的，建議搭配其他小點或飲料～\n\n附近不好停車，走路或機車會方便許多，不然就要停到陽明大學裡面，中醫藥研究所那邊，然後走小側門來吃",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "YIC CH",
-        "uri": "https://www.google.com/maps/contrib/113261974120658328466/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUyJe6_HCcaHCQiZ3-RckQcQY-CgVy4W9ao8o8ahwV4OnAmdw1_=s128-c0x00000000-cc-rp-mo-ba4"
-      },
-      "publishTime": "2023-12-11T04:07:25.821329Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURWNUx6OER3EAE&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURWNUx6OER3EAE!2m1!1s0x3442af11a281164b:0x86720761ee77fb2e"
-    }
-  ]
+﻿{
+    "id":  "ChIJSxaBohGvQjQRLvt37mEHcoY",
+    "types":  [
+                  "brunch_restaurant",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2823 0009",
+    "formattedAddress":  "No. 261號, Section 2, Linong St, Donghua Village, Beitou District, Taipei City, Taiwan 112",
+    "location":  {
+                     "latitude":  25.1189499,
+                     "longitude":  121.51456459999999
+                 },
+    "rating":  4.5,
+    "websiteUri":  "https://iding.tw/stores/ff0d5e1a/menu",
+    "userRatingCount":  148,
+    "displayName":  {
+                        "text":  "晨堡Brunch",
+                        "languageCode":  "zh"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJSxaBohGvQjQRLvt37mEHcoY/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnaEptcHlnRRAB",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Had a great brunch there. The staffs and the service are brilliantly impressive.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Had a great brunch there. The staffs and the service are brilliantly impressive.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Cao Sang Phan (SangPhan94)",
+                                                  "uri":  "https://www.google.com/maps/contrib/103335675574635637145/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUmmnzQF03Muym_GRdwOfcNtphQh-05S8lxSwMNwkLq2F3a6JQ=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2025-02-14T05:20:12.870755Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnaEptcHlnRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnaEptcHlnRRAB!2m1!1s0x3442af11a281164b:0x86720761ee77fb2e"
+                    },
+                    {
+                        "name":  "places/ChIJSxaBohGvQjQRLvt37mEHcoY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pjM1NWcExXVTh4ZEVSZmNXbGhXR2hyUmpocFVHYxAB",
+                        "relativePublishTimeDescription":  "6 months ago",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "The chicken leg Parmesan was delicious, refreshing and not greasy at all. The tuna omelet had a moist texture, which I really liked. 👍",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "雞腿帕瑪森很好吃，清爽不油膩\n鮪魚蛋餅是濕潤的口感，非常喜歡 👍",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "語",
+                                                  "uri":  "https://www.google.com/maps/contrib/100121618378142657345/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXCYzqe_-gEDqv-stTdiLUML2-pOeGz5GXJUkVroA-13RfXrhkeUA=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-11-16T12:52:25.972879843Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pjM1NWcExXVTh4ZEVSZmNXbGhXR2hyUmpocFVHYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pjM1NWcExXVTh4ZEVSZmNXbGhXR2hyUmpocFVHYxAB!2m1!1s0x3442af11a281164b:0x86720761ee77fb2e"
+                    },
+                    {
+                        "name":  "places/ChIJSxaBohGvQjQRLvt37mEHcoY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taRVNIVmxNVXQ0YzFCUFUxVjVSVVZFT1U0dFlVRRAB",
+                        "relativePublishTimeDescription":  "9 months ago",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "I wouldn\u0027t recommend the signature platter; it tastes too processed.\n\nHowever, I highly recommend the fluffy taro toast! The pork floss is very fragrant, and the taro paste is very smooth!",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "招牌總匯不推，吃起來加工味重\n但很推鬆到泥吐司！肉鬆很香，芋泥很綿密！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "楚珩霈",
+                                                  "uri":  "https://www.google.com/maps/contrib/105660971629792667391/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVouvHau0RzisMT-wmD-EwL2k-zoeMtOZ0dNS5R6dm840icpjRF=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-08-11T08:53:59.235769970Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taRVNIVmxNVXQ0YzFCUFUxVjVSVVZFT1U0dFlVRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taRVNIVmxNVXQ0YzFCUFUxVjVSVVZFT1U0dFlVRRAB!2m1!1s0x3442af11a281164b:0x86720761ee77fb2e"
+                    },
+                    {
+                        "name":  "places/ChIJSxaBohGvQjQRLvt37mEHcoY/reviews/ChdDSUhNMG9nS0VJQ0FnSURmcXBqb3hRRRAB",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "Passing by in 2025/1\n\nThere are many breakfast shops nearby. I was drawn in by the menu and decided to sit down.\n\nThe restaurant is clean and bright, suitable for eating and chatting with friends. Ordering is done via QR code. This time I ordered the No. 6 Black Burger, and I was pleasantly surprised. It was delicious; the shrimp cake was crispy on the outside and tender on the inside, a great combination with the burger bun. I\u0027d like to come back and try other flavors next time.",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "2025/1路過\n\n附近很多早餐店，路過被菜單吸引就入座。\n店內乾淨明亮，適合跟朋友來吃順便聊天，採QR code點餐，這次點了六號黑堡，有驚艷到，很好吃，蝦餅外酥內嫩，搭配漢堡皮很不錯，下次會想再來嘗試其他口味。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Lulu",
+                                                  "uri":  "https://www.google.com/maps/contrib/114398821210644521212/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXZSmmACPUGltDiydFXkwtihvbbjqPE4tnLeBZ2kb4sdeJ56plB=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-01-05T12:47:52.369444Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmcXBqb3hRRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmcXBqb3hRRRAB!2m1!1s0x3442af11a281164b:0x86720761ee77fb2e"
+                    },
+                    {
+                        "name":  "places/ChIJSxaBohGvQjQRLvt37mEHcoY/reviews/ChZDSUhNMG9nS0VJYVkxTDdZNktLalBBEAE",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "This is an absolute gem of a restaurant! I got a 25% discount on delivery through Pandabox. The burger bun arrived perfectly cooked, not soggy even with lettuce and ketchup inside. The shrimp patty was almost as big as the bun, so you could get a satisfying bite every time. The fries, while just okay, were thoughtfully sprinkled with pepper and served with ketchup! The black tea wasn\u0027t too sweet either, even less sweet than the slightly sweetened version from Mei Chi City, which suited my taste perfectly.",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "絕對的寶藏店舖，pandabox 25%折扣的外送訂單。到手後漢堡皮在內含生菜和番茄醬的情況下不會濕濕軟軟，蝦排幾乎和漢堡麵包一樣大，每一口都咬得到。薯條雖然口味普通，有灑上胡椒粉也有附上番茄醬，細心度滿分！紅茶也不會太甜，比美芝城微糖還不甜，很符合我的口味。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "HL LIU",
+                                                  "uri":  "https://www.google.com/maps/contrib/118177624593375253157/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocLRzDIFM04avhx7z1BhXPeEt1O7Z1iwZ9ni4UjOa3XCbL2etw=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-05-19T03:14:44.649099Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJYVkxTDdZNktLalBBEAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJYVkxTDdZNktLalBBEAE!2m1!1s0x3442af11a281164b:0x86720761ee77fb2e"
+                    }
+                ]
 }

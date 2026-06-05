@@ -1,128 +1,107 @@
-{
-  "id": "ChIJCSZY80GrQjQRq34Y_zQ0h14",
-  "types": [
-    "restaurant",
-    "food",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2709 8613",
-  "formattedAddress": "106台灣臺北市大安區延吉街233-4號",
-  "location": {
-    "latitude": 25.0367729,
-    "longitude": 121.55566839999999
-  },
-  "rating": 4.6,
-  "userRatingCount": 699,
-  "displayName": {
-    "text": "玖仰茶食文化 jiuyang(仁愛延吉)",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJCSZY80GrQjQRq34Y_zQ0h14/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GemRHczFUMnh4YUZsNUxWSjZWV0U0YzNSSU1VRRAB",
-      "relativePublishTimeDescription": "3 個月前",
-      "rating": 4,
-      "text": {
-        "text": "附近捷運需要走一段路\n餐點賢食有些普通\n點了茶泡飯表現平平無奇\n\n至於布丁是認真好吃\n那淡淡茶香跟綿密口感\n真的是讚👍\n\n茶類表現也挺好\n奶茶的茶味真的濃郁\n\n下次來點飲料跟布丁即可\n還是很推薦大家的",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "附近捷運需要走一段路\n餐點賢食有些普通\n點了茶泡飯表現平平無奇\n\n至於布丁是認真好吃\n那淡淡茶香跟綿密口感\n真的是讚👍\n\n茶類表現也挺好\n奶茶的茶味真的濃郁\n\n下次來點飲料跟布丁即可\n還是很推薦大家的",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Jimmy Cho",
-        "uri": "https://www.google.com/maps/contrib/103232028321487975054/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU1rfLGl9TnekK7ky8RScbwUKKYPZMNWLmV_Ko1xZwf65S_Jl1n=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2026-02-06T11:42:08.012597367Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GemRHczFUMnh4YUZsNUxWSjZWV0U0YzNSSU1VRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GemRHczFUMnh4YUZsNUxWSjZWV0U0YzNSSU1VRRAB!2m1!1s0x3442ab41f3582609:0x5e873434ff187eab"
-    },
-    {
-      "name": "places/ChIJCSZY80GrQjQRq34Y_zQ0h14/reviews/Ci9DQUlRQUNvZENodHljRjlvT214NFZFcE9UbnBHVkZwdmJtbG9hM0ZVUVZaSFluYxAB",
-      "relativePublishTimeDescription": "6 個月前",
-      "rating": 5,
-      "text": {
-        "text": "座位算多，有一樓跟B1，有很多學生來唸書。\n布丁三種口味都好吃！飲料茶味重很讚！鹹食部分普通～",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "座位算多，有一樓跟B1，有很多學生來唸書。\n布丁三種口味都好吃！飲料茶味重很讚！鹹食部分普通～",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Kiki Yeh",
-        "uri": "https://www.google.com/maps/contrib/109217798237884969442/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUCgYodXeWDP9Pq9Uhe-HpvZWscVez_hfLxXnvIP5eHnYDQ_R0=s128-c0x00000000-cc-rp-mo-ba2"
-      },
-      "publishTime": "2025-11-25T09:20:19.023494756Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214NFZFcE9UbnBHVkZwdmJtbG9hM0ZVUVZaSFluYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214NFZFcE9UbnBHVkZwdmJtbG9hM0ZVUVZaSFluYxAB!2m1!1s0x3442ab41f3582609:0x5e873434ff187eab"
-    },
-    {
-      "name": "places/ChIJCSZY80GrQjQRq34Y_zQ0h14/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xVMFkycFNZV3Q0UTI0MVZqYzFaamxoV2xSVlNFRRAB",
-      "relativePublishTimeDescription": "3 個月前",
-      "rating": 3,
-      "text": {
-        "text": "點了外送，水餃油到一個令人髮指的地步，而且內餡的豬肉有羶味吃起來很不舒服，雖然附上的醬料是有點麻辣香味的醬油膏還是無法掩蓋。水果茶還不錯，但依照建議點半糖太甜了；而且裡面有產品介紹頁面上沒提到的晶球，我個人不喜歡。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "點了外送，水餃油到一個令人髮指的地步，而且內餡的豬肉有羶味吃起來很不舒服，雖然附上的醬料是有點麻辣香味的醬油膏還是無法掩蓋。水果茶還不錯，但依照建議點半糖太甜了；而且裡面有產品介紹頁面上沒提到的晶球，我個人不喜歡。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Vivianne Kuo",
-        "uri": "https://www.google.com/maps/contrib/115472890586177563988/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWlvQ82TNORQXWH8ayiFkQuBqTimKWtfCtPmIukYrptIXJbsjQ=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2026-01-31T12:31:53.560215345Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xVMFkycFNZV3Q0UTI0MVZqYzFaamxoV2xSVlNFRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xVMFkycFNZV3Q0UTI0MVZqYzFaamxoV2xSVlNFRRAB!2m1!1s0x3442ab41f3582609:0x5e873434ff187eab"
-    },
-    {
-      "name": "places/ChIJCSZY80GrQjQRq34Y_zQ0h14/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ORU5VbHBhRzVtWlZwM2NFMXFjazE0V1RRd2RHYxAB",
-      "relativePublishTimeDescription": "5 個月前",
-      "rating": 4,
-      "text": {
-        "text": "鹹食普通\n好吃的可能是飲料跟甜點，但剛好我們都沒有點\n不過店員跟環境都還蠻不錯的",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "鹹食普通\n好吃的可能是飲料跟甜點，但剛好我們都沒有點\n不過店員跟環境都還蠻不錯的",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "艾森豪",
-        "uri": "https://www.google.com/maps/contrib/106883506473853649285/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZbsMEFbgZ5K3WPqkkLXrKnyd6aMO6JP1afp94nJZV_o8IfX6u=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2025-12-04T13:55:12.776543646Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ORU5VbHBhRzVtWlZwM2NFMXFjazE0V1RRd2RHYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ORU5VbHBhRzVtWlZwM2NFMXFjazE0V1RRd2RHYxAB!2m1!1s0x3442ab41f3582609:0x5e873434ff187eab"
-    },
-    {
-      "name": "places/ChIJCSZY80GrQjQRq34Y_zQ0h14/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WMFdGQkNTa3BMV0c5elZUSkphR3hIYUZabWVFRRAB",
-      "relativePublishTimeDescription": "3 個月前",
-      "rating": 5,
-      "text": {
-        "text": "排骨沙拉🥗\n排骨可以再嫩一點\n蔬菜份量很多\n米血糕也不錯\n\n店內自助點餐\n座位不少",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "排骨沙拉🥗\n排骨可以再嫩一點\n蔬菜份量很多\n米血糕也不錯\n\n店內自助點餐\n座位不少",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "木木君",
-        "uri": "https://www.google.com/maps/contrib/108892289162431087658/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJwiV-dFojn3_dh-NO94krBaZgft6paUdjr_JgDhT0DX_sLo1Y=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2026-02-13T11:32:57.920203205Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WMFdGQkNTa3BMV0c5elZUSkphR3hIYUZabWVFRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WMFdGQkNTa3BMV0c5elZUSkphR3hIYUZabWVFRRAB!2m1!1s0x3442ab41f3582609:0x5e873434ff187eab"
-    }
-  ]
+﻿{
+    "id":  "ChIJCSZY80GrQjQRq34Y_zQ0h14",
+    "types":  [
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2709 8613",
+    "formattedAddress":  "No. 233-4號, Yanji St, 大安區 Da’an District, Taipei City, Taiwan 106",
+    "location":  {
+                     "latitude":  25.0367729,
+                     "longitude":  121.55566839999999
+                 },
+    "rating":  4.6,
+    "userRatingCount":  700,
+    "displayName":  {
+                        "text":  "玖仰茶食文化 jiuyang(仁愛延吉)",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJCSZY80GrQjQRq34Y_zQ0h14/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KdVltRjNORk5rUlVSc09GWkJZakpsY0RaSVZuYxAB",
+                        "relativePublishTimeDescription":  "4 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Really nice Taiwanese cafe/restaurant with a large tea selection and dishes made using tea. The dishes are on the slightly smaller side but are reasonably priced for the type of restaurant. The environment is suitable for a meal or to get work done on a laptop.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Really nice Taiwanese cafe/restaurant with a large tea selection and dishes made using tea. The dishes are on the slightly smaller side but are reasonably priced for the type of restaurant. The environment is suitable for a meal or to get work done on a laptop.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Natalie Kruzz",
+                                                  "uri":  "https://www.google.com/maps/contrib/113822396064738294112/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWko4w-Yhd25F1Wi5ovL3nxSpV2AGPei8V1qiEwFSsCGSrdK42Zcw=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2026-01-24T13:13:21.238146075Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KdVltRjNORk5rUlVSc09GWkJZakpsY0RaSVZuYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KdVltRjNORk5rUlVSc09GWkJZakpsY0RaSVZuYxAB!2m1!1s0x3442ab41f3582609:0x5e873434ff187eab"
+                    },
+                    {
+                        "name":  "places/ChIJCSZY80GrQjQRq34Y_zQ0h14/reviews/ChZDSUhNMG9nS0VJQ0FnTURnZ1pHaFZBEAE",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "I like the inner decoration of the small tea shop. Cozzy and serene, Morden and comfortable.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "I like the inner decoration of the small tea shop. Cozzy and serene, Morden and comfortable.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Robert Sun",
+                                                  "uri":  "https://www.google.com/maps/contrib/105735213357484924802/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWbrOxq5U85Laeq8WZ94G8TF279SsvWXXGQwRxmr0p4uAlMo0g=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2025-02-25T04:54:23.345106Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnZ1pHaFZBEAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnZ1pHaFZBEAE!2m1!1s0x3442ab41f3582609:0x5e873434ff187eab"
+                    },
+                    {
+                        "name":  "places/ChIJCSZY80GrQjQRq34Y_zQ0h14/reviews/ChdDSUhNMG9nS0VJQ0FnSURmbHFtVWtnRRAB",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Oolong milk tea and Taro milk tea are amazing. Bobas are amazing, super fresh every time we’ve been\n\nTaro milk deserves special recognition, super fresh, thick and creamy.\n\nCaramel pudding really rich and thick too, very tasty.\n\nFood is average, would avoid eating actual food here, stick to their dessert",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Oolong milk tea and Taro milk tea are amazing. Bobas are amazing, super fresh every time we’ve been\n\nTaro milk deserves special recognition, super fresh, thick and creamy.\n\nCaramel pudding really rich and thick too, very tasty.\n\nFood is average, would avoid eating actual food here, stick to their dessert",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Taylor Jefferson",
+                                                  "uri":  "https://www.google.com/maps/contrib/112777318603393384245/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocLtQRZwurf-FZFZwPUjdRT3J3WEMJ1aoWVgpJi6gz_F14X4uA=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2025-01-06T07:07:41.590589Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmbHFtVWtnRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmbHFtVWtnRRAB!2m1!1s0x3442ab41f3582609:0x5e873434ff187eab"
+                    },
+                    {
+                        "name":  "places/ChIJCSZY80GrQjQRq34Y_zQ0h14/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzME1QS3hBRRAB",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  2,
+                        "text":  {
+                                     "text":  "The restaurant was quite dirty. The noodle was extremely mid, and the 滷味 braised plate was also way below average. Do not recommend.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "The restaurant was quite dirty. The noodle was extremely mid, and the 滷味 braised plate was also way below average. Do not recommend.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "chang duncan",
+                                                  "uri":  "https://www.google.com/maps/contrib/116252933244755678549/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUWoQE_8QyACSfFmxx3kQbjNWuc4HBjUFnY2mVXFqpAESuyTGNk=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2024-11-11T10:39:47.860707Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzME1QS3hBRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzME1QS3hBRRAB!2m1!1s0x3442ab41f3582609:0x5e873434ff187eab"
+                    }
+                ]
 }

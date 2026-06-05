@@ -1,132 +1,69 @@
-{
-  "id": "ChIJJ_ukvpapQjQRIAN7BSlzwiA",
-  "types": [
-    "book_store",
-    "food_store",
-    "store",
-    "restaurant",
-    "point_of_interest",
-    "food",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2562 6162",
-  "formattedAddress": "104台灣臺北市中山區民安里長安西路12號",
-  "location": {
-    "latitude": 25.049854600000003,
-    "longitude": 121.52105399999999
-  },
-  "rating": 4.8,
-  "websiteUri": "https://www.instagram.com/manmanchih/?hl=zh-tw",
-  "userRatingCount": 687,
-  "displayName": {
-    "text": "漫漫喫",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJJ_ukvpapQjQRIAN7BSlzwiA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxb01YWjNOM2xtV1Mxb1kzRXdibEpTZEZGUU5WRRAB",
-      "relativePublishTimeDescription": "4 個月前",
-      "rating": 5,
-      "text": {
-        "text": "飯好好吃、漫畫挺多的有經典的、新出的都有，一杯飲料就能坐一天，但是我午餐晚餐都在這裡吃，想用消費支持一下，畢竟維持這麼多書很不容易，要打掃也累死，店沒有收服務費。餐點自取清理，但店員有空時也會幫忙，我來了一次就變成常常來了。\n2026.1.23今天又來光顧了，點了重乳酪蛋糕、布朗尼，重乳酪很香軟滑好吃，布朗尼口感是札實但軟軟的巧克力很香。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "飯好好吃、漫畫挺多的有經典的、新出的都有，一杯飲料就能坐一天，但是我午餐晚餐都在這裡吃，想用消費支持一下，畢竟維持這麼多書很不容易，要打掃也累死，店沒有收服務費。餐點自取清理，但店員有空時也會幫忙，我來了一次就變成常常來了。\n2026.1.23今天又來光顧了，點了重乳酪蛋糕、布朗尼，重乳酪很香軟滑好吃，布朗尼口感是札實但軟軟的巧克力很香。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Manman",
-        "uri": "https://www.google.com/maps/contrib/116538389510470484090/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV-b0jl1KoUfG6iJVQAkkp0YPQpvQi4n63xqfmdVQi7WDapdXdy=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2026-01-23T11:28:48.725172139Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxb01YWjNOM2xtV1Mxb1kzRXdibEpTZEZGUU5WRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxb01YWjNOM2xtV1Mxb1kzRXdibEpTZEZGUU5WRRAB!2m1!1s0x3442a996bea4fb27:0x20c27329057b0320"
-    },
-    {
-      "name": "places/ChIJJ_ukvpapQjQRIAN7BSlzwiA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKb2EyVldkR3gwZG1aVGRWTlBaVlJzVDJ0WmFYYxAB",
-      "relativePublishTimeDescription": "6 個月前",
-      "rating": 5,
-      "text": {
-        "text": "難得有一家可以看漫畫的地方，是過往的租書店改變的，只要低消一杯飲料就可以待在這好幾個小時，幾乎每次來都客滿，生意非常好，靠近門口的大桌子還有提供插座可以使用筆電，樓上有包廂可以看DVD影片，一樓有提供漫畫、小說、雜誌可以閱讀，算是台北市難得的地方，值得推薦的好地方~~",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "難得有一家可以看漫畫的地方，是過往的租書店改變的，只要低消一杯飲料就可以待在這好幾個小時，幾乎每次來都客滿，生意非常好，靠近門口的大桌子還有提供插座可以使用筆電，樓上有包廂可以看DVD影片，一樓有提供漫畫、小說、雜誌可以閱讀，算是台北市難得的地方，值得推薦的好地方~~",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "張強強",
-        "uri": "https://www.google.com/maps/contrib/117105535269811551056/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXYt_QQvfdfBsxtuURHTpwsv6Abo3-WNqUs2DDsrWoN8Rup8FJ-=s128-c0x00000000-cc-rp-mo-ba8"
-      },
-      "publishTime": "2025-11-14T06:37:45.649640570Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKb2EyVldkR3gwZG1aVGRWTlBaVlJzVDJ0WmFYYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKb2EyVldkR3gwZG1aVGRWTlBaVlJzVDJ0WmFYYxAB!2m1!1s0x3442a996bea4fb27:0x20c27329057b0320"
-    },
-    {
-      "name": "places/ChIJJ_ukvpapQjQRIAN7BSlzwiA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WVVV6ZFdNa0pyYjBRMU0ybGpNbEpVU21GcmIwRRAB",
-      "relativePublishTimeDescription": "4 個月前",
-      "rating": 5,
-      "text": {
-        "text": "很舒服友善的店家，點杯飲品就能盡享雜誌漫畫～中午就要去不然下午一位難求",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "很舒服友善的店家，點杯飲品就能盡享雜誌漫畫～中午就要去不然下午一位難求",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Cookie Chang",
-        "uri": "https://www.google.com/maps/contrib/101696524032821035194/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW9RIMG3aCKtqLJ244DQOLi76OYm_pwypFstL4xT-H9MdlwpOK-=s128-c0x00000000-cc-rp-mo-ba4"
-      },
-      "publishTime": "2025-12-31T10:43:58.919400833Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WVVV6ZFdNa0pyYjBRMU0ybGpNbEpVU21GcmIwRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WVVV6ZFdNa0pyYjBRMU0ybGpNbEpVU21GcmIwRRAB!2m1!1s0x3442a996bea4fb27:0x20c27329057b0320"
-    },
-    {
-      "name": "places/ChIJJ_ukvpapQjQRIAN7BSlzwiA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xnNVUzbzJjblZ1Y1hWVE0wUnhOSEJrV1cxNk5YYxAB",
-      "relativePublishTimeDescription": "7 個月前",
-      "rating": 5,
-      "text": {
-        "text": "低消一杯飲料的漫畫店，空間很安靜，看了好幾本漫畫覺得很開心🙂‍↕️🥳還有很新的漫畫可以看！看了最近很愛的鏈鋸人😍\n\n應該是只能付現金，還有二樓包廂要另外計費，不過二樓放漫畫的空間很悶😢",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "低消一杯飲料的漫畫店，空間很安靜，看了好幾本漫畫覺得很開心🙂‍↕️🥳還有很新的漫畫可以看！看了最近很愛的鏈鋸人😍\n\n應該是只能付現金，還有二樓包廂要另外計費，不過二樓放漫畫的空間很悶😢",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Lee Minyi",
-        "uri": "https://www.google.com/maps/contrib/105183347442499829704/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWYvvZJFK2KAiK9NI9l88GuXXKrJpn-QWE91oZbQZSi4Irrr1dE=s128-c0x00000000-cc-rp-mo-ba7"
-      },
-      "publishTime": "2025-10-13T08:21:50.602501800Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xnNVUzbzJjblZ1Y1hWVE0wUnhOSEJrV1cxNk5YYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xnNVUzbzJjblZ1Y1hWVE0wUnhOSEJrV1cxNk5YYxAB!2m1!1s0x3442a996bea4fb27:0x20c27329057b0320"
-    },
-    {
-      "name": "places/ChIJJ_ukvpapQjQRIAN7BSlzwiA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1UlZXaGxabGRvY0dodWRITnNhbU5PTFRSeWRrRRAB",
-      "relativePublishTimeDescription": "8 個月前",
-      "rating": 5,
-      "text": {
-        "text": "非常用心的漫畫簡餐店\n吃到的食物都比預期好吃很多\n不只是調理包或是微波食品而已\n但是個人不喜帕尼尼太乾\n棉花糖什麼奶茶超好喝🥰\n很喜歡店裡安靜氛圍～",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "非常用心的漫畫簡餐店\n吃到的食物都比預期好吃很多\n不只是調理包或是微波食品而已\n但是個人不喜帕尼尼太乾\n棉花糖什麼奶茶超好喝🥰\n很喜歡店裡安靜氛圍～",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "C",
-        "uri": "https://www.google.com/maps/contrib/114492010099655815020/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJpxso4FlzE02OWIcsFQZWmuKxsQy5YnuRZt_146BPDkqWRuw=s128-c0x00000000-cc-rp-mo-ba7"
-      },
-      "publishTime": "2025-09-10T06:38:31.043854632Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1UlZXaGxabGRvY0dodWRITnNhbU5PTFRSeWRrRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1UlZXaGxabGRvY0dodWRITnNhbU5PTFRSeWRrRRAB!2m1!1s0x3442a996bea4fb27:0x20c27329057b0320"
-    }
-  ]
+﻿{
+    "id":  "ChIJJ_ukvpapQjQRIAN7BSlzwiA",
+    "types":  [
+                  "book_store",
+                  "food_store",
+                  "restaurant",
+                  "food",
+                  "store",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2562 6162",
+    "formattedAddress":  "No. 12號, Chang\u0027an W Rd, Min\u0027an Village, Zhongshan District, Taipei City, Taiwan 104",
+    "location":  {
+                     "latitude":  25.049854600000003,
+                     "longitude":  121.52105399999999
+                 },
+    "rating":  4.8,
+    "websiteUri":  "https://www.instagram.com/manmanchih/?hl=zh-tw",
+    "userRatingCount":  691,
+    "displayName":  {
+                        "text":  "漫漫喫",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJJ_ukvpapQjQRIAN7BSlzwiA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxWFQwNXhiRWRxUjNaSlpEaEhNWEpTVVRWQllYYxAB",
+                        "relativePublishTimeDescription":  "8 months ago",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "I enjoyed the food, drinks, and the manga here. It\u0027s clean, bright, and big. There is a good selection of books and videos. The people who worked there were nice and helpful.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "I enjoyed the food, drinks, and the manga here. It\u0027s clean, bright, and big. There is a good selection of books and videos. The people who worked there were nice and helpful.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Ю",
+                                                  "uri":  "https://www.google.com/maps/contrib/107950664587883672913/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUMHbq68r2OBWVgqpslBUyCig6Kr3GDErhBQS34Ek3Q1mH1VCvRwg=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-09-26T23:29:03.555096968Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxWFQwNXhiRWRxUjNaSlpEaEhNWEpTVVRWQllYYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxWFQwNXhiRWRxUjNaSlpEaEhNWEpTVVRWQllYYxAB!2m1!1s0x3442a996bea4fb27:0x20c27329057b0320"
+                    },
+                    {
+                        "name":  "places/ChIJJ_ukvpapQjQRIAN7BSlzwiA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taRlpXaFBUbUprZWpkVU0yVTJWMk4wVVhVMFEzYxAB",
+                        "relativePublishTimeDescription":  "5 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "This place has comics books and also serves delicious food. A great place to spend time alone.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "This place has comics books and also serves delicious food. A great place to spend time alone.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Rebecca Odulio",
+                                                  "uri":  "https://www.google.com/maps/contrib/103306595255763871619/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjU4X4vPMAz1xsU-34JSqHYwytb777S8s_pAkovOFOv5cEOsZSnr=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-12-08T22:38:22.453922022Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taRlpXaFBUbUprZWpkVU0yVTJWMk4wVVhVMFEzYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taRlpXaFBUbUprZWpkVU0yVTJWMk4wVVhVMFEzYxAB!2m1!1s0x3442a996bea4fb27:0x20c27329057b0320"
+                    }
+                ]
 }

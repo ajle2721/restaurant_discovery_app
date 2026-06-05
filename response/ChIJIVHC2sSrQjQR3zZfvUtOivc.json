@@ -1,130 +1,88 @@
-{
-  "id": "ChIJIVHC2sSrQjQR3zZfvUtOivc",
-  "types": [
-    "italian_restaurant",
-    "restaurant",
-    "food",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2771 5883",
-  "formattedAddress": "106台灣臺北市大安區建安里敦化南路1段155號",
-  "location": {
-    "latitude": 25.043757499999998,
-    "longitude": 121.54925449999999
-  },
-  "rating": 4.4,
-  "websiteUri": "https://www.facebook.com/CosiOCosiResturant/",
-  "userRatingCount": 316,
-  "displayName": {
-    "text": "Cosi O Cosi 義大利餐廳",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJIVHC2sSrQjQR3zZfvUtOivc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwT2VtRTFTV1l0ZVRjeFVrTTBiV3cxZWxSSE4yYxAB",
-      "relativePublishTimeDescription": "5 個月前",
-      "rating": 3,
-      "text": {
-        "text": "放在地圖名單上很久了，但很可惜點到的白酒蛤蜊義大利麵實在不達標準。沒有難吃但也完全沒有好吃。本身一直都很喜歡吃清炒的義大利麵，但這一道的表現基本上真的吃不出調味，沒有任何醬汁吸附在一根麵條上面，非常非常家常，而不是期待的餐廳應有的水準。在義大利的時候，這樣的味道在我當地朋友家吃得到，就是堪吃但不會覺得很好吃，跟外面一般的餐廳比起來有蠻大的差距。\n\n沙拉則是表現平凡。\n\n看了評價發現店家的披薩和千層麵可能是表現比較好的，剛好點到了一道覺得自己踩到雷的料理。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "放在地圖名單上很久了，但很可惜點到的白酒蛤蜊義大利麵實在不達標準。沒有難吃但也完全沒有好吃。本身一直都很喜歡吃清炒的義大利麵，但這一道的表現基本上真的吃不出調味，沒有任何醬汁吸附在一根麵條上面，非常非常家常，而不是期待的餐廳應有的水準。在義大利的時候，這樣的味道在我當地朋友家吃得到，就是堪吃但不會覺得很好吃，跟外面一般的餐廳比起來有蠻大的差距。\n\n沙拉則是表現平凡。\n\n看了評價發現店家的披薩和千層麵可能是表現比較好的，剛好點到了一道覺得自己踩到雷的料理。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "YJC Make Friends with the World",
-        "uri": "https://www.google.com/maps/contrib/102959838693800612256/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVBdMxzCjlzP2317u2fZEV2VmJde49-9mGSEe7rT2rLqD5eutMXDA=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2025-12-18T04:29:28.246634867Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwT2VtRTFTV1l0ZVRjeFVrTTBiV3cxZWxSSE4yYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwT2VtRTFTV1l0ZVRjeFVrTTBiV3cxZWxSSE4yYxAB!2m1!1s0x3442abc4dac25121:0xf78a4e4bbd5f36df"
-    },
-    {
-      "name": "places/ChIJIVHC2sSrQjQR3zZfvUtOivc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOcmVFcEVUak5RTlRVNVMzSkZlRUpGVWxWUGRIYxAB",
-      "relativePublishTimeDescription": "6 個月前",
-      "rating": 5,
-      "text": {
-        "text": "在去完礦物展回捷運的路上發現的，點白酒蛤蠣，麵很好吃😋\n特別喜歡提拉米蘇，帶微微酒香的蛋糕蠻驚豔的，味道有層次，不會只是很甜💝（也不會很甜）\n拿鐵奶泡很濃厚，咖啡帶有一點果香，口感滑順不苦，我很喜歡～",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "在去完礦物展回捷運的路上發現的，點白酒蛤蠣，麵很好吃😋\n特別喜歡提拉米蘇，帶微微酒香的蛋糕蠻驚豔的，味道有層次，不會只是很甜💝（也不會很甜）\n拿鐵奶泡很濃厚，咖啡帶有一點果香，口感滑順不苦，我很喜歡～",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "赤西遙",
-        "uri": "https://www.google.com/maps/contrib/107062568368361460149/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXxtXKEichfBozL2tQnkyJ84dYXHVsPSiSZac9FiNktUb6QVhE=s128-c0x00000000-cc-rp-mo"
-      },
-      "publishTime": "2025-11-16T05:40:18.934136923Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOcmVFcEVUak5RTlRVNVMzSkZlRUpGVWxWUGRIYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOcmVFcEVUak5RTlRVNVMzSkZlRUpGVWxWUGRIYxAB!2m1!1s0x3442abc4dac25121:0xf78a4e4bbd5f36df"
-    },
-    {
-      "name": "places/ChIJIVHC2sSrQjQR3zZfvUtOivc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OVlVqbDFlRVIwUXpSdVJWaExPVkJ2UW1zNGFIYxAB",
-      "relativePublishTimeDescription": "10 個月前",
-      "rating": 5,
-      "text": {
-        "text": "Pizza是吃了會鼓掌的等級👏🏻👏🏻👏🏻👏🏻\n我們是兩個女生，點了瑪格麗特pizza和千層麵，結果Pizza一半都打包了🤣🤣🤣\n\n嘴巴很想繼續吃，但肚子實在不容許🥹\n薄皮Pizza真的好讚，酥酥脆脆，上面還有滿滿的起司🥰 邊邊的地方有點焦焦的，特別香～真的好好吃👏🏻\n店內還有提供辣椒油，淋一點上去增添風味...真的愛死\n\n千萬不要覺得千層麵小小一個，澱粉量很足夠，超級飽！\n每一層都有起司、肉醬，夠味也不會太鹹，最上面的一層是烤的焦焦香香的起司，評論打一打就會開始流口水的美味🤤\n\n還在找東區的美味義式餐廳嗎？\n別想了，就在這！",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "Pizza是吃了會鼓掌的等級👏🏻👏🏻👏🏻👏🏻\n我們是兩個女生，點了瑪格麗特pizza和千層麵，結果Pizza一半都打包了🤣🤣🤣\n\n嘴巴很想繼續吃，但肚子實在不容許🥹\n薄皮Pizza真的好讚，酥酥脆脆，上面還有滿滿的起司🥰 邊邊的地方有點焦焦的，特別香～真的好好吃👏🏻\n店內還有提供辣椒油，淋一點上去增添風味...真的愛死\n\n千萬不要覺得千層麵小小一個，澱粉量很足夠，超級飽！\n每一層都有起司、肉醬，夠味也不會太鹹，最上面的一層是烤的焦焦香香的起司，評論打一打就會開始流口水的美味🤤\n\n還在找東區的美味義式餐廳嗎？\n別想了，就在這！",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "林怡蕙",
-        "uri": "https://www.google.com/maps/contrib/110668507021299413481/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX5Bdp9p71yjg_6gotBqNA9bfb034OU4q4XWWCcAYkjnt-I3DrV=s128-c0x00000000-cc-rp-mo"
-      },
-      "publishTime": "2025-07-24T15:04:52.799430938Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OVlVqbDFlRVIwUXpSdVJWaExPVkJ2UW1zNGFIYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OVlVqbDFlRVIwUXpSdVJWaExPVkJ2UW1zNGFIYxAB!2m1!1s0x3442abc4dac25121:0xf78a4e4bbd5f36df"
-    },
-    {
-      "name": "places/ChIJIVHC2sSrQjQR3zZfvUtOivc/reviews/ChZDSUhNMG9nS0VJQy0zc1M0by1HSEtBEAE",
-      "relativePublishTimeDescription": "11 個月前",
-      "rating": 4,
-      "text": {
-        "text": "窯烤Pizza好吃，不過蘑菇鯷魚口味有點鹹，提拉米蘇好吃，義大利麵濃郁Q彈，小缺點是低消每人450，有點高，但整體是不錯的。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "窯烤Pizza好吃，不過蘑菇鯷魚口味有點鹹，提拉米蘇好吃，義大利麵濃郁Q彈，小缺點是低消每人450，有點高，但整體是不錯的。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "traveler",
-        "uri": "https://www.google.com/maps/contrib/115194178450838306423/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLTnPeHo2THzRdz5EeaU1K0VcyD8zbfxObOEZJA53-BCxTMZQ=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2025-05-30T09:54:54.755350Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQy0zc1M0by1HSEtBEAE&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQy0zc1M0by1HSEtBEAE!2m1!1s0x3442abc4dac25121:0xf78a4e4bbd5f36df"
-    },
-    {
-      "name": "places/ChIJIVHC2sSrQjQR3zZfvUtOivc/reviews/ChdDSUhNMG9nS0VOcWI3SS15My1HTTR3RRAB",
-      "relativePublishTimeDescription": "12 個月前",
-      "rating": 5,
-      "text": {
-        "text": "#大安區\n#Cosi O Cosi 義大利餐廳\n\nPizza老店，有換經營者～\n\n披薩很薄，熱熱的很脆，整體口味我還蠻喜歡的💕但朋友覺得太薄，一定要趁熱吃，冷掉皮味道會差一點\n\n一個八吋pizza，一個女生應該可以吃完～\n\n路過可以試試🐣",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "#大安區\n#Cosi O Cosi 義大利餐廳\n\nPizza老店，有換經營者～\n\n披薩很薄，熱熱的很脆，整體口味我還蠻喜歡的💕但朋友覺得太薄，一定要趁熱吃，冷掉皮味道會差一點\n\n一個八吋pizza，一個女生應該可以吃完～\n\n路過可以試試🐣",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "陳欣怡",
-        "uri": "https://www.google.com/maps/contrib/105585070401090771981/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXen0Z1AT9qky0kbO4pi4Dx3sMloUhX-5yrRPmYP7rAYzykaijw=s128-c0x00000000-cc-rp-mo-ba7"
-      },
-      "publishTime": "2025-05-28T12:21:34.334839Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VOcWI3SS15My1HTTR3RRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VOcWI3SS15My1HTTR3RRAB!2m1!1s0x3442abc4dac25121:0xf78a4e4bbd5f36df"
-    }
-  ]
+﻿{
+    "id":  "ChIJIVHC2sSrQjQR3zZfvUtOivc",
+    "types":  [
+                  "italian_restaurant",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2771 5883",
+    "formattedAddress":  "106, Taiwan, Taipei City, Da’an District, Jian\u0027an Village, 敦化南路1段155號",
+    "location":  {
+                     "latitude":  25.043757499999998,
+                     "longitude":  121.54925449999999
+                 },
+    "rating":  4.4,
+    "websiteUri":  "https://www.facebook.com/CosiOCosiResturant/",
+    "userRatingCount":  318,
+    "displayName":  {
+                        "text":  "Cosi O Cosi 義大利餐廳",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJIVHC2sSrQjQR3zZfvUtOivc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSTk5sVjVVbTV5ZG5sMGRHNXBUVEpZZEhKeFduYxAB",
+                        "relativePublishTimeDescription":  "4 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Best pizza I had in Taipei. The crust is ultra thin and very crispy. Dave Portnoy would love it! Very nice chill atmosphere too. Playing cozy Italian music. Coffee was also great. Service too. Highly recommend.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Best pizza I had in Taipei. The crust is ultra thin and very crispy. Dave Portnoy would love it! Very nice chill atmosphere too. Playing cozy Italian music. Coffee was also great. Service too. Highly recommend.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Jeremiah Scholl",
+                                                  "uri":  "https://www.google.com/maps/contrib/111767397999814454682/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVqfuHJ5J_NIUd5pa-h0IdXeO6JawaJluyaQ7Kgygn-6mOnAOgFYg=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2026-01-18T05:54:14.787990552Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSTk5sVjVVbTV5ZG5sMGRHNXBUVEpZZEhKeFduYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSTk5sVjVVbTV5ZG5sMGRHNXBUVEpZZEhKeFduYxAB!2m1!1s0x3442abc4dac25121:0xf78a4e4bbd5f36df"
+                    },
+                    {
+                        "name":  "places/ChIJIVHC2sSrQjQR3zZfvUtOivc/reviews/ChZDSUhNMG9nS0VJQ0FnSUM3bHZ1ZlhREAE",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Hey, good job! The food was good. I don’t normally like seafood pizza, but I enjoyed this. There isn’t a strong sea flavor. Unfortunately, I have to take a point off for the bathroom. It could be better. But otherwise, it’s good.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Hey, good job! The food was good. I don’t normally like seafood pizza, but I enjoyed this. There isn’t a strong sea flavor. Unfortunately, I have to take a point off for the bathroom. It could be better. But otherwise, it’s good.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Brian Wiemer",
+                                                  "uri":  "https://www.google.com/maps/contrib/102647417151389911991/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWL6wcOQBdm6c6cYvxrsPCCOHIc5rUH5AZpdc1DsjGIXgaEJM3m=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2024-08-15T12:53:26.040968Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM3bHZ1ZlhREAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM3bHZ1ZlhREAE!2m1!1s0x3442abc4dac25121:0xf78a4e4bbd5f36df"
+                    },
+                    {
+                        "name":  "places/ChIJIVHC2sSrQjQR3zZfvUtOivc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsRVZGZEhVazB3YzBoNmFTMWlYelF5TjFsNVRIYxAB",
+                        "relativePublishTimeDescription":  "3 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "The most liked pizza parlor in Taipei for me. Came here more than 15 times and continue coming back. A good place to hang out with friends too on a Friday night.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "The most liked pizza parlor in Taipei for me. Came here more than 15 times and continue coming back. A good place to hang out with friends too on a Friday night.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Andrea Wu",
+                                                  "uri":  "https://www.google.com/maps/contrib/112869407427605553931/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocJLuI0biSKIYZt4NukW3IdDjiPdIJNSzz-oiG5zF8gp8ztMpA=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2026-03-06T02:57:38.167216300Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsRVZGZEhVazB3YzBoNmFTMWlYelF5TjFsNVRIYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsRVZGZEhVazB3YzBoNmFTMWlYelF5TjFsNVRIYxAB!2m1!1s0x3442abc4dac25121:0xf78a4e4bbd5f36df"
+                    }
+                ]
 }

@@ -1,129 +1,129 @@
-{
-  "id": "ChIJEdks4BCrQjQRgO_xm38AQh0",
-  "types": [
-    "breakfast_restaurant",
-    "restaurant",
-    "food",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2785 0109",
-  "formattedAddress": "115台灣臺北市南港區西新里昆陽街89號",
-  "location": {
-    "latitude": 25.0517967,
-    "longitude": 121.5937213
-  },
-  "rating": 4.7,
-  "userRatingCount": 56,
-  "displayName": {
-    "text": "早福氣飯糰中西式早午餐",
-    "languageCode": "zh"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJEdks4BCrQjQRgO_xm38AQh0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xJMmRFcFJTbXRIYVVWQ1FqQk1lRXBIYlhsQlZHYxAB",
-      "relativePublishTimeDescription": "5 個月前",
-      "rating": 5,
-      "text": {
-        "text": "餐點很好吃，辣味飯糰的辣菜脯鹹 辣好吃，蛋餅也好吃，尤其辣椒醬是老闆自己炒的很香，炸物也很有水準，服務好環境很整潔…推👍",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "餐點很好吃，辣味飯糰的辣菜脯鹹 辣好吃，蛋餅也好吃，尤其辣椒醬是老闆自己炒的很香，炸物也很有水準，服務好環境很整潔…推👍",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "梁維鍵",
-        "uri": "https://www.google.com/maps/contrib/106480394494572517949/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI4kmMfyah0Five0rfP00_4nId-EFP8ZRAC2Tr3vBvh8d-V-w=s128-c0x00000000-cc-rp-mo"
-      },
-      "publishTime": "2025-12-21T05:16:47.809307336Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xJMmRFcFJTbXRIYVVWQ1FqQk1lRXBIYlhsQlZHYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xJMmRFcFJTbXRIYVVWQ1FqQk1lRXBIYlhsQlZHYxAB!2m1!1s0x3442ab10e02cd911:0x1d42007f9bf1ef80"
-    },
-    {
-      "name": "places/ChIJEdks4BCrQjQRgO_xm38AQh0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WMU5IcHlUekJPV0dSWFpESnVjSHAzZEVKU1pGRRAB",
-      "relativePublishTimeDescription": "4 個月前",
-      "rating": 5,
-      "text": {
-        "text": "環境乾淨舒適、服務超好、食物很好吃！\n很可惜太晚來沒吃到飯糰，一定還會回訪\n看到老闆跟小孩的互動覺得很溫暖\n吃飽飯心情很好～🥹👍",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "環境乾淨舒適、服務超好、食物很好吃！\n很可惜太晚來沒吃到飯糰，一定還會回訪\n看到老闆跟小孩的互動覺得很溫暖\n吃飽飯心情很好～🥹👍",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "I Chia Chiu",
-        "uri": "https://www.google.com/maps/contrib/111735834639548606428/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI3xI1QePWgDV4iJhMvW11vhGeydoBS5oIWOcdm8_Knkb_NHf7d=s128-c0x00000000-cc-rp-mo-ba2"
-      },
-      "publishTime": "2026-01-18T05:34:59.576640332Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WMU5IcHlUekJPV0dSWFpESnVjSHAzZEVKU1pGRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WMU5IcHlUekJPV0dSWFpESnVjSHAzZEVKU1pGRRAB!2m1!1s0x3442ab10e02cd911:0x1d42007f9bf1ef80"
-    },
-    {
-      "name": "places/ChIJEdks4BCrQjQRgO_xm38AQh0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ReVF6ZDVXa3BOTjB0bVNVNUhiRXRzVjJsbmIxRRAB",
-      "relativePublishTimeDescription": "5 個月前",
-      "rating": 4,
-      "text": {
-        "text": "試營運期間 人手不足 要等比較久一點 有點混亂 但是服務態度不錯 餐具環境也很乾淨\n餐點這次點了\n塔香鐵板麵 微微辣 不錯吃 份量也可以\n鹹豬肉抓餅 很有特色 很好吃\n下次再來體驗看看飯糰的部分",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "試營運期間 人手不足 要等比較久一點 有點混亂 但是服務態度不錯 餐具環境也很乾淨\n餐點這次點了\n塔香鐵板麵 微微辣 不錯吃 份量也可以\n鹹豬肉抓餅 很有特色 很好吃\n下次再來體驗看看飯糰的部分",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "林奎翰",
-        "uri": "https://www.google.com/maps/contrib/110710439945575776668/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVABjtwci4KGpmqfFIaRLI8sMroIxVwDc0IbQ-1eSS74fxjFUdD=s128-c0x00000000-cc-rp-mo-ba4"
-      },
-      "publishTime": "2025-12-21T03:26:49.421456233Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25ReVF6ZDVXa3BOTjB0bVNVNUhiRXRzVjJsbmIxRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ReVF6ZDVXa3BOTjB0bVNVNUhiRXRzVjJsbmIxRRAB!2m1!1s0x3442ab10e02cd911:0x1d42007f9bf1ef80"
-    },
-    {
-      "name": "places/ChIJEdks4BCrQjQRgO_xm38AQh0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GeFRXVnNhMFJyZDNKWlgxSmhjRkoyZEhkNmFtYxAB",
-      "relativePublishTimeDescription": "2 個月前",
-      "rating": 4,
-      "text": {
-        "text": "餐點好吃，但是外帶包裝有待加強，麵蓋無法承受飯糰重量，導致壓迫後湯汁外溢，袋內餐點皆能有泡湯的享受，建議擺放紙板區隔來增加承重！",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "餐點好吃，但是外帶包裝有待加強，麵蓋無法承受飯糰重量，導致壓迫後湯汁外溢，袋內餐點皆能有泡湯的享受，建議擺放紙板區隔來增加承重！",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "GOla",
-        "uri": "https://www.google.com/maps/contrib/111536759792011637627/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJPO7_La4qfFTlpq0unsjBvgH3ChvZJXRoT8d6T5szovlPRDA=s128-c0x00000000-cc-rp-mo-ba4"
-      },
-      "publishTime": "2026-03-02T04:17:29.936861485Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GeFRXVnNhMFJyZDNKWlgxSmhjRkoyZEhkNmFtYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GeFRXVnNhMFJyZDNKWlgxSmhjRkoyZEhkNmFtYxAB!2m1!1s0x3442ab10e02cd911:0x1d42007f9bf1ef80"
-    },
-    {
-      "name": "places/ChIJEdks4BCrQjQRgO_xm38AQh0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pVemFITjFUM1ZUUVhCaFVWbEROemhmVTA1dloxRRAB",
-      "relativePublishTimeDescription": "4 個月前",
-      "rating": 5,
-      "text": {
-        "text": "不錯吃👍飯糰🍙很大顆\n大杯奶茶是真正的真的大杯🥤\n住附近的鄰居 休假就會下來買～",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "不錯吃👍飯糰🍙很大顆\n大杯奶茶是真正的真的大杯🥤\n住附近的鄰居 休假就會下來買～",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "E Huang",
-        "uri": "https://www.google.com/maps/contrib/104832811273405309635/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV7vTo63OEmgF0ZxBguTnCsCXZ1QGA1CM67VDzgqsT_m6veEGV0VQ=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2026-01-24T05:04:22.342517889Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pVemFITjFUM1ZUUVhCaFVWbEROemhmVTA1dloxRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pVemFITjFUM1ZUUVhCaFVWbEROemhmVTA1dloxRRAB!2m1!1s0x3442ab10e02cd911:0x1d42007f9bf1ef80"
-    }
-  ]
+﻿{
+    "id":  "ChIJEdks4BCrQjQRgO_xm38AQh0",
+    "types":  [
+                  "breakfast_restaurant",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2785 0109",
+    "formattedAddress":  "No. 89號, Kunyang St, Xixin Village, Nangang District, Taipei City, Taiwan 115",
+    "location":  {
+                     "latitude":  25.0517967,
+                     "longitude":  121.5937213
+                 },
+    "rating":  4.7,
+    "userRatingCount":  58,
+    "displayName":  {
+                        "text":  "早福氣飯糰中西式早午餐",
+                        "languageCode":  "zh"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJEdks4BCrQjQRgO_xm38AQh0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xJMmRFcFJTbXRIYVVWQ1FqQk1lRXBIYlhsQlZHYxAB",
+                        "relativePublishTimeDescription":  "5 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "The food was delicious. The spicy rice balls with pickled radish were salty and spicy, and the egg pancakes were also good. The chili sauce, in particular, was homemade and very fragrant. The fried food was also of high quality. The service was good, and the environment was very clean… Thumbs up! 👍",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "餐點很好吃，辣味飯糰的辣菜脯鹹 辣好吃，蛋餅也好吃，尤其辣椒醬是老闆自己炒的很香，炸物也很有水準，服務好環境很整潔…推👍",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "梁維鍵",
+                                                  "uri":  "https://www.google.com/maps/contrib/106480394494572517949/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocI4kmMfyah0Five0rfP00_4nId-EFP8ZRAC2Tr3vBvh8d-V-w=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2025-12-21T05:16:47.809307336Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xJMmRFcFJTbXRIYVVWQ1FqQk1lRXBIYlhsQlZHYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xJMmRFcFJTbXRIYVVWQ1FqQk1lRXBIYlhsQlZHYxAB!2m1!1s0x3442ab10e02cd911:0x1d42007f9bf1ef80"
+                    },
+                    {
+                        "name":  "places/ChIJEdks4BCrQjQRgO_xm38AQh0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WMU5IcHlUekJPV0dSWFpESnVjSHAzZEVKU1pGRRAB",
+                        "relativePublishTimeDescription":  "4 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "The environment was clean and comfortable, the service was excellent, and the food was delicious!\n\nIt\u0027s a pity I came too late and missed the rice balls, but I\u0027ll definitely come back.\n\nSeeing the owner interacting with the children was heartwarming. I had a great meal and felt very happy! 🥹👍",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "環境乾淨舒適、服務超好、食物很好吃！\n很可惜太晚來沒吃到飯糰，一定還會回訪\n看到老闆跟小孩的互動覺得很溫暖\n吃飽飯心情很好～🥹👍",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "I Chia Chiu",
+                                                  "uri":  "https://www.google.com/maps/contrib/111735834639548606428/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocI3xI1QePWgDV4iJhMvW11vhGeydoBS5oIWOcdm8_Knkb_NHf7d=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2026-01-18T05:34:59.576640332Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WMU5IcHlUekJPV0dSWFpESnVjSHAzZEVKU1pGRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WMU5IcHlUekJPV0dSWFpESnVjSHAzZEVKU1pGRRAB!2m1!1s0x3442ab10e02cd911:0x1d42007f9bf1ef80"
+                    },
+                    {
+                        "name":  "places/ChIJEdks4BCrQjQRgO_xm38AQh0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ReVF6ZDVXa3BOTjB0bVNVNUhiRXRzVjJsbmIxRRAB",
+                        "relativePublishTimeDescription":  "5 months ago",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "During the trial operation, there was a shortage of staff, so the wait was a bit long and it was a little chaotic, but the service was good and the tableware and environment were very clean.\n\nThis time I ordered:\nBasil-flavored Teppanyaki Noodles (slightly spicy), which were delicious and the portion size was good.\n\nSalted Pork Pancake (very unique and tasty).\n\nNext time I\u0027ll try the rice balls.",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "試營運期間 人手不足 要等比較久一點 有點混亂 但是服務態度不錯 餐具環境也很乾淨\n餐點這次點了\n塔香鐵板麵 微微辣 不錯吃 份量也可以\n鹹豬肉抓餅 很有特色 很好吃\n下次再來體驗看看飯糰的部分",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "林奎翰",
+                                                  "uri":  "https://www.google.com/maps/contrib/110710439945575776668/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVABjtwci4KGpmqfFIaRLI8sMroIxVwDc0IbQ-1eSS74fxjFUdD=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2025-12-21T03:26:49.421456233Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25ReVF6ZDVXa3BOTjB0bVNVNUhiRXRzVjJsbmIxRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ReVF6ZDVXa3BOTjB0bVNVNUhiRXRzVjJsbmIxRRAB!2m1!1s0x3442ab10e02cd911:0x1d42007f9bf1ef80"
+                    },
+                    {
+                        "name":  "places/ChIJEdks4BCrQjQRgO_xm38AQh0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GeFRXVnNhMFJyZDNKWlgxSmhjRkoyZEhkNmFtYxAB",
+                        "relativePublishTimeDescription":  "3 months ago",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "The food was delicious, but the takeout packaging needs improvement. The lid couldn\u0027t support the weight of the rice balls, causing the soup to spill out when compressed, resulting in the food inside the bag being soaked in soup. It is recommended to use cardboard dividers to increase the weight-bearing capacity!",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "餐點好吃，但是外帶包裝有待加強，麵蓋無法承受飯糰重量，導致壓迫後湯汁外溢，袋內餐點皆能有泡湯的享受，建議擺放紙板區隔來增加承重！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "GOla",
+                                                  "uri":  "https://www.google.com/maps/contrib/111536759792011637627/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocJPO7_La4qfFTlpq0unsjBvgH3ChvZJXRoT8d6T5szovlPRDA=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2026-03-02T04:17:29.936861485Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GeFRXVnNhMFJyZDNKWlgxSmhjRkoyZEhkNmFtYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GeFRXVnNhMFJyZDNKWlgxSmhjRkoyZEhkNmFtYxAB!2m1!1s0x3442ab10e02cd911:0x1d42007f9bf1ef80"
+                    },
+                    {
+                        "name":  "places/ChIJEdks4BCrQjQRgO_xm38AQh0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pVemFITjFUM1ZUUVhCaFVWbEROemhmVTA1dloxRRAB",
+                        "relativePublishTimeDescription":  "4 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "It\u0027s delicious! 👍 The rice balls 🍙 are huge!\nThe large cup of milk tea is a really, really large cup! 🥤 My neighbors who live nearby come down to buy it on their days off.",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "不錯吃👍飯糰🍙很大顆\n大杯奶茶是真正的真的大杯🥤\n住附近的鄰居 休假就會下來買～",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "E Huang",
+                                                  "uri":  "https://www.google.com/maps/contrib/104832811273405309635/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjV7vTo63OEmgF0ZxBguTnCsCXZ1QGA1CM67VDzgqsT_m6veEGV0VQ=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2026-01-24T05:04:22.342517889Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pVemFITjFUM1ZUUVhCaFVWbEROemhmVTA1dloxRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pVemFITjFUM1ZUUVhCaFVWbEROemhmVTA1dloxRRAB!2m1!1s0x3442ab10e02cd911:0x1d42007f9bf1ef80"
+                    }
+                ]
 }

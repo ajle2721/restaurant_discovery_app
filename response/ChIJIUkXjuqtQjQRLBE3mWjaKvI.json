@@ -1,131 +1,129 @@
-{
-  "id": "ChIJIUkXjuqtQjQRLBE3mWjaKvI",
-  "types": [
-    "restaurant",
-    "food",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 976 109 121",
-  "formattedAddress": "104台灣臺北市中山區永安里明水路397巷12號1樓",
-  "location": {
-    "latitude": 25.078496599999998,
-    "longitude": 121.54753989999999
-  },
-  "rating": 4.8,
-  "websiteUri": "https://www.facebook.com/profile.php?id=61566830945948&mibextid=LQQJ4d",
-  "userRatingCount": 171,
-  "displayName": {
-    "text": "EJ-Enjoy Life Brunch & Cafe",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJIUkXjuqtQjQRLBE3mWjaKvI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WalVqbFVORzB6Vms5eGQxQlBZVmRmT0VST1JsRRAB",
-      "relativePublishTimeDescription": "5 個月前",
-      "rating": 5,
-      "text": {
-        "text": "大直新開幕的韓式料理店\n是韓國人親自掌廚\n口味真的蠻道地的\n那碗炸醬麵真的蠻好吃的！\n豆腐鍋裡面用的真的是韓式的那種超嫩豆腐～有夠好吃\n辣炒年糕+紫菜捲是完美組合\n菜單放最後～",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "大直新開幕的韓式料理店\n是韓國人親自掌廚\n口味真的蠻道地的\n那碗炸醬麵真的蠻好吃的！\n豆腐鍋裡面用的真的是韓式的那種超嫩豆腐～有夠好吃\n辣炒年糕+紫菜捲是完美組合\n菜單放最後～",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "艾瑞絲的吃貨日常IG:iris_eating_0605",
-        "uri": "https://www.google.com/maps/contrib/100033453424725686360/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUOz7Fl8I_XSCi4e1YvhNHlGCLzluj2FO3IRAq3-t1vDAVGU4z0=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2025-12-26T14:11:51.293535812Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WalVqbFVORzB6Vms5eGQxQlBZVmRmT0VST1JsRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WalVqbFVORzB6Vms5eGQxQlBZVmRmT0VST1JsRRAB!2m1!1s0x3442adea8e174921:0xf22ada689937112c"
-    },
-    {
-      "name": "places/ChIJIUkXjuqtQjQRLBE3mWjaKvI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25jdFpVdENhR2xyUzBocGVrTTFUblY0VkV4b1lsRRAB",
-      "relativePublishTimeDescription": "5 個月前",
-      "rating": 3,
-      "text": {
-        "text": "內用的油煙味滿重。\n我們點的餐點似乎不是店家招牌，所以表現只能說是中規中矩。\n唯一驚豔的是法式吐司，很好吃，蛋香十足。\n咖啡滿順口，像飲料。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "內用的油煙味滿重。\n我們點的餐點似乎不是店家招牌，所以表現只能說是中規中矩。\n唯一驚豔的是法式吐司，很好吃，蛋香十足。\n咖啡滿順口，像飲料。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Eva Wang",
-        "uri": "https://www.google.com/maps/contrib/108303173088817325599/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXkcPnIT2-WPtpl6NejN0xIjTkQAKIkI0LWCBiVimf7EGuU2SwoWw=s128-c0x00000000-cc-rp-mo-ba7"
-      },
-      "publishTime": "2025-12-26T03:53:58.907971992Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25jdFpVdENhR2xyUzBocGVrTTFUblY0VkV4b1lsRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25jdFpVdENhR2xyUzBocGVrTTFUblY0VkV4b1lsRRAB!2m1!1s0x3442adea8e174921:0xf22ada689937112c"
-    },
-    {
-      "name": "places/ChIJIUkXjuqtQjQRLBE3mWjaKvI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aWGVWSnlTbk14TUVsYVh6UjJOMlU0Y1U5VmMyYxAB",
-      "relativePublishTimeDescription": "6 個月前",
-      "rating": 4,
-      "text": {
-        "text": "若無下雨或大熱天坐户外桌很舒服且限時延長至九十分鐘\n它冷麵偏硬是我喜歡的口感,若有提供剪麵服務會更好\n炸物有點油若再瀝乾一點會好很多\n炸醬麵及烏龍麵我覺得一般般\n濟州島西西里還不錯喝",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "若無下雨或大熱天坐户外桌很舒服且限時延長至九十分鐘\n它冷麵偏硬是我喜歡的口感,若有提供剪麵服務會更好\n炸物有點油若再瀝乾一點會好很多\n炸醬麵及烏龍麵我覺得一般般\n濟州島西西里還不錯喝",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "恒毅Peter Chen",
-        "uri": "https://www.google.com/maps/contrib/114793943626530052993/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUzdf6Xu7lcVNkAW6MqZFdjdCHgYdTQ51dsBJyyrJS_8o3xFzPcOg=s128-c0x00000000-cc-rp-mo-ba7"
-      },
-      "publishTime": "2025-11-16T07:06:08.496204416Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aWGVWSnlTbk14TUVsYVh6UjJOMlU0Y1U5VmMyYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aWGVWSnlTbk14TUVsYVh6UjJOMlU0Y1U5VmMyYxAB!2m1!1s0x3442adea8e174921:0xf22ada689937112c"
-    },
-    {
-      "name": "places/ChIJIUkXjuqtQjQRLBE3mWjaKvI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKSWNWa3pUR1ZsUlZGemFrTklUV1IzTmt4cWIzYxAB",
-      "relativePublishTimeDescription": "2 個月前",
-      "rating": 5,
-      "text": {
-        "text": "餐廳環境、氣氛很好，餐點食材新鮮好吃，份量很足，店家星期一公休，預定餐點可享特定飲料買一送一ㄛ～",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "餐廳環境、氣氛很好，餐點食材新鮮好吃，份量很足，店家星期一公休，預定餐點可享特定飲料買一送一ㄛ～",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "卓梅月",
-        "uri": "https://www.google.com/maps/contrib/117497642346451856766/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJYbn7Nium5PdOeB5f_8kHT-vZYifxI4wmO0P0d9x9J3B4neQ=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2026-03-08T04:12:14.804980859Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKSWNWa3pUR1ZsUlZGemFrTklUV1IzTmt4cWIzYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKSWNWa3pUR1ZsUlZGemFrTklUV1IzTmt4cWIzYxAB!2m1!1s0x3442adea8e174921:0xf22ada689937112c"
-    },
-    {
-      "name": "places/ChIJIUkXjuqtQjQRLBE3mWjaKvI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sTFZrUllRbU5HTjA1RVgyY3pSbWRPUlZRMlExRRAB",
-      "relativePublishTimeDescription": "7 個月前",
-      "rating": 4,
-      "text": {
-        "text": "豆腐鍋料多很划算，但味道沒有很韓式，有點可惜。\n炸醬麵中規中矩，但是是好吃的\n但可惜是用餐環境太熱了..建議空調要再調整",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "豆腐鍋料多很划算，但味道沒有很韓式，有點可惜。\n炸醬麵中規中矩，但是是好吃的\n但可惜是用餐環境太熱了..建議空調要再調整",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "KENT YANG",
-        "uri": "https://www.google.com/maps/contrib/110917047560459025773/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLIHQEL0OJtWPM0I8isfseAvKtMESIO-3A9QBQbCnjgdKgJdw=s128-c0x00000000-cc-rp-mo-ba4"
-      },
-      "publishTime": "2025-10-08T15:47:34.384166044Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sTFZrUllRbU5HTjA1RVgyY3pSbWRPUlZRMlExRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sTFZrUllRbU5HTjA1RVgyY3pSbWRPUlZRMlExRRAB!2m1!1s0x3442adea8e174921:0xf22ada689937112c"
-    }
-  ],
-  "menuForChildren": false,
-  "goodForChildren": true
+﻿{
+    "id":  "ChIJIUkXjuqtQjQRLBE3mWjaKvI",
+    "types":  [
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 976 109 121",
+    "formattedAddress":  "104, Taiwan, Taipei City, Zhongshan District, Yong\u0027an Village, Lane 397, Mingshui Rd, 12號1樓",
+    "location":  {
+                     "latitude":  25.078496599999998,
+                     "longitude":  121.54753989999999
+                 },
+    "rating":  4.8,
+    "websiteUri":  "https://www.facebook.com/profile.php?id=61566830945948\u0026mibextid=LQQJ4d",
+    "userRatingCount":  172,
+    "displayName":  {
+                        "text":  "EJ-Enjoy Life \u0026 Brunch Cafe",
+                        "languageCode":  "en"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJIUkXjuqtQjQRLBE3mWjaKvI/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmNnZMSzFBRRAB",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "What a nice little cafe restaurant tucked away, 1 block away to be exact, from the Dazhi MRT station. We loved the coffee and food here. The owners, a Taiwanese-Americans couple, are super lovely. Will definitely come back!",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "What a nice little cafe restaurant tucked away, 1 block away to be exact, from the Dazhi MRT station. We loved the coffee and food here. The owners, a Taiwanese-Americans couple, are super lovely. Will definitely come back!",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Joseph Lee",
+                                                  "uri":  "https://www.google.com/maps/contrib/111524023304615755595/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjV5Pzp6K_kyo4yEfZ5MH0OJiONCG1ns4OJukxa5nA7FOahnpIzW=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2024-12-28T03:05:53.869895Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmNnZMSzFBRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmNnZMSzFBRRAB!2m1!1s0x3442adea8e174921:0xf22ada689937112c"
+                    },
+                    {
+                        "name":  "places/ChIJIUkXjuqtQjQRLBE3mWjaKvI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SaVduRlhjV2RNWkRORVUwaGFXblY0TFd4NlExRRAB",
+                        "relativePublishTimeDescription":  "8 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "The food here is absolutely delicious, and I really love the warm, welcoming atmosphere of the café. The staff are so friendly and attentive, which makes the whole experience even better. A perfect place to relax and enjoy a great meal!",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "The food here is absolutely delicious, and I really love the warm, welcoming atmosphere of the café. The staff are so friendly and attentive, which makes the whole experience even better. A perfect place to relax and enjoy a great meal!",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Jessica Thye",
+                                                  "uri":  "https://www.google.com/maps/contrib/107259844135615111770/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocL1EofWoOV8-XBW6QBetBYLXGq814VioYlHbGt4cLESProxHA=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2025-09-21T07:24:53.825800667Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SaVduRlhjV2RNWkRORVUwaGFXblY0TFd4NlExRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SaVduRlhjV2RNWkRORVUwaGFXblY0TFd4NlExRRAB!2m1!1s0x3442adea8e174921:0xf22ada689937112c"
+                    },
+                    {
+                        "name":  "places/ChIJIUkXjuqtQjQRLBE3mWjaKvI/reviews/ChZDSUhNMG9nS0VJQ0FnSURQdklpSWVnEAE",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Nice corner cafe, has indoor and outdoor seating.  Great brunch place and good Korean dishes.  Friendly cafe owner",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Nice corner cafe, has indoor and outdoor seating.  Great brunch place and good Korean dishes.  Friendly cafe owner",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Suk Shan Christine CHEUNG",
+                                                  "uri":  "https://www.google.com/maps/contrib/102197291688509418951/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjX_RjBwJlakYE-36rs1zU2reW72ZA0-1LO0ZXl7xsdGfXxn3i-stg=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2024-11-30T03:53:27.166897Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURQdklpSWVnEAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURQdklpSWVnEAE!2m1!1s0x3442adea8e174921:0xf22ada689937112c"
+                    },
+                    {
+                        "name":  "places/ChIJIUkXjuqtQjQRLBE3mWjaKvI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WalVqbFVORzB6Vms5eGQxQlBZVmRmT0VST1JsRRAB",
+                        "relativePublishTimeDescription":  "5 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "大直新開幕的韓式料理店\n是韓國人親自掌廚\n口味真的蠻道地的\n那碗炸醬麵真的蠻好吃的！\n豆腐鍋裡面用的真的是韓式的那種超嫩豆腐～有夠好吃\n辣炒年糕+紫菜捲是完美組合\n菜單放最後～",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "大直新開幕的韓式料理店\n是韓國人親自掌廚\n口味真的蠻道地的\n那碗炸醬麵真的蠻好吃的！\n豆腐鍋裡面用的真的是韓式的那種超嫩豆腐～有夠好吃\n辣炒年糕+紫菜捲是完美組合\n菜單放最後～",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "艾瑞絲的吃貨日常IG:iris_eating_0605",
+                                                  "uri":  "https://www.google.com/maps/contrib/100033453424725686360/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUOz7Fl8I_XSCi4e1YvhNHlGCLzluj2FO3IRAq3-t1vDAVGU4z0=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-12-26T14:11:51.293535812Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WalVqbFVORzB6Vms5eGQxQlBZVmRmT0VST1JsRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WalVqbFVORzB6Vms5eGQxQlBZVmRmT0VST1JsRRAB!2m1!1s0x3442adea8e174921:0xf22ada689937112c"
+                    },
+                    {
+                        "name":  "places/ChIJIUkXjuqtQjQRLBE3mWjaKvI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25jdFpVdENhR2xyUzBocGVrTTFUblY0VkV4b1lsRRAB",
+                        "relativePublishTimeDescription":  "5 months ago",
+                        "rating":  3,
+                        "text":  {
+                                     "text":  "The interior smelled strongly of cooking oil.\n\nThe dishes we ordered didn\u0027t seem to be the restaurant\u0027s signature items, so they were only average.\n\nThe only standout was the French toast, which was delicious and very eggy.\n\nThe coffee was smooth, almost like a beverage.",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "內用的油煙味滿重。\n我們點的餐點似乎不是店家招牌，所以表現只能說是中規中矩。\n唯一驚豔的是法式吐司，很好吃，蛋香十足。\n咖啡滿順口，像飲料。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Eva Wang",
+                                                  "uri":  "https://www.google.com/maps/contrib/108303173088817325599/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXkcPnIT2-WPtpl6NejN0xIjTkQAKIkI0LWCBiVimf7EGuU2SwoWw=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2025-12-26T03:53:58.907971992Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25jdFpVdENhR2xyUzBocGVrTTFUblY0VkV4b1lsRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25jdFpVdENhR2xyUzBocGVrTTFUblY0VkV4b1lsRRAB!2m1!1s0x3442adea8e174921:0xf22ada689937112c"
+                    }
+                ]
 }

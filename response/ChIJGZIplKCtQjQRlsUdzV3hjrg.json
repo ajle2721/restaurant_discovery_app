@@ -1,129 +1,129 @@
-{
-  "id": "ChIJGZIplKCtQjQRlsUdzV3hjrg",
-  "types": [
-    "restaurant",
-    "food",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2785 1518",
-  "formattedAddress": "115台灣臺北市南港區經貿二路131號5F",
-  "location": {
-    "latitude": 25.0592558,
-    "longitude": 121.61803099999999
-  },
-  "rating": 3.9,
-  "websiteUri": "https://www.yayoi.com.tw/zh/index.php",
-  "userRatingCount": 103,
-  "displayName": {
-    "text": "YAYOI彌生軒 南港LaLaport店",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJGZIplKCtQjQRlsUdzV3hjrg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKalNFNXVkMmxWTUZKSmIyOUZOMjFYYkVsWE1IYxAB",
-      "relativePublishTimeDescription": "3 週前",
-      "rating": 5,
-      "text": {
-        "text": "260221\n位於 南港LaLaport 5樓，空間寬敞明亮整潔，座位舒適平板點餐流程順暢直觀，雖然假日人潮洶湧，用餐客人需要侯位，但上菜效率高，不會等太久！\n\n✅ 香炒肉片雙倍蔬菜定食：這道大推！外食族難得能吃到這麼大量的鮮甜蔬菜，大火快炒香氣十足，肉片鹹香下飯，尤其米飯煮得太好吃了，會不停的續碗！\n✅ 雙蝦南蠻炸雞：份量很有誠意，雞腿肉軟嫩多汁，醬料風味極佳，開胃解膩的醃漬蘿蔔與味噌湯皆可續，雖然我的湯碗有裂痕（需改進），但食物份量與美味兼俱，依然值得推薦！",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "260221\n位於 南港LaLaport 5樓，空間寬敞明亮整潔，座位舒適平板點餐流程順暢直觀，雖然假日人潮洶湧，用餐客人需要侯位，但上菜效率高，不會等太久！\n\n✅ 香炒肉片雙倍蔬菜定食：這道大推！外食族難得能吃到這麼大量的鮮甜蔬菜，大火快炒香氣十足，肉片鹹香下飯，尤其米飯煮得太好吃了，會不停的續碗！\n✅ 雙蝦南蠻炸雞：份量很有誠意，雞腿肉軟嫩多汁，醬料風味極佳，開胃解膩的醃漬蘿蔔與味噌湯皆可續，雖然我的湯碗有裂痕（需改進），但食物份量與美味兼俱，依然值得推薦！",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "格格（Lily Nien）",
-        "uri": "https://www.google.com/maps/contrib/103844764868563541112/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK0mWglJkqxJmHd0IQVY0OUGr6m9kSSOLZ20gj43aZ9oSsNNw=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2026-02-22T16:57:53.129226618Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKalNFNXVkMmxWTUZKSmIyOUZOMjFYYkVsWE1IYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKalNFNXVkMmxWTUZKSmIyOUZOMjFYYkVsWE1IYxAB!2m1!1s0x3442ada094299219:0xb88ee15dcd1dc596"
-    },
-    {
-      "name": "places/ChIJGZIplKCtQjQRlsUdzV3hjrg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGcWRGcFlOMDk0WmxrMWFVeHRaVlZGUVRGNlQzYxAB",
-      "relativePublishTimeDescription": "2 個月前",
-      "rating": 4,
-      "text": {
-        "text": "整體環境很乾淨明亮，店內氛圍安靜、有條理，座位之間也不會太擁擠，適合朋友聚餐或帶長輩來吃。\n\n鰻魚肉質濕潤不乾柴，配上白飯、味噌湯、小菜與漬物，是一套吃得剛剛好的餐點。\n\n熱茶無限續，餐後還可加點甜點或飲品。整體上比較偏健康、清淡系的日式家常味，適合不喜歡重口味的人。\n\n點餐用的是平板系統，操作簡單也不會漏單，餐點上菜速度還算快。環境整潔，動線流暢，吃飯過程舒適愜意。\n\n平均一份定食約 $300～400 元之間，雖然不是超平價，但以百貨商場內的用餐體驗來說，CP值算合理。特別適合想吃一份乾淨簡單、營養均衡日式定食的人。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "整體環境很乾淨明亮，店內氛圍安靜、有條理，座位之間也不會太擁擠，適合朋友聚餐或帶長輩來吃。\n\n鰻魚肉質濕潤不乾柴，配上白飯、味噌湯、小菜與漬物，是一套吃得剛剛好的餐點。\n\n熱茶無限續，餐後還可加點甜點或飲品。整體上比較偏健康、清淡系的日式家常味，適合不喜歡重口味的人。\n\n點餐用的是平板系統，操作簡單也不會漏單，餐點上菜速度還算快。環境整潔，動線流暢，吃飯過程舒適愜意。\n\n平均一份定食約 $300～400 元之間，雖然不是超平價，但以百貨商場內的用餐體驗來說，CP值算合理。特別適合想吃一份乾淨簡單、營養均衡日式定食的人。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Jay Lin",
-        "uri": "https://www.google.com/maps/contrib/111795152351945521445/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV5yd_YCVz3VUj5VUXGu3_zXde8ET_7XPWI0jmkT87-h3tjd373=s128-c0x00000000-cc-rp-mo-ba7"
-      },
-      "publishTime": "2026-01-14T06:16:36.956822063Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGcWRGcFlOMDk0WmxrMWFVeHRaVlZGUVRGNlQzYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGcWRGcFlOMDk0WmxrMWFVeHRaVlZGUVRGNlQzYxAB!2m1!1s0x3442ada094299219:0xb88ee15dcd1dc596"
-    },
-    {
-      "name": "places/ChIJGZIplKCtQjQRlsUdzV3hjrg/reviews/Ci9DQUlRQUNvZENodHljRjlvT25jMFJsRXlWMUJ6VG5kQ1p5MXhZakZxYkVwc2RYYxAB",
-      "relativePublishTimeDescription": "1 個月前",
-      "rating": 5,
-      "text": {
-        "text": "一坐下來就被甜點的菜單吸引，很認真的選擇三個套餐。\n鰻魚三吃、豪華煮定食（牛）、鮮鮭玉子雜炊和壽喜豆腐牛定食。\n鰻魚三吃，先吃原味、再加芥末，最後用茶泡飯，味道層層堆疊，很美味。\n豪華煮的牛肉加洋蔥，一口接一口，好想一直吃。\n鮮鮭玉子雜炊，飯量很足。\n甜點選了咖啡阿芙加朵和抹茶阿芙佳朵，但因為咖啡好苦，我們把兩項甜點加在一起，意外獲得好滋味。\n\n好喜歡這家的餐點。\n服務人員也很親切。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "一坐下來就被甜點的菜單吸引，很認真的選擇三個套餐。\n鰻魚三吃、豪華煮定食（牛）、鮮鮭玉子雜炊和壽喜豆腐牛定食。\n鰻魚三吃，先吃原味、再加芥末，最後用茶泡飯，味道層層堆疊，很美味。\n豪華煮的牛肉加洋蔥，一口接一口，好想一直吃。\n鮮鮭玉子雜炊，飯量很足。\n甜點選了咖啡阿芙加朵和抹茶阿芙佳朵，但因為咖啡好苦，我們把兩項甜點加在一起，意外獲得好滋味。\n\n好喜歡這家的餐點。\n服務人員也很親切。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Rita Wang",
-        "uri": "https://www.google.com/maps/contrib/111404388631193588755/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL3epByYbZraBSkDpeFSwMrSa8iVE4a7JCkTeYUKlXqCoNTBw=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2026-01-30T14:53:46.467970648Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25jMFJsRXlWMUJ6VG5kQ1p5MXhZakZxYkVwc2RYYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25jMFJsRXlWMUJ6VG5kQ1p5MXhZakZxYkVwc2RYYxAB!2m1!1s0x3442ada094299219:0xb88ee15dcd1dc596"
-    },
-    {
-      "name": "places/ChIJGZIplKCtQjQRlsUdzV3hjrg/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WTFQyRXRjWHBvT0ZWalNGUkZVVzB0VGtKeGJsRRAB",
-      "relativePublishTimeDescription": "2 個月前",
-      "rating": 3,
-      "text": {
-        "text": "平日中午，店內有不少人來用餐\n彌生軒有很多間分店，這是第一次來用餐，點了鮮鮭玉子雜炊、鰻魚玉子雜炊和金的定食。\n鮮鮭雜炊說實在的很沒味道，只能加它附的海苔絲來提味，鰻魚雜炊比較好吃一點，但店家的雜炊其實不是雜炊的做法，應該是燴飯的做法，下面一堆白飯，上面鋪上燴的蛋汁，但真的很沒味道的燴飯\n另外，金的定食也很普通\n只能說，來這種店本來也不是吃Cp值的，但沒有應有的質感，味道很空虛",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "平日中午，店內有不少人來用餐\n彌生軒有很多間分店，這是第一次來用餐，點了鮮鮭玉子雜炊、鰻魚玉子雜炊和金的定食。\n鮮鮭雜炊說實在的很沒味道，只能加它附的海苔絲來提味，鰻魚雜炊比較好吃一點，但店家的雜炊其實不是雜炊的做法，應該是燴飯的做法，下面一堆白飯，上面鋪上燴的蛋汁，但真的很沒味道的燴飯\n另外，金的定食也很普通\n只能說，來這種店本來也不是吃Cp值的，但沒有應有的質感，味道很空虛",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "神隱少女",
-        "uri": "https://www.google.com/maps/contrib/112505601079458112586/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWH8ZWD3EVGkJcdH4kPz3kQJpuIs2aYzqsRYMKP92WJ6ErMiE=s128-c0x00000000-cc-rp-mo-ba4"
-      },
-      "publishTime": "2026-01-20T11:52:53.388053154Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WTFQyRXRjWHBvT0ZWalNGUkZVVzB0VGtKeGJsRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WTFQyRXRjWHBvT0ZWalNGUkZVVzB0VGtKeGJsRRAB!2m1!1s0x3442ada094299219:0xb88ee15dcd1dc596"
-    },
-    {
-      "name": "places/ChIJGZIplKCtQjQRlsUdzV3hjrg/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SbmNEZ3RZa1UzZERsdlpFRkVOMU5rTTBsbFpFRRAB",
-      "relativePublishTimeDescription": "3 個月前",
-      "rating": 5,
-      "text": {
-        "text": "會員生日每年會贈送八五折；剛好遇上10月週年慶消費滿$800可以抽獎抽中了第二套套餐半價，最喜歡吃他的鰻飯三吃，每次都選擇鰻加量，這樣他鰻魚的份量是樓下美食街鰻鰻的大概四倍量；湯與小菜還有白飯都可以無限續加；\n點數換了茶碗蒸，結帳消費又送了免費券茶碗蒸，但是期限只有十天！",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "會員生日每年會贈送八五折；剛好遇上10月週年慶消費滿$800可以抽獎抽中了第二套套餐半價，最喜歡吃他的鰻飯三吃，每次都選擇鰻加量，這樣他鰻魚的份量是樓下美食街鰻鰻的大概四倍量；湯與小菜還有白飯都可以無限續加；\n點數換了茶碗蒸，結帳消費又送了免費券茶碗蒸，但是期限只有十天！",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Momo",
-        "uri": "https://www.google.com/maps/contrib/117421875086058652107/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXdlp5gwwjwBuENHLmr8RDZI8BCMgsd25YvWtRDFbUzj3NL_O7v=s128-c0x00000000-cc-rp-mo-ba7"
-      },
-      "publishTime": "2025-11-25T15:18:07.953376616Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SbmNEZ3RZa1UzZERsdlpFRkVOMU5rTTBsbFpFRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SbmNEZ3RZa1UzZERsdlpFRkVOMU5rTTBsbFpFRRAB!2m1!1s0x3442ada094299219:0xb88ee15dcd1dc596"
-    }
-  ]
+﻿{
+    "id":  "ChIJGZIplKCtQjQRlsUdzV3hjrg",
+    "types":  [
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2785 1518",
+    "formattedAddress":  "115, Taiwan, Taipei City, Nangang District, Huanhe Village, Jingmao 2nd Rd, 131號5F",
+    "location":  {
+                     "latitude":  25.0592558,
+                     "longitude":  121.61803099999999
+                 },
+    "rating":  3.6,
+    "websiteUri":  "https://www.yayoi.com.tw/zh/index.php",
+    "userRatingCount":  122,
+    "displayName":  {
+                        "text":  "YAYOI彌生軒 南港LaLaport店",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJGZIplKCtQjQRlsUdzV3hjrg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKalNFNXVkMmxWTUZKSmIyOUZOMjFYYkVsWE1IYxAB",
+                        "relativePublishTimeDescription":  "3 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "260221 Located on the 5th floor of LaLaport in Nangang, the space is spacious, bright, and clean. The seating is comfortable, and the tablet ordering process is smooth and intuitive. Although it gets very crowded on weekends, and diners may have to wait for a table, the food is served quickly, so the wait isn\u0027t too long!\n\n✅ Stir-fried Pork Slices with Double Vegetables Set Meal: Highly recommended! It\u0027s rare to find such a generous amount of fresh and sweet vegetables among those who eat out. The stir-fry over high heat is incredibly fragrant, and the pork slices are savory and perfect with rice. The rice is especially delicious; I kept getting refills!\n\n✅ Double Shrimp Nanban Fried Chicken: The portion is very generous. The chicken thigh meat is tender and juicy, and the sauce is excellent. The pickled radish and miso soup are both refillable, which is refreshing and helps to cut through the richness. Although my soup bowl was cracked (needs improvement), the food is both plentiful and delicious, making it still worth recommending!",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "260221\n位於 南港LaLaport 5樓，空間寬敞明亮整潔，座位舒適平板點餐流程順暢直觀，雖然假日人潮洶湧，用餐客人需要侯位，但上菜效率高，不會等太久！\n\n✅ 香炒肉片雙倍蔬菜定食：這道大推！外食族難得能吃到這麼大量的鮮甜蔬菜，大火快炒香氣十足，肉片鹹香下飯，尤其米飯煮得太好吃了，會不停的續碗！\n✅ 雙蝦南蠻炸雞：份量很有誠意，雞腿肉軟嫩多汁，醬料風味極佳，開胃解膩的醃漬蘿蔔與味噌湯皆可續，雖然我的湯碗有裂痕（需改進），但食物份量與美味兼俱，依然值得推薦！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "格格（Lily Nien）",
+                                                  "uri":  "https://www.google.com/maps/contrib/103844764868563541112/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocK0mWglJkqxJmHd0IQVY0OUGr6m9kSSOLZ20gj43aZ9oSsNNw=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2026-02-22T16:57:53.129226618Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKalNFNXVkMmxWTUZKSmIyOUZOMjFYYkVsWE1IYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKalNFNXVkMmxWTUZKSmIyOUZOMjFYYkVsWE1IYxAB!2m1!1s0x3442ada094299219:0xb88ee15dcd1dc596"
+                    },
+                    {
+                        "name":  "places/ChIJGZIplKCtQjQRlsUdzV3hjrg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGcWRGcFlOMDk0WmxrMWFVeHRaVlZGUVRGNlQzYxAB",
+                        "relativePublishTimeDescription":  "4 months ago",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "The overall environment is clean and bright, with a quiet and organized atmosphere. The seating isn\u0027t too crowded, making it suitable for gatherings with friends or dining with elders.\n\nThe eel is moist and not dry, and paired with white rice, miso soup, side dishes, and pickles, it\u0027s a perfectly balanced meal.\n\nUnlimited hot tea refills are available, and desserts or drinks can be ordered after the meal. The overall flavor is healthier and lighter, with a Japanese home-style taste, suitable for those who don\u0027t like strong flavors.\n\nOrdering is done via a tablet system, which is simple to use and prevents missed orders. Food is served relatively quickly. The clean environment and smooth flow make for a comfortable and pleasant dining experience.\n\nAn average set meal costs between $300 and $400. While not super cheap, it\u0027s reasonable value for money considering the dining experience within a department store. It\u0027s especially suitable for those who want a clean, simple, and nutritionally balanced Japanese set meal.",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "整體環境很乾淨明亮，店內氛圍安靜、有條理，座位之間也不會太擁擠，適合朋友聚餐或帶長輩來吃。\n\n鰻魚肉質濕潤不乾柴，配上白飯、味噌湯、小菜與漬物，是一套吃得剛剛好的餐點。\n\n熱茶無限續，餐後還可加點甜點或飲品。整體上比較偏健康、清淡系的日式家常味，適合不喜歡重口味的人。\n\n點餐用的是平板系統，操作簡單也不會漏單，餐點上菜速度還算快。環境整潔，動線流暢，吃飯過程舒適愜意。\n\n平均一份定食約 $300～400 元之間，雖然不是超平價，但以百貨商場內的用餐體驗來說，CP值算合理。特別適合想吃一份乾淨簡單、營養均衡日式定食的人。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Jay Lin",
+                                                  "uri":  "https://www.google.com/maps/contrib/111795152351945521445/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjV5yd_YCVz3VUj5VUXGu3_zXde8ET_7XPWI0jmkT87-h3tjd373=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2026-01-14T06:16:36.956822063Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGcWRGcFlOMDk0WmxrMWFVeHRaVlZGUVRGNlQzYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGcWRGcFlOMDk0WmxrMWFVeHRaVlZGUVRGNlQzYxAB!2m1!1s0x3442ada094299219:0xb88ee15dcd1dc596"
+                    },
+                    {
+                        "name":  "places/ChIJGZIplKCtQjQRlsUdzV3hjrg/reviews/Ci9DQUlRQUNvZENodHljRjlvT25jMFJsRXlWMUJ6VG5kQ1p5MXhZakZxYkVwc2RYYxAB",
+                        "relativePublishTimeDescription":  "4 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "As soon as we sat down, we were drawn to the dessert menu and carefully selected three set meals:\n\nThree-way eel, Deluxe Simmered Beef Set Meal, Fresh Salmon Tamagoyaki, and Sukiyaki Tofu Beef Set Meal.\n\nThe three-way eel was delicious – first enjoyed plain, then with wasabi, and finally with ochazuke (rice with tea). The layers of flavor were wonderfully layered.\n\nThe Deluxe Simmered Beef with onions was so good, I wanted to keep eating it.\n\nThe Fresh Salmon Tamagoyaki was very generous with the portion size.\n\nFor dessert, we chose a coffee affogato and a matcha affogato, but because the coffee was so bitter, we combined both desserts, which surprisingly turned out to be a delightful combination.\n\nI really loved the food at this restaurant.\n\nThe staff were also very friendly.",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "一坐下來就被甜點的菜單吸引，很認真的選擇三個套餐。\n鰻魚三吃、豪華煮定食（牛）、鮮鮭玉子雜炊和壽喜豆腐牛定食。\n鰻魚三吃，先吃原味、再加芥末，最後用茶泡飯，味道層層堆疊，很美味。\n豪華煮的牛肉加洋蔥，一口接一口，好想一直吃。\n鮮鮭玉子雜炊，飯量很足。\n甜點選了咖啡阿芙加朵和抹茶阿芙佳朵，但因為咖啡好苦，我們把兩項甜點加在一起，意外獲得好滋味。\n\n好喜歡這家的餐點。\n服務人員也很親切。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Rita Wang",
+                                                  "uri":  "https://www.google.com/maps/contrib/111404388631193588755/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocL3epByYbZraBSkDpeFSwMrSa8iVE4a7JCkTeYUKlXqCoNTBw=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2026-01-30T14:53:46.467970648Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25jMFJsRXlWMUJ6VG5kQ1p5MXhZakZxYkVwc2RYYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25jMFJsRXlWMUJ6VG5kQ1p5MXhZakZxYkVwc2RYYxAB!2m1!1s0x3442ada094299219:0xb88ee15dcd1dc596"
+                    },
+                    {
+                        "name":  "places/ChIJGZIplKCtQjQRlsUdzV3hjrg/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WTFQyRXRjWHBvT0ZWalNGUkZVVzB0VGtKeGJsRRAB",
+                        "relativePublishTimeDescription":  "4 months ago",
+                        "rating":  3,
+                        "text":  {
+                                     "text":  "On a weekday lunchtime, the restaurant was quite busy with diners.\n\nYayoiken has many branches, and this was my first time dining there. I ordered fresh salmon tamagoyaki, eel tamagoyaki, and a set meal with gold.\n\nThe fresh salmon tamagoyaki was honestly very bland; the only way to enhance the flavor was by adding the accompanying seaweed strips. The eel tamagoyaki was a bit better, but the restaurant\u0027s tamagoyaki wasn\u0027t actually made like tamagoyaki; it was more like a risotto—a pile of white rice topped with a layer of scrambled eggs, but it was really tasteless risotto.\n\nThe gold set meal was also very ordinary.\n\nI can only say that you\u0027re not really looking for value for money at this kind of restaurant, but it lacked the expected quality and the flavors were rather empty.",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "平日中午，店內有不少人來用餐\n彌生軒有很多間分店，這是第一次來用餐，點了鮮鮭玉子雜炊、鰻魚玉子雜炊和金的定食。\n鮮鮭雜炊說實在的很沒味道，只能加它附的海苔絲來提味，鰻魚雜炊比較好吃一點，但店家的雜炊其實不是雜炊的做法，應該是燴飯的做法，下面一堆白飯，上面鋪上燴的蛋汁，但真的很沒味道的燴飯\n另外，金的定食也很普通\n只能說，來這種店本來也不是吃Cp值的，但沒有應有的質感，味道很空虛",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "神隱少女",
+                                                  "uri":  "https://www.google.com/maps/contrib/112505601079458112586/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWWH8ZWD3EVGkJcdH4kPz3kQJpuIs2aYzqsRYMKP92WJ6ErMiE=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2026-01-20T11:52:53.388053154Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WTFQyRXRjWHBvT0ZWalNGUkZVVzB0VGtKeGJsRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WTFQyRXRjWHBvT0ZWalNGUkZVVzB0VGtKeGJsRRAB!2m1!1s0x3442ada094299219:0xb88ee15dcd1dc596"
+                    },
+                    {
+                        "name":  "places/ChIJGZIplKCtQjQRlsUdzV3hjrg/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SbmNEZ3RZa1UzZERsdlpFRkVOMU5rTTBsbFpFRRAB",
+                        "relativePublishTimeDescription":  "6 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Members receive a 15% discount on their birthday each year; coincidentally, during the October anniversary sale, spending over $800 entered a lucky draw for a second set meal at half price. My favorite is their three-way eel rice, and I always choose the extra eel option, which makes the eel portion about four times the size of what you get at the food court downstairs; soup, side dishes, and rice are all unlimited refills; I redeemed points for chawanmushi (steamed egg custard), and received a free chawanmushi voucher with my purchase, but it\u0027s only valid for ten days!",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "會員生日每年會贈送八五折；剛好遇上10月週年慶消費滿$800可以抽獎抽中了第二套套餐半價，最喜歡吃他的鰻飯三吃，每次都選擇鰻加量，這樣他鰻魚的份量是樓下美食街鰻鰻的大概四倍量；湯與小菜還有白飯都可以無限續加；\n點數換了茶碗蒸，結帳消費又送了免費券茶碗蒸，但是期限只有十天！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Momo",
+                                                  "uri":  "https://www.google.com/maps/contrib/117421875086058652107/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXdlp5gwwjwBuENHLmr8RDZI8BCMgsd25YvWtRDFbUzj3NL_O7v=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2025-11-25T15:18:07.953376616Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SbmNEZ3RZa1UzZERsdlpFRkVOMU5rTTBsbFpFRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SbmNEZ3RZa1UzZERsdlpFRkVOMU5rTTBsbFpFRRAB!2m1!1s0x3442ada094299219:0xb88ee15dcd1dc596"
+                    }
+                ]
 }

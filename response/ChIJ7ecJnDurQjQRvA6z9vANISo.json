@@ -1,132 +1,111 @@
-{
-  "id": "ChIJ7ecJnDurQjQRvA6z9vANISo",
-  "types": [
-    "coffee_shop",
-    "cafe",
-    "food_store",
-    "food",
-    "point_of_interest",
-    "store",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2651 5023",
-  "formattedAddress": "115台灣臺北市南港區新光里忠孝東路六段470號",
-  "location": {
-    "latitude": 25.050362,
-    "longitude": 121.59471499999998
-  },
-  "rating": 4.5,
-  "websiteUri": "https://www.facebook.com/share/15bABejtb4/?mibextid=wwXIfr",
-  "userRatingCount": 139,
-  "displayName": {
-    "text": "昆陽有COFFEE(提供插座/wifi)",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJ7ecJnDurQjQRvA6z9vANISo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKVmNGcENkemRrUmtST2FqVnhiRlpPY1daRmJHYxAB",
-      "relativePublishTimeDescription": "3 個月前",
-      "rating": 4,
-      "text": {
-        "text": "內用座位不多，餐點選擇蠻豐富的。有WiFi ,插座，整體環境簡單乾淨。有限時2小時，超時需再加點一杯飲料。餐點意外的份量充足且可口，價格也親民。檸檬美式相對的讓人很錯愕，檸檬酸度不明顯，甜味尚可但咖啡過苦，整體的協調度不是很好，不清爽，不推薦。\n可Linepay ,信用卡，現金。低消一杯飲料/人。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "內用座位不多，餐點選擇蠻豐富的。有WiFi ,插座，整體環境簡單乾淨。有限時2小時，超時需再加點一杯飲料。餐點意外的份量充足且可口，價格也親民。檸檬美式相對的讓人很錯愕，檸檬酸度不明顯，甜味尚可但咖啡過苦，整體的協調度不是很好，不清爽，不推薦。\n可Linepay ,信用卡，現金。低消一杯飲料/人。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Selina Wei",
-        "uri": "https://www.google.com/maps/contrib/109316656585064607645/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVsqpvi8p7m7J1ZN7T7FRB4kqPqujZvZydNGMQk5zAbv7CSyxE=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2026-02-06T00:48:55.534269895Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKVmNGcENkemRrUmtST2FqVnhiRlpPY1daRmJHYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKVmNGcENkemRrUmtST2FqVnhiRlpPY1daRmJHYxAB!2m1!1s0x3442ab3b9c09e7ed:0x2a210df0f6b30ebc"
-    },
-    {
-      "name": "places/ChIJ7ecJnDurQjQRvA6z9vANISo/reviews/Ci9DQUlRQUNvZENodHljRjlvT214TWJFYzNWRGwwUjI5elIycExRVFJsUkhRMU1FRRAB",
-      "relativePublishTimeDescription": "4 個月前",
-      "rating": 5,
-      "text": {
-        "text": "100分的店家！飲料好喝又便宜，座位舒服還有插座跟WiFi，廁所也乾淨。店家不僅在我坐到一半時主動詢問要不要換到有插座的位子，飲料喝不完還問說要不要外帶，這麼佛心的咖啡廳真的該漲價一下🤣",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "100分的店家！飲料好喝又便宜，座位舒服還有插座跟WiFi，廁所也乾淨。店家不僅在我坐到一半時主動詢問要不要換到有插座的位子，飲料喝不完還問說要不要外帶，這麼佛心的咖啡廳真的該漲價一下🤣",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Lucy",
-        "uri": "https://www.google.com/maps/contrib/103166140518207810961/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK7DLPTv7o9Ohgm0wG6qJ2VERPLgoIEKzD8zEjWneeWQJlHRg=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2026-01-24T10:50:24.292832601Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214TWJFYzNWRGwwUjI5elIycExRVFJsUkhRMU1FRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214TWJFYzNWRGwwUjI5elIycExRVFJsUkhRMU1FRRAB!2m1!1s0x3442ab3b9c09e7ed:0x2a210df0f6b30ebc"
-    },
-    {
-      "name": "places/ChIJ7ecJnDurQjQRvA6z9vANISo/reviews/ChdDSUhNMG9nS0VJQ0FnTURRcjRDTHJnRRAB",
-      "relativePublishTimeDescription": "1 年前",
-      "rating": 5,
-      "text": {
-        "text": "環境簡潔乾淨，不過座位有點少。我點了白桃美式冰咖啡（大杯+15）、雞腿排瑪芬堡（另外加蛋+15）、觀世音烤奶生乳酪（需退冰），我一開始覺得白桃好像很特別，但喝著喝著，又覺得還好，沒有很驚艷，甜度我覺得點正常甜，味道比較有出來。瑪芬也普通吧，雞腿排不是那種一大塊的，起司也沒很多，不過味道還可以。我其實最喜歡他的甜點，他還沒完全退冰時，吃起來有種冰沙的口感，等他退冰之後，就屬於入口即化那種，可以吃到兩種口感，而且香氣也夠，不會很甜膩。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "環境簡潔乾淨，不過座位有點少。我點了白桃美式冰咖啡（大杯+15）、雞腿排瑪芬堡（另外加蛋+15）、觀世音烤奶生乳酪（需退冰），我一開始覺得白桃好像很特別，但喝著喝著，又覺得還好，沒有很驚艷，甜度我覺得點正常甜，味道比較有出來。瑪芬也普通吧，雞腿排不是那種一大塊的，起司也沒很多，不過味道還可以。我其實最喜歡他的甜點，他還沒完全退冰時，吃起來有種冰沙的口感，等他退冰之後，就屬於入口即化那種，可以吃到兩種口感，而且香氣也夠，不會很甜膩。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "潘欣筠",
-        "uri": "https://www.google.com/maps/contrib/116368204932494047445/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ0YQEKWGJ8-J0aNhUf30hdkL50FBnOLgWA9g6ORFE6CKcd1A=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2025-03-15T11:32:01.932328Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRcjRDTHJnRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRcjRDTHJnRRAB!2m1!1s0x3442ab3b9c09e7ed:0x2a210df0f6b30ebc"
-    },
-    {
-      "name": "places/ChIJ7ecJnDurQjQRvA6z9vANISo/reviews/ChdDSUhNMG9nS0VJQ0FnTUN3d2ZPMV93RRAB",
-      "relativePublishTimeDescription": "1 年前",
-      "rating": 4,
-      "text": {
-        "text": "環境乾淨，飲品很大杯，我們點的是冰蜂蜜柚子茶以及熱的水果茶，以65元的價格來說真的很值得。另外座位旁也有插座，臨時辦公或唸書都很適合，這次可惜已經吃飽才過來，不然可以試試早午餐。\n只是位置沒有很多，不知道之後來，會不會客滿。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "環境乾淨，飲品很大杯，我們點的是冰蜂蜜柚子茶以及熱的水果茶，以65元的價格來說真的很值得。另外座位旁也有插座，臨時辦公或唸書都很適合，這次可惜已經吃飽才過來，不然可以試試早午餐。\n只是位置沒有很多，不知道之後來，會不會客滿。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "nana wu",
-        "uri": "https://www.google.com/maps/contrib/108923459083999119179/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUzqwlwPjB0ywfPOn1qmjYKj74_PHg6_oWMqxUvTTtOUFuG91n2=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2025-03-19T08:43:52.295894Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUN3d2ZPMV93RRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUN3d2ZPMV93RRAB!2m1!1s0x3442ab3b9c09e7ed:0x2a210df0f6b30ebc"
-    },
-    {
-      "name": "places/ChIJ7ecJnDurQjQRvA6z9vANISo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYd05qaTF3RRAB",
-      "relativePublishTimeDescription": "1 年前",
-      "rating": 5,
-      "text": {
-        "text": "因為很喜歡，週末連續兩天造訪，今天點了早午餐，小巧健康美味，店家給人非常舒服的感覺。\n\n咖啡好大一杯，服務很親切，氣氛好，環境舒適，裝潢超喜歡🤍🩶💙",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "因為很喜歡，週末連續兩天造訪，今天點了早午餐，小巧健康美味，店家給人非常舒服的感覺。\n\n咖啡好大一杯，服務很親切，氣氛好，環境舒適，裝潢超喜歡🤍🩶💙",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Lawrence Chen",
-        "uri": "https://www.google.com/maps/contrib/103682775355087762732/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVEpxCfbozUqWYvuapmfflFTNnipRgxjQrUoYfqaNFqCnZZ9Unq=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2024-10-13T05:02:40.108042Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYd05qaTF3RRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYd05qaTF3RRAB!2m1!1s0x3442ab3b9c09e7ed:0x2a210df0f6b30ebc"
-    }
-  ]
+﻿{
+    "id":  "ChIJ7ecJnDurQjQRvA6z9vANISo",
+    "types":  [
+                  "coffee_shop",
+                  "cafe",
+                  "food_store",
+                  "store",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2651 5023",
+    "formattedAddress":  "No. 470號, Section 6, Zhongxiao E Rd, Xinguang Village, Nangang District, Taipei City, Taiwan 115",
+    "location":  {
+                     "latitude":  25.050362,
+                     "longitude":  121.59471499999998
+                 },
+    "rating":  4.5,
+    "websiteUri":  "https://www.facebook.com/share/15bABejtb4/?mibextid=wwXIfr",
+    "userRatingCount":  139,
+    "displayName":  {
+                        "text":  "昆陽有COFFEE(提供插座/wifi)",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJ7ecJnDurQjQRvA6z9vANISo/reviews/ChZDSUhNMG9nS0VJQ0FnSURfMmRlYVlBEAE",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Nice coffee, excellent customer service! Highly recommended!",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Nice coffee, excellent customer service! Highly recommended!",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "W Chris",
+                                                  "uri":  "https://www.google.com/maps/contrib/105780952543471020479/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocLUq9_MJbmba036uiBFnTYJc7jbozsJrLhvhuu3G3-eZxwiQg=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-01-25T12:00:33.734752Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfMmRlYVlBEAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfMmRlYVlBEAE!2m1!1s0x3442ab3b9c09e7ed:0x2a210df0f6b30ebc"
+                    },
+                    {
+                        "name":  "places/ChIJ7ecJnDurQjQRvA6z9vANISo/reviews/ChdDSUhNMG9nS0VJQ0FnSURIeHNpTmdnRRAB",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Great café. Nice people, good food and wonderful coffee.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Great café. Nice people, good food and wonderful coffee.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "S P",
+                                                  "uri":  "https://www.google.com/maps/contrib/112629343928929880794/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocJtb3bCidmRAdZ9u3jf4vhLMnE4eB8exQU6SoQ4MGodO_AXvQ=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2024-09-15T08:13:16.503181Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURIeHNpTmdnRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURIeHNpTmdnRRAB!2m1!1s0x3442ab3b9c09e7ed:0x2a210df0f6b30ebc"
+                    },
+                    {
+                        "name":  "places/ChIJ7ecJnDurQjQRvA6z9vANISo/reviews/ChdDSUhNMG9nS0VKSHdvTGl1dnBYWXpBRRAB",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Very Good ❤️🇹🇼",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Very Good ❤️🇹🇼",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Omar Mahmoud",
+                                                  "uri":  "https://www.google.com/maps/contrib/110334066823673385515/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjX-hJgWQhO77fWy5GznXZ2uCU0nsecc5uoLyPOjelgpI4af6TY=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2025-05-19T04:44:50.481032Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VKSHdvTGl1dnBYWXpBRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VKSHdvTGl1dnBYWXpBRRAB!2m1!1s0x3442ab3b9c09e7ed:0x2a210df0f6b30ebc"
+                    },
+                    {
+                        "name":  "places/ChIJ7ecJnDurQjQRvA6z9vANISo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKVmNGcENkemRrUmtST2FqVnhiRlpPY1daRmJHYxAB",
+                        "relativePublishTimeDescription":  "3 months ago",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "There are limited seats inside, but the food selection is quite extensive. There\u0027s Wi-Fi and power outlets, and the overall environment is simple and clean. There\u0027s a 2-hour time limit; exceeding this time requires ordering an additional drink. The food portions are surprisingly generous and delicious, and the prices are reasonable. The lemon Americano, however, was a disappointment; the lemon acidity was weak, the sweetness was acceptable, but the coffee was too bitter, resulting in a poor overall balance and a less refreshing experience. I wouldn\u0027t recommend it.\n\nLinepay, credit cards, and cash are accepted. A minimum spend of one drink per person is required.",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "內用座位不多，餐點選擇蠻豐富的。有WiFi ,插座，整體環境簡單乾淨。有限時2小時，超時需再加點一杯飲料。餐點意外的份量充足且可口，價格也親民。檸檬美式相對的讓人很錯愕，檸檬酸度不明顯，甜味尚可但咖啡過苦，整體的協調度不是很好，不清爽，不推薦。\n可Linepay ,信用卡，現金。低消一杯飲料/人。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Selina Wei",
+                                                  "uri":  "https://www.google.com/maps/contrib/109316656585064607645/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVsqpvi8p7m7J1ZN7T7FRB4kqPqujZvZydNGMQk5zAbv7CSyxE=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2026-02-06T00:48:55.534269895Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKVmNGcENkemRrUmtST2FqVnhiRlpPY1daRmJHYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKVmNGcENkemRrUmtST2FqVnhiRlpPY1daRmJHYxAB!2m1!1s0x3442ab3b9c09e7ed:0x2a210df0f6b30ebc"
+                    }
+                ]
 }

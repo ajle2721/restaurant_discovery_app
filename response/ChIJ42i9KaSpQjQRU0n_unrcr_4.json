@@ -1,134 +1,50 @@
-{
-  "id": "ChIJ42i9KaSpQjQRU0n_unrcr_4",
-  "types": [
-    "brunch_restaurant",
-    "cafe",
-    "breakfast_restaurant",
-    "food_store",
-    "store",
-    "restaurant",
-    "point_of_interest",
-    "food",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2365 7966",
-  "formattedAddress": "100台灣臺北市中正區螢圃里汀州路二段150號一樓",
-  "location": {
-    "latitude": 25.0241913,
-    "longitude": 121.5213377
-  },
-  "rating": 4.3,
-  "websiteUri": "https://www.instagram.com/blue_door_150/",
-  "userRatingCount": 851,
-  "displayName": {
-    "text": "藍門咖啡早午餐",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJ42i9KaSpQjQRU0n_unrcr_4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4eU9XRTViVUZyUVY5VGRqbEZiMGRmVEdGSGRVRRAB",
-      "relativePublishTimeDescription": "3 個月前",
-      "rating": 5,
-      "text": {
-        "text": "昨天本來想去店內用餐，但因為Google有顯示營業，可是到場沒有開門，可能是因為春假的關係，今天看到Uber Eats上面有就嘗試外送。\n\n外送價格比現場價格多了$20，覺得還在合理的範圍，餐點整體都蠻好吃的，但用外送盒覺得有點可惜，因為所有東西都擠在一起，檸檬有點乾，會建議到店內吃，可能感受會更美味😋",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "昨天本來想去店內用餐，但因為Google有顯示營業，可是到場沒有開門，可能是因為春假的關係，今天看到Uber Eats上面有就嘗試外送。\n\n外送價格比現場價格多了$20，覺得還在合理的範圍，餐點整體都蠻好吃的，但用外送盒覺得有點可惜，因為所有東西都擠在一起，檸檬有點乾，會建議到店內吃，可能感受會更美味😋",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "LIN CHIA",
-        "uri": "https://www.google.com/maps/contrib/114489136626438736891/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU4LHeGqoicLe5gYeeNQeEvSleHJPbC-x29ECPxg_A3ybFc5VB_=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2026-02-23T02:32:00.850494820Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4eU9XRTViVUZyUVY5VGRqbEZiMGRmVEdGSGRVRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4eU9XRTViVUZyUVY5VGRqbEZiMGRmVEdGSGRVRRAB!2m1!1s0x3442a9a429bd68e3:0xfeafdc7abaff4953"
-    },
-    {
-      "name": "places/ChIJ42i9KaSpQjQRU0n_unrcr_4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sd2NFWnZTVFF0U1hCNVNqRjFNVE41WlhKWVYwRRAB",
-      "relativePublishTimeDescription": "3 個月前",
-      "rating": 2,
-      "text": {
-        "text": "這不是南洋蔬食義大利麵，整盤就是4、5根粗大紅椒加2片玉米筍，老闆應該是要改菜單為‘’大紅椒義大利麵‘’\n沒菜了點餐時可以告知。\n來很多次了，第一次吃到這樣，\n失望\n沒幾個人可以這樣吃紅椒吧",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "這不是南洋蔬食義大利麵，整盤就是4、5根粗大紅椒加2片玉米筍，老闆應該是要改菜單為‘’大紅椒義大利麵‘’\n沒菜了點餐時可以告知。\n來很多次了，第一次吃到這樣，\n失望\n沒幾個人可以這樣吃紅椒吧",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "吳佳珍",
-        "uri": "https://www.google.com/maps/contrib/105836364990935421654/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZDaegPAmRvXpsz3CPXG2N-I2m9ZMYGtN7UD2-RrBX0SVR29Y8cQ=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2026-02-13T04:42:48.234829790Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sd2NFWnZTVFF0U1hCNVNqRjFNVE41WlhKWVYwRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sd2NFWnZTVFF0U1hCNVNqRjFNVE41WlhKWVYwRRAB!2m1!1s0x3442a9a429bd68e3:0xfeafdc7abaff4953"
-    },
-    {
-      "name": "places/ChIJ42i9KaSpQjQRU0n_unrcr_4/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sM1EyNXNiVnBqYWprM1FVNDFZa2hmZWxsYVkyYxAB",
-      "relativePublishTimeDescription": "3 個月前",
-      "rating": 5,
-      "text": {
-        "text": "我覺得和風醬沙拉很好，但孩子更喜歡千島醬，有得選擇就很棒。份量多全部吃完超飽的。孩子不愛套餐內的紅茶，我點的蔬食裡面濃濃起司跟青菜混在一起很好吃 ，下次有機會再來吃他們義大利麵看看。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "我覺得和風醬沙拉很好，但孩子更喜歡千島醬，有得選擇就很棒。份量多全部吃完超飽的。孩子不愛套餐內的紅茶，我點的蔬食裡面濃濃起司跟青菜混在一起很好吃 ，下次有機會再來吃他們義大利麵看看。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Linda姐姐",
-        "uri": "https://www.google.com/maps/contrib/107662629362472647172/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVt9xlw813EGS26ncoEBpvlUnGOZn2OdQPmXhLm6GsDvxzHU9Oi=s128-c0x00000000-cc-rp-mo-ba2"
-      },
-      "publishTime": "2026-01-25T08:17:12.686488423Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sM1EyNXNiVnBqYWprM1FVNDFZa2hmZWxsYVkyYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sM1EyNXNiVnBqYWprM1FVNDFZa2hmZWxsYVkyYxAB!2m1!1s0x3442a9a429bd68e3:0xfeafdc7abaff4953"
-    },
-    {
-      "name": "places/ChIJ42i9KaSpQjQRU0n_unrcr_4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKUGNEbHFiR1p1VEUxZmJVd3hhMFZYUlZwaFQxRRAB",
-      "relativePublishTimeDescription": "4 個月前",
-      "rating": 5,
-      "text": {
-        "text": "2025.12.24\n謝謝同事請吃午餐！！！\n\n香草雞腿炒蛋 青茶(無糖)\n沙拉好吃！裡面還有蘋果🍎\n雞腿有點小（但調味是好吃的很嫩）\n佛卡夏微乾\n地瓜泥超棒！\n\n2026.01.19\n芥末雞胸沙拉好吃！！可以點！",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "2025.12.24\n謝謝同事請吃午餐！！！\n\n香草雞腿炒蛋 青茶(無糖)\n沙拉好吃！裡面還有蘋果🍎\n雞腿有點小（但調味是好吃的很嫩）\n佛卡夏微乾\n地瓜泥超棒！\n\n2026.01.19\n芥末雞胸沙拉好吃！！可以點！",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "吳伊聆",
-        "uri": "https://www.google.com/maps/contrib/114150217359902763252/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5O5eLFfsvCIqLe-UvN4MWacrdSglpBchpnNbI_x-lQ72__tIj=s128-c0x00000000-cc-rp-mo-ba7"
-      },
-      "publishTime": "2026-01-19T11:04:20.138516626Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKUGNEbHFiR1p1VEUxZmJVd3hhMFZYUlZwaFQxRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKUGNEbHFiR1p1VEUxZmJVd3hhMFZYUlZwaFQxRRAB!2m1!1s0x3442a9a429bd68e3:0xfeafdc7abaff4953"
-    },
-    {
-      "name": "places/ChIJ42i9KaSpQjQRU0n_unrcr_4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKc2JucEdiVFZGVW0xdlEyb3RWSFozTjA1NVVHYxAB",
-      "relativePublishTimeDescription": "4 個月前",
-      "rating": 1,
-      "text": {
-        "text": "第一次來吃發現麵條太硬，像是沒煮熟的，跟服務員反應，只說已吃了，態度很硬，沒一點周轉餘地；問題是沒吃  怎知麵條會這麼硬？料理也吃來普通，這樣的價格顯得有些貴！大概不會想再來這家餐廳消費了",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "第一次來吃發現麵條太硬，像是沒煮熟的，跟服務員反應，只說已吃了，態度很硬，沒一點周轉餘地；問題是沒吃  怎知麵條會這麼硬？料理也吃來普通，這樣的價格顯得有些貴！大概不會想再來這家餐廳消費了",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "王欣",
-        "uri": "https://www.google.com/maps/contrib/103004439788709750748/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV1XibClf6EdbL6GTMiFs6AICuvI1zIGz157VtzFTNNgOjqSDzm=s128-c0x00000000-cc-rp-mo"
-      },
-      "publishTime": "2025-12-29T05:33:04.564924050Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKc2JucEdiVFZGVW0xdlEyb3RWSFozTjA1NVVHYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKc2JucEdiVFZGVW0xdlEyb3RWSFozTjA1NVVHYxAB!2m1!1s0x3442a9a429bd68e3:0xfeafdc7abaff4953"
-    }
-  ]
+﻿{
+    "id":  "ChIJ42i9KaSpQjQRU0n_unrcr_4",
+    "types":  [
+                  "brunch_restaurant",
+                  "breakfast_restaurant",
+                  "cafe",
+                  "food_store",
+                  "store",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2365 7966",
+    "formattedAddress":  "100, Taiwan, Taipei City, Zhongzheng District, 中正區 Section 2, Tingzhou Rd, 150號一樓",
+    "location":  {
+                     "latitude":  25.0241913,
+                     "longitude":  121.5213377
+                 },
+    "rating":  4.3,
+    "websiteUri":  "https://www.instagram.com/blue_door_150/",
+    "userRatingCount":  852,
+    "displayName":  {
+                        "text":  "BLUE DOOR",
+                        "languageCode":  "en"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJ42i9KaSpQjQRU0n_unrcr_4/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzeHFIYk9REAE",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Great little spot with big taste! I ordered the smoked lemon salmon omelet with capers and cheese. The eggs were delightfully cooked to perfection. The raisin bread, salad, and green tea  were perfect complements to this beautiful creation. The atmosphere is modern and comfortable with a nice selection of seats, and the staff is patient and considerate. I am definitely looking forward to returning soon.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Great little spot with big taste! I ordered the smoked lemon salmon omelet with capers and cheese. The eggs were delightfully cooked to perfection. The raisin bread, salad, and green tea  were perfect complements to this beautiful creation. The atmosphere is modern and comfortable with a nice selection of seats, and the staff is patient and considerate. I am definitely looking forward to returning soon.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Greg Porter",
+                                                  "uri":  "https://www.google.com/maps/contrib/114789649123538664648/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWmuD7vUO9iGhGk4l4jakLzO5REPkLzytgPU8e7JyubQub24QLr=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2024-11-14T15:51:17.717093Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzeHFIYk9REAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzeHFIYk9REAE!2m1!1s0x3442a9a429bd68e3:0xfeafdc7abaff4953"
+                    }
+                ]
 }

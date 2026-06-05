@@ -1,131 +1,110 @@
-{
-  "id": "ChIJP9MYKDWtQjQR0SUQGZ4HRAA",
-  "types": [
-    "cafe",
-    "food_store",
-    "store",
-    "food",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2659 8700",
-  "formattedAddress": "114台灣臺北市內湖區港墘里瑞光路410號",
-  "location": {
-    "latitude": 25.0781301,
-    "longitude": 121.57028090000001
-  },
-  "rating": 4.5,
-  "websiteUri": "http://shop.micafeto.com.tw/",
-  "userRatingCount": 110,
-  "displayName": {
-    "text": "和風美咖 MI CAFETO︱精品咖啡︱咖啡豆專賣︱職人手沖咖啡課程",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJP9MYKDWtQjQR0SUQGZ4HRAA/reviews/ChdDSUhNMG9nS0VJeWdzdTY2dk5TNDNnRRAB",
-      "relativePublishTimeDescription": "1 年前",
-      "rating": 5,
-      "text": {
-        "text": "充滿藝術氣息的咖啡廳，咖啡豆的容器很特別、豆標很藝術，黃經理和尤店長都非常熱情又詳細的介紹所有相關的一切，品咖啡的藝術饗宴，站在專業沖泡師旁，聞著咖啡香聽他說明沖泡的技巧，好享受。\n咖啡入口，不同溫度不同口感，醇厚甘甜、香氣在鼻腔和喉間迴盪，回甘持續著…...\n甜點也是令人驚豔，好看又好吃！\n一切都是這麼的美好，很棒的咖啡小旅程！",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "充滿藝術氣息的咖啡廳，咖啡豆的容器很特別、豆標很藝術，黃經理和尤店長都非常熱情又詳細的介紹所有相關的一切，品咖啡的藝術饗宴，站在專業沖泡師旁，聞著咖啡香聽他說明沖泡的技巧，好享受。\n咖啡入口，不同溫度不同口感，醇厚甘甜、香氣在鼻腔和喉間迴盪，回甘持續著…...\n甜點也是令人驚豔，好看又好吃！\n一切都是這麼的美好，很棒的咖啡小旅程！",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "ming Kaichi",
-        "uri": "https://www.google.com/maps/contrib/102123906454893432576/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK9wBW7E-KXc0S906sMqam4XGKxJdWImRAozOG2I1UzGAu9Fw=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2025-05-16T14:44:27.300242Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJeWdzdTY2dk5TNDNnRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJeWdzdTY2dk5TNDNnRRAB!2m1!1s0x3442ad352818d33f:0x44079e191025d1"
-    },
-    {
-      "name": "places/ChIJP9MYKDWtQjQR0SUQGZ4HRAA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwSWFEVlNVVW80YkZJd1YyVnBPRGRLVVVKemIwRRAB",
-      "relativePublishTimeDescription": "4 個月前",
-      "rating": 4,
-      "text": {
-        "text": "推薦哥倫比亞貝拉維斯塔！\n巴西蒙多諾沃，巧克力吐司不錯！\n餅干！",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "推薦哥倫比亞貝拉維斯塔！\n巴西蒙多諾沃，巧克力吐司不錯！\n餅干！",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Eric Shih",
-        "uri": "https://www.google.com/maps/contrib/117275356535179626898/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIlhZoQf-3h6qvYcq_xuS1v8jp2B3ZXzHZA9beTlRyxmeKorsE6=s128-c0x00000000-cc-rp-mo-ba8"
-      },
-      "publishTime": "2026-01-10T05:04:33.444453852Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwSWFEVlNVVW80YkZJd1YyVnBPRGRLVVVKemIwRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwSWFEVlNVVW80YkZJd1YyVnBPRGRLVVVKemIwRRAB!2m1!1s0x3442ad352818d33f:0x44079e191025d1"
-    },
-    {
-      "name": "places/ChIJP9MYKDWtQjQR0SUQGZ4HRAA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25reVptdHdSMDEzTVRkeVpYQkhTa1JtVW5aMmRrRRAB",
-      "relativePublishTimeDescription": "1 年前",
-      "rating": 5,
-      "text": {
-        "text": "走精品咖啡路線\nPremium Cru 的咖啡豆大約6-700/杯\n也有下午茶組合給愛甜食的朋友們\n服務人員都超專業，喜歡什麼口味的都會幫客人挑選，會想再來的店",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "走精品咖啡路線\nPremium Cru 的咖啡豆大約6-700/杯\n也有下午茶組合給愛甜食的朋友們\n服務人員都超專業，喜歡什麼口味的都會幫客人挑選，會想再來的店",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Albert Yen",
-        "uri": "https://www.google.com/maps/contrib/108576012470249330853/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWEVN65ZCAevBjd71ChwgNzy9jxePoWwenA7tDsA-xV0TStB6cg=s128-c0x00000000-cc-rp-mo-ba7"
-      },
-      "publishTime": "2025-05-23T11:58:17.868427289Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25reVptdHdSMDEzTVRkeVpYQkhTa1JtVW5aMmRrRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25reVptdHdSMDEzTVRkeVpYQkhTa1JtVW5aMmRrRRAB!2m1!1s0x3442ad352818d33f:0x44079e191025d1"
-    },
-    {
-      "name": "places/ChIJP9MYKDWtQjQR0SUQGZ4HRAA/reviews/ChZDSUhNMG9nS0VJQ0FnSUR6b2FDcFdnEAE",
-      "relativePublishTimeDescription": "1 年前",
-      "rating": 5,
-      "text": {
-        "text": "如果你是老饕，又是手沖咖啡的狂熱份子，應該來這試試台北手沖咖啡價格的天花板！八個人喝咖啡可以喝超過新台幣兩萬，十分特別的體驗！\n\n這裡是日本 Mi Cafeto 海外的唯一分店，創辦人在全世界獵奇他心中的好咖啡，透過最科學、也是奢侈的方法保存咖啡最佳味道，或許很多咖啡從業者不認同，不過，透過他們對待咖啡的方法、儀式讓人明白，咖啡在另一群人眼中如此珍貴，好比黃金！\n\n記得，來這挑一瓶真空咖啡豆沒太大意義，在當場喝才是王道！尤其日籍咖啡師的專業手沖風格，經典！",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "如果你是老饕，又是手沖咖啡的狂熱份子，應該來這試試台北手沖咖啡價格的天花板！八個人喝咖啡可以喝超過新台幣兩萬，十分特別的體驗！\n\n這裡是日本 Mi Cafeto 海外的唯一分店，創辦人在全世界獵奇他心中的好咖啡，透過最科學、也是奢侈的方法保存咖啡最佳味道，或許很多咖啡從業者不認同，不過，透過他們對待咖啡的方法、儀式讓人明白，咖啡在另一群人眼中如此珍貴，好比黃金！\n\n記得，來這挑一瓶真空咖啡豆沒太大意義，在當場喝才是王道！尤其日籍咖啡師的專業手沖風格，經典！",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Kingbaby Chou",
-        "uri": "https://www.google.com/maps/contrib/100602741421065492727/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYF8QsXJN16_KCnu63DbZ110RKhImHHpKDA9VgbJ5iicHF-SEkIQ=s128-c0x00000000-cc-rp-mo-ba7"
-      },
-      "publishTime": "2024-06-10T16:19:02.229787Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR6b2FDcFdnEAE&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR6b2FDcFdnEAE!2m1!1s0x3442ad352818d33f:0x44079e191025d1"
-    },
-    {
-      "name": "places/ChIJP9MYKDWtQjQR0SUQGZ4HRAA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNKMEpQbDdBRRAB",
-      "relativePublishTimeDescription": "2 年前",
-      "rating": 4,
-      "text": {
-        "text": "日本精品咖啡品牌台灣分店，分兩種等級坐位區不同，罐裝咖啡豆全程冷藏保鮮，香檳式填充方式，日籍咖啡師搭配翻譯，當天喝了4杯結帳價格跟吃高級牛排館差不多，接受與否見仁見智。\n\n第一次喝這麼好喝的藍山咖啡豆，香氣口感完全不同於其他店家，細緻優雅到現在都還難忘，隱藏限量咖啡豆在第三杯後才被介紹。冰咖啡用調酒手法冷卻，乾淨的口感香氣十足。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "日本精品咖啡品牌台灣分店，分兩種等級坐位區不同，罐裝咖啡豆全程冷藏保鮮，香檳式填充方式，日籍咖啡師搭配翻譯，當天喝了4杯結帳價格跟吃高級牛排館差不多，接受與否見仁見智。\n\n第一次喝這麼好喝的藍山咖啡豆，香氣口感完全不同於其他店家，細緻優雅到現在都還難忘，隱藏限量咖啡豆在第三杯後才被介紹。冰咖啡用調酒手法冷卻，乾淨的口感香氣十足。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "芯宸",
-        "uri": "https://www.google.com/maps/contrib/113328690673854531809/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUbq4Fh_NKEQPC6qZ6QrMiZw5QOPwTMuavvKD3EjzUz7Fpgukvbaw=s128-c0x00000000-cc-rp-mo-ba7"
-      },
-      "publishTime": "2023-06-19T08:54:24.837335Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNKMEpQbDdBRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNKMEpQbDdBRRAB!2m1!1s0x3442ad352818d33f:0x44079e191025d1"
-    }
-  ]
+﻿{
+    "id":  "ChIJP9MYKDWtQjQR0SUQGZ4HRAA",
+    "types":  [
+                  "cafe",
+                  "food_store",
+                  "store",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2659 8700",
+    "formattedAddress":  "No. 410號, Ruiguang Rd, Gangqian Village, Neihu District, Taipei City, Taiwan 114",
+    "location":  {
+                     "latitude":  25.0781301,
+                     "longitude":  121.57028090000001
+                 },
+    "rating":  4.5,
+    "websiteUri":  "http://shop.micafeto.com.tw/",
+    "userRatingCount":  110,
+    "displayName":  {
+                        "text":  "和風美咖 MI CAFETO︱精品咖啡︱咖啡豆專賣︱職人手沖咖啡課程",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJP9MYKDWtQjQR0SUQGZ4HRAA/reviews/ChdDSUhNMG9nS0VJeWdzdTY2dk5TNDNnRRAB",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "This art-filled café features unique coffee bean containers and artistic bean labels. Manager Huang and Store Manager You were incredibly welcoming and provided detailed explanations of everything. Enjoying coffee is an art form; standing next to the professional brewer, inhaling the aroma and listening to his explanations of brewing techniques was truly delightful.\n\nThe coffee\u0027s flavor changes with temperature, rich and sweet, with aromas lingering in the nose and throat, and a persistent sweet aftertaste… The desserts were also amazing, both beautiful and delicious!\n\nEverything was so wonderful—a fantastic little coffee journey!",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "充滿藝術氣息的咖啡廳，咖啡豆的容器很特別、豆標很藝術，黃經理和尤店長都非常熱情又詳細的介紹所有相關的一切，品咖啡的藝術饗宴，站在專業沖泡師旁，聞著咖啡香聽他說明沖泡的技巧，好享受。\n咖啡入口，不同溫度不同口感，醇厚甘甜、香氣在鼻腔和喉間迴盪，回甘持續著…...\n甜點也是令人驚豔，好看又好吃！\n一切都是這麼的美好，很棒的咖啡小旅程！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "ming Kaichi",
+                                                  "uri":  "https://www.google.com/maps/contrib/102123906454893432576/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocK9wBW7E-KXc0S906sMqam4XGKxJdWImRAozOG2I1UzGAu9Fw=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-05-16T14:44:27.300242Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJeWdzdTY2dk5TNDNnRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJeWdzdTY2dk5TNDNnRRAB!2m1!1s0x3442ad352818d33f:0x44079e191025d1"
+                    },
+                    {
+                        "name":  "places/ChIJP9MYKDWtQjQR0SUQGZ4HRAA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwSWFEVlNVVW80YkZJd1YyVnBPRGRLVVVKemIwRRAB",
+                        "relativePublishTimeDescription":  "4 months ago",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "I recommend Bellavita in Colombia!\n\nMondonovo, Brazil – the chocolate toast is good!\n\nBiscuits!",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "推薦哥倫比亞貝拉維斯塔！\n巴西蒙多諾沃，巧克力吐司不錯！\n餅干！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Eric Shih",
+                                                  "uri":  "https://www.google.com/maps/contrib/117275356535179626898/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocIlhZoQf-3h6qvYcq_xuS1v8jp2B3ZXzHZA9beTlRyxmeKorsE6=s128-c0x00000000-cc-rp-mo-ba8"
+                                              },
+                        "publishTime":  "2026-01-10T05:04:33.444453852Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwSWFEVlNVVW80YkZJd1YyVnBPRGRLVVVKemIwRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwSWFEVlNVVW80YkZJd1YyVnBPRGRLVVVKemIwRRAB!2m1!1s0x3442ad352818d33f:0x44079e191025d1"
+                    },
+                    {
+                        "name":  "places/ChIJP9MYKDWtQjQR0SUQGZ4HRAA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25reVptdHdSMDEzTVRkeVpYQkhTa1JtVW5aMmRrRRAB",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Go the specialty coffee route\nPremium Cru coffee beans are around 600-700/cup\nThere are also afternoon tea sets for those who love sweets.\nThe service staff are very professional. They will help customers choose whatever flavor they like. I will come to this store again.",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "走精品咖啡路線\nPremium Cru 的咖啡豆大約6-700/杯\n也有下午茶組合給愛甜食的朋友們\n服務人員都超專業，喜歡什麼口味的都會幫客人挑選，會想再來的店",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Albert Yen",
+                                                  "uri":  "https://www.google.com/maps/contrib/108576012470249330853/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWEVN65ZCAevBjd71ChwgNzy9jxePoWwenA7tDsA-xV0TStB6cg=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2025-05-23T11:58:17.868427289Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25reVptdHdSMDEzTVRkeVpYQkhTa1JtVW5aMmRrRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25reVptdHdSMDEzTVRkeVpYQkhTa1JtVW5aMmRrRRAB!2m1!1s0x3442ad352818d33f:0x44079e191025d1"
+                    },
+                    {
+                        "name":  "places/ChIJP9MYKDWtQjQR0SUQGZ4HRAA/reviews/ChZDSUhNMG9nS0VJQ0FnSUR6b2FDcFdnEAE",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "If you\u0027re a connoisseur and a passionate hand-drip coffee enthusiast, you should try this place to experience the pinnacle of hand-drip coffee prices in Taipei! Eight people can spend over NT$20,000 on coffee – a truly unique experience!\n\nThis is the only overseas branch of Mi Cafeto from Japan. The founder traveled the world seeking out the best coffees, using the most scientific and luxurious methods to preserve their optimal flavor. Many coffee professionals may not agree, but their approach and rituals reveal how precious coffee is to another group of people, like gold!\n\nRemember, picking out a bottle of vacuum-packed coffee beans isn\u0027t really the point; enjoying it on the spot is the best way to experience it! Especially the professional hand-drip style of the Japanese baristas – classic!",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "如果你是老饕，又是手沖咖啡的狂熱份子，應該來這試試台北手沖咖啡價格的天花板！八個人喝咖啡可以喝超過新台幣兩萬，十分特別的體驗！\n\n這裡是日本 Mi Cafeto 海外的唯一分店，創辦人在全世界獵奇他心中的好咖啡，透過最科學、也是奢侈的方法保存咖啡最佳味道，或許很多咖啡從業者不認同，不過，透過他們對待咖啡的方法、儀式讓人明白，咖啡在另一群人眼中如此珍貴，好比黃金！\n\n記得，來這挑一瓶真空咖啡豆沒太大意義，在當場喝才是王道！尤其日籍咖啡師的專業手沖風格，經典！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Kingbaby Chou",
+                                                  "uri":  "https://www.google.com/maps/contrib/100602741421065492727/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVYF8QsXJN16_KCnu63DbZ110RKhImHHpKDA9VgbJ5iicHF-SEkIQ=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2024-06-10T16:19:02.229787Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR6b2FDcFdnEAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR6b2FDcFdnEAE!2m1!1s0x3442ad352818d33f:0x44079e191025d1"
+                    }
+                ]
 }

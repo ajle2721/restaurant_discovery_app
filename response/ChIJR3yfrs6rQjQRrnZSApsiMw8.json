@@ -1,128 +1,107 @@
-{
-  "id": "ChIJR3yfrs6rQjQRrnZSApsiMw8",
-  "types": [
-    "restaurant",
-    "food",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 8787 8410",
-  "formattedAddress": "105台灣臺北市松山區新聚里南京東路五段362號",
-  "location": {
-    "latitude": 25.0510771,
-    "longitude": 121.5697534
-  },
-  "rating": 4,
-  "userRatingCount": 157,
-  "displayName": {
-    "text": "福樂寶 早午餐",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJR3yfrs6rQjQRrnZSApsiMw8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkTVkwZFdXbFIwYWtOemRUWlFRVFUzWVVsRFJrRRAB",
-      "relativePublishTimeDescription": "7 個月前",
-      "rating": 4,
-      "text": {
-        "text": "．起司鮪魚蛋餅$55 鮪魚偏少，美乃滋太多，但餅皮好吃，算給過，但可能不會再點。\n．半熟蛋$15 半熟得很剛好，推\n．薯條$30 份量很剛好，推\n．伯爵紅茶$25 無糖，大推",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "．起司鮪魚蛋餅$55 鮪魚偏少，美乃滋太多，但餅皮好吃，算給過，但可能不會再點。\n．半熟蛋$15 半熟得很剛好，推\n．薯條$30 份量很剛好，推\n．伯爵紅茶$25 無糖，大推",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Athena Na Tseng",
-        "uri": "https://www.google.com/maps/contrib/102948747590385421906/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ5jOUO8vYWCqoBooAxeKREMWwyNOVubujXWdRWFHKakrMboudj=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2025-10-24T15:18:39.827259858Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkTVkwZFdXbFIwYWtOemRUWlFRVFUzWVVsRFJrRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkTVkwZFdXbFIwYWtOemRUWlFRVFUzWVVsRFJrRRAB!2m1!1s0x3442abceae9f7c47:0xf33229b025276ae"
-    },
-    {
-      "name": "places/ChIJR3yfrs6rQjQRrnZSApsiMw8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SRmNrMTZjMHRXWlVKQ1UyUndjbWxWUjFBdFdVRRAB",
-      "relativePublishTimeDescription": "2 個月前",
-      "rating": 2,
-      "text": {
-        "text": "點蘑菇麵套餐飲料換奶茶要多收5塊\n（總共105元，雖然紅茶跟奶茶的價格都一樣，不知道邏輯是什麼）\n\n但分開點是100元（蘑菇蛋鐵板麵單點50元、里肌肉80元、奶茶小杯20元）\n\n我問老闆，老闆說換飲料要多收5塊，我也沒說什麼，結果回家看也沒有幫我加肉肉，回去跟老闆請他重新幫我算現在的價格（蘑菇蛋鐵板麵單點50元+小杯奶茶20元），老闆計算機還是按75元，最後受不了我跟老闆說，奶茶是20元，老闆才算對……\n\n其實這5元沒什麼，只是整體感受不太好，覺得莫名其妙，也沒有道歉，這兩顆星是給餐點還不錯吃的星星，希望老闆算錢能力再加油",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "點蘑菇麵套餐飲料換奶茶要多收5塊\n（總共105元，雖然紅茶跟奶茶的價格都一樣，不知道邏輯是什麼）\n\n但分開點是100元（蘑菇蛋鐵板麵單點50元、里肌肉80元、奶茶小杯20元）\n\n我問老闆，老闆說換飲料要多收5塊，我也沒說什麼，結果回家看也沒有幫我加肉肉，回去跟老闆請他重新幫我算現在的價格（蘑菇蛋鐵板麵單點50元+小杯奶茶20元），老闆計算機還是按75元，最後受不了我跟老闆說，奶茶是20元，老闆才算對……\n\n其實這5元沒什麼，只是整體感受不太好，覺得莫名其妙，也沒有道歉，這兩顆星是給餐點還不錯吃的星星，希望老闆算錢能力再加油",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "小又",
-        "uri": "https://www.google.com/maps/contrib/103500451016450481816/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWyPAlqnz4byWC5OsUd6IVQfD0BcrYw4JXZ6gWj4bHdZmUktlJO=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2026-03-09T01:35:02.285520627Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SRmNrMTZjMHRXWlVKQ1UyUndjbWxWUjFBdFdVRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SRmNrMTZjMHRXWlVKQ1UyUndjbWxWUjFBdFdVRRAB!2m1!1s0x3442abceae9f7c47:0xf33229b025276ae"
-    },
-    {
-      "name": "places/ChIJR3yfrs6rQjQRrnZSApsiMw8/reviews/ChdDSUhNMG9nS0VJQ0FnSUR1OTR2THBnRRAB",
-      "relativePublishTimeDescription": "8 個月前",
-      "rating": 5,
-      "text": {
-        "text": "2025年08月08日星期五\nUbereat第二次訂購\nUber獨家蛋餅（火腿）$190.00\n\nuber獨家 黃金煎餃$170.00\n\n蘑菇鐵板麵$55.00\n\n酸辣湯$50.00\n\n東北蔥餅黏蛋$85.00\n辣度\n小辣 $0.00\n\n烤香蒜薄片吐司$30.00\n\n熱狗$70.00\n\n大冰奶茶$25.00\n\n2022年09月01日。星期四\nUbereat第一次訂購\n【酸辣湯】\n不錯喝，料也多\n【蘑菇鐵板麵】\n麵條我喜歡，可惜醬太少\n【蘿蔔糕】\n還不錯\n【荷包蛋】\n半熟就是優秀\n【小肉豆】\n讚啦",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "2025年08月08日星期五\nUbereat第二次訂購\nUber獨家蛋餅（火腿）$190.00\n\nuber獨家 黃金煎餃$170.00\n\n蘑菇鐵板麵$55.00\n\n酸辣湯$50.00\n\n東北蔥餅黏蛋$85.00\n辣度\n小辣 $0.00\n\n烤香蒜薄片吐司$30.00\n\n熱狗$70.00\n\n大冰奶茶$25.00\n\n2022年09月01日。星期四\nUbereat第一次訂購\n【酸辣湯】\n不錯喝，料也多\n【蘑菇鐵板麵】\n麵條我喜歡，可惜醬太少\n【蘿蔔糕】\n還不錯\n【荷包蛋】\n半熟就是優秀\n【小肉豆】\n讚啦",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Yun Ding",
-        "uri": "https://www.google.com/maps/contrib/106909419181302741029/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXAgn7_pknwycrCP0bTkHTjLqwXMqtyag9fQvWr58X6tQzQMX6=s128-c0x00000000-cc-rp-mo-ba7"
-      },
-      "publishTime": "2025-09-08T01:55:09.768602047Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR1OTR2THBnRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR1OTR2THBnRRAB!2m1!1s0x3442abceae9f7c47:0xf33229b025276ae"
-    },
-    {
-      "name": "places/ChIJR3yfrs6rQjQRrnZSApsiMw8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCV1lWaEZXbWt3V25GQ09FMHRVVWRpTmt4Sk0yYxAB",
-      "relativePublishTimeDescription": "11 個月前",
-      "rating": 5,
-      "text": {
-        "text": "老闆娘跟員工都服務親切，餐點好吃，出餐又快，有高麗菜蛋餅跟高麗菜吐司，內餡的高麗菜給的很多，煎的又香。\n鐵板麵我是帶走的，放了10分鐘後，麵條還是很Q，醬料還是多汁，每天都一定要必吃的",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "老闆娘跟員工都服務親切，餐點好吃，出餐又快，有高麗菜蛋餅跟高麗菜吐司，內餡的高麗菜給的很多，煎的又香。\n鐵板麵我是帶走的，放了10分鐘後，麵條還是很Q，醬料還是多汁，每天都一定要必吃的",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "建勝黃",
-        "uri": "https://www.google.com/maps/contrib/104914227407920810356/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWibTJA603X-GV6-0ThQ0UkzkX-mZyYyRsHqJ0PEsCZU0XyCWi2Yg=s128-c0x00000000-cc-rp-mo"
-      },
-      "publishTime": "2025-06-23T06:38:35.503049899Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCV1lWaEZXbWt3V25GQ09FMHRVVWRpTmt4Sk0yYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCV1lWaEZXbWt3V25GQ09FMHRVVWRpTmt4Sk0yYxAB!2m1!1s0x3442abceae9f7c47:0xf33229b025276ae"
-    },
-    {
-      "name": "places/ChIJR3yfrs6rQjQRrnZSApsiMw8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25odWJVSmhkRU00U1cxUVNHcEZRbkpOZGxOTWVFRRAB",
-      "relativePublishTimeDescription": "5 個月前",
-      "rating": 5,
-      "text": {
-        "text": "早餐選擇很多樣性，食材讚、食物好吃，老闆服務親切，想每天都來吃。😋",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "早餐選擇很多樣性，食材讚、食物好吃，老闆服務親切，想每天都來吃。😋",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Grace Young",
-        "uri": "https://www.google.com/maps/contrib/113500117012444131588/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVaVE4kt1zzLzvu-rw5Wr9vCNkqNxqXIUY99nQ40nERx_ZNmbKS=s128-c0x00000000-cc-rp-mo-ba2"
-      },
-      "publishTime": "2025-12-11T01:09:07.058697806Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25odWJVSmhkRU00U1cxUVNHcEZRbkpOZGxOTWVFRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25odWJVSmhkRU00U1cxUVNHcEZRbkpOZGxOTWVFRRAB!2m1!1s0x3442abceae9f7c47:0xf33229b025276ae"
-    }
-  ]
+﻿{
+    "id":  "ChIJR3yfrs6rQjQRrnZSApsiMw8",
+    "types":  [
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 8787 8410",
+    "formattedAddress":  "No. 362號, Section 5, Nanjing E Rd, Xinju Village, Songshan District, Taipei City, Taiwan 105",
+    "location":  {
+                     "latitude":  25.0510771,
+                     "longitude":  121.5697534
+                 },
+    "rating":  4,
+    "userRatingCount":  158,
+    "displayName":  {
+                        "text":  "福樂寶 早午餐",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJR3yfrs6rQjQRrnZSApsiMw8/reviews/ChdDSUhNMG9nS0VJQ0FnSUNIbTVpWXp3RRAB",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "We had a good experience here! close to where we were staying. Employees were very nice and patient with our limited language. my husband only speaks some mandarin.This place was my first experience with Taiwaneese food and I thought it was delicious. almost a year later and I\u0027m trying to figure out how to make their food on my own since were out of country. when we come back to Taiwan someday I\u0027m sure we\u0027ll try to stop here again.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "We had a good experience here! close to where we were staying. Employees were very nice and patient with our limited language. my husband only speaks some mandarin.This place was my first experience with Taiwaneese food and I thought it was delicious. almost a year later and I\u0027m trying to figure out how to make their food on my own since were out of country. when we come back to Taiwan someday I\u0027m sure we\u0027ll try to stop here again.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Brianne Guthrie",
+                                                  "uri":  "https://www.google.com/maps/contrib/102704907558238553880/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXjrKUJCithJZ3YI12P_7G4BuDZuZvtk6QKKMD41WflaiWwyWub1w=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2024-09-09T05:06:37.509077Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNIbTVpWXp3RRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNIbTVpWXp3RRAB!2m1!1s0x3442abceae9f7c47:0xf33229b025276ae"
+                    },
+                    {
+                        "name":  "places/ChIJR3yfrs6rQjQRrnZSApsiMw8/reviews/ChZDSUhNMG9nS0VJQ0FnTURJM3MyS2V3EAE",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "Good n good. Worker corner",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Good n good. Worker corner",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Tan Say Peng",
+                                                  "uri":  "https://www.google.com/maps/contrib/100005378964037045920/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXyk-lLEl04J4bC0mmY9JaUmZvb69mndHgt5Tk_v_yF7wzrxes=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2025-04-10T05:43:22.945898Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJM3MyS2V3EAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJM3MyS2V3EAE!2m1!1s0x3442abceae9f7c47:0xf33229b025276ae"
+                    },
+                    {
+                        "name":  "places/ChIJR3yfrs6rQjQRrnZSApsiMw8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkTVkwZFdXbFIwYWtOemRUWlFRVFUzWVVsRFJrRRAB",
+                        "relativePublishTimeDescription":  "7 months ago",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "Cheese Tuna Omelette $55: Too little tuna and too much mayonnaise, but the crust was delicious. I gave it as a gift, but I probably wouldn\u0027t order it again.\n\nSoft-boiled Egg $15: Perfectly cooked, highly recommended.\n\nFrench Fries $30: Perfect portion, highly recommended.\n\nEarl Grey Tea $25: Sugar-free, highly recommended.",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "．起司鮪魚蛋餅$55 鮪魚偏少，美乃滋太多，但餅皮好吃，算給過，但可能不會再點。\n．半熟蛋$15 半熟得很剛好，推\n．薯條$30 份量很剛好，推\n．伯爵紅茶$25 無糖，大推",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Athena Na Tseng",
+                                                  "uri":  "https://www.google.com/maps/contrib/102948747590385421906/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocJ5jOUO8vYWCqoBooAxeKREMWwyNOVubujXWdRWFHKakrMboudj=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-10-24T15:18:39.827259858Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkTVkwZFdXbFIwYWtOemRUWlFRVFUzWVVsRFJrRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkTVkwZFdXbFIwYWtOemRUWlFRVFUzWVVsRFJrRRAB!2m1!1s0x3442abceae9f7c47:0xf33229b025276ae"
+                    },
+                    {
+                        "name":  "places/ChIJR3yfrs6rQjQRrnZSApsiMw8/reviews/ChdDSUhNMG9nS0VJQ0FnSUR1OTR2THBnRRAB",
+                        "relativePublishTimeDescription":  "9 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Friday, August 8, 2025\n\nSecond Uber Eats Order\n\nUber Exclusive Egg Pancake (Ham) $190.00\n\nUber Exclusive Golden Fried Dumplings $170.00\n\nMushroom Teppanyaki Noodles $55.00\n\nHot and Sour Soup $50.00\n\nNortheastern Scallion Pancake with Sticky Egg $85.00 Spiciness: Mild $0.00\n\nGarlic Toast $30.00\n\nHot Dog $70.00\n\nLarge Iced Milk Tea $25.00\n\n\nThursday, September 1, 2022\n\nFirst Uber Eats Order\n\n[Hot and Sour Soup] Delicious, lots of ingredients\n\n[Mushroom Teppanyaki Noodles] I liked the noodles, but there wasn\u0027t enough sauce\n\n[Radish Cake] Not bad\n\n[Poached Egg] Half-cooked is excellent\n\n[Small Meat Beans] Great!",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "2025年08月08日星期五\nUbereat第二次訂購\nUber獨家蛋餅（火腿）$190.00\n\nuber獨家 黃金煎餃$170.00\n\n蘑菇鐵板麵$55.00\n\n酸辣湯$50.00\n\n東北蔥餅黏蛋$85.00\n辣度\n小辣 $0.00\n\n烤香蒜薄片吐司$30.00\n\n熱狗$70.00\n\n大冰奶茶$25.00\n\n2022年09月01日。星期四\nUbereat第一次訂購\n【酸辣湯】\n不錯喝，料也多\n【蘑菇鐵板麵】\n麵條我喜歡，可惜醬太少\n【蘿蔔糕】\n還不錯\n【荷包蛋】\n半熟就是優秀\n【小肉豆】\n讚啦",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Yun Ding",
+                                                  "uri":  "https://www.google.com/maps/contrib/106909419181302741029/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWXAgn7_pknwycrCP0bTkHTjLqwXMqtyag9fQvWr58X6tQzQMX6=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2025-09-08T01:55:09.768602047Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR1OTR2THBnRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR1OTR2THBnRRAB!2m1!1s0x3442abceae9f7c47:0xf33229b025276ae"
+                    }
+                ]
 }

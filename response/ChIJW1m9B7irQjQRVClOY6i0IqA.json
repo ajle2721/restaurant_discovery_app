@@ -1,132 +1,28 @@
-{
-  "id": "ChIJW1m9B7irQjQRVClOY6i0IqA",
-  "types": [
-    "coffee_shop",
-    "cafe",
-    "food_store",
-    "store",
-    "point_of_interest",
-    "food",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2742 0208",
-  "formattedAddress": "105台灣臺北市松山區東光里南京東路五段83號",
-  "location": {
-    "latitude": 25.0516999,
-    "longitude": 121.5599999
-  },
-  "rating": 4.8,
-  "websiteUri": "https://www.facebook.com/%E5%95%A1%E9%A9%9B%E5%92%96%E5%95%A1-103347161451203",
-  "userRatingCount": 140,
-  "displayName": {
-    "text": "啡驛 Café E",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJW1m9B7irQjQRVClOY6i0IqA/reviews/Ci9DQUlRQUNvZENodHljRjlvT214bldFMURVV2R5ZG1Wbk5sbGZkMXB2V0hsVVdXYxAB",
-      "relativePublishTimeDescription": "6 個月前",
-      "rating": 4,
-      "text": {
-        "text": "這家咖啡館像個千面女郎，白天賣咖啡所以叫「啡驛」，晚上賣吧酒所以叫「酒驛」。\n白天去的！就喝咖啡加個簡餐，咖啡喝的是「依索匹亞 烏拉嘎」=180元，用了5個杯子，因對咖啡的行頭不熟，不敢隨意亂說，請看照片吧！不過可同時喝冰咖啡與熱咖啡，倒是第一次亨用，感覺蠻特別的，比較之下冰咖啡比熱咖啡口感更棒，也許是喝了熱咖啡後再喝冰咖啡，反覺得冰咖啡把咖啡香鎖住了。\n簡餐吃的是「蔬菜哄蛋」=220元，這道餐很少在西餐廳吃過，端上桌時有模有樣，連烤鍋也熱騰騰的ㄧ齊上了，很接地氣，也很有現場感手工感，內裡有多種蔬菜沫，很豐富，也很上口。\n餐廳兩位年輕人ㄧ男一女在經營，女士好像是主廚，雖然年輕卻很專業的樣子，男士也很年輕帥氣，留著長髮穿著裙褲，顯然是負責咖啡與調酒，兩人年紀都輕，但「作品」卻專業老道。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "這家咖啡館像個千面女郎，白天賣咖啡所以叫「啡驛」，晚上賣吧酒所以叫「酒驛」。\n白天去的！就喝咖啡加個簡餐，咖啡喝的是「依索匹亞 烏拉嘎」=180元，用了5個杯子，因對咖啡的行頭不熟，不敢隨意亂說，請看照片吧！不過可同時喝冰咖啡與熱咖啡，倒是第一次亨用，感覺蠻特別的，比較之下冰咖啡比熱咖啡口感更棒，也許是喝了熱咖啡後再喝冰咖啡，反覺得冰咖啡把咖啡香鎖住了。\n簡餐吃的是「蔬菜哄蛋」=220元，這道餐很少在西餐廳吃過，端上桌時有模有樣，連烤鍋也熱騰騰的ㄧ齊上了，很接地氣，也很有現場感手工感，內裡有多種蔬菜沫，很豐富，也很上口。\n餐廳兩位年輕人ㄧ男一女在經營，女士好像是主廚，雖然年輕卻很專業的樣子，男士也很年輕帥氣，留著長髮穿著裙褲，顯然是負責咖啡與調酒，兩人年紀都輕，但「作品」卻專業老道。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "KING (第10級在地嚮導)",
-        "uri": "https://www.google.com/maps/contrib/109750155652914128045/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKtnNaC96pwKQ4ttcOAEx_lXrfkHJAzM2jYWMeiMxH_m3evWw=s128-c0x00000000-cc-rp-mo-ba8"
-      },
-      "publishTime": "2025-11-14T14:36:50.033894717Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214bldFMURVV2R5ZG1Wbk5sbGZkMXB2V0hsVVdXYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214bldFMURVV2R5ZG1Wbk5sbGZkMXB2V0hsVVdXYxAB!2m1!1s0x3442abb807bd595b:0xa022b4a8634e2954"
-    },
-    {
-      "name": "places/ChIJW1m9B7irQjQRVClOY6i0IqA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWRGJYTlRZV0pHU3pOcVNGWk1ZakpZZUVGTWJuYxAB",
-      "relativePublishTimeDescription": "4 個月前",
-      "rating": 5,
-      "text": {
-        "text": "空間剛剛好\n肉桂捲愛好者 大推！👍\n最愛烤的熱熱酥酥的肉桂捲 搭配冰冰涼涼的冰淇淋 必吃！😋\n目前心目中肉桂捲 前3名❤️\n\n花茶也很香～～\n有一定的濃度 香氣可以😌\n走過路過 千萬不可以錯過！",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "空間剛剛好\n肉桂捲愛好者 大推！👍\n最愛烤的熱熱酥酥的肉桂捲 搭配冰冰涼涼的冰淇淋 必吃！😋\n目前心目中肉桂捲 前3名❤️\n\n花茶也很香～～\n有一定的濃度 香氣可以😌\n走過路過 千萬不可以錯過！",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "巫雅徽",
-        "uri": "https://www.google.com/maps/contrib/116956545646987069646/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUTvFD-ZC_ShIPY2n_DZVeJsCXKe6fn_5omdGC1X-VjpkvV4NUA=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2026-01-12T17:15:37.442378063Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWRGJYTlRZV0pHU3pOcVNGWk1ZakpZZUVGTWJuYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWRGJYTlRZV0pHU3pOcVNGWk1ZakpZZUVGTWJuYxAB!2m1!1s0x3442abb807bd595b:0xa022b4a8634e2954"
-    },
-    {
-      "name": "places/ChIJW1m9B7irQjQRVClOY6i0IqA/reviews/ChdDSUhNMG9nS0VJQ0FnTURJM1lDbHdRRRAB",
-      "relativePublishTimeDescription": "1 年前",
-      "rating": 5,
-      "text": {
-        "text": "剛好在附近查Google map發現的咖啡店。三明治有驚喜，麵包酥脆內容紮實，居然還有蘋果片，香氣口感兼具，好好吃。原本想點布朗尼但沒了換成提拉米蘇，味道中規中矩。蠻喜歡這裡飲品、餐點鹹甜選擇多樣，環境、服務也都很不錯！",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "剛好在附近查Google map發現的咖啡店。三明治有驚喜，麵包酥脆內容紮實，居然還有蘋果片，香氣口感兼具，好好吃。原本想點布朗尼但沒了換成提拉米蘇，味道中規中矩。蠻喜歡這裡飲品、餐點鹹甜選擇多樣，環境、服務也都很不錯！",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Cindy Chen",
-        "uri": "https://www.google.com/maps/contrib/112348167906366530912/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0AErUCW-erqyXmZS0W8L8icY6CrddeP4xmbguGlZsW9TLQqkE-Q=s128-c0x00000000-cc-rp-mo-ba4"
-      },
-      "publishTime": "2025-04-12T09:17:20.141593Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJM1lDbHdRRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJM1lDbHdRRRAB!2m1!1s0x3442abb807bd595b:0xa022b4a8634e2954"
-    },
-    {
-      "name": "places/ChIJW1m9B7irQjQRVClOY6i0IqA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twNFJVaE5WMkpDV1VveVMxRlhUemhJYTJwR1VXYxAB",
-      "relativePublishTimeDescription": "9 個月前",
-      "rating": 5,
-      "text": {
-        "text": "為了躲雨而偶然決定光顧，環境十分舒適。剛吃飽，但熔岩肉桂捲一上桌就一口接一口的吃完了，咖啡很遺憾我懂得不多，不過喜歡肉桂捲的朋友可以試試🥺",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "為了躲雨而偶然決定光顧，環境十分舒適。剛吃飽，但熔岩肉桂捲一上桌就一口接一口的吃完了，咖啡很遺憾我懂得不多，不過喜歡肉桂捲的朋友可以試試🥺",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Evan Chang (Neko)",
-        "uri": "https://www.google.com/maps/contrib/104652036362790592278/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUcJHoJayMNuA7i8d48y0eEUzzsMmG25PH4cql12RP3bOAG6BNf=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2025-08-02T10:16:41.676114357Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twNFJVaE5WMkpDV1VveVMxRlhUemhJYTJwR1VXYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twNFJVaE5WMkpDV1VveVMxRlhUemhJYTJwR1VXYxAB!2m1!1s0x3442abb807bd595b:0xa022b4a8634e2954"
-    },
-    {
-      "name": "places/ChIJW1m9B7irQjQRVClOY6i0IqA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pFMlFXOVRUVkpxVTBoRmFuTllVV3A2VVdjd2VYYxAB",
-      "relativePublishTimeDescription": "9 個月前",
-      "rating": 5,
-      "text": {
-        "text": "三明治料很豐富，非常好吃🥪\n內用環境佳，適合待整個下午\n店員、老闆娘也都很親切哦✨✨✨",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "三明治料很豐富，非常好吃🥪\n內用環境佳，適合待整個下午\n店員、老闆娘也都很親切哦✨✨✨",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Melody",
-        "uri": "https://www.google.com/maps/contrib/106738732513619431455/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWNoyTxAJBLHuEfPXqTQ1z9l-Qb7T5iyPsP_d2R5Xoi3iwNWwNn=s128-c0x00000000-cc-rp-mo-ba4"
-      },
-      "publishTime": "2025-07-30T10:30:56.690325835Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pFMlFXOVRUVkpxVTBoRmFuTllVV3A2VVdjd2VYYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pFMlFXOVRUVkpxVTBoRmFuTllVV3A2VVdjd2VYYxAB!2m1!1s0x3442abb807bd595b:0xa022b4a8634e2954"
-    }
-  ]
+﻿{
+    "id":  "ChIJW1m9B7irQjQRVClOY6i0IqA",
+    "types":  [
+                  "coffee_shop",
+                  "cafe",
+                  "food_store",
+                  "store",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2742 0208",
+    "formattedAddress":  "No. 83號, Section 5, Nanjing E Rd, Dongguang Village, Songshan District, Taipei City, Taiwan 105",
+    "location":  {
+                     "latitude":  25.0516999,
+                     "longitude":  121.5599999
+                 },
+    "rating":  4.8,
+    "websiteUri":  "https://www.facebook.com/%E5%95%A1%E9%A9%9B%E5%92%96%E5%95%A1-103347161451203",
+    "userRatingCount":  141,
+    "displayName":  {
+                        "text":  "啡驛 Café E",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+
+                ]
 }

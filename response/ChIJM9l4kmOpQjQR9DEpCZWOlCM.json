@@ -1,131 +1,129 @@
-{
-  "id": "ChIJM9l4kmOpQjQR9DEpCZWOlCM",
-  "types": [
-    "restaurant",
-    "food",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 976 295 428",
-  "formattedAddress": "108台灣臺北市萬華區富民里西園路一段145號號店坊B2樓-7",
-  "location": {
-    "latitude": 25.0360914,
-    "longitude": 121.500261
-  },
-  "rating": 4.9,
-  "websiteUri": "https://www.facebook.com/MumuLand727",
-  "userRatingCount": 192,
-  "displayName": {
-    "text": "遊霂食光 MuMu Land | 親子友善 | 健康餐點 | 外送便當",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJM9l4kmOpQjQR9DEpCZWOlCM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKc1VqWnRVMk5xYkhkNmJqVkRYelJwU2xSTWFWRRAB",
-      "relativePublishTimeDescription": "4 個月前",
-      "rating": 4,
-      "text": {
-        "text": "今天點雙肉150沒有加套餐、現金交易、這間店是免開統一發票的。\n\n以健康餐150元價位的蛋白質含量來說，個人覺得稍微偏少。還好他澱粉給的還算適中，我用餐完畢後，再去捷運站對面的全家補喝一罐無糖豆漿😅\n\n但就口感來說，是我目前吃過副菜與主菜，調味都好好吃。肉處理很嫩不柴，菜的調味是有味道但又不過鹹，好吃到我菜湯湯汁喝光光（還是是份量偏少還餓所以喝光光！？）\n\n整體我給4分！\n\n另外\n捷運站出站拐個彎往地下街方向第一家就是，算是蠻好找！加分！\nI人會喜歡的店，店員酷酷不太主動熱情，對我只想安靜吃飯好適合！\n用餐環境舒適，座位也很寬敞，還有水可以喝，都是加分項目！",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "今天點雙肉150沒有加套餐、現金交易、這間店是免開統一發票的。\n\n以健康餐150元價位的蛋白質含量來說，個人覺得稍微偏少。還好他澱粉給的還算適中，我用餐完畢後，再去捷運站對面的全家補喝一罐無糖豆漿😅\n\n但就口感來說，是我目前吃過副菜與主菜，調味都好好吃。肉處理很嫩不柴，菜的調味是有味道但又不過鹹，好吃到我菜湯湯汁喝光光（還是是份量偏少還餓所以喝光光！？）\n\n整體我給4分！\n\n另外\n捷運站出站拐個彎往地下街方向第一家就是，算是蠻好找！加分！\nI人會喜歡的店，店員酷酷不太主動熱情，對我只想安靜吃飯好適合！\n用餐環境舒適，座位也很寬敞，還有水可以喝，都是加分項目！",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "劉立文",
-        "uri": "https://www.google.com/maps/contrib/104339969167402765864/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW3VJiAHiH9VLcmcBb75aMdWNopQ5Yv7RZ9a7AR1KN-ejHmYzMkiA=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2026-01-18T14:20:11.721784151Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKc1VqWnRVMk5xYkhkNmJqVkRYelJwU2xSTWFWRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKc1VqWnRVMk5xYkhkNmJqVkRYelJwU2xSTWFWRRAB!2m1!1s0x3442a9639278d933:0x23948e95092931f4"
-    },
-    {
-      "name": "places/ChIJM9l4kmOpQjQR9DEpCZWOlCM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s0MWNWb3RiMHhNWVhrMFEwazNTbFkwZDNkeU9HYxAB",
-      "relativePublishTimeDescription": "5 個月前",
-      "rating": 5,
-      "text": {
-        "text": "真的非常好吃！\n豬肉和雞肉的口感讓人很驚豔，軟嫩到不像在外面吃到的那種，完全沒有乾柴感，吃得出來處理得很用心。豬肉多汁細緻，雞肉柔嫩又保有肉甜，搭配醬汁剛剛好，不會搶味。\n\n配菜清爽、調味自然，整碗吃完很有飽足感但不會覺得負擔。是那種吃完會默默記住、下次一定會再來的店。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "真的非常好吃！\n豬肉和雞肉的口感讓人很驚豔，軟嫩到不像在外面吃到的那種，完全沒有乾柴感，吃得出來處理得很用心。豬肉多汁細緻，雞肉柔嫩又保有肉甜，搭配醬汁剛剛好，不會搶味。\n\n配菜清爽、調味自然，整碗吃完很有飽足感但不會覺得負擔。是那種吃完會默默記住、下次一定會再來的店。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Jimmy",
-        "uri": "https://www.google.com/maps/contrib/108127615698626401175/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU1ZAMXukCzfvHRxMbOUi7QK19gZ1Z0kpDOP9nNxECSimYFdYU1=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2025-12-21T10:40:42.836833406Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s0MWNWb3RiMHhNWVhrMFEwazNTbFkwZDNkeU9HYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s0MWNWb3RiMHhNWVhrMFEwazNTbFkwZDNkeU9HYxAB!2m1!1s0x3442a9639278d933:0x23948e95092931f4"
-    },
-    {
-      "name": "places/ChIJM9l4kmOpQjQR9DEpCZWOlCM/reviews/ChZDSUhNMG9nS0VJQ0FnTURJcnNtUVRnEAE",
-      "relativePublishTimeDescription": "12 個月前",
-      "rating": 5,
-      "text": {
-        "text": "位於龍山文創基地內，從龍山寺捷運站往1號出口方向，旁邊有往文創基地的樓梯，走下去經過展覽的長廊後即可看到店家。\n很用心的健康餐盒飲食店，目前吃過的餐點：舒肥雞胸、水煮豬前腿、素食餐、雙拼肉肉等，都沒有踩過地雷，肉類食材處理得很好，雞胸軟嫩、豬前腿肉有彈性，素食餐的杏鮑菇也非常好吃。\n店內用餐環境看起來也不錯，應該是親子友善店家，店內還有兒童遊戲區。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "位於龍山文創基地內，從龍山寺捷運站往1號出口方向，旁邊有往文創基地的樓梯，走下去經過展覽的長廊後即可看到店家。\n很用心的健康餐盒飲食店，目前吃過的餐點：舒肥雞胸、水煮豬前腿、素食餐、雙拼肉肉等，都沒有踩過地雷，肉類食材處理得很好，雞胸軟嫩、豬前腿肉有彈性，素食餐的杏鮑菇也非常好吃。\n店內用餐環境看起來也不錯，應該是親子友善店家，店內還有兒童遊戲區。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Sophia Liu",
-        "uri": "https://www.google.com/maps/contrib/117750766988612657062/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLiUyhJm7b2kjt6i0TxPLKviaFMOVn4fIdHFYJQH3cl0Yrr8sY=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2025-05-30T06:34:34.764136Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJcnNtUVRnEAE&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJcnNtUVRnEAE!2m1!1s0x3442a9639278d933:0x23948e95092931f4"
-    },
-    {
-      "name": "places/ChIJM9l4kmOpQjQR9DEpCZWOlCM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tka1NGUkxiek5IYTFRd2JrRllNRUo0YTFKNGQwRRAB",
-      "relativePublishTimeDescription": "5 個月前",
-      "rating": 5,
-      "text": {
-        "text": "在捷運龍山寺站下面 開到19：00 東西好吃 價格合理 喜歡嫩嫩的雞肉 薯條比較原味 雞塊一份4個 紐西蘭牛乳是保久乳  餐廳有小遊戲區 看小孩們都玩得很開心 旁邊就有廁所 蠻方便~\n\n*國內外旅遊資訊 可洽Lemon 諮詢&交流喔 Line : @860wabmh ，FB:樂趣玩學",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "在捷運龍山寺站下面 開到19：00 東西好吃 價格合理 喜歡嫩嫩的雞肉 薯條比較原味 雞塊一份4個 紐西蘭牛乳是保久乳  餐廳有小遊戲區 看小孩們都玩得很開心 旁邊就有廁所 蠻方便~\n\n*國內外旅遊資訊 可洽Lemon 諮詢&交流喔 Line : @860wabmh ，FB:樂趣玩學",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Lemon樂趣玩學（Tour manager）",
-        "uri": "https://www.google.com/maps/contrib/101343147421327089518/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJVJjejScjpj0S--e97Bac3bQ1geLYZgrRpRzDy5MLGgYHN6A=s128-c0x00000000-cc-rp-mo-ba4"
-      },
-      "publishTime": "2025-12-12T10:05:39.165307497Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tka1NGUkxiek5IYTFRd2JrRllNRUo0YTFKNGQwRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tka1NGUkxiek5IYTFRd2JrRllNRUo0YTFKNGQwRRAB!2m1!1s0x3442a9639278d933:0x23948e95092931f4"
-    },
-    {
-      "name": "places/ChIJM9l4kmOpQjQR9DEpCZWOlCM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sMk5tTXpVMGt3VlhSbWJuaDRUR2xIVFRaSFEzYxAB",
-      "relativePublishTimeDescription": "4 個月前",
-      "rating": 5,
-      "text": {
-        "text": "超好吃的 擺盤又好看。\n在台北很難找到120的健康餐吧\n\n已經三刷了，雖然不會特別來這裡，搭捷運經過這站都會下車來這吃",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "超好吃的 擺盤又好看。\n在台北很難找到120的健康餐吧\n\n已經三刷了，雖然不會特別來這裡，搭捷運經過這站都會下車來這吃",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Oscar L",
-        "uri": "https://www.google.com/maps/contrib/107703731507800122234/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVXHnNJ1n2BASGCY4EYRh3YG4HsGphIGTYUW3oyafPfaAK7nTUa=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2025-12-30T09:55:34.375407381Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sMk5tTXpVMGt3VlhSbWJuaDRUR2xIVFRaSFEzYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sMk5tTXpVMGt3VlhSbWJuaDRUR2xIVFRaSFEzYxAB!2m1!1s0x3442a9639278d933:0x23948e95092931f4"
-    }
-  ],
-  "menuForChildren": true,
-  "goodForChildren": true
+﻿{
+    "id":  "ChIJM9l4kmOpQjQR9DEpCZWOlCM",
+    "types":  [
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 976 295 428",
+    "formattedAddress":  "108, Taiwan, Taipei City, Wanhua District, Fumin Village, Section 1, Xiyuan Rd, 145號號店坊B2樓-7",
+    "location":  {
+                     "latitude":  25.0360914,
+                     "longitude":  121.500261
+                 },
+    "rating":  4.9,
+    "websiteUri":  "https://www.facebook.com/MumuLand727",
+    "userRatingCount":  193,
+    "displayName":  {
+                        "text":  "遊霂食光 MuMu Land | 親子友善 | 健康餐點 | 外送便當",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJM9l4kmOpQjQR9DEpCZWOlCM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxYVUybFJaVVJPYld0b1oxWlFhVk4zWDFvd1IzYxAB",
+                        "relativePublishTimeDescription":  "3 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Great kid friendly, family friendly, cosy cafe.  Large kids play area and kids meals.  Food is healthy and delicious.  They even helped with small adjustments to the meal for my baby’s diet.\n\nWe visited a few times during our visit to Taipei.\n\nLocated on the bottom floor of the underground mall near the escalator.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Great kid friendly, family friendly, cosy cafe.  Large kids play area and kids meals.  Food is healthy and delicious.  They even helped with small adjustments to the meal for my baby’s diet.\n\nWe visited a few times during our visit to Taipei.\n\nLocated on the bottom floor of the underground mall near the escalator.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Kevin Li",
+                                                  "uri":  "https://www.google.com/maps/contrib/114185979738320446200/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWP727Cb8Qw6mpNkk_qfuORLIgpk8reY_EFqkNRzuapUrGKmujD=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2026-03-04T08:33:26.020747548Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxYVUybFJaVVJPYld0b1oxWlFhVk4zWDFvd1IzYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxYVUybFJaVVJPYld0b1oxWlFhVk4zWDFvd1IzYxAB!2m1!1s0x3442a9639278d933:0x23948e95092931f4"
+                    },
+                    {
+                        "name":  "places/ChIJM9l4kmOpQjQR9DEpCZWOlCM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aNVVFMVdTMGxPYzFWbWF5MVJja1ZNY1dSa1MyYxAB",
+                        "relativePublishTimeDescription":  "5 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Excellent food and service.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Excellent food and service.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Kuki Bear Xiao",
+                                                  "uri":  "https://www.google.com/maps/contrib/105292398122425527910/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWlOLSyxEFWGOK1OjqsfggIVy-VFKDmctWypxX5gq8EaJuyVSA=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2025-12-16T05:21:42.149667195Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aNVVFMVdTMGxPYzFWbWF5MVJja1ZNY1dSa1MyYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aNVVFMVdTMGxPYzFWbWF5MVJja1ZNY1dSa1MyYxAB!2m1!1s0x3442a9639278d933:0x23948e95092931f4"
+                    },
+                    {
+                        "name":  "places/ChIJM9l4kmOpQjQR9DEpCZWOlCM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKc1VqWnRVMk5xYkhkNmJqVkRYelJwU2xSTWFWRRAB",
+                        "relativePublishTimeDescription":  "4 months ago",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "I ordered two meat dishes for NT$150 today, no set meal included, cash payment, and this shop doesn\u0027t issue uniform invoices.\n\nFor a healthy meal at NT$150, the protein content was a bit low in my opinion. Luckily, the starch content was just right. After finishing my meal, I went to the FamilyMart across from the MRT station for a can of unsweetened soy milk 😅\n\nHowever, in terms of taste, it was the best side dish and main course I\u0027ve ever had. The seasoning was excellent. The meat was very tender and not dry, and the vegetables were flavorful but not too salty. It was so delicious that I drank every last drop of the broth (or was it because the portion was small and I was hungry!?).\n\nOverall, I give it 4 stars!\n\nAlso, it\u0027s the first shop after turning the corner from the MRT station towards the underground shopping mall, so it\u0027s quite easy to find! Bonus!\n\nA shop that people will like. The staff are cool and not overly enthusiastic, which is perfect for someone like me who just wants a quiet meal!\n\nThe dining environment is comfortable, the seats are spacious, and there\u0027s water available – all pluses!",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "今天點雙肉150沒有加套餐、現金交易、這間店是免開統一發票的。\n\n以健康餐150元價位的蛋白質含量來說，個人覺得稍微偏少。還好他澱粉給的還算適中，我用餐完畢後，再去捷運站對面的全家補喝一罐無糖豆漿😅\n\n但就口感來說，是我目前吃過副菜與主菜，調味都好好吃。肉處理很嫩不柴，菜的調味是有味道但又不過鹹，好吃到我菜湯湯汁喝光光（還是是份量偏少還餓所以喝光光！？）\n\n整體我給4分！\n\n另外\n捷運站出站拐個彎往地下街方向第一家就是，算是蠻好找！加分！\nI人會喜歡的店，店員酷酷不太主動熱情，對我只想安靜吃飯好適合！\n用餐環境舒適，座位也很寬敞，還有水可以喝，都是加分項目！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "劉立文",
+                                                  "uri":  "https://www.google.com/maps/contrib/104339969167402765864/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjW3VJiAHiH9VLcmcBb75aMdWNopQ5Yv7RZ9a7AR1KN-ejHmYzMkiA=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2026-01-18T14:20:11.721784151Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKc1VqWnRVMk5xYkhkNmJqVkRYelJwU2xSTWFWRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKc1VqWnRVMk5xYkhkNmJqVkRYelJwU2xSTWFWRRAB!2m1!1s0x3442a9639278d933:0x23948e95092931f4"
+                    },
+                    {
+                        "name":  "places/ChIJM9l4kmOpQjQR9DEpCZWOlCM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s0MWNWb3RiMHhNWVhrMFEwazNTbFkwZDNkeU9HYxAB",
+                        "relativePublishTimeDescription":  "5 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "It was absolutely delicious!\n\nThe pork and chicken were amazing; they were so tender, unlike anything I\u0027ve had elsewhere. There was absolutely no dryness, and you could tell they were prepared with great care. The pork was juicy and delicate, and the chicken was tender yet retained its natural sweetness. The sauce was perfect, not overpowering at all.\n\nThe side dishes were refreshing and naturally seasoned. The whole bowl was very filling without feeling heavy. It\u0027s the kind of restaurant you\u0027ll remember and definitely want to come back to.",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "真的非常好吃！\n豬肉和雞肉的口感讓人很驚豔，軟嫩到不像在外面吃到的那種，完全沒有乾柴感，吃得出來處理得很用心。豬肉多汁細緻，雞肉柔嫩又保有肉甜，搭配醬汁剛剛好，不會搶味。\n\n配菜清爽、調味自然，整碗吃完很有飽足感但不會覺得負擔。是那種吃完會默默記住、下次一定會再來的店。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Jimmy",
+                                                  "uri":  "https://www.google.com/maps/contrib/108127615698626401175/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjU1ZAMXukCzfvHRxMbOUi7QK19gZ1Z0kpDOP9nNxECSimYFdYU1=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-12-21T10:40:42.836833406Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s0MWNWb3RiMHhNWVhrMFEwazNTbFkwZDNkeU9HYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s0MWNWb3RiMHhNWVhrMFEwazNTbFkwZDNkeU9HYxAB!2m1!1s0x3442a9639278d933:0x23948e95092931f4"
+                    },
+                    {
+                        "name":  "places/ChIJM9l4kmOpQjQR9DEpCZWOlCM/reviews/ChZDSUhNMG9nS0VJQ0FnTURJcnNtUVRnEAE",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Located within the Longshan Cultural and Creative Park, from Longshan Temple MRT Station towards Exit 1, there\u0027s a staircase next to it leading to the park. Walk down the stairs and through the exhibition corridor, and you\u0027ll find the shop.\n\nThis is a very thoughtfully designed healthy meal box restaurant. So far, the dishes I\u0027ve tried—sous-feuille chicken breast, boiled pork foreleg, vegetarian meals, and the mixed meat platter—have all been excellent. The meats are very well prepared; the chicken breast is tender, the pork foreleg is springy, and the king oyster mushrooms in the vegetarian meal are also delicious.\n\nThe dining environment looks nice; it seems to be a family-friendly place, as there\u0027s even a children\u0027s play area.",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "位於龍山文創基地內，從龍山寺捷運站往1號出口方向，旁邊有往文創基地的樓梯，走下去經過展覽的長廊後即可看到店家。\n很用心的健康餐盒飲食店，目前吃過的餐點：舒肥雞胸、水煮豬前腿、素食餐、雙拼肉肉等，都沒有踩過地雷，肉類食材處理得很好，雞胸軟嫩、豬前腿肉有彈性，素食餐的杏鮑菇也非常好吃。\n店內用餐環境看起來也不錯，應該是親子友善店家，店內還有兒童遊戲區。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Sophia Liu",
+                                                  "uri":  "https://www.google.com/maps/contrib/117750766988612657062/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocLiUyhJm7b2kjt6i0TxPLKviaFMOVn4fIdHFYJQH3cl0Yrr8sY=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-05-30T06:34:34.764136Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJcnNtUVRnEAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJcnNtUVRnEAE!2m1!1s0x3442a9639278d933:0x23948e95092931f4"
+                    }
+                ]
 }

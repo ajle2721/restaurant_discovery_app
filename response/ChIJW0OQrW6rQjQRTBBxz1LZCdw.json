@@ -1,134 +1,92 @@
-{
-  "id": "ChIJW0OQrW6rQjQRTBBxz1LZCdw",
-  "types": [
-    "pizza_restaurant",
-    "pizza_delivery",
-    "meal_delivery",
-    "food_delivery",
-    "meal_takeaway",
-    "restaurant",
-    "point_of_interest",
-    "food",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2515 1985",
-  "formattedAddress": "10491台灣臺北市中山區江山里合江街100之1號",
-  "location": {
-    "latitude": 25.0583766,
-    "longitude": 121.5390875
-  },
-  "rating": 4.8,
-  "websiteUri": "https://1985pizza.com.tw/",
-  "userRatingCount": 1997,
-  "displayName": {
-    "text": "1985窯烤披薩(台北中山店)",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJW0OQrW6rQjQRTBBxz1LZCdw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxM1NFUkdiV1pRUmtGaFJYTmtlVnBKZGxReU5sRRAB",
-      "relativePublishTimeDescription": "4 個月前",
-      "rating": 5,
-      "text": {
-        "text": "今天參與動物互動派對，可以近距離摸到小動物，孩子們超開心，許多動物都是第一次親眼看見還能互動，真的是超棒的體驗。1985的草莓🍓甜心愛心披薩🍕+烤雞翅孩子們搶著吃😋一樓的球池溜滑梯就可以讓他們玩到捨不得離開～角色扮演也是超可愛的🥰之前有來參加過週歲派對就感到店家非常用心，這次來參與動物互動派對，真心大推👍女兒2y2m;兒子3y3m🐍蛇放在身上都不怕，超勇敢的😄",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "今天參與動物互動派對，可以近距離摸到小動物，孩子們超開心，許多動物都是第一次親眼看見還能互動，真的是超棒的體驗。1985的草莓🍓甜心愛心披薩🍕+烤雞翅孩子們搶著吃😋一樓的球池溜滑梯就可以讓他們玩到捨不得離開～角色扮演也是超可愛的🥰之前有來參加過週歲派對就感到店家非常用心，這次來參與動物互動派對，真心大推👍女兒2y2m;兒子3y3m🐍蛇放在身上都不怕，超勇敢的😄",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Nana Hsu",
-        "uri": "https://www.google.com/maps/contrib/102620962561912409016/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUMIPwdtpYFS22iqumjKRCncBaxWsv7sHPpfpF81fEuopEdjl1=s128-c0x00000000-cc-rp-mo-ba2"
-      },
-      "publishTime": "2026-01-26T00:36:48.798752676Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxM1NFUkdiV1pRUmtGaFJYTmtlVnBKZGxReU5sRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxM1NFUkdiV1pRUmtGaFJYTmtlVnBKZGxReU5sRRAB!2m1!1s0x3442ab6ead90435b:0xdc09d952cf71104c"
-    },
-    {
-      "name": "places/ChIJW0OQrW6rQjQRTBBxz1LZCdw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWZldEaEJTbFpXZG01cFZEaFdXVGQxZUV4bmEyYxAB",
-      "relativePublishTimeDescription": "3 個月前",
-      "rating": 5,
-      "text": {
-        "text": "#三人套餐吃光光\n#有甜有鹹多種組合不會膩\n#薄餅皮好吃中午人潮蠻多的\n#帶小朋友來也很棒地方有大",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "#三人套餐吃光光\n#有甜有鹹多種組合不會膩\n#薄餅皮好吃中午人潮蠻多的\n#帶小朋友來也很棒地方有大",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "楊晟鑫",
-        "uri": "https://www.google.com/maps/contrib/116472123358376128102/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXVThM-LwAWF1kZRERUnudwsvrfyKV1a45TVmUEGV_SbiwwyrNn=s128-c0x00000000-cc-rp-mo-ba7"
-      },
-      "publishTime": "2026-02-13T08:56:11.459631886Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWZldEaEJTbFpXZG01cFZEaFdXVGQxZUV4bmEyYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWZldEaEJTbFpXZG01cFZEaFdXVGQxZUV4bmEyYxAB!2m1!1s0x3442ab6ead90435b:0xdc09d952cf71104c"
-    },
-    {
-      "name": "places/ChIJW0OQrW6rQjQRTBBxz1LZCdw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSUFJtVmpTMnAzTlRVME5IbDVZWFJXVG1WSmJuYxAB",
-      "relativePublishTimeDescription": "7 個月前",
-      "rating": 1,
-      "text": {
-        "text": "趣味Pizza DIY體驗課\n首次體驗亦會是最後一次☹️\n\n10/25(六） 和朋友一起預約參與此課程(四位大人加兩位幼童)，星期六早上11:30開始，我們準時到達後，發現現場人手只有兩位店員(差不多45mins 後才出現第三位員工），根本無法負荷現場滿座的情況。結果過了30分鐘後小朋友的DIY麵團才提供(後來發現我們的餐點是12:30才入機)。結果給了我們menu 之後便沒有認真詳細解釋手作pizza活動的流程及方法，食材和工具也都是給我們自己製作，根本沒有任何教學成份，對於這部份是十分失望的。最後Pizza的製成品也沒有提供拍攝的機會和提供完成活動證書以作紀錄留念。\n\n另外兒童遊樂區的部份也是混亂不堪，理解員工人數不足夠導致無法介紹遊戲設施和正確使用方法。因為當天還有七至八位小童及大童共同使用遊樂設施，大部份家長放任不管，導致設施內的小朋友把球池來的球向人亂丟，霸佔玩具及動手推人等狀況。我們家長的只能自己維持秩序，不讓我們的幼童受到更大的傷害。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "趣味Pizza DIY體驗課\n首次體驗亦會是最後一次☹️\n\n10/25(六） 和朋友一起預約參與此課程(四位大人加兩位幼童)，星期六早上11:30開始，我們準時到達後，發現現場人手只有兩位店員(差不多45mins 後才出現第三位員工），根本無法負荷現場滿座的情況。結果過了30分鐘後小朋友的DIY麵團才提供(後來發現我們的餐點是12:30才入機)。結果給了我們menu 之後便沒有認真詳細解釋手作pizza活動的流程及方法，食材和工具也都是給我們自己製作，根本沒有任何教學成份，對於這部份是十分失望的。最後Pizza的製成品也沒有提供拍攝的機會和提供完成活動證書以作紀錄留念。\n\n另外兒童遊樂區的部份也是混亂不堪，理解員工人數不足夠導致無法介紹遊戲設施和正確使用方法。因為當天還有七至八位小童及大童共同使用遊樂設施，大部份家長放任不管，導致設施內的小朋友把球池來的球向人亂丟，霸佔玩具及動手推人等狀況。我們家長的只能自己維持秩序，不讓我們的幼童受到更大的傷害。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "leo lai",
-        "uri": "https://www.google.com/maps/contrib/113126830913987172098/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK_xtO4OWmyqUJX3mYiE5OldnZl9oaLjSf1GrMOuicObVlqzg=s128-c0x00000000-cc-rp-mo-ba2"
-      },
-      "publishTime": "2025-10-26T07:32:58.473386182Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSUFJtVmpTMnAzTlRVME5IbDVZWFJXVG1WSmJuYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSUFJtVmpTMnAzTlRVME5IbDVZWFJXVG1WSmJuYxAB!2m1!1s0x3442ab6ead90435b:0xdc09d952cf71104c"
-    },
-    {
-      "name": "places/ChIJW0OQrW6rQjQRTBBxz1LZCdw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkT1pVeHpjVmgyYkVweWNXUmhRMEpZZG1nMFdtYxAB",
-      "relativePublishTimeDescription": "3 個月前",
-      "rating": 5,
-      "text": {
-        "text": "第一次消費，是親子友善餐廳裡面竟然有小球池，女兒玩得很開心，餐點也都很美味，老闆待人親切還招待甜的披薩，沒想到甜的口味還蠻好吃的，女兒一直叫我要給五顆心😁",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "第一次消費，是親子友善餐廳裡面竟然有小球池，女兒玩得很開心，餐點也都很美味，老闆待人親切還招待甜的披薩，沒想到甜的口味還蠻好吃的，女兒一直叫我要給五顆心😁",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Sammy Chuang",
-        "uri": "https://www.google.com/maps/contrib/110831181152719419689/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVjnrUsLLROtQEvZrwaAL2BaPw1GR21HOBMo7TGiQZS_BZKcO8=s128-c0x00000000-cc-rp-mo"
-      },
-      "publishTime": "2026-02-11T13:26:23.736009319Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkT1pVeHpjVmgyYkVweWNXUmhRMEpZZG1nMFdtYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkT1pVeHpjVmgyYkVweWNXUmhRMEpZZG1nMFdtYxAB!2m1!1s0x3442ab6ead90435b:0xdc09d952cf71104c"
-    },
-    {
-      "name": "places/ChIJW0OQrW6rQjQRTBBxz1LZCdw/reviews/Ci9DQUlRQUNvZENodHljRjlvT20wM2ExbHVXV1F5VVdOeU1HZFFjVVJKUm1GVVdtYxAB",
-      "relativePublishTimeDescription": "10 個月前",
-      "rating": 5,
-      "text": {
-        "text": "一個親子活動的pizza店\n許多大朋友小朋友都來自己手作pizza\n這邊都有低消一個人就是$300的低消\n做披薩其實沒多少錢然後會受傷折價卷直接在現場點PIZZA\nCp值算很高種類也蠻多的\n附近有許多停車場蠻好停車的\n\n美中不足的是有其中一個女生店員，送PIZZA來的時候也不知道是哪一桌的！然後就先找隨便一桌來借放！然後跟他講，但她感覺上表情就不是很開心，也不知道再不開心什麼？？？？",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "一個親子活動的pizza店\n許多大朋友小朋友都來自己手作pizza\n這邊都有低消一個人就是$300的低消\n做披薩其實沒多少錢然後會受傷折價卷直接在現場點PIZZA\nCp值算很高種類也蠻多的\n附近有許多停車場蠻好停車的\n\n美中不足的是有其中一個女生店員，送PIZZA來的時候也不知道是哪一桌的！然後就先找隨便一桌來借放！然後跟他講，但她感覺上表情就不是很開心，也不知道再不開心什麼？？？？",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Hunter Chou",
-        "uri": "https://www.google.com/maps/contrib/115325850247200809477/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXuyUrQ1EDB6l5lDb2Ji4nDeJngSvVhsl27pRstuy6UZOkwpr8u=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2025-07-27T04:11:12.014868782Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20wM2ExbHVXV1F5VVdOeU1HZFFjVVJKUm1GVVdtYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20wM2ExbHVXV1F5VVdOeU1HZFFjVVJKUm1GVVdtYxAB!2m1!1s0x3442ab6ead90435b:0xdc09d952cf71104c"
-    }
-  ]
+﻿{
+    "id":  "ChIJW0OQrW6rQjQRTBBxz1LZCdw",
+    "types":  [
+                  "pizza_restaurant",
+                  "pizza_delivery",
+                  "meal_delivery",
+                  "meal_takeaway",
+                  "food_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2515 1985",
+    "formattedAddress":  "No. 100之1號, Hejiang St, Jiangshan Village, Zhongshan District, Taipei City, Taiwan 10491",
+    "location":  {
+                     "latitude":  25.0583766,
+                     "longitude":  121.5390875
+                 },
+    "rating":  4.8,
+    "websiteUri":  "https://1985pizza.com.tw/",
+    "userRatingCount":  2009,
+    "displayName":  {
+                        "text":  "1985窯烤披薩(台北中山店) 親子餐廳｜包場｜慶生｜抓週｜揭曉性別｜各種主題派對｜聚會聚餐｜租借場地｜親子課程｜披薩DIY｜動物觀察體驗｜流體DIY｜小烘焙師｜溜滑梯｜球池｜彈珠台｜電動外送車｜龍眼木柴燒｜甜心披薩｜內用｜外帶｜外送",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJW0OQrW6rQjQRTBBxz1LZCdw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkek1sRnFRM2x5ZGpkSWFVNXhUM1J0VVdGV2EyYxAB",
+                        "relativePublishTimeDescription":  "5 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Love pizza, and nice environment for kids to play. Just was too noisy when kids from downstairs (where they had a workshop) came to our floor to play. I wish we were provided with a table downstairs for these 20 minutes",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Love pizza, and nice environment for kids to play. Just was too noisy when kids from downstairs (where they had a workshop) came to our floor to play. I wish we were provided with a table downstairs for these 20 minutes",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Yana Gall",
+                                                  "uri":  "https://www.google.com/maps/contrib/107156329066765585121/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjU3qDLx71V0gD_XIRgLmQPxSjSdPNhB4AavRBvWpMXPs6DQMUmj=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2025-12-25T12:40:37.307531560Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkek1sRnFRM2x5ZGpkSWFVNXhUM1J0VVdGV2EyYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkek1sRnFRM2x5ZGpkSWFVNXhUM1J0VVdGV2EyYxAB!2m1!1s0x3442ab6ead90435b:0xdc09d952cf71104c"
+                    },
+                    {
+                        "name":  "places/ChIJW0OQrW6rQjQRTBBxz1LZCdw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Sd00xcG9NM2RyZVdwUVNISjJUVWRNYkhaaVozYxAB",
+                        "relativePublishTimeDescription":  "5 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Excellent place to bring kids for the pizza and relaxing party! There’s wonderful playground for them to play and parents can have meals around 😌",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Excellent place to bring kids for the pizza and relaxing party! There’s wonderful playground for them to play and parents can have meals around 😌",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Juanito Juan",
+                                                  "uri":  "https://www.google.com/maps/contrib/100249256322441985294/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjV-EPaXp3RR4q4LUriTP08l-ZzyFWzXvo0RxC8876fy_UARTryx=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-12-25T11:44:50.304233847Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Sd00xcG9NM2RyZVdwUVNISjJUVWRNYkhaaVozYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Sd00xcG9NM2RyZVdwUVNISjJUVWRNYkhaaVozYxAB!2m1!1s0x3442ab6ead90435b:0xdc09d952cf71104c"
+                    },
+                    {
+                        "name":  "places/ChIJW0OQrW6rQjQRTBBxz1LZCdw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSeE0zQTFXRkIwTmtKUWJVcDZkMGR2YW1WcVNHYxAB",
+                        "relativePublishTimeDescription":  "10 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Pizza DIY event",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Pizza DIY event",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Winnie Chen",
+                                                  "uri":  "https://www.google.com/maps/contrib/116451940471740614684/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocJgxA2oyXd3kB0Xg9Y9XtaLqSQEJmHE8rl0tj6NvIyjNxasMw=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2025-07-19T04:01:01.672886259Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSeE0zQTFXRkIwTmtKUWJVcDZkMGR2YW1WcVNHYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSeE0zQTFXRkIwTmtKUWJVcDZkMGR2YW1WcVNHYxAB!2m1!1s0x3442ab6ead90435b:0xdc09d952cf71104c"
+                    }
+                ]
 }

@@ -1,131 +1,131 @@
-{
-  "id": "ChIJ9UmYNgCpQjQR-4HKhJvl6no",
-  "types": [
-    "american_restaurant",
-    "italian_restaurant",
-    "restaurant",
-    "food",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2381 0035",
-  "formattedAddress": "108台灣臺北市萬華區西門里漢中街103號2 樓",
-  "location": {
-    "latitude": 25.0433304,
-    "longitude": 121.5073904
-  },
-  "rating": 4.8,
-  "websiteUri": "https://www.instagram.com/joyful_restaurant_tw",
-  "userRatingCount": 884,
-  "displayName": {
-    "text": "Joyful揪福",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJ9UmYNgCpQjQR-4HKhJvl6no/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGM2FVVjFTR1poT0d4RVRIWTNla2wzT0V0MlVWRRAB",
-      "relativePublishTimeDescription": "7 個月前",
-      "rating": 4,
-      "text": {
-        "text": "餐點：漢堡、炸物很好吃👍🏻義大利麵是清炒蒜香的，但收汁收的太乾，導致麵條黏在一起😅覺得可以在更濕一點~奶茶是偏微糖的，不會很膩~還不錯喝✔️\n\n環境：乾淨整潔，如果喜歡拍照，有些地方光線還不錯~但，有個小問題就是會感覺到地面晃動😅越靠近三角窗的位置越明顯，如果對於晃動感比較明顯的可能要稍微斟酌一下~樓梯較過狹窄，比較不建議年長者，或膝蓋不好的人上下樓~會比較辛苦~",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "餐點：漢堡、炸物很好吃👍🏻義大利麵是清炒蒜香的，但收汁收的太乾，導致麵條黏在一起😅覺得可以在更濕一點~奶茶是偏微糖的，不會很膩~還不錯喝✔️\n\n環境：乾淨整潔，如果喜歡拍照，有些地方光線還不錯~但，有個小問題就是會感覺到地面晃動😅越靠近三角窗的位置越明顯，如果對於晃動感比較明顯的可能要稍微斟酌一下~樓梯較過狹窄，比較不建議年長者，或膝蓋不好的人上下樓~會比較辛苦~",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Bobo (花花)",
-        "uri": "https://www.google.com/maps/contrib/104079676041337179584/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjViwqIsZraQYrxBide0mTQ8IwCRmbsRoU7ws-GnddINpxGK77f-jA=s128-c0x00000000-cc-rp-mo-ba4"
-      },
-      "publishTime": "2025-10-15T19:01:36.768616676Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGM2FVVjFTR1poT0d4RVRIWTNla2wzT0V0MlVWRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGM2FVVjFTR1poT0d4RVRIWTNla2wzT0V0MlVWRRAB!2m1!1s0x3442a900369849f5:0x7aeae59b84ca81fb"
-    },
-    {
-      "name": "places/ChIJ9UmYNgCpQjQR-4HKhJvl6no/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KeGVpMXVkMHQ1Tlc1T1gwbzJTbUl0ZERFNVVYYxAB",
-      "relativePublishTimeDescription": "5 個月前",
-      "rating": 4,
-      "text": {
-        "text": "濃湯是簡單的濃郁味道\n雞翅是檸檬口味（有點像樂事\n所以喜歡的話可以點五隻\n茄汁菌菇味道比較清淡\n青醬味道很像剛打好的馬上炒",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "濃湯是簡單的濃郁味道\n雞翅是檸檬口味（有點像樂事\n所以喜歡的話可以點五隻\n茄汁菌菇味道比較清淡\n青醬味道很像剛打好的馬上炒",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "施坤辰",
-        "uri": "https://www.google.com/maps/contrib/108767090084524711835/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXXXNwOIE6MW8Bgt9y0P5o1uopi-T_dEAH7nWkiI4HLUR2I9lyI=s128-c0x00000000-cc-rp-mo-ba2"
-      },
-      "publishTime": "2025-12-20T12:07:35.915449432Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KeGVpMXVkMHQ1Tlc1T1gwbzJTbUl0ZERFNVVYYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KeGVpMXVkMHQ1Tlc1T1gwbzJTbUl0ZERFNVVYYxAB!2m1!1s0x3442a900369849f5:0x7aeae59b84ca81fb"
-    },
-    {
-      "name": "places/ChIJ9UmYNgCpQjQR-4HKhJvl6no/reviews/Ci9DQUlRQUNvZENodHljRjlvT25scFUwNXZVVm94UVdaWlUzUkJMVVYxU0dkc2VYYxAB",
-      "relativePublishTimeDescription": "6 個月前",
-      "rating": 4,
-      "text": {
-        "text": "可以刷卡！假日有限時 90分鐘📣\n中規中矩！二樓的靠窗位子很讚！\n不是那種最正統的義大利麵，但cp 值還不錯！",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "可以刷卡！假日有限時 90分鐘📣\n中規中矩！二樓的靠窗位子很讚！\n不是那種最正統的義大利麵，但cp 值還不錯！",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Maggieee",
-        "uri": "https://www.google.com/maps/contrib/107698107997527435402/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXeg2o8NfplAj8Zwf_e_YONPK5koORZjIMz0gqm9EMihVJOevI1Xw=s128-c0x00000000-cc-rp-mo-ba7"
-      },
-      "publishTime": "2025-11-08T12:21:39.127080434Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25scFUwNXZVVm94UVdaWlUzUkJMVVYxU0dkc2VYYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25scFUwNXZVVm94UVdaWlUzUkJMVVYxU0dkc2VYYxAB!2m1!1s0x3442a900369849f5:0x7aeae59b84ca81fb"
-    },
-    {
-      "name": "places/ChIJ9UmYNgCpQjQR-4HKhJvl6no/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wSWMxZGpORmt6VFZsS1RFUmFRMk5XUTBWc1gzYxAB",
-      "relativePublishTimeDescription": "5 個月前",
-      "rating": 4,
-      "text": {
-        "text": "位置方便，環境舒適。\n餐點現煮需要時間，等了15-20分鐘。\n\nGoogle評論送小點（炸薯球）。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "位置方便，環境舒適。\n餐點現煮需要時間，等了15-20分鐘。\n\nGoogle評論送小點（炸薯球）。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "蔡佳勳",
-        "uri": "https://www.google.com/maps/contrib/106050831930700346378/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUVuos6XEPS_bQk3YkmT6pyeq5Q3jo8i59jzyjWRHLWAArz9jzK=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2025-12-16T00:02:11.181644696Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wSWMxZGpORmt6VFZsS1RFUmFRMk5XUTBWc1gzYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wSWMxZGpORmt6VFZsS1RFUmFRMk5XUTBWc1gzYxAB!2m1!1s0x3442a900369849f5:0x7aeae59b84ca81fb"
-    },
-    {
-      "name": "places/ChIJ9UmYNgCpQjQR-4HKhJvl6no/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twdmNYWkZka2d3UVhBelpGaEdSVlJrWDBJMmRXYxAB",
-      "relativePublishTimeDescription": "3 個月前",
-      "rating": 3,
-      "text": {
-        "text": "薯條炸很黑，油可能很久沒換\n外場服務生的臉都很厭世\n濃湯很不行，是平價牛排的等級\n去冰飲料就是常溫，這第一次見到\n\n整體不推薦，唯一好應該是地點吧\n西門六號出口走3分鐘到",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "薯條炸很黑，油可能很久沒換\n外場服務生的臉都很厭世\n濃湯很不行，是平價牛排的等級\n去冰飲料就是常溫，這第一次見到\n\n整體不推薦，唯一好應該是地點吧\n西門六號出口走3分鐘到",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Yiting Chung",
-        "uri": "https://www.google.com/maps/contrib/107560447514061923466/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUmt55jvefkf7LvVPmAOxAXqeZDo8u2OI-wIVSvjzcOYgWYYOo=s128-c0x00000000-cc-rp-mo-ba4"
-      },
-      "publishTime": "2026-02-01T09:44:31.855648593Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twdmNYWkZka2d3UVhBelpGaEdSVlJrWDBJMmRXYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twdmNYWkZka2d3UVhBelpGaEdSVlJrWDBJMmRXYxAB!2m1!1s0x3442a900369849f5:0x7aeae59b84ca81fb"
-    }
-  ]
+﻿{
+    "id":  "ChIJ9UmYNgCpQjQR-4HKhJvl6no",
+    "types":  [
+                  "italian_restaurant",
+                  "american_restaurant",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2381 0035",
+    "formattedAddress":  "108, Taiwan, Taipei City, Wanhua District, Ximen Village, Hanzhong St, 103號2 樓",
+    "location":  {
+                     "latitude":  25.0433304,
+                     "longitude":  121.5073904
+                 },
+    "rating":  4.8,
+    "websiteUri":  "https://www.instagram.com/joyful_restaurant_tw",
+    "userRatingCount":  891,
+    "displayName":  {
+                        "text":  "Joyful揪福",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJ9UmYNgCpQjQR-4HKhJvl6no/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGU1duVnFTSFZ0UmxGc2MxQkxVSHB5YkhkUVpIYxAB",
+                        "relativePublishTimeDescription":  "3 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "We almost missed Joyful Restaurant because the entrance is literally inside a phone case shop beside Xin Fu Tang. Walk in, go upstairs, and suddenly there’s a full pasta place.\n\nNow I understand why Taipei has so many pasta spots. It’s not the super traditional Italian style, but honestly it works. The pasta is al dente and the flavors are very Asian-friendly.\n\nWe ordered the carbonara and the spicy seafood pasta and both were really good, but the spicy seafood was the winner for me. So flavorful with just the right kick — the kind of dish that makes you want to come back again.\n\nSkip the burgers and drinks o👀",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "We almost missed Joyful Restaurant because the entrance is literally inside a phone case shop beside Xin Fu Tang. Walk in, go upstairs, and suddenly there’s a full pasta place.\n\nNow I understand why Taipei has so many pasta spots. It’s not the super traditional Italian style, but honestly it works. The pasta is al dente and the flavors are very Asian-friendly.\n\nWe ordered the carbonara and the spicy seafood pasta and both were really good, but the spicy seafood was the winner for me. So flavorful with just the right kick — the kind of dish that makes you want to come back again.\n\nSkip the burgers and drinks o👀",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Goodiefoodieph",
+                                                  "uri":  "https://www.google.com/maps/contrib/100333130183396420600/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUUzTeI0KrWVV4i1yaDJtk1MB6fHTRlZ8z0_xif_VVymIAzL69z=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2026-02-28T11:21:01.878175707Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGU1duVnFTSFZ0UmxGc2MxQkxVSHB5YkhkUVpIYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGU1duVnFTSFZ0UmxGc2MxQkxVSHB5YkhkUVpIYxAB!2m1!1s0x3442a900369849f5:0x7aeae59b84ca81fb"
+                    },
+                    {
+                        "name":  "places/ChIJ9UmYNgCpQjQR-4HKhJvl6no/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xeVZYcFNUV3huVFVOaGVGcEdVa3Q0Y2pKMldsRRAB",
+                        "relativePublishTimeDescription":  "5 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "From start to finish, the lunch experience was outstanding.\n\nEach dish was expertly prepared and full of rich, authentic flavors.\nThe restaurant offers a warm and comfortable ambiance, complemented by genuinely welcoming and attentive staff who enhance the overall experience. Every bite was a pleasure, and I left thoroughly satisfied. I would confidently recommend this place to anyone looking for exceptional Italian food in Taipei.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "From start to finish, the lunch experience was outstanding.\n\nEach dish was expertly prepared and full of rich, authentic flavors.\nThe restaurant offers a warm and comfortable ambiance, complemented by genuinely welcoming and attentive staff who enhance the overall experience. Every bite was a pleasure, and I left thoroughly satisfied. I would confidently recommend this place to anyone looking for exceptional Italian food in Taipei.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Sid Balu",
+                                                  "uri":  "https://www.google.com/maps/contrib/107991250243944507290/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjURDEq8NfcfjhFQKqIQVLSQKiKBw7hSjHKCav5fYuSfe0_EO_q-xw=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-12-26T04:44:24.850927537Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xeVZYcFNUV3huVFVOaGVGcEdVa3Q0Y2pKMldsRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xeVZYcFNUV3huVFVOaGVGcEdVa3Q0Y2pKMldsRRAB!2m1!1s0x3442a900369849f5:0x7aeae59b84ca81fb"
+                    },
+                    {
+                        "name":  "places/ChIJ9UmYNgCpQjQR-4HKhJvl6no/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taMlpXWmlia0pVYTNrNVlWWlRRbTFFVVVsU1duYxAB",
+                        "relativePublishTimeDescription":  "4 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Had a wonderful experience at Joyful (揪福)! The Carbonara was excellent—rich, creamy, and seasoned perfectly. We also loved the snack platter with crispy onion rings and loaded fries. The service was great, and the staff made us feel very welcome throughout our meal. Highly recommend for a tasty and relaxed lunch!",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Had a wonderful experience at Joyful (揪福)! The Carbonara was excellent—rich, creamy, and seasoned perfectly. We also loved the snack platter with crispy onion rings and loaded fries. The service was great, and the staff made us feel very welcome throughout our meal. Highly recommend for a tasty and relaxed lunch!",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "M\u0026M",
+                                                  "uri":  "https://www.google.com/maps/contrib/117397755488204555827/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjX8yNagTK3T2_Englx4ALuA0QzFCe-64iysmD1ir9po5HEWwBPX=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2026-01-15T18:31:49.467469425Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taMlpXWmlia0pVYTNrNVlWWlRRbTFFVVVsU1duYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taMlpXWmlia0pVYTNrNVlWWlRRbTFFVVVsU1duYxAB!2m1!1s0x3442a900369849f5:0x7aeae59b84ca81fb"
+                    },
+                    {
+                        "name":  "places/ChIJ9UmYNgCpQjQR-4HKhJvl6no/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oT01EWktZbGswWkVGclZIUXpURVF5TlMxNU1FRRAB",
+                        "relativePublishTimeDescription":  "3 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "This was a quite a delicious surprise . The burgers  are juicy and good size . I would say tho maybe give the burger patty a bit more of a grill crust . However it was big and juicy. The wings  were delicious as well, crispy and really moist and juicy.\nThe price is affordable too for Ximen .",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "This was a quite a delicious surprise . The burgers  are juicy and good size . I would say tho maybe give the burger patty a bit more of a grill crust . However it was big and juicy. The wings  were delicious as well, crispy and really moist and juicy.\nThe price is affordable too for Ximen .",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "pierre lee",
+                                                  "uri":  "https://www.google.com/maps/contrib/113580008140502527626/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjX7XJEjUVdgUKBZ_c_q-DyZiRXipeUh22GbOY099ijIL34nrNEp=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2026-02-13T15:23:14.898608989Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oT01EWktZbGswWkVGclZIUXpURVF5TlMxNU1FRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oT01EWktZbGswWkVGclZIUXpURVF5TlMxNU1FRRAB!2m1!1s0x3442a900369849f5:0x7aeae59b84ca81fb"
+                    },
+                    {
+                        "name":  "places/ChIJ9UmYNgCpQjQR-4HKhJvl6no/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GeVduQTBTMDlWV2s5Q2RVeERNa0ZzWW1WZlRYYxAB",
+                        "relativePublishTimeDescription":  "5 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "I had an amazing meal!\nThe food was absolutely delicious and well-prepared.\n\nThe atmosphere is cozy and inviting, and the staff are friendly and attentive, making the experience even better.\nI truly enjoyed every bite and would highly recommend this spot to anyone craving high-quality Italian cuisine in Taipei.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "I had an amazing meal!\nThe food was absolutely delicious and well-prepared.\n\nThe atmosphere is cozy and inviting, and the staff are friendly and attentive, making the experience even better.\nI truly enjoyed every bite and would highly recommend this spot to anyone craving high-quality Italian cuisine in Taipei.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Absaloon",
+                                                  "uri":  "https://www.google.com/maps/contrib/116839731303036810314/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVTYjBZaf8MNkwvWaL9XBBOlKtgwsDMQ-VR3raM_wxvvZ3c_FSWkQ=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-12-08T14:11:25.576414510Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GeVduQTBTMDlWV2s5Q2RVeERNa0ZzWW1WZlRYYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GeVduQTBTMDlWV2s5Q2RVeERNa0ZzWW1WZlRYYxAB!2m1!1s0x3442a900369849f5:0x7aeae59b84ca81fb"
+                    }
+                ]
 }

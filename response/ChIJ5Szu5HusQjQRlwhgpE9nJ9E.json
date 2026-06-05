@@ -1,131 +1,68 @@
-{
-  "id": "ChIJ5Szu5HusQjQRlwhgpE9nJ9E",
-  "types": [
-    "chinese_restaurant",
-    "meal_takeaway",
-    "restaurant",
-    "food",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 987 045 762",
-  "formattedAddress": "114台灣臺北市內湖區基湖路35巷",
-  "location": {
-    "latitude": 25.0792316,
-    "longitude": 121.5669922
-  },
-  "rating": 4.2,
-  "websiteUri": "https://facebook.com/eatfoodgood",
-  "userRatingCount": 49,
-  "displayName": {
-    "text": "有間客讚",
-    "languageCode": "zh"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJ5Szu5HusQjQRlwhgpE9nJ9E/reviews/ChdDSUhNMG9nS0VJQ0FnSURKcjhxMTBBRRAB",
-      "relativePublishTimeDescription": "2 年前",
-      "rating": 5,
-      "text": {
-        "text": "包裝精美密實，湯很大碗，菜給很多！我們2大2小有時還吃不完，美味又營養～是職業婦女的救星，會持續回購，謝謝😊",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "包裝精美密實，湯很大碗，菜給很多！我們2大2小有時還吃不完，美味又營養～是職業婦女的救星，會持續回購，謝謝😊",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "施羽澄",
-        "uri": "https://www.google.com/maps/contrib/105827026156666828939/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBk6C5oqh-L5wUqeHJWWLJUvVEfhOlQh5Xfeq-6t5AwVxPo0pa=s128-c0x00000000-cc-rp-mo"
-      },
-      "publishTime": "2023-07-25T11:44:57.672839Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURKcjhxMTBBRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURKcjhxMTBBRRAB!2m1!1s0x3442ac7be4ee2ce5:0xd127674fa4600897"
-    },
-    {
-      "name": "places/ChIJ5Szu5HusQjQRlwhgpE9nJ9E/reviews/ChZDSUhNMG9nS0VJQ0FnSUNlajluWGZREAE",
-      "relativePublishTimeDescription": "3 年前",
-      "rating": 1,
-      "text": {
-        "text": "我吃到雷的頻率也太高\n8/5韭菜炒蛋居然有鹽巴塊，整個菜鹹死\n9/26豆芽菜居然有參雜橡皮筋",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "我吃到雷的頻率也太高\n8/5韭菜炒蛋居然有鹽巴塊，整個菜鹹死\n9/26豆芽菜居然有參雜橡皮筋",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "hubert hsieh",
-        "uri": "https://www.google.com/maps/contrib/109882057288957614178/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKMj4g1zxs9Kga7BQELBWII5FLCh59vpaR9d_UIP3hglXpCOw=s128-c0x00000000-cc-rp-mo-ba2"
-      },
-      "publishTime": "2022-09-27T06:59:11.717550Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNlajluWGZREAE&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNlajluWGZREAE!2m1!1s0x3442ac7be4ee2ce5:0xd127674fa4600897"
-    },
-    {
-      "name": "places/ChIJ5Szu5HusQjQRlwhgpE9nJ9E/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXNWIyV1hREAE",
-      "relativePublishTimeDescription": "4 年前",
-      "rating": 5,
-      "text": {
-        "text": "這是我這週一訂的家庭晚餐，用料從食材到餐盒都相當重視跟用心，小朋友說很好吃😋，大推。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "這是我這週一訂的家庭晚餐，用料從食材到餐盒都相當重視跟用心，小朋友說很好吃😋，大推。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "李國華",
-        "uri": "https://www.google.com/maps/contrib/111206104317327727187/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU5oU9xKW9MQ58JlbaY595ycrmN1EVpdbbBdvG42u_g-m51F_GNww=s128-c0x00000000-cc-rp-mo-ba2"
-      },
-      "publishTime": "2022-03-23T14:33:43.554648Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNXNWIyV1hREAE&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNXNWIyV1hREAE!2m1!1s0x3442ac7be4ee2ce5:0xd127674fa4600897"
-    },
-    {
-      "name": "places/ChIJ5Szu5HusQjQRlwhgpE9nJ9E/reviews/ChdDSUhNMG9nS0VPYnkyN2lTa2RfU2tRRRAB",
-      "relativePublishTimeDescription": "1 年前",
-      "rating": 1,
-      "text": {
-        "text": "不知道老闆對於綠咖哩雞丁是不是有什麼誤解，網路上查詢綠咖哩又稱青咖哩（英語：green curry），泰語名為甘綠羹（泰語：แกงเขียวหวาน，kɛːŋ kʰǐaw wǎːn），是一種泰國羹。 綠咖哩的主要成分包括椰奶、各種香料、綠辣椒、大蒜、高良薑、香茅、香菜根、紅蔥頭、棕櫚糖、泰國茄子、魚露、青檸、箭葉橙葉和泰國羅勒等食材。\n今天中午吃到的既不是綠色也沒有椰奶香是孜然口味，菜色今日配才高麗菜冬粉 油菜 豆干 ，整體配菜偏鹹，雞丁也不是雞丁裡面出現了雞翅膀跟帶骨的肉，整體下來給予一顆星我還覺得太多",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "不知道老闆對於綠咖哩雞丁是不是有什麼誤解，網路上查詢綠咖哩又稱青咖哩（英語：green curry），泰語名為甘綠羹（泰語：แกงเขียวหวาน，kɛːŋ kʰǐaw wǎːn），是一種泰國羹。 綠咖哩的主要成分包括椰奶、各種香料、綠辣椒、大蒜、高良薑、香茅、香菜根、紅蔥頭、棕櫚糖、泰國茄子、魚露、青檸、箭葉橙葉和泰國羅勒等食材。\n今天中午吃到的既不是綠色也沒有椰奶香是孜然口味，菜色今日配才高麗菜冬粉 油菜 豆干 ，整體配菜偏鹹，雞丁也不是雞丁裡面出現了雞翅膀跟帶骨的肉，整體下來給予一顆星我還覺得太多",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "weiwei chen",
-        "uri": "https://www.google.com/maps/contrib/113237857333228999800/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIXPCJVjmSqkfmYTO2hPaWl2ubYT5ZAj9cuzuKiorlzMaDjwg=s128-c0x00000000-cc-rp-mo"
-      },
-      "publishTime": "2025-05-14T05:52:53.606794Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VPYnkyN2lTa2RfU2tRRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VPYnkyN2lTa2RfU2tRRRAB!2m1!1s0x3442ac7be4ee2ce5:0xd127674fa4600897"
-    },
-    {
-      "name": "places/ChIJ5Szu5HusQjQRlwhgpE9nJ9E/reviews/ChZDSUhNMG9nS0VJTHdzZnJWZ3NDb1lnEAE",
-      "relativePublishTimeDescription": "1 年前",
-      "rating": 1,
-      "text": {
-        "text": "午餐點了「限量綠咖哩雞丁飯」\n結果來了一個跟相似三杯雞帶骨頭的雞肉～～\n店家的綠咖喱跟大眾認知的綠咖哩是否差異太大！？！？\n肉質很乾硬！難以入口！",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "午餐點了「限量綠咖哩雞丁飯」\n結果來了一個跟相似三杯雞帶骨頭的雞肉～～\n店家的綠咖喱跟大眾認知的綠咖哩是否差異太大！？！？\n肉質很乾硬！難以入口！",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "王草莓",
-        "uri": "https://www.google.com/maps/contrib/113549215119514547095/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIx2k4dCW-99kNvVrRy0Iu7lEV2xWt8xqqy3mVyfPHiboDEyg=s128-c0x00000000-cc-rp-mo"
-      },
-      "publishTime": "2025-05-19T01:33:30.195674Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJTHdzZnJWZ3NDb1lnEAE&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJTHdzZnJWZ3NDb1lnEAE!2m1!1s0x3442ac7be4ee2ce5:0xd127674fa4600897"
-    }
-  ]
+﻿{
+    "id":  "ChIJ5Szu5HusQjQRlwhgpE9nJ9E",
+    "types":  [
+                  "chinese_restaurant",
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 987 045 762",
+    "formattedAddress":  "Lane 35, Jihu Rd, Neihu District, Taipei City, Taiwan 114",
+    "location":  {
+                     "latitude":  25.0792316,
+                     "longitude":  121.5669922
+                 },
+    "rating":  4.2,
+    "websiteUri":  "https://facebook.com/eatfoodgood",
+    "userRatingCount":  50,
+    "displayName":  {
+                        "text":  "有間客讚",
+                        "languageCode":  "zh"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJ5Szu5HusQjQRlwhgpE9nJ9E/reviews/ChdDSUhNMG9nS0VPYnkyN2lTa2RfU2tRRRAB",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  1,
+                        "text":  {
+                                     "text":  "I\u0027m not sure if the owner has some misunderstanding about green curry chicken. Online searches suggest that green curry, also known as koryu (English: green curry), is called koryu kuen (Thai: แกงเขียวหวาน, kɛːŋ kʰǐaw wǎːn) in Thai, and is a type of Thai soup. The main ingredients of green curry include coconut milk, various spices, green chilies, garlic, galangal, lemongrass, coriander root, shallots, palm sugar, Thai eggplant, fish sauce, lime, kaffir lime leaves, and Thai basil.\n\nWhat I had for lunch today wasn\u0027t green at all, nor did it have a coconut milk flavor; it was cumin-flavored. The side dishes today included cabbage, glass noodles, bok choy, and dried tofu. The overall side dishes were too salty, and the chicken pieces weren\u0027t actually chicken cubes; there were chicken wings and bone-in meat mixed in. Overall, I think one star is too much.",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "不知道老闆對於綠咖哩雞丁是不是有什麼誤解，網路上查詢綠咖哩又稱青咖哩（英語：green curry），泰語名為甘綠羹（泰語：แกงเขียวหวาน，kɛːŋ kʰǐaw wǎːn），是一種泰國羹。 綠咖哩的主要成分包括椰奶、各種香料、綠辣椒、大蒜、高良薑、香茅、香菜根、紅蔥頭、棕櫚糖、泰國茄子、魚露、青檸、箭葉橙葉和泰國羅勒等食材。\n今天中午吃到的既不是綠色也沒有椰奶香是孜然口味，菜色今日配才高麗菜冬粉 油菜 豆干 ，整體配菜偏鹹，雞丁也不是雞丁裡面出現了雞翅膀跟帶骨的肉，整體下來給予一顆星我還覺得太多",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "weiwei chen",
+                                                  "uri":  "https://www.google.com/maps/contrib/113237857333228999800/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocIXPCJVjmSqkfmYTO2hPaWl2ubYT5ZAj9cuzuKiorlzMaDjwg=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2025-05-14T05:52:53.606794Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VPYnkyN2lTa2RfU2tRRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VPYnkyN2lTa2RfU2tRRRAB!2m1!1s0x3442ac7be4ee2ce5:0xd127674fa4600897"
+                    },
+                    {
+                        "name":  "places/ChIJ5Szu5HusQjQRlwhgpE9nJ9E/reviews/ChZDSUhNMG9nS0VJTHdzZnJWZ3NDb1lnEAE",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  1,
+                        "text":  {
+                                     "text":  "I ordered the \"Limited Edition Green Curry Chicken Rice\" for lunch.\n\nWhat I received was chicken with bones, similar to Three Cup Chicken! Is the restaurant\u0027s green curry so different from what people generally know about green curry?!\n\nThe meat was very dry and tough! Hard to eat!",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "午餐點了「限量綠咖哩雞丁飯」\n結果來了一個跟相似三杯雞帶骨頭的雞肉～～\n店家的綠咖喱跟大眾認知的綠咖哩是否差異太大！？！？\n肉質很乾硬！難以入口！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "王草莓",
+                                                  "uri":  "https://www.google.com/maps/contrib/113549215119514547095/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocIx2k4dCW-99kNvVrRy0Iu7lEV2xWt8xqqy3mVyfPHiboDEyg=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2025-05-19T01:33:30.195674Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJTHdzZnJWZ3NDb1lnEAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJTHdzZnJWZ3NDb1lnEAE!2m1!1s0x3442ac7be4ee2ce5:0xd127674fa4600897"
+                    }
+                ]
 }

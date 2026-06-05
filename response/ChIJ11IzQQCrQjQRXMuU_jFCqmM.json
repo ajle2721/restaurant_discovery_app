@@ -1,133 +1,131 @@
-{
-  "id": "ChIJ11IzQQCrQjQRXMuU_jFCqmM",
-  "types": [
-    "restaurant",
-    "brunch_restaurant",
-    "italian_restaurant",
-    "food",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 8732 6565",
-  "formattedAddress": "106台灣臺北市大安區全安里樂利路40號1樓",
-  "location": {
-    "latitude": 25.0267233,
-    "longitude": 121.55155479999999
-  },
-  "rating": 4.6,
-  "websiteUri": "https://bloom-brunch40.weebly.com/",
-  "userRatingCount": 335,
-  "displayName": {
-    "text": "綻.食",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJ11IzQQCrQjQRXMuU_jFCqmM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCWWQzSlZRMlpUZGtoRE1taE5iRUZoV21rME5IYxAB",
-      "relativePublishTimeDescription": "2 個月前",
-      "rating": 5,
-      "text": {
-        "text": "距離六張犁捷運站6分鐘距離🚉非常方便～\n餐點主要分為早午餐盤、沙拉、義大利麵、甜點、飲料\n特別的是還有許多紅白酒、氣泡飲料供選擇\n\n這次點了：\n🍴烘烤鮭魚菲力餐盤 $400\n🍴煙花女麵 $328\n🍴紐奧良雞翅 $238\n🍮招牌布丁脆脆 $128\n🍵紅茶拿鐵 $150\n☕️ 拿鐵咖啡 $150\n\n整體吃下來口味算是中規中矩，餐點擺盤蠻用心，環境也舒服好坐，適合朋友小聚或輕鬆聊天的場合。鮭魚熟度控制得不錯，雞翅調味偏重但滿涮嘴；煙花女麵走濃郁路線，布丁脆脆則是甜點裡比較有記憶點的一道。\n\n飲品表現穩定，不會出錯的安全牌☕️\n如果剛好在附近、想找一間環境不錯的早午餐店，可以列入口袋名單～",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "距離六張犁捷運站6分鐘距離🚉非常方便～\n餐點主要分為早午餐盤、沙拉、義大利麵、甜點、飲料\n特別的是還有許多紅白酒、氣泡飲料供選擇\n\n這次點了：\n🍴烘烤鮭魚菲力餐盤 $400\n🍴煙花女麵 $328\n🍴紐奧良雞翅 $238\n🍮招牌布丁脆脆 $128\n🍵紅茶拿鐵 $150\n☕️ 拿鐵咖啡 $150\n\n整體吃下來口味算是中規中矩，餐點擺盤蠻用心，環境也舒服好坐，適合朋友小聚或輕鬆聊天的場合。鮭魚熟度控制得不錯，雞翅調味偏重但滿涮嘴；煙花女麵走濃郁路線，布丁脆脆則是甜點裡比較有記憶點的一道。\n\n飲品表現穩定，不會出錯的安全牌☕️\n如果剛好在附近、想找一間環境不錯的早午餐店，可以列入口袋名單～",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Chloe Chen",
-        "uri": "https://www.google.com/maps/contrib/103830217857169424021/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUXeACTkX34vopEUUrFs6uqqjMOc3FOU9qjff2jkmeD5bS1yNtOwQ=s128-c0x00000000-cc-rp-mo-ba2"
-      },
-      "publishTime": "2026-02-27T06:42:35.178464722Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCWWQzSlZRMlpUZGtoRE1taE5iRUZoV21rME5IYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCWWQzSlZRMlpUZGtoRE1taE5iRUZoV21rME5IYxAB!2m1!1s0x3442ab00413352d7:0x63aa4231fe94cb5c"
-    },
-    {
-      "name": "places/ChIJ11IzQQCrQjQRXMuU_jFCqmM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taMmRVaDZZVkpxVmpGR1dIQXpiMGcwYlhsVmJtYxAB",
-      "relativePublishTimeDescription": "2 個月前",
-      "rating": 5,
-      "text": {
-        "text": "用餐環境舒適，很適合悠閒的吃早午餐\n喜歡這種用心製作的餐點\n蒜香奶油鮮蝦麵很合我胃口超喜歡💕非常推薦！\n炸鱈魚和薯條也超讚👍🏻\n爐烤鮭魚菲力餐盤，給了大片的鮭魚，新鮮沒有刺\n搭配酸種麵包一起吃好幸福～",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "用餐環境舒適，很適合悠閒的吃早午餐\n喜歡這種用心製作的餐點\n蒜香奶油鮮蝦麵很合我胃口超喜歡💕非常推薦！\n炸鱈魚和薯條也超讚👍🏻\n爐烤鮭魚菲力餐盤，給了大片的鮭魚，新鮮沒有刺\n搭配酸種麵包一起吃好幸福～",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Maggie",
-        "uri": "https://www.google.com/maps/contrib/118287079603747848753/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXagLxAn7k_0fuZfv24yXQKV9YQ-u6HEPJV6kbnsfhNXwWRl7A=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2026-03-01T11:34:05.072099530Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taMmRVaDZZVkpxVmpGR1dIQXpiMGcwYlhsVmJtYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taMmRVaDZZVkpxVmpGR1dIQXpiMGcwYlhsVmJtYxAB!2m1!1s0x3442ab00413352d7:0x63aa4231fe94cb5c"
-    },
-    {
-      "name": "places/ChIJ11IzQQCrQjQRXMuU_jFCqmM/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WNGRVVmZWUzFVTWtOQ1RHOW1lbEkyUXpWQmVXYxAB",
-      "relativePublishTimeDescription": "3 個月前",
-      "rating": 5,
-      "text": {
-        "text": "BLOOM brunch 綻.食\n質感早午餐的首選✨\n精緻的食材和講究的擺盤\n食材新鮮餐點選擇多樣！\n有早午餐盤、義大利麵、炸物、甜點還有咖啡、茶、酒品\n整體氣氛優美環境舒適🤗\n\n翼板牛排餐盤 $420\n法式蒜香奶油鮮蝦麵 $348\n招牌布丁脆脆 $128\n香檸巴斯克乳酪 $148\n大人味巧克力 $160\n西西里咖啡$150\n\n週三～週六晚餐時段像餐酒館\n也是能吃得到早午餐盤、咖喱飯、義大利麵\n吃飯搭配餐酒感受滿滿迷人微醺氛圍😚\n適合三五好友聚會或是獨自來享受！\n\n@bloom_brunch40\n📍台北市大安區樂利路40號\n捷運六張犁站步行約7分鐘\n營業時間：\n週日～週二 09:30-17:30\n週三～週六 09:30-21:00\n每人低消：\n早午餐時段 $250\n晚餐時段 $400\n如遇客滿時用餐限90分鐘\n\n#台北美食 #六章犁美食 #早午餐 #餐酒館 #大安美食",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "BLOOM brunch 綻.食\n質感早午餐的首選✨\n精緻的食材和講究的擺盤\n食材新鮮餐點選擇多樣！\n有早午餐盤、義大利麵、炸物、甜點還有咖啡、茶、酒品\n整體氣氛優美環境舒適🤗\n\n翼板牛排餐盤 $420\n法式蒜香奶油鮮蝦麵 $348\n招牌布丁脆脆 $128\n香檸巴斯克乳酪 $148\n大人味巧克力 $160\n西西里咖啡$150\n\n週三～週六晚餐時段像餐酒館\n也是能吃得到早午餐盤、咖喱飯、義大利麵\n吃飯搭配餐酒感受滿滿迷人微醺氛圍😚\n適合三五好友聚會或是獨自來享受！\n\n@bloom_brunch40\n📍台北市大安區樂利路40號\n捷運六張犁站步行約7分鐘\n營業時間：\n週日～週二 09:30-17:30\n週三～週六 09:30-21:00\n每人低消：\n早午餐時段 $250\n晚餐時段 $400\n如遇客滿時用餐限90分鐘\n\n#台北美食 #六章犁美食 #早午餐 #餐酒館 #大安美食",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "莊雅媛",
-        "uri": "https://www.google.com/maps/contrib/102341831375764151712/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVcAAV4un60_8T6CWdsKpitGh8qpeV1OmQUPuf2Ex9wfyJIE-AMmA=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2026-01-31T09:55:40.491758139Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WNGRVVmZWUzFVTWtOQ1RHOW1lbEkyUXpWQmVXYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WNGRVVmZWUzFVTWtOQ1RHOW1lbEkyUXpWQmVXYxAB!2m1!1s0x3442ab00413352d7:0x63aa4231fe94cb5c"
-    },
-    {
-      "name": "places/ChIJ11IzQQCrQjQRXMuU_jFCqmM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paQlFsZDVOa2s0VjNGRWFYVldiMmRrTWkxV2VFRRAB",
-      "relativePublishTimeDescription": "5 個月前",
-      "rating": 5,
-      "text": {
-        "text": "更多美食請見IG:20._.foodaholic\n\n➟ 翼板牛排餐盤 $420\n翼板牛排切得小巧，可以一口吃進去不用咬斷，也很適合配著其他食材一起入口。薯絲餅雖然有點鹹但我蠻愛的🤣而且就算放了一陣子外表還是一樣酥脆，也不會有油份滲出！主食丹麥吐司搭配盒裝的奶油簡直是完美😍真的有夠愛小小的那種盒裝奶油！（有人跟我一樣嗎😆）\n\n➟ 酪梨與土耳其蛋酸麵包 $388\n抱歉，土耳其蛋獵人又點了土耳其蛋🤣水波蛋是偏熟一點的，大概七分，所以切開時蛋黃不會流到四處。基底是優格帶著富有存在感的蒜頭以及辣油，挖上一勺、切一點蛋，輕易地與麵包一起入口⋯🤤說實話，bloom的土耳其蛋有進入我的前三名！😳酪梨的熟度稍微低一些，可能有人很喜歡很熟很軟的，但我反而比較愛不那麼熟的口感～\n\n➟ 香檸巴斯克乳酪 $148\n一上桌先是被檸檬皮香氣給吸引，雖然吃起來偏甜，但bloom的巴斯克奶感沒有到很重，怕一個人吃巴斯克太膩的人不妨給它一個機會！\n\n➟ 極品奶酪 $ 118\n非常久沒有吃奶酪！😆它的定位很像是「吃完早午餐想來點甜的但又不想太多」的那種。用高腳杯裝更能襯托出布丁清新淡雅的質感，上層的黑糖只是點綴，不會很甜ദ്ദി ˉ͈̀꒳ˉ͈́ )\n\n➟ 手沖 衣索比亞 $180\n偏酸的淺焙～在主食以鹹味為主的調味中能有一點帶酸苦味的咖啡平衡，喝到時會有一種讓味蕾休息一下的感覺。\n\n➟ 可可與牛奶 $150\n朋朋說偏甜！看來是適合小孩子的味道。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "更多美食請見IG:20._.foodaholic\n\n➟ 翼板牛排餐盤 $420\n翼板牛排切得小巧，可以一口吃進去不用咬斷，也很適合配著其他食材一起入口。薯絲餅雖然有點鹹但我蠻愛的🤣而且就算放了一陣子外表還是一樣酥脆，也不會有油份滲出！主食丹麥吐司搭配盒裝的奶油簡直是完美😍真的有夠愛小小的那種盒裝奶油！（有人跟我一樣嗎😆）\n\n➟ 酪梨與土耳其蛋酸麵包 $388\n抱歉，土耳其蛋獵人又點了土耳其蛋🤣水波蛋是偏熟一點的，大概七分，所以切開時蛋黃不會流到四處。基底是優格帶著富有存在感的蒜頭以及辣油，挖上一勺、切一點蛋，輕易地與麵包一起入口⋯🤤說實話，bloom的土耳其蛋有進入我的前三名！😳酪梨的熟度稍微低一些，可能有人很喜歡很熟很軟的，但我反而比較愛不那麼熟的口感～\n\n➟ 香檸巴斯克乳酪 $148\n一上桌先是被檸檬皮香氣給吸引，雖然吃起來偏甜，但bloom的巴斯克奶感沒有到很重，怕一個人吃巴斯克太膩的人不妨給它一個機會！\n\n➟ 極品奶酪 $ 118\n非常久沒有吃奶酪！😆它的定位很像是「吃完早午餐想來點甜的但又不想太多」的那種。用高腳杯裝更能襯托出布丁清新淡雅的質感，上層的黑糖只是點綴，不會很甜ദ്ദി ˉ͈̀꒳ˉ͈́ )\n\n➟ 手沖 衣索比亞 $180\n偏酸的淺焙～在主食以鹹味為主的調味中能有一點帶酸苦味的咖啡平衡，喝到時會有一種讓味蕾休息一下的感覺。\n\n➟ 可可與牛奶 $150\n朋朋說偏甜！看來是適合小孩子的味道。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Bernice",
-        "uri": "https://www.google.com/maps/contrib/114840663098097763892/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVPL3sSM3F5aZKdZVMui-8oL2EZPV3NPVLdfI4vhlcjDRAzbIqGjQ=s128-c0x00000000-cc-rp-mo-ba4"
-      },
-      "publishTime": "2025-12-21T05:13:20.402713967Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paQlFsZDVOa2s0VjNGRWFYVldiMmRrTWkxV2VFRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paQlFsZDVOa2s0VjNGRWFYVldiMmRrTWkxV2VFRRAB!2m1!1s0x3442ab00413352d7:0x63aa4231fe94cb5c"
-    },
-    {
-      "name": "places/ChIJ11IzQQCrQjQRXMuU_jFCqmM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKMk0wVmpZakphYVU4eFdXMURhV1EzUmxGVVFXYxAB",
-      "relativePublishTimeDescription": "4 個月前",
-      "rating": 5,
-      "text": {
-        "text": "📍極致海陸雙響餐$698\n附贈套餐奶酪及丹麥吐司，鮭魚菲力肉質細緻帶有油封迷迭香的香氣略帶鹹度，翼板牛排切成恰好入口的大小帶有彈性沒有筋膜，炒菇和炒蛋調味不會喧賓奪主陪襯主餐剛剛好，薯塊也是炸的表面金黃內裡鬆軟的完美熟度，是清爽的早午餐拼盤，丹麥吐司配上奶油比一般土司更多層次的口感，相較下奶酪表現較遜色奶味濃郁一點會更好\n🔥橄欖油香蒜辣椒培根麵$298\n本次最驚豔的品項！！義大利麵是略帶麵芯比較有嚼勁的口感，搭配主角培根用橄欖油及乾辣椒翻炒，味道全部扒附在麵體上，吃的出培根逼出來的油香還有香蒜的風味，是我會想回購的品項（偷偷希望份量可以再多一點\n🔥招牌布丁脆脆$128\n綿密奶香十足的焦糖布丁帶點大人口味，炙燒到上面有一層焦糖脆殼再放上鹽味鮮奶油灑上椪糖脆脆，鹹甜交織的超級完美✨\n📍香辣雞軟骨$288\n乾辣椒和上油炸雞軟骨真的是絕配！微香微辣的風味，可以搭配底層的生菜食用完全不會膩口\n📍西西里咖啡$170\n酸甜滑順的西西里咖啡～但冰塊有點多\n🔥大人味巧克力$160\n非常喜歡這個品項！濃郁的可可和濃縮咖啡融合的完美，再搭配上滑順的奶泡增添口感及口味層次❤️\n📍燕麥奶拿鐵$160\n燕麥奶滑順的融合拿鐵，但尾韻會略有咖啡本身的苦澀味（小扣分",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "📍極致海陸雙響餐$698\n附贈套餐奶酪及丹麥吐司，鮭魚菲力肉質細緻帶有油封迷迭香的香氣略帶鹹度，翼板牛排切成恰好入口的大小帶有彈性沒有筋膜，炒菇和炒蛋調味不會喧賓奪主陪襯主餐剛剛好，薯塊也是炸的表面金黃內裡鬆軟的完美熟度，是清爽的早午餐拼盤，丹麥吐司配上奶油比一般土司更多層次的口感，相較下奶酪表現較遜色奶味濃郁一點會更好\n🔥橄欖油香蒜辣椒培根麵$298\n本次最驚豔的品項！！義大利麵是略帶麵芯比較有嚼勁的口感，搭配主角培根用橄欖油及乾辣椒翻炒，味道全部扒附在麵體上，吃的出培根逼出來的油香還有香蒜的風味，是我會想回購的品項（偷偷希望份量可以再多一點\n🔥招牌布丁脆脆$128\n綿密奶香十足的焦糖布丁帶點大人口味，炙燒到上面有一層焦糖脆殼再放上鹽味鮮奶油灑上椪糖脆脆，鹹甜交織的超級完美✨\n📍香辣雞軟骨$288\n乾辣椒和上油炸雞軟骨真的是絕配！微香微辣的風味，可以搭配底層的生菜食用完全不會膩口\n📍西西里咖啡$170\n酸甜滑順的西西里咖啡～但冰塊有點多\n🔥大人味巧克力$160\n非常喜歡這個品項！濃郁的可可和濃縮咖啡融合的完美，再搭配上滑順的奶泡增添口感及口味層次❤️\n📍燕麥奶拿鐵$160\n燕麥奶滑順的融合拿鐵，但尾韻會略有咖啡本身的苦澀味（小扣分",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Rouかおり",
-        "uri": "https://www.google.com/maps/contrib/114980733160881986517/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVG2qe0kpllIYUUTMNy8o323zUgh1N6nXWaTxzcUC7shkqXDw=s128-c0x00000000-cc-rp-mo"
-      },
-      "publishTime": "2026-01-24T16:02:40.159627449Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKMk0wVmpZakphYVU4eFdXMURhV1EzUmxGVVFXYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKMk0wVmpZakphYVU4eFdXMURhV1EzUmxGVVFXYxAB!2m1!1s0x3442ab00413352d7:0x63aa4231fe94cb5c"
-    }
-  ],
-  "menuForChildren": false,
-  "goodForChildren": true
+﻿{
+    "id":  "ChIJ11IzQQCrQjQRXMuU_jFCqmM",
+    "types":  [
+                  "restaurant",
+                  "brunch_restaurant",
+                  "italian_restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 8732 6565",
+    "formattedAddress":  "106, Taiwan, Taipei City, Da’an District, Quan\u0027an Village, Leli Rd, 40號1樓",
+    "location":  {
+                     "latitude":  25.0267233,
+                     "longitude":  121.55155479999999
+                 },
+    "rating":  4.6,
+    "websiteUri":  "https://bloom-brunch40.weebly.com/",
+    "userRatingCount":  337,
+    "displayName":  {
+                        "text":  "Bloom brunch",
+                        "languageCode":  "en"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJ11IzQQCrQjQRXMuU_jFCqmM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5UlNWZE1SSGxpWXpaSmRYQlBTVzV4YlROdlJIYxAB",
+                        "relativePublishTimeDescription":  "4 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Every detail is beautifully coordinated and executed. From the food and drinks, to the cutlery, crockery and bathroom tiling! We came for brunch and coffee, and the ingredients were stunningly fresh and brilliantly cooked. The portions aren’t huge but we took our time and it certainly did the job. The Panna Cotta went stunningly with our coffees, and ended the meal with such class and grins.\nWe will certainly return soon, but next time I will order two smaller dishes instead of the “large” steak and salmon platter, which was the exact same size as my ladies’ cheaper dish.\nWell done Bloom, see you soon x",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Every detail is beautifully coordinated and executed. From the food and drinks, to the cutlery, crockery and bathroom tiling! We came for brunch and coffee, and the ingredients were stunningly fresh and brilliantly cooked. The portions aren’t huge but we took our time and it certainly did the job. The Panna Cotta went stunningly with our coffees, and ended the meal with such class and grins.\nWe will certainly return soon, but next time I will order two smaller dishes instead of the “large” steak and salmon platter, which was the exact same size as my ladies’ cheaper dish.\nWell done Bloom, see you soon x",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Lucas",
+                                                  "uri":  "https://www.google.com/maps/contrib/109605288029574140505/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjX6WdH_Xdu__yEY5429ZvdxsrwMXMzxcpKnR0F5kZtntYli0XM=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2026-01-31T04:41:57.928334502Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5UlNWZE1SSGxpWXpaSmRYQlBTVzV4YlROdlJIYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5UlNWZE1SSGxpWXpaSmRYQlBTVzV4YlROdlJIYxAB!2m1!1s0x3442ab00413352d7:0x63aa4231fe94cb5c"
+                    },
+                    {
+                        "name":  "places/ChIJ11IzQQCrQjQRXMuU_jFCqmM/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kc1UwRkZjRk4zTjAxMVMwTkVTRWswYTJjMVZrRRAB",
+                        "relativePublishTimeDescription":  "5 months ago",
+                        "rating":  1,
+                        "text":  {
+                                     "text":  "The cafe was not very busy when we visited (about 2pm), but our dessert pudding, which was already premade in the fridge and just needed toppings sprinkled on top, took almost 30 minutes to arrive after we finished eating our pasta/main course! We finished eating for 10 minutes, but the staff didn\u0027t notice we were done, and had to personally go up and request our dessert, after which it took almost 20 minutes to arrive (and we had to get up and ask the waiter where our dessert was). The whole time while we were waiting, I could see the staff putting away clean dishes in the mirror. It felt like they were ignoring us.\n\nOur actual pasta was mediocre. The noodles just tasted like cheap store-bought pasta, the sauce was oversalted and didn\u0027t stick to the noodles, and the portion size was extremely small.\n\nNot just the pasta size was extremely small, but everything was extremely small. We paid over $300 for a pasta whose plate was bigger than the actual serving size (which took less than 10 minutes to eat).\n\nFurthermore, the hot chocolate lacked a deep chocolate flavor, was very thin, and the only special thing about it was some whipped cream on top with some cocoa. Otherwise it tasted very average- roughly the same as the instant hot chocolate you can buy in the store.\n\nNot to mention, there was a 10% non-optional service fee. Based on the long wait time, lack of care in the service, extremely small portions and extremely high price, I am shocked at why there are so many high reviews.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "The cafe was not very busy when we visited (about 2pm), but our dessert pudding, which was already premade in the fridge and just needed toppings sprinkled on top, took almost 30 minutes to arrive after we finished eating our pasta/main course! We finished eating for 10 minutes, but the staff didn\u0027t notice we were done, and had to personally go up and request our dessert, after which it took almost 20 minutes to arrive (and we had to get up and ask the waiter where our dessert was). The whole time while we were waiting, I could see the staff putting away clean dishes in the mirror. It felt like they were ignoring us.\n\nOur actual pasta was mediocre. The noodles just tasted like cheap store-bought pasta, the sauce was oversalted and didn\u0027t stick to the noodles, and the portion size was extremely small.\n\nNot just the pasta size was extremely small, but everything was extremely small. We paid over $300 for a pasta whose plate was bigger than the actual serving size (which took less than 10 minutes to eat).\n\nFurthermore, the hot chocolate lacked a deep chocolate flavor, was very thin, and the only special thing about it was some whipped cream on top with some cocoa. Otherwise it tasted very average- roughly the same as the instant hot chocolate you can buy in the store.\n\nNot to mention, there was a 10% non-optional service fee. Based on the long wait time, lack of care in the service, extremely small portions and extremely high price, I am shocked at why there are so many high reviews.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "J.E. Meyer",
+                                                  "uri":  "https://www.google.com/maps/contrib/112995717373633693899/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVosEvQsnLD_3yxCeWdaJqpzZiepe-0rwh7cLLLxLvbSQ2oiCZj=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2025-12-23T08:27:10.367348972Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kc1UwRkZjRk4zTjAxMVMwTkVTRWswYTJjMVZrRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kc1UwRkZjRk4zTjAxMVMwTkVTRWswYTJjMVZrRRAB!2m1!1s0x3442ab00413352d7:0x63aa4231fe94cb5c"
+                    },
+                    {
+                        "name":  "places/ChIJ11IzQQCrQjQRXMuU_jFCqmM/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KeGQySm5TRWhzVm1kQk5XOXdYM0pLUWpOSVVGRRAB",
+                        "relativePublishTimeDescription":  "6 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "its a nice cozy place to hangout and spend time with friends or family. the foods also good, we ordered bacon garlic pasta, caramel pudding, and cheesecake. the pasta have plenty of bacon slices, the garlic and dried chili gave fragrant smell, and the pasta itself cooked just perfect. the caramel pudding is sweet, topped with cream and caramel bits, which match well with the pudding texture, soft and silky. the cheesecake also a yum, its dense but not firm, so soft, and the grated lime on top totally complete the dish. the service is top notch, all the staff is warm and responsive, our food came out quickly and perfect.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "its a nice cozy place to hangout and spend time with friends or family. the foods also good, we ordered bacon garlic pasta, caramel pudding, and cheesecake. the pasta have plenty of bacon slices, the garlic and dried chili gave fragrant smell, and the pasta itself cooked just perfect. the caramel pudding is sweet, topped with cream and caramel bits, which match well with the pudding texture, soft and silky. the cheesecake also a yum, its dense but not firm, so soft, and the grated lime on top totally complete the dish. the service is top notch, all the staff is warm and responsive, our food came out quickly and perfect.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Livia Wibowo",
+                                                  "uri":  "https://www.google.com/maps/contrib/114673418644799545451/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWKY-GZiYenOTgLzE2goO_yOPDZFcxbgVwIazFbCZaRtZ-3tnDqRg=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2025-11-23T06:13:58.850437850Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KeGQySm5TRWhzVm1kQk5XOXdYM0pLUWpOSVVGRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KeGQySm5TRWhzVm1kQk5XOXdYM0pLUWpOSVVGRRAB!2m1!1s0x3442ab00413352d7:0x63aa4231fe94cb5c"
+                    },
+                    {
+                        "name":  "places/ChIJ11IzQQCrQjQRXMuU_jFCqmM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsZlgyTllNVlJ4UTFSb2JrRXphR2RMY25SNU1uYxAB",
+                        "relativePublishTimeDescription":  "7 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Wonderful experience. My wife and I wanted to eat breakfast somewhere besides the hotel and found this gem. Nice size portions and a lot different fresh flavors. The spaghetti with truffles and salmon platter tasted amazing.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Wonderful experience. My wife and I wanted to eat breakfast somewhere besides the hotel and found this gem. Nice size portions and a lot different fresh flavors. The spaghetti with truffles and salmon platter tasted amazing.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Ole R",
+                                                  "uri":  "https://www.google.com/maps/contrib/108135575800302730952/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocLBv0dpdja42Iq2byPWJhEmcMQfvNMjLPsc4DvRLX0k3-Nsgw=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-10-25T05:55:30.777084220Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsZlgyTllNVlJ4UTFSb2JrRXphR2RMY25SNU1uYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsZlgyTllNVlJ4UTFSb2JrRXphR2RMY25SNU1uYxAB!2m1!1s0x3442ab00413352d7:0x63aa4231fe94cb5c"
+                    },
+                    {
+                        "name":  "places/ChIJ11IzQQCrQjQRXMuU_jFCqmM/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3M18tclR3EAE",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Came here with a friend for brunch. The food was delicious and the pudding was amazing. It’s the signature item to be ordered here. You must try !",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Came here with a friend for brunch. The food was delicious and the pudding was amazing. It’s the signature item to be ordered here. You must try !",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Kuo William",
+                                                  "uri":  "https://www.google.com/maps/contrib/100248592370062932049/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocK5qM5d6wRjrSN9rfB6O5HkZmQyQuTtQ_otRhGSKfU8qzt3VwI=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-03-29T08:03:16.357577Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3M18tclR3EAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3M18tclR3EAE!2m1!1s0x3442ab00413352d7:0x63aa4231fe94cb5c"
+                    }
+                ]
 }

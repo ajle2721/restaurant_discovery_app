@@ -1,132 +1,69 @@
-{
-  "id": "ChIJN-86KZStQjQR2WUpchtrM6Q",
-  "types": [
-    "coffee_shop",
-    "cafe",
-    "food_store",
-    "food",
-    "store",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2799 0618",
-  "formattedAddress": "114台灣臺北市內湖區洲子街79號",
-  "location": {
-    "latitude": 25.0802004,
-    "longitude": 121.5714038
-  },
-  "rating": 4.1,
-  "websiteUri": "https://www.caffaina.com/",
-  "userRatingCount": 1330,
-  "displayName": {
-    "text": "卡啡那 內湖啟航館",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJN-86KZStQjQR2WUpchtrM6Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsUFVGSnFXbU5PVUVsdGMxWmFjMFk1VFZkUGJuYxAB",
-      "relativePublishTimeDescription": "6 個月前",
-      "rating": 5,
-      "text": {
-        "text": "裝潢漂亮、空間大、座位多，有很多麵包、蛋糕、簡餐，有插座、不限時、有廁所。\n\n☕️ 特大杯冰拿鐵 $155\n咖啡味適中偏淡，奶味較重，一般豆為深培咖啡豆，風味剛好是我喜歡的。\n\n🥐 原味可頌 $60\n可頌好吃，最外層很脆，整體口感不錯，不過不是那種很油很罪惡的😆 價格也算非常實惠，意猶未盡，後來吃了兩個。\n\n🍗 馥郁花園香草嫩雞拼盤 $320\n整塊雞腿排搭配兩片法棍麵包，佐薯泥蔬菜溫沙拉。\n整體調味不錯，不過可惜雞腿有小碎骨。\n\n💻🔌 有適合用筆電的座位，少部分座位有插座。\n🛋️ 亦有比較舒適的單人沙發座位、多人沙發座位區。\n不過看了好幾個椅子都髒髒的，應該是沒有每天清潔。\n椅子都不會太硬，久坐不會不舒服。\n\n🛜 有WiFi，不過非常慢，幾乎不可用。\n尖峰時段實測 1.5 Mbps，離峰實測 7~9 Mbps。\n\n📶 遠傳5G訊號滿格: 下載 221 Mbps 上傳 72 Mbps\n📶 中華5G訊號滿格: 下載 532 Mbps 上傳 48 Mbps\n\n🕐 星期二中午至下午三點很多人，但未客滿。三點後空位會大幅變多。\n\n🚾 廁所與辦公大樓共用，需要從後門走到辦公大樓內。廁所環境尚可，不會臭、有衛生紙、沒有酒精，洗手台有洗手乳及擦手紙。\n\n📱 手機點餐：桌上都會貼手機點餐 QR code，不過大部分鹹食餐點都只能在櫃檯點，續杯優惠亦需要前往櫃檯。\n\n🪪 會員集點：需要先下載「享點」app 並註冊會員才能累積點數，需要掃描會員條碼，不能報手機號碼。\n\n🈹 續杯有七折優惠",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "裝潢漂亮、空間大、座位多，有很多麵包、蛋糕、簡餐，有插座、不限時、有廁所。\n\n☕️ 特大杯冰拿鐵 $155\n咖啡味適中偏淡，奶味較重，一般豆為深培咖啡豆，風味剛好是我喜歡的。\n\n🥐 原味可頌 $60\n可頌好吃，最外層很脆，整體口感不錯，不過不是那種很油很罪惡的😆 價格也算非常實惠，意猶未盡，後來吃了兩個。\n\n🍗 馥郁花園香草嫩雞拼盤 $320\n整塊雞腿排搭配兩片法棍麵包，佐薯泥蔬菜溫沙拉。\n整體調味不錯，不過可惜雞腿有小碎骨。\n\n💻🔌 有適合用筆電的座位，少部分座位有插座。\n🛋️ 亦有比較舒適的單人沙發座位、多人沙發座位區。\n不過看了好幾個椅子都髒髒的，應該是沒有每天清潔。\n椅子都不會太硬，久坐不會不舒服。\n\n🛜 有WiFi，不過非常慢，幾乎不可用。\n尖峰時段實測 1.5 Mbps，離峰實測 7~9 Mbps。\n\n📶 遠傳5G訊號滿格: 下載 221 Mbps 上傳 72 Mbps\n📶 中華5G訊號滿格: 下載 532 Mbps 上傳 48 Mbps\n\n🕐 星期二中午至下午三點很多人，但未客滿。三點後空位會大幅變多。\n\n🚾 廁所與辦公大樓共用，需要從後門走到辦公大樓內。廁所環境尚可，不會臭、有衛生紙、沒有酒精，洗手台有洗手乳及擦手紙。\n\n📱 手機點餐：桌上都會貼手機點餐 QR code，不過大部分鹹食餐點都只能在櫃檯點，續杯優惠亦需要前往櫃檯。\n\n🪪 會員集點：需要先下載「享點」app 並註冊會員才能累積點數，需要掃描會員條碼，不能報手機號碼。\n\n🈹 續杯有七折優惠",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Mr Foodie Buddy",
-        "uri": "https://www.google.com/maps/contrib/113942825549939899582/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWo3HjcbCy6BEz0hWl_kJqpAVllkFu79XkrFar7nFeS9I0j3fY=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2025-10-28T10:01:24.051633442Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsUFVGSnFXbU5PVUVsdGMxWmFjMFk1VFZkUGJuYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsUFVGSnFXbU5PVUVsdGMxWmFjMFk1VFZkUGJuYxAB!2m1!1s0x3442ad94293aef37:0xa4336b1b722965d9"
-    },
-    {
-      "name": "places/ChIJN-86KZStQjQR2WUpchtrM6Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsd1drWmFRalpvVVhRdE5IQjBMV0p1UVZkb2NuYxAB",
-      "relativePublishTimeDescription": "2 個月前",
-      "rating": 5,
-      "text": {
-        "text": "空間大，就是⋯桌椅有點髒\n因採自助式服務生好像不太擦？\n\n現場有不限時有充電插座～很讚！\n美式黑咖啡非常好喝～",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "空間大，就是⋯桌椅有點髒\n因採自助式服務生好像不太擦？\n\n現場有不限時有充電插座～很讚！\n美式黑咖啡非常好喝～",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Lilia Yen",
-        "uri": "https://www.google.com/maps/contrib/102566791397244200275/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXXHFfH1ZHDAGxrKSwyA3uVzkPNbWkdL0vPaO-U1DzHFpPfKyZe=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2026-03-07T12:22:54.283988463Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsd1drWmFRalpvVVhRdE5IQjBMV0p1UVZkb2NuYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsd1drWmFRalpvVVhRdE5IQjBMV0p1UVZkb2NuYxAB!2m1!1s0x3442ad94293aef37:0xa4336b1b722965d9"
-    },
-    {
-      "name": "places/ChIJN-86KZStQjQR2WUpchtrM6Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1YWNtSmtUa000VERGbmVIUk1iamR5ZDJ0ZlYxRRAB",
-      "relativePublishTimeDescription": "5 個月前",
-      "rating": 5,
-      "text": {
-        "text": "好姊妹的早餐約會, 這日來到了卡啡那內湖啟航館.\n除了交通便利(捷運港墘站內湖高工出口往洲子街方向走路約10來分鐘)之外, 店內空間非常寬敞, 因為採用了大片落地玻璃, 整個空間採光很好, 環境乾淨明亮. 卡啡那的裝潢很有質感, 走進去就像到一間很漂亮的小藝廊. 店內的擺設都很講究, 看得出來每個角落都是用心佈置. 風格帶有點歐風又不會太浮誇, 整體就是舒服又好看. 加上漂亮的家具,整個空間很有藝術氣息. 非常適合跟朋友們坐下來聊天, 或者工作或者放鬆.\n卡啡那不只只有咖啡,茶飲和蛋糕, 早午餐的選擇還有菠蘿, 可頌, 輕食, 鹹食, 沙拉, 披薩, 帕尼尼. 光甜點/蛋糕的部分就超過 20種以上可以選擇.\n這裡的座位很多, 而且桌子之間的距離都不會太近. 如果跟朋友談天說笑, 不用擔心會互相打擾. 地下有插座. 也很適合帶著筆電來這裡工作或者追劇, 找靈感. 由於沒有限定時間, 所以可以完全沒有壓力的在這裡放鬆.\n整體來說, 我認為卡啡那內湖啟航館算是台北內湖／內科區內相當不錯的咖啡館／輕食店. 他的氛圍, 可以選擇的餐點品項, 舒適度都很符合放鬆＋有品質的期待.  如果你想找個地方坐一下整天, 一下午. 喝咖啡、吃甜點／輕食,  這裡是個不錯的選擇",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "好姊妹的早餐約會, 這日來到了卡啡那內湖啟航館.\n除了交通便利(捷運港墘站內湖高工出口往洲子街方向走路約10來分鐘)之外, 店內空間非常寬敞, 因為採用了大片落地玻璃, 整個空間採光很好, 環境乾淨明亮. 卡啡那的裝潢很有質感, 走進去就像到一間很漂亮的小藝廊. 店內的擺設都很講究, 看得出來每個角落都是用心佈置. 風格帶有點歐風又不會太浮誇, 整體就是舒服又好看. 加上漂亮的家具,整個空間很有藝術氣息. 非常適合跟朋友們坐下來聊天, 或者工作或者放鬆.\n卡啡那不只只有咖啡,茶飲和蛋糕, 早午餐的選擇還有菠蘿, 可頌, 輕食, 鹹食, 沙拉, 披薩, 帕尼尼. 光甜點/蛋糕的部分就超過 20種以上可以選擇.\n這裡的座位很多, 而且桌子之間的距離都不會太近. 如果跟朋友談天說笑, 不用擔心會互相打擾. 地下有插座. 也很適合帶著筆電來這裡工作或者追劇, 找靈感. 由於沒有限定時間, 所以可以完全沒有壓力的在這裡放鬆.\n整體來說, 我認為卡啡那內湖啟航館算是台北內湖／內科區內相當不錯的咖啡館／輕食店. 他的氛圍, 可以選擇的餐點品項, 舒適度都很符合放鬆＋有品質的期待.  如果你想找個地方坐一下整天, 一下午. 喝咖啡、吃甜點／輕食,  這裡是個不錯的選擇",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Ariane",
-        "uri": "https://www.google.com/maps/contrib/111576077311643642921/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWJqFWDuI7uveGa6pBBq5LZzoSxYvZOVzl5hJs16YGioDb-IGfadg=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2025-12-07T07:59:21.389730391Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1YWNtSmtUa000VERGbmVIUk1iamR5ZDJ0ZlYxRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1YWNtSmtUa000VERGbmVIUk1iamR5ZDJ0ZlYxRRAB!2m1!1s0x3442ad94293aef37:0xa4336b1b722965d9"
-    },
-    {
-      "name": "places/ChIJN-86KZStQjQR2WUpchtrM6Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT205clFuRlhSVWRHZGxsUE5GZzFTRmhtTTJ0UFRtYxAB",
-      "relativePublishTimeDescription": "6 個月前",
-      "rating": 5,
-      "text": {
-        "text": "稱作“旗艦店”，真不是蓋的。\n\n這家咖啡廳的裝潢、服務、食物，以及最重要的咖啡本體，每一項都幾近完美。整體的氛圍以及設計非常的舒適宜人，餐點呈現得非常可口，重點是吃起來著實好吃。咖啡，除了基本的意式咖啡外，手沖咖啡的選品相當到位。\n\n私心推薦這裡的可麗露，好吃！😊",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "稱作“旗艦店”，真不是蓋的。\n\n這家咖啡廳的裝潢、服務、食物，以及最重要的咖啡本體，每一項都幾近完美。整體的氛圍以及設計非常的舒適宜人，餐點呈現得非常可口，重點是吃起來著實好吃。咖啡，除了基本的意式咖啡外，手沖咖啡的選品相當到位。\n\n私心推薦這裡的可麗露，好吃！😊",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "James Ku",
-        "uri": "https://www.google.com/maps/contrib/110632975569542980904/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWHbI-GU6IPl5_Mnq4nAbKmD3tvnWdu29hXHphHO4zPKVYlXbn=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2025-11-03T06:09:43.738450269Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205clFuRlhSVWRHZGxsUE5GZzFTRmhtTTJ0UFRtYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205clFuRlhSVWRHZGxsUE5GZzFTRmhtTTJ0UFRtYxAB!2m1!1s0x3442ad94293aef37:0xa4336b1b722965d9"
-    },
-    {
-      "name": "places/ChIJN-86KZStQjQR2WUpchtrM6Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aS1Z6UnlkbGhvU1dGMGVWQkliMjlpU21aV1VVRRAB",
-      "relativePublishTimeDescription": "7 個月前",
-      "rating": 5,
-      "text": {
-        "text": "非常不錯的咖啡廳👍\n鹹食甜食都非常方便！\n如果要帶點小點心給同事吃，瑪德蓮簡單又方便！\n炙烤蕃茄雞巧巴達，外帶吃也是好吃😋\n甜點選項非常多👍咖啡也很不錯！",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "非常不錯的咖啡廳👍\n鹹食甜食都非常方便！\n如果要帶點小點心給同事吃，瑪德蓮簡單又方便！\n炙烤蕃茄雞巧巴達，外帶吃也是好吃😋\n甜點選項非常多👍咖啡也很不錯！",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "shihying Lin",
-        "uri": "https://www.google.com/maps/contrib/114523217851014198414/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIe1tenbGxUf-Q5Xy87NDHJZycg1GmA3c7Zt-0LeuODQfGqnbGL=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2025-09-29T09:29:39.957369059Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aS1Z6UnlkbGhvU1dGMGVWQkliMjlpU21aV1VVRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aS1Z6UnlkbGhvU1dGMGVWQkliMjlpU21aV1VVRRAB!2m1!1s0x3442ad94293aef37:0xa4336b1b722965d9"
-    }
-  ]
+﻿{
+    "id":  "ChIJN-86KZStQjQR2WUpchtrM6Q",
+    "types":  [
+                  "coffee_shop",
+                  "cafe",
+                  "food_store",
+                  "store",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2799 0618",
+    "formattedAddress":  "No. 79號, Zhouzi St, 內湖區 Neihu District, Taipei City, Taiwan 114",
+    "location":  {
+                     "latitude":  25.0802004,
+                     "longitude":  121.5714038
+                 },
+    "rating":  4.1,
+    "websiteUri":  "https://www.caffaina.com/",
+    "userRatingCount":  1333,
+    "displayName":  {
+                        "text":  "Caffaina Coffee Gallery Neihu Shop",
+                        "languageCode":  "en"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJN-86KZStQjQR2WUpchtrM6Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GdFQzUnRaemxDTlRSQ04zaFZkRXhNVTNSS1ZuYxAB",
+                        "relativePublishTimeDescription":  "7 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "It was my first time visiting this café, and I really loved the ambience. The menu offers so many choices, and it was nice to see the place so lively even during the holidays. I only had coffee this time, but I truly enjoyed it — I’ll definitely be back again!",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "It was my first time visiting this café, and I really loved the ambience. The menu offers so many choices, and it was nice to see the place so lively even during the holidays. I only had coffee this time, but I truly enjoyed it — I’ll definitely be back again!",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "JungJung Chang",
+                                                  "uri":  "https://www.google.com/maps/contrib/111924060821921681942/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXErTHpYvw6Es_QlZsIS1MiIY1wzpS9rkUb5lVwVwhJml4V0DIW=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-10-12T08:48:52.396174507Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GdFQzUnRaemxDTlRSQ04zaFZkRXhNVTNSS1ZuYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GdFQzUnRaemxDTlRSQ04zaFZkRXhNVTNSS1ZuYxAB!2m1!1s0x3442ad94293aef37:0xa4336b1b722965d9"
+                    },
+                    {
+                        "name":  "places/ChIJN-86KZStQjQR2WUpchtrM6Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wU09VRXdWV2xSWjNKTWNWTTBWaTFKUkU0MU0zYxAB",
+                        "relativePublishTimeDescription":  "4 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Service is great and the coffee is great too. The cake cabinet have a lots of variety. Strongly recommended.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Service is great and the coffee is great too. The cake cabinet have a lots of variety. Strongly recommended.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Ken Ric",
+                                                  "uri":  "https://www.google.com/maps/contrib/102457822601806936143/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocK1T-K_nQyZEP5XyalxpJx_GDeBO7G5aZYYPFwVaQjrWrQtOg=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2026-01-10T06:55:41.603903180Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wU09VRXdWV2xSWjNKTWNWTTBWaTFKUkU0MU0zYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wU09VRXdWV2xSWjNKTWNWTTBWaTFKUkU0MU0zYxAB!2m1!1s0x3442ad94293aef37:0xa4336b1b722965d9"
+                    }
+                ]
 }

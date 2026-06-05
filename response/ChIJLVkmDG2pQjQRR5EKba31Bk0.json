@@ -1,130 +1,130 @@
-{
-  "id": "ChIJLVkmDG2pQjQRR5EKba31Bk0",
-  "types": [
-    "chinese_restaurant",
-    "restaurant",
-    "food",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2559 7207",
-  "formattedAddress": "103台灣臺北市大同區西寧北路51-8號",
-  "location": {
-    "latitude": 25.0542955,
-    "longitude": 121.50891109999999
-  },
-  "rating": 4.5,
-  "websiteUri": "https://www.facebook.com/ChuHomeDumplings/",
-  "userRatingCount": 72,
-  "displayName": {
-    "text": "曲老闆中式早午餐",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJLVkmDG2pQjQRR5EKba31Bk0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CWFRGbG9SR3N5ZWxSV1YzaFdZelZZZGxOdWQzYxAB",
-      "relativePublishTimeDescription": "5 個月前",
-      "rating": 5,
-      "text": {
-        "text": "二訪點了涼麵，味道很喜歡，肉排加點$40 頗鹹～\n\n和一般早餐店不同的菜單\n蛋餅是用很薄的餅皮去煎恰恰！韭菜蛋餅是包跟韭菜盒子一樣的內容物，有豆乾和冬粉跟韭菜！好吃！\n蘿蔔糕吃起來很軟嫩，已經夠鹹了，可以沾辣油就好。\n推薦同事去吃炸醬麵，她回來說好吃😋",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "二訪點了涼麵，味道很喜歡，肉排加點$40 頗鹹～\n\n和一般早餐店不同的菜單\n蛋餅是用很薄的餅皮去煎恰恰！韭菜蛋餅是包跟韭菜盒子一樣的內容物，有豆乾和冬粉跟韭菜！好吃！\n蘿蔔糕吃起來很軟嫩，已經夠鹹了，可以沾辣油就好。\n推薦同事去吃炸醬麵，她回來說好吃😋",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Yen Lucy",
-        "uri": "https://www.google.com/maps/contrib/108456861302078603826/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJkHuujjmLnRwYsr6MXzLOrgKe6GqnUmZMemxObsJ8x6ymHfA=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2025-11-29T08:27:26.527951999Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CWFRGbG9SR3N5ZWxSV1YzaFdZelZZZGxOdWQzYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CWFRGbG9SR3N5ZWxSV1YzaFdZelZZZGxOdWQzYxAB!2m1!1s0x3442a96d0c26592d:0x4d06f5ad6d0a9147"
-    },
-    {
-      "name": "places/ChIJLVkmDG2pQjQRR5EKba31Bk0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wTVNHZzBhMk5zUVhWTGNXNXhRekYwT0RkT1QxRRAB",
-      "relativePublishTimeDescription": "4 個月前",
-      "rating": 5,
-      "text": {
-        "text": "豬肉蛋餅、泡菜豬肉蛋餅跟蘿蔔糕都很好吃，真的都是老闆自己做的，！蛋餅皮很酥脆👍\n很多人可能覺得煎焦了，但其實是老闆希望讓客人吃到是酥脆的，點很多次蘿蔔糕都是兩面上色，如果不用心的早餐店真的可以熱了就起鍋，能省瓦斯跟時間，如果不愛焦感的可能會不愛。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "豬肉蛋餅、泡菜豬肉蛋餅跟蘿蔔糕都很好吃，真的都是老闆自己做的，！蛋餅皮很酥脆👍\n很多人可能覺得煎焦了，但其實是老闆希望讓客人吃到是酥脆的，點很多次蘿蔔糕都是兩面上色，如果不用心的早餐店真的可以熱了就起鍋，能省瓦斯跟時間，如果不愛焦感的可能會不愛。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Azure",
-        "uri": "https://www.google.com/maps/contrib/118259815732615806863/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWOmvGI5iFUrpaqIEcab6-QmIM9Vkqx1KQ0hnOTd_j9cSRy5ApQWw=s128-c0x00000000-cc-rp-mo-ba4"
-      },
-      "publishTime": "2026-01-07T03:55:50.112969780Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wTVNHZzBhMk5zUVhWTGNXNXhRekYwT0RkT1QxRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wTVNHZzBhMk5zUVhWTGNXNXhRekYwT0RkT1QxRRAB!2m1!1s0x3442a96d0c26592d:0x4d06f5ad6d0a9147"
-    },
-    {
-      "name": "places/ChIJLVkmDG2pQjQRR5EKba31Bk0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kWFp6ZE9lbUZIZGxsamFtOUJWM2xJYUc1NlFXYxAB",
-      "relativePublishTimeDescription": "10 個月前",
-      "rating": 4,
-      "text": {
-        "text": "有3個小桌可以內用～\n☑ 泡菜燒肉蛋餅ɴᴛ$60\n☑ 冰奶茶ɴᴛ$30\n蛋餅蠻好吃的，餅皮煎的很酥脆，泡菜燒肉也很好吃，不過比較油一點～\n奶茶好喝我蠻喜歡的，覺得不會太甜\n𖤐 支援各種行動支付👍",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "有3個小桌可以內用～\n☑ 泡菜燒肉蛋餅ɴᴛ$60\n☑ 冰奶茶ɴᴛ$30\n蛋餅蠻好吃的，餅皮煎的很酥脆，泡菜燒肉也很好吃，不過比較油一點～\n奶茶好喝我蠻喜歡的，覺得不會太甜\n𖤐 支援各種行動支付👍",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Phoebe Cho",
-        "uri": "https://www.google.com/maps/contrib/118099389723688709484/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVgjdBT2dStx8z60gy4JE0kxLY0BB1tivVChfDbFyZwkD-cRQ65Ww=s128-c0x00000000-cc-rp-mo-ba7"
-      },
-      "publishTime": "2025-07-16T09:22:24.369676060Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kWFp6ZE9lbUZIZGxsamFtOUJWM2xJYUc1NlFXYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kWFp6ZE9lbUZIZGxsamFtOUJWM2xJYUc1NlFXYxAB!2m1!1s0x3442a96d0c26592d:0x4d06f5ad6d0a9147"
-    },
-    {
-      "name": "places/ChIJLVkmDG2pQjQRR5EKba31Bk0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsMVVsOXpkbGQ0V2xNdFIySjRXRWhYUkU0NFUxRRAB",
-      "relativePublishTimeDescription": "4 個月前",
-      "rating": 1,
-      "text": {
-        "text": "人生中吃過無數蛋餅蘿蔔糕\n沒吃過這麼難吃\n蛋餅內外都是苦的蛋餅\n以早餐店來說品項已經很少了還可以點的兩樣都是燒焦的東西直接丟垃圾桶\n有夠難吃\n這麼難吃還拿出來賣",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "人生中吃過無數蛋餅蘿蔔糕\n沒吃過這麼難吃\n蛋餅內外都是苦的蛋餅\n以早餐店來說品項已經很少了還可以點的兩樣都是燒焦的東西直接丟垃圾桶\n有夠難吃\n這麼難吃還拿出來賣",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "양연은",
-        "uri": "https://www.google.com/maps/contrib/111068562809565457732/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocImbciEiGORo7bdrHOv1om6vC6gDBOC-ql557g9dXsKAo3Q7Y4=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2025-12-27T04:33:44.104598637Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsMVVsOXpkbGQ0V2xNdFIySjRXRWhYUkU0NFUxRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsMVVsOXpkbGQ0V2xNdFIySjRXRWhYUkU0NFUxRRAB!2m1!1s0x3442a96d0c26592d:0x4d06f5ad6d0a9147"
-    },
-    {
-      "name": "places/ChIJLVkmDG2pQjQRR5EKba31Bk0/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRc0o3REtBEAE",
-      "relativePublishTimeDescription": "1 年前",
-      "rating": 3,
-      "text": {
-        "text": "蛋餅不錯吃，蘿蔔糕有蘿蔔絲口感，\n但鮮味有點太明顯，會一點點噁心，\n韓式鐵板麵沒有看起來鹹，\n價格稍微高，不太會想再吃。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "蛋餅不錯吃，蘿蔔糕有蘿蔔絲口感，\n但鮮味有點太明顯，會一點點噁心，\n韓式鐵板麵沒有看起來鹹，\n價格稍微高，不太會想再吃。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "三重Bro",
-        "uri": "https://www.google.com/maps/contrib/112517312873120340198/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0KREqpY5bseTEAjPIhnQyCHtcGvNp_ME86ctCWOwYCb-gW3ZN=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2025-03-01T09:01:56.309373Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRc0o3REtBEAE&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRc0o3REtBEAE!2m1!1s0x3442a96d0c26592d:0x4d06f5ad6d0a9147"
-    }
-  ]
+﻿{
+    "id":  "ChIJLVkmDG2pQjQRR5EKba31Bk0",
+    "types":  [
+                  "chinese_restaurant",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2559 7207",
+    "formattedAddress":  "No. 51-8號, Xining N Rd, 大同區 Datong District, Taipei City, Taiwan 103",
+    "location":  {
+                     "latitude":  25.0542955,
+                     "longitude":  121.50891109999999
+                 },
+    "rating":  4.5,
+    "websiteUri":  "https://www.facebook.com/ChuHomeDumplings/",
+    "userRatingCount":  72,
+    "displayName":  {
+                        "text":  "曲老闆中式早午餐",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJLVkmDG2pQjQRR5EKba31Bk0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25vMGVVVjBOVlJSZDI5cU1WQldNMVZEV1RSM1NIYxAB",
+                        "relativePublishTimeDescription":  "3 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Delicious, crispy egg pancakes. Really good food. Tea wasn’t too sweet. Highly recommend",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Delicious, crispy egg pancakes. Really good food. Tea wasn’t too sweet. Highly recommend",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Juan Sarmiento",
+                                                  "uri":  "https://www.google.com/maps/contrib/110142860717365855982/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXuHeXU6bfRh4hKV73Ay4tfLzo77YNYDwoSTKPLhcg-yvFkV3Hm=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2026-02-12T13:31:34.013913590Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25vMGVVVjBOVlJSZDI5cU1WQldNMVZEV1RSM1NIYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25vMGVVVjBOVlJSZDI5cU1WQldNMVZEV1RSM1NIYxAB!2m1!1s0x3442a96d0c26592d:0x4d06f5ad6d0a9147"
+                    },
+                    {
+                        "name":  "places/ChIJLVkmDG2pQjQRR5EKba31Bk0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNidWQzbnF3RRAB",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "My wife and I love this shop. His noodles are unique and delicious, and his dumplings are also very good. It\u0027s our new favorite breakfast and lunch shop in Taipei!",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "My wife and I love this shop. His noodles are unique and delicious, and his dumplings are also very good. It\u0027s our new favorite breakfast and lunch shop in Taipei!",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Todd Williams",
+                                                  "uri":  "https://www.google.com/maps/contrib/110472258699235542172/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjW8rVzxaGFGQYFS4QFxrHf4aU63674wAYaVG_4rP7RA5eqG_JsX=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2024-07-29T04:48:10.609808Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNidWQzbnF3RRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNidWQzbnF3RRAB!2m1!1s0x3442a96d0c26592d:0x4d06f5ad6d0a9147"
+                    },
+                    {
+                        "name":  "places/ChIJLVkmDG2pQjQRR5EKba31Bk0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2prNWVYWk1ia3hNUjJOQ2JIUnRaamswZW1JeFVXYxAB",
+                        "relativePublishTimeDescription":  "11 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "I recommend the black pepper noodles and chive dumplings!",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "I recommend the black pepper noodles and chive dumplings!",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Yan C",
+                                                  "uri":  "https://www.google.com/maps/contrib/115892214339377097616/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXYdpUm_1UvMHMzffsO5w-FIkl6SGio0vgJSnvcbQM4ns58sINT=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-07-03T01:16:35.867652314Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2prNWVYWk1ia3hNUjJOQ2JIUnRaamswZW1JeFVXYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2prNWVYWk1ia3hNUjJOQ2JIUnRaamswZW1JeFVXYxAB!2m1!1s0x3442a96d0c26592d:0x4d06f5ad6d0a9147"
+                    },
+                    {
+                        "name":  "places/ChIJLVkmDG2pQjQRR5EKba31Bk0/reviews/ChdDSUhNMG9nS0VJQ0FnSURuei16QTVBRRAB",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Local breakfast place.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Local breakfast place.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Fabian Bergeron",
+                                                  "uri":  "https://www.google.com/maps/contrib/102783894521285015558/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjU-FGWphz4uBvBcwzq8b4OT1zQnfOwvsBKXzyjb1xEyqaJRJYCYKw=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2024-10-11T14:17:44.032823Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURuei16QTVBRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURuei16QTVBRRAB!2m1!1s0x3442a96d0c26592d:0x4d06f5ad6d0a9147"
+                    },
+                    {
+                        "name":  "places/ChIJLVkmDG2pQjQRR5EKba31Bk0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CWFRGbG9SR3N5ZWxSV1YzaFdZelZZZGxOdWQzYxAB",
+                        "relativePublishTimeDescription":  "6 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "On my second visit, I ordered cold noodles, which I really liked. The pork chop, which cost an extra $40, was quite salty.\n\nThe menu was different from typical breakfast shops. The egg pancakes were made with very thin crepes! The chive egg pancakes were filled with the same ingredients as chive boxes, including tofu, glass noodles, and chives! Delicious!\n\nThe radish cake was very soft and tender, and already quite salty; it was better dipped in chili oil.\n\nI recommended the fried sauce noodles to a colleague, and she said it was delicious! 😋",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "二訪點了涼麵，味道很喜歡，肉排加點$40 頗鹹～\n\n和一般早餐店不同的菜單\n蛋餅是用很薄的餅皮去煎恰恰！韭菜蛋餅是包跟韭菜盒子一樣的內容物，有豆乾和冬粉跟韭菜！好吃！\n蘿蔔糕吃起來很軟嫩，已經夠鹹了，可以沾辣油就好。\n推薦同事去吃炸醬麵，她回來說好吃😋",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Yen Lucy",
+                                                  "uri":  "https://www.google.com/maps/contrib/108456861302078603826/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocJkHuujjmLnRwYsr6MXzLOrgKe6GqnUmZMemxObsJ8x6ymHfA=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-11-29T08:27:26.527951999Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CWFRGbG9SR3N5ZWxSV1YzaFdZelZZZGxOdWQzYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CWFRGbG9SR3N5ZWxSV1YzaFdZelZZZGxOdWQzYxAB!2m1!1s0x3442a96d0c26592d:0x4d06f5ad6d0a9147"
+                    }
+                ]
 }

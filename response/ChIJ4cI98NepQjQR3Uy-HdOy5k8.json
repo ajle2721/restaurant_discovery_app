@@ -1,139 +1,70 @@
-{
-  "id": "ChIJ4cI98NepQjQR3Uy-HdOy5k8",
-  "types": [
-    "brunch_restaurant",
-    "breakfast_restaurant",
-    "meal_delivery",
-    "food_delivery",
-    "restaurant",
-    "food",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2363 0101",
-  "formattedAddress": "100台灣臺北市中正區文盛里羅斯福路三段316巷8弄7號",
-  "location": {
-    "latitude": 25.015456000000004,
-    "longitude": 121.53267550000001
-  },
-  "rating": 4.3,
-  "websiteUri": "https://www.facebook.com/atoast0214/",
-  "userRatingCount": 1138,
-  "displayName": {
-    "text": "鱷吐司 A Toast",
-    "languageCode": "zh-TW"
-  },
-  "editorialSummary": {
-    "text": "Simple outlet in a modern setting prepping substantial sandwiches for breakfast & lunch.",
-    "languageCode": "en"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJ4cI98NepQjQR3Uy-HdOy5k8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sV2EzWktSMVJmUTBoU1VtcDBja1puVmxWUWFIYxAB",
-      "relativePublishTimeDescription": "8 個月前",
-      "rating": 3,
-      "text": {
-        "text": "排骨的酥皮QQ的脆脆排骨很薄\n芋泥球共有6塊吃的到芋泥味道\n至於青花驕炸雞跟松露牛漢堡就中規中矩\n尺寸份量不大價位偏高，但裝潢及清潔維持乾淨的程度不錯用餐限制90分鐘只收現金現場不好停車",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "排骨的酥皮QQ的脆脆排骨很薄\n芋泥球共有6塊吃的到芋泥味道\n至於青花驕炸雞跟松露牛漢堡就中規中矩\n尺寸份量不大價位偏高，但裝潢及清潔維持乾淨的程度不錯用餐限制90分鐘只收現金現場不好停車",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "楊巧玲",
-        "uri": "https://www.google.com/maps/contrib/108936213531425751489/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdSzQ99JqRnvH4YzkD9I0Pw-4XK4ABZ1sc2GeoNvsO6zPAkW5tyw=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2025-09-18T08:28:57.249030997Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sV2EzWktSMVJmUTBoU1VtcDBja1puVmxWUWFIYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sV2EzWktSMVJmUTBoU1VtcDBja1puVmxWUWFIYxAB!2m1!1s0x3442a9d7f03dc2e1:0x4fe6b2d31dbe4cdd"
-    },
-    {
-      "name": "places/ChIJ4cI98NepQjQR3Uy-HdOy5k8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkNVpsbGphM1JOTm1GNVUySkRSeTFzWDJSQ2ExRRAB",
-      "relativePublishTimeDescription": "5 個月前",
-      "rating": 5,
-      "text": {
-        "text": "公館的鱷吐司裝潢的很文青，點了鱷勢力排骨很好吃，排骨多汁又大塊，配上小黃瓜非常清爽 。雞塊和蛋餅也很讚！",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "公館的鱷吐司裝潢的很文青，點了鱷勢力排骨很好吃，排骨多汁又大塊，配上小黃瓜非常清爽 。雞塊和蛋餅也很讚！",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "eric lin",
-        "uri": "https://www.google.com/maps/contrib/101108513115486368832/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUZQLxRSSIggLBHfoWuoN2skYsG153KtvgDylvOXBFCteZBHas=s128-c0x00000000-cc-rp-mo-ba8"
-      },
-      "publishTime": "2025-11-29T15:37:16.883234304Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkNVpsbGphM1JOTm1GNVUySkRSeTFzWDJSQ2ExRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkNVpsbGphM1JOTm1GNVUySkRSeTFzWDJSQ2ExRRAB!2m1!1s0x3442a9d7f03dc2e1:0x4fe6b2d31dbe4cdd"
-    },
-    {
-      "name": "places/ChIJ4cI98NepQjQR3Uy-HdOy5k8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Od1kzRkhNRGxIZVV4NVpYRnZTbmd0ZFc1Q2NVRRAB",
-      "relativePublishTimeDescription": "6 個月前",
-      "rating": 5,
-      "text": {
-        "text": "之前都是同事點外送\n吃好幾次 覺得不錯\n經過突然連起來\n\n點了塔塔鱈魚排 Tartar Fish Sandwich\n德州脆薯 Crispy Fries\n美式咖啡（冰）Americano (Ice)\n應該是現場吃 比起外送又更好吃\n\n因為是台大校園附近 學生很多\n聊起天來 有點吵\n除此之外 都很不錯",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "之前都是同事點外送\n吃好幾次 覺得不錯\n經過突然連起來\n\n點了塔塔鱈魚排 Tartar Fish Sandwich\n德州脆薯 Crispy Fries\n美式咖啡（冰）Americano (Ice)\n應該是現場吃 比起外送又更好吃\n\n因為是台大校園附近 學生很多\n聊起天來 有點吵\n除此之外 都很不錯",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Fanny Yu",
-        "uri": "https://www.google.com/maps/contrib/109300737435264351086/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXGbDh7eLR1bcrTW_Y2rFVw7p9ToE3FlnuEyjM-OCT_QlUSRA8=s128-c0x00000000-cc-rp-mo-ba4"
-      },
-      "publishTime": "2025-11-05T15:04:05.509576386Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Od1kzRkhNRGxIZVV4NVpYRnZTbmd0ZFc1Q2NVRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Od1kzRkhNRGxIZVV4NVpYRnZTbmd0ZFc1Q2NVRRAB!2m1!1s0x3442a9d7f03dc2e1:0x4fe6b2d31dbe4cdd"
-    },
-    {
-      "name": "places/ChIJ4cI98NepQjQR3Uy-HdOy5k8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5R2JURmtUMkl3VUVJekxXZHZORGhLVUhWaWJrRRAB",
-      "relativePublishTimeDescription": "5 個月前",
-      "rating": 1,
-      "text": {
-        "text": "太誇張了，以前也買過幾次這家的吐司，但這次買的時候發現尺寸縮小超級多，小的要命，再也不想買了",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "太誇張了，以前也買過幾次這家的吐司，但這次買的時候發現尺寸縮小超級多，小的要命，再也不想買了",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Hi Yumi",
-        "uri": "https://www.google.com/maps/contrib/113576075614683806617/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWNnA-UVsa-UZMpA-n9Xrl8uf7S8tmqPgSZQWMPyOcOEPuNuKRl=s128-c0x00000000-cc-rp-mo-ba2"
-      },
-      "publishTime": "2025-12-24T06:31:19.542959249Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5R2JURmtUMkl3VUVJekxXZHZORGhLVUhWaWJrRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5R2JURmtUMkl3VUVJekxXZHZORGhLVUhWaWJrRRAB!2m1!1s0x3442a9d7f03dc2e1:0x4fe6b2d31dbe4cdd"
-    },
-    {
-      "name": "places/ChIJ4cI98NepQjQR3Uy-HdOy5k8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5RFNqUTVaVlozT0dNMloyaG5kMFZ5VldKU1FXYxAB",
-      "relativePublishTimeDescription": "9 個月前",
-      "rating": 5,
-      "text": {
-        "text": "開在夜市裡面的興新早餐店，感覺起來蠻像網美店的，但是餐點的品項上也確實蠻不錯的。\n排骨吐司的排骨是用傳統的滷排骨便當中的排骨作法去做，先炸後滷，讓醬汁都吸附到排骨裡面，加上非常厚實又有彈性帶有醬香的排骨肉，讓人能在早餐就能吃到排骨，很舒服很開心很好吃。\n馬鈴薯蛋吐司就是馬鈴薯泥加滑蛋，是比較清爽但是味道也不錯的吐司，馬鈴薯泥微綿，也算是不錯的一樣。\n芋頭丸非常芋頭，能吃到濃濃的芋頭味道而且不會太有澱粉感。紅茶有甜但不會死甜或澀口。\n算是想要吃吐司類早餐或早午餐的時候會推薦的一家店。\nIt is a new breakfast shop located in the night market. The items are good, even if it feels like a influencer-style shop. The cooking method for the deep-fried pork chop follows the traditional way, based on the Taiwanese traditional deep-fried pork chop,deep-frying them first and then braising them to absorb the sauce. The chop is thick and elastic, with a fragrant sauce flavor absorbed into the pork chop. It is really comfortable, happy, and delicious to eat the deep-fried pork chop in the morning.\nThe potato paste toast with egg is a combination of potato paste and stir-fried egg. The potato paste is smooth, and the flavor is fresh. It is also a good choice.\nThe taro ball has an incredibly taro flavor and texture. You can enjoy the rich taro flavor without the starchiness. The black tea is neither sweet nor astringent.\nIt is a breakfast or brunch shop that I would recommend if I would like to eat toast.",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "開在夜市裡面的興新早餐店，感覺起來蠻像網美店的，但是餐點的品項上也確實蠻不錯的。\n排骨吐司的排骨是用傳統的滷排骨便當中的排骨作法去做，先炸後滷，讓醬汁都吸附到排骨裡面，加上非常厚實又有彈性帶有醬香的排骨肉，讓人能在早餐就能吃到排骨，很舒服很開心很好吃。\n馬鈴薯蛋吐司就是馬鈴薯泥加滑蛋，是比較清爽但是味道也不錯的吐司，馬鈴薯泥微綿，也算是不錯的一樣。\n芋頭丸非常芋頭，能吃到濃濃的芋頭味道而且不會太有澱粉感。紅茶有甜但不會死甜或澀口。\n算是想要吃吐司類早餐或早午餐的時候會推薦的一家店。\nIt is a new breakfast shop located in the night market. The items are good, even if it feels like a influencer-style shop. The cooking method for the deep-fried pork chop follows the traditional way, based on the Taiwanese traditional deep-fried pork chop,deep-frying them first and then braising them to absorb the sauce. The chop is thick and elastic, with a fragrant sauce flavor absorbed into the pork chop. It is really comfortable, happy, and delicious to eat the deep-fried pork chop in the morning.\nThe potato paste toast with egg is a combination of potato paste and stir-fried egg. The potato paste is smooth, and the flavor is fresh. It is also a good choice.\nThe taro ball has an incredibly taro flavor and texture. You can enjoy the rich taro flavor without the starchiness. The black tea is neither sweet nor astringent.\nIt is a breakfast or brunch shop that I would recommend if I would like to eat toast.",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Jing Yeh",
-        "uri": "https://www.google.com/maps/contrib/105173338801277241240/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUx92i3LhLRX9YhwVOWrqlDAsOjYZRtJkVx9bbU16bzj8Dy0uShaA=s128-c0x00000000-cc-rp-mo-ba8"
-      },
-      "publishTime": "2025-08-12T01:54:47.317382971Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5RFNqUTVaVlozT0dNMloyaG5kMFZ5VldKU1FXYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5RFNqUTVaVlozT0dNMloyaG5kMFZ5VldKU1FXYxAB!2m1!1s0x3442a9d7f03dc2e1:0x4fe6b2d31dbe4cdd"
-    }
-  ],
-  "menuForChildren": false,
-  "goodForChildren": true
+﻿{
+    "id":  "ChIJ4cI98NepQjQR3Uy-HdOy5k8",
+    "types":  [
+                  "brunch_restaurant",
+                  "breakfast_restaurant",
+                  "meal_delivery",
+                  "food_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2363 0101",
+    "formattedAddress":  "No. 7號, Alley 8, Ln. 316, Section 3, Roosevelt Rd, Wencheng Village, Zhongzheng District, Taipei City, Taiwan 100",
+    "location":  {
+                     "latitude":  25.015456000000004,
+                     "longitude":  121.53267550000001
+                 },
+    "rating":  4.3,
+    "websiteUri":  "https://www.facebook.com/atoast0214/",
+    "userRatingCount":  1144,
+    "displayName":  {
+                        "text":  "鱷吐司 A Toast",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJ4cI98NepQjQR3Uy-HdOy5k8/reviews/ChZDSUhNMG9nS0VJQ0FnTUNveUxiR0p3EAE",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Have had ~10 sandwiches from here and tried most of the menu.\n\nI love pretty much all of their sandwiches. My favorite has to be the nice, fatty Taiwanese Pork Sandwich. The spicy pork sandwich comes in close second - This one definitely has some kick. All of them at least seem to be made out of very fresh ingredients.\n\nGenerally a great spot for a good breakfast/ lunch snack.\n\nOnly thing to concider ist that there might be a longer wait during rush hours.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Have had ~10 sandwiches from here and tried most of the menu.\n\nI love pretty much all of their sandwiches. My favorite has to be the nice, fatty Taiwanese Pork Sandwich. The spicy pork sandwich comes in close second - This one definitely has some kick. All of them at least seem to be made out of very fresh ingredients.\n\nGenerally a great spot for a good breakfast/ lunch snack.\n\nOnly thing to concider ist that there might be a longer wait during rush hours.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Nic",
+                                                  "uri":  "https://www.google.com/maps/contrib/107282333283910164466/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjX0HAyRL0X1HgRuXFaTmhbR6Lb61BFj8Nyis_Dbz2D_fRxri2XB=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-04-14T17:04:22.358752Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNveUxiR0p3EAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNveUxiR0p3EAE!2m1!1s0x3442a9d7f03dc2e1:0x4fe6b2d31dbe4cdd"
+                    },
+                    {
+                        "name":  "places/ChIJ4cI98NepQjQR3Uy-HdOy5k8/reviews/ChdDSUhNMG9nS0VOV1V5b1BndTRiTjJRRRAB",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "The sandwich is okay. But I love the french fries here… it’s crispy on the outside and soft inside. And the sauce on my sandwich is delicious.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "The sandwich is okay. But I love the french fries here… it’s crispy on the outside and soft inside. And the sauce on my sandwich is delicious.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Verdihofan Tan",
+                                                  "uri":  "https://www.google.com/maps/contrib/116243618957584315466/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVhTlls4gCsYKxhhXOAu6-AYwcEFTsWRCgBe4Y1syk6UnL2MBg=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2025-05-16T04:56:07.457544Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VOV1V5b1BndTRiTjJRRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VOV1V5b1BndTRiTjJRRRAB!2m1!1s0x3442a9d7f03dc2e1:0x4fe6b2d31dbe4cdd"
+                    }
+                ]
 }

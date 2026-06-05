@@ -1,132 +1,90 @@
-{
-  "id": "ChIJ1zDhc1StQjQRO5rSNVmgn3E",
-  "types": [
-    "coffee_shop",
-    "cafe",
-    "food_store",
-    "food",
-    "point_of_interest",
-    "store",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2783 0602",
-  "formattedAddress": "115台灣臺北市南港區南港里南港路一段171巷16號",
-  "location": {
-    "latitude": 25.054625599999998,
-    "longitude": 121.6130036
-  },
-  "rating": 4.4,
-  "websiteUri": "https://www.facebook.com/happinessfei/",
-  "userRatingCount": 291,
-  "displayName": {
-    "text": "幸福肥計劃咖啡店",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJ1zDhc1StQjQRO5rSNVmgn3E/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WVGFuRnFaa2s1ZGxGaGMxZHJPSGRzY3pSa1lYYxAB",
-      "relativePublishTimeDescription": "6 個月前",
-      "rating": 5,
-      "text": {
-        "text": "忽然很想吃蛋糕，用google搜尋之後發現在住家旁邊而已，蛋糕真的真材實料，可惜想吃的提拉米蘇賣完了，在南港真的很少有這種商家，能吃到美味真的是小確幸！\n一個人低消是200元，商家不招待12歲以下的小孩喔！",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "忽然很想吃蛋糕，用google搜尋之後發現在住家旁邊而已，蛋糕真的真材實料，可惜想吃的提拉米蘇賣完了，在南港真的很少有這種商家，能吃到美味真的是小確幸！\n一個人低消是200元，商家不招待12歲以下的小孩喔！",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Paula Tai",
-        "uri": "https://www.google.com/maps/contrib/103915616511506909164/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXAAHKVG8Fw_z8cvi0z1LIqJLKLin-Lhm2wOZzscLKv39zevD86mg=s128-c0x00000000-cc-rp-mo-ba4"
-      },
-      "publishTime": "2025-11-22T13:41:32.812636255Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WVGFuRnFaa2s1ZGxGaGMxZHJPSGRzY3pSa1lYYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WVGFuRnFaa2s1ZGxGaGMxZHJPSGRzY3pSa1lYYxAB!2m1!1s0x3442ad5473e130d7:0x719fa05935d29a3b"
-    },
-    {
-      "name": "places/ChIJ1zDhc1StQjQRO5rSNVmgn3E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxa1JXSjBYMFl3UWpWRlowaHdkRzlwVERGQlpWRRAB",
-      "relativePublishTimeDescription": "5 個月前",
-      "rating": 5,
-      "text": {
-        "text": "吃到一半忍不住放下餐具先來給肯定\n\n一進門聞到撲鼻的麵包香\n是我喜歡的口味「肉醬馬鈴薯」\n本想購買沒想到是預訂才有\n（最後還是買到了，開心到原地起飛，闆娘說有多兩顆，超級幸運💖）\n\n想試試麵包的客人要加line 關注喔\n\n-\n\n這真的是很佛心的一間貓咖\n\n食物更是讓人驚艷\n梅干燉小豬、匈牙利牛肉都好吃到爆\n通膨、物料漲不收服務費還可以充電\n有這樣的水準真的要好好用新台幣支持\n\n個人認同店家「不接受12歲以下孩子」\n畢竟太多家長只是為了耍廢\n\n刁蠻的孩子&恐龍家長這麼多..\n身為毛孩的家長當然要保護自己的毛孩\n\nBytheway\n貓咖有貓毛真沒什麼好大驚小怪\n看起來就是家庭式經營\n真的也不需要說店員怎樣\n阿姨非常親切～\n只能說低消200還可以加飯非常值得！\n\n老闆娘一家人加油💖",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "吃到一半忍不住放下餐具先來給肯定\n\n一進門聞到撲鼻的麵包香\n是我喜歡的口味「肉醬馬鈴薯」\n本想購買沒想到是預訂才有\n（最後還是買到了，開心到原地起飛，闆娘說有多兩顆，超級幸運💖）\n\n想試試麵包的客人要加line 關注喔\n\n-\n\n這真的是很佛心的一間貓咖\n\n食物更是讓人驚艷\n梅干燉小豬、匈牙利牛肉都好吃到爆\n通膨、物料漲不收服務費還可以充電\n有這樣的水準真的要好好用新台幣支持\n\n個人認同店家「不接受12歲以下孩子」\n畢竟太多家長只是為了耍廢\n\n刁蠻的孩子&恐龍家長這麼多..\n身為毛孩的家長當然要保護自己的毛孩\n\nBytheway\n貓咖有貓毛真沒什麼好大驚小怪\n看起來就是家庭式經營\n真的也不需要說店員怎樣\n阿姨非常親切～\n只能說低消200還可以加飯非常值得！\n\n老闆娘一家人加油💖",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Mavis Chen",
-        "uri": "https://www.google.com/maps/contrib/118423941009286328400/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXoWzigmvht2Y8eN95xeEr7f-gPkAIJu9xvlNarT0NcMGwT_8eg=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2025-12-20T06:26:21.547459015Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxa1JXSjBYMFl3UWpWRlowaHdkRzlwVERGQlpWRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxa1JXSjBYMFl3UWpWRlowaHdkRzlwVERGQlpWRRAB!2m1!1s0x3442ad5473e130d7:0x719fa05935d29a3b"
-    },
-    {
-      "name": "places/ChIJ1zDhc1StQjQRO5rSNVmgn3E/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OQ2MxZFBNR2szY0VsUWJFbDNaak5UU2pOU1VIYxAB",
-      "relativePublishTimeDescription": "4 個月前",
-      "rating": 5,
-      "text": {
-        "text": "飲料甜點口味不錯\n可以用linepay\n貓貓給摸，但不太主動靠近",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "飲料甜點口味不錯\n可以用linepay\n貓貓給摸，但不太主動靠近",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Alan Lai",
-        "uri": "https://www.google.com/maps/contrib/100875496256616617679/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWzz0bJw7Mu9LXmSbuFGgdtP6rf6J-bZyF31z51tPtDvclntM9r=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2025-12-27T14:32:23.322126514Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OQ2MxZFBNR2szY0VsUWJFbDNaak5UU2pOU1VIYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OQ2MxZFBNR2szY0VsUWJFbDNaak5UU2pOU1VIYxAB!2m1!1s0x3442ad5473e130d7:0x719fa05935d29a3b"
-    },
-    {
-      "name": "places/ChIJ1zDhc1StQjQRO5rSNVmgn3E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGc1FVNUVSRUZLTFdSWFNIaFdRbkJGVG14dFEzYxAB",
-      "relativePublishTimeDescription": "4 個月前",
-      "rating": 3,
-      "text": {
-        "text": "如果要吃簡餐，但不能吃生菜的人不建議來！每個餐點都有生菜又不能換，沒有生菜的也被貼起來不能點！(您說的美式拼盤我們是有點的！當時也有問飯的部分，只有說每個餐點都有生菜，根本沒有說可以換其他東西，如果有說可以換早就換其他熱菜，沒有人說不吃飯...，也沒有提到能換。\n還有您說相信有來用餐過，在點餐時明確表示 “不能吃生菜” &“不喜歡吃生菜” 的人客們，都有在店裡找到其他替代方案，但我們是第一次去吃也沒有得到替代方案)\n店裡有三隻可愛的貓貓",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "如果要吃簡餐，但不能吃生菜的人不建議來！每個餐點都有生菜又不能換，沒有生菜的也被貼起來不能點！(您說的美式拼盤我們是有點的！當時也有問飯的部分，只有說每個餐點都有生菜，根本沒有說可以換其他東西，如果有說可以換早就換其他熱菜，沒有人說不吃飯...，也沒有提到能換。\n還有您說相信有來用餐過，在點餐時明確表示 “不能吃生菜” &“不喜歡吃生菜” 的人客們，都有在店裡找到其他替代方案，但我們是第一次去吃也沒有得到替代方案)\n店裡有三隻可愛的貓貓",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Christine",
-        "uri": "https://www.google.com/maps/contrib/115070971893583182101/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKopSonxGxvaAOnTUAep84EDWaDX67sp0VZdsO8xSFeZPY0Nw=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2025-12-26T08:21:16.783573916Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGc1FVNUVSRUZLTFdSWFNIaFdRbkJGVG14dFEzYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGc1FVNUVSRUZLTFdSWFNIaFdRbkJGVG14dFEzYxAB!2m1!1s0x3442ad5473e130d7:0x719fa05935d29a3b"
-    },
-    {
-      "name": "places/ChIJ1zDhc1StQjQRO5rSNVmgn3E/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzMzZqa3ZnRRAB",
-      "relativePublishTimeDescription": "1 年前",
-      "rating": 5,
-      "text": {
-        "text": "靠近南港展覽館站五號口，走路約10分鐘，看展完之後再過來約會很方便❤️\n\n店裡分成用餐區跟貓貓活動區，貓貓可以自由在店裡活動，整間店讓人覺得很悠閒放鬆，可以小聲聊天也能安靜做事。\n\n有套餐也有單點的甜點，比較推甜點，現場也有販售現成的手工小餅乾、棒棒糖，後來發現老闆有自己的蝦皮手工烘焙賣場，果然是甜點專業阿！收入會捐一小部分做公益，支持。\n\n✅ 低消$200，尖峰時間限時兩小時\n✅ 大推肉桂捲，肉球布丁蛋塔可愛\n✅ 貓咖的主人是貓貓，到訪之前一定要詳閱須知喔！",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "靠近南港展覽館站五號口，走路約10分鐘，看展完之後再過來約會很方便❤️\n\n店裡分成用餐區跟貓貓活動區，貓貓可以自由在店裡活動，整間店讓人覺得很悠閒放鬆，可以小聲聊天也能安靜做事。\n\n有套餐也有單點的甜點，比較推甜點，現場也有販售現成的手工小餅乾、棒棒糖，後來發現老闆有自己的蝦皮手工烘焙賣場，果然是甜點專業阿！收入會捐一小部分做公益，支持。\n\n✅ 低消$200，尖峰時間限時兩小時\n✅ 大推肉桂捲，肉球布丁蛋塔可愛\n✅ 貓咖的主人是貓貓，到訪之前一定要詳閱須知喔！",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Debbie",
-        "uri": "https://www.google.com/maps/contrib/102489159539223067706/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXCv7eMrYmO2ppS4SC1Kc7rP9GkncBBRv15IN2k_CcVwgAxTk59pQ=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2024-11-10T17:15:21.225516Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzMzZqa3ZnRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzMzZqa3ZnRRAB!2m1!1s0x3442ad5473e130d7:0x719fa05935d29a3b"
-    }
-  ]
+﻿{
+    "id":  "ChIJ1zDhc1StQjQRO5rSNVmgn3E",
+    "types":  [
+                  "coffee_shop",
+                  "cafe",
+                  "food_store",
+                  "store",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2783 0602",
+    "formattedAddress":  "No. 16號, Lane 171, Section 1, Nangang Rd, Nangang Village, Nangang District, Taipei City, Taiwan 115",
+    "location":  {
+                     "latitude":  25.054625599999998,
+                     "longitude":  121.6130036
+                 },
+    "rating":  4.4,
+    "websiteUri":  "https://www.facebook.com/happinessfei/",
+    "userRatingCount":  291,
+    "displayName":  {
+                        "text":  "幸福肥計劃咖啡店",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJ1zDhc1StQjQRO5rSNVmgn3E/reviews/ChdDSUhNMG9nS0VJQ0FnSUNycmJPU3hBRRAB",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Love this Molten Mango Mousse and fruit tea ❤️ and their friendly cats too 😺😺😺\n\nSuggested for cat lovers ❤️❤️❤️",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Love this Molten Mango Mousse and fruit tea ❤️ and their friendly cats too 😺😺😺\n\nSuggested for cat lovers ❤️❤️❤️",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "K Calamba",
+                                                  "uri":  "https://www.google.com/maps/contrib/103997944617310358415/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXJX145EYtNs-VFGEJzR8DrqEs44P0BkCJeo-sqydfz72hkn0rW=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2024-07-10T04:24:22.279548Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNycmJPU3hBRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNycmJPU3hBRRAB!2m1!1s0x3442ad5473e130d7:0x719fa05935d29a3b"
+                    },
+                    {
+                        "name":  "places/ChIJ1zDhc1StQjQRO5rSNVmgn3E/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WVGFuRnFaa2s1ZGxGaGMxZHJPSGRzY3pSa1lYYxAB",
+                        "relativePublishTimeDescription":  "6 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "I suddenly had a craving for cake, and after searching on Google, I found a place right next to my house. The cakes were made with really high-quality ingredients, but unfortunately, the tiramisu I wanted was sold out. It\u0027s rare to find a place like this in Nangang; being able to eat something delicious was a small but precious joy!\n\nThe minimum spend is NT$200 per person, and children under 12 are not allowed to enter.",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "忽然很想吃蛋糕，用google搜尋之後發現在住家旁邊而已，蛋糕真的真材實料，可惜想吃的提拉米蘇賣完了，在南港真的很少有這種商家，能吃到美味真的是小確幸！\n一個人低消是200元，商家不招待12歲以下的小孩喔！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Paula Tai",
+                                                  "uri":  "https://www.google.com/maps/contrib/103915616511506909164/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXAAHKVG8Fw_z8cvi0z1LIqJLKLin-Lhm2wOZzscLKv39zevD86mg=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2025-11-22T13:41:32.812636255Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WVGFuRnFaa2s1ZGxGaGMxZHJPSGRzY3pSa1lYYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WVGFuRnFaa2s1ZGxGaGMxZHJPSGRzY3pSa1lYYxAB!2m1!1s0x3442ad5473e130d7:0x719fa05935d29a3b"
+                    },
+                    {
+                        "name":  "places/ChIJ1zDhc1StQjQRO5rSNVmgn3E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxa1JXSjBYMFl3UWpWRlowaHdkRzlwVERGQlpWRRAB",
+                        "relativePublishTimeDescription":  "5 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "I couldn\u0027t resist putting down my utensils halfway through my meal to give it a thumbs up!\n\nThe aroma of bread wafted in as soon as I entered.\n\nIt was my favorite flavor, \"Potato with Meat Sauce.\"\n\nI wanted to buy it, but it was only available by pre-order.\n\n(I managed to get it in the end, I was so happy I could fly! The owner said there were two extra, super lucky 💖)\n\nCustomers who want to try the bread should follow them on Line!\n\n-\nThis is truly a very kind cat cafe.\n\nThe food is amazing! The braised pork with prunes and the Hungarian beef were incredibly delicious. Despite inflation and rising prices, there\u0027s no service charge, and you can even charge your phone. With this level of quality, it\u0027s definitely worth supporting with New Taiwan Dollars.\n\nI personally agree with the cafe\u0027s policy of \"not accepting children under 12.\"\n\nAfter all, too many parents are just there to have fun.\n\nThere are so many unruly children and difficult parents... As a pet owner, of course I have to protect my furry friend.\n\nBy the way, it\u0027s not surprising to see cat hair in a cat cafe. It seems like a family-run business. There\u0027s really no need to comment on the staff. The auntie was very friendly. The minimum spend of NT$200 plus extra rice is definitely worth it!\n\nKeep up the good work, boss lady and her family! 💖",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "吃到一半忍不住放下餐具先來給肯定\n\n一進門聞到撲鼻的麵包香\n是我喜歡的口味「肉醬馬鈴薯」\n本想購買沒想到是預訂才有\n（最後還是買到了，開心到原地起飛，闆娘說有多兩顆，超級幸運💖）\n\n想試試麵包的客人要加line 關注喔\n\n-\n\n這真的是很佛心的一間貓咖\n\n食物更是讓人驚艷\n梅干燉小豬、匈牙利牛肉都好吃到爆\n通膨、物料漲不收服務費還可以充電\n有這樣的水準真的要好好用新台幣支持\n\n個人認同店家「不接受12歲以下孩子」\n畢竟太多家長只是為了耍廢\n\n刁蠻的孩子\u0026恐龍家長這麼多..\n身為毛孩的家長當然要保護自己的毛孩\n\nBytheway\n貓咖有貓毛真沒什麼好大驚小怪\n看起來就是家庭式經營\n真的也不需要說店員怎樣\n阿姨非常親切～\n只能說低消200還可以加飯非常值得！\n\n老闆娘一家人加油💖",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Mavis Chen",
+                                                  "uri":  "https://www.google.com/maps/contrib/118423941009286328400/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXoWzigmvht2Y8eN95xeEr7f-gPkAIJu9xvlNarT0NcMGwT_8eg=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-12-20T06:26:21.547459015Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxa1JXSjBYMFl3UWpWRlowaHdkRzlwVERGQlpWRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxa1JXSjBYMFl3UWpWRlowaHdkRzlwVERGQlpWRRAB!2m1!1s0x3442ad5473e130d7:0x719fa05935d29a3b"
+                    }
+                ]
 }

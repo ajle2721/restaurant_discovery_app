@@ -1,131 +1,131 @@
-{
-  "id": "ChIJ7W1YSPirQjQRrfZuZUvDVfc",
-  "types": [
-    "italian_restaurant",
-    "meal_delivery",
-    "food_delivery",
-    "restaurant",
-    "food",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2777 2477",
-  "formattedAddress": "106台灣臺北市大安區光武里大安路一段31巷11號",
-  "location": {
-    "latitude": 25.0440376,
-    "longitude": 121.54673989999998
-  },
-  "rating": 5,
-  "userRatingCount": 49,
-  "displayName": {
-    "text": "義麵宅即便 義大利麵外送",
-    "languageCode": "en"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJ7W1YSPirQjQRrfZuZUvDVfc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwM1dESjRiWFZ3YzJGM2VraGFibFZEVFdwUGNuYxAB",
-      "relativePublishTimeDescription": "8 個月前",
-      "rating": 5,
-      "text": {
-        "text": "第一次點義麵宅即便的外送，收到餐點時還是熱呼呼的，包裝很用心，不會因為外送就變得軟爛。點了雞肉義大利麵，醬汁收得剛好，麵條Q彈不過軟，吃起來還保有口感。雞肉份量不少，肉質嫩口，不會乾柴，搭配醬汁非常合拍。最讓我驚喜的是調味不會太重，整份吃完很有飽足感卻不覺得膩。分量算是蠻實在的，一份下來足夠當正餐。價錢合理，外送速度也快，真的很適合懶得出門又想吃點義式料理的時候。對於外送義大利麵來說，品質算是相當不錯，下次會想再試試看其他口味，像是海鮮或奶油白醬系列。很推薦給跟我一樣偶爾想在家也能吃到義式料理的人！",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "第一次點義麵宅即便的外送，收到餐點時還是熱呼呼的，包裝很用心，不會因為外送就變得軟爛。點了雞肉義大利麵，醬汁收得剛好，麵條Q彈不過軟，吃起來還保有口感。雞肉份量不少，肉質嫩口，不會乾柴，搭配醬汁非常合拍。最讓我驚喜的是調味不會太重，整份吃完很有飽足感卻不覺得膩。分量算是蠻實在的，一份下來足夠當正餐。價錢合理，外送速度也快，真的很適合懶得出門又想吃點義式料理的時候。對於外送義大利麵來說，品質算是相當不錯，下次會想再試試看其他口味，像是海鮮或奶油白醬系列。很推薦給跟我一樣偶爾想在家也能吃到義式料理的人！",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "邦Rex",
-        "uri": "https://www.google.com/maps/contrib/115770745123488311808/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUDTX_qtP1jT4oX_SCeoaT4S4cJ6ytfVansogAujTyhk7V45zs=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2025-09-16T12:58:58.644820082Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwM1dESjRiWFZ3YzJGM2VraGFibFZEVFdwUGNuYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwM1dESjRiWFZ3YzJGM2VraGFibFZEVFdwUGNuYxAB!2m1!1s0x3442abf848586ded:0xf755c34b656ef6ad"
-    },
-    {
-      "name": "places/ChIJ7W1YSPirQjQRrfZuZUvDVfc/reviews/ChZDSUhNMG9nS0VJQ0FnSURfc3BIRmFBEAE",
-      "relativePublishTimeDescription": "1 年前",
-      "rating": 5,
-      "text": {
-        "text": "雞腿肉相當好吃，皮脆超讚🙌🏻濃湯也能感受到真材實料，喝完下次想再加購一碗ㄌ🥹紅醬調味恰當，不會過於鹹，且能感受到真的是有用番茄下去熬煮的！整體份量多，吃完好飽～\n免外送費真的是好棒，外送的北北很親切，祝您們生意興隆！💖💖💖💖💖",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "雞腿肉相當好吃，皮脆超讚🙌🏻濃湯也能感受到真材實料，喝完下次想再加購一碗ㄌ🥹紅醬調味恰當，不會過於鹹，且能感受到真的是有用番茄下去熬煮的！整體份量多，吃完好飽～\n免外送費真的是好棒，外送的北北很親切，祝您們生意興隆！💖💖💖💖💖",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "黃于馨",
-        "uri": "https://www.google.com/maps/contrib/100257413345220914290/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUcfcbOr1EW8jSE0qB4hiRerIvt9xRICPylpQ0bHAkF1sUF6_bT=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2025-01-23T04:14:34.762252Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfc3BIRmFBEAE&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfc3BIRmFBEAE!2m1!1s0x3442abf848586ded:0xf755c34b656ef6ad"
-    },
-    {
-      "name": "places/ChIJ7W1YSPirQjQRrfZuZUvDVfc/reviews/ChZDSUhNMG9nS0VJZTdvci1yd3FpblJBEAE",
-      "relativePublishTimeDescription": "11 個月前",
-      "rating": 5,
-      "text": {
-        "text": "真的真材實料的義大利麵🍝\n我覺得比這附近很多間連鎖店CP值還高很多\n\n🐔雞肉非常大塊皮脆～醬料吃的出來是自製的番茄醬🥫\n連男生都吃的很飽！\n很喜歡❤️以後會常常訂購的～～\n\n阿北說沒有外送費用，覺得沒有限制還沒有外送費用 真的辛苦了！\n\n大推大推👍👍👍",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "真的真材實料的義大利麵🍝\n我覺得比這附近很多間連鎖店CP值還高很多\n\n🐔雞肉非常大塊皮脆～醬料吃的出來是自製的番茄醬🥫\n連男生都吃的很飽！\n很喜歡❤️以後會常常訂購的～～\n\n阿北說沒有外送費用，覺得沒有限制還沒有外送費用 真的辛苦了！\n\n大推大推👍👍👍",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Amber Chiang",
-        "uri": "https://www.google.com/maps/contrib/110696073005635511118/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWe3h3cNU9zSijJjhgrLjLR7BSLRD9ZGbFD3mDGh7gGWzYrM_bf=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2025-06-09T03:39:11.544749Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJZTdvci1yd3FpblJBEAE&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJZTdvci1yd3FpblJBEAE!2m1!1s0x3442abf848586ded:0xf755c34b656ef6ad"
-    },
-    {
-      "name": "places/ChIJ7W1YSPirQjQRrfZuZUvDVfc/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzNjZfMEJREAE",
-      "relativePublishTimeDescription": "1 年前",
-      "rating": 5,
-      "text": {
-        "text": "台北市大安區松山區午餐（外送）的好選擇\n同事無意間找到的，中式套餐口味很足，很精緻，中式湯感覺真的是燉過，今天是玉米蘿蔔湯，整個湯就是充滿了玉米香跟蘿蔔甜（照片湯已經喝一大口了）。之前吃義大利麵份量很夠，味道很濃郁，雞肉煎的赤赤的，很好吃，屬於重口味的，附湯濃湯也不馬虎（很濃郁），整個吃完真的很飽足，大推薦",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "台北市大安區松山區午餐（外送）的好選擇\n同事無意間找到的，中式套餐口味很足，很精緻，中式湯感覺真的是燉過，今天是玉米蘿蔔湯，整個湯就是充滿了玉米香跟蘿蔔甜（照片湯已經喝一大口了）。之前吃義大利麵份量很夠，味道很濃郁，雞肉煎的赤赤的，很好吃，屬於重口味的，附湯濃湯也不馬虎（很濃郁），整個吃完真的很飽足，大推薦",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "王小美",
-        "uri": "https://www.google.com/maps/contrib/101252169086753782104/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK2Ghv9se_vLfpdJ0IzJnfoOFvwZSBuCC_WXzW50z1orsIyKg=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2024-11-19T04:30:48.885123Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzNjZfMEJREAE&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzNjZfMEJREAE!2m1!1s0x3442abf848586ded:0xf755c34b656ef6ad"
-    },
-    {
-      "name": "places/ChIJ7W1YSPirQjQRrfZuZUvDVfc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSNE1URnBPSGw0YjFwT1JqVmllSEpFUjNsRFJHYxAB",
-      "relativePublishTimeDescription": "5 個月前",
-      "rating": 5,
-      "text": {
-        "text": "很好吃！回購多次了\n白醬雞肉/白醬蛤蜊：醬很香，雞肉跟蛤蜊也都很好吃，雞肉很多很划算\n粉紅醬：白醬＋紅醬，完全不會不搭，很特別\n外送不用錢，送來的時候湯跟麵還都還是熱的",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "很好吃！回購多次了\n白醬雞肉/白醬蛤蜊：醬很香，雞肉跟蛤蜊也都很好吃，雞肉很多很划算\n粉紅醬：白醬＋紅醬，完全不會不搭，很特別\n外送不用錢，送來的時候湯跟麵還都還是熱的",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "陳冠妤",
-        "uri": "https://www.google.com/maps/contrib/116122671629594902699/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXnXAT_iovxqiP9noVCUO0ZdxGjfjg8SWrAZAZbOYEpY0jFEQw=s128-c0x00000000-cc-rp-mo"
-      },
-      "publishTime": "2025-12-16T16:34:44.272576180Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSNE1URnBPSGw0YjFwT1JqVmllSEpFUjNsRFJHYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSNE1URnBPSGw0YjFwT1JqVmllSEpFUjNsRFJHYxAB!2m1!1s0x3442abf848586ded:0xf755c34b656ef6ad"
-    }
-  ]
+﻿{
+    "id":  "ChIJ7W1YSPirQjQRrfZuZUvDVfc",
+    "types":  [
+                  "italian_restaurant",
+                  "meal_delivery",
+                  "food_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2777 2477",
+    "formattedAddress":  "No. 11號, Lane 31, Section 1, Da\u0027an Rd, Guangwu Village, Da’an District, Taipei City, Taiwan 106",
+    "location":  {
+                     "latitude":  25.0440376,
+                     "longitude":  121.54673989999998
+                 },
+    "rating":  5,
+    "userRatingCount":  49,
+    "displayName":  {
+                        "text":  "義麵宅即便 義大利麵外送",
+                        "languageCode":  "en"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJ7W1YSPirQjQRrfZuZUvDVfc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwM1dESjRiWFZ3YzJGM2VraGFibFZEVFdwUGNuYxAB",
+                        "relativePublishTimeDescription":  "8 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "第一次點義麵宅即便的外送，收到餐點時還是熱呼呼的，包裝很用心，不會因為外送就變得軟爛。點了雞肉義大利麵，醬汁收得剛好，麵條Q彈不過軟，吃起來還保有口感。雞肉份量不少，肉質嫩口，不會乾柴，搭配醬汁非常合拍。最讓我驚喜的是調味不會太重，整份吃完很有飽足感卻不覺得膩。分量算是蠻實在的，一份下來足夠當正餐。價錢合理，外送速度也快，真的很適合懶得出門又想吃點義式料理的時候。對於外送義大利麵來說，品質算是相當不錯，下次會想再試試看其他口味，像是海鮮或奶油白醬系列。很推薦給跟我一樣偶爾想在家也能吃到義式料理的人！",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "第一次點義麵宅即便的外送，收到餐點時還是熱呼呼的，包裝很用心，不會因為外送就變得軟爛。點了雞肉義大利麵，醬汁收得剛好，麵條Q彈不過軟，吃起來還保有口感。雞肉份量不少，肉質嫩口，不會乾柴，搭配醬汁非常合拍。最讓我驚喜的是調味不會太重，整份吃完很有飽足感卻不覺得膩。分量算是蠻實在的，一份下來足夠當正餐。價錢合理，外送速度也快，真的很適合懶得出門又想吃點義式料理的時候。對於外送義大利麵來說，品質算是相當不錯，下次會想再試試看其他口味，像是海鮮或奶油白醬系列。很推薦給跟我一樣偶爾想在家也能吃到義式料理的人！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "邦Rex",
+                                                  "uri":  "https://www.google.com/maps/contrib/115770745123488311808/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUDTX_qtP1jT4oX_SCeoaT4S4cJ6ytfVansogAujTyhk7V45zs=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-09-16T12:58:58.644820082Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwM1dESjRiWFZ3YzJGM2VraGFibFZEVFdwUGNuYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwM1dESjRiWFZ3YzJGM2VraGFibFZEVFdwUGNuYxAB!2m1!1s0x3442abf848586ded:0xf755c34b656ef6ad"
+                    },
+                    {
+                        "name":  "places/ChIJ7W1YSPirQjQRrfZuZUvDVfc/reviews/ChZDSUhNMG9nS0VJQ0FnSURfc3BIRmFBEAE",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "The chicken thigh meat was absolutely delicious, and the crispy skin was amazing! 🙌🏻 The broth was also made with high-quality ingredients; I\u0027d definitely order another bowl next time! 🥹 The red sauce was perfectly seasoned, not too salty, and you could tell it was made with real tomatoes! The overall portion was generous, and I was so full after eating it! Free delivery was fantastic, and the delivery person, Beibei, was very friendly. I wish you booming business! 💖💖💖💖💖",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "雞腿肉相當好吃，皮脆超讚🙌🏻濃湯也能感受到真材實料，喝完下次想再加購一碗ㄌ🥹紅醬調味恰當，不會過於鹹，且能感受到真的是有用番茄下去熬煮的！整體份量多，吃完好飽～\n免外送費真的是好棒，外送的北北很親切，祝您們生意興隆！💖💖💖💖💖",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "黃于馨",
+                                                  "uri":  "https://www.google.com/maps/contrib/100257413345220914290/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUcfcbOr1EW8jSE0qB4hiRerIvt9xRICPylpQ0bHAkF1sUF6_bT=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-01-23T04:14:34.762252Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfc3BIRmFBEAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfc3BIRmFBEAE!2m1!1s0x3442abf848586ded:0xf755c34b656ef6ad"
+                    },
+                    {
+                        "name":  "places/ChIJ7W1YSPirQjQRrfZuZUvDVfc/reviews/ChZDSUhNMG9nS0VJZTdvci1yd3FpblJBEAE",
+                        "relativePublishTimeDescription":  "12 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "This is truly high-quality pasta! 🍝 I think it\u0027s much better value than many chain restaurants around here.\n\n🐔 The chicken pieces are huge and the skin is crispy~ The sauce is clearly homemade tomato sauce 🥫 Even guys were quite full!\n\nI really loved it ❤️ I\u0027ll definitely order often from now on~\n\nThe delivery guy said there\u0027s no delivery fee, which is really great – no restrictions and no delivery fee!\n\nHighly recommend! 👍👍👍",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "真的真材實料的義大利麵🍝\n我覺得比這附近很多間連鎖店CP值還高很多\n\n🐔雞肉非常大塊皮脆～醬料吃的出來是自製的番茄醬🥫\n連男生都吃的很飽！\n很喜歡❤️以後會常常訂購的～～\n\n阿北說沒有外送費用，覺得沒有限制還沒有外送費用 真的辛苦了！\n\n大推大推👍👍👍",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Amber Chiang",
+                                                  "uri":  "https://www.google.com/maps/contrib/110696073005635511118/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWe3h3cNU9zSijJjhgrLjLR7BSLRD9ZGbFD3mDGh7gGWzYrM_bf=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-06-09T03:39:11.544749Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJZTdvci1yd3FpblJBEAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJZTdvci1yd3FpblJBEAE!2m1!1s0x3442abf848586ded:0xf755c34b656ef6ad"
+                    },
+                    {
+                        "name":  "places/ChIJ7W1YSPirQjQRrfZuZUvDVfc/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzNjZfMEJREAE",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "A great lunch option (with delivery) in Taipei\u0027s Da\u0027an District and Songshan District.\nA colleague stumbled upon this place. The Chinese set menu is incredibly flavorful and exquisite, and the broth feels incredibly well-cooked. Today\u0027s meal was corn and radish soup, which was incredibly fragrant with the sweetness of corn and radish (I\u0027ve already taken a big sip of the soup in the photo). The pasta I had before was generous and rich, and the chicken was pan-fried to a crisp and delicious red. It\u0027s a strong flavor, and the accompanying broth is also incredibly rich (very rich). The whole meal was truly filling. Highly recommended.",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "台北市大安區松山區午餐（外送）的好選擇\n同事無意間找到的，中式套餐口味很足，很精緻，中式湯感覺真的是燉過，今天是玉米蘿蔔湯，整個湯就是充滿了玉米香跟蘿蔔甜（照片湯已經喝一大口了）。之前吃義大利麵份量很夠，味道很濃郁，雞肉煎的赤赤的，很好吃，屬於重口味的，附湯濃湯也不馬虎（很濃郁），整個吃完真的很飽足，大推薦",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "王小美",
+                                                  "uri":  "https://www.google.com/maps/contrib/101252169086753782104/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocK2Ghv9se_vLfpdJ0IzJnfoOFvwZSBuCC_WXzW50z1orsIyKg=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2024-11-19T04:30:48.885123Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzNjZfMEJREAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzNjZfMEJREAE!2m1!1s0x3442abf848586ded:0xf755c34b656ef6ad"
+                    },
+                    {
+                        "name":  "places/ChIJ7W1YSPirQjQRrfZuZUvDVfc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSNE1URnBPSGw0YjFwT1JqVmllSEpFUjNsRFJHYxAB",
+                        "relativePublishTimeDescription":  "5 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Delicious! I\u0027ve bought it multiple times.\n\nWhite Sauce Chicken/White Sauce Clams: The sauce is very fragrant, and both the chicken and clams are delicious. There\u0027s a lot of chicken, making it a great deal.\n\nPink Sauce: White sauce + red sauce, they don\u0027t clash at all, it\u0027s very unique.\n\nDelivery was free, and the soup and noodles were still hot when it arrived.",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "很好吃！回購多次了\n白醬雞肉/白醬蛤蜊：醬很香，雞肉跟蛤蜊也都很好吃，雞肉很多很划算\n粉紅醬：白醬＋紅醬，完全不會不搭，很特別\n外送不用錢，送來的時候湯跟麵還都還是熱的",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "陳冠妤",
+                                                  "uri":  "https://www.google.com/maps/contrib/116122671629594902699/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXnXAT_iovxqiP9noVCUO0ZdxGjfjg8SWrAZAZbOYEpY0jFEQw=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2025-12-16T16:34:44.272576180Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSNE1URnBPSGw0YjFwT1JqVmllSEpFUjNsRFJHYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSNE1URnBPSGw0YjFwT1JqVmllSEpFUjNsRFJHYxAB!2m1!1s0x3442abf848586ded:0xf755c34b656ef6ad"
+                    }
+                ]
 }

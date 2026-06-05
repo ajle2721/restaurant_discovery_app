@@ -1,130 +1,46 @@
-{
-  "id": "ChIJT0CZMOutQjQRjYwJPpi4ZS4",
-  "types": [
-    "brunch_restaurant",
-    "breakfast_restaurant",
-    "restaurant",
-    "point_of_interest",
-    "food",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2627 5822",
-  "formattedAddress": "114台灣臺北市內湖區西湖里內湖路一段323巷30號",
-  "location": {
-    "latitude": 25.084281999999998,
-    "longitude": 121.56789289999999
-  },
-  "rating": 4.2,
-  "userRatingCount": 573,
-  "displayName": {
-    "text": "麥味登 內湖園區店",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJT0CZMOutQjQRjYwJPpi4ZS4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKelpHRTVTbEJuVWxZMk1tUnZPSFIyZVhCSWVXYxAB",
-      "relativePublishTimeDescription": "3 個月前",
-      "rating": 5,
-      "text": {
-        "text": "【2訪】這間店位置很多，手機自己掃碼點餐，滿福堡好吃，法式吐司還有加蜂蜜，而且價格不貴",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "【2訪】這間店位置很多，手機自己掃碼點餐，滿福堡好吃，法式吐司還有加蜂蜜，而且價格不貴",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "泡芙",
-        "uri": "https://www.google.com/maps/contrib/106751574670791964381/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV1dOmFKJBgci0Cpdr_XeAf6ri1_IkBzlpsXTBrhpOyzX_wTbAw=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2026-02-19T17:34:56.742025256Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKelpHRTVTbEJuVWxZMk1tUnZPSFIyZVhCSWVXYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKelpHRTVTbEJuVWxZMk1tUnZPSFIyZVhCSWVXYxAB!2m1!1s0x3442adeb3099404f:0x2e65b8983e098c8d"
-    },
-    {
-      "name": "places/ChIJT0CZMOutQjQRjYwJPpi4ZS4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WdGVUWlZWRGRzT0UxUVJqSmlkRVpWWkZobVEyYxAB",
-      "relativePublishTimeDescription": "6 個月前",
-      "rating": 3,
-      "text": {
-        "text": "去年買可頌曾經有好幾次整片烤焦過，反應後今年就沒有吃到整片烤焦的，但不知道怎麼又有烤焦就出餐，希望出餐品質還是需要在注意跟管控，謝謝。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "去年買可頌曾經有好幾次整片烤焦過，反應後今年就沒有吃到整片烤焦的，但不知道怎麼又有烤焦就出餐，希望出餐品質還是需要在注意跟管控，謝謝。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Ting",
-        "uri": "https://www.google.com/maps/contrib/110366879052408603459/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJQentEJOIQLm8ITcZpEciWcGLw1_VE9FRRYA3QLmWEKGh6tQ=s128-c0x00000000-cc-rp-mo"
-      },
-      "publishTime": "2025-11-01T03:30:20.674321460Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WdGVUWlZWRGRzT0UxUVJqSmlkRVpWWkZobVEyYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WdGVUWlZWRGRzT0UxUVJqSmlkRVpWWkZobVEyYxAB!2m1!1s0x3442adeb3099404f:0x2e65b8983e098c8d"
-    },
-    {
-      "name": "places/ChIJT0CZMOutQjQRjYwJPpi4ZS4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psck9FUnVaalJ1TFRWMmVtUjBRVTFxWWxSd1NrRRAB",
-      "relativePublishTimeDescription": "8 個月前",
-      "rating": 3,
-      "text": {
-        "text": "餐點中規中矩，環境算整潔。\n沒客滿的情況下，等了30分鐘才上齊，觀察到店家很多電話點單。以及有些後到的人，反而比較快上餐，建議時間充足，可等待時再來，不然吃的時間壓力有點大。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "餐點中規中矩，環境算整潔。\n沒客滿的情況下，等了30分鐘才上齊，觀察到店家很多電話點單。以及有些後到的人，反而比較快上餐，建議時間充足，可等待時再來，不然吃的時間壓力有點大。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Koala",
-        "uri": "https://www.google.com/maps/contrib/103963939280283741057/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVooiRrRfmeoblsLWWOVZu4yXsPIJuNW2tA6J52JivP2MiIN20=s128-c0x00000000-cc-rp-mo-ba2"
-      },
-      "publishTime": "2025-09-08T05:55:10.741764374Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psck9FUnVaalJ1TFRWMmVtUjBRVTFxWWxSd1NrRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psck9FUnVaalJ1TFRWMmVtUjBRVTFxWWxSd1NrRRAB!2m1!1s0x3442adeb3099404f:0x2e65b8983e098c8d"
-    },
-    {
-      "name": "places/ChIJT0CZMOutQjQRjYwJPpi4ZS4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SdldUTk1TazFDTnpGNlNUWXhUR1UzWTBWTlNXYxAB",
-      "relativePublishTimeDescription": "2 個月前",
-      "rating": 5,
-      "text": {
-        "text": "看起來小小一間 但內用空間蠻大的",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "看起來小小一間 但內用空間蠻大的",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Bob",
-        "uri": "https://www.google.com/maps/contrib/104753978249232577541/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIBC65KNNZCIgcdFUw3o3zkHgapj5Ng-NR3Yy5gtDc9-ua1oA=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2026-03-07T05:16:48.949942645Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SdldUTk1TazFDTnpGNlNUWXhUR1UzWTBWTlNXYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SdldUTk1TazFDTnpGNlNUWXhUR1UzWTBWTlNXYxAB!2m1!1s0x3442adeb3099404f:0x2e65b8983e098c8d"
-    },
-    {
-      "name": "places/ChIJT0CZMOutQjQRjYwJPpi4ZS4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xJMGNtUm1OVmcxYWpoS1YxSk9ZMjV4UTB3NFNVRRAB",
-      "relativePublishTimeDescription": "2 個月前",
-      "rating": 4,
-      "text": {
-        "text": "2026/03/07\n後續還有再訪三次，改善非常多，很不錯\n\n2026/02/22\n不好的內用體驗\n12：53線上點餐套餐配冰紅茶並付款\n13：23才出其中一道配餐雞塊 隔壁比我晚到的桌已經上完義大利麵跟煎餃\n13：30主餐跟冰紅茶還沒來，我問店員能不能先上飲料，他才和我說今天製冰機壞掉，冰紅茶都沒了，不然幫我換熱紅茶\n\n什麼叫「不然幫我換熱紅茶」？\n我點單後等了快40分鐘才跟我說沒辦法做冰紅茶，連一聲不好意思都不說，也不早點來問要不要更換，等到我確認了才說，不問的話是打算等到什麼時候？？",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "2026/03/07\n後續還有再訪三次，改善非常多，很不錯\n\n2026/02/22\n不好的內用體驗\n12：53線上點餐套餐配冰紅茶並付款\n13：23才出其中一道配餐雞塊 隔壁比我晚到的桌已經上完義大利麵跟煎餃\n13：30主餐跟冰紅茶還沒來，我問店員能不能先上飲料，他才和我說今天製冰機壞掉，冰紅茶都沒了，不然幫我換熱紅茶\n\n什麼叫「不然幫我換熱紅茶」？\n我點單後等了快40分鐘才跟我說沒辦法做冰紅茶，連一聲不好意思都不說，也不早點來問要不要更換，等到我確認了才說，不問的話是打算等到什麼時候？？",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "王植",
-        "uri": "https://www.google.com/maps/contrib/108240493911389915228/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV9OTXCSl5XPP5vUjJYD1nP_DreP3RsxtJS2WPKWMr8T6HQubRG=s128-c0x00000000-cc-rp-mo"
-      },
-      "publishTime": "2026-03-07T03:48:14.090624601Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xJMGNtUm1OVmcxYWpoS1YxSk9ZMjV4UTB3NFNVRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xJMGNtUm1OVmcxYWpoS1YxSk9ZMjV4UTB3NFNVRRAB!2m1!1s0x3442adeb3099404f:0x2e65b8983e098c8d"
-    }
-  ]
+﻿{
+    "id":  "ChIJT0CZMOutQjQRjYwJPpi4ZS4",
+    "types":  [
+                  "brunch_restaurant",
+                  "breakfast_restaurant",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2627 5822",
+    "formattedAddress":  "No. 30號, Lane 323, Section 1, Neihu Rd, Xihu Village, Neihu District, Taipei City, Taiwan 114",
+    "location":  {
+                     "latitude":  25.084281999999998,
+                     "longitude":  121.56789289999999
+                 },
+    "rating":  4.2,
+    "userRatingCount":  573,
+    "displayName":  {
+                        "text":  "麥味登 內湖園區店",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJT0CZMOutQjQRjYwJPpi4ZS4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYdnEzUjVRRRAB",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Ok",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Ok",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "盧均昊",
+                                                  "uri":  "https://www.google.com/maps/contrib/116099073994689744212/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocL9eQ8OxlSscRwfzSXO5HnrZMBl0An_tGOfk_tmshTc7ePywQ=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2024-10-17T04:21:32.505060Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYdnEzUjVRRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYdnEzUjVRRRAB!2m1!1s0x3442adeb3099404f:0x2e65b8983e098c8d"
+                    }
+                ]
 }

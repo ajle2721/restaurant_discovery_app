@@ -1,129 +1,87 @@
-{
-  "id": "ChIJ7ZCdH96tQjQRqUwdk9A-blk",
-  "types": [
-    "italian_restaurant",
-    "restaurant",
-    "food",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2882 6066",
-  "formattedAddress": "111台灣臺北市士林區仁勇里文林路110巷7號1樓",
-  "location": {
-    "latitude": 25.0879045,
-    "longitude": 121.52661899999998
-  },
-  "rating": 4.2,
-  "userRatingCount": 143,
-  "displayName": {
-    "text": "醬子義大利麵",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJ7ZCdH96tQjQRqUwdk9A-blk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUdzZfYmtBRRAB",
-      "relativePublishTimeDescription": "2 年前",
-      "rating": 4,
-      "text": {
-        "text": "醬子義大利麵\n士林夜市巷弄美食，\n離捷運走路5分鐘，\n白醬蛤蠣直麵醬汁濃郁，\n份量不足也可加大一份15或兩份25，\n青醬招牌海陸醬汁清甜美味，\n用料上還算足夠，\n有自助的餐具和開水，\n滿滿的飽足。\n店內環境算乾淨，\n小細節略有忽略，\n例如座位也小水滴沒擦到，",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "醬子義大利麵\n士林夜市巷弄美食，\n離捷運走路5分鐘，\n白醬蛤蠣直麵醬汁濃郁，\n份量不足也可加大一份15或兩份25，\n青醬招牌海陸醬汁清甜美味，\n用料上還算足夠，\n有自助的餐具和開水，\n滿滿的飽足。\n店內環境算乾淨，\n小細節略有忽略，\n例如座位也小水滴沒擦到，",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Richard Chien",
-        "uri": "https://www.google.com/maps/contrib/108640562004956874863/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVecuL7oGC9dreg65GUiOw7UHstdZ70pVRZsqXU2uwIYGC80xjU=s128-c0x00000000-cc-rp-mo-ba8"
-      },
-      "publishTime": "2024-05-18T13:55:06.709452Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNUdzZfYmtBRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNUdzZfYmtBRRAB!2m1!1s0x3442adde1f9d90ed:0x596e3ed0931d4ca9"
-    },
-    {
-      "name": "places/ChIJ7ZCdH96tQjQRqUwdk9A-blk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KaFRGSlFkRzkyZFhSd2VrRlhjRU5NUjJOelQyYxAB",
-      "relativePublishTimeDescription": "4 個月前",
-      "rating": 2,
-      "text": {
-        "text": "義大利麵口味還可以接受，但uber eat上應該要標示過敏原吧？\n訂了上面寫主廚濃湯的品項，喝一口開始過敏才發現有蛤蠣在裡面，對海鮮過敏的人不太友善⋯🥹\n希望可以改善就好了",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "義大利麵口味還可以接受，但uber eat上應該要標示過敏原吧？\n訂了上面寫主廚濃湯的品項，喝一口開始過敏才發現有蛤蠣在裡面，對海鮮過敏的人不太友善⋯🥹\n希望可以改善就好了",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "YZ L",
-        "uri": "https://www.google.com/maps/contrib/101028049491206676629/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIX7i-I_Pf9L_4r7NHk-u5hlnXYq8gGS0djQhDFhNbgAbkXIg=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2026-01-05T05:19:18.455305378Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KaFRGSlFkRzkyZFhSd2VrRlhjRU5NUjJOelQyYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KaFRGSlFkRzkyZFhSd2VrRlhjRU5NUjJOelQyYxAB!2m1!1s0x3442adde1f9d90ed:0x596e3ed0931d4ca9"
-    },
-    {
-      "name": "places/ChIJ7ZCdH96tQjQRqUwdk9A-blk/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoZ3VMb1RnEAE",
-      "relativePublishTimeDescription": "3 年前",
-      "rating": 5,
-      "text": {
-        "text": "巷弄餐廳🍴環境舒適 老闆人也很親切\n餐點份量都很大份 價格實惠\n-\n🥣主廚濃湯\n白醬海鮮清湯的感覺 蛤蜊新鮮飽滿又多汁 沒有腥味 濃湯味道很足🍲\n-\n🍝白醬時蔬嫩雞柳\n肉有醃製過🥩所以很入味！肉質也很軟嫩\n麵很Q 搭配著濃郁的白醬底很好吃💖\n-\n🥘白醬時蔬嫩雞柳燉飯\n奶香味很重 加上起司🧀️香氣四溢  雞肉非常嫩連菇菇都非常juicy 完美鎖住水份✨\n-\n追蹤哀居po限動還可以麵量加大或免費加一分起司ㄛ🧀️",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "巷弄餐廳🍴環境舒適 老闆人也很親切\n餐點份量都很大份 價格實惠\n-\n🥣主廚濃湯\n白醬海鮮清湯的感覺 蛤蜊新鮮飽滿又多汁 沒有腥味 濃湯味道很足🍲\n-\n🍝白醬時蔬嫩雞柳\n肉有醃製過🥩所以很入味！肉質也很軟嫩\n麵很Q 搭配著濃郁的白醬底很好吃💖\n-\n🥘白醬時蔬嫩雞柳燉飯\n奶香味很重 加上起司🧀️香氣四溢  雞肉非常嫩連菇菇都非常juicy 完美鎖住水份✨\n-\n追蹤哀居po限動還可以麵量加大或免費加一分起司ㄛ🧀️",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "shara",
-        "uri": "https://www.google.com/maps/contrib/118255003548437991834/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXzGtM1GwO515TR5_9o0c8Iy7ehXaP54HA_ko1YMzpFqXY2X3aOlA=s128-c0x00000000-cc-rp-mo-ba8"
-      },
-      "publishTime": "2023-05-22T10:59:50.548384Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNoZ3VMb1RnEAE&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNoZ3VMb1RnEAE!2m1!1s0x3442adde1f9d90ed:0x596e3ed0931d4ca9"
-    },
-    {
-      "name": "places/ChIJ7ZCdH96tQjQRqUwdk9A-blk/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzeUlmTUtBEAE",
-      "relativePublishTimeDescription": "1 年前",
-      "rating": 5,
-      "text": {
-        "text": "在士林夜市對面的小巷子\n平價超高CP值\n約$130料超多\n醬好吃也給很多！麵超Q!\n目前吃了青醬.粉紅醬都推👍🏻\n之後想把所有口味吃一遍😝",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "在士林夜市對面的小巷子\n平價超高CP值\n約$130料超多\n醬好吃也給很多！麵超Q!\n目前吃了青醬.粉紅醬都推👍🏻\n之後想把所有口味吃一遍😝",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Vivian",
-        "uri": "https://www.google.com/maps/contrib/114936105509912240287/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXqpsuAeY5KytzJGdj6ek5H3BDdPBRTgpuuOdEAc32xuffcdgd3=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2024-11-02T09:35:24.319937Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMzeUlmTUtBEAE&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzeUlmTUtBEAE!2m1!1s0x3442adde1f9d90ed:0x596e3ed0931d4ca9"
-    },
-    {
-      "name": "places/ChIJ7ZCdH96tQjQRqUwdk9A-blk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21obVIyeDRjVmh5Tm1nd1kyVkJaMmczVWxGTGVuYxAB",
-      "relativePublishTimeDescription": "11 個月前",
-      "rating": 5,
-      "text": {
-        "text": "意外經過就停下來吃看看👀\n結果非常好吃！CP值很高\n尤其濃湯必點！！\n完全超過這個價錢的水準～～～推推👍",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "意外經過就停下來吃看看👀\n結果非常好吃！CP值很高\n尤其濃湯必點！！\n完全超過這個價錢的水準～～～推推👍",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "劉小煖",
-        "uri": "https://www.google.com/maps/contrib/102902976610049349484/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWUGrfK_sX5V_DNWP-2E0d9KCH1hCGbIfra9QHyZAf0TbvktPYoZQ=s128-c0x00000000-cc-rp-mo-ba4"
-      },
-      "publishTime": "2025-06-24T10:55:29.063262359Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21obVIyeDRjVmh5Tm1nd1kyVkJaMmczVWxGTGVuYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21obVIyeDRjVmh5Tm1nd1kyVkJaMmczVWxGTGVuYxAB!2m1!1s0x3442adde1f9d90ed:0x596e3ed0931d4ca9"
-    }
-  ]
+﻿{
+    "id":  "ChIJ7ZCdH96tQjQRqUwdk9A-blk",
+    "types":  [
+                  "italian_restaurant",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2882 6066",
+    "formattedAddress":  "111, Taiwan, Taipei City, Shilin District, Renyong Village, Lane 110, Wenlin Rd, 7號1樓",
+    "location":  {
+                     "latitude":  25.0879045,
+                     "longitude":  121.52661899999998
+                 },
+    "rating":  4.2,
+    "userRatingCount":  144,
+    "displayName":  {
+                        "text":  "醬子義大利麵",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJ7ZCdH96tQjQRqUwdk9A-blk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KaFRGSlFkRzkyZFhSd2VrRlhjRU5NUjJOelQyYxAB",
+                        "relativePublishTimeDescription":  "5 months ago",
+                        "rating":  2,
+                        "text":  {
+                                     "text":  "The pasta was acceptable, but shouldn\u0027t Uber Eats list allergens?\n\nI ordered a dish labeled \"Chef\u0027s Soup,\" and only after one sip did I realize I had an allergic reaction and discovered there were clams in it. Not very friendly to people with seafood allergies…🥹\nHopefully, they can improve on this.",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "義大利麵口味還可以接受，但uber eat上應該要標示過敏原吧？\n訂了上面寫主廚濃湯的品項，喝一口開始過敏才發現有蛤蠣在裡面，對海鮮過敏的人不太友善⋯🥹\n希望可以改善就好了",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "YZ L",
+                                                  "uri":  "https://www.google.com/maps/contrib/101028049491206676629/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocIX7i-I_Pf9L_4r7NHk-u5hlnXYq8gGS0djQhDFhNbgAbkXIg=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2026-01-05T05:19:18.455305378Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KaFRGSlFkRzkyZFhSd2VrRlhjRU5NUjJOelQyYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KaFRGSlFkRzkyZFhSd2VrRlhjRU5NUjJOelQyYxAB!2m1!1s0x3442adde1f9d90ed:0x596e3ed0931d4ca9"
+                    },
+                    {
+                        "name":  "places/ChIJ7ZCdH96tQjQRqUwdk9A-blk/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzeUlmTUtBEAE",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "在士林夜市對面的小巷子\n平價超高CP值\n約$130料超多\n醬好吃也給很多！麵超Q!\n目前吃了青醬.粉紅醬都推👍🏻\n之後想把所有口味吃一遍😝",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "在士林夜市對面的小巷子\n平價超高CP值\n約$130料超多\n醬好吃也給很多！麵超Q!\n目前吃了青醬.粉紅醬都推👍🏻\n之後想把所有口味吃一遍😝",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Vivian",
+                                                  "uri":  "https://www.google.com/maps/contrib/114936105509912240287/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXqpsuAeY5KytzJGdj6ek5H3BDdPBRTgpuuOdEAc32xuffcdgd3=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2024-11-02T09:35:24.319937Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMzeUlmTUtBEAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzeUlmTUtBEAE!2m1!1s0x3442adde1f9d90ed:0x596e3ed0931d4ca9"
+                    },
+                    {
+                        "name":  "places/ChIJ7ZCdH96tQjQRqUwdk9A-blk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21obVIyeDRjVmh5Tm1nd1kyVkJaMmczVWxGTGVuYxAB",
+                        "relativePublishTimeDescription":  "11 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "I stopped by by chance and decided to try it out 👀 It was delicious! Great value for money!\n\nThe rich soup is a must-order!!\n\nIt completely exceeds the price range~~~ Highly recommended 👍",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "意外經過就停下來吃看看👀\n結果非常好吃！CP值很高\n尤其濃湯必點！！\n完全超過這個價錢的水準～～～推推👍",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "劉小煖",
+                                                  "uri":  "https://www.google.com/maps/contrib/102902976610049349484/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWUGrfK_sX5V_DNWP-2E0d9KCH1hCGbIfra9QHyZAf0TbvktPYoZQ=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2025-06-24T10:55:29.063262359Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21obVIyeDRjVmh5Tm1nd1kyVkJaMmczVWxGTGVuYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21obVIyeDRjVmh5Tm1nd1kyVkJaMmczVWxGTGVuYxAB!2m1!1s0x3442adde1f9d90ed:0x596e3ed0931d4ca9"
+                    }
+                ]
 }

@@ -1,130 +1,130 @@
-{
-  "id": "ChIJcQV2D2GrQjQRNnfEuAacZp0",
-  "types": [
-    "asian_restaurant",
-    "restaurant",
-    "food",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2722 6258",
-  "formattedAddress": "4樓, No. 11號松高路信義區臺北市台灣 11073",
-  "location": {
-    "latitude": 25.039594599999997,
-    "longitude": 121.5654546
-  },
-  "rating": 4.8,
-  "websiteUri": "https://www.facebook.com/YABIKITCHEN/",
-  "userRatingCount": 716,
-  "displayName": {
-    "text": "YABI KITCHEN DREAM PLAZA店",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJcQV2D2GrQjQRNnfEuAacZp0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kUk56SlZVRTQwVEdGTFoxSTFPRWcyVjJkUVJYYxAB",
-      "relativePublishTimeDescription": "1 個月前",
-      "rating": 4,
-      "text": {
-        "text": "2025年10月點兩人份套餐\n整體來說可以吃的超飽，咖啡口味的排骨很特別，有茶磚的茶也很特別。但口味上覺得尚可而已，沒有到覺得好吃。但當天服務人員還算可以，整體還算滿意。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "2025年10月點兩人份套餐\n整體來說可以吃的超飽，咖啡口味的排骨很特別，有茶磚的茶也很特別。但口味上覺得尚可而已，沒有到覺得好吃。但當天服務人員還算可以，整體還算滿意。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Anny Ching",
-        "uri": "https://www.google.com/maps/contrib/117258638281995939361/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6VCdN6XJschd7dHNK1z72kqjttbZOLYFcLYXVciKbqNuRubg=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2026-02-02T14:03:18.434493894Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kUk56SlZVRTQwVEdGTFoxSTFPRWcyVjJkUVJYYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kUk56SlZVRTQwVEdGTFoxSTFPRWcyVjJkUVJYYxAB!2m1!1s0x3442ab610f760571:0x9d669c06b8c47736"
-    },
-    {
-      "name": "places/ChIJcQV2D2GrQjQRNnfEuAacZp0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsV1YwcFlSVnBKUlhkUmNEUjJMWEo1Ym10c2VHYxAB",
-      "relativePublishTimeDescription": "1 個月前",
-      "rating": 4,
-      "text": {
-        "text": "我覺得餐點是好吃的，味道怪怪的是湯裡面的麵麩，服務人員也很多，薑黃飯一開始上來時沒熱，後面續飯講後有變熱的，人均約1000，吃不完可打包~",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "我覺得餐點是好吃的，味道怪怪的是湯裡面的麵麩，服務人員也很多，薑黃飯一開始上來時沒熱，後面續飯講後有變熱的，人均約1000，吃不完可打包~",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "day happy",
-        "uri": "https://www.google.com/maps/contrib/114156313270956659437/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXvFxW_71tMxdAbjvjHOoJRfgM75PXkEBo8ZMLuauaI2my8TIcoKw=s128-c0x00000000-cc-rp-mo-ba7"
-      },
-      "publishTime": "2026-01-23T07:03:44.135394892Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsV1YwcFlSVnBKUlhkUmNEUjJMWEo1Ym10c2VHYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsV1YwcFlSVnBKUlhkUmNEUjJMWEo1Ym10c2VHYxAB!2m1!1s0x3442ab610f760571:0x9d669c06b8c47736"
-    },
-    {
-      "name": "places/ChIJcQV2D2GrQjQRNnfEuAacZp0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sV1pqRnRORmROVVdreFlubFJZVGRRYVhRMVpYYxAB",
-      "relativePublishTimeDescription": "1 個月前",
-      "rating": 4,
-      "text": {
-        "text": "薑黃飯很香，單吃就很好吃了。星洲肉骨茶排骨豬肚湯的肉骨茶味若有似無，但豬肚味道是挺濃厚的，不愛。仁當牛肉的醬汁濃稠，香味撲鼻，肉的口感是有嚼勁的。\nP.S. 有些菜是中央廚房做好的料理包加熱上桌喔！",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "薑黃飯很香，單吃就很好吃了。星洲肉骨茶排骨豬肚湯的肉骨茶味若有似無，但豬肚味道是挺濃厚的，不愛。仁當牛肉的醬汁濃稠，香味撲鼻，肉的口感是有嚼勁的。\nP.S. 有些菜是中央廚房做好的料理包加熱上桌喔！",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Yin-Chieh Hsu",
-        "uri": "https://www.google.com/maps/contrib/110293467206375940427/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLgQ1rBKWdT2qlDN4TbXlOhADHy53KY5rocQHdcNedpWGmrTA=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2026-02-15T20:44:03.364383414Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sV1pqRnRORmROVVdreFlubFJZVGRRYVhRMVpYYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sV1pqRnRORmROVVdreFlubFJZVGRRYVhRMVpYYxAB!2m1!1s0x3442ab610f760571:0x9d669c06b8c47736"
-    },
-    {
-      "name": "places/ChIJcQV2D2GrQjQRNnfEuAacZp0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sR1ZXWTNWRlJrWjI0eVRHRndObVpxVlRsTFFuYxAB",
-      "relativePublishTimeDescription": "1 個月前",
-      "rating": 3,
-      "text": {
-        "text": "偏重口味的一家店，味道都蠻濃郁的，但也可能這樣吃不多，一下子就會覺得膩了，畢竟適合多人來吃，每樣吃一點點就夠了，調味蠻特別的，是其他餐廳比較少看到，但不會覺得特別好吃或是驚艷，不會特別想回訪。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "偏重口味的一家店，味道都蠻濃郁的，但也可能這樣吃不多，一下子就會覺得膩了，畢竟適合多人來吃，每樣吃一點點就夠了，調味蠻特別的，是其他餐廳比較少看到，但不會覺得特別好吃或是驚艷，不會特別想回訪。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Ming-Shiu Lin",
-        "uri": "https://www.google.com/maps/contrib/111769151972996475536/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVmjODgFQsR2ukPe-Eg9GviPujwn3_WXAP9ui5EI7kuk60k47-u=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2026-01-30T02:58:41.940271490Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sR1ZXWTNWRlJrWjI0eVRHRndObVpxVlRsTFFuYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sR1ZXWTNWRlJrWjI0eVRHRndObVpxVlRsTFFuYxAB!2m1!1s0x3442ab610f760571:0x9d669c06b8c47736"
-    },
-    {
-      "name": "places/ChIJcQV2D2GrQjQRNnfEuAacZp0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wMU0wMWxVMDlIY2w4dFZtVjVRM0J4T0dOVlFVRRAB",
-      "relativePublishTimeDescription": "2 個月前",
-      "rating": 4,
-      "text": {
-        "text": "禮拜五晚上來吃\n很多道菜都沒了欸\n已他線上點餐的菜單為主\n好像也只有五人套餐\n我覺得整體偏貴\n咖啡排骨蠻好吃的 酷酷的\n但可能不會想再來吃",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "禮拜五晚上來吃\n很多道菜都沒了欸\n已他線上點餐的菜單為主\n好像也只有五人套餐\n我覺得整體偏貴\n咖啡排骨蠻好吃的 酷酷的\n但可能不會想再來吃",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "CC C",
-        "uri": "https://www.google.com/maps/contrib/101599036074432502921/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJi5vA_PVuRlqj7TxUWBiquGeSXdTpbguE7mKzXpC-bSiZeNojG=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2026-01-09T15:25:05.357807108Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wMU0wMWxVMDlIY2w4dFZtVjVRM0J4T0dOVlFVRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wMU0wMWxVMDlIY2w4dFZtVjVRM0J4T0dOVlFVRRAB!2m1!1s0x3442ab610f760571:0x9d669c06b8c47736"
-    }
-  ]
+﻿{
+    "id":  "ChIJcQV2D2GrQjQRNnfEuAacZp0",
+    "types":  [
+                  "asian_restaurant",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2722 6258",
+    "formattedAddress":  "4樓, No. 11號, Songgao Rd, Xingya Village, Xinyi District, Taipei City, Taiwan 11073",
+    "location":  {
+                     "latitude":  25.039594599999997,
+                     "longitude":  121.5654546
+                 },
+    "rating":  4.8,
+    "websiteUri":  "https://www.facebook.com/YABIKITCHEN/",
+    "userRatingCount":  734,
+    "displayName":  {
+                        "text":  "YABI KITCHEN DREAM PLAZA Branch",
+                        "languageCode":  "en"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJcQV2D2GrQjQRNnfEuAacZp0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GV2FqVnlURjlIYkZsMlZ6ZGZORzVWZEZremNYYxAB",
+                        "relativePublishTimeDescription":  "8 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "We stumbled upon this restaurant while on holiday in Taipei and decided to give it a try for lunch. With only two of us, the waiter suggested the tasting menu for two, which proved to be an excellent choice. The food arrived promptly, and we were treated to a delightful culinary journey.\n\nThe dishes were expertly prepared, with standout options including the coffee pork ribs, which were fall-off-the-bone tender, and the rich, flavorful curry chicken with soft, juicy chicken thighs. The eggplant stir-fried with minced pork and chili was also a hit. While the Thai-style green papaya salad was a slight letdown due to the papaya being slightly underripe and hard, it didn\u0027t detract from the overall experience.\n\nThe set came with a unique and refreshing bottle of oolong tea infused with carbonated water, which was a lovely touch. What truly elevated our dining experience, however, was the exceptional service. The wait staff were attentive, checking in frequently to ensure everything met our expectations. The service was prompt and efficient, adding to the overall positive experience.\n\nOverall, we highly recommend this restaurant for its delicious food, unique offerings, and top-notch service. It\u0027s definitely worth a visit!",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "We stumbled upon this restaurant while on holiday in Taipei and decided to give it a try for lunch. With only two of us, the waiter suggested the tasting menu for two, which proved to be an excellent choice. The food arrived promptly, and we were treated to a delightful culinary journey.\n\nThe dishes were expertly prepared, with standout options including the coffee pork ribs, which were fall-off-the-bone tender, and the rich, flavorful curry chicken with soft, juicy chicken thighs. The eggplant stir-fried with minced pork and chili was also a hit. While the Thai-style green papaya salad was a slight letdown due to the papaya being slightly underripe and hard, it didn\u0027t detract from the overall experience.\n\nThe set came with a unique and refreshing bottle of oolong tea infused with carbonated water, which was a lovely touch. What truly elevated our dining experience, however, was the exceptional service. The wait staff were attentive, checking in frequently to ensure everything met our expectations. The service was prompt and efficient, adding to the overall positive experience.\n\nOverall, we highly recommend this restaurant for its delicious food, unique offerings, and top-notch service. It\u0027s definitely worth a visit!",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "HL T",
+                                                  "uri":  "https://www.google.com/maps/contrib/110825861673188587177/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXbB77MR65tKy0GcttQpspVhjmpQl9sRqLFkhY7-ohb5xnlgqV3=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-09-28T06:03:26.591838363Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GV2FqVnlURjlIYkZsMlZ6ZGZORzVWZEZremNYYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GV2FqVnlURjlIYkZsMlZ6ZGZORzVWZEZremNYYxAB!2m1!1s0x3442ab610f760571:0x9d669c06b8c47736"
+                    },
+                    {
+                        "name":  "places/ChIJcQV2D2GrQjQRNnfEuAacZp0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Jd1dIQlJWbFV5TWtsbWJuWmtOR2RHTFhkd1YxRRAB",
+                        "relativePublishTimeDescription":  "5 months ago",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "Overall, positive experience! Initially I was disappointed because the three dishes we specifically went for weren’t available (beef, fish, and 肉骨茶. They said it was a quality issue from upper management. We were quite happy with what we ordered. Everything was tasty and service was good. Would go back!",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Overall, positive experience! Initially I was disappointed because the three dishes we specifically went for weren’t available (beef, fish, and 肉骨茶. They said it was a quality issue from upper management. We were quite happy with what we ordered. Everything was tasty and service was good. Would go back!",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "J",
+                                                  "uri":  "https://www.google.com/maps/contrib/115645818561621711360/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVWBLz_4PTmJ7mMLs0_xUfHZ2gTzPM3qQjIyYU7Asu2-Iw_Vl4=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-12-27T08:44:46.741360561Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Jd1dIQlJWbFV5TWtsbWJuWmtOR2RHTFhkd1YxRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Jd1dIQlJWbFV5TWtsbWJuWmtOR2RHTFhkd1YxRRAB!2m1!1s0x3442ab610f760571:0x9d669c06b8c47736"
+                    },
+                    {
+                        "name":  "places/ChIJcQV2D2GrQjQRNnfEuAacZp0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Kb1FteFNWSFphZUdoS1RtTmlhV0pXWXpkSWNIYxAB",
+                        "relativePublishTimeDescription":  "10 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "only waited for about 10-15 mins for a spot, atmosphere and decor in the restaurant looks super unique, looks like a european restaurant! service was also rrly good despite many people during rush hour. the food is really good and unique and price point was kinda okay! (2259 NTD for 7 dishes), free drink for a review tho! would come here again!",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "only waited for about 10-15 mins for a spot, atmosphere and decor in the restaurant looks super unique, looks like a european restaurant! service was also rrly good despite many people during rush hour. the food is really good and unique and price point was kinda okay! (2259 NTD for 7 dishes), free drink for a review tho! would come here again!",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Serena HENG",
+                                                  "uri":  "https://www.google.com/maps/contrib/102149707375343567684/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocIWDzVWJ6Sz-_tHxeVRUGXolqhcrw3l4qaVKmn-VL0XTW87Nw=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2025-07-26T06:29:48.052574593Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Kb1FteFNWSFphZUdoS1RtTmlhV0pXWXpkSWNIYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Kb1FteFNWSFphZUdoS1RtTmlhV0pXWXpkSWNIYxAB!2m1!1s0x3442ab610f760571:0x9d669c06b8c47736"
+                    },
+                    {
+                        "name":  "places/ChIJcQV2D2GrQjQRNnfEuAacZp0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4RVQwVm5aVFEwVlRkM01VSm5XVGt4VFdWUFQyYxAB",
+                        "relativePublishTimeDescription":  "6 months ago",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "We ordered six dishes, most of which are in the top 10 favorites.\n\nOur favorite was the Northern Thai fried fish. It was really delicious! The sauce had a nice balance of tangy and spicy, making it perfect to eat with rice.\n\nHowever, the coffee ribs, which are a specialty at the Nanshan branch, didn’t suit me or my friends. The combination of coffee and ribs didn’t work well for us, and the coffee flavor was too overpowering—tasting more like honey coffee.\n\nThe chicken curry and water spinach were just okay, nothing special.\n\nFor the rice, the turmeric rice was so fragrant 👍",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "We ordered six dishes, most of which are in the top 10 favorites.\n\nOur favorite was the Northern Thai fried fish. It was really delicious! The sauce had a nice balance of tangy and spicy, making it perfect to eat with rice.\n\nHowever, the coffee ribs, which are a specialty at the Nanshan branch, didn’t suit me or my friends. The combination of coffee and ribs didn’t work well for us, and the coffee flavor was too overpowering—tasting more like honey coffee.\n\nThe chicken curry and water spinach were just okay, nothing special.\n\nFor the rice, the turmeric rice was so fragrant 👍",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Audrey Clara 陳依青",
+                                                  "uri":  "https://www.google.com/maps/contrib/107442895426840175944/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocJfREPYyOXJOIHnMrEN5dIKvci3q8BsMo_cdV-kmRp_FlM-rw=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-11-25T13:49:50.082482937Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4RVQwVm5aVFEwVlRkM01VSm5XVGt4VFdWUFQyYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4RVQwVm5aVFEwVlRkM01VSm5XVGt4VFdWUFQyYxAB!2m1!1s0x3442ab610f760571:0x9d669c06b8c47736"
+                    },
+                    {
+                        "name":  "places/ChIJcQV2D2GrQjQRNnfEuAacZp0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tFNFp6aGpaMDUwVVVkNllXZEtVMEpqTTNscFRuYxAB",
+                        "relativePublishTimeDescription":  "9 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Good service \u0026 delicious food.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Good service \u0026 delicious food.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Tang Jessica",
+                                                  "uri":  "https://www.google.com/maps/contrib/103685646640355631444/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUIZr6DkUWSKZAEpFp_lhghGQ67e6LqJAiK_au9nbmjpTpyk4sE=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2025-08-24T09:30:41.310708492Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tFNFp6aGpaMDUwVVVkNllXZEtVMEpqTTNscFRuYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tFNFp6aGpaMDUwVVVkNllXZEtVMEpqTTNscFRuYxAB!2m1!1s0x3442ab610f760571:0x9d669c06b8c47736"
+                    }
+                ]
 }

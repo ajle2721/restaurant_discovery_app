@@ -1,129 +1,129 @@
-{
-  "id": "ChIJ4-IKRhGpQjQRD1vpwsIt6yU",
-  "types": [
-    "breakfast_restaurant",
-    "restaurant",
-    "food",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2371 3385",
-  "formattedAddress": "108台灣臺北市萬華區新起里西寧南路187號",
-  "location": {
-    "latitude": 25.041394,
-    "longitude": 121.50612799999998
-  },
-  "rating": 4.2,
-  "userRatingCount": 230,
-  "displayName": {
-    "text": "美味堡早午餐",
-    "languageCode": "zh"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJ4-IKRhGpQjQRD1vpwsIt6yU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25RNFpHZHdOMHRMWDBnNFluRm9RVW90ZFZCS1UxRRAB",
-      "relativePublishTimeDescription": "2 個月前",
-      "rating": 5,
-      "text": {
-        "text": "吐司弄得非常香脆，蛋餅也是脆脆的，味道非常棒，早餐是個不錯的選擇",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "吐司弄得非常香脆，蛋餅也是脆脆的，味道非常棒，早餐是個不錯的選擇",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Happy Wong",
-        "uri": "https://www.google.com/maps/contrib/103838012966297500309/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIn3FnvaKEDK7ES2qR_nYm5kzCcXwsV1-pkRRl6pS1OUFMSsw=s128-c0x00000000-cc-rp-mo"
-      },
-      "publishTime": "2026-03-10T01:31:56.104097602Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25RNFpHZHdOMHRMWDBnNFluRm9RVW90ZFZCS1UxRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25RNFpHZHdOMHRMWDBnNFluRm9RVW90ZFZCS1UxRRAB!2m1!1s0x3442a911460ae2e3:0x25eb2dc2c2e95b0f"
-    },
-    {
-      "name": "places/ChIJ4-IKRhGpQjQRD1vpwsIt6yU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSamFFWm9lVUpPWWpOaVpWTjJjek5qVlVaQldYYxAB",
-      "relativePublishTimeDescription": "9 個月前",
-      "rating": 5,
-      "text": {
-        "text": "上次點了經典德式拼盤，整個驚艷，歐姆蛋滑嫩香濃，真的超推！\n這次點了燻雞蛋吐司，也一樣好吃，燻雞香氣濃郁，完全不踩雷！",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "上次點了經典德式拼盤，整個驚艷，歐姆蛋滑嫩香濃，真的超推！\n這次點了燻雞蛋吐司，也一樣好吃，燻雞香氣濃郁，完全不踩雷！",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Mi Lin",
-        "uri": "https://www.google.com/maps/contrib/110313416979531579176/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocISYPzZtk4I9qcbwY6yhOQupGOQ0F5ef4iU3aGHA6JivHH_FmE=s128-c0x00000000-cc-rp-mo-ba4"
-      },
-      "publishTime": "2025-07-31T02:28:32.586807176Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSamFFWm9lVUpPWWpOaVpWTjJjek5qVlVaQldYYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSamFFWm9lVUpPWWpOaVpWTjJjek5qVlVaQldYYxAB!2m1!1s0x3442a911460ae2e3:0x25eb2dc2c2e95b0f"
-    },
-    {
-      "name": "places/ChIJ4-IKRhGpQjQRD1vpwsIt6yU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WWGFsY3lVRXRwZVVKWFpIQkJWRE5sT0hZM2RFRRAB",
-      "relativePublishTimeDescription": "11 個月前",
-      "rating": 3,
-      "text": {
-        "text": "肉鬆蛋餅很好，豬肉蛋吐司亦很好，主要吐槽的是飲品，鮮奶茶及招牌咖啡真的要命，不如給我兩杯冰水好了，奶茶沒茶味沒奶味，咖啡亦沒有咖啡味，感覺就是加入了大量的清水，希望店家真的改善一下，食物做得出色為何飲品可以這樣的離譜，不要將顧客當冤大頭！",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "肉鬆蛋餅很好，豬肉蛋吐司亦很好，主要吐槽的是飲品，鮮奶茶及招牌咖啡真的要命，不如給我兩杯冰水好了，奶茶沒茶味沒奶味，咖啡亦沒有咖啡味，感覺就是加入了大量的清水，希望店家真的改善一下，食物做得出色為何飲品可以這樣的離譜，不要將顧客當冤大頭！",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "keung303",
-        "uri": "https://www.google.com/maps/contrib/100554265164507386808/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJpcaWtBAo1kq_vFvmXbkFA3PWAQL9RymufoVU7lMs9AVpfQQ=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2025-06-16T15:54:40.141497936Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WWGFsY3lVRXRwZVVKWFpIQkJWRE5sT0hZM2RFRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WWGFsY3lVRXRwZVVKWFpIQkJWRE5sT0hZM2RFRRAB!2m1!1s0x3442a911460ae2e3:0x25eb2dc2c2e95b0f"
-    },
-    {
-      "name": "places/ChIJ4-IKRhGpQjQRD1vpwsIt6yU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkblJHdE1ibUY2Vmtsb04xUTRhMnR6TWpCRWRHYxAB",
-      "relativePublishTimeDescription": "5 個月前",
-      "rating": 5,
-      "text": {
-        "text": "還不錯吃，價格合理服務親切！",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "還不錯吃，價格合理服務親切！",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Ya Mariennn",
-        "uri": "https://www.google.com/maps/contrib/113975379728627805120/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUcM9z6vefU9OoeiwOWqxMRWHVtiN3aUMbA85bBysn37ZBrx8zymw=s128-c0x00000000-cc-rp-mo-ba8"
-      },
-      "publishTime": "2025-12-07T00:05:16.119141183Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkblJHdE1ibUY2Vmtsb04xUTRhMnR6TWpCRWRHYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkblJHdE1ibUY2Vmtsb04xUTRhMnR6TWpCRWRHYxAB!2m1!1s0x3442a911460ae2e3:0x25eb2dc2c2e95b0f"
-    },
-    {
-      "name": "places/ChIJ4-IKRhGpQjQRD1vpwsIt6yU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUNDZhWDRRRRAB",
-      "relativePublishTimeDescription": "2 年前",
-      "rating": 4,
-      "text": {
-        "text": "服務：\n店面有點小且座位擁擠，不過鐵板檯設置在店內居然沒什麼油煙味給推，位置上有桌號但菜單上沒有可以寫的地方很神秘，上菜時間有點久，煎檯老闆看起來很兇態度差，但實際上挺客氣的，客人離開也會打個招呼，看來是工作上比較認真的類型，可linepay、街口等電子支付。\n\n餐點：\n屬傳統早餐店類型，點套餐很划算，荷包蛋可選擇全熟或半熟，火腿蛋吐司不會過乾，奶茶則是調味的，也無法選甜度。\n\n因為開到下午兩點，對我來說是想吃點下午茶解饞的好選擇",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "服務：\n店面有點小且座位擁擠，不過鐵板檯設置在店內居然沒什麼油煙味給推，位置上有桌號但菜單上沒有可以寫的地方很神秘，上菜時間有點久，煎檯老闆看起來很兇態度差，但實際上挺客氣的，客人離開也會打個招呼，看來是工作上比較認真的類型，可linepay、街口等電子支付。\n\n餐點：\n屬傳統早餐店類型，點套餐很划算，荷包蛋可選擇全熟或半熟，火腿蛋吐司不會過乾，奶茶則是調味的，也無法選甜度。\n\n因為開到下午兩點，對我來說是想吃點下午茶解饞的好選擇",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "牛哥",
-        "uri": "https://www.google.com/maps/contrib/110612198894352142858/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVuCrsa9otRo6imBqHVzLT1w5PW_MACFsMOqdXfuWCiRn9KYDg=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2024-05-18T16:43:26.165508Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNUNDZhWDRRRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNUNDZhWDRRRRAB!2m1!1s0x3442a911460ae2e3:0x25eb2dc2c2e95b0f"
-    }
-  ]
+﻿{
+    "id":  "ChIJ4-IKRhGpQjQRD1vpwsIt6yU",
+    "types":  [
+                  "breakfast_restaurant",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2371 3385",
+    "formattedAddress":  "No. 187號, Xining Rd, Xinqi Village, Wanhua District, Taipei City, Taiwan 108",
+    "location":  {
+                     "latitude":  25.041394,
+                     "longitude":  121.50612799999998
+                 },
+    "rating":  4.2,
+    "userRatingCount":  230,
+    "displayName":  {
+                        "text":  "美味堡早午餐",
+                        "languageCode":  "zh"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJ4-IKRhGpQjQRD1vpwsIt6yU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ZMk5VdGthVnBCVHpSbVR6SkNVMWhaZGxwdGNXYxAB",
+                        "relativePublishTimeDescription":  "3 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "My partner and I stopped here for brunch and it was SO GOOD. Staff are doing multiple jobs (cooking, waiting, hosting etc.) and juggle multiple roles with grace. It’s easy to tell the amount of care that staff members put into their work here.\n\nMenus with pictures are available in English, Japanese, and Korean.\n\nXiexie, Zaijian!",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "My partner and I stopped here for brunch and it was SO GOOD. Staff are doing multiple jobs (cooking, waiting, hosting etc.) and juggle multiple roles with grace. It’s easy to tell the amount of care that staff members put into their work here.\n\nMenus with pictures are available in English, Japanese, and Korean.\n\nXiexie, Zaijian!",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Bryce Thompson",
+                                                  "uri":  "https://www.google.com/maps/contrib/101249031289927157512/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjX1dgsJ9JnCXuRgD_hWLDNuCVdgWGitbnp4lFqAvvjRAxfB_78S=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2026-03-05T05:10:21.320284476Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ZMk5VdGthVnBCVHpSbVR6SkNVMWhaZGxwdGNXYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ZMk5VdGthVnBCVHpSbVR6SkNVMWhaZGxwdGNXYxAB!2m1!1s0x3442a911460ae2e3:0x25eb2dc2c2e95b0f"
+                    },
+                    {
+                        "name":  "places/ChIJ4-IKRhGpQjQRD1vpwsIt6yU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GSU5teHFhSGRDUlVselR6RkxWbHB5V25OelkyYxAB",
+                        "relativePublishTimeDescription":  "3 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Our family came here on our last day in Taipei with limited cash in our pocket.  We tried several different things on the menu that were recommended by the owner.  Everything was great!  The owners are very friendly and the location is comfortable.  We would definitely come here again.\n\nFollow our travels @SeekYourEpic",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Our family came here on our last day in Taipei with limited cash in our pocket.  We tried several different things on the menu that were recommended by the owner.  Everything was great!  The owners are very friendly and the location is comfortable.  We would definitely come here again.\n\nFollow our travels @SeekYourEpic",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Chris Mattingly",
+                                                  "uri":  "https://www.google.com/maps/contrib/106135572940578226625/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjV-yuHv6u8XyKbj8qsWRRnHboouaoD83IlXvbX21s45PwbIMawRfQ=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2026-02-23T04:22:49.560793598Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GSU5teHFhSGRDUlVselR6RkxWbHB5V25OelkyYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GSU5teHFhSGRDUlVselR6RkxWbHB5V25OelkyYxAB!2m1!1s0x3442a911460ae2e3:0x25eb2dc2c2e95b0f"
+                    },
+                    {
+                        "name":  "places/ChIJ4-IKRhGpQjQRD1vpwsIt6yU/reviews/Ci9DQUlRQUNvZENodHljRjlvT201blVGUXdSbU0yWlZoa2EwUjNPRGw1Tm10R2QxRRAB",
+                        "relativePublishTimeDescription":  "6 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Small shop, with limited seating but the food is great!\n\nHad the chicken sandwich in the morning and i shouldnt be surprised that its using real chicken breast instead of processed chicken burger...\n\nHighly recommended for breakfast spot...\n\nTheir limited number of staff, hence its understandable that people need to be patient while waiting for their food",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Small shop, with limited seating but the food is great!\n\nHad the chicken sandwich in the morning and i shouldnt be surprised that its using real chicken breast instead of processed chicken burger...\n\nHighly recommended for breakfast spot...\n\nTheir limited number of staff, hence its understandable that people need to be patient while waiting for their food",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "drama addict202",
+                                                  "uri":  "https://www.google.com/maps/contrib/112144249504180495102/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjV_NUpsYYaW1IMnlFXfpL3Ig7J3AQ_geuYPUVKAFPNL25hzIvCr=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-11-23T02:09:01.510830053Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201blVGUXdSbU0yWlZoa2EwUjNPRGw1Tm10R2QxRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201blVGUXdSbU0yWlZoa2EwUjNPRGw1Tm10R2QxRRAB!2m1!1s0x3442a911460ae2e3:0x25eb2dc2c2e95b0f"
+                    },
+                    {
+                        "name":  "places/ChIJ4-IKRhGpQjQRD1vpwsIt6yU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWMU5taGhSMVIwT1c0ek9XZ3pSR1JXWmxOQkxXYxAB",
+                        "relativePublishTimeDescription":  "7 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Friendly clerks. The male clerk may look stressful but it’s actually because he’s cooking in front of a hot stove; not like what some reviews said at all.\n\nThe food is decent and clean. I like the sauce of the danping. I tried the sauce somewhere else and it’s a bit too fishy but this one is good👌. Their meat is quite good. The price is reasonable with air conditioned sometimes.\n\nThe menus are in English and the clerk can speak English too🥰.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Friendly clerks. The male clerk may look stressful but it’s actually because he’s cooking in front of a hot stove; not like what some reviews said at all.\n\nThe food is decent and clean. I like the sauce of the danping. I tried the sauce somewhere else and it’s a bit too fishy but this one is good👌. Their meat is quite good. The price is reasonable with air conditioned sometimes.\n\nThe menus are in English and the clerk can speak English too🥰.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Shin 1994",
+                                                  "uri":  "https://www.google.com/maps/contrib/113600487262999826669/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXI9Ex1rRogk19NDN6aAc8wyBFcuFR8ih0K-cgGklGgq7G3BKVi=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2025-10-14T11:55:56.777889422Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWMU5taGhSMVIwT1c0ek9XZ3pSR1JXWmxOQkxXYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWMU5taGhSMVIwT1c0ek9XZ3pSR1JXWmxOQkxXYxAB!2m1!1s0x3442a911460ae2e3:0x25eb2dc2c2e95b0f"
+                    },
+                    {
+                        "name":  "places/ChIJ4-IKRhGpQjQRD1vpwsIt6yU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaUFkxVkVZa1kwV1Zwd1N5MUpjVWt0WDFaRGNsRRAB",
+                        "relativePublishTimeDescription":  "7 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "English Menu that you can scribble on with what you want. There’s also one with images too. Cash Only. But food was cheap and tasty! Definitely can recommend the Pork Floss and the Bacon pancake roll.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "English Menu that you can scribble on with what you want. There’s also one with images too. Cash Only. But food was cheap and tasty! Definitely can recommend the Pork Floss and the Bacon pancake roll.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Andrew Deakin",
+                                                  "uri":  "https://www.google.com/maps/contrib/106777681811013401739/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocJaDsJ-AwbXQxsKoW9s1i-BLZPVF6qgssFAaE5SQPli78NmWA=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-10-25T05:25:47.489756015Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaUFkxVkVZa1kwV1Zwd1N5MUpjVWt0WDFaRGNsRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaUFkxVkVZa1kwV1Zwd1N5MUpjVWt0WDFaRGNsRRAB!2m1!1s0x3442a911460ae2e3:0x25eb2dc2c2e95b0f"
+                    }
+                ]
 }

@@ -1,133 +1,92 @@
-{
-  "id": "ChIJ90YV0NytQjQRu7MgOPDCZkc",
-  "types": [
-    "italian_restaurant",
-    "pizza_restaurant",
-    "food_store",
-    "restaurant",
-    "food",
-    "store",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2658 0370",
-  "formattedAddress": "114台灣臺北市內湖區內湖路一段372號",
-  "location": {
-    "latitude": 25.0811046,
-    "longitude": 121.57172759999999
-  },
-  "rating": 4.4,
-  "websiteUri": "https://inline.app/booking/-MtY40F7vqmBZWGT2j1T:inline-live-2/-MtY40TAov6r7Q_8Vg0P?language=zh-tw",
-  "userRatingCount": 888,
-  "displayName": {
-    "text": "漫時生活",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJ90YV0NytQjQRu7MgOPDCZkc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwbVYxWlVlVVZsVVdSbE9FNW9TMWxsYjJ4a2QyYxAB",
-      "relativePublishTimeDescription": "1 個月前",
-      "rating": 4,
-      "text": {
-        "text": "餐飲體驗對應價格～\n價格偏高，東西好吃、一成服務費。一個人大約$1000\n\n服務人員訓練需加強，越南店員聽不太懂中文，台灣店員重複不同人上來問問題。原本訂位說沙發，另一位堅持帶我們到椅子，本來打算不吃了，剛好原接電話人員帶我們到沙發區",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "餐飲體驗對應價格～\n價格偏高，東西好吃、一成服務費。一個人大約$1000\n\n服務人員訓練需加強，越南店員聽不太懂中文，台灣店員重複不同人上來問問題。原本訂位說沙發，另一位堅持帶我們到椅子，本來打算不吃了，剛好原接電話人員帶我們到沙發區",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "May Chen",
-        "uri": "https://www.google.com/maps/contrib/112506883939750095173/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKFPpnOmhmC1EnK1afAoMdwr2Ep1N-S2FrI2XS34h-q4rAJXA=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2026-02-19T05:32:10.552021987Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwbVYxWlVlVVZsVVdSbE9FNW9TMWxsYjJ4a2QyYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwbVYxWlVlVVZsVVdSbE9FNW9TMWxsYjJ4a2QyYxAB!2m1!1s0x3442addcd01546f7:0x4766c2f03820b3bb"
-    },
-    {
-      "name": "places/ChIJ90YV0NytQjQRu7MgOPDCZkc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wYVgybG1iRXg2ZDFWNlRWVkRORGRVTTA0dFkyYxAB",
-      "relativePublishTimeDescription": "3 個月前",
-      "rating": 3,
-      "text": {
-        "text": "初次到訪，餐點普遍不錯吃，環境也可以，但服務人員態度令人無法恭維。一是口頭點餐一直略為不耐煩叫我等一下，因為一個套餐含的選項必須要一個一個輸入，重點我也是慢慢一個一個告知要的品項，速度也不快，這口氣與態度確實令人不舒服。再來是久違的同學聚餐難免分享些小禮物，就是分發在坐的同學如此而已，並未拆開食用，因為我們知道店家禁止外食.但自此之後每拿出個什麼東西，服務員就一直看過來或走來假意收盤子，防止客人吃東西到這個地步，感覺被監視是很糟糕的體驗，是不是太矯枉過正？最後最誇張的事，我吃完的義大利麵放旁邊桌子一直視若無睹不收掉，我的同學盤裡還有一口食物，叉子也還拿在手上，居然走來問我同學：“這盤不用那我收走了喔”手同步過來準備收走🙄這是很不禮貌的行為欸！非常震驚.",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "初次到訪，餐點普遍不錯吃，環境也可以，但服務人員態度令人無法恭維。一是口頭點餐一直略為不耐煩叫我等一下，因為一個套餐含的選項必須要一個一個輸入，重點我也是慢慢一個一個告知要的品項，速度也不快，這口氣與態度確實令人不舒服。再來是久違的同學聚餐難免分享些小禮物，就是分發在坐的同學如此而已，並未拆開食用，因為我們知道店家禁止外食.但自此之後每拿出個什麼東西，服務員就一直看過來或走來假意收盤子，防止客人吃東西到這個地步，感覺被監視是很糟糕的體驗，是不是太矯枉過正？最後最誇張的事，我吃完的義大利麵放旁邊桌子一直視若無睹不收掉，我的同學盤裡還有一口食物，叉子也還拿在手上，居然走來問我同學：“這盤不用那我收走了喔”手同步過來準備收走🙄這是很不禮貌的行為欸！非常震驚.",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "吳家禛",
-        "uri": "https://www.google.com/maps/contrib/105430322927526306424/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK7s4WORMZz3KmJ1ozuyrzYeHhqc5c1ZWxIl9sfD__Rkc0WIQ=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2025-12-05T11:03:20.167262143Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wYVgybG1iRXg2ZDFWNlRWVkRORGRVTTA0dFkyYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wYVgybG1iRXg2ZDFWNlRWVkRORGRVTTA0dFkyYxAB!2m1!1s0x3442addcd01546f7:0x4766c2f03820b3bb"
-    },
-    {
-      "name": "places/ChIJ90YV0NytQjQRu7MgOPDCZkc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aTGRsQnpkRTA0TVU5YVZEUkdUVzlDU0VweWRGRRAB",
-      "relativePublishTimeDescription": "3 週前",
-      "rating": 5,
-      "text": {
-        "text": "第一次用餐，滿驚豔的 空間舒適寬敞，服務人員態度良好，餐點CP值高，份量超大，兒童餐夠一大一小（3歲）吃",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "第一次用餐，滿驚豔的 空間舒適寬敞，服務人員態度良好，餐點CP值高，份量超大，兒童餐夠一大一小（3歲）吃",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Henny Cheng",
-        "uri": "https://www.google.com/maps/contrib/108596891234692373173/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUnkRFMwXeTcLYei0mrDbvpTYUJqNevaVhfIMEv5fecWiYnDc-QA=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2026-02-27T05:19:14.663040010Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aTGRsQnpkRTA0TVU5YVZEUkdUVzlDU0VweWRGRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aTGRsQnpkRTA0TVU5YVZEUkdUVzlDU0VweWRGRRAB!2m1!1s0x3442addcd01546f7:0x4766c2f03820b3bb"
-    },
-    {
-      "name": "places/ChIJ90YV0NytQjQRu7MgOPDCZkc/reviews/Ci9DQUlRQUNvZENodHljRjlvT205YVpVMXBWVTFQWldZMldXUlRkMXBYVTJGUk5sRRAB",
-      "relativePublishTimeDescription": "3 個月前",
-      "rating": 5,
-      "text": {
-        "text": "不錯吃，\n尤其是花生麻糬披薩，\n原以為味道會很奇怪，\n但意外的好吃😋",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "不錯吃，\n尤其是花生麻糬披薩，\n原以為味道會很奇怪，\n但意外的好吃😋",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "納蘭雪",
-        "uri": "https://www.google.com/maps/contrib/109744058489851608122/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLLgNnprXkAgE97keh5JXN4hq5dLR9r72QCjD4MMo-E5LPNWA=s128-c0x00000000-cc-rp-mo-ba8"
-      },
-      "publishTime": "2025-12-08T06:42:08.144510687Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205YVpVMXBWVTFQWldZMldXUlRkMXBYVTJGUk5sRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205YVpVMXBWVTFQWldZMldXUlRkMXBYVTJGUk5sRRAB!2m1!1s0x3442addcd01546f7:0x4766c2f03820b3bb"
-    },
-    {
-      "name": "places/ChIJ90YV0NytQjQRu7MgOPDCZkc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OTk4zVnlhblJaZEhoeWEzTnJlbFZyTVhKQ1ZXYxAB",
-      "relativePublishTimeDescription": "7 個月前",
-      "rating": 4,
-      "text": {
-        "text": "店內的氛圍是還不錯的，中間有大螢幕播著棒球比賽、環境很大也算明亮，餐點不會等太久，是線上點餐的方式，店員都很有禮貌，座位有雙人四人還有包廂的，選擇蠻多的，店往前一點就有一個停車場\n\n奶油燻雞義大利麵奶味蠻香的但除了奶味就沒有什麼味道，鮭魚簡餐的鮭魚還不錯吃，整體吃起來不會太膩，開胃點個沙拉吃很不錯，沙拉上的燻雞很嫩很大塊，披薩很脆餅，上面的番茄醬和茄汁義大利麵的番茄醬，真的很茄，偏酸的那種，和想像的不太一樣，甜點的部分，青檸生乳酪還不錯",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "店內的氛圍是還不錯的，中間有大螢幕播著棒球比賽、環境很大也算明亮，餐點不會等太久，是線上點餐的方式，店員都很有禮貌，座位有雙人四人還有包廂的，選擇蠻多的，店往前一點就有一個停車場\n\n奶油燻雞義大利麵奶味蠻香的但除了奶味就沒有什麼味道，鮭魚簡餐的鮭魚還不錯吃，整體吃起來不會太膩，開胃點個沙拉吃很不錯，沙拉上的燻雞很嫩很大塊，披薩很脆餅，上面的番茄醬和茄汁義大利麵的番茄醬，真的很茄，偏酸的那種，和想像的不太一樣，甜點的部分，青檸生乳酪還不錯",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "潘小編",
-        "uri": "https://www.google.com/maps/contrib/107294217269579267807/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU2VZZPz4ZRizz03QMx4r-KutzgqIrlqfWeuw1JQTsmmcIiYSw4=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2025-08-08T11:49:42.567103116Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OTk4zVnlhblJaZEhoeWEzTnJlbFZyTVhKQ1ZXYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OTk4zVnlhblJaZEhoeWEzTnJlbFZyTVhKQ1ZXYxAB!2m1!1s0x3442addcd01546f7:0x4766c2f03820b3bb"
-    }
-  ]
+﻿{
+    "id":  "ChIJ90YV0NytQjQRu7MgOPDCZkc",
+    "types":  [
+                  "italian_restaurant",
+                  "pizza_restaurant",
+                  "food_store",
+                  "store",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2658 0370",
+    "formattedAddress":  "No. 372號, Section 1, Neihu Rd, Gangqian Village, Neihu District, Taipei City, Taiwan 114",
+    "location":  {
+                     "latitude":  25.0811046,
+                     "longitude":  121.57172759999999
+                 },
+    "rating":  4.4,
+    "websiteUri":  "https://inline.app/booking/-MtY40F7vqmBZWGT2j1T:inline-live-2/-MtY40TAov6r7Q_8Vg0P?language=zh-tw",
+    "priceLevel":  "PRICE_LEVEL_MODERATE",
+    "userRatingCount":  912,
+    "displayName":  {
+                        "text":  "Leisure Time Cafe",
+                        "languageCode":  "en"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJ90YV0NytQjQRu7MgOPDCZkc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KS2QyOUNkVzU2VFdneFp5MUtUVzFzYW5ka1JrRRAB",
+                        "relativePublishTimeDescription":  "4 months ago",
+                        "rating":  1,
+                        "text":  {
+                                     "text":  "DON\u0027T order the squid!!! 🦑 I never give bad reviews but I was truly insulted by the quality of food and service here. I ordered the squid lunch set. Upon first bite, I tasted a weird flavor. I thought maybe I just wasn\u0027t familiar with the sauce. After the third bite, I could not handle the taste anymore and spit it out. I asked the server what kind of sauce they use and they said just a sauce for the grilled squid. They seemed annoyed that I even asked. Then they took it to the kitchen to \"taste\" and said there was nothing wrong. I asked if they tried it and they seemed irritated that they had to repeat themselves. They tried to gaslight me by saying nobody else had a problem with this dish, but when I walked around the restaurant to go to the bathroom, I saw that nobody else ordered it so of course nobody else had a problem. I asked the other guests at my table to smell the squid and they all stated that there was a strong stinky smell protruding from the squid. Clearly spoiled. Even the \"spine\" in the squid shrunk beyond recognition, a sign of being frozen for too long. The squid had a nasty taste and smell. Nobody else dared to try it. They offered me another main meal and I chose the chicken, which is $40 less than the squid. However, they charged me for the squid meal that I barely ate and said the chicken was \"on the house.\" So I paid $300 for a $260 meal plus a stomachache. Not to mention the 10% service fee. It would have been a different story if they took responsibility for their spoiled food, but they didn\u0027t and instead gaslighted me. I\u0027m not a chef but I know when food has gone bad, especially seafood. To serve that to customers without remorse is unforgiveable. I will not be returning here again.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "DON\u0027T order the squid!!! 🦑 I never give bad reviews but I was truly insulted by the quality of food and service here. I ordered the squid lunch set. Upon first bite, I tasted a weird flavor. I thought maybe I just wasn\u0027t familiar with the sauce. After the third bite, I could not handle the taste anymore and spit it out. I asked the server what kind of sauce they use and they said just a sauce for the grilled squid. They seemed annoyed that I even asked. Then they took it to the kitchen to \"taste\" and said there was nothing wrong. I asked if they tried it and they seemed irritated that they had to repeat themselves. They tried to gaslight me by saying nobody else had a problem with this dish, but when I walked around the restaurant to go to the bathroom, I saw that nobody else ordered it so of course nobody else had a problem. I asked the other guests at my table to smell the squid and they all stated that there was a strong stinky smell protruding from the squid. Clearly spoiled. Even the \"spine\" in the squid shrunk beyond recognition, a sign of being frozen for too long. The squid had a nasty taste and smell. Nobody else dared to try it. They offered me another main meal and I chose the chicken, which is $40 less than the squid. However, they charged me for the squid meal that I barely ate and said the chicken was \"on the house.\" So I paid $300 for a $260 meal plus a stomachache. Not to mention the 10% service fee. It would have been a different story if they took responsibility for their spoiled food, but they didn\u0027t and instead gaslighted me. I\u0027m not a chef but I know when food has gone bad, especially seafood. To serve that to customers without remorse is unforgiveable. I will not be returning here again.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Anna Chen",
+                                                  "uri":  "https://www.google.com/maps/contrib/110547477520423333814/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVqfkUN5HChB0U8jTGOqwho9h86dbuSweylycSL6JH09SMobVU=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2026-02-02T06:43:45.697988707Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KS2QyOUNkVzU2VFdneFp5MUtUVzFzYW5ka1JrRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KS2QyOUNkVzU2VFdneFp5MUtUVzFzYW5ka1JrRRAB!2m1!1s0x3442addcd01546f7:0x4766c2f03820b3bb"
+                    },
+                    {
+                        "name":  "places/ChIJ90YV0NytQjQRu7MgOPDCZkc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJNXBpQURBEAE",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "They let you sit and talk as long as you want and this is why we come here often.  The food is actually pretty good as well. I’ve tried many different dishes and they are not superb but they are not too bad.   The vibe is chill and they don’t rush you so this is a good place to chat and relax with good friends.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "They let you sit and talk as long as you want and this is why we come here often.  The food is actually pretty good as well. I’ve tried many different dishes and they are not superb but they are not too bad.   The vibe is chill and they don’t rush you so this is a good place to chat and relax with good friends.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Sheryl Lee",
+                                                  "uri":  "https://www.google.com/maps/contrib/104230188088236299629/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocIns07jHUuNdOsPZ1leBsLHThXDaJy7IaRkfhZc-wz6SKWRvuu-=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2025-04-01T14:12:27.659878Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJNXBpQURBEAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJNXBpQURBEAE!2m1!1s0x3442addcd01546f7:0x4766c2f03820b3bb"
+                    },
+                    {
+                        "name":  "places/ChIJ90YV0NytQjQRu7MgOPDCZkc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psbFYzUkRlRkJvYkdsUmVXZEdTa1ZWT0dkRFVVRRAB",
+                        "relativePublishTimeDescription":  "6 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Excellent place to just relax. A relaxing vibe and nice selection of drinks and food",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Excellent place to just relax. A relaxing vibe and nice selection of drinks and food",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Ismael B",
+                                                  "uri":  "https://www.google.com/maps/contrib/112810055219464598901/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXDUhXhLBa4Tg5h_tInMmeKPE6x1PUHfRO3ORzauO-cifl4P40V=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-12-03T08:33:01.294806975Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psbFYzUkRlRkJvYkdsUmVXZEdTa1ZWT0dkRFVVRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psbFYzUkRlRkJvYkdsUmVXZEdTa1ZWT0dkRFVVRRAB!2m1!1s0x3442addcd01546f7:0x4766c2f03820b3bb"
+                    }
+                ]
 }

@@ -1,138 +1,54 @@
-{
-  "id": "ChIJ9_ossuWrQjQRgFg5vdt84R4",
-  "types": [
-    "coffee_stand",
-    "coffee_roastery",
-    "cafe",
-    "dessert_shop",
-    "meal_delivery",
-    "food_delivery",
-    "confectionery",
-    "food_store",
-    "restaurant",
-    "food",
-    "point_of_interest",
-    "store",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2785 3887",
-  "formattedAddress": "115台灣臺北市南港區西新里昆陽街82號1樓",
-  "location": {
-    "latitude": 25.0519921,
-    "longitude": 121.59329659999999
-  },
-  "rating": 4.6,
-  "websiteUri": "https://www.insingerkaffee.com.tw/",
-  "userRatingCount": 463,
-  "displayName": {
-    "text": "硬性格 外帶咖啡 INSINGER Kaffee 自家烘焙",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJ9_ossuWrQjQRgFg5vdt84R4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOelNrRnJSeTFFVG1nMlFtbzNTRTh3Vm5GT1NYYxAB",
-      "relativePublishTimeDescription": "8 個月前",
-      "rating": 4,
-      "text": {
-        "text": "有賣咖啡、茶類和奶茶類，平日中午女店員一人作業，看起來很辛苦，但服務態度很好。點了蜜檸咖啡類似西西里，甜度固定無法調整，整體味道滿平衡的，順口好喝，咖啡香氣雖然不太夠，尾韻也有一點點澀味，但以這個大杯110元的價格來說算可以了，還不錯喝。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "有賣咖啡、茶類和奶茶類，平日中午女店員一人作業，看起來很辛苦，但服務態度很好。點了蜜檸咖啡類似西西里，甜度固定無法調整，整體味道滿平衡的，順口好喝，咖啡香氣雖然不太夠，尾韻也有一點點澀味，但以這個大杯110元的價格來說算可以了，還不錯喝。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Lèvr【第10級在地嚮導】",
-        "uri": "https://www.google.com/maps/contrib/115131688509506708788/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWReqt4dR6N7p45ZpSr8ODGEAaWrEOYRW_WXQCLNWUULTLqEq91g=s128-c0x00000000-cc-rp-mo-ba8"
-      },
-      "publishTime": "2025-09-12T07:21:39.702737962Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOelNrRnJSeTFFVG1nMlFtbzNTRTh3Vm5GT1NYYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOelNrRnJSeTFFVG1nMlFtbzNTRTh3Vm5GT1NYYxAB!2m1!1s0x3442abe5b22cfaf7:0x1ee17cdbbd395880"
-    },
-    {
-      "name": "places/ChIJ9_ossuWrQjQRgFg5vdt84R4/reviews/ChdDSUhNMG9nS0VOYXpoNXk2dU1qVGtRRRAB",
-      "relativePublishTimeDescription": "1 年前",
-      "rating": 5,
-      "text": {
-        "text": "｜硬性格 INSINGER Kaffee｜\n/\n☕️ ·衣索比亞 西達馬 阿貝果鎮 波淇莎村 $125\n☕️ · 1+1 （長黑、短笛） $150\n🍮 · 香草蘭姆酒布丁 $100\n🥧 · 鹹司康 $50\n/\n硬性格在昆陽又新開了一間外帶店，之前喝過他們在京站附近的店，主打自家烘焙且又能以百元初喝到很棒的手沖！佛心店家🙌\n\n這次點了1+1立飲，配方豆是中深焙，1+1可以選濃縮或長黑擇一，另一則是短笛、卡布、小白、Dirty、瑪奇朵擇一，兩杯只要 $150 就可以獲得滿滿好喝咖啡因能量～👀\n\n手沖的話種類非常多，從中到深焙都有，這次點了衣索比亞耶加雪菲水洗的豆子，帶有花香及果香甜感，非常乾淨的風味，我很喜歡🫶\n\n店內還有販售多種甜點，像是布丁、奶酪、巴斯克、布朗尼、司康等。布丁屬於偏紮實，帶有焦糖的苦甜，義式香料的司康帶有濃濃香料及蒜香，口感酥不會乾，兩款都不錯～\n\n推薦大家有來南港可以來外帶一杯咖啡，現場還有咖啡豆、濾掛咖啡，也可以於官網訂購來店取貨免運費唷！\n/\n📍營業時間：08:00-17:00（週一至週五）/ 08:30-16:30（週六、週日）\n📍交通：捷運 #昆陽站 走路約5分鐘",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "｜硬性格 INSINGER Kaffee｜\n/\n☕️ ·衣索比亞 西達馬 阿貝果鎮 波淇莎村 $125\n☕️ · 1+1 （長黑、短笛） $150\n🍮 · 香草蘭姆酒布丁 $100\n🥧 · 鹹司康 $50\n/\n硬性格在昆陽又新開了一間外帶店，之前喝過他們在京站附近的店，主打自家烘焙且又能以百元初喝到很棒的手沖！佛心店家🙌\n\n這次點了1+1立飲，配方豆是中深焙，1+1可以選濃縮或長黑擇一，另一則是短笛、卡布、小白、Dirty、瑪奇朵擇一，兩杯只要 $150 就可以獲得滿滿好喝咖啡因能量～👀\n\n手沖的話種類非常多，從中到深焙都有，這次點了衣索比亞耶加雪菲水洗的豆子，帶有花香及果香甜感，非常乾淨的風味，我很喜歡🫶\n\n店內還有販售多種甜點，像是布丁、奶酪、巴斯克、布朗尼、司康等。布丁屬於偏紮實，帶有焦糖的苦甜，義式香料的司康帶有濃濃香料及蒜香，口感酥不會乾，兩款都不錯～\n\n推薦大家有來南港可以來外帶一杯咖啡，現場還有咖啡豆、濾掛咖啡，也可以於官網訂購來店取貨免運費唷！\n/\n📍營業時間：08:00-17:00（週一至週五）/ 08:30-16:30（週六、週日）\n📍交通：捷運 #昆陽站 走路約5分鐘",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Andrea Lin",
-        "uri": "https://www.google.com/maps/contrib/103250787787550680686/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK9AYD4a-NYgx1gpAjrnRpyPd4G9zHainYzBBGG6JogCp8TIGW8=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2025-05-20T12:31:55.146174Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VOYXpoNXk2dU1qVGtRRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VOYXpoNXk2dU1qVGtRRRAB!2m1!1s0x3442abe5b22cfaf7:0x1ee17cdbbd395880"
-    },
-    {
-      "name": "places/ChIJ9_ossuWrQjQRgFg5vdt84R4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkcU16UlVaa0o1ZVhCUWJEQmhZV1ZQU1ROQldFRRAB",
-      "relativePublishTimeDescription": "9 個月前",
-      "rating": 5,
-      "text": {
-        "text": "台北南港☕️上班族的精神糧食\n百元初就可以喝到香氣十足的手沖咖啡\n看更多美食景點🔍IG:krk4072ii\n\n·1+1 立飲\n在黑🖤與白🤍選單裡各選一項\n每項皆以［單份濃縮］製作\n我選長黑搭配澳式小白\n鮮奶可以換購燕麥奶唷～\n\n·單品手沖\n店員很貼心幫我介紹\n偏酸的、偏苦的有哪些咖啡豆\n再挑選一款最適合自己的🤓\n我幫朋友挑選了一杯\n來自宏都拉斯的手沖咖啡\n\n·百香果奶酪👍🏻激推\n綿密奶酪加上酸甜的百香果點綴\n可以是你忙碌日常中的小確幸💓\n\n·巴斯克乳酪\n咖啡廳經典不敗款\n蛋糕好吃無雷，喜歡的人可以放心點！",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "台北南港☕️上班族的精神糧食\n百元初就可以喝到香氣十足的手沖咖啡\n看更多美食景點🔍IG:krk4072ii\n\n·1+1 立飲\n在黑🖤與白🤍選單裡各選一項\n每項皆以［單份濃縮］製作\n我選長黑搭配澳式小白\n鮮奶可以換購燕麥奶唷～\n\n·單品手沖\n店員很貼心幫我介紹\n偏酸的、偏苦的有哪些咖啡豆\n再挑選一款最適合自己的🤓\n我幫朋友挑選了一杯\n來自宏都拉斯的手沖咖啡\n\n·百香果奶酪👍🏻激推\n綿密奶酪加上酸甜的百香果點綴\n可以是你忙碌日常中的小確幸💓\n\n·巴斯克乳酪\n咖啡廳經典不敗款\n蛋糕好吃無雷，喜歡的人可以放心點！",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "吳芷妘",
-        "uri": "https://www.google.com/maps/contrib/113422858687106024989/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUa0Q5OG7cXo7y6HPkj9GOOYVqddXkWevvGEyzl2Vg2YjWLJcNl=s128-c0x00000000-cc-rp-mo-ba4"
-      },
-      "publishTime": "2025-08-08T18:03:58.263844266Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkcU16UlVaa0o1ZVhCUWJEQmhZV1ZQU1ROQldFRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkcU16UlVaa0o1ZVhCUWJEQmhZV1ZQU1ROQldFRRAB!2m1!1s0x3442abe5b22cfaf7:0x1ee17cdbbd395880"
-    },
-    {
-      "name": "places/ChIJ9_ossuWrQjQRgFg5vdt84R4/reviews/ChdDSUhNMG9nS0VLeTlrN0tHcDctcHR3RRAB",
-      "relativePublishTimeDescription": "6 個月前",
-      "rating": 5,
-      "text": {
-        "text": "今天意外發現這家外帶咖啡店，點了一杯熱的flat white（可以有冰的選擇），不會太濃郁，很順口，本想點澳洲鹹派來吃，只是需要等約8分鐘，店員說下次如果不想等待可以先打電話預訂，等下次來會來試試。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "今天意外發現這家外帶咖啡店，點了一杯熱的flat white（可以有冰的選擇），不會太濃郁，很順口，本想點澳洲鹹派來吃，只是需要等約8分鐘，店員說下次如果不想等待可以先打電話預訂，等下次來會來試試。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "yu doris",
-        "uri": "https://www.google.com/maps/contrib/117614678200921630427/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXb7K6_f0MROICXk4Y5d2y4JZcXS3DI0-T6rXSe1odJ0klxLpPE=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2025-11-02T07:22:59.303761787Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VLeTlrN0tHcDctcHR3RRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VLeTlrN0tHcDctcHR3RRAB!2m1!1s0x3442abe5b22cfaf7:0x1ee17cdbbd395880"
-    },
-    {
-      "name": "places/ChIJ9_ossuWrQjQRgFg5vdt84R4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOYVIwNVVVVWhuYkZvNFNWRXRjMkZhUTBGMlVWRRAB",
-      "relativePublishTimeDescription": "3 個月前",
-      "rating": 5,
-      "text": {
-        "text": "沒有座位❗️但相對有反映在價格上\n推薦帶去北流前草皮喝\n品項很多獨家特色 路過值得試試👍",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "沒有座位❗️但相對有反映在價格上\n推薦帶去北流前草皮喝\n品項很多獨家特色 路過值得試試👍",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "chumg chia",
-        "uri": "https://www.google.com/maps/contrib/113516707566156359895/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ_wKW9sSf3UAsLmsj3XDTrhjQDa-GJgsGrLpCchpRFZ_j-JA=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2026-01-25T09:43:36.316389012Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOYVIwNVVVVWhuYkZvNFNWRXRjMkZhUTBGMlVWRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOYVIwNVVVVWhuYkZvNFNWRXRjMkZhUTBGMlVWRRAB!2m1!1s0x3442abe5b22cfaf7:0x1ee17cdbbd395880"
-    }
-  ]
+﻿{
+    "id":  "ChIJ9_ossuWrQjQRgFg5vdt84R4",
+    "types":  [
+                  "coffee_stand",
+                  "cafe",
+                  "meal_delivery",
+                  "dessert_shop",
+                  "confectionery",
+                  "coffee_roastery",
+                  "food_store",
+                  "food_delivery",
+                  "store",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2785 3887",
+    "formattedAddress":  "115, Taiwan, Taipei City, Nangang District, Xixin Village, Kunyang St, 82號1樓",
+    "location":  {
+                     "latitude":  25.0519921,
+                     "longitude":  121.59329659999999
+                 },
+    "rating":  4.5,
+    "websiteUri":  "https://www.insingerkaffee.com.tw/",
+    "userRatingCount":  464,
+    "displayName":  {
+                        "text":  "硬性格 外帶咖啡 INSINGER Kaffee 自家烘焙",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJ9_ossuWrQjQRgFg5vdt84R4/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kYVRWVnZVRWRLUVdzNFZYZExTRXBUWVhCSlltYxAB",
+                        "relativePublishTimeDescription":  "6 months ago",
+                        "rating":  3,
+                        "text":  {
+                                     "text":  "The cinnamon roll was good\nHowever it’s so bad and tasteless now\n\nThe beef pie is very bad too\nJust some stale dough with very disgusting sauce\nI almost spit all of them out after tasting it.\n\nThe only eatable and good thing here is the brownie!\nThe best texture and taste in town with fair price!",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "The cinnamon roll was good\nHowever it’s so bad and tasteless now\n\nThe beef pie is very bad too\nJust some stale dough with very disgusting sauce\nI almost spit all of them out after tasting it.\n\nThe only eatable and good thing here is the brownie!\nThe best texture and taste in town with fair price!",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Best Foodie",
+                                                  "uri":  "https://www.google.com/maps/contrib/107982420708382846171/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjV2ey08Lewwhdw3psnTIhEqtnF78yKTroHfFEQy6DDbqF9-UwUFjg=s128-c0x00000000-cc-rp-mo-ba8"
+                                              },
+                        "publishTime":  "2025-12-03T15:38:33.457200672Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kYVRWVnZVRWRLUVdzNFZYZExTRXBUWVhCSlltYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kYVRWVnZVRWRLUVdzNFZYZExTRXBUWVhCSlltYxAB!2m1!1s0x3442abe5b22cfaf7:0x1ee17cdbbd395880"
+                    }
+                ]
 }

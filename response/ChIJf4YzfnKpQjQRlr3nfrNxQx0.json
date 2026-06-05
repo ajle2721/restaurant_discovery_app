@@ -1,131 +1,132 @@
-{
-  "id": "ChIJf4YzfnKpQjQRlr3nfrNxQx0",
-  "types": [
-    "taiwanese_restaurant",
-    "chinese_restaurant",
-    "restaurant",
-    "food",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2381 1487",
-  "formattedAddress": "100台灣臺北市中正區延平南路61號2樓",
-  "location": {
-    "latitude": 25.0446526,
-    "longitude": 121.51042389999999
-  },
-  "rating": 4.2,
-  "websiteUri": "https://www.facebook.com/pages/%E6%9D%B1%E4%B8%80%E6%8E%92%E9%AA%A8/194395523913293",
-  "userRatingCount": 6424,
-  "displayName": {
-    "text": "台北東一排骨總店",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJf4YzfnKpQjQRlr3nfrNxQx0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sM2MyZ3pjMmRQYmtSV1RXaEVlbVZPTWxOdGMwRRAB",
-      "relativePublishTimeDescription": "2 週前",
-      "rating": 4,
-      "text": {
-        "text": "下次點油豆腐跟滷蛋看看\n\n排骨飯 雞腿飯各190（2026/3月）\n幸運的話，現炸出爐給五顆星\n1. 滷肉飯超好吃，偏鹹的口味\n2. 排骨醃漬入味，雞腿是外皮調味而已\n雞腿肉比較多\n3. 例湯有料好喝\n4. 環境漂亮、冷氣很強\n5. 座位很多",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "下次點油豆腐跟滷蛋看看\n\n排骨飯 雞腿飯各190（2026/3月）\n幸運的話，現炸出爐給五顆星\n1. 滷肉飯超好吃，偏鹹的口味\n2. 排骨醃漬入味，雞腿是外皮調味而已\n雞腿肉比較多\n3. 例湯有料好喝\n4. 環境漂亮、冷氣很強\n5. 座位很多",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "MH CHOU",
-        "uri": "https://www.google.com/maps/contrib/110116173620891566795/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIX4a_EtPGVT8fHv4Ng_49KoKZjrgwq0EP1tDXD7DiHqxRR5Q=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2026-03-01T09:52:03.325896065Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sM2MyZ3pjMmRQYmtSV1RXaEVlbVZPTWxOdGMwRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sM2MyZ3pjMmRQYmtSV1RXaEVlbVZPTWxOdGMwRRAB!2m1!1s0x3442a9727e33867f:0x1d4371b37ee7bd96"
-    },
-    {
-      "name": "places/ChIJf4YzfnKpQjQRlr3nfrNxQx0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGaU1HczBUVEpZTVRGcmFsVkRUMDFzVUhRMFNYYxAB",
-      "relativePublishTimeDescription": "2 週前",
-      "rating": 5,
-      "text": {
-        "text": "吃了N年的老店，不變的味道，不變的裝潢，不變的氛圍，不變的服務，始終如一的親切。今天午餐時刻剛好走到中山堂附近，遂毫不猶豫地就來到東一尋找懷念的味道。中午時刻店裡已經客滿9成，點完餐付了錢找好位子，不到2分鐘服務人員就將餐點送達速度真是飛快。今天吃的是炸雞腿和炸魚排（皆190元），味道依舊讓人讚賞。櫃檯接待客人點餐及收費的女士（老闆？）待客親切，見到老客人立刻打招呼問候，讓人足甘心。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "吃了N年的老店，不變的味道，不變的裝潢，不變的氛圍，不變的服務，始終如一的親切。今天午餐時刻剛好走到中山堂附近，遂毫不猶豫地就來到東一尋找懷念的味道。中午時刻店裡已經客滿9成，點完餐付了錢找好位子，不到2分鐘服務人員就將餐點送達速度真是飛快。今天吃的是炸雞腿和炸魚排（皆190元），味道依舊讓人讚賞。櫃檯接待客人點餐及收費的女士（老闆？）待客親切，見到老客人立刻打招呼問候，讓人足甘心。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "劉時軍",
-        "uri": "https://www.google.com/maps/contrib/109836568857599698516/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKSi24ZCnfemppf53GGA5OsaWFyU0O6OwdVkE8Z7V0SKJcO9w=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2026-03-01T09:11:28.149390789Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGaU1HczBUVEpZTVRGcmFsVkRUMDFzVUhRMFNYYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGaU1HczBUVEpZTVRGcmFsVkRUMDFzVUhRMFNYYxAB!2m1!1s0x3442a9727e33867f:0x1d4371b37ee7bd96"
-    },
-    {
-      "name": "places/ChIJf4YzfnKpQjQRlr3nfrNxQx0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKb2JEVlVYeTB0U25oWE1XdDVWblZJY1VaUFdHYxAB",
-      "relativePublishTimeDescription": "2 週前",
-      "rating": 5,
-      "text": {
-        "text": "裝潢主打一個懷舊，算夜總會風。然而這不是噱頭，餐點本身並不含糊。\n\n我點了招牌的排骨飯加滷蛋，排骨不錯吃，但我不太喜歡他麵皮就是了，配菜燉的夠軟，飯上還有淋肉燥，超讚。湯還ok。\n\n算是值得推薦的名店了。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "裝潢主打一個懷舊，算夜總會風。然而這不是噱頭，餐點本身並不含糊。\n\n我點了招牌的排骨飯加滷蛋，排骨不錯吃，但我不太喜歡他麵皮就是了，配菜燉的夠軟，飯上還有淋肉燥，超讚。湯還ok。\n\n算是值得推薦的名店了。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Cheng Luft",
-        "uri": "https://www.google.com/maps/contrib/105871824524864044283/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWZwvnbHrZb5I24a17diCAHPqiqujPv_G47ZOW7rMexK_zSatwd=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2026-03-05T08:28:41.510353542Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKb2JEVlVYeTB0U25oWE1XdDVWblZJY1VaUFdHYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKb2JEVlVYeTB0U25oWE1XdDVWblZJY1VaUFdHYxAB!2m1!1s0x3442a9727e33867f:0x1d4371b37ee7bd96"
-    },
-    {
-      "name": "places/ChIJf4YzfnKpQjQRlr3nfrNxQx0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21odWJuRXphMWhUUmpWc2JFeHBURVpCWmpFNU1HYxAB",
-      "relativePublishTimeDescription": "2 週前",
-      "rating": 2,
-      "text": {
-        "text": "吃了20幾年⋯原來的優點：排骨酥又不油、老服務員親切⋯等，已經都不見了，還一直漲價。排骨醃製、出爐顏色越來越白，炸的又軟又油，明顯火候不夠；未到用餐時間滿滿人潮⋯只剩二桌可選，但我不想坐在曾看過大老鼠出沒的區域，卻硬是不開放其他區域，以後不想再去～",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "吃了20幾年⋯原來的優點：排骨酥又不油、老服務員親切⋯等，已經都不見了，還一直漲價。排骨醃製、出爐顏色越來越白，炸的又軟又油，明顯火候不夠；未到用餐時間滿滿人潮⋯只剩二桌可選，但我不想坐在曾看過大老鼠出沒的區域，卻硬是不開放其他區域，以後不想再去～",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "melody Lai",
-        "uri": "https://www.google.com/maps/contrib/100199950920333661889/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJR9tkDwyYUDZPbPIjAVPnU4X9iumueh_7a8LGbqXj84MdaFw=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2026-03-07T10:22:04.565223126Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21odWJuRXphMWhUUmpWc2JFeHBURVpCWmpFNU1HYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21odWJuRXphMWhUUmpWc2JFeHBURVpCWmpFNU1HYxAB!2m1!1s0x3442a9727e33867f:0x1d4371b37ee7bd96"
-    },
-    {
-      "name": "places/ChIJf4YzfnKpQjQRlr3nfrNxQx0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaS1dVcFdPRWhUUTNoc2JIZDRVWFJ4UTJwalZtYxAB",
-      "relativePublishTimeDescription": "1 個月前",
-      "rating": 4,
-      "text": {
-        "text": "大名鼎鼎的店，\n\n總共點了麻油雞麵線、咖喱飯、單點排骨。\n\n先說推薦的，\n麵線還不錯👍，特別是淋上麻油湯汁的時候。\n麵線還是長壽麵線喔～\n生日壽星的人可以來吃一口氣吃個麵線。\n雞湯是OK的，但是麻油雞的雞肉非常的柴，原本3塊尺寸不小的雞肉，我吃了一塊後，只好請別人幫我消滅了😅\n\n咖喱飯因為不是我本人吃的，我可能要去問一問，才可以上來補充。\n\n單點排骨是好吃的👍\n果然還是要點招牌的才對。\n自己亂點，果然還是會差強人意。\n\n現場環境裝潢非常的復古，在這個時代算是阿祖輩的吧，會有種走路了另一個時空的感覺。\n\n挺有趣的，\n他還有飲料吧～有果汁的。\n看別人評論還有冰淇淋呢，\n有機會再嚐嚐別的吧。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "大名鼎鼎的店，\n\n總共點了麻油雞麵線、咖喱飯、單點排骨。\n\n先說推薦的，\n麵線還不錯👍，特別是淋上麻油湯汁的時候。\n麵線還是長壽麵線喔～\n生日壽星的人可以來吃一口氣吃個麵線。\n雞湯是OK的，但是麻油雞的雞肉非常的柴，原本3塊尺寸不小的雞肉，我吃了一塊後，只好請別人幫我消滅了😅\n\n咖喱飯因為不是我本人吃的，我可能要去問一問，才可以上來補充。\n\n單點排骨是好吃的👍\n果然還是要點招牌的才對。\n自己亂點，果然還是會差強人意。\n\n現場環境裝潢非常的復古，在這個時代算是阿祖輩的吧，會有種走路了另一個時空的感覺。\n\n挺有趣的，\n他還有飲料吧～有果汁的。\n看別人評論還有冰淇淋呢，\n有機會再嚐嚐別的吧。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "易藝",
-        "uri": "https://www.google.com/maps/contrib/103542390248058415730/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXxUZaO9-4DRvndhhqH6UigzoZqqb3pZpbXunFpDAM2NvaJczo=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2026-02-14T14:15:57.054213651Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaS1dVcFdPRWhUUTNoc2JIZDRVWFJ4UTJwalZtYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaS1dVcFdPRWhUUTNoc2JIZDRVWFJ4UTJwalZtYxAB!2m1!1s0x3442a9727e33867f:0x1d4371b37ee7bd96"
-    }
-  ]
+﻿{
+    "id":  "ChIJf4YzfnKpQjQRlr3nfrNxQx0",
+    "types":  [
+                  "taiwanese_restaurant",
+                  "chinese_restaurant",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2381 1487",
+    "formattedAddress":  "100, Taiwan, Taipei City, Zhongzheng District, Guangfu Village, Yanping S Rd, 61號2樓",
+    "location":  {
+                     "latitude":  25.044635800000002,
+                     "longitude":  121.5104063
+                 },
+    "rating":  4.2,
+    "websiteUri":  "https://www.facebook.com/pages/%E6%9D%B1%E4%B8%80%E6%8E%92%E9%AA%A8/194395523913293",
+    "priceLevel":  "PRICE_LEVEL_MODERATE",
+    "userRatingCount":  6554,
+    "displayName":  {
+                        "text":  "Dong Yi Pork Chop Main Store",
+                        "languageCode":  "en"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJf4YzfnKpQjQRlr3nfrNxQx0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aUU1uaEJOa0pwWnpCaWNXeDVWV2xWWldWbWJXYxAB",
+                        "relativePublishTimeDescription":  "6 months ago",
+                        "rating":  3,
+                        "text":  {
+                                     "text":  "The pork chop tasted authentic and flavorful — just note that it’s on the oily side, which is typical of traditional Taiwanese-style pork chops. If you’re not used to that, it might feel a bit heavy, but it’s true to how it’s meant to be cooked\n\nWe got the pork chop noodles and chicken leg rice -- total of NTD 360 for 2 dishes\n\nThe place itself is very charming. It feels like stepping into a restaurant from a 1980s movie, with that nostalgic, old-school atmosphere.\n\nIt was also packed with locals, and we seemed to be the only tourists. When we asked for an English menu, the staff were warm and accommodating; they even had a server walk us through it at our table. Really appreciated the hospitality :)",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "The pork chop tasted authentic and flavorful — just note that it’s on the oily side, which is typical of traditional Taiwanese-style pork chops. If you’re not used to that, it might feel a bit heavy, but it’s true to how it’s meant to be cooked\n\nWe got the pork chop noodles and chicken leg rice -- total of NTD 360 for 2 dishes\n\nThe place itself is very charming. It feels like stepping into a restaurant from a 1980s movie, with that nostalgic, old-school atmosphere.\n\nIt was also packed with locals, and we seemed to be the only tourists. When we asked for an English menu, the staff were warm and accommodating; they even had a server walk us through it at our table. Really appreciated the hospitality :)",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Tita Pizza",
+                                                  "uri":  "https://www.google.com/maps/contrib/100600997820769626569/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocKr76P_HQBlSH5GEhX9GaH81oS_3Qlybxu139rTCYrjbsQqCv0=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-11-26T05:25:25.625657191Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aUU1uaEJOa0pwWnpCaWNXeDVWV2xWWldWbWJXYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aUU1uaEJOa0pwWnpCaWNXeDVWV2xWWldWbWJXYxAB!2m1!1s0x3442a9727e33867f:0x1d4371b37ee7bd96"
+                    },
+                    {
+                        "name":  "places/ChIJf4YzfnKpQjQRlr3nfrNxQx0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oaWRFZHZNR3hXWjFKNVVuSXhYMVZvWTB4d1NtYxAB",
+                        "relativePublishTimeDescription":  "3 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "10/10 this was amazing. will be back whenever i’m in Taipei. pork is perfectly crispy and peppery. the dry noodles with pork chop is my favourite. super casual atmosphere that adds to the beautiful flavour of the food",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "10/10 this was amazing. will be back whenever i’m in Taipei. pork is perfectly crispy and peppery. the dry noodles with pork chop is my favourite. super casual atmosphere that adds to the beautiful flavour of the food",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Vee Tom",
+                                                  "uri":  "https://www.google.com/maps/contrib/115126364495607436266/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXC-aEg32xV-qaZ0r3mvYxEAz1qyINwon-obx4JrmOPi1MOJQaG=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2026-02-18T05:08:47.365684398Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oaWRFZHZNR3hXWjFKNVVuSXhYMVZvWTB4d1NtYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oaWRFZHZNR3hXWjFKNVVuSXhYMVZvWTB4d1NtYxAB!2m1!1s0x3442a9727e33867f:0x1d4371b37ee7bd96"
+                    },
+                    {
+                        "name":  "places/ChIJf4YzfnKpQjQRlr3nfrNxQx0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WSE9FcEhaVXhwTkhFelVGVmhNRXRpU0V4UGIyYxAB",
+                        "relativePublishTimeDescription":  "8 months ago",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "Made it there for dinner 10 min before their closing time, the old lady took my order at the entrance and went to kitchen to prepare the food before I even had the chance to pay. Not surprised that the hot plate of food arrived at my table within minutes of me sitting down. She showed me where the utensils were under the table, and politely smiled and wished me to enjoy my meal. I really love the courteousness I\u0027ve experienced in Taiwan, such a contrast to the attitudes we get in America.  I ordered their famed pork chop rice combo, and it certainly met my expectations of what Taiwanese pork chop should taste like. The meat was still on the bone, thick slaved, fried in a crispy batter and flavored. The accompanying braised pork rice, veggies, pickles and ginger slices all created a wonderful flavor combination along with the pork chop. Even the bowl of bamboo shoots soup was well prepared. I had to finish eating my meal quickly since everyone was packing up for closing time. But I enjoyed every rushed bite and savored it as long as I reasonably could. May try to come back for another meal before heading back to USA later this week, because I certainly won\u0027t get a meal like this back in Seattle !!",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Made it there for dinner 10 min before their closing time, the old lady took my order at the entrance and went to kitchen to prepare the food before I even had the chance to pay. Not surprised that the hot plate of food arrived at my table within minutes of me sitting down. She showed me where the utensils were under the table, and politely smiled and wished me to enjoy my meal. I really love the courteousness I\u0027ve experienced in Taiwan, such a contrast to the attitudes we get in America.  I ordered their famed pork chop rice combo, and it certainly met my expectations of what Taiwanese pork chop should taste like. The meat was still on the bone, thick slaved, fried in a crispy batter and flavored. The accompanying braised pork rice, veggies, pickles and ginger slices all created a wonderful flavor combination along with the pork chop. Even the bowl of bamboo shoots soup was well prepared. I had to finish eating my meal quickly since everyone was packing up for closing time. But I enjoyed every rushed bite and savored it as long as I reasonably could. May try to come back for another meal before heading back to USA later this week, because I certainly won\u0027t get a meal like this back in Seattle !!",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Amanda Li",
+                                                  "uri":  "https://www.google.com/maps/contrib/108957033871000862156/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjU5GoaYiFdeTeOxXpVK2_-f6D2B8LqvLKRYocK_-qDQDPHmfSmW=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-09-27T18:03:43.480061827Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WSE9FcEhaVXhwTkhFelVGVmhNRXRpU0V4UGIyYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WSE9FcEhaVXhwTkhFelVGVmhNRXRpU0V4UGIyYxAB!2m1!1s0x3442a9727e33867f:0x1d4371b37ee7bd96"
+                    },
+                    {
+                        "name":  "places/ChIJf4YzfnKpQjQRlr3nfrNxQx0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Gb2VuWXhkVm8yWkhGRVJFRTJTa1Y1WVZCRFZHYxAB",
+                        "relativePublishTimeDescription":  "4 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Dong Yi Porkchop is your authentic Taiwanese pork chop. The facade and interiors look like a scene straight from a Chinese martial arts action film, with an old Auntie manning the front desk.\n\nOverall, super love the food! They were very affordable too. The crew was helpful, even though we were kinda lost in translation, they made extra effort to serve.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Dong Yi Porkchop is your authentic Taiwanese pork chop. The facade and interiors look like a scene straight from a Chinese martial arts action film, with an old Auntie manning the front desk.\n\nOverall, super love the food! They were very affordable too. The crew was helpful, even though we were kinda lost in translation, they made extra effort to serve.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Benedict Isles",
+                                                  "uri":  "https://www.google.com/maps/contrib/106964315938975329753/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXLsZAXWnTd-yInIAlzQbO-C3RTpf6zcNCp1gcG6KNFUE160dI=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2026-01-24T05:51:03.710905432Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Gb2VuWXhkVm8yWkhGRVJFRTJTa1Y1WVZCRFZHYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Gb2VuWXhkVm8yWkhGRVJFRTJTa1Y1WVZCRFZHYxAB!2m1!1s0x3442a9727e33867f:0x1d4371b37ee7bd96"
+                    },
+                    {
+                        "name":  "places/ChIJf4YzfnKpQjQRlr3nfrNxQx0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOSlkwVkVSVUZRV2xaSFpEWndNRXBmY2pWdFdrRRAB",
+                        "relativePublishTimeDescription":  "5 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Old school Taiwanese food with retro vibes. Food and drink are great, nostalgic food like banana boat is great. Although advanced in age, the servers are fast and accurate. Will return again 👍",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Old school Taiwanese food with retro vibes. Food and drink are great, nostalgic food like banana boat is great. Although advanced in age, the servers are fast and accurate. Will return again 👍",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "John Lim",
+                                                  "uri":  "https://www.google.com/maps/contrib/104567163878191612310/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocICELZmgDm4ddr3QLcMKTuQs85rb5fVOqPR1ynomAUY61JKeA=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-12-12T05:46:11.306435861Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOSlkwVkVSVUZRV2xaSFpEWndNRXBmY2pWdFdrRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOSlkwVkVSVUZRV2xaSFpEWndNRXBmY2pWdFdrRRAB!2m1!1s0x3442a9727e33867f:0x1d4371b37ee7bd96"
+                    }
+                ]
 }

@@ -1,135 +1,135 @@
-{
-  "id": "ChIJJzatMBivQjQRnMZcK994nNw",
-  "types": [
-    "bistro",
-    "wine_bar",
-    "confectionery",
-    "bakery",
-    "food_store",
-    "bar",
-    "store",
-    "restaurant",
-    "food",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2883 9273",
-  "formattedAddress": "111台灣臺北市士林區前港里劍潭路47號",
-  "location": {
-    "latitude": 25.083893,
-    "longitude": 121.521621
-  },
-  "rating": 4.9,
-  "userRatingCount": 74,
-  "displayName": {
-    "text": "Mio Vino Wine & Cookie",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJJzatMBivQjQRnMZcK994nNw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0NlZHMW5TbWwxU0hGMVZWaE9NVGxTT1ZoWExWRRAB",
-      "relativePublishTimeDescription": "3 個月前",
-      "rating": 5,
-      "text": {
-        "text": "本來想去吃附近的早午餐店，結果人太多…意外來到這家義大利麵店，結果出乎意料的好吃😋❤️\n\n店面小小的，座位也不多，一男一女的老闆，男生負責煮義大利麵，女生負責甜點飲料。還有一隻可愛的橘貓！😍\n\n肉醬義大利麵🍝：番茄醬汁非常濃郁、很鮮甜！還有蕃茄丁和肉末，搭配辛香料，好吃😋\n\ncarbonara義大利麵🍝：奶油+奶酪+義式培根，不會太膩口，因為有黑胡椒輔佐❤️\n\n拿鐵也很順口，奶泡很多。\n下次還會再來❤️",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "本來想去吃附近的早午餐店，結果人太多…意外來到這家義大利麵店，結果出乎意料的好吃😋❤️\n\n店面小小的，座位也不多，一男一女的老闆，男生負責煮義大利麵，女生負責甜點飲料。還有一隻可愛的橘貓！😍\n\n肉醬義大利麵🍝：番茄醬汁非常濃郁、很鮮甜！還有蕃茄丁和肉末，搭配辛香料，好吃😋\n\ncarbonara義大利麵🍝：奶油+奶酪+義式培根，不會太膩口，因為有黑胡椒輔佐❤️\n\n拿鐵也很順口，奶泡很多。\n下次還會再來❤️",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Ivy Chiu",
-        "uri": "https://www.google.com/maps/contrib/114009267428061005156/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW0LLC5qXj1trlVEzgJgCjqhntBfHQKP_9vt-TtF2gPiNijHFA4=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2026-02-04T12:08:41.327789931Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0NlZHMW5TbWwxU0hGMVZWaE9NVGxTT1ZoWExWRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0NlZHMW5TbWwxU0hGMVZWaE9NVGxTT1ZoWExWRRAB!2m1!1s0x3442af1830ad3627:0xdc9c78df2b5cc69c"
-    },
-    {
-      "name": "places/ChIJJzatMBivQjQRnMZcK994nNw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ZelRIaFJRMUJuUjBGa09IQkRjakJNYkVFdFkzYxAB",
-      "relativePublishTimeDescription": "2 個月前",
-      "rating": 3,
-      "text": {
-        "text": "假日晚間，店內環境怡人，佈置不錯\n能看到廚師很用心的在做餐\n• 店貓很可愛，雖然會看著你吃，但不會過來分一杯羹；貓咪雖然會睡桌上，但環境很乾淨\n• 乳酪燻肉堅果拼盤不錯吃，各式乳酪吃多了有點鹹，但康門貝爾上有淋蜂蜜，配起來味道就不會太單一了\n• 松露薯條份量很大，菜單介紹有松露醬，可惜實際上面沒有，就純薯條而已\n當下看到有驚訝，但想說現場顧客很少，應該是沒有出錯餐\n• 有提供簡單打包的服務\n考慮要不要再來試試其他主食及點心",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "假日晚間，店內環境怡人，佈置不錯\n能看到廚師很用心的在做餐\n• 店貓很可愛，雖然會看著你吃，但不會過來分一杯羹；貓咪雖然會睡桌上，但環境很乾淨\n• 乳酪燻肉堅果拼盤不錯吃，各式乳酪吃多了有點鹹，但康門貝爾上有淋蜂蜜，配起來味道就不會太單一了\n• 松露薯條份量很大，菜單介紹有松露醬，可惜實際上面沒有，就純薯條而已\n當下看到有驚訝，但想說現場顧客很少，應該是沒有出錯餐\n• 有提供簡單打包的服務\n考慮要不要再來試試其他主食及點心",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "豪鶚",
-        "uri": "https://www.google.com/maps/contrib/109126764915922979857/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJRxEb0vaflUJqDy_278Co3S6-_4jlfAr17FCEebyzJV0Uz8Q=s128-c0x00000000-cc-rp-mo"
-      },
-      "publishTime": "2026-03-08T18:03:11.606870256Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ZelRIaFJRMUJuUjBGa09IQkRjakJNYkVFdFkzYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ZelRIaFJRMUJuUjBGa09IQkRjakJNYkVFdFkzYxAB!2m1!1s0x3442af1830ad3627:0xdc9c78df2b5cc69c"
-    },
-    {
-      "name": "places/ChIJJzatMBivQjQRnMZcK994nNw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGQ1F6RTVlVzFQU201c2FXaGZWMnB0WTNKQ1NsRRAB",
-      "relativePublishTimeDescription": "2 個月前",
-      "rating": 5,
-      "text": {
-        "text": "雖然位子少，但很舒服。劍潭路的綠蔭適合散步，台北藝術表演中心這特殊地標建築，讓士林這一帶更具有國際城市的魅力。又多發現這親切的小酒館，鯷魚義大利麵及手工漢堡肉，還有推薦白酒都好極吃。還有這小橘貓真的太可愛了……。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "雖然位子少，但很舒服。劍潭路的綠蔭適合散步，台北藝術表演中心這特殊地標建築，讓士林這一帶更具有國際城市的魅力。又多發現這親切的小酒館，鯷魚義大利麵及手工漢堡肉，還有推薦白酒都好極吃。還有這小橘貓真的太可愛了……。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "姜樂靜",
-        "uri": "https://www.google.com/maps/contrib/102973988068403424598/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJgc2VL3txxO9b0xC8hoXEoDYMRyO0NlJd6xC4VoeriHucU6A=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2026-03-08T01:15:02.602172393Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGQ1F6RTVlVzFQU201c2FXaGZWMnB0WTNKQ1NsRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGQ1F6RTVlVzFQU201c2FXaGZWMnB0WTNKQ1NsRRAB!2m1!1s0x3442af1830ad3627:0xdc9c78df2b5cc69c"
-    },
-    {
-      "name": "places/ChIJJzatMBivQjQRnMZcK994nNw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwMVdFNU5XRkIyU1dGVGRVZFpTM1JqZURreWJuYxAB",
-      "relativePublishTimeDescription": "3 個月前",
-      "rating": 5,
-      "text": {
-        "text": "位於台北士林劍潭路的巷弄型餐酒館，空間小巧但用心，選酒細緻、料理穩定，是士林生活圈內適合日常小酌與朋友聚會的社區型酒館。\n\nA cozy neighborhood wine bar on Jiantan Road, Shilin District, Taipei. Thoughtfully curated wines and well-executed food make it a reliable spot for casual drinks and small gatherings in the local area.",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "位於台北士林劍潭路的巷弄型餐酒館，空間小巧但用心，選酒細緻、料理穩定，是士林生活圈內適合日常小酌與朋友聚會的社區型酒館。\n\nA cozy neighborhood wine bar on Jiantan Road, Shilin District, Taipei. Thoughtfully curated wines and well-executed food make it a reliable spot for casual drinks and small gatherings in the local area.",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "汪兆謙（Jhao-Cian Wang）",
-        "uri": "https://www.google.com/maps/contrib/115097897405893937014/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXFXxM0xmWh7kdxPNqPMsIyGU46JPLGOQCM2WIGLa5rUfyUfMc6=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2026-02-07T14:39:02.773978655Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwMVdFNU5XRkIyU1dGVGRVZFpTM1JqZURreWJuYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwMVdFNU5XRkIyU1dGVGRVZFpTM1JqZURreWJuYxAB!2m1!1s0x3442af1830ad3627:0xdc9c78df2b5cc69c"
-    },
-    {
-      "name": "places/ChIJJzatMBivQjQRnMZcK994nNw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wZlZUZENMVm93V1hCcWEzbGpabU5OYm5CV2JHYxAB",
-      "relativePublishTimeDescription": "5 個月前",
-      "rating": 5,
-      "text": {
-        "text": "屢次路過店面，前幾天又看見threads 有人推薦甜點，終於來嘗試看看，這次主要來用餐，點了兩種義大利麵、熱紅酒、大人的焦糖布丁🍮\n\n鰹魚義大利麵香氣濃厚，漢堡排義大利麵（沒拍照），茄汁很酸！很有之前在歐洲吃到的味道，肉排更是香氣十足！下次要來試試看漢堡系列～\n\n熱紅酒帶著舒服的水果甜味、布丁真的很大人～真材實料的酒味，喜歡！這次還有親人的小貓貓陪吃，闆娘更是親切招呼，很喜歡這個溫暖的小店，能有走路就到的小餐酒館，一定會再到訪支持～～",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "屢次路過店面，前幾天又看見threads 有人推薦甜點，終於來嘗試看看，這次主要來用餐，點了兩種義大利麵、熱紅酒、大人的焦糖布丁🍮\n\n鰹魚義大利麵香氣濃厚，漢堡排義大利麵（沒拍照），茄汁很酸！很有之前在歐洲吃到的味道，肉排更是香氣十足！下次要來試試看漢堡系列～\n\n熱紅酒帶著舒服的水果甜味、布丁真的很大人～真材實料的酒味，喜歡！這次還有親人的小貓貓陪吃，闆娘更是親切招呼，很喜歡這個溫暖的小店，能有走路就到的小餐酒館，一定會再到訪支持～～",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "ㄢ",
-        "uri": "https://www.google.com/maps/contrib/104798401930777222301/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWuFzk97cdFoa_WbdtMO-cjuhwo-TqaQcdIQQjafMN8YURQ5ETf=s128-c0x00000000-cc-rp-mo-ba4"
-      },
-      "publishTime": "2025-12-22T12:34:26.890894690Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wZlZUZENMVm93V1hCcWEzbGpabU5OYm5CV2JHYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wZlZUZENMVm93V1hCcWEzbGpabU5OYm5CV2JHYxAB!2m1!1s0x3442af1830ad3627:0xdc9c78df2b5cc69c"
-    }
-  ]
+﻿{
+    "id":  "ChIJJzatMBivQjQRnMZcK994nNw",
+    "types":  [
+                  "bistro",
+                  "wine_bar",
+                  "confectionery",
+                  "bakery",
+                  "bar",
+                  "food_store",
+                  "store",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2883 9273",
+    "formattedAddress":  "No. 47號, Jiantan Rd, Qiangang Village, Shilin District, Taipei City, Taiwan 111",
+    "location":  {
+                     "latitude":  25.083893,
+                     "longitude":  121.521621
+                 },
+    "rating":  4.9,
+    "userRatingCount":  75,
+    "displayName":  {
+                        "text":  "Mio Vino Wine \u0026 Cookie",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJJzatMBivQjQRnMZcK994nNw/reviews/ChZDSUhNMG9nS0VJQ0FnSURfM2ZYRFpREAE",
+                        "relativePublishTimeDescription":  "5 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Finally had the chance to try the food and the pasta Bolognese is damn good. The selection of wine is fantastic. You can choose by glass or get a bottle for a good price.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Finally had the chance to try the food and the pasta Bolognese is damn good. The selection of wine is fantastic. You can choose by glass or get a bottle for a good price.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Steffen",
+                                                  "uri":  "https://www.google.com/maps/contrib/105052546735965000588/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjU-axzYN1SiudXa7RB9HAKhToFmLmpzuQ6FSr-gHcj7_IDoI-3DVw=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2026-01-04T14:09:25.745401911Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfM2ZYRFpREAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfM2ZYRFpREAE!2m1!1s0x3442af1830ad3627:0xdc9c78df2b5cc69c"
+                    },
+                    {
+                        "name":  "places/ChIJJzatMBivQjQRnMZcK994nNw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGMFkyVlljRXhYZVRWTVkzaHRXRGhoWTJSblFWRRAB",
+                        "relativePublishTimeDescription":  "5 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Wonderful",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Wonderful",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Carl Zhang",
+                                                  "uri":  "https://www.google.com/maps/contrib/109228847234940084198/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXVDN9ZVa90My-diTY9pO0iWhRZJXi0zHlxRjix7eylWOaYtBU=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-12-11T04:21:43.947418563Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGMFkyVlljRXhYZVRWTVkzaHRXRGhoWTJSblFWRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGMFkyVlljRXhYZVRWTVkzaHRXRGhoWTJSblFWRRAB!2m1!1s0x3442af1830ad3627:0xdc9c78df2b5cc69c"
+                    },
+                    {
+                        "name":  "places/ChIJJzatMBivQjQRnMZcK994nNw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0NlZHMW5TbWwxU0hGMVZWaE9NVGxTT1ZoWExWRRAB",
+                        "relativePublishTimeDescription":  "4 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "I originally planned to eat at a nearby brunch place, but it was too crowded… I unexpectedly stumbled upon this pasta shop, and it was surprisingly delicious! 😋❤️\n\nThe shop is small, with limited seating. It\u0027s run by a man and a woman; the man cooks the pasta, and the woman prepares desserts and drinks. There\u0027s also an adorable orange tabby cat! 😍\n\nBolognese Pasta 🍝: The tomato sauce is very rich and sweet! It also has diced tomatoes and minced meat, paired with spices—delicious! 😋\n\nCarbonara Pasta 🍝: Cream, cheese, and Italian bacon—not too greasy, thanks to the black pepper! ❤️\n\nThe latte was also smooth, with plenty of milk foam.\n\nI\u0027ll definitely come again! ❤️",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "本來想去吃附近的早午餐店，結果人太多…意外來到這家義大利麵店，結果出乎意料的好吃😋❤️\n\n店面小小的，座位也不多，一男一女的老闆，男生負責煮義大利麵，女生負責甜點飲料。還有一隻可愛的橘貓！😍\n\n肉醬義大利麵🍝：番茄醬汁非常濃郁、很鮮甜！還有蕃茄丁和肉末，搭配辛香料，好吃😋\n\ncarbonara義大利麵🍝：奶油+奶酪+義式培根，不會太膩口，因為有黑胡椒輔佐❤️\n\n拿鐵也很順口，奶泡很多。\n下次還會再來❤️",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Ivy Chiu",
+                                                  "uri":  "https://www.google.com/maps/contrib/114009267428061005156/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjW0LLC5qXj1trlVEzgJgCjqhntBfHQKP_9vt-TtF2gPiNijHFA4=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2026-02-04T12:08:41.327789931Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0NlZHMW5TbWwxU0hGMVZWaE9NVGxTT1ZoWExWRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0NlZHMW5TbWwxU0hGMVZWaE9NVGxTT1ZoWExWRRAB!2m1!1s0x3442af1830ad3627:0xdc9c78df2b5cc69c"
+                    },
+                    {
+                        "name":  "places/ChIJJzatMBivQjQRnMZcK994nNw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ZelRIaFJRMUJuUjBGa09IQkRjakJNYkVFdFkzYxAB",
+                        "relativePublishTimeDescription":  "2 months ago",
+                        "rating":  3,
+                        "text":  {
+                                     "text":  "假日晚間，店內環境怡人，佈置不錯\n能看到廚師很用心的在做餐\n• 店貓很可愛，雖然會看著你吃，但不會過來分一杯羹；貓咪雖然會睡桌上，但環境很乾淨\n• 乳酪燻肉堅果拼盤不錯吃，各式乳酪吃多了有點鹹，但康門貝爾上有淋蜂蜜，配起來味道就不會太單一了\n• 松露薯條份量很大，菜單介紹有松露醬，可惜實際上面沒有，就純薯條而已\n當下看到有驚訝，但想說現場顧客很少，應該是沒有出錯餐\n• 有提供簡單打包的服務\n考慮要不要再來試試其他主食及點心",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "假日晚間，店內環境怡人，佈置不錯\n能看到廚師很用心的在做餐\n• 店貓很可愛，雖然會看著你吃，但不會過來分一杯羹；貓咪雖然會睡桌上，但環境很乾淨\n• 乳酪燻肉堅果拼盤不錯吃，各式乳酪吃多了有點鹹，但康門貝爾上有淋蜂蜜，配起來味道就不會太單一了\n• 松露薯條份量很大，菜單介紹有松露醬，可惜實際上面沒有，就純薯條而已\n當下看到有驚訝，但想說現場顧客很少，應該是沒有出錯餐\n• 有提供簡單打包的服務\n考慮要不要再來試試其他主食及點心",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "豪鶚",
+                                                  "uri":  "https://www.google.com/maps/contrib/109126764915922979857/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocJRxEb0vaflUJqDy_278Co3S6-_4jlfAr17FCEebyzJV0Uz8Q=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2026-03-08T18:03:11.606870256Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ZelRIaFJRMUJuUjBGa09IQkRjakJNYkVFdFkzYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ZelRIaFJRMUJuUjBGa09IQkRjakJNYkVFdFkzYxAB!2m1!1s0x3442af1830ad3627:0xdc9c78df2b5cc69c"
+                    },
+                    {
+                        "name":  "places/ChIJJzatMBivQjQRnMZcK994nNw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGQ1F6RTVlVzFQU201c2FXaGZWMnB0WTNKQ1NsRRAB",
+                        "relativePublishTimeDescription":  "2 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Although there aren\u0027t many seats, it\u0027s very comfortable. The shady trees along Jiantan Road are perfect for a stroll, and the Taipei Performing Arts Center, a unique landmark, adds to the international charm of the Shilin area. I also discovered this charming little bar; the anchovy pasta and handmade burger patties, along with the recommended baijiu (Chinese liquor), are all excellent. And this little orange cat is just too cute…",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "雖然位子少，但很舒服。劍潭路的綠蔭適合散步，台北藝術表演中心這特殊地標建築，讓士林這一帶更具有國際城市的魅力。又多發現這親切的小酒館，鯷魚義大利麵及手工漢堡肉，還有推薦白酒都好極吃。還有這小橘貓真的太可愛了……。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "姜樂靜",
+                                                  "uri":  "https://www.google.com/maps/contrib/102973988068403424598/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocJgc2VL3txxO9b0xC8hoXEoDYMRyO0NlJd6xC4VoeriHucU6A=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2026-03-08T01:15:02.602172393Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGQ1F6RTVlVzFQU201c2FXaGZWMnB0WTNKQ1NsRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGQ1F6RTVlVzFQU201c2FXaGZWMnB0WTNKQ1NsRRAB!2m1!1s0x3442af1830ad3627:0xdc9c78df2b5cc69c"
+                    }
+                ]
 }

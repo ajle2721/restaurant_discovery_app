@@ -1,134 +1,91 @@
-{
-  "id": "ChIJAyvfIJqpQjQR5I19JwKbdbY",
-  "types": [
-    "coffee_shop",
-    "brunch_restaurant",
-    "cafe",
-    "food_store",
-    "store",
-    "restaurant",
-    "food",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2557 7317",
-  "formattedAddress": "103台灣臺北市大同區大有里迪化街一段197號",
-  "location": {
-    "latitude": 25.059312,
-    "longitude": 121.5096069
-  },
-  "rating": 4.4,
-  "websiteUri": "https://www.facebook.com/Elementi.taiwan/",
-  "userRatingCount": 618,
-  "displayName": {
-    "text": "根元咖啡 elementi",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJAyvfIJqpQjQR5I19JwKbdbY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Sd2FtRmlWR2hYVkU5ZmEwdEtVMnQxWnpSMlQwRRAB",
-      "relativePublishTimeDescription": "3 個月前",
-      "rating": 3,
-      "text": {
-        "text": "依昔日三進式街屋格局為本的空間打理得非常優美，尤其是中庭天井的花園，草木扶疏，隨便拍都很美，在此小憩聊天非常舒適。不過餐點飲料個人覺得滿普通的，價位也略高。不過因為位置數多，比較沒有時間限制，因此還是走逛大稻埕時找個地方坐坐的不錯選擇。\n\n這裡供應早午餐、義大利麵、輕食及蛋糕甜點。當天是享用蛋糕與茶飲，提拉米蘇還不錯，其他就很普通。尤其冰飲的玻璃杯實在太一般，與空間展現的質感不相稱。天井花園亦設有座位，氣氛很好，但會有蚊子比較可惜。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "依昔日三進式街屋格局為本的空間打理得非常優美，尤其是中庭天井的花園，草木扶疏，隨便拍都很美，在此小憩聊天非常舒適。不過餐點飲料個人覺得滿普通的，價位也略高。不過因為位置數多，比較沒有時間限制，因此還是走逛大稻埕時找個地方坐坐的不錯選擇。\n\n這裡供應早午餐、義大利麵、輕食及蛋糕甜點。當天是享用蛋糕與茶飲，提拉米蘇還不錯，其他就很普通。尤其冰飲的玻璃杯實在太一般，與空間展現的質感不相稱。天井花園亦設有座位，氣氛很好，但會有蚊子比較可惜。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Brook Li",
-        "uri": "https://www.google.com/maps/contrib/102858033790446409074/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU2aGQHj_2ekPu_S4UQSPudxTz3UztKle1gOIJWF0_NS4_OPP_0=s128-c0x00000000-cc-rp-mo-ba8"
-      },
-      "publishTime": "2026-02-17T02:55:54.661229665Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Sd2FtRmlWR2hYVkU5ZmEwdEtVMnQxWnpSMlQwRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Sd2FtRmlWR2hYVkU5ZmEwdEtVMnQxWnpSMlQwRRAB!2m1!1s0x3442a99a20df2b03:0xb6759b02277d8de4"
-    },
-    {
-      "name": "places/ChIJAyvfIJqpQjQR5I19JwKbdbY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOaVVITklUR2RqV0ZKVVJDMXhTMDVMZUhCaVVrRRAB",
-      "relativePublishTimeDescription": "4 個月前",
-      "rating": 3,
-      "text": {
-        "text": "這間位於迪化街的「根元」，建築本身極具特色，老宅的環境與氛圍營造得非常舒服且迷人，是個適合靜靜坐著感受歷史底蘊的好地方。\n至於餐點的部分，這裡主要提供一些基本的輕食與炸物，但口味與擺盤上都顯得較為普通，並非走精緻美味的路線。誠心建議來訪的朋友，可以將重點放在享受這裡的空間與氣氛，對食物的部分就不用太過講究或抱持太高期待。只要調整好心態，完全沉浸在老建築的環境美感中，依然能有一段放鬆的時光。對於追求極致美食的人來說，這裡的餐飲細緻度確實還有很大的進步空間，但在迪化街想找個舒適角落歇息，這裡的氛圍確實還是有其獨到之處。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "這間位於迪化街的「根元」，建築本身極具特色，老宅的環境與氛圍營造得非常舒服且迷人，是個適合靜靜坐著感受歷史底蘊的好地方。\n至於餐點的部分，這裡主要提供一些基本的輕食與炸物，但口味與擺盤上都顯得較為普通，並非走精緻美味的路線。誠心建議來訪的朋友，可以將重點放在享受這裡的空間與氣氛，對食物的部分就不用太過講究或抱持太高期待。只要調整好心態，完全沉浸在老建築的環境美感中，依然能有一段放鬆的時光。對於追求極致美食的人來說，這裡的餐飲細緻度確實還有很大的進步空間，但在迪化街想找個舒適角落歇息，這裡的氛圍確實還是有其獨到之處。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Berry",
-        "uri": "https://www.google.com/maps/contrib/109399084910421750827/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUbD9JA-xbiYZRzeHkJeTZkqTzuxVb85XtBdWXW7m1k6cFQbBM=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2026-01-11T12:21:46.162235514Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOaVVITklUR2RqV0ZKVVJDMXhTMDVMZUhCaVVrRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOaVVITklUR2RqV0ZKVVJDMXhTMDVMZUhCaVVrRRAB!2m1!1s0x3442a99a20df2b03:0xb6759b02277d8de4"
-    },
-    {
-      "name": "places/ChIJAyvfIJqpQjQR5I19JwKbdbY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOd1JtZDZaMUJTVVdWMmJXNDRObmhtYVdONVduYxAB",
-      "relativePublishTimeDescription": "3 個月前",
-      "rating": 4,
-      "text": {
-        "text": "從外面看不出來裡面有那麼深\n果然迪化街都是有錢人的產業\n中庭蠻漂亮的\n可惜廁所只有一間而且男女共用，需要排隊\n蛋糕略小一點\n上菜的時候漏了一個茶飲，催了以後才來\n只能付現不能刷卡\n每個人有低消250",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "從外面看不出來裡面有那麼深\n果然迪化街都是有錢人的產業\n中庭蠻漂亮的\n可惜廁所只有一間而且男女共用，需要排隊\n蛋糕略小一點\n上菜的時候漏了一個茶飲，催了以後才來\n只能付現不能刷卡\n每個人有低消250",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Alex",
-        "uri": "https://www.google.com/maps/contrib/114017737488590096214/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWuYvP_6Kj2LevaKysURycKNKFBiHEede0uSQJ3GNF99DwfVOQ=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2026-02-12T02:43:45.735737846Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOd1JtZDZaMUJTVVdWMmJXNDRObmhtYVdONVduYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOd1JtZDZaMUJTVVdWMmJXNDRObmhtYVdONVduYxAB!2m1!1s0x3442a99a20df2b03:0xb6759b02277d8de4"
-    },
-    {
-      "name": "places/ChIJAyvfIJqpQjQR5I19JwKbdbY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ZeFZuWm9WakZLWHpkYU9YTmxVRmhwVld0MVkxRRAB",
-      "relativePublishTimeDescription": "8 個月前",
-      "rating": 1,
-      "text": {
-        "text": "酥炸小卷上來時，竟然不是熱的，感覺有點油，吃到後來有點膩。剝皮辣椒蛤蠣麵是台式的蒜味炒蛤蠣麵，所以不確定這一盤餐點的定位，應該不算義大利麵吧，以台式菜來說，口感還算可以。松露奶油野菇燉飯真的不行，醬汁沒入到飯粒，整個清淡無味，非常普通沒有記憶點。另外，進店詢問在前面咖啡廳點餐，還是到後面餐廳點餐，女服務生竟然莫名大笑，非常沒禮貌，餐點送來也沒任何解說，這家店的費用不算便宜，但服務人員真的需要再加強訓練，整個令人感覺不舒服，所以這家店不推薦啦。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "酥炸小卷上來時，竟然不是熱的，感覺有點油，吃到後來有點膩。剝皮辣椒蛤蠣麵是台式的蒜味炒蛤蠣麵，所以不確定這一盤餐點的定位，應該不算義大利麵吧，以台式菜來說，口感還算可以。松露奶油野菇燉飯真的不行，醬汁沒入到飯粒，整個清淡無味，非常普通沒有記憶點。另外，進店詢問在前面咖啡廳點餐，還是到後面餐廳點餐，女服務生竟然莫名大笑，非常沒禮貌，餐點送來也沒任何解說，這家店的費用不算便宜，但服務人員真的需要再加強訓練，整個令人感覺不舒服，所以這家店不推薦啦。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "ARZON L.",
-        "uri": "https://www.google.com/maps/contrib/108216935213646748918/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJn7mgVVjIbjJ-M8bGPRtoj-uMyVFBtEyX2nZmvIdAQYWrsbiA=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2025-09-24T13:39:09.768628969Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25ZeFZuWm9WakZLWHpkYU9YTmxVRmhwVld0MVkxRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ZeFZuWm9WakZLWHpkYU9YTmxVRmhwVld0MVkxRRAB!2m1!1s0x3442a99a20df2b03:0xb6759b02277d8de4"
-    },
-    {
-      "name": "places/ChIJAyvfIJqpQjQR5I19JwKbdbY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OdWRtRlJVbE5XYVRoTmFXRnpha281V25oS1prRRAB",
-      "relativePublishTimeDescription": "7 個月前",
-      "rating": 3,
-      "text": {
-        "text": "環境很美，蠻舒適的\n\n松露燉飯\n飯芯熟度剛好！不過搭洋蔥有點不搭嘎\n整體是好吃的～但整盤吃完有點單調\n\n舒肥雞胸\n很豐富也不錯吃～調味剛剛好\n能吃到蛋白質又有沙拉～\n\n抹茶歐蕾\n普通 下次會點別的\n\n提拉米蘇\n整體還可以，酒味偏重～\n但杏仁味個人不喜歡（好可惜\n\n水跟餐具要自己拿",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "環境很美，蠻舒適的\n\n松露燉飯\n飯芯熟度剛好！不過搭洋蔥有點不搭嘎\n整體是好吃的～但整盤吃完有點單調\n\n舒肥雞胸\n很豐富也不錯吃～調味剛剛好\n能吃到蛋白質又有沙拉～\n\n抹茶歐蕾\n普通 下次會點別的\n\n提拉米蘇\n整體還可以，酒味偏重～\n但杏仁味個人不喜歡（好可惜\n\n水跟餐具要自己拿",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Yvonne",
-        "uri": "https://www.google.com/maps/contrib/105640397975238688047/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVTXaUu0g-2D20Vu99h6wlN3-LFMVb7oSe4hNsTyJQ95n0bAJ_m=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2025-10-21T16:27:43.336571481Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OdWRtRlJVbE5XYVRoTmFXRnpha281V25oS1prRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OdWRtRlJVbE5XYVRoTmFXRnpha281V25oS1prRRAB!2m1!1s0x3442a99a20df2b03:0xb6759b02277d8de4"
-    }
-  ]
+﻿{
+    "id":  "ChIJAyvfIJqpQjQR5I19JwKbdbY",
+    "types":  [
+                  "brunch_restaurant",
+                  "bistro",
+                  "food_store",
+                  "store",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2557 7317",
+    "formattedAddress":  "No. 197號, Section 1, Dihua St, Dayou Village, Datong District, Taipei City, Taiwan 103",
+    "location":  {
+                     "latitude":  25.059312,
+                     "longitude":  121.5096069
+                 },
+    "rating":  4.4,
+    "websiteUri":  "https://www.facebook.com/Elementi.taiwan/",
+    "userRatingCount":  623,
+    "displayName":  {
+                        "text":  "根元咖啡 elementi",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJAyvfIJqpQjQR5I19JwKbdbY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2premRGVk9UbmN3UTB4ZlpXRk9aa0V3WVVRNFRuYxAB",
+                        "relativePublishTimeDescription":  "3 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "2026/02: we came back here for dinner and left the restaurant with full belly again 😋. Pastas were fresh and flavorful. The staff were very friendly and attentive. Another great experience at Radici/Elementi 🙌\n\n2025/11: We had an amazing experience for having lunch here. We can see our food made from scratch with fresh ingredients. Shrimp and clam spaghetti was so delicious that reminded us our trip to Positano and Tuscany. Grilled beef was tender and flavorful. Grilled king mushrooms with miso glaze is tasty. We will be back soon.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "2026/02: we came back here for dinner and left the restaurant with full belly again 😋. Pastas were fresh and flavorful. The staff were very friendly and attentive. Another great experience at Radici/Elementi 🙌\n\n2025/11: We had an amazing experience for having lunch here. We can see our food made from scratch with fresh ingredients. Shrimp and clam spaghetti was so delicious that reminded us our trip to Positano and Tuscany. Grilled beef was tender and flavorful. Grilled king mushrooms with miso glaze is tasty. We will be back soon.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Nicole Yang",
+                                                  "uri":  "https://www.google.com/maps/contrib/104112427403837354177/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXunzTFwFj_GqTEvtG10_yQgweN8EmKSW5tQ-VPvez92BR4nJg7nw=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2026-02-28T08:30:36.016409652Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2premRGVk9UbmN3UTB4ZlpXRk9aa0V3WVVRNFRuYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2premRGVk9UbmN3UTB4ZlpXRk9aa0V3WVVRNFRuYxAB!2m1!1s0x3442a99a20df2b03:0xb6759b02277d8de4"
+                    },
+                    {
+                        "name":  "places/ChIJAyvfIJqpQjQR5I19JwKbdbY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CaWRFMW9lRE5CYVd0SE0xSTFSRzF3VGtOeGJIYxAB",
+                        "relativePublishTimeDescription":  "4 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Very nice atmosphere , nice food and reasonable price . The courtyard dining is special .",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Very nice atmosphere , nice food and reasonable price . The courtyard dining is special .",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "ANTHONY NG",
+                                                  "uri":  "https://www.google.com/maps/contrib/118410834227095009010/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocLeizWgrXZUGutEmfyLIa3apGIH0rTF8pXTDXyITDdt5MSgGA=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2026-02-01T09:01:49.356221105Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CaWRFMW9lRE5CYVd0SE0xSTFSRzF3VGtOeGJIYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CaWRFMW9lRE5CYVd0SE0xSTFSRzF3VGtOeGJIYxAB!2m1!1s0x3442a99a20df2b03:0xb6759b02277d8de4"
+                    },
+                    {
+                        "name":  "places/ChIJAyvfIJqpQjQR5I19JwKbdbY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCTVluRnBkRFJ5TFROdmVHWnNka2RZUzBWWGQyYxAB",
+                        "relativePublishTimeDescription":  "11 months ago",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "Surprised to have risotto and spaghetti with an exceptional tasty. Price is honestly high in comparing the cost of living here. The lunch combo including a drink,  a dessert and a main course costs around TWD 720.\nDespite of the restaurant, do prepare to get your cutlery, bottle of drinking water and glass cup by yourself in a self-catering kiosk.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Surprised to have risotto and spaghetti with an exceptional tasty. Price is honestly high in comparing the cost of living here. The lunch combo including a drink,  a dessert and a main course costs around TWD 720.\nDespite of the restaurant, do prepare to get your cutlery, bottle of drinking water and glass cup by yourself in a self-catering kiosk.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "MINNIE TSANG",
+                                                  "uri":  "https://www.google.com/maps/contrib/112641217858059483594/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjX9ICKRM78CdR6qX7QYKw8VX335FXTKW2RoGnILge9_UXB84unh=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-07-08T05:39:14.745384663Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCTVluRnBkRFJ5TFROdmVHWnNka2RZUzBWWGQyYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCTVluRnBkRFJ5TFROdmVHWnNka2RZUzBWWGQyYxAB!2m1!1s0x3442a99a20df2b03:0xb6759b02277d8de4"
+                    }
+                ]
 }

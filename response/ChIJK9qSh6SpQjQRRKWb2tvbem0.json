@@ -1,130 +1,121 @@
-{
-  "id": "ChIJK9qSh6SpQjQRRKWb2tvbem0",
-  "types": [
-    "brunch_restaurant",
-    "restaurant",
-    "food",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2361 2362",
-  "formattedAddress": "100台灣臺北市中正區南門里和平西路二段61號",
-  "location": {
-    "latitude": 25.031506000000004,
-    "longitude": 121.507831
-  },
-  "rating": 4.4,
-  "userRatingCount": 81,
-  "displayName": {
-    "text": "安安早午餐 AnAnBrunch",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJK9qSh6SpQjQRRKWb2tvbem0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wRE5IZDFkSEJ5TWtOTU1ETTFjbUZzYm5sSVRrRRAB",
-      "relativePublishTimeDescription": "8 個月前",
-      "rating": 5,
-      "text": {
-        "text": "熱壓吐司好吃！配料有蕃茄會問是否要加，義大利麵也加白酒也會問是否可以，小孩友善👍",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "熱壓吐司好吃！配料有蕃茄會問是否要加，義大利麵也加白酒也會問是否可以，小孩友善👍",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Yvonne Huang",
-        "uri": "https://www.google.com/maps/contrib/105310838718883232941/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXetMPQVabmtAgOe7ht4KU__ciYlQ8Gmwu3yR_xWJM8QtQLrGmFVg=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2025-09-16T04:45:00.713364806Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wRE5IZDFkSEJ5TWtOTU1ETTFjbUZzYm5sSVRrRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wRE5IZDFkSEJ5TWtOTU1ETTFjbUZzYm5sSVRrRRAB!2m1!1s0x3442a9a48792da2b:0x6d7adbdbda9ba544"
-    },
-    {
-      "name": "places/ChIJK9qSh6SpQjQRRKWb2tvbem0/reviews/ChZDSUhNMG9nS0VJQ0FnTUNZaklLQ0V3EAE",
-      "relativePublishTimeDescription": "1 年前",
-      "rating": 3,
-      "text": {
-        "text": "植物園旁邊的一般早餐店，生意很好，洗手間不開放顧客使用。店員態度冷淡。\n114.5.2初訪\n🫧蔬菜蛋餅30元⭐⭐⭐⭐：便宜平價又美味。\n🫧薯餅20元：中規中矩。\n🫧咖啡美式大杯50元：味道一般，說不上好壞。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "植物園旁邊的一般早餐店，生意很好，洗手間不開放顧客使用。店員態度冷淡。\n114.5.2初訪\n🫧蔬菜蛋餅30元⭐⭐⭐⭐：便宜平價又美味。\n🫧薯餅20元：中規中矩。\n🫧咖啡美式大杯50元：味道一般，說不上好壞。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "米",
-        "uri": "https://www.google.com/maps/contrib/103556359521167270601/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVq64Rp34_4Sw-5vk-gnHW5JsmfgdeYQ1meCSZw-IQDfnt_W2J48Q=s128-c0x00000000-cc-rp-mo-ba8"
-      },
-      "publishTime": "2025-05-04T14:35:50.477640Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNZaklLQ0V3EAE&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNZaklLQ0V3EAE!2m1!1s0x3442a9a48792da2b:0x6d7adbdbda9ba544"
-    },
-    {
-      "name": "places/ChIJK9qSh6SpQjQRRKWb2tvbem0/reviews/ChZDSUhNMG9nS0VMV0FzS3p0a3RMTUt3EAE",
-      "relativePublishTimeDescription": "1 年前",
-      "rating": 5,
-      "text": {
-        "text": "有賣義大利麵的早餐店～如果比較多人點鐵板麵義大利麵會等比較久。\n內用座位數不多，大約可容納十幾人。\n\n小肉豆20元、生菜蛋餅30元、煎餃30元。\n一些單點拼成一盤，視覺上好豐富。煎餃煎得恰到好處。\n2號套餐果醬厚片及炒嫩蛋55元、和風生菜沙拉50元。\n厚片烤得酥酥脆脆，生菜沙拉比想像中大份！\n培根蒜香義大利麵110元，附紅茶。\n花椰菜跟培根都很多～\n\n更多台北美食分享歡迎至Instagram搜尋🔎@tsai_foodlife",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "有賣義大利麵的早餐店～如果比較多人點鐵板麵義大利麵會等比較久。\n內用座位數不多，大約可容納十幾人。\n\n小肉豆20元、生菜蛋餅30元、煎餃30元。\n一些單點拼成一盤，視覺上好豐富。煎餃煎得恰到好處。\n2號套餐果醬厚片及炒嫩蛋55元、和風生菜沙拉50元。\n厚片烤得酥酥脆脆，生菜沙拉比想像中大份！\n培根蒜香義大利麵110元，附紅茶。\n花椰菜跟培根都很多～\n\n更多台北美食分享歡迎至Instagram搜尋🔎@tsai_foodlife",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Louise Wang",
-        "uri": "https://www.google.com/maps/contrib/103212876131063834061/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVhBRX687cHKYvMrwPxellpj_-781Ud4JNeAy362rK7y_QO2uZM=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2025-05-11T06:34:10.089933Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VMV0FzS3p0a3RMTUt3EAE&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VMV0FzS3p0a3RMTUt3EAE!2m1!1s0x3442a9a48792da2b:0x6d7adbdbda9ba544"
-    },
-    {
-      "name": "places/ChIJK9qSh6SpQjQRRKWb2tvbem0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21neGNFUkNNM0EzU1docGNWQnROVXM0TVRWbVMwRRAB",
-      "relativePublishTimeDescription": "7 個月前",
-      "rating": 5,
-      "text": {
-        "text": "青醬是老闆自製的，好吃又便宜",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "青醬是老闆自製的，好吃又便宜",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "小嵐",
-        "uri": "https://www.google.com/maps/contrib/104395570741772060746/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL-a-pbBnjFZkXMtL4edUyr3G_1LobPNeK3EnHbaozTw_Vm5g=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2025-10-23T09:08:50.787402989Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21neGNFUkNNM0EzU1docGNWQnROVXM0TVRWbVMwRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21neGNFUkNNM0EzU1docGNWQnROVXM0TVRWbVMwRRAB!2m1!1s0x3442a9a48792da2b:0x6d7adbdbda9ba544"
-    },
-    {
-      "name": "places/ChIJK9qSh6SpQjQRRKWb2tvbem0/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsOFpITlp3EAE",
-      "relativePublishTimeDescription": "2 個月前",
-      "rating": 5,
-      "text": {
-        "text": "附近上班族中頗有人氣的早午餐店，每到12點店內都是坐滿的。麵食類好吃不油膩，青菜多。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "附近上班族中頗有人氣的早午餐店，每到12點店內都是坐滿的。麵食類好吃不油膩，青菜多。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Len Arc",
-        "uri": "https://www.google.com/maps/contrib/112767959899360294876/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-UPHeFJ5SylAviyL_oa5PyY6BU61rKrkCcKOhof2Z1JiYkPAl=s128-c0x00000000-cc-rp-mo-ba7"
-      },
-      "publishTime": "2026-02-26T04:10:50.938135112Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNsOFpITlp3EAE&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNsOFpITlp3EAE!2m1!1s0x3442a9a48792da2b:0x6d7adbdbda9ba544"
-    }
-  ],
-  "goodForChildren": true
+﻿{
+    "id":  "ChIJK9qSh6SpQjQRRKWb2tvbem0",
+    "types":  [
+                  "brunch_restaurant",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2361 2362",
+    "formattedAddress":  "No. 61, Section 2, Heping W Rd, Nanmen Village, Zhongzheng District, Taipei City, Taiwan 100",
+    "location":  {
+                     "latitude":  25.031506000000004,
+                     "longitude":  121.507831
+                 },
+    "rating":  4.4,
+    "userRatingCount":  81,
+    "displayName":  {
+                        "text":  "AnAn Brunch",
+                        "languageCode":  "en"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJK9qSh6SpQjQRRKWb2tvbem0/reviews/ChdDSUhNMG9nS0VJQ0FnSURyODRUd3lBRRAB",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Brunch restaurant near the Taipei Botanical Garden, they serves acceptable meals and staff are friendly.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Brunch restaurant near the Taipei Botanical Garden, they serves acceptable meals and staff are friendly.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Peggy Lu",
+                                                  "uri":  "https://www.google.com/maps/contrib/101033903528113808622/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVP_JyibSQ3S4nytFT7HkB9v8nOuNpbR9UmBkqMDhPWbwc83rE=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2024-07-20T03:48:34.220564Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURyODRUd3lBRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURyODRUd3lBRRAB!2m1!1s0x3442a9a48792da2b:0x6d7adbdbda9ba544"
+                    },
+                    {
+                        "name":  "places/ChIJK9qSh6SpQjQRRKWb2tvbem0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNMNFk2Z3dRRRAB",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "authorAttribution":  {
+                                                  "displayName":  "Sherwin Dave Legayada",
+                                                  "uri":  "https://www.google.com/maps/contrib/111964957606846046187/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWuwvRHL4ZjzfwoyoNBDvybtCKiuT6wtnwHnYX90Fl_OfTlY7A4zg=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2024-06-20T02:42:40.074973Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNMNFk2Z3dRRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNMNFk2Z3dRRRAB!2m1!1s0x3442a9a48792da2b:0x6d7adbdbda9ba544"
+                    },
+                    {
+                        "name":  "places/ChIJK9qSh6SpQjQRRKWb2tvbem0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25abk1EUTVXbkJ5TWxGMGFUUjNaMGR2WlVGa05HYxAB",
+                        "relativePublishTimeDescription":  "a month ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Such a delightful place\nWe bought some toast, salad and coffee, it was all delicious and really tasty 😋😋\nTotally recommend to buy some breakfast to go and eat in the Botanical garden 🥰",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Such a delightful place\nWe bought some toast, salad and coffee, it was all delicious and really tasty 😋😋\nTotally recommend to buy some breakfast to go and eat in the Botanical garden 🥰",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Zayna Barakat",
+                                                  "uri":  "https://www.google.com/maps/contrib/109143915105254332174/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocKXJzrVd2kLjNU086TlXkKw4cNh5NCKAkyo_GVvzzGY55ObxQ=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2026-04-21T03:36:33.739814944Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25abk1EUTVXbkJ5TWxGMGFUUjNaMGR2WlVGa05HYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25abk1EUTVXbkJ5TWxGMGFUUjNaMGR2WlVGa05HYxAB!2m1!1s0x3442a9a48792da2b:0x6d7adbdbda9ba544"
+                    },
+                    {
+                        "name":  "places/ChIJK9qSh6SpQjQRRKWb2tvbem0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wRE5IZDFkSEJ5TWtOTU1ETTFjbUZzYm5sSVRrRRAB",
+                        "relativePublishTimeDescription":  "8 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "The hot-pressed toast is delicious! They ask if I want to add tomatoes, and they also ask if it\u0027s okay to add white wine to pasta. Kid-friendly! 👍",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "熱壓吐司好吃！配料有蕃茄會問是否要加，義大利麵也加白酒也會問是否可以，小孩友善👍",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Yvonne Huang",
+                                                  "uri":  "https://www.google.com/maps/contrib/105310838718883232941/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXetMPQVabmtAgOe7ht4KU__ciYlQ8Gmwu3yR_xWJM8QtQLrGmFVg=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-09-16T04:45:00.713364806Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wRE5IZDFkSEJ5TWtOTU1ETTFjbUZzYm5sSVRrRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wRE5IZDFkSEJ5TWtOTU1ETTFjbUZzYm5sSVRrRRAB!2m1!1s0x3442a9a48792da2b:0x6d7adbdbda9ba544"
+                    },
+                    {
+                        "name":  "places/ChIJK9qSh6SpQjQRRKWb2tvbem0/reviews/ChZDSUhNMG9nS0VJQ0FnTUNZaklLQ0V3EAE",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  3,
+                        "text":  {
+                                     "text":  "A typical breakfast shop next to the botanical garden, very popular, but the restrooms are not open to customers. The staff are indifferent.\n\nFirst visit 114.5.2\n\n🫧Vegetable omelet NT$30⭐⭐⭐⭐: Cheap, affordable, and delicious.\n\n🫧Hashtag pancake NT$20: Average.\n\n🫧Large Americano NT$50: The taste is so-so, neither good nor bad.",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "植物園旁邊的一般早餐店，生意很好，洗手間不開放顧客使用。店員態度冷淡。\n114.5.2初訪\n🫧蔬菜蛋餅30元⭐⭐⭐⭐：便宜平價又美味。\n🫧薯餅20元：中規中矩。\n🫧咖啡美式大杯50元：味道一般，說不上好壞。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "米",
+                                                  "uri":  "https://www.google.com/maps/contrib/103556359521167270601/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVq64Rp34_4Sw-5vk-gnHW5JsmfgdeYQ1meCSZw-IQDfnt_W2J48Q=s128-c0x00000000-cc-rp-mo-ba8"
+                                              },
+                        "publishTime":  "2025-05-04T14:35:50.477640Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNZaklLQ0V3EAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNZaklLQ0V3EAE!2m1!1s0x3442a9a48792da2b:0x6d7adbdbda9ba544"
+                    }
+                ]
 }

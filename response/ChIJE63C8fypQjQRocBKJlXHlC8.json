@@ -1,132 +1,112 @@
-{
-  "id": "ChIJE63C8fypQjQRocBKJlXHlC8",
-  "types": [
-    "dim_sum_restaurant",
-    "cantonese_restaurant",
-    "chinese_restaurant",
-    "restaurant",
-    "food",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 933 002 233",
-  "formattedAddress": "103台灣臺北市大同區承德路二段213號",
-  "location": {
-    "latitude": 25.059801099999998,
-    "longitude": 121.51844589999999
-  },
-  "rating": 4.5,
-  "websiteUri": "https://www.facebook.com/September19940914/",
-  "userRatingCount": 2046,
-  "displayName": {
-    "text": "九月茶餐廳",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJE63C8fypQjQRocBKJlXHlC8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoeVNsQXpXR1pPVDE5WmJXZGlOMlY2YjJGdFNsRRAB",
-      "relativePublishTimeDescription": "3 週前",
-      "rating": 5,
-      "text": {
-        "text": "餐點非常好吃，很適合想要嚐異國風味的美食，可以來試試",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "餐點非常好吃，很適合想要嚐異國風味的美食，可以來試試",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "陳鈴津",
-        "uri": "https://www.google.com/maps/contrib/112212687736027213406/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW74olat9fN8QDz0SsLhGUB-oNeZnRUM85zshEnUL2HWTvjBl6sZw=s128-c0x00000000-cc-rp-mo-ba2"
-      },
-      "publishTime": "2026-02-27T04:15:54.816092494Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoeVNsQXpXR1pPVDE5WmJXZGlOMlY2YjJGdFNsRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoeVNsQXpXR1pPVDE5WmJXZGlOMlY2YjJGdFNsRRAB!2m1!1s0x3442a9fcf1c2ad13:0x2f94c755264ac0a1"
-    },
-    {
-      "name": "places/ChIJE63C8fypQjQRocBKJlXHlC8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkak1UUTJkVkI2UlZwYVprMUpRelF4T1RKQ2NGRRAB",
-      "relativePublishTimeDescription": "4 個月前",
-      "rating": 3,
-      "text": {
-        "text": "星洲炒米粉偏乾，感覺是咖哩粉下去炒，餐肉蛋飯真的就是餐肉，蛋，和白飯，以價格來說偏高",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "星洲炒米粉偏乾，感覺是咖哩粉下去炒，餐肉蛋飯真的就是餐肉，蛋，和白飯，以價格來說偏高",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Vincent Tien",
-        "uri": "https://www.google.com/maps/contrib/102220262551227615895/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIMbuYlDf-hioi-QQUfD3GrZWLDlQfm3yb8YPeqpeGs2pvlbQ=s128-c0x00000000-cc-rp-mo-ba7"
-      },
-      "publishTime": "2025-11-04T05:58:19.889029141Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkak1UUTJkVkI2UlZwYVprMUpRelF4T1RKQ2NGRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkak1UUTJkVkI2UlZwYVprMUpRelF4T1RKQ2NGRRAB!2m1!1s0x3442a9fcf1c2ad13:0x2f94c755264ac0a1"
-    },
-    {
-      "name": "places/ChIJE63C8fypQjQRocBKJlXHlC8/reviews/ChZDSUhNMG9nS0VQWC16S1dHc0lYMlFBEAE",
-      "relativePublishTimeDescription": "10 個月前",
-      "rating": 4,
-      "text": {
-        "text": "店內用餐空間偏窄但不擁擠，入座會送上熱茶。主食選擇多，比較可惜的是點心類品項選擇較少⋯⋯\n\n滑蛋牛肉飯$160\n鹹甜醬汁超下飯，炒蛋給的很大方。牛肉很嫩。會讓人忍不住一口接一口吃完！\n\n糖醋魚片飯$140\n魚片很嫩很軟，糖醋醬酸酸甜甜的配飯吃很讚～～旁邊的高麗菜偏清淡，感覺很健康。\n\n鮮蝦腐皮卷$145\n外皮酥脆，裡面有滿滿蝦仁、韭黃、香菜、筍絲、馬蹄粒。意外的驚豔！！！好吃到眼睛會為之一亮✨",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "店內用餐空間偏窄但不擁擠，入座會送上熱茶。主食選擇多，比較可惜的是點心類品項選擇較少⋯⋯\n\n滑蛋牛肉飯$160\n鹹甜醬汁超下飯，炒蛋給的很大方。牛肉很嫩。會讓人忍不住一口接一口吃完！\n\n糖醋魚片飯$140\n魚片很嫩很軟，糖醋醬酸酸甜甜的配飯吃很讚～～旁邊的高麗菜偏清淡，感覺很健康。\n\n鮮蝦腐皮卷$145\n外皮酥脆，裡面有滿滿蝦仁、韭黃、香菜、筍絲、馬蹄粒。意外的驚豔！！！好吃到眼睛會為之一亮✨",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "湘湘",
-        "uri": "https://www.google.com/maps/contrib/102957934055381267258/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6_7n3tpkh6TVleTQWavBbZ2mpTkPanZtU3BhAloibtUM7rNc-=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2025-05-17T12:24:15.634409Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VQWC16S1dHc0lYMlFBEAE&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VQWC16S1dHc0lYMlFBEAE!2m1!1s0x3442a9fcf1c2ad13:0x2f94c755264ac0a1"
-    },
-    {
-      "name": "places/ChIJE63C8fypQjQRocBKJlXHlC8/reviews/ChZDSUhNMG9nS0VJQ0FnTURvbG9HUlJREAE",
-      "relativePublishTimeDescription": "11 個月前",
-      "rating": 5,
-      "text": {
-        "text": "民權西路捷運站附近的港式餐廳\n裝潢濃濃港味\n走道不大但座位不會擠\n一入座就送上雞湯和茶\n雞湯順口暖身\n招牌滑蛋叉燒飯必點！\n滑蛋煎得熟度完美\n軟嫩配飯口感極佳\n叉燒調味重有嚼勁\n另一個招牌西多士同樣必點！\n奶油糖漿配上花生醬炸吐司麵包\n真的超級美味超級罪惡熱量爆表但超爽🤤\n港點腐皮卷鮮蝦餃也都好吃\n燒賣偏普通可以不用點\n比較可惜的是檸檬茶不是港式棟檸茶而是台式檸檬紅茶的味道\n店內很多道地香港風格裝飾\n想必老闆一定是堂堂正正的香港人！\n香港加油願榮光歸香港！🇭🇰",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "民權西路捷運站附近的港式餐廳\n裝潢濃濃港味\n走道不大但座位不會擠\n一入座就送上雞湯和茶\n雞湯順口暖身\n招牌滑蛋叉燒飯必點！\n滑蛋煎得熟度完美\n軟嫩配飯口感極佳\n叉燒調味重有嚼勁\n另一個招牌西多士同樣必點！\n奶油糖漿配上花生醬炸吐司麵包\n真的超級美味超級罪惡熱量爆表但超爽🤤\n港點腐皮卷鮮蝦餃也都好吃\n燒賣偏普通可以不用點\n比較可惜的是檸檬茶不是港式棟檸茶而是台式檸檬紅茶的味道\n店內很多道地香港風格裝飾\n想必老闆一定是堂堂正正的香港人！\n香港加油願榮光歸香港！🇭🇰",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "粘漢",
-        "uri": "https://www.google.com/maps/contrib/101755301386257766690/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUrEr9JKETPD4kLsfPWtPto6ZdIf7r-OkOfEx72xsfexdx4bzhPfg=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2025-04-24T13:51:17.348766Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvbG9HUlJREAE&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvbG9HUlJREAE!2m1!1s0x3442a9fcf1c2ad13:0x2f94c755264ac0a1"
-    },
-    {
-      "name": "places/ChIJE63C8fypQjQRocBKJlXHlC8/reviews/ChdDSUhNMG9nS0VJQ0FnTURRM3Q3b2lRRRAB",
-      "relativePublishTimeDescription": "1 年前",
-      "rating": 5,
-      "text": {
-        "text": "好久沒吃港式茶餐廳了，經過此家接近打烊前，趕緊進來滿足一下。\n\n點了一些茶點及兩樣主菜，口味都很道地，結帳時帥氣老闆也是一口香港腔，服務也很好，會再找時間帶親友來吃。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "好久沒吃港式茶餐廳了，經過此家接近打烊前，趕緊進來滿足一下。\n\n點了一些茶點及兩樣主菜，口味都很道地，結帳時帥氣老闆也是一口香港腔，服務也很好，會再找時間帶親友來吃。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Steven Ker",
-        "uri": "https://www.google.com/maps/contrib/116271738019949033875/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVx5Q_Wo9GXKdqwjoEjrgittjhXZGsZDfrj7pt7RQosKEuAh9wS=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2025-03-11T08:57:03.342144Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRM3Q3b2lRRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRM3Q3b2lRRRAB!2m1!1s0x3442a9fcf1c2ad13:0x2f94c755264ac0a1"
-    }
-  ]
+﻿{
+    "id":  "ChIJE63C8fypQjQRocBKJlXHlC8",
+    "types":  [
+                  "dim_sum_restaurant",
+                  "cantonese_restaurant",
+                  "chinese_restaurant",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 933 002 233",
+    "formattedAddress":  "No. 213號, Section 2, Chengde Rd, Shuanglian Village, Datong District, Taipei City, Taiwan 103",
+    "location":  {
+                     "latitude":  25.059801099999998,
+                     "longitude":  121.51844589999999
+                 },
+    "rating":  4.5,
+    "websiteUri":  "https://www.facebook.com/September19940914/",
+    "priceLevel":  "PRICE_LEVEL_MODERATE",
+    "userRatingCount":  2105,
+    "displayName":  {
+                        "text":  "Jiu Yue Dim Sum Restaurant",
+                        "languageCode":  "en"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJE63C8fypQjQRocBKJlXHlC8/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvLUozQndnRRAB",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Friday 11th April 2025\n\nOn our travels to Taipei Taiwan we came across this wonderful Hong Kong 🇭🇰 restaurant, which is only a 10 minute walk from the Ningxia Night Market, or 6 minutes from the MRT Minquan West Rd station “red line”.\n\nIf your craving some authentic Kong style food this is the place to visit, we ordered Silky Egg with Char Siu on rice, Crab Meat Siu Mai, Black Sesame Steamed bun, Phoenix claw, Beef with stir Fried noodles, Raddish cake and Tempeh Pineapple 🍍 Rolls.\n\nOrdering is easy via the QR code enabled Menu system which provides photos and english option. Food is great and we really loved all the items. My favourite items where the Pineapple Rolls, Black Sesame Bun, Silky Egg with Char Siu on rice and beef with stir Fried noodles.\n\nI almost forgot to mention that we were served a delicious chicken soup to start the meal and it was super refreshing 😋. Great food flavours, plenty of options, friendly staff and good vibes! We really enjoyed it and I hope you do to.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Friday 11th April 2025\n\nOn our travels to Taipei Taiwan we came across this wonderful Hong Kong 🇭🇰 restaurant, which is only a 10 minute walk from the Ningxia Night Market, or 6 minutes from the MRT Minquan West Rd station “red line”.\n\nIf your craving some authentic Kong style food this is the place to visit, we ordered Silky Egg with Char Siu on rice, Crab Meat Siu Mai, Black Sesame Steamed bun, Phoenix claw, Beef with stir Fried noodles, Raddish cake and Tempeh Pineapple 🍍 Rolls.\n\nOrdering is easy via the QR code enabled Menu system which provides photos and english option. Food is great and we really loved all the items. My favourite items where the Pineapple Rolls, Black Sesame Bun, Silky Egg with Char Siu on rice and beef with stir Fried noodles.\n\nI almost forgot to mention that we were served a delicious chicken soup to start the meal and it was super refreshing 😋. Great food flavours, plenty of options, friendly staff and good vibes! We really enjoyed it and I hope you do to.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Jason Johnson",
+                                                  "uri":  "https://www.google.com/maps/contrib/112331246547893529425/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocLlBivtNLbwreUYuHl55_PBFILESEkfGFZixgik_IqJjpfeyw=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-04-15T03:52:38.159639Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvLUozQndnRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvLUozQndnRRAB!2m1!1s0x3442a9fcf1c2ad13:0x2f94c755264ac0a1"
+                    },
+                    {
+                        "name":  "places/ChIJE63C8fypQjQRocBKJlXHlC8/reviews/ChdDSUhNMG9nS0VKdmt0WWVNMzdyc2d3RRAB",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "I had been wanting to go to this restaurant for a while, but kept on forgetting about it.\nI\u0027m glad I finally paid it a visit. We had one of the silky egg dishes (beef on rice), and a couple of dim sum dishes as well.\nBefore we had even made our order we were already served with complimentary soup and tea. After we made our selection via QR code (menu in English and with photos available), the dishes soon started arriving on our table. The silky egg dish was divine (maybe on of the best eggs I\u0027ve ever tasted), the dim sum were some classics and some new (for me) dishes. The crab yolk siu mai and steamed bbq pork buns were great, the fresh shrimp bean curd rolls were good too, and the tempeh pineapple rolls were a surprising yet tasty choice.\nI will come back here to sample more dishes and I would urge you to give this restaurant a chance as well.\nPrices were very reasonable and the service was good and fast.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "I had been wanting to go to this restaurant for a while, but kept on forgetting about it.\nI\u0027m glad I finally paid it a visit. We had one of the silky egg dishes (beef on rice), and a couple of dim sum dishes as well.\nBefore we had even made our order we were already served with complimentary soup and tea. After we made our selection via QR code (menu in English and with photos available), the dishes soon started arriving on our table. The silky egg dish was divine (maybe on of the best eggs I\u0027ve ever tasted), the dim sum were some classics and some new (for me) dishes. The crab yolk siu mai and steamed bbq pork buns were great, the fresh shrimp bean curd rolls were good too, and the tempeh pineapple rolls were a surprising yet tasty choice.\nI will come back here to sample more dishes and I would urge you to give this restaurant a chance as well.\nPrices were very reasonable and the service was good and fast.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "martin de geus",
+                                                  "uri":  "https://www.google.com/maps/contrib/110699548449633269249/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocKK1W2SYbLW_ROPwG0oNiUikVtty4K2gE3i6skuQfb26s7jqg=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-05-20T06:14:36.752167Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VKdmt0WWVNMzdyc2d3RRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VKdmt0WWVNMzdyc2d3RRAB!2m1!1s0x3442a9fcf1c2ad13:0x2f94c755264ac0a1"
+                    },
+                    {
+                        "name":  "places/ChIJE63C8fypQjQRocBKJlXHlC8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNib0ttLVh3EAE",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  3,
+                        "text":  {
+                                     "text":  "Way too sweet for my taste but maybe that\u0027s how all dim sums are. The smooth eggs dish was covered in oil and too salty, it was too heavy. Blanched vegetables are good though.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Way too sweet for my taste but maybe that\u0027s how all dim sums are. The smooth eggs dish was covered in oil and too salty, it was too heavy. Blanched vegetables are good though.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Elsa",
+                                                  "uri":  "https://www.google.com/maps/contrib/118063153054214966227/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocIOvrgWO5Sp4LMj3AmBMTDms1Owu0eqRtrNpYUpNxuKKpXbY4DS=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2024-07-22T05:41:26.199897Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNib0ttLVh3EAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNib0ttLVh3EAE!2m1!1s0x3442a9fcf1c2ad13:0x2f94c755264ac0a1"
+                    },
+                    {
+                        "name":  "places/ChIJE63C8fypQjQRocBKJlXHlC8/reviews/ChZDSUhNMG9nS0VJQ0FnSURQNUlERERREAE",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Authentic Hong Kong taste in Taipei run by Hongkongers. We tried shrimp dumpling, iced lemon tea, Singapore fried rice noodle,  BBQ pork with fried egg rice. All are up to our expectation. Will come again for other dishes.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Authentic Hong Kong taste in Taipei run by Hongkongers. We tried shrimp dumpling, iced lemon tea, Singapore fried rice noodle,  BBQ pork with fried egg rice. All are up to our expectation. Will come again for other dishes.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Herman Lam",
+                                                  "uri":  "https://www.google.com/maps/contrib/113267853479571675133/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocKmCkiPFJmff4MVKbvDfjbltxrVYovp1ss0vy4nbvI0Mlw9YA=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2024-11-29T08:52:36.711827Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURQNUlERERREAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURQNUlERERREAE!2m1!1s0x3442a9fcf1c2ad13:0x2f94c755264ac0a1"
+                    }
+                ]
 }

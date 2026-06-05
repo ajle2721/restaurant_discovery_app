@@ -1,23 +1,132 @@
-{
-  "id": "ChIJcwObHJ6pQjQRQIt7kUup1qo",
-  "types": [
-    "taiwanese_restaurant",
-    "tea_house",
-    "restaurant",
-    "food",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2351 9554",
-  "formattedAddress": "100台灣臺北市中正區中山南路21之1號",
-  "location": {
-    "latitude": 25.0368012,
-    "longitude": 121.51898750000001
-  },
-  "websiteUri": "http://chunshuitang.com.tw/",
-  "displayName": {
-    "text": "春水堂 中正店",
-    "languageCode": "zh-TW"
-  },
-  "reviews": []
+﻿{
+    "id":  "ChIJcwObHJ6pQjQRQIt7kUup1qo",
+    "types":  [
+                  "taiwanese_restaurant",
+                  "tea_house",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2351 9554",
+    "formattedAddress":  "No. 21之1號, Zhongshan S Rd, Dongmen Village, Zhongzheng District, Taipei City, Taiwan 100",
+    "location":  {
+                     "latitude":  25.0368012,
+                     "longitude":  121.51898750000001
+                 },
+    "rating":  3.8,
+    "websiteUri":  "http://chunshuitang.com.tw/",
+    "priceLevel":  "PRICE_LEVEL_MODERATE",
+    "userRatingCount":  1639,
+    "displayName":  {
+                        "text":  "Chun Shui Tang Zhongzheng Branch",
+                        "languageCode":  "en"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJcwObHJ6pQjQRQIt7kUup1qo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21relMwTndNWFJVTTNCWGVqRkdURE0xTWxkRmNsRRAB",
+                        "relativePublishTimeDescription":  "4 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Can only really comment on the drinks because that was what we came for. My taiwanese friend recommended this place as it\u0027s the og bubble tea and it really didn\u0027t disappoint. What separates it from other bubble tea places are the size of the tapioca balls. They\u0027re much smaller here which I thought was really cool.\n\nAlso recommend the side order of radish cake. They\u0027re like lor Bach go at dim sum, and they are really well made with a tasty sauce. There is a minimum spend here and there was a queue as soon as it opened at 1130... We showed up just before it opened and we were 10th in the queue just to give you a sense of it.\n\nWhen you arrive, enter the queue and you\u0027ll be given a number. You can wait outside the restaurant in the hallway where you\u0027ll hear your number called. Sit down and scan the QR code at your table, and place your order. Go pay for your order, and that\u0027s when your order will go through. They do accept card. Also there is a minimum spend per person.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Can only really comment on the drinks because that was what we came for. My taiwanese friend recommended this place as it\u0027s the og bubble tea and it really didn\u0027t disappoint. What separates it from other bubble tea places are the size of the tapioca balls. They\u0027re much smaller here which I thought was really cool.\n\nAlso recommend the side order of radish cake. They\u0027re like lor Bach go at dim sum, and they are really well made with a tasty sauce. There is a minimum spend here and there was a queue as soon as it opened at 1130... We showed up just before it opened and we were 10th in the queue just to give you a sense of it.\n\nWhen you arrive, enter the queue and you\u0027ll be given a number. You can wait outside the restaurant in the hallway where you\u0027ll hear your number called. Sit down and scan the QR code at your table, and place your order. Go pay for your order, and that\u0027s when your order will go through. They do accept card. Also there is a minimum spend per person.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Brandon C",
+                                                  "uri":  "https://www.google.com/maps/contrib/117064085821417863822/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocLF_3cmuYrSytGFMS0L1zv78KpPnj6iVJfQy2aDAlDpuFsA9w=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2026-01-12T16:13:59.523665469Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21relMwTndNWFJVTTNCWGVqRkdURE0xTWxkRmNsRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21relMwTndNWFJVTTNCWGVqRkdURE0xTWxkRmNsRRAB!2m1!1s0x3442a99e1c9b0373:0xaad6a94b917b8b40"
+                    },
+                    {
+                        "name":  "places/ChIJcwObHJ6pQjQRQIt7kUup1qo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pab2RYSTBha1ZqVFRJNU5uaEdjbGhSYTFKUlZrRRAB",
+                        "relativePublishTimeDescription":  "3 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "I felt not too sure when walking int this restaurant because I just thought it was a boba shop but it was indeed a restaurant. I felt weird when just ordering boba only but seemed like other customers were doing the same things. Overall it’s a great place to visit but in my opinion the drinks didn’t impress me. Good to give it a try but probably won’t come back!",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "I felt not too sure when walking int this restaurant because I just thought it was a boba shop but it was indeed a restaurant. I felt weird when just ordering boba only but seemed like other customers were doing the same things. Overall it’s a great place to visit but in my opinion the drinks didn’t impress me. Good to give it a try but probably won’t come back!",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Uyen Bui",
+                                                  "uri":  "https://www.google.com/maps/contrib/106735844762294722031/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjX0nrsV1VHLcMCu1WAwjaRpN3MlluchTZFyk6h5y-7pwNRzqZOZnQ=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2026-02-11T15:48:09.366862415Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pab2RYSTBha1ZqVFRJNU5uaEdjbGhSYTFKUlZrRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pab2RYSTBha1ZqVFRJNU5uaEdjbGhSYTFKUlZrRRAB!2m1!1s0x3442a99e1c9b0373:0xaad6a94b917b8b40"
+                    },
+                    {
+                        "name":  "places/ChIJcwObHJ6pQjQRQIt7kUup1qo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5WWFWaG5SV1J3WmpWb09ERlJTVFJ1Y2tKd1QxRRAB",
+                        "relativePublishTimeDescription":  "6 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Went here for our xxth anniversary. Was recommended for its traditional Taiwanese food. Didn\u0027t disappoint was very enjoyable.. a little touristy but that didn\u0027t reflect in the cost",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Went here for our xxth anniversary. Was recommended for its traditional Taiwanese food. Didn\u0027t disappoint was very enjoyable.. a little touristy but that didn\u0027t reflect in the cost",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Stuart Gibson",
+                                                  "uri":  "https://www.google.com/maps/contrib/114146163655765383934/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVNSFLl5YfkIZMTH0g6h9p2qfgFK3Eoof9FURS1cY1oYSgPNdk=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-12-02T00:56:38.927580895Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5WWFWaG5SV1J3WmpWb09ERlJTVFJ1Y2tKd1QxRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5WWFWaG5SV1J3WmpWb09ERlJTVFJ1Y2tKd1QxRRAB!2m1!1s0x3442a99e1c9b0373:0xaad6a94b917b8b40"
+                    },
+                    {
+                        "name":  "places/ChIJcwObHJ6pQjQRQIt7kUup1qo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGUlVHVXdOR3BoTTJsMFJrRTJkbTV5TmtOb1gxRRAB",
+                        "relativePublishTimeDescription":  "8 months ago",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "A pint of bubble tea what is there not to love!\n\nEven though this was classed as the originator of bubble tea it tasted great but nothing special that sets it apart with competitors. I did appreciate the huge portion that we got which was something different but I definitely hit my bubble tea quota for the week..\n\nWay to order was pretty confusing especially for tourists like myself, the place was pretty peaceful however.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "A pint of bubble tea what is there not to love!\n\nEven though this was classed as the originator of bubble tea it tasted great but nothing special that sets it apart with competitors. I did appreciate the huge portion that we got which was something different but I definitely hit my bubble tea quota for the week..\n\nWay to order was pretty confusing especially for tourists like myself, the place was pretty peaceful however.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "G",
+                                                  "uri":  "https://www.google.com/maps/contrib/115523999914840622051/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVtlC50N7fuR0G_6SchqY4T61bOtDxrWJ9uADWhsDl1cxndTcuZ=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-09-25T19:52:09.295021752Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGUlVHVXdOR3BoTTJsMFJrRTJkbTV5TmtOb1gxRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGUlVHVXdOR3BoTTJsMFJrRTJkbTV5TmtOb1gxRRAB!2m1!1s0x3442a99e1c9b0373:0xaad6a94b917b8b40"
+                    },
+                    {
+                        "name":  "places/ChIJcwObHJ6pQjQRQIt7kUup1qo/reviews/ChdDSUhNMG9nS0VJQ0FnSURfMGEyc3JnRRAB",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Most bubble tea places have a generic sterile decor. But not here. Here, they have an excellent environment. I like the way it\u0027s designed to be inviting, comfortable, relaxing  place for you to sit and rest.\n\nStaffs can be brusque though but maybe because we don\u0027t follow their \u0027booking\u0027 / waiting for tables rules. You need to first take a number at the entrance. Then wait patiently for the staff to come assign you a table. Don\u0027t walk straight to a table and plonk yourself at the table and expect your drinks and food. Once you get your assigned table, use the qr to order, then go to the payment counter and pay. Then only will your food and drinks be sent to you.\n\nBeing a branch / franchise of the creators of the bubble tea does create some expectations and I must say I enjoyed their concoction. The fact that you can adjust the sweetness of your drinks is an added bonus. You can\u0027t go wrong no matter what you order. Their drinks are excellent. I can\u0027t comment on their food as I didn\u0027t order any, but visually, (observed my neighboring tables) they look delicious.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Most bubble tea places have a generic sterile decor. But not here. Here, they have an excellent environment. I like the way it\u0027s designed to be inviting, comfortable, relaxing  place for you to sit and rest.\n\nStaffs can be brusque though but maybe because we don\u0027t follow their \u0027booking\u0027 / waiting for tables rules. You need to first take a number at the entrance. Then wait patiently for the staff to come assign you a table. Don\u0027t walk straight to a table and plonk yourself at the table and expect your drinks and food. Once you get your assigned table, use the qr to order, then go to the payment counter and pay. Then only will your food and drinks be sent to you.\n\nBeing a branch / franchise of the creators of the bubble tea does create some expectations and I must say I enjoyed their concoction. The fact that you can adjust the sweetness of your drinks is an added bonus. You can\u0027t go wrong no matter what you order. Their drinks are excellent. I can\u0027t comment on their food as I didn\u0027t order any, but visually, (observed my neighboring tables) they look delicious.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Layar Jaring",
+                                                  "uri":  "https://www.google.com/maps/contrib/104273519659810696266/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocKcrvYQf-MOZH2G7pOcEG9Q4VRaCmjtHQQgG8foSwiXdOWihg=s128-c0x00000000-cc-rp-mo-ba8"
+                                              },
+                        "publishTime":  "2025-01-25T00:28:41.496375Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfMGEyc3JnRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfMGEyc3JnRRAB!2m1!1s0x3442a99e1c9b0373:0xaad6a94b917b8b40"
+                    }
+                ]
 }

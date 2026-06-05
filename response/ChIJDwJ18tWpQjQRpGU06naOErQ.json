@@ -1,129 +1,108 @@
-{
-  "id": "ChIJDwJ18tWpQjQRpGU06naOErQ",
-  "types": [
-    "brunch_restaurant",
-    "restaurant",
-    "point_of_interest",
-    "food",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2550 7689",
-  "formattedAddress": "103台灣臺北市大同區星明里太原路177號",
-  "location": {
-    "latitude": 25.0559516,
-    "longitude": 121.51691389999999
-  },
-  "rating": 4.2,
-  "userRatingCount": 64,
-  "displayName": {
-    "text": "Aunt Jan早午餐店",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJDwJ18tWpQjQRpGU06naOErQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT20wMVppMTJhbmM0Vm1nNVdta3lRV3RWZERKeE0yYxAB",
-      "relativePublishTimeDescription": "3 個月前",
-      "rating": 4,
-      "text": {
-        "text": "老闆非常熱情\n這家的三杯麵吃起來也比較特別 蠻好吃的\n可惜餐點的價位偏高\n原味蛋餅要$35 可能房租太貴了吧",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "老闆非常熱情\n這家的三杯麵吃起來也比較特別 蠻好吃的\n可惜餐點的價位偏高\n原味蛋餅要$35 可能房租太貴了吧",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "hi Hi",
-        "uri": "https://www.google.com/maps/contrib/114852540209960348193/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXhL-u7yrSOkc0WrvyHELrCAk3zdWkppl8iWrvtrqfzfpbVB--Y=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2026-02-24T03:44:36.817560478Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20wMVppMTJhbmM0Vm1nNVdta3lRV3RWZERKeE0yYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20wMVppMTJhbmM0Vm1nNVdta3lRV3RWZERKeE0yYxAB!2m1!1s0x3442a9d5f275020f:0xb4128e76ea3465a4"
-    },
-    {
-      "name": "places/ChIJDwJ18tWpQjQRpGU06naOErQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURPeS1qT3N3RRAB",
-      "relativePublishTimeDescription": "3 年前",
-      "rating": 5,
-      "text": {
-        "text": "美式套餐不錯吃，有飽足感，現在還有飲料免費升級大杯喔！滿60元可以集一點，滿十點可以送25元飲料，集點卡沒有期限！",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "美式套餐不錯吃，有飽足感，現在還有飲料免費升級大杯喔！滿60元可以集一點，滿十點可以送25元飲料，集點卡沒有期限！",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "hst debby",
-        "uri": "https://www.google.com/maps/contrib/115388639642842667526/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKB5e48JxTmEOPIMDnFgpbFQOCSsoemnF3wZPb4tv8llx7gyA=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2022-07-14T03:50:02.781914Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURPeS1qT3N3RRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURPeS1qT3N3RRAB!2m1!1s0x3442a9d5f275020f:0xb4128e76ea3465a4"
-    },
-    {
-      "name": "places/ChIJDwJ18tWpQjQRpGU06naOErQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUR0OTVyeHp3RRAB",
-      "relativePublishTimeDescription": "2 年前",
-      "rating": 5,
-      "text": {
-        "text": "服務人員親切\n餐點好吃\n微焦的蘿蔔糕搭配半熟蛋黃\n熱紅茶帶點仙草清香",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "服務人員親切\n餐點好吃\n微焦的蘿蔔糕搭配半熟蛋黃\n熱紅茶帶點仙草清香",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "林奕廷",
-        "uri": "https://www.google.com/maps/contrib/116386197012589690588/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWPzBof7kCAqI8QRvsjLbiBmSebAD1JdAYLLfmwc9e4C5WlwoL0jw=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2024-02-08T01:50:07.693459Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR0OTVyeHp3RRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR0OTVyeHp3RRAB!2m1!1s0x3442a9d5f275020f:0xb4128e76ea3465a4"
-    },
-    {
-      "name": "places/ChIJDwJ18tWpQjQRpGU06naOErQ/reviews/ChdDSUhNMG9nS0VJQ0FnSURoNE9yRWdnRRAB",
-      "relativePublishTimeDescription": "3 年前",
-      "rating": 5,
-      "text": {
-        "text": "這裡不管什麼餐點都好好吃歐\n薯條跟奶茶也跟一般的早餐店不一樣 超好吃\n整個變老顧客 每天固定來\n店員也都很親切\n內用座位也寬敞\n價格會高一些些 但他的材料就是符合這個價錢",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "這裡不管什麼餐點都好好吃歐\n薯條跟奶茶也跟一般的早餐店不一樣 超好吃\n整個變老顧客 每天固定來\n店員也都很親切\n內用座位也寬敞\n價格會高一些些 但他的材料就是符合這個價錢",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Angel YE",
-        "uri": "https://www.google.com/maps/contrib/113436653140853450153/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXA1vVAEJfa9t9GnrY2rBxcoE5ASkhO79M4O2-4b84KxMwgDZCc=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2023-02-27T03:01:21.070148Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURoNE9yRWdnRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURoNE9yRWdnRRAB!2m1!1s0x3442a9d5f275020f:0xb4128e76ea3465a4"
-    },
-    {
-      "name": "places/ChIJDwJ18tWpQjQRpGU06naOErQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtME1hWk9REAE",
-      "relativePublishTimeDescription": "3 年前",
-      "rating": 2,
-      "text": {
-        "text": "單點要70元的烤雞漢堡肉都不到漢堡一半，加點套餐的薯條是好吃的挽救一星",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "單點要70元的烤雞漢堡肉都不到漢堡一半，加點套餐的薯條是好吃的挽救一星",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "YH Wang",
-        "uri": "https://www.google.com/maps/contrib/105762390722609496753/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUy_C3HUy2ZrcNLLtVOA1zaN1hh3snztAhPMx9FsKYt_xoHCUQR=s128-c0x00000000-cc-rp-mo-ba4"
-      },
-      "publishTime": "2022-11-19T03:20:29.933555Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQtME1hWk9REAE&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQtME1hWk9REAE!2m1!1s0x3442a9d5f275020f:0xb4128e76ea3465a4"
-    }
-  ]
+﻿{
+    "id":  "ChIJDwJ18tWpQjQRpGU06naOErQ",
+    "types":  [
+                  "brunch_restaurant",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2550 7689",
+    "formattedAddress":  "No. 177號, Taiyuan Rd, Xingming Village, Datong District, Taipei City, Taiwan 103",
+    "location":  {
+                     "latitude":  25.0559516,
+                     "longitude":  121.51691389999999
+                 },
+    "rating":  4.2,
+    "userRatingCount":  64,
+    "displayName":  {
+                        "text":  "Aunt Jan早午餐店",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJDwJ18tWpQjQRpGU06naOErQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wV1RrUXhhVzFoUTJsWmFtVnpYMk5IVVRsRExVRRAB",
+                        "relativePublishTimeDescription":  "9 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "I was greeted by two friendly and sweet aunties. They made me feel welcome and the food was delicious.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "I was greeted by two friendly and sweet aunties. They made me feel welcome and the food was delicious.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "TJ Dillashaw",
+                                                  "uri":  "https://www.google.com/maps/contrib/100149766214633251412/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjV4O96aaeG7Nw9Uz2c88rrBg41vzuj3aXsct0j5CPumq06uvIA=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2025-08-18T05:59:55.263008521Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wV1RrUXhhVzFoUTJsWmFtVnpYMk5IVVRsRExVRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wV1RrUXhhVzFoUTJsWmFtVnpYMk5IVVRsRExVRRAB!2m1!1s0x3442a9d5f275020f:0xb4128e76ea3465a4"
+                    },
+                    {
+                        "name":  "places/ChIJDwJ18tWpQjQRpGU06naOErQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvc3ViVU9BEAE",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "delicious food with a homemade vibe !!",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "delicious food with a homemade vibe !!",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Bianca Gomes",
+                                                  "uri":  "https://www.google.com/maps/contrib/105202337638297689987/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjX9-GEwzODuGM9-EIvF16w8XOOUnxIF9x8O9c87OZkyKbIAkG1_pA=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2025-04-16T02:03:33.845257Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvc3ViVU9BEAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvc3ViVU9BEAE!2m1!1s0x3442a9d5f275020f:0xb4128e76ea3465a4"
+                    },
+                    {
+                        "name":  "places/ChIJDwJ18tWpQjQRpGU06naOErQ/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvc3BhcElREAE",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "very good food, the ladies are super sweet and nice",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "very good food, the ladies are super sweet and nice",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Lidia Barranco",
+                                                  "uri":  "https://www.google.com/maps/contrib/100869766026243567981/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjW1DOg2i7Tij_SnZNwgJOmdcOOCc03bcXpZ5WnK8_yx45AWCcPaMw=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2025-04-16T02:04:32.260187Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvc3BhcElREAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvc3BhcElREAE!2m1!1s0x3442a9d5f275020f:0xb4128e76ea3465a4"
+                    },
+                    {
+                        "name":  "places/ChIJDwJ18tWpQjQRpGU06naOErQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT20wMVppMTJhbmM0Vm1nNVdta3lRV3RWZERKeE0yYxAB",
+                        "relativePublishTimeDescription":  "3 months ago",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "The owner was very welcoming.\n\nThe three-cup noodles here are quite unique and delicious.\n\nUnfortunately, the prices are a bit high. The original egg pancake is $35; maybe the rent is too expensive.",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "老闆非常熱情\n這家的三杯麵吃起來也比較特別 蠻好吃的\n可惜餐點的價位偏高\n原味蛋餅要$35 可能房租太貴了吧",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "hi Hi",
+                                                  "uri":  "https://www.google.com/maps/contrib/114852540209960348193/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXhL-u7yrSOkc0WrvyHELrCAk3zdWkppl8iWrvtrqfzfpbVB--Y=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2026-02-24T03:44:36.817560478Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20wMVppMTJhbmM0Vm1nNVdta3lRV3RWZERKeE0yYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20wMVppMTJhbmM0Vm1nNVdta3lRV3RWZERKeE0yYxAB!2m1!1s0x3442a9d5f275020f:0xb4128e76ea3465a4"
+                    }
+                ]
 }

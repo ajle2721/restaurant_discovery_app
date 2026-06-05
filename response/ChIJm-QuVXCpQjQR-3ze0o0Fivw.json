@@ -1,131 +1,132 @@
-{
-  "id": "ChIJm-QuVXCpQjQR-3ze0o0Fivw",
-  "types": [
-    "cajun_restaurant",
-    "american_restaurant",
-    "restaurant",
-    "food",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 3393 7662",
-  "formattedAddress": "100台灣臺北市中正區林森南路2號",
-  "location": {
-    "latitude": 25.0441768,
-    "longitude": 121.5226663
-  },
-  "rating": 4.4,
-  "websiteUri": "https://www.facebook.com/nolakitchenls",
-  "userRatingCount": 2435,
-  "displayName": {
-    "text": "Nola Kitchen 台北林森店(二號巷子口內、喜來登飯店後方)",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJm-QuVXCpQjQR-3ze0o0Fivw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOMk4ySlNZbFJyVUVSRmQzVm1Zamw0Tlc1ZlVsRRAB",
-      "relativePublishTimeDescription": "3 週前",
-      "rating": 2,
-      "text": {
-        "text": "一般食物普通，沒什麼驚艷點。扣分的是生蠔，6顆900元，上桌時一顆直接滑出來，先生用手接住，不然就直接落地了，店家當作啥事也沒有，拿了紙巾濕紙巾過來，好吧，我們真的自認倒楣就吃了，結果另外有一顆入口又有怪味，真是夠了...價格偏高，用餐體驗不佳、不符預期。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "一般食物普通，沒什麼驚艷點。扣分的是生蠔，6顆900元，上桌時一顆直接滑出來，先生用手接住，不然就直接落地了，店家當作啥事也沒有，拿了紙巾濕紙巾過來，好吧，我們真的自認倒楣就吃了，結果另外有一顆入口又有怪味，真是夠了...價格偏高，用餐體驗不佳、不符預期。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Royce Huang",
-        "uri": "https://www.google.com/maps/contrib/114668551662232082978/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW617gr_bwXF8Q-jqKcY0rjaCk0K9cMvIhRRRTqIvWHJxXT6bdFiw=s128-c0x00000000-cc-rp-mo-ba8"
-      },
-      "publishTime": "2026-02-28T09:06:02.680938602Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOMk4ySlNZbFJyVUVSRmQzVm1Zamw0Tlc1ZlVsRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOMk4ySlNZbFJyVUVSRmQzVm1Zamw0Tlc1ZlVsRRAB!2m1!1s0x3442a970552ee49b:0xfc8a058dd2de7cfb"
-    },
-    {
-      "name": "places/ChIJm-QuVXCpQjQR-3ze0o0Fivw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsSFpHWXlVVm90YVd4b1JXOWZNWEpvYmpkUVpWRRAB",
-      "relativePublishTimeDescription": "3 個月前",
-      "rating": 4,
-      "text": {
-        "text": "來登飯店後方巷子真是臥虎藏龍\n走進去像是穿越到另一個味蕾的平行時空\n這裡不只有必比登推薦的蔬食餐廳\n還有一家風格迴異的紐奧良美式廚房\n彷彿一秒把你從東方的巷弄\n送到爵士樂與熱辣香料交織的美國南方\n第一道端上來的是焦黑魚\n魚香如夜海深沉 魚肉浸泡 cajun spices\nQ彈帶著微微炭香 像海浪打在舌尖上\n第二道是楓糖鬆餅炸雞\n金黃外皮酥到輕咬 就會掉下小片\n香脆楓糖的甜與炸雞的鹹\n在口中跳著熱情探戈\n中場蒜味番茄登場\n濃郁蒜香中和炸物的油膩感\n最後甜點是貝涅餅beignets\n炸到蓬鬆的方形甜甜圈\n撒滿糖粉 咬下一口像冬天的雪花瞬間融化嘴角\n這一餐像是一趟跨越國界的味蕾旅行\n原來在繁忙城市的縫隙間\n隨時都可能藏著一場美味的冒險",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "來登飯店後方巷子真是臥虎藏龍\n走進去像是穿越到另一個味蕾的平行時空\n這裡不只有必比登推薦的蔬食餐廳\n還有一家風格迴異的紐奧良美式廚房\n彷彿一秒把你從東方的巷弄\n送到爵士樂與熱辣香料交織的美國南方\n第一道端上來的是焦黑魚\n魚香如夜海深沉 魚肉浸泡 cajun spices\nQ彈帶著微微炭香 像海浪打在舌尖上\n第二道是楓糖鬆餅炸雞\n金黃外皮酥到輕咬 就會掉下小片\n香脆楓糖的甜與炸雞的鹹\n在口中跳著熱情探戈\n中場蒜味番茄登場\n濃郁蒜香中和炸物的油膩感\n最後甜點是貝涅餅beignets\n炸到蓬鬆的方形甜甜圈\n撒滿糖粉 咬下一口像冬天的雪花瞬間融化嘴角\n這一餐像是一趟跨越國界的味蕾旅行\n原來在繁忙城市的縫隙間\n隨時都可能藏著一場美味的冒險",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "M L Lai",
-        "uri": "https://www.google.com/maps/contrib/111736355960647720257/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX9gKTc4WIJFecWOeuVHmQKTQqj3Kg_At-dK9zywDoJuaSR7y5_7g=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2025-12-15T13:46:30.436725755Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsSFpHWXlVVm90YVd4b1JXOWZNWEpvYmpkUVpWRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsSFpHWXlVVm90YVd4b1JXOWZNWEpvYmpkUVpWRRAB!2m1!1s0x3442a970552ee49b:0xfc8a058dd2de7cfb"
-    },
-    {
-      "name": "places/ChIJm-QuVXCpQjQR-3ze0o0Fivw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWUWMzRkdRMUo0YTBrNVpVTkhaVEp3Vmw5RVRFRRAB",
-      "relativePublishTimeDescription": "6 個月前",
-      "rating": 3,
-      "text": {
-        "text": "炸雞鬆餅，淋醬是焦糖花生，很甜。炸雞皮很厚，太油\n炸魚薯條，炸魚的裹粉很厚，所以也很油。薯條帶皮好吃\n勒眼牛排，肥肉太多，1/4都是肥肉，無法入口\n貝涅甜點，感覺是美式雙胞胎口感，沒有很愛\n檸檬冰沙，很道地，酸度夠\n服務人員很積極，開放式廚房油煙味太重\n整體沒有很愛，可能點到太油膩的東西，外加油煙味真的是重中之重，無法再訪\n生意很好，建議預約，喜歡高熱量的可以前往",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "炸雞鬆餅，淋醬是焦糖花生，很甜。炸雞皮很厚，太油\n炸魚薯條，炸魚的裹粉很厚，所以也很油。薯條帶皮好吃\n勒眼牛排，肥肉太多，1/4都是肥肉，無法入口\n貝涅甜點，感覺是美式雙胞胎口感，沒有很愛\n檸檬冰沙，很道地，酸度夠\n服務人員很積極，開放式廚房油煙味太重\n整體沒有很愛，可能點到太油膩的東西，外加油煙味真的是重中之重，無法再訪\n生意很好，建議預約，喜歡高熱量的可以前往",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "CJ S",
-        "uri": "https://www.google.com/maps/contrib/102744871337471047558/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL3WlrCO6F3SFig-bEfA1MgQkbz-s8bLPTOeLy34N0OVZldSA=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2025-09-14T02:58:05.563489854Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWUWMzRkdRMUo0YTBrNVpVTkhaVEp3Vmw5RVRFRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWUWMzRkdRMUo0YTBrNVpVTkhaVEp3Vmw5RVRFRRAB!2m1!1s0x3442a970552ee49b:0xfc8a058dd2de7cfb"
-    },
-    {
-      "name": "places/ChIJm-QuVXCpQjQR-3ze0o0Fivw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OalVHWnRNVW8zVVRsUU1YWTJZMUV0TlVRMVFYYxAB",
-      "relativePublishTimeDescription": "4 個月前",
-      "rating": 5,
-      "text": {
-        "text": "直接給五顆星的好餐廳\n普通東西吃得出廚師的不普通\n價格稍高點，但廚房端出的菜很值得\n薯條是細嫩馬鈴薯炸出的，外酥內鬆軟\n牛肉三明治味道好，麵包也好吃\n雞肉白醬寬義麵，不鹹，但很有味道\n餐廳有些做公益的獎狀",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "直接給五顆星的好餐廳\n普通東西吃得出廚師的不普通\n價格稍高點，但廚房端出的菜很值得\n薯條是細嫩馬鈴薯炸出的，外酥內鬆軟\n牛肉三明治味道好，麵包也好吃\n雞肉白醬寬義麵，不鹹，但很有味道\n餐廳有些做公益的獎狀",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Alan Chen",
-        "uri": "https://www.google.com/maps/contrib/114341646590959738617/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVVfMNRLAIP44xijoDubSdVYyHuiYsDgaBI9zlFnht-cLtOPfPN=s128-c0x00000000-cc-rp-mo-ba7"
-      },
-      "publishTime": "2025-10-25T07:27:30.960254952Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OalVHWnRNVW8zVVRsUU1YWTJZMUV0TlVRMVFYYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OalVHWnRNVW8zVVRsUU1YWTJZMUV0TlVRMVFYYxAB!2m1!1s0x3442a970552ee49b:0xfc8a058dd2de7cfb"
-    },
-    {
-      "name": "places/ChIJm-QuVXCpQjQR-3ze0o0Fivw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCS1RXNDNla05tVVhkRFEzZFpha3RsYm1FMWNVRRAB",
-      "relativePublishTimeDescription": "5 個月前",
-      "rating": 3,
-      "text": {
-        "text": "店內的葷食餐點都表現的不錯，氣氛好，店員服務也很好👌\n\n扣掉的星是「素食」部分\n由於同行者吃素，點了菜單上有標註素食的餐點，主食部分有野菇燉飯、瑪格麗特烤餅。小食的部分有炸薯條、炸起司條、蒜烤番茄\n或許是對素食不夠了解，以下\n1.炸物是跟肉一起炸的\n2.瑪格麗特標註蛋奶素，但披薩上參雜雞肉？？（店家表示應該是不小心掉進去的）\n3.蒜烤番茄可以標注五辛素\n1跟3是對素食的不了解，可以接受\n但2就太誇張了\n\n雖然餐廳本身很明顯不是素食友善，但還是要對茹素者尊重\n建議如果做不出素食，或是對素食不夠了解，還是盡量不要在菜單上標註素食。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "店內的葷食餐點都表現的不錯，氣氛好，店員服務也很好👌\n\n扣掉的星是「素食」部分\n由於同行者吃素，點了菜單上有標註素食的餐點，主食部分有野菇燉飯、瑪格麗特烤餅。小食的部分有炸薯條、炸起司條、蒜烤番茄\n或許是對素食不夠了解，以下\n1.炸物是跟肉一起炸的\n2.瑪格麗特標註蛋奶素，但披薩上參雜雞肉？？（店家表示應該是不小心掉進去的）\n3.蒜烤番茄可以標注五辛素\n1跟3是對素食的不了解，可以接受\n但2就太誇張了\n\n雖然餐廳本身很明顯不是素食友善，但還是要對茹素者尊重\n建議如果做不出素食，或是對素食不夠了解，還是盡量不要在菜單上標註素食。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "KE Lee",
-        "uri": "https://www.google.com/maps/contrib/101138870193397354364/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWP9ZFMxKZccxFafLPF_H4Imw5cwfxGCT9p3gMEwfGhYBhenW_o=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2025-10-08T15:13:50.555390147Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCS1RXNDNla05tVVhkRFEzZFpha3RsYm1FMWNVRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCS1RXNDNla05tVVhkRFEzZFpha3RsYm1FMWNVRRAB!2m1!1s0x3442a970552ee49b:0xfc8a058dd2de7cfb"
-    }
-  ]
+﻿{
+    "id":  "ChIJm-QuVXCpQjQR-3ze0o0Fivw",
+    "types":  [
+                  "cajun_restaurant",
+                  "american_restaurant",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 3393 7662",
+    "formattedAddress":  "No. 2號, Linsen S Rd, Zhongzheng District, Taipei City, Taiwan 100",
+    "location":  {
+                     "latitude":  25.0441768,
+                     "longitude":  121.5226663
+                 },
+    "rating":  4.4,
+    "websiteUri":  "https://www.facebook.com/nolakitchenls",
+    "priceLevel":  "PRICE_LEVEL_MODERATE",
+    "userRatingCount":  2448,
+    "displayName":  {
+                        "text":  "Nola Kitchen Taipei Linsen Store",
+                        "languageCode":  "en"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJm-QuVXCpQjQR-3ze0o0Fivw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OcGRXWjRUVVYwTmtKR09XaEtNaTFvVFU5VVpWRRAB",
+                        "relativePublishTimeDescription":  "6 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Their food was absolutely delicious. I had chicken and waffles and tried their orange sunrise drink. It was a meal that I definitely enjoyed. The staff was very kind to assist me in getting my order.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Their food was absolutely delicious. I had chicken and waffles and tried their orange sunrise drink. It was a meal that I definitely enjoyed. The staff was very kind to assist me in getting my order.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Anna",
+                                                  "uri":  "https://www.google.com/maps/contrib/100089493072583604682/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVpwe1SJJnAY6BQXhzdc259CcLsEev6A_Zs8LrLPomjvXVGQs8=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-11-07T19:00:21.564639014Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OcGRXWjRUVVYwTmtKR09XaEtNaTFvVFU5VVpWRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OcGRXWjRUVVYwTmtKR09XaEtNaTFvVFU5VVpWRRAB!2m1!1s0x3442a970552ee49b:0xfc8a058dd2de7cfb"
+                    },
+                    {
+                        "name":  "places/ChIJm-QuVXCpQjQR-3ze0o0Fivw/reviews/ChdDSUhNMG9nS0VJQ0FnTURva19maTR3RRAB",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Love this place. Great food and vibe. Not the cheapest - ntd1940 for 2 mains, 2 add-ons, 2 drinks, 1 dessert. Flat iron steak risotto -- tasted like rice in Chinese broth but so good. Steak was tasty and reasonably juicy too. Fish and chips was not bad, fried on the spot, love the thick and evenly cooked potato wedges. Add on salad and pork chop weren\u0027t big portions, but were well executed. Loved that the salad dressing was put on the side. Tie guan yin cocktail was creamy, sweet, floral, and had enough alcohol. Wheat ale was smooth. Tiramisu didn\u0027t taste authentic but was enjoyable, not a huge portion but just nice as an after dinner dessert. Restaurant played Jay Chou songs, familiar 2000s tunes. Service was adequate. Loved the vibe. We were seated near the door, couple of flying insects around us. Overall a pretty decent eatery for those who miss western food in Taiwan.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Love this place. Great food and vibe. Not the cheapest - ntd1940 for 2 mains, 2 add-ons, 2 drinks, 1 dessert. Flat iron steak risotto -- tasted like rice in Chinese broth but so good. Steak was tasty and reasonably juicy too. Fish and chips was not bad, fried on the spot, love the thick and evenly cooked potato wedges. Add on salad and pork chop weren\u0027t big portions, but were well executed. Loved that the salad dressing was put on the side. Tie guan yin cocktail was creamy, sweet, floral, and had enough alcohol. Wheat ale was smooth. Tiramisu didn\u0027t taste authentic but was enjoyable, not a huge portion but just nice as an after dinner dessert. Restaurant played Jay Chou songs, familiar 2000s tunes. Service was adequate. Loved the vibe. We were seated near the door, couple of flying insects around us. Overall a pretty decent eatery for those who miss western food in Taiwan.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "JLYH",
+                                                  "uri":  "https://www.google.com/maps/contrib/110446263645054639192/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWlwaX9vad2QNzfN8wGHstH9mVJtX8RZEH2c4Y5SWLit5sJvnI=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2025-04-28T13:41:31.323330Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURva19maTR3RRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURva19maTR3RRAB!2m1!1s0x3442a970552ee49b:0xfc8a058dd2de7cfb"
+                    },
+                    {
+                        "name":  "places/ChIJm-QuVXCpQjQR-3ze0o0Fivw/reviews/ChZDSUhNMG9nS0VJQ0FnTURvcDlMUFd3EAE",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Had dinner here with wife after a disappointing yet expensive lunch at Jiufen. Wanted more meat and some beer near our hotel, so decided on this. It claims to be a Louisiana restaurant, but I\u0027d say it\u0027s Louisiana inspired. It\u0027s like saying Olive Garden is an authentic Italian restaurant. It\u0027s enjoyable, but probably not authentic.\n\nHad a Flatiron steak on risotto, a fish and chips with a side of pork chop and garden salad, I had a wheat ale which is 1 for 1 all day, and my wife had a tieguanyin cocktail. We enjoyed everything. The steak was tender, dinner medium rare, and the risotto was tasty as well, but let\u0027s not kid ourselves - it\u0027s more like mui fan than risotto. We enjoyed it though. Fish and chips was standard, can\u0027t really get that wrong. Pork chop and garden salad was also pretty good. I liked my wheat ale, which was kinda like Blue Moon. My wife loved her cocktail too. Service was OK, but they close quite early and had to send my 2nd beer before I finished my first.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Had dinner here with wife after a disappointing yet expensive lunch at Jiufen. Wanted more meat and some beer near our hotel, so decided on this. It claims to be a Louisiana restaurant, but I\u0027d say it\u0027s Louisiana inspired. It\u0027s like saying Olive Garden is an authentic Italian restaurant. It\u0027s enjoyable, but probably not authentic.\n\nHad a Flatiron steak on risotto, a fish and chips with a side of pork chop and garden salad, I had a wheat ale which is 1 for 1 all day, and my wife had a tieguanyin cocktail. We enjoyed everything. The steak was tender, dinner medium rare, and the risotto was tasty as well, but let\u0027s not kid ourselves - it\u0027s more like mui fan than risotto. We enjoyed it though. Fish and chips was standard, can\u0027t really get that wrong. Pork chop and garden salad was also pretty good. I liked my wheat ale, which was kinda like Blue Moon. My wife loved her cocktail too. Service was OK, but they close quite early and had to send my 2nd beer before I finished my first.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "s g",
+                                                  "uri":  "https://www.google.com/maps/contrib/101606206460809087168/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVDcDzu4KCSnmoZRidIGkDu13oXlwRo9t96S7mcolayFc7TcKQ=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2025-04-29T15:13:44.483390Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURvcDlMUFd3EAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURvcDlMUFd3EAE!2m1!1s0x3442a970552ee49b:0xfc8a058dd2de7cfb"
+                    },
+                    {
+                        "name":  "places/ChIJm-QuVXCpQjQR-3ze0o0Fivw/reviews/ChdDSUhNMG9nS0VJQ0FnSURyd3UzVjdRRRAB",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "This was my first time checking out Nola\u0027s Kitchen, and the food did not disappoint. The fried chicken and waffles were a delight, and the gumbo was creamy and flavorful. I will come back and check out the rest of the menu.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "This was my first time checking out Nola\u0027s Kitchen, and the food did not disappoint. The fried chicken and waffles were a delight, and the gumbo was creamy and flavorful. I will come back and check out the rest of the menu.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Daren Chin",
+                                                  "uri":  "https://www.google.com/maps/contrib/103777383380659386331/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUx9kWdmkqtuTdm-zeWKa8MlbG3SVaQa3Rqnk9evJ66wAhXwvk=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2024-07-16T06:57:15.043574Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURyd3UzVjdRRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURyd3UzVjdRRRAB!2m1!1s0x3442a970552ee49b:0xfc8a058dd2de7cfb"
+                    },
+                    {
+                        "name":  "places/ChIJm-QuVXCpQjQR-3ze0o0Fivw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYMnYzUEF3EAE",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "One of my favourite meals in Taipei! The chicken and waffles \u0026 jambalaya are really tasty. Particularly loved the fried chicken. Staff was really friendly and helpful as well",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "One of my favourite meals in Taipei! The chicken and waffles \u0026 jambalaya are really tasty. Particularly loved the fried chicken. Staff was really friendly and helpful as well",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "JM",
+                                                  "uri":  "https://www.google.com/maps/contrib/103730303698249434109/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocILaL5b0NnosIqGTiVuE4NH-OyxIAtaPiuyMU_vesFtUEdZdg=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2024-10-15T14:21:35.842715Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYMnYzUEF3EAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYMnYzUEF3EAE!2m1!1s0x3442a970552ee49b:0xfc8a058dd2de7cfb"
+                    }
+                ]
 }

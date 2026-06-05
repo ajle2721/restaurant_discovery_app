@@ -1,131 +1,132 @@
-{
-  "id": "ChIJazuHbz6pQjQRGGRLxz2VfIQ",
-  "types": [
-    "taiwanese_restaurant",
-    "chinese_restaurant",
-    "restaurant",
-    "food",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2550 6607",
-  "formattedAddress": "103台灣臺北市大同區迪化街一段329號",
-  "location": {
-    "latitude": 25.0624956,
-    "longitude": 121.5093333
-  },
-  "rating": 4.3,
-  "websiteUri": "https://www.rice1923.com/",
-  "userRatingCount": 1786,
-  "displayName": {
-    "text": "稻舍食館 迪化店",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJazuHbz6pQjQRGGRLxz2VfIQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsQlgwZEZiak0zVEhaNlNYcHZkV2x5U2pWM1dHYxAB",
-      "relativePublishTimeDescription": "2 週前",
-      "rating": 4,
-      "text": {
-        "text": "環境整個氛圍舒適乾淨，上菜速度也令人滿意，小菜與主食的口味都很不錯，份量也足夠。三樓還能參觀，廁所也十分乾淨。唯獨本來很期待的豬油拌飯，因為米粒過乾影響口感，由於本身已經是喜歡偏乾的口感，但還是覺得有點不適應，希望能稍作調整，期待下次再訪。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "環境整個氛圍舒適乾淨，上菜速度也令人滿意，小菜與主食的口味都很不錯，份量也足夠。三樓還能參觀，廁所也十分乾淨。唯獨本來很期待的豬油拌飯，因為米粒過乾影響口感，由於本身已經是喜歡偏乾的口感，但還是覺得有點不適應，希望能稍作調整，期待下次再訪。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "TARK HCW",
-        "uri": "https://www.google.com/maps/contrib/110793264049046307868/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVmjBrB6vK-0oAwBmROc127qIJcQ7e-NWlBto_YqrrCfe-qp9l0=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2026-03-01T08:48:51.813806107Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsQlgwZEZiak0zVEhaNlNYcHZkV2x5U2pWM1dHYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsQlgwZEZiak0zVEhaNlNYcHZkV2x5U2pWM1dHYxAB!2m1!1s0x3442a93e6f873b6b:0x847c953dc74b6418"
-    },
-    {
-      "name": "places/ChIJazuHbz6pQjQRGGRLxz2VfIQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OVGFEVlBaSGx0YWxsNlYzVTFVMDFEYTI5UFJXYxAB",
-      "relativePublishTimeDescription": "1 個月前",
-      "rating": 4,
-      "text": {
-        "text": "稻舍最厲害的就是香蔥豬油拌飯（提供熱豬油+冰醬油自己拌熱蔥飯）和懷舊紅燒肉，搭配小菜四季豆炒菇、芥末海帶芽泡菜和刈菜排骨湯$420，另外也點了香烤午仔魚客飯$360，雙棗燉牛板腱客飯$450，酥嫰豆乳雞客飯$360，外加10%服務費。\n趁上菜前逛了一下百年老宅，走到後面看天井，爬上二樓古老木樓梯，古色古香，味口大開。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "稻舍最厲害的就是香蔥豬油拌飯（提供熱豬油+冰醬油自己拌熱蔥飯）和懷舊紅燒肉，搭配小菜四季豆炒菇、芥末海帶芽泡菜和刈菜排骨湯$420，另外也點了香烤午仔魚客飯$360，雙棗燉牛板腱客飯$450，酥嫰豆乳雞客飯$360，外加10%服務費。\n趁上菜前逛了一下百年老宅，走到後面看天井，爬上二樓古老木樓梯，古色古香，味口大開。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Michelle Hsieh",
-        "uri": "https://www.google.com/maps/contrib/106039151497761519297/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI7GjM9wU9_UPVPpZTaj7ahJMJyBMRMaVZjd6WcI3jtHzVNowv8=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2026-02-12T12:39:24.274199130Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OVGFEVlBaSGx0YWxsNlYzVTFVMDFEYTI5UFJXYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OVGFEVlBaSGx0YWxsNlYzVTFVMDFEYTI5UFJXYxAB!2m1!1s0x3442a93e6f873b6b:0x847c953dc74b6418"
-    },
-    {
-      "name": "places/ChIJazuHbz6pQjQRGGRLxz2VfIQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4QmNEbERlRXhOWkRSTFFXWllSRmxQVlZOc05HYxAB",
-      "relativePublishTimeDescription": "3 個月前",
-      "rating": 5,
-      "text": {
-        "text": "「稻舍食館」一直躺在我的收藏夾裡好久，今天走過去剛好看到開門、剛好有空的座位、剛好我還沒吃飯，這三個剛好直接把我推進門。\n\n主餐完全沒讓我失望。烤雞腿鮮嫩不柴、外皮微焦香到剛剛好，是那種一切開就知道廚師功力的熟度。而午仔魚更是驚喜，烤得外皮恰恰、魚肉細緻多汁，不誇張，連魚皮都香到讓人捨不得放過。紅燒肉也超級強，滷得非常入味，肥瘦比例漂亮，湯汁一淋在飯上，白飯瞬間蒸發得比綠咖哩還快。\n\n小菜雖然是涼菜，但搭起來意外非常順口，海帶絲酸爽清新、油豆腐和豆干也都很耐吃。豬油拌飯是整套裡最有儀式感的地方，自己動手拌才好吃。豬油繞兩圈、醬油繞一圈，攪開後香氣直接衝腦門，每一口都是樸實卻幸福的味道。\n\n附湯濃郁到不像「附湯」，喝得出用心。而餐後熱茶更是整個下午的完美句點。我們三個人點了兩壺，被店家熱情回沖到第三次，結果一坐就是整個下午，彷彿不小心把這裡當成自家客廳。\n\n總結：稻舍食館是一間會讓人想再訪、再回味的店。雞腿、午仔魚、紅燒肉各有亮點，涼菜爽口、豬油拌飯好玩又好吃，熱茶更讓整餐變完整。是一家吃完會想默默說「還好今天路過」的療癒系餐館。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "「稻舍食館」一直躺在我的收藏夾裡好久，今天走過去剛好看到開門、剛好有空的座位、剛好我還沒吃飯，這三個剛好直接把我推進門。\n\n主餐完全沒讓我失望。烤雞腿鮮嫩不柴、外皮微焦香到剛剛好，是那種一切開就知道廚師功力的熟度。而午仔魚更是驚喜，烤得外皮恰恰、魚肉細緻多汁，不誇張，連魚皮都香到讓人捨不得放過。紅燒肉也超級強，滷得非常入味，肥瘦比例漂亮，湯汁一淋在飯上，白飯瞬間蒸發得比綠咖哩還快。\n\n小菜雖然是涼菜，但搭起來意外非常順口，海帶絲酸爽清新、油豆腐和豆干也都很耐吃。豬油拌飯是整套裡最有儀式感的地方，自己動手拌才好吃。豬油繞兩圈、醬油繞一圈，攪開後香氣直接衝腦門，每一口都是樸實卻幸福的味道。\n\n附湯濃郁到不像「附湯」，喝得出用心。而餐後熱茶更是整個下午的完美句點。我們三個人點了兩壺，被店家熱情回沖到第三次，結果一坐就是整個下午，彷彿不小心把這裡當成自家客廳。\n\n總結：稻舍食館是一間會讓人想再訪、再回味的店。雞腿、午仔魚、紅燒肉各有亮點，涼菜爽口、豬油拌飯好玩又好吃，熱茶更讓整餐變完整。是一家吃完會想默默說「還好今天路過」的療癒系餐館。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "厚生渴味",
-        "uri": "https://www.google.com/maps/contrib/109602229758428787519/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVFM9-1EX8atLXX1BcUBl9CefFXt29kblNdjhLLH_5IDufWUAgwdQ=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2025-11-29T18:48:11.671984226Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4QmNEbERlRXhOWkRSTFFXWllSRmxQVlZOc05HYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4QmNEbERlRXhOWkRSTFFXWllSRmxQVlZOc05HYxAB!2m1!1s0x3442a93e6f873b6b:0x847c953dc74b6418"
-    },
-    {
-      "name": "places/ChIJazuHbz6pQjQRGGRLxz2VfIQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paV01sUlZXWGRoTlZWalRrZFRNRjg1YldkSk4yYxAB",
-      "relativePublishTimeDescription": "2 個月前",
-      "rating": 3,
-      "text": {
-        "text": "聽說是要訂位的名店。有訂位但提早到。其他已訂位客人取消。所以很幸運提早入內用餐。整個環境很懷舊復古。木門、木栓、懷舊舊照片、木製桌椅。控肉飯～軟、嫩、甜、很入味、很鹹，口味很重。我個人不喜歡甜感的餐食。套餐的三樣小菜、湯也都是一般般。白飯Q彈。有2瓶玻璃瓶一瓶醬油一瓶豬油。服務人員會解說食用方法。豬油淋2圈醬油1圈。即成豬油拌飯。但我 個人不覺得好吃。沒有記憶中小時候的豬油和醬香味。甜點千層豆沙～餡料微酸甜、皮不酥。整體來說一般般。嚐過就好",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "聽說是要訂位的名店。有訂位但提早到。其他已訂位客人取消。所以很幸運提早入內用餐。整個環境很懷舊復古。木門、木栓、懷舊舊照片、木製桌椅。控肉飯～軟、嫩、甜、很入味、很鹹，口味很重。我個人不喜歡甜感的餐食。套餐的三樣小菜、湯也都是一般般。白飯Q彈。有2瓶玻璃瓶一瓶醬油一瓶豬油。服務人員會解說食用方法。豬油淋2圈醬油1圈。即成豬油拌飯。但我 個人不覺得好吃。沒有記憶中小時候的豬油和醬香味。甜點千層豆沙～餡料微酸甜、皮不酥。整體來說一般般。嚐過就好",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "my google",
-        "uri": "https://www.google.com/maps/contrib/106625074435287625602/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXWKBLXrmLZM9D8AQTl5QhbT3juI-kbFzBzZTze-CFFxHqM8Z9D=s128-c0x00000000-cc-rp-mo-ba4"
-      },
-      "publishTime": "2026-01-19T15:11:48.120144475Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paV01sUlZXWGRoTlZWalRrZFRNRjg1YldkSk4yYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paV01sUlZXWGRoTlZWalRrZFRNRjg1YldkSk4yYxAB!2m1!1s0x3442a93e6f873b6b:0x847c953dc74b6418"
-    },
-    {
-      "name": "places/ChIJazuHbz6pQjQRGGRLxz2VfIQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4NFZEbHZkV0YyT0dWVWN6UXlVamRDYTNjeVZtYxAB",
-      "relativePublishTimeDescription": "2 個月前",
-      "rating": 5,
-      "text": {
-        "text": "第一次到稻舍用餐\n要不是有先訂位可能要訂30分鐘以上，尤其是假日不要現場後位會等非常的久😅\n餐點套餐非常的好吃（牛肉燉得很爛入口即化超推薦，給予的白飯如果淋上提供的豬油更香）很符合期待🥰（素食套餐也超棒）\n但是甜點的部分就不推薦，嫩仙草平平，紅豆紫米賣相不佳，送上來的時候嚇我一大跳感覺不怎麼優，吃起來也還好。\n因為在1樓用餐，特別到2樓去查看，下次如果帶朋友來，但上2樓感覺樓梯很抖，不太適合長輩感覺些許危險。（註：2樓提供了包廂可以朋友聚餐）\n❤️這裡的廁所很乾淨還是要稱讚一下🤗",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "第一次到稻舍用餐\n要不是有先訂位可能要訂30分鐘以上，尤其是假日不要現場後位會等非常的久😅\n餐點套餐非常的好吃（牛肉燉得很爛入口即化超推薦，給予的白飯如果淋上提供的豬油更香）很符合期待🥰（素食套餐也超棒）\n但是甜點的部分就不推薦，嫩仙草平平，紅豆紫米賣相不佳，送上來的時候嚇我一大跳感覺不怎麼優，吃起來也還好。\n因為在1樓用餐，特別到2樓去查看，下次如果帶朋友來，但上2樓感覺樓梯很抖，不太適合長輩感覺些許危險。（註：2樓提供了包廂可以朋友聚餐）\n❤️這裡的廁所很乾淨還是要稱讚一下🤗",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "沐言",
-        "uri": "https://www.google.com/maps/contrib/107116821635174224145/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX9alhG-m5E67CSCZPQuXFGCtetJwQdvVmDH6KNb2demCWbb30=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2026-01-01T14:16:14.740646391Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4NFZEbHZkV0YyT0dWVWN6UXlVamRDYTNjeVZtYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4NFZEbHZkV0YyT0dWVWN6UXlVamRDYTNjeVZtYxAB!2m1!1s0x3442a93e6f873b6b:0x847c953dc74b6418"
-    }
-  ]
+﻿{
+    "id":  "ChIJazuHbz6pQjQRGGRLxz2VfIQ",
+    "types":  [
+                  "taiwanese_restaurant",
+                  "chinese_restaurant",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2550 6607",
+    "formattedAddress":  "No. 329號, Section 1, Dihua St, Nanfang Village, Datong District, Taipei City, Taiwan 103",
+    "location":  {
+                     "latitude":  25.0624956,
+                     "longitude":  121.5093333
+                 },
+    "rating":  4.3,
+    "websiteUri":  "https://www.rice1923.com/",
+    "priceLevel":  "PRICE_LEVEL_MODERATE",
+    "userRatingCount":  1833,
+    "displayName":  {
+                        "text":  "Rice \u0026 Shine Restaurant",
+                        "languageCode":  "en"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJazuHbz6pQjQRGGRLxz2VfIQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GdVNsWnRhWHB5V1RORVlWaGljVU5wTnpJMFQwRRAB",
+                        "relativePublishTimeDescription":  "3 months ago",
+                        "rating":  1,
+                        "text":  {
+                                     "text":  "Reply to owner\u0027s reply: Level 2 was almost empty but staff didn\u0027t use it. I was next in queue and more than 15pax left the restaurant from Level 2.\n\nDon\u0027t come without online reservation. Got queue number at 2.30pm and we are next in queue. At 2.50pm, there were many empty tables but realised shortly 6 tables were setup for the staff lunch and other tables were meant for 3.30pm lunch appointment. When I asked if we have a chance to get a table soon, staff informed that it\u0027s already indicated that the tables will only be available soonest at 3.30pm when we get our queue number at 2.30pm, so we just have to wait till 3.30pm. Upon my pushing again, staff said 1 reservation was cancelled so we got seated at 3.15pm. I also observed that the tables of 4pax were all reserved by 2pax each. I cannot reasonate with their reservation system so I won\u0027t recommend anyone to walk in.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Reply to owner\u0027s reply: Level 2 was almost empty but staff didn\u0027t use it. I was next in queue and more than 15pax left the restaurant from Level 2.\n\nDon\u0027t come without online reservation. Got queue number at 2.30pm and we are next in queue. At 2.50pm, there were many empty tables but realised shortly 6 tables were setup for the staff lunch and other tables were meant for 3.30pm lunch appointment. When I asked if we have a chance to get a table soon, staff informed that it\u0027s already indicated that the tables will only be available soonest at 3.30pm when we get our queue number at 2.30pm, so we just have to wait till 3.30pm. Upon my pushing again, staff said 1 reservation was cancelled so we got seated at 3.15pm. I also observed that the tables of 4pax were all reserved by 2pax each. I cannot reasonate with their reservation system so I won\u0027t recommend anyone to walk in.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Joyce Wong",
+                                                  "uri":  "https://www.google.com/maps/contrib/108172104468451304738/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocKhlnwUk3T93XeP1tT7XpmfOYS1Ht3sAjIB4g8I8FrDweeTvg=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2026-03-02T08:52:04.111388029Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GdVNsWnRhWHB5V1RORVlWaGljVU5wTnpJMFQwRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GdVNsWnRhWHB5V1RORVlWaGljVU5wTnpJMFQwRRAB!2m1!1s0x3442a93e6f873b6b:0x847c953dc74b6418"
+                    },
+                    {
+                        "name":  "places/ChIJazuHbz6pQjQRGGRLxz2VfIQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkRVgwcFNPVkU1UTJaM1VIbEpkR3B3VTFWbGVrRRAB",
+                        "relativePublishTimeDescription":  "8 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "I would say this is a fanciful Taiwanese food. The restaurant is located in a very pretty alley.\n\nThe presentation of the food is really eye pleasing. It makes me happy just by looking at it. The food is amazingly delicious and the atmosphere of the restaurant is fantastic too. Very nostalgic vibe.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "I would say this is a fanciful Taiwanese food. The restaurant is located in a very pretty alley.\n\nThe presentation of the food is really eye pleasing. It makes me happy just by looking at it. The food is amazingly delicious and the atmosphere of the restaurant is fantastic too. Very nostalgic vibe.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Shirleen Tan",
+                                                  "uri":  "https://www.google.com/maps/contrib/117659187013790342625/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocJFnWEOyOH-c5piEmCbvuA_4_Erf6yK6jvmupRQWlu-9oOSUA=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2025-10-07T15:25:50.752323812Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkRVgwcFNPVkU1UTJaM1VIbEpkR3B3VTFWbGVrRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkRVgwcFNPVkU1UTJaM1VIbEpkR3B3VTFWbGVrRRAB!2m1!1s0x3442a93e6f873b6b:0x847c953dc74b6418"
+                    },
+                    {
+                        "name":  "places/ChIJazuHbz6pQjQRGGRLxz2VfIQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sdlZrRnBPWGxmV2pKS1FtSjNXR2hFTlZGUU5tYxAB",
+                        "relativePublishTimeDescription":  "8 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Very traditional Taiwanese style cuisine. I love the retro decor, full of history and very well preserve. The food was delicious too. Definitely will come back again",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Very traditional Taiwanese style cuisine. I love the retro decor, full of history and very well preserve. The food was delicious too. Definitely will come back again",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Emilia Liu",
+                                                  "uri":  "https://www.google.com/maps/contrib/113551639971945613043/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVp1veH58BmDP6IpojI1s264T5kXs6BQ-IDqLJ1_eshmikzwSOUAQ=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-10-06T20:21:45.141960692Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sdlZrRnBPWGxmV2pKS1FtSjNXR2hFTlZGUU5tYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sdlZrRnBPWGxmV2pKS1FtSjNXR2hFTlZGUU5tYxAB!2m1!1s0x3442a93e6f873b6b:0x847c953dc74b6418"
+                    },
+                    {
+                        "name":  "places/ChIJazuHbz6pQjQRGGRLxz2VfIQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aMU1IWk5ObFZUTVdjMlMwOWpWMEZQWkVkSE4xRRAB",
+                        "relativePublishTimeDescription":  "4 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Delicious traditional Taiwan restaurant with a spin. They are famous for their rice.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Delicious traditional Taiwan restaurant with a spin. They are famous for their rice.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Michael Wu PhD",
+                                                  "uri":  "https://www.google.com/maps/contrib/105061099394492403376/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXwdq0XBvy8sPQixE2K7PpSonX2HLNjOsKMAc_dLZVp26zMsnbtIA=s128-c0x00000000-cc-rp-mo-ba8"
+                                              },
+                        "publishTime":  "2026-01-19T10:37:31.258528359Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aMU1IWk5ObFZUTVdjMlMwOWpWMEZQWkVkSE4xRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aMU1IWk5ObFZUTVdjMlMwOWpWMEZQWkVkSE4xRRAB!2m1!1s0x3442a93e6f873b6b:0x847c953dc74b6418"
+                    },
+                    {
+                        "name":  "places/ChIJazuHbz6pQjQRGGRLxz2VfIQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xQk9FRjJabkpJYlZKRWFVdHhkV05HZG14UWFGRRAB",
+                        "relativePublishTimeDescription":  "5 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "The foods were excellent. We enjoyed every dish we ordered. Though I particularly liked the Sea Bass with Loofah and Mushrooms, Fermented Tofu Fried Chicken and the Braised Pork. I love that they give you a jar of soy sauce and lard for the rice. I have not had that since I was a little kid.\n\nThe service was very friendly, they gave us a private room for party of 5 instead of make us wait for a table. They did tell us the time limit is 90 minutes. Maybe a thing in Taiwan as another place had told us the same. Plenty of time because of the quick service and we didn\u0027t plan to linger.\n\nA friend back home recommended this place. I felt compelled to buy them a souvenir because of the recommendation.",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "The foods were excellent. We enjoyed every dish we ordered. Though I particularly liked the Sea Bass with Loofah and Mushrooms, Fermented Tofu Fried Chicken and the Braised Pork. I love that they give you a jar of soy sauce and lard for the rice. I have not had that since I was a little kid.\n\nThe service was very friendly, they gave us a private room for party of 5 instead of make us wait for a table. They did tell us the time limit is 90 minutes. Maybe a thing in Taiwan as another place had told us the same. Plenty of time because of the quick service and we didn\u0027t plan to linger.\n\nA friend back home recommended this place. I felt compelled to buy them a souvenir because of the recommendation.",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Sam W",
+                                                  "uri":  "https://www.google.com/maps/contrib/112670357733832674820/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUaS00EHKlrmzRbtt3-BwToWi2mkX4ULq-dhAG-ru7b9_--WRE=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-12-21T19:56:27.595562076Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xQk9FRjJabkpJYlZKRWFVdHhkV05HZG14UWFGRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xQk9FRjJabkpJYlZKRWFVdHhkV05HZG14UWFGRRAB!2m1!1s0x3442a93e6f873b6b:0x847c953dc74b6418"
+                    }
+                ]
 }

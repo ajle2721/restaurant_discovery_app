@@ -1,140 +1,73 @@
-{
-  "id": "ChIJ1ahztYirQjQRXMilFts7Yyc",
-  "types": [
-    "coffee_shop",
-    "brunch_restaurant",
-    "cafe",
-    "dessert_shop",
-    "confectionery",
-    "food_store",
-    "store",
-    "restaurant",
-    "food",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 2 2654 6761",
-  "formattedAddress": "115台灣臺北市南港區新光里忠孝東路六段438號",
-  "location": {
-    "latitude": 25.0501488,
-    "longitude": 121.5936976
-  },
-  "rating": 4.2,
-  "websiteUri": "https://www.mcdonalds.com/tw/zh-tw/full-menu/mccafe.html",
-  "userRatingCount": 56,
-  "displayName": {
-    "text": "McCafé 咖啡-忠孝八店",
-    "languageCode": "en"
-  },
-  "editorialSummary": {
-    "text": "McDonald's chain for a variety of specialty coffee drinks, baked goods & other food offerings.",
-    "languageCode": "en"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJ1ahztYirQjQRXMilFts7Yyc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oVFlWVnVXVU5oYUV4ZlMyeDBSa2RDTVRsalVIYxAB",
-      "relativePublishTimeDescription": "4 個月前",
-      "rating": 1,
-      "text": {
-        "text": "未備妥餐點但會在螢幕上顯示請取餐⋯狀況存在蠻久了，令人很錯亂。期待能改善。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "未備妥餐點但會在螢幕上顯示請取餐⋯狀況存在蠻久了，令人很錯亂。期待能改善。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Eddy Su",
-        "uri": "https://www.google.com/maps/contrib/110238553525640774217/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWhF4ThuoltC5Ly4lT1rGZGLIcMIA9NYKr3jd9AJzcfv-NvL80j=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2026-01-21T04:09:44.566650168Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oVFlWVnVXVU5oYUV4ZlMyeDBSa2RDTVRsalVIYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oVFlWVnVXVU5oYUV4ZlMyeDBSa2RDTVRsalVIYxAB!2m1!1s0x3442ab88b573a8d5:0x27633bdb16a5c85c"
-    },
-    {
-      "name": "places/ChIJ1ahztYirQjQRXMilFts7Yyc/reviews/ChZDSUhNMG9nS0VPT2xwZVhxc2ZtWVZnEAE",
-      "relativePublishTimeDescription": "12 個月前",
-      "rating": 1,
-      "text": {
-        "text": "自動點餐結帳完，等5分鐘螢幕就顯示可以取餐，但店員一直沒叫號，一個店員裝飲料裝了20杯，一個店員忙外送單，一個店員人工結帳、裝薯條，一個店經理罵員工地板不乾淨、也沒在幫忙出餐\n\n等了15分鐘去詢問，才開始裝餐點，最後等了20分鐘，就算餐點先做也不需要等到20分鐘才能去取餐吧？這時間我在家點外送都到了？\n\n都已經很忙碌了，麥當勞還來個內用送餐到位服務，店員要走到旁邊爬樓梯到2樓，這是在嫌員工不夠忙嗎？",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "自動點餐結帳完，等5分鐘螢幕就顯示可以取餐，但店員一直沒叫號，一個店員裝飲料裝了20杯，一個店員忙外送單，一個店員人工結帳、裝薯條，一個店經理罵員工地板不乾淨、也沒在幫忙出餐\n\n等了15分鐘去詢問，才開始裝餐點，最後等了20分鐘，就算餐點先做也不需要等到20分鐘才能去取餐吧？這時間我在家點外送都到了？\n\n都已經很忙碌了，麥當勞還來個內用送餐到位服務，店員要走到旁邊爬樓梯到2樓，這是在嫌員工不夠忙嗎？",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "史習岡（Stanley）",
-        "uri": "https://www.google.com/maps/contrib/110450812475996759634/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKngkgrJwTOvDXzDXjXwDPuMuAKylUqCvioCoWnte2rrZlRUv8=s128-c0x00000000-cc-rp-mo"
-      },
-      "publishTime": "2025-05-29T04:18:26.360390Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VPT2xwZVhxc2ZtWVZnEAE&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VPT2xwZVhxc2ZtWVZnEAE!2m1!1s0x3442ab88b573a8d5:0x27633bdb16a5c85c"
-    },
-    {
-      "name": "places/ChIJ1ahztYirQjQRXMilFts7Yyc/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5NlBITTdRRRAB",
-      "relativePublishTimeDescription": "5 年前",
-      "rating": 5,
-      "text": {
-        "text": "冰涼的現磨黑咖啡，是我的最愛！每天都要來一杯🥰",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "冰涼的現磨黑咖啡，是我的最愛！每天都要來一杯🥰",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "何湘靈",
-        "uri": "https://www.google.com/maps/contrib/104128672814632889870/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ6y7JsjS-a2CAgQtXCBp8zOw7px0kBRpu2pWGZqI9wPYtnHw=s128-c0x00000000-cc-rp-mo"
-      },
-      "publishTime": "2021-01-25T01:56:35.573814Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN5NlBITTdRRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN5NlBITTdRRRAB!2m1!1s0x3442ab88b573a8d5:0x27633bdb16a5c85c"
-    },
-    {
-      "name": "places/ChIJ1ahztYirQjQRXMilFts7Yyc/reviews/ChdDSUhNMG9nS0VJQ0FnSUN5bm9TMGxRRRAB",
-      "relativePublishTimeDescription": "5 年前",
-      "rating": 5,
-      "text": {
-        "text": "我最愛來杯冰阿薩姆奶茶,整杯都是鮮奶",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "我最愛來杯冰阿薩姆奶茶,整杯都是鮮奶",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "安早",
-        "uri": "https://www.google.com/maps/contrib/100871764970570179700/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXuXZ1O-WsIVAxeS485_48s3KToQJiTAFJFwbQCWL-53iSUsoM=s128-c0x00000000-cc-rp-mo-ba2"
-      },
-      "publishTime": "2021-01-31T11:45:00.104893Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN5bm9TMGxRRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN5bm9TMGxRRRAB!2m1!1s0x3442ab88b573a8d5:0x27633bdb16a5c85c"
-    },
-    {
-      "name": "places/ChIJ1ahztYirQjQRXMilFts7Yyc/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5Nko2Y2JnEAE",
-      "relativePublishTimeDescription": "5 年前",
-      "rating": 5,
-      "text": {
-        "text": "一早美好的心情，從喝杯好咖啡開始",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "一早美好的心情，從喝杯好咖啡開始",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Chang steve",
-        "uri": "https://www.google.com/maps/contrib/107902335753428330911/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZDYZQVgZsVf4E3oI2iJTTqYY_Xfv6jdrgcdhLdrjEVy_wdNHc=s128-c0x00000000-cc-rp-mo-ba4"
-      },
-      "publishTime": "2021-01-18T09:39:51.132194Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN5Nko2Y2JnEAE&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN5Nko2Y2JnEAE!2m1!1s0x3442ab88b573a8d5:0x27633bdb16a5c85c"
-    }
-  ]
+﻿{
+    "id":  "ChIJ1ahztYirQjQRXMilFts7Yyc",
+    "types":  [
+                  "coffee_shop",
+                  "brunch_restaurant",
+                  "dessert_shop",
+                  "cafe",
+                  "confectionery",
+                  "food_store",
+                  "restaurant",
+                  "food",
+                  "store",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2654 6761",
+    "formattedAddress":  "No. 438號, Section 6, Zhongxiao E Rd, Xinguang Village, Nangang District, Taipei City, Taiwan 115",
+    "location":  {
+                     "latitude":  25.0501488,
+                     "longitude":  121.5936976
+                 },
+    "rating":  4.2,
+    "websiteUri":  "https://www.mcdonalds.com/tw/zh-tw/full-menu/mccafe.html",
+    "userRatingCount":  56,
+    "displayName":  {
+                        "text":  "McCafé 咖啡-忠孝八店",
+                        "languageCode":  "en"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJ1ahztYirQjQRXMilFts7Yyc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oVFlWVnVXVU5oYUV4ZlMyeDBSa2RDTVRsalVIYxAB",
+                        "relativePublishTimeDescription":  "4 months ago",
+                        "rating":  1,
+                        "text":  {
+                                     "text":  "The system keeps displaying \"Please pick up your food\" on the screen even though the meal hasn\u0027t been prepared... This has been going on for quite a while and is very confusing. I hope it can be improved.",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "未備妥餐點但會在螢幕上顯示請取餐⋯狀況存在蠻久了，令人很錯亂。期待能改善。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Eddy Su",
+                                                  "uri":  "https://www.google.com/maps/contrib/110238553525640774217/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWhF4ThuoltC5Ly4lT1rGZGLIcMIA9NYKr3jd9AJzcfv-NvL80j=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2026-01-21T04:09:44.566650168Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oVFlWVnVXVU5oYUV4ZlMyeDBSa2RDTVRsalVIYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oVFlWVnVXVU5oYUV4ZlMyeDBSa2RDTVRsalVIYxAB!2m1!1s0x3442ab88b573a8d5:0x27633bdb16a5c85c"
+                    },
+                    {
+                        "name":  "places/ChIJ1ahztYirQjQRXMilFts7Yyc/reviews/ChZDSUhNMG9nS0VPT2xwZVhxc2ZtWVZnEAE",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  1,
+                        "text":  {
+                                     "text":  "After completing the automatic ordering and checkout, the screen showed my order was ready to pick up after 5 minutes, but no one called my number. One employee was filling 20 drinks, another was busy with delivery orders, another was manually processing orders and packing fries, and a store manager was scolding employees for not cleaning the floor and not helping with order preparation.\n\nAfter waiting 15 minutes to inquire, they finally started packing my order, and I ended up waiting 20 minutes. Even if the food was prepared in advance, shouldn\u0027t it have taken at least 20 minutes to pick it up? My order for delivery would have arrived at home by then!\n\nThey\u0027re already so busy, and then McDonald\u0027s adds a dine-in delivery service, requiring employees to walk to the side and climb stairs to the second floor. Are they trying to make sure their employees aren\u0027t busy enough?",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "自動點餐結帳完，等5分鐘螢幕就顯示可以取餐，但店員一直沒叫號，一個店員裝飲料裝了20杯，一個店員忙外送單，一個店員人工結帳、裝薯條，一個店經理罵員工地板不乾淨、也沒在幫忙出餐\n\n等了15分鐘去詢問，才開始裝餐點，最後等了20分鐘，就算餐點先做也不需要等到20分鐘才能去取餐吧？這時間我在家點外送都到了？\n\n都已經很忙碌了，麥當勞還來個內用送餐到位服務，店員要走到旁邊爬樓梯到2樓，這是在嫌員工不夠忙嗎？",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "史習岡（Stanley）",
+                                                  "uri":  "https://www.google.com/maps/contrib/110450812475996759634/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocKngkgrJwTOvDXzDXjXwDPuMuAKylUqCvioCoWnte2rrZlRUv8=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2025-05-29T04:18:26.360390Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VPT2xwZVhxc2ZtWVZnEAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VPT2xwZVhxc2ZtWVZnEAE!2m1!1s0x3442ab88b573a8d5:0x27633bdb16a5c85c"
+                    }
+                ]
 }

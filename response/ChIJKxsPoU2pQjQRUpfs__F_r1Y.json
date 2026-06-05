@@ -1,133 +1,91 @@
-{
-  "id": "ChIJKxsPoU2pQjQRUpfs__F_r1Y",
-  "types": [
-    "coffee_shop",
-    "dog_cafe",
-    "coffee_stand",
-    "cafe",
-    "food_store",
-    "store",
-    "food",
-    "point_of_interest",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 988 825 977",
-  "formattedAddress": "10364台灣臺北市大同區雙連里錦西街88號",
-  "location": {
-    "latitude": 25.060174,
-    "longitude": 121.51893740000001
-  },
-  "rating": 4.9,
-  "userRatingCount": 159,
-  "displayName": {
-    "text": "微停咖啡（歡迎帶毛孩來玩!!任何資訊請看IG:微停咖啡)",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJKxsPoU2pQjQRUpfs__F_r1Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ZeFpXbEpNMHBRZWtkVk5UUTBSVWRPZW1kdlFVRRAB",
-      "relativePublishTimeDescription": "4 個月前",
-      "rating": 5,
-      "text": {
-        "text": "老闆超熱情！超好聊👍 ，一定要來一杯招牌的海鹽焦糖，拿鐵咖啡也很好玩哦！",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "老闆超熱情！超好聊👍 ，一定要來一杯招牌的海鹽焦糖，拿鐵咖啡也很好玩哦！",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Once",
-        "uri": "https://www.google.com/maps/contrib/113039835160913321083/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJmp3gHH9Y0tFcsK46fdGUE-vX21FyibMyXJssnCjEHVBny3DDA=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2026-01-22T07:47:06.357560148Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25ZeFpXbEpNMHBRZWtkVk5UUTBSVWRPZW1kdlFVRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ZeFpXbEpNMHBRZWtkVk5UUTBSVWRPZW1kdlFVRRAB!2m1!1s0x3442a94da10f1b2b:0x56af7ff1ffec9752"
-    },
-    {
-      "name": "places/ChIJKxsPoU2pQjQRUpfs__F_r1Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tNME5HSldjVFphTWpsVWFWQjJaRjlWYkVKblpsRRAB",
-      "relativePublishTimeDescription": "5 個月前",
-      "rating": 1,
-      "text": {
-        "text": "幾個月前買過覺得CP值還可以，\n今天再來外帶價格居然貴了30元\n看其他人評論的照片\n兩個月前還是原本價格？？\n而且本來貼在外面的大海報菜單有價格也不見了。\n不過也是自己沒問清楚價格就點了\n如果要來買的人，請記得先問價格！\n這個價格CP值真的太低了～～～～～～\n附近咖啡店也很多，你可以有更好的選擇\n\n拿鐵中杯360ml外帶是120$喔～\n其他調味拿鐵是150$\n要問清楚再買。",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "幾個月前買過覺得CP值還可以，\n今天再來外帶價格居然貴了30元\n看其他人評論的照片\n兩個月前還是原本價格？？\n而且本來貼在外面的大海報菜單有價格也不見了。\n不過也是自己沒問清楚價格就點了\n如果要來買的人，請記得先問價格！\n這個價格CP值真的太低了～～～～～～\n附近咖啡店也很多，你可以有更好的選擇\n\n拿鐵中杯360ml外帶是120$喔～\n其他調味拿鐵是150$\n要問清楚再買。",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Kelly Lin",
-        "uri": "https://www.google.com/maps/contrib/105191570343639326908/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV-DCOEkdTeqxMeXbGeQDTCsykeiuJnEEtsT_h_-htKiQofpZk=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2025-12-13T02:59:57.511076018Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tNME5HSldjVFphTWpsVWFWQjJaRjlWYkVKblpsRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tNME5HSldjVFphTWpsVWFWQjJaRjlWYkVKblpsRRAB!2m1!1s0x3442a94da10f1b2b:0x56af7ff1ffec9752"
-    },
-    {
-      "name": "places/ChIJKxsPoU2pQjQRUpfs__F_r1Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsd2VXNUNhVTFSTlZSSGVpMUhYM1poVUVNdFNIYxAB",
-      "relativePublishTimeDescription": "3 個月前",
-      "rating": 5,
-      "text": {
-        "text": "老闆很親切！貴妃烏龍好喝🫶🏻\n旺旺超級無敵可愛，好愛他啊啊啊啊啊啊",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "老闆很親切！貴妃烏龍好喝🫶🏻\n旺旺超級無敵可愛，好愛他啊啊啊啊啊啊",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "湘",
-        "uri": "https://www.google.com/maps/contrib/100132550810884390189/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU4h3WVJzWv3a0qp7vQJ6Xj2h_3QRLo9jVHNjv5FuGBbzZgRQI=s128-c0x00000000-cc-rp-mo-ba4"
-      },
-      "publishTime": "2026-02-13T09:14:21.638896832Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsd2VXNUNhVTFSTlZSSGVpMUhYM1poVUVNdFNIYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsd2VXNUNhVTFSTlZSSGVpMUhYM1poVUVNdFNIYxAB!2m1!1s0x3442a94da10f1b2b:0x56af7ff1ffec9752"
-    },
-    {
-      "name": "places/ChIJKxsPoU2pQjQRUpfs__F_r1Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT21zMFlqbG5WMFpOU2pSalNqZENhM2xwWVdsalExRRAB",
-      "relativePublishTimeDescription": "9 個月前",
-      "rating": 5,
-      "text": {
-        "text": "咖啡好喝寵物友善唷～每次去都有機會認識新朋友🥰",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "咖啡好喝寵物友善唷～每次去都有機會認識新朋友🥰",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "H",
-        "uri": "https://www.google.com/maps/contrib/103401663000785699935/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVLeIOLNlWFJzx36OOUyqL_iEwAjTbbCg_RqbA_qtGbySP1u-Homw=s128-c0x00000000-cc-rp-mo-ba4"
-      },
-      "publishTime": "2025-08-28T06:08:39.052732307Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21zMFlqbG5WMFpOU2pSalNqZENhM2xwWVdsalExRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21zMFlqbG5WMFpOU2pSalNqZENhM2xwWVdsalExRRAB!2m1!1s0x3442a94da10f1b2b:0x56af7ff1ffec9752"
-    },
-    {
-      "name": "places/ChIJKxsPoU2pQjQRUpfs__F_r1Y/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3bGFUS2JREAE",
-      "relativePublishTimeDescription": "1 年前",
-      "rating": 5,
-      "text": {
-        "text": "茶很好喝\n因為不能喝咖啡點了茶\n不苦澀很香\n老闆很健談人很好\n可惜狗狗去洗澎澎了～\n有機會會帶我們家的狗狗們來玩",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "茶很好喝\n因為不能喝咖啡點了茶\n不苦澀很香\n老闆很健談人很好\n可惜狗狗去洗澎澎了～\n有機會會帶我們家的狗狗們來玩",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Tzu Han Chen",
-        "uri": "https://www.google.com/maps/contrib/113072379050933044173/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWrwwX9uxp8146vEpjvoLZsxk_0xgXegdMXyXnWGPg6NHkkC1Ju=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2025-04-14T11:42:21.611035Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3bGFUS2JREAE&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3bGFUS2JREAE!2m1!1s0x3442a94da10f1b2b:0x56af7ff1ffec9752"
-    }
-  ]
+﻿{
+    "id":  "ChIJKxsPoU2pQjQRUpfs__F_r1Y",
+    "types":  [
+                  "coffee_shop",
+                  "coffee_stand",
+                  "dog_cafe",
+                  "cafe",
+                  "food_store",
+                  "food",
+                  "store",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 988 825 977",
+    "formattedAddress":  "No. 88號, Jinxi St, Shuanglian Village, Datong District, Taipei City, Taiwan 10364",
+    "location":  {
+                     "latitude":  25.060174,
+                     "longitude":  121.51893740000001
+                 },
+    "rating":  4.9,
+    "userRatingCount":  162,
+    "displayName":  {
+                        "text":  "Waiting Cafe \u0026 Tea",
+                        "languageCode":  "en"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJKxsPoU2pQjQRUpfs__F_r1Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xeWVGVXpZazVEWjBsWWJtdzVVbmM1WVdoUk9GRRAB",
+                        "relativePublishTimeDescription":  "3 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "tasty drinks ☕️🍵\n\nthe owner is nice and friendly.\n\nWang Wang is just as cute as he is fluffy, he is a boy who locks in when he hears a treat packet hehe",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "tasty drinks ☕️🍵\n\nthe owner is nice and friendly.\n\nWang Wang is just as cute as he is fluffy, he is a boy who locks in when he hears a treat packet hehe",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Nana",
+                                                  "uri":  "https://www.google.com/maps/contrib/113034163099356296135/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUM3ZWzTUS2GozKcqCT4zbfswguRueHxHnTUHGxxMuzF05eEew=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2026-02-13T11:56:17.093859418Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xeWVGVXpZazVEWjBsWWJtdzVVbmM1WVdoUk9GRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xeWVGVXpZazVEWjBsWWJtdzVVbmM1WVdoUk9GRRAB!2m1!1s0x3442a94da10f1b2b:0x56af7ff1ffec9752"
+                    },
+                    {
+                        "name":  "places/ChIJKxsPoU2pQjQRUpfs__F_r1Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pZMlJFWnBVM0pTU25CdlFUSllaRVZmTFhKMGRXYxAB",
+                        "relativePublishTimeDescription":  "6 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Such a lovely little coffee place, with a friendly owner, and a super cute dog! You can sit outside, and somehow the atmosphere is really relaxt. Thank you",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Such a lovely little coffee place, with a friendly owner, and a super cute dog! You can sit outside, and somehow the atmosphere is really relaxt. Thank you",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Gwen Bal",
+                                                  "uri":  "https://www.google.com/maps/contrib/103322856491456232853/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocIg1tVnBuAZGJoyvYeTAptgrsbljh0HL8fcJZUQj1L1utoLXA=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2025-11-29T04:39:48.041674974Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pZMlJFWnBVM0pTU25CdlFUSllaRVZmTFhKMGRXYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pZMlJFWnBVM0pTU25CdlFUSllaRVZmTFhKMGRXYxAB!2m1!1s0x3442a94da10f1b2b:0x56af7ff1ffec9752"
+                    },
+                    {
+                        "name":  "places/ChIJKxsPoU2pQjQRUpfs__F_r1Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OalRYZHNRbkEyU21rNFFtUldXV1V5U21WRWExRRAB",
+                        "relativePublishTimeDescription":  "8 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "This doggy was so sweet and friendly, we had a really good time at this cafe🥰 The owner was also very attentive and friendly. Thank you 😊🙏 Greetings from Turkey 🇹🇷🇹🇼",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "This doggy was so sweet and friendly, we had a really good time at this cafe🥰 The owner was also very attentive and friendly. Thank you 😊🙏 Greetings from Turkey 🇹🇷🇹🇼",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Sude Sezer",
+                                                  "uri":  "https://www.google.com/maps/contrib/109950792554309394124/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocLXohczd1ezfnrdXZRoBFR_fZTRlEaF6lU-0JZkxavp-WwGkQ=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2025-10-06T09:03:47.186439158Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OalRYZHNRbkEyU21rNFFtUldXV1V5U21WRWExRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OalRYZHNRbkEyU21rNFFtUldXV1V5U21WRWExRRAB!2m1!1s0x3442a94da10f1b2b:0x56af7ff1ffec9752"
+                    }
+                ]
 }

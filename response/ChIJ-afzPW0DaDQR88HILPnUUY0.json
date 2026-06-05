@@ -1,132 +1,90 @@
-{
-  "id": "ChIJ-afzPW0DaDQR88HILPnUUY0",
-  "types": [
-    "coffee_shop",
-    "cafe",
-    "food_store",
-    "store",
-    "point_of_interest",
-    "food",
-    "establishment"
-  ],
-  "internationalPhoneNumber": "+886 983 785 617",
-  "formattedAddress": "100台灣臺北市中正區螢圃里廈門街18號1樓",
-  "location": {
-    "latitude": 25.0262647,
-    "longitude": 121.5176924
-  },
-  "rating": 4.9,
-  "websiteUri": "https://www.instagram.com/mogu_.coffee?igsh=bTNsdjZ1enp3cmNt&utm_source=qr",
-  "userRatingCount": 301,
-  "displayName": {
-    "text": "莫古咖啡 MEET GRACE COFFEE",
-    "languageCode": "zh-TW"
-  },
-  "reviews": [
-    {
-      "name": "places/ChIJ-afzPW0DaDQR88HILPnUUY0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xZemFucHFZbmRKTUhaSFZqQkhhRUo2VjFGNFRWRRAB",
-      "relativePublishTimeDescription": "5 個月前",
-      "rating": 5,
-      "text": {
-        "text": "店狗Bobo實在太可愛了！進門就在門口迎接，還會自己咬玩具來找玩！這家店的咖啡也超級好喝！非常推薦",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "店狗Bobo實在太可愛了！進門就在門口迎接，還會自己咬玩具來找玩！這家店的咖啡也超級好喝！非常推薦",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "YC Lu",
-        "uri": "https://www.google.com/maps/contrib/104948680455800042255/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVNb2MTgQfWV__2Nyk9XgdzjgDLcVASnPzyhUIMrUDi1aLu12gD=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2025-12-14T04:28:50.242798411Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xZemFucHFZbmRKTUhaSFZqQkhhRUo2VjFGNFRWRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xZemFucHFZbmRKTUhaSFZqQkhhRUo2VjFGNFRWRRAB!2m1!1s0x3468036d3df3a7f9:0x8d51d4f92cc8c1f3"
-    },
-    {
-      "name": "places/ChIJ-afzPW0DaDQR88HILPnUUY0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0YWFHcGljRkZ1Y1hSaVV5MURlblJMV1haT2IwRRAB",
-      "relativePublishTimeDescription": "6 個月前",
-      "rating": 5,
-      "text": {
-        "text": "BoBo超級可愛乖巧😍💕咖啡好喝，鬆餅也好吃😋老闆很親切友善，有機會會再來看BoBo🐶🐾希望牠能一直健康快樂～❤️",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "BoBo超級可愛乖巧😍💕咖啡好喝，鬆餅也好吃😋老闆很親切友善，有機會會再來看BoBo🐶🐾希望牠能一直健康快樂～❤️",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "郭嘟嘟",
-        "uri": "https://www.google.com/maps/contrib/105546229713595085545/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXd1z7mIozsIGTHVvhjKTFR79bQnbWbQfunMKMN0zT8foYAkclTaQ=s128-c0x00000000-cc-rp-mo"
-      },
-      "publishTime": "2025-11-20T04:30:39.035271730Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0YWFHcGljRkZ1Y1hSaVV5MURlblJMV1haT2IwRRAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0YWFHcGljRkZ1Y1hSaVV5MURlblJMV1haT2IwRRAB!2m1!1s0x3468036d3df3a7f9:0x8d51d4f92cc8c1f3"
-    },
-    {
-      "name": "places/ChIJ-afzPW0DaDQR88HILPnUUY0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pST2JFTllkbmRvVkdaRWRrbFZkMHMxTkRWcGVuYxAB",
-      "relativePublishTimeDescription": "6 個月前",
-      "rating": 5,
-      "text": {
-        "text": "🔍_wenweneating 美食雷達_溫溫\n歡迎到我的instagram來看我分享\n更多美食甜點景點推薦🍰\n\n剛搬來新址就被脆的大數據推播到\nBOBO真的是隻可愛又嚮往自由的大E狗(?)\n客人進來很容易就出去蹓躂🤣\n進來店裡要小心門縫不要開太大\n\n店家不限時又有可愛的店長陪\n真的會待到不想離開🥰\n老闆也很親切\n看到客人喜歡狗狗也會問要不要抱BOBO！\n（但如果BOBO在玩耍也不要強制抱起來呦）\n\n餐點也很不錯!!\n本來吃了咖哩飯想再點鬆餅\n但因為喝完咖啡胃空間不太夠\n鬆餅要留給二訪來吃了🤣",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "🔍_wenweneating 美食雷達_溫溫\n歡迎到我的instagram來看我分享\n更多美食甜點景點推薦🍰\n\n剛搬來新址就被脆的大數據推播到\nBOBO真的是隻可愛又嚮往自由的大E狗(?)\n客人進來很容易就出去蹓躂🤣\n進來店裡要小心門縫不要開太大\n\n店家不限時又有可愛的店長陪\n真的會待到不想離開🥰\n老闆也很親切\n看到客人喜歡狗狗也會問要不要抱BOBO！\n（但如果BOBO在玩耍也不要強制抱起來呦）\n\n餐點也很不錯!!\n本來吃了咖哩飯想再點鬆餅\n但因為喝完咖啡胃空間不太夠\n鬆餅要留給二訪來吃了🤣",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "이혜안",
-        "uri": "https://www.google.com/maps/contrib/111191427081036043788/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJHJYdYHVBD5wz3-uKw6PzHgj_ot01vH1qa6wbTuGJByieLrf_8=s128-c0x00000000-cc-rp-mo-ba3"
-      },
-      "publishTime": "2025-10-29T11:32:51.505001084Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pST2JFTllkbmRvVkdaRWRrbFZkMHMxTkRWcGVuYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pST2JFTllkbmRvVkdaRWRrbFZkMHMxTkRWcGVuYxAB!2m1!1s0x3468036d3df3a7f9:0x8d51d4f92cc8c1f3"
-    },
-    {
-      "name": "places/ChIJ-afzPW0DaDQR88HILPnUUY0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGNlZrNWpjamgyVm01clMxTnFaQzFRYUcweFVIYxAB",
-      "relativePublishTimeDescription": "7 個月前",
-      "rating": 5,
-      "text": {
-        "text": "唐揚雞咖哩飯，薄皮炸雞塊有醃製入味！好吃！走路離捷運站很近！咖啡好喝！狗狗很可愛🤩ps.店裡完全沒有味道！",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "唐揚雞咖哩飯，薄皮炸雞塊有醃製入味！好吃！走路離捷運站很近！咖啡好喝！狗狗很可愛🤩ps.店裡完全沒有味道！",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "Hasegawa M",
-        "uri": "https://www.google.com/maps/contrib/112357483153936409356/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVaAq_XirfLMrZxJotmQ8R6_2KEJt0IwhBoz883TTnVgGpylR8=s128-c0x00000000-cc-rp-mo-ba5"
-      },
-      "publishTime": "2025-10-06T10:45:34.362318140Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGNlZrNWpjamgyVm01clMxTnFaQzFRYUcweFVIYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGNlZrNWpjamgyVm01clMxTnFaQzFRYUcweFVIYxAB!2m1!1s0x3468036d3df3a7f9:0x8d51d4f92cc8c1f3"
-    },
-    {
-      "name": "places/ChIJ-afzPW0DaDQR88HILPnUUY0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kweWMxSm9iV2w1TVRVelpXbGtaRXRSTm5oeWRuYxAB",
-      "relativePublishTimeDescription": "3 個月前",
-      "rating": 5,
-      "text": {
-        "text": "醉翁之意不在酒，去了絕對不是為了喝咖啡，Bobo跟店主親暱有趣的遊戲互動以及Bobo的友善親人才是主角 😊",
-        "languageCode": "zh-Hant"
-      },
-      "originalText": {
-        "text": "醉翁之意不在酒，去了絕對不是為了喝咖啡，Bobo跟店主親暱有趣的遊戲互動以及Bobo的友善親人才是主角 😊",
-        "languageCode": "zh-Hant"
-      },
-      "authorAttribution": {
-        "displayName": "CHE-HSIEN Jason LAI, PMP",
-        "uri": "https://www.google.com/maps/contrib/109923291483642035500/reviews",
-        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV0WIJv7oALiv5HXX17HNI7S0NklNKRXwK60OCQ91jpoHMJxZRCHw=s128-c0x00000000-cc-rp-mo-ba6"
-      },
-      "publishTime": "2026-02-15T13:25:17.320839089Z",
-      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kweWMxSm9iV2w1TVRVelpXbGtaRXRSTm5oeWRuYxAB&d=17924085&t=1",
-      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kweWMxSm9iV2w1TVRVelpXbGtaRXRSTm5oeWRuYxAB!2m1!1s0x3468036d3df3a7f9:0x8d51d4f92cc8c1f3"
-    }
-  ]
+﻿{
+    "id":  "ChIJ-afzPW0DaDQR88HILPnUUY0",
+    "types":  [
+                  "coffee_shop",
+                  "cafe",
+                  "food_store",
+                  "food",
+                  "store",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 983 785 617",
+    "formattedAddress":  "100, Taiwan, Taipei City, Zhongzheng District, Yingpu Village, Xiamen St, 18號1樓",
+    "location":  {
+                     "latitude":  25.0262647,
+                     "longitude":  121.5176924
+                 },
+    "rating":  4.9,
+    "websiteUri":  "https://www.instagram.com/mogu_.coffee?igsh=bTNsdjZ1enp3cmNt\u0026utm_source=qr",
+    "userRatingCount":  304,
+    "displayName":  {
+                        "text":  "莫古咖啡 MEET GRACE COFFEE",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJ-afzPW0DaDQR88HILPnUUY0/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzcnFMMV9RRRAB",
+                        "relativePublishTimeDescription":  "a year ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Cute dog named BoBo, come meet him @ Meet Grace coffee",
+                                     "languageCode":  "en"
+                                 },
+                        "originalText":  {
+                                             "text":  "Cute dog named BoBo, come meet him @ Meet Grace coffee",
+                                             "languageCode":  "en"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Sean Tsai",
+                                                  "uri":  "https://www.google.com/maps/contrib/111445559299930174203/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVkhLi5rypkgYUAOKlY4T3dcv07z0UeqcPs4vutukhFtamUWf3U=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2024-11-15T07:30:26.126452Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzcnFMMV9RRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzcnFMMV9RRRAB!2m1!1s0x3468036d3df3a7f9:0x8d51d4f92cc8c1f3"
+                    },
+                    {
+                        "name":  "places/ChIJ-afzPW0DaDQR88HILPnUUY0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xZemFucHFZbmRKTUhaSFZqQkhhRUo2VjFGNFRWRRAB",
+                        "relativePublishTimeDescription":  "5 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "Bobo, the shop dog, is absolutely adorable! He greets you at the door as soon as you enter and even tries to play with his toys! The coffee at this shop is also incredibly delicious! Highly recommended!",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "店狗Bobo實在太可愛了！進門就在門口迎接，還會自己咬玩具來找玩！這家店的咖啡也超級好喝！非常推薦",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "YC Lu",
+                                                  "uri":  "https://www.google.com/maps/contrib/104948680455800042255/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVNb2MTgQfWV__2Nyk9XgdzjgDLcVASnPzyhUIMrUDi1aLu12gD=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-12-14T04:28:50.242798411Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xZemFucHFZbmRKTUhaSFZqQkhhRUo2VjFGNFRWRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xZemFucHFZbmRKTUhaSFZqQkhhRUo2VjFGNFRWRRAB!2m1!1s0x3468036d3df3a7f9:0x8d51d4f92cc8c1f3"
+                    },
+                    {
+                        "name":  "places/ChIJ-afzPW0DaDQR88HILPnUUY0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0YWFHcGljRkZ1Y1hSaVV5MURlblJMV1haT2IwRRAB",
+                        "relativePublishTimeDescription":  "6 months ago",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "BoBo is super cute and well-behaved 😍💕 The coffee was delicious, and the waffles were yummy too 😋 The owner was very friendly and kind. I\u0027ll definitely come back to see BoBo again if I have the chance 🐶🐾 I hope BoBo stays healthy and happy forever～❤️",
+                                     "languageCode":  "en-US"
+                                 },
+                        "originalText":  {
+                                             "text":  "BoBo超級可愛乖巧😍💕咖啡好喝，鬆餅也好吃😋老闆很親切友善，有機會會再來看BoBo🐶🐾希望牠能一直健康快樂～❤️",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "郭嘟嘟",
+                                                  "uri":  "https://www.google.com/maps/contrib/105546229713595085545/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXd1z7mIozsIGTHVvhjKTFR79bQnbWbQfunMKMN0zT8foYAkclTaQ=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2025-11-20T04:30:39.035271730Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0YWFHcGljRkZ1Y1hSaVV5MURlblJMV1haT2IwRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0YWFHcGljRkZ1Y1hSaVV5MURlblJMV1haT2IwRRAB!2m1!1s0x3468036d3df3a7f9:0x8d51d4f92cc8c1f3"
+                    }
+                ]
 }
