@@ -2748,3 +2748,9 @@ body {
     gap: 2px;
     border: 1px solid rgba(255, 126, 103, 0.15);
 }
+
+.card-meta-dot {
+    color: #cbd5e1;
+    font-weight: bold;
+    margin: 0 0.15rem;
+}

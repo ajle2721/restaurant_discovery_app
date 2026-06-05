@@ -149,6 +149,13 @@ const levelLabels = {
     '資訊不足': '❓ 資訊較少'
 };
 
+const priceSymbols = {
+    'PRICE_LEVEL_INEXPENSIVE': '$',
+    'PRICE_LEVEL_MODERATE': '$$',
+    'PRICE_LEVEL_EXPENSIVE': '$$$',
+    'PRICE_LEVEL_VERY_EXPENSIVE': '$$$$'
+};
+
 function getPFSummaryTags(res, overrideLevel, simpleFormat = false) {
     const attrs = res.attributes || {};
     
@@ -1425,6 +1432,18 @@ function renderCard(res, container, overrideLevel) {
         `;
     }
 
+    const priceSymbol = priceSymbols[res.price_level];
+    let footerHtml = `<span class="card-rating">⭐ ${res.rating}</span>`;
+    if (res.cuisine) {
+        footerHtml += ` <span class="card-meta-dot">·</span> <span class="card-cuisine">${res.cuisine}</span>`;
+    }
+    if (priceSymbol) {
+        footerHtml += ` <span class="card-meta-dot">·</span> <span class="card-price" title="${res.price_level}">${priceSymbol}</span>`;
+    }
+    if (timeHtml) {
+        footerHtml += ` <span class="card-meta-dot">·</span> ${timeHtml}`;
+    }
+
     const isFav = state.favorites.has(res.place_id);
     card.innerHTML = `
         <button class="card-map-btn" data-place-id="${res.place_id}" title="在地圖上查看">
@@ -1448,8 +1467,7 @@ function renderCard(res, container, overrideLevel) {
         </div>
         <div class="card-summary">${res.card_summary || res.ai_summary || '目前親子友善資訊較有限。'}</div>
         <div class="card-footer-row">
-            <span class="card-rating">⭐ ${res.rating}</span>
-            ${timeHtml}
+            ${footerHtml}
         </div>
     `;
 
@@ -1620,9 +1638,18 @@ function renderDetailContent(restaurant) {
     const isApp = isInAppBrowser();
     const mapTarget = isApp ? '_self' : '_blank';
 
+    const priceSymbol = priceSymbols[restaurant.price_level];
+    let detailMetaHtml = `⭐ ${restaurant.rating || 'N/A'}`;
+    if (restaurant.cuisine) {
+        detailMetaHtml += ` <span class="card-meta-dot">·</span> ${restaurant.cuisine}`;
+    }
+    if (priceSymbol) {
+        detailMetaHtml += ` <span class="card-meta-dot">·</span> ${priceSymbol}`;
+    }
+
     detailContent.innerHTML = `
         <h1 style="margin-bottom: 0.5rem; color: var(--text-main);">${restaurant.name || '未命名餐廳'}</h1>
-        <div class="restaurant-rating" style="font-size: 1.1rem; margin-bottom: 0.5rem;">⭐ ${restaurant.rating || 'N/A'}</div>
+        <div class="restaurant-rating" style="font-size: 1.1rem; margin-bottom: 0.5rem;">${detailMetaHtml}</div>
         <div class="restaurant-address" style="font-size: 0.9rem; margin-bottom: 0.85rem;">📍 ${fixSimplifiedAddress(restaurant.address || '')}</div>
         
         ${timeHtml}
