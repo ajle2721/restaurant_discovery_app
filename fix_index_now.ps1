@@ -75,7 +75,7 @@ foreach ($file in $aiFiles) {
                 'sushi_restaurant' = "$([char]0x583d)$([char]0x53f8)"
                 'pizza_restaurant' = "$([char]0x62ab)$([char]0x85a9)"
                 'ramen_restaurant' = "$([char]0x62c9)$([char]0x9eb5)"
-                'cafe' = "$([char]0x5496)$([char]0x5561)$([char]0x5ec3)"
+                'cafe' = "$([char]0x5496)$([char]0x5561)$([char]0x5ef3)"
                 'bakery' = "$([char]0x70d8)$([char]0x57f9)/$([char]0x751c)$([char]0x9ede)"
                 'bar' = "$([char]0x9152)$([char]0x5427)/$([char]0x9910)$([char]0x9152)$([char]0x9928)"
                 'bistro' = "$([char]0x5c0f)$([char]0x9152)$([char]0x9928)/$([char]0x9910)$([char]0x9152)$([char]0x9928)"
