@@ -61,7 +61,7 @@ def get_place_details(place_id):
     """Fetches details and reviews for a place ID."""
     url = f"https://places.googleapis.com/v1/places/{place_id}"
     params = {
-        "fields": "id,displayName,formattedAddress,rating,userRatingCount,reviews,types,location,websiteUri,internationalPhoneNumber",
+        "fields": "id,displayName,formattedAddress,rating,userRatingCount,reviews,types,location,websiteUri,internationalPhoneNumber,priceLevel",
         "key": API_KEY,
         "languageCode": "zh-Hant"
     }
