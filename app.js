@@ -1261,7 +1261,23 @@ async function renderResults() {
                 } else {
                     msg = `此區域附近完全符合條件的選擇較少（僅 ${fullyMatchingCount} 間）。`;
                 }
-                fallbackHint.textContent = `${msg}您可以考慮減少篩選條件，或參考下方「可以考慮（符合部分條件）」的餐廳。`;
+
+                // Check what else is available
+                const mediumCount = sorted.filter(r => r.dynamicLevel === 'Medium').length;
+                const hasOthers = sorted.some(r => r.dynamicLevel === 'Low Match' || r.dynamicLevel === 'Insufficient Info');
+                
+                let recommendation = '';
+                if (mediumCount > 0 && hasOthers) {
+                    recommendation = '您可以考慮減少篩選條件，或參考下方「可以考慮」與「其他友善選擇」的餐廳。';
+                } else if (mediumCount > 0) {
+                    recommendation = '您可以考慮減少篩選條件，或參考下方「可以考慮（符合部分條件）」的餐廳。';
+                } else if (hasOthers) {
+                    recommendation = '您可以考慮減少篩選條件，或參考下方「其他友善選擇」的餐廳。';
+                } else {
+                    recommendation = '您可以考慮減少篩選條件以獲得更多推薦。';
+                }
+
+                fallbackHint.textContent = `${msg}${recommendation}`;
                 fallbackHint.classList.remove('hidden');
             }
         } else if (state.filters && state.filters.size > 0 && exactMatches.length === 0) {
