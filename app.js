@@ -1257,17 +1257,25 @@ async function renderResults() {
         fallbackHint.innerHTML = '';
         fallbackHint.classList.add('hidden');
 
-        if (exactMatches.length <= 3 && !isTaipeiAll) {
+        // "完全符合" means "High" (很適合你) when filters are active, or all restaurants when no filters are active.
+        const activeFiltersCount = (state.filters && state.filters.size > 0) ? state.filters.size : 0;
+        const fullyMatchingCount = activeFiltersCount > 0 ? sorted.filter(r => r.dynamicLevel === 'High').length : sorted.length;
+
+        if (fullyMatchingCount <= 3 && !isTaipeiAll) {
             if (!state.expandedRadius) {
                 let msg = '';
-                if (exactMatches.length === 0) {
-                    if (state.filters && state.filters.size > 0) {
+                if (fullyMatchingCount === 0) {
+                    if (activeFiltersCount > 0) {
                         msg = '找不到完全符合篩選條件的餐廳。';
                     } else {
                         msg = '找不到此區域附近的親子友善餐廳。';
                     }
                 } else {
-                    msg = `此區域附近完全符合條件的選擇較少（僅 ${exactMatches.length} 間）。`;
+                    if (activeFiltersCount > 0) {
+                        msg = `此區域附近完全符合條件的選擇較少（僅 ${fullyMatchingCount} 間）。`;
+                    } else {
+                        msg = `此區域附近的選擇較少（僅 ${fullyMatchingCount} 間）。`;
+                    }
                 }
 
                 fallbackHint.innerHTML = `
