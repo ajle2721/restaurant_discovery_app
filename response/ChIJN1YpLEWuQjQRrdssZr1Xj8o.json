@@ -7,46 +7,25 @@
                   "establishment"
               ],
     "internationalPhoneNumber":  "+886 2 2898 3838",
-    "formattedAddress":  "112, Taiwan, Taipei City, Beitou District, Chang\u0027an Village, Guangming Rd, 224號2樓",
+    "formattedAddress":  "112台灣臺北市北投區光明路224號2樓",
     "location":  {
                      "latitude":  25.1361028,
                      "longitude":  121.50496509999999
                  },
     "rating":  4.2,
-    "userRatingCount":  87,
+    "userRatingCount":  85,
     "displayName":  {
                         "text":  "水美食府",
                         "languageCode":  "zh-TW"
                     },
     "reviews":  [
                     {
-                        "name":  "places/ChIJN1YpLEWuQjQRrdssZr1Xj8o/reviews/Ci9DQUlRQUNvZENodHljRjlvT21RNFltMHdWbEJKUjFaSk5rOVVlRXBEWkVkVWIwRRAB",
-                        "relativePublishTimeDescription":  "4 months ago",
-                        "rating":  3,
-                        "text":  {
-                                     "text":  "We had this as a meal during our tour!\nThe spare ribs were hit or miss, with lots of bones and not much meat.\nThe broccoli that came with the spare ribs was well seasoned and delicious.\n\nThe food was generally heavily seasoned, but the salad was refreshing with a sesame dressing.",
-                                     "languageCode":  "en-US"
-                                 },
-                        "originalText":  {
-                                             "text":  "ツアーでの食事に利用させていただきました！\nスペアリブは、当たり外れがあるみたい、骨ばかりでお肉の部分は少なかったです。\nスペアリブの付け合わせのブロッコリーは下味が付いていて美味しかったです。\n\nお料理は全体的に濃いめの味付け、サラダは、ごまドレッシングでさっぱりいただけました。",
-                                             "languageCode":  "ja"
-                                         },
-                        "authorAttribution":  {
-                                                  "displayName":  "ひの",
-                                                  "uri":  "https://www.google.com/maps/contrib/111471632052339231369/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocIHdbNF5oQ_pWk8Xgs_cSPdXsvBzATVooGVwZY13h97WmqC6yea=s128-c0x00000000-cc-rp-mo-ba8"
-                                              },
-                        "publishTime":  "2026-02-02T04:14:08.443810733Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21RNFltMHdWbEJKUjFaSk5rOVVlRXBEWkVkVWIwRRAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21RNFltMHdWbEJKUjFaSk5rOVVlRXBEWkVkVWIwRRAB!2m1!1s0x3442ae452c295637:0xca8f57bd662cdbad"
-                    },
-                    {
                         "name":  "places/ChIJN1YpLEWuQjQRrdssZr1Xj8o/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCd09UaDZhelZKV21wcVNucGlWazF5ZVhwelFXYxAB",
-                        "relativePublishTimeDescription":  "6 months ago",
+                        "relativePublishTimeDescription":  "3 個月前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "Order the 680 and 980 set meals. The food was exquisite, and the ingredients were carefully selected.\n\nI\u0027d like to dine here again if I have the chance.",
-                                     "languageCode":  "en-US"
+                                     "text":  "點680和980的套餐\n餐點精緻，食材搭配用心\n之後有機會再來用餐",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "點680和980的套餐\n餐點精緻，食材搭配用心\n之後有機會再來用餐",
@@ -63,11 +42,11 @@
                     },
                     {
                         "name":  "places/ChIJN1YpLEWuQjQRrdssZr1Xj8o/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkNWJHcHRkSEUzVWtaV1VrdzVUbXAzYW5waGIzYxAB",
-                        "relativePublishTimeDescription":  "8 months ago",
+                        "relativePublishTimeDescription":  "5 個月前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "We ordered the $680 and $980 set meals, and they were both excellent! Definitely worth revisiting.",
-                                     "languageCode":  "en-US"
+                                     "text":  "點了$680和$980的套餐，都很讚！值得回訪",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "點了$680和$980的套餐，都很讚！值得回訪",
@@ -81,6 +60,27 @@
                         "publishTime":  "2025-09-24T02:47:20.099382532Z",
                         "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkNWJHcHRkSEUzVWtaV1VrdzVUbXAzYW5waGIzYxAB\u0026d=17924085\u0026t=1",
                         "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkNWJHcHRkSEUzVWtaV1VrdzVUbXAzYW5waGIzYxAB!2m1!1s0x3442ae452c295637:0xca8f57bd662cdbad"
+                    },
+                    {
+                        "name":  "places/ChIJN1YpLEWuQjQRrdssZr1Xj8o/reviews/ChZDSUhNMG9nS0VJQ0FnTURJaGFQSkhnEAE",
+                        "relativePublishTimeDescription":  "3 週前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "原本以為水美以溫泉為亮點，哪知餐點一樣很出色，一定要來嚐嚐！",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "原本以為水美以溫泉為亮點，哪知餐點一樣很出色，一定要來嚐嚐！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "JY Y",
+                                                  "uri":  "https://www.google.com/maps/contrib/106998713041512465467/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUN0Nj_60c6qhYGN462on4MR_Dm0WGO0xN0TSX-njG-fPofwg3osg=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2026-02-28T09:46:14.569651599Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJaGFQSkhnEAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJaGFQSkhnEAE!2m1!1s0x3442ae452c295637:0xca8f57bd662cdbad"
                     }
                 ]
 }

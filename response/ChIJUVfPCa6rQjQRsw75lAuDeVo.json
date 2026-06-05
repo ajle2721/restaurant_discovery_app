@@ -3,18 +3,18 @@
     "types":  [
                   "brunch_restaurant",
                   "restaurant",
-                  "food",
                   "point_of_interest",
+                  "food",
                   "establishment"
               ],
     "internationalPhoneNumber":  "+886 2 8509 5201",
-    "formattedAddress":  "105, Taiwan, Taipei City, Songshan District, Pengcheng Village, Alley 6, Lane 325, Jiankang Rd, 2號1樓",
+    "formattedAddress":  "105台灣臺北市松山區鵬程里健康路325巷6弄2號1樓",
     "location":  {
                      "latitude":  25.054814900000004,
                      "longitude":  121.56733299999999
                  },
     "rating":  4.1,
-    "userRatingCount":  119,
+    "userRatingCount":  118,
     "displayName":  {
                         "text":  "麥味登 北市西松店",
                         "languageCode":  "zh-TW"
@@ -22,11 +22,11 @@
     "reviews":  [
                     {
                         "name":  "places/ChIJUVfPCa6rQjQRsw75lAuDeVo/reviews/ChdDSUhNMG9nS0VJLUFvWmlnOFBlUXJ3RRAB",
-                        "relativePublishTimeDescription":  "a year ago",
+                        "relativePublishTimeDescription":  "1 年前",
                         "rating":  3,
                         "text":  {
-                                     "text":  "Frankly speaking, the portions look large, but the key ingredients in the dishes are either very small (the smoked chicken may be less than 20g), or look large but are flattened very thinly. Don’t try the new products (bean curd egg pancake, noodle soup), they are not tasty…",
-                                     "languageCode":  "en-US"
+                                     "text":  "坦白講份量看起來大，但餐品裡面的重點食材，要不是非常少（熏雞可能都不到20g），要不是看起來大但拍扁的特別薄。新品建議別試（豆皮蛋餅、湯麵）不好吃…",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "坦白講份量看起來大，但餐品裡面的重點食材，要不是非常少（熏雞可能都不到20g），要不是看起來大但拍扁的特別薄。新品建議別試（豆皮蛋餅、湯麵）不好吃…",
@@ -43,11 +43,11 @@
                     },
                     {
                         "name":  "places/ChIJUVfPCa6rQjQRsw75lAuDeVo/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KUVZrNTZZVTVHY0VwdGVYVTVkRXBuVVRkaVEyYxAB",
-                        "relativePublishTimeDescription":  "6 months ago",
+                        "relativePublishTimeDescription":  "6 個月前",
                         "rating":  2,
                         "text":  {
-                                     "text":  "The eggs were fried until burnt, yet they were still served to customers. The last time I ate them, they were fine; the quality is inconsistent.",
-                                     "languageCode":  "en-US"
+                                     "text":  "蛋都煎到燒焦還是拿給顧客，上次吃的時候比較正常，品質不一",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "蛋都煎到燒焦還是拿給顧客，上次吃的時候比較正常，品質不一",
@@ -64,11 +64,11 @@
                     },
                     {
                         "name":  "places/ChIJUVfPCa6rQjQRsw75lAuDeVo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSdGFFMVVXbEpNVEhONU9FY3RkVkIyTkV4d1JrRRAB",
-                        "relativePublishTimeDescription":  "11 months ago",
+                        "relativePublishTimeDescription":  "11 個月前",
                         "rating":  2,
                         "text":  {
-                                     "text":  "The interior space smelled terrible, there were no restrooms provided, and the tables weren\u0027t wiped down. The food preparation was haphazard and didn\u0027t taste as good as the pictures on the menu. We hope the head office can help improve this situation.",
-                                     "languageCode":  "en-US"
+                                     "text":  "內用空間味道很臭，沒有提供廁所，桌子也都沒有人員來擦。食物製作上偏隨便，做不出如menu圖片那樣美味。希望總公司可以協助改善。",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "內用空間味道很臭，沒有提供廁所，桌子也都沒有人員來擦。食物製作上偏隨便，做不出如menu圖片那樣美味。希望總公司可以協助改善。",
@@ -82,6 +82,48 @@
                         "publishTime":  "2025-06-13T04:34:00.314486595Z",
                         "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSdGFFMVVXbEpNVEhONU9FY3RkVkIyTkV4d1JrRRAB\u0026d=17924085\u0026t=1",
                         "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSdGFFMVVXbEpNVEhONU9FY3RkVkIyTkV4d1JrRRAB!2m1!1s0x3442abae09cf5751:0x5a79830b94f90eb3"
+                    },
+                    {
+                        "name":  "places/ChIJUVfPCa6rQjQRsw75lAuDeVo/reviews/ChdDSUhNMG9nS0VJQ0FnSURqNFBDWnVnRRAB",
+                        "relativePublishTimeDescription":  "2 年前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "早午餐很豐富\n氣氛也很舒服\n開心又美麗的用餐時光\n採黑板塗鴉的工藝風，感覺好像來到了國外的小餐館很有異國風情 ，好吃又平價的早午餐店，讓人可以享受美麗的早午餐時光又只要銅板美食~~好棒哦！\n\n供應早餐、早午餐、中晚餐、下午茶，豐盛的中西式熱食，徹底跳脫傳統早餐業，明亮整潔的空間設計，搭配柔和舒適的溫暖燈光，形塑如家一般的溫暖氛圍，讓用餐時五感能充分感受舒適與愉悅。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "早午餐很豐富\n氣氛也很舒服\n開心又美麗的用餐時光\n採黑板塗鴉的工藝風，感覺好像來到了國外的小餐館很有異國風情 ，好吃又平價的早午餐店，讓人可以享受美麗的早午餐時光又只要銅板美食~~好棒哦！\n\n供應早餐、早午餐、中晚餐、下午茶，豐盛的中西式熱食，徹底跳脫傳統早餐業，明亮整潔的空間設計，搭配柔和舒適的溫暖燈光，形塑如家一般的溫暖氛圍，讓用餐時五感能充分感受舒適與愉悅。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Lifen",
+                                                  "uri":  "https://www.google.com/maps/contrib/109453666611987640390/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUxCrKiuxXOwuHjZK5AkzYOzkCmKFljirYFUZxz430Bp5PvVN8rzg=s128-c0x00000000-cc-rp-mo-ba8"
+                                              },
+                        "publishTime":  "2024-04-28T04:36:51.583709Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURqNFBDWnVnRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURqNFBDWnVnRRAB!2m1!1s0x3442abae09cf5751:0x5a79830b94f90eb3"
+                    },
+                    {
+                        "name":  "places/ChIJUVfPCa6rQjQRsw75lAuDeVo/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQd2NYVjdnRRAB",
+                        "relativePublishTimeDescription":  "1 年前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "位在西松高中對面，高中有地下停車場，停車方便，有多種餐點可選擇，現在也有健康低脂餐可選擇，非常方便，內用位置不多，假日用餐人較多，需稍微等候。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "位在西松高中對面，高中有地下停車場，停車方便，有多種餐點可選擇，現在也有健康低脂餐可選擇，非常方便，內用位置不多，假日用餐人較多，需稍微等候。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "孟波",
+                                                  "uri":  "https://www.google.com/maps/contrib/113480719157586419867/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWPEgI9oXlD56hlDRhz2rIKeiAGfyONClffu9JgHnWBr4LzYOHycQ=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2024-11-25T04:21:18.570829Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNQd2NYVjdnRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNQd2NYVjdnRRAB!2m1!1s0x3442abae09cf5751:0x5a79830b94f90eb3"
                     }
                 ]
 }

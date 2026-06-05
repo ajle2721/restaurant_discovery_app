@@ -1,133 +1,134 @@
 ﻿{
     "id":  "ChIJA0jJYwCtQjQR80dXw81H7O4",
     "types":  [
-                  "bistro",
                   "brunch_restaurant",
+                  "bistro",
                   "food_store",
+                  "store",
                   "restaurant",
                   "food",
-                  "store",
                   "point_of_interest",
                   "establishment"
               ],
     "internationalPhoneNumber":  "+886 2 2627 0088",
-    "formattedAddress":  "No. 37號, Alley 30, Lane 210, Wende Rd, Ziyang Village, Neihu District, Taipei City, Taiwan 114",
+    "formattedAddress":  "114台灣臺北市內湖區紫陽里文德路210巷30弄37號",
     "location":  {
                      "latitude":  25.077026399999998,
                      "longitude":  121.58508470000001
                  },
-    "rating":  4.7,
+    "rating":  4.6,
     "websiteUri":  "https://tgbistro.com.tw/",
-    "userRatingCount":  215,
+    "userRatingCount":  214,
     "displayName":  {
                         "text":  "TG BISTRO｜天亦閣餐館",
                         "languageCode":  "zh-TW"
                     },
     "reviews":  [
                     {
-                        "name":  "places/ChIJA0jJYwCtQjQR80dXw81H7O4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SNE5GOXFaMVZvTFZGRVFrcHRlbUZTTmxaV2VHYxAB",
-                        "relativePublishTimeDescription":  "8 months ago",
+                        "name":  "places/ChIJA0jJYwCtQjQR80dXw81H7O4/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SZlF6aHVablkwTlZsaFYwcHZWVzUyYjAxNlEwRRAB",
+                        "relativePublishTimeDescription":  "6 個月前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "Best pasta I\u0027ve tasted in Taipei. My husband who is particular about his pasta also said the pasta here was really good. I ordered the creamy bacon pasta and a full set addition with bread, salad, drinks, and dessert. Love all but for the salad, I picked the Japanese salad and it was a bit weird for me because they mixed balsamic vinegar with sesame sauce. It was edible but not recommended by me.",
-                                     "languageCode":  "en"
+                                     "text":  "- 整個裝潢感覺舒服，\n- 音樂略為大聲，可能為了廚房也可以聽的到音樂（？）\n- 客源多為家庭朋友多人聚會，聲音會很多元\n- 廁所很乾淨，但有一台用USB插頭在供電的機器好像會噴液體，有東西滴到插頭附近的痕跡，有點危險。\n- 沙拉選了炙燒牛與水果優格，兩個都很好吃，優格吃起來很清爽不會膩。\n- 蘑菇湯來時很燙，好喝。\n- 麵包很軟配湯剛好。\n- 松露奶油白醬牛排燉飯，比想像中的更好吃，牛肉的口感本以為會很硬，結果剛剛好。\n- 蒜香奶油蝦義大利麵，蒜味很足，但是好像有一點苦味。\n- 甜點點了烤布蕾與冰淇淋布朗尼，都還可以。看到之前有留言反應布朗尼很硬，但還是想嘗試看看，而老闆可能聽到客戶的心聲，我吃到時是像加熱的蛋糕口感，配上冰涼冰淇淋剛好。\n- 飲料點了新鮮果汁，很解膩。",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "Best pasta I\u0027ve tasted in Taipei. My husband who is particular about his pasta also said the pasta here was really good. I ordered the creamy bacon pasta and a full set addition with bread, salad, drinks, and dessert. Love all but for the salad, I picked the Japanese salad and it was a bit weird for me because they mixed balsamic vinegar with sesame sauce. It was edible but not recommended by me.",
-                                             "languageCode":  "en"
+                                             "text":  "- 整個裝潢感覺舒服，\n- 音樂略為大聲，可能為了廚房也可以聽的到音樂（？）\n- 客源多為家庭朋友多人聚會，聲音會很多元\n- 廁所很乾淨，但有一台用USB插頭在供電的機器好像會噴液體，有東西滴到插頭附近的痕跡，有點危險。\n- 沙拉選了炙燒牛與水果優格，兩個都很好吃，優格吃起來很清爽不會膩。\n- 蘑菇湯來時很燙，好喝。\n- 麵包很軟配湯剛好。\n- 松露奶油白醬牛排燉飯，比想像中的更好吃，牛肉的口感本以為會很硬，結果剛剛好。\n- 蒜香奶油蝦義大利麵，蒜味很足，但是好像有一點苦味。\n- 甜點點了烤布蕾與冰淇淋布朗尼，都還可以。看到之前有留言反應布朗尼很硬，但還是想嘗試看看，而老闆可能聽到客戶的心聲，我吃到時是像加熱的蛋糕口感，配上冰涼冰淇淋剛好。\n- 飲料點了新鮮果汁，很解膩。",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "Dian Christianty",
-                                                  "uri":  "https://www.google.com/maps/contrib/105865399013733031645/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocIDoNZ-wkF1yCxo0irJdL8XuZTEGDp4E_od9miM5KusnSlO=s128-c0x00000000-cc-rp-mo-ba3"
+                                                  "displayName":  "MountainDew",
+                                                  "uri":  "https://www.google.com/maps/contrib/112756277439232535698/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWSfdToHfhNtZxnN8z0EIIRyXmQa-Suby6cFwTgdeQUhpZv68mt=s128-c0x00000000-cc-rp-mo-ba5"
                                               },
-                        "publishTime":  "2025-10-08T04:06:39.912032471Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SNE5GOXFaMVZvTFZGRVFrcHRlbUZTTmxaV2VHYxAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SNE5GOXFaMVZvTFZGRVFrcHRlbUZTTmxaV2VHYxAB!2m1!1s0x3442ad0063c94803:0xeeec47cdc35747f3"
+                        "publishTime":  "2025-11-02T14:18:24.812566709Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SZlF6aHVablkwTlZsaFYwcHZWVzUyYjAxNlEwRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SZlF6aHVablkwTlZsaFYwcHZWVzUyYjAxNlEwRRAB!2m1!1s0x3442ad0063c94803:0xeeec47cdc35747f3"
                     },
                     {
-                        "name":  "places/ChIJA0jJYwCtQjQR80dXw81H7O4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OSlIybHBkMGhNU2s4NE9WcDNOemhyTkRkRlowRRAB",
-                        "relativePublishTimeDescription":  "11 months ago",
-                        "rating":  5,
+                        "name":  "places/ChIJA0jJYwCtQjQR80dXw81H7O4/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ScFprdG9RVVZWTjNkb00yNW9hSEpXVG1JeU9VRRAB",
+                        "relativePublishTimeDescription":  "7 個月前",
+                        "rating":  4,
                         "text":  {
-                                     "text":  "Amazing pasta. Great food!",
-                                     "languageCode":  "en"
+                                     "text":  "第三次回訪，每道餐點都好吃，早午餐很豐盛。餐廳明亮寬敞，但某些位置冷氣很強吹到冷，水杯沒水需要ㄧ直召喚服務生。在社區裡算是ㄧ家不錯可和朋友聚會聊天的餐廳",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "Amazing pasta. Great food!",
-                                             "languageCode":  "en"
+                                             "text":  "第三次回訪，每道餐點都好吃，早午餐很豐盛。餐廳明亮寬敞，但某些位置冷氣很強吹到冷，水杯沒水需要ㄧ直召喚服務生。在社區裡算是ㄧ家不錯可和朋友聚會聊天的餐廳",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "TW West",
-                                                  "uri":  "https://www.google.com/maps/contrib/100452540732885974098/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWEK_WtVYnbXzGxsvlCcL91Or0z0sulC6UkX7DId1rInv0-vwE=s128-c0x00000000-cc-rp-mo-ba4"
+                                                  "displayName":  "Luka Keng",
+                                                  "uri":  "https://www.google.com/maps/contrib/116068990207372848230/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocLaaMG7XWNwlQ8ycE3raVEHvb7Wamm3r7a8Jslzsl9Qsgyuhg=s128-c0x00000000-cc-rp-mo"
                                               },
-                        "publishTime":  "2025-06-28T04:17:18.670182745Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OSlIybHBkMGhNU2s4NE9WcDNOemhyTkRkRlowRRAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OSlIybHBkMGhNU2s4NE9WcDNOemhyTkRkRlowRRAB!2m1!1s0x3442ad0063c94803:0xeeec47cdc35747f3"
+                        "publishTime":  "2025-10-08T23:38:47.539932699Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ScFprdG9RVVZWTjNkb00yNW9hSEpXVG1JeU9VRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ScFprdG9RVVZWTjNkb00yNW9hSEpXVG1JeU9VRRAB!2m1!1s0x3442ad0063c94803:0xeeec47cdc35747f3"
                     },
                     {
-                        "name":  "places/ChIJA0jJYwCtQjQR80dXw81H7O4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwaFJFRTRVSE5XVm5SR1MyVjZSa1JYWXpFeVpuYxAB",
-                        "relativePublishTimeDescription":  "11 months ago",
+                        "name":  "places/ChIJA0jJYwCtQjQR80dXw81H7O4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGcExVTjJOaTAxV1Rod2RIbEJVa1ZmUjJWbGRsRRAB",
+                        "relativePublishTimeDescription":  "5 個月前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "Have to try the pasta delicious!!",
-                                     "languageCode":  "en"
+                                     "text":  "初訪，四輪臨停捷運文德站，穿越後方小公園，一下就到粉方便。餐點每道都不錯吃，下回再來試試別的餐點~",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "Have to try the pasta delicious!!",
-                                             "languageCode":  "en"
+                                             "text":  "初訪，四輪臨停捷運文德站，穿越後方小公園，一下就到粉方便。餐點每道都不錯吃，下回再來試試別的餐點~",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "Karmichael Wilson",
-                                                  "uri":  "https://www.google.com/maps/contrib/103980760661372186421/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXaDIoiZg2UiFteWOyX2-A1mZ6dEvIP5cR7CPrMBccQo29zWSpw=s128-c0x00000000-cc-rp-mo-ba5"
+                                                  "displayName":  "Jacky Chen",
+                                                  "uri":  "https://www.google.com/maps/contrib/110661881001884679047/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocI9cvxf_kf_Fb_wynTpiyH8EUar4uWh9vyu2f6wKvaD3gceNA=s128-c0x00000000-cc-rp-mo-ba6"
                                               },
-                        "publishTime":  "2025-06-28T03:54:13.337051114Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwaFJFRTRVSE5XVm5SR1MyVjZSa1JYWXpFeVpuYxAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwaFJFRTRVSE5XVm5SR1MyVjZSa1JYWXpFeVpuYxAB!2m1!1s0x3442ad0063c94803:0xeeec47cdc35747f3"
+                        "publishTime":  "2025-12-08T03:35:40.434397319Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGcExVTjJOaTAxV1Rod2RIbEJVa1ZmUjJWbGRsRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGcExVTjJOaTAxV1Rod2RIbEJVa1ZmUjJWbGRsRRAB!2m1!1s0x3442ad0063c94803:0xeeec47cdc35747f3"
                     },
                     {
-                        "name":  "places/ChIJA0jJYwCtQjQR80dXw81H7O4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pabVpXbG1XVGxDWTFOVU9EWk9ibU5aY0ZOUmRYYxAB",
-                        "relativePublishTimeDescription":  "11 months ago",
+                        "name":  "places/ChIJA0jJYwCtQjQR80dXw81H7O4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGbE5FZFhiV1JqYWswMmIyTlNObTAzVmxWSk1tYxAB",
+                        "relativePublishTimeDescription":  "4 個月前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "Fresh made in house pasta! Amazing!",
-                                     "languageCode":  "en"
+                                     "text":  "整體很棒，義大利麵很好吃，醬料是有在認真的！\n常常經過很多長輩會在這裡聚會。",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "Fresh made in house pasta! Amazing!",
-                                             "languageCode":  "en"
+                                             "text":  "整體很棒，義大利麵很好吃，醬料是有在認真的！\n常常經過很多長輩會在這裡聚會。",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "Brian Gunner",
-                                                  "uri":  "https://www.google.com/maps/contrib/105334763245796103132/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVLmcZ5-QyyqzYruGI26N4RNhffJz9B9CdTTRqIBDS-Yl06zkU=s128-c0x00000000-cc-rp-mo-ba5"
+                                                  "displayName":  "蕭豪豪",
+                                                  "uri":  "https://www.google.com/maps/contrib/108416595352402551806/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXfEvqG8jLh8SHEzyZ3GXrJdJ1m1pm589f85teDvtjOOtnPz9b9=s128-c0x00000000-cc-rp-mo-ba5"
                                               },
-                        "publishTime":  "2025-06-28T03:22:32.669504089Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pabVpXbG1XVGxDWTFOVU9EWk9ibU5aY0ZOUmRYYxAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pabVpXbG1XVGxDWTFOVU9EWk9ibU5aY0ZOUmRYYxAB!2m1!1s0x3442ad0063c94803:0xeeec47cdc35747f3"
+                        "publishTime":  "2025-12-28T09:47:40.745902138Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGbE5FZFhiV1JqYWswMmIyTlNObTAzVmxWSk1tYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGbE5FZFhiV1JqYWswMmIyTlNObTAzVmxWSk1tYxAB!2m1!1s0x3442ad0063c94803:0xeeec47cdc35747f3"
                     },
                     {
-                        "name":  "places/ChIJA0jJYwCtQjQR80dXw81H7O4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsU1FtRTJVblpXTWtwTVdFbFJXV3BwYW5aSFJtYxAB",
-                        "relativePublishTimeDescription":  "a month ago",
+                        "name":  "places/ChIJA0jJYwCtQjQR80dXw81H7O4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaNmJVbE5VMGRQVVRkWlYzUXdiRk5wUTBGelRtYxAB",
+                        "relativePublishTimeDescription":  "2 個月前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "First time here. It’s super delicious, pasta porcini was WOW, Caesar salad, baked bolognese, omg porcini soup also was amazing! Also we ordered pizza, but it is actually a little bit taste as a processed food, dough mostly…  desserts was great also. Thank you very much, definitely recommend.",
-                                     "languageCode":  "en"
+                                     "text":  "餐點美味好吃、環境氛圍好、服務親切，整體佳評",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "First time here. It’s super delicious, pasta porcini was WOW, Caesar salad, baked bolognese, omg porcini soup also was amazing! Also we ordered pizza, but it is actually a little bit taste as a processed food, dough mostly…  desserts was great also. Thank you very much, definitely recommend.",
-                                             "languageCode":  "en"
+                                             "text":  "餐點美味好吃、環境氛圍好、服務親切，整體佳評",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "Valeria Buslovich",
-                                                  "uri":  "https://www.google.com/maps/contrib/111735429186899417123/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXCV_nGV36ni9HmURvUKUiLmBbqI7n3bvshCAQGCNdUomBoszBP=s128-c0x00000000-cc-rp-mo-ba2"
+                                                  "displayName":  "謝優秀",
+                                                  "uri":  "https://www.google.com/maps/contrib/117597495440962252179/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWOlwi18YwoTdPlY5i9INBbuZdfnvcFyFvigYPa8wj5DTnxo2eP=s128-c0x00000000-cc-rp-mo-ba2"
                                               },
-                        "publishTime":  "2026-04-29T13:09:13.708849271Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsU1FtRTJVblpXTWtwTVdFbFJXV3BwYW5aSFJtYxAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsU1FtRTJVblpXTWtwTVdFbFJXV3BwYW5aSFJtYxAB!2m1!1s0x3442ad0063c94803:0xeeec47cdc35747f3"
+                        "publishTime":  "2026-02-26T13:02:47.137362151Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaNmJVbE5VMGRQVVRkWlYzUXdiRk5wUTBGelRtYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaNmJVbE5VMGRQVVRkWlYzUXdiRk5wUTBGelRtYxAB!2m1!1s0x3442ad0063c94803:0xeeec47cdc35747f3"
                     }
-                ]
+                ],
+    "menuForChildren":  false
 }

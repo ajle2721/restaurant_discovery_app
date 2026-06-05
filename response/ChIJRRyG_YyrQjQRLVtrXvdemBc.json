@@ -3,133 +3,133 @@
     "types":  [
                   "american_restaurant",
                   "hamburger_restaurant",
+                  "chicken_wings_restaurant",
                   "seafood_restaurant",
                   "bar",
-                  "chicken_wings_restaurant",
                   "restaurant",
                   "food",
                   "point_of_interest",
                   "establishment"
               ],
     "internationalPhoneNumber":  "+886 2 2729 0168",
-    "formattedAddress":  "110, Taiwan, Taipei City, Xinyi District, 信義區 Songren Rd, 58號14樓",
+    "formattedAddress":  "110台灣臺北市信義區松仁路58號14樓",
     "location":  {
                      "latitude":  25.036672,
                      "longitude":  121.56813069999998
                  },
     "rating":  4.7,
     "websiteUri":  "https://www.hooters.com.tw/",
-    "priceLevel":  "PRICE_LEVEL_EXPENSIVE",
-    "userRatingCount":  5896,
+    "userRatingCount":  5817,
     "displayName":  {
-                        "text":  "HOOTERS Xinyi Branch",
-                        "languageCode":  "en"
+                        "text":  "HOOTERS美式餐廳 信義店",
+                        "languageCode":  "zh-TW"
                     },
     "reviews":  [
                     {
-                        "name":  "places/ChIJRRyG_YyrQjQRLVtrXvdemBc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSWVRHaDBTVEEwWkRBelVVeHFTemxDYjNGTE1IYxAB",
-                        "relativePublishTimeDescription":  "4 months ago",
+                        "name":  "places/ChIJRRyG_YyrQjQRLVtrXvdemBc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWTGNuZGpTVW8wVDJKWFFuWlVaM2hRY2tSak5uYxAB",
+                        "relativePublishTimeDescription":  "3 個月前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "Need to have reservations to go to this restaurant especially on holiday.  Luckily I go here weekdays and reserve a sit for 1 person on the day and it has vacant. This is not a fine dining experience and expect loud atmosphere especially some costumer already drunk. They have quick activities for fun like hollahoop show. I like also how the girls waitress serve and entertain you as foreigners.  They can speak English and I don\u0027t feel discriminated here.\n\nI ate alone with a good food and ambiance.  I reserve 22:00 and I got early in taipei so I move 21:30 in my reservations and have vacant seat for me.",
-                                     "languageCode":  "en"
+                                     "text":  "蛤蜊濃湯很好喝～～\n今天我們是有包一區使用，特別感謝服務我們的Kelly不只長的很美，態度親切又很貼心！我因感冒所以跟她要了兩次熱水，後來她詢問我是否生理期來需不需要給我暖暖包，當下真的覺得很暖心也很謝謝她！希望貴司也能給予優秀員工表揚👍🏻",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "Need to have reservations to go to this restaurant especially on holiday.  Luckily I go here weekdays and reserve a sit for 1 person on the day and it has vacant. This is not a fine dining experience and expect loud atmosphere especially some costumer already drunk. They have quick activities for fun like hollahoop show. I like also how the girls waitress serve and entertain you as foreigners.  They can speak English and I don\u0027t feel discriminated here.\n\nI ate alone with a good food and ambiance.  I reserve 22:00 and I got early in taipei so I move 21:30 in my reservations and have vacant seat for me.",
-                                             "languageCode":  "en"
+                                             "text":  "蛤蜊濃湯很好喝～～\n今天我們是有包一區使用，特別感謝服務我們的Kelly不只長的很美，態度親切又很貼心！我因感冒所以跟她要了兩次熱水，後來她詢問我是否生理期來需不需要給我暖暖包，當下真的覺得很暖心也很謝謝她！希望貴司也能給予優秀員工表揚👍🏻",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "Jeny Rose Torema",
-                                                  "uri":  "https://www.google.com/maps/contrib/108552180184997654550/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUC2DlR6GzTOIaT7JDvSQLC0GP8gn1A9IrlFQw_LqKrGbgiVyYT=s128-c0x00000000-cc-rp-mo-ba6"
+                                                  "displayName":  "徐理慧",
+                                                  "uri":  "https://www.google.com/maps/contrib/113468642760915102677/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXfDpY1V0tP0Z-LP6CB8w4Nfti7v5C17b2LJLU8_A0nTvAKtSSo=s128-c0x00000000-cc-rp-mo-ba3"
                                               },
-                        "publishTime":  "2026-02-04T13:30:35.759342598Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSWVRHaDBTVEEwWkRBelVVeHFTemxDYjNGTE1IYxAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSWVRHaDBTVEEwWkRBelVVeHFTemxDYjNGTE1IYxAB!2m1!1s0x3442ab8cfd861c45:0x17985ef75e6b5b2d"
+                        "publishTime":  "2025-11-29T11:40:09.258876145Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWTGNuZGpTVW8wVDJKWFFuWlVaM2hRY2tSak5uYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWTGNuZGpTVW8wVDJKWFFuWlVaM2hRY2tSak5uYxAB!2m1!1s0x3442ab8cfd861c45:0x17985ef75e6b5b2d"
                     },
                     {
-                        "name":  "places/ChIJRRyG_YyrQjQRLVtrXvdemBc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5allVMXFWbW90UVhkZk4yWTFiVEZYYkRGbFJrRRAB",
-                        "relativePublishTimeDescription":  "8 months ago",
+                        "name":  "places/ChIJRRyG_YyrQjQRLVtrXvdemBc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pod1QwRjNhMEpDYzJsaFUwY3dWMmRTWjFrNVRrRRAB",
+                        "relativePublishTimeDescription":  "3 個月前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "We had fun, and it’s a birthday blowout from our September babies friends. We love the ambiance since it is famous already as you can take pictures with taipei 101 from the hooters building. The foods I love is the white Pasta with mushroom, the chickens, not too with the baby back ribs since its dry and no sauce. But overall, the food is good, the view is nice, and entertainment is great. We were thankful that the rain falls heavy when we already got there anyways.",
-                                     "languageCode":  "en"
+                                     "text":  "現場服務人員精神飽滿、身材勻稱，看得出來相當自律與專業。餐點不僅擺盤用心，口感與風味也都有水準，讓人吃得滿足。搭配熱絡歡快的現場氣氛，無論是聚餐或朋友小聚，都能感受到輕鬆愉快的用餐體驗。",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "We had fun, and it’s a birthday blowout from our September babies friends. We love the ambiance since it is famous already as you can take pictures with taipei 101 from the hooters building. The foods I love is the white Pasta with mushroom, the chickens, not too with the baby back ribs since its dry and no sauce. But overall, the food is good, the view is nice, and entertainment is great. We were thankful that the rain falls heavy when we already got there anyways.",
-                                             "languageCode":  "en"
+                                             "text":  "現場服務人員精神飽滿、身材勻稱，看得出來相當自律與專業。餐點不僅擺盤用心，口感與風味也都有水準，讓人吃得滿足。搭配熱絡歡快的現場氣氛，無論是聚餐或朋友小聚，都能感受到輕鬆愉快的用餐體驗。",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "Jecel Calonia",
-                                                  "uri":  "https://www.google.com/maps/contrib/115302942033061629591/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWMH_BRB2J_EcGxVQsxNXn10OSn0Nfb3EAr7IWfTcPVpIpiPgyX=s128-c0x00000000-cc-rp-mo-ba3"
+                                                  "displayName":  "Happy",
+                                                  "uri":  "https://www.google.com/maps/contrib/111008916405808631861/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWK1W6Ho4OweJ2MEQbhVLSrjWlTkskbIR9rKNK_Yt6HhW-q_ciU8Q=s128-c0x00000000-cc-rp-mo-ba7"
                                               },
-                        "publishTime":  "2025-09-16T16:10:28.981161620Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5allVMXFWbW90UVhkZk4yWTFiVEZYYkRGbFJrRRAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5allVMXFWbW90UVhkZk4yWTFiVEZYYkRGbFJrRRAB!2m1!1s0x3442ab8cfd861c45:0x17985ef75e6b5b2d"
+                        "publishTime":  "2025-12-19T18:42:30.730964400Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pod1QwRjNhMEpDYzJsaFUwY3dWMmRTWjFrNVRrRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pod1QwRjNhMEpDYzJsaFUwY3dWMmRTWjFrNVRrRRAB!2m1!1s0x3442ab8cfd861c45:0x17985ef75e6b5b2d"
                     },
                     {
-                        "name":  "places/ChIJRRyG_YyrQjQRLVtrXvdemBc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toRE9IRTFTbFZmYzNSaVJFWnlRa3RTY1RWTk1tYxAB",
-                        "relativePublishTimeDescription":  "3 months ago",
-                        "rating":  5,
+                        "name":  "places/ChIJRRyG_YyrQjQRLVtrXvdemBc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCV00wWXlZWE5aVW1wd05sRjNibTR3TjNoU04zYxAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  4,
                         "text":  {
-                                     "text":  "Fun American sports-bar vibe with a lively atmosphere right in Xinyi District. The menu has classic Hooters favourites — wings, burgers, pasta, salads and more — and people like coming for the cold drinks, tasty food, and great views of Taipei 101 from the outdoor terrace at night. The service is friendly and it’s a good spot for casual hangouts or group dinners.",
-                                     "languageCode":  "en"
+                                     "text":  "本來想吃早午餐，到現場才發現早午餐是慶城店限定，想吃早午餐的人要注意一下❗️\n但來都來了，剛好遇到萬聖節裝潢，還是決定用餐\n\n水牛城拼盤的醬料過於死鹹，雞肉也偏柴，不推薦\n圈圈薯條吃起來很ㄙㄨㄚ、嘴，沒有提供醬料但灑上胡椒就好吃了\n煙燻鮭魚披薩是薄脆口感，配料還算豐富\n骰子牛的蒜頭比牛肉更驚豔\n當天最好吃的是鮮蝦義大利麵，不過份量偏少\n\n週日中午人潮不多，下午一點多忽然瞬間客滿，要用餐還是建議事先訂位！",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "Fun American sports-bar vibe with a lively atmosphere right in Xinyi District. The menu has classic Hooters favourites — wings, burgers, pasta, salads and more — and people like coming for the cold drinks, tasty food, and great views of Taipei 101 from the outdoor terrace at night. The service is friendly and it’s a good spot for casual hangouts or group dinners.",
-                                             "languageCode":  "en"
+                                             "text":  "本來想吃早午餐，到現場才發現早午餐是慶城店限定，想吃早午餐的人要注意一下❗️\n但來都來了，剛好遇到萬聖節裝潢，還是決定用餐\n\n水牛城拼盤的醬料過於死鹹，雞肉也偏柴，不推薦\n圈圈薯條吃起來很ㄙㄨㄚ、嘴，沒有提供醬料但灑上胡椒就好吃了\n煙燻鮭魚披薩是薄脆口感，配料還算豐富\n骰子牛的蒜頭比牛肉更驚豔\n當天最好吃的是鮮蝦義大利麵，不過份量偏少\n\n週日中午人潮不多，下午一點多忽然瞬間客滿，要用餐還是建議事先訂位！",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "Ladyz Buatong",
-                                                  "uri":  "https://www.google.com/maps/contrib/113462928398337694923/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVzUPv-RUpKVOUbAxgwRKQJqwQZe4hgbeah0_x__dmHGEocyNn7=s128-c0x00000000-cc-rp-mo-ba5"
+                                                  "displayName":  "陳亭臻",
+                                                  "uri":  "https://www.google.com/maps/contrib/103944798502776823416/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjU5q4fQM86DgM7IR0qSP9e5n_MU7Ge2b8vII4R8FdiuK4zbrxLZ=s128-c0x00000000-cc-rp-mo-ba7"
                                               },
-                        "publishTime":  "2026-02-07T03:13:38.070610302Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toRE9IRTFTbFZmYzNSaVJFWnlRa3RTY1RWTk1tYxAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toRE9IRTFTbFZmYzNSaVJFWnlRa3RTY1RWTk1tYxAB!2m1!1s0x3442ab8cfd861c45:0x17985ef75e6b5b2d"
+                        "publishTime":  "2025-10-26T23:52:49.565033072Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCV00wWXlZWE5aVW1wd05sRjNibTR3TjNoU04zYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCV00wWXlZWE5aVW1wd05sRjNibTR3TjNoU04zYxAB!2m1!1s0x3442ab8cfd861c45:0x17985ef75e6b5b2d"
                     },
                     {
-                        "name":  "places/ChIJRRyG_YyrQjQRLVtrXvdemBc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKVU1XZFZRMmRpVTJ4NGVFMTFNelpZZFhadE1rRRAB",
-                        "relativePublishTimeDescription":  "4 months ago",
+                        "name":  "places/ChIJRRyG_YyrQjQRLVtrXvdemBc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCTU5HUnhaM1ZQYVV4dk5rcGFRVVZFZWtWVWRFRRAB",
+                        "relativePublishTimeDescription":  "2 個月前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "Ordered pasta and pizza and it was great, was not a big fan of the fruit beverage I ordered. I politely asked if the server could take a photo of us with the Taipei 101, but she said she’ll get back since she was really busy. Hooters Xinyi Branch could really get busy and jampacked when its near dinner time plus it was a weekend. We made an advance reservation for a 4:30 pm timeslot via their website. Eventually she came back and have taken a photo of us, I really appreciate her time and effort to do so. Regarding the reserved tables we booked, it was really chilly outside and other customers are smoking. They accept credit cards. We left even before our time limit with enough memories of Taipei 101 to get by.",
-                                     "languageCode":  "en"
+                                     "text":  "餐點美味😋服務好，餐廳氣氛活潑👍🏻靠窗座位區可以看到101",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "Ordered pasta and pizza and it was great, was not a big fan of the fruit beverage I ordered. I politely asked if the server could take a photo of us with the Taipei 101, but she said she’ll get back since she was really busy. Hooters Xinyi Branch could really get busy and jampacked when its near dinner time plus it was a weekend. We made an advance reservation for a 4:30 pm timeslot via their website. Eventually she came back and have taken a photo of us, I really appreciate her time and effort to do so. Regarding the reserved tables we booked, it was really chilly outside and other customers are smoking. They accept credit cards. We left even before our time limit with enough memories of Taipei 101 to get by.",
-                                             "languageCode":  "en"
+                                             "text":  "餐點美味😋服務好，餐廳氣氛活潑👍🏻靠窗座位區可以看到101",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "Kyle Mitski",
-                                                  "uri":  "https://www.google.com/maps/contrib/108903453290347734263/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocKjCLm8djZIkM2KkWFbHrFz80heh5AFsQ63sMetmd4h7wOLQw=s128-c0x00000000-cc-rp-mo"
+                                                  "displayName":  "Penny Li",
+                                                  "uri":  "https://www.google.com/maps/contrib/105090709387899662911/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXfC7L_BTIFpd-N0Ykhc0Vmpij9zhVk4yuybw-t5DveexIzauLU=s128-c0x00000000-cc-rp-mo-ba5"
                                               },
-                        "publishTime":  "2026-01-28T02:02:49.742056321Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKVU1XZFZRMmRpVTJ4NGVFMTFNelpZZFhadE1rRRAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKVU1XZFZRMmRpVTJ4NGVFMTFNelpZZFhadE1rRRAB!2m1!1s0x3442ab8cfd861c45:0x17985ef75e6b5b2d"
+                        "publishTime":  "2026-01-13T17:17:33.969126620Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCTU5HUnhaM1ZQYVV4dk5rcGFRVVZFZWtWVWRFRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCTU5HUnhaM1ZQYVV4dk5rcGFRVVZFZWtWVWRFRRAB!2m1!1s0x3442ab8cfd861c45:0x17985ef75e6b5b2d"
                     },
                     {
-                        "name":  "places/ChIJRRyG_YyrQjQRLVtrXvdemBc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KbE0xbE1SMUpUVjJkRlRtVTFSa0p6YlRreU9IYxAB",
-                        "relativePublishTimeDescription":  "3 months ago",
+                        "name":  "places/ChIJRRyG_YyrQjQRLVtrXvdemBc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s0d1ZFTnlUM05sTVU4dFJrRnlObGM1YW1odGVtYxAB",
+                        "relativePublishTimeDescription":  "3 個月前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "The wings are outstanding. I don’t normally go for wings but I heard about them so had to try and I was not disappointed.\n\nI opted for the boneless and they were so juicy and big! The sauces went well, curry garlic, cheese and bbq. Thinking about it makes me want to go back.\n\nThe atmosphere was fun and the punters were friendly and talkative. The staff also tentative and spoke English well. It was an all round good time and the views are pretty nice too, with 101 right there.",
-                                     "languageCode":  "en"
+                                     "text":  "好開心、好歡樂的一晚 🙌🏼🙌🏼\n\n好多許久不見的學長姐、家人們，都來了\n\n大夥啤酒一直喝，邊運動、邊聊天 🍺🍺\n\n表演一場比一場精彩火辣！！🌶️🔥\n\n整晚都在微醺中歡笑度過，喉嚨也燒聲\n\n祝福大家 ～ 聖誕快樂、天天都喜樂\n\n期待下次的活動囉 😘😘",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "The wings are outstanding. I don’t normally go for wings but I heard about them so had to try and I was not disappointed.\n\nI opted for the boneless and they were so juicy and big! The sauces went well, curry garlic, cheese and bbq. Thinking about it makes me want to go back.\n\nThe atmosphere was fun and the punters were friendly and talkative. The staff also tentative and spoke English well. It was an all round good time and the views are pretty nice too, with 101 right there.",
-                                             "languageCode":  "en"
+                                             "text":  "好開心、好歡樂的一晚 🙌🏼🙌🏼\n\n好多許久不見的學長姐、家人們，都來了\n\n大夥啤酒一直喝，邊運動、邊聊天 🍺🍺\n\n表演一場比一場精彩火辣！！🌶️🔥\n\n整晚都在微醺中歡笑度過，喉嚨也燒聲\n\n祝福大家 ～ 聖誕快樂、天天都喜樂\n\n期待下次的活動囉 😘😘",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "E T",
-                                                  "uri":  "https://www.google.com/maps/contrib/103989892874171861176/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocKt1LPBIA_pYv-c4W8LKyzj_5ke9BNC8SiXlGbYOZtYYubPKw=s128-c0x00000000-cc-rp-mo-ba3"
+                                                  "displayName":  "George Wang",
+                                                  "uri":  "https://www.google.com/maps/contrib/114708733508630855002/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUF54MoG1b-gsQJI-U92tEUnQ_Rgu8GYBt8U3cLvmsjxFd-30BYVw=s128-c0x00000000-cc-rp-mo-ba5"
                                               },
-                        "publishTime":  "2026-02-20T03:45:24.435708044Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KbE0xbE1SMUpUVjJkRlRtVTFSa0p6YlRreU9IYxAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KbE0xbE1SMUpUVjJkRlRtVTFSa0p6YlRreU9IYxAB!2m1!1s0x3442ab8cfd861c45:0x17985ef75e6b5b2d"
+                        "publishTime":  "2025-12-15T07:46:32.156503055Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s0d1ZFTnlUM05sTVU4dFJrRnlObGM1YW1odGVtYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s0d1ZFTnlUM05sTVU4dFJrRnlObGM1YW1odGVtYxAB!2m1!1s0x3442ab8cfd861c45:0x17985ef75e6b5b2d"
                     }
-                ]
+                ],
+    "priceLevel":  "PRICE_LEVEL_EXPENSIVE"
 }

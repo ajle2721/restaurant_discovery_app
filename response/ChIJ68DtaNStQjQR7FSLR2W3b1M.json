@@ -8,7 +8,7 @@
                   "establishment"
               ],
     "internationalPhoneNumber":  "+886 2 8751 3306",
-    "formattedAddress":  "114, Taiwan, Taipei City, Neihu District, 內湖區 Zhouzi St, 74號1樓",
+    "formattedAddress":  "114台灣臺北市內湖區洲子街74號1樓",
     "location":  {
                      "latitude":  25.079262999999997,
                      "longitude":  121.571815
@@ -23,11 +23,11 @@
     "reviews":  [
                     {
                         "name":  "places/ChIJ68DtaNStQjQR7FSLR2W3b1M/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwVmNtOVplVnA0VW05aE1HaHVUMWhTU1dReGVXYxAB",
-                        "relativePublishTimeDescription":  "3 months ago",
+                        "relativePublishTimeDescription":  "3 個月前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "I dined at this private kitchen. The ingredients were fresh and delicious, and the service was impeccable! The chefs put a lot of thought into the plating! And because the location was a bit secluded, chatting with the chef was incredibly pleasant! I highly recommend dining here!",
-                                     "languageCode":  "en-US"
+                                     "text":  "我是來這邊的私廚用餐，食材新鮮好吃，服務非常的到位！廚師的擺盤都非常的用心！然後因為地點比較隱密一點聊天聊的真的是太舒心了！建議大家可以來這邊用餐！",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "我是來這邊的私廚用餐，食材新鮮好吃，服務非常的到位！廚師的擺盤都非常的用心！然後因為地點比較隱密一點聊天聊的真的是太舒心了！建議大家可以來這邊用餐！",
@@ -44,11 +44,11 @@
                     },
                     {
                         "name":  "places/ChIJ68DtaNStQjQR7FSLR2W3b1M/reviews/ChdDSUhNMG9nS0VJQ0FnTURROG9fYnlBRRAB",
-                        "relativePublishTimeDescription":  "a year ago",
+                        "relativePublishTimeDescription":  "1 年前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "They offer set meals and business lunches on weekdays, and their no-menu menu is highly recommended. The Japanese teppanyaki style combined with French techniques is a highlight. They currently have a spring set menu for NT$1680, which is a great deal for a no-menu menu. It includes American short ribs, tiger prawns, scallops, and more. The sauces and side dishes are also very well-made, making for a very satisfying meal.",
-                                     "languageCode":  "en-US"
+                                     "text":  "平日有供應定食也有商業午餐，特別推薦無菜單料理，日式鐵板燒結合法式手藝，目前有推出春季套餐，一套1680，以無菜單料理來說這價格很划算，能夠吃到美國牛小排、斑節海大蝦、干貝等，而且醬料還有配菜也都非常用心，整套吃下來非常飽足",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "平日有供應定食也有商業午餐，特別推薦無菜單料理，日式鐵板燒結合法式手藝，目前有推出春季套餐，一套1680，以無菜單料理來說這價格很划算，能夠吃到美國牛小排、斑節海大蝦、干貝等，而且醬料還有配菜也都非常用心，整套吃下來非常飽足",
@@ -65,7 +65,7 @@
                     },
                     {
                         "name":  "places/ChIJ68DtaNStQjQR7FSLR2W3b1M/reviews/ChZDSUhNMG9nS0VJQ0FnSURmMHNTMVRREAE",
-                        "relativePublishTimeDescription":  "a year ago",
+                        "relativePublishTimeDescription":  "1 年前",
                         "rating":  4,
                         "text":  {
                                      "text":  "無菜單1380\n當天還有送兩杯酒\n\n嚴格說起來\n還算好吃但是沒有特別的記憶點\n就是有種吃完了....\n分享普通\n\n嗯，沒了\n蠻可惜，菜色中規中矩\n但屬於不會特別回訪",
@@ -83,6 +83,48 @@
                         "publishTime":  "2025-01-05T06:16:04.458843Z",
                         "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmMHNTMVRREAE\u0026d=17924085\u0026t=1",
                         "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmMHNTMVRREAE!2m1!1s0x3442add468edc0eb:0x536fb765478b54ec"
+                    },
+                    {
+                        "name":  "places/ChIJ68DtaNStQjQR7FSLR2W3b1M/reviews/ChZDSUhNMG9nS0VJQ0FnSURuaVppUFhnEAE",
+                        "relativePublishTimeDescription":  "1 年前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "要稍微找一下，因為不在大路上而且招牌從側面看會被門旁的樹擋住。\n\n進門帶位後的麥茶熱熱的蠻好喝。點完餐後出了一個涼拌洋蔥，看起來類似招待或小菜。主菜烤雞定食大約過了十分鐘出餐，我11：45到是第一個客人，所以無法確定人多的時候是不是速度一樣。\n\n主餐部分雞肉的量低於預期不少，小菜的種類和份量算比較多。主餐吃完算飽，但定食的肉量少，對無肉不歡的我來說，吃飽後的滿足感少了一些。\n\n沒收服務費，還有幫忙倒茶和出餐，這方面不錯。環境上空間夠，擺飾也有獨特風格。\n\n整體來說主要是餐點不太合我的胃口，所以以再訪的機會不高",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "要稍微找一下，因為不在大路上而且招牌從側面看會被門旁的樹擋住。\n\n進門帶位後的麥茶熱熱的蠻好喝。點完餐後出了一個涼拌洋蔥，看起來類似招待或小菜。主菜烤雞定食大約過了十分鐘出餐，我11：45到是第一個客人，所以無法確定人多的時候是不是速度一樣。\n\n主餐部分雞肉的量低於預期不少，小菜的種類和份量算比較多。主餐吃完算飽，但定食的肉量少，對無肉不歡的我來說，吃飽後的滿足感少了一些。\n\n沒收服務費，還有幫忙倒茶和出餐，這方面不錯。環境上空間夠，擺飾也有獨特風格。\n\n整體來說主要是餐點不太合我的胃口，所以以再訪的機會不高",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Eric Lee",
+                                                  "uri":  "https://www.google.com/maps/contrib/114740827728466063499/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjX1NBUX82JL-Z-vTpXLmyINXqF932Z7RaZR4n_DQ_4hvtSkjaPY=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2024-10-07T05:00:11.429910Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURuaVppUFhnEAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURuaVppUFhnEAE!2m1!1s0x3442add468edc0eb:0x536fb765478b54ec"
+                    },
+                    {
+                        "name":  "places/ChIJ68DtaNStQjQR7FSLR2W3b1M/reviews/ChZDSUhNMG9nS0VJQ0FnSURmcmJiSWRBEAE",
+                        "relativePublishTimeDescription":  "1 年前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "平日供應咖哩定食、鐵板定食、下酒菜、鐵板料理，假日提供特色餐點，用餐不限時、不收服務費，預約制鐵板料理「肉食派對」像一場晚宴，西式、法式、日式料理三者的結合，從前菜開始就驚喜不斷，每道料理有不同的層次。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "平日供應咖哩定食、鐵板定食、下酒菜、鐵板料理，假日提供特色餐點，用餐不限時、不收服務費，預約制鐵板料理「肉食派對」像一場晚宴，西式、法式、日式料理三者的結合，從前菜開始就驚喜不斷，每道料理有不同的層次。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "ANiTa安妮塔",
+                                                  "uri":  "https://www.google.com/maps/contrib/109666396263081518805/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVvUNb6MJuSa95t-ilqM8YaZqYwnZXVMTCG0Iv6s2PpN71hXEFO=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-01-09T07:54:46.426026Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURmcmJiSWRBEAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURmcmJiSWRBEAE!2m1!1s0x3442add468edc0eb:0x536fb765478b54ec"
                     }
                 ]
 }

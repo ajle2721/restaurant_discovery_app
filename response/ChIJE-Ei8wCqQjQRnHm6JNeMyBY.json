@@ -7,7 +7,7 @@
                   "establishment"
               ],
     "internationalPhoneNumber":  "+886 2 8663 2231",
-    "formattedAddress":  "No. 31, Cheqian Rd, Jingxing Village, Wenshan District, Taipei City, Taiwan 116",
+    "formattedAddress":  "116台灣臺北市文山區景行里車前路31號",
     "location":  {
                      "latitude":  24.991228099999997,
                      "longitude":  121.54035069999999
@@ -21,11 +21,11 @@
     "reviews":  [
                     {
                         "name":  "places/ChIJE-Ei8wCqQjQRnHm6JNeMyBY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OQ05HVTBiRXBGVmxSblgzWlFhbHB0YUVscGRrRRAB",
-                        "relativePublishTimeDescription":  "6 months ago",
+                        "relativePublishTimeDescription":  "6 個月前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "It\u0027s a great brunch spot, especially the energy meals, which are super affordable. However, the beef in the beef burger is just average; I recommend the chicken dishes.",
-                                     "languageCode":  "en-US"
+                                     "text":  "是一個很棒的早午餐店，尤其是活力餐，超級划算。不過牛肉堡的牛肉比較普通，推薦雞肉類食物",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "是一個很棒的早午餐店，尤其是活力餐，超級划算。不過牛肉堡的牛肉比較普通，推薦雞肉類食物",
@@ -42,7 +42,7 @@
                     },
                     {
                         "name":  "places/ChIJE-Ei8wCqQjQRnHm6JNeMyBY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sU1ZreExTWGxwUWxGTFRYSnVXR1owTVVoa2VsRRAB",
-                        "relativePublishTimeDescription":  "4 months ago",
+                        "relativePublishTimeDescription":  "4 個月前",
                         "rating":  5,
                         "text":  {
                                      "text":  "2026/01 用餐\n溫沙拉 活力B餐 $115（含 紅茶或奶茶）",
@@ -63,11 +63,11 @@
                     },
                     {
                         "name":  "places/ChIJE-Ei8wCqQjQRnHm6JNeMyBY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOUmFraHZOek5ZVTBkQ1UzRk1TeTEwV2pOMWNVRRAB",
-                        "relativePublishTimeDescription":  "5 months ago",
+                        "relativePublishTimeDescription":  "5 個月前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "I\u0027ve eaten here many times, and I always leave feeling completely refreshed. The food is nutritious and relatively healthy. Aside from the semi-open space being a bit cold in winter, there are no downsides. I hope this kind-hearted restaurant stays in business for a long time! 😊👌",
-                                     "languageCode":  "en-US"
+                                     "text":  "吃過很多次了，每次都是充飽電離開店～營養豐富、口味較為健康，除了是半開放空間冬天比較冷外，沒有什麼缺點，希望良善的店家長長久久😊👌",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "吃過很多次了，每次都是充飽電離開店～營養豐富、口味較為健康，除了是半開放空間冬天比較冷外，沒有什麼缺點，希望良善的店家長長久久😊👌",
@@ -84,11 +84,11 @@
                     },
                     {
                         "name":  "places/ChIJE-Ei8wCqQjQRnHm6JNeMyBY/reviews/ChdDSUhNMG9nS0VJQ0FnTURvNVltWHRnRRAB",
-                        "relativePublishTimeDescription":  "a year ago",
+                        "relativePublishTimeDescription":  "1 年前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "There was only an outdoor seating area. Although it looked old, it was clean and tidy. The salad was generously portioned and the fresh milk tea was a huge cup, which was delicious. The teppanyaki noodles were made with white noodles and were plentiful. With the owner\u0027s chili soy sauce, the flavor was even more layered. I had a very satisfying breakfast.",
-                                     "languageCode":  "en-US"
+                                     "text":  "只有戶外座位区，雖然外觀舊舊的，卻乾乾淨淨，沙拉多料誠意十足，鮮奶茶超大杯，美美的好喝，鐵板麵是白麵的那種，份量足，加上老闆辣椒醬油，口味更有層次，早餐吃的心滿意足。",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "只有戶外座位区，雖然外觀舊舊的，卻乾乾淨淨，沙拉多料誠意十足，鮮奶茶超大杯，美美的好喝，鐵板麵是白麵的那種，份量足，加上老闆辣椒醬油，口味更有層次，早餐吃的心滿意足。",
@@ -102,6 +102,27 @@
                         "publishTime":  "2025-04-30T03:57:47.555150Z",
                         "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvNVltWHRnRRAB\u0026d=17924085\u0026t=1",
                         "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvNVltWHRnRRAB!2m1!1s0x3442aa00f322e113:0x16c88cd724ba799c"
+                    },
+                    {
+                        "name":  "places/ChIJE-Ei8wCqQjQRnHm6JNeMyBY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SdldGUmhjRVpvV0dwV1V6YzFaMjEzVm5GR01YYxAB",
+                        "relativePublishTimeDescription":  "8 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "別嫌這不起眼的小屋喔⋯\n老闆娘可真是佛心來著的\n捨得給客人吃，真的物超所值\n好吃又大碗吃到很撐～",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "別嫌這不起眼的小屋喔⋯\n老闆娘可真是佛心來著的\n捨得給客人吃，真的物超所值\n好吃又大碗吃到很撐～",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "宮保雞丁",
+                                                  "uri":  "https://www.google.com/maps/contrib/101087109349007317044/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUokujc2op449V-PCR4yiyTxIMu7XNhcKnlz0rThTeUs7gCjCIf=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-08-30T02:31:48.559565210Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SdldGUmhjRVpvV0dwV1V6YzFaMjEzVm5GR01YYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SdldGUmhjRVpvV0dwV1V6YzFaMjEzVm5GR01YYxAB!2m1!1s0x3442aa00f322e113:0x16c88cd724ba799c"
                     }
                 ]
 }

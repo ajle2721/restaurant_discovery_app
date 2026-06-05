@@ -3,46 +3,132 @@
     "types":  [
                   "coffee_shop",
                   "cafe",
-                  "food_store",
-                  "store",
-                  "food",
                   "point_of_interest",
+                  "food_store",
+                  "food",
+                  "store",
                   "establishment"
               ],
     "internationalPhoneNumber":  "+886 2 2898 5289",
-    "formattedAddress":  "No. 19號, Ligong St, Yide Village, Beitou District, Taipei City, Taiwan 112",
+    "formattedAddress":  "112台灣臺北市北投區一德里立功街19號",
     "location":  {
                      "latitude":  25.1247339,
                      "longitude":  121.4678512
                  },
     "rating":  4.3,
     "websiteUri":  "https://instagram.com/1996_coffee?igshid=YmMyMTA2M2Y=",
-    "userRatingCount":  297,
+    "userRatingCount":  295,
     "displayName":  {
                         "text":  "1996 COFFEE",
                         "languageCode":  "zh-TW"
                     },
     "reviews":  [
                     {
-                        "name":  "places/ChIJ4cQJ4KivQjQR1Tvuk-F3hxo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWVFRpMVZXRkp0T0dOMlZrcG5NSHB3UmpsUWRsRRAB",
-                        "relativePublishTimeDescription":  "9 months ago",
-                        "rating":  4,
+                        "name":  "places/ChIJ4cQJ4KivQjQR1Tvuk-F3hxo/reviews/Ci9DQUlRQUNvZENodHljRjlvT214NWRqSTRMV3c1WWpKUVMzaEVNbFpvY0hGTmFsRRAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  3,
                         "text":  {
-                                     "text":  "Getting more and more busy~ The food tastes great but unfortunately it\u0027s not very filling and the price is a bit high. The seating arrangement is clean and hip with outlets for most seats around the perimeter. My favorite part about working here is how fast the Wifi is! 260Down/200Up. More Taipei Cafes should have this speed haha",
-                                     "languageCode":  "en"
+                                     "text":  "空間還不錯、明亮寬敞，位置不是好坐、桌腳沒空間放腳，餐食新鮮但份量偏少（以這價位而已），咖啡普通、價偏高，服務也普通",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "Getting more and more busy~ The food tastes great but unfortunately it\u0027s not very filling and the price is a bit high. The seating arrangement is clean and hip with outlets for most seats around the perimeter. My favorite part about working here is how fast the Wifi is! 260Down/200Up. More Taipei Cafes should have this speed haha",
-                                             "languageCode":  "en"
+                                             "text":  "空間還不錯、明亮寬敞，位置不是好坐、桌腳沒空間放腳，餐食新鮮但份量偏少（以這價位而已），咖啡普通、價偏高，服務也普通",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "Anderson Wang",
-                                                  "uri":  "https://www.google.com/maps/contrib/110844160017469658779/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWCeLnNgG6e5B9oGRXNWbK2XgM7WtQeUVmUM0cVEXPkJdD-nIR2Aw=s128-c0x00000000-cc-rp-mo-ba3"
+                                                  "displayName":  "Jenny Cheng",
+                                                  "uri":  "https://www.google.com/maps/contrib/116334935831312092993/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjURAmCSsELj6BTnflJc_fb57ecqCi8oNk2Jbz2asy288LLG9xs=s128-c0x00000000-cc-rp-mo-ba5"
                                               },
-                        "publishTime":  "2025-08-29T09:01:20.909525691Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWVFRpMVZXRkp0T0dOMlZrcG5NSHB3UmpsUWRsRRAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWVFRpMVZXRkp0T0dOMlZrcG5NSHB3UmpsUWRsRRAB!2m1!1s0x3442afa8e009c4e1:0x1a8777e193ee3bd5"
+                        "publishTime":  "2025-12-21T12:38:04.603731636Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214NWRqSTRMV3c1WWpKUVMzaEVNbFpvY0hGTmFsRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214NWRqSTRMV3c1WWpKUVMzaEVNbFpvY0hGTmFsRRAB!2m1!1s0x3442afa8e009c4e1:0x1a8777e193ee3bd5"
+                    },
+                    {
+                        "name":  "places/ChIJ4cQJ4KivQjQR1Tvuk-F3hxo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xRNWQyVmtVMUF4VUV4QmFGTktNRUpuUmpNeVRsRRAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  3,
+                        "text":  {
+                                     "text":  "老實說餐點頂多中規中矩，可頌還行，司康很普（但果醬拿去搭優格不錯）\n店內環境跟氛圍都比餐點好",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "老實說餐點頂多中規中矩，可頌還行，司康很普（但果醬拿去搭優格不錯）\n店內環境跟氛圍都比餐點好",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Masaki",
+                                                  "uri":  "https://www.google.com/maps/contrib/107953713135358571909/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWYA0tEU2jzeVDDTmqAWNT48ABYeeEvuYNIJbAkO4HtPCWhTCZUJg=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2026-02-03T15:42:10.483518941Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xRNWQyVmtVMUF4VUV4QmFGTktNRUpuUmpNeVRsRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xRNWQyVmtVMUF4VUV4QmFGTktNRUpuUmpNeVRsRRAB!2m1!1s0x3442afa8e009c4e1:0x1a8777e193ee3bd5"
+                    },
+                    {
+                        "name":  "places/ChIJ4cQJ4KivQjQR1Tvuk-F3hxo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pRd1J6SkdNMmg1TWxKdFQyOURlVVY2ZEdNNFlYYxAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "假日一早，很舒服的用餐感覺，環境舒適乾淨整潔，這個醬料10分好吃，司康也很飽滿，看了一下午餐若有素食可選擇，就很完美",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "假日一早，很舒服的用餐感覺，環境舒適乾淨整潔，這個醬料10分好吃，司康也很飽滿，看了一下午餐若有素食可選擇，就很完美",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Mandy",
+                                                  "uri":  "https://www.google.com/maps/contrib/103331038689107268851/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVQ8Zc_-Patn92j-tAEfdH5Ltfx7wMIGHnNNSwDRL68GcR8Wvk=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-12-20T02:01:16.237352177Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pRd1J6SkdNMmg1TWxKdFQyOURlVVY2ZEdNNFlYYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pRd1J6SkdNMmg1TWxKdFQyOURlVVY2ZEdNNFlYYxAB!2m1!1s0x3442afa8e009c4e1:0x1a8777e193ee3bd5"
+                    },
+                    {
+                        "name":  "places/ChIJ4cQJ4KivQjQR1Tvuk-F3hxo/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GdlRtNDJkVVI2Y0VJelpUSkRkV3hFVmtNMFkzYxAB",
+                        "relativePublishTimeDescription":  "9 個月前",
+                        "rating":  3,
+                        "text":  {
+                                     "text":  "早午餐內容不多，價格偏高，不過因為不限時又有插座可用，這點算是加分。炒蛋品質不太一致，我的那份鹹到爆，朋友的卻正常，餐點穩定度需要改進。\n空間寬敞、冷氣超強，坐起來蠻舒服的。只是想吃飽的話大概不太可能，去旁邊的築間可能比較快。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "早午餐內容不多，價格偏高，不過因為不限時又有插座可用，這點算是加分。炒蛋品質不太一致，我的那份鹹到爆，朋友的卻正常，餐點穩定度需要改進。\n空間寬敞、冷氣超強，坐起來蠻舒服的。只是想吃飽的話大概不太可能，去旁邊的築間可能比較快。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Annie Law",
+                                                  "uri":  "https://www.google.com/maps/contrib/100848468504263326912/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXfGh-6fmfMaQUn5-Jqlx-qlcbZ0X2RIXXx0sj-eQyj3e5Vj5ng=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-08-10T11:25:01.669101009Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GdlRtNDJkVVI2Y0VJelpUSkRkV3hFVmtNMFkzYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GdlRtNDJkVVI2Y0VJelpUSkRkV3hFVmtNMFkzYxAB!2m1!1s0x3442afa8e009c4e1:0x1a8777e193ee3bd5"
+                    },
+                    {
+                        "name":  "places/ChIJ4cQJ4KivQjQR1Tvuk-F3hxo/reviews/ChZDSUhNMG9nS0VMQ0k5ZWIwMTlURmV3EAE",
+                        "relativePublishTimeDescription":  "11 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "就在關渡站旁邊，開車來前面也有大型停車場很方便，不過店內空間比預期來的小\n週末前往很多在這邊安靜工作或讀書的族群，因為有插座所以很適合用筆電\n但若是想聊天就會有點尷尬，咖啡部分倒是不錯，西西里味道剛好，不會苦澀但也不大杯，但餐點部分真的小份，食量大會吃不夠",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "就在關渡站旁邊，開車來前面也有大型停車場很方便，不過店內空間比預期來的小\n週末前往很多在這邊安靜工作或讀書的族群，因為有插座所以很適合用筆電\n但若是想聊天就會有點尷尬，咖啡部分倒是不錯，西西里味道剛好，不會苦澀但也不大杯，但餐點部分真的小份，食量大會吃不夠",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Hsin Y",
+                                                  "uri":  "https://www.google.com/maps/contrib/114759459931997788997/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVk2nrmZTSajCTZRrBT7sAkKx9aiQb-0X7KKPWkBfraggddKEYX=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2025-06-08T15:41:46.589385Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VMQ0k5ZWIwMTlURmV3EAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VMQ0k5ZWIwMTlURmV3EAE!2m1!1s0x3442afa8e009c4e1:0x1a8777e193ee3bd5"
                     }
-                ]
+                ],
+    "menuForChildren":  false,
+    "goodForChildren":  true
 }

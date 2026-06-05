@@ -5,107 +5,128 @@
                   "cafe",
                   "food_store",
                   "store",
-                  "food",
                   "point_of_interest",
+                  "food",
                   "establishment"
               ],
     "internationalPhoneNumber":  "+886 2 2747 6058",
-    "formattedAddress":  "105, Taiwan, Taipei City, Songshan District, Jixiang Village, Alley 52, Lane 245, Section 4, Bade Rd, 29號1樓",
+    "formattedAddress":  "105台灣臺北市松山區吉祥里八德路四段245巷52弄29號1樓",
     "location":  {
                      "latitude":  25.0503971,
                      "longitude":  121.56279079999999
                  },
     "rating":  4.8,
     "websiteUri":  "https://www.facebook.com/hecoffee.story/",
-    "userRatingCount":  411,
+    "userRatingCount":  410,
     "displayName":  {
                         "text":  "他。植物咖啡 He Coffee.",
                         "languageCode":  "zh-TW"
                     },
     "reviews":  [
                     {
-                        "name":  "places/ChIJE1clDY6rQjQR_X-uDUZ7DSA/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xdk5VMU1hekZOV0RGdk1GUkRUVmN3VFZkNk5sRRAB",
-                        "relativePublishTimeDescription":  "4 months ago",
+                        "name":  "places/ChIJE1clDY6rQjQR_X-uDUZ7DSA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwWllsUkdNSEEzTkdaM2FGZ3dWazFLUVhScFZWRRAB",
+                        "relativePublishTimeDescription":  "4 個月前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "I really loved the vibe of this place! It’s super cozy with all the plants and books everywhere, which makes it a great spot to just chill for a bit. I stuck to the coffee and it was solid, exactly what I needed.\n\nI didn\u0027t actually try any of the desserts myself this time, but my friends were obsessed with them (the cinnamon roll looked especially good). Also, a huge plus that it’s pet-friendly! I saw a few cute doggos while I was there. Definitely a nice, quiet neighborhood spot for hanging out with friends, working or studying.",
-                                     "languageCode":  "en"
+                                     "text":  "超級感人的寵物友善咖啡廳，老闆店員們都對狗狗們很好，很會跟狗狗互動，還有免費小餐點跟零食🤍🐾我家狗狗地域性強，平常很愛對店員叫😅在這邊完全不會，整個超愛店員葛格們🫶🏻要離開時還不願意走出店，出店之後還一直要跑回來🤣\n\n這次點了西西里咖啡跟腿排三明治，連餐點都超好吃份量又充足！必須一訪再訪！🥰",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "I really loved the vibe of this place! It’s super cozy with all the plants and books everywhere, which makes it a great spot to just chill for a bit. I stuck to the coffee and it was solid, exactly what I needed.\n\nI didn\u0027t actually try any of the desserts myself this time, but my friends were obsessed with them (the cinnamon roll looked especially good). Also, a huge plus that it’s pet-friendly! I saw a few cute doggos while I was there. Definitely a nice, quiet neighborhood spot for hanging out with friends, working or studying.",
-                                             "languageCode":  "en"
+                                             "text":  "超級感人的寵物友善咖啡廳，老闆店員們都對狗狗們很好，很會跟狗狗互動，還有免費小餐點跟零食🤍🐾我家狗狗地域性強，平常很愛對店員叫😅在這邊完全不會，整個超愛店員葛格們🫶🏻要離開時還不願意走出店，出店之後還一直要跑回來🤣\n\n這次點了西西里咖啡跟腿排三明治，連餐點都超好吃份量又充足！必須一訪再訪！🥰",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "Chen E.",
-                                                  "uri":  "https://www.google.com/maps/contrib/106694478261765987480/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjU8CbM732kkyUz56PO_bgz921bUHYeJ-W5wBcLa5aTXTxzUQXc=s128-c0x00000000-cc-rp-mo-ba6"
+                                                  "displayName":  "Chen Esther",
+                                                  "uri":  "https://www.google.com/maps/contrib/101742411910304300620/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVTJn92oasUS96lJGGTBNiAcLmULHgjSQDZgfgpPntPDdHBYEU=s128-c0x00000000-cc-rp-mo-ba4"
                                               },
-                        "publishTime":  "2026-01-24T05:14:53.488350508Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xdk5VMU1hekZOV0RGdk1GUkRUVmN3VFZkNk5sRRAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xdk5VMU1hekZOV0RGdk1GUkRUVmN3VFZkNk5sRRAB!2m1!1s0x3442ab8e0d255713:0x200d7b460dae7ffd"
+                        "publishTime":  "2026-01-12T04:41:10.697944574Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwWllsUkdNSEEzTkdaM2FGZ3dWazFLUVhScFZWRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwWllsUkdNSEEzTkdaM2FGZ3dWazFLUVhScFZWRRAB!2m1!1s0x3442ab8e0d255713:0x200d7b460dae7ffd"
                     },
                     {
-                        "name":  "places/ChIJE1clDY6rQjQR_X-uDUZ7DSA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCMlFsOWFWMVkwZDBOd01WUlZibW8wV21wMlJuYxAB",
-                        "relativePublishTimeDescription":  "3 months ago",
-                        "rating":  5,
+                        "name":  "places/ChIJE1clDY6rQjQR_X-uDUZ7DSA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wa1NWWlZYMjl4VFRKbFVEbGFiVEJ3T0Rac1kxRRAB",
+                        "relativePublishTimeDescription":  "6 個月前",
+                        "rating":  4,
                         "text":  {
-                                     "text":  "The best place for you and your dogs to relax and have coffee and snack. When you order coffee, your dog will also receive free dog cookies as well. Staff are super friendly, even towards your dog. Highly recommended~",
-                                     "languageCode":  "en"
+                                     "text":  "如果看著地址要來找這家咖啡館，還沒出發就已「頭大」了，其實看他的位置找起來比較快，他店外路口是光復北路11巷與吉祥路交口，朝東入巷5公尺，左邊一家門口全是植物的「低調」咖啡館，說「低調」是因招牌很小，但他有滿是植物的特色，所以客人還不少。\n點了「雞排生菜沙拉」=190元+美式咖啡=140元，又因套餐優惠20元= ++-=310元可刷信用卡。\n這咖啡舘因有很多的植物裝飾，格調清幽高雅，原本是個靜謐品嚐咖啡，吃個簡餐的好地方，但因可𢹂竉物入店，就有點難以「控制」了，貓還好！狗會旺！旺！幾聲就破壞了氣氛的美好，可惜！\n年輕老闆顯然很用心經營，訂了滿滿一篇「店規」，但狗吠起來，別說老闆，主人都管不住。\n整體而言是一間隱密而且不錯的咖啡館，食物、咖啡都「不錯吃」。",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "The best place for you and your dogs to relax and have coffee and snack. When you order coffee, your dog will also receive free dog cookies as well. Staff are super friendly, even towards your dog. Highly recommended~",
-                                             "languageCode":  "en"
+                                             "text":  "如果看著地址要來找這家咖啡館，還沒出發就已「頭大」了，其實看他的位置找起來比較快，他店外路口是光復北路11巷與吉祥路交口，朝東入巷5公尺，左邊一家門口全是植物的「低調」咖啡館，說「低調」是因招牌很小，但他有滿是植物的特色，所以客人還不少。\n點了「雞排生菜沙拉」=190元+美式咖啡=140元，又因套餐優惠20元= ++-=310元可刷信用卡。\n這咖啡舘因有很多的植物裝飾，格調清幽高雅，原本是個靜謐品嚐咖啡，吃個簡餐的好地方，但因可𢹂竉物入店，就有點難以「控制」了，貓還好！狗會旺！旺！幾聲就破壞了氣氛的美好，可惜！\n年輕老闆顯然很用心經營，訂了滿滿一篇「店規」，但狗吠起來，別說老闆，主人都管不住。\n整體而言是一間隱密而且不錯的咖啡館，食物、咖啡都「不錯吃」。",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "Andrew Reviewer",
-                                                  "uri":  "https://www.google.com/maps/contrib/102987060590040111444/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocJ_Zlz_jb1bX5E-4rJzwMPbaFcI7aDhF0eGTTk1SuZPqe5-=s128-c0x00000000-cc-rp-mo-ba4"
+                                                  "displayName":  "KING (第10級在地嚮導)",
+                                                  "uri":  "https://www.google.com/maps/contrib/109750155652914128045/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocKtnNaC96pwKQ4ttcOAEx_lXrfkHJAzM2jYWMeiMxH_m3evWw=s128-c0x00000000-cc-rp-mo-ba8"
                                               },
-                        "publishTime":  "2026-02-05T09:07:40.833318640Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCMlFsOWFWMVkwZDBOd01WUlZibW8wV21wMlJuYxAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCMlFsOWFWMVkwZDBOd01WUlZibW8wV21wMlJuYxAB!2m1!1s0x3442ab8e0d255713:0x200d7b460dae7ffd"
+                        "publishTime":  "2025-10-29T18:38:40.211962442Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wa1NWWlZYMjl4VFRKbFVEbGFiVEJ3T0Rac1kxRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wa1NWWlZYMjl4VFRKbFVEbGFiVEJ3T0Rac1kxRRAB!2m1!1s0x3442ab8e0d255713:0x200d7b460dae7ffd"
                     },
                     {
-                        "name":  "places/ChIJE1clDY6rQjQR_X-uDUZ7DSA/reviews/ChZDSUhNMG9nS0VJQ0FnSUNIdTV6SkdBEAE",
-                        "relativePublishTimeDescription":  "a year ago",
+                        "name":  "places/ChIJE1clDY6rQjQR_X-uDUZ7DSA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWRlYxSk5kVnBUUW01aU5ucDBNRUo0TmsxRE4yYxAB",
+                        "relativePublishTimeDescription":  "2 個月前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "Glad I happened upon this little oasis off the busy street. This coffee shop is decked out with plants, very well lit, and quiet. Makes for a great spot to chill and read on a hot afternoon. The scone here is pretty good!\n\nThey’re also pet friendly (saw a super cute and well behaved pup when I was there).",
-                                     "languageCode":  "en"
+                                     "text":  "週三 下午3點 與朋友小聚 店內空間寬敞明亮\n\nFlat White : ⭐️⭐️⭐️⭐️⭐️ 微酸順口\n\n植物遍滿整個空間是一大特色 很療癒 😊",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "Glad I happened upon this little oasis off the busy street. This coffee shop is decked out with plants, very well lit, and quiet. Makes for a great spot to chill and read on a hot afternoon. The scone here is pretty good!\n\nThey’re also pet friendly (saw a super cute and well behaved pup when I was there).",
-                                             "languageCode":  "en"
+                                             "text":  "週三 下午3點 與朋友小聚 店內空間寬敞明亮\n\nFlat White : ⭐️⭐️⭐️⭐️⭐️ 微酸順口\n\n植物遍滿整個空間是一大特色 很療癒 😊",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "Charlie Shay",
-                                                  "uri":  "https://www.google.com/maps/contrib/116218922709794678656/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVuPhB6hd0f_KgyiKlyeAv5IXnuY0DuDgwUyLLJYwxA2fPuBzPpOg=s128-c0x00000000-cc-rp-mo-ba6"
+                                                  "displayName":  "Tu Shane",
+                                                  "uri":  "https://www.google.com/maps/contrib/105057861924326668695/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWADnxjrWytbAqQlcABFfhTSXEJ8xotMS_drZSziPMDHMLTCZ-k=s128-c0x00000000-cc-rp-mo-ba4"
                                               },
-                        "publishTime":  "2024-09-09T09:46:58.797225Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNIdTV6SkdBEAE\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNIdTV6SkdBEAE!2m1!1s0x3442ab8e0d255713:0x200d7b460dae7ffd"
+                        "publishTime":  "2026-03-04T09:44:14.455612256Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWRlYxSk5kVnBUUW01aU5ucDBNRUo0TmsxRE4yYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWRlYxSk5kVnBUUW01aU5ucDBNRUo0TmsxRE4yYxAB!2m1!1s0x3442ab8e0d255713:0x200d7b460dae7ffd"
                     },
                     {
-                        "name":  "places/ChIJE1clDY6rQjQR_X-uDUZ7DSA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SQmJraFdOeTFpVVRSeWQzcEVWVE5JWTBsdU9IYxAB",
-                        "relativePublishTimeDescription":  "4 months ago",
-                        "rating":  5,
+                        "name":  "places/ChIJE1clDY6rQjQR_X-uDUZ7DSA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wNk1VRTFlSEZsTVU5UlVXdDFlREp6WDFwUWVGRRAB",
+                        "relativePublishTimeDescription":  "6 個月前",
+                        "rating":  4,
                         "text":  {
-                                     "text":  "i love this cafe. it’s reaaally good for working. the coffee is nice too",
-                                     "languageCode":  "en"
+                                     "text":  "跟好友一月一聚的汗蒸幕、結束後隨筆找了間附近的咖啡廳、意外的近、食物新鮮好吃、又沒有中文休息時間限制、挺舒服的一個植物園咖啡廳。\n\n雞排三明治的雞排鮮嫩多汁鹹淡適中、生菜新鮮水嫩彈翠、真心推薦！一般對這種咖啡廳的食物、保持著能吃的態度、沒想到這間意外的讓我驚艷到！煙燻鮭魚沙拉、雖然份量不多、但是食材新鮮、太讚了👍\n\n唯一就是餐食的選擇不多、下次有機會再試試看其他餐點。",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "i love this cafe. it’s reaaally good for working. the coffee is nice too",
-                                             "languageCode":  "en"
+                                             "text":  "跟好友一月一聚的汗蒸幕、結束後隨筆找了間附近的咖啡廳、意外的近、食物新鮮好吃、又沒有中文休息時間限制、挺舒服的一個植物園咖啡廳。\n\n雞排三明治的雞排鮮嫩多汁鹹淡適中、生菜新鮮水嫩彈翠、真心推薦！一般對這種咖啡廳的食物、保持著能吃的態度、沒想到這間意外的讓我驚艷到！煙燻鮭魚沙拉、雖然份量不多、但是食材新鮮、太讚了👍\n\n唯一就是餐食的選擇不多、下次有機會再試試看其他餐點。",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "Elhana Sugiaman",
-                                                  "uri":  "https://www.google.com/maps/contrib/117565917282419772723/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXPMV0zEsfMFynIsyspHe9QSMClhhLWwSFpul0lkbxRrzkglehu=s128-c0x00000000-cc-rp-mo-ba3"
+                                                  "displayName":  "CC 洪 (機車洪)",
+                                                  "uri":  "https://www.google.com/maps/contrib/106338952157693674408/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWigfhVgiBHyzQ9XEz_4qa7wIjokUQ0KnD5l_WYAaInxTKOwzI=s128-c0x00000000-cc-rp-mo-ba6"
                                               },
-                        "publishTime":  "2026-01-12T13:52:50.529999639Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SQmJraFdOeTFpVVRSeWQzcEVWVE5JWTBsdU9IYxAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SQmJraFdOeTFpVVRSeWQzcEVWVE5JWTBsdU9IYxAB!2m1!1s0x3442ab8e0d255713:0x200d7b460dae7ffd"
+                        "publishTime":  "2025-11-08T07:53:04.097462585Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wNk1VRTFlSEZsTVU5UlVXdDFlREp6WDFwUWVGRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wNk1VRTFlSEZsTVU5UlVXdDFlREp6WDFwUWVGRRAB!2m1!1s0x3442ab8e0d255713:0x200d7b460dae7ffd"
+                    },
+                    {
+                        "name":  "places/ChIJE1clDY6rQjQR_X-uDUZ7DSA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tJMloweFBTMDVmVUdSaWVqWmFZamxTUjFWTGJsRRAB",
+                        "relativePublishTimeDescription":  "6 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "久沒碰面的知己，這次選訂了他。植物咖啡 He Coffee來聚餐～\n\n🏡環境部份：一走進去感覺很像進到溫室植物園，感覺很舒適，裡面服務生都很貼心又漫活，真的對於忙碌了一週的上班族，有輔慰到身心靈(備註：讓人放鬆又可以盡興的暢談)💯💯💯。\n\n🥗餐點部分：我是個視覺系的人，一開始看到才菜單我覺得應該都和其他早午餐差不多，就點了炒菇沙拉🥗、雞腿排沙拉🥙、蔥燒雞飯🐔和紅燒牛腩飯🍛……認真說他們餐點真的蠻用心的，真的很值得自己去品嚐看看🥰。\n\n💖整體部份：對寵物很友善，還幫他們準備餐點，用餐時間也不會有催促感，餐點健康又不失美味，服務員時時貼心又用心待人，真心不想推薦給其他人(備註：因為我怕下次去我要等😝😝😝)",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "久沒碰面的知己，這次選訂了他。植物咖啡 He Coffee來聚餐～\n\n🏡環境部份：一走進去感覺很像進到溫室植物園，感覺很舒適，裡面服務生都很貼心又漫活，真的對於忙碌了一週的上班族，有輔慰到身心靈(備註：讓人放鬆又可以盡興的暢談)💯💯💯。\n\n🥗餐點部分：我是個視覺系的人，一開始看到才菜單我覺得應該都和其他早午餐差不多，就點了炒菇沙拉🥗、雞腿排沙拉🥙、蔥燒雞飯🐔和紅燒牛腩飯🍛……認真說他們餐點真的蠻用心的，真的很值得自己去品嚐看看🥰。\n\n💖整體部份：對寵物很友善，還幫他們準備餐點，用餐時間也不會有催促感，餐點健康又不失美味，服務員時時貼心又用心待人，真心不想推薦給其他人(備註：因為我怕下次去我要等😝😝😝)",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "J Zhu Huang",
+                                                  "uri":  "https://www.google.com/maps/contrib/110986098888728627696/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVUVUhWxYBjfmOIuegk5TEEqbKnXuPRVyEnLnRzTSGBwWLzxZPP=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-11-11T09:20:32.628644914Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tJMloweFBTMDVmVUdSaWVqWmFZamxTUjFWTGJsRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tJMloweFBTMDVmVUdSaWVqWmFZamxTUjFWTGJsRRAB!2m1!1s0x3442ab8e0d255713:0x200d7b460dae7ffd"
                     }
                 ]
 }

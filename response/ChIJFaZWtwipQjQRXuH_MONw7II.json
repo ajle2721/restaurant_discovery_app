@@ -9,123 +9,127 @@
                   "establishment"
               ],
     "internationalPhoneNumber":  "+886 908 198 398",
-    "formattedAddress":  "108, Taiwan, Taipei City, Wanhua District, Wanshou Village, Section 2, Wuchang St, 37號6樓",
+    "formattedAddress":  "108台灣臺北市萬華區萬壽里武昌街二段37號6樓",
     "location":  {
                      "latitude":  25.0446517,
                      "longitude":  121.5076793
                  },
     "rating":  4.5,
     "websiteUri":  "https://instagram.com/meatup_tw?igshid=12on6hk6kdi40",
-    "userRatingCount":  10661,
+    "userRatingCount":  10658,
     "displayName":  {
-                        "text":  "Meat Up",
-                        "languageCode":  "en"
+                        "text":  "Meat Up 覓晌 台北西門店",
+                        "languageCode":  "zh-TW"
                     },
+    "editorialSummary":  {
+                             "text":  "Colorful restaurant serving classic American comfort foods, plus whimsical desserts \u0026 milkshakes.",
+                             "languageCode":  "en"
+                         },
     "reviews":  [
                     {
-                        "name":  "places/ChIJFaZWtwipQjQRXuH_MONw7II/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1SE1WUk1VSGRNY1ZGWVlVWlJka1pyVUdSaVIwRRAB",
-                        "relativePublishTimeDescription":  "6 months ago",
+                        "name":  "places/ChIJFaZWtwipQjQRXuH_MONw7II/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGalNIWTBlRWMxY21ocVZYSnFWWEI2YW1kVWRVRRAB",
+                        "relativePublishTimeDescription":  "2 個月前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "Food was amazing, love the corn soup with truffle. Salad was nice especially the saus with it. Pasta tasted good as well. For sure recommended and I will be back to try other items on the menu.",
-                                     "languageCode":  "en"
+                                     "text":  "有預約就可以很快入座，不過看來也是滿座，建議一定要預約\n幫朋友慶祝吃飯，飲料跟甜品都很漂亮！\n那個綿花糖樹好漂亮又好吃\n手機點餐還可以選擇按是不是有人生日給生日牌，i型人也不怕\n所以超級貼心，可能女生去的比較多，有提供衛生綿，牙線，漱口水，第一次看到提供這麼全面的地方",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "Food was amazing, love the corn soup with truffle. Salad was nice especially the saus with it. Pasta tasted good as well. For sure recommended and I will be back to try other items on the menu.",
-                                             "languageCode":  "en"
+                                             "text":  "有預約就可以很快入座，不過看來也是滿座，建議一定要預約\n幫朋友慶祝吃飯，飲料跟甜品都很漂亮！\n那個綿花糖樹好漂亮又好吃\n手機點餐還可以選擇按是不是有人生日給生日牌，i型人也不怕\n所以超級貼心，可能女生去的比較多，有提供衛生綿，牙線，漱口水，第一次看到提供這麼全面的地方",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "Y.H Cheung",
-                                                  "uri":  "https://www.google.com/maps/contrib/105822178910825617563/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocLQGFn7SFfoDvrcH98p1k1vunhqLhAyaCpUfecBYhj4MUhNcA=s128-c0x00000000-cc-rp-mo-ba4"
+                                                  "displayName":  "Kammy Wong",
+                                                  "uri":  "https://www.google.com/maps/contrib/110799975030503769830/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVgqGVv3qN3BOisUHFcdByPasf6ZyIgMPD2oZKou-2A9dZhUMMBhQ=s128-c0x00000000-cc-rp-mo-ba3"
                                               },
-                        "publishTime":  "2025-11-27T21:09:43.383237183Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1SE1WUk1VSGRNY1ZGWVlVWlJka1pyVUdSaVIwRRAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1SE1WUk1VSGRNY1ZGWVlVWlJka1pyVUdSaVIwRRAB!2m1!1s0x3442a908b756a615:0x82ec70e330ffe15e"
+                        "publishTime":  "2026-03-06T17:48:03.999625130Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGalNIWTBlRWMxY21ocVZYSnFWWEI2YW1kVWRVRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGalNIWTBlRWMxY21ocVZYSnFWWEI2YW1kVWRVRRAB!2m1!1s0x3442a908b756a615:0x82ec70e330ffe15e"
                     },
                     {
-                        "name":  "places/ChIJFaZWtwipQjQRXuH_MONw7II/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkT1UwOTFVMGRyVnpVd1JHUXRkMUJhUm10bU1rRRAB",
-                        "relativePublishTimeDescription":  "3 months ago",
-                        "rating":  5,
+                        "name":  "places/ChIJFaZWtwipQjQRXuH_MONw7II/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xRMVZrcE1iVlZ6YXpabGFrMHdYemxpT0cxQ1kwRRAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  4,
                         "text":  {
-                                     "text":  "The food was good, ordered the steak mushroom pasta and grilled squid salted egg yolk pasta. Portion sizes were big, American sized.",
-                                     "languageCode":  "en"
+                                     "text":  "用餐日期：2026/02/05\n男同事請男性客戶到此用餐，整間店都是少女心的粉紅色也真的都坐滿少女\n\n義大利麵味道不錯，甜點拍照起來好看，但有甜點不耐症的我，無法評論甜點的部分",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "The food was good, ordered the steak mushroom pasta and grilled squid salted egg yolk pasta. Portion sizes were big, American sized.",
-                                             "languageCode":  "en"
+                                             "text":  "用餐日期：2026/02/05\n男同事請男性客戶到此用餐，整間店都是少女心的粉紅色也真的都坐滿少女\n\n義大利麵味道不錯，甜點拍照起來好看，但有甜點不耐症的我，無法評論甜點的部分",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "Augustine Kuah",
-                                                  "uri":  "https://www.google.com/maps/contrib/113836652686040461491/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVIQ1-aHPpL8wG9jSEfjzvPHml6sa08oLSOEgVZZxgqjCgSMfMp=s128-c0x00000000-cc-rp-mo-ba3"
+                                                  "displayName":  "Annie Chiu",
+                                                  "uri":  "https://www.google.com/maps/contrib/112048272737326689470/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWjHO0M8WEE9jUKBCrDOakkzXeZADk-z9KdY5c19X34MWdYR73iEw=s128-c0x00000000-cc-rp-mo-ba7"
                                               },
-                        "publishTime":  "2026-02-26T10:59:28.646493935Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkT1UwOTFVMGRyVnpVd1JHUXRkMUJhUm10bU1rRRAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkT1UwOTFVMGRyVnpVd1JHUXRkMUJhUm10bU1rRRAB!2m1!1s0x3442a908b756a615:0x82ec70e330ffe15e"
+                        "publishTime":  "2026-02-22T04:40:19.906767536Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xRMVZrcE1iVlZ6YXpabGFrMHdYemxpT0cxQ1kwRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xRMVZrcE1iVlZ6YXpabGFrMHdYemxpT0cxQ1kwRRAB!2m1!1s0x3442a908b756a615:0x82ec70e330ffe15e"
                     },
                     {
-                        "name":  "places/ChIJFaZWtwipQjQRXuH_MONw7II/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxRGRUUklVMXAyTjBwd1RsWk9TRkZrWld0T2QzYxAB",
-                        "relativePublishTimeDescription":  "10 months ago",
-                        "rating":  5,
-                        "text":  {
-                                     "text":  "They brought personality and playfulness to the American-inspired comfort foods with a Taiwanese flair. The ambiance was casual yet colorful, with red accents and playful decor that fitted the Ximending area. The Grilled Squid \u0026 Pasta was beautifully grilled, tender with a light char that added depth. Paired with a creamy yellow sauce pasta, the dish was surprisingly balanced. The Onion Rings were golden, crunchy, and seasoned just right. The batter wasn’t overly greasy, and the onion inside remained sweet and intact. The Steak with Double Sauce Pasta was a highlight. Juicy, thick-cut steak slices rested on a bed of pasta covered in two distinct sauces — a creamy cheese and vibrant green pesto. The sauces were generous and flavorful, providing a luxurious mouthfeel with every bite😍",
-                                     "languageCode":  "en"
-                                 },
-                        "originalText":  {
-                                             "text":  "They brought personality and playfulness to the American-inspired comfort foods with a Taiwanese flair. The ambiance was casual yet colorful, with red accents and playful decor that fitted the Ximending area. The Grilled Squid \u0026 Pasta was beautifully grilled, tender with a light char that added depth. Paired with a creamy yellow sauce pasta, the dish was surprisingly balanced. The Onion Rings were golden, crunchy, and seasoned just right. The batter wasn’t overly greasy, and the onion inside remained sweet and intact. The Steak with Double Sauce Pasta was a highlight. Juicy, thick-cut steak slices rested on a bed of pasta covered in two distinct sauces — a creamy cheese and vibrant green pesto. The sauces were generous and flavorful, providing a luxurious mouthfeel with every bite😍",
-                                             "languageCode":  "en"
-                                         },
-                        "authorAttribution":  {
-                                                  "displayName":  "Yasu やす",
-                                                  "uri":  "https://www.google.com/maps/contrib/116271991424861906577/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVUfaUL5PHPIMO7Sqjq-R7cgRVAnIDEljrZmJ0-LKVRHYvtYKU=s128-c0x00000000-cc-rp-mo-ba7"
-                                              },
-                        "publishTime":  "2025-08-01T10:44:15.430044460Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxRGRUUklVMXAyTjBwd1RsWk9TRkZrWld0T2QzYxAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxRGRUUklVMXAyTjBwd1RsWk9TRkZrWld0T2QzYxAB!2m1!1s0x3442a908b756a615:0x82ec70e330ffe15e"
-                    },
-                    {
-                        "name":  "places/ChIJFaZWtwipQjQRXuH_MONw7II/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWNlZVa3dlSFJaWTNWR1FURk5OM05SY1dGeFIwRRAB",
-                        "relativePublishTimeDescription":  "11 months ago",
-                        "rating":  2,
-                        "text":  {
-                                     "text":  "Came for the smoothies, but left disappointed.\n\nI stopped by after seeing some great photos online, and while the smoothies themselves lived up to the hype — tasty with excellent presentation — the customer service left a lot to be desired.\n\nFrom the start, the woman taking our order was noticeably unfriendly and unwelcoming. What really soured the experience was her insisting that everyone at our table had to order something, even though we weren’t occupying any extra space and some of us simply didn’t want anything. After some back and forth, they finally allowed us to order just what we wanted.\n\nThen came the bill — a mandatory 10% tip was added without warning. When I asked about it, the manager gave a dismissive explanation, saying it’s because they’re “a trending restaurant” and that “everyone does it.” They refused to remove the charge, and with no time to argue further, I reluctantly paid.\n\nBetween the poor service and the forced gratuity, I won’t be returning. Definitely not worth the hype.",
-                                     "languageCode":  "en"
-                                 },
-                        "originalText":  {
-                                             "text":  "Came for the smoothies, but left disappointed.\n\nI stopped by after seeing some great photos online, and while the smoothies themselves lived up to the hype — tasty with excellent presentation — the customer service left a lot to be desired.\n\nFrom the start, the woman taking our order was noticeably unfriendly and unwelcoming. What really soured the experience was her insisting that everyone at our table had to order something, even though we weren’t occupying any extra space and some of us simply didn’t want anything. After some back and forth, they finally allowed us to order just what we wanted.\n\nThen came the bill — a mandatory 10% tip was added without warning. When I asked about it, the manager gave a dismissive explanation, saying it’s because they’re “a trending restaurant” and that “everyone does it.” They refused to remove the charge, and with no time to argue further, I reluctantly paid.\n\nBetween the poor service and the forced gratuity, I won’t be returning. Definitely not worth the hype.",
-                                             "languageCode":  "en"
-                                         },
-                        "authorAttribution":  {
-                                                  "displayName":  "Anthony S",
-                                                  "uri":  "https://www.google.com/maps/contrib/115432441219834159707/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWN2za1Fuy7gZC99bjmdmHwXyr18s7Trl-qb8XiYv6u8XbeifU=s128-c0x00000000-cc-rp-mo-ba8"
-                                              },
-                        "publishTime":  "2025-07-05T10:44:56.992924560Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWNlZVa3dlSFJaWTNWR1FURk5OM05SY1dGeFIwRRAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWNlZVa3dlSFJaWTNWR1FURk5OM05SY1dGeFIwRRAB!2m1!1s0x3442a908b756a615:0x82ec70e330ffe15e"
-                    },
-                    {
-                        "name":  "places/ChIJFaZWtwipQjQRXuH_MONw7II/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOMGFEVnZXbDgyZEdOSmVrWXlZVkl5VW5WcGRHYxAB",
-                        "relativePublishTimeDescription":  "8 months ago",
+                        "name":  "places/ChIJFaZWtwipQjQRXuH_MONw7II/reviews/Ci9DQUlRQUNvZENodHljRjlvT20wdE1UaHBjVXB2VlVOSGMwZHVjREJsVlhsVlMwRRAB",
+                        "relativePublishTimeDescription":  "6 個月前",
                         "rating":  3,
                         "text":  {
-                                     "text":  "Food rather expensive. We were there following certain pamphlet from the visitor center. A so so experience. Portion of food was ok. Taste normal and average. Steak tender but not medium rare. Not much to talk about the egg, fries and croissant, normal not impressive. Now the soufflé pancake with bacon, it was rather difficult to eat.  The pancake was soft and tasted good, the issue was the bacons were tough for the knife to cut, and they were long! So the dish fell apart and making it very messy to eat, which we didn’t enjoy. It was like eating from a mushy pile of creamy stuff. Atmosphere was relaxing. Service just ok with the waiters, very good with the cook who took the pancake dish to us personally. It was an expensive brunch experience.",
-                                     "languageCode":  "en"
+                                     "text":  "2025.11.03\n浮誇的餐點與裝潢，走一個粉紅泡泡跟復古風，看到草莓甜點特別來吃平日的晚餐！\n\n點了雙人套餐份量還算蠻多的，味道算是有點普通，拍照蠻好拍的，點餐沒有特別告知[巨型草莓帕妃杯]只能點到19:30 ，當時是19:31 說老闆非常堅持只能點到19:30... 後來有補償一個聖代，覺得還是要提早告知，而不是詢問才能知道老闆的堅持。\n\n整體吃下來覺得算是一次店...價格已燉飯跟義大利麵來說有點貴。",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "Food rather expensive. We were there following certain pamphlet from the visitor center. A so so experience. Portion of food was ok. Taste normal and average. Steak tender but not medium rare. Not much to talk about the egg, fries and croissant, normal not impressive. Now the soufflé pancake with bacon, it was rather difficult to eat.  The pancake was soft and tasted good, the issue was the bacons were tough for the knife to cut, and they were long! So the dish fell apart and making it very messy to eat, which we didn’t enjoy. It was like eating from a mushy pile of creamy stuff. Atmosphere was relaxing. Service just ok with the waiters, very good with the cook who took the pancake dish to us personally. It was an expensive brunch experience.",
-                                             "languageCode":  "en"
+                                             "text":  "2025.11.03\n浮誇的餐點與裝潢，走一個粉紅泡泡跟復古風，看到草莓甜點特別來吃平日的晚餐！\n\n點了雙人套餐份量還算蠻多的，味道算是有點普通，拍照蠻好拍的，點餐沒有特別告知[巨型草莓帕妃杯]只能點到19:30 ，當時是19:31 說老闆非常堅持只能點到19:30... 後來有補償一個聖代，覺得還是要提早告知，而不是詢問才能知道老闆的堅持。\n\n整體吃下來覺得算是一次店...價格已燉飯跟義大利麵來說有點貴。",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "Law Willy",
-                                                  "uri":  "https://www.google.com/maps/contrib/110399885031035411006/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocIKrobdy5szvvWlUlNEpW8Ho9UwlQZOcIN5XuMrsam8gDEE1A=s128-c0x00000000-cc-rp-mo-ba4"
+                                                  "displayName":  "BR.CHIANG",
+                                                  "uri":  "https://www.google.com/maps/contrib/111148559419200973588/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXjPdKte6H4omji7gKC0A4rfNj0IENSfVaBr-nhbQyCP8nKgpM=s128-c0x00000000-cc-rp-mo-ba7"
                                               },
-                        "publishTime":  "2025-09-11T11:51:18.260243342Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOMGFEVnZXbDgyZEdOSmVrWXlZVkl5VW5WcGRHYxAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOMGFEVnZXbDgyZEdOSmVrWXlZVkl5VW5WcGRHYxAB!2m1!1s0x3442a908b756a615:0x82ec70e330ffe15e"
+                        "publishTime":  "2025-11-16T12:26:39.064651872Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20wdE1UaHBjVXB2VlVOSGMwZHVjREJsVlhsVlMwRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20wdE1UaHBjVXB2VlVOSGMwZHVjREJsVlhsVlMwRRAB!2m1!1s0x3442a908b756a615:0x82ec70e330ffe15e"
+                    },
+                    {
+                        "name":  "places/ChIJFaZWtwipQjQRXuH_MONw7II/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1cFprSkVTbmRzTTNoTGF6UldPVTlyTTFsTmRYYxAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  2,
+                        "text":  {
+                                     "text":  "呃…不太好吃…一言難盡…\n但裝潢蠻可愛的～氣氛還不錯～\n感覺甜點比較能點。義大利麵感覺跟薩利亞差不多，以這個價位來說挺雷的🙂‍↕️",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "呃…不太好吃…一言難盡…\n但裝潢蠻可愛的～氣氛還不錯～\n感覺甜點比較能點。義大利麵感覺跟薩利亞差不多，以這個價位來說挺雷的🙂‍↕️",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "吳詠蓁 Hannah",
+                                                  "uri":  "https://www.google.com/maps/contrib/110494928923612209590/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWiLip0rGCVJAFghQmvBckji2KbSnUcaMpdI_FuGCAyOLVxgJGv=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2026-02-10T11:15:55.909600413Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1cFprSkVTbmRzTTNoTGF6UldPVTlyTTFsTmRYYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1cFprSkVTbmRzTTNoTGF6UldPVTlyTTFsTmRYYxAB!2m1!1s0x3442a908b756a615:0x82ec70e330ffe15e"
+                    },
+                    {
+                        "name":  "places/ChIJFaZWtwipQjQRXuH_MONw7II/reviews/Ci9DQUlRQUNvZENodHljRjlvT205ZmFqaDZhRGRLT0hwZldIaGhja3BWVTBoaFkxRRAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "因收看飢餓遊戲而知道這間店\n12/25和朋友來嚐鮮\n沒有事先訂位，現場用app訂位（等候約75分）\n入座後開始計時100分（時間到前會告知）\n我們只有點甜點，沒有點其他主食\n點了草莓舒芙蕾，草莓巴斯克，草莓奶昔\n舒芙蕾吃起來奶香Q彈，巴斯克蛋糕體綿密柔軟，這兩款再搭配草莓，真的是必點的\n而草莓奶昔的味道稍微有點獨特，說不上好喝，然後有滿滿的奶油在外面，所以吃到最後會很膩，因此不太推薦\n以CP值來說，他的特點是浮誇的甜點，但好不好吃，除了看點甚麼餐點外，價格也要考慮！\n最後費用還要另加一成服務費！\n整體評分3.8（google給4星）",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "因收看飢餓遊戲而知道這間店\n12/25和朋友來嚐鮮\n沒有事先訂位，現場用app訂位（等候約75分）\n入座後開始計時100分（時間到前會告知）\n我們只有點甜點，沒有點其他主食\n點了草莓舒芙蕾，草莓巴斯克，草莓奶昔\n舒芙蕾吃起來奶香Q彈，巴斯克蛋糕體綿密柔軟，這兩款再搭配草莓，真的是必點的\n而草莓奶昔的味道稍微有點獨特，說不上好喝，然後有滿滿的奶油在外面，所以吃到最後會很膩，因此不太推薦\n以CP值來說，他的特點是浮誇的甜點，但好不好吃，除了看點甚麼餐點外，價格也要考慮！\n最後費用還要另加一成服務費！\n整體評分3.8（google給4星）",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Jing yun Li",
+                                                  "uri":  "https://www.google.com/maps/contrib/111017438222503113716/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWujgvkZvB1RDwLNKdpg0z6QWtJIX_cOILoBYnSUjD1iy8AKclAQA=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-12-28T03:18:45.834719872Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205ZmFqaDZhRGRLT0hwZldIaGhja3BWVTBoaFkxRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205ZmFqaDZhRGRLT0hwZldIaGhja3BWVTBoaFkxRRAB!2m1!1s0x3442a908b756a615:0x82ec70e330ffe15e"
                     }
                 ]
 }

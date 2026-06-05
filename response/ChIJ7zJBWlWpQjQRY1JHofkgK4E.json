@@ -3,17 +3,17 @@
     "types":  [
                   "asian_restaurant",
                   "japanese_curry_restaurant",
-                  "fast_food_restaurant",
                   "cafeteria",
+                  "fast_food_restaurant",
                   "meal_takeaway",
                   "japanese_restaurant",
                   "restaurant",
-                  "food",
                   "point_of_interest",
+                  "food",
                   "establishment"
               ],
     "internationalPhoneNumber":  "+886 989 398 322",
-    "formattedAddress":  "臺北市大安區新生南路一段1號綠光庭園, 2樓 日光料理 進入綠光庭園後請用左邊的電梯到, No. 1號新生南路一段民輝里大安區臺北市 Taiwan 106",
+    "formattedAddress":  "臺北市大安區新生南路一段1號綠光庭園, 2樓 日光料理 進入綠光庭園後請用左邊的電梯到, No. 1號新生南路一段民輝里大安區臺北市台灣 106",
     "location":  {
                      "latitude":  25.044019,
                      "longitude":  121.53322700000001
@@ -22,38 +22,17 @@
     "websiteUri":  "https://bit.ly/3TunYpE",
     "userRatingCount":  21,
     "displayName":  {
-                        "text":  "日光料理 Niko Kitchen 日式餐廳 | 丼飯｜唐揚炸雞｜咖哩飯｜牛丼｜家庭料理｜外送 便當｜忠孝新生 大安區 美食",
-                        "languageCode":  "en"
+                        "text":  "日光料理",
+                        "languageCode":  "zh-TW"
                     },
     "reviews":  [
                     {
-                        "name":  "places/ChIJ7zJBWlWpQjQRY1JHofkgK4E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKRmJHWkNXV2hCUkZWeVQwTkhjMFY1YTFKTE1HYxAB",
-                        "relativePublishTimeDescription":  "a month ago",
-                        "rating":  5,
-                        "text":  {
-                                     "text":  "My little brother who hates vegetables, likes your Japanese beef rice a lot 😂 The difference between each size here is bigger size larger amount of meat! It hit me hard when other restaurants the bigger size means more rice/ noodles 😭😭.\n\nAs a student here, I recommend you guys come and try dishes here, super delicious with affordable prices 😋 You can choose tea or soup for free when you order. Moreover, small size (小) is actually enough for an adult.",
-                                     "languageCode":  "en"
-                                 },
-                        "originalText":  {
-                                             "text":  "My little brother who hates vegetables, likes your Japanese beef rice a lot 😂 The difference between each size here is bigger size larger amount of meat! It hit me hard when other restaurants the bigger size means more rice/ noodles 😭😭.\n\nAs a student here, I recommend you guys come and try dishes here, super delicious with affordable prices 😋 You can choose tea or soup for free when you order. Moreover, small size (小) is actually enough for an adult.",
-                                             "languageCode":  "en"
-                                         },
-                        "authorAttribution":  {
-                                                  "displayName":  "Tien Thuy",
-                                                  "uri":  "https://www.google.com/maps/contrib/111295174865781950551/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWdxPzthEabxJaxnL8_tkhr6jVAJdzpi5m-ZXzgt0LaG0_sFdZw=s128-c0x00000000-cc-rp-mo"
-                                              },
-                        "publishTime":  "2026-04-07T12:59:46.269735976Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKRmJHWkNXV2hCUkZWeVQwTkhjMFY1YTFKTE1HYxAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKRmJHWkNXV2hCUkZWeVQwTkhjMFY1YTFKTE1HYxAB!2m1!1s0x3442a9555a4132ef:0x812b20f9a1475263"
-                    },
-                    {
                         "name":  "places/ChIJ7zJBWlWpQjQRY1JHofkgK4E/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sRWMwWXhRVmxLV1dOWGEwaGZOV2h3ZGpnMVRrRRAB",
-                        "relativePublishTimeDescription":  "8 months ago",
+                        "relativePublishTimeDescription":  "7 個月前",
                         "rating":  4,
                         "text":  {
-                                     "text":  "The food court next to National Taiwan University of Science and Technology has a variety of dining options on the first and second floors. Seating is in the center area. Please recycle your plates after your meal. Each restaurant has marked recycling bins.\nThe Higetsu Beef Donburi is quite good. The only downside is that it doesn\u0027t come with any vegetables. I didn\u0027t realize it was my first time ordering, so I didn\u0027t order any side dishes. You can choose a drink or soup with your meal.",
-                                     "languageCode":  "en-US"
+                                     "text":  "台科大旁邊的美食區域. 一，二樓有很多不同的餐飲. 座位在中間區域. 餐後自行回收餐盤. 各店家會有標明的回收盒.\n日月見牛肉丼飯口味還不錯. 美中不足是完全沒有青菜. 第一次點也不知道. 所以沒有另外點小菜. 餐點可以選飲料或者湯.",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "台科大旁邊的美食區域. 一，二樓有很多不同的餐飲. 座位在中間區域. 餐後自行回收餐盤. 各店家會有標明的回收盒.\n日月見牛肉丼飯口味還不錯. 美中不足是完全沒有青菜. 第一次點也不知道. 所以沒有另外點小菜. 餐點可以選飲料或者湯.",
@@ -70,11 +49,11 @@
                     },
                     {
                         "name":  "places/ChIJ7zJBWlWpQjQRY1JHofkgK4E/reviews/ChZDSUhNMG9nS0VJQ0FnSUM3OTUyamRREAE",
-                        "relativePublishTimeDescription":  "a year ago",
+                        "relativePublishTimeDescription":  "1 年前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "The service was friendly, the menu was extensive, and the location was convenient, near Zhongxiao Xinsheng MRT station. Huashan and Syntrend Plaza are nearby, making it worth a visit.\n\nKaraage Chicken Donburi: The fried chicken is crispy on the outside and tender on the inside, with a generous portion of rice and vegetables, served with either vegetable soup or unsweetened oolong tea.",
-                                     "languageCode":  "en-US"
+                                     "text":  "服務態度親切，品項款式豐富，地點便利，鄰近捷運忠孝新生站，附近有華山/三創可逛，值得再訪。\n唐揚炸雞丼飯：炸雞外酥內嫩，飯菜量足夠，附野菜湯或無糖烏龍茶。",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "服務態度親切，品項款式豐富，地點便利，鄰近捷運忠孝新生站，附近有華山/三創可逛，值得再訪。\n唐揚炸雞丼飯：炸雞外酥內嫩，飯菜量足夠，附野菜湯或無糖烏龍茶。",
@@ -91,11 +70,11 @@
                     },
                     {
                         "name":  "places/ChIJ7zJBWlWpQjQRY1JHofkgK4E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w4eGJEVkZXVFpCUVVWTFdWQjVXVTFGVHpSb2FuYxAB",
-                        "relativePublishTimeDescription":  "8 months ago",
+                        "relativePublishTimeDescription":  "8 個月前",
                         "rating":  4,
                         "text":  {
-                                     "text":  "Medium bowl of wild vegetable and fried chicken rice with unsweetened tea $120. Side dishes are boiled. A healthy meal.",
-                                     "languageCode":  "en-US"
+                                     "text":  "中碗 野菜炸雞飯 附無糖茶 $120\n配菜是水煮 健康的餐點",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "中碗 野菜炸雞飯 附無糖茶 $120\n配菜是水煮 健康的餐點",
@@ -109,6 +88,48 @@
                         "publishTime":  "2025-09-09T12:05:28.287323613Z",
                         "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w4eGJEVkZXVFpCUVVWTFdWQjVXVTFGVHpSb2FuYxAB\u0026d=17924085\u0026t=1",
                         "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w4eGJEVkZXVFpCUVVWTFdWQjVXVTFGVHpSb2FuYxAB!2m1!1s0x3442a9555a4132ef:0x812b20f9a1475263"
+                    },
+                    {
+                        "name":  "places/ChIJ7zJBWlWpQjQRY1JHofkgK4E/reviews/ChZDSUhNMG9nS0VJQ0FnSUNWenBYVkZREAE",
+                        "relativePublishTimeDescription":  "2 年前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "地點超方便，就在DonDon Donki鈄對面。以為只招待台灣科技大學學生，原來也對外開放。餐廳在2樓，環境很乾淨。如果來光華商場購物可以來這裡吃東西。讚！",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "地點超方便，就在DonDon Donki鈄對面。以為只招待台灣科技大學學生，原來也對外開放。餐廳在2樓，環境很乾淨。如果來光華商場購物可以來這裡吃東西。讚！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "shirley formosa",
+                                                  "uri":  "https://www.google.com/maps/contrib/116440406654130773723/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocLOgS1wejmwvypS9VzbPv9w6j2UpmrHHOQTSL3-x4tJ_eZyGw=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2023-12-07T06:32:11.676515Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNWenBYVkZREAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNWenBYVkZREAE!2m1!1s0x3442a9555a4132ef:0x812b20f9a1475263"
+                    },
+                    {
+                        "name":  "places/ChIJ7zJBWlWpQjQRY1JHofkgK4E/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SM0xXNDBUVE5WUVdOUmVEbENiekpZWVhFNVkzYxAB",
+                        "relativePublishTimeDescription":  "10 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "外帶唐揚炸雞丼飯中盛，附綠茶，不是自己吃，同學吃光，味道應該可以吧",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "外帶唐揚炸雞丼飯中盛，附綠茶，不是自己吃，同學吃光，味道應該可以吧",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "chang jeffrey",
+                                                  "uri":  "https://www.google.com/maps/contrib/117159946593165475925/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUfR5i2L0QcLjMro0_lkcJ0rBffX7HiygT3Gx9aCRKykLeQkOg=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2025-07-14T09:14:08.820289282Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SM0xXNDBUVE5WUVdOUmVEbENiekpZWVhFNVkzYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SM0xXNDBUVE5WUVdOUmVEbENiekpZWVhFNVkzYxAB!2m1!1s0x3442a9555a4132ef:0x812b20f9a1475263"
                     }
                 ]
 }

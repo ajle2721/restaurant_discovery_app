@@ -3,127 +3,127 @@
     "types":  [
                   "brunch_restaurant",
                   "restaurant",
-                  "food",
                   "point_of_interest",
+                  "food",
                   "establishment"
               ],
     "internationalPhoneNumber":  "+886 2 2567 5138",
-    "formattedAddress":  "No. 6號, Lane 16, Section 2, Zhongshan N Rd, Min\u0027an Village, Zhongshan District, Taipei City, Taiwan 104",
+    "formattedAddress":  "104台灣臺北市中山區民安里中山北路二段16巷6號",
     "location":  {
                      "latitude":  25.0530458,
                      "longitude":  121.5217842
                  },
     "rating":  4.2,
-    "userRatingCount":  184,
+    "userRatingCount":  180,
     "displayName":  {
                         "text":  "BREW \u0026 KITCHEN",
                         "languageCode":  "zh-TW"
                     },
     "reviews":  [
                     {
-                        "name":  "places/ChIJDW94bgCpQjQR2f0ar4hGV3w/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWWGExbzBWWGRXV1cxRmEwVkRhamw0VTA5MGJYYxAB",
-                        "relativePublishTimeDescription":  "7 months ago",
-                        "rating":  5,
+                        "name":  "places/ChIJDW94bgCpQjQR2f0ar4hGV3w/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5TmVGVkxiVEJ2TlVKUkxXMXFkMWRsVURaQ1ZFRRAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  2,
                         "text":  {
-                                     "text":  "Chanced upon this cafe as we were shopping in the area, really recommended checking it out!\n\nGot a cappuccino and a hot milk tea\n\nThe coffee was gr888, good coffee and beautiful latte art. There’s cocoa powder added on the cappuccino foam too.\n\nHot milk tea was nice and interesting; there’s a thick layer of milk foam at the top, milk tea below. Tasted 👍🏻\n\nService is great; you can tell that each cup of drink was made with sincerity and effort.\n\nReally reco checking the place out!",
-                                     "languageCode":  "en"
+                                     "text":  "這次來用餐整體感受算是中下，看得出店家在餐點品質上是有用心的，但是也遇到與其他評論提到的店員服務問題。\n\n我們點了烤雞腿早餐盤、蒜蝦嫩蛋開放三明治，飲品則是蜂蜜牛奶與黑糖拿鐵。餐點味道都不錯，雞腿調味剛好，肉質不會乾柴，搭配的配菜也吃得出新鮮度。蒜蝦嫩蛋開放三明治香氣很足，蝦子口感彈嫩，嫩蛋滑順，整體搭配得滿和諧，是會讓人想慢慢吃完的一道。\n\n咖啡表現也令人滿意，黑糖拿鐵喝起來順口，咖啡偏酸不苦，和牛奶融合得很好，奶泡打得相當綿密，整體比例平衡，蜂蜜牛奶則是清爽不甜膩，適合不想喝太重口味咖啡的人。\n\n不過比較可惜的是上餐速度。當天店內其實沒有客滿，但從點餐到餐點上桌仍等待了超過半小時，這點對於早午餐來說稍微偏久，容易影響用餐節奏，也可能讓人感到有些焦躁。\n\n另外針對服務方面，並不是態度不佳，店員都算有禮貌，但整體給人的感覺像是還在適應流程，對於回應客人需求或現場應對略顯生疏，少了一點熟練。價位已經算是偏高，再加上又收取服務費但並沒有給予相對應的服務，會讓人感覺不愉快。\n\n在中山站這樣餐飲競爭非常激烈的一級戰區，其實餐點品質已具備不錯的基礎，若能再加強內場出餐效率與員工教育訓練，相信整體體驗會大幅提升，也更有機會在眾多店家中脫穎而出。",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "Chanced upon this cafe as we were shopping in the area, really recommended checking it out!\n\nGot a cappuccino and a hot milk tea\n\nThe coffee was gr888, good coffee and beautiful latte art. There’s cocoa powder added on the cappuccino foam too.\n\nHot milk tea was nice and interesting; there’s a thick layer of milk foam at the top, milk tea below. Tasted 👍🏻\n\nService is great; you can tell that each cup of drink was made with sincerity and effort.\n\nReally reco checking the place out!",
-                                             "languageCode":  "en"
+                                             "text":  "這次來用餐整體感受算是中下，看得出店家在餐點品質上是有用心的，但是也遇到與其他評論提到的店員服務問題。\n\n我們點了烤雞腿早餐盤、蒜蝦嫩蛋開放三明治，飲品則是蜂蜜牛奶與黑糖拿鐵。餐點味道都不錯，雞腿調味剛好，肉質不會乾柴，搭配的配菜也吃得出新鮮度。蒜蝦嫩蛋開放三明治香氣很足，蝦子口感彈嫩，嫩蛋滑順，整體搭配得滿和諧，是會讓人想慢慢吃完的一道。\n\n咖啡表現也令人滿意，黑糖拿鐵喝起來順口，咖啡偏酸不苦，和牛奶融合得很好，奶泡打得相當綿密，整體比例平衡，蜂蜜牛奶則是清爽不甜膩，適合不想喝太重口味咖啡的人。\n\n不過比較可惜的是上餐速度。當天店內其實沒有客滿，但從點餐到餐點上桌仍等待了超過半小時，這點對於早午餐來說稍微偏久，容易影響用餐節奏，也可能讓人感到有些焦躁。\n\n另外針對服務方面，並不是態度不佳，店員都算有禮貌，但整體給人的感覺像是還在適應流程，對於回應客人需求或現場應對略顯生疏，少了一點熟練。價位已經算是偏高，再加上又收取服務費但並沒有給予相對應的服務，會讓人感覺不愉快。\n\n在中山站這樣餐飲競爭非常激烈的一級戰區，其實餐點品質已具備不錯的基礎，若能再加強內場出餐效率與員工教育訓練，相信整體體驗會大幅提升，也更有機會在眾多店家中脫穎而出。",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "June Sam",
-                                                  "uri":  "https://www.google.com/maps/contrib/101484013588232902177/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjW0uXDrWvZ0s02zYGcBJNsPm6oGzVdcaqn1XJtii1l-4EapFPM=s128-c0x00000000-cc-rp-mo-ba2"
+                                                  "displayName":  "Natalie (Natalie)",
+                                                  "uri":  "https://www.google.com/maps/contrib/114277234874362525381/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjX5rnILrtBrXlNHuhW0Ar6VGKb2d2DFMJ0QGaB7KaomupDrJM-y=s128-c0x00000000-cc-rp-mo-ba4"
                                               },
-                        "publishTime":  "2025-11-04T07:19:27.798550435Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWWGExbzBWWGRXV1cxRmEwVkRhamw0VTA5MGJYYxAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWWGExbzBWWGRXV1cxRmEwVkRhamw0VTA5MGJYYxAB!2m1!1s0x3442a9006e786f0d:0x7c574688af1afdd9"
+                        "publishTime":  "2026-02-11T13:00:43.518980643Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5TmVGVkxiVEJ2TlVKUkxXMXFkMWRsVURaQ1ZFRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5TmVGVkxiVEJ2TlVKUkxXMXFkMWRsVURaQ1ZFRRAB!2m1!1s0x3442a9006e786f0d:0x7c574688af1afdd9"
                     },
                     {
-                        "name":  "places/ChIJDW94bgCpQjQR2f0ar4hGV3w/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pZM1gwTnBRV3B3YVVwU1pVWXRiMmhZV0VVeWRrRRAB",
-                        "relativePublishTimeDescription":  "3 months ago",
-                        "rating":  5,
+                        "name":  "places/ChIJDW94bgCpQjQR2f0ar4hGV3w/reviews/Ci9DQUlRQUNvZENodHljRjlvT214U1ZrNXJXRTVxY0c5aFNtNXJjbkZLT0U0d1ozYxAB",
+                        "relativePublishTimeDescription":  "2 個月前",
+                        "rating":  3,
                         "text":  {
-                                     "text":  "Their cold brew was spectacular! The orange zest 🤌 well done",
-                                     "languageCode":  "en"
+                                     "text":  "總結一句。貴！\n食物是都很好吃\n但單價高和份量少、無服務又收了服務費\n一刻早餐650元以上\n臺北有更多更好的選擇\n\n當天男店員（可能是老闆）就一直在唸女店員\n到我吃完離開 還在唸\n這個價位 搭配的應該是和諧的工作環境💦",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "Their cold brew was spectacular! The orange zest 🤌 well done",
-                                             "languageCode":  "en"
+                                             "text":  "總結一句。貴！\n食物是都很好吃\n但單價高和份量少、無服務又收了服務費\n一刻早餐650元以上\n臺北有更多更好的選擇\n\n當天男店員（可能是老闆）就一直在唸女店員\n到我吃完離開 還在唸\n這個價位 搭配的應該是和諧的工作環境💦",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "Polly",
-                                                  "uri":  "https://www.google.com/maps/contrib/110819350858093320170/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocLoKBhyhBbdxiesjBkb3bYfl8ZDtoePYGA2U_57uyWAcvrbbg=s128-c0x00000000-cc-rp-mo-ba3"
+                                                  "displayName":  "Chloe Chen",
+                                                  "uri":  "https://www.google.com/maps/contrib/116270306675237879065/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUct4LvudzWpqC-WJssgaysZ027TP07JzH8tBVMYcx26wwC9z1RQw=s128-c0x00000000-cc-rp-mo-ba6"
                                               },
-                        "publishTime":  "2026-02-25T14:15:57.753679960Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pZM1gwTnBRV3B3YVVwU1pVWXRiMmhZV0VVeWRrRRAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pZM1gwTnBRV3B3YVVwU1pVWXRiMmhZV0VVeWRrRRAB!2m1!1s0x3442a9006e786f0d:0x7c574688af1afdd9"
+                        "publishTime":  "2026-03-09T10:51:00.897448735Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214U1ZrNXJXRTVxY0c5aFNtNXJjbkZLT0U0d1ozYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214U1ZrNXJXRTVxY0c5aFNtNXJjbkZLT0U0d1ozYxAB!2m1!1s0x3442a9006e786f0d:0x7c574688af1afdd9"
                     },
                     {
-                        "name":  "places/ChIJDW94bgCpQjQR2f0ar4hGV3w/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pJeVJXcFNWR2R5T1RST1YxSTRXRkJUU0daVmJHYxAB",
-                        "relativePublishTimeDescription":  "2 weeks ago",
+                        "name":  "places/ChIJDW94bgCpQjQR2f0ar4hGV3w/reviews/Ci9DQUlRQUNvZENodHljRjlvT25od01HdGZXRjlEWWtkV01HOUtNMXBqZEU5VU5uYxAB",
+                        "relativePublishTimeDescription":  "3 個月前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "I love their hashbrown",
-                                     "languageCode":  "en"
+                                     "text":  "中山商圈踩點新開的早午餐餐廳\n有一大片透明落地窗，\n韓式風格店內裝潢簡潔，\n位置空間感很舒適，\n很多年輕人來打卡.....\n尤其又是在一線中山早午餐戰區。\n\n被安排在二樓包廂用餐\n用餐結束還很熱情的幫我們拍美照，服務品質好親切👍\n洗手間🚻很漂亮\n\n餐點表現不錯\n點燻鮭魚及雞腿套餐，雞腿烤的很香\n酸麵包外酥內軟很有嚼勁很香\n整體性價比還是偏高\n畢竟在中山商圈",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "I love their hashbrown",
-                                             "languageCode":  "en"
+                                             "text":  "中山商圈踩點新開的早午餐餐廳\n有一大片透明落地窗，\n韓式風格店內裝潢簡潔，\n位置空間感很舒適，\n很多年輕人來打卡.....\n尤其又是在一線中山早午餐戰區。\n\n被安排在二樓包廂用餐\n用餐結束還很熱情的幫我們拍美照，服務品質好親切👍\n洗手間🚻很漂亮\n\n餐點表現不錯\n點燻鮭魚及雞腿套餐，雞腿烤的很香\n酸麵包外酥內軟很有嚼勁很香\n整體性價比還是偏高\n畢竟在中山商圈",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "Kitty Yan",
-                                                  "uri":  "https://www.google.com/maps/contrib/102026138577696706170/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocLSmwxr8wQ4AyhKN6Xs1gEeEH4BHMpi4eOUD-INt83lK0AMbA=s128-c0x00000000-cc-rp-mo-ba4"
+                                                  "displayName":  "洪昭閔（大衛）",
+                                                  "uri":  "https://www.google.com/maps/contrib/110263216787187965405/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUrl3RqypLzeyzn4IFHa80Z38dB8h3KBpPUqNBrMJ8EKnkTPO4=s128-c0x00000000-cc-rp-mo-ba7"
                                               },
-                        "publishTime":  "2026-05-17T02:59:44.923293390Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pJeVJXcFNWR2R5T1RST1YxSTRXRkJUU0daVmJHYxAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pJeVJXcFNWR2R5T1RST1YxSTRXRkJUU0daVmJHYxAB!2m1!1s0x3442a9006e786f0d:0x7c574688af1afdd9"
+                        "publishTime":  "2026-01-30T03:56:11.233879511Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25od01HdGZXRjlEWWtkV01HOUtNMXBqZEU5VU5uYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25od01HdGZXRjlEWWtkV01HOUtNMXBqZEU5VU5uYxAB!2m1!1s0x3442a9006e786f0d:0x7c574688af1afdd9"
                     },
                     {
-                        "name":  "places/ChIJDW94bgCpQjQR2f0ar4hGV3w/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWcWJEZEhjRGxWWDNSVE5rbEtSRXBOVGkxSWEzYxAB",
-                        "relativePublishTimeDescription":  "2 months ago",
+                        "name":  "places/ChIJDW94bgCpQjQR2f0ar4hGV3w/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xnM1psOHlaRE5MVjJoa1dXUnZRWGRaU0hvNWNGRRAB",
+                        "relativePublishTimeDescription":  "6 個月前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "Really great",
-                                     "languageCode":  "en"
+                                     "text":  "新開的早午餐店，用餐有一樓與二樓座位（一樓比較少位置），店面裝潢簡約大方，採光很好。這次點的餐點是雞腿排早餐盤，雞肉軟嫩多汁，鹹度剛好而且不會很柴，很好吃，炒菇非常香。酪梨糖心蛋很特別，基底是不辣不麻的椒香醬汁，搭配新鮮的酪梨切片與糖心蛋，味道非常特別，入口的口感很棒。招牌的炸雞超級驚艷，外表酥脆肉質軟嫩，搭配自製的辣醬實在有夠好吃的，而且很大一塊。不過要注意的是，店內的烤麵包有點偏硬，尤其是吐司邊的地方，雖然不焦，但真的很硬，牙齒脆弱的人要注意喔！飲料的部分這次喝蜂蜜肉桂拿鐵，味道不錯但180元有點小杯🤣。酪梨香蕉堅果果昔很天然不加一點糖，好喝沒負擔👍很棒的用餐體驗～",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "Really great",
-                                             "languageCode":  "en"
+                                             "text":  "新開的早午餐店，用餐有一樓與二樓座位（一樓比較少位置），店面裝潢簡約大方，採光很好。這次點的餐點是雞腿排早餐盤，雞肉軟嫩多汁，鹹度剛好而且不會很柴，很好吃，炒菇非常香。酪梨糖心蛋很特別，基底是不辣不麻的椒香醬汁，搭配新鮮的酪梨切片與糖心蛋，味道非常特別，入口的口感很棒。招牌的炸雞超級驚艷，外表酥脆肉質軟嫩，搭配自製的辣醬實在有夠好吃的，而且很大一塊。不過要注意的是，店內的烤麵包有點偏硬，尤其是吐司邊的地方，雖然不焦，但真的很硬，牙齒脆弱的人要注意喔！飲料的部分這次喝蜂蜜肉桂拿鐵，味道不錯但180元有點小杯🤣。酪梨香蕉堅果果昔很天然不加一點糖，好喝沒負擔👍很棒的用餐體驗～",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "Denise Ikeda",
-                                                  "uri":  "https://www.google.com/maps/contrib/103950836809892421496/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjX3tKeCGJnw2grh9wf-cdD-1DNRhzAW9UPD4ek_jD7ug4-Jxr8=s128-c0x00000000-cc-rp-mo"
+                                                  "displayName":  "Ryan Lin",
+                                                  "uri":  "https://www.google.com/maps/contrib/109377012842891390139/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXGeIJD6wW4NDjVnwFsnEEjpU6ppPKfvGsZlt3xRp0vTDC3tk4P=s128-c0x00000000-cc-rp-mo-ba5"
                                               },
-                        "publishTime":  "2026-04-05T04:56:32.718379126Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWcWJEZEhjRGxWWDNSVE5rbEtSRXBOVGkxSWEzYxAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWcWJEZEhjRGxWWDNSVE5rbEtSRXBOVGkxSWEzYxAB!2m1!1s0x3442a9006e786f0d:0x7c574688af1afdd9"
+                        "publishTime":  "2025-11-10T13:21:56.651973923Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xnM1psOHlaRE5MVjJoa1dXUnZRWGRaU0hvNWNGRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xnM1psOHlaRE5MVjJoa1dXUnZRWGRaU0hvNWNGRRAB!2m1!1s0x3442a9006e786f0d:0x7c574688af1afdd9"
                     },
                     {
-                        "name":  "places/ChIJDW94bgCpQjQR2f0ar4hGV3w/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xb1NXZFNTelpsWkZkblZFVXhZMTlOVjBOc1NFRRAB",
-                        "relativePublishTimeDescription":  "2 months ago",
-                        "rating":  5,
+                        "name":  "places/ChIJDW94bgCpQjQR2f0ar4hGV3w/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WWlJWUTJNM0ZwWDI1RVN6WkpSMjlNZUVsU1JXYxAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  4,
                         "text":  {
-                                     "text":  "This place has legit coffee for coffee people. I saw the barista measuring his grounds precisely and he knew what to do with his La Marzocca. So, I got a latte and then I asked him about the beans and his ratios. He gave me a detailed explanation about the source / elevation. He told me that he used a double ristretto for my latte, which is more detail than I get from my baristas in the US, who are basically following a recipe. And then he gave me a full espresso and a ristretto to compare the nuanced differences. I’d say he was showing off how high quality his beans are. Very appreciated. I could also tell he appreciated being able to talk to someone who appreciates his effort.",
-                                     "languageCode":  "en"
+                                     "text":  "聽說去年 11 月甫開幕時一位難求，選在開幕 2 個月後和好友一起探店。\n\n酪梨溏心蛋開放式三明治，加上自製辣油，增加香氣和層次風味，不敢吃辣的人也可以駕馭的那種；美式咖啡也沒問題。\n\n雖然餐點單價不算便宜，還有額外 10% 服務費，但是以中山站的物價以及服務很親切卻不會過於熱情（有些店會讓人問號付了什麼服務費），加上可以訂位這個優點，適合和三五好友或是帶上長輩享用。\n\nℹ️ 可訂位\n💰 低消一杯飲品/人 （服務費 10%）\n⏰ 用餐限時 90分鐘\n\n𓍲 𓍱\n\n𝐁𝐫𝐞𝐰 \u0026 𝐊𝐢𝐭𝐜𝐡𝐞𝐧 𝐢𝐬 𝐧𝐞𝐰𝐥𝐲 𝐨𝐩𝐞𝐧 𝐜𝐚𝐟𝐞 𝐚𝐧𝐝 𝐛𝐫𝐮𝐧𝐜𝐡 𝐬𝐭𝐨𝐫𝐞 𝐢𝐧 𝐙𝐡𝐨𝐧𝐠𝐬𝐡𝐚𝐧 𝐚𝐫𝐞𝐚.\n\n𝐋𝐨𝐜𝐚𝐭𝐢𝐨𝐧-𝐰𝐢𝐬𝐞, 𝐢𝐭’𝐬 𝐠𝐫𝐞𝐚𝐭 𝐬𝐩𝐨𝐭 𝐰𝐡𝐞𝐫𝐞 𝐲𝐨𝐮 𝐜𝐨𝐮𝐥𝐝 𝐡𝐚𝐯𝐞 𝐛𝐫𝐞𝐤𝐤𝐢𝐞 𝐡𝐞𝐫𝐞 𝐟𝐢𝐫𝐬𝐭 𝐛𝐞𝐟𝐨𝐫𝐞 𝐬𝐡𝐨𝐩𝐩𝐢𝐧𝐠 𝐚𝐫𝐨𝐮𝐧𝐝 𝐨𝐫 𝐞𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐭𝐡𝐞 𝐬𝐮𝐫𝐩𝐫𝐢𝐬𝐞𝐬 𝐡𝐢𝐝𝐝𝐞𝐧 𝐢𝐧 𝐭𝐡𝐞 𝐚𝐥𝐥𝐞𝐲.\n\nℹ️ 𝐑𝐞𝐬𝐞𝐫𝐯𝐚𝐭𝐢𝐨𝐧 𝐢𝐬 𝐚𝐜𝐜𝐞𝐩𝐭𝐞𝐝\n💰 𝐌𝐢𝐧𝐢𝐦𝐮𝐦 𝐨𝐫𝐝𝐞𝐫 𝐢𝐬 𝐨𝐧𝐞 𝐝𝐫𝐢𝐧𝐤/𝐩𝐞𝐫𝐬𝐨𝐧 (𝐬𝐞𝐫𝐯𝐢𝐜𝐞 𝐜𝐡𝐚𝐫𝐠𝐞 𝟏𝟎%)\n⏰ 𝐃𝐢𝐧𝐢𝐧𝐠 𝐭𝐢𝐦𝐞 𝟗𝟎 𝐦𝐢𝐧𝐬",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "This place has legit coffee for coffee people. I saw the barista measuring his grounds precisely and he knew what to do with his La Marzocca. So, I got a latte and then I asked him about the beans and his ratios. He gave me a detailed explanation about the source / elevation. He told me that he used a double ristretto for my latte, which is more detail than I get from my baristas in the US, who are basically following a recipe. And then he gave me a full espresso and a ristretto to compare the nuanced differences. I’d say he was showing off how high quality his beans are. Very appreciated. I could also tell he appreciated being able to talk to someone who appreciates his effort.",
-                                             "languageCode":  "en"
+                                             "text":  "聽說去年 11 月甫開幕時一位難求，選在開幕 2 個月後和好友一起探店。\n\n酪梨溏心蛋開放式三明治，加上自製辣油，增加香氣和層次風味，不敢吃辣的人也可以駕馭的那種；美式咖啡也沒問題。\n\n雖然餐點單價不算便宜，還有額外 10% 服務費，但是以中山站的物價以及服務很親切卻不會過於熱情（有些店會讓人問號付了什麼服務費），加上可以訂位這個優點，適合和三五好友或是帶上長輩享用。\n\nℹ️ 可訂位\n💰 低消一杯飲品/人 （服務費 10%）\n⏰ 用餐限時 90分鐘\n\n𓍲 𓍱\n\n𝐁𝐫𝐞𝐰 \u0026 𝐊𝐢𝐭𝐜𝐡𝐞𝐧 𝐢𝐬 𝐧𝐞𝐰𝐥𝐲 𝐨𝐩𝐞𝐧 𝐜𝐚𝐟𝐞 𝐚𝐧𝐝 𝐛𝐫𝐮𝐧𝐜𝐡 𝐬𝐭𝐨𝐫𝐞 𝐢𝐧 𝐙𝐡𝐨𝐧𝐠𝐬𝐡𝐚𝐧 𝐚𝐫𝐞𝐚.\n\n𝐋𝐨𝐜𝐚𝐭𝐢𝐨𝐧-𝐰𝐢𝐬𝐞, 𝐢𝐭’𝐬 𝐠𝐫𝐞𝐚𝐭 𝐬𝐩𝐨𝐭 𝐰𝐡𝐞𝐫𝐞 𝐲𝐨𝐮 𝐜𝐨𝐮𝐥𝐝 𝐡𝐚𝐯𝐞 𝐛𝐫𝐞𝐤𝐤𝐢𝐞 𝐡𝐞𝐫𝐞 𝐟𝐢𝐫𝐬𝐭 𝐛𝐞𝐟𝐨𝐫𝐞 𝐬𝐡𝐨𝐩𝐩𝐢𝐧𝐠 𝐚𝐫𝐨𝐮𝐧𝐝 𝐨𝐫 𝐞𝐱𝐩𝐥𝐨𝐫𝐢𝐧𝐠 𝐭𝐡𝐞 𝐬𝐮𝐫𝐩𝐫𝐢𝐬𝐞𝐬 𝐡𝐢𝐝𝐝𝐞𝐧 𝐢𝐧 𝐭𝐡𝐞 𝐚𝐥𝐥𝐞𝐲.\n\nℹ️ 𝐑𝐞𝐬𝐞𝐫𝐯𝐚𝐭𝐢𝐨𝐧 𝐢𝐬 𝐚𝐜𝐜𝐞𝐩𝐭𝐞𝐝\n💰 𝐌𝐢𝐧𝐢𝐦𝐮𝐦 𝐨𝐫𝐝𝐞𝐫 𝐢𝐬 𝐨𝐧𝐞 𝐝𝐫𝐢𝐧𝐤/𝐩𝐞𝐫𝐬𝐨𝐧 (𝐬𝐞𝐫𝐯𝐢𝐜𝐞 𝐜𝐡𝐚𝐫𝐠𝐞 𝟏𝟎%)\n⏰ 𝐃𝐢𝐧𝐢𝐧𝐠 𝐭𝐢𝐦𝐞 𝟗𝟎 𝐦𝐢𝐧𝐬",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "Ajit Dodani",
-                                                  "uri":  "https://www.google.com/maps/contrib/110861659966524989259/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjW2aHF7kwD_-rpnbwQbI4GVeM7tJ24BuvDLIxT9-UFL1RY8bfc=s128-c0x00000000-cc-rp-mo-ba2"
+                                                  "displayName":  "AmantEspanol",
+                                                  "uri":  "https://www.google.com/maps/contrib/109332660591492724563/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXLXbY8q67_dhdi-0EB7UrZhvGgbv-6Y59oRaETlrXd_x_nSkO5=s128-c0x00000000-cc-rp-mo-ba6"
                                               },
-                        "publishTime":  "2026-03-14T02:49:21.507664727Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xb1NXZFNTelpsWkZkblZFVXhZMTlOVjBOc1NFRRAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xb1NXZFNTelpsWkZkblZFVXhZMTlOVjBOc1NFRRAB!2m1!1s0x3442a9006e786f0d:0x7c574688af1afdd9"
+                        "publishTime":  "2026-02-07T04:17:32.526560232Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WWlJWUTJNM0ZwWDI1RVN6WkpSMjlNZUVsU1JXYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WWlJWUTJNM0ZwWDI1RVN6WkpSMjlNZUVsU1JXYxAB!2m1!1s0x3442a9006e786f0d:0x7c574688af1afdd9"
                     }
                 ]
 }

@@ -8,7 +8,7 @@
                   "establishment"
               ],
     "internationalPhoneNumber":  "+886 2 2932 5290",
-    "formattedAddress":  "No. 12號, Lane 20, Jingren St, Jingren Village, Wenshan District, Taipei City, Taiwan 116",
+    "formattedAddress":  "116台灣臺北市文山區景仁里景仁街20巷12號",
     "location":  {
                      "latitude":  24.9977192,
                      "longitude":  121.5401255
@@ -22,11 +22,11 @@
     "reviews":  [
                     {
                         "name":  "places/ChIJ9R3Z83mrQjQRhVhQROb8yGk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0VVJEZEtaMEV5YWt4Q05XcERjSFJJWlV0NU9VRRAB",
-                        "relativePublishTimeDescription":  "7 months ago",
+                        "relativePublishTimeDescription":  "6 個月前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "This is a friendly and down-to-earth breakfast shop. The burgers are topped with lots of finely chopped white onions and tomatoes, making them very pleasant to eat. The omelets are also good.",
-                                     "languageCode":  "en-US"
+                                     "text":  "親切純樸的早餐店，漢堡放了很多細切白洋蔥，也有番茄，吃起來很舒服。蛋餅也不錯。",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "親切純樸的早餐店，漢堡放了很多細切白洋蔥，也有番茄，吃起來很舒服。蛋餅也不錯。",
@@ -43,11 +43,11 @@
                     },
                     {
                         "name":  "places/ChIJ9R3Z83mrQjQRhVhQROb8yGk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paSlF6RnpPR2hwWDNoVlh6aEJURVkwYUV4NFdVRRAB",
-                        "relativePublishTimeDescription":  "7 months ago",
+                        "relativePublishTimeDescription":  "6 個月前",
                         "rating":  4,
                         "text":  {
-                                     "text":  "It\u0027s a family-run breakfast shop; the hamburgers and egg pancakes are pretty good, but the black tea is just average.",
-                                     "languageCode":  "en-US"
+                                     "text":  "家庭式早餐店，漢堡蛋餅口味不錯，紅茶就相當普通。",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "家庭式早餐店，漢堡蛋餅口味不錯，紅茶就相當普通。",
@@ -64,11 +64,11 @@
                     },
                     {
                         "name":  "places/ChIJ9R3Z83mrQjQRhVhQROb8yGk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKVVdGQkRlWEp1VkVWRU1uZFFiVmRtWWt0TVUzYxAB",
-                        "relativePublishTimeDescription":  "7 months ago",
+                        "relativePublishTimeDescription":  "7 個月前",
                         "rating":  1,
                         "text":  {
-                                     "text":  "I ordered a pork chop omelet and a bacon omelet, which were placed together without my knowledge or asking. The omelets were completely burnt. When I inquired about the teppanyaki noodle set meal, I was told it included meat (they ordered a hot dog, which cost 120 yuan). After I paid, they claimed they shortchanged me by 20 yuan...",
-                                     "languageCode":  "en-US"
+                                     "text":  "一個豬排蛋餅，一個培根蛋餅，沒說沒問直接兩種放一起，蛋餅皮全都燒焦，詢問鐵板麵套餐是否有加肉，（直接加熱狗，直接用120元的），結完帳了，又再說少算我20元……",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "一個豬排蛋餅，一個培根蛋餅，沒說沒問直接兩種放一起，蛋餅皮全都燒焦，詢問鐵板麵套餐是否有加肉，（直接加熱狗，直接用120元的），結完帳了，又再說少算我20元……",
@@ -85,11 +85,11 @@
                     },
                     {
                         "name":  "places/ChIJ9R3Z83mrQjQRhVhQROb8yGk/reviews/ChZDSUhNMG9nS0VJQ0FnSURMbzRiYkhBEAE",
-                        "relativePublishTimeDescription":  "a year ago",
+                        "relativePublishTimeDescription":  "1 年前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "The egg pancake (with scallions) and teppanyaki noodles were both delicious and the portions were generous. The price and ambiance were just average.",
-                                     "languageCode":  "en-US"
+                                     "text":  "蛋餅（有蔥）和鐵板麵都好吃，份量也夠，至於價格和環境較普通",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "蛋餅（有蔥）和鐵板麵都好吃，份量也夠，至於價格和環境較普通",
@@ -106,11 +106,11 @@
                     },
                     {
                         "name":  "places/ChIJ9R3Z83mrQjQRhVhQROb8yGk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwallrUkNTbVZ1ZG5CMU1rUlVXbFZTYzJWYVoxRRAB",
-                        "relativePublishTimeDescription":  "6 months ago",
+                        "relativePublishTimeDescription":  "6 個月前",
                         "rating":  4,
                         "text":  {
-                                     "text":  "The food is delicious and cheap, but parking is always a challenge, especially when cycling. Parking on red lines risks getting reported, so I try to keep my license plate facing inwards.",
-                                     "languageCode":  "en-US"
+                                     "text":  "餐點好吃 便宜 騎車去那裡都感覺也很難停車 停紅線又怕檢舉魔人 所以車牌盡量朝內",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "餐點好吃 便宜 騎車去那裡都感覺也很難停車 停紅線又怕檢舉魔人 所以車牌盡量朝內",

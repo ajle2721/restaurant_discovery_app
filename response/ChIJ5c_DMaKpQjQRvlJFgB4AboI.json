@@ -7,18 +7,123 @@
                   "establishment"
               ],
     "internationalPhoneNumber":  "+886 2 2599 5595",
-    "formattedAddress":  "No. 47號, Minzu W Rd, Zhisheng Village, Datong District, Taipei City, Taiwan 103",
+    "formattedAddress":  "103台灣臺北市大同區至聖里民族西路47號",
     "location":  {
                      "latitude":  25.068672,
                      "longitude":  121.51914950000001
                  },
     "rating":  4.8,
-    "userRatingCount":  566,
+    "userRatingCount":  563,
     "displayName":  {
                         "text":  "大象飯館(大象吃咖哩2.0)",
                         "languageCode":  "zh-TW"
                     },
     "reviews":  [
-
-                ]
+                    {
+                        "name":  "places/ChIJ5c_DMaKpQjQRvlJFgB4AboI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxa2VrazBUVTFHV1c5YVZFWnlhMGRWTVRkR01uYxAB",
+                        "relativePublishTimeDescription":  "2 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "點了嫩雞咖喱飯，咖哩是微辣口味，蛋可以選全熟或半熟，配菜的炸甜不辣好吃，整體份量很夠，有茶包可以自己泡",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "點了嫩雞咖喱飯，咖哩是微辣口味，蛋可以選全熟或半熟，配菜的炸甜不辣好吃，整體份量很夠，有茶包可以自己泡",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Jiaying Yan",
+                                                  "uri":  "https://www.google.com/maps/contrib/117306156938269898712/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocIE-9WTgWwdYOLC9_ohgPN4uk5QC8ihG2-3JCj6s1jTtvLFKg=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2026-03-03T18:53:56.596021684Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxa2VrazBUVTFHV1c5YVZFWnlhMGRWTVRkR01uYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxa2VrazBUVTFHV1c5YVZFWnlhMGRWTVRkR01uYxAB!2m1!1s0x3442a9a231c3cfe5:0x826e001e804552be"
+                    },
+                    {
+                        "name":  "places/ChIJ5c_DMaKpQjQRvlJFgB4AboI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25RME1XSlNiM2xSWVZweFVXWkJNSE5IUkc1TGNYYxAB",
+                        "relativePublishTimeDescription":  "7 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "平價CP值超高的咖喱飯🫶第一次來吃！點了酥炸嫩雞咖喱飯、肉醬咖喱飯、炸餃子、可樂餅～～配菜超級豐富，竟然有秋葵和毛豆✨特別的還有炸甜不辣(´▽｀)炸餃子、炸雞都超級好吃，炸的非常酥脆～可樂餅大愛❤️咖喱醬很香濃郁，吃完超級飽！這邊如果飯不夠還能續，但我們已經吃不下哈哈哈✨非常適合家庭或平常來吃，價格很親民，下次一定會再來👍👍👍店裡還有提供免費茶包可以沖泡這點也很貼心❤️",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "平價CP值超高的咖喱飯🫶第一次來吃！點了酥炸嫩雞咖喱飯、肉醬咖喱飯、炸餃子、可樂餅～～配菜超級豐富，竟然有秋葵和毛豆✨特別的還有炸甜不辣(´▽｀)炸餃子、炸雞都超級好吃，炸的非常酥脆～可樂餅大愛❤️咖喱醬很香濃郁，吃完超級飽！這邊如果飯不夠還能續，但我們已經吃不下哈哈哈✨非常適合家庭或平常來吃，價格很親民，下次一定會再來👍👍👍店裡還有提供免費茶包可以沖泡這點也很貼心❤️",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "王允彤",
+                                                  "uri":  "https://www.google.com/maps/contrib/117194461056017660798/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVC5js_cEuIDJ6ei7ddw0-VVeLvLYQN218U5xU2f_5i0sVwpc8I=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-10-10T05:53:36.630133327Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25RME1XSlNiM2xSWVZweFVXWkJNSE5IUkc1TGNYYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25RME1XSlNiM2xSWVZweFVXWkJNSE5IUkc1TGNYYxAB!2m1!1s0x3442a9a231c3cfe5:0x826e001e804552be"
+                    },
+                    {
+                        "name":  "places/ChIJ5c_DMaKpQjQRvlJFgB4AboI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SNVVtdFNaR2N5YTB0VFJtbFVOVFJhUlZkc1RIYxAB",
+                        "relativePublishTimeDescription":  "2 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "今天來看花燈剛好發現的店家，雖然沒有很華麗的裝潢，但是店內很乾淨。\n\n餐點的部分，炸雞很好吃，灑上一點胡椒，或者搭配咖哩，都很好吃，也不用怕吃不飽，店內還能免費續飯跟醬，CP值很高👍",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "今天來看花燈剛好發現的店家，雖然沒有很華麗的裝潢，但是店內很乾淨。\n\n餐點的部分，炸雞很好吃，灑上一點胡椒，或者搭配咖哩，都很好吃，也不用怕吃不飽，店內還能免費續飯跟醬，CP值很高👍",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "魔術師\u0026氣球達人Ted",
+                                                  "uri":  "https://www.google.com/maps/contrib/101037560093726026886/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXbvHYCI5BDyjBZ3ssFPfMdVno5XENLE7xIINb51D3vEoIuz4k=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2026-03-02T14:12:25.012421780Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SNVVtdFNaR2N5YTB0VFJtbFVOVFJhUlZkc1RIYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SNVVtdFNaR2N5YTB0VFJtbFVOVFJhUlZkc1RIYxAB!2m1!1s0x3442a9a231c3cfe5:0x826e001e804552be"
+                    },
+                    {
+                        "name":  "places/ChIJ5c_DMaKpQjQRvlJFgB4AboI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CdFZEUkNSamxKV2tkaloyUklTVFJETm14bGJuYxAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "來逛北美館在圓山附近覓食，意外發現評價不錯的咖哩小店，配菜很特別，是豆子+毛豆+炸甜不辣，咖哩比較台式口味，炸雞非常鮮嫩多汁，價錢划算CP值高",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "來逛北美館在圓山附近覓食，意外發現評價不錯的咖哩小店，配菜很特別，是豆子+毛豆+炸甜不辣，咖哩比較台式口味，炸雞非常鮮嫩多汁，價錢划算CP值高",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "徐卉卉",
+                                                  "uri":  "https://www.google.com/maps/contrib/102656703284892628440/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjW8NaEDOwpYrBPrrQh5yzrYFuOvP7Vq1BLnhpGxhEe7-8EDjoIHIg=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-12-15T11:18:12.263213937Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CdFZEUkNSamxKV2tkaloyUklTVFJETm14bGJuYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CdFZEUkNSamxKV2tkaloyUklTVFJETm14bGJuYxAB!2m1!1s0x3442a9a231c3cfe5:0x826e001e804552be"
+                    },
+                    {
+                        "name":  "places/ChIJ5c_DMaKpQjQRvlJFgB4AboI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCT00xVlJhM28yTW5wcmVWUkxRMkk0V0UwdFRWRRAB",
+                        "relativePublishTimeDescription":  "8 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "圓山站步行過來大約五分鐘\n平日中午來 店內大約4-5組客人\n提供免費茶包 需要的可以泡來喝\n點了一份酥炸嫩雞咖喱飯\n雞肉有四大塊 皮薄 肉很Juicy ，咖喱醬濃郁 配上白飯真的一口接一口 很好吃\n可樂餅就一般\n高麗菜還吃的到它的脆度 加上蒜頭的提味 很不錯",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "圓山站步行過來大約五分鐘\n平日中午來 店內大約4-5組客人\n提供免費茶包 需要的可以泡來喝\n點了一份酥炸嫩雞咖喱飯\n雞肉有四大塊 皮薄 肉很Juicy ，咖喱醬濃郁 配上白飯真的一口接一口 很好吃\n可樂餅就一般\n高麗菜還吃的到它的脆度 加上蒜頭的提味 很不錯",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Kiki Smile",
+                                                  "uri":  "https://www.google.com/maps/contrib/116504410849710696117/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXL7eHR435kBT-b2QAFQlzCqPVATf0tcpA1mSj0KzkPeqiHzMw_=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-09-24T22:42:34.915252503Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCT00xVlJhM28yTW5wcmVWUkxRMkk0V0UwdFRWRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCT00xVlJhM28yTW5wcmVWUkxRMkk0V0UwdFRWRRAB!2m1!1s0x3442a9a231c3cfe5:0x826e001e804552be"
+                    }
+                ],
+    "goodForChildren":  true
 }

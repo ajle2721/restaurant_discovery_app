@@ -8,60 +8,125 @@
                   "establishment"
               ],
     "internationalPhoneNumber":  "+886 2 2738 4185",
-    "formattedAddress":  "106, Taiwan, Taipei City, Da’an District, Longyuan Village, Section 2, Xinhai Rd, 201號1樓",
+    "formattedAddress":  "106台灣臺北市大安區龍淵里辛亥路二段201號1樓",
     "location":  {
                      "latitude":  25.021663999999998,
                      "longitude":  121.5421349
                  },
     "rating":  4.4,
     "websiteUri":  "https://anhaoshih.oddle.me/zh_TW",
-    "userRatingCount":  1259,
+    "userRatingCount":  1254,
     "displayName":  {
                         "text":  "安好食 和平店",
                         "languageCode":  "zh-TW"
                     },
     "reviews":  [
                     {
-                        "name":  "places/ChIJA7xCuqirQjQRGwBOltepJQk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WVU9IVmtlR3BKYlRkS2IybE9SSGhhV2xsT2FrRRAB",
-                        "relativePublishTimeDescription":  "4 months ago",
-                        "rating":  4,
+                        "name":  "places/ChIJA7xCuqirQjQRGwBOltepJQk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oMldtSlZRM05OUWtSdU5tSTJSVFkwWWxrdGVFRRAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  3,
                         "text":  {
-                                     "text":  "Not bad local Taiwanese brunch.\n\nWas told there are better ones, but this is still not too bad and satisfies most local cravings",
-                                     "languageCode":  "en"
+                                     "text":  "1. 紅茶很難喝，跟水差不多淡，可以不用裝這麼大的杯子套這麼多水。\n2. 炒麵份量很多，還可以，豬排也不錯。\n3. 蛋餅跟法式吐司個人不喜歡！\n4. 炸湯圓+煉乳很不正常...\n5. 吃這樣399",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "Not bad local Taiwanese brunch.\n\nWas told there are better ones, but this is still not too bad and satisfies most local cravings",
-                                             "languageCode":  "en"
+                                             "text":  "1. 紅茶很難喝，跟水差不多淡，可以不用裝這麼大的杯子套這麼多水。\n2. 炒麵份量很多，還可以，豬排也不錯。\n3. 蛋餅跟法式吐司個人不喜歡！\n4. 炸湯圓+煉乳很不正常...\n5. 吃這樣399",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "Ed T",
-                                                  "uri":  "https://www.google.com/maps/contrib/118071263998897226945/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWIrQYAmVORMNRO2b3Gb_68BTGtqh_aGOEm86GujExxiXAykom2=s128-c0x00000000-cc-rp-mo-ba6"
+                                                  "displayName":  "莎樂美",
+                                                  "uri":  "https://www.google.com/maps/contrib/102804682473020176499/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWrtVK8wGPOyqSfQzPg1QufUTx19E5I9tSNpWW3goMqdJgvXOQ=s128-c0x00000000-cc-rp-mo-ba4"
                                               },
-                        "publishTime":  "2026-01-29T06:09:07.323371005Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WVU9IVmtlR3BKYlRkS2IybE9SSGhhV2xsT2FrRRAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WVU9IVmtlR3BKYlRkS2IybE9SSGhhV2xsT2FrRRAB!2m1!1s0x3442aba8ba42bc03:0x925a9d7964e001b"
+                        "publishTime":  "2026-02-07T07:20:44.561232867Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oMldtSlZRM05OUWtSdU5tSTJSVFkwWWxrdGVFRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oMldtSlZRM05OUWtSdU5tSTJSVFkwWWxrdGVFRRAB!2m1!1s0x3442aba8ba42bc03:0x925a9d7964e001b"
                     },
                     {
-                        "name":  "places/ChIJA7xCuqirQjQRGwBOltepJQk/reviews/ChdDSUhNMG9nS0VJQ0FnSUR6dnNlOF9nRRAB",
-                        "relativePublishTimeDescription":  "a year ago",
-                        "rating":  2,
+                        "name":  "places/ChIJA7xCuqirQjQRGwBOltepJQk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taUFdtRXpjbFU1YVRSRE9VUnVVRU0wTkRJNGIxRRAB",
+                        "relativePublishTimeDescription":  "2 個月前",
+                        "rating":  5,
                         "text":  {
-                                     "text":  "Per friendly dine-in place. However, food is not tasty; latte is terrible; milk tea is too sweet. I’d rather choose others next time.",
-                                     "languageCode":  "en"
+                                     "text":  "高級蛋餅的定價快跟便當一樣了，台灣錢淹腳目果真是真的😍 現實是骨感的，希望 well being wise 能慢慢改善😌",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "Per friendly dine-in place. However, food is not tasty; latte is terrible; milk tea is too sweet. I’d rather choose others next time.",
-                                             "languageCode":  "en"
+                                             "text":  "高級蛋餅的定價快跟便當一樣了，台灣錢淹腳目果真是真的😍 現實是骨感的，希望 well being wise 能慢慢改善😌",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "YH Lin",
-                                                  "uri":  "https://www.google.com/maps/contrib/113560393505156470425/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocJWQfwQjqJ1qK_1M6OziDamACTicIlywvBy4gRV9ZQRwtMzJQ=s128-c0x00000000-cc-rp-mo-ba3"
+                                                  "displayName":  "Justin Sung",
+                                                  "uri":  "https://www.google.com/maps/contrib/108118928981610847633/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWkxlLc85FEoabvyMC_Ex3FRQYGOOdr8KizRym-ZhnA3JHkxp-AUA=s128-c0x00000000-cc-rp-mo-ba6"
                                               },
-                        "publishTime":  "2024-06-10T12:15:09.168854Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR6dnNlOF9nRRAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR6dnNlOF9nRRAB!2m1!1s0x3442aba8ba42bc03:0x925a9d7964e001b"
+                        "publishTime":  "2026-03-07T02:39:31.443015398Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taUFdtRXpjbFU1YVRSRE9VUnVVRU0wTkRJNGIxRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taUFdtRXpjbFU1YVRSRE9VUnVVRU0wTkRJNGIxRRAB!2m1!1s0x3442aba8ba42bc03:0x925a9d7964e001b"
+                    },
+                    {
+                        "name":  "places/ChIJA7xCuqirQjQRGwBOltepJQk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taeVkyRnpXbUptTmt4WGNUVkNhMDF4YW1OMGMyYxAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "炒麵不錯吃！不知道菜單內容，跟台大前面那間店（新生南路三段86巷那間）是否完全相同？",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "炒麵不錯吃！不知道菜單內容，跟台大前面那間店（新生南路三段86巷那間）是否完全相同？",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "殷寶",
+                                                  "uri":  "https://www.google.com/maps/contrib/106655451728671244276/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjV1JslOuFjshjueyg6Ia97syfjrRCzE482-NxJbVj0NE_oZkxkI=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2025-12-20T13:55:21.182882688Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taeVkyRnpXbUptTmt4WGNUVkNhMDF4YW1OMGMyYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taeVkyRnpXbUptTmt4WGNUVkNhMDF4YW1OMGMyYxAB!2m1!1s0x3442aba8ba42bc03:0x925a9d7964e001b"
+                    },
+                    {
+                        "name":  "places/ChIJA7xCuqirQjQRGwBOltepJQk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGblZ5MUNjVXMyUWtaWU16TXdXbkF6VlVSbVVIYxAB",
+                        "relativePublishTimeDescription":  "6 個月前",
+                        "rating":  2,
+                        "text":  {
+                                     "text":  "11/09 08:31-08:50之間發生的事\n希望店員不要拿客人的薯餅來搓手..取暖？\n剛剛等餐點好的時候\n看到櫃檯的男店員雙手拿著一塊薯餅來回搓\n（就像影片這樣）\n想說該不會是我點的薯餅吧\n然後就看到這份薯餅出現在我的袋子內了..\n😱",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "11/09 08:31-08:50之間發生的事\n希望店員不要拿客人的薯餅來搓手..取暖？\n剛剛等餐點好的時候\n看到櫃檯的男店員雙手拿著一塊薯餅來回搓\n（就像影片這樣）\n想說該不會是我點的薯餅吧\n然後就看到這份薯餅出現在我的袋子內了..\n😱",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Elber Wang",
+                                                  "uri":  "https://www.google.com/maps/contrib/109944600703859320843/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXz4swCjiCbPXU9_0RlZL461MGl-iS4E7eOTHbl_MIM7HQMsU-s=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-11-09T00:51:37.932277979Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGblZ5MUNjVXMyUWtaWU16TXdXbkF6VlVSbVVIYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGblZ5MUNjVXMyUWtaWU16TXdXbkF6VlVSbVVIYxAB!2m1!1s0x3442aba8ba42bc03:0x925a9d7964e001b"
+                    },
+                    {
+                        "name":  "places/ChIJA7xCuqirQjQRGwBOltepJQk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKSmJHbEpUMjlIU1RKMlRHUkhUREJHTm1GeFVIYxAB",
+                        "relativePublishTimeDescription":  "8 個月前",
+                        "rating":  1,
+                        "text":  {
+                                     "text":  "豆漿紅茶喝了一口，發現喝起來泥狀還臭酸，打開來看整個變豆花狀，喝到臭酸整個很影響心情，小肉豆上面也黏了頭髮，整個衛生餐飲品質堪憂，打電話過去也感受不到歉意，只說下次補償飲料券",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "豆漿紅茶喝了一口，發現喝起來泥狀還臭酸，打開來看整個變豆花狀，喝到臭酸整個很影響心情，小肉豆上面也黏了頭髮，整個衛生餐飲品質堪憂，打電話過去也感受不到歉意，只說下次補償飲料券",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "林昕諭",
+                                                  "uri":  "https://www.google.com/maps/contrib/110569479871864505293/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVmpM9S920KT_SNsqm90CyFoT33HCEZohTNMXDB3GHe1pjafw=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2025-09-10T05:51:26.405785083Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKSmJHbEpUMjlIU1RKMlRHUkhUREJHTm1GeFVIYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKSmJHbEpUMjlIU1RKMlRHUkhUREJHTm1GeFVIYxAB!2m1!1s0x3442aba8ba42bc03:0x925a9d7964e001b"
                     }
-                ]
+                ],
+    "menuForChildren":  false,
+    "goodForChildren":  true
 }

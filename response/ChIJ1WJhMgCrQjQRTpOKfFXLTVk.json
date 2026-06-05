@@ -7,7 +7,7 @@
                   "point_of_interest",
                   "establishment"
               ],
-    "formattedAddress":  "Section 6, Roosevelt Rd, Jinghua Village, Wenshan District, Taipei City, Taiwan 116",
+    "formattedAddress":  "116台灣臺北市文山區景華里羅斯福路六段",
     "location":  {
                      "latitude":  24.994320599999998,
                      "longitude":  121.54158329999999
@@ -20,54 +20,12 @@
                     },
     "reviews":  [
                     {
-                        "name":  "places/ChIJ1WJhMgCrQjQRTpOKfFXLTVk/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzM2Vta2xRRRAB",
-                        "relativePublishTimeDescription":  "a year ago",
-                        "rating":  5,
-                        "text":  {
-                                     "text":  "Chef is passionate about making delicious food.\n\nAmazing foods.\n\nWorth to try.\n\nFriendly,cozy ,delicious.\n\nRice is well cooked here, must try✨\n\nAppreciated 🙏",
-                                     "languageCode":  "en"
-                                 },
-                        "originalText":  {
-                                             "text":  "Chef is passionate about making delicious food.\n\nAmazing foods.\n\nWorth to try.\n\nFriendly,cozy ,delicious.\n\nRice is well cooked here, must try✨\n\nAppreciated 🙏",
-                                             "languageCode":  "en"
-                                         },
-                        "authorAttribution":  {
-                                                  "displayName":  "Energia Creative",
-                                                  "uri":  "https://www.google.com/maps/contrib/106483119860320801486/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWroLuJzIoar5iPb9geR8UHyVv38GVfVbuPOw_ABFS2tlg7VVuT=s128-c0x00000000-cc-rp-mo-ba3"
-                                              },
-                        "publishTime":  "2025-03-20T11:43:54.115799Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzM2Vta2xRRRAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzM2Vta2xRRRAB!2m1!1s0x3442ab00326162d5:0x594dcb557c8a934e"
-                    },
-                    {
-                        "name":  "places/ChIJ1WJhMgCrQjQRTpOKfFXLTVk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OblVtVkZNV05tZWpGelVVZEVhRGd6VG1zeGQxRRAB",
-                        "relativePublishTimeDescription":  "3 weeks ago",
-                        "rating":  5,
-                        "text":  {
-                                     "text":  "Ok",
-                                     "languageCode":  "en"
-                                 },
-                        "originalText":  {
-                                             "text":  "Ok",
-                                             "languageCode":  "en"
-                                         },
-                        "authorAttribution":  {
-                                                  "displayName":  "MAPLE GIONIONI",
-                                                  "uri":  "https://www.google.com/maps/contrib/109949896148657899607/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWixCAYCaKkBJxcZqmYvb0abedsb28xytHmkH30nZchOHFFSA2W=s128-c0x00000000-cc-rp-mo-ba3"
-                                              },
-                        "publishTime":  "2026-05-11T10:58:46.624812147Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OblVtVkZNV05tZWpGelVVZEVhRGd6VG1zeGQxRRAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OblVtVkZNV05tZWpGelVVZEVhRGd6VG1zeGQxRRAB!2m1!1s0x3442ab00326162d5:0x594dcb557c8a934e"
-                    },
-                    {
                         "name":  "places/ChIJ1WJhMgCrQjQRTpOKfFXLTVk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OdmRDMXZiVXR3Ymt0ZkxVZDRNRkU1YkhaVWRuYxAB",
-                        "relativePublishTimeDescription":  "6 months ago",
+                        "relativePublishTimeDescription":  "5 個月前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "I live in Yonghe XD. I was in Jingmei on business and passed by this restaurant with a feeling it must be delicious. So I went in and ate.\n\nAnd it was indeed delicious! The chicken thigh was pan-fried to a crispy skin and tender meat, and the rice had the perfect consistency. The side dishes were a great combination. The soup was also amazing, and even the barley tea was delicious.\n\nThe interior decoration was exquisite and cute. The owner was very nice.",
-                                     "languageCode":  "en-US"
+                                     "text":  "我住永和啦XD。來景美辦事，路過這家店時，有一種這家應該很好吃的預感。就進去吃了。\n\n果然是很好吃！雞腿排煎的皮脆肉嫩，飯的黏度很剛好。配菜配合度很高。湯也另人驚艷，連麥茶都很好喝。\n\n店內裝潢精緻可愛。老闆娘很nice",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "我住永和啦XD。來景美辦事，路過這家店時，有一種這家應該很好吃的預感。就進去吃了。\n\n果然是很好吃！雞腿排煎的皮脆肉嫩，飯的黏度很剛好。配菜配合度很高。湯也另人驚艷，連麥茶都很好喝。\n\n店內裝潢精緻可愛。老闆娘很nice",
@@ -84,11 +42,11 @@
                     },
                     {
                         "name":  "places/ChIJ1WJhMgCrQjQRTpOKfFXLTVk/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2dThYak93EAE",
-                        "relativePublishTimeDescription":  "a year ago",
+                        "relativePublishTimeDescription":  "1 年前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "In addition to the regular menu, there are also limited-time specials. 📝\nSo far, I\u0027ve tried:\n🍴Korean Army Stew\n🍴French Red Wine Sauce Beef Rice\n🍴Japanese Hamburger Steak\n🍴Grilled Chicken Rice with Coconut Sauce\n🍴Korean Kimchi Fried Pork Rice\nAll delicious!\nThere are only three seats inside, but that makes it feel cozy. ✨",
-                                     "languageCode":  "en-US"
+                                     "text":  "除了固定餐點，\n也有期間限定的📝\n目前享用過：\n🍴韓式部隊鍋\n🍴法式紅酒醬燉牛肉飯\n🍴日式漢堡排\n🍴椰香醬烤雞肉飯\n🍴韓式泡菜炒豬肉飯\n都很美味！\n內用座位只有3個，\n但也因此令人感到溫馨✨",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "除了固定餐點，\n也有期間限定的📝\n目前享用過：\n🍴韓式部隊鍋\n🍴法式紅酒醬燉牛肉飯\n🍴日式漢堡排\n🍴椰香醬烤雞肉飯\n🍴韓式泡菜炒豬肉飯\n都很美味！\n內用座位只有3個，\n但也因此令人感到溫馨✨",
@@ -105,11 +63,11 @@
                     },
                     {
                         "name":  "places/ChIJ1WJhMgCrQjQRTpOKfFXLTVk/reviews/ChZDSUhNMG9nS0VJQ0FnSURuNDhERE9REAE",
-                        "relativePublishTimeDescription":  "a year ago",
+                        "relativePublishTimeDescription":  "1 年前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "Although there aren\u0027t many seats, the dining atmosphere is very relaxed and comfortable, and the owner is very friendly ❤️ Today I ordered the Japanese curry beef rice and the French red wine braised beef rice, and both were excellent!\n\nThe beef was braised to perfection, tender and flavorful, and the sauce was perfectly seasoned with just the right amount of saltiness and layers of flavor. The plate was gone in the blink of an eye 😂",
-                                     "languageCode":  "en-US"
+                                     "text":  "位子雖然不多，但是用餐氛圍相當輕鬆舒適，老闆娘也服務親切 ❤️\n今天點了日式咖哩牛肉飯與法式紅酒燉牛肉飯，兩個品項都表現得很優秀！\n牛肉燉煮得入味軟嫩、醬汁調味鹹淡適中又富有層次，一眨眼就掃盤完畢 😂",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "位子雖然不多，但是用餐氛圍相當輕鬆舒適，老闆娘也服務親切 ❤️\n今天點了日式咖哩牛肉飯與法式紅酒燉牛肉飯，兩個品項都表現得很優秀！\n牛肉燉煮得入味軟嫩、醬汁調味鹹淡適中又富有層次，一眨眼就掃盤完畢 😂",
@@ -123,6 +81,48 @@
                         "publishTime":  "2024-10-09T12:39:21.019467Z",
                         "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURuNDhERE9REAE\u0026d=17924085\u0026t=1",
                         "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURuNDhERE9REAE!2m1!1s0x3442ab00326162d5:0x594dcb557c8a934e"
+                    },
+                    {
+                        "name":  "places/ChIJ1WJhMgCrQjQRTpOKfFXLTVk/reviews/ChdDSUhNMG9nS0VJQ0FnSUN0dDhEaTdRRRAB",
+                        "relativePublishTimeDescription":  "2 年前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "小巧可愛的新店\n日式牛肉咖哩有牛筋、漬け物\n紅酒牛肉咖哩燉有二式種類菌菇\n都很美味💙",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "小巧可愛的新店\n日式牛肉咖哩有牛筋、漬け物\n紅酒牛肉咖哩燉有二式種類菌菇\n都很美味💙",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Kai-in Chang",
+                                                  "uri":  "https://www.google.com/maps/contrib/106247055313847346304/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXsFKu2Dl2fdO3Srr7y0lNHDLQgOmayKBLXy5p_kkowSeV74q8=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2024-02-01T12:12:35.179590Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN0dDhEaTdRRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN0dDhEaTdRRRAB!2m1!1s0x3442ab00326162d5:0x594dcb557c8a934e"
+                    },
+                    {
+                        "name":  "places/ChIJ1WJhMgCrQjQRTpOKfFXLTVk/reviews/ChZDSUhNMG9nS0VJQ0FnSURqOG9LTkRREAE",
+                        "relativePublishTimeDescription":  "2 年前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "座位不多，但服務跟餐點都讚翻！！\n（連狗狗都有好料可以吃🥰）",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "座位不多，但服務跟餐點都讚翻！！\n（連狗狗都有好料可以吃🥰）",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "仙姑媽",
+                                                  "uri":  "https://www.google.com/maps/contrib/110609253359939026384/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocJdGpvnQcD6Q4vpU0drWVQN_ZSNX_HlxvMrWvFDVPjVd5prGA=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2024-05-01T12:48:03.300416Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURqOG9LTkRREAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURqOG9LTkRREAE!2m1!1s0x3442ab00326162d5:0x594dcb557c8a934e"
                     }
                 ]
 }

@@ -8,89 +8,26 @@
                   "establishment"
               ],
     "internationalPhoneNumber":  "+886 2 5551 8888",
-    "formattedAddress":  "No. 1號, Qiyan Rd, Wenquan Village, Beitou District, Taipei City, Taiwan 112",
+    "formattedAddress":  "112台灣臺北市北投區奇岩路1號",
     "location":  {
                      "latitude":  25.1350426,
                      "longitude":  121.50699559999998
                  },
     "rating":  4.4,
     "websiteUri":  "https://www.thegaiahotel.com/restaurants-detail/1__2/",
-    "userRatingCount":  85,
+    "userRatingCount":  83,
     "displayName":  {
-                        "text":  "Xihuan Western Restaurant",
-                        "languageCode":  "en"
+                        "text":  "喜歡西餐廳(大地酒店)",
+                        "languageCode":  "zh-TW"
                     },
     "reviews":  [
                     {
-                        "name":  "places/ChIJuyhfTVmvQjQRqS9NO23JTKY/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzaU51ZzFRRRAB",
-                        "relativePublishTimeDescription":  "a year ago",
-                        "rating":  5,
-                        "text":  {
-                                     "text":  "Dining at Piacere, the main Italian restaurant at The Gaia Hotel, was a delightful experience.\n\nThe ambiance is beautifully complemented by stunning garden views and a lovely vista of the hotel\u0027s lobby library, making it a perfect setting for both breakfast and dinner.\n\nThe menu features a wonderful selection of Italian cuisine, showcasing fresh ingredients and expertly crafted dishes. Every meal felt like a celebration of flavors, making it a highlight of my stay.\n\nWhether you\u0027re starting your day with a hearty breakfast or enjoying a refined dinner, Piacere provides an inviting atmosphere that enhances the overall experience at The Gaia Hotel.\n\nThe combination of great food, beautiful surroundings, and attentive service truly sets Piacere apart. Highly recommended for anyone visiting Beitou!",
-                                     "languageCode":  "en"
-                                 },
-                        "originalText":  {
-                                             "text":  "Dining at Piacere, the main Italian restaurant at The Gaia Hotel, was a delightful experience.\n\nThe ambiance is beautifully complemented by stunning garden views and a lovely vista of the hotel\u0027s lobby library, making it a perfect setting for both breakfast and dinner.\n\nThe menu features a wonderful selection of Italian cuisine, showcasing fresh ingredients and expertly crafted dishes. Every meal felt like a celebration of flavors, making it a highlight of my stay.\n\nWhether you\u0027re starting your day with a hearty breakfast or enjoying a refined dinner, Piacere provides an inviting atmosphere that enhances the overall experience at The Gaia Hotel.\n\nThe combination of great food, beautiful surroundings, and attentive service truly sets Piacere apart. Highly recommended for anyone visiting Beitou!",
-                                             "languageCode":  "en"
-                                         },
-                        "authorAttribution":  {
-                                                  "displayName":  "Genta",
-                                                  "uri":  "https://www.google.com/maps/contrib/117016178934992842533/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjW8t7xK4a_YghQKADughmJgcm50hVTbRIIDhSYIjd8eAi5Jcaxkwg=s128-c0x00000000-cc-rp-mo-ba8"
-                                              },
-                        "publishTime":  "2024-11-02T07:59:01.335637Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzaU51ZzFRRRAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzaU51ZzFRRRAB!2m1!1s0x3442af594d5f28bb:0xa64cc96d3b4d2fa9"
-                    },
-                    {
-                        "name":  "places/ChIJuyhfTVmvQjQRqS9NO23JTKY/reviews/ChdDSUhNMG9nS0VJQ0FnTURJa28ySmlnRRAB",
-                        "relativePublishTimeDescription":  "a year ago",
-                        "rating":  5,
-                        "text":  {
-                                     "text":  "The most delicious burger I’ve ever had in here ,\nService is top notch, highly recommended",
-                                     "languageCode":  "en"
-                                 },
-                        "originalText":  {
-                                             "text":  "The most delicious burger I’ve ever had in here ,\nService is top notch, highly recommended",
-                                             "languageCode":  "en"
-                                         },
-                        "authorAttribution":  {
-                                                  "displayName":  "KaiYin Yang",
-                                                  "uri":  "https://www.google.com/maps/contrib/114446118971848338406/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWwHM3eH6_jcIatFI-C9YzM16LQCF6Ww76iY93TqJijkzeJHNYO=s128-c0x00000000-cc-rp-mo-ba5"
-                                              },
-                        "publishTime":  "2025-04-08T13:14:44.488102Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJa28ySmlnRRAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJa28ySmlnRRAB!2m1!1s0x3442af594d5f28bb:0xa64cc96d3b4d2fa9"
-                    },
-                    {
-                        "name":  "places/ChIJuyhfTVmvQjQRqS9NO23JTKY/reviews/ChdDSUhNMG9nS0VJQ0FnTUNZbWN6QTlRRRAB",
-                        "relativePublishTimeDescription":  "a year ago",
-                        "rating":  5,
-                        "text":  {
-                                     "text":  "Tracy is super helpful and friendly. All the other staff are also cheerful.",
-                                     "languageCode":  "en"
-                                 },
-                        "originalText":  {
-                                             "text":  "Tracy is super helpful and friendly. All the other staff are also cheerful.",
-                                             "languageCode":  "en"
-                                         },
-                        "authorAttribution":  {
-                                                  "displayName":  "Hsiao-Wen Tsao",
-                                                  "uri":  "https://www.google.com/maps/contrib/101829475045333482829/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocKOldbx9fwcUpZpbcdWm5S-SI7iQjNvleQPFe8-I6m9FRMfCA=s128-c0x00000000-cc-rp-mo"
-                                              },
-                        "publishTime":  "2025-05-05T11:25:34.291030Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNZbWN6QTlRRRAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNZbWN6QTlRRRAB!2m1!1s0x3442af594d5f28bb:0xa64cc96d3b4d2fa9"
-                    },
-                    {
                         "name":  "places/ChIJuyhfTVmvQjQRqS9NO23JTKY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxTVVqTmFaRjgwTFVKeE56SkZVMmt3TFVoRGFuYxAB",
-                        "relativePublishTimeDescription":  "3 months ago",
+                        "relativePublishTimeDescription":  "1 個月前",
                         "rating":  4,
                         "text":  {
-                                     "text":  "Afternoon tea is served from 2:30 PM to 5:00 PM.\n\nToday\u0027s reservation was for a two-person afternoon tea set. The menu is fixed; you only need to choose your drinks.\n\nThe menu is roughly as follows, along with some unprofessional comments:\n\nKaya Toast: Tastes a bit like a pineapple bun.\n\nCoconut Snowflake Cake: A layer of white chocolate paired with blueberries; the overall flavor is balanced and not too sweet.\n\nCrispy Balls with Rojak Salad: The salad itself is slightly spicy and contains tamarind; avoid if you don\u0027t like that.\n\nNyonya Shrimp Chili Glutinous Rice Cake: Very fragrant, a bit spicier than the salad, but compared to the salad, it\u0027s probably close to mildly spicy; surprisingly delicious.\n\nIndonesian Beef Noodle Soup: Unlike Hakka Beef Noodle Soup, it\u0027s not sweet. It has a fragrance, but apart from the glutinous rice, the other flavors are somewhat lacking.\n\nSunny Macarons: The macarons were too sweet for me, but the mango filling wasn\u0027t too sweet, which balanced the flavor somewhat.\n\nPineapple Golden Sand Dacquoise: Not sweet, the filling is similar to pineapple cake.\n\nPurple Taro Dance: Looks a bit like chocolate, but it\u0027s actually purple taro. It\u0027s not very sweet and the texture is a bit like a brownie.\n\nNanyang Pandan Pig: Definitely Nanyang style, but a bit overcooked; some parts were a little dry.\n\nP.S. We happened to encounter a photography crew while dining. We all felt that if they were going to photograph passersby, they should have informed them first, rather than using them as a background. Not everyone wants to be on TV… Otherwise, for an afternoon tea experience, the atmosphere would have been 5 stars.",
-                                     "languageCode":  "en-US"
+                                     "text":  "下午茶時間是14:30開始到17:00\n\n今天預定的是雙人下午茶套餐，餐點內容是固定的，只需選擇飲品。\n\n菜單內容大致如下，及不專業評論\n咖央吐司：吃起來有點像冰火菠蘿包。\n椰香雪花糕：有一層白巧克力，搭配藍莓，整體口味不會分散，也不會太甜。\n脆球搭配羅惹沙拉：沙拉本身微辣，有酸豆，不喜歡的記得避開。\n娘惹蝦米辣椒糯米糕：香氣很足，比沙拉再辣一點，以沙拉為基準的話，大概接近小辣，意外的好吃。\n印尼牛文水：與客家牛汶水不同，不甜，香氣是有，但吃起來除了糯米外，其他味道有點帶不上來的樣子。\n艷陽馬卡龍：馬卡龍對我來說還是太甜，不過中間夾的芒果不會太甜，味道算是有點中和。\n鳳梨金沙達克瓦茲：不甜，內餡類似鳳梨酥那種。\n紫芋舞曲：外觀有點像巧克力，但其實是紫芋，本身不太甜，口感有點像布朗尼。\n南洋香蘭豬：妥妥的南洋風，不過有點overcook的感覺，有些部位吃起來稍柴。\n\nps. 用餐時剛好遇到攝影團隊，各人覺得若會拍到用餐的路人，還是要先告知，而非直接把用餐的人當背景，並非所有人都想上電視…不然以下午茶但用餐感覺，氣氛是可以給到5🌟的。",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "下午茶時間是14:30開始到17:00\n\n今天預定的是雙人下午茶套餐，餐點內容是固定的，只需選擇飲品。\n\n菜單內容大致如下，及不專業評論\n咖央吐司：吃起來有點像冰火菠蘿包。\n椰香雪花糕：有一層白巧克力，搭配藍莓，整體口味不會分散，也不會太甜。\n脆球搭配羅惹沙拉：沙拉本身微辣，有酸豆，不喜歡的記得避開。\n娘惹蝦米辣椒糯米糕：香氣很足，比沙拉再辣一點，以沙拉為基準的話，大概接近小辣，意外的好吃。\n印尼牛文水：與客家牛汶水不同，不甜，香氣是有，但吃起來除了糯米外，其他味道有點帶不上來的樣子。\n艷陽馬卡龍：馬卡龍對我來說還是太甜，不過中間夾的芒果不會太甜，味道算是有點中和。\n鳳梨金沙達克瓦茲：不甜，內餡類似鳳梨酥那種。\n紫芋舞曲：外觀有點像巧克力，但其實是紫芋，本身不太甜，口感有點像布朗尼。\n南洋香蘭豬：妥妥的南洋風，不過有點overcook的感覺，有些部位吃起來稍柴。\n\nps. 用餐時剛好遇到攝影團隊，各人覺得若會拍到用餐的路人，還是要先告知，而非直接把用餐的人當背景，並非所有人都想上電視…不然以下午茶但用餐感覺，氣氛是可以給到5🌟的。",
@@ -104,6 +41,90 @@
                         "publishTime":  "2026-02-06T07:35:33.417514995Z",
                         "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxTVVqTmFaRjgwTFVKeE56SkZVMmt3TFVoRGFuYxAB\u0026d=17924085\u0026t=1",
                         "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxTVVqTmFaRjgwTFVKeE56SkZVMmt3TFVoRGFuYxAB!2m1!1s0x3442af594d5f28bb:0xa64cc96d3b4d2fa9"
+                    },
+                    {
+                        "name":  "places/ChIJuyhfTVmvQjQRqS9NO23JTKY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1UVIyRnZMVFJoU1cxWllrMUlkbVEzYjJndGVVRRAB",
+                        "relativePublishTimeDescription":  "2 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "大地西餐廳的套餐前菜表現還不錯，油質與食材都很用心，口感也不錯，給人好的第一印象。但主餐的雞排表現普通，整體餐點沒有特別亮點，如果對餐飲品質有較高期待的人，可能會覺得一般。服務方面，若服務人員能多留意客人是否需要加水或茶飲回沖，整體用餐體驗會更完整。\n\n用餐環境舒適安靜，座位安排合理，適合想找一個安靜空間吃飯或簡單聚餐的人。總體而言，餐點表現一般，但環境與服務還算可接受。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "大地西餐廳的套餐前菜表現還不錯，油質與食材都很用心，口感也不錯，給人好的第一印象。但主餐的雞排表現普通，整體餐點沒有特別亮點，如果對餐飲品質有較高期待的人，可能會覺得一般。服務方面，若服務人員能多留意客人是否需要加水或茶飲回沖，整體用餐體驗會更完整。\n\n用餐環境舒適安靜，座位安排合理，適合想找一個安靜空間吃飯或簡單聚餐的人。總體而言，餐點表現一般，但環境與服務還算可接受。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Berry",
+                                                  "uri":  "https://www.google.com/maps/contrib/109399084910421750827/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUbD9JA-xbiYZRzeHkJeTZkqTzuxVb85XtBdWXW7m1k6cFQbBM=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-12-26T13:07:46.704894727Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1UVIyRnZMVFJoU1cxWllrMUlkbVEzYjJndGVVRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1UVIyRnZMVFJoU1cxWllrMUlkbVEzYjJndGVVRRAB!2m1!1s0x3442af594d5f28bb:0xa64cc96d3b4d2fa9"
+                    },
+                    {
+                        "name":  "places/ChIJuyhfTVmvQjQRqS9NO23JTKY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SVFlubFRRMUo2VVhSNGFURkRlbkp3Y0ZORWJtYxAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "室內環境，衛生整潔，溫馨的氛圍氣氛，美味可口的迷人餐點，愛吃牛肉的我們連續選了同樣的餐點兩天，接待人員及桌邊服務，超級無敵好，整個Fu直線上升，加分了用餐的好心情。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "室內環境，衛生整潔，溫馨的氛圍氣氛，美味可口的迷人餐點，愛吃牛肉的我們連續選了同樣的餐點兩天，接待人員及桌邊服務，超級無敵好，整個Fu直線上升，加分了用餐的好心情。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "阿鈴鈴",
+                                                  "uri":  "https://www.google.com/maps/contrib/105111702232165022138/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXsgWnn_EjQcSRw5XfESzAkDtwq2xnEnJX_GukQS4DKD_ZM0XOk=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-09-30T07:07:56.316503490Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SVFlubFRRMUo2VVhSNGFURkRlbkp3Y0ZORWJtYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SVFlubFRRMUo2VVhSNGFURkRlbkp3Y0ZORWJtYxAB!2m1!1s0x3442af594d5f28bb:0xa64cc96d3b4d2fa9"
+                    },
+                    {
+                        "name":  "places/ChIJuyhfTVmvQjQRqS9NO23JTKY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taSWRFTjNWazVWZEVWdFRUTk5NVlpxU21zdE0wRRAB",
+                        "relativePublishTimeDescription":  "2 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "泡完溫泉來喜歡廳吃下午茶，茶點都很不錯，而且服務人員Tina和Candy很親切，還會主動幫忙拍照，整體飯店的接待氛圍都很親切溫暖。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "泡完溫泉來喜歡廳吃下午茶，茶點都很不錯，而且服務人員Tina和Candy很親切，還會主動幫忙拍照，整體飯店的接待氛圍都很親切溫暖。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "C Y",
+                                                  "uri":  "https://www.google.com/maps/contrib/112420142889714567890/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocJIGuPxf60Ur6EFdfLASZXoIseBGKX-MrktyfRTQJ_qs1UIZ7M=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-12-26T08:14:16.064728894Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taSWRFTjNWazVWZEVWdFRUTk5NVlpxU21zdE0wRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taSWRFTjNWazVWZEVWdFRUTk5NVlpxU21zdE0wRRAB!2m1!1s0x3442af594d5f28bb:0xa64cc96d3b4d2fa9"
+                    },
+                    {
+                        "name":  "places/ChIJuyhfTVmvQjQRqS9NO23JTKY/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2OGNyWDVBRRAB",
+                        "relativePublishTimeDescription":  "1 年前",
+                        "rating":  3,
+                        "text":  {
+                                     "text":  "訂購湯屋+晚餐的組合，要預約時間，泡完溫泉後即可接著，走上二樓用餐。原本吃過下午茶，印象非常好，第一次試晚餐則覺得普通。\n晚間套餐是奇岩套餐，開胃菜碳烤香料松阪豬是個人最喜歡的，口感軟嫩佐檸檬油醋，微甜好吃。義式鮮蝦濃湯正常發揮，海膽風味義式燉飯，奶油有點太濃，壓過其他食材的味道。主菜選擇需要加價300元的舒肥牛小排，熟度還ok，嫩度方面，可能對舒肥作法的期望值比較高，反而是另一份碳烤梅花豬肉排，調理的很是不錯。甜點相當好，不愧是下午茶好吃的餐廳。\n服務人員態度算親切，可能是因為全滿比較忙碌，有上錯餐點的情況，加水也不頻繁要自己，上菜速度慢，一套吃了兩個小時。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "訂購湯屋+晚餐的組合，要預約時間，泡完溫泉後即可接著，走上二樓用餐。原本吃過下午茶，印象非常好，第一次試晚餐則覺得普通。\n晚間套餐是奇岩套餐，開胃菜碳烤香料松阪豬是個人最喜歡的，口感軟嫩佐檸檬油醋，微甜好吃。義式鮮蝦濃湯正常發揮，海膽風味義式燉飯，奶油有點太濃，壓過其他食材的味道。主菜選擇需要加價300元的舒肥牛小排，熟度還ok，嫩度方面，可能對舒肥作法的期望值比較高，反而是另一份碳烤梅花豬肉排，調理的很是不錯。甜點相當好，不愧是下午茶好吃的餐廳。\n服務人員態度算親切，可能是因為全滿比較忙碌，有上錯餐點的情況，加水也不頻繁要自己，上菜速度慢，一套吃了兩個小時。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Jasmine Lin",
+                                                  "uri":  "https://www.google.com/maps/contrib/108842065873529582323/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjV6cNjgVgLIt8SQacM-j8yygQIQpz8MvRuy4IF0BAPGNxST5fJsWA=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2024-12-21T13:13:44.799767Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2OGNyWDVBRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2OGNyWDVBRRAB!2m1!1s0x3442af594d5f28bb:0xa64cc96d3b4d2fa9"
                     }
                 ]
 }

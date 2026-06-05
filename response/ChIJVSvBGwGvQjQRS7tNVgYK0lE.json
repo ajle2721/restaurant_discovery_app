@@ -8,102 +8,123 @@
                   "establishment"
               ],
     "internationalPhoneNumber":  "+886 2 2885 6658",
-    "formattedAddress":  "No. 56號, Lane 80, Section 4, Chengde Rd, Chengde Village, Shilin District, Taipei City, Taiwan 111",
+    "formattedAddress":  "111台灣臺北市士林區承德里承德路四段80巷56號",
     "location":  {
                      "latitude":  25.0833564,
                      "longitude":  121.52153140000001
                  },
     "rating":  4.4,
     "websiteUri":  "https://www.facebook.com/mr.wang.BF",
-    "userRatingCount":  324,
+    "userRatingCount":  322,
     "displayName":  {
                         "text":  "王老先生早餐店 Mr. Wang Breakfast",
                         "languageCode":  "zh-TW"
                     },
     "reviews":  [
                     {
-                        "name":  "places/ChIJVSvBGwGvQjQRS7tNVgYK0lE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WTlRYTnBRelZDT1dOTFowTnZTRFEwY0ZGWGNIYxAB",
-                        "relativePublishTimeDescription":  "7 months ago",
+                        "name":  "places/ChIJVSvBGwGvQjQRS7tNVgYK0lE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KNFZrVXpiMWxoTUhaNk9IVXdkV3d5U1RKMWQxRRAB",
+                        "relativePublishTimeDescription":  "2 個月前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "We just eat in this morning.\nMy son love it. Employee so kind my son don\u0027t drink soy milk. He tell me buy milk in the supermarket \u0026 drink here. Normally, we can\u0027t take other food eat or drink inside. Thank you so much.",
-                                     "languageCode":  "en"
+                                     "text":  "首次來訪，突然有驚艷到\n除了店內員工親切外，餐點真的好特別（外面早餐店吃不到）🥰\n「鹹豬肉」炒的好入味，配上蛋餅一級棒👍推推\n剛剛看到隔壁桌的炸雞排（感覺他們自己做的），真的超大塊，下次一定要吃（標準甲碗內看碗外）😜",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "We just eat in this morning.\nMy son love it. Employee so kind my son don\u0027t drink soy milk. He tell me buy milk in the supermarket \u0026 drink here. Normally, we can\u0027t take other food eat or drink inside. Thank you so much.",
-                                             "languageCode":  "en"
+                                             "text":  "首次來訪，突然有驚艷到\n除了店內員工親切外，餐點真的好特別（外面早餐店吃不到）🥰\n「鹹豬肉」炒的好入味，配上蛋餅一級棒👍推推\n剛剛看到隔壁桌的炸雞排（感覺他們自己做的），真的超大塊，下次一定要吃（標準甲碗內看碗外）😜",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "Nutty LS",
-                                                  "uri":  "https://www.google.com/maps/contrib/114843911579892653281/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVoAUhksHJyxYrEB4C8VNL4pEMsMb1p2hdAcD3GssepeD40zSLf=s128-c0x00000000-cc-rp-mo-ba5"
+                                                  "displayName":  "張舒蓉",
+                                                  "uri":  "https://www.google.com/maps/contrib/116907694908598451020/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWEHiUeaW4ij9lv4ClBfNbJ2LeJBMuLbHXd4f1xMd4oQ8e04Q7X=s128-c0x00000000-cc-rp-mo"
                                               },
-                        "publishTime":  "2025-10-27T03:57:41.884570163Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WTlRYTnBRelZDT1dOTFowTnZTRFEwY0ZGWGNIYxAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WTlRYTnBRelZDT1dOTFowTnZTRFEwY0ZGWGNIYxAB!2m1!1s0x3442af011bc12b55:0x51d20a06564dbb4b"
+                        "publishTime":  "2026-03-08T06:16:47.278187072Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KNFZrVXpiMWxoTUhaNk9IVXdkV3d5U1RKMWQxRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KNFZrVXpiMWxoTUhaNk9IVXdkV3d5U1RKMWQxRRAB!2m1!1s0x3442af011bc12b55:0x51d20a06564dbb4b"
                     },
                     {
-                        "name":  "places/ChIJVSvBGwGvQjQRS7tNVgYK0lE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pJM2JHRlJVbE10VXpCcVgwVjZWakpQTWs0emFGRRAB",
-                        "relativePublishTimeDescription":  "7 months ago",
-                        "rating":  5,
+                        "name":  "places/ChIJVSvBGwGvQjQRS7tNVgYK0lE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KTlpuUTRiVFZHV0c1S1JVcENZMVJRYkROaldVRRAB",
+                        "relativePublishTimeDescription":  "6 個月前",
+                        "rating":  4,
                         "text":  {
-                                     "text":  "The menu is voluminous. There are classic taiwanese dishes and Western dishes. I prefer the thick beef patty peanutbutter hamburger combo. The meat is of excellent quality and mouthfeel!\n\nService is prompt and kind, although I am an illiterate foreigner...\n\nThe atmosphere is fresh and friendly. The place is bright and clean.\n\nIts an ideal neighborhood spot and worth visiting if you are in the area for breakfast or brunch.",
-                                     "languageCode":  "en"
+                                     "text":  "王老先生早餐店深受在地人喜歡，常常座無虛席，餐點也還行，綜合這幾次，點了花生牛肉起士堡，這個覺得普通，蟹肉青醬鐵板麵倒是有讓我驚艷到，很夠味，如果料再多一些，我覺得很可以喔，泡菜培根鐵板麵料很足，但泡菜偏甜，不辣，是小孩可以接受的口味，和風里肌起士總匯份量很足，上面鋪灑的柴魚讓人感受到店家巧思，美中不足的是常要等待🥰",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "The menu is voluminous. There are classic taiwanese dishes and Western dishes. I prefer the thick beef patty peanutbutter hamburger combo. The meat is of excellent quality and mouthfeel!\n\nService is prompt and kind, although I am an illiterate foreigner...\n\nThe atmosphere is fresh and friendly. The place is bright and clean.\n\nIts an ideal neighborhood spot and worth visiting if you are in the area for breakfast or brunch.",
-                                             "languageCode":  "en"
+                                             "text":  "王老先生早餐店深受在地人喜歡，常常座無虛席，餐點也還行，綜合這幾次，點了花生牛肉起士堡，這個覺得普通，蟹肉青醬鐵板麵倒是有讓我驚艷到，很夠味，如果料再多一些，我覺得很可以喔，泡菜培根鐵板麵料很足，但泡菜偏甜，不辣，是小孩可以接受的口味，和風里肌起士總匯份量很足，上面鋪灑的柴魚讓人感受到店家巧思，美中不足的是常要等待🥰",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "Fredrick Henley",
-                                                  "uri":  "https://www.google.com/maps/contrib/103238638350190558321/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocKy7J_6ITHs2EWGH_bEQ463k3nCTKUSkgCmUdtzxzYro4BrMw=s128-c0x00000000-cc-rp-mo-ba2"
+                                                  "displayName":  "yueh mimi",
+                                                  "uri":  "https://www.google.com/maps/contrib/118241379356250118614/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUvXxXmVBEko1tRh4yeJRhY__A-s6qgC7c7xIkTcUO2XD3pfyby=s128-c0x00000000-cc-rp-mo"
                                               },
-                        "publishTime":  "2025-10-15T10:33:02.986757559Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pJM2JHRlJVbE10VXpCcVgwVjZWakpQTWs0emFGRRAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pJM2JHRlJVbE10VXpCcVgwVjZWakpQTWs0emFGRRAB!2m1!1s0x3442af011bc12b55:0x51d20a06564dbb4b"
+                        "publishTime":  "2025-11-18T00:09:20.694148174Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KTlpuUTRiVFZHV0c1S1JVcENZMVJRYkROaldVRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KTlpuUTRiVFZHV0c1S1JVcENZMVJRYkROaldVRRAB!2m1!1s0x3442af011bc12b55:0x51d20a06564dbb4b"
                     },
                     {
-                        "name":  "places/ChIJVSvBGwGvQjQRS7tNVgYK0lE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYM3ZUZm1BRRAB",
-                        "relativePublishTimeDescription":  "a year ago",
-                        "rating":  5,
+                        "name":  "places/ChIJVSvBGwGvQjQRS7tNVgYK0lE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OSk4ySkpVRVZSV1RocVdYcHhZM1ZGTkhSQ1FXYxAB",
+                        "relativePublishTimeDescription":  "7 個月前",
+                        "rating":  4,
                         "text":  {
-                                     "text":  "Great spot, clean and fresh food. It has all the menu items you expect from a Taiwanese breakfast spot, but the lighting and decor details, and with the music playing, the experience is elevated to more of a brunch feel. I drank my soy milk from a mug and I can\u0027t remember the last time I did that",
-                                     "languageCode":  "en"
+                                     "text":  "為了豆漿紅茶二訪的，點過漢堡、蛋餅、鐵板烏龍麵，餐點水準有中上但價格偏貴，不過店面明亮乾淨，裝飾很多ちいかわ。真的覺得現在在台灣做這種快餐，明亮乾淨的店面才是最難得的。",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "Great spot, clean and fresh food. It has all the menu items you expect from a Taiwanese breakfast spot, but the lighting and decor details, and with the music playing, the experience is elevated to more of a brunch feel. I drank my soy milk from a mug and I can\u0027t remember the last time I did that",
-                                             "languageCode":  "en"
+                                             "text":  "為了豆漿紅茶二訪的，點過漢堡、蛋餅、鐵板烏龍麵，餐點水準有中上但價格偏貴，不過店面明亮乾淨，裝飾很多ちいかわ。真的覺得現在在台灣做這種快餐，明亮乾淨的店面才是最難得的。",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "Kris Oprisch",
-                                                  "uri":  "https://www.google.com/maps/contrib/110867567579583961189/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVr_C4Wsmz6wSRihEX8TwOjinIJGSCHsbd9Jr3D1F7gZT24CUI=s128-c0x00000000-cc-rp-mo-ba4"
+                                                  "displayName":  "Jean",
+                                                  "uri":  "https://www.google.com/maps/contrib/101576931674490960249/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXY7HFSUNXPzlVQRdHJT2MxT2rc_cBybvHLREwIrgKEN09uyIr21Q=s128-c0x00000000-cc-rp-mo-ba5"
                                               },
-                        "publishTime":  "2024-10-17T00:50:17.019191Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYM3ZUZm1BRRAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYM3ZUZm1BRRAB!2m1!1s0x3442af011bc12b55:0x51d20a06564dbb4b"
+                        "publishTime":  "2025-10-20T04:08:17.314330026Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OSk4ySkpVRVZSV1RocVdYcHhZM1ZGTkhSQ1FXYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OSk4ySkpVRVZSV1RocVdYcHhZM1ZGTkhSQ1FXYxAB!2m1!1s0x3442af011bc12b55:0x51d20a06564dbb4b"
                     },
                     {
-                        "name":  "places/ChIJVSvBGwGvQjQRS7tNVgYK0lE/reviews/ChdDSUhNMG9nS0VJQ0FnSURQaXZtUm1RRRAB",
-                        "relativePublishTimeDescription":  "a year ago",
+                        "name":  "places/ChIJVSvBGwGvQjQRS7tNVgYK0lE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5VVJtZGFNRXhNYTI5dE1WUjJOREJ5ZFVaVlYwRRAB",
+                        "relativePublishTimeDescription":  "3 個月前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "Lovely mini pancakes. Owners don\u0027t speak much English hence when I asked for Maple, they gave me 莓sauce.  Beef was a bit dry but love the combination of peanut butter in a burger. Must sit outside if not you will smell throughout the day.",
-                                     "languageCode":  "en"
+                                     "text":  "環：靠近劍潭捷運站。店內容客數少，需排隊等待。戶外區有2桌，但車流也不少，會有味道且廚房排氣味也會聞到。\n餐：花生牛肉堡套餐，很大份但不想沾手，則刀叉用力的優雅的解決了😂。",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "Lovely mini pancakes. Owners don\u0027t speak much English hence when I asked for Maple, they gave me 莓sauce.  Beef was a bit dry but love the combination of peanut butter in a burger. Must sit outside if not you will smell throughout the day.",
-                                             "languageCode":  "en"
+                                             "text":  "環：靠近劍潭捷運站。店內容客數少，需排隊等待。戶外區有2桌，但車流也不少，會有味道且廚房排氣味也會聞到。\n餐：花生牛肉堡套餐，很大份但不想沾手，則刀叉用力的優雅的解決了😂。",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "James Lee",
-                                                  "uri":  "https://www.google.com/maps/contrib/112102871756682636204/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVECM9A4vHIzbfZsTh7JZ0BiU7qOn09l-sRWZrmEBEYT97jzwrr9g=s128-c0x00000000-cc-rp-mo-ba4"
+                                                  "displayName":  "Bina chan",
+                                                  "uri":  "https://www.google.com/maps/contrib/108495752725879645592/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXQsCX3Ez-3CVf8L2MLOnWjyWqExjUyTGyd1hv-y-JjbvLBEQ7g=s128-c0x00000000-cc-rp-mo-ba5"
                                               },
-                        "publishTime":  "2024-12-01T01:40:12.286523Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQaXZtUm1RRRAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQaXZtUm1RRRAB!2m1!1s0x3442af011bc12b55:0x51d20a06564dbb4b"
+                        "publishTime":  "2026-01-31T16:41:11.740114821Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5VVJtZGFNRXhNYTI5dE1WUjJOREJ5ZFVaVlYwRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5VVJtZGFNRXhNYTI5dE1WUjJOREJ5ZFVaVlYwRRAB!2m1!1s0x3442af011bc12b55:0x51d20a06564dbb4b"
+                    },
+                    {
+                        "name":  "places/ChIJVSvBGwGvQjQRS7tNVgYK0lE/reviews/Ci9DQUlRQUNvZENodHljRjlvT214bVNIWkhOMDVITFZwS1oxWm9Va1ZpYjJKZlRsRRAB",
+                        "relativePublishTimeDescription":  "6 個月前",
+                        "rating":  2,
+                        "text":  {
+                                     "text":  "今天一早，到店點了一份法式厚片鹹豬肉盤餐，價格是145元，原本是滿心期待，因為上次造訪留下不錯的印象。\n店家生意很好，而且也正好是尖峰時段，所以等的時間比較久，可以理解。真正失望的是回到家打開餐盒，發現只有三條吐司加非常少的炒鹹豬肉，當下真的是仰天長嘆。個人認為是連小鳥胃都吃不飽的程度，更不覺得單純吐司加鹹豬肉可以稱之為盤餐（喔對還有兩小塊地瓜），配上145的價格，儘管味道中規中矩，還是難以接受。\n覺得非常空虛與落寞。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "今天一早，到店點了一份法式厚片鹹豬肉盤餐，價格是145元，原本是滿心期待，因為上次造訪留下不錯的印象。\n店家生意很好，而且也正好是尖峰時段，所以等的時間比較久，可以理解。真正失望的是回到家打開餐盒，發現只有三條吐司加非常少的炒鹹豬肉，當下真的是仰天長嘆。個人認為是連小鳥胃都吃不飽的程度，更不覺得單純吐司加鹹豬肉可以稱之為盤餐（喔對還有兩小塊地瓜），配上145的價格，儘管味道中規中矩，還是難以接受。\n覺得非常空虛與落寞。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Lihen Chu",
+                                                  "uri":  "https://www.google.com/maps/contrib/105576340436894252110/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjW9ewO4v6GR_Ydv_qykNgQTydtcH97GQsZ0HRELAZhU7tYLG8xW=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2025-11-18T07:19:16.131707518Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214bVNIWkhOMDVITFZwS1oxWm9Va1ZpYjJKZlRsRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214bVNIWkhOMDVITFZwS1oxWm9Va1ZpYjJKZlRsRRAB!2m1!1s0x3442af011bc12b55:0x51d20a06564dbb4b"
                     }
                 ]
 }

@@ -7,7 +7,7 @@
                   "point_of_interest",
                   "establishment"
               ],
-    "formattedAddress":  "No. 55號, Section 5, Chengde Rd, Fujia Village, Shilin District, Taipei City, Taiwan 111",
+    "formattedAddress":  "111台灣臺北市士林區福佳里承德路五段55號",
     "location":  {
                      "latitude":  25.097975299999998,
                      "longitude":  121.51518899999998
@@ -21,11 +21,11 @@
     "reviews":  [
                     {
                         "name":  "places/ChIJJXfzUy-vQjQRnDMCtQN-g_U/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKTlVVaFVXWEpJVERCUmNVNUdUelJaU1VkMk5YYxAB",
-                        "relativePublishTimeDescription":  "9 months ago",
+                        "relativePublishTimeDescription":  "9 個月前",
                         "rating":  1,
                         "text":  {
-                                     "text":  "The counter staff were absurd. They said they gave me a receipt when they didn\u0027t, and they said they didn\u0027t give me a vibrator when they did. There were also problems with the payment. They even gave me rice instead of noodles. My child was hungry for half an hour. The food was terrible and the portions were small. It\u0027s not worth 159 yuan at all.",
-                                     "languageCode":  "en-US"
+                                     "text":  "櫃臺人員很荒謬\n明細沒給說有給\n震動器給了說沒給\n收費也出問題\n麵還變飯\n小孩餓了半小時\n食物又難吃\n量又少\n159根本不值得",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "櫃臺人員很荒謬\n明細沒給說有給\n震動器給了說沒給\n收費也出問題\n麵還變飯\n小孩餓了半小時\n食物又難吃\n量又少\n159根本不值得",
@@ -42,11 +42,11 @@
                     },
                     {
                         "name":  "places/ChIJJXfzUy-vQjQRnDMCtQN-g_U/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kRVlYcE1kMWMxWlZONGExbHRaR050UTB3elMxRRAB",
-                        "relativePublishTimeDescription":  "6 months ago",
+                        "relativePublishTimeDescription":  "6 個月前",
                         "rating":  1,
                         "text":  {
-                                     "text":  "As expected of an amusement park restaurant, the food was truly awful.\nThe rice was hard, and the dishes were barely seasoned; you could only taste the raw flavor of the vegetables.\nThis is a no-go. Unless you\u0027re starving, consider other options.",
-                                     "languageCode":  "en-US"
+                                     "text":  "不愧是遊樂園的餐廳 真的是有夠難吃\n飯很硬 菜也基本沒調味 只吃到菜原本的味道\n已經排雷了 除非你們飢不擇食 不然可以考慮別家了",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "不愧是遊樂園的餐廳 真的是有夠難吃\n飯很硬 菜也基本沒調味 只吃到菜原本的味道\n已經排雷了 除非你們飢不擇食 不然可以考慮別家了",
@@ -60,6 +60,71 @@
                         "publishTime":  "2025-11-09T06:13:36.847721080Z",
                         "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kRVlYcE1kMWMxWlZONGExbHRaR050UTB3elMxRRAB\u0026d=17924085\u0026t=1",
                         "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kRVlYcE1kMWMxWlZONGExbHRaR050UTB3elMxRRAB!2m1!1s0x3442af2f53f37725:0xf5837e03b502339c"
+                    },
+                    {
+                        "name":  "places/ChIJJXfzUy-vQjQRnDMCtQN-g_U/reviews/ChZDSUhNMG9nS0VJQ0FnSUNqajVHcmNREAE",
+                        "relativePublishTimeDescription":  "2 年前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "在兒童新樂園裡面，小朋友吃兒童餐，大人可以吃這個圖片的餐點，CP值高",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "在兒童新樂園裡面，小朋友吃兒童餐，大人可以吃這個圖片的餐點，CP值高",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Tony Lin",
+                                                  "uri":  "https://www.google.com/maps/contrib/105620123930330050721/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWIeUqiJn786RBVGw2f4nepa8IGwAqXI1m8JiL5NERUepAemYiX6A=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2024-04-27T05:12:38.044789Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNqajVHcmNREAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNqajVHcmNREAE!2m1!1s0x3442af2f53f37725:0xf5837e03b502339c"
+                    },
+                    {
+                        "name":  "places/ChIJJXfzUy-vQjQRnDMCtQN-g_U/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUeHJfUmN3EAE",
+                        "relativePublishTimeDescription":  "2 年前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "一號餐份量很夠 物超所值",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "一號餐份量很夠 物超所值",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Cora",
+                                                  "uri":  "https://www.google.com/maps/contrib/107192457741121157082/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXUriE3z_5amukolS0ccFSvJ4XZAX63IDEArPMlFj-O_uAOUtWT=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2024-05-14T05:33:15.757857Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNUeHJfUmN3EAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNUeHJfUmN3EAE!2m1!1s0x3442af2f53f37725:0xf5837e03b502339c"
+                    },
+                    {
+                        "name":  "places/ChIJJXfzUy-vQjQRnDMCtQN-g_U/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxa2ZtRENBEAE",
+                        "relativePublishTimeDescription":  "2 年前",
+                        "rating":  1,
+                        "text":  {
+                                     "text":  "壓單不送狂做內用不懂到底在幹什麼\n只會按著順序出餐 人少不夠不是這樣處理吧？\n雞塊薯條到底是怎樣不能一起炸非得壓單壓到一個雞塊薯條可以等一小時 老闆是不是該檢討一下",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "壓單不送狂做內用不懂到底在幹什麼\n只會按著順序出餐 人少不夠不是這樣處理吧？\n雞塊薯條到底是怎樣不能一起炸非得壓單壓到一個雞塊薯條可以等一小時 老闆是不是該檢討一下",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Recall",
+                                                  "uri":  "https://www.google.com/maps/contrib/110400998566097147777/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocKWcpYhk2kRAEnVIF2nKb3_zNvhlGhgOIm8i6CIVhcoh1SbQg=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2023-12-31T10:29:55.704480Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMxa2ZtRENBEAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMxa2ZtRENBEAE!2m1!1s0x3442af2f53f37725:0xf5837e03b502339c"
                     }
-                ]
+                ],
+    "menuForChildren":  false,
+    "goodForChildren":  true
 }

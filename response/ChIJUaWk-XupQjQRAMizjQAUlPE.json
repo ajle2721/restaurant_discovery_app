@@ -8,7 +8,7 @@
                   "establishment"
               ],
     "internationalPhoneNumber":  "+886 2 2341 0009",
-    "formattedAddress":  "No. 5-6號, Lane 48, Section 2, Jinan Rd, Xingshi Village, Zhongzheng District, Taipei City, Taiwan 100",
+    "formattedAddress":  "100台灣臺北市中正區幸市里濟南路二段48巷5-6號",
     "location":  {
                      "latitude":  25.0398823,
                      "longitude":  121.53100579999999
@@ -22,11 +22,11 @@
     "reviews":  [
                     {
                         "name":  "places/ChIJUaWk-XupQjQRAMizjQAUlPE/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GWlZsTlZNRTlKVkRKRGJEWm9Va3hIWm1wNFFXYxAB",
-                        "relativePublishTimeDescription":  "2 months ago",
+                        "relativePublishTimeDescription":  "2 個月前",
                         "rating":  4,
                         "text":  {
-                                     "text":  "This breakfast place is delicious! I ordered the original and cheese omelets and soy milk! So good! It\u0027s crowded in the morning, so you\u0027ll have to wait a bit. Reasonable prices! Highly recommended!",
-                                     "languageCode":  "en-US"
+                                     "text":  "這一家早餐店好吃！點了原味和芝士蛋餅和豆漿！好好吃呀！早上人多，要稍等一會兒。價格合理！推薦！",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "這一家早餐店好吃！點了原味和芝士蛋餅和豆漿！好好吃呀！早上人多，要稍等一會兒。價格合理！推薦！",
@@ -42,33 +42,12 @@
                         "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GWlZsTlZNRTlKVkRKRGJEWm9Va3hIWm1wNFFXYxAB!2m1!1s0x3442a97bf9a4a551:0xf19414008db3c800"
                     },
                     {
-                        "name":  "places/ChIJUaWk-XupQjQRAMizjQAUlPE/reviews/ChdDSUhNMG9nS0VJQ0FnSUR2bXQyRHFnRRAB",
-                        "relativePublishTimeDescription":  "a year ago",
-                        "rating":  4,
-                        "text":  {
-                                     "text":  "This is an old couple\u0027s restaurant.\nThey were quite friendly.\nThe toast was delicious.\nThe coffee isn\u0027t Americano, mind you.\nThe cola is bland.\nQuite a few locals come here.\nIt has a nice local atmosphere.\nThe prices are really reasonable.\nIt\u0027s great for a light breakfast.\nIt\u0027s very affordable.",
-                                     "languageCode":  "en-US"
-                                 },
-                        "originalText":  {
-                                             "text":  "노부부의 식당입니다.\n꽤나 친절했습니다.\n토스트 맛있습니다.\n커피는 아메리카노 아닙니다.참고하세요.\n콜라는 밍밍합니다.\n현지인 분들 꽤 오십니다.\n로컬분위기 좋습니다.\n가격 정말 착합니다.\n가벼운 아침식사로 좋습니다.\n아주 저렴합니다.",
-                                             "languageCode":  "ko"
-                                         },
-                        "authorAttribution":  {
-                                                  "displayName":  "추헌석",
-                                                  "uri":  "https://www.google.com/maps/contrib/107474368840712858883/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocLoTilXiIBWKrvyMpMYj43iaWlkKPo7mgChtmH1-r_BV1PlwQ=s128-c0x00000000-cc-rp-mo-ba4"
-                                              },
-                        "publishTime":  "2024-12-19T16:47:47.817668Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR2bXQyRHFnRRAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR2bXQyRHFnRRAB!2m1!1s0x3442a97bf9a4a551:0xf19414008db3c800"
-                    },
-                    {
                         "name":  "places/ChIJUaWk-XupQjQRAMizjQAUlPE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WaVh6UktRa3hUVm1GUFFrNVpia1V6VWxoa1ZtYxAB",
-                        "relativePublishTimeDescription":  "9 months ago",
+                        "relativePublishTimeDescription":  "9 個月前",
                         "rating":  4,
                         "text":  {
-                                     "text":  "The breakfast shop in the alley has a wide variety of options and is air-conditioned.",
-                                     "languageCode":  "en-US"
+                                     "text":  "巷子裡的早餐店，選項很豐富，室內有冷氣。",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "巷子裡的早餐店，選項很豐富，室內有冷氣。",
@@ -82,6 +61,69 @@
                         "publishTime":  "2025-08-22T08:00:44.242294839Z",
                         "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WaVh6UktRa3hUVm1GUFFrNVpia1V6VWxoa1ZtYxAB\u0026d=17924085\u0026t=1",
                         "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WaVh6UktRa3hUVm1GUFFrNVpia1V6VWxoa1ZtYxAB!2m1!1s0x3442a97bf9a4a551:0xf19414008db3c800"
+                    },
+                    {
+                        "name":  "places/ChIJUaWk-XupQjQRAMizjQAUlPE/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oc09EYzFTelp0YzBsd1JtSmFhR1ZOWTBNd1VuYxAB",
+                        "relativePublishTimeDescription":  "6 個月前",
+                        "rating":  1,
+                        "text":  {
+                                     "text":  "去過很多次\n也因為老闆娘都會熱情\n與客人互動招呼\n但某部分\n還是希望店家多留意\n前面一兩次還好\n就覺得算了\n第三次了就覺得\n’多了‘\n每次給錢不是少找\n不然就是一樣餐點\n去吃都是不同價格\n不太老實",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "去過很多次\n也因為老闆娘都會熱情\n與客人互動招呼\n但某部分\n還是希望店家多留意\n前面一兩次還好\n就覺得算了\n第三次了就覺得\n’多了‘\n每次給錢不是少找\n不然就是一樣餐點\n去吃都是不同價格\n不太老實",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Lip",
+                                                  "uri":  "https://www.google.com/maps/contrib/104587782088706354334/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXelQdW9uyBPz0Mj6w7fUtT5MEycGuLNyjJFSLDL9a3SwpQT5GZ=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-11-07T04:52:32.275764356Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oc09EYzFTelp0YzBsd1JtSmFhR1ZOWTBNd1VuYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oc09EYzFTelp0YzBsd1JtSmFhR1ZOWTBNd1VuYxAB!2m1!1s0x3442a97bf9a4a551:0xf19414008db3c800"
+                    },
+                    {
+                        "name":  "places/ChIJUaWk-XupQjQRAMizjQAUlPE/reviews/ChdDSUhNMG9nS0VJQ0FnSURfcFp5cnVRRRAB",
+                        "relativePublishTimeDescription":  "1 年前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "蘿蔔糕 ：\n很嫩好吃，辣椒抄辣，但很香很搭\n\n歐姆蛋 ：\n料多還不錯\n\n古早麵 ：\n好吃",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "蘿蔔糕 ：\n很嫩好吃，辣椒抄辣，但很香很搭\n\n歐姆蛋 ：\n料多還不錯\n\n古早麵 ：\n好吃",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "L",
+                                                  "uri":  "https://www.google.com/maps/contrib/102324692089946960732/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocKzJ7Hjfu6iTcC5u3qWoXVhvIoG3rB0DWo5Y18vvURGbeZxvjI=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-01-25T17:56:10.445261Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfcFp5cnVRRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfcFp5cnVRRRAB!2m1!1s0x3442a97bf9a4a551:0xf19414008db3c800"
+                    },
+                    {
+                        "name":  "places/ChIJUaWk-XupQjQRAMizjQAUlPE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNzei1YQWd3RRAB",
+                        "relativePublishTimeDescription":  "6 年前",
+                        "rating":  2,
+                        "text":  {
+                                     "text":  "點了推薦的蛋餅- 鮪魚蛋餅 35\n做好時 聞起來好香 外帶拿在手上時 也感受到一陣陣飄來的香味。\n一吃其實有點失望，就是普通的一般早餐蛋餅。\n蛋餅皮沒有特別香 也薄薄的 鮪魚配一點點玉米 就那樣囉~ 鮪魚量也一般 不是太多\n若是在附近需要果腹 可吃。特地來吃就不必了",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "點了推薦的蛋餅- 鮪魚蛋餅 35\n做好時 聞起來好香 外帶拿在手上時 也感受到一陣陣飄來的香味。\n一吃其實有點失望，就是普通的一般早餐蛋餅。\n蛋餅皮沒有特別香 也薄薄的 鮪魚配一點點玉米 就那樣囉~ 鮪魚量也一般 不是太多\n若是在附近需要果腹 可吃。特地來吃就不必了",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Amber Chang",
+                                                  "uri":  "https://www.google.com/maps/contrib/109509165110116020996/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocKxYkLDiltgHwAOEyf9RgGdM1kBuCPRIKfObqMnY2qAm98ONg=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2020-02-18T09:39:36.100780Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNzei1YQWd3RRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNzei1YQWd3RRAB!2m1!1s0x3442a97bf9a4a551:0xf19414008db3c800"
                     }
                 ]
 }

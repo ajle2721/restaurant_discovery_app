@@ -1,68 +1,131 @@
 ﻿{
     "id":  "ChIJ5SSP_XWrQjQRC_HHQ6igu0g",
     "types":  [
-                  "japanese_restaurant",
                   "food_store",
+                  "japanese_restaurant",
                   "restaurant",
                   "food",
-                  "store",
                   "point_of_interest",
+                  "store",
                   "establishment"
               ],
     "internationalPhoneNumber":  "+886 2 8786 0518",
-    "formattedAddress":  "110, Taiwan, Taipei City, Xinyi District, Xinglong Village, Lane 42, Yixian Rd, 17號1樓",
+    "formattedAddress":  "110台灣臺北市信義區興隆里逸仙路42巷17號1樓",
     "location":  {
                      "latitude":  25.040281,
                      "longitude":  121.56288939999999
                  },
     "rating":  4.5,
-    "userRatingCount":  1507,
+    "userRatingCount":  1502,
     "displayName":  {
                         "text":  "HANNA Pasta Café パスタ カフェ",
                         "languageCode":  "zh-TW"
                     },
     "reviews":  [
                     {
-                        "name":  "places/ChIJ5SSP_XWrQjQRC_HHQ6igu0g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOSFMzQTFVRTUwYUZWdGNsVnJRVWRJTWpSR05tYxAB",
-                        "relativePublishTimeDescription":  "8 months ago",
-                        "rating":  5,
+                        "name":  "places/ChIJ5SSP_XWrQjQRC_HHQ6igu0g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaUmVXWmpVVGRxT0RSRloxaE5VMHhJTW1ST1pGRRAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  4,
                         "text":  {
-                                     "text":  "Visited in September 2025.\nTaiwan 🇹🇼 Taipei.\n\nSpotted from our hotel window, I checked reviews and decided to visit. Hanna is a small pasta restaurant; reservations are needed for dinner.\n\nFOOD:\n\nThe menu focuses on pasta and small appetizers. For lunch, I chose their signature mentaiko carbonara. The pasta was perfectly al dente, smooth, and soaked up the sauce well. The sauce was rich, creamy, with a slightly oily texture, balanced beautifully with salt and spices. The bacon was crispy and well-cooked, and the mentaiko added an intriguing, flavorful finish. The battered oyster appetizer was solid—crisp, non-greasy batter paired nicely with a complementary tartar sauce.\n\nSERVICE:\n\nService was good, though you order at the counter. Waitstaff were friendly and attentive.\n\nVERDICT:\n\nHanna is an excellent pasta bar, likely experts in noodle dishes—you can’t go wrong choosing one. Book ahead for dinner as it’s small. We had a great time.",
-                                     "languageCode":  "en"
+                                     "text":  "平日晚上前往用餐，沒有訂位，17:30抵達時店內已經客滿，幾乎都是事先預約的客人。幸運的是剛好有人取消，才得以入座。不過因為第二波訂位的關係，用餐時間僅限 1 小時，稍微有些緊迫。\n建議大家若想來用餐，最好提前訂位，才能安心享受。\n\n【交通】\n從捷運市政府站步行約 7 分鐘。\n\n【餐點】\n🍝柚子胡椒雞肉義大利麵\n這道麵食是當天的亮點。\n麵條口感彈牙，柚子胡椒特有的柑橘清香與微微辛香料的刺激恰到好處，與雞肉的鮮嫩相互融合，吃起來清爽不膩。這種和風義大利麵的風格，既保留了日式的清新感，又有義大利麵的飽足感。\n這道料理很適合不喜歡厚重奶油或番茄醬的人，口味清新卻不單調，吃到最後依然覺得舒服。\n\n🍽️肉醬歐姆蛋燉飯\n對女生而言份量非常很飽足，歐姆蛋柔軟滑嫩，搭配濃厚的肉醬燉飯，冬天剛好適合這樣濃郁的餐點，但可能對我而言因為份量比較大，後段容易覺得膩。適合喜歡濃郁口感的人，但若食量不大，可以與朋友分食。\n\n🍗和風炸雞\n外皮酥脆，裡面肉質還算多汁，調味中規中矩，屬於穩妥的好吃。搭配的塔塔醬也是中規中矩，雖然不算驚艷，但作為配菜很合適。\n\n🍹薑汁檸檬汽水\n飲品清爽解膩，薑味淡淡的，檸檬酸度剛好，搭配主食能讓口腔重新清新。\n\n🍸海鹽氣泡水\n簡單定番，帶有一點鹹味的氣泡水讓人覺得新鮮，適合不想喝甜飲的人。\n\n【環境】\n店內空間不算大，裝潢以白色為主，搭配少量藍色和異材質內裝潢點綴，整體氛圍清新明亮，不會過於華麗，溫暖有質感，讓人覺得舒適自在。\n桌椅間距適中，不會太擁擠，適合朋友聚餐或情侶約會。\n\n平日晚上依舊客滿，可見人氣很高。\n餐點有特色，環境舒適，交通方便，很適合下班後與朋友或家人一起來用餐。",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "Visited in September 2025.\nTaiwan 🇹🇼 Taipei.\n\nSpotted from our hotel window, I checked reviews and decided to visit. Hanna is a small pasta restaurant; reservations are needed for dinner.\n\nFOOD:\n\nThe menu focuses on pasta and small appetizers. For lunch, I chose their signature mentaiko carbonara. The pasta was perfectly al dente, smooth, and soaked up the sauce well. The sauce was rich, creamy, with a slightly oily texture, balanced beautifully with salt and spices. The bacon was crispy and well-cooked, and the mentaiko added an intriguing, flavorful finish. The battered oyster appetizer was solid—crisp, non-greasy batter paired nicely with a complementary tartar sauce.\n\nSERVICE:\n\nService was good, though you order at the counter. Waitstaff were friendly and attentive.\n\nVERDICT:\n\nHanna is an excellent pasta bar, likely experts in noodle dishes—you can’t go wrong choosing one. Book ahead for dinner as it’s small. We had a great time.",
-                                             "languageCode":  "en"
+                                             "text":  "平日晚上前往用餐，沒有訂位，17:30抵達時店內已經客滿，幾乎都是事先預約的客人。幸運的是剛好有人取消，才得以入座。不過因為第二波訂位的關係，用餐時間僅限 1 小時，稍微有些緊迫。\n建議大家若想來用餐，最好提前訂位，才能安心享受。\n\n【交通】\n從捷運市政府站步行約 7 分鐘。\n\n【餐點】\n🍝柚子胡椒雞肉義大利麵\n這道麵食是當天的亮點。\n麵條口感彈牙，柚子胡椒特有的柑橘清香與微微辛香料的刺激恰到好處，與雞肉的鮮嫩相互融合，吃起來清爽不膩。這種和風義大利麵的風格，既保留了日式的清新感，又有義大利麵的飽足感。\n這道料理很適合不喜歡厚重奶油或番茄醬的人，口味清新卻不單調，吃到最後依然覺得舒服。\n\n🍽️肉醬歐姆蛋燉飯\n對女生而言份量非常很飽足，歐姆蛋柔軟滑嫩，搭配濃厚的肉醬燉飯，冬天剛好適合這樣濃郁的餐點，但可能對我而言因為份量比較大，後段容易覺得膩。適合喜歡濃郁口感的人，但若食量不大，可以與朋友分食。\n\n🍗和風炸雞\n外皮酥脆，裡面肉質還算多汁，調味中規中矩，屬於穩妥的好吃。搭配的塔塔醬也是中規中矩，雖然不算驚艷，但作為配菜很合適。\n\n🍹薑汁檸檬汽水\n飲品清爽解膩，薑味淡淡的，檸檬酸度剛好，搭配主食能讓口腔重新清新。\n\n🍸海鹽氣泡水\n簡單定番，帶有一點鹹味的氣泡水讓人覺得新鮮，適合不想喝甜飲的人。\n\n【環境】\n店內空間不算大，裝潢以白色為主，搭配少量藍色和異材質內裝潢點綴，整體氛圍清新明亮，不會過於華麗，溫暖有質感，讓人覺得舒適自在。\n桌椅間距適中，不會太擁擠，適合朋友聚餐或情侶約會。\n\n平日晚上依舊客滿，可見人氣很高。\n餐點有特色，環境舒適，交通方便，很適合下班後與朋友或家人一起來用餐。",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "Olga May",
-                                                  "uri":  "https://www.google.com/maps/contrib/115207779192310134154/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjV4tqYRsglYsLw0fXehB_S7Kk6KxkgSw5Rf9KIn6vZApiosoKRt=s128-c0x00000000-cc-rp-mo-ba6"
+                                                  "displayName":  "許キョ",
+                                                  "uri":  "https://www.google.com/maps/contrib/110491781100890328169/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWD_CAlwuo51y-ENLpGCDBiMCC-Ozd5PBxegOUNMTtPobZHHUhW=s128-c0x00000000-cc-rp-mo-ba5"
                                               },
-                        "publishTime":  "2025-09-24T13:36:02.231976158Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOSFMzQTFVRTUwYUZWdGNsVnJRVWRJTWpSR05tYxAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOSFMzQTFVRTUwYUZWdGNsVnJRVWRJTWpSR05tYxAB!2m1!1s0x3442ab75fd8f24e5:0x48bba0a843c7f10b"
+                        "publishTime":  "2026-01-20T02:49:30.082695991Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaUmVXWmpVVGRxT0RSRloxaE5VMHhJTW1ST1pGRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaUmVXWmpVVGRxT0RSRloxaE5VMHhJTW1ST1pGRRAB!2m1!1s0x3442ab75fd8f24e5:0x48bba0a843c7f10b"
                     },
                     {
-                        "name":  "places/ChIJ5SSP_XWrQjQRC_HHQ6igu0g/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzbUlUMHhBRRAB",
-                        "relativePublishTimeDescription":  "a year ago",
+                        "name":  "places/ChIJ5SSP_XWrQjQRC_HHQ6igu0g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tadk1VaFZha3hoU1U1V2NVTkxTRkJNWjFWVVpXYxAB",
+                        "relativePublishTimeDescription":  "3 個月前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "Came here for lunch at around 2pm and it was crowded but managed to get a seat quickly. It is a chic Japanese restaurant and popular with ladies and couples!\n\nFood was served fast and it was delicious! It was a pleasant surprise. Would love the give the other items a try if I’m in Taipei again.",
-                                     "languageCode":  "en"
+                                     "text":  "終於來吃了，\n以前附近有一家\"和 Nagomi PASTA\"\n是和風義大利麵，蠻喜歡他的口味的，\n自從倒閉以後就沒有再過來這邊，\n這家開了以後一直想過來試，\n沒想到是間大熱門店，\n\n今天在附近逛完之後臨時起意過來，\n果然是客滿沒有位置，\n正常想要另找餐廳的時候，\n店員特地跑出來，說有人離開，\n爭取到一個小時的位子，\n真是太感謝了！\n\nHANNA 濃厚奶油野菇肉醬麵310\n這應該吃過最有誠意的肉醬麵，\n一般的肉醬麵定位在基本的入門款，\n肉醬只給一點點，\n當然了，這個價格預期是應該能拿到多一些，\n但也不只是肉醬比較多而已\n這個肉醬鹹香，裡面說使用了牛肉，\n也看到有一點辣椒，\n不確定是不是有使用到鯷魚？\n麵的醬汁收得很好，跟肉醬攪拌後，\n非常好入口，而肉醬之多，\n每一口都能吃到滿滿的肉醬，非常滿足\n的確是大推的品項。\n\n焗烤奶油明太子海鮮筆管麵330\n是白醬底的焗烤，麵體的熟度剛好\n裡頭海鮮有蝦、花枝、蛤蜊(有點忘記)，\n吃的感覺是新鮮的\n醬汁不是很濃的，偏清爽感，\n明太子給得不少，\n一開始會直接麵配著吃，\n吃到後面把剩下的明太子拌到醬汁裡，\n吃起來別有一番風味，\n白醬耐吃，最後不會覺得膩\n\nHANNA 炸雞翅220\n有5-6塊，不全是雞翅，\n雞翅跟小棒腿大概各一半，\n現炸的熱騰騰，雞肉好吃，\n皮是薄脆的那種，其實灑點鹽跟胡椒就很好吃\n\n整體來說味道好吃，\n服務除了很感謝臨時提供的座位，\n一直巡場倒水也沒有收服務費，\n真的是太划算了，\n鬧區能有這個價格真的是令人吃驚，\n下次絕對會再訂位來吃",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "Came here for lunch at around 2pm and it was crowded but managed to get a seat quickly. It is a chic Japanese restaurant and popular with ladies and couples!\n\nFood was served fast and it was delicious! It was a pleasant surprise. Would love the give the other items a try if I’m in Taipei again.",
-                                             "languageCode":  "en"
+                                             "text":  "終於來吃了，\n以前附近有一家\"和 Nagomi PASTA\"\n是和風義大利麵，蠻喜歡他的口味的，\n自從倒閉以後就沒有再過來這邊，\n這家開了以後一直想過來試，\n沒想到是間大熱門店，\n\n今天在附近逛完之後臨時起意過來，\n果然是客滿沒有位置，\n正常想要另找餐廳的時候，\n店員特地跑出來，說有人離開，\n爭取到一個小時的位子，\n真是太感謝了！\n\nHANNA 濃厚奶油野菇肉醬麵310\n這應該吃過最有誠意的肉醬麵，\n一般的肉醬麵定位在基本的入門款，\n肉醬只給一點點，\n當然了，這個價格預期是應該能拿到多一些，\n但也不只是肉醬比較多而已\n這個肉醬鹹香，裡面說使用了牛肉，\n也看到有一點辣椒，\n不確定是不是有使用到鯷魚？\n麵的醬汁收得很好，跟肉醬攪拌後，\n非常好入口，而肉醬之多，\n每一口都能吃到滿滿的肉醬，非常滿足\n的確是大推的品項。\n\n焗烤奶油明太子海鮮筆管麵330\n是白醬底的焗烤，麵體的熟度剛好\n裡頭海鮮有蝦、花枝、蛤蜊(有點忘記)，\n吃的感覺是新鮮的\n醬汁不是很濃的，偏清爽感，\n明太子給得不少，\n一開始會直接麵配著吃，\n吃到後面把剩下的明太子拌到醬汁裡，\n吃起來別有一番風味，\n白醬耐吃，最後不會覺得膩\n\nHANNA 炸雞翅220\n有5-6塊，不全是雞翅，\n雞翅跟小棒腿大概各一半，\n現炸的熱騰騰，雞肉好吃，\n皮是薄脆的那種，其實灑點鹽跟胡椒就很好吃\n\n整體來說味道好吃，\n服務除了很感謝臨時提供的座位，\n一直巡場倒水也沒有收服務費，\n真的是太划算了，\n鬧區能有這個價格真的是令人吃驚，\n下次絕對會再訂位來吃",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "Elle Lee",
-                                                  "uri":  "https://www.google.com/maps/contrib/100187201264415029777/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjW4PVyL2YaesRlJuSuhPCZwFBDSU0QdRXK7wpA9FwQxVBVhQFt_=s128-c0x00000000-cc-rp-mo-ba4"
+                                                  "displayName":  "TAKU HUANG",
+                                                  "uri":  "https://www.google.com/maps/contrib/106936224686566056038/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjU6stih-SQ9GAbVb_M5wVeYKLS3vciYy_bFaXs4UtoubtIG9UTOTw=s128-c0x00000000-cc-rp-mo-ba5"
                                               },
-                        "publishTime":  "2024-11-02T13:10:15.856993Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzbUlUMHhBRRAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzbUlUMHhBRRAB!2m1!1s0x3442ab75fd8f24e5:0x48bba0a843c7f10b"
+                        "publishTime":  "2026-02-08T05:07:43.470108859Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tadk1VaFZha3hoU1U1V2NVTkxTRkJNWjFWVVpXYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tadk1VaFZha3hoU1U1V2NVTkxTRkJNWjFWVVpXYxAB!2m1!1s0x3442ab75fd8f24e5:0x48bba0a843c7f10b"
+                    },
+                    {
+                        "name":  "places/ChIJ5SSP_XWrQjQRC_HHQ6igu0g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWTk5GUmlaV3BMTmpkdFkzbDZhRGhIZW1kaVRHYxAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "藍勾勾語評：\n2026/01/04\n🏃🏻(速度)🌕🌕🌕🌗🌑\n💁🏻‍♂️(服務)🌕🌕🌕🌕🌘\n😋(美味)🌕🌕🌕🌕🌑\n🍽️(餐點/價錢)\n歐姆蛋明太子麵拍照必點，吃起來也是滿滿的明太子味，麵條吃起來算Q彈有嚼勁，一咬就斷的彈勁，義大利麵專賣店果然不錯，燉飯也是很入味，但今天不知道是味覺上出了什麼問題，青醬尾韻偏苦（不知是吃了套餐的沙拉還是鮮奶茶導致）吃到後面就還好了，整體還不錯，但就是桌與桌之間太近「有點吵雜」，鬧哄哄的 饗用餐點。\n📍(地理/環境)\n外觀及裝潢都用是日式甜點店風格，白色、咖啡色加上大理石白的桌子，襯托出木地板的高貴，「想吃可以先電話預約位」比較不會撲空候位，還有就是內用聊天聲音有點吵雜。\n🚗(停車/位置)\n市政府捷運站2號出口徒步3分鐘可以抵達。\n國父紀念館站4號出口徒步5分鐘可以抵達。\n小巷內都是紅線，汽機車僅供提放附近停車場。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "藍勾勾語評：\n2026/01/04\n🏃🏻(速度)🌕🌕🌕🌗🌑\n💁🏻‍♂️(服務)🌕🌕🌕🌕🌘\n😋(美味)🌕🌕🌕🌕🌑\n🍽️(餐點/價錢)\n歐姆蛋明太子麵拍照必點，吃起來也是滿滿的明太子味，麵條吃起來算Q彈有嚼勁，一咬就斷的彈勁，義大利麵專賣店果然不錯，燉飯也是很入味，但今天不知道是味覺上出了什麼問題，青醬尾韻偏苦（不知是吃了套餐的沙拉還是鮮奶茶導致）吃到後面就還好了，整體還不錯，但就是桌與桌之間太近「有點吵雜」，鬧哄哄的 饗用餐點。\n📍(地理/環境)\n外觀及裝潢都用是日式甜點店風格，白色、咖啡色加上大理石白的桌子，襯托出木地板的高貴，「想吃可以先電話預約位」比較不會撲空候位，還有就是內用聊天聲音有點吵雜。\n🚗(停車/位置)\n市政府捷運站2號出口徒步3分鐘可以抵達。\n國父紀念館站4號出口徒步5分鐘可以抵達。\n小巷內都是紅線，汽機車僅供提放附近停車場。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "藍勾勾",
+                                                  "uri":  "https://www.google.com/maps/contrib/102738586141011939973/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVMpwRHVsYCL1E1xddfhZeO76W-FF-rnexCmpGteEHW6JEvdGQ4=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2026-01-04T10:45:58.339826837Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWTk5GUmlaV3BMTmpkdFkzbDZhRGhIZW1kaVRHYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWTk5GUmlaV3BMTmpkdFkzbDZhRGhIZW1kaVRHYxAB!2m1!1s0x3442ab75fd8f24e5:0x48bba0a843c7f10b"
+                    },
+                    {
+                        "name":  "places/ChIJ5SSP_XWrQjQRC_HHQ6igu0g/reviews/Ci9DQUlRQUNvZENodHljRjlvT25FeVFUSkpkVVoxTjBwUVlXRjBVbVJ3VmtGU1dGRRAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "\n\n推薦指數：🌕🌕🌕🌕🌘\n超值程度：🌕🌕🌕🌕🌕\n再訪意願：🌕🌕🌕🌕🌘\n\n平實無華但高朋滿座的和洋風義大利麵。\n\n如果不是恰巧經過，完全不會發現在逸仙路巷弄內竟然有這家人氣頗旺的「HANNA Pasta Café」，靠著和風洋食路線，在正統義式的趨勢中闖出一片天。\n\n坐在日系明亮配上溫潤的木質色調的空間中，享受著將海苔、明太子與溫泉蛋等各種日式元素，揉進義大利麵的西方靈魂中；每一盤麵收汁後的濃郁讓你一口一口吃得欲罷不能，也展現在平實價位上的職人堅持。\n\n這裡的客群組成很有趣，平日都是精打細算的上班族，週末則更多是聚餐約會的年輕客群，我想能夠加價的套餐應該是主因之一。看著滿滿的客人熱鬧地在稍微嘈雜卻充滿活力的氛圍中，吃著恰到好處的精緻與親民。\n\n如果你正愁著下班後不曉得要吃些什麼，或是週末想找個找個漂亮但不傷荷包的聚會地點，HANNA Pasta Café 大概就是那個永遠不會出錯的安全牌，讓這裡美味又高 CP 值的豐富菜單收服你那挑剔的味蕾 吧！",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "\n\n推薦指數：🌕🌕🌕🌕🌘\n超值程度：🌕🌕🌕🌕🌕\n再訪意願：🌕🌕🌕🌕🌘\n\n平實無華但高朋滿座的和洋風義大利麵。\n\n如果不是恰巧經過，完全不會發現在逸仙路巷弄內竟然有這家人氣頗旺的「HANNA Pasta Café」，靠著和風洋食路線，在正統義式的趨勢中闖出一片天。\n\n坐在日系明亮配上溫潤的木質色調的空間中，享受著將海苔、明太子與溫泉蛋等各種日式元素，揉進義大利麵的西方靈魂中；每一盤麵收汁後的濃郁讓你一口一口吃得欲罷不能，也展現在平實價位上的職人堅持。\n\n這裡的客群組成很有趣，平日都是精打細算的上班族，週末則更多是聚餐約會的年輕客群，我想能夠加價的套餐應該是主因之一。看著滿滿的客人熱鬧地在稍微嘈雜卻充滿活力的氛圍中，吃著恰到好處的精緻與親民。\n\n如果你正愁著下班後不曉得要吃些什麼，或是週末想找個找個漂亮但不傷荷包的聚會地點，HANNA Pasta Café 大概就是那個永遠不會出錯的安全牌，讓這裡美味又高 CP 值的豐富菜單收服你那挑剔的味蕾 吧！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Oscar Liu",
+                                                  "uri":  "https://www.google.com/maps/contrib/102945359219157118338/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUOQI491WZpvWhDaJfeR7k3_6u-N_wP-mL3QxrEv2-VWyHH2J53IA=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-12-13T16:45:06.670458885Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25FeVFUSkpkVVoxTjBwUVlXRjBVbVJ3VmtGU1dGRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25FeVFUSkpkVVoxTjBwUVlXRjBVbVJ3VmtGU1dGRRAB!2m1!1s0x3442ab75fd8f24e5:0x48bba0a843c7f10b"
+                    },
+                    {
+                        "name":  "places/ChIJ5SSP_XWrQjQRC_HHQ6igu0g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWRFpXaEZTVjlPU21jMWQweFFaM0owWms1a1kyYxAB",
+                        "relativePublishTimeDescription":  "6 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "炸牡蠣好吃🦪\n巴斯克不會太甜，相對扎實，喜歡這口感！\n半顆外帶回家忍不住一次就吃掉半顆😂\n奶油野菇肉醬，微微的辣，拌在一起就是粉紅醬🩷吃起來沒這麼膩口\n溫泉蛋🥚肉醬麵，中規中矩的紅醬\n炸牡蠣➡️巴斯克➡️奶油野菇➡️溫泉蛋肉醬麵",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "炸牡蠣好吃🦪\n巴斯克不會太甜，相對扎實，喜歡這口感！\n半顆外帶回家忍不住一次就吃掉半顆😂\n奶油野菇肉醬，微微的辣，拌在一起就是粉紅醬🩷吃起來沒這麼膩口\n溫泉蛋🥚肉醬麵，中規中矩的紅醬\n炸牡蠣➡️巴斯克➡️奶油野菇➡️溫泉蛋肉醬麵",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Irene Liu",
+                                                  "uri":  "https://www.google.com/maps/contrib/110842291885208823433/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVD6wsS-qr3wT9dcFylGFJphDidmigY-THgVVW9_Kc7uNQcBuxm=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-11-05T15:57:47.371277565Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWRFpXaEZTVjlPU21jMWQweFFaM0owWms1a1kyYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWRFpXaEZTVjlPU21jMWQweFFaM0owWms1a1kyYxAB!2m1!1s0x3442ab75fd8f24e5:0x48bba0a843c7f10b"
                     }
                 ]
 }

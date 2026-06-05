@@ -7,67 +7,25 @@
                   "establishment"
               ],
     "internationalPhoneNumber":  "+886 980 545 865",
-    "formattedAddress":  "No. 1號, Lane 97, Jinghua St, Xingfu Village, Wenshan District, Taipei City, Taiwan 116",
+    "formattedAddress":  "116台灣臺北市文山區興福里景華街97巷1號",
     "location":  {
                      "latitude":  24.9955566,
                      "longitude":  121.54616299999999
                  },
     "rating":  5,
-    "userRatingCount":  93,
+    "userRatingCount":  92,
     "displayName":  {
                         "text":  "ANGEL 窯烤 PIZZA",
                         "languageCode":  "zh-TW"
                     },
     "reviews":  [
                     {
-                        "name":  "places/ChIJ61NIE-CrQjQRHZR4kNtWb10/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmdk5EQnVBRRAB",
-                        "relativePublishTimeDescription":  "a year ago",
-                        "rating":  4,
-                        "text":  {
-                                     "text":  "A surprisingly good pizza (for Taiwan) can be had at this hole in the wall style joint, at the very least it\u0027s much better than ordering a Domino\u0027s or Pizza Hut.",
-                                     "languageCode":  "en"
-                                 },
-                        "originalText":  {
-                                             "text":  "A surprisingly good pizza (for Taiwan) can be had at this hole in the wall style joint, at the very least it\u0027s much better than ordering a Domino\u0027s or Pizza Hut.",
-                                             "languageCode":  "en"
-                                         },
-                        "authorAttribution":  {
-                                                  "displayName":  "Alex Cox",
-                                                  "uri":  "https://www.google.com/maps/contrib/115359172523413345654/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWWG2tWSFq1apTzrCGECrl2zlJNEgBWykm3giMIZ6lf5FiR1taUsA=s128-c0x00000000-cc-rp-mo-ba3"
-                                              },
-                        "publishTime":  "2024-12-27T04:11:52.577019Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmdk5EQnVBRRAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmdk5EQnVBRRAB!2m1!1s0x3442abe0134853eb:0x5d6f56db9078941d"
-                    },
-                    {
-                        "name":  "places/ChIJ61NIE-CrQjQRHZR4kNtWb10/reviews/ChdDSUhNMG9nS0VJQ0FnSUR6eEpXRTNnRRAB",
-                        "relativePublishTimeDescription":  "a year ago",
-                        "rating":  5,
-                        "text":  {
-                                     "text":  "This place is great. Everyone was nice to me and offered to help read the menu since I can\u0027t read chinese. The pizza was amazing and a good size. 10 out of 10 stars 🌟",
-                                     "languageCode":  "en"
-                                 },
-                        "originalText":  {
-                                             "text":  "This place is great. Everyone was nice to me and offered to help read the menu since I can\u0027t read chinese. The pizza was amazing and a good size. 10 out of 10 stars 🌟",
-                                             "languageCode":  "en"
-                                         },
-                        "authorAttribution":  {
-                                                  "displayName":  "Tiffany M",
-                                                  "uri":  "https://www.google.com/maps/contrib/105606417044878526118/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocKfGqbiJiSnHvEej9LcffsMDy3xheZU4P_H_7hcdDruHgS5k7s=s128-c0x00000000-cc-rp-mo"
-                                              },
-                        "publishTime":  "2024-06-07T15:44:42.569565Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR6eEpXRTNnRRAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR6eEpXRTNnRRAB!2m1!1s0x3442abe0134853eb:0x5d6f56db9078941d"
-                    },
-                    {
                         "name":  "places/ChIJ61NIE-CrQjQRHZR4kNtWb10/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s4MFdrTnlhelJoZEhCVVVrRjZkVTE0YWxZdFdXYxAB",
-                        "relativePublishTimeDescription":  "3 months ago",
+                        "relativePublishTimeDescription":  "3 個月前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "The pizza is made to order. Watching the owner roll the dough into an incredibly thin crust, spread tomato sauce, and then add shrimp, squid, crab sticks, smoked chicken, picnic lettuce, bell peppers, pineapple… The toppings are plentiful, the crust is very thin and soft but the outer ring is chewy, and the rosemary aroma is wonderful. Overall, it\u0027s refreshing and delicious.",
-                                     "languageCode":  "en-US"
+                                     "text":  "披薩現點現做，看老闆把麵團弄成很薄很薄的皮，抹上番茄醬，再加入蝦仁、花枝、蟹味棒、燻雞肉、花野餐、甜椒、鳳梨…。料超多，皮很薄很軟但外面那圈很Q，還有迷迭香味道很香，整體清爽，好吃。",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "披薩現點現做，看老闆把麵團弄成很薄很薄的皮，抹上番茄醬，再加入蝦仁、花枝、蟹味棒、燻雞肉、花野餐、甜椒、鳳梨…。料超多，皮很薄很軟但外面那圈很Q，還有迷迭香味道很香，整體清爽，好吃。",
@@ -84,11 +42,11 @@
                     },
                     {
                         "name":  "places/ChIJ61NIE-CrQjQRHZR4kNtWb10/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKallrcHpiVFJsVFhWME9Wb3pWRWRMYVhSdWNHYxAB",
-                        "relativePublishTimeDescription":  "7 months ago",
+                        "relativePublishTimeDescription":  "6 個月前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "Tired of Pizza Hut in Naples, I wanted to try a professional wood-fired pizza. I searched on Google and tried this place for the first time.\n\nThe owner was very nice; he made it for me even without a reservation, and it was super fast—only 15 minutes! I finished mine in about 15 minutes too 😋\n\nFreshly baked pizza is amazing 👍 and it had the thin crust I was looking for, with plenty of toppings—the kind that practically fall apart when you pick it up! So satisfying. Next time I\u0027ll try other flavors.",
-                                     "languageCode":  "en-US"
+                                     "text":  "必勝客拿波里吃膩了，想試試專業窯烤披薩，查google第一次試這家\n老闆人很好，沒預訂直接幫我現做，超級快15分鐘就好了！我也差不多15分鐘就吃完了😋\n\n現烤的披薩就是讚👍而且是我在尋找的薄皮，餡料滿滿，拿起來會掉的那種，有夠滿足。下次試試其他口味",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "必勝客拿波里吃膩了，想試試專業窯烤披薩，查google第一次試這家\n老闆人很好，沒預訂直接幫我現做，超級快15分鐘就好了！我也差不多15分鐘就吃完了😋\n\n現烤的披薩就是讚👍而且是我在尋找的薄皮，餡料滿滿，拿起來會掉的那種，有夠滿足。下次試試其他口味",
@@ -105,11 +63,11 @@
                     },
                     {
                         "name":  "places/ChIJ61NIE-CrQjQRHZR4kNtWb10/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWQlUwOXdjMmx3TWkwM1ZYRlBXbkZ2VnpSelFYYxAB",
-                        "relativePublishTimeDescription":  "5 months ago",
+                        "relativePublishTimeDescription":  "4 個月前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "I can only say it\u0027s the best pizza in Taipei! The crust is incredibly chewy and completely oil-free. I probably won\u0027t eat at any other pizza places anymore.",
-                                     "languageCode":  "en-US"
+                                     "text":  "只能說台北第一\n餅皮超Q 完全沒有油\n以後應該都不會吃其他披薩店了",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "只能說台北第一\n餅皮超Q 完全沒有油\n以後應該都不會吃其他披薩店了",
@@ -123,6 +81,48 @@
                         "publishTime":  "2025-12-31T18:19:10.768032172Z",
                         "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWQlUwOXdjMmx3TWkwM1ZYRlBXbkZ2VnpSelFYYxAB\u0026d=17924085\u0026t=1",
                         "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWQlUwOXdjMmx3TWkwM1ZYRlBXbkZ2VnpSelFYYxAB!2m1!1s0x3442abe0134853eb:0x5d6f56db9078941d"
+                    },
+                    {
+                        "name":  "places/ChIJ61NIE-CrQjQRHZR4kNtWb10/reviews/Ci9DQUlRQUNvZENodHljRjlvT25VNE9EbFljME5VYlUxWmJqaE9aVlJFVG1jM09XYxAB",
+                        "relativePublishTimeDescription":  "11 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "窯烤披薩真的好吃👍🏻皮薄料實，料多到會掉下來，吃很多也不覺得膩，餅皮也很好吃，Q嫩有勁，香味十足，有麵皮筋到的香氣加上窯烤的香氣，真的很好吃，老闆親切客氣，服務真的一級棒👍🏻他們有新推出冷凍披薩，就算回家用氣炸鍋烤一下，也非常的好吃👍🏻👍🏻👍🏻五星好評❤️",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "窯烤披薩真的好吃👍🏻皮薄料實，料多到會掉下來，吃很多也不覺得膩，餅皮也很好吃，Q嫩有勁，香味十足，有麵皮筋到的香氣加上窯烤的香氣，真的很好吃，老闆親切客氣，服務真的一級棒👍🏻他們有新推出冷凍披薩，就算回家用氣炸鍋烤一下，也非常的好吃👍🏻👍🏻👍🏻五星好評❤️",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "娜娜",
+                                                  "uri":  "https://www.google.com/maps/contrib/116212721004505977003/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocLneG-axnNiT941Yuo-s2GDVwi9hkFnDRnSQ82ACXKcSOXnsg=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2025-06-27T08:03:33.114305469Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25VNE9EbFljME5VYlUxWmJqaE9aVlJFVG1jM09XYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25VNE9EbFljME5VYlUxWmJqaE9aVlJFVG1jM09XYxAB!2m1!1s0x3442abe0134853eb:0x5d6f56db9078941d"
+                    },
+                    {
+                        "name":  "places/ChIJ61NIE-CrQjQRHZR4kNtWb10/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psTFpXdzVWMGN6T0cxcU5tcHZjbFptVEdWTGJuYxAB",
+                        "relativePublishTimeDescription":  "9 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "披薩現做現烤現吃真的超爽\n料多、皮的厚度剛好更烤的恰到好處\n餅皮即使冷掉還是保有彈性\n披薩點了瑪格麗特、龍蝦沙拉跟照燒豬\n義大利麵點了紅醬野菇雞肉超大一碗味道也很好\n家人心中各自的第一名都不同，但是每一樣他們也都覺得好吃！改天再去搜集其他口味😋",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "披薩現做現烤現吃真的超爽\n料多、皮的厚度剛好更烤的恰到好處\n餅皮即使冷掉還是保有彈性\n披薩點了瑪格麗特、龍蝦沙拉跟照燒豬\n義大利麵點了紅醬野菇雞肉超大一碗味道也很好\n家人心中各自的第一名都不同，但是每一樣他們也都覺得好吃！改天再去搜集其他口味😋",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Miyako Zheng",
+                                                  "uri":  "https://www.google.com/maps/contrib/103725934542545474976/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXRxKjz2_MoE3IjdJn53DZhRAwhjVQNT7gP3GnJAYfnr95X03c=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-08-16T09:53:40.302392888Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psTFpXdzVWMGN6T0cxcU5tcHZjbFptVEdWTGJuYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psTFpXdzVWMGN6T0cxcU5tcHZjbFptVEdWTGJuYxAB!2m1!1s0x3442abe0134853eb:0x5d6f56db9078941d"
                     }
                 ]
 }

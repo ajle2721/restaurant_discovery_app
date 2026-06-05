@@ -5,46 +5,131 @@
                   "brunch_restaurant",
                   "cafe",
                   "food_store",
-                  "store",
                   "restaurant",
                   "food",
                   "point_of_interest",
+                  "store",
                   "establishment"
               ],
     "internationalPhoneNumber":  "+886 2 2891 2990",
-    "formattedAddress":  "112, Taiwan, Taipei City, Beitou District, Xueyuan Rd, 1號北藝大校園內-關渡美術館2樓 1號 二樓, 關渡美術館",
+    "formattedAddress":  "112台灣台北市北投区学园路1號北藝大校園內-關渡美術館2樓 1號 二樓, 關渡美術館",
     "location":  {
                      "latitude":  25.133525499999998,
                      "longitude":  121.47133219999999
                  },
     "rating":  4.5,
     "websiteUri":  "https://www.facebook.com/Luguocafe.Zspace/",
-    "userRatingCount":  197,
+    "userRatingCount":  196,
     "displayName":  {
                         "text":  "Luguo Cafe / Z Space",
-                        "languageCode":  "en"
+                        "languageCode":  "zh-TW"
                     },
     "reviews":  [
                     {
-                        "name":  "places/ChIJ1-Osh6CvQjQRE5DbEVM_GGk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWbFNFcHNYMHhXYURJeWJWQlZUVk5hVW5GUU4wRRAB",
-                        "relativePublishTimeDescription":  "10 months ago",
-                        "rating":  5,
+                        "name":  "places/ChIJ1-Osh6CvQjQRE5DbEVM_GGk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ZeVZrNTBVVGxoU1MxclNHTllSVTFJYVhsb1RXYxAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  4,
                         "text":  {
-                                     "text":  "Didn’t get to try. We walked by it. Food looks good and the environment is great!",
-                                     "languageCode":  "en"
+                                     "text":  "有點小隱密可以直接導美術館後上樓梯就可以到達\n很安靜餐點都有給學生的優惠\n這邊是現金付款\n三明治餐點很好吃覺得可以再訪\n酸種麵包老闆娘蠻推當天沒試\n他的咖啡還行\n整體算是蠻舒服的店\n廁所也很乾淨很大\n四周都有販售一些小物衣服可以看看\n可以詢問是否寵物友善（那天有看到一隻狗狗在裡面\n低消一瓶飲料",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "Didn’t get to try. We walked by it. Food looks good and the environment is great!",
-                                             "languageCode":  "en"
+                                             "text":  "有點小隱密可以直接導美術館後上樓梯就可以到達\n很安靜餐點都有給學生的優惠\n這邊是現金付款\n三明治餐點很好吃覺得可以再訪\n酸種麵包老闆娘蠻推當天沒試\n他的咖啡還行\n整體算是蠻舒服的店\n廁所也很乾淨很大\n四周都有販售一些小物衣服可以看看\n可以詢問是否寵物友善（那天有看到一隻狗狗在裡面\n低消一瓶飲料",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "GAGG Official",
-                                                  "uri":  "https://www.google.com/maps/contrib/112183664798924763897/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWLZt5bqpkW86OAfCZLwx9WjGzwFg3waHW05GZF6HSPZF2L1mw=s128-c0x00000000-cc-rp-mo-ba6"
+                                                  "displayName":  "Annie Wu",
+                                                  "uri":  "https://www.google.com/maps/contrib/116235141446312301125/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocLWN4I7iC_7g0PENrBpsXWjy9H4qtsl2piXtBL7xYfVqS07bg=s128-c0x00000000-cc-rp-mo-ba6"
                                               },
-                        "publishTime":  "2025-07-13T08:52:48.168456780Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWbFNFcHNYMHhXYURJeWJWQlZUVk5hVW5GUU4wRRAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWbFNFcHNYMHhXYURJeWJWQlZUVk5hVW5GUU4wRRAB!2m1!1s0x3442afa087ace3d7:0x69183f5311db9013"
+                        "publishTime":  "2025-12-13T04:59:51.887376568Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ZeVZrNTBVVGxoU1MxclNHTllSVTFJYVhsb1RXYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ZeVZrNTBVVGxoU1MxclNHTllSVTFJYVhsb1RXYxAB!2m1!1s0x3442afa087ace3d7:0x69183f5311db9013"
+                    },
+                    {
+                        "name":  "places/ChIJ1-Osh6CvQjQRE5DbEVM_GGk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxUmVHVm9iekkyZDBsQmRscEhOMlpFWVVkSVYyYxAB",
+                        "relativePublishTimeDescription":  "8 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "「Luguo Cafe / Z Space」藏身在北藝大校園內-關渡美術館二樓，即使谷歌的指引，也需要特別留意相關位置才能找到，外面有著寬闊的視野，一眼穿越關渡平原，更眺望北投焚化爐及台北101，瞬間回神發現這裡增添一份寧謐，遠離塵囂的感覺，是多麼悠閒自得！室內座位舒適，搭配木質的桌子，讓人覺得很有質感，或許緊鄰美術館的氛圍，總是有些許的藝術文青氣息。我們點有手沖咖啡、拿鐵、飲品，還點了幾樣點心「南瓜杏鮑菇鹹派」、「雙重起司鹹派」、「提拉米蘇」、「蘭姆酒葡萄巴斯克乳酪蛋糕」。第一次嚐鮮，除香醇濃郁咖啡好喝，飲品也不錯，鮮香味美適口，鹹派濃郁的香氣更迷人，軟酥的外皮很爽口，也發現這裡真的是一處品嚐咖啡的好地方。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "「Luguo Cafe / Z Space」藏身在北藝大校園內-關渡美術館二樓，即使谷歌的指引，也需要特別留意相關位置才能找到，外面有著寬闊的視野，一眼穿越關渡平原，更眺望北投焚化爐及台北101，瞬間回神發現這裡增添一份寧謐，遠離塵囂的感覺，是多麼悠閒自得！室內座位舒適，搭配木質的桌子，讓人覺得很有質感，或許緊鄰美術館的氛圍，總是有些許的藝術文青氣息。我們點有手沖咖啡、拿鐵、飲品，還點了幾樣點心「南瓜杏鮑菇鹹派」、「雙重起司鹹派」、「提拉米蘇」、「蘭姆酒葡萄巴斯克乳酪蛋糕」。第一次嚐鮮，除香醇濃郁咖啡好喝，飲品也不錯，鮮香味美適口，鹹派濃郁的香氣更迷人，軟酥的外皮很爽口，也發現這裡真的是一處品嚐咖啡的好地方。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "直心道場",
+                                                  "uri":  "https://www.google.com/maps/contrib/115107885579002504969/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWwx4jL2j7TjdNmsnXg3cvxPFTHAuEl1ZJkPonuFPSCqTGzV4_b=s128-c0x00000000-cc-rp-mo-ba8"
+                                              },
+                        "publishTime":  "2025-09-08T06:25:58.604308890Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxUmVHVm9iekkyZDBsQmRscEhOMlpFWVVkSVYyYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxUmVHVm9iekkyZDBsQmRscEhOMlpFWVVkSVYyYxAB!2m1!1s0x3442afa087ace3d7:0x69183f5311db9013"
+                    },
+                    {
+                        "name":  "places/ChIJ1-Osh6CvQjQRE5DbEVM_GGk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0V1EwazBSMGhIWVZJM1MyODRja1EwV1hOWmFtYxAB",
+                        "relativePublishTimeDescription":  "9 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "嗨大家好，我是喜歡探索城市角落的美食與景點愛好者！不論是巷弄裡的隱藏版咖啡廳，還是老店傳承的小吃，我都熱衷記錄並分享最真實的體驗。透過我的Google在地嚮導帳號，你可以找到許多實用又有溫度的在地推薦。不只吃喝玩樂，還包含環境氛圍與服務細節，就是希望幫助你做出更好的選擇。如果你也喜歡用雙腳發現世界的美好，歡迎追蹤我的Google在地嚮導，讓我們一起挖掘更多生活裡的小驚喜！🌟\n#Google在地嚮導 #美食推薦 #生活地圖 #咖啡廳推薦 #住宿體驗\n\n週末小探店分享 📍北投 Luguo Cafe / Z Space\n這間隱身在巷弄裡的咖啡館，氛圍寧靜舒服，很適合一個人帶著書或筆電來待著。點了一杯美式咖啡，入口清爽順滑，帶點果酸的尾韻讓人精神馬上被喚醒。搭配的甜點選了萊姆酒葡萄巴斯克乳酪蛋糕，綿密的乳酪口感中帶著淡淡酒香與葡萄的甜潤，層次感非常迷人，不會過甜卻又充滿大人系的微醺氛圍。咖啡的苦香與蛋糕的酒香交織在一起，完全是絕配！🍰☕️\n\n如果你喜歡安靜又帶點文藝氛圍的空間，Luguo Cafe / Z Space 絕對值得收藏，無論是來工作、閱讀，還是單純想好好享受一份甜點與咖啡的午後時光，都能在這裡找到屬於自己的節奏。✨\n\n#北投咖啡廳 #LuguoCafe #巴斯克乳酪 #咖啡控必收",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "嗨大家好，我是喜歡探索城市角落的美食與景點愛好者！不論是巷弄裡的隱藏版咖啡廳，還是老店傳承的小吃，我都熱衷記錄並分享最真實的體驗。透過我的Google在地嚮導帳號，你可以找到許多實用又有溫度的在地推薦。不只吃喝玩樂，還包含環境氛圍與服務細節，就是希望幫助你做出更好的選擇。如果你也喜歡用雙腳發現世界的美好，歡迎追蹤我的Google在地嚮導，讓我們一起挖掘更多生活裡的小驚喜！🌟\n#Google在地嚮導 #美食推薦 #生活地圖 #咖啡廳推薦 #住宿體驗\n\n週末小探店分享 📍北投 Luguo Cafe / Z Space\n這間隱身在巷弄裡的咖啡館，氛圍寧靜舒服，很適合一個人帶著書或筆電來待著。點了一杯美式咖啡，入口清爽順滑，帶點果酸的尾韻讓人精神馬上被喚醒。搭配的甜點選了萊姆酒葡萄巴斯克乳酪蛋糕，綿密的乳酪口感中帶著淡淡酒香與葡萄的甜潤，層次感非常迷人，不會過甜卻又充滿大人系的微醺氛圍。咖啡的苦香與蛋糕的酒香交織在一起，完全是絕配！🍰☕️\n\n如果你喜歡安靜又帶點文藝氛圍的空間，Luguo Cafe / Z Space 絕對值得收藏，無論是來工作、閱讀，還是單純想好好享受一份甜點與咖啡的午後時光，都能在這裡找到屬於自己的節奏。✨\n\n#北投咖啡廳 #LuguoCafe #巴斯克乳酪 #咖啡控必收",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "J",
+                                                  "uri":  "https://www.google.com/maps/contrib/101700204881047405016/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWhmVhgQxBUfk4fqvGGP0RZFcGxN8xO8t2M0fR8RPAfnrlnzw8=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2025-08-18T00:11:08.657829547Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0V1EwazBSMGhIWVZJM1MyODRja1EwV1hOWmFtYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0V1EwazBSMGhIWVZJM1MyODRja1EwV1hOWmFtYxAB!2m1!1s0x3442afa087ace3d7:0x69183f5311db9013"
+                    },
+                    {
+                        "name":  "places/ChIJ1-Osh6CvQjQRE5DbEVM_GGk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xacFZrMTBiRWwxWDFCak5XeHJlbWRJVG5Wc2NuYxAB",
+                        "relativePublishTimeDescription":  "8 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "環境很好，但真的超級難找！\n祝福所有人都不需要花太多力氣就可以找到這個讚地方，室內和室外待起來都很舒服，鹹食大多是貝果、鹹派和酸種麵包，甜食比我想像中品項更豐富，有興趣的人可以來感受看看。\n星期一公休，六點關店，真的想要來的人也要注意時間～",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "環境很好，但真的超級難找！\n祝福所有人都不需要花太多力氣就可以找到這個讚地方，室內和室外待起來都很舒服，鹹食大多是貝果、鹹派和酸種麵包，甜食比我想像中品項更豐富，有興趣的人可以來感受看看。\n星期一公休，六點關店，真的想要來的人也要注意時間～",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "許綾",
+                                                  "uri":  "https://www.google.com/maps/contrib/110325909239576998826/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXbghVYlJHVYNwZ2wmJZoT-cGXzisJbUkHdfaq7dx6KfYQJzKnH=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2025-09-18T09:30:44.005816616Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xacFZrMTBiRWwxWDFCak5XeHJlbWRJVG5Wc2NuYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xacFZrMTBiRWwxWDFCak5XeHJlbWRJVG5Wc2NuYxAB!2m1!1s0x3442afa087ace3d7:0x69183f5311db9013"
+                    },
+                    {
+                        "name":  "places/ChIJ1-Osh6CvQjQRE5DbEVM_GGk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GVlNGcDJTSEJxVUZreE5YTkRVME55TkdoclZWRRAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "校園咖啡店價位算很高，但咖啡品質不錯，店內很舒適，文青偶爾去去可以",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "校園咖啡店價位算很高，但咖啡品質不錯，店內很舒適，文青偶爾去去可以",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "非吃貨龜毛君",
+                                                  "uri":  "https://www.google.com/maps/contrib/112191257876923740668/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVL5SJu-wpPDO1vA0MGIZgpCvBycAeGuFQVoegFkYoWCBYGgto=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2026-02-23T11:15:15.590112786Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GVlNGcDJTSEJxVUZreE5YTkRVME55TkdoclZWRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GVlNGcDJTSEJxVUZreE5YTkRVME55TkdoclZWRRAB!2m1!1s0x3442afa087ace3d7:0x69183f5311db9013"
                     }
-                ]
+                ],
+    "menuForChildren":  false
 }

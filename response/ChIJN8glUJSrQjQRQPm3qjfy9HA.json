@@ -2,52 +2,31 @@
     "id":  "ChIJN8glUJSrQjQRQPm3qjfy9HA",
     "types":  [
                   "restaurant",
-                  "food",
                   "point_of_interest",
+                  "food",
                   "establishment"
               ],
     "internationalPhoneNumber":  "+886 2 2742 0766",
-    "formattedAddress":  "No. 25號, Lane 66, Section 5, Nanjing E Rd, 松山區 Songshan District, Taipei City, Taiwan 105",
+    "formattedAddress":  "105台灣臺北市松山區南京東路五段66巷25號",
     "location":  {
                      "latitude":  25.0504061,
                      "longitude":  121.56087300000002
                  },
     "rating":  4.4,
     "websiteUri":  "https://www.instagram.com/howwell_breakfast2023/",
-    "userRatingCount":  182,
+    "userRatingCount":  183,
     "displayName":  {
                         "text":  "好餵早點",
                         "languageCode":  "zh-TW"
                     },
     "reviews":  [
                     {
-                        "name":  "places/ChIJN8glUJSrQjQRQPm3qjfy9HA/reviews/ChdDSUhNMG9nS0VJQ0FnTURnb3RXbjFnRRAB",
-                        "relativePublishTimeDescription":  "a year ago",
-                        "rating":  5,
-                        "text":  {
-                                     "text":  "Tasty breakfast! 🫶✨️\nThe noodle texture is great, and I really love the 蛋餅, nice texture and rich garlic-flavored sauce. Too bad the dine-in space is small. Hope they expand and keep the quality!\nOverall, worth to visit 🥰🫶",
-                                     "languageCode":  "en"
-                                 },
-                        "originalText":  {
-                                             "text":  "Tasty breakfast! 🫶✨️\nThe noodle texture is great, and I really love the 蛋餅, nice texture and rich garlic-flavored sauce. Too bad the dine-in space is small. Hope they expand and keep the quality!\nOverall, worth to visit 🥰🫶",
-                                             "languageCode":  "en"
-                                         },
-                        "authorAttribution":  {
-                                                  "displayName":  "Axch Gun",
-                                                  "uri":  "https://www.google.com/maps/contrib/109384682295771375592/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocKPsrRIVJq9Ey-iNE-hj0Ricui6HQkppXiopQtGn_9sM1a-6Q=s128-c0x00000000-cc-rp-mo-ba5"
-                                              },
-                        "publishTime":  "2025-02-23T13:43:30.093596Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnb3RXbjFnRRAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnb3RXbjFnRRAB!2m1!1s0x3442ab945025c837:0x70f4f237aab7f940"
-                    },
-                    {
                         "name":  "places/ChIJN8glUJSrQjQRQPm3qjfy9HA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKcmNHbHNOSGh6YUVaSVdHaFVWRlJ2TmpoYVdIYxAB",
-                        "relativePublishTimeDescription":  "6 months ago",
+                        "relativePublishTimeDescription":  "6 個月前",
                         "rating":  4,
                         "text":  {
-                                     "text":  "I walked in and saw the photos of fried dough sticks, preserved eggs, and egg pancakes on the wall. They looked so unique, I immediately ordered some to try. The fried dough sticks were crispy, the preserved eggs were chewy, and the egg pancakes were quite flaky. They even added bonito flakes; overall, the taste was pretty good. The Americano was a bit weak.",
-                                     "languageCode":  "en-US"
+                                     "text":  "路過進來的，看到牆上的照片油條皮蛋蛋餅，覺得好特別，立刻點來試試。油條很脆、皮蛋Q彈，蛋餅滿酥的，還加了柴魚，整體口感蠻好。美式咖啡的味道偏淡",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "路過進來的，看到牆上的照片油條皮蛋蛋餅，覺得好特別，立刻點來試試。油條很脆、皮蛋Q彈，蛋餅滿酥的，還加了柴魚，整體口感蠻好。美式咖啡的味道偏淡",
@@ -64,11 +43,11 @@
                     },
                     {
                         "name":  "places/ChIJN8glUJSrQjQRQPm3qjfy9HA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25od01UVndjRWhYY0VveVJHOU5TV1JNVmtwSE5HYxAB",
-                        "relativePublishTimeDescription":  "3 months ago",
+                        "relativePublishTimeDescription":  "3 個月前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "There aren\u0027t many breakfast places in Taipei that serve fried glutinous rice balls 🥺 The egg pancake was crispy, very generous in portion, and filled with lots of filling 👍🏻 The sandwich was also packed with filling, and the two kinds of lettuce were a big plus 💯",
-                                     "languageCode":  "en-US"
+                                     "text":  "台北可以吃到炸湯圓的早餐店不多🥺\n蛋餅皮很脆、份量很大、餡料很多👍🏻\n三明治也是餡料滿滿，而且有兩種生菜很加分💯",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "台北可以吃到炸湯圓的早餐店不多🥺\n蛋餅皮很脆、份量很大、餡料很多👍🏻\n三明治也是餡料滿滿，而且有兩種生菜很加分💯",
@@ -85,11 +64,11 @@
                     },
                     {
                         "name":  "places/ChIJN8glUJSrQjQRQPm3qjfy9HA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkVmNUSnJWR3c0WVV4aGNFbHpTMUpXY1ZSVVZVRRAB",
-                        "relativePublishTimeDescription":  "3 months ago",
+                        "relativePublishTimeDescription":  "2 個月前",
                         "rating":  4,
                         "text":  {
-                                     "text":  "I ordered a pork belly and fried dough stick egg pancake and a fried dough stick and preserved egg pancake. The pancakes and fried dough sticks were very crispy, and the pork belly was well-marinated and delicious. The fried dough stick and preserved egg pancake was even better with a little spice.\n\nHowever, there were very few seats available for dine-in.",
-                                     "languageCode":  "en-US"
+                                     "text":  "點了五花肉油條蛋餅跟油炸鬼皮蛋蛋餅，餅皮跟油條都很酥脆，五花肉有醃入味，好吃。油炸鬼皮蛋蛋餅加一點點辣更好吃。\n不過內用位置很少。",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "點了五花肉油條蛋餅跟油炸鬼皮蛋蛋餅，餅皮跟油條都很酥脆，五花肉有醃入味，好吃。油炸鬼皮蛋蛋餅加一點點辣更好吃。\n不過內用位置很少。",
@@ -103,6 +82,48 @@
                         "publishTime":  "2026-03-07T02:11:43.133113820Z",
                         "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkVmNUSnJWR3c0WVV4aGNFbHpTMUpXY1ZSVVZVRRAB\u0026d=17924085\u0026t=1",
                         "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkVmNUSnJWR3c0WVV4aGNFbHpTMUpXY1ZSVVZVRRAB!2m1!1s0x3442ab945025c837:0x70f4f237aab7f940"
+                    },
+                    {
+                        "name":  "places/ChIJN8glUJSrQjQRQPm3qjfy9HA/reviews/Ci9DQUlRQUNvZENodHljRjlvT20wd2VFSlRSRTR3UTFKTmJWaEtlaTFLYWpreVZYYxAB",
+                        "relativePublishTimeDescription":  "2 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "需自行回收餐盤，蛋餅還不錯吃，口味蠻多蠻特別的，我們點豬五花跟皮蛋的，鮮奶茶就比較還好，但店內好悶，空間偏狹窄",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "需自行回收餐盤，蛋餅還不錯吃，口味蠻多蠻特別的，我們點豬五花跟皮蛋的，鮮奶茶就比較還好，但店內好悶，空間偏狹窄",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Albert Chen",
+                                                  "uri":  "https://www.google.com/maps/contrib/103759705691245010977/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocLl-2z-1ejbPoUfGAM8qv9xe9W17fIADsDJIqruOBHjSRhdQQ=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2026-03-07T04:28:03.771615799Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20wd2VFSlRSRTR3UTFKTmJWaEtlaTFLYWpreVZYYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20wd2VFSlRSRTR3UTFKTmJWaEtlaTFLYWpreVZYYxAB!2m1!1s0x3442ab945025c837:0x70f4f237aab7f940"
+                    },
+                    {
+                        "name":  "places/ChIJN8glUJSrQjQRQPm3qjfy9HA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4cU1VTnpZell3VURCaU1tUlZhWG8xVUhkNlJVRRAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "位置少了點有點可惜，餐點都蠻不錯吃的，點了\n1.原味蛋餅\n2.薯餅起司蛋餅\n3.地瓜球\n4.炸蘿蔔糕\n5.奶酥厚片",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "位置少了點有點可惜，餐點都蠻不錯吃的，點了\n1.原味蛋餅\n2.薯餅起司蛋餅\n3.地瓜球\n4.炸蘿蔔糕\n5.奶酥厚片",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Tiffany Chen",
+                                                  "uri":  "https://www.google.com/maps/contrib/110501106484902459562/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjW6IQf9as3VX7cVGwrkmvpVwk5m9Lo7vVgBPsj-L6LkOT2TfDTX=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2026-01-25T01:56:41.248164730Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4cU1VTnpZell3VURCaU1tUlZhWG8xVUhkNlJVRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4cU1VTnpZell3VURCaU1tUlZhWG8xVUhkNlJVRRAB!2m1!1s0x3442ab945025c837:0x70f4f237aab7f940"
                     }
                 ]
 }

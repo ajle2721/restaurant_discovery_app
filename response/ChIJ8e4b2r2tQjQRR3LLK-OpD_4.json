@@ -10,19 +10,124 @@
                   "establishment"
               ],
     "internationalPhoneNumber":  "+886 2 8792 2559",
-    "formattedAddress":  "No. 121之1號, Section 6, Minquan E Rd, Huyuan Village, Neihu District, Taipei City, Taiwan 114",
+    "formattedAddress":  "114台灣臺北市內湖區湖元里民權東路六段121之1號",
     "location":  {
                      "latitude":  25.069117499999997,
                      "longitude":  121.59268449999999
                  },
     "rating":  4.4,
     "websiteUri":  "https://m.facebook.com/HSQ-Coffee-102833325535576/?mibextid=LQQJ4d",
-    "userRatingCount":  281,
+    "userRatingCount":  277,
     "displayName":  {
                         "text":  "HSQ COFFEE",
                         "languageCode":  "zh-TW"
                     },
     "reviews":  [
-
-                ]
+                    {
+                        "name":  "places/ChIJ8e4b2r2tQjQRR3LLK-OpD_4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kQ1EwdHFSbkUzWjA5ZmNHVXhSVEkyVGt4RVdVRRAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "非常棒的早午餐，從餐點到咖啡飲品都讓人非常的驚艷，看得出來食材精心挑選過，會想再回訪的餐廳。內用座位不多，圓桌位3桌應該很容易客滿，在現場看到外送餐非常多，非常值得推薦",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "非常棒的早午餐，從餐點到咖啡飲品都讓人非常的驚艷，看得出來食材精心挑選過，會想再回訪的餐廳。內用座位不多，圓桌位3桌應該很容易客滿，在現場看到外送餐非常多，非常值得推薦",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Migo Chen",
+                                                  "uri":  "https://www.google.com/maps/contrib/102127375413813710443/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjX2GRZ5UCYWEMUH8Rbo9KYDK5SpWdYMZ_GjHRgTXX_QMHH8i2qS=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2026-02-08T04:26:53.439391667Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kQ1EwdHFSbkUzWjA5ZmNHVXhSVEkyVGt4RVdVRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kQ1EwdHFSbkUzWjA5ZmNHVXhSVEkyVGt4RVdVRRAB!2m1!1s0x3442adbdda1beef1:0xfe0fa9e32bcb7247"
+                    },
+                    {
+                        "name":  "places/ChIJ8e4b2r2tQjQRR3LLK-OpD_4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoMWJFOXVRMU16Wkhrd0xYbDRhREl5U3kxUGMwRRAB",
+                        "relativePublishTimeDescription":  "2 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "2026/3 造訪\n\n總消費$230\n\n🔸冰美式咖啡 （M） $85\n🔹酪梨義式生火腿 sandwich $120\n\n可以Line Pay",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "2026/3 造訪\n\n總消費$230\n\n🔸冰美式咖啡 （M） $85\n🔹酪梨義式生火腿 sandwich $120\n\n可以Line Pay",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Yi-Ru Lee",
+                                                  "uri":  "https://www.google.com/maps/contrib/112309251563679472597/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVDEXAazdnnTz5oBjTDvwDY-GWBRVVYoXOe1il9SX66fonlx5zk=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2026-03-09T01:56:27.371708206Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoMWJFOXVRMU16Wkhrd0xYbDRhREl5U3kxUGMwRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoMWJFOXVRMU16Wkhrd0xYbDRhREl5U3kxUGMwRRAB!2m1!1s0x3442adbdda1beef1:0xfe0fa9e32bcb7247"
+                    },
+                    {
+                        "name":  "places/ChIJ8e4b2r2tQjQRR3LLK-OpD_4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CU1ltVlRjMjh5UzE5WVZEQm5jMnhrU2pCdFNtYxAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "烤過的酸種麵包好吃, 酪梨芝麻葉搭起來味道很合, 生火腿比較一般, 偏軟口感不太好。很推薦這裡的咖啡, 美式喝起來很圓潤順口。有做料理時店內油煙味很重。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "烤過的酸種麵包好吃, 酪梨芝麻葉搭起來味道很合, 生火腿比較一般, 偏軟口感不太好。很推薦這裡的咖啡, 美式喝起來很圓潤順口。有做料理時店內油煙味很重。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "MMC",
+                                                  "uri":  "https://www.google.com/maps/contrib/106449222212999975957/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUpc0KOsHC-AyE7SsVnI2ocRtGXF4hvKbToZO07C7I4K2Ra0hs=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-12-22T16:07:29.461338883Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CU1ltVlRjMjh5UzE5WVZEQm5jMnhrU2pCdFNtYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CU1ltVlRjMjh5UzE5WVZEQm5jMnhrU2pCdFNtYxAB!2m1!1s0x3442adbdda1beef1:0xfe0fa9e32bcb7247"
+                    },
+                    {
+                        "name":  "places/ChIJ8e4b2r2tQjQRR3LLK-OpD_4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twT1drSmlSbkJRYlc5bFFXWndOWEZ0TFZCeU5IYxAB",
+                        "relativePublishTimeDescription":  "6 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "精緻可愛的咖啡館\n綻藍搭配金色的招牌和空間設計\n雖然只是一個咖啡廳卻很有高級感\n座位不多卻很舒服自在\n餐點簡單卻不馬虎\n和朋友意外發現的好地方～很喜歡",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "精緻可愛的咖啡館\n綻藍搭配金色的招牌和空間設計\n雖然只是一個咖啡廳卻很有高級感\n座位不多卻很舒服自在\n餐點簡單卻不馬虎\n和朋友意外發現的好地方～很喜歡",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Kelly’s Runway",
+                                                  "uri":  "https://www.google.com/maps/contrib/105591627739401477047/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjW3Q-lAkEVk26JstIhZaQ_wmbVEmjMk0OUouFU7eobDm2GuVghGxQ=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2025-10-29T07:06:42.316275798Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twT1drSmlSbkJRYlc5bFFXWndOWEZ0TFZCeU5IYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twT1drSmlSbkJRYlc5bFFXWndOWEZ0TFZCeU5IYxAB!2m1!1s0x3442adbdda1beef1:0xfe0fa9e32bcb7247"
+                    },
+                    {
+                        "name":  "places/ChIJ8e4b2r2tQjQRR3LLK-OpD_4/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OcGVFdHJabWxGY0dWbU9HTkZZWEJEWlMxVVNsRRAB",
+                        "relativePublishTimeDescription":  "7 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "歐買尬叫外送好好吃喔，酪梨配鮪魚也太搭，再加上一片起士跟酸種麵包一口咬下…超讚！！（圖片小黃瓜我自己加的\n拿鐵少冰也滿滿的，還會想再叫💓",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "歐買尬叫外送好好吃喔，酪梨配鮪魚也太搭，再加上一片起士跟酸種麵包一口咬下…超讚！！（圖片小黃瓜我自己加的\n拿鐵少冰也滿滿的，還會想再叫💓",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Chia rui",
+                                                  "uri":  "https://www.google.com/maps/contrib/117820924597767678754/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocLeC8Txec6tpdJnamtPiNG1gY4NeO1yDs8_mu0WiHb2uWn2BSI=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-10-25T02:24:25.143221933Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OcGVFdHJabWxGY0dWbU9HTkZZWEJEWlMxVVNsRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OcGVFdHJabWxGY0dWbU9HTkZZWEJEWlMxVVNsRRAB!2m1!1s0x3442adbdda1beef1:0xfe0fa9e32bcb7247"
+                    }
+                ],
+    "menuForChildren":  false
 }

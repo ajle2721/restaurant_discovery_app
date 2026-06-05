@@ -2,17 +2,17 @@
     "id":  "ChIJUym9LgCrQjQR63R29_ivOYs",
     "types":  [
                   "brunch_restaurant",
+                  "florist",
                   "cafe",
                   "food_store",
-                  "florist",
-                  "store",
                   "restaurant",
                   "food",
+                  "store",
                   "point_of_interest",
                   "establishment"
               ],
     "internationalPhoneNumber":  "+886 910 169 920",
-    "formattedAddress":  "No. 18號, Section 4, Ren\u0027ai Rd, De\u0027an Village, Da’an District, Taipei City, Taiwan 106",
+    "formattedAddress":  "106台灣臺北市大安區德安里仁愛路四段18號",
     "location":  {
                      "latitude":  25.0376311,
                      "longitude":  121.54629720000001
@@ -27,11 +27,11 @@
     "reviews":  [
                     {
                         "name":  "places/ChIJUym9LgCrQjQR63R29_ivOYs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5blJWVkthRTFNUzAxWlNrUlNPRGxGYzB0b1RtYxAB",
-                        "relativePublishTimeDescription":  "5 months ago",
+                        "relativePublishTimeDescription":  "5 個月前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "The space, surrounded by plants, was very relaxing.\n\nWe ordered pizza, mint tea, a bitter tea oil chicken soup set meal, and a salted egg yolk cheesecake. The flavors were on the lighter side, and all were quite good.\n\nSince I was working alone, the food took a bit longer to arrive, but that\u0027s understandable.",
-                                     "languageCode":  "en-US"
+                                     "text":  "被植物包圍的空間，很放鬆。\n\n點了披薩、薄荷茶、苦茶油雞湯套餐跟鹹蛋黃起司蛋糕，口味偏清淡，都很不錯。\n\n一人作業，上餐比較慢，不過可理解。",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "被植物包圍的空間，很放鬆。\n\n點了披薩、薄荷茶、苦茶油雞湯套餐跟鹹蛋黃起司蛋糕，口味偏清淡，都很不錯。\n\n一人作業，上餐比較慢，不過可理解。",
@@ -48,11 +48,11 @@
                     },
                     {
                         "name":  "places/ChIJUym9LgCrQjQR63R29_ivOYs/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aWFpFSjVSWE5aWlZKa01rZGhSMWxIZEhReE1uYxAB",
-                        "relativePublishTimeDescription":  "5 months ago",
+                        "relativePublishTimeDescription":  "4 個月前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "The environment is quiet, comfortable, and beautiful. The food is delicious, and the portions are just right (though not all of it is captured in the photos). The desserts are also amazing. It\u0027s a restaurant worth visiting again and again.",
-                                     "languageCode":  "en-US"
+                                     "text":  "環境很安靜很舒服也很漂亮，食物也非常的好吃，份量也很剛好(只是照片沒全部拍到)，甜品也很讚，值得一訪再訪的店",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "環境很安靜很舒服也很漂亮，食物也非常的好吃，份量也很剛好(只是照片沒全部拍到)，甜品也很讚，值得一訪再訪的店",
@@ -69,11 +69,11 @@
                     },
                     {
                         "name":  "places/ChIJUym9LgCrQjQR63R29_ivOYs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKUWFHZE1aSE15V0V0dFdIcFJVVGRFTkhOSE0wRRAB",
-                        "relativePublishTimeDescription":  "7 months ago",
+                        "relativePublishTimeDescription":  "7 個月前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "The atmosphere was comfortable, the restrooms were clean and bright, and the shop owner\u0027s floral arrangements were truly superb. Highly recommended!",
-                                     "languageCode":  "en-US"
+                                     "text":  "氣氛舒適，廁所很乾淨明亮，店長的花藝手藝真的很棒，推",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "氣氛舒適，廁所很乾淨明亮，店長的花藝手藝真的很棒，推",
@@ -90,11 +90,11 @@
                     },
                     {
                         "name":  "places/ChIJUym9LgCrQjQR63R29_ivOYs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWWVJVbDFaVU5EVW5CRFlrZE1ZekZUZG5nd2ExRRAB",
-                        "relativePublishTimeDescription":  "5 months ago",
+                        "relativePublishTimeDescription":  "4 個月前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "The chicken soup was delicious, and the space combined with the floral arrangements made it very relaxing.",
-                                     "languageCode":  "en-US"
+                                     "text":  "雞湯超好喝，結合花藝的空間讓人很放鬆～",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
                                              "text":  "雞湯超好喝，結合花藝的空間讓人很放鬆～",
@@ -111,7 +111,7 @@
                     },
                     {
                         "name":  "places/ChIJUym9LgCrQjQR63R29_ivOYs/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KSGFuQlpVUzFQVTFBeWExSjVUblJVUWpZMWNGRRAB",
-                        "relativePublishTimeDescription":  "5 months ago",
+                        "relativePublishTimeDescription":  "4 個月前",
                         "rating":  5,
                         "text":  {
                                      "text":  "老闆娘特調 好喝！ 服務好 氣氛佳佳～",

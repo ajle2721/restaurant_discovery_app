@@ -3,12 +3,12 @@
     "types":  [
                   "family_restaurant",
                   "restaurant",
-                  "food",
                   "point_of_interest",
+                  "food",
                   "establishment"
               ],
     "internationalPhoneNumber":  "+886 2 2331 5600",
-    "formattedAddress":  "No. 51號, Section 1, Kaifeng St, Guangfu Village, Zhongzheng District, Taipei City, Taiwan 100",
+    "formattedAddress":  "100台灣臺北市中正區光復里開封街一段51號",
     "location":  {
                      "latitude":  25.0461343,
                      "longitude":  121.5122588
@@ -21,109 +21,109 @@
                     },
     "reviews":  [
                     {
-                        "name":  "places/ChIJF52lPTWpQjQROyhGZ90skmk/reviews/ChdDSUhNMG9nS0VPMmMtT244NjltUmt3RRAB",
-                        "relativePublishTimeDescription":  "11 months ago",
-                        "rating":  5,
+                        "name":  "places/ChIJF52lPTWpQjQROyhGZ90skmk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GQ1NUaGtVMjV0ZDNGTU5URXROREZ6Wld4RlNWRRAB",
+                        "relativePublishTimeDescription":  "8 個月前",
+                        "rating":  3,
                         "text":  {
-                                     "text":  "The food was great, idk why this restaurant is 3.9 stars but this deserves a 5.9, go to this restaurant, you will love it like me.\n\nThis place is tucked and small, you need to look around the area properly to spot it. Not so great ambiance but this is where locals eat too not cater for tourist who is looking for something fancy.",
-                                     "languageCode":  "en"
+                                     "text":  "很多年沒吃了，十多年前在附近上班時中午常常吃。味道吃起來沒有以前好吃，魯肉飯還不錯，一碗30還不算貴。肉羹方面，小小塊，以前比較大比較吃得到肉的纖維，現在就比較沒那麼有口感。油豆腐八角味道比較重一點，中規中矩。",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "The food was great, idk why this restaurant is 3.9 stars but this deserves a 5.9, go to this restaurant, you will love it like me.\n\nThis place is tucked and small, you need to look around the area properly to spot it. Not so great ambiance but this is where locals eat too not cater for tourist who is looking for something fancy.",
-                                             "languageCode":  "en"
+                                             "text":  "很多年沒吃了，十多年前在附近上班時中午常常吃。味道吃起來沒有以前好吃，魯肉飯還不錯，一碗30還不算貴。肉羹方面，小小塊，以前比較大比較吃得到肉的纖維，現在就比較沒那麼有口感。油豆腐八角味道比較重一點，中規中矩。",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "Sarah Jane B.",
-                                                  "uri":  "https://www.google.com/maps/contrib/110802489117338329144/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWobzfwLaBcp3G3WLkap6i7p1j4FI2KCs5gxMSFkHEdiSq7B2_E=s128-c0x00000000-cc-rp-mo-ba3"
+                                                  "displayName":  "Ronald Lee",
+                                                  "uri":  "https://www.google.com/maps/contrib/107125643047863333764/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocIYOw88xMBJsFUxIt6aFX8eQZ5Yzh8lpnYK4ke6TDKmM-hg5w=s128-c0x00000000-cc-rp-mo-ba5"
                                               },
-                        "publishTime":  "2025-06-17T00:47:33.955693896Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VPMmMtT244NjltUmt3RRAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VPMmMtT244NjltUmt3RRAB!2m1!1s0x3442a9353da59d17:0x69922cdd6746283b"
+                        "publishTime":  "2025-09-26T14:16:06.317245350Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GQ1NUaGtVMjV0ZDNGTU5URXROREZ6Wld4RlNWRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GQ1NUaGtVMjV0ZDNGTU5URXROREZ6Wld4RlNWRRAB!2m1!1s0x3442a9353da59d17:0x69922cdd6746283b"
                     },
                     {
-                        "name":  "places/ChIJF52lPTWpQjQROyhGZ90skmk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkVFFXRkpTVUZPYXpRd1RqVjVjRzVNVTJoME5YYxAB",
-                        "relativePublishTimeDescription":  "4 months ago",
+                        "name":  "places/ChIJF52lPTWpQjQROyhGZ90skmk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4VWFtZDBTVlUzTlMxNU1sUlRaMWhRYVZKa2ExRRAB",
+                        "relativePublishTimeDescription":  "7 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "平價小吃，油豆腐很入味，肉羹還有米粉調味很剛好，不會過油過鹹，老闆娘很親切，內用冷氣很涼，環境也乾淨",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "平價小吃，油豆腐很入味，肉羹還有米粉調味很剛好，不會過油過鹹，老闆娘很親切，內用冷氣很涼，環境也乾淨",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "chen iris",
+                                                  "uri":  "https://www.google.com/maps/contrib/115915705510587571360/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocLMTzOntpqCI7pDyiUcFyTTqx6PmK82FSMU7i1oDSIo3ZrMzw=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-10-19T09:24:53.771841286Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4VWFtZDBTVlUzTlMxNU1sUlRaMWhRYVZKa2ExRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4VWFtZDBTVlUzTlMxNU1sUlRaMWhRYVZKa2ExRRAB!2m1!1s0x3442a9353da59d17:0x69922cdd6746283b"
+                    },
+                    {
+                        "name":  "places/ChIJF52lPTWpQjQROyhGZ90skmk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWVUxXNUtNR3BwTmtORmJraGFSR2d0VDJGU2NXYxAB",
+                        "relativePublishTimeDescription":  "3 個月前",
                         "rating":  4,
                         "text":  {
-                                     "text":  "The soup is still very good! TouFu also soft",
-                                     "languageCode":  "en"
+                                     "text":  "平價小吃\n肉羹湯小碗但 肉羹蠻實料的\n辣椒好吃\n一份豆腐25有五個三角豆腐\n竟然乾麵才40\n很難有這種價錢了\n\n內用都是免洗碗筷餐具😟",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "The soup is still very good! TouFu also soft",
-                                             "languageCode":  "en"
+                                             "text":  "平價小吃\n肉羹湯小碗但 肉羹蠻實料的\n辣椒好吃\n一份豆腐25有五個三角豆腐\n竟然乾麵才40\n很難有這種價錢了\n\n內用都是免洗碗筷餐具😟",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "RT T",
-                                                  "uri":  "https://www.google.com/maps/contrib/106547503578895915440/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjV5WMl-2l_9hrEiYi8oH68HCC64ZjITyOvC7eZqECDt5u_Lk4Q=s128-c0x00000000-cc-rp-mo-ba6"
+                                                  "displayName":  "陳映妤",
+                                                  "uri":  "https://www.google.com/maps/contrib/103305662831150557867/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXKpR6N0Bja3F7DzJVJ9-IepBY7gxo5_eICar42bm_XAQpqmdU=s128-c0x00000000-cc-rp-mo-ba5"
                                               },
-                        "publishTime":  "2026-01-23T10:27:03.304496334Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkVFFXRkpTVUZPYXpRd1RqVjVjRzVNVTJoME5YYxAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkVFFXRkpTVUZPYXpRd1RqVjVjRzVNVTJoME5YYxAB!2m1!1s0x3442a9353da59d17:0x69922cdd6746283b"
+                        "publishTime":  "2026-02-12T08:41:18.661925145Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWVUxXNUtNR3BwTmtORmJraGFSR2d0VDJGU2NXYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWVUxXNUtNR3BwTmtORmJraGFSR2d0VDJGU2NXYxAB!2m1!1s0x3442a9353da59d17:0x69922cdd6746283b"
                     },
                     {
-                        "name":  "places/ChIJF52lPTWpQjQROyhGZ90skmk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkM056ZFdORkI1VFdWdWMybHFRblUwVjIxblgwRRAB",
-                        "relativePublishTimeDescription":  "7 months ago",
+                        "name":  "places/ChIJF52lPTWpQjQROyhGZ90skmk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twb1JVaFNNM1Z0TWs1TlgyUnlheTAxWjNGVFoxRRAB",
+                        "relativePublishTimeDescription":  "2 個月前",
                         "rating":  5,
                         "text":  {
-                                     "text":  "A great place to have minced pork rice for lunch. Delicious Minced pork rice and soup.",
-                                     "languageCode":  "en"
+                                     "text":  "餐點好吃\n但可能跟老闆確認一下價錢有沒有更新\n太忙的時候 可能會忘記\n羹湯55滷蛋15 共70元\n但老闆一下說70一下說75⋯⋯\n\n最後是找我25元（有跟老闆確認的找零）\n\n但畢竟有在附近工作都會去他們那家吃，老闆有年紀大了，以後會挑比較不忙的時間去。",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "A great place to have minced pork rice for lunch. Delicious Minced pork rice and soup.",
-                                             "languageCode":  "en"
+                                             "text":  "餐點好吃\n但可能跟老闆確認一下價錢有沒有更新\n太忙的時候 可能會忘記\n羹湯55滷蛋15 共70元\n但老闆一下說70一下說75⋯⋯\n\n最後是找我25元（有跟老闆確認的找零）\n\n但畢竟有在附近工作都會去他們那家吃，老闆有年紀大了，以後會挑比較不忙的時間去。",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "Shawn Seah",
-                                                  "uri":  "https://www.google.com/maps/contrib/104286614153792154792/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVRAJEcSKdIxrTr9SBvBqcKvIe3BP0CyLigUEHM6KZKbbLNmJRiHg=s128-c0x00000000-cc-rp-mo-ba5"
+                                                  "displayName":  "羅美棠（Mia）",
+                                                  "uri":  "https://www.google.com/maps/contrib/116384087057322986219/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjW620gcSkBTTxQdnbVPsLdDdxXd6_hHgrZSsnNuY8FKZjSNlopS=s128-c0x00000000-cc-rp-mo-ba2"
                                               },
-                        "publishTime":  "2025-10-14T05:19:28.102147491Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkM056ZFdORkI1VFdWdWMybHFRblUwVjIxblgwRRAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkM056ZFdORkI1VFdWdWMybHFRblUwVjIxblgwRRAB!2m1!1s0x3442a9353da59d17:0x69922cdd6746283b"
+                        "publishTime":  "2026-03-09T04:45:43.225102355Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twb1JVaFNNM1Z0TWs1TlgyUnlheTAxWjNGVFoxRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twb1JVaFNNM1Z0TWs1TlgyUnlheTAxWjNGVFoxRRAB!2m1!1s0x3442a9353da59d17:0x69922cdd6746283b"
                     },
                     {
-                        "name":  "places/ChIJF52lPTWpQjQROyhGZ90skmk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWdWVsTnJSV3hOYTNacVpWbExSVTV0Y1d3MFdWRRAB",
-                        "relativePublishTimeDescription":  "7 months ago",
-                        "rating":  5,
+                        "name":  "places/ChIJF52lPTWpQjQROyhGZ90skmk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKWk1qSTFlbFpSZHpKMFR6SlFSalUwV0RkdU5sRRAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  2,
                         "text":  {
-                                     "text":  "Delicious authentic food with cheap price. Highly recommended.",
-                                     "languageCode":  "en"
+                                     "text":  "在車站附近，便宜省錢吃粗飽的店，不要期待味道。",
+                                     "languageCode":  "zh-Hant"
                                  },
                         "originalText":  {
-                                             "text":  "Delicious authentic food with cheap price. Highly recommended.",
-                                             "languageCode":  "en"
+                                             "text":  "在車站附近，便宜省錢吃粗飽的店，不要期待味道。",
+                                             "languageCode":  "zh-Hant"
                                          },
                         "authorAttribution":  {
-                                                  "displayName":  "Prichaya Lawun",
-                                                  "uri":  "https://www.google.com/maps/contrib/107423240509980788127/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocKEomOEvt4sgaFbEGNKEhTj1UHoy9KrlOcrvN44gnMFE2hVKw=s128-c0x00000000-cc-rp-mo"
+                                                  "displayName":  "Vicky Li",
+                                                  "uri":  "https://www.google.com/maps/contrib/105496867324020430862/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWSioOKMXRj26vMS4kutgdgljKFRgsXGT8qPw7dvsijiNpXdOo=s128-c0x00000000-cc-rp-mo-ba7"
                                               },
-                        "publishTime":  "2025-10-19T03:38:51.021169784Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWdWVsTnJSV3hOYTNacVpWbExSVTV0Y1d3MFdWRRAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWdWVsTnJSV3hOYTNacVpWbExSVTV0Y1d3MFdWRRAB!2m1!1s0x3442a9353da59d17:0x69922cdd6746283b"
-                    },
-                    {
-                        "name":  "places/ChIJF52lPTWpQjQROyhGZ90skmk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poMGJrSnJaekZTWkdKYVQzWlVhMDVRYnpaR1MyYxAB",
-                        "relativePublishTimeDescription":  "6 months ago",
-                        "rating":  5,
-                        "text":  {
-                                     "text":  "I found this place completely by chance while looking for somewhere to eat, and I\u0027m so glad I stopped. It\u0027s a fantastic spot for authentic Taiwanese local food. The taste was very good, and I was pleasantly surprised by how cheap it was. A real hidden gem!",
-                                     "languageCode":  "en"
-                                 },
-                        "originalText":  {
-                                             "text":  "I found this place completely by chance while looking for somewhere to eat, and I\u0027m so glad I stopped. It\u0027s a fantastic spot for authentic Taiwanese local food. The taste was very good, and I was pleasantly surprised by how cheap it was. A real hidden gem!",
-                                             "languageCode":  "en"
-                                         },
-                        "authorAttribution":  {
-                                                  "displayName":  "Jonathan",
-                                                  "uri":  "https://www.google.com/maps/contrib/116098353424204405173/reviews",
-                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjV7WxVSw3wi4f247s3X4Q0PPLE8_YefAy6SJ65k_T3lCQmIjbA=s128-c0x00000000-cc-rp-mo-ba4"
-                                              },
-                        "publishTime":  "2025-11-09T11:45:31.566698182Z",
-                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poMGJrSnJaekZTWkdKYVQzWlVhMDVRYnpaR1MyYxAB\u0026d=17924085\u0026t=1",
-                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poMGJrSnJaekZTWkdKYVQzWlVhMDVRYnpaR1MyYxAB!2m1!1s0x3442a9353da59d17:0x69922cdd6746283b"
+                        "publishTime":  "2026-01-31T07:06:08.939597773Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKWk1qSTFlbFpSZHpKMFR6SlFSalUwV0RkdU5sRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKWk1qSTFlbFpSZHpKMFR6SlFSalUwV0RkdU5sRRAB!2m1!1s0x3442a9353da59d17:0x69922cdd6746283b"
                     }
                 ]
 }
