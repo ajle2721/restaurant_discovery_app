@@ -1,0 +1,55 @@
+{
+    " child_seat available": {
+        "result": "Yes",
+        "evidence": "Google Maps Attributes: Good for children (官方標記：適合兒童)",
+        "confidence": 1.0
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "環境舒適，家常口味的簡餐，營業時間友善。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "Google Maps Attributes: Good for children (官方標記：適合兒童)",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 4,
+    "parent_friendly_level": "高",
+    "reason": "人工校正與AI綜合評估",
+    "generated_signals": [
+        "台式簡餐，好吃，環境溫馨舒適",
+        "環境舒適，家常口味的簡餐，營業時間友善。",
+        "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)",
+        "Google Maps Attributes: Good for children (官方標記：適合兒童)",
+        "Good for children (官方標記：適合兒童)",
+        "No menu for children (官方標記：不提供兒童餐)"
+    ],
+    "generated_summary": "本餐廳被官方標記為適合兒童，但並不提供兒童專屬餐點。評論中提及店內「環境舒適」且「環境溫馨舒適」，整體用餐氛圍良好。然而，目前評論中未提及兒童椅、兒童餐具、遊戲區或尿布台等具體親子設施，建議前往前先向店家確認。",
+    "card_summary": ""
+}

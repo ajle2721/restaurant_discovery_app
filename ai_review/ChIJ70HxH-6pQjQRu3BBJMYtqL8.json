@@ -1,0 +1,54 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "環境不錯的咖啡店～有三層樓，空間與座位算是很多的！",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "No",
+        "evidence": "二樓是主要的座位區，空間規劃得不錯，不會覺得擁擠，採光也很好，整體環境 乾淨、明亮、安靜。",
+        "confidence": 0.9
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "整體環境 乾淨、明亮、安靜。",
+        "環境不錯的咖啡店～有三層樓，空間與座位算是很多的！",
+        "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)",
+        "小缺點就是必須在餐點做好叫號領取後，得自己端上蠻陡又不寬敞的樓梯到二、三樓的用餐區。",
+        "二樓是主要的座位區，空間規劃得不錯，不會覺得擁擠，採光也很好，整體環境 乾淨、明亮、安靜。"
+    ],
+    "generated_summary": "Protaste Coffee 空間寬敞且環境安靜舒適，適合閱讀與放鬆，但官方已標記不提供兒童餐。此外，店內需自行端餐點上下較陡的樓梯，且評論中未提及兒童椅、餐具或尿布台等親子友善設施，整體氛圍偏向安靜清閒，建議攜帶幼童前往時需多加考量。",
+    "card_summary": ""
+}

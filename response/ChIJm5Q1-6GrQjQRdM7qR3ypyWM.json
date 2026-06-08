@@ -1,0 +1,132 @@
+{
+  "id": "ChIJm5Q1-6GrQjQRdM7qR3ypyWM",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2731 6505",
+  "formattedAddress": "105台灣台北市松山區中仑里八德路二段346巷1弄5號",
+  "location": {
+    "latitude": 25.047677999999998,
+    "longitude": 121.54506800000001
+  },
+  "rating": 4.4,
+  "websiteUri": "https://www.facebook.com/%E9%A3%BD%E5%8C%85%E8%82%89%E8%9B%8B%E5%90%90%E5%8F%B8-110436720349637/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 447,
+  "displayName": {
+    "text": "飽包肉蛋吐司早午餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJm5Q1-6GrQjQRdM7qR3ypyWM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkNGIyMTJhbWhsT1VwR1dFdGxhR2hRWWxVellWRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "週日也有開的早餐店👍\n出餐速度非常快，重點是餐點都好吃\n\n我們點了招牌起司肉蛋吐司、薯餅起司肉蛋吐司、豪華總匯、蔥抓餅加蛋、巧克力吐司及起司鮪魚蛋餅\n\n🥪肉蛋吐司美味，生菜、起司、蛋還有一大片肉，用料實在，每一口都滿足😋\n\n🍳蔥抓餅酥脆，小朋友一個人嗑光一整盤\n\n🍫巧克力吐司的抹醬很有誠意，是近期吃過的早餐店中抹得算多的\n\n🧀起司鮪魚蛋餅一上桌，那個鮪魚多到滿出來\n\n推薦👍👍👍會再回訪的早餐店",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "週日也有開的早餐店👍\n出餐速度非常快，重點是餐點都好吃\n\n我們點了招牌起司肉蛋吐司、薯餅起司肉蛋吐司、豪華總匯、蔥抓餅加蛋、巧克力吐司及起司鮪魚蛋餅\n\n🥪肉蛋吐司美味，生菜、起司、蛋還有一大片肉，用料實在，每一口都滿足😋\n\n🍳蔥抓餅酥脆，小朋友一個人嗑光一整盤\n\n🍫巧克力吐司的抹醬很有誠意，是近期吃過的早餐店中抹得算多的\n\n🧀起司鮪魚蛋餅一上桌，那個鮪魚多到滿出來\n\n推薦👍👍👍會再回訪的早餐店",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ray Hsu",
+        "uri": "https://www.google.com/maps/contrib/103364508190861336117/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXeZQZ3NOCol9J1cBqbLAzst0xnBOFURmwkoh14GVvq4KT6ycigdg=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-12-21T06:33:14.846327153Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkNGIyMTJhbWhsT1VwR1dFdGxhR2hRWWxVellWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkNGIyMTJhbWhsT1VwR1dFdGxhR2hRWWxVellWRRAB!2m1!1s0x3442aba1fb35949b:0x63c9a97c47eace74"
+    },
+    {
+      "name": "places/ChIJm5Q1-6GrQjQRdM7qR3ypyWM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21zeFYwOXhiREZKWTFaS1VYWndOMDl3UVhrM1pFRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "之前都是和同事一起訂外送，這次終於來店面用餐。餐點依舊好吃，而且服務人員非常親切！（首推冰奶茶，每次必點👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "之前都是和同事一起訂外送，這次終於來店面用餐。餐點依舊好吃，而且服務人員非常親切！（首推冰奶茶，每次必點👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Sabrina Wang",
+        "uri": "https://www.google.com/maps/contrib/114950409724235358897/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUVWzUA0Q-GlZTyjEk8G9NCUMin1KwsUVRCyoYuOXEclg67JobS=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-02T04:19:54.390120588Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21zeFYwOXhiREZKWTFaS1VYWndOMDl3UVhrM1pFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21zeFYwOXhiREZKWTFaS1VYWndOMDl3UVhrM1pFRRAB!2m1!1s0x3442aba1fb35949b:0x63c9a97c47eace74"
+    },
+    {
+      "name": "places/ChIJm5Q1-6GrQjQRdM7qR3ypyWM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOT05uTTNWR2x4WHkxU2VraG9OMUoxTUhaWlNXYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "店員親切\n點了鮪魚蛋餅\n看照片以為是酥皮的\n打開來發現是軟皮的\n原來我看成從蔥抓餅",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店員親切\n點了鮪魚蛋餅\n看照片以為是酥皮的\n打開來發現是軟皮的\n原來我看成從蔥抓餅",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "L",
+        "uri": "https://www.google.com/maps/contrib/105929241964797254567/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWHBXC9NOfuAJkhQAHB8ac85iHCEq4BVZZmCCvAK7GlUiMaDKTQ=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-12-12T06:00:57.874972926Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOT05uTTNWR2x4WHkxU2VraG9OMUoxTUhaWlNXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOT05uTTNWR2x4WHkxU2VraG9OMUoxTUhaWlNXYxAB!2m1!1s0x3442aba1fb35949b:0x63c9a97c47eace74"
+    },
+    {
+      "name": "places/ChIJm5Q1-6GrQjQRdM7qR3ypyWM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwb09WOXFjMUUxTUZjeFgwTnRNMFZPUkdOV09GRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "我還特地說我要加辣椒\n結果一打開很失望，而且整個乾巴巴的\n早餐如果沒有吃到自己心心想念的\n一整天心情都不好了",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "我還特地說我要加辣椒\n結果一打開很失望，而且整個乾巴巴的\n早餐如果沒有吃到自己心心想念的\n一整天心情都不好了",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yu Cy",
+        "uri": "https://www.google.com/maps/contrib/111587233848290415549/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXGkfi0S3F-jDV7HtsZeDIhMXcxPVK_s8YRX6n8vUvD_4MocSGm=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-28T01:31:36.492041442Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwb09WOXFjMUUxTUZjeFgwTnRNMFZPUkdOV09GRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwb09WOXFjMUUxTUZjeFgwTnRNMFZPUkdOV09GRRAB!2m1!1s0x3442aba1fb35949b:0x63c9a97c47eace74"
+    },
+    {
+      "name": "places/ChIJm5Q1-6GrQjQRdM7qR3ypyWM/reviews/ChZDSUhNMG9nS0VJQ0FnTURBaWF5clVnEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 1,
+      "text": {
+        "text": "1.剛開始吃這一家早餐很好吃，我都搭配5號餐（雙起司蛋餅+無糖熱綠茶），直到吃到113.8.7的早餐，我拍照給老闆娘看，她說：免費退錢給我，我也就繼續吃。\n2.直到今天又開始出現燒焦的蛋餅及蛋，其實是連續3天了，今天我忍不住在拍照片，大家自己看吧！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "1.剛開始吃這一家早餐很好吃，我都搭配5號餐（雙起司蛋餅+無糖熱綠茶），直到吃到113.8.7的早餐，我拍照給老闆娘看，她說：免費退錢給我，我也就繼續吃。\n2.直到今天又開始出現燒焦的蛋餅及蛋，其實是連續3天了，今天我忍不住在拍照片，大家自己看吧！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳富義",
+        "uri": "https://www.google.com/maps/contrib/116257084619710384180/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUgmR3UT0bTyj6-CxCYMZpa57UHJdUtyNrzLF9gCQ9ZbMmLkyew=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-02-10T00:55:18.075728Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBaWF5clVnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBaWF5clVnEAE!2m1!1s0x3442aba1fb35949b:0x63c9a97c47eace74"
+    }
+  ],
+  "goodForChildren": true
+}

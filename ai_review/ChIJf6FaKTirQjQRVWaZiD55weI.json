@@ -1,0 +1,52 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "二樓有很大的內用空間，週四午間人不會很多，很悠閒舒適的空間。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": "Menu for children (官方標記：提供兒童餐)",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "Good for children (官方標記：適合兒童)",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "二樓有很大的內用空間，週四午間人不會很多，很悠閒舒適的空間。",
+        "Menu for children (官方標記：提供兒童餐)",
+        "Good for children (官方標記：適合兒童)"
+    ],
+    "generated_summary": "小栗原珈琲擁有寬敞的二樓用餐空間，環境舒適且悠閒。根據 Google Maps 官方標記，該店適合兒童並提供兒童餐，對於親子客群相當友善。",
+    "card_summary": ""
+}

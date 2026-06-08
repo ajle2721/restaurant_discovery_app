@@ -1,0 +1,133 @@
+{
+  "id": "ChIJK_Cgj4upQjQRDrLCS1URSQQ",
+  "types": [
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2367 0279",
+  "formattedAddress": "100台灣臺北市中正區文盛里羅斯福路三段284巷5號",
+  "location": {
+    "latitude": 25.0162129,
+    "longitude": 121.531834
+  },
+  "rating": 4.3,
+  "websiteUri": "https://www.facebook.com/villecafe/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 3431,
+  "displayName": {
+    "text": "義樂麵屋",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJK_Cgj4upQjQRDrLCS1URSQQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWWFJsWkhWbmxHZFVGb2NHSnRkVzlJTW1SakxYYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 2,
+      "text": {
+        "text": "奶油唐揚雞燉飯：\n每一粒米都濕潤地裹滿白醬的奶香，走的是台式燉飯那種偏軟的路線。唐揚雞塊偏軟，蠻像炸物拼盤的放大版雞塊。\n\n松露奶油蛤蜊麵：\n蛤蜊份量還算多，鮮甜的海味釋放到醬汁裡，些許平衡了的厚重感，但吃不太出松露味，麵條吸飽了湯汁，滑順夠味。\n\n餐點部分還行，但本次造訪所感受到的服務體驗很差，服務人員給我很大的壓迫感，一直在趕時間，東西還沒吃完就馬上把盤子收走，完全沒有詢問還需不需要，我的義大利麵跟炸物拼盤都發生這樣的情況，蠻傻眼的。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "奶油唐揚雞燉飯：\n每一粒米都濕潤地裹滿白醬的奶香，走的是台式燉飯那種偏軟的路線。唐揚雞塊偏軟，蠻像炸物拼盤的放大版雞塊。\n\n松露奶油蛤蜊麵：\n蛤蜊份量還算多，鮮甜的海味釋放到醬汁裡，些許平衡了的厚重感，但吃不太出松露味，麵條吸飽了湯汁，滑順夠味。\n\n餐點部分還行，但本次造訪所感受到的服務體驗很差，服務人員給我很大的壓迫感，一直在趕時間，東西還沒吃完就馬上把盤子收走，完全沒有詢問還需不需要，我的義大利麵跟炸物拼盤都發生這樣的情況，蠻傻眼的。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "17",
+        "uri": "https://www.google.com/maps/contrib/112083356367283224278/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU10mb7mud3fjyOPnsJj9I4Aer1C_pswkWU1oBf_gbh8leBzgip=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-05T08:01:03.953613609Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWWFJsWkhWbmxHZFVGb2NHSnRkVzlJTW1SakxYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWWFJsWkhWbmxHZFVGb2NHSnRkVzlJTW1SakxYYxAB!2m1!1s0x3442a98b8fa0f02b:0x44911554bc2b20e"
+    },
+    {
+      "name": "places/ChIJK_Cgj4upQjQRDrLCS1URSQQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pBd1Nub3RhR1JxVVc5V1Ftb3RTRFZ1Y0c5NFEwRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "座位環境舒適自在，餐點份量中等，玉米濃湯的蘑菇頗多，奶油起司雞肉燉飯是粒粒分明、有炒入味，雞胸肉不會乾柴，松露奶油蛤蜊麵調味適中，蛤蜊火候也剛好，整體相當不錯~",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "座位環境舒適自在，餐點份量中等，玉米濃湯的蘑菇頗多，奶油起司雞肉燉飯是粒粒分明、有炒入味，雞胸肉不會乾柴，松露奶油蛤蜊麵調味適中，蛤蜊火候也剛好，整體相當不錯~",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Inaria T.",
+        "uri": "https://www.google.com/maps/contrib/106515292622267560978/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVkLj3TuAj5HJrlNyCBIB627o2RP5CS30lyM6Q5dE6SUDDDL2whgw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-21T14:46:37.975655199Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pBd1Nub3RhR1JxVVc5V1Ftb3RTRFZ1Y0c5NFEwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pBd1Nub3RhR1JxVVc5V1Ftb3RTRFZ1Y0c5NFEwRRAB!2m1!1s0x3442a98b8fa0f02b:0x44911554bc2b20e"
+    },
+    {
+      "name": "places/ChIJK_Cgj4upQjQRDrLCS1URSQQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sNVZuTTNWR2xhYUVwU01WTjFTMEl6ZFdkUFVWRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "義大利麵😋～這裡的口味多樣化！好久沒吃義大利麵的我，好想每個都點🤪\n餐點好吃但量少，採掃碼到後台繳費等候餐點。這裡很適合聚會聊天，但最好先訂位喔！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "義大利麵😋～這裡的口味多樣化！好久沒吃義大利麵的我，好想每個都點🤪\n餐點好吃但量少，採掃碼到後台繳費等候餐點。這裡很適合聚會聊天，但最好先訂位喔！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "R C",
+        "uri": "https://www.google.com/maps/contrib/113182495405348025203/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW82Wylkr_aIIXvGGBgbkJEYj8emLnlk9MuIyLRR0LSGjGf4gWGEw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-02T21:28:35.290278864Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sNVZuTTNWR2xhYUVwU01WTjFTMEl6ZFdkUFVWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sNVZuTTNWR2xhYUVwU01WTjFTMEl6ZFdkUFVWRRAB!2m1!1s0x3442a98b8fa0f02b:0x44911554bc2b20e"
+    },
+    {
+      "name": "places/ChIJK_Cgj4upQjQRDrLCS1URSQQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaeldreFdlRXBsWXpGME9FWm5YMjF3UW5oRFFtYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 2,
+      "text": {
+        "text": "主餐有滿滿的冰箱味，飲料奶茶跟水一樣淡，給的兩顆星是給濃湯，有味道但是一樣很淡",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "主餐有滿滿的冰箱味，飲料奶茶跟水一樣淡，給的兩顆星是給濃湯，有味道但是一樣很淡",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "慕橘",
+        "uri": "https://www.google.com/maps/contrib/112737113657664986624/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV-gQGUn0H8g09Czf_VMpdpytwyRtDnAJ1GR7CDt-XUItUJzvA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-23T11:59:50.844061885Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaeldreFdlRXBsWXpGME9FWm5YMjF3UW5oRFFtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaeldreFdlRXBsWXpGME9FWm5YMjF3UW5oRFFtYxAB!2m1!1s0x3442a98b8fa0f02b:0x44911554bc2b20e"
+    },
+    {
+      "name": "places/ChIJK_Cgj4upQjQRDrLCS1URSQQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkcFRUWm1iVTF1Y0VVMFRYcGFWRlJWTVRSRVNuYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "經過臨時來用餐，沒有事先訂位，店內人還蠻多，很幸運還有位置。\n價格很便宜（大概$180-$250之間），算是CP值很高的店。餐點免收服務費，水和餐具自取。\n餐點口味中規中矩，青醬還蠻好吃的，小卷很嫩；奶油雞肉麵偏鹹！但因為很便宜，覺得還可以接受😂",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "經過臨時來用餐，沒有事先訂位，店內人還蠻多，很幸運還有位置。\n價格很便宜（大概$180-$250之間），算是CP值很高的店。餐點免收服務費，水和餐具自取。\n餐點口味中規中矩，青醬還蠻好吃的，小卷很嫩；奶油雞肉麵偏鹹！但因為很便宜，覺得還可以接受😂",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Nini 瘋玩世界",
+        "uri": "https://www.google.com/maps/contrib/100012168473033685070/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXB06e4435j2yXRxZpY_jAUXfvJWoOoCrmwum6hUjZ4n9y4ScE=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-01T04:51:54.107626045Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkcFRUWm1iVTF1Y0VVMFRYcGFWRlJWTVRSRVNuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkcFRUWm1iVTF1Y0VVMFRYcGFWRlJWTVRSRVNuYxAB!2m1!1s0x3442a98b8fa0f02b:0x44911554bc2b20e"
+    }
+  ],
+  "menuForChildren": false
+}

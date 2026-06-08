@@ -1,0 +1,134 @@
+{
+  "id": "ChIJeYBhGberQjQRAH3dKYsaHtc",
+  "types": [
+    "restaurant",
+    "brunch_restaurant",
+    "coworking_space",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2722 2324",
+  "formattedAddress": "110台灣臺北市信義區景新里信義路五段18號B1",
+  "location": {
+    "latitude": 25.032568700000002,
+    "longitude": 121.5636499
+  },
+  "rating": 4.5,
+  "websiteUri": "https://www.abeach101.com/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 2474,
+  "displayName": {
+    "text": "A Beach 101&Pizza",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJeYBhGberQjQRAH3dKYsaHtc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CeFVFbFRiSGx1ZDI5aFMwUkVNVTlGWXpRMlRWRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐廳服務好到我衝上來寫好評！pizza味道讓人驚艷，我感覺很久沒吃到這麼好味道的pizza了，義大利麵上來被搶食！雞翅雞腿外脆內軟，還有巧克力蛋糕簡直是太棒啦（很像在杜拜吃巧克力蛋糕的感覺！好吃）環境浪漫，每一個人員都非常友善，對親子用餐來說真的是非常棒的餐廳！超推薦的！不管想享用美食，稍微當輕鬆一點的家長，都是超棒的地方！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐廳服務好到我衝上來寫好評！pizza味道讓人驚艷，我感覺很久沒吃到這麼好味道的pizza了，義大利麵上來被搶食！雞翅雞腿外脆內軟，還有巧克力蛋糕簡直是太棒啦（很像在杜拜吃巧克力蛋糕的感覺！好吃）環境浪漫，每一個人員都非常友善，對親子用餐來說真的是非常棒的餐廳！超推薦的！不管想享用美食，稍微當輕鬆一點的家長，都是超棒的地方！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "李恆全（Oscar J.）",
+        "uri": "https://www.google.com/maps/contrib/101240850231752948828/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWFRNZ3O7R3yRCGHdqWgdQVn52YLAmefb2zUfS1Ou3DQrvM3RKC=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-07T02:51:06.700692450Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CeFVFbFRiSGx1ZDI5aFMwUkVNVTlGWXpRMlRWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CeFVFbFRiSGx1ZDI5aFMwUkVNVTlGWXpRMlRWRRAB!2m1!1s0x3442abb719618079:0xd71e1a8b29dd7d00"
+    },
+    {
+      "name": "places/ChIJeYBhGberQjQRAH3dKYsaHtc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSUlptMVFNekpQUm1KV1kyUjRUbHBHVFZOMVNIYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "環境很漂亮，餐點就覺得還好，飲料蠻好喝的那天點了一個什麼果席我忘記了很好喝啦，餐點有一點小貴然後早午餐很普通，就松露薯條最好吃，可是沙灘的餐廳景觀真的很美，所以還是會給四顆星，然後服務人員的態度是不錯的",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境很漂亮，餐點就覺得還好，飲料蠻好喝的那天點了一個什麼果席我忘記了很好喝啦，餐點有一點小貴然後早午餐很普通，就松露薯條最好吃，可是沙灘的餐廳景觀真的很美，所以還是會給四顆星，然後服務人員的態度是不錯的",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Angel",
+        "uri": "https://www.google.com/maps/contrib/101362653249654534316/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWMM4ZREdehSYpMRs6Ja5FI3qiA5nqC7yDXGlqaeNf2ElmbB4w=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-03-07T05:37:05.666065121Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSUlptMVFNekpQUm1KV1kyUjRUbHBHVFZOMVNIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSUlptMVFNekpQUm1KV1kyUjRUbHBHVFZOMVNIYxAB!2m1!1s0x3442abb719618079:0xd71e1a8b29dd7d00"
+    },
+    {
+      "name": "places/ChIJeYBhGberQjQRAH3dKYsaHtc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sVGQzUkhUbFpETkdsWWJuVkxjSFJ3Vm1GQ1RtYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "怎麼感覺早期比較好吃🥲\n但是服務跟環境真的很棒很喜歡💕\n巧達海鮮濃湯披薩真的吃不懂🫠\n義大利麵口味上也是不理解🫠\n最好吃的竟然是雞肉沙拉，很澎湃但也不便宜\n若是要多人聚會還是蠻棒的\n但若是重視美食的話，可以再思考一下😝",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "怎麼感覺早期比較好吃🥲\n但是服務跟環境真的很棒很喜歡💕\n巧達海鮮濃湯披薩真的吃不懂🫠\n義大利麵口味上也是不理解🫠\n最好吃的竟然是雞肉沙拉，很澎湃但也不便宜\n若是要多人聚會還是蠻棒的\n但若是重視美食的話，可以再思考一下😝",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Maggy940",
+        "uri": "https://www.google.com/maps/contrib/103372085956719020913/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIxCHwEf09r7UnZbEk4wJnChgBoBSiAkxkku8-oBhJ5ecaUQA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-13T04:33:40.075566141Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sVGQzUkhUbFpETkdsWWJuVkxjSFJ3Vm1GQ1RtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sVGQzUkhUbFpETkdsWWJuVkxjSFJ3Vm1GQ1RtYxAB!2m1!1s0x3442abb719618079:0xd71e1a8b29dd7d00"
+    },
+    {
+      "name": "places/ChIJeYBhGberQjQRAH3dKYsaHtc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pFM2VqZzJZVTE2WmpOdldtRXdWV0o1YXpkUmRYYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 3,
+      "text": {
+        "text": "因為看電視節目介紹而前去。用餐環境很特別～沙灘風，但被安排在面壁的3人座位，感覺很差。\n飲料最先上，草莓粉紅飲料有點不新鮮，有點水果發酵的味道。其他飲品還行。\n比薩屬於厚片，麵包上有鋪巧達蛤蠣風味，第一道上來，因為很厚實，馬上吃飽了。\n接著義大利麵、炸物拼盤就吃得很吃力。\n點的松露燉飯，等了許久，別桌晚到的都已經上了，跟服務人員反應，才告知因為後場新手有狀況送錯了🥲\n整體而言，服務態度不錯，餐食不行，價格不貴，環境特別（除了我們的座位），適合拍照的網紅店。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "因為看電視節目介紹而前去。用餐環境很特別～沙灘風，但被安排在面壁的3人座位，感覺很差。\n飲料最先上，草莓粉紅飲料有點不新鮮，有點水果發酵的味道。其他飲品還行。\n比薩屬於厚片，麵包上有鋪巧達蛤蠣風味，第一道上來，因為很厚實，馬上吃飽了。\n接著義大利麵、炸物拼盤就吃得很吃力。\n點的松露燉飯，等了許久，別桌晚到的都已經上了，跟服務人員反應，才告知因為後場新手有狀況送錯了🥲\n整體而言，服務態度不錯，餐食不行，價格不貴，環境特別（除了我們的座位），適合拍照的網紅店。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Playing",
+        "uri": "https://www.google.com/maps/contrib/113282639500748980609/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLUcxEU0Wq8o2ZprIbX-BJh64CICidzw73XJA1xWndqoHwdFw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-09T13:59:44.514603586Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pFM2VqZzJZVTE2WmpOdldtRXdWV0o1YXpkUmRYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pFM2VqZzJZVTE2WmpOdldtRXdWV0o1YXpkUmRYYxAB!2m1!1s0x3442abb719618079:0xd71e1a8b29dd7d00"
+    },
+    {
+      "name": "places/ChIJeYBhGberQjQRAH3dKYsaHtc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21rMlZsZFJRMWxRTm5aSU0wTTBiamxtVlRaTVJFRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "餐點普通，價格偏貴。\n\n「龍眼木質高山鮮奶茶」好喝。\n「日式拿坡里肉醬寬扁麵」麵體硬度好，份量也算多，就是沒什麼配料，略顯單調。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點普通，價格偏貴。\n\n「龍眼木質高山鮮奶茶」好喝。\n「日式拿坡里肉醬寬扁麵」麵體硬度好，份量也算多，就是沒什麼配料，略顯單調。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張佳敏",
+        "uri": "https://www.google.com/maps/contrib/105197499410319474139/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVuBNi6gGfkc-2cTiquAjfJ20ozcA8mU2dpE4FzNvviKEExcX-L=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-05T09:23:16.800789238Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21rMlZsZFJRMWxRTm5aSU0wTTBiamxtVlRaTVJFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21rMlZsZFJRMWxRTm5aSU0wTTBiamxtVlRaTVJFRRAB!2m1!1s0x3442abb719618079:0xd71e1a8b29dd7d00"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

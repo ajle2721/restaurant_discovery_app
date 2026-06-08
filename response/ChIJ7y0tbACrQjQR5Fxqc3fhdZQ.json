@@ -1,0 +1,130 @@
+{
+  "id": "ChIJ7y0tbACrQjQR5Fxqc3fhdZQ",
+  "types": [
+    "breakfast_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2723 3396",
+  "formattedAddress": "110台灣臺北市信義區廣居里虎林街132巷88號",
+  "location": {
+    "latitude": 25.040481099999997,
+    "longitude": 121.5741021
+  },
+  "rating": 4.9,
+  "userRatingCount": 66,
+  "displayName": {
+    "text": "舒晨元氣早午餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ7y0tbACrQjQR5Fxqc3fhdZQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT210M2JFMXVjSEl0UVVZeWRqUkNlVXhIVTFaWWFFRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "鮪魚蛋餅是有美乃滋跟黑胡椒那種\n鐵板麵是粗的\n雞蛋的品質不錯\n整體乾淨好吃\n最優秀的是內用後身上油煙味不會太重！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "鮪魚蛋餅是有美乃滋跟黑胡椒那種\n鐵板麵是粗的\n雞蛋的品質不錯\n整體乾淨好吃\n最優秀的是內用後身上油煙味不會太重！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "放棄徐",
+        "uri": "https://www.google.com/maps/contrib/101730699758749027127/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLVhA9mEbYvc5lXNnC20K8GHJwoh5aCNvaZMqrVuU0fzYF-GDE=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-09-29T10:46:54.137166675Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210M2JFMXVjSEl0UVVZeWRqUkNlVXhIVTFaWWFFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210M2JFMXVjSEl0UVVZeWRqUkNlVXhIVTFaWWFFRRAB!2m1!1s0x3442ab006c2d2def:0x9475e177736a5ce4"
+    },
+    {
+      "name": "places/ChIJ7y0tbACrQjQR5Fxqc3fhdZQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCNldqVjJhVnBSVG5wS1NYUkxOa05TYkdzNWRrRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "點經典肉蛋吐司豬排會juicy。蘿蔔糕加蛋。燻雞吐司。拿鐵。美式咖啡。都相當推薦。這不是重裝潢的店。東西好吃。服務好哦…",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點經典肉蛋吐司豬排會juicy。蘿蔔糕加蛋。燻雞吐司。拿鐵。美式咖啡。都相當推薦。這不是重裝潢的店。東西好吃。服務好哦…",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "May Chen",
+        "uri": "https://www.google.com/maps/contrib/117223978343402387665/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKo96D1PcfiNR48YdVrfKfHVebpUUF8pHyryMp2agj3PDYlnQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-15T06:07:37.049317631Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCNldqVjJhVnBSVG5wS1NYUkxOa05TYkdzNWRrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCNldqVjJhVnBSVG5wS1NYUkxOa05TYkdzNWRrRRAB!2m1!1s0x3442ab006c2d2def:0x9475e177736a5ce4"
+    },
+    {
+      "name": "places/ChIJ7y0tbACrQjQR5Fxqc3fhdZQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KUGJqazRaa2d3U0MxRE5sSlZOamxWUzJscFNXYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "價格親民、內用環境整潔、特濃奶茶不錯👌\n\n😊法式牛肉堡 $70：看名稱原本預期會有跟網美早午餐的超值表現，會以法式命名應該是醬料上有所不同，推測用的醬料推測是黃芥末青瓜醬，搭配起來還不錯吃，但漢堡肉吃起來的感覺就比較偏一般早餐店的漢堡肉，是沒有牛味的那種\n\n☑️路過每次幾乎都客滿感覺忙碌，但員工們卻還是會說謝謝，非常客氣",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "價格親民、內用環境整潔、特濃奶茶不錯👌\n\n😊法式牛肉堡 $70：看名稱原本預期會有跟網美早午餐的超值表現，會以法式命名應該是醬料上有所不同，推測用的醬料推測是黃芥末青瓜醬，搭配起來還不錯吃，但漢堡肉吃起來的感覺就比較偏一般早餐店的漢堡肉，是沒有牛味的那種\n\n☑️路過每次幾乎都客滿感覺忙碌，但員工們卻還是會說謝謝，非常客氣",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hasa",
+        "uri": "https://www.google.com/maps/contrib/116770125000332908835/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVnd-vl2YuWliirKtrMBqkmOlPq6wdXzlZlI3B-JmxcSF0iArY=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-10-10T02:56:59.488049314Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KUGJqazRaa2d3U0MxRE5sSlZOamxWUzJscFNXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KUGJqazRaa2d3U0MxRE5sSlZOamxWUzJscFNXYxAB!2m1!1s0x3442ab006c2d2def:0x9475e177736a5ce4"
+    },
+    {
+      "name": "places/ChIJ7y0tbACrQjQR5Fxqc3fhdZQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT21obFNtMUxMVk5WVVU5ak1IaFZkV1IzU0RWV2RWRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "鮪魚調得好吃，自製豬排不錯但份量偏少，蘿蔔糕美味，奶茶很好喝\n蛋餅偏酥軟，個人比較喜歡Q一點的類型\n環境乾淨明亮，服務也很迅速",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "鮪魚調得好吃，自製豬排不錯但份量偏少，蘿蔔糕美味，奶茶很好喝\n蛋餅偏酥軟，個人比較喜歡Q一點的類型\n環境乾淨明亮，服務也很迅速",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Y.Y.",
+        "uri": "https://www.google.com/maps/contrib/107823454953171906034/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVba6L-YDwNIJZegbNgR66Ax9fRCnfRR9frT2SXhY357aY6XCN4=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-12T07:00:16.972867579Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21obFNtMUxMVk5WVVU5ak1IaFZkV1IzU0RWV2RWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21obFNtMUxMVk5WVVU5ak1IaFZkV1IzU0RWV2RWRRAB!2m1!1s0x3442ab006c2d2def:0x9475e177736a5ce4"
+    },
+    {
+      "name": "places/ChIJ7y0tbACrQjQR5Fxqc3fhdZQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WeFpqVk5VVTlRTFVKVWFEWTJNVXRCVWxkdU4zYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "公司搬到附近，就開始嘗試永春站這一邊的早餐店。這家真的好好吃，外脆內軟的蛋餅，老闆們動作俐落，忙中又很和善。推一個。他們里肌豬排也很好吃，可以搭配三明治。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "公司搬到附近，就開始嘗試永春站這一邊的早餐店。這家真的好好吃，外脆內軟的蛋餅，老闆們動作俐落，忙中又很和善。推一個。他們里肌豬排也很好吃，可以搭配三明治。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Joce Gingin Yang",
+        "uri": "https://www.google.com/maps/contrib/103319253102438942730/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKuSDTBcQGR3AK6_wQt87eaS0bejwAtHnsrjCeFFmaL6nJNMw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-08-27T23:47:41.401645242Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WeFpqVk5VVTlRTFVKVWFEWTJNVXRCVWxkdU4zYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WeFpqVk5VVTlRTFVKVWFEWTJNVXRCVWxkdU4zYxAB!2m1!1s0x3442ab006c2d2def:0x9475e177736a5ce4"
+    }
+  ],
+  "goodForChildren": true
+}

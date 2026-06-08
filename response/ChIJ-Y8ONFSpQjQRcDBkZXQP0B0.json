@@ -1,0 +1,131 @@
+{
+  "id": "ChIJ-Y8ONFSpQjQRcDBkZXQP0B0",
+  "types": [
+    "korean_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 8663 1725",
+  "formattedAddress": "100038台灣臺北市中正區板溪里同安街2之1號中國信託商業銀行旁小巷子",
+  "location": {
+    "latitude": 25.025983800000002,
+    "longitude": 121.5224532
+  },
+  "rating": 4.5,
+  "userRatingCount": 272,
+  "displayName": {
+    "text": "明洞食堂",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ-Y8ONFSpQjQRcDBkZXQP0B0/reviews/Ci9DQUlRQUNvZENodHljRjlvT205WGIyc3ROVEJHVmxkeFNrZFZWVEJVZWtKWk1HYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "店面非常小，室內只有3桌大約12個位置，所以可能需要稍微等待座位，老闆老闆娘都是韓國人，料理口味都不錯，點石鍋拌飯可以自己加醬油或辣醬，店內有檸檬汁和海帶湯可以自取。（含菜單）\n114.09.02",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店面非常小，室內只有3桌大約12個位置，所以可能需要稍微等待座位，老闆老闆娘都是韓國人，料理口味都不錯，點石鍋拌飯可以自己加醬油或辣醬，店內有檸檬汁和海帶湯可以自取。（含菜單）\n114.09.02",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "MEI",
+        "uri": "https://www.google.com/maps/contrib/103272830514508505675/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJTEyAisMRam3OUkeY2waQ91xTpwmNnvaZ4A_9qTD7jumg4yA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-09-02T14:51:21.559087493Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205WGIyc3ROVEJHVmxkeFNrZFZWVEJVZWtKWk1HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205WGIyc3ROVEJHVmxkeFNrZFZWVEJVZWtKWk1HYxAB!2m1!1s0x3442a954340e8ff9:0x1dd00f7465643070"
+    },
+    {
+      "name": "places/ChIJ-Y8ONFSpQjQRcDBkZXQP0B0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oeWFEbElhbXhoYTFNelExWm5ObGgyZW5KbU0yYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "好吃，很韓式\n我也吃過別的韓國人開的店，但是這間明顯更正宗。\n可惜就是店太小了\n很適合冬天來吃飯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "好吃，很韓式\n我也吃過別的韓國人開的店，但是這間明顯更正宗。\n可惜就是店太小了\n很適合冬天來吃飯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ru RU",
+        "uri": "https://www.google.com/maps/contrib/109015972605728803608/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUqYvjyEsr65IZBcCBqqgAOPfYDbtNqdiio1_91p15EAAbg_tih=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-20T05:17:28.380069381Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oeWFEbElhbXhoYTFNelExWm5ObGgyZW5KbU0yYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oeWFEbElhbXhoYTFNelExWm5ObGgyZW5KbU0yYxAB!2m1!1s0x3442a954340e8ff9:0x1dd00f7465643070"
+    },
+    {
+      "name": "places/ChIJ-Y8ONFSpQjQRcDBkZXQP0B0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsVllrNXFSV2hRVjNreGFFbERjSFpNVkVadWJYYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 2,
+      "text": {
+        "text": "點了牛燒拌飯，菜無味-沒有食材的味道，量也不多，自己取的檸檬水喝得出來是粉泡的蠻甜的，附海帶湯普通，空間很小需併桌，因為桌面相當小，雖然可以接受併桌但是吃起來就很有壓力，一點都不輕鬆。否則在大熱天就只能坐外面桌。\n看到店名”明洞”，是韓國首爾的地區名稱，讓人有所期待，但是，這個拌飯實在不到位啊⋯⋯突然思念起在首爾廣藏市場隨機吃就吃到令人難忘的好吃拌飯。\n\n【店家回應後的補充】對於店家的回應說明，沒有意見，對於口味也是個人的體驗，所以不會調整原本的評論。對於店小需要併桌，個人也是沒有意見，店家確實在消費前也有告知，但是有壓力也是真實的感受。近期也有多次造訪店面相當小的食堂(與此家只有一個捷運站的距離)，店雖小，排隊的人也不少(甚至曾經等候超過四十分鐘)，但是因為店家有其他配套的作法，不但未有壓力的感受，而且大大提高客戶的滿意度。這些補充的資訊不是對此店家回應的反駁，而是提供可以再精進的參考。對於本人留言店家有回應，個人予以高度的肯定。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點了牛燒拌飯，菜無味-沒有食材的味道，量也不多，自己取的檸檬水喝得出來是粉泡的蠻甜的，附海帶湯普通，空間很小需併桌，因為桌面相當小，雖然可以接受併桌但是吃起來就很有壓力，一點都不輕鬆。否則在大熱天就只能坐外面桌。\n看到店名”明洞”，是韓國首爾的地區名稱，讓人有所期待，但是，這個拌飯實在不到位啊⋯⋯突然思念起在首爾廣藏市場隨機吃就吃到令人難忘的好吃拌飯。\n\n【店家回應後的補充】對於店家的回應說明，沒有意見，對於口味也是個人的體驗，所以不會調整原本的評論。對於店小需要併桌，個人也是沒有意見，店家確實在消費前也有告知，但是有壓力也是真實的感受。近期也有多次造訪店面相當小的食堂(與此家只有一個捷運站的距離)，店雖小，排隊的人也不少(甚至曾經等候超過四十分鐘)，但是因為店家有其他配套的作法，不但未有壓力的感受，而且大大提高客戶的滿意度。這些補充的資訊不是對此店家回應的反駁，而是提供可以再精進的參考。對於本人留言店家有回應，個人予以高度的肯定。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Laura Pan",
+        "uri": "https://www.google.com/maps/contrib/118275015128872214374/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXuFkMW6VLpstFhh_J8qAAMl6Mqw8ApOaALPqNmlDJ6WmBnttml=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-08-29T01:30:45.340593968Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsVllrNXFSV2hRVjNreGFFbERjSFpNVkVadWJYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsVllrNXFSV2hRVjNreGFFbERjSFpNVkVadWJYYxAB!2m1!1s0x3442a954340e8ff9:0x1dd00f7465643070"
+    },
+    {
+      "name": "places/ChIJ-Y8ONFSpQjQRcDBkZXQP0B0/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJdXMzM25RRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 3,
+      "text": {
+        "text": "✨辣炒雞石鍋拌飯$180\n拌飯醬有辣醬和醬油，不過兩種都各只有一罐，所以如果有其他人點，店員就會把醬拿去其他桌\n上桌時滋滋作響，猶豫到底什麼時候要將飯拌開猶豫太久，所以底部有點焦了，可見石鍋的溫度\n配料的部分其實攪拌後只剩醬味，辣炒雞的雞肉切的滿小塊，但不會乾柴、硬，飯的份量不少，吃一吃會覺得膩口，喝檸檬汁可以有效解膩\n🪐內用低消一個餐點\n🪐提供檸檬汁和海帶湯，自取\n🪐只收現金，不收服務費\n🪐內用空間偏悶，吃辣的石鍋拌飯吃到會熱",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "✨辣炒雞石鍋拌飯$180\n拌飯醬有辣醬和醬油，不過兩種都各只有一罐，所以如果有其他人點，店員就會把醬拿去其他桌\n上桌時滋滋作響，猶豫到底什麼時候要將飯拌開猶豫太久，所以底部有點焦了，可見石鍋的溫度\n配料的部分其實攪拌後只剩醬味，辣炒雞的雞肉切的滿小塊，但不會乾柴、硬，飯的份量不少，吃一吃會覺得膩口，喝檸檬汁可以有效解膩\n🪐內用低消一個餐點\n🪐提供檸檬汁和海帶湯，自取\n🪐只收現金，不收服務費\n🪐內用空間偏悶，吃辣的石鍋拌飯吃到會熱",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "C H",
+        "uri": "https://www.google.com/maps/contrib/104245661409245047571/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUco1iAY4axVct8A233N-mlrKTf1mTT9qGb63ek0hyrRZFM0e4N=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-04-01T10:15:34.041549Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJdXMzM25RRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJdXMzM25RRRAB!2m1!1s0x3442a954340e8ff9:0x1dd00f7465643070"
+    },
+    {
+      "name": "places/ChIJ-Y8ONFSpQjQRcDBkZXQP0B0/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3dk8yNTJBRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "內用環境偏侷促，老闆娘會安排需要與人併桌，而且是會努力把人塞滿的併桌😆 像這次用餐一般四人桌的桌子，有兩桌都被塞滿了五個人\n\n但還是會想第二次回訪這家店，因為單人豆腐湯鍋的味道真的太棒了！\n\n🥘\n點餐品項\n🌶️ 豬肉泡菜豆腐鍋 小辣（$170）：\n會付一碗白飯，這個湯的味道真的太棒了～愛喝湯的人會一再回味🤤\n\n配料我很喜歡的還有年糕、韓式冬粉、蛋，泡菜的酸度很棒！下次會想點一盤泡菜來吃吃看\n\n另外這個石鍋真的超級保溫！喝到最後一口湯還是很燙！怕燙的可以撈到小碗再吃\n\n🍳 豬燒肉拌飯（$150）：\n上菜時會給一瓶辣醬自己加，平常不是太愛韓式拌飯，不過這碗拌飯的麻油味很香蠻有記憶點的（可能是來自海苔？）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "內用環境偏侷促，老闆娘會安排需要與人併桌，而且是會努力把人塞滿的併桌😆 像這次用餐一般四人桌的桌子，有兩桌都被塞滿了五個人\n\n但還是會想第二次回訪這家店，因為單人豆腐湯鍋的味道真的太棒了！\n\n🥘\n點餐品項\n🌶️ 豬肉泡菜豆腐鍋 小辣（$170）：\n會付一碗白飯，這個湯的味道真的太棒了～愛喝湯的人會一再回味🤤\n\n配料我很喜歡的還有年糕、韓式冬粉、蛋，泡菜的酸度很棒！下次會想點一盤泡菜來吃吃看\n\n另外這個石鍋真的超級保溫！喝到最後一口湯還是很燙！怕燙的可以撈到小碗再吃\n\n🍳 豬燒肉拌飯（$150）：\n上菜時會給一瓶辣醬自己加，平常不是太愛韓式拌飯，不過這碗拌飯的麻油味很香蠻有記憶點的（可能是來自海苔？）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ana Tang",
+        "uri": "https://www.google.com/maps/contrib/101376754831069219628/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ-I_9Ytb5RRROQVfYWEsMuml90ZSdBUjAPdY_FNRs-Ber0LA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2024-08-22T12:36:26.915076Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ3dk8yNTJBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ3dk8yNTJBRRAB!2m1!1s0x3442a954340e8ff9:0x1dd00f7465643070"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": false
+}

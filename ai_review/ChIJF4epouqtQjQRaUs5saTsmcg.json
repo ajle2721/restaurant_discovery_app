@@ -1,0 +1,51 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "店內座位也不會因為要塞更多客人，而擺放過多的桌椅，空間因此雖然寬敞也不太擁擠。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "Google Maps Attributes: Good for children",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "店內座位也不會因為要塞更多客人，而擺放過多的桌椅，空間因此雖然寬敞也不太擁擠。",
+        "Google Maps Attributes: Good for children"
+    ],
+    "generated_summary": "該店經Google標記為適合兒童，且店內用餐空間寬敞舒適，不會過於擁擠。不過評論中未提及兒童座椅、餐具、尿布台或兒童餐等具體親子設施，建議前往前可先向店家確認。",
+    "card_summary": ""
+}

@@ -1,0 +1,52 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "Google Maps Attributes: Good for children (官方標記：適合兒童)",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Yes",
+        "evidence": "我們後面有台遊戲機有2個小朋友玩遊戲很大聲",
+        "confidence": 0.9
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)",
+        "我們後面有台遊戲機有2個小朋友玩遊戲很大聲",
+        "Google Maps Attributes: Good for children (官方標記：適合兒童)"
+    ],
+    "generated_summary": "該餐廳雖然被 Google Maps 標記為適合兒童，且店內設有遊戲機供孩童使用，但官方明確表示不提供兒童餐。此外，評論中提到店內油煙味較重，可能會影響嬰幼兒的用餐體驗，建議家長前往時多加考量。",
+    "card_summary": ""
+}

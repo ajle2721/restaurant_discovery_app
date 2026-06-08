@@ -1,0 +1,52 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "店內空間不算大，但很明亮，桌子與桌子間的走道寬敞，不會過於擁擠。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "Google Maps Attributes: Good for children (官方標記：適合兒童)",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "店內空間不算大，但很明亮，桌子與桌子間的走道寬敞，不會過於擁擠。",
+        "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)",
+        "Google Maps Attributes: Good for children (官方標記：適合兒童)"
+    ],
+    "generated_summary": "巴特咬吐司經官方標記為適合兒童用餐，店內走道寬敞，環境不會過於擁擠。不過店家明確標示不提供兒童餐，且評論中未提及兒童座椅、餐具或尿布台等設施，建議家長前往時可自行準備相關用品。",
+    "card_summary": ""
+}

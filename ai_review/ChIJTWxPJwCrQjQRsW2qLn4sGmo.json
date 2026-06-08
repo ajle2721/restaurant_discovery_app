@@ -1,0 +1,53 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "舒適的空間，座位不會擁擠",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "No menu for children (官方標記：不提供兒童餐)",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "親子友善餐廳",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "Good for children (官方標記：適合兒童)",
+        "No menu for children (官方標記：不提供兒童餐)",
+        "舒適的空間，座位不會擁擠",
+        "親子友善餐廳"
+    ],
+    "generated_summary": "皇宴天成被標記為親子友善餐廳，店內空間舒適且座位不擁擠，適合家庭聚餐。雖然官方標記顯示不提供兒童餐，但餐點口味深受大小朋友喜愛，整體用餐環境對親子相當友善。",
+    "card_summary": ""
+}

@@ -1,0 +1,52 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "座位之間保有距離，不會有壓迫感。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "No menu for children (官方標記：不提供兒童餐)",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "No",
+        "evidence": "Not good for children (官方標記：不適合兒童)",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "No menu for children (官方標記：不提供兒童餐)",
+        "座位之間保有距離，不會有壓迫感。",
+        "Not good for children (官方標記：不適合兒童)"
+    ],
+    "generated_summary": "INFINITY .Yes Lounge 是一間充滿藝術氣息且氛圍安靜的咖啡廳，官方明確標示不適合兒童且不提供兒童餐。店內環境舒適、座位寬敞，主要定位為適合閱讀、工作、約會或獨處的空間，並非親子友善餐廳。",
+    "card_summary": ""
+}

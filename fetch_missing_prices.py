@@ -30,7 +30,7 @@ def get_place_details(place_id):
     """Fetches details and reviews for a place ID from Google Places API (New)."""
     url = f"https://places.googleapis.com/v1/places/{place_id}"
     params = {
-        "fields": "id,displayName,formattedAddress,rating,userRatingCount,reviews,types,location,websiteUri,internationalPhoneNumber,priceLevel",
+        "fields": "id,displayName,formattedAddress,rating,userRatingCount,reviews,types,location,websiteUri,internationalPhoneNumber,priceLevel,goodForChildren,menuForChildren",
         "key": API_KEY,
         "languageCode": "zh-Hant"
     }

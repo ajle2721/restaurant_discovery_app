@@ -1,0 +1,50 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "好食廚 House Cook 為私廚外燴服務，主要前往客戶指定地點進行料理。"
+    ],
+    "generated_summary": "好食廚 House Cook 為私廚外燴服務，由廚師團隊前往客戶指定地點（如家中）進行料理，因此餐廳本身的硬體設施（如兒童椅、遊戲區、尿布台等）並不適用於此服務模式。目前評論中未提及與親子用餐相關的具體設施資訊。",
+    "card_summary": ""
+}

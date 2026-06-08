@@ -1,0 +1,134 @@
+{
+  "id": "ChIJp8GEIdarQjQRi6KPoxJh3vA",
+  "types": [
+    "brunch_restaurant",
+    "cafe",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2721 8268",
+  "formattedAddress": "106台灣臺北市大安區車層里忠孝東路四段216巷27弄8號",
+  "location": {
+    "latitude": 25.039797099999998,
+    "longitude": 121.55350050000001
+  },
+  "rating": 4.7,
+  "websiteUri": "https://www.facebook.com/Sumirouli.ZH",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 495,
+  "displayName": {
+    "text": "粟米肉粒 (Sumirouli) 忠孝本店 Kitchen & Cafe",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJp8GEIdarQjQRi6KPoxJh3vA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1VmNVUmhNVTV1VVdKMk9WSkpUMUozZDFCTVkwRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "運動完想要補充蛋白質，東區巷弄的這一家店非常安靜舒適，價格也算實惠，但最重要的是食材乾淨簡單好吃，其實是吃健康也也有很多選擇～ $300就可以吃到一個餐點，也不會擔心吃不飽，當然也不是份量大到炸裂，要誠實一點！\n\n不是最性價比的選擇，但至少花錢不會生氣，還可以吃的健康吃得好🙂",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "運動完想要補充蛋白質，東區巷弄的這一家店非常安靜舒適，價格也算實惠，但最重要的是食材乾淨簡單好吃，其實是吃健康也也有很多選擇～ $300就可以吃到一個餐點，也不會擔心吃不飽，當然也不是份量大到炸裂，要誠實一點！\n\n不是最性價比的選擇，但至少花錢不會生氣，還可以吃的健康吃得好🙂",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Cat•walk",
+        "uri": "https://www.google.com/maps/contrib/109414754122397742773/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0ovqruCVy3To9STRr-yd7MTEveAyj-H_ivvgNl15nxf0lhIA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-03-10T06:37:25.587803337Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1VmNVUmhNVTV1VVdKMk9WSkpUMUozZDFCTVkwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1VmNVUmhNVTV1VVdKMk9WSkpUMUozZDFCTVkwRRAB!2m1!1s0x3442abd62184c1a7:0xf0de6112a38fa28b"
+    },
+    {
+      "name": "places/ChIJp8GEIdarQjQRi6KPoxJh3vA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5UlZqRnFXVGRpVHpaQlVYbzRiREZEWmpoUU9HYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "點了舒肥雞咖哩飯跟綠巨人果汁～\n還有大人味布丁🍮焦糖是苦甜口味！\n大部分品項都很健康營養，飯量也能調整，適合有在飲食控制的人！果汁喝起來也很新鮮～店員相當親切、服務態度很好👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點了舒肥雞咖哩飯跟綠巨人果汁～\n還有大人味布丁🍮焦糖是苦甜口味！\n大部分品項都很健康營養，飯量也能調整，適合有在飲食控制的人！果汁喝起來也很新鮮～店員相當親切、服務態度很好👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Here’s Chris Chu",
+        "uri": "https://www.google.com/maps/contrib/104513791524009521813/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWj5ftnuzFHp6bcv1ZLCgoPWXTBBH5SrBxuB7cNOz6xSGfiLA-LKw=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-06T05:00:59.710440209Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5UlZqRnFXVGRpVHpaQlVYbzRiREZEWmpoUU9HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5UlZqRnFXVGRpVHpaQlVYbzRiREZEWmpoUU9HYxAB!2m1!1s0x3442abd62184c1a7:0xf0de6112a38fa28b"
+    },
+    {
+      "name": "places/ChIJp8GEIdarQjQRi6KPoxJh3vA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Ca2JsRmZWVEUyVm10TlltUklXVUpGWTNKb1RHYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "初訪 店員超級親切！！！！\n沒有訂位 只剩門口座位，店員詢問能否接受 等室內有位會立刻通知我（一般都只是講講，但這店員妹仔還真的做到了👍👍👍後面發現這個妹仔還送帶娃娃車的媽媽到門口，確認不需要幫忙才回店裡🫶）\n餐點來源、品質都寫在菜單上，品質也物超所值（一般早午餐店家的舒肥雞控制都有水準，但鮭魚通常都很乾）\n他們放在餐盤上的每樣食物都很美味，完美詮釋食物最美的時刻✨✨\n\n雖然布丁要自己倒扣在盤上（我失敗了😅😅）應該是我的問題，隔壁一下就成功😂\n\n即使客人那麼多，他們的廁所也非常乾淨，真的是非常用心的店家\n\n下次還會再訪的✊✊",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "初訪 店員超級親切！！！！\n沒有訂位 只剩門口座位，店員詢問能否接受 等室內有位會立刻通知我（一般都只是講講，但這店員妹仔還真的做到了👍👍👍後面發現這個妹仔還送帶娃娃車的媽媽到門口，確認不需要幫忙才回店裡🫶）\n餐點來源、品質都寫在菜單上，品質也物超所值（一般早午餐店家的舒肥雞控制都有水準，但鮭魚通常都很乾）\n他們放在餐盤上的每樣食物都很美味，完美詮釋食物最美的時刻✨✨\n\n雖然布丁要自己倒扣在盤上（我失敗了😅😅）應該是我的問題，隔壁一下就成功😂\n\n即使客人那麼多，他們的廁所也非常乾淨，真的是非常用心的店家\n\n下次還會再訪的✊✊",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Elaine chen",
+        "uri": "https://www.google.com/maps/contrib/115350309927294700883/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWyN1HlJXZIK1Ed5ShI8FJ1w2fg2q5b13FBDvA6NLkTBH_ldr9SDA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-29T15:19:40.092854921Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Ca2JsRmZWVEUyVm10TlltUklXVUpGWTNKb1RHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Ca2JsRmZWVEUyVm10TlltUklXVUpGWTNKb1RHYxAB!2m1!1s0x3442abd62184c1a7:0xf0de6112a38fa28b"
+    },
+    {
+      "name": "places/ChIJp8GEIdarQjQRi6KPoxJh3vA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25odllYaHpWMnhyT1hwTVlWZGlRWEpNYlZJMlFVRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "口袋名單很久的店終於有機會來了\n之前一直不敢來是因為線上訂位沒有開放一人用餐定位的選項⋯一直以為是不是不希望單人用餐 今天跟店員詢問才發現沒有特別限制沒看到選項的話都可以打電話約👍\n\n今天選擇了兩款牛肉的餐點\n- 超級牛肉早午餐⭐️⭐️⭐️⭐️\n- 牛肉沙拉盤⭐️⭐️⭐️⭐️\n- 加點舒肥雞⭐️⭐️⭐️⭐️\n- 熱紅茶⭐️⭐️⭐️⭐️\n- 大人系布丁⭐️⭐️⭐️⭐️\n\n我跟閨蜜都很喜歡今天的餐點跟服務\n唯一有點小插曲是剛入座的時候店員有詢問第一次來嗎\n我們回答是 店員說後面會再來介紹餐點\n但⋯就沒有後面了😅沒有人幫我們介紹\n但沒關係我自己原本就有做功課所以還好\n\n另外是用完正餐有先請店員幫忙收餐盤並告知飲料跟甜點可以上餐了\n結果熱紅茶是上了 但布丁等了15分鐘都沒有來\n我們覺得有點怪因為時間只剩下20分鐘再不來沒辦法吃⋯後來看到一位像是店長的男生我們有在跟他提醒布丁沒有來\n結果2分鐘就來了⋯所以代表前面的女店員是沒聽清楚又或者是忘記了😅\n\n但這些小插曲不影響食物的美味😋\n粟米肉粒是我很喜歡的太陽番茄拉麵旗下的新品牌 所以我特別期待～今天來也很符合我的想像 會再推薦給朋友來試試看👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "口袋名單很久的店終於有機會來了\n之前一直不敢來是因為線上訂位沒有開放一人用餐定位的選項⋯一直以為是不是不希望單人用餐 今天跟店員詢問才發現沒有特別限制沒看到選項的話都可以打電話約👍\n\n今天選擇了兩款牛肉的餐點\n- 超級牛肉早午餐⭐️⭐️⭐️⭐️\n- 牛肉沙拉盤⭐️⭐️⭐️⭐️\n- 加點舒肥雞⭐️⭐️⭐️⭐️\n- 熱紅茶⭐️⭐️⭐️⭐️\n- 大人系布丁⭐️⭐️⭐️⭐️\n\n我跟閨蜜都很喜歡今天的餐點跟服務\n唯一有點小插曲是剛入座的時候店員有詢問第一次來嗎\n我們回答是 店員說後面會再來介紹餐點\n但⋯就沒有後面了😅沒有人幫我們介紹\n但沒關係我自己原本就有做功課所以還好\n\n另外是用完正餐有先請店員幫忙收餐盤並告知飲料跟甜點可以上餐了\n結果熱紅茶是上了 但布丁等了15分鐘都沒有來\n我們覺得有點怪因為時間只剩下20分鐘再不來沒辦法吃⋯後來看到一位像是店長的男生我們有在跟他提醒布丁沒有來\n結果2分鐘就來了⋯所以代表前面的女店員是沒聽清楚又或者是忘記了😅\n\n但這些小插曲不影響食物的美味😋\n粟米肉粒是我很喜歡的太陽番茄拉麵旗下的新品牌 所以我特別期待～今天來也很符合我的想像 會再推薦給朋友來試試看👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "施玉芯",
+        "uri": "https://www.google.com/maps/contrib/109324360204815075054/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVfqBEiPdh8eyRD71QyxCwENZLX5G1CKLibvYmqeLU917IkM-8=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-10T08:29:51.653944121Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25odllYaHpWMnhyT1hwTVlWZGlRWEpNYlZJMlFVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25odllYaHpWMnhyT1hwTVlWZGlRWEpNYlZJMlFVRRAB!2m1!1s0x3442abd62184c1a7:0xf0de6112a38fa28b"
+    },
+    {
+      "name": "places/ChIJp8GEIdarQjQRi6KPoxJh3vA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tka09IVlhiV2N0WW1VM2JGbzBWemxxWHpBM2ExRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "中午經過門口看看 有一位非常禮貌熱情的服務員出來打招呼 介紹餐點  隨他入內坐下後也被詢問是否需要介紹餐點 在他細心介紹後決定了牛排沙拉和大人布丁 沙拉種類非常多 都是有微煮過的 牛排是驚艷的嫩 我挑的檸檬優格沙拉醬也是非常溫和美味 再來餐後甜點帶苦味的布丁 真的是大人的口味 怕太甜的我十分喜歡 洗手間非常乾淨 細心到有女生使用的衛生用品 洗手台有乳液和名牌香水提供 無意中走進了寶藏地 雖然服務員戴著口罩 還是能感受到他真誠的笑容 會推薦朋友去消費",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "中午經過門口看看 有一位非常禮貌熱情的服務員出來打招呼 介紹餐點  隨他入內坐下後也被詢問是否需要介紹餐點 在他細心介紹後決定了牛排沙拉和大人布丁 沙拉種類非常多 都是有微煮過的 牛排是驚艷的嫩 我挑的檸檬優格沙拉醬也是非常溫和美味 再來餐後甜點帶苦味的布丁 真的是大人的口味 怕太甜的我十分喜歡 洗手間非常乾淨 細心到有女生使用的衛生用品 洗手台有乳液和名牌香水提供 無意中走進了寶藏地 雖然服務員戴著口罩 還是能感受到他真誠的笑容 會推薦朋友去消費",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ji Sun",
+        "uri": "https://www.google.com/maps/contrib/105858970503535695105/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVAVtzABDXwpzzfvAR7xi94b7RaY01vQJMXABvskLjfuXLJbbNi=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-26T07:07:45.999826370Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tka09IVlhiV2N0WW1VM2JGbzBWemxxWHpBM2ExRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tka09IVlhiV2N0WW1VM2JGbzBWemxxWHpBM2ExRRAB!2m1!1s0x3442abd62184c1a7:0xf0de6112a38fa28b"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

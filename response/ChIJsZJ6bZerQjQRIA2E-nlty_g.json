@@ -1,0 +1,133 @@
+{
+  "id": "ChIJsZJ6bZerQjQRIA2E-nlty_g",
+  "types": [
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2747 6013",
+  "formattedAddress": "105台灣臺北市松山區吉祥里八德路四段245巷32弄36號",
+  "location": {
+    "latitude": 25.049977,
+    "longitude": 121.563212
+  },
+  "rating": 4.4,
+  "websiteUri": "https://www.facebook.com/%E7%B4%85%E5%8E%9D%E5%AE%A2%E5%AE%B6%E5%B0%8F%E9%A4%A8-199757990078819/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 652,
+  "displayName": {
+    "text": "紅厝客家小館",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJsZJ6bZerQjQRIA2E-nlty_g/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oWGVrZFZWM0F6UjNGR1lrSTBiWGhHUjNOSlpXYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 1,
+      "text": {
+        "text": "第一次來用餐（晚餐\n餐點還不錯但服務需要加強\n點了蒜泥鮮蚵想請服務員幫忙加熱\n結果阿姨直接說這幹嘛熱 不用熱！\n我心想..阿姨我知道蒜泥鮮蚵是不用加熱但今天比較冷，才想加熱😅\n\n家庭聚餐可以，餐點上完會有水果招待\n但希望下次服務上可以好一些",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次來用餐（晚餐\n餐點還不錯但服務需要加強\n點了蒜泥鮮蚵想請服務員幫忙加熱\n結果阿姨直接說這幹嘛熱 不用熱！\n我心想..阿姨我知道蒜泥鮮蚵是不用加熱但今天比較冷，才想加熱😅\n\n家庭聚餐可以，餐點上完會有水果招待\n但希望下次服務上可以好一些",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Emily Ling",
+        "uri": "https://www.google.com/maps/contrib/106102504589199355922/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKxnzvgujjMrjdA4w-4FBFlxoeTEpPztGnAKzLXwVgd9dm6uA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-11-17T10:44:56.527661392Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oWGVrZFZWM0F6UjNGR1lrSTBiWGhHUjNOSlpXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oWGVrZFZWM0F6UjNGR1lrSTBiWGhHUjNOSlpXYxAB!2m1!1s0x3442ab976d7a92b1:0xf8cb6d79fa840d20"
+    },
+    {
+      "name": "places/ChIJsZJ6bZerQjQRIA2E-nlty_g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWTkxYTXljM05DY1Y5eWVrOWZNblpGVlZOclNuYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點有家的味道\n店員非常貼心\n服務態度讓人感覺很自在\n\n對小朋友也特別友善\n有準備兒童用的湯匙\n\n很適合家庭或朋友聚餐\n\n這次我們一行 7 個人\n用餐過程很順利\n空間與安排都很剛好\n之後一定會再回訪\n也會推薦朋友一起來",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點有家的味道\n店員非常貼心\n服務態度讓人感覺很自在\n\n對小朋友也特別友善\n有準備兒童用的湯匙\n\n很適合家庭或朋友聚餐\n\n這次我們一行 7 個人\n用餐過程很順利\n空間與安排都很剛好\n之後一定會再回訪\n也會推薦朋友一起來",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "anne",
+        "uri": "https://www.google.com/maps/contrib/103400397424423923848/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKsbdbbDADkbZDqbecRkTAzwA_s2R4_RsLp2Lfns5b-5gLVkQ=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-26T01:24:19.965741036Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWTkxYTXljM05DY1Y5eWVrOWZNblpGVlZOclNuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWTkxYTXljM05DY1Y5eWVrOWZNblpGVlZOclNuYxAB!2m1!1s0x3442ab976d7a92b1:0xf8cb6d79fa840d20"
+    },
+    {
+      "name": "places/ChIJsZJ6bZerQjQRIA2E-nlty_g/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aT0xWRmlRamRuWDFsMlZVRm5SVU56V0ZoR0xXYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "辦公室同仁們最愛的一家店❤️\n今天訂才知道12月起漲價惹\n便當每個品項漲10元\n提供新菜單給大家參考\n感覺飯變多了、菜的調味也有重了一丁點\n但還是一樣超好吃😋",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "辦公室同仁們最愛的一家店❤️\n今天訂才知道12月起漲價惹\n便當每個品項漲10元\n提供新菜單給大家參考\n感覺飯變多了、菜的調味也有重了一丁點\n但還是一樣超好吃😋",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ray",
+        "uri": "https://www.google.com/maps/contrib/116938946350777479431/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU9Jtm3n8s38xXTNeIgcfKVbXox94xuESTWPSIwtpLJQmaztfez=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-05T03:48:26.761688518Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aT0xWRmlRamRuWDFsMlZVRm5SVU56V0ZoR0xXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aT0xWRmlRamRuWDFsMlZVRm5SVU56V0ZoR0xXYxAB!2m1!1s0x3442ab976d7a92b1:0xf8cb6d79fa840d20"
+    },
+    {
+      "name": "places/ChIJsZJ6bZerQjQRIA2E-nlty_g/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sVU1UazVNMFV3ZVc5V1ZEWkhUVGw1YTNaV05FRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "南京三民地區最好吃的客家料理而且價格實惠，無論你是炸蚵仔或是客家小炒，都是很不錯的選擇",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "南京三民地區最好吃的客家料理而且價格實惠，無論你是炸蚵仔或是客家小炒，都是很不錯的選擇",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jake",
+        "uri": "https://www.google.com/maps/contrib/114490388435744822404/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVuPfyl-BIgG3cSoF_mDUQhuUCobuBRgHExfXM9tcvrkt-mRcHr=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-07T14:51:47.042273513Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sVU1UazVNMFV3ZVc5V1ZEWkhUVGw1YTNaV05FRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sVU1UazVNMFV3ZVc5V1ZEWkhUVGw1YTNaV05FRRAB!2m1!1s0x3442ab976d7a92b1:0xf8cb6d79fa840d20"
+    },
+    {
+      "name": "places/ChIJsZJ6bZerQjQRIA2E-nlty_g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2trNVFVNTVRVzlKZFZwU1lXWlljMmxsWldWYVowRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "CP值高/一樓2人座位偏擠/送一道菜很感人 /附的免費茶好喝/廁所乾淨/服務尚可/點了客家小炒、蔥爆牛肉都不辣味道可以，最好吃居然是宮保雞丁有花椒舌尖麻麻的很舒服，蛤蜊湯有點太鹹了/飯後贈西瓜也很感人",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "CP值高/一樓2人座位偏擠/送一道菜很感人 /附的免費茶好喝/廁所乾淨/服務尚可/點了客家小炒、蔥爆牛肉都不辣味道可以，最好吃居然是宮保雞丁有花椒舌尖麻麻的很舒服，蛤蜊湯有點太鹹了/飯後贈西瓜也很感人",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Peace Luna",
+        "uri": "https://www.google.com/maps/contrib/106197982582935194966/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV6kiCfa5J_KhaNCAeyOwGmD9Y9ugzqYhsL0EXTHPkiUqXckMT8=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-28T06:17:47.513433697Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2trNVFVNTVRVzlKZFZwU1lXWlljMmxsWldWYVowRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2trNVFVNTVRVzlKZFZwU1lXWlljMmxsWldWYVowRRAB!2m1!1s0x3442ab976d7a92b1:0xf8cb6d79fa840d20"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

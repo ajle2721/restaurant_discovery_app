@@ -1,0 +1,135 @@
+{
+  "id": "ChIJJft9PLapQjQRCCVH72BcpsQ",
+  "types": [
+    "restaurant",
+    "chinese_noodle_restaurant",
+    "chicken_restaurant",
+    "food_store",
+    "chinese_restaurant",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 965 336 660",
+  "formattedAddress": "100台灣臺北市中正區梅花里新生南路一段6-15號",
+  "location": {
+    "latitude": 25.0438917,
+    "longitude": 121.5323019
+  },
+  "rating": 4.3,
+  "userRatingCount": 46,
+  "displayName": {
+    "text": "草莓亭炒飯麵 鍋燒麵 小火鍋 蛋包飯 義大利麵",
+    "languageCode": "zh"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJJft9PLapQjQRCCVH72BcpsQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSdVFVWktXVEZPTW5KQmJHRnpNRzE0ZGxWWlptYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "老闆服務態度很好\n鍋燒意麵表現正常，沒有特別驚艷也沒有不好吃，可惜沒有雞絲麵選項\n蔬食烏龍麵湯頭清淡我蠻喜歡，但不喜歡麵體，配料玉米筍看起來好像放很久，呈現深黃有點透明，吃起來味道怪怪的感覺不太新鮮，兩根吃起來都這樣，凍豆腐我也不愛\n可以賴佩，價格在這區來說算平價\n店在巷子裡面，要特地繞進來才看得到，內用只有6還8個位子",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "老闆服務態度很好\n鍋燒意麵表現正常，沒有特別驚艷也沒有不好吃，可惜沒有雞絲麵選項\n蔬食烏龍麵湯頭清淡我蠻喜歡，但不喜歡麵體，配料玉米筍看起來好像放很久，呈現深黃有點透明，吃起來味道怪怪的感覺不太新鮮，兩根吃起來都這樣，凍豆腐我也不愛\n可以賴佩，價格在這區來說算平價\n店在巷子裡面，要特地繞進來才看得到，內用只有6還8個位子",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "b amp",
+        "uri": "https://www.google.com/maps/contrib/107523356839715193377/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJEiAGhw3iHVoGVE4JNukm8rPOreSs2uC5stSWD4L7uTwEM7g=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-22T07:29:04.081038026Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSdVFVWktXVEZPTW5KQmJHRnpNRzE0ZGxWWlptYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSdVFVWktXVEZPTW5KQmJHRnpNRzE0ZGxWWlptYxAB!2m1!1s0x3442a9b63c7dfb25:0xc4a65c60ef472508"
+    },
+    {
+      "name": "places/ChIJJft9PLapQjQRCCVH72BcpsQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKMlRWQXllWFp6ZUZwbFltNXVOSEJLYkhOZk5YYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 3,
+      "text": {
+        "text": "外帶青椒豬肉絲炒飯，加點10元滷豆干，豆干有滷過，不過不鹹，炒飯是醬油口味，裡面除了青椒還加了些許蘑菇片，味道還可以，不過豬肉絲大半是肥肉，不太合個人口味。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "外帶青椒豬肉絲炒飯，加點10元滷豆干，豆干有滷過，不過不鹹，炒飯是醬油口味，裡面除了青椒還加了些許蘑菇片，味道還可以，不過豬肉絲大半是肥肉，不太合個人口味。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Sue",
+        "uri": "https://www.google.com/maps/contrib/107144068272523674855/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUxeJs0CdpN3JtLZQYLYINcPcl_pRSrwpl5jlWxgLv9dFTuC2q2yQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-20T12:57:20.868098866Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKMlRWQXllWFp6ZUZwbFltNXVOSEJLYkhOZk5YYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKMlRWQXllWFp6ZUZwbFltNXVOSEJLYkhOZk5YYxAB!2m1!1s0x3442a9b63c7dfb25:0xc4a65c60ef472508"
+    },
+    {
+      "name": "places/ChIJJft9PLapQjQRCCVH72BcpsQ/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYcDd2MUp3EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "牛肉炒飯：肉量對得起價格，口感驚艷、軟嫩帶勁！\n隔壁街的炒飯真的有對手，肯定再回訪！\n好吃，有推！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "牛肉炒飯：肉量對得起價格，口感驚艷、軟嫩帶勁！\n隔壁街的炒飯真的有對手，肯定再回訪！\n好吃，有推！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "廖國仁",
+        "uri": "https://www.google.com/maps/contrib/117211963468708678615/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWJsM6AQ97Msut1iti9lmWj7X7EJeMHZbrL9vJRXBPqR2QBFQT46A=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2024-10-21T11:02:34.213185Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYcDd2MUp3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYcDd2MUp3EAE!2m1!1s0x3442a9b63c7dfb25:0xc4a65c60ef472508"
+    },
+    {
+      "name": "places/ChIJJft9PLapQjQRCCVH72BcpsQ/reviews/ChZDSUhNMG9nS0VOTEF6cnkyOVpIZGZREAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "內用區只有一條桌子，無冷氣，外帶者居多，出餐速度不慢，可以先撥電話訂餐\n\n未加大份量對成年男性還ok，味道稍鹹，醬油味濃，飯粒濕潤，粒粒分明，但有點太油，可以加辣，但辣度對於平常會吃辣的人可能不太會辣，價格以附近物價算便宜，屬於一家會回訪的炒飯店",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "內用區只有一條桌子，無冷氣，外帶者居多，出餐速度不慢，可以先撥電話訂餐\n\n未加大份量對成年男性還ok，味道稍鹹，醬油味濃，飯粒濕潤，粒粒分明，但有點太油，可以加辣，但辣度對於平常會吃辣的人可能不太會辣，價格以附近物價算便宜，屬於一家會回訪的炒飯店",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Alex Tsai",
+        "uri": "https://www.google.com/maps/contrib/115976367296545149541/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX8Y65EfwJxclKC79S05v_fDfFn1q7FpaDgqKG1fYSR6MIfM3c=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-05-12T05:13:19.474762Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VOTEF6cnkyOVpIZGZREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VOTEF6cnkyOVpIZGZREAE!2m1!1s0x3442a9b63c7dfb25:0xc4a65c60ef472508"
+    },
+    {
+      "name": "places/ChIJJft9PLapQjQRCCVH72BcpsQ/reviews/ChZDSUhNMG9nS0VJQ0FnSURIM2JXUkdnEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 3,
+      "text": {
+        "text": "跟同事一起享用同一家餐廳\n為什麼我的沙茶羊肉燴飯跟他的板條感受大不同\n無論是粄條還是燴飯份量十分足夠\n環境衛生真的做得很好\n但是我不得不說我的沙茶羊肉味道真的很清淡…..我相當難得，吃到感到很清爽的沙茶羊肉燴飯…是不是需要跟老闆現場提醒吃重口味的要做調整\n\n會回購",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "跟同事一起享用同一家餐廳\n為什麼我的沙茶羊肉燴飯跟他的板條感受大不同\n無論是粄條還是燴飯份量十分足夠\n環境衛生真的做得很好\n但是我不得不說我的沙茶羊肉味道真的很清淡…..我相當難得，吃到感到很清爽的沙茶羊肉燴飯…是不是需要跟老闆現場提醒吃重口味的要做調整\n\n會回購",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Thanatos Zhu",
+        "uri": "https://www.google.com/maps/contrib/116960023538250476287/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXwAObpAeZqfNqa2indUQ_BsjWw1WXf9S8ohDajqCAXOHIHNI=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2024-09-19T03:39:30.540563Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURIM2JXUkdnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURIM2JXUkdnEAE!2m1!1s0x3442a9b63c7dfb25:0xc4a65c60ef472508"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

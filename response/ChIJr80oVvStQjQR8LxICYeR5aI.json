@@ -1,0 +1,135 @@
+{
+  "id": "ChIJr80oVvStQjQR8LxICYeR5aI",
+  "types": [
+    "coffee_shop",
+    "cafe",
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2799 6898",
+  "formattedAddress": "114台灣臺北市內湖區港都里麗山街332 號",
+  "location": {
+    "latitude": 25.0829173,
+    "longitude": 121.5731744
+  },
+  "rating": 4.6,
+  "websiteUri": "https://www.facebook.com/aroscoffee/",
+  "userRatingCount": 400,
+  "displayName": {
+    "text": "AROS COFFEE 一縷光",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJr80oVvStQjQR8LxICYeR5aI/reviews/Ci9DQUlRQUNvZENodHljRjlvT213NFkyRmpiakpyYnpGUFIybEVaVWRYVGpKa1FXYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "能在聖誕節🎄休假時享用到這麼美味的冬日草莓🍓帕妃和《沐冬》，非常幸福！\n\n每一個元素完成度都非常高、整體風味非常調和且酸甜平衡！脆脆的酥片、淡淡薰衣草、櫻桃醬都是驚喜，以後還要來嘗試其他甜點和特調咖啡！：）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "能在聖誕節🎄休假時享用到這麼美味的冬日草莓🍓帕妃和《沐冬》，非常幸福！\n\n每一個元素完成度都非常高、整體風味非常調和且酸甜平衡！脆脆的酥片、淡淡薰衣草、櫻桃醬都是驚喜，以後還要來嘗試其他甜點和特調咖啡！：）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Clovia Wu",
+        "uri": "https://www.google.com/maps/contrib/116601111704406655824/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU3HaOvmg7-wqPAALKBwa0SyhOgA3K0qV9DY28nkvC8jNv9j7Qb3g=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-24T10:23:55.190688740Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT213NFkyRmpiakpyYnpGUFIybEVaVWRYVGpKa1FXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT213NFkyRmpiakpyYnpGUFIybEVaVWRYVGpKa1FXYxAB!2m1!1s0x3442adf45628cdaf:0xa2e591870948bcf0"
+    },
+    {
+      "name": "places/ChIJr80oVvStQjQR8LxICYeR5aI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsUVkyOWxSVTlCYVZabU9UaFpURmwyWDFWb1VtYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "韓式氛圍的咖啡廳，\n咖啡跟甜甜的表現都很驚艷！\n我自己很喜歡他們的肉桂捲，\n另外可麗露也非常好吃。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "韓式氛圍的咖啡廳，\n咖啡跟甜甜的表現都很驚艷！\n我自己很喜歡他們的肉桂捲，\n另外可麗露也非常好吃。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Annie Hsieh",
+        "uri": "https://www.google.com/maps/contrib/116987204530153045215/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXREU4ErCyxs70AbZYE_HMbblz0XueSzgKObUMYjmlk14eA6Lv2=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-14T06:01:28.533373953Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsUVkyOWxSVTlCYVZabU9UaFpURmwyWDFWb1VtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsUVkyOWxSVTlCYVZabU9UaFpURmwyWDFWb1VtYxAB!2m1!1s0x3442adf45628cdaf:0xa2e591870948bcf0"
+    },
+    {
+      "name": "places/ChIJr80oVvStQjQR8LxICYeR5aI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2prNE9HWm5ORVJJTTJabFprdEZhM28yZG5aMk1GRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "環境真的很美，整個空間很舒服、很有質感，坐下來就會想慢慢享受☕️\n餐點也很好吃，尤其是肉桂捲，上面的奶霜我真的好喜歡，濃郁但不膩。\n飲品上的焦糖塊好特別，搭配起來很有記憶點，是會讓人記住的味道。\n服務也非常好，細心又親切，是會想再回訪的店🙂",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境真的很美，整個空間很舒服、很有質感，坐下來就會想慢慢享受☕️\n餐點也很好吃，尤其是肉桂捲，上面的奶霜我真的好喜歡，濃郁但不膩。\n飲品上的焦糖塊好特別，搭配起來很有記憶點，是會讓人記住的味道。\n服務也非常好，細心又親切，是會想再回訪的店🙂",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Barber Safina",
+        "uri": "https://www.google.com/maps/contrib/102512944622606150180/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUVXtOmbGQ3iz0wqNGr9iUtaeXDZo9MVySo2yzZNFX7QmbWpm53WQ=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-04T05:13:24.033499851Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2prNE9HWm5ORVJJTTJabFprdEZhM28yZG5aMk1GRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2prNE9HWm5ORVJJTTJabFprdEZhM28yZG5aMk1GRRAB!2m1!1s0x3442adf45628cdaf:0xa2e591870948bcf0"
+    },
+    {
+      "name": "places/ChIJr80oVvStQjQR8LxICYeR5aI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsbWExaEtSMUpVYjBGdGFqUkNkRlJETFZkeWIwRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "舒服的咖啡空間，線上QRcode menu，飲料和甜點都很不錯，內湖地區的好地方",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "舒服的咖啡空間，線上QRcode menu，飲料和甜點都很不錯，內湖地區的好地方",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Midoba",
+        "uri": "https://www.google.com/maps/contrib/107713133221760570880/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXLVsI-2ma5pFHsw7sh_-TCI_y1Cy_eESLDIzSmj8vaaEkBU3IAtQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-11T10:33:43.021864802Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsbWExaEtSMUpVYjBGdGFqUkNkRlJETFZkeWIwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsbWExaEtSMUpVYjBGdGFqUkNkRlJETFZkeWIwRRAB!2m1!1s0x3442adf45628cdaf:0xa2e591870948bcf0"
+    },
+    {
+      "name": "places/ChIJr80oVvStQjQR8LxICYeR5aI/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xUVpXSmFlbXhZZWxOWFZYUnVPWE0wYTNOUE1GRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "午茶餐點種類嫌少 相較於價錢 數量有點少 蛋糕尺寸有點小 上餐時間有點慢",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "午茶餐點種類嫌少 相較於價錢 數量有點少 蛋糕尺寸有點小 上餐時間有點慢",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "star tsai",
+        "uri": "https://www.google.com/maps/contrib/110441850116298806854/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtV4HiX-AB83frClIs6bPqQYWzpQqDbfNoqqINi7mITMdQHeGftw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-08T08:02:01.458992252Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xUVpXSmFlbXhZZWxOWFZYUnVPWE0wYTNOUE1GRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xUVpXSmFlbXhZZWxOWFZYUnVPWE0wYTNOUE1GRRAB!2m1!1s0x3442adf45628cdaf:0xa2e591870948bcf0"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": false
+}

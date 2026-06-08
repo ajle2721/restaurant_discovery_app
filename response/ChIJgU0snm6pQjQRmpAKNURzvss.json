@@ -1,0 +1,133 @@
+{
+  "id": "ChIJgU0snm6pQjQRmpAKNURzvss",
+  "types": [
+    "fast_food_restaurant",
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2558 8883",
+  "formattedAddress": "103台灣臺北市大同區建泰里南京西路18巷20號",
+  "location": {
+    "latitude": 25.0511634,
+    "longitude": 121.52014080000001
+  },
+  "rating": 4.3,
+  "userRatingCount": 905,
+  "displayName": {
+    "text": "Bun Bun 棒棒 中山店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJgU0snm6pQjQRmpAKNURzvss/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pVd1VUSTVRa3RyV1hwRGQwSjZjR3RhZW1SV01rRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "Bun bun 脆皮吐司麵包\n今天點了油條麻辣豬 口味\n麵包香酥 搭配炒過的麻辣豬\n老油條酥脆 一起吃 蠻好吃的\n美式脆薯搭配蒜味奶焗醬\n蒜味鹹香又有一點奶油香\n搭配起來我超愛的\n內用環境很乾淨 寬敞\n很適合坐下來慢慢吃享受一下",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "Bun bun 脆皮吐司麵包\n今天點了油條麻辣豬 口味\n麵包香酥 搭配炒過的麻辣豬\n老油條酥脆 一起吃 蠻好吃的\n美式脆薯搭配蒜味奶焗醬\n蒜味鹹香又有一點奶油香\n搭配起來我超愛的\n內用環境很乾淨 寬敞\n很適合坐下來慢慢吃享受一下",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林睦祥",
+        "uri": "https://www.google.com/maps/contrib/102176964836416582332/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV42wBQWXnJbr6AUat3qf4PwRtRgXDNJeU-qgD8tOU8Q1d7KaQ6=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-03-02T05:30:37.097749085Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pVd1VUSTVRa3RyV1hwRGQwSjZjR3RhZW1SV01rRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pVd1VUSTVRa3RyV1hwRGQwSjZjR3RhZW1SV01rRRAB!2m1!1s0x3442a96e9e2c4d81:0xcbbe7344350a909a"
+    },
+    {
+      "name": "places/ChIJgU0snm6pQjQRmpAKNURzvss/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WWlNWOXNaMjFZYUdzMlJ6Tm1iVFZMZVRkelRXYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 3,
+      "text": {
+        "text": "位於中山地理位置感覺起來還不錯，但卻已經變成沒什麼人潮了。\n先評價餐點部分，自己的口味來說蠻滿意的相對價格也還能接受，麵包外皮酥脆好吃，麵包中間鬆軟，今天是點辣味，對愛吃辣的我稍嫌不足，但肉醬味足！食物的部分會有想回訪。\n但從入店到用餐中間有了一些沒人潮的原因想法⋯⋯大約兩點多點餐，現場內外共只有兩名店員，接待顧客困難，仔細看店內坐滿1/2，侯餐的事後算了共三組，讓人感覺起來應該是沒有過於忙碌，店員沒有好的服務態度就算了（店員不想碰錢、不想親手拿錢給顧客，建議店家就放個錢盤，好讓店員不要亂丟銅板），畢竟很多人說自己餐飲業不是服務業，確實也不是付錢的就是老大，但整體用餐感覺不對應該就是會越來越流失顧客。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "位於中山地理位置感覺起來還不錯，但卻已經變成沒什麼人潮了。\n先評價餐點部分，自己的口味來說蠻滿意的相對價格也還能接受，麵包外皮酥脆好吃，麵包中間鬆軟，今天是點辣味，對愛吃辣的我稍嫌不足，但肉醬味足！食物的部分會有想回訪。\n但從入店到用餐中間有了一些沒人潮的原因想法⋯⋯大約兩點多點餐，現場內外共只有兩名店員，接待顧客困難，仔細看店內坐滿1/2，侯餐的事後算了共三組，讓人感覺起來應該是沒有過於忙碌，店員沒有好的服務態度就算了（店員不想碰錢、不想親手拿錢給顧客，建議店家就放個錢盤，好讓店員不要亂丟銅板），畢竟很多人說自己餐飲業不是服務業，確實也不是付錢的就是老大，但整體用餐感覺不對應該就是會越來越流失顧客。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Eating Z",
+        "uri": "https://www.google.com/maps/contrib/117548750127293933638/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW0VLzvmnmAlk-xdnr3M4sttBQWEJj-ecaEUIpXEExGftab8GJa=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-11-02T11:58:15.482885179Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WWlNWOXNaMjFZYUdzMlJ6Tm1iVFZMZVRkelRXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WWlNWOXNaMjFZYUdzMlJ6Tm1iVFZMZVRkelRXYxAB!2m1!1s0x3442a96e9e2c4d81:0xcbbe7344350a909a"
+    },
+    {
+      "name": "places/ChIJgU0snm6pQjQRmpAKNURzvss/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxTU1XbEZUWGt5Um1sMGJrZDRRMFYwV0RWQ2VFRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "麵包真的很好吃，外酥內鬆軟，就算冷掉也不會感覺膩口！推薦咖喱可樂餅口味，辣肉醬德腸！店內不限時",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "麵包真的很好吃，外酥內鬆軟，就算冷掉也不會感覺膩口！推薦咖喱可樂餅口味，辣肉醬德腸！店內不限時",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "徐小謙（廣州）",
+        "uri": "https://www.google.com/maps/contrib/118330202478371225505/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUOIGE5CkwFSrXRmKHoczEw3JoS_hnEgv7f86_6um72xewW2GFP=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-30T06:08:39.022266270Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxTU1XbEZUWGt5Um1sMGJrZDRRMFYwV0RWQ2VFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxTU1XbEZUWGt5Um1sMGJrZDRRMFYwV0RWQ2VFRRAB!2m1!1s0x3442a96e9e2c4d81:0xcbbe7344350a909a"
+    },
+    {
+      "name": "places/ChIJgU0snm6pQjQRmpAKNURzvss/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aaFZWbzBNa3B2ZEZsU1RHaE9WREZzWXpsTGVVRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點為現點現做，好吃，這次點辣肉醬脆雞、青乳酪雞，兩款都很扎實！麵包煎過但依舊柔軟，內餡香酥！套餐限45飲品！推薦大家",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點為現點現做，好吃，這次點辣肉醬脆雞、青乳酪雞，兩款都很扎實！麵包煎過但依舊柔軟，內餡香酥！套餐限45飲品！推薦大家",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃榮輝",
+        "uri": "https://www.google.com/maps/contrib/107117350072327662077/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWiMjcrmjOeZw6Fv25QXueYI9nWMQnPYXXbvDyLFeBiNNprd-9Jng=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-10T13:45:49.197883763Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aaFZWbzBNa3B2ZEZsU1RHaE9WREZzWXpsTGVVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aaFZWbzBNa3B2ZEZsU1RHaE9WREZzWXpsTGVVRRAB!2m1!1s0x3442a96e9e2c4d81:0xcbbe7344350a909a"
+    },
+    {
+      "name": "places/ChIJgU0snm6pQjQRmpAKNURzvss/reviews/Ci9DQUlRQUNvZENodHljRjlvT201b1FYWTNTblpYTW1KcFIyY3liVzlKT0ZSa01uYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "假日很多早午餐店都很晚開，散步走到這裡想說試試看，結果起司德腸每一口都驚艷，冷萃咖啡也很有層次，薯條的特殊醬料也襯托出薯條的脆和香，整體很驚艷\n\n而且假日9:00左右來不用人擠人，可以慢慢享受",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "假日很多早午餐店都很晚開，散步走到這裡想說試試看，結果起司德腸每一口都驚艷，冷萃咖啡也很有層次，薯條的特殊醬料也襯托出薯條的脆和香，整體很驚艷\n\n而且假日9:00左右來不用人擠人，可以慢慢享受",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jeff Shen",
+        "uri": "https://www.google.com/maps/contrib/112695276824905209708/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVth3Gwlpqr80Ab6MN-KN4jN7nmynAHXN4Vxs04iWE2gfhpEOZJGg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-10T01:49:50.641637186Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201b1FYWTNTblpYTW1KcFIyY3liVzlKT0ZSa01uYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201b1FYWTNTblpYTW1KcFIyY3liVzlKT0ZSa01uYxAB!2m1!1s0x3442a96e9e2c4d81:0xcbbe7344350a909a"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

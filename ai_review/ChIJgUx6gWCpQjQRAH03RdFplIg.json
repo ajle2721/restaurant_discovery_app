@@ -1,0 +1,52 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "一樓服務區與用餐區共用，由於用餐點餐及外送取餐人員交錯，故稍嫌壅塞吵雜。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "Google Maps Attributes: Good for children (官方標記：適合兒童)",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "No",
+        "evidence": "已取消B1 的座位區，只剩一樓少數座位。",
+        "confidence": 0.9
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "已取消B1 的座位區，只剩一樓少數座位。",
+        "一樓服務區與用餐區共用，由於用餐點餐及外送取餐人員交錯，故稍嫌壅塞吵雜。",
+        "Google Maps Attributes: Good for children (官方標記：適合兒童)"
+    ],
+    "generated_summary": "該店雖被標記為適合兒童，但目前店內空間較為擁擠，且B1座位區已取消，僅剩一樓少量座位，用餐環境較為吵雜，建議攜帶幼童前往時需留意空間狀況。",
+    "card_summary": ""
+}

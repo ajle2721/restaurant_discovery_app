@@ -1,0 +1,136 @@
+{
+  "id": "ChIJd3jNz8ytQjQR9a5vXn3l9O0",
+  "types": [
+    "coffee_stand",
+    "cafe",
+    "meal_delivery",
+    "dessert_shop",
+    "confectionery",
+    "food_store",
+    "food_delivery",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2657 3737",
+  "formattedAddress": "114台灣臺北市內湖區麗山里內湖路一段407號1樓",
+  "location": {
+    "latitude": 25.0817519,
+    "longitude": 121.57072029999999
+  },
+  "rating": 4.9,
+  "websiteUri": "https://visavis.tw/",
+  "userRatingCount": 49,
+  "displayName": {
+    "text": "永希咖啡麗山店（VISAVISCOFFEE LISHAN）《快速自取咖啡》咖啡豆推薦｜咖啡豆外送｜會議點心｜團購咖啡｜精緻下午茶｜平價咖啡｜上班族咖啡",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJd3jNz8ytQjQR9a5vXn3l9O0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGWFlqRXROekYzTlVscWVHZFJjVXBsYjA5RFJYYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "我不太能喝咖啡，店員就很貼心地推薦我喝看看陽光水果茶。味道很自然清爽，而且是無咖啡因、無糖的（超適合我）。我幫同事買了柑橘乳酪蛋糕，她說吃起來蠻清爽、口感也不錯。蠻開心的有發現這家店，已收入愛店名單～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "我不太能喝咖啡，店員就很貼心地推薦我喝看看陽光水果茶。味道很自然清爽，而且是無咖啡因、無糖的（超適合我）。我幫同事買了柑橘乳酪蛋糕，她說吃起來蠻清爽、口感也不錯。蠻開心的有發現這家店，已收入愛店名單～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Feng",
+        "uri": "https://www.google.com/maps/contrib/118277758831918635356/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUQXNdzVc7toSIdwkni8CLJtdTyVGm7Dg8TwkQeiunLuPlsBRY=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-04T10:53:50.947194027Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGWFlqRXROekYzTlVscWVHZFJjVXBsYjA5RFJYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGWFlqRXROekYzTlVscWVHZFJjVXBsYjA5RFJYYxAB!2m1!1s0x3442adcccfcd7877:0xedf4e57d5e6faef5"
+    },
+    {
+      "name": "places/ChIJd3jNz8ytQjQR9a5vXn3l9O0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sclJVZFdVVGQ1YlZKdE1uZDRkR1l0TWtrM1JHYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "每次經過麗山店都會帶一瓶莊園冷萃回家，喝這麼多次，品質真的蠻穩定的。香氣濃郁但不會苦，喝起來很順口。老實說，這品質比很多連鎖品牌都好，價格也便宜，蠻划算的我覺得",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "每次經過麗山店都會帶一瓶莊園冷萃回家，喝這麼多次，品質真的蠻穩定的。香氣濃郁但不會苦，喝起來很順口。老實說，這品質比很多連鎖品牌都好，價格也便宜，蠻划算的我覺得",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "蔡富典",
+        "uri": "https://www.google.com/maps/contrib/108323584410704441480/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL06flhV_jo9FSwLKEYc00hZNDLApvP3Gv4Dh0ruXykQO1KqQ=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-03T16:02:21.368042795Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sclJVZFdVVGQ1YlZKdE1uZDRkR1l0TWtrM1JHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sclJVZFdVVGQ1YlZKdE1uZDRkR1l0TWtrM1JHYxAB!2m1!1s0x3442adcccfcd7877:0xedf4e57d5e6faef5"
+    },
+    {
+      "name": "places/ChIJd3jNz8ytQjQR9a5vXn3l9O0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21velFuUjRORkpHVTB4eVZWZFZYemx5YjFnelIyYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "在外面真的很少喝到好喝的中深焙冰滴，但這瓶真的不錯。香氣濃郁又沒有焦苦味，喝的時候還有一點威士忌的香氣。店員有建議我加幾顆冰塊一起喝，直接喝會比較濃。果然加冰塊一起喝之後，味道就變得很平衡又順口",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在外面真的很少喝到好喝的中深焙冰滴，但這瓶真的不錯。香氣濃郁又沒有焦苦味，喝的時候還有一點威士忌的香氣。店員有建議我加幾顆冰塊一起喝，直接喝會比較濃。果然加冰塊一起喝之後，味道就變得很平衡又順口",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳明煌",
+        "uri": "https://www.google.com/maps/contrib/106653512872636060863/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKMwkIv-3VK7rBpBPDZJ1KqM5JtJbrs74hgv1Kp6p4fcqFv3w=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-04T21:55:23.237490250Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21velFuUjRORkpHVTB4eVZWZFZYemx5YjFnelIyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21velFuUjRORkpHVTB4eVZWZFZYemx5YjFnelIyYxAB!2m1!1s0x3442adcccfcd7877:0xedf4e57d5e6faef5"
+    },
+    {
+      "name": "places/ChIJd3jNz8ytQjQR9a5vXn3l9O0/reviews/ChZDSUhNMG9nS0VJQ0FnSURybUlYalVREAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "外帶咖啡專門店。\n\n老闆很帥很帥、人也好親切，完全感受得到老闆的用心與認真。\n\n冷萃咖啡超級好喝、價錢在內湖來說真的是無敵了！ 很推薦～～\n\n西西里咖啡我也還蠻喜歡，不會很死酸、喝起來很順口咖啡香氣也沒有被蓋掉太多\n\n外帶杯很貼心地用封膜包一層避免濺出\n\n巴斯克非常好吃！🍰\n肉桂捲也好讚 🤤\n\n雖然只能外帶是有點可惜、不過好的店家需要大家多多支持～～～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "外帶咖啡專門店。\n\n老闆很帥很帥、人也好親切，完全感受得到老闆的用心與認真。\n\n冷萃咖啡超級好喝、價錢在內湖來說真的是無敵了！ 很推薦～～\n\n西西里咖啡我也還蠻喜歡，不會很死酸、喝起來很順口咖啡香氣也沒有被蓋掉太多\n\n外帶杯很貼心地用封膜包一層避免濺出\n\n巴斯克非常好吃！🍰\n肉桂捲也好讚 🤤\n\n雖然只能外帶是有點可惜、不過好的店家需要大家多多支持～～～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Kakarott",
+        "uri": "https://www.google.com/maps/contrib/104202283641046705449/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUxipx-e8OxcTDDTF0hbf0CMlvTVk49Bugqtq8WAts3ox7Lo3Nyiw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2024-07-14T04:42:00.478217Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURybUlYalVREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURybUlYalVREAE!2m1!1s0x3442adcccfcd7877:0xedf4e57d5e6faef5"
+    },
+    {
+      "name": "places/ChIJd3jNz8ytQjQR9a5vXn3l9O0/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3cFB2Z2t3RRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "內湖在地品牌永希咖啡第2間分店，鄰近西湖站、內湖科技園區，因主打外帶，咖啡餐點品項和碧湖店稍有區隔，美味不減，價格更平實。永希咖啡麗山店店面雖小，但冰滴 咖啡、厚奶拿鐵、餅乾、氣泡飲、茶飲、布丁、提拉米蘇應有盡有，推薦迷你巧克力捲、肉桂捲，造型可愛，方便上班族辦公室分食、分享。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "內湖在地品牌永希咖啡第2間分店，鄰近西湖站、內湖科技園區，因主打外帶，咖啡餐點品項和碧湖店稍有區隔，美味不減，價格更平實。永希咖啡麗山店店面雖小，但冰滴 咖啡、厚奶拿鐵、餅乾、氣泡飲、茶飲、布丁、提拉米蘇應有盡有，推薦迷你巧克力捲、肉桂捲，造型可愛，方便上班族辦公室分食、分享。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "小七",
+        "uri": "https://www.google.com/maps/contrib/116497644738724454731/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7teJ69fWFt6v0bWKsa-fmew9b2FMhzse4CpsLZ0naap8OnCF_=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2024-08-12T18:31:03.983753Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM3cFB2Z2t3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM3cFB2Z2t3RRAB!2m1!1s0x3442adcccfcd7877:0xedf4e57d5e6faef5"
+    }
+  ]
+}

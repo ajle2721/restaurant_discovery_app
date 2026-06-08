@@ -1,0 +1,136 @@
+{
+  "id": "ChIJxasO03GrQjQReRLRrOixg-8",
+  "types": [
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2930 7711",
+  "formattedAddress": "11684台灣臺北市文山區景東里景興路143號",
+  "location": {
+    "latitude": 24.994093499999998,
+    "longitude": 121.54487270000001
+  },
+  "rating": 4.9,
+  "websiteUri": "https://www.pizzahut.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 637,
+  "displayName": {
+    "text": "PIZZA HUT必勝客-景美外送店",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJxasO03GrQjQReRLRrOixg-8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCTk5VOHhWSGxRY1dwWFRHcHRhWE0wTVROd05XYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "覺得個人餐很划算🍕🍗🧃\n第一次下載app還會送小點心🍫\n下次還要繼續用app先點～\n這樣就不用等待⌛️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "覺得個人餐很划算🍕🍗🧃\n第一次下載app還會送小點心🍫\n下次還要繼續用app先點～\n這樣就不用等待⌛️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "侯阿丁",
+        "uri": "https://www.google.com/maps/contrib/116220231144774763668/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI0U5KQo46aChAcLHoyEccHrH7PQzzFaEZ0Dpt1G44ur297TFg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-09-26T07:49:09.530732393Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCTk5VOHhWSGxRY1dwWFRHcHRhWE0wTVROd05XYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCTk5VOHhWSGxRY1dwWFRHcHRhWE0wTVROd05XYxAB!2m1!1s0x3442ab71d30eabc5:0xef83b1e8acd11279"
+    },
+    {
+      "name": "places/ChIJxasO03GrQjQReRLRrOixg-8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xJdE1sWjJjaTFhUVZKb1dqSk9UVGxNUzNOMVMwRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "服務人員很親切，餐點好吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "服務人員很親切，餐點好吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳威寶",
+        "uri": "https://www.google.com/maps/contrib/101785262667104971104/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX6zFJkVn7CMcnwblflgOBHEff4rnkMpKd9UV1awsBQ0gnsYdE=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-21T04:37:24.619253279Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xJdE1sWjJjaTFhUVZKb1dqSk9UVGxNUzNOMVMwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xJdE1sWjJjaTFhUVZKb1dqSk9UVGxNUzNOMVMwRRAB!2m1!1s0x3442ab71d30eabc5:0xef83b1e8acd11279"
+    },
+    {
+      "name": "places/ChIJxasO03GrQjQReRLRrOixg-8/reviews/ChZDSUhNMG9nS0VJQ0FnSURfOFBicVdBEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 2,
+      "text": {
+        "text": "趁著大批薩外帶199活動買了一個咖哩海鮮，拿在手上相當輕，打開一看料非常少，還有一片批薩上完全沒有料，要做活動也不要差太多，估計料只有正常的一半而已吧，連起司和咖哩粉可能都較少，吃不出咖哩和起司味",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "趁著大批薩外帶199活動買了一個咖哩海鮮，拿在手上相當輕，打開一看料非常少，還有一片批薩上完全沒有料，要做活動也不要差太多，估計料只有正常的一半而已吧，連起司和咖哩粉可能都較少，吃不出咖哩和起司味",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jacky Tsai",
+        "uri": "https://www.google.com/maps/contrib/114816792161219537896/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI25B7Ev_rdg9YoDBPyzmGoWCHtrF-WToDwhsIaMOJujaeB-w=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-01-21T00:54:11.683761Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfOFBicVdBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfOFBicVdBEAE!2m1!1s0x3442ab71d30eabc5:0xef83b1e8acd11279"
+    },
+    {
+      "name": "places/ChIJxasO03GrQjQReRLRrOixg-8/reviews/ChdDSUhNMG9nS0VJQ0FnTURBaFlici13RRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "平常都網路外送 第一次親臨店家點餐 感覺店員服務都很親切 環境也乾淨明亮 在現場點餐 外帶 反而覺得比外送還要快許多",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "平常都網路外送 第一次親臨店家點餐 感覺店員服務都很親切 環境也乾淨明亮 在現場點餐 外帶 反而覺得比外送還要快許多",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "靜格格",
+        "uri": "https://www.google.com/maps/contrib/107076682366917345668/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXghhN6_I6lMffSawz0XOsOrROdcscb-pnG_N70rrSt350KyR69RA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-02-10T11:39:32.870757Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBaFlici13RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBaFlici13RRAB!2m1!1s0x3442ab71d30eabc5:0xef83b1e8acd11279"
+    },
+    {
+      "name": "places/ChIJxasO03GrQjQReRLRrOixg-8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pocmJFVlBSbGhKWTI1VVNIVlFjVm80YVhKeVUwRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點快速，內場也有帶好帽子，讓人放心～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點快速，內場也有帶好帽子，讓人放心～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hank",
+        "uri": "https://www.google.com/maps/contrib/107707577433242350629/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV58jBkwZ3JdhdFttO_GSY4sE1jcnN_spi0n7_BVvMAyGhphg97=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-27T09:15:41.814535950Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pocmJFVlBSbGhKWTI1VVNIVlFjVm80YVhKeVUwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pocmJFVlBSbGhKWTI1VVNIVlFjVm80YVhKeVUwRRAB!2m1!1s0x3442ab71d30eabc5:0xef83b1e8acd11279"
+    }
+  ],
+  "menuForChildren": false
+}

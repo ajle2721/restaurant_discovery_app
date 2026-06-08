@@ -1,0 +1,131 @@
+{
+  "id": "ChIJu7beqj2vQjQRHONTMfd4CmA",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 903 004 848",
+  "formattedAddress": "112台灣臺北市北投區關渡里知行路260巷48號",
+  "location": {
+    "latitude": 25.1207209,
+    "longitude": 121.46902879999999
+  },
+  "rating": 4.7,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 470,
+  "displayName": {
+    "text": "天空廚房",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJu7beqj2vQjQRHONTMfd4CmA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkMWJHaEhaRlEyWVVkM1dWbzRhVjk0VmpCbU5WRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "因為要聽演講才到關渡附近，就近找了一家店午餐，溫馨小巧的家庭式餐廳，早上士林鬱金香拍太多手機快沒電了，又忘了帶行動電源..跟店員妹妹提出無理的要求，看有沒有type c的充電線可借，她們盡力找出來借我，連在廚房的老闆都幫忙，真的是太感動了！乾煎馬頭魚套餐煎得酥酥脆脆的，非常好吃，我是蔬菜重度需求者，青菜份量也給很足，濃湯跟紅茶還可續，CP值超高！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "因為要聽演講才到關渡附近，就近找了一家店午餐，溫馨小巧的家庭式餐廳，早上士林鬱金香拍太多手機快沒電了，又忘了帶行動電源..跟店員妹妹提出無理的要求，看有沒有type c的充電線可借，她們盡力找出來借我，連在廚房的老闆都幫忙，真的是太感動了！乾煎馬頭魚套餐煎得酥酥脆脆的，非常好吃，我是蔬菜重度需求者，青菜份量也給很足，濃湯跟紅茶還可續，CP值超高！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chuyun Cheng",
+        "uri": "https://www.google.com/maps/contrib/115518056596226968212/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV7IDTI1UIrjCXwylf1Z2u6kFal8pKRfwLnAdSDehU_u2aQ7lyFRg=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-03-08T09:47:32.779280755Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkMWJHaEhaRlEyWVVkM1dWbzRhVjk0VmpCbU5WRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkMWJHaEhaRlEyWVVkM1dWbzRhVjk0VmpCbU5WRRAB!2m1!1s0x3442af3daadeb6bb:0x600a78f73153e31c"
+    },
+    {
+      "name": "places/ChIJu7beqj2vQjQRHONTMfd4CmA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ZNFRVTkZVSGh6UkdaNlQxUjBZVmN4TVRWYWRYYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "跟朋友到關渡自然公園走走  一起來晚餐。老闆 很親切熱情❤️ 餐前的招呼 餐後的私人招待小餅乾 跟暢談，會有到熟人家 作客的感覺⋯⋯。我們是吃素食的焗烤通心麵，料實在 焗烤好吃不膩，到關渡 真的可以來作客😊⋯⋯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "跟朋友到關渡自然公園走走  一起來晚餐。老闆 很親切熱情❤️ 餐前的招呼 餐後的私人招待小餅乾 跟暢談，會有到熟人家 作客的感覺⋯⋯。我們是吃素食的焗烤通心麵，料實在 焗烤好吃不膩，到關渡 真的可以來作客😊⋯⋯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "佳佳",
+        "uri": "https://www.google.com/maps/contrib/115294501800669613964/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUsSrfF1DdiRTcLFCqL9RnIvvFLm2z9T2tYhosBmfxaaMyh0nQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-14T03:57:13.837441532Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ZNFRVTkZVSGh6UkdaNlQxUjBZVmN4TVRWYWRYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ZNFRVTkZVSGh6UkdaNlQxUjBZVmN4TVRWYWRYYxAB!2m1!1s0x3442af3daadeb6bb:0x600a78f73153e31c"
+    },
+    {
+      "name": "places/ChIJu7beqj2vQjQRHONTMfd4CmA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5Sk1rdDFXSFZCWldodlVtTlBiRWhFYUhnMlJFRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "很溫馨的小店 老闆非常可愛\n我點蔬食焗烤菜超多！吃到很多菜很開心！\n味道也很讚讚讚！附送ㄉ烤麵包好吃 如果可以續麵包應該會幸福死！\n希望大家都來嘗試可愛善良的小店！跟老闆聊聊天\n\nPs 店門ㄉ把手很高（到我我下巴）非常🆒",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很溫馨的小店 老闆非常可愛\n我點蔬食焗烤菜超多！吃到很多菜很開心！\n味道也很讚讚讚！附送ㄉ烤麵包好吃 如果可以續麵包應該會幸福死！\n希望大家都來嘗試可愛善良的小店！跟老闆聊聊天\n\nPs 店門ㄉ把手很高（到我我下巴）非常🆒",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳迦美",
+        "uri": "https://www.google.com/maps/contrib/107586389354457382276/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWbL6-qYkQI77ZyGuUReAaqUhGfiRNgyAUHgOlbAJpu76l3FNH65g=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-10-25T13:27:36.091104689Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5Sk1rdDFXSFZCWldodlVtTlBiRWhFYUhnMlJFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5Sk1rdDFXSFZCWldodlVtTlBiRWhFYUhnMlJFRRAB!2m1!1s0x3442af3daadeb6bb:0x600a78f73153e31c"
+    },
+    {
+      "name": "places/ChIJu7beqj2vQjQRHONTMfd4CmA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOR2IxZDFWR0ZpVkZsR1FsbEVaR2xqY2pSSFgyYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "好吃，CP值高的溫馨小餐館\n老闆及服務員熱心服務\n牛肉套餐及青醬義大利麵口味棒",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "好吃，CP值高的溫馨小餐館\n老闆及服務員熱心服務\n牛肉套餐及青醬義大利麵口味棒",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "JH Hu",
+        "uri": "https://www.google.com/maps/contrib/115298168751650306089/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL5AR3QOr_0E_d99zU2c8uaYepdXyTk5BMR4U8KgMzSP2UqPw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-15T12:21:23.587184361Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOR2IxZDFWR0ZpVkZsR1FsbEVaR2xqY2pSSFgyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOR2IxZDFWR0ZpVkZsR1FsbEVaR2xqY2pSSFgyYxAB!2m1!1s0x3442af3daadeb6bb:0x600a78f73153e31c"
+    },
+    {
+      "name": "places/ChIJu7beqj2vQjQRHONTMfd4CmA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psNlpXTjFjR2xJWVhVeFpIVkxVazVUTjJSUE1HYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "老闆服務非常好，餐點也很好吃！\n是個溫馨適合家庭用餐的可愛餐廳～\n親子超級友善！！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "老闆服務非常好，餐點也很好吃！\n是個溫馨適合家庭用餐的可愛餐廳～\n親子超級友善！！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Su I-Shiuan",
+        "uri": "https://www.google.com/maps/contrib/116872444277728102503/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI0Z6k9OgWG6WsKEnrxsXwRAq4IaXWsYKb_mLdErmHV4XEjAw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-25T11:20:43.853920390Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psNlpXTjFjR2xJWVhVeFpIVkxVazVUTjJSUE1HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psNlpXTjFjR2xJWVhVeFpIVkxVazVUTjJSUE1HYxAB!2m1!1s0x3442af3daadeb6bb:0x600a78f73153e31c"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

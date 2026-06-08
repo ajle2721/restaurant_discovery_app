@@ -1,0 +1,138 @@
+{
+  "id": "ChIJa8heQompQjQR76ML0NBsxL8",
+  "types": [
+    "brunch_restaurant",
+    "breakfast_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2366 0835",
+  "formattedAddress": "106台灣臺北市大安區大學里新生南路三段86巷9號",
+  "location": {
+    "latitude": 25.018738,
+    "longitude": 121.53260039999999
+  },
+  "rating": 4.2,
+  "websiteUri": "https://shop.ichefpos.com/store/OEE4L5KZ/ordering",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 1393,
+  "displayName": {
+    "text": "安好食 新生店",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Simple, snug eatery serving up casual breakfast & brunch dishes in a lively environment.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJa8heQompQjQR76ML0NBsxL8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5UFVHZGxPVGd3ZWxCbkxXWnFiblJKU0VVMU0yYxAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 5,
+      "text": {
+        "text": "在炎炎夏日中，冷氣超爆涼。\n和風醬燒牛法式吐司上面有淋煉乳，甜甜鹹鹹，而且肉很多。\n醬燒牛炒麵的調味偏甜，沒吃過正統日式炒麵不確定像不像，所以我當高級版鐵板麵吃，總之還不錯吃，而且又有肉。\n紅茶蠻好喝的，通常我很少會記得評論飲料，但因為不甜，配上重口味的兩道料理剛剛好，喝起來很順口，不會因為甜度低就很淡或很水，所以除了好吃的主餐外。特別給紅茶一個讚。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在炎炎夏日中，冷氣超爆涼。\n和風醬燒牛法式吐司上面有淋煉乳，甜甜鹹鹹，而且肉很多。\n醬燒牛炒麵的調味偏甜，沒吃過正統日式炒麵不確定像不像，所以我當高級版鐵板麵吃，總之還不錯吃，而且又有肉。\n紅茶蠻好喝的，通常我很少會記得評論飲料，但因為不甜，配上重口味的兩道料理剛剛好，喝起來很順口，不會因為甜度低就很淡或很水，所以除了好吃的主餐外。特別給紅茶一個讚。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yu",
+        "uri": "https://www.google.com/maps/contrib/103502041905047268019/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIcL8sBUme5EtXE42TX-FDk0qKuaYsTGe_YT1En4zrCklCWCw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-06-17T11:19:15.580474884Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5UFVHZGxPVGd3ZWxCbkxXWnFiblJKU0VVMU0yYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5UFVHZGxPVGd3ZWxCbkxXWnFiblJKU0VVMU0yYxAB!2m1!1s0x3442a989425ec86b:0xbfc46cd0d00ba3ef"
+    },
+    {
+      "name": "places/ChIJa8heQompQjQR76ML0NBsxL8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WRVNUWmhjR3RPZVVGT1ZWcFZNRzFsWVUxU1NXYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 4,
+      "text": {
+        "text": "阿梅味豬排法式吐司—豬排厚實中帶點柴柴的口感 （簡單來說就是你平常在吃排骨的硬柴口感跟法式吐司不是很搭） 而且完全沒有其他菜或是蛋 純粹的法式吐司和肉，我覺得分開吃是好吃的⭐️⭐️⭐️。\n\n原味蛋餅加起司\n整體來說 普通⭐️⭐️⭐️\n\n然後網路有夠差 線上點餐很卡\n不只我的手機 隔壁桌客人也是這樣說",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "阿梅味豬排法式吐司—豬排厚實中帶點柴柴的口感 （簡單來說就是你平常在吃排骨的硬柴口感跟法式吐司不是很搭） 而且完全沒有其他菜或是蛋 純粹的法式吐司和肉，我覺得分開吃是好吃的⭐️⭐️⭐️。\n\n原味蛋餅加起司\n整體來說 普通⭐️⭐️⭐️\n\n然後網路有夠差 線上點餐很卡\n不只我的手機 隔壁桌客人也是這樣說",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "葉宗翰",
+        "uri": "https://www.google.com/maps/contrib/116651338811330406746/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUldmiUxmjKpvHPPKD13hKSuWxiSX3WZhSr9T5S0fmop2OcUbVr=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-09-06T05:18:38.082726625Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WRVNUWmhjR3RPZVVGT1ZWcFZNRzFsWVUxU1NXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WRVNUWmhjR3RPZVVGT1ZWcFZNRzFsWVUxU1NXYxAB!2m1!1s0x3442a989425ec86b:0xbfc46cd0d00ba3ef"
+    },
+    {
+      "name": "places/ChIJa8heQompQjQR76ML0NBsxL8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxdWJEUnhjVmhZVDFkeVVISXRhRWN6ZVdsbVZWRRAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 4,
+      "text": {
+        "text": "醬燒牛蛋餅 $75\n蛋餅外皮薄且稍稍酥脆，配上內餡的牛五花肉很不錯，肉吸滿了甜甜的壽喜燒醬汁，肉量很多很飽嘴，很推薦\n\n內用飲料是免洗餐具，這點扣分\n油煙味蠻重的\n手機掃碼點餐，可用apple pay、line pay支付",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "醬燒牛蛋餅 $75\n蛋餅外皮薄且稍稍酥脆，配上內餡的牛五花肉很不錯，肉吸滿了甜甜的壽喜燒醬汁，肉量很多很飽嘴，很推薦\n\n內用飲料是免洗餐具，這點扣分\n油煙味蠻重的\n手機掃碼點餐，可用apple pay、line pay支付",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Betty",
+        "uri": "https://www.google.com/maps/contrib/115917085211633824643/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLVZwf4ml-dNsv06vFttck-s0vDBeLJ1BWtlcpBMPloGLq3PA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-07-12T08:16:27.262403759Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxdWJEUnhjVmhZVDFkeVVISXRhRWN6ZVdsbVZWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxdWJEUnhjVmhZVDFkeVVISXRhRWN6ZVdsbVZWRRAB!2m1!1s0x3442a989425ec86b:0xbfc46cd0d00ba3ef"
+    },
+    {
+      "name": "places/ChIJa8heQompQjQR76ML0NBsxL8/reviews/ChdDSUhNMG9nS0VJQ0FnSURoN2VEZG1BRRAB",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 4,
+      "text": {
+        "text": "法式吐司煎得非常好吃\n不過煉乳有時候會太搶戲\n蓋過了其他食材的味道\n有種感覺是不管點什麼只會記得煉乳的甜味\n金槍魚不會有太多的美乃滋\n\n蛋餅煎得很酥脆\n喜歡脆蛋餅的應該會很喜歡\n不過個人覺得已經變得像是酥皮了\n吃不到麵餅的嚼勁\n\n薯條分量很多，奶茶普普\n\n外觀看來不大，但還是有一些內用空間的\n較一般早餐店高價一點\n不過在公館、溫州街一帶\n除非是貳樓、光一這種價位的早午餐店\n能夠找到一間坐下來好好吃個早餐的店家不多了\n營業時間較下午兩點，吃午餐也很合適",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "法式吐司煎得非常好吃\n不過煉乳有時候會太搶戲\n蓋過了其他食材的味道\n有種感覺是不管點什麼只會記得煉乳的甜味\n金槍魚不會有太多的美乃滋\n\n蛋餅煎得很酥脆\n喜歡脆蛋餅的應該會很喜歡\n不過個人覺得已經變得像是酥皮了\n吃不到麵餅的嚼勁\n\n薯條分量很多，奶茶普普\n\n外觀看來不大，但還是有一些內用空間的\n較一般早餐店高價一點\n不過在公館、溫州街一帶\n除非是貳樓、光一這種價位的早午餐店\n能夠找到一間坐下來好好吃個早餐的店家不多了\n營業時間較下午兩點，吃午餐也很合適",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "佛客使",
+        "uri": "https://www.google.com/maps/contrib/117417391102752049976/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKH5D9Fadek0lMAwR3hGpQj_M558GJSJQmbR2fVS0mqEXGdJw=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2023-03-15T05:08:29.313850Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURoN2VEZG1BRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURoN2VEZG1BRRAB!2m1!1s0x3442a989425ec86b:0xbfc46cd0d00ba3ef"
+    },
+    {
+      "name": "places/ChIJa8heQompQjQR76ML0NBsxL8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wVU16aEVTMDFoV0VGV1FrZHFUR2R4V2pGTE5sRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 1,
+      "text": {
+        "text": "已買兩次 不同的櫃檯 服務態度都很差 。上一次想說是尖峰時段，就算了，這次我的餐點擺在桌上，我確認一下號碼，女櫃檯質問我那是你的嗎？我晚了半個小時拿桌上也就那一個，看完號碼沒錯就會離開，不到兩分鐘的見面，就可以讓客人心情很差",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "已買兩次 不同的櫃檯 服務態度都很差 。上一次想說是尖峰時段，就算了，這次我的餐點擺在桌上，我確認一下號碼，女櫃檯質問我那是你的嗎？我晚了半個小時拿桌上也就那一個，看完號碼沒錯就會離開，不到兩分鐘的見面，就可以讓客人心情很差",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "品昀",
+        "uri": "https://www.google.com/maps/contrib/114879515299793011097/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUrriLaOsw9nIwvodvWHFyxqHlcVJ5DIwu18ksf5s8a0unI7rUHjw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-09-15T04:46:15.539820236Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wVU16aEVTMDFoV0VGV1FrZHFUR2R4V2pGTE5sRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wVU16aEVTMDFoV0VGV1FrZHFUR2R4V2pGTE5sRRAB!2m1!1s0x3442a989425ec86b:0xbfc46cd0d00ba3ef"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

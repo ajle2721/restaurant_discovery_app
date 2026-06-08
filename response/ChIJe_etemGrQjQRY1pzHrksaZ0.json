@@ -1,0 +1,132 @@
+{
+  "id": "ChIJe_etemGrQjQRY1pzHrksaZ0",
+  "types": [
+    "thai_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 912 209 312",
+  "formattedAddress": "115台灣臺北市南港區南港里興華路87號",
+  "location": {
+    "latitude": 25.0556898,
+    "longitude": 121.6059965
+  },
+  "rating": 4.5,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 998,
+  "displayName": {
+    "text": "泰美利",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJe_etemGrQjQRY1pzHrksaZ0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0VVJHNVZaMHBuYXpVd1ZWUXpNVkJRVFhFd0xVRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "綠咖哩🍛—》辣\n紅咖哩🍛—〉不辣\n我超愛綠的\n烘蛋超油\n蝦仁炒飯好吃，只是偏油\n白飯都能吃到飽，免費紅茶或綠茶\n但我都點泰式奶茶，奶粉泡的普通😂\n想不到吃什麼就吃的店",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "綠咖哩🍛—》辣\n紅咖哩🍛—〉不辣\n我超愛綠的\n烘蛋超油\n蝦仁炒飯好吃，只是偏油\n白飯都能吃到飽，免費紅茶或綠茶\n但我都點泰式奶茶，奶粉泡的普通😂\n想不到吃什麼就吃的店",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "溫可可",
+        "uri": "https://www.google.com/maps/contrib/102963462825063976382/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVNY2onhXT_T277RRwt8hagVC1xbEO4Q3EwWPj8zNzek_Qf7pFm=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-28T21:33:29.816531126Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0VVJHNVZaMHBuYXpVd1ZWUXpNVkJRVFhFd0xVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0VVJHNVZaMHBuYXpVd1ZWUXpNVkJRVFhFd0xVRRAB!2m1!1s0x3442ab617aadf77b:0x9d692cb91e735a63"
+    },
+    {
+      "name": "places/ChIJe_etemGrQjQRY1pzHrksaZ0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWWE5FeE5kelkxWkVka05rWlBObFIwWTJ4T2RHYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "我覺得這家餐廳很好吃，我是剛好路過才發現的。580元的套餐很適合學生，價格也很合理。菜的味道剛剛好，不會太重。老闆娘非常熱情，最棒的是還有英文菜單，真的很友善！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "我覺得這家餐廳很好吃，我是剛好路過才發現的。580元的套餐很適合學生，價格也很合理。菜的味道剛剛好，不會太重。老闆娘非常熱情，最棒的是還有英文菜單，真的很友善！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "小魚",
+        "uri": "https://www.google.com/maps/contrib/114274219300470470252/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWo07kB_0kECy8JuIJITmLfmcTwm_mBQ0xK4jfFzxcrIUetwcaO=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-09T05:47:46.467440314Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWWE5FeE5kelkxWkVka05rWlBObFIwWTJ4T2RHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWWE5FeE5kelkxWkVka05rWlBObFIwWTJ4T2RHYxAB!2m1!1s0x3442ab617aadf77b:0x9d692cb91e735a63"
+    },
+    {
+      "name": "places/ChIJe_etemGrQjQRY1pzHrksaZ0/reviews/Ci9DQUlRQUNvZENodHljRjlvT214bWFHcFdhMEpyT1d0TWFIcGtZVFJ5UWw5aFVXYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "打拋豬給得份量很大，點了大辣，真的很好吃\n有紅茶可以自己拿\n對泰國人來說，雖然不是正確的打拋豬，沒有加打拋葉（在台灣不好找），而且還加了高麗菜，\n但這份打拋豬真的很好吃，而且不貴",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "打拋豬給得份量很大，點了大辣，真的很好吃\n有紅茶可以自己拿\n對泰國人來說，雖然不是正確的打拋豬，沒有加打拋葉（在台灣不好找），而且還加了高麗菜，\n但這份打拋豬真的很好吃，而且不貴",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Virintorn Kantaravichaiwat (Sand)",
+        "uri": "https://www.google.com/maps/contrib/111951960351656943306/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXa8jVLe3X1l8TDC_81vmLAtGCyHvBd8PPat6LNtuMobcW1ZysE=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-28T02:35:09.943221619Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214bWFHcFdhMEpyT1d0TWFIcGtZVFJ5UWw5aFVXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214bWFHcFdhMEpyT1d0TWFIcGtZVFJ5UWw5aFVXYxAB!2m1!1s0x3442ab617aadf77b:0x9d692cb91e735a63"
+    },
+    {
+      "name": "places/ChIJe_etemGrQjQRY1pzHrksaZ0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GTE5tSTNjVE5MYUZsa1NYcGFRMkpvWldOaWJuYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "不吃辣但香到續飯！續飯！續飯！\n綠咖哩椰汁雞-肉很嫩、咖哩很香\n蝦醬高麗菜-很蝦！\n打拋豬-辣的恰到好處，跟咖哩一起吃也不會太鹹\n3個人（合菜+一道綠咖哩）完美💯\n服務態度也超好～～～～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "不吃辣但香到續飯！續飯！續飯！\n綠咖哩椰汁雞-肉很嫩、咖哩很香\n蝦醬高麗菜-很蝦！\n打拋豬-辣的恰到好處，跟咖哩一起吃也不會太鹹\n3個人（合菜+一道綠咖哩）完美💯\n服務態度也超好～～～～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "王彥翎",
+        "uri": "https://www.google.com/maps/contrib/106172573081978868457/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVlp9ZGApKNk_GHdq2qG2cg42J1IiqomMmBrDxVIjOywhOC8hE=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-16T12:10:11.490499903Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GTE5tSTNjVE5MYUZsa1NYcGFRMkpvWldOaWJuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GTE5tSTNjVE5MYUZsa1NYcGFRMkpvWldOaWJuYxAB!2m1!1s0x3442ab617aadf77b:0x9d692cb91e735a63"
+    },
+    {
+      "name": "places/ChIJe_etemGrQjQRY1pzHrksaZ0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GcE5IUkZUM0YyWlZwM1FrOHlXalJNVWxaWmNFRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 3,
+      "text": {
+        "text": "點了雙人套餐加點（小蝦仁）烘蛋，如果要吃道地的泰國菜，南港路上的「正宗泰國菜小吃」可以隨便屌打這一間，吃了一個不知所謂，完食還很空虛的料理，雖然不至於太糟糕，但每個人喜好都是主觀的，自己是不會再訪了啦",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點了雙人套餐加點（小蝦仁）烘蛋，如果要吃道地的泰國菜，南港路上的「正宗泰國菜小吃」可以隨便屌打這一間，吃了一個不知所謂，完食還很空虛的料理，雖然不至於太糟糕，但每個人喜好都是主觀的，自己是不會再訪了啦",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Aj Huang (AJ Huang)",
+        "uri": "https://www.google.com/maps/contrib/107888442945553387070/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUzPvOYeDmLhuCMeDiBsme-PFGGLQZlKznZC8tYUh2-bHa7ZLWS=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-08-17T11:01:57.452854529Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GcE5IUkZUM0YyWlZwM1FrOHlXalJNVWxaWmNFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GcE5IUkZUM0YyWlZwM1FrOHlXalJNVWxaWmNFRRAB!2m1!1s0x3442ab617aadf77b:0x9d692cb91e735a63"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

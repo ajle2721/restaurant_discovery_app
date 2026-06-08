@@ -1,0 +1,51 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "環境、座位很小",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "官方標記：不提供兒童餐",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "環境、座位很小",
+        "官方標記：不提供兒童餐"
+    ],
+    "generated_summary": "該店空間較為狹小，且官方明確標示不提供兒童餐。目前評論中未提及兒童座椅、餐具或尿布台等親子友善設施，建議攜帶幼童前往時需自行評估空間與設備需求。",
+    "card_summary": ""
+}

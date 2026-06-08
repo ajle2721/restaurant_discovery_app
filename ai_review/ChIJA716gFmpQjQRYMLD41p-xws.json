@@ -1,0 +1,52 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "店面不大，假日生意蠻好，要有等待的準備，座位區比較擁擠 吃完身上會有點油煙味。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "Google Maps Attributes: Good for children (官方標記：適合兒童)",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "缺點是吧台的座位有點窄，不太方便放包包之類的。",
+        "店面不大，假日生意蠻好，要有等待的準備，座位區比較擁擠 吃完身上會有點油煙味。",
+        "Google Maps Attributes: Good for children (官方標記：適合兒童)"
+    ],
+    "generated_summary": "雖然 Google Maps 標記該店適合兒童，但根據評論顯示店內空間較為狹小擁擠，且座位區較窄，可能較不適合攜帶推車。目前評論中未提及兒童椅、兒童餐具或遊戲區等設施，建議前往前可先向店家確認。",
+    "card_summary": ""
+}

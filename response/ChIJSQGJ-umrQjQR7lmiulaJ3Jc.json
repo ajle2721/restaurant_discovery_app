@@ -1,0 +1,134 @@
+{
+  "id": "ChIJSQGJ-umrQjQR7lmiulaJ3Jc",
+  "types": [
+    "brunch_restaurant",
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2579 0868",
+  "formattedAddress": "105台灣臺北市松山區敦化里八德路三段12巷5弄30號",
+  "location": {
+    "latitude": 25.047542699999997,
+    "longitude": 121.55167370000001
+  },
+  "rating": 4.5,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 237,
+  "displayName": {
+    "text": "廚｡嚐咖啡",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJSQGJ-umrQjQR7lmiulaJ3Jc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GV1JYVkVOVlZyVDJSd1puVk9ZelpuVFU1aVlrRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "真心的愛上這家店，健康餐盒超級豐盛，配菜都會有一個蛋類跟豆類，吃得出來很用心製作，飯少還會補菜，主餐都是現做的很新鮮也很好吃，老闆娘非常細心，從餐盒內的擺盤到外部包裝，都讓人覺得有種精緻感以及日本職人的精神的感覺，已經吃了四五次，每次都是這麼一致的標準！想給六星！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "真心的愛上這家店，健康餐盒超級豐盛，配菜都會有一個蛋類跟豆類，吃得出來很用心製作，飯少還會補菜，主餐都是現做的很新鮮也很好吃，老闆娘非常細心，從餐盒內的擺盤到外部包裝，都讓人覺得有種精緻感以及日本職人的精神的感覺，已經吃了四五次，每次都是這麼一致的標準！想給六星！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Fang",
+        "uri": "https://www.google.com/maps/contrib/116925578620636104051/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI7w99ixoiWiaD_yGno13_1lj5VnO7KefwCj0PdplBTmkaaMg=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-26T06:11:34.881933409Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GV1JYVkVOVlZyVDJSd1puVk9ZelpuVFU1aVlrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GV1JYVkVOVlZyVDJSd1puVk9ZelpuVFU1aVlrRRAB!2m1!1s0x3442abe9fa890149:0x97dc8956baa259ee"
+    },
+    {
+      "name": "places/ChIJSQGJ-umrQjQR7lmiulaJ3Jc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KSVYwcEZVVFpwUkZwTFpqQkNNRzgzUTBzMFlYYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "店內座位不多\n老闆一人作業 需稍微等待\n整體餐盤分量大 可以吃的很飽\n但一入內的味道帶點悶",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店內座位不多\n老闆一人作業 需稍微等待\n整體餐盤分量大 可以吃的很飽\n但一入內的味道帶點悶",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Evon Lin",
+        "uri": "https://www.google.com/maps/contrib/103383407018345320424/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK59OvjLSPJB-qYbOkNe8IM4IOUEyh-fv5JjDhiGBUOD1EIxQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-07T06:43:44.194400621Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KSVYwcEZVVFpwUkZwTFpqQkNNRzgzUTBzMFlYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KSVYwcEZVVFpwUkZwTFpqQkNNRzgzUTBzMFlYYxAB!2m1!1s0x3442abe9fa890149:0x97dc8956baa259ee"
+    },
+    {
+      "name": "places/ChIJSQGJ-umrQjQR7lmiulaJ3Jc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sZlVrSldZbFJsV1VwdmRIQkhaWFJQYVZWZmNtYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "食物好吃 有附飲料 CP值高！\n只是廚房只有一人 需要等一些時間",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "食物好吃 有附飲料 CP值高！\n只是廚房只有一人 需要等一些時間",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Fang",
+        "uri": "https://www.google.com/maps/contrib/105540021935284575274/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUp5wSNwrrG450myLIunDlSd34xjofGJY74UYbbqYcVHlq6FzJD_Q=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-29T07:39:58.578083107Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sZlVrSldZbFJsV1VwdmRIQkhaWFJQYVZWZmNtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sZlVrSldZbFJsV1VwdmRIQkhaWFJQYVZWZmNtYxAB!2m1!1s0x3442abe9fa890149:0x97dc8956baa259ee"
+    },
+    {
+      "name": "places/ChIJSQGJ-umrQjQR7lmiulaJ3Jc/reviews/ChdDSUhNMG9nS0VJQ0FnTURJLXEtM2xRRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 3,
+      "text": {
+        "text": "在台視公司的後巷，西式早午餐店，裝飾很簡單 ，前廊擺有一張戶外長桌。，可坐6人左右。\n由於在網上看到，菜單𥚃有歐姆蛋，特地去嗜嗜，點了咕雞歐姆蛋=270元（含咖啡），歐姆蛋口感普通，另有配菜+麫包+牛油。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在台視公司的後巷，西式早午餐店，裝飾很簡單 ，前廊擺有一張戶外長桌。，可坐6人左右。\n由於在網上看到，菜單𥚃有歐姆蛋，特地去嗜嗜，點了咕雞歐姆蛋=270元（含咖啡），歐姆蛋口感普通，另有配菜+麫包+牛油。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "KING (第10級在地嚮導)",
+        "uri": "https://www.google.com/maps/contrib/109750155652914128045/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKtnNaC96pwKQ4ttcOAEx_lXrfkHJAzM2jYWMeiMxH_m3evWw=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-04-09T06:30:01.622171Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJLXEtM2xRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJLXEtM2xRRRAB!2m1!1s0x3442abe9fa890149:0x97dc8956baa259ee"
+    },
+    {
+      "name": "places/ChIJSQGJ-umrQjQR7lmiulaJ3Jc/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3MWEzekV3EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "下午三點在附近找到了這間，點了自己搭配的拼盤，可以全部都選自己喜歡的非常讚，每一樣很好吃而且吃得飽，拼盤湊到 300 還有送飲料👍 因為店內沒有太多人，所以店家沒有嚴格對我們限制 90 分鐘，在這邊吃完還用了一下電腦做事，WiFi 很順～\n推薦！未來有機會會回訪的。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "下午三點在附近找到了這間，點了自己搭配的拼盤，可以全部都選自己喜歡的非常讚，每一樣很好吃而且吃得飽，拼盤湊到 300 還有送飲料👍 因為店內沒有太多人，所以店家沒有嚴格對我們限制 90 分鐘，在這邊吃完還用了一下電腦做事，WiFi 很順～\n推薦！未來有機會會回訪的。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Blues",
+        "uri": "https://www.google.com/maps/contrib/108019297665843360196/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVWk6gfprTj3F41Pbh-VWkyoCuXMGbP03odFy7mL_hpKKpAuJPppQ=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-03-27T10:02:35.627372Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3MWEzekV3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3MWEzekV3EAE!2m1!1s0x3442abe9fa890149:0x97dc8956baa259ee"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

@@ -1,0 +1,52 @@
+{
+    " child_seat available": {
+        "result": "Yes",
+        "evidence": "Good for children",
+        "confidence": 1.0
+    },
+    "Spacious seating": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": "Menu for children",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "Good for children",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 4,
+    "parent_friendly_level": "高",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "Good for children",
+        "Menu for children",
+        "會再帶小朋友來"
+    ],
+    "generated_summary": "小豆島日式烏龍麵（石牌形象店）經官方標記為適合兒童且提供兒童餐，評論中亦有顧客表示會再帶小朋友前往用餐，對親子客群相對友善。",
+    "card_summary": ""
+}

@@ -1,0 +1,54 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "天龍國巷弄內的精緻小吃，座位不多，乾淨舒適。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "No menu for children (官方標記：不提供兒童餐)",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "Good for children (官方標記：適合兒童)",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Yes",
+        "evidence": "店裡很舒適乾淨，還有小朋友的玩具、書，甚至還有搖搖馬跟彈珠台，讓爸媽可以好好吃飯。",
+        "confidence": 0.9
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "No menu for children (官方標記：不提供兒童餐)",
+        "店裡很舒適乾淨，還有小朋友的玩具、書，甚至還有搖搖馬跟彈珠台，讓爸媽可以好好吃飯。",
+        "今天來的時候還有小孩在打彈珠",
+        "天龍國巷弄內的精緻小吃，座位不多，乾淨舒適。",
+        "Good for children (官方標記：適合兒童)"
+    ],
+    "generated_summary": "該餐廳對兒童相當友善，店內設有玩具、書籍、搖搖馬及彈珠台等設施，讓家長能更輕鬆地用餐，且官方標記顯示適合兒童。不過店內空間較為精緻、座位數不多，且不提供兒童餐，建議前往時可留意空間配置。",
+    "card_summary": ""
+}

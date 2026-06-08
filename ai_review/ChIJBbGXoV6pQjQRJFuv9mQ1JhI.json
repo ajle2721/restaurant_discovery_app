@@ -1,0 +1,52 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "店面雖小但感覺對咖啡充滿熱情",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "Google Maps Attributes: 不提供兒童餐",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "Google Maps Attributes: 不提供兒童餐",
+        "店面很小座位不多",
+        "店面雖小但感覺對咖啡充滿熱情"
+    ],
+    "generated_summary": "Bamboo cafe 為小型咖啡店，店內空間狹小且座位有限，官方已標記不提供兒童餐。目前評論中未提及兒童座椅、餐具或育嬰設施等親子友善資訊，環境較適合個人品嚐咖啡，建議攜帶幼童前往前可先向店家確認。",
+    "card_summary": ""
+}

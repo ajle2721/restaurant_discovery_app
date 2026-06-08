@@ -1,0 +1,129 @@
+{
+  "id": "ChIJBUvHXwCrQjQRfRHgS9qInkw",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2712 1618",
+  "formattedAddress": "105台灣臺北市松山區民有里民生東路三段127巷10號1樓",
+  "location": {
+    "latitude": 25.0588239,
+    "longitude": 121.54735180000002
+  },
+  "rating": 5,
+  "userRatingCount": 22,
+  "displayName": {
+    "text": "ㄚ頭早午餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJBUvHXwCrQjQRfRHgS9qInkw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWM2NrbGpRMk5NUkRoTFJqRTJOa2xQVVZWamRFRRAB",
+      "relativePublishTimeDescription": "本週",
+      "rating": 5,
+      "text": {
+        "text": "里肌蛋吐司好吃 有厚度及口感 讓我想起家鄉的肉蛋吐司，但更棒的是還有生菜，一份$60\n非常值得\n鮪魚蛋餅也好吃😋\n\n草莓吐司是奶油加草莓\n不像一般早餐店單純只抹草莓醬\n一份$25\n\n奶茶、紅茶都好喝\n\n老闆一家人都很親切☺️👍😋\n感謝提供美味的餐點\n\n之後就要離開這一區了，我會再找時間回來吃美味早餐❤️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "里肌蛋吐司好吃 有厚度及口感 讓我想起家鄉的肉蛋吐司，但更棒的是還有生菜，一份$60\n非常值得\n鮪魚蛋餅也好吃😋\n\n草莓吐司是奶油加草莓\n不像一般早餐店單純只抹草莓醬\n一份$25\n\n奶茶、紅茶都好喝\n\n老闆一家人都很親切☺️👍😋\n感謝提供美味的餐點\n\n之後就要離開這一區了，我會再找時間回來吃美味早餐❤️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jenny Lin",
+        "uri": "https://www.google.com/maps/contrib/117666816097335514846/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXfgvMUA9lR9T8i6WFGJLjMtIL1OGjs6Eq6qBTa4c7Dqzbeva4=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-06-05T04:21:27.433716019Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWM2NrbGpRMk5NUkRoTFJqRTJOa2xQVVZWamRFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWM2NrbGpRMk5NUkRoTFJqRTJOa2xQVVZWamRFRRAB!2m1!1s0x3442ab005fc74b05:0x4c9e88da4be0117d"
+    },
+    {
+      "name": "places/ChIJBUvHXwCrQjQRfRHgS9qInkw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oTFYzbHZaamhMUVhOdWJsVTBhRGxCVFdaQlJWRRAB",
+      "relativePublishTimeDescription": "本週",
+      "rating": 5,
+      "text": {
+        "text": "最愛鮪魚總匯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "最愛鮪魚總匯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "YHT",
+        "uri": "https://www.google.com/maps/contrib/105225801515800394239/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXQgsM0tCuxnda2wdGMjTqXKB2E0o0fZ523roa8zWJyYhs7fE9r=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-06-05T04:12:23.417547804Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oTFYzbHZaamhMUVhOdWJsVTBhRGxCVFdaQlJWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oTFYzbHZaamhMUVhOdWJsVTBhRGxCVFdaQlJWRRAB!2m1!1s0x3442ab005fc74b05:0x4c9e88da4be0117d"
+    },
+    {
+      "name": "places/ChIJBUvHXwCrQjQRfRHgS9qInkw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pnek5XaFdaVzR3U2pneGVHcFpiRFpTYVhCaFgxRRAB",
+      "relativePublishTimeDescription": "本週",
+      "rating": 5,
+      "text": {
+        "text": "早餐做得很快，餐點好吃。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "早餐做得很快，餐點好吃。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chou Yayuen",
+        "uri": "https://www.google.com/maps/contrib/117293914437580194293/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUzDwHbhwuQ3ddXzz-ckqJrAE0LleNAtP-F9lSQbw93T6qa-DPw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-06-03T00:09:40.962078741Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pnek5XaFdaVzR3U2pneGVHcFpiRFpTYVhCaFgxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pnek5XaFdaVzR3U2pneGVHcFpiRFpTYVhCaFgxRRAB!2m1!1s0x3442ab005fc74b05:0x4c9e88da4be0117d"
+    },
+    {
+      "name": "places/ChIJBUvHXwCrQjQRfRHgS9qInkw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25nd1dqbHBUa1F3ZURKZlJXYzBVRFZ6Vms4NE5HYxAB",
+      "relativePublishTimeDescription": "本週",
+      "rating": 5,
+      "text": {
+        "text": "空間很大 有冷氣吹 整體很棒",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "空間很大 有冷氣吹 整體很棒",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Pordon",
+        "uri": "https://www.google.com/maps/contrib/108263709237009621950/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJpYJW2Lt7qjujmlejHRsM7hhemPbSUOQ3YIxRgcglWE5Uaug=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-06-02T03:52:24.413203485Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25nd1dqbHBUa1F3ZURKZlJXYzBVRFZ6Vms4NE5HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25nd1dqbHBUa1F3ZURKZlJXYzBVRFZ6Vms4NE5HYxAB!2m1!1s0x3442ab005fc74b05:0x4c9e88da4be0117d"
+    },
+    {
+      "name": "places/ChIJBUvHXwCrQjQRfRHgS9qInkw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSdWRqbHZSRE5PVFRWRFRsRkhNemxFYW5wVk1uYxAB",
+      "relativePublishTimeDescription": "本週",
+      "rating": 5,
+      "text": {
+        "text": "老闆娘很親切，氛圍都不錯\n可惜柳橙汁只有中杯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "老闆娘很親切，氛圍都不錯\n可惜柳橙汁只有中杯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃思媛",
+        "uri": "https://www.google.com/maps/contrib/113221994478886025174/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUndKTe9zoHKM1LtwEG8pSm9HjffhVJUK3RU8uQmQiv5SALhojX3g=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-06-02T00:47:08.133351708Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSdWRqbHZSRE5PVFRWRFRsRkhNemxFYW5wVk1uYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSdWRqbHZSRE5PVFRWRFRsRkhNemxFYW5wVk1uYxAB!2m1!1s0x3442ab005fc74b05:0x4c9e88da4be0117d"
+    }
+  ]
+}

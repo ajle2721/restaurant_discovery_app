@@ -1,0 +1,136 @@
+{
+  "id": "ChIJm55L88arQjQRBcIEuwL0fCc",
+  "types": [
+    "sandwich_shop",
+    "salad_shop",
+    "meal_delivery",
+    "food_delivery",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2778 0662",
+  "formattedAddress": "106台灣臺北市大安區華聲里延吉街137巷31號",
+  "location": {
+    "latitude": 25.0420947,
+    "longitude": 121.5555655
+  },
+  "rating": 4,
+  "websiteUri": "https://www.facebook.com/grilledsendwish",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 419,
+  "displayName": {
+    "text": "格里歐's三明治Grilled Sendwish｜大安區 東區 國父紀念館站｜沙拉 早午餐 下午茶 輕食 美食 sandwich",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJm55L88arQjQRBcIEuwL0fCc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pnNGVEYzVSRmM0UlRGU00wMDFibDlDYVZZeGIzYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點都很用心\n西西里咖啡套餐+25差價，很好喝耶\n套餐沙拉也清爽新鮮，不是只有生菜🥬，還有彩椒、小黃瓜🥒、苜蓿芽、果乾；東區這樣的價格 實在很佛心喔\n\nPs 老闆娘笑容很甜美😘",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點都很用心\n西西里咖啡套餐+25差價，很好喝耶\n套餐沙拉也清爽新鮮，不是只有生菜🥬，還有彩椒、小黃瓜🥒、苜蓿芽、果乾；東區這樣的價格 實在很佛心喔\n\nPs 老闆娘笑容很甜美😘",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ting-Ting Chen",
+        "uri": "https://www.google.com/maps/contrib/109147366505020785966/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWl9HJbmV4ILPvIlXWmf5N7hZlFTW0WeInidWuIdZyaIPPW2OYIFg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-03-01T06:09:36.189788009Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pnNGVEYzVSRmM0UlRGU00wMDFibDlDYVZZeGIzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pnNGVEYzVSRmM0UlRGU00wMDFibDlDYVZZeGIzYxAB!2m1!1s0x3442abc6f34b9e9b:0x277cf402bb04c205"
+    },
+    {
+      "name": "places/ChIJm55L88arQjQRBcIEuwL0fCc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kbE56WjVPRVZqYVU1a1RrOWtZbEZaVUVKNGRVRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "我很愛他們家的沙拉系列。\n今天吃商業午餐$145有附飲料。\n沙拉的菜非常新鮮，雞肉軟嫩好吃，料多實在，重點是調味超棒，根本無需另外再加醬。\n推推👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "我很愛他們家的沙拉系列。\n今天吃商業午餐$145有附飲料。\n沙拉的菜非常新鮮，雞肉軟嫩好吃，料多實在，重點是調味超棒，根本無需另外再加醬。\n推推👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "賴恩希",
+        "uri": "https://www.google.com/maps/contrib/103661659840017805914/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUQI-96myEVKIdF_N9xvRmQjRfV8HyKCtS_duBFdOBCpZxzVZr6=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-02T15:06:58.845436096Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kbE56WjVPRVZqYVU1a1RrOWtZbEZaVUVKNGRVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kbE56WjVPRVZqYVU1a1RrOWtZbEZaVUVKNGRVRRAB!2m1!1s0x3442abc6f34b9e9b:0x277cf402bb04c205"
+    },
+    {
+      "name": "places/ChIJm55L88arQjQRBcIEuwL0fCc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaTlZIVnNWelpoUmxjd1ZIbHJYMVpYYTI5WmNYYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "商業午餐：超能量沙拉太棒了！一碗可以補充好多營養，熱熱的煎馬鈴薯塊、杏包菇和胡蘿蔔、節瓜和花椰菜、雞肉和鮪魚，點綴一點堅果，底部全部都是生菜，還有整顆溏心蛋，好吃到不行！\n重點是老闆人超級好！五星好評推薦！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "商業午餐：超能量沙拉太棒了！一碗可以補充好多營養，熱熱的煎馬鈴薯塊、杏包菇和胡蘿蔔、節瓜和花椰菜、雞肉和鮪魚，點綴一點堅果，底部全部都是生菜，還有整顆溏心蛋，好吃到不行！\n重點是老闆人超級好！五星好評推薦！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Allison T",
+        "uri": "https://www.google.com/maps/contrib/101036896110827550234/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU9hZMauqNXOORePfI2li12ghvuDD3sBnxTZysyg1kBixJCNxLa=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-12T06:07:57.840424036Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaTlZIVnNWelpoUmxjd1ZIbHJYMVpYYTI5WmNYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaTlZIVnNWelpoUmxjd1ZIbHJYMVpYYTI5WmNYYxAB!2m1!1s0x3442abc6f34b9e9b:0x277cf402bb04c205"
+    },
+    {
+      "name": "places/ChIJm55L88arQjQRBcIEuwL0fCc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5b2MzQnBVR1ZhVjJkR1NteGFhMUZvYVhvdFdGRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 1,
+      "text": {
+        "text": "uber叫的，125塊，邊邊沒塗滿。剛來薄到以為是巧克力吐司哈哈，口味普通不會吃第二次，謝謝店家",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "uber叫的，125塊，邊邊沒塗滿。剛來薄到以為是巧克力吐司哈哈，口味普通不會吃第二次，謝謝店家",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chen泱泱",
+        "uri": "https://www.google.com/maps/contrib/118143819750232313363/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjULPRWodV8GVEKsQL-kgVx8G4mcCBh7wheYxEBo_U9sky0SWORH=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-11-29T05:12:53.485879338Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5b2MzQnBVR1ZhVjJkR1NteGFhMUZvYVhvdFdGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5b2MzQnBVR1ZhVjJkR1NteGFhMUZvYVhvdFdGRRAB!2m1!1s0x3442abc6f34b9e9b:0x277cf402bb04c205"
+    },
+    {
+      "name": "places/ChIJm55L88arQjQRBcIEuwL0fCc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toSGR6bDNWMFYzZEZwV1FqWnhPVnBtYkhaM2FIYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 3,
+      "text": {
+        "text": "我們點的是碳烤三明治套餐，料是還可以但比較失望的是用的麵包感覺像是一般白吐司，也沒有碳烤的香氣，結論是可以試試看。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "我們點的是碳烤三明治套餐，料是還可以但比較失望的是用的麵包感覺像是一般白吐司，也沒有碳烤的香氣，結論是可以試試看。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Liu Sunnie",
+        "uri": "https://www.google.com/maps/contrib/104073076350955234735/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUq8ANFk8RLPiDg2vq8tL0CbtxEZalqGy-AUpzzij-3mVInviF=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-18T13:55:55.745157722Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toSGR6bDNWMFYzZEZwV1FqWnhPVnBtYkhaM2FIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toSGR6bDNWMFYzZEZwV1FqWnhPVnBtYkhaM2FIYxAB!2m1!1s0x3442abc6f34b9e9b:0x277cf402bb04c205"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

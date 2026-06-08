@@ -1,0 +1,134 @@
+{
+  "id": "ChIJdYbLUxOvQjQRfTcV2nf560Q",
+  "types": [
+    "spanish_restaurant",
+    "western_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2858 8668",
+  "formattedAddress": "112台灣臺北市北投區關渡里知行路92號",
+  "location": {
+    "latitude": 25.118319,
+    "longitude": 121.468759
+  },
+  "rating": 4.1,
+  "websiteUri": "https://www.tapashouse.com.tw/tapas92",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1166,
+  "displayName": {
+    "text": "92水鳥",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJdYbLUxOvQjQRfTcV2nf560Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkelpIbEdUME54VWprM05Fc3hNVk42TTNWRFJIYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 1,
+      "text": {
+        "text": "雞翅沒烤熟，骨頭全都紅的. 烤雞一般般. 生菜不錯，南瓜湯很稀. 料理時間很長，咖啡也要等很久.",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "雞翅沒烤熟，骨頭全都紅的. 烤雞一般般. 生菜不錯，南瓜湯很稀. 料理時間很長，咖啡也要等很久.",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "deepingcch deepingcch",
+        "uri": "https://www.google.com/maps/contrib/107198310802654293102/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWW4Nm8qkFM3Inf2xZLslGF_c3ooetibs2GeMY-DSBww4XSq-aY=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-17T05:14:16.836677576Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkelpIbEdUME54VWprM05Fc3hNVk42TTNWRFJIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkelpIbEdUME54VWprM05Fc3hNVk42TTNWRFJIYxAB!2m1!1s0x3442af1353cb8675:0x44ebf977da15377d"
+    },
+    {
+      "name": "places/ChIJdYbLUxOvQjQRfTcV2nf560Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoWmRsaFpZVFZYTW5NM2RuQlBVbGRKVTJwb05FRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "在這包場辦同學聚餐真是太理想了。店家供應的餐裡也非常有水準, 窗外的風景也賞心悅目, 眾人自由活動不受拘束。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在這包場辦同學聚餐真是太理想了。店家供應的餐裡也非常有水準, 窗外的風景也賞心悅目, 眾人自由活動不受拘束。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "jjc2577",
+        "uri": "https://www.google.com/maps/contrib/100938154391133889809/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJCG27eyeuJD6S2UV1BO-1ldkypcdAIciQ6YC5RnEslEgSU3w=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-18T07:04:21.870813200Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoWmRsaFpZVFZYTW5NM2RuQlBVbGRKVTJwb05FRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoWmRsaFpZVFZYTW5NM2RuQlBVbGRKVTJwb05FRRAB!2m1!1s0x3442af1353cb8675:0x44ebf977da15377d"
+    },
+    {
+      "name": "places/ChIJdYbLUxOvQjQRfTcV2nf560Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT25odFdtTm1jMGRxZERaRlpESkJTekZSYTFwU1NFRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "非常好吃😋這是第三次造訪。每次都好吃。非常棒的餐廳。新鮮食材 鮮美好吃。物超所值。非常推薦。👍 西班牙燉飯真的超讚的。甜點每次都驚艷。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "非常好吃😋這是第三次造訪。每次都好吃。非常棒的餐廳。新鮮食材 鮮美好吃。物超所值。非常推薦。👍 西班牙燉飯真的超讚的。甜點每次都驚艷。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "tsai cindy",
+        "uri": "https://www.google.com/maps/contrib/114809749681305340217/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI7PFV-EOdIIYr8blgefjuiT_djLLWRfa_Rdu1NPQPpBAv5YA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-30T12:34:55.055143956Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25odFdtTm1jMGRxZERaRlpESkJTekZSYTFwU1NFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25odFdtTm1jMGRxZERaRlpESkJTekZSYTFwU1NFRRAB!2m1!1s0x3442af1353cb8675:0x44ebf977da15377d"
+    },
+    {
+      "name": "places/ChIJdYbLUxOvQjQRfTcV2nf560Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GZllqZzVPVTB6ZDBodGJERnRORzVSVGw5a2RGRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "餐點好吃，很適合聚餐，可惜當天的位置有點熱",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點好吃，很適合聚餐，可惜當天的位置有點熱",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Bibi Fang",
+        "uri": "https://www.google.com/maps/contrib/111750325058864551162/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWNY-GRNiA3ANaMbihCaKPpSEvGOtR4lOvySVzB3hJOsxRbMNA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-01T01:50:16.337883009Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GZllqZzVPVTB6ZDBodGJERnRORzVSVGw5a2RGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GZllqZzVPVTB6ZDBodGJERnRORzVSVGw5a2RGRRAB!2m1!1s0x3442af1353cb8675:0x44ebf977da15377d"
+    },
+    {
+      "name": "places/ChIJdYbLUxOvQjQRfTcV2nf560Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT2premRsaHljMVZMVnpaT2NGTkJUWEp1UWxGUU1WRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "與水鳥52相比，我們全家比較推薦水鳥92 ，來過兩次服務人員都很熱情，就算人力單薄，也沒有看過他們有一絲不悅的神情。\n\n強力推薦西班牙海鮮飯，還有蒜味蝦（開胃菜），餐廳自己烤的海綿蛋糕也很好吃，份量十足，點套餐比較划算喔！\n\n九月開學月，親子用餐有優惠，要兩個大人才有送兒童的套餐喔！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "與水鳥52相比，我們全家比較推薦水鳥92 ，來過兩次服務人員都很熱情，就算人力單薄，也沒有看過他們有一絲不悅的神情。\n\n強力推薦西班牙海鮮飯，還有蒜味蝦（開胃菜），餐廳自己烤的海綿蛋糕也很好吃，份量十足，點套餐比較划算喔！\n\n九月開學月，親子用餐有優惠，要兩個大人才有送兒童的套餐喔！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Helen Chen",
+        "uri": "https://www.google.com/maps/contrib/108358534131328615659/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUexPc0odnNk0uDgXQtOOo2pKBzucNtprggPDxRnlNly2hbuP1w=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-09-09T13:00:37.760577685Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2premRsaHljMVZMVnpaT2NGTkJUWEp1UWxGUU1WRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2premRsaHljMVZMVnpaT2NGTkJUWEp1UWxGUU1WRRAB!2m1!1s0x3442af1353cb8675:0x44ebf977da15377d"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

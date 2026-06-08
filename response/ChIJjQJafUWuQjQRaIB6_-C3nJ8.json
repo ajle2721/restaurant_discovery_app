@@ -1,0 +1,131 @@
+{
+  "id": "ChIJjQJafUWuQjQRaIB6_-C3nJ8",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2892 6733",
+  "formattedAddress": "112台灣臺北市北投區中心里中和街40-1號1樓",
+  "location": {
+    "latitude": 25.138343799999998,
+    "longitude": 121.502663
+  },
+  "rating": 4.4,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 344,
+  "displayName": {
+    "text": "盧杯杯大腸滷肉飯早午餐",
+    "languageCode": "ja"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJjQJafUWuQjQRaIB6_-C3nJ8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GWGVqQlJWa3B3WDFVdGFubHJXREpLVFhkTU5GRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "環境就是路邊攤，一般。\n蛋餅，蛋香有一些、沒啥餅香，口感是偏韌，沒有好吃的感覺，我不喜歡。\n大腸滷肉飯，米飯略軟爛，大腸有滷透，滷肉略有豬騷味。\n整體來說，不符合我的喜好，但是不算難吃。老闆的態度都很好，親切。\n只是，因為不合我的口味...",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境就是路邊攤，一般。\n蛋餅，蛋香有一些、沒啥餅香，口感是偏韌，沒有好吃的感覺，我不喜歡。\n大腸滷肉飯，米飯略軟爛，大腸有滷透，滷肉略有豬騷味。\n整體來說，不符合我的喜好，但是不算難吃。老闆的態度都很好，親切。\n只是，因為不合我的口味...",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃金安",
+        "uri": "https://www.google.com/maps/contrib/105263025348952658149/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIzPovB4M1SX2i46luMRSVvZwZtHCYJMPDn5ekQfTgs4M6LA7M=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-03-06T05:17:07.034296968Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GWGVqQlJWa3B3WDFVdGFubHJXREpLVFhkTU5GRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GWGVqQlJWa3B3WDFVdGFubHJXREpLVFhkTU5GRRAB!2m1!1s0x3442ae457d5a028d:0x9f9cb7e0ff7a8068"
+    },
+    {
+      "name": "places/ChIJjQJafUWuQjQRaIB6_-C3nJ8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Oak5HVm1SSHBNV205bk16UTBiVlpXTFRoUWNrRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "大腸滷肉飯+半熟蛋-65元\n滷肉飯屬於肥瘦相間，搭配半熟蛋真的非常好吃，大腸雖然與滷肉飯有些分離感，但整體搭配起來還是非常不錯！\n早上能吃到這樣的滷肉飯，真的是令人非常驚艷，其他早餐或許也可以試試看，滷肉飯必須嘗試！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "大腸滷肉飯+半熟蛋-65元\n滷肉飯屬於肥瘦相間，搭配半熟蛋真的非常好吃，大腸雖然與滷肉飯有些分離感，但整體搭配起來還是非常不錯！\n早上能吃到這樣的滷肉飯，真的是令人非常驚艷，其他早餐或許也可以試試看，滷肉飯必須嘗試！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林威漢",
+        "uri": "https://www.google.com/maps/contrib/109318355515000512479/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUGstw56ba4gsesnfPblh9Y_8UQmFfvWprwse2h4dUS_vO_JG6D=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-24T14:37:36.503171956Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Oak5HVm1SSHBNV205bk16UTBiVlpXTFRoUWNrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Oak5HVm1SSHBNV205bk16UTBiVlpXTFRoUWNrRRAB!2m1!1s0x3442ae457d5a028d:0x9f9cb7e0ff7a8068"
+    },
+    {
+      "name": "places/ChIJjQJafUWuQjQRaIB6_-C3nJ8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWbGMwMWFlamd6VlRONlRqRlliMG93VW10blNrRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "大腸滷肉飯+蛋（小) $65\n半熟蛋十分重要，加進去可以讓香度提升一個檔次\n單吃大腸會覺得中規中矩，但有吃到一塊微帶臭酸味的大腸，滷肉飯也稍微有點豬腥味，若是沒有半熟蛋會覺得不太行\n\n皮蛋瘦肉粥（小）$50\n粥煮的很爛，配上滷肉和皮蛋還蠻順口\n\n整體吃完口蠻渴的\n吃飯時會有狗經過一直叫，是在騎樓用餐，夏天環境會比較差",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "大腸滷肉飯+蛋（小) $65\n半熟蛋十分重要，加進去可以讓香度提升一個檔次\n單吃大腸會覺得中規中矩，但有吃到一塊微帶臭酸味的大腸，滷肉飯也稍微有點豬腥味，若是沒有半熟蛋會覺得不太行\n\n皮蛋瘦肉粥（小）$50\n粥煮的很爛，配上滷肉和皮蛋還蠻順口\n\n整體吃完口蠻渴的\n吃飯時會有狗經過一直叫，是在騎樓用餐，夏天環境會比較差",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Betty",
+        "uri": "https://www.google.com/maps/contrib/115917085211633824643/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLVZwf4ml-dNsv06vFttck-s0vDBeLJ1BWtlcpBMPloGLq3PA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-01-26T16:53:42.758118898Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWbGMwMWFlamd6VlRONlRqRlliMG93VW10blNrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWbGMwMWFlamd6VlRONlRqRlliMG93VW10blNrRRAB!2m1!1s0x3442ae457d5a028d:0x9f9cb7e0ff7a8068"
+    },
+    {
+      "name": "places/ChIJjQJafUWuQjQRaIB6_-C3nJ8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwaVZWOVhibWN6YlRKVVprcHFOalp5WTFKc1kzYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "大腸滷肉飯蠻好吃的\n小缺點大腸沒有到很與滷肉飯融合\n但是加入半熟蛋還是很快的完食了\n喜歡吃辣可以加加看小辣\n他們的辣還蠻香的\n\n整體推薦到附近可以來吃吃看還不錯\n場地為戶外空間不要天氣熱的時候來",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "大腸滷肉飯蠻好吃的\n小缺點大腸沒有到很與滷肉飯融合\n但是加入半熟蛋還是很快的完食了\n喜歡吃辣可以加加看小辣\n他們的辣還蠻香的\n\n整體推薦到附近可以來吃吃看還不錯\n場地為戶外空間不要天氣熱的時候來",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ethan K",
+        "uri": "https://www.google.com/maps/contrib/118161001331720442387/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0A85WGSpgjmAVhP3xPms1Xl6WJASR7VpGOwbvkA1vJkOCu_1l=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-29T12:43:01.403998976Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwaVZWOVhibWN6YlRKVVprcHFOalp5WTFKc1kzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwaVZWOVhibWN6YlRKVVprcHFOalp5WTFKc1kzYxAB!2m1!1s0x3442ae457d5a028d:0x9f9cb7e0ff7a8068"
+    },
+    {
+      "name": "places/ChIJjQJafUWuQjQRaIB6_-C3nJ8/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvOEpQNUJ3EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 3,
+      "text": {
+        "text": "大腸滷肉飯有特色，加半熟蛋更如虎添翼，醬汁和大腸都很好，肉羹湯不合我的口味，略鹹略酸。吃東西的感受是很主觀的，個人意見僅供參考",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "大腸滷肉飯有特色，加半熟蛋更如虎添翼，醬汁和大腸都很好，肉羹湯不合我的口味，略鹹略酸。吃東西的感受是很主觀的，個人意見僅供參考",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jerry阿貝",
+        "uri": "https://www.google.com/maps/contrib/114090912904140721346/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWtvTLqSQWzuDqvdolyX1ALsKZufT3AGHUrSYCwx1LQAPGNSPj4FA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-04-14T15:14:05.402648Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvOEpQNUJ3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvOEpQNUJ3EAE!2m1!1s0x3442ae457d5a028d:0x9f9cb7e0ff7a8068"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

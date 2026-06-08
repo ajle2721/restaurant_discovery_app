@@ -1,0 +1,132 @@
+{
+  "id": "ChIJM5AF5oOpQjQRLgYDACNaBwA",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2356 7129",
+  "formattedAddress": "106台灣臺北市大安區福住里金華街243巷1號",
+  "location": {
+    "latitude": 25.0300256,
+    "longitude": 121.53061740000001
+  },
+  "rating": 4.1,
+  "websiteUri": "https://www.facebook.com/pg/LiberoCoffeeBar/about/?ref=page_internal",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 939,
+  "displayName": {
+    "text": "咖啡小自由",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJM5AF5oOpQjQRLgYDACNaBwA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSSGRUQk1TemxSYUhwQ2FpMTJYMGN3V1RNNWIxRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "咖啡小自由是一間很適合放慢步調的咖啡店，即使平日到訪，店內仍然有一些客人，但整體不會讓人感到擁擠。這次選擇坐在戶外座位，空氣流通、氛圍輕鬆，對於想邊喝咖啡邊放空的人來說非常舒服。戶外可以抽菸，算是對部分客人相當友善，不過不開放抽雪茄，規則也算清楚。\n\n我點了一杯卡布奇諾，拉花漂亮，奶泡細緻，入口順滑不厚重，咖啡與牛奶的比例拿捏得很好，是耐喝型的表現。店內裝潢走古典典雅路線，搭配溫暖的黃色燈光，整個空間顯得很有質感，也讓人自然放慢節奏。座位數量不少，不論是一個人來坐著看書、發呆，或是和朋友聊天，都不會感到壓迫。整體來說，咖啡小自由不是追求話題性的咖啡店，而是一間讓人願意再訪、靜靜待上一段時間的地方。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "咖啡小自由是一間很適合放慢步調的咖啡店，即使平日到訪，店內仍然有一些客人，但整體不會讓人感到擁擠。這次選擇坐在戶外座位，空氣流通、氛圍輕鬆，對於想邊喝咖啡邊放空的人來說非常舒服。戶外可以抽菸，算是對部分客人相當友善，不過不開放抽雪茄，規則也算清楚。\n\n我點了一杯卡布奇諾，拉花漂亮，奶泡細緻，入口順滑不厚重，咖啡與牛奶的比例拿捏得很好，是耐喝型的表現。店內裝潢走古典典雅路線，搭配溫暖的黃色燈光，整個空間顯得很有質感，也讓人自然放慢節奏。座位數量不少，不論是一個人來坐著看書、發呆，或是和朋友聊天，都不會感到壓迫。整體來說，咖啡小自由不是追求話題性的咖啡店，而是一間讓人願意再訪、靜靜待上一段時間的地方。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "吳秉軒（Kevin）",
+        "uri": "https://www.google.com/maps/contrib/107684658551577184176/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJoQLLzpnS68O0VYoaItASfD5-vaKjUuuuy8mRE1T995xrpwA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-24T09:33:16.321995786Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSSGRUQk1TemxSYUhwQ2FpMTJYMGN3V1RNNWIxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSSGRUQk1TemxSYUhwQ2FpMTJYMGN3V1RNNWIxRRAB!2m1!1s0x3442a983e6059033:0x75a230003062e"
+    },
+    {
+      "name": "places/ChIJM5AF5oOpQjQRLgYDACNaBwA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poa1FrTjRMVk5WY21WWmREbGFkemhEV1dzeU5uYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "座位選擇多，氣氛好，提供WIFI，甜點搭配咖啡有折扣30元",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "座位選擇多，氣氛好，提供WIFI，甜點搭配咖啡有折扣30元",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "drounaym",
+        "uri": "https://www.google.com/maps/contrib/117873300331892647977/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKsM5cwIqYzLs3R0GcEORDuOckHjBU_l23y6UNxTIA0a1tHGQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-22T01:59:23.040885430Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poa1FrTjRMVk5WY21WWmREbGFkemhEV1dzeU5uYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poa1FrTjRMVk5WY21WWmREbGFkemhEV1dzeU5uYxAB!2m1!1s0x3442a983e6059033:0x75a230003062e"
+    },
+    {
+      "name": "places/ChIJM5AF5oOpQjQRLgYDACNaBwA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGNWQyMUViVmhFVUVaeFFYbElia0l4TFdkdFRWRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "十幾年前來過幾次，坐室內吃馬卡龍和咖喱，一直很惦記，今日有空回訪坐戶外喝茶，感覺物價通膨真的滿大的。\n蛋糕普普。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "十幾年前來過幾次，坐室內吃馬卡龍和咖喱，一直很惦記，今日有空回訪坐戶外喝茶，感覺物價通膨真的滿大的。\n蛋糕普普。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Nori Yang",
+        "uri": "https://www.google.com/maps/contrib/110937410378158916057/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUgN92jhxakHdBd58cC5jQNwwUPRYywsjgBS20SChgNUnESyhir=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-09T20:18:37.130431676Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGNWQyMUViVmhFVUVaeFFYbElia0l4TFdkdFRWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGNWQyMUViVmhFVUVaeFFYbElia0l4TFdkdFRWRRAB!2m1!1s0x3442a983e6059033:0x75a230003062e"
+    },
+    {
+      "name": "places/ChIJM5AF5oOpQjQRLgYDACNaBwA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KeExTMVVXamwxWTJVeE5YTjJZVGxzWDJOWVRsRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "咖啡小自由 ☕️☕️☕️\n永康街的老宅咖啡店～\n\n藏在巷口的一棟老宅裡，咖啡香在空氣中緩緩流動。\n這裡沒有匆忙的節奏，只有磨豆、注水、滴落的聲音⋯⋯一杯咖啡、一段寧靜，在永康街的熱鬧裡，找到屬於自己的小自由。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "咖啡小自由 ☕️☕️☕️\n永康街的老宅咖啡店～\n\n藏在巷口的一棟老宅裡，咖啡香在空氣中緩緩流動。\n這裡沒有匆忙的節奏，只有磨豆、注水、滴落的聲音⋯⋯一杯咖啡、一段寧靜，在永康街的熱鬧裡，找到屬於自己的小自由。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳建偉",
+        "uri": "https://www.google.com/maps/contrib/108302497489177153067/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWSR5yQQAUN0XOtS8GFmOgM35yIjVnCSLZ5kUlvHC_j0np-VgM=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-11-12T01:53:40.627385300Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KeExTMVVXamwxWTJVeE5YTjJZVGxzWDJOWVRsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KeExTMVVXamwxWTJVeE5YTjJZVGxzWDJOWVRsRRAB!2m1!1s0x3442a983e6059033:0x75a230003062e"
+    },
+    {
+      "name": "places/ChIJM5AF5oOpQjQRLgYDACNaBwA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSbVNUYzBURWxKTTJrelRtVkdUMEZuZG1sZmIwRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "可能是平日到訪，所以蠻少人的！氣氛很好，而且咖啡好好喝😻😻😻朋友點的咖喱也好香，重點是營業到很晚，是晚上加班的好地方！！！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "可能是平日到訪，所以蠻少人的！氣氛很好，而且咖啡好好喝😻😻😻朋友點的咖喱也好香，重點是營業到很晚，是晚上加班的好地方！！！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Sabrina hsieh",
+        "uri": "https://www.google.com/maps/contrib/106004802615159544887/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXBoH3-abeLmNr1MvrRw9N9vip0xSQQ7mNZh-gSQfM2jRyo2E5x=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-11T14:03:18.999961721Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSbVNUYzBURWxKTTJrelRtVkdUMEZuZG1sZmIwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSbVNUYzBURWxKTTJrelRtVkdUMEZuZG1sZmIwRRAB!2m1!1s0x3442a983e6059033:0x75a230003062e"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": false
+}

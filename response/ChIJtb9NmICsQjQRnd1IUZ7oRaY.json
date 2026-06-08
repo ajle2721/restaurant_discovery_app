@@ -1,0 +1,133 @@
+{
+  "id": "ChIJtb9NmICsQjQRnd1IUZ7oRaY",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2630 5807",
+  "formattedAddress": "114台灣臺北市內湖區葫洲里民權東路六段296巷46-1號",
+  "location": {
+    "latitude": 25.071286,
+    "longitude": 121.60759769999999
+  },
+  "rating": 4.5,
+  "websiteUri": "https://www.facebook.com/profile.php?id=100043052007030",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 613,
+  "displayName": {
+    "text": "小樹天然早午餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJtb9NmICsQjQRnd1IUZ7oRaY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1blRXOXBObUZKT0ZaaFVtMUhlRzVKWkV3d1VtYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "「比比登推薦」比比以前她們剛開的時候就常常來她們家喝精力湯什麼的，比比還買了飲料點卷。今天發現比比竟然沒有寫過一篇。她們的菜捲是特色，西式的潤餅捲比比喜歡覺得很讚！甜菜根精力湯比比一來忘記先拍就喝了一口，哈！哈！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "「比比登推薦」比比以前她們剛開的時候就常常來她們家喝精力湯什麼的，比比還買了飲料點卷。今天發現比比竟然沒有寫過一篇。她們的菜捲是特色，西式的潤餅捲比比喜歡覺得很讚！甜菜根精力湯比比一來忘記先拍就喝了一口，哈！哈！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "鼠比比",
+        "uri": "https://www.google.com/maps/contrib/103023870386877207742/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWlrAk0oNhBiLErC7u1OTkzVhzaHvvaLWY5s9utWvhnlwBl0wc=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-12-25T00:53:49.450591509Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1blRXOXBObUZKT0ZaaFVtMUhlRzVKWkV3d1VtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1blRXOXBObUZKT0ZaaFVtMUhlRzVKWkV3d1VtYxAB!2m1!1s0x3442ac80984dbfb5:0xa645e89e5148dd9d"
+    },
+    {
+      "name": "places/ChIJtb9NmICsQjQRnd1IUZ7oRaY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGVlJYcFRUbll6YW5OdlFrRTFNemRETFhoQk0yYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "沒有招牌的早餐店，卻有著讓人一試難忘的溫度。老闆親切又細心，總是笑著招呼每位客人。\n這裡主打健康飲食，每一道都能感受到真材實料與用心。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "沒有招牌的早餐店，卻有著讓人一試難忘的溫度。老闆親切又細心，總是笑著招呼每位客人。\n這裡主打健康飲食，每一道都能感受到真材實料與用心。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Fei Shih",
+        "uri": "https://www.google.com/maps/contrib/100202633956485908597/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIvPDa8IwzSiqtfyqgARZsYT_SlQgUSxbvOIN49DYHOUg0hm44=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-11-03T00:16:13.932411960Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGVlJYcFRUbll6YW5OdlFrRTFNemRETFhoQk0yYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGVlJYcFRUbll6YW5OdlFrRTFNemRETFhoQk0yYxAB!2m1!1s0x3442ac80984dbfb5:0xa645e89e5148dd9d"
+    },
+    {
+      "name": "places/ChIJtb9NmICsQjQRnd1IUZ7oRaY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xJM0xWVlJOMk5CV21VNExXUk5UMmRxYzNoTVowRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 3,
+      "text": {
+        "text": "早餐盤$240覺得內容物與價格不符，整份只有麵包和抹醬好吃，地瓜超級乾，整體澱粉比例過高，又附一杯超稀的廉價奶茶，吃完覺得很空虛。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "早餐盤$240覺得內容物與價格不符，整份只有麵包和抹醬好吃，地瓜超級乾，整體澱粉比例過高，又附一杯超稀的廉價奶茶，吃完覺得很空虛。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yun Ching Huang",
+        "uri": "https://www.google.com/maps/contrib/105583971715565540805/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWvWFDt4wo56-yCEQz1pBJYQmgqQHhf_qlLRtq4sp1lBLoledw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-20T12:15:04.485994893Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xJM0xWVlJOMk5CV21VNExXUk5UMmRxYzNoTVowRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xJM0xWVlJOMk5CV21VNExXUk5UMmRxYzNoTVowRRAB!2m1!1s0x3442ac80984dbfb5:0xa645e89e5148dd9d"
+    },
+    {
+      "name": "places/ChIJtb9NmICsQjQRnd1IUZ7oRaY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOdGRUaG1VelZxZUdkM016SkhNRWRNV1ZZd04xRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "吃過好幾次了，早午餐價格實惠份量足，非常喜歡他們的藍莓醬，配上麵包十分美味，另外也很常點他們的生菜捲，好吃健康，餐廳空間也乾淨整潔，推薦！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "吃過好幾次了，早午餐價格實惠份量足，非常喜歡他們的藍莓醬，配上麵包十分美味，另外也很常點他們的生菜捲，好吃健康，餐廳空間也乾淨整潔，推薦！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jim Chou",
+        "uri": "https://www.google.com/maps/contrib/116734954224708745297/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUNZZ3_N0h_2ywulg9c1Ee1njA2M9FKVRae9PtPKMyRVXHty0K-=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-09-07T05:02:33.349685553Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOdGRUaG1VelZxZUdkM016SkhNRWRNV1ZZd04xRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOdGRUaG1VelZxZUdkM016SkhNRWRNV1ZZd04xRRAB!2m1!1s0x3442ac80984dbfb5:0xa645e89e5148dd9d"
+    },
+    {
+      "name": "places/ChIJtb9NmICsQjQRnd1IUZ7oRaY/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBNTlueG5RRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "帶媽媽來吃\n點了黑橄欖鮪魚生菜捲\n水果優格\n午餐的咖喱豬排飯\n\n每一樣都好好吃\n吃的出來自己做的好味道\n水果新鮮 生菜多\n藍莓抹醬很棒\n堅果麵包烤的酥脆柔軟\n\n價格配得上品質\n甚至超乎預期\n非常滿意",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "帶媽媽來吃\n點了黑橄欖鮪魚生菜捲\n水果優格\n午餐的咖喱豬排飯\n\n每一樣都好好吃\n吃的出來自己做的好味道\n水果新鮮 生菜多\n藍莓抹醬很棒\n堅果麵包烤的酥脆柔軟\n\n價格配得上品質\n甚至超乎預期\n非常滿意",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "吳海",
+        "uri": "https://www.google.com/maps/contrib/112154548490931402341/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKjNeyBlPp-uaaPHsAVPDBSvjKUgjx0qkQTrxJClfulX3mm1w=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-02-05T03:56:58.689681Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBNTlueG5RRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBNTlueG5RRRAB!2m1!1s0x3442ac80984dbfb5:0xa645e89e5148dd9d"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

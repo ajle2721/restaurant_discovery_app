@@ -1,0 +1,51 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "一樓是燈光較明亮，也靠近櫃檯及化妝室，所以整體位置上更方便。但因為空間比較小所以每一桌之間距離也比較窄，可以聽到別桌聊天的聲音。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "官方標記：不提供兒童餐",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "一樓是燈光較明亮，也靠近櫃檯及化妝室，所以整體位置上更方便。但因為空間比較小所以每一桌之間距離也比較窄，可以聽到別桌聊天的聲音。",
+        "官方標記：不提供兒童餐"
+    ],
+    "generated_summary": "木咖 Horoka 是一間環境溫馨舒適的咖啡廳，但根據評論與官方資訊，店內空間較為狹小且桌距較近，且明確標示不提供兒童餐。目前評論中未提及兒童座椅、餐具、尿布台或遊戲區等親子友善設施，建議攜帶幼童前往前可先向店家確認相關需求。",
+    "card_summary": ""
+}

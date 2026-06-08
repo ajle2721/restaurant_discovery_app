@@ -1,0 +1,136 @@
+{
+  "id": "ChIJ0Y1KaFmpQjQRk0x7ylPDjq0",
+  "types": [
+    "coffee_shop",
+    "cafe",
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2567 6810",
+  "formattedAddress": "10491台灣臺北市中山區新生里松江路362巷22號",
+  "location": {
+    "latitude": 25.061880799999997,
+    "longitude": 121.5321418
+  },
+  "rating": 4.7,
+  "websiteUri": "https://www.facebook.com/616DreamCafe",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 611,
+  "displayName": {
+    "text": "未來咖啡Dream Caf'e",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ0Y1KaFmpQjQRk0x7ylPDjq0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GcFRDMXZaWEZLU0RSVWNVNDRaMWRCVldSTlFVRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "平日來用餐，店內很乾淨整潔，點了日式醬燒豬肉定食，肉帶有軟骨，又嫩又好吃，炸南瓜外脆內軟，蘿蔔滷的入味，小菜都不錯。\n因為菜單後面的介紹認識了‘’接風餐‘’，感覺到店家的努力，希望社會大衆多支持：）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "平日來用餐，店內很乾淨整潔，點了日式醬燒豬肉定食，肉帶有軟骨，又嫩又好吃，炸南瓜外脆內軟，蘿蔔滷的入味，小菜都不錯。\n因為菜單後面的介紹認識了‘’接風餐‘’，感覺到店家的努力，希望社會大衆多支持：）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Iewei Kuo",
+        "uri": "https://www.google.com/maps/contrib/104698985512927293850/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWiM0LBkElqWeyeZYMWdP6rWS0SRK0PvxCpFiyTwgu0iF-052hLDA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-03-07T06:50:23.626131220Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GcFRDMXZaWEZLU0RSVWNVNDRaMWRCVldSTlFVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GcFRDMXZaWEZLU0RSVWNVNDRaMWRCVldSTlFVRRAB!2m1!1s0x3442a959684a8dd1:0xad8ec353ca7b4c93"
+    },
+    {
+      "name": "places/ChIJ0Y1KaFmpQjQRk0x7ylPDjq0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SblpVOXVXRGRXY1dkdlVWODViazVLV1U5aVZsRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "從料理感覺到商家的用心\n特別喜歡伯爵紅茶有檸檬跟氣泡的香味\n簡單的飲料不簡單的出餐～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "從料理感覺到商家的用心\n特別喜歡伯爵紅茶有檸檬跟氣泡的香味\n簡單的飲料不簡單的出餐～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Polly Syu",
+        "uri": "https://www.google.com/maps/contrib/116788382007884831649/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUsAYEYuvkCBEfyktrPtTK9dmx4-AUoSrQ8gnk_LzyltG2SyODzDQ=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-27T17:24:07.885349565Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SblpVOXVXRGRXY1dkdlVWODViazVLV1U5aVZsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SblpVOXVXRGRXY1dkdlVWODViazVLV1U5aVZsRRAB!2m1!1s0x3442a959684a8dd1:0xad8ec353ca7b4c93"
+    },
+    {
+      "name": "places/ChIJ0Y1KaFmpQjQRk0x7ylPDjq0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCNlNXTjRlbmcwZG5vMGNWTk5ZM1F4Ym1GSmRuYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "在看到公視報導前就已經路過好幾次\n知道協會的理念也很認同\n\n今天終於撥空進去用餐\n整體氛圍都很舒適\n\n前菜洋蔥湯非常好吃😋\n主餐點了沙拉也是清爽\n小蛋糕不會太罪惡\n點烏龍的蠻有風味\n\n最驚艷是水果汁\n真的現點現打好喝\n\n看著菜單後面社工、就服員跟志工的心得\n真的覺得心裡暖暖的\n\n希望自己的消費有幫助到接風的孩子\n之後會再約朋友來！\n（也想試試打拋跟咖喱飯！）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在看到公視報導前就已經路過好幾次\n知道協會的理念也很認同\n\n今天終於撥空進去用餐\n整體氛圍都很舒適\n\n前菜洋蔥湯非常好吃😋\n主餐點了沙拉也是清爽\n小蛋糕不會太罪惡\n點烏龍的蠻有風味\n\n最驚艷是水果汁\n真的現點現打好喝\n\n看著菜單後面社工、就服員跟志工的心得\n真的覺得心裡暖暖的\n\n希望自己的消費有幫助到接風的孩子\n之後會再約朋友來！\n（也想試試打拋跟咖喱飯！）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "YU-LING WEI",
+        "uri": "https://www.google.com/maps/contrib/112407952032415069903/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjULq8hJncvJQOQv2tuYAWtWzVbH1QOX4TM99Axdn-l9qSJzrGuH=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-09-19T10:56:44.701498149Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCNlNXTjRlbmcwZG5vMGNWTk5ZM1F4Ym1GSmRuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCNlNXTjRlbmcwZG5vMGNWTk5ZM1F4Ym1GSmRuYxAB!2m1!1s0x3442a959684a8dd1:0xad8ec353ca7b4c93"
+    },
+    {
+      "name": "places/ChIJ0Y1KaFmpQjQRk0x7ylPDjq0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twa1ZHbFVZVlpDWjNaWmNEVTRTbWczWVRkVWFXYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "公益咖啡店\n一起扶植少年\n有常客優惠方案、待用餐、商業午餐\n餐點好吃，推薦牛排跟打拋豬\n用餐環境及廁所整潔\n有插座、wifi可使用、提供兒童餐椅\n格局方正，很適合包場 辦活動\n還有支援會議活動設備\n推薦來用餐或來休息喝飲料耍廢",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "公益咖啡店\n一起扶植少年\n有常客優惠方案、待用餐、商業午餐\n餐點好吃，推薦牛排跟打拋豬\n用餐環境及廁所整潔\n有插座、wifi可使用、提供兒童餐椅\n格局方正，很適合包場 辦活動\n還有支援會議活動設備\n推薦來用餐或來休息喝飲料耍廢",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chenya Wang",
+        "uri": "https://www.google.com/maps/contrib/107173628385895079391/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVBUtcvKufE-1K9s6L__YgJRE_oflU9wEG1ZDno6-5ckdMuQ78=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-10T04:53:07.088757247Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twa1ZHbFVZVlpDWjNaWmNEVTRTbWczWVRkVWFXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twa1ZHbFVZVlpDWjNaWmNEVTRTbWczWVRkVWFXYxAB!2m1!1s0x3442a959684a8dd1:0xad8ec353ca7b4c93"
+    },
+    {
+      "name": "places/ChIJ0Y1KaFmpQjQRk0x7ylPDjq0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKYVpWVlZaMjF5ZW1relNuaHdXVVV4Vm5WaVNGRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "空間寬敞，服務好，推薦點牛排！薯條也炸得很好吃，雞排咖哩飯很辣且咖哩本身味道有很大進步空間。升級套餐很划算，選擇「火燒不盡的熱情」果汁，叮嚀不要加糖，對我來說喝起來不澀不酸，挺好的！可以Linepay",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "空間寬敞，服務好，推薦點牛排！薯條也炸得很好吃，雞排咖哩飯很辣且咖哩本身味道有很大進步空間。升級套餐很划算，選擇「火燒不盡的熱情」果汁，叮嚀不要加糖，對我來說喝起來不澀不酸，挺好的！可以Linepay",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "以琳愛美食",
+        "uri": "https://www.google.com/maps/contrib/117005058415361671453/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVwL_BqgG_URm_56sJuEe-wUIQdPzxSrEH6eBK2TOb6E8CQSto=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-08-12T14:37:36.368634541Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKYVpWVlZaMjF5ZW1relNuaHdXVVV4Vm5WaVNGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKYVpWVlZaMjF5ZW1relNuaHdXVVV4Vm5WaVNGRRAB!2m1!1s0x3442a959684a8dd1:0xad8ec353ca7b4c93"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

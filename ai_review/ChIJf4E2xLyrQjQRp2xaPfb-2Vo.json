@@ -1,0 +1,53 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "店內空間舒適，走自然風格。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "No menu for children (官方標記：不提供兒童餐)",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "No",
+        "evidence": "環境安靜、很適合交談。",
+        "confidence": 0.9
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "Good for children (官方標記：適合兒童)",
+        "No menu for children (官方標記：不提供兒童餐)",
+        "環境安靜、很適合交談。",
+        "店內空間舒適，走自然風格。"
+    ],
+    "generated_summary": "佐料咖啡店內空間舒適且不限時，雖然官方標記適合兒童，但店內環境偏向安靜，且明確不提供兒童餐，建議攜帶孩童前往時需留意音量控制。",
+    "card_summary": ""
+}

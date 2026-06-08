@@ -1,0 +1,132 @@
+{
+  "id": "ChIJw3qwMeurQjQR5Vk1VnIOzvY",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 913 299 208",
+  "formattedAddress": "105台灣臺北市松山區東光里南京東路五段59巷15-1號",
+  "location": {
+    "latitude": 25.052194300000004,
+    "longitude": 121.5593415
+  },
+  "rating": 4.1,
+  "websiteUri": "https://tworder.app/695529",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 127,
+  "displayName": {
+    "text": "蒂蒂茄 咖啡 早午餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJw3qwMeurQjQR5Vk1VnIOzvY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tObFlrNTJaMHcxYmxGVFoxZEtWUzFaYW13d2VHYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "店內位置不多\n但是上菜很快\n餐點價格正常\n蛋餅很好吃！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店內位置不多\n但是上菜很快\n餐點價格正常\n蛋餅很好吃！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "YW",
+        "uri": "https://www.google.com/maps/contrib/116402183816176072400/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKJzqeJwO2nQrudCrrFY2eo80QJO7hpBIG3pQuMB3dAwck6Xg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-03-01T10:43:42.172764738Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tObFlrNTJaMHcxYmxGVFoxZEtWUzFaYW13d2VHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tObFlrNTJaMHcxYmxGVFoxZEtWUzFaYW13d2VHYxAB!2m1!1s0x3442abeb31b07ac3:0xf6ce0e72563559e5"
+    },
+    {
+      "name": "places/ChIJw3qwMeurQjQR5Vk1VnIOzvY/reviews/ChZDSUhNMG9nS0VJQ0FnSURzNnN2SEtnEAE",
+      "relativePublishTimeDescription": "6 年前",
+      "rating": 5,
+      "text": {
+        "text": "漢堡給很多蔬菜很有誠意\n在台北的早餐CP值高\n吃了豬排蛋漢堡不錯吃\n很驚訝的是有小肉豆耶！而且價格跟新北市一樣👍👍👍👍👍\n服務很好\n美中不足就是內用座位好擠～\n（便當只有一到五才有）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "漢堡給很多蔬菜很有誠意\n在台北的早餐CP值高\n吃了豬排蛋漢堡不錯吃\n很驚訝的是有小肉豆耶！而且價格跟新北市一樣👍👍👍👍👍\n服務很好\n美中不足就是內用座位好擠～\n（便當只有一到五才有）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "C",
+        "uri": "https://www.google.com/maps/contrib/114492010099655815020/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJpxso4FlzE02OWIcsFQZWmuKxsQy5YnuRZt_146BPDkqWRuw=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2020-03-01T05:58:07.724590Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURzNnN2SEtnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURzNnN2SEtnEAE!2m1!1s0x3442abeb31b07ac3:0xf6ce0e72563559e5"
+    },
+    {
+      "name": "places/ChIJw3qwMeurQjQR5Vk1VnIOzvY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmanZEZmdBRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 1,
+      "text": {
+        "text": "生意好忙不過來\n櫃檯阿姨不僅一直碎唸\n對內用及外帶的客人說話不客氣 態度差\n\n重點是外帶的鐵板麵裡還有不少頭髮",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "生意好忙不過來\n櫃檯阿姨不僅一直碎唸\n對內用及外帶的客人說話不客氣 態度差\n\n重點是外帶的鐵板麵裡還有不少頭髮",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "M",
+        "uri": "https://www.google.com/maps/contrib/107459132010686561230/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKuSnhVuF24KgqaFtk8tGqzINg-JNp_X1pMjS7olD5lKM82lA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2024-12-29T01:29:57.101597Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmanZEZmdBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmanZEZmdBRRAB!2m1!1s0x3442abeb31b07ac3:0xf6ce0e72563559e5"
+    },
+    {
+      "name": "places/ChIJw3qwMeurQjQR5Vk1VnIOzvY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNRakxYc25nRRAB",
+      "relativePublishTimeDescription": "9 年前",
+      "rating": 5,
+      "text": {
+        "text": "過年期間少數有營業的早餐店，東西意外的好吃，但讓人最驚艷的是飲料店水準的飲品，值得一推",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "過年期間少數有營業的早餐店，東西意外的好吃，但讓人最驚艷的是飲料店水準的飲品，值得一推",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "A. Nagano",
+        "uri": "https://www.google.com/maps/contrib/110461235196224645358/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUahIrZJTB38xMx7giEyreKWih_Z0bquC9No5mTPBjPwZhf-3wPPg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2017-02-04T10:27:22.845Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNRakxYc25nRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNRakxYc25nRRAB!2m1!1s0x3442abeb31b07ac3:0xf6ce0e72563559e5"
+    },
+    {
+      "name": "places/ChIJw3qwMeurQjQR5Vk1VnIOzvY/reviews/ChdDSUhNMG9nS0VJQ0FnSUR1NHVPczB3RRAB",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 5,
+      "text": {
+        "text": "最喜歡的早餐店三明治❤️\n生菜、番茄給好給滿，用料很實在，每次去都有好多人在買三明治～\n豆漿也超級濃郁，推薦給喜歡喝濃豆漿的朋友，雖然中杯價錢比一般早餐店貴，但蒂蒂茄的中杯是別的早餐店的大杯😂",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "最喜歡的早餐店三明治❤️\n生菜、番茄給好給滿，用料很實在，每次去都有好多人在買三明治～\n豆漿也超級濃郁，推薦給喜歡喝濃豆漿的朋友，雖然中杯價錢比一般早餐店貴，但蒂蒂茄的中杯是別的早餐店的大杯😂",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Angela Wang",
+        "uri": "https://www.google.com/maps/contrib/109270466727301906463/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX9I0v9XWBLZoS0F6X08GqaJ5Ov2puaxEuKXhvaKfixiiUOYEFYsQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2022-08-17T01:57:18.127874Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR1NHVPczB3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR1NHVPczB3RRAB!2m1!1s0x3442abeb31b07ac3:0xf6ce0e72563559e5"
+    }
+  ],
+  "goodForChildren": true
+}

@@ -1,0 +1,135 @@
+{
+  "id": "ChIJ8z_haZmsQjQRKtLWjqavTa4",
+  "types": [
+    "brunch_restaurant",
+    "pizza_restaurant",
+    "dessert_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2765 6726",
+  "formattedAddress": "105台灣台北市松山區富锦里富锦街492號1樓",
+  "location": {
+    "latitude": 25.060857,
+    "longitude": 121.56379899999997
+  },
+  "rating": 4.4,
+  "websiteUri": "https://www.instagram.com/sophie_kitchen6726/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 258,
+  "displayName": {
+    "text": "Sophie Kitchen 幸福窯烤",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ8z_haZmsQjQRKtLWjqavTa4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Gb1kwMUNjRXBmVmtJNGFtbENUbDlGZVRKaUxWRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "早上有提供歐式早餐，當然要來光顧，尤其0730就營業最好！內裝中規中矩，就是有些地方擺的有些凌亂（這是烘焙業者的通病，道具越來越多，沒有地方放！哈）早餐點都符合水準，煙燻鮭魚量不會太少，其實這家店的披薩應該是招牌，但早餐沒供應，但咖啡差了些，太濃了！應該是換了新的商業用豆的，比例還沒試出來！哈！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "早上有提供歐式早餐，當然要來光顧，尤其0730就營業最好！內裝中規中矩，就是有些地方擺的有些凌亂（這是烘焙業者的通病，道具越來越多，沒有地方放！哈）早餐點都符合水準，煙燻鮭魚量不會太少，其實這家店的披薩應該是招牌，但早餐沒供應，但咖啡差了些，太濃了！應該是換了新的商業用豆的，比例還沒試出來！哈！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "tony M",
+        "uri": "https://www.google.com/maps/contrib/106405515351742243008/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVQkLvxok4YQbgt-U4qmrktMN4cIpuQyBouQ5qK36SQQ3nC138=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-10-10T08:18:21.610296635Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Gb1kwMUNjRXBmVmtJNGFtbENUbDlGZVRKaUxWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Gb1kwMUNjRXBmVmtJNGFtbENUbDlGZVRKaUxWRRAB!2m1!1s0x3442ac9969e13ff3:0xae4dafa68ed6d22a"
+    },
+    {
+      "name": "places/ChIJ8z_haZmsQjQRKtLWjqavTa4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSWFVHWkZVRWQwTUV4SUxTMVdVMHhJYjJVd2VGRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 1,
+      "text": {
+        "text": "不是想要用情緒性的發言，一開始於14:05使用手機撥打店家電話訂購2個外帶披薩，瑪格麗特、起司重奏口味，電話說大約14:40可以來取，大約14:35到店裡取餐時，櫃檯說抱歉剛剛沒有留到電話，因為目前瑪格麗特披薩沒了，想詢問你另外一個口味，後來換了松露野菇口味，櫃檯說需要等待10分鐘，最終14:50分取到餐帶回家吃，吃的時候才知道只有松露野菇口味是熱的，原本訂起司四重奏口味已經冷掉……..話說我的手機也不是隱藏號碼，室內電話其實也查得到通話記錄，發現沒有的當下其實也可以立即回撥，這樣點外帶的意義是？還得再花時間等？",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "不是想要用情緒性的發言，一開始於14:05使用手機撥打店家電話訂購2個外帶披薩，瑪格麗特、起司重奏口味，電話說大約14:40可以來取，大約14:35到店裡取餐時，櫃檯說抱歉剛剛沒有留到電話，因為目前瑪格麗特披薩沒了，想詢問你另外一個口味，後來換了松露野菇口味，櫃檯說需要等待10分鐘，最終14:50分取到餐帶回家吃，吃的時候才知道只有松露野菇口味是熱的，原本訂起司四重奏口味已經冷掉……..話說我的手機也不是隱藏號碼，室內電話其實也查得到通話記錄，發現沒有的當下其實也可以立即回撥，這樣點外帶的意義是？還得再花時間等？",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "文嘉",
+        "uri": "https://www.google.com/maps/contrib/105129717273750042413/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWd4ldjyMUruXwe_0jJhude7NBv-_DmenF3sfO4a0N9nKnW84YH=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-14T07:22:05.954862519Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSWFVHWkZVRWQwTUV4SUxTMVdVMHhJYjJVd2VGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSWFVHWkZVRWQwTUV4SUxTMVdVMHhJYjJVd2VGRRAB!2m1!1s0x3442ac9969e13ff3:0xae4dafa68ed6d22a"
+    },
+    {
+      "name": "places/ChIJ8z_haZmsQjQRKtLWjqavTa4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1YWNHeFFVamROVG1ZdFdrNTVhbTFMVUhCYVZGRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "店員親和力十足；餐點飲品都很美味；店內裝潢佈置很窩心，有機會會再回訪",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店員親和力十足；餐點飲品都很美味；店內裝潢佈置很窩心，有機會會再回訪",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "吳宇欣",
+        "uri": "https://www.google.com/maps/contrib/105008339856933497010/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIUMpaQlg8PZ4RNbmosZIJcHqWR-mS1VK0iuFnIM0csSPOoWoM=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-06T06:43:25.112981769Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1YWNHeFFVamROVG1ZdFdrNTVhbTFMVUhCYVZGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1YWNHeFFVamROVG1ZdFdrNTVhbTFMVUhCYVZGRRAB!2m1!1s0x3442ac9969e13ff3:0xae4dafa68ed6d22a"
+    },
+    {
+      "name": "places/ChIJ8z_haZmsQjQRKtLWjqavTa4/reviews/Ci9DQUlRQUNvZENodHljRjlvT21acFVUY3pVbXAwTldONFV6SmZPRkZhWWpCRWMzYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐廳內用座位寶貴，主要以販售窯烤歐包為主\n\n🍳簡單均衡美味的早餐：\n1.德腸&豬排雙拼\n2.煙燻鮭魚拼盤\n早餐拼盤整體不會吃太撐，\n有蔬菜和蛋白質配上適量的碳水\n\n🥖羅勒松露起司麵包\n柔軟細膩，咀嚼間不斷散發香氣\n有機會再來嘗試其他餐點和麵包口味",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐廳內用座位寶貴，主要以販售窯烤歐包為主\n\n🍳簡單均衡美味的早餐：\n1.德腸&豬排雙拼\n2.煙燻鮭魚拼盤\n早餐拼盤整體不會吃太撐，\n有蔬菜和蛋白質配上適量的碳水\n\n🥖羅勒松露起司麵包\n柔軟細膩，咀嚼間不斷散發香氣\n有機會再來嘗試其他餐點和麵包口味",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Angela Lu",
+        "uri": "https://www.google.com/maps/contrib/108447035158882036643/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXLX_H45sns0Bp6YfBCTuPwbNSvxzRUwOlGJF9sz3kP9UJQ0Rpc=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-09-02T15:56:44.407107170Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21acFVUY3pVbXAwTldONFV6SmZPRkZhWWpCRWMzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21acFVUY3pVbXAwTldONFV6SmZPRkZhWWpCRWMzYxAB!2m1!1s0x3442ac9969e13ff3:0xae4dafa68ed6d22a"
+    },
+    {
+      "name": "places/ChIJ8z_haZmsQjQRKtLWjqavTa4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKRlExaG1lRkZsTW00M2JGQlhSREoxUjBzeE0xRRAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 4,
+      "text": {
+        "text": "餐廳不算大所以位置很少，但環境乾淨舒適服務態度親切，餐點還不錯但份量稍小，紅茶咖啡可續一次，可刷卡。 第二次11:00前用早餐(最後二張照片)，餐點很ok但冷氣實在是有點弱。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐廳不算大所以位置很少，但環境乾淨舒適服務態度親切，餐點還不錯但份量稍小，紅茶咖啡可續一次，可刷卡。 第二次11:00前用早餐(最後二張照片)，餐點很ok但冷氣實在是有點弱。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Liou Miya",
+        "uri": "https://www.google.com/maps/contrib/100535516836851210615/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV21D7O5iDD_HCuPqv_xeRA6ZPAJLCclunfuGp_MCCRAUphJzDo=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-08-04T04:44:23.324913069Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKRlExaG1lRkZsTW00M2JGQlhSREoxUjBzeE0xRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKRlExaG1lRkZsTW00M2JGQlhSREoxUjBzeE0xRRAB!2m1!1s0x3442ac9969e13ff3:0xae4dafa68ed6d22a"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

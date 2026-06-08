@@ -1,0 +1,53 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "內用只有一個二人桌，且就在櫃檯前面，基本上可以算外帶店。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "No menu for children (官方標記：不提供兒童餐)",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "Good for children (官方標記：適合兒童)",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "No",
+        "evidence": "內用只有一個二人桌，且就在櫃檯前面。",
+        "confidence": 0.9
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "No menu for children (官方標記：不提供兒童餐)",
+        "Good for children (官方標記：適合兒童)",
+        "內用只有一個二人桌，且就在櫃檯前面。",
+        "內用只有一個二人桌，且就在櫃檯前面，基本上可以算外帶店。"
+    ],
+    "generated_summary": "Papa Vito Pizzeria 天母店空間極為狹小，內用僅設有一張二人桌，主要經營外帶與外送，並不適合攜帶推車或進行親子內用。雖然 Google Maps 標記為適合兒童，但店家並未提供兒童餐，且店內環境與設施資訊有限，建議家長以外帶方式享用較為合適。",
+    "card_summary": ""
+}

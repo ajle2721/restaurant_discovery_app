@@ -1,0 +1,132 @@
+{
+  "id": "ChIJJwtHk5-pQjQR7H93GQhLUAk",
+  "types": [
+    "breakfast_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2365 9565",
+  "formattedAddress": "100台灣臺北市中正區文盛里汀州路三段165號",
+  "location": {
+    "latitude": 25.015278,
+    "longitude": 121.53212830000001
+  },
+  "rating": 4.5,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 110,
+  "displayName": {
+    "text": "豐田早餐店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJJwtHk5-pQjQR7H93GQhLUAk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21acGVtRlJhR1JtZGsxTVFYZzBMVFp3VFU1VFdWRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 1,
+      "text": {
+        "text": "做生意真的不容易，但錯誤一直不改進真的要反映一下\n2025/8/18\n當天內用，點了抓餅，上桌後滿滿的焦香味，打開後如圖，當天就放著離開沒吃，老闆娘還問到怎麼了嗎?不好吃嗎? 我有反應太焦了，老闆娘服務不錯跟我說不好意思並且沒收費\n\n2025/11/19\n時隔3個月後，今天電話預訂了玉米蛋餅，回家打開後一樣滿滿的焦香味，這次打開真的不知道自己點了甚麼餐點，我就想問，這種餐點你煮好後不就知道已經燒焦了嗎?為何還要送餐?\n\n以下如圖所示，如對餐點的認知及品質有錯誤，可以回覆指教\n\n若其他客人有在此店家遇到相同問題且更嚴重有食安疑慮，可以向 1950 食藥署諮詢",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "做生意真的不容易，但錯誤一直不改進真的要反映一下\n2025/8/18\n當天內用，點了抓餅，上桌後滿滿的焦香味，打開後如圖，當天就放著離開沒吃，老闆娘還問到怎麼了嗎?不好吃嗎? 我有反應太焦了，老闆娘服務不錯跟我說不好意思並且沒收費\n\n2025/11/19\n時隔3個月後，今天電話預訂了玉米蛋餅，回家打開後一樣滿滿的焦香味，這次打開真的不知道自己點了甚麼餐點，我就想問，這種餐點你煮好後不就知道已經燒焦了嗎?為何還要送餐?\n\n以下如圖所示，如對餐點的認知及品質有錯誤，可以回覆指教\n\n若其他客人有在此店家遇到相同問題且更嚴重有食安疑慮，可以向 1950 食藥署諮詢",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "J.SO瘦子",
+        "uri": "https://www.google.com/maps/contrib/113852963196133630552/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVlTLIPHSik8b3YmPA3HWETX3EwFpIjHUIiCJq7VK4WDdazvcHF=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-19T02:50:23.650906770Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21acGVtRlJhR1JtZGsxTVFYZzBMVFp3VFU1VFdWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21acGVtRlJhR1JtZGsxTVFYZzBMVFp3VFU1VFdWRRAB!2m1!1s0x3442a99f93470b27:0x9504b0819777fec"
+    },
+    {
+      "name": "places/ChIJJwtHk5-pQjQR7H93GQhLUAk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psdFpVaGxRa2xJVlU1SmIxWTBkVjl4UmpJeVgyYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "溫豆漿意外的是冰豆漿微波出來的\n店內座位偏少\n脆薯跟卡啦雞腿堡不錯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "溫豆漿意外的是冰豆漿微波出來的\n店內座位偏少\n脆薯跟卡啦雞腿堡不錯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "洪阿愷",
+        "uri": "https://www.google.com/maps/contrib/113875951102551785696/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUrxEeCfUgF8aVen_hLMZuii8kIfFtlNMxiPmiyM-4MO8JPjIOohQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-04T10:30:47.932768091Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psdFpVaGxRa2xJVlU1SmIxWTBkVjl4UmpJeVgyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psdFpVaGxRa2xJVlU1SmIxWTBkVjl4UmpJeVgyYxAB!2m1!1s0x3442a99f93470b27:0x9504b0819777fec"
+    },
+    {
+      "name": "places/ChIJJwtHk5-pQjQR7H93GQhLUAk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNIek9YYTlBRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "與墾丁ㄉㄨㄞ奶共用店面的一家早餐店，某方面來說也是一種複合式經營（？）\n\n老闆十分年輕，但也有像一般早餐店那樣的親切口吻！\n\n餐點的份量上，我個人覺得算蠻多的，然後選擇也10分的多樣化。\n價格的話，我覺得不是算貴，而且他的位子便利性10分得好，我每天都會有許多台大的學生要前往台大時順便買，所以其實人潮也不少，強烈建議可以用電話先預訂。\n\n這次點的是玉米蛋餅加上番茄醬（南部上來的我滿喜歡他們家的番茄醬），玉米的份量非常的多是讓我最驚豔的一點！\n\n整體來說十分推薦，以台北市的早餐店來說我覺得是非常划算的一家店！\n\n雖然有內用的座位，但座位非常少而且沒有冷氣，覺得蠻熱的，因此建議還是外帶為主會比較方便～\n\n最後還是要提醒一次：先打電話預定！\n這樣才不會現場等太久唷",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "與墾丁ㄉㄨㄞ奶共用店面的一家早餐店，某方面來說也是一種複合式經營（？）\n\n老闆十分年輕，但也有像一般早餐店那樣的親切口吻！\n\n餐點的份量上，我個人覺得算蠻多的，然後選擇也10分的多樣化。\n價格的話，我覺得不是算貴，而且他的位子便利性10分得好，我每天都會有許多台大的學生要前往台大時順便買，所以其實人潮也不少，強烈建議可以用電話先預訂。\n\n這次點的是玉米蛋餅加上番茄醬（南部上來的我滿喜歡他們家的番茄醬），玉米的份量非常的多是讓我最驚豔的一點！\n\n整體來說十分推薦，以台北市的早餐店來說我覺得是非常划算的一家店！\n\n雖然有內用的座位，但座位非常少而且沒有冷氣，覺得蠻熱的，因此建議還是外帶為主會比較方便～\n\n最後還是要提醒一次：先打電話預定！\n這樣才不會現場等太久唷",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "G Lai",
+        "uri": "https://www.google.com/maps/contrib/103604629564274507966/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK3AK6DMbphhfJhNK_pCGcAJPyqOb4T3gze0UOhvpZflUG0RNvc=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2024-09-02T01:59:41.751307Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNIek9YYTlBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNIek9YYTlBRRAB!2m1!1s0x3442a99f93470b27:0x9504b0819777fec"
+    },
+    {
+      "name": "places/ChIJJwtHk5-pQjQR7H93GQhLUAk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfeW92Q3ZnRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "路過吃早餐\n點了蛋餅、鐵板麵+蛋\n蛋餅整體好吃有點酥脆，個人覺得偏油，是好吃的\n鐵板麵價格比外面便宜，吃起來不會水水，口味普通偏鹹，若下次點我會請老闆醬包放2/3就好，蛋的部分老闆會貼心詢問半熟/全熟蛋嗎\n整體5顆星",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "路過吃早餐\n點了蛋餅、鐵板麵+蛋\n蛋餅整體好吃有點酥脆，個人覺得偏油，是好吃的\n鐵板麵價格比外面便宜，吃起來不會水水，口味普通偏鹹，若下次點我會請老闆醬包放2/3就好，蛋的部分老闆會貼心詢問半熟/全熟蛋嗎\n整體5顆星",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Co Co",
+        "uri": "https://www.google.com/maps/contrib/104047341755989039315/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVQK8-SlvoTCghpiucxDY0NU9eEP73CH7MsXbn4-6UVF4eLrrs=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-01-15T00:58:10.977350Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfeW92Q3ZnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfeW92Q3ZnRRAB!2m1!1s0x3442a99f93470b27:0x9504b0819777fec"
+    },
+    {
+      "name": "places/ChIJJwtHk5-pQjQR7H93GQhLUAk/reviews/ChdDSUhNMG9nS0VJX18tLXpieE11bXR3RRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "宮保雞丁麵 超級好吃 ！蛋餅也很讚！！還會想再來",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "宮保雞丁麵 超級好吃 ！蛋餅也很讚！！還會想再來",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "小乖",
+        "uri": "https://www.google.com/maps/contrib/103584484961952388749/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUXM06woKWsY4H-37auoBtkqOZ_nIULsVYIsQiH6bdU0vxqtSU=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-05-30T03:16:04.637446Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJX18tLXpieE11bXR3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJX18tLXpieE11bXR3RRAB!2m1!1s0x3442a99f93470b27:0x9504b0819777fec"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

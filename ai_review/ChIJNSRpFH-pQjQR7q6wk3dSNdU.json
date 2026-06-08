@@ -1,0 +1,52 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "內用只有3-4個位子很擁擠⋯",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "No",
+        "evidence": "內用區比較小一些座位數也不多，是和開放式廚房連在一起的吧台座位",
+        "confidence": 0.9
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "內用只有3-4個位子很擁擠⋯",
+        "內用區比較小一些座位數也不多，是和開放式廚房連在一起的吧台座位",
+        "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)"
+    ],
+    "generated_summary": "金瑪麗義大利麵店內空間較為狹小，僅設有少量吧台座位，且官方已明確標示不提供兒童餐，環境上較不適合攜帶幼童或推車前往用餐。",
+    "card_summary": ""
+}

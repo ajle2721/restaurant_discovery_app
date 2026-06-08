@@ -1,0 +1,131 @@
+{
+  "id": "ChIJaXY9OACrQjQRNSJAJ7EFh_A",
+  "types": [
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2652 2199",
+  "formattedAddress": "115台灣臺北市南港區新光里昆陽街140巷10號",
+  "location": {
+    "latitude": 25.0497002,
+    "longitude": 121.5939733
+  },
+  "rating": 4.5,
+  "userRatingCount": 626,
+  "displayName": {
+    "text": "好想見麵 昆陽店 | 手工水餃 雲吞 麵食",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJaXY9OACrQjQRNSJAJ7EFh_A/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SSVFXcGxjVXcxUkVGbFdWazVjVXRLTVRCc1MyYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "麻婆豆腐飯太軟爛豆腐不是用嫩豆腐不合口味\n小菜的豆乾海帶沒有滷過的味道，海帶有臭腥味很難吃\n炒手麵還不錯👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "麻婆豆腐飯太軟爛豆腐不是用嫩豆腐不合口味\n小菜的豆乾海帶沒有滷過的味道，海帶有臭腥味很難吃\n炒手麵還不錯👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "梓凌",
+        "uri": "https://www.google.com/maps/contrib/117883000278557225841/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXQJas2sylw8oe619iFm0t6mZ8TxOWR1LvEPnOVYqp3ZuDOv6i8=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-27T10:46:55.760990749Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SSVFXcGxjVXcxUkVGbFdWazVjVXRLTVRCc1MyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SSVFXcGxjVXcxUkVGbFdWazVjVXRLTVRCc1MyYxAB!2m1!1s0x3442ab00383d7669:0xf08705b127402235"
+    },
+    {
+      "name": "places/ChIJaXY9OACrQjQRNSJAJ7EFh_A/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWT1FqUkJOa1V5UzJodE1HTlVOV1JmYmtSSWNuYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "推薦小菜小黃瓜 調味不錯\n木耳一般般\n\n水餃還ok\n\n不過吃完餐點後非常渴\n可能有放味精？",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "推薦小菜小黃瓜 調味不錯\n木耳一般般\n\n水餃還ok\n\n不過吃完餐點後非常渴\n可能有放味精？",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Cynthia CC",
+        "uri": "https://www.google.com/maps/contrib/114605146842920700415/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdr11mFkSS62ZauFueB2k-NGJdTMetgG0OZdxiJLJz2j5vXd3s=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-12T02:30:14.829829796Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWT1FqUkJOa1V5UzJodE1HTlVOV1JmYmtSSWNuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWT1FqUkJOa1V5UzJodE1HTlVOV1JmYmtSSWNuYxAB!2m1!1s0x3442ab00383d7669:0xf08705b127402235"
+    },
+    {
+      "name": "places/ChIJaXY9OACrQjQRNSJAJ7EFh_A/reviews/Ci9DQUlRQUNvZENodHljRjlvT210dk1IWmhVVkJTVG5GbloxbHlhazUzYTFaaVEyYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "環境明亮乾淨，餐點不太合個人胃口。番茄湯餃6顆水餃90元（水餃單點一顆才7元），定價偏高。\n\n咳嗽的員工可否戴上口罩，有點可怕。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境明亮乾淨，餐點不太合個人胃口。番茄湯餃6顆水餃90元（水餃單點一顆才7元），定價偏高。\n\n咳嗽的員工可否戴上口罩，有點可怕。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "wendy",
+        "uri": "https://www.google.com/maps/contrib/117670687943668646523/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKDRcE4M6ZvzOj4unNbftH5pXNJm-zngbPMog4uQrpH83Ll7g=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-12-14T03:58:32.537364361Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210dk1IWmhVVkJTVG5GbloxbHlhazUzYTFaaVEyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210dk1IWmhVVkJTVG5GbloxbHlhazUzYTFaaVEyYxAB!2m1!1s0x3442ab00383d7669:0xf08705b127402235"
+    },
+    {
+      "name": "places/ChIJaXY9OACrQjQRNSJAJ7EFh_A/reviews/Ci9DQUlRQUNvZENodHljRjlvT25rMVRuRm9kVGxIYUc4M1dUVkxiakF3VTJjeE1HYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "整體來說餐點不差，不管是麵食、麻婆豆腐飯還是水餃，吃完會有飽足感，但只推薦內用，外帶的話應該只有兩顆星。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "整體來說餐點不差，不管是麵食、麻婆豆腐飯還是水餃，吃完會有飽足感，但只推薦內用，外帶的話應該只有兩顆星。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "愛旅遊的泡麵",
+        "uri": "https://www.google.com/maps/contrib/114725464665456987413/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVXeAQEPL1CL2UfMgIR5Eq3C5y7JYkgFi6_dZ3Fs4IV0F3vAdI=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-03T05:49:25.308758826Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25rMVRuRm9kVGxIYUc4M1dUVkxiakF3VTJjeE1HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25rMVRuRm9kVGxIYUc4M1dUVkxiakF3VTJjeE1HYxAB!2m1!1s0x3442ab00383d7669:0xf08705b127402235"
+    },
+    {
+      "name": "places/ChIJaXY9OACrQjQRNSJAJ7EFh_A/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aU2JXOWZhM3BsZVdOU01YUnpRbkphUjJneFQwRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "水餃個頭不算大，但肉餡飽滿，調味很好。韭菜餡的韭菜味比肉味重，但很清新，沒有出水軟爛或怪味。高麗菜的肉味就比較重，高麗菜也還保留一些爽脆。都在水準以上。青菜湯的青菜量也很多。\n餐廳的環境與上菜也乾淨有序。調味料區佈置用心，最可惜的是沒有蒜頭，不然就完美了。\n想比附近的陶爸爸水餃，本店環境好太多太多，味道也更好，還便宜。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "水餃個頭不算大，但肉餡飽滿，調味很好。韭菜餡的韭菜味比肉味重，但很清新，沒有出水軟爛或怪味。高麗菜的肉味就比較重，高麗菜也還保留一些爽脆。都在水準以上。青菜湯的青菜量也很多。\n餐廳的環境與上菜也乾淨有序。調味料區佈置用心，最可惜的是沒有蒜頭，不然就完美了。\n想比附近的陶爸爸水餃，本店環境好太多太多，味道也更好，還便宜。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Weiming Ho",
+        "uri": "https://www.google.com/maps/contrib/113546575025837914493/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXrJuDfTTJCR4tWiO4FQn9c78UTHmdS_V2PiBF15_OT6xU6IxTyqQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-08T04:18:57.476674879Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aU2JXOWZhM3BsZVdOU01YUnpRbkphUjJneFQwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aU2JXOWZhM3BsZVdOU01YUnpRbkphUjJneFQwRRAB!2m1!1s0x3442ab00383d7669:0xf08705b127402235"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

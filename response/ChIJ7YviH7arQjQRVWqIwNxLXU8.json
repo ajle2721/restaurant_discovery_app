@@ -1,0 +1,139 @@
+{
+  "id": "ChIJ7YviH7arQjQRVWqIwNxLXU8",
+  "types": [
+    "pizza_delivery",
+    "meal_delivery",
+    "meal_takeaway",
+    "food_delivery",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2758 5277",
+  "formattedAddress": "11051台灣臺北市信義區中興里基隆路一段422號",
+  "location": {
+    "latitude": 25.03401,
+    "longitude": 121.559839
+  },
+  "rating": 4.4,
+  "websiteUri": "https://www.pizzahut.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 573,
+  "displayName": {
+    "text": "PIZZA HUT必勝客-信義外送店",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ7YviH7arQjQRVWqIwNxLXU8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxaFowOVNRVlE1ZUZKWVVubFpXSFp4WTJKdE1tYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 1,
+      "text": {
+        "text": "第一次電話訂購，店家說有炸雞桶，後來回撥告知沒有炸雞桶，但有炸雞，因為要下架，所以只能單買一份三塊，快兩百塊…那就算了😐炸雞竟然還是照片上這樣的…..很誇張",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次電話訂購，店家說有炸雞桶，後來回撥告知沒有炸雞桶，但有炸雞，因為要下架，所以只能單買一份三塊，快兩百塊…那就算了😐炸雞竟然還是照片上這樣的…..很誇張",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "范先生",
+        "uri": "https://www.google.com/maps/contrib/100363534221051459162/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIvP49FToai1v9l4B9GrgqwQVFauqUbXv4nJ3ch10HsjMlj7g=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-12T05:29:10.404761895Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxaFowOVNRVlE1ZUZKWVVubFpXSFp4WTJKdE1tYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxaFowOVNRVlE1ZUZKWVVubFpXSFp4WTJKdE1tYxAB!2m1!1s0x3442abb61fe28bed:0x4f5d4bdcc0886a55"
+    },
+    {
+      "name": "places/ChIJ7YviH7arQjQRVWqIwNxLXU8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxZlptSjBRak4wWDFscVQzbEZWalZLVG5GMlJFRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 1,
+      "text": {
+        "text": "大芝心丸勝日式章魚燒吃起來感覺沒熟\n非常難吃又要六百多塊 很後悔嚐鮮\n以前的很好吃啊  新產品吃完怎麼那麼想吐\n而且肚子痛一整天 吃到再也不敢吃披薩\n這芝心也怪怪口感都變了 我無法形容的難吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "大芝心丸勝日式章魚燒吃起來感覺沒熟\n非常難吃又要六百多塊 很後悔嚐鮮\n以前的很好吃啊  新產品吃完怎麼那麼想吐\n而且肚子痛一整天 吃到再也不敢吃披薩\n這芝心也怪怪口感都變了 我無法形容的難吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "王是",
+        "uri": "https://www.google.com/maps/contrib/115691555245946488931/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV7gdLKx2mmOY1cLJ-c6nND1so_WnFQGGd62HVEHmAIVjWgdltm=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-08T17:05:57.765873454Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxZlptSjBRak4wWDFscVQzbEZWalZLVG5GMlJFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxZlptSjBRak4wWDFscVQzbEZWalZLVG5GMlJFRRAB!2m1!1s0x3442abb61fe28bed:0x4f5d4bdcc0886a55"
+    },
+    {
+      "name": "places/ChIJ7YviH7arQjQRVWqIwNxLXU8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kUlEzVTJNbXByVFRjMmRFWlFUbFI0V2pOUGMwRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "大年初二訂餐外帶不用等，新年快樂。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "大年初二訂餐外帶不用等，新年快樂。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "司馬巧楓",
+        "uri": "https://www.google.com/maps/contrib/105891709194325412326/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXgWqeStrzdENR82CPLiYbmdfmk4rtdHVVxAMWFf9wMXTWyU48=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-18T09:59:30.252988628Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kUlEzVTJNbXByVFRjMmRFWlFUbFI0V2pOUGMwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kUlEzVTJNbXByVFRjMmRFWlFUbFI0V2pOUGMwRRAB!2m1!1s0x3442abb61fe28bed:0x4f5d4bdcc0886a55"
+    },
+    {
+      "name": "places/ChIJ7YviH7arQjQRVWqIwNxLXU8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CTFRWOTVibUp3Y200MWJuTkhSbFkyVkVZME5sRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 1,
+      "text": {
+        "text": "今天外帶雙層臘腸 薄脆\n整個烤焦 糊味很重 ！\n這樣也出給客人",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天外帶雙層臘腸 薄脆\n整個烤焦 糊味很重 ！\n這樣也出給客人",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "KK Haung",
+        "uri": "https://www.google.com/maps/contrib/114935653152242659063/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK7ko7fcCV8xuIwLtCFy-4ap8fLoZpz161EqSZZTTPWIU1fyQ=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-10-23T12:48:17.325016562Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CTFRWOTVibUp3Y200MWJuTkhSbFkyVkVZME5sRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CTFRWOTVibUp3Y200MWJuTkhSbFkyVkVZME5sRRAB!2m1!1s0x3442abb61fe28bed:0x4f5d4bdcc0886a55"
+    },
+    {
+      "name": "places/ChIJ7YviH7arQjQRVWqIwNxLXU8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kUlEzWnRZa2hXTUUxa0xVa3lURW90VlRCMmNHYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 1,
+      "text": {
+        "text": "員工態度爛到不行！\n餐點有缺漏，跟店員反映卻一直被質疑是客人的問題，還一直說「我自己出貨的一定沒問題」，完全不願意查證，也不肯補送。\n\n我只想問一句，出貨有錄影嗎？要不要調監視器？\n人真的不要太有自信，問題都推給客人。這樣的服務態度跟員工訓練，真的很令人傻眼",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "員工態度爛到不行！\n餐點有缺漏，跟店員反映卻一直被質疑是客人的問題，還一直說「我自己出貨的一定沒問題」，完全不願意查證，也不肯補送。\n\n我只想問一句，出貨有錄影嗎？要不要調監視器？\n人真的不要太有自信，問題都推給客人。這樣的服務態度跟員工訓練，真的很令人傻眼",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Kelly Wu",
+        "uri": "https://www.google.com/maps/contrib/100815391823621009688/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWRWmyUKcsR2cdiA5MkWw8DP2uavqEklwYdre2Og6IiKQpqDoZU=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-18T13:52:55.937440604Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kUlEzWnRZa2hXTUUxa0xVa3lURW90VlRCMmNHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kUlEzWnRZa2hXTUUxa0xVa3lURW90VlRCMmNHYxAB!2m1!1s0x3442abb61fe28bed:0x4f5d4bdcc0886a55"
+    }
+  ],
+  "menuForChildren": false
+}

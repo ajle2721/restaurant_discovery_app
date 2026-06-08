@@ -1,0 +1,140 @@
+{
+  "id": "ChIJwQHBn2OpQjQRFUlTgeRdnVg",
+  "types": [
+    "brunch_restaurant",
+    "breakfast_restaurant",
+    "coffee_shop",
+    "cafe",
+    "dessert_shop",
+    "confectionery",
+    "food_store",
+    "restaurant",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2523 1198",
+  "formattedAddress": "10491台灣臺北市中山區新生里松江路362巷28號",
+  "location": {
+    "latitude": 25.061895399999997,
+    "longitude": 121.5321075
+  },
+  "rating": 4.6,
+  "websiteUri": "https://www.facebook.com/gms.coffee/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 671,
+  "displayName": {
+    "text": "格沐斯咖啡",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJwQHBn2OpQjQRFUlTgeRdnVg/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oRk1XNXJZMHhCVUcxQldHUnRaVFkwYmxWMFZtYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "鄰近行天宮捷運站，步行約4分鐘即可抵達\n用餐環境溫馨舒適，\n推薦有溫度的早午餐（慢火醬燒牛肉） $420\n很豐盛的一盤早午餐！歐式麵包、奶油塊、\n西式嫩蛋、生菜沙拉、還有栗子南瓜搭配金沙醬\n醬燒牛肉軟嫩入味還附上：手工點心 3 選 1。\n推薦一定要試試：手工花朵酥皮蛋塔。\n薄脆酥皮搭配濃郁內餡，\n每一口都吃得到店家的用心與溫度。\n推薦👍👍會想再回訪",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "鄰近行天宮捷運站，步行約4分鐘即可抵達\n用餐環境溫馨舒適，\n推薦有溫度的早午餐（慢火醬燒牛肉） $420\n很豐盛的一盤早午餐！歐式麵包、奶油塊、\n西式嫩蛋、生菜沙拉、還有栗子南瓜搭配金沙醬\n醬燒牛肉軟嫩入味還附上：手工點心 3 選 1。\n推薦一定要試試：手工花朵酥皮蛋塔。\n薄脆酥皮搭配濃郁內餡，\n每一口都吃得到店家的用心與溫度。\n推薦👍👍會想再回訪",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "尼克到處吃美食 IG: nickeatfood",
+        "uri": "https://www.google.com/maps/contrib/103527910406218407842/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8Ovvq22ctRb_pqIdpmqi4_mnifhQxZG0lGPa7JQjmtdmA8zA1=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-14T03:43:11.114524665Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oRk1XNXJZMHhCVUcxQldHUnRaVFkwYmxWMFZtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oRk1XNXJZMHhCVUcxQldHUnRaVFkwYmxWMFZtYxAB!2m1!1s0x3442a9639fc101c1:0x589d5de481534915"
+    },
+    {
+      "name": "places/ChIJwQHBn2OpQjQRFUlTgeRdnVg/reviews/Ci9DQUlRQUNvZENodHljRjlvT25vMGRISnROMHBZT0Y5QlpqbE1hbVZXWkV4dlgyYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "鹹派（雞肉蘑菇起司、蕃茄肉醬）內餡都好吃、但餅皮偏厚、不用加一成服務費、以中山區而已早午餐很划算",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "鹹派（雞肉蘑菇起司、蕃茄肉醬）內餡都好吃、但餅皮偏厚、不用加一成服務費、以中山區而已早午餐很划算",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Veegee C",
+        "uri": "https://www.google.com/maps/contrib/113755383603055618823/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVUvoLiq8MPsbnmFBTD55ifxylG0kHTmpsJTPJBlPC-rCYf1zp7eg=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-02-27T05:47:14.501245790Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25vMGRISnROMHBZT0Y5QlpqbE1hbVZXWkV4dlgyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25vMGRISnROMHBZT0Y5QlpqbE1hbVZXWkV4dlgyYxAB!2m1!1s0x3442a9639fc101c1:0x589d5de481534915"
+    },
+    {
+      "name": "places/ChIJwQHBn2OpQjQRFUlTgeRdnVg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKWWNWZEhORlJWWlhkRmF6RnZUM281ZEdGTlYxRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "不經意發現的巷弄早午餐，家庭式經營非常溫馨，生意也很好！\n\n點了他們鹹派套餐跟醬燒牛早午餐，全部都是自己手做，連沙拉醬汁都讓人印象深刻🥰\n\n特別喜歡鹹派跟蛋塔，鹹派內餡飽滿。料多實在，整個拼盤也相當豐盛！蛋塔奶香十組，不油不膩很想要來第二顆🤤\n\n另外推薦他們的精品咖啡，自己烘豆可以看出老闆娘對咖啡的專業跟熱忱，虹吸式的煮法也讓咖啡更充分表現各豆的香氣，咖啡控非常值得試試看！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "不經意發現的巷弄早午餐，家庭式經營非常溫馨，生意也很好！\n\n點了他們鹹派套餐跟醬燒牛早午餐，全部都是自己手做，連沙拉醬汁都讓人印象深刻🥰\n\n特別喜歡鹹派跟蛋塔，鹹派內餡飽滿。料多實在，整個拼盤也相當豐盛！蛋塔奶香十組，不油不膩很想要來第二顆🤤\n\n另外推薦他們的精品咖啡，自己烘豆可以看出老闆娘對咖啡的專業跟熱忱，虹吸式的煮法也讓咖啡更充分表現各豆的香氣，咖啡控非常值得試試看！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "三口品",
+        "uri": "https://www.google.com/maps/contrib/105071839473983957630/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLQUGoBvhKypQWZOocNygKx3sX1Ov6z0N7UbE6ZF3GMVX0KOUA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-11-05T01:21:56.856393386Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKWWNWZEhORlJWWlhkRmF6RnZUM281ZEdGTlYxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKWWNWZEhORlJWWlhkRmF6RnZUM281ZEdGTlYxRRAB!2m1!1s0x3442a9639fc101c1:0x589d5de481534915"
+    },
+    {
+      "name": "places/ChIJwQHBn2OpQjQRFUlTgeRdnVg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOV1UxQTVTekpKUm5kS1lYQnZZbDlpWXpSamFHYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "意外發現這家溫暖咖啡早午餐店！\n讓我意外喝到少見的「虹吸式手作咖啡」\n香氣跟呈現方式都很有特色 ☕️✨\n驚喜的是點早午餐系列套餐會附甜點跟飲品，\nCP 值可以😎\n（更換飲品折扣$20）\n我這次點的早午餐系列是「乾酪凱薩沙拉碗套餐」$360\n口感清爽、份量剛剛好，吃起來很舒服～\n另外也推薦他們的「起司乳酪雞肉鹹派套餐」$310\n外層口感酥香、餡料飽滿，\n還會搭配蛋、麵包、沙拉和飲品，\n整份吃起來非常滿足～\n而且他們早上7點半就營業！\n早起的人也能輕鬆找到地方用餐",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "意外發現這家溫暖咖啡早午餐店！\n讓我意外喝到少見的「虹吸式手作咖啡」\n香氣跟呈現方式都很有特色 ☕️✨\n驚喜的是點早午餐系列套餐會附甜點跟飲品，\nCP 值可以😎\n（更換飲品折扣$20）\n我這次點的早午餐系列是「乾酪凱薩沙拉碗套餐」$360\n口感清爽、份量剛剛好，吃起來很舒服～\n另外也推薦他們的「起司乳酪雞肉鹹派套餐」$310\n外層口感酥香、餡料飽滿，\n還會搭配蛋、麵包、沙拉和飲品，\n整份吃起來非常滿足～\n而且他們早上7點半就營業！\n早起的人也能輕鬆找到地方用餐",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "s w",
+        "uri": "https://www.google.com/maps/contrib/116508958906810817037/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWJvShJddgpWHDEX8WGXqUiaVj6-W_RK8-5uNwJII9xI0Vp9QlS=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-04T03:22:45.691754055Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOV1UxQTVTekpKUm5kS1lYQnZZbDlpWXpSamFHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOV1UxQTVTekpKUm5kS1lYQnZZbDlpWXpSamFHYxAB!2m1!1s0x3442a9639fc101c1:0x589d5de481534915"
+    },
+    {
+      "name": "places/ChIJwQHBn2OpQjQRFUlTgeRdnVg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psZmN6ZHJiM1J5VGpSM2JtdDJhR1ZUTVhSUlRHYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "架上的豆子產地價格不菲\n不過內用每杯售價只要$100起\n在台北市區已是親民價格\n這次我點了：\n\n🍋檸檬氣泡咖啡-150元\n🏡莊園拿鐵-100元\n（對 我渴到喝了兩杯👍）\n豆子很順口，甚至會有尾韻\n閉上眼會像暴君的主廚\n整個人被巨浪般的咖啡海一波帶走\n\n🥗乾酪凱撒沙拉碗-360元\n西式嫩蛋、培根、藍莓乳酪歐包\n贈送：花朵酥皮蛋撻\n（附贈飲料，更換飲品可折$20）\n歐包真不是蓋的\n每一口都是紮實的藍莓香\n紅卵洗選蛋所做的嫩蛋吃不出差異\n不過我相信老闆娘說的；\n蛋塔皮是日本麵粉和法國奶油製成\n因為拍到涼了才吃\n依然是酥脆到能ASMR的程度\n\n🧀手工鹹派套餐；起司乳酪雞肉-$310\n歐式麵包、紅卵雞蛋、生菜沙拉\n（附飲料，更換飲品可折$20）\n全手工製作的凱薩醬\n真的和泉廉賣的不一樣\n那盤沙拉讓肉食類的我\n吃完依然讚不絕口\n\n有聽到隔壁桌驚嘆紅茶超好喝\n不到五分鐘又續點一杯☕️\n老板娘說糖水是天然結晶冰糖熬煮\n搭配「正」斯里蘭卡錫蘭茶葉🍃\n一定要全糖才能襯托出回甘的味道\n\n熬過網路泡沫、金融海嘯\n房價崩盤、非典疫情\n這間咖啡廳真的值得你來試試\n\n話說一開始只是想拍照\n卻又陷入美食的無間道\n真是慚愧呀我🙇🏻‍♂️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "架上的豆子產地價格不菲\n不過內用每杯售價只要$100起\n在台北市區已是親民價格\n這次我點了：\n\n🍋檸檬氣泡咖啡-150元\n🏡莊園拿鐵-100元\n（對 我渴到喝了兩杯👍）\n豆子很順口，甚至會有尾韻\n閉上眼會像暴君的主廚\n整個人被巨浪般的咖啡海一波帶走\n\n🥗乾酪凱撒沙拉碗-360元\n西式嫩蛋、培根、藍莓乳酪歐包\n贈送：花朵酥皮蛋撻\n（附贈飲料，更換飲品可折$20）\n歐包真不是蓋的\n每一口都是紮實的藍莓香\n紅卵洗選蛋所做的嫩蛋吃不出差異\n不過我相信老闆娘說的；\n蛋塔皮是日本麵粉和法國奶油製成\n因為拍到涼了才吃\n依然是酥脆到能ASMR的程度\n\n🧀手工鹹派套餐；起司乳酪雞肉-$310\n歐式麵包、紅卵雞蛋、生菜沙拉\n（附飲料，更換飲品可折$20）\n全手工製作的凱薩醬\n真的和泉廉賣的不一樣\n那盤沙拉讓肉食類的我\n吃完依然讚不絕口\n\n有聽到隔壁桌驚嘆紅茶超好喝\n不到五分鐘又續點一杯☕️\n老板娘說糖水是天然結晶冰糖熬煮\n搭配「正」斯里蘭卡錫蘭茶葉🍃\n一定要全糖才能襯托出回甘的味道\n\n熬過網路泡沫、金融海嘯\n房價崩盤、非典疫情\n這間咖啡廳真的值得你來試試\n\n話說一開始只是想拍照\n卻又陷入美食的無間道\n真是慚愧呀我🙇🏻‍♂️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "ICE-道生幼稚園傑出校友",
+        "uri": "https://www.google.com/maps/contrib/118171886739102025068/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUAXUSzB0jQ-ADviDt0B4wXLc95rtegkLDqNV1nh2GxvWtLSY5XCw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-09T03:22:46.607551675Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psZmN6ZHJiM1J5VGpSM2JtdDJhR1ZUTVhSUlRHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psZmN6ZHJiM1J5VGpSM2JtdDJhR1ZUTVhSUlRHYxAB!2m1!1s0x3442a9639fc101c1:0x589d5de481534915"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": false
+}

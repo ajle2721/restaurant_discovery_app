@@ -1,0 +1,52 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "環境也是非常雜亂骯髒！座位四周堆滿雜物！",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "Google Maps Attributes: No menu for children",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "Google Maps Attributes: Good for children",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "Google Maps Attributes: No menu for children",
+        "環境也是非常雜亂骯髒！座位四周堆滿雜物！",
+        "Google Maps Attributes: Good for children"
+    ],
+    "generated_summary": "該餐廳在 Google Maps 上標記為適合兒童，但並未提供兒童餐。用餐環境方面，有評論指出店內空間較為雜亂且堆放雜物，可能不適合攜帶推車前往。其餘親子友善設施（如兒童椅、餐具、尿布台或遊戲區）目前評論中並無明確提及。",
+    "card_summary": ""
+}

@@ -1,0 +1,133 @@
+{
+  "id": "ChIJbxyLRlirQjQRRO4iZVRY6Uc",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 905 271 685",
+  "formattedAddress": "115台灣臺北市南港區南港里中南街8號",
+  "location": {
+    "latitude": 25.054987,
+    "longitude": 121.61519899999999
+  },
+  "rating": 4.3,
+  "websiteUri": "http://www.facebook.com/Nankang2014",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 1051,
+  "displayName": {
+    "text": "小南港-懶人私廚",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJbxyLRlirQjQRRO4iZVRY6Uc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOWFRtOWxObVYyVXpCbVdXOXJXbXQ1ZGxoR09HYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "寒流日的週五上午十點，一個人試了“招牌媽媽味”三明治。切邊吐司有烤痕，但是不會過乾硬，很合口。一口咬下整體風味均衡，不會有過油美乃滋，也不會有過多汁液的番茄片。煎蛋應該是現點現作，蛋香有又很鬆弛感，與生菜葉很搭。\n再試訂了“法式蜂黃鮪魚烤”三明治，黃芥末醬抹在吐司上 鮪魚泥有小顆玉米粒及蜂蜜風味。鮪魚沙拉不會有台式洋蔥丁美乃滋味，氣味算清爽的！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "寒流日的週五上午十點，一個人試了“招牌媽媽味”三明治。切邊吐司有烤痕，但是不會過乾硬，很合口。一口咬下整體風味均衡，不會有過油美乃滋，也不會有過多汁液的番茄片。煎蛋應該是現點現作，蛋香有又很鬆弛感，與生菜葉很搭。\n再試訂了“法式蜂黃鮪魚烤”三明治，黃芥末醬抹在吐司上 鮪魚泥有小顆玉米粒及蜂蜜風味。鮪魚沙拉不會有台式洋蔥丁美乃滋味，氣味算清爽的！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Joseph Lin",
+        "uri": "https://www.google.com/maps/contrib/111846669814105309974/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXYaJ8uHjcSgieJAy0vSuFS1KYbxiTuP3sIOh0tl3g3OCUaZgA8=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-23T02:33:30.195320428Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOWFRtOWxObVYyVXpCbVdXOXJXbXQ1ZGxoR09HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOWFRtOWxObVYyVXpCbVdXOXJXbXQ1ZGxoR09HYxAB!2m1!1s0x3442ab58468b1c6f:0x47e958546522ee44"
+    },
+    {
+      "name": "places/ChIJbxyLRlirQjQRRO4iZVRY6Uc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25keE1UWXlRVmQ0TVVOTmVXZDBUR2x1YTJWU05HYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 3,
+      "text": {
+        "text": "厚雞YA總匯 $120，雞肉相當厚實，搭配大量的新鮮生菜，以及火腿和蛋，口感層次豐富有變化。不過，不知為何，吃起來總讓人聯想到便利商店的紐奧良雞肉三明治😂\n\n蘿蔔絲豬排 $100，原以為會是那種一般常見的蘿蔔絲餅的白色蘿蔔絲的口感，但實際上這份比較偏乾一些。豬排厚度一般，但與其他配料的搭配方式非常特別，具有自己的特色。\n\n附近停車不太方便，建議提前預訂會比較省時省事。店門口有3桌共6個位置可以內用。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "厚雞YA總匯 $120，雞肉相當厚實，搭配大量的新鮮生菜，以及火腿和蛋，口感層次豐富有變化。不過，不知為何，吃起來總讓人聯想到便利商店的紐奧良雞肉三明治😂\n\n蘿蔔絲豬排 $100，原以為會是那種一般常見的蘿蔔絲餅的白色蘿蔔絲的口感，但實際上這份比較偏乾一些。豬排厚度一般，但與其他配料的搭配方式非常特別，具有自己的特色。\n\n附近停車不太方便，建議提前預訂會比較省時省事。店門口有3桌共6個位置可以內用。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "周綺綺",
+        "uri": "https://www.google.com/maps/contrib/115532238436678205546/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKEoR94RoGFSVW1IVdLF_etTO2c1Y8KBvjDfotgkUNYqPoN_g=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-30T10:35:41.946977119Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25keE1UWXlRVmQ0TVVOTmVXZDBUR2x1YTJWU05HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25keE1UWXlRVmQ0TVVOTmVXZDBUR2x1YTJWU05HYxAB!2m1!1s0x3442ab58468b1c6f:0x47e958546522ee44"
+    },
+    {
+      "name": "places/ChIJbxyLRlirQjQRRO4iZVRY6Uc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psS05HaFFabTVFUTB3NVkwcGFiMFZCVm5kRlMyYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "炒蘿蔔絲豬排蛋餅 好吃 餅脆脆的👍\n\n雞肉吐司有點像是紐奧良口味普通\n\n有點可惜 唯一熱飲是綠茶\n\n比較建議外帶或是簡單吃吃離開",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "炒蘿蔔絲豬排蛋餅 好吃 餅脆脆的👍\n\n雞肉吐司有點像是紐奧良口味普通\n\n有點可惜 唯一熱飲是綠茶\n\n比較建議外帶或是簡單吃吃離開",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Alice Ya",
+        "uri": "https://www.google.com/maps/contrib/100678533718818986036/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVzZ48btn-eIopKrNWSDR_1Sink3FDqJYPpAJWzxpCjwDaRF4gp6g=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-19T04:57:28.694736873Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psS05HaFFabTVFUTB3NVkwcGFiMFZCVm5kRlMyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psS05HaFFabTVFUTB3NVkwcGFiMFZCVm5kRlMyYxAB!2m1!1s0x3442ab58468b1c6f:0x47e958546522ee44"
+    },
+    {
+      "name": "places/ChIJbxyLRlirQjQRRO4iZVRY6Uc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WU2JURmFPRzFXT0hGVVNYWlhVWE5XY2tob1RVRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 3,
+      "text": {
+        "text": "📍香檸泰雞霸-$120\n⭐️⭐️⭐️\n雞肉很嫩生菜很豐富\n泰式醬酸酸甜甜蠻好吃的\n但吃完會有點膩\n吐司份量很多但沒什麼香氣\n\n📍燻雞薯叔-$100\n⭐️⭐️⭐️⭐️\n意外的蠻好吃\n馬鈴薯香氣十足\n\n📍懶人鮮奶茶-$50\n⭐️⭐️⭐️\n普通",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "📍香檸泰雞霸-$120\n⭐️⭐️⭐️\n雞肉很嫩生菜很豐富\n泰式醬酸酸甜甜蠻好吃的\n但吃完會有點膩\n吐司份量很多但沒什麼香氣\n\n📍燻雞薯叔-$100\n⭐️⭐️⭐️⭐️\n意外的蠻好吃\n馬鈴薯香氣十足\n\n📍懶人鮮奶茶-$50\n⭐️⭐️⭐️\n普通",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chi",
+        "uri": "https://www.google.com/maps/contrib/114260483261208012486/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXlhf95iZNNXfd0WOUFZqQW08d-zSirA3zpxpDiec7E_kKMsB6V=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-11T11:08:27.849145096Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WU2JURmFPRzFXT0hGVVNYWlhVWE5XY2tob1RVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WU2JURmFPRzFXT0hGVVNYWlhVWE5XY2tob1RVRRAB!2m1!1s0x3442ab58468b1c6f:0x47e958546522ee44"
+    },
+    {
+      "name": "places/ChIJbxyLRlirQjQRRO4iZVRY6Uc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaRmVsa3lMVlYwWDJ0dVduZDBNRlZoVDNSNFNIYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "吃到一半突然發現竟然沒有留言過！\n從疫情偶然發現有外送就默默吃到現在\n每隔一陣子吃，味道都沒變\n\n三明治份量很大！對得起價格\n可以吃完一個但就是會超級飽\n（所以我會分兩餐吃🤣）\n\n第一名蘿蔔絲豬排👍🏻、花生劈腿了、厚雞總匯\n酥皮蛋餅也很讚，不會太油😎",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "吃到一半突然發現竟然沒有留言過！\n從疫情偶然發現有外送就默默吃到現在\n每隔一陣子吃，味道都沒變\n\n三明治份量很大！對得起價格\n可以吃完一個但就是會超級飽\n（所以我會分兩餐吃🤣）\n\n第一名蘿蔔絲豬排👍🏻、花生劈腿了、厚雞總匯\n酥皮蛋餅也很讚，不會太油😎",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Janice Kuo",
+        "uri": "https://www.google.com/maps/contrib/102202921416870078498/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtFEAkKgAzUMv7iGOCpioFPSbxetPU4bpLZLLc2s5yxvY6o8IW=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-06T04:17:49.667646011Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaRmVsa3lMVlYwWDJ0dVduZDBNRlZoVDNSNFNIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaRmVsa3lMVlYwWDJ0dVduZDBNRlZoVDNSNFNIYxAB!2m1!1s0x3442ab58468b1c6f:0x47e958546522ee44"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

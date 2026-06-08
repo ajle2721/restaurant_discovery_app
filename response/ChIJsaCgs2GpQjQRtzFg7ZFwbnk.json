@@ -1,0 +1,133 @@
+{
+  "id": "ChIJsaCgs2GpQjQRtzFg7ZFwbnk",
+  "types": [
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2504 1711",
+  "formattedAddress": "104台灣台北市中山区朱园里南京东路二段178號2F",
+  "location": {
+    "latitude": 25.051742899999997,
+    "longitude": 121.5351397
+  },
+  "rating": 4.5,
+  "websiteUri": "https://www.tokiya.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 6875,
+  "displayName": {
+    "text": "陶板屋 台北南京東店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJsaCgs2GpQjQRtzFg7ZFwbnk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWcWVUVm1ObVl5TUdjMFNYUjJkMFl0V0ZsalUyYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "很久沒來陶板屋，今日家人聚餐，餐點好吃又很足，上菜速度太快，上一道都還來不及吃完，服裝人員態度親切，收餐速度快。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很久沒來陶板屋，今日家人聚餐，餐點好吃又很足，上菜速度太快，上一道都還來不及吃完，服裝人員態度親切，收餐速度快。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃小閔",
+        "uri": "https://www.google.com/maps/contrib/105975870361340420788/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI8EZK_r9vlQryPmR3W0RvZBFG40emJpu22rBsO_y9T-o8UvA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-24T23:41:12.008102923Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWcWVUVm1ObVl5TUdjMFNYUjJkMFl0V0ZsalUyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWcWVUVm1ObVl5TUdjMFNYUjJkMFl0V0ZsalUyYxAB!2m1!1s0x3442a961b3a0a0b1:0x796e7091ed6031b7"
+    },
+    {
+      "name": "places/ChIJsaCgs2GpQjQRtzFg7ZFwbnk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwb05uQkxSVlZZVmpodE1rSkRRVkJ0TWtwbE1VRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "南京店在2樓，附近停車方便，服務人員很多，感覺是一個不錯的餐廳，價位偏中價位，上菜速度很快，餐盤很多，覺得吃完講不出來那一道菜特別好吃。\n我點香蒜牛肉還不錯吃，其他櫻桃鴨也不錯。升級法蘭克牛排個人覺得不OK，價位高不打緊，肉質一般般，菜盤端出來也不夠大方。\n\n但是廁所實在太臭了，還沒進廁所在門口就聞到尿燒味。一股濃濃的味道。5:30才正要開始營業，感覺廁所部分要再加強一下。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "南京店在2樓，附近停車方便，服務人員很多，感覺是一個不錯的餐廳，價位偏中價位，上菜速度很快，餐盤很多，覺得吃完講不出來那一道菜特別好吃。\n我點香蒜牛肉還不錯吃，其他櫻桃鴨也不錯。升級法蘭克牛排個人覺得不OK，價位高不打緊，肉質一般般，菜盤端出來也不夠大方。\n\n但是廁所實在太臭了，還沒進廁所在門口就聞到尿燒味。一股濃濃的味道。5:30才正要開始營業，感覺廁所部分要再加強一下。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "李大仁",
+        "uri": "https://www.google.com/maps/contrib/113334297475522637015/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWelIpvRHUuqS0AWtwc1IpkT6kT_54S1tG0bOUWHg0DSLzXMao=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-01-11T14:25:05.993398391Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwb05uQkxSVlZZVmpodE1rSkRRVkJ0TWtwbE1VRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwb05uQkxSVlZZVmpodE1rSkRRVkJ0TWtwbE1VRRAB!2m1!1s0x3442a961b3a0a0b1:0x796e7091ed6031b7"
+    },
+    {
+      "name": "places/ChIJsaCgs2GpQjQRtzFg7ZFwbnk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21zM09Vb3lNbnBRVURGdlluaG9kVFZxVDBRMWJXYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "平日午餐，櫃檯接待的美少女親切問候，我們提早到達，但仍可以叫出是吳小姐二位嗎？這樣不容易耶！\n\n客人大約坐半滿，員工很周到不急促，使用知書達禮卷，還是很認真的詢問是否有其他優惠要使用？\n\n菜單有點小小更動，但就是要來吃經典款～香蒜瓦片牛排（若哪天沒這道菜，或是蒜片不見了，我一定會舉白布旗抗議🤣🤣🤣）\n\n烤雞沙拉味道很不錯👍🏻，雖然少少，但真的有入味，塔塔魚排沙拉清爽好吃，蕃茄牛肉湯，牛肉軟嫩，牙口不好的人也能放心享用，雞肉濃湯真的很濃郁，經典的杏鮑菇少少，好喜歡這道菜，每來必點！加點的牡蠣好厲害👍🏻，外酥內多汁，而且沒有腥味，推薦！\n\n贈送的豆腐和主廚蕃茄麵包都不錯！\n\n下次我要記得請廚房不用給我牛排的配菜～～只要給我6份蒜片和醬汁就好！\n\n冷月紫米搭配熱耶加雪菲，完美的ending 💕💕\n\n冷麵一般般，章魚飯糰味道反而不錯！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "平日午餐，櫃檯接待的美少女親切問候，我們提早到達，但仍可以叫出是吳小姐二位嗎？這樣不容易耶！\n\n客人大約坐半滿，員工很周到不急促，使用知書達禮卷，還是很認真的詢問是否有其他優惠要使用？\n\n菜單有點小小更動，但就是要來吃經典款～香蒜瓦片牛排（若哪天沒這道菜，或是蒜片不見了，我一定會舉白布旗抗議🤣🤣🤣）\n\n烤雞沙拉味道很不錯👍🏻，雖然少少，但真的有入味，塔塔魚排沙拉清爽好吃，蕃茄牛肉湯，牛肉軟嫩，牙口不好的人也能放心享用，雞肉濃湯真的很濃郁，經典的杏鮑菇少少，好喜歡這道菜，每來必點！加點的牡蠣好厲害👍🏻，外酥內多汁，而且沒有腥味，推薦！\n\n贈送的豆腐和主廚蕃茄麵包都不錯！\n\n下次我要記得請廚房不用給我牛排的配菜～～只要給我6份蒜片和醬汁就好！\n\n冷月紫米搭配熱耶加雪菲，完美的ending 💕💕\n\n冷麵一般般，章魚飯糰味道反而不錯！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "吳敏雯",
+        "uri": "https://www.google.com/maps/contrib/117173400790120786081/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVf8rOqjIBIxacuFrLEOEZOzJ3wua_RLXpngbjUxIykutxLaFODqg=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-10-15T06:37:26.355884485Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21zM09Vb3lNbnBRVURGdlluaG9kVFZxVDBRMWJXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21zM09Vb3lNbnBRVURGdlluaG9kVFZxVDBRMWJXYxAB!2m1!1s0x3442a961b3a0a0b1:0x796e7091ed6031b7"
+    },
+    {
+      "name": "places/ChIJsaCgs2GpQjQRtzFg7ZFwbnk/reviews/Ci9DQUlRQUNvZENodHljRjlvT210NGRsRlVRV3RDTVZWMGRIUkdVbTFPU1RaUWFrRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "環境乾淨衛生，屬於熱鬧大家都在聊天那種，餐點符合期待，會再回訪👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境乾淨衛生，屬於熱鬧大家都在聊天那種，餐點符合期待，會再回訪👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "AA One (fountain)",
+        "uri": "https://www.google.com/maps/contrib/110686182686862811455/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK88xDiREB0vmPnIwirvc74ebj0l0fGonQh2EG3eEofsqi5gg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-03-01T09:26:19.646096051Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210NGRsRlVRV3RDTVZWMGRIUkdVbTFPU1RaUWFrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210NGRsRlVRV3RDTVZWMGRIUkdVbTFPU1RaUWFrRRAB!2m1!1s0x3442a961b3a0a0b1:0x796e7091ed6031b7"
+    },
+    {
+      "name": "places/ChIJsaCgs2GpQjQRtzFg7ZFwbnk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paTGRWWmxZbHA0TFZGTFdGYzVTMFpUVUV4c2IwRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "連鎖店的體驗，大年初一不會休息，讓長假中多一個選擇，迅速精實。附近有幾個停車場方便停車，離捷運也很近，有素食餐，很方便。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "連鎖店的體驗，大年初一不會休息，讓長假中多一個選擇，迅速精實。附近有幾個停車場方便停車，離捷運也很近，有素食餐，很方便。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yang Cory",
+        "uri": "https://www.google.com/maps/contrib/111445187286396674846/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX_fOSt1MZk1FassIy1z8__PitLeIeMMd1W39nwTi03oqM1n--0bg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-17T12:39:37.583090935Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paTGRWWmxZbHA0TFZGTFdGYzVTMFpUVUV4c2IwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paTGRWWmxZbHA0TFZGTFdGYzVTMFpUVUV4c2IwRRAB!2m1!1s0x3442a961b3a0a0b1:0x796e7091ed6031b7"
+    }
+  ],
+  "menuForChildren": true,
+  "goodForChildren": true
+}

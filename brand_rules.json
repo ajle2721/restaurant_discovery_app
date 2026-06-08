@@ -1,0 +1,6007 @@
+{
+    "共味食光 HotelFloor": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【共味食光 HotelFloor】統一設定",
+            "confidence": 1
+        }
+    },
+    "宝其咖啡工坊": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【宝其咖啡工坊】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "和民 手作廚房": {
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【和民 手作廚房】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【和民 手作廚房】統一設定",
+            "confidence": 1
+        }
+    },
+    "CHIT CHAT Cafe": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【CHIT CHAT Cafe】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "四川龍府": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【四川龍府】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【四川龍府】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【四川龍府】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "老爺小花園": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【老爺小花園】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【老爺小花園】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【老爺小花園】統一設定",
+            "confidence": 1
+        }
+    },
+    "大河牧場 漢堡排專売-": {
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【大河牧場 漢堡排專売-】統一設定",
+            "confidence": 1
+        }
+    },
+    "小紐約披薩 敦南店 LNYPIZZA Dunnan little New York pizzeria": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【小紐約披薩 敦南店 LNYPIZZA Dunnan little New York pizzeria】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【小紐約披薩 敦南店 LNYPIZZA Dunnan little New York pizzeria】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【小紐約披薩 敦南店 LNYPIZZA Dunnan little New York pizzeria】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【小紐約披薩 敦南店 LNYPIZZA Dunnan little New York pizzeria】統一設定",
+            "confidence": 0.9
+        },
+        "has_diaper_table": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【小紐約披薩 敦南店 LNYPIZZA Dunnan little New York pizzeria】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "澄食小人屋2《江南店》內湖美食 內湖restaurant 內湖日本料理 內湖生魚片 內湖日本料理 內湖壽司": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【澄食小人屋2《江南店》內湖美食 內湖restaurant 內湖日本料理 內湖生魚片 內湖日本料理 內湖壽司】統一設定",
+            "confidence": 0.9
+        },
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【澄食小人屋2《江南店》內湖美食 內湖restaurant 內湖日本料理 內湖生魚片 內湖日本料理 內湖壽司】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【澄食小人屋2《江南店》內湖美食 內湖restaurant 內湖日本料理 內湖生魚片 內湖日本料理 內湖壽司】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【澄食小人屋2《江南店》內湖美食 內湖restaurant 內湖日本料理 內湖生魚片 內湖日本料理 內湖壽司】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【澄食小人屋2《江南店》內湖美食 內湖restaurant 內湖日本料理 內湖生魚片 內湖日本料理 內湖壽司】統一設定",
+            "confidence": 0.9
+        },
+        "has_diaper_table": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【澄食小人屋2《江南店》內湖美食 內湖restaurant 內湖日本料理 內湖生魚片 內湖日本料理 內湖壽司】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "東京家庭義大利麵 士林": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【東京家庭義大利麵 士林】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "樂雅樂餐廳": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【樂雅樂餐廳】統一設定",
+            "confidence": 1
+        },
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【樂雅樂餐廳】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【樂雅樂餐廳】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【樂雅樂餐廳】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【樂雅樂餐廳】統一設定",
+            "confidence": 1
+        }
+    },
+    "Miacucina": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Miacucina】統一設定",
+            "confidence": 1
+        },
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Miacucina】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Miacucina】統一設定",
+            "confidence": 1
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Miacucina】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Miacucina】統一設定",
+            "confidence": 1
+        }
+    },
+    "Lazy Pasta": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Lazy Pasta】統一設定",
+            "confidence": 1
+        },
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Lazy Pasta】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Lazy Pasta】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Lazy Pasta】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Lazy Pasta】統一設定",
+            "confidence": 1
+        }
+    },
+    "Luguo Cafe": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Luguo Cafe】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Luguo Cafe】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Luguo Cafe】統一設定",
+            "confidence": 1
+        }
+    },
+    "綻.食": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【綻.食】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【綻.食】統一設定",
+            "confidence": 1
+        }
+    },
+    "咖啡實驗室": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【咖啡實驗室】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【咖啡實驗室】統一設定",
+            "confidence": 1
+        }
+    },
+    "涮乃葉": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【涮乃葉】統一設定",
+            "confidence": 1
+        },
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【涮乃葉】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【涮乃葉】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【涮乃葉】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【涮乃葉】統一設定",
+            "confidence": 1
+        }
+    },
+    "鳥玩義兒 義式蔬食料理": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【鳥玩義兒 義式蔬食料理】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【鳥玩義兒 義式蔬食料理】統一設定",
+            "confidence": 1
+        },
+        "has_play_area": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【鳥玩義兒 義式蔬食料理】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【鳥玩義兒 義式蔬食料理】統一設定",
+            "confidence": 1
+        }
+    },
+    "CURISTA COFFEE奎士咖啡": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【CURISTA COFFEE奎士咖啡】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "JONAJA就那家早午餐": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【JONAJA就那家早午餐】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【JONAJA就那家早午餐】統一設定",
+            "confidence": 1
+        }
+    },
+    "皿皿家料理": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【皿皿家料理】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【皿皿家料理】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "荳內早食": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【荳內早食】統一設定",
+            "confidence": 1
+        }
+    },
+    "BRUN不然-": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【BRUN不然-】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【BRUN不然-】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【BRUN不然-】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【BRUN不然-】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【BRUN不然-】統一設定",
+            "confidence": 1
+        }
+    },
+    "gonnaPLUS地中海健康旗艦餐廳": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【gonnaPLUS地中海健康旗艦餐廳】統一設定",
+            "confidence": 1
+        },
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【gonnaPLUS地中海健康旗艦餐廳】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【gonnaPLUS地中海健康旗艦餐廳】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【gonnaPLUS地中海健康旗艦餐廳】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【gonnaPLUS地中海健康旗艦餐廳】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "BirDining蔦飼料餐食料理": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【BirDining蔦飼料餐食料理】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【BirDining蔦飼料餐食料理】統一設定",
+            "confidence": 1
+        }
+    },
+    "Twin Brothers Coffee": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Twin Brothers Coffee】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "上鈿咖啡": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【上鈿咖啡】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "糧田": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【糧田】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "麥味登": {
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【麥味登】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【麥味登】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【麥味登】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【麥味登】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "漢堡王 Burger King": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【漢堡王 Burger King】統一設定",
+            "confidence": 1
+        },
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【漢堡王 Burger King】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【漢堡王 Burger King】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【漢堡王 Burger King】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【漢堡王 Burger King】統一設定",
+            "confidence": 1
+        }
+    },
+    "山本漢堡排": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【山本漢堡排】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【山本漢堡排】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【山本漢堡排】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "萬麗軒": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【萬麗軒】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【萬麗軒】統一設定",
+            "confidence": 1
+        }
+    },
+    "凱撒披薩 Caesar's pizza": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【凱撒披薩 Caesar's pizza】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【凱撒披薩 Caesar's pizza】統一設定",
+            "confidence": 1
+        }
+    },
+    "Skylark洋食‧芳鄰": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Skylark洋食‧芳鄰】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Skylark洋食‧芳鄰】統一設定",
+            "confidence": 1
+        }
+    },
+    "定食8": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【定食8】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【定食8】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【定食8】統一設定",
+            "confidence": 1
+        }
+    },
+    "吃我早午餐": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【吃我早午餐】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "汆食": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【汆食】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "SHAIOOO CAFE": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【SHAIOOO CAFE】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "蓋子普拉斯小餐館-": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【蓋子普拉斯小餐館-】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "Mövenpick Café-": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Mövenpick Café-】統一設定",
+            "confidence": 1
+        },
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Mövenpick Café-】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Mövenpick Café-】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Mövenpick Café-】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Mövenpick Café-】統一設定",
+            "confidence": 1
+        }
+    },
+    "晨寶早午餐店 ， 晨寶小吃店 ，晨寶": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【晨寶早午餐店 ， 晨寶小吃店 ，晨寶】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "Atlas Brunch & Pasta 亞斯義大利麵": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Atlas Brunch & Pasta 亞斯義大利麵】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Atlas Brunch & Pasta 亞斯義大利麵】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "欣晨堡早午餐": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【欣晨堡早午餐】統一設定",
+            "confidence": 1
+        }
+    },
+    "康泰小館泰式料理": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【康泰小館泰式料理】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "咖啡異象 Coffee Vision": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【咖啡異象 Coffee Vision】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "La Ohana": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【La Ohana】統一設定",
+            "confidence": 0.9
+        },
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【La Ohana】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【La Ohana】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【La Ohana】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【La Ohana】統一設定",
+            "confidence": 0.9
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【La Ohana】統一設定",
+            "confidence": 1
+        }
+    },
+    "永和豆漿": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【永和豆漿】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【永和豆漿】統一設定",
+            "confidence": 1
+        }
+    },
+    "Meat Up 覓晌": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Meat Up 覓晌】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Meat Up 覓晌】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Meat Up 覓晌】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Meat Up 覓晌】統一設定",
+            "confidence": 0.9
+        },
+        "has_diaper_table": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Meat Up 覓晌】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "Juicy Bun Burger 就是棒 美式餐廳": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Juicy Bun Burger 就是棒 美式餐廳】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Juicy Bun Burger 就是棒 美式餐廳】統一設定",
+            "confidence": 1
+        }
+    },
+    "哈妮早樂子咖啡早午餐": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【哈妮早樂子咖啡早午餐】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【哈妮早樂子咖啡早午餐】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【哈妮早樂子咖啡早午餐】統一設定",
+            "confidence": 1
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【哈妮早樂子咖啡早午餐】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【哈妮早樂子咖啡早午餐】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "美味堡早午餐": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【美味堡早午餐】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "花嶼輕食館Flower Island Brunch-台北士林站輕食早午餐": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【花嶼輕食館Flower Island Brunch-台北士林站輕食早午餐】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【花嶼輕食館Flower Island Brunch-台北士林站輕食早午餐】統一設定",
+            "confidence": 1
+        },
+        "has_play_area": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【花嶼輕食館Flower Island Brunch-台北士林站輕食早午餐】統一設定",
+            "confidence": 0.9
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【花嶼輕食館Flower Island Brunch-台北士林站輕食早午餐】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【花嶼輕食館Flower Island Brunch-台北士林站輕食早午餐】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "堤諾義大利比薩 Tino's Pizza": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【堤諾義大利比薩 Tino's Pizza】統一設定",
+            "confidence": 1
+        },
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【堤諾義大利比薩 Tino's Pizza】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【堤諾義大利比薩 Tino's Pizza】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【堤諾義大利比薩 Tino's Pizza】統一設定",
+            "confidence": 1
+        }
+    },
+    "樂芙味蔬食料理": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【樂芙味蔬食料理】統一設定",
+            "confidence": 0.9
+        },
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【樂芙味蔬食料理】統一設定",
+            "confidence": 0.9
+        },
+        "has_play_area": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【樂芙味蔬食料理】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "鱷吐司 A Toast": {
+        " child_seat available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【鱷吐司 A Toast】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【鱷吐司 A Toast】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【鱷吐司 A Toast】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【鱷吐司 A Toast】統一設定",
+            "confidence": 0.9
+        },
+        "has_diaper_table": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【鱷吐司 A Toast】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "1996 COFFEE": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【1996 COFFEE】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【1996 COFFEE】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【1996 COFFEE】統一設定",
+            "confidence": 1
+        }
+    },
+    "鼎豐FOOD": {
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【鼎豐FOOD】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【鼎豐FOOD】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【鼎豐FOOD】統一設定",
+            "confidence": 1
+        }
+    },
+    "森優咖啡 Tribu Cafe": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【森優咖啡 Tribu Cafe】統一設定",
+            "confidence": 1
+        }
+    },
+    "Moi Cafe": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Moi Cafe】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "小木偶Brunch": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【小木偶Brunch】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "Starbucks星巴克": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Starbucks星巴克】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Starbucks星巴克】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Starbucks星巴克】統一設定",
+            "confidence": 1
+        }
+    },
+    "田中園": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【田中園】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【田中園】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【田中園】統一設定",
+            "confidence": 1
+        }
+    },
+    "BRO Coffee & Pizza Bar - 寵物友善": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【BRO Coffee & Pizza Bar - 寵物友善】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "Tierra Casa Restaurant-台北內湖西餐廳 在地食材創意料理 價格訂位推薦 義式法式料理 2026人氣必吃美食 精品茶葉咖啡 聚餐親子餐廳 PTT Dcard": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Tierra Casa Restaurant-台北內湖西餐廳 在地食材創意料理 價格訂位推薦 義式法式料理 2026人氣必吃美食 精品茶葉咖啡 聚餐親子餐廳 PTT Dcard】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Tierra Casa Restaurant-台北內湖西餐廳 在地食材創意料理 價格訂位推薦 義式法式料理 2026人氣必吃美食 精品茶葉咖啡 聚餐親子餐廳 PTT Dcard】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Tierra Casa Restaurant-台北內湖西餐廳 在地食材創意料理 價格訂位推薦 義式法式料理 2026人氣必吃美食 精品茶葉咖啡 聚餐親子餐廳 PTT Dcard】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "ConfitRémi 黑米": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【ConfitRémi 黑米】統一設定",
+            "confidence": 1
+        },
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【ConfitRémi 黑米】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【ConfitRémi 黑米】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【ConfitRémi 黑米】統一設定",
+            "confidence": 1
+        }
+    },
+    "CASA咖薩 咖啡披薩手作坊": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【CASA咖薩 咖啡披薩手作坊】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "早。": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【早。】統一設定",
+            "confidence": 1
+        }
+    },
+    "享半天早食&早茶": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【享半天早食&早茶】統一設定",
+            "confidence": 1
+        }
+    },
+    "葡萄園": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【葡萄園】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "HANNA Pasta Café パスタ カフェ": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【HANNA Pasta Café パスタ カフェ】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【HANNA Pasta Café パスタ カフェ】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "福來早餐": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【福來早餐】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "貳號基地Cafe": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【貳號基地Cafe】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "古德默尼早午餐「台北店」": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【古德默尼早午餐「台北店」】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【古德默尼早午餐「台北店」】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "及食早午餐": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【及食早午餐】統一設定",
+            "confidence": 1
+        }
+    },
+    "紅橘子精緻早午餐": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【紅橘子精緻早午餐】統一設定",
+            "confidence": 1
+        }
+    },
+    "N+n 喫早餐": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【N+n 喫早餐】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【N+n 喫早餐】統一設定",
+            "confidence": 1
+        }
+    },
+    "DOUBLE SINGLE 2": {
+        " child_seat available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【DOUBLE SINGLE 2】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【DOUBLE SINGLE 2】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【DOUBLE SINGLE 2】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【DOUBLE SINGLE 2】統一設定",
+            "confidence": 0.9
+        },
+        "has_diaper_table": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【DOUBLE SINGLE 2】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "丰禾 台味風格料理": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【丰禾 台味風格料理】統一設定",
+            "confidence": 1
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【丰禾 台味風格料理】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "INPARADISE 饗饗": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【INPARADISE 饗饗】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【INPARADISE 饗饗】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【INPARADISE 饗饗】統一設定",
+            "confidence": 0.9
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【INPARADISE 饗饗】統一設定",
+            "confidence": 1
+        }
+    },
+    "默爾 pasta pizza": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【默爾 pasta pizza】統一設定",
+            "confidence": 1
+        },
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【默爾 pasta pizza】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【默爾 pasta pizza】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【默爾 pasta pizza】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【默爾 pasta pizza】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【默爾 pasta pizza】統一設定",
+            "confidence": 1
+        }
+    },
+    "IKEA 瑞典餐廳 台北城市店 小巨蛋": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【IKEA 瑞典餐廳 台北城市店 小巨蛋】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【IKEA 瑞典餐廳 台北城市店 小巨蛋】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【IKEA 瑞典餐廳 台北城市店 小巨蛋】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【IKEA 瑞典餐廳 台北城市店 小巨蛋】統一設定",
+            "confidence": 1
+        }
+    },
+    "清晨吐絲": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【清晨吐絲】統一設定",
+            "confidence": 1
+        }
+    },
+    "麥味登北市八德金控店-中山平價早午餐": {
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【麥味登北市八德金控店-中山平價早午餐】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【麥味登北市八德金控店-中山平價早午餐】統一設定",
+            "confidence": 0.9
+        },
+        "has_diaper_table": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【麥味登北市八德金控店-中山平價早午餐】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "BACKMOUNT.後山咖啡": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【BACKMOUNT.後山咖啡】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【BACKMOUNT.後山咖啡】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【BACKMOUNT.後山咖啡】統一設定",
+            "confidence": 1
+        },
+        "has_play_area": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【BACKMOUNT.後山咖啡】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【BACKMOUNT.後山咖啡】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "咖啡俱樂部 COFFEE CLUB": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【咖啡俱樂部 COFFEE CLUB】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "二會咖啡廳": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【二會咖啡廳】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "Mövenpick Café -": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Mövenpick Café -】統一設定",
+            "confidence": 1
+        },
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Mövenpick Café -】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Mövenpick Café -】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Mövenpick Café -】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Mövenpick Café -】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Mövenpick Café -】統一設定",
+            "confidence": 1
+        }
+    },
+    "Shaunifay Diner": {
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Shaunifay Diner】統一設定",
+            "confidence": 1
+        }
+    },
+    "客美多咖啡 Komeda‘s Coffee -": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【客美多咖啡 Komeda‘s Coffee -】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【客美多咖啡 Komeda‘s Coffee -】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【客美多咖啡 Komeda‘s Coffee -】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【客美多咖啡 Komeda‘s Coffee -】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "渣男TaiwanBistro 木柵二渣": {
+        " child_seat available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【渣男TaiwanBistro 木柵二渣】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【渣男TaiwanBistro 木柵二渣】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【渣男TaiwanBistro 木柵二渣】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【渣男TaiwanBistro 木柵二渣】統一設定",
+            "confidence": 0.9
+        },
+        "has_diaper_table": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【渣男TaiwanBistro 木柵二渣】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "星馬快餐 Sin Ma Express 海南雞飯 星馬料理專賣店": {
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【星馬快餐 Sin Ma Express 海南雞飯 星馬料理專賣店】統一設定",
+            "confidence": 1
+        }
+    },
+    "蕼蒔荳留": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【蕼蒔荳留】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "Housebistro好適廚坊": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Housebistro好適廚坊】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Housebistro好適廚坊】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Housebistro好適廚坊】統一設定",
+            "confidence": 1
+        }
+    },
+    "北投小魔女咖啡早午餐義大利麵": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【北投小魔女咖啡早午餐義大利麵】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "村民食堂廚窗港點": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【村民食堂廚窗港點】統一設定",
+            "confidence": 1
+        }
+    },
+    "喬叔廚房 JOE’S Kitchen Taipei": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【喬叔廚房 JOE’S Kitchen Taipei】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【喬叔廚房 JOE’S Kitchen Taipei】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【喬叔廚房 JOE’S Kitchen Taipei】統一設定",
+            "confidence": 1
+        }
+    },
+    "Le Flam 樂芙坊": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Le Flam 樂芙坊】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "夏綠沁私房義大利麵燉飯": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【夏綠沁私房義大利麵燉飯】統一設定",
+            "confidence": 1
+        }
+    },
+    "校園活力早午餐": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【校園活力早午餐】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "Boulevard Cafe 林蔭美式餐酒食": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Boulevard Cafe 林蔭美式餐酒食】統一設定",
+            "confidence": 1
+        }
+    },
+    "Creative Pasta 創義麵": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Creative Pasta 創義麵】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Creative Pasta 創義麵】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Creative Pasta 創義麵】統一設定",
+            "confidence": 1
+        }
+    },
+    "HSQ COFFEE": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【HSQ COFFEE】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "UNI Cafe": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【UNI Cafe】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "義家人_六張犁": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【義家人_六張犁】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【義家人_六張犁】統一設定",
+            "confidence": 1
+        }
+    },
+    "Coffee sind": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Coffee sind】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "義大利餐廳 TRASTEVERE 大安區 忠孝復興站 美食": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【義大利餐廳 TRASTEVERE 大安區 忠孝復興站 美食】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【義大利餐廳 TRASTEVERE 大安區 忠孝復興站 美食】統一設定",
+            "confidence": 1
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【義大利餐廳 TRASTEVERE 大安區 忠孝復興站 美食】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "漫時生活": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【漫時生活】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【漫時生活】統一設定",
+            "confidence": 1
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【漫時生活】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "十得私廚-台菜料理": {
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【十得私廚-台菜料理】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "光一肆號": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【光一肆號】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【光一肆號】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【光一肆號】統一設定",
+            "confidence": 1
+        }
+    },
+    "KONZY KAVA": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【KONZY KAVA】統一設定",
+            "confidence": 0.9
+        },
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【KONZY KAVA】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【KONZY KAVA】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "豐 FOOD 海陸百匯": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【豐 FOOD 海陸百匯】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【豐 FOOD 海陸百匯】統一設定",
+            "confidence": 1
+        }
+    },
+    "懶的鳥小姐": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【懶的鳥小姐】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【懶的鳥小姐】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【懶的鳥小姐】統一設定",
+            "confidence": 1
+        }
+    },
+    "貓熊餐廳 Panda Cafe": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【貓熊餐廳 Panda Cafe】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【貓熊餐廳 Panda Cafe】統一設定",
+            "confidence": 1
+        },
+        "has_play_area": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【貓熊餐廳 Panda Cafe】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【貓熊餐廳 Panda Cafe】統一設定",
+            "confidence": 1
+        }
+    },
+    "春韭": {
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【春韭】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "TG BISTRO": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【TG BISTRO】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【TG BISTRO】統一設定",
+            "confidence": 1
+        }
+    },
+    "Omnivore": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Omnivore】統一設定",
+            "confidence": 1
+        }
+    },
+    "安好食": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【安好食】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【安好食】統一設定",
+            "confidence": 1
+        }
+    },
+    "找諶 Chen’s Brunch": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【找諶 Chen’s Brunch】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "雙月食品社": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【雙月食品社】統一設定",
+            "confidence": 0.9
+        },
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【雙月食品社】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【雙月食品社】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【雙月食品社】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【雙月食品社】統一設定",
+            "confidence": 0.9
+        },
+        "has_diaper_table": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【雙月食品社】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "Toast Chat": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Toast Chat】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Toast Chat】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "大樹先生的家": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【大樹先生的家】統一設定",
+            "confidence": 1
+        },
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【大樹先生的家】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【大樹先生的家】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【大樹先生的家】統一設定",
+            "confidence": 1
+        },
+        "has_play_area": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【大樹先生的家】統一設定",
+            "confidence": 0.9
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【大樹先生的家】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【大樹先生的家】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【大樹先生的家】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "就是義大利麵屋 ITS PASTA": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【就是義大利麵屋 ITS PASTA】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【就是義大利麵屋 ITS PASTA】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "Banana Blue Coffee": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Banana Blue Coffee】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Banana Blue Coffee】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "覺旅咖啡 Journey Kaffe": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【覺旅咖啡 Journey Kaffe】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【覺旅咖啡 Journey Kaffe】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【覺旅咖啡 Journey Kaffe】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【覺旅咖啡 Journey Kaffe】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【覺旅咖啡 Journey Kaffe】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "Q Burger": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Q Burger】統一設定",
+            "confidence": 1
+        }
+    },
+    "陶板屋": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【陶板屋】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【陶板屋】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【陶板屋】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【陶板屋】統一設定",
+            "confidence": 1
+        }
+    },
+    "早吧 Morning Bar": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【早吧 Morning Bar】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【早吧 Morning Bar】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【早吧 Morning Bar】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【早吧 Morning Bar】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【早吧 Morning Bar】統一設定",
+            "confidence": 1
+        }
+    },
+    "艾萊創意早午餐-創始店I like": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【艾萊創意早午餐-創始店I like】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【艾萊創意早午餐-創始店I like】統一設定",
+            "confidence": 1
+        }
+    },
+    "子木咖啡": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【子木咖啡】統一設定",
+            "confidence": 1
+        },
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【子木咖啡】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【子木咖啡】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【子木咖啡】統一設定",
+            "confidence": 1
+        },
+        "has_play_area": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【子木咖啡】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【子木咖啡】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "海倫鮮土司": {
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【海倫鮮土司】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "ivette Da An": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【ivette Da An】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【ivette Da An】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "壹號出口早午餐Brunch & cafe": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【壹號出口早午餐Brunch & cafe】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "渣男 Taiwan Bistro 信義一渣": {
+        " child_seat available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【渣男 Taiwan Bistro 信義一渣】統一設定",
+            "confidence": 0.9
+        },
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【渣男 Taiwan Bistro 信義一渣】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【渣男 Taiwan Bistro 信義一渣】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【渣男 Taiwan Bistro 信義一渣】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【渣男 Taiwan Bistro 信義一渣】統一設定",
+            "confidence": 0.9
+        },
+        "has_diaper_table": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【渣男 Taiwan Bistro 信義一渣】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "澄食小人屋《湖光店》": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【澄食小人屋《湖光店》】統一設定",
+            "confidence": 0.9
+        },
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【澄食小人屋《湖光店》】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【澄食小人屋《湖光店》】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【澄食小人屋《湖光店》】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【澄食小人屋《湖光店》】統一設定",
+            "confidence": 0.9
+        },
+        "has_diaper_table": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【澄食小人屋《湖光店》】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "麥味登 內湖BOSS店": {
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【麥味登 內湖BOSS店】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【麥味登 內湖BOSS店】統一設定",
+            "confidence": 0.9
+        },
+        "has_diaper_table": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【麥味登 內湖BOSS店】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "SHANN SHANN 小香": {
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【SHANN SHANN 小香】統一設定",
+            "confidence": 1
+        }
+    },
+    "一屋 x COUPLE²": {
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【一屋 x COUPLE²】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "大稻埕貴賓 寵物友善餐廳 standard poodle coffee": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【大稻埕貴賓 寵物友善餐廳 standard poodle coffee】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "孝居酒屋🏮": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【孝居酒屋🏮】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【孝居酒屋🏮】統一設定",
+            "confidence": 0.9
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【孝居酒屋🏮】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "覺旅咖啡": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【覺旅咖啡】統一設定",
+            "confidence": 1
+        },
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【覺旅咖啡】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【覺旅咖啡】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【覺旅咖啡】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【覺旅咖啡】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【覺旅咖啡】統一設定",
+            "confidence": 1
+        }
+    },
+    "薩莉亞": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【薩莉亞】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【薩莉亞】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【薩莉亞】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【薩莉亞】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "Ariel lee 章邖．Cafe": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Ariel lee 章邖．Cafe】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "Lazzy Cafe 寵物餐廳 Pet Friendly Restaurant": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Lazzy Cafe 寵物餐廳 Pet Friendly Restaurant】統一設定",
+            "confidence": 0.9
+        },
+        "has_play_area": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Lazzy Cafe 寵物餐廳 Pet Friendly Restaurant】統一設定",
+            "confidence": 1
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Lazzy Cafe 寵物餐廳 Pet Friendly Restaurant】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "Fika Fika Cafe A13": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Fika Fika Cafe A13】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "Ctrl+F Brunch & Cafe": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Ctrl+F Brunch & Cafe】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Ctrl+F Brunch & Cafe】統一設定",
+            "confidence": 1
+        }
+    },
+    "草泥Cafe": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【草泥Cafe】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "義蘿蒂義大利麵": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【義蘿蒂義大利麵】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "YABI KITCHEN DREAM": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【YABI KITCHEN DREAM】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【YABI KITCHEN DREAM】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【YABI KITCHEN DREAM】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "特有種商行電影咖啡館 Realguts cafe": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【特有種商行電影咖啡館 Realguts cafe】統一設定",
+            "confidence": 0.9
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【特有種商行電影咖啡館 Realguts cafe】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "咖央早午餐": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【咖央早午餐】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "禾竹私房料理": {
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【禾竹私房料理】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "鴻屋蛋包飯": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【鴻屋蛋包飯】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【鴻屋蛋包飯】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【鴻屋蛋包飯】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【鴻屋蛋包飯】統一設定",
+            "confidence": 1
+        }
+    },
+    "Second Floor": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Second Floor】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Second Floor】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Second Floor】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Second Floor】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Second Floor】統一設定",
+            "confidence": 1
+        }
+    },
+    "SALT&STONE 台北101餐廳": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【SALT&STONE 台北101餐廳】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【SALT&STONE 台北101餐廳】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【SALT&STONE 台北101餐廳】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【SALT&STONE 台北101餐廳】統一設定",
+            "confidence": 0.9
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【SALT&STONE 台北101餐廳】統一設定",
+            "confidence": 1
+        }
+    },
+    "粵亮廣式料理": {
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【粵亮廣式料理】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "四海一家": {
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【四海一家】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "UNCLE RAY 串燒·牛飲·咖喱 台北大安": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【UNCLE RAY 串燒·牛飲·咖喱 台北大安】統一設定",
+            "confidence": 1
+        }
+    },
+    "Timama kitchen": {
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Timama kitchen】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Timama kitchen】統一設定",
+            "confidence": 1
+        }
+    },
+    "歡樂便所主題餐廳": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【歡樂便所主題餐廳】統一設定",
+            "confidence": 1
+        },
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【歡樂便所主題餐廳】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【歡樂便所主題餐廳】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【歡樂便所主題餐廳】統一設定",
+            "confidence": 1
+        },
+        "has_play_area": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【歡樂便所主題餐廳】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【歡樂便所主題餐廳】統一設定",
+            "confidence": 0.9
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【歡樂便所主題餐廳】統一設定",
+            "confidence": 1
+        }
+    },
+    "MIXTIO 秘地餐廳": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【MIXTIO 秘地餐廳】統一設定",
+            "confidence": 1
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【MIXTIO 秘地餐廳】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "媽咪廚房Mami's Kitchen": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【媽咪廚房Mami's Kitchen】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【媽咪廚房Mami's Kitchen】統一設定",
+            "confidence": 1
+        }
+    },
+    "BREW & KITCHEN": {
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【BREW & KITCHEN】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "Aunt": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Aunt】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "森嶼 Morisland ⛰︎☼": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【森嶼 Morisland ⛰︎☼】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "義沐 Eat MU": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【義沐 Eat MU】統一設定",
+            "confidence": 1
+        }
+    },
+    "Cross": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Cross】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "他。植物咖啡 He Coffee.": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【他。植物咖啡 He Coffee.】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "九月茶餐廳": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【九月茶餐廳】統一設定",
+            "confidence": 1
+        }
+    },
+    "上林咖啡": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【上林咖啡】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "姥姥酸菜魚": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【姥姥酸菜魚】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【姥姥酸菜魚】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【姥姥酸菜魚】統一設定",
+            "confidence": 0.9
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【姥姥酸菜魚】統一設定",
+            "confidence": 1
+        }
+    },
+    "想奌 想點 手作咖啡": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【想奌 想點 手作咖啡】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "北投文物館-怡然居餐廳": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【北投文物館-怡然居餐廳】統一設定",
+            "confidence": 1
+        }
+    },
+    "樂麵屋": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【樂麵屋】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【樂麵屋】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【樂麵屋】統一設定",
+            "confidence": 1
+        }
+    },
+    "咖啡物語": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【咖啡物語】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "早點醒": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【早點醒】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【早點醒】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "波赫士領地精品咖啡館 明水店 提拉米蘇 千層蛋糕": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【波赫士領地精品咖啡館 明水店 提拉米蘇 千層蛋糕】統一設定",
+            "confidence": 1
+        },
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【波赫士領地精品咖啡館 明水店 提拉米蘇 千層蛋糕】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【波赫士領地精品咖啡館 明水店 提拉米蘇 千層蛋糕】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【波赫士領地精品咖啡館 明水店 提拉米蘇 千層蛋糕】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【波赫士領地精品咖啡館 明水店 提拉米蘇 千層蛋糕】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【波赫士領地精品咖啡館 明水店 提拉米蘇 千層蛋糕】統一設定",
+            "confidence": 1
+        }
+    },
+    "少帥禪園-台北北投張學良幽禁舊居": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【少帥禪園-台北北投張學良幽禁舊居】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "7-ELEVEN": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【7-ELEVEN】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "三代魚翅羹": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【三代魚翅羹】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【三代魚翅羹】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "北投飢廠": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【北投飢廠】統一設定",
+            "confidence": 1
+        }
+    },
+    "小船故事館Ｉ桌遊咖啡廳": {
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【小船故事館Ｉ桌遊咖啡廳】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "白菜小姐義式坊": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【白菜小姐義式坊】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【白菜小姐義式坊】統一設定",
+            "confidence": 1
+        }
+    },
+    "阿馬非餐廳": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【阿馬非餐廳】統一設定",
+            "confidence": 1
+        }
+    },
+    "南村": {
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【南村】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "I'm": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【I'm】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【I'm】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【I'm】統一設定",
+            "confidence": 1
+        }
+    },
+    "渣男": {
+        " child_seat available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【渣男】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【渣男】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【渣男】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【渣男】統一設定",
+            "confidence": 0.9
+        },
+        "has_diaper_table": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【渣男】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "WilsonPark 威爾森公園": {
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【WilsonPark 威爾森公園】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【WilsonPark 威爾森公園】統一設定",
+            "confidence": 0.9
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【WilsonPark 威爾森公園】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "BELLINI Pasta Pasta": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【BELLINI Pasta Pasta】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【BELLINI Pasta Pasta】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【BELLINI Pasta Pasta】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【BELLINI Pasta Pasta】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【BELLINI Pasta Pasta】統一設定",
+            "confidence": 1
+        }
+    },
+    "YAYOI彌生軒": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【YAYOI彌生軒】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【YAYOI彌生軒】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【YAYOI彌生軒】統一設定",
+            "confidence": 1
+        },
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【YAYOI彌生軒】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【YAYOI彌生軒】統一設定",
+            "confidence": 1
+        }
+    },
+    "30 BRUNCH": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【30 BRUNCH】統一設定",
+            "confidence": 1
+        }
+    },
+    "喵喵有約-北投簡餐咖啡廳": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【喵喵有約-北投簡餐咖啡廳】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "小王煮瓜": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【小王煮瓜】統一設定",
+            "confidence": 1
+        }
+    },
+    "Some Some": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Some Some】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "Pasta à Pepe 佩佩奶奶大份量義大利麵": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Pasta à Pepe 佩佩奶奶大份量義大利麵】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Pasta à Pepe 佩佩奶奶大份量義大利麵】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Pasta à Pepe 佩佩奶奶大份量義大利麵】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Pasta à Pepe 佩佩奶奶大份量義大利麵】統一設定",
+            "confidence": 0.9
+        },
+        "has_diaper_table": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Pasta à Pepe 佩佩奶奶大份量義大利麵】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "湛盧咖啡": {
+        " child_seat available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【湛盧咖啡】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【湛盧咖啡】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【湛盧咖啡】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【湛盧咖啡】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【湛盧咖啡】統一設定",
+            "confidence": 1
+        }
+    },
+    "士林廚房": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【士林廚房】統一設定",
+            "confidence": 1
+        }
+    },
+    "上上咖啡 ShangShang Coffee": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【上上咖啡 ShangShang Coffee】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【上上咖啡 ShangShang Coffee】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "早食暮想 精緻早午餐": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【早食暮想 精緻早午餐】統一設定",
+            "confidence": 1
+        }
+    },
+    "肉次方 燒肉放題": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【肉次方 燒肉放題】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "吸手吃早午餐": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【吸手吃早午餐】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【吸手吃早午餐】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【吸手吃早午餐】統一設定",
+            "confidence": 1
+        }
+    },
+    "道樂屋台": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【道樂屋台】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "Something Cafe & Bistro": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Something Cafe & Bistro】統一設定",
+            "confidence": 0.9
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Something Cafe & Bistro】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "咖啡學人 The Cafeist": {
+        " child_seat available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【咖啡學人 The Cafeist】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【咖啡學人 The Cafeist】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【咖啡學人 The Cafeist】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【咖啡學人 The Cafeist】統一設定",
+            "confidence": 0.9
+        },
+        "has_diaper_table": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【咖啡學人 The Cafeist】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "橋下披薩 Under the Bridge": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【橋下披薩 Under the Bridge】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "萬芳冰室 南京店": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【萬芳冰室 南京店】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "巧果子": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【巧果子】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【巧果子】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【巧果子】統一設定",
+            "confidence": 1
+        }
+    },
+    "哈姆選物 Hamu Café": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【哈姆選物 Hamu Café】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【哈姆選物 Hamu Café】統一設定",
+            "confidence": 0.9
+        },
+        "has_play_area": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【哈姆選物 Hamu Café】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "心潮飯店": {
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【心潮飯店】統一設定",
+            "confidence": 1
+        }
+    },
+    "武侍酒 日式居酒屋": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【武侍酒 日式居酒屋】統一設定",
+            "confidence": 1
+        }
+    },
+    "武蔵野森珈琲Diner 遠東GARDEN": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【武蔵野森珈琲Diner 遠東GARDEN】統一設定",
+            "confidence": 0.9
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【武蔵野森珈琲Diner 遠東GARDEN】統一設定",
+            "confidence": 1
+        }
+    },
+    "Grab a Bite 幸福提食": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Grab a Bite 幸福提食】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Grab a Bite 幸福提食】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Grab a Bite 幸福提食】統一設定",
+            "confidence": 1
+        }
+    },
+    "Serene Day Cafe )": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Serene Day Cafe )】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "EJ-Enjoy Life Brunch & Cafe": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【EJ-Enjoy Life Brunch & Cafe】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【EJ-Enjoy Life Brunch & Cafe】統一設定",
+            "confidence": 1
+        }
+    },
+    "時時香": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【時時香】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【時時香】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【時時香】統一設定",
+            "confidence": 0.9
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【時時香】統一設定",
+            "confidence": 1
+        }
+    },
+    "波波草Brunch": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【波波草Brunch】統一設定",
+            "confidence": 1
+        }
+    },
+    "皁咖啡": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【皁咖啡】統一設定",
+            "confidence": 0.9
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【皁咖啡】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "皇城老媽": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【皇城老媽】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【皇城老媽】統一設定",
+            "confidence": 0.9
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【皇城老媽】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "初二咖啡": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【初二咖啡】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "CHALET V": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【CHALET V】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【CHALET V】統一設定",
+            "confidence": 1
+        }
+    },
+    "LOST and Found": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【LOST and Found】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【LOST and Found】統一設定",
+            "confidence": 1
+        }
+    },
+    "曜日.早午餐": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【曜日.早午餐】統一設定",
+            "confidence": 0.9
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【曜日.早午餐】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "御神烹-原香日式私廚": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【御神烹-原香日式私廚】統一設定",
+            "confidence": 1
+        }
+    },
+    "饗食天堂": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【饗食天堂】統一設定",
+            "confidence": 1
+        },
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【饗食天堂】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【饗食天堂】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【饗食天堂】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【饗食天堂】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【饗食天堂】統一設定",
+            "confidence": 1
+        }
+    },
+    "三味食堂": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【三味食堂】統一設定",
+            "confidence": 1
+        }
+    },
+    "池先生Kopitiam": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【池先生Kopitiam】統一設定",
+            "confidence": 1
+        }
+    },
+    "台北喜來登大飯店-請客樓": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【台北喜來登大飯店-請客樓】統一設定",
+            "confidence": 1
+        }
+    },
+    "The House Taipei 屋內": {
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【The House Taipei 屋內】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "蘇杭餐廳": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【蘇杭餐廳】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【蘇杭餐廳】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【蘇杭餐廳】統一設定",
+            "confidence": 0.9
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【蘇杭餐廳】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【蘇杭餐廳】統一設定",
+            "confidence": 0.9
+        },
+        "has_diaper_table": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【蘇杭餐廳】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "呀咪食堂": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【呀咪食堂】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【呀咪食堂】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【呀咪食堂】統一設定",
+            "confidence": 1
+        }
+    },
+    "11PASTA Trattoria": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【11PASTA Trattoria】統一設定",
+            "confidence": 1
+        }
+    },
+    "夢鹿咖啡": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【夢鹿咖啡】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "漫漫喫": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【漫漫喫】統一設定",
+            "confidence": 0.9
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【漫漫喫】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "牧山丘": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【牧山丘】統一設定",
+            "confidence": 0.9
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【牧山丘】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "孫立人將軍官邸": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【孫立人將軍官邸】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "安安早午餐 AnAnBrunch": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【安安早午餐 AnAnBrunch】統一設定",
+            "confidence": 1
+        }
+    },
+    "沅緣咖啡簡餐": {
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【沅緣咖啡簡餐】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "UMAMI 金色三麥": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【UMAMI 金色三麥】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【UMAMI 金色三麥】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【UMAMI 金色三麥】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【UMAMI 金色三麥】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【UMAMI 金色三麥】統一設定",
+            "confidence": 1
+        }
+    },
+    "U & me 找咖": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【U & me 找咖】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "背包廚房手工披薩咖啡屋": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【背包廚房手工披薩咖啡屋】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【背包廚房手工披薩咖啡屋】統一設定",
+            "confidence": 1
+        }
+    },
+    "樂子the Diner": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【樂子the Diner】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【樂子the Diner】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【樂子the Diner】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【樂子the Diner】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【樂子the Diner】統一設定",
+            "confidence": 1
+        },
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【樂子the Diner】統一設定",
+            "confidence": 1
+        }
+    },
+    "永宝餐廳": {
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【永宝餐廳】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "拉亞漢堡 北市中華": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【拉亞漢堡 北市中華】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【拉亞漢堡 北市中華】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【拉亞漢堡 北市中華】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【拉亞漢堡 北市中華】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【拉亞漢堡 北市中華】統一設定",
+            "confidence": 1
+        }
+    },
+    "CAFE!N 硬咖啡": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【CAFE!N 硬咖啡】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【CAFE!N 硬咖啡】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "麥當勞-台北動物園三餐廳": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【麥當勞-台北動物園三餐廳】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【麥當勞-台北動物園三餐廳】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【麥當勞-台北動物園三餐廳】統一設定",
+            "confidence": 1
+        }
+    },
+    "布納咖啡館": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【布納咖啡館】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【布納咖啡館】統一設定",
+            "confidence": 1
+        },
+        "has_private_room": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【布納咖啡館】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "樂軒松阪亭": {
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【樂軒松阪亭】統一設定",
+            "confidence": 1
+        }
+    },
+    "三燔北投 Mihan Beitou": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【三燔北投 Mihan Beitou】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "嵩 台北大安": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【嵩 台北大安】統一設定",
+            "confidence": 1
+        }
+    },
+    "Pastaio 內湖": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Pastaio 內湖】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "LEAVES Cafe 午葉信義": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【LEAVES Cafe 午葉信義】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【LEAVES Cafe 午葉信義】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【LEAVES Cafe 午葉信義】統一設定",
+            "confidence": 1
+        }
+    },
+    "客美多咖啡 -": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【客美多咖啡 -】統一設定",
+            "confidence": 1
+        },
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【客美多咖啡 -】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【客美多咖啡 -】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【客美多咖啡 -】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【客美多咖啡 -】統一設定",
+            "confidence": 1
+        }
+    },
+    "羽樂歐陸創意料理": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【羽樂歐陸創意料理】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【羽樂歐陸創意料理】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "呷本丸早午餐": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【呷本丸早午餐】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【呷本丸早午餐】統一設定",
+            "confidence": 1
+        }
+    },
+    "飯丸屋-": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【飯丸屋-】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "好米亞": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【好米亞】統一設定",
+            "confidence": 1
+        }
+    },
+    "舊帳號": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【舊帳號】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "秘徑小食光": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【秘徑小食光】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【秘徑小食光】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【秘徑小食光】統一設定",
+            "confidence": 1
+        }
+    },
+    "TankQ cafe&": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【TankQ cafe&】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【TankQ cafe&】統一設定",
+            "confidence": 0.9
+        },
+        "has_play_area": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【TankQ cafe&】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【TankQ cafe&】統一設定",
+            "confidence": 1
+        }
+    },
+    "雨人麵包餐館Rain Man Boulangerie Bistro": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【雨人麵包餐館Rain Man Boulangerie Bistro】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "遊霂食光 MuMu Land": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【遊霂食光 MuMu Land】統一設定",
+            "confidence": 1
+        },
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【遊霂食光 MuMu Land】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【遊霂食光 MuMu Land】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【遊霂食光 MuMu Land】統一設定",
+            "confidence": 1
+        },
+        "has_play_area": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【遊霂食光 MuMu Land】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【遊霂食光 MuMu Land】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【遊霂食光 MuMu Land】統一設定",
+            "confidence": 1
+        }
+    },
+    "TG 蔬坊 The Greenery": {
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【TG 蔬坊 The Greenery】統一設定",
+            "confidence": 1
+        }
+    },
+    "阿東師": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【阿東師】統一設定",
+            "confidence": 1
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【阿東師】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "泉源閣 Bando Club": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【泉源閣 Bando Club】統一設定",
+            "confidence": 1
+        }
+    },
+    "翡冷翠義式餐廳": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【翡冷翠義式餐廳】統一設定",
+            "confidence": 1
+        }
+    },
+    "敘日 全日餐廳-": {
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【敘日 全日餐廳-】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "拉亞漢堡 台北錦州": {
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【拉亞漢堡 台北錦州】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【拉亞漢堡 台北錦州】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【拉亞漢堡 台北錦州】統一設定",
+            "confidence": 0.9
+        },
+        "has_diaper_table": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【拉亞漢堡 台北錦州】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "喜悅研磨咖啡": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【喜悅研磨咖啡】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【喜悅研磨咖啡】統一設定",
+            "confidence": 1
+        }
+    },
+    "REALHOMIEBREAKFAST": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【REALHOMIEBREAKFAST】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "轉角吃吐司《早午餐推薦》": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【轉角吃吐司《早午餐推薦》】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "晴天廚房": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【晴天廚房】統一設定",
+            "confidence": 1
+        }
+    },
+    "Bistro O 避世所": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Bistro O 避世所】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Bistro O 避世所】統一設定",
+            "confidence": 1
+        }
+    },
+    "一碗来": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【一碗来】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "大烹小饌": {
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【大烹小饌】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "卡啡那": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【卡啡那】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "豐萃早午餐": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【豐萃早午餐】統一設定",
+            "confidence": 1
+        }
+    },
+    "小紐約披薩 中山店 LNYPIZZA Little New York Pizzeria Zhongshan": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【小紐約披薩 中山店 LNYPIZZA Little New York Pizzeria Zhongshan】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【小紐約披薩 中山店 LNYPIZZA Little New York Pizzeria Zhongshan】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【小紐約披薩 中山店 LNYPIZZA Little New York Pizzeria Zhongshan】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【小紐約披薩 中山店 LNYPIZZA Little New York Pizzeria Zhongshan】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【小紐約披薩 中山店 LNYPIZZA Little New York Pizzeria Zhongshan】統一設定",
+            "confidence": 1
+        }
+    },
+    "Blursday Draft.Cafe 咖啡.酒吧": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Blursday Draft.Cafe 咖啡.酒吧】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "島語": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【島語】統一設定",
+            "confidence": 1
+        },
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【島語】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【島語】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【島語】統一設定",
+            "confidence": 1
+        }
+    },
+    "大湖餐館 內湖": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【大湖餐館 內湖】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【大湖餐館 內湖】統一設定",
+            "confidence": 1
+        }
+    },
+    "URBAN PARADISE": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【URBAN PARADISE】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【URBAN PARADISE】統一設定",
+            "confidence": 1
+        }
+    },
+    "鍋HoMe即享鍋": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【鍋HoMe即享鍋】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "魚玄雞小館 - 母親節訂位及外帶、4": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【魚玄雞小館 - 母親節訂位及外帶、4】統一設定",
+            "confidence": 1
+        }
+    },
+    "閣樓哩": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【閣樓哩】統一設定",
+            "confidence": 1
+        }
+    },
+    "說故事創義麵餐酒館-中山餐酒館": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【說故事創義麵餐酒館-中山餐酒館】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【說故事創義麵餐酒館-中山餐酒館】統一設定",
+            "confidence": 1
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【說故事創義麵餐酒館-中山餐酒館】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【說故事創義麵餐酒館-中山餐酒館】統一設定",
+            "confidence": 1
+        }
+    },
+    "ABOUT H Coffee": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【ABOUT H Coffee】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【ABOUT H Coffee】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "LEAVES Cafe": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【LEAVES Cafe】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【LEAVES Cafe】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【LEAVES Cafe】統一設定",
+            "confidence": 1
+        }
+    },
+    "丹堤咖啡 Dante coffee": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【丹堤咖啡 Dante coffee】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "醬飽早午餐": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【醬飽早午餐】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "ECM 咖啡訪。喝咖啡時間：週六12:00-18:30，平日歡迎使用line訂購咖啡豆": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【ECM 咖啡訪。喝咖啡時間：週六12:00-18:30，平日歡迎使用line訂購咖啡豆】統一設定",
+            "confidence": 0.9
+        },
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【ECM 咖啡訪。喝咖啡時間：週六12:00-18:30，平日歡迎使用line訂購咖啡豆】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "肉醬bar 披薩熱狗堡義大利麵": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【肉醬bar 披薩熱狗堡義大利麵】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【肉醬bar 披薩熱狗堡義大利麵】統一設定",
+            "confidence": 1
+        }
+    },
+    "Cafe La Connection": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Cafe La Connection】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "夏洛特咖啡": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【夏洛特咖啡】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "Oneway CAFE玩味咖啡": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Oneway CAFE玩味咖啡】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "SALT&STONE 南港Lalaport餐廳": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【SALT&STONE 南港Lalaport餐廳】統一設定",
+            "confidence": 1
+        },
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【SALT&STONE 南港Lalaport餐廳】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【SALT&STONE 南港Lalaport餐廳】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【SALT&STONE 南港Lalaport餐廳】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【SALT&STONE 南港Lalaport餐廳】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【SALT&STONE 南港Lalaport餐廳】統一設定",
+            "confidence": 1
+        }
+    },
+    "農人餐桌": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【農人餐桌】統一設定",
+            "confidence": 1
+        },
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【農人餐桌】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【農人餐桌】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【農人餐桌】統一設定",
+            "confidence": 1
+        },
+        "has_play_area": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【農人餐桌】統一設定",
+            "confidence": 0.9
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【農人餐桌】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【農人餐桌】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【農人餐桌】統一設定",
+            "confidence": 1
+        }
+    },
+    "Seeking Café": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Seeking Café】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Seeking Café】統一設定",
+            "confidence": 1
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Seeking Café】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "淘憩時光親子餐廳・義大利麵・手作燉飯・現烤鬆餅": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【淘憩時光親子餐廳・義大利麵・手作燉飯・現烤鬆餅】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【淘憩時光親子餐廳・義大利麵・手作燉飯・現烤鬆餅】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【淘憩時光親子餐廳・義大利麵・手作燉飯・現烤鬆餅】統一設定",
+            "confidence": 1
+        },
+        "has_play_area": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【淘憩時光親子餐廳・義大利麵・手作燉飯・現烤鬆餅】統一設定",
+            "confidence": 0.9
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【淘憩時光親子餐廳・義大利麵・手作燉飯・現烤鬆餅】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【淘憩時光親子餐廳・義大利麵・手作燉飯・現烤鬆餅】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【淘憩時光親子餐廳・義大利麵・手作燉飯・現烤鬆餅】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "大樹義麵坊-": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【大樹義麵坊-】統一設定",
+            "confidence": 0.9
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【大樹義麵坊-】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "弎時咖啡 TH!RTY COFFEE": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【弎時咖啡 TH!RTY COFFEE】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "水豚屋CapybaraHouse": {
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【水豚屋CapybaraHouse】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "故宮晶華": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【故宮晶華】統一設定",
+            "confidence": 0.9
+        },
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【故宮晶華】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【故宮晶華】統一設定",
+            "confidence": 0.9
+        },
+        "has_play_area": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【故宮晶華】統一設定",
+            "confidence": 0.9
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【故宮晶華】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【故宮晶華】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "Le Park": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Le Park】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Le Park】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "Portafiltro Coffee。撥啡": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Portafiltro Coffee。撥啡】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "洋城義大利餐廳-": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【洋城義大利餐廳-】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【洋城義大利餐廳-】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "柚子花花青春客家菜": {
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【柚子花花青春客家菜】統一設定",
+            "confidence": 1
+        }
+    },
+    "We&Me Cafe好好文化創意": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【We&Me Cafe好好文化創意】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【We&Me Cafe好好文化創意】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【We&Me Cafe好好文化創意】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【We&Me Cafe好好文化創意】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "e91義大利麵屋": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【e91義大利麵屋】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【e91義大利麵屋】統一設定",
+            "confidence": 1
+        }
+    },
+    "Moni .curry": {
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Moni .curry】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "又一間商行SPAGHETTI": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【又一間商行SPAGHETTI】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【又一間商行SPAGHETTI】統一設定",
+            "confidence": 1
+        }
+    },
+    "有地咖啡 UDE Café": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【有地咖啡 UDE Café】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【有地咖啡 UDE Café】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "泰集": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【泰集】統一設定",
+            "confidence": 1
+        },
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【泰集】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【泰集】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【泰集】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【泰集】統一設定",
+            "confidence": 1
+        }
+    },
+    "Soshow Bar & Restaurant": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Soshow Bar & Restaurant】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "麥當勞": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【麥當勞】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【麥當勞】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【麥當勞】統一設定",
+            "confidence": 1
+        }
+    },
+    "咖啡瑪榭": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【咖啡瑪榭】統一設定",
+            "confidence": 1
+        },
+        "has_play_area": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【咖啡瑪榭】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "DREAMERS COFFEE ROASTERS": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【DREAMERS COFFEE ROASTERS】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【DREAMERS COFFEE ROASTERS】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【DREAMERS COFFEE ROASTERS】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【DREAMERS COFFEE ROASTERS】統一設定",
+            "confidence": 1
+        }
+    },
+    "東方樓": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【東方樓】統一設定",
+            "confidence": 0.9
+        },
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【東方樓】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【東方樓】統一設定",
+            "confidence": 1
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【東方樓】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【東方樓】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "Changing Cafe": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Changing Cafe】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "米の嶼 沖繩飯糰": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【米の嶼 沖繩飯糰】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【米の嶼 沖繩飯糰】統一設定",
+            "confidence": 1
+        }
+    },
+    "有時Cafe-Between times": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【有時Cafe-Between times】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "Simp簡單早午餐 cafe&brunch": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Simp簡單早午餐 cafe&brunch】統一設定",
+            "confidence": 1
+        }
+    },
+    "客意直火比薩": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【客意直火比薩】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "MA CAFE": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【MA CAFE】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【MA CAFE】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【MA CAFE】統一設定",
+            "confidence": 1
+        }
+    },
+    "泰廚鄉": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【泰廚鄉】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "星期五美式餐廳 信義餐廳": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【星期五美式餐廳 信義餐廳】統一設定",
+            "confidence": 1
+        },
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【星期五美式餐廳 信義餐廳】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【星期五美式餐廳 信義餐廳】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【星期五美式餐廳 信義餐廳】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【星期五美式餐廳 信義餐廳】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【星期五美式餐廳 信義餐廳】統一設定",
+            "confidence": 1
+        }
+    },
+    "🌈維克私廚🏳️‍🌈萬華異國料理推薦": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【🌈維克私廚🏳️‍🌈萬華異國料理推薦】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "欣葉小聚": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【欣葉小聚】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【欣葉小聚】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【欣葉小聚】統一設定",
+            "confidence": 1
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【欣葉小聚】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【欣葉小聚】統一設定",
+            "confidence": 1
+        }
+    },
+    "Dreamers Coffee Roasters": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Dreamers Coffee Roasters】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Dreamers Coffee Roasters】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Dreamers Coffee Roasters】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Dreamers Coffee Roasters】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "北投奇岩一號": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【北投奇岩一號】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "MINT PASTA 綠薄荷麵食坊": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【MINT PASTA 綠薄荷麵食坊】統一設定",
+            "confidence": 1
+        }
+    },
+    "GinGin Coffee": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【GinGin Coffee】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "別處咖啡 Away cafe": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【別處咖啡 Away cafe】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【別處咖啡 Away cafe】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "青葉台灣料理": {
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【青葉台灣料理】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "疆毒串烤-": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【疆毒串烤-】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【疆毒串烤-】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "客美多咖啡 Komeda's Coffee": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【客美多咖啡 Komeda's Coffee】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【客美多咖啡 Komeda's Coffee】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【客美多咖啡 Komeda's Coffee】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【客美多咖啡 Komeda's Coffee】統一設定",
+            "confidence": 1
+        }
+    },
+    "欣葉台菜": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【欣葉台菜】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【欣葉台菜】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【欣葉台菜】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【欣葉台菜】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【欣葉台菜】統一設定",
+            "confidence": 1
+        }
+    },
+    "肉肉大米": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【肉肉大米】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【肉肉大米】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【肉肉大米】統一設定",
+            "confidence": 0.9
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【肉肉大米】統一設定",
+            "confidence": 1
+        }
+    },
+    "Muko Brunch": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Muko Brunch】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Muko Brunch】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Muko Brunch】統一設定",
+            "confidence": 1
+        }
+    },
+    "新禾料理廚房 Culina Nova": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【新禾料理廚房 Culina Nova】統一設定",
+            "confidence": 1
+        }
+    },
+    "快樂村咖哩屋": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【快樂村咖哩屋】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【快樂村咖哩屋】統一設定",
+            "confidence": 1
+        }
+    },
+    "威尼斯義大利餐廳": {
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【威尼斯義大利餐廳】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【威尼斯義大利餐廳】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "令和博多拉麵": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【令和博多拉麵】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【令和博多拉麵】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【令和博多拉麵】統一設定",
+            "confidence": 1
+        }
+    },
+    "Mo's Kitchen 亮萌私房料理": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Mo's Kitchen 亮萌私房料理】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "之善料亭": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【之善料亭】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【之善料亭】統一設定",
+            "confidence": 1
+        }
+    },
+    "大戶屋": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【大戶屋】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【大戶屋】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【大戶屋】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【大戶屋】統一設定",
+            "confidence": 1
+        }
+    },
+    "古摩尼 GOOD MORNING": {
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【古摩尼 GOOD MORNING】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【古摩尼 GOOD MORNING】統一設定",
+            "confidence": 1
+        }
+    },
+    "好日子咖啡": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【好日子咖啡】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "葛莉莎披薩 Gloriosa Pizza": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【葛莉莎披薩 Gloriosa Pizza】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "米蘭咖啡": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【米蘭咖啡】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "FEED ZONE CAFE 運動早午餐": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【FEED ZONE CAFE 運動早午餐】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "Hibi 日々咖啡": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Hibi 日々咖啡】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Hibi 日々咖啡】統一設定",
+            "confidence": 1
+        }
+    },
+    "有麵子蔬食料理": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【有麵子蔬食料理】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "甲蟲秘境": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【甲蟲秘境】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【甲蟲秘境】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【甲蟲秘境】統一設定",
+            "confidence": 1
+        },
+        "has_play_area": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【甲蟲秘境】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【甲蟲秘境】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【甲蟲秘境】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "老山東牛肉麵": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【老山東牛肉麵】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "弘大一號出口": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【弘大一號出口】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【弘大一號出口】統一設定",
+            "confidence": 1
+        }
+    },
+    "旅人咖啡": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【旅人咖啡】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "天天利美食坊": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【天天利美食坊】統一設定",
+            "confidence": 1
+        }
+    },
+    "心味酒肴居酒屋": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【心味酒肴居酒屋】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【心味酒肴居酒屋】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "PAPA RESTAURANT": {
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【PAPA RESTAURANT】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "大同海產商行": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【大同海產商行】統一設定",
+            "confidence": 1
+        }
+    },
+    "三亞米售完提早打烊，最後點菜16:30": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【三亞米售完提早打烊，最後點菜16:30】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【三亞米售完提早打烊，最後點菜16:30】統一設定",
+            "confidence": 1
+        }
+    },
+    "水鳥公園52號": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【水鳥公園52號】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【水鳥公園52號】統一設定",
+            "confidence": 1
+        }
+    },
+    "BEPPIN PASTA EXPRESS": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【BEPPIN PASTA EXPRESS】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【BEPPIN PASTA EXPRESS】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【BEPPIN PASTA EXPRESS】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【BEPPIN PASTA EXPRESS】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【BEPPIN PASTA EXPRESS】統一設定",
+            "confidence": 1
+        }
+    },
+    "Restaurant A": {
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Restaurant A】統一設定",
+            "confidence": 1
+        }
+    },
+    "ALL DAY ROASTING COMPANY": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【ALL DAY ROASTING COMPANY】統一設定",
+            "confidence": 0.9
+        },
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【ALL DAY ROASTING COMPANY】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【ALL DAY ROASTING COMPANY】統一設定",
+            "confidence": 1
+        }
+    },
+    "UCHI吾居炭火私廚": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【UCHI吾居炭火私廚】統一設定",
+            "confidence": 0.9
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【UCHI吾居炭火私廚】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "Home Garden餐廳-": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Home Garden餐廳-】統一設定",
+            "confidence": 1
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Home Garden餐廳-】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "美福乾式熟成牛排館 Fresh & Aged Italian steak house": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【美福乾式熟成牛排館 Fresh & Aged Italian steak house】統一設定",
+            "confidence": 1
+        }
+    },
+    "松滿樓": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【松滿樓】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【松滿樓】統一設定",
+            "confidence": 0.9
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【松滿樓】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "L' AGE 熟成餐廳": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【L' AGE 熟成餐廳】統一設定",
+            "confidence": 1
+        }
+    },
+    "gubami Social": {
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【gubami Social】統一設定",
+            "confidence": 1
+        }
+    },
+    "221食堂": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【221食堂】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "成真咖啡": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【成真咖啡】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【成真咖啡】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【成真咖啡】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【成真咖啡】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【成真咖啡】統一設定",
+            "confidence": 1
+        }
+    },
+    "珍寶園餐廳": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【珍寶園餐廳】統一設定",
+            "confidence": 1
+        }
+    },
+    "吾界 鐵板燒": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【吾界 鐵板燒】統一設定",
+            "confidence": 1
+        }
+    },
+    "達利早餐Daily Breakfast-": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【達利早餐Daily Breakfast-】統一設定",
+            "confidence": 1
+        }
+    },
+    "Jn'F 義大利麵 比薩": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Jn'F 義大利麵 比薩】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Jn'F 義大利麵 比薩】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Jn'F 義大利麵 比薩】統一設定",
+            "confidence": 1
+        }
+    },
+    "天母盛鑫-士林聚餐餐廳": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【天母盛鑫-士林聚餐餐廳】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【天母盛鑫-士林聚餐餐廳】統一設定",
+            "confidence": 1
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【天母盛鑫-士林聚餐餐廳】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "金孫韓廚 義大利麵": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【金孫韓廚 義大利麵】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【金孫韓廚 義大利麵】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【金孫韓廚 義大利麵】統一設定",
+            "confidence": 1
+        }
+    },
+    "MILI 米麗廚房": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【MILI 米麗廚房】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【MILI 米麗廚房】統一設定",
+            "confidence": 1
+        }
+    },
+    "咖啡學人-老傑克 The Cafeist & Old Jack": {
+        " child_seat available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【咖啡學人-老傑克 The Cafeist & Old Jack】統一設定",
+            "confidence": 1
+        },
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【咖啡學人-老傑克 The Cafeist & Old Jack】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【咖啡學人-老傑克 The Cafeist & Old Jack】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【咖啡學人-老傑克 The Cafeist & Old Jack】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【咖啡學人-老傑克 The Cafeist & Old Jack】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【咖啡學人-老傑克 The Cafeist & Old Jack】統一設定",
+            "confidence": 1
+        }
+    },
+    "加爾第咖啡": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【加爾第咖啡】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【加爾第咖啡】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【加爾第咖啡】統一設定",
+            "confidence": 1
+        }
+    },
+    "Mini Club": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Mini Club】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Mini Club】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Mini Club】統一設定",
+            "confidence": 1
+        },
+        "has_play_area": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Mini Club】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Mini Club】統一設定",
+            "confidence": 0.9
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Mini Club】統一設定",
+            "confidence": 1
+        }
+    },
+    "味自慢": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【味自慢】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "Mori Mori Patisserie 森咖啡不定休": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Mori Mori Patisserie 森咖啡不定休】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "IKEA瑞典餐廳": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【IKEA瑞典餐廳】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【IKEA瑞典餐廳】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【IKEA瑞典餐廳】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【IKEA瑞典餐廳】統一設定",
+            "confidence": 1
+        }
+    },
+    "蔦燒日式居酒屋-": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【蔦燒日式居酒屋-】統一設定",
+            "confidence": 1
+        }
+    },
+    "金獅取水 Cafe And Brunch": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【金獅取水 Cafe And Brunch】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【金獅取水 Cafe And Brunch】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【金獅取水 Cafe And Brunch】統一設定",
+            "confidence": 1
+        }
+    },
+    "肉的長谷川 南港LaLaport": {
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【肉的長谷川 南港LaLaport】統一設定",
+            "confidence": 1
+        }
+    },
+    "CAFE ACME": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【CAFE ACME】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【CAFE ACME】統一設定",
+            "confidence": 1
+        }
+    },
+    "附近咖啡": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【附近咖啡】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【附近咖啡】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【附近咖啡】統一設定",
+            "confidence": 1
+        }
+    },
+    "聚聚樂": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【聚聚樂】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【聚聚樂】統一設定",
+            "confidence": 1
+        }
+    },
+    "希斯酪義大利麵": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【希斯酪義大利麵】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【希斯酪義大利麵】統一設定",
+            "confidence": 1
+        }
+    },
+    "喜歡西餐廳": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【喜歡西餐廳】統一設定",
+            "confidence": 1
+        }
+    },
+    "豬寶藝廊x四月十一花藝喫茶": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【豬寶藝廊x四月十一花藝喫茶】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "HAPI CAFE": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【HAPI CAFE】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【HAPI CAFE】統一設定",
+            "confidence": 0.9
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【HAPI CAFE】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "ieat早午餐": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【ieat早午餐】統一設定",
+            "confidence": 1
+        }
+    },
+    "金泰日式料理-": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【金泰日式料理-】統一設定",
+            "confidence": 1
+        }
+    },
+    "大江戶町 鰻屋-": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【大江戶町 鰻屋-】統一設定",
+            "confidence": 0.9
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【大江戶町 鰻屋-】統一設定",
+            "confidence": 1
+        }
+    },
+    "松果院子": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【松果院子】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【松果院子】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【松果院子】統一設定",
+            "confidence": 1
+        }
+    },
+    "BEPPIN PASTA 義大利麵": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【BEPPIN PASTA 義大利麵】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【BEPPIN PASTA 義大利麵】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【BEPPIN PASTA 義大利麵】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【BEPPIN PASTA 義大利麵】統一設定",
+            "confidence": 1
+        }
+    },
+    "Ho'me廚房&親子友善餐廳": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Ho'me廚房&親子友善餐廳】統一設定",
+            "confidence": 1
+        },
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Ho'me廚房&親子友善餐廳】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Ho'me廚房&親子友善餐廳】統一設定",
+            "confidence": 1
+        },
+        "has_play_area": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Ho'me廚房&親子友善餐廳】統一設定",
+            "confidence": 0.9
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Ho'me廚房&親子友善餐廳】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Ho'me廚房&親子友善餐廳】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Ho'me廚房&親子友善餐廳】統一設定",
+            "confidence": 1
+        }
+    },
+    "寶貝餓餓": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【寶貝餓餓】統一設定",
+            "confidence": 1
+        }
+    },
+    "兔Dreams": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【兔Dreams】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【兔Dreams】統一設定",
+            "confidence": 1
+        }
+    },
+    "小飯館兒": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【小飯館兒】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【小飯館兒】統一設定",
+            "confidence": 1
+        }
+    },
+    "麗山早午餐": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【麗山早午餐】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "早饗&晚饗": {
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【早饗&晚饗】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【早饗&晚饗】統一設定",
+            "confidence": 1
+        }
+    },
+    "王品牛排": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【王品牛排】統一設定",
+            "confidence": 1
+        },
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【王品牛排】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【王品牛排】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【王品牛排】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【王品牛排】統一設定",
+            "confidence": 1
+        }
+    },
+    "不二煮藝": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【不二煮藝】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【不二煮藝】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "咖啡學人-傑克威爾 The Cafeist & Jackwell": {
+        " child_seat available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【咖啡學人-傑克威爾 The Cafeist & Jackwell】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【咖啡學人-傑克威爾 The Cafeist & Jackwell】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【咖啡學人-傑克威爾 The Cafeist & Jackwell】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【咖啡學人-傑克威爾 The Cafeist & Jackwell】統一設定",
+            "confidence": 0.9
+        },
+        "has_diaper_table": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【咖啡學人-傑克威爾 The Cafeist & Jackwell】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "TUTTO BELLO": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【TUTTO BELLO】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【TUTTO BELLO】統一設定",
+            "confidence": 1
+        }
+    },
+    "1985窯烤披薩": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【1985窯烤披薩】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【1985窯烤披薩】統一設定",
+            "confidence": 1
+        },
+        "has_play_area": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【1985窯烤披薩】統一設定",
+            "confidence": 0.9
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【1985窯烤披薩】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【1985窯烤披薩】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【1985窯烤披薩】統一設定",
+            "confidence": 1
+        }
+    },
+    "士林廣澤擔仔麵": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【士林廣澤擔仔麵】統一設定",
+            "confidence": 1
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【士林廣澤擔仔麵】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "Cin Cin Osteria請請義大利餐廳": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Cin Cin Osteria請請義大利餐廳】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Cin Cin Osteria請請義大利餐廳】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Cin Cin Osteria請請義大利餐廳】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Cin Cin Osteria請請義大利餐廳】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Cin Cin Osteria請請義大利餐廳】統一設定",
+            "confidence": 1
+        }
+    },
+    "野餐廚房 PIQUE NIQUE": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【野餐廚房 PIQUE NIQUE】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【野餐廚房 PIQUE NIQUE】統一設定",
+            "confidence": 1
+        }
+    },
+    "Cloud 9 Cafe 中山": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Cloud 9 Cafe 中山】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "Uncle Jerry's Pasta 傑利叔叔義大利麵": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Uncle Jerry's Pasta 傑利叔叔義大利麵】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "真珠-台灣佳味": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【真珠-台灣佳味】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【真珠-台灣佳味】統一設定",
+            "confidence": 1
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【真珠-台灣佳味】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【真珠-台灣佳味】統一設定",
+            "confidence": 0.9
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【真珠-台灣佳味】統一設定",
+            "confidence": 1
+        }
+    },
+    "No.18 Dream Breakfast": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【No.18 Dream Breakfast】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "HI MATE ！": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【HI MATE ！】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "YABI KITCHEN": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【YABI KITCHEN】統一設定",
+            "confidence": 1
+        },
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【YABI KITCHEN】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【YABI KITCHEN】統一設定",
+            "confidence": 1
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【YABI KITCHEN】統一設定",
+            "confidence": 1
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【YABI KITCHEN】統一設定",
+            "confidence": 1
+        }
+    },
+    "Petit France": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Petit France】統一設定",
+            "confidence": 1
+        }
+    },
+    "禪風茶樓": {
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【禪風茶樓】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "小林英夫日本料理": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【小林英夫日本料理】統一設定",
+            "confidence": 1
+        }
+    },
+    "小韓室 韓食 飯捲專賣 @": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【小韓室 韓食 飯捲專賣 @】統一設定",
+            "confidence": 1
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【小韓室 韓食 飯捲專賣 @】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【小韓室 韓食 飯捲專賣 @】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "松山機場2F美食廣場": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【松山機場2F美食廣場】統一設定",
+            "confidence": 1
+        }
+    },
+    "77opèt Restaurant": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【77opèt Restaurant】統一設定",
+            "confidence": 1
+        }
+    },
+    "百八龍拉麵": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【百八龍拉麵】統一設定",
+            "confidence": 1
+        }
+    },
+    "源芳刈包": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【源芳刈包】統一設定",
+            "confidence": 1
+        }
+    },
+    "濤濤鮮魚舖": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【濤濤鮮魚舖】統一設定",
+            "confidence": 1
+        }
+    },
+    "關東本家-松山深夜美食": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【關東本家-松山深夜美食】統一設定",
+            "confidence": 1
+        }
+    },
+    "筷子餐廳": {
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【筷子餐廳】統一設定",
+            "confidence": 0.9
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【筷子餐廳】統一設定",
+            "confidence": 0.9
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【筷子餐廳】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "Divino Taipei": {
+        "Spacious seating": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【Divino Taipei】統一設定",
+            "confidence": 1
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【Divino Taipei】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "麵屋技庵": {
+        "Spacious seating": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【麵屋技庵】統一設定",
+            "confidence": 1
+        }
+    },
+    "御珍軒": {
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【御珍軒】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "JK STUDIO 法式餐酒館": {
+        "kid_noise_tolerant": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【JK STUDIO 法式餐酒館】統一設定",
+            "confidence": 1
+        }
+    },
+    "金獅樓": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【金獅樓】統一設定",
+            "confidence": 1
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【金獅樓】統一設定",
+            "confidence": 0.9
+        }
+    },
+    "茉莉漢堡": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【茉莉漢堡】統一設定",
+            "confidence": 1
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【茉莉漢堡】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【茉莉漢堡】統一設定",
+            "confidence": 1
+        },
+        "has_play_area": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【茉莉漢堡】統一設定",
+            "confidence": 0.9
+        },
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【茉莉漢堡】統一設定",
+            "confidence": 0.9
+        },
+        "has_tableware": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【茉莉漢堡】統一設定",
+            "confidence": 1
+        }
+    },
+    "雞老闆 桶仔雞": {
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【雞老闆 桶仔雞】統一設定",
+            "confidence": 1
+        }
+    },
+    "輪輪1976 和食茶酒駅": {
+        "has_private_room": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【輪輪1976 和食茶酒駅】統一設定",
+            "confidence": 0.9
+        },
+        "has_diaper_table": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【輪輪1976 和食茶酒駅】統一設定",
+            "confidence": 1
+        }
+    },
+    "The Cup Coffee House 台北": {
+        " child_seat available": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【The Cup Coffee House 台北】統一設定",
+            "confidence": 0.9
+        },
+        "Kids menu available": {
+            "result": "No",
+            "evidence": "依據連鎖品牌【The Cup Coffee House 台北】統一設定",
+            "confidence": 1
+        },
+        "kid_noise_tolerant": {
+            "result": "Yes",
+            "evidence": "依據連鎖品牌【The Cup Coffee House 台北】統一設定",
+            "confidence": 1
+        }
+    }
+}

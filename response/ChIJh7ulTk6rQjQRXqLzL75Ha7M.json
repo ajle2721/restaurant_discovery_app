@@ -1,0 +1,132 @@
+{
+  "id": "ChIJh7ulTk6rQjQRXqLzL75Ha7M",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2935 0818",
+  "formattedAddress": "116051台灣臺北市文山區景行里景興路288號1樓",
+  "location": {
+    "latitude": 24.9893592,
+    "longitude": 121.542124
+  },
+  "rating": 4.4,
+  "websiteUri": "https://www.mwd.com.tw/index.php",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 354,
+  "displayName": {
+    "text": "麥味登 文山世新店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJh7ulTk6rQjQRXqLzL75Ha7M/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKa00weHRhVnBQZG5sdlYySjFlbXhpTkdScU1WRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "麥味登店家會有個別差異，這家的麵是沒有配菜的。整體質感如圖，也不是一定要有配菜，只是一樣的價錢當然是去品質較佳的分店。原本常去的分店太多人，所以想說試試看這家，結果就是🥲⋯⋯\n補充：我發現他們是有使用盤子的，但我內用他還用那個盒子裝麵，如果不是麥味登sop沒寫好那就是這家店比較隨便。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "麥味登店家會有個別差異，這家的麵是沒有配菜的。整體質感如圖，也不是一定要有配菜，只是一樣的價錢當然是去品質較佳的分店。原本常去的分店太多人，所以想說試試看這家，結果就是🥲⋯⋯\n補充：我發現他們是有使用盤子的，但我內用他還用那個盒子裝麵，如果不是麥味登sop沒寫好那就是這家店比較隨便。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "武杰劉",
+        "uri": "https://www.google.com/maps/contrib/115913647705388607946/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLArJ-MWUipc1C6qD5OEOCVNPgZb59L3T3pKVTqzvXFJZ8URw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-14T05:21:45.176803039Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKa00weHRhVnBQZG5sdlYySjFlbXhpTkdScU1WRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKa00weHRhVnBQZG5sdlYySjFlbXhpTkdScU1WRRAB!2m1!1s0x3442ab4e4ea5bb87:0xb36b47be2ff3a25e"
+    },
+    {
+      "name": "places/ChIJh7ulTk6rQjQRXqLzL75Ha7M/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCcldWaHRObDlyTFdWRWQzTk9PVU0yZG5Oa05WRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 1,
+      "text": {
+        "text": "餐點都沒問題 但是我覺得服務上還有待加強 今天早上我去買早餐 看到櫃檯都沒人 員工都在裡面處理紙箱 我在櫃檯喊了兩次 等了大約五分鐘 期間我從門簾看到一個男員工在整理紙箱 他有跟我對到眼 我問他還有嗎 他直接無視我 後面我又等了大約兩分鐘才有一個女生出來幫我點餐  我是覺得他可以說稍等還是沒有營業 至少讓我知道 不是裝作沒事繼續處理他的紙箱",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點都沒問題 但是我覺得服務上還有待加強 今天早上我去買早餐 看到櫃檯都沒人 員工都在裡面處理紙箱 我在櫃檯喊了兩次 等了大約五分鐘 期間我從門簾看到一個男員工在整理紙箱 他有跟我對到眼 我問他還有嗎 他直接無視我 後面我又等了大約兩分鐘才有一個女生出來幫我點餐  我是覺得他可以說稍等還是沒有營業 至少讓我知道 不是裝作沒事繼續處理他的紙箱",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Wang Oscar",
+        "uri": "https://www.google.com/maps/contrib/104284262254080263530/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJZvfUp73Be08SjPlXfL5rA6w_bJvgTjtMgBT-sR6o2YolGDw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-12-26T03:17:30.341530104Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCcldWaHRObDlyTFdWRWQzTk9PVU0yZG5Oa05WRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCcldWaHRObDlyTFdWRWQzTk9PVU0yZG5Oa05WRRAB!2m1!1s0x3442ab4e4ea5bb87:0xb36b47be2ff3a25e"
+    },
+    {
+      "name": "places/ChIJh7ulTk6rQjQRXqLzL75Ha7M/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toQlZXOVVWV1pEYTNneVZGcDJiVTVPYUc1MVNHYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 1,
+      "text": {
+        "text": "品管很差，漢堡硬到不行！不想浪費食物才吃的（考太硬應該重現製作才對！）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "品管很差，漢堡硬到不行！不想浪費食物才吃的（考太硬應該重現製作才對！）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Wan-Ling Hsu",
+        "uri": "https://www.google.com/maps/contrib/101258222878748576049/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLaGUqY7ewn-Qsg4foOU4uvFPyFEKEmwa7N4CdCRSB3hVAPxQ=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-10-10T00:55:27.270170627Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toQlZXOVVWV1pEYTNneVZGcDJiVTVPYUc1MVNHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toQlZXOVVWV1pEYTNneVZGcDJiVTVPYUc1MVNHYxAB!2m1!1s0x3442ab4e4ea5bb87:0xb36b47be2ff3a25e"
+    },
+    {
+      "name": "places/ChIJh7ulTk6rQjQRXqLzL75Ha7M/reviews/ChdDSUhNMG9nS0VOYkY4OUQzOVpXTnpBRRAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 3,
+      "text": {
+        "text": "牛肉漢堡跟麥當勞很像，但是比麥當勞好吃\n脆薯跟蘿蔔糕都好吃，黑胡椒鐵板麵辣到難以吞嚥，不喜歡",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "牛肉漢堡跟麥當勞很像，但是比麥當勞好吃\n脆薯跟蘿蔔糕都好吃，黑胡椒鐵板麵辣到難以吞嚥，不喜歡",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Carol Chung",
+        "uri": "https://www.google.com/maps/contrib/112642657084076296844/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUlNtmeJ4eDNse6MiMC9Hp8H7HLrLz0cTyyjrwMcOZEO2uWOTQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-06-14T02:16:41.902905Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VOYkY4OUQzOVpXTnpBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VOYkY4OUQzOVpXTnpBRRAB!2m1!1s0x3442ab4e4ea5bb87:0xb36b47be2ff3a25e"
+    },
+    {
+      "name": "places/ChIJh7ulTk6rQjQRXqLzL75Ha7M/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOcGJGcEZlVEV4ZFZNNVNERkJiVWhLUkdOc1FXYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "希望留長髮的男店員可以注意儀容打理一下⋯剛踏進店裡就聞到濃濃的臭味真的很崩潰🥲🥲🥲",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "希望留長髮的男店員可以注意儀容打理一下⋯剛踏進店裡就聞到濃濃的臭味真的很崩潰🥲🥲🥲",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "yuqi wang",
+        "uri": "https://www.google.com/maps/contrib/116001705716152245195/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJswNeCm68sn3Y5X7vO4lsoEEMwgqQU1xTBHPVYgyc0XZGhRA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-28T06:01:31.935880344Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOcGJGcEZlVEV4ZFZNNVNERkJiVWhLUkdOc1FXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOcGJGcEZlVEV4ZFZNNVNERkJiVWhLUkdOc1FXYxAB!2m1!1s0x3442ab4e4ea5bb87:0xb36b47be2ff3a25e"
+    }
+  ],
+  "goodForChildren": true
+}

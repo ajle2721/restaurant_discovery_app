@@ -1,0 +1,132 @@
+{
+  "id": "ChIJG_aE5O2pQjQRu3kBAu_hgcE",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2599 5125",
+  "formattedAddress": "104台灣臺北市中山區新庄里德惠街95號1樓",
+  "location": {
+    "latitude": 25.066713099999998,
+    "longitude": 121.5289596
+  },
+  "rating": 4.8,
+  "websiteUri": "https://facebook.com/dinobrunch95",
+  "userRatingCount": 609,
+  "displayName": {
+    "text": "Dino Brunch 迪諾早午餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJG_aE5O2pQjQRu3kBAu_hgcE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWbE4wSTBOR1ZqVGpKd2JVcFpiR1prWkdKUlMxRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "小巧精緻的餐館\n乾淨明亮\n出餐速度好快\n\n蘿蔔糕外酥內嫩，推！\n\n開放式酸種三明治超級好吃\n鮪魚蛋和水果二種口味各有迷人的風味\n喜歡❤️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "小巧精緻的餐館\n乾淨明亮\n出餐速度好快\n\n蘿蔔糕外酥內嫩，推！\n\n開放式酸種三明治超級好吃\n鮪魚蛋和水果二種口味各有迷人的風味\n喜歡❤️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "素",
+        "uri": "https://www.google.com/maps/contrib/105669707389124146032/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXwO6PXH1Rng651qIko6DF9PQXATFT2ywEI-ZcyGMxNULPhZju6=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-09T07:14:50.111887477Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWbE4wSTBOR1ZqVGpKd2JVcFpiR1prWkdKUlMxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWbE4wSTBOR1ZqVGpKd2JVcFpiR1prWkdKUlMxRRAB!2m1!1s0x3442a9ede484f61b:0xc181e1ef020179bb"
+    },
+    {
+      "name": "places/ChIJG_aE5O2pQjQRu3kBAu_hgcE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GemNFTTBUV1ZxVEhCNmRFNVFMV2c0WVhSRlkwRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 1,
+      "text": {
+        "text": "外帶回家發現太焦跟店家說蘿蔔糕蔥抓餅要更換，自己多跑一趟去更換，店家卻說本身就會煎比較焦，下次點餐可以說不要這麼焦，自己也是做廚房的想說好心告知更換卻不承認餐點問題，點了近4百元的早餐竟是這種出餐品質....",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "外帶回家發現太焦跟店家說蘿蔔糕蔥抓餅要更換，自己多跑一趟去更換，店家卻說本身就會煎比較焦，下次點餐可以說不要這麼焦，自己也是做廚房的想說好心告知更換卻不承認餐點問題，點了近4百元的早餐竟是這種出餐品質....",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張大大",
+        "uri": "https://www.google.com/maps/contrib/108484181853355475989/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL9QhwKctPwFzu7ws9MtBNFpTTFY43tMx5OKYi8UKNuBHfktvk=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-08T04:56:14.145278922Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GemNFTTBUV1ZxVEhCNmRFNVFMV2c0WVhSRlkwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GemNFTTBUV1ZxVEhCNmRFNVFMV2c0WVhSRlkwRRAB!2m1!1s0x3442a9ede484f61b:0xc181e1ef020179bb"
+    },
+    {
+      "name": "places/ChIJG_aE5O2pQjQRu3kBAu_hgcE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xvd04yMXZiWEpyVUdoUGRWTmxUVlpyTkZseGJVRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "在台北真的很難找到這麼棒的早餐店！每個品項都好吃完全沒有雷的之外，老闆娘跟店員也都很親切，整體用餐環境也很親子友善，每週都為了吃他們的早餐開車半小時來覺得非常值得❤️（附上一張個人最愛的宮保雞丁鐵板麵照😆）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在台北真的很難找到這麼棒的早餐店！每個品項都好吃完全沒有雷的之外，老闆娘跟店員也都很親切，整體用餐環境也很親子友善，每週都為了吃他們的早餐開車半小時來覺得非常值得❤️（附上一張個人最愛的宮保雞丁鐵板麵照😆）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chun",
+        "uri": "https://www.google.com/maps/contrib/101659357215209830182/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWiM_DhVKAXl1z6uGzOd60KFvb0SzHOhH37z7YT7UiKa-IcUu2cyg=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-27T02:56:39.130620525Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xvd04yMXZiWEpyVUdoUGRWTmxUVlpyTkZseGJVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xvd04yMXZiWEpyVUdoUGRWTmxUVlpyTkZseGJVRRAB!2m1!1s0x3442a9ede484f61b:0xc181e1ef020179bb"
+    },
+    {
+      "name": "places/ChIJG_aE5O2pQjQRu3kBAu_hgcE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWMVkzZEVSamwxTjI1ME16UnNTblp2VFhrMWNHYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "店內餐點的種類眾多\n很多選擇 也都看起來很好吃\n抹茶奶酥很特別 味道很不錯 但小油了一點\n蛋餅的部分也是 有點太油膩 不過味道整體來說算是不錯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店內餐點的種類眾多\n很多選擇 也都看起來很好吃\n抹茶奶酥很特別 味道很不錯 但小油了一點\n蛋餅的部分也是 有點太油膩 不過味道整體來說算是不錯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "ET muse",
+        "uri": "https://www.google.com/maps/contrib/107063543722048983622/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXbXhhfAWHMZ_ls7KzsKLF7UtZf_NswdB4rSrvx2IKkhNGBu8dmCA=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-09-20T17:17:57.013336160Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWMVkzZEVSamwxTjI1ME16UnNTblp2VFhrMWNHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWMVkzZEVSamwxTjI1ME16UnNTblp2VFhrMWNHYxAB!2m1!1s0x3442a9ede484f61b:0xc181e1ef020179bb"
+    },
+    {
+      "name": "places/ChIJG_aE5O2pQjQRu3kBAu_hgcE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWUGNVUXliREpGUTJ4WFJtZDJORFpvTjBaNVgwRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "喜歡⭐️法式土司 ⭐️炒泡麵（統一肉燥麵） ⭐️蘿蔔糕 ⭐️蛋沙拉\n\n法式土司很鬆軟👍🏻",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "喜歡⭐️法式土司 ⭐️炒泡麵（統一肉燥麵） ⭐️蘿蔔糕 ⭐️蛋沙拉\n\n法式土司很鬆軟👍🏻",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "CH Purple",
+        "uri": "https://www.google.com/maps/contrib/117539107636847481714/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJZWa_OR1fCDFFh-9PMqTGvbcwbF_4yl5ZAzhzzGtrl8PwSsNE=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-03T14:25:02.282655495Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWUGNVUXliREpGUTJ4WFJtZDJORFpvTjBaNVgwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWUGNVUXliREpGUTJ4WFJtZDJORFpvTjBaNVgwRRAB!2m1!1s0x3442a9ede484f61b:0xc181e1ef020179bb"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

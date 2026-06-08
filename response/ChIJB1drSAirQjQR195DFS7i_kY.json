@@ -1,0 +1,139 @@
+{
+  "id": "ChIJB1drSAirQjQR195DFS7i_kY",
+  "types": [
+    "coffee_shop",
+    "cake_shop",
+    "bakery",
+    "cafe",
+    "japanese_restaurant",
+    "wholesaler",
+    "manufacturer",
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "105台灣臺北市松山區敦化里八德路三段12巷51弄31號之1",
+  "location": {
+    "latitude": 25.046276199999998,
+    "longitude": 121.55209749999999
+  },
+  "rating": 4.8,
+  "websiteUri": "https://www.facebook.com/Roffyscafe",
+  "userRatingCount": 78,
+  "displayName": {
+    "text": "Roffy's Café",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJB1drSAirQjQR195DFS7i_kY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toeFZ6UnVjbFowYjJrdFIxZEhXR2RMVkhwaGIxRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "寵物友善先+100分🥰\n一進門就接收到溫暖的眼神🥰\n餐點精緻 口味很棒😋\n鹹派我好愛，生菜沙拉🥗清淡美味😋\n配上冰美式很完美🥳\n環境乾淨衛生 舒服\n非常推薦👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "寵物友善先+100分🥰\n一進門就接收到溫暖的眼神🥰\n餐點精緻 口味很棒😋\n鹹派我好愛，生菜沙拉🥗清淡美味😋\n配上冰美式很完美🥳\n環境乾淨衛生 舒服\n非常推薦👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林倍竹",
+        "uri": "https://www.google.com/maps/contrib/100490917682733512826/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU6Dzrq6TdDWWtWM30j8GscDF3R38ogJ9L1MatqPKufeRTY6_EhoA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-25T05:55:27.260691366Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toeFZ6UnVjbFowYjJrdFIxZEhXR2RMVkhwaGIxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toeFZ6UnVjbFowYjJrdFIxZEhXR2RMVkhwaGIxRRAB!2m1!1s0x3442ab08486b5707:0x46fee22e1543ded7"
+    },
+    {
+      "name": "places/ChIJB1drSAirQjQR195DFS7i_kY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xZNU1IWk1VbVJ4V25GbmFTMDBjbXB2VGpWVU0yYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "臨時起義 轉角咖啡館\n店面雖不大，但環境清雅舒服\n適合聊天的好所在\n\n飲品 餐點現做好吃\n蛋糕 鹹派各有千秋 值得品嚐\n\n收入口袋名單 下次再嚐鮮💗",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "臨時起義 轉角咖啡館\n店面雖不大，但環境清雅舒服\n適合聊天的好所在\n\n飲品 餐點現做好吃\n蛋糕 鹹派各有千秋 值得品嚐\n\n收入口袋名單 下次再嚐鮮💗",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "蕭千雯",
+        "uri": "https://www.google.com/maps/contrib/115216793334887575023/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWy7_gAdExucrkCPQWEOZZK79ORpq23PB1mZ5GSXafYOgbJhWRu=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-28T10:30:04.302615818Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xZNU1IWk1VbVJ4V25GbmFTMDBjbXB2VGpWVU0yYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xZNU1IWk1VbVJ4V25GbmFTMDBjbXB2VGpWVU0yYxAB!2m1!1s0x3442ab08486b5707:0x46fee22e1543ded7"
+    },
+    {
+      "name": "places/ChIJB1drSAirQjQR195DFS7i_kY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sR00wRmZjSEJmV1RsUGFubDFjV2haZEVwM2MwRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "環境不大但很舒適，適合久坐安靜看書辦公，約三個座位有插座。餐點好吃，店主很細心且貼心。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境不大但很舒適，適合久坐安靜看書辦公，約三個座位有插座。餐點好吃，店主很細心且貼心。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "七",
+        "uri": "https://www.google.com/maps/contrib/105722645731986589278/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVD3ZFtFqI__QAIl2yeMhGzpApyfdYduhwwX37gevV78QvuTXTU=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-22T06:42:39.556474242Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sR00wRmZjSEJmV1RsUGFubDFjV2haZEVwM2MwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sR00wRmZjSEJmV1RsUGFubDFjV2haZEVwM2MwRRAB!2m1!1s0x3442ab08486b5707:0x46fee22e1543ded7"
+    },
+    {
+      "name": "places/ChIJB1drSAirQjQR195DFS7i_kY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pjNWJWTmZSMGhSZW5obmNWQnBhbkpwTVZBMVFWRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "想安安靜靜休息一下\n很推這家\n餐點都很用心",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "想安安靜靜休息一下\n很推這家\n餐點都很用心",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Miki",
+        "uri": "https://www.google.com/maps/contrib/117202867937430474966/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX8VVmsFX8yl51U3uCpGRJulY_-NRApW9TQsis08vFs77zLDgc=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-09-15T07:33:42.372113311Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pjNWJWTmZSMGhSZW5obmNWQnBhbkpwTVZBMVFWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pjNWJWTmZSMGhSZW5obmNWQnBhbkpwTVZBMVFWRRAB!2m1!1s0x3442ab08486b5707:0x46fee22e1543ded7"
+    },
+    {
+      "name": "places/ChIJB1drSAirQjQR195DFS7i_kY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNGMWZEalh3EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "Roffy’s Cafe位在中崙市場附近街角，老闆爽朗親切，以用心好食材提供日式家常定食與茶點——在追求潮流的世道裡顯得彌足珍貴，足以列入「好好吃飯」清單。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "Roffy’s Cafe位在中崙市場附近街角，老闆爽朗親切，以用心好食材提供日式家常定食與茶點——在追求潮流的世道裡顯得彌足珍貴，足以列入「好好吃飯」清單。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Catty Yen",
+        "uri": "https://www.google.com/maps/contrib/100832420261391309100/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUqRjk14UZgcMZn4j69KLXTM2ai6w6qkPoc7ZXI_Q3HT7iUTB6f=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2024-07-12T13:57:35.071092Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNGMWZEalh3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNGMWZEalh3EAE!2m1!1s0x3442ab08486b5707:0x46fee22e1543ded7"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": false
+}

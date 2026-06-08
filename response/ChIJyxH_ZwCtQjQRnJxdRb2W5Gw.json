@@ -1,0 +1,130 @@
+{
+  "id": "ChIJyxH_ZwCtQjQRnJxdRb2W5Gw",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2630 5806",
+  "formattedAddress": "114台灣臺北市內湖區金湖里金湖路375號",
+  "location": {
+    "latitude": 25.07336,
+    "longitude": 121.60328569999999
+  },
+  "rating": 4.3,
+  "userRatingCount": 150,
+  "displayName": {
+    "text": "金湖375 牛肉麵店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJyxH_ZwCtQjQRnJxdRb2W5Gw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OUmRWWklXR2xEV0VWTVlsRmxTVkExVjBsRWRHYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "牛三寶有夠 好吃！驚艷ㄟ！肉很軟！筋很嫩！肚很入味！還很幸運遇到現場演奏～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "牛三寶有夠 好吃！驚艷ㄟ！肉很軟！筋很嫩！肚很入味！還很幸運遇到現場演奏～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "SHU LING LIN",
+        "uri": "https://www.google.com/maps/contrib/106353221632258790428/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIbrlAcYR6wxl1bFZEv8MurHJRecWssVtx2UExtx1fwzg9LgQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-03-03T12:54:36.928066352Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OUmRWWklXR2xEV0VWTVlsRmxTVkExVjBsRWRHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OUmRWWklXR2xEV0VWTVlsRmxTVkExVjBsRWRHYxAB!2m1!1s0x3442ad0067ff11cb:0x6ce496bd455d9c9c"
+    },
+    {
+      "name": "places/ChIJyxH_ZwCtQjQRnJxdRb2W5Gw/reviews/Ci9DQUlRQUNvZENodHljRjlvT214R2NXMTZWVVJZTFZJNU9FMXhUVGRaVTFWRlVHYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "最近吃了太多肉肉，突然想吃麵食類，這家路過有看過，就過來試試，點了湯餃，韮菜口味的🥟｛喜歡韮菜口味的🥟｝可以吃到水餃的口感又可以試試湯頭\n店內環境整潔，服務態度友善，湯頭合口味，水餃也不錯，是一家可以再回訪的店家",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "最近吃了太多肉肉，突然想吃麵食類，這家路過有看過，就過來試試，點了湯餃，韮菜口味的🥟｛喜歡韮菜口味的🥟｝可以吃到水餃的口感又可以試試湯頭\n店內環境整潔，服務態度友善，湯頭合口味，水餃也不錯，是一家可以再回訪的店家",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "litaPan",
+        "uri": "https://www.google.com/maps/contrib/116761993715047597582/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUPhJT1pS8c4I4uldTgPwG0swnk5fDSlH1U6xHFFuQdZBUOwCA=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-11-26T22:31:35.391156958Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214R2NXMTZWVVJZTFZJNU9FMXhUVGRaVTFWRlVHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214R2NXMTZWVVJZTFZJNU9FMXhUVGRaVTFWRlVHYxAB!2m1!1s0x3442ad0067ff11cb:0x6ce496bd455d9c9c"
+    },
+    {
+      "name": "places/ChIJyxH_ZwCtQjQRnJxdRb2W5Gw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0VVJVcFVjbHB6UldremIxQlJWSHBSUkV4WVRIYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "從國外回來臺灣的第一餐，軟嫩的牛肚搭配店家自製的辣椒醬，有嚼勁的麵體跟牛香四溢的湯頭，吃完感動到快哭出來，這就是我要的臺灣味😭",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "從國外回來臺灣的第一餐，軟嫩的牛肚搭配店家自製的辣椒醬，有嚼勁的麵體跟牛香四溢的湯頭，吃完感動到快哭出來，這就是我要的臺灣味😭",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "HY K",
+        "uri": "https://www.google.com/maps/contrib/117649597044872092264/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXJW9RpmxElAw3e9Ab81G8rLfLRLzHGPNll4WW99pdQd6JLgw0t=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-13T10:36:03.447716553Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0VVJVcFVjbHB6UldremIxQlJWSHBSUkV4WVRIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0VVJVcFVjbHB6UldremIxQlJWSHBSUkV4WVRIYxAB!2m1!1s0x3442ad0067ff11cb:0x6ce496bd455d9c9c"
+    },
+    {
+      "name": "places/ChIJyxH_ZwCtQjQRnJxdRb2W5Gw/reviews/ChdDSUhNMG9nS0VJQ0FnTURJNHNuT2d3RRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "闆娘人親切，小孩下課立馬回店來幫忙，不得不給讚👍用餐空間店內雖小但位置已努力極大化，牛肉麵味香濃湯肉入口化，價錢也實在。\n幫忙的大姐也是精明又親切喔！肉燥飯是我最愛的瘦肉一點也不油膩有誠意！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "闆娘人親切，小孩下課立馬回店來幫忙，不得不給讚👍用餐空間店內雖小但位置已努力極大化，牛肉麵味香濃湯肉入口化，價錢也實在。\n幫忙的大姐也是精明又親切喔！肉燥飯是我最愛的瘦肉一點也不油膩有誠意！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "李Hugo",
+        "uri": "https://www.google.com/maps/contrib/102231162849068645332/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZTVlnfo9juxVCV9rutvUgyDdcXOprbR1NEAvFCkD-H8_qrz4t=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-04-08T11:57:25.230250Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJNHNuT2d3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJNHNuT2d3RRAB!2m1!1s0x3442ad0067ff11cb:0x6ce496bd455d9c9c"
+    },
+    {
+      "name": "places/ChIJyxH_ZwCtQjQRnJxdRb2W5Gw/reviews/ChZDSUhNMG9nS0VJQ0FnTURnNjVHa0d3EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "店內非常乾淨，雖是開放式廚房，卻沒有看到任何一點髒污，牛肚麵是比較濃厚的湯底，燙高麗菜很大盤，老闆娘心腸蠻好的，有個老阿伯身體不舒服，和老闆娘要冷水喝，老闆娘就直接請老闆拿一瓶礦泉水讓老伯喝，好人有好報，祝你們生意興隆",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店內非常乾淨，雖是開放式廚房，卻沒有看到任何一點髒污，牛肚麵是比較濃厚的湯底，燙高麗菜很大盤，老闆娘心腸蠻好的，有個老阿伯身體不舒服，和老闆娘要冷水喝，老闆娘就直接請老闆拿一瓶礦泉水讓老伯喝，好人有好報，祝你們生意興隆",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "C Rabbit",
+        "uri": "https://www.google.com/maps/contrib/109378272226630562206/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIrj41e2YeWvOVkDB0p-36Suee_0RK8hxUSxT0fEZuwJv7cnQ=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-02-27T15:24:33.952136Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnNjVHa0d3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnNjVHa0d3EAE!2m1!1s0x3442ad0067ff11cb:0x6ce496bd455d9c9c"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": false
+}

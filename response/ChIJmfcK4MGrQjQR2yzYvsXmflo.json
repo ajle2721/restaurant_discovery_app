@@ -1,0 +1,133 @@
+{
+  "id": "ChIJmfcK4MGrQjQR2yzYvsXmflo",
+  "types": [
+    "pizza_restaurant",
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2722 0590",
+  "formattedAddress": "110台灣臺北市信義區興雅里忠孝東路五段68號",
+  "location": {
+    "latitude": 25.040237400000002,
+    "longitude": 121.5667248
+  },
+  "rating": 4.6,
+  "websiteUri": "http://www.taihubrewing.com/nsfw",
+  "userRatingCount": 315,
+  "displayName": {
+    "text": "NSFW Pizza & Coffee",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJmfcK4MGrQjQR2yzYvsXmflo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsYVpVbHJhR2xIYW1KUVNEVnhjWHBJZUhrMFFsRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "比薩真的好吃，上面的香菇有炒過而且很入味才淋上起司烤，蜂蜜起司比薩的蜂蜜醬不太一樣（小小香味的焦味），很看人吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "比薩真的好吃，上面的香菇有炒過而且很入味才淋上起司烤，蜂蜜起司比薩的蜂蜜醬不太一樣（小小香味的焦味），很看人吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "M",
+        "uri": "https://www.google.com/maps/contrib/114075803192394415247/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKSHGhgbfNaov6gf9O9Hcb1NMXKvLpe0NMfijcv5NEeUjOiuPPE=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-25T12:43:20.786879119Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsYVpVbHJhR2xIYW1KUVNEVnhjWHBJZUhrMFFsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsYVpVbHJhR2xIYW1KUVNEVnhjWHBJZUhrMFFsRRAB!2m1!1s0x3442abc1e00af799:0x5a7ee6c5bed82cdb"
+    },
+    {
+      "name": "places/ChIJmfcK4MGrQjQR2yzYvsXmflo/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xdWRucFNjbEJSUmxaU2NXZEtlVGxEWkRCS01GRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "信義區裡的咖啡廳小角落，很適合I人，可以一個人來這裡用咖啡吃輕食，價格不便宜，用餐區是舒適的，店員也都態度親切，唯一小麻煩的點是廁所要坐電梯到地下層的停車場上廁所，偏遠，而且停車場都沒人的時候怪可怕的😅如果單就用餐環境是不錯的！咖啡就是普通的咖啡\n這次沒有點餐所以無法評論",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "信義區裡的咖啡廳小角落，很適合I人，可以一個人來這裡用咖啡吃輕食，價格不便宜，用餐區是舒適的，店員也都態度親切，唯一小麻煩的點是廁所要坐電梯到地下層的停車場上廁所，偏遠，而且停車場都沒人的時候怪可怕的😅如果單就用餐環境是不錯的！咖啡就是普通的咖啡\n這次沒有點餐所以無法評論",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "愛流浪的英文老師ELVI",
+        "uri": "https://www.google.com/maps/contrib/107828731257873510152/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVhtYqZxGHxWqoTByuSagGxnysapVjIgBcStMPZ9vfderwDiYGI=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-26T08:58:01.073430398Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xdWRucFNjbEJSUmxaU2NXZEtlVGxEWkRCS01GRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xdWRucFNjbEJSUmxaU2NXZEtlVGxEWkRCS01GRRAB!2m1!1s0x3442abc1e00af799:0x5a7ee6c5bed82cdb"
+    },
+    {
+      "name": "places/ChIJmfcK4MGrQjQR2yzYvsXmflo/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WTWRsZDZaREE0U0RVeVZsUkNkbkJmYm5GU05XYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "價格偏貴。西班牙煙燻臘腸和蒜味蕈菇味道都不錯。不過餅皮吃久了嘴巴很痠。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "價格偏貴。西班牙煙燻臘腸和蒜味蕈菇味道都不錯。不過餅皮吃久了嘴巴很痠。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Shawn Chiang",
+        "uri": "https://www.google.com/maps/contrib/102757680762988203038/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ78cHiWSlnz_oun3ypUS00j35_s-0uWEQ-bilOYVqeb2J_fQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-20T14:21:06.973507339Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WTWRsZDZaREE0U0RVeVZsUkNkbkJmYm5GU05XYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WTWRsZDZaREE0U0RVeVZsUkNkbkJmYm5GU05XYxAB!2m1!1s0x3442abc1e00af799:0x5a7ee6c5bed82cdb"
+    },
+    {
+      "name": "places/ChIJmfcK4MGrQjQR2yzYvsXmflo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Ga1JtZDNaMlp6TlhGc00yTnBjbWQyZUdsWE9WRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "真的很好吃\n好吃到買第二個Pizza\n分享給 一起喝酒的路人甲乙丙丁\n---\n其實這家 Pizza 真的蠻好吃的\n以前在這棟大樓上班時 沒有珍惜\n\n唯二缺點\n外面台虎啤酒不能帶進來\n旁邊還有 我很想要的 Porsche",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "真的很好吃\n好吃到買第二個Pizza\n分享給 一起喝酒的路人甲乙丙丁\n---\n其實這家 Pizza 真的蠻好吃的\n以前在這棟大樓上班時 沒有珍惜\n\n唯二缺點\n外面台虎啤酒不能帶進來\n旁邊還有 我很想要的 Porsche",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Capybara Drunk",
+        "uri": "https://www.google.com/maps/contrib/113076285894555432046/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUgf8eYhHrbk04zpNfJbVjZk9c0I_76e41b0idBC0EbES1SepY=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-01-19T13:04:01.719406930Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Ga1JtZDNaMlp6TlhGc00yTnBjbWQyZUdsWE9WRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Ga1JtZDNaMlp6TlhGc00yTnBjbWQyZUdsWE9WRRAB!2m1!1s0x3442abc1e00af799:0x5a7ee6c5bed82cdb"
+    },
+    {
+      "name": "places/ChIJmfcK4MGrQjQR2yzYvsXmflo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxTVFYbGZWMGxmTTB0WFZHbFFiVEJQZUVGYWNsRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 4,
+      "text": {
+        "text": "2025/07/16 下午內用\n\n因為國泰的優惠，所以想說來這邊換看看披薩，只能說造型一百分，味道就很普通",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2025/07/16 下午內用\n\n因為國泰的優惠，所以想說來這邊換看看披薩，只能說造型一百分，味道就很普通",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "大高助教",
+        "uri": "https://www.google.com/maps/contrib/109484894375743751080/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJby7u8q907I7fLhpO7pmrBZPBMsVwC3qDnJEsc8iuuS2wqyg=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-08-17T04:50:39.055708639Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxTVFYbGZWMGxmTTB0WFZHbFFiVEJQZUVGYWNsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxTVFYbGZWMGxmTTB0WFZHbFFiVEJQZUVGYWNsRRAB!2m1!1s0x3442abc1e00af799:0x5a7ee6c5bed82cdb"
+    }
+  ],
+  "menuForChildren": false
+}

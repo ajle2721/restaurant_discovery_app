@@ -1,0 +1,132 @@
+{
+  "id": "ChIJcTzuDJqpQjQRNXZGU1vYgnA",
+  "types": [
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 8369 1785",
+  "formattedAddress": "100台灣臺北市中正區板溪里晉江街1號",
+  "location": {
+    "latitude": 25.026363099999998,
+    "longitude": 121.5211358
+  },
+  "rating": 4.3,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1949,
+  "displayName": {
+    "text": "晉江茶堂",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJcTzuDJqpQjQRNXZGU1vYgnA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWaE1sQm9aa1F5V25sRk5YazJkRFp4UmpkMmJuYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "位在晉江街口的小平房，裝潢古韻盎然，桌距滿小的，四人小方桌多為古老的裁縫車改造\n因食客絡繹不絕，空間也滿小的，所以室內很吵雜，點過菜後，很快就能上菜\n梅干扣肉@350肉質軟嫩，梅干稍鹹些\n客家春捲@280，量給得滿多的，很酥脆，眾人認這道為cp值最高的一道\n炒柳松菇@220\n客家小炒@250，滿香的，份量不算多\n九層塔蛋@170\n客家麻糬@60(1-2人份)，軟糯柔細，花生粉多又香\n豬油拌飯@25、白飯@20\n整體口感中上，現金收費，無發票載具，未收服務費",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "位在晉江街口的小平房，裝潢古韻盎然，桌距滿小的，四人小方桌多為古老的裁縫車改造\n因食客絡繹不絕，空間也滿小的，所以室內很吵雜，點過菜後，很快就能上菜\n梅干扣肉@350肉質軟嫩，梅干稍鹹些\n客家春捲@280，量給得滿多的，很酥脆，眾人認這道為cp值最高的一道\n炒柳松菇@220\n客家小炒@250，滿香的，份量不算多\n九層塔蛋@170\n客家麻糬@60(1-2人份)，軟糯柔細，花生粉多又香\n豬油拌飯@25、白飯@20\n整體口感中上，現金收費，無發票載具，未收服務費",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lee Andy",
+        "uri": "https://www.google.com/maps/contrib/110027457359587861898/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXVvAfzq_Du99PQwxvCTynT48_I3GaAmxXUDtdquntjgOBmCLE=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-02-26T09:05:59.291884935Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWaE1sQm9aa1F5V25sRk5YazJkRFp4UmpkMmJuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWaE1sQm9aa1F5V25sRk5YazJkRFp4UmpkMmJuYxAB!2m1!1s0x3442a99a0cee3c71:0x7082d85b53467635"
+    },
+    {
+      "name": "places/ChIJcTzuDJqpQjQRNXZGU1vYgnA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGdlFqRTVUR2hDWkcxYWJYQXlhbGw2TUZSaFpuYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "今天朋友聚餐點了六人套餐，招牌紅燒虎掌，甜膩軟嫩口感，蠻好吃，冷泉油雞好好吃，搭配豬油拌飯、蔬菜水蓮、炒菇，吃得飽飽的，餐後還上了酸梅湯、仙草湯、麻糬、酸梅湯，性價比很高耶。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天朋友聚餐點了六人套餐，招牌紅燒虎掌，甜膩軟嫩口感，蠻好吃，冷泉油雞好好吃，搭配豬油拌飯、蔬菜水蓮、炒菇，吃得飽飽的，餐後還上了酸梅湯、仙草湯、麻糬、酸梅湯，性價比很高耶。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "RoseRingHouse",
+        "uri": "https://www.google.com/maps/contrib/115747596906302696012/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI3uHgM-OwpkQYiAPW0eIAujH0el6Gd4lH76y-o7MY7XEbyCg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-03-08T11:26:29.697720674Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGdlFqRTVUR2hDWkcxYWJYQXlhbGw2TUZSaFpuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGdlFqRTVUR2hDWkcxYWJYQXlhbGw2TUZSaFpuYxAB!2m1!1s0x3442a99a0cee3c71:0x7082d85b53467635"
+    },
+    {
+      "name": "places/ChIJcTzuDJqpQjQRNXZGU1vYgnA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WSWJuTnlZbko0WDAxMmJuRnNaWFJ1U1doamMxRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 2,
+      "text": {
+        "text": "餐點價格高份量少 口味有的過鹹（梅干扣肉）有的無味（客家小炒 芙蓉豆腐） 無法稱上好吃\n唯一喜歡的是和風過貓 酸得夠味\n豬油拌飯的飯黏、冷 綠茶麵線也糊在一起\n店家的茶很好喝 裝潢很有氣氛 年輕客群也蠻多\n感覺吃得更多是氛圍跟名氣",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點價格高份量少 口味有的過鹹（梅干扣肉）有的無味（客家小炒 芙蓉豆腐） 無法稱上好吃\n唯一喜歡的是和風過貓 酸得夠味\n豬油拌飯的飯黏、冷 綠茶麵線也糊在一起\n店家的茶很好喝 裝潢很有氣氛 年輕客群也蠻多\n感覺吃得更多是氛圍跟名氣",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "CLARE LEE",
+        "uri": "https://www.google.com/maps/contrib/102550737260352767454/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVUviVZi3s5snc1fUwxaXTd7azmnlIZYGDk8pgPc1XZHamxC2-h=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-23T13:11:08.331532400Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WSWJuTnlZbko0WDAxMmJuRnNaWFJ1U1doamMxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WSWJuTnlZbko0WDAxMmJuRnNaWFJ1U1doamMxRRAB!2m1!1s0x3442a99a0cee3c71:0x7082d85b53467635"
+    },
+    {
+      "name": "places/ChIJcTzuDJqpQjQRNXZGU1vYgnA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aRk1HdGtkREZ3TkMxWlREUlFNVUpTZW5selRXYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "踏入晉江茶堂，像極了推開兒時阿嬤家的大門。在這幢充滿歲月痕跡的老式平房建築裡，沒有華麗的裝潢，只有質樸的木桌木椅和滿室的飯菜香。儘管空間不大，卻巧妙地擺了不少桌位，座無虛席的熱鬧感，都是跟我們一樣慕名而來尋找正宗客家菜的食客。\n• 梅干扣肉： 扣肉燉得極其軟爛入味，肥腴而不膩，梅干菜的鹹香完美滲透，光這道菜就能讓人多扒兩碗飯。\n• 油雞與山蘇： 油雞皮Q肉嫩，帶著迷人的皮凍；山蘇則保持了清脆鮮綠，火侯拿捏得恰到好處。\n• 四季豆： 這道的做法跟想像中不大一樣，多了一層驚喜的層次感。\n• 擂茶麻糬： 絕對是完美的句點！麻糬Q彈沾上香濃花生粉。最特別的是擂茶，店家貼心地附上一支**「仙渣糖做的攪拌棒」**，隨著攪拌過程，仙渣的微酸漸漸融入茶香，既有趣又解膩，讓人回味無窮。\n在這裡吃飯，吃的不僅是美味，更是一份在都市叢林中難得見到的恬靜與親切。\n\n強烈建議一定要訂位，不然不知道要等多久，這附近有些停車場但很容易滿位，停車要有心理準備，餐廳附近真的就是小巷弄，沒注意很容易錯過，僅收現金",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "踏入晉江茶堂，像極了推開兒時阿嬤家的大門。在這幢充滿歲月痕跡的老式平房建築裡，沒有華麗的裝潢，只有質樸的木桌木椅和滿室的飯菜香。儘管空間不大，卻巧妙地擺了不少桌位，座無虛席的熱鬧感，都是跟我們一樣慕名而來尋找正宗客家菜的食客。\n• 梅干扣肉： 扣肉燉得極其軟爛入味，肥腴而不膩，梅干菜的鹹香完美滲透，光這道菜就能讓人多扒兩碗飯。\n• 油雞與山蘇： 油雞皮Q肉嫩，帶著迷人的皮凍；山蘇則保持了清脆鮮綠，火侯拿捏得恰到好處。\n• 四季豆： 這道的做法跟想像中不大一樣，多了一層驚喜的層次感。\n• 擂茶麻糬： 絕對是完美的句點！麻糬Q彈沾上香濃花生粉。最特別的是擂茶，店家貼心地附上一支**「仙渣糖做的攪拌棒」**，隨著攪拌過程，仙渣的微酸漸漸融入茶香，既有趣又解膩，讓人回味無窮。\n在這裡吃飯，吃的不僅是美味，更是一份在都市叢林中難得見到的恬靜與親切。\n\n強烈建議一定要訂位，不然不知道要等多久，這附近有些停車場但很容易滿位，停車要有心理準備，餐廳附近真的就是小巷弄，沒注意很容易錯過，僅收現金",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Kate Rosita",
+        "uri": "https://www.google.com/maps/contrib/114838456234075544138/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXuVc68ncmeXsyg6M-b-46pRclKejabUAzmZG8TYa772EBQeG6kuQ=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-02-06T08:04:02.848700240Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aRk1HdGtkREZ3TkMxWlREUlFNVUpTZW5selRXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aRk1HdGtkREZ3TkMxWlREUlFNVUpTZW5selRXYxAB!2m1!1s0x3442a99a0cee3c71:0x7082d85b53467635"
+    },
+    {
+      "name": "places/ChIJcTzuDJqpQjQRNXZGU1vYgnA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCWVNHNTBkRmhOUVdvMFZrWjJRak52Vm14Sk0wRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 3,
+      "text": {
+        "text": "😀​【食記評論】晉江茶堂：藏身北市古亭老宅的客家家常味\n​位於中正區晉江街口的「晉江茶堂」，是一家極具歲月痕跡的客家料理餐廳。對於許多老饕而言，這裡吃的不僅是味道，更是一份在都市叢林中難得見到的復古情懷。\n\n​關於菜色與風味（太太評價 70 分的共鳴）：\n您太太對菜色給予 70 分的評價，其實相當精準且中肯。晉江茶堂的料理風格走的是「傳統家常」路線，並非精緻或驚艷的高級粵菜或現代客家菜。\n​熱門推薦： 這裡最受好評的莫過於「冷泉油雞」，口感Q彈、雞皮帶有凍質的層次感；「梅汁魚」也是另一道招牌，酸甜解膩。此外，「客家小炒」與「炒板條」雖然油香十足，但對於習慣現代少油健康口味的人來說，可能會覺得略顯厚重。\n\n​口感分析： 正如 70 分的評價所暗示，這裡的菜餚紮實且下飯，對於喜歡傳統客家「鹹、香、肥」精髓的人來說是 85 分以上，但若追求食材細緻度或創意的食客，可能會覺得口味較為單一、缺乏變化。\n\n​獨特的環境氛圍：\n晉江茶堂最大的亮點在於其老宅環境。餐廳建築本身是一棟日治時期的老屋，低矮的木質橫樑、昏黃的燈光，搭配充滿古意的紅磚與舊家具，營造出一種「在老家吃飯」的親切感。這種環境非常適合放鬆聚餐，但空間較為狹窄擁擠，且因為是老建築，無障礙設施較為缺乏。\n\n​特色體驗：擂茶與點心\n餐後，這裡會附上酸甜的仙草或蜜漬紅豆等甜點，許多人也會特地來此體驗「北埔擂茶」。親手研磨堅果、茶葉與穀物的過程，為這餐增加了不少樂趣與文化體驗。\n\n​總結建議：\n如果您追求的是驚天動地的美味，這裡或許只有 70 分；但如果您在找的是一個交通便利（近古亭捷運站）、能感受老建築溫度、且能以平實價格品嚐家常菜的地方，晉江茶堂仍然是台北市中心極具代表性的客家餐館。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "😀​【食記評論】晉江茶堂：藏身北市古亭老宅的客家家常味\n​位於中正區晉江街口的「晉江茶堂」，是一家極具歲月痕跡的客家料理餐廳。對於許多老饕而言，這裡吃的不僅是味道，更是一份在都市叢林中難得見到的復古情懷。\n\n​關於菜色與風味（太太評價 70 分的共鳴）：\n您太太對菜色給予 70 分的評價，其實相當精準且中肯。晉江茶堂的料理風格走的是「傳統家常」路線，並非精緻或驚艷的高級粵菜或現代客家菜。\n​熱門推薦： 這裡最受好評的莫過於「冷泉油雞」，口感Q彈、雞皮帶有凍質的層次感；「梅汁魚」也是另一道招牌，酸甜解膩。此外，「客家小炒」與「炒板條」雖然油香十足，但對於習慣現代少油健康口味的人來說，可能會覺得略顯厚重。\n\n​口感分析： 正如 70 分的評價所暗示，這裡的菜餚紮實且下飯，對於喜歡傳統客家「鹹、香、肥」精髓的人來說是 85 分以上，但若追求食材細緻度或創意的食客，可能會覺得口味較為單一、缺乏變化。\n\n​獨特的環境氛圍：\n晉江茶堂最大的亮點在於其老宅環境。餐廳建築本身是一棟日治時期的老屋，低矮的木質橫樑、昏黃的燈光，搭配充滿古意的紅磚與舊家具，營造出一種「在老家吃飯」的親切感。這種環境非常適合放鬆聚餐，但空間較為狹窄擁擠，且因為是老建築，無障礙設施較為缺乏。\n\n​特色體驗：擂茶與點心\n餐後，這裡會附上酸甜的仙草或蜜漬紅豆等甜點，許多人也會特地來此體驗「北埔擂茶」。親手研磨堅果、茶葉與穀物的過程，為這餐增加了不少樂趣與文化體驗。\n\n​總結建議：\n如果您追求的是驚天動地的美味，這裡或許只有 70 分；但如果您在找的是一個交通便利（近古亭捷運站）、能感受老建築溫度、且能以平實價格品嚐家常菜的地方，晉江茶堂仍然是台北市中心極具代表性的客家餐館。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Michael",
+        "uri": "https://www.google.com/maps/contrib/108666647771121399429/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX2XSJIhIMQO63QxB0HB4qff-Y-xC7cb8hIi1e6q8azGWq2I9s=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-03T09:34:22.729435748Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCWVNHNTBkRmhOUVdvMFZrWjJRak52Vm14Sk0wRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCWVNHNTBkRmhOUVdvMFZrWjJRak52Vm14Sk0wRRAB!2m1!1s0x3442a99a0cee3c71:0x7082d85b53467635"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

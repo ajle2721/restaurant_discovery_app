@@ -1,0 +1,129 @@
+{
+  "id": "ChIJybpQZV2vQjQRGEIYQ6T7QOk",
+  "types": [
+    "italian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "111台灣臺北市士林區福佳里承德路五段55號2樓",
+  "location": {
+    "latitude": 25.098117499999997,
+    "longitude": 121.515366
+  },
+  "rating": 4.5,
+  "userRatingCount": 183,
+  "displayName": {
+    "text": "義品院義大利麵",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJybpQZV2vQjQRGEIYQ6T7QOk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwd2NqSkpSbFZIZEZSNWJtWTVRbkZ3UmtsRlVtYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 1,
+      "text": {
+        "text": "這是什麼鬼，難吃已經不能形容，小孩完全不想吃，大人想幫忙清也是一口無言，拜託，千萬不要買，這裡也沒一家能吃，四海遊龍、漢堡王至少跟外面一樣",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這是什麼鬼，難吃已經不能形容，小孩完全不想吃，大人想幫忙清也是一口無言，拜託，千萬不要買，這裡也沒一家能吃，四海遊龍、漢堡王至少跟外面一樣",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Joyce Chen",
+        "uri": "https://www.google.com/maps/contrib/118442819957884445210/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK6QFg_cqUlhNdQIjC9PDsWrfHP1e3vyN_zOhILxiyqfUY49w=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-12-12T05:37:00.689405923Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwd2NqSkpSbFZIZEZSNWJtWTVRbkZ3UmtsRlVtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwd2NqSkpSbFZIZEZSNWJtWTVRbkZ3UmtsRlVtYxAB!2m1!1s0x3442af5d6550bac9:0xe940fba443184218"
+    },
+    {
+      "name": "places/ChIJybpQZV2vQjQRGEIYQ6T7QOk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WWk0yWmthbVJ3YjJWak1GTnpWMEV6TlVWWU4yYxAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 1,
+      "text": {
+        "text": "看照片還可以，所以就點餐了，點完我等不到30秒想說先去拿姪女的餐點，結果櫃檯小姐就說「小姐，妳的餐點好了！」\n我真的問號問號，根本沒有用心的一道餐，不到一分鐘就可以上餐？\n\n老實說我真的不知道我在吃什麼⋯吃的蠻痛苦的重點是還不便宜！然後配了一個蛋花湯，那整排的餐廳都是這種蛋花湯，我看應該都是一起煮的吧！！🔥",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "看照片還可以，所以就點餐了，點完我等不到30秒想說先去拿姪女的餐點，結果櫃檯小姐就說「小姐，妳的餐點好了！」\n我真的問號問號，根本沒有用心的一道餐，不到一分鐘就可以上餐？\n\n老實說我真的不知道我在吃什麼⋯吃的蠻痛苦的重點是還不便宜！然後配了一個蛋花湯，那整排的餐廳都是這種蛋花湯，我看應該都是一起煮的吧！！🔥",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "yvonne shih",
+        "uri": "https://www.google.com/maps/contrib/101595932473858270373/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVxySFEG1bJ70zgMoO13cu7smnamRrkLgnBfYYJmsLNCGYkwmBY=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-07-23T13:00:21.460801797Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WWk0yWmthbVJ3YjJWak1GTnpWMEV6TlVWWU4yYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WWk0yWmthbVJ3YjJWak1GTnpWMEV6TlVWWU4yYxAB!2m1!1s0x3442af5d6550bac9:0xe940fba443184218"
+    },
+    {
+      "name": "places/ChIJybpQZV2vQjQRGEIYQ6T7QOk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wNWIwNTJlRTVZTFhkb2JEZE1PR3g1TkZadlIxRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 1,
+      "text": {
+        "text": "到商家購買豬排焗烤飯和額外單點布丁+養樂多$40元 ，豬排焗烤飯沒味道就算了，\n重點根本沒有附布丁的湯匙\n問櫃檯阿姨，怎麼沒附布丁的湯匙？ 她直接回我湯匙沒有提供給客人，我問她這樣小朋友要怎麼吃？\n結果櫃檯阿姨很不情願的打開旁邊一盒餐具盒，裡面一堆湯匙（包含有大湯匙、兒童餐具的小湯匙）很不甘願的拿了一支兒童小湯匙給我，而且態度極度差🙄！\n不懂為何這種商家也配開在兒童新樂園，是不是需要員工訓練？",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "到商家購買豬排焗烤飯和額外單點布丁+養樂多$40元 ，豬排焗烤飯沒味道就算了，\n重點根本沒有附布丁的湯匙\n問櫃檯阿姨，怎麼沒附布丁的湯匙？ 她直接回我湯匙沒有提供給客人，我問她這樣小朋友要怎麼吃？\n結果櫃檯阿姨很不情願的打開旁邊一盒餐具盒，裡面一堆湯匙（包含有大湯匙、兒童餐具的小湯匙）很不甘願的拿了一支兒童小湯匙給我，而且態度極度差🙄！\n不懂為何這種商家也配開在兒童新樂園，是不是需要員工訓練？",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "蔡晴安",
+        "uri": "https://www.google.com/maps/contrib/115120674313164667205/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLJ8Fd0aEKOylsQcXR5ALV0jhprsmE8EXisefQtSrFyGAxkBA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-15T16:11:06.183742815Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wNWIwNTJlRTVZTFhkb2JEZE1PR3g1TkZadlIxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wNWIwNTJlRTVZTFhkb2JEZE1PR3g1TkZadlIxRRAB!2m1!1s0x3442af5d6550bac9:0xe940fba443184218"
+    },
+    {
+      "name": "places/ChIJybpQZV2vQjQRGEIYQ6T7QOk/reviews/ChdDSUhNMG9nS0VLbUwwYVM2Z3NxLTdRRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 2,
+      "text": {
+        "text": "薯條 雞塊 吃起來乾乾柴柴 連小朋友都不想吃 多多布丁都是味全的 不過現場廣告圖片看起來很好吃⋯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "薯條 雞塊 吃起來乾乾柴柴 連小朋友都不想吃 多多布丁都是味全的 不過現場廣告圖片看起來很好吃⋯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Patrick Chun-Hua Wu",
+        "uri": "https://www.google.com/maps/contrib/102525858971974615530/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ3Mbks0Pdqg_Gf0aSDzegJ7f6tN44byWtUsBHg-Sx488pjqg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-05-24T03:54:44.738664Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VLbUwwYVM2Z3NxLTdRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VLbUwwYVM2Z3NxLTdRRRAB!2m1!1s0x3442af5d6550bac9:0xe940fba443184218"
+    },
+    {
+      "name": "places/ChIJybpQZV2vQjQRGEIYQ6T7QOk/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkODV6MzF3RRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 1,
+      "text": {
+        "text": "搞不懂市立兒童樂園的餐廳是怎樣⋯外包出去可以都不管嗎？每一間餐廳都很團結的爛⋯餐點200上下卻爛的比學生餐廳還糟糕\n\n這是一份雞肉焗烤餐249，毫無誠意，白飯加上稀到不行的奶風味湯汁、灑上起司，用噴槍噴一噴⋯起司少的可憐，裡面有很生的洋蔥，到底哪裏跟義式有關？配湯是海帶湯可以再更隨便點，\n\n這樣的驗收為何會過？\n市立的設施可以好好管理嗎？",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "搞不懂市立兒童樂園的餐廳是怎樣⋯外包出去可以都不管嗎？每一間餐廳都很團結的爛⋯餐點200上下卻爛的比學生餐廳還糟糕\n\n這是一份雞肉焗烤餐249，毫無誠意，白飯加上稀到不行的奶風味湯汁、灑上起司，用噴槍噴一噴⋯起司少的可憐，裡面有很生的洋蔥，到底哪裏跟義式有關？配湯是海帶湯可以再更隨便點，\n\n這樣的驗收為何會過？\n市立的設施可以好好管理嗎？",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "何大燕",
+        "uri": "https://www.google.com/maps/contrib/116110069536648351917/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjULvRQQiRkoPeB5LqDaeud08Tq0Smcn_PpiKEiJnpycEumJppX4=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2024-02-18T06:21:27.135794Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNkODV6MzF3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNkODV6MzF3RRAB!2m1!1s0x3442af5d6550bac9:0xe940fba443184218"
+    }
+  ],
+  "goodForChildren": true
+}

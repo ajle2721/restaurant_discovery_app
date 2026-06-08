@@ -1,0 +1,52 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "很多張桌子都鄰近廁所門口，我對於這種配置不適太喜歡，常常挑不到自己喜歡的座位可坐，只能勉強將就。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "No menu for children (官方標記：不提供兒童餐)",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "Good for children (官方標記：適合兒童)",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "No menu for children (官方標記：不提供兒童餐)",
+        "很多張桌子都鄰近廁所門口，我對於這種配置不適太喜歡，常常挑不到自己喜歡的座位可坐，只能勉強將就。",
+        "Good for children (官方標記：適合兒童)"
+    ],
+    "generated_summary": "新天堂義大利廚房經官方標記為適合兒童用餐，但店內不提供兒童餐。環境方面，評論指出店內空間配置較為擁擠，部分座位鄰近廁所，用餐空間感較為受限。目前評論中未提及兒童椅、餐具或尿布台等設施，建議前往前可先向店家確認。",
+    "card_summary": ""
+}

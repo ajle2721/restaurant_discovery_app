@@ -1,0 +1,130 @@
+{
+  "id": "ChIJ4dxcbACrQjQR4-lpNc0dsyo",
+  "types": [
+    "breakfast_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 972 719 338",
+  "formattedAddress": "115台灣臺北市南港區新富里富康街28-1號",
+  "location": {
+    "latitude": 25.053824,
+    "longitude": 121.61712199999998
+  },
+  "rating": 5,
+  "userRatingCount": 30,
+  "displayName": {
+    "text": "晨蒔早午餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ4dxcbACrQjQR4-lpNc0dsyo/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OaVdTMVNjWFZMWWxZeFlWVXhTRFZ0YVhwa1pGRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "早餐不錯，點餐方式是加店家的line帳號打字點餐，蠻有效率的，也不怕做錯餐點",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "早餐不錯，點餐方式是加店家的line帳號打字點餐，蠻有效率的，也不怕做錯餐點",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "TAC",
+        "uri": "https://www.google.com/maps/contrib/108809827038104687933/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVDd20u1S63XIJu1yEYLDJ0WSfkUT-nBd51mbA7FKo8NQebGtQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-22T19:03:43.411907274Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OaVdTMVNjWFZMWWxZeFlWVXhTRFZ0YVhwa1pGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OaVdTMVNjWFZMWWxZeFlWVXhTRFZ0YVhwa1pGRRAB!2m1!1s0x3442ab006c5cdce1:0x2ab31dcd3569e9e3"
+    },
+    {
+      "name": "places/ChIJ4dxcbACrQjQR4-lpNc0dsyo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pjeFpYb3plVWRyYlZJeWNGaFpUWFp1U20xTU4zYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "勤務的這3天都是來這裡購買早餐，餐點好吃老闆很好相處，謝謝老闆這幾天的照顧，如果之後有來會再光顧，餐點真的好好吃環境很乾淨",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "勤務的這3天都是來這裡購買早餐，餐點好吃老闆很好相處，謝謝老闆這幾天的照顧，如果之後有來會再光顧，餐點真的好好吃環境很乾淨",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "提摩仔",
+        "uri": "https://www.google.com/maps/contrib/101077413132822905315/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUKxQC2taJpNYs6m-01dFaHNtp0VUzDnTNmR6MbPiL6ZcO6zOY-AA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-10T23:56:14.069889923Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pjeFpYb3plVWRyYlZJeWNGaFpUWFp1U20xTU4zYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pjeFpYb3plVWRyYlZJeWNGaFpUWFp1U20xTU4zYxAB!2m1!1s0x3442ab006c5cdce1:0x2ab31dcd3569e9e3"
+    },
+    {
+      "name": "places/ChIJ4dxcbACrQjQR4-lpNc0dsyo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWblh6VmxVV0YwYzBkTVJtMTJiWFZ5Y0dkNFNHYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點好吃又用心服務又好😍 老闆和老闆娘超熱情、超親切又超好聊 🙌 每次來都很放鬆、很舒服～南港早午餐首選就是它！💯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點好吃又用心服務又好😍 老闆和老闆娘超熱情、超親切又超好聊 🙌 每次來都很放鬆、很舒服～南港早午餐首選就是它！💯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Tiffany Chiang",
+        "uri": "https://www.google.com/maps/contrib/102351626533855854050/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVRU-Jx9cB85uz2x7clYEjbFwLH0cYMtmNm2FUAHGc8syA3vv4=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-24T04:34:23.469143121Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWblh6VmxVV0YwYzBkTVJtMTJiWFZ5Y0dkNFNHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWblh6VmxVV0YwYzBkTVJtMTJiWFZ5Y0dkNFNHYxAB!2m1!1s0x3442ab006c5cdce1:0x2ab31dcd3569e9e3"
+    },
+    {
+      "name": "places/ChIJ4dxcbACrQjQR4-lpNc0dsyo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sZlREUjVWelYyT0ZoS2RqTnFSV1UwYlZKdllVRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "獲得朋朋極大肯定！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "獲得朋朋極大肯定！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "賽",
+        "uri": "https://www.google.com/maps/contrib/114611541053922618831/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI6zUU4QOJooLCHITCh3ol2epysPneiUcqOtWgrV_Z_OM8NaQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-26T08:11:58.677335334Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sZlREUjVWelYyT0ZoS2RqTnFSV1UwYlZKdllVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sZlREUjVWelYyT0ZoS2RqTnFSV1UwYlZKdllVRRAB!2m1!1s0x3442ab006c5cdce1:0x2ab31dcd3569e9e3"
+    },
+    {
+      "name": "places/ChIJ4dxcbACrQjQR4-lpNc0dsyo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KcFZITm5kMlF4WkhwYVRGazJhbWh3WmtGWFQxRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "老闆娘態度很好，餐點很好吃\n大冰奶推推",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "老闆娘態度很好，餐點很好吃\n大冰奶推推",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "TzuNing",
+        "uri": "https://www.google.com/maps/contrib/109197704078576054586/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW0YEaHYBmBaQUIVgBcYScAqoMLk2Y4SgAcQt1tSDGBwKo_Sl67=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-03T04:51:11.078169952Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KcFZITm5kMlF4WkhwYVRGazJhbWh3WmtGWFQxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KcFZITm5kMlF4WkhwYVRGazJhbWh3WmtGWFQxRRAB!2m1!1s0x3442ab006c5cdce1:0x2ab31dcd3569e9e3"
+    }
+  ],
+  "goodForChildren": true
+}

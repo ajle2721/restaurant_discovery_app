@@ -180,8 +180,8 @@ def build_record(place_id):
         "address": formatted_address,
         "formatted_address": formatted_address,
         "district": extract_district(formatted_address),
-        "rating": str(resp.get("rating", "")),
-        "user_ratings_total": resp.get("userRatingCount", 0),
+        "rating": str(resp.get("rating") if resp.get("rating") is not None else ""),
+        "user_ratings_total": resp.get("userRatingCount") if resp.get("userRatingCount") is not None else 0,
         "price_level": price_level,
         "cuisine": cuisine,
         "latitude": loc.get("latitude", None),
@@ -195,7 +195,7 @@ def build_record(place_id):
         "parent_friendly_score": ai_rev.get("parent_friendly_score", 0),
         "parent_friendly_level": ai_rev.get("parent_friendly_level", "資訊不足"),
         "reason": ai_rev.get("reason", "綜合評估"),
-        "reviews": []  # Strip reviews to keep bundle lightweight
+        "reviews": resp.get("reviews") if isinstance(resp.get("reviews"), list) else []
     }
 
 def main():

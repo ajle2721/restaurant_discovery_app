@@ -1,0 +1,138 @@
+{
+  "id": "ChIJ97_CUYKpQjQRoiw8x6BqopA",
+  "types": [
+    "taiwanese_restaurant",
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2396 1133",
+  "formattedAddress": "106台灣臺北市大安區永康里麗水街1之3號",
+  "location": {
+    "latitude": 25.0324667,
+    "longitude": 121.52914069999999
+  },
+  "rating": 4.4,
+  "websiteUri": "https://facebook.com/%E8%B1%90%E7%9B%9B%E9%A3%9F%E5%A0%82-179901498717004/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 2527,
+  "displayName": {
+    "text": "豐盛食堂",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Housemade, straightforward offerings are served in this down-to-earth restaurant.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ97_CUYKpQjQRoiw8x6BqopA/reviews/Ci9DQUlRQUNvZENodHljRjlvT205bGJqUlZWRTR5UzNwNVduRm5aR3hTWjBKRVdWRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "食物好吃\n雖然別人推薦的都吃不到\n但自己點了酸菜蚵仔湯、墨魚香腸、紅糟松阪、農家小炒、炒水蓮都不錯吃\n三個人四菜一湯1950元\n雖然餐期沒有拼翻桌\n但確實收拾的速度也是非常快\n（可能想早點下班）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "食物好吃\n雖然別人推薦的都吃不到\n但自己點了酸菜蚵仔湯、墨魚香腸、紅糟松阪、農家小炒、炒水蓮都不錯吃\n三個人四菜一湯1950元\n雖然餐期沒有拼翻桌\n但確實收拾的速度也是非常快\n（可能想早點下班）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "JimJim Hung",
+        "uri": "https://www.google.com/maps/contrib/118136675224750098373/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXWXYlAVZvgfogimlsk5eXezTBuHqwiAq_8GtCpb28GIGOQ7F-d=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-03-05T00:17:00.147035862Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205bGJqUlZWRTR5UzNwNVduRm5aR3hTWjBKRVdWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205bGJqUlZWRTR5UzNwNVduRm5aR3hTWjBKRVdWRRAB!2m1!1s0x3442a98251c2bff7:0x90a26aa0c73c2ca2"
+    },
+    {
+      "name": "places/ChIJ97_CUYKpQjQRoiw8x6BqopA/reviews/Ci9DQUlRQUNvZENodHljRjlvT201TVlVaHhWSE5VYmpoMVJVcDNjWEpmVVY5clIyYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "住在附近很久了，每次經過，用餐時間都是客滿，今天第一次光顧，東西真的是出乎意料的好吃！\n典型的台菜，但不死鹹也不會太油膩，不配飯光吃菜都很OK，算是清爽版經典台菜，值得再次光顧！因有些想吃的菜今天沒有吃到～\n用餐時間一定要先訂位，或是避開尖峰時間。菜單只有櫃檯才有，而且有照片可以參考，價位也可以接受，我們四個人點了七道菜，約 $2000 .",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "住在附近很久了，每次經過，用餐時間都是客滿，今天第一次光顧，東西真的是出乎意料的好吃！\n典型的台菜，但不死鹹也不會太油膩，不配飯光吃菜都很OK，算是清爽版經典台菜，值得再次光顧！因有些想吃的菜今天沒有吃到～\n用餐時間一定要先訂位，或是避開尖峰時間。菜單只有櫃檯才有，而且有照片可以參考，價位也可以接受，我們四個人點了七道菜，約 $2000 .",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Wendy Wen",
+        "uri": "https://www.google.com/maps/contrib/113144132087121081592/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWp0o6RRVYrLt1_o2G-FwTKxA_K-aby60WAbXsyaxqWMzKKPcUn=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-06T12:56:59.800424721Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201TVlVaHhWSE5VYmpoMVJVcDNjWEpmVVY5clIyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201TVlVaHhWSE5VYmpoMVJVcDNjWEpmVVY5clIyYxAB!2m1!1s0x3442a98251c2bff7:0x90a26aa0c73c2ca2"
+    },
+    {
+      "name": "places/ChIJ97_CUYKpQjQRoiw8x6BqopA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toR1ozRjFSVVk0VlVOSWFURlhkMXBKYVdsTlYxRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "2026.1.4中午12點半來訪。需預先訂位。\n美味的創意台菜餐廳，特別的是每日菜單展示於櫃台，需至櫃台點菜，若無看得懂中文的朋友需要詢問店員。\n推薦菜色：白斬雞、香煎豬肝、炒大豆苗、農家小炒、豬油拌飯等。\n氣氛佳，適合多人聚餐聊天。\n🚻 內有免費洗手間。\n🅿️ 無提供停車位，需搜尋附近停車場。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2026.1.4中午12點半來訪。需預先訂位。\n美味的創意台菜餐廳，特別的是每日菜單展示於櫃台，需至櫃台點菜，若無看得懂中文的朋友需要詢問店員。\n推薦菜色：白斬雞、香煎豬肝、炒大豆苗、農家小炒、豬油拌飯等。\n氣氛佳，適合多人聚餐聊天。\n🚻 內有免費洗手間。\n🅿️ 無提供停車位，需搜尋附近停車場。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Val Lee",
+        "uri": "https://www.google.com/maps/contrib/109076026872754204388/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWi8ImW3rhL8F0dnJ-eNJFyRSUiI31l7w4c5Jdu2V02rPeCdMeGQA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-04T08:59:39.245403927Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toR1ozRjFSVVk0VlVOSWFURlhkMXBKYVdsTlYxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toR1ozRjFSVVk0VlVOSWFURlhkMXBKYVdsTlYxRRAB!2m1!1s0x3442a98251c2bff7:0x90a26aa0c73c2ca2"
+    },
+    {
+      "name": "places/ChIJ97_CUYKpQjQRoiw8x6BqopA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOdVZEZENiRkZhWkVSQ2RVaDRjRFJaU0hwYVRFRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "因為要去聽演奏會，所以朋友選定這家餐廳，雖然沒有紙本的菜單，但從第一道菜上桌後，後面的菜上得也不慢，一道道接著吃吃得很爽快。\n店內服務超好，上菜收盤一切都精準小心，讓我們覺得賓至如歸。\n大推大推👍🏻👍🏻👍🏻",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "因為要去聽演奏會，所以朋友選定這家餐廳，雖然沒有紙本的菜單，但從第一道菜上桌後，後面的菜上得也不慢，一道道接著吃吃得很爽快。\n店內服務超好，上菜收盤一切都精準小心，讓我們覺得賓至如歸。\n大推大推👍🏻👍🏻👍🏻",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Zoe Yang",
+        "uri": "https://www.google.com/maps/contrib/106090047904244078188/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV0NXnYwGIgQmT9X7OB3CWi20qUscwrbBdkeXOdoNam88e2IM9Reg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-11T10:03:22.174490495Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOdVZEZENiRkZhWkVSQ2RVaDRjRFJaU0hwYVRFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOdVZEZENiRkZhWkVSQ2RVaDRjRFJaU0hwYVRFRRAB!2m1!1s0x3442a98251c2bff7:0x90a26aa0c73c2ca2"
+    },
+    {
+      "name": "places/ChIJ97_CUYKpQjQRoiw8x6BqopA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OWFVIQjVWbW90TFZwNmMwTmZhbXRSZDNrMVVIYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "熱情的店員很加分！看著他們揮汗如雨卻精準地介紹著「白斬雞」的鮮美，或是「大豆苗」的翠綠，那種熱鬧的氣氛在空氣中流動。\n\n送餐時當那一碗閃爍著琥珀色光澤的「豬油拌飯」上桌，配上鑊氣十足的「農家小炒」，我們發現，對於「美味」的共鳴不需言喻。這裡非常適合帶著一群朋友，在歡笑聲中探索台式創意的深度。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "熱情的店員很加分！看著他們揮汗如雨卻精準地介紹著「白斬雞」的鮮美，或是「大豆苗」的翠綠，那種熱鬧的氣氛在空氣中流動。\n\n送餐時當那一碗閃爍著琥珀色光澤的「豬油拌飯」上桌，配上鑊氣十足的「農家小炒」，我們發現，對於「美味」的共鳴不需言喻。這裡非常適合帶著一群朋友，在歡笑聲中探索台式創意的深度。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "南爵訓練「早洩專業訓練、陰莖硬度強化訓練」",
+        "uri": "https://www.google.com/maps/contrib/105749045054221721953/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV5MGPF62xCs7sVmvjNR82vfpt4lPNoqm_oWK6gF1EUIQT5Ihc=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-01-23T10:56:31.175303832Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OWFVIQjVWbW90TFZwNmMwTmZhbXRSZDNrMVVIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OWFVIQjVWbW90TFZwNmMwTmZhbXRSZDNrMVVIYxAB!2m1!1s0x3442a98251c2bff7:0x90a26aa0c73c2ca2"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

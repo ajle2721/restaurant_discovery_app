@@ -1,0 +1,53 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "No menu for children (官方標記：不提供兒童餐)",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "Good for children (官方標記：適合兒童)",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Yes",
+        "evidence": "地下室的包廂座位超級涼快",
+        "confidence": 0.9
+    },
+    "has_tableware": {
+        "result": "No",
+        "evidence": "同桌有小朋友, 卻沒主動給兒童餐具, 也沒有給普通餐具, 還得等我們要求.",
+        "confidence": 0.9
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "同桌有小朋友, 卻沒主動給兒童餐具, 也沒有給普通餐具, 還得等我們要求.",
+        "No menu for children (官方標記：不提供兒童餐)",
+        "Good for children (官方標記：適合兒童)",
+        "地下室的包廂座位超級涼快"
+    ],
+    "generated_summary": "彭家園雖然被標記為適合兒童，但店內並不提供兒童餐，且服務上對於兒童餐具的提供較為被動，需主動向店員索取。店內設有包廂座位，環境相對舒適，但整體親子友善設施（如兒童椅、尿布台、遊戲區）資訊不明，建議家長前往前先與店家確認需求。",
+    "card_summary": ""
+}

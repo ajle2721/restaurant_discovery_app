@@ -1,0 +1,135 @@
+{
+  "id": "ChIJYXvvHi-pQjQREHtYHxKZuf4",
+  "types": [
+    "coffee_shop",
+    "cafe",
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2341 0999",
+  "formattedAddress": "106台灣臺北市大安區龍安里金華街164巷5號",
+  "location": {
+    "latitude": 25.029203,
+    "longitude": 121.53069199999999
+  },
+  "rating": 4.1,
+  "websiteUri": "https://m.facebook.com/lespiccola/?locale2=zh_TW",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1399,
+  "displayName": {
+    "text": "Les Piccola",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJYXvvHi-pQjQREHtYHxKZuf4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pNMVdsTXdVRzU1YUVOeWFTMXlYMGh0ZFhOWFZIYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 3,
+      "text": {
+        "text": "店外的雜草早已叢生，年久未修的感覺，雖然店內沒什麼問題，但外觀真真會讓人稍卻步，與過往查詢的照片有蠻大的落差，好險當然去天氣不差，有太陽光灑進店，較有朝氣。\n餐點部分中規中矩，不雷。蘋果派問店員是否有肉桂味店員回覆沒有惟上餐後肉桂味撲鼻～有收10%服務費，建議可以先訂位，還是有人會撲空喔～\n\n🌟布拉塔筆管麵$380\n🌟煙燻鴨胸麵$380\n🌟香蕉草莓冰沙$180\n🌟蘋果派$150",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店外的雜草早已叢生，年久未修的感覺，雖然店內沒什麼問題，但外觀真真會讓人稍卻步，與過往查詢的照片有蠻大的落差，好險當然去天氣不差，有太陽光灑進店，較有朝氣。\n餐點部分中規中矩，不雷。蘋果派問店員是否有肉桂味店員回覆沒有惟上餐後肉桂味撲鼻～有收10%服務費，建議可以先訂位，還是有人會撲空喔～\n\n🌟布拉塔筆管麵$380\n🌟煙燻鴨胸麵$380\n🌟香蕉草莓冰沙$180\n🌟蘋果派$150",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yunchen",
+        "uri": "https://www.google.com/maps/contrib/106786853771761015575/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJkIVNEe9y7j2N27l2WNFRCubD5loQZESGumVJ46aWpomikSwg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-13T06:35:20.697556077Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pNMVdsTXdVRzU1YUVOeWFTMXlYMGh0ZFhOWFZIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pNMVdsTXdVRzU1YUVOeWFTMXlYMGh0ZFhOWFZIYxAB!2m1!1s0x3442a92f1eef7b61:0xfeb999121f587b10"
+    },
+    {
+      "name": "places/ChIJYXvvHi-pQjQREHtYHxKZuf4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwd2NVOUJXbXhFVlZnM1pGQndjRzE2T0ZseVdVRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "點鴨胸義大利麵+主廚套餐\n吃起來真的很不錯，感受的出來食材都非常的新鮮\n吃完那一顆起司其實就蠻飽的\n鴨胸義大利麵有讓我驚艷鴨胸切片，還有彩虹代表真的是品質非常好\n只是後來回家之後就比較膩有點可惜\n餐後的蘋果派也不錯，只是天氣太冷了，後來沒有吃冰淇淋 抱歉\n偶爾來吃吃或約會還是可以的\n應該是地點的關係，所以價格比較高",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點鴨胸義大利麵+主廚套餐\n吃起來真的很不錯，感受的出來食材都非常的新鮮\n吃完那一顆起司其實就蠻飽的\n鴨胸義大利麵有讓我驚艷鴨胸切片，還有彩虹代表真的是品質非常好\n只是後來回家之後就比較膩有點可惜\n餐後的蘋果派也不錯，只是天氣太冷了，後來沒有吃冰淇淋 抱歉\n偶爾來吃吃或約會還是可以的\n應該是地點的關係，所以價格比較高",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Betty Liang",
+        "uri": "https://www.google.com/maps/contrib/111413289189375082788/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUZ_uSmkpTlz7qgrDmnOec9PHXqrXMQjwB1UYMBl2mnBrkx9H8yZg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-02T06:48:47.703060465Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwd2NVOUJXbXhFVlZnM1pGQndjRzE2T0ZseVdVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwd2NVOUJXbXhFVlZnM1pGQndjRzE2T0ZseVdVRRAB!2m1!1s0x3442a92f1eef7b61:0xfeb999121f587b10"
+    },
+    {
+      "name": "places/ChIJYXvvHi-pQjQREHtYHxKZuf4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25weWFrSkROWEJoZW5wT05rWTVRbVJSTjBwdGExRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "五訪⭐️⭐️\n✨ 布拉塔起司肉醬筆管麵$380\n筆管麵偏軟，肉醬的調味中規中矩沒什麼特色，而且有點水，單吃筆管麵和肉醬會覺得不是很融合，不過加一點布拉塔起司會好一點\n或許這道的正確吃法，是直接把布拉塔起司拌進去？\n\n四訪⭐️⭐️\n✨麵包籃$160⭐️x2.5\n四塊生吐司、一塊佛卡夏、三塊比較紮實的麵包，都有烤過，佛卡夏裡面有香料，比較特別，生吐司厚但有軟\n有附油醋醬和奶油，油醋醬調得剛好\n✨炭烤澳洲和牛橫隔膜 6oz $1280⭐️x2\n雖然品名是和牛，但吃起來不會有油膩感，可能是因為部位，碳烤沒什麼香氣，肉沒有很軟嫩多汁，調味好吃但不到驚艷，以價格來說不會想再點\n配菜的馬鈴薯塊看起來比橫隔膜大份很多，調味挺淡的\n\n三訪⭐️⭐️⭐️\n✨（辣）主廚海鮮烤飯$680\n飯不是有米心的飯，吃起來有辛辣感，味道非常濃郁，上面有放一片檸檬，擠後讓整體的鹹味和海鮮的鮮味更突出，檸檬的酸味反而不明顯，也沒有讓整體變清爽\n上桌滿好看的，蝦子也有新鮮，不過比目魚鰭邊肉超少\n✨煙燻鴨胸 野菇巴薩米克義大利麵$380\n調味不會很鹹，帶溫和的酸味，有加切成碎的洋蔥、蒜頭，野菇種類不少，鴨胸普通，義大利麵中規中矩，鳳梨片薄薄的但甜味滿特別\n✨義式水煮魚$780\n是處理好的魚肉，沒有魚刺，魚紮實但軟嫩，調味不會太重，配料有蕃茄、蛤蜊、櫛瓜，蒜香味明顯\n✨主廚套餐$330（布拉塔乳酪沙拉+生乳起司）\n布拉塔乳酪沙拉其實是烤過的麵包加蕃茄、芝麻葉、布拉塔乳酪，份量上比海鮮沙拉小，但調味還不錯，蕃茄新鮮酸甜多汁，麵包有烤脆，一下就吃完了\n生乳起司有一點點肉桂味，起司很軟很濃郁\n🪐空調偏弱\n🪐假日建議訂位\n🪐提供水和洗手間\n\n二訪⭐️⭐️⭐️⭐️\n✨ 炭烤透抽 番茄橄欖 蕃茄羅勒起司餃$420\n起司餃份量不多，比起主餐更像開胃菜，透抽有嫩也有碳烤的風味，除了蕃茄外還有小黃瓜\n✨加主廚套餐$330\n亞洲人海鮮沙拉+蘋果派\n這次沙拉醬汁的酸味比較明顯，柑橘類水果味也比較明顯，可能是季節導致的差異\n蘋果派上面還有一球冰淇淋，蘋果派有烤熱，頂層有酥菠蘿，底層的塔皮有厚，蘋果餡是甜味的，還有淡淡的肉桂味\n✨ 招牌早午餐 索蘭諾火腿 炒蛋 布拉塔乳酪 番茄$330\n一片烤過的麵包，搭生菜、炒蛋、蕃茄、四片生火腿和布拉塔乳酪\n炒蛋上面有辣醬，很辣但還不錯吃，炒蛋也有嫩，蕃茄有甜和布拉塔乳酪很搭，生火腿軟嫩且不會很鹹\n✨ （推）松露雞捲 花雕$580\n總共有四塊雞卷，配料有馬鈴薯泥、玉米筍兩根、四季豆五根、蕈菇一朵\n雞卷能感受到雞肉的彈性和肉汁，馬鈴薯泥奶油味很香\n🪐提供水\n🪐收取10%服務費\n🪐這次冷氣偏弱\n🪐假日建議訂位，生意很好\n\n一訪⭐️⭐️⭐️⭐️\n✨ 蒜味野菇辣蝦干貝天使麵，西班牙臘腸$380 +$330升級套餐\n調味出乎意料的好，大概是微辣的辣度，麵條細，乍看之下很像是麵線，但口感是義大利麵該有的硬度（不過沒有很硬），野菇不少，干貝少，而且是切塊的，口感略差一點，蝦子四隻有去腸泥，是新鮮的，西班牙臘腸切成非常細小的丁狀，作為佐料的一部分\n✨ （推）亞洲人海鮮沙拉\n上桌才知道原來套餐的沙拉份量和單點一樣，滿多的，沙拉碗的直徑大約20公分，也有一定的深度\n沙拉的醬汁酸中帶甜，應該添加了水果，吃起來不會酸澀，不會膩口很不錯，生菜品質也爽脆可口，海鮮是烤蝦和透抽，口感Q彈\n✨ 焦糖香蕉熱蛋糕\n🪐店內抽油煙機有點弱\n🪐店員服務態度還不錯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "五訪⭐️⭐️\n✨ 布拉塔起司肉醬筆管麵$380\n筆管麵偏軟，肉醬的調味中規中矩沒什麼特色，而且有點水，單吃筆管麵和肉醬會覺得不是很融合，不過加一點布拉塔起司會好一點\n或許這道的正確吃法，是直接把布拉塔起司拌進去？\n\n四訪⭐️⭐️\n✨麵包籃$160⭐️x2.5\n四塊生吐司、一塊佛卡夏、三塊比較紮實的麵包，都有烤過，佛卡夏裡面有香料，比較特別，生吐司厚但有軟\n有附油醋醬和奶油，油醋醬調得剛好\n✨炭烤澳洲和牛橫隔膜 6oz $1280⭐️x2\n雖然品名是和牛，但吃起來不會有油膩感，可能是因為部位，碳烤沒什麼香氣，肉沒有很軟嫩多汁，調味好吃但不到驚艷，以價格來說不會想再點\n配菜的馬鈴薯塊看起來比橫隔膜大份很多，調味挺淡的\n\n三訪⭐️⭐️⭐️\n✨（辣）主廚海鮮烤飯$680\n飯不是有米心的飯，吃起來有辛辣感，味道非常濃郁，上面有放一片檸檬，擠後讓整體的鹹味和海鮮的鮮味更突出，檸檬的酸味反而不明顯，也沒有讓整體變清爽\n上桌滿好看的，蝦子也有新鮮，不過比目魚鰭邊肉超少\n✨煙燻鴨胸 野菇巴薩米克義大利麵$380\n調味不會很鹹，帶溫和的酸味，有加切成碎的洋蔥、蒜頭，野菇種類不少，鴨胸普通，義大利麵中規中矩，鳳梨片薄薄的但甜味滿特別\n✨義式水煮魚$780\n是處理好的魚肉，沒有魚刺，魚紮實但軟嫩，調味不會太重，配料有蕃茄、蛤蜊、櫛瓜，蒜香味明顯\n✨主廚套餐$330（布拉塔乳酪沙拉+生乳起司）\n布拉塔乳酪沙拉其實是烤過的麵包加蕃茄、芝麻葉、布拉塔乳酪，份量上比海鮮沙拉小，但調味還不錯，蕃茄新鮮酸甜多汁，麵包有烤脆，一下就吃完了\n生乳起司有一點點肉桂味，起司很軟很濃郁\n🪐空調偏弱\n🪐假日建議訂位\n🪐提供水和洗手間\n\n二訪⭐️⭐️⭐️⭐️\n✨ 炭烤透抽 番茄橄欖 蕃茄羅勒起司餃$420\n起司餃份量不多，比起主餐更像開胃菜，透抽有嫩也有碳烤的風味，除了蕃茄外還有小黃瓜\n✨加主廚套餐$330\n亞洲人海鮮沙拉+蘋果派\n這次沙拉醬汁的酸味比較明顯，柑橘類水果味也比較明顯，可能是季節導致的差異\n蘋果派上面還有一球冰淇淋，蘋果派有烤熱，頂層有酥菠蘿，底層的塔皮有厚，蘋果餡是甜味的，還有淡淡的肉桂味\n✨ 招牌早午餐 索蘭諾火腿 炒蛋 布拉塔乳酪 番茄$330\n一片烤過的麵包，搭生菜、炒蛋、蕃茄、四片生火腿和布拉塔乳酪\n炒蛋上面有辣醬，很辣但還不錯吃，炒蛋也有嫩，蕃茄有甜和布拉塔乳酪很搭，生火腿軟嫩且不會很鹹\n✨ （推）松露雞捲 花雕$580\n總共有四塊雞卷，配料有馬鈴薯泥、玉米筍兩根、四季豆五根、蕈菇一朵\n雞卷能感受到雞肉的彈性和肉汁，馬鈴薯泥奶油味很香\n🪐提供水\n🪐收取10%服務費\n🪐這次冷氣偏弱\n🪐假日建議訂位，生意很好\n\n一訪⭐️⭐️⭐️⭐️\n✨ 蒜味野菇辣蝦干貝天使麵，西班牙臘腸$380 +$330升級套餐\n調味出乎意料的好，大概是微辣的辣度，麵條細，乍看之下很像是麵線，但口感是義大利麵該有的硬度（不過沒有很硬），野菇不少，干貝少，而且是切塊的，口感略差一點，蝦子四隻有去腸泥，是新鮮的，西班牙臘腸切成非常細小的丁狀，作為佐料的一部分\n✨ （推）亞洲人海鮮沙拉\n上桌才知道原來套餐的沙拉份量和單點一樣，滿多的，沙拉碗的直徑大約20公分，也有一定的深度\n沙拉的醬汁酸中帶甜，應該添加了水果，吃起來不會酸澀，不會膩口很不錯，生菜品質也爽脆可口，海鮮是烤蝦和透抽，口感Q彈\n✨ 焦糖香蕉熱蛋糕\n🪐店內抽油煙機有點弱\n🪐店員服務態度還不錯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "C H",
+        "uri": "https://www.google.com/maps/contrib/104245661409245047571/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUco1iAY4axVct8A233N-mlrKTf1mTT9qGb63ek0hyrRZFM0e4N=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-15T12:19:34.466194461Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25weWFrSkROWEJoZW5wT05rWTVRbVJSTjBwdGExRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25weWFrSkROWEJoZW5wT05rWTVRbVJSTjBwdGExRRAB!2m1!1s0x3442a92f1eef7b61:0xfeb999121f587b10"
+    },
+    {
+      "name": "places/ChIJYXvvHi-pQjQREHtYHxKZuf4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWUWIwNVFNazVFVVVSVGJIb3daeTFJU0V4eU4zYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "On Monday, Oct.13, 2025, at 12:30 pm.\n亞洲人海鮮🦞沙拉🥗 ✮✮✮✮✮\n鮮嫩番茄🍅與麝香葡萄🍇配上焦糖鹽烤核桃🌰的多層口感及風味，新鮮現採時蔬，翠綠鮮甜，淋上主廚🧑‍🍳特調醬汁，醬汁清爽開胃香醇回甘，海鮮新鮮帶爐烤香氣，讓人一口接著一口，食指大動、味蕾全開。\n\n招牌海鮮🦞燉飯🌾 ✮✮✮✮✮\n新鮮小卷🦑、鮮蝦🦐、大顆生食級干貝🐚，海鮮類彈牙有勁，吸附滿滿濃郁燉飯醬汁，並且帶點燒烤香氣，與燉飯快炒，燉飯每口都裹滿著奶油🧈香、起司🧀香氣、蔬菜🥬甜味，米飯口感佳且不過分黏稠，太好吃的異國風情料理！\n\n黑糖葡萄乾🍇肉桂捲🥐 ✮✮✮✮✮\n外皮烤的微焦脆，帶葡萄乾🍇及核桃🌰，不過分甜膩，外脆內軟，層次分明，麵香濃厚，非常好吃的一道甜點。\n\n當天戴口罩的女服務員💁‍♀️親切且服務周到！倒茶水🍵、收桌的節奏很好也有隨時注意客人用餐狀況！也讓我們坐在舒服寬敞且遠離灼熱陽光的區域，非常開心！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "On Monday, Oct.13, 2025, at 12:30 pm.\n亞洲人海鮮🦞沙拉🥗 ✮✮✮✮✮\n鮮嫩番茄🍅與麝香葡萄🍇配上焦糖鹽烤核桃🌰的多層口感及風味，新鮮現採時蔬，翠綠鮮甜，淋上主廚🧑‍🍳特調醬汁，醬汁清爽開胃香醇回甘，海鮮新鮮帶爐烤香氣，讓人一口接著一口，食指大動、味蕾全開。\n\n招牌海鮮🦞燉飯🌾 ✮✮✮✮✮\n新鮮小卷🦑、鮮蝦🦐、大顆生食級干貝🐚，海鮮類彈牙有勁，吸附滿滿濃郁燉飯醬汁，並且帶點燒烤香氣，與燉飯快炒，燉飯每口都裹滿著奶油🧈香、起司🧀香氣、蔬菜🥬甜味，米飯口感佳且不過分黏稠，太好吃的異國風情料理！\n\n黑糖葡萄乾🍇肉桂捲🥐 ✮✮✮✮✮\n外皮烤的微焦脆，帶葡萄乾🍇及核桃🌰，不過分甜膩，外脆內軟，層次分明，麵香濃厚，非常好吃的一道甜點。\n\n當天戴口罩的女服務員💁‍♀️親切且服務周到！倒茶水🍵、收桌的節奏很好也有隨時注意客人用餐狀況！也讓我們坐在舒服寬敞且遠離灼熱陽光的區域，非常開心！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "摸魚摸到大白鯊",
+        "uri": "https://www.google.com/maps/contrib/106988066668685184124/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWamyjyDnNM8YF3oUHi6OczLIqzJLPzDR2M_-cpiO3Ab4WCxnuy=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-13T09:47:59.329702218Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWUWIwNVFNazVFVVVSVGJIb3daeTFJU0V4eU4zYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWUWIwNVFNazVFVVVSVGJIb3daeTFJU0V4eU4zYxAB!2m1!1s0x3442a92f1eef7b61:0xfeb999121f587b10"
+    },
+    {
+      "name": "places/ChIJYXvvHi-pQjQREHtYHxKZuf4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kwd2JFZFZlbWRoZDE5NGMweE5lblowUmpaRlZIYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "用餐時間：2023/05/27\n\n香煎干貝南瓜燉飯：飯的口感軟硬適中，配上上方的水波蛋讓整個味道更加分！\n咬下去每一口都能吃到南瓜的香味\n干貝鮮甜，旁邊烤的焦焦的菜很好吃😍\n由於義大利麵是朋友點的，因此無法評論\n\n店內佈置的很漂亮，是一家讓人感到愜意又放鬆的餐廳～～有機會會想再回來吃\n-\n香煎干貝南瓜燉飯$380\n招牌綜合海鮮義大利麵$400\n\n⚠️很抱歉我的評論無法當參考，因為菜單已更換ಥ_ಥ實在很可惜，那個南瓜燉飯真的很好吃嗚嗚😿💔",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "用餐時間：2023/05/27\n\n香煎干貝南瓜燉飯：飯的口感軟硬適中，配上上方的水波蛋讓整個味道更加分！\n咬下去每一口都能吃到南瓜的香味\n干貝鮮甜，旁邊烤的焦焦的菜很好吃😍\n由於義大利麵是朋友點的，因此無法評論\n\n店內佈置的很漂亮，是一家讓人感到愜意又放鬆的餐廳～～有機會會想再回來吃\n-\n香煎干貝南瓜燉飯$380\n招牌綜合海鮮義大利麵$400\n\n⚠️很抱歉我的評論無法當參考，因為菜單已更換ಥ_ಥ實在很可惜，那個南瓜燉飯真的很好吃嗚嗚😿💔",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "湘湘",
+        "uri": "https://www.google.com/maps/contrib/102957934055381267258/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6_7n3tpkh6TVleTQWavBbZ2mpTkPanZtU3BhAloibtUM7rNc-=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-10T10:52:38.485783545Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kwd2JFZFZlbWRoZDE5NGMweE5lblowUmpaRlZIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kwd2JFZFZlbWRoZDE5NGMweE5lblowUmpaRlZIYxAB!2m1!1s0x3442a92f1eef7b61:0xfeb999121f587b10"
+    }
+  ],
+  "menuForChildren": false
+}

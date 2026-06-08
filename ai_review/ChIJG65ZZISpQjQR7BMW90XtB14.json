@@ -1,0 +1,51 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "用餐環境不佳，櫃檯非常擁擠，用餐完畢餐具收回直接在外場就洗聲音很大，無法安靜的享用餐點。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "Google Maps Attributes: Good for children (官方標記：適合兒童)",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "用餐環境不佳，櫃檯非常擁擠，用餐完畢餐具收回直接在外場就洗聲音很大，無法安靜的享用餐點。",
+        "Google Maps Attributes: Good for children (官方標記：適合兒童)"
+    ],
+    "generated_summary": "雖然 Google Maps 標記該店適合兒童，但根據評論，店內環境較為擁擠且外場作業噪音較大，可能影響用餐品質。目前評論中未提及兒童椅、兒童餐具、尿布台或兒童餐等具體親子設施，建議前往前可先向店家確認。",
+    "card_summary": ""
+}

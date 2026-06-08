@@ -1,0 +1,52 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "室內空間不大，座位不多（無訂位）",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "Google Maps Attributes: No menu for children",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "No",
+        "evidence": "Google Maps Attributes: Not good for children",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "Google Maps Attributes: Not good for children",
+        "Google Maps Attributes: No menu for children",
+        "室內空間不大，座位不多（無訂位）"
+    ],
+    "generated_summary": "穠咖啡環境走精緻、寧靜的咖啡廳路線，根據官方資訊顯示該店並不適合兒童，且未提供兒童餐點。此外，店內空間較為狹小且座位有限，建議前往時考量環境氛圍與空間限制。",
+    "card_summary": ""
+}

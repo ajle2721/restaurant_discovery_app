@@ -1,0 +1,132 @@
+{
+  "id": "ChIJS55Pk1euQjQRphqEK5PBdAM",
+  "types": [
+    "italian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2898 8186",
+  "formattedAddress": "112台灣臺北市北投區復興四路8巷4號",
+  "location": {
+    "latitude": 25.1414121,
+    "longitude": 121.4998627
+  },
+  "rating": 4.5,
+  "websiteUri": "https://www.facebook.com/LaFoglia0401/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 987,
+  "displayName": {
+    "text": "葉子異國小廚坊",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJS55Pk1euQjQRphqEK5PBdAM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkcldWSmFkR2hOZVV0emVYVk5lR0o1TldKMFJVRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "辛苦的找到這家店，喜悅啊！\n真沒白來，披薩是第一名，焗烤燉飯上桌時，餐盤上還會熱滋滋的跳舞，燙燙燙！確不能停口。\n只能說，真不想分享。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "辛苦的找到這家店，喜悅啊！\n真沒白來，披薩是第一名，焗烤燉飯上桌時，餐盤上還會熱滋滋的跳舞，燙燙燙！確不能停口。\n只能說，真不想分享。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張小蘭",
+        "uri": "https://www.google.com/maps/contrib/107881779052467922752/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLDlJt4DfXTfxjXcb2alUtMl8mE_uAhnQsBmTPSUhRgYinLPQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-13T14:46:24.218399473Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkcldWSmFkR2hOZVV0emVYVk5lR0o1TldKMFJVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkcldWSmFkR2hOZVV0emVYVk5lR0o1TldKMFJVRRAB!2m1!1s0x3442ae57934f9e4b:0x374c1932b841aa6"
+    },
+    {
+      "name": "places/ChIJS55Pk1euQjQRphqEK5PBdAM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21zd2RUbHdiMjU1VVc4ek5uQmhkRk5IU0dOWVRYYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "個人覺得是全台北市最好吃的披薩，老闆在義大利拜師，以前開在石牌，搬到現址後比較少去，因為交通比較不方便。\n\n老闆娘說披薩的麵皮是他們用自養的酵母發酵，吃起來香又Q彈，相當的驚艷！年初點過一次肉桂蘋果pizza，滋味久久難忘，這次有機會帶朋友來訪，大家也都讚不絕口，要說缺點的話就是現址開在市場裡面，店外的環境不是太好，也真的不好找；餐點當然是現點現做，要有耐心的等候！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "個人覺得是全台北市最好吃的披薩，老闆在義大利拜師，以前開在石牌，搬到現址後比較少去，因為交通比較不方便。\n\n老闆娘說披薩的麵皮是他們用自養的酵母發酵，吃起來香又Q彈，相當的驚艷！年初點過一次肉桂蘋果pizza，滋味久久難忘，這次有機會帶朋友來訪，大家也都讚不絕口，要說缺點的話就是現址開在市場裡面，店外的環境不是太好，也真的不好找；餐點當然是現點現做，要有耐心的等候！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "May Chen",
+        "uri": "https://www.google.com/maps/contrib/112672538964925243690/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVjLF65_RuvybYvfzchK0NEQMsHx--iGFTzkKpqGtSQ0Ry4iW5Qfw=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-05T03:46:31.798560683Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21zd2RUbHdiMjU1VVc4ek5uQmhkRk5IU0dOWVRYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21zd2RUbHdiMjU1VVc4ek5uQmhkRk5IU0dOWVRYYxAB!2m1!1s0x3442ae57934f9e4b:0x374c1932b841aa6"
+    },
+    {
+      "name": "places/ChIJS55Pk1euQjQRphqEK5PBdAM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0TmVGUjFZWFZwTjFOM05qUjVaRXBOYlZOR1dFRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "非常好吃的Pizza、義大利麵、薯條、...；常常來點餐外帶和全家人一起享用(吃的速度太快，有張照片還來不及照相就已經先吃了），推薦大家多多來享用～^_^",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "非常好吃的Pizza、義大利麵、薯條、...；常常來點餐外帶和全家人一起享用(吃的速度太快，有張照片還來不及照相就已經先吃了），推薦大家多多來享用～^_^",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Roger Ju",
+        "uri": "https://www.google.com/maps/contrib/117899603848368815944/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLj5siO5uTxYEFbr_x_Cqh0MUVVTm0GPXANTwTa41IK3LB61w=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-11-15T11:47:01.145624814Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0TmVGUjFZWFZwTjFOM05qUjVaRXBOYlZOR1dFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0TmVGUjFZWFZwTjFOM05qUjVaRXBOYlZOR1dFRRAB!2m1!1s0x3442ae57934f9e4b:0x374c1932b841aa6"
+    },
+    {
+      "name": "places/ChIJS55Pk1euQjQRphqEK5PBdAM/reviews/Ci9DQUlRQUNvZENodHljRjlvT205RVEwVnFXVFZhU1RKMk5XRm9NRTVmVWtWT2JuYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "Pizza跟餐點都好吃 位在市場內的神奇店面 有許多熟客 祝福老闆能經營的越來越好",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "Pizza跟餐點都好吃 位在市場內的神奇店面 有許多熟客 祝福老闆能經營的越來越好",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "little afternoon (小午)",
+        "uri": "https://www.google.com/maps/contrib/105761842152098294591/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV7uD5aw189sstMgWs9QxjixzM_ZzgNpsNCvAVJ9OJy7jH4Qukhaw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-26T04:34:36.590910127Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205RVEwVnFXVFZhU1RKMk5XRm9NRTVmVWtWT2JuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205RVEwVnFXVFZhU1RKMk5XRm9NRTVmVWtWT2JuYxAB!2m1!1s0x3442ae57934f9e4b:0x374c1932b841aa6"
+    },
+    {
+      "name": "places/ChIJS55Pk1euQjQRphqEK5PBdAM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoNk1YZHZiVTlvT0UxbmMybDVWWGxEU0hsSlpsRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "超推 蘋果蜂蜜肉桂6吋披薩！超好吃😋\n店家服務態度很好，鸚鵡會聽老闆的話安靜下來，遊戲機台很有趣！謝謝你們，祝福你們生意興隆、身體健康、平安喜樂🎉",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "超推 蘋果蜂蜜肉桂6吋披薩！超好吃😋\n店家服務態度很好，鸚鵡會聽老闆的話安靜下來，遊戲機台很有趣！謝謝你們，祝福你們生意興隆、身體健康、平安喜樂🎉",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "以琳愛美食",
+        "uri": "https://www.google.com/maps/contrib/117005058415361671453/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVwL_BqgG_URm_56sJuEe-wUIQdPzxSrEH6eBK2TOb6E8CQSto=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-25T06:16:44.993529898Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoNk1YZHZiVTlvT0UxbmMybDVWWGxEU0hsSlpsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoNk1YZHZiVTlvT0UxbmMybDVWWGxEU0hsSlpsRRAB!2m1!1s0x3442ae57934f9e4b:0x374c1932b841aa6"
+    }
+  ],
+  "goodForChildren": true
+}

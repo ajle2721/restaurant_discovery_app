@@ -1,0 +1,130 @@
+{
+  "id": "ChIJzTVNXFKrQjQRQwfTbuPs03w",
+  "types": [
+    "breakfast_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "116台灣臺北市文山區興得里興隆路三段36巷17弄1號",
+  "location": {
+    "latitude": 24.999618899999998,
+    "longitude": 121.5551881
+  },
+  "rating": 4.9,
+  "userRatingCount": 79,
+  "displayName": {
+    "text": "轉角阿伯早餐店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJzTVNXFKrQjQRQwfTbuPs03w/reviews/Ci9DQUlRQUNvZENodHljRjlvT201YVNDMUdjWFV5Y3kxNmRHTkpWV3BmT0MxR1dHYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "在中國科技大學正對面，價錢很親民，豬排蛋吐司好好吃。老闆老闆娘很親切。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在中國科技大學正對面，價錢很親民，豬排蛋吐司好好吃。老闆老闆娘很親切。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Charlene Wang",
+        "uri": "https://www.google.com/maps/contrib/110396169757623223922/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI3D4V4u8bNUjRvNU23VykZ3gB5ZzsBHuB-bd9ycEKHAf-upA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-23T02:02:43.799115868Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201YVNDMUdjWFV5Y3kxNmRHTkpWV3BmT0MxR1dHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201YVNDMUdjWFV5Y3kxNmRHTkpWV3BmT0MxR1dHYxAB!2m1!1s0x3442ab525c4d35cd:0x7cd3ece36ed30743"
+    },
+    {
+      "name": "places/ChIJzTVNXFKrQjQRQwfTbuPs03w/reviews/ChZDSUhNMG9nS0VJQ0FnSURua0xHMUlBEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "在地經營幾十年的早餐店，所有品項都好吃又便宜，是附近學生的福音！特別推薦蛋餅搭配阿伯自製甜辣醬超好吃，蝦仁炒飯也是必點，滿滿一盤只要75元相當划算！\n其他漢堡和三明治也不錯，飲料的豆漿和米漿都是老闆自己做的，CP值真的很高又好吃，強力推薦！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在地經營幾十年的早餐店，所有品項都好吃又便宜，是附近學生的福音！特別推薦蛋餅搭配阿伯自製甜辣醬超好吃，蝦仁炒飯也是必點，滿滿一盤只要75元相當划算！\n其他漢堡和三明治也不錯，飲料的豆漿和米漿都是老闆自己做的，CP值真的很高又好吃，強力推薦！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lèvr【第10級在地嚮導】",
+        "uri": "https://www.google.com/maps/contrib/115131688509506708788/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWReqt4dR6N7p45ZpSr8ODGEAaWrEOYRW_WXQCLNWUULTLqEq91g=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2024-10-02T06:21:00.882241Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURua0xHMUlBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURua0xHMUlBEAE!2m1!1s0x3442ab525c4d35cd:0x7cd3ece36ed30743"
+    },
+    {
+      "name": "places/ChIJzTVNXFKrQjQRQwfTbuPs03w/reviews/Ci9DQUlRQUNvZENodHljRjlvT21waU1uTXdTVEZuVnpkZk0wOUhXSEU1WlRsSmMyYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "在地資深店家，東西好吃多樣\n老闆老闆娘親切\n是居民跟學生的好口福\n\n想運動來WorldGym\n體驗14天免費\n韓 ak920",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在地資深店家，東西好吃多樣\n老闆老闆娘親切\n是居民跟學生的好口福\n\n想運動來WorldGym\n體驗14天免費\n韓 ak920",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "韓Han",
+        "uri": "https://www.google.com/maps/contrib/117189600894866158537/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUjxj4DtzUrZfFSRUDoKddM1XI3ginscU_dF9Czha4PepwSavNA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-24T04:45:37.411859441Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21waU1uTXdTVEZuVnpkZk0wOUhXSEU1WlRsSmMyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21waU1uTXdTVEZuVnpkZk0wOUhXSEU1WlRsSmMyYxAB!2m1!1s0x3442ab525c4d35cd:0x7cd3ece36ed30743"
+    },
+    {
+      "name": "places/ChIJzTVNXFKrQjQRQwfTbuPs03w/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxMGVuSndSRzl5Ums5Mk4wNHhWbkpYUmtkV1ZuYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "1.蛋餅好吃，那個醬油膏甜甜的很讚👍\n2.肉絲蛋炒飯也是，一大早竟然有賣這種東西超爽。而且炒飯味道很好，鍋氣也很足，推推",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "1.蛋餅好吃，那個醬油膏甜甜的很讚👍\n2.肉絲蛋炒飯也是，一大早竟然有賣這種東西超爽。而且炒飯味道很好，鍋氣也很足，推推",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "tbythjgd “urdnnhvv”",
+        "uri": "https://www.google.com/maps/contrib/100999576093407224781/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWqKx4l8X8Xpjpr0nukaYJId3f7sVQDxD9TTOFgczNcOoEfvKUo=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-08-30T09:06:55.692741119Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxMGVuSndSRzl5Ums5Mk4wNHhWbkpYUmtkV1ZuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxMGVuSndSRzl5Ums5Mk4wNHhWbkpYUmtkV1ZuYxAB!2m1!1s0x3442ab525c4d35cd:0x7cd3ece36ed30743"
+    },
+    {
+      "name": "places/ChIJzTVNXFKrQjQRQwfTbuPs03w/reviews/ChZDSUhNMG9nS0VPelUwLWZYaVA2SEhREAE",
+      "relativePublishTimeDescription": "12 個月前",
+      "rating": 5,
+      "text": {
+        "text": "大學時期後門的早餐愛店\n已經畢業超過十年沒有回來吃早餐\n今天剛好陪家人去萬芳看診\n突然很懷念阿伯的法式吐司(以前必點\n\n阿伯都沒變 一樣親切熱情☺️\n很開心害我一直偷偷盯著阿伯看～\n希望阿伯阿姨身體健康平安！\n\n今天吃法式豬排吐司、鮪魚蛋餅、大冰奶\n家人吃燻雞蛋堡～\n環境沒有特別裝潢但很乾淨有冷氣👍🏻\n以前還會點飯糰跟蘿蔔糕+蛋\n都便宜又好吃 推推(吃的是回憶❤️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "大學時期後門的早餐愛店\n已經畢業超過十年沒有回來吃早餐\n今天剛好陪家人去萬芳看診\n突然很懷念阿伯的法式吐司(以前必點\n\n阿伯都沒變 一樣親切熱情☺️\n很開心害我一直偷偷盯著阿伯看～\n希望阿伯阿姨身體健康平安！\n\n今天吃法式豬排吐司、鮪魚蛋餅、大冰奶\n家人吃燻雞蛋堡～\n環境沒有特別裝潢但很乾淨有冷氣👍🏻\n以前還會點飯糰跟蘿蔔糕+蛋\n都便宜又好吃 推推(吃的是回憶❤️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "P",
+        "uri": "https://www.google.com/maps/contrib/100833805989092021948/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWV7OlM6sqUPPHDR7qOESkumlCwDYKYyybW4sl_DugCjdv3S_S-=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-06-09T05:41:33.160150Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VPelUwLWZYaVA2SEhREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VPelUwLWZYaVA2SEhREAE!2m1!1s0x3442ab525c4d35cd:0x7cd3ece36ed30743"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

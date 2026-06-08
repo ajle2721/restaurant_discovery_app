@@ -1,0 +1,52 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "店內的座位不多，環境是沒那麼舒適。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "Google Maps Attributes: Good for children (官方標記：適合兒童)",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "這家早午餐店的店面小，所以座位不多，客滿時可能只能外帶。",
+        "Google Maps Attributes: Good for children (官方標記：適合兒童)",
+        "店內的座位不多，環境是沒那麼舒適。"
+    ],
+    "generated_summary": "該餐廳在 Google Maps 上被標記為適合兒童，且老闆與店員態度親切。不過，店內空間較為狹小、座位不多，環境舒適度有限，且為開放式空間，建議攜帶幼童前往時需考量空間擁擠與環境因素。",
+    "card_summary": ""
+}

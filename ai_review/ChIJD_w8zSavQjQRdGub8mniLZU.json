@@ -1,0 +1,55 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "Google Maps Attributes: No menu for children",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "Google Maps Attributes: Good for children",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "Google Maps Attributes: No menu for children",
+        "Review 5: 因為健康餐盒其實滿多媽媽叫給幼兒吃的",
+        "Google Maps Attributes: Good for children",
+        "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)",
+        "Review 1: 帶著3個孩子，本來以為點的飯會不夠分，就多點了一份沙拉，結果餐點來 每一份蔬菜和藜麥飯都超澎湃",
+        "Google Maps Attributes: Good for children (官方標記：適合兒童)"
+    ],
+    "generated_summary": "食光機芝山店被標記為適合兒童，且因餐點健康、蔬菜量多，常有家長點餐給幼兒食用。不過店家並未提供專屬兒童餐，且評論中未提及兒童座椅、餐具或尿布台等親子友善設施，建議家長前往前可先向店家確認相關設備。",
+    "card_summary": ""
+}

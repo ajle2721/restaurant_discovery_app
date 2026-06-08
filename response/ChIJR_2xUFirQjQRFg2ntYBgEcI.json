@@ -1,0 +1,139 @@
+{
+  "id": "ChIJR_2xUFirQjQRFg2ntYBgEcI",
+  "types": [
+    "pizza_delivery",
+    "meal_delivery",
+    "food_delivery",
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2785 6287",
+  "formattedAddress": "11552台灣臺北市南港區南港里南港路一段113號",
+  "location": {
+    "latitude": 25.0550511,
+    "longitude": 121.61449010000001
+  },
+  "rating": 4.3,
+  "websiteUri": "https://www.pizzahut.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1083,
+  "displayName": {
+    "text": "PIZZA HUT必勝客-南港外送店",
+    "languageCode": "zh"
+  },
+  "editorialSummary": {
+    "text": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJR_2xUFirQjQRFg2ntYBgEcI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwUE4wSnpTbWxvZUROTmQwWllSa050YXpOb1lrRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 1,
+      "text": {
+        "text": "點素食披薩，沒料的邊可以佔一半，沒肉還能這麼省料 有夠誇張!\n披薩外盒的小心燙口也是個笑話，準點去取餐結果溫度比溫的還冷，麵也糊掉，不知道做好放多久了",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點素食披薩，沒料的邊可以佔一半，沒肉還能這麼省料 有夠誇張!\n披薩外盒的小心燙口也是個笑話，準點去取餐結果溫度比溫的還冷，麵也糊掉，不知道做好放多久了",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "joe jhang",
+        "uri": "https://www.google.com/maps/contrib/114181028772861546116/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLQgGiwcrbxYGtw1j_jYIgZjluPalvKdqvZfxaN1O54dRJ4_g=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-10-30T13:15:13.696478010Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwUE4wSnpTbWxvZUROTmQwWllSa050YXpOb1lrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwUE4wSnpTbWxvZUROTmQwWllSa050YXpOb1lrRRAB!2m1!1s0x3442ab5850b1fd47:0xc2116080b5a70d16"
+    },
+    {
+      "name": "places/ChIJR_2xUFirQjQRFg2ntYBgEcI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pVNGQwOVVZa1JJZFdGamNIUjBUekZ4ZVZCNFNWRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 1,
+      "text": {
+        "text": "5：34就送出訂單，預估送達時間從6：10延到6：20又延到6：30，後來又變轉第三方外送，最後7：06才送到，批薩又冷又硬，不會再訂了。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "5：34就送出訂單，預估送達時間從6：10延到6：20又延到6：30，後來又變轉第三方外送，最後7：06才送到，批薩又冷又硬，不會再訂了。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "doris lin",
+        "uri": "https://www.google.com/maps/contrib/103634482358781352897/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ_5gv8CM9NFyqYEuLE-d_oL_Jml_uI7WDVwrJ_FVQERF0HOQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-03-06T12:06:51.360804950Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pVNGQwOVVZa1JJZFdGamNIUjBUekZ4ZVZCNFNWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pVNGQwOVVZa1JJZFdGamNIUjBUekZ4ZVZCNFNWRRAB!2m1!1s0x3442ab5850b1fd47:0xc2116080b5a70d16"
+    },
+    {
+      "name": "places/ChIJR_2xUFirQjQRFg2ntYBgEcI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wdVdsUTRaR1YwZWpOdldWbE1PREpuYlVkWGRXYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "個人披薩套餐經濟實惠，披薩、薯金幣、飲料一次滿足😌",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "個人披薩套餐經濟實惠，披薩、薯金幣、飲料一次滿足😌",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "汪文俊",
+        "uri": "https://www.google.com/maps/contrib/109350526611714132830/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWti_TCozvPFViM67Wy0TPvtzaJv2RZhvRKx1eL_sDsv9_dLehN=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-01-21T04:48:17.899991340Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wdVdsUTRaR1YwZWpOdldWbE1PREpuYlVkWGRXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wdVdsUTRaR1YwZWpOdldWbE1PREpuYlVkWGRXYxAB!2m1!1s0x3442ab5850b1fd47:0xc2116080b5a70d16"
+    },
+    {
+      "name": "places/ChIJR_2xUFirQjQRFg2ntYBgEcI/reviews/ChdDSUhNMG9nS0VJQ0FnTURJeDViM3JnRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 1,
+      "text": {
+        "text": "實在是不好吃⋯薄脆的要加35元，然後火腿都是焦的，餅皮硬又難吃，以前吃的真的不會這樣",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "實在是不好吃⋯薄脆的要加35元，然後火腿都是焦的，餅皮硬又難吃，以前吃的真的不會這樣",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林俊賢",
+        "uri": "https://www.google.com/maps/contrib/105506664123063858345/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVvhUErK2SgAmgCT9Lw2eE3iLIolA3nPv8duBj1eud41Ujsyd4W=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-04-13T12:18:17.628499Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJeDViM3JnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJeDViM3JnRRAB!2m1!1s0x3442ab5850b1fd47:0xc2116080b5a70d16"
+    },
+    {
+      "name": "places/ChIJR_2xUFirQjQRFg2ntYBgEcI/reviews/ChZDSUhNMG9nS0VJdnoyOWFxNjhDaFFREAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 1,
+      "text": {
+        "text": "在必勝客南港店也消費了很長一段時間了，第一次買到這樣的pizza當下真的很傻眼，是不是工作人員一時疏忽了，這樣的品質應該不符合出餐標準吧",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在必勝客南港店也消費了很長一段時間了，第一次買到這樣的pizza當下真的很傻眼，是不是工作人員一時疏忽了，這樣的品質應該不符合出餐標準吧",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chang-Yi Lin",
+        "uri": "https://www.google.com/maps/contrib/103807332199265946986/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVKUlachl5qlCMwHndpxWvhLZnlVCd7bWLjdgwMYGtDm_4EsDdJ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-05-15T10:39:19.115515Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJdnoyOWFxNjhDaFFREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJdnoyOWFxNjhDaFFREAE!2m1!1s0x3442ab5850b1fd47:0xc2116080b5a70d16"
+    }
+  ],
+  "menuForChildren": false
+}

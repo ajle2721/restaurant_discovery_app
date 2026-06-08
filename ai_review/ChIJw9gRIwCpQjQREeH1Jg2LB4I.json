@@ -1,0 +1,53 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "空間雖小但舒適愜意",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "Google Maps Attributes: No menu for children",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "No",
+        "evidence": "提供一個非常靜謐的環境",
+        "confidence": 0.9
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": "洗手間需要到旁邊客家園區，可詢問老闆",
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "Google Maps Attributes: No menu for children",
+        "洗手間需要到旁邊客家園區，可詢問老闆",
+        "空間雖小但舒適愜意",
+        "提供一個非常靜謐的環境"
+    ],
+    "generated_summary": "小客廳Little Coffee Lounge環境溫馨舒適但空間較為狹小，且店內氛圍偏向靜謐，可能較不適合需要大空間或較吵鬧的幼童。此外，店家明確標示不提供兒童餐，且店內無洗手間（需使用鄰近園區設施），建議攜帶幼童前往時需多加考量。",
+    "card_summary": ""
+}

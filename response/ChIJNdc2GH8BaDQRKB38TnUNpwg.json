@@ -1,0 +1,133 @@
+{
+  "id": "ChIJNdc2GH8BaDQRKB38TnUNpwg",
+  "types": [
+    "restaurant",
+    "tea_house",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 911 561 850",
+  "formattedAddress": "116台灣臺北市文山區指南里指南路三段38巷33-5 號對面 (請找雙橡園招牌入口下來左轉/ 無停車場開車請找白線停車/ 山區一定有蚊子請自備防蚊備品",
+  "location": {
+    "latitude": 24.967347,
+    "longitude": 121.5910574
+  },
+  "rating": 4.4,
+  "websiteUri": "http://www.facebook.com/found.your.tea",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1208,
+  "displayName": {
+    "text": "貓空 找茶屋 found.your.tea",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJNdc2GH8BaDQRKB38TnUNpwg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwRGIwYzRialZQYjIxclNFaEJUR3N0UW5WVFlYYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "適合白天去看景色，晚上去少了景觀cp值會下降。食物算不錯吃！不能刷卡，可以銀行轉帳。位置有點難找，需先下樓梯再左轉。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "適合白天去看景色，晚上去少了景觀cp值會下降。食物算不錯吃！不能刷卡，可以銀行轉帳。位置有點難找，需先下樓梯再左轉。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Tsai bēng-hông孟宏",
+        "uri": "https://www.google.com/maps/contrib/113969532018579537261/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWdFbP49rUaHWqCcz3ZBpd8ZWtxKfcqnRcINtnAvaz5HelN1leV=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-01T15:53:02.588090110Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwRGIwYzRialZQYjIxclNFaEJUR3N0UW5WVFlYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwRGIwYzRialZQYjIxclNFaEJUR3N0UW5WVFlYYxAB!2m1!1s0x3468017f1836d735:0x8a70d754efc1d28"
+    },
+    {
+      "name": "places/ChIJNdc2GH8BaDQRKB38TnUNpwg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xZd09FUjRYMFJVWXpWVWJXSkxhVFYzTTNGV2JGRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "環境好氣氛佳，餐點超值美味，茶品質優，更是賞景的好地點。\n值得推薦情侶、三五好友及家人一起來的地方。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境好氣氛佳，餐點超值美味，茶品質優，更是賞景的好地點。\n值得推薦情侶、三五好友及家人一起來的地方。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "鄭Jennifer",
+        "uri": "https://www.google.com/maps/contrib/105087042575788705500/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL8grRrrk_STGaU6EqL9CcEngYq2G_wmBIBeyZ-k4_JSdF-Dg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-17T13:05:34.904907183Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xZd09FUjRYMFJVWXpWVWJXSkxhVFYzTTNGV2JGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xZd09FUjRYMFJVWXpWVWJXSkxhVFYzTTNGV2JGRRAB!2m1!1s0x3468017f1836d735:0x8a70d754efc1d28"
+    },
+    {
+      "name": "places/ChIJNdc2GH8BaDQRKB38TnUNpwg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGb1RrcFhiVkYwYWtaM2VHZEZWekIzU0hScGNHYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "環境還不錯，景也很美\n只是服務人員的態度可以再好一些\n餐點很好吃，尤其是原味乳酪蛋糕\n價格上來說還可以接受",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境還不錯，景也很美\n只是服務人員的態度可以再好一些\n餐點很好吃，尤其是原味乳酪蛋糕\n價格上來說還可以接受",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "王詩涵",
+        "uri": "https://www.google.com/maps/contrib/107111272987810265383/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJQ93VV7av-YvUgHgUe_oA1WiCbxZMvWbtLL_fRH4RgdWYApw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-20T16:23:11.574361275Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGb1RrcFhiVkYwYWtaM2VHZEZWekIzU0hScGNHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGb1RrcFhiVkYwYWtaM2VHZEZWekIzU0hScGNHYxAB!2m1!1s0x3468017f1836d735:0x8a70d754efc1d28"
+    },
+    {
+      "name": "places/ChIJNdc2GH8BaDQRKB38TnUNpwg/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ST1dXRTNhMEUwYzNsRFVGZFdkMVZsVEdZMlZrRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "風景真的超好，室內環境非常有氣氛，大片玻璃窗搭配半室外空間，坐起來非常舒服。服務人員講解泡茶流程時非常仔細又親切，就算是第一次體驗也完全不會有壓力。整個空間很適合帶家人、朋友，或是沒有體驗過台灣泡茶文化的外國朋友來。可以慢慢坐、慢慢喝，一點都不趕，茶的品項選擇也很多，整個體驗下來真的超開心，會想再回訪。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "風景真的超好，室內環境非常有氣氛，大片玻璃窗搭配半室外空間，坐起來非常舒服。服務人員講解泡茶流程時非常仔細又親切，就算是第一次體驗也完全不會有壓力。整個空間很適合帶家人、朋友，或是沒有體驗過台灣泡茶文化的外國朋友來。可以慢慢坐、慢慢喝，一點都不趕，茶的品項選擇也很多，整個體驗下來真的超開心，會想再回訪。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Tai Chen",
+        "uri": "https://www.google.com/maps/contrib/100198169709315776067/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLLjpEBbeSu-aHSaJcgcywNBK6DMshwBc2CHBG9lSn042Dg6Q=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-27T06:51:42.205704013Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ST1dXRTNhMEUwYzNsRFVGZFdkMVZsVEdZMlZrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ST1dXRTNhMEUwYzNsRFVGZFdkMVZsVEdZMlZrRRAB!2m1!1s0x3468017f1836d735:0x8a70d754efc1d28"
+    },
+    {
+      "name": "places/ChIJNdc2GH8BaDQRKB38TnUNpwg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taZmR5MVZOV1kyWVdGWVZtdDJhMUp2WlhGcmNWRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "菜色跟甜點都算中規中矩\n戶外石桌就算有下雨 頭頂上的雨傘也可以好好遮雨\n泡茶有教學 尋桌算頻繁",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "菜色跟甜點都算中規中矩\n戶外石桌就算有下雨 頭頂上的雨傘也可以好好遮雨\n泡茶有教學 尋桌算頻繁",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "王心妤",
+        "uri": "https://www.google.com/maps/contrib/114515534450502660238/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVfn75WAbTPTwu4SgKKzMcGhWOo9ii7bWU_zxkDgXUGJGn74DrH=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-28T06:33:45.492165208Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taZmR5MVZOV1kyWVdGWVZtdDJhMUp2WlhGcmNWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taZmR5MVZOV1kyWVdGWVZtdDJhMUp2WlhGcmNWRRAB!2m1!1s0x3468017f1836d735:0x8a70d754efc1d28"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

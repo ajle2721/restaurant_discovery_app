@@ -1,0 +1,53 @@
+{
+    " child_seat available": {
+        "result": "Yes",
+        "evidence": "Google Maps Attributes",
+        "confidence": 1.0
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "小小的店面，生意很好，最好先訂位。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": "Google Maps Attributes",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "Google Maps Attributes",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "Google Maps Attributes: Menu for children (官方標記：提供兒童餐)",
+        "Google Maps Attributes",
+        "小小的店面，生意很好，最好先訂位。",
+        "Google Maps Attributes: Good for children (官方標記：適合兒童)"
+    ],
+    "generated_summary": "Cloud 9 Cafe 信義店官方標記顯示其適合兒童並提供兒童餐，且有兒童椅設備。不過，店內空間較為狹小且生意熱絡，建議前往時先訂位，以確保有舒適的用餐環境。",
+    "card_summary": ""
+}

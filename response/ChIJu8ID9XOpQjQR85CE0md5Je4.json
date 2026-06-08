@@ -1,0 +1,137 @@
+{
+  "id": "ChIJu8ID9XOpQjQR85CE0md5Je4",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 903 410 956",
+  "formattedAddress": "108台灣臺北市萬華區西門里內江街29之5號",
+  "location": {
+    "latitude": 25.041753699999997,
+    "longitude": 121.50622709999999
+  },
+  "rating": 4.4,
+  "websiteUri": "https://www.facebook.com/%E6%B5%A9%E5%85%8B%E5%81%A5%E8%BA%AB%E6%97%A9%E9%A4%90%E5%AE%B5%E5%A4%9C-377990699520806",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 1377,
+  "displayName": {
+    "text": "晧克 西門紅樓店",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Casual, compact counter-serve restaurant doling out burgers, salads & comfort foods.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJu8ID9XOpQjQR85CE0md5Je4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CTlZHSnlhVXBQYkhCcU5tZDZWSEZpUmsxb2FXYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 3,
+      "text": {
+        "text": "挑戰西西里雞腿餐盒，蔬菜份量比想像多，是精緻又好吃的便當，但以男生來說會覺得吃不飽\n只是服務人員臉都臭臭的，需要包容一下",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "挑戰西西里雞腿餐盒，蔬菜份量比想像多，是精緻又好吃的便當，但以男生來說會覺得吃不飽\n只是服務人員臉都臭臭的，需要包容一下",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "邱維",
+        "uri": "https://www.google.com/maps/contrib/100545478187466741177/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIIBQ1crxxYijByQs5QZ9Lp_8Wktw1L3FnCrBPARWANsHgIog=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-24T13:05:08.839705190Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CTlZHSnlhVXBQYkhCcU5tZDZWSEZpUmsxb2FXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CTlZHSnlhVXBQYkhCcU5tZDZWSEZpUmsxb2FXYxAB!2m1!1s0x3442a973f503c2bb:0xee257967d28490f3"
+    },
+    {
+      "name": "places/ChIJu8ID9XOpQjQR85CE0md5Je4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkc1UxWmFOVlJoYm1kWUxVdFBOVWt5Wkdod1pVRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "很好吃的早餐，健身人士的首選，特別推薦一號餐招牌板睷牛腓套餐",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很好吃的早餐，健身人士的首選，特別推薦一號餐招牌板睷牛腓套餐",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "kam sin cheung",
+        "uri": "https://www.google.com/maps/contrib/106266138077476966484/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU1PDqc_im7NPNX24_StPg4UtmUdKh2sknHeSkMeo8YsJCpRh82=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-10T01:25:07.824981877Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkc1UxWmFOVlJoYm1kWUxVdFBOVWt5Wkdod1pVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkc1UxWmFOVlJoYm1kWUxVdFBOVWt5Wkdod1pVRRAB!2m1!1s0x3442a973f503c2bb:0xee257967d28490f3"
+    },
+    {
+      "name": "places/ChIJu8ID9XOpQjQR85CE0md5Je4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkWVdsRjZRVzF5TWpkUWJGQnVSMGhpTFhSMlNVRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "在uber上找健康餐看見，很特別的一間店，竟然開開宵夜時段，多數健康餐都開到8點前，能在這麼晚吃到健康美食真的很讚👍\n薄鹽雞胸三明治-全麥-胡麻醬 真的好好吃，吃起來很清爽，但可惜份量稍微有點小。芝麻鮮奶很香濃很好喝耶！看地點在西門站附近，剛好下班會經過，看來多了一個晚餐的好選擇。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在uber上找健康餐看見，很特別的一間店，竟然開開宵夜時段，多數健康餐都開到8點前，能在這麼晚吃到健康美食真的很讚👍\n薄鹽雞胸三明治-全麥-胡麻醬 真的好好吃，吃起來很清爽，但可惜份量稍微有點小。芝麻鮮奶很香濃很好喝耶！看地點在西門站附近，剛好下班會經過，看來多了一個晚餐的好選擇。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "WY.C",
+        "uri": "https://www.google.com/maps/contrib/106258839738116108188/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX_cXSR1kFD4GFJlVT9yKyAZPwaAcdqaPFMTrWXj2WajPSDnPjR=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-08-16T14:31:06.637595199Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkWVdsRjZRVzF5TWpkUWJGQnVSMGhpTFhSMlNVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkWVdsRjZRVzF5TWpkUWJGQnVSMGhpTFhSMlNVRRAB!2m1!1s0x3442a973f503c2bb:0xee257967d28490f3"
+    },
+    {
+      "name": "places/ChIJu8ID9XOpQjQR85CE0md5Je4/reviews/ChZDSUhNMG9nS0VJQ0FnTUNZLU1yX093EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "真的很喜歡，飯量剛剛好，菜也很多\n一週吃了三次都吃不膩~ 下次嘗試看看沙拉❤️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "真的很喜歡，飯量剛剛好，菜也很多\n一週吃了三次都吃不膩~ 下次嘗試看看沙拉❤️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "カモミール",
+        "uri": "https://www.google.com/maps/contrib/112589660867446941597/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVg5dgqB2qr5kK-2ctg6Fl_Ueep1ZPi3jDzxUcMihuqRIZL5dDFxg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-05-01T07:09:32.662042Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNZLU1yX093EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNZLU1yX093EAE!2m1!1s0x3442a973f503c2bb:0xee257967d28490f3"
+    },
+    {
+      "name": "places/ChIJu8ID9XOpQjQR85CE0md5Je4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Cb09YQlRNVmN5VlRneGFqTjZOVE5OVkRWclluYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 1,
+      "text": {
+        "text": "由於今天天氣比較寒冷，就點了雞肉有加熱的沙拉，沒想到店員竟然在我面前直接用手摸雞肉試溫度！完全不知道他的手剛剛摸了什麼東西？！真的是有夠誇張！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "由於今天天氣比較寒冷，就點了雞肉有加熱的沙拉，沒想到店員竟然在我面前直接用手摸雞肉試溫度！完全不知道他的手剛剛摸了什麼東西？！真的是有夠誇張！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "白白",
+        "uri": "https://www.google.com/maps/contrib/109595454538583632954/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJOqYsXfVytv5-9OVw03wSqrvx0_FbVQprUD6IIYGIiFneQuw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-26T14:18:07.222684281Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Cb09YQlRNVmN5VlRneGFqTjZOVE5OVkRWclluYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Cb09YQlRNVmN5VlRneGFqTjZOVE5OVkRWclluYxAB!2m1!1s0x3442a973f503c2bb:0xee257967d28490f3"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

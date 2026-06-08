@@ -1,0 +1,52 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "空間舒適沒壓魄感適合悠閒下午茶！",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "No menu for children (官方標記：不提供兒童餐)",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "No",
+        "evidence": "Not good for children (官方標記：不適合兒童)",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "Not good for children (官方標記：不適合兒童)",
+        "No menu for children (官方標記：不提供兒童餐)",
+        "空間舒適沒壓魄感適合悠閒下午茶！"
+    ],
+    "generated_summary": "該餐廳以義大利麵與燉飯等創意料理聞名，店內空間舒適且無壓迫感。然而，根據官方標記，該店並不適合兒童，且未提供兒童餐點，建議家長在規劃用餐時需多加考量。",
+    "card_summary": ""
+}

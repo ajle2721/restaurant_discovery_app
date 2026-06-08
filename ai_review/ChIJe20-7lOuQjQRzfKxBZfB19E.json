@@ -1,0 +1,54 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "整體用餐環境寬敞明亮，座位安排舒適，帶有典雅又不失熱鬧的氛圍，非常適合家庭聚餐或朋友聚會。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "No menu for children (官方標記：不提供兒童餐)",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "Good for children (官方標記：適合兒童)",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "No",
+        "evidence": "親子育嬰空間：無",
+        "confidence": 0.9
+    },
+    "has_private_room": {
+        "result": "Yes",
+        "evidence": "六店也同樣在大業路上且有私人的包廂喔",
+        "confidence": 0.9
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "No",
+        "evidence": "親子育嬰空間：無",
+        "confidence": 0.9
+    },
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "No menu for children (官方標記：不提供兒童餐)",
+        "親子育嬰空間：無",
+        "整體用餐環境寬敞明亮，座位安排舒適，帶有典雅又不失熱鬧的氛圍，非常適合家庭聚餐或朋友聚會。",
+        "Good for children (官方標記：適合兒童)",
+        "六店也同樣在大業路上且有私人的包廂喔"
+    ],
+    "generated_summary": "喬園海鮮料理餐廳環境寬敞舒適，官方標記適合兒童且氣氛熱鬧，適合家庭聚餐，部分分店設有包廂。不過餐廳明確標示不提供兒童餐，且評論中未提及兒童座椅、餐具或尿布台等設施，建議家長前往時可自行準備相關用品。",
+    "card_summary": ""
+}

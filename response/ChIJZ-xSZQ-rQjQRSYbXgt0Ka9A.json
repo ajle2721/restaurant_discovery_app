@@ -1,0 +1,133 @@
+{
+  "id": "ChIJZ-xSZQ-rQjQRSYbXgt0Ka9A",
+  "types": [
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2935 5811",
+  "formattedAddress": "116台灣臺北市文山區景華里景興路174號",
+  "location": {
+    "latitude": 24.992897199999998,
+    "longitude": 121.5441402
+  },
+  "rating": 4.4,
+  "websiteUri": "https://m.facebook.com/baidou.day/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 913,
+  "displayName": {
+    "text": "擺渡冰室",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJZ-xSZQ-rQjQRSYbXgt0Ka9A/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGVFF6bGlZVkZWUzAxSFRHMHpXRVl3UzI1ck1sRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "覺得東西都可以！從小吃廣炒麵覺得他們麵偏硬不脆！冰火菠蘿油偏甜！但是很好吃！雞翅好吃👍👍👍整體店面乾淨東西好吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "覺得東西都可以！從小吃廣炒麵覺得他們麵偏硬不脆！冰火菠蘿油偏甜！但是很好吃！雞翅好吃👍👍👍整體店面乾淨東西好吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "姚采潔",
+        "uri": "https://www.google.com/maps/contrib/102770918507380791045/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKJQYkIK9UxACV63-GSYpBZZuii7QXdfJRadZ_BQnCpudm8gg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-22T12:30:17.373113886Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGVFF6bGlZVkZWUzAxSFRHMHpXRVl3UzI1ck1sRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGVFF6bGlZVkZWUzAxSFRHMHpXRVl3UzI1ck1sRRAB!2m1!1s0x3442ab0f6552ec67:0xd06b0add82d78649"
+    },
+    {
+      "name": "places/ChIJZ-xSZQ-rQjQRSYbXgt0Ka9A/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oTVIyeEpWRFp4VlZNeVRITm1kVlZuTUVsRk1IYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第一次吃盅頭飯\n餐點非常美味，飯量香味十足\n凍檸茶好好喝 雞翅好入味\n店員都好親切漂亮😋",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次吃盅頭飯\n餐點非常美味，飯量香味十足\n凍檸茶好好喝 雞翅好入味\n店員都好親切漂亮😋",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "吳佑姀YU-HO",
+        "uri": "https://www.google.com/maps/contrib/108773454290700532665/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXSHVckHaJaywURqwCmUyrvhZqn-9pPjDkLx43gDFPEKiokcWR6=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-30T12:22:01.469950991Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oTVIyeEpWRFp4VlZNeVRITm1kVlZuTUVsRk1IYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oTVIyeEpWRFp4VlZNeVRITm1kVlZuTUVsRk1IYxAB!2m1!1s0x3442ab0f6552ec67:0xd06b0add82d78649"
+    },
+    {
+      "name": "places/ChIJZ-xSZQ-rQjQRSYbXgt0Ka9A/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sTFVrNXBOa2hMVDNORlVFRmplazgyUjBoTWQxRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "超推臘味香炒飯跟南乳香雞翼\n喜歡吃臘味香腸的人絕對要點來吃看看\n\n另外南乳雞翼外表看起來雖然像一般炸雞翅\n但是吃起來完全不一樣啊\n完美呈現外酥內軟\n尤其是滷雞翅的秘製滷汁\n讓雞翅吃起來滿滿的層次",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "超推臘味香炒飯跟南乳香雞翼\n喜歡吃臘味香腸的人絕對要點來吃看看\n\n另外南乳雞翼外表看起來雖然像一般炸雞翅\n但是吃起來完全不一樣啊\n完美呈現外酥內軟\n尤其是滷雞翅的秘製滷汁\n讓雞翅吃起來滿滿的層次",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "董毓強",
+        "uri": "https://www.google.com/maps/contrib/110325257496997608531/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIbhdG-b72RPCmQDId4lcR-R16jdOFAd4d9Rvft06K-26-Ubw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-09-14T11:53:19.089967675Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sTFVrNXBOa2hMVDNORlVFRmplazgyUjBoTWQxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sTFVrNXBOa2hMVDNORlVFRmplazgyUjBoTWQxRRAB!2m1!1s0x3442ab0f6552ec67:0xd06b0add82d78649"
+    },
+    {
+      "name": "places/ChIJZ-xSZQ-rQjQRSYbXgt0Ka9A/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xVeFJsZFZUMkZ4VEZsR016TmlVbEpxWm1kWmFIYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "昨天經過看到生意很好\n查了一下 發現別人po的炒飯圖片看起來粒粒分明感覺很好吃！今天就決定來解鎖啦～～\n炒飯很有鍋氣😍😍😍！我喜歡！\n整體真的蠻好吃的 辣椒很辣\n流沙包今天缺貨 之後有機會再來吃～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "昨天經過看到生意很好\n查了一下 發現別人po的炒飯圖片看起來粒粒分明感覺很好吃！今天就決定來解鎖啦～～\n炒飯很有鍋氣😍😍😍！我喜歡！\n整體真的蠻好吃的 辣椒很辣\n流沙包今天缺貨 之後有機會再來吃～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "江宜蓁",
+        "uri": "https://www.google.com/maps/contrib/101319427488837970408/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXebIGaUNMMrLUHWsI1yn1X42Xll0P1cwNkjkbY3kqahyYqnV7xyQ=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-16T10:51:32.496451888Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xVeFJsZFZUMkZ4VEZsR016TmlVbEpxWm1kWmFIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xVeFJsZFZUMkZ4VEZsR016TmlVbEpxWm1kWmFIYxAB!2m1!1s0x3442ab0f6552ec67:0xd06b0add82d78649"
+    },
+    {
+      "name": "places/ChIJZ-xSZQ-rQjQRSYbXgt0Ka9A/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOMlNVSXdlRWRIVW1kVllVVjFlVUZUY25CWFRYYxAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 5,
+      "text": {
+        "text": "櫃檯小姐很客氣\n店內佈置簡單但蠻有香港味~\n店內位子大概3組4人桌、4組2人桌！\n建議可以先訂位，星期天晚上來用餐，開店不到半小時，就差不多滿位了。\n\n今天點的3道：\n沙爹牛肉炒公仔麵-有鍋氣及焦香味，稍微鹹了點，但整體來說是好吃的。\n澳門豬扒包-烤的香脆的軟法麵包，夾著軟嫩的香煎豬排，搭配幾片生菜及番茄切片，超出預期的清爽好吃！\n雙喜珍珠丸-感覺是蝦仁搭配豬肉，就是道中規中矩的珍珠丸。\n\n景美一代難得的港式料理，整體來說蠻好吃的，下次還會想去品嚐其他料理~",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "櫃檯小姐很客氣\n店內佈置簡單但蠻有香港味~\n店內位子大概3組4人桌、4組2人桌！\n建議可以先訂位，星期天晚上來用餐，開店不到半小時，就差不多滿位了。\n\n今天點的3道：\n沙爹牛肉炒公仔麵-有鍋氣及焦香味，稍微鹹了點，但整體來說是好吃的。\n澳門豬扒包-烤的香脆的軟法麵包，夾著軟嫩的香煎豬排，搭配幾片生菜及番茄切片，超出預期的清爽好吃！\n雙喜珍珠丸-感覺是蝦仁搭配豬肉，就是道中規中矩的珍珠丸。\n\n景美一代難得的港式料理，整體來說蠻好吃的，下次還會想去品嚐其他料理~",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yang",
+        "uri": "https://www.google.com/maps/contrib/114342834043948229792/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXqS6KYdksFtVcXKfQhPUa3Llgprpl4Nw_Fweisv7WjC34-baNJ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-07-20T11:20:15.668206376Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOMlNVSXdlRWRIVW1kVllVVjFlVUZUY25CWFRYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOMlNVSXdlRWRIVW1kVllVVjFlVUZUY25CWFRYYxAB!2m1!1s0x3442ab0f6552ec67:0xd06b0add82d78649"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

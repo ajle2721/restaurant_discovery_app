@@ -1,0 +1,133 @@
+{
+  "id": "ChIJg9pN0z6pQjQRixoPBIGd_m4",
+  "types": [
+    "korean_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2537 5068",
+  "formattedAddress": "104台灣臺北市中山區正得里中山北路一段121巷15號",
+  "location": {
+    "latitude": 25.0510755,
+    "longitude": 121.52379839999999
+  },
+  "rating": 4.6,
+  "websiteUri": "https://www.facebook.com/Ma-C-So-Yo-%E7%AF%89%E5%A4%A2%E9%9F%93%E9%A3%9F-%E4%B8%AD%E5%B1%B1%E5%BA%97-171238940219945/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 3234,
+  "displayName": {
+    "text": "Ma C So Yo 築夢韓食",
+    "languageCode": "zh-HK"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJg9pN0z6pQjQRixoPBIGd_m4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poa1RHdGpSblE0T0dwbWFtc3dZM1puWHpoaFMwRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第一次到訪用餐，環境很好，最棒的是服務態度，點了雙人套餐，餐點不錯，點菜沒看好多點到飲料，直接幫我們取消調整，飲料不小心灑倒，店員輔助清潔，還貼心的補償飲料，整個超暖的，大推",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次到訪用餐，環境很好，最棒的是服務態度，點了雙人套餐，餐點不錯，點菜沒看好多點到飲料，直接幫我們取消調整，飲料不小心灑倒，店員輔助清潔，還貼心的補償飲料，整個超暖的，大推",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "ya Mi",
+        "uri": "https://www.google.com/maps/contrib/111470169631418917615/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJnkiI9kgczr7HawL2QKI2ljQUcIgr0P0TZJfALBr9vvlcG8O0=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-31T17:57:24.049712050Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poa1RHdGpSblE0T0dwbWFtc3dZM1puWHpoaFMwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poa1RHdGpSblE0T0dwbWFtc3dZM1puWHpoaFMwRRAB!2m1!1s0x3442a93ed34dda83:0x6efe9d81040f1a8b"
+    },
+    {
+      "name": "places/ChIJg9pN0z6pQjQRixoPBIGd_m4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCdWJESlRkMVZQY0VrMGRHNW1SekZNVm1aQmVtYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "中規中矩的平價韓式料理店！朋友上次來吃抽到免費雙人套餐，份量兩個女生吃還足夠，比較好吃的就是韓式炸雞還不錯！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "中規中矩的平價韓式料理店！朋友上次來吃抽到免費雙人套餐，份量兩個女生吃還足夠，比較好吃的就是韓式炸雞還不錯！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Bear Cat (Bear Cat)",
+        "uri": "https://www.google.com/maps/contrib/115972089983939895341/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV78au9gPKisgzwsgFZrdl4lFaLgpKAQLwb-OHOpbW8vfn1qc3nGg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-27T16:22:17.734328705Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCdWJESlRkMVZQY0VrMGRHNW1SekZNVm1aQmVtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCdWJESlRkMVZQY0VrMGRHNW1SekZNVm1aQmVtYxAB!2m1!1s0x3442a93ed34dda83:0x6efe9d81040f1a8b"
+    },
+    {
+      "name": "places/ChIJg9pN0z6pQjQRixoPBIGd_m4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psT1pEQkZUV1l5YjJOUGNtdENURXd4TlROVVptYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 1,
+      "text": {
+        "text": "和友人一起點了「四人套餐」，整體餐點味道不錯，飯後還有一個小甜點。\n\n餐廳內隨處可見韓國偶像的照片，甚至牆壁還有投影歌曲MV，增添氣氛。\n\n可惜一進門，感覺櫃檯那個區域有濃濃的香煙味；外場服務生至少3個，卻屢次在門口櫃檯背對用餐顧客聊天，以致於顧客舉手或呼喊服務生都沒能即時得到回應，甚至我在用餐期間，看到幾個服務生成群結隊走出門外，過了一陣子才回到店內；外場服務生也沒有配戴口罩，上菜途中跟同事擦肩喊著借過。\n整體觀察下來，好像店內沒有一個管理者可以即時糾正這些事情。\n\n我的用餐體驗極差…",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "和友人一起點了「四人套餐」，整體餐點味道不錯，飯後還有一個小甜點。\n\n餐廳內隨處可見韓國偶像的照片，甚至牆壁還有投影歌曲MV，增添氣氛。\n\n可惜一進門，感覺櫃檯那個區域有濃濃的香煙味；外場服務生至少3個，卻屢次在門口櫃檯背對用餐顧客聊天，以致於顧客舉手或呼喊服務生都沒能即時得到回應，甚至我在用餐期間，看到幾個服務生成群結隊走出門外，過了一陣子才回到店內；外場服務生也沒有配戴口罩，上菜途中跟同事擦肩喊著借過。\n整體觀察下來，好像店內沒有一個管理者可以即時糾正這些事情。\n\n我的用餐體驗極差…",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Zwillinge",
+        "uri": "https://www.google.com/maps/contrib/101693014304523273195/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVvYUEQkc9F3DNNaq_2GPCiWNWqxbJSf4nXoH4vFcqUbi-sPW2kCw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-01T03:50:01.616889782Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psT1pEQkZUV1l5YjJOUGNtdENURXd4TlROVVptYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psT1pEQkZUV1l5YjJOUGNtdENURXd4TlROVVptYxAB!2m1!1s0x3442a93ed34dda83:0x6efe9d81040f1a8b"
+    },
+    {
+      "name": "places/ChIJg9pN0z6pQjQRixoPBIGd_m4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCb2RXNXNkVlZvTmtadE0wRkxhbHBoV1VOcFdIYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點平價量多也好吃～\n兩個女生吃這樣真的飽到天\n店員也都好親切又貼心\n謝謝店員幫我們拍照留念",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點平價量多也好吃～\n兩個女生吃這樣真的飽到天\n店員也都好親切又貼心\n謝謝店員幫我們拍照留念",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Wabie HOU",
+        "uri": "https://www.google.com/maps/contrib/112450967467764578329/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUZOh7J4CxamlHzNUjOtd6SRJFpbkMbiXRdfJd8zR-VwNOmnxP1=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-20T15:43:26.973907544Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCb2RXNXNkVlZvTmtadE0wRkxhbHBoV1VOcFdIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCb2RXNXNkVlZvTmtadE0wRkxhbHBoV1VOcFdIYxAB!2m1!1s0x3442a93ed34dda83:0x6efe9d81040f1a8b"
+    },
+    {
+      "name": "places/ChIJg9pN0z6pQjQRixoPBIGd_m4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1dWNtOW1WbGRyY1VGRFFtSmhhMEo2TkU5WVdYYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "一進門就被滿滿專輯小卡吸引🤩\n雞湯配糯米很道地\n味道溫潤、份量超足🙂‍↕️\n金沙薯條脆度剛好✨\n吃得很滿足😋",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一進門就被滿滿專輯小卡吸引🤩\n雞湯配糯米很道地\n味道溫潤、份量超足🙂‍↕️\n金沙薯條脆度剛好✨\n吃得很滿足😋",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "HuiHsuan 蕙萱 (HuiHsuan)",
+        "uri": "https://www.google.com/maps/contrib/114727882306587747311/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWPwgvC6qf6W1DgwaJx6k9thB19ME4G6eZJol-kRHjCqZ6hCyveYA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-06T16:12:45.550846807Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1dWNtOW1WbGRyY1VGRFFtSmhhMEo2TkU5WVdYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1dWNtOW1WbGRyY1VGRFFtSmhhMEo2TkU5WVdYYxAB!2m1!1s0x3442a93ed34dda83:0x6efe9d81040f1a8b"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

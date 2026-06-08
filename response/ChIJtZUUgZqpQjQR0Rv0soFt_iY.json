@@ -1,0 +1,134 @@
+{
+  "id": "ChIJtZUUgZqpQjQR0Rv0soFt_iY",
+  "types": [
+    "cafe",
+    "italian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2366 0502",
+  "formattedAddress": "100台灣臺北市中正區板溪里羅斯福路二段142-1號",
+  "location": {
+    "latitude": 25.025723900000003,
+    "longitude": 121.52298800000001
+  },
+  "rating": 4.1,
+  "websiteUri": "https://lin.ee/f8pfgRF",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 254,
+  "displayName": {
+    "text": "Tommy Coffee",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJtZUUgZqpQjQR0Rv0soFt_iY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kblZHbHRWMHh4VFdWaVNrNHdaMWxhV2xKVmJXYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "推推，綠咖喱飯還附紅茶/奶茶，還可以無糖🤩優質好店🙂‍↕️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "推推，綠咖喱飯還附紅茶/奶茶，還可以無糖🤩優質好店🙂‍↕️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "宋星儀",
+        "uri": "https://www.google.com/maps/contrib/106836571894415206362/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV3CwnjT0_7aC8512VVY8bA3RPD_hjWlsKtsXxewgPNnhmZC71rFg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-11-21T08:22:15.688624975Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kblZHbHRWMHh4VFdWaVNrNHdaMWxhV2xKVmJXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kblZHbHRWMHh4VFdWaVNrNHdaMWxhV2xKVmJXYxAB!2m1!1s0x3442a99a811495b5:0x26fe6d81b2f41bd1"
+    },
+    {
+      "name": "places/ChIJtZUUgZqpQjQR0Rv0soFt_iY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tad1h6WnFkV1kwTmxOSFJWWlBiRmROY21KSllrRRAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 4,
+      "text": {
+        "text": "我看其他評論幾乎都寫義大利麵好吃；看來是我運氣不好，舒肥雞胸義大利麵，麵硬且吃起來無味道。\n很適合同學或朋友久坐聊天和看看書。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "我看其他評論幾乎都寫義大利麵好吃；看來是我運氣不好，舒肥雞胸義大利麵，麵硬且吃起來無味道。\n很適合同學或朋友久坐聊天和看看書。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Sokolov Girigory",
+        "uri": "https://www.google.com/maps/contrib/105802193226137316342/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV2qNLTQ6Z2RdrDtyrk8EJm_OrdVjEoDSZe9ML1kmI1Kh8_XyEk=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-08-03T15:35:39.137687981Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tad1h6WnFkV1kwTmxOSFJWWlBiRmROY21KSllrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tad1h6WnFkV1kwTmxOSFJWWlBiRmROY21KSllrRRAB!2m1!1s0x3442a99a811495b5:0x26fe6d81b2f41bd1"
+    },
+    {
+      "name": "places/ChIJtZUUgZqpQjQR0Rv0soFt_iY/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzLU82bmlRRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "二訪吃吃看紅醬義大利麵\n感覺青醬好吃一些\n—————————\n平日商業午餐 培根青醬義大利麵 109$  (附飲料選紅茶)\n還不錯吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "二訪吃吃看紅醬義大利麵\n感覺青醬好吃一些\n—————————\n平日商業午餐 培根青醬義大利麵 109$  (附飲料選紅茶)\n還不錯吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "twodollar (冷摳)",
+        "uri": "https://www.google.com/maps/contrib/116638852275577584143/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW4MD4vtzbD2NlDkLtg2cRtaa0219KgZwCe3OwZPsXGjeTJZIV-=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-01-06T04:27:52.828504Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzLU82bmlRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzLU82bmlRRRAB!2m1!1s0x3442a99a811495b5:0x26fe6d81b2f41bd1"
+    },
+    {
+      "name": "places/ChIJtZUUgZqpQjQR0Rv0soFt_iY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfektxN1dREAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "商業午餐非常划算\n義大利麵+飲料竟然不用120\n且口味及份量也有一定水準",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "商業午餐非常划算\n義大利麵+飲料竟然不用120\n且口味及份量也有一定水準",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Will Hu",
+        "uri": "https://www.google.com/maps/contrib/102039551912606680332/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXWVgGpK_Wxp4CH8E8oS4Y0wVsk78d_evBeBifXDQJ-BRqcIGxj=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-03-20T04:34:58.658311Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfektxN1dREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfektxN1dREAE!2m1!1s0x3442a99a811495b5:0x26fe6d81b2f41bd1"
+    },
+    {
+      "name": "places/ChIJtZUUgZqpQjQR0Rv0soFt_iY/reviews/ChZDSUhNMG9nS0VLLVVzNVROdVpQSU9nEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "粉紅醬雞肉義大利麵🍝味道價格可以😌麵這次稍微偏硬！\n好久沒來吃了！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "粉紅醬雞肉義大利麵🍝味道價格可以😌麵這次稍微偏硬！\n好久沒來吃了！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "江瑞奇",
+        "uri": "https://www.google.com/maps/contrib/117908810714813535003/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUTJ2XXpdaplSa3n2NFjLXXN-gVk-91n1EkhFYduaKo-WV0QTW=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-05-10T05:30:25.040562Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VLLVVzNVROdVpQSU9nEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VLLVVzNVROdVpQSU9nEAE!2m1!1s0x3442a99a811495b5:0x26fe6d81b2f41bd1"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": false
+}

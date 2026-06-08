@@ -1,0 +1,139 @@
+{
+  "id": "ChIJg4-vmI-pQjQR89rLaG-eoQo",
+  "types": [
+    "pizza_delivery",
+    "meal_delivery",
+    "meal_takeaway",
+    "food_delivery",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2367 8267",
+  "formattedAddress": "106台灣臺北市大安區古莊里師大路86巷2號",
+  "location": {
+    "latitude": 25.0228964,
+    "longitude": 121.52806729999998
+  },
+  "rating": 4.2,
+  "websiteUri": "https://www.pizzahut.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 648,
+  "displayName": {
+    "text": "PIZZA HUT必勝客 師大店",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Family-friendly chain known for its made-to-order pizzas.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJg4-vmI-pQjQR89rLaG-eoQo/reviews/Ci9DQUlRQUNvZENodHljRjlvT201clprbzRZVGsyWmtwRFZGOXFXSFZzY0hSVk5uYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "今年的跨年夜沒有外出，因為兒子正準備大考，全家就選擇在家輕鬆過。剛好Pizza Hut的優惠券快到期，乾脆直接下訂Pizza Hut師大店，買回來一起吃，反而更自在，也更有跨年的感覺。\n餐點一到，整桌擺開真的很有年味。大經典費城起司牛肉薄皮披薩薄皮酥脆，起司跟牛肉搭得很好，鹹香但不膩，吃起來很順，一片接一片。大芝心BBQ黃金嫩雞披薩則是芝心很有存在感，BBQ醬甜鹹剛好，雞肉也嫩，是會讓人不自覺多拿一塊的那種口味。\n配餐表現也很優，黃金和風鱈魚塊外酥內嫩，完全沒有腥味，口感清爽；薯金幣外酥內鬆，簡單卻稱職；台味三拼裡的雞軟骨夠脆、杏鮑菇多汁、甜不辣香酥，真的台味十足，很有親切感。再配上百事可樂，剛好把整桌偏重口味的餐點平衡掉。\n飲料跟點心另外還搭配了喜愛的Starbucks。跟兒子一起喝的是特大杯冰特選焦糖瑪奇朵，咖啡香濃、焦糖不會太甜，邊喝邊聊也讓備考的緊繃感放鬆不少；老婆選的是特大杯冰蜜柚紅茶，清爽解膩，果香自然，很適合搭披薩。最後再加點比利時鬆餅兩份，外酥內軟，當餐後甜點剛剛好。\n今年窗外下著雨，應該看不到煙火，但在家吃著Pizza Hut、喝著咖啡、聊天笑鬧，其實比外頭熱鬧的倒數還舒服。就這樣簡單地送走2025年，也安靜地迎接 2026年，平凡卻很滿足。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今年的跨年夜沒有外出，因為兒子正準備大考，全家就選擇在家輕鬆過。剛好Pizza Hut的優惠券快到期，乾脆直接下訂Pizza Hut師大店，買回來一起吃，反而更自在，也更有跨年的感覺。\n餐點一到，整桌擺開真的很有年味。大經典費城起司牛肉薄皮披薩薄皮酥脆，起司跟牛肉搭得很好，鹹香但不膩，吃起來很順，一片接一片。大芝心BBQ黃金嫩雞披薩則是芝心很有存在感，BBQ醬甜鹹剛好，雞肉也嫩，是會讓人不自覺多拿一塊的那種口味。\n配餐表現也很優，黃金和風鱈魚塊外酥內嫩，完全沒有腥味，口感清爽；薯金幣外酥內鬆，簡單卻稱職；台味三拼裡的雞軟骨夠脆、杏鮑菇多汁、甜不辣香酥，真的台味十足，很有親切感。再配上百事可樂，剛好把整桌偏重口味的餐點平衡掉。\n飲料跟點心另外還搭配了喜愛的Starbucks。跟兒子一起喝的是特大杯冰特選焦糖瑪奇朵，咖啡香濃、焦糖不會太甜，邊喝邊聊也讓備考的緊繃感放鬆不少；老婆選的是特大杯冰蜜柚紅茶，清爽解膩，果香自然，很適合搭披薩。最後再加點比利時鬆餅兩份，外酥內軟，當餐後甜點剛剛好。\n今年窗外下著雨，應該看不到煙火，但在家吃著Pizza Hut、喝著咖啡、聊天笑鬧，其實比外頭熱鬧的倒數還舒服。就這樣簡單地送走2025年，也安靜地迎接 2026年，平凡卻很滿足。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hiro Huang",
+        "uri": "https://www.google.com/maps/contrib/109569149642657433835/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZH8neHWhGucVqT2voK5vSP0EVLYTaMVGqZb0L6zBArfdhiZBp=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-31T13:09:13.449361157Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201clprbzRZVGsyWmtwRFZGOXFXSFZzY0hSVk5uYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201clprbzRZVGsyWmtwRFZGOXFXSFZzY0hSVk5uYxAB!2m1!1s0x3442a98f98af8f83:0xaa19e6f68cbdaf3"
+    },
+    {
+      "name": "places/ChIJg4-vmI-pQjQR89rLaG-eoQo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pJMWExTXlWRmhvYUcxNE1YbFlOVk5uVldkM2MxRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "是台北最好吃的比薩，回訪無數遍，水牛城雞翅的酸和辣都相當極致，過癮。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "是台北最好吃的比薩，回訪無數遍，水牛城雞翅的酸和辣都相當極致，過癮。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "YY Peng",
+        "uri": "https://www.google.com/maps/contrib/105384054866186959795/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKJR6Mbp1ouyiwG6NUsRgocjdegfTfmev3279WPQY3BmMUOKQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-09T11:29:29.146064728Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pJMWExTXlWRmhvYUcxNE1YbFlOVk5uVldkM2MxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pJMWExTXlWRmhvYUcxNE1YbFlOVk5uVldkM2MxRRAB!2m1!1s0x3442a98f98af8f83:0xaa19e6f68cbdaf3"
+    },
+    {
+      "name": "places/ChIJg4-vmI-pQjQR89rLaG-eoQo/reviews/Ci9DQUlRQUNvZENodHljRjlvT201bWVGaE9NR2RrWTNsa00yUnJOVVphYm1Kbk9WRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 2,
+      "text": {
+        "text": "這幾年不時這家外帶用自取或是用外帶送平台點餐，今天點了兩個個人披薩搭配雞翅和薯餅，吃完肚子不舒服一直排氣，跟我一起吃的人沒多久就去拉肚子⋯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這幾年不時這家外帶用自取或是用外帶送平台點餐，今天點了兩個個人披薩搭配雞翅和薯餅，吃完肚子不舒服一直排氣，跟我一起吃的人沒多久就去拉肚子⋯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Nori Yang",
+        "uri": "https://www.google.com/maps/contrib/110937410378158916057/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUgN92jhxakHdBd58cC5jQNwwUPRYywsjgBS20SChgNUnESyhir=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-17T06:14:32.865399965Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201bWVGaE9NR2RrWTNsa00yUnJOVVphYm1Kbk9WRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201bWVGaE9NR2RrWTNsa00yUnJOVVphYm1Kbk9WRRAB!2m1!1s0x3442a98f98af8f83:0xaa19e6f68cbdaf3"
+    },
+    {
+      "name": "places/ChIJg4-vmI-pQjQR89rLaG-eoQo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKNVVIVkRkMHRtTW5CUFNsTkZaRE5UVGtWT00xRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 1,
+      "text": {
+        "text": "沒什麼客人，點兩個小披薩，店員告知二十分鐘，實際等待一個小時",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "沒什麼客人，點兩個小披薩，店員告知二十分鐘，實際等待一個小時",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "蔡耀德",
+        "uri": "https://www.google.com/maps/contrib/107558731497157841618/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUoE2HhhnYehzKiE0JAOAPgKbPHnVVEE_nD6yvJ2EXnhyKTWQ-T=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-22T07:47:54.262187107Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKNVVIVkRkMHRtTW5CUFNsTkZaRE5UVGtWT00xRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKNVVIVkRkMHRtTW5CUFNsTkZaRE5UVGtWT00xRRAB!2m1!1s0x3442a98f98af8f83:0xaa19e6f68cbdaf3"
+    },
+    {
+      "name": "places/ChIJg4-vmI-pQjQR89rLaG-eoQo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KYVRUQkdRa04wT0VRNE5VdFZVRTEwYVhKNWIzYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "平日晚上 有買一送一的檔期 等不超過半小時",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "平日晚上 有買一送一的檔期 等不超過半小時",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "吉姆車",
+        "uri": "https://www.google.com/maps/contrib/109474986384391180907/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWhXTP_3mdgIaNR3UQWpKppB-oGYAs2m8eh0um5hmU_vgn5XU1QUg=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-02-10T02:31:30.815070580Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KYVRUQkdRa04wT0VRNE5VdFZVRTEwYVhKNWIzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KYVRUQkdRa04wT0VRNE5VdFZVRTEwYVhKNWIzYxAB!2m1!1s0x3442a98f98af8f83:0xaa19e6f68cbdaf3"
+    }
+  ],
+  "menuForChildren": false
+}

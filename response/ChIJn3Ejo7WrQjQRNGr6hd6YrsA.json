@@ -1,0 +1,133 @@
+{
+  "id": "ChIJn3Ejo7WrQjQRNGr6hd6YrsA",
+  "types": [
+    "restaurant",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2720 4179",
+  "formattedAddress": "110台灣臺北市信義區景新里莊敬路208號1樓",
+  "location": {
+    "latitude": 25.0302868,
+    "longitude": 121.5614789
+  },
+  "rating": 4.6,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1262,
+  "displayName": {
+    "text": "Cloud 9 Cafe 信義店",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJn3Ejo7WrQjQRNGr6hd6YrsA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21weVkyTndSbnB1TlZJeVluSnVUMWRvY0c5WWNuYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "小小的店面，生意很好，最好先訂位。\n早午餐一份的份量正正好，炒蛋不油膩，鮭魚新鮮，配上洋蔥味道不錯，優格配上水果非常美味，加價選鮮榨果汁，超健康的！價格也可接受，是可以常來的日常餐飲。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "小小的店面，生意很好，最好先訂位。\n早午餐一份的份量正正好，炒蛋不油膩，鮭魚新鮮，配上洋蔥味道不錯，優格配上水果非常美味，加價選鮮榨果汁，超健康的！價格也可接受，是可以常來的日常餐飲。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chou Danching",
+        "uri": "https://www.google.com/maps/contrib/109400794779631577081/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWAhfgV3lKZf2x6NBYO3i8wRN6bkttBfYZ3wWgvnxhvFy3tvdzD=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-19T04:47:44.474039104Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21weVkyTndSbnB1TlZJeVluSnVUMWRvY0c5WWNuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21weVkyTndSbnB1TlZJeVluSnVUMWRvY0c5WWNuYxAB!2m1!1s0x3442abb5a323719f:0xc0ae98de85fa6a34"
+    },
+    {
+      "name": "places/ChIJn3Ejo7WrQjQRNGr6hd6YrsA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KWVNWUTRMV3hXZFUxR1ZpMUZXWGRsUTNCS1NYYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 3,
+      "text": {
+        "text": "這間強調不限時，是許多網友說的一個重要特點。對很多人來說，很難在台北能找到既有餐點又不限時的咖啡館。  ￼\n2.\t環境與裝潢氣氛不錯\n裝潢偏現代混工業風＋木質元素，牆面、地面與傢俱有搭配感。漂漂亮亮的窗邊、透明椅、高腳桌等，是網美／拍照族喜歡的風格。整體空間乾淨、座位舒適。  ￼\n3.\t餐飲品項多樣，有正餐＋輕食＋飲品\n除了常見咖啡／飲料，他們有商業午餐組合（含主餐、沙拉、飲料），選擇不少。義大利麵、醬汁調味、食材新鮮度通常被評為值得推薦。  ￼\n4.\t價位具有競爭力\n在北市中心地帶，整套餐＋飲料在 300 元以下就能做到，是一個相當有吸引力的價格區間。這讓他在平日午餐或聚餐市場有不錯吸引力。  ￼\n5.\t服務與細節用心\n有報導說外帶杯子印商標、餐具與飲用水會先備好等細節，也有給人「被照顧到」的感覺。  ￼\n\n⚠ 潛在弱點或需要注意的地方\n1.\t甜度／飲料口味偏中、固定甜度可能不夠彈性\n有食記提到某些飲品的甜度對他們來說偏高，可能對喜歡低糖／微糖／風味更強烈者稍有不滿意。  ￼\n2.\t人氣時段可能擁擠／座位緊張\n在熱門時間段（假日、午餐、下午茶）可能有競爭座位的情況，若店內客滿，氛圍可能略壓迫。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這間強調不限時，是許多網友說的一個重要特點。對很多人來說，很難在台北能找到既有餐點又不限時的咖啡館。  ￼\n2.\t環境與裝潢氣氛不錯\n裝潢偏現代混工業風＋木質元素，牆面、地面與傢俱有搭配感。漂漂亮亮的窗邊、透明椅、高腳桌等，是網美／拍照族喜歡的風格。整體空間乾淨、座位舒適。  ￼\n3.\t餐飲品項多樣，有正餐＋輕食＋飲品\n除了常見咖啡／飲料，他們有商業午餐組合（含主餐、沙拉、飲料），選擇不少。義大利麵、醬汁調味、食材新鮮度通常被評為值得推薦。  ￼\n4.\t價位具有競爭力\n在北市中心地帶，整套餐＋飲料在 300 元以下就能做到，是一個相當有吸引力的價格區間。這讓他在平日午餐或聚餐市場有不錯吸引力。  ￼\n5.\t服務與細節用心\n有報導說外帶杯子印商標、餐具與飲用水會先備好等細節，也有給人「被照顧到」的感覺。  ￼\n\n⚠ 潛在弱點或需要注意的地方\n1.\t甜度／飲料口味偏中、固定甜度可能不夠彈性\n有食記提到某些飲品的甜度對他們來說偏高，可能對喜歡低糖／微糖／風味更強烈者稍有不滿意。  ￼\n2.\t人氣時段可能擁擠／座位緊張\n在熱門時間段（假日、午餐、下午茶）可能有競爭座位的情況，若店內客滿，氛圍可能略壓迫。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "李孟澤",
+        "uri": "https://www.google.com/maps/contrib/102443174330215353210/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVcWAbOEZLMSTOSDrborcCmuFkWXIBCzU6uFYJ6ZpplKbD2GMoj=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-01T09:00:02.354793143Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KWVNWUTRMV3hXZFUxR1ZpMUZXWGRsUTNCS1NYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KWVNWUTRMV3hXZFUxR1ZpMUZXWGRsUTNCS1NYYxAB!2m1!1s0x3442abb5a323719f:0xc0ae98de85fa6a34"
+    },
+    {
+      "name": "places/ChIJn3Ejo7WrQjQRNGr6hd6YrsA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGblRuRlNTRFUzU2xKSVNuZ3pNVFJyUm5KS1dIYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "進來的時候剛好遇到結帳大排長龍\n我先自己找位置坐，服務生很親切馬上來幫我點餐\n本來想說信義區$269的商業午餐應該普普通通\n但味道和份量都在預料之上！\n（加一成服務費）\n\n點了青醬雞肉筆管麵、美式咖啡和沙拉\n青醬吃得出來是店家自己做的，不是調理包\n筆管麵份量很剛好也維持Q度\n雞肉很大片但有醃過蠻嫩的不會乾柴\n還有菇類跟櫛瓜！大加分！\n美式滿濃的，不酸口還超大杯\n裝潢也很漂亮，還給我貼心到附3M雙線牙線！\n幾霸分！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "進來的時候剛好遇到結帳大排長龍\n我先自己找位置坐，服務生很親切馬上來幫我點餐\n本來想說信義區$269的商業午餐應該普普通通\n但味道和份量都在預料之上！\n（加一成服務費）\n\n點了青醬雞肉筆管麵、美式咖啡和沙拉\n青醬吃得出來是店家自己做的，不是調理包\n筆管麵份量很剛好也維持Q度\n雞肉很大片但有醃過蠻嫩的不會乾柴\n還有菇類跟櫛瓜！大加分！\n美式滿濃的，不酸口還超大杯\n裝潢也很漂亮，還給我貼心到附3M雙線牙線！\n幾霸分！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Evelyn Chang",
+        "uri": "https://www.google.com/maps/contrib/112892963875884987824/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVpni83jluXOpYFkoA8fp4fBwvIRBFlLdrIMQ9K27UMR7TwHno=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-27T06:23:14.755098253Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGblRuRlNTRFUzU2xKSVNuZ3pNVFJyUm5KS1dIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGblRuRlNTRFUzU2xKSVNuZ3pNVFJyUm5KS1dIYxAB!2m1!1s0x3442abb5a323719f:0xc0ae98de85fa6a34"
+    },
+    {
+      "name": "places/ChIJn3Ejo7WrQjQRNGr6hd6YrsA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t3NUxTMVhTMk5wU1RSM2JrNTJhVWRZY1cwMldGRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點真的超好吃！本以為量很少結果好多還吃的好飽，點了雙人套餐和平日特餐，咖啡香又大杯奶茶也超棒的啦！再來一次還是很值得推薦!",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點真的超好吃！本以為量很少結果好多還吃的好飽，點了雙人套餐和平日特餐，咖啡香又大杯奶茶也超棒的啦！再來一次還是很值得推薦!",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "邱小麗",
+        "uri": "https://www.google.com/maps/contrib/116148348528534611271/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLJL7DjMRmto7lxxJYIo6Z_VNHlBfy7DLdTaUtdMAlKqpXnhg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-26T23:23:34.642822601Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t3NUxTMVhTMk5wU1RSM2JrNTJhVWRZY1cwMldGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t3NUxTMVhTMk5wU1RSM2JrNTJhVWRZY1cwMldGRRAB!2m1!1s0x3442abb5a323719f:0xc0ae98de85fa6a34"
+    },
+    {
+      "name": "places/ChIJn3Ejo7WrQjQRNGr6hd6YrsA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SbE9FbFlkbk4xZUZRNWRHeHdaa0ZQV21kSlRtYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "雞肉凱薩沙拉$195\n⭐️⭐️⭐️⭐️⭐️\n雞肉份量很多又調味好，鮮嫩多汁！\n起司跟醬汁、生菜也很不錯，CP值爆炸的一道菜🥰\n\n波隆那肉醬寬扁麵$255\n這我沒吃就不做評論，附上照片\n\n瑪格麗特披薩$225\n⭐️⭐️⭐️⭐️⭐️\n當然在所有吃過的披薩中不算最驚豔，以這價位、在咖啡店吃到的披薩而言我會給五顆星，會回購！\n灑上旁邊Tabasco 辣醬更加美味🤤\n\n乳酪起司蛋糕$110\n⭐️⭐️⭐️⭐️\n基本款不出錯的扎實好滋味\n\n服務人員很熱情主動，收盤子跟幫忙倒水很快，但並不會給人被打擾的感覺，總之就是很好的服務。\n平日晚上8:00去的，餐點上的快不需等待，結帳時馬上辦會員累積點數，期待下次再來吃。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "雞肉凱薩沙拉$195\n⭐️⭐️⭐️⭐️⭐️\n雞肉份量很多又調味好，鮮嫩多汁！\n起司跟醬汁、生菜也很不錯，CP值爆炸的一道菜🥰\n\n波隆那肉醬寬扁麵$255\n這我沒吃就不做評論，附上照片\n\n瑪格麗特披薩$225\n⭐️⭐️⭐️⭐️⭐️\n當然在所有吃過的披薩中不算最驚豔，以這價位、在咖啡店吃到的披薩而言我會給五顆星，會回購！\n灑上旁邊Tabasco 辣醬更加美味🤤\n\n乳酪起司蛋糕$110\n⭐️⭐️⭐️⭐️\n基本款不出錯的扎實好滋味\n\n服務人員很熱情主動，收盤子跟幫忙倒水很快，但並不會給人被打擾的感覺，總之就是很好的服務。\n平日晚上8:00去的，餐點上的快不需等待，結帳時馬上辦會員累積點數，期待下次再來吃。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Grace Chao",
+        "uri": "https://www.google.com/maps/contrib/105899241265627647537/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWRCCuT_8FCvWfVRoRWvmhsJ4mgqhMLUJu7ShYNb5B8cig7TBs=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-08-17T04:27:42.256995895Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SbE9FbFlkbk4xZUZRNWRHeHdaa0ZQV21kSlRtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SbE9FbFlkbk4xZUZRNWRHeHdaa0ZQV21kSlRtYxAB!2m1!1s0x3442abb5a323719f:0xc0ae98de85fa6a34"
+    }
+  ],
+  "menuForChildren": true,
+  "goodForChildren": true
+}

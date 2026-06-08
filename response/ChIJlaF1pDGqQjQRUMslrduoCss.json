@@ -1,0 +1,140 @@
+{
+  "id": "ChIJlaF1pDGqQjQRUMslrduoCss",
+  "types": [
+    "pizza_delivery",
+    "meal_delivery",
+    "food_delivery",
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2325 6630",
+  "formattedAddress": "106台灣臺北市大安區住安里大安路二段47號",
+  "location": {
+    "latitude": 25.031512499999998,
+    "longitude": 121.5461912
+  },
+  "rating": 4.3,
+  "websiteUri": "https://www.pizzahut.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1082,
+  "displayName": {
+    "text": "Pizza Hut必勝客-大安外送店",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJlaF1pDGqQjQRUMslrduoCss/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCNmRYTlZla0ZEVkVKU2VrTnVZbTVPUW5BNFNWRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 1,
+      "text": {
+        "text": "我們吃的是油耗麵包，不是Pizza\n一般厚度的Pizza料少，一口下去滿滿的都是麵包味，一看這澱粉的厚度高得可怕，以前根本不是這種品質\n副餐的甜不辣、雞柳、炸杏鮑菇等也都是油耗味\n\n薄片的則是完全冷掉\n實在是人生吃過最糟的一餐披薩餐，退步到令人無法置信",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "我們吃的是油耗麵包，不是Pizza\n一般厚度的Pizza料少，一口下去滿滿的都是麵包味，一看這澱粉的厚度高得可怕，以前根本不是這種品質\n副餐的甜不辣、雞柳、炸杏鮑菇等也都是油耗味\n\n薄片的則是完全冷掉\n實在是人生吃過最糟的一餐披薩餐，退步到令人無法置信",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Nate Kao",
+        "uri": "https://www.google.com/maps/contrib/112142668759883414495/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVmlc3xHHQk2dECCxNxdi--lk34-UwZxev9znEqOULOVqVot9IF=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-24T04:05:20.294224119Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCNmRYTlZla0ZEVkVKU2VrTnVZbTVPUW5BNFNWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCNmRYTlZla0ZEVkVKU2VrTnVZbTVPUW5BNFNWRRAB!2m1!1s0x3442aa31a475a195:0xcb0aa8dbad25cb50"
+    },
+    {
+      "name": "places/ChIJlaF1pDGqQjQRUMslrduoCss/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Gd1NVTlJUWGh2TTJ3MVUySTJaMGxXTlV4eFVHYxAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 2,
+      "text": {
+        "text": "已經買過多次了，服務人員態度很好，但這次覺得品質也下降太多了吧，個人比薩官網圖片和實際拿到的肉片量有差也偏肥，附餐也是點餐時的說明都沒告知重量或大小所以實際拿到就變照片的情形發生，用叉子做比對就知道了，酥炸杏鮑菇和官網照片誤差更大，只有7塊還有大有小嚴重脫皮，這樣還是特價69元 ，還不如點鱈魚塊；希望品質ㄧ定要顧好不要讓支持的消費者失望",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "已經買過多次了，服務人員態度很好，但這次覺得品質也下降太多了吧，個人比薩官網圖片和實際拿到的肉片量有差也偏肥，附餐也是點餐時的說明都沒告知重量或大小所以實際拿到就變照片的情形發生，用叉子做比對就知道了，酥炸杏鮑菇和官網照片誤差更大，只有7塊還有大有小嚴重脫皮，這樣還是特價69元 ，還不如點鱈魚塊；希望品質ㄧ定要顧好不要讓支持的消費者失望",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "李宜榛",
+        "uri": "https://www.google.com/maps/contrib/103520849649105360158/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKqyAukuIbrlfODFdejV2wzOvn8O3AEt5L3ahAuUUqhO68ZDA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-06-29T05:06:37.335150686Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Gd1NVTlJUWGh2TTJ3MVUySTJaMGxXTlV4eFVHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Gd1NVTlJUWGh2TTJ3MVUySTJaMGxXTlV4eFVHYxAB!2m1!1s0x3442aa31a475a195:0xcb0aa8dbad25cb50"
+    },
+    {
+      "name": "places/ChIJlaF1pDGqQjQRUMslrduoCss/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5S1lrRmxPVWhoWTJvMlIzVjNNMVpUTTJkcldHYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 1,
+      "text": {
+        "text": "現場點餐餐後,\n店員:第2個半價需要加購嗎？\n進入官網查看有何口味可選,回覆店員後才得知\"是限定優惠\"指定\"結帳方式,才有優惠!!\n\n請明確告知\"使用悠遊卡結帳\"第2個半價有需要嗎?\n還浪費時間思考那要再選哪個口味😵‍💫🙄🫣請修正用詞話術!!有特定結帳方式的優惠活動,請\"先告知\"而不是先說\"優惠活動\",因為這是\"聯動式綁在一起的\"優惠條件!\n\n不要讓客人花時間點進官網看菜單,才發現原來是有\"條件式\"優惠,浪費雙方時間!!!\n請有效率 聰明做事!!!",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "現場點餐餐後,\n店員:第2個半價需要加購嗎？\n進入官網查看有何口味可選,回覆店員後才得知\"是限定優惠\"指定\"結帳方式,才有優惠!!\n\n請明確告知\"使用悠遊卡結帳\"第2個半價有需要嗎?\n還浪費時間思考那要再選哪個口味😵‍💫🙄🫣請修正用詞話術!!有特定結帳方式的優惠活動,請\"先告知\"而不是先說\"優惠活動\",因為這是\"聯動式綁在一起的\"優惠條件!\n\n不要讓客人花時間點進官網看菜單,才發現原來是有\"條件式\"優惠,浪費雙方時間!!!\n請有效率 聰明做事!!!",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Unknow Unknow",
+        "uri": "https://www.google.com/maps/contrib/117381216108623723722/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKtPNdvVIbDAK8x4foZxY1tMtc0UYtYFjIfdOeWqhHo6JMi_w=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-03-05T03:34:43.336325795Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5S1lrRmxPVWhoWTJvMlIzVjNNMVpUTTJkcldHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5S1lrRmxPVWhoWTJvMlIzVjNNMVpUTTJkcldHYxAB!2m1!1s0x3442aa31a475a195:0xcb0aa8dbad25cb50"
+    },
+    {
+      "name": "places/ChIJlaF1pDGqQjQRUMslrduoCss/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOWGVIZzBZVU00Vm5kWExVUnJNblk1ZURSdWMwRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 1,
+      "text": {
+        "text": "回到家才發現沒有辣椒粉跟胡椒粉。自取店家應該詢問是否需要。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "回到家才發現沒有辣椒粉跟胡椒粉。自取店家應該詢問是否需要。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "茅百誠",
+        "uri": "https://www.google.com/maps/contrib/105168987184946300936/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXBBJPDPzCpLr4eOHsFBKUJWkXVraGkx1Oxp2-6xlZq5OrbICg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-01T03:59:31.768988102Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOWGVIZzBZVU00Vm5kWExVUnJNblk1ZURSdWMwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOWGVIZzBZVU00Vm5kWExVUnJNblk1ZURSdWMwRRAB!2m1!1s0x3442aa31a475a195:0xcb0aa8dbad25cb50"
+    },
+    {
+      "name": "places/ChIJlaF1pDGqQjQRUMslrduoCss/reviews/Ci9DQUlRQUNvZENodHljRjlvT25NME5saDFTMFpRY21RdE1rTk1WREUxYVhkM1IwRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 2,
+      "text": {
+        "text": "品項：奶油燻雞燉飯\n花椰菜像是用切剩的碎料做的\n奶油醬汁份量嚴重不足導致飯非常乾且缺乏風味 也可能是烘烤時間過長所致\n(取餐時間即時所以並非放置過久)\n\n吃披薩多年的表現都挺不錯的\n第一次在這家分店吃燉飯的體驗非常不好\n想點燉飯產品的人務必再三考慮",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "品項：奶油燻雞燉飯\n花椰菜像是用切剩的碎料做的\n奶油醬汁份量嚴重不足導致飯非常乾且缺乏風味 也可能是烘烤時間過長所致\n(取餐時間即時所以並非放置過久)\n\n吃披薩多年的表現都挺不錯的\n第一次在這家分店吃燉飯的體驗非常不好\n想點燉飯產品的人務必再三考慮",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Tim Chen",
+        "uri": "https://www.google.com/maps/contrib/109836700226510967283/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIaCZTUyLUEr4xWWadmypI8DqPvtk8KeTnFhR14mYyyG_nT3w=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-02T11:31:45.511969208Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25NME5saDFTMFpRY21RdE1rTk1WREUxYVhkM1IwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25NME5saDFTMFpRY21RdE1rTk1WREUxYVhkM1IwRRAB!2m1!1s0x3442aa31a475a195:0xcb0aa8dbad25cb50"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": false
+}

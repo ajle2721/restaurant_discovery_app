@@ -1,0 +1,133 @@
+{
+  "id": "ChIJtQtRfW6sQjQRzjpE_jb97ag",
+  "types": [
+    "american_restaurant",
+    "pizza_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2657 3315",
+  "formattedAddress": "11493台灣臺北市內湖區西湖里洲子街183號",
+  "location": {
+    "latitude": 25.0815651,
+    "longitude": 121.56733619999999
+  },
+  "rating": 4.2,
+  "websiteUri": "http://www.vasa.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 2384,
+  "displayName": {
+    "text": "VASA 瓦薩美式餐廳 - 內科門市",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJtQtRfW6sQjQRzjpE_jb97ag/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOVlgyODVWRFpwVm1wRVVVUjNXbkp5VkhCWE1IYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "雙人套餐899\n烤雞和提拉米蘇是加價品\n披薩還是鹹的好吃不要問我怎麼知道的\n總體來說餐點還不錯\n服務生是一位阿姨還蠻客氣的\n當月壽星有贈送甜點一份\n要自己問",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "雙人套餐899\n烤雞和提拉米蘇是加價品\n披薩還是鹹的好吃不要問我怎麼知道的\n總體來說餐點還不錯\n服務生是一位阿姨還蠻客氣的\n當月壽星有贈送甜點一份\n要自己問",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "俞仁涵",
+        "uri": "https://www.google.com/maps/contrib/116163416966507965586/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUV5TKCjdmhbiHCJZmPiCIGpG3kN1DRxwaNY6nRLrSMWD1Jq_KG=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-27T14:35:00.899544207Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOVlgyODVWRFpwVm1wRVVVUjNXbkp5VkhCWE1IYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOVlgyODVWRFpwVm1wRVVVUjNXbkp5VkhCWE1IYxAB!2m1!1s0x3442ac6e7d510bb5:0xa8edfd36fe443ace"
+    },
+    {
+      "name": "places/ChIJtQtRfW6sQjQRzjpE_jb97ag/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSd2JqSjJVRkY2YW5WS1RtWktOMUpLYUdvdFZFRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "很久沒來了，今天帶同事來，四周感覺環境像樣餐點又不會太貴的一家餐廳，義大利麵以價格來說感覺是可以的。同事點頓飯看起來美味不少，但似乎不是只有菜單上的微辣，他說是辣到舌頭會刺痛的類型，不過我們兩個都覺得不錯吃！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很久沒來了，今天帶同事來，四周感覺環境像樣餐點又不會太貴的一家餐廳，義大利麵以價格來說感覺是可以的。同事點頓飯看起來美味不少，但似乎不是只有菜單上的微辣，他說是辣到舌頭會刺痛的類型，不過我們兩個都覺得不錯吃！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳奕州",
+        "uri": "https://www.google.com/maps/contrib/108478436928568503086/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVfv--9QbrHBll1eIma2PLk-vBaviTv2Mcz5M77FRETf1J50jtskQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-27T13:36:01.363055715Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSd2JqSjJVRkY2YW5WS1RtWktOMUpLYUdvdFZFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSd2JqSjJVRkY2YW5WS1RtWktOMUpLYUdvdFZFRRAB!2m1!1s0x3442ac6e7d510bb5:0xa8edfd36fe443ace"
+    },
+    {
+      "name": "places/ChIJtQtRfW6sQjQRzjpE_jb97ag/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sNmVrVlhkWGN4Tm1GZlNtRnFUMDUyU2sxYWMzYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 1,
+      "text": {
+        "text": "前天特地到店裡，是因為看到店家說會一起為中華隊加油、轉播比賽，所以還事先跟店家確認過才過來。\n結果到了現場才發現並沒有購買體育台的商用授權，現場只有用口述方式轉播，根本沒辦法正常看比賽，最後大家只能各自低頭用手機看。\n其實看球氣氛本來是很好的事情，不該這樣襯棒球熱度，而且也讓客人因此特地前來，至少應該把基本的設備或授權準備好。\n做生意最重要的是信用，希望店家未來在宣傳或承諾之前能更謹慎，老闆啊畢竟信譽無價，這樣跟本得不償失",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "前天特地到店裡，是因為看到店家說會一起為中華隊加油、轉播比賽，所以還事先跟店家確認過才過來。\n結果到了現場才發現並沒有購買體育台的商用授權，現場只有用口述方式轉播，根本沒辦法正常看比賽，最後大家只能各自低頭用手機看。\n其實看球氣氛本來是很好的事情，不該這樣襯棒球熱度，而且也讓客人因此特地前來，至少應該把基本的設備或授權準備好。\n做生意最重要的是信用，希望店家未來在宣傳或承諾之前能更謹慎，老闆啊畢竟信譽無價，這樣跟本得不償失",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張瑞恩110023",
+        "uri": "https://www.google.com/maps/contrib/116607678529225788725/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXjPqij4WHyMICUA83_wMrMQL--N6g7ZyqKjBCvIeki-vAtDC_X=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-03-08T14:54:47.293540852Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sNmVrVlhkWGN4Tm1GZlNtRnFUMDUyU2sxYWMzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sNmVrVlhkWGN4Tm1GZlNtRnFUMDUyU2sxYWMzYxAB!2m1!1s0x3442ac6e7d510bb5:0xa8edfd36fe443ace"
+    },
+    {
+      "name": "places/ChIJtQtRfW6sQjQRzjpE_jb97ag/reviews/Ci9DQUlRQUNvZENodHljRjlvT25VM1lYbGhWMmxQUTJOYVRuWmtUM1Z6WVU5VWRWRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "結論：主菜非常好吃的義式餐廳，雙人套餐899可以吃到的東西很不錯\n\n我們點899雙人套餐\n主餐：\n1.瓦薩總匯披薩+起士條-披薩口感鬆軟，起士條超級加分，鹹度剛好不油膩\n2.松露野菇義大利麵-好吃的義大利麵醬要收的剛剛好又扒住麵條，每一口都有松露的香氣跟微鹹的口感，麵條硬度也剛好\n\n沙拉：\n凱撒沙拉-就是凱薩沙拉\n\n開胃菜：\n咔咔魚佐塔塔-炸魚條的皮有點油，起鍋太快了，除此之外鹹度一樣拿捏的很好，塔塔醬偏酸一點很爽口\n\n甜點：\n日出蘋果-酥皮+蘋果醬+香草冰淇淋的組合,蘋果醬太甜了，墊在冰淇淋下方沒吃出混合搭配的感覺\n\n飲品：\n1.每日湯品-蘑菇奶油濃湯，中規中矩還不錯\n2.青檸冰茶-還是有點太甜了",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "結論：主菜非常好吃的義式餐廳，雙人套餐899可以吃到的東西很不錯\n\n我們點899雙人套餐\n主餐：\n1.瓦薩總匯披薩+起士條-披薩口感鬆軟，起士條超級加分，鹹度剛好不油膩\n2.松露野菇義大利麵-好吃的義大利麵醬要收的剛剛好又扒住麵條，每一口都有松露的香氣跟微鹹的口感，麵條硬度也剛好\n\n沙拉：\n凱撒沙拉-就是凱薩沙拉\n\n開胃菜：\n咔咔魚佐塔塔-炸魚條的皮有點油，起鍋太快了，除此之外鹹度一樣拿捏的很好，塔塔醬偏酸一點很爽口\n\n甜點：\n日出蘋果-酥皮+蘋果醬+香草冰淇淋的組合,蘋果醬太甜了，墊在冰淇淋下方沒吃出混合搭配的感覺\n\n飲品：\n1.每日湯品-蘑菇奶油濃湯，中規中矩還不錯\n2.青檸冰茶-還是有點太甜了",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "傑夫",
+        "uri": "https://www.google.com/maps/contrib/118041880253420500673/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU1gcXN8t56gZ5no0-l9bnHNuamgsvGxIY2QAzemxo6eTl480_Cig=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-09-30T14:26:51.260149847Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25VM1lYbGhWMmxQUTJOYVRuWmtUM1Z6WVU5VWRWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25VM1lYbGhWMmxQUTJOYVRuWmtUM1Z6WVU5VWRWRRAB!2m1!1s0x3442ac6e7d510bb5:0xa8edfd36fe443ace"
+    },
+    {
+      "name": "places/ChIJtQtRfW6sQjQRzjpE_jb97ag/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCaE1IVnJkVk5HU3kxcU5YZFZNM0JpWTFaV1JXYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "我覺得簡單聚餐或約會可以選擇的店\n空間還蠻寬敞舒適\n餐點選擇豐富\n食物口味也都還OK\n價格合理\n上餐速度和服務也都蠻不錯的\n\n已經回訪過幾次了～👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "我覺得簡單聚餐或約會可以選擇的店\n空間還蠻寬敞舒適\n餐點選擇豐富\n食物口味也都還OK\n價格合理\n上餐速度和服務也都蠻不錯的\n\n已經回訪過幾次了～👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yehchen Lee",
+        "uri": "https://www.google.com/maps/contrib/117085686793121137230/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-Ltj0WAeWxqme0W1jVN8Z79gpLBU8B1_koCuQsMXV2t_Aq5DkTg=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-02-19T15:23:16.571399565Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCaE1IVnJkVk5HU3kxcU5YZFZNM0JpWTFaV1JXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCaE1IVnJkVk5HU3kxcU5YZFZNM0JpWTFaV1JXYxAB!2m1!1s0x3442ac6e7d510bb5:0xa8edfd36fe443ace"
+    }
+  ],
+  "goodForChildren": true
+}

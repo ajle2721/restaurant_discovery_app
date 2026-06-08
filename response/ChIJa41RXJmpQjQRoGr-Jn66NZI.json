@@ -1,0 +1,135 @@
+{
+  "id": "ChIJa41RXJmpQjQRoGr-Jn66NZI",
+  "types": [
+    "coffee_shop",
+    "dessert_restaurant",
+    "cafe",
+    "food_store",
+    "restaurant",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2321 3429",
+  "formattedAddress": "10074台灣臺北市中正區南福里羅斯福路一段72巷2號",
+  "location": {
+    "latitude": 25.0305747,
+    "longitude": 121.51934229999999
+  },
+  "rating": 4.3,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 565,
+  "displayName": {
+    "text": "三槐堂",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJa41RXJmpQjQRoGr-Jn66NZI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGd2IyMUpjQzFxWjJWZk1HbHlaVVpCVkdZdFgyYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "古亭老牌咖啡廳,問一下Gemimi,大概有30年以上的歷史?跟蜂大一樣使用虹吸壺,當天週五下午五點到訪,店內非常安靜,老闆也是寡言,不知假日是否也是這樣幽靜?個人覺得藍山喝起來蠻順的,特有的日系\"珈琲店\"香氣也是非常濃厚,真的跟店內招牌起士蛋糕很搭.",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "古亭老牌咖啡廳,問一下Gemimi,大概有30年以上的歷史?跟蜂大一樣使用虹吸壺,當天週五下午五點到訪,店內非常安靜,老闆也是寡言,不知假日是否也是這樣幽靜?個人覺得藍山喝起來蠻順的,特有的日系\"珈琲店\"香氣也是非常濃厚,真的跟店內招牌起士蛋糕很搭.",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張智銓",
+        "uri": "https://www.google.com/maps/contrib/117818472633041116166/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX1oi8-7nYMRyF_qQJg3mwdTABVHQWq9MIsM1vKgNk6GGpkUCNdyw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-03-07T02:10:10.544304103Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGd2IyMUpjQzFxWjJWZk1HbHlaVVpCVkdZdFgyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGd2IyMUpjQzFxWjJWZk1HbHlaVVpCVkdZdFgyYxAB!2m1!1s0x3442a9995c518d6b:0x9235ba7e26fe6aa0"
+    },
+    {
+      "name": "places/ChIJa41RXJmpQjQRoGr-Jn66NZI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGUlpXZ3pORVo2VkdKSlJHVjFlV1ZaV2xOcmIwRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "我的台北印象，久違了\n我所知曉的，台北最好吃的起司蛋糕，一樣安靜的酷老闆。\n\n耳邊響起英文老歌，幸運獨享了整個空間，飲下冷卻的高山藍山，這樣的時光太難得，和起司蛋糕一樣，不適合外帶或打包，就好好地在當下享用吧。\n\n謝謝三槐堂，30年老店，願你安好，請繼續下去吧",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "我的台北印象，久違了\n我所知曉的，台北最好吃的起司蛋糕，一樣安靜的酷老闆。\n\n耳邊響起英文老歌，幸運獨享了整個空間，飲下冷卻的高山藍山，這樣的時光太難得，和起司蛋糕一樣，不適合外帶或打包，就好好地在當下享用吧。\n\n謝謝三槐堂，30年老店，願你安好，請繼續下去吧",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ariel 采薇",
+        "uri": "https://www.google.com/maps/contrib/103280924831086476419/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUMd17oeWEyaMWSgxIvFCF8cLJlIxqr7Eq_8dWSesFM179yRtIa=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-03-10T07:55:41.376455158Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGUlpXZ3pORVo2VkdKSlJHVjFlV1ZaV2xOcmIwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGUlpXZ3pORVo2VkdKSlJHVjFlV1ZaV2xOcmIwRRAB!2m1!1s0x3442a9995c518d6b:0x9235ba7e26fe6aa0"
+    },
+    {
+      "name": "places/ChIJa41RXJmpQjQRoGr-Jn66NZI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWQ1pXUjBYMlF5Y1VFM1JsaHFaM1pSTW5OT09WRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "起司蛋糕好吃，跟一般常見的味道不ㄧ樣。\n手工餅乾選擇很多樣，口感酥脆有層次。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "起司蛋糕好吃，跟一般常見的味道不ㄧ樣。\n手工餅乾選擇很多樣，口感酥脆有層次。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "小權李",
+        "uri": "https://www.google.com/maps/contrib/104079403677609423406/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJF1pWp8mZW6k9bgGlKHBWNnW8yEAYayTvLziTziyLQUF5q=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-05T05:27:06.552141343Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWQ1pXUjBYMlF5Y1VFM1JsaHFaM1pSTW5OT09WRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWQ1pXUjBYMlF5Y1VFM1JsaHFaM1pSTW5OT09WRRAB!2m1!1s0x3442a9995c518d6b:0x9235ba7e26fe6aa0"
+    },
+    {
+      "name": "places/ChIJa41RXJmpQjQRoGr-Jn66NZI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SRmRsSlBOVUY2Y1hoaWRrNXVPVTFKWlZSa05VRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "適合小聲聊天的地方，有小桌也有六人大桌可以共用。蛋糕奶茶都不錯。需要注意的是老闆可能喉嚨不太舒服，需要頻繁地清喉嚨，可以理解，會在意的人就斟酌一下。\n［無關店家］走的時候被隔壁桌議論是不是沒付錢就要走，是不知道世界上有人會先結嗎⋯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "適合小聲聊天的地方，有小桌也有六人大桌可以共用。蛋糕奶茶都不錯。需要注意的是老闆可能喉嚨不太舒服，需要頻繁地清喉嚨，可以理解，會在意的人就斟酌一下。\n［無關店家］走的時候被隔壁桌議論是不是沒付錢就要走，是不知道世界上有人會先結嗎⋯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "A. D.",
+        "uri": "https://www.google.com/maps/contrib/101913172926340669163/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKO2_HCh0s-MczXfGDGEDjA7jQn98IRwLSztJFqpL6gjvsJpg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-11T09:12:28.483577171Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SRmRsSlBOVUY2Y1hoaWRrNXVPVTFKWlZSa05VRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SRmRsSlBOVUY2Y1hoaWRrNXVPVTFKWlZSa05VRRAB!2m1!1s0x3442a9995c518d6b:0x9235ba7e26fe6aa0"
+    },
+    {
+      "name": "places/ChIJa41RXJmpQjQRoGr-Jn66NZI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxVldXUnhjRmROT1ZoVVoyNUxRM2xmVkZCQ1VVRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "很棒的一間店氣氛很好，在巷弄裡面進去感覺非常的舒適\n\n乳酪蛋糕很好吃\n還有各式不同的餅乾可以選擇",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很棒的一間店氣氛很好，在巷弄裡面進去感覺非常的舒適\n\n乳酪蛋糕很好吃\n還有各式不同的餅乾可以選擇",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Elaine Lin",
+        "uri": "https://www.google.com/maps/contrib/108507900192889041708/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUKwZIwrdhxNkoZKRlnDH_90uGpV6kaa4BbjhbupwMjnQOXFwlS=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-10-09T14:28:11.855525474Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxVldXUnhjRmROT1ZoVVoyNUxRM2xmVkZCQ1VVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxVldXUnhjRmROT1ZoVVoyNUxRM2xmVkZCQ1VVRRAB!2m1!1s0x3442a9995c518d6b:0x9235ba7e26fe6aa0"
+    }
+  ],
+  "menuForChildren": false
+}

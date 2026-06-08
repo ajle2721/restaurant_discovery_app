@@ -1,0 +1,131 @@
+{
+  "id": "ChIJi5TjC82pQjQRO4YwDB6S7WA",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2595 5537",
+  "formattedAddress": "104台灣臺北市中山區民權西路37號",
+  "location": {
+    "latitude": 25.0630745,
+    "longitude": 121.5211295
+  },
+  "rating": 4.3,
+  "userRatingCount": 210,
+  "displayName": {
+    "text": "食肆天 民權西店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJi5TjC82pQjQRO4YwDB6S7WA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWWVZqUXhNa0V4V1dReFQybFJTRUp4UmtwbWNGRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "喜歡千層蛋餅煎的酥脆酥脆\n料也很多，吃起來有飽足感\n\n巧克力吐司抹醬沒在客氣唷\n非常有誠意的巧克力醬👍\n\n內用位子空間較小\n出餐速度滿快的\n適合上班族外帶",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "喜歡千層蛋餅煎的酥脆酥脆\n料也很多，吃起來有飽足感\n\n巧克力吐司抹醬沒在客氣唷\n非常有誠意的巧克力醬👍\n\n內用位子空間較小\n出餐速度滿快的\n適合上班族外帶",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ray Hsu",
+        "uri": "https://www.google.com/maps/contrib/103364508190861336117/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXeZQZ3NOCol9J1cBqbLAzst0xnBOFURmwkoh14GVvq4KT6ycigdg=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-12-09T09:56:27.712151844Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWWVZqUXhNa0V4V1dReFQybFJTRUp4UmtwbWNGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWWVZqUXhNa0V4V1dReFQybFJTRUp4UmtwbWNGRRAB!2m1!1s0x3442a9cd0be3948b:0x60ed921e0c30863b"
+    },
+    {
+      "name": "places/ChIJi5TjC82pQjQRO4YwDB6S7WA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GYVRrc3liazlQVjBKTmEySnpTSEZKUWxOSVZWRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "115/1/23最新的菜單\n牛五花吐司\n吐司有三片\n吐司沒有烤過\n肉是肉 吐司是吐司 味道很分離\n\n牛五花炒洋蔥好吃\n份量十足\n\n炸物比較好吃\n炸雞塊要點😍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "115/1/23最新的菜單\n牛五花吐司\n吐司有三片\n吐司沒有烤過\n肉是肉 吐司是吐司 味道很分離\n\n牛五花炒洋蔥好吃\n份量十足\n\n炸物比較好吃\n炸雞塊要點😍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "江江",
+        "uri": "https://www.google.com/maps/contrib/109505378217128870054/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW9GC28mKQMu9PMHyHPxh_uPFnGpugXcnTKI5YdjYqIrRCUrSziTQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-23T02:06:06.495359354Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GYVRrc3liazlQVjBKTmEySnpTSEZKUWxOSVZWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GYVRrc3liazlQVjBKTmEySnpTSEZKUWxOSVZWRRAB!2m1!1s0x3442a9cd0be3948b:0x60ed921e0c30863b"
+    },
+    {
+      "name": "places/ChIJi5TjC82pQjQRO4YwDB6S7WA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWWlVGbDRjM2xQYWpGbVZsbDJSbE01U2tGQlRsRRAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 5,
+      "text": {
+        "text": "已經開三年的食肆天，在中山北路二段和民權西路這一帶，算是小友知名度的早餐店，食材新鮮，服務人員熱情大方，所有員工平均年齡不到30 歲，可感受到年輕人的活力，餐點也都是新鮮好吃，就是比傳統美而美早餐店來得更有質感。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "已經開三年的食肆天，在中山北路二段和民權西路這一帶，算是小友知名度的早餐店，食材新鮮，服務人員熱情大方，所有員工平均年齡不到30 歲，可感受到年輕人的活力，餐點也都是新鮮好吃，就是比傳統美而美早餐店來得更有質感。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Willy H.",
+        "uri": "https://www.google.com/maps/contrib/100721465655108727512/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU8dzDrNpFy-GCj0d-vG4uAC3PanvIlw5Hd-xj2mVgRASXrmMcj=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-07-15T01:21:33.391350215Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWWlVGbDRjM2xQYWpGbVZsbDJSbE01U2tGQlRsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWWlVGbDRjM2xQYWpGbVZsbDJSbE01U2tGQlRsRRAB!2m1!1s0x3442a9cd0be3948b:0x60ed921e0c30863b"
+    },
+    {
+      "name": "places/ChIJi5TjC82pQjQRO4YwDB6S7WA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOeWJURnNWR0ZhVW1WaFVWRXRUa3h2V2t0YVRWRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "餐點比較涼一些\n都是先做好的\n畢竟這邊人流也多\n還可以接受",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點比較涼一些\n都是先做好的\n畢竟這邊人流也多\n還可以接受",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Macas",
+        "uri": "https://www.google.com/maps/contrib/118072150374121790635/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWuIYtONENdTWVoovebnXKr3c8eI_-voobjGWp12DJ792TD79H16w=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-02T05:30:12.834422815Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOeWJURnNWR0ZhVW1WaFVWRXRUa3h2V2t0YVRWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOeWJURnNWR0ZhVW1WaFVWRXRUa3h2V2t0YVRWRRAB!2m1!1s0x3442a9cd0be3948b:0x60ed921e0c30863b"
+    },
+    {
+      "name": "places/ChIJi5TjC82pQjQRO4YwDB6S7WA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNQMHJfNGhRRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "看圖片，只有兩塊麵包，但做出來的有三塊麵包，因早上吃不到太多，咖啡也很大杯。牛肉炒得好味，給小店加分。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "看圖片，只有兩塊麵包，但做出來的有三塊麵包，因早上吃不到太多，咖啡也很大杯。牛肉炒得好味，給小店加分。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "OC JEFF",
+        "uri": "https://www.google.com/maps/contrib/115986643174501718111/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUAxKXzfNIuMoF1tw_84RBnszC_dyZhgC4qGvBWSV89haNGqPWBIQ=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2024-11-22T23:37:40.439415Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNQMHJfNGhRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNQMHJfNGhRRRAB!2m1!1s0x3442a9cd0be3948b:0x60ed921e0c30863b"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

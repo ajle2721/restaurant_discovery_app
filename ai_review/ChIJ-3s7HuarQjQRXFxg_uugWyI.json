@@ -1,0 +1,54 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "店內是典雅的歐式風格，挑高設計讓空間相當舒適，窗邊自然光灑進來，氣氛輕盈。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "No menu for children (官方標記：不提供兒童餐)",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "No",
+        "evidence": "Not good for children (官方標記：不適合兒童)",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "人工校正與AI綜合評估",
+    "generated_signals": [
+        "店內是典雅的歐式風格，挑高設計讓空間相當舒適，窗邊自然光灑進來，氣氛輕盈。",
+        "No menu for children (官方標記：不提供兒童餐)",
+        "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)",
+        "Google Maps Attributes: Not good for children (官方標記：不適合兒童)",
+        "Not good for children (官方標記：不適合兒童)"
+    ],
+    "generated_summary": "青隅官方標記為不適合兒童且不提供兒童餐。雖然評論提及店內挑高設計、空間相當舒適且環境優雅，但並未提及兒童椅、兒童餐具或遊戲區等親子友善設施，整體氛圍較適合大人享受精緻下午茶。",
+    "card_summary": ""
+}

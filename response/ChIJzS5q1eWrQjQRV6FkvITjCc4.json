@@ -1,0 +1,131 @@
+{
+  "id": "ChIJzS5q1eWrQjQRV6FkvITjCc4",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2517 6613",
+  "formattedAddress": "104台灣臺北市中山區復華里南京東路三段89巷3弄6號",
+  "location": {
+    "latitude": 25.0524228,
+    "longitude": 121.53914230000001
+  },
+  "rating": 4.7,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 69,
+  "displayName": {
+    "text": "向日葵精緻早午餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJzS5q1eWrQjQRV6FkvITjCc4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tZelEzbHFVbTh6UWxkWlppMDRjbE10VG13Mk1rRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "香雞漢堡和蛋餅都非常好吃！奶茶很好喝～兩位男老闆都很親切",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "香雞漢堡和蛋餅都非常好吃！奶茶很好喝～兩位男老闆都很親切",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Han Han",
+        "uri": "https://www.google.com/maps/contrib/108534294029506949880/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJIhzwI6na6LGhSfZsRlM7xXHAnGiNSNFeRecMfr0Po7zOElw=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-11-21T05:25:10.471617427Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tZelEzbHFVbTh6UWxkWlppMDRjbE10VG13Mk1rRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tZelEzbHFVbTh6UWxkWlppMDRjbE10VG13Mk1rRRAB!2m1!1s0x3442abe5d56a2ecd:0xce09e384bc64a157"
+    },
+    {
+      "name": "places/ChIJzS5q1eWrQjQRV6FkvITjCc4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poYVdHOU9hV05GZEZjNVMzZDBhMk5zTjNKWmJrRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "老闆很親切，炸雞飯很好吃，以後還會再來！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "老闆很親切，炸雞飯很好吃，以後還會再來！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "B W.",
+        "uri": "https://www.google.com/maps/contrib/101724342220876691883/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUdxuMeH2yHV2JZtlQkqIbP8zO6-LvLui6NfIRZU8bQa_2I-37peA=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-10-29T08:44:16.174521490Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poYVdHOU9hV05GZEZjNVMzZDBhMk5zTjNKWmJrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poYVdHOU9hV05GZEZjNVMzZDBhMk5zTjNKWmJrRRAB!2m1!1s0x3442abe5d56a2ecd:0xce09e384bc64a157"
+    },
+    {
+      "name": "places/ChIJzS5q1eWrQjQRV6FkvITjCc4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wdVptMDRTblpyZDA1S1JUbHdWMjh3U0ZwQ1IxRRAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 5,
+      "text": {
+        "text": "超推這家的漢堡，真好吃。其中生菜給的完全不吝嗇，漢堡皮也是烤的酥脆，漢堡肉一口咬下不柴、有溫度且超juicy... 滿滿幸福味。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "超推這家的漢堡，真好吃。其中生菜給的完全不吝嗇，漢堡皮也是烤的酥脆，漢堡肉一口咬下不柴、有溫度且超juicy... 滿滿幸福味。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Samuel Chang",
+        "uri": "https://www.google.com/maps/contrib/104778306297271194461/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWruBl3lat2ff-F__v58qC90X2Ijwr3cXr2gdnjXuo2jU3LoraP=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-07-23T01:18:15.554454022Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wdVptMDRTblpyZDA1S1JUbHdWMjh3U0ZwQ1IxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wdVptMDRTblpyZDA1S1JUbHdWMjh3U0ZwQ1IxRRAB!2m1!1s0x3442abe5d56a2ecd:0xce09e384bc64a157"
+    },
+    {
+      "name": "places/ChIJzS5q1eWrQjQRV6FkvITjCc4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNibThUbUp3EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "這老闆實在很佛心，我們是12:30中午來吃的，餐點份量好大，價格又很優惠，還有附飲料。出餐又快，還有冷氣，環境也舒適，真的太讚的店了",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這老闆實在很佛心，我們是12:30中午來吃的，餐點份量好大，價格又很優惠，還有附飲料。出餐又快，還有冷氣，環境也舒適，真的太讚的店了",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳碧君",
+        "uri": "https://www.google.com/maps/contrib/114146086008741278481/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVAx7IBTyfZRfaTAx3vjhYSi3_XRyatDzVMJjX7AuJdDbuXFMQZuw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2024-07-30T05:08:50.399017Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNibThUbUp3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNibThUbUp3EAE!2m1!1s0x3442abe5d56a2ecd:0xce09e384bc64a157"
+    },
+    {
+      "name": "places/ChIJzS5q1eWrQjQRV6FkvITjCc4/reviews/ChZDSUhNMG9nS0VJQ0FnSUMtMmVxMFh3EAE",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 3,
+      "text": {
+        "text": "建議從南京東路三段89巷子轉進來，\n店家就在小巷開口比較好找XD\n店員很有精神朝氣！\n\n培根蛋餅、冰奶茶共55元嚐嚐看。\n\n食用心得雖店內煎台非常香，\n但蛋餅味道普通，口感也軟趴趴，\n如其他分享所說，\n奶茶比較好喝奶味濃的那種。\n\n提醒醬油膏頗死鹹，建議油膏另外沾，\n早餐有嚐過就好，下次再品嚐午餐系列。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "建議從南京東路三段89巷子轉進來，\n店家就在小巷開口比較好找XD\n店員很有精神朝氣！\n\n培根蛋餅、冰奶茶共55元嚐嚐看。\n\n食用心得雖店內煎台非常香，\n但蛋餅味道普通，口感也軟趴趴，\n如其他分享所說，\n奶茶比較好喝奶味濃的那種。\n\n提醒醬油膏頗死鹹，建議油膏另外沾，\n早餐有嚐過就好，下次再品嚐午餐系列。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "BaBy JULIA",
+        "uri": "https://www.google.com/maps/contrib/116625912668410413356/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX43OjJOdJAx61ccc5WRBYCQ2nGFFubSmu651vW5ZnfPCYoedZg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2022-11-08T01:14:07.243408Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMtMmVxMFh3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMtMmVxMFh3EAE!2m1!1s0x3442abe5d56a2ecd:0xce09e384bc64a157"
+    }
+  ],
+  "goodForChildren": true
+}

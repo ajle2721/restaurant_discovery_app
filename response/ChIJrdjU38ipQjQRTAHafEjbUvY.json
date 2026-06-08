@@ -1,0 +1,140 @@
+{
+  "id": "ChIJrdjU38ipQjQRTAHafEjbUvY",
+  "types": [
+    "restaurant",
+    "juice_shop",
+    "salad_shop",
+    "cafe",
+    "grocery_store",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "106台灣臺北市大安區民炤里信義路三段65號1樓",
+  "location": {
+    "latitude": 25.0337419,
+    "longitude": 121.53665919999999
+  },
+  "rating": 4.6,
+  "websiteUri": "http://freshnessprio.fun/",
+  "userRatingCount": 265,
+  "displayName": {
+    "text": "優鮮主意 Premium Fruits · Private Members' Club",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Upbeat counter-serve operation featuring smoothies, salads & specialty coffee drinks.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJrdjU38ipQjQRTAHafEjbUvY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkb1VIcHNaME14VG5Nd2EwRkRlbU50VUdnMk5XYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "喜歡吃天然、有品質水果、飲料、跟餐點的人就會喜歡！\n而且來這裡不只胃被滿足了，心靈也可以藉由聊天被舒壓了！\n對，這裡是會員制，但很值得！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "喜歡吃天然、有品質水果、飲料、跟餐點的人就會喜歡！\n而且來這裡不只胃被滿足了，心靈也可以藉由聊天被舒壓了！\n對，這裡是會員制，但很值得！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Sabrina Liu",
+        "uri": "https://www.google.com/maps/contrib/117964104114807298113/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJpeuJeGl-KYdyqrpa8D_7fXAQzomiguUcCA_uECkw9Ay2pLA=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-09-20T02:26:49.521121120Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkb1VIcHNaME14VG5Nd2EwRkRlbU50VUdnMk5XYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkb1VIcHNaME14VG5Nd2EwRkRlbU50VUdnMk5XYxAB!2m1!1s0x3442a9c8dfd4d8ad:0xf652db487cda014c"
+    },
+    {
+      "name": "places/ChIJrdjU38ipQjQRTAHafEjbUvY/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnei1lVDhRRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "初次造訪，感覺店長對食材挑選很用心，而且服務也很好，雖然位置不多，但用餐感受很舒適（應該是因為女店員的服務很親切），讓我覺得很加分！會想要再造訪！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "初次造訪，感覺店長對食材挑選很用心，而且服務也很好，雖然位置不多，但用餐感受很舒適（應該是因為女店員的服務很親切），讓我覺得很加分！會想要再造訪！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Balabala",
+        "uri": "https://www.google.com/maps/contrib/114415420496718790317/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL6hfy5Js8RKaDbvZemSkMkNJq4cm34wykdx-g5K88_QlfX0g=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-02-21T16:24:29.547377Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnei1lVDhRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnei1lVDhRRRAB!2m1!1s0x3442a9c8dfd4d8ad:0xf652db487cda014c"
+    },
+    {
+      "name": "places/ChIJrdjU38ipQjQRTAHafEjbUvY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHNklfUVpnEAE",
+      "relativePublishTimeDescription": "4 年前",
+      "rating": 5,
+      "text": {
+        "text": "前往建國花市的途中經過了這家店，光看外表就很吸引人，炎熱的天氣，清爽無負擔的果昔還有沙拉非常誘人。\n\n店面的裝潢很美，可以從窗戶看到綠意盎然的公園一隅。店員非常親切，熱情的為我們介紹店裡的品項，並推薦我們當季的新品。\n今天兩個人點了一杯洛神花果昔、一杯無花果奶昔以及鹽烤松阪豬沙拉加點舒肥雞胸肉跟溏心蛋，花了六百多元，但好的食材總是所費不貲。\n果昔非常清爽，店裡也貼心的提供小杯子讓我們可以分食享用不同口味的果昔。無花果口味非常神奇，如果店員介紹的一樣，喝起來濃濃椰香、椰奶的濃郁感，蠻推薦的，但不能久放會苦，要趕緊喝。\n\n沙拉中的蛋、肉以及重點青菜都很好吃，青菜跟平常的不太一樣，比較特別。令人驚豔的是附贈的小圓麵包（店員多贈送了一個），口感很Q彈，味道很好，都想要單買麵包了！\n\n如果住在附近會很常來光顧的一間店。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "前往建國花市的途中經過了這家店，光看外表就很吸引人，炎熱的天氣，清爽無負擔的果昔還有沙拉非常誘人。\n\n店面的裝潢很美，可以從窗戶看到綠意盎然的公園一隅。店員非常親切，熱情的為我們介紹店裡的品項，並推薦我們當季的新品。\n今天兩個人點了一杯洛神花果昔、一杯無花果奶昔以及鹽烤松阪豬沙拉加點舒肥雞胸肉跟溏心蛋，花了六百多元，但好的食材總是所費不貲。\n果昔非常清爽，店裡也貼心的提供小杯子讓我們可以分食享用不同口味的果昔。無花果口味非常神奇，如果店員介紹的一樣，喝起來濃濃椰香、椰奶的濃郁感，蠻推薦的，但不能久放會苦，要趕緊喝。\n\n沙拉中的蛋、肉以及重點青菜都很好吃，青菜跟平常的不太一樣，比較特別。令人驚豔的是附贈的小圓麵包（店員多贈送了一個），口感很Q彈，味道很好，都想要單買麵包了！\n\n如果住在附近會很常來光顧的一間店。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Amy Chen",
+        "uri": "https://www.google.com/maps/contrib/101994722572136304395/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXIL4JwjptM1ytuH4IODD8aMCag7sUgfhZBdoKB-wVVddN7XdDd=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2021-10-19T09:38:32.764050Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNHNklfUVpnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNHNklfUVpnEAE!2m1!1s0x3442a9c8dfd4d8ad:0xf652db487cda014c"
+    },
+    {
+      "name": "places/ChIJrdjU38ipQjQRTAHafEjbUvY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWcllVdFhMVU13VVdkR09FTkJSbEJpWjJVM1VsRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 1,
+      "text": {
+        "text": "很早就在這家店買了很多寄杯卡，有一陣子沒去了，今天去居然說要是會員才能內用，並且態度跟口氣都令人不適，並不是沒錢加入會員，更別說那麼多張寄杯卡跟沙拉卡早已超過3333元的價值，遊戲規則改變也沒必要這麼兇的把人趕出去。。。回憶中那麼美味、親切的優先主義不見了",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很早就在這家店買了很多寄杯卡，有一陣子沒去了，今天去居然說要是會員才能內用，並且態度跟口氣都令人不適，並不是沒錢加入會員，更別說那麼多張寄杯卡跟沙拉卡早已超過3333元的價值，遊戲規則改變也沒必要這麼兇的把人趕出去。。。回憶中那麼美味、親切的優先主義不見了",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Joanne",
+        "uri": "https://www.google.com/maps/contrib/115309383454433209077/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXF5ZqW0kbgrLPm1x_KU7K7-b0sQONphfR29g2WPl3_tEq9Xq4=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-23T15:13:48.511944434Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWcllVdFhMVU13VVdkR09FTkJSbEJpWjJVM1VsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWcllVdFhMVU13VVdkR09FTkJSbEJpWjJVM1VsRRAB!2m1!1s0x3442a9c8dfd4d8ad:0xf652db487cda014c"
+    },
+    {
+      "name": "places/ChIJrdjU38ipQjQRTAHafEjbUvY/reviews/ChZDSUhNMG9nS0VJQ0FnSURHanVXT0pBEAE",
+      "relativePublishTimeDescription": "4 年前",
+      "rating": 5,
+      "text": {
+        "text": "認識優鮮主意一年有了\n真的很敬佩老闆對食材原料的用心\n而且定期舉辦各式活動（圖二是獺祭品酒會）讓店裡更多采多姿\n果昔的口味時常更新 買寄杯卡完全不會喝膩\n早餐喝一杯 有飽足感又健康幫助消化\n沙拉盤+肉也好吃喔😋\n（全部的肉都吃過了 我覺得牛腱最美味）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "認識優鮮主意一年有了\n真的很敬佩老闆對食材原料的用心\n而且定期舉辦各式活動（圖二是獺祭品酒會）讓店裡更多采多姿\n果昔的口味時常更新 買寄杯卡完全不會喝膩\n早餐喝一杯 有飽足感又健康幫助消化\n沙拉盤+肉也好吃喔😋\n（全部的肉都吃過了 我覺得牛腱最美味）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "tzu",
+        "uri": "https://www.google.com/maps/contrib/116440345813386284451/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUbGviqlEvcFlQG_tUXVXEFuFF350uAbMcFZckVGasJmUeSOMEDjg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2021-11-28T04:06:03.743483Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURHanVXT0pBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURHanVXT0pBEAE!2m1!1s0x3442a9c8dfd4d8ad:0xf652db487cda014c"
+    }
+  ],
+  "menuForChildren": true,
+  "goodForChildren": true
+}

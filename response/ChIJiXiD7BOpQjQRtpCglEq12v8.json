@@ -1,0 +1,137 @@
+{
+  "id": "ChIJiXiD7BOpQjQRtpCglEq12v8",
+  "types": [
+    "cafe",
+    "coffee_roastery",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2555 6680",
+  "formattedAddress": "103台灣臺北市大同區永樂里迪化街一段14巷14號",
+  "location": {
+    "latitude": 25.0541599,
+    "longitude": 121.509734
+  },
+  "rating": 4.5,
+  "websiteUri": "https://linktr.ee/pallascafe",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1620,
+  "displayName": {
+    "text": "幻猻家珈琲 Pallas Cafe & Roaster",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Unpretentious coffee shop offering curries, housemade desserts & a take-out option.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJiXiD7BOpQjQRtpCglEq12v8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkR1dWaGZUbFJtTVZaU1drbFVNbWxQVWpKZk1tYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "20260228\n位處迪化街咖啡一條街\n觀光地區手沖價位皆處高檔，美式$150豆子應該很不錯，有手沖的果香與酸感。草嶺藝妓價格不菲，一杯$300 ，口感令人驚喜，有一點中藥味的回甘，回味無窮。空間裝潢也很有質感，試衣間值得再回訪的咖啡廳。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "20260228\n位處迪化街咖啡一條街\n觀光地區手沖價位皆處高檔，美式$150豆子應該很不錯，有手沖的果香與酸感。草嶺藝妓價格不菲，一杯$300 ，口感令人驚喜，有一點中藥味的回甘，回味無窮。空間裝潢也很有質感，試衣間值得再回訪的咖啡廳。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jamie Lin",
+        "uri": "https://www.google.com/maps/contrib/115670636317803819360/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWsXNuUR98uFse0vTnGAPh-qEZmFIWizGo7ZRbzRa0d5HuywJNztw=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-03-01T07:40:13.502567014Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkR1dWaGZUbFJtTVZaU1drbFVNbWxQVWpKZk1tYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkR1dWaGZUbFJtTVZaU1drbFVNbWxQVWpKZk1tYxAB!2m1!1s0x3442a913ec837889:0xffdab54a94a090b6"
+    },
+    {
+      "name": "places/ChIJiXiD7BOpQjQRtpCglEq12v8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poblNWZFZNMVowVm1OQ1IxOTBNbFZmT1VWb1MzYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "就在大稻埕的巷子裡，氣氛很好，服務人員親切，給人一種很舒服的感覺。\n這次點了咖啡拿鐵，感覺是偏深焙的豆子，喝起來蠻順口的，經典三明治（法式煮熟火腿）很好吃，裡面有醬還有新鮮番茄，麵包有酥酥的，整個越吃越好吃，近期吃過數一數二的三明治。\n雖然整體價格算是高一點，雖然去的時候有位子，但建議可以直接訂位。下次去想再試試看其他的品項，推薦！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "就在大稻埕的巷子裡，氣氛很好，服務人員親切，給人一種很舒服的感覺。\n這次點了咖啡拿鐵，感覺是偏深焙的豆子，喝起來蠻順口的，經典三明治（法式煮熟火腿）很好吃，裡面有醬還有新鮮番茄，麵包有酥酥的，整個越吃越好吃，近期吃過數一數二的三明治。\n雖然整體價格算是高一點，雖然去的時候有位子，但建議可以直接訂位。下次去想再試試看其他的品項，推薦！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hsu",
+        "uri": "https://www.google.com/maps/contrib/117517983797775441872/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWsLsWFGWOLwv1R9E8di-RIANEo2n6zQO7K27MaQynINfleViPmHQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-18T10:40:58.927787297Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poblNWZFZNMVowVm1OQ1IxOTBNbFZmT1VWb1MzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poblNWZFZNMVowVm1OQ1IxOTBNbFZmT1VWb1MzYxAB!2m1!1s0x3442a913ec837889:0xffdab54a94a090b6"
+    },
+    {
+      "name": "places/ChIJiXiD7BOpQjQRtpCglEq12v8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tRd1QzRmpVVTFxYlRKTmQxOXZSREZRTWt4eVRVRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "幻猻家珈琲位於大稻埕迪化街上接近南京西路的某條巷子裡的一棟老建築中. 在走接近咖啡店時, 你可能不太容易發現他, 但卻會被老屋舊式的門窗給吸引. 沒錯, 幻猻家珈琲就是以老屋重新改造而成的.  咖啡廳室內保留了老屋原本木質樑柱的結構, 有深色的牆面, 有舊式的家具, 搭配著老式燈具, 再加上陶器與文學書籍, 畫作等, 展現出一種有故事感, 懷舊,  溫暖的復古氣息.。\n座位區有分三區; 一樓的戶外區, 是提供給有抽菸的朋友們, 可以享受美味餐點的同時還可以擁有吞雲吐霧的樂趣.\n一樓有兩個吧台座位區, 可以面對窗外, 或者是面對著服務人員欣賞他們的手藝, 還有一個兩人桌的座位空間, 整體是以木質系與偏暗色調為主. 二樓的空間不小, 雖然客人多, 但更安靜些, 整體的燈光一樣偏暗, 很適合坐下來慢慢喝杯咖啡, 有會讓人很自然地放慢速度的氛圍.我們點了一杯宇治焙茶拿鐵, 一杯咖啡拿鐵以及一個布丁. 焙茶拿鐵只能說非常的” 濃….醇…..香” 喝下一口, 嘴裡滿滿焙茶的香味, 搭配著拿鐵, 很溫順, 非常的好喝. 布丁有別於其他家, 是以方形的型態表現, 有稍札實的口感, 與焦糖的香氣互相合作, 整個吃下來不會太甜, 也不會太膩, 是很好吃的布丁.\n整體來說, 幻猻家珈琲除了咖啡好喝, 布丁好吃, 他的建築給人的感覺就像是走進某個人的老家或者私密空間. 它的特色在於那種低調, 安靜, 很有故事感的老屋魅力.",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "幻猻家珈琲位於大稻埕迪化街上接近南京西路的某條巷子裡的一棟老建築中. 在走接近咖啡店時, 你可能不太容易發現他, 但卻會被老屋舊式的門窗給吸引. 沒錯, 幻猻家珈琲就是以老屋重新改造而成的.  咖啡廳室內保留了老屋原本木質樑柱的結構, 有深色的牆面, 有舊式的家具, 搭配著老式燈具, 再加上陶器與文學書籍, 畫作等, 展現出一種有故事感, 懷舊,  溫暖的復古氣息.。\n座位區有分三區; 一樓的戶外區, 是提供給有抽菸的朋友們, 可以享受美味餐點的同時還可以擁有吞雲吐霧的樂趣.\n一樓有兩個吧台座位區, 可以面對窗外, 或者是面對著服務人員欣賞他們的手藝, 還有一個兩人桌的座位空間, 整體是以木質系與偏暗色調為主. 二樓的空間不小, 雖然客人多, 但更安靜些, 整體的燈光一樣偏暗, 很適合坐下來慢慢喝杯咖啡, 有會讓人很自然地放慢速度的氛圍.我們點了一杯宇治焙茶拿鐵, 一杯咖啡拿鐵以及一個布丁. 焙茶拿鐵只能說非常的” 濃….醇…..香” 喝下一口, 嘴裡滿滿焙茶的香味, 搭配著拿鐵, 很溫順, 非常的好喝. 布丁有別於其他家, 是以方形的型態表現, 有稍札實的口感, 與焦糖的香氣互相合作, 整個吃下來不會太甜, 也不會太膩, 是很好吃的布丁.\n整體來說, 幻猻家珈琲除了咖啡好喝, 布丁好吃, 他的建築給人的感覺就像是走進某個人的老家或者私密空間. 它的特色在於那種低調, 安靜, 很有故事感的老屋魅力.",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ariane",
+        "uri": "https://www.google.com/maps/contrib/111576077311643642921/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVh9Mkspi0y-DjyX89kG4AYzyMw2DlyVuLtRqbYHoNnOpAve67lBQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-13T09:56:56.073607621Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tRd1QzRmpVVTFxYlRKTmQxOXZSREZRTWt4eVRVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tRd1QzRmpVVTFxYlRKTmQxOXZSREZRTWt4eVRVRRAB!2m1!1s0x3442a913ec837889:0xffdab54a94a090b6"
+    },
+    {
+      "name": "places/ChIJiXiD7BOpQjQRtpCglEq12v8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4aWVHNDJRblJIZEUxVGRtdHJjMU42VlZFMlkxRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 2,
+      "text": {
+        "text": "在二訪這家咖啡館時遇上了最差服務的體驗\n一位服務人員（小姐）就站在緊鄰我們座位旁位置跟男同事暢聊 笑談聲很大（這還是家要求客人輕聲細語的店）相當打擾我們用餐不打緊 還用非常不客氣的口氣教導我們使用餐具的規定（哪來這麼多規定？） 讓全程安安靜靜的我們吃得一肚子火⋯\n\n離去前去上廁所 原一直坐在座位上等候唯一一間小廁所 因人絡繹不絕（笑）只好緊貼著門排隊等候 結果這樣又被罵了！同一位年輕無禮的服務小姐又跑來對廁所前排隊的2人”揮手”嚴厲的說 你們別站在動線上！（？！明明大家都很守規矩緊貼牆壁站耶！就差沒黏在牆壁上了！） 請問妳是在管幼稚園小朋友嗎？ 這位小姐？我們是來享受美食的 不是來被妳管東管西的\n\n可惜了這家當時很紅的咖哩飯口味還行\n卻聘用了替店家大大大扣分的員工\n\n一家店以美味餐點獲得人氣不易\n因一人失禮服務毀掉名氣也是一瞬間\n或許他們根本不差我們幾位客人\n但 再有人氣的店\n沒了基本尊重客人的態度\n也就失去了身為名店該有的高度",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在二訪這家咖啡館時遇上了最差服務的體驗\n一位服務人員（小姐）就站在緊鄰我們座位旁位置跟男同事暢聊 笑談聲很大（這還是家要求客人輕聲細語的店）相當打擾我們用餐不打緊 還用非常不客氣的口氣教導我們使用餐具的規定（哪來這麼多規定？） 讓全程安安靜靜的我們吃得一肚子火⋯\n\n離去前去上廁所 原一直坐在座位上等候唯一一間小廁所 因人絡繹不絕（笑）只好緊貼著門排隊等候 結果這樣又被罵了！同一位年輕無禮的服務小姐又跑來對廁所前排隊的2人”揮手”嚴厲的說 你們別站在動線上！（？！明明大家都很守規矩緊貼牆壁站耶！就差沒黏在牆壁上了！） 請問妳是在管幼稚園小朋友嗎？ 這位小姐？我們是來享受美食的 不是來被妳管東管西的\n\n可惜了這家當時很紅的咖哩飯口味還行\n卻聘用了替店家大大大扣分的員工\n\n一家店以美味餐點獲得人氣不易\n因一人失禮服務毀掉名氣也是一瞬間\n或許他們根本不差我們幾位客人\n但 再有人氣的店\n沒了基本尊重客人的態度\n也就失去了身為名店該有的高度",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Cecilia Chic",
+        "uri": "https://www.google.com/maps/contrib/118186728028878921468/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-RAJ8cV5I8avgjiCygyUfENDNedMEWH3VlFs56sNhGjiKbYyaeA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-10-19T01:46:06.806771159Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4aWVHNDJRblJIZEUxVGRtdHJjMU42VlZFMlkxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4aWVHNDJRblJIZEUxVGRtdHJjMU42VlZFMlkxRRAB!2m1!1s0x3442a913ec837889:0xffdab54a94a090b6"
+    },
+    {
+      "name": "places/ChIJiXiD7BOpQjQRtpCglEq12v8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Ga01VNHpVREJ5V1dkWFZVa3hURFZvZEcwM09FRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "迪化街老宅咖啡店 咖啡甜點都在水準之上\n布丁 小小一層 焦糖搭配的剛剛好\n室內使用許多老物件 桌子 椅子 燈具 有特色與氛圍\n二樓有販售陶藝家的作品\n店裡內用同樣也是手工陶器 小細節都很用心\n\n若沒客滿不限時\n是聚會聊天的好地方",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "迪化街老宅咖啡店 咖啡甜點都在水準之上\n布丁 小小一層 焦糖搭配的剛剛好\n室內使用許多老物件 桌子 椅子 燈具 有特色與氛圍\n二樓有販售陶藝家的作品\n店裡內用同樣也是手工陶器 小細節都很用心\n\n若沒客滿不限時\n是聚會聊天的好地方",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ye Yang",
+        "uri": "https://www.google.com/maps/contrib/111719980496295760045/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKolKOloMA6yOHgHpY1nQ22j17zdtrpMHFfdwiFMj_Zsz1YEA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-13T10:57:17.114058115Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Ga01VNHpVREJ5V1dkWFZVa3hURFZvZEcwM09FRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Ga01VNHpVREJ5V1dkWFZVa3hURFZvZEcwM09FRRAB!2m1!1s0x3442a913ec837889:0xffdab54a94a090b6"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": false
+}

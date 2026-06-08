@@ -1,0 +1,133 @@
+{
+  "id": "ChIJZVCLpJqvQjQRT3oDbysd7PE",
+  "types": [
+    "coffee_shop",
+    "cafe",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2826 1870",
+  "formattedAddress": "112台灣臺北市北投區振華里榮華三路36號1 樓",
+  "location": {
+    "latitude": 25.114095799999998,
+    "longitude": 121.5209802
+  },
+  "rating": 4.4,
+  "websiteUri": "https://www.angleroasters.com/",
+  "userRatingCount": 414,
+  "displayName": {
+    "text": "A N G L E II",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJZVCLpJqvQjQRT3oDbysd7PE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SSldrdEZaemRCTW01dVFub3pNVkpFV2tSSVVuYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "臨時想要找個歇腳處，\n看到了這家咖啡店。\n\n店內不大，氣氛隨性自在。\n點了一杯喜歡的手沖咖啡，\n味道真好。\n\n蛋糕櫃的甜點看起來也很不錯，\n下次來試試！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "臨時想要找個歇腳處，\n看到了這家咖啡店。\n\n店內不大，氣氛隨性自在。\n點了一杯喜歡的手沖咖啡，\n味道真好。\n\n蛋糕櫃的甜點看起來也很不錯，\n下次來試試！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Christina S.",
+        "uri": "https://www.google.com/maps/contrib/107388384682793658403/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWkBd9wxu8gbw35pccOhZ0nzXaaVv6LgdL3uH6PSUbWIFN5hxNyWg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-04T16:45:53.961065176Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SSldrdEZaemRCTW01dVFub3pNVkpFV2tSSVVuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SSldrdEZaemRCTW01dVFub3pNVkpFV2tSSVVuYxAB!2m1!1s0x3442af9aa48b5065:0xf1ec1d2b6f037a4f"
+    },
+    {
+      "name": "places/ChIJZVCLpJqvQjQRT3oDbysd7PE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xJMmNrRmFOV0ZWVUdRd0xXNTVlVTB5UkROa1EyYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "焙茶戚風蛋糕很濕潤不會乾，茶味濃郁好吃\n手沖咖啡真的很可以細細品嚐，風味獨特，果香味甜感十足。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "焙茶戚風蛋糕很濕潤不會乾，茶味濃郁好吃\n手沖咖啡真的很可以細細品嚐，風味獨特，果香味甜感十足。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jen Lin",
+        "uri": "https://www.google.com/maps/contrib/116606352711006491392/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUhbRvfKUJ1dLZclND7EiB7p0TkE5JGk8ld1ZUXG0uPTuimo3oOqg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-11-14T08:26:26.319686009Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xJMmNrRmFOV0ZWVUdRd0xXNTVlVTB5UkROa1EyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xJMmNrRmFOV0ZWVUdRd0xXNTVlVTB5UkROa1EyYxAB!2m1!1s0x3442af9aa48b5065:0xf1ec1d2b6f037a4f"
+    },
+    {
+      "name": "places/ChIJZVCLpJqvQjQRT3oDbysd7PE/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xNVVHRlJibGRXUm5CVGFEVnpVVWswVWs5TVVHYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "很神秘的一家店，門口沒有任何招牌，如果不是在地人帶路，真的很難發現這個隱藏版小天地。這次第一次來踩點，咖啡香氣十足、蛋糕口感細緻不甜膩，用餐環境也相當舒適放鬆，很適合三五好友坐下來慢慢聊天、小聚時光。\n低調卻有質感，推推推 ☕🍰",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很神秘的一家店，門口沒有任何招牌，如果不是在地人帶路，真的很難發現這個隱藏版小天地。這次第一次來踩點，咖啡香氣十足、蛋糕口感細緻不甜膩，用餐環境也相當舒適放鬆，很適合三五好友坐下來慢慢聊天、小聚時光。\n低調卻有質感，推推推 ☕🍰",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "cloudia Hsieh",
+        "uri": "https://www.google.com/maps/contrib/112312285828876756100/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWH423-3i0mZYLFa4wP6uUv_8rYdr4lgsfSd1Fs12hrC7iGzNjAag=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-15T07:35:38.685604661Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xNVVHRlJibGRXUm5CVGFEVnpVVWswVWs5TVVHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xNVVHRlJibGRXUm5CVGFEVnpVVWswVWs5TVVHYxAB!2m1!1s0x3442af9aa48b5065:0xf1ec1d2b6f037a4f"
+    },
+    {
+      "name": "places/ChIJZVCLpJqvQjQRT3oDbysd7PE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxTVZWRndZbU5aTmpWSlRuaDJWRTlMTFdwMFMwRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "📍石牌站走路10分鐘\n💰低消一杯飲品\n🕑平日中午過去的，不需等候\n🍰芝麻奶油戚風蛋糕（180$）顏值很高的蛋糕～ 整體不會太甜、芝麻香氣濃郁，但濕潤度不太夠，吃到後面嘴裡黏黏的不是很習慣\n砂糖橘紅玉烏龍戚風（190$）奶油和戚風蛋糕體的搭配還不錯，但砂糖橘的份量感覺可以再增加，整體烏龍茶味不會到很重（我覺得比芝麻戚風好吃哈哈哈）\n\n蛋糕和飲料整體口味的話我覺得沒有特別驚豔，但店內裝潢和整體風格還不錯，蛋糕們也很好看～ 離我家算近，有空可能會回訪",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "📍石牌站走路10分鐘\n💰低消一杯飲品\n🕑平日中午過去的，不需等候\n🍰芝麻奶油戚風蛋糕（180$）顏值很高的蛋糕～ 整體不會太甜、芝麻香氣濃郁，但濕潤度不太夠，吃到後面嘴裡黏黏的不是很習慣\n砂糖橘紅玉烏龍戚風（190$）奶油和戚風蛋糕體的搭配還不錯，但砂糖橘的份量感覺可以再增加，整體烏龍茶味不會到很重（我覺得比芝麻戚風好吃哈哈哈）\n\n蛋糕和飲料整體口味的話我覺得沒有特別驚豔，但店內裝潢和整體風格還不錯，蛋糕們也很好看～ 離我家算近，有空可能會回訪",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "迦愛",
+        "uri": "https://www.google.com/maps/contrib/112041127469879936295/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLq50CLC82sZPz6OGKUYjqK_xZqzgiC1wcgdNn5F9PR0PjMMw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-09-20T04:45:40.016505341Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxTVZWRndZbU5aTmpWSlRuaDJWRTlMTFdwMFMwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxTVZWRndZbU5aTmpWSlRuaDJWRTlMTFdwMFMwRRAB!2m1!1s0x3442af9aa48b5065:0xf1ec1d2b6f037a4f"
+    },
+    {
+      "name": "places/ChIJZVCLpJqvQjQRT3oDbysd7PE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wcmNWbFFaMkUyVFdscVEzYzBiVVpyTkVkb1VrRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "焙茶蛋糕很好吃！茶味很濃，長輩很喜歡💯 （椪糖需要自己放 怕軟掉😻",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "焙茶蛋糕很好吃！茶味很濃，長輩很喜歡💯 （椪糖需要自己放 怕軟掉😻",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "曾涵榆",
+        "uri": "https://www.google.com/maps/contrib/100017497700363960434/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXYYzU3JYSO4xBmo0oDMqG3HXcbFYZyuDTOTXBvFmisCHqZXAH4=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-10T08:02:57.333907719Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wcmNWbFFaMkUyVFdscVEzYzBiVVpyTkVkb1VrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wcmNWbFFaMkUyVFdscVEzYzBiVVpyTkVkb1VrRRAB!2m1!1s0x3442af9aa48b5065:0xf1ec1d2b6f037a4f"
+    }
+  ],
+  "menuForChildren": false
+}

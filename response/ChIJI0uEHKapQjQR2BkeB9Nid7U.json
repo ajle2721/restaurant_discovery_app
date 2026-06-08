@@ -1,0 +1,132 @@
+{
+  "id": "ChIJI0uEHKapQjQR2BkeB9Nid7U",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2393 2585",
+  "formattedAddress": "10651台灣臺北市大安區福住里信義路二段204號",
+  "location": {
+    "latitude": 25.033528999999998,
+    "longitude": 121.53042549999999
+  },
+  "rating": 4,
+  "websiteUri": "https://dreamerscoffee.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 594,
+  "displayName": {
+    "text": "Dreamers Coffee Roasters 永康店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJI0uEHKapQjQR2BkeB9Nid7U/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSWFkzRk9URlpmWjJ0UFNIWkpNR2s0YUMxTFpuYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "臨信義路，餐點選項多，烘焙品吸睛，拿鐵好喝，烤蔬菜很適口，價位偏中上\n上午時間行人少，靠窗位置自然光無直射，舒適自在\n二樓封閉式感覺空氣流通不順暢，化妝室在二樓，樓面略陡，提供參考",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "臨信義路，餐點選項多，烘焙品吸睛，拿鐵好喝，烤蔬菜很適口，價位偏中上\n上午時間行人少，靠窗位置自然光無直射，舒適自在\n二樓封閉式感覺空氣流通不順暢，化妝室在二樓，樓面略陡，提供參考",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "天使姐姐ㄉ日常不一樣",
+        "uri": "https://www.google.com/maps/contrib/116192811535724403758/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVzOdQh5DNazqw9zcLBXEKaS-fTUaMJbhHmgVszrgJCHYiFuTk=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-12T02:16:30.821008132Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSWFkzRk9URlpmWjJ0UFNIWkpNR2s0YUMxTFpuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSWFkzRk9URlpmWjJ0UFNIWkpNR2s0YUMxTFpuYxAB!2m1!1s0x3442a9a61c844b23:0xb57762d3071e19d8"
+    },
+    {
+      "name": "places/ChIJI0uEHKapQjQR2BkeB9Nid7U/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1dU0waHZkVTFzY213MFlYY3hUSEprYVVRNVdtYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "早上就開的咖啡廳，位子舒適。我點了柚香焙茶司康跟熱美式（共170元）當早餐，司康挺驚喜的大塊又好吃，熱美式不錯。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "早上就開的咖啡廳，位子舒適。我點了柚香焙茶司康跟熱美式（共170元）當早餐，司康挺驚喜的大塊又好吃，熱美式不錯。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "eveno Hsu",
+        "uri": "https://www.google.com/maps/contrib/103209243624154413238/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX_kAOmV_BtusL0C6kJYEfHHiYpxBAmo6YenSd4DGJ6iLi57BMk=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-09-12T10:17:40.991965159Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1dU0waHZkVTFzY213MFlYY3hUSEprYVVRNVdtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1dU0waHZkVTFzY213MFlYY3hUSEprYVVRNVdtYxAB!2m1!1s0x3442a9a61c844b23:0xb57762d3071e19d8"
+    },
+    {
+      "name": "places/ChIJI0uEHKapQjQR2BkeB9Nid7U/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kTkxWZFhPV2swVTJoVVJIQkJhakJVTVhGRlRtYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "廁所算乾淨 就是垃圾滿出來了 洗手台邊一灘水不知道是不是哪裡漏出來的\n\n開心果拿鐵+培根蛋可頌 355\n正常水準 還不錯\n其他麵包蛋糕看起來也都很吸引人\n\n小圓桌為主 座位擁擠",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "廁所算乾淨 就是垃圾滿出來了 洗手台邊一灘水不知道是不是哪裡漏出來的\n\n開心果拿鐵+培根蛋可頌 355\n正常水準 還不錯\n其他麵包蛋糕看起來也都很吸引人\n\n小圓桌為主 座位擁擠",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Melody Lu",
+        "uri": "https://www.google.com/maps/contrib/117949233767085612024/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWpDQuOqLL79C-ZGgXUFnnaYSY8jiZjXnbMbddn1c5xr3qH6H1l1A=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-09T16:39:19.775555430Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kTkxWZFhPV2swVTJoVVJIQkJhakJVTVhGRlRtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kTkxWZFhPV2swVTJoVVJIQkJhakJVTVhGRlRtYxAB!2m1!1s0x3442a9a61c844b23:0xb57762d3071e19d8"
+    },
+    {
+      "name": "places/ChIJI0uEHKapQjQR2BkeB9Nid7U/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWbFRWazViMWg2ZW5oU1dXSXRaRlZ0WWtsamFHYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "是目前連鎖咖啡店最喜歡的品牌。\n店內販售的所有餐點皆為素食\n熱食到蛋糕、麵包小點提供多樣化選擇\n環境舒適且寵物友善。\n這間店處於永康街周邊\n所以不少觀光客，時常客滿\n店員都會貼心提醒先找好座位再來點單\n面對詢問也都耐心回覆，服務親切\n來過幾次，甚至被店員記得喜好。\n看到了一些惡意評論後⋯\n想給你們一些鼓勵，希望你們保持服務熱忱❤️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "是目前連鎖咖啡店最喜歡的品牌。\n店內販售的所有餐點皆為素食\n熱食到蛋糕、麵包小點提供多樣化選擇\n環境舒適且寵物友善。\n這間店處於永康街周邊\n所以不少觀光客，時常客滿\n店員都會貼心提醒先找好座位再來點單\n面對詢問也都耐心回覆，服務親切\n來過幾次，甚至被店員記得喜好。\n看到了一些惡意評論後⋯\n想給你們一些鼓勵，希望你們保持服務熱忱❤️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Bobo (QQ)",
+        "uri": "https://www.google.com/maps/contrib/100366814573647687452/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8dxO_q94eFX_sL_962fIxGQQdmUbuqwz86YKErKJP43sDPyuwIA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-10-02T17:10:19.654708967Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWbFRWazViMWg2ZW5oU1dXSXRaRlZ0WWtsamFHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWbFRWazViMWg2ZW5oU1dXSXRaRlZ0WWtsamFHYxAB!2m1!1s0x3442a9a61c844b23:0xb57762d3071e19d8"
+    },
+    {
+      "name": "places/ChIJI0uEHKapQjQR2BkeB9Nid7U/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twaWJIRm5VMFpPYlhWcGVFSXRkVzVMUW1WTVowRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "一二樓空間感很好，肉桂卷跟百香馬芬都很好吃，今天喝西西里跟荔枝貴妃烏龍，都很好喝。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一二樓空間感很好，肉桂卷跟百香馬芬都很好吃，今天喝西西里跟荔枝貴妃烏龍，都很好喝。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Locust Huang",
+        "uri": "https://www.google.com/maps/contrib/110258337149044950429/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUBNRV92m61d2MsWVgD-8W1zE74NbxrwdTObpx0aMlRB32Av0=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-14T04:21:10.931114178Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twaWJIRm5VMFpPYlhWcGVFSXRkVzVMUW1WTVowRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twaWJIRm5VMFpPYlhWcGVFSXRkVzVMUW1WTVowRRAB!2m1!1s0x3442a9a61c844b23:0xb57762d3071e19d8"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

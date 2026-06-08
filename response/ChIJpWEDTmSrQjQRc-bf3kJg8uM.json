@@ -1,0 +1,134 @@
+{
+  "id": "ChIJpWEDTmSrQjQRc-bf3kJg8uM",
+  "types": [
+    "food_store",
+    "event_venue",
+    "store",
+    "service",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2758 0170",
+  "formattedAddress": "110台灣臺北市信義區正和里仁愛路四段440號",
+  "location": {
+    "latitude": 25.037308,
+    "longitude": 121.55858299999998
+  },
+  "rating": 4.4,
+  "websiteUri": "https://30cafe.com.tw/",
+  "userRatingCount": 461,
+  "displayName": {
+    "text": "叁食",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJpWEDTmSrQjQRc-bf3kJg8uM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xveGFGZHRhbVZGWlhkMVowRXRSa2x5YUhGeVpIYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第一次在參食幫寶貝辦生日趴，活動過程讓我和我的朋友都覺得很舒服，餐點也滿好吃的，謝謝參食團隊讓我的寶貝順利完成生日趴，明年一樣會繼續在你們店辦趴",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次在參食幫寶貝辦生日趴，活動過程讓我和我的朋友都覺得很舒服，餐點也滿好吃的，謝謝參食團隊讓我的寶貝順利完成生日趴，明年一樣會繼續在你們店辦趴",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Vicky",
+        "uri": "https://www.google.com/maps/contrib/117546955244179990133/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLX2Hz5Uq4MiKO5xo5NjiB37gT3aoo8GYU0qd-EWFAtVo-d1g=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-22T01:14:54.264948771Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xveGFGZHRhbVZGWlhkMVowRXRSa2x5YUhGeVpIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xveGFGZHRhbVZGWlhkMVowRXRSa2x5YUhGeVpIYxAB!2m1!1s0x3442ab644e0361a5:0xe3f26042dedfe673"
+    },
+    {
+      "name": "places/ChIJpWEDTmSrQjQRc-bf3kJg8uM/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CUFRGUllXRVZLUkU1ck4xSldTRkV6VW1KWk4zYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "台北叁食真的讓我驚到，不只是好吃，是那種「每一道都想再挖一口」的等級。壽食完全不像寵物餐廳會有的味道，濃、香、順，每一杯都被我秒殺。現場光線也超級友善，怎麼拍都乾淨漂亮，連甜點、薯條、沙拉都美到像在拍型錄。能在溫馨的空間裡陪壽星一起慶生，又能吃到這麼厲害的料理，真的大滿足。— 這間我會為了拍照、為了美食、為了狗一致回訪。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "台北叁食真的讓我驚到，不只是好吃，是那種「每一道都想再挖一口」的等級。壽食完全不像寵物餐廳會有的味道，濃、香、順，每一杯都被我秒殺。現場光線也超級友善，怎麼拍都乾淨漂亮，連甜點、薯條、沙拉都美到像在拍型錄。能在溫馨的空間裡陪壽星一起慶生，又能吃到這麼厲害的料理，真的大滿足。— 這間我會為了拍照、為了美食、為了狗一致回訪。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Little Five",
+        "uri": "https://www.google.com/maps/contrib/105469704973243235288/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW1JludEnvHNcZGEOqGlfXjH9qDTSaVbZJR-sRxEhVkgme1Fk5mUQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-25T15:26:36.986547216Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CUFRGUllXRVZLUkU1ck4xSldTRkV6VW1KWk4zYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CUFRGUllXRVZLUkU1ck4xSldTRkV6VW1KWk4zYxAB!2m1!1s0x3442ab644e0361a5:0xe3f26042dedfe673"
+    },
+    {
+      "name": "places/ChIJpWEDTmSrQjQRc-bf3kJg8uM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Ob00zZHdjRkp1WW1VeVNVSmthVTlrY1VORVgzYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "平日中午前往，餐點中規中矩，點了2份麵食，1份沙拉，1杯美式咖啡1杯熱紅茶，2杯布丁，1份炸薯球，共1700多。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "平日中午前往，餐點中規中矩，點了2份麵食，1份沙拉，1杯美式咖啡1杯熱紅茶，2杯布丁，1份炸薯球，共1700多。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃子奇",
+        "uri": "https://www.google.com/maps/contrib/115586207320081796594/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUlP-sAJIuVedPSLkYjUotw2yMh2NZ3gRTU5cSS93H--tbGgJ8PBQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-06T03:37:04.026928380Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Ob00zZHdjRkp1WW1VeVNVSmthVTlrY1VORVgzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Ob00zZHdjRkp1WW1VeVNVSmthVTlrY1VORVgzYxAB!2m1!1s0x3442ab644e0361a5:0xe3f26042dedfe673"
+    },
+    {
+      "name": "places/ChIJpWEDTmSrQjQRc-bf3kJg8uM/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xdVYwNVRjRmw2TlY5TmQyNTNNRFZCU1hWRVUwRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "紅酒燉牛頰，牛肉軟爛入味，泰式炙烤雞腿排，雞腿嫩中帶汁，香氣十足，值得再訪。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "紅酒燉牛頰，牛肉軟爛入味，泰式炙烤雞腿排，雞腿嫩中帶汁，香氣十足，值得再訪。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "JC",
+        "uri": "https://www.google.com/maps/contrib/115530655429095894602/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJUONB6fnI1I8tFTrqkL6KYUDGFnqhw0_5quNE6XHmr2gZU=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-13T04:43:37.937972866Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xdVYwNVRjRmw2TlY5TmQyNTNNRFZCU1hWRVUwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xdVYwNVRjRmw2TlY5TmQyNTNNRFZCU1hWRVUwRRAB!2m1!1s0x3442ab644e0361a5:0xe3f26042dedfe673"
+    },
+    {
+      "name": "places/ChIJpWEDTmSrQjQRc-bf3kJg8uM/reviews/ChdDSUhNMG9nS0VJQ0FnSURQOThmaDhRRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "空間蠻舒適的，大面積的採光感覺很通透，餐點明太子義大利麵很好吃，栗子南瓜濃湯很濃郁吃得到顆粒感整體很不錯。\n香料咖喱牛肉飯，牛肉燉的還不錯，香料咖喱稍微普通一些，小菜也處理的蠻好的。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "空間蠻舒適的，大面積的採光感覺很通透，餐點明太子義大利麵很好吃，栗子南瓜濃湯很濃郁吃得到顆粒感整體很不錯。\n香料咖喱牛肉飯，牛肉燉的還不錯，香料咖喱稍微普通一些，小菜也處理的蠻好的。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chiaos Chen",
+        "uri": "https://www.google.com/maps/contrib/108553097783804841971/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXJuAFaIcJvfGweY9f905lHS4YVO20elr8eR-E-qj6LH2EE7DqHiA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2024-12-06T11:30:42.514199Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQOThmaDhRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQOThmaDhRRRAB!2m1!1s0x3442ab644e0361a5:0xe3f26042dedfe673"
+    }
+  ],
+  "goodForChildren": true
+}

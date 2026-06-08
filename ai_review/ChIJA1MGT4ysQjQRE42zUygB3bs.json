@@ -1,0 +1,53 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "空間很大很明亮，自助區有起司粉和飲料機、飲水機，還挺不錯的。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "No menu for children (官方標記：不提供兒童餐)",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "熱門用餐時段通常會有點吵、小朋友會很多～如果怕吵可以避開或用外帶～轉桌率快！餐廳明亮。",
+        "confidence": 0.9
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "Good for children (官方標記：適合兒童)",
+        "No menu for children (官方標記：不提供兒童餐)",
+        "熱門用餐時段通常會有點吵、小朋友會很多～如果怕吵可以避開或用外帶～轉桌率快！餐廳明亮。",
+        "空間很大很明亮，自助區有起司粉和飲料機、飲水機，還挺不錯的。"
+    ],
+    "generated_summary": "該餐廳空間寬敞明亮，且因熱門時段常有許多家庭客，環境氛圍較為熱鬧，對帶小孩的家庭相對友善。不過，店家官方標記顯示不提供兒童餐，且評論中未提及兒童座椅、餐具或尿布台等設施，建議家長前往前可先確認相關需求。",
+    "card_summary": ""
+}

@@ -1,0 +1,51 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "空間很寬敞舒適，照明充足，非常適合讀書辦公。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "No",
+        "evidence": "店內大家都蠻安靜的很適合來辦公、讀書～～",
+        "confidence": 0.9
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "店內大家都蠻安靜的很適合來辦公、讀書～～",
+        "空間很寬敞舒適，照明充足，非常適合讀書辦公。"
+    ],
+    "generated_summary": "聲島咖啡環境寬敞舒適，氛圍安靜，主要客群為辦公與讀書的學生及上班族，目前評論中並未提及兒童座椅、兒童餐點或親子友善設施等相關資訊，建議前往前可先向店家確認。",
+    "card_summary": ""
+}

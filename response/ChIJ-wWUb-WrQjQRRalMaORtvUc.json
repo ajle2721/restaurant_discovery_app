@@ -1,0 +1,132 @@
+{
+  "id": "ChIJ-wWUb-WrQjQRRalMaORtvUc",
+  "types": [
+    "taiwanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2546 8597",
+  "formattedAddress": "105台灣臺北市松山區民有里民權東路三段160巷19弄4號",
+  "location": {
+    "latitude": 25.060219,
+    "longitude": 121.547631
+  },
+  "rating": 4.4,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 355,
+  "displayName": {
+    "text": "松山區立可康餐廳",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ-wWUb-WrQjQRRalMaORtvUc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKbU0zQkRSbGhvTFZKYWVrSXhOVkpuTUZKVFdWRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "松山機場晚上餐廳很早打烊、於是寄存行李在附近找吃的。看到這家餐廳網路評價頗高便來用餐。\n果然如網友評論的是一家現點現做的社區型餐廳，餐點味美，份量十足。上餐主菜是熱呼呼的令人開心。\n店內餐廳裝修較陳舊，但餐點套餐價位與如今台北物價相比，算是CP值挺高的。我們晚上7:15左右來用餐，店內客人頗多。只可惜餐廳人手不足，套餐的飲料到我們要離店還無法供應，而且點魚類料理上餐時間較長要有心理準備。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "松山機場晚上餐廳很早打烊、於是寄存行李在附近找吃的。看到這家餐廳網路評價頗高便來用餐。\n果然如網友評論的是一家現點現做的社區型餐廳，餐點味美，份量十足。上餐主菜是熱呼呼的令人開心。\n店內餐廳裝修較陳舊，但餐點套餐價位與如今台北物價相比，算是CP值挺高的。我們晚上7:15左右來用餐，店內客人頗多。只可惜餐廳人手不足，套餐的飲料到我們要離店還無法供應，而且點魚類料理上餐時間較長要有心理準備。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Eunice Yeh",
+        "uri": "https://www.google.com/maps/contrib/103369693108782075611/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWxhEhfOmvQ9MXQ6lCoMD2kzWKXQXl5osplxsbpGLcsJiDRyhs=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-11T06:58:44.893177980Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKbU0zQkRSbGhvTFZKYWVrSXhOVkpuTUZKVFdWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKbU0zQkRSbGhvTFZKYWVrSXhOVkpuTUZKVFdWRRAB!2m1!1s0x3442abe56f9405fb:0x47bd6de4684ca945"
+    },
+    {
+      "name": "places/ChIJ-wWUb-WrQjQRRalMaORtvUc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCcFVVTXdhblZLUjFSbmVscG1MVFJJTmt4NWFWRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "環境舒適，家常口味的簡餐，營業時間友善。今天吃獅子頭白菜鍋，要再來嚐嚐其他餐點",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境舒適，家常口味的簡餐，營業時間友善。今天吃獅子頭白菜鍋，要再來嚐嚐其他餐點",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "姜真如",
+        "uri": "https://www.google.com/maps/contrib/113914247260513149863/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKlj3fhemicraqWU9YBmtCfpFTDZwe1InIxqUEaJigsv4ySkQ=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-11-02T01:40:55.710268219Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCcFVVTXdhblZLUjFSbmVscG1MVFJJTmt4NWFWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCcFVVTXdhblZLUjFSbmVscG1MVFJJTmt4NWFWRRAB!2m1!1s0x3442abe56f9405fb:0x47bd6de4684ca945"
+    },
+    {
+      "name": "places/ChIJ-wWUb-WrQjQRRalMaORtvUc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25VNU1WRlRTVTA0ZWkxaFdVTlJiMjlJV0hwdVExRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 3,
+      "text": {
+        "text": "家庭式簡餐\n推薦點選飯類，不推薦焗烤類。主菜份量不多，價格稍高一些",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "家庭式簡餐\n推薦點選飯類，不推薦焗烤類。主菜份量不多，價格稍高一些",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Joanne Hsu",
+        "uri": "https://www.google.com/maps/contrib/112029097252460201353/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLYC-7jGvFFtnjGvexwJYTWeoxLrVvMaLHw15Nv4H0FBBuvXg=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-10-16T00:45:54.934605314Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25VNU1WRlRTVTA0ZWkxaFdVTlJiMjlJV0hwdVExRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25VNU1WRlRTVTA0ZWkxaFdVTlJiMjlJV0hwdVExRRAB!2m1!1s0x3442abe56f9405fb:0x47bd6de4684ca945"
+    },
+    {
+      "name": "places/ChIJ-wWUb-WrQjQRRalMaORtvUc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OZmVXczJhR013YzFwUVdGWkJObmxZYjJ0aGVWRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "好陣子沒有來，再次光顧還是點了紅燒獅子頭。\n味道沒變，服務依舊親切，整體感覺很舒服。\n這種低調卻穩定的好，是會讓人一直記得的。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "好陣子沒有來，再次光顧還是點了紅燒獅子頭。\n味道沒變，服務依舊親切，整體感覺很舒服。\n這種低調卻穩定的好，是會讓人一直記得的。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Steve Hsieh",
+        "uri": "https://www.google.com/maps/contrib/117784366235737364728/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWRL2tgKsNHjRbZzkTGuAWTl12IqMMXR-CRXdc6hYl-G8W942Eg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-24T08:04:35.400277762Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OZmVXczJhR013YzFwUVdGWkJObmxZYjJ0aGVWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OZmVXczJhR013YzFwUVdGWkJObmxZYjJ0aGVWRRAB!2m1!1s0x3442abe56f9405fb:0x47bd6de4684ca945"
+    },
+    {
+      "name": "places/ChIJ-wWUb-WrQjQRRalMaORtvUc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWT1ozTnZWMWQwVlRWbk5GUmxiM1JNYzFVd1QzYxAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 4,
+      "text": {
+        "text": "台式簡餐，好吃，環境溫馨舒適\n味道都不錯、價格合理👍\n很家常菜，口味較重一些～（某些偏油）\n主餐選擇多，甜品（綠豆薏仁）可以再不甜一些更好",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "台式簡餐，好吃，環境溫馨舒適\n味道都不錯、價格合理👍\n很家常菜，口味較重一些～（某些偏油）\n主餐選擇多，甜品（綠豆薏仁）可以再不甜一些更好",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Andrea",
+        "uri": "https://www.google.com/maps/contrib/104888622858273147687/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXYS0parhaTAWVpmVdDk6BmQWu1_--TNzNP3WCenWkaPyp9zeWbWg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-07-27T05:44:49.818496206Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWT1ozTnZWMWQwVlRWbk5GUmxiM1JNYzFVd1QzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWT1ozTnZWMWQwVlRWbk5GUmxiM1JNYzFVd1QzYxAB!2m1!1s0x3442abe56f9405fb:0x47bd6de4684ca945"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

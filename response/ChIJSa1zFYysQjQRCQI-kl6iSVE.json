@@ -1,0 +1,140 @@
+{
+  "id": "ChIJSa1zFYysQjQRCQI-kl6iSVE",
+  "types": [
+    "coffee_shop",
+    "cafe",
+    "bakery",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2790 3266",
+  "formattedAddress": "114台灣臺北市內湖區湖濱里成功路三段146號",
+  "location": {
+    "latitude": 25.079934899999998,
+    "longitude": 121.5897048
+  },
+  "rating": 4.3,
+  "websiteUri": "https://www.facebook.com/REEDScoffeebakery/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1097,
+  "displayName": {
+    "text": "Reeds Coffee & Bakery",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Coffee, sandwiches & desserts, plus pizza & salads, served in a cheerful cafe.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJSa1zFYysQjQRCQI-kl6iSVE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoNlkxUkpSbU01VWpNNU1sWnZZMHR2TUVSb1gzYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "麵包很好吃\n也可以代為加熱\n但服務人員\n表情口氣有點冷\n去了幾次都這樣\n\n但這裡的環境真的很不錯\n咖啡也好喝\n\n若人與物都美 更好",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "麵包很好吃\n也可以代為加熱\n但服務人員\n表情口氣有點冷\n去了幾次都這樣\n\n但這裡的環境真的很不錯\n咖啡也好喝\n\n若人與物都美 更好",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Nancy Shen",
+        "uri": "https://www.google.com/maps/contrib/115060941191526995324/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUMQXY7Xf_RJpn9JDoRk0_QfVIR_uKQ6x9e6DcWKdXVIDxHrvuQYA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-23T02:10:17.714742107Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoNlkxUkpSbU01VWpNNU1sWnZZMHR2TUVSb1gzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoNlkxUkpSbU01VWpNNU1sWnZZMHR2TUVSb1gzYxAB!2m1!1s0x3442ac8c1573ad49:0x5149a25e923e0209"
+    },
+    {
+      "name": "places/ChIJSa1zFYysQjQRCQI-kl6iSVE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWdWMxZFlUVU5xTTFsalZGVnBUV1puYVVZMU9WRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第一次來訪，印象很好。\n環境明亮乾淨舒適，店內播放的音樂音量適中，讓人覺得放鬆。很適合悠閒地看書、滑手機。肉桂捲也很讚，外皮微酥，可以咬到不少蘋果丁，熱熱地吃超好吃。\n可能有些人會覺得價位稍高，但以內用來說CP值很高了，有空會再訪！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次來訪，印象很好。\n環境明亮乾淨舒適，店內播放的音樂音量適中，讓人覺得放鬆。很適合悠閒地看書、滑手機。肉桂捲也很讚，外皮微酥，可以咬到不少蘋果丁，熱熱地吃超好吃。\n可能有些人會覺得價位稍高，但以內用來說CP值很高了，有空會再訪！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yu Hsien Lee",
+        "uri": "https://www.google.com/maps/contrib/103309127711727623432/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVLpNkLOVQ8H1qGLF93V9L7zwX-Ct3nBLHObRL0y9B3vCr7Mnrc=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-11-21T03:44:04.391653127Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWdWMxZFlUVU5xTTFsalZGVnBUV1puYVVZMU9WRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWdWMxZFlUVU5xTTFsalZGVnBUV1puYVVZMU9WRRAB!2m1!1s0x3442ac8c1573ad49:0x5149a25e923e0209"
+    },
+    {
+      "name": "places/ChIJSa1zFYysQjQRCQI-kl6iSVE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pScFpGRlNZMmg0ZEdsUmNVNXhRWGxxUlhaelgzYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 1,
+      "text": {
+        "text": "這樣賣280 茶都沒泡開就丟個茶包 加個熱水\n太沒心了吧 超解不可能再來⋯⋯⋯⋯^ ^",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這樣賣280 茶都沒泡開就丟個茶包 加個熱水\n太沒心了吧 超解不可能再來⋯⋯⋯⋯^ ^",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Katy Hsu",
+        "uri": "https://www.google.com/maps/contrib/109144024762369490006/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8sEiaiQ5eO5uEMQiUsYftAvLqapLjw4ewh6Ez6TqajD9YPy1I=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-03-06T08:22:43.772878002Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pScFpGRlNZMmg0ZEdsUmNVNXhRWGxxUlhaelgzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pScFpGRlNZMmg0ZEdsUmNVNXhRWGxxUlhaelgzYxAB!2m1!1s0x3442ac8c1573ad49:0x5149a25e923e0209"
+    },
+    {
+      "name": "places/ChIJSa1zFYysQjQRCQI-kl6iSVE/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ka01YWmllREpoVjNKRFRrbHVhM0ozTUZGMGFWRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "消費空間很大 還有二樓 空間富有變化性滿舒服的! 點了拿鐵咖啡 咖啡沒有很好喝 一般般。 消費方式是震動取餐~",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "消費空間很大 還有二樓 空間富有變化性滿舒服的! 點了拿鐵咖啡 咖啡沒有很好喝 一般般。 消費方式是震動取餐~",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳建國",
+        "uri": "https://www.google.com/maps/contrib/100237032045717438688/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVWEJmm4a_QWyiL44MDIganuz6xU5B1hRbWPncT6Gh83HjD576q=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-11-05T23:43:27.820936124Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ka01YWmllREpoVjNKRFRrbHVhM0ozTUZGMGFWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ka01YWmllREpoVjNKRFRrbHVhM0ozTUZGMGFWRRAB!2m1!1s0x3442ac8c1573ad49:0x5149a25e923e0209"
+    },
+    {
+      "name": "places/ChIJSa1zFYysQjQRCQI-kl6iSVE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OclFuZDJTbHB1TUhKMVMxSmhlSFZLT0dWTk0zYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "難得去內湖一趟\n是朋友推薦的咖啡廳\n熱拿鐵還ok\n覺得比較有特殊感覺的是椰香咖啡\n就是椰子汁加上expresso\n冰的喝起來很不錯有一點點微甜",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "難得去內湖一趟\n是朋友推薦的咖啡廳\n熱拿鐵還ok\n覺得比較有特殊感覺的是椰香咖啡\n就是椰子汁加上expresso\n冰的喝起來很不錯有一點點微甜",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "小美",
+        "uri": "https://www.google.com/maps/contrib/111793912831413635842/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUtCYYeeAKsi1MtLd-dB26-QiK11UVJeRH5fqlWIqEmwOAKCAotcQ=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-02-09T04:05:45.599337217Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OclFuZDJTbHB1TUhKMVMxSmhlSFZLT0dWTk0zYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OclFuZDJTbHB1TUhKMVMxSmhlSFZLT0dWTk0zYxAB!2m1!1s0x3442ac8c1573ad49:0x5149a25e923e0209"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

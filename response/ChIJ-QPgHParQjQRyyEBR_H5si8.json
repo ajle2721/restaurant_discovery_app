@@ -1,0 +1,132 @@
+{
+  "id": "ChIJ-QPgHParQjQRyyEBR_H5si8",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "105045台灣臺北市松山區敦化里八德路三段12巷5弄17號1樓",
+  "location": {
+    "latitude": 25.0477197,
+    "longitude": 121.5513228
+  },
+  "rating": 4.5,
+  "websiteUri": "https://1095food.tw/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 329,
+  "displayName": {
+    "text": "小朝日和",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ-QPgHParQjQRyyEBR_H5si8/reviews/Ci9DQUlRQUNvZENodHljRjlvT201MVEwZExNVWRXZFVSWWVHWmxPWEJpTVRKMFVuYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "內用掃桌號->跳到連結line加好友->加完好友點餐->點選付款->Line登入->餐點全部跳掉->重點餐->???\n\n請問掃桌號還要自己選內用還是外帶？還要選桌號是尛？\n\n馬克杯一杯70玉米濃湯，怎不去搶？\n\n服務不錯，出餐速度不錯。就是一堆搞笑東西，餐點也不算好吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "內用掃桌號->跳到連結line加好友->加完好友點餐->點選付款->Line登入->餐點全部跳掉->重點餐->???\n\n請問掃桌號還要自己選內用還是外帶？還要選桌號是尛？\n\n馬克杯一杯70玉米濃湯，怎不去搶？\n\n服務不錯，出餐速度不錯。就是一堆搞笑東西，餐點也不算好吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ren Bang You",
+        "uri": "https://www.google.com/maps/contrib/108531227200459189111/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXMQSs6Fy1BOYM7iV1_PG9ksgddcwzhmNlIYNY81ItHPjPay8c=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-19T05:23:17.250306064Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201MVEwZExNVWRXZFVSWWVHWmxPWEJpTVRKMFVuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201MVEwZExNVWRXZFVSWWVHWmxPWEJpTVRKMFVuYxAB!2m1!1s0x3442abf61ce003f9:0x2fb2f9f1470121cb"
+    },
+    {
+      "name": "places/ChIJ-QPgHParQjQRyyEBR_H5si8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxSFVHTmFOQzEwYWt4eFNHMHdZV2RhTFRaVlozYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "外帶點了雞胸蛋漢堡和鮪魚蛋餅，食物算中規中矩，份量偏小，正常食量不喝飲料應該差不多要點2份餐點會比較有飽足感。\n\n因為是外帶，所以餐點都有自己再氣炸過，兩款都算不錯吃，就表現一般，比較特別的是有雞胸的選項，雞胸雖然不大塊但有厚度，而且吃起來口感很不錯。鮪魚蛋餅內餡香甜濕潤，不過蛋餅皮的含油量滿高的，自己氣炸過後餅皮表層都油油亮亮，吃起來確實也有感受得到油感，不過還好不會有油膩的感覺。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "外帶點了雞胸蛋漢堡和鮪魚蛋餅，食物算中規中矩，份量偏小，正常食量不喝飲料應該差不多要點2份餐點會比較有飽足感。\n\n因為是外帶，所以餐點都有自己再氣炸過，兩款都算不錯吃，就表現一般，比較特別的是有雞胸的選項，雞胸雖然不大塊但有厚度，而且吃起來口感很不錯。鮪魚蛋餅內餡香甜濕潤，不過蛋餅皮的含油量滿高的，自己氣炸過後餅皮表層都油油亮亮，吃起來確實也有感受得到油感，不過還好不會有油膩的感覺。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "mu mu",
+        "uri": "https://www.google.com/maps/contrib/115675681630425395358/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVsS5iQfpLz5lSxUlc6zSXK7IYjemCdKDYC-EcFYkqtX6Qt54gmow=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-12-21T13:46:38.198570118Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxSFVHTmFOQzEwYWt4eFNHMHdZV2RhTFRaVlozYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxSFVHTmFOQzEwYWt4eFNHMHdZV2RhTFRaVlozYxAB!2m1!1s0x3442abf61ce003f9:0x2fb2f9f1470121cb"
+    },
+    {
+      "name": "places/ChIJ-QPgHParQjQRyyEBR_H5si8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twUFEzZHlPRU5MTFUxck9IRkdVR1JsTkhCM1drRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "中崙市場商圈的精緻早午餐店，中崙地區輕食愛好者不可錯過的店。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "中崙市場商圈的精緻早午餐店，中崙地區輕食愛好者不可錯過的店。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "PW Huang",
+        "uri": "https://www.google.com/maps/contrib/110624068335692599764/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ8E6zpc2CfWYiIsHlcEL018XLmwSY2D2xMhCzAmk6I5j8ZPQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-03-06T04:21:14.473116281Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twUFEzZHlPRU5MTFUxck9IRkdVR1JsTkhCM1drRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twUFEzZHlPRU5MTFUxck9IRkdVR1JsTkhCM1drRRAB!2m1!1s0x3442abf61ce003f9:0x2fb2f9f1470121cb"
+    },
+    {
+      "name": "places/ChIJ-QPgHParQjQRyyEBR_H5si8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1bmJ6UXRWRzlIZVMxSFdYaGtPVGRQT0VzNFJGRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "每個餐點都不錯\n我會給 4.5 / 5🌟\n\n清爽選👉 舒肥雞吐司\n加起司很好吃 不加醬也不單調\n很喜歡有厚度的半熟蛋 配上香料味的雞肉\n如果肉量多一點會更好\n\n想吃牛選👉 手打牛排漢堡\n牛的肉質比較糊一些 但牛味中等偏重還不錯\n\n飲料可以調甜度很棒！\n沙拉也很不錯吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "每個餐點都不錯\n我會給 4.5 / 5🌟\n\n清爽選👉 舒肥雞吐司\n加起司很好吃 不加醬也不單調\n很喜歡有厚度的半熟蛋 配上香料味的雞肉\n如果肉量多一點會更好\n\n想吃牛選👉 手打牛排漢堡\n牛的肉質比較糊一些 但牛味中等偏重還不錯\n\n飲料可以調甜度很棒！\n沙拉也很不錯吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Fang",
+        "uri": "https://www.google.com/maps/contrib/105540021935284575274/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUp5wSNwrrG450myLIunDlSd34xjofGJY74UYbbqYcVHlq6FzJD_Q=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-10T16:54:21.473644500Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1bmJ6UXRWRzlIZVMxSFdYaGtPVGRQT0VzNFJGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1bmJ6UXRWRzlIZVMxSFdYaGtPVGRQT0VzNFJGRRAB!2m1!1s0x3442abf61ce003f9:0x2fb2f9f1470121cb"
+    },
+    {
+      "name": "places/ChIJ-QPgHParQjQRyyEBR_H5si8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25vdGFEbFNSV0k1YkRrMlVrb3RSM0UzY2pKalJHYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點品質不錯，內用環境也溫馨舒服，價格合理的好吃早餐店",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點品質不錯，內用環境也溫馨舒服，價格合理的好吃早餐店",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Zoe Wang",
+        "uri": "https://www.google.com/maps/contrib/113124880326296997207/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJvQc9OsYl3Z_P43cqkLinFZmJiRasgMVJOSPFkZ-Np3UNMWAxv=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-24T04:56:59.845948202Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25vdGFEbFNSV0k1YkRrMlVrb3RSM0UzY2pKalJHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25vdGFEbFNSV0k1YkRrMlVrb3RSM0UzY2pKalJHYxAB!2m1!1s0x3442abf61ce003f9:0x2fb2f9f1470121cb"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": false
+}

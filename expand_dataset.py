@@ -190,7 +190,7 @@ def fetch_place_details_stage2(place_id):
     """
     url = f"https://places.googleapis.com/v1/places/{place_id}"
     params = {
-        "fields": "id,displayName,formattedAddress,rating,userRatingCount,reviews,types,location,websiteUri,internationalPhoneNumber,priceLevel,editorialSummary",
+        "fields": "id,displayName,formattedAddress,rating,userRatingCount,reviews,types,location,websiteUri,internationalPhoneNumber,priceLevel,editorialSummary,goodForChildren,menuForChildren",
         "key": API_KEY,
         "languageCode": "zh-Hant"
     }
@@ -222,7 +222,7 @@ def main():
 
     # 1. Load landmarks from locations.js
     all_locations = load_locations_js()
-    landmarks = [loc for loc in all_locations if loc.get("type") in ["捷運站", "捷運站/商圈", "商圈/捷運站", "捷運站/地標", "地標/景點", "公園/親子景點", "親子景點", "地標/藝文"]]
+    landmarks = [loc for loc in all_locations if loc.get("type") and any(x in loc.get("type") for x in ["捷運", "商圈", "地標", "景點", "公園", "博物館", "廟宇", "藝文"])]
     print(f"[INFO] Loaded {len(landmarks)} key landmarks/stations from locations.js")
 
     if not landmarks:
@@ -236,7 +236,7 @@ def main():
     for dist in DISTRICTS:
         print(f"  - {dist}: {district_counts[dist]} restaurants")
     
-    target_per_district = 100
+    target_per_district = 160
     if args.test:
         print("\n[TEST] Running in TEST mode. Overriding targets to 1 district.")
         active_districts = ["文山區"]
@@ -309,14 +309,46 @@ def main():
                         rating = p.get("rating", 0)
                         rating_count = p.get("userRatingCount", 0)
                         types = p.get("types", [])
+                        name = p.get("displayName", {}).get("text", "")
                         
                         # Exclude low-rated or unpopular places
                         if rating < 4.0 or rating_count < 15:
                             continue
                             
                         # Exclude non-eating places (make sure it's a food establishment, cafe, or restaurant)
-                        valid_types = {'restaurant', 'cafe', 'food', 'coffee_shop', 'brunch_restaurant'}
-                        if not any(t in valid_types for t in types):
+                        valid_food_types = {
+                            'restaurant', 'cafe', 'coffee_shop', 'brunch_restaurant', 'bistro', 
+                            'bakery', 'diner', 'fast_food_restaurant', 'ice_cream_shop', 
+                            'pizzeria', 'sandwich_shop', 'steak_house', 'sushi_restaurant', 
+                            'ramen_restaurant'
+                        }
+                        
+                        is_valid_type = any(t in valid_food_types or 'restaurant' in t for t in types)
+                        
+                        # Explicitly exclude retail/service points that might have "food" type
+                        invalid_types = {
+                            'grocery_store', 'supermarket', 'convenience_store', 'department_store', 
+                            'shopping_mall', 'liquor_store', 'clothing_store', 'beauty_salon', 
+                            'spa', 'lodging', 'hotel', 'museum', 'park', 'amusement_park',
+                            'subway_station', 'transit_station', 'doctor', 'hospital', 'pharmacy'
+                        }
+                        has_invalid_type = any(t in invalid_types for t in types)
+                        if has_invalid_type and not any('restaurant' in t or t in {'cafe', 'brunch_restaurant', 'bistro'} for t in types):
+                            continue
+                            
+                        if not is_valid_type:
+                            continue
+                            
+                        # Exclude non-restaurant name keywords
+                        exclude_keywords = [
+                            "診所", "藥局", "美甲", "美容", "美髮", "沙龍", "工作室", "材料行", 
+                            "寵物", "按摩", "SPA", "會館", "量販", "超市", "便利商店", 
+                            "幼兒園", "補習班", "托兒所", "學校", "體育館", "健身", "運動", 
+                            "醫院", "藥房", "牙醫", "通訊", "服飾", "精品", "藥妝", "屈臣氏", 
+                            "康是美", "寶雅", "大創", "特力屋", "家樂福", "大潤發", "全聯", 
+                            "美廉社", "7-11", "全家", "萊爾富", "OK超商"
+                        ]
+                        if any(kw in name for kw in exclude_keywords):
                             continue
                         
                         candidates.append(p)

@@ -1,0 +1,136 @@
+{
+  "id": "ChIJk__NE46vQjQR5eRNwrrUl_I",
+  "types": [
+    "restaurant",
+    "health_food_store",
+    "american_restaurant",
+    "food_store",
+    "health",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2832 2322",
+  "formattedAddress": "111台灣臺北市士林區蘭雅里中山北路六段168號1樓",
+  "location": {
+    "latitude": 25.107069,
+    "longitude": 121.52514499999998
+  },
+  "rating": 4.6,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1231,
+  "displayName": {
+    "text": "POKE Lee 夏威夷丼飯 (芝山店)",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJk__NE46vQjQR5eRNwrrUl_I/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCR1FWaDRUSGxNUmtwdlJsbFJSRWN4UjAxeGIyYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第一次吃到 很喜歡 也很驚豔\n好多蔬食及低熱量的項目可以自由搭配\n青菜都很新鮮~隨然有很多魚類~\n但整間店卻一點也沒有腥臭味\n店內環境很舒適又乾淨\n\n醬類調製很多~蒜味美乃滋很好吃\n非常喜歡芭樂果昔，真的是原汁打的~\n另外隱藏版丼飯真的很合適海鮮控\n向寶藏和一樣，超多海鮮的搭配~\n值得追的店~也很少見的乾淨又好吃的夏威夷丼飯\n風靡全球的超級食物~終於吃到🥰",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次吃到 很喜歡 也很驚豔\n好多蔬食及低熱量的項目可以自由搭配\n青菜都很新鮮~隨然有很多魚類~\n但整間店卻一點也沒有腥臭味\n店內環境很舒適又乾淨\n\n醬類調製很多~蒜味美乃滋很好吃\n非常喜歡芭樂果昔，真的是原汁打的~\n另外隱藏版丼飯真的很合適海鮮控\n向寶藏和一樣，超多海鮮的搭配~\n值得追的店~也很少見的乾淨又好吃的夏威夷丼飯\n風靡全球的超級食物~終於吃到🥰",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Joyce Lai",
+        "uri": "https://www.google.com/maps/contrib/108760787411734998663/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXW5CiYONzTAlGP-0in2k6YgZog7mTFs_ZjPnUvv2Lxul0QpOfdfQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-09-16T02:09:46.108404728Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCR1FWaDRUSGxNUmtwdlJsbFJSRWN4UjAxeGIyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCR1FWaDRUSGxNUmtwdlJsbFJSRWN4UjAxeGIyYxAB!2m1!1s0x3442af8e13cdff93:0xf297d4bac24de4e5"
+    },
+    {
+      "name": "places/ChIJk__NE46vQjQR5eRNwrrUl_I/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tVMlMwdE1TaTF3TnpaSWNWOURURXN4Wlhkak5IYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 2,
+      "text": {
+        "text": "男店員很沒有基本禮貌，送上餐點或是要離開店面，我都說了聲謝謝，不回應就算了頭也不回。\n\n食物是好吃的，但態度令人傻眼。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "男店員很沒有基本禮貌，送上餐點或是要離開店面，我都說了聲謝謝，不回應就算了頭也不回。\n\n食物是好吃的，但態度令人傻眼。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Pang Pang",
+        "uri": "https://www.google.com/maps/contrib/116630752953489277778/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLo6TRrm-UEkvXrg5YTCcGBOXS0dFQBIMuIzgPhnQ27DKmvO0w=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-06T12:27:27.556505784Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tVMlMwdE1TaTF3TnpaSWNWOURURXN4Wlhkak5IYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tVMlMwdE1TaTF3TnpaSWNWOURURXN4Wlhkak5IYxAB!2m1!1s0x3442af8e13cdff93:0xf297d4bac24de4e5"
+    },
+    {
+      "name": "places/ChIJk__NE46vQjQR5eRNwrrUl_I/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xRlVFcHdjWEJDVTNCSlNESlRORGwzV1dKS1NuYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "醬製烤鮭魚第一名💯🔥請點下去\n平時都吃雞肉 生鮭魚 醬製鮭魚\n今天想說試試醬製烤鮭魚\n想說應該是外面健康餐一整塊鮭魚，但居然是壽司那種炙燒鮭魚！！❤️\n太晚知道，炙燒的香味，中間內層還是有點半生熟軟嫩，好好吃！！👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "醬製烤鮭魚第一名💯🔥請點下去\n平時都吃雞肉 生鮭魚 醬製鮭魚\n今天想說試試醬製烤鮭魚\n想說應該是外面健康餐一整塊鮭魚，但居然是壽司那種炙燒鮭魚！！❤️\n太晚知道，炙燒的香味，中間內層還是有點半生熟軟嫩，好好吃！！👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Carolyn孟臻",
+        "uri": "https://www.google.com/maps/contrib/100429037380652499602/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWGMz3Jo489-irzsd1q3IdZz9ETOIjZ-kHam6BWDL8vo-sblQd1=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-04-29T13:41:38.095333433Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xRlVFcHdjWEJDVTNCSlNESlRORGwzV1dKS1NuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xRlVFcHdjWEJDVTNCSlNESlRORGwzV1dKS1NuYxAB!2m1!1s0x3442af8e13cdff93:0xf297d4bac24de4e5"
+    },
+    {
+      "name": "places/ChIJk__NE46vQjQR5eRNwrrUl_I/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSVlVqVjBNVkpGYTFaeFJrOUZTRnB6VVVKS05XYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "週日晚餐等待時間大約30分鐘，生意非常好，好像會忘記東西，自己要仔細看，不過食物新鮮度跟品質真的一級棒！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "週日晚餐等待時間大約30分鐘，生意非常好，好像會忘記東西，自己要仔細看，不過食物新鮮度跟品質真的一級棒！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Sally Seed",
+        "uri": "https://www.google.com/maps/contrib/115902050489030504570/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWe6gvavJqNZueqEKTnlkx-gsXJYfMQFTDoRI3YwDhu-FsaUYAI=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-28T23:45:39.468117764Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSVlVqVjBNVkpGYTFaeFJrOUZTRnB6VVVKS05XYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSVlVqVjBNVkpGYTFaeFJrOUZTRnB6VVVKS05XYxAB!2m1!1s0x3442af8e13cdff93:0xf297d4bac24de4e5"
+    },
+    {
+      "name": "places/ChIJk__NE46vQjQR5eRNwrrUl_I/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkTVNHVTFTbEJvV1d0UlpHTjZRbEJCVG1oNVExRRAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 3,
+      "text": {
+        "text": "送來發現沒額外加的堅果⋯另外一碗沒有點玉米還放玉米⋯\n份量也不多，價格偏高\n有跟店家反應有退費，誠意有到",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "送來發現沒額外加的堅果⋯另外一碗沒有點玉米還放玉米⋯\n份量也不多，價格偏高\n有跟店家反應有退費，誠意有到",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "許瓈予",
+        "uri": "https://www.google.com/maps/contrib/115502393445738269621/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW-z3RCW13hNixublFKRb1ymwd2IJ3HgfrYdA1fHCW1sDzgSiQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-07-24T04:54:32.437688907Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkTVNHVTFTbEJvV1d0UlpHTjZRbEJCVG1oNVExRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkTVNHVTFTbEJvV1d0UlpHTjZRbEJCVG1oNVExRRAB!2m1!1s0x3442af8e13cdff93:0xf297d4bac24de4e5"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

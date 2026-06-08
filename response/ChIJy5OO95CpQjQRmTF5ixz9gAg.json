@@ -1,0 +1,132 @@
+{
+  "id": "ChIJy5OO95CpQjQRmTF5ixz9gAg",
+  "types": [
+    "brunch_restaurant",
+    "breakfast_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2368 6038",
+  "formattedAddress": "100台灣臺北市中正區頂東里汀州路二段211號",
+  "location": {
+    "latitude": 25.0236187,
+    "longitude": 121.52261060000001
+  },
+  "rating": 4.4,
+  "userRatingCount": 299,
+  "displayName": {
+    "text": "吃吐趣",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJy5OO95CpQjQRmTF5ixz9gAg/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sUmNtWjNjV0Y1ZDFaWVNIbHhTbWMxV0dwcWIyYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "炸豬排🥩整個超過吐司🍞是怎麼回事🤣🤣\n也太好吃了啦！炸豬排多汁🤤\n打拋豬鐵板吐司🍞也很夠味🤤\n打拋豬拿來拌飯應該也很夠味🤤\n為了這個早餐可以專成坐捷運🚇來這裡吃早餐",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "炸豬排🥩整個超過吐司🍞是怎麼回事🤣🤣\n也太好吃了啦！炸豬排多汁🤤\n打拋豬鐵板吐司🍞也很夠味🤤\n打拋豬拿來拌飯應該也很夠味🤤\n為了這個早餐可以專成坐捷運🚇來這裡吃早餐",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "裴與莫",
+        "uri": "https://www.google.com/maps/contrib/110893302382546657897/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKc2LKvsZ4znMoxmRa2ExUcza7wfqgAomfZPWbGvougEihzEA=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-10-11T03:41:03.878590148Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sUmNtWjNjV0Y1ZDFaWVNIbHhTbWMxV0dwcWIyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sUmNtWjNjV0Y1ZDFaWVNIbHhTbWMxV0dwcWIyYxAB!2m1!1s0x3442a990f78e93cb:0x880fd1c8b793199"
+    },
+    {
+      "name": "places/ChIJy5OO95CpQjQRmTF5ixz9gAg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taSVNtUTNiM0ZwWmxsbU1WRTFVRWxhZGxOM00wRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 3,
+      "text": {
+        "text": "早上七點多第一個顧客進去，點了一份吐司加炸雞塊，還有奶茶等了差不多10分鐘有點久。店內有點悶熱空氣不流通所以坐得不舒服。希望老闆以後營業時間會開冷氣或者是開電風扇。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "早上七點多第一個顧客進去，點了一份吐司加炸雞塊，還有奶茶等了差不多10分鐘有點久。店內有點悶熱空氣不流通所以坐得不舒服。希望老闆以後營業時間會開冷氣或者是開電風扇。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Wayne Tam",
+        "uri": "https://www.google.com/maps/contrib/102200302506966149231/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIQiDNUI5L387fMMp5qd10Q7zJPvx8vmmhD7PkkwJ5qUXqSSKcc=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-10-06T23:59:46.363784805Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taSVNtUTNiM0ZwWmxsbU1WRTFVRWxhZGxOM00wRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taSVNtUTNiM0ZwWmxsbU1WRTFVRWxhZGxOM00wRRAB!2m1!1s0x3442a990f78e93cb:0x880fd1c8b793199"
+    },
+    {
+      "name": "places/ChIJy5OO95CpQjQRmTF5ixz9gAg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSMFQwTndOSFZDY1UxQmFUTjJSRjlxVTJkVFNHYxAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 4,
+      "text": {
+        "text": "鐵板吐司內的醬汁感受到老闆的用心\n\n紅茶好喝 甜度大概是外面的三分\n\n老闆感覺是一家人 濃濃的親情人情味\n\n店內有許多插座的位子",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "鐵板吐司內的醬汁感受到老闆的用心\n\n紅茶好喝 甜度大概是外面的三分\n\n老闆感覺是一家人 濃濃的親情人情味\n\n店內有許多插座的位子",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "WU MIA",
+        "uri": "https://www.google.com/maps/contrib/108526612484313506406/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX5IOuqk6nRlWDYry2RYXNFT03sydjTTei9mTnAO4tSfBuh_lzX=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-07-14T01:11:24.081307358Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSMFQwTndOSFZDY1UxQmFUTjJSRjlxVTJkVFNHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSMFQwTndOSFZDY1UxQmFUTjJSRjlxVTJkVFNHYxAB!2m1!1s0x3442a990f78e93cb:0x880fd1c8b793199"
+    },
+    {
+      "name": "places/ChIJy5OO95CpQjQRmTF5ixz9gAg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1S09FY3lVamgyWjNCd2FVZFVabEJQY2todWNtYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "吃了很多年了\n搬離古亭還是繼續來吃\n圖為辣雞腿排吐司\n內餡非常好吃\n可以感覺到對細節的堅持",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "吃了很多年了\n搬離古亭還是繼續來吃\n圖為辣雞腿排吐司\n內餡非常好吃\n可以感覺到對細節的堅持",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "繪本備忘錄",
+        "uri": "https://www.google.com/maps/contrib/106338281963857853401/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVQq1cwUHJot9ovDYkXdyF93LIEMAeappCgzJD9jqy4NEKUByM=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-31T04:03:33.610857156Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1S09FY3lVamgyWjNCd2FVZFVabEJQY2todWNtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1S09FY3lVamgyWjNCd2FVZFVabEJQY2todWNtYxAB!2m1!1s0x3442a990f78e93cb:0x880fd1c8b793199"
+    },
+    {
+      "name": "places/ChIJy5OO95CpQjQRmTF5ixz9gAg/reviews/Ci9DQUlRQUNvZENodHljRjlvT21NeWNIVmhkVmc0VTBkdldrcG5YMGQxYmxkRlVHYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 2,
+      "text": {
+        "text": "吃了好幾次 今天早上吃完他們家的青醬雞胸吐司和奶茶後胃非常不舒服 後來變成腸胃炎 雖然可能是偶發事件 不過各位還是斟酌一下吧",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "吃了好幾次 今天早上吃完他們家的青醬雞胸吐司和奶茶後胃非常不舒服 後來變成腸胃炎 雖然可能是偶發事件 不過各位還是斟酌一下吧",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "李冠緯",
+        "uri": "https://www.google.com/maps/contrib/117702980548369187562/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU3O1-UdIXhuAr8DuE2vllXP6n5S5Cc-yViCUpIxeyyJuo6TjQr=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-03-03T13:30:12.273165789Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21NeWNIVmhkVmc0VTBkdldrcG5YMGQxYmxkRlVHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21NeWNIVmhkVmc0VTBkdldrcG5YMGQxYmxkRlVHYxAB!2m1!1s0x3442a990f78e93cb:0x880fd1c8b793199"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

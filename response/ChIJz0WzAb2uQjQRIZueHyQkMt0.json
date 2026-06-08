@@ -1,0 +1,133 @@
+{
+  "id": "ChIJz0WzAb2uQjQRIZueHyQkMt0",
+  "types": [
+    "breakfast_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2832 5310",
+  "formattedAddress": "111台灣臺北市士林區福佳里美崙街32號",
+  "location": {
+    "latitude": 25.0972355,
+    "longitude": 121.52290839999999
+  },
+  "rating": 4.5,
+  "websiteUri": "https://www.facebook.com/%E6%97%A9%E5%90%A7-Morning-Bar-144704302539479/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 2971,
+  "displayName": {
+    "text": "早吧 Morning Bar",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJz0WzAb2uQjQRIZueHyQkMt0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xJM2NsTkhaRjk0ZGpkaVNYVlZRVkkxVURGemIyYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "朝聖店，4.5分🌸\n✅蛋餅：外皮煎酥不油、內餡多，走清爽型路線，小小可惜是吃到最後有點乾。\n✅大版燒羅蔔糕：創意神級品，層次豐富外，起士融合也超加分，太好吃辣。\n✅薯餅：無特別處，可以不用點。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "朝聖店，4.5分🌸\n✅蛋餅：外皮煎酥不油、內餡多，走清爽型路線，小小可惜是吃到最後有點乾。\n✅大版燒羅蔔糕：創意神級品，層次豐富外，起士融合也超加分，太好吃辣。\n✅薯餅：無特別處，可以不用點。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "鄭阿嵐",
+        "uri": "https://www.google.com/maps/contrib/108678988947602277562/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUEZlEVMJWfPMolF244ze15otV_9Y3MQnDkLbb7k6o2-zgpyyZx=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-21T07:57:35.898637484Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xJM2NsTkhaRjk0ZGpkaVNYVlZRVkkxVURGemIyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xJM2NsTkhaRjk0ZGpkaVNYVlZRVkkxVURGemIyYxAB!2m1!1s0x3442aebd01b345cf:0xdd3224241f9e9b21"
+    },
+    {
+      "name": "places/ChIJz0WzAb2uQjQRIZueHyQkMt0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Oa2VFMWxUVVJGT1hsTmRYaElTa1JwZGxKeFNXYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "豚豬乳酪蛋餅還不錯 皮酥但吃多會膩\n\n古早味蔬菜蛋餅 裡面加高麗菜絲跟蜂蜜芥末醬 一開始還可以 吃到後來覺得皮很乾\n\n服務人員在整理座位的時候很用心 會撿地板的垃圾\n\n洗手間蠻乾淨 但好像沒看到洗手台？",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "豚豬乳酪蛋餅還不錯 皮酥但吃多會膩\n\n古早味蔬菜蛋餅 裡面加高麗菜絲跟蜂蜜芥末醬 一開始還可以 吃到後來覺得皮很乾\n\n服務人員在整理座位的時候很用心 會撿地板的垃圾\n\n洗手間蠻乾淨 但好像沒看到洗手台？",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Inès WU",
+        "uri": "https://www.google.com/maps/contrib/112965085511413413340/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWvutdGj795MC2YUjdwnU-Ar1bg0aTHmyD8LNx5XAB7PeM9Qgdc=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-04T06:41:40.558544893Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Oa2VFMWxUVVJGT1hsTmRYaElTa1JwZGxKeFNXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Oa2VFMWxUVVJGT1hsTmRYaElTa1JwZGxKeFNXYxAB!2m1!1s0x3442aebd01b345cf:0xdd3224241f9e9b21"
+    },
+    {
+      "name": "places/ChIJz0WzAb2uQjQRIZueHyQkMt0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aYVptTlJaR3QzUWxoVGVtTjJWV3d6UzNZNFMzYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "蛋餅酥而不油，鮪魚蛋餅還有玉米蔬菜，很清爽，薯餅乳酪超搭好好吃，藍莓乳酪厚片走柔軟路線，醬給很多，豆漿紅茶好喝！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "蛋餅酥而不油，鮪魚蛋餅還有玉米蔬菜，很清爽，薯餅乳酪超搭好好吃，藍莓乳酪厚片走柔軟路線，醬給很多，豆漿紅茶好喝！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Willis 雲",
+        "uri": "https://www.google.com/maps/contrib/101106597981206531679/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZ-x5LO32iEEQdo2K294JFckuXAAzW1nXakbM1xiMRlHi5Vbgi=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-14T04:38:23.854540648Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aYVptTlJaR3QzUWxoVGVtTjJWV3d6UzNZNFMzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aYVptTlJaR3QzUWxoVGVtTjJWV3d6UzNZNFMzYxAB!2m1!1s0x3442aebd01b345cf:0xdd3224241f9e9b21"
+    },
+    {
+      "name": "places/ChIJz0WzAb2uQjQRIZueHyQkMt0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kT01XZFNNVUZRWWxsblZVSTFVek5RTW5CTldIYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "鮪魚蛋餅外層酥脆，內層鮪魚沙拉鬆軟營養可口，一口咬下的口感很特別。\n醬汁豬肉堡除了鮮嫩的豬肉，還搭配多量的生菜，清爽不油膩。雙醬雞塊：一次可沾到蜂蜜芥末醬和蕃茄醬，蠻不錯的。鮮奶茶和拿鐵咖啡平價好喝。值得再來！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "鮪魚蛋餅外層酥脆，內層鮪魚沙拉鬆軟營養可口，一口咬下的口感很特別。\n醬汁豬肉堡除了鮮嫩的豬肉，還搭配多量的生菜，清爽不油膩。雙醬雞塊：一次可沾到蜂蜜芥末醬和蕃茄醬，蠻不錯的。鮮奶茶和拿鐵咖啡平價好喝。值得再來！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Allie",
+        "uri": "https://www.google.com/maps/contrib/110919244227180615953/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLf0fjj7D6A-iXPltZemIJGLm_HSPZ_81H3GjCgX37_hiIjn38n=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-04T04:58:46.678017676Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kT01XZFNNVUZRWWxsblZVSTFVek5RTW5CTldIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kT01XZFNNVUZRWWxsblZVSTFVek5RTW5CTldIYxAB!2m1!1s0x3442aebd01b345cf:0xdd3224241f9e9b21"
+    },
+    {
+      "name": "places/ChIJz0WzAb2uQjQRIZueHyQkMt0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tJdFRVcE1TSGRMVVZFNFNGVXdhUzAyU1hSSFUxRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "雖然要等一下\n不趕時間倒是還好\n點了千層鮪魚蛋餅，詢問過有調過美乃滋，如果會介意者不要選喔，滋味很不錯！外皮煎的很乾不油膩～～\n可惜自己內用無法點很多樣式來品嚐\n願意回訪",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "雖然要等一下\n不趕時間倒是還好\n點了千層鮪魚蛋餅，詢問過有調過美乃滋，如果會介意者不要選喔，滋味很不錯！外皮煎的很乾不油膩～～\n可惜自己內用無法點很多樣式來品嚐\n願意回訪",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張摩根",
+        "uri": "https://www.google.com/maps/contrib/108068392957456708889/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV4B31pfNX9tqdAri4E5GKuVkOaeDfpcSzo2ru8NGTuujPE69K-PA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-24T04:53:37.184765158Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tJdFRVcE1TSGRMVVZFNFNGVXdhUzAyU1hSSFUxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tJdFRVcE1TSGRMVVZFNFNGVXdhUzAyU1hSSFUxRRAB!2m1!1s0x3442aebd01b345cf:0xdd3224241f9e9b21"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

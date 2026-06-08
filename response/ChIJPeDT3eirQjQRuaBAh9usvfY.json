@@ -1,0 +1,133 @@
+{
+  "id": "ChIJPeDT3eirQjQRuaBAh9usvfY",
+  "types": [
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2718 4469",
+  "formattedAddress": "105台灣台北市松山區中华里敦化北路165巷9號1樓",
+  "location": {
+    "latitude": 25.0548637,
+    "longitude": 121.5505647
+  },
+  "rating": 4.3,
+  "websiteUri": "https://inline.app/booking/-NxuTOP0taCoQTNLDSOB:inline-live-3/-NxuTOcBfhTil0vSRGef",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1696,
+  "displayName": {
+    "text": "花娘小館（創始店）",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJPeDT3eirQjQRuaBAh9usvfY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5Q1NHbzJWRWQ1UzJ4dGNsUnplRUk1WlhWRVUxRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第一次到花娘小館用餐，整體印象不錯，蛋酥白菜口味很特別，好吃。\n價位合理，菜量還行，服務不錯，基本而言是會讓我想要再二訪，吃吃看不同菜色的餐廳。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次到花娘小館用餐，整體印象不錯，蛋酥白菜口味很特別，好吃。\n價位合理，菜量還行，服務不錯，基本而言是會讓我想要再二訪，吃吃看不同菜色的餐廳。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "樂在生活",
+        "uri": "https://www.google.com/maps/contrib/105140424068419441983/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLXJppcG4ElSxzrTKnyYdSxSmD0mGtwB9lRqjiNJEzlVvreSBQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-03-10T02:55:25.542928048Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5Q1NHbzJWRWQ1UzJ4dGNsUnplRUk1WlhWRVUxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5Q1NHbzJWRWQ1UzJ4dGNsUnplRUk1WlhWRVUxRRAB!2m1!1s0x3442abe8ddd3e03d:0xf6bdacdb8740a0b9"
+    },
+    {
+      "name": "places/ChIJPeDT3eirQjQRuaBAh9usvfY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GeFNuUnBSbUpHTTNrelVXNXlSekZtZEdoUFMxRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點東西都超好吃的，尤其是老皮嫩肉超必點，而且價格很親民，真的是CP值極高的餐廳，然後居然對寵物超友善，還特別煮了一份肉提供給我朋友的狗狗，超級貼心的，店家的服務好的沒話說，今天來這邊跟朋友慶生很值得，下次要再來。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點東西都超好吃的，尤其是老皮嫩肉超必點，而且價格很親民，真的是CP值極高的餐廳，然後居然對寵物超友善，還特別煮了一份肉提供給我朋友的狗狗，超級貼心的，店家的服務好的沒話說，今天來這邊跟朋友慶生很值得，下次要再來。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "鍾芊勻",
+        "uri": "https://www.google.com/maps/contrib/110351644469599463233/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKoTqZsi_1Yv3BzhXqwQmTOTJ5N_opzJmEK8hnjQp7wDbuHqw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-03-07T15:23:33.921325042Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GeFNuUnBSbUpHTTNrelVXNXlSekZtZEdoUFMxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GeFNuUnBSbUpHTTNrelVXNXlSekZtZEdoUFMxRRAB!2m1!1s0x3442abe8ddd3e03d:0xf6bdacdb8740a0b9"
+    },
+    {
+      "name": "places/ChIJPeDT3eirQjQRuaBAh9usvfY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WRmFEaE9WbTk2UzBWWlV6ZFlMWEJOTFRacVpsRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "17:30就滿座，不知台北是不是錯覺總覺得比南京店美味對一些，服務的溫度也多一些，雖然座位比較窄一點，但好吃就值得！\n\n👍水煮牛肉：牛肉很嫩！辣度尚可，不會很油，推薦！\n\n👍老皮嫩肉：總覺得豆腐正中間有點冷冷的，味道不錯，老皮很到位！\n\n👍蒼蠅頭：大概是我吃過前三名的蒼蠅頭，超下飯！\n\n👍乾扁四季豆：中規中矩。\n\n👍宮保雞丁：跟其他餐廳的味道不太一樣，雞肉很嫩，蠻特別的。\n\n👍乾燒鹹黃蝦：好吃！整隻蝦吃！鹹蛋黃恰到好處又對味！\n\n👍煉乳銀絲捲：上菜太快有點冷掉，但依舊很好吃！建議店家下次晚點上，他是甜點捏！\n\n🍲淮山雞鍋：個人覺得普普通通，雞肉嫩好吃，湯也好喝，不過特色稍顯不足，但還是很推薦！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "17:30就滿座，不知台北是不是錯覺總覺得比南京店美味對一些，服務的溫度也多一些，雖然座位比較窄一點，但好吃就值得！\n\n👍水煮牛肉：牛肉很嫩！辣度尚可，不會很油，推薦！\n\n👍老皮嫩肉：總覺得豆腐正中間有點冷冷的，味道不錯，老皮很到位！\n\n👍蒼蠅頭：大概是我吃過前三名的蒼蠅頭，超下飯！\n\n👍乾扁四季豆：中規中矩。\n\n👍宮保雞丁：跟其他餐廳的味道不太一樣，雞肉很嫩，蠻特別的。\n\n👍乾燒鹹黃蝦：好吃！整隻蝦吃！鹹蛋黃恰到好處又對味！\n\n👍煉乳銀絲捲：上菜太快有點冷掉，但依舊很好吃！建議店家下次晚點上，他是甜點捏！\n\n🍲淮山雞鍋：個人覺得普普通通，雞肉嫩好吃，湯也好喝，不過特色稍顯不足，但還是很推薦！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lala",
+        "uri": "https://www.google.com/maps/contrib/114734612168166273449/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVlPsTTjXvy9VGHDn7MDPJkPRa1wNAtFMoz39BwI5Y5HaqCQmTdRA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-12-02T13:39:52.769152483Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WRmFEaE9WbTk2UzBWWlV6ZFlMWEJOTFRacVpsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WRmFEaE9WbTk2UzBWWlV6ZFlMWEJOTFRacVpsRRAB!2m1!1s0x3442abe8ddd3e03d:0xf6bdacdb8740a0b9"
+    },
+    {
+      "name": "places/ChIJPeDT3eirQjQRuaBAh9usvfY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tNdFdWOUtVRWxxUjBWVWRrcG9SMFZNUkZsYVdHYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "如果你是老饕，肯定對「黃仁勳美食地圖」的餐廳充滿很多好奇心。這一次可以先收起味蕾的好奇心，因為這裡真的就是一家很普通的川菜餐館。\n\n或許對【花娘小館】期待很高，老饕一口氣點了快 20 道料理，尤其店家推薦的幾乎都點完一輪。說真的，所有餐點的記憶點真的不高，沒有難吃，就 ... 很一般的家常小館，感覺有點炒過頭。\n推薦必點：麻辣臭豆腐、花娘燒排、螺絲卷、椒麻雞、豆乾肉絲、蛋蘇白菜，以上幾道的風味較特別、也是白飯殺手，吃起來相對過癮許多，其他道料理 ... 稍微平常了些！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "如果你是老饕，肯定對「黃仁勳美食地圖」的餐廳充滿很多好奇心。這一次可以先收起味蕾的好奇心，因為這裡真的就是一家很普通的川菜餐館。\n\n或許對【花娘小館】期待很高，老饕一口氣點了快 20 道料理，尤其店家推薦的幾乎都點完一輪。說真的，所有餐點的記憶點真的不高，沒有難吃，就 ... 很一般的家常小館，感覺有點炒過頭。\n推薦必點：麻辣臭豆腐、花娘燒排、螺絲卷、椒麻雞、豆乾肉絲、蛋蘇白菜，以上幾道的風味較特別、也是白飯殺手，吃起來相對過癮許多，其他道料理 ... 稍微平常了些！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Kingbaby Chou",
+        "uri": "https://www.google.com/maps/contrib/100602741421065492727/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYF8QsXJN16_KCnu63DbZ110RKhImHHpKDA9VgbJ5iicHF-SEkIQ=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-01-21T12:16:00.199766710Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tNdFdWOUtVRWxxUjBWVWRrcG9SMFZNUkZsYVdHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tNdFdWOUtVRWxxUjBWVWRrcG9SMFZNUkZsYVdHYxAB!2m1!1s0x3442abe8ddd3e03d:0xf6bdacdb8740a0b9"
+    },
+    {
+      "name": "places/ChIJPeDT3eirQjQRuaBAh9usvfY/reviews/Ci9DQUlRQUNvZENodHljRjlvT20wMk1XWjJkRkkwV2twR1JtNHlNVFY0VFd4RU1XYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "CP值超級高，狂點15道菜無雷都好吃\n所以就不列品名請勇敢點菜\n很少有讓全桌人都這麼滿意的餐廳\n減肥的不要來～\n會破功\n\n要趕緊安排二刷",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "CP值超級高，狂點15道菜無雷都好吃\n所以就不列品名請勇敢點菜\n很少有讓全桌人都這麼滿意的餐廳\n減肥的不要來～\n會破功\n\n要趕緊安排二刷",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "官",
+        "uri": "https://www.google.com/maps/contrib/117618238614006084197/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWHGhm9MnDc0wPbuElZ6UvLUnSOxKKQfjbCZxx3DgWzuxhvE5w=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-13T03:58:26.337445426Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20wMk1XWjJkRkkwV2twR1JtNHlNVFY0VFd4RU1XYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20wMk1XWjJkRkkwV2twR1JtNHlNVFY0VFd4RU1XYxAB!2m1!1s0x3442abe8ddd3e03d:0xf6bdacdb8740a0b9"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

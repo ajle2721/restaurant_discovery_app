@@ -1,0 +1,131 @@
+{
+  "id": "ChIJl2NC-COpQjQRdZmgrZeaUrc",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2555 9908",
+  "formattedAddress": "103台灣臺北市大同區永樂里南京西路279號",
+  "location": {
+    "latitude": 25.053465799999998,
+    "longitude": 121.5093488
+  },
+  "rating": 4.5,
+  "websiteUri": "http://www.designandlife.com/",
+  "userRatingCount": 379,
+  "displayName": {
+    "text": "TWATUTIA Coffee & Co.",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJl2NC-COpQjQRdZmgrZeaUrc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xweFdYSmFhMGhQVnpWSFlpMWtOalJNT0hKblQwRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "TWATUTIA Coffee & Co. 是大稻埕很有代表性的「選物店＋咖啡」複合空間，原本就是 A Design&Life Project（D&L）的生活選物據點，後來把一樓整理成咖啡品牌，讓逛迪化街不只是買乾貨、補年貨，還多了一個能坐下來喘口氣的好理由。很多人行程都是：迪化街補貨 → 右轉南京西路走兩分鐘 → 進來補咖啡因，動線超順。\n\n空間氣質很有記憶點：老屋底子加上工業感與復古器物混搭，高挑空間、做舊牆面、骨董小物和選品陳列交錯，整體更像「設計展場裡順便賣咖啡」，不是那種單純來喝一杯就走的咖啡店。你會不自覺慢下來，邊看選物邊想多坐一會。\n\n飲品部分咖啡有義式、手沖等選項，也主打自家配方豆（像「Six Flags」這類概念豆），風格不會太浮誇但很耐喝。除了咖啡，也有茶飲與台式小點的搭配路線，適合想「慢慢喝、慢慢逛」的人。逛大稻埕逛到腿酸、或想找個質感空間整理戰利品，TWATUTIA 很值得排進行程。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "TWATUTIA Coffee & Co. 是大稻埕很有代表性的「選物店＋咖啡」複合空間，原本就是 A Design&Life Project（D&L）的生活選物據點，後來把一樓整理成咖啡品牌，讓逛迪化街不只是買乾貨、補年貨，還多了一個能坐下來喘口氣的好理由。很多人行程都是：迪化街補貨 → 右轉南京西路走兩分鐘 → 進來補咖啡因，動線超順。\n\n空間氣質很有記憶點：老屋底子加上工業感與復古器物混搭，高挑空間、做舊牆面、骨董小物和選品陳列交錯，整體更像「設計展場裡順便賣咖啡」，不是那種單純來喝一杯就走的咖啡店。你會不自覺慢下來，邊看選物邊想多坐一會。\n\n飲品部分咖啡有義式、手沖等選項，也主打自家配方豆（像「Six Flags」這類概念豆），風格不會太浮誇但很耐喝。除了咖啡，也有茶飲與台式小點的搭配路線，適合想「慢慢喝、慢慢逛」的人。逛大稻埕逛到腿酸、或想找個質感空間整理戰利品，TWATUTIA 很值得排進行程。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張遇",
+        "uri": "https://www.google.com/maps/contrib/105033231301509011336/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW4eaNnYss1d7Nf6RzBqpmMO-zWCg-dwnk6fD4A5UmqCZSm-PUQ8A=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-12T17:32:39.605511713Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xweFdYSmFhMGhQVnpWSFlpMWtOalJNT0hKblQwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xweFdYSmFhMGhQVnpWSFlpMWtOalJNT0hKblQwRRAB!2m1!1s0x3442a923f8426397:0xb7529a97ada09975"
+    },
+    {
+      "name": "places/ChIJl2NC-COpQjQRdZmgrZeaUrc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twMFRqSlRTRlp5UVROVlkwNWZVa054YkZsNlMxRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "充滿日式五金雜貨風的品味咖啡館， 1樓是飄高的老宅，有舊房子斑駁的歲月痕跡，穿插咖啡品牌的創意設計。2樓有豐富的五金雜貨，都是平常不常看到的設計與款式。很舒服自在的咖啡。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "充滿日式五金雜貨風的品味咖啡館， 1樓是飄高的老宅，有舊房子斑駁的歲月痕跡，穿插咖啡品牌的創意設計。2樓有豐富的五金雜貨，都是平常不常看到的設計與款式。很舒服自在的咖啡。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Justin Chen",
+        "uri": "https://www.google.com/maps/contrib/108486742939043387299/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW_uYf6ByVfPDH1F7YSjOFk_LpyNFJWER0Hywh-zuOhMDOD2RdJ6w=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-03T02:01:16.786210716Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twMFRqSlRTRlp5UVROVlkwNWZVa054YkZsNlMxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twMFRqSlRTRlp5UVROVlkwNWZVa054YkZsNlMxRRAB!2m1!1s0x3442a923f8426397:0xb7529a97ada09975"
+    },
+    {
+      "name": "places/ChIJl2NC-COpQjQRdZmgrZeaUrc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOZmRXZEtNMWhMVVZZelN6bHFWbE5hYzB0VlFtYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "時空交錯咖啡廳，氛圍空間會讓人難以忘懷！\n點了手沖，口感絕佳，層次豐富，沒有吃到肉桂卷，完售！下次要早一點來享用，1，2F氣氛截然不同，這次坐在2F窗邊，看著大稻程的繁華與寧靜，別有風味！\n店內販售小文具和工藝品也具有台灣的特色，值得細細品味．．．！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "時空交錯咖啡廳，氛圍空間會讓人難以忘懷！\n點了手沖，口感絕佳，層次豐富，沒有吃到肉桂卷，完售！下次要早一點來享用，1，2F氣氛截然不同，這次坐在2F窗邊，看著大稻程的繁華與寧靜，別有風味！\n店內販售小文具和工藝品也具有台灣的特色，值得細細品味．．．！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "水水",
+        "uri": "https://www.google.com/maps/contrib/100338572678216552813/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBVdPqiyUzYpOxfiV1aGJiQgUnvEpXYYtiAXQC9651jXLP0wY=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-14T10:08:40.753084515Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOZmRXZEtNMWhMVVZZelN6bHFWbE5hYzB0VlFtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOZmRXZEtNMWhMVVZZelN6bHFWbE5hYzB0VlFtYxAB!2m1!1s0x3442a923f8426397:0xb7529a97ada09975"
+    },
+    {
+      "name": "places/ChIJl2NC-COpQjQRdZmgrZeaUrc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkUGJDMWpURGc0Y0RsZk5WSk5NM1pwTjFkR1ozYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "二樓有賣雜貨，很好逛！我們一點到的時候，一樓差不多滿座，就被安排到樓上，樓上座位不多，有些雜貨很好逛，因為是平日去的，好像沒有時間限制😊",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "二樓有賣雜貨，很好逛！我們一點到的時候，一樓差不多滿座，就被安排到樓上，樓上座位不多，有些雜貨很好逛，因為是平日去的，好像沒有時間限制😊",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Sherry Hsu",
+        "uri": "https://www.google.com/maps/contrib/114119162922073069375/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXU-jRrbiJmLwbIdiPcJ9bzhaefrqkZcNIvKl8sndGRJOfiBFsdbg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-12T03:02:05.582816514Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkUGJDMWpURGc0Y0RsZk5WSk5NM1pwTjFkR1ozYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkUGJDMWpURGc0Y0RsZk5WSk5NM1pwTjFkR1ozYxAB!2m1!1s0x3442a923f8426397:0xb7529a97ada09975"
+    },
+    {
+      "name": "places/ChIJl2NC-COpQjQRdZmgrZeaUrc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGRFdubFRZbVJYTmtsS1NITlFiazlqU2xRMmEwRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "大稻埕周邊復古懷舊文青咖啡館，老宅改造，有斑駁牆面和磨石地板的工業風裝潢，1樓咖啡館為主，2樓文青小物為主，經過詢問服務人員和從門口的招牌知道，之前兩層樓都是A Design&Life Project文青商店，後來才改成Twatutia複合式文青咖啡館，除了有好喝的咖啡跟甜點之外，還有諸多文青商品供挑選❤️\n一個人來，點了熱美式跟檸檬磅蛋糕，沒有勇氣點台式糕點配咖啡😅\n\n✨要特別介紹二樓面窗的位置，造訪當天剛好陽光從外面灑進來，和1樓斑駁頹廢的感覺截然不同，加上文創商品選物區（文具、飾品、餐具和服裝散布四周），窗外又有大稻埕街景可以欣賞，這個窗邊座位值得點杯咖啡加甜點，待一個下午💙💙💙\n\n#大同區美食\n#不限時\n#販售自家烘焙咖啡豆\n#營業時間\n週一到週五上午九點半到下午五點半\n週六日上午十點半到下午六點半",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "大稻埕周邊復古懷舊文青咖啡館，老宅改造，有斑駁牆面和磨石地板的工業風裝潢，1樓咖啡館為主，2樓文青小物為主，經過詢問服務人員和從門口的招牌知道，之前兩層樓都是A Design&Life Project文青商店，後來才改成Twatutia複合式文青咖啡館，除了有好喝的咖啡跟甜點之外，還有諸多文青商品供挑選❤️\n一個人來，點了熱美式跟檸檬磅蛋糕，沒有勇氣點台式糕點配咖啡😅\n\n✨要特別介紹二樓面窗的位置，造訪當天剛好陽光從外面灑進來，和1樓斑駁頹廢的感覺截然不同，加上文創商品選物區（文具、飾品、餐具和服裝散布四周），窗外又有大稻埕街景可以欣賞，這個窗邊座位值得點杯咖啡加甜點，待一個下午💙💙💙\n\n#大同區美食\n#不限時\n#販售自家烘焙咖啡豆\n#營業時間\n週一到週五上午九點半到下午五點半\n週六日上午十點半到下午六點半",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "jerry wei",
+        "uri": "https://www.google.com/maps/contrib/115354129188177027749/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVjUgy68QApAwfQlnQqj3zmMrfDMjpmSvOfz08knVa5goQbzDnn=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-11-14T15:03:53.189340277Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGRFdubFRZbVJYTmtsS1NITlFiazlqU2xRMmEwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGRFdubFRZbVJYTmtsS1NITlFiazlqU2xRMmEwRRAB!2m1!1s0x3442a923f8426397:0xb7529a97ada09975"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

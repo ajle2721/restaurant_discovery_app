@@ -1,0 +1,136 @@
+{
+  "id": "ChIJ-YXcumGpQjQR8N25y9YO6cw",
+  "types": [
+    "restaurant",
+    "western_restaurant",
+    "coffee_shop",
+    "cafe",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2506 0308",
+  "formattedAddress": "104台灣臺北市中山區朱園里伊通街45號",
+  "location": {
+    "latitude": 25.0510946,
+    "longitude": 121.53488220000001
+  },
+  "rating": 4.2,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 589,
+  "displayName": {
+    "text": "萊茵堡西餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ-YXcumGpQjQR8N25y9YO6cw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wMWJqVm5SakZLYlZCZlNscEhReTExVDNaemJsRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "這家算是老派的西餐廳，中午的商業簡餐口味上還是不錯，份量與價位上應該是算中規中矩。如果想找一間吃飯想要可以安靜對談可以坐久一些有咖啡可以喝的店還是行的",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這家算是老派的西餐廳，中午的商業簡餐口味上還是不錯，份量與價位上應該是算中規中矩。如果想找一間吃飯想要可以安靜對談可以坐久一些有咖啡可以喝的店還是行的",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Spree Chen",
+        "uri": "https://www.google.com/maps/contrib/111854780229465299922/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIfdP06TbkhvwuunrSMmzHHKj7ZBK2oPHqst3vTJ0GYvJdd8g=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-26T07:03:56.211442915Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wMWJqVm5SakZLYlZCZlNscEhReTExVDNaemJsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wMWJqVm5SakZLYlZCZlNscEhReTExVDNaemJsRRAB!2m1!1s0x3442a961badc85f9:0xcce90ed6cbb9ddf0"
+    },
+    {
+      "name": "places/ChIJ-YXcumGpQjQR8N25y9YO6cw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xjNVNtcERNRUZDV1VKNFJuQlBiREEwTWt4emIxRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "調味偏淡，我第一次遇到玉米濃湯需要我自己加鹽巴調味，也很意外主餐附的炒飯只有一球冰淇淋勺的大小，而不是放一堆滿滿的炒飯，用澱粉塞滿我的肚子，我吃的黑森林蛋糕也是減糖的版本，環境雖有點吵但可以交談，是個適合減重人士跟朋友聚餐聊天的地點",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "調味偏淡，我第一次遇到玉米濃湯需要我自己加鹽巴調味，也很意外主餐附的炒飯只有一球冰淇淋勺的大小，而不是放一堆滿滿的炒飯，用澱粉塞滿我的肚子，我吃的黑森林蛋糕也是減糖的版本，環境雖有點吵但可以交談，是個適合減重人士跟朋友聚餐聊天的地點",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Karries Hsiao",
+        "uri": "https://www.google.com/maps/contrib/105593907186252472416/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVV1rv2TXLK-RkTqbve5R5cTYHqOwDN0vwPYL709DtN1Vjwms-e=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-26T15:09:28.781807263Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xjNVNtcERNRUZDV1VKNFJuQlBiREEwTWt4emIxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xjNVNtcERNRUZDV1VKNFJuQlBiREEwTWt4emIxRRAB!2m1!1s0x3442a961badc85f9:0xcce90ed6cbb9ddf0"
+    },
+    {
+      "name": "places/ChIJ-YXcumGpQjQR8N25y9YO6cw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsQmVHdDNTMjFNUjFsMlRGbHBlbmsyWjNreFZsRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "食物少的可憐，無法果腹，飯如冰淇淋一球，鮭魚只能說歸與薄片，早知道點雞腿，至少雞腿不會縮水，除非殘障雞或是減肥雞，我想，來這裡用餐的目的，應該是用場地，客人幫忙店家繳房租，吃飯嘛！應該不是重點了！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "食物少的可憐，無法果腹，飯如冰淇淋一球，鮭魚只能說歸與薄片，早知道點雞腿，至少雞腿不會縮水，除非殘障雞或是減肥雞，我想，來這裡用餐的目的，應該是用場地，客人幫忙店家繳房租，吃飯嘛！應該不是重點了！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Enfeng Wu",
+        "uri": "https://www.google.com/maps/contrib/110501332379544088776/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKzvohdszOH0HSaxItOgqydEZ3yhDZoEAIZmyGeEjheqVOfDw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-09-17T16:08:15.065468395Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsQmVHdDNTMjFNUjFsMlRGbHBlbmsyWjNreFZsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsQmVHdDNTMjFNUjFsMlRGbHBlbmsyWjNreFZsRRAB!2m1!1s0x3442a961badc85f9:0xcce90ed6cbb9ddf0"
+    },
+    {
+      "name": "places/ChIJ-YXcumGpQjQR8N25y9YO6cw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsNVUyOVRRMFZVVkRad2RUVnlkM05xWldKWFZsRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "這裡近捷運站，餐點清爽不油膩，非常好吃，而且飯後來杯香醇的咖啡和波士頓蛋糕，簡直絕了！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這裡近捷運站，餐點清爽不油膩，非常好吃，而且飯後來杯香醇的咖啡和波士頓蛋糕，簡直絕了！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Sandy Lin",
+        "uri": "https://www.google.com/maps/contrib/116065373386581287238/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL0h87H8UKSMLIu68NdPw1NNZV5mIDAJadmdyN7e5-e5zxB=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-10-04T06:52:09.658625220Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsNVUyOVRRMFZVVkRad2RUVnlkM05xWldKWFZsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsNVUyOVRRMFZVVkRad2RUVnlkM05xWldKWFZsRRAB!2m1!1s0x3442a961badc85f9:0xcce90ed6cbb9ddf0"
+    },
+    {
+      "name": "places/ChIJ-YXcumGpQjQR8N25y9YO6cw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twTGRtZzBaM2hxZEZWMVdWVldTekF5T0VwUWMwRRAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 5,
+      "text": {
+        "text": "近松江南京捷運站，是間老式的餐廳，餐點應該都是350以上，下午時間只有小點，炒飯不錯，朋友們說牛排也好吃。 蛋糕大多是傳統類型，但是也很好吃。可以電話訂位。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "近松江南京捷運站，是間老式的餐廳，餐點應該都是350以上，下午時間只有小點，炒飯不錯，朋友們說牛排也好吃。 蛋糕大多是傳統類型，但是也很好吃。可以電話訂位。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yvetta CHANG",
+        "uri": "https://www.google.com/maps/contrib/106157903495088936029/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGBTKRLpymVuM5h0A5FRoQQUmIcWUXxbvqnIhIIfTpCv-Po-Sn_w=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-07-11T04:20:28.589753269Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twTGRtZzBaM2hxZEZWMVdWVldTekF5T0VwUWMwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twTGRtZzBaM2hxZEZWMVdWVldTekF5T0VwUWMwRRAB!2m1!1s0x3442a961badc85f9:0xcce90ed6cbb9ddf0"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

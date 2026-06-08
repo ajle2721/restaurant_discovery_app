@@ -1,0 +1,52 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "店內位子大概3組4人桌、4組2人桌！建議可以先訂位，星期天晚上來用餐，開店不到半小時，就差不多滿位了。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "Google Maps Attributes: No menu for children",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "Google Maps Attributes: Good for children",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "店內位子大概3組4人桌、4組2人桌！建議可以先訂位，星期天晚上來用餐，開店不到半小時，就差不多滿位了。",
+        "Google Maps Attributes: Good for children",
+        "Google Maps Attributes: No menu for children"
+    ],
+    "generated_summary": "擺渡冰室被標記為適合兒童，但店內空間較為有限，座位數不多且容易客滿，建議前往前先訂位。此外，店家未提供兒童餐，且目前評論中未提及兒童座椅、餐具或尿布台等設施，建議家長前往前可先向店家確認相關需求。",
+    "card_summary": ""
+}

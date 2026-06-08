@@ -1,0 +1,133 @@
+{
+  "id": "ChIJr_Ztmn2uQjQRvLHz4FTo-_Q",
+  "types": [
+    "taiwanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2871 7766",
+  "formattedAddress": "111台灣臺北市士林區天玉里天玉街38巷9-1號",
+  "location": {
+    "latitude": 25.1204321,
+    "longitude": 121.52910409999998
+  },
+  "rating": 4.6,
+  "websiteUri": "https://www.facebook.com/%E5%A4%A7%E7%82%BA%E5%BB%9A%E5%9D%8A-636545429821565/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 473,
+  "displayName": {
+    "text": "大為廚坊",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJr_Ztmn2uQjQRvLHz4FTo-_Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT21FMk16ZGlTREIxUTJkMmFYcHBlSE5DV25NNVgyYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "位在天母小有名氣的「大為廚坊」\n在內心是台北前幾名的臺菜\n料理乾淨俐落，火候之上味勻豐足\n帶著家人或是來自各地的朋友到訪\n所有人無不對大為廚坊的菜讚譽有加",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "位在天母小有名氣的「大為廚坊」\n在內心是台北前幾名的臺菜\n料理乾淨俐落，火候之上味勻豐足\n帶著家人或是來自各地的朋友到訪\n所有人無不對大為廚坊的菜讚譽有加",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "小Q",
+        "uri": "https://www.google.com/maps/contrib/108301016424285503780/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXJlwKXIUDgeAX61fSq4t2AYQ_PFisMHOHHBHuLYvdggnL7oUek=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-31T13:25:03.756220403Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21FMk16ZGlTREIxUTJkMmFYcHBlSE5DV25NNVgyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21FMk16ZGlTREIxUTJkMmFYcHBlSE5DV25NNVgyYxAB!2m1!1s0x3442ae7d9a6df6af:0xf4fbe854e0f3b1bc"
+    },
+    {
+      "name": "places/ChIJr_Ztmn2uQjQRvLHz4FTo-_Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOUlNsRnZXRk5LYWxodWFtMU5Oek5xYlhWSlVsRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "適合家庭聚餐，訂位後先跟餐廳預約好雞湯和想吃的餐點後，上菜非常順暢。\n雞湯清爽好喝，梅汁排骨和淮山牛腩筋都非常下飯好吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "適合家庭聚餐，訂位後先跟餐廳預約好雞湯和想吃的餐點後，上菜非常順暢。\n雞湯清爽好喝，梅汁排骨和淮山牛腩筋都非常下飯好吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Timi C",
+        "uri": "https://www.google.com/maps/contrib/104578513450139858143/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXTWvRaA3_d6czblxBnAH1JEHZ3K5zlvpJfS7M1f2mIPXtLresL=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-14T06:05:16.947092631Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOUlNsRnZXRk5LYWxodWFtMU5Oek5xYlhWSlVsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOUlNsRnZXRk5LYWxodWFtMU5Oek5xYlhWSlVsRRAB!2m1!1s0x3442ae7d9a6df6af:0xf4fbe854e0f3b1bc"
+    },
+    {
+      "name": "places/ChIJr_Ztmn2uQjQRvLHz4FTo-_Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSWFRuRnFaVTFMVkVGeWFHWkZYMWN4UkU1ZlVYYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "大為廚房｜台北市士林區天玉街38巷9-1號\n\n家庭聚餐或是好友小聚都非常需要大為廚房這樣的館子，那種你知道可以安安穩穩實實在在輕鬆吃頓飯的餐廳，社區形式的存在不會有太多桌數等到天荒地老那樣，除非碰到太吵的鄰桌否則吃飯聊天還是相當合適的，每個社區都應該要有類似的地方才是，週末用餐配上露西的週末再適合不過。\n\n#foodie #foodporn #foodphotography #travel #travelphotography #travelholics #taiwanfood #台灣美食 #foodintaiwan #台北美食 #foodintaipei #taipeifood #相機食先 #美食地圖 #士林區 #士林美食 #天母 #天母美食 #中式料理 #chinesefood #tianmu #在地美食 #大為廚房",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "大為廚房｜台北市士林區天玉街38巷9-1號\n\n家庭聚餐或是好友小聚都非常需要大為廚房這樣的館子，那種你知道可以安安穩穩實實在在輕鬆吃頓飯的餐廳，社區形式的存在不會有太多桌數等到天荒地老那樣，除非碰到太吵的鄰桌否則吃飯聊天還是相當合適的，每個社區都應該要有類似的地方才是，週末用餐配上露西的週末再適合不過。\n\n#foodie #foodporn #foodphotography #travel #travelphotography #travelholics #taiwanfood #台灣美食 #foodintaiwan #台北美食 #foodintaipei #taipeifood #相機食先 #美食地圖 #士林區 #士林美食 #天母 #天母美食 #中式料理 #chinesefood #tianmu #在地美食 #大為廚房",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "sugarcube13",
+        "uri": "https://www.google.com/maps/contrib/100132563465820776654/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWlMp5A_Jbxgrj1BMwpQH24vsl5ttVU17mCMyAOyp4H6VwmfNOa=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-08-16T13:47:48.311704918Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSWFRuRnFaVTFMVkVGeWFHWkZYMWN4UkU1ZlVYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSWFRuRnFaVTFMVkVGeWFHWkZYMWN4UkU1ZlVYYxAB!2m1!1s0x3442ae7d9a6df6af:0xf4fbe854e0f3b1bc"
+    },
+    {
+      "name": "places/ChIJr_Ztmn2uQjQRvLHz4FTo-_Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5VlZWcFdMWGQzZERSM05USmhNakppUkRsblJrRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "雞湯很厲害，喝了好多碗，其他菜色也都不錯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "雞湯很厲害，喝了好多碗，其他菜色也都不錯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "A0631",
+        "uri": "https://www.google.com/maps/contrib/107290695089326699295/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXx2WnXocDXmNFecU9FyFEeDGw9oE_9_x2FMNW8Qk9FsucBZyqwtQ=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-12-29T10:10:29.901509721Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5VlZWcFdMWGQzZERSM05USmhNakppUkRsblJrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5VlZWcFdMWGQzZERSM05USmhNakppUkRsblJrRRAB!2m1!1s0x3442ae7d9a6df6af:0xf4fbe854e0f3b1bc"
+    },
+    {
+      "name": "places/ChIJr_Ztmn2uQjQRvLHz4FTo-_Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tablVqUmFjR1pmZWtRelNGaGtOMEpqVGs4eU0xRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "食材新鮮、料理美味\n老闆廚藝了得\n用餐環境佳",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "食材新鮮、料理美味\n老闆廚藝了得\n用餐環境佳",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Nicole Chao",
+        "uri": "https://www.google.com/maps/contrib/108996668646927788688/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXRUDI0_oF3yF3XLyJKCQtuWue_IBKZCFiKcb7iYinsJnPxfBWc=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-20T12:52:30.219001413Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tablVqUmFjR1pmZWtRelNGaGtOMEpqVGs4eU0xRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tablVqUmFjR1pmZWtRelNGaGtOMEpqVGs4eU0xRRAB!2m1!1s0x3442ae7d9a6df6af:0xf4fbe854e0f3b1bc"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

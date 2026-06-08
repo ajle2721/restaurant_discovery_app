@@ -1,0 +1,131 @@
+{
+  "id": "ChIJnxbWNYypQjQR2K598VfD3D4",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2365 5343",
+  "formattedAddress": "100台灣臺北市中正區文盛里汀州路三段83號",
+  "location": {
+    "latitude": 25.0176423,
+    "longitude": 121.5287888
+  },
+  "rating": 4.1,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 538,
+  "displayName": {
+    "text": "麗江雲南美食小館",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJnxbWNYypQjQR2K598VfD3D4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKeFIzbHJSVlIyYnpSdFZtRktOell0YUhvMVZHYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "這是間老店了，從外觀看起來也看得出年代感與特殊感（如果沒老饕帶，可能不太敢進來），但我覺得值得放膽走進來用餐。\n這次我們點了椒麻雞和其他幾道餐點，我們都覺得很不錯，店裡除了合菜外，也有個人簡餐，我想應該都很美味道地。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這是間老店了，從外觀看起來也看得出年代感與特殊感（如果沒老饕帶，可能不太敢進來），但我覺得值得放膽走進來用餐。\n這次我們點了椒麻雞和其他幾道餐點，我們都覺得很不錯，店裡除了合菜外，也有個人簡餐，我想應該都很美味道地。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Rex Chen",
+        "uri": "https://www.google.com/maps/contrib/104174674407279388310/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU3ZbslXaOCSnCs2qI2iR6hRot29U1TB1_jeZI0OcXG-vDG1XKv=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-07T20:17:01.115358621Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKeFIzbHJSVlIyYnpSdFZtRktOell0YUhvMVZHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKeFIzbHJSVlIyYnpSdFZtRktOell0YUhvMVZHYxAB!2m1!1s0x3442a98c35d6169f:0x3edcc357f17daed8"
+    },
+    {
+      "name": "places/ChIJnxbWNYypQjQR2K598VfD3D4/reviews/Ci9DQUlRQUNvZENodHljRjlvT21vdGQwdE5ZbEJOT1VRNVVHY3pNMGhZVW5KdUxXYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "大口吃肉的好地方，除了水醃菜炒雞肉太酸不合口味，其他都讓親友們滿意讚許，另招待的咖哩茄子和紅豆紫米也不含糊，一樣好吃。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "大口吃肉的好地方，除了水醃菜炒雞肉太酸不合口味，其他都讓親友們滿意讚許，另招待的咖哩茄子和紅豆紫米也不含糊，一樣好吃。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Mimicwpe Stan",
+        "uri": "https://www.google.com/maps/contrib/101455315613049142826/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXLkt7YmnhAZlXUfQEXP4DsNar3wwqmJkmaviLRELU5hcTnCymG=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-22T07:15:35.608369173Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21vdGQwdE5ZbEJOT1VRNVVHY3pNMGhZVW5KdUxXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21vdGQwdE5ZbEJOT1VRNVVHY3pNMGhZVW5KdUxXYxAB!2m1!1s0x3442a98c35d6169f:0x3edcc357f17daed8"
+    },
+    {
+      "name": "places/ChIJnxbWNYypQjQR2K598VfD3D4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taMlUzUm9PRXRtV1ZCd1JIUkNWbTR0UkZCRVpuYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 3,
+      "text": {
+        "text": "這家店吃下來的感覺就是——東南亞菜的混血兒，有些地方有驚喜，有些地方就覺得「嗯…還可以」。\n\n雲醬爆雞肉片\n看到「雲醬」忍不住點，想說到底啥是雲醬？結果吃起來像是豆瓣醬加了點小驚喜，雞肉片還算嫩，但吃完還是不知道「雲醬」是誰。\n\n椒麻雞\n份量蠻夠，雞肉也嫩，可惜沾醬不像泰式的酸辣爽感，比較像椒麻雞去外地留學回來的版本。\n\n打拋豬\n味道還可以，但調味不夠重，少了點該有的勁頭。比較像「打拋豬今天心情不太想拚」。\n\n清炒空心菜 & 蝦醬高麗菜\n這兩道就是安全選項，味道正常發揮，吃起來清爽解膩，算小確幸。\n\n月亮蝦餅\n份量給得很大方，厚度也OK，但調味就一般般。附的酸甜醬甜到懷疑是不是買來配雞塊的😂。\n\n檸檬鱸魚\n這道蠻不錯，魚新鮮，味道也進去，算是全桌比較穩定好吃的一道。\n\n涼拌木瓜絲\n這道就比較可惜，味道普普通通，木瓜絲少了該有的爽脆感，吃起來有點「軟腳」。\n\n椰奶紫米（老闆招待）\n意外的加分項！飯後來碗甜滋滋的椰奶紫米，算是溫柔收尾，心情瞬間好一點。\n\n整體來說不難吃，但也沒有到讓人眼睛一亮。比較適合想吃點東南亞風味、但又不想被辣翻的日子。價格份量OK，調味偏保守一點。加上老闆還貼心招待了椰奶紫米，最後收尾算是有小驚喜。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這家店吃下來的感覺就是——東南亞菜的混血兒，有些地方有驚喜，有些地方就覺得「嗯…還可以」。\n\n雲醬爆雞肉片\n看到「雲醬」忍不住點，想說到底啥是雲醬？結果吃起來像是豆瓣醬加了點小驚喜，雞肉片還算嫩，但吃完還是不知道「雲醬」是誰。\n\n椒麻雞\n份量蠻夠，雞肉也嫩，可惜沾醬不像泰式的酸辣爽感，比較像椒麻雞去外地留學回來的版本。\n\n打拋豬\n味道還可以，但調味不夠重，少了點該有的勁頭。比較像「打拋豬今天心情不太想拚」。\n\n清炒空心菜 & 蝦醬高麗菜\n這兩道就是安全選項，味道正常發揮，吃起來清爽解膩，算小確幸。\n\n月亮蝦餅\n份量給得很大方，厚度也OK，但調味就一般般。附的酸甜醬甜到懷疑是不是買來配雞塊的😂。\n\n檸檬鱸魚\n這道蠻不錯，魚新鮮，味道也進去，算是全桌比較穩定好吃的一道。\n\n涼拌木瓜絲\n這道就比較可惜，味道普普通通，木瓜絲少了該有的爽脆感，吃起來有點「軟腳」。\n\n椰奶紫米（老闆招待）\n意外的加分項！飯後來碗甜滋滋的椰奶紫米，算是溫柔收尾，心情瞬間好一點。\n\n整體來說不難吃，但也沒有到讓人眼睛一亮。比較適合想吃點東南亞風味、但又不想被辣翻的日子。價格份量OK，調味偏保守一點。加上老闆還貼心招待了椰奶紫米，最後收尾算是有小驚喜。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "徐Bella",
+        "uri": "https://www.google.com/maps/contrib/101800882805942384861/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUij8ko1HYKU4ewzv-_yeC63ONmOD09Voc9ABP8THplVB7IXhm7=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-08-17T12:17:43.203426094Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taMlUzUm9PRXRtV1ZCd1JIUkNWbTR0UkZCRVpuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taMlUzUm9PRXRtV1ZCd1JIUkNWbTR0UkZCRVpuYxAB!2m1!1s0x3442a98c35d6169f:0x3edcc357f17daed8"
+    },
+    {
+      "name": "places/ChIJnxbWNYypQjQR2K598VfD3D4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOSFFXOTBiR1pvVG1wQmRqRk5ZbGRQYTNOa05uYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 1,
+      "text": {
+        "text": "這次再訪麗江小館，整體感受和以往相比差距頗大。菜色少了以往的酸度與層次，沒有一道特別出色，讓人覺得可惜。\n\n回鍋肉家常的真的有待加強，曾經造訪過，這回真的感覺不到這家店該有的味道不知道是不是廚師更換了？仔細看完全一樣，這次的體驗或許會成為最後一次來訪，仍希望店家能加油，找回過去的好味道。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這次再訪麗江小館，整體感受和以往相比差距頗大。菜色少了以往的酸度與層次，沒有一道特別出色，讓人覺得可惜。\n\n回鍋肉家常的真的有待加強，曾經造訪過，這回真的感覺不到這家店該有的味道不知道是不是廚師更換了？仔細看完全一樣，這次的體驗或許會成為最後一次來訪，仍希望店家能加油，找回過去的好味道。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Vivian",
+        "uri": "https://www.google.com/maps/contrib/111463712163222771961/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWlsV0fuWD4bqbwfxJ7LNJcOi8l_bA04VkcQtVZH4kZPMY_uPA=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-08-17T14:00:09.879456279Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOSFFXOTBiR1pvVG1wQmRqRk5ZbGRQYTNOa05uYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOSFFXOTBiR1pvVG1wQmRqRk5ZbGRQYTNOa05uYxAB!2m1!1s0x3442a98c35d6169f:0x3edcc357f17daed8"
+    },
+    {
+      "name": "places/ChIJnxbWNYypQjQR2K598VfD3D4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WUmMwMXdWbk5CTnpsWk9VZGhZVTlTY2xCMldFRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "雲南美食\n美斯樂 泰緬道地佳餚\n招待的茄子真好吃\n2個人的大餐 好飽 滿足 地道\n但是椒麻雞腿炸的太老了 唯一的敗筆\n會不會重複炸導致肉質太硬！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "雲南美食\n美斯樂 泰緬道地佳餚\n招待的茄子真好吃\n2個人的大餐 好飽 滿足 地道\n但是椒麻雞腿炸的太老了 唯一的敗筆\n會不會重複炸導致肉質太硬！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "S L",
+        "uri": "https://www.google.com/maps/contrib/101118740537693571218/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUglJm-QFE-bT5XYRF_SHT23mSFcdP_9zHL2r08SSBk6TDGtcbApg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-19T14:18:47.625346973Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WUmMwMXdWbk5CTnpsWk9VZGhZVTlTY2xCMldFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WUmMwMXdWbk5CTnpsWk9VZGhZVTlTY2xCMldFRRAB!2m1!1s0x3442a98c35d6169f:0x3edcc357f17daed8"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

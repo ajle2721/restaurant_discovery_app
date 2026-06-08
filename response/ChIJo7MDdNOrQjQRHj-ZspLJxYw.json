@@ -1,0 +1,132 @@
+{
+  "id": "ChIJo7MDdNOrQjQRHj-ZspLJxYw",
+  "types": [
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2723 0979",
+  "formattedAddress": "110台灣臺北市信義區西村里松智路17號3樓",
+  "location": {
+    "latitude": 25.0342551,
+    "longitude": 121.5659837
+  },
+  "rating": 4.4,
+  "websiteUri": "https://thexiaoqi.com/",
+  "userRatingCount": 1450,
+  "displayName": {
+    "text": "小器食堂微風南山店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJo7MDdNOrQjQRHj-ZspLJxYw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OV1NGUlVkVmRDVkd4VGFDMVhVRXhoZEcxcE5GRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 1,
+      "text": {
+        "text": "完全不能理解評分為何4.4蠻高的一間店…\n食物很普通，可能甚至沒有及格，炸雞蠻硬的，鮭魚也沒有很嫩，配菜也都超普通，然後湯好鹹，價格卻要340和370加一成！\n剛好來看蘇打綠的限定活動順便來吃，如果專程來真的會生氣😤CP值超級低！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "完全不能理解評分為何4.4蠻高的一間店…\n食物很普通，可能甚至沒有及格，炸雞蠻硬的，鮭魚也沒有很嫩，配菜也都超普通，然後湯好鹹，價格卻要340和370加一成！\n剛好來看蘇打綠的限定活動順便來吃，如果專程來真的會生氣😤CP值超級低！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hsuan Hung",
+        "uri": "https://www.google.com/maps/contrib/111980363311519666689/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVUPUVmgnkzkaUTTrOyzkD_zRyj1l9JxN6KX88IV9plT8yZmT46=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-26T10:35:07.121008295Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OV1NGUlVkVmRDVkd4VGFDMVhVRXhoZEcxcE5GRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OV1NGUlVkVmRDVkd4VGFDMVhVRXhoZEcxcE5GRRAB!2m1!1s0x3442abd37403b3a3:0x8cc5c992b2993f1e"
+    },
+    {
+      "name": "places/ChIJo7MDdNOrQjQRHj-ZspLJxYw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4YWNIZDRhWFZVT0hoMlQyMWpRbGxwZW01R09YYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "蠻好吃的！雖然份量不多，可是飯和湯可以免費續，吃到飽。整體來說鮭魚和雞腿排很推👍唐揚炸雞也不賴，布丁很紮實，抹茶冰淇淋也不錯～店內的酒也好喝，很推薦帶有乳酸菌味的Shiroi-夏多內，聽說荔枝的更好喝，以後有機會再品嚐！讚讚～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "蠻好吃的！雖然份量不多，可是飯和湯可以免費續，吃到飽。整體來說鮭魚和雞腿排很推👍唐揚炸雞也不賴，布丁很紮實，抹茶冰淇淋也不錯～店內的酒也好喝，很推薦帶有乳酸菌味的Shiroi-夏多內，聽說荔枝的更好喝，以後有機會再品嚐！讚讚～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ying Ting Huang",
+        "uri": "https://www.google.com/maps/contrib/117052972868540332934/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXTsLZQvqz4WqlfRRdBrDFRdyysf36UD5iGCtQcljQfKizRjvDk=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-11-08T14:42:46.059042833Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4YWNIZDRhWFZVT0hoMlQyMWpRbGxwZW01R09YYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4YWNIZDRhWFZVT0hoMlQyMWpRbGxwZW01R09YYxAB!2m1!1s0x3442abd37403b3a3:0x8cc5c992b2993f1e"
+    },
+    {
+      "name": "places/ChIJo7MDdNOrQjQRHj-ZspLJxYw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tseFZXUlhTWFZOYjBrek5sTlZTSEpPU1Y5TlRXYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 2,
+      "text": {
+        "text": "門口一堆人排隊\n可是裡面空位很多\n沒辦法帶位的原因是還沒整理桌子\n週末晚上去的只有兩位外場\n人手超級不足\n等了半小時才入座\n\n菜單選擇沒有很多\n一份340起跳 還有10%服務費\n價格真的貴\n東西少又沒有特別好吃\n番茄醬起司漢堡排的起司\n只有表面的起司粉\n都是番茄的味道 很酸\n個人覺得完全不值得這個價位跟等待時間\n不建議前往",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "門口一堆人排隊\n可是裡面空位很多\n沒辦法帶位的原因是還沒整理桌子\n週末晚上去的只有兩位外場\n人手超級不足\n等了半小時才入座\n\n菜單選擇沒有很多\n一份340起跳 還有10%服務費\n價格真的貴\n東西少又沒有特別好吃\n番茄醬起司漢堡排的起司\n只有表面的起司粉\n都是番茄的味道 很酸\n個人覺得完全不值得這個價位跟等待時間\n不建議前往",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "YY Chen",
+        "uri": "https://www.google.com/maps/contrib/106198659875918207947/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocII074NxSKMcZlRlSQaTltvYEOwEAeG6U2_rqidiAYVvGG2Gpjj=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-07T15:01:06.972021434Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tseFZXUlhTWFZOYjBrek5sTlZTSEpPU1Y5TlRXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tseFZXUlhTWFZOYjBrek5sTlZTSEpPU1Y5TlRXYxAB!2m1!1s0x3442abd37403b3a3:0x8cc5c992b2993f1e"
+    },
+    {
+      "name": "places/ChIJo7MDdNOrQjQRHj-ZspLJxYw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxcFkzbGhSVmxmV0V4dWJXOHRWM2d3Y2s4dFkxRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "看完車展出來覓食，不經意發現此店，名字很特別停下看了餐點，適合喜歡日式料理、家常菜的人，沒有過度油炸或加工的油膩、重鹹的炸物或醃漬物，吃起來不會太清淡而是恰到好處的口味。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "看完車展出來覓食，不經意發現此店，名字很特別停下看了餐點，適合喜歡日式料理、家常菜的人，沒有過度油炸或加工的油膩、重鹹的炸物或醃漬物，吃起來不會太清淡而是恰到好處的口味。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Elva Yang",
+        "uri": "https://www.google.com/maps/contrib/105393175425683514458/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXSVs5b8I55pyWenLNdiDUyRUq6RILIrVnPJuMetAIVuB4ywxIT=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-03T06:12:47.775138355Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxcFkzbGhSVmxmV0V4dWJXOHRWM2d3Y2s4dFkxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxcFkzbGhSVmxmV0V4dWJXOHRWM2d3Y2s4dFkxRRAB!2m1!1s0x3442abd37403b3a3:0x8cc5c992b2993f1e"
+    },
+    {
+      "name": "places/ChIJo7MDdNOrQjQRHj-ZspLJxYw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOeVNHcGtUVEZsTW10U2NtSnZkV0pEY0ZGaVMzYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "大比目魚跟鮭魚套餐都很好吃～\n空間明亮寬敞\n但中午用餐時刻很吵🤣🤣🤣\n迴音很大！\n然後味噌湯有點鹹～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "大比目魚跟鮭魚套餐都很好吃～\n空間明亮寬敞\n但中午用餐時刻很吵🤣🤣🤣\n迴音很大！\n然後味噌湯有點鹹～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "妃",
+        "uri": "https://www.google.com/maps/contrib/112703840481445813622/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVh9Ae9vWnvixyk9gxcGRvED3ZVKk45HQTN_Zh0q30Ko0_k6vpe=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-09T12:53:27.252188756Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOeVNHcGtUVEZsTW10U2NtSnZkV0pEY0ZGaVMzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOeVNHcGtUVEZsTW10U2NtSnZkV0pEY0ZGaVMzYxAB!2m1!1s0x3442abd37403b3a3:0x8cc5c992b2993f1e"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

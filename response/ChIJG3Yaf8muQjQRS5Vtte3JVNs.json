@@ -1,0 +1,139 @@
+{
+  "id": "ChIJG3Yaf8muQjQRS5Vtte3JVNs",
+  "types": [
+    "pizza_delivery",
+    "meal_delivery",
+    "meal_takeaway",
+    "food_delivery",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2883 9850",
+  "formattedAddress": "111台灣臺北市士林區福德里中正路385號",
+  "location": {
+    "latitude": 25.094110000000004,
+    "longitude": 121.521582
+  },
+  "rating": 4.1,
+  "websiteUri": "https://www.pizzahut.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 401,
+  "displayName": {
+    "text": "Pizza Hut必勝客-士林中正店",
+    "languageCode": "en"
+  },
+  "editorialSummary": {
+    "text": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJG3Yaf8muQjQRS5Vtte3JVNs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psTGMyczNVRjlwTjJkMmNDMHdhUzE0U1ZkNVkxRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 1,
+      "text": {
+        "text": "請問是不是在搶劫？？uber說買一送一雞軟骨$115\n幫我分到兩盒裡只有四小塊？\n超好笑等於兩塊小碎肉要將近60\n你可以去搶卻選擇給我兩塊小鹹酥雞 我真是謝謝你\n有成本問題就不要硬要標買一送一 要買一送一就乾脆一點給足份量\n這樣玩買一送一的文字遊戲事實上只給這樣 超爛",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "請問是不是在搶劫？？uber說買一送一雞軟骨$115\n幫我分到兩盒裡只有四小塊？\n超好笑等於兩塊小碎肉要將近60\n你可以去搶卻選擇給我兩塊小鹹酥雞 我真是謝謝你\n有成本問題就不要硬要標買一送一 要買一送一就乾脆一點給足份量\n這樣玩買一送一的文字遊戲事實上只給這樣 超爛",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Nccc",
+        "uri": "https://www.google.com/maps/contrib/102197319126730059564/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIKZcqrL8F4iSDP-wFwzGYV1JxIxIHa7NnRTG8loXtmQD_5WF8=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-03T08:27:33.601239939Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psTGMyczNVRjlwTjJkMmNDMHdhUzE0U1ZkNVkxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psTGMyczNVRjlwTjJkMmNDMHdhUzE0U1ZkNVkxRRAB!2m1!1s0x3442aec97f1a761b:0xdb54c9edb56d954b"
+    },
+    {
+      "name": "places/ChIJG3Yaf8muQjQRS5Vtte3JVNs/reviews/ChdDSUhNMG9nS0VJQ0FnTURndHEzTnVBRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "原味麻糬酥買一送一$69\n第一次嘗試\n可頌酥皮 不會太甜 推！\n點心超值組 $69\n（薯星星+麻糬QQ球4顆）\n麻糬QQ球超級好吃～是苦甜的可可\n薯星星就是好吃的薯餅\n生日禮 $50折扣後只要88",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "原味麻糬酥買一送一$69\n第一次嘗試\n可頌酥皮 不會太甜 推！\n點心超值組 $69\n（薯星星+麻糬QQ球4顆）\n麻糬QQ球超級好吃～是苦甜的可可\n薯星星就是好吃的薯餅\n生日禮 $50折扣後只要88",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "姍姍Shanis_here",
+        "uri": "https://www.google.com/maps/contrib/110127217623973208858/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMfEq-5u130eCzsrR4Qd8OS3Q-zkuVSPk5asGwO53vWxTYmARL=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-02-24T15:58:59.866576Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURndHEzTnVBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURndHEzTnVBRRAB!2m1!1s0x3442aec97f1a761b:0xdb54c9edb56d954b"
+    },
+    {
+      "name": "places/ChIJG3Yaf8muQjQRS5Vtte3JVNs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4RWMwRXlielJLVFRZeVZFbE5kRjlrTjJaMk1HYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "1.訂今天晚上6：00取餐，我6：30才到，竟然說沒有訂單，然後說再做一次給我。\n2.點通心麵加1元個人披薩，個人披薩有夠硬，乾，只有番茄醬味道，難吃。\n還好員工有說抱歉，希望細心一些，口感要改進。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "1.訂今天晚上6：00取餐，我6：30才到，竟然說沒有訂單，然後說再做一次給我。\n2.點通心麵加1元個人披薩，個人披薩有夠硬，乾，只有番茄醬味道，難吃。\n還好員工有說抱歉，希望細心一些，口感要改進。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Michelle Yang",
+        "uri": "https://www.google.com/maps/contrib/108045923295992599313/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVQjw-rK3cIEurILX82f8Y0mM6DGYtlPmLwn1Iw5EOdyWZ4dK3P6A=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-31T14:56:05.757051425Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4RWMwRXlielJLVFRZeVZFbE5kRjlrTjJaMk1HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4RWMwRXlielJLVFRZeVZFbE5kRjlrTjJaMk1HYxAB!2m1!1s0x3442aec97f1a761b:0xdb54c9edb56d954b"
+    },
+    {
+      "name": "places/ChIJG3Yaf8muQjQRS5Vtte3JVNs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCMVRrMWpOMWRJVTFFdFpqWnFkMEkzYW5ZeGFGRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 1,
+      "text": {
+        "text": "味道超級差\n芝心完全沒有任何味道，跟沒有味道的麻糬口感一樣",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "味道超級差\n芝心完全沒有任何味道，跟沒有味道的麻糬口感一樣",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "JL Chu",
+        "uri": "https://www.google.com/maps/contrib/114714543030138812652/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXnVbIHwKH5ykS4VDCwh-WwQYArnwcqcq3PPYKo3uNBbNCWqvIY=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-10-04T04:40:24.228554445Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCMVRrMWpOMWRJVTFFdFpqWnFkMEkzYW5ZeGFGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCMVRrMWpOMWRJVTFFdFpqWnFkMEkzYW5ZeGFGRRAB!2m1!1s0x3442aec97f1a761b:0xdb54c9edb56d954b"
+    },
+    {
+      "name": "places/ChIJG3Yaf8muQjQRS5Vtte3JVNs/reviews/ChZDSUhNMG9nS0VJQ0FnSUNxaUlQakpnEAE",
+      "relativePublishTimeDescription": "5 年前",
+      "rating": 1,
+      "text": {
+        "text": "德國芝心腸的內容物是小雞翅跟小雞腿？跟其他分店的長不一樣耶？是我認知有錯嗎？",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "德國芝心腸的內容物是小雞翅跟小雞腿？跟其他分店的長不一樣耶？是我認知有錯嗎？",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "白白",
+        "uri": "https://www.google.com/maps/contrib/103772818603519933549/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJhJWadI5XsXzZaK0odOQaKCEzXX-DqZxMme4Js8owVRZTj_Q=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2021-05-25T04:52:59.615812Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNxaUlQakpnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNxaUlQakpnEAE!2m1!1s0x3442aec97f1a761b:0xdb54c9edb56d954b"
+    }
+  ],
+  "menuForChildren": false
+}

@@ -1,0 +1,137 @@
+{
+  "id": "ChIJw-2FysGrQjQR_AXKzyHqtJ0",
+  "types": [
+    "italian_restaurant",
+    "pizza_delivery",
+    "meal_delivery",
+    "food_delivery",
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2577 7730",
+  "formattedAddress": "105台灣臺北市松山區復建里八德路三段216號",
+  "location": {
+    "latitude": 25.0479394,
+    "longitude": 121.5569191
+  },
+  "rating": 4.1,
+  "websiteUri": "http://www.pizzarock.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 753,
+  "displayName": {
+    "text": "搖滾披薩 台北八德店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJw-2FysGrQjQR_AXKzyHqtJ0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aSE9YQkNVM1JFUWpsVFgxQmthWGxWWjBoWWRIYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "義式薄餅比薩，喜歡薄餅口感的人很適合，吃起來就像是蘇打餅乾，香味夠，起士味道也足。好吃。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "義式薄餅比薩，喜歡薄餅口感的人很適合，吃起來就像是蘇打餅乾，香味夠，起士味道也足。好吃。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Henry 翰良 Lu",
+        "uri": "https://www.google.com/maps/contrib/104726155236274271389/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUApgecv8xSSHMqcwUQ9IlEmms3eHUF1YMOg1gDY2b0SSLH1WohEA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-01T11:52:35.033278077Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aSE9YQkNVM1JFUWpsVFgxQmthWGxWWjBoWWRIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aSE9YQkNVM1JFUWpsVFgxQmthWGxWWjBoWWRIYxAB!2m1!1s0x3442abc1ca85edc3:0x9db4ea21cfca05fc"
+    },
+    {
+      "name": "places/ChIJw-2FysGrQjQR_AXKzyHqtJ0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWTmRESmtXblJuTUU5VWRDMVRjbmRmY1U1UVFrRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "跟兩個小孩一起內用吃晚餐 小孩覺得披薩好吃 點了四個小披薩 後面剩了至少五片 想說請店家外帶 但是披薩外帶用紙袋包起來全部餡料都黏在一起 不知道明天該怎麼吃 希望店家能夠改善 畢竟剩五片也算快完整的一個小披薩 不能用盒子裝起來嗎🙄🙄",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "跟兩個小孩一起內用吃晚餐 小孩覺得披薩好吃 點了四個小披薩 後面剩了至少五片 想說請店家外帶 但是披薩外帶用紙袋包起來全部餡料都黏在一起 不知道明天該怎麼吃 希望店家能夠改善 畢竟剩五片也算快完整的一個小披薩 不能用盒子裝起來嗎🙄🙄",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "王卉姍（mavis）",
+        "uri": "https://www.google.com/maps/contrib/101282268398276207224/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU9ccumXiru8uiHRK2KRseR4glwMh2AiYEEq3GQKFAdaDUWWBlD=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-03-05T13:50:47.865466955Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWTmRESmtXblJuTUU5VWRDMVRjbmRmY1U1UVFrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWTmRESmtXblJuTUU5VWRDMVRjbmRmY1U1UVFrRRAB!2m1!1s0x3442abc1ca85edc3:0x9db4ea21cfca05fc"
+    },
+    {
+      "name": "places/ChIJw-2FysGrQjQR_AXKzyHqtJ0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tvMk5rTmtabVJKYW01TWNWcHZWelJqZGxaQ1YzYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 1,
+      "text": {
+        "text": "Ubereats 點了8吋、12吋披薩，還點了雞翅；大概等了一個半小時才送到，根本不到6吋、10吋，詐欺吧？而且送到的時候溫溫的還超難吃！雞翅尤其有個雞腥味，毫無優點的店家點了這樣要1000元，是不是可以去投訴詐欺啊？難吃死滿心期待吃披薩，看到我的留言的算你們幸運，救一個是一個！難吃到不行絕對不要點！氣氣氣氣氣！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "Ubereats 點了8吋、12吋披薩，還點了雞翅；大概等了一個半小時才送到，根本不到6吋、10吋，詐欺吧？而且送到的時候溫溫的還超難吃！雞翅尤其有個雞腥味，毫無優點的店家點了這樣要1000元，是不是可以去投訴詐欺啊？難吃死滿心期待吃披薩，看到我的留言的算你們幸運，救一個是一個！難吃到不行絕對不要點！氣氣氣氣氣！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Claire Lee",
+        "uri": "https://www.google.com/maps/contrib/100656886415984429941/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVeVdlicyaPQqcyZps9QN2ecBxHaQx6ygdssG6tQxu7_X_6J53l=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-15T12:38:13.331316069Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tvMk5rTmtabVJKYW01TWNWcHZWelJqZGxaQ1YzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tvMk5rTmtabVJKYW01TWNWcHZWelJqZGxaQ1YzYxAB!2m1!1s0x3442abc1ca85edc3:0x9db4ea21cfca05fc"
+    },
+    {
+      "name": "places/ChIJw-2FysGrQjQR_AXKzyHqtJ0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aNFF6SmhWMmsyTkVReGVuWnFkbmhCZDI5dlZXYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "晚餐點兩個12寸大披薩，瑪格麗特和雞肉口味，餐點不夠熱，披薩很硬咬不動，天很冷也沒熱飲可點，菜單跟剛開幕不一樣有點失望",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "晚餐點兩個12寸大披薩，瑪格麗特和雞肉口味，餐點不夠熱，披薩很硬咬不動，天很冷也沒熱飲可點，菜單跟剛開幕不一樣有點失望",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Wei Ling Chen",
+        "uri": "https://www.google.com/maps/contrib/110111181586735749911/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKm91pU91CAlbuL1yQ3JWzmjxRDJrcD87AcBR254-ely50z3g=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-07T11:30:06.447070642Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aNFF6SmhWMmsyTkVReGVuWnFkbmhCZDI5dlZXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aNFF6SmhWMmsyTkVReGVuWnFkbmhCZDI5dlZXYxAB!2m1!1s0x3442abc1ca85edc3:0x9db4ea21cfca05fc"
+    },
+    {
+      "name": "places/ChIJw-2FysGrQjQR_AXKzyHqtJ0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21reVZHUkhTamRWZW5CV05HaFpWMVZ3V1dKVU1tYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "原木裝潢，跟滿牆搖滾海報想呼應，可以想見主人直性情🙂呈盤簡潔有力，薄片披薩，口感好，甜鹹適中，布蕾也不會甜膩，直球對決的歡呼🌸唯一的雷是上樓的樓梯，要慢慢走🥶",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "原木裝潢，跟滿牆搖滾海報想呼應，可以想見主人直性情🙂呈盤簡潔有力，薄片披薩，口感好，甜鹹適中，布蕾也不會甜膩，直球對決的歡呼🌸唯一的雷是上樓的樓梯，要慢慢走🥶",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "奶茶伯爵",
+        "uri": "https://www.google.com/maps/contrib/101834084753868794513/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWulh3iz3_vFslQuXsNPyJPpbFIQCRV_jcL9tDZmkhJ-XlAKyM=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-28T07:19:37.946008695Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21reVZHUkhTamRWZW5CV05HaFpWMVZ3V1dKVU1tYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21reVZHUkhTamRWZW5CV05HaFpWMVZ3V1dKVU1tYxAB!2m1!1s0x3442abc1ca85edc3:0x9db4ea21cfca05fc"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

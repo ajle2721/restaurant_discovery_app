@@ -1,0 +1,132 @@
+{
+  "id": "ChIJEQc01pesQjQRzU-pUg9Sgik",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2630 6179",
+  "formattedAddress": "114台灣臺北市內湖區葫洲里民權東路六段280巷15號",
+  "location": {
+    "latitude": 25.0717632,
+    "longitude": 121.6052896
+  },
+  "rating": 4,
+  "websiteUri": "https://facebook.com/pages/category/Restaurant/%E6%A9%98%E5%9C%92%E9%A5%95%E9%84%89-174205059285173/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 533,
+  "displayName": {
+    "text": "橘鄉小館",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJEQc01pesQjQRzU-pUg9Sgik/reviews/Ci9DQUlRQUNvZENodHljRjlvT201bVNuTmpjblJPTFd4UE9EZzJVbXg2YlhsUVJGRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "兩大一小也可以來吃～小籠包很讚，熱呼呼冒煙又有湯汁，炒飯也喜歡，再來個甜點豆沙鍋餅😍😍結束還有水果！大姐們有時候很急，但整體服務上我覺得都很棒！不知道為什麼很忙還可以知道我們要吃完了上豆沙鍋餅😂😂短期內已二訪兩次！❤️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "兩大一小也可以來吃～小籠包很讚，熱呼呼冒煙又有湯汁，炒飯也喜歡，再來個甜點豆沙鍋餅😍😍結束還有水果！大姐們有時候很急，但整體服務上我覺得都很棒！不知道為什麼很忙還可以知道我們要吃完了上豆沙鍋餅😂😂短期內已二訪兩次！❤️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張舒婷",
+        "uri": "https://www.google.com/maps/contrib/100151749761393504945/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUhGr_Xyf8xfIlsAsBEJJ2TU04QPmo89K50utTee1-F3T7OSIdT=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-07T23:16:38.397918236Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201bVNuTmpjblJPTFd4UE9EZzJVbXg2YlhsUVJGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201bVNuTmpjblJPTFd4UE9EZzJVbXg2YlhsUVJGRRAB!2m1!1s0x3442ac97d6340711:0x2982520f52a94fcd"
+    },
+    {
+      "name": "places/ChIJEQc01pesQjQRzU-pUg9Sgik/reviews/ChdDSUhNMG9nS0VOcWhnUG1fNjhpcy13RRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "25年的中餐館，麵點師傅也70多歲，麵食餐點是好吃的。蔥油餅、韭菜盒子、大餅捲牛肉、紅豆薄酥餅 都很美味。\n星期三的中午我們10人來用餐，有一道烤豬腳皮Q彈不油不膩， 滿滿膠原蛋白，在座的女生連連稱好。今天的餐點毎一道都很好吃，湯品是山藥湯 豬腸裡竟然還塞了2顆蓮子，真是功夫。\n糖醋排骨 肉多骨少，酸甜可口，也是令人回味。\n看我po的照片，今天是6000元的和菜，很超值喔！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "25年的中餐館，麵點師傅也70多歲，麵食餐點是好吃的。蔥油餅、韭菜盒子、大餅捲牛肉、紅豆薄酥餅 都很美味。\n星期三的中午我們10人來用餐，有一道烤豬腳皮Q彈不油不膩， 滿滿膠原蛋白，在座的女生連連稱好。今天的餐點毎一道都很好吃，湯品是山藥湯 豬腸裡竟然還塞了2顆蓮子，真是功夫。\n糖醋排骨 肉多骨少，酸甜可口，也是令人回味。\n看我po的照片，今天是6000元的和菜，很超值喔！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Aaron Chen (行到水窮處坐看雲起)",
+        "uri": "https://www.google.com/maps/contrib/111467953511044492108/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUpzSIFSYGfjPBHfoY0RdBEZEPEzBd1oGJxXPCCEPId1WwzhnB8=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-06-04T11:29:31.459348Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VOcWhnUG1fNjhpcy13RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VOcWhnUG1fNjhpcy13RRAB!2m1!1s0x3442ac97d6340711:0x2982520f52a94fcd"
+    },
+    {
+      "name": "places/ChIJEQc01pesQjQRzU-pUg9Sgik/reviews/ChZDSUhNMG9nS0VJQ0FnTURRbk5pd0RnEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "位於葫洲捷運站後面兩條巷子，從有印象以來就有這家店了，但每次都只有經過沒有進來過。\n\n店內空間還算舒適，店員們一直走來走去十分忙碌，但服務態度不錯，店內乾淨明亮。\n\n價格稍高，口味很清淡，食物也都很軟嫩，對我來說就中規中矩，比較適合老人家聚餐一起吃。\n\n🥢小籠湯包：味道清淡，汁不算太多，給的醬油跟薑絲裡面有放醋，酸酸鹹鹹的還可以，整體很軟。\n\n🫓大餅捲牛肉：料比一般的牛肉捲餅多，餅也是屬於比較軟的那種。\n\n🫓一窩絲餅：跟大餅捲牛肉的餅皮相似，也是糊糊軟軟的。\n\n🥬芥蘭炒牛肉：肉多菜較少，牛肉很新鮮也很軟嫩，口味清淡可以單吃。\n\n🥢京都子排：口味也是偏清淡，肉嫩，骨頭好處理，也可以單吃。\n\n🥣小米粥：小米粒較明顯，沒有很糊，也是清淡，適合當主食。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "位於葫洲捷運站後面兩條巷子，從有印象以來就有這家店了，但每次都只有經過沒有進來過。\n\n店內空間還算舒適，店員們一直走來走去十分忙碌，但服務態度不錯，店內乾淨明亮。\n\n價格稍高，口味很清淡，食物也都很軟嫩，對我來說就中規中矩，比較適合老人家聚餐一起吃。\n\n🥢小籠湯包：味道清淡，汁不算太多，給的醬油跟薑絲裡面有放醋，酸酸鹹鹹的還可以，整體很軟。\n\n🫓大餅捲牛肉：料比一般的牛肉捲餅多，餅也是屬於比較軟的那種。\n\n🫓一窩絲餅：跟大餅捲牛肉的餅皮相似，也是糊糊軟軟的。\n\n🥬芥蘭炒牛肉：肉多菜較少，牛肉很新鮮也很軟嫩，口味清淡可以單吃。\n\n🥢京都子排：口味也是偏清淡，肉嫩，骨頭好處理，也可以單吃。\n\n🥣小米粥：小米粒較明顯，沒有很糊，也是清淡，適合當主食。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Nick Yang",
+        "uri": "https://www.google.com/maps/contrib/112522168987221545310/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLuvfS-5Hr9J-NABXhW57klJuP5FsEJ8EKtIkMBdC2eRjVf9A=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-03-09T16:04:53.621921Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRbk5pd0RnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRbk5pd0RnEAE!2m1!1s0x3442ac97d6340711:0x2982520f52a94fcd"
+    },
+    {
+      "name": "places/ChIJEQc01pesQjQRzU-pUg9Sgik/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oTFRFZ3pXVXBtTWpKZk9ESlpiWEpMYkVsWWFXYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "先前因為暫停供應麵點，有一陣子沒來，很高興看到現在找到新的師傅，再次高朋滿座！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "先前因為暫停供應麵點，有一陣子沒來，很高興看到現在找到新的師傅，再次高朋滿座！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "tkling",
+        "uri": "https://www.google.com/maps/contrib/111827604021149626015/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVpQfDIiJ5mBF_a1ck2IGfl8wDSGxUEP0d527wRo3HLTIElroYH=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-25T10:51:24.428807057Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oTFRFZ3pXVXBtTWpKZk9ESlpiWEpMYkVsWWFXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oTFRFZ3pXVXBtTWpKZk9ESlpiWEpMYkVsWWFXYxAB!2m1!1s0x3442ac97d6340711:0x2982520f52a94fcd"
+    },
+    {
+      "name": "places/ChIJEQc01pesQjQRzU-pUg9Sgik/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUZzZYbVp3EAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "週六晚餐尖峰時間店內雖然很忙碌，服務的姐姐們態度都很親切，一點沒有不耐煩，感受很好。\n餐點上的很快，口味也很好吃\n已經數次造訪，酸辣湯是沒有紅蘿蔔的很讚，還有魷魚塊！！\n梅乾扣肉超好吃，一窩絲餅酥酥的也好吃！\n水蓮比較普通。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "週六晚餐尖峰時間店內雖然很忙碌，服務的姐姐們態度都很親切，一點沒有不耐煩，感受很好。\n餐點上的很快，口味也很好吃\n已經數次造訪，酸辣湯是沒有紅蘿蔔的很讚，還有魷魚塊！！\n梅乾扣肉超好吃，一窩絲餅酥酥的也好吃！\n水蓮比較普通。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "秋秋子",
+        "uri": "https://www.google.com/maps/contrib/107450598866758936055/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVh1yV8ttWRtpgrqLHx9z4OQC82PDzmVi5oMXujsRlGGAJAOpsuNA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2024-05-18T11:27:04.545277Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNUZzZYbVp3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNUZzZYbVp3EAE!2m1!1s0x3442ac97d6340711:0x2982520f52a94fcd"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

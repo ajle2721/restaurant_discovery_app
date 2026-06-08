@@ -1,0 +1,133 @@
+{
+  "id": "ChIJ7y2qTJeuQjQROi3wxaUmtKA",
+  "types": [
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2833 2208",
+  "formattedAddress": "111台灣臺北市士林區德行里中山北路六段77號8樓",
+  "location": {
+    "latitude": 25.105306,
+    "longitude": 121.52459429999999
+  },
+  "rating": 4.5,
+  "websiteUri": "http://www.shanghaishanghai.tw/",
+  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+  "userRatingCount": 1586,
+  "displayName": {
+    "text": "紅豆食府 SOGO天母店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ7y2qTJeuQjQROi3wxaUmtKA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GTmIyczJOSEZPYjJSNE1YVjVUbTVVZDB4SkxVRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "從小吃到大的紅豆食府美味依舊\n但價格（餐點份量）已經漲到有點令人瞠目結舌\n\n紅燒肥腸鑊氣十足～推\n龍井蝦仁 $750⋯但以前比較美味\n\n天母sogo店其中一位女服務人員及男經理的服務都很親切得宜～值得肯定",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "從小吃到大的紅豆食府美味依舊\n但價格（餐點份量）已經漲到有點令人瞠目結舌\n\n紅燒肥腸鑊氣十足～推\n龍井蝦仁 $750⋯但以前比較美味\n\n天母sogo店其中一位女服務人員及男經理的服務都很親切得宜～值得肯定",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Cecilia Chic",
+        "uri": "https://www.google.com/maps/contrib/118186728028878921468/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-RAJ8cV5I8avgjiCygyUfENDNedMEWH3VlFs56sNhGjiKbYyaeA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-01-11T15:28:47.081478388Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GTmIyczJOSEZPYjJSNE1YVjVUbTVVZDB4SkxVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GTmIyczJOSEZPYjJSNE1YVjVUbTVVZDB4SkxVRRAB!2m1!1s0x3442ae974caa2def:0xa0b426a5c5f02d3a"
+    },
+    {
+      "name": "places/ChIJ7y2qTJeuQjQROi3wxaUmtKA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25weWN6bE1TRTVDU1U1cmFIWlFYMkZoVkVGemJFRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "餐點口味較爲油膩\n尤其是菜飯 真的不建議點\n但服務態度不錯\n用餐環境明亮乾淨",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點口味較爲油膩\n尤其是菜飯 真的不建議點\n但服務態度不錯\n用餐環境明亮乾淨",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "蔡心于",
+        "uri": "https://www.google.com/maps/contrib/103906939069600843285/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIkeSjeKiYNjyMLwOOizSO8sH6AyX9FQZkI_W99RAMYK4y_KlOT=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-03-09T15:06:09.181701493Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25weWN6bE1TRTVDU1U1cmFIWlFYMkZoVkVGemJFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25weWN6bE1TRTVDU1U1cmFIWlFYMkZoVkVGemJFRRAB!2m1!1s0x3442ae974caa2def:0xa0b426a5c5f02d3a"
+    },
+    {
+      "name": "places/ChIJ7y2qTJeuQjQROi3wxaUmtKA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkWGJTMVBkMEpyYkVWa2JscGtTelF6UmtvM2FrRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 2,
+      "text": {
+        "text": "2025/11\n菜色全部重油重鹹，有些菜就是需要重油重鹹才好吃可以理解，問題是調味完全不好吃且完全沒香氣。\n這個價位有更好的選擇，不會回購。\n\n-黃金片皮鴨：鴨肉有腥味還很鹹，外皮偏軟，比坊間烤鴨店還糟糕。\n\n-貝酥角瓜：就是絲瓜，偏油膩，有幾乎看不見的干貝絲，口味差強人意，比外面便當店的調味還糟糕。\n\n-東坡肉：入口即化，但是油的程度超乎想像。\n\n-紅豆鬆糕：甜度約四分糖，沒有入口即化，口感有嚼勁還有點鬆，還可以。\n\n-燒賣：還可以，沒有豬肉腥味。\n\n-烏參茄子煲：最難吃的前幾名，鹹到爆炸感覺是吃醬油。\n\n-鹹菜牛腩：有香氣但是都被鹹菜蓋掉了，除了很鹹沒有其他感覺。\n\n-糖醋黃魚：調味一般，但來的不是黃魚…………\n\n來不及拍實地照，僅拍部分外帶餐點。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2025/11\n菜色全部重油重鹹，有些菜就是需要重油重鹹才好吃可以理解，問題是調味完全不好吃且完全沒香氣。\n這個價位有更好的選擇，不會回購。\n\n-黃金片皮鴨：鴨肉有腥味還很鹹，外皮偏軟，比坊間烤鴨店還糟糕。\n\n-貝酥角瓜：就是絲瓜，偏油膩，有幾乎看不見的干貝絲，口味差強人意，比外面便當店的調味還糟糕。\n\n-東坡肉：入口即化，但是油的程度超乎想像。\n\n-紅豆鬆糕：甜度約四分糖，沒有入口即化，口感有嚼勁還有點鬆，還可以。\n\n-燒賣：還可以，沒有豬肉腥味。\n\n-烏參茄子煲：最難吃的前幾名，鹹到爆炸感覺是吃醬油。\n\n-鹹菜牛腩：有香氣但是都被鹹菜蓋掉了，除了很鹹沒有其他感覺。\n\n-糖醋黃魚：調味一般，但來的不是黃魚…………\n\n來不及拍實地照，僅拍部分外帶餐點。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "mu mu",
+        "uri": "https://www.google.com/maps/contrib/104283417714437516222/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJWMlvHDXnjFEaEbyR5ihzbyi5WsGVwgQzGHUNIapul9b9Rmw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-30T11:05:25.536765876Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkWGJTMVBkMEpyYkVWa2JscGtTelF6UmtvM2FrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkWGJTMVBkMEpyYkVWa2JscGtTelF6UmtvM2FrRRAB!2m1!1s0x3442ae974caa2def:0xa0b426a5c5f02d3a"
+    },
+    {
+      "name": "places/ChIJ7y2qTJeuQjQROi3wxaUmtKA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WMmNrTTRjME5OVkRSNlJIVlNjbGhTUm5KcVJHYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "這天點的是二人合菜\n每一道都不錯吃 份量也不少\n最喜歡的一道是清炒蝦仁 簡單但好吃\n剛好坐到窗邊景觀很開闊\n服務很好 有機會會再來吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這天點的是二人合菜\n每一道都不錯吃 份量也不少\n最喜歡的一道是清炒蝦仁 簡單但好吃\n剛好坐到窗邊景觀很開闊\n服務很好 有機會會再來吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Kayee Ho",
+        "uri": "https://www.google.com/maps/contrib/107877340698293988651/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmY_SPqNu6kiUdzr08zgr4m-FLvzNmMXtUOSVnuk9093m8a6R-=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-03T05:16:43.455399349Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WMmNrTTRjME5OVkRSNlJIVlNjbGhTUm5KcVJHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WMmNrTTRjME5OVkRSNlJIVlNjbGhTUm5KcVJHYxAB!2m1!1s0x3442ae974caa2def:0xa0b426a5c5f02d3a"
+    },
+    {
+      "name": "places/ChIJ7y2qTJeuQjQROi3wxaUmtKA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21neGRIaHFVRWx6V0hkbFNYZHlVMHhIWVVGdlVHYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "大蒜燒龍虎班沒蒜香味，魚肉太硬沒鮮味豆腐有酸味，紅干絲牛肉絲難得找得到牛肉絲，不懂爲何清炒時蔬460+10%比干絲牛肉絲420+10%還要貴。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "大蒜燒龍虎班沒蒜香味，魚肉太硬沒鮮味豆腐有酸味，紅干絲牛肉絲難得找得到牛肉絲，不懂爲何清炒時蔬460+10%比干絲牛肉絲420+10%還要貴。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "王慶隆",
+        "uri": "https://www.google.com/maps/contrib/110733601211560772235/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWk5aMIgtJoZ8Ngh0nTJvLVdHx9KMesPm03ChbMko4X_Ch74PJxjw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-09T22:54:04.463709453Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21neGRIaHFVRWx6V0hkbFNYZHlVMHhIWVVGdlVHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21neGRIaHFVRWx6V0hkbFNYZHlVMHhIWVVGdlVHYxAB!2m1!1s0x3442ae974caa2def:0xa0b426a5c5f02d3a"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

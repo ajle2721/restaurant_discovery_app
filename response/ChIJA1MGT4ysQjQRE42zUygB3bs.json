@@ -1,0 +1,137 @@
+{
+  "id": "ChIJA1MGT4ysQjQRE42zUygB3bs",
+  "types": [
+    "italian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2794 3222",
+  "formattedAddress": "114台灣臺北市內湖區紫星里成功路三段183號",
+  "location": {
+    "latitude": 25.080195699999997,
+    "longitude": 121.5907135
+  },
+  "rating": 4.1,
+  "websiteUri": "https://facebook.com/%E5%85%A7%E6%B9%96%E5%A4%AF%E9%BA%B5%E5%9D%8A-165397150176093/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 2249,
+  "displayName": {
+    "text": "夯麵坊成功店",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Straightforward restaurant specializing in pasta & meat dishes, plus pizza & soups.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJA1MGT4ysQjQRE42zUygB3bs/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sWE5ITjJhSEF5TTJod1gxZFJVa3hwV2xCaldIYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "我點白醬煙燻鮭魚，醬是蠻濃的但有點微甜有點吃不太習慣，但鮭魚我覺得還蠻不錯的，濃湯一般，麵包蠻推的很酥，有自助飲料，也有起士粉，價格來說算很便宜",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "我點白醬煙燻鮭魚，醬是蠻濃的但有點微甜有點吃不太習慣，但鮭魚我覺得還蠻不錯的，濃湯一般，麵包蠻推的很酥，有自助飲料，也有起士粉，價格來說算很便宜",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "洪聖凱",
+        "uri": "https://www.google.com/maps/contrib/104387681341080340091/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI4HHOSas5lXjXrqaTHeNSPPdgcQjOEH_ppBOV6p0S6rUIpUw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-20T05:07:44.853530777Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sWE5ITjJhSEF5TTJod1gxZFJVa3hwV2xCaldIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sWE5ITjJhSEF5TTJod1gxZFJVa3hwV2xCaldIYxAB!2m1!1s0x3442ac8c4f065303:0xbbdd012853b38d13"
+    },
+    {
+      "name": "places/ChIJA1MGT4ysQjQRE42zUygB3bs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkd1FXSXlUMVphU0VoNGVuUTNiVWRMWmxKMk9XYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "用餐環境好、餐點選項多樣，且好吃，光蛋包飯還可選白醬、青醬、咖哩等口味，還有免費飲料，真讚。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "用餐環境好、餐點選項多樣，且好吃，光蛋包飯還可選白醬、青醬、咖哩等口味，還有免費飲料，真讚。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Joe Lee",
+        "uri": "https://www.google.com/maps/contrib/107374187418577719380/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV54mD87dGLd4Ob72NXmztcF16KIZPSRI0ap9G0kF4shz1ltkq_=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-24T01:43:58.763306209Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkd1FXSXlUMVphU0VoNGVuUTNiVWRMWmxKMk9XYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkd1FXSXlUMVphU0VoNGVuUTNiVWRMWmxKMk9XYxAB!2m1!1s0x3442ac8c4f065303:0xbbdd012853b38d13"
+    },
+    {
+      "name": "places/ChIJA1MGT4ysQjQRE42zUygB3bs/reviews/Ci9DQUlRQUNvZENodHljRjlvT25obmIzUjViM2hXWjNkSWJ6VjNkekJSZDNob2MwRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "內湖CP值最高的義大利麵 沒有之一～有自助飲料吧 無限暢飲～也有起司粉、黑胡椒等\n海鮮濃湯有花枝、蛤蜊、魚肉和蝦子，用料很豐富。蛤蜊煮的剛剛好 沒有過頭 內還有湯。蝦子干貝義大利麵 蝦子還蠻大的、干貝也很大塊！ 今天選了通心麵，麵也沒有煮過頭，覺得很棒！\n\n熱門用餐時段通常會有點吵、小朋友會很多～如果怕吵可以避開或用外帶～轉桌率快！餐廳明亮。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "內湖CP值最高的義大利麵 沒有之一～有自助飲料吧 無限暢飲～也有起司粉、黑胡椒等\n海鮮濃湯有花枝、蛤蜊、魚肉和蝦子，用料很豐富。蛤蜊煮的剛剛好 沒有過頭 內還有湯。蝦子干貝義大利麵 蝦子還蠻大的、干貝也很大塊！ 今天選了通心麵，麵也沒有煮過頭，覺得很棒！\n\n熱門用餐時段通常會有點吵、小朋友會很多～如果怕吵可以避開或用外帶～轉桌率快！餐廳明亮。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Time Song",
+        "uri": "https://www.google.com/maps/contrib/110833057695324583027/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmUJfBm4EUlbQEfIJl9ehXU8G1SJE70luXExTaqWz92l7Fc3s=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-26T13:12:02.926404298Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25obmIzUjViM2hXWjNkSWJ6VjNkekJSZDNob2MwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25obmIzUjViM2hXWjNkSWJ6VjNkekJSZDNob2MwRRAB!2m1!1s0x3442ac8c4f065303:0xbbdd012853b38d13"
+    },
+    {
+      "name": "places/ChIJA1MGT4ysQjQRE42zUygB3bs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1eFlqaFhRa3BrVVhvMFRtTm5Ta1pTTnpVM1FrRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "空間很大很明亮，自助區有起司粉和飲料機、飲水機，還挺不錯的。\n\n今天點了焗烤麵，可以免費加量～然後也可以選要不要加花椰菜、菇，感覺還挺友善的！\n吃完很飽✨️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "空間很大很明亮，自助區有起司粉和飲料機、飲水機，還挺不錯的。\n\n今天點了焗烤麵，可以免費加量～然後也可以選要不要加花椰菜、菇，感覺還挺友善的！\n吃完很飽✨️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "雪爾",
+        "uri": "https://www.google.com/maps/contrib/113211737028224954785/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX-aJ53o9uK4_dFYMuyLrwhq_6G9rvp1i6kh56uGqUwHpD5Qx0=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-10-07T12:17:32.018736356Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1eFlqaFhRa3BrVVhvMFRtTm5Ta1pTTnpVM1FrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1eFlqaFhRa3BrVVhvMFRtTm5Ta1pTTnpVM1FrRRAB!2m1!1s0x3442ac8c4f065303:0xbbdd012853b38d13"
+    },
+    {
+      "name": "places/ChIJA1MGT4ysQjQRE42zUygB3bs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWUUxUWkhXVXRhVVVOdE5UZG9ObGxNT0ZVMVIwRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點好吃、價格合理，CP值真的很高，這部分完全可以給滿分！\n\n不過今天還是想小小反映一下狀況。\n中午我有先電話點餐，到店後也很迅速由一位女員工幫我結帳。結帳後她便去補茶水、與其他同事交談，後來也坐在一桌休息，讓我一度以為我的餐點還在製作中。\n\n實際上從我打電話點餐到到店等待，時間已經超過30分鐘（照理說應該不至於這麼久）。後來我有些不好意思地詢問其他員工，才知道我的餐點其實早已放在櫃檯上。\n\n可以理解用餐時段一定很忙，也難免會有疏漏。\n但當客人已經結帳並在現場等待時，如果能稍微留意一下是否已出餐、或主動提醒一聲，相信會讓整體體驗更完整。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點好吃、價格合理，CP值真的很高，這部分完全可以給滿分！\n\n不過今天還是想小小反映一下狀況。\n中午我有先電話點餐，到店後也很迅速由一位女員工幫我結帳。結帳後她便去補茶水、與其他同事交談，後來也坐在一桌休息，讓我一度以為我的餐點還在製作中。\n\n實際上從我打電話點餐到到店等待，時間已經超過30分鐘（照理說應該不至於這麼久）。後來我有些不好意思地詢問其他員工，才知道我的餐點其實早已放在櫃檯上。\n\n可以理解用餐時段一定很忙，也難免會有疏漏。\n但當客人已經結帳並在現場等待時，如果能稍微留意一下是否已出餐、或主動提醒一聲，相信會讓整體體驗更完整。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃紹倫",
+        "uri": "https://www.google.com/maps/contrib/113611179274134027302/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVSLrgeS0Fhn3SVYdQ7HdXvhVb7Q0GP9QIO0kYh_Q1V3vLBVKLr2w=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-28T16:11:18.295807441Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWUUxUWkhXVXRhVVVOdE5UZG9ObGxNT0ZVMVIwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWUUxUWkhXVXRhVVVOdE5UZG9ObGxNT0ZVMVIwRRAB!2m1!1s0x3442ac8c4f065303:0xbbdd012853b38d13"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

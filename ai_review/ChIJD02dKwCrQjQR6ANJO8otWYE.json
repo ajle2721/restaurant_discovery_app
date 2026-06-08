@@ -1,0 +1,54 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "店小小一間，很幸運剛好有座位可以入席。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "No",
+        "evidence": "店裡比較安靜但不壓抑，是一間不錯的小小咖啡店。",
+        "confidence": 0.9
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "店裡比較安靜但不壓抑，是一間不錯的小小咖啡店。",
+        "店裡比較安靜但不壓抑",
+        "店小小一間，很幸運剛好有座位可以入席。",
+        "店小小一間",
+        "內用座位偏少"
+    ],
+    "generated_summary": "該店空間較為狹小，且店內氛圍偏向安靜，目前評論中未提及兒童座椅、兒童餐點或相關親子友善設施，建議攜帶幼童前往前可先向店家確認。",
+    "card_summary": ""
+}

@@ -1,0 +1,53 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "座位寬敞不擁擠，冷氣涼爽，服務不錯，感覺很多附近住戶是熟客。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "No menu for children (官方標記：不提供兒童餐)",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "Good for children (官方標記：適合兒童)",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "座位寬敞不擁擠，冷氣涼爽，服務不錯，感覺很多附近住戶是熟客。",
+        "No menu for children (官方標記：不提供兒童餐)",
+        "Good for children (官方標記：適合兒童)",
+        "餐廳內路線寬敞，個人用餐也舒服。"
+    ],
+    "generated_summary": "八方悅日式鍋物北投永興店經官方標記為適合兒童，且店內環境寬敞舒適，適合攜帶推車。不過店家並不提供兒童餐，且目前評論中未提及兒童座椅、餐具或尿布台等設施，建議家長前往前可先致電確認相關設備。",
+    "card_summary": ""
+}

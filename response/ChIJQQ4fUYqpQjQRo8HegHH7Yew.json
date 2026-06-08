@@ -1,0 +1,132 @@
+{
+  "id": "ChIJQQ4fUYqpQjQRo8HegHH7Yew",
+  "types": [
+    "food_court",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 8369 5637",
+  "formattedAddress": "106台灣臺北市大安區學府里舟山路280巷",
+  "location": {
+    "latitude": 25.0150576,
+    "longitude": 121.53506759999999
+  },
+  "rating": 4.1,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 501,
+  "displayName": {
+    "text": "大一女美食餐廳",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJQQ4fUYqpQjQRo8HegHH7Yew/reviews/Ci9DQUlRQUNvZENodHljRjlvT21rNGIzaEdZbFI0UmsxMVVHZHRXWE5mZWprNVVGRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "相較台科學餐好像人比較少？2025/10吃了「厚宅咖喱」炸雞炸的不錯，看有人點「夏威夷蒸鮮飯」看起來也蠻好吃的感覺，另外還有「吉登自助餐」，但自助餐應該是「台科帝一味」勝😂改天再來去品嚐「夏威夷蒸鮮飯」或「燒臘」，蠻多都能用行動支付。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "相較台科學餐好像人比較少？2025/10吃了「厚宅咖喱」炸雞炸的不錯，看有人點「夏威夷蒸鮮飯」看起來也蠻好吃的感覺，另外還有「吉登自助餐」，但自助餐應該是「台科帝一味」勝😂改天再來去品嚐「夏威夷蒸鮮飯」或「燒臘」，蠻多都能用行動支付。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Mina Lin",
+        "uri": "https://www.google.com/maps/contrib/116025136149801915049/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL9RlbFrk9tURrvEe1V2IdgpWug5mZWynG56fY-ht_jfKuPIA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-10-22T12:38:37.440131007Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21rNGIzaEdZbFI0UmsxMVVHZHRXWE5mZWprNVVGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21rNGIzaEdZbFI0UmsxMVVHZHRXWE5mZWprNVVGRRAB!2m1!1s0x3442a98a511f0e41:0xec61fb7180dec1a3"
+    },
+    {
+      "name": "places/ChIJQQ4fUYqpQjQRo8HegHH7Yew/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkNlpGVlRZMGRCVHkxa05qaEVXbGRUYms5RlNFRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "裡面的吉登自助餐菜色多，便宜又好吃 。秤重計價，可電子支付。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "裡面的吉登自助餐菜色多，便宜又好吃 。秤重計價，可電子支付。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "04魏俊峯",
+        "uri": "https://www.google.com/maps/contrib/100612543639350565905/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIc7tF5X__bWoGU1v6c-M-4iFfr-KaKpxJODLpwXDd7YUkKeXfo=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-25T03:24:41.304010298Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkNlpGVlRZMGRCVHkxa05qaEVXbGRUYms5RlNFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkNlpGVlRZMGRCVHkxa05qaEVXbGRUYms5RlNFRRAB!2m1!1s0x3442a98a511f0e41:0xec61fb7180dec1a3"
+    },
+    {
+      "name": "places/ChIJQQ4fUYqpQjQRo8HegHH7Yew/reviews/ChdDSUhNMG9nS0VJQ0FnSUREMXN1Q2tBRRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 4,
+      "text": {
+        "text": "吉登自助餐\n正常夾主菜1樣 配菜隨意 100公克18元\n白飯一碗5元半碗3元 飯比較硬\n收現金跟街口\n菜11點左右陸續上 約11：20會比較齊 三個餐台 菜色滿豐富 生意很好 菜量很大\n下午4：30開始出菜 約5點才上齊 4：50左右專門結帳的人員才上班 燈才開\n==========================\n椰林燒腊\n不錯吃 生意也不錯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "吉登自助餐\n正常夾主菜1樣 配菜隨意 100公克18元\n白飯一碗5元半碗3元 飯比較硬\n收現金跟街口\n菜11點左右陸續上 約11：20會比較齊 三個餐台 菜色滿豐富 生意很好 菜量很大\n下午4：30開始出菜 約5點才上齊 4：50左右專門結帳的人員才上班 燈才開\n==========================\n椰林燒腊\n不錯吃 生意也不錯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "上野碧",
+        "uri": "https://www.google.com/maps/contrib/111264779510868634529/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJAzAZ3nqR_XRYserlPnVf4Z98r_YEqz-f16WrmsVUbAQP3UA=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2024-04-09T12:17:49.335538Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUREMXN1Q2tBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUREMXN1Q2tBRRAB!2m1!1s0x3442a98a511f0e41:0xec61fb7180dec1a3"
+    },
+    {
+      "name": "places/ChIJQQ4fUYqpQjQRo8HegHH7Yew/reviews/ChZDSUhNMG9nS0VJQ0FnSURsN2R6T1RBEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 1,
+      "text": {
+        "text": "夾越多越不划算。菜都夾別人兩倍份量了，多夾一種肉還要比較貴，以後都夾一點就好，而且這麼油最好也不要常吃。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "夾越多越不划算。菜都夾別人兩倍份量了，多夾一種肉還要比較貴，以後都夾一點就好，而且這麼油最好也不要常吃。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hứa, Hựu Tinh",
+        "uri": "https://www.google.com/maps/contrib/116117797176338550078/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUkS8FFnubGTStUMluxbIZlDYyyoIbeTkQg23c7lyFVUHGQTrzvmg=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2024-11-18T13:41:23.035225Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURsN2R6T1RBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURsN2R6T1RBEAE!2m1!1s0x3442a98a511f0e41:0xec61fb7180dec1a3"
+    },
+    {
+      "name": "places/ChIJQQ4fUYqpQjQRo8HegHH7Yew/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5bVYxVklkbGhNV1Vrd1dGUXhjSE4wTURBNVZFRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "好久沒回臺大了！我沒唸過大一、也沒住過學校的女生宿舍 （ 我是唸 : 大二 外國語文學系 ）先在大一 女生宿舍旁的全家加值，再去美食餐廳用餐",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "好久沒回臺大了！我沒唸過大一、也沒住過學校的女生宿舍 （ 我是唸 : 大二 外國語文學系 ）先在大一 女生宿舍旁的全家加值，再去美食餐廳用餐",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "吳玉琴（Josephine）",
+        "uri": "https://www.google.com/maps/contrib/102939130483262681270/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVs2WeEZ1_UsQhF4_5URIPHaQm3eSY4i2Ps1UjtaD2TmgKdbcPU=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-07T09:04:22.406477570Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5bVYxVklkbGhNV1Vrd1dGUXhjSE4wTURBNVZFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5bVYxVklkbGhNV1Vrd1dGUXhjSE4wTURBNVZFRRAB!2m1!1s0x3442a98a511f0e41:0xec61fb7180dec1a3"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

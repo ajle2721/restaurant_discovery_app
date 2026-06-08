@@ -1,0 +1,132 @@
+{
+  "id": "ChIJByT-uV2rQjQROTvsDM0n_iw",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2712 7797",
+  "formattedAddress": "105台灣臺北市松山區精忠里民生東路四段55巷1號",
+  "location": {
+    "latitude": 25.0581374,
+    "longitude": 121.5506018
+  },
+  "rating": 4.1,
+  "websiteUri": "https://www.facebook.com/%E9%84%89%E9%96%93%E5%B0%8F%E8%B7%AF-107000245414300/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 477,
+  "displayName": {
+    "text": "鄉間小路粵式燒臘茶餐廳",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJByT-uV2rQjQROTvsDM0n_iw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tocE1WUkdNMU41ZUZGblJrbGhMWE55ZFd0eE5FRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 1,
+      "text": {
+        "text": "漲價就算了，點餐已經連續告知我叉燒要瘦一點，至少講了兩遍以上，而且當時沒有人，切肉的年輕人，你是故意還是怎樣，還是給我切肥肉，我也算是常客，而且每次講了不止一次，上次買也是這樣，還是以前那個留鬍鬚瘦瘦那位大哥切的比較好，看來要換家吃了",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "漲價就算了，點餐已經連續告知我叉燒要瘦一點，至少講了兩遍以上，而且當時沒有人，切肉的年輕人，你是故意還是怎樣，還是給我切肥肉，我也算是常客，而且每次講了不止一次，上次買也是這樣，還是以前那個留鬍鬚瘦瘦那位大哥切的比較好，看來要換家吃了",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳紀佐",
+        "uri": "https://www.google.com/maps/contrib/117096282381870345015/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLxvcZlFbKYuhsJu9I0x1_4E-PTPO8Tj9InfanfQr-ZgkMGrA=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-06T05:27:42.351525777Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tocE1WUkdNMU41ZUZGblJrbGhMWE55ZFd0eE5FRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tocE1WUkdNMU41ZUZGblJrbGhMWE55ZFd0eE5FRRAB!2m1!1s0x3442ab5db9fe2407:0x2cfe27cd0cec3b39"
+    },
+    {
+      "name": "places/ChIJByT-uV2rQjQROTvsDM0n_iw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNBcnZHOTNnRRAB",
+      "relativePublishTimeDescription": "6 年前",
+      "rating": 4,
+      "text": {
+        "text": "味道很不錯，工蠻細，價格很實在，建議幾個人就點幾道菜，一定飽，以價格、份量、味道來說，是CP值很高的餐廳。\n必點：脆皮雞、翠綠蝦球、海鮮羹\n\n脆皮雞皮超薄超酥，肉也不會柴，該有的嫩度跟水分還是有，很推\n\n蝦球很大顆很有料很彈，不是軟爛的那種，很好吃\n\n魚香茄子：每次來幾乎都有點，鮮香很下飯\n\n海鮮羹喝起來味道很舒爽，不會很膩口\n\n隨餐附的花生湯超屌超好喝，一定要認真推一個\n太厲害了這甜湯\n\n餐廳座位還算寬敞，過節啊家庭聚餐都很適合來，附近巷子路邊都有停車格可以停。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "味道很不錯，工蠻細，價格很實在，建議幾個人就點幾道菜，一定飽，以價格、份量、味道來說，是CP值很高的餐廳。\n必點：脆皮雞、翠綠蝦球、海鮮羹\n\n脆皮雞皮超薄超酥，肉也不會柴，該有的嫩度跟水分還是有，很推\n\n蝦球很大顆很有料很彈，不是軟爛的那種，很好吃\n\n魚香茄子：每次來幾乎都有點，鮮香很下飯\n\n海鮮羹喝起來味道很舒爽，不會很膩口\n\n隨餐附的花生湯超屌超好喝，一定要認真推一個\n太厲害了這甜湯\n\n餐廳座位還算寬敞，過節啊家庭聚餐都很適合來，附近巷子路邊都有停車格可以停。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jackson Tsai",
+        "uri": "https://www.google.com/maps/contrib/102655678321667574234/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL3ve7TH-97GqFbz62op4222Id8ltHtxnMUHvPv63VAWZFqTg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2019-10-26T14:29:02.789600Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNBcnZHOTNnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNBcnZHOTNnRRAB!2m1!1s0x3442ab5db9fe2407:0x2cfe27cd0cec3b39"
+    },
+    {
+      "name": "places/ChIJByT-uV2rQjQROTvsDM0n_iw/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xelNVeFBVSHBDVFZSQ1VIaElabFpVYkRCWGRHYxAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 1,
+      "text": {
+        "text": "這會不會太離譜啊！\n$125的便當\n肉是照片的一半不到\n然後還有兩塊都是骨頭！\n欺負點外送的嗎！！！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這會不會太離譜啊！\n$125的便當\n肉是照片的一半不到\n然後還有兩塊都是骨頭！\n欺負點外送的嗎！！！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "JJP",
+        "uri": "https://www.google.com/maps/contrib/110104859680173275065/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUbsQeMPSGGiQOum95Qe4p-hYony9aFNn8KSu2rfDeYHeYH_mc=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-07-29T04:28:06.741022492Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xelNVeFBVSHBDVFZSQ1VIaElabFpVYkRCWGRHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xelNVeFBVSHBDVFZSQ1VIaElabFpVYkRCWGRHYxAB!2m1!1s0x3442ab5db9fe2407:0x2cfe27cd0cec3b39"
+    },
+    {
+      "name": "places/ChIJByT-uV2rQjQROTvsDM0n_iw/reviews/ChZDSUhNMG9nS0VJQ0FnSURuby15elhBEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 2,
+      "text": {
+        "text": "價格親民，但是量本身就不多，另外加點最小份脆皮燒肉需要180元。如圖可得知，脆皮燒焦，這小盤真的不值180元。全部加起來，這是我吃過最空虛的290元⋯不會再訪。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "價格親民，但是量本身就不多，另外加點最小份脆皮燒肉需要180元。如圖可得知，脆皮燒焦，這小盤真的不值180元。全部加起來，這是我吃過最空虛的290元⋯不會再訪。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "MICHELIN ASIA",
+        "uri": "https://www.google.com/maps/contrib/105794309873235073716/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVtz-4dFdxQ2tmKsCJ3ijkg_kgCPPKKKnas7Dai-mMO1toIfe_q=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2024-10-09T11:10:04.161770Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURuby15elhBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURuby15elhBEAE!2m1!1s0x3442ab5db9fe2407:0x2cfe27cd0cec3b39"
+    },
+    {
+      "name": "places/ChIJByT-uV2rQjQROTvsDM0n_iw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGRVVFWnFka05LYUhNME1qZHhlRVJPZDJKdk1HYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 2,
+      "text": {
+        "text": "不好吃⋯⋯燒肉太鹹，配菜的油用得也不好，飯也是乾硬。\n\n看高分評論都是好幾年前，那時的餐廳定位看起來跟現在差很多，不知道這間店經歷了什麼，現在店裡有種蕭條的氣氛，餐點更是不推薦了。\n\n老闆服務親切友善，令人要留負評也有點不忍。多一顆星是給老闆的。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "不好吃⋯⋯燒肉太鹹，配菜的油用得也不好，飯也是乾硬。\n\n看高分評論都是好幾年前，那時的餐廳定位看起來跟現在差很多，不知道這間店經歷了什麼，現在店裡有種蕭條的氣氛，餐點更是不推薦了。\n\n老闆服務親切友善，令人要留負評也有點不忍。多一顆星是給老闆的。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Shih-Chi Chang",
+        "uri": "https://www.google.com/maps/contrib/109431400373738498705/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWV1L3pusKf5z5sJnr5Lpj4warUxU_6yXzVbradvdfg7l4Yvg7R8w=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-03T10:54:42.332602708Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGRVVFWnFka05LYUhNME1qZHhlRVJPZDJKdk1HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGRVVFWnFka05LYUhNME1qZHhlRVJPZDJKdk1HYxAB!2m1!1s0x3442ab5db9fe2407:0x2cfe27cd0cec3b39"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

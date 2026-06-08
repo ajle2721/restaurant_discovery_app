@@ -1,0 +1,133 @@
+{
+  "id": "ChIJtdMuivSuQjQR3DBRxR2paUw",
+  "types": [
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2858 1111",
+  "formattedAddress": "112台灣臺北市北投區關渡里知行路293巷9弄25號",
+  "location": {
+    "latitude": 25.1212311,
+    "longitude": 121.4668245
+  },
+  "rating": 4.6,
+  "websiteUri": "https://m.facebook.com/JIANGNUNG/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 722,
+  "displayName": {
+    "text": "醬弄食居",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJtdMuivSuQjQR3DBRxR2paUw/reviews/ChZDSUhNMG9nS0VJQ0FnSURQaHF1S0F3EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "位置在石牌跟唭哩岸站中間，店內座位不多，採自助掃二維碼點餐，人力也略顯不足。餐點的部分，份量都還算相當有誠意。點了生魚丼飯套餐，內建醋飯，搭小菜口味有點太重，有點可惜，生魚片份量不少而且新鮮，值得這個價位。算是可以一起去悠閒放鬆小酌的店家。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "位置在石牌跟唭哩岸站中間，店內座位不多，採自助掃二維碼點餐，人力也略顯不足。餐點的部分，份量都還算相當有誠意。點了生魚丼飯套餐，內建醋飯，搭小菜口味有點太重，有點可惜，生魚片份量不少而且新鮮，值得這個價位。算是可以一起去悠閒放鬆小酌的店家。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chunkai Huáng",
+        "uri": "https://www.google.com/maps/contrib/109997121560497861265/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJbONCeEEVBg2f-FrSkBmCebWD31DiHqUdHfMf9IG3OXq98eQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2024-12-01T15:36:58.995630Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURQaHF1S0F3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURQaHF1S0F3EAE!2m1!1s0x3442aef48a2ed3b5:0x4c69a91dc55130dc"
+    },
+    {
+      "name": "places/ChIJtdMuivSuQjQR3DBRxR2paUw/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvN3UzMFNREAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 3,
+      "text": {
+        "text": "午餐外送~\n蒲燒鯛魚丼 $110\n明太子雞腿肉串丼 $130\n雞腿肉串~調味不錯，肉不柴\n配菜要再加強，白飯過於溼軟",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "午餐外送~\n蒲燒鯛魚丼 $110\n明太子雞腿肉串丼 $130\n雞腿肉串~調味不錯，肉不柴\n配菜要再加強，白飯過於溼軟",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Sabrina",
+        "uri": "https://www.google.com/maps/contrib/116965675253302307148/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXMawSqteTARwKDa62nxgyw_fp2TqrYSH-P5rfr2KV7znARKKnz=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-05-07T04:57:08.788373Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvN3UzMFNREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvN3UzMFNREAE!2m1!1s0x3442aef48a2ed3b5:0x4c69a91dc55130dc"
+    },
+    {
+      "name": "places/ChIJtdMuivSuQjQR3DBRxR2paUw/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3X3FQOEh3EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "點了個人精緻套餐，飽到可以外帶，食物覺得平價好吃，多人來應該是更好的選擇",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點了個人精緻套餐，飽到可以外帶，食物覺得平價好吃，多人來應該是更好的選擇",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Skyword凱文",
+        "uri": "https://www.google.com/maps/contrib/101502782033221780987/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVln6glN2CN377xVzM2rTJYq_dBooonsW7rm34IrvjiuPWC-m9S=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-03-26T07:24:51.966766Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3X3FQOEh3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3X3FQOEh3EAE!2m1!1s0x3442aef48a2ed3b5:0x4c69a91dc55130dc"
+    },
+    {
+      "name": "places/ChIJtdMuivSuQjQR3DBRxR2paUw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCanNPSFJBEAE",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 4,
+      "text": {
+        "text": "4個女人點了6千多包含一瓶'三千盛 Kiritto45大吟釀'($1600)(忘記拍照)，吃超級飽！\n聖誕夜這家居酒居沒什麽客人，原本還擔心會不會踩雷，結果意外的好吃！\n店家的服務員真的很棒，真的很需要給這位妺子按個讚，熱情貼心的服務我們，很感謝。有機會一定再訪。\n海鮮鍋整鍋滿出來的海鮮看了就讓人驚艷，草蝦超新鮮，湯頭真的很鮮甜，只是生蚵與扇貝有一點腥味，但煮熟就還好。\n串燒類都還不錯，所以後面又追加了幾串。\n握壽司除了鮪魚肚帶筋有點咬不斷，其他都蠻鮮美。\n烤了條黃雞魚，可能是魚販沒有處理好，魚肚的位置腥味很重，所以肚子的位子就都不吃了。\n烤櫛瓜烤的不好。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "4個女人點了6千多包含一瓶'三千盛 Kiritto45大吟釀'($1600)(忘記拍照)，吃超級飽！\n聖誕夜這家居酒居沒什麽客人，原本還擔心會不會踩雷，結果意外的好吃！\n店家的服務員真的很棒，真的很需要給這位妺子按個讚，熱情貼心的服務我們，很感謝。有機會一定再訪。\n海鮮鍋整鍋滿出來的海鮮看了就讓人驚艷，草蝦超新鮮，湯頭真的很鮮甜，只是生蚵與扇貝有一點腥味，但煮熟就還好。\n串燒類都還不錯，所以後面又追加了幾串。\n握壽司除了鮪魚肚帶筋有點咬不斷，其他都蠻鮮美。\n烤了條黃雞魚，可能是魚販沒有處理好，魚肚的位置腥味很重，所以肚子的位子就都不吃了。\n烤櫛瓜烤的不好。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Satan Y",
+        "uri": "https://www.google.com/maps/contrib/106299496702049101202/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXaK8s8chpzzWpsR5OSbMvxmtwSIxMvxaeEn4GQIlGWp8IZRUDR=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2022-12-25T16:09:24.649797Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNCanNPSFJBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNCanNPSFJBEAE!2m1!1s0x3442aef48a2ed3b5:0x4c69a91dc55130dc"
+    },
+    {
+      "name": "places/ChIJtdMuivSuQjQR3DBRxR2paUw/reviews/ChdDSUhNMG9nS0VJQ0FnSURfdTRUZm1RRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "當地居民第二次內用🙋‍♀️\n品項都滿好吃，老闆娘加茶很勤，今天有招待甜點紅豆湯圓～\n很推牛五花蔥捲、孜然豬洋蔥串和明太子山藥",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "當地居民第二次內用🙋‍♀️\n品項都滿好吃，老闆娘加茶很勤，今天有招待甜點紅豆湯圓～\n很推牛五花蔥捲、孜然豬洋蔥串和明太子山藥",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "玥芝",
+        "uri": "https://www.google.com/maps/contrib/105388540947567690118/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJIS3tKyzDQissJc4LdoOS7qmQSsFwxhyGygaz69yKEdDg2FQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-01-27T11:36:13.255133Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfdTRUZm1RRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfdTRUZm1RRRAB!2m1!1s0x3442aef48a2ed3b5:0x4c69a91dc55130dc"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

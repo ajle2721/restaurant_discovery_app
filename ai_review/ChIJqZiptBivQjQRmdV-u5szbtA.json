@@ -1,0 +1,53 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "No menu for children (官方標記：不提供兒童餐)",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "No",
+        "evidence": "整體氛圍很好，大家都很安靜，若是有客人手機音量太大聲，店員也會貼心提醒，完全不影響其他客人。",
+        "confidence": 0.9
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "可以自在的看書閱讀，也有兒童書籍區",
+        "Good for children (官方標記：適合兒童)",
+        "No menu for children (官方標記：不提供兒童餐)",
+        "整體氛圍很好，大家都很安靜，若是有客人手機音量太大聲，店員也會貼心提醒，完全不影響其他客人。"
+    ],
+    "generated_summary": "Reeds Coffee & Bakery 雖然被標記為適合兒童，且店內設有兒童書籍區，但該店環境氛圍安靜，店員會提醒過大的音量，可能較不適合好動或吵鬧的孩童。此外，店家明確標示不提供兒童餐，且評論中未提及兒童座椅、餐具或尿布台等設施，建議家長前往前評估孩童的安靜程度。",
+    "card_summary": ""
+}

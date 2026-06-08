@@ -1,0 +1,132 @@
+{
+  "id": "ChIJy-wfvAmpQjQRUizTD5r4PDg",
+  "types": [
+    "italian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 932 579 080",
+  "formattedAddress": "108台灣臺北市萬華區西門里內江街5號",
+  "location": {
+    "latitude": 25.0416118,
+    "longitude": 121.50675880000001
+  },
+  "rating": 4.4,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 203,
+  "displayName": {
+    "text": "Go義式西門店(紅樓)",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJy-wfvAmpQjQRUizTD5r4PDg/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WU1kxUTBiVGh3TVROSFlXbzBhMnhmU0VoNGNtYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "沒想到能夠花150內吃到焗烤，份量對女生來說很足，焗烤是那種會有點牽絲的！雖然是義式料理，但是不會很膩，而且料理環境收拾得很乾淨~",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "沒想到能夠花150內吃到焗烤，份量對女生來說很足，焗烤是那種會有點牽絲的！雖然是義式料理，但是不會很膩，而且料理環境收拾得很乾淨~",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "鄒家順",
+        "uri": "https://www.google.com/maps/contrib/112911593684853894353/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXezkMGLKkD30LDsztxCUpabt10AFXWEf4bbm5u_xSZmA9YOkgq=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-08-22T06:46:51.047680734Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WU1kxUTBiVGh3TVROSFlXbzBhMnhmU0VoNGNtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WU1kxUTBiVGh3TVROSFlXbzBhMnhmU0VoNGNtYxAB!2m1!1s0x3442a909bc1feccb:0x383cf89a0fd32c52"
+    },
+    {
+      "name": "places/ChIJy-wfvAmpQjQRUizTD5r4PDg/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRaWItekZBEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "上次經過看到有南瓜味就很好奇\n這次專門點來吃\n南瓜醬調的剛剛好，不會太濃\n百元平價美食，更方便的是他可以line pay跟街口\n下次會想點蒜香清炒試試👍👍👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "上次經過看到有南瓜味就很好奇\n這次專門點來吃\n南瓜醬調的剛剛好，不會太濃\n百元平價美食，更方便的是他可以line pay跟街口\n下次會想點蒜香清炒試試👍👍👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳雅雯",
+        "uri": "https://www.google.com/maps/contrib/109846619589252025924/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLADUDSImWojOInUmgaQAiN-mOuij63ecVYaBRU7eqlPLuDjA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-03-05T10:31:39.900023Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRaWItekZBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRaWItekZBEAE!2m1!1s0x3442a909bc1feccb:0x383cf89a0fd32c52"
+    },
+    {
+      "name": "places/ChIJy-wfvAmpQjQRUizTD5r4PDg/reviews/ChZDSUhNMG9nS0VJQ0FnSURGLXJqRlZnEAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 4,
+      "text": {
+        "text": "100塊（加大+20）的價格是給想吃到新鮮食材的學生族一個填飽肚子很好的選項\n但麵有點煮過頭了捲都捲不起來\n除此之外 醬的乳化剛剛好可以附在麵上\n料以這個價格來說也算多 好棒\n然後對不起老闆娘下次我講話會清楚一點\n白醬不小心變成白酒了:D",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "100塊（加大+20）的價格是給想吃到新鮮食材的學生族一個填飽肚子很好的選項\n但麵有點煮過頭了捲都捲不起來\n除此之外 醬的乳化剛剛好可以附在麵上\n料以這個價格來說也算多 好棒\n然後對不起老闆娘下次我講話會清楚一點\n白醬不小心變成白酒了:D",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張紘圖",
+        "uri": "https://www.google.com/maps/contrib/116769063321198978690/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWwbGbMYVw-piEtRfEY-BLK-XwHNt1OgOZXKNurwN9xFlTmZhQP=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2023-11-06T09:39:28.877699Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURGLXJqRlZnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURGLXJqRlZnEAE!2m1!1s0x3442a909bc1feccb:0x383cf89a0fd32c52"
+    },
+    {
+      "name": "places/ChIJy-wfvAmpQjQRUizTD5r4PDg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmX01hZEJBEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "2024.11.20\n2024.12.26\n\n第一次來選我最喜歡的清炒，口味蠻清淡的真的是清炒。\n第二次選青醬，也是很清淡的風格。\n吃完覺得好健康的感覺，價格應該台北市找不到比他更便宜的了。\n一百多塊覺得還可以吧。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2024.11.20\n2024.12.26\n\n第一次來選我最喜歡的清炒，口味蠻清淡的真的是清炒。\n第二次選青醬，也是很清淡的風格。\n吃完覺得好健康的感覺，價格應該台北市找不到比他更便宜的了。\n一百多塊覺得還可以吧。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Bin",
+        "uri": "https://www.google.com/maps/contrib/111524679313123690532/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUXPnDiAB2GpqT1PYCzFBPTIzDhXN1-qoq_lOhMtAvyInH8EpNYBw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2024-12-27T07:04:13.092300Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmX01hZEJBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmX01hZEJBEAE!2m1!1s0x3442a909bc1feccb:0x383cf89a0fd32c52"
+    },
+    {
+      "name": "places/ChIJy-wfvAmpQjQRUizTD5r4PDg/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzeUt1T1VREAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "南瓜醬很濃郁，料也滿豐富，以平價義大利麵來說相當不錯。\n\n缺點是內用的話位置是戶外，風吹會有點涼。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "南瓜醬很濃郁，料也滿豐富，以平價義大利麵來說相當不錯。\n\n缺點是內用的話位置是戶外，風吹會有點涼。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Camille Chang",
+        "uri": "https://www.google.com/maps/contrib/100962928327801247500/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIBt7zHgAOTf4L0Eh-oa-JcPjL0vI8LihvkvbDdj1ch1BZ2lyZa=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2024-11-02T09:31:21.395560Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMzeUt1T1VREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzeUt1T1VREAE!2m1!1s0x3442a909bc1feccb:0x383cf89a0fd32c52"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

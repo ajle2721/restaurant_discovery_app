@@ -1,0 +1,134 @@
+{
+  "id": "ChIJt9SF166pQjQRNsm7WmAS218",
+  "types": [
+    "breakfast_restaurant",
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2370 2022",
+  "formattedAddress": "103台灣臺北市大同區民權西路238號",
+  "location": {
+    "latitude": 25.0627681,
+    "longitude": 121.51289399999999
+  },
+  "rating": 4.4,
+  "websiteUri": "https://www.facebook.com/youzibreakfast/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 171,
+  "displayName": {
+    "text": "柚子早餐屋（原西門町柚子早餐屋）",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJt9SF166pQjQRNsm7WmAS218/reviews/Ci9DQUlRQUNvZENodHljRjlvT210T1ZEWkJRVGQwTlZCUE0wZGFZa3RRY1ZKdlExRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "餐點一般，點 鮪魚蛋餅40、宮保雞丁加蛋70、豆漿20、冬瓜茶20。餐點沒有驚艷感。就是一般早餐店。沒有提供廁所。用完餐要自己收拾。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點一般，點 鮪魚蛋餅40、宮保雞丁加蛋70、豆漿20、冬瓜茶20。餐點沒有驚艷感。就是一般早餐店。沒有提供廁所。用完餐要自己收拾。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yan Pei hsun",
+        "uri": "https://www.google.com/maps/contrib/117653455862043575159/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJs7Dm0hSSx_NqCr5MJQpdLpcqlk1PnIGum_bA06VK-umQ-KO4j=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-23T01:17:39.027564369Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210T1ZEWkJRVGQwTlZCUE0wZGFZa3RRY1ZKdlExRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210T1ZEWkJRVGQwTlZCUE0wZGFZa3RRY1ZKdlExRRAB!2m1!1s0x3442a9aed785d4b7:0x5fdb12605abbc936"
+    },
+    {
+      "name": "places/ChIJt9SF166pQjQRNsm7WmAS218/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRdTRuS0ZnEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 3,
+      "text": {
+        "text": "想說再給店家一次機會，今天還是讓我失望了⋯⋯。炸物的油是不是該更換了？薯條的油撓味蠻重的，番茄醬的味道也怪怪的，還有那個炸小肉塊，原來是熱狗變小小塊去炸的，蛋餅更是單薄無感，蛋餅旁邊的醬油膏也不優，也沒有其它醬料可配，整體的用餐感覺並不好。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "想說再給店家一次機會，今天還是讓我失望了⋯⋯。炸物的油是不是該更換了？薯條的油撓味蠻重的，番茄醬的味道也怪怪的，還有那個炸小肉塊，原來是熱狗變小小塊去炸的，蛋餅更是單薄無感，蛋餅旁邊的醬油膏也不優，也沒有其它醬料可配，整體的用餐感覺並不好。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "逗溜溜（逗溜溜）",
+        "uri": "https://www.google.com/maps/contrib/115365258265189536181/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLP_xw7rJHwt4id_in0mxVHq8gtzrygCaXmCX7kTcQcsmTjljx8=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-03-11T07:38:45.515842Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRdTRuS0ZnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRdTRuS0ZnEAE!2m1!1s0x3442a9aed785d4b7:0x5fdb12605abbc936"
+    },
+    {
+      "name": "places/ChIJt9SF166pQjQRNsm7WmAS218/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzbF83U2lnRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 3,
+      "text": {
+        "text": "豆芽豬排蛋蔥餅$75、豆漿$20\n\n蔥餅沒有厚度是薄的，就是比較厚的蛋餅皮，吃起來有Q度，蔥也很少\n豬排沒有厚度完全就是里肌薄片，搞不懂里肌就里肌為什麼要叫做豬排讓人對厚度有期待然後又失望，\n這實在是一個充滿誤導的品項，別人家就不會有這種問題\n豆芽量少也炒得太熟沒有脆度了，以整體內容物與售價來說，不會再點這個\n\n不過煎的蠻不錯的，完全不會油，也沒有焦，而且醬油膏是好吃的\n\n豆漿倒是不錯，沒有焦香味，濃度表現還不錯\n\n外面聞起來油煙很重還一直在猶豫要不要內用，不過幸好裡面沒什麼油煙，環境是舒服的",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "豆芽豬排蛋蔥餅$75、豆漿$20\n\n蔥餅沒有厚度是薄的，就是比較厚的蛋餅皮，吃起來有Q度，蔥也很少\n豬排沒有厚度完全就是里肌薄片，搞不懂里肌就里肌為什麼要叫做豬排讓人對厚度有期待然後又失望，\n這實在是一個充滿誤導的品項，別人家就不會有這種問題\n豆芽量少也炒得太熟沒有脆度了，以整體內容物與售價來說，不會再點這個\n\n不過煎的蠻不錯的，完全不會油，也沒有焦，而且醬油膏是好吃的\n\n豆漿倒是不錯，沒有焦香味，濃度表現還不錯\n\n外面聞起來油煙很重還一直在猶豫要不要內用，不過幸好裡面沒什麼油煙，環境是舒服的",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "chilli",
+        "uri": "https://www.google.com/maps/contrib/103697274253674051553/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX2WmIFQf6iiKQ3cY_Ek5s8k-3lxTBJRYSVx6qBiqaQvM0eMLdPnw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2024-11-10T02:42:18.847894Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzbF83U2lnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzbF83U2lnRRAB!2m1!1s0x3442a9aed785d4b7:0x5fdb12605abbc936"
+    },
+    {
+      "name": "places/ChIJt9SF166pQjQRNsm7WmAS218/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pORVpVTlllRnA1V21ScGFFTTFlVEV4YjNGcVZrRRAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 5,
+      "text": {
+        "text": "這幾天都有去光顧早餐店，連續幾天了老闆老闆娘應該有認得出來我是觀光客😂😂東西挺好吃的，尤其是蛋餅還有奶茶😊已經成了回頭客👍👍👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這幾天都有去光顧早餐店，連續幾天了老闆老闆娘應該有認得出來我是觀光客😂😂東西挺好吃的，尤其是蛋餅還有奶茶😊已經成了回頭客👍👍👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "CHAN",
+        "uri": "https://www.google.com/maps/contrib/112418298753389479091/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJFupR6thfl52Wr-_54ruk3cWP6ntFSNc7GQ-1ggqXSdsKu3w=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-08-09T17:13:00.612762833Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pORVpVTlllRnA1V21ScGFFTTFlVEV4YjNGcVZrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pORVpVTlllRnA1V21ScGFFTTFlVEV4YjNGcVZrRRAB!2m1!1s0x3442a9aed785d4b7:0x5fdb12605abbc936"
+    },
+    {
+      "name": "places/ChIJt9SF166pQjQRNsm7WmAS218/reviews/ChZDSUhNMG9nS0VJQ0FnSURCOElLYkJBEAE",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 5,
+      "text": {
+        "text": "麵包很酥（請老闆烤的），有生菜喜歡\n嗚嗚嗚嗚很感動，不是烤那種半生不熟不焦的麵包😭😭\n蘿蔔糕很讚，超級久沒吃到這種用心煎的蘿蔔糕了，真的外面酥酥脆脆的，裡面是軟的，而且不會很油，本體的味道也還行\n整體來說真的非常喜歡💕\n意外找到一間好吃的早餐店\n環境乾淨明亮，從內到外都是，店內沒有什麼油煙還不錯，餐點用畢採自助回收。\n真的很滿意😭 老闆也不會過度熱情\n剛剛好的社交距離 超級喜歡！！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "麵包很酥（請老闆烤的），有生菜喜歡\n嗚嗚嗚嗚很感動，不是烤那種半生不熟不焦的麵包😭😭\n蘿蔔糕很讚，超級久沒吃到這種用心煎的蘿蔔糕了，真的外面酥酥脆脆的，裡面是軟的，而且不會很油，本體的味道也還行\n整體來說真的非常喜歡💕\n意外找到一間好吃的早餐店\n環境乾淨明亮，從內到外都是，店內沒有什麼油煙還不錯，餐點用畢採自助回收。\n真的很滿意😭 老闆也不會過度熱情\n剛剛好的社交距離 超級喜歡！！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "許多",
+        "uri": "https://www.google.com/maps/contrib/102514141957090318852/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUWbJMgInhQUItgplaB3EA4sZX7CBJbQ133AtyQNFHmy6AnOpunGA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2023-01-10T01:51:44.202084Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURCOElLYkJBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURCOElLYkJBEAE!2m1!1s0x3442a9aed785d4b7:0x5fdb12605abbc936"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

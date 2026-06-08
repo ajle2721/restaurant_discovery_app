@@ -1,0 +1,131 @@
+{
+  "id": "ChIJy8IZTV2tQjQRGUgoyrd-7Kk",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2627 1122",
+  "formattedAddress": "114台灣臺北市內湖區紫陽里文德路210巷30弄45號1樓",
+  "location": {
+    "latitude": 25.076751599999998,
+    "longitude": 121.5851796
+  },
+  "rating": 4.6,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 78,
+  "displayName": {
+    "text": "Bear Brunch(熊熊早午餐)",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJy8IZTV2tQjQRGUgoyrd-7Kk/reviews/ChZDSUhNMG9nS0VJQ0FnSURleFozdWRnEAE",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 5,
+      "text": {
+        "text": "回訪多次\n\n東西新鮮好吃、環境乾淨明亮、店員態度親切，\n價格平實且沒有傳統早餐店的油煙味，\n雖是小店仍能感受到店家用心。\n\n*推芙蓉鮪魚蛋，一定要加辣！\n\n祝店家生意興隆～～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "回訪多次\n\n東西新鮮好吃、環境乾淨明亮、店員態度親切，\n價格平實且沒有傳統早餐店的油煙味，\n雖是小店仍能感受到店家用心。\n\n*推芙蓉鮪魚蛋，一定要加辣！\n\n祝店家生意興隆～～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "JS. Song",
+        "uri": "https://www.google.com/maps/contrib/101638001134501206878/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUZI_kcyFnZxVRlCjCn8zz5jOBWtuXq0mgIUJ51saY2TFaoRnQkIQ=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2023-02-11T04:52:46.785764Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURleFozdWRnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURleFozdWRnEAE!2m1!1s0x3442ad5d4d19c2cb:0xa9ec7eb7ca284819"
+    },
+    {
+      "name": "places/ChIJy8IZTV2tQjQRGUgoyrd-7Kk/reviews/ChZDSUhNMG9nS0VJQ0FnSURaZzhEZE9nEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 2,
+      "text": {
+        "text": "8/24更新：\n吃過很多次，這回不知道是不是換了一批店員的關係，\n\n今天點了杯蛋餅三明治以及燻雞沙拉，隔壁比我晚來的客人餐都上了，而最不需要煎炒的沙拉遲遲沒上 。\n去詢問了之後，根本還沒做。其實沒做就沒做，說一聲沒關係。讓人不舒服的是沒做了，還講一些無關緊要。感覺很差！\n以前櫃檯男員工會確認是否已全出餐。\n\n======\n\n早餐好食，店員也很親切，每週末都要來😂😆",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "8/24更新：\n吃過很多次，這回不知道是不是換了一批店員的關係，\n\n今天點了杯蛋餅三明治以及燻雞沙拉，隔壁比我晚來的客人餐都上了，而最不需要煎炒的沙拉遲遲沒上 。\n去詢問了之後，根本還沒做。其實沒做就沒做，說一聲沒關係。讓人不舒服的是沒做了，還講一些無關緊要。感覺很差！\n以前櫃檯男員工會確認是否已全出餐。\n\n======\n\n早餐好食，店員也很親切，每週末都要來😂😆",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hero Hippo",
+        "uri": "https://www.google.com/maps/contrib/113740997625206268675/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLsWFVuMmsZz2_VAYoF2qbXvy7yF-CVLphTGGil9Ms6Jt75Vg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2024-08-24T01:09:36.126199Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURaZzhEZE9nEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURaZzhEZE9nEAE!2m1!1s0x3442ad5d4d19c2cb:0xa9ec7eb7ca284819"
+    },
+    {
+      "name": "places/ChIJy8IZTV2tQjQRGUgoyrd-7Kk/reviews/ChdDSUhNMG9nS0VJQ0FnSURUMS1QM293RRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "一進門就受到有元氣招呼與服務 開啟一天的好心情\n鮪魚蛋餅是爆量的那種 搭配美乃滋的滑潤口感 沾些許醬油膏絕頂搭配\n牛肉蛋堡的滋味有點像是大麥克的爽感不會過量 口味也很順口生菜刨絲量也不少 讓牛肉排與起司的罪惡感得到平衡👍🏼\n環境乾淨 氣氛很舒服！推一個",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一進門就受到有元氣招呼與服務 開啟一天的好心情\n鮪魚蛋餅是爆量的那種 搭配美乃滋的滑潤口感 沾些許醬油膏絕頂搭配\n牛肉蛋堡的滋味有點像是大麥克的爽感不會過量 口味也很順口生菜刨絲量也不少 讓牛肉排與起司的罪惡感得到平衡👍🏼\n環境乾淨 氣氛很舒服！推一個",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Oran Jun",
+        "uri": "https://www.google.com/maps/contrib/109859945589577326736/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVvwBpmU3v2HB1FCTW9q4x_s1Knw_EGQ15s9MZaH9ALJYmD3kZH=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2024-05-29T03:58:27.154877Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURUMS1QM293RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURUMS1QM293RRAB!2m1!1s0x3442ad5d4d19c2cb:0xa9ec7eb7ca284819"
+    },
+    {
+      "name": "places/ChIJy8IZTV2tQjQRGUgoyrd-7Kk/reviews/ChdDSUhNMG9nS0VJQ0FnSUR0ckphVGpnRRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "超級舒適的用餐環境，不像一般早餐店有油煙味，還會外帶油煙味回家⋯⋯。搭配時蔬，不油膩，配上培根鹹食剛剛好，真的好吃。客人用餐完畢還酒精擦拭消毒，根本我的愛店呀。非常推薦！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "超級舒適的用餐環境，不像一般早餐店有油煙味，還會外帶油煙味回家⋯⋯。搭配時蔬，不油膩，配上培根鹹食剛剛好，真的好吃。客人用餐完畢還酒精擦拭消毒，根本我的愛店呀。非常推薦！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃ABBY",
+        "uri": "https://www.google.com/maps/contrib/114762166476810307841/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIN2nD0apkmVZKE9k08zo8b5_4Ra3vLcF3LNfK9sD_LSjXtjw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2024-02-03T00:42:43.278598Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR0ckphVGpnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR0ckphVGpnRRAB!2m1!1s0x3442ad5d4d19c2cb:0xa9ec7eb7ca284819"
+    },
+    {
+      "name": "places/ChIJy8IZTV2tQjQRGUgoyrd-7Kk/reviews/ChdDSUhNMG9nS0VJQ0FnSURWc05IRF93RRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "餐點口味都不錯，不會像有的早餐店套餐裡有幾項很敷衍，鮪魚是我喜歡有拌美乃滋那種，蔬菜調味有點偏淡，今天印象最深刻是重焙拿鐵真的咖啡有夠濃😂還會再來試試其他餐點口味",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點口味都不錯，不會像有的早餐店套餐裡有幾項很敷衍，鮪魚是我喜歡有拌美乃滋那種，蔬菜調味有點偏淡，今天印象最深刻是重焙拿鐵真的咖啡有夠濃😂還會再來試試其他餐點口味",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Weiann Chang",
+        "uri": "https://www.google.com/maps/contrib/102307776837361177892/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWYfM0Cs5R52HpxyZY-FgWFLJVNIefJQ6ci7MrsxqkiUpuliq5wKQ=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2023-12-10T13:22:28.552083Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURWc05IRF93RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURWc05IRF93RRAB!2m1!1s0x3442ad5d4d19c2cb:0xa9ec7eb7ca284819"
+    }
+  ],
+  "goodForChildren": true
+}

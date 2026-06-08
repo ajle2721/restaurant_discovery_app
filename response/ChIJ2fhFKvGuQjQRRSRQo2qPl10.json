@@ -1,0 +1,132 @@
+{
+  "id": "ChIJ2fhFKvGuQjQRRSRQo2qPl10",
+  "types": [
+    "italian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2823 1126",
+  "formattedAddress": "112台灣臺北市北投區立農里立農街一段269號",
+  "location": {
+    "latitude": 25.1195159,
+    "longitude": 121.50572899999997
+  },
+  "rating": 4.1,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 309,
+  "displayName": {
+    "text": "義麵小舖",
+    "languageCode": "ja"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ2fhFKvGuQjQRRSRQo2qPl10/reviews/ChdDSUhNMG9nS0VJQ0FnSUNNdjZMWm1nRRAB",
+      "relativePublishTimeDescription": "6 年前",
+      "rating": 3,
+      "text": {
+        "text": "招牌綠綠 $110\n茄汁雞肉麵 $79\n青醬雞肉麵 $79\n奶油香腸麵 $79\n\n招牌綠綠味道滿特別的，似乎加了XO醬，一般義大利麵可能不會看到的口味。\n\n義大利麵吃起來其實還滿普通的，不過價錢也不貴，而且加麵不加價，可接受。\n\n吃了一次，沒有非常讓人想念到想再回去吃😂",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "招牌綠綠 $110\n茄汁雞肉麵 $79\n青醬雞肉麵 $79\n奶油香腸麵 $79\n\n招牌綠綠味道滿特別的，似乎加了XO醬，一般義大利麵可能不會看到的口味。\n\n義大利麵吃起來其實還滿普通的，不過價錢也不貴，而且加麵不加價，可接受。\n\n吃了一次，沒有非常讓人想念到想再回去吃😂",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "損友食記",
+        "uri": "https://www.google.com/maps/contrib/107622351180275157991/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU4tlschYjOkXEgbXT32oK9ABJQUgWmS9N3Mv88gOi3opNd6UI=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2019-12-11T17:03:58.359755Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNNdjZMWm1nRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNNdjZMWm1nRRAB!2m1!1s0x3442aef12a45f8d9:0x5d978f6aa3502445"
+    },
+    {
+      "name": "places/ChIJ2fhFKvGuQjQRRSRQo2qPl10/reviews/ChdDSUhNMG9nS0VJQ0FnSURSaGQ3WDR3RRAB",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 4,
+      "text": {
+        "text": "麵和飯大份量和小份量價格相同，大份麵的麵量略少，焗飯多30元飯量還可以，青醬和白醬味道都不錯，單點價格還可以，有附免費的紅茶，cp 值中等。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "麵和飯大份量和小份量價格相同，大份麵的麵量略少，焗飯多30元飯量還可以，青醬和白醬味道都不錯，單點價格還可以，有附免費的紅茶，cp 值中等。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "albino Chang",
+        "uri": "https://www.google.com/maps/contrib/112602895853272051440/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJwrU_XFXEDYiJldkkbzjoMMOPsqiCcepWWtM-VTPOSV-e5Pg=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2023-04-29T14:42:38.510722Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURSaGQ3WDR3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURSaGQ3WDR3RRAB!2m1!1s0x3442aef12a45f8d9:0x5d978f6aa3502445"
+    },
+    {
+      "name": "places/ChIJ2fhFKvGuQjQRRSRQo2qPl10/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtcHNYUzBBRRAB",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 5,
+      "text": {
+        "text": "他的招牌綠綠義大利麵有點辣味道不錯是混XO醬+青醬，平價的在地義大利麵，義大利麵跟醬蠻融合的～蛤蠣也很大顆又新鮮，品項種類也多～\n加麵不加價很推～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "他的招牌綠綠義大利麵有點辣味道不錯是混XO醬+青醬，平價的在地義大利麵，義大利麵跟醬蠻融合的～蛤蠣也很大顆又新鮮，品項種類也多～\n加麵不加價很推～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Mandy Hsu",
+        "uri": "https://www.google.com/maps/contrib/116839124325076290144/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX2WbhdkwNfh2hEcg5C248-g_EfBoNhCK0BjEUvH8zXaW5ZWVlw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2022-11-30T10:30:45.799771Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQtcHNYUzBBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQtcHNYUzBBRRAB!2m1!1s0x3442aef12a45f8d9:0x5d978f6aa3502445"
+    },
+    {
+      "name": "places/ChIJ2fhFKvGuQjQRRSRQo2qPl10/reviews/ChdDSUhNMG9nS0VJQ0FnSUNMbE1HQ2pBRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "我的老天！在台北吃義大利麵\n竟然可以有這麼平價跟驚人的份量\n可以來台中開店嗎\n推薦奶油白醬燉飯，裡頭有新鮮高麗菜和香菇，是大人和小孩會非常喜歡的口味，另外食量小的話，加大的份量其實可以兩個人一起吃。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "我的老天！在台北吃義大利麵\n竟然可以有這麼平價跟驚人的份量\n可以來台中開店嗎\n推薦奶油白醬燉飯，裡頭有新鮮高麗菜和香菇，是大人和小孩會非常喜歡的口味，另外食量小的話，加大的份量其實可以兩個人一起吃。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chun Hwey",
+        "uri": "https://www.google.com/maps/contrib/115364367246474944429/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI_l41ZT-qMTRHz4HjgCLudPFXlugUx04SiC-gt-v2RZsKLTg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2024-06-15T15:10:20.827958Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNMbE1HQ2pBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNMbE1HQ2pBRRAB!2m1!1s0x3442aef12a45f8d9:0x5d978f6aa3502445"
+    },
+    {
+      "name": "places/ChIJ2fhFKvGuQjQRRSRQo2qPl10/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ1cWV6bzd3RRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "平價的義大利麵\n已經吃了有五次以上了\n有無限喝的茉莉綠茶\n奶油蔬菜湯真的很好喝\n\n這樣一餐135元搞定",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "平價的義大利麵\n已經吃了有五次以上了\n有無限喝的茉莉綠茶\n奶油蔬菜湯真的很好喝\n\n這樣一餐135元搞定",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "瘋白金香菇",
+        "uri": "https://www.google.com/maps/contrib/103887704167854015281/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXU06bAHIEic-7q-tr6D0mNpHr8QBOuu5jbWOXGf_tDxfjyhvQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2023-10-26T12:39:09.427113Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ1cWV6bzd3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ1cWV6bzd3RRAB!2m1!1s0x3442aef12a45f8d9:0x5d978f6aa3502445"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

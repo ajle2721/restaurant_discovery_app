@@ -1,0 +1,132 @@
+{
+  "id": "ChIJqWPf-t2rQjQRN-ZaWEfDYPI",
+  "types": [
+    "breakfast_restaurant",
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2758 6337",
+  "formattedAddress": "110台灣臺北市信義區景聯里吳興街3號",
+  "location": {
+    "latitude": 25.031942,
+    "longitude": 121.5591307
+  },
+  "rating": 4,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 271,
+  "displayName": {
+    "text": "早安美芝城信義吳興概念店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJqWPf-t2rQjQRN-ZaWEfDYPI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OWk1IZHlaME5ZV0hWVlNVRkZWVXRZVmtGZlZsRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "吃他們家的蛋沙拉要有心理準備可能會吃到蛋殼\n朝食吐司配半熟蛋真的好好吃\n但種類很少\n現做餐點建議先用你訂點好\n不然挺慢的\n溫紅茶還行\n鮮奶紅太甜又很淡\n昨天吸管給成筷子\n今天沒附吸管\n還有遇過紅茶給成奶茶\n顧客自己要確認一下餐點\n這邊出錯率蠻高的\n朝食吐司的瑞士草莓不推\n之前吃都覺得朝食吐司好吃\n但只抹果醬的厚片59元真的cp值很低\n果醬也沒有很好吃有點死甜\n麵包沒有外酥內軟的口感\n也沒有奶油香\n其他水果配堅果的麵包都蠻好吃的\n也是其他早餐店比較吃不到的\n今天去取餐先是說我還要等20分鐘\n後來大概5分鐘就給我了\n結果吃到麵包有烤過\n但完全是冷的\n又冷又乾",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "吃他們家的蛋沙拉要有心理準備可能會吃到蛋殼\n朝食吐司配半熟蛋真的好好吃\n但種類很少\n現做餐點建議先用你訂點好\n不然挺慢的\n溫紅茶還行\n鮮奶紅太甜又很淡\n昨天吸管給成筷子\n今天沒附吸管\n還有遇過紅茶給成奶茶\n顧客自己要確認一下餐點\n這邊出錯率蠻高的\n朝食吐司的瑞士草莓不推\n之前吃都覺得朝食吐司好吃\n但只抹果醬的厚片59元真的cp值很低\n果醬也沒有很好吃有點死甜\n麵包沒有外酥內軟的口感\n也沒有奶油香\n其他水果配堅果的麵包都蠻好吃的\n也是其他早餐店比較吃不到的\n今天去取餐先是說我還要等20分鐘\n後來大概5分鐘就給我了\n結果吃到麵包有烤過\n但完全是冷的\n又冷又乾",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Joy",
+        "uri": "https://www.google.com/maps/contrib/107491509648081393145/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKq6D_z6PoHeQG3QfCtwOqdFz8_o-siowNbxePnXIDTIGRuDQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-25T01:40:49.802596586Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OWk1IZHlaME5ZV0hWVlNVRkZWVXRZVmtGZlZsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OWk1IZHlaME5ZV0hWVlNVRkZWVXRZVmtGZlZsRRAB!2m1!1s0x3442abddfadf63a9:0xf260c347585ae637"
+    },
+    {
+      "name": "places/ChIJqWPf-t2rQjQRN-ZaWEfDYPI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkRE9XZHBibWM1ZVY5cVF6SnhNWEpoV0dnd2RIYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "鮮奶茶茶味稍微偏重一些，鮮奶的比例如果能再多一點會更順口；起司蛋和以前相比少了生菜，有點可惜。不過服務態度親切、出餐速度快，整體用餐感受還是不錯的。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "鮮奶茶茶味稍微偏重一些，鮮奶的比例如果能再多一點會更順口；起司蛋和以前相比少了生菜，有點可惜。不過服務態度親切、出餐速度快，整體用餐感受還是不錯的。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "selina kaku",
+        "uri": "https://www.google.com/maps/contrib/115939969621063835217/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU10J5r_Bug3jVfioXWVam7sTz1rxVV0Xi-JDGwm9j9mI4YIXbQ=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-03T01:39:48.436925255Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkRE9XZHBibWM1ZVY5cVF6SnhNWEpoV0dnd2RIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkRE9XZHBibWM1ZVY5cVF6SnhNWEpoV0dnd2RIYxAB!2m1!1s0x3442abddfadf63a9:0xf260c347585ae637"
+    },
+    {
+      "name": "places/ChIJqWPf-t2rQjQRN-ZaWEfDYPI/reviews/Ci9DQUlRQUNvZENodHljRjlvT201aVluaGFVMHBIVmxCVlpXOUJaRGRrUkdaTWJuYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "環境乾淨優雅，男店員服務親切迅速，聽到其他客人點餐想換烏龍麵條，他說口感會分離較不建議，聽起來就很專業",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境乾淨優雅，男店員服務親切迅速，聽到其他客人點餐想換烏龍麵條，他說口感會分離較不建議，聽起來就很專業",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "毛君祐",
+        "uri": "https://www.google.com/maps/contrib/100445619156587037740/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWrxaIQfrNl5Fynt8rB_vEwOX9GQlgtuz-yAuv9yJo_DQ9n0DU5=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-21T04:36:56.648163655Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201aVluaGFVMHBIVmxCVlpXOUJaRGRrUkdaTWJuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201aVluaGFVMHBIVmxCVlpXOUJaRGRrUkdaTWJuYxAB!2m1!1s0x3442abddfadf63a9:0xf260c347585ae637"
+    },
+    {
+      "name": "places/ChIJqWPf-t2rQjQRN-ZaWEfDYPI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKQmFFWkRRMDlhYzFKUlkzb3RjMU15YUU5ZldrRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "改裝後第一次來\n炒意麵醋味很夠也有鍋氣，而且用白鐵盤蠻用心，每個店員都親切有耐心，我是I人無法爽快的說出很好吃所以來這裡稱讚一番，讚讚讚",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "改裝後第一次來\n炒意麵醋味很夠也有鍋氣，而且用白鐵盤蠻用心，每個店員都親切有耐心，我是I人無法爽快的說出很好吃所以來這裡稱讚一番，讚讚讚",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "蔡亞佑",
+        "uri": "https://www.google.com/maps/contrib/103685114584286439787/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW61KM2QRgWk9qTwDBUCKmGudApfVVbwtL23j3za6E8O3_VT4-H=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-13T07:09:40.070371413Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKQmFFWkRRMDlhYzFKUlkzb3RjMU15YUU5ZldrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKQmFFWkRRMDlhYzFKUlkzb3RjMU15YUU5ZldrRRAB!2m1!1s0x3442abddfadf63a9:0xf260c347585ae637"
+    },
+    {
+      "name": "places/ChIJqWPf-t2rQjQRN-ZaWEfDYPI/reviews/ChZDSUhNMG9nS0VJQ0FnTURBN3RyTlBBEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "• 有內用座\n• 劃菜單後至櫃檯點餐付錢\n• 禮拜天11:00沒什麼客人，座位很好找\n• 3人消費約$250，吃得很飽（我們都小份量）\n•飲料大杯約500ml（如圖所示）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "• 有內用座\n• 劃菜單後至櫃檯點餐付錢\n• 禮拜天11:00沒什麼客人，座位很好找\n• 3人消費約$250，吃得很飽（我們都小份量）\n•飲料大杯約500ml（如圖所示）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "徐倫",
+        "uri": "https://www.google.com/maps/contrib/115221067178247910860/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJScq6v8NptvfY5PcZ3yoe2ZUPICrJ8_tkoz_60u_moqpGkUBc=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-02-09T05:06:39.670198Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBN3RyTlBBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBN3RyTlBBEAE!2m1!1s0x3442abddfadf63a9:0xf260c347585ae637"
+    }
+  ],
+  "goodForChildren": true
+}

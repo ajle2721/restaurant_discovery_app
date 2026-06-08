@@ -1,0 +1,132 @@
+{
+  "id": "ChIJT7RMuYWpQjQReKLqtP2lOuw",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2362 9734",
+  "formattedAddress": "106台灣臺北市大安區龍泉里泰順街2巷42號",
+  "location": {
+    "latitude": 25.025603,
+    "longitude": 121.529569
+  },
+  "rating": 4.3,
+  "websiteUri": "https://www.facebook.com/%E8%B2%93%E5%AD%A9%E5%9C%A8%E6%A5%B5%E7%B0%A1%E6%A5%B5%E7%B0%A1%E5%92%96%E5%95%A1%E9%A4%A8-271265149663167/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1158,
+  "displayName": {
+    "text": "極簡咖啡館",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJT7RMuYWpQjQReKLqtP2lOuw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WTFEzWnBjRzlrT0RKbk1sRkxibmwxUW5KYVFWRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "這隻貓個性溫和愛撒嬌差點就沉迷在其中搭配好吃的食物簡直就是在貓咪天堂。還有這隻橘貓躺在地上超可愛😺",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這隻貓個性溫和愛撒嬌差點就沉迷在其中搭配好吃的食物簡直就是在貓咪天堂。還有這隻橘貓躺在地上超可愛😺",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Wenchen Hsu",
+        "uri": "https://www.google.com/maps/contrib/113988079676205762517/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWFnczDJIn8Dn113KIBbY8xNYfX7sg3duOt_YCAR7DOc8Xvrm8=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-15T16:24:30.022449952Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WTFEzWnBjRzlrT0RKbk1sRkxibmwxUW5KYVFWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WTFEzWnBjRzlrT0RKbk1sRkxibmwxUW5KYVFWRRAB!2m1!1s0x3442a985b94cb44f:0xec3aa5fdb4eaa278"
+    },
+    {
+      "name": "places/ChIJT7RMuYWpQjQReKLqtP2lOuw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wcE9IaExUR05oUjI5dldsOUJXVUZCT1daT01FRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "剛進門時，這小傢伙就霸佔了我的位子。\n把牠趕下來後，以為牠會跑走，沒想到牠直接跳上桌，屁股對著我趴下來等摸摸。\n(彷彿在說：沒位子坐，那借桌子總行了吧？)\n看著牠這麼信任又親人的模樣，心都融化了。\n這裡總共有四隻貓咪在招呼大家，就知道這裡有多療癒了！🥰",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "剛進門時，這小傢伙就霸佔了我的位子。\n把牠趕下來後，以為牠會跑走，沒想到牠直接跳上桌，屁股對著我趴下來等摸摸。\n(彷彿在說：沒位子坐，那借桌子總行了吧？)\n看著牠這麼信任又親人的模樣，心都融化了。\n這裡總共有四隻貓咪在招呼大家，就知道這裡有多療癒了！🥰",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Mascot Fan",
+        "uri": "https://www.google.com/maps/contrib/107293995264975774104/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXrTWTrpx8TYJe0bt_uxteIzb4gPyV2PwBeTpcx77hZUuHSvNEM=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-14T14:44:26.183526475Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wcE9IaExUR05oUjI5dldsOUJXVUZCT1daT01FRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wcE9IaExUR05oUjI5dldsOUJXVUZCT1daT01FRRAB!2m1!1s0x3442a985b94cb44f:0xec3aa5fdb4eaa278"
+    },
+    {
+      "name": "places/ChIJT7RMuYWpQjQReKLqtP2lOuw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Kak5sRlVka1pLZFZoRWRtOUxWSFpRWVdOalNuYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "柑橘拿鐵，熱熱超級好喝，很別緻。貓貓都眼神迷濛，黃色貓貓最淡定最親人，任人撸、任人抱，沒想到大學時的夯店到現在幾乎都沒變，充滿回憶帶點點感傷。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "柑橘拿鐵，熱熱超級好喝，很別緻。貓貓都眼神迷濛，黃色貓貓最淡定最親人，任人撸、任人抱，沒想到大學時的夯店到現在幾乎都沒變，充滿回憶帶點點感傷。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "YC Lu",
+        "uri": "https://www.google.com/maps/contrib/104948680455800042255/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVNb2MTgQfWV__2Nyk9XgdzjgDLcVASnPzyhUIMrUDi1aLu12gD=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-26T15:34:29.388912194Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Kak5sRlVka1pLZFZoRWRtOUxWSFpRWVdOalNuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Kak5sRlVka1pLZFZoRWRtOUxWSFpRWVdOalNuYxAB!2m1!1s0x3442a985b94cb44f:0xec3aa5fdb4eaa278"
+    },
+    {
+      "name": "places/ChIJT7RMuYWpQjQReKLqtP2lOuw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SUmNsUnJSVzVQVUdscGVIaE5iVGRVYUhveVMxRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "好喜歡這裡，很安靜，貓咪也好親人🥰",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "好喜歡這裡，很安靜，貓咪也好親人🥰",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yuchen Huang",
+        "uri": "https://www.google.com/maps/contrib/106396961617471572339/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWAs01nlkG_zBT1hQWcI5HcqFI_qFbUjVWsp5MixypTdR1zFBhr=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-03-07T07:36:29.452631364Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SUmNsUnJSVzVQVUdscGVIaE5iVGRVYUhveVMxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SUmNsUnJSVzVQVUdscGVIaE5iVGRVYUhveVMxRRAB!2m1!1s0x3442a985b94cb44f:0xec3aa5fdb4eaa278"
+    },
+    {
+      "name": "places/ChIJT7RMuYWpQjQReKLqtP2lOuw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSd01IWXpZVFIzV1hGaFExTmFUakU1WVhGemFHYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "有貓就給讚吧\n黑咖啡就是普通，主要是被貓貓治癒了❤️\n白天安靜晚上比較吵。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "有貓就給讚吧\n黑咖啡就是普通，主要是被貓貓治癒了❤️\n白天安靜晚上比較吵。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "JUI-CHING YEH",
+        "uri": "https://www.google.com/maps/contrib/109774925570424993120/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUbE9PtLQjjQUI4P7xDOJMa6kJAucBS3Yf6DGX1BrGTUNNLgybG=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-15T19:55:01.288902379Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSd01IWXpZVFIzV1hGaFExTmFUakU1WVhGemFHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSd01IWXpZVFIzV1hGaFExTmFUakU1WVhGemFHYxAB!2m1!1s0x3442a985b94cb44f:0xec3aa5fdb4eaa278"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

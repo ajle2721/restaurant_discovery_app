@@ -1,0 +1,132 @@
+{
+  "id": "ChIJbdxVNwCrQjQR3S6nw6ih34w",
+  "types": [
+    "restaurant",
+    "brunch_restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2651 7528",
+  "formattedAddress": "115台灣臺北市南港區新富里富康街84號",
+  "location": {
+    "latitude": 25.052061499999997,
+    "longitude": 121.61692669999998
+  },
+  "rating": 4.6,
+  "websiteUri": "https://imenu.com.tw/kokoroFCP/branches",
+  "userRatingCount": 114,
+  "displayName": {
+    "text": "花心廚房(不定休)平日午晚餐營養餐盒與咖哩、假日全天早午餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJbdxVNwCrQjQR3S6nw6ih34w/reviews/Ci9DQUlRQUNvZENodHljRjlvT25JdGJ6SkNabE5wUW5KZlptVTNjV05EVGtkNU9HYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 3,
+      "text": {
+        "text": "陽春的小餐廳，但有廁所，內用環境也舒適，不過內用座位較少，若尖峰用餐時間容易沒位子，建議可以先訂位。尖峰時間會需要稍等餐點製作，如果趕時間的人可能先訂好餐點比較好。\n\n這次點了植物肉餐和泰式酸辣雞腿飯，植物肉稍微鹹了點，配菜有點少，但還滿清淡的，很適合清淡飲食的人。泰式酸辣雞腿還可以，雞腿滿嫩的，但有點小，整體份量比較少，吃完可能會有點空虛，如果是食量大的人可能會吃不飽。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "陽春的小餐廳，但有廁所，內用環境也舒適，不過內用座位較少，若尖峰用餐時間容易沒位子，建議可以先訂位。尖峰時間會需要稍等餐點製作，如果趕時間的人可能先訂好餐點比較好。\n\n這次點了植物肉餐和泰式酸辣雞腿飯，植物肉稍微鹹了點，配菜有點少，但還滿清淡的，很適合清淡飲食的人。泰式酸辣雞腿還可以，雞腿滿嫩的，但有點小，整體份量比較少，吃完可能會有點空虛，如果是食量大的人可能會吃不飽。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "小蛙Judy",
+        "uri": "https://www.google.com/maps/contrib/117286423995551138735/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7xGGrJ5ydWpuPFtEgbuQg7TLxfTlVBEXKpmbHJx4U1-UcRyU_=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-11T07:49:44.768021324Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25JdGJ6SkNabE5wUW5KZlptVTNjV05EVGtkNU9HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25JdGJ6SkNabE5wUW5KZlptVTNjV05EVGtkNU9HYxAB!2m1!1s0x3442ab003755dc6d:0x8cdfa1a8c3a72edd"
+    },
+    {
+      "name": "places/ChIJbdxVNwCrQjQR3S6nw6ih34w/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsMGJuaHpTa3RJWVd0WFZWYzNUa2xxVmpWYWQyYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點非常好吃\n難得吃到超級好吃的健康餐\n整盤掃光光\n服務人員態度親切熱情\n咖喱飯跟健康餐都好吃\n味增蔬菜湯也很好喝！\n下次還會再來常常吃的店！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點非常好吃\n難得吃到超級好吃的健康餐\n整盤掃光光\n服務人員態度親切熱情\n咖喱飯跟健康餐都好吃\n味增蔬菜湯也很好喝！\n下次還會再來常常吃的店！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "謝雅涵",
+        "uri": "https://www.google.com/maps/contrib/108292782215015700599/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKqnZ3WFm3AFXVPJjfjLnwkEyDZq6QsQicw23wn1BmUQj-1Wg=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-09-30T11:26:42.068202549Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsMGJuaHpTa3RJWVd0WFZWYzNUa2xxVmpWYWQyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsMGJuaHpTa3RJWVd0WFZWYzNUa2xxVmpWYWQyYxAB!2m1!1s0x3442ab003755dc6d:0x8cdfa1a8c3a72edd"
+    },
+    {
+      "name": "places/ChIJbdxVNwCrQjQR3S6nw6ih34w/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWcFNXUlNjVGRtU2s0MVdUVnRMVVEwY1ZsQ2ExRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 4,
+      "text": {
+        "text": "青醬雞胸：調味沒有很喜歡，雞胸本身有點鹹，又再加青醬就太重口味。配菜不錯，但高麗菜的醬汁偏酸酸甜甜的，不是很搭。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "青醬雞胸：調味沒有很喜歡，雞胸本身有點鹹，又再加青醬就太重口味。配菜不錯，但高麗菜的醬汁偏酸酸甜甜的，不是很搭。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Anna Chien",
+        "uri": "https://www.google.com/maps/contrib/117606731677487169719/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWHWEebCXnJ1IVfplj4u8TY6bml5DmuEg1R2ZE0UyMzmthpBmY3=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-08-13T04:59:23.749463595Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWcFNXUlNjVGRtU2s0MVdUVnRMVVEwY1ZsQ2ExRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWcFNXUlNjVGRtU2s0MVdUVnRMVVEwY1ZsQ2ExRRAB!2m1!1s0x3442ab003755dc6d:0x8cdfa1a8c3a72edd"
+    },
+    {
+      "name": "places/ChIJbdxVNwCrQjQR3S6nw6ih34w/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoSmN6bFpVVWRaYmxWelNGcHZNMVJuT1hOcWRsRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 2,
+      "text": {
+        "text": "西西里雞胸便當還選了肉增量120 供參考..\n吃完特地來看看評論\n怎麼別人的拍起來都很豐富😅😅😅",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "西西里雞胸便當還選了肉增量120 供參考..\n吃完特地來看看評論\n怎麼別人的拍起來都很豐富😅😅😅",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "廖珮珊",
+        "uri": "https://www.google.com/maps/contrib/107431425145853188414/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLeLwZAhehlL88eSVoXRvNwzBHuNN7TVSpBdiic45Mzu9OExw=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-10-02T04:18:49.168477205Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoSmN6bFpVVWRaYmxWelNGcHZNMVJuT1hOcWRsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoSmN6bFpVVWRaYmxWelNGcHZNMVJuT1hOcWRsRRAB!2m1!1s0x3442ab003755dc6d:0x8cdfa1a8c3a72edd"
+    },
+    {
+      "name": "places/ChIJbdxVNwCrQjQR3S6nw6ih34w/reviews/ChZDSUhNMG9nS0VJQ0FnSURQaWRLc0tnEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "非常棒的用餐體驗！✨\n店員相當親切有禮～😊\n餐點美味健康，特別推薦骰子牛！肉量雖然不算多，但是肉質軟嫩順口、沒有硬筋、很好入口，相當難得！！👍👍\n蔬菜味增湯料多味美～😋\n加價購的有機芭樂量雖然也不算多，但是甜中帶微酸得剛剛好，口感極佳，飯後很解膩～\n\n店內氣氛佳，設計美感十足，像極了咖啡廳的唯美餐飲店💗很開心這一帶新開了這種高質感的餐廳～一定會再光顧的！☺️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "非常棒的用餐體驗！✨\n店員相當親切有禮～😊\n餐點美味健康，特別推薦骰子牛！肉量雖然不算多，但是肉質軟嫩順口、沒有硬筋、很好入口，相當難得！！👍👍\n蔬菜味增湯料多味美～😋\n加價購的有機芭樂量雖然也不算多，但是甜中帶微酸得剛剛好，口感極佳，飯後很解膩～\n\n店內氣氛佳，設計美感十足，像極了咖啡廳的唯美餐飲店💗很開心這一帶新開了這種高質感的餐廳～一定會再光顧的！☺️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Alison",
+        "uri": "https://www.google.com/maps/contrib/116384964022546452264/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVxoDZqJ_LGEuvUD9qJZhvXyE65Mpat7jkX1tOgWt7Ab6PL0RoDRQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2024-12-03T12:57:55.142365Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURQaWRLc0tnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURQaWRLc0tnEAE!2m1!1s0x3442ab003755dc6d:0x8cdfa1a8c3a72edd"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

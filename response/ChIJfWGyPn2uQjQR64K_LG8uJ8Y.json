@@ -1,0 +1,136 @@
+{
+  "id": "ChIJfWGyPn2uQjQR64K_LG8uJ8Y",
+  "types": [
+    "italian_restaurant",
+    "western_restaurant",
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2872 9300",
+  "formattedAddress": "111台灣臺北市士林區天玉里天母北路60號",
+  "location": {
+    "latitude": 25.1216133,
+    "longitude": 121.52667239999998
+  },
+  "rating": 4.7,
+  "websiteUri": "http://www.snail-italy.com/",
+  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+  "userRatingCount": 3724,
+  "displayName": {
+    "text": "蝸牛義大利餐廳 天母店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJfWGyPn2uQjQR64K_LG8uJ8Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCdVJsb3dha1ZUT0dkWU1XdHdjM3BSTW14M1FWRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "這次已經是第三次來吃這家啦～\n價格雖然貴一點但很值得，CP值高😋\n\n有很多小插圖，畫的很可愛😍剛好是過年，用了新年的主題🧨\n\n平常不太喜歡吃生菜，但雞肉雪山凱撒沙拉，上面起司超多🤤配在一起吃超好吃😋\n\n服務態度超好，店員Leo觀察很敏銳，有兩次去吃都剛好遇到他，每次還沒開口，他就察覺到顧客的需求👍🏻真的很貼心～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這次已經是第三次來吃這家啦～\n價格雖然貴一點但很值得，CP值高😋\n\n有很多小插圖，畫的很可愛😍剛好是過年，用了新年的主題🧨\n\n平常不太喜歡吃生菜，但雞肉雪山凱撒沙拉，上面起司超多🤤配在一起吃超好吃😋\n\n服務態度超好，店員Leo觀察很敏銳，有兩次去吃都剛好遇到他，每次還沒開口，他就察覺到顧客的需求👍🏻真的很貼心～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "朱彩綺",
+        "uri": "https://www.google.com/maps/contrib/111554010653811686507/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKc2c7rvuMpYVQ1Z2rTVmKNsDhOWv-jAYFo_5tK3fP44kWxhw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-19T14:42:36.330881257Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCdVJsb3dha1ZUT0dkWU1XdHdjM3BSTW14M1FWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCdVJsb3dha1ZUT0dkWU1XdHdjM3BSTW14M1FWRRAB!2m1!1s0x3442ae7d3eb2617d:0xc6272e6f2cbf82eb"
+    },
+    {
+      "name": "places/ChIJfWGyPn2uQjQR64K_LG8uJ8Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tseU1HaHBTbmxDTmxSbVNESlBlbTFST1doWmNFRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "整體除了薯條太多鹽巴之外，都還值得的品嚐。餐前麵包，可以考慮更換，比較沒特色",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "整體除了薯條太多鹽巴之外，都還值得的品嚐。餐前麵包，可以考慮更換，比較沒特色",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Homer C",
+        "uri": "https://www.google.com/maps/contrib/102278387085479914667/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXRZ8KET3NzQc6dK5UCEkRFoWXxisXsURekgOf70RZAQqmc9Fqx2w=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-03-09T03:32:13.419737432Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tseU1HaHBTbmxDTmxSbVNESlBlbTFST1doWmNFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tseU1HaHBTbmxDTmxSbVNESlBlbTFST1doWmNFRRAB!2m1!1s0x3442ae7d3eb2617d:0xc6272e6f2cbf82eb"
+    },
+    {
+      "name": "places/ChIJfWGyPn2uQjQR64K_LG8uJ8Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKcGFVYzJaekkzYlRKemRrTmhOVVZwTUZoS2QwRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "環境很舒適、空間寬敞的一家餐廳，很適合朋友或家庭聚餐，不會太吵適合聊天，重點是餐食好吃、份量大，但又不會太貴，真的超讚！\n\n餐前麵包令人印象深刻，附的油醋很可愛，每個人的圖案還不同，真的太 Q 了\n\n海鮮湯也很好喝，滿滿的鮮味，用料很大方\n\n義大利麵也不錯吃，不過麵體是寬麵，可能有些人會吃不習慣\n\n是還會想再回訪的餐廳！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境很舒適、空間寬敞的一家餐廳，很適合朋友或家庭聚餐，不會太吵適合聊天，重點是餐食好吃、份量大，但又不會太貴，真的超讚！\n\n餐前麵包令人印象深刻，附的油醋很可愛，每個人的圖案還不同，真的太 Q 了\n\n海鮮湯也很好喝，滿滿的鮮味，用料很大方\n\n義大利麵也不錯吃，不過麵體是寬麵，可能有些人會吃不習慣\n\n是還會想再回訪的餐廳！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Timmy Hsueh",
+        "uri": "https://www.google.com/maps/contrib/111667372808076248773/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXEI8zuLuVeHArwqUKeG4lslbB0sNMRxgJLaZhc5oE0O---FM9WMA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-12-19T17:26:53.309453431Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKcGFVYzJaekkzYlRKemRrTmhOVVZwTUZoS2QwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKcGFVYzJaekkzYlRKemRrTmhOVVZwTUZoS2QwRRAB!2m1!1s0x3442ae7d3eb2617d:0xc6272e6f2cbf82eb"
+    },
+    {
+      "name": "places/ChIJfWGyPn2uQjQR64K_LG8uJ8Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5MmNrbHNZV0ZrWmkxcmVHcERlVlJJYUc0dFpXYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第一道麵包上來就很令人驚艷\n麵包熱熱的外脆內軟沾油醋\n荔枝氣泡水也很好喝，裡面還有水晶球\n開胃菜的烘蛋也很好吃\n薯條炸到剛好搭配鹹蛋黃醬很微妙不違和\n主餐則是紅酒菲力皇冠麵+脆皮五花比薩\n皇冠麵口感有咬勁不會硬\n牛肉也給的很大方\n整盤份量很足夠\n豬五花比薩餅皮口感更是經驗\n第一口有驚喜到\n最後的甜點提拉米蘇奶油很細緻\n加上微苦的不知道是酒香還是咖啡\n恰到好處的解膩甜點的黏膩感\n整體100分\n店員弟弟也態度很好分、表現很俏皮\n給100分",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一道麵包上來就很令人驚艷\n麵包熱熱的外脆內軟沾油醋\n荔枝氣泡水也很好喝，裡面還有水晶球\n開胃菜的烘蛋也很好吃\n薯條炸到剛好搭配鹹蛋黃醬很微妙不違和\n主餐則是紅酒菲力皇冠麵+脆皮五花比薩\n皇冠麵口感有咬勁不會硬\n牛肉也給的很大方\n整盤份量很足夠\n豬五花比薩餅皮口感更是經驗\n第一口有驚喜到\n最後的甜點提拉米蘇奶油很細緻\n加上微苦的不知道是酒香還是咖啡\n恰到好處的解膩甜點的黏膩感\n整體100分\n店員弟弟也態度很好分、表現很俏皮\n給100分",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "小辣椒",
+        "uri": "https://www.google.com/maps/contrib/102003229287098891117/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXPRw9O07FxAn7x_lYppvh8f6wGxcVOhW9uaScJ854XmOP9oTZ7UA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-21T08:11:49.997498137Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5MmNrbHNZV0ZrWmkxcmVHcERlVlJJYUc0dFpXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5MmNrbHNZV0ZrWmkxcmVHcERlVlJJYUc0dFpXYxAB!2m1!1s0x3442ae7d3eb2617d:0xc6272e6f2cbf82eb"
+    },
+    {
+      "name": "places/ChIJfWGyPn2uQjQR64K_LG8uJ8Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WMFpEVXljVWhxT0ROVWNGaGZPRUZGUTNsZlRFRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "店經理Leo服務非常貼心非常優秀～～🩷\n畫盤超強！貴店請到此員工太有福氣了🐌！\n松露薯條跟餐前麵包非常美味😋\n餐點擺盤精緻用心，可愛蕃茄小兔子\n甜點千層蛋糕超級好吃非常推薦\n（經理推薦烤布蕾必點，聽說換菜單就沒有了大家要吃要把握）\n親友聚餐好餐廳🍴",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店經理Leo服務非常貼心非常優秀～～🩷\n畫盤超強！貴店請到此員工太有福氣了🐌！\n松露薯條跟餐前麵包非常美味😋\n餐點擺盤精緻用心，可愛蕃茄小兔子\n甜點千層蛋糕超級好吃非常推薦\n（經理推薦烤布蕾必點，聽說換菜單就沒有了大家要吃要把握）\n親友聚餐好餐廳🍴",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "透",
+        "uri": "https://www.google.com/maps/contrib/103325742414364109844/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW98qtBv9HZmBFeVeVyZnbKYusWBgWomOiLTZ8WcNekAv0UYnSG=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-04T09:50:47.305136385Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WMFpEVXljVWhxT0ROVWNGaGZPRUZGUTNsZlRFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WMFpEVXljVWhxT0ROVWNGaGZPRUZGUTNsZlRFRRAB!2m1!1s0x3442ae7d3eb2617d:0xc6272e6f2cbf82eb"
+    }
+  ],
+  "menuForChildren": true,
+  "goodForChildren": true
+}

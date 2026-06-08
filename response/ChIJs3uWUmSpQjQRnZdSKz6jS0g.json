@@ -1,0 +1,131 @@
+{
+  "id": "ChIJs3uWUmSpQjQRnZdSKz6jS0g",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2383 2225",
+  "formattedAddress": "108台灣臺北市萬華區萬壽里西寧南路46號2樓",
+  "location": {
+    "latitude": 25.0445879,
+    "longitude": 121.506339
+  },
+  "rating": 4.6,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1384,
+  "displayName": {
+    "text": "Puzzle Kitchen 味道拼圖 西寧店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJs3uWUmSpQjQRnZdSKz6jS0g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkeFpuTlVXbHBtZDE5clQxcERWSE5rUzJacmNXYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "店內客人很多，有點吵雜但還是可以交談。鐵板很燙，不過上菜時會加一圈紙墊避免鐵板亂噴。蒜香的香味沒有預期中濃郁，另外加點的花椰菜、義大利麵本體個人覺得都還是需要另外自己加桌上的調味料。甜玉米本身就有香甜味，反而可以不用再加醬。整體來說不錯吃，而且可以用linepay很方便。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店內客人很多，有點吵雜但還是可以交談。鐵板很燙，不過上菜時會加一圈紙墊避免鐵板亂噴。蒜香的香味沒有預期中濃郁，另外加點的花椰菜、義大利麵本體個人覺得都還是需要另外自己加桌上的調味料。甜玉米本身就有香甜味，反而可以不用再加醬。整體來說不錯吃，而且可以用linepay很方便。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "阿鬼",
+        "uri": "https://www.google.com/maps/contrib/101525970613158430554/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU8P9bQnnB9Bmqdqm4aGbgTD1dbB9_6-K9-3mHaP2IDFaVU_sGg=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-03-07T08:26:37.346673776Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkeFpuTlVXbHBtZDE5clQxcERWSE5rUzJacmNXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkeFpuTlVXbHBtZDE5clQxcERWSE5rUzJacmNXYxAB!2m1!1s0x3442a96452967bb3:0x484ba33e2b52979d"
+    },
+    {
+      "name": "places/ChIJs3uWUmSpQjQRnZdSKz6jS0g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tacFZrOXVTalZwTlcxSVdYbGxhV2d0WWxNeGJYYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "加套餐有飲料、附餐自選蠻划算\n飯類份量小女子覺得蠻多的\n調味偏淡，吃到後面會膩\n需要自己加旁邊調味料\n可 Line pay!\n（遊客多到以為自己置身國外，有趣的體驗！）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "加套餐有飲料、附餐自選蠻划算\n飯類份量小女子覺得蠻多的\n調味偏淡，吃到後面會膩\n需要自己加旁邊調味料\n可 Line pay!\n（遊客多到以為自己置身國外，有趣的體驗！）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "塔noC",
+        "uri": "https://www.google.com/maps/contrib/110494140680142263720/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXFK-AuMWhnp3lc2ssLIgZyb3h-5l3_SVH4rhW6fCaZOAGtSBQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-13T11:32:17.225674618Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tacFZrOXVTalZwTlcxSVdYbGxhV2d0WWxNeGJYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tacFZrOXVTalZwTlcxSVdYbGxhV2d0WWxNeGJYYxAB!2m1!1s0x3442a96452967bb3:0x484ba33e2b52979d"
+    },
+    {
+      "name": "places/ChIJs3uWUmSpQjQRnZdSKz6jS0g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkTmNVVmhMVkJpZGtWVFMzbERSMGs1YVRkTWRVRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "內用商業午餐牛肉椒香飯。\n\n牛肉是肉片，口感好，飯上有蔥花和玉米粒，底下有奶油，拌在一起吃口味不錯，但吃到後面很油。\n附的我選起司和季節湯，起司多個口感還不錯，季節湯是番茄湯，口味偏酸，滿好喝的。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "內用商業午餐牛肉椒香飯。\n\n牛肉是肉片，口感好，飯上有蔥花和玉米粒，底下有奶油，拌在一起吃口味不錯，但吃到後面很油。\n附的我選起司和季節湯，起司多個口感還不錯，季節湯是番茄湯，口味偏酸，滿好喝的。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chien-Yu Chao",
+        "uri": "https://www.google.com/maps/contrib/103184852020588905388/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIK78YlhKWNDsAgzdRevCBp-V-H1uUKjKGt1At8edOYlAtthBA5A=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-16T05:45:39.434672917Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkTmNVVmhMVkJpZGtWVFMzbERSMGs1YVRkTWRVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkTmNVVmhMVkJpZGtWVFMzbERSMGs1YVRkTWRVRRAB!2m1!1s0x3442a96452967bb3:0x484ba33e2b52979d"
+    },
+    {
+      "name": "places/ChIJs3uWUmSpQjQRnZdSKz6jS0g/reviews/Ci9DQUlRQUNvZENodHljRjlvT25NeFZYRk9XVFY2TUhkblNITjBSVmRxTWpOU1RIYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "點了價格最高的美國coice 翼板牛排\n非常小塊、吃不太飽\n比較喜歡以前pepper lunch的超級無敵肋眼和漢堡排\n\n我這個照片裡的牛肉片是+line會員送的",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點了價格最高的美國coice 翼板牛排\n非常小塊、吃不太飽\n比較喜歡以前pepper lunch的超級無敵肋眼和漢堡排\n\n我這個照片裡的牛肉片是+line會員送的",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Nini Shen",
+        "uri": "https://www.google.com/maps/contrib/106784642218683156767/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK9Kscf5WTqXkq0f0ANEEVz95ER7WH31Og4CIRNZ-U0rl1Y_A=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-04T23:48:41.714449556Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25NeFZYRk9XVFY2TUhkblNITjBSVmRxTWpOU1RIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25NeFZYRk9XVFY2TUhkblNITjBSVmRxTWpOU1RIYxAB!2m1!1s0x3442a96452967bb3:0x484ba33e2b52979d"
+    },
+    {
+      "name": "places/ChIJs3uWUmSpQjQRnZdSKz6jS0g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkUlFYTmpSa2RCYjNKUk9ESllkalZEYmtsT1ZHYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "平日午餐的商業午餐價格實惠$249就能吃到！\n還另外加碼小菜或湯品選二\n服務員也蠻親切的！除了用餐完衣服有點味道\n整體體驗不錯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "平日午餐的商業午餐價格實惠$249就能吃到！\n還另外加碼小菜或湯品選二\n服務員也蠻親切的！除了用餐完衣服有點味道\n整體體驗不錯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Haha Chu",
+        "uri": "https://www.google.com/maps/contrib/110488002900484862888/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUF7Sg1Z2EN-TDYIgabqRMHmiUFC-4FJcW2ifguDGgK0hpewCmO=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-31T02:55:19.642932489Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkUlFYTmpSa2RCYjNKUk9ESllkalZEYmtsT1ZHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkUlFYTmpSa2RCYjNKUk9ESllkalZEYmtsT1ZHYxAB!2m1!1s0x3442a96452967bb3:0x484ba33e2b52979d"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

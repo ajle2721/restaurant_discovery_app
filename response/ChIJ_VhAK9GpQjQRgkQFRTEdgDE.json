@@ -1,0 +1,133 @@
+{
+  "id": "ChIJ_VhAK9GpQjQRgkQFRTEdgDE",
+  "types": [
+    "indian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 921 004 175",
+  "formattedAddress": "105台灣臺北市松山區復勢里光復北路10號",
+  "location": {
+    "latitude": 25.0486453,
+    "longitude": 121.5576508
+  },
+  "rating": 4.9,
+  "websiteUri": "https://www.indianfoodtaiwan.com/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1289,
+  "displayName": {
+    "text": "馬友友印度快餐店 Dhaba by MIK (Langar before)",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ_VhAK9GpQjQRgkQFRTEdgDE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoYU1FeG5TbWxyU1dwVVkxQjJOV1EzU1cxM2JGRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "偶爾想換換口味，就會跑來「馬友友」報到！\n真的每道都好下飯、好香、好誘人～🤤💛\n\n✨ 必吃推薦 ✨\n#羊肉咖哩\n羊肉完全沒羶味！燉到軟嫩入味，一口飯配一口咖哩超幸福～\n#奶油烤餅\n熱熱上桌最讚，邊撕邊吃真的停不下來！\n#馬鈴薯餡烤餅\n裡面包著咖哩調味的馬鈴薯泥～每一口都是暖呼呼的香味！\n#碳烤香料雞腿\n雞腿烤得入味又多汁，香料味很chill！\n#印度香料奶茶\n濃郁順口，配咖哩超搭，是我每次必點！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "偶爾想換換口味，就會跑來「馬友友」報到！\n真的每道都好下飯、好香、好誘人～🤤💛\n\n✨ 必吃推薦 ✨\n#羊肉咖哩\n羊肉完全沒羶味！燉到軟嫩入味，一口飯配一口咖哩超幸福～\n#奶油烤餅\n熱熱上桌最讚，邊撕邊吃真的停不下來！\n#馬鈴薯餡烤餅\n裡面包著咖哩調味的馬鈴薯泥～每一口都是暖呼呼的香味！\n#碳烤香料雞腿\n雞腿烤得入味又多汁，香料味很chill！\n#印度香料奶茶\n濃郁順口，配咖哩超搭，是我每次必點！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chen Grace",
+        "uri": "https://www.google.com/maps/contrib/117381489481704904509/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXrq8B68pd7wH4TypJZBLBTcgz2rwlQb0BnwAdaxs-dWB57cDFq=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-26T12:59:39.206174462Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoYU1FeG5TbWxyU1dwVVkxQjJOV1EzU1cxM2JGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoYU1FeG5TbWxyU1dwVVkxQjJOV1EzU1cxM2JGRRAB!2m1!1s0x3442a9d12b4058fd:0x31801d3145054482"
+    },
+    {
+      "name": "places/ChIJ_VhAK9GpQjQRgkQFRTEdgDE/reviews/Ci9DQUlRQUNvZENodHljRjlvT205Tk5WSmtUa1IwUlZsck1XbGFablZITUhCV1dsRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "忽然朋友來訪，在家附近的特色料理，兩個人也能吃滿多樣的印度菜，喜歡羊肉香料咖喱配蒜味烤餅，喜歡酸酸的優格，推薦給想換個口味或沒胃口的人，香料很特別",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "忽然朋友來訪，在家附近的特色料理，兩個人也能吃滿多樣的印度菜，喜歡羊肉香料咖喱配蒜味烤餅，喜歡酸酸的優格，推薦給想換個口味或沒胃口的人，香料很特別",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Kiki Lin",
+        "uri": "https://www.google.com/maps/contrib/110006675274375781347/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUM-Wz4x_6PumGz8VeCdaoOFYdIxNm0a1aznafjOF__EuQZn2o=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-09-19T11:23:38.685257863Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205Tk5WSmtUa1IwUlZsck1XbGFablZITUhCV1dsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205Tk5WSmtUa1IwUlZsck1XbGFablZITUhCV1dsRRAB!2m1!1s0x3442a9d12b4058fd:0x31801d3145054482"
+    },
+    {
+      "name": "places/ChIJ_VhAK9GpQjQRgkQFRTEdgDE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWMlNEVklWbGxZUzFaTFZ6TlJhMUYwYjJ0TFNXYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "來自印度的主廚馬友友(不是拉小提琴的)開的連鎖印度快餐店，500碗推薦，目前在雙北有8家分店，內湖分店甚至還有水煙館很特別。\n馬友友另一個特色是北印和南印風味皆有，和台灣大多是北印的印度料理比較不一樣；另外先前有五星評論送爆漿球活動，目前已結束。\n中午有商業午餐套餐，有咖哩主食、烤餅(一整張切成四塊)、薑黃飯、香料奶茶，澱粉類的量對女生會有點多，就算兩人吃也夠，還滿划算的。\n這次點羊肉咖哩(310元)，咖哩紅醬以番茄為基底，口味偏重鹹度較高；羊肉帶一點皮，大體上是軟嫩的，但有幾塊有點腥味比較可惜；烤餅紮實有咬勁還帶點麵香，吃起來還OK；薑黃飯則無亮點。香料奶茶倒是滿好喝，可惜有點小杯😅\n整體來說算是不錯的印度快餐店，想吃個正宗平價印度咖哩可以進來試試。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "來自印度的主廚馬友友(不是拉小提琴的)開的連鎖印度快餐店，500碗推薦，目前在雙北有8家分店，內湖分店甚至還有水煙館很特別。\n馬友友另一個特色是北印和南印風味皆有，和台灣大多是北印的印度料理比較不一樣；另外先前有五星評論送爆漿球活動，目前已結束。\n中午有商業午餐套餐，有咖哩主食、烤餅(一整張切成四塊)、薑黃飯、香料奶茶，澱粉類的量對女生會有點多，就算兩人吃也夠，還滿划算的。\n這次點羊肉咖哩(310元)，咖哩紅醬以番茄為基底，口味偏重鹹度較高；羊肉帶一點皮，大體上是軟嫩的，但有幾塊有點腥味比較可惜；烤餅紮實有咬勁還帶點麵香，吃起來還OK；薑黃飯則無亮點。香料奶茶倒是滿好喝，可惜有點小杯😅\n整體來說算是不錯的印度快餐店，想吃個正宗平價印度咖哩可以進來試試。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lèvr【第10級在地嚮導】",
+        "uri": "https://www.google.com/maps/contrib/115131688509506708788/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWReqt4dR6N7p45ZpSr8ODGEAaWrEOYRW_WXQCLNWUULTLqEq91g=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-10-01T19:07:02.485789410Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWMlNEVklWbGxZUzFaTFZ6TlJhMUYwYjJ0TFNXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWMlNEVklWbGxZUzFaTFZ6TlJhMUYwYjJ0TFNXYxAB!2m1!1s0x3442a9d12b4058fd:0x31801d3145054482"
+    },
+    {
+      "name": "places/ChIJ_VhAK9GpQjQRgkQFRTEdgDE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pORWVYbGxVa1pTTkZGU2VVcEJhR3M1ZFZGcVFsRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第二次吃馬友友！好吃！老闆會說中文不要像我們一樣傻傻用英文點餐🤣🤣🤣",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第二次吃馬友友！好吃！老闆會說中文不要像我們一樣傻傻用英文點餐🤣🤣🤣",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Nina Yen",
+        "uri": "https://www.google.com/maps/contrib/100670663781799844634/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL829nSS3H0cQmKai41qOpyS6JRCpVcyESU3QqFZ7nbXpz2PZPb=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-11-26T10:57:40.795476442Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pORWVYbGxVa1pTTkZGU2VVcEJhR3M1ZFZGcVFsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pORWVYbGxVa1pTTkZGU2VVcEJhR3M1ZFZGcVFsRRAB!2m1!1s0x3442a9d12b4058fd:0x31801d3145054482"
+    },
+    {
+      "name": "places/ChIJ_VhAK9GpQjQRgkQFRTEdgDE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wSlJGUlNhRmxGTUdoaFgxTmFRMlI1U1d0WGVWRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "推薦兩人可以點一份咖喱，兩份烤餅～原味和大蒜口味，非常入口好吃！環境友善，價格實在。在臺灣可以吃到道地的印度餐廳，很值得推薦。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "推薦兩人可以點一份咖喱，兩份烤餅～原味和大蒜口味，非常入口好吃！環境友善，價格實在。在臺灣可以吃到道地的印度餐廳，很值得推薦。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張琬琦",
+        "uri": "https://www.google.com/maps/contrib/115532032291017395828/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUuMXhj1VnK771_nFprZobQZQ6n1BIN2s7PS2s6avgsGPioT2yD=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-28T10:43:22.134602937Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wSlJGUlNhRmxGTUdoaFgxTmFRMlI1U1d0WGVWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wSlJGUlNhRmxGTUdoaFgxTmFRMlI1U1d0WGVWRRAB!2m1!1s0x3442a9d12b4058fd:0x31801d3145054482"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

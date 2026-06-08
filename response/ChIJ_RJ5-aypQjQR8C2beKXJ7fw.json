@@ -1,0 +1,133 @@
+{
+  "id": "ChIJ_RJ5-aypQjQR8C2beKXJ7fw",
+  "types": [
+    "pizza_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2365 0250",
+  "formattedAddress": "106台灣臺北市大安區古莊里羅斯福路三段25號",
+  "location": {
+    "latitude": 25.023730000000004,
+    "longitude": 121.5251862
+  },
+  "rating": 4.1,
+  "websiteUri": "https://www.pizzarock.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 179,
+  "displayName": {
+    "text": "Pizza Rock 古亭店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ_RJ5-aypQjQR8C2beKXJ7fw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOUk5VOVlTV1JyY0dwM1NGaFJPVXhxWTJaWFUyYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "外帶香烤雞肉（389元）跟總匯pizza（439元）；是薄皮pizza，口味一般。類似價位，會比較推薦東門的Gusto pizza。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "外帶香烤雞肉（389元）跟總匯pizza（439元）；是薄皮pizza，口味一般。類似價位，會比較推薦東門的Gusto pizza。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "truecolor",
+        "uri": "https://www.google.com/maps/contrib/102917131512232511189/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVL9kI2UiDTTXiX6hv1d3aXhDk6Alkza6jjQ3YP12gg8jo1AjmW=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-10T11:05:56.645670639Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOUk5VOVlTV1JyY0dwM1NGaFJPVXhxWTJaWFUyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOUk5VOVlTV1JyY0dwM1NGaFJPVXhxWTJaWFUyYxAB!2m1!1s0x3442a9acf97912fd:0xfcedc9a5789b2df0"
+    },
+    {
+      "name": "places/ChIJ_RJ5-aypQjQR8C2beKXJ7fw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkdGJEWkdibE5PTUhOc2JFVm1WRkI2WWw5UVZYYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "四種起司披薩（小的199）有大蒜粉挺香的，好吃。熱美式80元跟麥根沙士55元，餐搭飲料優惠20元，兩人314元，對吃下午茶來說很實惠。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "四種起司披薩（小的199）有大蒜粉挺香的，好吃。熱美式80元跟麥根沙士55元，餐搭飲料優惠20元，兩人314元，對吃下午茶來說很實惠。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "eveno Hsu",
+        "uri": "https://www.google.com/maps/contrib/103209243624154413238/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX_kAOmV_BtusL0C6kJYEfHHiYpxBAmo6YenSd4DGJ6iLi57BMk=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-08-13T10:58:10.134702611Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkdGJEWkdibE5PTUhOc2JFVm1WRkI2WWw5UVZYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkdGJEWkdibE5PTUhOc2JFVm1WRkI2WWw5UVZYYxAB!2m1!1s0x3442a9acf97912fd:0xfcedc9a5789b2df0"
+    },
+    {
+      "name": "places/ChIJ_RJ5-aypQjQR8C2beKXJ7fw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKWGVsUklMUzFZUlY5UlVXaGtiRFJGUW5Cc1JWRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第一次吃這家。\n好吃，皮又脆又薄。\n備註：有刷卡跟載具-很方便結帳",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次吃這家。\n好吃，皮又脆又薄。\n備註：有刷卡跟載具-很方便結帳",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jin Liang",
+        "uri": "https://www.google.com/maps/contrib/101940912801539113200/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWsAK8UiDxtZc4sugQ-ly1xf0qHkG-ZYrKDWyjDRKjhGaquQIbM=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-10-21T11:42:39.618376513Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKWGVsUklMUzFZUlY5UlVXaGtiRFJGUW5Cc1JWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKWGVsUklMUzFZUlY5UlVXaGtiRFJGUW5Cc1JWRRAB!2m1!1s0x3442a9acf97912fd:0xfcedc9a5789b2df0"
+    },
+    {
+      "name": "places/ChIJ_RJ5-aypQjQR8C2beKXJ7fw/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRcFlYV3RRRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 3,
+      "text": {
+        "text": "Pizza也說不上不好吃，但就是油滋滋，沒什麼記憶點。凱撒沙拉的麵包丁很乾、很難吃。環境倒是不錯，有兩層樓，算是寬敞。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "Pizza也說不上不好吃，但就是油滋滋，沒什麼記憶點。凱撒沙拉的麵包丁很乾、很難吃。環境倒是不錯，有兩層樓，算是寬敞。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Esther Ho",
+        "uri": "https://www.google.com/maps/contrib/111149564427643388688/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK2smwk7Vjoxdmcah7fdB_GkbPDgIyUvRbgo6OEamG26G5Zpg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-03-06T08:06:26.998700Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRcFlYV3RRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRcFlYV3RRRRAB!2m1!1s0x3442a9acf97912fd:0xfcedc9a5789b2df0"
+    },
+    {
+      "name": "places/ChIJ_RJ5-aypQjQR8C2beKXJ7fw/reviews/ChdDSUhNMG9nS0VJQ0FnSUR6Nkt5LXdBRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "自從上次鯷魚披薩之後，一直念念不忘。我很喜歡這家餐廳，可以客製化披薩，加料！我加了切達起司、墨西哥辣椒、蘑菇。對於披薩來說，我喜歡起司拉絲、濃郁的口感。對於無辣不歡的我，墨西哥辣椒是不可少的，另外蘑菇的香氣，更是令人回味無窮！\n\n這次點了搖滾披薩，也特別加了蘑菇。橄欖、蒜頭、風乾蕃茄加上蘑菇混合在一起的味道，簡直是炸鍋的金屬樂，一口接一口，會讓人想站起來手足舞蹈！\n\n此間店的餅皮屬於薄嫩型的，香氣十足，尤其是外緣部份，要起來Q彈帶香，我一般不吃外緣的，但這家的比薩，我是一口一口吃光，享受在其中！\n\n--------------------\n\n義式鯷魚披薩是用一條條鯷魚下去排列，而不是用剁碎的鯷魚，超愛！香香鹹鹹，好美味！\n\n--------------------\n\n搖滾披薩應該是我在台北最愛的一家披薩連鎖店！照相時連採光打燈都懶了，隨便拍照了事，要趕緊吃！\n\n墨西哥肉醬很香，但是口味沒有很當地化，較正統的墨西哥肉醬來得清淡多了，是比較可惜的點。瑪格麗特要是能夠用大片的 Basil 就更棒了！\n\n不過整體來說，仍舊很好吃、很療癒！大推！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "自從上次鯷魚披薩之後，一直念念不忘。我很喜歡這家餐廳，可以客製化披薩，加料！我加了切達起司、墨西哥辣椒、蘑菇。對於披薩來說，我喜歡起司拉絲、濃郁的口感。對於無辣不歡的我，墨西哥辣椒是不可少的，另外蘑菇的香氣，更是令人回味無窮！\n\n這次點了搖滾披薩，也特別加了蘑菇。橄欖、蒜頭、風乾蕃茄加上蘑菇混合在一起的味道，簡直是炸鍋的金屬樂，一口接一口，會讓人想站起來手足舞蹈！\n\n此間店的餅皮屬於薄嫩型的，香氣十足，尤其是外緣部份，要起來Q彈帶香，我一般不吃外緣的，但這家的比薩，我是一口一口吃光，享受在其中！\n\n--------------------\n\n義式鯷魚披薩是用一條條鯷魚下去排列，而不是用剁碎的鯷魚，超愛！香香鹹鹹，好美味！\n\n--------------------\n\n搖滾披薩應該是我在台北最愛的一家披薩連鎖店！照相時連採光打燈都懶了，隨便拍照了事，要趕緊吃！\n\n墨西哥肉醬很香，但是口味沒有很當地化，較正統的墨西哥肉醬來得清淡多了，是比較可惜的點。瑪格麗特要是能夠用大片的 Basil 就更棒了！\n\n不過整體來說，仍舊很好吃、很療癒！大推！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Calvin Shih",
+        "uri": "https://www.google.com/maps/contrib/100775987822730068409/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVayYDG9hRwobIHcT6eHF6kim6GNSjdDZF_KKGNM52vUz5jsgiW=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-03-22T11:36:54.775560Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR6Nkt5LXdBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR6Nkt5LXdBRRAB!2m1!1s0x3442a9acf97912fd:0xfcedc9a5789b2df0"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

@@ -1,0 +1,134 @@
+{
+  "id": "ChIJk4buHrKuQjQRdJ2_gVOk--I",
+  "types": [
+    "bakery",
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 965 833 928",
+  "formattedAddress": "111台灣臺北市士林區承德里基河路22號",
+  "location": {
+    "latitude": 25.0832972,
+    "longitude": 121.52439749999999
+  },
+  "rating": 4.9,
+  "websiteUri": "http://mydiybc.com/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 5694,
+  "displayName": {
+    "text": "【烘焙DIY】自己做烘焙聚樂部(台北士林店)",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJk4buHrKuQjQRdJ2_gVOk--I/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kMkxUazJWMEY1U25KcGFGSm1RV3BRYmxaWFJYYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "環境衛生，流程明確，價位稍高但算合理。製作流程以平板呈現，解說詳盡，缺點是很填鴨。但對大多數只是想體驗的民眾來說足矣。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境衛生，流程明確，價位稍高但算合理。製作流程以平板呈現，解說詳盡，缺點是很填鴨。但對大多數只是想體驗的民眾來說足矣。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jason YiZhen Lin",
+        "uri": "https://www.google.com/maps/contrib/103939476763483479537/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWcVJ4ipT1dkLN1jW0sIVcEPJUvuti8aeyLtJPHChUA3yYX5lrHCA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-02-02T11:57:11.009753219Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kMkxUazJWMEY1U25KcGFGSm1RV3BRYmxaWFJYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kMkxUazJWMEY1U25KcGFGSm1RV3BRYmxaWFJYYxAB!2m1!1s0x3442aeb21eee8693:0xe2fba45381bf9d74"
+    },
+    {
+      "name": "places/ChIJk4buHrKuQjQRdJ2_gVOk--I/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paclpXSXhiREJoWjNKaVZFVXdjVE4wWVd0cmJYYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "晚上19.開始做蛋糕，很怕用超過時間耽誤店員下班時間，不過幸好後面抹面找了店員“花花”的幫助，變得好看多了～（超級感謝～😆第一次做蛋糕，以前都覺得抹面看起來沒有很難…真的是做了才知道其中門道）\n而且到後面店員們也是一邊幫我們做整理洗東西，這個也是超級感謝～麻煩店員們了～幸好最後成品很好看！很喜歡～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "晚上19.開始做蛋糕，很怕用超過時間耽誤店員下班時間，不過幸好後面抹面找了店員“花花”的幫助，變得好看多了～（超級感謝～😆第一次做蛋糕，以前都覺得抹面看起來沒有很難…真的是做了才知道其中門道）\n而且到後面店員們也是一邊幫我們做整理洗東西，這個也是超級感謝～麻煩店員們了～幸好最後成品很好看！很喜歡～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林鈺軒",
+        "uri": "https://www.google.com/maps/contrib/106224180912639092088/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX-IyZirzp_RLdlpcvuAt8_s5INVxMEQcbRS55_25LGrlpZGelJ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-28T14:09:59.171134993Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paclpXSXhiREJoWjNKaVZFVXdjVE4wWVd0cmJYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paclpXSXhiREJoWjNKaVZFVXdjVE4wWVd0cmJYYxAB!2m1!1s0x3442aeb21eee8693:0xe2fba45381bf9d74"
+    },
+    {
+      "name": "places/ChIJk4buHrKuQjQRdJ2_gVOk--I/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkeVl6UnJTSGxxWnpnNWFsSjJlalZHVW5VMWNYYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "3/8來製作時不小心燙傷，但長頭髮女店員人很好一直注意我的狀況跟關心我，還幫我拿藥膏擦藥非常細心，但我只有看到店員名牌的一個字開頭是小，麻煩嘉獎她🥹❤️下次還會再來✨",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "3/8來製作時不小心燙傷，但長頭髮女店員人很好一直注意我的狀況跟關心我，還幫我拿藥膏擦藥非常細心，但我只有看到店員名牌的一個字開頭是小，麻煩嘉獎她🥹❤️下次還會再來✨",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Shivia Lee",
+        "uri": "https://www.google.com/maps/contrib/108874477577259492453/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXqT7lhvHxsoOmjZp6mQzirCWh-OACLoaom2mdd9fhlWRuil54=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-03-08T08:26:20.786210820Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkeVl6UnJTSGxxWnpnNWFsSjJlalZHVW5VMWNYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkeVl6UnJTSGxxWnpnNWFsSjJlalZHVW5VMWNYYxAB!2m1!1s0x3442aeb21eee8693:0xe2fba45381bf9d74"
+    },
+    {
+      "name": "places/ChIJk4buHrKuQjQRdJ2_gVOk--I/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sMFNIUjVRVEJMTFRWTlpVMVpOMWd6VTBORFdWRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "提早到半小時一樣得到很好的服務，服務人員是Ivy 小瑾，環境很乾淨，東西擺放整齊，不會的地方可以直接求助，邊聊天邊做很有趣，抹面我是麻煩店員幫忙，抹得很漂亮，還麻煩他幫我擠想要的字，整體體驗感真的好到不行，因為第一次做，拖到很多時間，店員還是很有耐心，沒有催促，我很感謝ㅜ超棒推推",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "提早到半小時一樣得到很好的服務，服務人員是Ivy 小瑾，環境很乾淨，東西擺放整齊，不會的地方可以直接求助，邊聊天邊做很有趣，抹面我是麻煩店員幫忙，抹得很漂亮，還麻煩他幫我擠想要的字，整體體驗感真的好到不行，因為第一次做，拖到很多時間，店員還是很有耐心，沒有催促，我很感謝ㅜ超棒推推",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "羅亭葳",
+        "uri": "https://www.google.com/maps/contrib/113979538225361961372/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVm8uxahlNT8ZkM47FpnHX9TLUV_fqo6nrGkf9lpCXh9ROyM8Y=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-03T15:16:46.069593262Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sMFNIUjVRVEJMTFRWTlpVMVpOMWd6VTBORFdWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sMFNIUjVRVEJMTFRWTlpVMVpOMWd6VTBORFdWRRAB!2m1!1s0x3442aeb21eee8693:0xe2fba45381bf9d74"
+    },
+    {
+      "name": "places/ChIJk4buHrKuQjQRdJ2_gVOk--I/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GRFNuVlhXR0ZvYTJGeGRFdHZUbkEyYUdsaWIwRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "今天是我第一次來這裡做蛋糕還好有ako（其實我不知道怎麼拼哈哈哈忘記問了）跟yoyo的幫忙！你們的服務態度超級超級好的很喜歡你們 要是沒有你們我可能蛋糕做不起來\n謝謝你們💗 今天的體驗非常好我很開心～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天是我第一次來這裡做蛋糕還好有ako（其實我不知道怎麼拼哈哈哈忘記問了）跟yoyo的幫忙！你們的服務態度超級超級好的很喜歡你們 要是沒有你們我可能蛋糕做不起來\n謝謝你們💗 今天的體驗非常好我很開心～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "妤妤妤",
+        "uri": "https://www.google.com/maps/contrib/117427871873518149308/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUsOm5_O-2lZf8dBc7v0mHjSSE4pXFuedVEXhGSuXyj5DVtMts=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-06T07:34:39.076813343Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GRFNuVlhXR0ZvYTJGeGRFdHZUbkEyYUdsaWIwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GRFNuVlhXR0ZvYTJGeGRFdHZUbkEyYUdsaWIwRRAB!2m1!1s0x3442aeb21eee8693:0xe2fba45381bf9d74"
+    }
+  ],
+  "goodForChildren": false
+}

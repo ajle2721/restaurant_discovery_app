@@ -1,0 +1,54 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "位子很寬敞，有提供安靜辦公的空間",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "Google Maps Attributes: No menu for children",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "No",
+        "evidence": "在台北市真的很難得有一間這麼安靜的咖啡廳，有寧靜座位超讚（不能聊天的區域）很適合一個人待整天的咖啡廳。",
+        "confidence": 0.9
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "Google Maps Attributes: No menu for children",
+        "位子很寬敞，有提供安靜辦公的空間",
+        "有寧靜座位超讚（不能聊天的區域）",
+        "在台北市真的很難得有一間這麼安靜的咖啡廳，有寧靜座位超讚（不能聊天的區域）很適合一個人待整天的咖啡廳。",
+        "在台北市真的很難得有一間這麼安靜的咖啡廳"
+    ],
+    "generated_summary": "繆克咖啡環境寬敞舒適，但店內氛圍主打安靜與適合辦公讀書，設有專屬靜音區，且官方標記不提供兒童餐，整體環境較不適合攜帶幼童前往。",
+    "card_summary": ""
+}

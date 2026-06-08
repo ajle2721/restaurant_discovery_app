@@ -1,0 +1,134 @@
+{
+  "id": "ChIJ7-0tUrCtQjQRO1deD279gaQ",
+  "types": [
+    "florist",
+    "brunch_restaurant",
+    "food_store",
+    "store",
+    "service",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2633 5816",
+  "formattedAddress": "114台灣臺北市內湖區安湖里康寧路三段189巷12弄19號",
+  "location": {
+    "latitude": 25.0699427,
+    "longitude": 121.61303959999998
+  },
+  "rating": 5,
+  "websiteUri": "https://www.instagram.com/mengchen1016/",
+  "userRatingCount": 31,
+  "displayName": {
+    "text": "夢宸文創花藝咖啡（早午餐）",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ7-0tUrCtQjQRO1deD279gaQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxNFJUTlFRbm8xYTBrNU5FVlpOVFpQY0hSeGVHYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "發現開了新店一定要行動支持！\n非常清新的咖啡廳，幾乎八成的座位有插座，實在是很棒💕\n樓下座位區較明亮寬敞，空氣充滿後方花藝區淡淡的花香氣味。\n應該是可以成為我的愛店！！\n\n餐點沒太多選擇，\n披薩是現做的，口感還不錯！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "發現開了新店一定要行動支持！\n非常清新的咖啡廳，幾乎八成的座位有插座，實在是很棒💕\n樓下座位區較明亮寬敞，空氣充滿後方花藝區淡淡的花香氣味。\n應該是可以成為我的愛店！！\n\n餐點沒太多選擇，\n披薩是現做的，口感還不錯！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ivy Chang",
+        "uri": "https://www.google.com/maps/contrib/110688628063763163996/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUHDMsOv8WJBZcU49bsi0_rLnTIFaXoX29xvXAwdSqFoX0Pd_bfmQ=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-12-14T02:02:17.076609988Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxNFJUTlFRbm8xYTBrNU5FVlpOVFpQY0hSeGVHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxNFJUTlFRbm8xYTBrNU5FVlpOVFpQY0hSeGVHYxAB!2m1!1s0x3442adb0522dedef:0xa481fd6e0f5e573b"
+    },
+    {
+      "name": "places/ChIJ7-0tUrCtQjQRO1deD279gaQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wdVpteHZOamRtUTJ4a1lrVkRSRlZKU0dWYWJXYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "環境乾淨且色調溫馨舒適，有甜點和各種的咖啡及氣泡水、奶蓋飲品，尤其是這杯 接骨木荔枝氣泡水 真的很好喝，很值得推薦～～\n聽店家的帥哥美女說，飲料寄杯的話，有打折的優惠！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境乾淨且色調溫馨舒適，有甜點和各種的咖啡及氣泡水、奶蓋飲品，尤其是這杯 接骨木荔枝氣泡水 真的很好喝，很值得推薦～～\n聽店家的帥哥美女說，飲料寄杯的話，有打折的優惠！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "李睿澤",
+        "uri": "https://www.google.com/maps/contrib/116272920589887402031/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXyaVhhEzUeHzT4zNkLUhzPQiQ3Qao4c6ZveX8mYhcI_USJh1U=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-16T13:50:01.306867214Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wdVpteHZOamRtUTJ4a1lrVkRSRlZKU0dWYWJXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wdVpteHZOamRtUTJ4a1lrVkRSRlZKU0dWYWJXYxAB!2m1!1s0x3442adb0522dedef:0xa481fd6e0f5e573b"
+    },
+    {
+      "name": "places/ChIJ7-0tUrCtQjQRO1deD279gaQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SeGMwUTBYMlozVjNocFgxUktUMGhpVjJGa2NIYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "真的沒想過只是找間咖啡廳畫圖可以獲得滿滿儀式感🥹\n地下室很漂亮 妝點很多花景 點了凍頂烏龍和波士頓派都很美味 茶味很醇濃\n花和氣泡水都是送的 怎麼這麼熱情又大方\n好地方大家都該知道！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "真的沒想過只是找間咖啡廳畫圖可以獲得滿滿儀式感🥹\n地下室很漂亮 妝點很多花景 點了凍頂烏龍和波士頓派都很美味 茶味很醇濃\n花和氣泡水都是送的 怎麼這麼熱情又大方\n好地方大家都該知道！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "むゆ",
+        "uri": "https://www.google.com/maps/contrib/116574592262347963751/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXdUh_LAOP1-gKfa3_vS2M2ImgnVbQHjxQhfxUoElhGcYejGLBO=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-08T06:32:10.151538149Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SeGMwUTBYMlozVjNocFgxUktUMGhpVjJGa2NIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SeGMwUTBYMlozVjNocFgxUktUMGhpVjJGa2NIYxAB!2m1!1s0x3442adb0522dedef:0xa481fd6e0f5e573b"
+    },
+    {
+      "name": "places/ChIJ7-0tUrCtQjQRO1deD279gaQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGQ1ZWWTBPRkZaTkVSeGMwUkdkelJmVjJneGJYYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第一次走進夢宸花藝咖啡，是因為漂亮用餐環境，隨意點了一杯冰摩卡，沒想到，令人驚艷的奶蓋和濃厚咖啡完美搭配，不同於一般鮮奶油油膩的冰摩卡\n\n在這個舒適充滿花意地方喝杯咖啡，竟意外成為ME time的好地方😊\n\n第二次再走進夢宸，是為了口感完美的冰摩卡，奶蓋真不是蓋的，竟會讓人念念不忘⋯\n\n這次，加點了提拉米蘇，不膩的口感，三兩下就完食\n\n忙碌生活中的小美好，就該配杯冰摩卡和提拉米蘇🔆",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次走進夢宸花藝咖啡，是因為漂亮用餐環境，隨意點了一杯冰摩卡，沒想到，令人驚艷的奶蓋和濃厚咖啡完美搭配，不同於一般鮮奶油油膩的冰摩卡\n\n在這個舒適充滿花意地方喝杯咖啡，竟意外成為ME time的好地方😊\n\n第二次再走進夢宸，是為了口感完美的冰摩卡，奶蓋真不是蓋的，竟會讓人念念不忘⋯\n\n這次，加點了提拉米蘇，不膩的口感，三兩下就完食\n\n忙碌生活中的小美好，就該配杯冰摩卡和提拉米蘇🔆",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jasmine Chen",
+        "uri": "https://www.google.com/maps/contrib/118289711371286082750/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLRp8RP28n01mNw0-2-yc29baeLZQlpMfRGnkFt98ZZKDdEDw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-22T08:02:06.791274311Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGQ1ZWWTBPRkZaTkVSeGMwUkdkelJmVjJneGJYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGQ1ZWWTBPRkZaTkVSeGMwUkdkelJmVjJneGJYYxAB!2m1!1s0x3442adb0522dedef:0xa481fd6e0f5e573b"
+    },
+    {
+      "name": "places/ChIJ7-0tUrCtQjQRO1deD279gaQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5M2NrNVphbEpTVWxGaVNtVnZWRjlxVm5GdVVYYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "原本要去星巴克辦公，剛好發現附近新開的cafe\n重點是每個座位都有插座，而且環境超清幽\n不像一般的咖啡廳可能比較昏暗，這裡的環境氛圍相對明亮（眼睛友善）\n背景音樂比較年輕，而且椅子高度挺剛好不會太低，坐久也不會累！很適合需要長時間高度專注的人",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "原本要去星巴克辦公，剛好發現附近新開的cafe\n重點是每個座位都有插座，而且環境超清幽\n不像一般的咖啡廳可能比較昏暗，這裡的環境氛圍相對明亮（眼睛友善）\n背景音樂比較年輕，而且椅子高度挺剛好不會太低，坐久也不會累！很適合需要長時間高度專注的人",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jeff Lai",
+        "uri": "https://www.google.com/maps/contrib/105754999672351309623/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWZw3oevz-_RNgSVpByDt0fpHveXz0t7BzLVd_O_LeIKB1Erg-2=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-16T01:17:35.625841832Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5M2NrNVphbEpTVWxGaVNtVnZWRjlxVm5GdVVYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5M2NrNVphbEpTVWxGaVNtVnZWRjlxVm5GdVVYYxAB!2m1!1s0x3442adb0522dedef:0xa481fd6e0f5e573b"
+    }
+  ]
+}

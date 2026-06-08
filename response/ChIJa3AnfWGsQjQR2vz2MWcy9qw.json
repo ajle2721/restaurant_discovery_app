@@ -1,0 +1,139 @@
+{
+  "id": "ChIJa3AnfWGsQjQR2vz2MWcy9qw",
+  "types": [
+    "ramen_restaurant",
+    "family_restaurant",
+    "tonkatsu_restaurant",
+    "japanese_curry_restaurant",
+    "deli",
+    "food_store",
+    "japanese_restaurant",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2627 6627",
+  "formattedAddress": "號 No, No. 76內湖路一段737巷港富里內湖區臺北市台灣 114",
+  "location": {
+    "latitude": 25.081426099999998,
+    "longitude": 121.57908639999998
+  },
+  "rating": 4.2,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 1431,
+  "displayName": {
+    "text": "男子漢拉麵食堂內湖737店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJa3AnfWGsQjQR2vz2MWcy9qw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGVlNraFZSVUZUV1hCZlRsTk9kMkZGTXpSRFIyYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "好吃！比起日式拉麵的重鹹,這間的拉麵口味剛剛好！而且用餐環境很好,冷氣夠冷！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "好吃！比起日式拉麵的重鹹,這間的拉麵口味剛剛好！而且用餐環境很好,冷氣夠冷！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "江兆祺（小江）",
+        "uri": "https://www.google.com/maps/contrib/101893423052524669670/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVz5401xtJtqdUITANzmpCndEDzOvixwjMHnZVydYtMVch5gAKZ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-09-15T12:16:30.299028362Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGVlNraFZSVUZUV1hCZlRsTk9kMkZGTXpSRFIyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGVlNraFZSVUZUV1hCZlRsTk9kMkZGTXpSRFIyYxAB!2m1!1s0x3442ac617d27706b:0xacf6326731f6fcda"
+    },
+    {
+      "name": "places/ChIJa3AnfWGsQjQR2vz2MWcy9qw/reviews/Ci9DQUlRQUNvZENodHljRjlvT204eU1ETTVUSFZQZFU1TFZuWldla1EzVVcxME5WRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "湯頭濃郁不會死鹹，搭配店家提供的冰綠茶剛好可以清口，而且還可以免費加麵,推推",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "湯頭濃郁不會死鹹，搭配店家提供的冰綠茶剛好可以清口，而且還可以免費加麵,推推",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "chou Red",
+        "uri": "https://www.google.com/maps/contrib/117811783143990488228/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUJOO8GWafMl-ZHWYQJh-Xd0gU1xT5_FsTT9S8kouv-gN5l4LM=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-06T15:59:28.750187877Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT204eU1ETTVUSFZQZFU1TFZuWldla1EzVVcxME5WRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT204eU1ETTVUSFZQZFU1TFZuWldla1EzVVcxME5WRRAB!2m1!1s0x3442ac617d27706b:0xacf6326731f6fcda"
+    },
+    {
+      "name": "places/ChIJa3AnfWGsQjQR2vz2MWcy9qw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWMWJHbE5Tamd6UVZBMlZtNVJUbnBoUzJ0MlZWRRAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 5,
+      "text": {
+        "text": "2025.07.15\n老闆很用心，除了有在關心客人的評論之外，還真的有聽取建議，今天又來用餐，發現老闆很認真擦桌子，店內清潔也有改善了，地上也沒有常常很多衛生紙亂飛了。\n麵還是很好吃，推薦大家。\n\n===========\n2025.07.12\n拉麵好吃，而且上菜速度很快，但是店員不曉得為什麼常常不擦桌子，或者擦不乾淨，每個禮拜都會來吃，但是很少一入座桌子就是乾淨的，每次都是髒的，希望衛生可以加強。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2025.07.15\n老闆很用心，除了有在關心客人的評論之外，還真的有聽取建議，今天又來用餐，發現老闆很認真擦桌子，店內清潔也有改善了，地上也沒有常常很多衛生紙亂飛了。\n麵還是很好吃，推薦大家。\n\n===========\n2025.07.12\n拉麵好吃，而且上菜速度很快，但是店員不曉得為什麼常常不擦桌子，或者擦不乾淨，每個禮拜都會來吃，但是很少一入座桌子就是乾淨的，每次都是髒的，希望衛生可以加強。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "握壽司",
+        "uri": "https://www.google.com/maps/contrib/116090373054647961800/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVDySPziGOolnL4MjIPjfifrZLT99zkd_OmxvaHtodl5988cu8l=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-07-15T06:11:05.926686173Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWMWJHbE5Tamd6UVZBMlZtNVJUbnBoUzJ0MlZWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWMWJHbE5Tamd6UVZBMlZtNVJUbnBoUzJ0MlZWRRAB!2m1!1s0x3442ac617d27706b:0xacf6326731f6fcda"
+    },
+    {
+      "name": "places/ChIJa3AnfWGsQjQR2vz2MWcy9qw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paQ2NWRlRkMTl3WDNaQ09IUnNUMXBuWW5NM1dFRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "吃過好多次,平均1~2個月會來一次\n很多品項都吃過,評價都是好的\n最常吃豚骨拉麵,加點的炸蝦,豬排也都不錯\n最近一次有點免費加麵,一樣好吃,而且吃的很飽\n價格實在C/P值真的高,店內位置多,還有廁所,洗個手很方便\n可以行動支付也很方便",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "吃過好多次,平均1~2個月會來一次\n很多品項都吃過,評價都是好的\n最常吃豚骨拉麵,加點的炸蝦,豬排也都不錯\n最近一次有點免費加麵,一樣好吃,而且吃的很飽\n價格實在C/P值真的高,店內位置多,還有廁所,洗個手很方便\n可以行動支付也很方便",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Sam Su",
+        "uri": "https://www.google.com/maps/contrib/100339109008673178837/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUCn4r2IX9kFAS2w7Xt_gNBMn7i8TdOvfcDBsqyLnAOEWvZWJFMQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-03-10T08:46:44.825075667Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paQ2NWRlRkMTl3WDNaQ09IUnNUMXBuWW5NM1dFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paQ2NWRlRkMTl3WDNaQ09IUnNUMXBuWW5NM1dFRRAB!2m1!1s0x3442ac617d27706b:0xacf6326731f6fcda"
+    },
+    {
+      "name": "places/ChIJa3AnfWGsQjQR2vz2MWcy9qw/reviews/Ci9DQUlRQUNvZENodHljRjlvT205a1ZUaDBUa2xVWlRsWGRWSjVkVzFUTm14WGNrRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "用餐環境乾淨舒適 服務親切 實惠的價格滿足的份量（加麵免費） 上班族中午能享用這樣一份拉麵 滿足",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "用餐環境乾淨舒適 服務親切 實惠的價格滿足的份量（加麵免費） 上班族中午能享用這樣一份拉麵 滿足",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Albert YEH",
+        "uri": "https://www.google.com/maps/contrib/108058859265739525060/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWHelvW88dkFz2C24f4lFlidCaRUxJaKhbZoP5ec_u5orhKbiY=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-09-11T11:09:11.796904500Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205a1ZUaDBUa2xVWlRsWGRWSjVkVzFUTm14WGNrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205a1ZUaDBUa2xVWlRsWGRWSjVkVzFUTm14WGNrRRAB!2m1!1s0x3442ac617d27706b:0xacf6326731f6fcda"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

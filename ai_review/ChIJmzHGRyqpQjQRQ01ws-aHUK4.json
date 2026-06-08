@@ -1,0 +1,52 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "店內位置不多，來用餐的話建議訂位比較保險。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "No",
+        "evidence": "Google Maps Attributes: Not good for children (官方標記：不適合兒童)",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "Google Maps Attributes: Not good for children (官方標記：不適合兒童)",
+        "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)",
+        "店內位置不多，來用餐的話建議訂位比較保險。"
+    ],
+    "generated_summary": "根據 Google Maps 官方標記，該餐廳明確標示為不適合兒童且不提供兒童餐。店內空間較為精緻、座位數不多，建議前往前先訂位。整體氛圍偏向文青與安靜的用餐環境，較不適合攜帶幼童前往。",
+    "card_summary": ""
+}

@@ -1,0 +1,132 @@
+{
+  "id": "ChIJm0InD6ipQjQR7of1ELGtupg",
+  "types": [
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2331 5810",
+  "formattedAddress": "108台灣臺北市萬華區新起里貴陽街二段115之20號",
+  "location": {
+    "latitude": 25.040114499999998,
+    "longitude": 121.5022736
+  },
+  "rating": 4.3,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 564,
+  "displayName": {
+    "text": "和風屋日料",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJm0InD6ipQjQR7of1ELGtupg/reviews/Ci9DQUlRQUNvZENodHljRjlvT25vd2NGQk9TRGh4Ukhka2VuZGhRbGxXTWxScVIyYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "今天第一次來\n整體最喜歡的是綜合生魚片（可以品嚐到食材的本味）\n當然也有不合口味的地方（尼基尼的醋飯醋味不夠、豆腐炸粉）\n下次有機會來可以試試其他品項",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天第一次來\n整體最喜歡的是綜合生魚片（可以品嚐到食材的本味）\n當然也有不合口味的地方（尼基尼的醋飯醋味不夠、豆腐炸粉）\n下次有機會來可以試試其他品項",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "王阿力",
+        "uri": "https://www.google.com/maps/contrib/112494712225102243300/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLawT94X27VDlCarj2JsWt_XprH0f0bH-ye4wJx0qSQm4yQYQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-11-09T10:11:32.856804618Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25vd2NGQk9TRGh4Ukhka2VuZGhRbGxXTWxScVIyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25vd2NGQk9TRGh4Ukhka2VuZGhRbGxXTWxScVIyYxAB!2m1!1s0x3442a9a80f27429b:0x98baadb110f587ee"
+    },
+    {
+      "name": "places/ChIJm0InD6ipQjQR7of1ELGtupg/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KeGJHWnJWVUZ2Vms4eE4zUTRiR1ZsTTBwNU1rRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "這是老字號店雖然小小間,但食材新鮮乾淨。常常高朋滿座的。每次來必點蝦仁炒飯+時節青菜+天婦羅+魚下巴。老闆是位年輕妹妹傳承老爸好手藝。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這是老字號店雖然小小間,但食材新鮮乾淨。常常高朋滿座的。每次來必點蝦仁炒飯+時節青菜+天婦羅+魚下巴。老闆是位年輕妹妹傳承老爸好手藝。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "愛旅客",
+        "uri": "https://www.google.com/maps/contrib/106278703546693612507/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU92qt-GXLPX6Phrqp9OGMkmqm2xui-3fjjdVoyBB1PRzZ5A24=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-22T22:32:18.577588642Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KeGJHWnJWVUZ2Vms4eE4zUTRiR1ZsTTBwNU1rRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KeGJHWnJWVUZ2Vms4eE4zUTRiR1ZsTTBwNU1rRRAB!2m1!1s0x3442a9a80f27429b:0x98baadb110f587ee"
+    },
+    {
+      "name": "places/ChIJm0InD6ipQjQR7of1ELGtupg/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GeFR6QlVOV0p4YVZwVlEwWnlRekJmUmpoRVVFRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "接待外場的阿姨講台語很親切\n生魚片新鮮又好吃，哇沙米不會太嗆鼻，整體搭配起來很順口，好吃！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "接待外場的阿姨講台語很親切\n生魚片新鮮又好吃，哇沙米不會太嗆鼻，整體搭配起來很順口，好吃！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳奕潔",
+        "uri": "https://www.google.com/maps/contrib/115580636957260263883/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXcFK3QneOPbbbR5AC8_k-v4C0v7fp2R7Dn1d7WSTIcxA5I7TIGeg=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-11-29T14:05:22.248004391Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GeFR6QlVOV0p4YVZwVlEwWnlRekJmUmpoRVVFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GeFR6QlVOV0p4YVZwVlEwWnlRekJmUmpoRVVFRRAB!2m1!1s0x3442a9a80f27429b:0x98baadb110f587ee"
+    },
+    {
+      "name": "places/ChIJm0InD6ipQjQR7of1ELGtupg/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SbVltUkJkMWh6TmtoemVXVmhXRGxmTlU5dGNsRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第一次來，就有很溫暖的感受！\n食物也很好吃\n氣氛佳",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次來，就有很溫暖的感受！\n食物也很好吃\n氣氛佳",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Pharma Enzo",
+        "uri": "https://www.google.com/maps/contrib/111427502539839851797/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUgep2hIdR7BSRaAdXNmBtcot8UbYOvMefb3s_MXkn4LGTwkR0K=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-10T14:30:40.402144957Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SbVltUkJkMWh6TmtoemVXVmhXRGxmTlU5dGNsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SbVltUkJkMWh6TmtoemVXVmhXRGxmTlU5dGNsRRAB!2m1!1s0x3442a9a80f27429b:0x98baadb110f587ee"
+    },
+    {
+      "name": "places/ChIJm0InD6ipQjQR7of1ELGtupg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5TFpUVjZhRWMwUlRSSmRqRnBhemxwVlVFME9FRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "店長有善，食物也很好\n生魚片可以切薄一點",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店長有善，食物也很好\n生魚片可以切薄一點",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chalmers Leung",
+        "uri": "https://www.google.com/maps/contrib/106301211147612512199/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWfyAFiBOPGBiRLZhwEv9e60iBtvLxbaek6rAafTYWH-yqXAsD2=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-22T16:17:39.256131832Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5TFpUVjZhRWMwUlRSSmRqRnBhemxwVlVFME9FRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5TFpUVjZhRWMwUlRSSmRqRnBhemxwVlVFME9FRRAB!2m1!1s0x3442a9a80f27429b:0x98baadb110f587ee"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": false
+}

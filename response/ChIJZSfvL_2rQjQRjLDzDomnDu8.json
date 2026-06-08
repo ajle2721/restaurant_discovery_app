@@ -1,0 +1,132 @@
+{
+  "id": "ChIJZSfvL_2rQjQRjLDzDomnDu8",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 8786 7229",
+  "formattedAddress": "110台灣臺北市信義區三張里莊敬路341巷7號1樓",
+  "location": {
+    "latitude": 25.028223,
+    "longitude": 121.56436329999998
+  },
+  "rating": 4.7,
+  "websiteUri": "https://www.facebook.com/cafefuguroasters",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 329,
+  "displayName": {
+    "text": "CAFE FUGU ROASTERS(2025金杯獎 手沖＆咖啡烘焙 雙優勝)",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJZSfvL_2rQjQRjLDzDomnDu8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OTExVMXdVazFQVWpWc0xVUlZiVXgzZEhKT1EyYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "給五星滿分都不夠的店，這家店氛圍好，咖啡好，手作甜點好，就已經很厲害了，連服務都很溫暖，專業的老闆跟賢慧的老闆夫人，還有一直很可靠的店員妹妹\n是一家帶朋友來絕對不會丟臉，還能讓自己顯得很有品味的一家店😎\n雖然我滿常點拿鐵類的（經費問題），但最好喝最驚豔的絕對是老闆的手沖（跟朋友來一定點手沖😤）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "給五星滿分都不夠的店，這家店氛圍好，咖啡好，手作甜點好，就已經很厲害了，連服務都很溫暖，專業的老闆跟賢慧的老闆夫人，還有一直很可靠的店員妹妹\n是一家帶朋友來絕對不會丟臉，還能讓自己顯得很有品味的一家店😎\n雖然我滿常點拿鐵類的（經費問題），但最好喝最驚豔的絕對是老闆的手沖（跟朋友來一定點手沖😤）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "阿琦",
+        "uri": "https://www.google.com/maps/contrib/106985714680802525288/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWTUZvBAvbPoVPrjJt8NDsPONriWAZbjEp7Pc57h_TzOGJvC0gJ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-21T13:03:53.133865852Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OTExVMXdVazFQVWpWc0xVUlZiVXgzZEhKT1EyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OTExVMXdVazFQVWpWc0xVUlZiVXgzZEhKT1EyYxAB!2m1!1s0x3442abfd2fef2765:0xef0ea7890ef3b08c"
+    },
+    {
+      "name": "places/ChIJZSfvL_2rQjQRjLDzDomnDu8/reviews/ChZDSUhNMG9nS0VJQ0FnTUNJdklXZ2N3EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "價格合理餐點與甜食！\n有很多不同風味的拿鐵跟豆子與牛奶可以選擇，根據店員細心的介紹喝起來確實有非常大的差別☺️\n拿鐵很順不負擔，巴斯克也很濃郁紮實\n喜歡這種實在的品質～\n店內不可外食，人多時有時間限制",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "價格合理餐點與甜食！\n有很多不同風味的拿鐵跟豆子與牛奶可以選擇，根據店員細心的介紹喝起來確實有非常大的差別☺️\n拿鐵很順不負擔，巴斯克也很濃郁紮實\n喜歡這種實在的品質～\n店內不可外食，人多時有時間限制",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Frank Li",
+        "uri": "https://www.google.com/maps/contrib/114824222412675802784/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXORxA2DT9ubS16qcnGswl8SZ2CGL-cE6wXGUM2Cz3h3UXLAOVR=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-03-31T07:56:21.331554Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNJdklXZ2N3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNJdklXZ2N3EAE!2m1!1s0x3442abfd2fef2765:0xef0ea7890ef3b08c"
+    },
+    {
+      "name": "places/ChIJZSfvL_2rQjQRjLDzDomnDu8/reviews/ChdDSUhNMG9nS0VJQ0FnTURBN3JpX3BRRRAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 4,
+      "text": {
+        "text": "這家的咖啡非常好喝！紅芭樂冰美式不錯，還有一些漸層的咖啡拍起來很美。可是今天的鐵觀音生乳卷等很久而且沒有很好吃。只有一位工作人員，所以人多的時候要等⋯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這家的咖啡非常好喝！紅芭樂冰美式不錯，還有一些漸層的咖啡拍起來很美。可是今天的鐵觀音生乳卷等很久而且沒有很好吃。只有一位工作人員，所以人多的時候要等⋯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Christina Cheng",
+        "uri": "https://www.google.com/maps/contrib/117925945654670914728/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI31peDcPcDmGj4ClvaI8DplB-QHM63_y1jEUUzRWa5z9YQXQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-07-21T13:13:00.401819634Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBN3JpX3BRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBN3JpX3BRRRAB!2m1!1s0x3442abfd2fef2765:0xef0ea7890ef3b08c"
+    },
+    {
+      "name": "places/ChIJZSfvL_2rQjQRjLDzDomnDu8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4b1RGcFNUV0o0TFV4YVNEbHhaekJCVVRWRmJYYxAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 5,
+      "text": {
+        "text": "環境乾淨、舒適、日系風格。\n咖啡豆選項很豐富，豆單好像2-3頁滿滿滿滿的；還有很多本店限定豆，很難下手，只好常去了☺️可以請店員老闆推薦可能適合自己的風味。\n這天點的是玫瑰香水風味的哥倫比亞 淺焙 雙重酵素水洗豆，真的從第一口到最後，都有淡雅的乾燥玫瑰花香氣，從杯就口那刻就可聞到。熱、溫、放涼都持續能嗅到，但放涼後就要盡快喝掉，我放過久，風味最後還是會跑掉😅\n藝伎提拉米蘇也很好吃。\n洗手間的幸運木很美🫶🏻",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境乾淨、舒適、日系風格。\n咖啡豆選項很豐富，豆單好像2-3頁滿滿滿滿的；還有很多本店限定豆，很難下手，只好常去了☺️可以請店員老闆推薦可能適合自己的風味。\n這天點的是玫瑰香水風味的哥倫比亞 淺焙 雙重酵素水洗豆，真的從第一口到最後，都有淡雅的乾燥玫瑰花香氣，從杯就口那刻就可聞到。熱、溫、放涼都持續能嗅到，但放涼後就要盡快喝掉，我放過久，風味最後還是會跑掉😅\n藝伎提拉米蘇也很好吃。\n洗手間的幸運木很美🫶🏻",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lee Michelle",
+        "uri": "https://www.google.com/maps/contrib/100839144710043303487/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjURLPBpqr4Orp-nLE_cg95DK6FFKmQDRGcFtvOvJyd1O7Y93VIa=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-06-14T15:28:49.956300008Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4b1RGcFNUV0o0TFV4YVNEbHhaekJCVVRWRmJYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4b1RGcFNUV0o0TFV4YVNEbHhaekJCVVRWRmJYYxAB!2m1!1s0x3442abfd2fef2765:0xef0ea7890ef3b08c"
+    },
+    {
+      "name": "places/ChIJZSfvL_2rQjQRjLDzDomnDu8/reviews/ChZDSUhNMG9nS0VJQ0FnSURIN05DNGJnEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "外帶冰美式和熱手沖（衣索比亞班奇馬吉露西藝妓）淺焙 水洗\n老闆有建議可從熱喝到涼\n真的風味層次不同\n非常順口好喝\n\n冰美式是使用中焙的咖啡豆\n清爽順口\n\n巷弄裡的小店\n很日式的風格及擺設\n感覺出老闆的用心\n店內也販賣一些咖啡相關的器具\n還有讓外帶客人等待的座位\n相當貼心\n另外還有甜點之類的\n下次內用時再來品嚐看看",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "外帶冰美式和熱手沖（衣索比亞班奇馬吉露西藝妓）淺焙 水洗\n老闆有建議可從熱喝到涼\n真的風味層次不同\n非常順口好喝\n\n冰美式是使用中焙的咖啡豆\n清爽順口\n\n巷弄裡的小店\n很日式的風格及擺設\n感覺出老闆的用心\n店內也販賣一些咖啡相關的器具\n還有讓外帶客人等待的座位\n相當貼心\n另外還有甜點之類的\n下次內用時再來品嚐看看",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "cyousei kyu",
+        "uri": "https://www.google.com/maps/contrib/112316640940498748055/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW2XabCq5psT5GXW44q58yCVCl6lIjKX6lc3RmqJl5OiqBCK2JW=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2024-09-13T11:36:15.417330Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURIN05DNGJnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURIN05DNGJnEAE!2m1!1s0x3442abfd2fef2765:0xef0ea7890ef3b08c"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": false
+}

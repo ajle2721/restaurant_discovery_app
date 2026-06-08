@@ -1,0 +1,133 @@
+{
+  "id": "ChIJL-GjbFmpQjQR4tZpfRPu-Dg",
+  "types": [
+    "brunch_restaurant",
+    "breakfast_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2581 8148",
+  "formattedAddress": "10491台灣臺北市中山區新生里松江路362巷5號",
+  "location": {
+    "latitude": 25.0620342,
+    "longitude": 121.53264670000002
+  },
+  "rating": 4.5,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 241,
+  "displayName": {
+    "text": "阿超早午餐店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJL-GjbFmpQjQR4tZpfRPu-Dg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pObVp6TkdibmxRTlVWck5tbHVSM2RDVDJwbVRFRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "外帶芋泥蛋餅，吃之前有再氣炸過，芋泥非常的綿密滑順，給的量也不少，是有甜度的（私心希望可以再不甜一點），而蛋餅餅皮雖然是一般常見的早餐店餅皮，不過店家處理得跟硬Q，非常有口感，帶甜的芋泥搭配略有鹹味的餅皮和蛋，整體味道滿有層次的，鹹甜鹹甜十分特別，值得嘗試。下次想試試看看薯泥蛋餅。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "外帶芋泥蛋餅，吃之前有再氣炸過，芋泥非常的綿密滑順，給的量也不少，是有甜度的（私心希望可以再不甜一點），而蛋餅餅皮雖然是一般常見的早餐店餅皮，不過店家處理得跟硬Q，非常有口感，帶甜的芋泥搭配略有鹹味的餅皮和蛋，整體味道滿有層次的，鹹甜鹹甜十分特別，值得嘗試。下次想試試看看薯泥蛋餅。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "mu mu",
+        "uri": "https://www.google.com/maps/contrib/115675681630425395358/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVsS5iQfpLz5lSxUlc6zSXK7IYjemCdKDYC-EcFYkqtX6Qt54gmow=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-01-05T10:46:18.563272989Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pObVp6TkdibmxRTlVWck5tbHVSM2RDVDJwbVRFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pObVp6TkdibmxRTlVWck5tbHVSM2RDVDJwbVRFRRAB!2m1!1s0x3442a9596ca3e12f:0x38f8ee137d69d6e2"
+    },
+    {
+      "name": "places/ChIJL-GjbFmpQjQR4tZpfRPu-Dg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5VGFVTkhiQzFFVGtGeGVUYzNWRlZCUzIwNVJWRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "去行天宮拜拜來這附近吃早餐，意外發現這間CP值很高的早餐店！\n1.套餐豐盛含飲料約80~110元。單點品項也都銅板價。\n2.環境清潔舒適還有免費WiFi 可以慢慢享受餐點。\n3.店內阿姨態度親切。\n這次點鮪魚蛋餅+蘿蔔糕+中冰奶=80元！推鮪魚蛋餅是有香氣的，蘿蔔糕也煎得恰恰的加上店內特殊辣椒醬真好吃😋，下次來拜拜要再來光顧。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "去行天宮拜拜來這附近吃早餐，意外發現這間CP值很高的早餐店！\n1.套餐豐盛含飲料約80~110元。單點品項也都銅板價。\n2.環境清潔舒適還有免費WiFi 可以慢慢享受餐點。\n3.店內阿姨態度親切。\n這次點鮪魚蛋餅+蘿蔔糕+中冰奶=80元！推鮪魚蛋餅是有香氣的，蘿蔔糕也煎得恰恰的加上店內特殊辣椒醬真好吃😋，下次來拜拜要再來光顧。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ya Chi Kao",
+        "uri": "https://www.google.com/maps/contrib/100581950833206399287/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ0DDLdgaCX3mjmvSn3kcg3dMjixjoruKcg_b5q_Y4e-rqjRA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-30T06:18:29.004313888Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5VGFVTkhiQzFFVGtGeGVUYzNWRlZCUzIwNVJWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5VGFVTkhiQzFFVGtGeGVUYzNWRlZCUzIwNVJWRRAB!2m1!1s0x3442a9596ca3e12f:0x38f8ee137d69d6e2"
+    },
+    {
+      "name": "places/ChIJL-GjbFmpQjQR4tZpfRPu-Dg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tnek1WOVljVTk2UVRnMlFteHZlWFZTUjNOQmVXYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "鮪魚蛋餅 蘿蔔糕煎的焦焦的很好吃\n辣椒蠻辣的但很香 一定要加一點\n店內環境蠻乾淨 沒什麼油煙味～\n吃完垃圾要自己收\n阿姨很親切！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "鮪魚蛋餅 蘿蔔糕煎的焦焦的很好吃\n辣椒蠻辣的但很香 一定要加一點\n店內環境蠻乾淨 沒什麼油煙味～\n吃完垃圾要自己收\n阿姨很親切！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "shan",
+        "uri": "https://www.google.com/maps/contrib/106606501745989648701/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJiJv4CE4SQoGzpg1mRqf5bbQVv-tkoXtqTSqtuS7ZKxVRFXw=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-28T16:39:52.463085065Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tnek1WOVljVTk2UVRnMlFteHZlWFZTUjNOQmVXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tnek1WOVljVTk2UVRnMlFteHZlWFZTUjNOQmVXYxAB!2m1!1s0x3442a9596ca3e12f:0x38f8ee137d69d6e2"
+    },
+    {
+      "name": "places/ChIJL-GjbFmpQjQR4tZpfRPu-Dg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkRE9EWjZlR1ZSTVVveVZGVkdWVGt4VkdKQlNtYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "阿姨親切\n環境很乾淨\n奶茶.培根蛋餅.黑胡椒鐵板麵都很好吃\n辣椒很香很辣\n記得內用餐點用畢要自己回收喔！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "阿姨親切\n環境很乾淨\n奶茶.培根蛋餅.黑胡椒鐵板麵都很好吃\n辣椒很香很辣\n記得內用餐點用畢要自己回收喔！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Bobo[第8級在地嚮導]",
+        "uri": "https://www.google.com/maps/contrib/114112199538044267990/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXWzFYMTS_EH2SnnMelfq31QVpvXt2TuyYJPV4WglA92hNfBwU=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-06T10:09:04.994885263Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkRE9EWjZlR1ZSTVVveVZGVkdWVGt4VkdKQlNtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkRE9EWjZlR1ZSTVVveVZGVkdWVGt4VkdKQlNtYxAB!2m1!1s0x3442a9596ca3e12f:0x38f8ee137d69d6e2"
+    },
+    {
+      "name": "places/ChIJL-GjbFmpQjQR4tZpfRPu-Dg/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRb3N6aFBnEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "蘿蔔糕不用特別交代就會幫客人煎的外酥內軟、技術好👍、豆漿忘了問無糖的、但微微甜、可接受，店內乾淨寬敞、有隔門、所以不會有油煙味、很讚！菜單應該是延用原本的（早點見）、價位親民、下次會想再來",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "蘿蔔糕不用特別交代就會幫客人煎的外酥內軟、技術好👍、豆漿忘了問無糖的、但微微甜、可接受，店內乾淨寬敞、有隔門、所以不會有油煙味、很讚！菜單應該是延用原本的（早點見）、價位親民、下次會想再來",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Veegee C",
+        "uri": "https://www.google.com/maps/contrib/113755383603055618823/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVUvoLiq8MPsbnmFBTD55ifxylG0kHTmpsJTPJBlPC-rCYf1zp7eg=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-03-03T09:18:01.807724Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRb3N6aFBnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRb3N6aFBnEAE!2m1!1s0x3442a9596ca3e12f:0x38f8ee137d69d6e2"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

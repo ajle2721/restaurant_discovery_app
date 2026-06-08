@@ -1,0 +1,56 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "樓梯間隔較小，上了一個非常陡的螺旋樓梯後，是二樓的用餐區，空間不算寬敞。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "官方標記：不提供兒童餐",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "No",
+        "evidence": "這個是一個適合聊天的小小咖啡店，氛圍很棒，讓人有種放鬆心情、放空的舒適感受。",
+        "confidence": 0.9
+    },
+    "has_play_area": {
+        "result": "No",
+        "evidence": null,
+        "confidence": 0.9
+    },
+    "has_private_room": {
+        "result": "No",
+        "evidence": null,
+        "confidence": 0.9
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "這個是一個適合聊天的小小咖啡店",
+        "上了一個非常陡的螺旋樓梯後，是二樓的用餐區",
+        "樓梯間隔較小，上了一個非常陡的螺旋樓梯後，是二樓的用餐區，空間不算寬敞。",
+        "官方標記：不提供兒童餐",
+        "空間不算寬敞",
+        "這個是一個適合聊天的小小咖啡店，氛圍很棒，讓人有種放鬆心情、放空的舒適感受。",
+        "樓梯間隔較小"
+    ],
+    "generated_summary": "琢磨咖啡為老宅改建的咖啡廳，空間較為狹小且設有陡峭的螺旋樓梯，環境氛圍偏向安靜放鬆，並不特別適合攜帶幼童前往。此外，店家明確標示不提供兒童餐，且評論中未提及兒童座椅、餐具或尿布台等親子友善設施。",
+    "card_summary": ""
+}

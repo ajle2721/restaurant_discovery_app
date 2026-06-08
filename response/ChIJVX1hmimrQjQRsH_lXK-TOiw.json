@@ -1,0 +1,132 @@
+{
+  "id": "ChIJVX1hmimrQjQRsH_lXK-TOiw",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2720 8119",
+  "formattedAddress": "110台灣臺北市信義區三犁里松仁路227號",
+  "location": {
+    "latitude": 25.026361599999998,
+    "longitude": 121.56869590000001
+  },
+  "rating": 4.1,
+  "websiteUri": "https://www.qburger.com.tw/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 296,
+  "displayName": {
+    "text": "Q Burger 信義松仁店(直營)",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJVX1hmimrQjQRsH_lXK-TOiw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25nMFEybHVhV1IwUVZrNE0wUnpSVXQyT0ZWc2NVRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 2,
+      "text": {
+        "text": "以前會固定內用，蠻喜歡Q burger\n但最近幾次感受到人力不足夠的狀況\n\n除了桌面收拾比較慢\n餐具擺放的地方感覺沒有更換布\n醬料區時常是空空如也，辣椒常常是空罐QQ\n\n希望直營店可以改善內用環境 謝謝",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "以前會固定內用，蠻喜歡Q burger\n但最近幾次感受到人力不足夠的狀況\n\n除了桌面收拾比較慢\n餐具擺放的地方感覺沒有更換布\n醬料區時常是空空如也，辣椒常常是空罐QQ\n\n希望直營店可以改善內用環境 謝謝",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Allen Liao",
+        "uri": "https://www.google.com/maps/contrib/109897121865237853523/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL1K1tUjQTmmmpe1ZU5rxB8kExPsXuovZ3aAjNH6Mq9VkjB80k4=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-11-26T07:15:09.643324241Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25nMFEybHVhV1IwUVZrNE0wUnpSVXQyT0ZWc2NVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25nMFEybHVhV1IwUVZrNE0wUnpSVXQyT0ZWc2NVRRAB!2m1!1s0x3442ab299a617d55:0x2c3a93af5ce57fb0"
+    },
+    {
+      "name": "places/ChIJVX1hmimrQjQRsH_lXK-TOiw/reviews/ChdDSUhNMG9nS0VJQ0FnSURXNXNhQ3hRRRAB",
+      "relativePublishTimeDescription": "4 年前",
+      "rating": 1,
+      "text": {
+        "text": "上次來這家Qburger 點了經典牛肉起司漢堡套餐，覺得很不錯，這一次其他的早餐，沒想到是一場災難。這次點了蕈菇嫩蛋套餐 $104+ 法式鮪魚歐姆蛋堡套餐 $110。餐點拿回家打開後真的傻眼 （附上照片）總共$$214 ，結果拿到的餐點感覺很cheap. 老實說，花同樣的錢，我情願多走幾步去附近的麥X 或 摩X 買早餐，至少落差不會這麼大，而且會吃的蠻飽的。真的非常非常失望。\n\nP.S.套餐還包括一份小薯及中杯奶茶，沒有在照片裡。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "上次來這家Qburger 點了經典牛肉起司漢堡套餐，覺得很不錯，這一次其他的早餐，沒想到是一場災難。這次點了蕈菇嫩蛋套餐 $104+ 法式鮪魚歐姆蛋堡套餐 $110。餐點拿回家打開後真的傻眼 （附上照片）總共$$214 ，結果拿到的餐點感覺很cheap. 老實說，花同樣的錢，我情願多走幾步去附近的麥X 或 摩X 買早餐，至少落差不會這麼大，而且會吃的蠻飽的。真的非常非常失望。\n\nP.S.套餐還包括一份小薯及中杯奶茶，沒有在照片裡。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Henry Chung",
+        "uri": "https://www.google.com/maps/contrib/110491081884771000805/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUmAgB6Q5rn6kfysuRrV4B8BbOLyCcEeEcytLyszZBnVgTHpES_=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2022-03-23T00:56:30.478246Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURXNXNhQ3hRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURXNXNhQ3hRRRAB!2m1!1s0x3442ab299a617d55:0x2c3a93af5ce57fb0"
+    },
+    {
+      "name": "places/ChIJVX1hmimrQjQRsH_lXK-TOiw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtN0pMWUVREAE",
+      "relativePublishTimeDescription": "4 年前",
+      "rating": 5,
+      "text": {
+        "text": "評論五星送薯條或地瓜薯條\n\n打拋豬歐姆蛋好吃 只是有點少\n蛋餅跟蘿蔔糕1+1普通 但店內的辣椒醬還不錯～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "評論五星送薯條或地瓜薯條\n\n打拋豬歐姆蛋好吃 只是有點少\n蛋餅跟蘿蔔糕1+1普通 但店內的辣椒醬還不錯～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jummmp",
+        "uri": "https://www.google.com/maps/contrib/111929191879417527280/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXV_oT5na7LFl4zTYNUNssxVLDpOZx6rZDbEzwsHHv_D6T9cO2U=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2021-12-22T06:44:06.159379Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNtN0pMWUVREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNtN0pMWUVREAE!2m1!1s0x3442ab299a617d55:0x2c3a93af5ce57fb0"
+    },
+    {
+      "name": "places/ChIJVX1hmimrQjQRsH_lXK-TOiw/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ2X2RYeEJBEAE",
+      "relativePublishTimeDescription": "4 年前",
+      "rating": 5,
+      "text": {
+        "text": "《品質標準統一的連鎖早午餐》\n\n吃過在中和的Q burger，連鎖早餐店的水準是蠻統一的。室內用餐環境滿整潔的，採用自助拿餐具、內用先付款後送餐方式。\n\n美式咖啡，濃度跟香味真的很不錯，蠻喜歡的🥰\n\n可朗芙，感覺很像把可頌麵包放在鬆餅機壓成形🤣 口感跟可頌超像！\n\n花生肉蛋吐司，淡淡的花生醬味道還不賴，可惜吐司烤的不夠酥\n\n外面也有三明治及飲料提供趕時間的客人，相當多種品項提供選擇，對於有選擇障礙的人真是一大挑戰🤣🤣🤣🤣🤣",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "《品質標準統一的連鎖早午餐》\n\n吃過在中和的Q burger，連鎖早餐店的水準是蠻統一的。室內用餐環境滿整潔的，採用自助拿餐具、內用先付款後送餐方式。\n\n美式咖啡，濃度跟香味真的很不錯，蠻喜歡的🥰\n\n可朗芙，感覺很像把可頌麵包放在鬆餅機壓成形🤣 口感跟可頌超像！\n\n花生肉蛋吐司，淡淡的花生醬味道還不賴，可惜吐司烤的不夠酥\n\n外面也有三明治及飲料提供趕時間的客人，相當多種品項提供選擇，對於有選擇障礙的人真是一大挑戰🤣🤣🤣🤣🤣",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Laura Hsiao",
+        "uri": "https://www.google.com/maps/contrib/118039438141196234232/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUKSmbXhR-vHtVwuZIzPxKqpH_CIKO-CpgYizLKtLNTlKh-MTwqpw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2021-10-09T02:13:05.273088Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ2X2RYeEJBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ2X2RYeEJBEAE!2m1!1s0x3442ab299a617d55:0x2c3a93af5ce57fb0"
+    },
+    {
+      "name": "places/ChIJVX1hmimrQjQRsH_lXK-TOiw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNpblpPYWlRRRAB",
+      "relativePublishTimeDescription": "5 年前",
+      "rating": 4,
+      "text": {
+        "text": "可朗芙外送還熱騰騰，非常好吃\n澳門豬扒包適合加蛋不適合起士，都融化在紙袋上了😂，但以這大小來說確實有點小貴，套餐要價$160（含薯條、飲料），不過內容物很紮實，搭配上炒到焦糖色的洋蔥以及生菜，飽過中午，之後有機會也會想去店內吃看看～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "可朗芙外送還熱騰騰，非常好吃\n澳門豬扒包適合加蛋不適合起士，都融化在紙袋上了😂，但以這大小來說確實有點小貴，套餐要價$160（含薯條、飲料），不過內容物很紮實，搭配上炒到焦糖色的洋蔥以及生菜，飽過中午，之後有機會也會想去店內吃看看～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Alice Chang",
+        "uri": "https://www.google.com/maps/contrib/115377023403286642047/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLPEFA6VCBJ5aiHAaqwzvqHwo5fqduG26Vp6Nq2AErx9bzbN3aZ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2020-11-12T06:06:22.832285Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNpblpPYWlRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNpblpPYWlRRRAB!2m1!1s0x3442ab299a617d55:0x2c3a93af5ce57fb0"
+    }
+  ],
+  "goodForChildren": true
+}

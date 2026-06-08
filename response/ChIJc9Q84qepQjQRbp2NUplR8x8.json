@@ -1,0 +1,132 @@
+{
+  "id": "ChIJc9Q84qepQjQRbp2NUplR8x8",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2311 6638",
+  "formattedAddress": "108台灣臺北市萬華區福音里貴陽街二段108號",
+  "location": {
+    "latitude": 25.039886199999998,
+    "longitude": 121.5028421
+  },
+  "rating": 4.1,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 241,
+  "displayName": {
+    "text": "108早午餐（貴陽店)",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJc9Q84qepQjQRbp2NUplR8x8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wM1UwSmxWUzB0Y1VGUWRYTjRRa1F5WW1KWlJXYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "在找有薯餅蛋塔的店家 意外找到這家\n分量夠也好吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在找有薯餅蛋塔的店家 意外找到這家\n分量夠也好吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "呂冠緯",
+        "uri": "https://www.google.com/maps/contrib/104603275842646365605/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWtutEnoPK6_4xOBG3sR9oW2PFnyBkmUkgF9h40qr9WN8J017mU=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-10T22:12:29.335828730Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wM1UwSmxWUzB0Y1VGUWRYTjRRa1F5WW1KWlJXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wM1UwSmxWUzB0Y1VGUWRYTjRRa1F5WW1KWlJXYxAB!2m1!1s0x3442a9a7e23cd473:0x1ff35199528d9d6e"
+    },
+    {
+      "name": "places/ChIJc9Q84qepQjQRbp2NUplR8x8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xNdGJEQldVbEJyY21wTVRXRjVPRlJMWjIxSmNFRRAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 5,
+      "text": {
+        "text": "一共$135\n無糖豆漿跟米漿不錯，雞肉三明治好吃。\n蘿蔔糕跟原味蛋餅很快就上桌，QQ軟軟口感很好。\n醬油風味也很棒，搭配起來超讚！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一共$135\n無糖豆漿跟米漿不錯，雞肉三明治好吃。\n蘿蔔糕跟原味蛋餅很快就上桌，QQ軟軟口感很好。\n醬油風味也很棒，搭配起來超讚！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "P P",
+        "uri": "https://www.google.com/maps/contrib/112632888041070510333/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJV-8TgksggkPWV8ubasDe5ABs95OwTC_Dsvauq7DhKvWZYTg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-08-09T23:24:31.795781681Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xNdGJEQldVbEJyY21wTVRXRjVPRlJMWjIxSmNFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xNdGJEQldVbEJyY21wTVRXRjVPRlJMWjIxSmNFRRAB!2m1!1s0x3442a9a7e23cd473:0x1ff35199528d9d6e"
+    },
+    {
+      "name": "places/ChIJc9Q84qepQjQRbp2NUplR8x8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wVFUydG9WRlpaT0d0Q00yZHNSMVJpUVRSUGJWRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "是那種好吃的古早味早餐店\n中杯紅茶好大杯\n價錢很樸實",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "是那種好吃的古早味早餐店\n中杯紅茶好大杯\n價錢很樸實",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Irina",
+        "uri": "https://www.google.com/maps/contrib/115390710476091418229/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVHKiQZJ2-VN_PS1DyeywXltlru92Idb4D7ad96J6CWMKds2wkM=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-06T05:24:15.147626147Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wVFUydG9WRlpaT0d0Q00yZHNSMVJpUVRSUGJWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wVFUydG9WRlpaT0d0Q00yZHNSMVJpUVRSUGJWRRAB!2m1!1s0x3442a9a7e23cd473:0x1ff35199528d9d6e"
+    },
+    {
+      "name": "places/ChIJc9Q84qepQjQRbp2NUplR8x8/reviews/ChZDSUhNMG9nS0VOX0h5ZVhOM01mdVZ3EAE",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "意外發現的一間早餐店.早餐好吃.老闆娘也很熱情.員工工作起來也很有活力.很喜歡的一間店",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "意外發現的一間早餐店.早餐好吃.老闆娘也很熱情.員工工作起來也很有活力.很喜歡的一間店",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "笑笑看",
+        "uri": "https://www.google.com/maps/contrib/102017796226617730331/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUU6iPzrAU6fxFK_n9RVn8uUEkk6DbS2w8qo0RGVt8PlX5voa7TVg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-10T09:57:58.848877333Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VOX0h5ZVhOM01mdVZ3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VOX0h5ZVhOM01mdVZ3EAE!2m1!1s0x3442a9a7e23cd473:0x1ff35199528d9d6e"
+    },
+    {
+      "name": "places/ChIJc9Q84qepQjQRbp2NUplR8x8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGbFpWRXphMmd6Ym1adVpXOXBWRXBxV0ZJM01VRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 3,
+      "text": {
+        "text": "我點了海南雞丁麵，但怎麼沒有海南風味？也沒有雞丁？？\n整個黑人問號❓",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "我點了海南雞丁麵，但怎麼沒有海南風味？也沒有雞丁？？\n整個黑人問號❓",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Dorise Liu",
+        "uri": "https://www.google.com/maps/contrib/110757471504908964625/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKNEDqKIkzm7vuqvM6-xSrpoZX7FhNEW6BEh2f956Tccf6Wgw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-09-19T08:14:31.316136609Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGbFpWRXphMmd6Ym1adVpXOXBWRXBxV0ZJM01VRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGbFpWRXphMmd6Ym1adVpXOXBWRXBxV0ZJM01VRRAB!2m1!1s0x3442a9a7e23cd473:0x1ff35199528d9d6e"
+    }
+  ],
+  "menuForChildren": true,
+  "goodForChildren": true
+}

@@ -1,0 +1,52 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "每一小區域坐一桌，讓來用餐的客人們可以好好聊天不打擾彼此。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "官方標記：不提供兒童餐",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "官方標記：適合兒童",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "官方標記：適合兒童",
+        "官方標記：不提供兒童餐",
+        "每一小區域坐一桌，讓來用餐的客人們可以好好聊天不打擾彼此。"
+    ],
+    "generated_summary": "該餐廳經官方標記為適合兒童，且店內規劃為獨立區域，用餐環境相對寬敞隱密。不過，餐廳明確標示不提供兒童餐，且目前評論中未提及兒童座椅、餐具或尿布台等設施，建議家長前往前可先致電確認相關親子備品。",
+    "card_summary": ""
+}

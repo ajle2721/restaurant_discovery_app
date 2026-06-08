@@ -1,0 +1,54 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "左側有寬敞的餐廳空間",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": "Google Maps Attributes: Menu for children (官方標記：提供兒童餐)",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "Google Maps Attributes: Good for children (官方標記：適合兒童)",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Yes",
+        "evidence": "這一次終於被安排在包廂裡。",
+        "confidence": 0.9
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "人工校正與AI綜合評估",
+    "generated_signals": [
+        "頗適合家庭聚餐",
+        "Google Maps Attributes: Menu for children (官方標記：提供兒童餐)",
+        "這一次終於被安排在包廂裡。",
+        "Google Maps Attributes: Good for children (官方標記：適合兒童)",
+        "左側有寬敞的餐廳空間"
+    ],
+    "generated_summary": "樂湖Le lakeshore 是一間適合家庭聚餐的溫馨餐廳。官方標示提供兒童餐且適合兒童，店內擁有寬敞的餐廳空間，並設有可容納約八人的獨立包廂，非常適合家庭聚會。不過評論中未提及是否提供兒童椅、兒童餐具、尿布台或遊戲區，建議有相關需求的家長前往前先向店家確認。",
+    "card_summary": ""
+}

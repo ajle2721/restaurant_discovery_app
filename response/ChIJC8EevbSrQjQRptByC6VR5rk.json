@@ -1,0 +1,132 @@
+{
+  "id": "ChIJC8EevbSrQjQRptByC6VR5rk",
+  "types": [
+    "italian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2758 5918",
+  "formattedAddress": "110台灣臺北市信義區吳興街269巷13號",
+  "location": {
+    "latitude": 25.0273815,
+    "longitude": 121.5647066
+  },
+  "rating": 4,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 430,
+  "displayName": {
+    "text": "大蒜義式加州廚房",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJC8EevbSrQjQRptByC6VR5rk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kNk5XaDZRbHBSTmxrNGRUZG9PWEZKTnpsWWNFRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "無意間經過的店\n口味是不錯\n份量也夠\n但唯一的缺點是\n料很少都是麵\n雞肉麵只有小小三塊雞肉\n海鮮麵說有魚但沒有\n只有兩塊小小的魷魚跟一隻小蝦仁和五個小蛤蜊",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "無意間經過的店\n口味是不錯\n份量也夠\n但唯一的缺點是\n料很少都是麵\n雞肉麵只有小小三塊雞肉\n海鮮麵說有魚但沒有\n只有兩塊小小的魷魚跟一隻小蝦仁和五個小蛤蜊",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Cynsia Pan",
+        "uri": "https://www.google.com/maps/contrib/105181086177380728866/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUOYGOmSretQbpc6RXBcl1PM2Gk2j8NmO75fG9jMbN9DWckEMgJ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-07T10:45:58.379915058Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kNk5XaDZRbHBSTmxrNGRUZG9PWEZKTnpsWWNFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kNk5XaDZRbHBSTmxrNGRUZG9PWEZKTnpsWWNFRRAB!2m1!1s0x3442abb4bd1ec10b:0xb9e651a50b72d0a6"
+    },
+    {
+      "name": "places/ChIJC8EevbSrQjQRptByC6VR5rk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tZeFFsZHFiVVp1Um10M1RqWXpNVkpQWHpCS2NVRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "今天天氣很冷，店家很貼心，除了平時就有的玉米蔬菜濃湯以及冰紅茶。還另外準備了熱紅茶、裝熱紅茶的馬克杯。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天天氣很冷，店家很貼心，除了平時就有的玉米蔬菜濃湯以及冰紅茶。還另外準備了熱紅茶、裝熱紅茶的馬克杯。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林俐敏",
+        "uri": "https://www.google.com/maps/contrib/105326934549871962243/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWIvUO-H-ZEk8ydu2c-Kv4eeaswT7YeO2cHlek6hIZGFS97QcU=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-27T11:26:08.761307121Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tZeFFsZHFiVVp1Um10M1RqWXpNVkpQWHpCS2NVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tZeFFsZHFiVVp1Um10M1RqWXpNVkpQWHpCS2NVRRAB!2m1!1s0x3442abb4bd1ec10b:0xb9e651a50b72d0a6"
+    },
+    {
+      "name": "places/ChIJC8EevbSrQjQRptByC6VR5rk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxU2NVMTJWbTlJUVZOUWNEbDNXVnBhVTFKcVZGRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "義大利麵整體走清爽路線，味道偏淡，適合喜歡不油不鹹的人。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "義大利麵整體走清爽路線，味道偏淡，適合喜歡不油不鹹的人。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Mavis Chen",
+        "uri": "https://www.google.com/maps/contrib/108553061807518132986/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXbhagm5XSr4voNW6eDTkB7kNk2STtd97DL0sN_8ollhmI7bA60PA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-11T15:29:43.053985840Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxU2NVMTJWbTlJUVZOUWNEbDNXVnBhVTFKcVZGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxU2NVMTJWbTlJUVZOUWNEbDNXVnBhVTFKcVZGRRAB!2m1!1s0x3442abb4bd1ec10b:0xb9e651a50b72d0a6"
+    },
+    {
+      "name": "places/ChIJC8EevbSrQjQRptByC6VR5rk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkTGMwdHVVRWN4YWxWcVNtTlhVMjVPWTFnelgzYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "回訪幾次了 餐點份量很多很讚\n大蒜麵包超好吃 一定要點",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "回訪幾次了 餐點份量很多很讚\n大蒜麵包超好吃 一定要點",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "小u",
+        "uri": "https://www.google.com/maps/contrib/110204900018827640612/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU2SdFx-waS8kPD7cHpDZ91eurQkDDF1UrAbQZdyLdixfqM7O4R9w=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-12T21:37:18.705223341Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkTGMwdHVVRWN4YWxWcVNtTlhVMjVPWTFnelgzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkTGMwdHVVRWN4YWxWcVNtTlhVMjVPWTFnelgzYxAB!2m1!1s0x3442abb4bd1ec10b:0xb9e651a50b72d0a6"
+    },
+    {
+      "name": "places/ChIJC8EevbSrQjQRptByC6VR5rk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wdU1tZHBXVUpRTVdkM2JFeGlZelEwVTJaS00xRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "平價的義式料理，料多，濃湯跟飲料無限",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "平價的義式料理，料多，濃湯跟飲料無限",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "菜阿英",
+        "uri": "https://www.google.com/maps/contrib/107230091369267877001/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVvutZ7oG7nvJrbCEz0g6TpsbVxnvK5SQcsE_ACTRLjvPpJ99ab=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-09-30T11:47:54.271146501Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wdU1tZHBXVUpRTVdkM2JFeGlZelEwVTJaS00xRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wdU1tZHBXVUpRTVdkM2JFeGlZelEwVTJaS00xRRAB!2m1!1s0x3442abb4bd1ec10b:0xb9e651a50b72d0a6"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

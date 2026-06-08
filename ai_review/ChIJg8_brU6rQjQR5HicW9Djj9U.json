@@ -1,0 +1,53 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "隱身2樓的小空間，店內通風不足，可能會聞到些許廚房的味道。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "Google Maps Attributes: Good for children (官方標記：適合兒童)",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "隱身2樓的小空間",
+        "店內通風不足，可能會聞到些許廚房的味道",
+        "Google Maps Attributes: Good for children (官方標記：適合兒童)",
+        "隱身2樓的小空間，店內通風不足，可能會聞到些許廚房的味道。"
+    ],
+    "generated_summary": "該餐廳被 Google Maps 標記為適合兒童，但店內屬於位於公寓二樓的小空間，環境較為緊湊且通風有限。目前評論中未提及兒童椅、兒童餐具、遊戲區或尿布台等具體親子設施，建議前往前可先向店家確認。",
+    "card_summary": ""
+}

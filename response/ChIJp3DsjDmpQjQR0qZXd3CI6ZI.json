@@ -1,0 +1,139 @@
+{
+  "id": "ChIJp3DsjDmpQjQR0qZXd3CI6ZI",
+  "types": [
+    "brunch_restaurant",
+    "gift_shop",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2517 0908",
+  "formattedAddress": "104台灣臺北市中山區朱園里伊通街52巷8號",
+  "location": {
+    "latitude": 25.0512956,
+    "longitude": 121.53429159999997
+  },
+  "rating": 4.2,
+  "websiteUri": "https://www.facebook.com/%E7%A6%8F%E6%B4%B1%E5%95%86%E8%A1%8C-101498614773854/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 1337,
+  "displayName": {
+    "text": "福洱商行總部服務中心 (無內用服務，採預約制，請提早三十分鐘！)",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Informal restaurant serving up classic breakfast & brunch dishes in laid-back surroundings.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJp3DsjDmpQjQR0qZXd3CI6ZI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aMU4xQklXblZJZWtOTWVDMW1ZMXBNTkRGU2JsRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第一次來吃，是因為有朋友介紹，吃過一次後，就覺得很好吃，之後再來兩次台北旅遊，也有吃。\n店內不是很大，座位四五張，幾次都有等候一下，10分鐘左右。\n這次來，有新推出的南洋系列，點了熟成綠咖哩豬扒拌麵，綠咖哩很香，又不辣，還有配太陽蛋，拌麵很好。\n也點了綠咖哩牛肉吐司，裡面也很滿，綠咖哩很香，牛肉不算少，吐司很脆。\n豬扒蛋餅，蛋餅超香，外面脆脆的，裡面軟軟的，很香雞蛋味。\n加購小食，芋泥球、杏鮑菇，都好吃。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次來吃，是因為有朋友介紹，吃過一次後，就覺得很好吃，之後再來兩次台北旅遊，也有吃。\n店內不是很大，座位四五張，幾次都有等候一下，10分鐘左右。\n這次來，有新推出的南洋系列，點了熟成綠咖哩豬扒拌麵，綠咖哩很香，又不辣，還有配太陽蛋，拌麵很好。\n也點了綠咖哩牛肉吐司，裡面也很滿，綠咖哩很香，牛肉不算少，吐司很脆。\n豬扒蛋餅，蛋餅超香，外面脆脆的，裡面軟軟的，很香雞蛋味。\n加購小食，芋泥球、杏鮑菇，都好吃。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lemon Grace",
+        "uri": "https://www.google.com/maps/contrib/117664767298612830202/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJqqZOnkZ2ZI88D1xXq1nF9qBBf8WGfHoFfzkhEf7QRGjB-bA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-08-13T09:58:20.517446216Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aMU4xQklXblZJZWtOTWVDMW1ZMXBNTkRGU2JsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aMU4xQklXblZJZWtOTWVDMW1ZMXBNTkRGU2JsRRAB!2m1!1s0x3442a9398cec70a7:0x92e988707757a6d2"
+    },
+    {
+      "name": "places/ChIJp3DsjDmpQjQR0qZXd3CI6ZI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OSk9FdHVOR1pLWlZabVZscDVSRzVqV1hwcGVFRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 1,
+      "text": {
+        "text": "叫uber外送，點三明治給吐司邊邊，還心虛把邊邊擺內側怕被看到，實在是沒必要為了省這個錢搞這個，\n蛋餅跟成品相差過大，跟脆皮根本沾不上邊，相當令人失望，以後不會點也會極力勸退身邊的人，給一顆星是只能給一顆星",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "叫uber外送，點三明治給吐司邊邊，還心虛把邊邊擺內側怕被看到，實在是沒必要為了省這個錢搞這個，\n蛋餅跟成品相差過大，跟脆皮根本沾不上邊，相當令人失望，以後不會點也會極力勸退身邊的人，給一顆星是只能給一顆星",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "zx0422",
+        "uri": "https://www.google.com/maps/contrib/101134955656427120964/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK-Oco6H1RZmyh0mr5goxB8ZB1DaJQa8_diTcSTdyK9XRSWQmQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-12-13T04:20:57.227307207Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OSk9FdHVOR1pLWlZabVZscDVSRzVqV1hwcGVFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OSk9FdHVOR1pLWlZabVZscDVSRzVqV1hwcGVFRRAB!2m1!1s0x3442a9398cec70a7:0x92e988707757a6d2"
+    },
+    {
+      "name": "places/ChIJp3DsjDmpQjQR0qZXd3CI6ZI/reviews/ChZDSUhNMG9nS0VJQ0FnTURBc3JxNVpnEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 2,
+      "text": {
+        "text": "價格偏高，原味蛋餅35，多一塊沒花雕味道的雞肉，叫做花雕雞蛋餅，就變成85。醬燒豬肉吐司，就一片豬肉跟蛋加上兩片吐司要75。口味普普。不如選總匯較值得。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "價格偏高，原味蛋餅35，多一塊沒花雕味道的雞肉，叫做花雕雞蛋餅，就變成85。醬燒豬肉吐司，就一片豬肉跟蛋加上兩片吐司要75。口味普普。不如選總匯較值得。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ronald Lee",
+        "uri": "https://www.google.com/maps/contrib/107125643047863333764/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIYOw88xMBJsFUxIt6aFX8eQZ5Yzh8lpnYK4ke6TDKmM-hg5w=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-02-08T00:19:59.061827Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURBc3JxNVpnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURBc3JxNVpnEAE!2m1!1s0x3442a9398cec70a7:0x92e988707757a6d2"
+    },
+    {
+      "name": "places/ChIJp3DsjDmpQjQR0qZXd3CI6ZI/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3eUs2QkFnEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 3,
+      "text": {
+        "text": "好吃是好吃，但是太多焦黑顆粒！\n尤其是近期特別誇張。\n感覺鐵板都沒在清，有害物質全都吃下肚！\n還有很多很細小的黑顆粒，如果真的要挑，好幾塊蛋餅根本完全不能吃了。\n不是自己要吃的就可以這樣不顧別人的健康嗎…\n已經給好幾次機會了，但幾乎每次都是有一大堆黑色顆粒，大大小小都有…\n還有藏在蛋餅裡面的，沒注意真的全部吃下去",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "好吃是好吃，但是太多焦黑顆粒！\n尤其是近期特別誇張。\n感覺鐵板都沒在清，有害物質全都吃下肚！\n還有很多很細小的黑顆粒，如果真的要挑，好幾塊蛋餅根本完全不能吃了。\n不是自己要吃的就可以這樣不顧別人的健康嗎…\n已經給好幾次機會了，但幾乎每次都是有一大堆黑色顆粒，大大小小都有…\n還有藏在蛋餅裡面的，沒注意真的全部吃下去",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Inès WU",
+        "uri": "https://www.google.com/maps/contrib/112965085511413413340/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWvutdGj795MC2YUjdwnU-Ar1bg0aTHmyD8LNx5XAB7PeM9Qgdc=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-03-23T03:36:54.981809Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3eUs2QkFnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3eUs2QkFnEAE!2m1!1s0x3442a9398cec70a7:0x92e988707757a6d2"
+    },
+    {
+      "name": "places/ChIJp3DsjDmpQjQR0qZXd3CI6ZI/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2dTdPU1pREAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 3,
+      "text": {
+        "text": "本來很期待，看菜單蠻吸引人的，但麻辣油條蛋餅幾乎沒有麻辣味、油條也太硬，但又不酥脆，九層塔蛋則普通，只有飲料鳳梨青茶蠻有水準！\n環境部份，空間狹小、堆滿物品，不太舒服，光想到空間就沒有想再來的動力。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "本來很期待，看菜單蠻吸引人的，但麻辣油條蛋餅幾乎沒有麻辣味、油條也太硬，但又不酥脆，九層塔蛋則普通，只有飲料鳳梨青茶蠻有水準！\n環境部份，空間狹小、堆滿物品，不太舒服，光想到空間就沒有想再來的動力。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "geranium Chen",
+        "uri": "https://www.google.com/maps/contrib/104614171838354784403/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUiSFb25a1R-paTUeE2r6SN1IurlsdfRaELKXSn_mgqSURrtXxa=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2024-12-24T12:43:33.989195Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2dTdPU1pREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2dTdPU1pREAE!2m1!1s0x3442a9398cec70a7:0x92e988707757a6d2"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": false
+}

@@ -1,0 +1,133 @@
+{
+  "id": "ChIJteVMpiuqQjQR7gZef2PvpVA",
+  "types": [
+    "restaurant",
+    "taiwanese_restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2702 5735",
+  "formattedAddress": "106台灣臺北市大安區龍圖里瑞安街208巷21號",
+  "location": {
+    "latitude": 25.0291127,
+    "longitude": 121.54071529999999
+  },
+  "rating": 4.1,
+  "websiteUri": "https://www.facebook.com/DayDayAroma/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 316,
+  "displayName": {
+    "text": "日日香小館",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJteVMpiuqQjQR7gZef2PvpVA/reviews/ChdDSUhNMG9nS0VJcS1rTVdad0tQaXBBRRAB",
+      "relativePublishTimeDescription": "12 個月前",
+      "rating": 4,
+      "text": {
+        "text": "幾年前來過幾次、沒想到有一天會住在這附近。之前午餐每道菜100元。現在漲到150了。說實在的、這份量這價格個人感覺有點貴了。所以還是多找幾個人一起吃會好一點。不過對於食量大的人來說、無限魯肉飯跟湯應該覺得挺划算。老闆娘非常熱情。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "幾年前來過幾次、沒想到有一天會住在這附近。之前午餐每道菜100元。現在漲到150了。說實在的、這份量這價格個人感覺有點貴了。所以還是多找幾個人一起吃會好一點。不過對於食量大的人來說、無限魯肉飯跟湯應該覺得挺划算。老闆娘非常熱情。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "鄭義盛（藍教主）",
+        "uri": "https://www.google.com/maps/contrib/108904617802817876683/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXOz7dRDRprVFUlTk1yt4CErB6L_bmhRkY-XQH6BTtf67108KsFtA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-06-08T10:24:44.558179Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJcS1rTVdad0tQaXBBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJcS1rTVdad0tQaXBBRRAB!2m1!1s0x3442aa2ba64ce5b5:0x50a5ef637f5e06ee"
+    },
+    {
+      "name": "places/ChIJteVMpiuqQjQR7gZef2PvpVA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xReFUxWkhURkpsZG5kdFRYTmFiMUpzYVdJMFlsRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "小菜好吃\n金沙中卷（特製）超好吃\n大多都好吃\n可以要滷汁\n羊肉湯普普",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "小菜好吃\n金沙中卷（特製）超好吃\n大多都好吃\n可以要滷汁\n羊肉湯普普",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "K K",
+        "uri": "https://www.google.com/maps/contrib/102806593966821960866/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUbPJ2BBANA2jDmEuKWWenejPm1KK1T4JIk0wZ7oBdRsOd9nk9c=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-15T14:36:44.246702336Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xReFUxWkhURkpsZG5kdFRYTmFiMUpzYVdJMFlsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xReFUxWkhURkpsZG5kdFRYTmFiMUpzYVdJMFlsRRAB!2m1!1s0x3442aa2ba64ce5b5:0x50a5ef637f5e06ee"
+    },
+    {
+      "name": "places/ChIJteVMpiuqQjQR7gZef2PvpVA/reviews/ChZDSUhNMG9nS0VJQ0FnSURfZzkyQVpREAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "環境比較老舊，菜色口味都是水準以上，點白飯會送滷肉汁，價格算是偏高~是一間會考慮再來的店",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境比較老舊，菜色口味都是水準以上，點白飯會送滷肉汁，價格算是偏高~是一間會考慮再來的店",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hsu C.K.",
+        "uri": "https://www.google.com/maps/contrib/103720967704754313824/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWGaAm74UBMYV0dubfiP-aHvglhNZ9V7ncyov9rrwG558qZKxOzYw=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-01-26T15:30:26.035736Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfZzkyQVpREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfZzkyQVpREAE!2m1!1s0x3442aa2ba64ce5b5:0x50a5ef637f5e06ee"
+    },
+    {
+      "name": "places/ChIJteVMpiuqQjQR7gZef2PvpVA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kSFZYUkpkVWxJYlhBMmJIaGxhR1J1V1RoV04zYxAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 1,
+      "text": {
+        "text": "外帶炒蛤蜊結果蛤蜊沒有一顆全開，甚至有好幾顆都是整顆閉的，重點是撥開肉都爛的還黏在殼上根本無法吃，真的讓人吃的很生氣。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "外帶炒蛤蜊結果蛤蜊沒有一顆全開，甚至有好幾顆都是整顆閉的，重點是撥開肉都爛的還黏在殼上根本無法吃，真的讓人吃的很生氣。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "熙熙",
+        "uri": "https://www.google.com/maps/contrib/113520570692647118673/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKQdsekEFBZASRy5iCrphKtDMZpgH4I-BoQUmUf-hF7ScPPUg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-07-10T05:15:37.421177940Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kSFZYUkpkVWxJYlhBMmJIaGxhR1J1V1RoV04zYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kSFZYUkpkVWxJYlhBMmJIaGxhR1J1V1RoV04zYxAB!2m1!1s0x3442aa2ba64ce5b5:0x50a5ef637f5e06ee"
+    },
+    {
+      "name": "places/ChIJteVMpiuqQjQR7gZef2PvpVA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tzM05VWm5kbkp1VVhCRGN6QllZbTlaUjBKVmJsRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 1,
+      "text": {
+        "text": "非常差，有被欺騙的感覺。之前來過幾次，每一次的體驗落差都很大。有時菜色的份量及口味很不錯，但有時也會碰到菜色味道不好，份量明顯不足有種被欺騙的感覺。非常確定的是，這是我以後不會再來的餐廳，因為我不曉得下一次又會是什麼樣的體驗。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "非常差，有被欺騙的感覺。之前來過幾次，每一次的體驗落差都很大。有時菜色的份量及口味很不錯，但有時也會碰到菜色味道不好，份量明顯不足有種被欺騙的感覺。非常確定的是，這是我以後不會再來的餐廳，因為我不曉得下一次又會是什麼樣的體驗。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ychien Chen",
+        "uri": "https://www.google.com/maps/contrib/100590193083769603036/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXGzUPB_L4Uc-VHqYD1YU-_Ddn3MtmdKPQKZZVcoG3DD4uO1tSt=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-15T12:35:58.401271260Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tzM05VWm5kbkp1VVhCRGN6QllZbTlaUjBKVmJsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tzM05VWm5kbkp1VVhCRGN6QllZbTlaUjBKVmJsRRAB!2m1!1s0x3442aa2ba64ce5b5:0x50a5ef637f5e06ee"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

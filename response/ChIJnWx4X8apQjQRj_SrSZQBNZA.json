@@ -1,0 +1,133 @@
+{
+  "id": "ChIJnWx4X8apQjQRj_SrSZQBNZA",
+  "types": [
+    "brunch_restaurant",
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2531 0880",
+  "formattedAddress": "104台灣臺北市中山區正得里天津街18號",
+  "location": {
+    "latitude": 25.0484825,
+    "longitude": 121.5224214
+  },
+  "rating": 4.6,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 2187,
+  "displayName": {
+    "text": "饗旅",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJnWx4X8apQjQRj_SrSZQBNZA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CWE5WRkZka1J2VDFCWlpFTXpYekJCU2xKQ2RXYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "一間不算大的早午餐店，\n需要掃 QR Code 等候，\n但等到的餐點是讓人心情很穩定的那種。\n\n🌟紅茶好喝、餐點份量剛好偏多，\n吃完不會空虛。\n\n是那種不會天天吃，\n但想到會覺得「嗯，這間不錯」的店。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一間不算大的早午餐店，\n需要掃 QR Code 等候，\n但等到的餐點是讓人心情很穩定的那種。\n\n🌟紅茶好喝、餐點份量剛好偏多，\n吃完不會空虛。\n\n是那種不會天天吃，\n但想到會覺得「嗯，這間不錯」的店。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "柴塞蕾",
+        "uri": "https://www.google.com/maps/contrib/105826959723737958858/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJlTXtRZCRdBjWiEZJ6haNqrhEbGKKdNRT66W3X-dp5O6i_Ag=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-22T23:42:38.474114078Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CWE5WRkZka1J2VDFCWlpFTXpYekJCU2xKQ2RXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CWE5WRkZka1J2VDFCWlpFTXpYekJCU2xKQ2RXYxAB!2m1!1s0x3442a9c65f786c9d:0x9035019449abf48f"
+    },
+    {
+      "name": "places/ChIJnWx4X8apQjQRj_SrSZQBNZA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4c2JVbGZOMHRVVWt4VE1uQXdRMTkxUWw5UU5GRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "雞腿排很好吃，不過我覺得生菜有點太少，\n煎雞胸三明治，超好吃，而且貼心的附上兩個小紙袋方便食用，美式咖啡很不錯\n紅玉紅茶覺得有點甜，如果能做微糖或無糖的選擇應該會更好，搭配餐點應該更好吃🥹",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "雞腿排很好吃，不過我覺得生菜有點太少，\n煎雞胸三明治，超好吃，而且貼心的附上兩個小紙袋方便食用，美式咖啡很不錯\n紅玉紅茶覺得有點甜，如果能做微糖或無糖的選擇應該會更好，搭配餐點應該更好吃🥹",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "joyce Li",
+        "uri": "https://www.google.com/maps/contrib/104190877128509510226/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUo96go6VWMr5KcpRUoFru8IQzLruL1wJlCJxTWRvPsBFNoZWqN=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-05T17:27:22.493672417Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4c2JVbGZOMHRVVWt4VE1uQXdRMTkxUWw5UU5GRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4c2JVbGZOMHRVVWt4VE1uQXdRMTkxUWw5UU5GRRAB!2m1!1s0x3442a9c65f786c9d:0x9035019449abf48f"
+    },
+    {
+      "name": "places/ChIJnWx4X8apQjQRj_SrSZQBNZA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4bFVFeGlaemxXZUVaUmRVeHVkM1pxTUhGalRHYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "星期六早上10點半候位約半小時才入座\n店內位子稍擁擠\n掃描QR Code完成候位登記後可以到附近的公園等\n點了饗瘦增肌餐和饗饗女王-嫩煎迷迭香薰香雞腿\n兩份餐的雞肉都很嫩很好吃\n尤其增肌餐的雞胸肉非常多塊\n還有炒蛋和櫛瓜！炒菇也很入味\n唯一澱粉是一小塊應該是酸種麵包\n加上優格～整份餐非常健康營養\n吃完剛好飽足不會感到負擔\n雞腿餐的可頌也很香酥\n飲料可以續一杯紅茶，是古早味紅茶！\n單喝感覺比鮮奶茶好喝（個人口味\n另外還單點手作奶酪\n沒想到還添加穀物和水果，誠意十足！\n\n雖然忙碌但店員們都還是提供很好的服務\n推薦",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "星期六早上10點半候位約半小時才入座\n店內位子稍擁擠\n掃描QR Code完成候位登記後可以到附近的公園等\n點了饗瘦增肌餐和饗饗女王-嫩煎迷迭香薰香雞腿\n兩份餐的雞肉都很嫩很好吃\n尤其增肌餐的雞胸肉非常多塊\n還有炒蛋和櫛瓜！炒菇也很入味\n唯一澱粉是一小塊應該是酸種麵包\n加上優格～整份餐非常健康營養\n吃完剛好飽足不會感到負擔\n雞腿餐的可頌也很香酥\n飲料可以續一杯紅茶，是古早味紅茶！\n單喝感覺比鮮奶茶好喝（個人口味\n另外還單點手作奶酪\n沒想到還添加穀物和水果，誠意十足！\n\n雖然忙碌但店員們都還是提供很好的服務\n推薦",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "TY Lin",
+        "uri": "https://www.google.com/maps/contrib/112587397124849557460/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWNkom0u84ZcEHH_oSG2ZDTsxqIiRNK36Qlu6fhoVLRRGIb1TBY=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-13T12:31:41.339001412Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4bFVFeGlaemxXZUVaUmRVeHVkM1pxTUhGalRHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4bFVFeGlaemxXZUVaUmRVeHVkM1pxTUhGalRHYxAB!2m1!1s0x3442a9c65f786c9d:0x9035019449abf48f"
+    },
+    {
+      "name": "places/ChIJnWx4X8apQjQRj_SrSZQBNZA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kNVpISmtaMU5KUWt0c1dWVjZNMmhmUVhCVmRVRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "還不錯，假日前面有三組客人，等大概20分鐘，增肌餐好吃，炒菇菇好吃，吐司酥脆，雞胸肉一般般，下次想點雞腿肉。櫛瓜沒味道\n牛肉漢堡也好吃，雖然價格小貴不便宜。\n提拉米蘇很好吃，鐵觀音口味很特別。\n雞塊皮很酥脆好吃，放冷也酥脆",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "還不錯，假日前面有三組客人，等大概20分鐘，增肌餐好吃，炒菇菇好吃，吐司酥脆，雞胸肉一般般，下次想點雞腿肉。櫛瓜沒味道\n牛肉漢堡也好吃，雖然價格小貴不便宜。\n提拉米蘇很好吃，鐵觀音口味很特別。\n雞塊皮很酥脆好吃，放冷也酥脆",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "SHI TING",
+        "uri": "https://www.google.com/maps/contrib/111190016322112328381/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIn4qlmpUAUvfBF1BWF7PPKMjor1N1zDdFQC29rZcKYFYjfsA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-21T13:46:30.358040879Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kNVpISmtaMU5KUWt0c1dWVjZNMmhmUVhCVmRVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kNVpISmtaMU5KUWt0c1dWVjZNMmhmUVhCVmRVRRAB!2m1!1s0x3442a9c65f786c9d:0x9035019449abf48f"
+    },
+    {
+      "name": "places/ChIJnWx4X8apQjQRj_SrSZQBNZA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSM2JEZzNabEJKWTJGT2EyNXdhMlZzZGtkTGVrRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "食物很好吃！！！\n這次點了手打牛起司漢堡\n肉汁多、培根酥脆\n很難得在早午餐店吃到這麼好吃不膩口的漢堡～非常喜歡！\n\n升級套餐的飲料，選擇不用再加價的無糖烏龍茶，也並不隨便，喝起來非常順口不苦澀\n\n因為和朋友聚餐，人數較多\n店員非常有耐心幫我們安排座位\n造成困擾很不好意思>",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "食物很好吃！！！\n這次點了手打牛起司漢堡\n肉汁多、培根酥脆\n很難得在早午餐店吃到這麼好吃不膩口的漢堡～非常喜歡！\n\n升級套餐的飲料，選擇不用再加價的無糖烏龍茶，也並不隨便，喝起來非常順口不苦澀\n\n因為和朋友聚餐，人數較多\n店員非常有耐心幫我們安排座位\n造成困擾很不好意思>",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ting Lee",
+        "uri": "https://www.google.com/maps/contrib/115361552743093638302/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLjLg9ZCfILMmWOQmCrXAoxX6BkkG1GXHQrepjvRJ1_KKIm0w=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-11-30T07:38:03.440662120Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSM2JEZzNabEJKWTJGT2EyNXdhMlZzZGtkTGVrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSM2JEZzNabEJKWTJGT2EyNXdhMlZzZGtkTGVrRRAB!2m1!1s0x3442a9c65f786c9d:0x9035019449abf48f"
+    }
+  ],
+  "goodForChildren": true
+}

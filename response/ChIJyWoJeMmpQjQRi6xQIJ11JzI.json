@@ -1,0 +1,131 @@
+{
+  "id": "ChIJyWoJeMmpQjQRi6xQIJ11JzI",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2598 0586",
+  "formattedAddress": "103台灣臺北市大同區至聖里承德路三段247巷16號1樓",
+  "location": {
+    "latitude": 25.071023,
+    "longitude": 121.51942499999998
+  },
+  "rating": 4.9,
+  "websiteUri": "http://www.facebook.com/katiehouse0935934415",
+  "userRatingCount": 98,
+  "displayName": {
+    "text": "凱蒂窩KatieHouse",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJyWoJeMmpQjQRi6xQIJ11JzI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aTFdtZ3djRXBOUlMxdlZFWkxhM2RWWTBSS2JFRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "老闆娘很親切，還有可愛的狗狗牛奶糖，超級親人\n餐點很好吃，簡餐可以雙拼，棒棒腿會有湯汁很嫩很好吃，有機會會再來～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "老闆娘很親切，還有可愛的狗狗牛奶糖，超級親人\n餐點很好吃，簡餐可以雙拼，棒棒腿會有湯汁很嫩很好吃，有機會會再來～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "周芷鈴",
+        "uri": "https://www.google.com/maps/contrib/110086112079954018658/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV6HiiShiFfGBDTuC42yuaGIsYHYsNSmLSZJyXpNgS19i6wx9e5mg=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-27T05:35:04.511390583Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aTFdtZ3djRXBOUlMxdlZFWkxhM2RWWTBSS2JFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aTFdtZ3djRXBOUlMxdlZFWkxhM2RWWTBSS2JFRRAB!2m1!1s0x3442a9c978096ac9:0x3227759d2050ac8b"
+    },
+    {
+      "name": "places/ChIJyWoJeMmpQjQRi6xQIJ11JzI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGWkxUVjFTV1pzWjNFMk0wOXVUWE51TlhNdGMzYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "推土魠魚白醬麵！魚塊炸得酥脆，配上濃郁白醬完全是絕配。老闆娘待客親切，店內的狗狗很可愛，用餐氛圍非常溫馨～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "推土魠魚白醬麵！魚塊炸得酥脆，配上濃郁白醬完全是絕配。老闆娘待客親切，店內的狗狗很可愛，用餐氛圍非常溫馨～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Victoria Lu",
+        "uri": "https://www.google.com/maps/contrib/104911209911695292532/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVR-Hap3rR_wpG1WkjMfDbn0SM1VlgxYb7XNlWI6H0a5oRi2YrM=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-25T04:08:35.901820320Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGWkxUVjFTV1pzWjNFMk0wOXVUWE51TlhNdGMzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGWkxUVjFTV1pzWjNFMk0wOXVUWE51TlhNdGMzYxAB!2m1!1s0x3442a9c978096ac9:0x3227759d2050ac8b"
+    },
+    {
+      "name": "places/ChIJyWoJeMmpQjQRi6xQIJ11JzI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toQ1ZESkNkalZsTnkxT2NtOHdWUzExUW5NMGQyYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "小巧溫馨的裝潢還有可愛的店狗，餐後咖啡享受著片刻舒適的時光！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "小巧溫馨的裝潢還有可愛的店狗，餐後咖啡享受著片刻舒適的時光！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "ling ling Lin",
+        "uri": "https://www.google.com/maps/contrib/109797331408336411622/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVcT7mFiHqNSERseBzKGCRaQZCN64KmH4L9CrTxLNyAYOAMVtx9=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-12T05:48:55.514737661Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toQ1ZESkNkalZsTnkxT2NtOHdWUzExUW5NMGQyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toQ1ZESkNkalZsTnkxT2NtOHdWUzExUW5NMGQyYxAB!2m1!1s0x3442a9c978096ac9:0x3227759d2050ac8b"
+    },
+    {
+      "name": "places/ChIJyWoJeMmpQjQRi6xQIJ11JzI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poclJFOUZRMFpSYVZOdldXUkNWa1ZzZFdGVlRVRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點\n雞柳義大利麵🍝\n鮭魚義大利麵🍝\n原味薯條\n\n濃湯的部分稍微有點沒有達到期待感，不過餐點的部分很好吃😋，老闆也很熱情！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點\n雞柳義大利麵🍝\n鮭魚義大利麵🍝\n原味薯條\n\n濃湯的部分稍微有點沒有達到期待感，不過餐點的部分很好吃😋，老闆也很熱情！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Cry Aral",
+        "uri": "https://www.google.com/maps/contrib/102816429118878389881/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKrjWi8r98ieUhi-WV5E2hWv_V1LKyr0wN60j76MRbMwdCTcA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-31T06:20:13.175973709Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poclJFOUZRMFpSYVZOdldXUkNWa1ZzZFdGVlRVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poclJFOUZRMFpSYVZOdldXUkNWa1ZzZFdGVlRVRRAB!2m1!1s0x3442a9c978096ac9:0x3227759d2050ac8b"
+    },
+    {
+      "name": "places/ChIJyWoJeMmpQjQRi6xQIJ11JzI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KeE9ETlZUMW93ZW1KRFJTMWtkWGxtVjFBeVJYYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第一次來這邊用餐，老闆娘親切好聊天，餐點也好好吃🤩有來圓山會再來吃的！！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次來這邊用餐，老闆娘親切好聊天，餐點也好好吃🤩有來圓山會再來吃的！！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "劉晴悅",
+        "uri": "https://www.google.com/maps/contrib/117321349256378973961/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVuPnE5j_6Q1oepBcNFo_a8bfF5cz-WhqrR_OKWRp8_DvC9K6c=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-31T06:12:15.258351597Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KeE9ETlZUMW93ZW1KRFJTMWtkWGxtVjFBeVJYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KeE9ETlZUMW93ZW1KRFJTMWtkWGxtVjFBeVJYYxAB!2m1!1s0x3442a9c978096ac9:0x3227759d2050ac8b"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

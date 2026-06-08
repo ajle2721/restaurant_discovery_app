@@ -1,0 +1,52 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "室內外的空間都很大很寬敞，戶外很自然的空間，室內坐位也很舒適。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "官方標記：不提供兒童餐",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "No",
+        "evidence": "官方標記：不適合兒童",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "官方標記：不適合兒童",
+        "官方標記：不提供兒童餐",
+        "室內外的空間都很大很寬敞，戶外很自然的空間，室內坐位也很舒適。"
+    ],
+    "generated_summary": "2J CAFE 擁有寬敞的室內外用餐空間，環境舒適且適合聚會，但根據官方資訊顯示，該店並不適合兒童，且未提供兒童餐點。若您計畫攜帶幼童前往，建議考量此環境因素。",
+    "card_summary": ""
+}

@@ -1,0 +1,137 @@
+{
+  "id": "ChIJ6-D7ititQjQR0K2ct66SVrk",
+  "types": [
+    "cafe",
+    "coffee_stand",
+    "coffee_roastery",
+    "wholesaler",
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2631 5455",
+  "formattedAddress": "114台灣台北市内湖区明湖里康宁路三段189巷11弄14號1樓",
+  "location": {
+    "latitude": 25.0706726,
+    "longitude": 121.61239210000001
+  },
+  "rating": 4.9,
+  "websiteUri": "https://www.facebook.com/jakabicoffee/?ref=bookmarks",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 284,
+  "displayName": {
+    "text": "Jakabi Coffee 嘉愷必咖啡",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ6-D7ititQjQR0K2ct66SVrk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5dGVVc3hkbmMyYjNnNWIwUXdhbEpMTFRsbVprRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "內用點了熱紅茶拿鐵，很大杯，喝起來滿順口的。店內座位不算多，但光線明亮乾淨，是一個舒服的咖啡廳。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "內用點了熱紅茶拿鐵，很大杯，喝起來滿順口的。店內座位不算多，但光線明亮乾淨，是一個舒服的咖啡廳。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "mu mu",
+        "uri": "https://www.google.com/maps/contrib/115675681630425395358/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVsS5iQfpLz5lSxUlc6zSXK7IYjemCdKDYC-EcFYkqtX6Qt54gmow=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-02-12T05:36:00.592300186Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5dGVVc3hkbmMyYjNnNWIwUXdhbEpMTFRsbVprRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5dGVVc3hkbmMyYjNnNWIwUXdhbEpMTFRsbVprRRAB!2m1!1s0x3442add88afbe0eb:0xb95692aeb79cadd0"
+    },
+    {
+      "name": "places/ChIJ6-D7ititQjQR0K2ct66SVrk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xadGN6VnJhbFpDZFhwME9EbFpjSEZUY1ZKTk1YYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "東湖難得的得獎手沖咖啡店～除了沒有寵物友善入內，咖啡是真的好喝！想要喝有品質的咖啡又想嘗試便利商店或星巴克以外的早餐或下午茶時光，非常推薦。\n\n低消每人一杯飲料～推薦點手沖咖啡\n\n店內有輕食（壓考三民治）這次點了起司雞肉和鮪魚的口味，都很好吃😋老闆知道我們兩個人想share 一壺咖啡，有放兩個杯子，很貼心！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "東湖難得的得獎手沖咖啡店～除了沒有寵物友善入內，咖啡是真的好喝！想要喝有品質的咖啡又想嘗試便利商店或星巴克以外的早餐或下午茶時光，非常推薦。\n\n低消每人一杯飲料～推薦點手沖咖啡\n\n店內有輕食（壓考三民治）這次點了起司雞肉和鮪魚的口味，都很好吃😋老闆知道我們兩個人想share 一壺咖啡，有放兩個杯子，很貼心！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Christina Liu",
+        "uri": "https://www.google.com/maps/contrib/104929022088306555732/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLrU4oB61xQ5_NSmKpr_jI5eC3mmUioajTk7lxsCxTNFcL1mg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-27T03:14:52.639234474Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xadGN6VnJhbFpDZFhwME9EbFpjSEZUY1ZKTk1YYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xadGN6VnJhbFpDZFhwME9EbFpjSEZUY1ZKTk1YYxAB!2m1!1s0x3442add88afbe0eb:0xb95692aeb79cadd0"
+    },
+    {
+      "name": "places/ChIJ6-D7ititQjQR0K2ct66SVrk/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3NnRPRmxRRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "拿鐵好喝😊小蛋糕也還不錯，這次第一次點肉桂捲，普通但不難吃，畢竟不是專賣店。環境舒適及店員親切，我常帶NB來久坐👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "拿鐵好喝😊小蛋糕也還不錯，這次第一次點肉桂捲，普通但不難吃，畢竟不是專賣店。環境舒適及店員親切，我常帶NB來久坐👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "許毓庭",
+        "uri": "https://www.google.com/maps/contrib/110356512723291795659/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-dVgCGQK2hLmTfSIQwPFZNeEYeDs8HxBDkdL2fMvyZ4-RE_Kf=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2024-08-27T12:01:22.841249Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ3NnRPRmxRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ3NnRPRmxRRRAB!2m1!1s0x3442add88afbe0eb:0xb95692aeb79cadd0"
+    },
+    {
+      "name": "places/ChIJ6-D7ititQjQR0K2ct66SVrk/reviews/Ci9DQUlRQUNvZENodHljRjlvT205Rll6Tm5TMGM1UTFCZlJqSjVUelIxVTNVdFVsRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "拿鐵很好喝，奶泡細緻，口感圓潤，咖啡回甘",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "拿鐵很好喝，奶泡細緻，口感圓潤，咖啡回甘",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Cindy",
+        "uri": "https://www.google.com/maps/contrib/112399164655649931379/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL5gNI2RMH8ieckYluyAcva0iw25_iv8XJ4Fp6bOZTcYUcipA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-20T13:39:28.297101360Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205Rll6Tm5TMGM1UTFCZlJqSjVUelIxVTNVdFVsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205Rll6Tm5TMGM1UTFCZlJqSjVUelIxVTNVdFVsRRAB!2m1!1s0x3442add88afbe0eb:0xb95692aeb79cadd0"
+    },
+    {
+      "name": "places/ChIJ6-D7ititQjQR0K2ct66SVrk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toQ1kwTktRbXhwYkVKck1reElXRVpvVVVoS05sRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "裝潢好看，拍照也很好看\n舒適的環境，待在那辦事很放鬆",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "裝潢好看，拍照也很好看\n舒適的環境，待在那辦事很放鬆",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Serena S",
+        "uri": "https://www.google.com/maps/contrib/105977970387133562549/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV7Q8KdpNsTrnzaVqOoDkj1ocyM-SAounrH75MX5ezQPjIWjrr9IQ=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-19T12:47:46.519559208Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toQ1kwTktRbXhwYkVKck1reElXRVpvVVVoS05sRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toQ1kwTktRbXhwYkVKck1reElXRVpvVVVoS05sRRAB!2m1!1s0x3442add88afbe0eb:0xb95692aeb79cadd0"
+    }
+  ],
+  "menuForChildren": false
+}

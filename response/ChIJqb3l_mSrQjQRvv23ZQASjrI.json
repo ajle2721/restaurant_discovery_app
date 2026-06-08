@@ -1,0 +1,131 @@
+{
+  "id": "ChIJqb3l_mSrQjQRvv23ZQASjrI",
+  "types": [
+    "pizza_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2721 1508",
+  "formattedAddress": "106台灣臺北市大安區建安里忠孝東路四段181巷46號",
+  "location": {
+    "latitude": 25.0442513,
+    "longitude": 121.55076700000001
+  },
+  "rating": 4.5,
+  "websiteUri": "https://90secpizza.oddle.me/zh_TW/",
+  "userRatingCount": 532,
+  "displayName": {
+    "text": "90sec PIZZA 九十秒窯烤披薩",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJqb3l_mSrQjQRvv23ZQASjrI/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xZlRtOXZkall0ZURsbGRETnBZMTlyVGpoTWFIYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "2025/11/27\n距離捷運忠孝敦化走路10分鐘\n東西好吃，一個披薩平均400左右\n有10%服務費，低消300\n吃了7,8種口味\n披薩：雞肉南瓜起司、松露野菇香腸、青醬櫛瓜鮮蝦強力大推！\n喜歡吃草推生火腿芝麻葉披薩\n義大利麵：嫩煎雞肉奶油醬非常濃，推\n金桔檸檬氣泡飲不錯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2025/11/27\n距離捷運忠孝敦化走路10分鐘\n東西好吃，一個披薩平均400左右\n有10%服務費，低消300\n吃了7,8種口味\n披薩：雞肉南瓜起司、松露野菇香腸、青醬櫛瓜鮮蝦強力大推！\n喜歡吃草推生火腿芝麻葉披薩\n義大利麵：嫩煎雞肉奶油醬非常濃，推\n金桔檸檬氣泡飲不錯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "鄭柏逸",
+        "uri": "https://www.google.com/maps/contrib/113810721337991902857/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUPq3GxKQFUh1XrWErGI2jOK7vaqhW9uHB3bnKS4Z_7rQHP4wgb=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-07T13:10:45.242784333Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xZlRtOXZkall0ZURsbGRETnBZMTlyVGpoTWFIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xZlRtOXZkall0ZURsbGRETnBZMTlyVGpoTWFIYxAB!2m1!1s0x3442ab64fee5bda9:0xb28e120065b7fdbe"
+    },
+    {
+      "name": "places/ChIJqb3l_mSrQjQRvv23ZQASjrI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Oa1kxTTRkSFJRYUMwelNHUlBUWGxMT0VKUmMyYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "在市民大道上 忠孝敦化站附近\n店內用餐環境很不錯 座位也算蠻多的\n披薩可以自選要薄皮還是鬆厚\n披薩味道非常不錯！\n不過感覺還是有為了台灣人而改良過 不到超級道地的義式披薩\n除了披薩之外 也有一些小點和沙拉、義大利麵可以選\n店內低消每人$300 會收一成服務費\n開到凌晨十二點 也是晚上玩樂的人的宵夜聚餐好地方",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在市民大道上 忠孝敦化站附近\n店內用餐環境很不錯 座位也算蠻多的\n披薩可以自選要薄皮還是鬆厚\n披薩味道非常不錯！\n不過感覺還是有為了台灣人而改良過 不到超級道地的義式披薩\n除了披薩之外 也有一些小點和沙拉、義大利麵可以選\n店內低消每人$300 會收一成服務費\n開到凌晨十二點 也是晚上玩樂的人的宵夜聚餐好地方",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "ET muse",
+        "uri": "https://www.google.com/maps/contrib/107063543722048983622/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXbXhhfAWHMZ_ls7KzsKLF7UtZf_NswdB4rSrvx2IKkhNGBu8dmCA=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-09-21T14:10:42.655913222Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Oa1kxTTRkSFJRYUMwelNHUlBUWGxMT0VKUmMyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Oa1kxTTRkSFJRYUMwelNHUlBUWGxMT0VKUmMyYxAB!2m1!1s0x3442ab64fee5bda9:0xb28e120065b7fdbe"
+    },
+    {
+      "name": "places/ChIJqb3l_mSrQjQRvv23ZQASjrI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toSlprTnVTVVZGTlU5SlMyTkdNREpRV1VaZmVVRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "沒想到東區有這麼好吃的Pizza\n口味選擇多樣化 和 有自家獨家口味\n料也超多實在！\n\n環境氛圍像置身國外，舒適乾淨。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "沒想到東區有這麼好吃的Pizza\n口味選擇多樣化 和 有自家獨家口味\n料也超多實在！\n\n環境氛圍像置身國外，舒適乾淨。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "星",
+        "uri": "https://www.google.com/maps/contrib/100658441755380452801/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU9n1C393Y4iU0hbZdPc47UYQBVlsD7d520nH7vlODVHIIb-_8=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-12T12:47:13.976524080Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toSlprTnVTVVZGTlU5SlMyTkdNREpRV1VaZmVVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toSlprTnVTVVZGTlU5SlMyTkdNREpRV1VaZmVVRRAB!2m1!1s0x3442ab64fee5bda9:0xb28e120065b7fdbe"
+    },
+    {
+      "name": "places/ChIJqb3l_mSrQjQRvv23ZQASjrI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aVU5GOXljbEpLZWtrdGEwRTRaVmh2TUdWemRYYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "披薩超好吃欸！！！\n開在東區意外週五晚上沒什麼客人\n能享受安靜的晚餐真是幸運呀！\n我覺得很好吃欸 餅皮Q軟有嚼勁\n邊緣都有烤出「豹紋」 讚！\n\n松露薯條也炸的很好吃\n松露給的量也多 我甚至加到披薩上吃🤣",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "披薩超好吃欸！！！\n開在東區意外週五晚上沒什麼客人\n能享受安靜的晚餐真是幸運呀！\n我覺得很好吃欸 餅皮Q軟有嚼勁\n邊緣都有烤出「豹紋」 讚！\n\n松露薯條也炸的很好吃\n松露給的量也多 我甚至加到披薩上吃🤣",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Woo.a",
+        "uri": "https://www.google.com/maps/contrib/100623093350386617996/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVhw_vNAbHow4OHstJga0hSW6-ORJqkeTZixoQESBnl_M80A6k=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-16T14:51:01.686477984Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aVU5GOXljbEpLZWtrdGEwRTRaVmh2TUdWemRYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aVU5GOXljbEpLZWtrdGEwRTRaVmh2TUdWemRYYxAB!2m1!1s0x3442ab64fee5bda9:0xb28e120065b7fdbe"
+    },
+    {
+      "name": "places/ChIJqb3l_mSrQjQRvv23ZQASjrI/reviews/ChZDSUhNMG9nS0VJQ0FnSURIOHRtQlpBEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "最近去了90sec PIZZA 九十秒窯烤披薩，這家披薩店給人留下不錯的印象。店門口的笑臉符號標誌很搶眼，進門就能感受到店家的活潑風格。\n\n菜單上有幾樣特色菜值得一提。蒜苗炒豬肉披薩被譽為最時尚的選擇，確實別具創意。除了披薩、燒烤和炸物類的食物也各有特色，聚餐時可以滿足不同口味的需求。\n\n整體來說，食材新鮮是這家店的一大優點。披薩餅皮烤得酥脆可口,口感不錯。如果你喜歡嘗試有特色的披薩，或是想跟朋友在輕鬆愉快的氛圍中用餐，值得一試。​​​​​​​​​​​​​​​​",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "最近去了90sec PIZZA 九十秒窯烤披薩，這家披薩店給人留下不錯的印象。店門口的笑臉符號標誌很搶眼，進門就能感受到店家的活潑風格。\n\n菜單上有幾樣特色菜值得一提。蒜苗炒豬肉披薩被譽為最時尚的選擇，確實別具創意。除了披薩、燒烤和炸物類的食物也各有特色，聚餐時可以滿足不同口味的需求。\n\n整體來說，食材新鮮是這家店的一大優點。披薩餅皮烤得酥脆可口,口感不錯。如果你喜歡嘗試有特色的披薩，或是想跟朋友在輕鬆愉快的氛圍中用餐，值得一試。​​​​​​​​​​​​​​​​",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "David Chen",
+        "uri": "https://www.google.com/maps/contrib/103899399629266353788/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWr3mPWDAMc-zYdwKcikNNlaSuCYZM5dNiF1pPnLpF_RxJRsZXvkg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2024-09-14T12:43:09.293677Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURIOHRtQlpBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURIOHRtQlpBEAE!2m1!1s0x3442ab64fee5bda9:0xb28e120065b7fdbe"
+    }
+  ],
+  "menuForChildren": false
+}

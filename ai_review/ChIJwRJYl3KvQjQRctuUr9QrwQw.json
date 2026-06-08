@@ -1,0 +1,54 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "店內雖然空間不大，但咖啡店非常安靜，很適合放鬆心情。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "No",
+        "evidence": "Google Maps Attributes: Not good for children (官方標記：不適合兒童); Review 3: 環境安靜到我差點睡著; Review 4: 店內雖然空間不大，但咖啡店非常安靜。",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "環境安靜到我差點睡著",
+        "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)",
+        "Google Maps Attributes: Not good for children (官方標記：不適合兒童); Review 3: 環境安靜到我差點睡著; Review 4: 店內雖然空間不大，但咖啡店非常安靜。",
+        "店內雖然空間不大，但咖啡店非常安靜，很適合放鬆心情。",
+        "Google Maps Attributes: Not good for children (官方標記：不適合兒童)"
+    ],
+    "generated_summary": "爐鍋咖啡 Luguo Cafe 官方標記明確指出該店不適合兒童且不提供兒童餐。店內環境以安靜、放鬆為主，空間較為狹小，並不適合攜帶幼童前往。",
+    "card_summary": ""
+}

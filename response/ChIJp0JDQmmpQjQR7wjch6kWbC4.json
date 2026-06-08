@@ -1,0 +1,142 @@
+{
+  "id": "ChIJp0JDQmmpQjQR7wjch6kWbC4",
+  "types": [
+    "coffee_shop",
+    "cafe",
+    "brunch_restaurant",
+    "american_restaurant",
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2521 9586",
+  "formattedAddress": "10491台灣臺北市中山區民安里中山北路二段36巷11號1樓",
+  "location": {
+    "latitude": 25.054375,
+    "longitude": 121.52192950000001
+  },
+  "rating": 4.6,
+  "websiteUri": "http://www.facebook.com/dineincafe",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 925,
+  "displayName": {
+    "text": "Dine in cafe",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Trendy establishment offering brunch plates, pasta & risottos, plus spicy chicken, cakes & pastries.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJp0JDQmmpQjQR7wjch6kWbC4/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xQlJVaHBjRkZDTldWeU9EVkZVbUZCUTBsVVpVRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "原本沒有抱太大期待，看氣氛裝潢不錯所以進來用餐，結果野人花園的沙拉超級好吃，份量也很夠，拿鐵和義大利麵也很有水準，是一家令人驚豔，喜新厭舊的我會想再訪的店，老闆們的服務也很親切！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "原本沒有抱太大期待，看氣氛裝潢不錯所以進來用餐，結果野人花園的沙拉超級好吃，份量也很夠，拿鐵和義大利麵也很有水準，是一家令人驚豔，喜新厭舊的我會想再訪的店，老闆們的服務也很親切！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "XXX404",
+        "uri": "https://www.google.com/maps/contrib/108581660024315841254/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI8-qMszHNmQxxjMlO-MpIDRVMdXDcx_hsx6zwfQokwpjQYZg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-03-02T06:57:31.874768976Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xQlJVaHBjRkZDTldWeU9EVkZVbUZCUTBsVVpVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xQlJVaHBjRkZDTldWeU9EVkZVbUZCUTBsVVpVRRAB!2m1!1s0x3442a969424342a7:0x2e6c16a987dc08ef"
+    },
+    {
+      "name": "places/ChIJp0JDQmmpQjQR7wjch6kWbC4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoSmVHMXFYek5RUkRsSFVFSjFXVGxJZFV3MVlWRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "位於巷內的咖啡廳，假日用餐人也不少。位於市區百貨旁，價位不算低，也是供休息及用餐處。店員很可愛親切，餐點會附上香蒜麵包，夠香酥。其菇菇炒蛋軟嫩入味，菇菇分佈蛋包上。義大利麵的蝦仁也是大隻鮮脆，且有醬汁味足。\n但其餐點量不多，要加附餐才會剛好喔!",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "位於巷內的咖啡廳，假日用餐人也不少。位於市區百貨旁，價位不算低，也是供休息及用餐處。店員很可愛親切，餐點會附上香蒜麵包，夠香酥。其菇菇炒蛋軟嫩入味，菇菇分佈蛋包上。義大利麵的蝦仁也是大隻鮮脆，且有醬汁味足。\n但其餐點量不多，要加附餐才會剛好喔!",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Shirley Hu",
+        "uri": "https://www.google.com/maps/contrib/108632132661273497182/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7xhxck_XPbDKlP28ucxHSI_63dJA5fSvwv-yLS7tbJHKah7JL=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-12T05:41:07.825241719Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoSmVHMXFYek5RUkRsSFVFSjFXVGxJZFV3MVlWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoSmVHMXFYek5RUkRsSFVFSjFXVGxJZFV3MVlWRRAB!2m1!1s0x3442a969424342a7:0x2e6c16a987dc08ef"
+    },
+    {
+      "name": "places/ChIJp0JDQmmpQjQR7wjch6kWbC4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psNGIyWnhaWGRwTkdsSmFuSkhVV2xEZUZCR1MwRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "離中山站近，點了燻鮭魚義大利麵，吃到後面有點膩，奶油味濃，冬瓜檸檬咖啡，其實是西西里咖啡，沒有冬瓜味，大致上中規中矩，是可以回訪，服務態度很好",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "離中山站近，點了燻鮭魚義大利麵，吃到後面有點膩，奶油味濃，冬瓜檸檬咖啡，其實是西西里咖啡，沒有冬瓜味，大致上中規中矩，是可以回訪，服務態度很好",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Mei",
+        "uri": "https://www.google.com/maps/contrib/103060079315847512991/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWdmVTbbEF6EmqSbXQl5A4Q3WRCIixmOrMe_Rwh_0ZUcNY9XftD=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-09T11:06:14.192801455Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psNGIyWnhaWGRwTkdsSmFuSkhVV2xEZUZCR1MwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psNGIyWnhaWGRwTkdsSmFuSkhVV2xEZUZCR1MwRRAB!2m1!1s0x3442a969424342a7:0x2e6c16a987dc08ef"
+    },
+    {
+      "name": "places/ChIJp0JDQmmpQjQR7wjch6kWbC4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsdE4xTjFaa2hYYTFBMVgzZHNVME5UWDNGNGFuYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "🍝蒜香辣味培根義大利麵：這道好好吃！！！吃完好想再點一份🤣推薦！\n🍝奶油燻鮭魚鮮蝦義大利麵：這道一入口的時候奶香味好濃，吃起來非常舒服\n\n店裡的staff每個人感覺都很好，很照顧每一位客人的需求～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "🍝蒜香辣味培根義大利麵：這道好好吃！！！吃完好想再點一份🤣推薦！\n🍝奶油燻鮭魚鮮蝦義大利麵：這道一入口的時候奶香味好濃，吃起來非常舒服\n\n店裡的staff每個人感覺都很好，很照顧每一位客人的需求～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Winnie",
+        "uri": "https://www.google.com/maps/contrib/113599881842884989088/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXsFnd9UlFIxM69bzFEBaSoPy-p7B1SkDJ8rcTcPo-nu3u6DESY=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-16T14:48:52.431517299Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsdE4xTjFaa2hYYTFBMVgzZHNVME5UWDNGNGFuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsdE4xTjFaa2hYYTFBMVgzZHNVME5UWDNGNGFuYxAB!2m1!1s0x3442a969424342a7:0x2e6c16a987dc08ef"
+    },
+    {
+      "name": "places/ChIJp0JDQmmpQjQR7wjch6kWbC4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkaFpYbFZlbGRhZG01d1dWbEliVWR2VGxwNlIxRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "終於解鎖這間~~~~~\n當初看到有通心粉就直接收進口袋名單😆\n\n店家藏在小巷裡，外觀低調，但裡面的裝潢很有氣氛、很舒服，店員也都很親切\n點了辣味雞肉粉紅醬通心粉，份量蠻多的，但微辣會讓人默默一口接一口，吃到最後真的很飽🤣\n隨餐附的香蒜麵包、另外加點的烤櫛瓜，還有朋友點的菇菇蝦炒蛋都很好吃\n\n飲料的部分點了宇治焙茶拿鐵，是屬於茶濃的那種，喜歡😍；朋友點的一克拉冰磚咖啡也很酷，儀式感滿滿✨✨✨\n\n整體都很喜歡，會想再回訪🥰",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "終於解鎖這間~~~~~\n當初看到有通心粉就直接收進口袋名單😆\n\n店家藏在小巷裡，外觀低調，但裡面的裝潢很有氣氛、很舒服，店員也都很親切\n點了辣味雞肉粉紅醬通心粉，份量蠻多的，但微辣會讓人默默一口接一口，吃到最後真的很飽🤣\n隨餐附的香蒜麵包、另外加點的烤櫛瓜，還有朋友點的菇菇蝦炒蛋都很好吃\n\n飲料的部分點了宇治焙茶拿鐵，是屬於茶濃的那種，喜歡😍；朋友點的一克拉冰磚咖啡也很酷，儀式感滿滿✨✨✨\n\n整體都很喜歡，會想再回訪🥰",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Tzu Yu Lin",
+        "uri": "https://www.google.com/maps/contrib/104201625831414250694/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXdzqs1IPkUNOxgVg0RlKbJhGECsv6xOSUzxbW8nPVGGkZzfZbE2w=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-29T15:41:04.452176958Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkaFpYbFZlbGRhZG01d1dWbEliVWR2VGxwNlIxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkaFpYbFZlbGRhZG01d1dWbEliVWR2VGxwNlIxRRAB!2m1!1s0x3442a969424342a7:0x2e6c16a987dc08ef"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

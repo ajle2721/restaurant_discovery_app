@@ -1,0 +1,140 @@
+{
+  "id": "ChIJgzmBmAmpQjQRYLlbHdBgPZ0",
+  "types": [
+    "dessert_shop",
+    "cake_shop",
+    "chocolate_shop",
+    "candy_store",
+    "cafe",
+    "confectionery",
+    "bakery",
+    "food_store",
+    "wholesaler",
+    "manufacturer",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2311 3321",
+  "formattedAddress": "108台灣臺北市萬華區西門里成都路10巷11號",
+  "location": {
+    "latitude": 25.0420214,
+    "longitude": 121.5070423
+  },
+  "rating": 4.7,
+  "websiteUri": "http://www.browniesbear.com/",
+  "userRatingCount": 1550,
+  "displayName": {
+    "text": "Mr.BROWNIE黑熊先生巧克力布朗尼",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJgzmBmAmpQjQRYLlbHdBgPZ0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sa1lqRkhkRkZ0YkUxQldVMVBhRk5ZVGtGNlNYYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 2,
+      "text": {
+        "text": "沒吃過口味這麼特殊的布朗尼，我們買了很多個\n- 原味來吃起來像是巧克力年糕 或是巧克力軟糖，很軟很黏很奇怪 一點也不像是布朗尼\n- 咖啡口味吃起來有中藥味 ，吃一口就不想吃了\n- 奶酒還不錯，是好吃的 可以再買來吃\n- 店內位置很少 建議外帶回家吃\n- 店員服務蠻好的",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "沒吃過口味這麼特殊的布朗尼，我們買了很多個\n- 原味來吃起來像是巧克力年糕 或是巧克力軟糖，很軟很黏很奇怪 一點也不像是布朗尼\n- 咖啡口味吃起來有中藥味 ，吃一口就不想吃了\n- 奶酒還不錯，是好吃的 可以再買來吃\n- 店內位置很少 建議外帶回家吃\n- 店員服務蠻好的",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ue",
+        "uri": "https://www.google.com/maps/contrib/115572240694622481416/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIMHAyJ38NSN8aHG-ye3tJ_6qmSkb6P4LjQfLDDRjKjzHSZjYU=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-27T17:31:29.678574582Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sa1lqRkhkRkZ0YkUxQldVMVBhRk5ZVGtGNlNYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sa1lqRkhkRkZ0YkUxQldVMVBhRk5ZVGtGNlNYYxAB!2m1!1s0x3442a90998813983:0x9d3d60d01d5bb960"
+    },
+    {
+      "name": "places/ChIJgzmBmAmpQjQRYLlbHdBgPZ0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkQlYzTmhiWFZ4VG1VdFkwcElNV3RvUnpKT2JHYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "紅樓旁邊一家滿顯眼的甜點店，進店就看很多不同口味的布朗尼，口水直流😋！雖然剛吃飽，但還是點了四款口味及咖啡，布朗尼配咖啡簡直是絕配！口味有10多種，一定要多吃幾次才能把所有口味嘗過一遍才成，我個人蠻推薦的一家店👍🏻",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "紅樓旁邊一家滿顯眼的甜點店，進店就看很多不同口味的布朗尼，口水直流😋！雖然剛吃飽，但還是點了四款口味及咖啡，布朗尼配咖啡簡直是絕配！口味有10多種，一定要多吃幾次才能把所有口味嘗過一遍才成，我個人蠻推薦的一家店👍🏻",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "TTConnie",
+        "uri": "https://www.google.com/maps/contrib/107990104703743058641/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocITpCkm1xGTvg2-b96URw-hVpc5yuiI5XHPty_y3sYb3xA6oA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-25T23:46:02.285730763Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkQlYzTmhiWFZ4VG1VdFkwcElNV3RvUnpKT2JHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkQlYzTmhiWFZ4VG1VdFkwcElNV3RvUnpKT2JHYxAB!2m1!1s0x3442a90998813983:0x9d3d60d01d5bb960"
+    },
+    {
+      "name": "places/ChIJgzmBmAmpQjQRYLlbHdBgPZ0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwa1YyOHRPVnA1Y1RWbWNYQjJiazExZDBGcVgyYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "愛吃布朗尼的我，注意這家很久了，終於有機會來品嚐，口味超多種，不會很黏膩，內用座位不多，西門町逛累了，來坐下來喝杯飲料，搭配布朗尼，度過愉快的時光😊\n今天喝了伯爵鮮奶茶，上面一層濃濃奶泡，用的是TWININGS茶包，很香很順口👍🏻\n現場還看得到店員現場製作布朗尼喲！休息完再外帶幾塊布朗尼回家分享，推推！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "愛吃布朗尼的我，注意這家很久了，終於有機會來品嚐，口味超多種，不會很黏膩，內用座位不多，西門町逛累了，來坐下來喝杯飲料，搭配布朗尼，度過愉快的時光😊\n今天喝了伯爵鮮奶茶，上面一層濃濃奶泡，用的是TWININGS茶包，很香很順口👍🏻\n現場還看得到店員現場製作布朗尼喲！休息完再外帶幾塊布朗尼回家分享，推推！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Nico Chen",
+        "uri": "https://www.google.com/maps/contrib/107494852190606569545/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWf3GpJKsOc8y8uqp53iGRhLy_gfw9hwFUGc9DCg129JMhkFVQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-02T08:22:24.094711357Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwa1YyOHRPVnA1Y1RWbWNYQjJiazExZDBGcVgyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwa1YyOHRPVnA1Y1RWbWNYQjJiazExZDBGcVgyYxAB!2m1!1s0x3442a90998813983:0x9d3d60d01d5bb960"
+    },
+    {
+      "name": "places/ChIJgzmBmAmpQjQRYLlbHdBgPZ0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwVVFXNTJkWFpTVGxKc1VrdE9RblJ5TTBwSk5GRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "情人節跟生日都收到遠距男友訂購的布朗尼 很美味 卡片也寫的好可愛 謝謝你們 ❤️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "情人節跟生日都收到遠距男友訂購的布朗尼 很美味 卡片也寫的好可愛 謝謝你們 ❤️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Matilda J",
+        "uri": "https://www.google.com/maps/contrib/102075966598649202451/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX1a7G9VpfDPhd017eKLUl71HVXEVUKqIy2ERfTaka_pdF8EsEg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-14T01:09:23.499709400Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwVVFXNTJkWFpTVGxKc1VrdE9RblJ5TTBwSk5GRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwVVFXNTJkWFpTVGxKc1VrdE9RblJ5TTBwSk5GRRAB!2m1!1s0x3442a90998813983:0x9d3d60d01d5bb960"
+    },
+    {
+      "name": "places/ChIJgzmBmAmpQjQRYLlbHdBgPZ0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGWlkyWkNiblYxTkRkblZEVmpObTFQWmxFMk1tYxAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 5,
+      "text": {
+        "text": "之前有次我和朋友到異國風味餐廳吃飯，當天點的餐後甜點「堅果布朗尼」是當天餐點裡我最喜歡的一道了！當時送出來六塊滋味濃郁的濡濕巧克力布朗尼讓我吃得一直無法忘懷！所以當我上個月底看到「黑熊先生」巧克力布朗尼專賣店廣告裡的繽紛布朗尼時就忍不住食指大動，我入手了橙香布朗尼與堅果布朗尼等六款特色布朗尼，冷藏與加熱吃各有不同風情。\n\n特色巧克力布朗尼以高品質食材烘烤裝飾而成，從減糖到全糖推出各式口味外型繽紛且濃香可口的布朗尼，如今已成為西門町超標配人氣爆棚布朗尼、是日韓爭相必買回國的人氣伴手禮。\n\n我在一共四十餘種的布朗尼挑選了六種口味布朗尼嚐鮮，包括：宇治抹茶、85% 黑可可、奶酒巧克力、彩色M&M'S、榛果牛奶與橙香布朗尼。這就吃起來，唷呼！\n\n「85%黑可可」布朗尼表面以 85% 黑可可做出水紋，烘烤得表面口感酥脆口感自帶光澤、內裡柔軟帶有威士忌的濃香滋味，吃起來是大人的口味。\n\n「橙香布朗尼」是結合布朗尼與綜合水果乾的美麗設計、上面還有星星等小點綴，入口表面香脆並帶有水果的甜酸滋味。甜和酸的平衡蠻不錯。\n\n「宇治抹茶」是日式茶韻布朗尼，在吃之前先室溫回溫或是微波 20 秒或是烤箱烤 3 分鐘、抹茶的滋味更香濃。茶綠色為底畫線的優雅造型富有日式禪意，入口後宇治抹茶與布朗尼營造出苦甜平衡、充滿茶香的優雅滋味。這是很有深度的甜點。\n\n「奶酒巧克力」則是以貝禮詩奶酒為基底的布朗尼，上頭覆上白巧克力並以黑巧克力畫花。設計簡約而美麗。\n\n在這次的六種巧克力布朗尼裡，我最喜歡的就是這款「奶酒巧克力」布朗尼。酒香、奶香與布朗尼的苦味和甜味交織，複雜瑰麗的滋味就像愛情一般。\n\n「榛果牛奶」布朗尼上面布滿了腰果、杏仁等堅果，搭配牛奶巧克力的布朗尼基底，既有口感又有豐富層次的滋味。堅果和牛奶巧克力的味道真的很相配，這個也好吃。\n\n吃「彩色M&M'S」巧克力既可以享受內裡布朗尼香濃細緻的口感與風味，還有 M&M'S 巧克力獨特的香脆口感和甜味。小朋友都會喜歡喔。\n\n我發現黑熊先生巧克力布朗尼造型富有獨特性、滋味也搭配得很巧妙，冷藏著吃冰涼紮實、加熱吃則口感綿密都各有特色，很適合優雅的下午茶小時光。棒棒噠！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "之前有次我和朋友到異國風味餐廳吃飯，當天點的餐後甜點「堅果布朗尼」是當天餐點裡我最喜歡的一道了！當時送出來六塊滋味濃郁的濡濕巧克力布朗尼讓我吃得一直無法忘懷！所以當我上個月底看到「黑熊先生」巧克力布朗尼專賣店廣告裡的繽紛布朗尼時就忍不住食指大動，我入手了橙香布朗尼與堅果布朗尼等六款特色布朗尼，冷藏與加熱吃各有不同風情。\n\n特色巧克力布朗尼以高品質食材烘烤裝飾而成，從減糖到全糖推出各式口味外型繽紛且濃香可口的布朗尼，如今已成為西門町超標配人氣爆棚布朗尼、是日韓爭相必買回國的人氣伴手禮。\n\n我在一共四十餘種的布朗尼挑選了六種口味布朗尼嚐鮮，包括：宇治抹茶、85% 黑可可、奶酒巧克力、彩色M&M'S、榛果牛奶與橙香布朗尼。這就吃起來，唷呼！\n\n「85%黑可可」布朗尼表面以 85% 黑可可做出水紋，烘烤得表面口感酥脆口感自帶光澤、內裡柔軟帶有威士忌的濃香滋味，吃起來是大人的口味。\n\n「橙香布朗尼」是結合布朗尼與綜合水果乾的美麗設計、上面還有星星等小點綴，入口表面香脆並帶有水果的甜酸滋味。甜和酸的平衡蠻不錯。\n\n「宇治抹茶」是日式茶韻布朗尼，在吃之前先室溫回溫或是微波 20 秒或是烤箱烤 3 分鐘、抹茶的滋味更香濃。茶綠色為底畫線的優雅造型富有日式禪意，入口後宇治抹茶與布朗尼營造出苦甜平衡、充滿茶香的優雅滋味。這是很有深度的甜點。\n\n「奶酒巧克力」則是以貝禮詩奶酒為基底的布朗尼，上頭覆上白巧克力並以黑巧克力畫花。設計簡約而美麗。\n\n在這次的六種巧克力布朗尼裡，我最喜歡的就是這款「奶酒巧克力」布朗尼。酒香、奶香與布朗尼的苦味和甜味交織，複雜瑰麗的滋味就像愛情一般。\n\n「榛果牛奶」布朗尼上面布滿了腰果、杏仁等堅果，搭配牛奶巧克力的布朗尼基底，既有口感又有豐富層次的滋味。堅果和牛奶巧克力的味道真的很相配，這個也好吃。\n\n吃「彩色M&M'S」巧克力既可以享受內裡布朗尼香濃細緻的口感與風味，還有 M&M'S 巧克力獨特的香脆口感和甜味。小朋友都會喜歡喔。\n\n我發現黑熊先生巧克力布朗尼造型富有獨特性、滋味也搭配得很巧妙，冷藏著吃冰涼紮實、加熱吃則口感綿密都各有特色，很適合優雅的下午茶小時光。棒棒噠！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "莫赤匪狐",
+        "uri": "https://www.google.com/maps/contrib/112856983303536114363/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGFU-M6FvH8cj6xr8BXInUAkCMIZ59KJkGaefV88KOiULRONUu=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-07-11T03:04:34.895239624Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGWlkyWkNiblYxTkRkblZEVmpObTFQWmxFMk1tYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGWlkyWkNiblYxTkRkblZEVmpObTFQWmxFMk1tYxAB!2m1!1s0x3442a90998813983:0x9d3d60d01d5bb960"
+    }
+  ]
+}

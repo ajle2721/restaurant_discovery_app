@@ -1,0 +1,131 @@
+{
+  "id": "ChIJbU4FGwCrQjQRe_V1ShRF1_Q",
+  "types": [
+    "fast_food_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2236 3608",
+  "formattedAddress": "116台灣臺北市文山區興得里興隆路三段36巷15弄12號",
+  "location": {
+    "latitude": 24.999565999999998,
+    "longitude": 121.55552829999999
+  },
+  "rating": 4.3,
+  "userRatingCount": 85,
+  "displayName": {
+    "text": "底特律pizza",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJbU4FGwCrQjQRe_V1ShRF1_Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT213eFozTnFYM0JsVDNSNGVFbDBWemxuU1VaSFZWRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "4.4顆星\n\n東西不錯吃，有加醬不乾柴，餅皮厚片鬆軟好吃，還是價格偏高\n\n櫥窗透明，可以看清楚用料，飲料便宜，濃湯偏貴\n\n非一般pizza口感，可以先嘗鮮看看，開在科技大學旁邊離萬芳捷運站較近\n\n現金付款，沒有內用座位，僅外帶，盒子設計良好\n\n以上個人經驗分享，供大家參考",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "4.4顆星\n\n東西不錯吃，有加醬不乾柴，餅皮厚片鬆軟好吃，還是價格偏高\n\n櫥窗透明，可以看清楚用料，飲料便宜，濃湯偏貴\n\n非一般pizza口感，可以先嘗鮮看看，開在科技大學旁邊離萬芳捷運站較近\n\n現金付款，沒有內用座位，僅外帶，盒子設計良好\n\n以上個人經驗分享，供大家參考",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "川頁貿",
+        "uri": "https://www.google.com/maps/contrib/100920792586545150361/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVJ6Cy-R8YTfj6Dtj1_CnDp3oilVjv_CZhOCacxqxNfqMdXQwQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-22T13:08:29.752167550Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT213eFozTnFYM0JsVDNSNGVFbDBWemxuU1VaSFZWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT213eFozTnFYM0JsVDNSNGVFbDBWemxuU1VaSFZWRRAB!2m1!1s0x3442ab001b054e6d:0xf4d745144a75f57b"
+    },
+    {
+      "name": "places/ChIJbU4FGwCrQjQRe_V1ShRF1_Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wSVgxOUxhRk5NZEVScGRYRTVhbEZFYzFRdExWRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 3,
+      "text": {
+        "text": "點了肉食愛好者+美式BBQ+瑪格麗特。\n兩個人吃這三片超飽。味道整體來說是還可以的，但披薩上的料本來就很夠味了，在另外加上一樣很有味道的醬，堆疊起來整體偏鹹。餅皮/麵包(?)是我喜歡的，外酥內軟。\n建議醬料的部分可以下手輕一點 😅",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點了肉食愛好者+美式BBQ+瑪格麗特。\n兩個人吃這三片超飽。味道整體來說是還可以的，但披薩上的料本來就很夠味了，在另外加上一樣很有味道的醬，堆疊起來整體偏鹹。餅皮/麵包(?)是我喜歡的，外酥內軟。\n建議醬料的部分可以下手輕一點 😅",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lisa Yap",
+        "uri": "https://www.google.com/maps/contrib/112510818790855695301/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJmRuHLl7V3UOJwI1SEmPwVMZvYKiWEt7WT03uadSO5uLbbUBA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-08-23T11:50:48.279321011Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wSVgxOUxhRk5NZEVScGRYRTVhbEZFYzFRdExWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wSVgxOUxhRk5NZEVScGRYRTVhbEZFYzFRdExWRRAB!2m1!1s0x3442ab001b054e6d:0xf4d745144a75f57b"
+    },
+    {
+      "name": "places/ChIJbU4FGwCrQjQRe_V1ShRF1_Q/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3M3J1Q0FREAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "臘腸很特別～味道很喜歡！不是會吃到的味道。\n軟餅乾很鬆厚，先生很喜歡～可惜沒有棉花糖口味了～\n單點的檸檬釀去冰也很好喝，不會太冰\n雞米花大塊的比較有汁。\n老闆非常親切招呼！\n戶外位置很小巧，兩個大人一個嬰兒剛剛好～也不會怕寶寶打擾到其他客人～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "臘腸很特別～味道很喜歡！不是會吃到的味道。\n軟餅乾很鬆厚，先生很喜歡～可惜沒有棉花糖口味了～\n單點的檸檬釀去冰也很好喝，不會太冰\n雞米花大塊的比較有汁。\n老闆非常親切招呼！\n戶外位置很小巧，兩個大人一個嬰兒剛剛好～也不會怕寶寶打擾到其他客人～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Aasta Lee (李姷均)",
+        "uri": "https://www.google.com/maps/contrib/100540697474159592907/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMagJ_JyjTmPDJp7DMYJV_cmEmkHgGpvpe1oexoAaVTxDWA_RH=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-03-19T03:40:29.634165Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3M3J1Q0FREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3M3J1Q0FREAE!2m1!1s0x3442ab001b054e6d:0xf4d745144a75f57b"
+    },
+    {
+      "name": "places/ChIJbU4FGwCrQjQRe_V1ShRF1_Q/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnd09mbGF3EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "整體感受是好的，可以先用Line線上點餐，以為吃一個Pizza+飲料🥤不會吃飽但是對我來說大約8分飽（本人食量不太大）。Pizza味道是好的，我是點肉食愛好者 不過醬料跟肉比較多種類實際肉的口感沒有這麼強烈，草莓檸檬雪泥好喝。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "整體感受是好的，可以先用Line線上點餐，以為吃一個Pizza+飲料🥤不會吃飽但是對我來說大約8分飽（本人食量不太大）。Pizza味道是好的，我是點肉食愛好者 不過醬料跟肉比較多種類實際肉的口感沒有這麼強烈，草莓檸檬雪泥好喝。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chiang Chiang",
+        "uri": "https://www.google.com/maps/contrib/100480752038410450072/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYd37178eg9DAfZMg06YZUSKiU4igWdAHOe9DTgyRzCrm4UcQZ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-02-13T07:22:00.127656Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnd09mbGF3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnd09mbGF3EAE!2m1!1s0x3442ab001b054e6d:0xf4d745144a75f57b"
+    },
+    {
+      "name": "places/ChIJbU4FGwCrQjQRe_V1ShRF1_Q/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ3N3RudEJnEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "一直以為只有羅馬比薩是方型比薩，原來底特律的烤盤比薩也是方型的，熱熱吃料多實在，很好吃，QRcode點餐預約取餐時間，也可以現場點喔",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一直以為只有羅馬比薩是方型比薩，原來底特律的烤盤比薩也是方型的，熱熱吃料多實在，很好吃，QRcode點餐預約取餐時間，也可以現場點喔",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Kuo Heaven",
+        "uri": "https://www.google.com/maps/contrib/106717161750743065480/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWtzytlL3P_v1uvxYvk8MqIq1gbpdCijFUEZhXjemDbafrL0zeA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2024-08-24T15:53:38.633278Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ3N3RudEJnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ3N3RudEJnEAE!2m1!1s0x3442ab001b054e6d:0xf4d745144a75f57b"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

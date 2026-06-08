@@ -1,0 +1,131 @@
+{
+  "id": "ChIJ0as0OlGuQjQR_Cn99tpydo4",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2823 4455",
+  "formattedAddress": "112台灣臺北市北投區立農里吉利街139巷1號",
+  "location": {
+    "latitude": 25.119087000000004,
+    "longitude": 121.50731499999999
+  },
+  "rating": 4.6,
+  "websiteUri": "https://www.facebook.com/%E9%BB%91%E9%87%91%E9%AD%9A%E5%92%96%E5%95%A1%E9%A4%A8-724948174284729/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 550,
+  "displayName": {
+    "text": "北投黑金魚咖啡館",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ0as0OlGuQjQR_Cn99tpydo4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGSmREbHpWUzF2TVdrMlNFeHVMWEV3YVY5R1lXYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "一家充滿小品風格的純樸咖啡館，空間不大卻很有味道，散發濃濃的古早氣息。\n\n老闆很有品味，待人客氣和藹，讓人感到自在放鬆。烤厚片外酥內軟、香氣十足，也相當美味。\n\n這是在都市裡很難得的不做作、不刻意走網美風的咖啡館，靜靜坐著喝杯咖啡，就能感受生活原本的樣子。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一家充滿小品風格的純樸咖啡館，空間不大卻很有味道，散發濃濃的古早氣息。\n\n老闆很有品味，待人客氣和藹，讓人感到自在放鬆。烤厚片外酥內軟、香氣十足，也相當美味。\n\n這是在都市裡很難得的不做作、不刻意走網美風的咖啡館，靜靜坐著喝杯咖啡，就能感受生活原本的樣子。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Luke Lee",
+        "uri": "https://www.google.com/maps/contrib/100771280823968013821/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXLhsLim-9HPp_PIT_YlFHX4SwVXMYFbEtzqUOPWORVM_Uiz66L=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-14T04:55:04.526163453Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGSmREbHpWUzF2TVdrMlNFeHVMWEV3YVY5R1lXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGSmREbHpWUzF2TVdrMlNFeHVMWEV3YVY5R1lXYxAB!2m1!1s0x3442ae513a34abd1:0x8e7672daf6fd29fc"
+    },
+    {
+      "name": "places/ChIJ0as0OlGuQjQR_Cn99tpydo4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4cldsTXhWa0pYY1V0MFowbFNPV05zVDBoMGFVRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "隱藏在巷弄裡的咖啡廳，沒有仔細看就會錯過\n這邊的西西里咖啡可以做成熱的，不過還是點冰的，口感挺濃順但沒有甜味（喜歡喝甜的不要調甜度）\n有WiFi 與插座（但不是每個位子都有）\n老闆蠻健談，不會讓人感到負擔，也挺貼心的\n可以line pay",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "隱藏在巷弄裡的咖啡廳，沒有仔細看就會錯過\n這邊的西西里咖啡可以做成熱的，不過還是點冰的，口感挺濃順但沒有甜味（喜歡喝甜的不要調甜度）\n有WiFi 與插座（但不是每個位子都有）\n老闆蠻健談，不會讓人感到負擔，也挺貼心的\n可以line pay",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ying Ying",
+        "uri": "https://www.google.com/maps/contrib/114205096143557654152/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXcfRV5-MKkEcca0o07lbRCzPkbpMDVcx0lu0uT2jAH3-BxLzI0=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-11-19T09:27:40.078161335Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4cldsTXhWa0pYY1V0MFowbFNPV05zVDBoMGFVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4cldsTXhWa0pYY1V0MFowbFNPV05zVDBoMGFVRRAB!2m1!1s0x3442ae513a34abd1:0x8e7672daf6fd29fc"
+    },
+    {
+      "name": "places/ChIJ0as0OlGuQjQR_Cn99tpydo4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twelNIUjJWMk14UW5aeldreHBjV0ZYUjNKWVRVRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "店面在可愛的巷子內，老闆很親切，送餐速度很快，店內佈置很用心，而且明顯是愛貓人士。😆",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店面在可愛的巷子內，老闆很親切，送餐速度很快，店內佈置很用心，而且明顯是愛貓人士。😆",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ying Chen",
+        "uri": "https://www.google.com/maps/contrib/105515285321341569659/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKJ2QtGmAt9GNrGzDad1s3BOFMgyL8N2Bhs8ZDkpJkIrFHF5A=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-05T05:22:36.785125807Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twelNIUjJWMk14UW5aeldreHBjV0ZYUjNKWVRVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twelNIUjJWMk14UW5aeldreHBjV0ZYUjNKWVRVRRAB!2m1!1s0x3442ae513a34abd1:0x8e7672daf6fd29fc"
+    },
+    {
+      "name": "places/ChIJ0as0OlGuQjQR_Cn99tpydo4/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GQ1QwTnBWVTlCWjBSMVZrdHZObXRIYkZGeVVVRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "隱藏在北投巷弄裡的復古老宅咖啡廳，氛圍滿滿像時光倒流。☕\n咖啡順口好喝，西西里清爽解膩，明太子吐司鹹香酥脆，巴斯克蛋糕入口即化超推薦！🍰\n老闆親切健談，空間氛圍寧靜溫馨，適合一個人閱讀或和朋友聚會聊天。👍 很值得再訪！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "隱藏在北投巷弄裡的復古老宅咖啡廳，氛圍滿滿像時光倒流。☕\n咖啡順口好喝，西西里清爽解膩，明太子吐司鹹香酥脆，巴斯克蛋糕入口即化超推薦！🍰\n老闆親切健談，空間氛圍寧靜溫馨，適合一個人閱讀或和朋友聚會聊天。👍 很值得再訪！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "樂樂",
+        "uri": "https://www.google.com/maps/contrib/104870231763904691563/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV4CQhT62XQFYbxY6Yy2tT7ApYNM1kcQhceXh_gZk6ppmif51Q=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-08-16T16:47:24.403197420Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GQ1QwTnBWVTlCWjBSMVZrdHZObXRIYkZGeVVVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GQ1QwTnBWVTlCWjBSMVZrdHZObXRIYkZGeVVVRRAB!2m1!1s0x3442ae513a34abd1:0x8e7672daf6fd29fc"
+    },
+    {
+      "name": "places/ChIJ0as0OlGuQjQR_Cn99tpydo4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxNU1uUXdWa1Z5UlZKVFQwOWFObHBLU0dVeFkwRRAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 5,
+      "text": {
+        "text": "裝潢的很溫馨～就像自己家開的小店一樣～會很放鬆～～個人覺得東西很好吃！cp值也高！\n\n最愛巴斯克$90\n老闆說自己手作的！我個人覺得乳酪味很濃！然後口感也是微微流心，但又不會真的留下來的那種（以蛋來形容就是溏心蛋再軟一點的感覺），我覺得巴斯克就是要這樣！超好吃！每次來必點（如果沒被點完的話🤣）\n\n我也常喝他們家的拿鐵，屬於咖啡味比較濃厚的～我個人也是很喜歡！\n\n總之來過很多次了（？ 很推啦！，不過在巷弄裡有點隱密的位置，如果大家走到入口，記得再往裡面看一點，才不會錯過！\n\n常常點了東西～不知不覺坐一整天！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "裝潢的很溫馨～就像自己家開的小店一樣～會很放鬆～～個人覺得東西很好吃！cp值也高！\n\n最愛巴斯克$90\n老闆說自己手作的！我個人覺得乳酪味很濃！然後口感也是微微流心，但又不會真的留下來的那種（以蛋來形容就是溏心蛋再軟一點的感覺），我覺得巴斯克就是要這樣！超好吃！每次來必點（如果沒被點完的話🤣）\n\n我也常喝他們家的拿鐵，屬於咖啡味比較濃厚的～我個人也是很喜歡！\n\n總之來過很多次了（？ 很推啦！，不過在巷弄裡有點隱密的位置，如果大家走到入口，記得再往裡面看一點，才不會錯過！\n\n常常點了東西～不知不覺坐一整天！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳意文",
+        "uri": "https://www.google.com/maps/contrib/116952479595653014517/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXnV_rijVsQ6_V9zfdx4IhozBwgScfrrvYaZK9fu4md6VjiuoY-xQ=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-08-04T08:55:08.399388463Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxNU1uUXdWa1Z5UlZKVFQwOWFObHBLU0dVeFkwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxNU1uUXdWa1Z5UlZKVFQwOWFObHBLU0dVeFkwRRAB!2m1!1s0x3442ae513a34abd1:0x8e7672daf6fd29fc"
+    }
+  ],
+  "menuForChildren": false
+}

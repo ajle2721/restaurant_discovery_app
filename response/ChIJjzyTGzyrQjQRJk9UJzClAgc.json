@@ -1,0 +1,131 @@
+{
+  "id": "ChIJjzyTGzyrQjQRJk9UJzClAgc",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 8786 2663",
+  "formattedAddress": "110台灣臺北市信義區興隆里逸仙路26巷7之1號1樓",
+  "location": {
+    "latitude": 25.039536899999998,
+    "longitude": 121.5621704
+  },
+  "rating": 4.7,
+  "userRatingCount": 46,
+  "displayName": {
+    "text": "雪球咖啡 (市府店)snowballcafe_cityhall",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJjzyTGzyrQjQRJk9UJzClAgc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKQk4zbzFVakYyYlMxUFdVRk5VRVp2Y2tkRlRXYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "很久沒吃到這麼好吃的蛋沙拉吐司了😋（重點是真的是滿滿的餡料）Q軟吐司口感很好，搭配溯源履歷的咖啡讓重度愛咖啡的我們夫妻感覺外食都很安心👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很久沒吃到這麼好吃的蛋沙拉吐司了😋（重點是真的是滿滿的餡料）Q軟吐司口感很好，搭配溯源履歷的咖啡讓重度愛咖啡的我們夫妻感覺外食都很安心👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "hoohahalili wasi",
+        "uri": "https://www.google.com/maps/contrib/106703292550709722308/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWxmU095Ufl5TyOP5ImZAU9URHMOaO4SCtETrMuZa3WFY93SiYE=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-14T00:52:09.358458962Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKQk4zbzFVakYyYlMxUFdVRk5VRVp2Y2tkRlRXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKQk4zbzFVakYyYlMxUFdVRk5VRVp2Y2tkRlRXYxAB!2m1!1s0x3442ab3c1b933c8f:0x702a53027544f26"
+    },
+    {
+      "name": "places/ChIJjzyTGzyrQjQRJk9UJzClAgc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WYVVFNW1aSHBFTlVnd2FqWm1Vemg1T0VWd1RuYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "鬧中取靜的市府附近\n適合坐坐沈靜思考一下的咖啡輕食店\n\n吃過\n厚蛋吐司\n蛋沙拉吐司\n後者是吃了會讓人想念的驚豔\n\n早餐特價基本款吐司+紅綠茶特價65元\n自帶杯環保獎勵5元\n有行動支付",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "鬧中取靜的市府附近\n適合坐坐沈靜思考一下的咖啡輕食店\n\n吃過\n厚蛋吐司\n蛋沙拉吐司\n後者是吃了會讓人想念的驚豔\n\n早餐特價基本款吐司+紅綠茶特價65元\n自帶杯環保獎勵5元\n有行動支付",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Saki",
+        "uri": "https://www.google.com/maps/contrib/109293260128056617383/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWOl2vaglUH0vjNjjuEZLUxFsBEIE2z635YXnWQok-lsh1-E5Irzg=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-12-30T13:15:19.947619185Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WYVVFNW1aSHBFTlVnd2FqWm1Vemg1T0VWd1RuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WYVVFNW1aSHBFTlVnd2FqWm1Vemg1T0VWd1RuYxAB!2m1!1s0x3442ab3c1b933c8f:0x702a53027544f26"
+    },
+    {
+      "name": "places/ChIJjzyTGzyrQjQRJk9UJzClAgc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSSGRFbGZkVkp1Y0ZwRVluTnJlRjlUVGtsalYwRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "現做的厚蛋吐司超嫩！搭配飲料還可折15元，而且好喝又大杯。若有時間，推薦一定要悠閒地坐在窗邊，欣賞翠綠的行道樹和偶爾經過的行人，頓時有身處歐洲的氛圍！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "現做的厚蛋吐司超嫩！搭配飲料還可折15元，而且好喝又大杯。若有時間，推薦一定要悠閒地坐在窗邊，欣賞翠綠的行道樹和偶爾經過的行人，頓時有身處歐洲的氛圍！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Cher Wang",
+        "uri": "https://www.google.com/maps/contrib/116159774759202866530/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU0Zo3yw8qzuNKfRFAuRM9D2cf83TfiIkI4YXK6ng_endzPNvs=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-30T05:01:21.408032747Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSSGRFbGZkVkp1Y0ZwRVluTnJlRjlUVGtsalYwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSSGRFbGZkVkp1Y0ZwRVluTnJlRjlUVGtsalYwRRAB!2m1!1s0x3442ab3c1b933c8f:0x702a53027544f26"
+    },
+    {
+      "name": "places/ChIJjzyTGzyrQjQRJk9UJzClAgc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxRlJtWmFORnBXT1ZWcE4yVjVaa1ZFUjBGcU0xRRAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 5,
+      "text": {
+        "text": "期盼已久終於在逸仙路開了雪球店😍\n焦糖奶茶非常好喝！\n杏仁拿鐵、燕麥拿鐵香濃順口都是我的最愛～\n厚蛋吐司夾著蓬鬆厚厚的蛋，是幸福的味道！\n店員很親切、給人非常舒服的感覺 👍🏻",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "期盼已久終於在逸仙路開了雪球店😍\n焦糖奶茶非常好喝！\n杏仁拿鐵、燕麥拿鐵香濃順口都是我的最愛～\n厚蛋吐司夾著蓬鬆厚厚的蛋，是幸福的味道！\n店員很親切、給人非常舒服的感覺 👍🏻",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Katrina Yeh",
+        "uri": "https://www.google.com/maps/contrib/106960653239592699507/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWb9U-0dH8L7gO3z3vJvAA9uf6PR7i0RPWLsWedRTdzC0I5xgbOdw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-08-02T06:50:56.883238067Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxRlJtWmFORnBXT1ZWcE4yVjVaa1ZFUjBGcU0xRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxRlJtWmFORnBXT1ZWcE4yVjVaa1ZFUjBGcU0xRRAB!2m1!1s0x3442ab3c1b933c8f:0x702a53027544f26"
+    },
+    {
+      "name": "places/ChIJjzyTGzyrQjQRJk9UJzClAgc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tnM1EwaExhR3h0YTJOV2FtRkdUemhhTWs0dGRVRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "內用享受熱熱的卡布奇諾，肉桂香氣撲鼻。可以數位支付，無發票。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "內用享受熱熱的卡布奇諾，肉桂香氣撲鼻。可以數位支付，無發票。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "簡小宇",
+        "uri": "https://www.google.com/maps/contrib/109245100645939411751/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWLQ9YuL1vuR5Gm4sAa91NOqL1KcCJGUPsHZRam8ArEBFFMpt6a=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-15T06:38:40.969558146Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tnM1EwaExhR3h0YTJOV2FtRkdUemhhTWs0dGRVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tnM1EwaExhR3h0YTJOV2FtRkdUemhhTWs0dGRVRRAB!2m1!1s0x3442ab3c1b933c8f:0x702a53027544f26"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

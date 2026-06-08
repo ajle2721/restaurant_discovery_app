@@ -1,0 +1,129 @@
+{
+  "id": "ChIJ38Z2RDCrQjQR5E2vtA5pIwk",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2577 7072",
+  "formattedAddress": "110台灣臺北市信義區莊敬路289巷4弄12號1樓",
+  "location": {
+    "latitude": 25.0286706,
+    "longitude": 121.5634833
+  },
+  "rating": 4.7,
+  "userRatingCount": 481,
+  "displayName": {
+    "text": "森尼班克 早午餐|義大利麵|燉飯|咖哩蛋包飯",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ38Z2RDCrQjQR5E2vtA5pIwk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWTFp6WjVZWGR3VG01VlIxRjJhMlp0TVVOdVJFRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 2,
+      "text": {
+        "text": "1.雞肉：有肉 但不多 可能因切的方式 導致幾乎都碎肉。不過整碗看下來 整體份量偏少 大概2.5塊直徑2公分的雞丁\n\n2.飯：可能燜太久 考量平台送到手上需要時間 以後要吃燉飯的話可能自己斟酌或選內用\n\n之前吃過兩次培根麵 味道蠻好。但這次點番茄雞肉燉飯 $143（透過訂餐平台）不算滿意",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "1.雞肉：有肉 但不多 可能因切的方式 導致幾乎都碎肉。不過整碗看下來 整體份量偏少 大概2.5塊直徑2公分的雞丁\n\n2.飯：可能燜太久 考量平台送到手上需要時間 以後要吃燉飯的話可能自己斟酌或選內用\n\n之前吃過兩次培根麵 味道蠻好。但這次點番茄雞肉燉飯 $143（透過訂餐平台）不算滿意",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Wilson L",
+        "uri": "https://www.google.com/maps/contrib/114278329404587964228/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWtnTjt_stfYnacZPqtBzD00zIKouvxwR2uSj1y14pY2uEql4P1=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-10-17T04:14:04.007422816Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWTFp6WjVZWGR3VG01VlIxRjJhMlp0TVVOdVJFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWTFp6WjVZWGR3VG01VlIxRjJhMlp0TVVOdVJFRRAB!2m1!1s0x3442ab304476c6df:0x923690eb4af4de4"
+    },
+    {
+      "name": "places/ChIJ38Z2RDCrQjQR5E2vtA5pIwk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KTGVuVk5kRXhSZHpkTWVGUnhkMW8yVjNCaFEyYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 2,
+      "text": {
+        "text": "店內生意中午頗好，但店員人手不足，等餐真的等了世紀無敵久有夠餓，等到受不了問店員能不能先上湯（我想說湯應該是先煮好的，只要撈給我就可以），結果店員也說不行。食物真的很普，最讓人失望的是可頌，完全不酥很軟爛，很像是難吃的飛機餐麵包，再加上過多的荷蘭醬，整個可頌被ㄍㄡˊ爛巴巴，不會回訪。兩顆星給店內裝潢，是頗舒適適合朋友聊天，但座位稍顯擁擠。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店內生意中午頗好，但店員人手不足，等餐真的等了世紀無敵久有夠餓，等到受不了問店員能不能先上湯（我想說湯應該是先煮好的，只要撈給我就可以），結果店員也說不行。食物真的很普，最讓人失望的是可頌，完全不酥很軟爛，很像是難吃的飛機餐麵包，再加上過多的荷蘭醬，整個可頌被ㄍㄡˊ爛巴巴，不會回訪。兩顆星給店內裝潢，是頗舒適適合朋友聊天，但座位稍顯擁擠。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Miya Chung",
+        "uri": "https://www.google.com/maps/contrib/118024605971934924006/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWwI35Q022co_8REizOqSxPVLLnYjuhyIN7GSSPVd7nBuY03U9E=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-01T21:27:53.579825245Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KTGVuVk5kRXhSZHpkTWVGUnhkMW8yVjNCaFEyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KTGVuVk5kRXhSZHpkTWVGUnhkMW8yVjNCaFEyYxAB!2m1!1s0x3442ab304476c6df:0x923690eb4af4de4"
+    },
+    {
+      "name": "places/ChIJ38Z2RDCrQjQR5E2vtA5pIwk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wMFRFOWZTMHhJVEdKa1pYbDNibnBsTVZaSlJsRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "用公司訂餐系統點到 145元\n到手嚇到\n重的要命滿的要命\n成年男子都不見得吃的完的量\n我猜這一碗大概有飯碗的4-5碗 很可怕超大碗\n中餐吃一半極限\n很大碗不過沒什麼味道 可能飯都把醬吸光了\n肉算多 菇菇算多 除之外沒別的料 會很膩\n另一半帶回家重新加熱+奶油+牛奶+蒜辣+香料重煮一遍，已經蛻變成一百分的燉飯\n總之女生真的會吃不完",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "用公司訂餐系統點到 145元\n到手嚇到\n重的要命滿的要命\n成年男子都不見得吃的完的量\n我猜這一碗大概有飯碗的4-5碗 很可怕超大碗\n中餐吃一半極限\n很大碗不過沒什麼味道 可能飯都把醬吸光了\n肉算多 菇菇算多 除之外沒別的料 會很膩\n另一半帶回家重新加熱+奶油+牛奶+蒜辣+香料重煮一遍，已經蛻變成一百分的燉飯\n總之女生真的會吃不完",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "8511 error",
+        "uri": "https://www.google.com/maps/contrib/106760633570967805116/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXaKyeO5SMs1YzGXhXdsS55fPiXOr39dcdRAtYREJ4RVn1GV7pBmQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-12T11:44:16.265361940Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wMFRFOWZTMHhJVEdKa1pYbDNibnBsTVZaSlJsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wMFRFOWZTMHhJVEdKa1pYbDNibnBsTVZaSlJsRRAB!2m1!1s0x3442ab304476c6df:0x923690eb4af4de4"
+    },
+    {
+      "name": "places/ChIJ38Z2RDCrQjQR5E2vtA5pIwk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSTGFHaDRaSFZZYzNjd1pVRktYMFJVT1cxdlkzYxAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 5,
+      "text": {
+        "text": "三個人來吃早午餐，份量看起來剛好，義大利麵很好吃，茄汁的酸甜味很明顯，法式吐司有蛋香和淡淡蜂蜜味，唐揚雞有點黑但是調味很棒而且很多汁。\n推推！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "三個人來吃早午餐，份量看起來剛好，義大利麵很好吃，茄汁的酸甜味很明顯，法式吐司有蛋香和淡淡蜂蜜味，唐揚雞有點黑但是調味很棒而且很多汁。\n推推！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "宋華箏",
+        "uri": "https://www.google.com/maps/contrib/117385344517585679278/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjULTYfjyFXGXdiwG97R1by7RJetSRE9paKuEcJ-TCDXUyLve95KAA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-07-12T02:00:48.912580164Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSTGFHaDRaSFZZYzNjd1pVRktYMFJVT1cxdlkzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSTGFHaDRaSFZZYzNjd1pVRktYMFJVT1cxdlkzYxAB!2m1!1s0x3442ab304476c6df:0x923690eb4af4de4"
+    },
+    {
+      "name": "places/ChIJ38Z2RDCrQjQR5E2vtA5pIwk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCeWMxcE9OazE0UW5Cb01GWk1PRXhaTkZGR04wRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點擺盤美觀，燉飯義大利麵很夠味份量多飲品大杯，環境安靜自在，下次再來點不一樣的餐點。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點擺盤美觀，燉飯義大利麵很夠味份量多飲品大杯，環境安靜自在，下次再來點不一樣的餐點。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "邱小麗",
+        "uri": "https://www.google.com/maps/contrib/116148348528534611271/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLJL7DjMRmto7lxxJYIo6Z_VNHlBfy7DLdTaUtdMAlKqpXnhg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-11T00:37:02.829508943Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCeWMxcE9OazE0UW5Cb01GWk1PRXhaTkZGR04wRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCeWMxcE9OazE0UW5Cb01GWk1PRXhaTkZGR04wRRAB!2m1!1s0x3442ab304476c6df:0x923690eb4af4de4"
+    }
+  ],
+  "goodForChildren": true
+}

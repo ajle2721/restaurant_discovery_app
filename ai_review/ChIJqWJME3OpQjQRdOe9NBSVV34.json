@@ -1,0 +1,55 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "二樓位子有點擁擠，人多的時候比較擁擠，且上下樓梯端餐點稍微不便。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "四樓（閣樓）甚至還有夢幻球池和溜滑梯，超級殺底片，難怪很多人來這裡約會。",
+        "confidence": 0.9
+    },
+    "has_play_area": {
+        "result": "Yes",
+        "evidence": "四樓（閣樓）甚至還有夢幻球池和溜滑梯，超級殺底片。",
+        "confidence": 0.9
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -1,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "四樓（閣樓）甚至還有夢幻球池和溜滑梯，超級殺底片。",
+        "二樓位子有點擁擠，人多的時候比較擁擠，且上下樓梯端餐點稍微不便。",
+        "人多的時候比較擁擠，且上下樓梯端餐點稍微不便",
+        "二樓位子有點擁擠",
+        "四樓（閣樓）甚至還有夢幻球池和溜滑梯",
+        "四樓（閣樓）甚至還有夢幻球池和溜滑梯，超級殺底片，難怪很多人來這裡約會。"
+    ],
+    "generated_summary": "奧蘿茉咖啡館北車店擁有獨特的裝潢與店貓，四樓設有球池與溜滑梯等遊樂設施，環境氛圍活潑。不過，店內採自助式服務且需上下樓梯，對於攜帶幼童的家長來說可能較為不便，且部分樓層座位較為擁擠，建議前往前可先向店家確認是否有兒童座椅或餐具等相關服務。",
+    "card_summary": ""
+}

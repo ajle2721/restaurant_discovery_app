@@ -1,0 +1,52 @@
+{
+    " child_seat available": {
+        "result": "No",
+        "evidence": "Not good for children (官方標記：不適合兒童)",
+        "confidence": 1.0
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "環境感覺普普，不舒適。不髒、但也不能說乾淨，還是會有小蟲子、小螞蟻，只能說真的是很精簡的一間店。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "No menu for children (官方標記：不提供兒童餐)",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "No",
+        "evidence": "Not good for children (官方標記：不適合兒童)",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "No menu for children (官方標記：不提供兒童餐)",
+        "環境感覺普普，不舒適。不髒、但也不能說乾淨，還是會有小蟲子、小螞蟻，只能說真的是很精簡的一間店。",
+        "Not good for children (官方標記：不適合兒童)"
+    ],
+    "generated_summary": "根據官方標記與評論資訊，該店明確標示不適合兒童且不提供兒童餐。店內環境被描述為空間精簡且舒適度一般，並無相關親子友善設施的資訊，建議攜帶幼童的家長評估後再前往。",
+    "card_summary": ""
+}

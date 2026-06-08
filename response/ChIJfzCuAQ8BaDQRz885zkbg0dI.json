@@ -1,0 +1,132 @@
+{
+  "id": "ChIJfzCuAQ8BaDQRz885zkbg0dI",
+  "types": [
+    "taiwanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2939 5938",
+  "formattedAddress": "116台灣臺北市文山區指南里指南路三段38巷16-2號3樓",
+  "location": {
+    "latitude": 24.9693307,
+    "longitude": 121.58753069999999
+  },
+  "rating": 4.2,
+  "websiteUri": "https://www.facebook.com/maokong.maolan/",
+  "userRatingCount": 931,
+  "displayName": {
+    "text": "MAOLAN 貓懶 景觀茶屋",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJfzCuAQ8BaDQRz885zkbg0dI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oUk9FMW5SVmhpVFZNdE15MVdUVmg0U0ROMGFFRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "貓欄這餐還不錯。金字塔茶飯造型蠻特別的，吃起來有淡淡茶香。鐵觀音雞湯湯頭甘甜，加了紅棗跟香菇，喝起來很暖。洋蔥圈就正常發揮，酥脆不油。兩個人點三樣吃得蠻飽，是間會想再回訪的茶料理店。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "貓欄這餐還不錯。金字塔茶飯造型蠻特別的，吃起來有淡淡茶香。鐵觀音雞湯湯頭甘甜，加了紅棗跟香菇，喝起來很暖。洋蔥圈就正常發揮，酥脆不油。兩個人點三樣吃得蠻飽，是間會想再回訪的茶料理店。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "彭韋霖",
+        "uri": "https://www.google.com/maps/contrib/116945822784979684171/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWyFM-IeJnOwVtiSvqCXjm1RCwOzN4BwKLaCM1sSdyqPEZlRlam=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-03-08T11:47:52.669886827Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oUk9FMW5SVmhpVFZNdE15MVdUVmg0U0ROMGFFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oUk9FMW5SVmhpVFZNdE15MVdUVmg0U0ROMGFFRRAB!2m1!1s0x3468010f01ae307f:0xd2d1e046ce39cfcf"
+    },
+    {
+      "name": "places/ChIJfzCuAQ8BaDQRz885zkbg0dI/reviews/Ci9DQUlRQUNvZENodHljRjlvT201TGRrVkVZM2R1VkVvdFpWOTRZVmgwUVZScGVVRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "一定要先訂位,假日來有單行道管制,不小\n心開錯路就要多繞一大圈花了半小時。我喜歡鹹酥大蝦新鮮味美!鐵觀音雞湯超好喝,服務人員很讚!",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一定要先訂位,假日來有單行道管制,不小\n心開錯路就要多繞一大圈花了半小時。我喜歡鹹酥大蝦新鮮味美!鐵觀音雞湯超好喝,服務人員很讚!",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "K Bee",
+        "uri": "https://www.google.com/maps/contrib/100438286015392535229/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIxXYWm2EWeLNtIT-B9YnfB5f-zQk1ODyHxyEXgjxkvXrQtrg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-03-07T07:37:48.975799369Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201TGRrVkVZM2R1VkVvdFpWOTRZVmgwUVZScGVVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201TGRrVkVZM2R1VkVvdFpWOTRZVmgwUVZScGVVRRAB!2m1!1s0x3468010f01ae307f:0xd2d1e046ce39cfcf"
+    },
+    {
+      "name": "places/ChIJfzCuAQ8BaDQRz885zkbg0dI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Ga2RtSjBaMHg2V2xwMlJWbHhXVkZTVVVOa1VIYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "邊看夜景邊吃飯氣氛不錯～ 鐵觀音茶雞湯蠻特別的、料也很多還算好喝 其他餐點中規中矩 不過價格都偏高",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "邊看夜景邊吃飯氣氛不錯～ 鐵觀音茶雞湯蠻特別的、料也很多還算好喝 其他餐點中規中矩 不過價格都偏高",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "裕珊",
+        "uri": "https://www.google.com/maps/contrib/109902391466264393068/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVIwV_OTKb9nDpLlHmtMLLHGT-GBcIJD-3kpiE5tWpewUvMdQR7uA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-20T08:43:46.420764382Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Ga2RtSjBaMHg2V2xwMlJWbHhXVkZTVVVOa1VIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Ga2RtSjBaMHg2V2xwMlJWbHhXVkZTVVVOa1VIYxAB!2m1!1s0x3468010f01ae307f:0xd2d1e046ce39cfcf"
+    },
+    {
+      "name": "places/ChIJfzCuAQ8BaDQRz885zkbg0dI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2swdFVUSmtTRkZhYWpaalpXMUZURkZMY21rNVEzYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "在貓纜旁附近，價格合理，景觀佳，適合與家人拍照的餐廳",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在貓纜旁附近，價格合理，景觀佳，適合與家人拍照的餐廳",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Y Poon",
+        "uri": "https://www.google.com/maps/contrib/113817003050810777452/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIMdLq5ob-jvqDvke3obkI2USdwon27RsofksrZzKsN7MVMNQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-03-05T09:08:45.445793152Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2swdFVUSmtTRkZhYWpaalpXMUZURkZMY21rNVEzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2swdFVUSmtTRkZhYWpaalpXMUZURkZMY21rNVEzYxAB!2m1!1s0x3468010f01ae307f:0xd2d1e046ce39cfcf"
+    },
+    {
+      "name": "places/ChIJfzCuAQ8BaDQRz885zkbg0dI/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2Ml9XTGJBEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "1樓的包廂很適合三五好友盡情聊天的好地方，菜的口味算中上，只是服務不是很親切，特別是點完餐催著要結帳的口氣，還有限時到馬上催人，態度很差，希望下次可以前10分鐘溫馨提醒！\n會到貓空用餐，也是想享受一下窗外的風景，可惜餐廳裡的玻璃，真的是髒到只看得到一大片的污漬啊😓",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "1樓的包廂很適合三五好友盡情聊天的好地方，菜的口味算中上，只是服務不是很親切，特別是點完餐催著要結帳的口氣，還有限時到馬上催人，態度很差，希望下次可以前10分鐘溫馨提醒！\n會到貓空用餐，也是想享受一下窗外的風景，可惜餐廳裡的玻璃，真的是髒到只看得到一大片的污漬啊😓",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Emily H.",
+        "uri": "https://www.google.com/maps/contrib/103955252185817417906/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXwNiEdYqni3xrpygnANiZQ5lLcmVijWdcvhTX5iN-GzalT2_JF=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2024-12-15T02:50:00.136811Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2Ml9XTGJBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2Ml9XTGJBEAE!2m1!1s0x3468010f01ae307f:0xd2d1e046ce39cfcf"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

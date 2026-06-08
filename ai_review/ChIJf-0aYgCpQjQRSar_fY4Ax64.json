@@ -1,0 +1,52 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "店家應該是有兩間舊公寓所改裝而成，所以店面非常的寬敞。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "No menu for children (官方標記：不提供兒童餐)",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "Good for children (官方標記：適合兒童)",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "店家應該是有兩間舊公寓所改裝而成，所以店面非常的寬敞。",
+        "No menu for children (官方標記：不提供兒童餐)",
+        "Good for children (官方標記：適合兒童)"
+    ],
+    "generated_summary": "該餐廳空間寬敞，且經官方標記為適合兒童的環境。不過，店家明確表示不提供兒童餐，且評論中未提及兒童座椅、餐具或尿布台等設施，建議攜帶幼童前往時可先行確認相關設備需求。",
+    "card_summary": ""
+}

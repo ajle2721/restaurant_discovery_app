@@ -1,0 +1,133 @@
+{
+  "id": "ChIJq6qqqgasQjQRUVuv8NetxkA",
+  "types": [
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2875 2955",
+  "formattedAddress": "111台灣臺北市士林區天福里天母東路68號A館7樓",
+  "location": {
+    "latitude": 25.1179204,
+    "longitude": 121.5339295
+  },
+  "rating": 4.4,
+  "websiteUri": "http://www.1010restaurant.com/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1300,
+  "displayName": {
+    "text": "1010湘 天母三越店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJq6qqqgasQjQRUVuv8NetxkA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oSFUyNU1USEJxWXpWWVpEaFJUMlZZV2toZmRFRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "位於新光三越天母店裡的連鎖餐廳，原來與瓦城系出同門，點了四人套餐，口味很不錯，價位上稍微偏高一點點，折抵百貨停車還算可以。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "位於新光三越天母店裡的連鎖餐廳，原來與瓦城系出同門，點了四人套餐，口味很不錯，價位上稍微偏高一點點，折抵百貨停車還算可以。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yang Cory",
+        "uri": "https://www.google.com/maps/contrib/111445187286396674846/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX_fOSt1MZk1FassIy1z8__PitLeIeMMd1W39nwTi03oqM1n--0bg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-19T16:06:20.225482975Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oSFUyNU1USEJxWXpWWVpEaFJUMlZZV2toZmRFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oSFUyNU1USEJxWXpWWVpEaFJUMlZZV2toZmRFRRAB!2m1!1s0x3442ac06aaaaaaab:0x40c6add7f0af5b51"
+    },
+    {
+      "name": "places/ChIJq6qqqgasQjQRUVuv8NetxkA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2prMGRreFFWbDlZUzBKdWIzY3dTRU5NTVc1a2NFRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "很厲害，把普通的食材，轉變成高檔的菜單，醋溜土豆，糯米椒炒蛋，芝然肋排，運用廚藝，提升價值，服務不錯！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很厲害，把普通的食材，轉變成高檔的菜單，醋溜土豆，糯米椒炒蛋，芝然肋排，運用廚藝，提升價值，服務不錯！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Enfeng Wu",
+        "uri": "https://www.google.com/maps/contrib/110501332379544088776/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKzvohdszOH0HSaxItOgqydEZ3yhDZoEAIZmyGeEjheqVOfDw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-14T08:43:52.918200367Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2prMGRreFFWbDlZUzBKdWIzY3dTRU5NTVc1a2NFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2prMGRreFFWbDlZUzBKdWIzY3dTRU5NTVc1a2NFRRAB!2m1!1s0x3442ac06aaaaaaab:0x40c6add7f0af5b51"
+    },
+    {
+      "name": "places/ChIJq6qqqgasQjQRUVuv8NetxkA/reviews/Ci9DQUlRQUNvZENodHljRjlvT201cWNTMVNNVGhzTWtwclkxWk9XWFJMZDFKelEyYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "環境開闊舒適\n整體料理偏油\n年糕微Q微糯的口感搭配牛肉粒\n還不錯👌\n醋溜土豆絲🥔有酸，脆脆的像吃筍子\n炒飯香～有加培根🥓也滿油的",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境開闊舒適\n整體料理偏油\n年糕微Q微糯的口感搭配牛肉粒\n還不錯👌\n醋溜土豆絲🥔有酸，脆脆的像吃筍子\n炒飯香～有加培根🥓也滿油的",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "王凱琳",
+        "uri": "https://www.google.com/maps/contrib/111476689742627127641/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVCW2_2tU1cGaDwduifkzDT_UU3MwaKUxf0R2o1I-M2nKBHCI3k=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-14T09:30:26.916429149Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201cWNTMVNNVGhzTWtwclkxWk9XWFJMZDFKelEyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201cWNTMVNNVGhzTWtwclkxWk9XWFJMZDFKelEyYxAB!2m1!1s0x3442ac06aaaaaaab:0x40c6add7f0af5b51"
+    },
+    {
+      "name": "places/ChIJq6qqqgasQjQRUVuv8NetxkA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wcE5VUnhUVk0yUlVWR1EzVnBMVE5TY1VWNWFtYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "同為瓦城集團，正宗湘菜，重口味麻辣~可以接受。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "同為瓦城集團，正宗湘菜，重口味麻辣~可以接受。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Fengmin shen",
+        "uri": "https://www.google.com/maps/contrib/116416018494641626168/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVnydJe1yoMw3E6XuWMXvVVtBN9bhHY9U6xWdw1XfKWHc5bWeLL=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-03-04T05:48:20.603796572Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wcE5VUnhUVk0yUlVWR1EzVnBMVE5TY1VWNWFtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wcE5VUnhUVk0yUlVWR1EzVnBMVE5TY1VWNWFtYxAB!2m1!1s0x3442ac06aaaaaaab:0x40c6add7f0af5b51"
+    },
+    {
+      "name": "places/ChIJq6qqqgasQjQRUVuv8NetxkA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWaFJIUTBlVzE0VURsRVoyUnlZbHBhYkRKckxYYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "上菜速度快速，菜色很入味，小小麻辣蠻好吃的！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "上菜速度快速，菜色很入味，小小麻辣蠻好吃的！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "蔡芮郁 / 芮芮去哪裡",
+        "uri": "https://www.google.com/maps/contrib/106422463849055579580/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU1nh-IY8XPqEVxLBk8AHy-TPk165moHZktz4KNOHnN-07wcKTFtw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-09T14:21:16.770766630Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWaFJIUTBlVzE0VURsRVoyUnlZbHBhYkRKckxYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWaFJIUTBlVzE0VURsRVoyUnlZbHBhYkRKckxYYxAB!2m1!1s0x3442ac06aaaaaaab:0x40c6add7f0af5b51"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

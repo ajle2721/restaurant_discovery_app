@@ -1,0 +1,132 @@
+{
+  "id": "ChIJnVCcwqypQjQRunZOaoCjiTo",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2312 0561",
+  "formattedAddress": "100台灣臺北市中正區黎明里南陽街1號2樓",
+  "location": {
+    "latitude": 25.0456512,
+    "longitude": 121.5162179
+  },
+  "rating": 4,
+  "websiteUri": "https://inline.app/booking/-M8sDnihYZk7cF1FAtSG:inline-live-1/-OJGuLAhS9bC9TZjY59B",
+  "userRatingCount": 151,
+  "displayName": {
+    "text": "Daylight光合箱子-站前店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJnVCcwqypQjQRunZOaoCjiTo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GeU1sRkRjVlZJWlhaaE9UTTFhREJQYkMxVE5HYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "工業風的裝潢，能在炒雜的台北車站找到可以讓人放鬆休息的的餐廳感覺很不錯。\n環境很好，服務生很友善，除了價位偏高外沒有缺點。\n⭐️ 推薦紅酒豬小排義大利麵\n豬肉很香帶一點甜味還不錯吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "工業風的裝潢，能在炒雜的台北車站找到可以讓人放鬆休息的的餐廳感覺很不錯。\n環境很好，服務生很友善，除了價位偏高外沒有缺點。\n⭐️ 推薦紅酒豬小排義大利麵\n豬肉很香帶一點甜味還不錯吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "顏岑霖",
+        "uri": "https://www.google.com/maps/contrib/105034227291530013162/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVzdDCeeT9zobWEjHtdx9lk7TVFu09Hqu9k6eygzvdTTAdMZxzv=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-22T11:50:36.130307901Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GeU1sRkRjVlZJWlhaaE9UTTFhREJQYkMxVE5HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GeU1sRkRjVlZJWlhaaE9UTTFhREJQYkMxVE5HYxAB!2m1!1s0x3442a9acc29c509d:0x3a89a3806a4e76ba"
+    },
+    {
+      "name": "places/ChIJnVCcwqypQjQRunZOaoCjiTo/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oS1dEbFVZMGRWU0V4dU5GSnpZMFJYY2pOc1prRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "空間很寬敞舒適，出了一般二人跟四人座位，還有半開放的包廂座位，很適合聊公事或是想要有自己空間的客人。義大利麵等也還算好吃，份量很夠。就在台北車站附近，交通也相當方便。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "空間很寬敞舒適，出了一般二人跟四人座位，還有半開放的包廂座位，很適合聊公事或是想要有自己空間的客人。義大利麵等也還算好吃，份量很夠。就在台北車站附近，交通也相當方便。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "姜太",
+        "uri": "https://www.google.com/maps/contrib/104100626953598855014/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUxouEW3Eq_-rRHuwMZiR0bBwqTMt4K_J1aprLCxXyyxxEYUUVGzg=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-02-17T20:04:43.065006320Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oS1dEbFVZMGRWU0V4dU5GSnpZMFJYY2pOc1prRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oS1dEbFVZMGRWU0V4dU5GSnpZMFJYY2pOc1prRRAB!2m1!1s0x3442a9acc29c509d:0x3a89a3806a4e76ba"
+    },
+    {
+      "name": "places/ChIJnVCcwqypQjQRunZOaoCjiTo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tzdFkybHBaRjkyUm5sdU56WnZYMjFWZDJwVmNtYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "環境因為人多會比較吵雜一點，但地點方便，餐點我吃的豬排有點膩，但麵條軟硬剛好加辣還不錯吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境因為人多會比較吵雜一點，但地點方便，餐點我吃的豬排有點膩，但麵條軟硬剛好加辣還不錯吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "進入泰瑞莎異想世界一起趴趴走",
+        "uri": "https://www.google.com/maps/contrib/110918542182370990432/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX-TSHnRvl4wTUjl8Yq0UIp0drveU7j6wXZTWw24s_3kY5Sv4DDPw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-27T09:54:32.754485881Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tzdFkybHBaRjkyUm5sdU56WnZYMjFWZDJwVmNtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tzdFkybHBaRjkyUm5sdU56WnZYMjFWZDJwVmNtYxAB!2m1!1s0x3442a9acc29c509d:0x3a89a3806a4e76ba"
+    },
+    {
+      "name": "places/ChIJnVCcwqypQjQRunZOaoCjiTo/reviews/Ci9DQUlRQUNvZENodHljRjlvT205bVEzVjJhbmxXZEZsVVJtMU5UbUp1U0RJMVowRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點份量都很多 麵包給的不手軟很厚一片\n搭配健康的沙拉跟黑糖堅果優格 好吃💕(不喜歡吃菜也可以換成炸物呦）\n是男生也都吃很飽的份量👍🏻\n飲料方面就中規中矩～\n\n難得北車有座位這麼多的早午餐店 限時2小時但沒坐滿不會趕人 很適合多人一起聚餐聊天呦",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點份量都很多 麵包給的不手軟很厚一片\n搭配健康的沙拉跟黑糖堅果優格 好吃💕(不喜歡吃菜也可以換成炸物呦）\n是男生也都吃很飽的份量👍🏻\n飲料方面就中規中矩～\n\n難得北車有座位這麼多的早午餐店 限時2小時但沒坐滿不會趕人 很適合多人一起聚餐聊天呦",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "蘇家美",
+        "uri": "https://www.google.com/maps/contrib/115099757963020273186/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIq8YRH1QiBbB3cr1Qh9Cfm24E2-nbUV0grpusBBSOpvany3Q=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-19T06:36:43.921822232Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205bVEzVjJhbmxXZEZsVVJtMU5UbUp1U0RJMVowRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205bVEzVjJhbmxXZEZsVVJtMU5UbUp1U0RJMVowRRAB!2m1!1s0x3442a9acc29c509d:0x3a89a3806a4e76ba"
+    },
+    {
+      "name": "places/ChIJnVCcwqypQjQRunZOaoCjiTo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tJM1QyeG1NVUZWVTBOTk1VMUdXVVJQUzNCWWJuYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "店內裝潢融合了工業風與溫馨元素，座位區寬敞舒適，非常適合小聚或享受片刻寧靜。\n\n菜單選擇非常豐富，從經典早午餐到義大利麵，餐廳秉持健康理念，採用新鮮食材，以簡單卻用心的烹調方式來呈現餐點，讓顧客能兼顧健康與美味。\n\n店內採用自助掃碼點餐，方便快速，並提供多樣化的支付方式，包含現金及信用卡。\n\nDaylight 光合箱子 - 結合了美味與健康的優點，是台北車站周邊不可錯過的一處用餐地點。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店內裝潢融合了工業風與溫馨元素，座位區寬敞舒適，非常適合小聚或享受片刻寧靜。\n\n菜單選擇非常豐富，從經典早午餐到義大利麵，餐廳秉持健康理念，採用新鮮食材，以簡單卻用心的烹調方式來呈現餐點，讓顧客能兼顧健康與美味。\n\n店內採用自助掃碼點餐，方便快速，並提供多樣化的支付方式，包含現金及信用卡。\n\nDaylight 光合箱子 - 結合了美味與健康的優點，是台北車站周邊不可錯過的一處用餐地點。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃永裕 Eddy Huang",
+        "uri": "https://www.google.com/maps/contrib/116404278817514148417/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV4C8uyjwuxeghErrXjT7Citwy5reRRQIvYVTCQbk05mjhycrPqVA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-16T00:32:09.247034151Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tJM1QyeG1NVUZWVTBOTk1VMUdXVVJQUzNCWWJuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tJM1QyeG1NVUZWVTBOTk1VMUdXVVJQUzNCWWJuYxAB!2m1!1s0x3442a9acc29c509d:0x3a89a3806a4e76ba"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

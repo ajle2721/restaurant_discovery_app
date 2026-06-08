@@ -1,0 +1,131 @@
+{
+  "id": "ChIJKRzEs5KtQjQRglm9M9RwAFA",
+  "types": [
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2797 9536",
+  "formattedAddress": "114台灣臺北市內湖區瑞陽里文德路66巷45號",
+  "location": {
+    "latitude": 25.077192000000004,
+    "longitude": 121.581938
+  },
+  "rating": 4.5,
+  "userRatingCount": 126,
+  "displayName": {
+    "text": "樂澄日式食堂",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJKRzEs5KtQjQRglm9M9RwAFA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GT1JHdzBaRUZuU0ZCWGVtWkhUMlpWUTJoeVJGRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點不錯吃，價格平\n套餐的手捲跟沙拉很不賴👍\n\n而且因為今天很熱，熱茶壺裡面是附冰茶！\n有這個變化我覺得服務真的是非常好，大多都還是會給熱茶。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點不錯吃，價格平\n套餐的手捲跟沙拉很不賴👍\n\n而且因為今天很熱，熱茶壺裡面是附冰茶！\n有這個變化我覺得服務真的是非常好，大多都還是會給熱茶。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "H. Yuan (阿谷)",
+        "uri": "https://www.google.com/maps/contrib/106020828943422194379/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXFQ01RqLEO5Bh3_ijns7Um_dh0wHKkaIlWsJkZZA1M8PJMHeFQZA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-10-18T11:36:38.239576800Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GT1JHdzBaRUZuU0ZCWGVtWkhUMlpWUTJoeVJGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GT1JHdzBaRUZuU0ZCWGVtWkhUMlpWUTJoeVJGRRAB!2m1!1s0x3442ad92b3c41c29:0x500070d433bd5982"
+    },
+    {
+      "name": "places/ChIJKRzEs5KtQjQRglm9M9RwAFA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxQ1MxWmlVSGRFTUZZd2JsUXdjV00zVDFBemRrRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "公司附近的平價日式料理，我大多點200元的價位就能吃的飽吃的美味。\n鯖魚烤的很好吃的不會柴，而且魚肉是ㄧ大塊滿足夠的。\n店家自製的嫩薑很開胃，丼飯或炒烏龍都吃的到嫩薑。\n特別喜歡加點魚肉味增湯，魚肉的鮮味豐富了味增湯。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "公司附近的平價日式料理，我大多點200元的價位就能吃的飽吃的美味。\n鯖魚烤的很好吃的不會柴，而且魚肉是ㄧ大塊滿足夠的。\n店家自製的嫩薑很開胃，丼飯或炒烏龍都吃的到嫩薑。\n特別喜歡加點魚肉味增湯，魚肉的鮮味豐富了味增湯。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chungyu Kao",
+        "uri": "https://www.google.com/maps/contrib/104819579872491104100/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXSeKjHBy_-GWklUEH1A764oklah94ej85-CaQY5azarigA4AU3=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-09-06T13:52:07.999729470Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxQ1MxWmlVSGRFTUZZd2JsUXdjV00zVDFBemRrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxQ1MxWmlVSGRFTUZZd2JsUXdjV00zVDFBemRrRRAB!2m1!1s0x3442ad92b3c41c29:0x500070d433bd5982"
+    },
+    {
+      "name": "places/ChIJKRzEs5KtQjQRglm9M9RwAFA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGaFIwRjRTR3RTY1VkQlMwUnZOVTFETVZKRFVVRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "好吃的小店\n座位舒適寬敞\n豆皮壽司非常之好吃\n手捲也推推\n店家親切\n冷氣很涼\n還有附冰麥茶\n\n今晚第二次來用餐\n點了\n炒烏龍麵\n牛肉丼飯\n炒水蓮 （不在菜單上）\n烤鯖魚\n吻仔魚煎蛋\n豆皮壽司\n肉鬆細卷 （不在菜單上）\n\n🚻 有洗手間 （乾淨）\n✅️ 可電子支付\n街口支付",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "好吃的小店\n座位舒適寬敞\n豆皮壽司非常之好吃\n手捲也推推\n店家親切\n冷氣很涼\n還有附冰麥茶\n\n今晚第二次來用餐\n點了\n炒烏龍麵\n牛肉丼飯\n炒水蓮 （不在菜單上）\n烤鯖魚\n吻仔魚煎蛋\n豆皮壽司\n肉鬆細卷 （不在菜單上）\n\n🚻 有洗手間 （乾淨）\n✅️ 可電子支付\n街口支付",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "日子很甜雪花冰 ت米特",
+        "uri": "https://www.google.com/maps/contrib/110203957219534779594/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWeF01iJ46-50zE3KZm386NH8KXm4AAUpW2XSixL3lJu6t_A6kxLg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-08-20T12:38:56.517438398Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGaFIwRjRTR3RTY1VkQlMwUnZOVTFETVZKRFVVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGaFIwRjRTR3RTY1VkQlMwUnZOVTFETVZKRFVVRRAB!2m1!1s0x3442ad92b3c41c29:0x500070d433bd5982"
+    },
+    {
+      "name": "places/ChIJKRzEs5KtQjQRglm9M9RwAFA/reviews/ChdDSUhNMG9nS0VJQ0FnTUNZdlByQm9BRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "份量十足，生鮭魚丼飯的鮭魚量很足，還有一大塊玉子燒！\n可能我常常點外送，覺得750元可以吃到這麼多份量的餐點，太划算了（大笑）\n\n另外有點親子丼、清炒豆苗沒有拍到照片，但味道也不錯。\n就日式家庭餐廳來說，我覺得表現不錯了～\n沒有到超級美味驚艷，但也沒有難吃到無法下嚥。\n中規中矩又份量十足，本人感到滿意👍。\n\n而且老闆還會確認我們是不是吃得完，炒豆苗前還問我們份量會不會太多。\n我覺得服務很貼心～～～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "份量十足，生鮭魚丼飯的鮭魚量很足，還有一大塊玉子燒！\n可能我常常點外送，覺得750元可以吃到這麼多份量的餐點，太划算了（大笑）\n\n另外有點親子丼、清炒豆苗沒有拍到照片，但味道也不錯。\n就日式家庭餐廳來說，我覺得表現不錯了～\n沒有到超級美味驚艷，但也沒有難吃到無法下嚥。\n中規中矩又份量十足，本人感到滿意👍。\n\n而且老闆還會確認我們是不是吃得完，炒豆苗前還問我們份量會不會太多。\n我覺得服務很貼心～～～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Zoe",
+        "uri": "https://www.google.com/maps/contrib/115314152339295051520/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXp3hEKTKwZhSO0LhdR8P0o_jQkFP-KraKCS9zacIc7VP-ngR4=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-05-02T13:10:24.470656Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNZdlByQm9BRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNZdlByQm9BRRAB!2m1!1s0x3442ad92b3c41c29:0x500070d433bd5982"
+    },
+    {
+      "name": "places/ChIJKRzEs5KtQjQRglm9M9RwAFA/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnaHJHY2V3EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "價格實在、食材新鮮、口味不錯！下班後外帶回家吃，覺得好吃又療癒。買回家與家人分享，家人也喜歡且吃的開心！值得推薦！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "價格實在、食材新鮮、口味不錯！下班後外帶回家吃，覺得好吃又療癒。買回家與家人分享，家人也喜歡且吃的開心！值得推薦！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "may chen",
+        "uri": "https://www.google.com/maps/contrib/108563147451517245687/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJeSC5v6psfrR5REvnVUCroPSrDTHArjFFaIQ17knc1yBCZGg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-02-16T14:35:45.772989Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnaHJHY2V3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnaHJHY2V3EAE!2m1!1s0x3442ad92b3c41c29:0x500070d433bd5982"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

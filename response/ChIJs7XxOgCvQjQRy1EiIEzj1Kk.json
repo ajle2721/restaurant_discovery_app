@@ -1,0 +1,130 @@
+{
+  "id": "ChIJs7XxOgCvQjQRy1EiIEzj1Kk",
+  "types": [
+    "pizza_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "112台灣臺北市北投區關渡里知行路360-1號",
+  "location": {
+    "latitude": 25.1212342,
+    "longitude": 121.4621579
+  },
+  "rating": 4.7,
+  "userRatingCount": 39,
+  "displayName": {
+    "text": "MK Pizza Bar",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJs7XxOgCvQjQRy1EiIEzj1Kk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wVFQybEVOa2xSWkRCTGJHcEdiVWhoWWpCTlNIYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "披薩不知道為何有打九折 打著完就不貴了 不過餅皮非常脆 喜歡軟皮的人可能不適合",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "披薩不知道為何有打九折 打著完就不貴了 不過餅皮非常脆 喜歡軟皮的人可能不適合",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "吉姆車",
+        "uri": "https://www.google.com/maps/contrib/109474986384391180907/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWhXTP_3mdgIaNR3UQWpKppB-oGYAs2m8eh0um5hmU_vgn5XU1QUg=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-01-26T10:07:27.887487536Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wVFQybEVOa2xSWkRCTGJHcEdiVWhoWWpCTlNIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wVFQybEVOa2xSWkRCTGJHcEdiVWhoWWpCTlNIYxAB!2m1!1s0x3442af003af1b5b3:0xa9d4e34c202251cb"
+    },
+    {
+      "name": "places/ChIJs7XxOgCvQjQRy1EiIEzj1Kk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kbGJGQXlVVkkwUjJocllrUTRaV2x0UVRKbWQyYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "薯條好吃，披薩是薄皮餅皮，邊緣脆的令人驚艷！在燈光沒有這麼明亮的二樓，吃披薩跟炸物是非常方便的選擇。服務非常親切呦！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "薯條好吃，披薩是薄皮餅皮，邊緣脆的令人驚艷！在燈光沒有這麼明亮的二樓，吃披薩跟炸物是非常方便的選擇。服務非常親切呦！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Vivian Chen",
+        "uri": "https://www.google.com/maps/contrib/103939282523613415359/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXpaXK_7345Qyv4xPnwCN4Rd8-O1YrLrM4as3G4TaJ2cSv6-YOKvQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-09-19T15:51:27.173378047Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kbGJGQXlVVkkwUjJocllrUTRaV2x0UVRKbWQyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kbGJGQXlVVkkwUjJocllrUTRaV2x0UVRKbWQyYxAB!2m1!1s0x3442af003af1b5b3:0xa9d4e34c202251cb"
+    },
+    {
+      "name": "places/ChIJs7XxOgCvQjQRy1EiIEzj1Kk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25BNVZVaEViRTR0TTJRNGMyaFFRMjQxY0VOU00zYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "20251130\n共花費：$300-\n瑪格麗特披薩薄皮酥脆、\n炸物酥香～\n#關渡棧橋碼頭\n悠閑舒適！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "20251130\n共花費：$300-\n瑪格麗特披薩薄皮酥脆、\n炸物酥香～\n#關渡棧橋碼頭\n悠閑舒適！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "LiKa Huang -",
+        "uri": "https://www.google.com/maps/contrib/111635686775036870305/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV329aHgc0ola3tR30FKt4QD1-gjvp278F_m9aSylQzn99hMZ4=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-30T07:19:51.827950513Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25BNVZVaEViRTR0TTJRNGMyaFFRMjQxY0VOU00zYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25BNVZVaEViRTR0TTJRNGMyaFFRMjQxY0VOU00zYxAB!2m1!1s0x3442af003af1b5b3:0xa9d4e34c202251cb"
+    },
+    {
+      "name": "places/ChIJs7XxOgCvQjQRy1EiIEzj1Kk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ST1VqZE5VV05MU0V4TlNVVmxRM2RqV1hCNFVVRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "味道還不錯，不過pizza很快就冷硬掉了\n炸雞翅沒特別調味，要用沾醬",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "味道還不錯，不過pizza很快就冷硬掉了\n炸雞翅沒特別調味，要用沾醬",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ailill Chen",
+        "uri": "https://www.google.com/maps/contrib/101893027182313066608/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIHOJm50Io-BIJTkbyMh_xuwrxG92BEd2u2yv5NWDX_RCEIRslJ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-13T14:08:57.791674992Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25ST1VqZE5VV05MU0V4TlNVVmxRM2RqV1hCNFVVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ST1VqZE5VV05MU0V4TlNVVmxRM2RqV1hCNFVVRRAB!2m1!1s0x3442af003af1b5b3:0xa9d4e34c202251cb"
+    },
+    {
+      "name": "places/ChIJs7XxOgCvQjQRy1EiIEzj1Kk/reviews/ChZDSUhNMG9nS0VJQ0FnSURubE9tS0dREAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "雖然開幕時沒有吃  後來跑一趟值回票價\n三盤披薩太過癮啦！ 期待下次再來\n要我挑這家店的毛病就是店長太帥\n店員平均顏值頗高  烤披薩功夫更厲害",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "雖然開幕時沒有吃  後來跑一趟值回票價\n三盤披薩太過癮啦！ 期待下次再來\n要我挑這家店的毛病就是店長太帥\n店員平均顏值頗高  烤披薩功夫更厲害",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Totti Wu",
+        "uri": "https://www.google.com/maps/contrib/106911547309012582018/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWv3kdKdmZZlVOWXb0U8OXbwzfnpOBM3ba7WtPrLb9npUE6cRmUIg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2024-10-03T12:18:55.662293Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURubE9tS0dREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURubE9tS0dREAE!2m1!1s0x3442af003af1b5b3:0xa9d4e34c202251cb"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

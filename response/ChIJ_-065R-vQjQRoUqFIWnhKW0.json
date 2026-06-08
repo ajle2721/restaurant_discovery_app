@@ -1,0 +1,135 @@
+{
+  "id": "ChIJ_-065R-vQjQRoUqFIWnhKW0",
+  "types": [
+    "cafe",
+    "brunch_restaurant",
+    "food_store",
+    "restaurant",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 922 435 895",
+  "formattedAddress": "251台灣新北市淡水區福德里自強路50-2號1樓",
+  "location": {
+    "latitude": 25.1273786,
+    "longitude": 121.46328419999998
+  },
+  "rating": 4.9,
+  "websiteUri": "https://www.facebook.com/Living-cafe69-%E9%99%B8%E7%8E%96%E7%94%9F%E6%B4%BB%E5%92%96%E5%95%A1%E9%A4%A8-%E9%97%9C%E6%B8%A1%E5%92%96%E5%95%A1%E5%BB%B3-101982125153863",
+  "userRatingCount": 126,
+  "displayName": {
+    "text": "雪花咖啡",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ_-065R-vQjQRoUqFIWnhKW0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoMVkzWjBSblUzTkdkUU5VOTVkMFpUVG5Kb1MxRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "海陸雙拼烏龍麵（豬肉+海鮮）\n滿滿的料，蝦子還幫你剝好\n\n黑糖珍珠鬆餅👍推\n雞蛋糕的口感外酥內軟\n\n靜岡抹茶紅豆抹茶雪花\n綿綿紅豆+味道很足鬆軟雪花",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "海陸雙拼烏龍麵（豬肉+海鮮）\n滿滿的料，蝦子還幫你剝好\n\n黑糖珍珠鬆餅👍推\n雞蛋糕的口感外酥內軟\n\n靜岡抹茶紅豆抹茶雪花\n綿綿紅豆+味道很足鬆軟雪花",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "奕程實業",
+        "uri": "https://www.google.com/maps/contrib/107939022198981313618/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJUqVre8tDWsEmbi5EW646wGq-GXYmapm2RLRue8xnfhKdg8vI=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-10-18T07:04:02.341116992Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoMVkzWjBSblUzTkdkUU5VOTVkMFpUVG5Kb1MxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoMVkzWjBSblUzTkdkUU5VOTVkMFpUVG5Kb1MxRRAB!2m1!1s0x3442af1fe53aedff:0x6d29e16921854aa1"
+    },
+    {
+      "name": "places/ChIJ_-065R-vQjQRoUqFIWnhKW0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ScFh6STNlalp4UmxFd1duTnFja1psYVhoRVJuYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "浦頂目前最棒的餐點，義大利麵或燉飯我推薦辣奶油雞肉，味道香濃。還有全天都有供應的早午餐舒肥雞胸餐，雞肉溫度及嫩度適中味道調得也很棒，搭配冰烤地瓜、雞蛋、生菜堅果還有好吃的烤麵包蠻有飽足感的。\n之前有吃過他們家2種口味的雪花冰，記得分別是抹茶、珍奶口味都很好吃cp值高。\n店內只有老闆娘一個人負責hold整場，真的厲害👍食物也好吃😋",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "浦頂目前最棒的餐點，義大利麵或燉飯我推薦辣奶油雞肉，味道香濃。還有全天都有供應的早午餐舒肥雞胸餐，雞肉溫度及嫩度適中味道調得也很棒，搭配冰烤地瓜、雞蛋、生菜堅果還有好吃的烤麵包蠻有飽足感的。\n之前有吃過他們家2種口味的雪花冰，記得分別是抹茶、珍奶口味都很好吃cp值高。\n店內只有老闆娘一個人負責hold整場，真的厲害👍食物也好吃😋",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chih Min Chang",
+        "uri": "https://www.google.com/maps/contrib/111506430708848568547/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUv0V9xgaErfctdIbnrX5tl7nBmXXdqPP49Jkrmpkg8RSywv-Ft=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-08-20T16:36:34.467687707Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ScFh6STNlalp4UmxFd1duTnFja1psYVhoRVJuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ScFh6STNlalp4UmxFd1duTnFja1psYVhoRVJuYxAB!2m1!1s0x3442af1fe53aedff:0x6d29e16921854aa1"
+    },
+    {
+      "name": "places/ChIJ_-065R-vQjQRoUqFIWnhKW0/reviews/ChZDSUhNMG9nS0VJQ0FnTUNvM0t5c2N3EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "二訪～\n老闆娘非常親切，餐點整體都好吃，環境也乾淨明亮。\n燉飯的口味屬於比較台式的，份量充足；鬆餅現做～非常香。早午餐的部分我用外帶的，喜歡老闆娘的承裝方式，食物分隔的很好，不會混在一起，吃起來感覺健康、乾淨。有問題都可以問老闆娘，老闆娘推薦的飲料非常合我口味，很喜歡。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "二訪～\n老闆娘非常親切，餐點整體都好吃，環境也乾淨明亮。\n燉飯的口味屬於比較台式的，份量充足；鬆餅現做～非常香。早午餐的部分我用外帶的，喜歡老闆娘的承裝方式，食物分隔的很好，不會混在一起，吃起來感覺健康、乾淨。有問題都可以問老闆娘，老闆娘推薦的飲料非常合我口味，很喜歡。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "HsinYu Hsieh",
+        "uri": "https://www.google.com/maps/contrib/117048443833304017547/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVlHsJnfTxMWO_sKNQ3AlHkvcuxtXjA8qJPnheV11eltMsnWK84qg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-04-15T10:28:59.252075Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNvM0t5c2N3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNvM0t5c2N3EAE!2m1!1s0x3442af1fe53aedff:0x6d29e16921854aa1"
+    },
+    {
+      "name": "places/ChIJ_-065R-vQjQRoUqFIWnhKW0/reviews/ChdDSUhNMG9nS0VLU0E0WVM0am9UR3dRRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "意外發現的寶藏小店！老闆娘很有氣質，而且友善小朋友。\n\n烏龍麵好好吃，我們點海陸烏龍麵幾乎連湯都喝光，食材新鮮也豐富。\n\n烘焙點心吃了可頌和手作司康，上桌前都有烤熱，都很喜歡。\n\n不算氣氛咖啡店，比較像是一間溫暖的社區小餐館，用餐空間不擁擠，肚子餓時可以很自在的吃吃喝喝，想打電腦、滑手機時也能很輕鬆做自己的事情，座位旁都有插座。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "意外發現的寶藏小店！老闆娘很有氣質，而且友善小朋友。\n\n烏龍麵好好吃，我們點海陸烏龍麵幾乎連湯都喝光，食材新鮮也豐富。\n\n烘焙點心吃了可頌和手作司康，上桌前都有烤熱，都很喜歡。\n\n不算氣氛咖啡店，比較像是一間溫暖的社區小餐館，用餐空間不擁擠，肚子餓時可以很自在的吃吃喝喝，想打電腦、滑手機時也能很輕鬆做自己的事情，座位旁都有插座。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "liliane yu.",
+        "uri": "https://www.google.com/maps/contrib/108902277396806738538/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXoMCBz0wrYnvWwTHFFWgb1kJZnuy5E8CfArQDNVkIfrfdyo4Ru=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-05-09T08:43:37.940940Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VLU0E0WVM0am9UR3dRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VLU0E0WVM0am9UR3dRRRAB!2m1!1s0x3442af1fe53aedff:0x6d29e16921854aa1"
+    },
+    {
+      "name": "places/ChIJ_-065R-vQjQRoUqFIWnhKW0/reviews/ChZDSUhNMG9nS0VJQ0FnSURYaUtleU1nEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "他不只冰\n還有義大利麵\n烏龍麵\n咖啡\n甜點\n火鍋\n座位都有插座\n可以帶寵物\n營業到晚上九點\n烏龍麵湯頭清爽好喝\n很推",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "他不只冰\n還有義大利麵\n烏龍麵\n咖啡\n甜點\n火鍋\n座位都有插座\n可以帶寵物\n營業到晚上九點\n烏龍麵湯頭清爽好喝\n很推",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Little Five",
+        "uri": "https://www.google.com/maps/contrib/105469704973243235288/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW1JludEnvHNcZGEOqGlfXjH9qDTSaVbZJR-sRxEhVkgme1Fk5mUQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2024-10-23T11:19:18.216433Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURYaUtleU1nEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURYaUtleU1nEAE!2m1!1s0x3442af1fe53aedff:0x6d29e16921854aa1"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

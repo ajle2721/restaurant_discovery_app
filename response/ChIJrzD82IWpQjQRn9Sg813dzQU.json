@@ -1,0 +1,133 @@
+{
+  "id": "ChIJrzD82IWpQjQRn9Sg813dzQU",
+  "types": [
+    "cafe",
+    "business_center",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2558 8163",
+  "formattedAddress": "103013台灣臺北市大同區建明里太原路50號2樓",
+  "location": {
+    "latitude": 25.0508535,
+    "longitude": 121.5152487
+  },
+  "rating": 4.6,
+  "websiteUri": "https://station-cafe.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1396,
+  "displayName": {
+    "text": "Block & Cafe. 町咖啡",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJrzD82IWpQjQRn9Sg813dzQU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOdGMyeEJjbFJQTlZsMk5rVXRSRFZMTFhKcWQwRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "店內有插座WiFi很適合異地辦公\n或者偷閒慵懶\n\n還有貓咪陪伴唷\n\n店中無餐點也禁用外食",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店內有插座WiFi很適合異地辦公\n或者偷閒慵懶\n\n還有貓咪陪伴唷\n\n店中無餐點也禁用外食",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "WU MIA",
+        "uri": "https://www.google.com/maps/contrib/108526612484313506406/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX5IOuqk6nRlWDYry2RYXNFT03sydjTTei9mTnAO4tSfBuh_lzX=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-06T04:42:26.653217398Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOdGMyeEJjbFJQTlZsMk5rVXRSRFZMTFhKcWQwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOdGMyeEJjbFJQTlZsMk5rVXRSRFZMTFhKcWQwRRAB!2m1!1s0x3442a985d8fc30af:0x5cddd5df3a0d49f"
+    },
+    {
+      "name": "places/ChIJrzD82IWpQjQRn9Sg813dzQU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OUVMyaG1OemxLZGxaTVIxUm5lamhsZW1rd1UyYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "2026/01/28\n現場安靜，不限時\n有插座可以充電\n現場的客人好像都在這裡辦公",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2026/01/28\n現場安靜，不限時\n有插座可以充電\n現場的客人好像都在這裡辦公",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "elva sun",
+        "uri": "https://www.google.com/maps/contrib/114759622427512210915/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX6Z_rkjfyg-8kQcVfbFrFMeoCtPqoKVZAFwAcfObyZ2ImsLE_hZg=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-01-29T04:41:15.106059100Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OUVMyaG1OemxLZGxaTVIxUm5lamhsZW1rd1UyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OUVMyaG1OemxLZGxaTVIxUm5lamhsZW1rd1UyYxAB!2m1!1s0x3442a985d8fc30af:0x5cddd5df3a0d49f"
+    },
+    {
+      "name": "places/ChIJrzD82IWpQjQRn9Sg813dzQU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSNVRGRndkbmhEV0RKTUxYZHdOMHRyZVVKTVpIYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "台北轉運站走過來，不用10分鐘\n很適合數位遊牧的咖啡廳\n有提供插座與Wi-Fi\n滿足了基本需求\n還有影印機耶～\n\n有好喝的咖啡滿足了口腹之欲\n\n還有喵星人陪你工作，非常療癒",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "台北轉運站走過來，不用10分鐘\n很適合數位遊牧的咖啡廳\n有提供插座與Wi-Fi\n滿足了基本需求\n還有影印機耶～\n\n有好喝的咖啡滿足了口腹之欲\n\n還有喵星人陪你工作，非常療癒",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hank Chang",
+        "uri": "https://www.google.com/maps/contrib/105230129611526658938/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXyqZh04wa47SHNDFokItoy7PHXJi3bXT40Zyx2n1Rydtnf3HA=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-10-07T12:55:04.230309593Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSNVRGRndkbmhEV0RKTUxYZHdOMHRyZVVKTVpIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSNVRGRndkbmhEV0RKTUxYZHdOMHRyZVVKTVpIYxAB!2m1!1s0x3442a985d8fc30af:0x5cddd5df3a0d49f"
+    },
+    {
+      "name": "places/ChIJrzD82IWpQjQRn9Sg813dzQU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xjeldsaFpjMGwyVFVWRVdWTmlTWEJWTUV0M04zYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "剛好路過來工作，店內氣氛安靜，點了一杯咖啡可以很專心的在這裡完成工作進度，店裡有一隻好可愛的貓咪，但未販售餐點要吃飽再來😆基本上座位附近都有插座可以充電！推薦想工作的人來",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "剛好路過來工作，店內氣氛安靜，點了一杯咖啡可以很專心的在這裡完成工作進度，店裡有一隻好可愛的貓咪，但未販售餐點要吃飽再來😆基本上座位附近都有插座可以充電！推薦想工作的人來",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Rita Yang",
+        "uri": "https://www.google.com/maps/contrib/107127610191791703883/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUNFZy7TplJdE_T9sYULsxkABtbLtKrwgJ723NFWI2vSrsN9KKz=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-09-15T10:44:19.555329263Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xjeldsaFpjMGwyVFVWRVdWTmlTWEJWTUV0M04zYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xjeldsaFpjMGwyVFVWRVdWTmlTWEJWTUV0M04zYxAB!2m1!1s0x3442a985d8fc30af:0x5cddd5df3a0d49f"
+    },
+    {
+      "name": "places/ChIJrzD82IWpQjQRn9Sg813dzQU/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xSk0wWmFWbVp2V1VjMWVIaHllR3RYTm1WSVZFRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "當天去的時候很安靜\n很適合使用電腦或讀書\n貓咪超可愛 整個睡翻\n可可牛奶蠻好喝的～\n樓梯要從巷子那邊進去",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "當天去的時候很安靜\n很適合使用電腦或讀書\n貓咪超可愛 整個睡翻\n可可牛奶蠻好喝的～\n樓梯要從巷子那邊進去",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "YO",
+        "uri": "https://www.google.com/maps/contrib/115990700211025228970/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJGwTowOTVkglGoYnm2ff4SXh9Y5UdNqY-x4aOCbKlRbnsaZw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-21T00:44:03.497725197Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xSk0wWmFWbVp2V1VjMWVIaHllR3RYTm1WSVZFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xSk0wWmFWbVp2V1VjMWVIaHllR3RYTm1WSVZFRRAB!2m1!1s0x3442a985d8fc30af:0x5cddd5df3a0d49f"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

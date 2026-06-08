@@ -1,0 +1,53 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "內用空間比較小 位置數量不多大概14~16個位置而已",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "官方標記：不提供兒童餐",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "No",
+        "evidence": "官方標記：不適合兒童",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "座位很少，真的要來建議先加line預定",
+        "官方標記：不適合兒童",
+        "內用空間比較小 位置數量不多大概14~16個位置而已",
+        "官方標記：不提供兒童餐"
+    ],
+    "generated_summary": "LOMA露芒 Kitchen 空間較為狹小，座位數有限，且根據 Google Maps 官方標記，該店並不適合兒童且未提供兒童餐，建議家長評估後再前往。",
+    "card_summary": ""
+}

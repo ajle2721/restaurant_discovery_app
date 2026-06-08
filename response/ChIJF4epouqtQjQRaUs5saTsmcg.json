@@ -1,0 +1,131 @@
+{
+  "id": "ChIJF4epouqtQjQRaUs5saTsmcg",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2630 5253",
+  "formattedAddress": "114台灣臺北市內湖區五分里五分街29號",
+  "location": {
+    "latitude": 25.067659199999998,
+    "longitude": 121.6132569
+  },
+  "rating": 4.3,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 112,
+  "displayName": {
+    "text": "台北。初早餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJF4epouqtQjQRaUs5saTsmcg/reviews/ChZDSUhNMG9nS0VJQ0FnSUN6dE1maERREAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "薯餅+蘑菇麵+蛋+豆漿=100\n朋友吃黑胡椒烏龍麵+蛋+黑咖啡=95\n外帶嫩雞排蛋餅+紅茶=80\nCP高又好吃，人多要排隊但速度很快！\n缺點有時桌子來不及收，可以提醒他們。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "薯餅+蘑菇麵+蛋+豆漿=100\n朋友吃黑胡椒烏龍麵+蛋+黑咖啡=95\n外帶嫩雞排蛋餅+紅茶=80\nCP高又好吃，人多要排隊但速度很快！\n缺點有時桌子來不及收，可以提醒他們。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Novtina Lee",
+        "uri": "https://www.google.com/maps/contrib/114967528466395124451/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXgFaTPb6D13TglWNoheRvoI4syuSEOH1RBVTN9iG9AHwCbNLarng=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2024-05-31T08:26:47.904684Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN6dE1maERREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN6dE1maERREAE!2m1!1s0x3442adeaa2a98717:0xc899eca4b1394b69"
+    },
+    {
+      "name": "places/ChIJF4epouqtQjQRaUs5saTsmcg/reviews/ChdDSUhNMG9nS0VJQ0FnSURObmQtNTF3RRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 4,
+      "text": {
+        "text": "闆與闆娘服務都很親切\n\n食物好吃，不會過多綴飾，也會在在點餐時先問客人調料喜好。喜歡這種注重細節的店家。\n\n廚房是採開放式的，因此會有油煙味，內用時常會有需要併桌的時候。\n\n店內座位也不會因為要塞更多客人，而擺放過多的桌椅，空間因此雖然寬敞也不太擁擠。\n\n乾淨且衛生，價格親民，雖然隨物價上漲，東西還是會縮水，但是會一來再來的好店家！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "闆與闆娘服務都很親切\n\n食物好吃，不會過多綴飾，也會在在點餐時先問客人調料喜好。喜歡這種注重細節的店家。\n\n廚房是採開放式的，因此會有油煙味，內用時常會有需要併桌的時候。\n\n店內座位也不會因為要塞更多客人，而擺放過多的桌椅，空間因此雖然寬敞也不太擁擠。\n\n乾淨且衛生，價格親民，雖然隨物價上漲，東西還是會縮水，但是會一來再來的好店家！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lily (Lee)",
+        "uri": "https://www.google.com/maps/contrib/103814652707567653915/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXwqg7fAOjNPz7Wj9ZwQ6fyTzkDvtwN3ugJ1wXnBo47gy1cKQo7oA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2024-01-25T05:08:56.859006Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURObmQtNTF3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURObmQtNTF3RRAB!2m1!1s0x3442adeaa2a98717:0xc899eca4b1394b69"
+    },
+    {
+      "name": "places/ChIJF4epouqtQjQRaUs5saTsmcg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNaNzZUckJ3EAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 3,
+      "text": {
+        "text": "6點一到就一堆學生湧入瞬間席滿，內用建議在這之前到。\n\n鍋燒意麵口味過於清淡，裡頭有豬排、蛋跟香菇貢丸還不錯；蔬菜蛋餅就有點弱，醬料不搭然後只有苜蓿芽吃起來感受到菜的腥臭味；蘿蔔糕普普通通。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "6點一到就一堆學生湧入瞬間席滿，內用建議在這之前到。\n\n鍋燒意麵口味過於清淡，裡頭有豬排、蛋跟香菇貢丸還不錯；蔬菜蛋餅就有點弱，醬料不搭然後只有苜蓿芽吃起來感受到菜的腥臭味；蘿蔔糕普普通通。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "tone hector",
+        "uri": "https://www.google.com/maps/contrib/114443572853817007313/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXhK1CbnO7i-ZeoXGl5Nh8Pz-SxMk2TFY688bp8AB4vBi-FL61h9w=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2023-09-20T23:16:18.621788Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNaNzZUckJ3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNaNzZUckJ3EAE!2m1!1s0x3442adeaa2a98717:0xc899eca4b1394b69"
+    },
+    {
+      "name": "places/ChIJF4epouqtQjQRaUs5saTsmcg/reviews/ChdDSUhNMG9nS0VJQ0FnSUN4aHJ1LXB3RRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "蠻好吃的👍🏻 價格還可！每周會有不同的活動，指定品項搭配飲品有折價，奶茶不錯喝，可惜生菜的品質好像不太好，且量偏少一些。\n\n📍里肌豬排蛋吐司 $55\n📍大溫奶 $30",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "蠻好吃的👍🏻 價格還可！每周會有不同的活動，指定品項搭配飲品有折價，奶茶不錯喝，可惜生菜的品質好像不太好，且量偏少一些。\n\n📍里肌豬排蛋吐司 $55\n📍大溫奶 $30",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Tracy",
+        "uri": "https://www.google.com/maps/contrib/110452211329687281566/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXc2mxuUlMaMsCnCGtXbwJo-raMmH_-IunDtxo7DrHLGyBiAGtkbQ=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-11-13T07:42:35.576926058Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN4aHJ1LXB3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN4aHJ1LXB3RRAB!2m1!1s0x3442adeaa2a98717:0xc899eca4b1394b69"
+    },
+    {
+      "name": "places/ChIJF4epouqtQjQRaUs5saTsmcg/reviews/ChdDSUhNMG9nS0VJQ0FnSUN1bmRIaXdRRRAB",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 4,
+      "text": {
+        "text": "2022.08.04 早餐\n\n店面乾淨明亮，冷氣很涼，店員阿姨們很親切，收拾餐桌速度很勤快。\n\n蛋餅、漢堡和薯餅都OK，薯餅的油瀝得很乾淨，不會盤底積油，既不健康又影響口感。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2022.08.04 早餐\n\n店面乾淨明亮，冷氣很涼，店員阿姨們很親切，收拾餐桌速度很勤快。\n\n蛋餅、漢堡和薯餅都OK，薯餅的油瀝得很乾淨，不會盤底積油，既不健康又影響口感。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "溫在銘",
+        "uri": "https://www.google.com/maps/contrib/115481622274315605752/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXfPSMDq9YswmiYP7ovtplhnaM60y7_WJlcOngOLw9Q-42yDmk=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2022-08-04T00:48:21.430935Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN1bmRIaXdRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN1bmRIaXdRRRAB!2m1!1s0x3442adeaa2a98717:0xc899eca4b1394b69"
+    }
+  ],
+  "goodForChildren": true
+}

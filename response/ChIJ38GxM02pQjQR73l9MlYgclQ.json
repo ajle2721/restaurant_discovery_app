@@ -1,0 +1,131 @@
+{
+  "id": "ChIJ38GxM02pQjQR73l9MlYgclQ",
+  "types": [
+    "italian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 989 519 818",
+  "formattedAddress": "100台灣臺北市中正區羅斯福路四段92號1號樓80號攤位",
+  "location": {
+    "latitude": 25.0136516,
+    "longitude": 121.5348605
+  },
+  "rating": 4.6,
+  "websiteUri": "https://www.facebook.com/%E7%BE%85%E7%B4%A0%E7%BE%A9%E5%BC%8F%E7%B0%A1%E9%A4%90-109965000792914/",
+  "userRatingCount": 104,
+  "displayName": {
+    "text": "羅素義式簡餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ38GxM02pQjQR73l9MlYgclQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5WVZqRkhSbVJMVlZORllXUnRhbEpHZHpaYVVWRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點雖然平易近人，但手工麵條Q彈好吃，手工麵包也好吃，意麵餐點還有很多蔬菜也太親民了吧！好健康的店家~😋超棒",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點雖然平易近人，但手工麵條Q彈好吃，手工麵包也好吃，意麵餐點還有很多蔬菜也太親民了吧！好健康的店家~😋超棒",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Irene Chen",
+        "uri": "https://www.google.com/maps/contrib/105432010896824863597/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIGzsu23yRhOvTq2g0egLIHT-wSNr2TENwoX9Ul-COV6Dlkwg=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-08-24T10:51:40.908522007Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5WVZqRkhSbVJMVlZORllXUnRhbEpHZHpaYVVWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5WVZqRkhSbVJMVlZORllXUnRhbEpHZHpaYVVWRRAB!2m1!1s0x3442a94d33b1c1df:0x54722056327d79ef"
+    },
+    {
+      "name": "places/ChIJ38GxM02pQjQR73l9MlYgclQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNuNDdxM2xRRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "今天吃番茄肉醬野菇燉飯，份量足夠\n口味也不會過於濃烈，吃完非常滿足\n尤其是起司絲超級多，趁熱拌進去幾乎每一口都會牽絲\n番茄蔬菜湯很清淡，湯料豐富，有馬鈴薯、菇類番茄蔬菜等\n今天太想吃白飯了所以點燉飯，下次想要嘗試看看自己做的義大利麵！\n好難得看到寬麵！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天吃番茄肉醬野菇燉飯，份量足夠\n口味也不會過於濃烈，吃完非常滿足\n尤其是起司絲超級多，趁熱拌進去幾乎每一口都會牽絲\n番茄蔬菜湯很清淡，湯料豐富，有馬鈴薯、菇類番茄蔬菜等\n今天太想吃白飯了所以點燉飯，下次想要嘗試看看自己做的義大利麵！\n好難得看到寬麵！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "盧歆倍",
+        "uri": "https://www.google.com/maps/contrib/100407631553345881001/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXgSBfRhY8SDWvh6BLD4bMzGC7RuUrDrEzWF9H_JS7kqKGCSec=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2024-09-29T11:12:00.952915Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNuNDdxM2xRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNuNDdxM2xRRRAB!2m1!1s0x3442a94d33b1c1df:0x54722056327d79ef"
+    },
+    {
+      "name": "places/ChIJ38GxM02pQjQR73l9MlYgclQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxZk4xZzNSMDFUWDFkSVYySk9aREpKTkhkR1VWRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "經由師父介紹才知道這間隱藏在水源市場的好店，真的是相見恨晚，推薦一定要加點窯烤麵包！！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "經由師父介紹才知道這間隱藏在水源市場的好店，真的是相見恨晚，推薦一定要加點窯烤麵包！！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lo Ricky",
+        "uri": "https://www.google.com/maps/contrib/115682064779108258590/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWgh6s0WZvi9J0ygCdL01Idu10Be67wxpg95xFnXAulI2G_w4K_=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-09-12T09:44:15.295055202Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxZk4xZzNSMDFUWDFkSVYySk9aREpKTkhkR1VWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxZk4xZzNSMDFUWDFkSVYySk9aREpKTkhkR1VWRRAB!2m1!1s0x3442a94d33b1c1df:0x54722056327d79ef"
+    },
+    {
+      "name": "places/ChIJ38GxM02pQjQR73l9MlYgclQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xRFFXcEJXVmhtVUMxSGVrUjJjV0Z2TVUxdWRuYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "一直搜尋公館附近「健康」義大利麵！\n有種家常味道，用料很不錯，橄欖油很香，菜也很新鮮，有台式的味道（我喜歡😊）\n在台北這個份量、這個價位已經很不錯了！\n店家只有老闆娘一個人在做，尖峰時段較多人，可能要等一下，辛苦老闆娘了！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一直搜尋公館附近「健康」義大利麵！\n有種家常味道，用料很不錯，橄欖油很香，菜也很新鮮，有台式的味道（我喜歡😊）\n在台北這個份量、這個價位已經很不錯了！\n店家只有老闆娘一個人在做，尖峰時段較多人，可能要等一下，辛苦老闆娘了！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chia-Ping Fan",
+        "uri": "https://www.google.com/maps/contrib/112569413678358460687/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXFIDI4z1ysrdTAKdEPjzO58AkNskxgAnnHzUvXILusgn_vRbHnjQ=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-08-23T11:09:33.368079686Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xRFFXcEJXVmhtVUMxSGVrUjJjV0Z2TVUxdWRuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xRFFXcEJXVmhtVUMxSGVrUjJjV0Z2TVUxdWRuYxAB!2m1!1s0x3442a94d33b1c1df:0x54722056327d79ef"
+    },
+    {
+      "name": "places/ChIJ38GxM02pQjQR73l9MlYgclQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT21zNFJqQjZVMGszVEhORlJHNUhRM04yVHpsVFNHYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "很喜歡的義大利麵店。健康的調味與自製麵，是家常好吃的味道，完全沒有負擔，可以天天吃！最喜歡青醬，很香醇但不膩，是外面少有的味道。推薦給喜歡健康飲食的饕客～～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很喜歡的義大利麵店。健康的調味與自製麵，是家常好吃的味道，完全沒有負擔，可以天天吃！最喜歡青醬，很香醇但不膩，是外面少有的味道。推薦給喜歡健康飲食的饕客～～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ho LI'm n",
+        "uri": "https://www.google.com/maps/contrib/104113411194418698287/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ0skRCHI8_crVRiPDnhNh4OEn4GeZzmoQblOzwrJJgFNicpA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-19T15:48:01.176039084Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21zNFJqQjZVMGszVEhORlJHNUhRM04yVHpsVFNHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21zNFJqQjZVMGszVEhORlJHNUhRM04yVHpsVFNHYxAB!2m1!1s0x3442a94d33b1c1df:0x54722056327d79ef"
+    }
+  ],
+  "goodForChildren": true
+}

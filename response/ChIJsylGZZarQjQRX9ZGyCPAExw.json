@@ -1,0 +1,138 @@
+{
+  "id": "ChIJsylGZZarQjQRX9ZGyCPAExw",
+  "types": [
+    "pizza_delivery",
+    "meal_delivery",
+    "food_delivery",
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2769 8146",
+  "formattedAddress": "10573台灣臺北市松山區三民里民生東路五段138巷5號",
+  "location": {
+    "latitude": 25.0583785,
+    "longitude": 121.56174730000001
+  },
+  "rating": 4.2,
+  "websiteUri": "https://www.pizzahut.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 584,
+  "displayName": {
+    "text": "PIZZA HUT必勝客-民生外送店",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJsylGZZarQjQRX9ZGyCPAExw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1VldrVmFjblp4T1d4clFuRkJRMTg0U2xJMGFGRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "App點餐速度快，可惜餐點份量偏小。價格碰上1111推出個人套餐111優惠，還可以。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "App點餐速度快，可惜餐點份量偏小。價格碰上1111推出個人套餐111優惠，還可以。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "哈比乙等",
+        "uri": "https://www.google.com/maps/contrib/109314876257069072711/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKiOwC6KZc8xNg6mu9aoYblrARPnxpuzlTJkg_MoWc-7sV91Q=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-14T08:00:31.197282965Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1VldrVmFjblp4T1d4clFuRkJRMTg0U2xJMGFGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1VldrVmFjblp4T1d4clFuRkJRMTg0U2xJMGFGRRAB!2m1!1s0x3442ab96654629b3:0x1c13c023c846d65f"
+    },
+    {
+      "name": "places/ChIJsylGZZarQjQRX9ZGyCPAExw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOcmJqaGxYemxYTVUxRlJrbDZOVkJFWmtrd1dXYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 1,
+      "text": {
+        "text": "店員點餐態度惡劣，說明點完餐一個小時後取餐，等我前往取餐，店員說沒做餐，然後貌似店長的人直接退錢給我，連句抱歉都沒有，那個點餐是位外送員還跟我大聲吼，服務態度十分惡劣。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店員點餐態度惡劣，說明點完餐一個小時後取餐，等我前往取餐，店員說沒做餐，然後貌似店長的人直接退錢給我，連句抱歉都沒有，那個點餐是位外送員還跟我大聲吼，服務態度十分惡劣。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Eric Chuang",
+        "uri": "https://www.google.com/maps/contrib/117509286330815810908/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWKFqzbepXkmmDqsq5QHHNAa_Xk-Eo1Xge3hcuhLwnq64NGhCMK=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-18T10:18:13.452956915Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOcmJqaGxYemxYTVUxRlJrbDZOVkJFWmtrd1dXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOcmJqaGxYemxYTVUxRlJrbDZOVkJFWmtrd1dXYxAB!2m1!1s0x3442ab96654629b3:0x1c13c023c846d65f"
+    },
+    {
+      "name": "places/ChIJsylGZZarQjQRX9ZGyCPAExw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pnNU1HcG9hWGxZUmxwaFpXa3lNM0IzT1hCTk5WRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "很少叫這個分店的pizza\n但這家pizza烤的很漂亮欸",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很少叫這個分店的pizza\n但這家pizza烤的很漂亮欸",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "虤虤虤",
+        "uri": "https://www.google.com/maps/contrib/100581712833137702158/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWNyhMbH9NvjtM-c4WY6pteHg2g12GZOjQ9uzeesAq23JRBWRiE4A=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-31T07:16:31.651419241Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pnNU1HcG9hWGxZUmxwaFpXa3lNM0IzT1hCTk5WRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pnNU1HcG9hWGxZUmxwaFpXa3lNM0IzT1hCTk5WRRAB!2m1!1s0x3442ab96654629b3:0x1c13c023c846d65f"
+    },
+    {
+      "name": "places/ChIJsylGZZarQjQRX9ZGyCPAExw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNSMUwtQWlRRRAB",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 5,
+      "text": {
+        "text": "已經來這邊買披薩超過手指頭可數的次數了🤌🏾🤌🏾\n非常準時的店家，餐點也從來沒有遺漏過，送到時都是熱騰騰的🍕🍗🥤\n這次買的是期間限定「奢華加貝烏金鮑魚披薩」「財圓滾滾金干蝦披薩」和我最喜歡的「黃金和風雞」都非常好吃！😚😚",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "已經來這邊買披薩超過手指頭可數的次數了🤌🏾🤌🏾\n非常準時的店家，餐點也從來沒有遺漏過，送到時都是熱騰騰的🍕🍗🥤\n這次買的是期間限定「奢華加貝烏金鮑魚披薩」「財圓滾滾金干蝦披薩」和我最喜歡的「黃金和風雞」都非常好吃！😚😚",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "JASMINE YU",
+        "uri": "https://www.google.com/maps/contrib/101728280078247755711/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGmpimYp0x2X6jz_wtE9YtZkgMwgq9b6rNpI5oxif31s4ezw_3bQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2023-03-26T09:11:18.968785Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNSMUwtQWlRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNSMUwtQWlRRRAB!2m1!1s0x3442ab96654629b3:0x1c13c023c846d65f"
+    },
+    {
+      "name": "places/ChIJsylGZZarQjQRX9ZGyCPAExw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKcVRYaFJUVFYyY1hWZldYQkpPSEJrZG5OaVpYYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "為了跨年辛苦店員們了！希望在外場的女店員不要太生氣🙏🏻🙏🏻大家都在等待，不代表可以罵髒話，請不要因為那個兇巴巴阿婆讓自己太生氣或難過，整間店的店員們都辛苦了！披薩很好吃，而且電話預訂時應對也很有禮貌，食物的製作難以預估，但是整體的服務態度很好，對於客人的詢問都一直好聲好氣，以跨年如此多的訂單還可以努力保持冷靜，實在是很厲害！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "為了跨年辛苦店員們了！希望在外場的女店員不要太生氣🙏🏻🙏🏻大家都在等待，不代表可以罵髒話，請不要因為那個兇巴巴阿婆讓自己太生氣或難過，整間店的店員們都辛苦了！披薩很好吃，而且電話預訂時應對也很有禮貌，食物的製作難以預估，但是整體的服務態度很好，對於客人的詢問都一直好聲好氣，以跨年如此多的訂單還可以努力保持冷靜，實在是很厲害！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "チョウKai",
+        "uri": "https://www.google.com/maps/contrib/101018890586109457579/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV3UY25XzRPw9OKGhyPQ_JME8X9uKGg3_PResvkT6WzouGzF-8Sbw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-31T12:32:12.655296780Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKcVRYaFJUVFYyY1hWZldYQkpPSEJrZG5OaVpYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKcVRYaFJUVFYyY1hWZldYQkpPSEJrZG5OaVpYYxAB!2m1!1s0x3442ab96654629b3:0x1c13c023c846d65f"
+    }
+  ]
+}

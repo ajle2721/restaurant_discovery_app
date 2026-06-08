@@ -1,0 +1,134 @@
+{
+  "id": "ChIJQ-XN0YyvQjQRMdAUlIogZts",
+  "types": [
+    "coffee_shop",
+    "cafe",
+    "food_store",
+    "restaurant",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 900 752 410",
+  "formattedAddress": "112台灣臺北市北投區立農里西安街二段259巷6號",
+  "location": {
+    "latitude": 25.119816999999998,
+    "longitude": 121.5071227
+  },
+  "rating": 4.8,
+  "websiteUri": "https://www.facebook.com/profile.php?id=61551297422396&mibextid=LQQJ4d",
+  "userRatingCount": 232,
+  "displayName": {
+    "text": "休息咖啡館chill cafe 週三公休",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJQ-XN0YyvQjQRMdAUlIogZts/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wbGNVcGxVMDlxZEVOblJ6bDZSRGhYZWxSeFQxRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "第一次看到會附氣泡水的西西里咖啡，剛喝的時候挺清爽，不過喝到後面會覺得像在喝氣泡水\n內用座位不多，建議可以先預約（看到蠻多人有先預約），氛圍不錯，聊天或做事都蠻適合。\n可以line pay",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次看到會附氣泡水的西西里咖啡，剛喝的時候挺清爽，不過喝到後面會覺得像在喝氣泡水\n內用座位不多，建議可以先預約（看到蠻多人有先預約），氛圍不錯，聊天或做事都蠻適合。\n可以line pay",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ying Ying",
+        "uri": "https://www.google.com/maps/contrib/114205096143557654152/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXcfRV5-MKkEcca0o07lbRCzPkbpMDVcx0lu0uT2jAH3-BxLzI0=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-11T06:34:23.982603118Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wbGNVcGxVMDlxZEVOblJ6bDZSRGhYZWxSeFQxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wbGNVcGxVMDlxZEVOblJ6bDZSRGhYZWxSeFQxRRAB!2m1!1s0x3442af8cd1cde543:0xdb66208a9414d031"
+    },
+    {
+      "name": "places/ChIJQ-XN0YyvQjQRMdAUlIogZts/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GM2VEZFdTMmw2V1U1bFVHZzBhbmxwYmxGdFdHYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "點了一杯冰拿鐵加布丁，拿鐵幾乎是沒有什麼咖啡味道，可能喝過附近的幾家獨立咖啡館咖啡的味道都是挺重的，很少喝到拿鐵中的咖啡味這麼淡，布丁也是中規中矩的沒有特別的記憶點，整體空間是蠻寬敞也舒適，大部分的人都是帶一台筆電工作，少有人在交談聊天。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點了一杯冰拿鐵加布丁，拿鐵幾乎是沒有什麼咖啡味道，可能喝過附近的幾家獨立咖啡館咖啡的味道都是挺重的，很少喝到拿鐵中的咖啡味這麼淡，布丁也是中規中矩的沒有特別的記憶點，整體空間是蠻寬敞也舒適，大部分的人都是帶一台筆電工作，少有人在交談聊天。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Vision",
+        "uri": "https://www.google.com/maps/contrib/101979524416493083139/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLHEJzwA783XVuCwpnl_riaaT0VU1fRjm6A0mnpBjS4Sd5TMw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-11-18T14:20:32.636859152Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GM2VEZFdTMmw2V1U1bFVHZzBhbmxwYmxGdFdHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GM2VEZFdTMmw2V1U1bFVHZzBhbmxwYmxGdFdHYxAB!2m1!1s0x3442af8cd1cde543:0xdb66208a9414d031"
+    },
+    {
+      "name": "places/ChIJQ-XN0YyvQjQRMdAUlIogZts/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGaVlXSjRlbWxxZFhoaE4wMTVOV1pUUm5CNWMyYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "近捷運站，隱身在小巷子內，店內環境寬敞舒適，靠牆壁的位置有插座使用。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "近捷運站，隱身在小巷子內，店內環境寬敞舒適，靠牆壁的位置有插座使用。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jeremy Li",
+        "uri": "https://www.google.com/maps/contrib/106357675119408184998/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7uHL-nXArGvSvbYG_12Q8eeoeGXuKLWpydIQ60cE42C2dQNI=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-20T16:39:52.516189579Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGaVlXSjRlbWxxZFhoaE4wMTVOV1pUUm5CNWMyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGaVlXSjRlbWxxZFhoaE4wMTVOV1pUUm5CNWMyYxAB!2m1!1s0x3442af8cd1cde543:0xdb66208a9414d031"
+    },
+    {
+      "name": "places/ChIJQ-XN0YyvQjQRMdAUlIogZts/reviews/ChdDSUhNMG9nS0VJQ0FnTURJdTR1eDhBRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "適合休息、放鬆的好地方，有室內也有戶外座位\n咖啡廳餐廳環境乾淨、還有插頭🔌充電\n當天因為要去運動沒有喝咖啡，點了杯玄米茶，老闆人很好茶還能回沖\n\n餐點價位中等，點了一份鮪魚番茄焗烤佛卡夏，焗烤跟番茄搭配味道不油膩，加上佛卡夏的香料香，剛剛好😋\n\n店門外還有一隻招財的可愛小烏龜🐢",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "適合休息、放鬆的好地方，有室內也有戶外座位\n咖啡廳餐廳環境乾淨、還有插頭🔌充電\n當天因為要去運動沒有喝咖啡，點了杯玄米茶，老闆人很好茶還能回沖\n\n餐點價位中等，點了一份鮪魚番茄焗烤佛卡夏，焗烤跟番茄搭配味道不油膩，加上佛卡夏的香料香，剛剛好😋\n\n店門外還有一隻招財的可愛小烏龜🐢",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "ABBY CHEN",
+        "uri": "https://www.google.com/maps/contrib/115255486654373268199/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWEgxjKihTM7ycSnJFCZquA3OYni7DJ7Scr9UEnmD3ducr7fnUY=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-04-13T09:28:10.588089Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJdTR1eDhBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJdTR1eDhBRRAB!2m1!1s0x3442af8cd1cde543:0xdb66208a9414d031"
+    },
+    {
+      "name": "places/ChIJQ-XN0YyvQjQRMdAUlIogZts/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OWGFHaG9YME5SU0V0NVkwUnRaREF3WlRodmIzYxAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 5,
+      "text": {
+        "text": "隱身在唭哩岸捷運站旁住宅區的幽靜咖啡廳\n店內座位約有20-25個，氣氛很好，環境整潔，是個極適合讀書、工作的咖啡廳，輕聲聊天沒問題，去的人看起來多數是學生\n老闆是個年輕人，態度很親切\n點了提拉米蘇（$85），蠻好吃，不算太甜，份量也算不小\n到訪時是下午約一點半，到了兩點多就開始客滿",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "隱身在唭哩岸捷運站旁住宅區的幽靜咖啡廳\n店內座位約有20-25個，氣氛很好，環境整潔，是個極適合讀書、工作的咖啡廳，輕聲聊天沒問題，去的人看起來多數是學生\n老闆是個年輕人，態度很親切\n點了提拉米蘇（$85），蠻好吃，不算太甜，份量也算不小\n到訪時是下午約一點半，到了兩點多就開始客滿",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "王維徵",
+        "uri": "https://www.google.com/maps/contrib/115595144370363890289/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUiDutJYOrukaV14eZGqr1NTkbcOkYM1GvI1_5z7uZ_UFJ2Lmo=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-07-31T12:51:55.764317896Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OWGFHaG9YME5SU0V0NVkwUnRaREF3WlRodmIzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OWGFHaG9YME5SU0V0NVkwUnRaREF3WlRodmIzYxAB!2m1!1s0x3442af8cd1cde543:0xdb66208a9414d031"
+    }
+  ],
+  "menuForChildren": false
+}

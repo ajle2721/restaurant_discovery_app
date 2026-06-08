@@ -1,0 +1,133 @@
+{
+  "id": "ChIJMVd-506uQjQRBZpD43rAToo",
+  "types": [
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2895 0610",
+  "formattedAddress": "112台灣臺北市北投區中庸里大同街349號",
+  "location": {
+    "latitude": 25.141093599999998,
+    "longitude": 121.49934669999999
+  },
+  "rating": 4.4,
+  "websiteUri": "https://www.facebook.com/%E5%A5%BD%E8%81%9A%E6%9C%83%E6%97%A5%E5%BC%8F%E6%96%99%E7%90%86-411030902292928/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 480,
+  "displayName": {
+    "text": "好聚會日式料理",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJMVd-506uQjQRBZpD43rAToo/reviews/Ci9DQUlRQUNvZENodHljRjlvT25samFGQnFVMlpzTW1KV05FUkNWa0Y2TmpkemExRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "後悔這麼晚才發現這間好店！\n定時副餐很豐富，每樣小菜都不馬乎，主菜更不用說，好吃份量又多，吃完會很飽，CP值高\n味噌湯可以自己裝，料也是很多\n調味偏清淡，很符合我們家的口味，吃起來無負擔\n一定會回訪",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "後悔這麼晚才發現這間好店！\n定時副餐很豐富，每樣小菜都不馬乎，主菜更不用說，好吃份量又多，吃完會很飽，CP值高\n味噌湯可以自己裝，料也是很多\n調味偏清淡，很符合我們家的口味，吃起來無負擔\n一定會回訪",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Basia Cheng",
+        "uri": "https://www.google.com/maps/contrib/104742694699007366066/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3jJ6YOaWgi4P4DuLCF5AIz0BYzoTRTVzOBIJJhUeqA5gOSOSs=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-03-05T11:21:09.498494413Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25samFGQnFVMlpzTW1KV05FUkNWa0Y2TmpkemExRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25samFGQnFVMlpzTW1KV05FUkNWa0Y2TmpkemExRRAB!2m1!1s0x3442ae4ee77e5731:0x8a4ec07ae3439a05"
+    },
+    {
+      "name": "places/ChIJMVd-506uQjQRBZpD43rAToo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCYWFrTlNUMUJSU2s5dFpFVnNObFZuUzFOS1dsRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "老闆娘人超好 很貼心 內用位置不多 建議可先訂位 餐會慢上一點 味增湯、麥茶喝到飽",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "老闆娘人超好 很貼心 內用位置不多 建議可先訂位 餐會慢上一點 味增湯、麥茶喝到飽",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "芯",
+        "uri": "https://www.google.com/maps/contrib/113023200709671471321/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI7Cy6Jl0aQ9HCE1VmZHO_HNUuIULOKKJ_WD3tSD_dLdWPwDVGk=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-03-07T15:45:51.420651033Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCYWFrTlNUMUJSU2s5dFpFVnNObFZuUzFOS1dsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCYWFrTlNUMUJSU2s5dFpFVnNObFZuUzFOS1dsRRAB!2m1!1s0x3442ae4ee77e5731:0x8a4ec07ae3439a05"
+    },
+    {
+      "name": "places/ChIJMVd-506uQjQRBZpD43rAToo/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OeE5WUnFPRkJtTUZjMk5rTlNXRXROTFhCQloxRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "食物的品質真的沒話說，是我在北部吃過最平價又高品質的日式料理，魚片新鮮無比，Q彈又香醇\n炸物也是酥脆又大碗，唐揚雞要兩口才吃得下一塊\n內用的味噌湯自取也料多，味道好得不得了，完全沒有因為是內用免費的就馬虎\n我在北投住了6年，現在在外縣市上大學，是唯一一間會指定回家要吃的日式料理\n\n老闆娘親切又友善，心思細膩，講話也很有趣活潑，感受得到熱情，真的很體貼😭😭\n\n老闆娘家的小朋友，兩位都很乖又很可愛，完全不吵鬧，也可以從老闆娘跟小朋友的互動感受到愛和老闆娘良好的教育方針（感覺好像在竊聽😭但不是那個意思）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "食物的品質真的沒話說，是我在北部吃過最平價又高品質的日式料理，魚片新鮮無比，Q彈又香醇\n炸物也是酥脆又大碗，唐揚雞要兩口才吃得下一塊\n內用的味噌湯自取也料多，味道好得不得了，完全沒有因為是內用免費的就馬虎\n我在北投住了6年，現在在外縣市上大學，是唯一一間會指定回家要吃的日式料理\n\n老闆娘親切又友善，心思細膩，講話也很有趣活潑，感受得到熱情，真的很體貼😭😭\n\n老闆娘家的小朋友，兩位都很乖又很可愛，完全不吵鬧，也可以從老闆娘跟小朋友的互動感受到愛和老闆娘良好的教育方針（感覺好像在竊聽😭但不是那個意思）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "宇智波波奶茶（羽葉）",
+        "uri": "https://www.google.com/maps/contrib/103996979639389023057/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6xX_XQL1RbWMyD4reDxB78EHRLS5RYe19F1lLGX63Q5Ikagkt=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-09-05T11:08:46.906618744Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OeE5WUnFPRkJtTUZjMk5rTlNXRXROTFhCQloxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OeE5WUnFPRkJtTUZjMk5rTlNXRXROTFhCQloxRRAB!2m1!1s0x3442ae4ee77e5731:0x8a4ec07ae3439a05"
+    },
+    {
+      "name": "places/ChIJMVd-506uQjQRBZpD43rAToo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0WE9VMDVTM0ZsYmtGNmNXaHVNbGx1WWpSWVZIYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "干貝天使蝦海鮮丼飯cp值真的很高 新鮮多樣又好吃💛定食附餐也是真的用心 蝦子清燙就好鮮甜👍🏻",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "干貝天使蝦海鮮丼飯cp值真的很高 新鮮多樣又好吃💛定食附餐也是真的用心 蝦子清燙就好鮮甜👍🏻",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃婷筠",
+        "uri": "https://www.google.com/maps/contrib/114101150402252251457/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUOpOpmq8dpzVMwFWCPd0kkOsPmzuG_qKYG96r0Jc-N_DYfhlFj=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-04T13:01:03.096360448Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0WE9VMDVTM0ZsYmtGNmNXaHVNbGx1WWpSWVZIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0WE9VMDVTM0ZsYmtGNmNXaHVNbGx1WWpSWVZIYxAB!2m1!1s0x3442ae4ee77e5731:0x8a4ec07ae3439a05"
+    },
+    {
+      "name": "places/ChIJMVd-506uQjQRBZpD43rAToo/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kVVlVdEpjVGRWUXpOdlNXVlFXalpNUTNVMVQyYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "份量多很划算\n服務的先生或小姐都很好\n時刻關心現場客人👍👍👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "份量多很划算\n服務的先生或小姐都很好\n時刻關心現場客人👍👍👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Annie Chien",
+        "uri": "https://www.google.com/maps/contrib/112640644512670378403/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWkrREWCCvj2qQaTGz-jUwWEzzI1ADtX7OYuuB9kKfSVpCRHcQC=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-11T15:56:48.742380815Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kVVlVdEpjVGRWUXpOdlNXVlFXalpNUTNVMVQyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kVVlVdEpjVGRWUXpOdlNXVlFXalpNUTNVMVQyYxAB!2m1!1s0x3442ae4ee77e5731:0x8a4ec07ae3439a05"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

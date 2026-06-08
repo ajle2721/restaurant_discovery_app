@@ -1,0 +1,130 @@
+{
+  "id": "ChIJOwWWK2GpQjQR5JI4J-JKB6k",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2592 7519",
+  "formattedAddress": "104台灣台北市中山区新福里中原街125之2號1樓",
+  "location": {
+    "latitude": 25.063675000000003,
+    "longitude": 121.529112
+  },
+  "rating": 4.5,
+  "userRatingCount": 147,
+  "displayName": {
+    "text": "享食義大利麵",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJOwWWK2GpQjQR5JI4J-JKB6k/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWWGJVRlFXbk5oY0VkSVJUZFZiWFpyYWtwU1dsRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "我覺得真的很棒！\n來不及拍照，放兩張吃光光的照片\n評價又好吃\n醬料很實在因為不是太水的那種很稀釋，很夠味\n焗烤的起司沒有焦過頭、口感很好\n不是那種放很久冰箱味很重的，超級讚啦👍\n炸物也很實在，脆度足夠之外還蠻新鮮\n服務時候如果有不清楚的也可以請他們推薦\n真的是很貼\n不過也有點可惜沒有喝到濃湯🥹\n紅茶也沒有茶精的感覺\n反正就是很滑！超級推❤️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "我覺得真的很棒！\n來不及拍照，放兩張吃光光的照片\n評價又好吃\n醬料很實在因為不是太水的那種很稀釋，很夠味\n焗烤的起司沒有焦過頭、口感很好\n不是那種放很久冰箱味很重的，超級讚啦👍\n炸物也很實在，脆度足夠之外還蠻新鮮\n服務時候如果有不清楚的也可以請他們推薦\n真的是很貼\n不過也有點可惜沒有喝到濃湯🥹\n紅茶也沒有茶精的感覺\n反正就是很滑！超級推❤️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "易峻賢",
+        "uri": "https://www.google.com/maps/contrib/114584200368926611248/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX1umoEgdwiElyXOe80E5tU41WAE3QbqEa-ovir99QVD8T4akB1=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-02T07:32:19.781578327Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWWGJVRlFXbk5oY0VkSVJUZFZiWFpyYWtwU1dsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWWGJVRlFXbk5oY0VkSVJUZFZiWFpyYWtwU1dsRRAB!2m1!1s0x3442a9612b96053b:0xa9074ae2273892e4"
+    },
+    {
+      "name": "places/ChIJOwWWK2GpQjQR5JI4J-JKB6k/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsbWJFaEphRzVhTFVZd09GWjZjblZpUzFOUU9FRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "看見評論過來的，很好吃喔！平價又好吃\n點了奶油菠菜忘記加肉類了也很好吃😋\n會多來捧場的👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "看見評論過來的，很好吃喔！平價又好吃\n點了奶油菠菜忘記加肉類了也很好吃😋\n會多來捧場的👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Iris",
+        "uri": "https://www.google.com/maps/contrib/100607470356331119420/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV7VuqXzAmwDvmUvAAUSKsLwg3lNs5gAUPkSAdsMzi34uOo6QQQlA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-01T06:05:38.843505716Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsbWJFaEphRzVhTFVZd09GWjZjblZpUzFOUU9FRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsbWJFaEphRzVhTFVZd09GWjZjblZpUzFOUU9FRRAB!2m1!1s0x3442a9612b96053b:0xa9074ae2273892e4"
+    },
+    {
+      "name": "places/ChIJOwWWK2GpQjQR5JI4J-JKB6k/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wdloyZDZXV2hhVjIxb1RGVXhhelYxUzJKQ1NrRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "平價好吃真材實料，可惜假日沒有開。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "平價好吃真材實料，可惜假日沒有開。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "沈です",
+        "uri": "https://www.google.com/maps/contrib/105761173772850190219/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV1UVqIKeLsxCY4_XH4ZSENSicGMgvqOXe_8dpGG6Ll9OI46iM=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-11-12T08:27:19.023595493Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wdloyZDZXV2hhVjIxb1RGVXhhelYxUzJKQ1NrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wdloyZDZXV2hhVjIxb1RGVXhhelYxUzJKQ1NrRRAB!2m1!1s0x3442a9612b96053b:0xa9074ae2273892e4"
+    },
+    {
+      "name": "places/ChIJOwWWK2GpQjQR5JI4J-JKB6k/reviews/ChdDSUhNMG9nS0VJQ0FnSUNPbnZ1QTJRRRAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 5,
+      "text": {
+        "text": "覺得是這區域最好吃的義大利麵，已回訪多次快把每種醬都吃過一遍\n醬濃郁好吃，有飲料還能加點，麵條有直麵跟筆管麵\n很推奶油醬、明太子醬、奶油菠菜",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "覺得是這區域最好吃的義大利麵，已回訪多次快把每種醬都吃過一遍\n醬濃郁好吃，有飲料還能加點，麵條有直麵跟筆管麵\n很推奶油醬、明太子醬、奶油菠菜",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "濃湯棒",
+        "uri": "https://www.google.com/maps/contrib/109889414219670532916/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVf02cHW-_wXgFdo5IjDEDHQujjM2sN-BxoXRJnFcJKI0-6Cmw=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-06-26T19:32:15.614991088Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNPbnZ1QTJRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNPbnZ1QTJRRRAB!2m1!1s0x3442a9612b96053b:0xa9074ae2273892e4"
+    },
+    {
+      "name": "places/ChIJOwWWK2GpQjQR5JI4J-JKB6k/reviews/ChZDSUhNMG9nS0VJQ0FnTURndGRiSEVBEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "以這個價位來說很符合餐點份量\n選擇很多元，而且以外食來說菜量也不會過少，很棒\n店內空間不大，劃單結帳後入座，出餐速度還蠻快的\n算是一/I人友善店家，店內兩排座位都是面壁，手機可以直接靠著邊吃邊看個人覺得很棒～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "以這個價位來說很符合餐點份量\n選擇很多元，而且以外食來說菜量也不會過少，很棒\n店內空間不大，劃單結帳後入座，出餐速度還蠻快的\n算是一/I人友善店家，店內兩排座位都是面壁，手機可以直接靠著邊吃邊看個人覺得很棒～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Euler Chien",
+        "uri": "https://www.google.com/maps/contrib/107177242621297520323/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWJf2XI050fntUwwFtVBpr7y0ivryoFf13pxZp83WMDBUJiUR0=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-02-26T09:42:41.505635Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURndGRiSEVBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURndGRiSEVBEAE!2m1!1s0x3442a9612b96053b:0xa9074ae2273892e4"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

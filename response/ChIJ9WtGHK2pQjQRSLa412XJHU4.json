@@ -1,0 +1,131 @@
+{
+  "id": "ChIJ9WtGHK2pQjQRSLa412XJHU4",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 911 503 608",
+  "formattedAddress": "103台灣臺北市大同區南京西路239巷21號",
+  "location": {
+    "latitude": 25.0537243,
+    "longitude": 121.5094531
+  },
+  "rating": 4.8,
+  "websiteUri": "https://www.facebook.com/CTctKitchen",
+  "userRatingCount": 35,
+  "displayName": {
+    "text": "中子廚房",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ9WtGHK2pQjQRSLa412XJHU4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNubElHSU9nEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "超讚🤩🤩🤩\n不會過度調味很好吃～家常菜色+健康餐調味的概念，每日菜單不同很用心！可以換著吃選擇比一般便當店多很多！\n飯量一般女生吃應該很夠，男生可能吃不飽。\n價位高一點點點，但是在包材、食材、裝盤上面感受到了滿滿的用心！！\n只有午餐、外帶，自備餐盒還可以折10元～\n-\n期待好久終於等到起司豆腐漢堡排！也太好吃！！是這輩子沒吃過會後悔的料理，中子真的好會煮～～\n最近在週年優惠中！送的飲料很好喝～今天還買了布朗尼很好吃😍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "超讚🤩🤩🤩\n不會過度調味很好吃～家常菜色+健康餐調味的概念，每日菜單不同很用心！可以換著吃選擇比一般便當店多很多！\n飯量一般女生吃應該很夠，男生可能吃不飽。\n價位高一點點點，但是在包材、食材、裝盤上面感受到了滿滿的用心！！\n只有午餐、外帶，自備餐盒還可以折10元～\n-\n期待好久終於等到起司豆腐漢堡排！也太好吃！！是這輩子沒吃過會後悔的料理，中子真的好會煮～～\n最近在週年優惠中！送的飲料很好喝～今天還買了布朗尼很好吃😍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "地瓜仙子",
+        "uri": "https://www.google.com/maps/contrib/109961477994157954468/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVTeoM0gym4JNvjxi3Bm2jGPKzpcFdeGh8xE6yPdVJ9MzhR2QU=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2024-10-14T04:52:29.263310Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNubElHSU9nEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNubElHSU9nEAE!2m1!1s0x3442a9ad1c466bf5:0x4e1dc965d7b8b648"
+    },
+    {
+      "name": "places/ChIJ9WtGHK2pQjQRSLa412XJHU4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYaGYtMkdnEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "健康便當，不會太油，相當美味好吃！！\n主餐也是好幾種在輪，很多變化，有時午餐不知道要吃什麼時，當天便當隨便挑一個都沒踩過雷喔！！\n但最愛的還是松阪豬跟舒肥雞胸~~❤️❤️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "健康便當，不會太油，相當美味好吃！！\n主餐也是好幾種在輪，很多變化，有時午餐不知道要吃什麼時，當天便當隨便挑一個都沒踩過雷喔！！\n但最愛的還是松阪豬跟舒肥雞胸~~❤️❤️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "ayca chen",
+        "uri": "https://www.google.com/maps/contrib/117847275369264197085/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7siJD_FnmWmaF7jLGhwP2fkq1aET32jn54bKkIsHEYUCnW8mm=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2024-10-18T15:58:21.243570Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYaGYtMkdnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYaGYtMkdnEAE!2m1!1s0x3442a9ad1c466bf5:0x4e1dc965d7b8b648"
+    },
+    {
+      "name": "places/ChIJ9WtGHK2pQjQRSLa412XJHU4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSU1puRkZSVEZITlRSTmNFNXNYMTlZZWswMGFYYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "家人剛好在附近幫忙買了午餐，之前在網路上查到評價還不錯一直想試試看\n\n超級好吃！我點的是泡菜豬五花，不會太鹹、太油，青菜也弄的非常好吃清爽，而且整體來看都很乾淨，最近吃的所有便當裡面最好吃的XD\n\n會推薦朋友們來買",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "家人剛好在附近幫忙買了午餐，之前在網路上查到評價還不錯一直想試試看\n\n超級好吃！我點的是泡菜豬五花，不會太鹹、太油，青菜也弄的非常好吃清爽，而且整體來看都很乾淨，最近吃的所有便當裡面最好吃的XD\n\n會推薦朋友們來買",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "潘玟靜",
+        "uri": "https://www.google.com/maps/contrib/106352670716448147302/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXYWYTzJmrPaqQVcm3fY7mzicVqE3RQHnUOF_ZRAMZMpmJ4GbyINw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-10-23T02:46:59.236894217Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSU1puRkZSVEZITlRSTmNFNXNYMTlZZWswMGFYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSU1puRkZSVEZITlRSTmNFNXNYMTlZZWswMGFYYxAB!2m1!1s0x3442a9ad1c466bf5:0x4e1dc965d7b8b648"
+    },
+    {
+      "name": "places/ChIJ9WtGHK2pQjQRSLa412XJHU4/reviews/ChdDSUhNMG9nS0VJQ0FnSUNGNWY3WHpRRRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 4,
+      "text": {
+        "text": "便當每天的菜單不同，門口/FB都有公告，店裡沒有內用只有外帶，沒有看到有線上/手機付款的選項。\n便當盒的設計很特別，扣得很緊密覺得不錯！\n菜色不油膩，口味好吃，但是主餐份量滿少的，食量稍大的人應該就會吃不飽了，以一百多塊的價格來說不算是超值，但是能回購的選項之一。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "便當每天的菜單不同，門口/FB都有公告，店裡沒有內用只有外帶，沒有看到有線上/手機付款的選項。\n便當盒的設計很特別，扣得很緊密覺得不錯！\n菜色不油膩，口味好吃，但是主餐份量滿少的，食量稍大的人應該就會吃不飽了，以一百多塊的價格來說不算是超值，但是能回購的選項之一。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yawen Cheng",
+        "uri": "https://www.google.com/maps/contrib/117280747425346673047/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJjat6fibRZ07CHOHBJFxP4QzogFUeVBOzSHV4q5fv__0pHCZxu=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2023-10-30T06:19:47.235182Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNGNWY3WHpRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNGNWY3WHpRRRAB!2m1!1s0x3442a9ad1c466bf5:0x4e1dc965d7b8b648"
+    },
+    {
+      "name": "places/ChIJ9WtGHK2pQjQRSLa412XJHU4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsaHNueFFBEAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "最愛雙拼啦！\n5個便當就可以外送了～\n外送親切準時～\n對中子沒有失望過 ❤️❤️❤️\n吃到目前維持 全部口味都滿意\n菜色也不會過油 喜歡😘",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "最愛雙拼啦！\n5個便當就可以外送了～\n外送親切準時～\n對中子沒有失望過 ❤️❤️❤️\n吃到目前維持 全部口味都滿意\n菜色也不會過油 喜歡😘",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ray Hou",
+        "uri": "https://www.google.com/maps/contrib/107120751618456730468/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVcp4l0Eih0FPrmtcu9AWek4EjXq7aE9L5YQZhYkk3_hVLCyLI=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2023-11-17T04:26:42.527076Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNsaHNueFFBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNsaHNueFFBEAE!2m1!1s0x3442a9ad1c466bf5:0x4e1dc965d7b8b648"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

@@ -1,0 +1,54 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "而且座位在騎樓，有其他攤商在隔壁抽菸，有失用餐品質！",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "官方標記：不提供兒童餐",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "No",
+        "evidence": "座位在騎樓",
+        "confidence": 0.9
+    },
+    "has_tableware": {
+        "result": "No",
+        "evidence": "內用一樣是用免洗餐具",
+        "confidence": 0.9
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "而且座位在騎樓，有其他攤商在隔壁抽菸，有失用餐品質！",
+        "官方標記：不提供兒童餐",
+        "內用一樣是用免洗餐具",
+        "座位在騎樓",
+        "內用一樣是用免洗餐具，非常不環保！"
+    ],
+    "generated_summary": "一品香便當主要為外帶導向的平價便當店，店內座位設置於騎樓，環境較為簡陋且無提供兒童餐、兒童餐具或相關親子設施，用餐品質受限，較不建議攜帶幼童前往內用。",
+    "card_summary": ""
+}

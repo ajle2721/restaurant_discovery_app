@@ -1,0 +1,133 @@
+{
+  "id": "ChIJk7jbcxKvQjQR-HWxzlgfSLY",
+  "types": [
+    "cafe",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2893 9325",
+  "formattedAddress": "11241台灣臺北市北投區林泉里溫泉路110-1號",
+  "location": {
+    "latitude": 25.1362794,
+    "longitude": 121.51101200000001
+  },
+  "rating": 4.7,
+  "websiteUri": "https://www.facebook.com/BraeCafe",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 830,
+  "displayName": {
+    "text": "山边咖啡 Brae Café",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJk7jbcxKvQjQR-HWxzlgfSLY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xNd2VVMXJlVlpzTkRoa2JXNW1SRjlUYkcwNVpsRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "根本是寶藏級的咖啡廳✨✨✨\n一定要點「肉桂捲」！！！\n老闆遠遠送餐上來，就聞到肉桂粉的香氣～\n吃起來酥酥脆脆😍😍\n\n咖啡廳的餐點多樣\n人也不會太吵，很悠閒的氛圍～\n大力推薦！！！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "根本是寶藏級的咖啡廳✨✨✨\n一定要點「肉桂捲」！！！\n老闆遠遠送餐上來，就聞到肉桂粉的香氣～\n吃起來酥酥脆脆😍😍\n\n咖啡廳的餐點多樣\n人也不會太吵，很悠閒的氛圍～\n大力推薦！！！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Wendy Chi",
+        "uri": "https://www.google.com/maps/contrib/102424043464496911623/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIJlxEHJv2pTSpJZFxDBe6vCPBApazMDyn2yHjQQ3azyll1iw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-23T07:11:57.587001241Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xNd2VVMXJlVlpzTkRoa2JXNW1SRjlUYkcwNVpsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xNd2VVMXJlVlpzTkRoa2JXNW1SRjlUYkcwNVpsRRAB!2m1!1s0x3442af1273dbb893:0xb6481f58ceb175f8"
+    },
+    {
+      "name": "places/ChIJk7jbcxKvQjQR-HWxzlgfSLY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSM1YxWlJNVmxqYlRob1lVVmtRMDk2ZHpoWFUzYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 1,
+      "text": {
+        "text": "氣氛ok\n先不論價格\n食物跟飲料難以置信的難吃\n濃湯+奶油麵包千萬別點 比平價牛排店附贈的難吃\n紅茶拿鐵跟水差不多",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "氣氛ok\n先不論價格\n食物跟飲料難以置信的難吃\n濃湯+奶油麵包千萬別點 比平價牛排店附贈的難吃\n紅茶拿鐵跟水差不多",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Han W",
+        "uri": "https://www.google.com/maps/contrib/108593376287909154476/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWm9xjaBiBXnBcYM3tB-FITLqEilHDRtBouPHaTIJT6fhAvor6y=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-20T11:23:12.104505654Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSM1YxWlJNVmxqYlRob1lVVmtRMDk2ZHpoWFUzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSM1YxWlJNVmxqYlRob1lVVmtRMDk2ZHpoWFUzYxAB!2m1!1s0x3442af1273dbb893:0xb6481f58ceb175f8"
+    },
+    {
+      "name": "places/ChIJk7jbcxKvQjQR-HWxzlgfSLY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OYVV6QkdPRWt4TTBWTWVrUllUVVk0UjNNd2EzYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "墨西哥鹹派很推～～大拇指！連沙拉都是好好吃 蕃茄很嫩超甜 蘋果酸酸甜甜 鹹派厚實料足 單純不會油膩無負擔的味道 咖啡也很香 可惜沒有布丁冰淇淋 好像也沒有賣咖喱了 很用心的餐點",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "墨西哥鹹派很推～～大拇指！連沙拉都是好好吃 蕃茄很嫩超甜 蘋果酸酸甜甜 鹹派厚實料足 單純不會油膩無負擔的味道 咖啡也很香 可惜沒有布丁冰淇淋 好像也沒有賣咖喱了 很用心的餐點",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "wen C",
+        "uri": "https://www.google.com/maps/contrib/111350570902669247435/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU_twuj25J1QsUkB7ozi7Z__kI_gfZtbzlZxb9f-obCt1r7me2w=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-26T06:13:25.800832079Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OYVV6QkdPRWt4TTBWTWVrUllUVVk0UjNNd2EzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OYVV6QkdPRWt4TTBWTWVrUllUVVk0UjNNd2EzYxAB!2m1!1s0x3442af1273dbb893:0xb6481f58ceb175f8"
+    },
+    {
+      "name": "places/ChIJk7jbcxKvQjQR-HWxzlgfSLY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aTFYwNVRkRmROUWtGaWVqVkRkM2hCTW5CelRVRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "在附近區域是氣氛最好的小店。自己覺得飲料比食物來得強，比如說對這個價位的肉桂捲會有更高期待。\n總體來說，平均價位比體驗到的飲食高一點，如果把環境與地點也算進去，可能就比較合理了，不失為一個來坐坐休息的地方。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在附近區域是氣氛最好的小店。自己覺得飲料比食物來得強，比如說對這個價位的肉桂捲會有更高期待。\n總體來說，平均價位比體驗到的飲食高一點，如果把環境與地點也算進去，可能就比較合理了，不失為一個來坐坐休息的地方。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "C",
+        "uri": "https://www.google.com/maps/contrib/114583736352088679291/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVhrI1N5BGVrA6bNYRxMf-xXZTkp6T79Obh7nCXJhJ-CPmESGfY=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-19T04:43:57.543100301Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aTFYwNVRkRmROUWtGaWVqVkRkM2hCTW5CelRVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aTFYwNVRkRmROUWtGaWVqVkRkM2hCTW5CelRVRRAB!2m1!1s0x3442af1273dbb893:0xb6481f58ceb175f8"
+    },
+    {
+      "name": "places/ChIJk7jbcxKvQjQR-HWxzlgfSLY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toUmExaHBjMjVYUnpsWWQwTnlNWFp2WVhGMlVIYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "之前走過沒進去，今天總算能進去坐坐，店內充滿溫馨、懷舊的氛圍😁，老闆、闆娘親切、健談～有著鄰居般的熱情❤️\n餐點🍮🥪、飲料☕️🍹也都很可口、好喝，真的有種回到家的感覺⋯聊到都不大想離開了🤣\n真心推薦真的在‘山邊’的好店👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "之前走過沒進去，今天總算能進去坐坐，店內充滿溫馨、懷舊的氛圍😁，老闆、闆娘親切、健談～有著鄰居般的熱情❤️\n餐點🍮🥪、飲料☕️🍹也都很可口、好喝，真的有種回到家的感覺⋯聊到都不大想離開了🤣\n真心推薦真的在‘山邊’的好店👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "徐義能",
+        "uri": "https://www.google.com/maps/contrib/112729105663749256460/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVUDRCdaDGgEIddzKnoifE0jxbJNtvny4ZE-oPDrW7_joxyvwf5rw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-09-30T13:27:52.216961205Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toUmExaHBjMjVYUnpsWWQwTnlNWFp2WVhGMlVIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toUmExaHBjMjVYUnpsWWQwTnlNWFp2WVhGMlVIYxAB!2m1!1s0x3442af1273dbb893:0xb6481f58ceb175f8"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

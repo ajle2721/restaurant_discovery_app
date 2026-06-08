@@ -1,0 +1,131 @@
+{
+  "id": "ChIJg6SXInOrQjQR0TeE2kHQl4E",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2758 5800",
+  "formattedAddress": "110台灣臺北市信義區三張里莊敬路423巷8弄6號",
+  "location": {
+    "latitude": 25.0284538,
+    "longitude": 121.56727610000002
+  },
+  "rating": 4.3,
+  "websiteUri": "https://liff.line.me/1645278921-kWRPP32q/?accountId=559eydyg",
+  "userRatingCount": 165,
+  "displayName": {
+    "text": "維納斯早午餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJg6SXInOrQjQR0TeE2kHQl4E/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sWk0yZHZUMlJvVkdGdU1GVTRkbHBpTjBoRlUyYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "薯條超好吃，咖喱飯也是好吃😋第一次進來吃，如果還有機會真的下次再來，老闆娘好親切謝謝您",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "薯條超好吃，咖喱飯也是好吃😋第一次進來吃，如果還有機會真的下次再來，老闆娘好親切謝謝您",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "ほしてきあらし",
+        "uri": "https://www.google.com/maps/contrib/106235767187282256690/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjULb33jFKxvkVBFcVHHaAl1MLknbLW06P2OjkvCmNRyoqiwwszy=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-16T05:11:34.655994485Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sWk0yZHZUMlJvVkdGdU1GVTRkbHBpTjBoRlUyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sWk0yZHZUMlJvVkdGdU1GVTRkbHBpTjBoRlUyYxAB!2m1!1s0x3442ab732297a483:0x8197d041da8437d1"
+    },
+    {
+      "name": "places/ChIJg6SXInOrQjQR0TeE2kHQl4E/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kWlZHTlRhRlp4WjFnM1gwUkJkRk5RZUVsWVExRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "黃老闆一個人經營一家早餐店店，時間從早餐，午餐，到晚餐，都可以享受到各種不同的咖哩飯，咖哩用料實在，老闆堅持使用的是彿蒙特咖哩，各種食材都新鮮，而且食材當天現做，不放隔夜，店裡空間明亮又舒適，非常非常的長時間工作，希望能讓社區民眾的人，可以在這裡簡單享受餐點，讓我們都覺得不可思議，各個餐點都好吃，讓我們都會再回來享受。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "黃老闆一個人經營一家早餐店店，時間從早餐，午餐，到晚餐，都可以享受到各種不同的咖哩飯，咖哩用料實在，老闆堅持使用的是彿蒙特咖哩，各種食材都新鮮，而且食材當天現做，不放隔夜，店裡空間明亮又舒適，非常非常的長時間工作，希望能讓社區民眾的人，可以在這裡簡單享受餐點，讓我們都覺得不可思議，各個餐點都好吃，讓我們都會再回來享受。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "明德",
+        "uri": "https://www.google.com/maps/contrib/101262171798058440174/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVE4I3IKesTfaQFMmgHrRpap0vb-jAKrYZw6tkhL1ojzYkU4Gk=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-11-21T09:41:41.410101110Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kWlZHTlRhRlp4WjFnM1gwUkJkRk5RZUVsWVExRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kWlZHTlRhRlp4WjFnM1gwUkJkRk5RZUVsWVExRRAB!2m1!1s0x3442ab732297a483:0x8197d041da8437d1"
+    },
+    {
+      "name": "places/ChIJg6SXInOrQjQR0TeE2kHQl4E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKU2RtZ3hTR3ByWW01M2RVOUpjMW8xVTNVNVVVRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "老闆娘是印尼人，禮拜六早上造訪發現只有老闆娘一個人作業，但餐點速度上還算蠻快的，味道上也都還Ok。價位不算便宜，但考量地段就不予置評。內用座位不算多，但內用盤子包含飲料都是用可清洗的餐具盛裝，於環保這項算是加分。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "老闆娘是印尼人，禮拜六早上造訪發現只有老闆娘一個人作業，但餐點速度上還算蠻快的，味道上也都還Ok。價位不算便宜，但考量地段就不予置評。內用座位不算多，但內用盤子包含飲料都是用可清洗的餐具盛裝，於環保這項算是加分。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "葉蕙茹",
+        "uri": "https://www.google.com/maps/contrib/110743683087730958716/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUqxKS8E8ukbgG8NcQHftJOUmzOTi-KcBfYRPOHznOgg3uGUsh0hw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-04T05:50:21.162906293Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKU2RtZ3hTR3ByWW01M2RVOUpjMW8xVTNVNVVVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKU2RtZ3hTR3ByWW01M2RVOUpjMW8xVTNVNVVVRRAB!2m1!1s0x3442ab732297a483:0x8197d041da8437d1"
+    },
+    {
+      "name": "places/ChIJg6SXInOrQjQR0TeE2kHQl4E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w4NWNWTmpWVWh4YldORE9HUTFiVGs0UlUwMGFWRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "餐點好吃，份量不小，\n烤吐司烤得香酥美味。\n可以加Line線上點餐。\n煎台老闆熱情招呼～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點好吃，份量不小，\n烤吐司烤得香酥美味。\n可以加Line線上點餐。\n煎台老闆熱情招呼～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chingvan Chen",
+        "uri": "https://www.google.com/maps/contrib/100063318973374934941/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWCQZFkpO1SowygjqjmDOzDXc5F5ca1YF8BuYE2Pn3ytQTuroOm7Q=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-09-27T04:40:43.609716674Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w4NWNWTmpWVWh4YldORE9HUTFiVGs0UlUwMGFWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w4NWNWTmpWVWh4YldORE9HUTFiVGs0UlUwMGFWRRAB!2m1!1s0x3442ab732297a483:0x8197d041da8437d1"
+    },
+    {
+      "name": "places/ChIJg6SXInOrQjQR0TeE2kHQl4E/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ZemIyaERXbUpvTUhwSVlYbGhZVzU1VVhKT1YxRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "114.12.09\n紀錄一下，頂中頂\n早餐裡，價格偏上，品質上上\n那起司蛋餅、鮮奶茶，格外順口",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "114.12.09\n紀錄一下，頂中頂\n早餐裡，價格偏上，品質上上\n那起司蛋餅、鮮奶茶，格外順口",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃官禾",
+        "uri": "https://www.google.com/maps/contrib/111108406645198486608/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUoo23DsbONMNzqKsAsKMgM7uW8KJ_aZHDpdIf2uF_AlS9CKlF6=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-10T00:49:16.938758507Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ZemIyaERXbUpvTUhwSVlYbGhZVzU1VVhKT1YxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ZemIyaERXbUpvTUhwSVlYbGhZVzU1VVhKT1YxRRAB!2m1!1s0x3442ab732297a483:0x8197d041da8437d1"
+    }
+  ],
+  "goodForChildren": true
+}

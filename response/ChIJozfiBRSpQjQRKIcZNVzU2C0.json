@@ -1,0 +1,128 @@
+{
+  "id": "ChIJozfiBRSpQjQRKIcZNVzU2C0",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 986 536 926",
+  "formattedAddress": "103台灣臺北市大同區永樂里西寧北路77號號",
+  "location": {
+    "latitude": 25.0554149,
+    "longitude": 121.50902339999999
+  },
+  "rating": 4.1,
+  "userRatingCount": 33,
+  "displayName": {
+    "text": "喜來中西式早午餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJozfiBRSpQjQRKIcZNVzU2C0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwdllXdEZlWFU0TW1zMGNtNXFYMng2V201ak1YYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "很Local的早餐店，阿姨很親切，蛋餅好吃而且滿大份的、蘿蔔糕好吃，不過阿姨一個人做餐會需要等一下，唯一缺點可能是坐騎樓沒冷氣哈哈，但早晨有風還算不錯～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很Local的早餐店，阿姨很親切，蛋餅好吃而且滿大份的、蘿蔔糕好吃，不過阿姨一個人做餐會需要等一下，唯一缺點可能是坐騎樓沒冷氣哈哈，但早晨有風還算不錯～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "YanShin Lin",
+        "uri": "https://www.google.com/maps/contrib/115326848395411302354/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVtwQbejNdXgFPqBtL7lSIMZ-pR9hEQPANls-1El_QXFvJgEH8f=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-06T00:29:51.860720148Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwdllXdEZlWFU0TW1zMGNtNXFYMng2V201ak1YYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwdllXdEZlWFU0TW1zMGNtNXFYMng2V201ak1YYxAB!2m1!1s0x3442a91405e237a3:0x2dd8d45c35198728"
+    },
+    {
+      "name": "places/ChIJozfiBRSpQjQRKIcZNVzU2C0/reviews/ChdDSUhNMG9nS0VJQ0FnSURWdTktYjl3RRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 4,
+      "text": {
+        "text": "老闆娘很客氣，炒麵份量很多，醬料跟鐵板麵的一樣，蔬菜蛋餅蔬菜多，蔬菜有點偏涼拌的不太喜歡。\n有無糖紅茶可以選擇，味道普通。\n座位區為馬路旁。\n以份量而言價格不貴，加上老闆娘態度很好，不錯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "老闆娘很客氣，炒麵份量很多，醬料跟鐵板麵的一樣，蔬菜蛋餅蔬菜多，蔬菜有點偏涼拌的不太喜歡。\n有無糖紅茶可以選擇，味道普通。\n座位區為馬路旁。\n以份量而言價格不貴，加上老闆娘態度很好，不錯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yuna Lin",
+        "uri": "https://www.google.com/maps/contrib/111858837894429170793/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU3UudXfkJGJYiRghMWNsZ6dJcsakYpkIKSCxvA9iTTGrD-pBB8=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2023-12-17T01:43:52.979704Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURWdTktYjl3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURWdTktYjl3RRAB!2m1!1s0x3442a91405e237a3:0x2dd8d45c35198728"
+    },
+    {
+      "name": "places/ChIJozfiBRSpQjQRKIcZNVzU2C0/reviews/ChZDSUhNMG9nS0VJQ0FnSURSbVBHWVpREAE",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 5,
+      "text": {
+        "text": "老闆娘超級親切，東西好吃又便宜，蔬菜蛋餅有好多菜還有蘋果塊👍很推薦",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "老闆娘超級親切，東西好吃又便宜，蔬菜蛋餅有好多菜還有蘋果塊👍很推薦",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "8boo_tw KTW",
+        "uri": "https://www.google.com/maps/contrib/117875944900406662601/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVgBKAtUxjb_vqk8XFMXt6zx7RkxRdfpcslLRte3TAm1B66EF8zwg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2023-04-17T05:57:55.493569Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURSbVBHWVpREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURSbVBHWVpREAE!2m1!1s0x3442a91405e237a3:0x2dd8d45c35198728"
+    },
+    {
+      "name": "places/ChIJozfiBRSpQjQRKIcZNVzU2C0/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5cHZxOHp3RRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "老闆娘很親切，東西好吃，價錢不貴，只是座位不多在騎樓下",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "老闆娘很親切，東西好吃，價錢不貴，只是座位不多在騎樓下",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "XEB256張鈺欣",
+        "uri": "https://www.google.com/maps/contrib/103657681856015980296/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUkaRlLcsJ7EsfAE-a853k6f6HJ7MFFt7IIKhevp4IstOMwirk=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2024-03-16T05:36:14.211499Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ5cHZxOHp3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ5cHZxOHp3RRAB!2m1!1s0x3442a91405e237a3:0x2dd8d45c35198728"
+    },
+    {
+      "name": "places/ChIJozfiBRSpQjQRKIcZNVzU2C0/reviews/ChZDSUhNMG9nS0VJQ0FnSURNMnBqdlF3EAE",
+      "relativePublishTimeDescription": "6 年前",
+      "rating": 5,
+      "text": {
+        "text": "點了鐵板麵*2+蛋（40+40+10=90），來的時候跟份量十足，有時遇到他們吃飯時間來，還會給你加菜，人很好噢！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點了鐵板麵*2+蛋（40+40+10=90），來的時候跟份量十足，有時遇到他們吃飯時間來，還會給你加菜，人很好噢！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "弒小豪",
+        "uri": "https://www.google.com/maps/contrib/108495700705985813849/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMNIdI2IBWpyMTM5vKE70XIx9gtLMyoEk6-2tzUgDZZtAu1kNi=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2019-12-27T03:14:23.778005Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURNMnBqdlF3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURNMnBqdlF3EAE!2m1!1s0x3442a91405e237a3:0x2dd8d45c35198728"
+    }
+  ]
+}

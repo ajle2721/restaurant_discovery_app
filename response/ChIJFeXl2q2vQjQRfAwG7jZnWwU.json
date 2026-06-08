@@ -1,0 +1,132 @@
+{
+  "id": "ChIJFeXl2q2vQjQRfAwG7jZnWwU",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2893 1955",
+  "formattedAddress": "112台灣臺北市北投區桃源里中央北路三段18號",
+  "location": {
+    "latitude": 25.1383658,
+    "longitude": 121.4861804
+  },
+  "rating": 4.5,
+  "websiteUri": "https://www.facebook.com/100052050115986",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 901,
+  "displayName": {
+    "text": "胖老闆丼飯",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJFeXl2q2vQjQRfAwG7jZnWwU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WWlRXOW1WR2N3VlhKUmJXNXljbEZKY3pCU1puYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "超級平價的！還有附湯還有小菜，泡菜特別和我的胃口，沒有很酸也不辣，甜甜的！炸豬排咖喱飯除了炸出排外咖哩那邊也有一些嫩雞肉",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "超級平價的！還有附湯還有小菜，泡菜特別和我的胃口，沒有很酸也不辣，甜甜的！炸豬排咖喱飯除了炸出排外咖哩那邊也有一些嫩雞肉",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jyzhen",
+        "uri": "https://www.google.com/maps/contrib/108217049271231203081/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVKzsDnCnYWG3kThnmX_KI5pc8axdo7-MF_pyHtX37wFluG60Oi=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-24T12:11:00.924198777Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WWlRXOW1WR2N3VlhKUmJXNXljbEZKY3pCU1puYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WWlRXOW1WR2N3VlhKUmJXNXljbEZKY3pCU1puYxAB!2m1!1s0x3442afaddae5e515:0x55b6736ee060c7c"
+    },
+    {
+      "name": "places/ChIJFeXl2q2vQjQRfAwG7jZnWwU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25jd2JHRjZiRFkwVGpZd1pVeFBPVUY0YjNsWlpYYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "時常會需要等待一下子才能吃到，但是我只能說等待是值得的",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "時常會需要等待一下子才能吃到，但是我只能說等待是值得的",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "簡辰恩",
+        "uri": "https://www.google.com/maps/contrib/105021705847645723486/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVjhs10NwQgHKYhro11tJmU0p64tSIhZN2F_ZLix8y28-ST-8_zOA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-12T14:50:44.080645296Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25jd2JHRjZiRFkwVGpZd1pVeFBPVUY0YjNsWlpYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25jd2JHRjZiRFkwVGpZd1pVeFBPVUY0YjNsWlpYYxAB!2m1!1s0x3442afaddae5e515:0x55b6736ee060c7c"
+    },
+    {
+      "name": "places/ChIJFeXl2q2vQjQRfAwG7jZnWwU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGSmFVcFFaek5zV25kcFNUVXlPSEYwUzB0SldIYxAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 3,
+      "text": {
+        "text": "很久以前就在我的口袋名單，\n最近閒著沒事就跑來吃看看，\n\n當天是中午12點到的店，\n出捷運就有3~4人走在我前面，\n剛好也是要吃這家店，\n但好死不死他們是內用最後一桌，\n\n店員說店內狹小，\n建議我去旁邊全家等，\n並讓我留下電話，\n有位子的時候會打電話給我，\n（順便一提，店內廁所跟全家廁所都壞了）\n\n我當時大概離開店家不到5分鐘吧，\n店員就打電話給我跟我說有位子了，\n\n點了評論裡很多人推的招牌，\nLOCOMOCO漢堡排飯，\n小菜我選了泡菜，\n還有幾種可以選，\n但我忘了有什麼了，\n\n坐下之後，\n湯跟小菜會先上，\n之後大約要等15分鐘，\n主餐漢堡排飯才上，\n\n口味上的話，\n小菜跟湯普通，\n就不多提，\n\n漢堡排外表焦脆，\n裡面軟爛，\n口味上還行，\n但沒太多驚艷感，\n\n飯底下好像有加烤肉醬，\n這個醬我不太喜歡，\n有點甜，\n但醬的份量加的不多，\n\n另外我一開始沒仔細看，\n以為只有一顆，\n吃到後面才發現，\n半熟蛋有兩顆，\n\n把這餐當做一份牛排餐來看的話，\n一個排+白飯+兩顆蛋+小菜+湯，\n我覺得CP值還行，\n\n用餐期間我也觀察到，\n陸陸續續一直有人來，\n後面店員也直接跟客人說，\n至少要等30分鐘以上了，\n\n另外電話響了，\n店員在忙就不會接，\n所以來這內用，\n要有被電話聲吵的準備就是了，\n\n總結：\n住附近無聊可以來吃，\n我覺得CP值還行，\n但在味道上就不要有太多期待。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很久以前就在我的口袋名單，\n最近閒著沒事就跑來吃看看，\n\n當天是中午12點到的店，\n出捷運就有3~4人走在我前面，\n剛好也是要吃這家店，\n但好死不死他們是內用最後一桌，\n\n店員說店內狹小，\n建議我去旁邊全家等，\n並讓我留下電話，\n有位子的時候會打電話給我，\n（順便一提，店內廁所跟全家廁所都壞了）\n\n我當時大概離開店家不到5分鐘吧，\n店員就打電話給我跟我說有位子了，\n\n點了評論裡很多人推的招牌，\nLOCOMOCO漢堡排飯，\n小菜我選了泡菜，\n還有幾種可以選，\n但我忘了有什麼了，\n\n坐下之後，\n湯跟小菜會先上，\n之後大約要等15分鐘，\n主餐漢堡排飯才上，\n\n口味上的話，\n小菜跟湯普通，\n就不多提，\n\n漢堡排外表焦脆，\n裡面軟爛，\n口味上還行，\n但沒太多驚艷感，\n\n飯底下好像有加烤肉醬，\n這個醬我不太喜歡，\n有點甜，\n但醬的份量加的不多，\n\n另外我一開始沒仔細看，\n以為只有一顆，\n吃到後面才發現，\n半熟蛋有兩顆，\n\n把這餐當做一份牛排餐來看的話，\n一個排+白飯+兩顆蛋+小菜+湯，\n我覺得CP值還行，\n\n用餐期間我也觀察到，\n陸陸續續一直有人來，\n後面店員也直接跟客人說，\n至少要等30分鐘以上了，\n\n另外電話響了，\n店員在忙就不會接，\n所以來這內用，\n要有被電話聲吵的準備就是了，\n\n總結：\n住附近無聊可以來吃，\n我覺得CP值還行，\n但在味道上就不要有太多期待。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "什麼鬼（好吧）",
+        "uri": "https://www.google.com/maps/contrib/116575475016487161310/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIhXIrniDiwHIt7JI5h6aLLIb6MfJo3K_b-Y2rdMvsI5ZdyEg=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-07-22T03:02:28.070169864Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGSmFVcFFaek5zV25kcFNUVXlPSEYwUzB0SldIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGSmFVcFFaek5zV25kcFNUVXlPSEYwUzB0SldIYxAB!2m1!1s0x3442afaddae5e515:0x55b6736ee060c7c"
+    },
+    {
+      "name": "places/ChIJFeXl2q2vQjQRfAwG7jZnWwU/reviews/ChZDSUhNMG9nS0VJQ0FnSURUdzh6SU1REAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "網路上看到介紹感覺很厲害\n在買給小孩吃之前\n自己先來試試\n結果真的好吃欸\n\n最出名的漢堡排飯\n上面連在一起的雙蛋半熟荷包蛋\n剛剛好的熟度\n剛剛好的包覆\n完美的覆蓋在漢堡排飯上面\n我個人是覺得光是這個功夫就挺厲害的\n再說說味道\n漢堡排外表微焦酥酥的口感\n不影響裡面的多汁Q彈\n香氣十足美味多汁\n整個垂直一口挖下來\n半熟蛋+漢堡排+醬汁+白飯\n真的非常好吃\n如果旁邊能放點清燙的\n花椰菜。玉米筍。小蕃茄\n營養均衡。視覺效果都會更加分\n\n雖然只有一個人用餐\n還是忍不住另外加點了沖繩炒苦瓜跟明太子玉子燒\n反正吃不完就打包回家當晚餐囉\n😂😂😂\n\n沖繩炒苦瓜有\n微微回甘的苦味\n搭配豬肉片跟蛋一起炒\n味道很不錯呢\n\n明太子玉子燒\n覺得軟嫩度\n鹹甜度都蠻剛好的\n是我喜歡的玉子燒\n（有些地方的玉子燒會太甜或太紮實）\n但如果可以把明太子擠在玉子燒上面\n用噴槍炙燒一下的方式\n個人覺得可以增加明太子的香氣\n會更加美味\n\n以上試吃的品項都覺得挺滿意的\n結帳時直接預訂一份晚餐給兒子放學吃😄😄😄\n\n每個主餐會附一份小菜跟味噌湯\n小菜有泡菜。海帶。牛蒡絲。毛豆四選一\n\n小菜跟味噌湯也不馬虎\n好吃好喝\n\n菜單上沒有賣飲料\n問外場妹妹才知道有可樂跟什麼我忘了\n（老人記性差😅😅😅）\n如果都不愛\n可以去旁邊便利商店買\n\n希望哪天老闆想趁機休息一下\n把店內用餐環境整修的更舒適就更棒了\n\n店內位子不多\n侯位可以留電話然後去旁邊的全家吹冷氣等呦",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "網路上看到介紹感覺很厲害\n在買給小孩吃之前\n自己先來試試\n結果真的好吃欸\n\n最出名的漢堡排飯\n上面連在一起的雙蛋半熟荷包蛋\n剛剛好的熟度\n剛剛好的包覆\n完美的覆蓋在漢堡排飯上面\n我個人是覺得光是這個功夫就挺厲害的\n再說說味道\n漢堡排外表微焦酥酥的口感\n不影響裡面的多汁Q彈\n香氣十足美味多汁\n整個垂直一口挖下來\n半熟蛋+漢堡排+醬汁+白飯\n真的非常好吃\n如果旁邊能放點清燙的\n花椰菜。玉米筍。小蕃茄\n營養均衡。視覺效果都會更加分\n\n雖然只有一個人用餐\n還是忍不住另外加點了沖繩炒苦瓜跟明太子玉子燒\n反正吃不完就打包回家當晚餐囉\n😂😂😂\n\n沖繩炒苦瓜有\n微微回甘的苦味\n搭配豬肉片跟蛋一起炒\n味道很不錯呢\n\n明太子玉子燒\n覺得軟嫩度\n鹹甜度都蠻剛好的\n是我喜歡的玉子燒\n（有些地方的玉子燒會太甜或太紮實）\n但如果可以把明太子擠在玉子燒上面\n用噴槍炙燒一下的方式\n個人覺得可以增加明太子的香氣\n會更加美味\n\n以上試吃的品項都覺得挺滿意的\n結帳時直接預訂一份晚餐給兒子放學吃😄😄😄\n\n每個主餐會附一份小菜跟味噌湯\n小菜有泡菜。海帶。牛蒡絲。毛豆四選一\n\n小菜跟味噌湯也不馬虎\n好吃好喝\n\n菜單上沒有賣飲料\n問外場妹妹才知道有可樂跟什麼我忘了\n（老人記性差😅😅😅）\n如果都不愛\n可以去旁邊便利商店買\n\n希望哪天老闆想趁機休息一下\n把店內用餐環境整修的更舒適就更棒了\n\n店內位子不多\n侯位可以留電話然後去旁邊的全家吹冷氣等呦",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "曾敬欽",
+        "uri": "https://www.google.com/maps/contrib/114805832569738798214/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVd3RB2yRWU5hj3ToOtfYhRWBoXvEUFdfJUvX1vpj7Jfgmk2GV8qw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2024-05-27T05:13:45.760Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURUdzh6SU1REAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURUdzh6SU1REAE!2m1!1s0x3442afaddae5e515:0x55b6736ee060c7c"
+    },
+    {
+      "name": "places/ChIJFeXl2q2vQjQRfAwG7jZnWwU/reviews/Ci9DQUlRQUNvZENodHljRjlvT200MlExQldhVFJhVVdWdWRIQmpWelJ6WmxOVlVIYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 3,
+      "text": {
+        "text": "有雙未熟蛋，漢堡排本身是厚實的，內有些許洋蔥末，沒調味，有些微醬汁，一碗附湯小小盤小菜，吃過一次即可，再訪外帶雙子丼飯，醬汁調味適當，雞肉軟嫩的，豬排微調味，還不錯，",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "有雙未熟蛋，漢堡排本身是厚實的，內有些許洋蔥末，沒調味，有些微醬汁，一碗附湯小小盤小菜，吃過一次即可，再訪外帶雙子丼飯，醬汁調味適當，雞肉軟嫩的，豬排微調味，還不錯，",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "吳小",
+        "uri": "https://www.google.com/maps/contrib/115973524482225516171/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLNFM8Cbk8pL-KyFW46AkhJyO33gWMTFgLIYgn0ThfpJ375Bg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-08-15T06:13:11.183201142Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT200MlExQldhVFJhVVdWdWRIQmpWelJ6WmxOVlVIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT200MlExQldhVFJhVVdWdWRIQmpWelJ6WmxOVlVIYxAB!2m1!1s0x3442afaddae5e515:0x55b6736ee060c7c"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

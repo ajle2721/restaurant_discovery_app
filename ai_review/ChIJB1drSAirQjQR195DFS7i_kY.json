@@ -1,0 +1,55 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "店面雖不大，但環境清雅舒服。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "Google Maps Attributes: No menu for children",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "No",
+        "evidence": "Google Maps Attributes: Not good for children; 適合久坐安靜看書辦公。",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "Google Maps Attributes: No menu for children",
+        "Google Maps Attributes: Not good for children",
+        "店面雖不大，但環境清雅舒服。",
+        "環境不大但很舒適，適合久坐安靜看書辦公",
+        "Google Maps Attributes: Not good for children; 適合久坐安靜看書辦公。",
+        "店面雖不大，但環境清雅舒服"
+    ],
+    "generated_summary": "Roffy's Café 空間較為精緻小巧，氛圍安靜舒適，適合個人辦公或閱讀，但根據 Google Maps 官方標記，該店並不適合兒童，且未提供兒童餐點，建議攜帶幼童的家長評估後再前往。",
+    "card_summary": ""
+}

@@ -1,0 +1,132 @@
+{
+  "id": "ChIJe6MIKuSrQjQRXf1hfwIiNL4",
+  "types": [
+    "pizza_restaurant",
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "105台灣台北市松山區八德路三段76號中崙市場2楼45號",
+  "location": {
+    "latitude": 25.0478728,
+    "longitude": 121.55274390000001
+  },
+  "rating": 5,
+  "websiteUri": "https://lin.ee/gKJqxF9",
+  "userRatingCount": 28,
+  "displayName": {
+    "text": "幸福咬一口",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJe6MIKuSrQjQRXf1hfwIiNL4/reviews/Ci9DQUlRQUNvZENodHljRjlvT20wMVpVSkxaMFZKVEUweVRtaHliMEpFYW1adE5tYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "披薩非常好吃！CP值很高\n推薦義式香料橄欖節瓜披薩",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "披薩非常好吃！CP值很高\n推薦義式香料橄欖節瓜披薩",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "王亭惠 Nat",
+        "uri": "https://www.google.com/maps/contrib/111528869170643279079/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUDeI637uBZWjf4_5Lkt3H9CDDNaxTpGai6o5glhlj1zfr4rmCb6w=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-30T11:26:35.057834343Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20wMVpVSkxaMFZKVEUweVRtaHliMEpFYW1adE5tYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20wMVpVSkxaMFZKVEUweVRtaHliMEpFYW1adE5tYxAB!2m1!1s0x3442abe42a08a37b:0xbe3422027f61fd5d"
+    },
+    {
+      "name": "places/ChIJe6MIKuSrQjQRXf1hfwIiNL4/reviews/ChdDSUhNMG9nS0VJQ0FnTURJb011QndnRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "**現烤披薩——新鮮出爐的幸福美味**\n使用高品質小麥麵粉，打造出外酥內軟的披薩餅底，搭配純正橄欖油增添香氣與口感。闆娘堅持現場製作，從揉麵、發酵到入爐烘烤，每一步都由專業、精心掌控，確保每一口都能品嚐到新鮮與美味。\n\n無論是經典口味或創意搭配，現烤披薩都能滿足挑剔的味蕾，這個下午好友們一起品嚐熱騰騰、香氣四溢的披薩，享受美食的純粹幸福！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "**現烤披薩——新鮮出爐的幸福美味**\n使用高品質小麥麵粉，打造出外酥內軟的披薩餅底，搭配純正橄欖油增添香氣與口感。闆娘堅持現場製作，從揉麵、發酵到入爐烘烤，每一步都由專業、精心掌控，確保每一口都能品嚐到新鮮與美味。\n\n無論是經典口味或創意搭配，現烤披薩都能滿足挑剔的味蕾，這個下午好友們一起品嚐熱騰騰、香氣四溢的披薩，享受美食的純粹幸福！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "KK KK",
+        "uri": "https://www.google.com/maps/contrib/106368158312724464981/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIiS_2EMxez-A0DjzIKgr1HM4smnOP6tPd-N8EQSIM7eGo9eQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-04-06T13:35:59.462573Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJb011QndnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJb011QndnRRAB!2m1!1s0x3442abe42a08a37b:0xbe3422027f61fd5d"
+    },
+    {
+      "name": "places/ChIJe6MIKuSrQjQRXf1hfwIiNL4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CZk1IbFFNMWR1UjFoWGVrRk9PQzAzVVc1UWVIYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "叫的外送 👍🏻\n\n餅皮很Q彈 是那種手工現做的餅皮 😍\n\n基本款的瑪格麗特表現相當出色\n已經讓我忍不住嗑了一半才想起來要拍照 📷\n\n彩蔬蒜香蝦仁我也大推 👍🏻\n有櫛瓜跟彩椒還有洋蔥的搭配 吃起來很清爽\n配合蒜醬及蠻大隻的蝦仁 🤤\n\n這兩款我大推 👍🏻\n下次會常常下單訂購的 😍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "叫的外送 👍🏻\n\n餅皮很Q彈 是那種手工現做的餅皮 😍\n\n基本款的瑪格麗特表現相當出色\n已經讓我忍不住嗑了一半才想起來要拍照 📷\n\n彩蔬蒜香蝦仁我也大推 👍🏻\n有櫛瓜跟彩椒還有洋蔥的搭配 吃起來很清爽\n配合蒜醬及蠻大隻的蝦仁 🤤\n\n這兩款我大推 👍🏻\n下次會常常下單訂購的 😍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "kuang1201",
+        "uri": "https://www.google.com/maps/contrib/102221778152235670928/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVB_VT4lw0ylUVfKVVAsRYMv0HBVWIGK8Q1mOxhfbHUBBj6pWZy=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-09-17T13:17:19.165937093Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CZk1IbFFNMWR1UjFoWGVrRk9PQzAzVVc1UWVIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CZk1IbFFNMWR1UjFoWGVrRk9PQzAzVVc1UWVIYxAB!2m1!1s0x3442abe42a08a37b:0xbe3422027f61fd5d"
+    },
+    {
+      "name": "places/ChIJe6MIKuSrQjQRXf1hfwIiNL4/reviews/ChdDSUhNMG9nS0VJQ0FnTURJb0llc3lnRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "《幸福咬一口》\n隱藏在南港巷弄中的手作廚房，美麗老闆娘手工製作超厲害餅皮，現烤現吃，有幸福的感覺⋯😋😋😋\n每個都超好吃，個人推薦毛豆燻鮭魚、墨椒起司燻腸、蜂蜜綜合起司，還可以提供客製化口味⋯👍👍👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "《幸福咬一口》\n隱藏在南港巷弄中的手作廚房，美麗老闆娘手工製作超厲害餅皮，現烤現吃，有幸福的感覺⋯😋😋😋\n每個都超好吃，個人推薦毛豆燻鮭魚、墨椒起司燻腸、蜂蜜綜合起司，還可以提供客製化口味⋯👍👍👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃小菁",
+        "uri": "https://www.google.com/maps/contrib/115834042899590660838/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJUD8MsweApUce75-bgjTLSxI5Weaay7CBi-XGyRvYt15XL=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-04-06T09:17:06.196787Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJb0llc3lnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJb0llc3lnRRAB!2m1!1s0x3442abe42a08a37b:0xbe3422027f61fd5d"
+    },
+    {
+      "name": "places/ChIJe6MIKuSrQjQRXf1hfwIiNL4/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sMWFVVjZSR0Z5ZUcxbFpHVjFhVmRwYUVsNFRXYxAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第一次在uber eats點的 彩蔬鮮蝦的披薩\n非常驚艷好吃！！\n\n喜歡蝦子和窯烤pizza的人不能錯過",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次在uber eats點的 彩蔬鮮蝦的披薩\n非常驚艷好吃！！\n\n喜歡蝦子和窯烤pizza的人不能錯過",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Nancy Hu",
+        "uri": "https://www.google.com/maps/contrib/111664414853518408905/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJxxxtcBMGHvZ4Oblh4xYEAky5SCXn-RXq5oU_v17uOxeT3FQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-06-21T11:20:54.158921971Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sMWFVVjZSR0Z5ZUcxbFpHVjFhVmRwYUVsNFRXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sMWFVVjZSR0Z5ZUcxbFpHVjFhVmRwYUVsNFRXYxAB!2m1!1s0x3442abe42a08a37b:0xbe3422027f61fd5d"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

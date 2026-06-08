@@ -1,0 +1,131 @@
+{
+  "id": "ChIJ8epsy7yrQjQR1vvmumSvIvM",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2789 0286",
+  "formattedAddress": "115台灣臺北市南港區新光里昆陽街157巷13號1樓",
+  "location": {
+    "latitude": 25.049965999999998,
+    "longitude": 121.5946211
+  },
+  "rating": 4.6,
+  "websiteUri": "https://lin.ee/n01ld8f",
+  "userRatingCount": 67,
+  "displayName": {
+    "text": "樂福廚房❤️昆陽店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ8epsy7yrQjQR1vvmumSvIvM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SaWNTMHhMV0pvYVRkdU4yWk5ZVFZmZWs0eWNIYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "在附近攝影棚拍攝時發現的美味便當！\n感謝老闆在line上的即時回覆，也盡量滿足我們的需求！\n外送細心、準時、配菜豐盛美味、價格也十分可愛。\n真是令人滿足的營養午餐😋👍🏻",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在附近攝影棚拍攝時發現的美味便當！\n感謝老闆在line上的即時回覆，也盡量滿足我們的需求！\n外送細心、準時、配菜豐盛美味、價格也十分可愛。\n真是令人滿足的營養午餐😋👍🏻",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "LFY",
+        "uri": "https://www.google.com/maps/contrib/114772186319698794540/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIrWLlw-Ppzqc4z6SQx9468Qow1eK16VbGX4YZy0Ox-CkX1Fg=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-05T10:42:22.571430672Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SaWNTMHhMV0pvYVRkdU4yWk5ZVFZmZWs0eWNIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SaWNTMHhMV0pvYVRkdU4yWk5ZVFZmZWs0eWNIYxAB!2m1!1s0x3442abbccb6ceaf1:0xf322af64bae6fbd6"
+    },
+    {
+      "name": "places/ChIJ8epsy7yrQjQR1vvmumSvIvM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNiajlmVk9BEAE",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "昆陽站週邊的健康便當\n色彩繽紛 營養滿分\n一個主菜 周圍竟然有八樣配菜\n真的是誠意滿滿\n每樣都是原型食物 吃到原味\n還有黑豆和小魚乾\n米飯很Q會彈牙\n配上很下飯的三杯雞\n真的會一口接一口 一下就吃光光\n整個清爽 一點都不油膩\n對上班族來說 真的很感恩\n有這麼棒的美味\n補充一餐所需的能量\n對了 都是外帶 沒有內用\n老闆都很親切客氣 動作也快速\n建議先預訂 以免久候\n門口也有預先裝好的便當\n可以直接帶走 很方便",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "昆陽站週邊的健康便當\n色彩繽紛 營養滿分\n一個主菜 周圍竟然有八樣配菜\n真的是誠意滿滿\n每樣都是原型食物 吃到原味\n還有黑豆和小魚乾\n米飯很Q會彈牙\n配上很下飯的三杯雞\n真的會一口接一口 一下就吃光光\n整個清爽 一點都不油膩\n對上班族來說 真的很感恩\n有這麼棒的美味\n補充一餐所需的能量\n對了 都是外帶 沒有內用\n老闆都很親切客氣 動作也快速\n建議先預訂 以免久候\n門口也有預先裝好的便當\n可以直接帶走 很方便",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "jill wang",
+        "uri": "https://www.google.com/maps/contrib/102799982512806717062/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXKatiQgWCZKyju80UERu_wRnb9tnLgmoZqfEfkjG7qSGrK6VUREg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-08-14T11:32:40.573490329Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNiajlmVk9BEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNiajlmVk9BEAE!2m1!1s0x3442abbccb6ceaf1:0xf322af64bae6fbd6"
+    },
+    {
+      "name": "places/ChIJ8epsy7yrQjQR1vvmumSvIvM/reviews/ChZDSUhNMG9nS0VJQ0FnSURYdmJxakxnEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "看了二週 googlemap 大家分享的樂褔廚房餐盒，因收藏買賣腕錶已28年，現在忠孝東路四段開店15年，沒請店員所以常買餐盒店裡吃，而疫情後營業時間改成15:00～19:00，家住汐止區摩天鎮大同路三段，都是14：00後出門，今天10月30日，特別\n早起出門為了樂褔餐盒，非常精緻的多樣性配菜，尤其黑豆、毛豆難在餐盒出現，今天先買四盒試試，真心推薦百元多些無敵良心營養均衡配菜，我必成回頭客好吃不膩，如同店沒無誤 LOVE FOOD 愛心食材♡",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "看了二週 googlemap 大家分享的樂褔廚房餐盒，因收藏買賣腕錶已28年，現在忠孝東路四段開店15年，沒請店員所以常買餐盒店裡吃，而疫情後營業時間改成15:00～19:00，家住汐止區摩天鎮大同路三段，都是14：00後出門，今天10月30日，特別\n早起出門為了樂褔餐盒，非常精緻的多樣性配菜，尤其黑豆、毛豆難在餐盒出現，今天先買四盒試試，真心推薦百元多些無敵良心營養均衡配菜，我必成回頭客好吃不膩，如同店沒無誤 LOVE FOOD 愛心食材♡",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Tu Russell",
+        "uri": "https://www.google.com/maps/contrib/116059165220831552236/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIRpEEi3oUzN7a98oqkh6F4G4KKj7V9wGpcL5NgaJMA2kTWVQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2024-10-30T11:02:52.279133Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURYdmJxakxnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURYdmJxakxnEAE!2m1!1s0x3442abbccb6ceaf1:0xf322af64bae6fbd6"
+    },
+    {
+      "name": "places/ChIJ8epsy7yrQjQR1vvmumSvIvM/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzX2RxaDhnRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 1,
+      "text": {
+        "text": "已經吃完才想到，借用一下別人的照片\n\n把這東西取名叫椒麻里肌....是你們做錯了？還是我誤會了什麼？\n\n建議改為炸豬排飯佐洋蔥會比較合適",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "已經吃完才想到，借用一下別人的照片\n\n把這東西取名叫椒麻里肌....是你們做錯了？還是我誤會了什麼？\n\n建議改為炸豬排飯佐洋蔥會比較合適",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "阿斯蘭",
+        "uri": "https://www.google.com/maps/contrib/106719316844042885554/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVJhfF-V-FIawLEEtKqRcIF1ava5YaxkAU-0DcYHXrK66-BouTKLg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2024-11-18T04:36:28.433285Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzX2RxaDhnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzX2RxaDhnRRAB!2m1!1s0x3442abbccb6ceaf1:0xf322af64bae6fbd6"
+    },
+    {
+      "name": "places/ChIJ8epsy7yrQjQR1vvmumSvIvM/reviews/ChZDSUhNMG9nS0VJQ0FnSURXek5MOU5BEAE",
+      "relativePublishTimeDescription": "4 年前",
+      "rating": 5,
+      "text": {
+        "text": "一個便當+一碗湯才售價100，內容物豐富又好吃，友人點松露雞腿排便當（150元），雞腿居然是無骨的，而且很大隻。\n\n剛剛開無意間看到的店面，本來不抱期望，沒想到便當這麼好吃，真是意外的收穫。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一個便當+一碗湯才售價100，內容物豐富又好吃，友人點松露雞腿排便當（150元），雞腿居然是無骨的，而且很大隻。\n\n剛剛開無意間看到的店面，本來不抱期望，沒想到便當這麼好吃，真是意外的收穫。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "C Rabbit",
+        "uri": "https://www.google.com/maps/contrib/109378272226630562206/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIrj41e2YeWvOVkDB0p-36Suee_0RK8hxUSxT0fEZuwJv7cnQ=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2022-03-17T05:12:53.856208Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURXek5MOU5BEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURXek5MOU5BEAE!2m1!1s0x3442abbccb6ceaf1:0xf322af64bae6fbd6"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

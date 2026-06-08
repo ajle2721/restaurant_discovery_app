@@ -1,0 +1,52 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "店內空間略顯擁擠",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "No",
+        "evidence": "Google Maps Attributes: Not good for children (官方標記：不適合兒童)",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "因爲有些客人帶著孩子來象山踏青，順便餐廳午餐，所以內裡孩子哭鬧喊叫，還真有點吵。",
+        "Google Maps Attributes: Not good for children (官方標記：不適合兒童)",
+        "店內空間略顯擁擠"
+    ],
+    "generated_summary": "紐澳良小廚信義象山店環境較為溫馨但空間略顯擁擠。根據官方標記，該餐廳被歸類為不適合兒童，且評論中提到店內若有孩童哭鬧會顯得較為吵雜。目前評論中未提及兒童椅、兒童餐、遊戲區或尿布台等親子友善設施。",
+    "card_summary": ""
+}

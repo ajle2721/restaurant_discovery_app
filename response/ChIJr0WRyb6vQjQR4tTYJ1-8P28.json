@@ -1,0 +1,131 @@
+{
+  "id": "ChIJr0WRyb6vQjQR4tTYJ1-8P28",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2897 5522",
+  "formattedAddress": "112台灣臺北市北投區八仙里中央南路二段33-1號",
+  "location": {
+    "latitude": 25.124903699999997,
+    "longitude": 121.50047769999999
+  },
+  "rating": 4.3,
+  "websiteUri": "https://www.facebook.com/eggbrunchbeitou",
+  "userRatingCount": 170,
+  "displayName": {
+    "text": "EGG BRUNCH 小蛋布朗奇",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJr0WRyb6vQjQR4tTYJ1-8P28/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKTlZWcE5aRVJOV0hVMlZtaDJTbXRsYTJKUlNrRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 2,
+      "text": {
+        "text": "醬很濃郁很多，吃完幾乎盤底都還有很多醬可以再拌麵的那種\n迎接我們的是一個女生員工，蠻親切的\n\n後來餐點上來開始吃，就聽到廚房有人在教訓員工，罵員工腦袋有問題\n指導教育員工沒有不行，但音量已經大到外面聽的一清二楚，言語也沒有很好聽，後面還甩門，超級尷尬很影響食慾跟心情\n義大利麵突然沒有這麼美味了",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "醬很濃郁很多，吃完幾乎盤底都還有很多醬可以再拌麵的那種\n迎接我們的是一個女生員工，蠻親切的\n\n後來餐點上來開始吃，就聽到廚房有人在教訓員工，罵員工腦袋有問題\n指導教育員工沒有不行，但音量已經大到外面聽的一清二楚，言語也沒有很好聽，後面還甩門，超級尷尬很影響食慾跟心情\n義大利麵突然沒有這麼美味了",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "周亭羽",
+        "uri": "https://www.google.com/maps/contrib/102549585179325664283/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWV8urBgQOudDod_NOluDTFWmCTFOMxBo5ZYvoj1nZ90Y18rXrb4Q=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-28T06:28:33.443859241Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKTlZWcE5aRVJOV0hVMlZtaDJTbXRsYTJKUlNrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKTlZWcE5aRVJOV0hVMlZtaDJTbXRsYTJKUlNrRRAB!2m1!1s0x3442afbec99145af:0x6f3fbc5f27d8d4e2"
+    },
+    {
+      "name": "places/ChIJr0WRyb6vQjQR4tTYJ1-8P28/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBbkp1TWdnRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "餐點都好吃，咖哩微辣到小辣。咔啦雞中辣，吃到臉都通紅，需要休息。骰子牛、荷包蛋很讚，熟度剛剛好。沒有拍到薯條，薯條很讚。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點都好吃，咖哩微辣到小辣。咔啦雞中辣，吃到臉都通紅，需要休息。骰子牛、荷包蛋很讚，熟度剛剛好。沒有拍到薯條，薯條很讚。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "李小玲",
+        "uri": "https://www.google.com/maps/contrib/104902326193238473365/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXsRgyPe9A1nePuWKpDpd2SO2I5DcpcdkUqO9UscYUC9jR5uL_VgA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-02-01T07:56:29.118685Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBbkp1TWdnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBbkp1TWdnRRAB!2m1!1s0x3442afbec99145af:0x6f3fbc5f27d8d4e2"
+    },
+    {
+      "name": "places/ChIJr0WRyb6vQjQR4tTYJ1-8P28/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkV1FVUTVWUzFITkdsa1lUZG9aMlpNVG1odk1tYxAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 1,
+      "text": {
+        "text": "義大利麵太鹹，吃完口很渴。\n蒜香野菇清炒是裡面一堆湯水的。\n服務態度挺可怕的，其實不用服務多親切，甚至可以接受冷漠，但言詞帶攻擊性就真的不行欸。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "義大利麵太鹹，吃完口很渴。\n蒜香野菇清炒是裡面一堆湯水的。\n服務態度挺可怕的，其實不用服務多親切，甚至可以接受冷漠，但言詞帶攻擊性就真的不行欸。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jei Han",
+        "uri": "https://www.google.com/maps/contrib/109831776124951141482/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWCGMKu00bSwMUrl8zYW16T2G6TlNvLmbq5bJMSqkhJH6S4hJDPKg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-06-18T06:01:24.173686959Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkV1FVUTVWUzFITkdsa1lUZG9aMlpNVG1odk1tYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkV1FVUTVWUzFITkdsa1lUZG9aMlpNVG1odk1tYxAB!2m1!1s0x3442afbec99145af:0x6f3fbc5f27d8d4e2"
+    },
+    {
+      "name": "places/ChIJr0WRyb6vQjQR4tTYJ1-8P28/reviews/ChZDSUhNMG9nS0VJQ0FnTUNBdXFYZUVREAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "紅、青以及白醬表現優秀，食材調理的也很到位，火鍋也能滿足想喝湯的胃，店面乾淨，物超所值的好店。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "紅、青以及白醬表現優秀，食材調理的也很到位，火鍋也能滿足想喝湯的胃，店面乾淨，物超所值的好店。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "沈厚鈞",
+        "uri": "https://www.google.com/maps/contrib/114076582454810614528/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKwGJ-MSzimSF6NIR2YFZ48j6ixZWMKRvK8RQkkPIfRxmCZGQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-01-31T05:46:14.641779Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNBdXFYZUVREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNBdXFYZUVREAE!2m1!1s0x3442afbec99145af:0x6f3fbc5f27d8d4e2"
+    },
+    {
+      "name": "places/ChIJr0WRyb6vQjQR4tTYJ1-8P28/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBcE9MdWhnRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "份量大的超有誠意，咖哩是老闆特調，帶有一些微辣口感超下飯。食材很講究，現點現做，新鮮美味。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "份量大的超有誠意，咖哩是老闆特調，帶有一些微辣口感超下飯。食材很講究，現點現做，新鮮美味。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "shihyang wu",
+        "uri": "https://www.google.com/maps/contrib/102115128191175385073/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVhQnhDqdTTC6DyTWphO0uHrwiLbosJksRjqz7JDKkK-v3hYPY=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-01-29T17:00:47.276898Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBcE9MdWhnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBcE9MdWhnRRAB!2m1!1s0x3442afbec99145af:0x6f3fbc5f27d8d4e2"
+    }
+  ],
+  "goodForChildren": true
+}

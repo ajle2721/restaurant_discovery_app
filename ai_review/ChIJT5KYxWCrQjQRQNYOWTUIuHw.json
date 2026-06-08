@@ -1,0 +1,52 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "用餐環境普通，桌椅也一般，沒有特別裝潢，桌距還有點近。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "No menu for children (官方標記：不提供兒童餐)",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Yes",
+        "evidence": "台北極度預約困難店，包場人數可以容納20位。",
+        "confidence": 0.9
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "用餐環境普通，桌椅也一般，沒有特別裝潢，桌距還有點近。",
+        "No menu for children (官方標記：不提供兒童餐)",
+        "台北極度預約困難店，包場人數可以容納20位。"
+    ],
+    "generated_summary": "花滔廚房為預約困難的熱門餐廳，店內空間較為緊湊且桌距較近，官方已明確標示不提供兒童餐。目前評論中較少提及與親子用餐相關的具體設施（如兒童椅、尿布台或兒童餐具），建議前往前可先向店家確認。",
+    "card_summary": ""
+}

@@ -1,0 +1,55 @@
+{
+    " child_seat available": {
+        "result": "Yes",
+        "evidence": "提供哺乳室、兒童椅、兒童餐具、尿布台、兒童遊樂區",
+        "confidence": 1.0
+    },
+    "Spacious seating": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": "Menu for children (官方標記：提供兒童餐)",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "Good for children (官方標記：適合兒童)；親子友善、寵物友善",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Yes",
+        "evidence": "兒童遊戲區有門可以關上很棒😎（都是透明玻璃）才不會亂跑出去哈哈，還有提供好多玩具、電視可以看",
+        "confidence": 1.0
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Yes",
+        "evidence": "提供哺乳室、兒童椅、兒童餐具、尿布台、兒童遊樂區",
+        "confidence": 1.0
+    },
+    "has_diaper_table": {
+        "result": "Yes",
+        "evidence": "提供哺乳室、兒童椅、兒童餐具、尿布台、兒童遊樂區",
+        "confidence": 1.0
+    },
+    "parent_friendly_score": 4,
+    "parent_friendly_level": "高",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "親子友善、寵物友善",
+        "提供哺乳室、兒童椅、兒童餐具、尿布台、兒童遊樂區",
+        "Good for children (官方標記：適合兒童)；親子友善、寵物友善",
+        "Menu for children (官方標記：提供兒童餐)",
+        "兒童遊戲區有門可以關上很棒😎（都是透明玻璃）才不會亂跑出去哈哈，還有提供好多玩具、電視可以看",
+        "Good for children (官方標記：適合兒童)"
+    ],
+    "generated_summary": "Triple Cafe 是一間非常友善的親子餐廳，官方標記顯示適合兒童並提供兒童餐。店內設施完善，包含兒童椅、兒童餐具、尿布台以及哺乳室。特別值得一提的是，餐廳設有帶門的兒童遊戲區，並提供玩具與電視，讓家長能更安心用餐。",
+    "card_summary": ""
+}

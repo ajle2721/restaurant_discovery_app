@@ -1,0 +1,137 @@
+{
+  "id": "ChIJwxtW1ZirQjQR65ZbRCb6bk0",
+  "types": [
+    "breakfast_restaurant",
+    "brunch_restaurant",
+    "coffee_shop",
+    "cafe",
+    "food_store",
+    "restaurant",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2765 1515",
+  "formattedAddress": "110台灣臺北市信義區四育里虎林街57號",
+  "location": {
+    "latitude": 25.047268,
+    "longitude": 121.576931
+  },
+  "rating": 4.3,
+  "websiteUri": "http://www.redorange.com.tw/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 908,
+  "displayName": {
+    "text": "紅橘子精緻早午餐 信義虎林店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJwxtW1ZirQjQR65ZbRCb6bk0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xvNVFVcE1VSGxMVEhSdVRsaFVTM0JvWkdKNVRuYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "不同於一般早餐店，餐點內容獨特。好事花生貓吐司，花生醬厚實濃郁、炸基隆甜不辣外酥內嫩，期待下次回訪～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "不同於一般早餐店，餐點內容獨特。好事花生貓吐司，花生醬厚實濃郁、炸基隆甜不辣外酥內嫩，期待下次回訪～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張凱翔",
+        "uri": "https://www.google.com/maps/contrib/102231261342727771368/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKKjqbiSq7GuBm3rr5bS0vgi5pQfsvld0Vd-woEQxzphOajDQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-03-03T04:28:49.120075890Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xvNVFVcE1VSGxMVEhSdVRsaFVTM0JvWkdKNVRuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xvNVFVcE1VSGxMVEhSdVRsaFVTM0JvWkdKNVRuYxAB!2m1!1s0x3442ab98d5561bc3:0x4d6efa26445b96eb"
+    },
+    {
+      "name": "places/ChIJwxtW1ZirQjQR65ZbRCb6bk0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ndFFYSjBSV1p2V0RGcWRWWlJkVk52VG04MFpuYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "鮪魚蛋餅有加玉米，不是我喜歡的鮪魚，蛋餅吃起來蠻乾的，醬油也不是我喜歡的醬油\n巧克力薄片很好吃，抹醬抹的算多\n無糖豆漿濃郁好喝\n內用座位不多",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "鮪魚蛋餅有加玉米，不是我喜歡的鮪魚，蛋餅吃起來蠻乾的，醬油也不是我喜歡的醬油\n巧克力薄片很好吃，抹醬抹的算多\n無糖豆漿濃郁好喝\n內用座位不多",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Wei",
+        "uri": "https://www.google.com/maps/contrib/108066820792709329188/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-fKlVrmM6GJ1ApY0ZEfOLkXxeBU1NZfrF_MpXPDS464gKporf=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-18T01:09:10.400401666Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25ndFFYSjBSV1p2V0RGcWRWWlJkVk52VG04MFpuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ndFFYSjBSV1p2V0RGcWRWWlJkVk52VG04MFpuYxAB!2m1!1s0x3442ab98d5561bc3:0x4d6efa26445b96eb"
+    },
+    {
+      "name": "places/ChIJwxtW1ZirQjQR65ZbRCb6bk0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGZkxYRmlhV0kyZHpOc1oxaEJYMlUzVjJOVVUwRRAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 4,
+      "text": {
+        "text": "2025/6/13(五)早上，自己點了一份XO醬蘿蔔糕燴蛋餐(紅茶換豆漿，可以補差價)105元，整份搭配著醬料嚐起來算是不錯吃，而豆漿喝起來算順口。店內環境乾淨，有冷氣可以吹，可以用桌上的QRcode點餐。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2025/6/13(五)早上，自己點了一份XO醬蘿蔔糕燴蛋餐(紅茶換豆漿，可以補差價)105元，整份搭配著醬料嚐起來算是不錯吃，而豆漿喝起來算順口。店內環境乾淨，有冷氣可以吹，可以用桌上的QRcode點餐。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "徐一弘",
+        "uri": "https://www.google.com/maps/contrib/102641110393188398423/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLxRSWyIMORJo73lIpkO3dPA3Xo-r475MgyHzIBJEM6gnog4w=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-06-28T05:50:12.848425467Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGZkxYRmlhV0kyZHpOc1oxaEJYMlUzVjJOVVUwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGZkxYRmlhV0kyZHpOc1oxaEJYMlUzVjJOVVUwRRAB!2m1!1s0x3442ab98d5561bc3:0x4d6efa26445b96eb"
+    },
+    {
+      "name": "places/ChIJwxtW1ZirQjQR65ZbRCb6bk0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOYWVsUTRibVUyVW1wck0yWkxURVp5YW5WV09FRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "有點熱，紅茶蠻香的，奶茶普通其他餐點都中規中局",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "有點熱，紅茶蠻香的，奶茶普通其他餐點都中規中局",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "David謝（熱炒）",
+        "uri": "https://www.google.com/maps/contrib/113321560012190498139/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLN5jqOPQ2BukJonaz6MV44-jFp75SHXfrMAeQNpV0emSPUuA=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-11-16T10:48:03.073395187Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOYWVsUTRibVUyVW1wck0yWkxURVp5YW5WV09FRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOYWVsUTRibVUyVW1wck0yWkxURVp5YW5WV09FRRAB!2m1!1s0x3442ab98d5561bc3:0x4d6efa26445b96eb"
+    },
+    {
+      "name": "places/ChIJwxtW1ZirQjQR65ZbRCb6bk0/reviews/ChdDSUhNMG9nS0VJQ0FnSUM4M2VqOWpBRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "2024/11月更新\n好久沒更新的日記\n但我每週假日都有來\n今天點了一個一個多月前推出的「串燒鐵板麵」\n馬上想到之前跟阿姨聊天，他說老闆超愛吃肉🤣超好笑，真的是很愛吃肉耶哈哈哈\n讓我們也跟著享福！超級讚👍🏻\n阿姨推薦我要點甜不辣，説好吃到會上癮🤔\n今天沒吃，下週再來試試看，感覺上還不錯，因為隔壁情侶2個人點了3份！！！\n\n2024/4月更新\n看來應該要寫個紅橘子日記？\n連店裡阿姨都說我吃得比他還認真🤣\n今天吃宮保雞丁細麵鐵板麵\n蛋蛋一拿起來，下面滿滿的高麗菜，覺得超級讚👍🏻\n今天兒童節，阿姨還有送隔壁桌小孩禮物🎁\n阿姨說我不是兒童了沒有禮物🤣但最後還是送我一小包餅乾🍪So sweet☺️\n\n2024/3月更新\n太太太喜歡紅橘子了！\n東西好吃，而且常常用酒精擦桌子！\n桌椅都不會有油油膩膩的感覺\n超棒棒棒棒！\n最近新歡是格子脆薯\n———————————\n2023/12月更新\n最近新歡是糯米腸跟蘿蔔糕\n但今天還是吃鐵板麵哈哈哈，宮保雞丁超級好吃😋\n冬天喝玉米濃湯讚到爆👍🏻\n阿姨最近推薦我龍蝦沙拉的蛋餅…嗯…還沒吃過，改天來吃😆\n——\nN百年前的心得：\n雖然人很多，但是老闆娘還是很親切，速度也很快。\n這裡還有我家附近的紅橘子都沒有的起司磚👍🏻\n鮮奶茶一如既往地好喝😋😋😋\n-\n2023/1月 更新\n起司磚沒賣很久了…有點傷心\n但最近新推的貓咪生吐司超好吃！最喜歡葡萄奶酥跟酷脆可可（要買包餡的整條帶走要先訂）\n過年好像只休初一初二，太開心了！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2024/11月更新\n好久沒更新的日記\n但我每週假日都有來\n今天點了一個一個多月前推出的「串燒鐵板麵」\n馬上想到之前跟阿姨聊天，他說老闆超愛吃肉🤣超好笑，真的是很愛吃肉耶哈哈哈\n讓我們也跟著享福！超級讚👍🏻\n阿姨推薦我要點甜不辣，説好吃到會上癮🤔\n今天沒吃，下週再來試試看，感覺上還不錯，因為隔壁情侶2個人點了3份！！！\n\n2024/4月更新\n看來應該要寫個紅橘子日記？\n連店裡阿姨都說我吃得比他還認真🤣\n今天吃宮保雞丁細麵鐵板麵\n蛋蛋一拿起來，下面滿滿的高麗菜，覺得超級讚👍🏻\n今天兒童節，阿姨還有送隔壁桌小孩禮物🎁\n阿姨說我不是兒童了沒有禮物🤣但最後還是送我一小包餅乾🍪So sweet☺️\n\n2024/3月更新\n太太太喜歡紅橘子了！\n東西好吃，而且常常用酒精擦桌子！\n桌椅都不會有油油膩膩的感覺\n超棒棒棒棒！\n最近新歡是格子脆薯\n———————————\n2023/12月更新\n最近新歡是糯米腸跟蘿蔔糕\n但今天還是吃鐵板麵哈哈哈，宮保雞丁超級好吃😋\n冬天喝玉米濃湯讚到爆👍🏻\n阿姨最近推薦我龍蝦沙拉的蛋餅…嗯…還沒吃過，改天來吃😆\n——\nN百年前的心得：\n雖然人很多，但是老闆娘還是很親切，速度也很快。\n這裡還有我家附近的紅橘子都沒有的起司磚👍🏻\n鮮奶茶一如既往地好喝😋😋😋\n-\n2023/1月 更新\n起司磚沒賣很久了…有點傷心\n但最近新推的貓咪生吐司超好吃！最喜歡葡萄奶酥跟酷脆可可（要買包餡的整條帶走要先訂）\n過年好像只休初一初二，太開心了！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "靜",
+        "uri": "https://www.google.com/maps/contrib/105732815229260774168/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJuNUefrWet8RjX8uylirhVuZHDQGjy6-1Gc1C_o1OQvl3gwQ=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2024-11-29T06:20:00.938762Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM4M2VqOWpBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM4M2VqOWpBRRAB!2m1!1s0x3442ab98d5561bc3:0x4d6efa26445b96eb"
+    }
+  ],
+  "goodForChildren": true
+}

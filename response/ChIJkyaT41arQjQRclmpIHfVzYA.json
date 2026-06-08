@@ -1,0 +1,131 @@
+{
+  "id": "ChIJkyaT41arQjQRclmpIHfVzYA",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 967 276 762",
+  "formattedAddress": "105台灣臺北市松山區復勢里八德路三段155巷1號號1",
+  "location": {
+    "latitude": 25.048424999999998,
+    "longitude": 121.5549897
+  },
+  "rating": 4.7,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 952,
+  "displayName": {
+    "text": "HOW齊早午餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJkyaT41arQjQRclmpIHfVzYA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xZek4wNUpZbTlxZEhkTFdtMDJWR2xaTWpCUE5YYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "🙂 薯餅蛋餅蛋餅+切達起司：就是一般般的普通用料，不多不少👌，蛋餅真的煎的很脆💯，像磁磚摔掉在地上的那種脆感\n\n☑️支援多種電子支付\n☑️蛋餅可以選脆皮/軟的都可以\n☑️內用環境舒適，間距算寬👌",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "🙂 薯餅蛋餅蛋餅+切達起司：就是一般般的普通用料，不多不少👌，蛋餅真的煎的很脆💯，像磁磚摔掉在地上的那種脆感\n\n☑️支援多種電子支付\n☑️蛋餅可以選脆皮/軟的都可以\n☑️內用環境舒適，間距算寬👌",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hasa",
+        "uri": "https://www.google.com/maps/contrib/116770125000332908835/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVnd-vl2YuWliirKtrMBqkmOlPq6wdXzlZlI3B-JmxcSF0iArY=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-02-19T12:28:20.263992081Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xZek4wNUpZbTlxZEhkTFdtMDJWR2xaTWpCUE5YYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xZek4wNUpZbTlxZEhkTFdtMDJWR2xaTWpCUE5YYxAB!2m1!1s0x3442ab56e3932693:0x80cdd57720a95972"
+    },
+    {
+      "name": "places/ChIJkyaT41arQjQRclmpIHfVzYA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GQ1JEUmpSRVp1YzJZMVQwY3lSMVZHVUhFd2FtYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "便宜CP值高，服務不錯上餐點快，沒有特別驚艷，ㄧ般口味，菜單選澤挺多的有機會再吃別的看看。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "便宜CP值高，服務不錯上餐點快，沒有特別驚艷，ㄧ般口味，菜單選澤挺多的有機會再吃別的看看。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "blackYu",
+        "uri": "https://www.google.com/maps/contrib/112214530894118914523/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUl6ST7iOjRlv7UA61mBX62rAkWcjx5h23_DOzf2u-mbX64s18a=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-18T01:57:51.375524591Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GQ1JEUmpSRVp1YzJZMVQwY3lSMVZHVUhFd2FtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GQ1JEUmpSRVp1YzJZMVQwY3lSMVZHVUhFd2FtYxAB!2m1!1s0x3442ab56e3932693:0x80cdd57720a95972"
+    },
+    {
+      "name": "places/ChIJkyaT41arQjQRclmpIHfVzYA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SRmVWZHBOa1kxUTBWMGJsZFRaMmc0U0VGcE0wRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "是叫外送的單～脆皮蛋餅跟巧克力香蕉脆餅好吃，雖然已經完全冷掉了（距離家裡僅650公尺的外送🤣，不曉得怎麼回事），但鮮奶茶真真真真真的不好喝 🥺，雖然我是點半糖，但完全沒有奶味、蠻水的跟這個應該是無關…\n愛鮮奶茶的人的小小遺憾😔",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "是叫外送的單～脆皮蛋餅跟巧克力香蕉脆餅好吃，雖然已經完全冷掉了（距離家裡僅650公尺的外送🤣，不曉得怎麼回事），但鮮奶茶真真真真真的不好喝 🥺，雖然我是點半糖，但完全沒有奶味、蠻水的跟這個應該是無關…\n愛鮮奶茶的人的小小遺憾😔",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "李妍誼",
+        "uri": "https://www.google.com/maps/contrib/108080233176371390915/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWJypU2aodF2-dIzZSyBWkL9IxEZe0QHzjJuD4NBbDH7GY0djX3=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-01T03:03:13.177403562Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SRmVWZHBOa1kxUTBWMGJsZFRaMmc0U0VGcE0wRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SRmVWZHBOa1kxUTBWMGJsZFRaMmc0U0VGcE0wRRAB!2m1!1s0x3442ab56e3932693:0x80cdd57720a95972"
+    },
+    {
+      "name": "places/ChIJkyaT41arQjQRclmpIHfVzYA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aZlkyRklYM1ZIVTNwTmVpMVBhbFZMUzJkRWVGRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "店員很親切也很有耐心，點完餐再到櫃檯結帳，食材價格公道，天氣熱飲料可叫好幾杯，甜度是偏不甜的，我叫微糖都應該改半糖才會是外面微糖的甜度，這次叫的是大餐盤、法式吐司、蔬菜蔥抓餅，都蠻不錯的！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店員很親切也很有耐心，點完餐再到櫃檯結帳，食材價格公道，天氣熱飲料可叫好幾杯，甜度是偏不甜的，我叫微糖都應該改半糖才會是外面微糖的甜度，這次叫的是大餐盤、法式吐司、蔬菜蔥抓餅，都蠻不錯的！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Angel Liu",
+        "uri": "https://www.google.com/maps/contrib/102903047392238022878/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL3YNXLkawXWfjFnEFaECWHb33BF2EqBQRK6B-RWyyjaAG5tA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-08-12T04:36:08.343181764Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aZlkyRklYM1ZIVTNwTmVpMVBhbFZMUzJkRWVGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aZlkyRklYM1ZIVTNwTmVpMVBhbFZMUzJkRWVGRRAB!2m1!1s0x3442ab56e3932693:0x80cdd57720a95972"
+    },
+    {
+      "name": "places/ChIJkyaT41arQjQRclmpIHfVzYA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SV1kwSTBiemRCTWpOdmNrSkJUMjloTXpCa1FsRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "服務親切，自製肉醬起司蛋餅幾乎吃不到肉末，看的到番茄丁，番茄醬的味道重，皮很薄不會油，味道還可~\n下次應該會點其他的~\n鮮奶茶有特別的紅茶香，好喝",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "服務親切，自製肉醬起司蛋餅幾乎吃不到肉末，看的到番茄丁，番茄醬的味道重，皮很薄不會油，味道還可~\n下次應該會點其他的~\n鮮奶茶有特別的紅茶香，好喝",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "徐郁婷",
+        "uri": "https://www.google.com/maps/contrib/118335755189788641621/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJrCb7CvmCMLSMbd96TvHTn86-kW0SVXeCD5EJuBIO86rEAvQ=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-10T02:35:05.231061243Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SV1kwSTBiemRCTWpOdmNrSkJUMjloTXpCa1FsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SV1kwSTBiemRCTWpOdmNrSkJUMjloTXpCa1FsRRAB!2m1!1s0x3442ab56e3932693:0x80cdd57720a95972"
+    }
+  ],
+  "goodForChildren": true
+}

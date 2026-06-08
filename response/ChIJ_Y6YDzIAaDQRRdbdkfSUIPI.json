@@ -1,0 +1,133 @@
+{
+  "id": "ChIJ_Y6YDzIAaDQRRdbdkfSUIPI",
+  "types": [
+    "restaurant",
+    "tea_house",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2939 8333",
+  "formattedAddress": "116台灣臺北市文山區指南里指南路三段38巷20號",
+  "location": {
+    "latitude": 24.9673499,
+    "longitude": 121.5875723
+  },
+  "rating": 4.5,
+  "websiteUri": "https://www.facebook.com/%E8%B2%93%E7%A9%BA%E8%8C%B6%E8%A8%80%E8%A7%80%E8%88%8D-160947713967151/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 430,
+  "displayName": {
+    "text": "貓空茶言觀舍",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ_Y6YDzIAaDQRRdbdkfSUIPI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aNFVVNU9MVGMwVVRsNmNHOXNhV3haVm5SNlFXYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "離貓纜站走路大約5分鐘。\n店面不大，只有10張桌子，但很乾淨，整齊。若您們人數少，但坐到大桌，人多時可能會併桌。\n是室內的，看夜景普通。\n菜色種類中等，但每道菜（我們有點的）都很好吃。\n苦茶油雞湯，有濃郁的高粱酒香，煮了還是有些香味，真的好吃。只是自己開車或是有小孩的就比較不建議了。\n小饅頭一籠大概12個上下，種類很多。\n老闆很細心，看到我們有兩個小孩，每種口味都給兩個。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "離貓纜站走路大約5分鐘。\n店面不大，只有10張桌子，但很乾淨，整齊。若您們人數少，但坐到大桌，人多時可能會併桌。\n是室內的，看夜景普通。\n菜色種類中等，但每道菜（我們有點的）都很好吃。\n苦茶油雞湯，有濃郁的高粱酒香，煮了還是有些香味，真的好吃。只是自己開車或是有小孩的就比較不建議了。\n小饅頭一籠大概12個上下，種類很多。\n老闆很細心，看到我們有兩個小孩，每種口味都給兩個。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chiang Fu",
+        "uri": "https://www.google.com/maps/contrib/117539153496053627572/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXDyRuxNoUf28ExrDCO26zDcD-Ts-ly6jCNKk9bHTZflH6fmnjQ=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-28T06:36:07.989585920Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aNFVVNU9MVGMwVVRsNmNHOXNhV3haVm5SNlFXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aNFVVNU9MVGMwVVRsNmNHOXNhV3haVm5SNlFXYxAB!2m1!1s0x346800320f988efd:0xf22094f491ddd645"
+    },
+    {
+      "name": "places/ChIJ_Y6YDzIAaDQRRdbdkfSUIPI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OVk5HNXlSVWRrU0Vzd1pVdENjR3BHYUZSTFYzYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "2人點了三樣菜 味道不錯 不會很鹹\n假日中午人多 要等位子 要等出餐",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2人點了三樣菜 味道不錯 不會很鹹\n假日中午人多 要等位子 要等出餐",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "pamela JHANG",
+        "uri": "https://www.google.com/maps/contrib/108899921000912211819/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBdfzs7N60UoK_jbi1ZgEbtV472BuuvSiH8_nBYB4p2n88nUG5=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-03-08T08:47:16.632420753Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OVk5HNXlSVWRrU0Vzd1pVdENjR3BHYUZSTFYzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OVk5HNXlSVWRrU0Vzd1pVdENjR3BHYUZSTFYzYxAB!2m1!1s0x346800320f988efd:0xf22094f491ddd645"
+    },
+    {
+      "name": "places/ChIJ_Y6YDzIAaDQRRdbdkfSUIPI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toZmVFRk9PVVp6TlVWa1lYWk5hR05OVm5WeFpsRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "很喜歡這間店，被打理得窗明几淨，廁所也很乾淨。餐點很好吃，應該是這一帶最合我胃口的餐廳，價格也很合理，願意再次回訪！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很喜歡這間店，被打理得窗明几淨，廁所也很乾淨。餐點很好吃，應該是這一帶最合我胃口的餐廳，價格也很合理，願意再次回訪！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Herchin Tee",
+        "uri": "https://www.google.com/maps/contrib/102350327415446586098/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLBmW0nSkD8UdITD4eirth2DONT_dRfZT7v5FBrH1O8CuyoAg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-09-02T15:08:34.689151549Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toZmVFRk9PVVp6TlVWa1lYWk5hR05OVm5WeFpsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toZmVFRk9PVVp6TlVWa1lYWk5hR05OVm5WeFpsRRAB!2m1!1s0x346800320f988efd:0xf22094f491ddd645"
+    },
+    {
+      "name": "places/ChIJ_Y6YDzIAaDQRRdbdkfSUIPI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2preVYwMUVRalF6TlZCQmRtcHNhMnRuZFhGR09XYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "20251015SA1855 初訪 非常好吃\n特別推薦 得獎鐵觀音茶 茶油麵線 油雞 蒜泥白肉",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "20251015SA1855 初訪 非常好吃\n特別推薦 得獎鐵觀音茶 茶油麵線 油雞 蒜泥白肉",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Tension",
+        "uri": "https://www.google.com/maps/contrib/103363410250143960427/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXhhSz3Vj_v6_9yHbM5qJHeoE2p45fPVGYhO5BIgAKs8ej5ik1G=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-10-25T12:04:27.999959640Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2preVYwMUVRalF6TlZCQmRtcHNhMnRuZFhGR09XYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2preVYwMUVRalF6TlZCQmRtcHNhMnRuZFhGR09XYxAB!2m1!1s0x346800320f988efd:0xf22094f491ddd645"
+    },
+    {
+      "name": "places/ChIJ_Y6YDzIAaDQRRdbdkfSUIPI/reviews/ChdDSUhNMG9nS0VJQ0FnSURQbXQtdDJRRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "餐點很棒、有特色而且好吃。沒拍到的還有糖醋魚（是魚塊不是一整條，很適合小孩吃）、炒高麗菜！一定要點山藥人參雞湯和茶油麵線。\n另外，白飯也很好吃（個人喜歡軟ㄧ點的）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點很棒、有特色而且好吃。沒拍到的還有糖醋魚（是魚塊不是一整條，很適合小孩吃）、炒高麗菜！一定要點山藥人參雞湯和茶油麵線。\n另外，白飯也很好吃（個人喜歡軟ㄧ點的）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Solo Chou",
+        "uri": "https://www.google.com/maps/contrib/103131285676736817600/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL37N_rugyfTEcMcJziDnZHgBX1MTIMKzOxlqhDL3l9AvoK21E=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2024-12-01T08:58:04.290868Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURQbXQtdDJRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURQbXQtdDJRRRAB!2m1!1s0x346800320f988efd:0xf22094f491ddd645"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

@@ -1,0 +1,131 @@
+{
+  "id": "ChIJs4YuaK2vQjQRrvXDxF1AF0M",
+  "types": [
+    "breakfast_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2894 6161",
+  "formattedAddress": "112台灣臺北市北投區稻香里中央北路二段314號",
+  "location": {
+    "latitude": 25.138589999999997,
+    "longitude": 121.489858
+  },
+  "rating": 4.6,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 305,
+  "displayName": {
+    "text": "北投享樂早餐吧",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJs4YuaK2vQjQRrvXDxF1AF0M/reviews/Ci9DQUlRQUNvZENodHljRjlvT210clNXbHdSMkpXUWxJNFkzTnljbEV4ZVZGSFNrRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "店家的評價很高，就去吃看看。\n點了芋泥起司吐司和豬排肉蛋吐司，覺得價格不貴，而且很好吃。餐廳很乾淨，老闆也很好。很棒！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店家的評價很高，就去吃看看。\n點了芋泥起司吐司和豬排肉蛋吐司，覺得價格不貴，而且很好吃。餐廳很乾淨，老闆也很好。很棒！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Katrin Purnama",
+        "uri": "https://www.google.com/maps/contrib/112306825616257835831/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL9UgwokF9rMQeJh6D_Gz96_tGvnS5a6B5Ivmuok-Mxgp5hqQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-21T03:23:44.257541045Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210clNXbHdSMkpXUWxJNFkzTnljbEV4ZVZGSFNrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210clNXbHdSMkpXUWxJNFkzTnljbEV4ZVZGSFNrRRAB!2m1!1s0x3442afad682e86b3:0x4317405dc4c3f5ae"
+    },
+    {
+      "name": "places/ChIJs4YuaK2vQjQRrvXDxF1AF0M/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSWGVHZEVRbmgwWldaRVpHSmxUR3N5U2toT1RGRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "有到附近洽公，若適逢早餐時間都會來買，不好停車，所以都打電話訂外帶，這次吃的是鮪魚蛋吐司，鮪魚醬味道很夠，量也夠多加上生菜不會乾好吃（外面有的早餐店鮪魚醬都薄薄一層）奶茶好喝有茶香，不是外面那種奶精水的淡奶。\n重點是吐司包裝袋是有點厚度的牛皮紙袋，不是一般外面白色的防油紙袋，他們的沒有塗油層，這點很環保之外，也比較健康👍\n\n（太餓了吐司已經吃掉了🫢只剩袋子可以拍）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "有到附近洽公，若適逢早餐時間都會來買，不好停車，所以都打電話訂外帶，這次吃的是鮪魚蛋吐司，鮪魚醬味道很夠，量也夠多加上生菜不會乾好吃（外面有的早餐店鮪魚醬都薄薄一層）奶茶好喝有茶香，不是外面那種奶精水的淡奶。\n重點是吐司包裝袋是有點厚度的牛皮紙袋，不是一般外面白色的防油紙袋，他們的沒有塗油層，這點很環保之外，也比較健康👍\n\n（太餓了吐司已經吃掉了🫢只剩袋子可以拍）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "曉曉v",
+        "uri": "https://www.google.com/maps/contrib/103097731523407759293/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJe5fMDBHTyaIdWc2FbPWLowO-AHuNjJ7xSEkaHLjeaNb3MiA=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-10-02T12:29:02.695028814Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSWGVHZEVRbmgwWldaRVpHSmxUR3N5U2toT1RGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSWGVHZEVRbmgwWldaRVpHSmxUR3N5U2toT1RGRRAB!2m1!1s0x3442afad682e86b3:0x4317405dc4c3f5ae"
+    },
+    {
+      "name": "places/ChIJs4YuaK2vQjQRrvXDxF1AF0M/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aTllVRTNZMDEzV0VZd1NtSnFkamxIVkZoMWJrRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "好吃親切 真材實料 環境乾淨\n有機會的話還會再來\n店家有超大10元 很酷",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "好吃親切 真材實料 環境乾淨\n有機會的話還會再來\n店家有超大10元 很酷",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "L",
+        "uri": "https://www.google.com/maps/contrib/105929241964797254567/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWHBXC9NOfuAJkhQAHB8ac85iHCEq4BVZZmCCvAK7GlUiMaDKTQ=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-02-14T06:44:55.320315990Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aTllVRTNZMDEzV0VZd1NtSnFkamxIVkZoMWJrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aTllVRTNZMDEzV0VZd1NtSnFkamxIVkZoMWJrRRAB!2m1!1s0x3442afad682e86b3:0x4317405dc4c3f5ae"
+    },
+    {
+      "name": "places/ChIJs4YuaK2vQjQRrvXDxF1AF0M/reviews/Ci9DQUlRQUNvZENodHljRjlvT214WVlqZHZiM0Y0UzFnM2FISklibFk1T1dsNVJXYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "從當兵的時候就開始來這裡吃了退伍以後有空就會來這裡吃一下老闆也還記得我非常的熱情，有時候還會送我飲料，重點是起司蛋餅超級好吃😎😎😎",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "從當兵的時候就開始來這裡吃了退伍以後有空就會來這裡吃一下老闆也還記得我非常的熱情，有時候還會送我飲料，重點是起司蛋餅超級好吃😎😎😎",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "維仔",
+        "uri": "https://www.google.com/maps/contrib/112089716024933316581/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUyTvlL6cyF-3Y-AgpZ13A2_ZqSCknwgywMdVNji5AhnUgBo87M=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-23T23:57:10.822862423Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214WVlqZHZiM0Y0UzFnM2FISklibFk1T1dsNVJXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214WVlqZHZiM0Y0UzFnM2FISklibFk1T1dsNVJXYxAB!2m1!1s0x3442afad682e86b3:0x4317405dc4c3f5ae"
+    },
+    {
+      "name": "places/ChIJs4YuaK2vQjQRrvXDxF1AF0M/reviews/ChZDSUhNMG9nS0VJQ0FnSUNiNi1UM1BREAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "方圓百里內評價最高的早餐店。雖然貌不驚人，但是吃起來味道與一般早餐店不一樣；我難得一點調味醬都不需要用，也能吃到個中滋味。蛋餅皮不油，略為粉粉的，很棒！不膩。蔥餅和蘿蔔糕也好好吃，大推薦。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "方圓百里內評價最高的早餐店。雖然貌不驚人，但是吃起來味道與一般早餐店不一樣；我難得一點調味醬都不需要用，也能吃到個中滋味。蛋餅皮不油，略為粉粉的，很棒！不膩。蔥餅和蘿蔔糕也好好吃，大推薦。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "L T",
+        "uri": "https://www.google.com/maps/contrib/112110156329686145280/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU9cPB2M34kPIffe-YUGZqdfgXPAKQa01hi-_WtwsbOXg-D03G9=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2024-07-30T03:03:16.480107Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNiNi1UM1BREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNiNi1UM1BREAE!2m1!1s0x3442afad682e86b3:0x4317405dc4c3f5ae"
+    }
+  ],
+  "goodForChildren": true
+}

@@ -1,0 +1,52 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "位子不多 ，廁所只有一間，小小的。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "No menu for children (官方標記：不提供兒童餐)",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "No",
+        "evidence": "Not good for children (官方標記：不適合兒童)",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": -2,
+    "parent_friendly_level": "資訊不足",
+    "reason": "人工校正與AI綜合評估",
+    "generated_signals": [
+        "Not good for children (官方標記：不適合兒童)",
+        "位子不多 ，廁所只有一間，小小的。",
+        "No menu for children (官方標記：不提供兒童餐)"
+    ],
+    "generated_summary": "annyoung cafe 你好咖啡是一間韓風文青咖啡廳，官方標示不適合兒童且不提供兒童餐。評論中也提到店內位子不多、空間較小，整體環境與氛圍較不適合攜帶幼童前往用餐。",
+    "card_summary": ""
+}

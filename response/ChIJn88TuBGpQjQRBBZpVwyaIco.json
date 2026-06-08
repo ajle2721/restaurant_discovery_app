@@ -1,0 +1,132 @@
+{
+  "id": "ChIJn88TuBGpQjQRBBZpVwyaIco",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2511 6429",
+  "formattedAddress": "104台灣臺北市中山區集英里天祥路10號",
+  "location": {
+    "latitude": 25.060810099999998,
+    "longitude": 121.52092289999999
+  },
+  "rating": 4.1,
+  "websiteUri": "https://store.dudooeat.com/order/store/d1c9667948cc46ef991f3bdcca52fe7b",
+  "userRatingCount": 569,
+  "displayName": {
+    "text": "滿腹早午餐專門店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJn88TuBGpQjQRBBZpVwyaIco/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoR2RWaG1jbUl0WW5WT1VWbHJiblU1UVVGT2FVRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "環境乾淨舒適，有提供洗手間同樣乾淨，餐點美味份量充足，雞胸肉不乾柴，豆漿順口，蛋餅酥皮不油膩，是值得再訪的好店。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境乾淨舒適，有提供洗手間同樣乾淨，餐點美味份量充足，雞胸肉不乾柴，豆漿順口，蛋餅酥皮不油膩，是值得再訪的好店。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "法藍藍（Frank Guo）",
+        "uri": "https://www.google.com/maps/contrib/105082642950115072466/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUkRnA3yUNcrZRqM0bp5FJUdudmXWAwk0urpBGpghAY6B_4g29Bew=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-26T02:07:31.827820043Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoR2RWaG1jbUl0WW5WT1VWbHJiblU1UVVGT2FVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoR2RWaG1jbUl0WW5WT1VWbHJiblU1UVVGT2FVRRAB!2m1!1s0x3442a911b813cf9f:0xca219a0c57691604"
+    },
+    {
+      "name": "places/ChIJn88TuBGpQjQRBBZpVwyaIco/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pscVVFbEliV1kzWlhCZk5sRlJiREk0Y1U5MmRYYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "爆炸芋泥蛋餅$70\n芋泥很多很滿足，軟綿帶些顆粒感，可能不太甜的關係芋頭香也不太濃\n蛋餅皮咬下去非常薄脆不油，不過真的很薄所以沒什麼口感，下次會想升級捲餅看看！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "爆炸芋泥蛋餅$70\n芋泥很多很滿足，軟綿帶些顆粒感，可能不太甜的關係芋頭香也不太濃\n蛋餅皮咬下去非常薄脆不油，不過真的很薄所以沒什麼口感，下次會想升級捲餅看看！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "肥肚貓貓",
+        "uri": "https://www.google.com/maps/contrib/110227399041690947748/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWT3KcacwLGuJ-auMgx0j3BOAbFEa6aADkWqK4L9-wTWQ2L_9M=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-27T07:42:08.671009345Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pscVVFbEliV1kzWlhCZk5sRlJiREk0Y1U5MmRYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pscVVFbEliV1kzWlhCZk5sRlJiREk0Y1U5MmRYYxAB!2m1!1s0x3442a911b813cf9f:0xca219a0c57691604"
+    },
+    {
+      "name": "places/ChIJn88TuBGpQjQRBBZpVwyaIco/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Cb2FIcFVjREJ2ZVdkaWRISnhRekZuTXpWeFFrRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "有空位可以直接入座看桌號再點餐、滿座才要在候位區排對開門後一小時內到比較不用等、自助式、目錄只放櫃檯親點餐、現金及街口付費\n環境：桌面都要自己擦，舒適、排煙內3桌較有有油煙味，以外就幾乎沒味、十分優良\n餐點：鮮、用料紮實量大、食量小的吃不完一份芋泥😭、推芋泥！不甜感覺有芋頭塊，唯獨稍感吐司不夠酥",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "有空位可以直接入座看桌號再點餐、滿座才要在候位區排對開門後一小時內到比較不用等、自助式、目錄只放櫃檯親點餐、現金及街口付費\n環境：桌面都要自己擦，舒適、排煙內3桌較有有油煙味，以外就幾乎沒味、十分優良\n餐點：鮮、用料紮實量大、食量小的吃不完一份芋泥😭、推芋泥！不甜感覺有芋頭塊，唯獨稍感吐司不夠酥",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Owl",
+        "uri": "https://www.google.com/maps/contrib/100286690021266906933/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWm4Vg3CiHrUDUEfT_VRSmPNwsEvb6zfA8Tq2d0lZXIvSFyPhQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-26T01:23:55.517096648Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Cb2FIcFVjREJ2ZVdkaWRISnhRekZuTXpWeFFrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Cb2FIcFVjREJ2ZVdkaWRISnhRekZuTXpWeFFrRRAB!2m1!1s0x3442a911b813cf9f:0xca219a0c57691604"
+    },
+    {
+      "name": "places/ChIJn88TuBGpQjQRBBZpVwyaIco/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wUWFXRjJaMTl2Yms1UWRuZFpTRXM1TUZaME4wRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "🌵嫩煎雞胸起司吐司\n份量很大！吃完整個很飽～～\n可以請店家切成一半比較方便吃\n吃起來味道是還不錯\n口味算比較清淡一點\n雞肉味道不重\n\n🌵嫩煎雞胸蛋餅\n一樣份量很大\n加10元升級為厚餅皮\n吃起來很爽～～～！\n\n🍹鮮奶茶\n不太甜，喝起來還ok\n\n店面是長型的，位置不算少\n自助式收餐\n收完店員不會即時出來整理或是巡視\n所以有些座位會有點髒髒的～\n有時候要請店員來整理一下",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "🌵嫩煎雞胸起司吐司\n份量很大！吃完整個很飽～～\n可以請店家切成一半比較方便吃\n吃起來味道是還不錯\n口味算比較清淡一點\n雞肉味道不重\n\n🌵嫩煎雞胸蛋餅\n一樣份量很大\n加10元升級為厚餅皮\n吃起來很爽～～～！\n\n🍹鮮奶茶\n不太甜，喝起來還ok\n\n店面是長型的，位置不算少\n自助式收餐\n收完店員不會即時出來整理或是巡視\n所以有些座位會有點髒髒的～\n有時候要請店員來整理一下",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "鳥字咖Oka",
+        "uri": "https://www.google.com/maps/contrib/106861796684968525125/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU9Dm7t47zogrOZ_-BZUaFxuoB8dXsgnO1UljotAM9wJFxWrhrA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-28T14:22:22.156578932Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wUWFXRjJaMTl2Yms1UWRuZFpTRXM1TUZaME4wRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wUWFXRjJaMTl2Yms1UWRuZFpTRXM1TUZaME4wRRAB!2m1!1s0x3442a911b813cf9f:0xca219a0c57691604"
+    },
+    {
+      "name": "places/ChIJn88TuBGpQjQRBBZpVwyaIco/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SclFsUkxaMHhGYWt0M0xUTmxVRmMzZWtOVlprRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 4,
+      "text": {
+        "text": "🛂🛂清爽風格裝修,乾淨明亮，位置算蠻夠, 小桌子配置為主,品項蠻多表現不俗！　自助回收（有些區域客不會擦是很乾淨，店家也很難巡到每個位置）\n\n🈴🉐🈵　芋泥蛋餅\n芋泥綿密飽滿不死甜,整體蠻剛好 ,推\n\n🉐🆙薯泥沙拉\n蜂蜜芥末底, 少有的堅果粒增添口感風味,菜絲清爽 ,整體舒服\n\n🉐🈴雞肉吐司\n土司來說,偏乾，　沒去邊的話感覺更明顯，　份量也不算小,建議挑選比較多汁的路線,會比較適宜\n\n🉐🈵牛炒麵\n鋤頭燒湯底的風味, 麵口感跟份量適宜, 整體算可以\n\n飲料都偏無糖感路線",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "🛂🛂清爽風格裝修,乾淨明亮，位置算蠻夠, 小桌子配置為主,品項蠻多表現不俗！　自助回收（有些區域客不會擦是很乾淨，店家也很難巡到每個位置）\n\n🈴🉐🈵　芋泥蛋餅\n芋泥綿密飽滿不死甜,整體蠻剛好 ,推\n\n🉐🆙薯泥沙拉\n蜂蜜芥末底, 少有的堅果粒增添口感風味,菜絲清爽 ,整體舒服\n\n🉐🈴雞肉吐司\n土司來說,偏乾，　沒去邊的話感覺更明顯，　份量也不算小,建議挑選比較多汁的路線,會比較適宜\n\n🉐🈵牛炒麵\n鋤頭燒湯底的風味, 麵口感跟份量適宜, 整體算可以\n\n飲料都偏無糖感路線",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Darren H.",
+        "uri": "https://www.google.com/maps/contrib/102373368782419461319/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWtBy86UdPO6w6xsZtDFw1W1lOahlT92wxoKQ5BMB1V4MaEWZKs5g=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-08-25T07:32:53.727342396Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SclFsUkxaMHhGYWt0M0xUTmxVRmMzZWtOVlprRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SclFsUkxaMHhGYWt0M0xUTmxVRmMzZWtOVlprRRAB!2m1!1s0x3442a911b813cf9f:0xca219a0c57691604"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

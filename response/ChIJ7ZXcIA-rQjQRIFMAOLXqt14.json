@@ -1,0 +1,133 @@
+{
+  "id": "ChIJ7ZXcIA-rQjQRIFMAOLXqt14",
+  "types": [
+    "restaurant",
+    "japanese_restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2786 2899",
+  "formattedAddress": "115台灣臺北市南港區東明里忠孝東路七段369號2F",
+  "location": {
+    "latitude": 25.0530209,
+    "longitude": 121.6069387
+  },
+  "rating": 4.1,
+  "websiteUri": "http://www.citylink.tw/?p=8915",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1101,
+  "displayName": {
+    "text": "WIRED CHAYA茶屋 南港店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ7ZXcIA-rQjQRIFMAOLXqt14/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5R2VUbGZkRlU1YWxKT2RHSmFNamwwZDFwbldGRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "用餐的環境相當好，很有氣氛而且舒適. 餐點的選擇沒有太多，口味還算不錯。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "用餐的環境相當好，很有氣氛而且舒適. 餐點的選擇沒有太多，口味還算不錯。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ariane",
+        "uri": "https://www.google.com/maps/contrib/111576077311643642921/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVh9Mkspi0y-DjyX89kG4AYzyMw2DlyVuLtRqbYHoNnOpAve67lBQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-24T13:57:30.847691303Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5R2VUbGZkRlU1YWxKT2RHSmFNamwwZDFwbldGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5R2VUbGZkRlU1YWxKT2RHSmFNamwwZDFwbldGRRAB!2m1!1s0x3442ab0f20dc95ed:0x5eb7eab538005320"
+    },
+    {
+      "name": "places/ChIJ7ZXcIA-rQjQRIFMAOLXqt14/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pORlIzaFNNVUpEUkdsNFNGVlNhVWxXVFRVd2JXYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點簡單好吃，飲料選擇豐富，很想每一杯都喝看看，服務人員也很耐心協助我們，是一個很棒的用餐體驗。\n\n這次點的餐單，友人與我都覺得好吃：甜點焙茶蛋糕和焙茶本人都很優秀，吃的很愉快。\n\n不過當天最喜歡的是兒童餐，有水果和布丁，超級豐富，哈哈。\n\n在蔦屋裡面也很棒，有帶小朋友的話，吃飽可以到書店看童書繪本，大人也能逛逛，下次會再來。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點簡單好吃，飲料選擇豐富，很想每一杯都喝看看，服務人員也很耐心協助我們，是一個很棒的用餐體驗。\n\n這次點的餐單，友人與我都覺得好吃：甜點焙茶蛋糕和焙茶本人都很優秀，吃的很愉快。\n\n不過當天最喜歡的是兒童餐，有水果和布丁，超級豐富，哈哈。\n\n在蔦屋裡面也很棒，有帶小朋友的話，吃飽可以到書店看童書繪本，大人也能逛逛，下次會再來。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "WanJu Liao",
+        "uri": "https://www.google.com/maps/contrib/109830526848207078256/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL7hAPoUtOlvm0n0vNui-OWKXJMPDKET4l8rOpVj_eCc2X7QA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-29T06:06:40.868993276Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pORlIzaFNNVUpEUkdsNFNGVlNhVWxXVFRVd2JXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pORlIzaFNNVUpEUkdsNFNGVlNhVWxXVFRVd2JXYxAB!2m1!1s0x3442ab0f20dc95ed:0x5eb7eab538005320"
+    },
+    {
+      "name": "places/ChIJ7ZXcIA-rQjQRIFMAOLXqt14/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGZk5WbGpTRzFOYm1sd1p6TnFYMjVFTTBGZlIzYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 3,
+      "text": {
+        "text": "餐點整體算是中規中矩，適合平常簡單吃一餐，但不太會特別選來聚會。\n\n服務不錯，讓人感覺舒服。\n\n飲料表現偏弱一些。Passion Fruit Mojito 調得很乾淨，用薄荷葉和青檸去調的，比較像百香果氣泡飲，少了 mojito syrup 有的香氣層次。Almond Latte 本身是杯好喝的拿鐵，但喝不太出杏仁的味道。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點整體算是中規中矩，適合平常簡單吃一餐，但不太會特別選來聚會。\n\n服務不錯，讓人感覺舒服。\n\n飲料表現偏弱一些。Passion Fruit Mojito 調得很乾淨，用薄荷葉和青檸去調的，比較像百香果氣泡飲，少了 mojito syrup 有的香氣層次。Almond Latte 本身是杯好喝的拿鐵，但喝不太出杏仁的味道。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Sherry C",
+        "uri": "https://www.google.com/maps/contrib/105039547195576624672/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWdvWc8VP6DNO2cdNO3DO-1qmBDB9iJXXL0qoeNVB7UPlgLCCuD=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-14T02:26:43.364075912Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGZk5WbGpTRzFOYm1sd1p6TnFYMjVFTTBGZlIzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGZk5WbGpTRzFOYm1sd1p6TnFYMjVFTTBGZlIzYxAB!2m1!1s0x3442ab0f20dc95ed:0x5eb7eab538005320"
+    },
+    {
+      "name": "places/ChIJ7ZXcIA-rQjQRIFMAOLXqt14/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sdWNGOHhaM1k0ZFhoTmFUTkRXV1pvV1V0Zk0wRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "這邊平日晚上氣氛不錯～適合作為下班犒賞自己的晚餐！雖然不便宜，但餐點是真的非常好吃，每次主食都沒有讓人失望，套餐飲料跟甜點也是很舒服的味道。服務態度也很好👍（大推海鮮天婦羅石鍋飯，可惜沒拍照片",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這邊平日晚上氣氛不錯～適合作為下班犒賞自己的晚餐！雖然不便宜，但餐點是真的非常好吃，每次主食都沒有讓人失望，套餐飲料跟甜點也是很舒服的味道。服務態度也很好👍（大推海鮮天婦羅石鍋飯，可惜沒拍照片",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "詹佳純",
+        "uri": "https://www.google.com/maps/contrib/102213014807851035735/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUM6AbCehEQPoP3yNCRt3gaY41LzmUkSRuQrVJgiSOmy4mKD-UU=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-12T14:32:50.128087874Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sdWNGOHhaM1k0ZFhoTmFUTkRXV1pvV1V0Zk0wRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sdWNGOHhaM1k0ZFhoTmFUTkRXV1pvV1V0Zk0wRRAB!2m1!1s0x3442ab0f20dc95ed:0x5eb7eab538005320"
+    },
+    {
+      "name": "places/ChIJ7ZXcIA-rQjQRIFMAOLXqt14/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tadVZIVlBXRXgwT1ZJdGJqbFZOalJ1ZVVGTVpWRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "除了份量小了點和有點貴之外沒什麼缺點！空間設計的非常棒，很寬敞。\n🥬現在也有提供時蔬蒸飯以外的蔬食餐點了！真是蔬食族的福音🤣 但是素烏龍麵很早就賣光！南瓜燉飯純素還蠻好吃！但份量很少，男性要吃3盤才夠，女性要至少1.5盤才夠。\n湯可以續，牆面書籍可以瀏覽，真的很讚。狗狗可以放在推車或籠子！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "除了份量小了點和有點貴之外沒什麼缺點！空間設計的非常棒，很寬敞。\n🥬現在也有提供時蔬蒸飯以外的蔬食餐點了！真是蔬食族的福音🤣 但是素烏龍麵很早就賣光！南瓜燉飯純素還蠻好吃！但份量很少，男性要吃3盤才夠，女性要至少1.5盤才夠。\n湯可以續，牆面書籍可以瀏覽，真的很讚。狗狗可以放在推車或籠子！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Christina Liu",
+        "uri": "https://www.google.com/maps/contrib/104929022088306555732/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLrU4oB61xQ5_NSmKpr_jI5eC3mmUioajTk7lxsCxTNFcL1mg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-26T06:51:14.025891802Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tadVZIVlBXRXgwT1ZJdGJqbFZOalJ1ZVVGTVpWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tadVZIVlBXRXgwT1ZJdGJqbFZOalJ1ZVVGTVpWRRAB!2m1!1s0x3442ab0f20dc95ed:0x5eb7eab538005320"
+    }
+  ],
+  "menuForChildren": true,
+  "goodForChildren": true
+}

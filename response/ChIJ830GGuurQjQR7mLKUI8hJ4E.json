@@ -1,0 +1,132 @@
+{
+  "id": "ChIJ830GGuurQjQR7mLKUI8hJ4E",
+  "types": [
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2897 1228",
+  "formattedAddress": "112台灣臺北市北投區清江里崇仁路一段41號",
+  "location": {
+    "latitude": 25.127253000000003,
+    "longitude": 121.5014336
+  },
+  "rating": 4.2,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 72,
+  "displayName": {
+    "text": "家庭快炒(原南京快炒)",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ830GGuurQjQR7mLKUI8hJ4E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taNWNXdHBiV0puTWtsVFRqZGtVblp1TFVwb1VHYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 4,
+      "text": {
+        "text": "非常親切的一對夫婦開的不起眼小店，很容易被人忽略，不過店很整齊。東西不錯吃不過略鹹。\n最讓我感動的是他不像一般的熱炒店菜是一道一道上，（通常吃完一盤後一直等下一盤）老盤是一次將8成的菜上齊很貼心",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "非常親切的一對夫婦開的不起眼小店，很容易被人忽略，不過店很整齊。東西不錯吃不過略鹹。\n最讓我感動的是他不像一般的熱炒店菜是一道一道上，（通常吃完一盤後一直等下一盤）老盤是一次將8成的菜上齊很貼心",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Christine Chen",
+        "uri": "https://www.google.com/maps/contrib/117595240956360983107/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW39ruLNzGqAaeaP1lqUFWcV5gvYiOvWnmks6zKEI0_MIEpi1c=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-08-30T05:51:57.891032849Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taNWNXdHBiV0puTWtsVFRqZGtVblp1TFVwb1VHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taNWNXdHBiV0puTWtsVFRqZGtVblp1TFVwb1VHYxAB!2m1!1s0x3442abeb1a067df3:0x8127218f50ca62ee"
+    },
+    {
+      "name": "places/ChIJ830GGuurQjQR7mLKUI8hJ4E/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aV2FUQmZORnBvVERSUE5sWTJOMWd3Um5SMGJuYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "物美價廉，出餐速度快，老闆娘也挺親切的\n現在要找到80元的炒飯有點困難了，炒飯粒粒分明，也不會太油\n鮭魚炒飯有鮭魚的香味，但看不太到鮭魚\n蝦仁炒飯味道比鮭魚炒飯清淡，蝦仁至少有5-6隻",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "物美價廉，出餐速度快，老闆娘也挺親切的\n現在要找到80元的炒飯有點困難了，炒飯粒粒分明，也不會太油\n鮭魚炒飯有鮭魚的香味，但看不太到鮭魚\n蝦仁炒飯味道比鮭魚炒飯清淡，蝦仁至少有5-6隻",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ying Ying",
+        "uri": "https://www.google.com/maps/contrib/114205096143557654152/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXcfRV5-MKkEcca0o07lbRCzPkbpMDVcx0lu0uT2jAH3-BxLzI0=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-09-27T09:16:18.390594054Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aV2FUQmZORnBvVERSUE5sWTJOMWd3Um5SMGJuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aV2FUQmZORnBvVERSUE5sWTJOMWd3Um5SMGJuYxAB!2m1!1s0x3442abeb1a067df3:0x8127218f50ca62ee"
+    },
+    {
+      "name": "places/ChIJ830GGuurQjQR7mLKUI8hJ4E/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aV2JqTklSM0pzVjFkbFVVNXRZVVozYUhaNlIxRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "100塊左右的價格就可以買到好吃的熱炒，千元內就可以點很多道，雖然每道份量不多，但適合小家庭，菜色多樣化。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "100塊左右的價格就可以買到好吃的熱炒，千元內就可以點很多道，雖然每道份量不多，但適合小家庭，菜色多樣化。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張佳敏",
+        "uri": "https://www.google.com/maps/contrib/105197499410319474139/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVuBNi6gGfkc-2cTiquAjfJ20ozcA8mU2dpE4FzNvviKEExcX-L=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-01T09:42:49.552189549Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aV2JqTklSM0pzVjFkbFVVNXRZVVozYUhaNlIxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aV2JqTklSM0pzVjFkbFVVNXRZVVozYUhaNlIxRRAB!2m1!1s0x3442abeb1a067df3:0x8127218f50ca62ee"
+    },
+    {
+      "name": "places/ChIJ830GGuurQjQR7mLKUI8hJ4E/reviews/ChdDSUhNMG9nS0VJQ0FnTURncUtpMmhRRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "這是一家經過不會特別注意到，看到google 評論，放入口袋名單很久，終於來吃，平價又實惠的快炒！👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這是一家經過不會特別注意到，看到google 評論，放入口袋名單很久，終於來吃，平價又實惠的快炒！👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "wendy wendy",
+        "uri": "https://www.google.com/maps/contrib/110529866033564080039/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKhw5C_2I-x94wb_jketuRaELNN4ND3d21_NY__UtyxcgbV9w=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-02-22T07:00:48.604075Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURncUtpMmhRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURncUtpMmhRRRAB!2m1!1s0x3442abeb1a067df3:0x8127218f50ca62ee"
+    },
+    {
+      "name": "places/ChIJ830GGuurQjQR7mLKUI8hJ4E/reviews/ChZDSUhNMG9nS0VJQ0FnSURyOXJLeVVnEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "外帶兩次，內用一次...\n樸實的店家，價格服務和口味，都算是親民，菜色如店名，快速出餐的家庭料理。\n\n裝潢擺設上，可以再下點功夫...店家想法經營細節可以再實際點文字化或圖案照片傳達給客人更多意涵。空調只出冷氣不行，應該加上相應抽熱風的設備。\n\n真誠覺得是不錯的店家，期待強化後能更上一層樓！\n有機會也會帶朋友來放鬆小聚小聊，營業時間或許也能再延晚一些，畢竟，周邊晚上能酒聚的場合，太欠缺了！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "外帶兩次，內用一次...\n樸實的店家，價格服務和口味，都算是親民，菜色如店名，快速出餐的家庭料理。\n\n裝潢擺設上，可以再下點功夫...店家想法經營細節可以再實際點文字化或圖案照片傳達給客人更多意涵。空調只出冷氣不行，應該加上相應抽熱風的設備。\n\n真誠覺得是不錯的店家，期待強化後能更上一層樓！\n有機會也會帶朋友來放鬆小聚小聊，營業時間或許也能再延晚一些，畢竟，周邊晚上能酒聚的場合，太欠缺了！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "祝壽宏（羅賓蜘蛛）",
+        "uri": "https://www.google.com/maps/contrib/108251925076689504787/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJPoGftukutDwSzi7LuH5_QgcM8oxdfejbdvHPI9Zv29gbYgQ=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2024-07-17T12:36:59.334760Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURyOXJLeVVnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURyOXJLeVVnEAE!2m1!1s0x3442abeb1a067df3:0x8127218f50ca62ee"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

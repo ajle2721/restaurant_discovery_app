@@ -1,0 +1,135 @@
+{
+  "id": "ChIJ_eI6MrWrQjQROhYGh3vf5S4",
+  "types": [
+    "restaurant",
+    "dessert_restaurant",
+    "bistro",
+    "dessert_shop",
+    "confectionery",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "106台灣臺北市大安區光武里大安路一段31巷27號1樓A室",
+  "location": {
+    "latitude": 25.0440799,
+    "longitude": 121.5473477
+  },
+  "rating": 4,
+  "websiteUri": "https://instagram.com/mois__cafe",
+  "userRatingCount": 311,
+  "displayName": {
+    "text": "mois cafe",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ_eI6MrWrQjQROhYGh3vf5S4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4MVYzWnZkazh5TW5KbmRuUk1SWEEwWWpsR1ZXYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "走進巷弄閒逛找到的咖啡廳\n下次會想試試鹹食主餐！\n當季草莓塔很新鮮、塔皮屬於紮實口感\n甜度對我來說稍甜一些\n飲品種類多樣，也有無咖啡因品項選擇\n這次座戶外座位若沒有下雨的話很舒服",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "走進巷弄閒逛找到的咖啡廳\n下次會想試試鹹食主餐！\n當季草莓塔很新鮮、塔皮屬於紮實口感\n甜度對我來說稍甜一些\n飲品種類多樣，也有無咖啡因品項選擇\n這次座戶外座位若沒有下雨的話很舒服",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "楊惠如",
+        "uri": "https://www.google.com/maps/contrib/113145010097529599264/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWI-xJq4ATKEh5yox9K3mRXOqDYjAVT-07fc0tq9P_FlFT_-RRf=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-03-04T04:46:01.961830408Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4MVYzWnZkazh5TW5KbmRuUk1SWEEwWWpsR1ZXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4MVYzWnZkazh5TW5KbmRuUk1SWEEwWWpsR1ZXYxAB!2m1!1s0x3442abb5323ae2fd:0x2ee5df7b8706163a"
+    },
+    {
+      "name": "places/ChIJ_eI6MrWrQjQROhYGh3vf5S4/reviews/Ci9DQUlRQUNvZENodHljRjlvT214RFpIQlFOWEZwY0VwbWVHWjVZa1ZpTlhacUxWRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "奶油蝦義大利麵很好吃！蝦子大又新鮮，奶油醬收汁很到位，醬狠狠扒在每一條麵上。\n熱可可是苦甜的鬧鐘，超讚",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "奶油蝦義大利麵很好吃！蝦子大又新鮮，奶油醬收汁很到位，醬狠狠扒在每一條麵上。\n熱可可是苦甜的鬧鐘，超讚",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Kiki Tai",
+        "uri": "https://www.google.com/maps/contrib/100351630492097514582/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmjDLmUZ2xctqpjLJ2p37wCDjXyLpJwGV2DuskOY0xFYmLP0n6Qw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-21T04:25:46.041443902Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214RFpIQlFOWEZwY0VwbWVHWjVZa1ZpTlhacUxWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214RFpIQlFOWEZwY0VwbWVHWjVZa1ZpTlhacUxWRRAB!2m1!1s0x3442abb5323ae2fd:0x2ee5df7b8706163a"
+    },
+    {
+      "name": "places/ChIJ_eI6MrWrQjQROhYGh3vf5S4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKc04zSnhiazFmVjNoNFRYcFJObFJyYkUxSVlsRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "超罪惡的法式吐司點下去 結果有點失望\n吐司裡面乾乾的 感覺牛奶沒有花時間泡 但是精緻澱粉還是讓人快樂\n奶油義大利麵很好吃 生鮭魚三明治普普通通 但是可能是唯一一個吃了沒那麼有罪惡感的東西\n\n空間很小 感覺講八卦很容易被隔壁聽到",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "超罪惡的法式吐司點下去 結果有點失望\n吐司裡面乾乾的 感覺牛奶沒有花時間泡 但是精緻澱粉還是讓人快樂\n奶油義大利麵很好吃 生鮭魚三明治普普通通 但是可能是唯一一個吃了沒那麼有罪惡感的東西\n\n空間很小 感覺講八卦很容易被隔壁聽到",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "徐小姐",
+        "uri": "https://www.google.com/maps/contrib/105000467712771733052/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWgBDmV4l6D5Jz-GWuWb4fll_odjxF5WU1CUY5Gukdf4HlEmJqZyg=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-11-24T21:07:21.000147887Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKc04zSnhiazFmVjNoNFRYcFJObFJyYkUxSVlsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKc04zSnhiazFmVjNoNFRYcFJObFJyYkUxSVlsRRAB!2m1!1s0x3442abb5323ae2fd:0x2ee5df7b8706163a"
+    },
+    {
+      "name": "places/ChIJ_eI6MrWrQjQROhYGh3vf5S4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCcU0wcDBMV3M0WlRSNFMyaDNMV04wZUdKV1ZtYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "蒜香奶油鮮蝦義大利麵很厲害，上桌整個香氣是噴出來，蒜頭沒有焦味，調味得宜，蝦肉維持彈性，麵也沒有軟掉，和起司與醬汁完美融合，遠超一般咖啡廳👍\n燻鮭魚可頌就是預想中的味道，並沒有什麼突出的點，中間的scramble egg 有點過熟，可頌香脆鮭魚也是正常表現，整體中規中矩。\n熱的卡布奇諾咖啡的香氣沒有被奶香壓過，兩者結合的很好，拉花很好看，大推",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "蒜香奶油鮮蝦義大利麵很厲害，上桌整個香氣是噴出來，蒜頭沒有焦味，調味得宜，蝦肉維持彈性，麵也沒有軟掉，和起司與醬汁完美融合，遠超一般咖啡廳👍\n燻鮭魚可頌就是預想中的味道，並沒有什麼突出的點，中間的scramble egg 有點過熟，可頌香脆鮭魚也是正常表現，整體中規中矩。\n熱的卡布奇諾咖啡的香氣沒有被奶香壓過，兩者結合的很好，拉花很好看，大推",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Paul Jean",
+        "uri": "https://www.google.com/maps/contrib/106703824795380927316/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVEf-r0makoFNAUjbx-L-AMPoIaZLepbG-M1Rg0xWbJH3U9BRgdDg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-05T23:48:16.396040704Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCcU0wcDBMV3M0WlRSNFMyaDNMV04wZUdKV1ZtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCcU0wcDBMV3M0WlRSNFMyaDNMV04wZUdKV1ZtYxAB!2m1!1s0x3442abb5323ae2fd:0x2ee5df7b8706163a"
+    },
+    {
+      "name": "places/ChIJ_eI6MrWrQjQROhYGh3vf5S4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOelRsODFVRGRFYUV0TVJHTTBhbWxvWld4cWEzYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "為了這間店的法式吐司而去的～～我覺得吐司很軟很好吃！外層焦脆，內層鬆軟，超讚的🤩\n義大利麵的部分也很好吃！很濃郁～～👍🏻😋",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "為了這間店的法式吐司而去的～～我覺得吐司很軟很好吃！外層焦脆，內層鬆軟，超讚的🤩\n義大利麵的部分也很好吃！很濃郁～～👍🏻😋",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Miranda Chen",
+        "uri": "https://www.google.com/maps/contrib/118446742072551754403/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWreUlvla8ei9SCmh7beO4qKws3F23SgHAPWTKBfsTFCoCM76OdRg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-14T11:16:01.358104056Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOelRsODFVRGRFYUV0TVJHTTBhbWxvWld4cWEzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOelRsODFVRGRFYUV0TVJHTTBhbWxvWld4cWEzYxAB!2m1!1s0x3442abb5323ae2fd:0x2ee5df7b8706163a"
+    }
+  ],
+  "menuForChildren": false
+}

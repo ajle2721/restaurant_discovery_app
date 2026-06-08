@@ -1,0 +1,52 @@
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "內用位不多，靠牆邊桌6位，四人小桌兩張，二人小桌一張，騎樓兩張二人小桌。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": "Menu for children (官方標記：提供兒童餐)",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "Good for children (官方標記：適合兒童)",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "資訊不足",
+    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals": [
+        "Menu for children (官方標記：提供兒童餐)",
+        "Good for children (官方標記：適合兒童)",
+        "內用位不多，靠牆邊桌6位，四人小桌兩張，二人小桌一張，騎樓兩張二人小桌。"
+    ],
+    "generated_summary": "媽寶堡早午餐經官方標記為適合兒童且提供兒童餐，對親子客群友善。不過店內用餐空間較為有限，座位數不多，建議前往時留意空間配置。",
+    "card_summary": ""
+}
