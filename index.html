@@ -48,9 +48,9 @@
                             <svg class="search-icon" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
                             <input type="text" id="location-search" placeholder="輸入捷運站、地標或行政區" autocomplete="off">
                             <button id="clear-search" class="clear-search hidden">&times;</button>
-                            <div id="search-magnifier" class="search-magnifier-embed" title="搜尋">
+                            <button id="search-magnifier" class="search-magnifier-embed" title="搜尋" type="button">
                                 <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
-                            </div>
+                            </button>
                         </div>
                         <div id="search-autocomplete" class="autocomplete-dropdown hidden"></div>
                     </div>
@@ -264,6 +264,7 @@
     <!-- Feedback Modal -->
     <div id="feedback-modal-overlay" class="modal-overlay"></div>
     <div id="feedback-modal" class="modal">
+        <div class="drawer-drag-handle"></div>
         <button id="close-feedback-modal" class="modal-close-btn" title="關閉">&times;</button>
         <div class="modal-header">
             <h2 class="modal-title">🚩 協助回報與貢獻資訊</h2>

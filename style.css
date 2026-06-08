@@ -531,6 +531,10 @@ body {
 }
 
 .search-magnifier-embed {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
     color: var(--text-muted);
     width: 34px;
     height: 34px;
@@ -2716,6 +2720,12 @@ body {
         grid-template-columns: 1fr;
         padding: 0.75rem;
         gap: 0.65rem;
+    }
+}
+
+@media (min-width: 601px) {
+    #feedback-modal .drawer-drag-handle {
+        display: none;
     }
 }
 

@@ -382,6 +382,17 @@ function setupEventListeners() {
             showPopularRecommendations();
         }
     });
+    searchInput.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter') {
+            executeSearch(searchInput.value.trim());
+        }
+    });
+
+    if (searchMagnifier) {
+        searchMagnifier.addEventListener('click', () => {
+            executeSearch(searchInput.value.trim());
+        });
+    }
 
     // Close autocomplete on click outside
     document.addEventListener('click', (e) => {
@@ -394,7 +405,6 @@ function setupEventListeners() {
     clearSearchBtn.addEventListener('click', () => {
         searchInput.value = '';
         clearSearchBtn.classList.add('hidden');
-        if (searchMagnifier) searchMagnifier.classList.remove('hidden');
         autocompleteDropdown.classList.add('hidden');
         searchInput.focus();
     });
@@ -552,7 +562,6 @@ function setupEventListeners() {
         document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
         searchInput.value = '';
         clearSearchBtn.classList.add('hidden');
-        if (searchMagnifier) searchMagnifier.classList.remove('hidden');
         searchResultsView.classList.add('hidden');
         if (floatShareBtn) floatShareBtn.classList.add('hidden');
         
@@ -871,6 +880,54 @@ function setupEventListeners() {
         feedbackForm.addEventListener('submit', handleFeedbackSubmit);
     }
 
+    // Touch Swiping Gestures for Feedback Modal on Mobile
+    const feedbackModal = document.getElementById('feedback-modal');
+    const feedbackDragHandle = feedbackModal ? feedbackModal.querySelector('.drawer-drag-handle') : null;
+    const feedbackHeader = feedbackModal ? feedbackModal.querySelector('.modal-header') : null;
+
+    let feedbackStartY = 0;
+    let feedbackCurrentY = 0;
+    let feedbackIsDragging = false;
+
+    const handleFeedbackTouchStart = (e) => {
+        // If the user touched a button or interactive element inside the header, ignore dragging
+        if (e.target.closest('button') || e.target.closest('.modal-close-btn')) {
+            feedbackIsDragging = false;
+            return;
+        }
+        feedbackStartY = e.touches[0].clientY;
+        feedbackCurrentY = feedbackStartY;
+        feedbackIsDragging = true;
+    };
+
+    const handleFeedbackTouchMove = (e) => {
+        if (!feedbackIsDragging) return;
+        feedbackCurrentY = e.touches[0].clientY;
+    };
+
+    const handleFeedbackTouchEnd = () => {
+        if (!feedbackIsDragging) return;
+        feedbackIsDragging = false;
+        const diffY = feedbackStartY - feedbackCurrentY; // Swipe up is positive, swipe down is negative
+
+        // Swipe DOWN -> close feedback modal
+        if (diffY < -60) {
+            closeFeedbackModal();
+        }
+    };
+
+    if (feedbackDragHandle) {
+        feedbackDragHandle.addEventListener('touchstart', handleFeedbackTouchStart, { passive: true });
+        feedbackDragHandle.addEventListener('touchmove', handleFeedbackTouchMove, { passive: true });
+        feedbackDragHandle.addEventListener('touchend', handleFeedbackTouchEnd);
+    }
+
+    if (feedbackHeader) {
+        feedbackHeader.addEventListener('touchstart', handleFeedbackTouchStart, { passive: true });
+        feedbackHeader.addEventListener('touchmove', handleFeedbackTouchMove, { passive: true });
+        feedbackHeader.addEventListener('touchend', handleFeedbackTouchEnd);
+    }
+
     // ESC key closes feedback modal
     document.addEventListener('keydown', (e) => {
         if (e.key === 'Escape') {
@@ -932,11 +989,9 @@ function handleAutocomplete() {
     if (query.length === 0) {
         showPopularRecommendations();
         clearSearchBtn.classList.add('hidden');
-        if (searchMagnifier) searchMagnifier.classList.remove('hidden');
         return;
     }
     clearSearchBtn.classList.remove('hidden');
-    if (searchMagnifier) searchMagnifier.classList.add('hidden');
 
     const matches = state.locationData.filter(loc => {
         return loc.name.toLowerCase().includes(query) || 
@@ -961,6 +1016,186 @@ function handleAutocomplete() {
         });
     } else {
         autocompleteDropdown.classList.add('hidden');
+    }
+}
+
+// Helper to verify if the geocoded result is a confident point/area (e.g. roads, transport, districts, public amenities)
+function isConfidentResult(result) {
+    if (!result) return false;
+    const c = result.class;
+    const t = result.type;
+    
+    // 1. Roads and highways
+    if (c === 'highway') return true;
+    
+    // 2. Administrative boundaries and districts
+    if (c === 'boundary' || c === 'place') {
+        const adminTypes = ['postcode', 'suburb', 'quarter', 'neighbourhood', 'district', 'city', 'town', 'village', 'county', 'municipality'];
+        if (adminTypes.includes(t)) return true;
+        
+        // Specific house numbers or buildings
+        const addressTypes = ['house', 'house_number', 'building', 'address', 'residential'];
+        if (addressTypes.includes(t)) return true;
+    }
+    
+    // 3. Public transport (stations)
+    if (c === 'railway' && (t === 'station' || t === 'halt' || t === 'subway_entrance')) return true;
+    
+    // 4. Large public tourist destinations
+    if (c === 'tourism' && ['zoo', 'aquarium', 'theme_park', 'museum', 'gallery', 'attraction', 'park'].includes(t)) return true;
+    
+    // 5. Civic / public amenities
+    if (c === 'amenity' && ['park', 'hospital', 'university', 'school', 'college', 'library', 'townhall', 'courthouse', 'place_of_worship'].includes(t)) return true;
+    
+    // 6. Landuse
+    if (c === 'landuse' && ['forest', 'grass', 'cemetery', 'park', 'recreation_ground', 'reservoir'].includes(t)) return true;
+    
+    return false;
+}
+
+// Geocode address via OSM Nominatim API with confidence check and automatic road fallback
+async function geocodeAddress(query) {
+    // Restrict search bounds to Taipei & New Taipei City
+    const viewbox = "121.43,25.21,121.67,24.93";
+    const getUrl = (q) => `https://nominatim.openstreetmap.org/search?q=${encodeURIComponent(q)}&format=json&limit=1&viewbox=${viewbox}&bounded=1&addressdetails=1`;
+    
+    const fetchGeocode = async (q) => {
+        try {
+            const response = await fetch(getUrl(q));
+            if (!response.ok) {
+                throw new Error('OSM Geocoding request failed');
+            }
+            const data = await response.json();
+            if (data && data.length > 0) {
+                return data[0];
+            }
+        } catch (err) {
+            console.error('Nominatim Geocoding fetch error:', err);
+        }
+        return null;
+    };
+
+    // 1. Try original query
+    let result = await fetchGeocode(query);
+    if (result) {
+        // Only accept if it is a confident public location/address
+        if (isConfidentResult(result)) {
+            return {
+                name: query,
+                lat: parseFloat(result.lat),
+                lng: parseFloat(result.lon),
+                type: '自訂地點',
+                resolvedAddress: result.display_name
+            };
+        } else {
+            console.log(`OSM result is not confident (${result.class}/${result.type}). Rejecting to prevent misleading restaurant/POI location.`);
+            return null;
+        }
+    }
+
+    // 2. Fallback: Strip Taiwanese house numbers / floors / lane numbers at the end
+    // E.g., "民生東路五段218號" -> "民生東路五段"
+    let cleaned = query.replace(/\s*\d+([號樓fF]|之).*$/, '').trim();
+    cleaned = cleaned.replace(/\s*\d+$/, '').trim(); // Remove raw trailing numbers
+
+    if (cleaned && cleaned !== query) {
+        console.log(`OSM geocoding fallback: retrying with "${cleaned}"`);
+        result = await fetchGeocode(cleaned);
+        if (result && isConfidentResult(result)) {
+            return {
+                name: query, // Keep original query for UI display
+                lat: parseFloat(result.lat),
+                lng: parseFloat(result.lon),
+                type: '自訂地點',
+                isFallback: true,
+                fallbackName: cleaned,
+                resolvedAddress: result.display_name
+            };
+        }
+    }
+
+    return null;
+}
+
+// Main custom search handler
+async function executeSearch(query) {
+    if (!query) return;
+
+    // Dismiss dropdown
+    autocompleteDropdown.classList.add('hidden');
+
+    // 1. Check exact match in preset locations (case-insensitive)
+    const exactLoc = state.locationData.find(loc => 
+        loc.name.toLowerCase() === query.toLowerCase() ||
+        (loc.keywords && loc.keywords.some(k => k.toLowerCase() === query.toLowerCase()))
+    );
+    if (exactLoc) {
+        selectLocation(exactLoc, 'manual_input');
+        return;
+    }
+
+    // 2. Check partial match in preset locations
+    const partialLoc = state.locationData.find(loc => 
+        loc.name.toLowerCase().includes(query.toLowerCase()) ||
+        (loc.keywords && loc.keywords.some(k => k.toLowerCase().includes(query.toLowerCase())))
+    );
+    if (partialLoc) {
+        selectLocation(partialLoc, 'manual_input');
+        return;
+    }
+
+    // Show loading indicator on magnifier button
+    let originalContent = '';
+    if (searchMagnifier) {
+        originalContent = searchMagnifier.innerHTML;
+        searchMagnifier.innerHTML = `<span style="font-size: 0.9rem; line-height: 1;">⏳</span>`;
+        searchMagnifier.disabled = true;
+    }
+
+    try {
+        // 3. Local restaurant name / address / cuisine fuzzy match
+        const q = query.toLowerCase();
+        const localMatches = restaurantData.filter(res => 
+            (res.name && res.name.toLowerCase().includes(q)) ||
+            (res.address && res.address.toLowerCase().includes(q)) ||
+            (res.cuisine && res.cuisine.toLowerCase().includes(q)) ||
+            (res.district && res.district.toLowerCase().includes(q))
+        );
+
+        if (localMatches.length > 0) {
+            // Found matching restaurants locally!
+            // Centering on the first matched restaurant
+            const firstMatch = localMatches[0];
+            const customLoc = {
+                name: `關鍵字: ${query}`,
+                lat: firstMatch.latitude,
+                lng: firstMatch.longitude,
+                type: '關鍵字搜尋',
+                keyword: query
+            };
+            showToast(`找到 ${localMatches.length} 間相關餐廳`);
+            selectLocation(customLoc, 'local_keyword_search');
+            return;
+        }
+
+        // 4. Online Geocoding via Nominatim
+        const geocoded = await geocodeAddress(query);
+        if (geocoded) {
+            if (geocoded.isFallback) {
+                showToast(`📍 地圖圖資未收錄此門牌，已定位至鄰近路段「${geocoded.fallbackName}」`, 5000);
+            }
+            selectLocation(geocoded, 'nominatim_geocoding');
+        } else {
+            showToast('找不到此地點或相符餐廳，請輸入更明確的雙北地址、地標或關鍵字');
+        }
+    } catch (e) {
+        console.error('Custom search failed:', e);
+        showToast('搜尋時發生錯誤，請稍後再試');
+    } finally {
+        if (searchMagnifier) {
+            searchMagnifier.innerHTML = originalContent;
+            searchMagnifier.disabled = false;
+        }
     }
 }
 
@@ -1029,7 +1264,6 @@ function selectLocation(loc, source = 'other', pushState = true) {
     
     autocompleteDropdown.classList.add('hidden');
     clearSearchBtn.classList.remove('hidden');
-    if (searchMagnifier) searchMagnifier.classList.add('hidden');
     
     // GA4: search_location
     var selectedFiltersArr = [];
@@ -1191,12 +1425,23 @@ async function renderResults() {
             distance: calculateDistance(center.lat, center.lng, res.latitude, res.longitude)
         }));
 
-        // 2. Filter by distance
-        let maxRadius = (center.type === '全市' || center.name === '整個台北市') ? 99999 : ((center.type === '行政區') ? 2.5 : 1.5);
-        if (state.expandedRadius) {
-            maxRadius = (center.type === '全市' || center.name === '整個台北市') ? 99999 : ((center.type === '行政區') ? 5.0 : 3.0);
+        // 2. Filter by distance or keyword
+        let filtered;
+        if (center.type === '關鍵字搜尋') {
+            const q = center.keyword.toLowerCase();
+            filtered = restaurants.filter(res => 
+                (res.name && res.name.toLowerCase().includes(q)) ||
+                (res.address && res.address.toLowerCase().includes(q)) ||
+                (res.cuisine && res.cuisine.toLowerCase().includes(q)) ||
+                (res.district && res.district.toLowerCase().includes(q))
+            );
+        } else {
+            let maxRadius = (center.type === '全市' || center.name === '整個台北市') ? 99999 : ((center.type === '行政區') ? 2.5 : 1.5);
+            if (state.expandedRadius) {
+                maxRadius = (center.type === '全市' || center.name === '整個台北市') ? 99999 : ((center.type === '行政區') ? 5.0 : 3.0);
+            }
+            filtered = restaurants.filter(res => res.distance <= maxRadius);
         }
-        let filtered = restaurants.filter(res => res.distance <= maxRadius);
 
         if (filtered.length === 0) {
             handleNoResults(center);
@@ -2040,15 +2285,22 @@ function refreshMapMarkers() {
         }).addTo(state.map);
         
         const isCurrent = state.searchLocation.type === '目前位置' || state.searchLocation.name === '我附近';
+        let popupTitle = isCurrent ? '您的目前位置' : '您搜尋的位置';
+        let popupWarning = '';
+        if (state.searchLocation.isFallback) {
+            popupWarning = `<div style="font-size: 0.72rem; color: var(--text-muted); margin-top: 4px; border-top: 1px dashed #e2e8f0; padding-top: 4px; line-height: 1.3;">📍 地圖圖資未收錄此門牌，已定位至鄰近路段「${state.searchLocation.fallbackName}」</div>`;
+        }
+
         const popupContent = `
-            <div class="map-popup-compact" style="text-align: center; padding: 4px; min-width: 140px;">
+            <div class="map-popup-compact" style="text-align: center; padding: 4px; min-width: 160px;">
                 <div style="font-size: 1.25rem; margin-bottom: 4px;">${isCurrent ? '📍' : '🔍'}</div>
                 <strong style="color: var(--primary); font-size: 0.9rem; display: block; margin-bottom: 4px;">
-                    ${isCurrent ? '您的目前位置' : '您搜尋的位置'}
+                    ${popupTitle}
                 </strong>
                 <div style="font-size: 0.8rem; color: var(--text-main); font-weight: 600; word-break: break-all;">
                     ${state.searchLocation.name}
                 </div>
+                ${popupWarning}
             </div>
         `;
         centerMarker.bindPopup(popupContent);
@@ -2199,6 +2451,13 @@ function getShareUrl() {
             params.set('lat', state.searchLocation.lat.toFixed(6));
             params.set('lng', state.searchLocation.lng.toFixed(6));
         }
+        if (state.searchLocation.isFallback) {
+            params.set('isFallback', '1');
+            params.set('fbName', state.searchLocation.fallbackName);
+        }
+        if (state.searchLocation.resolvedAddress) {
+            params.set('addr', state.searchLocation.resolvedAddress);
+        }
     }
     state.filters.forEach(f => params.append('f', f));
     if (state.view === 'detail' && state.selectedRestaurant) {
@@ -2329,11 +2588,18 @@ function syncStateFromUrl(isInitialLoad = false, animate = false) {
                 }
             }
 
+            const isFallback = params.get('isFallback') === '1';
+            const fallbackName = params.get('fbName');
+            const resolvedAddress = params.get('addr');
+
             const loc = {
                 name: locName || '分享的位置',
                 lat: parseFloat(lat),
                 lng: parseFloat(lng),
-                type: matchedType
+                type: matchedType,
+                isFallback: isFallback,
+                fallbackName: fallbackName,
+                resolvedAddress: resolvedAddress
             };
             
             // When syncing state back, do not push to history again
@@ -2358,7 +2624,6 @@ function syncStateFromUrl(isInitialLoad = false, animate = false) {
             state.showOthers = false;
             searchInput.value = '';
             clearSearchBtn.classList.add('hidden');
-            if (searchMagnifier) searchMagnifier.classList.remove('hidden');
             searchResultsView.classList.add('hidden');
             if (floatShareBtn) floatShareBtn.classList.add('hidden');
             
