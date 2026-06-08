@@ -1478,5 +1478,18 @@ var locationData = [
       "艋舺",
       "Longshan Temple"
     ]
+  },
+  {
+    "name": "國立故宮博物院",
+    "type": "地標/博物館",
+    "district": "士林區",
+    "lat": 25.102356,
+    "lng": 121.548492,
+    "keywords": [
+      "故宮",
+      "故宮博物院",
+      "國立故宮博物院",
+      "National Palace Museum"
+    ]
   }
 ];

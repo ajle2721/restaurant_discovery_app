@@ -993,25 +993,89 @@ function handleAutocomplete() {
     }
     clearSearchBtn.classList.remove('hidden');
 
-    const matches = state.locationData.filter(loc => {
+    // 1. Filter location matches (preset locations like districts, metro stations)
+    const locationMatches = state.locationData.filter(loc => {
         return loc.name.toLowerCase().includes(query) || 
                (loc.keywords && loc.keywords.some(k => k.toLowerCase().includes(query)));
-    }).slice(0, 8);
+    }).slice(0, 5);
 
-    if (matches.length > 0) {
-        autocompleteDropdown.innerHTML = matches.map(loc => `
-            <div class="autocomplete-item" data-name="${loc.name}">
-                <span class="icon">${loc.type === '行政區' ? '🏘️' : (loc.type.includes('捷運') ? '🚇' : '📍')}</span>
-                <span class="name">${loc.name}</span>
-                <span class="type">${loc.type}</span>
-            </div>
-        `).join('');
+    // 2. Filter restaurant matches (matching name, cuisine, address, or district)
+    let restaurantMatches = [];
+    if (typeof restaurantData !== 'undefined') {
+        restaurantMatches = restaurantData.filter(res => {
+            return (res.name && res.name.toLowerCase().includes(query)) ||
+                   (res.cuisine && res.cuisine.toLowerCase().includes(query)) ||
+                   (res.address && res.address.toLowerCase().includes(query)) ||
+                   (res.district && res.district.toLowerCase().includes(query));
+        }).slice(0, 5);
+    }
+
+    const hasLocations = locationMatches.length > 0;
+    const hasRestaurants = restaurantMatches.length > 0;
+
+    if (hasLocations || hasRestaurants) {
+        let htmlContent = '';
+
+        if (hasLocations) {
+            htmlContent += `
+                <div class="autocomplete-section-title" style="padding: 0.5rem 1rem 0.25rem; font-size: 0.8rem; font-weight: 700; color: var(--text-muted); background: #f8fafc; border-bottom: 1px solid #e2e8f0;">捷運、地標與行政區</div>
+                ${locationMatches.map(loc => `
+                    <div class="autocomplete-item" data-type="location" data-name="${loc.name}">
+                        <span class="icon">${loc.type === '行政區' ? '🏘️' : (loc.type.includes('捷運') ? '🚇' : '📍')}</span>
+                        <span class="name">${loc.name}</span>
+                        <span class="type">${loc.type}</span>
+                    </div>
+                `).join('')}
+            `;
+        }
+
+        if (hasRestaurants) {
+            htmlContent += `
+                <div class="autocomplete-section-title" style="padding: 0.5rem 1rem 0.25rem; font-size: 0.8rem; font-weight: 700; color: var(--text-muted); background: #f8fafc; border-top: ${hasLocations ? '1px solid #e2e8f0' : 'none'}; border-bottom: 1px solid #e2e8f0;">推薦親子餐廳</div>
+                <div class="autocomplete-item" data-type="keyword" data-keyword="${query}">
+                    <span class="icon">🔍</span>
+                    <span class="name" style="color: var(--primary);">搜尋關鍵字「${query}」</span>
+                    <span class="type">搜尋所有符合分店</span>
+                </div>
+                ${restaurantMatches.map(res => `
+                    <div class="autocomplete-item" data-type="restaurant" data-id="${res.place_id}">
+                        <span class="icon">🍴</span>
+                        <span class="name">${res.name}</span>
+                        <span class="type">${res.cuisine || '親子友善餐廳'}</span>
+                    </div>
+                `).join('')}
+            `;
+        }
+
+        autocompleteDropdown.innerHTML = htmlContent;
         autocompleteDropdown.classList.remove('hidden');
 
         autocompleteDropdown.querySelectorAll('.autocomplete-item').forEach(item => {
             item.addEventListener('click', () => {
-                const locObj = matches.find(m => m.name === item.dataset.name);
-                selectLocation(locObj, 'manual_input');
+                const type = item.dataset.type;
+                if (type === 'location') {
+                    const name = item.dataset.name;
+                    const locObj = locationMatches.find(m => m.name === name);
+                    if (locObj) selectLocation(locObj, 'manual_input');
+                } else if (type === 'keyword') {
+                    const keyword = item.dataset.keyword;
+                    executeSearch(keyword);
+                } else if (type === 'restaurant') {
+                    const placeId = item.dataset.id;
+                    const res = restaurantMatches.find(r => r.place_id === placeId);
+                    if (res) {
+                        const customLoc = {
+                            name: res.name,
+                            lat: res.latitude,
+                            lng: res.longitude,
+                            type: '特定餐廳',
+                            place_id: res.place_id
+                        };
+                        selectLocation(customLoc, 'autocomplete_restaurant');
+                        showDetail(res);
+                    }
+                }
+                autocompleteDropdown.classList.add('hidden');
             });
         });
     } else {
