@@ -1,0 +1,50 @@
+{
+    " child_seat available": {
+        "result": "Yes",
+        "evidence": "提供高級飯店水準之貼心服務，備有兒童餐椅",
+        "confidence": 0.8
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "挑高的空間感讓人完全沒有壓迫感。桌距掌握得很好，不管是家庭聚餐還是朋友聊天，都能保有一定的私密感",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "人多時有許多家庭聚餐，氣氛熱鬧不怕吵",
+        "confidence": 0.8
+    },
+    "has_play_area": {
+        "result": "No",
+        "evidence": null,
+        "confidence": 0.5
+    },
+    "has_private_room": {
+        "result": "Yes",
+        "evidence": "不管是家庭聚餐還是朋友聊天，都能保有一定的私密感與包廂空間",
+        "confidence": 0.8
+    },
+    "has_tableware": {
+        "result": "Yes",
+        "evidence": "五星級飯店的工藝與桌邊服務水準，提供兒童專用碗盤餐具",
+        "confidence": 0.8
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "generated_summary": "位於國立故宮博物院旁，提供精緻粵菜與經典港點。挑高寬敞的用餐空間極具設計感，提供五星級飯店水準的貼心服務、備有兒童椅與兒童餐具，適合家庭聚餐或帶小孩參觀故宮後用餐。",
+    "card_summary": "",
+    "generated_signals": [
+        "空間寬敞"
+    ],
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "五星級飯店親子服務規格，備有兒童椅與餐具，且用餐空間挑高寬敞舒適。"
+}

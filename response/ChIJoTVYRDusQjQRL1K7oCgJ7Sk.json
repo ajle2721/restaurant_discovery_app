@@ -1,0 +1,132 @@
+﻿{
+    "id":  "ChIJoTVYRDusQjQRL1K7oCgJ7Sk",
+    "types":  [
+                  "cantonese_restaurant",
+                  "chinese_restaurant",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2882 9393",
+    "formattedAddress":  "111台灣臺北市士林區臨溪里至善路二段221號",
+    "location":  {
+                     "latitude":  25.1012506,
+                     "longitude":  121.54779830000001
+                 },
+    "rating":  4.1,
+    "websiteUri":  "http://www.silkspalace.com.tw/",
+    "priceLevel":  "PRICE_LEVEL_EXPENSIVE",
+    "userRatingCount":  5470,
+    "displayName":  {
+                        "text":  "故宮晶華",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJoTVYRDusQjQRL1K7oCgJ7Sk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOSVNrMUZla1J4YjFwRVltVmZjR1YyUVVkdGJuYxAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  3,
+                        "text":  {
+                                     "text":  "結論：餐點品質在預期內，11：30開門營業但停車場已無停車位，需停故宮外圍停車場。價格偏高，適合4-6人用餐。\n\n交通：位於故宮園區內，雖鄰近西區停車場但車位有限，可能要很早來停車才有位子，連外圍停車場都一位難求。有接駁車、公車等選項，可能搭大眾交通工具更方便（？）。\n\n環境與服務：\n環境也是中規中矩還算乾淨，不過可能人多要很多家庭用餐所以蠻吵的。但餐具很明顯已經用很久且，清潔我是有點堪憂，因為要吃藥，所以上桌先要了杯溫水，水上桌以後我對所有的餐具整潔度都有疑慮，全部都擦了一遍才敢用。門口引導入位的服務人員算親切、但桌邊服務人員可能很忙，所以有點應接不暇的感覺，回應跟送東西都是很匆忙的氛圍。\n\n餐點：每個餐點都在五星級飯店的水準之內，不多贅述。明爐烤鴨除了偏油以外，醬料微酸蠻畫龍點睛的。兩人能吃的東西也很有限（尤其我是胃病纏身的拖油瓶），本想點廣炒還有仕女豆沙包結果都沒那個胃能點，希望之後多跟一些朋友來能點多些菜。\n\n結論：港點單價平均280以上、燒臘、熱炒類都是580以上，甜點每道280以上，茶資每人80元，有香片、烏龍、普洱、鐵觀音，兩人六菜接近三千元。說真的綜合環境、餐點來說，CP值偏低，但食物不雷，所以給三顆星。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "結論：餐點品質在預期內，11：30開門營業但停車場已無停車位，需停故宮外圍停車場。價格偏高，適合4-6人用餐。\n\n交通：位於故宮園區內，雖鄰近西區停車場但車位有限，可能要很早來停車才有位子，連外圍停車場都一位難求。有接駁車、公車等選項，可能搭大眾交通工具更方便（？）。\n\n環境與服務：\n環境也是中規中矩還算乾淨，不過可能人多要很多家庭用餐所以蠻吵的。但餐具很明顯已經用很久且，清潔我是有點堪憂，因為要吃藥，所以上桌先要了杯溫水，水上桌以後我對所有的餐具整潔度都有疑慮，全部都擦了一遍才敢用。門口引導入位的服務人員算親切、但桌邊服務人員可能很忙，所以有點應接不暇的感覺，回應跟送東西都是很匆忙的氛圍。\n\n餐點：每個餐點都在五星級飯店的水準之內，不多贅述。明爐烤鴨除了偏油以外，醬料微酸蠻畫龍點睛的。兩人能吃的東西也很有限（尤其我是胃病纏身的拖油瓶），本想點廣炒還有仕女豆沙包結果都沒那個胃能點，希望之後多跟一些朋友來能點多些菜。\n\n結論：港點單價平均280以上、燒臘、熱炒類都是580以上，甜點每道280以上，茶資每人80元，有香片、烏龍、普洱、鐵觀音，兩人六菜接近三千元。說真的綜合環境、餐點來說，CP值偏低，但食物不雷，所以給三顆星。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Denise Liu",
+                                                  "uri":  "https://www.google.com/maps/contrib/102912605379323961038/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWygN1PcytIqSi_JhEIH6BNdm_HC58gHeE5CrQSryns1fbJHqWh=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2026-02-20T05:12:38.314747383Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOSVNrMUZla1J4YjFwRVltVmZjR1YyUVVkdGJuYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOSVNrMUZla1J4YjFwRVltVmZjR1YyUVVkdGJuYxAB!2m1!1s0x3442ac3b445835a1:0x29ed0928a0bb522f"
+                    },
+                    {
+                        "name":  "places/ChIJoTVYRDusQjQRL1K7oCgJ7Sk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SZlQwVk5ZMlZUUWs1NmJqazJObXhEU0dSSmRuYxAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "「在博物館旁品嚐精緻港點，視覺與味覺的雙重享受」\n來到故宮，除了看展覽，旁邊的「故宮晶華」也是一定要來朝聖的。這次專程來品嚐他們的港點，整體體驗非常優雅且舒適。\n【用餐環境】\n不得不稱讚這裡的建築美學。外觀的冰裂紋設計延伸到室內，挑高的空間感讓人完全沒有壓迫感。桌距掌握得很好，不管是家庭聚餐還是朋友聊天，都能保有一定的私密感，比起一般嘈雜的港式茶餐廳，這裡多了一份從容。\n【點心表現】\n• 蝦仁燒賣 \u0026 鮮蝦腸粉： 蝦仁非常大隻且飽滿彈牙，外皮厚度適中，看得出五星級飯店的工藝水準。\n• 腐皮鮮蝦捲： 炸得金黃酥脆且不油膩，內餡扎實，每一口都能吃到鮮味。\n• 叉燒與燒味： 肉質軟嫩入味，鹹甜比例抓得剛剛好，非常推薦。\n• 甜點（如驢打滾、西米露）： 雖然是港式行程，但這裡的甜點細節做得很好，口感細緻，是完美的結尾。\n【整體心得】\n這裡的服務人員素質很高，收盤與倒茶非常勤快。雖然價位反映了五星級的品質與地段，但能一邊眺望故宮的翠綠山景一邊用餐，這種氛圍確實無可取代。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "「在博物館旁品嚐精緻港點，視覺與味覺的雙重享受」\n來到故宮，除了看展覽，旁邊的「故宮晶華」也是一定要來朝聖的。這次專程來品嚐他們的港點，整體體驗非常優雅且舒適。\n【用餐環境】\n不得不稱讚這裡的建築美學。外觀的冰裂紋設計延伸到室內，挑高的空間感讓人完全沒有壓迫感。桌距掌握得很好，不管是家庭聚餐還是朋友聊天，都能保有一定的私密感，比起一般嘈雜的港式茶餐廳，這裡多了一份從容。\n【點心表現】\n• 蝦仁燒賣 \u0026 鮮蝦腸粉： 蝦仁非常大隻且飽滿彈牙，外皮厚度適中，看得出五星級飯店的工藝水準。\n• 腐皮鮮蝦捲： 炸得金黃酥脆且不油膩，內餡扎實，每一口都能吃到鮮味。\n• 叉燒與燒味： 肉質軟嫩入味，鹹甜比例抓得剛剛好，非常推薦。\n• 甜點（如驢打滾、西米露）： 雖然是港式行程，但這裡的甜點細節做得很好，口感細緻，是完美的結尾。\n【整體心得】\n這裡的服務人員素質很高，收盤與倒茶非常勤快。雖然價位反映了五星級的品質與地段，但能一邊眺望故宮的翠綠山景一邊用餐，這種氛圍確實無可取代。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "JS",
+                                                  "uri":  "https://www.google.com/maps/contrib/112720680032880255021/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjV33uoqoT2xjh_kH1eLmDwxjtEOyoajXqQk8MFgqQVH3n80SaQj=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2026-02-15T14:09:25.651729892Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SZlQwVk5ZMlZUUWs1NmJqazJObXhEU0dSSmRuYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SZlQwVk5ZMlZUUWs1NmJqazJObXhEU0dSSmRuYxAB!2m1!1s0x3442ac3b445835a1:0x29ed0928a0bb522f"
+                    },
+                    {
+                        "name":  "places/ChIJoTVYRDusQjQRL1K7oCgJ7Sk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SWVZWRlplVEZqVm5Fd1FtbDBRbFpRV1VwSGRtYxAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "這算是一家有水準的餐廳，\n從門口，到裡面擺設都有講究，\n\n菜單上的菜色也是獨樹一格的，\n價格上也是一等一的，\n\n唯一美中不足的是那些年輕的服務人員\n看似有水準，但是說話的方式跟跟一般低水平的餐廳沒有兩樣，可能是教育不夠還是剛畢業需要磨練。\n\n再來說說菜色，部分餐點是有價格到位，但是色香味不一定到位，那麼高單價的餐廳，如果做不到色香味，那要用份量取勝，可惜沒有。\n\n最後我覺得總體上來說，\n還是值得來一試，畢竟這也是國家級水準的餐廳，但是還是有很大的進步空間。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "這算是一家有水準的餐廳，\n從門口，到裡面擺設都有講究，\n\n菜單上的菜色也是獨樹一格的，\n價格上也是一等一的，\n\n唯一美中不足的是那些年輕的服務人員\n看似有水準，但是說話的方式跟跟一般低水平的餐廳沒有兩樣，可能是教育不夠還是剛畢業需要磨練。\n\n再來說說菜色，部分餐點是有價格到位，但是色香味不一定到位，那麼高單價的餐廳，如果做不到色香味，那要用份量取勝，可惜沒有。\n\n最後我覺得總體上來說，\n還是值得來一試，畢竟這也是國家級水準的餐廳，但是還是有很大的進步空間。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Calvin HUANG",
+                                                  "uri":  "https://www.google.com/maps/contrib/103708189731627729414/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUEMCV7QxEJvPxNVlISpq8rGh3W3pM3uDjP1oREF9AVURhrplSk=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2026-02-24T12:23:46.234307238Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SWVZWRlplVEZqVm5Fd1FtbDBRbFpRV1VwSGRtYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SWVZWRlplVEZqVm5Fd1FtbDBRbFpRV1VwSGRtYxAB!2m1!1s0x3442ac3b445835a1:0x29ed0928a0bb522f"
+                    },
+                    {
+                        "name":  "places/ChIJoTVYRDusQjQRL1K7oCgJ7Sk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxVVNXdHNZVEF6ZWxORE56WnZTaTB5ZGpOamJsRRAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  2,
+                        "text":  {
+                                     "text":  "裝潢整體感覺環境很不錯\n不過食物方面有待加強\n小籠包完全不行\n明爐烤鴨上菜是冷的\n生菜蝦鬆普普\n肉形石/東坡肉 觀賞完為性質高於好吃\n翠玉白菜挺可愛的吃起來還行\n烏魚子炒飯算是有粒粒分明但味道偏普通\n鴛鴦牛肉麵湯頭還不錯\n蘿蔔糕是好吃的\n彿跳牆算還可以\n整體來說食物都不太好吃\nCP值有點低  應該不會想再訪\n有故宮門票可以打九折",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "裝潢整體感覺環境很不錯\n不過食物方面有待加強\n小籠包完全不行\n明爐烤鴨上菜是冷的\n生菜蝦鬆普普\n肉形石/東坡肉 觀賞完為性質高於好吃\n翠玉白菜挺可愛的吃起來還行\n烏魚子炒飯算是有粒粒分明但味道偏普通\n鴛鴦牛肉麵湯頭還不錯\n蘿蔔糕是好吃的\n彿跳牆算還可以\n整體來說食物都不太好吃\nCP值有點低  應該不會想再訪\n有故宮門票可以打九折",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "吳小咪",
+                                                  "uri":  "https://www.google.com/maps/contrib/111596001979233725689/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVZit1X1x1vtgGAGWulMM1khYl4dFo0jT-VqmeIhJCbxSupSt02=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2026-02-08T23:29:35.540989286Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxVVNXdHNZVEF6ZWxORE56WnZTaTB5ZGpOamJsRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxVVNXdHNZVEF6ZWxORE56WnZTaTB5ZGpOamJsRRAB!2m1!1s0x3442ac3b445835a1:0x29ed0928a0bb522f"
+                    },
+                    {
+                        "name":  "places/ChIJoTVYRDusQjQRL1K7oCgJ7Sk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pObVpFVlJVMVZhYlcxeFNIcFZXV2g1U25jMGRFRRAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "來故宮一遊，預先訂座了故宮晶華吃午餐。這裡菜式精緻又好吃，最特別的是有‘’翠玉白菜‘’ 及 ‘’肉形石‘’可以吃！剛巧今天參觀時這兩個也沒有在展覽，沒得看也有得吃 😄\n\n餐廳環境舒適，菜式選多，味道也很不錯，價格當然是中上，但也是很值得一試的！",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "來故宮一遊，預先訂座了故宮晶華吃午餐。這裡菜式精緻又好吃，最特別的是有‘’翠玉白菜‘’ 及 ‘’肉形石‘’可以吃！剛巧今天參觀時這兩個也沒有在展覽，沒得看也有得吃 😄\n\n餐廳環境舒適，菜式選多，味道也很不錯，價格當然是中上，但也是很值得一試的！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Jessica Mak",
+                                                  "uri":  "https://www.google.com/maps/contrib/117187646088558479344/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVuj3pV3ncDKY-_rMbqoqqvayU2MXVjOde3K_E_v5mjw3FBNLLN=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2026-01-19T09:47:42.827852848Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pObVpFVlJVMVZhYlcxeFNIcFZXV2g1U25jMGRFRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pObVpFVlJVMVZhYlcxeFNIcFZXV2g1U25jMGRFRRAB!2m1!1s0x3442ac3b445835a1:0x29ed0928a0bb522f"
+                    }
+                ]
+}
