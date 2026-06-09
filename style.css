@@ -2932,3 +2932,43 @@ body {
 }
 
 
+/* Generic browser guideline (iOS Chrome, in-app browsers, etc.) */
+.pwa-browser-guideline {
+    margin-top: 12px;
+    border-top: 1px dashed rgba(0, 0, 0, 0.1);
+    padding-top: 12px;
+    text-align: left;
+}
+
+.pwa-browser-text {
+    font-size: 0.82rem;
+    color: var(--text-main);
+    line-height: 1.6;
+}
+
+.pwa-step {
+    display: flex;
+    align-items: flex-start;
+    gap: 8px;
+    margin-bottom: 6px;
+}
+
+.pwa-step-num {
+    flex-shrink: 0;
+    width: 20px;
+    height: 20px;
+    background: var(--primary);
+    color: white;
+    border-radius: 50%;
+    font-size: 0.7rem;
+    font-weight: 700;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 2px;
+}
+
+.pwa-step-desc {
+    flex: 1;
+    color: var(--text-main);
+}

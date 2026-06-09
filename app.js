@@ -3703,22 +3703,68 @@ function setupPwaInstallPrompt() {
 
     if (installBtn) {
         installBtn.addEventListener('click', () => {
-            const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
-            
-            if (isIOS) {
-                // For iOS, show the guideline overlay pointing down
+            const ua = navigator.userAgent;
+            const isIOS = /iPad|iPhone|iPod/.test(ua) && !window.MSStream;
+            const isAndroid = /Android/.test(ua);
+
+            // --- Detect browser context ---
+            const isIOSSafari   = isIOS && /WebKit/.test(ua) && !/CriOS/.test(ua) && !/GSA/.test(ua) && !/Line\//.test(ua) && !/FBAV/.test(ua) && !/FBAN/.test(ua) && !/Instagram/.test(ua);
+            const isIOSChrome   = isIOS && /CriOS/.test(ua);
+            const isIOSInApp    = isIOS && !isIOSSafari && !isIOSChrome; // LINE, GSA, FB, IG, Messenger, etc.
+            const isAndroidInApp= isAndroid && /Line\/|FBAV|FBAN|Instagram|MicroMessenger/.test(ua);
+
+            // Helper: show a guideline panel and transform buttons
+            function showGuideline(guidelineEl, descText) {
+                guidelineEl.classList.remove('hidden');
+                installBtn.style.display = 'none';
+                cancelBtn.textContent = '我知道了';
+                const descEl = promptEl.querySelector('.pwa-prompt-desc');
+                if (descEl) descEl.textContent = descText;
+            }
+
+            // Helper: build numbered step HTML
+            function steps(arr) {
+                return arr.map((s, i) =>
+                    `<div class="pwa-step"><span class="pwa-step-num">${i + 1}</span><span class="pwa-step-desc">${s}</span></div>`
+                ).join('');
+            }
+
+            if (isIOSSafari) {
+                // Show Safari-specific panel (arrow pointing down to bottom toolbar)
                 const iosGuideline = promptEl.querySelector('.pwa-ios-guideline');
-                if (iosGuideline) {
-                    iosGuideline.classList.remove('hidden');
-                    // Transform the buttons: hide primary, make cancel button act as Got-it dismisser
-                    installBtn.style.display = 'none';
-                    cancelBtn.textContent = '我知道了';
-                    promptEl.querySelector('.pwa-prompt-desc').textContent = '依照下方導引，即可將此網頁安裝至主畫面。';
+                if (iosGuideline) showGuideline(iosGuideline, '依照下方導引，即可將此網頁安裝至主畫面。');
+
+            } else if (isIOSChrome) {
+                // iOS Chrome: share button is at top right
+                const browserGuideline = promptEl.querySelector('.pwa-browser-guideline');
+                const browserText      = promptEl.querySelector('.pwa-browser-text');
+                if (browserGuideline && browserText) {
+                    browserText.innerHTML = steps([
+                        '點擊右上角的分享圖示 ↑（網址列右側）',
+                        '在選單中選擇「<strong>加入主畫面</strong>」➕',
+                        '點擊右上角「新增」即完成！',
+                    ]);
+                    showGuideline(browserGuideline, '依照下方步驟，用 Chrome 加入主畫面：');
                 }
+
+            } else if (isIOSInApp) {
+                // iOS in-app browser (LINE、Google App、Facebook、Instagram 等)
+                const browserGuideline = promptEl.querySelector('.pwa-browser-guideline');
+                const browserText      = promptEl.querySelector('.pwa-browser-text');
+                if (browserGuideline && browserText) {
+                    browserText.innerHTML =
+                        '<div style="margin-bottom:8px;">📌 目前的瀏覽器不支援直接安裝，請先用 <strong>Safari</strong> 開啟：</div>' +
+                        steps([
+                            '點擊右上角的 <strong>⋯</strong> 或分享按鈕',
+                            '選擇「<strong>用 Safari 開啟</strong>」或「<strong>在 Safari 中繼續</strong>」',
+                            '在 Safari 底部工具列點「分享 ↑」→ 選「加入主畫面」➕',
+                        ]);
+                    showGuideline(browserGuideline, '需要切換到 Safari 才能安裝：');
+                }
+
             } else if (deferredPrompt) {
-                // Show the native browser install prompt
+                // Android Chrome (or other supporting browsers): native install prompt
                 deferredPrompt.prompt();
-                // Wait for the user to respond to the prompt
                 deferredPrompt.userChoice.then((choiceResult) => {
                     if (choiceResult.outcome === 'accepted') {
                         console.log('User accepted the PWA install prompt');
@@ -3728,8 +3774,24 @@ function setupPwaInstallPrompt() {
                     deferredPrompt = null;
                 });
                 if (promptEl) promptEl.classList.remove('show');
+
+            } else if (isAndroidInApp) {
+                // Android in-app browser (LINE, Facebook, Instagram, WeChat...)
+                const browserGuideline = promptEl.querySelector('.pwa-browser-guideline');
+                const browserText      = promptEl.querySelector('.pwa-browser-text');
+                if (browserGuideline && browserText) {
+                    browserText.innerHTML =
+                        '<div style="margin-bottom:8px;">📌 請先用 <strong>Chrome</strong> 開啟此頁面：</div>' +
+                        steps([
+                            '點擊右上角的 <strong>⋯</strong> 選單',
+                            '選擇「<strong>用預設瀏覽器開啟</strong>」或「<strong>在 Chrome 中開啟</strong>」',
+                            '在 Chrome 中點右上角選單 → 選「<strong>新增至主畫面</strong>」',
+                        ]);
+                    showGuideline(browserGuideline, '需要切換到 Chrome 才能安裝：');
+                }
+
             } else {
-                // Fallback for other platforms/browsers
+                // Fallback
                 const descEl = promptEl.querySelector('.pwa-prompt-desc');
                 if (descEl) {
                     descEl.innerHTML = '請點擊瀏覽器選單中的「<strong>新增至主畫面</strong>」或「<strong>安裝應用程式</strong>」即可安裝。';
