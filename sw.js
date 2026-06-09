@@ -9,11 +9,16 @@ self.addEventListener('activate', (event) => {
 });
 
 self.addEventListener('fetch', (event) => {
-    // Satisfy PWA criteria by responding to fetch events
-    // Fetch directly from the network to avoid caching outdated files
+    // Only intercept local GET requests to avoid breaking external analytics, maps, or other cross-origin assets
+    if (event.request.method !== 'GET' || !event.request.url.startsWith(self.location.origin)) {
+        return; // Let browser handle it natively
+    }
+
     event.respondWith(
         fetch(event.request).catch((err) => {
-            // Silently fail if offline or network unavailable
+            console.warn('SW fetch failed:', err);
+            // Return a valid Response object instead of undefined to satisfy browser API contract
+            return new Response('Network error', { status: 480, statusText: 'Network Error' });
         })
     );
 });

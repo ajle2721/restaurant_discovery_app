@@ -1,4 +1,4 @@
-﻿const WEB3FORMS_ACCESS_KEY = "c7b3994f-f590-4126-a12f-111c28c58a19";
+const WEB3FORMS_ACCESS_KEY = "c7b3994f-f590-4126-a12f-111c28c58a19";
 
 const state = {
     filters: new Set(),
@@ -2860,6 +2860,7 @@ function formatRestaurantName(name) {
     }).join('<wbr>');
 }
 
+
 function patchAiSummary(restaurant, summary) {
     if (!summary) return '';
     
@@ -2870,86 +2871,54 @@ function patchAiSummary(restaurant, summary) {
     
     if (hasHighChair || hasTableware) {
         if (hasHighChair && hasTableware) {
-            if (patched.includes('銝行???咱擗?)) {
-                // Case 1: Kids menu is explicitly NO
-                patched = patched.replace(
-                    /銝?摨振銝行???咱擗?銝??桀?|currently)?閰?銝剜???咱璊??瑟?撠踹???蝑身???/g,
-                    '????蝡交???蝡仿??瘀?雿?摰嗡蒂?芣?靘?蝡仿?嚗??桀?閰?銝剜?孵??撠踹???2'
-                );
-            } else {
-                // Case 2: Kids menu is UNKNOWN (it is listed as unmentioned in reviews)
-                patched = patched.replace(
-                    /(?桀?|currently)?閰?銝剜???咱擗?蝡交????瑟?撠踹???蝑身???/g,
-                    '????蝡交???蝡仿??瘀?雿??隢葉?芰?交???蝡仿??倏撣$2'
-                );
-                patched = patched.replace(
-                    /(?桀?|currently)?閰?銝剜???咱璊??瑟?撠踹???蝑身???/g,
-                    '????蝡交???蝡仿??瘀?雿??隢葉?芰?交??倏撣$2'
-                );
-                patched = patched.replace(
-                    /(?桀?|currently)?閰?銝剜???咱擗?蝡交?????g,
-                    '????蝡交???蝡仿??瘀?雿??隢葉?芰?交???蝡仿?'
-                );
-                patched = patched.replace(
-                    /(?桀?|currently)?閰?銝剜???咱璊???g,
-                    '????蝡交???蝡仿???
-                );
-            }
+            // "不過店家並未提供兒童餐，且目前評論中未提及兒童椅、餐具或尿布台等設施"
+            patched = patched.replace(
+                /不過店家並未提供兒童餐，且(目前)?評論中未提及兒童椅、餐具或尿布台(等設施)?/g,
+                '應備有兒童椅與兒童餐具，但店家並未提供兒童餐，且目前評論中未特別提及尿布台$2'
+            );
+            // "目前評論中未提及兒童椅、餐具或尿布台等設施"
+            patched = patched.replace(
+                /(目前)?評論中未提及兒童椅、餐具或尿布台(等設施)?/g,
+                '應備有兒童椅與兒童餐具，但目前評論中未特別提及尿布台$2'
+            );
+            // "目前評論中未提及兒童椅、餐具"
+            patched = patched.replace(
+                /(目前)?評論中未提及兒童椅、餐具/g,
+                '應備有兒童椅與兒童餐具'
+            );
         } else if (hasHighChair) {
-            if (patched.includes('銝行???咱擗?)) {
-                patched = patched.replace(
-                    /銝?摨振銝行???咱擗?銝??桀?|currently)?閰?銝剜???咱璊??瑟?撠踹???蝑身???/g,
-                    '????蝡交?嚗?摨振銝行???咱擗?銝??隢葉?芰?交????瑟?撠踹???2'
-                );
-            } else {
-                patched = patched.replace(
-                    /(currently|?桀?)?閰?銝剜???咱擗?蝡交????瑟?撠踹???蝑身???/g,
-                    '????蝡交?嚗??桀?閰?銝剜?孵???咱擗??瑟?撠踹???2'
-                );
-                patched = patched.replace(
-                    /(currently|?桀?)?閰?銝剜???咱璊??瑟?撠踹???蝑身???/g,
-                    '????蝡交?嚗??桀?閰?銝剜?孵??擗?倏撣$2'
-                );
-                patched = patched.replace(
-                    /(?桀?|currently)?閰?銝剜???咱擗?蝡交?/g,
-                    '????蝡交?嚗??桀?閰?銝剜?孵???咱擗?
-                );
-                patched = patched.replace(
-                    /(?桀?|currently)?閰?銝剜???咱璊?g,
-                    '????蝡交?'
-                );
-            }
+            patched = patched.replace(
+                /不過店家並未提供兒童餐，且(目前)?評論中未提及兒童椅、餐具或尿布台(等設施)?/g,
+                '應備有兒童椅，但店家並未提供兒童餐，且目前評論中未特別提及餐具或尿布台$2'
+            );
+            patched = patched.replace(
+                /(目前)?評論中未提及兒童椅、餐具或尿布台(等設施)?/g,
+                '應備有兒童椅，但目前評論中未特別提及餐具或尿布台$2'
+            );
+            patched = patched.replace(
+                /(目前)?評論中未提及兒童椅/g,
+                '應備有兒童椅'
+            );
         } else if (hasTableware) {
-            if (patched.includes('銝行???咱擗?)) {
-                patched = patched.replace(
-                    /銝?摨振銝行???咱擗?銝??桀?|currently)?閰?銝剜???咱璊??瑟?撠踹???蝑身???/g,
-                    '????蝡仿??瘀?雿?摰嗡蒂?芣?靘?蝡仿?嚗??桀?閰?銝剜?孵???咱璊?撠踹???2'
-                );
-            } else {
-                patched = patched.replace(
-                    /(currently|?桀?)?閰?銝剜???咱擗?蝡交????瑟?撠踹???蝑身???/g,
-                    '????蝡仿??瘀?雿??隢葉?芰?交???蝡仿???蝡交??倏撣$2'
-                );
-                patched = patched.replace(
-                    /(currently|?桀?)?閰?銝剜???咱璊??瑟?撠踹???蝑身???/g,
-                    '????蝡仿??瘀?雿??隢葉?芰?交???蝡交??倏撣$2'
-                );
-                patched = patched.replace(
-                    /(?桀?|currently)?閰?銝剜???咱擗???g,
-                    '????蝡仿??瘀?雿??隢葉?芰?交???蝡仿?'
-                );
-                patched = patched.replace(
-                    /(?桀?|currently)?閰?銝剜??擗/g,
-                    '????蝡仿???
-                );
-            }
+            patched = patched.replace(
+                /不過店家並未提供兒童餐，且(currently)?評論中未提及兒童椅、餐具或尿布台(等設施)?/g,
+                '應備有兒童餐具，但店家並未提供兒童餐，且目前評論中未特別提及兒童椅或尿布台$2'
+            );
+            patched = patched.replace(
+                /(currently)?評論中未提及兒童椅、餐具或尿布台(等設施)?/g,
+                '應備有兒童餐具，但目前評論中未特別提及兒童椅或尿布台$2'
+            );
+            patched = patched.replace(
+                /(目前)?評論中未提及餐具/g,
+                '應備有兒童餐具'
+            );
         }
         
-        if (patched.includes('?桀?閰?銝剛?撠???閬芸??券??賊??擃?閮?)) {
+        if (patched.includes('目前評論中較少提及與親子用餐相關的具體資訊')) {
             const facilities = [];
-            if (hasHighChair) facilities.push('?咱璊?);
-            if (hasTableware) facilities.push('?咱擗');
-            patched = patched.replace('?桀?閰?銝剛?撠???閬芸??券??賊??擃?閮?, `????{facilities.join('??)}嚗??桀?閰?銝剛?撠???敦蝭`);
+            if (hasHighChair) facilities.push('兒童椅');
+            if (hasTableware) facilities.push('兒童餐具');
+            patched = patched.replace('目前評論中較少提及與親子用餐相關的具體資訊', `應備有${facilities.join('與')}，但目前評論中較少提及相關細節`);
         }
     }
     
