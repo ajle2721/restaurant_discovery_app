@@ -1,4 +1,4 @@
-const WEB3FORMS_ACCESS_KEY = "c7b3994f-f590-4126-a12f-111c28c58a19";
+﻿const WEB3FORMS_ACCESS_KEY = "c7b3994f-f590-4126-a12f-111c28c58a19";
 
 const state = {
     filters: new Set(),
@@ -2825,23 +2825,75 @@ function shareRestaurant(res) {
 // Utilities
 function fixSimplifiedAddress(addr) {
     if (!addr) return '';
-    return addr
-        .replace(/东路/g, '東路')
-        .replace(/信义/g, '信義')
-        .replace(/万华/g, '萬華')
-        .replace(/区/g, '區')
-        .replace(/号/g, '號')
-        .replace(/楼/g, '樓')
-        .replace(/湾/g, '灣')
-        .replace(/台/g, '臺')
-        .replace(/国/g, '國')
-        .replace(/学/g, '學')
-        .replace(/发/g, '發')
-        .replace(/电/g, '電')
-        .replace(/复/g, '復')
-        .replace(/关/g, '關')
-        .replace(/园/g, '園');
+    
+    const charMap = {
+        '东': '東',
+        '义': '義',
+        '万': '萬',
+        '区': '區',
+        '号': '號',
+        '楼': '樓',
+        '湾': '灣',
+        '台': '臺',
+        '国': '國',
+        '学': '學',
+        '发': '發',
+        '电': '電',
+        '复': '復',
+        '关': '關',
+        '园': '園',
+        '龙': '龍',
+        '兴': '興',
+        '庄': '莊',
+        '丰': '豐',
+        '双': '雙',
+        '华': '華',
+        '临': '臨',
+        '庆': '慶',
+        '宝': '寶',
+        '宁': '寧',
+        '辽': '遼',
+        '阳': '陽',
+        '桥': '橋',
+        '铁': '鐵',
+        '营': '營',
+        '头': '頭',
+        '观': '觀',
+        '门': '門',
+        '乐': '樂',
+        '艺': '藝',
+        '爱': '愛',
+        '广': '廣',
+        '苏': '蘇',
+        '芦': '蘆',
+        '温': '溫',
+        '叶': '葉',
+        '荣': '榮',
+        '卫': '衛',
+        '丽': '麗',
+        '罗': '羅',
+        '恒': '恆',
+        '馆': '館',
+        '栋': '棟',
+        '柜': '櫃',
+        '县': '縣',
+        '镇': '鎮',
+        '乡': '鄉',
+        '经': '經',
+        '贸': '貿',
+        '农': '農',
+        '剑': '劍',
+        '仑': '崙'
+    };
+    
+    let result = '';
+    for (let i = 0; i < addr.length; i++) {
+        const char = addr[i];
+        result += charMap[char] || char;
+    }
+    return result;
 }
+
 
 function formatRestaurantName(name) {
     if (!name) return '';
@@ -2870,48 +2922,108 @@ function patchAiSummary(restaurant, summary) {
     let patched = summary;
     
     if (hasHighChair || hasTableware) {
-        if (hasHighChair && hasTableware) {
-            // "不過店家並未提供兒童餐，且目前評論中未提及兒童椅、餐具或尿布台等設施"
-            patched = patched.replace(
-                /不過店家並未提供兒童餐，且(目前)?評論中未提及兒童椅、餐具或尿布台(等設施)?/g,
-                '應備有兒童椅與兒童餐具，但店家並未提供兒童餐，且目前評論中未特別提及尿布台$2'
-            );
-            // "目前評論中未提及兒童椅、餐具或尿布台等設施"
-            patched = patched.replace(
-                /(目前)?評論中未提及兒童椅、餐具或尿布台(等設施)?/g,
-                '應備有兒童椅與兒童餐具，但目前評論中未特別提及尿布台$2'
-            );
-            // "目前評論中未提及兒童椅、餐具"
-            patched = patched.replace(
-                /(目前)?評論中未提及兒童椅、餐具/g,
-                '應備有兒童椅與兒童餐具'
-            );
-        } else if (hasHighChair) {
-            patched = patched.replace(
-                /不過店家並未提供兒童餐，且(目前)?評論中未提及兒童椅、餐具或尿布台(等設施)?/g,
-                '應備有兒童椅，但店家並未提供兒童餐，且目前評論中未特別提及餐具或尿布台$2'
-            );
-            patched = patched.replace(
-                /(目前)?評論中未提及兒童椅、餐具或尿布台(等設施)?/g,
-                '應備有兒童椅，但目前評論中未特別提及餐具或尿布台$2'
-            );
-            patched = patched.replace(
-                /(目前)?評論中未提及兒童椅/g,
-                '應備有兒童椅'
-            );
-        } else if (hasTableware) {
-            patched = patched.replace(
-                /不過店家並未提供兒童餐，且(currently)?評論中未提及兒童椅、餐具或尿布台(等設施)?/g,
-                '應備有兒童餐具，但店家並未提供兒童餐，且目前評論中未特別提及兒童椅或尿布台$2'
-            );
-            patched = patched.replace(
-                /(currently)?評論中未提及兒童椅、餐具或尿布台(等設施)?/g,
-                '應備有兒童餐具，但目前評論中未特別提及兒童椅或尿布台$2'
-            );
-            patched = patched.replace(
-                /(目前)?評論中未提及餐具/g,
-                '應備有兒童餐具'
-            );
+        const isKidsMenuNo = (restaurant.attributes && restaurant.attributes.kids_menu === 'no') || 
+                             /(?:不|未)提供(?:專屬(?:的)?)?兒童(?:專屬)?餐/.test(patched);
+        
+        // Clean up negative kids menu statements to avoid duplicates
+        const cleanKidsMenuRegex = /(?:不過[，]?|但|且)?\s*(?:店家|官方|餐廳|店內)?\s*(?:目前|明確|官方)?\s*(?:標記顯示|明確表示|明確標示|顯示)?\s*(?:並)?(?:不|未)提供(?:專屬(?:的)?)?兒童(?:專屬)?餐點?[。，]?\s*(?:且|但)?/g;
+        patched = patched.replace(cleanKidsMenuRegex, '');
+
+        const regex1 = /(currently|目前|但|不過|且)?(?:顧客)?(?:評論中|店內)?(?:並|尚未)?(未提及|尚未提及|並未提及|較少提及|未特別提及|未及|未提到|較少提及|未多提及)\s*([a-zA-Z0-9\u4e00-\u9fa5、或及與／/]+?)\s*(等[\u4e00-\u9fa5]{0,15}(?:設施|設備|資訊|服務|設備需求|環境|細節|功能|資訊)(?:[\u3002\uff0c\u002c\u002e\s])?)/g;
+        const regex2 = /(?:但)?\s*(?:店內)?\s*是否提供\s*([a-zA-Z0-9\u4e00-\u9fa5、或及與／/]+?)\s*(等[\u4e00-\u9fa5]{0,15}(?:設施|設備|資訊|服務|設備需求|環境|細節|功能|資訊)(?:[\uff0c\u002c\s])?)(?:顧客)?(?:評論中|店內)?(?:並|尚未)?(尚未提及|未及|未提及|尚未提及|並未提及|較少提及|未特別提及|未提到)(?:[\u3002\uff0c\u002c\u002e\s])?/g;
+
+        const replacer1 = (match, prefix, verb, listStr, suffix) => {
+            const hasChairMention = /兒童椅|兒童座椅|座椅/.test(listStr);
+            const hasTablewareMention = /兒童餐具|餐具/.test(listStr);
+            const hasDiaperMention = /尿布台/.test(listStr);
+            const hasPlayMention = /遊戲區|遊樂區|遊戲設施/.test(listStr);
+            const hasKidsMenuMention = /兒童餐|兒童餐點|專屬的兒童餐點/.test(listStr);
+
+            let remains = [];
+            if (!isKidsMenuNo && hasKidsMenuMention) remains.push('兒童餐');
+            if (hasDiaperMention) remains.push('尿布台');
+            if (hasPlayMention) remains.push('遊戲區');
+            if (hasChairMention && !hasHighChair) remains.push('兒童椅');
+            if (hasTablewareMention && !hasTableware) remains.push('兒童餐具');
+
+            let shouldHave = '';
+            if (hasHighChair && hasTableware && (hasChairMention || hasTablewareMention)) {
+                shouldHave = '應備有兒童椅與兒童餐具';
+            } else if (hasHighChair && hasChairMention) {
+                shouldHave = '應備有兒童椅';
+            } else if (hasTableware && hasTablewareMention) {
+                shouldHave = '應備有兒童餐具';
+            }
+
+            if (!shouldHave) return match;
+
+            let endPunc = '，';
+            if (/。/.test(suffix)) endPunc = '。';
+            else if (/,/.test(suffix)) endPunc = ',';
+
+            if (isKidsMenuNo) {
+                let remainsStr = '';
+                if (remains.length > 0) {
+                    remainsStr = `，且目前評論中未特別提及${remains.join('與')}等設施`;
+                }
+                return `${shouldHave}，但店家並未提供兒童餐${remainsStr}${endPunc}`;
+            } else {
+                let remainsStr = '';
+                if (remains.length > 0) {
+                    remainsStr = `，但目前評論中未特別提及${remains.join('與')}等設施`;
+                }
+                return `${shouldHave}${remainsStr}${endPunc}`;
+            }
+        };
+
+        const replacer2 = (match, listStr, suffix, verb) => {
+            const hasChairMention = /兒童椅|兒童座椅|座椅/.test(listStr);
+            const hasTablewareMention = /兒童餐具|餐具/.test(listStr);
+            const hasDiaperMention = /尿布台/.test(listStr);
+            const hasPlayMention = /遊戲區|遊樂區|遊戲設施/.test(listStr);
+            const hasKidsMenuMention = /兒童餐|兒童餐點|專屬的兒童餐點/.test(listStr);
+
+            let remains = [];
+            if (!isKidsMenuNo && hasKidsMenuMention) remains.push('兒童餐');
+            if (hasDiaperMention) remains.push('尿布台');
+            if (hasPlayMention) remains.push('遊戲區');
+            if (hasChairMention && !hasHighChair) remains.push('兒童椅');
+            if (hasTablewareMention && !hasTableware) remains.push('兒童餐具');
+
+            let shouldHave = '';
+            if (hasHighChair && hasTableware && (hasChairMention || hasTablewareMention)) {
+                shouldHave = '應備有兒童椅與兒童餐具';
+            } else if (hasHighChair && hasChairMention) {
+                shouldHave = '應備有兒童椅';
+            } else if (hasTableware && hasTablewareMention) {
+                shouldHave = '應備有兒童餐具';
+            }
+
+            if (!shouldHave) return match;
+
+            let endPunc = '，';
+            if (/。/.test(verb)) endPunc = '。';
+            else if (/,/.test(verb)) endPunc = ',';
+
+            if (isKidsMenuNo) {
+                let remainsStr = '';
+                if (remains.length > 0) {
+                    remainsStr = `，且目前評論中未特別提及${remains.join('與')}等設施`;
+                }
+                return `${shouldHave}，但店家並未提供兒童餐${remainsStr}${endPunc}`;
+            } else {
+                let remainsStr = '';
+                if (remains.length > 0) {
+                    remainsStr = `，但目前評論中未特別提及${remains.join('與')}等設施`;
+                }
+                return `${shouldHave}${remainsStr}${endPunc}`;
+            }
+        };
+
+        let beforeReplace = patched;
+        patched = patched.replace(regex1, replacer1);
+        if (patched === beforeReplace) {
+            patched = patched.replace(regex2, replacer2);
         }
         
         if (patched.includes('目前評論中較少提及與親子用餐相關的具體資訊')) {
@@ -2922,8 +3034,49 @@ function patchAiSummary(restaurant, summary) {
         }
     }
     
+    // --- Generic template summary: append parent-friendly info ---
+    // Detect summaries that are generic food/service templates with no parent-friendly content
+    const parentKeywordRe = /兒童|親子|小孩|小朋友|推車|尿布|遊戲|不怕吵|座椅|餐椅|餐具|兒童餐|高腳椅|適合帶|帶孩子|攜帶幼童|適合兒童|嬰兒/;
+    const isGenericTemplate = /^根據評論分析，/.test(patched) && !parentKeywordRe.test(patched);
+
+    if (isGenericTemplate && restaurant.attributes) {
+        const attrs = restaurant.attributes;
+        const confirmed = [];
+        if (attrs.high_chair_available === 'yes') confirmed.push('兒童椅');
+        if (attrs.has_tableware === 'yes') confirmed.push('兒童餐具');
+        if (attrs.kids_menu === 'yes') confirmed.push('兒童餐');
+        if (attrs.has_diaper_table === 'yes') confirmed.push('尿布台');
+        if (attrs.has_play_area === 'yes') confirmed.push('遊戲區');
+        if (attrs.spacious_seating === 'yes') confirmed.push('寬敞座位');
+        if (attrs.has_private_room === 'yes') confirmed.push('包廂');
+
+        if (confirmed.length > 0 || attrs.kid_noise_tolerant === 'yes') {
+            let infoSentence = '';
+            if (confirmed.length > 0) {
+                const last = confirmed[confirmed.length - 1];
+                const rest = confirmed.slice(0, -1);
+                const listStr = rest.length > 0 ? rest.join('、') + '與' + last : last;
+                infoSentence = `依官方標記，該店備有${listStr}`;
+                if (attrs.kids_menu === 'no') {
+                    infoSentence += '，但不提供兒童餐';
+                }
+                if (attrs.kid_noise_tolerant === 'yes') {
+                    infoSentence += '，環境不怕吵鬧，適合親子用餐';
+                } else {
+                    infoSentence += '，適合親子用餐';
+                }
+            } else if (attrs.kid_noise_tolerant === 'yes') {
+                infoSentence = '依官方標記，該店環境友善，不怕孩子吵鬧，適合親子用餐';
+            }
+            if (infoSentence) {
+                patched = patched.replace(/。\s*$/, '。') + infoSentence + '。';
+            }
+        }
+    }
+
     return patched;
 }
+
 
 let toastTimeoutId = null;
 function showToast(msg, duration = 3000) {
@@ -3606,15 +3759,19 @@ function checkPwaInstallTrigger() {
         return;
     }
 
-    // Evaluate triggers
+    // Skip desktop users (devices with a precise pointer, i.e. mouse)
+    const isDesktop = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
+    if (isDesktop) return;
+
+    // Evaluate triggers (mobile only)
     const visitCount = parseInt(localStorage.getItem('pwa_visit_count') || '0', 10);
     const sessionDuration = (Date.now() - pwaSessionStartTime) / 1000; // in seconds
-    const detailViewsCount = state.detailViews ? state.detailViews.size : 0;
 
-    const shouldShow = (visitCount >= 3) || (sessionDuration >= 120 && detailViewsCount >= 3);
+    // Show if: 3rd+ visit, OR used continuously for 60+ seconds
+    const shouldShow = (visitCount >= 3) || (sessionDuration >= 60);
 
     if (shouldShow && !promptEl.classList.contains('show')) {
-        console.log(`Triggering PWA install prompt: visits=${visitCount}, duration=${sessionDuration.toFixed(1)}s, detailViews=${detailViewsCount}`);
+        console.log(`Triggering PWA install prompt: visits=${visitCount}, duration=${sessionDuration.toFixed(1)}s`);
         promptEl.classList.remove('hidden');
         // Let it render first, then add class for transition
         setTimeout(() => {
