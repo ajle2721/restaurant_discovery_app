@@ -3749,17 +3749,29 @@ function setupPwaInstallPrompt() {
 
             } else if (isIOSInApp) {
                 // iOS in-app browser (LINE、Google App、Facebook、Instagram 等)
+                // 只引導切換到外部瀏覽器，切換後 PWA 提示會自動重新出現
                 const browserGuideline = promptEl.querySelector('.pwa-browser-guideline');
                 const browserText      = promptEl.querySelector('.pwa-browser-text');
                 if (browserGuideline && browserText) {
-                    browserText.innerHTML =
-                        '<div style="margin-bottom:8px;">📌 目前的瀏覽器不支援直接安裝，請先用 <strong>Safari</strong> 開啟：</div>' +
-                        steps([
-                            '點擊右上角的 <strong>⋯</strong> 或分享按鈕',
-                            '選擇「<strong>用 Safari 開啟</strong>」或「<strong>在 Safari 中繼續</strong>」',
-                            '在 Safari 底部工具列點「分享 ↑」→ 選「加入主畫面」➕',
-                        ]);
-                    showGuideline(browserGuideline, '需要切換到 Safari 才能安裝：');
+                    const isLINE = /Line\//.test(ua);
+                    if (isLINE) {
+                        browserText.innerHTML =
+                            '<div style="margin-bottom:8px;">此頁在 LINE 內開啟，無法直接安裝。</div>' +
+                            steps([
+                                '點擊畫面<strong>右下角</strong>的分享按鈕 ↑',
+                                '選擇「<strong>在瀏覽器中開啟</strong>」',
+                                '網頁在 Safari 開啟後，提示將自動再次出現 🎉',
+                            ]);
+                    } else {
+                        browserText.innerHTML =
+                            '<div style="margin-bottom:8px;">此頁在 App 內開啟，無法直接安裝。</div>' +
+                            steps([
+                                '點擊瀏覽器內的 <strong>⋯</strong> 選單或分享按鈕',
+                                '選擇「<strong>在 Safari 中開啟</strong>」或「<strong>用瀏覽器開啟</strong>」',
+                                '網頁在 Safari 開啟後，提示將自動再次出現 🎉',
+                            ]);
+                    }
+                    showGuideline(browserGuideline, '請先切換到 Safari：');
                 }
 
             } else if (deferredPrompt) {
@@ -3777,17 +3789,29 @@ function setupPwaInstallPrompt() {
 
             } else if (isAndroidInApp) {
                 // Android in-app browser (LINE, Facebook, Instagram, WeChat...)
+                // 只引導切換到外部瀏覽器，切換後 PWA 提示會自動重新出現
                 const browserGuideline = promptEl.querySelector('.pwa-browser-guideline');
                 const browserText      = promptEl.querySelector('.pwa-browser-text');
                 if (browserGuideline && browserText) {
-                    browserText.innerHTML =
-                        '<div style="margin-bottom:8px;">📌 請先用 <strong>Chrome</strong> 開啟此頁面：</div>' +
-                        steps([
-                            '點擊右上角的 <strong>⋯</strong> 選單',
-                            '選擇「<strong>用預設瀏覽器開啟</strong>」或「<strong>在 Chrome 中開啟</strong>」',
-                            '在 Chrome 中點右上角選單 → 選「<strong>新增至主畫面</strong>」',
-                        ]);
-                    showGuideline(browserGuideline, '需要切換到 Chrome 才能安裝：');
+                    const isLINE = /Line\//.test(ua);
+                    if (isLINE) {
+                        browserText.innerHTML =
+                            '<div style="margin-bottom:8px;">此頁在 LINE 內開啟，無法直接安裝。</div>' +
+                            steps([
+                                '點擊畫面<strong>右下角</strong>的分享按鈕 ↑',
+                                '選擇「<strong>在瀏覽器中開啟</strong>」',
+                                '網頁在 Chrome 開啟後，提示將自動再次出現 🎉',
+                            ]);
+                    } else {
+                        browserText.innerHTML =
+                            '<div style="margin-bottom:8px;">此頁在 App 內開啟，無法直接安裝。</div>' +
+                            steps([
+                                '點擊瀏覽器內的 <strong>⋯</strong> 選單或分享按鈕',
+                                '選擇「<strong>用預設瀏覽器開啟</strong>」或「<strong>在 Chrome 中開啟</strong>」',
+                                '網頁在 Chrome 開啟後，提示將自動再次出現 🎉',
+                            ]);
+                    }
+                    showGuideline(browserGuideline, '請先切換到 Chrome：');
                 }
 
             } else {
