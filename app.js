@@ -3714,12 +3714,20 @@ function setupPwaInstallPrompt() {
             const isAndroidInApp= isAndroid && /Line\/|FBAV|FBAN|Instagram|MicroMessenger/.test(ua);
 
             // Helper: show a guideline panel and transform buttons
-            function showGuideline(guidelineEl, descText) {
+            function showGuideline(guidelineEl, descText, injectUrlParam = false) {
                 guidelineEl.classList.remove('hidden');
                 installBtn.style.display = 'none';
                 cancelBtn.textContent = '我知道了';
                 const descEl = promptEl.querySelector('.pwa-prompt-desc');
                 if (descEl) descEl.textContent = descText;
+
+                if (injectUrlParam) {
+                    const url = new URL(window.location.href);
+                    if (!url.searchParams.has('open_pwa')) {
+                        url.searchParams.set('open_pwa', '1');
+                        window.history.replaceState({}, '', url);
+                    }
+                }
             }
 
             // Helper: build numbered step HTML
@@ -3771,7 +3779,7 @@ function setupPwaInstallPrompt() {
                                 '網頁在 Safari 開啟後，提示將自動再次出現 🎉',
                             ]);
                     }
-                    showGuideline(browserGuideline, '請先切換到 Safari：');
+                    showGuideline(browserGuideline, '請先切換到 Safari：', true);
                 }
 
             } else if (deferredPrompt) {
@@ -3811,7 +3819,7 @@ function setupPwaInstallPrompt() {
                                 '網頁在 Chrome 開啟後，提示將自動再次出現 🎉',
                             ]);
                     }
-                    showGuideline(browserGuideline, '請先切換到 Chrome：');
+                    showGuideline(browserGuideline, '請先切換到 Chrome：', true);
                 }
 
             } else {
@@ -3833,6 +3841,17 @@ function checkPwaInstallTrigger() {
     const promptEl = document.getElementById('pwa-install-prompt');
     if (!promptEl) return;
 
+    // Check for open_pwa parameter (from in-app browser handoff)
+    const urlParams = new URLSearchParams(window.location.search);
+    let forceShow = false;
+    if (urlParams.get('open_pwa') === '1') {
+        forceShow = true;
+        urlParams.delete('open_pwa');
+        const newSearch = urlParams.toString();
+        const newUrl = window.location.pathname + (newSearch ? '?' + newSearch : '') + window.location.hash;
+        window.history.replaceState({}, '', newUrl);
+    }
+
     // Check if running in standalone/installed mode
     const isStandalone = window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone;
     if (isStandalone) {
@@ -3840,24 +3859,24 @@ function checkPwaInstallTrigger() {
         return;
     }
 
-    // Check if dismissed
-    if (localStorage.getItem('pwa_prompt_dismissed') === 'true') {
+    // Check if dismissed (unless forced via URL)
+    if (!forceShow && localStorage.getItem('pwa_prompt_dismissed') === 'true') {
         return;
     }
 
     // Skip desktop users (devices with a precise pointer, i.e. mouse)
     const isDesktop = window.matchMedia('(hover: hover) and (pointer: fine)').matches;
-    if (isDesktop) return;
+    if (isDesktop && !forceShow) return;
 
     // Evaluate triggers (mobile only)
     const visitCount = parseInt(localStorage.getItem('pwa_visit_count') || '0', 10);
     const sessionDuration = (Date.now() - pwaSessionStartTime) / 1000; // in seconds
 
-    // Show if: 3rd+ visit, OR used continuously for 60+ seconds
-    const shouldShow = (visitCount >= 3) || (sessionDuration >= 60);
+    // Show if: forced, OR 3rd+ visit, OR used continuously for 60+ seconds
+    const shouldShow = forceShow || (visitCount >= 3) || (sessionDuration >= 60);
 
     if (shouldShow && !promptEl.classList.contains('show')) {
-        console.log(`Triggering PWA install prompt: visits=${visitCount}, duration=${sessionDuration.toFixed(1)}s`);
+        console.log(`Triggering PWA install prompt: visits=${visitCount}, duration=${sessionDuration.toFixed(1)}s, forceShow=${forceShow}`);
         promptEl.classList.remove('hidden');
         // Let it render first, then add class for transition
         setTimeout(() => {
