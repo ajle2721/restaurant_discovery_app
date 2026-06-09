@@ -47,9 +47,25 @@ def calculate_score(analysis):
     if cs == "No" or ss == "No" or kn == "No":
         score -= 2
         
-    if score >= 3:
+    # 新版等級計算規則
+    has_tableware = analysis.get("has_tableware", {}).get("result") == "Yes"
+    has_high_chair = (cs == "Yes" or analysis.get("child_seat available", {}).get("result") == "Yes")
+    has_kids_menu = (km == "Yes")
+    has_play_area = analysis.get("has_play_area", {}).get("result") == "Yes"
+    
+    is_recommended = (has_tableware and has_high_chair) or (has_kids_menu or has_play_area)
+    
+    # 統計任意 Yes 項目數
+    keys = [" child_seat available", "child_seat available", "Spacious seating", "Kids menu available", 
+            "kid_noise_tolerant", "has_play_area", "has_private_room", "has_tableware", "has_diaper_table"]
+    total_yes = 0
+    for k in keys:
+        if analysis.get(k, {}).get("result") == "Yes":
+            total_yes += 1
+            
+    if is_recommended:
         level = "高"
-    elif score > 0:
+    elif total_yes >= 1:
         level = "中"
     else:
         level = "資訊不足"

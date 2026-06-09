@@ -1,54 +1,55 @@
-{
-    " child_seat available": {
-        "result": "Yes",
-        "evidence": "提供兒童餐椅",
-        "confidence": 0.9
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "空間寬敞",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "No",
-        "evidence": "No menu for children (官方標記：不提供兒童餐)",
-        "confidence": 1.0
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "Good for children (官方標記：適合兒童)",
-        "confidence": 1.0
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Yes",
-        "evidence": "格局方正，很適合包場 辦活動",
-        "confidence": 0.9
-    },
-    "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 4,
-    "parent_friendly_level": "高",
-    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals": [
-        "No menu for children (官方標記：不提供兒童餐)",
-        "提供兒童餐椅",
-        "格局方正，很適合包場 辦活動",
-        "空間寬敞",
-        "Good for children (官方標記：適合兒童)"
-    ],
-    "generated_summary": "未來咖啡環境寬敞且適合親子前往，店內提供兒童餐椅，並被標記為適合兒童的友善空間。雖然官方明確表示不提供兒童餐，但店內空間格局方正，亦適合包場辦理活動，整體用餐氛圍舒適。",
-    "card_summary": ""
+﻿{
+    " child_seat available":  {
+                                  "result":  "Yes",
+                                  "evidence":  "提供兒童餐椅",
+                                  "confidence":  0.9
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "空間寬敞",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "No",
+                                "evidence":  "No menu for children (官方標記：不提供兒童餐)",
+                                "confidence":  1.0
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "Good for children (官方標記：適合兒童)",
+                               "confidence":  1.0
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Yes",
+                             "evidence":  "格局方正，很適合包場 辦活動",
+                             "confidence":  0.9
+                         },
+    "has_tableware":  {
+                          "evidence":  "Google 摰?餉??拙??咱?券?",
+                          "result":  "Yes",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "parent_friendly_score":  4,
+    "parent_friendly_level":  "高",
+    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals":  [
+                              "No menu for children (官方標記：不提供兒童餐)",
+                              "提供兒童餐椅",
+                              "格局方正，很適合包場 辦活動",
+                              "空間寬敞",
+                              "Good for children (官方標記：適合兒童)",
+                              "Google 摰?餉??拙??咱?券?"
+                          ],
+    "generated_summary":  "未來咖啡環境寬敞且適合親子前往，店內提供兒童餐椅，並被標記為適合兒童的友善空間。雖然官方明確表示不提供兒童餐，但店內空間格局方正，亦適合包場辦理活動，整體用餐氛圍舒適。",
+    "card_summary":  ""
 }

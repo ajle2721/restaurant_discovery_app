@@ -1,53 +1,54 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "No",
-        "evidence": "老實說，空間規劃或許可以再更優化一些，因為一入作就一直被提醒『要留出走道方便上菜』，我們幾乎都貼著桌子坐了。",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "No",
-        "evidence": "No menu for children (官方標記：不提供兒童餐)",
-        "confidence": 1.0
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "Good for children (官方標記：適合兒童)",
-        "confidence": 1.0
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "資訊不足",
-    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals": [
-        "No menu for children (官方標記：不提供兒童餐)",
-        "老實說，空間規劃或許可以再更優化一些，因為一入作就一直被提醒『要留出走道方便上菜』，我們幾乎都貼著桌子坐了。",
-        "Good for children (官方標記：適合兒童)",
-        "適合家庭餐敘"
-    ],
-    "generated_summary": "女娘的店被官方標記為適合兒童，且適合家庭聚餐，但店內不提供兒童餐。用餐空間方面，有評論指出空間規劃較為擁擠，用餐時需配合留出走道，建議攜帶幼兒的家長留意空間需求。",
-    "card_summary": ""
+﻿{
+    " child_seat available":  {
+                                  "evidence":  "Google 摰?餉??拙??咱?券?",
+                                  "result":  "Yes",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "No",
+                             "evidence":  "老實說，空間規劃或許可以再更優化一些，因為一入作就一直被提醒『要留出走道方便上菜』，我們幾乎都貼著桌子坐了。",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "No",
+                                "evidence":  "No menu for children (官方標記：不提供兒童餐)",
+                                "confidence":  1.0
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "Good for children (官方標記：適合兒童)",
+                               "confidence":  1.0
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "evidence":  "Google 摰?餉??拙??咱?券?",
+                          "result":  "Yes",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "高",
+    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals":  [
+                              "No menu for children (官方標記：不提供兒童餐)",
+                              "老實說，空間規劃或許可以再更優化一些，因為一入作就一直被提醒『要留出走道方便上菜』，我們幾乎都貼著桌子坐了。",
+                              "Good for children (官方標記：適合兒童)",
+                              "適合家庭餐敘",
+                              "Google 摰?餉??拙??咱?券?"
+                          ],
+    "generated_summary":  "女娘的店被官方標記為適合兒童，且適合家庭聚餐，但店內不提供兒童餐。用餐空間方面，有評論指出空間規劃較為擁擠，用餐時需配合留出走道，建議攜帶幼兒的家長留意空間需求。",
+    "card_summary":  ""
 }

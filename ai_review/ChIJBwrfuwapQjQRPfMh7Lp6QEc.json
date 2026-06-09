@@ -1,7 +1,7 @@
 ﻿{
     " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  "使用者回報與人工校正：台式早午餐排隊人潮極多、翻桌快，雖有部分分店提供簡易餐椅，但現場環境較擁擠",
+                                  "evidence":  "Google 摰?餉??拙??咱?券?",
+                                  "result":  "Yes",
                                   "confidence":  1
                               },
     "Spacious seating":  {
@@ -43,9 +43,10 @@
     "card_summary":  "",
     "generated_signals":  [
                               "Google 官方登記適合兒童用餐",
-                              "使用者回報與人工校正：有提供兒童餐具"
+                              "使用者回報與人工校正：有提供兒童餐具",
+                              "Google 摰?餉??拙??咱?券?"
                           ],
-    "parent_friendly_score":  0,
-    "parent_friendly_level":  "資訊不足",
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "高",
     "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
 }

@@ -1,8 +1,8 @@
 ﻿{
     " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
+                                  "evidence":  "Google 摰?餉??拙??咱?券?",
+                                  "result":  "Yes",
+                                  "confidence":  1
                               },
     "Spacious seating":  {
                              "result":  "Unknown",
@@ -30,9 +30,9 @@
                              "confidence":  0.4
                          },
     "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
+                          "evidence":  "Google 摰?餉??拙??咱?券?",
+                          "result":  "Yes",
+                          "confidence":  1
                       },
     "has_diaper_table":  {
                              "result":  "Unknown",
@@ -42,9 +42,10 @@
     "generated_summary":  "根據評論分析，服務人員接待熱忱、服務態度良好。氣氛輕鬆親子友善，適合帶孩子前來用餐。",
     "card_summary":  "",
     "generated_signals":  [
-                              "親子友善空間"
+                              "親子友善空間",
+                              "Google 摰?餉??拙??咱?券?"
                           ],
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "中",
+    "parent_friendly_score":  3,
+    "parent_friendly_level":  "高",
     "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

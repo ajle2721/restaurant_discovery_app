@@ -1,52 +1,52 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "整體空間是蠻寬敞也舒適",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "No",
-        "evidence": "No menu for children (官方標記：不提供兒童餐)",
-        "confidence": 1.0
-    },
-    "kid_noise_tolerant": {
-        "result": "No",
-        "evidence": "大部分的人都是帶一台筆電工作，少有人在交談聊天。",
-        "confidence": 0.9
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "資訊不足",
-    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals": [
-        "No menu for children (官方標記：不提供兒童餐)",
-        "整體空間是蠻寬敞也舒適",
-        "大部分的人都是帶一台筆電工作，少有人在交談聊天。"
-    ],
-    "generated_summary": "該咖啡廳環境寬敞舒適，但主要客群多為讀書或使用筆電工作的顧客，氣氛較為安靜，且官方明確標示不提供兒童餐，整體環境較不適合帶幼童前往。",
-    "card_summary": ""
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "整體空間是蠻寬敞也舒適",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "No",
+                                "evidence":  "No menu for children (官方標記：不提供兒童餐)",
+                                "confidence":  1.0
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "No",
+                               "evidence":  "大部分的人都是帶一台筆電工作，少有人在交談聊天。",
+                               "confidence":  0.9
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "parent_friendly_score":  -1,
+    "parent_friendly_level":  "中",
+    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals":  [
+                              "No menu for children (官方標記：不提供兒童餐)",
+                              "整體空間是蠻寬敞也舒適",
+                              "大部分的人都是帶一台筆電工作，少有人在交談聊天。"
+                          ],
+    "generated_summary":  "該咖啡廳環境寬敞舒適，但主要客群多為讀書或使用筆電工作的顧客，氣氛較為安靜，且官方明確標示不提供兒童餐，整體環境較不適合帶幼童前往。",
+    "card_summary":  ""
 }

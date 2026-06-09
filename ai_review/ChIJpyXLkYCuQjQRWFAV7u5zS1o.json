@@ -1,52 +1,53 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "雖然空間大，但座位數其實並不多。",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "Yes",
-        "evidence": "Google Maps Attributes: Menu for children",
-        "confidence": 1.0
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "Google Maps Attributes: Good for children",
-        "confidence": 1.0
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 3,
-    "parent_friendly_level": "高",
-    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals": [
-        "Google Maps Attributes: Menu for children",
-        "雖然空間大，但座位數其實並不多。",
-        "Google Maps Attributes: Good for children"
-    ],
-    "generated_summary": "JB's Diner 是一間空間寬敞且氛圍輕鬆的餐廳，官方標記顯示其適合兒童並提供兒童餐，環境對家庭客相當友善。雖然空間大，但因生意火熱，建議前往前先預約。",
-    "card_summary": ""
+﻿{
+    " child_seat available":  {
+                                  "evidence":  "Google 摰?餉??拙??咱?券?",
+                                  "result":  "Yes",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "雖然空間大，但座位數其實並不多。",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "Yes",
+                                "evidence":  "Google Maps Attributes: Menu for children",
+                                "confidence":  1.0
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "Google Maps Attributes: Good for children",
+                               "confidence":  1.0
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "evidence":  "Google 摰?餉??拙??咱?券?",
+                          "result":  "Yes",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "parent_friendly_score":  5,
+    "parent_friendly_level":  "高",
+    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals":  [
+                              "Google Maps Attributes: Menu for children",
+                              "雖然空間大，但座位數其實並不多。",
+                              "Google Maps Attributes: Good for children",
+                              "Google 摰?餉??拙??咱?券?"
+                          ],
+    "generated_summary":  "JB\u0027s Diner 是一間空間寬敞且氛圍輕鬆的餐廳，官方標記顯示其適合兒童並提供兒童餐，環境對家庭客相當友善。雖然空間大，但因生意火熱，建議前往前先預約。",
+    "card_summary":  ""
 }

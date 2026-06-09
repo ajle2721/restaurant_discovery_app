@@ -1,53 +1,53 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "No",
-        "evidence": "一開始只能坐在門口窗邊，四人一排的窄長桌。",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "No",
-        "evidence": "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)",
-        "confidence": 1.0
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "用餐環境比較吵雜，聊天比較費力。",
-        "confidence": 0.9
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "資訊不足",
-    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals": [
-        "一開始只能坐在門口窗邊，四人一排的窄長桌。",
-        "Google Maps Attributes: Not good for children (官方標記：不適合兒童)",
-        "用餐環境比較吵雜，聊天比較費力。",
-        "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)"
-    ],
-    "generated_summary": "該餐廳為熱炒店，環境較為吵雜且空間配置較為緊湊，官方標記顯示不適合兒童且無提供兒童餐。雖然評論提到適合家庭用餐，但缺乏親子友善設施（如兒童椅、餐具或尿布台）的相關資訊，建議攜帶幼童前往前需自行評估。",
-    "card_summary": ""
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "No",
+                             "evidence":  "一開始只能坐在門口窗邊，四人一排的窄長桌。",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "No",
+                                "evidence":  "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)",
+                                "confidence":  1.0
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "用餐環境比較吵雜，聊天比較費力。",
+                               "confidence":  0.9
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "parent_friendly_score":  -1,
+    "parent_friendly_level":  "中",
+    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals":  [
+                              "一開始只能坐在門口窗邊，四人一排的窄長桌。",
+                              "Google Maps Attributes: Not good for children (官方標記：不適合兒童)",
+                              "用餐環境比較吵雜，聊天比較費力。",
+                              "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)"
+                          ],
+    "generated_summary":  "該餐廳為熱炒店，環境較為吵雜且空間配置較為緊湊，官方標記顯示不適合兒童且無提供兒童餐。雖然評論提到適合家庭用餐，但缺乏親子友善設施（如兒童椅、餐具或尿布台）的相關資訊，建議攜帶幼童前往前需自行評估。",
+    "card_summary":  ""
 }

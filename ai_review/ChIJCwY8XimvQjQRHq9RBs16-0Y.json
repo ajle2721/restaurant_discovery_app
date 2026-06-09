@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Yes",
                                   "evidence":  "系統自動識別：官方登記為家庭式餐飲，提供兒童座椅",
@@ -30,9 +30,9 @@
                              "confidence":  0.4
                          },
     "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
+                          "evidence":  "Google 摰?餉??拙??咱?券?",
+                          "result":  "Yes",
+                          "confidence":  1
                       },
     "has_diaper_table":  {
                              "result":  "Yes",
@@ -45,7 +45,8 @@
                               "跟一份雞米花兒童餐",
                               "Google 官方登記適合兒童用餐",
                               "系統自動識別：官方登記為家庭式餐飲，提供兒童座椅",
-                              "位於兒童新樂園內，可使用園區公共尿布台及哺乳室"
+                              "位於兒童新樂園內，可使用園區公共尿布台及哺乳室",
+                              "Google 摰?餉??拙??咱?券?"
                           ],
     "parent_friendly_score":  4,
     "parent_friendly_level":  "高",

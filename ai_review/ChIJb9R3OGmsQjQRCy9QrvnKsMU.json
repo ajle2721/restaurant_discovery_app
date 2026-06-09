@@ -1,51 +1,52 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "No",
-        "evidence": "音量大到充斥在本就不算大的空間",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "Good for children (官方標記：適合兒童)",
-        "confidence": 1.0
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "資訊不足",
-    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals": [
-        "音量大到充斥在本就不算大的空間",
-        "Good for children (官方標記：適合兒童)"
-    ],
-    "generated_summary": "墨羚找食雖被Google標記為適合兒童，但根據評論顯示店內空間較為狹小，且目前評論中未提及兒童椅、兒童餐具、遊戲區或尿布台等親子友善設施，建議前往前可先向店家確認相關需求。",
-    "card_summary": ""
+﻿{
+    " child_seat available":  {
+                                  "evidence":  "Google 摰?餉??拙??咱?券?",
+                                  "result":  "Yes",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "No",
+                             "evidence":  "音量大到充斥在本就不算大的空間",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "Good for children (官方標記：適合兒童)",
+                               "confidence":  1.0
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "evidence":  "Google 摰?餉??拙??咱?券?",
+                          "result":  "Yes",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "高",
+    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals":  [
+                              "音量大到充斥在本就不算大的空間",
+                              "Good for children (官方標記：適合兒童)",
+                              "Google 摰?餉??拙??咱?券?"
+                          ],
+    "generated_summary":  "墨羚找食雖被Google標記為適合兒童，但根據評論顯示店內空間較為狹小，且目前評論中未提及兒童椅、兒童餐具、遊戲區或尿布台等親子友善設施，建議前往前可先向店家確認相關需求。",
+    "card_summary":  ""
 }

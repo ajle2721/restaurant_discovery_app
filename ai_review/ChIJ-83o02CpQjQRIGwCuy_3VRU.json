@@ -1,54 +1,55 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "環境舒適的咖啡廳，蠻寬敞的也很乾淨，不過餐點價格跟品質有點讓人失望",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "No",
-        "evidence": "No menu for children (官方標記：不提供兒童餐)",
-        "confidence": 1.0
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "Good for children (官方標記：適合兒童)",
-        "confidence": 1.0
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Yes",
-        "evidence": "走進木質調裝潢用餐環境，店員會詳細介紹，整體座位舒適有包廂，還有插座無限時！",
-        "confidence": 0.9
-    },
-    "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "人工校正與AI綜合評估",
-    "generated_signals": [
-        "Google Maps Attributes",
-        "環境舒適的咖啡廳，蠻寬敞的也很乾淨，不過餐點價格跟品質有點讓人失望",
-        "走進木質調裝潢用餐環境，店員會詳細介紹，整體座位舒適有包廂，還有插座無限時！",
-        "Good for children (官方標記：適合兒童)",
-        "No menu for children (官方標記：不提供兒童餐)"
-    ],
-    "generated_summary": "普莉斯咖啡館在官方標記中為適合兒童的友善空間，但明確標示不提供兒童餐。評論提及店內環境蠻寬敞舒適，且設有包廂，適合需要獨立空間的家庭聚會。不過，目前評論中未提及兒童椅、兒童餐具、尿布台或遊戲區等具體親子設施。",
-    "card_summary": ""
+﻿{
+    " child_seat available":  {
+                                  "evidence":  "Google 摰?餉??拙??咱?券?",
+                                  "result":  "Yes",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "環境舒適的咖啡廳，蠻寬敞的也很乾淨，不過餐點價格跟品質有點讓人失望",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "No",
+                                "evidence":  "No menu for children (官方標記：不提供兒童餐)",
+                                "confidence":  1.0
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "Good for children (官方標記：適合兒童)",
+                               "confidence":  1.0
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Yes",
+                             "evidence":  "走進木質調裝潢用餐環境，店員會詳細介紹，整體座位舒適有包廂，還有插座無限時！",
+                             "confidence":  0.9
+                         },
+    "has_tableware":  {
+                          "evidence":  "Google 摰?餉??拙??咱?券?",
+                          "result":  "Yes",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "parent_friendly_score":  4,
+    "parent_friendly_level":  "高",
+    "reason":  "人工校正與AI綜合評估",
+    "generated_signals":  [
+                              "Google Maps Attributes",
+                              "環境舒適的咖啡廳，蠻寬敞的也很乾淨，不過餐點價格跟品質有點讓人失望",
+                              "走進木質調裝潢用餐環境，店員會詳細介紹，整體座位舒適有包廂，還有插座無限時！",
+                              "Good for children (官方標記：適合兒童)",
+                              "No menu for children (官方標記：不提供兒童餐)",
+                              "Google 摰?餉??拙??咱?券?"
+                          ],
+    "generated_summary":  "普莉斯咖啡館在官方標記中為適合兒童的友善空間，但明確標示不提供兒童餐。評論提及店內環境蠻寬敞舒適，且設有包廂，適合需要獨立空間的家庭聚會。不過，目前評論中未提及兒童椅、兒童餐具、尿布台或遊戲區等具體親子設施。",
+    "card_summary":  ""
 }

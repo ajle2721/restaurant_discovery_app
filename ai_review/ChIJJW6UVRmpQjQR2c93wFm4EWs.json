@@ -1,54 +1,55 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "座位配置寬敞，不擁擠，無論是一個人帶本書靜靜待著，或是朋友聚會聊天，都能自在享受。",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "No",
-        "evidence": "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)",
-        "confidence": 1.0
-    },
-    "kid_noise_tolerant": {
-        "result": "No",
-        "evidence": "店內氣氛稍微偏安靜，感覺像各自安於一個空間，有種共處的感覺。",
-        "confidence": 0.9
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Yes",
-        "evidence": "就原來的隔間也成了開放式包廂，另養了一隻大黑 花貓，在包廂的沙發上睡的可熟呢！",
-        "confidence": 0.9
-    },
-    "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "資訊不足",
-    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals": [
-        "就原來的隔間也成了開放式包廂，另養了一隻大黑 花貓，在包廂的沙發上睡的可熟呢！",
-        "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)",
-        "座位配置寬敞，不擁擠，無論是一個人帶本書靜靜待著，或是朋友聚會聊天，都能自在享受。",
-        "店內氣氛稍微偏安靜，感覺像各自安於一個空間，有種共處的感覺。",
-        "Google Maps Attributes: Good for children (官方標記：適合兒童)"
-    ],
-    "generated_summary": "柒家珈琲環境寬敞舒適，並設有開放式包廂空間，雖然 Google Maps 標記為適合兒童，但店內氣氛偏向安靜，且官方明確表示不提供兒童餐。由於評論中未提及兒童椅、餐具或尿布台等設施，建議攜帶幼童前往前可先與店家確認相關設備。",
-    "card_summary": ""
+﻿{
+    " child_seat available":  {
+                                  "evidence":  "Google 摰?餉??拙??咱?券?",
+                                  "result":  "Yes",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "座位配置寬敞，不擁擠，無論是一個人帶本書靜靜待著，或是朋友聚會聊天，都能自在享受。",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "No",
+                                "evidence":  "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)",
+                                "confidence":  1.0
+                            },
+    "kid_noise_tolerant":  {
+                               "evidence":  "Google 摰?餉??拙??咱?券?",
+                               "result":  "Yes",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Yes",
+                             "evidence":  "就原來的隔間也成了開放式包廂，另養了一隻大黑 花貓，在包廂的沙發上睡的可熟呢！",
+                             "confidence":  0.9
+                         },
+    "has_tableware":  {
+                          "evidence":  "Google 摰?餉??拙??咱?券?",
+                          "result":  "Yes",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "parent_friendly_score":  4,
+    "parent_friendly_level":  "高",
+    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals":  [
+                              "就原來的隔間也成了開放式包廂，另養了一隻大黑 花貓，在包廂的沙發上睡的可熟呢！",
+                              "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)",
+                              "座位配置寬敞，不擁擠，無論是一個人帶本書靜靜待著，或是朋友聚會聊天，都能自在享受。",
+                              "店內氣氛稍微偏安靜，感覺像各自安於一個空間，有種共處的感覺。",
+                              "Google Maps Attributes: Good for children (官方標記：適合兒童)",
+                              "Google 摰?餉??拙??咱?券?"
+                          ],
+    "generated_summary":  "柒家珈琲環境寬敞舒適，並設有開放式包廂空間，雖然 Google Maps 標記為適合兒童，但店內氣氛偏向安靜，且官方明確表示不提供兒童餐。由於評論中未提及兒童椅、餐具或尿布台等設施，建議攜帶幼童前往前可先與店家確認相關設備。",
+    "card_summary":  ""
 }

@@ -1,52 +1,53 @@
-{
-    " child_seat available": {
-        "result": "Yes",
-        "evidence": "很好吃，兒子也有嬰兒座椅。",
-        "confidence": 0.9
-    },
-    "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Kids menu available": {
-        "result": "No",
-        "evidence": "No menu for children (官方標記：不提供兒童餐)",
-        "confidence": 1.0
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "Good for children (官方標記：適合兒童)",
-        "confidence": 1.0
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 3,
-    "parent_friendly_level": "高",
-    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals": [
-        "很好吃，兒子也有嬰兒座椅。",
-        "No menu for children (官方標記：不提供兒童餐)",
-        "Good for children (官方標記：適合兒童)"
-    ],
-    "generated_summary": "櫛瓜咖啡 Zucchini Café 官方標記適合兒童，且評論中確認有提供嬰兒座椅，對親子家庭友善。不過店家未提供兒童餐，且目前無關於遊戲區、尿布台或兒童餐具的資訊，建議前往前可先向店家確認。",
-    "card_summary": ""
+﻿{
+    " child_seat available":  {
+                                  "result":  "Yes",
+                                  "evidence":  "很好吃，兒子也有嬰兒座椅。",
+                                  "confidence":  0.9
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "Kids menu available":  {
+                                "result":  "No",
+                                "evidence":  "No menu for children (官方標記：不提供兒童餐)",
+                                "confidence":  1.0
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "Good for children (官方標記：適合兒童)",
+                               "confidence":  1.0
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "evidence":  "Google 摰?餉??拙??咱?券?",
+                          "result":  "Yes",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "parent_friendly_score":  3,
+    "parent_friendly_level":  "高",
+    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals":  [
+                              "很好吃，兒子也有嬰兒座椅。",
+                              "No menu for children (官方標記：不提供兒童餐)",
+                              "Good for children (官方標記：適合兒童)",
+                              "Google 摰?餉??拙??咱?券?"
+                          ],
+    "generated_summary":  "櫛瓜咖啡 Zucchini Café 官方標記適合兒童，且評論中確認有提供嬰兒座椅，對親子家庭友善。不過店家未提供兒童餐，且目前無關於遊戲區、尿布台或兒童餐具的資訊，建議前往前可先向店家確認。",
+    "card_summary":  ""
 }

@@ -1,55 +1,55 @@
-{
-    " child_seat available": {
-        "result": "Yes",
-        "evidence": "Google Maps Attributes",
-        "confidence": 1.0
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "店內環境寬敞又乾淨，服務人員也非常的好，推薦。",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "Yes",
-        "evidence": "Google Maps Attributes",
-        "confidence": 1.0
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "Google Maps Attributes",
-        "confidence": 1.0
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 5,
-    "parent_friendly_level": "高",
-    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals": [
-        "店內環境寬敞又乾淨，服務人員也非常的好，推薦。",
-        "一進門就能感受到飯店分店特有的質感，挑高的空間搭配大片落地窗，採光極佳，環境寬敞且乾淨舒適，明亮的氛圍。",
-        "Google Maps Attributes: Menu for children (官方標記：提供兒童餐)",
-        "Google Maps Attributes",
-        "店內用餐環境寬敞舒適，天花板很挑高。",
-        "Google Maps Attributes: Good for children (官方標記：適合兒童)"
-    ],
-    "generated_summary": "双聖大安店位於飯店內，環境寬敞舒適且採光良好，非常適合家庭聚餐。根據官方資訊，該店提供兒童餐並標記為適合兒童，且具備兒童座椅等友善設施，用餐氛圍明亮且服務親切。",
-    "card_summary": ""
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "店內環境寬敞又乾淨，服務人員也非常的好，推薦。",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "Yes",
+                                "evidence":  "Google Maps Attributes",
+                                "confidence":  1.0
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "Google Maps Attributes",
+                               "confidence":  1.0
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "parent_friendly_score":  3,
+    "parent_friendly_level":  "高",
+    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals":  [
+                              "店內環境寬敞又乾淨，服務人員也非常的好，推薦。",
+                              "一進門就能感受到飯店分店特有的質感，挑高的空間搭配大片落地窗，採光極佳，環境寬敞且乾淨舒適，明亮的氛圍。",
+                              "Google Maps Attributes: Menu for children (官方標記：提供兒童餐)",
+                              "店內用餐環境寬敞舒適，天花板很挑高。",
+                              "Google Maps Attributes: Good for children (官方標記：適合兒童)",
+                              "Google Maps Attributes"
+                          ],
+    "generated_summary":  "双聖大安店位於飯店內，環境寬敞舒適且採光良好，非常適合家庭聚餐。根據官方資訊，該店提供兒童餐並標記為適合兒童，且具備兒童座椅等友善設施，用餐氛圍明亮且服務親切。",
+    "card_summary":  ""
 }

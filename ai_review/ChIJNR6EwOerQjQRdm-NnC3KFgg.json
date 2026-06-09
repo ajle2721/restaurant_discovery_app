@@ -30,22 +30,23 @@
         "confidence": 0.4
     },
     "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "evidence": "Google 摰?餉??拙??咱?券?",
+        "result": "Yes",
+        "confidence": 1
     },
     "has_diaper_table": {
         "result": "Yes",
         "evidence": "位於百貨公司/商場/大樓內，可使用商場/大樓附設之尿布台",
-        "confidence": 1.0
+        "confidence": 1
     },
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
     "reason": "人工校正與AI綜合評估",
     "generated_signals": [
         "依據連鎖品牌【田中園】統一設定",
-        "位於百貨公司/商場/大樓內，可使用商場/大樓附設之尿布台"
+        "位於百貨公司/商場/大樓內，可使用商場/大樓附設之尿布台",
+        "Google 摰?餉??拙??咱?券?"
     ],
-    "generated_summary": "位於百貨公司或商場內，可使用商場附設之尿布台。目前評論中較少提及其他與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "generated_summary": "這家餐廳提供兒童座椅、兒童餐具、可使用商場附設之尿布台、環境氣氛適合帶小孩。目前評論中較少提及其他親子用餐的具體細節，建議前往前可先向店家確認。",
     "card_summary": ""
 }

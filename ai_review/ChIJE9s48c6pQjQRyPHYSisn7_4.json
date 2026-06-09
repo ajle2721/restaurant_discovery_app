@@ -1,52 +1,52 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "座位間距寬敞，不管是一個人帶筆電工作，還是和朋友聊天，都能保持舒適的距離。",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "No",
-        "evidence": "No menu for children (官方標記：不提供兒童餐)",
-        "confidence": 1.0
-    },
-    "kid_noise_tolerant": {
-        "result": "No",
-        "evidence": "Not good for children (官方標記：不適合兒童)",
-        "confidence": 1.0
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "資訊不足",
-    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals": [
-        "No menu for children (官方標記：不提供兒童餐)",
-        "座位間距寬敞，不管是一個人帶筆電工作，還是和朋友聊天，都能保持舒適的距離。",
-        "Not good for children (官方標記：不適合兒童)"
-    ],
-    "generated_summary": "該店環境舒適寬敞，適合安靜放鬆或工作，但根據官方標記，該店並不適合兒童，且未提供兒童餐點，建議家長評估後再前往。",
-    "card_summary": ""
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "座位間距寬敞，不管是一個人帶筆電工作，還是和朋友聊天，都能保持舒適的距離。",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "No",
+                                "evidence":  "No menu for children (官方標記：不提供兒童餐)",
+                                "confidence":  1.0
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "No",
+                               "evidence":  "Not good for children (官方標記：不適合兒童)",
+                               "confidence":  1.0
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "parent_friendly_score":  -1,
+    "parent_friendly_level":  "中",
+    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals":  [
+                              "No menu for children (官方標記：不提供兒童餐)",
+                              "座位間距寬敞，不管是一個人帶筆電工作，還是和朋友聊天，都能保持舒適的距離。",
+                              "Not good for children (官方標記：不適合兒童)"
+                          ],
+    "generated_summary":  "該店環境舒適寬敞，適合安靜放鬆或工作，但根據官方標記，該店並不適合兒童，且未提供兒童餐點，建議家長評估後再前往。",
+    "card_summary":  ""
 }

@@ -1,8 +1,8 @@
 {
     " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "evidence": "Google 摰?餉??拙??咱?券?",
+        "result": "Yes",
+        "confidence": 1
     },
     "Spacious seating": {
         "result": "Unknown",
@@ -30,21 +30,22 @@
         "confidence": 0.4
     },
     "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
+        "evidence": "Google 摰?餉??拙??咱?券?",
+        "result": "Yes",
+        "confidence": 1
     },
     "has_diaper_table": {
         "result": "Unknown",
         "evidence": null,
         "confidence": 0.4
     },
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
     "reason": "人工校正與AI綜合評估",
     "generated_signals": [
-        "依據連鎖品牌【紅橘子精緻早午餐】統一設定"
+        "依據連鎖品牌【紅橘子精緻早午餐】統一設定",
+        "Google 摰?餉??拙??咱?券?"
     ],
-    "generated_summary": "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
+    "generated_summary": "這家餐廳提供兒童座椅、兒童餐具、環境氣氛適合帶小孩。目前評論中較少提及其他親子用餐的具體細節，建議前往前可先向店家確認。",
     "card_summary": ""
 }

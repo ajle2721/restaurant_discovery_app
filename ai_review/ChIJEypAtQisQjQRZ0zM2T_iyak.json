@@ -15,8 +15,8 @@
                                 "confidence":  1
                             },
     "kid_noise_tolerant":  {
-                               "result":  "No",
-                               "evidence":  "使用者回報與人工校正：環境較為安靜，適合安靜與靜態用餐，不太適合好動吵鬧的幼童",
+                               "evidence":  "Google 摰?餉??拙??咱?券?",
+                               "result":  "Yes",
                                "confidence":  1
                            },
     "has_play_area":  {
@@ -44,9 +44,10 @@
     "generated_signals":  [
                               "使用者回報與人工校正：店內備有兒童餐椅，但精品咖啡環境較為安靜，空間更適合靜態用餐",
                               "店內空間大又舒服",
-                              "使用者回報與人工校正：貼心提供兒童專用餐具"
+                              "使用者回報與人工校正：貼心提供兒童專用餐具",
+                              "Google 摰?餉??拙??咱?券?"
                           ],
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "中",
+    "parent_friendly_score":  4,
+    "parent_friendly_level":  "高",
     "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
 }

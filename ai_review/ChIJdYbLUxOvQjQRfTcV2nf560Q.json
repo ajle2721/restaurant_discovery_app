@@ -1,53 +1,54 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Kids menu available": {
-        "result": "Yes",
-        "evidence": "九月開學月，親子用餐有優惠，要兩個大人才有送兒童的套餐喔！",
-        "confidence": 0.9
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "Good for children (官方標記：適合兒童)",
-        "confidence": 1.0
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Yes",
-        "evidence": "在這包場辦同學聚餐真是太理想了。",
-        "confidence": 0.9
-    },
-    "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals": [
-        "Good for children (官方標記：適合兒童)",
-        "No menu for children (官方標記：不提供兒童餐)",
-        "九月開學月，親子用餐有優惠，要兩個大人才有送兒童的套餐喔！",
-        "在這包場辦同學聚餐真是太理想了。"
-    ],
-    "generated_summary": "92水鳥被標記為適合兒童用餐，且評論中提到曾有親子用餐優惠活動及贈送兒童套餐的紀錄。餐廳空間適合包場聚餐，但關於兒童座椅、餐具及尿布台等具體設施則未有明確資訊，建議前往前可先向店家確認。",
-    "card_summary": ""
+﻿{
+    " child_seat available":  {
+                                  "evidence":  "Google 摰?餉??拙??咱?券?",
+                                  "result":  "Yes",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "Kids menu available":  {
+                                "result":  "Yes",
+                                "evidence":  "九月開學月，親子用餐有優惠，要兩個大人才有送兒童的套餐喔！",
+                                "confidence":  0.9
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "Good for children (官方標記：適合兒童)",
+                               "confidence":  1.0
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Yes",
+                             "evidence":  "在這包場辦同學聚餐真是太理想了。",
+                             "confidence":  0.9
+                         },
+    "has_tableware":  {
+                          "evidence":  "Google 摰?餉??拙??咱?券?",
+                          "result":  "Yes",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "parent_friendly_score":  4,
+    "parent_friendly_level":  "高",
+    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals":  [
+                              "Good for children (官方標記：適合兒童)",
+                              "No menu for children (官方標記：不提供兒童餐)",
+                              "九月開學月，親子用餐有優惠，要兩個大人才有送兒童的套餐喔！",
+                              "在這包場辦同學聚餐真是太理想了。",
+                              "Google 摰?餉??拙??咱?券?"
+                          ],
+    "generated_summary":  "92水鳥被標記為適合兒童用餐，且評論中提到曾有親子用餐優惠活動及贈送兒童套餐的紀錄。餐廳空間適合包場聚餐，但關於兒童座椅、餐具及尿布台等具體設施則未有明確資訊，建議前往前可先向店家確認。",
+    "card_summary":  ""
 }

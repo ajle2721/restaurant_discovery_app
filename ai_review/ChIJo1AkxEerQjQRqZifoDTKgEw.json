@@ -15,9 +15,9 @@
                                 "confidence":  0.4
                             },
     "kid_noise_tolerant":  {
-                               "result":  "No",
-                               "evidence":  "跟姐妹一起來靜心苑 養心 吃溫補超讚❤️日式感好舒服 安靜 慢活 😌",
-                               "confidence":  0.8
+                               "evidence":  "Google 摰?餉??拙??咱?券?",
+                               "result":  "Yes",
+                               "confidence":  1
                            },
     "has_play_area":  {
                           "result":  "Unknown",
@@ -30,9 +30,9 @@
                              "confidence":  0.4
                          },
     "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
+                          "evidence":  "Google 摰?餉??拙??咱?券?",
+                          "result":  "Yes",
+                          "confidence":  1
                       },
     "has_diaper_table":  {
                              "result":  "Unknown",
@@ -43,9 +43,10 @@
     "card_summary":  "",
     "generated_signals":  [
                               "跟姐妹一起來靜心苑 養心 吃溫補超讚❤️日式感好舒服 安靜 慢活 😌",
-                              "系統自動識別：官方登記為家庭式餐飲，提供兒童座椅"
+                              "系統自動識別：官方登記為家庭式餐飲，提供兒童座椅",
+                              "Google 摰?餉??拙??咱?券?"
                           ],
-    "parent_friendly_score":  0,
-    "parent_friendly_level":  "資訊不足",
+    "parent_friendly_score":  3,
+    "parent_friendly_level":  "高",
     "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

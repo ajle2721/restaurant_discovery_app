@@ -1,58 +1,59 @@
-{
-    " child_seat available": {
-        "result": "Yes",
-        "evidence": "店長會時刻觀察每一桌的需求，尤其小朋友臨時需要什麼，都會上前詢問並協助。",
-        "confidence": 0.9
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "另外，空間寬敞，嬰兒車可進。",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "Yes",
-        "evidence": "Menu for children (官方標記：提供兒童餐)",
-        "confidence": 1.0
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "Good for children (官方標記：適合兒童)；很適合小朋友家庭，觀察發現店內用餐約有一半是小家庭。",
-        "confidence": 1.0
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 5,
-    "parent_friendly_level": "高",
-    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals": [
-        "店長會時刻觀察每一桌的需求，尤其小朋友臨時需要什麼，都會上前詢問並協助",
-        "另外，空間寬敞，嬰兒車可進",
-        "店員送餐也會特別注意小朋友安全不燙到",
-        "店長會時刻觀察每一桌的需求，尤其小朋友臨時需要什麼，都會上前詢問並協助。",
-        "另外，空間寬敞，嬰兒車可進。",
-        "很適合小朋友家庭，觀察發現店內用餐約有一半是小家庭",
-        "Good for children (官方標記：適合兒童)；很適合小朋友家庭，觀察發現店內用餐約有一半是小家庭。",
-        "Menu for children (官方標記：提供兒童餐)",
-        "Good for children (官方標記：適合兒童)"
-    ],
-    "generated_summary": "輕鬆餐廳非常適合親子用餐，店內空間寬敞且友善嬰兒車進入，官方標記顯示提供兒童餐及適合兒童。評論中提到店員對家庭客非常貼心，會主動觀察小朋友需求並注意送餐安全，是當地高CP值的親子友善選擇。",
-    "card_summary": ""
+﻿{
+    " child_seat available":  {
+                                  "result":  "Yes",
+                                  "evidence":  "店長會時刻觀察每一桌的需求，尤其小朋友臨時需要什麼，都會上前詢問並協助。",
+                                  "confidence":  0.9
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "另外，空間寬敞，嬰兒車可進。",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "Yes",
+                                "evidence":  "Menu for children (官方標記：提供兒童餐)",
+                                "confidence":  1.0
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "Good for children (官方標記：適合兒童)；很適合小朋友家庭，觀察發現店內用餐約有一半是小家庭。",
+                               "confidence":  1.0
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "evidence":  "Google 摰?餉??拙??咱?券?",
+                          "result":  "Yes",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "parent_friendly_score":  5,
+    "parent_friendly_level":  "高",
+    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals":  [
+                              "店長會時刻觀察每一桌的需求，尤其小朋友臨時需要什麼，都會上前詢問並協助",
+                              "另外，空間寬敞，嬰兒車可進",
+                              "店員送餐也會特別注意小朋友安全不燙到",
+                              "店長會時刻觀察每一桌的需求，尤其小朋友臨時需要什麼，都會上前詢問並協助。",
+                              "另外，空間寬敞，嬰兒車可進。",
+                              "很適合小朋友家庭，觀察發現店內用餐約有一半是小家庭",
+                              "Good for children (官方標記：適合兒童)；很適合小朋友家庭，觀察發現店內用餐約有一半是小家庭。",
+                              "Menu for children (官方標記：提供兒童餐)",
+                              "Good for children (官方標記：適合兒童)",
+                              "Google 摰?餉??拙??咱?券?"
+                          ],
+    "generated_summary":  "輕鬆餐廳非常適合親子用餐，店內空間寬敞且友善嬰兒車進入，官方標記顯示提供兒童餐及適合兒童。評論中提到店員對家庭客非常貼心，會主動觀察小朋友需求並注意送餐安全，是當地高CP值的親子友善選擇。",
+    "card_summary":  ""
 }

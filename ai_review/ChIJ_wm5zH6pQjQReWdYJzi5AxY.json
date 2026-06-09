@@ -1,54 +1,55 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "空間安靜、座位舒適",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "No",
-        "evidence": "No menu for children (官方標記：不提供兒童餐)",
-        "confidence": 1.0
-    },
-    "kid_noise_tolerant": {
-        "result": "No",
-        "evidence": "空間安靜、座位舒適，整體氛圍偏正式而沉穩，很適合學術交流、商務用餐、會議後聚餐。",
-        "confidence": 0.9
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Yes",
-        "evidence": "可包場舉辦活動",
-        "confidence": 0.9
-    },
-    "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "資訊不足",
-    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals": [
-        "可包場舉辦活動",
-        "空間安靜、座位舒適，整體氛圍偏正式而沉穩，很適合學術交流、商務用餐、會議後聚餐。",
-        "Good for children (官方標記：適合兒童)",
-        "No menu for children (官方標記：不提供兒童餐)",
-        "空間安靜、座位舒適"
-    ],
-    "generated_summary": "隨意吧-公企店環境舒適且氛圍較為正式沉穩，適合商務聚餐或會議，雖然 Google Maps 標記適合兒童，但餐廳本身不提供兒童餐，且整體環境偏向安靜，可能較不適合需要吵鬧空間的幼童。",
-    "card_summary": ""
+﻿{
+    " child_seat available":  {
+                                  "evidence":  "Google 摰?餉??拙??咱?券?",
+                                  "result":  "Yes",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "空間安靜、座位舒適",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "No",
+                                "evidence":  "No menu for children (官方標記：不提供兒童餐)",
+                                "confidence":  1.0
+                            },
+    "kid_noise_tolerant":  {
+                               "evidence":  "Google 摰?餉??拙??咱?券?",
+                               "result":  "Yes",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Yes",
+                             "evidence":  "可包場舉辦活動",
+                             "confidence":  0.9
+                         },
+    "has_tableware":  {
+                          "evidence":  "Google 摰?餉??拙??咱?券?",
+                          "result":  "Yes",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "parent_friendly_score":  4,
+    "parent_friendly_level":  "高",
+    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals":  [
+                              "可包場舉辦活動",
+                              "空間安靜、座位舒適，整體氛圍偏正式而沉穩，很適合學術交流、商務用餐、會議後聚餐。",
+                              "Good for children (官方標記：適合兒童)",
+                              "No menu for children (官方標記：不提供兒童餐)",
+                              "空間安靜、座位舒適",
+                              "Google 摰?餉??拙??咱?券?"
+                          ],
+    "generated_summary":  "隨意吧-公企店環境舒適且氛圍較為正式沉穩，適合商務聚餐或會議，雖然 Google Maps 標記適合兒童，但餐廳本身不提供兒童餐，且整體環境偏向安靜，可能較不適合需要吵鬧空間的幼童。",
+    "card_summary":  ""
 }

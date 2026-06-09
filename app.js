@@ -560,6 +560,9 @@ function setupEventListeners() {
         state.showOthers = false; // Reset to default: hide others list
         
         document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
+        const clearAllFiltersBtn = document.getElementById('clear-all-filters');
+        if (clearAllFiltersBtn) clearAllFiltersBtn.classList.add('hidden');
+        
         searchInput.value = '';
         clearSearchBtn.classList.add('hidden');
         searchResultsView.classList.add('hidden');
@@ -574,6 +577,7 @@ function setupEventListeners() {
         const featuresSection = document.querySelector('.features-section');
         if (featuresSection) featuresSection.classList.remove('hidden');
         document.querySelector('.main-header').style.display = 'block';
+        homeView.classList.remove('search-active');
         window.scrollTo({ top: 0, behavior: 'smooth' });
         updateUrl(true);
         updateQuickLinksUI();
@@ -1756,9 +1760,17 @@ function getDynamicStatus(res, selectedFilters) {
     }
 
     // Default view (no filters selected)
+    const hasTableware = attrs['has_tableware'] === 'yes';
+    const hasHighChair = attrs['high_chair_available'] === 'yes';
+    const hasKidsMenu = attrs['kids_menu'] === 'yes';
+    const hasPlayArea = attrs['has_play_area'] === 'yes';
+    
+    const isRecommended = (hasTableware && hasHighChair) || (hasKidsMenu || hasPlayArea);
+    
     let totalYes = 0;
     allKeys.forEach(k => { if (attrs[k] === 'yes') totalYes++; });
-    if (totalYes >= 2) return { level: 'High', label: '值得推薦', class: 'high', matchCount: 0 };
+    
+    if (isRecommended) return { level: 'High', label: '值得推薦', class: 'high', matchCount: 0 };
     if (totalYes >= 1) return { level: 'Medium', label: '可以考慮', class: 'medium', matchCount: 0 };
     return { level: 'Insufficient Info', label: '資訊不足', class: 'info', matchCount: 0 };
 }
@@ -2691,11 +2703,15 @@ function syncStateFromUrl(isInitialLoad = false, animate = false) {
             searchResultsView.classList.add('hidden');
             if (floatShareBtn) floatShareBtn.classList.add('hidden');
             
+            const clearAllFiltersBtn = document.getElementById('clear-all-filters');
+            if (clearAllFiltersBtn) clearAllFiltersBtn.classList.add('hidden');
+            
             const trendingSection = document.querySelector('.trending-section');
             if (trendingSection) trendingSection.classList.remove('hidden');
             const featuresSection = document.querySelector('.features-section');
             if (featuresSection) featuresSection.classList.remove('hidden');
             document.querySelector('.main-header').style.display = 'block';
+            homeView.classList.remove('search-active');
             window.scrollTo({ top: 0, behavior: 'smooth' });
             updateQuickLinksUI();
         }

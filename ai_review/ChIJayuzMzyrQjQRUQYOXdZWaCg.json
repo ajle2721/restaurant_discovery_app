@@ -1,8 +1,8 @@
 ﻿{
     " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
+                                  "evidence":  "Google 摰?餉??拙??咱?券?",
+                                  "result":  "Yes",
+                                  "confidence":  1
                               },
     "Spacious seating":  {
                              "result":  "Unknown",
@@ -15,9 +15,9 @@
                                 "confidence":  0.4
                             },
     "kid_noise_tolerant":  {
-                               "result":  "Unknown",
-                               "evidence":  null,
-                               "confidence":  0.4
+                               "evidence":  "Google 摰?餉??拙??咱?券?",
+                               "result":  "Yes",
+                               "confidence":  1
                            },
     "has_play_area":  {
                           "result":  "Unknown",
@@ -30,9 +30,9 @@
                              "confidence":  0.4
                          },
     "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
+                          "evidence":  "Google 摰?餉??拙??咱?券?",
+                          "result":  "Yes",
+                          "confidence":  1
                       },
     "has_diaper_table":  {
                              "result":  "Yes",
@@ -42,9 +42,10 @@
     "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。可就近使用商場內公共尿布台及哺乳室。",
     "card_summary":  "",
     "generated_signals":  [
-                              "系統自動識別：位於百貨商場/大樓（遠東Garden City大巨蛋），可使用商場內公共尿布台及哺乳室"
+                              "系統自動識別：位於百貨商場/大樓（遠東Garden City大巨蛋），可使用商場內公共尿布台及哺乳室",
+                              "Google 摰?餉??拙??咱?券?"
                           ],
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "中",
+    "parent_friendly_score":  3,
+    "parent_friendly_level":  "高",
     "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

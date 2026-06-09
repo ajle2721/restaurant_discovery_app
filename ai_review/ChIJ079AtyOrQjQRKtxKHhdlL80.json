@@ -1,53 +1,54 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "No",
-        "evidence": "店內桌位不算多，每次去都座無虛席，誠心建議務必事先預約！",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "No",
-        "evidence": "Google Maps Attributes",
-        "confidence": 1.0
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "Google Maps Attributes",
-        "confidence": 1.0
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "資訊不足",
-    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals": [
-        "Good for children (官方標記：適合兒童)",
-        "Google Maps Attributes",
-        "店內桌位不算多，每次去都座無虛席，誠心建議務必事先預約！",
-        "No menu for children (官方標記：不提供兒童餐)"
-    ],
-    "generated_summary": "根據官方標記，這家餐廳適合帶兒童一同用餐，但店內並未提供兒童專屬餐點。此外，評論反映店內桌位不多且經常座無虛席，空間可能較為擁擠，建議前往前先預約。目前評論中未提及兒童椅、兒童餐具、尿布台或遊戲區等具體親子設施。",
-    "card_summary": ""
+﻿{
+    " child_seat available":  {
+                                  "evidence":  "Google 摰?餉??拙??咱?券?",
+                                  "result":  "Yes",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "No",
+                             "evidence":  "店內桌位不算多，每次去都座無虛席，誠心建議務必事先預約！",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "No",
+                                "evidence":  "Google Maps Attributes",
+                                "confidence":  1.0
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "Google Maps Attributes",
+                               "confidence":  1.0
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "evidence":  "Google 摰?餉??拙??咱?券?",
+                          "result":  "Yes",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "高",
+    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals":  [
+                              "Good for children (官方標記：適合兒童)",
+                              "Google Maps Attributes",
+                              "店內桌位不算多，每次去都座無虛席，誠心建議務必事先預約！",
+                              "No menu for children (官方標記：不提供兒童餐)",
+                              "Google 摰?餉??拙??咱?券?"
+                          ],
+    "generated_summary":  "根據官方標記，這家餐廳適合帶兒童一同用餐，但店內並未提供兒童專屬餐點。此外，評論反映店內桌位不多且經常座無虛席，空間可能較為擁擠，建議前往前先預約。目前評論中未提及兒童椅、兒童餐具、尿布台或遊戲區等具體親子設施。",
+    "card_summary":  ""
 }

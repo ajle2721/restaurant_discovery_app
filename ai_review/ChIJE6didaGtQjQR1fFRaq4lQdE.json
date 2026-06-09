@@ -1,54 +1,55 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Kids menu available": {
-        "result": "Yes",
-        "evidence": "Google Maps Attributes",
-        "confidence": 1.0
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "Google Maps Attributes",
-        "confidence": 1.0
-    },
-    "has_play_area": {
-        "result": "Yes",
-        "evidence": "寶貝參加完課程後，又跑上二樓玩球池、溜滑梯，玩到都不想回家了，很推貴店的服務跟品質，有耐心、態度優良，體驗的很不錯☺️👍🏻",
-        "confidence": 0.9
-    },
-    "has_private_room": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals": [
-        "寶寶玩的不亦樂乎，環境優美，老師親切，大人放心、小孩開心！",
-        "Good for children (官方標記：適合兒童)",
-        "Google Maps Attributes",
-        "Menu for children (官方標記：提供兒童餐)",
-        "寶貝參加完課程後，又跑上二樓玩球池、溜滑梯，玩到都不想回家了，很推貴店的服務跟品質，有耐心、態度優良，體驗的很不錯☺️👍🏻"
-    ],
-    "generated_summary": "Funny拾光 親子感官互動空間 咖啡廳非常適合帶小孩前來。官方標示提供兒童餐且適合兒童，評論中也提及二樓設有球池和溜滑梯等遊戲區，並有熱情的陪玩姐姐與豐富的體驗課程，讓小朋友玩得非常開心。不過目前評論中未特別提及兒童椅、餐具、尿布台或包廂等硬體設施。",
-    "card_summary": ""
+﻿{
+    " child_seat available":  {
+                                  "evidence":  "Google 摰?餉??拙??咱?券?",
+                                  "result":  "Yes",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "Kids menu available":  {
+                                "result":  "Yes",
+                                "evidence":  "Google Maps Attributes",
+                                "confidence":  1.0
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "Google Maps Attributes",
+                               "confidence":  1.0
+                           },
+    "has_play_area":  {
+                          "result":  "Yes",
+                          "evidence":  "寶貝參加完課程後，又跑上二樓玩球池、溜滑梯，玩到都不想回家了，很推貴店的服務跟品質，有耐心、態度優良，體驗的很不錯☺️👍🏻",
+                          "confidence":  0.9
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "evidence":  "Google 摰?餉??拙??咱?券?",
+                          "result":  "Yes",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "parent_friendly_score":  4,
+    "parent_friendly_level":  "高",
+    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals":  [
+                              "寶寶玩的不亦樂乎，環境優美，老師親切，大人放心、小孩開心！",
+                              "Good for children (官方標記：適合兒童)",
+                              "Google Maps Attributes",
+                              "Menu for children (官方標記：提供兒童餐)",
+                              "寶貝參加完課程後，又跑上二樓玩球池、溜滑梯，玩到都不想回家了，很推貴店的服務跟品質，有耐心、態度優良，體驗的很不錯☺️👍🏻",
+                              "Google 摰?餉??拙??咱?券?"
+                          ],
+    "generated_summary":  "Funny拾光 親子感官互動空間 咖啡廳非常適合帶小孩前來。官方標示提供兒童餐且適合兒童，評論中也提及二樓設有球池和溜滑梯等遊戲區，並有熱情的陪玩姐姐與豐富的體驗課程，讓小朋友玩得非常開心。不過目前評論中未特別提及兒童椅、餐具、尿布台或包廂等硬體設施。",
+    "card_summary":  ""
 }

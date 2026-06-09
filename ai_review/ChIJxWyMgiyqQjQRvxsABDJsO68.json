@@ -1,52 +1,53 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "No",
-        "evidence": "它屬於家庭小吃的套餐餐廳，空間不大常會客滿。",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "No",
-        "evidence": "No menu for children (官方標記：不提供兒童餐)",
-        "confidence": 1.0
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "Good for children (官方標記：適合兒童)",
-        "confidence": 1.0
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "資訊不足",
-    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals": [
-        "它屬於家庭小吃的套餐餐廳，空間不大常會客滿。",
-        "Good for children (官方標記：適合兒童)",
-        "No menu for children (官方標記：不提供兒童餐)"
-    ],
-    "generated_summary": "該餐廳被標記為適合兒童，且有家庭客前往用餐，但店內空間較為狹小且容易客滿，且官方明確表示不提供兒童餐，建議攜帶幼童前往時需留意空間與餐點需求。",
-    "card_summary": ""
+﻿{
+    " child_seat available":  {
+                                  "evidence":  "Google 摰?餉??拙??咱?券?",
+                                  "result":  "Yes",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "No",
+                             "evidence":  "它屬於家庭小吃的套餐餐廳，空間不大常會客滿。",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "No",
+                                "evidence":  "No menu for children (官方標記：不提供兒童餐)",
+                                "confidence":  1.0
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "Good for children (官方標記：適合兒童)",
+                               "confidence":  1.0
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "evidence":  "Google 摰?餉??拙??咱?券?",
+                          "result":  "Yes",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "中",
+    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals":  [
+                              "它屬於家庭小吃的套餐餐廳，空間不大常會客滿。",
+                              "Good for children (官方標記：適合兒童)",
+                              "No menu for children (官方標記：不提供兒童餐)",
+                              "Google 摰?餉??拙??咱?券?"
+                          ],
+    "generated_summary":  "該餐廳被標記為適合兒童，且有家庭客前往用餐，但店內空間較為狹小且容易客滿，且官方明確表示不提供兒童餐，建議攜帶幼童前往時需留意空間與餐點需求。",
+    "card_summary":  ""
 }

@@ -1,50 +1,50 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Unknown",
-                               "evidence":  null,
-                               "confidence":  0.4
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary":  "",
-    "generated_signals":  [
-
-                          ],
-    "parent_friendly_score":  0,
-    "parent_friendly_level":  "資訊不足",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+{
+    " child_seat available": {
+        "evidence": "Google 摰?餉??拙??咱?券?",
+        "result": "Yes",
+        "confidence": 1
+    },
+    "Spacious seating": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "evidence": "Google 摰?餉??拙??咱?券?",
+        "result": "Yes",
+        "confidence": 1
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "evidence": "Google 摰?餉??拙??咱?券?",
+        "result": "Yes",
+        "confidence": 1
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "generated_summary": "這家餐廳提供兒童座椅、兒童餐具、環境氣氛適合帶小孩。目前評論中較少提及其他親子用餐的具體細節，建議前往前可先向店家確認。",
+    "card_summary": "",
+    "generated_signals": [
+        "Google 摰?餉??拙??咱?券?"
+    ],
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

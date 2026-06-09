@@ -1,53 +1,54 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "No",
-        "evidence": "坐的位置靠近廚房，可以看到大火以及吸到油煙，明明門就可以帶上，超級吵也很不舒服。",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "No",
-        "evidence": "No menu for children (官方標記：不提供兒童餐)",
-        "confidence": 1.0
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "Good for children (官方標記：適合兒童)",
-        "confidence": 1.0
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_tableware": {
-        "result": "No",
-        "evidence": "被頭上冷氣滴到換位置還要自己拿餐具換",
-        "confidence": 0.9
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "資訊不足",
-    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals": [
-        "No menu for children (官方標記：不提供兒童餐)",
-        "坐的位置靠近廚房，可以看到大火以及吸到油煙，明明門就可以帶上，超級吵也很不舒服。",
-        "被頭上冷氣滴到換位置還要自己拿餐具換",
-        "Good for children (官方標記：適合兒童)"
-    ],
-    "generated_summary": "雖然 Google Maps 標記該餐廳適合兒童，但店內不提供兒童餐，且評論中提到用餐環境較為擁擠、吵雜，甚至需要自行拿取餐具，親子友善設施的相關資訊較為缺乏，建議家長前往前可先向店家確認是否有兒童座椅等基本設備。",
-    "card_summary": ""
+﻿{
+    " child_seat available":  {
+                                  "evidence":  "Google 摰?餉??拙??咱?券?",
+                                  "result":  "Yes",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "No",
+                             "evidence":  "坐的位置靠近廚房，可以看到大火以及吸到油煙，明明門就可以帶上，超級吵也很不舒服。",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "No",
+                                "evidence":  "No menu for children (官方標記：不提供兒童餐)",
+                                "confidence":  1.0
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "Good for children (官方標記：適合兒童)",
+                               "confidence":  1.0
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "evidence":  "Google 摰?餉??拙??咱?券?",
+                          "result":  "Yes",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "高",
+    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals":  [
+                              "No menu for children (官方標記：不提供兒童餐)",
+                              "坐的位置靠近廚房，可以看到大火以及吸到油煙，明明門就可以帶上，超級吵也很不舒服。",
+                              "被頭上冷氣滴到換位置還要自己拿餐具換",
+                              "Good for children (官方標記：適合兒童)",
+                              "Google 摰?餉??拙??咱?券?"
+                          ],
+    "generated_summary":  "雖然 Google Maps 標記該餐廳適合兒童，但店內不提供兒童餐，且評論中提到用餐環境較為擁擠、吵雜，甚至需要自行拿取餐具，親子友善設施的相關資訊較為缺乏，建議家長前往前可先向店家確認是否有兒童座椅等基本設備。",
+    "card_summary":  ""
 }

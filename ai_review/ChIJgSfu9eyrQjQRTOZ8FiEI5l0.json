@@ -1,53 +1,54 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Unknown",
-        "evidence": "Review 1 mentions '座位少', while Review 5 mentions '位子很多', creating conflicting information.",
-        "confidence": 0.4
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "Google Maps Attributes: Good for children",
-        "confidence": 1.0
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals": [
-        "Review 1: 座位少",
-        "Review 5: 位子很多",
-        "Review 1 mentions '座位少', while Review 5 mentions '位子很多', creating conflicting information.",
-        "Google Maps Attributes: Good for children"
-    ],
-    "generated_summary": "該餐廳被 Google Maps 標記為適合兒童，但評論中對於店內空間大小的描述不一（有顧客認為座位少，也有顧客認為位子很多）。目前評論中較少提及與兒童餐椅、餐具、遊戲區或尿布台等親子設施相關的具體資訊，建議前往前可先向店家確認。",
-    "card_summary": ""
+﻿{
+    " child_seat available":  {
+                                  "evidence":  "Google 摰?餉??拙??咱?券?",
+                                  "result":  "Yes",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  "Review 1 mentions \u0027座位少\u0027, while Review 5 mentions \u0027位子很多\u0027, creating conflicting information.",
+                             "confidence":  0.4
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "Google Maps Attributes: Good for children",
+                               "confidence":  1.0
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "evidence":  "Google 摰?餉??拙??咱?券?",
+                          "result":  "Yes",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "parent_friendly_score":  3,
+    "parent_friendly_level":  "高",
+    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals":  [
+                              "Review 1: 座位少",
+                              "Review 5: 位子很多",
+                              "Review 1 mentions \u0027座位少\u0027, while Review 5 mentions \u0027位子很多\u0027, creating conflicting information.",
+                              "Google Maps Attributes: Good for children",
+                              "Google 摰?餉??拙??咱?券?"
+                          ],
+    "generated_summary":  "該餐廳被 Google Maps 標記為適合兒童，但評論中對於店內空間大小的描述不一（有顧客認為座位少，也有顧客認為位子很多）。目前評論中較少提及與兒童餐椅、餐具、遊戲區或尿布台等親子設施相關的具體資訊，建議前往前可先向店家確認。",
+    "card_summary":  ""
 }

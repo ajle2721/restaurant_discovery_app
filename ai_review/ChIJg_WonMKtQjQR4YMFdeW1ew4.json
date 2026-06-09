@@ -1,53 +1,54 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "店內有播放愛爾達體育賽事，舒適、有沙發座的座位區。",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "No",
-        "evidence": "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)",
-        "confidence": 1.0
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "親子客也很適合來。",
-        "confidence": 0.9
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals": [
-        "親子客也很適合來。",
-        "店內有播放愛爾達體育賽事，舒適、有沙發座的座位區。",
-        "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)",
-        "Google Maps Attributes: Good for children (官方標記：適合兒童)"
-    ],
-    "generated_summary": "漁人巷海鮮餐酒館環境舒適且設有沙發座位，官方標記顯示適合兒童前往，且評論中也提到適合親子客。不過，店家明確標示不提供兒童餐，且目前評論中未提及兒童座椅、餐具、遊戲區或尿布台等設施，建議家長前往前可先致電確認相關設備。",
-    "card_summary": ""
+﻿{
+    " child_seat available":  {
+                                  "evidence":  "Google 摰?餉??拙??咱?券?",
+                                  "result":  "Yes",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "店內有播放愛爾達體育賽事，舒適、有沙發座的座位區。",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "No",
+                                "evidence":  "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)",
+                                "confidence":  1.0
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "親子客也很適合來。",
+                               "confidence":  0.9
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "evidence":  "Google 摰?餉??拙??咱?券?",
+                          "result":  "Yes",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "parent_friendly_score":  4,
+    "parent_friendly_level":  "高",
+    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals":  [
+                              "親子客也很適合來。",
+                              "店內有播放愛爾達體育賽事，舒適、有沙發座的座位區。",
+                              "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)",
+                              "Google Maps Attributes: Good for children (官方標記：適合兒童)",
+                              "Google 摰?餉??拙??咱?券?"
+                          ],
+    "generated_summary":  "漁人巷海鮮餐酒館環境舒適且設有沙發座位，官方標記顯示適合兒童前往，且評論中也提到適合親子客。不過，店家明確標示不提供兒童餐，且目前評論中未提及兒童座椅、餐具、遊戲區或尿布台等設施，建議家長前往前可先致電確認相關設備。",
+    "card_summary":  ""
 }

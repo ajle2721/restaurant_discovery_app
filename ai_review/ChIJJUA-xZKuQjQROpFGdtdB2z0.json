@@ -1,52 +1,53 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "客席面積算大，桌數算多，桌間距離不會有擁擠感，所以用餐氛圍很悠閒，可以很放鬆的用餐，這點真的讚！",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "Good for children (官方標記：適合兒童)",
-        "confidence": 1.0
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals": [
-        "Good for children (官方標記：適合兒童)",
-        "客席面積算大，桌數算多，桌間距離不會有擁擠感，所以用餐氛圍很悠閒，可以很放鬆的用餐，這點真的讚！",
-        "店內裝潢活潑、鮮明，椅子舒適，還有可愛的動物大玩偶擺設。整體氛圍是充滿童趣、活力的～"
-    ],
-    "generated_summary": "該餐廳被官方標記為適合兒童，店內裝潢活潑且充滿童趣，設有可愛的動物玩偶擺設。用餐環境寬敞舒適，桌間距離適中，不會感到擁擠，適合家庭客前往用餐。不過目前評論中未提及兒童椅、兒童餐具或尿布台等具體設施，建議前往前可先向店家確認。",
-    "card_summary": ""
+﻿{
+    " child_seat available":  {
+                                  "evidence":  "Google 摰?餉??拙??咱?券?",
+                                  "result":  "Yes",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "客席面積算大，桌數算多，桌間距離不會有擁擠感，所以用餐氛圍很悠閒，可以很放鬆的用餐，這點真的讚！",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "Good for children (官方標記：適合兒童)",
+                               "confidence":  1.0
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "evidence":  "Google 摰?餉??拙??咱?券?",
+                          "result":  "Yes",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "parent_friendly_score":  4,
+    "parent_friendly_level":  "高",
+    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals":  [
+                              "Good for children (官方標記：適合兒童)",
+                              "客席面積算大，桌數算多，桌間距離不會有擁擠感，所以用餐氛圍很悠閒，可以很放鬆的用餐，這點真的讚！",
+                              "店內裝潢活潑、鮮明，椅子舒適，還有可愛的動物大玩偶擺設。整體氛圍是充滿童趣、活力的～",
+                              "Google 摰?餉??拙??咱?券?"
+                          ],
+    "generated_summary":  "該餐廳被官方標記為適合兒童，店內裝潢活潑且充滿童趣，設有可愛的動物玩偶擺設。用餐環境寬敞舒適，桌間距離適中，不會感到擁擠，適合家庭客前往用餐。不過目前評論中未提及兒童椅、兒童餐具或尿布台等具體設施，建議前往前可先向店家確認。",
+    "card_summary":  ""
 }

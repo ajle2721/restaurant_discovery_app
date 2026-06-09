@@ -1,8 +1,8 @@
 ﻿{
     " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
+                                  "evidence":  "Google 摰?餉??拙??咱?券?",
+                                  "result":  "Yes",
+                                  "confidence":  1
                               },
     "Spacious seating":  {
                              "result":  "Unknown",
@@ -43,9 +43,10 @@
     "card_summary":  "",
     "generated_signals":  [
                               "Google 官方登記適合兒童用餐",
-                              "後來因為小孩的餐具有油漬"
+                              "後來因為小孩的餐具有油漬",
+                              "Google 摰?餉??拙??咱?券?"
                           ],
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "中",
+    "parent_friendly_score":  3,
+    "parent_friendly_level":  "高",
     "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

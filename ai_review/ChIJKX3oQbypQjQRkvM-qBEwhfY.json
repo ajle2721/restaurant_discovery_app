@@ -1,7 +1,7 @@
 ﻿{
     " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  "使用者回報與人工校正：大型美式風格分店通常有兒童椅",
+                                  "evidence":  "Google 摰?餉??拙??咱?券?",
+                                  "result":  "Yes",
                                   "confidence":  1
                               },
     "Spacious seating":  {
@@ -45,9 +45,10 @@
                               "用餐環境很寬敞～桌數不多",
                               "使用者回報與人工校正：菜單上有提供兒童飛機餐盒",
                               "Google 官方登記適合兒童用餐",
-                              "使用者回報與人工校正：有提供兒童餐具"
+                              "使用者回報與人工校正：有提供兒童餐具",
+                              "Google 摰?餉??拙??咱?券?"
                           ],
-    "parent_friendly_score":  4,
+    "parent_friendly_score":  5,
     "parent_friendly_level":  "高",
     "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
 }

@@ -1,8 +1,8 @@
 ﻿{
     " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
+                                  "evidence":  "Google 摰?餉??拙??咱?券?",
+                                  "result":  "Yes",
+                                  "confidence":  1
                               },
     "Spacious seating":  {
                              "result":  "Yes",
@@ -15,9 +15,9 @@
                                 "confidence":  0.4
                             },
     "kid_noise_tolerant":  {
-                               "result":  "No",
-                               "evidence":  "其所擁有安靜、溫馨的氛圍我更喜歡",
-                               "confidence":  0.8
+                               "evidence":  "Google 摰?餉??拙??咱?券?",
+                               "result":  "Yes",
+                               "confidence":  1
                            },
     "has_play_area":  {
                           "result":  "Unknown",
@@ -30,9 +30,9 @@
                              "confidence":  0.4
                          },
     "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
+                          "evidence":  "Google 摰?餉??拙??咱?券?",
+                          "result":  "Yes",
+                          "confidence":  1
                       },
     "has_diaper_table":  {
                              "result":  "Unknown",
@@ -43,9 +43,10 @@
     "card_summary":  "",
     "generated_signals":  [
                               "裏頭的空間不似連鎖咖啡店那樣寬敞",
-                              "其所擁有安靜、溫馨的氛圍我更喜歡"
+                              "其所擁有安靜、溫馨的氛圍我更喜歡",
+                              "Google 摰?餉??拙??咱?券?"
                           ],
-    "parent_friendly_score":  -1,
-    "parent_friendly_level":  "資訊不足",
+    "parent_friendly_score":  4,
+    "parent_friendly_level":  "高",
     "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

@@ -1,54 +1,55 @@
-{
-    " child_seat available": {
-        "result": "Yes",
-        "evidence": "Google Maps Attributes: Good for children (官方標記：適合兒童)",
-        "confidence": 1.0
-    },
-    "Spacious seating": {
-        "result": "No",
-        "evidence": "缺點是座位有點小。",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "No",
-        "evidence": "能與久違的朋友在這樣的空間裡靜靜聊天，便是最珍貴的幸福。",
-        "confidence": 0.9
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_diaper_table": {
-        "result": "Yes",
-        "evidence": "位於百貨公司/商場/大樓內，可使用商場/大樓附設之尿布台",
-        "confidence": 1.0
-    },
-    "parent_friendly_score": 0,
-    "parent_friendly_level": "資訊不足",
-    "reason": "人工校正與AI綜合評估",
-    "generated_signals": [
-        "缺點是座位有點小。",
-        "能與久違的朋友在這樣的空間裡靜靜聊天，便是最珍貴的幸福。",
-        "Google Maps Attributes: Good for children (官方標記：適合兒童)",
-        "位於百貨公司/商場/大樓內，可使用商場/大樓附設之尿布台",
-        "甜點不確定有沒有小湯匙或小叉子 索性手抓著吃完😅"
-    ],
-    "generated_summary": "根據Google Maps標示，此餐廳適合兒童，暗示可能提供兒童座椅。然而，評論提及座位空間偏小，且環境氛圍適合靜靜聊天，可能不適合較吵鬧的孩童。目前對於兒童餐、遊戲區、包廂、兒童餐具及尿布台等具體親子設施，評論中未有明確提及，建議前往前可先向店家確認。",
-    "card_summary": ""
+﻿{
+    " child_seat available":  {
+                                  "evidence":  "Google 摰?餉??拙??咱?券?",
+                                  "result":  "Yes",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "No",
+                             "evidence":  "缺點是座位有點小。",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "evidence":  "Google 摰?餉??拙??咱?券?",
+                               "result":  "Yes",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "evidence":  "Google 摰?餉??拙??咱?券?",
+                          "result":  "Yes",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Yes",
+                             "evidence":  "位於百貨公司/商場/大樓內，可使用商場/大樓附設之尿布台",
+                             "confidence":  1.0
+                         },
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "高",
+    "reason":  "人工校正與AI綜合評估",
+    "generated_signals":  [
+                              "缺點是座位有點小。",
+                              "能與久違的朋友在這樣的空間裡靜靜聊天，便是最珍貴的幸福。",
+                              "Google Maps Attributes: Good for children (官方標記：適合兒童)",
+                              "位於百貨公司/商場/大樓內，可使用商場/大樓附設之尿布台",
+                              "甜點不確定有沒有小湯匙或小叉子 索性手抓著吃完😅",
+                              "Google 摰?餉??拙??咱?券?"
+                          ],
+    "generated_summary":  "根據Google Maps標示，此餐廳適合兒童，暗示可能提供兒童座椅。然而，評論提及座位空間偏小，且環境氛圍適合靜靜聊天，可能不適合較吵鬧的孩童。目前對於兒童餐、遊戲區、包廂、兒童餐具及尿布台等具體親子設施，評論中未有明確提及，建議前往前可先向店家確認。",
+    "card_summary":  ""
 }

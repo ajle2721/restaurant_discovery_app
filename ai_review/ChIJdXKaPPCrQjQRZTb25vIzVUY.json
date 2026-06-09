@@ -1,53 +1,54 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Unknown",
-        "evidence": "Review 4 mentions '環境寬敞舒適', but Review 5 states '位子偏小', resulting in conflicting information.",
-        "confidence": 0.5
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "Google Maps Attributes: Good for children",
-        "confidence": 1.0
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals": [
-        "Review 4 mentions '環境寬敞舒適', but Review 5 states '位子偏小', resulting in conflicting information.",
-        "位子偏小",
-        "環境寬敞舒適",
-        "Google Maps Attributes: Good for children"
-    ],
-    "generated_summary": "該餐廳被 Google Maps 標記為適合兒童，環境氛圍友善。關於空間大小的評價較為兩極，有顧客認為寬敞舒適，也有顧客覺得位子偏小。目前評論中未提及兒童椅、兒童餐、遊戲區或尿布台等具體親子設施，建議前往前可先向店家確認。",
-    "card_summary": ""
+﻿{
+    " child_seat available":  {
+                                  "evidence":  "Google 摰?餉??拙??咱?券?",
+                                  "result":  "Yes",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  "Review 4 mentions \u0027環境寬敞舒適\u0027, but Review 5 states \u0027位子偏小\u0027, resulting in conflicting information.",
+                             "confidence":  0.5
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "Google Maps Attributes: Good for children",
+                               "confidence":  1.0
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "evidence":  "Google 摰?餉??拙??咱?券?",
+                          "result":  "Yes",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "parent_friendly_score":  3,
+    "parent_friendly_level":  "高",
+    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals":  [
+                              "Review 4 mentions \u0027環境寬敞舒適\u0027, but Review 5 states \u0027位子偏小\u0027, resulting in conflicting information.",
+                              "位子偏小",
+                              "環境寬敞舒適",
+                              "Google Maps Attributes: Good for children",
+                              "Google 摰?餉??拙??咱?券?"
+                          ],
+    "generated_summary":  "該餐廳被 Google Maps 標記為適合兒童，環境氛圍友善。關於空間大小的評價較為兩極，有顧客認為寬敞舒適，也有顧客覺得位子偏小。目前評論中未提及兒童椅、兒童餐、遊戲區或尿布台等具體親子設施，建議前往前可先向店家確認。",
+    "card_summary":  ""
 }

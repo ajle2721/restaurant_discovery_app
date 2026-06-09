@@ -30,9 +30,9 @@
                              "confidence":  0.4
                          },
     "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
+                          "evidence":  "Google 摰?餉??拙??咱?券?",
+                          "result":  "Yes",
+                          "confidence":  1
                       },
     "has_diaper_table":  {
                              "result":  "Unknown",
@@ -43,7 +43,8 @@
     "card_summary":  "",
     "generated_signals":  [
                               "也有嬰兒座椅",
-                              "Google 官方登記適合兒童用餐"
+                              "Google 官方登記適合兒童用餐",
+                              "Google 摰?餉??拙??咱?券?"
                           ],
     "parent_friendly_score":  3,
     "parent_friendly_level":  "高",

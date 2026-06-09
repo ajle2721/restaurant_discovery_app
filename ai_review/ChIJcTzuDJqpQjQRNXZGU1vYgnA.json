@@ -1,53 +1,54 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "No",
-        "evidence": "桌距滿小的，四人小方桌多為古老的裁縫車改造，因食客絡繹不絕，空間也滿小的，所以室內很吵雜。",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "No",
-        "evidence": "Google Maps Attributes: No menu for children",
-        "confidence": 1.0
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "Google Maps Attributes: Good for children",
-        "confidence": 1.0
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "資訊不足",
-    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals": [
-        "Google Maps Attributes: No menu for children",
-        "桌距滿小的，四人小方桌多為古老的裁縫車改造，因食客絡繹不絕，空間也滿小的，所以室內很吵雜。",
-        "空間較為狹窄擁擠，且因為是老建築，無障礙設施較為缺乏。",
-        "Google Maps Attributes: Good for children"
-    ],
-    "generated_summary": "晉江茶堂為老宅改建的客家餐廳，氛圍懷舊且熱鬧，官方標記適合兒童，但店內空間狹窄擁擠，且不提供兒童餐。由於環境較為擁擠，建議攜帶幼童前往時需留意推車擺放空間。",
-    "card_summary": ""
+﻿{
+    " child_seat available":  {
+                                  "evidence":  "Google 摰?餉??拙??咱?券?",
+                                  "result":  "Yes",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "No",
+                             "evidence":  "桌距滿小的，四人小方桌多為古老的裁縫車改造，因食客絡繹不絕，空間也滿小的，所以室內很吵雜。",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "No",
+                                "evidence":  "Google Maps Attributes: No menu for children",
+                                "confidence":  1.0
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "Google Maps Attributes: Good for children",
+                               "confidence":  1.0
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "evidence":  "Google 摰?餉??拙??咱?券?",
+                          "result":  "Yes",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "高",
+    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals":  [
+                              "Google Maps Attributes: No menu for children",
+                              "桌距滿小的，四人小方桌多為古老的裁縫車改造，因食客絡繹不絕，空間也滿小的，所以室內很吵雜。",
+                              "空間較為狹窄擁擠，且因為是老建築，無障礙設施較為缺乏。",
+                              "Google Maps Attributes: Good for children",
+                              "Google 摰?餉??拙??咱?券?"
+                          ],
+    "generated_summary":  "晉江茶堂為老宅改建的客家餐廳，氛圍懷舊且熱鬧，官方標記適合兒童，但店內空間狹窄擁擠，且不提供兒童餐。由於環境較為擁擠，建議攜帶幼童前往時需留意推車擺放空間。",
+    "card_summary":  ""
 }

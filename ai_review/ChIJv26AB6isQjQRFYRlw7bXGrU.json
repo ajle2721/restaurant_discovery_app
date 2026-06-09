@@ -1,52 +1,53 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "一進門就被店裡舒適寬敞的空間吸引住，座位不僅多，環境也非常放鬆，讓人有種想待久一點的感覺。",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "Google Maps Attributes: Good for children (官方標記：適合兒童)",
-        "confidence": 1.0
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals": [
-        "一進門就被店裡舒適寬敞的空間吸引住，座位不僅多，環境也非常放鬆，讓人有種想待久一點的感覺。",
-        "座位不多、而且跟隔壁距離有點近，採自助式取餐與自行處理餐盤。",
-        "Google Maps Attributes: Good for children (官方標記：適合兒童)"
-    ],
-    "generated_summary": "該店被官方標記為適合兒童，且有評論提到店內空間舒適寬敞，適合放鬆休息。不過，關於兒童座椅、兒童餐具、遊戲區或尿布台等具體親子設施，目前評論中並未提及，建議前往前可先向店家確認。",
-    "card_summary": ""
+﻿{
+    " child_seat available":  {
+                                  "evidence":  "Google 摰?餉??拙??咱?券?",
+                                  "result":  "Yes",
+                                  "confidence":  1
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "一進門就被店裡舒適寬敞的空間吸引住，座位不僅多，環境也非常放鬆，讓人有種想待久一點的感覺。",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "Google Maps Attributes: Good for children (官方標記：適合兒童)",
+                               "confidence":  1.0
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "evidence":  "Google 摰?餉??拙??咱?券?",
+                          "result":  "Yes",
+                          "confidence":  1
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "parent_friendly_score":  4,
+    "parent_friendly_level":  "高",
+    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals":  [
+                              "一進門就被店裡舒適寬敞的空間吸引住，座位不僅多，環境也非常放鬆，讓人有種想待久一點的感覺。",
+                              "座位不多、而且跟隔壁距離有點近，採自助式取餐與自行處理餐盤。",
+                              "Google Maps Attributes: Good for children (官方標記：適合兒童)",
+                              "Google 摰?餉??拙??咱?券?"
+                          ],
+    "generated_summary":  "該店被官方標記為適合兒童，且有評論提到店內空間舒適寬敞，適合放鬆休息。不過，關於兒童座椅、兒童餐具、遊戲區或尿布台等具體親子設施，目前評論中並未提及，建議前往前可先向店家確認。",
+    "card_summary":  ""
 }

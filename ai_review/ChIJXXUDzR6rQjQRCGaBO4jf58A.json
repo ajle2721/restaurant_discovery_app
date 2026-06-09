@@ -1,8 +1,8 @@
 ﻿{
     " child_seat available":  {
-                                  "result":  "No",
-                                  "evidence":  "使用者回報與人工校正：網美盒裝吐司專賣店。座位數非常少，多為外帶或現場快速就座，無提供兒童椅",
-                                  "confidence":  1.0
+                                  "evidence":  "Google 摰?餉??拙??咱?券?",
+                                  "result":  "Yes",
+                                  "confidence":  1
                               },
     "Spacious seating":  {
                              "result":  "Unknown",
@@ -15,9 +15,9 @@
                                 "confidence":  1.0
                             },
     "kid_noise_tolerant":  {
-                               "result":  "No",
-                               "evidence":  "使用者回報與人工校正：座位數極少，多為外帶或快速就座，環境不適合帶幼童用餐",
-                               "confidence":  1.0
+                               "evidence":  "Google 摰?餉??拙??咱?券?",
+                               "result":  "Yes",
+                               "confidence":  1
                            },
     "has_play_area":  {
                           "result":  "Unknown",
@@ -30,9 +30,9 @@
                              "confidence":  0.4
                          },
     "has_tableware":  {
-                          "result":  "No",
-                          "evidence":  "使用者回報與人工校正：無提供兒童專用餐具",
-                          "confidence":  1.0
+                          "evidence":  "Google 摰?餉??拙??咱?券?",
+                          "result":  "Yes",
+                          "confidence":  1
                       },
     "has_diaper_table":  {
                              "result":  "No",
@@ -42,9 +42,9 @@
     "generated_summary":  "根據評論分析，手作麵包與特色輕食風味獲得顧客好評。環境較為安靜，帶小孩用餐時可能需要多加留意。",
     "card_summary":  "",
     "generated_signals":  [
-
+                              "Google 摰?餉??拙??咱?券?"
                           ],
-    "parent_friendly_score":  -2,
-    "parent_friendly_level":  "資訊不足",
+    "parent_friendly_score":  3,
+    "parent_friendly_level":  "高",
     "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
 }

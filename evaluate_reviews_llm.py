@@ -77,7 +77,7 @@ Return ONLY a valid JSON object. Do not wrap it in markdown.
 
 Labels to evaluate:
 1. " child_seat available"
-Strict: Only 'Yes' if reviews explicitly mention 兒童椅, 嬰兒椅, 餐椅, 兒童座椅, 嬰兒座椅, high chair, baby chair, booster seat, etc., OR if Google Maps Attributes indicates child-friendly features that imply it. 
+Strict: Only 'Yes' if reviews explicitly mention 兒童椅, 嬰兒椅, 餐椅, 兒童座椅, 嬰兒座椅, high chair, baby chair, booster seat, etc. Do not infer this from generic child-friendly attributes like 'Good for children'.
 If not explicitly mentioned, return 'Unknown'.
 2. "Spacious seating"
 Semantic: Describe the dining space/environment size or crowdedness. 
@@ -210,9 +210,26 @@ def calculate_score(analysis):
         analysis.get("kid_noise_tolerant", {}).get("result") == "No"):
         score -= 2
         
-    if score >= 3:
+    # 新版等級計算規則
+    has_tableware = analysis.get("has_tableware", {}).get("result") == "Yes"
+    has_high_chair = (analysis.get(" child_seat available", {}).get("result") == "Yes" or 
+                      analysis.get("child_seat available", {}).get("result") == "Yes")
+    has_kids_menu = analysis.get("Kids menu available", {}).get("result") == "Yes"
+    has_play_area = analysis.get("has_play_area", {}).get("result") == "Yes"
+    
+    is_recommended = (has_tableware and has_high_chair) or (has_kids_menu or has_play_area)
+    
+    # 統計任意 Yes 項目數
+    keys = [" child_seat available", "child_seat available", "Spacious seating", "Kids menu available", 
+            "kid_noise_tolerant", "has_play_area", "has_private_room", "has_tableware", "has_diaper_table"]
+    total_yes = 0
+    for k in keys:
+        if analysis.get(k, {}).get("result") == "Yes":
+            total_yes += 1
+            
+    if is_recommended:
         level = "高"
-    elif score > 0:
+    elif total_yes >= 1:
         level = "中"
     else:
         level = "資訊不足"
@@ -359,6 +376,16 @@ def main():
                     }
                     continue
                     
+                # 3.5 依據 Google 官方「適合兒童」屬性自動設定兒童椅、兒童餐具與環境適合兒童用餐
+                if (index_key == " child_seat available" or index_key == "has_tableware" or index_key == "kid_noise_tolerant") and good_for_children is True:
+                    final_attrs[index_key] = {
+                        "result": "Yes",
+                        "evidence": "Google 官方登記適合兒童用餐",
+                        "confidence": 1.0
+                    }
+                    continue
+
+                    
                 # 4. 套用 LLM 評估或預設空值
                 item = analysis.get(index_key, {"result": default_val, "evidence": None, "confidence": 0.4})
                 final_attrs[index_key] = item
@@ -366,16 +393,34 @@ def main():
             # 計算分數與評等
             score, level = calculate_score(final_attrs)
             
-            # 綜合摘要整理
+            # 綜合摘要整理與衝突修正
             summary = analysis.get("generated_summary", "")
-            if not summary.strip():
-                if final_attrs["has_diaper_table"]["result"] == "Yes" and in_mall:
-                    summary = "位於百貨公司或商場內，可使用商場附設之尿布台。目前評論中較少提及其他與親子用餐相關的具體資訊，建議前往前可先向店家確認。"
+            is_fallback = not summary.strip() or "較少提及" in summary or "少提及" in summary
+            
+            if is_fallback:
+                parts = []
+                if final_attrs[" child_seat available"]["result"] == "Yes":
+                    parts.append("兒童座椅")
+                if final_attrs["has_tableware"]["result"] == "Yes":
+                    parts.append("兒童餐具")
+                if final_attrs["Kids menu available"]["result"] == "Yes":
+                    parts.append("兒童餐點")
+                if final_attrs["has_diaper_table"]["result"] == "Yes":
+                    if in_mall:
+                        parts.append("可使用商場附設之尿布台")
+                    else:
+                        parts.append("尿布台")
+                if final_attrs["has_play_area"]["result"] == "Yes":
+                    parts.append("遊戲區")
+                if final_attrs["kid_noise_tolerant"]["result"] == "Yes":
+                    parts.append("環境氣氛適合帶小孩")
+                
+                if parts:
+                    summary = f"這家餐廳提供{'、'.join(parts)}。目前評論中較少提及其他親子用餐的具體細節，建議前往前可先向店家確認。"
                 else:
                     summary = "目前評論中較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。"
             else:
-                # 若位於商場且無評論提及尿布台，但我們預設勾選了，在摘要內順便提一下
-                if in_mall and "尿布台" not in summary:
+                if in_mall and "尿布台" not in summary and final_attrs["has_diaper_table"]["result"] == "Yes":
                     summary = "位於百貨商場大樓內，可方便使用附設尿布台。" + summary
             
             # 收集 signals (去重)
