@@ -3835,6 +3835,9 @@ function setupPwaInstallPrompt() {
 
     // 5. Setup a periodic check for the duration trigger (every 10 seconds)
     setInterval(checkPwaInstallTrigger, 10000);
+    
+    // Check immediately on load (especially for ?open_pwa=1 redirects)
+    setTimeout(checkPwaInstallTrigger, 1000);
 }
 
 function checkPwaInstallTrigger() {
