@@ -3766,7 +3766,7 @@ function setupPwaInstallPrompt() {
                         browserText.innerHTML =
                             '<div style="margin-bottom:8px;">此頁在 LINE 內開啟，無法直接安裝。</div>' +
                             steps([
-                                '點擊畫面<strong>右下角</strong>的分享按鈕 ↑',
+                                '點擊畫面<strong>右下角</strong>的 <strong>⋯</strong>',
                                 '選擇「<strong>在瀏覽器中開啟</strong>」',
                                 '網頁在 Safari 開啟後，提示將自動再次出現 🎉',
                             ]);
@@ -3806,7 +3806,7 @@ function setupPwaInstallPrompt() {
                         browserText.innerHTML =
                             '<div style="margin-bottom:8px;">此頁在 LINE 內開啟，無法直接安裝。</div>' +
                             steps([
-                                '點擊畫面<strong>右下角</strong>的分享按鈕 ↑',
+                                '點擊畫面<strong>右下角</strong>的 <strong>⋯</strong>',
                                 '選擇「<strong>在瀏覽器中開啟</strong>」',
                                 '網頁在 Chrome 開啟後，提示將自動再次出現 🎉',
                             ]);
