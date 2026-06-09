@@ -1,0 +1,22 @@
+{
+  "name": "帶小孩吃什麼？台北親子友善餐廳搜尋",
+  "short_name": "帶小孩吃什麼",
+  "description": "根據你的需求，推薦最適合你的台北市親子友善餐廳",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ff7e67",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "site-icon-v5.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "site-icon-v5.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

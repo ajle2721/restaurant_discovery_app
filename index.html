@@ -18,6 +18,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
+    <link rel="manifest" href="manifest.json">
     <!-- Leaflet Map Library -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
     <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
@@ -308,6 +309,30 @@
         </form>
     </div>
 
+
+    <!-- PWA Install Prompt -->
+    <div id="pwa-install-prompt" class="pwa-prompt hidden">
+        <div class="pwa-prompt-content">
+            <div class="pwa-prompt-icon">
+                <img src="site-icon-v5.png" alt="App Icon">
+            </div>
+            <div class="pwa-prompt-text-wrapper">
+                <div class="pwa-prompt-title">將「帶小孩吃什麼」加入主畫面</div>
+                <div class="pwa-prompt-desc">下次查詢更快速，還能享有全螢幕的體驗！</div>
+            </div>
+            <div class="pwa-prompt-actions">
+                <button id="pwa-btn-cancel" class="pwa-btn-secondary">下次再說</button>
+                <button id="pwa-btn-install" class="pwa-btn-primary">立即加入</button>
+            </div>
+        </div>
+        <!-- iOS Safari guidance -->
+        <div class="pwa-ios-guideline hidden">
+            <div class="pwa-ios-text">
+                請點擊瀏覽器下方工具列的「分享」按鈕 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; display: inline; margin: 0 2px;"><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/><polyline points="16 6 12 2 8 6"/><line x1="12" y1="2" x2="12" y2="15"/></svg>，<br>然後滑動選單點選「<strong>加入主畫面</strong>」<span style="font-size: 1.1rem; vertical-align: middle;">➕</span>
+            </div>
+            <div class="pwa-ios-arrow"></div>
+        </div>
+    </div>
 
     <!-- Data and App Logic -->
     <script src="locations.js"></script>

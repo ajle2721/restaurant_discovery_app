@@ -1,4 +1,4 @@
-const WEB3FORMS_ACCESS_KEY = "c7b3994f-f590-4126-a12f-111c28c58a19";
+﻿const WEB3FORMS_ACCESS_KEY = "c7b3994f-f590-4126-a12f-111c28c58a19";
 
 const state = {
     filters: new Set(),
@@ -21,7 +21,8 @@ const state = {
     favorites: new Set(),
     viewTransitionTimeoutId: null,
     isUiNavigation: false,
-    expandedRadius: false
+    expandedRadius: false,
+    detailViews: new Set(JSON.parse(sessionStorage.getItem('pwa_detail_views') || '[]'))
 };
 
 // Global Detail Viewer (must be global for onclick)
@@ -332,12 +333,23 @@ function init() {
 
         if (typeof restaurantData === 'undefined') {
             console.error('restaurantData is not loaded. Make sure ai_review/index.js is included.');
+        } else {
+            // Patch AI summaries in memory to resolve contradictions between official tags and review mentions
+            restaurantData.forEach(res => {
+                if (res.ai_summary) {
+                    res.ai_summary = patchAiSummary(res, res.ai_summary);
+                }
+                if (res.card_summary) {
+                    res.card_summary = patchAiSummary(res, res.card_summary);
+                }
+            });
         }
 
         initMap();
         loadFavorites();
         setupEventListeners();
         updateShortlistUI();
+        setupPwaInstallPrompt();
 
         // Global listener for map popup buttons (View Details)
         state.map.on('popupopen', (e) => {
@@ -2179,6 +2191,15 @@ function showDetail(restaurant) {
         renderDetailContent(restaurant);
         switchView('detail');
         updateUrl(true); // PUSH state on showing details
+        
+        // Track unique detail views for PWA install trigger
+        if (restaurant.place_id && state.detailViews) {
+            state.detailViews.add(restaurant.place_id);
+            sessionStorage.setItem('pwa_detail_views', JSON.stringify(Array.from(state.detailViews)));
+            if (typeof checkPwaInstallTrigger === 'function') {
+                checkPwaInstallTrigger();
+            }
+        }
     } catch (err) {
         console.error('Error in showDetail:', err);
         showToast('無法載入詳情，請稍後再試');
@@ -2839,6 +2860,102 @@ function formatRestaurantName(name) {
     }).join('<wbr>');
 }
 
+function patchAiSummary(restaurant, summary) {
+    if (!summary) return '';
+    
+    const hasHighChair = restaurant.attributes && restaurant.attributes.high_chair_available === 'yes';
+    const hasTableware = restaurant.attributes && restaurant.attributes.has_tableware === 'yes';
+    
+    let patched = summary;
+    
+    if (hasHighChair || hasTableware) {
+        if (hasHighChair && hasTableware) {
+            if (patched.includes('銝行???咱擗?)) {
+                // Case 1: Kids menu is explicitly NO
+                patched = patched.replace(
+                    /銝?摨振銝行???咱擗?銝??桀?|currently)?閰?銝剜???咱璊??瑟?撠踹???蝑身???/g,
+                    '????蝡交???蝡仿??瘀?雿?摰嗡蒂?芣?靘?蝡仿?嚗??桀?閰?銝剜?孵??撠踹???2'
+                );
+            } else {
+                // Case 2: Kids menu is UNKNOWN (it is listed as unmentioned in reviews)
+                patched = patched.replace(
+                    /(?桀?|currently)?閰?銝剜???咱擗?蝡交????瑟?撠踹???蝑身???/g,
+                    '????蝡交???蝡仿??瘀?雿??隢葉?芰?交???蝡仿??倏撣$2'
+                );
+                patched = patched.replace(
+                    /(?桀?|currently)?閰?銝剜???咱璊??瑟?撠踹???蝑身???/g,
+                    '????蝡交???蝡仿??瘀?雿??隢葉?芰?交??倏撣$2'
+                );
+                patched = patched.replace(
+                    /(?桀?|currently)?閰?銝剜???咱擗?蝡交?????g,
+                    '????蝡交???蝡仿??瘀?雿??隢葉?芰?交???蝡仿?'
+                );
+                patched = patched.replace(
+                    /(?桀?|currently)?閰?銝剜???咱璊???g,
+                    '????蝡交???蝡仿???
+                );
+            }
+        } else if (hasHighChair) {
+            if (patched.includes('銝行???咱擗?)) {
+                patched = patched.replace(
+                    /銝?摨振銝行???咱擗?銝??桀?|currently)?閰?銝剜???咱璊??瑟?撠踹???蝑身???/g,
+                    '????蝡交?嚗?摨振銝行???咱擗?銝??隢葉?芰?交????瑟?撠踹???2'
+                );
+            } else {
+                patched = patched.replace(
+                    /(currently|?桀?)?閰?銝剜???咱擗?蝡交????瑟?撠踹???蝑身???/g,
+                    '????蝡交?嚗??桀?閰?銝剜?孵???咱擗??瑟?撠踹???2'
+                );
+                patched = patched.replace(
+                    /(currently|?桀?)?閰?銝剜???咱璊??瑟?撠踹???蝑身???/g,
+                    '????蝡交?嚗??桀?閰?銝剜?孵??擗?倏撣$2'
+                );
+                patched = patched.replace(
+                    /(?桀?|currently)?閰?銝剜???咱擗?蝡交?/g,
+                    '????蝡交?嚗??桀?閰?銝剜?孵???咱擗?
+                );
+                patched = patched.replace(
+                    /(?桀?|currently)?閰?銝剜???咱璊?g,
+                    '????蝡交?'
+                );
+            }
+        } else if (hasTableware) {
+            if (patched.includes('銝行???咱擗?)) {
+                patched = patched.replace(
+                    /銝?摨振銝行???咱擗?銝??桀?|currently)?閰?銝剜???咱璊??瑟?撠踹???蝑身???/g,
+                    '????蝡仿??瘀?雿?摰嗡蒂?芣?靘?蝡仿?嚗??桀?閰?銝剜?孵???咱璊?撠踹???2'
+                );
+            } else {
+                patched = patched.replace(
+                    /(currently|?桀?)?閰?銝剜???咱擗?蝡交????瑟?撠踹???蝑身???/g,
+                    '????蝡仿??瘀?雿??隢葉?芰?交???蝡仿???蝡交??倏撣$2'
+                );
+                patched = patched.replace(
+                    /(currently|?桀?)?閰?銝剜???咱璊??瑟?撠踹???蝑身???/g,
+                    '????蝡仿??瘀?雿??隢葉?芰?交???蝡交??倏撣$2'
+                );
+                patched = patched.replace(
+                    /(?桀?|currently)?閰?銝剜???咱擗???g,
+                    '????蝡仿??瘀?雿??隢葉?芰?交???蝡仿?'
+                );
+                patched = patched.replace(
+                    /(?桀?|currently)?閰?銝剜??擗/g,
+                    '????蝡仿???
+                );
+            }
+        }
+        
+        if (patched.includes('?桀?閰?銝剛?撠???閬芸??券??賊??擃?閮?)) {
+            const facilities = [];
+            if (hasHighChair) facilities.push('?咱璊?);
+            if (hasTableware) facilities.push('?咱擗');
+            patched = patched.replace('?桀?閰?銝剛?撠???閬芸??券??賊??擃?閮?, `????{facilities.join('??)}嚗??桀?閰?銝剛?撠???敦蝭`);
+        }
+    }
+    
+    return patched;
+}
+
 let toastTimeoutId = null;
 function showToast(msg, duration = 3000) {
     if (!toast) return;
@@ -3407,6 +3524,133 @@ async function submitAiFeedback(isHelpful, checkedIssues, comment, email, restau
         }
     } catch (err) {
         console.error('Error submitting AI feedback:', err);
+    }
+}
+
+// PWA Installation Prompt Logic
+let deferredPrompt = null;
+if (!sessionStorage.getItem('pwa_session_start_time')) {
+    sessionStorage.setItem('pwa_session_start_time', Date.now().toString());
+}
+let pwaSessionStartTime = parseInt(sessionStorage.getItem('pwa_session_start_time'), 10);
+
+function setupPwaInstallPrompt() {
+    // 1. Register Service Worker
+    if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+            navigator.serviceWorker.register('./sw.js')
+                .then(reg => console.log('Service Worker registered successfully:', reg.scope))
+                .catch(err => console.error('Service Worker registration failed:', err));
+        });
+    }
+
+    // 2. Track unique visits across sessions (using sessionStorage to guard new sessions)
+    if (!sessionStorage.getItem('pwa_session_active')) {
+        sessionStorage.setItem('pwa_session_active', 'true');
+        let visitCount = parseInt(localStorage.getItem('pwa_visit_count') || '0', 10);
+        visitCount += 1;
+        localStorage.setItem('pwa_visit_count', visitCount.toString());
+        console.log(`PWA Session visit count incremented: ${visitCount}`);
+    }
+
+    // 3. Listen for Android/Chrome native PWA install prompt event
+    window.addEventListener('beforeinstallprompt', (e) => {
+        // Prevent the mini-infobar from appearing on mobile
+        e.preventDefault();
+        // Stash the event so it can be triggered later
+        deferredPrompt = e;
+        console.log('beforeinstallprompt event captured');
+        
+        // Check triggers when the browser says app is installable
+        checkPwaInstallTrigger();
+    });
+
+    // 4. Setup prompt action buttons
+    const promptEl = document.getElementById('pwa-install-prompt');
+    const cancelBtn = document.getElementById('pwa-btn-cancel');
+    const installBtn = document.getElementById('pwa-btn-install');
+
+    if (cancelBtn) {
+        cancelBtn.addEventListener('click', () => {
+            if (promptEl) promptEl.classList.remove('show');
+            // Store that prompt was dismissed so we don't bug them again in the future
+            localStorage.setItem('pwa_prompt_dismissed', 'true');
+            console.log('PWA prompt dismissed by user');
+        });
+    }
+
+    if (installBtn) {
+        installBtn.addEventListener('click', () => {
+            const isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+            
+            if (isIOS) {
+                // For iOS, show the guideline overlay pointing down
+                const iosGuideline = promptEl.querySelector('.pwa-ios-guideline');
+                if (iosGuideline) {
+                    iosGuideline.classList.remove('hidden');
+                    // Transform the buttons: hide primary, make cancel button act as Got-it dismisser
+                    installBtn.style.display = 'none';
+                    cancelBtn.textContent = '我知道了';
+                    promptEl.querySelector('.pwa-prompt-desc').textContent = '依照下方導引，即可將此網頁安裝至主畫面。';
+                }
+            } else if (deferredPrompt) {
+                // Show the native browser install prompt
+                deferredPrompt.prompt();
+                // Wait for the user to respond to the prompt
+                deferredPrompt.userChoice.then((choiceResult) => {
+                    if (choiceResult.outcome === 'accepted') {
+                        console.log('User accepted the PWA install prompt');
+                    } else {
+                        console.log('User dismissed the PWA install prompt');
+                    }
+                    deferredPrompt = null;
+                });
+                if (promptEl) promptEl.classList.remove('show');
+            } else {
+                // Fallback for other platforms/browsers
+                const descEl = promptEl.querySelector('.pwa-prompt-desc');
+                if (descEl) {
+                    descEl.innerHTML = '請點擊瀏覽器選單中的「<strong>新增至主畫面</strong>」或「<strong>安裝應用程式</strong>」即可安裝。';
+                }
+                installBtn.style.display = 'none';
+            }
+        });
+    }
+
+    // 5. Setup a periodic check for the duration trigger (every 10 seconds)
+    setInterval(checkPwaInstallTrigger, 10000);
+}
+
+function checkPwaInstallTrigger() {
+    const promptEl = document.getElementById('pwa-install-prompt');
+    if (!promptEl) return;
+
+    // Check if running in standalone/installed mode
+    const isStandalone = window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone;
+    if (isStandalone) {
+        console.log('PWA is already running in standalone mode');
+        return;
+    }
+
+    // Check if dismissed
+    if (localStorage.getItem('pwa_prompt_dismissed') === 'true') {
+        return;
+    }
+
+    // Evaluate triggers
+    const visitCount = parseInt(localStorage.getItem('pwa_visit_count') || '0', 10);
+    const sessionDuration = (Date.now() - pwaSessionStartTime) / 1000; // in seconds
+    const detailViewsCount = state.detailViews ? state.detailViews.size : 0;
+
+    const shouldShow = (visitCount >= 3) || (sessionDuration >= 120 && detailViewsCount >= 3);
+
+    if (shouldShow && !promptEl.classList.contains('show')) {
+        console.log(`Triggering PWA install prompt: visits=${visitCount}, duration=${sessionDuration.toFixed(1)}s, detailViews=${detailViewsCount}`);
+        promptEl.classList.remove('hidden');
+        // Let it render first, then add class for transition
+        setTimeout(() => {
+            promptEl.classList.add('show');
+        }, 50);
     }
 }
 

@@ -2794,4 +2794,141 @@ body {
     white-space: nowrap;
 }
 
+/* PWA Install Prompt */
+.pwa-prompt {
+    position: fixed;
+    bottom: 24px;
+    left: 50%;
+    transform: translateX(-50%) translateY(100px);
+    width: calc(100% - 32px);
+    max-width: 480px;
+    background: rgba(255, 255, 255, 0.88);
+    backdrop-filter: blur(20px) saturate(190%);
+    -webkit-backdrop-filter: blur(20px) saturate(190%);
+    border: 1px solid rgba(255, 255, 255, 0.6);
+    border-radius: 1.5rem;
+    box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15), 0 5px 15px rgba(0, 0, 0, 0.08);
+    padding: 1.25rem;
+    z-index: 9999;
+    transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.4s ease;
+    opacity: 0;
+    pointer-events: none;
+    box-sizing: border-box;
+}
+
+.pwa-prompt.show {
+    transform: translateX(-50%) translateY(0);
+    opacity: 1;
+    pointer-events: auto;
+}
+
+.pwa-prompt-content {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 12px;
+}
+
+.pwa-prompt-icon {
+    width: 48px;
+    height: 48px;
+    flex-shrink: 0;
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.pwa-prompt-icon img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.pwa-prompt-text-wrapper {
+    flex-grow: 1;
+}
+
+.pwa-prompt-title {
+    font-size: 0.95rem;
+    font-weight: 800;
+    color: var(--text-main);
+    margin-bottom: 2px;
+}
+
+.pwa-prompt-desc {
+    font-size: 0.78rem;
+    color: var(--text-muted);
+    line-height: 1.3;
+}
+
+.pwa-prompt-actions {
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
+    width: 100%;
+}
+
+.pwa-btn-secondary {
+    background: transparent;
+    border: none;
+    color: var(--text-muted);
+    font-size: 0.85rem;
+    font-weight: 600;
+    padding: 8px 16px;
+    cursor: pointer;
+    border-radius: 10px;
+    transition: var(--transition);
+}
+
+.pwa-btn-secondary:hover {
+    background: rgba(0, 0, 0, 0.05);
+    color: var(--text-main);
+}
+
+.pwa-btn-primary {
+    background: linear-gradient(135deg, var(--primary), var(--primary-light));
+    border: none;
+    color: white;
+    font-size: 0.85rem;
+    font-weight: 700;
+    padding: 8px 18px;
+    cursor: pointer;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(255, 126, 103, 0.3);
+    transition: var(--transition);
+}
+
+.pwa-btn-primary:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 6px 14px rgba(255, 126, 103, 0.4);
+}
+
+/* iOS Safari guideline specific styling */
+.pwa-ios-guideline {
+    margin-top: 12px;
+    border-top: 1px dashed rgba(0, 0, 0, 0.1);
+    padding-top: 12px;
+    position: relative;
+    text-align: center;
+}
+
+.pwa-ios-text {
+    font-size: 0.82rem;
+    color: var(--text-main);
+    line-height: 1.5;
+}
+
+.pwa-ios-arrow {
+    position: absolute;
+    bottom: -22px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 10px solid rgba(255, 255, 255, 0.88);
+    filter: drop-shadow(0 2px 2px rgba(0,0,0,0.1));
+}
+
 
