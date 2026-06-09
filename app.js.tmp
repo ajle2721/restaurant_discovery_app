@@ -1881,7 +1881,7 @@ function renderCard(res, container, overrideLevel) {
         try {
             trackEvent('click_restaurant_card', {
                 restaurant_name: res.name,
-                source: 'list_card'
+                ui_source: 'list_card'
             });
         } catch (err) {}
         
@@ -2536,7 +2536,7 @@ window.showDetailFromMap = (id) => {
         const level = res.dynamicLevel || res.parent_friendly_level;
         trackEvent('view_restaurant_detail', {
             restaurant_name: res.name,
-            source: 'map_card',
+            ui_source: 'map_card',
             recommendation_level: levelLabels[level] || level,
             location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
         });

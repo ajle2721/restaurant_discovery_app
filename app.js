@@ -1,4 +1,4 @@
-﻿const WEB3FORMS_ACCESS_KEY = "c7b3994f-f590-4126-a12f-111c28c58a19";
+const WEB3FORMS_ACCESS_KEY = "c7b3994f-f590-4126-a12f-111c28c58a19";
 
 const state = {
     filters: new Set(),
@@ -1208,6 +1208,7 @@ async function geocodeAddress(query) {
 // Main custom search handler
 async function executeSearch(query) {
     if (!query) return;
+    trackEvent('search_keyword', { keyword: query });
 
     // Dismiss dropdown
     autocompleteDropdown.classList.add('hidden');
@@ -1881,7 +1882,7 @@ function renderCard(res, container, overrideLevel) {
         try {
             trackEvent('click_restaurant_card', {
                 restaurant_name: res.name,
-                source: 'list_card'
+                ui_source: 'list_card'
             });
         } catch (err) {}
         
@@ -2536,7 +2537,7 @@ window.showDetailFromMap = (id) => {
         const level = res.dynamicLevel || res.parent_friendly_level;
         trackEvent('view_restaurant_detail', {
             restaurant_name: res.name,
-            source: 'map_card',
+            ui_source: 'map_card',
             recommendation_level: levelLabels[level] || level,
             location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
         });
