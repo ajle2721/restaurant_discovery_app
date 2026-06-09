@@ -2790,3 +2790,8 @@ body {
     transform: translateY(0);
 }
 
+.no-wrap {
+    white-space: nowrap;
+}
+
+

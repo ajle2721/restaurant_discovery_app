@@ -1044,7 +1044,7 @@ function handleAutocomplete() {
                 ${restaurantMatches.map(res => `
                     <div class="autocomplete-item" data-type="restaurant" data-id="${res.place_id}">
                         <span class="icon">🍴</span>
-                        <span class="name">${res.name}</span>
+                        <span class="name">${formatRestaurantName(res.name)}</span>
                         <span class="type">${res.cuisine || '親子友善餐廳'}</span>
                     </div>
                 `).join('')}
@@ -1825,7 +1825,7 @@ function renderCard(res, container, overrideLevel) {
             ${isFav ? '❤️' : '🤍'}
         </button>
         <div class="card-header-row">
-            <div class="restaurant-name">${res.name}</div>
+            <div class="restaurant-name">${formatRestaurantName(res.name)}</div>
         </div>
         <div class="card-status-row">
             <div class="decision-summary ${levelClass}">
@@ -2017,7 +2017,7 @@ function renderDetailContent(restaurant) {
     }
 
     detailContent.innerHTML = `
-        <h1 style="margin-bottom: 0.5rem; color: var(--text-main);">${restaurant.name || '未命名餐廳'}</h1>
+        <h1 style="margin-bottom: 0.5rem; color: var(--text-main);">${formatRestaurantName(restaurant.name || '未命名餐廳')}</h1>
         <div class="restaurant-rating" style="font-size: 1.1rem; margin-bottom: 0.5rem;">${detailMetaHtml}</div>
         <div class="restaurant-address" style="font-size: 0.9rem; margin-bottom: 0.85rem;">📍 ${fixSimplifiedAddress(restaurant.address || '')}</div>
         
@@ -2471,7 +2471,7 @@ function refreshMapMarkers() {
 
         marker.bindPopup(`<div class="map-popup-compact">
             <div class="map-popup-title-row">
-                <span class="map-popup-name">${res.name}</span>
+                <span class="map-popup-name">${formatRestaurantName(res.name)}</span>
                 <span class="map-popup-rating">⭐${res.rating}</span>
             </div>
             <div class="map-popup-meta-row">
@@ -2822,6 +2822,23 @@ function fixSimplifiedAddress(addr) {
         .replace(/园/g, '園');
 }
 
+function formatRestaurantName(name) {
+    if (!name) return '';
+    // Split by parenthesized parts, or delimiters (space, dash, colon, slash, pipe)
+    const parts = name.split(/([\(\[【（].*?[\)\]】）]|[ \-－—:：\/／\|｜])/g).filter(p => p !== '');
+    
+    return parts.map(part => {
+        if (/^[ \-－—:：\/／\|｜]$/.test(part)) return part;
+        if (/^[\(\[【（].*?[\)\]】）]$/.test(part)) {
+            return `<span class="no-wrap">${part}</span>`;
+        }
+        if (part.length > 0 && part.length <= 12) {
+            return `<span class="no-wrap">${part}</span>`;
+        }
+        return part;
+    }).join('<wbr>');
+}
+
 let toastTimeoutId = null;
 function showToast(msg, duration = 3000) {
     if (!toast) return;
@@ -3011,7 +3028,7 @@ function renderShortlistDrawer() {
                 <div class="shortlist-card" style="cursor: pointer;" onclick="window.showDetailFromMap('${res.place_id}')">
                     <div class="shortlist-info">
                         <div class="shortlist-name-row">
-                            <span class="shortlist-name">${res.name}</span>
+                            <span class="shortlist-name">${formatRestaurantName(res.name)}</span>
                             <span class="match-rate-badge-small">${res.rating} ⭐</span>
                         </div>
                         <div class="shortlist-summary">${res.card_summary || res.ai_summary || '無摘要'}</div>
@@ -3101,7 +3118,7 @@ function renderShortlistDrawer() {
                 <tr>
                     <td>
                         <div class="comparison-table-name-cell">
-                            <a href="#" onclick="window.showDetailFromMap('${res.place_id}'); return false;">${res.name}</a>
+                            <a href="#" onclick="window.showDetailFromMap('${res.place_id}'); return false;">${formatRestaurantName(res.name)}</a>
                         </div>
                     </td>
                     <td style="font-weight: 700; color: var(--primary);">${res.rating} ⭐</td>
