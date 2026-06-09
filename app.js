@@ -1,4 +1,4 @@
-const WEB3FORMS_ACCESS_KEY = "c7b3994f-f590-4126-a12f-111c28c58a19";
+﻿const WEB3FORMS_ACCESS_KEY = "c7b3994f-f590-4126-a12f-111c28c58a19";
 
 const state = {
     filters: new Set(),
@@ -387,201 +387,6 @@ function setupEventListeners() {
             autocompleteDropdown.classList.remove('hidden');
         } else {
             showPopularRecommendations();
-        }
-    });
-    searchInput.addEventListener('click', () => {
-        if (searchInput.value.trim().length === 0) {
-            showPopularRecommendations();
-        }
-    });
-    searchInput.addEventListener('keydown', (e) => {
-        if (e.key === 'Enter') {
-            executeSearch(searchInput.value.trim());
-        }
-    });
-
-    if (searchMagnifier) {
-        searchMagnifier.addEventListener('click', () => {
-            executeSearch(searchInput.value.trim());
-        });
-    }
-
-    // Close autocomplete on click outside
-    document.addEventListener('click', (e) => {
-        if (!searchInput.contains(e.target) && !autocompleteDropdown.contains(e.target)) {
-            autocompleteDropdown.classList.add('hidden');
-        }
-    });
-
-    // Clear Search
-    clearSearchBtn.addEventListener('click', () => {
-        searchInput.value = '';
-        clearSearchBtn.classList.add('hidden');
-        autocompleteDropdown.classList.add('hidden');
-        searchInput.focus();
-    });
-
-    // Nearby Button
-    if (btnNearby) {
-        btnNearby.addEventListener('click', () => {
-            trackEvent('click_nearby');
-            handleNearby();
-        });
-    }
-
-    const btnNearbyProminent = document.getElementById('btn-nearby-prominent');
-    if (btnNearbyProminent) {
-        btnNearbyProminent.addEventListener('click', () => {
-            trackEvent('click_nearby_prominent');
-            if (state.searchLocation && state.searchLocation.name === '我附近') {
-                resetSearchBtn.click();
-            } else {
-                handleNearby();
-            }
-        });
-    }
-
-    const btnTaipeiAll = document.getElementById('btn-taipei-all');
-    if (btnTaipeiAll) {
-        btnTaipeiAll.addEventListener('click', () => {
-            trackEvent('click_taipei_all');
-            const taipeiAllLoc = {
-                name: '整個台北市',
-                type: '全市',
-                district: '全市',
-                lat: 25.037487, // Taipei Center
-                lng: 121.564766
-            };
-            if (state.searchLocation && (state.searchLocation.name === '整個台北市' || state.searchLocation.name === '台北市全區' || state.searchLocation.type === '全市')) {
-                resetSearchBtn.click();
-            } else {
-                selectLocation(taipeiAllLoc, 'taipei_all');
-            }
-        });
-    }
-
-    // Quick Links
-    document.querySelectorAll('.quick-link-item').forEach(btn => {
-        btn.addEventListener('click', () => {
-            const locName = btn.dataset.loc;
-            if (!locName) return; // Skip buttons without data-loc like "我附近" or "台北市全區" to avoid duplicate handlers
-            
-            trackEvent('click_popular_location', { location_name: locName });
-            
-            if (state.searchLocation && state.searchLocation.name === locName) {
-                resetSearchBtn.click();
-            } else {
-                const locObj = state.locationData.find(l => l.name === locName);
-                if (locObj) selectLocation(locObj, 'popular_location');
-            }
-        });
-    });
-
-    // Filter Chips
-    document.querySelectorAll('.filter-chip').forEach(chip => {
-        chip.addEventListener('click', () => {
-            const filter = chip.dataset.filter;
-            let action = 'select';
-            
-            if (state.filters.has(filter)) {
-                state.filters.delete(filter);
-                chip.classList.remove('active');
-                action = 'deselect';
-            } else {
-                state.filters.add(filter);
-                chip.classList.add('active');
-            }
-            
-            // Toggle active state in UI instantly, then defer heavy search execution
-            setTimeout(() => {
-                trackEvent('use_filter', {
-                    filter_name: filterMap[filter] || filter,
-                    action: action
-                });
-                
-                renderResults();
-                updateUrl();
-            }, 20);
-        });
-    });
-
-    // Clear All Filters
-    const clearAllFiltersBtn = document.getElementById('clear-all-filters');
-    if (clearAllFiltersBtn) {
-        clearAllFiltersBtn.addEventListener('click', () => {
-            state.filters.clear();
-            document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
-            
-            // Reset active states in UI instantly, then defer heavy search execution
-            setTimeout(() => {
-                renderResults();
-                updateUrl();
-            }, 20);
-        });
-    }
-
-    // Map Marker Toggle
-    const hideMarkersToggle = document.getElementById('hide-others-markers');
-    if (hideMarkersToggle) {
-        hideMarkersToggle.addEventListener('change', (e) => {
-            state.hideLowQualityMarkers = e.target.checked;
-            state.showOthers = !e.target.checked; // Sync list expansion with map toggle
-            
-            trackEvent('toggle_recommended_only', {
-                action: state.hideLowQualityMarkers ? 'on' : 'off',
-                location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
-            });
-            
-            // Update checkbox state instantly, then defer heavy rendering
-            setTimeout(() => {
-                renderResults();
-            }, 20);
-        });
-    }
-
-    // Toggle Others
-    toggleOthersBtn.addEventListener('click', () => {
-        // Track BEFORE state change to get current counts
-        const recommended = state.currentResults.filter(r => ['High', 'Medium', '高', '中'].includes(r.parent_friendly_level));
-        const others = state.currentResults.filter(r => ['Insufficient Info', 'Needs Attention', '資訊不足', '需留意'].includes(r.parent_friendly_level));
-        
-        if (!state.showOthers) {
-            trackEvent('click_show_more', {
-                location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none',
-                visible_restaurant_count: recommended.length,
-                hidden_restaurant_count: others.length
-            });
-        }
-
-        state.showOthers = !state.showOthers;
-        state.hideLowQualityMarkers = !state.showOthers; // Sync map toggle with list expansion
-        if (hideMarkersToggle) hideMarkersToggle.checked = state.hideLowQualityMarkers;
-        
-        // Toggle expansion instantly, then defer heavy rendering
-        setTimeout(() => {
-            renderResults();
-        }, 20);
-    });
-
-    // Reset Search
-    resetSearchBtn.addEventListener('click', () => {
-        state.searchLocation = null;
-        state.userLocation = null;
-        state.filters.clear();
-        state.hideLowQualityMarkers = true; // Reset to default: hide low quality
-        state.showOthers = false; // Reset to default: hide others list
-        
-        document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
-        const clearAllFiltersBtn = document.getElementById('clear-all-filters');
-        if (clearAllFiltersBtn) clearAllFiltersBtn.classList.add('hidden');
-        
-        searchInput.value = '';
-        clearSearchBtn.classList.add('hidden');
-        searchResultsView.classList.add('hidden');
-        if (floatShareBtn) floatShareBtn.classList.add('hidden');
-        
-        // Update checkbox UI
-        const hideMarkersToggle = document.getElementById('hide-others-markers');
         }
     });
     searchInput.addEventListener('click', () => {
@@ -1689,7 +1494,7 @@ async function renderResults() {
                     activeFiltersBar.appendChild(indicator);
                 });
             } else {
-                activeFiltersBar.classList.remove('hidden');
+                activeFiltersBar.classList.add('hidden');
             }
         }
 
@@ -2374,7 +2179,7 @@ function renderDetailContent(restaurant) {
 
             const originalBtnText = btnSubmitAiFeedback.innerHTML;
             btnSubmitAiFeedback.disabled = true;
-            btnSubmitAiFeedback.innerHTML = '⏳ 提交中...';
+            btnSubmitAiFeedback.innerHTML = '⌛ 提交中...';
 
             await submitAiFeedback(false, checkedIssues, comment, email, restaurant);
 
@@ -3283,6 +3088,640 @@ function patchAiSummary(restaurant, summary) {
 }
 
 
+let toastTimeoutId = null;
+function showToast(msg, duration = 3000) {
+    if (!toast) return;
+    toast.textContent = msg;
+    toast.style.zIndex = "9999"; // Ensure it's on top
+    toast.classList.add('show');
+    
+    if (toastTimeoutId) {
+        clearTimeout(toastTimeoutId);
+    }
+    toastTimeoutId = setTimeout(() => {
+        toast.classList.remove('show');
+        toastTimeoutId = null;
+    }, duration);
+}
+
+// Shortlist & Favorite Helpers
+function loadFavorites() {
+    try {
+        const stored = localStorage.getItem('taipei_kids_restaurants_favorites');
+        if (stored) {
+            const arr = JSON.parse(stored);
+            if (Array.isArray(arr)) {
+                state.favorites = new Set(arr);
+            }
+        }
+    } catch (e) {
+        console.error('Failed to load favorites', e);
+    }
+}
+
+function saveFavorites() {
+    try {
+        const arr = Array.from(state.favorites);
+        localStorage.setItem('taipei_kids_restaurants_favorites', JSON.stringify(arr));
+    } catch (e) {
+        console.error('Failed to save favorites', e);
+    }
+}
+
+function updateShortlistUI() {
+    const floatShortlistBtn = document.getElementById('float-shortlist');
+    const shortlistCountBadge = document.getElementById('shortlist-count');
+    const drawerCountBadge = document.getElementById('drawer-count-badge');
+    const clearShortlistBtn = document.getElementById('btn-clear-shortlist');
+    const shareShortlistBtn = document.getElementById('btn-share-shortlist');
+
+    const count = state.favorites.size;
+
+    if (floatShortlistBtn) {
+        if (count > 0) {
+            floatShortlistBtn.classList.remove('hidden');
+        } else {
+            floatShortlistBtn.classList.add('hidden');
+            // If the drawer was open, close it
+            const shortlistDrawer = document.getElementById('shortlist-drawer');
+            const shortlistDrawerOverlay = document.getElementById('shortlist-drawer-overlay');
+            if (shortlistDrawer && shortlistDrawer.classList.contains('active')) {
+                shortlistDrawer.classList.remove('active');
+                shortlistDrawerOverlay.classList.remove('active');
+            }
+        }
+    }
+
+    if (shortlistCountBadge) {
+        shortlistCountBadge.textContent = count;
+    }
+    if (drawerCountBadge) {
+        drawerCountBadge.textContent = count;
+    }
+    if (clearShortlistBtn) {
+        if (count > 0) {
+            clearShortlistBtn.classList.remove('hidden');
+        } else {
+            clearShortlistBtn.classList.add('hidden');
+        }
+    }
+    if (shareShortlistBtn) {
+        if (count > 0) {
+            shareShortlistBtn.classList.remove('hidden');
+        } else {
+            shareShortlistBtn.classList.add('hidden');
+        }
+    }
+}
+
+function toggleFavorite(placeId, event) {
+    const isNowFav = !state.favorites.has(placeId);
+    
+    // Find restaurant name for logging
+    const res = restaurantData.find(r => r.place_id === placeId);
+    const resName = res ? res.name : '';
+
+    if (isNowFav) {
+        state.favorites.add(placeId);
+        showToast(`已將「${resName}」加入口袋名單`);
+        trackEvent('add_to_shortlist', { restaurant_name: resName });
+    } else {
+        state.favorites.delete(placeId);
+        showToast(`已將「${resName}」移出口袋名單`);
+        trackEvent('remove_from_shortlist', { restaurant_name: resName });
+    }
+
+    saveFavorites();
+    updateShortlistUI();
+
+    // 1. Sync card buttons across the app
+    document.querySelectorAll(`.card-favorite-btn[data-place-id="${placeId}"]`).forEach(btn => {
+        btn.classList.toggle('active', isNowFav);
+        btn.innerHTML = isNowFav ? '❤️' : '🤍';
+        btn.title = isNowFav ? '移出口袋名單' : '加入口袋名單';
+    });
+
+    // 2. Sync detail view button if open
+    const detailFavBtn = document.getElementById('btn-detail-fav');
+    if (detailFavBtn && detailFavBtn.dataset.placeId === placeId) {
+        detailFavBtn.classList.toggle('active', isNowFav);
+        detailFavBtn.innerHTML = isNowFav ? '❤️' : '🤍';
+        detailFavBtn.title = isNowFav ? '移出口袋名單' : '加入口袋名單';
+    }
+
+    // 3. Re-render drawer if open
+    const shortlistDrawer = document.getElementById('shortlist-drawer');
+    if (shortlistDrawer && shortlistDrawer.classList.contains('active')) {
+        renderShortlistDrawer();
+    }
+
+    // 4. Update the URL parameters to match current shortlist
+    updateUrl();
+}
+
+function renderShortlistDrawer() {
+    const listView = document.getElementById('shortlist-list-view');
+    const compareView = document.getElementById('shortlist-compare-view');
+
+    if (!listView || !compareView) return;
+
+    const count = state.favorites.size;
+    if (count === 0) {
+        const emptyHtml = `
+            <div class="drawer-empty-state">
+                <span class="drawer-empty-icon">❤️</span>
+                <h3>你的口袋名單還是空的</h3>
+                <p>在餐廳卡片或詳情頁面中點擊「加入口袋」，即可在此比對與挑選心儀的餐廳！</p>
+            </div>
+        `;
+        listView.innerHTML = emptyHtml;
+        compareView.innerHTML = emptyHtml;
+        return;
+    }
+
+    // Get selected restaurant data objects
+    const savedRestaurants = Array.from(state.favorites)
+        .map(id => {
+            const res = restaurantData.find(r => r.place_id === id);
+            if (!res) return null;
+            const copy = { ...res };
+            if (state.searchLocation && copy.latitude && copy.longitude) {
+                copy.distance = calculateDistance(state.searchLocation.lat, state.searchLocation.lng, copy.latitude, copy.longitude);
+            }
+            return copy;
+        })
+        .filter(Boolean);
+
+    // Render list view
+    if (listView.classList.contains('active')) {
+        let listHtml = '<div class="shortlist-list">';
+        savedRestaurants.forEach(res => {
+            const status = getDynamicStatus(res, state.filters);
+            const levelClass = status.class;
+            const displayLabel = status.label;
+            
+            // Build amenity text
+            const ams = [];
+            const attrs = res.attributes || {};
+            if (attrs.has_tableware === 'yes') ams.push('🍽️兒童餐具');
+            if (attrs.high_chair_available === 'yes') ams.push('🪑兒童椅');
+            if (attrs.has_diaper_table === 'yes') ams.push('🍼尿布台');
+            if (attrs.kids_menu === 'yes') ams.push('🥘兒童餐');
+            if (attrs.kid_noise_tolerant === 'yes') ams.push('🥳不怕吵');
+            if (attrs.spacious_seating === 'yes') ams.push('🛋️空間寬敞');
+            if (attrs.has_play_area === 'yes') ams.push('🧸有遊樂區');
+            if (attrs.has_private_room === 'yes') ams.push('🚪包廂或可包場');
+            const amsText = ams.length > 0 ? ams.join(' · ') : '暫無特徵標籤';
+
+            listHtml += `
+                <div class="shortlist-card" style="cursor: pointer;" onclick="window.showDetailFromMap('${res.place_id}')">
+                    <div class="shortlist-info">
+                        <div class="shortlist-name-row">
+                            <span class="shortlist-name">${formatRestaurantName(res.name)}</span>
+                            <span class="match-rate-badge-small">${res.rating} ⭐</span>
+                        </div>
+                        <div class="shortlist-summary">${res.card_summary || res.ai_summary || '無摘要'}</div>
+                        <div class="shortlist-amenities">${amsText}</div>
+                    </div>
+                    <button class="shortlist-del-btn" data-place-id="${res.place_id}" title="移出清單">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="display: block;">
+                            <polyline points="3 6 5 6 21 6"></polyline>
+                            <path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path>
+                            <line x1="10" y1="11" x2="10" y2="17"></line>
+                            <line x1="14" y1="11" x2="14" y2="17"></line>
+                        </svg>
+                    </button>
+                </div>
+            `;
+        });
+        listHtml += '</div>';
+        listView.innerHTML = listHtml;
+
+        // Wire delete buttons
+        listView.querySelectorAll('.shortlist-del-btn').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                e.stopPropagation();
+                toggleFavorite(btn.dataset.placeId);
+            });
+        });
+    }
+
+    // Render comparison table view
+    if (compareView.classList.contains('active')) {
+        const isMobilePortrait = window.innerWidth < 768 && window.innerHeight > window.innerWidth;
+        let tableHtml = '';
+
+        if (isMobilePortrait) {
+            tableHtml += `
+                <div class="comparison-mobile-tip">
+                    <span class="tip-icon">💡</span>
+                    <span>手機橫放或使用大螢幕，可獲得更佳的對比排版體驗喔！</span>
+                </div>
+            `;
+        }
+
+        tableHtml += `
+            <div class="comparison-table-wrapper">
+                <table class="comparison-table">
+                    <thead>
+                        <tr>
+                            <th>餐廳名稱</th>
+                            <th>評分</th>
+                            <th>兒童餐具</th>
+                            <th>兒童椅</th>
+                            <th>尿布台</th>
+                            <th>兒童餐</th>
+                            <th>不怕吵</th>
+                            <th>空間寬敞</th>
+                            <th>有遊樂區</th>
+                            <th>可包場</th>
+                            <th>車程/步行</th>
+                            <th>操作</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+        `;
+
+        savedRestaurants.forEach(res => {
+            const attrs = res.attributes || {};
+            
+            const checkIcon = '<span class="check-icon">✓ 有</span>';
+            const crossIcon = '<span class="cross-icon">✗ 較小</span>';
+            const crossGeneralIcon = '<span class="cross-icon">✗ 無</span>';
+            const unknownIcon = '<span class="unknown-icon">? 未知</span>';
+
+            const chair = attrs.high_chair_available === 'yes' ? checkIcon : (attrs.high_chair_available === 'no' ? crossGeneralIcon : unknownIcon);
+            const spacious = attrs.spacious_seating === 'yes' ? checkIcon : (attrs.spacious_seating === 'no' ? crossIcon : unknownIcon);
+            const noise = attrs.kid_noise_tolerant === 'yes' ? checkIcon : (attrs.kid_noise_tolerant === 'no' ? crossGeneralIcon : unknownIcon);
+            const menu = attrs.kids_menu === 'yes' ? checkIcon : (attrs.kids_menu === 'no' ? crossGeneralIcon : unknownIcon);
+            const tableware = attrs.has_tableware === 'yes' ? checkIcon : (attrs.has_tableware === 'no' ? crossGeneralIcon : unknownIcon);
+            const diaper = attrs.has_diaper_table === 'yes' ? checkIcon : (attrs.has_diaper_table === 'no' ? crossGeneralIcon : unknownIcon);
+            const play = attrs.has_play_area === 'yes' ? checkIcon : (attrs.has_play_area === 'no' ? crossGeneralIcon : unknownIcon);
+            const room = attrs.has_private_room === 'yes' ? checkIcon : (attrs.has_private_room === 'no' ? crossGeneralIcon : unknownIcon);
+
+            const isWholeCity = state.searchLocation && (state.searchLocation.type === '全市' || state.searchLocation.name === '整個台北市');
+            const times = (!isWholeCity && res.distance) ? calculateTravelTimes(res.distance) : null;
+            const travelText = times ? `🚗${times.driving}分 / 🚶${times.walking}分` : (isWholeCity ? '全市範圍' : '未定位');
+
+            tableHtml += `
+                <tr>
+                    <td>
+                        <div class="comparison-table-name-cell">
+                            <a href="#" onclick="window.showDetailFromMap('${res.place_id}'); return false;">${formatRestaurantName(res.name)}</a>
+                        </div>
+                    </td>
+                    <td style="font-weight: 700; color: var(--primary);">${res.rating} ⭐</td>
+                    <td>${tableware}</td>
+                    <td>${chair}</td>
+                    <td>${diaper}</td>
+                    <td>${menu}</td>
+                    <td>${noise}</td>
+                    <td>${spacious}</td>
+                    <td>${play}</td>
+                    <td>${room}</td>
+                    <td style="color: var(--text-muted); font-weight: 600;">${travelText}</td>
+                    <td>
+                        <span class="comparison-table-del" data-place-id="${res.place_id}" title="移出清單">
+                            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle;">
+                                <polyline points="3 6 5 6 21 6"></polyline>
+                                <path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path>
+                                <line x1="10" y1="11" x2="10" y2="17"></line>
+                                <line x1="14" y1="11" x2="14" y2="17"></line>
+                            </svg>
+                        </span>
+                    </td>
+                </tr>
+            `;
+        });
+
+        tableHtml += `
+                    </tbody>
+                </table>
+            </div>
+        `;
+        compareView.innerHTML = tableHtml;
+
+        // Wire table delete links
+        compareView.querySelectorAll('.comparison-table-del').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                e.stopPropagation();
+                toggleFavorite(btn.dataset.placeId);
+            });
+        });
+    }
+}
+
+// Feedback Modal functions
+function openFeedbackModal(restaurant) {
+    if (!restaurant) return;
+    trackEvent('open_feedback_modal', { restaurant_name: restaurant.name });
+    
+    const modalOverlay = document.getElementById('feedback-modal-overlay');
+    const modal = document.getElementById('feedback-modal');
+    const nameInput = document.getElementById('feedback-restaurant-name');
+    const idInput = document.getElementById('feedback-restaurant-id');
+    const descriptionTextarea = document.getElementById('feedback-description');
+    const emailInput = document.getElementById('feedback-email');
+    
+    // Prefill
+    if (nameInput) nameInput.value = restaurant.name || '';
+    if (idInput) idInput.value = restaurant.place_id || '';
+    
+    // Dynamically render issue checkboxes based on restaurant's current attributes
+    const attrs = restaurant.attributes || {};
+    const issueGrid = document.getElementById('feedback-issue-grid');
+    if (issueGrid) {
+        const specs = [
+            {
+                key: 'has_tableware',
+                emoji: '🍽️',
+                yesLabel: '實際上無兒童餐具',
+                yesValue: '實際上無提供兒童餐具',
+                noLabel: '其實有兒童餐具',
+                noValue: '其實有提供兒童餐具'
+            },
+            {
+                key: 'high_chair_available',
+                emoji: '🪑',
+                yesLabel: '實際上無兒童椅',
+                yesValue: '實際上無提供兒童椅',
+                noLabel: '其實有兒童椅',
+                noValue: '其實有提供兒童椅'
+            },
+            {
+                key: 'has_diaper_table',
+                emoji: '🍼',
+                yesLabel: '實際上無尿布台',
+                yesValue: '實際上無尿布台',
+                noLabel: '其實有尿布台',
+                noValue: '其實有尿布台'
+            },
+            {
+                key: 'kids_menu',
+                emoji: '🥘',
+                yesLabel: '實際上無兒童餐',
+                yesValue: '實際上無提供兒童餐',
+                noLabel: '其實有兒童餐',
+                noValue: '其實有提供兒童餐'
+            },
+            {
+                key: 'kid_noise_tolerant',
+                emoji: '🥳',
+                yesLabel: '實際上氣氛安靜需留意',
+                yesValue: '實際上氣氛安靜不適合吵鬧',
+                noLabel: '其實環境不怕吵鬧',
+                noValue: '其實環境不怕吵鬧'
+            },
+            {
+                key: 'spacious_seating',
+                emoji: '🛋️',
+                yesLabel: '實際上空間較狹窄',
+                yesValue: '實際上空間較狹窄',
+                noLabel: '其實空間寬敞',
+                noValue: '其實空間寬敞'
+            },
+            {
+                key: 'has_play_area',
+                emoji: '🧸',
+                yesLabel: '實際上無遊樂區',
+                yesValue: '實際上無遊樂區',
+                noLabel: '其實有遊樂區',
+                noValue: '其實有遊樂區'
+            },
+            {
+                key: 'has_private_room',
+                emoji: '🚪',
+                yesLabel: '實際上無包廂且不可包場',
+                yesValue: '實際上無包廂且不可包場',
+                noLabel: '其實有包廂或可包場',
+                noValue: '其實有包廂或可包場'
+            }
+        ];
+
+        let gridHtml = '';
+        specs.forEach(spec => {
+            const hasFeature = attrs[spec.key] === 'yes';
+            const label = hasFeature ? spec.yesLabel : spec.noLabel;
+            const value = hasFeature ? spec.yesValue : spec.noValue;
+            gridHtml += `
+                <label class="checkbox-label">
+                    <input type="checkbox" class="feedback-issue-cb" value="${value}"> ${spec.emoji} ${label}
+                </label>
+            `;
+        });
+
+        // Add static options: closed/moved and other
+        gridHtml += `
+            <label class="checkbox-label text-danger">
+                <input type="checkbox" class="feedback-issue-cb" value="餐廳已歇業或搬遷"> ⚠️ 餐廳已歇業/搬遷
+            </label>
+            <label class="checkbox-label">
+                <input type="checkbox" class="feedback-issue-cb" value="其他"> 💬 其他建議或補充
+            </label>
+        `;
+
+        issueGrid.innerHTML = gridHtml;
+    }
+    
+    // Clear form text inputs
+    if (descriptionTextarea) descriptionTextarea.value = '';
+    if (emailInput) emailInput.value = '';
+    
+    // Show Modal
+    if (modalOverlay) modalOverlay.classList.add('active');
+    if (modal) modal.classList.add('active');
+    document.body.style.overflow = 'hidden'; // Lock scrolling
+}
+
+function closeFeedbackModal() {
+    const modalOverlay = document.getElementById('feedback-modal-overlay');
+    const modal = document.getElementById('feedback-modal');
+    
+    if (modalOverlay) modalOverlay.classList.remove('active');
+    if (modal) modal.classList.remove('active');
+    
+    // Restore scrolling only if detail view is NOT active
+    if (state.view !== 'detail') {
+        document.body.style.overflow = '';
+    }
+}
+
+async function handleFeedbackSubmit(e) {
+    e.preventDefault();
+    
+    const submitBtn = document.getElementById('btn-submit-feedback');
+    const originalBtnText = submitBtn ? submitBtn.innerHTML : '提交回報';
+    
+    // Collect checked issues
+    const checkedIssues = [];
+    document.querySelectorAll('.feedback-issue-cb:checked').forEach(cb => {
+        checkedIssues.push(cb.value);
+    });
+    
+    const description = document.getElementById('feedback-description').value.trim();
+    const email = document.getElementById('feedback-email').value.trim();
+    const restaurantName = document.getElementById('feedback-restaurant-name').value;
+    const restaurantId = document.getElementById('feedback-restaurant-id').value;
+    
+    // Validation: Must select at least one issue, OR write a description
+    if (checkedIssues.length === 0 && !description) {
+        alert('請至少選擇一個欲回報或補充的項目，或填寫具體說明！');
+        return;
+    }
+    
+    // Spam honeypot check
+    const honeypot = document.querySelector('.hidden-honeypot');
+    if (honeypot && honeypot.checked) {
+        console.warn('Bot detected');
+        closeFeedbackModal();
+        return;
+    }
+    
+    try {
+        trackEvent('submit_feedback', { restaurant_name: restaurantName });
+        if (submitBtn) {
+            submitBtn.disabled = true;
+            submitBtn.innerHTML = '⌛ 提交中...';
+        }
+        
+        // Construct form data payload for Web3Forms to prevent CORS preflight and PWA spam filters
+        const formData = new URLSearchParams();
+        formData.append('access_key', WEB3FORMS_ACCESS_KEY);
+        formData.append('name', '親子餐廳地圖 - 資訊回報與貢獻');
+        formData.append('subject', `🚩 餐廳資訊更新回報: ${restaurantName}`);
+        formData.append('restaurant_name', restaurantName);
+        formData.append('restaurant_id', restaurantId);
+        formData.append('issues', checkedIssues.join(', '));
+        formData.append('description', description);
+        if (email) {
+            formData.append('email', email);
+        }
+        
+        const response = await fetch('https://api.web3forms.com/submit', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/x-www-form-urlencoded',
+                'Accept': 'application/json'
+            },
+            body: formData.toString()
+        });
+        
+        const result = await response.json();
+        
+        if (response.ok && result.success) {
+            showToast('感謝您的回報與貢獻！我們會核實並儘快更新。');
+            closeFeedbackModal();
+        } else {
+            throw new Error(result.message || '伺服器回應異常');
+        }
+    } catch (err) {
+        console.error('Error submitting feedback:', err);
+        alert('提交失敗：' + err.message + '\n\n【排查提示】\n如果您在手機上測試時使用的是局域網 IP (如 192.168.x.x) 或直接開檔案測試，Web3Forms 安全機制可能會因為網域不符而拒絕傳送。請部署至 GitHub Pages 後再在正式網址上測試，即可正常使用！');
+    } finally {
+        if (submitBtn) {
+            submitBtn.disabled = false;
+            submitBtn.innerHTML = originalBtnText;
+        }
+    }
+}
+
+async function submitAiFeedback(isHelpful, checkedIssues, comment, email, restaurant) {
+    try {
+        const formData = new URLSearchParams();
+        formData.append('access_key', WEB3FORMS_ACCESS_KEY);
+        formData.append('name', '親子餐廳地圖 - 詳情頁面意見回饋');
+        formData.append('subject', `${isHelpful ? '👍' : '👎'} 詳情頁面回饋: ${restaurant.name || '未命名餐廳'}`);
+        formData.append('restaurant_name', restaurant.name || '未命名餐廳');
+        formData.append('restaurant_id', restaurant.place_id || '');
+        formData.append('is_helpful', isHelpful ? '有幫助' : '沒幫助');
+        if (!isHelpful) {
+            formData.append('issues', checkedIssues.join(', ') || '無');
+            formData.append('comment', comment || '無');
+        }
+        if (email) {
+            formData.append('email', email);
+        }
+
+        const response = await fetch('https://api.web3forms.com/submit', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/x-www-form-urlencoded',
+                'Accept': 'application/json'
+            },
+            body: formData.toString()
+        });
+
+        const result = await response.json();
+        if (!response.ok || !result.success) {
+            console.error('AI Feedback server error:', result.message);
+        }
+    } catch (err) {
+        console.error('Error submitting AI feedback:', err);
+    }
+}
+
+// PWA Installation Prompt Logic
+let deferredPrompt = null;
+if (!sessionStorage.getItem('pwa_session_start_time')) {
+    sessionStorage.setItem('pwa_session_start_time', Date.now().toString());
+}
+let pwaSessionStartTime = parseInt(sessionStorage.getItem('pwa_session_start_time'), 10);
+
+function setupPwaInstallPrompt() {
+    // 1. Register Service Worker
+    if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+            navigator.serviceWorker.register('./sw.js')
+                .then(reg => console.log('Service Worker registered successfully:', reg.scope))
+                .catch(err => console.error('Service Worker registration failed:', err));
+        });
+    }
+
+    // 2. Track unique visits across sessions (using sessionStorage to guard new sessions)
+    if (!sessionStorage.getItem('pwa_session_active')) {
+        sessionStorage.setItem('pwa_session_active', 'true');
+        let visitCount = parseInt(localStorage.getItem('pwa_visit_count') || '0', 10);
+        visitCount += 1;
+        localStorage.setItem('pwa_visit_count', visitCount.toString());
+        console.log(`PWA Session visit count incremented: ${visitCount}`);
+    }
+
+    // 3. Listen for Android/Chrome native PWA install prompt event
+    window.addEventListener('beforeinstallprompt', (e) => {
+        // Prevent the mini-infobar from appearing on mobile
+        e.preventDefault();
+        // Stash the event so it can be triggered later
+        deferredPrompt = e;
+        console.log('beforeinstallprompt event captured');
+        
+        // Check triggers when the browser says app is installable
+        checkPwaInstallTrigger();
+    });
+
+    // 4. Setup prompt action buttons
+    const promptEl = document.getElementById('pwa-install-prompt');
+    const cancelBtn = document.getElementById('pwa-btn-cancel');
+    const installBtn = document.getElementById('pwa-btn-install');
+
+    if (cancelBtn) {
+        cancelBtn.addEventListener('click', () => {
+            trackEvent('cancel_pwa_install');
+            if (promptEl) promptEl.classList.remove('show');
+            // Store that prompt was dismissed so we don't bug them again in the future
+            localStorage.setItem('pwa_prompt_dismissed', 'true');
+            console.log('PWA prompt dismissed by user');
+        });
+    }
+
+    if (installBtn) {
+        installBtn.addEventListener('click', () => {
+            trackEvent('install_pwa');
+            const ua = navigator.userAgent;
+            const isIOS = /iPad|iPhone|iPod/.test(ua) && !window.MSStream;
+            const isAndroid = /Android/.test(ua);
+
+            // --- Detect browser context ---
+            const isIOSSafari   = isIOS && /WebKit/.test(ua) && !/CriOS/.test(ua) && !/GSA/.test(ua) && !/Line\//.test(ua) && !/FBAV/.test(ua) && !/FBAN/.test(ua) && !/Instagram/.test(ua);
             const isIOSChrome   = isIOS && /CriOS/.test(ua);
             const isIOSInApp    = isIOS && !isIOSSafari && !isIOSChrome; // LINE, GSA, FB, IG, Messenger, etc.
             const isAndroidInApp= isAndroid && /Line\/|FBAV|FBAN|Instagram|MicroMessenger/.test(ua);
