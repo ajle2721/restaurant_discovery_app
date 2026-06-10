@@ -2972,3 +2972,28 @@ body {
     flex: 1;
     color: var(--text-main);
 }
+
+/* 載入更多按鈕 */
+.btn-load-more {
+    display: block;
+    width: 100%;
+    max-width: 220px;
+    margin: 1.5rem auto;
+    padding: 0.75rem 1.5rem;
+    background-color: white;
+    color: var(--primary);
+    border: 1.5px solid var(--primary);
+    border-radius: 2rem;
+    font-size: 0.95rem;
+    font-weight: 700;
+    text-align: center;
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+.btn-load-more:hover {
+    background-color: var(--primary);
+    color: white;
+    box-shadow: 0 4px 10px rgba(255, 126, 103, 0.2);
+}
+

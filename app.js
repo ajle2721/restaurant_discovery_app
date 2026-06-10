@@ -1,4 +1,4 @@
-const WEB3FORMS_ACCESS_KEY = "c7b3994f-f590-4126-a12f-111c28c58a19";
+Successfully matched and replaced a block! Successfully matched and replaced a block! Successfully matched and replaced a block! Successfully matched and replaced a block! Successfully matched and replaced a block! Successfully matched and replaced a block! Successfully matched and replaced a block! const WEB3FORMS_ACCESS_KEY = "c7b3994f-f590-4126-a12f-111c28c58a19";
 
 const state = {
     filters: new Set(),
@@ -22,6 +22,8 @@ const state = {
     viewTransitionTimeoutId: null,
     isUiNavigation: false,
     expandedRadius: false,
+    recommendedLimit: 30,
+    othersLimit: 30,
     detailViews: new Set(JSON.parse(sessionStorage.getItem('pwa_detail_views') || '[]'))
 };
 
@@ -492,6 +494,9 @@ function setupEventListeners() {
                 chip.classList.add('active');
             }
             
+            state.recommendedLimit = 30; // Reset pagination limit
+            state.othersLimit = 30; // Reset pagination limit
+            
             // Toggle active state in UI instantly, then defer heavy search execution
             setTimeout(() => {
                 trackEvent('use_filter', {
@@ -511,6 +516,8 @@ function setupEventListeners() {
         clearAllFiltersBtn.addEventListener('click', () => {
             state.filters.clear();
             document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
+            state.recommendedLimit = 30; // Reset pagination limit
+            state.othersLimit = 30; // Reset pagination limit
             
             // Reset active states in UI instantly, then defer heavy search execution
             setTimeout(() => {
@@ -557,6 +564,9 @@ function setupEventListeners() {
         state.hideLowQualityMarkers = !state.showOthers; // Sync map toggle with list expansion
         if (hideMarkersToggle) hideMarkersToggle.checked = state.hideLowQualityMarkers;
         
+        // Reset othersLimit when toggled
+        state.othersLimit = 30;
+        
         // Toggle expansion instantly, then defer heavy rendering
         setTimeout(() => {
             renderResults();
@@ -570,6 +580,8 @@ function setupEventListeners() {
         state.filters.clear();
         state.hideLowQualityMarkers = true; // Reset to default: hide low quality
         state.showOthers = false; // Reset to default: hide others list
+        state.recommendedLimit = 30; // Reset pagination limit
+        state.othersLimit = 30; // Reset pagination limit
         
         document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
         const clearAllFiltersBtn = document.getElementById('clear-all-filters');
@@ -1343,6 +1355,8 @@ function selectLocation(loc, source = 'other', pushState = true) {
     state.searchLocation = loc;
     state.showOthers = false; // Reset to only show High+Medium results on new search
     state.expandedRadius = false; // Reset search range expansion
+    state.recommendedLimit = 30; // Reset pagination limit
+    state.othersLimit = 30; // Reset pagination limit
     searchInput.value = loc.name;
     
     // Dismiss mobile keyboard and focus
@@ -1583,8 +1597,47 @@ async function renderResults() {
 
         state.currentResults = sorted; 
 
-        recommended.forEach(res => renderCard(res, recommendedList, res.dynamicLevel));
-        others.forEach(res => renderCard(res, othersList, res.dynamicLevel));
+        // Render recommended cards up to the recommendedLimit
+        const visibleRecommended = recommended.slice(0, state.recommendedLimit);
+        visibleRecommended.forEach(res => renderCard(res, recommendedList, res.dynamicLevel));
+
+        // If there are more recommended items, render the Load More button
+        if (recommended.length > state.recommendedLimit) {
+            const loadMoreBtn = document.createElement('button');
+            loadMoreBtn.className = 'btn-load-more';
+            loadMoreBtn.textContent = '\u8f09\u5165\u66f4\u591a\u63a8\u85a6';
+            loadMoreBtn.addEventListener('click', () => {
+                trackEvent('click_load_more_recommended', {
+                    current_limit: state.recommendedLimit,
+                    total_count: recommended.length
+                });
+                state.recommendedLimit += 30;
+                renderResults();
+            });
+            recommendedList.appendChild(loadMoreBtn);
+        }
+
+        // Lazy Rendering of others list based on state.showOthers
+        if (state.showOthers) {
+            const visibleOthers = others.slice(0, state.othersLimit);
+            visibleOthers.forEach(res => renderCard(res, othersList, res.dynamicLevel));
+
+            // If there are more others items, render the Load More button
+            if (others.length > state.othersLimit) {
+                const loadMoreBtn = document.createElement('button');
+                loadMoreBtn.className = 'btn-load-more';
+                loadMoreBtn.textContent = '\u8f09\u5165\u66f4\u591a\u9078\u9805';
+                loadMoreBtn.addEventListener('click', () => {
+                    trackEvent('click_load_more_others', {
+                        current_limit: state.othersLimit,
+                        total_count: others.length
+                    });
+                    state.othersLimit += 30;
+                    renderResults();
+                });
+                othersList.appendChild(loadMoreBtn);
+            }
+        }
 
         // Check if fully matching restaurants are 3 or fewer when filters are active
         const activeFiltersCount = (state.filters && state.filters.size > 0) ? state.filters.size : 0;
@@ -1634,6 +1687,8 @@ async function renderResults() {
                     btnExpand.onclick = (e) => {
                         e.preventDefault();
                         state.expandedRadius = true;
+                        state.recommendedLimit = 30; // Reset pagination limit
+                        state.othersLimit = 30; // Reset pagination limit
                         renderResults();
                     };
                 }
@@ -2672,6 +2727,8 @@ function syncStateFromUrl(isInitialLoad = false, animate = false) {
 
     if (!searchStateMatches) {
         console.log('Syncing search state from URL...');
+        state.recommendedLimit = 30; // Reset pagination limit
+        state.othersLimit = 30; // Reset pagination limit
         // 2. 恢復過濾條件
         state.filters.clear();
         document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
