@@ -20,6 +20,26 @@ const safeSession = {
     _fallback: {}
 };
 
+const safeLocal = {
+    getItem(key) {
+        try {
+            return localStorage.getItem(key);
+        } catch (e) {
+            console.warn('localStorage.getItem fallback:', e);
+            return this._fallback[key] || null;
+        }
+    },
+    setItem(key, value) {
+        try {
+            localStorage.setItem(key, value);
+        } catch (e) {
+            console.warn('localStorage.setItem fallback:', e);
+            this._fallback[key] = String(value);
+        }
+    },
+    _fallback: {}
+};
+
 const state = {
     filters: new Set(),
     searchLocation: null, // {name, lat, lng, type, district}
@@ -3297,7 +3317,7 @@ function showToast(msg, duration = 3000) {
 // Shortlist & Favorite Helpers
 function loadFavorites() {
     try {
-        const stored = localStorage.getItem('taipei_kids_restaurants_favorites');
+        const stored = safeLocal.getItem('taipei_kids_restaurants_favorites');
         if (stored) {
             const arr = JSON.parse(stored);
             if (Array.isArray(arr)) {
@@ -3312,7 +3332,7 @@ function loadFavorites() {
 function saveFavorites() {
     try {
         const arr = Array.from(state.favorites);
-        localStorage.setItem('taipei_kids_restaurants_favorites', JSON.stringify(arr));
+        safeLocal.setItem('taipei_kids_restaurants_favorites', JSON.stringify(arr));
     } catch (e) {
         console.error('Failed to save favorites', e);
     }
@@ -3877,9 +3897,9 @@ function setupPwaInstallPrompt() {
     // 2. Track unique visits across sessions (using sessionStorage to guard new sessions)
     if (!safeSession.getItem('pwa_session_active')) {
         safeSession.setItem('pwa_session_active', 'true');
-        let visitCount = parseInt(localStorage.getItem('pwa_visit_count') || '0', 10);
+        let visitCount = parseInt(safeLocal.getItem('pwa_visit_count') || '0', 10);
         visitCount += 1;
-        localStorage.setItem('pwa_visit_count', visitCount.toString());
+        safeLocal.setItem('pwa_visit_count', visitCount.toString());
         console.log(`PWA Session visit count incremented: ${visitCount}`);
     }
 
@@ -3904,7 +3924,7 @@ function setupPwaInstallPrompt() {
         cancelBtn.addEventListener('click', () => {
             if (promptEl) promptEl.classList.remove('show');
             // Store that prompt was dismissed so we don't bug them again in the future
-            localStorage.setItem('pwa_prompt_dismissed', 'true');
+            safeLocal.setItem('pwa_prompt_dismissed', 'true');
             console.log('PWA prompt dismissed by user');
         });
     }
@@ -4071,7 +4091,7 @@ function checkPwaInstallTrigger() {
     }
 
     // Check if dismissed (unless forced via URL)
-    if (!forceShow && localStorage.getItem('pwa_prompt_dismissed') === 'true') {
+    if (!forceShow && safeLocal.getItem('pwa_prompt_dismissed') === 'true') {
         return;
     }
 
@@ -4080,7 +4100,7 @@ function checkPwaInstallTrigger() {
     if (isDesktop && !forceShow) return;
 
     // Evaluate triggers (mobile only)
-    const visitCount = parseInt(localStorage.getItem('pwa_visit_count') || '0', 10);
+    const visitCount = parseInt(safeLocal.getItem('pwa_visit_count') || '0', 10);
     const sessionDuration = (Date.now() - pwaSessionStartTime) / 1000; // in seconds
 
     // Show if: forced, OR 3rd+ visit, OR used continuously for 60+ seconds

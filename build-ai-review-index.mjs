@@ -158,7 +158,6 @@ function main() {
   const skipped = [];
   const records = [];
 
-  let count = 0;
   for (const file of aiReviewFiles) {
     const placeId = path.basename(file, ".json");
     const responsePath = path.join(responseDir, `${placeId}.json`);
@@ -167,10 +166,6 @@ function main() {
       continue;
     }
     records.push(buildRecord(placeId));
-    count++;
-    if (count >= 1300) {
-      break;
-    }
   }
 
   const columns = [
