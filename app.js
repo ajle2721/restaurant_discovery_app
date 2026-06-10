@@ -1,5 +1,25 @@
 const WEB3FORMS_ACCESS_KEY = "c7b3994f-f590-4126-a12f-111c28c58a19";
 
+const safeSession = {
+    getItem(key) {
+        try {
+            return sessionStorage.getItem(key);
+        } catch (e) {
+            console.warn('sessionStorage.getItem fallback:', e);
+            return this._fallback[key] || null;
+        }
+    },
+    setItem(key, value) {
+        try {
+            sessionStorage.setItem(key, value);
+        } catch (e) {
+            console.warn('sessionStorage.setItem fallback:', e);
+            this._fallback[key] = String(value);
+        }
+    },
+    _fallback: {}
+};
+
 const state = {
     filters: new Set(),
     searchLocation: null, // {name, lat, lng, type, district}
@@ -24,7 +44,7 @@ const state = {
     expandedRadius: false,
     recommendedLimit: 30,
     othersLimit: 30,
-    detailViews: new Set(JSON.parse(sessionStorage.getItem('pwa_detail_views') || '[]'))
+    detailViews: new Set(JSON.parse(safeSession.getItem('pwa_detail_views') || '[]'))
 };
 
 // Global Detail Viewer (must be global for onclick)
@@ -2272,7 +2292,7 @@ function showDetail(restaurant) {
         // Track unique detail views for PWA install trigger
         if (restaurant.place_id && state.detailViews) {
             state.detailViews.add(restaurant.place_id);
-            sessionStorage.setItem('pwa_detail_views', JSON.stringify(Array.from(state.detailViews)));
+            safeSession.setItem('pwa_detail_views', JSON.stringify(Array.from(state.detailViews)));
             if (typeof checkPwaInstallTrigger === 'function') {
                 checkPwaInstallTrigger();
             }
@@ -2796,8 +2816,8 @@ function syncStateFromUrl(isInitialLoad = false, animate = false) {
             // 使用 sessionStorage 來記錄此連線階段是否已自動開啟過此分享的抽屜
             if (isInitialLoad) {
                 const sessionKey = 'shortlist_auto_opened_' + favsParam;
-                if (!sessionStorage.getItem(sessionKey)) {
-                    sessionStorage.setItem(sessionKey, 'true');
+                if (!safeSession.getItem(sessionKey)) {
+                    safeSession.setItem(sessionKey, 'true');
                     
                     // 自動開啟口袋名單抽屜，讓使用者立即看到分享的項目
                     const openDrawer = () => {
@@ -3817,10 +3837,10 @@ async function submitAiFeedback(isHelpful, checkedIssues, comment, email, restau
 
 // PWA Installation Prompt Logic
 let deferredPrompt = null;
-if (!sessionStorage.getItem('pwa_session_start_time')) {
-    sessionStorage.setItem('pwa_session_start_time', Date.now().toString());
+if (!safeSession.getItem('pwa_session_start_time')) {
+    safeSession.setItem('pwa_session_start_time', Date.now().toString());
 }
-let pwaSessionStartTime = parseInt(sessionStorage.getItem('pwa_session_start_time'), 10);
+let pwaSessionStartTime = parseInt(safeSession.getItem('pwa_session_start_time'), 10);
 
 function setupPwaInstallPrompt() {
     // 1. Register Service Worker
@@ -3833,8 +3853,8 @@ function setupPwaInstallPrompt() {
     }
 
     // 2. Track unique visits across sessions (using sessionStorage to guard new sessions)
-    if (!sessionStorage.getItem('pwa_session_active')) {
-        sessionStorage.setItem('pwa_session_active', 'true');
+    if (!safeSession.getItem('pwa_session_active')) {
+        safeSession.setItem('pwa_session_active', 'true');
         let visitCount = parseInt(localStorage.getItem('pwa_visit_count') || '0', 10);
         visitCount += 1;
         localStorage.setItem('pwa_visit_count', visitCount.toString());
