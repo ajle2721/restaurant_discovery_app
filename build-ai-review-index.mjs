@@ -92,12 +92,6 @@ function buildRecord(placeId) {
   const name = cleanRestaurantName(rawName);
   const formattedAddress = response.formattedAddress || "";
   const googleMapsUrl = buildGoogleMapsUrl(name, placeId);
-  const signals = Array.isArray(aiReview.generated_signals)
-    ? aiReview.generated_signals
-    : aiReview.generated_signals
-      ? [aiReview.generated_signals]
-      : [];
-
   const priceLevel = response.priceLevel || null;
   
   // Extract cuisine from types
@@ -136,25 +130,23 @@ function buildRecord(placeId) {
     }
   }
 
-  return {
-    place_id: placeId,
+  return [
+    placeId,
     name,
-    address: formattedAddress,
-    formatted_address: formattedAddress,
-    district: extractDistrict(formattedAddress),
-    rating: String(response.rating ?? ""),
-    user_ratings_total: response.userRatingCount ?? 0,
-    price_level: priceLevel,
-    cuisine: cuisine,
-    latitude: response.location?.latitude ?? null,
-    longitude: response.location?.longitude ?? null,
-    url: googleMapsUrl,
-    google_maps_url: googleMapsUrl,
-    attributes: getAiAttributes(aiReview),
-    ai_summary: aiReview.generated_summary || "",
-    card_summary: aiReview.card_summary || "",
-    parent_friendly_level: aiReview.parent_friendly_level || "資訊不足",
-  };
+    formattedAddress,
+    extractDistrict(formattedAddress),
+    String(response.rating ?? ""),
+    response.userRatingCount ?? 0,
+    priceLevel,
+    cuisine,
+    response.location?.latitude ?? null,
+    response.location?.longitude ?? null,
+    googleMapsUrl,
+    getAiAttributes(aiReview),
+    aiReview.generated_summary || "",
+    aiReview.card_summary || "",
+    aiReview.parent_friendly_level || "資訊不足",
+  ];
 }
 
 function main() {
@@ -176,7 +168,25 @@ function main() {
     records.push(buildRecord(placeId));
   }
 
-  const content = `const restaurantData = ${JSON.stringify(records, null, 2)};\n`;
+  const columns = [
+    "place_id",
+    "name",
+    "address",
+    "district",
+    "rating",
+    "user_ratings_total",
+    "price_level",
+    "cuisine",
+    "latitude",
+    "longitude",
+    "url",
+    "attributes",
+    "ai_summary",
+    "card_summary",
+    "parent_friendly_level"
+  ];
+
+  const content = `const columns = ${JSON.stringify(columns)};\n\nconst rows = ${JSON.stringify(records)};\n\nconst restaurantData = [];\nfor (let i = 0; i < rows.length; i++) {\n  Object.defineProperty(restaurantData, i, {\n    get() {\n      const row = rows[i];\n      const obj = {};\n      columns.forEach((col, k) => {\n        obj[col] = row[k];\n      });\n      obj.formatted_address = obj.address;\n      obj.google_maps_url = obj.url;\n      Object.defineProperty(restaurantData, i, {\n        value: obj,\n        writable: true,\n        configurable: true,\n        enumerable: true\n      });\n      return obj;\n    },\n    configurable: true,\n    enumerable: true\n  });\n}\n`;
   fs.writeFileSync(outputPath, content, "utf8");
 
   console.log(`Built ${outputPath} with ${records.length} restaurants.`);

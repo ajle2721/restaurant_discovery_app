@@ -371,15 +371,7 @@ function init() {
         if (typeof restaurantData === 'undefined') {
             console.error('restaurantData is not loaded. Make sure ai_review/index.js is included.');
         } else {
-            // Patch AI summaries in memory to resolve contradictions between official tags and review mentions
-            restaurantData.forEach(res => {
-                if (res.ai_summary) {
-                    res.ai_summary = patchAiSummary(res, res.ai_summary);
-                }
-                if (res.card_summary) {
-                    res.card_summary = patchAiSummary(res, res.card_summary);
-                }
-            });
+            console.log('restaurantData loaded successfully, count:', restaurantData.length);
         }
 
         initMap();
@@ -1885,6 +1877,15 @@ function getDynamicStatus(res, selectedFilters) {
 }
 
 function renderCard(res, container, overrideLevel) {
+    if (res.ai_summary && !res._ai_summary_patched) {
+        res.ai_summary = patchAiSummary(res, res.ai_summary);
+        res._ai_summary_patched = true;
+    }
+    if (res.card_summary && !res._card_summary_patched) {
+        res.card_summary = patchAiSummary(res, res.card_summary);
+        res._card_summary_patched = true;
+    }
+
     const card = document.createElement('div');
     card.className = 'restaurant-card';
     card.id = `card-${res.place_id}`;
@@ -2031,6 +2032,15 @@ function focusOnMap(e, placeId) {
 window.focusRestaurantOnMap = focusOnMap; // For backward compatibility if any
 
 function renderDetailContent(restaurant) {
+    if (restaurant.ai_summary && !restaurant._ai_summary_patched) {
+        restaurant.ai_summary = patchAiSummary(restaurant, restaurant.ai_summary);
+        restaurant._ai_summary_patched = true;
+    }
+    if (restaurant.card_summary && !restaurant._card_summary_patched) {
+        restaurant.card_summary = patchAiSummary(restaurant, restaurant.card_summary);
+        restaurant._card_summary_patched = true;
+    }
+
     let tagsHtml = '';
     const attributes = restaurant.attributes || {};
     const orderedKeys = ['has_tableware', 'high_chair_available', 'has_diaper_table', 'kids_menu', 'kid_noise_tolerant', 'spacious_seating', 'has_play_area', 'has_private_room'];
@@ -3420,6 +3430,14 @@ function renderShortlistDrawer() {
         .map(id => {
             const res = restaurantData.find(r => r.place_id === id);
             if (!res) return null;
+            if (res.ai_summary && !res._ai_summary_patched) {
+                res.ai_summary = patchAiSummary(res, res.ai_summary);
+                res._ai_summary_patched = true;
+            }
+            if (res.card_summary && !res._card_summary_patched) {
+                res.card_summary = patchAiSummary(res, res.card_summary);
+                res._card_summary_patched = true;
+            }
             const copy = { ...res };
             if (state.searchLocation && copy.latitude && copy.longitude) {
                 copy.distance = calculateDistance(state.searchLocation.lat, state.searchLocation.lng, copy.latitude, copy.longitude);
