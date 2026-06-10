@@ -1533,11 +1533,11 @@ async function renderResults() {
             return;
         }
 
-        // 1. Calculate distances
-        let restaurants = restaurantData.map(res => ({
-            ...res,
-            distance: calculateDistance(center.lat, center.lng, res.latitude, res.longitude)
-        }));
+        // 1. Calculate distances directly on references to avoid object copying
+        restaurantData.forEach(res => {
+            res.distance = calculateDistance(center.lat, center.lng, res.latitude, res.longitude);
+        });
+        let restaurants = restaurantData;
 
         // 2. Filter by distance or keyword
         let filtered;
@@ -1566,11 +1566,13 @@ async function renderResults() {
         resultsContainer.classList.remove('hidden');
         homeView.classList.add('search-active');
 
-        // Apply new dynamic status to each restaurant for sorting/rendering
-        const processed = filtered.map(res => {
+        // Apply new dynamic status to each restaurant for sorting/rendering directly on references
+        filtered.forEach(res => {
             const status = getDynamicStatus(res, state.filters);
-            return { ...res, dynamicLevel: status.level, dynamicStatus: status };
+            res.dynamicLevel = status.level;
+            res.dynamicStatus = status;
         });
+        const processed = filtered;
 
         // Priority for sorting
         const priority = {
@@ -3914,7 +3916,7 @@ function setupPwaInstallPrompt() {
                     browserText.innerHTML = steps([
                         '點擊右上角的分享圖示 ↑（網址列右側）',
                         '在選單中選擇「<strong>加入主畫面</strong>」➕',
-                        '點擊右上角「新增」即完成！',
+                        '點擊右上角「加入」即完成！',
                     ]);
                     showGuideline(browserGuideline, '依照下方步驟，用 Chrome 加入主畫面：');
                 }
@@ -3938,7 +3940,7 @@ function setupPwaInstallPrompt() {
                         browserText.innerHTML =
                             '<div style="margin-bottom:8px;">此頁在 App 內開啟，無法直接安裝。</div>' +
                             steps([
-                                '點擊瀏覽器內的 <strong>⋯</strong> 選單或分享按鈕',
+                                '點擊瀏覽器的分享 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="16" height="16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="vertical-align: middle; display: inline; margin: 0 2px;"><path d="M4 12v8a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-8"/><polyline points="16 6 12 2 8 6"/><line x1="12" y1="2" x2="12" y2="15"/></svg> 按鈕',
                                 '選擇「<strong>在 Safari 中開啟</strong>」或「<strong>用瀏覽器開啟</strong>」',
                                 '網頁在 Safari 開啟後，提示將自動再次出現 🎉',
                             ]);
