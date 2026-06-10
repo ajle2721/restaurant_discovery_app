@@ -1,0 +1,131 @@
+{
+  "id": "ChIJZb9VDgCpQjQRhaY_ZUUnN9w",
+  "types": [
+    "restaurant",
+    "japanese_restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2396 3378",
+  "formattedAddress": "100台灣臺北市中正區龍福里南昌路一段59巷22號",
+  "location": {
+    "latitude": 25.0317623,
+    "longitude": 121.5182525
+  },
+  "rating": 4.8,
+  "userRatingCount": 793,
+  "displayName": {
+    "text": "日日築食",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJZb9VDgCpQjQRhaY_ZUUnN9w/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSUFZHZFhTMnR0WjBOMmJHTkdSVkJFUVhOWGNuYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點 超好吃😋 會介紹、親朋友 好友來這用餐\n環境很舒服😌\n老婆 小孩吃了一直稱讚👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點 超好吃😋 會介紹、親朋友 好友來這用餐\n環境很舒服😌\n老婆 小孩吃了一直稱讚👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "羅紹華",
+        "uri": "https://www.google.com/maps/contrib/108036072953008963355/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIDYNpF5fkrjNbf3p5MZ72uZVWcvoqSStdyZxcmWuGAByUlwg=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-03-01T06:49:17.907112748Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSUFZHZFhTMnR0WjBOMmJHTkdSVkJFUVhOWGNuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSUFZHZFhTMnR0WjBOMmJHTkdSVkJFUVhOWGNuYxAB!2m1!1s0x3442a9000e55bf65:0xdc372745653fa685"
+    },
+    {
+      "name": "places/ChIJZb9VDgCpQjQRhaY_ZUUnN9w/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oeFNXdERaR05zUVVzMVJYaEZRbHB3V21KbFkzYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "整體而言還不錯。\n但店內附的水不要喝有種不太乾淨的味道。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "整體而言還不錯。\n但店內附的水不要喝有種不太乾淨的味道。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "M. Chen",
+        "uri": "https://www.google.com/maps/contrib/100740507503802974077/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3QEJ_1zpFH_MntC3aLJI3R9huE_99jRBI4CD9PMXV-gv6QI_h=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-03-06T13:25:23.464487544Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oeFNXdERaR05zUVVzMVJYaEZRbHB3V21KbFkzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oeFNXdERaR05zUVVzMVJYaEZRbHB3V21KbFkzYxAB!2m1!1s0x3442a9000e55bf65:0xdc372745653fa685"
+    },
+    {
+      "name": "places/ChIJZb9VDgCpQjQRhaY_ZUUnN9w/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paYU1YVnBUbXRKVkZaS1VscE1TV0Z0VjJabU9HYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "中午時間經過都是客滿\n今天⋯\n選了個離峰時間約15:00\n只有我一個人ㄟ～不錯不錯\n上餐速度快\n我點特盛豬排定食\n豬排裹粉較厚粉質粗會刮上顎\n必須慢慢咀嚼\n白飯有股味隔夜飯的口感不佳\n定食附兩樣小菜（海帶絲和泡菜）\n應該吃過一次即可",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "中午時間經過都是客滿\n今天⋯\n選了個離峰時間約15:00\n只有我一個人ㄟ～不錯不錯\n上餐速度快\n我點特盛豬排定食\n豬排裹粉較厚粉質粗會刮上顎\n必須慢慢咀嚼\n白飯有股味隔夜飯的口感不佳\n定食附兩樣小菜（海帶絲和泡菜）\n應該吃過一次即可",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "宮保雞丁",
+        "uri": "https://www.google.com/maps/contrib/101087109349007317044/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUokujc2op449V-PCR4yiyTxIMu7XNhcKnlz0rThTeUs7gCjCIf=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-25T03:47:26.769727995Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paYU1YVnBUbXRKVkZaS1VscE1TV0Z0VjJabU9HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paYU1YVnBUbXRKVkZaS1VscE1TV0Z0VjJabU9HYxAB!2m1!1s0x3442a9000e55bf65:0xdc372745653fa685"
+    },
+    {
+      "name": "places/ChIJZb9VDgCpQjQRhaY_ZUUnN9w/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GclNFb3lWMGs0TlRWd01IVm1ha2szVUMxVWVuYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "偶然機會來吃這家店，點松阪豬跟魚㓊飯，非常的普，粉裹太厚，豬肉片又有點無味，吃過就好",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "偶然機會來吃這家店，點松阪豬跟魚㓊飯，非常的普，粉裹太厚，豬肉片又有點無味，吃過就好",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "我自己",
+        "uri": "https://www.google.com/maps/contrib/111694870550747273820/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocICfVUW8s1wyW08c12JAazr0GvwECzI9nRdzvgVR9h7YQFWFQ=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-01-27T13:24:40.522463088Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GclNFb3lWMGs0TlRWd01IVm1ha2szVUMxVWVuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GclNFb3lWMGs0TlRWd01IVm1ha2szVUMxVWVuYxAB!2m1!1s0x3442a9000e55bf65:0xdc372745653fa685"
+    },
+    {
+      "name": "places/ChIJZb9VDgCpQjQRhaY_ZUUnN9w/reviews/Ci9DQUlRQUNvZENodHljRjlvT210cGRHd3dSRWxLYXpOVk5qSXlkMnhOUmtoWVZYYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "好吃、餐點速度也不錯，以後會常來吃🤩",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "好吃、餐點速度也不錯，以後會常來吃🤩",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jamie陳儀潔",
+        "uri": "https://www.google.com/maps/contrib/111768311388572179468/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVHh3oB4nPNL_Nnf2W0okyz5wqlKIna6iGqmT4uTd71CnsjXThG=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-25T04:53:31.560862117Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210cGRHd3dSRWxLYXpOVk5qSXlkMnhOUmtoWVZYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210cGRHd3dSRWxLYXpOVk5qSXlkMnhOUmtoWVZYYxAB!2m1!1s0x3442a9000e55bf65:0xdc372745653fa685"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

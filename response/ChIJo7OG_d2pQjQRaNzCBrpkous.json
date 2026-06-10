@@ -1,0 +1,135 @@
+{
+  "id": "ChIJo7OG_d2pQjQRaNzCBrpkous",
+  "types": [
+    "taiwanese_restaurant",
+    "chinese_restaurant",
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2331 7655",
+  "formattedAddress": "108台灣臺北市萬華區西門里昆明街130號",
+  "location": {
+    "latitude": 25.0433013,
+    "longitude": 121.50479469999999
+  },
+  "rating": 4.1,
+  "websiteUri": "https://www.facebook.com/ganmeialley/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 3968,
+  "displayName": {
+    "text": "甘妹弄堂 - 西門店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJo7OG_d2pQjQRaNzCBrpkous/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ObVNXUjBWa2gwY1hSek1qWnZjSFV5ZUVjM2NuYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 1,
+      "text": {
+        "text": "超級不行的一家店，首先茶杯餐盤部分不乾淨可以所見清洗很隨便，再來餐點超級油還很不好吃，可以吃很重口味的我都直搖頭，鐵板煎餃和客家板條都非常不好吃，唯一還行的就是羊肉捲餅，重點是餐點上餐慢還不便宜，幾乎沒服務要收服務費。\n\n泡麵推薦指數：2/10",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "超級不行的一家店，首先茶杯餐盤部分不乾淨可以所見清洗很隨便，再來餐點超級油還很不好吃，可以吃很重口味的我都直搖頭，鐵板煎餃和客家板條都非常不好吃，唯一還行的就是羊肉捲餅，重點是餐點上餐慢還不便宜，幾乎沒服務要收服務費。\n\n泡麵推薦指數：2/10",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "愛旅遊的泡麵",
+        "uri": "https://www.google.com/maps/contrib/114725464665456987413/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVXeAQEPL1CL2UfMgIR5Eq3C5y7JYkgFi6_dZ3Fs4IV0F3vAdI=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-26T08:06:36.055107218Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25ObVNXUjBWa2gwY1hSek1qWnZjSFV5ZUVjM2NuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ObVNXUjBWa2gwY1hSek1qWnZjSFV5ZUVjM2NuYxAB!2m1!1s0x3442a9ddfd86b3a3:0xeba264ba06c2dc68"
+    },
+    {
+      "name": "places/ChIJo7OG_d2pQjQRaNzCBrpkous/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paNGREbEZjVk5vZFRSTllucGxSbXRZVUhSV2MzYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "要先拿號碼牌，避開用餐時段比較不用等太久\n一樓有透明櫥窗看得到廚師都是現做\n要收10%服務費\n服務員會幫我們倒茶，無糖烏龍茶很好喝\n其中：\n*我們這桌沒有放到衛生紙、也沒有小垃圾桶\n*看到隔壁桌點麻糬冰，餐點還沒吃完就直接送冰品，覺得店家沒這麼貼心\n\n金沙小炒蛋炒飯 $190\n看起來很樸素的樣子\n聞起來真的有鹹蛋黃香氣\n吃起來粒粒分明，沙沙的也不會太油\n小卷QQ的不會硬，好吃有水準👍🏻\n\n招牌韮黃鐵板湯包 $180\n外皮酥脆但偏油，澱粉水煎成冰花皮的感覺\n小籠包皮薄、內裡多汁，湯汁很鮮\n韭黃味不會很重（只是配角的感覺）\n亮點不是皮反而是湯汁，若改善外皮太油的問題會很棒\n\n他們家飲料都很大杯！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "要先拿號碼牌，避開用餐時段比較不用等太久\n一樓有透明櫥窗看得到廚師都是現做\n要收10%服務費\n服務員會幫我們倒茶，無糖烏龍茶很好喝\n其中：\n*我們這桌沒有放到衛生紙、也沒有小垃圾桶\n*看到隔壁桌點麻糬冰，餐點還沒吃完就直接送冰品，覺得店家沒這麼貼心\n\n金沙小炒蛋炒飯 $190\n看起來很樸素的樣子\n聞起來真的有鹹蛋黃香氣\n吃起來粒粒分明，沙沙的也不會太油\n小卷QQ的不會硬，好吃有水準👍🏻\n\n招牌韮黃鐵板湯包 $180\n外皮酥脆但偏油，澱粉水煎成冰花皮的感覺\n小籠包皮薄、內裡多汁，湯汁很鮮\n韭黃味不會很重（只是配角的感覺）\n亮點不是皮反而是湯汁，若改善外皮太油的問題會很棒\n\n他們家飲料都很大杯！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "shara",
+        "uri": "https://www.google.com/maps/contrib/118255003548437991834/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXzGtM1GwO515TR5_9o0c8Iy7ehXaP54HA_ko1YMzpFqXY2X3aOlA=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-01-06T09:09:30.621351848Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paNGREbEZjVk5vZFRSTllucGxSbXRZVUhSV2MzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paNGREbEZjVk5vZFRSTllucGxSbXRZVUhSV2MzYxAB!2m1!1s0x3442a9ddfd86b3a3:0xeba264ba06c2dc68"
+    },
+    {
+      "name": "places/ChIJo7OG_d2pQjQRaNzCBrpkous/reviews/Ci9DQUlRQUNvZENodHljRjlvT2swelVrWnBZMFZhVlRkUmFVTjBVWE5mWm5vNGVGRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 2,
+      "text": {
+        "text": "在google 上有看到這家小籠包是用煎的嚐鮮看看，只點了蔥蛋和招牌煎包，入座一陣子只給了茶杯（我們是兩位一起用餐一位去洗手間）給了茶杯只倒了一杯的茶？不知道是不是因為等另一位坐下才倒茶。\n煎包小籠包餐點現做的我知道，但是等了一陣子之後上餐的煎包是溫溫的，不知道是不是忘記了，我也才點了兩樣菜🤦🏻‍♀️當時在二樓用餐後面的客人也是在我們之後才上來的，門口用餐的也不用等可以直接入座，不知道到底是不忘記，原本要點小籠包，因為招牌煎包才點的，沒想到上來是這樣子，下次完全不想再來用餐🤷🏻‍♀️ 覺得口感就是水煎包",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在google 上有看到這家小籠包是用煎的嚐鮮看看，只點了蔥蛋和招牌煎包，入座一陣子只給了茶杯（我們是兩位一起用餐一位去洗手間）給了茶杯只倒了一杯的茶？不知道是不是因為等另一位坐下才倒茶。\n煎包小籠包餐點現做的我知道，但是等了一陣子之後上餐的煎包是溫溫的，不知道是不是忘記了，我也才點了兩樣菜🤦🏻‍♀️當時在二樓用餐後面的客人也是在我們之後才上來的，門口用餐的也不用等可以直接入座，不知道到底是不忘記，原本要點小籠包，因為招牌煎包才點的，沒想到上來是這樣子，下次完全不想再來用餐🤷🏻‍♀️ 覺得口感就是水煎包",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "RAINz",
+        "uri": "https://www.google.com/maps/contrib/105117566163068094416/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVn2SmKaoedRXZv3d1rxGbVlVa3NheJsq3ZiX9RyFXMZcL-92Q=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-13T08:18:54.465716768Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2swelVrWnBZMFZhVlRkUmFVTjBVWE5mWm5vNGVGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2swelVrWnBZMFZhVlRkUmFVTjBVWE5mWm5vNGVGRRAB!2m1!1s0x3442a9ddfd86b3a3:0xeba264ba06c2dc68"
+    },
+    {
+      "name": "places/ChIJo7OG_d2pQjQRaNzCBrpkous/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCUWNHcEdTMng1VjBSQ2VVZFdiSFp6WldoTWFuYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 3,
+      "text": {
+        "text": "等候很久....從領班手勢看是「四號兩位」結果帶位出來直接喊「五號兩位」.....硬生生就這樣被插隊了～蠻好笑的....鐵板煎餃上桌時已經冷了...摺皺部分有點發硬！高麗菜炒出來沒有腐乳的味道...沒甜味...感覺一口下去是油耗味跟蔥味....\n桔子豆腐很有特色！建議直接淋上豆腐上！放旁邊感覺失去特色！\n剝皮辣椒烘蛋是把剝皮辣椒切絲～建議切碎！味道會比較分散！也不會再煮的時候都黏一起...\n紅豆牛乳...........完全沒紅豆味跟牛乳味.....喝了一個不知所謂....\n湯包很不錯！贏過不少早餐店！\n起司香菜蛋捲、孜然羊肉卷餅很好吃！如果再熱一點就好！所有菜上來都有點冷....湯包剛上溫度都可以一口吞.....",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "等候很久....從領班手勢看是「四號兩位」結果帶位出來直接喊「五號兩位」.....硬生生就這樣被插隊了～蠻好笑的....鐵板煎餃上桌時已經冷了...摺皺部分有點發硬！高麗菜炒出來沒有腐乳的味道...沒甜味...感覺一口下去是油耗味跟蔥味....\n桔子豆腐很有特色！建議直接淋上豆腐上！放旁邊感覺失去特色！\n剝皮辣椒烘蛋是把剝皮辣椒切絲～建議切碎！味道會比較分散！也不會再煮的時候都黏一起...\n紅豆牛乳...........完全沒紅豆味跟牛乳味.....喝了一個不知所謂....\n湯包很不錯！贏過不少早餐店！\n起司香菜蛋捲、孜然羊肉卷餅很好吃！如果再熱一點就好！所有菜上來都有點冷....湯包剛上溫度都可以一口吞.....",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "皓呆",
+        "uri": "https://www.google.com/maps/contrib/110659955896174856579/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUImlTFNJFGYEjEcx-mEikEpeWn3PhK0EUVPuiJ8EqNTuYuVY0=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-23T12:22:13.199935247Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCUWNHcEdTMng1VjBSQ2VVZFdiSFp6WldoTWFuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCUWNHcEdTMng1VjBSQ2VVZFdiSFp6WldoTWFuYxAB!2m1!1s0x3442a9ddfd86b3a3:0xeba264ba06c2dc68"
+    },
+    {
+      "name": "places/ChIJo7OG_d2pQjQRaNzCBrpkous/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poWFJHRXlXRlpTTFdocVMzUk1NbGxHVEVSM1JtYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 1,
+      "text": {
+        "text": "本身係見 Google Maps 有人話「朋友介紹」先入去試，諗住起碼穩陣。點知一坐低就開始覺得唔對路：環境係幾討好，綠色門框、牆身一格格彩色窗框幾有台式復古感，坐位亦算舒服，不過佢盞吊燈放得很低，每次我行出行入都差點頂到這盞燈，特別我女朋友身高只有160 cm都會撞到，但由落單到出餐、到味道，基本上係一路失望落去。\n\n我哋叫咗：鐵板湯包（8隻）、蒜頭雞湯麵、同埋一碗麻油雞湯。\n先講兩款湯／湯麵：份量偏細，而且個「雞湯底」明顯唔係靠熬出嚟嗰種香——入口係淡、薄、冇層次；你話清湯都可以好飲，但呢款係「連雞味都唔太有」。雞件亦似雪藏貨，肉質同味道都唔突出。蒜頭雞湯麵反而因為蒜味頂住，先至「有啲味道」，但都係靠調味救場，唔係靠湯底本身。\n\n最離譜係服務：間店幾乎係「零服務」，但佢照收 +1 服務費。台灣餐廳收服務費本身唔算常見，收都唔係問題，問題係你真係完全感受唔到有人跟單同跟餐。食完湯麵同湯之後，等咗差唔多 15 分鐘都未上湯包，我走去問職員，對方停一停、反應好慢，好似聽唔明咁；後來先知職員多數係越南籍，可能普通話溝通都有難度——但作為餐廳，你收得服務費，就要有基本溝通同出餐管理。\n\n最後等到差唔多 30 分鐘先有湯包上枱。味道其實都係一般街邊小食水平，唔算特別；而且擺盤真係隨便：底部嗰塊大脆皮居然反轉鋪咗喺湯包面，望落去完全冇心機處理。\n\n總結：如果你係為咗打卡裝修，可能都仲OK；但如果你期待「湯底、雞味、同基本服務」——呢間我會直接勸退。下次見到一堆好評，真係建議先翻兩頁睇下差評，因為我呢次嘅遭遇同啲差評描述幾乎一樣。\n\n推薦度：★☆☆☆☆（一分都不想比，唔會回訪）\n\n#甘妹弄堂 #西門町美食 #台北美食 #湯包 #鐵板湯包 #生煎包 #雞湯麵 #麻油雞 #食評 #台灣美食 #香港美食家 #HKTaster",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "本身係見 Google Maps 有人話「朋友介紹」先入去試，諗住起碼穩陣。點知一坐低就開始覺得唔對路：環境係幾討好，綠色門框、牆身一格格彩色窗框幾有台式復古感，坐位亦算舒服，不過佢盞吊燈放得很低，每次我行出行入都差點頂到這盞燈，特別我女朋友身高只有160 cm都會撞到，但由落單到出餐、到味道，基本上係一路失望落去。\n\n我哋叫咗：鐵板湯包（8隻）、蒜頭雞湯麵、同埋一碗麻油雞湯。\n先講兩款湯／湯麵：份量偏細，而且個「雞湯底」明顯唔係靠熬出嚟嗰種香——入口係淡、薄、冇層次；你話清湯都可以好飲，但呢款係「連雞味都唔太有」。雞件亦似雪藏貨，肉質同味道都唔突出。蒜頭雞湯麵反而因為蒜味頂住，先至「有啲味道」，但都係靠調味救場，唔係靠湯底本身。\n\n最離譜係服務：間店幾乎係「零服務」，但佢照收 +1 服務費。台灣餐廳收服務費本身唔算常見，收都唔係問題，問題係你真係完全感受唔到有人跟單同跟餐。食完湯麵同湯之後，等咗差唔多 15 分鐘都未上湯包，我走去問職員，對方停一停、反應好慢，好似聽唔明咁；後來先知職員多數係越南籍，可能普通話溝通都有難度——但作為餐廳，你收得服務費，就要有基本溝通同出餐管理。\n\n最後等到差唔多 30 分鐘先有湯包上枱。味道其實都係一般街邊小食水平，唔算特別；而且擺盤真係隨便：底部嗰塊大脆皮居然反轉鋪咗喺湯包面，望落去完全冇心機處理。\n\n總結：如果你係為咗打卡裝修，可能都仲OK；但如果你期待「湯底、雞味、同基本服務」——呢間我會直接勸退。下次見到一堆好評，真係建議先翻兩頁睇下差評，因為我呢次嘅遭遇同啲差評描述幾乎一樣。\n\n推薦度：★☆☆☆☆（一分都不想比，唔會回訪）\n\n#甘妹弄堂 #西門町美食 #台北美食 #湯包 #鐵板湯包 #生煎包 #雞湯麵 #麻油雞 #食評 #台灣美食 #香港美食家 #HKTaster",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Peter Ng",
+        "uri": "https://www.google.com/maps/contrib/116759374747378834868/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKpXQDHXQV_ZK-eWU2yKX9dHhzVFaSbvvL3sJrcWeBgJ3wp1w=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-28T14:32:02.511010378Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poWFJHRXlXRlpTTFdocVMzUk1NbGxHVEVSM1JtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poWFJHRXlXRlpTTFdocVMzUk1NbGxHVEVSM1JtYxAB!2m1!1s0x3442a9ddfd86b3a3:0xeba264ba06c2dc68"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

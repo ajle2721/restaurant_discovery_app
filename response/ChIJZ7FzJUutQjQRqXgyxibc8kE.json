@@ -1,0 +1,131 @@
+{
+  "id": "ChIJZ7FzJUutQjQRqXgyxibc8kE",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 8509 3748",
+  "formattedAddress": "104台灣臺北市中山區永安里北安路458巷41弄38號",
+  "location": {
+    "latitude": 25.078695999999997,
+    "longitude": 121.54604829999998
+  },
+  "rating": 4.5,
+  "websiteUri": "https://lanetoast.com/",
+  "userRatingCount": 567,
+  "displayName": {
+    "text": "『北安店』巷弄吐司/滿千外送1公里99元/早午餐推薦 中山早午餐 大直早午餐 漢堡 蛋餅 法式吐司 寵物友善",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJZ7FzJUutQjQRqXgyxibc8kE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tvMFFVMVBPVkV0TFU4MFdFdGhOekF6VFhkbFRVRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "和家人吃了很多年的老店，吐司鬆軟好吃，餐點選擇種類多，早餐或中午來吃都很不錯，店內有wifi ，是這個附近會一直來，友善舒適的早餐店。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "和家人吃了很多年的老店，吐司鬆軟好吃，餐點選擇種類多，早餐或中午來吃都很不錯，店內有wifi ，是這個附近會一直來，友善舒適的早餐店。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "PX Z",
+        "uri": "https://www.google.com/maps/contrib/111322784715701595203/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJrCE3uz3ixV9PL5D-FnSUrQGVwFfwxYx-teg14PEh4f9xkUp0=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-03-03T03:35:15.356561699Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tvMFFVMVBPVkV0TFU4MFdFdGhOekF6VFhkbFRVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tvMFFVMVBPVkV0TFU4MFdFdGhOekF6VFhkbFRVRRAB!2m1!1s0x3442ad4b2573b167:0x41f2dc26c63278a9"
+    },
+    {
+      "name": "places/ChIJZ7FzJUutQjQRqXgyxibc8kE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tac1NVZEdhVUZYZW5KaFp6ZEpSbnB2TjFOS2VYYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 1,
+      "text": {
+        "text": "2025/10/12外帶的火腿蛋餅，吃了一塊之後才發現裡面好多都夾著頭髮……翻來翻去總共這麼多，不知道是怎樣可以參雜這麼多頭髮。\n\n2025/10/14補充回覆，我每夾一塊看也是很納悶為何可以都夾著頭髮在蛋餅夾層內，當日邊挑頭髮有邊即時使用LINE系統回覆，但想說應該是不會有回應的系統，選擇外帶也是沒有空再多跑一趟，只是想在此通知拿到的蛋餅是真的滿誇張的狀態，但同一個訂單另一份原味蛋餅是沒有任何頭髮的。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2025/10/12外帶的火腿蛋餅，吃了一塊之後才發現裡面好多都夾著頭髮……翻來翻去總共這麼多，不知道是怎樣可以參雜這麼多頭髮。\n\n2025/10/14補充回覆，我每夾一塊看也是很納悶為何可以都夾著頭髮在蛋餅夾層內，當日邊挑頭髮有邊即時使用LINE系統回覆，但想說應該是不會有回應的系統，選擇外帶也是沒有空再多跑一趟，只是想在此通知拿到的蛋餅是真的滿誇張的狀態，但同一個訂單另一份原味蛋餅是沒有任何頭髮的。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jessie Kuang",
+        "uri": "https://www.google.com/maps/contrib/100084158669723651530/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXeWQ05HEmw4iGPIycrgrRQU1jf47gmWFv1XxXafwnvtj1LdLbe5Q=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-14T07:32:57.877195138Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tac1NVZEdhVUZYZW5KaFp6ZEpSbnB2TjFOS2VYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tac1NVZEdhVUZYZW5KaFp6ZEpSbnB2TjFOS2VYYxAB!2m1!1s0x3442ad4b2573b167:0x41f2dc26c63278a9"
+    },
+    {
+      "name": "places/ChIJZ7FzJUutQjQRqXgyxibc8kE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkb1VHNDBOVk41UkVKV1FtdHFSM2QxUmxkb2EzYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 2,
+      "text": {
+        "text": "本來還蠻喜歡的一家早餐店，雖然內用油煙味重不喜歡，好在我也都外帶到公司吃，但不知從何時開始，是煎檯換人了是嗎？熟了沒有無法判斷是否，一定要把好好地蛋餅煎到蛋的那面都是咖啡色，又乾又有焦味嗎？還是滑手機滑到忘記翻面🤦🤦🤦",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "本來還蠻喜歡的一家早餐店，雖然內用油煙味重不喜歡，好在我也都外帶到公司吃，但不知從何時開始，是煎檯換人了是嗎？熟了沒有無法判斷是否，一定要把好好地蛋餅煎到蛋的那面都是咖啡色，又乾又有焦味嗎？還是滑手機滑到忘記翻面🤦🤦🤦",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Cindy",
+        "uri": "https://www.google.com/maps/contrib/114152605718583376167/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUhNUWS84WpduyvY3sZD9s3U3AWYAdsZwdo_ynp71DJYV0DJOeUHg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-03T05:15:52.245725939Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkb1VHNDBOVk41UkVKV1FtdHFSM2QxUmxkb2EzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkb1VHNDBOVk41UkVKV1FtdHFSM2QxUmxkb2EzYxAB!2m1!1s0x3442ad4b2573b167:0x41f2dc26c63278a9"
+    },
+    {
+      "name": "places/ChIJZ7FzJUutQjQRqXgyxibc8kE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wSFlYZHhabGh2YjAwNWNuZHdOM3BMY0c5bWVXYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "店內舒適 在店裡我學到了站的越高風險越高 蹲的越低跳的越高 想吃好吃的土司 這家準沒錯！！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店內舒適 在店裡我學到了站的越高風險越高 蹲的越低跳的越高 想吃好吃的土司 這家準沒錯！！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "ang T",
+        "uri": "https://www.google.com/maps/contrib/108383784739834981518/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUswx2wGTI_1F2XahwfRSyCE_FaRkO3noWCfvYxkTPyKi9S1Uk=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-07T00:18:56.820755884Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wSFlYZHhabGh2YjAwNWNuZHdOM3BMY0c5bWVXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wSFlYZHhabGh2YjAwNWNuZHdOM3BMY0c5bWVXYxAB!2m1!1s0x3442ad4b2573b167:0x41f2dc26c63278a9"
+    },
+    {
+      "name": "places/ChIJZ7FzJUutQjQRqXgyxibc8kE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxaVNHWm1TVWxoU1doWWEwOWhUbkI2ZEZjd1FuYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "Logo很可愛😍\n黑胡椒鐵板麵 卡拉雞蛋餅都好好吃！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "Logo很可愛😍\n黑胡椒鐵板麵 卡拉雞蛋餅都好好吃！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ariel",
+        "uri": "https://www.google.com/maps/contrib/115649248430243121313/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUElf27STle-ifmD8hk-TQ3dQGnLsZ6DpuLk_l4w4oqZRHvYeGq=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-08-17T04:59:44.512722605Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxaVNHWm1TVWxoU1doWWEwOWhUbkI2ZEZjd1FuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxaVNHWm1TVWxoU1doWWEwOWhUbkI2ZEZjd1FuYxAB!2m1!1s0x3442ad4b2573b167:0x41f2dc26c63278a9"
+    }
+  ],
+  "goodForChildren": true
+}

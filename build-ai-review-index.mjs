@@ -48,20 +48,49 @@ function extractDistrict(address) {
   return taipeiDistricts.find((district) => address.includes(district)) || "";
 }
 
-function getAiAttributes(aiReview) {
+function getAiAttributes(aiReview, response) {
+  let high_chair = normalizeResult(
+    aiReview[" child_seat available"]?.result ||
+      aiReview["child_seat available"]?.result ||
+      aiReview["High chair available"]?.result
+  );
+  let tableware = normalizeResult(aiReview.has_tableware?.result);
+  let kids_menu_attr = normalizeResult(aiReview["Kids menu available"]?.result);
+  let diaper_table = normalizeResult(aiReview.has_diaper_table?.result);
+
+  if (response?.goodForChildren === true) {
+    high_chair = "yes";
+    tableware = "yes";
+  }
+
+  if (response?.menuForChildren === true) {
+    kids_menu_attr = "yes";
+  }
+
+  const addr = (response?.formattedAddress || "").toLowerCase();
+  const name = (response?.displayName?.text || "").toLowerCase();
+  const mallKeywords = [
+    "新光三越", "sogo", "遠東百貨", "遠百", "微風", "breeze", 
+    "統一時代", "京站", "qsquare", "美麗華", "誠品", "att 4 fun", 
+    "環球", "global mall", "大葉高島屋", "大葉髙島屋", "bellavita", 
+    "兒童新樂園", "101", "citylink", "明曜百貨", "忠泰樂生活", 
+    "台北車站", "南港車站", "松山車站", "科教館", "天文館", "動物園"
+  ];
+  
+  const inMallOrPark = mallKeywords.some(kw => addr.includes(kw) || name.includes(kw));
+  if (inMallOrPark) {
+    diaper_table = "yes";
+  }
+
   return {
-    high_chair_available: normalizeResult(
-      aiReview[" child_seat available"]?.result ||
-        aiReview["child_seat available"]?.result ||
-        aiReview["High chair available"]?.result,
-    ),
-    kids_menu: normalizeResult(aiReview["Kids menu available"]?.result),
+    high_chair_available: high_chair,
+    kids_menu: kids_menu_attr,
     spacious_seating: normalizeResult(aiReview["Spacious seating"]?.result),
     kid_noise_tolerant: normalizeResult(aiReview.kid_noise_tolerant?.result),
     has_play_area: normalizeResult(aiReview.has_play_area?.result),
     has_private_room: normalizeResult(aiReview.has_private_room?.result),
-    has_tableware: normalizeResult(aiReview.has_tableware?.result),
-    has_diaper_table: normalizeResult(aiReview.has_diaper_table?.result),
+    has_tableware: tableware,
+    has_diaper_table: diaper_table,
   };
 }
 
@@ -142,7 +171,7 @@ function buildRecord(placeId) {
     response.location?.latitude ?? null,
     response.location?.longitude ?? null,
     googleMapsUrl,
-    getAiAttributes(aiReview),
+    getAiAttributes(aiReview, response),
     aiReview.generated_summary || "",
     aiReview.card_summary || "",
     aiReview.parent_friendly_level || "資訊不足",

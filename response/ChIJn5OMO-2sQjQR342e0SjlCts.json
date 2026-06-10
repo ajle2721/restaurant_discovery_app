@@ -1,0 +1,141 @@
+{
+  "id": "ChIJn5OMO-2sQjQR342e0SjlCts",
+  "types": [
+    "american_restaurant",
+    "cocktail_bar",
+    "italian_restaurant",
+    "coffee_shop",
+    "cafe",
+    "pizza_restaurant",
+    "bar",
+    "food_store",
+    "store",
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2777 2992",
+  "formattedAddress": "106台灣臺北市大安區誠安里忠孝東路三段251巷12弄2號",
+  "location": {
+    "latitude": 25.043474999999997,
+    "longitude": 121.5415046
+  },
+  "rating": 4.6,
+  "websiteUri": "https://www.facebook.com/Pasttimes1996/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1196,
+  "displayName": {
+    "text": "珮斯坦咖啡館-美式懷舊餐廳Pasttimes Cafe",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJn5OMO-2sQjQR342e0SjlCts/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Fek9HMHpWMFJGU21Fek9YRjZSMnQwZUZoTU5YYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "非常舒服的一餐，餐點好吃，氣氛也很好，裝潢的感覺非常美式，老闆也非常親切會來關心跟打招呼！\n很推他們家的辣雞翅～小孩都愛吃，吃的光光！\n凱撒沙拉也很好吃～～～\n調酒也一定要嚐嚐！！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "非常舒服的一餐，餐點好吃，氣氛也很好，裝潢的感覺非常美式，老闆也非常親切會來關心跟打招呼！\n很推他們家的辣雞翅～小孩都愛吃，吃的光光！\n凱撒沙拉也很好吃～～～\n調酒也一定要嚐嚐！！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "rabitkou",
+        "uri": "https://www.google.com/maps/contrib/114082708201467326030/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXc6cw2-vyts5nl5l9NCTjNQ6ibUNncF4tfxJ1v6fxQiBtEHzQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-20T13:08:06.131404942Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Fek9HMHpWMFJGU21Fek9YRjZSMnQwZUZoTU5YYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Fek9HMHpWMFJGU21Fek9YRjZSMnQwZUZoTU5YYxAB!2m1!1s0x3442aced3b8c939f:0xdb0ae528d19e8ddf"
+    },
+    {
+      "name": "places/ChIJn5OMO-2sQjQR342e0SjlCts/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GNU5XTXpYM05zYVdoSmFqZGpUVmhSWnpkV2JFRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "搬家後場地比較小，但是餐點跟氣氛還是夠夠的～～\n超推奶昔！！還有濃湯！！主食今天吃燉飯～料超多～～米口感偏硬，不過搭配醬汁跟其他料就是剛剛好❤️❤️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "搬家後場地比較小，但是餐點跟氣氛還是夠夠的～～\n超推奶昔！！還有濃湯！！主食今天吃燉飯～料超多～～米口感偏硬，不過搭配醬汁跟其他料就是剛剛好❤️❤️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Cindy陳筱晴",
+        "uri": "https://www.google.com/maps/contrib/105349698771829196172/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVAtxn56Vbs3bn_ws6FPs0wRlWnJwmBmctP2wC5EtTn9oRASHE=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-04T10:49:18.577170518Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GNU5XTXpYM05zYVdoSmFqZGpUVmhSWnpkV2JFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GNU5XTXpYM05zYVdoSmFqZGpUVmhSWnpkV2JFRRAB!2m1!1s0x3442aced3b8c939f:0xdb0ae528d19e8ddf"
+    },
+    {
+      "name": "places/ChIJn5OMO-2sQjQR342e0SjlCts/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kweFNHMUtaRUZCVWt4UUxXaHlPSEJqUjJwUk1IYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "超級喜歡這家的店氣氛及美食，尤其奶昔真的是必點，完全沒有外面賣的那種死甜，完全可以喝的到水果的滋味，義大利麵跟燉飯都很好吃，部分可以調整辣度，墨魚燉飯裡有不少大蒜也有一點辣，不敢吃辣的可能要跟店員講一下如何調整，甜點也不錯，蘋果塔不是一般的蘋果塔，是由杏仁脆片做塔皮，上面是滿滿的燒烤棉花糖，有點太甜，但是味道很不錯，提拉米蘇的酒味稍重，但是相當濕潤好吃，是必定會在二訪三訪～的店！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "超級喜歡這家的店氣氛及美食，尤其奶昔真的是必點，完全沒有外面賣的那種死甜，完全可以喝的到水果的滋味，義大利麵跟燉飯都很好吃，部分可以調整辣度，墨魚燉飯裡有不少大蒜也有一點辣，不敢吃辣的可能要跟店員講一下如何調整，甜點也不錯，蘋果塔不是一般的蘋果塔，是由杏仁脆片做塔皮，上面是滿滿的燒烤棉花糖，有點太甜，但是味道很不錯，提拉米蘇的酒味稍重，但是相當濕潤好吃，是必定會在二訪三訪～的店！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "CHIH LEE",
+        "uri": "https://www.google.com/maps/contrib/105446787491088977516/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW1Ws8rA-MgxyFAsBKOq5QRQ6qjJYxv4p5PyLd5Ijv71oB4Apha=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-24T13:49:19.350139412Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kweFNHMUtaRUZCVWt4UUxXaHlPSEJqUjJwUk1IYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kweFNHMUtaRUZCVWt4UUxXaHlPSEJqUjJwUk1IYxAB!2m1!1s0x3442aced3b8c939f:0xdb0ae528d19e8ddf"
+    },
+    {
+      "name": "places/ChIJn5OMO-2sQjQR342e0SjlCts/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkT1dXTmxhR3RNYm1SME9GVkhVMHBWWDBjMVNYYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "今天中午跟大妹及小妹三人相約到PASTTIMES' CAFE 佩斯坦咖啡館小聚。 我們三小是家中九個小孩的最後三位，所以當老闆聽到我們是親密的三姊妹，又加上我和大妹是本月壽星，所以受到的特別的禮遇。 在飯後驚喜地送上兩盤插上蠟燭的冰淇淋蛋糕，讓我們受寵若驚，好感動。 所以一定要好好地寫下我今天的感受。 這是我第一次到這家咖啡廳，是大妹妹特別介紹的，咖啡店是她的鄰居，也是她愛好的喝咖啡及休憩之處。 一進咖啡廳，被老闆精心從美國搜集的許許多多骨董、車牌....讓我的手機不停地拍著拍著，甚至連植物都是養的生氣勃勃，入口的樹葡萄更是氣場強大，跟妹妹們坐在這咖啡廳哩，由於老闆的超有愛，讓我們可以很悠閒的在此談天說地。 當然不能不介紹的是這裡的食物，咖啡不管是拿鐵、美式咖啡還有經典咖啡加冰淇淋，都非 常好喝，唇齒留香。 另外我們點了凱薩沙拉、一盤淡菜，還有紅醬雞肉燉飯及青醬草菇燉飯，三個人一起分享著吃，老闆說:怎沒吃完啊？ 我們笑著說，不急不急，好食物好食材，在加上好環境，我們要慢慢地享受此刻的溫馨與幸福。 我相信，我們會經常來這兒聊天吃飯喝咖啡的，是視覺的享受，也是味蕾的幸福。 謝謝PASTTIME給我們FUTURE TIME AND ENJOY NOW💖.",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天中午跟大妹及小妹三人相約到PASTTIMES' CAFE 佩斯坦咖啡館小聚。 我們三小是家中九個小孩的最後三位，所以當老闆聽到我們是親密的三姊妹，又加上我和大妹是本月壽星，所以受到的特別的禮遇。 在飯後驚喜地送上兩盤插上蠟燭的冰淇淋蛋糕，讓我們受寵若驚，好感動。 所以一定要好好地寫下我今天的感受。 這是我第一次到這家咖啡廳，是大妹妹特別介紹的，咖啡店是她的鄰居，也是她愛好的喝咖啡及休憩之處。 一進咖啡廳，被老闆精心從美國搜集的許許多多骨董、車牌....讓我的手機不停地拍著拍著，甚至連植物都是養的生氣勃勃，入口的樹葡萄更是氣場強大，跟妹妹們坐在這咖啡廳哩，由於老闆的超有愛，讓我們可以很悠閒的在此談天說地。 當然不能不介紹的是這裡的食物，咖啡不管是拿鐵、美式咖啡還有經典咖啡加冰淇淋，都非 常好喝，唇齒留香。 另外我們點了凱薩沙拉、一盤淡菜，還有紅醬雞肉燉飯及青醬草菇燉飯，三個人一起分享著吃，老闆說:怎沒吃完啊？ 我們笑著說，不急不急，好食物好食材，在加上好環境，我們要慢慢地享受此刻的溫馨與幸福。 我相信，我們會經常來這兒聊天吃飯喝咖啡的，是視覺的享受，也是味蕾的幸福。 謝謝PASTTIME給我們FUTURE TIME AND ENJOY NOW💖.",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "GRACE LO",
+        "uri": "https://www.google.com/maps/contrib/106884155858019085391/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBTeQ4MJTZ1NoLcxR-j8urtyJp-YI_b8Ux4GWVeZix-gkSqpmx=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-08-19T13:56:11.305673494Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkT1dXTmxhR3RNYm1SME9GVkhVMHBWWDBjMVNYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkT1dXTmxhR3RNYm1SME9GVkhVMHBWWDBjMVNYYxAB!2m1!1s0x3442aced3b8c939f:0xdb0ae528d19e8ddf"
+    },
+    {
+      "name": "places/ChIJn5OMO-2sQjQR342e0SjlCts/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oVFNEbFZOMEpwTURRMmJXTkdZMTlzV2tGeFJrRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "外場服務非常優秀，尤其穿槍與玫瑰Tshirt的～餐點很美味，餐廳氛圍也超級符合美式懷舊感，例如一進門就有花香迎賓，非常驚喜♡",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "外場服務非常優秀，尤其穿槍與玫瑰Tshirt的～餐點很美味，餐廳氛圍也超級符合美式懷舊感，例如一進門就有花香迎賓，非常驚喜♡",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "小令",
+        "uri": "https://www.google.com/maps/contrib/104388489108704726700/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWNCp6qrjMCI3wXXnHHuQ_8ebuh-eT7d7npt4ZoCQwD4ZU1koZ_ZA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-19T11:25:15.531435457Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oVFNEbFZOMEpwTURRMmJXTkdZMTlzV2tGeFJrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oVFNEbFZOMEpwTURRMmJXTkdZMTlzV2tGeFJrRRAB!2m1!1s0x3442aced3b8c939f:0xdb0ae528d19e8ddf"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

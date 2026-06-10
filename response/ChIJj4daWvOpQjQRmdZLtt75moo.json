@@ -1,0 +1,132 @@
+{
+  "id": "ChIJj4daWvOpQjQRmdZLtt75moo",
+  "types": [
+    "deli",
+    "food_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 907 331 169",
+  "formattedAddress": "106台灣臺北市大安區古莊里羅斯福路二段75之5號1樓",
+  "location": {
+    "latitude": 25.0266645,
+    "longitude": 121.52333229999999
+  },
+  "rating": 4.8,
+  "websiteUri": "http://www.instagram.com/wait_pasta/",
+  "userRatingCount": 81,
+  "displayName": {
+    "text": "等一下Pasta /平價義麵坊/燉飯",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJj4daWvOpQjQRmdZLtt75moo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5MFRFNVBTMlJKVmxFMWJqUmFkbmRrZEVkalVXYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "雖然等候時間稍久，但是是好吃的喔！\n內用座位不多，要稍微擠一下",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "雖然等候時間稍久，但是是好吃的喔！\n內用座位不多，要稍微擠一下",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "TuzPing Xie",
+        "uri": "https://www.google.com/maps/contrib/112301108118944766993/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVs7L8f-VGC9f0HFr7tXTyFvDuth_H3fB30JTVQ1-KaS_KcqOdM1g=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-03-09T14:07:46.560136875Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5MFRFNVBTMlJKVmxFMWJqUmFkbmRrZEVkalVXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5MFRFNVBTMlJKVmxFMWJqUmFkbmRrZEVkalVXYxAB!2m1!1s0x3442a9f35a5a878f:0x8a9af9deb64bd699"
+    },
+    {
+      "name": "places/ChIJj4daWvOpQjQRmdZLtt75moo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21FMFZXazNabWR6V1dsM2MyVkRNMEpmWWpWVWIwRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "雞肉有點少🥲\n菜多樣化我喜歡～\n\n🏸：今天來吃義大利麵。！\n我：好耶那一家呀！\n🏸：好像叫「快一點」\n🪽：它叫「等一下Pasta」啦！不要把你的心聲說出來",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "雞肉有點少🥲\n菜多樣化我喜歡～\n\n🏸：今天來吃義大利麵。！\n我：好耶那一家呀！\n🏸：好像叫「快一點」\n🪽：它叫「等一下Pasta」啦！不要把你的心聲說出來",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "吳伊聆",
+        "uri": "https://www.google.com/maps/contrib/114150217359902763252/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5O5eLFfsvCIqLe-UvN4MWacrdSglpBchpnNbI_x-lQ72__tIj=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-10-17T04:52:13.009984445Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21FMFZXazNabWR6V1dsM2MyVkRNMEpmWWpWVWIwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21FMFZXazNabWR6V1dsM2MyVkRNMEpmWWpWVWIwRRAB!2m1!1s0x3442a9f35a5a878f:0x8a9af9deb64bd699"
+    },
+    {
+      "name": "places/ChIJj4daWvOpQjQRmdZLtt75moo/reviews/ChZDSUhNMG9nS0VJQ0FnSUNaeXFYRUh3EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "白醬培根義大利麵\n就算是外帶\n也是誠意十足\n料多好吃又實在\n\n座落在市場後巷的隱蔽小餐廳\n雖然看起來不起眼\n但真的值得來吃一次\n價格平價、用料實在\n白醬濃郁又香甜，加入多種蔬菜\n推薦加辣更好吃\n\n用餐次數19\n白醬培根8\n白醬豬肉8\n白醬牛肉1\n白醬燉飯豬肉 2",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "白醬培根義大利麵\n就算是外帶\n也是誠意十足\n料多好吃又實在\n\n座落在市場後巷的隱蔽小餐廳\n雖然看起來不起眼\n但真的值得來吃一次\n價格平價、用料實在\n白醬濃郁又香甜，加入多種蔬菜\n推薦加辣更好吃\n\n用餐次數19\n白醬培根8\n白醬豬肉8\n白醬牛肉1\n白醬燉飯豬肉 2",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "紘煥（彌亞牛奶）",
+        "uri": "https://www.google.com/maps/contrib/113425279685329864312/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXTP4z9iTxOIhOjT3tXwaFIIiNRlKJLZ1KmZ02RC4rfSDJhdM4=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-01-22T08:23:02.579397Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNaeXFYRUh3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNaeXFYRUh3EAE!2m1!1s0x3442a9f35a5a878f:0x8a9af9deb64bd699"
+    },
+    {
+      "name": "places/ChIJj4daWvOpQjQRmdZLtt75moo/reviews/ChdDSUhNMG9nS0VOUG13YmZReTkzbDVnRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "看網友評論來朝聖「奶油麵」，真心濃郁、滿滿的奶香味（我竟然把醬吃完了😋），蛤蠣約8科算飽滿，青菜也給不少，訂價很佛心。\n在市場裡很不起眼，位置也很少不是舒適久坐那種，但從食物本身能感覺是ㄧ對小夫妻用心經營的店。我自己會再回訪～店家繼續加油！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "看網友評論來朝聖「奶油麵」，真心濃郁、滿滿的奶香味（我竟然把醬吃完了😋），蛤蠣約8科算飽滿，青菜也給不少，訂價很佛心。\n在市場裡很不起眼，位置也很少不是舒適久坐那種，但從食物本身能感覺是ㄧ對小夫妻用心經營的店。我自己會再回訪～店家繼續加油！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "鄭阿嵐",
+        "uri": "https://www.google.com/maps/contrib/108678988947602277562/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUEZlEVMJWfPMolF244ze15otV_9Y3MQnDkLbb7k6o2-zgpyyZx=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-05-21T04:04:06.451898Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VOUG13YmZReTkzbDVnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VOUG13YmZReTkzbDVnRRAB!2m1!1s0x3442a9f35a5a878f:0x8a9af9deb64bd699"
+    },
+    {
+      "name": "places/ChIJj4daWvOpQjQRmdZLtt75moo/reviews/ChZDSUhNMG9nS0VJQ0FnSUNYN0libmR3EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "餐廳類型 🍽️:  義大利麵 燉飯\n\n地理位置 📍:  捷運古亭站走2分鐘\n\n環境氛圍 🌟:  店內微熱 普通小吃店氣氛 還算乾淨\n\n服務態度 😊:  僅送餐\n\n食物品質 🍲:\n《青醬隔離麵》 160元 +麵5元\n青醬比較湯水一點 味道較淡\n蛤蠣蠻多的但都小顆 有附一個放蛤蠣的碗\n\n價格CP值 💰: 價格便宜 cp 值高\n\n總評 ⭐️: 適合學生來吃 很對得起它的價格\n有時候會突然沒開 建議來之前先打電話問有沒有營業",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐廳類型 🍽️:  義大利麵 燉飯\n\n地理位置 📍:  捷運古亭站走2分鐘\n\n環境氛圍 🌟:  店內微熱 普通小吃店氣氛 還算乾淨\n\n服務態度 😊:  僅送餐\n\n食物品質 🍲:\n《青醬隔離麵》 160元 +麵5元\n青醬比較湯水一點 味道較淡\n蛤蠣蠻多的但都小顆 有附一個放蛤蠣的碗\n\n價格CP值 💰: 價格便宜 cp 值高\n\n總評 ⭐️: 適合學生來吃 很對得起它的價格\n有時候會突然沒開 建議來之前先打電話問有沒有營業",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "曾子嘎嘎",
+        "uri": "https://www.google.com/maps/contrib/110331147049388423621/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXO5t-Okh5NNdVf6XULYCMnjGwQhPf3IlguH3-N0j-IhNXGQG2LOA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2024-10-14T02:23:57.743158Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNYN0libmR3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNYN0libmR3EAE!2m1!1s0x3442a9f35a5a878f:0x8a9af9deb64bd699"
+    }
+  ],
+  "goodForChildren": true
+}

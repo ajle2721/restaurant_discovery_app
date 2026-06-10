@@ -1,0 +1,136 @@
+{
+  "id": "ChIJi475b6epQjQRlF1j2NEtN54",
+  "types": [
+    "deli",
+    "food_store",
+    "chinese_restaurant",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2388 9997",
+  "formattedAddress": "108台灣台北市万华区汉中街147巷5號可從長沙街2段9號進入",
+  "location": {
+    "latitude": 25.0408804,
+    "longitude": 121.50712850000001
+  },
+  "rating": 4.1,
+  "websiteUri": "https://kaikaikan.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1666,
+  "displayName": {
+    "text": "開開看江浙小吃",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJi475b6epQjQRlF1j2NEtN54/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KaFV6TldXRU5LWDFST1ZuVlRZek4wUjFVdFUwRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "隱藏在巷弄裡的店，是朋友介紹才知道的餐廳\n感覺像來到另一個世界\n餐點都還不錯！小菜的青椒鑲肉跟紅燒獅子頭是冷的，不太喜歡🥺\n調味上都覺得還好，覺得去中國當地吃的還是比較好吃～\n不過服務很好！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "隱藏在巷弄裡的店，是朋友介紹才知道的餐廳\n感覺像來到另一個世界\n餐點都還不錯！小菜的青椒鑲肉跟紅燒獅子頭是冷的，不太喜歡🥺\n調味上都覺得還好，覺得去中國當地吃的還是比較好吃～\n不過服務很好！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Marian_life",
+        "uri": "https://www.google.com/maps/contrib/102879986614541937225/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKb2UWc7N1CK4YHww5jaY7er-X_zkA34-8XvuA8EfGo9JaU6A=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-03-06T02:54:38.530347938Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KaFV6TldXRU5LWDFST1ZuVlRZek4wUjFVdFUwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KaFV6TldXRU5LWDFST1ZuVlRZek4wUjFVdFUwRRAB!2m1!1s0x3442a9a76ff98e8b:0x9e372dd1d8635d94"
+    },
+    {
+      "name": "places/ChIJi475b6epQjQRlF1j2NEtN54/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkS1ZubHNVMGhpWDBwSlNGWlFTR0l6TmxWS00wRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "位於西門的小吃店，預約需4人以上，人少需併桌\n我們只拿現場小菜，沒另外點炒類，味道很好\n人手不是很多，但老闆掌控得很清楚",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "位於西門的小吃店，預約需4人以上，人少需併桌\n我們只拿現場小菜，沒另外點炒類，味道很好\n人手不是很多，但老闆掌控得很清楚",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "CH Yang",
+        "uri": "https://www.google.com/maps/contrib/103938461659797641614/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUYQ6kUDgN6lnUJGKoMer_C4LeR__Cqi6Q8Ked79pO1moTW59GTJA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-26T08:38:49.222883196Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkS1ZubHNVMGhpWDBwSlNGWlFTR0l6TmxWS00wRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkS1ZubHNVMGhpWDBwSlNGWlFTR0l6TmxWS00wRRAB!2m1!1s0x3442a9a76ff98e8b:0x9e372dd1d8635d94"
+    },
+    {
+      "name": "places/ChIJi475b6epQjQRlF1j2NEtN54/reviews/Ci9DQUlRQUNvZENodHljRjlvT21waGVVMUZRMGRtZUcxS1ZWbDFiMEl5YTBsRE1IYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "清蒸臭豆腐沒有了，改點臭豆腐煲，也很好吃。\n都很美味，仍算油鹹甜⋯下酒菜，場子蠻喧鬧的。\n2個人吃不了太多菜，下次再來。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "清蒸臭豆腐沒有了，改點臭豆腐煲，也很好吃。\n都很美味，仍算油鹹甜⋯下酒菜，場子蠻喧鬧的。\n2個人吃不了太多菜，下次再來。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Whitney Lin",
+        "uri": "https://www.google.com/maps/contrib/114794633347353784408/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVnNTgsiydkjagjtqv3nJEfkHTNm48djdsBnD28A3hvDaJV0Tqu=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-09-13T14:01:58.597080781Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21waGVVMUZRMGRtZUcxS1ZWbDFiMEl5YTBsRE1IYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21waGVVMUZRMGRtZUcxS1ZWbDFiMEl5YTBsRE1IYxAB!2m1!1s0x3442a9a76ff98e8b:0x9e372dd1d8635d94"
+    },
+    {
+      "name": "places/ChIJi475b6epQjQRlF1j2NEtN54/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psYU4zRmpMVmx0UXpScFdYSjRZM0ozT0d0dloxRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "有些菜好吃\n有些普通\n\n臭豆腐捲好吃！內餡多汁\n鱔魚好吃 牛肉豆乾絲好吃\n高麗菜不錯 宮保蝦仁不錯 偏辣\n\n左宗棠雞很普通\n雞肉甚至沒有炸 水煮雞肉淋醬料",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "有些菜好吃\n有些普通\n\n臭豆腐捲好吃！內餡多汁\n鱔魚好吃 牛肉豆乾絲好吃\n高麗菜不錯 宮保蝦仁不錯 偏辣\n\n左宗棠雞很普通\n雞肉甚至沒有炸 水煮雞肉淋醬料",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Carlos Chen",
+        "uri": "https://www.google.com/maps/contrib/111697724717298764379/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX9hsnuNqXYaWSaDYldHsK-znCwX5YwUDd4VNlVLJf5TJY8XBTgoA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-15T12:31:20.642254937Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psYU4zRmpMVmx0UXpScFdYSjRZM0ozT0d0dloxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psYU4zRmpMVmx0UXpScFdYSjRZM0ozT0d0dloxRRAB!2m1!1s0x3442a9a76ff98e8b:0x9e372dd1d8635d94"
+    },
+    {
+      "name": "places/ChIJi475b6epQjQRlF1j2NEtN54/reviews/Ci9DQUlRQUNvZENodHljRjlvT210elEwcHpaemd3ZGt0d1QwVk5OVmR6TUZsWFNsRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "巷弄小店\n看網路評論說70年的老店\n特地打電話預訂\n幸好有訂位\n一進門沒多久就客滿\n店內很復古的大圓桌\n茶水自取\n菜單看完直接跟阿姨點餐\n阿姨都會記住\n店內有各桌的聊天聲\n還有廚房鐵鍋炒菜的鍋鏟聲\n很有復古情懷的感覺\n菜不油不膩\n點了\n砂鍋醃鮮\n蒜苗蝦仁\n蒼蠅頭\n韭黃臭豆腐\n炒豆乾\n雪菜年糕\n小菜拿辣椒肉條\n4個人全部完食\n心得：\n砂鍋醃鮮（湯裡面有蒸豆皮、筍子、醃肉）\n湯頭鮮甜，還附贈冬粉\n可以吸附湯汁\n很好喝\n白飯殺手（炒豆乾、韭黃臭豆腐、蒼蠅頭）\n這3個實在是太好吃\n白飯殺手🥷\n白飯要省著吃\n蒜苗蝦仁\n菜嫩 蝦仁🍤絲滑\n有微微勾芡\n雪菜年糕\n我個人不喜歡雪菜\n但這道微苦雪菜搭配年糕（軟而不爛）\n意外好吃\n小菜辣椒肉條（1條40-60元）\n這也是白飯殺手\n來不及相機先吃\n嘴巴就吃光了\n我下次還要再來吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "巷弄小店\n看網路評論說70年的老店\n特地打電話預訂\n幸好有訂位\n一進門沒多久就客滿\n店內很復古的大圓桌\n茶水自取\n菜單看完直接跟阿姨點餐\n阿姨都會記住\n店內有各桌的聊天聲\n還有廚房鐵鍋炒菜的鍋鏟聲\n很有復古情懷的感覺\n菜不油不膩\n點了\n砂鍋醃鮮\n蒜苗蝦仁\n蒼蠅頭\n韭黃臭豆腐\n炒豆乾\n雪菜年糕\n小菜拿辣椒肉條\n4個人全部完食\n心得：\n砂鍋醃鮮（湯裡面有蒸豆皮、筍子、醃肉）\n湯頭鮮甜，還附贈冬粉\n可以吸附湯汁\n很好喝\n白飯殺手（炒豆乾、韭黃臭豆腐、蒼蠅頭）\n這3個實在是太好吃\n白飯殺手🥷\n白飯要省著吃\n蒜苗蝦仁\n菜嫩 蝦仁🍤絲滑\n有微微勾芡\n雪菜年糕\n我個人不喜歡雪菜\n但這道微苦雪菜搭配年糕（軟而不爛）\n意外好吃\n小菜辣椒肉條（1條40-60元）\n這也是白飯殺手\n來不及相機先吃\n嘴巴就吃光了\n我下次還要再來吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳妍鈞",
+        "uri": "https://www.google.com/maps/contrib/110877755079375268009/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK3olM95JPgp-t4pkr80ObWcbkJ1B-L21ukGfVR_z7CyDXDsWHY=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-26T05:37:37.722030403Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210elEwcHpaemd3ZGt0d1QwVk5OVmR6TUZsWFNsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210elEwcHpaemd3ZGt0d1QwVk5OVmR6TUZsWFNsRRAB!2m1!1s0x3442a9a76ff98e8b:0x9e372dd1d8635d94"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

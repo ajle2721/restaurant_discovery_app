@@ -1,0 +1,133 @@
+{
+  "id": "ChIJ_bpJRJqpQjQRXz73PDJ74XA",
+  "types": [
+    "american_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2351 3579",
+  "formattedAddress": "100台灣臺北市中正區南福里羅斯福路二段60號",
+  "location": {
+    "latitude": 25.027577899999997,
+    "longitude": 121.52175299999999
+  },
+  "rating": 4.4,
+  "websiteUri": "https://tgifridays.com.tw/index.php/locations",
+  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+  "userRatingCount": 4041,
+  "displayName": {
+    "text": "TGI FRIDAYS 星期五美式餐廳 古亭餐廳",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ_bpJRJqpQjQRXz73PDJ74XA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGR2VtMTFNVkZSUWxwWlFreHZlRXh5VDA5T2NWRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 2,
+      "text": {
+        "text": "餐點部分只給一顆星\n剩下的部分是給用餐環境\n\n請店員推薦牛排\n我的需求是碳烤，只敢吃七分熟\n軟嫩多汁，店員推薦的是勒眼\n第一口驚艷，第二口還行\n第三口之後真的是惡夢\n基本上是練牙齒到吃完\n很難嚼更別提我要求的軟嫩多汁\n重點是價格還不便宜然後這樣的用餐體驗\n\n唯二的記憶點\n玉米濃湯還算可以\n黑胡椒醬好吃\n義大利麵的培根碎也是乾硬難咬\n奶昔死甜\n馬鈴薯泥中規中矩沒有記憶點\n\n雖然如此但感覺還是有在用心的餐廳\n改天再回訪試試看其他品項\n但勒眼牛排我是絕對不會嘗試第二次",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點部分只給一顆星\n剩下的部分是給用餐環境\n\n請店員推薦牛排\n我的需求是碳烤，只敢吃七分熟\n軟嫩多汁，店員推薦的是勒眼\n第一口驚艷，第二口還行\n第三口之後真的是惡夢\n基本上是練牙齒到吃完\n很難嚼更別提我要求的軟嫩多汁\n重點是價格還不便宜然後這樣的用餐體驗\n\n唯二的記憶點\n玉米濃湯還算可以\n黑胡椒醬好吃\n義大利麵的培根碎也是乾硬難咬\n奶昔死甜\n馬鈴薯泥中規中矩沒有記憶點\n\n雖然如此但感覺還是有在用心的餐廳\n改天再回訪試試看其他品項\n但勒眼牛排我是絕對不會嘗試第二次",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jonny yen",
+        "uri": "https://www.google.com/maps/contrib/114598935395761056745/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKCk11kbS75lSx1HTrdLVpfdu7WnyhOwUjY_7tHS886LOoNxw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-03-10T09:40:23.994166792Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGR2VtMTFNVkZSUWxwWlFreHZlRXh5VDA5T2NWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGR2VtMTFNVkZSUWxwWlFreHZlRXh5VDA5T2NWRRAB!2m1!1s0x3442a99a4449bafd:0x70e17b323cf73e5f"
+    },
+    {
+      "name": "places/ChIJ_bpJRJqpQjQRXz73PDJ74XA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSNk9YUkRkVXQyTTFoSlExbDFOa2RtUW05UGFVRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 3,
+      "text": {
+        "text": "餐點就跟其他的店差不多啦，但是我覺得他們可能是因為聖誕節的關係炸魚薯條的魚稍微有點炸太久了。薯條倒是沒什麼問題喔。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點就跟其他的店差不多啦，但是我覺得他們可能是因為聖誕節的關係炸魚薯條的魚稍微有點炸太久了。薯條倒是沒什麼問題喔。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Namia",
+        "uri": "https://www.google.com/maps/contrib/112883961879953405822/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVxqGlEMvah-ZIOZRL8chGi6cNNcF503byvVb9NFvl-bLPBCOIn=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-26T10:21:23.635835219Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSNk9YUkRkVXQyTTFoSlExbDFOa2RtUW05UGFVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSNk9YUkRkVXQyTTFoSlExbDFOa2RtUW05UGFVRRAB!2m1!1s0x3442a99a4449bafd:0x70e17b323cf73e5f"
+    },
+    {
+      "name": "places/ChIJ_bpJRJqpQjQRXz73PDJ74XA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSR1ozYzVOblJ6U1ZkV2JuZGxTMFpNVm5ad2VHYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "TGI FRIDAYS 星期五美式餐廳古亭店位於台北市中正區羅斯福路二段60號，鄰近捷運古亭站7號出口，步行僅需5分鐘，交通便利，是下班後聚餐或約會的熱門選擇。這家美式連鎖餐廳自1975年創立於紐約，強調「天天都是星期五」的歡樂氛圍，在台灣擁有超過10家分店，古亭店以寬敞的二樓用餐區聞名，空間可容納30人以上聚會，裝潢充滿美式風情：牆上掛滿老照片、霓虹燈和棒球海報，背景音樂播放輕快的搖滾樂，營造出輕鬆自在的氣息。平日中午人潮不多，適合小資族享用商業午餐；週末則熱鬧非凡，建議提前訂位，避免等位。\n菜單以美式經典為主，份量大到足以讓人回味無窮。必點的炭烤豬肋排是招牌，選用台灣本地豬肉慢火烤製，塗上田納西威士忌醬或蘋果烤肉醬，肉質軟嫩入味，骨頭上幾乎無肉，搭配香脆薯條和涼拌捲心菜，一份半份即可滿足兩人。許多食客讚賞它的焦香外皮和多汁內裡，甚至比美國本店還勝一籌，特別是每週五的買一送一活動，CP值爆表，讓人忍不住吮指回味。開胃菜組合自選三樣，如香酥馬芝拉起司條、紐約辣雞翅或田納西芝麻雞柳，酥脆不油膩，適合分享；英式炸魚薯條是英國傳統小吃，魚柳裹上厚實麵衣，金黃炸至外脆內嫩，沾塔塔醬一口接一口，連不愛炸物的朋友都淪陷。主菜還有沙朗牛排、漢堡和義大利麵，新上市的費特希尼鮮蝦雞肉寬麵料多汁鮮，碳烤豬肋排與薯條的組合更是聚餐首選。飲料部分，調酒種類豐富，如長島冰茶或草莓瑪格麗塔，買一送一優惠讓人暢飲不心疼；無酒精飲料如藍莓漿果茶清新解膩，適合開車族。\n服務是古亭店的亮點，店員熱情專業，從進門的「歡迎光臨」到上菜時的細心詢問，都讓人感覺賓至如歸。等待時會主動送上水或小點心，生日聚會還會有專屬蛋糕和歌聲，增添驚喜。根據TripAdvisor和OpenTable的評價，這裡平均4.2分（超過400則評論），食客常提「服務態度超棒，食物份量大盤，適合多人分攤」，Google評分也達4.1分（2186則）。不過，價格屬中高檔，一份豬肋排約NT$600-800，若單人用餐稍嫌貴；高峰期上菜偶爾延遲，建議避開晚間7-9點。整體來說，古亭店保留了TGI FRIDAYS的道地美式風味，食物新鮮、氛圍活潑，是台北市區少數能吃到正宗美式燒烤的地方。下次想來場「星期五」派對，這裡絕對是首選！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "TGI FRIDAYS 星期五美式餐廳古亭店位於台北市中正區羅斯福路二段60號，鄰近捷運古亭站7號出口，步行僅需5分鐘，交通便利，是下班後聚餐或約會的熱門選擇。這家美式連鎖餐廳自1975年創立於紐約，強調「天天都是星期五」的歡樂氛圍，在台灣擁有超過10家分店，古亭店以寬敞的二樓用餐區聞名，空間可容納30人以上聚會，裝潢充滿美式風情：牆上掛滿老照片、霓虹燈和棒球海報，背景音樂播放輕快的搖滾樂，營造出輕鬆自在的氣息。平日中午人潮不多，適合小資族享用商業午餐；週末則熱鬧非凡，建議提前訂位，避免等位。\n菜單以美式經典為主，份量大到足以讓人回味無窮。必點的炭烤豬肋排是招牌，選用台灣本地豬肉慢火烤製，塗上田納西威士忌醬或蘋果烤肉醬，肉質軟嫩入味，骨頭上幾乎無肉，搭配香脆薯條和涼拌捲心菜，一份半份即可滿足兩人。許多食客讚賞它的焦香外皮和多汁內裡，甚至比美國本店還勝一籌，特別是每週五的買一送一活動，CP值爆表，讓人忍不住吮指回味。開胃菜組合自選三樣，如香酥馬芝拉起司條、紐約辣雞翅或田納西芝麻雞柳，酥脆不油膩，適合分享；英式炸魚薯條是英國傳統小吃，魚柳裹上厚實麵衣，金黃炸至外脆內嫩，沾塔塔醬一口接一口，連不愛炸物的朋友都淪陷。主菜還有沙朗牛排、漢堡和義大利麵，新上市的費特希尼鮮蝦雞肉寬麵料多汁鮮，碳烤豬肋排與薯條的組合更是聚餐首選。飲料部分，調酒種類豐富，如長島冰茶或草莓瑪格麗塔，買一送一優惠讓人暢飲不心疼；無酒精飲料如藍莓漿果茶清新解膩，適合開車族。\n服務是古亭店的亮點，店員熱情專業，從進門的「歡迎光臨」到上菜時的細心詢問，都讓人感覺賓至如歸。等待時會主動送上水或小點心，生日聚會還會有專屬蛋糕和歌聲，增添驚喜。根據TripAdvisor和OpenTable的評價，這裡平均4.2分（超過400則評論），食客常提「服務態度超棒，食物份量大盤，適合多人分攤」，Google評分也達4.1分（2186則）。不過，價格屬中高檔，一份豬肋排約NT$600-800，若單人用餐稍嫌貴；高峰期上菜偶爾延遲，建議避開晚間7-9點。整體來說，古亭店保留了TGI FRIDAYS的道地美式風味，食物新鮮、氛圍活潑，是台北市區少數能吃到正宗美式燒烤的地方。下次想來場「星期五」派對，這裡絕對是首選！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Vic Huang",
+        "uri": "https://www.google.com/maps/contrib/107493523800056068658/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUQjM5eJgKktrXvyX5CvIj6-WIgcF2SqbvVDlpGAoyafGO8USFQpQ=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-10-18T11:57:35.235486672Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSR1ozYzVOblJ6U1ZkV2JuZGxTMFpNVm5ad2VHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSR1ozYzVOblJ6U1ZkV2JuZGxTMFpNVm5ad2VHYxAB!2m1!1s0x3442a99a4449bafd:0x70e17b323cf73e5f"
+    },
+    {
+      "name": "places/ChIJ_bpJRJqpQjQRXz73PDJ74XA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25BNFdFTTJjWGRFWkdkU2JrNXBRM2hLZVY5YWMzYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "與家人同來，10幾人，分二桌坐，服務很好，點太多，外帶也oK，一點都不馬虎",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "與家人同來，10幾人，分二桌坐，服務很好，點太多，外帶也oK，一點都不馬虎",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "FANG",
+        "uri": "https://www.google.com/maps/contrib/108262343752952985470/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8PPA7AsDsGStSTrgOEIGwchou4jeVAnj13k6vGHNmjBtcdKbe=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-26T06:20:43.183974061Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25BNFdFTTJjWGRFWkdkU2JrNXBRM2hLZVY5YWMzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25BNFdFTTJjWGRFWkdkU2JrNXBRM2hLZVY5YWMzYxAB!2m1!1s0x3442a99a4449bafd:0x70e17b323cf73e5f"
+    },
+    {
+      "name": "places/ChIJ_bpJRJqpQjQRXz73PDJ74XA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SVmQzRnVXalJtVFRoMk1ERllhVVYzZURCd1JFRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "今晚享用風味道地的美式肋排，允指回味無窮，加上用餐環境溫馨歡樂，服務人員們Albee親切有禮，令人感動難忘的生日趴🎂",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今晚享用風味道地的美式肋排，允指回味無窮，加上用餐環境溫馨歡樂，服務人員們Albee親切有禮，令人感動難忘的生日趴🎂",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Huang Shin Lin",
+        "uri": "https://www.google.com/maps/contrib/112508706544861235085/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUlaNZHSnIO_NVp0faWDje_S3T4fQD19vpNVcw6QfAchux3K_WI=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-01T12:13:47.884502548Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SVmQzRnVXalJtVFRoMk1ERllhVVYzZURCd1JFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SVmQzRnVXalJtVFRoMk1ERllhVVYzZURCd1JFRRAB!2m1!1s0x3442a99a4449bafd:0x70e17b323cf73e5f"
+    }
+  ],
+  "menuForChildren": true,
+  "goodForChildren": true
+}

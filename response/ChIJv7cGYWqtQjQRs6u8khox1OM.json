@@ -1,0 +1,138 @@
+{
+  "id": "ChIJv7cGYWqtQjQRs6u8khox1OM",
+  "types": [
+    "brunch_restaurant",
+    "vegan_restaurant",
+    "vegetarian_restaurant",
+    "breakfast_restaurant",
+    "meal_delivery",
+    "food_delivery",
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 963 611 528",
+  "formattedAddress": "114台灣臺北市內湖區港都里港墘路86號1樓",
+  "location": {
+    "latitude": 25.080554499999998,
+    "longitude": 121.57747239999999
+  },
+  "rating": 4.2,
+  "websiteUri": "https://www.facebook.com/baomimaru",
+  "userRatingCount": 126,
+  "displayName": {
+    "text": "寶米丸手作專門店｜日式飯糰關東煮｜內湖早午餐｜內科下午茶（店休見FB)",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJv7cGYWqtQjQRs6u8khox1OM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xabFIzUnFhRmd3TlVST1MzTkhiRXRwY1ZaU1kwRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "超豐盛早午餐😆 選項好多樣！飯糰加起司都好吃！一顆抵711兩顆 - 泰式打拋豬、昆布、元氣菇菇\n大推芋頭瘦肉粥還有超親切老闆店員👍\n關東煮的蘿蔔也是很濃郁！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "超豐盛早午餐😆 選項好多樣！飯糰加起司都好吃！一顆抵711兩顆 - 泰式打拋豬、昆布、元氣菇菇\n大推芋頭瘦肉粥還有超親切老闆店員👍\n關東煮的蘿蔔也是很濃郁！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yvonne H (Akuei_)",
+        "uri": "https://www.google.com/maps/contrib/101992935071584907420/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVEgNjkb1K2Pj83dAHAxHEOJCaFPEz7dtq-07b8ss1CBo_wShG1=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-27T04:11:06.542451708Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xabFIzUnFhRmd3TlVST1MzTkhiRXRwY1ZaU1kwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xabFIzUnFhRmd3TlVST1MzTkhiRXRwY1ZaU1kwRRAB!2m1!1s0x3442ad6a6106b7bf:0xe3d4311a92bcabb3"
+    },
+    {
+      "name": "places/ChIJv7cGYWqtQjQRs6u8khox1OM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21waWIyZFZVSGh6WmxwaVdrOXdPSFIwUjNoWFRWRRAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 5,
+      "text": {
+        "text": "2025/6/20 上午9:00\n\n點了腐皮味噌湯65\n跟元氣菇菇飯糰70\n因為架上剛好沒有元氣菇菇了\n所以麻煩店員幫我現做\n\n出乎意料的是湯竟然是現煮的\n非常美味 味噌很濃郁\n\n飯糰內餡是傳統日式佃煮\n有吃出金針菇跟黑木耳\n圖片雖然顯示一大朵香菇\n但實際裡面只吃到半朵\n不過還是很美味\n圖片應該只是示意圖吧！\n\n飯本身煮的也是恰到好處\n店內提供大約六個位子內用",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2025/6/20 上午9:00\n\n點了腐皮味噌湯65\n跟元氣菇菇飯糰70\n因為架上剛好沒有元氣菇菇了\n所以麻煩店員幫我現做\n\n出乎意料的是湯竟然是現煮的\n非常美味 味噌很濃郁\n\n飯糰內餡是傳統日式佃煮\n有吃出金針菇跟黑木耳\n圖片雖然顯示一大朵香菇\n但實際裡面只吃到半朵\n不過還是很美味\n圖片應該只是示意圖吧！\n\n飯本身煮的也是恰到好處\n店內提供大約六個位子內用",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Like來顆烤飯糰",
+        "uri": "https://www.google.com/maps/contrib/108065522594272348480/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXkT90CeC_d_zL6CyZuzQvomRKWSWQjYhz9p__jVpNMoObtE7k=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-06-20T19:46:05.005164439Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21waWIyZFZVSGh6WmxwaVdrOXdPSFIwUjNoWFRWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21waWIyZFZVSGh6WmxwaVdrOXdPSFIwUjNoWFRWRRAB!2m1!1s0x3442ad6a6106b7bf:0xe3d4311a92bcabb3"
+    },
+    {
+      "name": "places/ChIJv7cGYWqtQjQRs6u8khox1OM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaOE9HMzdnRRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "終於再港墘捷運站找到新早餐店😁\n不然每週上來我都吃油煙味超重的早餐（好幾家都這樣）不然就是吃蛋餅\n\n剛好今天看map發現這家，評論看起來也還ok，看評論感覺塩選昆布不錯，剛好老闆說檯面上沒有的可以現做！馬上買起來😂\n\n雖然說飯糰，但吃起來還蠻沒負擔的，離開時帶了一個魩仔鈣多多也不錯，感覺是塩昆布加上魩仔魚，總之也是清爽的口味\n\n另外超堆飲料😂剛好沒愛玉，所以推仙草本奶覺得有點失望，但喝了以後覺得幸運👍，超冰超夠味尾韻帶一點點苦，仙草凍也很多\n\n下次來我要吃千張餃，剛好最近吳淡如也在講這個產品，但應該不是吳淡如推的牌子，不過還是想吃吃看",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "終於再港墘捷運站找到新早餐店😁\n不然每週上來我都吃油煙味超重的早餐（好幾家都這樣）不然就是吃蛋餅\n\n剛好今天看map發現這家，評論看起來也還ok，看評論感覺塩選昆布不錯，剛好老闆說檯面上沒有的可以現做！馬上買起來😂\n\n雖然說飯糰，但吃起來還蠻沒負擔的，離開時帶了一個魩仔鈣多多也不錯，感覺是塩昆布加上魩仔魚，總之也是清爽的口味\n\n另外超堆飲料😂剛好沒愛玉，所以推仙草本奶覺得有點失望，但喝了以後覺得幸運👍，超冰超夠味尾韻帶一點點苦，仙草凍也很多\n\n下次來我要吃千張餃，剛好最近吳淡如也在講這個產品，但應該不是吳淡如推的牌子，不過還是想吃吃看",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "尋飽",
+        "uri": "https://www.google.com/maps/contrib/101845739403003178414/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUXzT16nkUEYkIghgbz8tWgJljwUiLzzaK-zKDnvPjx6Ycssi3XJA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2023-09-02T20:13:04.283694Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNaOE9HMzdnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNaOE9HMzdnRRAB!2m1!1s0x3442ad6a6106b7bf:0xe3d4311a92bcabb3"
+    },
+    {
+      "name": "places/ChIJv7cGYWqtQjQRs6u8khox1OM/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3dnZXbG9RRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "內科午餐的好朋友，午餐可以吃到手作御飯糰很幸褔呀。\n本日品嚐：咖哩飯糰，泰式打拋豬。\n建議老闆咖哩味可以更重一些，照顧久坐電腦前喜愛重口味的同胞😆\n😋會再回訪",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "內科午餐的好朋友，午餐可以吃到手作御飯糰很幸褔呀。\n本日品嚐：咖哩飯糰，泰式打拋豬。\n建議老闆咖哩味可以更重一些，照顧久坐電腦前喜愛重口味的同胞😆\n😋會再回訪",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Val Lee",
+        "uri": "https://www.google.com/maps/contrib/109076026872754204388/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWi8ImW3rhL8F0dnJ-eNJFyRSUiI31l7w4c5Jdu2V02rPeCdMeGQA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2024-08-16T05:00:43.588151Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM3dnZXbG9RRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM3dnZXbG9RRRAB!2m1!1s0x3442ad6a6106b7bf:0xe3d4311a92bcabb3"
+    },
+    {
+      "name": "places/ChIJv7cGYWqtQjQRs6u8khox1OM/reviews/ChZDSUhNMG9nS0VJQ0FnSURtMTVMbUd3EAE",
+      "relativePublishTimeDescription": "4 年前",
+      "rating": 5,
+      "text": {
+        "text": "ㄧ試就上癮！早餐想吃飯的好朋友～星期一總是令人傷心。\n\n看到紙袋上的手寫早安和飯糰就覺得很開心而且很餓！飯糰比一般御飯糰厚實，超喜歡紫蘇口味，裡面有起司，莫名其妙很搭。\n\n溫野菜就是燙青菜，不過有加香香的紅蔥頭又不會太油，而且早餐可以吃到燙青菜太幸福了！\n\n之前有一陣子有紅豆薏仁漿，但最近沒有了有一點點想念。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "ㄧ試就上癮！早餐想吃飯的好朋友～星期一總是令人傷心。\n\n看到紙袋上的手寫早安和飯糰就覺得很開心而且很餓！飯糰比一般御飯糰厚實，超喜歡紫蘇口味，裡面有起司，莫名其妙很搭。\n\n溫野菜就是燙青菜，不過有加香香的紅蔥頭又不會太油，而且早餐可以吃到燙青菜太幸福了！\n\n之前有一陣子有紅豆薏仁漿，但最近沒有了有一點點想念。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Sylvia Yen-Ju Chen",
+        "uri": "https://www.google.com/maps/contrib/116621389179497694969/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZnTsoNGjhHbeoJRSgY-laWMy-QAvSv1uqykQRU-Geqa9LEYNpeA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2022-02-12T02:23:55.460235Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURtMTVMbUd3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURtMTVMbUd3EAE!2m1!1s0x3442ad6a6106b7bf:0xe3d4311a92bcabb3"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}
