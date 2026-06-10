@@ -2,22 +2,22 @@
     " child_seat available": {
         "result": "Yes",
         "evidence": "User provided info",
-        "confidence": 1.0
+        "confidence": 1
     },
     "Spacious seating": {
         "result": "Yes",
         "evidence": "User provided info",
-        "confidence": 1.0
+        "confidence": 1
     },
     "Kids menu available": {
         "result": "Yes",
         "evidence": "除了兒童餐，還有寶寶泥跟寶寶粥🥣",
-        "confidence": 1.0
+        "confidence": 1
     },
     "kid_noise_tolerant": {
         "result": "Yes",
         "evidence": "有孩子們的地方真的好歡樂，光跟朋友的娃玩耍就覺得很療育。",
-        "confidence": 1.0
+        "confidence": 1
     },
     "parent_friendly_score": 5,
     "parent_friendly_level": "高",
@@ -29,6 +29,6 @@
         "親子友善空間 小朋友都很愛",
         "如果喜歡小朋友 不怕孩子們吵的話，用餐體驗滿分囉～"
     ],
-    "generated_summary": "該餐廳空間寬敞舒適，提供兒童餐及寶寶粥，且環境充滿歡樂氣氛，非常適合帶小孩前往慶生或聚餐。",
-    "card_summary": "空間寬敞舒適，提供兒童餐及寶寶粥，且環境充滿歡樂氣氛，非常適合帶小孩前往慶生或聚餐。"
+    "generated_summary": "該餐廳空間寬敞舒適，環境充滿歡樂氣氛，非常適合帶小孩前往慶生或聚餐。官方標示其適合兒童，並預期提供兒童椅、兒童餐具，且確認有兒童餐及寶寶粥，讓親子用餐更便利。",
+    "card_summary": "該餐廳空間寬敞舒適，環境充滿歡樂氣氛，非常適合帶小孩前往慶生或聚餐。官方標示其適合兒童，並預期提供兒童椅、兒童餐具，且確認有兒童餐及寶寶粥，讓親子用餐更便利。"
 }

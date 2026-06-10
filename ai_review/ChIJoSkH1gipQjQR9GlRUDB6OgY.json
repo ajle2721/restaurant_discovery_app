@@ -1,51 +1,51 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "空間很寬敞",
-                             "confidence":  0.8
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "在熱鬧的西門商圈倒是很適合喜歡寧靜的人",
-                               "confidence":  0.8
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，這家餐廳空間寬敞舒適，氣氛熱鬧親子友善。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "空間很寬敞",
-                              "在熱鬧的西門商圈倒是很適合喜歡寧靜的人"
-                          ],
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "中",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "空間很寬敞",
+        "confidence": 0.8
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "在熱鬧的西門商圈倒是很適合喜歡寧靜的人",
+        "confidence": 0.8
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "generated_summary": "根據評論分析，這家餐廳空間寬敞舒適，氣氛熱鬧且親子友善。官方資訊也標示其適合兒童，預期會提供兒童椅及兒童餐具，讓家庭顧客能安心用餐。",
+    "card_summary": "根據評論分析，這家餐廳空間寬敞舒適，氣氛熱鬧且親子友善。官方資訊也標示其適合兒童，預期會提供兒童椅及兒童餐具，讓家庭顧客能安心用餐。",
+    "generated_signals": [
+        "空間很寬敞",
+        "在熱鬧的西門商圈倒是很適合喜歡寧靜的人"
+    ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

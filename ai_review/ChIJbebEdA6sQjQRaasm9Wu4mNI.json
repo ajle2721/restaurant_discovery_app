@@ -1,51 +1,51 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "用餐環境寬敞舒適",
-                             "confidence":  0.8
-                         },
-    "Kids menu available":  {
-                                "result":  "No",
-                                "evidence":  "Google 官方登記無提供兒童餐點",
-                                "confidence":  1.0
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "Google 官方登記適合兒童用餐",
-                               "confidence":  1.0
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，日式料理與主食口感風味良好。空間寬敞舒適，氣氛熱鬧親子友善，適合帶孩子前來用餐。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "用餐環境寬敞舒適",
-                              "Google 官方登記適合兒童用餐"
-                          ],
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "中",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "用餐環境寬敞舒適",
+        "confidence": 0.8
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "Google 官方登記無提供兒童餐點",
+        "confidence": 1
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "Google 官方登記適合兒童用餐",
+        "confidence": 1
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "generated_summary": "這家日式料理餐廳以其精緻餐點聞名，同時官方標示為適合兒童的友善場所，預期會提供兒童椅及兒童餐具，讓家庭顧客也能安心品嚐道地日式風味。",
+    "card_summary": "這家日式料理餐廳以其精緻餐點聞名，同時官方標示為適合兒童的友善場所，預期會提供兒童椅及兒童餐具，讓家庭顧客也能安心品嚐道地日式風味。",
+    "generated_signals": [
+        "用餐環境寬敞舒適",
+        "Google 官方登記適合兒童用餐"
+    ],
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "中",
+    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

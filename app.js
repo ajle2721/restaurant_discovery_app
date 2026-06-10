@@ -1629,7 +1629,7 @@ async function renderResults() {
             const mB = b.dynamicStatus.matchCount || 0;
             if (mA !== mB) return mB - mA;
 
-            return (a.distance || 0) - (b.distance || 0); // Tertiarily sort by distance (nearest first)
+            const diff = (a.distance || 0) - (b.distance || 0); return isNaN(diff) ? 0 : diff; // Tertiarily sort by distance
         });
 
         // 4. Split and Render
@@ -1783,7 +1783,12 @@ function handleNoResults(center) {
     // Find suggestions: closest districts or landmarks
     const suggestions = state.locationData
         .filter(l => l.name !== center.name)
-        .sort((a, b) => calculateDistance(center.lat, center.lng, a.lat, a.lng) - calculateDistance(center.lat, center.lng, b.lat, b.lng))
+        .sort((a, b) => {
+          const dA = calculateDistance(center.lat, center.lng, a.lat, a.lng);
+          const dB = calculateDistance(center.lat, center.lng, b.lat, b.lng);
+          const diff = dA - dB;
+          return isNaN(diff) ? 0 : diff;
+      })
         .slice(0, 3);
 
     const suggestionContainer = document.getElementById('no-results-suggestions');
@@ -2597,9 +2602,7 @@ function refreshMapMarkers() {
     if (totalCount > 60) {
         // Sort restaurants by prominence score: reviews * rating + rating
         const sorted = [...state.mapRestaurants].sort((a, b) => {
-            const scoreA = (a.user_ratings_total || 0) * (parseFloat(a.rating) || 0) + (parseFloat(a.rating) || 0);
-            const scoreB = (b.user_ratings_total || 0) * (parseFloat(b.rating) || 0) + (parseFloat(b.rating) || 0);
-            return scoreB - scoreA;
+            const rA = parseFloat(a.rating); const rB = parseFloat(b.rating); const valA = isNaN(rA) ? 0 : rA; const valB = isNaN(rB) ? 0 : rB; const scoreA = (a.user_ratings_total || 0) * valA + valA; const scoreB = (b.user_ratings_total || 0) * valB + valB; const diff = scoreB - scoreA; if (isNaN(diff)) return 0; return diff;
         });
         sorted.forEach((res, index) => {
             prominenceRanks.set(res.place_id, index);
@@ -2620,9 +2623,7 @@ function refreshMapMarkers() {
         
         if (inViewport.length > 60) {
             inViewport.sort((a, b) => {
-                const rankA = prominenceRanks.has(a.place_id) ? prominenceRanks.get(a.place_id) : Infinity;
-                const rankB = prominenceRanks.has(b.place_id) ? prominenceRanks.get(b.place_id) : Infinity;
-                return rankA - rankB;
+                const rankA = prominenceRanks.has(a.place_id) ? prominenceRanks.get(a.place_id) : 999999; const rankB = prominenceRanks.has(b.place_id) ? prominenceRanks.get(b.place_id) : 999999; const diff = rankA - rankB; if (isNaN(diff)) return 0; return diff;
             });
             allowedPlaceIds = new Set(inViewport.slice(0, 60).map(r => r.place_id));
         }
@@ -2791,6 +2792,9 @@ function getShareUrl() {
 function updateUrl(push = false) {
     const newUrl = getShareUrl();
     if (push) {
+        if (window.location.href === newUrl && window.history.state && window.history.state.view === state.view) {
+            return;
+        }
         window.history.pushState({ view: state.view }, '', newUrl);
     } else {
         window.history.replaceState({ view: state.view }, '', newUrl);
@@ -3134,167 +3138,7 @@ function formatRestaurantName(name) {
 
 
 function patchAiSummary(restaurant, summary) {
-    if (!summary) return '';
-    
-    const hasHighChair = restaurant.attributes && restaurant.attributes.high_chair_available === 'yes';
-    const hasTableware = restaurant.attributes && restaurant.attributes.has_tableware === 'yes';
-    
-    let patched = summary;
-    
-    if (hasHighChair || hasTableware) {
-        const isKidsMenuNo = (restaurant.attributes && restaurant.attributes.kids_menu === 'no') || 
-                             /(?:不|未)提供(?:專屬(?:的)?)?兒童(?:專屬)?餐/.test(patched);
-        
-        // Clean up negative kids menu statements to avoid duplicates
-        const cleanKidsMenuRegex = /(?:不過[，]?|但|且)?\s*(?:店家|官方|餐廳|店內)?\s*(?:目前|明確|官方)?\s*(?:標記顯示|明確表示|明確標示|顯示)?\s*(?:並)?(?:不|未)提供(?:專屬(?:的)?)?兒童(?:專屬)?餐點?[。，]?\s*(?:且|但)?/g;
-        patched = patched.replace(cleanKidsMenuRegex, '');
-
-        const regex1 = /((?:不過|但|且|另外|此外|其實)?\s*(?:，|,|、)?\s*(?:需注意|值得注意(?:的是)?|注意)?\s*(?:，|,|、)?\s*(?:currently|目前)?)\s*(?:顧客)?(?:評論中|店內)?(?:並|尚未)?(未提及|尚未提及|並未提及|較少提及|未特別提及|未及|未提到|較少提及|未多提及)\s*([a-zA-Z0-9\u4e00-\u9fa5、或及與／/]+?)\s*(等[\u4e00-\u9fa5]{0,15}(?:設施|設備|資訊|服務|設備需求|環境|細節|功能|資訊)(?:[\u3002\uff0c\u002c\u002e\s])?)/g;
-        const regex2 = /(?:(?:不過|但|且|另外|此外|其實)?\s*(?:，|,|、)?\s*(?:需注意|值得注意(?:的是)?|注意)?\s*(?:，|,|、)?\s*)?(?:店內)?\s*是否提供\s*([a-zA-Z0-9\u4e00-\u9fa5、或及與／/]+?)\s*(等[\u4e00-\u9fa5]{0,15}(?:設施|設備|資訊|服務|設備需求|環境|細節|功能|資訊)(?:[\uff0c\u002c\s])?)(?:顧客)?(?:評論中|店內)?(?:並|尚未)?(尚未提及|未及|未提及|尚未提及|並未提及|較少提及|未特別提及|未提到)(?:[\u3002\uff0c\u002c\u002e\s])?/g;
-
-        const replacer1 = (match, prefix, verb, listStr, suffix) => {
-            const hasChairMention = /兒童椅|兒童座椅|座椅/.test(listStr);
-            const hasTablewareMention = /兒童餐具|餐具/.test(listStr);
-            const hasDiaperMention = /尿布台/.test(listStr);
-            const hasPlayMention = /遊戲區|遊樂區|遊戲設施/.test(listStr);
-            const hasKidsMenuMention = /兒童餐|兒童餐點|專屬的兒童餐點/.test(listStr);
-
-            let remains = [];
-            if (!isKidsMenuNo && hasKidsMenuMention) remains.push('兒童餐');
-            if (hasDiaperMention) remains.push('尿布台');
-            if (hasPlayMention) remains.push('遊戲區');
-            if (hasChairMention && !hasHighChair) remains.push('兒童椅');
-            if (hasTablewareMention && !hasTableware) remains.push('兒童餐具');
-
-            let shouldHave = '';
-            if (hasHighChair && hasTableware && (hasChairMention || hasTablewareMention)) {
-                shouldHave = '應備有兒童椅與兒童餐具';
-            } else if (hasHighChair && hasChairMention) {
-                shouldHave = '應備有兒童椅';
-            } else if (hasTableware && hasTablewareMention) {
-                shouldHave = '應備有兒童餐具';
-            }
-
-            if (!shouldHave) return match;
-
-            let endPunc = '，';
-            if (/。/.test(suffix)) endPunc = '。';
-            else if (/,/.test(suffix)) endPunc = ',';
-
-            if (isKidsMenuNo) {
-                let remainsStr = '';
-                if (remains.length > 0) {
-                    remainsStr = `，且目前評論中未特別提及${remains.join('與')}等設施`;
-                }
-                return `${shouldHave}，但店家並未提供兒童餐${remainsStr}${endPunc}`;
-            } else {
-                let remainsStr = '';
-                if (remains.length > 0) {
-                    remainsStr = `，但目前評論中未特別提及${remains.join('與')}等設施`;
-                }
-                return `${shouldHave}${remainsStr}${endPunc}`;
-            }
-        };
-
-        const replacer2 = (match, listStr, suffix, verb) => {
-            const hasChairMention = /兒童椅|兒童座椅|座椅/.test(listStr);
-            const hasTablewareMention = /兒童餐具|餐具/.test(listStr);
-            const hasDiaperMention = /尿布台/.test(listStr);
-            const hasPlayMention = /遊戲區|遊樂區|遊戲設施/.test(listStr);
-            const hasKidsMenuMention = /兒童餐|兒童餐點|專屬的兒童餐點/.test(listStr);
-
-            let remains = [];
-            if (!isKidsMenuNo && hasKidsMenuMention) remains.push('兒童餐');
-            if (hasDiaperMention) remains.push('尿布台');
-            if (hasPlayMention) remains.push('遊戲區');
-            if (hasChairMention && !hasHighChair) remains.push('兒童椅');
-            if (hasTablewareMention && !hasTableware) remains.push('兒童餐具');
-
-            let shouldHave = '';
-            if (hasHighChair && hasTableware && (hasChairMention || hasTablewareMention)) {
-                shouldHave = '應備有兒童椅與兒童餐具';
-            } else if (hasHighChair && hasChairMention) {
-                shouldHave = '應備有兒童椅';
-            } else if (hasTableware && hasTablewareMention) {
-                shouldHave = '應備有兒童餐具';
-            }
-
-            if (!shouldHave) return match;
-
-            let endPunc = '，';
-            if (/。/.test(verb)) endPunc = '。';
-            else if (/,/.test(verb)) endPunc = ',';
-
-            if (isKidsMenuNo) {
-                let remainsStr = '';
-                if (remains.length > 0) {
-                    remainsStr = `，且目前評論中未特別提及${remains.join('與')}等設施`;
-                }
-                return `${shouldHave}，但店家並未提供兒童餐${remainsStr}${endPunc}`;
-            } else {
-                let remainsStr = '';
-                if (remains.length > 0) {
-                    remainsStr = `，但目前評論中未特別提及${remains.join('與')}等設施`;
-                }
-                return `${shouldHave}${remainsStr}${endPunc}`;
-            }
-        };
-
-        let beforeReplace = patched;
-        patched = patched.replace(regex1, replacer1);
-        if (patched === beforeReplace) {
-            patched = patched.replace(regex2, replacer2);
-        }
-        
-        if (patched.includes('目前評論中較少提及與親子用餐相關的具體資訊')) {
-            const facilities = [];
-            if (hasHighChair) facilities.push('兒童椅');
-            if (hasTableware) facilities.push('兒童餐具');
-            patched = patched.replace('目前評論中較少提及與親子用餐相關的具體資訊', `應備有${facilities.join('與')}，但目前評論中較少提及相關細節`);
-        }
-    }
-    
-    // --- Generic template summary: append parent-friendly info ---
-    // Detect summaries that are generic food/service templates with no parent-friendly content
-    const parentKeywordRe = /兒童|親子|小孩|小朋友|推車|尿布|遊戲|不怕吵|座椅|餐椅|餐具|兒童餐|高腳椅|適合帶|帶孩子|攜帶幼童|適合兒童|嬰兒/;
-    const isGenericTemplate = /^根據評論分析，/.test(patched) && !parentKeywordRe.test(patched);
-
-    if (isGenericTemplate && restaurant.attributes) {
-        const attrs = restaurant.attributes;
-        const confirmed = [];
-        if (attrs.high_chair_available === 'yes') confirmed.push('兒童椅');
-        if (attrs.has_tableware === 'yes') confirmed.push('兒童餐具');
-        if (attrs.kids_menu === 'yes') confirmed.push('兒童餐');
-        if (attrs.has_diaper_table === 'yes') confirmed.push('尿布台');
-        if (attrs.has_play_area === 'yes') confirmed.push('遊戲區');
-        if (attrs.spacious_seating === 'yes') confirmed.push('寬敞座位');
-        if (attrs.has_private_room === 'yes') confirmed.push('包廂');
-
-        if (confirmed.length > 0 || attrs.kid_noise_tolerant === 'yes') {
-            let infoSentence = '';
-            if (confirmed.length > 0) {
-                const last = confirmed[confirmed.length - 1];
-                const rest = confirmed.slice(0, -1);
-                const listStr = rest.length > 0 ? rest.join('、') + '與' + last : last;
-                infoSentence = `依官方標記，該店備有${listStr}`;
-                if (attrs.kids_menu === 'no') {
-                    infoSentence += '，但不提供兒童餐';
-                }
-                if (attrs.kid_noise_tolerant === 'yes') {
-                    infoSentence += '，環境不怕吵鬧，適合親子用餐';
-                } else {
-                    infoSentence += '，適合親子用餐';
-                }
-            } else if (attrs.kid_noise_tolerant === 'yes') {
-                infoSentence = '依官方標記，該店環境友善，不怕孩子吵鬧，適合親子用餐';
-            }
-            if (infoSentence) {
-                patched = patched.replace(/。\s*$/, '。') + infoSentence + '。';
-            }
-        }
-    }
-
-    return patched;
+    return summary || "";
 }
 
 
