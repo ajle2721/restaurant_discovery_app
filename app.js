@@ -372,6 +372,10 @@ function init() {
             console.error('restaurantData is not loaded. Make sure ai_review/index.js is included.');
         } else {
             console.log('restaurantData loaded successfully, count:', restaurantData.length);
+            const statsEl = document.querySelector('.header-stats');
+            if (statsEl) {
+                statsEl.textContent = `📍 已分析台北市 ${restaurantData.length} 間餐廳，持續更新中`;
+            }
         }
 
         initMap();
