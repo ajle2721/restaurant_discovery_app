@@ -1,16 +1,21 @@
 :root {
     --primary: #FF7E67;
     --primary-light: #FF9B8A;
-    --secondary: #4FB3AA;
-    --bg-color: #F8FAFC;
+    --primary-dark: #E8604A;
+    --secondary: #3CBDB5;
+    --bg-color: #FFF7F4;
     --card-bg: #FFFFFF;
-    --text-main: #1E293B;
-    --text-muted: #64748B;
+    --text-main: #2D3748;
+    --text-muted: #718096;
     --accent: #FFD93D;
+    --primary-wash: #FFF2EF;
+    --border-warm: rgba(255, 126, 103, 0.1);
     --safe-area-inset-top: env(safe-area-inset-top);
     --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-    --shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
-    --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    --shadow: 0 4px 12px rgba(0, 0, 0, 0.07), 0 2px 4px rgba(0, 0, 0, 0.04);
+    --shadow-lg: 0 10px 28px -3px rgba(0, 0, 0, 0.1), 0 4px 8px -2px rgba(0, 0, 0, 0.04);
+    --shadow-warm: 0 4px 16px rgba(255, 126, 103, 0.12), 0 2px 6px rgba(0, 0, 0, 0.04);
+    --shadow-warm-lg: 0 10px 32px rgba(255, 126, 103, 0.18), 0 4px 10px rgba(0, 0, 0, 0.05);
 }
 
 * {
@@ -25,7 +30,7 @@ html {
 }
 
 body {
-    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    font-family: 'Nunito', 'Inter', -apple-system, BlinkMacSystemFont, "PingFang TC", "Noto Sans TC", "Microsoft JhengHei", sans-serif;
     background-color: var(--bg-color);
     color: var(--text-main);
     line-height: 1.5;
@@ -51,13 +56,31 @@ body {
 /* Header & Landing */
 .main-header {
     padding: calc(2.5rem + var(--safe-area-inset-top)) 1.5rem 2.5rem;
-    background: linear-gradient(135deg, var(--primary), var(--primary-light));
+    background: linear-gradient(150deg, #FF5F5F 0%, #FF7E67 50%, #FFAA80 100%);
     color: white;
-    border-radius: 0 0 3rem 3rem;
-    box-shadow: var(--shadow-lg);
+    border-radius: 0 0 3.5rem 3.5rem;
+    box-shadow: 0 8px 32px rgba(255, 107, 107, 0.3), 0 2px 8px rgba(0, 0, 0, 0.08);
     text-align: left;
     position: relative;
     z-index: 200;
+}
+
+.main-header::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 60%;
+    height: 100%;
+    background: radial-gradient(ellipse at 80% 20%, rgba(255, 255, 255, 0.18) 0%, transparent 65%);
+    pointer-events: none;
+    z-index: 0;
+    border-radius: inherit;
+}
+
+.main-header > * {
+    position: relative;
+    z-index: 1;
 }
 
 .main-title {
@@ -291,13 +314,13 @@ body {
 }
 
 .quick-link-item {
-    background: rgba(255, 255, 255, 0.15);
-    border: 1px solid rgba(255, 255, 255, 0.2);
+    background: rgba(255, 255, 255, 0.18);
+    border: 1px solid rgba(255, 255, 255, 0.3);
     color: white;
     padding: 0.5rem 1.1rem;
     border-radius: 2rem;
     font-size: 0.875rem;
-    font-weight: 600;
+    font-weight: 700;
     white-space: nowrap;
     cursor: pointer;
     transition: var(--transition);
@@ -305,10 +328,14 @@ body {
     align-items: center;
     justify-content: center;
     gap: 0.35rem;
+    backdrop-filter: blur(8px);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
 .quick-link-item:hover {
-    background: rgba(255, 255, 255, 0.25);
+    background: rgba(255, 255, 255, 0.28);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
 .quick-link-item.active {
@@ -333,8 +360,9 @@ body {
     align-items: center;
     background: white;
     padding: 0.75rem 1.25rem;
-    border-radius: 1.25rem;
-    box-shadow: var(--shadow);
+    border-radius: 1.5rem;
+    box-shadow: var(--shadow-warm);
+    border: 1px solid rgba(255, 126, 103, 0.08);
 }
 
 #current-search-location {
@@ -396,12 +424,12 @@ body {
     margin: 1.5rem auto 1.5rem;
     width: 100%;
     max-width: 500px;
-    background: rgba(255, 255, 255, 0.12);
-    border-radius: 1.75rem;
-    border: 1px solid rgba(255, 255, 255, 0.2);
-    backdrop-filter: blur(16px);
-    -webkit-backdrop-filter: blur(16px);
-    box-shadow: 0 12px 32px rgba(0, 0, 0, 0.08);
+    background: rgba(255, 255, 255, 0.16);
+    border-radius: 2rem;
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    backdrop-filter: blur(20px) saturate(160%);
+    -webkit-backdrop-filter: blur(20px) saturate(160%);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.06), inset 0 1px 0 rgba(255, 255, 255, 0.35);
     overflow: hidden;
     animation: fadeIn 0.5s ease-out;
 }
@@ -600,10 +628,16 @@ body {
 
 .section-header {
     font-size: 1.1rem;
-    font-weight: 800;
+    font-weight: 900;
     color: var(--text-main);
     margin-bottom: 1rem;
-    padding: 0 0.5rem;
+    padding: 0.25rem 0.75rem;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.4rem;
+    background: var(--primary-wash);
+    border-radius: 2rem;
+    border-left: 3px solid var(--primary);
 }
 
 .toggle-others-btn {
@@ -638,15 +672,16 @@ body {
 }
 
 .fallback-hint {
-    background: #eff6ff;
-    border: 1px solid #bfdbfe;
-    color: #1e40af;
-    padding: 1rem;
-    border-radius: 1rem;
+    background: linear-gradient(135deg, #EFF8FF 0%, #E8F4FF 100%);
+    border: 1px solid #BFDBFE;
+    color: #1D4ED8;
+    padding: 1rem 1.125rem;
+    border-radius: 1.25rem;
     margin: 0 1.5rem 1.5rem;
     font-size: 0.95rem;
     font-weight: 600;
     line-height: 1.5;
+    box-shadow: 0 2px 8px rgba(59, 130, 246, 0.08);
 }
 
 .suggestion-chips {
@@ -913,13 +948,13 @@ body {
 
 .restaurant-card {
     background: var(--card-bg);
-    border-radius: 1.5rem;
+    border-radius: 1.75rem;
     padding: 1.25rem;
     margin-bottom: 1.25rem;
-    box-shadow: var(--shadow);
+    box-shadow: var(--shadow-warm);
     animation: fadeIn 0.4s ease-out forwards;
     transition: var(--transition);
-    border: 1px solid rgba(0, 0, 0, 0.05);
+    border: 1px solid rgba(255, 126, 103, 0.08);
 }
 
 .restaurant-card:active {
@@ -1147,11 +1182,12 @@ body {
 }
 
 .ai-summary {
-    background: #FFF9F0;
-    border-radius: 1.25rem;
-    padding: 1.25rem;
+    background: linear-gradient(135deg, #FFF9F0 0%, #FFF5E8 100%);
+    border-radius: 1.5rem;
+    padding: 1.35rem;
     margin-top: 1.5rem;
-    border: 1px solid #FFE8CC;
+    border: 1px solid #FFE0BC;
+    box-shadow: 0 2px 12px rgba(251, 191, 36, 0.08);
 }
 
 .ai-summary-title {
@@ -1255,10 +1291,12 @@ body {
 .card-summary {
     font-size: 0.9rem;
     color: var(--text-main);
-    background: #f8fafc;
-    padding: 0.75rem;
-    border-radius: 0.75rem;
+    background: #FFF9F7;
+    padding: 0.75rem 0.875rem;
+    border-radius: 1rem;
     margin: 0.75rem 0;
+    border-left: 3px solid rgba(255, 126, 103, 0.25);
+    line-height: 1.55;
 }
 
 .distance-badge {
@@ -1468,6 +1506,8 @@ body {
         max-width: 900px;
         margin-left: auto;
         margin-right: auto;
+        position: relative;
+        z-index: 1;
     }
 
     .trending-section {
@@ -1524,11 +1564,13 @@ body {
     
     .restaurant-card {
         margin-bottom: 2rem;
-        transition: transform 0.2s ease;
+        transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
     }
 
     .restaurant-card:hover {
-        transform: scale(1.01);
+        transform: translateY(-3px) scale(1.005);
+        box-shadow: var(--shadow-warm-lg);
+        border-color: rgba(255, 126, 103, 0.15);
     }
 
     /* Detail View - Center focused */
@@ -1633,15 +1675,16 @@ body {
 }
 
 .features-badge {
-    background: rgba(255, 126, 103, 0.1);
+    background: linear-gradient(135deg, rgba(255, 126, 103, 0.15), rgba(255, 170, 128, 0.15));
     color: var(--primary);
-    padding: 0.4rem 1rem;
+    padding: 0.4rem 1.1rem;
     border-radius: 2rem;
     font-size: 0.85rem;
     font-weight: 800;
     display: inline-block;
     margin-bottom: 0.75rem;
     letter-spacing: 0.05em;
+    border: 1px solid rgba(255, 126, 103, 0.2);
 }
 
 .features-header h2 {
@@ -1668,30 +1711,60 @@ body {
 }
 
 .feature-card {
-    background: var(--card-bg);
+    background: linear-gradient(145deg, #FFFCFB 0%, var(--card-bg) 100%);
     padding: 2.5rem 2rem;
     border-radius: 2rem;
     text-align: center;
     box-shadow: var(--shadow);
-    border: 1px solid rgba(0, 0, 0, 0.03);
+    border: 1px solid rgba(255, 126, 103, 0.07);
     transition: var(--transition);
     cursor: default;
 }
 
 .feature-card:hover {
-    border-color: rgba(255, 126, 103, 0.2);
-    box-shadow: var(--shadow);
+    border-color: rgba(255, 126, 103, 0.18);
+    box-shadow: var(--shadow-warm);
+    transform: translateY(-3px);
+}
+
+.features-section .feature-card:nth-child(2) {
+    background: linear-gradient(145deg, #FFF5F3 0%, #FFFAF8 100%);
+    border-color: rgba(255, 126, 103, 0.1);
+}
+
+.features-section .feature-card:nth-child(3) {
+    background: linear-gradient(145deg, #F0FFFE 0%, #F8FFFE 100%);
+    border-color: rgba(60, 189, 181, 0.1);
+}
+
+.features-section .feature-card:nth-child(4) {
+    background: linear-gradient(145deg, #FFFBF0 0%, #FFFEF8 100%);
+    border-color: rgba(255, 204, 47, 0.12);
 }
 
 .feature-icon {
-    font-size: 3rem;
-    margin-bottom: 1.25rem;
-    display: block;
+    font-size: 2.5rem;
+    margin: 0 auto 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 5rem;
+    height: 5rem;
+    border-radius: 1.5rem;
+    background: rgba(255, 126, 103, 0.1);
+}
+
+.features-section .feature-card:nth-child(3) .feature-icon {
+    background: rgba(60, 189, 181, 0.1);
+}
+
+.features-section .feature-card:nth-child(4) .feature-icon {
+    background: rgba(255, 204, 47, 0.14);
 }
 
 .feature-card h3 {
     font-size: 1.35rem;
-    font-weight: 800;
+    font-weight: 900;
     color: var(--text-main);
     margin-bottom: 0.75rem;
     letter-spacing: -0.01em;

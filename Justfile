@@ -1,6 +1,6 @@
 set shell := ["bash", "-cu"]
 
-port := "8080"
+port := "8000"
 
 default:
   @just --list
