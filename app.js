@@ -1,4 +1,4 @@
-﻿const WEB3FORMS_ACCESS_KEY = "c7b3994f-f590-4126-a12f-111c28c58a19";
+const WEB3FORMS_ACCESS_KEY = "c7b3994f-f590-4126-a12f-111c28c58a19";
 
 const state = {
     filters: new Set(),
@@ -88,6 +88,21 @@ function isInAppBrowser() {
            uaLower.includes('instagram') || 
            uaLower.includes('micromessenger') || // WeChat
            uaLower.includes('pxbrowser');
+}
+
+function safeScrollIntoView(element) {
+    if (!element) return;
+    try {
+        const isApp = isInAppBrowser();
+        element.scrollIntoView({ behavior: isApp ? 'auto' : 'smooth', block: 'start' });
+    } catch (e) {
+        console.warn('scrollIntoView failed, falling back to basic scroll', e);
+        try {
+            element.scrollIntoView(true);
+        } catch (err) {
+            console.error('Basic scrollIntoView failed:', err);
+        }
+    }
 }
 
 
@@ -1395,9 +1410,9 @@ function selectLocation(loc, source = 'other', pushState = true) {
             if (source !== 'url_sync') {
                 const searchCard = document.querySelector('.main-search-card');
                 if (searchCard) {
-                    searchCard.scrollIntoView({ behavior: 'smooth' });
+                    safeScrollIntoView(searchCard);
                 } else {
-                    searchResultsView.scrollIntoView({ behavior: 'smooth' });
+                    safeScrollIntoView(searchResultsView);
                 }
             }
         }, 120);
@@ -1408,9 +1423,9 @@ function selectLocation(loc, source = 'other', pushState = true) {
         if (source !== 'url_sync') {
             const searchCard = document.querySelector('.main-search-card');
             if (searchCard) {
-                searchCard.scrollIntoView({ behavior: 'smooth' });
+                safeScrollIntoView(searchCard);
             } else {
-                searchResultsView.scrollIntoView({ behavior: 'smooth' });
+                safeScrollIntoView(searchResultsView);
             }
         }
     }
@@ -1512,6 +1527,11 @@ async function renderResults() {
 
         const center = state.searchLocation;
         if (!center) return;
+
+        if (typeof restaurantData === 'undefined' || !restaurantData) {
+            console.error('restaurantData is missing');
+            return;
+        }
 
         // 1. Calculate distances
         let restaurants = restaurantData.map(res => ({
@@ -1982,7 +2002,7 @@ function focusOnMap(e, placeId) {
         }
         
         // Directly and reliably scroll the viewport using scrollIntoView
-        resultsView.scrollIntoView({ behavior: 'smooth' });
+        safeScrollIntoView(resultsView);
     }
 }
 
@@ -2355,14 +2375,25 @@ function renderMap(restaurants) {
     // Store restaurants for progressive zoom-based rendering
     state.mapRestaurants = restaurants;
     
-    const bounds = [];
+    let minLat = Infinity, maxLat = -Infinity;
+    let minLng = Infinity, maxLng = -Infinity;
+    let hasPoints = false;
+    
     const isWholeCity = state.searchLocation && (state.searchLocation.type === '全市' || state.searchLocation.name === '整個台北市');
     if (state.searchLocation && !isWholeCity) {
-        bounds.push([state.searchLocation.lat, state.searchLocation.lng]);
+        const lat = state.searchLocation.lat;
+        const lng = state.searchLocation.lng;
+        if (typeof lat === 'number' && typeof lng === 'number' && !isNaN(lat) && !isNaN(lng)) {
+            minLat = Math.min(minLat, lat);
+            maxLat = Math.max(maxLat, lat);
+            minLng = Math.min(minLng, lng);
+            maxLng = Math.max(maxLng, lng);
+            hasPoints = true;
+        }
     }
     
     restaurants.forEach(res => {
-        if (res.latitude && res.longitude) {
+        if (typeof res.latitude === 'number' && typeof res.longitude === 'number' && !isNaN(res.latitude) && !isNaN(res.longitude)) {
             const status = getDynamicStatus(res, state.filters);
             const level = status.level;
             const isLowQuality = (level === 'Insufficient Info' || level === 'Needs Attention');
@@ -2370,12 +2401,38 @@ function renderMap(restaurants) {
             // Skip if user wants to hide low quality markers
             if (state.hideLowQualityMarkers && isLowQuality) return;
 
-            bounds.push([res.latitude, res.longitude]);
+            minLat = Math.min(minLat, res.latitude);
+            maxLat = Math.max(maxLat, res.latitude);
+            minLng = Math.min(minLng, res.longitude);
+            maxLng = Math.max(maxLng, res.longitude);
+            hasPoints = true;
         }
     });
 
-    if (bounds.length > 0) {
-        state.map.fitBounds(bounds, { padding: [50, 50], maxZoom: 16 });
+    if (hasPoints && minLat !== Infinity) {
+        const mapSize = state.map.getSize();
+        if (mapSize.x > 0 && mapSize.y > 0) {
+            try {
+                if (minLat === maxLat && minLng === maxLng) {
+                    state.map.setView([minLat, minLng], 15);
+                } else {
+                    const southWest = L.latLng(minLat, minLng);
+                    const northEast = L.latLng(maxLat, maxLng);
+                    const boundsObj = L.latLngBounds(southWest, northEast);
+                    state.map.fitBounds(boundsObj, { padding: [50, 50], maxZoom: 16 });
+                }
+            } catch (e) {
+                console.error('fitBounds / setView failed:', e);
+                if (state.searchLocation) {
+                    state.map.setView([state.searchLocation.lat, state.searchLocation.lng], 15);
+                }
+            }
+        } else {
+            console.warn('Map container has 0 size, using setView fallback');
+            if (state.searchLocation) {
+                state.map.setView([state.searchLocation.lat, state.searchLocation.lng], 15);
+            }
+        }
     } else if (state.searchLocation) {
         state.map.setView([state.searchLocation.lat, state.searchLocation.lng], 15);
     }
@@ -2399,7 +2456,13 @@ function refreshMapMarkers() {
     if (!state.map || !state.mapRestaurants) return;
 
     // Clear existing markers
-    state.markers.forEach(m => state.map.removeLayer(m));
+    state.markers.forEach(m => {
+        try {
+            state.map.removeLayer(m);
+        } catch (e) {
+            console.warn('Failed to remove marker layer:', e);
+        }
+    });
     state.markers = [];
     state.markerMap = {};
 
@@ -2412,8 +2475,21 @@ function refreshMapMarkers() {
     };
 
     const isWholeCity = state.searchLocation && (state.searchLocation.type === '全市' || state.searchLocation.name === '整個台北市');
-    const zoom = state.map.getZoom();
-    const mapBounds = state.map.getBounds();
+    
+    let zoom = 13;
+    try {
+        zoom = state.map.getZoom();
+    } catch (e) {
+        console.warn('Failed to get map zoom:', e);
+    }
+
+    let mapBounds = null;
+    try {
+        mapBounds = state.map.getBounds();
+    } catch (e) {
+        console.warn('Failed to get map bounds:', e);
+    }
+
     const totalCount = state.mapRestaurants.length;
 
     // 1. Render Search Center Pin
@@ -2474,9 +2550,31 @@ function refreshMapMarkers() {
         });
     }
 
+    // Pre-calculate top 60 viewport-contained markers at zoom >= 14 to prevent OOM / CPU crash
+    let allowedPlaceIds = null;
+    if (totalCount > 60 && zoom >= 14 && mapBounds && typeof mapBounds.contains === 'function') {
+        const inViewport = state.mapRestaurants.filter(res => {
+            if (typeof res.latitude !== 'number' || typeof res.longitude !== 'number' || isNaN(res.latitude) || isNaN(res.longitude)) return false;
+            const status = getDynamicStatus(res, state.filters);
+            const level = status.level;
+            const isLowQuality = (level === 'Insufficient Info' || level === 'Needs Attention');
+            if (state.hideLowQualityMarkers && isLowQuality) return false;
+            return mapBounds.contains([res.latitude, res.longitude]);
+        });
+        
+        if (inViewport.length > 60) {
+            inViewport.sort((a, b) => {
+                const rankA = prominenceRanks.has(a.place_id) ? prominenceRanks.get(a.place_id) : Infinity;
+                const rankB = prominenceRanks.has(b.place_id) ? prominenceRanks.get(b.place_id) : Infinity;
+                return rankA - rankB;
+            });
+            allowedPlaceIds = new Set(inViewport.slice(0, 60).map(r => r.place_id));
+        }
+    }
+
     // 2. Filter mapRestaurants by zoom level and viewport bounds if count is large (> 60)
     const filteredRestaurants = state.mapRestaurants.filter(res => {
-        if (!res.latitude || !res.longitude) return false;
+        if (typeof res.latitude !== 'number' || typeof res.longitude !== 'number' || isNaN(res.latitude) || isNaN(res.longitude)) return false;
 
         const status = getDynamicStatus(res, state.filters);
         const level = status.level;
@@ -2487,7 +2585,7 @@ function refreshMapMarkers() {
 
         // Progressive filtering logic based on zoom levels (Google Maps style - prominence-based)
         if (totalCount > 60) {
-            const rank = prominenceRanks.get(res.place_id);
+            const rank = prominenceRanks.has(res.place_id) ? prominenceRanks.get(res.place_id) : Infinity;
             if (zoom <= 11) {
                 // Show only top 15 most prominent matching restaurants
                 return rank < 15;
@@ -2498,8 +2596,13 @@ function refreshMapMarkers() {
                 // Show top 60 most prominent matching restaurants
                 return rank < 60;
             } else if (zoom >= 14) {
-                // Show all categories, but ONLY if they are within current map viewport bounds
-                return mapBounds.contains([res.latitude, res.longitude]);
+                if (allowedPlaceIds) {
+                    return allowedPlaceIds.has(res.place_id);
+                }
+                if (mapBounds && typeof mapBounds.contains === 'function') {
+                    return mapBounds.contains([res.latitude, res.longitude]);
+                }
+                return false;
             }
         }
         return true;
@@ -2539,38 +2642,42 @@ function refreshMapMarkers() {
             popupAnchor: [0, -30]
         });
 
-        const marker = L.marker([markerLat, markerLng], {
-            icon: pinIcon
-        }).addTo(state.map);
-        
-        const times = (!isWholeCity) ? calculateTravelTimes(res.distance) : null;
+        try {
+            const marker = L.marker([markerLat, markerLng], {
+                icon: pinIcon
+            }).addTo(state.map);
+            
+            const times = (!isWholeCity) ? calculateTravelTimes(res.distance) : null;
 
-        marker.bindPopup(`<div class="map-popup-compact">
-            <div class="map-popup-title-row">
-                <span class="map-popup-name">${formatRestaurantName(res.name)}</span>
-                <span class="map-popup-rating">⭐${res.rating}</span>
-            </div>
-            <div class="map-popup-meta-row">
-                <span class="map-popup-level-tag" style="background: ${color}">${status.label}</span>
-                ${times ? `<span class="map-popup-time-mini">🚶${times.walking}分鐘 · 🚗${times.driving}分鐘</span>` : ''}
-            </div>
-            <div class="map-popup-address">📍 ${fixSimplifiedAddress(res.address)}</div>
-            <button class="map-popup-action" onclick="showDetailFromMap('${res.place_id}')">查看詳情</button>
-        </div>`, { 
-            maxWidth: 240,
-            autoPanPadding: L.point(20, 20)
-        });
-
-        marker.on('click', () => {
-            trackEvent('click_map_restaurant', {
-                restaurant_name: res.name,
-                recommendation_level: levelLabels[res.parent_friendly_level] || res.parent_friendly_level,
-                location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
+            marker.bindPopup(`<div class="map-popup-compact">
+                <div class="map-popup-title-row">
+                    <span class="map-popup-name">${formatRestaurantName(res.name)}</span>
+                    <span class="map-popup-rating">⭐${res.rating}</span>
+                </div>
+                <div class="map-popup-meta-row">
+                    <span class="map-popup-level-tag" style="background: ${color}">${status.label}</span>
+                    ${times ? `<span class="map-popup-time-mini">🚶${times.walking}分鐘 · 🚗${times.driving}分鐘</span>` : ''}
+                </div>
+                <div class="map-popup-address">📍 ${fixSimplifiedAddress(res.address)}</div>
+                <button class="map-popup-action" onclick="showDetailFromMap('${res.place_id}')">查看詳情</button>
+            </div>`, { 
+                maxWidth: 240,
+                autoPanPadding: L.point(20, 20)
             });
-        });
 
-        state.markers.push(marker);
-        state.markerMap[res.place_id] = marker;
+            marker.on('click', () => {
+                trackEvent('click_map_restaurant', {
+                    restaurant_name: res.name,
+                    recommendation_level: levelLabels[res.parent_friendly_level] || res.parent_friendly_level,
+                    location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
+                });
+            });
+
+            state.markers.push(marker);
+            state.markerMap[res.place_id] = marker;
+        } catch (err) {
+            console.error('Failed to add marker for restaurant:', res.name, err);
+        }
     });
 }
 
