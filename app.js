@@ -3121,19 +3121,15 @@ function fixSimplifiedAddress(addr) {
 
 function formatRestaurantName(name) {
     if (!name) return '';
-    // Split by parenthesized parts, or delimiters (space, dash, colon, slash, pipe)
-    const parts = name.split(/([\(\[【（].*?[\)\]】）]|[ \-－—:：\/／\|｜])/g).filter(p => p !== '');
+    // Simply wrap parenthesized parts in a span, leave everything else alone.
+    const parts = name.split(/([\(\[【（].*?[\)\]】）])/g).filter(p => p !== '');
     
     return parts.map(part => {
-        if (/^[ \-－—:：\/／\|｜]$/.test(part)) return part;
         if (/^[\(\[【（].*?[\)\]】）]$/.test(part)) {
-            return `<span class="no-wrap">${part}</span>`;
+            return '<span class="res-branch-tag">' + part + '</span>';
         }
-        if (part.length > 0 && part.length <= 12) {
-            return `<span class="no-wrap">${part}</span>`;
-        }
-        return part;
-    }).join('<wbr>');
+        return part; // No <wbr>, no <span class="no-wrap"> to prevent Chromium line-breaker crash!
+    }).join('');
 }
 
 
