@@ -1,4 +1,4 @@
-Successfully matched and replaced a block! Successfully matched and replaced a block! Successfully matched and replaced a block! Successfully matched and replaced a block! Successfully matched and replaced a block! Successfully matched and replaced a block! Successfully matched and replaced a block! const WEB3FORMS_ACCESS_KEY = "c7b3994f-f590-4126-a12f-111c28c58a19";
+﻿const WEB3FORMS_ACCESS_KEY = "c7b3994f-f590-4126-a12f-111c28c58a19";
 
 const state = {
     filters: new Set(),
@@ -626,10 +626,7 @@ function setupEventListeners() {
     // Sharing
     if (floatShareBtn) floatShareBtn.addEventListener('click', shareCurrentFilters);
     detailShareBtn.addEventListener('click', () => {
-        if (state.selectedRestaurant) {
-            trackEvent('share_restaurant_detail', { restaurant_name: state.selectedRestaurant.name });
-            shareRestaurant(state.selectedRestaurant);
-        }
+        if (state.selectedRestaurant) shareRestaurant(state.selectedRestaurant);
     });
 
     // Detail Favorite Button
@@ -679,7 +676,6 @@ function setupEventListeners() {
 
     if (floatShortlistBtn) {
         floatShortlistBtn.addEventListener('click', () => {
-            trackEvent('open_shortlist_drawer');
             shortlistDrawer.classList.add('active');
             shortlistDrawerOverlay.classList.add('active');
             renderShortlistDrawer();
@@ -762,7 +758,6 @@ function setupEventListeners() {
 
     if (tabList && tabCompare) {
         tabList.addEventListener('click', () => {
-            trackEvent('switch_shortlist_tab', { tab_name: 'list' });
             tabList.classList.add('active');
             tabCompare.classList.remove('active');
             document.getElementById('shortlist-list-view').classList.add('active');
@@ -771,7 +766,6 @@ function setupEventListeners() {
         });
 
         tabCompare.addEventListener('click', () => {
-            trackEvent('switch_shortlist_tab', { tab_name: 'compare' });
             tabCompare.classList.add('active');
             tabList.classList.remove('active');
             document.getElementById('shortlist-compare-view').classList.add('active');
@@ -782,7 +776,6 @@ function setupEventListeners() {
 
     if (clearShortlistBtn) {
         clearShortlistBtn.addEventListener('click', () => {
-            trackEvent('clear_shortlist');
             if (confirm('確定要清空口袋名單中的所有餐廳嗎？')) {
                 state.favorites.clear();
                 saveFavorites();
@@ -806,7 +799,6 @@ function setupEventListeners() {
 
     if (shareShortlistBtn) {
         shareShortlistBtn.addEventListener('click', () => {
-            trackEvent('share_shortlist', { restaurant_count: state.favorites.size });
             if (state.favorites.size === 0) return;
             const favIds = Array.from(state.favorites).join(',');
             const shareUrl = new URL(window.location.href.split('?')[0]);
@@ -1220,7 +1212,6 @@ async function geocodeAddress(query) {
 // Main custom search handler
 async function executeSearch(query) {
     if (!query) return;
-    trackEvent('search_keyword', { keyword: query });
 
     // Dismiss dropdown
     autocompleteDropdown.classList.add('hidden');
@@ -1937,7 +1928,7 @@ function renderCard(res, container, overrideLevel) {
         try {
             trackEvent('click_restaurant_card', {
                 restaurant_name: res.name,
-                ui_source: 'list_card'
+                source: 'list_card'
             });
         } catch (err) {}
         
@@ -2209,7 +2200,6 @@ function renderDetailContent(restaurant) {
 
     if (btnHelpful) {
         btnHelpful.onclick = () => {
-            trackEvent('click_ai_summary_helpful', { restaurant_name: restaurant.name });
             feedbackOptions.classList.add('hidden');
             feedbackThankYou.classList.remove('hidden');
             submitAiFeedback(true, [], '', '', restaurant);
@@ -2218,7 +2208,6 @@ function renderDetailContent(restaurant) {
 
     if (btnUnhelpful) {
         btnUnhelpful.onclick = () => {
-            trackEvent('click_ai_summary_unhelpful', { restaurant_name: restaurant.name });
             feedbackOptions.classList.add('hidden');
             feedbackFormContainer.classList.remove('hidden');
         };
@@ -2592,7 +2581,7 @@ window.showDetailFromMap = (id) => {
         const level = res.dynamicLevel || res.parent_friendly_level;
         trackEvent('view_restaurant_detail', {
             restaurant_name: res.name,
-            ui_source: 'map_card',
+            source: 'map_card',
             recommendation_level: levelLabels[level] || level,
             location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
         });
@@ -3636,7 +3625,6 @@ async function handleFeedbackSubmit(e) {
     }
     
     try {
-        trackEvent('submit_feedback', { restaurant_name: restaurantName });
         if (submitBtn) {
             submitBtn.disabled = true;
             submitBtn.innerHTML = '⌛ 提交中...';
@@ -3763,7 +3751,6 @@ function setupPwaInstallPrompt() {
 
     if (cancelBtn) {
         cancelBtn.addEventListener('click', () => {
-            trackEvent('cancel_pwa_install');
             if (promptEl) promptEl.classList.remove('show');
             // Store that prompt was dismissed so we don't bug them again in the future
             localStorage.setItem('pwa_prompt_dismissed', 'true');
@@ -3773,7 +3760,6 @@ function setupPwaInstallPrompt() {
 
     if (installBtn) {
         installBtn.addEventListener('click', () => {
-            trackEvent('install_pwa');
             const ua = navigator.userAgent;
             const isIOS = /iPad|iPhone|iPod/.test(ua) && !window.MSStream;
             const isAndroid = /Android/.test(ua);
