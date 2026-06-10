@@ -1,4 +1,4 @@
-﻿{
+{
     " child_seat available":  {
                                   "evidence":  "Google 摰?餉??拙??咱?券?",
                                   "result":  "Yes",
@@ -20,9 +20,9 @@
                                "confidence":  0.8
                            },
     "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
+                          "result":  "Yes",
+                          "evidence":  "使用者回報與人工校正：親子友善有小小孩遊樂區",
+                          "confidence":  1.0
                       },
     "has_private_room":  {
                              "result":  "Unknown",

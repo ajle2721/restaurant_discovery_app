@@ -1,4 +1,4 @@
-﻿{
+{
     " child_seat available":  {
                                   "result":  "Yes",
                                   "evidence":  "使用者回報與人工校正：有提供兒童餐椅",
@@ -35,10 +35,10 @@
                           "confidence":  1.0
                       },
     "has_diaper_table":  {
-                             "result":  "No",
-                             "evidence":  "使用者回報與人工校正：街邊店無尿布台，商場分店可使用商場公共尿布台設施",
-                             "confidence":  1.0
-                         },
+                              "result":  "Unknown",
+                              "evidence":  "使用者回報與人工校正：北護店尿布台狀況未明，改標為未知",
+                              "confidence":  1.0
+                          },
     "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。店內貼心備有兒童座椅與專用餐具。",
     "card_summary":  "",
     "generated_signals":  [
