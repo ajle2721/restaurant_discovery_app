@@ -379,7 +379,8 @@ const noResultsState = document.getElementById('no-results');
 
 function isAreaSearchLocation(loc) {
     if (!loc) return false;
-    if (loc.type === '特定餐廳' || loc.type === '關鍵字搜尋') return false;
+    if (loc.place_id || loc.type === '特定餐廳') return false;
+    if (loc.type === '關鍵字搜尋' || loc.type === '自訂地點') return true;
     if (state.locationData && state.locationData.some(l => l.name === loc.name)) return true;
     return loc.type === '目前位置' || loc.type === '全市';
 }
@@ -1367,7 +1368,6 @@ async function executeSearch(query) {
                 type: '關鍵字搜尋',
                 keyword: query
             };
-            showToast(`找到 ${localMatches.length} 間相關餐廳`);
             selectLocation(customLoc, 'local_keyword_search');
             return;
         }
@@ -3871,6 +3871,45 @@ if (!safeSession.getItem('pwa_session_start_time')) {
 }
 let pwaSessionStartTime = parseInt(safeSession.getItem('pwa_session_start_time'), 10);
 
+function getPwaBrowserContext() {
+    const ua = navigator.userAgent || '';
+    const isIOS = /iPad|iPhone|iPod/.test(ua) && !window.MSStream;
+    const isAndroid = /Android/.test(ua);
+    const isIOSSafari = isIOS && /WebKit/.test(ua) && !/CriOS/.test(ua) && !/FxiOS/.test(ua) && !/EdgiOS/.test(ua) && !/GSA/.test(ua) && !/Line\//.test(ua) && !/FBAV/.test(ua) && !/FBAN/.test(ua) && !/Instagram/.test(ua);
+    const isIOSChrome = isIOS && /CriOS/.test(ua);
+    const isIOSInApp = isIOS && !isIOSSafari && !isIOSChrome;
+    const isAndroidInApp = isAndroid && /Line\/|FBAV|FBAN|Instagram|MicroMessenger/.test(ua);
+    return { ua, isIOS, isAndroid, isIOSSafari, isIOSChrome, isIOSInApp, isAndroidInApp };
+}
+
+function showPwaPrompt() {
+    const promptEl = document.getElementById('pwa-install-prompt');
+    if (!promptEl || promptEl.classList.contains('show')) return;
+
+    promptEl.classList.remove('hidden');
+    setTimeout(() => {
+        promptEl.classList.add('show');
+    }, 50);
+}
+
+function showPwaSafariInstallGuideline() {
+    const promptEl = document.getElementById('pwa-install-prompt');
+    const cancelBtn = document.getElementById('pwa-btn-cancel');
+    const installBtn = document.getElementById('pwa-btn-install');
+    if (!promptEl) return;
+
+    const iosGuideline = promptEl.querySelector('.pwa-ios-guideline');
+    const browserGuideline = promptEl.querySelector('.pwa-browser-guideline');
+    const descEl = promptEl.querySelector('.pwa-prompt-desc');
+
+    if (browserGuideline) browserGuideline.classList.add('hidden');
+    if (iosGuideline) iosGuideline.classList.remove('hidden');
+    if (installBtn) installBtn.style.display = 'none';
+    if (cancelBtn) cancelBtn.textContent = '我知道了';
+    if (descEl) descEl.textContent = '依照下方導引，即可將此網頁加入主畫面。';
+    promptEl.dataset.pwaMode = 'safari-guideline';
+}
+
 function setupPwaInstallPrompt() {
     // 1. Register Service Worker
     if ('serviceWorker' in navigator) {
@@ -3950,6 +3989,20 @@ function setupPwaInstallPrompt() {
                 return arr.map((s, i) =>
                     `<div class="pwa-step"><span class="pwa-step-num">${i + 1}</span><span class="pwa-step-desc">${s}</span></div>`
                 ).join('');
+            }
+
+            if (isIOSChrome) {
+                const browserGuideline = promptEl.querySelector('.pwa-browser-guideline');
+                const browserText = promptEl.querySelector('.pwa-browser-text');
+                if (browserGuideline && browserText) {
+                    browserText.innerHTML = steps([
+                        '點右上角的分享或選單按鈕',
+                        '選擇「在 Safari 中開啟」',
+                        'Safari 開啟後，會立刻出現加入主畫面的步驟'
+                    ]);
+                    showGuideline(browserGuideline, '請先用 Safari 開啟：', true);
+                }
+                return;
             }
 
             if (isIOSSafari) {
@@ -4051,8 +4104,8 @@ function setupPwaInstallPrompt() {
     // 5. Setup a periodic check for the duration trigger (every 10 seconds)
     setInterval(checkPwaInstallTrigger, 10000);
     
-    // Check immediately on load (especially for ?open_pwa=1 redirects)
-    setTimeout(checkPwaInstallTrigger, 1000);
+    // Check immediately on load (especially for ?open_pwa=1 Safari handoffs)
+    setTimeout(checkPwaInstallTrigger, 100);
 }
 
 function checkPwaInstallTrigger() {
@@ -4089,17 +4142,19 @@ function checkPwaInstallTrigger() {
     // Evaluate triggers (mobile only)
     const visitCount = parseInt(safeLocal.getItem('pwa_visit_count') || '0', 10);
     const sessionDuration = (Date.now() - pwaSessionStartTime) / 1000; // in seconds
+    const pwaContext = getPwaBrowserContext();
 
-    // Show if: forced, OR 3rd+ visit, OR used continuously for 60+ seconds
-    const shouldShow = forceShow || (visitCount >= 3) || (sessionDuration >= 60);
+    // Show if: forced from a browser handoff, OR used continuously for 60+ seconds.
+    // Do not use visit count as an early trigger: on iOS Chrome this made the prompt
+    // appear almost immediately for returning users.
+    const shouldShow = forceShow || (sessionDuration >= 60);
 
     if (shouldShow && !promptEl.classList.contains('show')) {
         console.log(`Triggering PWA install prompt: visits=${visitCount}, duration=${sessionDuration.toFixed(1)}s, forceShow=${forceShow}`);
-        promptEl.classList.remove('hidden');
-        // Let it render first, then add class for transition
-        setTimeout(() => {
-            promptEl.classList.add('show');
-        }, 50);
+        showPwaPrompt();
+        if (forceShow && pwaContext.isIOSSafari) {
+            setTimeout(showPwaSafariInstallGuideline, 80);
+        }
     }
 }
 
