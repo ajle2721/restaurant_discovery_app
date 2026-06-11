@@ -59,13 +59,18 @@ function getAiAttributes(aiReview, response) {
   let diaper_table = normalizeResult(aiReview.has_diaper_table?.result);
 
   // If yes result is purely from Google Maps attributes override in evaluate_reviews_llm.py, demote to "likely"
+  const isGoogleEvidence = (evidence) => {
+    if (!evidence) return false;
+    return String(evidence).trim().toLowerCase().startsWith("google");
+  };
+
   const isGoogleOnlyHighChair = high_chair === "yes" && 
-    (aiReview[" child_seat available"]?.evidence === "Google 官方登記適合兒童用餐" ||
-     aiReview["child_seat available"]?.evidence === "Google 官方登記適合兒童用餐" ||
-     aiReview["High chair available"]?.evidence === "Google 官方登記適合兒童用餐");
+    (isGoogleEvidence(aiReview[" child_seat available"]?.evidence) ||
+     isGoogleEvidence(aiReview["child_seat available"]?.evidence) ||
+     isGoogleEvidence(aiReview["High chair available"]?.evidence));
 
   const isGoogleOnlyTableware = tableware === "yes" && 
-    aiReview.has_tableware?.evidence === "Google 官方登記適合兒童用餐";
+    isGoogleEvidence(aiReview.has_tableware?.evidence);
 
   if (isGoogleOnlyHighChair) high_chair = "likely";
   if (isGoogleOnlyTableware) tableware = "likely";
