@@ -1,4 +1,4 @@
-﻿:root {
+:root {
     --primary: #F6846F;
     --primary-light: #FBC1B4;
     --primary-dark: #DF6B55;
@@ -241,6 +241,10 @@ body {
     color: var(--secondary);
     border: 1px dashed var(--secondary);
     opacity: 0.9;
+}
+
+.tag.likely sup {
+    line-height: 0;
 }
 
 .tag.likely.matched {
