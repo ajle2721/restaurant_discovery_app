@@ -90,7 +90,8 @@ body {
     margin-bottom: 0.5rem;
     letter-spacing: -0.02em;
     line-height: 1.1;
-    text-wrap: balance;
+    overflow-wrap: anywhere;
+    word-break: normal;
 }
 
 .subtitle {
@@ -98,7 +99,8 @@ body {
     opacity: 0.9;
     margin-bottom: 0.75rem;
     font-weight: 500;
-    text-wrap: balance;
+    overflow-wrap: anywhere;
+    word-break: normal;
 }
 
 .header-stats {
@@ -832,7 +834,8 @@ body {
     font-size: 0.95rem;
     color: var(--text-main);
     line-height: 1.3;
-    text-wrap: balance;
+    overflow-wrap: anywhere;
+    word-break: normal;
 }
 
 .map-popup-rating {
@@ -1004,7 +1007,8 @@ body {
     font-weight: 700;
     margin-bottom: 0.25rem;
     color: var(--text-main);
-    text-wrap: balance;
+    overflow-wrap: anywhere;
+    word-break: normal;
 }
 
 .decision-summary {
@@ -1218,7 +1222,8 @@ body {
 }
 
 .detail-content h1 {
-    text-wrap: balance;
+    overflow-wrap: anywhere;
+    word-break: normal;
 }
 
 .ai-summary {
