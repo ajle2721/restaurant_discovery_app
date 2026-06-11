@@ -778,12 +778,16 @@ function setupEventListeners() {
     const tabList = document.getElementById('tab-list');
     const tabCompare = document.getElementById('tab-compare');
     const clearShortlistBtn = document.getElementById('btn-clear-shortlist');
+    const expandComparisonBtn = document.getElementById('btn-expand-comparison');
+    const comparisonModalOverlay = document.getElementById('comparison-modal-overlay');
+    const closeComparisonModalBtn = document.getElementById('close-comparison-modal');
 
     if (floatShortlistBtn) {
         floatShortlistBtn.addEventListener('click', () => {
             shortlistDrawer.classList.add('active');
             shortlistDrawerOverlay.classList.add('active');
             renderShortlistDrawer();
+            syncComparisonExpandButton();
         });
     }
 
@@ -792,6 +796,7 @@ function setupEventListeners() {
             shortlistDrawer.classList.remove('active');
             shortlistDrawerOverlay.classList.remove('active');
             shortlistDrawer.classList.remove('full-height');
+            closeComparisonModal();
         });
     }
 
@@ -800,6 +805,7 @@ function setupEventListeners() {
             shortlistDrawer.classList.remove('active');
             shortlistDrawerOverlay.classList.remove('active');
             shortlistDrawer.classList.remove('full-height');
+            closeComparisonModal();
         });
     }
 
@@ -868,6 +874,7 @@ function setupEventListeners() {
             document.getElementById('shortlist-list-view').classList.add('active');
             document.getElementById('shortlist-compare-view').classList.remove('active');
             renderShortlistDrawer();
+            syncComparisonExpandButton();
         });
 
         tabCompare.addEventListener('click', () => {
@@ -876,8 +883,27 @@ function setupEventListeners() {
             document.getElementById('shortlist-compare-view').classList.add('active');
             document.getElementById('shortlist-list-view').classList.remove('active');
             renderShortlistDrawer();
+            syncComparisonExpandButton();
         });
     }
+
+    if (expandComparisonBtn) {
+        expandComparisonBtn.addEventListener('click', openComparisonModal);
+    }
+
+    if (comparisonModalOverlay) {
+        comparisonModalOverlay.addEventListener('click', closeComparisonModal);
+    }
+
+    if (closeComparisonModalBtn) {
+        closeComparisonModalBtn.addEventListener('click', closeComparisonModal);
+    }
+
+    document.addEventListener('keydown', (e) => {
+        if (e.key === 'Escape') closeComparisonModal();
+    });
+
+    window.addEventListener('resize', syncComparisonExpandButton);
 
     if (clearShortlistBtn) {
         clearShortlistBtn.addEventListener('click', () => {
@@ -3327,6 +3353,78 @@ function saveFavorites() {
     }
 }
 
+function syncComparisonExpandButton() {
+    const expandComparisonBtn = document.getElementById('btn-expand-comparison');
+    if (!expandComparisonBtn) return;
+
+    const compareView = document.getElementById('shortlist-compare-view');
+    const shortlistDrawer = document.getElementById('shortlist-drawer');
+    const isDesktop = window.matchMedia('(min-width: 768px)').matches;
+    const shouldShow = isDesktop
+        && state.favorites.size > 0
+        && shortlistDrawer
+        && shortlistDrawer.classList.contains('active')
+        && compareView
+        && compareView.classList.contains('active');
+
+    expandComparisonBtn.classList.toggle('hidden', !shouldShow);
+}
+
+function wireComparisonTableActions(root) {
+    if (!root) return;
+
+    root.querySelectorAll('.comparison-table-del').forEach(btn => {
+        btn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            toggleFavorite(btn.dataset.placeId);
+            refreshComparisonModal();
+        });
+    });
+}
+
+function openComparisonModal() {
+    const compareView = document.getElementById('shortlist-compare-view');
+    const modal = document.getElementById('comparison-modal');
+    const overlay = document.getElementById('comparison-modal-overlay');
+    const body = document.getElementById('comparison-modal-body');
+
+    if (!compareView || !modal || !overlay || !body || state.favorites.size === 0) return;
+
+    if (!compareView.classList.contains('active')) {
+        return;
+    }
+
+    body.innerHTML = compareView.innerHTML;
+    wireComparisonTableActions(body);
+    overlay.classList.add('active');
+    modal.classList.add('active');
+    document.body.classList.add('modal-open');
+}
+
+function refreshComparisonModal() {
+    const modal = document.getElementById('comparison-modal');
+    if (!modal || !modal.classList.contains('active')) return;
+
+    if (state.favorites.size === 0) {
+        closeComparisonModal();
+        return;
+    }
+
+    renderShortlistDrawer();
+    openComparisonModal();
+}
+
+function closeComparisonModal() {
+    const modal = document.getElementById('comparison-modal');
+    const overlay = document.getElementById('comparison-modal-overlay');
+    const body = document.getElementById('comparison-modal-body');
+
+    if (modal) modal.classList.remove('active');
+    if (overlay) overlay.classList.remove('active');
+    if (body) body.innerHTML = '';
+    document.body.classList.remove('modal-open');
+}
+
 function updateShortlistUI() {
     const floatShortlistBtn = document.getElementById('float-shortlist');
     const shortlistCountBadge = document.getElementById('shortlist-count');
@@ -3371,6 +3469,7 @@ function updateShortlistUI() {
             shareShortlistBtn.classList.add('hidden');
         }
     }
+    syncComparisonExpandButton();
 }
 
 function toggleFavorite(placeId, event) {
@@ -3435,6 +3534,7 @@ function renderShortlistDrawer() {
         `;
         listView.innerHTML = emptyHtml;
         compareView.innerHTML = emptyHtml;
+        syncComparisonExpandButton();
         return;
     }
 
@@ -3617,6 +3717,8 @@ function renderShortlistDrawer() {
             });
         });
     }
+
+    syncComparisonExpandButton();
 }
 
 // Feedback Modal functions
@@ -3889,10 +3991,45 @@ function showPwaPrompt() {
     const promptEl = document.getElementById('pwa-install-prompt');
     if (!promptEl || promptEl.classList.contains('show')) return;
 
+    preparePwaPromptForCurrentBrowser();
     promptEl.classList.remove('hidden');
     setTimeout(() => {
         promptEl.classList.add('show');
     }, 50);
+}
+
+function preparePwaPromptForCurrentBrowser() {
+    const promptEl = document.getElementById('pwa-install-prompt');
+    const cancelBtn = document.getElementById('pwa-btn-cancel');
+    const installBtn = document.getElementById('pwa-btn-install');
+    if (!promptEl) return;
+
+    const context = getPwaBrowserContext();
+    const titleEl = promptEl.querySelector('.pwa-prompt-title');
+    const descEl = promptEl.querySelector('.pwa-prompt-desc');
+    const iosGuideline = promptEl.querySelector('.pwa-ios-guideline');
+    const browserGuideline = promptEl.querySelector('.pwa-browser-guideline');
+
+    if (iosGuideline) iosGuideline.classList.add('hidden');
+    if (browserGuideline) browserGuideline.classList.add('hidden');
+    if (cancelBtn) cancelBtn.textContent = '下次再說';
+    if (installBtn) {
+        installBtn.style.display = '';
+        installBtn.textContent = '立即加入';
+    }
+    if (titleEl) titleEl.textContent = '將「帶小孩吃什麼」加入主畫面';
+
+    if (context.isAndroid && deferredPrompt) {
+        if (descEl) descEl.textContent = '按下「立即加入」後，瀏覽器會跳出加入主畫面的確認視窗。';
+        promptEl.dataset.pwaMode = 'android-native';
+    } else if (context.isAndroid) {
+        if (descEl) descEl.textContent = '請使用瀏覽器選單中的「新增至主畫面」或「安裝應用程式」。';
+        if (installBtn) installBtn.textContent = '查看步驟';
+        promptEl.dataset.pwaMode = 'android-guideline';
+    } else {
+        if (descEl) descEl.textContent = '下次查詢更快速，還能享有全螢幕的體驗！';
+        promptEl.dataset.pwaMode = 'default';
+    }
 }
 
 function showPwaSafariInstallGuideline() {
@@ -3939,6 +4076,7 @@ function setupPwaInstallPrompt() {
         // Stash the event so it can be triggered later
         deferredPrompt = e;
         console.log('beforeinstallprompt event captured');
+        preparePwaPromptForCurrentBrowser();
         
         // Check triggers when the browser says app is installable
         checkPwaInstallTrigger();
@@ -3992,6 +4130,35 @@ function setupPwaInstallPrompt() {
                 return arr.map((s, i) =>
                     `<div class="pwa-step"><span class="pwa-step-num">${i + 1}</span><span class="pwa-step-desc">${s}</span></div>`
                 ).join('');
+            }
+
+            if (isAndroid && deferredPrompt) {
+                deferredPrompt.prompt();
+                deferredPrompt.userChoice.then((choiceResult) => {
+                    if (choiceResult.outcome === 'accepted') {
+                        safeLocal.setItem('pwa_prompt_dismissed', 'true');
+                        console.log('User accepted the PWA install prompt');
+                    } else {
+                        console.log('User dismissed the PWA install prompt');
+                    }
+                    deferredPrompt = null;
+                });
+                if (promptEl) promptEl.classList.remove('show');
+                return;
+            }
+
+            if (isAndroid && !isAndroidInApp) {
+                const browserGuideline = promptEl.querySelector('.pwa-browser-guideline');
+                const browserText = promptEl.querySelector('.pwa-browser-text');
+                if (browserGuideline && browserText) {
+                    browserText.innerHTML = steps([
+                        '點擊右上角瀏覽器選單「⋮」',
+                        '選擇「<strong>新增至主畫面</strong>」或「<strong>安裝應用程式</strong>」',
+                        '依照瀏覽器畫面確認即可完成'
+                    ]);
+                    showGuideline(browserGuideline, '這個瀏覽器目前沒有提供一鍵安裝視窗，請依照下方步驟加入主畫面。');
+                }
+                return;
             }
 
             if (isIOSChrome) {
