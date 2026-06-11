@@ -2111,6 +2111,11 @@ function renderDetailContent(restaurant) {
         }
     } else if (state.searchLocation && restaurant.latitude && restaurant.longitude) {
         dist = calculateDistance(state.searchLocation.lat, state.searchLocation.lng, restaurant.latitude, restaurant.longitude);
+        if (state.searchLocation.type === '行政區') {
+            originLabel = `「${state.searchLocation.name}中心點」`;
+        } else {
+            originLabel = `「${state.searchLocation.name}」`;
+        }
     }
     if (restaurant.ai_summary && !restaurant._ai_summary_patched) {
         restaurant.ai_summary = patchAiSummary(restaurant, restaurant.ai_summary);
@@ -2228,7 +2233,7 @@ function renderDetailContent(restaurant) {
 
         <div class="ai-summary" style="margin-bottom: 1.5rem;">
             <div class="ai-summary-title">親子用餐摘要（AI根據公開評論整理）</div>
-            <div class="ai-summary-text">${restaurant.ai_summary || '目前尚無摘要資訊。'}</div>
+            <div class="ai-summary-text">${(restaurant.ai_summary || '目前尚無摘要資訊。').replace(/\n/g, '<br>')}</div>
         </div>
         
         <div class="detail-feedback-section" id="ai-summary-feedback-container" style="margin-top: 1.5rem; margin-bottom: 1.5rem; border-top: 1px solid #e2e8f0; padding-top: 1.25rem;">
@@ -3183,7 +3188,35 @@ function formatRestaurantName(name) {
 
 
 function patchAiSummary(restaurant, summary) {
-    return summary || "";
+    const attrs = restaurant.attributes || {};
+
+    // Detect facilities that are only "likely" (inferred from Google good-for-children, not review-confirmed)
+    const likelyFacilities = [];
+    if (attrs.high_chair_available === 'likely') likelyFacilities.push('兒童椅');
+    if (attrs.has_tableware === 'likely') likelyFacilities.push('兒童餐具');
+
+    // If no likely-only items, return summary unchanged
+    if (likelyFacilities.length === 0) return summary || '';
+
+    // Collect confirmed (yes) facilities to naturally weave in
+    const confirmedParts = [];
+    if (attrs.kids_menu === 'yes') confirmedParts.push('提供兒童餐');
+    if (attrs.has_diaper_table === 'yes') confirmedParts.push('設有尿布台');
+    if (attrs.has_play_area === 'yes') confirmedParts.push('設有遊樂區');
+    if (attrs.has_private_room === 'yes') confirmedParts.push('可包廂');
+    if (attrs.spacious_seating === 'yes') confirmedParts.push('座位較寬敞');
+    if (attrs.kid_noise_tolerant === 'yes') confirmedParts.push('環境不怕吵鬧');
+
+    const likelyStr = likelyFacilities.join('與');
+    let note = `此餐廳 Google Maps 官方標記為「適合兒童」，系統推估可能備有${likelyStr}（標示為「估」），但評論中未有明確提及，建議前往前先向店家確認。`;
+
+    if (confirmedParts.length > 0) {
+        note += `此外，此店${confirmedParts.join('、')}。`;
+    }
+
+    if (!summary || !summary.trim()) return note;
+    // Prepend the standardized note, then keep the original AI summary for extra context
+    return note + '\n\n' + summary;
 }
 
 
