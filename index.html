@@ -105,6 +105,9 @@
                         <button class="filter-chip" data-filter="has_play_area">🧸 有遊樂區</button>
                         <button class="filter-chip" data-filter="has_private_room">🚪 包廂或可包場</button>
                     </div>
+                    <div id="btn-show-results-container" style="margin-top: 1.25rem; text-align: center; display: none;">
+                        <button id="btn-show-results" class="btn-nearby">查看結果</button>
+                    </div>
                 </div>
             </div>
         </header>
@@ -140,6 +143,7 @@
                         <div id="active-filters-bar" class="active-filters-bar-compact hidden"></div>
                     </div>
                     <div class="status-actions" style="display: flex; gap: 0.75rem; align-items: center;">
+                        <button id="modify-search" class="btn-text" style="color: var(--primary);">修改條件</button>
                         <button id="reset-search" class="btn-text">重新搜尋</button>
                     </div>
                 </div>

@@ -1,21 +1,21 @@
 :root {
-    --primary: #F49D8C;
-    --primary-light: #FBC5B9;
-    --primary-dark: #DF7B66;
-    --secondary: #3CBDB5;
-    --bg-color: #FFF7F4;
+    --primary: #F6846F;
+    --primary-light: #FBC1B4;
+    --primary-dark: #DF6B55;
+    --secondary: #30B3A9;
+    --bg-color: #FFF6F3;
     --card-bg: #FFFFFF;
     --text-main: #2D3748;
     --text-muted: #718096;
-    --accent: #FFD93D;
-    --primary-wash: #FFF2EF;
-    --border-warm: rgba(244, 157, 140, 0.1);
+    --accent: #FFC72C;
+    --primary-wash: #FFF1EE;
+    --border-warm: rgba(246, 132, 111, 0.18);
     --safe-area-inset-top: env(safe-area-inset-top);
     --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     --shadow: 0 4px 12px rgba(0, 0, 0, 0.07), 0 2px 4px rgba(0, 0, 0, 0.04);
     --shadow-lg: 0 10px 28px -3px rgba(0, 0, 0, 0.1), 0 4px 8px -2px rgba(0, 0, 0, 0.04);
-    --shadow-warm: 0 4px 16px rgba(244, 157, 140, 0.12), 0 2px 6px rgba(0, 0, 0, 0.04);
-    --shadow-warm-lg: 0 10px 32px rgba(244, 157, 140, 0.18), 0 4px 10px rgba(0, 0, 0, 0.05);
+    --shadow-warm: 0 4px 16px rgba(246, 132, 111, 0.18), 0 2px 6px rgba(0, 0, 0, 0.04);
+    --shadow-warm-lg: 0 10px 32px rgba(246, 132, 111, 0.25), 0 4px 10px rgba(0, 0, 0, 0.05);
 }
 
 * {
@@ -56,10 +56,10 @@ body {
 /* Header & Landing */
 .main-header {
     padding: calc(2.5rem + var(--safe-area-inset-top)) 1.5rem 2.5rem;
-    background: linear-gradient(150deg, #F99B9B 0%, #F49D8C 50%, #FCD0B4 100%);
+    background: linear-gradient(135deg, #F87373 0%, #F6846F 50%, #FBC19B 100%);
     color: white;
     border-radius: 0 0 3.5rem 3.5rem;
-    box-shadow: 0 8px 32px rgba(244, 157, 140, 0.3), 0 2px 8px rgba(0, 0, 0, 0.08);
+    box-shadow: 0 8px 32px rgba(246, 132, 111, 0.35), 0 2px 8px rgba(0, 0, 0, 0.08);
     text-align: left;
     position: relative;
     z-index: 200;
@@ -425,14 +425,32 @@ body {
     margin: 1.5rem auto 1.5rem;
     width: 100%;
     max-width: 500px;
-    background: rgba(255, 255, 255, 0.16);
+    background: rgba(255, 255, 255, 0.22);
     border-radius: 2rem;
-    border: 1px solid rgba(255, 255, 255, 0.3);
+    border: 1px solid rgba(255, 255, 255, 0.45);
     backdrop-filter: blur(20px) saturate(160%);
     -webkit-backdrop-filter: blur(20px) saturate(160%);
-    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1), 0 8px 16px rgba(0, 0, 0, 0.06), inset 0 1px 0 rgba(255, 255, 255, 0.35);
+    box-shadow: 0 20px 45px rgba(0, 0, 0, 0.12), 0 8px 18px rgba(0, 0, 0, 0.06), inset 0 1px 0 rgba(255, 255, 255, 0.4);
     overflow: hidden;
     animation: fadeIn 0.5s ease-out;
+}
+
+/* Specific styling for Show Results Button to ensure high contrast against the coral background */
+#btn-show-results {
+    width: 100%;
+    max-width: 300px;
+    background: #FFFFFF;
+    color: var(--primary-dark);
+    font-weight: 800;
+    box-shadow: 0 8px 25px rgba(246, 132, 111, 0.35), 0 4px 10px rgba(0, 0, 0, 0.1);
+    transition: var(--transition);
+}
+
+#btn-show-results:hover {
+    background: #FFEAE5;
+    color: var(--primary-dark);
+    transform: translateY(-2px);
+    box-shadow: 0 12px 30px rgba(246, 132, 111, 0.45), 0 6px 15px rgba(0, 0, 0, 0.15);
 }
 
 .search-widget-section {
@@ -636,7 +654,7 @@ body {
     display: inline-flex;
     align-items: center;
     gap: 0.4rem;
-    background: var(--primary-wash);
+    background: transparent;
     border-radius: 2rem;
     border-left: 3px solid var(--primary);
 }
@@ -2825,6 +2843,11 @@ body {
     border-radius: 0 0 1.5rem 1.5rem;
 }
 
+/* Header completely collapsed state (User explicitly clicked View Results) */
+.header-collapsed .main-header {
+    display: none !important;
+}
+
 /* Active filter indicators in sticky status bar */
 .active-filters-bar-compact {
     display: flex;
@@ -3069,5 +3092,19 @@ body {
     background-color: var(--primary);
     color: white;
     box-shadow: 0 4px 10px rgba(255, 126, 103, 0.2);
+}
+
+
+.results-refreshing {
+    opacity: 0.4;
+    pointer-events: none;
+    transition: opacity 0.2s ease-out;
+}
+
+#modify-search {
+    display: none;
+}
+.header-collapsed #modify-search {
+    display: block;
 }
 

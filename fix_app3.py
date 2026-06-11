@@ -1,7 +1,9 @@
-﻿const fs = require('fs');
-const app = fs.readFileSync('app.js', 'utf8');
+﻿import os
 
-const replacement =             } else {
+with open('app.js', 'r', encoding='utf-8') as f:
+    app_js = f.read()
+
+replacement = r'''            } else {
                 safeScrollIntoView(searchResultsView);
             }
         }
@@ -96,7 +98,7 @@ async function renderResults() {
                     const label = attributeLabels[f] || f;
                     const indicator = document.createElement('span');
                     indicator.className = 'filter-indicator-mini';
-                    indicator.innerHTML = \\ \\;
+                    indicator.innerHTML = f"{icon} {label}";
                     activeFiltersBar.appendChild(indicator);
                 });
             } else {
@@ -204,7 +206,7 @@ async function renderResults() {
         if (recommended.length > state.recommendedLimit) {
             const loadMoreBtn = document.createElement('button');
             loadMoreBtn.className = 'btn-load-more';
-            loadMoreBtn.textContent = '\\u8f09\\u5165\\u66f4\\u591a\\u63a8\\u85a6';
+            loadMoreBtn.textContent = '載入更多推薦';
             loadMoreBtn.addEventListener('click', () => {
                 trackEvent('click_load_more_recommended', {
                     current_limit: state.recommendedLimit,
@@ -225,7 +227,7 @@ async function renderResults() {
             if (others.length > state.othersLimit) {
                 const loadMoreBtn = document.createElement('button');
                 loadMoreBtn.className = 'btn-load-more';
-                loadMoreBtn.textContent = '\\u8f09\\u5165\\u66f4\\u591a\\u9078\\u9805';
+                loadMoreBtn.textContent = '載入更多選項';
                 loadMoreBtn.addEventListener('click', () => {
                     trackEvent('click_load_more_others', {
                         current_limit: state.othersLimit,
@@ -250,7 +252,7 @@ async function renderResults() {
                 if (fullyMatchingCount === 0) {
                     msg = '找不到完全符合篩選條件的餐廳。';
                 } else {
-                    msg = \此區域附近完全符合條件的選擇較少（僅 \ 間）。\;
+                    msg = "此區域附近完全符合條件的選擇較少（僅 " + fullyMatchingCount + " 間）。";
                 }
 
                 // Check what else is available
@@ -272,63 +274,36 @@ async function renderResults() {
                 let expandHtml = '';
                 if (!isWholeCity) {
                     if (!state.expandedRadius) {
-                        expandHtml = \或者，您可以嘗試 <a href="#" id="btn-expand-search" style="color: #2563eb; text-decoration: underline; cursor: pointer; font-weight: 700; margin-left: 2px;">擴大搜尋範圍</a>。\;
+                        expandHtml = '或者，您可以嘗試 <a href="#" id="btn-expand-search" style="color: #2563eb; text-decoration: underline; cursor: pointer; font-weight: 700; margin-left: 2px;">擴大搜尋範圍</a>。';
                     } else {
-                        expandHtml = \（已擴大搜尋範圍）\;
+                        expandHtml = '（已擴大搜尋範圍）';
                     }
                 }
-;
+'''
 
-const badPart =             } else {
-                safeScrollIntoView(searchResultsView);
-            }
-        }
-    }
-    updateQuickLinksUI();
-}
+# We need to insert this into app_js right before:
+#                fallbackHint.innerHTML = ${msg};
 
-function calculatePersonalizedScore(res) {
-    if (!state.filters || state.filters.size === 0) {; // no need to replace the whole thing if I can just find the insertion point
+# So let's replace the small snippet around it.
+import re
 
-const insertionPoint1 =             } else {
-                safeScrollIntoView(searchResultsView);
-            }
-        }
-    }
-    updateQuickLinksUI();
-};
+# find the exact string that is currently there:
+target_regex = re.compile(r"(\s*safeScrollIntoView\(searchCard\);\s*)(fallbackHint\.innerHTML = \$\{msg\}\$\{recommendation\}\$\{expandHtml\};)")
+match = target_regex.search(app_js)
 
-const insertionPoint2 =                 fallbackHint.innerHTML = \\\\\;
-                fallbackHint.classList.remove('hidden');;
-
-// The app currently has the gap removed. So we find insertion point before         if (source !== 'url_sync') {
-// Wait, in the corrupted app.js, it looks like this:
-/*
-    } else {
-        renderResults();
-        updateUrl(pushState);
-        
-        if (source !== 'url_sync') {
-            const searchCard = document.querySelector('.main-search-card');
-            if (searchCard) {
-                safeScrollIntoView(searchCard);
-                fallbackHint.innerHTML = \\\\\;
-*/
-
-// So I should replace this exact block:
-const badBlock =             if (searchCard) {
-                safeScrollIntoView(searchCard);
-                fallbackHint.innerHTML = \\\\\\\\\\\\\\\;; // wait, better use exact string from readFileSync
-
-const regex = /safeScrollIntoView\(searchCard\);\s+fallbackHint\.innerHTML =/g;
-if (regex.test(app)) {
-    console.log("Match found! Replacing...");
-    const fixed = app.replace("                safeScrollIntoView(searchCard);\r\n                fallbackHint.innerHTML =", "                safeScrollIntoView(searchCard);\r\n" + replacement + "\r\n                fallbackHint.innerHTML =");
-    fs.writeFileSync('app.js', fixed);
-    console.log("Fixed!");
-} else {
-    // try different line endings
-    const fixed2 = app.replace("                safeScrollIntoView(searchCard);\\n                fallbackHint.innerHTML =", "                safeScrollIntoView(searchCard);\\n" + replacement + "\\n                fallbackHint.innerHTML =");
-    fs.writeFileSync('app.js', fixed2);
-}
+if match:
+    new_app = app_js[:match.start(2)] + replacement + app_js[match.start(2):]
+    with open('app.js', 'w', encoding='utf-8') as f:
+        f.write(new_app)
+    print("Fixed!")
+else:
+    print("Not found! Let's just find the fallbackHint line")
+    idx = app_js.find("fallbackHint.innerHTML = ${msg};")
+    if idx != -1:
+        new_app = app_js[:idx] + replacement + app_js[idx:]
+        with open('app.js', 'w', encoding='utf-8') as f:
+            f.write(new_app)
+        print("Fixed fallback!")
+    else:
+        print("Still not found!")
 

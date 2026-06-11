@@ -1,4 +1,4 @@
-const WEB3FORMS_ACCESS_KEY = "c7b3994f-f590-4126-a12f-111c28c58a19";
+﻿const WEB3FORMS_ACCESS_KEY = "c7b3994f-f590-4126-a12f-111c28c58a19";
 
 const safeSession = {
     getItem(key) {
@@ -44,6 +44,7 @@ const state = {
     filters: new Set(),
     searchLocation: null, // {name, lat, lng, type, district}
     userLocation: null, // {lat, lng}
+    lastGeographicLocation: null, // {name, lat, lng, type, district}
     selectedRestaurant: null,
     view: 'home', // 'home', 'detail'
     map: null,
@@ -628,6 +629,7 @@ function setupEventListeners() {
     resetSearchBtn.addEventListener('click', () => {
         state.searchLocation = null;
         state.userLocation = null;
+        state.lastGeographicLocation = null;
         state.filters.clear();
         state.hideLowQualityMarkers = true; // Reset to default: hide low quality
         state.showOthers = false; // Reset to default: hide others list
@@ -653,10 +655,36 @@ function setupEventListeners() {
         if (featuresSection) featuresSection.classList.remove('hidden');
         document.querySelector('.main-header').style.display = 'block';
         homeView.classList.remove('search-active');
+        homeView.classList.remove('header-collapsed');
+        const btnShowResultsContainer = document.getElementById('btn-show-results-container');
+        if (btnShowResultsContainer) btnShowResultsContainer.style.display = 'none';
         window.scrollTo({ top: 0, behavior: 'smooth' });
         updateUrl(true);
         updateQuickLinksUI();
     });
+
+    // Show Results Button
+    const btnShowResults = document.getElementById('btn-show-results');
+    if (btnShowResults) {
+        btnShowResults.addEventListener('click', () => {
+            homeView.classList.add('header-collapsed');
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+            setTimeout(() => {
+                if (window.map) {
+                    window.map.invalidateSize();
+                }
+            }, 300);
+        });
+    }
+
+    // Modify Search Button
+    const modifySearchBtn = document.getElementById('modify-search');
+    if (modifySearchBtn) {
+        modifySearchBtn.addEventListener('click', () => {
+            homeView.classList.remove('header-collapsed');
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+    }
 
     // Navigation
     backHomeBtn.addEventListener('click', () => {
@@ -1395,6 +1423,9 @@ function handleNearby() {
 
 function selectLocation(loc, source = 'other', pushState = true) {
     state.searchLocation = loc;
+    if (loc && loc.type !== '特定餐廳') {
+        state.lastGeographicLocation = loc;
+    }
     state.showOthers = false; // Reset to only show High+Medium results on new search
     state.expandedRadius = false; // Reset search range expansion
     state.recommendedLimit = 30; // Reset pagination limit
@@ -1629,7 +1660,7 @@ async function renderResults() {
             const mB = b.dynamicStatus.matchCount || 0;
             if (mA !== mB) return mB - mA;
 
-            const diff = (a.distance || 0) - (b.distance || 0); return isNaN(diff) ? 0 : diff; // Tertiarily sort by distance
+            return (a.distance || 0) - (b.distance || 0); // Tertiarily sort by distance (nearest first)
         });
 
         // 4. Split and Render
@@ -1645,6 +1676,13 @@ async function renderResults() {
         }
 
         state.currentResults = sorted; 
+
+        const btnShowResultsContainer = document.getElementById('btn-show-results-container');
+        const btnShowResults = document.getElementById('btn-show-results');
+        if (btnShowResultsContainer && btnShowResults) {
+            btnShowResultsContainer.style.display = 'block';
+            btnShowResults.textContent = `查看 ${exactMatches.length} 間餐廳`;
+        }
 
         // Render recommended cards up to the recommendedLimit
         const visibleRecommended = recommended.slice(0, state.recommendedLimit);
@@ -1783,12 +1821,7 @@ function handleNoResults(center) {
     // Find suggestions: closest districts or landmarks
     const suggestions = state.locationData
         .filter(l => l.name !== center.name)
-        .sort((a, b) => {
-          const dA = calculateDistance(center.lat, center.lng, a.lat, a.lng);
-          const dB = calculateDistance(center.lat, center.lng, b.lat, b.lng);
-          const diff = dA - dB;
-          return isNaN(diff) ? 0 : diff;
-      })
+        .sort((a, b) => calculateDistance(center.lat, center.lng, a.lat, a.lng) - calculateDistance(center.lat, center.lng, b.lat, b.lng))
         .slice(0, 3);
 
     const suggestionContainer = document.getElementById('no-results-suggestions');
@@ -2061,6 +2094,24 @@ function focusOnMap(e, placeId) {
 window.focusRestaurantOnMap = focusOnMap; // For backward compatibility if any
 
 function renderDetailContent(restaurant) {
+    let dist = undefined;
+    let originLabel = '';
+    const isSpecificRestaurant = state.searchLocation && state.searchLocation.type === '特定餐廳';
+    if (isSpecificRestaurant) {
+        if (state.userLocation) {
+            dist = calculateDistance(state.userLocation.lat, state.userLocation.lng, restaurant.latitude, restaurant.longitude);
+            originLabel = '目前位置';
+        } else if (state.lastGeographicLocation) {
+            dist = calculateDistance(state.lastGeographicLocation.lat, state.lastGeographicLocation.lng, restaurant.latitude, restaurant.longitude);
+            if (state.lastGeographicLocation.type === '行政區') {
+                originLabel = `「${state.lastGeographicLocation.name}中心點」`;
+            } else {
+                originLabel = `「${state.lastGeographicLocation.name}」`;
+            }
+        }
+    } else if (state.searchLocation && restaurant.latitude && restaurant.longitude) {
+        dist = calculateDistance(state.searchLocation.lat, state.searchLocation.lng, restaurant.latitude, restaurant.longitude);
+    }
     if (restaurant.ai_summary && !restaurant._ai_summary_patched) {
         restaurant.ai_summary = patchAiSummary(restaurant, restaurant.ai_summary);
         restaurant._ai_summary_patched = true;
@@ -2117,27 +2168,10 @@ function renderDetailContent(restaurant) {
         }
     }
 
-    let dist = restaurant.distance;
-    if (dist === undefined && state.searchLocation && restaurant.latitude && restaurant.longitude) {
-        dist = calculateDistance(state.searchLocation.lat, state.searchLocation.lng, restaurant.latitude, restaurant.longitude);
-    }
-    const isWholeCity = state.searchLocation && (state.searchLocation.type === '全市' || state.searchLocation.name === '整個台北市');
-    const times = (!isWholeCity && dist) ? calculateTravelTimes(dist) : null;
+    const isWholeCity = !isSpecificRestaurant && state.searchLocation && (state.searchLocation.type === '全市' || state.searchLocation.name === '整個台北市');
+    const times = (!isWholeCity && dist !== undefined) ? calculateTravelTimes(dist) : null;
     let timeHtml = '';
     if (times) {
-        const startLocName = state.searchLocation ? state.searchLocation.name : '';
-        const startLocType = state.searchLocation ? state.searchLocation.type : '';
-        const isNearby = startLocName === '我附近' || startLocType === '目前位置';
-        
-        let originLabel = '';
-        if (isNearby) {
-            originLabel = '目前位置';
-        } else if (startLocType === '行政區') {
-            originLabel = `「${startLocName}中心點」`;
-        } else {
-            originLabel = `「${startLocName}」`;
-        }
-
         timeHtml = `
             <div style="display: flex; gap: 0.5rem; margin-bottom: 1.5rem; flex-wrap: wrap;">
                 <span style="background: #f1f5f9; padding: 0.25rem 0.6rem; border-radius: 2rem; font-size: 0.75rem; font-weight: 600; color: #475569;">🚶/🚗 從${originLabel}步行約 ${times.walking} 分鐘、開車約 ${times.driving} 分鐘</span>
@@ -2602,7 +2636,9 @@ function refreshMapMarkers() {
     if (totalCount > 60) {
         // Sort restaurants by prominence score: reviews * rating + rating
         const sorted = [...state.mapRestaurants].sort((a, b) => {
-            const rA = parseFloat(a.rating); const rB = parseFloat(b.rating); const valA = isNaN(rA) ? 0 : rA; const valB = isNaN(rB) ? 0 : rB; const scoreA = (a.user_ratings_total || 0) * valA + valA; const scoreB = (b.user_ratings_total || 0) * valB + valB; const diff = scoreB - scoreA; if (isNaN(diff)) return 0; return diff;
+            const scoreA = (a.user_ratings_total || 0) * (parseFloat(a.rating) || 0) + (parseFloat(a.rating) || 0);
+            const scoreB = (b.user_ratings_total || 0) * (parseFloat(b.rating) || 0) + (parseFloat(b.rating) || 0);
+            return scoreB - scoreA;
         });
         sorted.forEach((res, index) => {
             prominenceRanks.set(res.place_id, index);
@@ -2623,7 +2659,9 @@ function refreshMapMarkers() {
         
         if (inViewport.length > 60) {
             inViewport.sort((a, b) => {
-                const rankA = prominenceRanks.has(a.place_id) ? prominenceRanks.get(a.place_id) : 999999; const rankB = prominenceRanks.has(b.place_id) ? prominenceRanks.get(b.place_id) : 999999; const diff = rankA - rankB; if (isNaN(diff)) return 0; return diff;
+                const rankA = prominenceRanks.has(a.place_id) ? prominenceRanks.get(a.place_id) : Infinity;
+                const rankB = prominenceRanks.has(b.place_id) ? prominenceRanks.get(b.place_id) : Infinity;
+                return rankA - rankB;
             });
             allowedPlaceIds = new Set(inViewport.slice(0, 60).map(r => r.place_id));
         }
@@ -3121,15 +3159,19 @@ function fixSimplifiedAddress(addr) {
 
 function formatRestaurantName(name) {
     if (!name) return '';
-    // Simply wrap parenthesized parts in a span, leave everything else alone.
-    const parts = name.split(/([\(\[【（].*?[\)\]】）])/g).filter(p => p !== '');
+    // Split by parenthesized parts, or delimiters (space, dash, colon, slash, pipe)
+    const parts = name.split(/([\(\[【（].*?[\)\]】）]|[ \-－—:：\/／\|｜])/g).filter(p => p !== '');
     
     return parts.map(part => {
+        if (/^[ \-－—:：\/／\|｜]$/.test(part)) return part;
         if (/^[\(\[【（].*?[\)\]】）]$/.test(part)) {
-            return '<span class="res-branch-tag">' + part + '</span>';
+            return `<span class="no-wrap">${part}</span>`;
         }
-        return part; // No <wbr>, no <span class="no-wrap"> to prevent Chromium line-breaker crash!
-    }).join('');
+        if (part.length > 0 && part.length <= 12) {
+            return `<span class="no-wrap">${part}</span>`;
+        }
+        return part;
+    }).join('<wbr>');
 }
 
 
