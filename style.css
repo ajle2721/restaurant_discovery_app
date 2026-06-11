@@ -2080,6 +2080,8 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    flex-wrap: wrap;
+    gap: 0.75rem;
     border-bottom: 1px solid rgba(0, 0, 0, 0.05);
 }
 
@@ -2087,12 +2089,14 @@ body {
     display: flex;
     align-items: center;
     gap: 0.5rem;
+    min-width: 0;
 }
 
 .drawer-title {
     font-size: 1.25rem;
     font-weight: 800;
     color: var(--text-main);
+    white-space: nowrap;
 }
 
 .drawer-icon {
@@ -2111,7 +2115,10 @@ body {
 .drawer-actions {
     display: flex;
     align-items: center;
-    gap: 0.75rem;
+    justify-content: flex-end;
+    gap: 0.5rem;
+    margin-left: auto;
+    flex-wrap: nowrap;
 }
 
 .btn-clear-all {
@@ -2124,6 +2131,12 @@ body {
     font-weight: 700;
     cursor: pointer;
     transition: var(--transition);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.25rem;
+    line-height: 1;
+    white-space: nowrap;
 }
 
 @media (hover: hover) {
@@ -2144,6 +2157,12 @@ body {
     font-weight: 700;
     cursor: pointer;
     transition: var(--transition);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.25rem;
+    line-height: 1;
+    white-space: nowrap;
 }
 
 @media (hover: hover) {
@@ -2586,6 +2605,19 @@ body {
 
     .drawer.active {
         transform: translateY(0);
+    }
+
+    .drawer-header {
+        align-items: flex-start;
+    }
+
+    .drawer-title-area {
+        flex: 1 1 150px;
+    }
+
+    .drawer-actions {
+        flex: 1 0 100%;
+        justify-content: flex-end;
     }
 }
 
