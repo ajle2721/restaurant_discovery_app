@@ -1,7 +1,7 @@
 {
     " child_seat available": {
-        "evidence": "Google 摰?餉??拙??咱?券?",
         "result": "Yes",
+        "evidence": "使用者回報與人工校正：Woosa 各分店皆提供兒童椅。",
         "confidence": 1
     },
     "Spacious seating": {
@@ -30,8 +30,8 @@
         "confidence": 0.4
     },
     "has_tableware": {
-        "evidence": "Google 摰?餉??拙??咱?券?",
         "result": "Yes",
+        "evidence": "使用者回報與人工校正：Woosa 各分店皆提供兒童餐具。",
         "confidence": 1
     },
     "has_diaper_table": {
@@ -44,8 +44,9 @@
     "reason": "人工校正與AI綜合評估",
     "generated_signals": [
         "位於百貨公司/商場/大樓內，可使用商場/大樓附設之尿布台",
-        "Google 摰?餉??拙??咱?券?"
+        "Google 摰?餉??拙??咱?券?",
+        "使用者回報與人工校正：Woosa 各分店皆提供兒童椅與兒童餐具。"
     ],
-    "generated_summary": "這家餐廳提供兒童座椅、兒童餐具、可使用商場附設之尿布台、環境氣氛適合帶小孩。目前評論中較少提及其他親子用餐的具體細節，建議前往前可先向店家確認。",
-    "card_summary": ""
+    "generated_summary": "根據人工校正與評論分析，Woosa 各分店皆備有兒童椅與兒童餐具，鬆餅、洋食餐點與甜點適合親子共享；店內環境適合家庭用餐，建議尖峰時段可先訂位或避開候位。",
+    "card_summary": "備有兒童椅與兒童餐具，鬆餅與洋食餐點適合親子共享。"
 }

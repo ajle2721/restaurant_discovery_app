@@ -377,6 +377,29 @@ const toggleOthersBtn = document.getElementById('toggle-others');
 const fallbackHint = document.getElementById('fallback-hint');
 const noResultsState = document.getElementById('no-results');
 
+function isAreaSearchLocation(loc) {
+    if (!loc) return false;
+    if (loc.type === '特定餐廳' || loc.type === '關鍵字搜尋') return false;
+    if (state.locationData && state.locationData.some(l => l.name === loc.name)) return true;
+    return loc.type === '目前位置' || loc.type === '全市';
+}
+
+function updateShowResultsButton(matchCount = 0) {
+    const btnShowResultsContainer = document.getElementById('btn-show-results-container');
+    const btnShowResults = document.getElementById('btn-show-results');
+    if (!btnShowResultsContainer || !btnShowResults) return;
+
+    const shouldShow = isAreaSearchLocation(state.searchLocation)
+        && state.filters
+        && state.filters.size > 0
+        && matchCount > 0;
+
+    btnShowResultsContainer.style.display = shouldShow ? 'block' : 'none';
+    if (shouldShow) {
+        btnShowResults.textContent = `查看 ${matchCount} 間餐廳`;
+    }
+}
+
 // Initialization
 function init() {
     try {
@@ -1593,7 +1616,10 @@ async function renderResults() {
         levelLabels['Insufficient Info'] = '資訊不足';
 
         const center = state.searchLocation;
-        if (!center) return;
+        if (!center) {
+            updateShowResultsButton(0);
+            return;
+        }
 
         if (typeof restaurantData === 'undefined' || !restaurantData) {
             console.error('restaurantData is missing');
@@ -1625,6 +1651,7 @@ async function renderResults() {
         }
 
         if (filtered.length === 0) {
+            updateShowResultsButton(0);
             handleNoResults(center);
             return;
         }
@@ -1683,6 +1710,8 @@ async function renderResults() {
             btnShowResultsContainer.style.display = 'block';
             btnShowResults.textContent = `查看 ${exactMatches.length} 間餐廳`;
         }
+
+        updateShowResultsButton(exactMatches.length);
 
         // Render recommended cards up to the recommendedLimit
         const visibleRecommended = recommended.slice(0, state.recommendedLimit);
@@ -2824,6 +2853,11 @@ function getShareUrl() {
         if (state.searchLocation.resolvedAddress) {
             params.set('addr', state.searchLocation.resolvedAddress);
         }
+        if (state.searchLocation.type === '特定餐廳' || state.searchLocation.place_id) {
+            params.set('locType', 'restaurant');
+        } else if (state.searchLocation.type === '關鍵字搜尋') {
+            params.set('locType', 'keyword');
+        }
     }
     state.filters.forEach(f => params.append('f', f));
     if (state.view === 'detail' && state.selectedRestaurant) {
@@ -2952,6 +2986,12 @@ function syncStateFromUrl(isInitialLoad = false, animate = false) {
         if (lat && lng) {
             console.log('Syncing location from URL:', lat, lng);
             let matchedType = '分享位置';
+            const locType = params.get('locType');
+            if (locType === 'restaurant') {
+                matchedType = '特定餐廳';
+            } else if (locType === 'keyword') {
+                matchedType = '關鍵字搜尋';
+            }
             if (locName && state.locationData && state.locationData.length > 0) {
                 const matchedLoc = state.locationData.find(l => l.name === locName);
                 if (matchedLoc) {
