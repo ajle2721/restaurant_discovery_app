@@ -380,6 +380,8 @@ const noResultsState = document.getElementById('no-results');
 function isAreaSearchLocation(loc) {
     if (!loc) return false;
     if (loc.place_id || loc.type === '特定餐廳') return false;
+    if (loc.keyword) return true;
+    if (loc.isFallback || loc.resolvedAddress) return true;
     if (loc.type === '關鍵字搜尋' || loc.type === '自訂地點') return true;
     if (state.locationData && state.locationData.some(l => l.name === loc.name)) return true;
     return loc.type === '目前位置' || loc.type === '全市';
@@ -1634,7 +1636,7 @@ async function renderResults() {
 
         // 2. Filter by distance or keyword
         let filtered;
-        if (center.type === '關鍵字搜尋') {
+        if (center.keyword) {
             const q = center.keyword.toLowerCase();
             filtered = restaurants.filter(res => 
                 (res.name && res.name.toLowerCase().includes(q)) ||
