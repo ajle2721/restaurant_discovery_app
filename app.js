@@ -3190,7 +3190,7 @@ function formatRestaurantName(name) {
 function patchAiSummary(restaurant, summary) {
     const attrs = restaurant.attributes || {};
 
-    // Detect facilities that are only "likely" (inferred from Google good-for-children, not review-confirmed)
+    // Detect facilities that are only "likely" (inferred from Google, not review-confirmed)
     const likelyFacilities = [];
     if (attrs.high_chair_available === 'likely') likelyFacilities.push('兒童椅');
     if (attrs.has_tableware === 'likely') likelyFacilities.push('兒童餐具');
@@ -3215,8 +3215,32 @@ function patchAiSummary(restaurant, summary) {
     }
 
     if (!summary || !summary.trim()) return note;
-    // Prepend the standardized note, then keep the original AI summary for extra context
-    return note + '\n\n' + summary;
+
+    // Extract unique context from the original summary — skip sentences that only repeat
+    // what our note already covers (Google marking, child facilities absence, visit recommendation).
+    const skipKeywords = [
+        '官方標記', '適合兒童用餐', '適合兒童', 'Google',
+        '評論中並未提及', '評論未提及', '評論中沒有',
+        '建議前往前', '建議攜帶幼童', '先向店家確認',
+        '系統推估', '兒童椅', '兒童餐具'
+    ];
+
+    // Split original into sentences (split on 。 keeping the period)
+    const rawParts = summary.split('。');
+    const sentences = rawParts
+        .slice(0, rawParts[rawParts.length - 1].trim() === '' ? -1 : rawParts.length)
+        .map(s => s.trim())
+        .filter(Boolean);
+
+    const extraSentences = sentences.filter(s =>
+        !skipKeywords.some(kw => s.includes(kw))
+    ).map(s => s + '。');
+
+    if (extraSentences.length > 0) {
+        note += extraSentences.join('');
+    }
+
+    return note;
 }
 
 
