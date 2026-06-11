@@ -84,11 +84,11 @@ body {
 }
 
 .main-title {
-    font-family: 'Nunito', 'M PLUS Rounded 1c', 'Hiragino Maru Gothic ProN', 'Gen Jyuu Gothic', 'Taipei Sans TC Beta', sans-serif;
+    font-family: "PingFang TC", "Noto Sans TC", "Microsoft JhengHei", "Taipei Sans TC Beta", 'Nunito', sans-serif;
     font-size: 2.25rem;
     font-weight: 800;
     margin-bottom: 0.5rem;
-    letter-spacing: -0.02em;
+    letter-spacing: 0;
     line-height: 1.1;
     overflow-wrap: anywhere;
     word-break: normal;
@@ -1160,17 +1160,19 @@ body {
     bottom: 0;
     width: 100%;
     height: 100vh;
+    height: 100dvh;
     background: var(--bg-color);
     z-index: 2000;
-    overflow-y: auto;
-    -webkit-overflow-scrolling: touch;
+    overflow: hidden;
+    overscroll-behavior: contain;
     transition: transform 0.3s cubic-bezier(0.25, 1, 0.3, 1),
                 opacity 0.3s cubic-bezier(0.25, 1, 0.3, 1),
                 visibility 0.3s cubic-bezier(0.25, 1, 0.3, 1);
     transform: translate3d(100%, 0, 0);
     opacity: 0;
     visibility: hidden;
-    display: block !important; /* Force override display none to support transitions */
+    display: flex !important; /* Force override display none to support transitions */
+    flex-direction: column;
 }
 
 #detail-view.no-transition {
@@ -1188,6 +1190,10 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    flex: 0 0 auto;
+    position: relative;
+    z-index: 2;
+    touch-action: manipulation;
 }
 
 .back-btn {
@@ -1218,6 +1224,11 @@ body {
 }
 
 .detail-content {
+    flex: 1 1 auto;
+    min-height: 0;
+    overflow-y: auto;
+    overscroll-behavior-y: contain;
+    -webkit-overflow-scrolling: touch;
     padding: 1.5rem 1.5rem 6.5rem; /* Large bottom padding for scroll space on mobile */
 }
 
