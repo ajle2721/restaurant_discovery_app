@@ -1,6 +1,6 @@
 ﻿{
     " child_seat available":  {
-                                  "evidence":  "Google 摰?餉??拙??咱?券?",
+                                  "evidence":  "使用者確認：店內有兒童椅",
                                   "result":  "Yes",
                                   "confidence":  1
                               },
@@ -30,7 +30,7 @@
                              "confidence":  0.4
                          },
     "has_tableware":  {
-                          "evidence":  "Google 摰?餉??拙??咱?券?",
+                          "evidence":  "使用者確認：店內有兒童餐具",
                           "result":  "Yes",
                           "confidence":  1
                       },
@@ -47,8 +47,9 @@
                               "Good for children (官方標記：適合兒童)",
                               "Menu for children (官方標記：提供兒童餐)",
                               "非常適合全家大小來聚餐。",
-                              "Google 摰?餉??拙??咱?券?"
+                              "使用者確認：店內有兒童椅",
+                              "使用者確認：店內有兒童餐具"
                           ],
-    "generated_summary":  "該餐廳提供兒童餐且被標記為適合兒童，評論中也提到適合全家大小聚餐，是親子友善的用餐選擇。不過目前評論中未提及兒童座椅、餐具或尿布台等具體設施資訊，建議前往前可先向店家確認。",
+    "generated_summary":  "parco義大利麵店提供兒童餐，並已確認店內備有兒童椅與兒童餐具；評論也提到適合全家大小聚餐，是親子友善的用餐選擇。目前尿布台與遊戲區資訊仍不明確，如有相關需求可再向店家確認。",
     "card_summary":  ""
 }
