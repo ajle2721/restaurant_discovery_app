@@ -1,4 +1,4 @@
-﻿const WEB3FORMS_ACCESS_KEY = "c7b3994f-f590-4126-a12f-111c28c58a19";
+const WEB3FORMS_ACCESS_KEY = "c7b3994f-f590-4126-a12f-111c28c58a19";
 
 const safeSession = {
     getItem(key) {
@@ -313,8 +313,8 @@ function getPFSummaryTags(res, overrideLevel, simpleFormat = false) {
             const allKeys = ['has_tableware', 'high_chair_available', 'has_diaper_table', 'kids_menu', 'kid_noise_tolerant', 'spacious_seating', 'has_play_area', 'has_private_room'];
             const otherYesAttrs = [];
             allKeys.forEach(k => {
-                if (!state.filters.has(k) && attrs[k] === 'yes') {
-                    otherYesAttrs.push(attributeDetails[k].yes);
+                if (!state.filters.has(k) && (attrs[k] === 'yes' || attrs[k] === 'likely')) {
+                    otherYesAttrs.push(attributeDetails[k].yes + (attrs[k] === 'likely' ? '(估)' : ''));
                 }
             });
             if (otherYesAttrs.length > 0) {
@@ -325,9 +325,9 @@ function getPFSummaryTags(res, overrideLevel, simpleFormat = false) {
         let matchCount = 0;
         const matchedNames = [];
         state.filters.forEach(f => {
-            if (attrs[f] === 'yes') {
+            if (attrs[f] === 'yes' || attrs[f] === 'likely') {
                 matchCount++;
-                matchedNames.push(attributeLabels[f]);
+                matchedNames.push(attributeLabels[f] + (attrs[f] === 'likely' ? '(估)' : ''));
             }
         });
         if (matchCount > 0) {
@@ -341,14 +341,14 @@ function getPFSummaryTags(res, overrideLevel, simpleFormat = false) {
 
     // Default view: list positive amenities
     const tags = [];
-    if (attrs.has_tableware === 'yes') tags.push('兒童餐具');
-    if (attrs.high_chair_available === 'yes') tags.push('兒童椅');
-    if (attrs.has_diaper_table === 'yes') tags.push('尿布台');
-    if (attrs.kids_menu === 'yes') tags.push('兒童餐');
-    if (attrs.kid_noise_tolerant === 'yes') tags.push('不怕吵');
-    if (attrs.spacious_seating === 'yes') tags.push('空間寬敞');
-    if (attrs.has_play_area === 'yes') tags.push('有遊樂區');
-    if (attrs.has_private_room === 'yes') tags.push('包廂或可包場');
+    if (attrs.has_tableware === 'yes' || attrs.has_tableware === 'likely') tags.push('兒童餐具' + (attrs.has_tableware === 'likely' ? '(估)' : ''));
+    if (attrs.high_chair_available === 'yes' || attrs.high_chair_available === 'likely') tags.push('兒童椅' + (attrs.high_chair_available === 'likely' ? '(估)' : ''));
+    if (attrs.has_diaper_table === 'yes' || attrs.has_diaper_table === 'likely') tags.push('尿布台' + (attrs.has_diaper_table === 'likely' ? '(估)' : ''));
+    if (attrs.kids_menu === 'yes' || attrs.kids_menu === 'likely') tags.push('兒童餐' + (attrs.kids_menu === 'likely' ? '(估)' : ''));
+    if (attrs.kid_noise_tolerant === 'yes' || attrs.kid_noise_tolerant === 'likely') tags.push('不怕吵' + (attrs.kid_noise_tolerant === 'likely' ? '(估)' : ''));
+    if (attrs.spacious_seating === 'yes' || attrs.spacious_seating === 'likely') tags.push('空間寬敞' + (attrs.spacious_seating === 'likely' ? '(估)' : ''));
+    if (attrs.has_play_area === 'yes' || attrs.has_play_area === 'likely') tags.push('有遊樂區' + (attrs.has_play_area === 'likely' ? '(估)' : ''));
+    if (attrs.has_private_room === 'yes' || attrs.has_private_room === 'likely') tags.push('包廂或可包場' + (attrs.has_private_room === 'likely' ? '(估)' : ''));
     
     return tags.join('、');
 }
@@ -1519,7 +1519,7 @@ function calculatePersonalizedScore(res) {
         const val = attrs[key];
         const isSelected = state.filters.has(key);
 
-        if (val === 'yes') {
+        if (val === 'yes' || val === 'likely') {
             if (isSelected) {
                 score += 100;
                 matchCount++;
@@ -1881,7 +1881,7 @@ function getDynamicStatus(res, selectedFilters) {
     let matchCount = 0;
     if (selectedFilters && selectedFilters.size > 0) {
         selectedFilters.forEach(f => {
-            if (attrs[f] === 'yes') matchCount++;
+            if (attrs[f] === 'yes' || attrs[f] === 'likely') matchCount++;
         });
     }
 
@@ -1913,7 +1913,7 @@ function getDynamicStatus(res, selectedFilters) {
         // 其他友善選擇 (Zero matches, but something else is 'yes')
         let hasOtherYes = false;
         allKeys.forEach(k => {
-            if (!selectedFilters.has(k) && attrs[k] === 'yes') hasOtherYes = true;
+            if (!selectedFilters.has(k) && (attrs[k] === 'yes' || attrs[k] === 'likely')) hasOtherYes = true;
         });
         if (hasOtherYes) {
             return { level: 'Low Match', label: '其他友善選擇', class: 'low-match', matchCount: matchCount };
@@ -1923,15 +1923,15 @@ function getDynamicStatus(res, selectedFilters) {
     }
 
     // Default view (no filters selected)
-    const hasTableware = attrs['has_tableware'] === 'yes';
-    const hasHighChair = attrs['high_chair_available'] === 'yes';
-    const hasKidsMenu = attrs['kids_menu'] === 'yes';
-    const hasPlayArea = attrs['has_play_area'] === 'yes';
+    const hasTableware = attrs['has_tableware'] === 'yes' || attrs['has_tableware'] === 'likely';
+    const hasHighChair = attrs['high_chair_available'] === 'yes' || attrs['high_chair_available'] === 'likely';
+    const hasKidsMenu = attrs['kids_menu'] === 'yes' || attrs['kids_menu'] === 'likely';
+    const hasPlayArea = attrs['has_play_area'] === 'yes' || attrs['has_play_area'] === 'likely';
     
     const isRecommended = (hasTableware && hasHighChair) || (hasKidsMenu || hasPlayArea);
     
     let totalYes = 0;
-    allKeys.forEach(k => { if (attrs[k] === 'yes') totalYes++; });
+    allKeys.forEach(k => { if (attrs[k] === 'yes' || attrs[k] === 'likely') totalYes++; });
     
     if (isRecommended) return { level: 'High', label: '值得推薦', class: 'high', matchCount: 0 };
     if (totalYes >= 1) return { level: 'Medium', label: '可以考慮', class: 'medium', matchCount: 0 };
@@ -2125,13 +2125,20 @@ function renderDetailContent(restaurant) {
     const attributes = restaurant.attributes || {};
     const orderedKeys = ['has_tableware', 'high_chair_available', 'has_diaper_table', 'kids_menu', 'kid_noise_tolerant', 'spacious_seating', 'has_play_area', 'has_private_room'];
     orderedKeys.forEach(attr => {
-        if (attributes[attr] === 'yes' && attributeLabels[attr]) {
+        const val = attributes[attr];
+        if ((val === 'yes' || val === 'likely') && attributeLabels[attr]) {
             const isMatched = state.filters && state.filters.has(attr);
-            if (isMatched) {
-                tagsHtml += `<span class="tag matched"><span>✓ ${attributeIcons[attr] || '✨'}</span> ${attributeLabels[attr]}</span>`;
-            } else {
-                tagsHtml += `<span class="tag"><span>${attributeIcons[attr] || '✨'}</span> ${attributeLabels[attr]}</span>`;
-            }
+            const isLikely = val === 'likely';
+            
+            let tagClass = 'tag';
+            if (isMatched) tagClass += ' matched';
+            if (isLikely) tagClass += ' likely';
+            
+            const tooltipAttr = isLikely ? ' class="tooltip-trigger" title="此設施基於 Google 官方「適合兒童」標記推估，目前評論尚無具體提及。建議前往前去電確認。"' : '';
+            const checkIcon = isMatched ? '✓ ' : '';
+            const suffix = isLikely ? ' (估)' : '';
+            
+            tagsHtml += `<span class="${tagClass}"${tooltipAttr}><span>${checkIcon}${attributeIcons[attr] || '✨'}</span> ${attributeLabels[attr]}${suffix}</span>`;
         }
     });
 
@@ -2149,7 +2156,7 @@ function renderDetailContent(restaurant) {
     const attributes_for_count = restaurant.attributes || {};
     if (state.filters && state.filters.size > 0) {
         state.filters.forEach(f => {
-            if (attributes_for_count[f] === 'yes') matchCount++;
+            if (attributes_for_count[f] === 'yes' || attributes_for_count[f] === 'likely') matchCount++;
         });
     }
     
@@ -2385,7 +2392,7 @@ function isLowMatchGlobal(restaurant, level) {
         let matchCount = 0;
         const attributes = restaurant.attributes || {};
         state.filters.forEach(f => {
-            if (attributes[f] === 'yes') matchCount++;
+            if (attributes[f] === 'yes' || attributes[f] === 'likely') matchCount++;
         });
         return matchCount === 0;
     }
@@ -3363,14 +3370,14 @@ function renderShortlistDrawer() {
             // Build amenity text
             const ams = [];
             const attrs = res.attributes || {};
-            if (attrs.has_tableware === 'yes') ams.push('🍽️兒童餐具');
-            if (attrs.high_chair_available === 'yes') ams.push('🪑兒童椅');
-            if (attrs.has_diaper_table === 'yes') ams.push('🍼尿布台');
-            if (attrs.kids_menu === 'yes') ams.push('🥘兒童餐');
-            if (attrs.kid_noise_tolerant === 'yes') ams.push('🥳不怕吵');
-            if (attrs.spacious_seating === 'yes') ams.push('🛋️空間寬敞');
-            if (attrs.has_play_area === 'yes') ams.push('🧸有遊樂區');
-            if (attrs.has_private_room === 'yes') ams.push('🚪包廂或可包場');
+            if (attrs.has_tableware === 'yes' || attrs.has_tableware === 'likely') ams.push('🍽️兒童餐具' + (attrs.has_tableware === 'likely' ? '(估)' : ''));
+            if (attrs.high_chair_available === 'yes' || attrs.high_chair_available === 'likely') ams.push('🪑兒童椅' + (attrs.high_chair_available === 'likely' ? '(估)' : ''));
+            if (attrs.has_diaper_table === 'yes' || attrs.has_diaper_table === 'likely') ams.push('🍼尿布台' + (attrs.has_diaper_table === 'likely' ? '(估)' : ''));
+            if (attrs.kids_menu === 'yes' || attrs.kids_menu === 'likely') ams.push('🥘兒童餐' + (attrs.kids_menu === 'likely' ? '(估)' : ''));
+            if (attrs.kid_noise_tolerant === 'yes' || attrs.kid_noise_tolerant === 'likely') ams.push('🥳不怕吵' + (attrs.kid_noise_tolerant === 'likely' ? '(估)' : ''));
+            if (attrs.spacious_seating === 'yes' || attrs.spacious_seating === 'likely') ams.push('🛋️空間寬敞' + (attrs.spacious_seating === 'likely' ? '(估)' : ''));
+            if (attrs.has_play_area === 'yes' || attrs.has_play_area === 'likely') ams.push('🧸有遊樂區' + (attrs.has_play_area === 'likely' ? '(估)' : ''));
+            if (attrs.has_private_room === 'yes' || attrs.has_private_room === 'likely') ams.push('🚪包廂或可包場' + (attrs.has_private_room === 'likely' ? '(估)' : ''));
             const amsText = ams.length > 0 ? ams.join(' · ') : '暫無特徵標籤';
 
             listHtml += `
@@ -3446,18 +3453,19 @@ function renderShortlistDrawer() {
             const attrs = res.attributes || {};
             
             const checkIcon = '<span class="check-icon">✓ 有</span>';
+            const checkLikelyIcon = '<span class="check-icon likely-icon" title="此設施基於 Google 官方「適合兒童」標記推估，目前評論尚無具體提及。建議前往前去電確認。">✓ 估</span>';
             const crossIcon = '<span class="cross-icon">✗ 較小</span>';
             const crossGeneralIcon = '<span class="cross-icon">✗ 無</span>';
             const unknownIcon = '<span class="unknown-icon">? 未知</span>';
 
-            const chair = attrs.high_chair_available === 'yes' ? checkIcon : (attrs.high_chair_available === 'no' ? crossGeneralIcon : unknownIcon);
-            const spacious = attrs.spacious_seating === 'yes' ? checkIcon : (attrs.spacious_seating === 'no' ? crossIcon : unknownIcon);
-            const noise = attrs.kid_noise_tolerant === 'yes' ? checkIcon : (attrs.kid_noise_tolerant === 'no' ? crossGeneralIcon : unknownIcon);
-            const menu = attrs.kids_menu === 'yes' ? checkIcon : (attrs.kids_menu === 'no' ? crossGeneralIcon : unknownIcon);
-            const tableware = attrs.has_tableware === 'yes' ? checkIcon : (attrs.has_tableware === 'no' ? crossGeneralIcon : unknownIcon);
-            const diaper = attrs.has_diaper_table === 'yes' ? checkIcon : (attrs.has_diaper_table === 'no' ? crossGeneralIcon : unknownIcon);
-            const play = attrs.has_play_area === 'yes' ? checkIcon : (attrs.has_play_area === 'no' ? crossGeneralIcon : unknownIcon);
-            const room = attrs.has_private_room === 'yes' ? checkIcon : (attrs.has_private_room === 'no' ? crossGeneralIcon : unknownIcon);
+            const chair = attrs.high_chair_available === 'yes' ? checkIcon : (attrs.high_chair_available === 'likely' ? checkLikelyIcon : (attrs.high_chair_available === 'no' ? crossGeneralIcon : unknownIcon));
+            const spacious = attrs.spacious_seating === 'yes' ? checkIcon : (attrs.spacious_seating === 'likely' ? checkLikelyIcon : (attrs.spacious_seating === 'no' ? crossIcon : unknownIcon));
+            const noise = attrs.kid_noise_tolerant === 'yes' ? checkIcon : (attrs.kid_noise_tolerant === 'likely' ? checkLikelyIcon : (attrs.kid_noise_tolerant === 'no' ? crossGeneralIcon : unknownIcon));
+            const menu = attrs.kids_menu === 'yes' ? checkIcon : (attrs.kids_menu === 'likely' ? checkLikelyIcon : (attrs.kids_menu === 'no' ? crossGeneralIcon : unknownIcon));
+            const tableware = attrs.has_tableware === 'yes' ? checkIcon : (attrs.has_tableware === 'likely' ? checkLikelyIcon : (attrs.has_tableware === 'no' ? crossGeneralIcon : unknownIcon));
+            const diaper = attrs.has_diaper_table === 'yes' ? checkIcon : (attrs.has_diaper_table === 'likely' ? checkLikelyIcon : (attrs.has_diaper_table === 'no' ? crossGeneralIcon : unknownIcon));
+            const play = attrs.has_play_area === 'yes' ? checkIcon : (attrs.has_play_area === 'likely' ? checkLikelyIcon : (attrs.has_play_area === 'no' ? crossGeneralIcon : unknownIcon));
+            const room = attrs.has_private_room === 'yes' ? checkIcon : (attrs.has_private_room === 'likely' ? checkLikelyIcon : (attrs.has_private_room === 'no' ? crossGeneralIcon : unknownIcon));
 
             const isWholeCity = state.searchLocation && (state.searchLocation.type === '全市' || state.searchLocation.name === '整個台北市');
             const times = (!isWholeCity && res.distance) ? calculateTravelTimes(res.distance) : null;
@@ -3600,7 +3608,7 @@ function openFeedbackModal(restaurant) {
 
         let gridHtml = '';
         specs.forEach(spec => {
-            const hasFeature = attrs[spec.key] === 'yes';
+            const hasFeature = attrs[spec.key] === 'yes' || attrs[spec.key] === 'likely';
             const label = hasFeature ? spec.yesLabel : spec.noLabel;
             const value = hasFeature ? spec.yesValue : spec.noValue;
             gridHtml += `

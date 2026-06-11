@@ -58,9 +58,21 @@ function getAiAttributes(aiReview, response) {
   let kids_menu_attr = normalizeResult(aiReview["Kids menu available"]?.result);
   let diaper_table = normalizeResult(aiReview.has_diaper_table?.result);
 
+  // If yes result is purely from Google Maps attributes override in evaluate_reviews_llm.py, demote to "likely"
+  const isGoogleOnlyHighChair = high_chair === "yes" && 
+    (aiReview[" child_seat available"]?.evidence === "Google 官方登記適合兒童用餐" ||
+     aiReview["child_seat available"]?.evidence === "Google 官方登記適合兒童用餐" ||
+     aiReview["High chair available"]?.evidence === "Google 官方登記適合兒童用餐");
+
+  const isGoogleOnlyTableware = tableware === "yes" && 
+    aiReview.has_tableware?.evidence === "Google 官方登記適合兒童用餐";
+
+  if (isGoogleOnlyHighChair) high_chair = "likely";
+  if (isGoogleOnlyTableware) tableware = "likely";
+
   if (response?.goodForChildren === true) {
-    high_chair = "yes";
-    tableware = "yes";
+    if (high_chair !== "yes") high_chair = "likely";
+    if (tableware !== "yes") tableware = "likely";
   }
 
   if (response?.menuForChildren === true) {

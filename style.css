@@ -1097,6 +1097,25 @@ body {
     font-weight: 700;
 }
 
+.tag.likely {
+    background: transparent;
+    color: var(--secondary);
+    border: 1px dashed var(--secondary);
+    opacity: 0.85;
+}
+
+.tag.likely.matched {
+    background: transparent;
+    color: var(--primary-dark);
+    border: 1.5px dashed var(--primary-dark);
+    box-shadow: none;
+    font-weight: 700;
+}
+
+.tag.likely[title] {
+    cursor: help;
+}
+
 .btn {
     flex: 1;
     padding: 0.75rem;
@@ -2313,6 +2332,17 @@ body {
     color: #10b981;
     font-weight: 800;
     font-size: 0.9rem;
+}
+
+.comparison-table td .check-icon.likely-icon {
+    color: #10b981;
+    font-weight: 600;
+    font-size: 0.8rem;
+    border: 1px dashed #10b981;
+    padding: 0.1rem 0.3rem;
+    border-radius: 4px;
+    background: rgba(16, 185, 129, 0.05);
+    cursor: help;
 }
 
 .comparison-table td .cross-icon {
