@@ -243,10 +243,6 @@ body {
     opacity: 0.9;
 }
 
-.tag.likely sup {
-    line-height: 0;
-}
-
 .tag.likely.matched {
     background: rgba(223, 107, 85, 0.09);
     color: var(--primary-dark);

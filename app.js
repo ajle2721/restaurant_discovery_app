@@ -2141,9 +2141,9 @@ function renderDetailContent(restaurant) {
             
             const titleAttr = isLikely ? ' title="此設施基於 Google 官方「適合兒童」標記推估，目前評論尚無具體提及。建議前往前去電確認。"' : '';
             const checkIcon = isMatched ? '✓ ' : '';
-            const suffix = isLikely ? '<sup style="font-size:0.65em;opacity:0.7;letter-spacing:0;"> 估</sup>' : '';
+            const suffix = isLikely ? '<span style="font-size:0.65em;opacity:0.7;letter-spacing:0;margin-left:2px;">(估)</span>' : '';
             
-            tagsHtml += `<span class="${tagClass}"${titleAttr}><span>${checkIcon}${attributeIcons[attr] || '✨'}</span> ${attributeLabels[attr]}${suffix}</span>`;
+            tagsHtml += `<span class="${tagClass}"${titleAttr}><span>${checkIcon}${attributeIcons[attr] || '✨'}</span> <span style="display:flex;align-items:center;">${attributeLabels[attr]}${suffix}</span></span>`;
         }
     });
 
