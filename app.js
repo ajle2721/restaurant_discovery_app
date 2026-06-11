@@ -2455,6 +2455,7 @@ function switchView(viewName, animate = true) {
         lastScrollY = window.scrollY;
         
         detailView.classList.add('active');
+        detailView.scrollTo(0, 0); // Desktop detail view scrolls on the overlay itself
         detailContent.scrollTo(0, 0); // Scroll detail content back to its top
         document.body.style.overflow = 'hidden'; // Lock background window scroll to prevent double scrolling
     } else {

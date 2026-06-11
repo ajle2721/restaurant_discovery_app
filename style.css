@@ -1632,18 +1632,25 @@ body {
     /* Detail View - Center focused */
     #detail-view {
         background: #f8fafc;
+        display: block !important;
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
     }
     
     .detail-content {
+        width: calc(100% - 3rem);
         max-width: 800px;
         margin: 2rem auto 5rem;
         background: white;
         border-radius: 2.5rem;
         box-shadow: var(--shadow-lg);
         padding: 4rem;
+        overflow: visible;
+        min-height: auto;
     }
     
     .detail-header {
+        width: calc(100% - 3rem);
         max-width: 800px;
         margin: 1.5rem auto 0;
         background: white;
