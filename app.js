@@ -2134,11 +2134,11 @@ function renderDetailContent(restaurant) {
             if (isMatched) tagClass += ' matched';
             if (isLikely) tagClass += ' likely';
             
-            const tooltipAttr = isLikely ? ' class="tooltip-trigger" title="此設施基於 Google 官方「適合兒童」標記推估，目前評論尚無具體提及。建議前往前去電確認。"' : '';
+            const titleAttr = isLikely ? ' title="此設施基於 Google 官方「適合兒童」標記推估，目前評論尚無具體提及。建議前往前去電確認。"' : '';
             const checkIcon = isMatched ? '✓ ' : '';
             const suffix = isLikely ? ' (估)' : '';
             
-            tagsHtml += `<span class="${tagClass}"${tooltipAttr}><span>${checkIcon}${attributeIcons[attr] || '✨'}</span> ${attributeLabels[attr]}${suffix}</span>`;
+            tagsHtml += `<span class="${tagClass}"${titleAttr}><span>${checkIcon}${attributeIcons[attr] || '✨'}</span> ${attributeLabels[attr]}${suffix}</span>`;
         }
     });
 

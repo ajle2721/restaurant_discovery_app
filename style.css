@@ -1,4 +1,4 @@
-:root {
+﻿:root {
     --primary: #F6846F;
     --primary-light: #FBC1B4;
     --primary-dark: #DF6B55;
@@ -234,6 +234,25 @@ body {
 .autocomplete-item .icon {
     font-size: 1rem;
     color: var(--primary);
+}
+
+.tag.likely {
+    background: rgba(48, 179, 169, 0.08);
+    color: var(--secondary);
+    border: 1px dashed var(--secondary);
+    opacity: 0.9;
+}
+
+.tag.likely.matched {
+    background: rgba(223, 107, 85, 0.09);
+    color: var(--primary-dark);
+    border: 1.5px dashed var(--primary-dark);
+    box-shadow: none;
+    font-weight: 700;
+}
+
+.tag.likely[title] {
+    cursor: help;
 }
 
 .autocomplete-item .name {
@@ -1097,24 +1116,7 @@ body {
     font-weight: 700;
 }
 
-.tag.likely {
-    background: transparent;
-    color: var(--secondary);
-    border: 1px dashed var(--secondary);
-    opacity: 0.85;
-}
 
-.tag.likely.matched {
-    background: transparent;
-    color: var(--primary-dark);
-    border: 1.5px dashed var(--primary-dark);
-    box-shadow: none;
-    font-weight: 700;
-}
-
-.tag.likely[title] {
-    cursor: help;
-}
 
 .btn {
     flex: 1;
@@ -3137,4 +3139,5 @@ body {
 .header-collapsed #modify-search {
     display: block;
 }
+
 
