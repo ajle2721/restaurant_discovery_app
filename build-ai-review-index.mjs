@@ -68,9 +68,20 @@ function keepExistingWhenUnknown(nextValue, existingValue) {
   return nextValue === "unknown" ? normalizeResult(existingValue) : nextValue;
 }
 
-function neutralizeSummarySourceCopy(summary) {
+function neutralizeSummarySourceCopy(summary, privateRoomVal) {
   if (!summary) return "";
-  return String(summary)
+  let s = String(summary);
+  if (s.includes("可包廂")) {
+    let replacement = "有包廂或可包場";
+    if (privateRoomVal === "room" || privateRoomVal === "likely_room") {
+      replacement = "有包廂";
+    } else if (privateRoomVal === "venue" || privateRoomVal === "likely_venue") {
+      replacement = "可包場";
+    }
+    s = s.replace(/可包廂/g, replacement);
+  }
+  return s
+    .replace(/Google Maps\s*官方標記/g, "公開地點資訊標示")
     .replace(/Google Maps\s*官方標記/g, "公開地點資訊標示")
     .replace(/Google Maps\s*標記/g, "公開地點資訊標示")
     .replace(/Google\s*Maps/g, "公開地點資訊")
@@ -120,6 +131,30 @@ function neutralizeSummarySourceCopy(summary) {
     .replace(/評論/g, "目前整理資料");
 }
 
+function getPrivateRoomValue(aiReview) {
+  const roomObj = aiReview.has_private_room;
+  if (!roomObj) return "unknown";
+
+  const result = normalizeResult(roomObj.result);
+  if (result !== "yes" && result !== "likely") {
+    return result;
+  }
+
+  const evidence = String(roomObj.evidence || "").trim().toLowerCase();
+  if (evidence) {
+    const hasRoom = evidence.includes("包廂") || evidence.includes("隔間") || evidence.includes("獨立空間");
+    const hasVenue = evidence.includes("包場") || evidence.includes("租借") || evidence.includes("辦活動") || evidence.includes("活動空間");
+
+    if (hasRoom && !hasVenue) {
+      return result === "likely" ? "likely_room" : "room";
+    }
+    if (hasVenue && !hasRoom) {
+      return result === "likely" ? "likely_venue" : "venue";
+    }
+  }
+  return result;
+}
+
 function getAiAttributes(aiReview, existingAttributes = {}) {
   let highChair = normalizeResult(
     aiReview[" child_seat available"]?.result ||
@@ -166,7 +201,7 @@ function getAiAttributes(aiReview, existingAttributes = {}) {
       existingAttributes.has_play_area
     ),
     has_private_room: keepExistingWhenUnknown(
-      normalizeResult(aiReview.has_private_room?.result),
+      getPrivateRoomValue(aiReview),
       existingAttributes.has_private_room
     ),
     has_tableware: keepExistingWhenUnknown(
@@ -194,8 +229,8 @@ function buildRecord(placeId, baseRestaurant, aiReview) {
     baseRestaurant.longitude ?? null,
     baseRestaurant.url || baseRestaurant.google_maps_url || "",
     attributes,
-    neutralizeSummarySourceCopy(aiReview.generated_summary || baseRestaurant.ai_summary || ""),
-    neutralizeSummarySourceCopy(aiReview.card_summary || baseRestaurant.card_summary || ""),
+    neutralizeSummarySourceCopy(aiReview.generated_summary || baseRestaurant.ai_summary || "", attributes.has_private_room),
+    neutralizeSummarySourceCopy(aiReview.card_summary || baseRestaurant.card_summary || "", attributes.has_private_room),
     aiReview.parent_friendly_level ||
       baseRestaurant.parent_friendly_level ||
       "資訊不足",

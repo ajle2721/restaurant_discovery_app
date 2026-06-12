@@ -335,8 +335,11 @@ function getPFSummaryTags(res, overrideLevel, simpleFormat = false) {
             const allKeys = ['has_tableware', 'high_chair_available', 'has_diaper_table', 'kids_menu', 'kid_noise_tolerant', 'spacious_seating', 'has_play_area', 'has_private_room'];
             const otherYesAttrs = [];
             allKeys.forEach(k => {
-                if (!state.filters.has(k) && (attrs[k] === 'yes' || attrs[k] === 'likely')) {
-                    otherYesAttrs.push(attributeDetails[k].yes + (attrs[k] === 'likely' ? '(估)' : ''));
+                const val = attrs[k];
+                const isPositive = val === 'yes' || val === 'room' || val === 'venue' || val === 'likely' || val === 'likely_room' || val === 'likely_venue';
+                const isLikely = String(val).startsWith('likely');
+                if (!state.filters.has(k) && isPositive) {
+                    otherYesAttrs.push(attributeDetails[k].yes + (isLikely ? '(估)' : ''));
                 }
             });
             if (otherYesAttrs.length > 0) {
@@ -347,9 +350,12 @@ function getPFSummaryTags(res, overrideLevel, simpleFormat = false) {
         let matchCount = 0;
         const matchedNames = [];
         state.filters.forEach(f => {
-            if (attrs[f] === 'yes' || attrs[f] === 'likely') {
+            const val = attrs[f];
+            const isPositive = val === 'yes' || val === 'room' || val === 'venue' || val === 'likely' || val === 'likely_room' || val === 'likely_venue';
+            if (isPositive) {
                 matchCount++;
-                matchedNames.push(attributeLabels[f] + (attrs[f] === 'likely' ? '(估)' : ''));
+                const isLikely = String(val).startsWith('likely');
+                matchedNames.push(attributeLabels[f] + (isLikely ? '(估)' : ''));
             }
         });
         if (matchCount > 0) {
@@ -370,7 +376,11 @@ function getPFSummaryTags(res, overrideLevel, simpleFormat = false) {
     if (attrs.kid_noise_tolerant === 'yes' || attrs.kid_noise_tolerant === 'likely') tags.push('不怕吵' + (attrs.kid_noise_tolerant === 'likely' ? '(估)' : ''));
     if (attrs.spacious_seating === 'yes' || attrs.spacious_seating === 'likely') tags.push('空間寬敞' + (attrs.spacious_seating === 'likely' ? '(估)' : ''));
     if (attrs.has_play_area === 'yes' || attrs.has_play_area === 'likely') tags.push('有遊樂區' + (attrs.has_play_area === 'likely' ? '(估)' : ''));
-    if (attrs.has_private_room === 'yes' || attrs.has_private_room === 'likely') tags.push('包廂或可包場' + (attrs.has_private_room === 'likely' ? '(估)' : ''));
+    const pRoomVal = attrs.has_private_room;
+    if (pRoomVal === 'yes' || pRoomVal === 'room' || pRoomVal === 'venue' || pRoomVal === 'likely' || pRoomVal === 'likely_room' || pRoomVal === 'likely_venue') {
+        const isLikely = String(pRoomVal).startsWith('likely');
+        tags.push('包廂或可包場' + (isLikely ? '(估)' : ''));
+    }
     
     return tags.join('、');
 }
@@ -3296,9 +3306,20 @@ function formatRestaurantName(name) {
     }).join('<wbr>');
 }
 
-function neutralizeSummarySourceCopy(summary) {
+function neutralizeSummarySourceCopy(summary, privateRoomVal) {
     if (!summary) return '';
-    return String(summary)
+    let s = String(summary);
+    if (s.includes('可包廂')) {
+        let replacement = '有包廂或可包場';
+        if (privateRoomVal === 'room' || privateRoomVal === 'likely_room') {
+            replacement = '有包廂';
+        } else if (privateRoomVal === 'venue' || privateRoomVal === 'likely_venue') {
+            replacement = '可包場';
+        }
+        s = s.replace(/可包廂/g, replacement);
+    }
+    return s
+        .replace(/Google Maps\s*官方標記/g, '公開地點資訊標示')
         .replace(/Google Maps\s*官方標記/g, '公開地點資訊標示')
         .replace(/Google Maps\s*標記/g, '公開地點資訊標示')
         .replace(/Google\s*Maps/g, '公開地點資訊')
@@ -3351,21 +3372,35 @@ function neutralizeSummarySourceCopy(summary) {
 
 function patchAiSummary(restaurant, summary) {
     const attrs = restaurant.attributes || {};
+    const roomVal = attrs.has_private_room;
 
     // Detect facilities that are only "likely" (inferred, not explicitly confirmed)
     const likelyFacilities = [];
     if (attrs.high_chair_available === 'likely') likelyFacilities.push('兒童椅');
     if (attrs.has_tableware === 'likely') likelyFacilities.push('兒童餐具');
+    if (roomVal === 'likely_room') {
+        likelyFacilities.push('包廂');
+    } else if (roomVal === 'likely_venue') {
+        likelyFacilities.push('包場空間');
+    } else if (roomVal === 'likely') {
+        likelyFacilities.push('包廂或包場空間');
+    }
 
     // If no likely-only items, still neutralize source wording.
-    if (likelyFacilities.length === 0) return neutralizeSummarySourceCopy(summary || '');
+    if (likelyFacilities.length === 0) return neutralizeSummarySourceCopy(summary || '', roomVal);
 
     // Collect confirmed (yes) facilities to naturally weave in
     const confirmedParts = [];
     if (attrs.kids_menu === 'yes') confirmedParts.push('提供兒童餐');
     if (attrs.has_diaper_table === 'yes') confirmedParts.push('設有尿布台');
     if (attrs.has_play_area === 'yes') confirmedParts.push('設有遊樂區');
-    if (attrs.has_private_room === 'yes') confirmedParts.push('可包廂');
+    if (roomVal === 'room') {
+        confirmedParts.push('有包廂');
+    } else if (roomVal === 'venue') {
+        confirmedParts.push('可包場');
+    } else if (roomVal === 'yes') {
+        confirmedParts.push('有包廂或可包場');
+    }
     if (attrs.spacious_seating === 'yes') confirmedParts.push('座位較寬敞');
     if (attrs.kid_noise_tolerant === 'yes') confirmedParts.push('環境不怕吵鬧');
 
@@ -3376,7 +3411,7 @@ function patchAiSummary(restaurant, summary) {
         note += `此外，此店${confirmedParts.join('、')}。`;
     }
 
-    if (!summary || !summary.trim()) return neutralizeSummarySourceCopy(note);
+    if (!summary || !summary.trim()) return neutralizeSummarySourceCopy(note, roomVal);
 
     // Extract unique context from the original summary — skip sentences that only repeat
     // what our note already covers (Google marking, child facilities absence, visit recommendation).
@@ -3402,7 +3437,7 @@ function patchAiSummary(restaurant, summary) {
         note += extraSentences.join('');
     }
 
-    return neutralizeSummarySourceCopy(note);
+    return neutralizeSummarySourceCopy(note, roomVal);
 }
 
 
@@ -3670,7 +3705,11 @@ function renderShortlistDrawer() {
             if (attrs.kid_noise_tolerant === 'yes' || attrs.kid_noise_tolerant === 'likely') ams.push('🥳不怕吵' + (attrs.kid_noise_tolerant === 'likely' ? '(估)' : ''));
             if (attrs.spacious_seating === 'yes' || attrs.spacious_seating === 'likely') ams.push('🛋️空間寬敞' + (attrs.spacious_seating === 'likely' ? '(估)' : ''));
             if (attrs.has_play_area === 'yes' || attrs.has_play_area === 'likely') ams.push('🧸有遊樂區' + (attrs.has_play_area === 'likely' ? '(估)' : ''));
-            if (attrs.has_private_room === 'yes' || attrs.has_private_room === 'likely') ams.push('🚪包廂或可包場' + (attrs.has_private_room === 'likely' ? '(估)' : ''));
+            const roomVal = attrs.has_private_room;
+            if (roomVal === 'yes' || roomVal === 'room' || roomVal === 'venue' || roomVal === 'likely' || roomVal === 'likely_room' || roomVal === 'likely_venue') {
+                const isLikely = roomVal.startsWith('likely');
+                ams.push('🚪包廂或可包場' + (isLikely ? '(估)' : ''));
+            }
             const amsText = ams.length > 0 ? ams.join(' · ') : '暫無特徵標籤';
 
             listHtml += `
@@ -3756,7 +3795,9 @@ function renderShortlistDrawer() {
             const tableware = attrs.has_tableware === 'yes' ? checkIcon : (attrs.has_tableware === 'likely' ? checkLikelyIcon : (attrs.has_tableware === 'no' ? crossGeneralIcon : unknownIcon));
             const diaper = attrs.has_diaper_table === 'yes' ? checkIcon : (attrs.has_diaper_table === 'likely' ? checkLikelyIcon : (attrs.has_diaper_table === 'no' ? crossGeneralIcon : unknownIcon));
             const play = attrs.has_play_area === 'yes' ? checkIcon : (attrs.has_play_area === 'likely' ? checkLikelyIcon : (attrs.has_play_area === 'no' ? crossGeneralIcon : unknownIcon));
-            const room = attrs.has_private_room === 'yes' ? checkIcon : (attrs.has_private_room === 'likely' ? checkLikelyIcon : (attrs.has_private_room === 'no' ? crossGeneralIcon : unknownIcon));
+            const isRoomPositive = ['yes', 'room', 'venue'].includes(attrs.has_private_room);
+            const isRoomLikely = ['likely', 'likely_room', 'likely_venue'].includes(attrs.has_private_room);
+            const room = isRoomPositive ? checkIcon : (isRoomLikely ? checkLikelyIcon : (attrs.has_private_room === 'no' ? crossGeneralIcon : unknownIcon));
 
             const isWholeCity = state.searchLocation && (state.searchLocation.type === '全市' || state.searchLocation.name === '整個台北市');
             const times = (!isWholeCity && res.distance) ? calculateTravelTimes(res.distance) : null;
