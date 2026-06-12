@@ -466,67 +466,6 @@ function setupEventListeners() {
         if (searchInput.value.trim().length > 0) {
             autocompleteDropdown.classList.remove('hidden');
         } else {
-    try {
-        console.log('Initializing app...');
-        // Check if data is available
-        if (typeof locationData === 'undefined') {
-            console.error('locationData is not loaded. Make sure locations.js is included.');
-            state.locationData = [];
-        } else {
-            state.locationData = locationData;
-        }
-
-        if (typeof restaurantData === 'undefined') {
-            console.error('restaurantData is not loaded. Make sure ai_review/index.js is included.');
-        } else {
-            console.log('restaurantData loaded successfully, count:', restaurantData.length);
-            const statsEl = document.querySelector('.header-stats');
-            if (statsEl) {
-                statsEl.textContent = `📍 已分析台北市 ${restaurantData.length} 間餐廳，持續更新中`;
-            }
-        }
-
-        initMap();
-        loadFavorites();
-        setupEventListeners();
-        updateShortlistUI();
-        setupPwaInstallPrompt();
-
-        // Global listener for map popup buttons (View Details)
-        state.map.on('popupopen', (e) => {
-            // Prevent moveend from wiping markers (Leaflet auto-pans when opening a popup)
-            state.popupOpen = true;
-            const container = e.popup.getElement();
-            const btn = container.querySelector('.btn-show-detail-from-map');
-            if (btn) {
-                const res = e.popup.options.restaurantData;
-                if (res) {
-                    btn.addEventListener('click', () => {
-                        showDetail(res);
-                    });
-                }
-            }
-        });
-        state.map.on('popupclose', () => {
-            state.popupOpen = false;
-        });
-
-        console.log('Map initialized');
-        syncStateFromUrl(true);
-        console.log('App initialized successfully');
-    } catch (err) {
-        console.error('App initialization failed:', err);
-        showToast('網站載入失敗，請重新整理');
-    }
-}
-
-function setupEventListeners() {
-    // Search Input
-    searchInput.addEventListener('input', handleAutocomplete);
-    searchInput.addEventListener('focus', () => {
-        if (searchInput.value.trim().length > 0) {
-            autocompleteDropdown.classList.remove('hidden');
-        } else {
             showPopularRecommendations();
         }
     });
@@ -1462,6 +1401,71 @@ async function executeSearch(query) {
             selectLocation(customLoc, 'local_keyword_search');
             return;
         }
+
+        // 4. Online Geocoding via Nominatim
+        const geocoded = await geocodeAddress(query);
+        if (geocoded) {
+            if (geocoded.isFallback) {
+                showToast(`📍 地圖圖資未收錄此門牌，已定位至鄰近路段「${geocoded.fallbackName}」`, 5000);
+            }
+            selectLocation(geocoded, 'nominatim_geocoding');
+        } else {
+            showToast('找不到此地點或相符餐廳，請輸入更明確的雙北地址、地標或關鍵字');
+        }
+    } catch (e) {
+        console.error('Custom search failed:', e);
+        showToast('搜尋時發生錯誤，請稍後再試');
+    } finally {
+        if (searchMagnifier) {
+            searchMagnifier.innerHTML = originalContent;
+            searchMagnifier.disabled = false;
+        }
+    }
+}
+
+function handleNearby() {
+    if (!navigator.geolocation) {
+        showToast('瀏覽器不支援定位功能');
+        return;
+    }
+
+    const btnNearbyProminent = document.getElementById('btn-nearby-prominent');
+    const mapPinSvg = `
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="15" height="15" style="display: block; filter: drop-shadow(0 1px 1px rgba(0,0,0,0.3));">
+            <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z" fill="#EA4335"/>
+            <circle cx="12" cy="9" r="3.2" fill="#7A1E1A"/>
+        </svg>
+    `;
+
+    if (btnNearby) btnNearby.innerHTML = '<span class="icon">⏳</span>';
+    if (btnNearbyProminent) {
+        btnNearbyProminent.innerHTML = '<span class="icon">⏳</span><span>定位中...</span>';
+    }
+
+    navigator.geolocation.getCurrentPosition(
+        (pos) => {
+            const loc = {
+                name: '我附近',
+                lat: pos.coords.latitude,
+                lng: pos.coords.longitude,
+                type: '目前位置'
+            };
+            state.userLocation = { lat: loc.lat, lng: loc.lng };
+            selectLocation(loc, 'nearby');
+            
+            if (btnNearby) btnNearby.innerHTML = '<span class="icon">📍</span>';
+            if (btnNearbyProminent) {
+                btnNearbyProminent.innerHTML = `<span class="icon">${mapPinSvg}</span><span>我附近</span>`;
+            }
+        },
+        (err) => {
+            console.error(err);
+            if (err && err.code === 1) {
+                showToast('已停用定位。請點擊網址列旁的「鎖頭」或「設定」圖示重新開啟定位權限，或手動輸入地點。', 6000);
+            } else {
+                showToast('定位失敗，請手動輸入地點');
+            }
+            
             if (btnNearby) btnNearby.innerHTML = '<span class="icon">📍</span>';
             if (btnNearbyProminent) {
                 btnNearbyProminent.innerHTML = `<span class="icon">${mapPinSvg}</span><span>我附近</span>`;
