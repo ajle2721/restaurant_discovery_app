@@ -1,0 +1,133 @@
+{
+  "id": "ChIJk0uU_XKpQjQRtLULt5DMK6c",
+  "types": [
+    "family_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2371 3128",
+  "formattedAddress": "100台灣臺北市中正區黎明里許昌街19號",
+  "location": {
+    "latitude": 25.045673999999998,
+    "longitude": 121.51666639999999
+  },
+  "rating": 4.1,
+  "websiteUri": "https://www.royalpark.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 3045,
+  "displayName": {
+    "text": "樂雅樂餐廳 站前店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJk0uU_XKpQjQRtLULt5DMK6c/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pVNVEyRjRSR3BRVG1FeVpscFFWbGxtZFZoSWVFRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "只是想喝杯咖啡而已，進來後感覺這裡的服務人員，有一種很特別的氣質，就是明明是平價消費，卻把服務這件事當成一門專業在做。不是看客人臉色、隨機發揮心情，而是從心裡到外都把「把事情做好」當成基本款。這種穩定又有素養的服務，會讓人不知不覺，把這家店收進自己心裡的「安心名單」裡，很自然就喜歡上了。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "只是想喝杯咖啡而已，進來後感覺這裡的服務人員，有一種很特別的氣質，就是明明是平價消費，卻把服務這件事當成一門專業在做。不是看客人臉色、隨機發揮心情，而是從心裡到外都把「把事情做好」當成基本款。這種穩定又有素養的服務，會讓人不知不覺，把這家店收進自己心裡的「安心名單」裡，很自然就喜歡上了。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Terry Chiang",
+        "uri": "https://www.google.com/maps/contrib/109053335007001422325/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXqxy9H39m4-eG6MRflJY-R9Fs3NrkjWTGuo5fXBD7h0bcx_3PVfQ=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-02-03T10:05:46.120959486Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pVNVEyRjRSR3BRVG1FeVpscFFWbGxtZFZoSWVFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pVNVEyRjRSR3BRVG1FeVpscFFWbGxtZFZoSWVFRRAB!2m1!1s0x3442a972fd944b93:0xa72bcc90b70bb5b4"
+    },
+    {
+      "name": "places/ChIJk0uU_XKpQjQRtLULt5DMK6c/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkaGREWTJXR016ZFRGSlRFbE9SV2hpYkU1Q2FYYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "約100G的和牛漢堡排佐炸魚塊少量沙拉，配米飯和番茄湯、飲料吧，以上餐點餐券價368，吃起來就一般，個人是覺得稍貴。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "約100G的和牛漢堡排佐炸魚塊少量沙拉，配米飯和番茄湯、飲料吧，以上餐點餐券價368，吃起來就一般，個人是覺得稍貴。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Paul Wu",
+        "uri": "https://www.google.com/maps/contrib/102585832025460668717/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVki1nEDzBbwre3d-mIAeW10vnbb_sj82bvKDzW9-dKbL7bhisr=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-20T15:16:12.052187473Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkaGREWTJXR016ZFRGSlRFbE9SV2hpYkU1Q2FYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkaGREWTJXR016ZFRGSlRFbE9SV2hpYkU1Q2FYYxAB!2m1!1s0x3442a972fd944b93:0xa72bcc90b70bb5b4"
+    },
+    {
+      "name": "places/ChIJk0uU_XKpQjQRtLULt5DMK6c/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGMGJHUlZlRmxMZEVoNVluQkZSWG96ZUdGalVWRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "餐點口味還不錯，牛肉比想像中軟嫩，飲料也是自助喝到飽，如果在台北站前商圈，想找個舒適人少不需排隊的餐廳用餐，可以試試。\n\n本次人均消費約700元。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點口味還不錯，牛肉比想像中軟嫩，飲料也是自助喝到飽，如果在台北站前商圈，想找個舒適人少不需排隊的餐廳用餐，可以試試。\n\n本次人均消費約700元。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "吳傑森",
+        "uri": "https://www.google.com/maps/contrib/113417611303314779834/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXVW9VLuk0MPNkDueiju_A9UGyAWCeTzcL5qnsJ1VXeJSqi256kSA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-09-25T02:33:52.842971557Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGMGJHUlZlRmxMZEVoNVluQkZSWG96ZUdGalVWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGMGJHUlZlRmxMZEVoNVluQkZSWG96ZUdGalVWRRAB!2m1!1s0x3442a972fd944b93:0xa72bcc90b70bb5b4"
+    },
+    {
+      "name": "places/ChIJk0uU_XKpQjQRtLULt5DMK6c/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5S1dHSlFMV0ZTU1dkZk5VcFRiR2RRZVVkUWQxRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "早餐時段8:00-10:30\n（10:30前要送出點菜菜單）\n早餐的氛圍不錯，安靜舒適，\n在日系餐廳享用日式早餐定食很有fu\n吃完早餐邊喝飲料看本書是一大享受\n點餐後限時2小時\n*線上填完樂雅樂問卷可以當場兌換甜點一份，建議先跟服務人員先說，就可以結帳前先在座位上享用甜點，這次甜點是芒果奶酪（口感中上）\n\n大概11點後，用中餐的客人就變多了\n想要享受獨旅的人建議避免中餐人多時\n\n服務人員都很有禮貌有耐心\n對於想要享受用餐時光的人很棒😊\n\n2025.10.8（星期三）\n\nIG: ii_in_taiwan\nfb: 小女人大小姐自由女神",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "早餐時段8:00-10:30\n（10:30前要送出點菜菜單）\n早餐的氛圍不錯，安靜舒適，\n在日系餐廳享用日式早餐定食很有fu\n吃完早餐邊喝飲料看本書是一大享受\n點餐後限時2小時\n*線上填完樂雅樂問卷可以當場兌換甜點一份，建議先跟服務人員先說，就可以結帳前先在座位上享用甜點，這次甜點是芒果奶酪（口感中上）\n\n大概11點後，用中餐的客人就變多了\n想要享受獨旅的人建議避免中餐人多時\n\n服務人員都很有禮貌有耐心\n對於想要享受用餐時光的人很棒😊\n\n2025.10.8（星期三）\n\nIG: ii_in_taiwan\nfb: 小女人大小姐自由女神",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Irisa Lai",
+        "uri": "https://www.google.com/maps/contrib/113694535450912275740/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUmCublTaNcdVDT0oEPvAgACQCqJilvOK-PYtnlj8mXvMazexfoPA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-10T09:21:13.199031293Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5S1dHSlFMV0ZTU1dkZk5VcFRiR2RRZVVkUWQxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5S1dHSlFMV0ZTU1dkZk5VcFRiR2RRZVVkUWQxRRAB!2m1!1s0x3442a972fd944b93:0xa72bcc90b70bb5b4"
+    },
+    {
+      "name": "places/ChIJk0uU_XKpQjQRtLULt5DMK6c/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxeFNrOUhhR0U1YjI5dVZFUlVVelpzVTFobGNrRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "北車站前的老店，充滿回憶的地方，有時進來用餐就會有時間凍結的感覺，年終最後的午餐，感謝要感謝的人也是不錯的好選擇！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "北車站前的老店，充滿回憶的地方，有時進來用餐就會有時間凍結的感覺，年終最後的午餐，感謝要感謝的人也是不錯的好選擇！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yang Cory",
+        "uri": "https://www.google.com/maps/contrib/111445187286396674846/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX_fOSt1MZk1FassIy1z8__PitLeIeMMd1W39nwTi03oqM1n--0bg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-31T07:45:05.591737912Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxeFNrOUhhR0U1YjI5dVZFUlVVelpzVTFobGNrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxeFNrOUhhR0U1YjI5dVZFUlVVelpzVTFobGNrRRAB!2m1!1s0x3442a972fd944b93:0xa72bcc90b70bb5b4"
+    }
+  ],
+  "menuForChildren": true,
+  "goodForChildren": true
+}

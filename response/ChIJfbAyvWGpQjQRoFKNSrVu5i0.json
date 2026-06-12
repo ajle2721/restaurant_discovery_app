@@ -1,0 +1,133 @@
+{
+  "id": "ChIJfbAyvWGpQjQRoFKNSrVu5i0",
+  "types": [
+    "restaurant",
+    "noodle_shop",
+    "brunch_restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2365 5565",
+  "formattedAddress": "100台灣臺北市中正區頂東里晉江街101號B室",
+  "location": {
+    "latitude": 25.023493600000002,
+    "longitude": 121.52411469999998
+  },
+  "rating": 4.8,
+  "websiteUri": "https://www.facebook.com/Zhaozhaositdownplease?mibextid=LQQJ4d",
+  "userRatingCount": 327,
+  "displayName": {
+    "text": "朝朝-各式炒麵、烤餅餐盤",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJfbAyvWGpQjQRoFKNSrVu5i0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOeVdHVnhUMHhPUVdoSFZqQTFNRGhMV2poRmIyYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "環境佈置得不錯，採光好且氣氛舒適，適合拍照~\n\n​餐點部分，太陽蛋煎得很漂亮，熟度恰到好處。不過牛肉黑胡椒炒麵稍微可惜，吃起來缺乏現炒的香氣，醬汁風味與麵條的口感比較像速食包加熱後的感覺~\n\n​比較失望的是冰萃咖啡，口感偏稀薄且水感重，建議對咖啡有要求的朋友可以再斟酌~",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境佈置得不錯，採光好且氣氛舒適，適合拍照~\n\n​餐點部分，太陽蛋煎得很漂亮，熟度恰到好處。不過牛肉黑胡椒炒麵稍微可惜，吃起來缺乏現炒的香氣，醬汁風味與麵條的口感比較像速食包加熱後的感覺~\n\n​比較失望的是冰萃咖啡，口感偏稀薄且水感重，建議對咖啡有要求的朋友可以再斟酌~",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "TT",
+        "uri": "https://www.google.com/maps/contrib/115381420038231691403/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWU1pp3nULp9P2N2CRxjh__06Zw6BqyWdidPiqfV4Ri9CHu-I8=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-09T15:22:08.815313133Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOeVdHVnhUMHhPUVdoSFZqQTFNRGhMV2poRmIyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOeVdHVnhUMHhPUVdoSFZqQTFNRGhMV2poRmIyYxAB!2m1!1s0x3442a961bd32b07d:0x2de66eb54a8d52a0"
+    },
+    {
+      "name": "places/ChIJfbAyvWGpQjQRoFKNSrVu5i0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWeWRUWjVTV1JITlRsV1MyeHJlRmN5V2tGS1NVRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "泡菜湯麵湯頭好喝、起司不知道是什麼牌子的也超好吃！\n大阪燒炒麵，味道較重口味，但也很好吃！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "泡菜湯麵湯頭好喝、起司不知道是什麼牌子的也超好吃！\n大阪燒炒麵，味道較重口味，但也很好吃！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "ZC",
+        "uri": "https://www.google.com/maps/contrib/113602948944182979798/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX5onLaey3jcJ-JWRuszshcPkF9VgqE2cJT4NtWa7MfUuVc66yywA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-22T09:18:39.604928955Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWeWRUWjVTV1JITlRsV1MyeHJlRmN5V2tGS1NVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWeWRUWjVTV1JITlRsV1MyeHJlRmN5V2tGS1NVRRAB!2m1!1s0x3442a961bd32b07d:0x2de66eb54a8d52a0"
+    },
+    {
+      "name": "places/ChIJfbAyvWGpQjQRoFKNSrVu5i0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tobGJ6VjZiekk1Ym01WmJHaHdYMWxGUlhwc1UyYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "住在附近幾年，今天終於有空進來！\n\n確實，很有氣氛的一間小小早午餐店；餐點口味很優，價格也很實惠。\n\n這次來是下雨天，落地窗外的雨景，搭配店內陳設用與音樂，蠻有療癒效果！\n\n座位不多，用餐時間經常滿座，蠻值得來！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "住在附近幾年，今天終於有空進來！\n\n確實，很有氣氛的一間小小早午餐店；餐點口味很優，價格也很實惠。\n\n這次來是下雨天，落地窗外的雨景，搭配店內陳設用與音樂，蠻有療癒效果！\n\n座位不多，用餐時間經常滿座，蠻值得來！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Kenjil Cheng",
+        "uri": "https://www.google.com/maps/contrib/100044406289947513721/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWX9aG7sn-qdhk3M6ERBfCK4u9DPoMeX2D3Wz7_Th8oPaqf_yhCng=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-26T07:35:21.115357798Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tobGJ6VjZiekk1Ym01WmJHaHdYMWxGUlhwc1UyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tobGJ6VjZiekk1Ym01WmJHaHdYMWxGUlhwc1UyYxAB!2m1!1s0x3442a961bd32b07d:0x2de66eb54a8d52a0"
+    },
+    {
+      "name": "places/ChIJfbAyvWGpQjQRoFKNSrVu5i0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGWmNIZ3hSRk5hU0dWMlYwWnpORzV0ZUdsM1ZWRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "今天在附近做完復健，順便在附近找午餐結果意外挖到一間寶藏小店！\n點了明太子白醬豬肉炒麵和咖喱烤餅。咖喱烤餅搭配裡面的高麗菜沙拉很清爽，整體不會太膩，炒麵也很好吃。\n\n店內整體裝潢溫暖舒服，空間不大但給人滿滿安全感。下著綿綿細雨的中午配著老闆選的歌，氛圍感直接拉滿。老闆人帥又很親切，還幫我搭套餐省錢 XD\n（個人非常喜歡那個唱片杯墊好想帶回家）\n\n整體用餐體驗非常放鬆舒服，好吃、好聽、好環境，五星完全值得！🌟🌟🌟🌟🌟",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天在附近做完復健，順便在附近找午餐結果意外挖到一間寶藏小店！\n點了明太子白醬豬肉炒麵和咖喱烤餅。咖喱烤餅搭配裡面的高麗菜沙拉很清爽，整體不會太膩，炒麵也很好吃。\n\n店內整體裝潢溫暖舒服，空間不大但給人滿滿安全感。下著綿綿細雨的中午配著老闆選的歌，氛圍感直接拉滿。老闆人帥又很親切，還幫我搭套餐省錢 XD\n（個人非常喜歡那個唱片杯墊好想帶回家）\n\n整體用餐體驗非常放鬆舒服，好吃、好聽、好環境，五星完全值得！🌟🌟🌟🌟🌟",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "ryan cheah",
+        "uri": "https://www.google.com/maps/contrib/116220424234590988210/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKgD8wNPgz1tSrRzkHtVgdSMU7M4R4C9RomtzMvCunzwxW1zA=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-12T05:06:29.375934490Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGWmNIZ3hSRk5hU0dWMlYwWnpORzV0ZUdsM1ZWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGWmNIZ3hSRk5hU0dWMlYwWnpORzV0ZUdsM1ZWRRAB!2m1!1s0x3442a961bd32b07d:0x2de66eb54a8d52a0"
+    },
+    {
+      "name": "places/ChIJfbAyvWGpQjQRoFKNSrVu5i0/reviews/Ci9DQUlRQUNvZENodHljRjlvT205aGNqRm1XVjltVVRocVFYRXhXSGd6YW5sU2NGRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "可愛的小店，木桌子和古典的圖書館檯燈給人一種外國校園Bistro的感覺，今天用餐的時候背景音樂的City pop風日劇歌曲也很經典。然後店裡也有一些星爺的元素，進門看到海報就笑出來了。\n\nBTW 餐點部分點的是明太子炒麵，記憶點不多但還可以。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "可愛的小店，木桌子和古典的圖書館檯燈給人一種外國校園Bistro的感覺，今天用餐的時候背景音樂的City pop風日劇歌曲也很經典。然後店裡也有一些星爺的元素，進門看到海報就笑出來了。\n\nBTW 餐點部分點的是明太子炒麵，記憶點不多但還可以。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "詹宜宗（PlayJan）",
+        "uri": "https://www.google.com/maps/contrib/103195038632598237647/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUygWoIiIKHs795ffXDGdOlOX7E_wibvan5td5hdzIg_8t9pNht=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-20T05:08:13.783628007Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205aGNqRm1XVjltVVRocVFYRXhXSGd6YW5sU2NGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205aGNqRm1XVjltVVRocVFYRXhXSGd6YW5sU2NGRRAB!2m1!1s0x3442a961bd32b07d:0x2de66eb54a8d52a0"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": false
+}

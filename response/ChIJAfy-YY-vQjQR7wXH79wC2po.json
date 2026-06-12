@@ -1,0 +1,130 @@
+{
+  "id": "ChIJAfy-YY-vQjQR7wXH79wC2po",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2876 1228",
+  "formattedAddress": "111050台灣臺北市士林區天玉里天母北路24號",
+  "location": {
+    "latitude": 25.1198335,
+    "longitude": 121.5263307
+  },
+  "rating": 4.4,
+  "userRatingCount": 90,
+  "displayName": {
+    "text": "Day Nice日久阿囉哈早午餐-天母北店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJAfy-YY-vQjQR7wXH79wC2po/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pneGEyUkhjSFEyTlhCMFZHSkZibFZGTTJZeFUzYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 3,
+      "text": {
+        "text": "2025/11\n\n環境小小的，但桌椅都還夠，有吧台跟四人座、2人座，採QR code點餐，出餐速度算快，服務人員態度很好。\n\n週一固定公休，這次點了左岸法式套餐，薯條、熱狗、沙拉中規中矩，但法式吐司還可以，整體而言應該還會再來嘗試看看其他餐點。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2025/11\n\n環境小小的，但桌椅都還夠，有吧台跟四人座、2人座，採QR code點餐，出餐速度算快，服務人員態度很好。\n\n週一固定公休，這次點了左岸法式套餐，薯條、熱狗、沙拉中規中矩，但法式吐司還可以，整體而言應該還會再來嘗試看看其他餐點。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lulu",
+        "uri": "https://www.google.com/maps/contrib/114398821210644521212/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZSmmACPUGltDiydFXkwtihvbbjqPE4tnLeBZ2kb4sdeJ56plB=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-03T13:54:46.060855625Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pneGEyUkhjSFEyTlhCMFZHSkZibFZGTTJZeFUzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pneGEyUkhjSFEyTlhCMFZHSkZibFZGTTJZeFUzYxAB!2m1!1s0x3442af8f61befc01:0x9ada02dcefc705ef"
+    },
+    {
+      "name": "places/ChIJAfy-YY-vQjQR7wXH79wC2po/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pBeFJYRmZSa3hUTmt4c2VFbzVSbWRZWlRFelExRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "2016-02-15 初訪✌️服務親切專業、餐點普通還可以加強！環境簡單！加油",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2016-02-15 初訪✌️服務親切專業、餐點普通還可以加強！環境簡單！加油",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lucas Fang",
+        "uri": "https://www.google.com/maps/contrib/101693087462389724625/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGGNRmPsj6IJcCYWE2HWbm4YyYRZcNwsWRnQOmA5tlG6D4KNMg=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-02-15T02:10:10.619774806Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pBeFJYRmZSa3hUTmt4c2VFbzVSbWRZWlRFelExRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pBeFJYRmZSa3hUTmt4c2VFbzVSbWRZWlRFelExRRAB!2m1!1s0x3442af8f61befc01:0x9ada02dcefc705ef"
+    },
+    {
+      "name": "places/ChIJAfy-YY-vQjQR7wXH79wC2po/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xSE1EVkNUVlJtUW1jdE5tNXVZalpzTTNKbVpIYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 1,
+      "text": {
+        "text": "鮮奶茶的比例應該是（茶：奶）30:1吧！\n沒喝過早餐店鮮奶茶這麼雷的！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "鮮奶茶的比例應該是（茶：奶）30:1吧！\n沒喝過早餐店鮮奶茶這麼雷的！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "SenTeng Cheng",
+        "uri": "https://www.google.com/maps/contrib/116967816818726225916/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUCE0fDjRY3ytl6vBsJiofvWzb1USW_xWIm-4szAKnXxRXczuRI=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-13T01:26:15.204453428Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xSE1EVkNUVlJtUW1jdE5tNXVZalpzTTNKbVpIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xSE1EVkNUVlJtUW1jdE5tNXVZalpzTTNKbVpIYxAB!2m1!1s0x3442af8f61befc01:0x9ada02dcefc705ef"
+    },
+    {
+      "name": "places/ChIJAfy-YY-vQjQR7wXH79wC2po/reviews/ChdDSUhNMG9nS0VJQ0FnSUN4Ml9DQm9BRRAB",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 3,
+      "text": {
+        "text": "刀削麵口感偏有嚼勁，花生厚片不錯再多烤一下下會更酥更好吃的，炸雞塊炸的不夠酥內餡太軟口感上有點怪，奶茶好喝👍每次來首選都是吐司類👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "刀削麵口感偏有嚼勁，花生厚片不錯再多烤一下下會更酥更好吃的，炸雞塊炸的不夠酥內餡太軟口感上有點怪，奶茶好喝👍每次來首選都是吐司類👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林希",
+        "uri": "https://www.google.com/maps/contrib/110317359216934723348/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU9CrOeLs9qqM4sPTEzsjZZfEXGmoI4Aa4wcL94u0Z69jl3sKbvgQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2023-05-26T19:02:15.007258Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN4Ml9DQm9BRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN4Ml9DQm9BRRAB!2m1!1s0x3442af8f61befc01:0x9ada02dcefc705ef"
+    },
+    {
+      "name": "places/ChIJAfy-YY-vQjQR7wXH79wC2po/reviews/ChZDSUhNMG9nS0VJQ0FnSURlck9UNVF3EAE",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 3,
+      "text": {
+        "text": "2022/10初訪\n生意不錯\n環境：算乾淨，座位比較擠，開放式所以冷氣不涼\n服務：老闆娘很親切，會主動關心詢問\n餐點：一般早餐店（半自助式）\n唯一小建議～不管內用、外帶、應該照先來後到順序，並不是外帶就趕時間\n因為我觀察很久，總是先出餐給外帶（我們後面才來的一個藍衣服現場點餐的女人）。\n\n這樣的出餐順序不對…\n不然建議下次說自己外帶、然後可以先拿到餐點，再坐下來吃！\n以上～\n加油～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2022/10初訪\n生意不錯\n環境：算乾淨，座位比較擠，開放式所以冷氣不涼\n服務：老闆娘很親切，會主動關心詢問\n餐點：一般早餐店（半自助式）\n唯一小建議～不管內用、外帶、應該照先來後到順序，並不是外帶就趕時間\n因為我觀察很久，總是先出餐給外帶（我們後面才來的一個藍衣服現場點餐的女人）。\n\n這樣的出餐順序不對…\n不然建議下次說自己外帶、然後可以先拿到餐點，再坐下來吃！\n以上～\n加油～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hsu Jeremy",
+        "uri": "https://www.google.com/maps/contrib/112658307895125270885/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW_A21cDPotQwZkg2Xo9tVTJpSjclSUZ0abL_5JSJlTNxqAxuYz=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2022-10-04T08:05:38.939412Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURlck9UNVF3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURlck9UNVF3EAE!2m1!1s0x3442af8f61befc01:0x9ada02dcefc705ef"
+    }
+  ],
+  "goodForChildren": true
+}

@@ -1,0 +1,135 @@
+{
+  "id": "ChIJoxEII3qrQjQRDblyEs1rxyc",
+  "types": [
+    "brunch_restaurant",
+    "breakfast_restaurant",
+    "meal_delivery",
+    "food_delivery",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2732 6627",
+  "formattedAddress": "110台灣臺北市信義區景勤里吳興街156巷2弄12號",
+  "location": {
+    "latitude": 25.0293599,
+    "longitude": 121.56137109999999
+  },
+  "rating": 4,
+  "websiteUri": "https://fnb-qrcode.trendlab.ai/v15/home?braId=1011523351736352768&codeId=1013944969504272384",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 189,
+  "displayName": {
+    "text": "阿波羅早午餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJoxEII3qrQjQRDblyEs1rxyc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOTVZrSkZXVzFhTFZocFoyZFhPRWhhWDNBelYzYxAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 5,
+      "text": {
+        "text": "肉醬麵好吃\n雞腿排好吃 很香很嫩\n豬排意外又厚又嫩 很香\n特調咖啡超好喝！！要喝就愛上\n雞塊普普\n薯餅蛋塔很用心 還有起司玉米包含在裡面\n蕃茄醬很有誠意附了兩包❤️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "肉醬麵好吃\n雞腿排好吃 很香很嫩\n豬排意外又厚又嫩 很香\n特調咖啡超好喝！！要喝就愛上\n雞塊普普\n薯餅蛋塔很用心 還有起司玉米包含在裡面\n蕃茄醬很有誠意附了兩包❤️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "葉問吃什麼?",
+        "uri": "https://www.google.com/maps/contrib/115144864218916365183/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVELdNnAeEVF-H-s9FRzbxD6t7HQtH0SmOmzmtemwK2N9-MjbI=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-06-28T03:00:11.880282538Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOTVZrSkZXVzFhTFZocFoyZFhPRWhhWDNBelYzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOTVZrSkZXVzFhTFZocFoyZFhPRWhhWDNBelYzYxAB!2m1!1s0x3442ab7a230811a3:0x27c76bcd1272b90d"
+    },
+    {
+      "name": "places/ChIJoxEII3qrQjQRDblyEs1rxyc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s4dFZHMWxTMWN0VkV0clpTMTBTVUZyTkU4M2RVRRAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 5,
+      "text": {
+        "text": "早餐店選擇很多，價格實在，味道也不錯，尤其辣椒醬很加分。內用環境乾淨舒適，沒有油煙味。餐具採自取與自助回收，點餐可至櫃檯或使用 Line Pay，整體用餐體驗蠻不錯的，值得回訪。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "早餐店選擇很多，價格實在，味道也不錯，尤其辣椒醬很加分。內用環境乾淨舒適，沒有油煙味。餐具採自取與自助回收，點餐可至櫃檯或使用 Line Pay，整體用餐體驗蠻不錯的，值得回訪。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "MOFAN WU",
+        "uri": "https://www.google.com/maps/contrib/108975714572406800795/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLXICwjYwrVK9Yt7W20lBOpIM50GKcDIQ2qhTAJR84QcZ7c1w=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-08-01T01:40:23.656970532Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s4dFZHMWxTMWN0VkV0clpTMTBTVUZyTkU4M2RVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s4dFZHMWxTMWN0VkV0clpTMTBTVUZyTkU4M2RVRRAB!2m1!1s0x3442ab7a230811a3:0x27c76bcd1272b90d"
+    },
+    {
+      "name": "places/ChIJoxEII3qrQjQRDblyEs1rxyc/reviews/ChdDSUhNMG9nS0VJQ0FnTUR3eElISHNRRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 3,
+      "text": {
+        "text": "特製肉醬雞排麵，辣跟麵體有搭，但個人認為整體表現普通\n\n看網友有點😊特製肉醬雞排麵 $120，所以也來跟著點：份量的話以 \"早午餐\" 而言，個人還覺得不夠多😅\n☑️雞排皮的部分不是脆皮，表現普通\n✅肉醬的部份算調得蠻有記憶點的，為何說有記憶點呢 ? 因為菜單上前面其實有畫一個辣椒，第一口下去有嚇到，想說 \"嘿~ 是辣的\" 而且這種辣是只能吃一點辣的人也會覺得辣的那種，所以不吃辣或只能吃一點辣的千萬要注意一下，不過辣有跟麵體搭起來，是好吃的那種👍\n\n😊厚切牛肉蛋波蘿起司包 $140：這是友人點的，乍看有點難以解讀，反正就是 波蘿起司包(=波蘿包 + 起司)為基底 + 厚切牛肉蛋作為內餡，友人認為這品項在其他早午餐店應該不會只有這價格，以這價格表現算還不錯👌",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "特製肉醬雞排麵，辣跟麵體有搭，但個人認為整體表現普通\n\n看網友有點😊特製肉醬雞排麵 $120，所以也來跟著點：份量的話以 \"早午餐\" 而言，個人還覺得不夠多😅\n☑️雞排皮的部分不是脆皮，表現普通\n✅肉醬的部份算調得蠻有記憶點的，為何說有記憶點呢 ? 因為菜單上前面其實有畫一個辣椒，第一口下去有嚇到，想說 \"嘿~ 是辣的\" 而且這種辣是只能吃一點辣的人也會覺得辣的那種，所以不吃辣或只能吃一點辣的千萬要注意一下，不過辣有跟麵體搭起來，是好吃的那種👍\n\n😊厚切牛肉蛋波蘿起司包 $140：這是友人點的，乍看有點難以解讀，反正就是 波蘿起司包(=波蘿包 + 起司)為基底 + 厚切牛肉蛋作為內餡，友人認為這品項在其他早午餐店應該不會只有這價格，以這價格表現算還不錯👌",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hasa",
+        "uri": "https://www.google.com/maps/contrib/116770125000332908835/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVnd-vl2YuWliirKtrMBqkmOlPq6wdXzlZlI3B-JmxcSF0iArY=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-03-23T14:52:33.866089Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUR3eElISHNRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUR3eElISHNRRRAB!2m1!1s0x3442ab7a230811a3:0x27c76bcd1272b90d"
+    },
+    {
+      "name": "places/ChIJoxEII3qrQjQRDblyEs1rxyc/reviews/ChdDSUhNMG9nS0VJQ0FnSURiOWZDX3p3RRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "第一次嚐鮮，點了肉醬雞排麵，嫩煎菲力蛋餅，花生厚片，黑咖啡還蠻好喝，很順。\n原本點了ㄧ杯熱咖啡，後面又加點冰咖啡👍。\n給店家小提醒：熱飲若用紙杯，請不要封口，或改內用杯。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次嚐鮮，點了肉醬雞排麵，嫩煎菲力蛋餅，花生厚片，黑咖啡還蠻好喝，很順。\n原本點了ㄧ杯熱咖啡，後面又加點冰咖啡👍。\n給店家小提醒：熱飲若用紙杯，請不要封口，或改內用杯。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "吳姿穎",
+        "uri": "https://www.google.com/maps/contrib/115179217351434159266/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLrSlYk8TJLupKAn7DH8J7AH8xHsYDJLUD9ObFz98D7fO_xyw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2024-08-07T23:27:22.775421Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURiOWZDX3p3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURiOWZDX3p3RRAB!2m1!1s0x3442ab7a230811a3:0x27c76bcd1272b90d"
+    },
+    {
+      "name": "places/ChIJoxEII3qrQjQRDblyEs1rxyc/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRX0xiZndnRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 3,
+      "text": {
+        "text": "用酥皮餅皮卻沒有煎出酥的感覺，但菜單寫香酥蛋餅，而且蛋餅好薄\n會寧可去吃附近連鎖店🥲\n起司蛋餅$45",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "用酥皮餅皮卻沒有煎出酥的感覺，但菜單寫香酥蛋餅，而且蛋餅好薄\n會寧可去吃附近連鎖店🥲\n起司蛋餅$45",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Aceee",
+        "uri": "https://www.google.com/maps/contrib/109083983765018687677/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWZVUderL8WjT2Py80Ldcxj322YjPTo5IBS8bBYQNt-H_kt0qDb=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-03-03T04:15:47.028420Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRX0xiZndnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRX0xiZndnRRAB!2m1!1s0x3442ab7a230811a3:0x27c76bcd1272b90d"
+    }
+  ],
+  "goodForChildren": true
+}

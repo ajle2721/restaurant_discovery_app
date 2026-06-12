@@ -1,0 +1,131 @@
+{
+  "id": "ChIJFfUnrQivQjQRK0wmMZkCGEs",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2893 1813",
+  "formattedAddress": "112台灣臺北市北投區大同里大同街21號1樓",
+  "location": {
+    "latitude": 25.132856999999998,
+    "longitude": 121.49912800000001
+  },
+  "rating": 4.6,
+  "websiteUri": "https://www.facebook.com/%E5%B0%BE%E7%94%B0%E5%AE%B6%E3%82%AA%E3%83%80%E3%83%A4-104892491362485",
+  "userRatingCount": 601,
+  "displayName": {
+    "text": "尾田家オダヤ",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJFfUnrQivQjQRK0wmMZkCGEs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGeWJsUnNjMUJ5UVRJeFVrNTFjWG8wTlZWUFYyYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "裝修很有風格，台式雞絲涼麵味道不錯，味增蛋花湯味道偏甜，個人比較吃不習慣。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "裝修很有風格，台式雞絲涼麵味道不錯，味增蛋花湯味道偏甜，個人比較吃不習慣。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Fanny Tsai",
+        "uri": "https://www.google.com/maps/contrib/116755796562450973528/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU916Y3rvq28oCaVm6HaA5_NTzpAAqs-r30LVaKmJGb2ArUZCTfMg=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-12-08T13:11:15.543312629Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGeWJsUnNjMUJ5UVRJeFVrNTFjWG8wTlZWUFYyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGeWJsUnNjMUJ5UVRJeFVrNTFjWG8wTlZWUFYyYxAB!2m1!1s0x3442af08ad27f515:0x4b18029931264c2b"
+    },
+    {
+      "name": "places/ChIJFfUnrQivQjQRK0wmMZkCGEs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkb2NVMTFiVWhtYjFGc1JuTlVZa1ZFVUhGR1RIYxAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 5,
+      "text": {
+        "text": "台式麻醬的原味涼麵\n醬汁帶有一點點微辣\n配上爽脆的小黃瓜絲\n以及三合一的味增湯\n在炎炎的酷夏降火了\n\n推薦愛吃辣的朋友們👫\n一定要加上「麻辣醬」🌶️\n又濃又香又麻的滋味\n保證一口接一口的嗑光整碗醬😝",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "台式麻醬的原味涼麵\n醬汁帶有一點點微辣\n配上爽脆的小黃瓜絲\n以及三合一的味增湯\n在炎炎的酷夏降火了\n\n推薦愛吃辣的朋友們👫\n一定要加上「麻辣醬」🌶️\n又濃又香又麻的滋味\n保證一口接一口的嗑光整碗醬😝",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "采朋",
+        "uri": "https://www.google.com/maps/contrib/116575805759927027498/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV1KSEM4gRU06DywEqy5ENE8afMEW227YO-C_Y0AAMVgza98eb8gQ=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-06-26T12:33:07.992592511Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkb2NVMTFiVWhtYjFGc1JuTlVZa1ZFVUhGR1RIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkb2NVMTFiVWhtYjFGc1JuTlVZa1ZFVUhGR1RIYxAB!2m1!1s0x3442af08ad27f515:0x4b18029931264c2b"
+    },
+    {
+      "name": "places/ChIJFfUnrQivQjQRK0wmMZkCGEs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSSE1HTmFSRTFZT1dwR2IxOTNRMkUxTUVsSVQxRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 1,
+      "text": {
+        "text": "東西太好吃了，所以給一顆星。\n\n當天中午去吃飯約莫等了45分鐘，店裡只有老闆一人，備餐時間稍久。出餐順序不是按照先來後到出餐，是看哪個容易做的就先出，老闆可以幫你決定要不要先上餐還是等點單的全部備齊再上，這是老闆親自回覆的說法，要吃的人要有稍微餓肚子等的體悟再去。店外不禁菸，坐在店內直接吸店門口抽煙的二手菸味，對二手菸敏感的，可以謹慎考慮。\n\n是家有點可惜，但又覺得還好的店。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "東西太好吃了，所以給一顆星。\n\n當天中午去吃飯約莫等了45分鐘，店裡只有老闆一人，備餐時間稍久。出餐順序不是按照先來後到出餐，是看哪個容易做的就先出，老闆可以幫你決定要不要先上餐還是等點單的全部備齊再上，這是老闆親自回覆的說法，要吃的人要有稍微餓肚子等的體悟再去。店外不禁菸，坐在店內直接吸店門口抽煙的二手菸味，對二手菸敏感的，可以謹慎考慮。\n\n是家有點可惜，但又覺得還好的店。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "池田龍太",
+        "uri": "https://www.google.com/maps/contrib/108585050239803093808/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX4x7omRPDKkrmW3Cij36PQeEgF05_H3bHbIlXBYTNwVhh7ysiC=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-03-04T05:12:28.733798204Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSSE1HTmFSRTFZT1dwR2IxOTNRMkUxTUVsSVQxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSSE1HTmFSRTFZT1dwR2IxOTNRMkUxTUVsSVQxRRAB!2m1!1s0x3442af08ad27f515:0x4b18029931264c2b"
+    },
+    {
+      "name": "places/ChIJFfUnrQivQjQRK0wmMZkCGEs/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wTlNEaFFkM1k1WTFsWGFHRXhiVGhKVjFWaExXYxAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 4,
+      "text": {
+        "text": "平日午餐\n用餐環境非常復古舒適👍（除了廁所比較普通）\n點了甜不辣跟無骨鳳爪（可以蒜味再多、再辣一點），大致都還在水準之上，住附近的人應該比較會常來，不是的，應該不會專程來吃。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "平日午餐\n用餐環境非常復古舒適👍（除了廁所比較普通）\n點了甜不辣跟無骨鳳爪（可以蒜味再多、再辣一點），大致都還在水準之上，住附近的人應該比較會常來，不是的，應該不會專程來吃。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yoco",
+        "uri": "https://www.google.com/maps/contrib/114670039782094879342/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtjYvUoh3odlm__hRnex1nbLfpTorJeKXy_998hOsWS4uZ9N2L=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-06-23T09:08:00.514158312Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wTlNEaFFkM1k1WTFsWGFHRXhiVGhKVjFWaExXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wTlNEaFFkM1k1WTFsWGFHRXhiVGhKVjFWaExXYxAB!2m1!1s0x3442af08ad27f515:0x4b18029931264c2b"
+    },
+    {
+      "name": "places/ChIJFfUnrQivQjQRK0wmMZkCGEs/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SUFRFNXBlVVp0YVZWTU1FaFlaalpvTUhkWVFWRRAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 5,
+      "text": {
+        "text": "2025.7.2路過北投吃豆花順便體驗。\n1.小型日式家庭餐廳氛圍，很可愛舒適的環境，有掛我喜歡的風之谷王蟲海報；開放式廚房不過味道不會很濃郁跟有味道，環境很乾淨。\n2.有種京都的服務態度，也可能我是新客。\n3.菜單熟食區有個古早味甜醬麵，他是熱版的涼麵，雖然醬很好吃但很微妙地會有點若即若離感，原本想說有點可惜，不過店內的麻辣醬超級好吃，加一匙進去之後風味完全改變而且解決了原本的問題並且提升層次，請務必嘗試看看。\n3.關東煮醬料口味非常濃郁而且會沈在碗下面，請務必使用湯匙撈醬跟料一起吃才會平衡，不然像豬血糕就會比較沒味道了，甜不辣類跟貢丸都是好吃的。\n整體來說是有趣的小店，有機會的話下次會想再次去並且體驗他其他食物比如涼麵的程度。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2025.7.2路過北投吃豆花順便體驗。\n1.小型日式家庭餐廳氛圍，很可愛舒適的環境，有掛我喜歡的風之谷王蟲海報；開放式廚房不過味道不會很濃郁跟有味道，環境很乾淨。\n2.有種京都的服務態度，也可能我是新客。\n3.菜單熟食區有個古早味甜醬麵，他是熱版的涼麵，雖然醬很好吃但很微妙地會有點若即若離感，原本想說有點可惜，不過店內的麻辣醬超級好吃，加一匙進去之後風味完全改變而且解決了原本的問題並且提升層次，請務必嘗試看看。\n3.關東煮醬料口味非常濃郁而且會沈在碗下面，請務必使用湯匙撈醬跟料一起吃才會平衡，不然像豬血糕就會比較沒味道了，甜不辣類跟貢丸都是好吃的。\n整體來說是有趣的小店，有機會的話下次會想再次去並且體驗他其他食物比如涼麵的程度。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Brent Chen",
+        "uri": "https://www.google.com/maps/contrib/111475699657509123199/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW10P8_bApUGQv4k7trsjhuKuI7kWGjS_TiNF8XYygvBYKLX2U=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-07-02T15:49:08.696865153Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SUFRFNXBlVVp0YVZWTU1FaFlaalpvTUhkWVFWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SUFRFNXBlVVp0YVZWTU1FaFlaalpvTUhkWVFWRRAB!2m1!1s0x3442af08ad27f515:0x4b18029931264c2b"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

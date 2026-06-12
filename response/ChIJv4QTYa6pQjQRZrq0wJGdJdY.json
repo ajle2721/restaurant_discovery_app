@@ -1,0 +1,133 @@
+{
+  "id": "ChIJv4QTYa6pQjQRZrq0wJGdJdY",
+  "types": [
+    "brunch_restaurant",
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2304 0559",
+  "formattedAddress": "108台灣臺北市萬華區糖廍里西園路一段258之1號",
+  "location": {
+    "latitude": 25.0338314,
+    "longitude": 121.4981219
+  },
+  "rating": 4.3,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 190,
+  "displayName": {
+    "text": "美婆婆早午餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJv4QTYa6pQjQRZrq0wJGdJdY/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2dHZLVkZREAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "每一次來台灣都會非常期待吃早餐，因為台灣的蛋餅都非常好吃。今次住在台北凱達大飯店，一早起床就找一下附近有什麼評分較高的早餐店，在google map 給我找到了這家美婆婆早午餐。這家早午餐店同樣都是非常美味。我點了玉米蛋餅加起司，朱古力乳酪餅，鮮奶茶和橙汁。本身看到餐紙時只有玉米蛋餅，我們問店員可以加起司嗎，是可以的。本身不認識什麼是乳酪餅，原來是手抓餅夾著一塊白麵包，店長推介朱古力味最受歡迎，所以我們便點了，我們都對這餐非常滿意。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "每一次來台灣都會非常期待吃早餐，因為台灣的蛋餅都非常好吃。今次住在台北凱達大飯店，一早起床就找一下附近有什麼評分較高的早餐店，在google map 給我找到了這家美婆婆早午餐。這家早午餐店同樣都是非常美味。我點了玉米蛋餅加起司，朱古力乳酪餅，鮮奶茶和橙汁。本身看到餐紙時只有玉米蛋餅，我們問店員可以加起司嗎，是可以的。本身不認識什麼是乳酪餅，原來是手抓餅夾著一塊白麵包，店長推介朱古力味最受歡迎，所以我們便點了，我們都對這餐非常滿意。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ying Faat Wong (FireworkA8)",
+        "uri": "https://www.google.com/maps/contrib/110197646756558172522/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXkx0V1o6lLCCN-3jpNjUDp3Pvp76GAIcwtZIxfXRf--ESaALg_Yw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2024-12-20T10:08:49.424220Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2dHZLVkZREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2dHZLVkZREAE!2m1!1s0x3442a9ae611384bf:0xd6259d91c0b4ba66"
+    },
+    {
+      "name": "places/ChIJv4QTYa6pQjQRZrq0wJGdJdY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poalNERmpkVEl5VnpKaGRFRllNVjlrTkdscWJYYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "路過吃早餐，萬華林宅對面要過馬路，點套餐吃飽再去上班",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "路過吃早餐，萬華林宅對面要過馬路，點套餐吃飽再去上班",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "王藝臻Elise",
+        "uri": "https://www.google.com/maps/contrib/103427344981721197719/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVsgkvEyoz04ZECQZ29J7opmlYdUHoGY5XKjsm9Wvs_Bqp-A7aZ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-18T03:15:14.246857120Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poalNERmpkVEl5VnpKaGRFRllNVjlrTkdscWJYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poalNERmpkVEl5VnpKaGRFRllNVjlrTkdscWJYYxAB!2m1!1s0x3442a9ae611384bf:0xd6259d91c0b4ba66"
+    },
+    {
+      "name": "places/ChIJv4QTYa6pQjQRZrq0wJGdJdY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOa2VGWXhUMXBwZEdSVWRXNXZSV2RCVVU1eE1HYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 4,
+      "text": {
+        "text": "食物相當不錯。點了基本款，味道就很棒！\n\nPretty good food. Got the basics and it tastes great!",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "食物相當不錯。點了基本款，味道就很棒！\n\nPretty good food. Got the basics and it tastes great!",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Dean Jefferson Tan",
+        "uri": "https://www.google.com/maps/contrib/107038526659202861191/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUFdZEdKLS9xFfKRfHyldyCH56MnnOmvpchQmvtcMmupCCGzw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-08-26T16:21:02.241518290Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOa2VGWXhUMXBwZEdSVWRXNXZSV2RCVVU1eE1HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOa2VGWXhUMXBwZEdSVWRXNXZSV2RCVVU1eE1HYxAB!2m1!1s0x3442a9ae611384bf:0xd6259d91c0b4ba66"
+    },
+    {
+      "name": "places/ChIJv4QTYa6pQjQRZrq0wJGdJdY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNtX3ZMNk5BEAE",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 5,
+      "text": {
+        "text": "最近狂搜鍋燒意麵，\n這裡的味道足夠，\n而且超級熱~\n雖然吃的這天天氣很冷，\n座位在路邊，\n還是喝著很燙的湯，\n而且鍋燒意麵一大碗是50元，\n台北最便宜了~\n真的很猛，\n2023.2.17新增菜單照片~~~\n鍋燒意麵漲價變成55元~",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "最近狂搜鍋燒意麵，\n這裡的味道足夠，\n而且超級熱~\n雖然吃的這天天氣很冷，\n座位在路邊，\n還是喝著很燙的湯，\n而且鍋燒意麵一大碗是50元，\n台北最便宜了~\n真的很猛，\n2023.2.17新增菜單照片~~~\n鍋燒意麵漲價變成55元~",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張特別",
+        "uri": "https://www.google.com/maps/contrib/117786854641718905617/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUCd8avzTKCWiicboUdD_29L2KrnjWuZTAnB7idEA3Lt1uzzY7xBg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2023-02-16T23:27:21.119012Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNtX3ZMNk5BEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNtX3ZMNk5BEAE!2m1!1s0x3442a9ae611384bf:0xd6259d91c0b4ba66"
+    },
+    {
+      "name": "places/ChIJv4QTYa6pQjQRZrq0wJGdJdY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoai1QUXdRRRAB",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 5,
+      "text": {
+        "text": "第一次吃這家店，雖然沒人招呼\n但可以感覺到人手不足\n真的很忙碌\n但...餐點真的蠻好吃的\n尤其是炒飯，有點鍋巴\n炸的也很好吃\n但...飲料個人比較推薦奶茶\n紅茶有點澀澀的",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次吃這家店，雖然沒人招呼\n但可以感覺到人手不足\n真的很忙碌\n但...餐點真的蠻好吃的\n尤其是炒飯，有點鍋巴\n炸的也很好吃\n但...飲料個人比較推薦奶茶\n紅茶有點澀澀的",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃依萍",
+        "uri": "https://www.google.com/maps/contrib/105574393229678692461/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmlRAvQh3WM3iZrrMLAnOOxC1IXYIhftgiK6au0gGU_Htwxa6G=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2023-02-25T03:25:40.597785Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNoai1QUXdRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNoai1QUXdRRRAB!2m1!1s0x3442a9ae611384bf:0xd6259d91c0b4ba66"
+    }
+  ],
+  "menuForChildren": true,
+  "goodForChildren": true
+}

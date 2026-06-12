@@ -1,0 +1,132 @@
+{
+  "id": "ChIJR-GbSXusQjQRGliZVJ6iaSE",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2658 5559",
+  "formattedAddress": "114台灣臺北市內湖區港富里環山路三段3號",
+  "location": {
+    "latitude": 25.0839707,
+    "longitude": 121.57837269999997
+  },
+  "rating": 4.2,
+  "websiteUri": "https://www.facebook.com/%E9%99%BD%E5%85%89%E5%BB%9A%E5%9D%8A-507185155985053/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 431,
+  "displayName": {
+    "text": "陽光廚坊",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJR-GbSXusQjQRGliZVJ6iaSE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0bk1uVmhhbkZmTUhCTWEzazVSRTFJWXpaUlMzYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 4,
+      "text": {
+        "text": "還不錯吃！湯跟飯可以加 不過整體份量還是偏少\n餐點都是套餐的形式 附飲料甜點",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "還不錯吃！湯跟飯可以加 不過整體份量還是偏少\n餐點都是套餐的形式 附飲料甜點",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Dylan CH Lin",
+        "uri": "https://www.google.com/maps/contrib/101782200343344514809/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVzllpEzOAtzxPhvYYZh_XkoJPBGbR-LA7_OsXVA0PJXpaqcRnn=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-08-22T03:10:29.477897722Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0bk1uVmhhbkZmTUhCTWEzazVSRTFJWXpaUlMzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0bk1uVmhhbkZmTUhCTWEzazVSRTFJWXpaUlMzYxAB!2m1!1s0x3442ac7b499be147:0x2169a29e5499581a"
+    },
+    {
+      "name": "places/ChIJR-GbSXusQjQRGliZVJ6iaSE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwQldVOUNlRUpOVjJ0a01FNURTa2hXTjA1NVMyYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 1,
+      "text": {
+        "text": "外送大遲到\n訂中午外送 1點才送到\n遲到還不會主動通知消費者....\n=======================\n再次訂購\n結果青菜沒熟 炒蛋一堆蛋殼.....",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "外送大遲到\n訂中午外送 1點才送到\n遲到還不會主動通知消費者....\n=======================\n再次訂購\n結果青菜沒熟 炒蛋一堆蛋殼.....",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chen Tony",
+        "uri": "https://www.google.com/maps/contrib/104262328053354345327/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-uq3tMQRVn1gDBpHsXmjRIY9YVVNQ0eT2PPg0IhrnYUd2jQ0k=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-09-10T05:04:15.602647659Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwQldVOUNlRUpOVjJ0a01FNURTa2hXTjA1NVMyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwQldVOUNlRUpOVjJ0a01FNURTa2hXTjA1NVMyYxAB!2m1!1s0x3442ac7b499be147:0x2169a29e5499581a"
+    },
+    {
+      "name": "places/ChIJR-GbSXusQjQRGliZVJ6iaSE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSVWNEUkZka3hDY0hsdVF6aFpSamwyY0doc2JXYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "味道清淡 環境舒適 適合簡單吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "味道清淡 環境舒適 適合簡單吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "YU",
+        "uri": "https://www.google.com/maps/contrib/105542640545281677463/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6U2285IWbrTv1KrE9sQozF56S5SXzra8jVV3DG1wQfMruumHu=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-09-25T05:15:42.032444279Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSVWNEUkZka3hDY0hsdVF6aFpSamwyY0doc2JXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSVWNEUkZka3hDY0hsdVF6aFpSamwyY0doc2JXYxAB!2m1!1s0x3442ac7b499be147:0x2169a29e5499581a"
+    },
+    {
+      "name": "places/ChIJR-GbSXusQjQRGliZVJ6iaSE/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnZ0pESlhREAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 1,
+      "text": {
+        "text": "我向來覺得偶爾在餐點裡看到頭髮勉強能接受\n中午跟著公司一起訂便當，吃沒幾口看到頭髮，想說無傷大雅，接著又看到一根頭髮\n連續出現就有點反胃了，那麼容易落髮，為何不戴帽子烹煮食物？\n\n根據食品良好衛生規範準則附表二第一點第四款：食品作業場所內之從業人員，工作時應穿戴整潔之工作衣帽(鞋)，以防頭髮、頭屑及夾雜物落入食品中，必要時應戴口罩。\n\n連續兩根頭髮掉落於不同菜品中，是店家沒有規範，還是服務人員帽子形同虛設？\n一個便當吃到一半已經沒有食慾，感謝店家的無償加菜，在食安問題那麼多的年代，店家需負責起基本衛生！如果只是隨便敷衍的心態，今天是頭髮，那下次是什麼\n\n留言也有其他人反饋便當裡有頭髮\n請店家負責起基本義務，沒有辦法對衛生把關，就不應該從事餐飲",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "我向來覺得偶爾在餐點裡看到頭髮勉強能接受\n中午跟著公司一起訂便當，吃沒幾口看到頭髮，想說無傷大雅，接著又看到一根頭髮\n連續出現就有點反胃了，那麼容易落髮，為何不戴帽子烹煮食物？\n\n根據食品良好衛生規範準則附表二第一點第四款：食品作業場所內之從業人員，工作時應穿戴整潔之工作衣帽(鞋)，以防頭髮、頭屑及夾雜物落入食品中，必要時應戴口罩。\n\n連續兩根頭髮掉落於不同菜品中，是店家沒有規範，還是服務人員帽子形同虛設？\n一個便當吃到一半已經沒有食慾，感謝店家的無償加菜，在食安問題那麼多的年代，店家需負責起基本衛生！如果只是隨便敷衍的心態，今天是頭髮，那下次是什麼\n\n留言也有其他人反饋便當裡有頭髮\n請店家負責起基本義務，沒有辦法對衛生把關，就不應該從事餐飲",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Xin Jing Lin",
+        "uri": "https://www.google.com/maps/contrib/106061150187484778295/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWn-WY9-uY5WL7_kUd203srDkh19YtP872JJiyFloefNzmh0QgXAw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-02-13T04:42:51.753482Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnZ0pESlhREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnZ0pESlhREAE!2m1!1s0x3442ac7b499be147:0x2169a29e5499581a"
+    },
+    {
+      "name": "places/ChIJR-GbSXusQjQRGliZVJ6iaSE/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsM3NLOHlnRRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "週六的傍晚，我迫不及待地前往陽光廚房，期待一場美味的晚餐體驗。踏進這小巧而精緻的店面，彷彿進入了一個美食的秘境。\n\n在這個特別的時刻，我選擇了獅子頭餐和烤鮮魚餐，期待能在這舒適的用餐環境中，品味到各種美味的滋味。每一道菜的三樣配菜都展現了廚師的獨到手藝，顯得格外誘人。\n\n晚餐的開場是一碗溫暖的蘿蔔魚丸湯，清香的湯汁中飄散著美味的魚香，讓我感受到這頓晚餐的用心與獨特之處。飯粒粒分明，彷彿每一口都蘊含了主廚的用心，讓我愈發期待接下來的菜品。\n\n而紅茶和手工布丁更是這頓晚餐的完美收尾。紅茶清新怡人，為整餐增色不少，而手工布丁的滑順口感更是令人難以忘懷。這場晚餐不僅讓我品味到美味佳餚，更讓我感受到陽光廚房對於每一道菜的細膩呈現和烹調的熱情。\n\n在這個特別的週六晚上，陽光廚房為我營造了一場美味的用餐體驗，成為我難以忘懷的回憶。期待未來，再次踏進這個小而美的餐廳，品味他們獨特的美味。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "週六的傍晚，我迫不及待地前往陽光廚房，期待一場美味的晚餐體驗。踏進這小巧而精緻的店面，彷彿進入了一個美食的秘境。\n\n在這個特別的時刻，我選擇了獅子頭餐和烤鮮魚餐，期待能在這舒適的用餐環境中，品味到各種美味的滋味。每一道菜的三樣配菜都展現了廚師的獨到手藝，顯得格外誘人。\n\n晚餐的開場是一碗溫暖的蘿蔔魚丸湯，清香的湯汁中飄散著美味的魚香，讓我感受到這頓晚餐的用心與獨特之處。飯粒粒分明，彷彿每一口都蘊含了主廚的用心，讓我愈發期待接下來的菜品。\n\n而紅茶和手工布丁更是這頓晚餐的完美收尾。紅茶清新怡人，為整餐增色不少，而手工布丁的滑順口感更是令人難以忘懷。這場晚餐不僅讓我品味到美味佳餚，更讓我感受到陽光廚房對於每一道菜的細膩呈現和烹調的熱情。\n\n在這個特別的週六晚上，陽光廚房為我營造了一場美味的用餐體驗，成為我難以忘懷的回憶。期待未來，再次踏進這個小而美的餐廳，品味他們獨特的美味。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Viola Li",
+        "uri": "https://www.google.com/maps/contrib/100969968702511167638/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVJOrewO5JEwPpY6cfxK9YUwvFwkOPcpUn-mX3Fj0IsdVHrkN4d=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2023-11-19T09:33:34.358883Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNsM3NLOHlnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNsM3NLOHlnRRAB!2m1!1s0x3442ac7b499be147:0x2169a29e5499581a"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

@@ -1,0 +1,134 @@
+{
+  "id": "ChIJld1d_gKpQjQRi1vozXuMX54",
+  "types": [
+    "coffee_shop",
+    "coffee_stand",
+    "cafe",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2396 9990",
+  "formattedAddress": "106台灣臺北市大安區永康里永康街4巷14號",
+  "location": {
+    "latitude": 25.032902999999997,
+    "longitude": 121.52950999999999
+  },
+  "rating": 4.7,
+  "websiteUri": "https://linktr.ee/buzicafe",
+  "userRatingCount": 403,
+  "displayName": {
+    "text": "布子咖啡 BUZI CAFE",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJld1d_gKpQjQRi1vozXuMX54/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tRd04wOVFkWGhTTUhwc05YcE9URFZqV0Mxd1RrRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "Cold brew果香味非常濃郁，一入口滿滿果香，很喜歡。烤厚片奶酥奶味非常強烈，個人更喜歡花生口味。一開門就入座可以享受一個愜意的早晨",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "Cold brew果香味非常濃郁，一入口滿滿果香，很喜歡。烤厚片奶酥奶味非常強烈，個人更喜歡花生口味。一開門就入座可以享受一個愜意的早晨",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Wan-Wei Han",
+        "uri": "https://www.google.com/maps/contrib/115100331826072960294/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWa1XcElkO9qayAsQiAMHPjjOfShXmuqEWfho1FYS5DZWuuwWAi=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-22T02:43:03.818958971Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tRd04wOVFkWGhTTUhwc05YcE9URFZqV0Mxd1RrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tRd04wOVFkWGhTTUhwc05YcE9URFZqV0Mxd1RrRRAB!2m1!1s0x3442a902fe5ddd95:0x9e5f8c7bcde85b8b"
+    },
+    {
+      "name": "places/ChIJld1d_gKpQjQRi1vozXuMX54/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s4eVRWVjJNVTV0YlRGNGREWXhiVEIzTTBoMWRYYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "非常喜歡店內的擺設與裝飾\n座位不多 蠻多外國客（遇到許多韓國客人）\n咖啡好喝～\n下次會再來～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "非常喜歡店內的擺設與裝飾\n座位不多 蠻多外國客（遇到許多韓國客人）\n咖啡好喝～\n下次會再來～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "YIAN CHEN (チェン・イェン)",
+        "uri": "https://www.google.com/maps/contrib/105680898591470575664/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUdPuA2E0WB7M4k9Gc3hyzZgDL3sbH9etcpgsEBSf26_5Jf9VpGGw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-07T06:32:57.304477211Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s4eVRWVjJNVTV0YlRGNGREWXhiVEIzTTBoMWRYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s4eVRWVjJNVTV0YlRGNGREWXhiVEIzTTBoMWRYYxAB!2m1!1s0x3442a902fe5ddd95:0x9e5f8c7bcde85b8b"
+    },
+    {
+      "name": "places/ChIJld1d_gKpQjQRi1vozXuMX54/reviews/Ci9DQUlRQUNvZENodHljRjlvT25JeGFWSXRkVmx5YzA1S0xVdENkV05zTkZaRE9YYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 4,
+      "text": {
+        "text": "在東門捷運站附近,走復古風的咖啡店! 有著特別的外推大窗戶!超美, 設計的很有質感，可以坐戶外和室內, 室內也可以坐窗邊看著外面,別有一番風情!\n店家也會在窗台放上植物和花, 被自然環繞的環境幽雅。氣氛很好，內用位子不多!\n\n咖啡我覺得品質還好, 上次喝了冷萃也不夠喜歡, 太酸也不太回甘, 下次可能可以喝喝看抹茶拿鐵.\n美式還可以\n氣氛是真的很好, 也沒有限時間! 可以在天氣好的時候一個人來店裡看書喝咖啡!",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在東門捷運站附近,走復古風的咖啡店! 有著特別的外推大窗戶!超美, 設計的很有質感，可以坐戶外和室內, 室內也可以坐窗邊看著外面,別有一番風情!\n店家也會在窗台放上植物和花, 被自然環繞的環境幽雅。氣氛很好，內用位子不多!\n\n咖啡我覺得品質還好, 上次喝了冷萃也不夠喜歡, 太酸也不太回甘, 下次可能可以喝喝看抹茶拿鐵.\n美式還可以\n氣氛是真的很好, 也沒有限時間! 可以在天氣好的時候一個人來店裡看書喝咖啡!",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yue Zhen Li",
+        "uri": "https://www.google.com/maps/contrib/113693478496963044310/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU2J-kDO0C4ZmjQjsFxWIvkd4FulmhXh2lx2i8gE3UPEliHZM6Z=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-08-19T03:29:21.496527018Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25JeGFWSXRkVmx5YzA1S0xVdENkV05zTkZaRE9YYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25JeGFWSXRkVmx5YzA1S0xVdENkV05zTkZaRE9YYxAB!2m1!1s0x3442a902fe5ddd95:0x9e5f8c7bcde85b8b"
+    },
+    {
+      "name": "places/ChIJld1d_gKpQjQRi1vozXuMX54/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWa1ZsVkpZelJQT0d0b1ZuTXlkM1JHVW1KcU5WRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "熱巧克力非常推薦，雖然坐在外面有點小冷，但看著街上行人來來回回，時間彷彿暫時靜止，氛圍感滿滿…..❤️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "熱巧克力非常推薦，雖然坐在外面有點小冷，但看著街上行人來來回回，時間彷彿暫時靜止，氛圍感滿滿…..❤️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Isa Li",
+        "uri": "https://www.google.com/maps/contrib/101722618132965225228/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLNbKuVjqWp1HmSHFOlsn4Fd44Spn894MxnO8ylIitP_GQpSg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-13T02:41:36.541867867Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWa1ZsVkpZelJQT0d0b1ZuTXlkM1JHVW1KcU5WRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWa1ZsVkpZelJQT0d0b1ZuTXlkM1JHVW1KcU5WRRAB!2m1!1s0x3442a902fe5ddd95:0x9e5f8c7bcde85b8b"
+    },
+    {
+      "name": "places/ChIJld1d_gKpQjQRi1vozXuMX54/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OSGQwcHFTRGxRVFV0SExVRmpXVkZVVkRaRGVXYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "西西里咖啡不錯～\n布朗尼表面酥脆香氣濃郁！不過要依當日出的蛋糕口味～\n\n是一間氣氛很棒的店✨",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "西西里咖啡不錯～\n布朗尼表面酥脆香氣濃郁！不過要依當日出的蛋糕口味～\n\n是一間氣氛很棒的店✨",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "王珮凌",
+        "uri": "https://www.google.com/maps/contrib/118356635261585288400/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUWmX90Bh0ZtRbaMsv4SBy1RMtITANkNJQ4KlI3XgZBTvIGXQGx=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-27T05:42:27.394708355Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OSGQwcHFTRGxRVFV0SExVRmpXVkZVVkRaRGVXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OSGQwcHFTRGxRVFV0SExVRmpXVkZVVkRaRGVXYxAB!2m1!1s0x3442a902fe5ddd95:0x9e5f8c7bcde85b8b"
+    }
+  ],
+  "menuForChildren": false
+}

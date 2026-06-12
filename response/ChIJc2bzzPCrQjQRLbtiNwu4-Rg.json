@@ -1,0 +1,135 @@
+{
+  "id": "ChIJc2bzzPCrQjQRLbtiNwu4-Rg",
+  "types": [
+    "pizza_restaurant",
+    "liquor_store",
+    "italian_restaurant",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "110台灣臺北市信義區大仁里林口街16號",
+  "location": {
+    "latitude": 25.0370933,
+    "longitude": 121.57938829999999
+  },
+  "rating": 4.7,
+  "websiteUri": "https://lin.ee/tLaNL8L",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 754,
+  "displayName": {
+    "text": "Pizza/Pizza3/披薩/餐廳/披薩3次方/信義區/林口街/台北/精釀啤酒",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJc2bzzPCrQjQRLbtiNwu4-Rg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xNdFNqQmhWMFZ3U2pkVFQwMHhaREZITmpZMU5rRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "披薩3次方｜臺北市信義區林口街16號\n\n偶爾一波披薩搭配配可樂或啤酒就是最容易的療癒食物，當然得是瑪格麗特經典定番簡單又舒爽。\n\n#台北美食\n#信義區美食\n#pizza\n#pizzamargherita\n#披薩3次方\n@pizza3___",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "披薩3次方｜臺北市信義區林口街16號\n\n偶爾一波披薩搭配配可樂或啤酒就是最容易的療癒食物，當然得是瑪格麗特經典定番簡單又舒爽。\n\n#台北美食\n#信義區美食\n#pizza\n#pizzamargherita\n#披薩3次方\n@pizza3___",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "sugarcube13",
+        "uri": "https://www.google.com/maps/contrib/100132563465820776654/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWlMp5A_Jbxgrj1BMwpQH24vsl5ttVU17mCMyAOyp4H6VwmfNOa=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-03-01T09:10:44.789328560Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xNdFNqQmhWMFZ3U2pkVFQwMHhaREZITmpZMU5rRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xNdFNqQmhWMFZ3U2pkVFQwMHhaREZITmpZMU5rRRAB!2m1!1s0x3442abf0ccf36673:0x18f9b80b3762bb2d"
+    },
+    {
+      "name": "places/ChIJc2bzzPCrQjQRLbtiNwu4-Rg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSblkydEdTMUoxWW5GaFowdGhTbTlFY1V3NVgwRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "輕鬆的用餐環境，他們只接受6或9人訂位，若2人用餐建議來現場候位\n可以自己選擇喜歡的餅皮\n坐吧台的客人甚至他們直接在你面前製作\n辣味雞肉披薩，口感很好，雞肉不柴，搭配辣橄欖很搭\n我個人吃披薩必點的瑪格麗特extra，雙重起司更加濃郁不油膩",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "輕鬆的用餐環境，他們只接受6或9人訂位，若2人用餐建議來現場候位\n可以自己選擇喜歡的餅皮\n坐吧台的客人甚至他們直接在你面前製作\n辣味雞肉披薩，口感很好，雞肉不柴，搭配辣橄欖很搭\n我個人吃披薩必點的瑪格麗特extra，雙重起司更加濃郁不油膩",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "NaNa T",
+        "uri": "https://www.google.com/maps/contrib/104077680349784487841/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVxYAWDzztxOF314pGJMgM-PsuvuNP3VKVOblfRMJ8cl1FflkTM=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-21T04:11:14.338780081Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSblkydEdTMUoxWW5GaFowdGhTbTlFY1V3NVgwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSblkydEdTMUoxWW5GaFowdGhTbTlFY1V3NVgwRRAB!2m1!1s0x3442abf0ccf36673:0x18f9b80b3762bb2d"
+    },
+    {
+      "name": "places/ChIJc2bzzPCrQjQRLbtiNwu4-Rg/reviews/Ci9DQUlRQUNvZENodHljRjlvT25neU1IWlZSV2szVkhoMWRXcHVSWHBWYmt4aVNtYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "羅馬薄脆餅皮，拿坡里餅皮-鬆軟，生火腿芝麻葉披薩，明太子馬鈴薯不錯！\n法蘭克福香腸披薩，窯烤雞翅，巧克力披薩！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "羅馬薄脆餅皮，拿坡里餅皮-鬆軟，生火腿芝麻葉披薩，明太子馬鈴薯不錯！\n法蘭克福香腸披薩，窯烤雞翅，巧克力披薩！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Eric Shih",
+        "uri": "https://www.google.com/maps/contrib/117275356535179626898/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIlhZoQf-3h6qvYcq_xuS1v8jp2B3ZXzHZA9beTlRyxmeKorsE6=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-02-21T11:39:23.597818572Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25neU1IWlZSV2szVkhoMWRXcHVSWHBWYmt4aVNtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25neU1IWlZSV2szVkhoMWRXcHVSWHBWYmt4aVNtYxAB!2m1!1s0x3442abf0ccf36673:0x18f9b80b3762bb2d"
+    },
+    {
+      "name": "places/ChIJc2bzzPCrQjQRLbtiNwu4-Rg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGNE5tNHRlVmhHVkVoMFJXMUVTWEIzY2xKaFUxRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "披薩3次方，全台唯一雙窯爐披薩專賣店，帶你品味最道地的義大利披薩！\n採開放式空間與廚房設計，乾淨衛生又能近距離欣賞披薩師傅手拍餅皮的帥氣身影。餐廳嚴選新鮮天然食材，72小時發酵麵糰，保留天然麥香，口感彈牙有嚼勁，還能製作成星星披薩，顏值與美味兼具。\n推薦必點：大口吃肉，鋪滿義式香腸、培根與火腿，肉肉控天堂；松露熟火腿茵菇，濃郁奶醬搭配新鮮茵菇與起司，香氣迷人；巧克力甜披薩，甜點控必嚐，濃郁巧克力配柔軟餅皮。再來一杯臺虎精釀生啤酒，泡沫細膩、口感順滑，搭配披薩悠閒慢活，最愜意。\n披薩3次方用心重現義大利披薩文化，手拍餅皮、雙窯爐烘烤、精釀啤酒相伴，來這裡，吃到的不只是披薩，還有老闆的情誼與浪漫故事。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "披薩3次方，全台唯一雙窯爐披薩專賣店，帶你品味最道地的義大利披薩！\n採開放式空間與廚房設計，乾淨衛生又能近距離欣賞披薩師傅手拍餅皮的帥氣身影。餐廳嚴選新鮮天然食材，72小時發酵麵糰，保留天然麥香，口感彈牙有嚼勁，還能製作成星星披薩，顏值與美味兼具。\n推薦必點：大口吃肉，鋪滿義式香腸、培根與火腿，肉肉控天堂；松露熟火腿茵菇，濃郁奶醬搭配新鮮茵菇與起司，香氣迷人；巧克力甜披薩，甜點控必嚐，濃郁巧克力配柔軟餅皮。再來一杯臺虎精釀生啤酒，泡沫細膩、口感順滑，搭配披薩悠閒慢活，最愜意。\n披薩3次方用心重現義大利披薩文化，手拍餅皮、雙窯爐烘烤、精釀啤酒相伴，來這裡，吃到的不只是披薩，還有老闆的情誼與浪漫故事。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "七公主",
+        "uri": "https://www.google.com/maps/contrib/104048731011093959099/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVzwdiWuOW1ZsUT8xP0qc9uWEGjtypXncpQL6UY5U3zUNGOiQo=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-15T12:42:57.960919882Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGNE5tNHRlVmhHVkVoMFJXMUVTWEIzY2xKaFUxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGNE5tNHRlVmhHVkVoMFJXMUVTWEIzY2xKaFUxRRAB!2m1!1s0x3442abf0ccf36673:0x18f9b80b3762bb2d"
+    },
+    {
+      "name": "places/ChIJc2bzzPCrQjQRLbtiNwu4-Rg/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oUVFqTXdaVVJaWjBSUGNGUk9PVWcxWVcxdk9IYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "綜合季節時蔬口味很好吃欸～～\n還是其實我喜歡吃的是菠菜😆\n大口吃肉這個口味全部都是肉\n吃到最後比較膩一點\n建議約朋友一起去點幾個口味分著吃比較不無聊\n\n兩個人去，一人點一個口味會吃不完（小鳥胃）\n但是帶回家加熱回烤還是非常好吃🍕\n加熱過後分一個給我爸 他也說不錯\n薄皮的餅皮很Q 麵皮香氣讚\n\n有外國人會去 我想一定是外國人認可的店👍🏼\n\n可惜的地方是座位比較少～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "綜合季節時蔬口味很好吃欸～～\n還是其實我喜歡吃的是菠菜😆\n大口吃肉這個口味全部都是肉\n吃到最後比較膩一點\n建議約朋友一起去點幾個口味分著吃比較不無聊\n\n兩個人去，一人點一個口味會吃不完（小鳥胃）\n但是帶回家加熱回烤還是非常好吃🍕\n加熱過後分一個給我爸 他也說不錯\n薄皮的餅皮很Q 麵皮香氣讚\n\n有外國人會去 我想一定是外國人認可的店👍🏼\n\n可惜的地方是座位比較少～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "周筠馨",
+        "uri": "https://www.google.com/maps/contrib/105000714086226619763/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVM49pxDZFgPC3MlqQAa7K5H9Zg6iVsTouqZ2syBu-GGNdXclEt=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-08T05:22:47.598551460Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oUVFqTXdaVVJaWjBSUGNGUk9PVWcxWVcxdk9IYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oUVFqTXdaVVJaWjBSUGNGUk9PVWcxWVcxdk9IYxAB!2m1!1s0x3442abf0ccf36673:0x18f9b80b3762bb2d"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

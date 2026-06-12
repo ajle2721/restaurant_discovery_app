@@ -1,0 +1,133 @@
+{
+  "id": "ChIJYYuh_6-uQjQRdRs0Vw2YV4k",
+  "types": [
+    "dessert_restaurant",
+    "dessert_shop",
+    "confectionery",
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2882 0206",
+  "formattedAddress": "111台灣臺北市士林區仁勇里安平街1號",
+  "location": {
+    "latitude": 25.0883944,
+    "longitude": 121.5257861
+  },
+  "rating": 4,
+  "userRatingCount": 2348,
+  "displayName": {
+    "text": "辛發亭冰品名店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJYYuh_6-uQjQRdRs0Vw2YV4k/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pFeU5UQlRiM05LZVhweGNrNDJjVEoyYUZSb2MyYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "來太多次這才想到要寫一下評～ 雪花冰真的好好吃，老店就是不讓人失望（除了飆漲的價格），其他都好，雪花冰很實在、料給得也夠，懷舊可是很乾淨的環境讓人很愉悅",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "來太多次這才想到要寫一下評～ 雪花冰真的好好吃，老店就是不讓人失望（除了飆漲的價格），其他都好，雪花冰很實在、料給得也夠，懷舊可是很乾淨的環境讓人很愉悅",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jenny Cheng",
+        "uri": "https://www.google.com/maps/contrib/116334935831312092993/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjURAmCSsELj6BTnflJc_fb57ecqCi8oNk2Jbz2asy288LLG9xs=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-05T12:11:24.521219256Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pFeU5UQlRiM05LZVhweGNrNDJjVEoyYUZSb2MyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pFeU5UQlRiM05LZVhweGNrNDJjVEoyYUZSb2MyYxAB!2m1!1s0x3442aeafffa18b61:0x8957980d57341b75"
+    },
+    {
+      "name": "places/ChIJYYuh_6-uQjQRdRs0Vw2YV4k/reviews/Ci9DQUlRQUNvZENodHljRjlvT2premRsbDNUbDlqU2pad1ptMW1abDlXY0ZrM2FYYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "服務不錯。一開始燒仙草忘了給紅豆，後來除了補一堆紅豆之外還加了一點燒仙草。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "服務不錯。一開始燒仙草忘了給紅豆，後來除了補一堆紅豆之外還加了一點燒仙草。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jeffrey Cheng",
+        "uri": "https://www.google.com/maps/contrib/116447932736607953142/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXqfaPb7lA9h6Rfei3iI_g7T73ehrpMnL2XqPoF7W3ZuYUtxsWk=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-02-28T15:47:43.362679307Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2premRsbDNUbDlqU2pad1ptMW1abDlXY0ZrM2FYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2premRsbDNUbDlqU2pad1ptMW1abDlXY0ZrM2FYYxAB!2m1!1s0x3442aeafffa18b61:0x8957980d57341b75"
+    },
+    {
+      "name": "places/ChIJYYuh_6-uQjQRdRs0Vw2YV4k/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCU1dYaFZhMDFxTTJkSk1HdE5hekExY0VFMU1HYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "士林夜市內的人氣冰品店-辛發亭冰品名店\n下班後特別想吃冰，選擇此店享用冰品，點了雪山蛻變（花生）口味的雪花冰，雪花冰好似削鉛筆屑般的彎彎繞繞層層堆疊的樣子，口感綿密鬆柔帶點黏度，入口似雪花飄飄的感覺，好特別的口感，花生香氣濃厚且味十足，真的不錯的冰品",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "士林夜市內的人氣冰品店-辛發亭冰品名店\n下班後特別想吃冰，選擇此店享用冰品，點了雪山蛻變（花生）口味的雪花冰，雪花冰好似削鉛筆屑般的彎彎繞繞層層堆疊的樣子，口感綿密鬆柔帶點黏度，入口似雪花飄飄的感覺，好特別的口感，花生香氣濃厚且味十足，真的不錯的冰品",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "PEI-HAN WANG",
+        "uri": "https://www.google.com/maps/contrib/106837222744181322536/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXR__vmYBxF6_Cecb4t_uyWBM8x5JFgoCALJR5UsXDeJBFnDywN=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-10-18T09:44:53.064028266Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCU1dYaFZhMDFxTTJkSk1HdE5hekExY0VFMU1HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCU1dYaFZhMDFxTTJkSk1HdE5hekExY0VFMU1HYxAB!2m1!1s0x3442aeafffa18b61:0x8957980d57341b75"
+    },
+    {
+      "name": "places/ChIJYYuh_6-uQjQRdRs0Vw2YV4k/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WTmFFWk9hbm90WTJkMVpIVmxaekZ3TFVOUFJrRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "從大學時代到現在，到士林夜市不管天氣如何，縱使寒流也要到辛發亭吃碗冰。才算有到士林夜市😁",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "從大學時代到現在，到士林夜市不管天氣如何，縱使寒流也要到辛發亭吃碗冰。才算有到士林夜市😁",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "蔡黑皮",
+        "uri": "https://www.google.com/maps/contrib/105258848187011633782/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYh-WO2F3iOXYs6-SOKsU1h9AlaI7b1B9F_Npu9eXM1Lb08q62=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-04T04:23:41.630569239Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WTmFFWk9hbm90WTJkMVpIVmxaekZ3TFVOUFJrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WTmFFWk9hbm90WTJkMVpIVmxaekZ3TFVOUFJrRRAB!2m1!1s0x3442aeafffa18b61:0x8957980d57341b75"
+    },
+    {
+      "name": "places/ChIJYYuh_6-uQjQRdRs0Vw2YV4k/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poR1p6RkxWMnBKU21ZM09ITk1jVUpDYWxWc1ZFRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "士林老牌冰果店\n喜歡這邊的百香情人果泡泡冰\n每次到訪必點消暑聖品\n酸甜的百香果醬\n搭配脆脆口感微酸的口感\n混著入口即化的綿綿冰\n讓你在熱熱的天氣得到大大的滿足\n有到士林夜市逛逛的朋友\n走過路過，千萬不要錯過！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "士林老牌冰果店\n喜歡這邊的百香情人果泡泡冰\n每次到訪必點消暑聖品\n酸甜的百香果醬\n搭配脆脆口感微酸的口感\n混著入口即化的綿綿冰\n讓你在熱熱的天氣得到大大的滿足\n有到士林夜市逛逛的朋友\n走過路過，千萬不要錯過！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "asen shiau",
+        "uri": "https://www.google.com/maps/contrib/103176968810892163593/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW9JqI2xP4Wj2Ssl3G05VnqzxRtwYHz9KA8HiSwixOx743zLjNB=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-09-27T12:36:24.949901494Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poR1p6RkxWMnBKU21ZM09ITk1jVUpDYWxWc1ZFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poR1p6RkxWMnBKU21ZM09ITk1jVUpDYWxWc1ZFRRAB!2m1!1s0x3442aeafffa18b61:0x8957980d57341b75"
+    }
+  ]
+}

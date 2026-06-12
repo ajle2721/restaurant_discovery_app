@@ -1,0 +1,130 @@
+{
+  "id": "ChIJ2cOIRvKuQjQRl4_OQhmJiAY",
+  "types": [
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2827 8309",
+  "formattedAddress": "112台灣臺北市北投區吉慶里實踐街70號",
+  "location": {
+    "latitude": 25.115195,
+    "longitude": 121.510184
+  },
+  "rating": 4.2,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 163,
+  "displayName": {
+    "text": "福園小館",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ2cOIRvKuQjQRl4_OQhmJiAY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOVGRFZGZWelJwUTE5S2MzQnhOVGRSV0dKWFNGRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "道道都新鮮！好吃、不會太油膩重口味～貼心準備溫熱的麥茶和仙草甜湯，用餐時段需要稍等呦～好味道值得大家等待😊",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "道道都新鮮！好吃、不會太油膩重口味～貼心準備溫熱的麥茶和仙草甜湯，用餐時段需要稍等呦～好味道值得大家等待😊",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "芳",
+        "uri": "https://www.google.com/maps/contrib/108124239651562229670/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKKIo-YVkRSRJRlwhZXi3quOcShmpFCay2EuUic9Hzf-jGWu4M=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-19T14:51:49.269027248Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOVGRFZGZWelJwUTE5S2MzQnhOVGRSV0dKWFNGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOVGRFZGZWelJwUTE5S2MzQnhOVGRSV0dKWFNGRRAB!2m1!1s0x3442aef24688c3d9:0x688891942ce8f97"
+    },
+    {
+      "name": "places/ChIJ2cOIRvKuQjQRl4_OQhmJiAY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNkbnVxVHBnRRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "巷弄中的平價小店。\n看似普通但用料實在，有澎湃的大菜、也有口味好吃的家常料理。\n老闆娘超親切，常常忙碌但仍不忘笑容。\n\n附近交通也很便利，離捷運站步行約10分鐘，開車附近也有便宜的收費停車場。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "巷弄中的平價小店。\n看似普通但用料實在，有澎湃的大菜、也有口味好吃的家常料理。\n老闆娘超親切，常常忙碌但仍不忘笑容。\n\n附近交通也很便利，離捷運站步行約10分鐘，開車附近也有便宜的收費停車場。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Gemma",
+        "uri": "https://www.google.com/maps/contrib/111114896863215487835/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKlxUdPeI46HLvFo5oPA40w_Tfrg5bD3BO4Ud9UFlzMZxNplw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2024-02-15T11:28:51.670838Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNkbnVxVHBnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNkbnVxVHBnRRAB!2m1!1s0x3442aef24688c3d9:0x688891942ce8f97"
+    },
+    {
+      "name": "places/ChIJ2cOIRvKuQjQRl4_OQhmJiAY/reviews/ChdDSUhNMG9nS0VJQ0FnSURtX09UVHZBRRAB",
+      "relativePublishTimeDescription": "4 年前",
+      "rating": 4,
+      "text": {
+        "text": "2人吃完1190 1.魚香茄子不錯 肉末配飯好吃2.鳳梨蝦球真材實料 大又juice 3,蒜泥白肉正常發揮\n我先生很愛控肉 最後是粉絲飽 比較普通了",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2人吃完1190 1.魚香茄子不錯 肉末配飯好吃2.鳳梨蝦球真材實料 大又juice 3,蒜泥白肉正常發揮\n我先生很愛控肉 最後是粉絲飽 比較普通了",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "柴可夫司基",
+        "uri": "https://www.google.com/maps/contrib/105396851452653394753/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV7S2qZHu0tag7Lz61jiw4EwJy82eBGCwfCiALlxodGlV-SC3d1XA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2022-01-22T10:34:25.263779Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURtX09UVHZBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURtX09UVHZBRRAB!2m1!1s0x3442aef24688c3d9:0x688891942ce8f97"
+    },
+    {
+      "name": "places/ChIJ2cOIRvKuQjQRl4_OQhmJiAY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25reWMweHRiRk53YUdSb09UQXlWemhhVGtSUWRXYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "出菜速度快 食材新鮮 服務佳",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "出菜速度快 食材新鮮 服務佳",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林千惠",
+        "uri": "https://www.google.com/maps/contrib/116076620874333540963/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLJ7NpGWobFTt7TAZiMnpbbSVp3a7JbFsCwDauX2W6kYjDY7w=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-08-26T14:40:07.160089816Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25reWMweHRiRk53YUdSb09UQXlWemhhVGtSUWRXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25reWMweHRiRk53YUdSb09UQXlWemhhVGtSUWRXYxAB!2m1!1s0x3442aef24688c3d9:0x688891942ce8f97"
+    },
+    {
+      "name": "places/ChIJ2cOIRvKuQjQRl4_OQhmJiAY/reviews/ChdDSUhNMG9nS0VJQ0FnSUM5akltcndBRRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "攝影神奇傑克一家2大2小愛美食，也分享+推薦給大家，優點鼓勵5星給，小小改善加油4個星給~石牌地區的美食，小家庭聚餐+慶生的位置，建議8到10位用餐，圓桌為主，（只有五六桌）真的不錯推薦給大家，網路找不到評價合+菜單，實攝實吃分享給大家看看",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "攝影神奇傑克一家2大2小愛美食，也分享+推薦給大家，優點鼓勵5星給，小小改善加油4個星給~石牌地區的美食，小家庭聚餐+慶生的位置，建議8到10位用餐，圓桌為主，（只有五六桌）真的不錯推薦給大家，網路找不到評價合+菜單，實攝實吃分享給大家看看",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "jack lee",
+        "uri": "https://www.google.com/maps/contrib/110267839699021738800/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKeMoK6MiiMMwXv7OYNo4VGThvMpT2lWl3ZvlGdQ7x63fabjA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2024-03-03T12:12:37.999016Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM5akltcndBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM5akltcndBRRAB!2m1!1s0x3442aef24688c3d9:0x688891942ce8f97"
+    }
+  ]
+}

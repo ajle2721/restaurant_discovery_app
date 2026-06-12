@@ -1,0 +1,130 @@
+﻿{
+    "id":  "ChIJTbRQod2rQjQRum08B-IpGvY",
+    "types":  [
+                  "food_store",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2722 8258",
+    "formattedAddress":  "110台灣臺北市信義區興雅里松仁路28號B2F",
+    "location":  {
+                     "latitude":  25.0396219,
+                     "longitude":  121.56764100000001
+                 },
+    "rating":  4.7,
+    "websiteUri":  "https://www.facebook.com/cometrue210/",
+    "userRatingCount":  2124,
+    "displayName":  {
+                        "text":  "成真咖啡 台北信義寶麗廣場店",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJTbRQod2rQjQRum08B-IpGvY/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ZeFFWaDNabnBpYzFOQmFFNW1PRzF5Um14aGMwRRAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "🥗香料舒肥雞佐溫時蔬\n不吃沙拉就來點溫沙拉，雞肉軟嫩、蔬菜清爽，很有飽足感。\n🥗香椰檸檬鮮蝦佐酸種麵包\n帶著咖哩與椰漿的香氣，搭配麵包很順口\n🥗韓式洋釀炸雞\n份量十足，炸雞外酥內嫩，甜辣交織，當早午餐很幸福\n🍝黑松露嫩菇義大利麵\n奶素者可選擇，松露香氣明顯杏胞菇很多汁，很涮嘴\n🍮季節限定舒芙蕾\n冬季限定雪戀草莓舒芙蕾蓬鬆柔軟，草莓酸甜，冬天吃特別療癒。\n☕️花漾瑰蜜\n雙北限定，玫瑰、荔枝與咖啡的層次交錯，視覺和味覺都很有記憶點\n☕️手作偉特糖那堤\n偉特糖帶點焦糖太妃糖香氣",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "🥗香料舒肥雞佐溫時蔬\n不吃沙拉就來點溫沙拉，雞肉軟嫩、蔬菜清爽，很有飽足感。\n🥗香椰檸檬鮮蝦佐酸種麵包\n帶著咖哩與椰漿的香氣，搭配麵包很順口\n🥗韓式洋釀炸雞\n份量十足，炸雞外酥內嫩，甜辣交織，當早午餐很幸福\n🍝黑松露嫩菇義大利麵\n奶素者可選擇，松露香氣明顯杏胞菇很多汁，很涮嘴\n🍮季節限定舒芙蕾\n冬季限定雪戀草莓舒芙蕾蓬鬆柔軟，草莓酸甜，冬天吃特別療癒。\n☕️花漾瑰蜜\n雙北限定，玫瑰、荔枝與咖啡的層次交錯，視覺和味覺都很有記憶點\n☕️手作偉特糖那堤\n偉特糖帶點焦糖太妃糖香氣",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Zoe Chang",
+                                                  "uri":  "https://www.google.com/maps/contrib/114187078166843724042/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVi_4HG3zHzecuCSh2alx04IALhVBx8olncX_vvUxYiFD5FKw7k=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2026-01-27T09:45:39.453555161Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25ZeFFWaDNabnBpYzFOQmFFNW1PRzF5Um14aGMwRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ZeFFWaDNabnBpYzFOQmFFNW1PRzF5Um14aGMwRRAB!2m1!1s0x3442abdda150b44d:0xf61a29e2073c6dba"
+                    },
+                    {
+                        "name":  "places/ChIJTbRQod2rQjQRum08B-IpGvY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GSFFVWTVTbTVKZDNBdFdtMUVSekEyUlRKc1NWRRAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "🪐體驗喝下午茶心境：\n選BELLAVITA百貨成真咖啡為首站，\n特選舒芙蕾加上瑪黛蘋果茶，真絕配！\n\n📍舒芙蕾：像高級雞蛋糕\n現作保有溫度口感非常柔軟好吃，這次選擇充滿台灣味「珍珠奶茶舒芙蕾」真的不錯，簡單基底舒芙蕾蛋糕，倒上裝有珍珠奶茶小杯，成了有特色味的舒芙蕾！（不同店家有不同食材搭配做法與擺盤喔！）大家可嚐嚐，也要注意糖的攝取量喔！建議像我一樣分食😝\n\n📍瑪黛蘋果茶：茶包式！\n喝起來喉嚨很舒服，前段：有植草香氣、中段：有蘋果香氣、尾段：有回甘涼涼口感！分享這壺回沖三次；建議喝到一半以下就可回沖；盡可保有茶香比例，整體是不錯的茶（建議可自行上網查該茶特色）🥸\n\n採QR系統預定方式，填寫好相關的資料，時間到自然會有系統播電話給你，並幫你預留10分鐘；讓等待座位也是輕鬆、無壓的事情，可以到處去逛逛再下來入座😘",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "🪐體驗喝下午茶心境：\n選BELLAVITA百貨成真咖啡為首站，\n特選舒芙蕾加上瑪黛蘋果茶，真絕配！\n\n📍舒芙蕾：像高級雞蛋糕\n現作保有溫度口感非常柔軟好吃，這次選擇充滿台灣味「珍珠奶茶舒芙蕾」真的不錯，簡單基底舒芙蕾蛋糕，倒上裝有珍珠奶茶小杯，成了有特色味的舒芙蕾！（不同店家有不同食材搭配做法與擺盤喔！）大家可嚐嚐，也要注意糖的攝取量喔！建議像我一樣分食😝\n\n📍瑪黛蘋果茶：茶包式！\n喝起來喉嚨很舒服，前段：有植草香氣、中段：有蘋果香氣、尾段：有回甘涼涼口感！分享這壺回沖三次；建議喝到一半以下就可回沖；盡可保有茶香比例，整體是不錯的茶（建議可自行上網查該茶特色）🥸\n\n採QR系統預定方式，填寫好相關的資料，時間到自然會有系統播電話給你，並幫你預留10分鐘；讓等待座位也是輕鬆、無壓的事情，可以到處去逛逛再下來入座😘",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "JustinCool Hu",
+                                                  "uri":  "https://www.google.com/maps/contrib/110703399445549611872/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocIsitwx7DLp0ouqw3tw5zcoAfgItQBeAz4xLPSBzpEG9kIyNps=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2026-01-15T11:45:42.352057163Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GSFFVWTVTbTVKZDNBdFdtMUVSekEyUlRKc1NWRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GSFFVWTVTbTVKZDNBdFdtMUVSekEyUlRKc1NWRRAB!2m1!1s0x3442abdda150b44d:0xf61a29e2073c6dba"
+                    },
+                    {
+                        "name":  "places/ChIJTbRQod2rQjQRum08B-IpGvY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Gb2MweFNaRzF4ZWtkM05sWjRjMjkzTWtzNGNtYxAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "麗寶廣場店空間很大，用餐起來很舒適，近期推出『歡樂分享雙人套餐』很划算！舒芙蕾一如既往地好吃\n\n特別起歡氮氣咖啡－玫瑰荔枝，有著玫瑰的典雅芬芳和荔枝的香甜\n\n紅蘋果煙燻鮭魚沙拉份量十足，用了一整顆的蘋果，鮭魚超Q彈\n\n主餐特別推薦青蔥櫻桃鴨薄餅、青檸蒜香鮮蝦義大利麵",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "麗寶廣場店空間很大，用餐起來很舒適，近期推出『歡樂分享雙人套餐』很划算！舒芙蕾一如既往地好吃\n\n特別起歡氮氣咖啡－玫瑰荔枝，有著玫瑰的典雅芬芳和荔枝的香甜\n\n紅蘋果煙燻鮭魚沙拉份量十足，用了一整顆的蘋果，鮭魚超Q彈\n\n主餐特別推薦青蔥櫻桃鴨薄餅、青檸蒜香鮮蝦義大利麵",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "張格格",
+                                                  "uri":  "https://www.google.com/maps/contrib/111935307225805862315/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWvWvbEF9aX9c_7la0i5Obww2VED5goTlQeu7QJ6vdyG8Mn3DZf=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-11-30T16:14:24.508214725Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Gb2MweFNaRzF4ZWtkM05sWjRjMjkzTWtzNGNtYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Gb2MweFNaRzF4ZWtkM05sWjRjMjkzTWtzNGNtYxAB!2m1!1s0x3442abdda150b44d:0xf61a29e2073c6dba"
+                    },
+                    {
+                        "name":  "places/ChIJTbRQod2rQjQRum08B-IpGvY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poaFdVTm5OREp0TFhoSU1FcFBaMWxHYmpsMGVWRRAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  3,
+                        "text":  {
+                                     "text":  "到寶麗廣場看耶誕巨熊餐桌，拍完照後至地下室尋找咖啡廳午茶.\n因為曾造訪永康街的成真咖啡，印象很好，所以在寶麗廣場看到分店，剛好也有位子，毫不猶豫就進入午茶.\n當下服務人員感覺很忙錄，除了帶位送水還要結帳、送餐.....但服務態度依然很親切，點餐方式說明也很清楚.\n我們坐下聊天等餐之際，看看店內裝潢環境，跟我印象中精緻的成真咖啡不同，感覺裝潢有些舊了，因為開放式的吧檯和櫃檯，看到食器和木頭盤子，成不規則擺放....，送餐上來的容器看起來也有歲月感，同行者問我，確定這家是成真咖啡嗎？（看餐紙上印刷，確實是成真咖啡）\n好在鬆餅上桌後，口感依然是印象中的好吃，飲料口味也是標準以上.",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "到寶麗廣場看耶誕巨熊餐桌，拍完照後至地下室尋找咖啡廳午茶.\n因為曾造訪永康街的成真咖啡，印象很好，所以在寶麗廣場看到分店，剛好也有位子，毫不猶豫就進入午茶.\n當下服務人員感覺很忙錄，除了帶位送水還要結帳、送餐.....但服務態度依然很親切，點餐方式說明也很清楚.\n我們坐下聊天等餐之際，看看店內裝潢環境，跟我印象中精緻的成真咖啡不同，感覺裝潢有些舊了，因為開放式的吧檯和櫃檯，看到食器和木頭盤子，成不規則擺放....，送餐上來的容器看起來也有歲月感，同行者問我，確定這家是成真咖啡嗎？（看餐紙上印刷，確實是成真咖啡）\n好在鬆餅上桌後，口感依然是印象中的好吃，飲料口味也是標準以上.",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "黎小婗",
+                                                  "uri":  "https://www.google.com/maps/contrib/111894428728822056367/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjW4j_JsfZre4jOvf6XIGR4Fce86wxRCB4tQZ95TEBDNsScaVmFb=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-12-19T07:16:54.824754540Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poaFdVTm5OREp0TFhoSU1FcFBaMWxHYmpsMGVWRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poaFdVTm5OREp0TFhoSU1FcFBaMWxHYmpsMGVWRRAB!2m1!1s0x3442abdda150b44d:0xf61a29e2073c6dba"
+                    },
+                    {
+                        "name":  "places/ChIJTbRQod2rQjQRum08B-IpGvY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poTWFrWTRaWEpKZWs1S1FXcDVWR2M1V0RWTVpWRRAB",
+                        "relativePublishTimeDescription":  "6 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "藏身在 BELLAVITA 貴婦百貨 B2 的 成真咖啡，是一走進就能瞬間放鬆的城市秘境。沉穩的咖啡色調與柔和光影交織，氛圍安靜舒適，無論是午後小聚、工作的空檔放鬆，或一個人的慢步調時光都超適合。\n\n招牌必吃有：\n椒麻香酥炸雞早午餐—外皮金黃酥脆、雞肉多汁，搭上椒麻醬又香又涮嘴，還附奶酪甜點超加分。\n松露奶汁雞義大利麵—奶香濃郁、松露香氣優雅，雞肉滑嫩、麵條 Q 彈，每口都濃醇滿足。\n宇治京都抹茶舒芙蕾—入口即化的雲朵口感配上抹茶醬與紅豆，抹茶控絕對必點。\n甜莓鋒芒／香芒莓好冰沙—莓果酸甜、芒果濃郁，冰沙細緻，是夏日最療癒的清爽組合。\n\n找質感咖啡廳、早午餐或下午茶？成真咖啡信義店絕對值得收藏！",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "藏身在 BELLAVITA 貴婦百貨 B2 的 成真咖啡，是一走進就能瞬間放鬆的城市秘境。沉穩的咖啡色調與柔和光影交織，氛圍安靜舒適，無論是午後小聚、工作的空檔放鬆，或一個人的慢步調時光都超適合。\n\n招牌必吃有：\n椒麻香酥炸雞早午餐—外皮金黃酥脆、雞肉多汁，搭上椒麻醬又香又涮嘴，還附奶酪甜點超加分。\n松露奶汁雞義大利麵—奶香濃郁、松露香氣優雅，雞肉滑嫩、麵條 Q 彈，每口都濃醇滿足。\n宇治京都抹茶舒芙蕾—入口即化的雲朵口感配上抹茶醬與紅豆，抹茶控絕對必點。\n甜莓鋒芒／香芒莓好冰沙—莓果酸甜、芒果濃郁，冰沙細緻，是夏日最療癒的清爽組合。\n\n找質感咖啡廳、早午餐或下午茶？成真咖啡信義店絕對值得收藏！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "七公主",
+                                                  "uri":  "https://www.google.com/maps/contrib/104048731011093959099/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVzwdiWuOW1ZsUT8xP0qc9uWEGjtypXncpQL6UY5U3zUNGOiQo=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-11-16T01:06:46.420320543Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poTWFrWTRaWEpKZWs1S1FXcDVWR2M1V0RWTVpWRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poTWFrWTRaWEpKZWs1S1FXcDVWR2M1V0RWTVpWRRAB!2m1!1s0x3442abdda150b44d:0xf61a29e2073c6dba"
+                    }
+                ]
+}

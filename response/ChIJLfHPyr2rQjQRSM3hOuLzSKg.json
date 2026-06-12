@@ -1,0 +1,135 @@
+﻿{
+    "id":  "ChIJLfHPyr2rQjQRSM3hOuLzSKg",
+    "types":  [
+                  "coffee_shop",
+                  "brunch_restaurant",
+                  "cafe",
+                  "american_restaurant",
+                  "food_store",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2756 5123",
+    "formattedAddress":  "110台灣臺北市信義區興雅里永吉路30巷167弄3號",
+    "location":  {
+                     "latitude":  25.042026099999998,
+                     "longitude":  121.56889489999998
+                 },
+    "rating":  4.1,
+    "websiteUri":  "http://instagram.com/leaves__cafe",
+    "userRatingCount":  1101,
+    "displayName":  {
+                        "text":  "LEAVES Cafe 午葉信義",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJLfHPyr2rQjQRSM3hOuLzSKg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOdFJuRkplREJtTkdnM1h5MVZiemh0ZUd0MVQwRRAB",
+                        "relativePublishTimeDescription":  "6 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "🌿這間位於信義區永吉路30巷的 LEAVES Cafe 午葉信義，外觀與店內都充滿綠色植栽🌱，搭配酪梨主題裝飾，給人一種清新自然的氛圍。空間不大但明亮，簡單又帶點設計感，很適合午後小憩或姐妹聚會。\n\n🍽 餐點亮點\n🥪 牛小排蛋吐司\n牛小排厚實且軟嫩多汁，搭配焦香吐司非常好吃！吐司邊微酥、內層柔軟，是這次最喜歡的一道。\n\n🍗 優格炸雞\n外層炸得金黃酥脆，但肉質柔軟，應該是使用雞胸肉，卻不乾柴。每一塊都相當厚實，份量也不小。\n\n🍝 鴨胸義大利麵\n鴨胸粉嫩軟嫩沒有腥味，搭配微辣的醬汁與順口義大利麵，整體風味協調。\n\n🍄 松露義大利麵\n味道偏淡屬於安全口味，松露香氣不重，但仍是好吃的義大利麵。\n\n🍟 松露薯條\n份量一般，松露醬給得蠻多，整體中規中矩。\n\n🥩 阿根廷青醬牛排沙拉\n牛排熟度掌握得剛好，肉質軟嫩不柴，青醬香氣清爽不膩，搭配生菜、堅果與酪梨片，整體風味平衡又有層次，屬於清爽系的主食沙拉。\n\n🥑 酪梨堅果歐蕾\n口感濃郁，堅果給得很實在，有顆粒感提升層次。若更換成燕麥奶，會讓酪梨味被蓋掉，建議保留原配方更能喝出香氣平衡。\n\n🪴 店內環境\n空間不大，但整體明亮乾淨，有許多植物點綴。主題以「酪梨」為概念設計，牆面與擺飾都十分可愛。\n\n📍 店鋪資訊\n🏠 LEAVES Cafe 午葉信義\n📍地址：110台北市信義區永吉路30巷167弄3號\n🚇市政府4號出口走路5分鐘\n⏰ 營業時間：上午9點-下午8:30\n\n#LEAVESCafe #午葉信義 #信義區咖啡廳 #台北早午餐 #酪梨控必訪 #永吉路美食 #台北探店 #咖啡廳推薦 #早午餐分享",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "🌿這間位於信義區永吉路30巷的 LEAVES Cafe 午葉信義，外觀與店內都充滿綠色植栽🌱，搭配酪梨主題裝飾，給人一種清新自然的氛圍。空間不大但明亮，簡單又帶點設計感，很適合午後小憩或姐妹聚會。\n\n🍽 餐點亮點\n🥪 牛小排蛋吐司\n牛小排厚實且軟嫩多汁，搭配焦香吐司非常好吃！吐司邊微酥、內層柔軟，是這次最喜歡的一道。\n\n🍗 優格炸雞\n外層炸得金黃酥脆，但肉質柔軟，應該是使用雞胸肉，卻不乾柴。每一塊都相當厚實，份量也不小。\n\n🍝 鴨胸義大利麵\n鴨胸粉嫩軟嫩沒有腥味，搭配微辣的醬汁與順口義大利麵，整體風味協調。\n\n🍄 松露義大利麵\n味道偏淡屬於安全口味，松露香氣不重，但仍是好吃的義大利麵。\n\n🍟 松露薯條\n份量一般，松露醬給得蠻多，整體中規中矩。\n\n🥩 阿根廷青醬牛排沙拉\n牛排熟度掌握得剛好，肉質軟嫩不柴，青醬香氣清爽不膩，搭配生菜、堅果與酪梨片，整體風味平衡又有層次，屬於清爽系的主食沙拉。\n\n🥑 酪梨堅果歐蕾\n口感濃郁，堅果給得很實在，有顆粒感提升層次。若更換成燕麥奶，會讓酪梨味被蓋掉，建議保留原配方更能喝出香氣平衡。\n\n🪴 店內環境\n空間不大，但整體明亮乾淨，有許多植物點綴。主題以「酪梨」為概念設計，牆面與擺飾都十分可愛。\n\n📍 店鋪資訊\n🏠 LEAVES Cafe 午葉信義\n📍地址：110台北市信義區永吉路30巷167弄3號\n🚇市政府4號出口走路5分鐘\n⏰ 營業時間：上午9點-下午8:30\n\n#LEAVESCafe #午葉信義 #信義區咖啡廳 #台北早午餐 #酪梨控必訪 #永吉路美食 #台北探店 #咖啡廳推薦 #早午餐分享",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "小蘋果",
+                                                  "uri":  "https://www.google.com/maps/contrib/114562905299081861012/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjU4ADwLvR5rHIvEi-KVgVdRNlThsRel_hsmisLOHJMDiOA3Vajv=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-11-07T16:29:42.487969727Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOdFJuRkplREJtTkdnM1h5MVZiemh0ZUd0MVQwRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOdFJuRkplREJtTkdnM1h5MVZiemh0ZUd0MVQwRRAB!2m1!1s0x3442abbdcacff12d:0xa848f3e23ae1cd48"
+                    },
+                    {
+                        "name":  "places/ChIJLfHPyr2rQjQRSM3hOuLzSKg/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kak9ETnlhSE5MYVdJeE5YQTBkbWMwT0VsdlJIYxAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  3,
+                        "text":  {
+                                     "text":  "是真的貴，CP值偏低，北歐烤蛋基本上就是燉番茄上面放了一顆水波蛋，然後外面圍著一圈切片的烤酪梨搭配兩塊麵包\n\n不過畢竟在信義區而且裝潢很有特色，另外確實專門賣酪梨的店家也很少，服務上確實有點對不上價位、餐點表現普通，不過整體不至於吃到失望，而且還有少見的酪梨榴槤奶昔，上餐速度也不慢，喜歡酪梨🥑或喜歡嚐鮮的人可以試看看",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "是真的貴，CP值偏低，北歐烤蛋基本上就是燉番茄上面放了一顆水波蛋，然後外面圍著一圈切片的烤酪梨搭配兩塊麵包\n\n不過畢竟在信義區而且裝潢很有特色，另外確實專門賣酪梨的店家也很少，服務上確實有點對不上價位、餐點表現普通，不過整體不至於吃到失望，而且還有少見的酪梨榴槤奶昔，上餐速度也不慢，喜歡酪梨🥑或喜歡嚐鮮的人可以試看看",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "多多-Asher",
+                                                  "uri":  "https://www.google.com/maps/contrib/114598577928800633241/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVTul19epkUQhPguSkahTvp8hso37z13jySIS13-F0NpxzhZxU_ow=s128-c0x00000000-cc-rp-mo-ba8"
+                                              },
+                        "publishTime":  "2025-12-30T12:37:05.095597698Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kak9ETnlhSE5MYVdJeE5YQTBkbWMwT0VsdlJIYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kak9ETnlhSE5MYVdJeE5YQTBkbWMwT0VsdlJIYxAB!2m1!1s0x3442abbdcacff12d:0xa848f3e23ae1cd48"
+                    },
+                    {
+                        "name":  "places/ChIJLfHPyr2rQjQRSM3hOuLzSKg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWSmNrcGtkVXB6UVdKTFJHcE5ibUZDT1dwNGFGRRAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "平日中午用餐還有座位點了熱拿鐵和酪梨培根蛋奶麵，是第一次嚐鮮有加酪梨的義大利麵整體而言味道上中規中矩的，會想試試其他的餐點。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "平日中午用餐還有座位點了熱拿鐵和酪梨培根蛋奶麵，是第一次嚐鮮有加酪梨的義大利麵整體而言味道上中規中矩的，會想試試其他的餐點。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "lulu",
+                                                  "uri":  "https://www.google.com/maps/contrib/111657979360137781084/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocJ60MNxXIWtjxN720hTrxSph4snLtgCSAM2WZcorLvhc4JxZw=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2026-02-02T05:40:47.411839888Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWSmNrcGtkVXB6UVdKTFJHcE5ibUZDT1dwNGFGRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWSmNrcGtkVXB6UVdKTFJHcE5ibUZDT1dwNGFGRRAB!2m1!1s0x3442abbdcacff12d:0xa848f3e23ae1cd48"
+                    },
+                    {
+                        "name":  "places/ChIJLfHPyr2rQjQRSM3hOuLzSKg/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KQlZUUTVhSEpKYVhONU9GVjZXUzFhVm1waGJrRRAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  3,
+                        "text":  {
+                                     "text":  "✔️拿鐵 $140\n✔️酪梨杏仁優格飲 $180\n✔️牛小排肉蛋吐司 $460\n✔️紅甜椒醬堅果松阪豬義大利麵 $380\n\n午葉主打各式酪梨餐點，但我決定跳脫，點了兩道店家推薦卻非酪梨系列的餐點。整體來說，味道普通、份量精緻、價格不實惠。\n\n「牛小排肉蛋吐司」的牛小排和「松阪豬義大利麵」的松阪豬都很有嚼勁，且不易咬斷。義大利麵跟傳統早餐店肉醬鐵板麵的味道高度相似。\n\n「酪梨杏仁優格飲」的杏仁味很濃郁，相較之下酪梨味就不太明顯。「拿鐵」屬於咖啡味比較重，喝起來較苦。\n\n💋美味程度7️⃣5️⃣\n💃再訪意願7️⃣5️⃣",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "✔️拿鐵 $140\n✔️酪梨杏仁優格飲 $180\n✔️牛小排肉蛋吐司 $460\n✔️紅甜椒醬堅果松阪豬義大利麵 $380\n\n午葉主打各式酪梨餐點，但我決定跳脫，點了兩道店家推薦卻非酪梨系列的餐點。整體來說，味道普通、份量精緻、價格不實惠。\n\n「牛小排肉蛋吐司」的牛小排和「松阪豬義大利麵」的松阪豬都很有嚼勁，且不易咬斷。義大利麵跟傳統早餐店肉醬鐵板麵的味道高度相似。\n\n「酪梨杏仁優格飲」的杏仁味很濃郁，相較之下酪梨味就不太明顯。「拿鐵」屬於咖啡味比較重，喝起來較苦。\n\n💋美味程度7️⃣5️⃣\n💃再訪意願7️⃣5️⃣",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "黃翊婷",
+                                                  "uri":  "https://www.google.com/maps/contrib/108118191691552386896/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWfiR77kTwPC0bWmvU8_NiU5e35WaEOGcAKZRvsxHN03hmWdfEU=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2025-12-31T00:10:41.216456792Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KQlZUUTVhSEpKYVhONU9GVjZXUzFhVm1waGJrRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KQlZUUTVhSEpKYVhONU9GVjZXUzFhVm1waGJrRRAB!2m1!1s0x3442abbdcacff12d:0xa848f3e23ae1cd48"
+                    },
+                    {
+                        "name":  "places/ChIJLfHPyr2rQjQRSM3hOuLzSKg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGVmQycHFRMGg0UldreFRsTnlObWhaYjFaVWJtYxAB",
+                        "relativePublishTimeDescription":  "7 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "酪梨培根蛋奶麵 NTD 360\n細麵卷繞伴隨厚切培根, 上方擺放切半哈斯酪梨並打入生蛋, 刨入羊奶乾酪灑上香料, 視覺層次很豐富, 食用前需好好拌勻, 麵條滑順帶有彈性, 結合培根鹹香 蛋奶溫潤 酪梨脂感, 每口味道融合洽適不突兀。\n\n七彩鮭魚碗 NTD 300\n紅藜麥飯加入時蔬(毛豆 綠花椰 玉米筍 小蕃茄）, 搭配醃菜(紅洋蔥 白蘿蔔)與溏心蛋, 鋪上橘紅蝦卵與香煎鮭魚(有魚刺需注意), 擺入切半金桔灑上黑白芝麻, 以原型食物自然清爽為主調, 沒有過重的調味, 配色和諧, 健康感十足。\n\n午葉特調冷萃咖啡 NTD 100\n深琥珀色澤的冷萃盛於透明玻璃杯中, 入口滑順不苦澀, 尾韻是極淡的柑橘香氣, 純粹平淡的咖啡。\n\n午葉特調燕麥奶茶 NTD 200\n奶茶呈柔霧奶金色, 倒在透明玻璃杯裡帶自然層次感, 表層有泡沫, 質地細膩, 看起來溫潤柔和, 以天然甘甜的國寶茶為基底融合燕麥奶, 自然帶出淡淡麥香與蜜香氣息, 無咖啡因適合全天享用。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "酪梨培根蛋奶麵 NTD 360\n細麵卷繞伴隨厚切培根, 上方擺放切半哈斯酪梨並打入生蛋, 刨入羊奶乾酪灑上香料, 視覺層次很豐富, 食用前需好好拌勻, 麵條滑順帶有彈性, 結合培根鹹香 蛋奶溫潤 酪梨脂感, 每口味道融合洽適不突兀。\n\n七彩鮭魚碗 NTD 300\n紅藜麥飯加入時蔬(毛豆 綠花椰 玉米筍 小蕃茄）, 搭配醃菜(紅洋蔥 白蘿蔔)與溏心蛋, 鋪上橘紅蝦卵與香煎鮭魚(有魚刺需注意), 擺入切半金桔灑上黑白芝麻, 以原型食物自然清爽為主調, 沒有過重的調味, 配色和諧, 健康感十足。\n\n午葉特調冷萃咖啡 NTD 100\n深琥珀色澤的冷萃盛於透明玻璃杯中, 入口滑順不苦澀, 尾韻是極淡的柑橘香氣, 純粹平淡的咖啡。\n\n午葉特調燕麥奶茶 NTD 200\n奶茶呈柔霧奶金色, 倒在透明玻璃杯裡帶自然層次感, 表層有泡沫, 質地細膩, 看起來溫潤柔和, 以天然甘甜的國寶茶為基底融合燕麥奶, 自然帶出淡淡麥香與蜜香氣息, 無咖啡因適合全天享用。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "洪家雯",
+                                                  "uri":  "https://www.google.com/maps/contrib/108956087264196776924/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUfiZ8xxwXySnHusXIt5JghFrH2X8BmMWcC58blGTeLtdGrD6p1=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-10-10T11:26:36.420365255Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGVmQycHFRMGg0UldreFRsTnlObWhaYjFaVWJtYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGVmQycHFRMGg0UldreFRsTnlObWhaYjFaVWJtYxAB!2m1!1s0x3442abbdcacff12d:0xa848f3e23ae1cd48"
+                    }
+                ]
+}

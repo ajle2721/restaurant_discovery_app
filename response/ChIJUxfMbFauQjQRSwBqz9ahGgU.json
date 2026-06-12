@@ -1,0 +1,132 @@
+{
+  "id": "ChIJUxfMbFauQjQRSwBqz9ahGgU",
+  "types": [
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 7701 1777",
+  "formattedAddress": "112台灣臺北市北投區中央里大業路300巷1號",
+  "location": {
+    "latitude": 25.128308099999998,
+    "longitude": 121.49812499999999
+  },
+  "rating": 3.5,
+  "websiteUri": "https://www.marriott.com/hotels/hotel-information/restaurant/tpebe-aloft-taipei-beitou/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 190,
+  "displayName": {
+    "text": "聚聚樂",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJUxfMbFauQjQRSwBqz9ahGgU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21zelZHVlVWbTlTWDNWMmFsaFpNbUpuU1Rkb09HYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "餐點、氣氛及場地寬敞，很適合閒聊的餐廳。但每道菜的上菜速度慢，不趕時間是ok的。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點、氣氛及場地寬敞，很適合閒聊的餐廳。但每道菜的上菜速度慢，不趕時間是ok的。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yunice",
+        "uri": "https://www.google.com/maps/contrib/112242545554537040640/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW441hLEl4SuZG2-zt3B1rXBErod-whjz3dQpt9RGkVzbd9LvuaVg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-29T05:24:52.320342929Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21zelZHVlVWbTlTWDNWMmFsaFpNbUpuU1Rkb09HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21zelZHVlVWbTlTWDNWMmFsaFpNbUpuU1Rkb09HYxAB!2m1!1s0x3442ae566ccc1753:0x51aa1d6cf6a004b"
+    },
+    {
+      "name": "places/ChIJUxfMbFauQjQRSwBqz9ahGgU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kVlNuZERheko0VURoaVdtaFlVVUZFUVZWTFVFRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "寫評論沒有送東西\n\n不錯吃，店內提供多元的付款方式，包括Apple Pay、信用卡等等\n\n午餐時段空間舒服、內有廁所也算乾淨、地下停車場停車方便，消費1000元可以停一小時，服務人員大多是外籍人士，人均消費500以上，食物好吃，出餐節奏很剛好，飲料冰淇淋都不錯，白飯非常昂貴一碗30元很小碗\n\n唯一覺得需要改善的是冰淇淋勺子的水非活水，有點太髒了，其他都很好，基本上每個月都會用餐四次以上\n\n推薦指數🌕🌕🌕🌕\n再訪指數🌕🌕🌕🌕🌗\n好吃指數🌕🌕🌕🌕🌗\nCP值      🌕🌕🌕🌕",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "寫評論沒有送東西\n\n不錯吃，店內提供多元的付款方式，包括Apple Pay、信用卡等等\n\n午餐時段空間舒服、內有廁所也算乾淨、地下停車場停車方便，消費1000元可以停一小時，服務人員大多是外籍人士，人均消費500以上，食物好吃，出餐節奏很剛好，飲料冰淇淋都不錯，白飯非常昂貴一碗30元很小碗\n\n唯一覺得需要改善的是冰淇淋勺子的水非活水，有點太髒了，其他都很好，基本上每個月都會用餐四次以上\n\n推薦指數🌕🌕🌕🌕\n再訪指數🌕🌕🌕🌕🌗\n好吃指數🌕🌕🌕🌕🌗\nCP值      🌕🌕🌕🌕",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "N",
+        "uri": "https://www.google.com/maps/contrib/115816436000076423225/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV6qaeodthY3Kh7qwdkW7RzyOxCyxaSYwsM1fHdvHa2psavug=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-03T15:53:27.852053783Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kVlNuZERheko0VURoaVdtaFlVVUZFUVZWTFVFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kVlNuZERheko0VURoaVdtaFlVVUZFUVZWTFVFRRAB!2m1!1s0x3442ae566ccc1753:0x51aa1d6cf6a004b"
+    },
+    {
+      "name": "places/ChIJUxfMbFauQjQRSwBqz9ahGgU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sWFNXVXRiRWRUTjNsWVIydGZYelZOTXpCNGNrRRAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 5,
+      "text": {
+        "text": "位於台北北投的 Aloft Taipei Beitou 酒店內的 NOOK 聚聚樂（3樓），是一個充滿活力的餐飲空間，為你提供多樣的餐點選擇，每一道菜都能帶給你不同的味覺驚喜！今天來到這裡，品嚐了全新【夏季限定泰式料理】五道招牌菜，熱辣登場，香、辣、酸、爽，讓你一秒到曼谷街頭！每一道料理都讓人回味無窮，完美的夏日享受。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "位於台北北投的 Aloft Taipei Beitou 酒店內的 NOOK 聚聚樂（3樓），是一個充滿活力的餐飲空間，為你提供多樣的餐點選擇，每一道菜都能帶給你不同的味覺驚喜！今天來到這裡，品嚐了全新【夏季限定泰式料理】五道招牌菜，熱辣登場，香、辣、酸、爽，讓你一秒到曼谷街頭！每一道料理都讓人回味無窮，完美的夏日享受。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林卡拉",
+        "uri": "https://www.google.com/maps/contrib/107009539248668302053/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZBwHFqgPY8Pix319PTAEpuUHwe6vt4zrhW9BePLjm-JZxMtQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-07-07T07:28:30.536050436Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sWFNXVXRiRWRUTjNsWVIydGZYelZOTXpCNGNrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sWFNXVXRiRWRUTjNsWVIydGZYelZOTXpCNGNrRRAB!2m1!1s0x3442ae566ccc1753:0x51aa1d6cf6a004b"
+    },
+    {
+      "name": "places/ChIJUxfMbFauQjQRSwBqz9ahGgU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNZbWZxcl9RRRAB",
+      "relativePublishTimeDescription": "7 年前",
+      "rating": 2,
+      "text": {
+        "text": "價格偏高，每人自助區是399，額外再點主餐380-899，主菜走精緻路線，然而自助區很粗俗，特別是熱食區，只有三道熱食，其中一個是關東煮，另一個蒸蔬菜，另一個好像是地瓜還什麼的。讓我更失望的是湯，是玉米濃湯與仙草，感覺是路邊牛排攤會出的湯品，我覺得以這樣的價格可以再出高級一點的菜與湯品，例如山藥排骨、紅豆湯、銀耳蓮子之類，希望設計菜單的主廚可以再多下點心思。\n\n主菜今天點了三道，其一，主廚特製烤全春雞，兩個拳頭大小，外表看起來很可愛，有精緻、多汁香嫩感覺，吃一口，果真很多汁，但不夠入味，特別是接近骨頭部分，完全無味，而且為了多汁卻沒烤熟，我覺得有點可惜\n\n其二，蛋汁培根麵，麵條口感Q彈，起司與奶香濃郁，吃多易膩口。\n\n其三，漢堡份量大，薯條炸的好吃\n\n沙拉的部分很可以，雖然生菜種類不多，但已經夠吃。\n\n整體來說，我不很滿意，因為我對這樣星等Hotel且與w hotel有關連的店家有更高度期待，所以我希望經營者可以多加思考一下這些問題。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "價格偏高，每人自助區是399，額外再點主餐380-899，主菜走精緻路線，然而自助區很粗俗，特別是熱食區，只有三道熱食，其中一個是關東煮，另一個蒸蔬菜，另一個好像是地瓜還什麼的。讓我更失望的是湯，是玉米濃湯與仙草，感覺是路邊牛排攤會出的湯品，我覺得以這樣的價格可以再出高級一點的菜與湯品，例如山藥排骨、紅豆湯、銀耳蓮子之類，希望設計菜單的主廚可以再多下點心思。\n\n主菜今天點了三道，其一，主廚特製烤全春雞，兩個拳頭大小，外表看起來很可愛，有精緻、多汁香嫩感覺，吃一口，果真很多汁，但不夠入味，特別是接近骨頭部分，完全無味，而且為了多汁卻沒烤熟，我覺得有點可惜\n\n其二，蛋汁培根麵，麵條口感Q彈，起司與奶香濃郁，吃多易膩口。\n\n其三，漢堡份量大，薯條炸的好吃\n\n沙拉的部分很可以，雖然生菜種類不多，但已經夠吃。\n\n整體來說，我不很滿意，因為我對這樣星等Hotel且與w hotel有關連的店家有更高度期待，所以我希望經營者可以多加思考一下這些問題。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "施意雨",
+        "uri": "https://www.google.com/maps/contrib/115976860619160338088/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJc0A6Kv5L4Fq6ePx4Teisirk2kSaqUz-f20aFm1P1bTHdtyA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2019-04-15T14:43:52.249179Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNZbWZxcl9RRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNZbWZxcl9RRRAB!2m1!1s0x3442ae566ccc1753:0x51aa1d6cf6a004b"
+    },
+    {
+      "name": "places/ChIJUxfMbFauQjQRSwBqz9ahGgU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNSM2JlWmJREAE",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 5,
+      "text": {
+        "text": "據瞭解是同W hotel萬豪集團\n奇岩站再騎ubike\n酒店門口有站\n\n整體設計新潮\n菜餚偏平凡大多是蔬菜類\n麵包生菜沙拉類都不錯\n最好吃的是炸山藥捲可惜沒拍照到\n其他茶飲也不錯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "據瞭解是同W hotel萬豪集團\n奇岩站再騎ubike\n酒店門口有站\n\n整體設計新潮\n菜餚偏平凡大多是蔬菜類\n麵包生菜沙拉類都不錯\n最好吃的是炸山藥捲可惜沒拍照到\n其他茶飲也不錯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "PIN",
+        "uri": "https://www.google.com/maps/contrib/112609993177068629852/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXjQt8jWy8InSrqj8OvzXJ6-yMYEI8DisWDnLvrC-3_HVmCSvO8=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2023-04-08T18:25:19.222951Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNSM2JlWmJREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNSM2JlWmJREAE!2m1!1s0x3442ae566ccc1753:0x51aa1d6cf6a004b"
+    }
+  ],
+  "goodForChildren": true
+}

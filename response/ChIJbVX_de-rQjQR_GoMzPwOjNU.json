@@ -1,0 +1,132 @@
+{
+  "id": "ChIJbVX_de-rQjQR_GoMzPwOjNU",
+  "types": [
+    "brunch_restaurant",
+    "breakfast_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 8770 7818",
+  "formattedAddress": "105020台灣臺北市松山區南京東路三段335巷13號",
+  "location": {
+    "latitude": 25.0529893,
+    "longitude": 121.54746639999999
+  },
+  "rating": 4.6,
+  "userRatingCount": 201,
+  "displayName": {
+    "text": "卡賀廚房早午餐（巨蛋南京店）",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJbVX_de-rQjQR_GoMzPwOjNU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGVVRFZFJMWHB2ZFd0TFZHeGZVR0ozTm5WVWVVRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "今天來吃酥皮蛋捲，真的超級好吃！\n還有日式咖喱飯也好吃😋\n推來吃❤️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天來吃酥皮蛋捲，真的超級好吃！\n還有日式咖喱飯也好吃😋\n推來吃❤️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Melody Hsu",
+        "uri": "https://www.google.com/maps/contrib/113313319864590873698/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVqv7TuAeFOQNjwRvaDHzTy5jvkPmr8gUFPvtkYB-rYmwq92lff=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-14T04:12:31.999497933Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGVVRFZFJMWHB2ZFd0TFZHeGZVR0ozTm5WVWVVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGVVRFZFJMWHB2ZFd0TFZHeGZVR0ozTm5WVWVVRRAB!2m1!1s0x3442abef75ff556d:0xd58c0efccc0c6afc"
+    },
+    {
+      "name": "places/ChIJbVX_de-rQjQR_GoMzPwOjNU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21zM1QwdG9iRVpMYVdsQ2JuRXpVbUk0WVc5WmNtYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "總裁牛肉起司蛋堡好吃！花生醬吐司巧克力醬吐司醬很多而且是阿嬤家附近的味道～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "總裁牛肉起司蛋堡好吃！花生醬吐司巧克力醬吐司醬很多而且是阿嬤家附近的味道～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "吳佩蓁",
+        "uri": "https://www.google.com/maps/contrib/103426626516891099861/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV-MTspju2nlay3e_UTvxus6w-C9OOb8hliFvHUq7O_TyEnrobjQg=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-06T02:06:14.626234076Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21zM1QwdG9iRVpMYVdsQ2JuRXpVbUk0WVc5WmNtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21zM1QwdG9iRVpMYVdsQ2JuRXpVbUk0WVc5WmNtYxAB!2m1!1s0x3442abef75ff556d:0xd58c0efccc0c6afc"
+    },
+    {
+      "name": "places/ChIJbVX_de-rQjQR_GoMzPwOjNU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SVVpHaDFVa2hZV2xGT1owSjJjME54YmtaelRIYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 1,
+      "text": {
+        "text": "酥皮蛋餅一點都不酥⋯\n很乾且無味無口感\n芋泥肉鬆口味$80\n有較明顯的味道是蛋焦味⋯\n真的不推薦😣",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "酥皮蛋餅一點都不酥⋯\n很乾且無味無口感\n芋泥肉鬆口味$80\n有較明顯的味道是蛋焦味⋯\n真的不推薦😣",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "momo yeh",
+        "uri": "https://www.google.com/maps/contrib/101127325067932012495/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXeyLfiBlxkrcCLNT2Q8K-LuRggMpjUVw22OsYkG3x7uwALDg-Ppg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-16T01:07:46.649598976Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SVVpHaDFVa2hZV2xGT1owSjJjME54YmtaelRIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SVVpHaDFVa2hZV2xGT1owSjJjME54YmtaelRIYxAB!2m1!1s0x3442abef75ff556d:0xd58c0efccc0c6afc"
+    },
+    {
+      "name": "places/ChIJbVX_de-rQjQR_GoMzPwOjNU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GWk5raFRaemxqVGxZMGR6WmFOV05NYXprdFJHYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "旅途中第一次來吃，口味很合，櫃檯講話好溫柔～值得五星 ⭐⭐⭐⭐⭐",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "旅途中第一次來吃，口味很合，櫃檯講話好溫柔～值得五星 ⭐⭐⭐⭐⭐",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "賴筱筑",
+        "uri": "https://www.google.com/maps/contrib/114086987293003839535/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIq8tKhKTVy2wnGC-RwlYOpEUblz_BHLXJr2ymcZt9NQp29FA=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-24T03:30:36.369756518Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GWk5raFRaemxqVGxZMGR6WmFOV05NYXprdFJHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GWk5raFRaemxqVGxZMGR6WmFOV05NYXprdFJHYxAB!2m1!1s0x3442abef75ff556d:0xd58c0efccc0c6afc"
+    },
+    {
+      "name": "places/ChIJbVX_de-rQjQR_GoMzPwOjNU/reviews/ChdDSUhNMG9nS0VJQ0FnTURnMnBPRGtnRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "算是一家早餐綜合的簡餐店\n路過進入點了一個古早味排骨飯\n餐點不是記憶中排骨飯的樣子\n而是餐盤底部鋪上一張油紙\n上面再添上飯菜\n荷包蛋上灑上海苔粉\n也是早餐店的樣貌\n排骨本身大概為了快速炸熟\n中間有切了幾刀\n炸得略乾\n少了肉汁的嫩度\n整體感覺會以早餐品項來的比較好",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "算是一家早餐綜合的簡餐店\n路過進入點了一個古早味排骨飯\n餐點不是記憶中排骨飯的樣子\n而是餐盤底部鋪上一張油紙\n上面再添上飯菜\n荷包蛋上灑上海苔粉\n也是早餐店的樣貌\n排骨本身大概為了快速炸熟\n中間有切了幾刀\n炸得略乾\n少了肉汁的嫩度\n整體感覺會以早餐品項來的比較好",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Tony Hsieh",
+        "uri": "https://www.google.com/maps/contrib/109369255165504318210/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUXxkxsCEIP85fT944EkXMOsNCR3zlHGWi-pKS__Yw6NX02x4Ga=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-02-24T06:37:20.836326Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnMnBPRGtnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnMnBPRGtnRRAB!2m1!1s0x3442abef75ff556d:0xd58c0efccc0c6afc"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

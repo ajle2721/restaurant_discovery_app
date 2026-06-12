@@ -1,0 +1,132 @@
+{
+  "id": "ChIJxUlI1ZCuQjQRmhTI36h17So",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2837 6872",
+  "formattedAddress": "111台灣臺北市士林區德行里德行西路60之1號",
+  "location": {
+    "latitude": 25.10514,
+    "longitude": 121.52277099999999
+  },
+  "rating": 4.5,
+  "websiteUri": "http://twsubber.com.tw/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 1568,
+  "displayName": {
+    "text": "SUBBER",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJxUlI1ZCuQjQRmhTI36h17So/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWbFdVVm5hWEZCZERCSVJVcFJUakpzZFMxb09WRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "這家店是以潛艇堡為主打、生意相當穩定的一間餐廳，不論平日或假日來，店內通常都有不少客人，用餐尖峰時段甚至需要稍微等一下。整體氣氛偏向日常用餐型，不是特別精緻路線，但環境算乾淨，用餐起來不會有壓力。\n\n餐點方面，潛艇堡確實是這裡的強項。麵包口感不錯，外層微酥、內裡鬆軟，內餡搭配得宜，整體吃起來很順口，是那種吃完會覺得飽足又滿意的類型。不過比較可惜的是，菜類選擇相對偏少，如果是偏好蔬菜比例高一點、或想吃得清爽的人，可能會覺得變化不夠多。\n\n湯品是每天更換口味，這點算是一個小優點，有時是南瓜濃湯，有時是蘑菇濃湯，風味都還不錯，不過單點的話價格偏高，CP 值就比較見仁見智。烤起司馬鈴薯也值得一提，這道餐點需要等比較久，而且價格並不便宜，但實際上桌後可以理解原因，起司給得大方、馬鈴薯鬆軟綿密，整體味道很好，是屬於願意偶爾為它多等一下的品項。\n\n飲料部分，咖啡類的價格反而比外面不少咖啡店略低一點，味道屬於中規中矩，不會特別驚艷，但也不會踩雷。服務方面則是普通水準，店員該做的都有做到，但不屬於特別熱情型。\n\n另外，這家店有集點制度，平常消費可以累積點數，滿八點後，只要再消費一杯 30 元以上的飲料，就能兌換一份六吋潛艇堡，對常來的客人來說算是實際的回饋。平日中午 11:00～13:30 的商業午餐也相對划算，對附近上班族或學生很有吸引力。\n\n整體來說，這是一家潛艇堡表現穩定、價格合理、適合回訪的店，雖然在配菜選擇與服務上沒有太多亮點，但主食好吃，加上有集點與商業午餐制度，依然值得列入日常用餐的選項之一。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這家店是以潛艇堡為主打、生意相當穩定的一間餐廳，不論平日或假日來，店內通常都有不少客人，用餐尖峰時段甚至需要稍微等一下。整體氣氛偏向日常用餐型，不是特別精緻路線，但環境算乾淨，用餐起來不會有壓力。\n\n餐點方面，潛艇堡確實是這裡的強項。麵包口感不錯，外層微酥、內裡鬆軟，內餡搭配得宜，整體吃起來很順口，是那種吃完會覺得飽足又滿意的類型。不過比較可惜的是，菜類選擇相對偏少，如果是偏好蔬菜比例高一點、或想吃得清爽的人，可能會覺得變化不夠多。\n\n湯品是每天更換口味，這點算是一個小優點，有時是南瓜濃湯，有時是蘑菇濃湯，風味都還不錯，不過單點的話價格偏高，CP 值就比較見仁見智。烤起司馬鈴薯也值得一提，這道餐點需要等比較久，而且價格並不便宜，但實際上桌後可以理解原因，起司給得大方、馬鈴薯鬆軟綿密，整體味道很好，是屬於願意偶爾為它多等一下的品項。\n\n飲料部分，咖啡類的價格反而比外面不少咖啡店略低一點，味道屬於中規中矩，不會特別驚艷，但也不會踩雷。服務方面則是普通水準，店員該做的都有做到，但不屬於特別熱情型。\n\n另外，這家店有集點制度，平常消費可以累積點數，滿八點後，只要再消費一杯 30 元以上的飲料，就能兌換一份六吋潛艇堡，對常來的客人來說算是實際的回饋。平日中午 11:00～13:30 的商業午餐也相對划算，對附近上班族或學生很有吸引力。\n\n整體來說，這是一家潛艇堡表現穩定、價格合理、適合回訪的店，雖然在配菜選擇與服務上沒有太多亮點，但主食好吃，加上有集點與商業午餐制度，依然值得列入日常用餐的選項之一。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hugo Chen",
+        "uri": "https://www.google.com/maps/contrib/106498757915358198039/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWbkzIUGDy3u-eLvBiRNYCQQU0EjJtUjXMqy2rwBd6blpAoK3bRWg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-31T17:26:03.966267018Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWbFdVVm5hWEZCZERCSVJVcFJUakpzZFMxb09WRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWbFdVVm5hWEZCZERCSVJVcFJUakpzZFMxb09WRRAB!2m1!1s0x3442ae90d54849c5:0x2aed75a8dfc8149a"
+    },
+    {
+      "name": "places/ChIJxUlI1ZCuQjQRmhTI36h17So/reviews/Ci9DQUlRQUNvZENodHljRjlvT214RU1qTlhWaTE1WHpKeVgxOUhiM2t0VVc5aFUwRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "兒子今天想吃這家，小小店面很溫馨、座位不多、用餐時段要排隊，餐點健康美味、服務也很好👍今天點的季節限定菠菜草莓沙拉很特別🥰酸酸甜甜的草莓加到沙拉第一次嘗試，再加購一顆水波蛋補充蛋白質👌🏻兒子愛吃起司烤洋芋🥔他有在集點貼紙給他🤗 通常天氣不錯就會外帶到旁邊的公園吃，今天還有座位就內用，順便編輯影片做公益🥰",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "兒子今天想吃這家，小小店面很溫馨、座位不多、用餐時段要排隊，餐點健康美味、服務也很好👍今天點的季節限定菠菜草莓沙拉很特別🥰酸酸甜甜的草莓加到沙拉第一次嘗試，再加購一顆水波蛋補充蛋白質👌🏻兒子愛吃起司烤洋芋🥔他有在集點貼紙給他🤗 通常天氣不錯就會外帶到旁邊的公園吃，今天還有座位就內用，順便編輯影片做公益🥰",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "YT半公益頻道「Who is CC?」",
+        "uri": "https://www.google.com/maps/contrib/105282993772926185567/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXKjpdhaJofUnOLKqJZSr5Mz3qAYBhfxoE53amGW0NOv-LiZfQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-28T09:05:23.947729565Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214RU1qTlhWaTE1WHpKeVgxOUhiM2t0VVc5aFUwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214RU1qTlhWaTE1WHpKeVgxOUhiM2t0VVc5aFUwRRAB!2m1!1s0x3442ae90d54849c5:0x2aed75a8dfc8149a"
+    },
+    {
+      "name": "places/ChIJxUlI1ZCuQjQRmhTI36h17So/reviews/Ci9DQUlRQUNvZENodHljRjlvT21JMFJsUktTbFpZU0hBMVRGRmFTbGxFWDJKa1VHYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "離芝山捷運站不遠的潛艇堡專賣店-SUBBER\n今午點一份6” 墨西哥烤雞潛艇堡，配料全加，麵包店員介紹用奧勒岡帕瑪森乾諾麵包，口感豐富有嚼感，配料豐富好吃，烤雞肉嫩有味道，比連鎖的潛艇堡專賣店好🍽️多了",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "離芝山捷運站不遠的潛艇堡專賣店-SUBBER\n今午點一份6” 墨西哥烤雞潛艇堡，配料全加，麵包店員介紹用奧勒岡帕瑪森乾諾麵包，口感豐富有嚼感，配料豐富好吃，烤雞肉嫩有味道，比連鎖的潛艇堡專賣店好🍽️多了",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "PEI-HAN WANG",
+        "uri": "https://www.google.com/maps/contrib/106837222744181322536/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXR__vmYBxF6_Cecb4t_uyWBM8x5JFgoCALJR5UsXDeJBFnDywN=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-02-21T06:56:29.981022461Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21JMFJsUktTbFpZU0hBMVRGRmFTbGxFWDJKa1VHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21JMFJsUktTbFpZU0hBMVRGRmFTbGxFWDJKa1VHYxAB!2m1!1s0x3442ae90d54849c5:0x2aed75a8dfc8149a"
+    },
+    {
+      "name": "places/ChIJxUlI1ZCuQjQRmhTI36h17So/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psaE0xZHZVMDVMWjJ4SFpGZFFWVE01TUZGUmIxRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "寫起司牛排，但不是塊狀，切碎的牛肉，當天吃還帶不少筋，烤馬鈴薯蠻好吃的，喜歡濃郁起司可以試試，生意不錯，用餐時間須等，但不會太久",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "寫起司牛排，但不是塊狀，切碎的牛肉，當天吃還帶不少筋，烤馬鈴薯蠻好吃的，喜歡濃郁起司可以試試，生意不錯，用餐時間須等，但不會太久",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "沙拉飯團",
+        "uri": "https://www.google.com/maps/contrib/105985716856226723286/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV0p3fIKUQPtfwg5jZWu1Tbi6YIX4DpkWBxSvU5zisvcPrZF0j1wg=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-02-14T07:58:03.501885618Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psaE0xZHZVMDVMWjJ4SFpGZFFWVE01TUZGUmIxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psaE0xZHZVMDVMWjJ4SFpGZFFWVE01TUZGUmIxRRAB!2m1!1s0x3442ae90d54849c5:0x2aed75a8dfc8149a"
+    },
+    {
+      "name": "places/ChIJxUlI1ZCuQjQRmhTI36h17So/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poVlNrUjRRbFJsYVZreWRUVkpTek5JUmsxdmJsRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "天母人很幸福可以就近吃cp值超高的三明治 湯盅好吃跟在美國的一樣 熱騰騰的超級好吃😋懷念以前在🇺🇸的日子。食物真的可以療癒人心。大推薦沙拉 三明治 湯盅 起司🧀馬鈴薯 😋",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "天母人很幸福可以就近吃cp值超高的三明治 湯盅好吃跟在美國的一樣 熱騰騰的超級好吃😋懷念以前在🇺🇸的日子。食物真的可以療癒人心。大推薦沙拉 三明治 湯盅 起司🧀馬鈴薯 😋",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Apple W",
+        "uri": "https://www.google.com/maps/contrib/109855554628141303218/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWgg1A_XTjaqCVS3nvgokMMYKGjZtFoeZJj9gDqOBwPufNnpg40Rg=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-12-06T13:59:48.056271858Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poVlNrUjRRbFJsYVZreWRUVkpTek5JUmsxdmJsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poVlNrUjRRbFJsYVZreWRUVkpTek5JUmsxdmJsRRAB!2m1!1s0x3442ae90d54849c5:0x2aed75a8dfc8149a"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

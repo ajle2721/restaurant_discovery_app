@@ -1,0 +1,137 @@
+{
+  "id": "ChIJjZr8CaipQjQRcnGTYBoMjMQ",
+  "types": [
+    "dessert_restaurant",
+    "tea_house",
+    "tea_store",
+    "cafe",
+    "food_store",
+    "restaurant",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2311 5960",
+  "formattedAddress": "108台灣臺北市萬華區福音里貴陽街二段112號",
+  "location": {
+    "latitude": 25.039996,
+    "longitude": 121.5027822
+  },
+  "rating": 4.5,
+  "websiteUri": "http://www.ihere.com.tw/",
+  "userRatingCount": 615,
+  "displayName": {
+    "text": "iHERE tea&cafe 西門頂級奶茶專家 X 冬仙堂",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJjZr8CaipQjQRcnGTYBoMjMQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwdmJuaG5ORVpaTUZsTGQwdEJaelYxVUZSa1NXYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "仙丹黑糖珍奶是仙草+珍珠，料多豐富，加10元可以升級為鮮奶，非常推薦，但有時候太晚去就賣完了。\n自備環保杯折5元，每消費一次還能集點，集滿5點可以折抵飲料。\n店家親切，支援多元行動支付。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "仙丹黑糖珍奶是仙草+珍珠，料多豐富，加10元可以升級為鮮奶，非常推薦，但有時候太晚去就賣完了。\n自備環保杯折5元，每消費一次還能集點，集滿5點可以折抵飲料。\n店家親切，支援多元行動支付。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Milly Yu",
+        "uri": "https://www.google.com/maps/contrib/113352564152950988638/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWD45jzT1mv3f2Ojij3ae9Fo-7dke2MAOzi6WnMoHbhuRnfItk=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-31T12:11:08.638571099Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwdmJuaG5ORVpaTUZsTGQwdEJaelYxVUZSa1NXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwdmJuaG5ORVpaTUZsTGQwdEJaelYxVUZSa1NXYxAB!2m1!1s0x3442a9a809fc9a8d:0xc48c0c1a60937172"
+    },
+    {
+      "name": "places/ChIJjZr8CaipQjQRcnGTYBoMjMQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KYVh6WkphVGROU2t4a2FHcENTR3RMUzNneVJuYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "很少喝過松露奶茶 真的蠻特別的 建議微糖或1分糖就好 蠻甜的 不要買太大杯 因為會喝膩 嚐鮮就好 下次來試試伯爵口味的奶茶 應該也不錯 只是老闆只有一個人作業 人太多的時候要等10～20分以上",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很少喝過松露奶茶 真的蠻特別的 建議微糖或1分糖就好 蠻甜的 不要買太大杯 因為會喝膩 嚐鮮就好 下次來試試伯爵口味的奶茶 應該也不錯 只是老闆只有一個人作業 人太多的時候要等10～20分以上",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "你知道我在看你嗎",
+        "uri": "https://www.google.com/maps/contrib/117450171607443191040/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWCaiC0JHD6lXPGjkaKDLCNfmmibaeXBlCxpDN_mTw-oRe1ma5f=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-04T07:45:54.875464993Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KYVh6WkphVGROU2t4a2FHcENTR3RMUzNneVJuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KYVh6WkphVGROU2t4a2FHcENTR3RMUzNneVJuYxAB!2m1!1s0x3442a9a809fc9a8d:0xc48c0c1a60937172"
+    },
+    {
+      "name": "places/ChIJjZr8CaipQjQRcnGTYBoMjMQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5NVN6SmZiM1prU1haWVIwaG9jMEY0TkRCa1JXYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "為了等隔壁排骨酥麵來點的～居然有印度香料奶茶！？老闆態度親切建議要一分糖以上比較好喝，但是因為胃爛的原因還是點了無糖～無糖還是一樣優秀好喝，驚艷💕是會想來外帶跟嘗試別款飲料的寶藏店家～推薦～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "為了等隔壁排骨酥麵來點的～居然有印度香料奶茶！？老闆態度親切建議要一分糖以上比較好喝，但是因為胃爛的原因還是點了無糖～無糖還是一樣優秀好喝，驚艷💕是會想來外帶跟嘗試別款飲料的寶藏店家～推薦～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "浪速町",
+        "uri": "https://www.google.com/maps/contrib/117795343937497920598/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUggVt6DWuvQu7Ihnd0_c8jL7RSUhdLiWyBQulJaQuRSFG2Ido=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-11-16T10:54:24.356558551Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5NVN6SmZiM1prU1haWVIwaG9jMEY0TkRCa1JXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5NVN6SmZiM1prU1haWVIwaG9jMEY0TkRCa1JXYxAB!2m1!1s0x3442a9a809fc9a8d:0xc48c0c1a60937172"
+    },
+    {
+      "name": "places/ChIJjZr8CaipQjQRcnGTYBoMjMQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKZlNqa3hWbk5DYjBSbFozUnlPVEpGZFdoTVRXYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "舊照片紀錄參考\n蠻有特色的茶飲店\n可以聞到明顯的茶香氣",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "舊照片紀錄參考\n蠻有特色的茶飲店\n可以聞到明顯的茶香氣",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "喵。帶著你的眼睛去旅行",
+        "uri": "https://www.google.com/maps/contrib/111565582846713195667/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWf0G4xHikHu6RUdqxBbdxslfWlTr_-mM91-o9mr07ZPQ_3E7nGaw=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-12-30T03:26:01.016392678Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKZlNqa3hWbk5DYjBSbFozUnlPVEpGZFdoTVRXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKZlNqa3hWbk5DYjBSbFozUnlPVEpGZFdoTVRXYxAB!2m1!1s0x3442a9a809fc9a8d:0xc48c0c1a60937172"
+    },
+    {
+      "name": "places/ChIJjZr8CaipQjQRcnGTYBoMjMQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKU1p6SnBNbXhJTFRFNVJqSklhMFp3UzFSWE5XYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "小紫蘇冬瓜檸檬好喝👍\n冬瓜鮮奶也很適合給小朋友喝！\n店員小姐姐服務態度很好！下次還會再來",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "小紫蘇冬瓜檸檬好喝👍\n冬瓜鮮奶也很適合給小朋友喝！\n店員小姐姐服務態度很好！下次還會再來",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jeanie Yeh",
+        "uri": "https://www.google.com/maps/contrib/108240063749854069100/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWKcwIVGs6iil3gY7W7lRwetf12OBF2h8lLwF1DJ_lFrO9o5R8sHA=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-11-22T11:37:59.484315699Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKU1p6SnBNbXhJTFRFNVJqSklhMFp3UzFSWE5XYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKU1p6SnBNbXhJTFRFNVJqSklhMFp3UzFSWE5XYxAB!2m1!1s0x3442a9a809fc9a8d:0xc48c0c1a60937172"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

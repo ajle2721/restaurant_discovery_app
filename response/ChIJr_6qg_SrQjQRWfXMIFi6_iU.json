@@ -1,0 +1,132 @@
+{
+  "id": "ChIJr_6qg_SrQjQRWfXMIFi6_iU",
+  "types": [
+    "breakfast_restaurant",
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2758 6321",
+  "formattedAddress": "110台灣臺北市信義區三張里莊敬路341巷4弄6號",
+  "location": {
+    "latitude": 25.028084000000003,
+    "longitude": 121.564595
+  },
+  "rating": 4.5,
+  "websiteUri": "https://www.facebook.com/%E6%8D%8C%E9%9B%B6%E5%B9%B4%E4%BB%A3%E6%97%A9%E9%A4%90%E6%8E%A7-440536263157476/",
+  "userRatingCount": 296,
+  "displayName": {
+    "text": "捌零年代早餐控",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJr_6qg_SrQjQRWfXMIFi6_iU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaR1UzUkVaazVZUmswelYxRnZjVjk1YlRSU2NtYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "2026 年 2 月 18 日, 上午 7:34\nUbereat第一次訂購\n每樣都很好吃欸！！\n\n肉蛋吐司$70.00\n喜歡\n\n港式蘿蔔糕$55.00\n喜歡，不過醬油膏不夠多\n\n花生煉乳法式吐司$55.00\n不錯\n\n熱狗$25.00\n有點炸過頭，\n不知道有沒有賣水煎式。\n\n肉醬麵$120.00\n中杯, 冰 (冰量固定)\n奶茶 (甜度固定) ($5.00)\n小孩喜歡，奶茶好喝",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2026 年 2 月 18 日, 上午 7:34\nUbereat第一次訂購\n每樣都很好吃欸！！\n\n肉蛋吐司$70.00\n喜歡\n\n港式蘿蔔糕$55.00\n喜歡，不過醬油膏不夠多\n\n花生煉乳法式吐司$55.00\n不錯\n\n熱狗$25.00\n有點炸過頭，\n不知道有沒有賣水煎式。\n\n肉醬麵$120.00\n中杯, 冰 (冰量固定)\n奶茶 (甜度固定) ($5.00)\n小孩喜歡，奶茶好喝",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yun Ding",
+        "uri": "https://www.google.com/maps/contrib/106909419181302741029/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXAgn7_pknwycrCP0bTkHTjLqwXMqtyag9fQvWr58X6tQzQMX6=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-02-19T05:18:43.422027388Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaR1UzUkVaazVZUmswelYxRnZjVjk1YlRSU2NtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaR1UzUkVaazVZUmswelYxRnZjVjk1YlRSU2NtYxAB!2m1!1s0x3442abf483aafeaf:0x25feba5820ccf559"
+    },
+    {
+      "name": "places/ChIJr_6qg_SrQjQRWfXMIFi6_iU/reviews/Ci9DQUlRQUNvZENodHljRjlvT204MVRXRjVObTFqYWxCSVkya3RhVGwyVDFaNlJFRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 3,
+      "text": {
+        "text": "本身是這邊的常客 大學時期就一直在吃 畢業後回來吃的這次生菜好多都爛掉了…有點失望 希望店家可以注意生菜的品質 入口發現壞掉真的很影響對店家的印象",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "本身是這邊的常客 大學時期就一直在吃 畢業後回來吃的這次生菜好多都爛掉了…有點失望 希望店家可以注意生菜的品質 入口發現壞掉真的很影響對店家的印象",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "心妤陳",
+        "uri": "https://www.google.com/maps/contrib/114966909302871484176/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWtd9UIMV9RMNgMj8D--RcPbNc1H_0YW6_eBxnZ-srce65RnAu1=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-11-02T05:43:12.543346732Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT204MVRXRjVObTFqYWxCSVkya3RhVGwyVDFaNlJFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT204MVRXRjVObTFqYWxCSVkya3RhVGwyVDFaNlJFRRAB!2m1!1s0x3442abf483aafeaf:0x25feba5820ccf559"
+    },
+    {
+      "name": "places/ChIJr_6qg_SrQjQRWfXMIFi6_iU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OVldYWndYMFZOT1dOcFQyUXRkRlV0WW5SaGFIYxAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 4,
+      "text": {
+        "text": "一年前路過，看到「捌零年代」覺得適合我這老誒來試試，沒想到在我美食筆記本裡躺了一年多，今來一試沒感到太多80年代的氣氛，反兒裡面用餐的客人，大都是2000年代左右的年輕人。\n點了鮪魚抓蛋餅加菜=75元+牛奶紅茶=30元++=105元。\n餐不錯吃，蛋餅作得飽滿，火侯剛好，紅茶一大杯，紅茶味稍淡了一點。\n服務方面人員都ok，但餐具自取標示不明，非常客找不著！\n氣氛部分是回收餐具枱就在座位旁，不想看也會看到，有點⋯⋯！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一年前路過，看到「捌零年代」覺得適合我這老誒來試試，沒想到在我美食筆記本裡躺了一年多，今來一試沒感到太多80年代的氣氛，反兒裡面用餐的客人，大都是2000年代左右的年輕人。\n點了鮪魚抓蛋餅加菜=75元+牛奶紅茶=30元++=105元。\n餐不錯吃，蛋餅作得飽滿，火侯剛好，紅茶一大杯，紅茶味稍淡了一點。\n服務方面人員都ok，但餐具自取標示不明，非常客找不著！\n氣氛部分是回收餐具枱就在座位旁，不想看也會看到，有點⋯⋯！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "KING (第10級在地嚮導)",
+        "uri": "https://www.google.com/maps/contrib/109750155652914128045/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKtnNaC96pwKQ4ttcOAEx_lXrfkHJAzM2jYWMeiMxH_m3evWw=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-08-08T06:34:36.768059426Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OVldYWndYMFZOT1dOcFQyUXRkRlV0WW5SaGFIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OVldYWndYMFZOT1dOcFQyUXRkRlV0WW5SaGFIYxAB!2m1!1s0x3442abf483aafeaf:0x25feba5820ccf559"
+    },
+    {
+      "name": "places/ChIJr_6qg_SrQjQRWfXMIFi6_iU/reviews/ChZDSUhNMG9nS0VJQ0FnSUNCODdMUU9REAE",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "優質早餐店 每樣都好吃 也不貴 推薦蔥抓餅 跟卡拉雞吐司總匯 附近早餐店來最多次的一家～^ ^ ～ 還有起司菇菇蛋餅好吃 都吃好幾輪了 希望多出點新品",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "優質早餐店 每樣都好吃 也不貴 推薦蔥抓餅 跟卡拉雞吐司總匯 附近早餐店來最多次的一家～^ ^ ～ 還有起司菇菇蛋餅好吃 都吃好幾輪了 希望多出點新品",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Q",
+        "uri": "https://www.google.com/maps/contrib/104743521368358306807/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWOkYYrQEkAubE7JX1Hc7UVyn2Puq_eBkKhf7ay_HXdfGyswVNodQ=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-01-17T04:48:49.522531487Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNCODdMUU9REAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNCODdMUU9REAE!2m1!1s0x3442abf483aafeaf:0x25feba5820ccf559"
+    },
+    {
+      "name": "places/ChIJr_6qg_SrQjQRWfXMIFi6_iU/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ3NGJ6ckhBEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "在巷弄裡的早餐店，假日生意非常好👍🏻\n\n室內的油煙味沒有想像中那麼重，但如果有炒麵或煎肉就比較有味道，但其實可以接受，因為一下子而已。\n\n能線上點餐或劃菜單，點餐完後就去櫃檯結帳，假日生意比較好所以要稍等一下。\n\n-\n📍蔬菜蛋餅 $50\n有高麗菜、小黃瓜、少許洋蔥，整體清爽不錯吃，餅皮很軟Q，冷掉的時候吃會更有嚼勁。\n\n📍豬肉蛋餅 $55\n豬排很厚一塊，應該有用醬料醃漬過，蠻有飽足感的！\n\n-\n📍豬排南瓜泥總匯 $85\n用四片切片的吐司做成，包著生菜、小黃瓜、起司、超多南瓜泥、香煎豬排，吃起來爽度很高。\n\n如果不要美乃滋，可以跟店家說，吐司也可以換成全麥土司，整體清爽好吃！\n\n-\n📍起司蛋蔥抓餅\n旁邊會直接加醬油，表皮沒有想像中那麼脆。\n\n雖然看起來份量不多，但吃完很飽。\n\n📍紅茶 $20\n用百年老茶行的茶葉。\n\n不會太甜，喝完之後舌頭不會有喝茶葉的澀感，是很順口的早餐店紅茶。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在巷弄裡的早餐店，假日生意非常好👍🏻\n\n室內的油煙味沒有想像中那麼重，但如果有炒麵或煎肉就比較有味道，但其實可以接受，因為一下子而已。\n\n能線上點餐或劃菜單，點餐完後就去櫃檯結帳，假日生意比較好所以要稍等一下。\n\n-\n📍蔬菜蛋餅 $50\n有高麗菜、小黃瓜、少許洋蔥，整體清爽不錯吃，餅皮很軟Q，冷掉的時候吃會更有嚼勁。\n\n📍豬肉蛋餅 $55\n豬排很厚一塊，應該有用醬料醃漬過，蠻有飽足感的！\n\n-\n📍豬排南瓜泥總匯 $85\n用四片切片的吐司做成，包著生菜、小黃瓜、起司、超多南瓜泥、香煎豬排，吃起來爽度很高。\n\n如果不要美乃滋，可以跟店家說，吐司也可以換成全麥土司，整體清爽好吃！\n\n-\n📍起司蛋蔥抓餅\n旁邊會直接加醬油，表皮沒有想像中那麼脆。\n\n雖然看起來份量不多，但吃完很飽。\n\n📍紅茶 $20\n用百年老茶行的茶葉。\n\n不會太甜，喝完之後舌頭不會有喝茶葉的澀感，是很順口的早餐店紅茶。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Wenny Yu",
+        "uri": "https://www.google.com/maps/contrib/116047525372588610408/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXekE-bkkzAITXGxNNRvc1bQZa_H6gg-vtHuuBa-xUBujZl1NT8_A=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-02-08T07:09:23.274372Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ3NGJ6ckhBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ3NGJ6ckhBEAE!2m1!1s0x3442abf483aafeaf:0x25feba5820ccf559"
+    }
+  ],
+  "goodForChildren": true
+}

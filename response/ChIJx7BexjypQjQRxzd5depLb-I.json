@@ -1,0 +1,130 @@
+{
+  "id": "ChIJx7BexjypQjQRxzd5depLb-I",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2506 7858",
+  "formattedAddress": "B1, No. 206號南京東路二段朱園里中山區臺北市台灣 104",
+  "location": {
+    "latitude": 25.051761400000004,
+    "longitude": 121.53581170000001
+  },
+  "rating": 4.5,
+  "userRatingCount": 119,
+  "displayName": {
+    "text": "中華樓",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJx7BexjypQjQRxzd5depLb-I/reviews/ChZDSUhNMG9nS0VJQ0FnSUN6a2VTb1BnEAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 3,
+      "text": {
+        "text": "的確是新開業，裝修新。由於我是跟旅行團用的團餐。菜式份量足夠八人以上進食，菜式大致上都有一定水準。在服務方面，仍然尚有進步空間。服務員一次上齊八菜一湯及飯後水果，但之後就再不主動理會我們了。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "的確是新開業，裝修新。由於我是跟旅行團用的團餐。菜式份量足夠八人以上進食，菜式大致上都有一定水準。在服務方面，仍然尚有進步空間。服務員一次上齊八菜一湯及飯後水果，但之後就再不主動理會我們了。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "John Wong",
+        "uri": "https://www.google.com/maps/contrib/100592267184174009183/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWLgFsvFdztvBFaM0tEKDivM2Ni2JGJTQAMT2VGDwddkTHquBM=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2024-06-02T18:18:03.024344Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN6a2VTb1BnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN6a2VTb1BnEAE!2m1!1s0x3442a93cc65eb0c7:0xe26f4bea757937c7"
+    },
+    {
+      "name": "places/ChIJx7BexjypQjQRxzd5depLb-I/reviews/ChZDSUhNMG9nS0VJQ0FnSURicDd6S2FBEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "服務很好、出餐速度快、餐點很好吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "服務很好、出餐速度快、餐點很好吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "葉芷嫚",
+        "uri": "https://www.google.com/maps/contrib/114559061080646804712/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUsrv_eHrtKjQhrAhYhAvvgWMOBCf2MBlJ-E83tBEdYdqb0Ua-JTQ=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2024-08-10T04:25:28.928886Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURicDd6S2FBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURicDd6S2FBEAE!2m1!1s0x3442a93cc65eb0c7:0xe26f4bea757937c7"
+    },
+    {
+      "name": "places/ChIJx7BexjypQjQRxzd5depLb-I/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xNGJsaGFOMU5TVUdKZmN6WjBWbkZXUmsxSGEzYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "適合多人聚餐 菜單多變化 很好吃\n上餐快 服務佳",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "適合多人聚餐 菜單多變化 很好吃\n上餐快 服務佳",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "杜陳修",
+        "uri": "https://www.google.com/maps/contrib/114049866185813973779/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVxR2PHPp6_MBXa1BdKJNGF_CPjXQsYK9TkLphZiDTrHVekfgY=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-19T07:02:51.391796790Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xNGJsaGFOMU5TVUdKZmN6WjBWbkZXUmsxSGEzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xNGJsaGFOMU5TVUdKZmN6WjBWbkZXUmsxSGEzYxAB!2m1!1s0x3442a93cc65eb0c7:0xe26f4bea757937c7"
+    },
+    {
+      "name": "places/ChIJx7BexjypQjQRxzd5depLb-I/reviews/ChdDSUhNMG9nS0VJQ0FnSUNUbDY2bjhBRRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "食材新鮮 服務優質 環境乾淨",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "食材新鮮 服務優質 環境乾淨",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林雨霏",
+        "uri": "https://www.google.com/maps/contrib/110829654418540443504/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWr-wmp4z1onuNEfxe4KQPYoO2S1NhY3NLcaVW4O_BP_lfqLib2=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2024-05-20T03:24:01.627781Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNUbDY2bjhBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNUbDY2bjhBRRAB!2m1!1s0x3442a93cc65eb0c7:0xe26f4bea757937c7"
+    },
+    {
+      "name": "places/ChIJx7BexjypQjQRxzd5depLb-I/reviews/ChZDSUhNMG9nS0VJRDR3NXljMTZhbVR3EAE",
+      "relativePublishTimeDescription": "12 個月前",
+      "rating": 5,
+      "text": {
+        "text": "中華樓是我近期最滿意的一次用餐體驗！菜色豐富道地，尤其東坡肉與芋泥鴨讓人驚艷，香氣十足、入口即化。服務人員親切細心，讓人賓至如歸。環境乾淨舒適，適合家庭聚餐或朋友聚會。整體從味道到服務都非常到位，值得一試再試。已經列入口袋名單，絕對會再回訪！五星好評，推薦給喜歡正宗中式料理的饕客！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "中華樓是我近期最滿意的一次用餐體驗！菜色豐富道地，尤其東坡肉與芋泥鴨讓人驚艷，香氣十足、入口即化。服務人員親切細心，讓人賓至如歸。環境乾淨舒適，適合家庭聚餐或朋友聚會。整體從味道到服務都非常到位，值得一試再試。已經列入口袋名單，絕對會再回訪！五星好評，推薦給喜歡正宗中式料理的饕客！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Kevin Chen",
+        "uri": "https://www.google.com/maps/contrib/102837339709225596915/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWRF0Q9We4BTSqTg2r04emdCCDH8ydODHTfZFJpVFhynRS4NJwoAw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-06-12T09:25:55.508411Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJRDR3NXljMTZhbVR3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJRDR3NXljMTZhbVR3EAE!2m1!1s0x3442a93cc65eb0c7:0xe26f4bea757937c7"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

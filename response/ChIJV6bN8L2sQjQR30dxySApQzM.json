@@ -1,0 +1,131 @@
+{
+  "id": "ChIJV6bN8L2sQjQR30dxySApQzM",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2630 9515",
+  "formattedAddress": "114台灣臺北市內湖區金湖里成功路五段69號號",
+  "location": {
+    "latitude": 25.0739888,
+    "longitude": 121.60583
+  },
+  "rating": 4.3,
+  "websiteUri": "https://m.facebook.com/ieatbreakfast1221/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 122,
+  "displayName": {
+    "text": "ieat早午餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJV6bN8L2sQjQR30dxySApQzM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OSWVVSjZUbnAxYTJGNFpVSmxVbEp5UlVsdFpXYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "這次試試薯餅🫓口味還不錯，也試過牛肉湯麵，口味可以，店家友善熱情",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這次試試薯餅🫓口味還不錯，也試過牛肉湯麵，口味可以，店家友善熱情",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "litaPan",
+        "uri": "https://www.google.com/maps/contrib/116761993715047597582/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUPhJT1pS8c4I4uldTgPwG0swnk5fDSlH1U6xHFFuQdZBUOwCA=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-12-04T03:00:52.049498212Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OSWVVSjZUbnAxYTJGNFpVSmxVbEp5UlVsdFpXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OSWVVSjZUbnAxYTJGNFpVSmxVbEp5UlVsdFpXYxAB!2m1!1s0x3442acbdf0cda657:0x33432920c97147df"
+    },
+    {
+      "name": "places/ChIJV6bN8L2sQjQR30dxySApQzM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oWk1saHZlRmx6TmxWSVpFOWtRUzF3YVhacVVuYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 3,
+      "text": {
+        "text": "#202508 #初訪 #3星\n豬排蛋餅好吃，但鐵板麵真的不怎樣：（",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "#202508 #初訪 #3星\n豬排蛋餅好吃，但鐵板麵真的不怎樣：（",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "GN",
+        "uri": "https://www.google.com/maps/contrib/115017555366412545334/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWTwaci9ePX0I4snRRW-t2sb2zVhf3JdiDvj5wpJCQqo_YSlFU=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-08-14T13:40:33.404311799Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oWk1saHZlRmx6TmxWSVpFOWtRUzF3YVhacVVuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oWk1saHZlRmx6TmxWSVpFOWtRUzF3YVhacVVuYxAB!2m1!1s0x3442acbdf0cda657:0x33432920c97147df"
+    },
+    {
+      "name": "places/ChIJV6bN8L2sQjQR30dxySApQzM/reviews/Ci9DQUlRQUNvZENodHljRjlvT210eWVsQkxVMjlyVUd4U2FuVjFSbFJLTlhweldGRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "東西好吃 價格合理 但只有老闆跟老闆娘 會需要等待餐點製作",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "東西好吃 價格合理 但只有老闆跟老闆娘 會需要等待餐點製作",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Z Z",
+        "uri": "https://www.google.com/maps/contrib/108018932502059566412/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLHSU0y_M3Bc9D1irSAMtn2wc4MUZ78kdwvICKeG6KU9dLj5g=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-11-13T23:29:22.264158086Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210eWVsQkxVMjlyVUd4U2FuVjFSbFJLTlhweldGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210eWVsQkxVMjlyVUd4U2FuVjFSbFJLTlhweldGRRAB!2m1!1s0x3442acbdf0cda657:0x33432920c97147df"
+    },
+    {
+      "name": "places/ChIJV6bN8L2sQjQR30dxySApQzM/reviews/ChZDSUhNMG9nS0VJQ0FnSUN4ejVqNmRBEAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "店家走樸實穩定輸出路線，用餐當下蠻多常客光臨，用餐環境也乾淨。\n\n點了豬肉蛋餅+蘿蔔糕+蛋+黑胡椒鐵板麵+蛋\n不得不說店家的醬料不知道是哪牌的，好吃不死鹹很加分，蛋餅皮是偏Q的那種，蘿蔔糕質地鬆軟，很好入口，鐵板麵跟常見的調理包略微不同，黑胡椒味道較明顯，麵份量也多了些，好吃到我都吃光了！\n\n記得吃完再付錢喔！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店家走樸實穩定輸出路線，用餐當下蠻多常客光臨，用餐環境也乾淨。\n\n點了豬肉蛋餅+蘿蔔糕+蛋+黑胡椒鐵板麵+蛋\n不得不說店家的醬料不知道是哪牌的，好吃不死鹹很加分，蛋餅皮是偏Q的那種，蘿蔔糕質地鬆軟，很好入口，鐵板麵跟常見的調理包略微不同，黑胡椒味道較明顯，麵份量也多了些，好吃到我都吃光了！\n\n記得吃完再付錢喔！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "tone hector",
+        "uri": "https://www.google.com/maps/contrib/114443572853817007313/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXhK1CbnO7i-ZeoXGl5Nh8Pz-SxMk2TFY688bp8AB4vBi-FL61h9w=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2023-05-29T00:17:36.272774Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN4ejVqNmRBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN4ejVqNmRBEAE!2m1!1s0x3442acbdf0cda657:0x33432920c97147df"
+    },
+    {
+      "name": "places/ChIJV6bN8L2sQjQR30dxySApQzM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYamVmMmtRRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "📍培根蛋餅 $40\n\n東西超便宜！根本不是台北物價🥹🥹🥹而且食物也不雷，雞塊炸得酥酥的超級好吃！！！蛋餅也不錯，醬料跟蛋餅很搭！紅茶也好喝～阿伯態度也很好！五顆星推推🌟🌟🌟！！（在飯店附近找到這間寶藏早餐店真的超幸運！）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "📍培根蛋餅 $40\n\n東西超便宜！根本不是台北物價🥹🥹🥹而且食物也不雷，雞塊炸得酥酥的超級好吃！！！蛋餅也不錯，醬料跟蛋餅很搭！紅茶也好喝～阿伯態度也很好！五顆星推推🌟🌟🌟！！（在飯店附近找到這間寶藏早餐店真的超幸運！）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Julia Lin",
+        "uri": "https://www.google.com/maps/contrib/115990087500619730246/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLR8V2eowLaNLKSp79h4wqmswrz1cKheB05Lsd8XO0fD-2qtEQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2024-10-19T08:22:17.096966Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYamVmMmtRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYamVmMmtRRRAB!2m1!1s0x3442acbdf0cda657:0x33432920c97147df"
+    }
+  ],
+  "goodForChildren": true
+}

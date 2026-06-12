@@ -1,0 +1,132 @@
+{
+  "id": "ChIJ7f5RJzipQjQRN56R2xAhvVE",
+  "types": [
+    "american_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2503 7080",
+  "formattedAddress": "104台灣臺北市中山區建國北路二段6巷27號1樓",
+  "location": {
+    "latitude": 25.0526359,
+    "longitude": 121.53509430000001
+  },
+  "rating": 4.5,
+  "websiteUri": "https://www.facebook.com/MM-Cafe-Bar-1911256908931194/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 465,
+  "displayName": {
+    "text": "M M CAFE & BAR",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ7f5RJzipQjQRN56R2xAhvVE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKblRWVm1SbXhQY1Vzek1HVlJhblUzVTJSWE0yYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "午餐時間與朋友前來，11：50開始座位滿座了。\n點了雞肉義大利麵，餐點不錯。附餐沒有咖啡選項，只好點個烏龍茶。\n價格適中，餐點中等以上，是與朋友會面洽公的好去處。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "午餐時間與朋友前來，11：50開始座位滿座了。\n點了雞肉義大利麵，餐點不錯。附餐沒有咖啡選項，只好點個烏龍茶。\n價格適中，餐點中等以上，是與朋友會面洽公的好去處。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "海馬老爸",
+        "uri": "https://www.google.com/maps/contrib/114150498876198818527/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUSU34-S_1LjaeR8GcuCU8WpMCGPvS4ioVOm-ixmC50uiez5uA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-03-08T01:59:23.589932829Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKblRWVm1SbXhQY1Vzek1HVlJhblUzVTJSWE0yYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKblRWVm1SbXhQY1Vzek1HVlJhblUzVTJSWE0yYxAB!2m1!1s0x3442a9382751feed:0x51bd2110db919e37"
+    },
+    {
+      "name": "places/ChIJ7f5RJzipQjQRN56R2xAhvVE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5d1luWmlkM2hITlc5Tk1VSnBOVUUyWVdsaVUwRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "環境和服務都算不錯，餐點味道也OK，可惜的就是出菜的速度有點過慢。...........不過還是會想來嘗試不同的餐點！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境和服務都算不錯，餐點味道也OK，可惜的就是出菜的速度有點過慢。...........不過還是會想來嘗試不同的餐點！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "MYu",
+        "uri": "https://www.google.com/maps/contrib/112634930556844796960/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdaARDzt3kYu3mGCHSDIRo4Rc5XOOSBRUcYigXNnOusXUj8b0=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-27T06:59:26.008550189Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5d1luWmlkM2hITlc5Tk1VSnBOVUUyWVdsaVUwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5d1luWmlkM2hITlc5Tk1VSnBOVUUyWVdsaVUwRRAB!2m1!1s0x3442a9382751feed:0x51bd2110db919e37"
+    },
+    {
+      "name": "places/ChIJ7f5RJzipQjQRN56R2xAhvVE/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KaFJraFFZV0ZOYjJRM2VYa3hjVTFyZG5FeFlVRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "非常好吃，來過很多次都沒有雷\n商務聚餐也合適\n上菜比較慢，建議訂位時先點餐",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "非常好吃，來過很多次都沒有雷\n商務聚餐也合適\n上菜比較慢，建議訂位時先點餐",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "cloud雲",
+        "uri": "https://www.google.com/maps/contrib/107134863900822517348/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKib8ZnVXOaxmveCRweT0MV3YbhE-3XxpbsCHd9yAbSGioIRrE=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-08T02:41:12.080108081Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KaFJraFFZV0ZOYjJRM2VYa3hjVTFyZG5FeFlVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KaFJraFFZV0ZOYjJRM2VYa3hjVTFyZG5FeFlVRRAB!2m1!1s0x3442a9382751feed:0x51bd2110db919e37"
+    },
+    {
+      "name": "places/ChIJ7f5RJzipQjQRN56R2xAhvVE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twQ01GSm9Ta3BZTTJseVZ6SldWV2hxY0RreVoyYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "墨西哥牛肉香腸燉飯還不錯吃，看似份量不多，其實卻很紮實、可以吃得很飽。商業午餐還有附沙拉，氛圍很適合和朋友聚餐聊天。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "墨西哥牛肉香腸燉飯還不錯吃，看似份量不多，其實卻很紮實、可以吃得很飽。商業午餐還有附沙拉，氛圍很適合和朋友聚餐聊天。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Paige Siara",
+        "uri": "https://www.google.com/maps/contrib/112663146337096942618/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVr88IWniNO2CgLRQ31LGZGpwH3k2BDwv4YLxcwYupMnLR0r1GE=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-05T12:48:59.426265439Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twQ01GSm9Ta3BZTTJseVZ6SldWV2hxY0RreVoyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twQ01GSm9Ta3BZTTJseVZ6SldWV2hxY0RreVoyYxAB!2m1!1s0x3442a9382751feed:0x51bd2110db919e37"
+    },
+    {
+      "name": "places/ChIJ7f5RJzipQjQRN56R2xAhvVE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWV1luTkZUelpEYm5Kd1JGWnZXbmhyTW1kc1NYYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "欸湯跟雞翅不錯，但pizza的餅皮口感很像餅乾，有點乾，然後義大利麵的麵體也是有點太軟...",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "欸湯跟雞翅不錯，但pizza的餅皮口感很像餅乾，有點乾，然後義大利麵的麵體也是有點太軟...",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張歐貝",
+        "uri": "https://www.google.com/maps/contrib/107742111419733576883/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWGL4i7lVAN4xevjEQA9OdRbrAli_vMtw2rWklfRzbyNksPyJdsxA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-09-13T16:18:27.213276893Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWV1luTkZUelpEYm5Kd1JGWnZXbmhyTW1kc1NYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWV1luTkZUelpEYm5Kd1JGWnZXbmhyTW1kc1NYYxAB!2m1!1s0x3442a9382751feed:0x51bd2110db919e37"
+    }
+  ],
+  "menuForChildren": false
+}

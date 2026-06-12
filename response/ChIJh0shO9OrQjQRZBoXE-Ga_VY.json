@@ -1,0 +1,135 @@
+{
+  "id": "ChIJh0shO9OrQjQRZBoXE-Ga_VY",
+  "types": [
+    "coffee_shop",
+    "cafe",
+    "food_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2755 1288",
+  "formattedAddress": "106台灣臺北市大安區住安里信義路四段30巷39號",
+  "location": {
+    "latitude": 25.0318139,
+    "longitude": 121.5447918
+  },
+  "rating": 4.2,
+  "websiteUri": "https://www.facebook.com/Zhejiancafe/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1158,
+  "displayName": {
+    "text": "這間咖啡",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJh0shO9OrQjQRZBoXE-Ga_VY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21adVJuUnBkUzEwVjFKc1NWYzFjbFZFUkd4blRVRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "📌這份三明治 $200\n份量意外地大\n吐司酥脆 蛋又厚又嫩\n比較特別是有過貓\n好吃 但可能美乃滋和肉鬆讓我覺得很像早餐店的味道\n.\n📌小黃瓜蜂蜜檸檬汁 $180\n清爽好喝！\n不會太甜 瓜味和蜂蜜味都不會太重 味道平衡得很好\n.\nfree-wifi\n低消一杯飲料\n很多唸書辦公的人\n光線偏暗但吧檯有檯燈",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "📌這份三明治 $200\n份量意外地大\n吐司酥脆 蛋又厚又嫩\n比較特別是有過貓\n好吃 但可能美乃滋和肉鬆讓我覺得很像早餐店的味道\n.\n📌小黃瓜蜂蜜檸檬汁 $180\n清爽好喝！\n不會太甜 瓜味和蜂蜜味都不會太重 味道平衡得很好\n.\nfree-wifi\n低消一杯飲料\n很多唸書辦公的人\n光線偏暗但吧檯有檯燈",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Oriane Chen",
+        "uri": "https://www.google.com/maps/contrib/110706867414733593317/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKNFNKAQj2a-uPl6QGJLqpKzzrqkgt79XrPHn3HdjGzF7_aX0Pn=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-11T11:10:42.422551848Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21adVJuUnBkUzEwVjFKc1NWYzFjbFZFUkd4blRVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21adVJuUnBkUzEwVjFKc1NWYzFjbFZFUkd4blRVRRAB!2m1!1s0x3442abd33b214b87:0x56fd9ae113171a64"
+    },
+    {
+      "name": "places/ChIJh0shO9OrQjQRZBoXE-Ga_VY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSeVJrOTJUMDlPVVVWVWIwOUJWM0ZNUzJGNFVIYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "這間咖啡\n\n有戶外吸菸區/內用有一般座位、沙發區等等\n大安區有名的特色深咖\n8點去已經坐滿了半間以上的客人\n\n天堂鳥奶茶\n就是南非國寶鮮奶茶\n熱的喝起來很溫順讚讚\n\n小聲跟朋友聊天也是可以的",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這間咖啡\n\n有戶外吸菸區/內用有一般座位、沙發區等等\n大安區有名的特色深咖\n8點去已經坐滿了半間以上的客人\n\n天堂鳥奶茶\n就是南非國寶鮮奶茶\n熱的喝起來很溫順讚讚\n\n小聲跟朋友聊天也是可以的",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Victoria",
+        "uri": "https://www.google.com/maps/contrib/105043023532897814566/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLgE0xCUWfPV0FIfh7vxA7oC1uw3srLf981rbPDnNroxk7CvA=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-02-04T07:12:22.686456688Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSeVJrOTJUMDlPVVVWVWIwOUJWM0ZNUzJGNFVIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSeVJrOTJUMDlPVVVWVWIwOUJWM0ZNUzJGNFVIYxAB!2m1!1s0x3442abd33b214b87:0x56fd9ae113171a64"
+    },
+    {
+      "name": "places/ChIJh0shO9OrQjQRZBoXE-Ga_VY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1VGFIUTBha1J1VjAxM1JWaHhURmw1VjBOUlVIYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "會為了這家的過貓三明治一直回訪的\n\n也很喜歡這間咖啡不吵鬧但也不死寂的環境\n雖然眼睛真的要扛不住了…\n-\n📌個人喜好：7.9/10\n\n#這間咖啡 #台北不限時咖啡廳 #台北不限時咖啡 #台北深夜咖啡廳 #台北深夜咖啡 #過貓三明治 #大安區咖啡 #大安區咖啡廳",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "會為了這家的過貓三明治一直回訪的\n\n也很喜歡這間咖啡不吵鬧但也不死寂的環境\n雖然眼睛真的要扛不住了…\n-\n📌個人喜好：7.9/10\n\n#這間咖啡 #台北不限時咖啡廳 #台北不限時咖啡 #台北深夜咖啡廳 #台北深夜咖啡 #過貓三明治 #大安區咖啡 #大安區咖啡廳",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chihying Huang",
+        "uri": "https://www.google.com/maps/contrib/108844452958567402409/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVHHP2wSZc0OvjStDODUpw3F9zCJBLDeojmaklKsm7nexMz3Ai_=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-11-13T03:38:47.457608132Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1VGFIUTBha1J1VjAxM1JWaHhURmw1VjBOUlVIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1VGFIUTBha1J1VjAxM1JWaHhURmw1VjBOUlVIYxAB!2m1!1s0x3442abd33b214b87:0x56fd9ae113171a64"
+    },
+    {
+      "name": "places/ChIJh0shO9OrQjQRZBoXE-Ga_VY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pNeWFsVTJYMng2YkU1T04wOXJTbVJ1WmpkbFUwRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "大安捷運站附近的深夜咖啡廳 ☕️\n離捷運站蠻近～走幾步路就到了～\n店內氣氛走暗暗的復古風～很有fu～\n尤其是晚上來特別有氛圍～\n他們家開到晚上12點~超適合晚上來～\n放鬆享受個人時間的好地方 😆\n來這邊看書～聽音樂～吃甜點都蠻不錯的\n\n這次就點了\n他們家的黑糖煎茶拿鐵跟伯爵茶布丁 🍮\n黑糖煎茶拿鐵喝起來蠻順口好喝的\n個人是推薦喝熱的！比較會有黑糖的香氣\n甜點伯爵茶布丁也是個人覺得必點 ❤️\n伯爵茶香濃郁～搭配上面的堅果～\n味道、口感都是蠻棒的 👍👍👍\n\n整體來說～是間我一定會再回訪的咖啡廳\n氣氛舒服～甜點好吃～\n喜歡暗暗復古風格咖啡廳的人\n絕對不能錯過 😆\n\n今日餐點📝\n🔸️黑糖煎茶拿鐵$180\n🔹️伯爵茶布丁$150",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "大安捷運站附近的深夜咖啡廳 ☕️\n離捷運站蠻近～走幾步路就到了～\n店內氣氛走暗暗的復古風～很有fu～\n尤其是晚上來特別有氛圍～\n他們家開到晚上12點~超適合晚上來～\n放鬆享受個人時間的好地方 😆\n來這邊看書～聽音樂～吃甜點都蠻不錯的\n\n這次就點了\n他們家的黑糖煎茶拿鐵跟伯爵茶布丁 🍮\n黑糖煎茶拿鐵喝起來蠻順口好喝的\n個人是推薦喝熱的！比較會有黑糖的香氣\n甜點伯爵茶布丁也是個人覺得必點 ❤️\n伯爵茶香濃郁～搭配上面的堅果～\n味道、口感都是蠻棒的 👍👍👍\n\n整體來說～是間我一定會再回訪的咖啡廳\n氣氛舒服～甜點好吃～\n喜歡暗暗復古風格咖啡廳的人\n絕對不能錯過 😆\n\n今日餐點📝\n🔸️黑糖煎茶拿鐵$180\n🔹️伯爵茶布丁$150",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "王松晏",
+        "uri": "https://www.google.com/maps/contrib/116298350999540276042/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK9w7vjX6BXrGt2ym14ZgEIR43KZkiNHUyzM4UziWG_UgPG8TQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-16T21:28:26.024898940Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pNeWFsVTJYMng2YkU1T04wOXJTbVJ1WmpkbFUwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pNeWFsVTJYMng2YkU1T04wOXJTbVJ1WmpkbFUwRRAB!2m1!1s0x3442abd33b214b87:0x56fd9ae113171a64"
+    },
+    {
+      "name": "places/ChIJh0shO9OrQjQRZBoXE-Ga_VY/reviews/Ci9DQUlRQUNvZENodHljRjlvT205MGRrY3diWGRrT1ZndFFYRmZhVE51VmpoSlQzYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "人均：$250\n\n🔸抹茶拿鐵：\n正常表現\n\n🔸原味布丁：\n布丁本身是比較扎實的口感\n焦糖醬是沒加糖的苦味呈現，我蠻喜歡",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "人均：$250\n\n🔸抹茶拿鐵：\n正常表現\n\n🔸原味布丁：\n布丁本身是比較扎實的口感\n焦糖醬是沒加糖的苦味呈現，我蠻喜歡",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hsu Shao-Yuan",
+        "uri": "https://www.google.com/maps/contrib/114959781573566730794/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWo2L-QpTJj-jg_RtuZxS28ncUVIfV5FY1i2Rc6RwSLmFqkIZQ0=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-12-20T09:42:41.805371832Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205MGRrY3diWGRrT1ZndFFYRmZhVE51VmpoSlQzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205MGRrY3diWGRrT1ZndFFYRmZhVE51VmpoSlQzYxAB!2m1!1s0x3442abd33b214b87:0x56fd9ae113171a64"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": false
+}

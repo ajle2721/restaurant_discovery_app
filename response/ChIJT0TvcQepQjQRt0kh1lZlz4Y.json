@@ -1,0 +1,130 @@
+﻿{
+    "id":  "ChIJT0TvcQepQjQRt0kh1lZlz4Y",
+    "types":  [
+                  "italian_restaurant",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2559 8528",
+    "formattedAddress":  "103台灣臺北市大同區建明里承德路一段1號號B3",
+    "location":  {
+                     "latitude":  25.049308,
+                     "longitude":  121.5171936
+                 },
+    "rating":  4.1,
+    "websiteUri":  "https://www.mulino.tw/tw/brand/beppin",
+    "userRatingCount":  842,
+    "displayName":  {
+                        "text":  "BEPPIN PASTA EXPRESS 義大利麵京站店",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJT0TvcQepQjQRt0kh1lZlz4Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xcFYwcHpRekpZYlc5TVZuaERUVEU0TlU1S01sRRAB",
+                        "relativePublishTimeDescription":  "7 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "常因人手不足而需要稍等，但只要吃過一次，就會被那股「日本靜岡生麵」的Q彈口感與日式義大利風味圈粉。麵條滑順有嚼勁、醬汁濃郁不膩，是少數能讓人一再回訪的京站美食。另外beppin pasta express 的手工披薩也很出色，薄脆餅皮帶著天然麥香，是家人每次指定要我外帶回家的口袋名單。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "常因人手不足而需要稍等，但只要吃過一次，就會被那股「日本靜岡生麵」的Q彈口感與日式義大利風味圈粉。麵條滑順有嚼勁、醬汁濃郁不膩，是少數能讓人一再回訪的京站美食。另外beppin pasta express 的手工披薩也很出色，薄脆餅皮帶著天然麥香，是家人每次指定要我外帶回家的口袋名單。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "小七",
+                                                  "uri":  "https://www.google.com/maps/contrib/116497644738724454731/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjW7teJ69fWFt6v0bWKsa-fmew9b2FMhzse4CpsLZ0naap8OnCF_=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-10-17T01:36:32.704090464Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xcFYwcHpRekpZYlc5TVZuaERUVEU0TlU1S01sRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xcFYwcHpRekpZYlc5TVZuaERUVEU0TlU1S01sRRAB!2m1!1s0x3442a90771ef444f:0x86cf6556d62149b7"
+                    },
+                    {
+                        "name":  "places/ChIJT0TvcQepQjQRt0kh1lZlz4Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xRFRqQlVkR2xKZFVKcWJ6aEZWRzgzU0RkemQzYxAB",
+                        "relativePublishTimeDescription":  "7 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "吃了明太子花枝奶油義大利麵和瑪格麗特披薩都好吃，平日晚上來吃不用排隊，還看到櫃檯人員遇到瘋客人，店員辛苦了。2025.10.21（二）\n\n雞腿排奶油青醬義大利麵、明太子花枝披薩🍕\n2025.10.23（四）",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "吃了明太子花枝奶油義大利麵和瑪格麗特披薩都好吃，平日晚上來吃不用排隊，還看到櫃檯人員遇到瘋客人，店員辛苦了。2025.10.21（二）\n\n雞腿排奶油青醬義大利麵、明太子花枝披薩🍕\n2025.10.23（四）",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Bo Bo",
+                                                  "uri":  "https://www.google.com/maps/contrib/113977198446880782562/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVSdyOnzzH1vrkF52aIu819BZhIoVr8Adw_Expqh4WBRSapJlXUsA=s128-c0x00000000-cc-rp-mo-ba8"
+                                              },
+                        "publishTime":  "2025-10-23T10:23:00.692121206Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xRFRqQlVkR2xKZFVKcWJ6aEZWRzgzU0RkemQzYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xRFRqQlVkR2xKZFVKcWJ6aEZWRzgzU0RkemQzYxAB!2m1!1s0x3442a90771ef444f:0x86cf6556d62149b7"
+                    },
+                    {
+                        "name":  "places/ChIJT0TvcQepQjQRt0kh1lZlz4Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Wc2RVSlhiemx6VURoalgxWjROMnhKT1hOdVRVRRAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "生義大利麵口感真的比較Q彈，口感很好，義大利麵的調味也很棒，濃湯很濃郁有味，來北車可以嘗試看看。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "生義大利麵口感真的比較Q彈，口感很好，義大利麵的調味也很棒，濃湯很濃郁有味，來北車可以嘗試看看。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Dylan Chen",
+                                                  "uri":  "https://www.google.com/maps/contrib/102228813404999636513/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUhQ0lDL6OHBxL8Bp_Dihh7d9ObgpdMVz9nNJOdjaOj1GTimtrQ8A=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-12-21T07:21:15.036974184Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Wc2RVSlhiemx6VURoalgxWjROMnhKT1hOdVRVRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Wc2RVSlhiemx6VURoalgxWjROMnhKT1hOdVRVRRAB!2m1!1s0x3442a90771ef444f:0x86cf6556d62149b7"
+                    },
+                    {
+                        "name":  "places/ChIJT0TvcQepQjQRt0kh1lZlz4Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaTE1GWnBjbmR6TFVsTlREZDNZalF0UTFWSGJFRRAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  3,
+                        "text":  {
+                                     "text":  "個人覺得普普\n茶還不錯很回甘\n玉米濃湯很濃郁但很像沒有蛤蠣的cosco 濃湯\n搭配麵包沾著吃很行",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "個人覺得普普\n茶還不錯很回甘\n玉米濃湯很濃郁但很像沒有蛤蠣的cosco 濃湯\n搭配麵包沾著吃很行",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "邱瑀婕",
+                                                  "uri":  "https://www.google.com/maps/contrib/109626042206460986840/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUSb47YHxVltjoc4P1d3YbTDHL2oQ0_ebvfoRUaRhAzR8o9VwU3CQ=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2026-01-16T05:49:49.744140462Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaTE1GWnBjbmR6TFVsTlREZDNZalF0UTFWSGJFRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaTE1GWnBjbmR6TFVsTlREZDNZalF0UTFWSGJFRRAB!2m1!1s0x3442a90771ef444f:0x86cf6556d62149b7"
+                    },
+                    {
+                        "name":  "places/ChIJT0TvcQepQjQRt0kh1lZlz4Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pnMWNsVm9WVTFmV0dkYU9GUk1UazlRZHpkRE9XYxAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "第一次來 BEPPIN PASTA EXPRESS 義大利麵，比想像中好吃！麵條Q、醬汁濃郁不膩，明太子濃郁、雞腿排也很嫩，出餐快、份量剛好，逛京站吃這間很可以👍",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "第一次來 BEPPIN PASTA EXPRESS 義大利麵，比想像中好吃！麵條Q、醬汁濃郁不膩，明太子濃郁、雞腿排也很嫩，出餐快、份量剛好，逛京站吃這間很可以👍",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Amber Wu",
+                                                  "uri":  "https://www.google.com/maps/contrib/111697880025601347001/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXiYRjxlxi2kmYUfytRlTAmFqDLJ7x8r3TKCyhw__8gxW97Qz-1AQ=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2026-01-04T05:32:03.009978052Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pnMWNsVm9WVTFmV0dkYU9GUk1UazlRZHpkRE9XYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pnMWNsVm9WVTFmV0dkYU9GUk1UazlRZHpkRE9XYxAB!2m1!1s0x3442a90771ef444f:0x86cf6556d62149b7"
+                    }
+                ]
+}

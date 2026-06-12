@@ -1,0 +1,135 @@
+{
+  "id": "ChIJ4dK_nW6pQjQROorFHqEmU6E",
+  "types": [
+    "italian_restaurant",
+    "dim_sum_restaurant",
+    "cantonese_restaurant",
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2552 7819",
+  "formattedAddress": "103台灣臺北市大同區光能里赤峰街47巷25號",
+  "location": {
+    "latitude": 25.0553895,
+    "longitude": 121.52033940000001
+  },
+  "rating": 4.4,
+  "websiteUri": "https://www.facebook.com/pages/Double-Like-%E9%9B%99%E5%80%8D%E5%96%9C%E6%AD%A1/557968660925335",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 392,
+  "displayName": {
+    "text": "Double like雙倍喜歡",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ4dK_nW6pQjQROorFHqEmU6E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOQ1NrbE5hamt5VVdSaWNERmlUbk10WkV4TWNsRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "重新裝潢後第一次來用餐，餐點和甜點一如往常的好吃，奶油雞油燉飯我個人是滿推薦的，口味稍微重一點，帶點酸味。\n一樣是燉飯，但奶油海鮮燉飯份量好像比雞肉燉飯的量還多一點點。\n開心果慕斯蛋糕也是一絕，開心果味道滿濃郁的，喜歡堅果風味甜點的人應該會很喜歡吧❤️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "重新裝潢後第一次來用餐，餐點和甜點一如往常的好吃，奶油雞油燉飯我個人是滿推薦的，口味稍微重一點，帶點酸味。\n一樣是燉飯，但奶油海鮮燉飯份量好像比雞肉燉飯的量還多一點點。\n開心果慕斯蛋糕也是一絕，開心果味道滿濃郁的，喜歡堅果風味甜點的人應該會很喜歡吧❤️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "狂鳥",
+        "uri": "https://www.google.com/maps/contrib/104584769230265160408/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXQmylHoWvByitCGZmsa1_OyH7qh2kZ8bkPgtKU45K63_0WHiDD=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-31T10:26:23.232105483Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOQ1NrbE5hamt5VVdSaWNERmlUbk10WkV4TWNsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOQ1NrbE5hamt5VVdSaWNERmlUbk10WkV4TWNsRRAB!2m1!1s0x3442a96e9dbfd2e1:0xa15326a11ec58a3a"
+    },
+    {
+      "name": "places/ChIJ4dK_nW6pQjQROorFHqEmU6E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWalZuWllPSFZmZG5CNFZYbHZSazl1V21SNVZFRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "店內用餐環境寬敞舒適，燈光也很明亮，很舒服，也不用排隊，直接上去就好。老闆娘也很親切。\n這邊很久以前吃的，菜單是手稿很可愛，我記得是點柚香奶油野菇雞肉義大利麵280元，以及普羅旺斯奶油野菇燻雞燉飯280元，印象中都還不錯，只是記憶點不多，份量很少，一份對我來說大概四分飽，性價比稍低。\n當天沒有看到貓貓，好像在睡覺。\n\n現金付款。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店內用餐環境寬敞舒適，燈光也很明亮，很舒服，也不用排隊，直接上去就好。老闆娘也很親切。\n這邊很久以前吃的，菜單是手稿很可愛，我記得是點柚香奶油野菇雞肉義大利麵280元，以及普羅旺斯奶油野菇燻雞燉飯280元，印象中都還不錯，只是記憶點不多，份量很少，一份對我來說大概四分飽，性價比稍低。\n當天沒有看到貓貓，好像在睡覺。\n\n現金付款。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "辰泗",
+        "uri": "https://www.google.com/maps/contrib/105487273149089779959/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUrSb2WqSC5jb9a_CgeA_bxprSJDVDRCh5bGIivG5le0-akWv7I=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-18T09:07:38.873573634Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWalZuWllPSFZmZG5CNFZYbHZSazl1V21SNVZFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWalZuWllPSFZmZG5CNFZYbHZSazl1V21SNVZFRRAB!2m1!1s0x3442a96e9dbfd2e1:0xa15326a11ec58a3a"
+    },
+    {
+      "name": "places/ChIJ4dK_nW6pQjQROorFHqEmU6E/reviews/Ci9DQUlRQUNvZENodHljRjlvT210VFZrZ3RWMVJwTkZNMVdUaHRkbk00U0V4NFVYYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "店內菜單有介紹貓咪跟守則，有柵欄可以防止貓咪跑出去，餐點好吃也很安靜；貓咪也很可愛；有販售很多貓咪元素的周邊可以買",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店內菜單有介紹貓咪跟守則，有柵欄可以防止貓咪跑出去，餐點好吃也很安靜；貓咪也很可愛；有販售很多貓咪元素的周邊可以買",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Tsung Wang",
+        "uri": "https://www.google.com/maps/contrib/116785075495440192112/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUvUUH6qVV_tsJFzWsySRhqVPwzcrBNCQIPFUQ_fprGzGSzSlY0=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-28T11:54:48.150572329Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210VFZrZ3RWMVJwTkZNMVdUaHRkbk00U0V4NFVYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210VFZrZ3RWMVJwTkZNMVdUaHRkbk00U0V4NFVYYxAB!2m1!1s0x3442a96e9dbfd2e1:0xa15326a11ec58a3a"
+    },
+    {
+      "name": "places/ChIJ4dK_nW6pQjQROorFHqEmU6E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taMGQwTlBhRFpuV1VscWVWbHFiVTVUUkRaUGRsRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "2025.10  假日午 ◆◆◆◇\n空間不大、沒有時間限制，建議訂位\n整個氛圍很舒適，有貓貓但整理得很乾淨\n這天兩隻貓貓幾乎都在睡覺，小摩睡在外面有醒來一下、黑糖都躲在房間裡\n餐點口味還不錯、算是合理的中價位，不加收服務費\n\n不過店內有些簡體字的告示牌小小扣分\n\n◆◆◆奶油野菇燻雞義大利麵 $280\n配料洋蔥和杏鮑菇滿多，奶油口味偏清爽、吃到燻雞時的鹹味比較對",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2025.10  假日午 ◆◆◆◇\n空間不大、沒有時間限制，建議訂位\n整個氛圍很舒適，有貓貓但整理得很乾淨\n這天兩隻貓貓幾乎都在睡覺，小摩睡在外面有醒來一下、黑糖都躲在房間裡\n餐點口味還不錯、算是合理的中價位，不加收服務費\n\n不過店內有些簡體字的告示牌小小扣分\n\n◆◆◆奶油野菇燻雞義大利麵 $280\n配料洋蔥和杏鮑菇滿多，奶油口味偏清爽、吃到燻雞時的鹹味比較對",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yuki",
+        "uri": "https://www.google.com/maps/contrib/111108588030545465945/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWYx1zhuxpbtTb_5SFQOh_r6XRqmDdjCbTPU9X6Xh65Ko-dVEY=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-10-28T06:34:03.941499753Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taMGQwTlBhRFpuV1VscWVWbHFiVTVUUkRaUGRsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taMGQwTlBhRFpuV1VscWVWbHFiVTVUUkRaUGRsRRAB!2m1!1s0x3442a96e9dbfd2e1:0xa15326a11ec58a3a"
+    },
+    {
+      "name": "places/ChIJ4dK_nW6pQjQROorFHqEmU6E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWNVRHNU5kVGhhYm5kMVpuTmFPRXhEYlVSRVdYYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "進店已經覺得貓咪裝飾很別致，店長一定很喜歡貓貓。店裡只有一個店長一個廚師，有點忙不過來。但吃的無論是主食，小吃或是蛋糕都很好吃，如果要說不好的話就只有咖啡的拉花不夠好囉",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "進店已經覺得貓咪裝飾很別致，店長一定很喜歡貓貓。店裡只有一個店長一個廚師，有點忙不過來。但吃的無論是主食，小吃或是蛋糕都很好吃，如果要說不好的話就只有咖啡的拉花不夠好囉",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Katy Katy",
+        "uri": "https://www.google.com/maps/contrib/103422312322894365401/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUTMsWaQljGAHfLBFV041AglWRmwKoZrBs5R4iT0QmmsRpy2zRA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-09-07T20:46:28.094458209Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWNVRHNU5kVGhhYm5kMVpuTmFPRXhEYlVSRVdYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWNVRHNU5kVGhhYm5kMVpuTmFPRXhEYlVSRVdYYxAB!2m1!1s0x3442a96e9dbfd2e1:0xa15326a11ec58a3a"
+    }
+  ],
+  "menuForChildren": false
+}

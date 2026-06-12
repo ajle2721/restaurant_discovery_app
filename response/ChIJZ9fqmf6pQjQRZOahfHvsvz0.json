@@ -1,0 +1,136 @@
+{
+  "id": "ChIJZ9fqmf6pQjQRZOahfHvsvz0",
+  "types": [
+    "coffee_shop",
+    "dessert_restaurant",
+    "cafe",
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2361 9229",
+  "formattedAddress": "100001台灣臺北市中正區延平南路13-1號號(位於開封街上",
+  "location": {
+    "latitude": 25.0461109,
+    "longitude": 121.51101680000001
+  },
+  "rating": 4.5,
+  "websiteUri": "https://m.facebook.com/Ramble-Cafe-%E6%BC%AB%E6%AD%A5%E8%97%8D%E5%92%96%E5%95%A1-%E5%8F%B0%E5%8C%97%E5%8C%97%E9%96%80%E5%BA%97-104881985679205/",
+  "userRatingCount": 236,
+  "displayName": {
+    "text": "Ramble Cafe 漫步藍咖啡台北北門店(5/30、31公休)",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJZ9fqmf6pQjQRZOahfHvsvz0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkaWIwdEJRVjlKT0UxcExYbDZPSGd0WnpkcVNHYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "性價比相當高的小咖啡店，蛋糕的甜度適中，不會讓人有甜的發膩之感。\n小小的店面充分利用空間，不至於有壅塞的感覺。\n客人雖有交談，都能低聲不影響其他客人，很有質感，難能可貴的小店。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "性價比相當高的小咖啡店，蛋糕的甜度適中，不會讓人有甜的發膩之感。\n小小的店面充分利用空間，不至於有壅塞的感覺。\n客人雖有交談，都能低聲不影響其他客人，很有質感，難能可貴的小店。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "cc c",
+        "uri": "https://www.google.com/maps/contrib/114499374041396769366/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIFdWslh5dakcCTc6NBQccGrDdf0I_m7jqpeumTdU4fnG_PHg=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-02-06T16:43:46.797606228Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkaWIwdEJRVjlKT0UxcExYbDZPSGd0WnpkcVNHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkaWIwdEJRVjlKT0UxcExYbDZPSGd0WnpkcVNHYxAB!2m1!1s0x3442a9fe99ead767:0x3dbfec7b7ca1e664"
+    },
+    {
+      "name": "places/ChIJZ9fqmf6pQjQRZOahfHvsvz0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GMWMyUlRRMFJMU3psNlRVaHhPRjlhZG5ka1ZtYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "空間不大但感覺很舒適～店員親切餐點美味，店內的交談音量不會很大，很適合一個人來份甜點飲料放鬆一下～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "空間不大但感覺很舒適～店員親切餐點美味，店內的交談音量不會很大，很適合一個人來份甜點飲料放鬆一下～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hsuan Lee",
+        "uri": "https://www.google.com/maps/contrib/113451853208706295293/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV1LUnbAfE4bLyLJx-uA7nWilmbZ654wZGUxdqU4CY-vfEznNw=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-27T10:57:49.724526865Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GMWMyUlRRMFJMU3psNlRVaHhPRjlhZG5ka1ZtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GMWMyUlRRMFJMU3psNlRVaHhPRjlhZG5ka1ZtYxAB!2m1!1s0x3442a9fe99ead767:0x3dbfec7b7ca1e664"
+    },
+    {
+      "name": "places/ChIJZ9fqmf6pQjQRZOahfHvsvz0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KNFZXcFhVMmRMYkhwVVFWSTJURE14WldWMlpFRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "【食記】臺北市中正區∣Ramble Cafe 漫步藍咖啡台北北門店\n2025.11.28\n\n午休出來走走，到Ramble Cafe 漫步藍咖啡台北北門店點一杯大的精品美式，還蠻不錯喝的。店內雖然不大，但是，還蠻舒服的，這好像是我第二次來耶。還蠻喜歡店裡的氛圍。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "【食記】臺北市中正區∣Ramble Cafe 漫步藍咖啡台北北門店\n2025.11.28\n\n午休出來走走，到Ramble Cafe 漫步藍咖啡台北北門店點一杯大的精品美式，還蠻不錯喝的。店內雖然不大，但是，還蠻舒服的，這好像是我第二次來耶。還蠻喜歡店裡的氛圍。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Adonis Chen",
+        "uri": "https://www.google.com/maps/contrib/100325590679504025781/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLiwWN_2nOiRL4L02lu_THyhit2VGPLS76ow-Q2yiEtRPrIRRED=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-28T05:41:04.197465019Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KNFZXcFhVMmRMYkhwVVFWSTJURE14WldWMlpFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KNFZXcFhVMmRMYkhwVVFWSTJURE14WldWMlpFRRAB!2m1!1s0x3442a9fe99ead767:0x3dbfec7b7ca1e664"
+    },
+    {
+      "name": "places/ChIJZ9fqmf6pQjQRZOahfHvsvz0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25BMVdIVlRkRGhzVFZaSWEzTndVemhmTmpZNWFHYxAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 5,
+      "text": {
+        "text": "更：謝謝店家的快速回覆，後來仔細想想咖啡廳的價位大致都落在這個區間，搭配飲品也確實有折扣，而且台北租金寸土寸金，是我太過於吹毛求疵了。\n五星給確實很美味的食物✨\n-\n鮪魚薯泥三明治沒加蛋就要70元了，吃完很空虛，但確實是好吃的。紅茶尚可。\n白桃蘋果乳酪蛋糕值得一試，乳酪非常濃郁😙",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "更：謝謝店家的快速回覆，後來仔細想想咖啡廳的價位大致都落在這個區間，搭配飲品也確實有折扣，而且台北租金寸土寸金，是我太過於吹毛求疵了。\n五星給確實很美味的食物✨\n-\n鮪魚薯泥三明治沒加蛋就要70元了，吃完很空虛，但確實是好吃的。紅茶尚可。\n白桃蘋果乳酪蛋糕值得一試，乳酪非常濃郁😙",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Claire Chen",
+        "uri": "https://www.google.com/maps/contrib/111648052624300163972/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWB77SYbQZQVf1NCFvehC2iPkYUxw4ldBJj-YVpsYi4qCWcDKdhig=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-07-15T07:09:13.081902426Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25BMVdIVlRkRGhzVFZaSWEzTndVemhmTmpZNWFHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25BMVdIVlRkRGhzVFZaSWEzTndVemhmTmpZNWFHYxAB!2m1!1s0x3442a9fe99ead767:0x3dbfec7b7ca1e664"
+    },
+    {
+      "name": "places/ChIJZ9fqmf6pQjQRZOahfHvsvz0/reviews/ChdDSUhNMG9nS0VJQ0FnTURnNF9MWHlRRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "奧地利詩人彼得、艾頓柏格有一句經典名言、來形容迷戀且醉心咖啡迷的具體寫照、“如果我不在家、就是在咖啡館；如果我不在咖啡館、就是在前往咖啡館的路上“！\n這也是漫步藍咖啡迷的翻板、小小的店面、顧客盈門、坐滿啜飲咖啡顧客、不管是單人獨享或著是和三五好友聚集低聲談天說地、均人手一杯現磨咖啡、品嘗著咖啡的濃郁醇香和恬靜時光！\n較喜愛濃縮咖啡、此乃咖啡之靈魂所在、拿到手、在享受之前、需先欣賞咖啡油沫、淺焙咖啡油沫顏色較淡、但此濃縮咖啡油沫較厚實、能給咖啡帶來濃郁香氣與絲滑的口感！\n再來便是深吸一口氣，感受一下咖啡的香氣、讓香氣盈繞在鼻腔中、進而就要淺嚐一口咖啡、來感受酸度、香氣、醇度和風味的融合！\n待淺嚐後、便要回味感受咖啡在口腔中餘香、酸感和甜感等、體會咖啡的餘韻！\n在這、也有簡餐和甜點供選擇！不過還是最愛濃縮咖啡！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "奧地利詩人彼得、艾頓柏格有一句經典名言、來形容迷戀且醉心咖啡迷的具體寫照、“如果我不在家、就是在咖啡館；如果我不在咖啡館、就是在前往咖啡館的路上“！\n這也是漫步藍咖啡迷的翻板、小小的店面、顧客盈門、坐滿啜飲咖啡顧客、不管是單人獨享或著是和三五好友聚集低聲談天說地、均人手一杯現磨咖啡、品嘗著咖啡的濃郁醇香和恬靜時光！\n較喜愛濃縮咖啡、此乃咖啡之靈魂所在、拿到手、在享受之前、需先欣賞咖啡油沫、淺焙咖啡油沫顏色較淡、但此濃縮咖啡油沫較厚實、能給咖啡帶來濃郁香氣與絲滑的口感！\n再來便是深吸一口氣，感受一下咖啡的香氣、讓香氣盈繞在鼻腔中、進而就要淺嚐一口咖啡、來感受酸度、香氣、醇度和風味的融合！\n待淺嚐後、便要回味感受咖啡在口腔中餘香、酸感和甜感等、體會咖啡的餘韻！\n在這、也有簡餐和甜點供選擇！不過還是最愛濃縮咖啡！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳俊華",
+        "uri": "https://www.google.com/maps/contrib/110426276277012341688/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJNmmUsshO1q8GBBDfJHDt0NS0hS0G28BsMPNPKmO1uWQ7NIQ=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-02-27T03:59:57.217619Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnNF9MWHlRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnNF9MWHlRRRAB!2m1!1s0x3442a9fe99ead767:0x3dbfec7b7ca1e664"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

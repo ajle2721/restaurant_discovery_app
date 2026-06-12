@@ -1,0 +1,130 @@
+{
+  "id": "ChIJlVpcPr2rQjQRT1GbZBFRr9w",
+  "types": [
+    "breakfast_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2640 2274",
+  "formattedAddress": "221台灣新北市汐止區橫科里橫科路18巷2號",
+  "location": {
+    "latitude": 25.0510152,
+    "longitude": 121.61795909999998
+  },
+  "rating": 5,
+  "userRatingCount": 25,
+  "displayName": {
+    "text": "元炁小鎮早午餐",
+    "languageCode": "zh"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJlVpcPr2rQjQRT1GbZBFRr9w/reviews/ChZDSUhNMG9nS0VJQ0FnSUNScmVQQ0dREAE",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 5,
+      "text": {
+        "text": "創意料理，美味好吃，尤其波隆納牛肉堡有特色。除此，價格便宜，幾乎銅板價，用料實在，很難得的早午餐店。今天點南瓜雞肉燉飯，現煮美食，超讚！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "創意料理，美味好吃，尤其波隆納牛肉堡有特色。除此，價格便宜，幾乎銅板價，用料實在，很難得的早午餐店。今天點南瓜雞肉燉飯，現煮美食，超讚！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "huiwen Xu",
+        "uri": "https://www.google.com/maps/contrib/111487981242183264603/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVsmhzQesw16iu9ZkMNGyHEM-KF9gT94xUbWWyscsB3XHv_FlFB=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2023-04-08T05:44:58.051909Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNScmVQQ0dREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNScmVQQ0dREAE!2m1!1s0x3442abbd3e5c5a95:0xdcaf5111649b514f"
+    },
+    {
+      "name": "places/ChIJlVpcPr2rQjQRT1GbZBFRr9w/reviews/ChZDSUhNMG9nS0VJQ0FnSURXd1lDVVpnEAE",
+      "relativePublishTimeDescription": "4 年前",
+      "rating": 5,
+      "text": {
+        "text": "用新鮮食材現做，咖哩味道香濃，偶而會有不定時的小確幸，例如韓式辣炒年糕.....",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "用新鮮食材現做，咖哩味道香濃，偶而會有不定時的小確幸，例如韓式辣炒年糕.....",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "李雲雀",
+        "uri": "https://www.google.com/maps/contrib/116378637243483760669/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK5hvkAcY6XuHQITbqaPIwpkO6GJfYq4e3PwBcm-cJQR1Fvbw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2022-03-27T08:08:04.720266Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURXd1lDVVpnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURXd1lDVVpnEAE!2m1!1s0x3442abbd3e5c5a95:0xdcaf5111649b514f"
+    },
+    {
+      "name": "places/ChIJlVpcPr2rQjQRT1GbZBFRr9w/reviews/ChZDSUhNMG9nS0VJQ0FnSURXcnZfX1J3EAE",
+      "relativePublishTimeDescription": "4 年前",
+      "rating": 5,
+      "text": {
+        "text": "餐廳內整潔，食材衛生，力推塔香雞冬粉Q彈好吃及咖哩豬加荷包蛋香濃。\n年青帥氣的老闆及美麗溫柔的老闆娘都很親切，值得我常去捧場。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐廳內整潔，食材衛生，力推塔香雞冬粉Q彈好吃及咖哩豬加荷包蛋香濃。\n年青帥氣的老闆及美麗溫柔的老闆娘都很親切，值得我常去捧場。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "王文和",
+        "uri": "https://www.google.com/maps/contrib/112822075515141739479/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKEQ_yEJAlvBPjiCs0lWkFBo759sqqFDPg-EeRSrG23JalAWQ=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2022-03-26T03:07:56.678984Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURXcnZfX1J3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURXcnZfX1J3EAE!2m1!1s0x3442abbd3e5c5a95:0xdcaf5111649b514f"
+    },
+    {
+      "name": "places/ChIJlVpcPr2rQjQRT1GbZBFRr9w/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tvdE0zbElSVUphWjBaSlIyMXhhWE52TFcxTk5IYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點好吃、不油膩",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點好吃、不油膩",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ariel Sun",
+        "uri": "https://www.google.com/maps/contrib/113663816588123329644/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVJKY01wSbVvH5oo3roT-IyKuDiY4pX4iaoTzOa44eKaxSfba0Y=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-12-15T13:32:02.064559155Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tvdE0zbElSVUphWjBaSlIyMXhhWE52TFcxTk5IYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tvdE0zbElSVUphWjBaSlIyMXhhWE52TFcxTk5IYxAB!2m1!1s0x3442abbd3e5c5a95:0xdcaf5111649b514f"
+    },
+    {
+      "name": "places/ChIJlVpcPr2rQjQRT1GbZBFRr9w/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtcDltR0JREAE",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 5,
+      "text": {
+        "text": "咖喱飯，炸雞漢堡，隱藏版蔥抓餅，奶油雞肉燉飯，南瓜燉飯，義大利麵，三明治都很好吃，真材實料，價錢公道，老板親切",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "咖喱飯，炸雞漢堡，隱藏版蔥抓餅，奶油雞肉燉飯，南瓜燉飯，義大利麵，三明治都很好吃，真材實料，價錢公道，老板親切",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "周敏",
+        "uri": "https://www.google.com/maps/contrib/107638004066069409759/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIKziBOTrwwpRgr8WQbWeXmV4i8cSeENCRYFQV2K3ly1v-cIA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2022-12-11T12:26:27.172325Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQtcDltR0JREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQtcDltR0JREAE!2m1!1s0x3442abbd3e5c5a95:0xdcaf5111649b514f"
+    }
+  ],
+  "goodForChildren": true
+}

@@ -1,0 +1,130 @@
+{
+  "id": "ChIJk1zYdgCtQjQRxm0I58yBV_c",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 6609 0131",
+  "formattedAddress": "114台灣臺北市內湖區南湖里康寧路三段168號",
+  "location": {
+    "latitude": 25.0693491,
+    "longitude": 121.61168520000001
+  },
+  "rating": 4.9,
+  "websiteUri": "https://page.line.me/322ruxvp",
+  "userRatingCount": 60,
+  "displayName": {
+    "text": "食時樂",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJk1zYdgCtQjQRxm0I58yBV_c/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOb1VHaHdUMUZmTFVSbVdqa3lNV016ZUhkc1pXYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "以前的速食店變成了食時樂😆\n漢堡薯條變成吃中式融合套餐⋯⋯\n其實還蠻好吃的，環境也可以，服務不錯！外場小妹妹好漂亮！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "以前的速食店變成了食時樂😆\n漢堡薯條變成吃中式融合套餐⋯⋯\n其實還蠻好吃的，環境也可以，服務不錯！外場小妹妹好漂亮！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "劉丹丹",
+        "uri": "https://www.google.com/maps/contrib/105834556534832798102/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL4WLcuP4-mGgFqOyas-myGyu1R5pEfzTbNPKDK0A5hYpWQjg=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-02T14:33:44.752630850Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOb1VHaHdUMUZmTFVSbVdqa3lNV016ZUhkc1pXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOb1VHaHdUMUZmTFVSbVdqa3lNV016ZUhkc1pXYxAB!2m1!1s0x3442ad0076d85c93:0xf75781cce7086dc6"
+    },
+    {
+      "name": "places/ChIJk1zYdgCtQjQRxm0I58yBV_c/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0c1RqZzJlVVpRWkVacU5FOVNUazB0Ym1SRmRHYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "菜色多種套餐，方便選擇，可口美味！用餐空間寬敞、明亮、舒適，氣氛優雅。價格合理，加一成小費可以接受，下次再來吃其他套餐。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "菜色多種套餐，方便選擇，可口美味！用餐空間寬敞、明亮、舒適，氣氛優雅。價格合理，加一成小費可以接受，下次再來吃其他套餐。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chih Cheng Tsao",
+        "uri": "https://www.google.com/maps/contrib/109378023251884319638/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV_7fvWU7Mm9jZDsT5DCUIYPu-BrWjZXZ3NkQX8wkcYm2PASzeP=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-27T12:15:24.438855918Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0c1RqZzJlVVpRWkVacU5FOVNUazB0Ym1SRmRHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0c1RqZzJlVVpRWkVacU5FOVNUazB0Ym1SRmRHYxAB!2m1!1s0x3442ad0076d85c93:0xf75781cce7086dc6"
+    },
+    {
+      "name": "places/ChIJk1zYdgCtQjQRxm0I58yBV_c/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aTlVuZG5lVk5ZU0dGUGFrWm5UMDFwTkdWR1UxRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "還不錯吃 是偏清淡健康的味道\n現在有活動五星評論打9折～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "還不錯吃 是偏清淡健康的味道\n現在有活動五星評論打9折～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "bear may",
+        "uri": "https://www.google.com/maps/contrib/102742263405851272760/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXAzAMK1td9Tb-JKTSzhHzpiyBLBXPVrbM0Wmvk1S5wKo8PnJdjZw=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-05T11:43:56.488464299Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aTlVuZG5lVk5ZU0dGUGFrWm5UMDFwTkdWR1UxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aTlVuZG5lVk5ZU0dGUGFrWm5UMDFwTkdWR1UxRRAB!2m1!1s0x3442ad0076d85c93:0xf75781cce7086dc6"
+    },
+    {
+      "name": "places/ChIJk1zYdgCtQjQRxm0I58yBV_c/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKMmVqUkhXbGhZYzJaRGQxTkhaVnB6TUhwWGFHYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "價格偏高，份量也比較少，餐點精緻度稍嫌不足。\n一個適合帶小朋友來的地方，旁邊有很大的遊戲室，也擺滿了不得了的植栽，以前的麥當勞搖身一變！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "價格偏高，份量也比較少，餐點精緻度稍嫌不足。\n一個適合帶小朋友來的地方，旁邊有很大的遊戲室，也擺滿了不得了的植栽，以前的麥當勞搖身一變！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yen Jen Chen (Eric)",
+        "uri": "https://www.google.com/maps/contrib/100010794559573405288/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU3pQdEgv9TgA7bE414IjuxFQeDayKyy5HmEMSNhS6DOHEgsyeKfQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-07T10:26:44.589621834Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKMmVqUkhXbGhZYzJaRGQxTkhaVnB6TUhwWGFHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKMmVqUkhXbGhZYzJaRGQxTkhaVnB6TUhwWGFHYxAB!2m1!1s0x3442ad0076d85c93:0xf75781cce7086dc6"
+    },
+    {
+      "name": "places/ChIJk1zYdgCtQjQRxm0I58yBV_c/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tjMmNHbFBRamg2UldwNlEwNU9PVTVHYzB4TWFtYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "豆漿魚套餐$350\n豆漿微微甜，和鱸魚搭配起來是很特別的滋味\n餐點整體來說調味適中，感覺健康養生~",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "豆漿魚套餐$350\n豆漿微微甜，和鱸魚搭配起來是很特別的滋味\n餐點整體來說調味適中，感覺健康養生~",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Orina Shiue",
+        "uri": "https://www.google.com/maps/contrib/112943025198121373118/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXlST3-7ZZdVQvKmJ1_e3kpPcyB3DFpWJEiy48YzkvkmJO4N4KVBA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-26T05:14:57.251320576Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tjMmNHbFBRamg2UldwNlEwNU9PVTVHYzB4TWFtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tjMmNHbFBRamg2UldwNlEwNU9PVTVHYzB4TWFtYxAB!2m1!1s0x3442ad0076d85c93:0xf75781cce7086dc6"
+    }
+  ],
+  "goodForChildren": true
+}

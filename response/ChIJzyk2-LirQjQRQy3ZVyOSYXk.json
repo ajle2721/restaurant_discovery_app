@@ -1,0 +1,133 @@
+{
+  "id": "ChIJzyk2-LirQjQRQy3ZVyOSYXk",
+  "types": [
+    "restaurant",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 8786 0833",
+  "formattedAddress": "110台灣臺北市信義區興隆里逸仙路42巷3號",
+  "location": {
+    "latitude": 25.0403308,
+    "longitude": 121.56207189999999
+  },
+  "rating": 4.3,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 367,
+  "displayName": {
+    "text": "布朗尼咖啡餐廳Brownies Cafe",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJzyk2-LirQjQRQy3ZVyOSYXk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsa2VsbFBZVlJPWkZJelZHNUthMU4zT1ZCUU9XYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 3,
+      "text": {
+        "text": "用餐環境還行，整潔度Okay。\n\n甜點：布朗尼不會太甜，但非常乾，因此糕體很散，根本無法用叉子食用。對喜愛吃布朗尼的人來說，不好吃～不推薦！\n\n服務不好，深刻感覺服務人員的分別心。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "用餐環境還行，整潔度Okay。\n\n甜點：布朗尼不會太甜，但非常乾，因此糕體很散，根本無法用叉子食用。對喜愛吃布朗尼的人來說，不好吃～不推薦！\n\n服務不好，深刻感覺服務人員的分別心。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jean Huang",
+        "uri": "https://www.google.com/maps/contrib/117003636549838742371/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUcWfFNbmZR3741Y9M67DS_YmXXHXnDLqwHd3s1C13giuBL8YbL=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-20T13:36:30.095084443Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsa2VsbFBZVlJPWkZJelZHNUthMU4zT1ZCUU9XYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsa2VsbFBZVlJPWkZJelZHNUthMU4zT1ZCUU9XYxAB!2m1!1s0x3442abb8f83629cf:0x7961922357d92d43"
+    },
+    {
+      "name": "places/ChIJzyk2-LirQjQRQy3ZVyOSYXk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSbU9VZFlhMEZtVVd0dWFYWnJWMlZKTjBrdFRGRRAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 1,
+      "text": {
+        "text": "環境不錯但人多時講話回音還是蠻大的，松露蛋和炒菇其實有種熱炒店的外觀。\n\n因為菜單中的凱薩沙拉並沒有說有雞肉，一開始我也不想要拌醬想另外放。（老闆有所堅持一定要放，那我也不強求了，隨意….）\n\n上菜後發現吃方便素的我完全沒法挑掉雞肉只好另外叫一盤沒有肉的，其實反應好一點的老闆會說，那肉我另外放給妳朋友吃好嗎？不然光是生菜和醬汁你收我原價也該解釋一下才對吧！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境不錯但人多時講話回音還是蠻大的，松露蛋和炒菇其實有種熱炒店的外觀。\n\n因為菜單中的凱薩沙拉並沒有說有雞肉，一開始我也不想要拌醬想另外放。（老闆有所堅持一定要放，那我也不強求了，隨意….）\n\n上菜後發現吃方便素的我完全沒法挑掉雞肉只好另外叫一盤沒有肉的，其實反應好一點的老闆會說，那肉我另外放給妳朋友吃好嗎？不然光是生菜和醬汁你收我原價也該解釋一下才對吧！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Minnie Kuo (夏天的冰淇淋)",
+        "uri": "https://www.google.com/maps/contrib/109917961882054855685/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXQ1AB1qrOnLCLciYag47q9viQZZeo40XVKbKRLqZtyXYRVLEue=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-08-04T09:22:56.911000276Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSbU9VZFlhMEZtVVd0dWFYWnJWMlZKTjBrdFRGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSbU9VZFlhMEZtVVd0dWFYWnJWMlZKTjBrdFRGRRAB!2m1!1s0x3442abb8f83629cf:0x7961922357d92d43"
+    },
+    {
+      "name": "places/ChIJzyk2-LirQjQRQy3ZVyOSYXk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WUE9WUnRMV1UxTFdaaVJGRTRjbFpRYTA0MkxXYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "團體聚餐還不錯，餐點好吃，氣氛就是可以讓你大聲講話的那種服務也好。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "團體聚餐還不錯，餐點好吃，氣氛就是可以讓你大聲講話的那種服務也好。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "lh lh8587",
+        "uri": "https://www.google.com/maps/contrib/105095451082840191813/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ2WvnaTE-ucF01XgrO0qvHjHDIe65nwH_ZtMtDzOYCGDGEmg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-07T09:38:50.757023891Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WUE9WUnRMV1UxTFdaaVJGRTRjbFpRYTA0MkxXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WUE9WUnRMV1UxTFdaaVJGRTRjbFpRYTA0MkxXYxAB!2m1!1s0x3442abb8f83629cf:0x7961922357d92d43"
+    },
+    {
+      "name": "places/ChIJzyk2-LirQjQRQy3ZVyOSYXk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5dFgwRmhRbFJxVkdsUmRGUmljako1Y2tKd1NIYxAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 5,
+      "text": {
+        "text": "布朗尼重新裝潢過後第一次來吃，多了許多令人驚喜的新菜色，現在掃碼也能看到菜單，多人聚會的時候很方便，現在地下室也有酒窖了，還提供租用酒窖的服務，大型恆溫的酒窖避免了家中葡萄酒存放會遇到的問題，現在店面更加寬敞了，廁所也做了男女分流，讚👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "布朗尼重新裝潢過後第一次來吃，多了許多令人驚喜的新菜色，現在掃碼也能看到菜單，多人聚會的時候很方便，現在地下室也有酒窖了，還提供租用酒窖的服務，大型恆溫的酒窖避免了家中葡萄酒存放會遇到的問題，現在店面更加寬敞了，廁所也做了男女分流，讚👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "諒爸。",
+        "uri": "https://www.google.com/maps/contrib/114343819336145885492/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8L8tU4IYx9UQj96UrzKKL9D2paxRljKr-31b0vxrY23ZyMbh0Hw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-08-04T11:48:24.849793082Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5dFgwRmhRbFJxVkdsUmRGUmljako1Y2tKd1NIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5dFgwRmhRbFJxVkdsUmRGUmljako1Y2tKd1NIYxAB!2m1!1s0x3442abb8f83629cf:0x7961922357d92d43"
+    },
+    {
+      "name": "places/ChIJzyk2-LirQjQRQy3ZVyOSYXk/reviews/ChZDSUhNMG9nS0VJQ0FnSURidzZLR2J3EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "No.1 提拉米蘇：雖然基底不是手指餅乾是戚風蛋糕，所以比較偏綿沒有濕餅乾的口感，但是今天整體的甜度、酒的比例都很剛好，吃起來不膩竟有清爽的口感。好吃度是在主餐吃很飽快吃不下，所以兩個人合吃一份甜點的狀況下還想再加點的程度。是我吃過的提拉米蘇前三名（前提說明：我不是很愛吃甜點，也不是螞蟻人，不愛達克瓦茲還是什麼太乾的甜點，最常吃的甜點是檸檬塔）。之前吃過辛亥路的Flügel Studio ，朋友說是北市提拉米蘇前幾名，吃過後覺得not my type，整個提拉米蘇太濕盤子底層還有一層酒，所以酒味爆濃，一個人吃完酒測可能不會過的程度。\n\nNo.2 番茄海鮮義大利麵：番茄醬的酸度很剛好，喜歡偏酸的醬汁所以不喜歡紅醬有加奶油。海鮮有花枝圈、蛤蜊、蝦子都很新鮮，尤其蝦子超大隻肉咬起來很有彈性。麵也剛好，份量很多，下次會想再點。\n\nNo.3 紅酒燉牛臉頰肉：因為紅酒燉牛肉沒了所以改點這道，燉的非常入味也很軟嫩多汁，不需要切直接用叉子輕壓就可以分開，配菜的部分看起來很家常便當餐，但深綠色蔬菜也很新鮮菜完全沒有油味什麼的，高麗菜也好吃，除了另一個奇妙配菜，吃起來有榨菜的口感但不鹹不知道是什麼。\n\n羅宋湯的料主要是蔬菜，料也剛好，番茄湯底喝起來清爽開胃。\n\n松露炒蛋是偏軟嫩像是飯店早餐scrambled eggs那種口感，松露味也蠻重，但覺得可以再炒久一點會比較紮實有口感（個人口感），因為吃到後面有點飽了就比較膩一點。\n\n平日晚餐內用客人還是坐滿7成左右，店裡的裝潢沒有很講究，桌椅也是有點舊，冷氣不太冷，從外面走進店裡有點悶，後面就還好。店裡有很多書，感覺假日可以吃完午餐坐著翻翻書，下次會再訪吃吃看其他餐點。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "No.1 提拉米蘇：雖然基底不是手指餅乾是戚風蛋糕，所以比較偏綿沒有濕餅乾的口感，但是今天整體的甜度、酒的比例都很剛好，吃起來不膩竟有清爽的口感。好吃度是在主餐吃很飽快吃不下，所以兩個人合吃一份甜點的狀況下還想再加點的程度。是我吃過的提拉米蘇前三名（前提說明：我不是很愛吃甜點，也不是螞蟻人，不愛達克瓦茲還是什麼太乾的甜點，最常吃的甜點是檸檬塔）。之前吃過辛亥路的Flügel Studio ，朋友說是北市提拉米蘇前幾名，吃過後覺得not my type，整個提拉米蘇太濕盤子底層還有一層酒，所以酒味爆濃，一個人吃完酒測可能不會過的程度。\n\nNo.2 番茄海鮮義大利麵：番茄醬的酸度很剛好，喜歡偏酸的醬汁所以不喜歡紅醬有加奶油。海鮮有花枝圈、蛤蜊、蝦子都很新鮮，尤其蝦子超大隻肉咬起來很有彈性。麵也剛好，份量很多，下次會想再點。\n\nNo.3 紅酒燉牛臉頰肉：因為紅酒燉牛肉沒了所以改點這道，燉的非常入味也很軟嫩多汁，不需要切直接用叉子輕壓就可以分開，配菜的部分看起來很家常便當餐，但深綠色蔬菜也很新鮮菜完全沒有油味什麼的，高麗菜也好吃，除了另一個奇妙配菜，吃起來有榨菜的口感但不鹹不知道是什麼。\n\n羅宋湯的料主要是蔬菜，料也剛好，番茄湯底喝起來清爽開胃。\n\n松露炒蛋是偏軟嫩像是飯店早餐scrambled eggs那種口感，松露味也蠻重，但覺得可以再炒久一點會比較紮實有口感（個人口感），因為吃到後面有點飽了就比較膩一點。\n\n平日晚餐內用客人還是坐滿7成左右，店裡的裝潢沒有很講究，桌椅也是有點舊，冷氣不太冷，從外面走進店裡有點悶，後面就還好。店裡有很多書，感覺假日可以吃完午餐坐著翻翻書，下次會再訪吃吃看其他餐點。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "P Lee",
+        "uri": "https://www.google.com/maps/contrib/107519535353786905035/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKDx4awBUVn-AksYY5C3aWxo7o9tbQicwUXAnrMDVVZ_rTxfZk=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2024-08-08T19:34:39.982958Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURidzZLR2J3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURidzZLR2J3EAE!2m1!1s0x3442abb8f83629cf:0x7961922357d92d43"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

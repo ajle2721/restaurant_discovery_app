@@ -1,0 +1,129 @@
+{
+  "id": "ChIJp8SmfACvQjQRq1TyxPlvT8Y",
+  "types": [
+    "italian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2898 2355",
+  "formattedAddress": "112台灣臺北市北投區清江里磺港路80號",
+  "location": {
+    "latitude": 25.1313148,
+    "longitude": 121.50349000000001
+  },
+  "rating": 4.9,
+  "userRatingCount": 16,
+  "displayName": {
+    "text": "義廚義大利麵",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJp8SmfACvQjQRq1TyxPlvT8Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkdlNWWlRSMVZIVXpjMlZETnhSMVF5VFdKMmVXYxAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 5,
+      "text": {
+        "text": "店面較小，所以內用空間狹窄，會離隔壁的人很近，個人覺得比較不適合交談。\n不過餐點很好吃，醬的味道濃郁、焗烤起司份量也很夠很好吃，餐點皆附上濃湯跟奶茶，整體也不算太貴，值得回訪！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店面較小，所以內用空間狹窄，會離隔壁的人很近，個人覺得比較不適合交談。\n不過餐點很好吃，醬的味道濃郁、焗烤起司份量也很夠很好吃，餐點皆附上濃湯跟奶茶，整體也不算太貴，值得回訪！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "。芸",
+        "uri": "https://www.google.com/maps/contrib/103705519335637607856/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIK26rAEKlQ882VM05DjBIhO8SbS-cDNAEMV_BZIzUdi6EXag=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-05-24T13:24:09.261438176Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkdlNWWlRSMVZIVXpjMlZETnhSMVF5VFdKMmVXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkdlNWWlRSMVZIVXpjMlZETnhSMVF5VFdKMmVXYxAB!2m1!1s0x3442af007ca6c4a7:0xc64f6ff9c4f254ab"
+    },
+    {
+      "name": "places/ChIJp8SmfACvQjQRq1TyxPlvT8Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT21JeGVrRkRWbTlNVG5wRE9GRlhjMHhWUVdWUVpYYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "晚上人很多 要等很久喔\n建議中午吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "晚上人很多 要等很久喔\n建議中午吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "John吳",
+        "uri": "https://www.google.com/maps/contrib/114891609499830686493/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIhp6uW1tBMvwjizCoRJwnLWanoQxFxUQtF20u4Y2_9PF4iZA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-05-08T12:28:45.708131787Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21JeGVrRkRWbTlNVG5wRE9GRlhjMHhWUVdWUVpYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21JeGVrRkRWbTlNVG5wRE9GRlhjMHhWUVdWUVpYYxAB!2m1!1s0x3442af007ca6c4a7:0xc64f6ff9c4f254ab"
+    },
+    {
+      "name": "places/ChIJp8SmfACvQjQRq1TyxPlvT8Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GMlRIRkNRa2gyVHpaelZHbFNNREZyT0VVMlluYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "超好吃的最喜歡他們的青醬蛤蜊麵，蛤蜊新鮮好吃。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "超好吃的最喜歡他們的青醬蛤蜊麵，蛤蜊新鮮好吃。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ronica Chen",
+        "uri": "https://www.google.com/maps/contrib/115024388289076721721/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXoukRjXzYYllx7R_L7OiNJG7-PyXj3mhzPvSMp3oHZhD_I7alTtw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-05-05T11:32:07.754044731Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GMlRIRkNRa2gyVHpaelZHbFNNREZyT0VVMlluYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GMlRIRkNRa2gyVHpaelZHbFNNREZyT0VVMlluYxAB!2m1!1s0x3442af007ca6c4a7:0xc64f6ff9c4f254ab"
+    },
+    {
+      "name": "places/ChIJp8SmfACvQjQRq1TyxPlvT8Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sQ1luRlVVMmQyY0RWTGJEQlNNRlo0UjAxcFYzYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "終於又找到了，怎麼一直搬家，不許你消失",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "終於又找到了，怎麼一直搬家，不許你消失",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "LNN J",
+        "uri": "https://www.google.com/maps/contrib/111218006532968073012/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK0EcZGRxN1A0NAcCTdTbqWKpYDwlHo_Uide_9ZA2RNjRrh=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-05-01T12:45:30.301695878Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sQ1luRlVVMmQyY0RWTGJEQlNNRlo0UjAxcFYzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sQ1luRlVVMmQyY0RWTGJEQlNNRlo0UjAxcFYzYxAB!2m1!1s0x3442af007ca6c4a7:0xc64f6ff9c4f254ab"
+    },
+    {
+      "name": "places/ChIJp8SmfACvQjQRq1TyxPlvT8Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT2trM1ZWSmxZVWxxTjFCbE1HUTJRemcxY21Fd2EzYxAB",
+      "relativePublishTimeDescription": "1 個月前",
+      "rating": 5,
+      "text": {
+        "text": "心心念念的義大利麵😭生意很好很忙會等比較久不過吃到那口之後等待都是值得的～就算很忙出餐的品質還是很好 奶青真的好好吃好喜歡 辛苦你們了！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "心心念念的義大利麵😭生意很好很忙會等比較久不過吃到那口之後等待都是值得的～就算很忙出餐的品質還是很好 奶青真的好好吃好喜歡 辛苦你們了！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "蹦蹦",
+        "uri": "https://www.google.com/maps/contrib/100080269994732147604/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWARDNXEDz_CGhtUjtXnvKYTZyTj9rVWT23hMEYyTNcudzOI6Cj=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-04-29T14:30:34.138193224Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2trM1ZWSmxZVWxxTjFCbE1HUTJRemcxY21Fd2EzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2trM1ZWSmxZVWxxTjFCbE1HUTJRemcxY21Fd2EzYxAB!2m1!1s0x3442af007ca6c4a7:0xc64f6ff9c4f254ab"
+    }
+  ]
+}

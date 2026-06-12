@@ -1,0 +1,139 @@
+{
+  "id": "ChIJ5SXUr5upQjQRdCSSFbxV3ew",
+  "types": [
+    "pizza_restaurant",
+    "pizza_delivery",
+    "meal_delivery",
+    "food_delivery",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2341 5252",
+  "formattedAddress": "106台灣臺北市大安區錦華里杭州南路二段83號 1樓",
+  "location": {
+    "latitude": 25.0289169,
+    "longitude": 121.5220187
+  },
+  "rating": 4,
+  "websiteUri": "https://www.dominos.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 246,
+  "displayName": {
+    "text": "達美樂披薩 杭州南路店",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Delivery, carryout & dine-in chain offering a wide range of pizzas, plus a variety of other dishes & sides.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ5SXUr5upQjQRdCSSFbxV3ew/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxMk9TMTRTREk1V1UxQk1sZGlWVFExYkVGUGNVRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "愛臺灣的好店家！鏟子超人的優惠超讚的，芝心餅皮的披薩很好吃🍕 以後跟朋友聚會會點來吃👍✨",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "愛臺灣的好店家！鏟子超人的優惠超讚的，芝心餅皮的披薩很好吃🍕 以後跟朋友聚會會點來吃👍✨",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "劉家穎",
+        "uri": "https://www.google.com/maps/contrib/111433805854026682706/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVsns0UpQX7-cbFdPhkGOEo3La2hQIjN9QDiGzchMPJaqOVdwc=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-10-20T00:52:21.536954118Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxMk9TMTRTREk1V1UxQk1sZGlWVFExYkVGUGNVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxMk9TMTRTREk1V1UxQk1sZGlWVFExYkVGUGNVRRAB!2m1!1s0x3442a99bafd425e5:0xecdd55bc15922474"
+    },
+    {
+      "name": "places/ChIJ5SXUr5upQjQRdCSSFbxV3ew/reviews/ChdDSUhNMG9nS0VJQ0FnSUNqd1AzSXRnRRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "披薩品牌太多，達美樂披薩可能不是市場上市占率最高，但熟悉的品牌和廣告形象已深植台灣人心中，久久吃一次，推薦海鮮芝心披薩",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "披薩品牌太多，達美樂披薩可能不是市場上市占率最高，但熟悉的品牌和廣告形象已深植台灣人心中，久久吃一次，推薦海鮮芝心披薩",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "ChrisKyo Lu",
+        "uri": "https://www.google.com/maps/contrib/106616701244188083504/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU3Ny1BCgeDlQlVMvD5EnLUiyzALNLvMbogyUrYPWORWl1juARW=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2024-04-16T15:17:15.978268Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNqd1AzSXRnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNqd1AzSXRnRRAB!2m1!1s0x3442a99bafd425e5:0xecdd55bc15922474"
+    },
+    {
+      "name": "places/ChIJ5SXUr5upQjQRdCSSFbxV3ew/reviews/ChZDSUhNMG9nS0VJQ0FnTURnMk95TFFREAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 1,
+      "text": {
+        "text": "前一天就預訂了，今天時間到了完全沒看到東西，等了20分鐘店家回電找不到外送員，要等店內的外送員回去才能送，超扯的~~東西都做好一個小時了還在店家內，感覺超級差的，店長打來只說今天店內很忙~要等外送員~~到現在6:20才送到~~中間也乾乾的~旁邊都冷冷的~小披薩稍微熱一點而已",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "前一天就預訂了，今天時間到了完全沒看到東西，等了20分鐘店家回電找不到外送員，要等店內的外送員回去才能送，超扯的~~東西都做好一個小時了還在店家內，感覺超級差的，店長打來只說今天店內很忙~要等外送員~~到現在6:20才送到~~中間也乾乾的~旁邊都冷冷的~小披薩稍微熱一點而已",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Tina Chen (ELTA)",
+        "uri": "https://www.google.com/maps/contrib/103824823248024454772/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK2WaASbKQwfEvrYgpaU9lKj4yUA8QpydxBp4H-o0ffG0qCEA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-02-22T10:28:28.849442Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnMk95TFFREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnMk95TFFREAE!2m1!1s0x3442a99bafd425e5:0xecdd55bc15922474"
+    },
+    {
+      "name": "places/ChIJ5SXUr5upQjQRdCSSFbxV3ew/reviews/ChZDSUhNMG9nS0VJQ0FnSURtcDlqQ2RREAE",
+      "relativePublishTimeDescription": "4 年前",
+      "rating": 5,
+      "text": {
+        "text": "自從上次旅行去柬埔寨吃了這家披薩後\n回台還是依然如舊的好吃\n今晚的結帳服務人員不錯，謝謝🙏",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "自從上次旅行去柬埔寨吃了這家披薩後\n回台還是依然如舊的好吃\n今晚的結帳服務人員不錯，謝謝🙏",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "lin lawrence",
+        "uri": "https://www.google.com/maps/contrib/115337174378518684995/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLnFv3twuYlu32U3MFcWq-_6JvFDByvggDB50bbbXua9znNjA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2022-02-11T10:25:21.127644Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURtcDlqQ2RREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURtcDlqQ2RREAE!2m1!1s0x3442a99bafd425e5:0xecdd55bc15922474"
+    },
+    {
+      "name": "places/ChIJ5SXUr5upQjQRdCSSFbxV3ew/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2dUxXVEJREAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 1,
+      "text": {
+        "text": "我的料呢？ 訂購日期 ：12/17 晚餐，東西太糟了吧，跟圖片完全不一樣啊，絕對不會再來第二次 商品名稱：招牌蔬食四喜",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "我的料呢？ 訂購日期 ：12/17 晚餐，東西太糟了吧，跟圖片完全不一樣啊，絕對不會再來第二次 商品名稱：招牌蔬食四喜",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "萌小浩",
+        "uri": "https://www.google.com/maps/contrib/103936156868167203048/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLNAq-m6fOD1DtQYYfYsReg_Vnjif0xwlzyJyQmPsW7A1TtPg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2024-12-17T12:41:01.487214Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2dUxXVEJREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2dUxXVEJREAE!2m1!1s0x3442a99bafd425e5:0xecdd55bc15922474"
+    }
+  ],
+  "menuForChildren": false
+}

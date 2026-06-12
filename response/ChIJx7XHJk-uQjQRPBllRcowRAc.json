@@ -1,0 +1,132 @@
+{
+  "id": "ChIJx7XHJk-uQjQRPBllRcowRAc",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2891 3468",
+  "formattedAddress": "112台灣臺北市北投區開明里中和街320巷12號",
+  "location": {
+    "latitude": 25.1412884,
+    "longitude": 121.50017299999999
+  },
+  "rating": 4.5,
+  "websiteUri": "https://www.facebook.com/HeyMan.Restaurant/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 216,
+  "displayName": {
+    "text": "哈麵飯店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJx7XHJk-uQjQRPBllRcowRAc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsS2NsVnJlbFJKTXpObFVrdzRObTFJYTBkNlJtYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 2,
+      "text": {
+        "text": "義大利麵還正常 只是西班牙口味的義大利麵 吃不太懂 然後料很少\n蛋包飯飯非常濕黏全部結成球",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "義大利麵還正常 只是西班牙口味的義大利麵 吃不太懂 然後料很少\n蛋包飯飯非常濕黏全部結成球",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "CLARE LEE",
+        "uri": "https://www.google.com/maps/contrib/102550737260352767454/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVUviVZi3s5snc1fUwxaXTd7azmnlIZYGDk8pgPc1XZHamxC2-h=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-15T10:06:52.177878666Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsS2NsVnJlbFJKTXpObFVrdzRObTFJYTBkNlJtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsS2NsVnJlbFJKTXpObFVrdzRObTFJYTBkNlJtYxAB!2m1!1s0x3442ae4f26c7b5c7:0x74430ca4565193c"
+    },
+    {
+      "name": "places/ChIJx7XHJk-uQjQRPBllRcowRAc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twd2JrMUVNV1JaY21kZk1HRkpUVXRTVGpjeExWRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "份量很多 一個人有點吃不完\n焗烤的起司非常好吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "份量很多 一個人有點吃不完\n焗烤的起司非常好吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Orange Chang",
+        "uri": "https://www.google.com/maps/contrib/107470838809478634055/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJk36qSZ2eNh1ve5zYHa1slosOEeo7HceijwL7B53kAtj4ZcQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-12T16:01:35.224344825Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twd2JrMUVNV1JaY21kZk1HRkpUVXRTVGpjeExWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twd2JrMUVNV1JaY21kZk1HRkpUVXRTVGpjeExWRRAB!2m1!1s0x3442ae4f26c7b5c7:0x74430ca4565193c"
+    },
+    {
+      "name": "places/ChIJx7XHJk-uQjQRPBllRcowRAc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNaMDd6bnJRRRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "在市場內的平價義大利麵店🍝\n周遭環境不是那麼的好，但店內算乾淨整潔\n老闆服務態度親切～\n🍟炸物雙拼（雞柳條*2 薯條）$80\n🌽濃湯 $30:奶油味超級濃⋯\n🍝義大利麵、蛋包飯中規中矩，份量充足",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在市場內的平價義大利麵店🍝\n周遭環境不是那麼的好，但店內算乾淨整潔\n老闆服務態度親切～\n🍟炸物雙拼（雞柳條*2 薯條）$80\n🌽濃湯 $30:奶油味超級濃⋯\n🍝義大利麵、蛋包飯中規中矩，份量充足",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "方婷",
+        "uri": "https://www.google.com/maps/contrib/116748400904670566106/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUdrle6ZjA4AI3MhtnsFfH-JSDjOhC8TLtCMhkK-i2KZRhuCgI3=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2023-09-17T13:38:33.716589Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNaMDd6bnJRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNaMDd6bnJRRRAB!2m1!1s0x3442ae4f26c7b5c7:0x74430ca4565193c"
+    },
+    {
+      "name": "places/ChIJx7XHJk-uQjQRPBllRcowRAc/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJX3FQWjdBRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 1,
+      "text": {
+        "text": "這家店的油煙味很重，空氣很悶，非常不好，今天外帶點了一個青醬豬肉筆尖麵醬要多，結果回到家打開要來吃時發現豬肉片根本沒有熟，青醬的味道淡如水啊！\n其實以這樣子的價格，是便宜沒錯，但份量真的少，肉也少的可以，店家也完全沒有任何可以加點主食的品項啊！能點的幾乎都是炸物，湯，飲料而已\n只能自己騙自己的味蕾，自己是在吃義大利麵沒有錯！\n其實真的有更好的選擇",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這家店的油煙味很重，空氣很悶，非常不好，今天外帶點了一個青醬豬肉筆尖麵醬要多，結果回到家打開要來吃時發現豬肉片根本沒有熟，青醬的味道淡如水啊！\n其實以這樣子的價格，是便宜沒錯，但份量真的少，肉也少的可以，店家也完全沒有任何可以加點主食的品項啊！能點的幾乎都是炸物，湯，飲料而已\n只能自己騙自己的味蕾，自己是在吃義大利麵沒有錯！\n其實真的有更好的選擇",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Sophia W",
+        "uri": "https://www.google.com/maps/contrib/106523626221227781966/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLSzQ5GMCr69RWVHW2tVumNkAfcaDnxtZ4sJINQl59nf6FRSg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-04-21T01:55:16.580532Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJX3FQWjdBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJX3FQWjdBRRAB!2m1!1s0x3442ae4f26c7b5c7:0x74430ca4565193c"
+    },
+    {
+      "name": "places/ChIJx7XHJk-uQjQRPBllRcowRAc/reviews/ChdDSUhNMG9nS0VJQ0FnSUREdEpyS2xRRRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "發現這間CP值很高的義大利麵店，素食的奶油筆管麵配料有四季豆、花椰菜、紅蘿蔔絲和新鮮香菇，醬汁濃度和義大利麵的濕度都很適中！\n\n豬排義大利麵上桌時很讓我驚豔，因為份量很大，看起來很可口耶！不過豬排送上來時沒有淋醬，有需要的朋友可以自己到旁邊拿醬汁沾喔！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "發現這間CP值很高的義大利麵店，素食的奶油筆管麵配料有四季豆、花椰菜、紅蘿蔔絲和新鮮香菇，醬汁濃度和義大利麵的濕度都很適中！\n\n豬排義大利麵上桌時很讓我驚豔，因為份量很大，看起來很可口耶！不過豬排送上來時沒有淋醬，有需要的朋友可以自己到旁邊拿醬汁沾喔！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "許乃元",
+        "uri": "https://www.google.com/maps/contrib/107489828568609912263/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBV0cJD1SO9Xr2CDFePqN4Txg55ojffqt_YKIwhiQyhDaa5_pT=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2024-04-06T05:50:35.282632Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUREdEpyS2xRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUREdEpyS2xRRRAB!2m1!1s0x3442ae4f26c7b5c7:0x74430ca4565193c"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

@@ -1,0 +1,130 @@
+﻿{
+    "id":  "ChIJNztb8TOvQjQR-JKZTFYMiPA",
+    "types":  [
+                  "american_restaurant",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "formattedAddress":  "111台灣臺北市士林區福佳里士商路189號B1",
+    "location":  {
+                     "latitude":  25.096142399999998,
+                     "longitude":  121.51709650000001
+                 },
+    "rating":  4.7,
+    "userRatingCount":  563,
+    "displayName":  {
+                        "text":  "肉醬bar 披薩熱狗堡義大利麵（聚食光店B1）",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJNztb8TOvQjQR-JKZTFYMiPA/reviews/Ci9DQUlRQUNvZENodHljRjlvT205a1ZWaDNNWEJXYjJoWVpFSTRhbUZITFhKd1RGRRAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  1,
+                        "text":  {
+                                     "text":  "評價是5星送雞球洗出來的。\n出餐速度超慢(半小時才出，內場+外場共2人，根本忙不過來)\n義大利麵是溫的，麵體像鐵板麵，便利商店的還比較好吃。\npizza還ok，但量太少。\n冬瓜茶水加很多，偏淡。\n\n吃不飽，最後半份餐丟掉，帶著很餓的肚子，及被浪費一小時的心情去兒童樂園。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "評價是5星送雞球洗出來的。\n出餐速度超慢(半小時才出，內場+外場共2人，根本忙不過來)\n義大利麵是溫的，麵體像鐵板麵，便利商店的還比較好吃。\npizza還ok，但量太少。\n冬瓜茶水加很多，偏淡。\n\n吃不飽，最後半份餐丟掉，帶著很餓的肚子，及被浪費一小時的心情去兒童樂園。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Dean Chien",
+                                                  "uri":  "https://www.google.com/maps/contrib/115656863551927664182/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUTPxlyzz4zR_f6JG-l7QWUQigGPk3cBfP98GrsPzfqhcm1Df57=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2026-02-13T06:59:10.208301835Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205a1ZWaDNNWEJXYjJoWVpFSTRhbUZITFhKd1RGRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205a1ZWaDNNWEJXYjJoWVpFSTRhbUZITFhKd1RGRRAB!2m1!1s0x3442af33f15b3b37:0xf0880c564c9992f8"
+                    },
+                    {
+                        "name":  "places/ChIJNztb8TOvQjQR-JKZTFYMiPA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GYVJqUjNValk0TVZCelpubDFUemg0VkdKQlYyYxAB",
+                        "relativePublishTimeDescription":  "2 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "好吃，但只點披薩 要個叉子說不提供 要點麵才有 ，感覺很差 在這充滿細菌的世界 如此不太友善",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "好吃，但只點披薩 要個叉子說不提供 要點麵才有 ，感覺很差 在這充滿細菌的世界 如此不太友善",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "林芳毅",
+                                                  "uri":  "https://www.google.com/maps/contrib/102659444363527485322/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocI7HjxvUovds0AX84zlmAsl3O2bJ53lioGUoJUKN51GFjtWpw=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2026-02-28T06:15:44.975192653Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GYVJqUjNValk0TVZCelpubDFUemg0VkdKQlYyYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GYVJqUjNValk0TVZCelpubDFUemg0VkdKQlYyYxAB!2m1!1s0x3442af33f15b3b37:0xf0880c564c9992f8"
+                    },
+                    {
+                        "name":  "places/ChIJNztb8TOvQjQR-JKZTFYMiPA/reviews/ChZDSUhNMG9nS0VJQ0FnSURfM2FPM1B3EAE",
+                        "relativePublishTimeDescription":  "1 年前",
+                        "rating":  3,
+                        "text":  {
+                                     "text":  "這三顆星是給店員的！店員很棒，但老闆扣兩顆星…\n\n呼籲老闆，假日晚上只有一個員工太過分了吧！店員也太辛苦，品項很多種，有義大利麵、披薩、薯條、雞球，還有麻糬燒，比小七店員還慘耶！\n\n請增加假日人力吧….",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "這三顆星是給店員的！店員很棒，但老闆扣兩顆星…\n\n呼籲老闆，假日晚上只有一個員工太過分了吧！店員也太辛苦，品項很多種，有義大利麵、披薩、薯條、雞球，還有麻糬燒，比小七店員還慘耶！\n\n請增加假日人力吧….",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "慈",
+                                                  "uri":  "https://www.google.com/maps/contrib/111955043366179549029/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWTQOblHHxBVjmtjIaZsQt7LfXodqF4c8S1U1lOKtCMWRqwHxgK=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2025-01-26T11:22:21.020989Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfM2FPM1B3EAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfM2FPM1B3EAE!2m1!1s0x3442af33f15b3b37:0xf0880c564c9992f8"
+                    },
+                    {
+                        "name":  "places/ChIJNztb8TOvQjQR-JKZTFYMiPA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twTFJrSlBjRXBZVjJ4VVRXUmFValpyT1cxRGQxRRAB",
+                        "relativePublishTimeDescription":  "2 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "義大利肉醬麵+薯條+披薩 小朋友覺得還不錯吃呦😋",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "義大利肉醬麵+薯條+披薩 小朋友覺得還不錯吃呦😋",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Fanny Liu (Fanny)",
+                                                  "uri":  "https://www.google.com/maps/contrib/105416370308396923472/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocLrgKvd9GgyEKgp3iwxFwYf-MUaq7901q5PYNlTjxikYOoUBw=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2026-03-07T05:54:20.219847630Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twTFJrSlBjRXBZVjJ4VVRXUmFValpyT1cxRGQxRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twTFJrSlBjRXBZVjJ4VVRXUmFValpyT1cxRGQxRRAB!2m1!1s0x3442af33f15b3b37:0xf0880c564c9992f8"
+                    },
+                    {
+                        "name":  "places/ChIJNztb8TOvQjQR-JKZTFYMiPA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsbmJXSnljRlZyZGtSekxYa3phbXQyVDNoSlpsRRAB",
+                        "relativePublishTimeDescription":  "6 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "肉醬麵，薯條披薩都好吃！現在五星評論有送雞球",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "肉醬麵，薯條披薩都好吃！現在五星評論有送雞球",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "C.H lin",
+                                                  "uri":  "https://www.google.com/maps/contrib/110902468241137468153/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocJLssqUqBNZporQAia-WCRE4SVTeEn5PsU7dSYY89ADKYNOFQ=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-11-08T07:47:49.806712199Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsbmJXSnljRlZyZGtSekxYa3phbXQyVDNoSlpsRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsbmJXSnljRlZyZGtSekxYa3phbXQyVDNoSlpsRRAB!2m1!1s0x3442af33f15b3b37:0xf0880c564c9992f8"
+                    }
+                ],
+    "menuForChildren":  false,
+    "goodForChildren":  true
+}

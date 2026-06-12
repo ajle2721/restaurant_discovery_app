@@ -1,0 +1,132 @@
+{
+  "id": "ChIJwZylKgOqQjQR1ONe3dVlxWs",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 983 676 575",
+  "formattedAddress": "1樓, No. 11號羅斯福路六段萬祥里文山區臺北市台灣 116",
+  "location": {
+    "latitude": 25.0001973,
+    "longitude": 121.5398771
+  },
+  "rating": 4.6,
+  "websiteUri": "https://www.facebook.com/ujb.restaurant/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 101,
+  "displayName": {
+    "text": "御珍鮑",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJwZylKgOqQjQR1ONe3dVlxWs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGcWF6QlRjVmxZWVRaaVEzVmtNblJQWDJrd1EzYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "1:醬燒三角魚\n2:XO醬炒鮑魚\n3:薑爆小卷\n4:泰式酸辣蝦\n5:蛤蜊絲瓜\n6:筊白筍炒肉\n蘿蔔排骨湯、炸牛蒡絲\n\n老闆娘手藝精湛、食材新鮮、每項都很好吃😋CP值超高",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "1:醬燒三角魚\n2:XO醬炒鮑魚\n3:薑爆小卷\n4:泰式酸辣蝦\n5:蛤蜊絲瓜\n6:筊白筍炒肉\n蘿蔔排骨湯、炸牛蒡絲\n\n老闆娘手藝精湛、食材新鮮、每項都很好吃😋CP值超高",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "jessica sailing",
+        "uri": "https://www.google.com/maps/contrib/105215090539935878506/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWvJFuOGHpzD-Cu6bb50M_C-stav8_FU0WcF_rntlchoLkOZ4EWhQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-11T06:44:17.459542616Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGcWF6QlRjVmxZWVRaaVEzVmtNblJQWDJrd1EzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGcWF6QlRjVmxZWVRaaVEzVmtNblJQWDJrd1EzYxAB!2m1!1s0x3442aa032aa59cc1:0x6bc565d5dd5ee3d4"
+    },
+    {
+      "name": "places/ChIJwZylKgOqQjQR1ONe3dVlxWs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4RVpYVTVibTVrTTJkeldrcDZRM2N3ZWpGbVoxRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "今晚家聚大家讚美主廚的手藝及料實在👍👍👍，下次部門聚餐要包場辦在這裡😋\n馬頭魚（酥脆肉嫩），滑蛋蝦仁（沒吃過這麼大的蝦仁），薑爆小卷（香味四溢），荔芋燒雞腿（芋頭軟糯），鮑魚炒九層塔（香嫩）綠白花椰菜、娃娃菜（又嫩又鮮）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今晚家聚大家讚美主廚的手藝及料實在👍👍👍，下次部門聚餐要包場辦在這裡😋\n馬頭魚（酥脆肉嫩），滑蛋蝦仁（沒吃過這麼大的蝦仁），薑爆小卷（香味四溢），荔芋燒雞腿（芋頭軟糯），鮑魚炒九層塔（香嫩）綠白花椰菜、娃娃菜（又嫩又鮮）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林玉芝",
+        "uri": "https://www.google.com/maps/contrib/110095926746238001248/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKaW1tkt5u8b3djdx5zgyVeXVuczaQGvK-DZte2k7pIcVtbOA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-29T14:24:21.642780870Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4RVpYVTVibTVrTTJkeldrcDZRM2N3ZWpGbVoxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4RVpYVTVibTVrTTJkeldrcDZRM2N3ZWpGbVoxRRAB!2m1!1s0x3442aa032aa59cc1:0x6bc565d5dd5ee3d4"
+    },
+    {
+      "name": "places/ChIJwZylKgOqQjQR1ONe3dVlxWs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2prMVVUYzRiRXM1VTFoeWFrMU9PRWRVZHpoU1FsRRAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 5,
+      "text": {
+        "text": "海鮮超新鮮，食材優\n口味很好，只是稍鹹，多配二口飯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "海鮮超新鮮，食材優\n口味很好，只是稍鹹，多配二口飯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chang Ivy",
+        "uri": "https://www.google.com/maps/contrib/113561574442047020264/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWPGtaJ27Vhtcvb_cEAZPWLJ7GAwFATRUJoioWCc4E6OT32eEUA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-07-10T16:29:00.524105873Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2prMVVUYzRiRXM1VTFoeWFrMU9PRWRVZHpoU1FsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2prMVVUYzRiRXM1VTFoeWFrMU9PRWRVZHpoU1FsRRAB!2m1!1s0x3442aa032aa59cc1:0x6bc565d5dd5ee3d4"
+    },
+    {
+      "name": "places/ChIJwZylKgOqQjQR1ONe3dVlxWs/reviews/ChdDSUhNMG9nS0VJQ0FnSUMzNzgzVXh3RRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 1,
+      "text": {
+        "text": "真是花錢吃一肚子火！干貝麵只有一顆干貝就算了，重點是沒熟，跟店員反應後，他說老闆娘可以幫我重煎（原本的），重點我已經咬碎了！（圖片那樣）竟然還堅持要重新煎！請問是有沒有這麼小氣？後來店員說會幫我重新換一顆，等到都吃完還遲遲沒有來，結帳的時候才告知「老闆娘說干貝的部分幫你打折10$！」不應該提早說嗎？我在位子上等那麼久！再來，店裡沒有飲品（卻一堆杯子裝飾）只有上一杯茶，喝完也不會加，店裡裝飾的很多樣化，事實上只有圖片上的幾樣！總之東西好不好吃選擇多不多都是其次，處理客人反應問題的態度！完全不會想留住回頭客的感覺！勸大家別花錢吃飯卻讓自己更生氣然後東西還超難吃！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "真是花錢吃一肚子火！干貝麵只有一顆干貝就算了，重點是沒熟，跟店員反應後，他說老闆娘可以幫我重煎（原本的），重點我已經咬碎了！（圖片那樣）竟然還堅持要重新煎！請問是有沒有這麼小氣？後來店員說會幫我重新換一顆，等到都吃完還遲遲沒有來，結帳的時候才告知「老闆娘說干貝的部分幫你打折10$！」不應該提早說嗎？我在位子上等那麼久！再來，店裡沒有飲品（卻一堆杯子裝飾）只有上一杯茶，喝完也不會加，店裡裝飾的很多樣化，事實上只有圖片上的幾樣！總之東西好不好吃選擇多不多都是其次，處理客人反應問題的態度！完全不會想留住回頭客的感覺！勸大家別花錢吃飯卻讓自己更生氣然後東西還超難吃！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Charlie",
+        "uri": "https://www.google.com/maps/contrib/115115323677781114617/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUKuLPGbcGSETdxIadcABIGOAMCAC_LBKsIWDOpMJdT-fWyuIF8=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2024-11-10T15:02:38.012382Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMzNzgzVXh3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMzNzgzVXh3RRAB!2m1!1s0x3442aa032aa59cc1:0x6bc565d5dd5ee3d4"
+    },
+    {
+      "name": "places/ChIJwZylKgOqQjQR1ONe3dVlxWs/reviews/ChdDSUhNMG9nS0VJQ0FnSUNpazVlNDNBRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "來自東北角產地直送，招牌整尾墨魚飯，果然名不虛傳，焦香爽口，脆嫩彈牙，料鮮味美，回味無窮，附湯也非常具有誠意！\n\n下次想來預定無菜單料理！\n\n2020.1220\n，.\n誠意十足且CP爆表的無菜單料理！\n.\n#御珍鮑...景美萬隆，東北角產地直送！\n.\n敦煌旅遊團再聚，\n在寒冷的冬雨天，\n搭配紅酒威士忌，\n溫暖暢快的美食！\n.\n#燻土雞  #墨魚香腸 #炸牛蒡 #爆小卷 #小魚花生 #龍虎石斑 #油豆腐貢寮小九孔 #紫菜 #龍虎石斑 #烤羊排 #炒青菜 #澎湃海鮮粥 #洋菇藍鑽白蝦 #山藥枸杞排骨盅",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "來自東北角產地直送，招牌整尾墨魚飯，果然名不虛傳，焦香爽口，脆嫩彈牙，料鮮味美，回味無窮，附湯也非常具有誠意！\n\n下次想來預定無菜單料理！\n\n2020.1220\n，.\n誠意十足且CP爆表的無菜單料理！\n.\n#御珍鮑...景美萬隆，東北角產地直送！\n.\n敦煌旅遊團再聚，\n在寒冷的冬雨天，\n搭配紅酒威士忌，\n溫暖暢快的美食！\n.\n#燻土雞  #墨魚香腸 #炸牛蒡 #爆小卷 #小魚花生 #龍虎石斑 #油豆腐貢寮小九孔 #紫菜 #龍虎石斑 #烤羊排 #炒青菜 #澎湃海鮮粥 #洋菇藍鑽白蝦 #山藥枸杞排骨盅",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lu Farn",
+        "uri": "https://www.google.com/maps/contrib/114575468743617446652/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWvCzNUNq26ZHO7p_8wUgqa3FtbDGk3zcvEDsMnzkb6kgD_8zq4CQ=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-01-06T03:21:16.537173Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNpazVlNDNBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNpazVlNDNBRRAB!2m1!1s0x3442aa032aa59cc1:0x6bc565d5dd5ee3d4"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

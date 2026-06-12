@@ -1,0 +1,132 @@
+{
+  "id": "ChIJ4flPjVqvQjQR3upFxD7s3bI",
+  "types": [
+    "cafe",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2831 3400",
+  "formattedAddress": "111台灣臺北市士林區德行里福國路31號",
+  "location": {
+    "latitude": 25.101858699999998,
+    "longitude": 121.52424119999999
+  },
+  "rating": 4.8,
+  "websiteUri": "https://www.facebook.com/share/15p3XoqzwU/",
+  "userRatingCount": 233,
+  "displayName": {
+    "text": "Mog cafe墨閣咖啡藝文空間",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ4flPjVqvQjQR3upFxD7s3bI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkbE1FWkNXRlJ2UTBKdlpsZzNRbkJoV25KTVltYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "很好喝的飲料，安靜適合談事！\n另外地下室有一藝文空間！\n書法也是一絕\n大推",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很好喝的飲料，安靜適合談事！\n另外地下室有一藝文空間！\n書法也是一絕\n大推",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Kenny Tu",
+        "uri": "https://www.google.com/maps/contrib/117942696798780857398/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUCJjntJbeiJ1WRvvTN-B_LchPJ5vIDMiaTQ3J-WsA7ceOPMU2QsQ=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-02-02T15:23:09.269891416Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkbE1FWkNXRlJ2UTBKdlpsZzNRbkJoV25KTVltYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkbE1FWkNXRlJ2UTBKdlpsZzNRbkJoV25KTVltYxAB!2m1!1s0x3442af5a8d4ff9e1:0xb2ddec3ec445eade"
+    },
+    {
+      "name": "places/ChIJ4flPjVqvQjQR3upFxD7s3bI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaNVptMHRRV3hXYWpaSkxXZzVZemd0Y1dwNVgwRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "《醫筆縱橫-全台醫師十人展》\n參展者:\n陳旭照、林子喬、呂嘉峰、潘健理、\n戴念國、趙善祖、劉忠俊、李益隆、\n鄭峰洲丶趙世晃\n地點：墨閣咖啡藝文空間\n地址：台北市士林區福國路31號\n展期：114/9/11 ～114/9/30\n時間：每日 上午9:00 ～ 下午 6:00",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "《醫筆縱橫-全台醫師十人展》\n參展者:\n陳旭照、林子喬、呂嘉峰、潘健理、\n戴念國、趙善祖、劉忠俊、李益隆、\n鄭峰洲丶趙世晃\n地點：墨閣咖啡藝文空間\n地址：台北市士林區福國路31號\n展期：114/9/11 ～114/9/30\n時間：每日 上午9:00 ～ 下午 6:00",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Mori",
+        "uri": "https://www.google.com/maps/contrib/116993504410896225046/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYNbPvSkWobFCgLhowEYoNlraXnI3mznKmZkpekejg_xjH1cNQoQ=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-09-21T05:37:20.423696757Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaNVptMHRRV3hXYWpaSkxXZzVZemd0Y1dwNVgwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaNVptMHRRV3hXYWpaSkxXZzVZemd0Y1dwNVgwRRAB!2m1!1s0x3442af5a8d4ff9e1:0xb2ddec3ec445eade"
+    },
+    {
+      "name": "places/ChIJ4flPjVqvQjQR3upFxD7s3bI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pnME1FOVVjV3hDVTBzNWNFZFlTbFZ5YlhsQlExRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "這間咖啡廳不同於其他的咖啡廳，非常有特色，餐點好吃服務好，展示著中華藝術好美，令人讚不絕口，非常的喜歡下次還會再來",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這間咖啡廳不同於其他的咖啡廳，非常有特色，餐點好吃服務好，展示著中華藝術好美，令人讚不絕口，非常的喜歡下次還會再來",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "serenity",
+        "uri": "https://www.google.com/maps/contrib/100181443686101896280/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLttUqqPrgaIgFAHzgnQHqcgCgL_2-fW51HsKvUWknfIUC3vnTs=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-14T06:48:00.813056533Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pnME1FOVVjV3hDVTBzNWNFZFlTbFZ5YlhsQlExRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pnME1FOVVjV3hDVTBzNWNFZFlTbFZ5YlhsQlExRRAB!2m1!1s0x3442af5a8d4ff9e1:0xb2ddec3ec445eade"
+    },
+    {
+      "name": "places/ChIJ4flPjVqvQjQR3upFxD7s3bI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkV1RqVm9kek5qZUhaMWVTMWxhblIyYVZSS1FsRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "在台北市能有如此的藝文美食場所真是不容易，當晚聽王瑞瑜現場民歌表演及來賓演唱，氣氛溫馨也熱鬧，真是難得的享受！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在台北市能有如此的藝文美食場所真是不容易，當晚聽王瑞瑜現場民歌表演及來賓演唱，氣氛溫馨也熱鬧，真是難得的享受！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Sally Chang",
+        "uri": "https://www.google.com/maps/contrib/104257531578210073985/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0ckgFBBhF6TaeCiR-OnzxZ1gXoUc1Odoiw0qj9wkmdYwkcJiVvQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-10T14:27:39.957739452Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkV1RqVm9kek5qZUhaMWVTMWxhblIyYVZSS1FsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkV1RqVm9kek5qZUhaMWVTMWxhblIyYVZSS1FsRRAB!2m1!1s0x3442af5a8d4ff9e1:0xb2ddec3ec445eade"
+    },
+    {
+      "name": "places/ChIJ4flPjVqvQjQR3upFxD7s3bI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWRVVHcEJRVkJvWmpCUE1ESnVVM0I2YzBJdGVtYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "很文藝的空間，書香筆墨味，早午餐也挺好吃！烤蔬菜不錯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很文藝的空間，書香筆墨味，早午餐也挺好吃！烤蔬菜不錯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "平民5級",
+        "uri": "https://www.google.com/maps/contrib/106176802087802283004/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVK6LC9W4HH8T6L-9mPc6dlwjQ1rglpfsGrn5aAEYEuKTow38x1zA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-09T12:15:57.920242125Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWRVVHcEJRVkJvWmpCUE1ESnVVM0I2YzBJdGVtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWRVVHcEJRVkJvWmpCUE1ESnVVM0I2YzBJdGVtYxAB!2m1!1s0x3442af5a8d4ff9e1:0xb2ddec3ec445eade"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

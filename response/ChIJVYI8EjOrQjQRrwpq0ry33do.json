@@ -1,0 +1,132 @@
+﻿{
+    "id":  "ChIJVYI8EjOrQjQRrwpq0ry33do",
+    "types":  [
+                  "brunch_restaurant",
+                  "steak_house",
+                  "restaurant",
+                  "point_of_interest",
+                  "food",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2727 2948",
+    "formattedAddress":  "110台灣臺北市信義區松光里忠孝東路五段492巷18號",
+    "location":  {
+                     "latitude":  25.04013,
+                     "longitude":  121.57824600000001
+                 },
+    "rating":  4.5,
+    "userRatingCount":  181,
+    "displayName":  {
+                        "text":  "早饗\u0026晚饗",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJVYI8EjOrQjQRrwpq0ry33do/reviews/Ci9DQUlRQUNvZENodHljRjlvT21JdGEwVlVObXgxWVRrelZEQndZekZxUjBjeFFtYxAB",
+                        "relativePublishTimeDescription":  "6 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "裝潢簡單，容客約30人，地面老舊但還算乾淨。餐點選項多，價位持平，上菜快，東西好吃，服務親切。有下午茶，營業到3點。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "裝潢簡單，容客約30人，地面老舊但還算乾淨。餐點選項多，價位持平，上菜快，東西好吃，服務親切。有下午茶，營業到3點。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "黃蓉",
+                                                  "uri":  "https://www.google.com/maps/contrib/101857896392903629878/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWaKwTUbOZXHpJ9BdAl-iDJtqmCO60-HB019j-A-k9A6_Tks6U=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2025-11-22T16:01:52.702140727Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21JdGEwVlVObXgxWVRrelZEQndZekZxUjBjeFFtYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21JdGEwVlVObXgxWVRrelZEQndZekZxUjBjeFFtYxAB!2m1!1s0x3442ab33123c8255:0xdaddb7bcd26a0aaf"
+                    },
+                    {
+                        "name":  "places/ChIJVYI8EjOrQjQRrwpq0ry33do/reviews/Ci9DQUlRQUNvZENodHljRjlvT214Uk1WZE9XazQzVkdwWlMwMXRZMlZwTUZCblgwRRAB",
+                        "relativePublishTimeDescription":  "6 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "鐵板麵屬於扁麵，套餐有含一杯飲料！蔥滿蛋餅酥酥脆脆！滿滿的蔥超級好吃！可以行動支付👍",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "鐵板麵屬於扁麵，套餐有含一杯飲料！蔥滿蛋餅酥酥脆脆！滿滿的蔥超級好吃！可以行動支付👍",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "QIHAO HONG",
+                                                  "uri":  "https://www.google.com/maps/contrib/115183792013940858769/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjU7gBsd-c2xCMNm19S0030U5hK28wIstNnM_YY4g39WBguY6er6=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-11-22T04:54:43.527679923Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214Uk1WZE9XazQzVkdwWlMwMXRZMlZwTUZCblgwRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214Uk1WZE9XazQzVkdwWlMwMXRZMlZwTUZCblgwRRAB!2m1!1s0x3442ab33123c8255:0xdaddb7bcd26a0aaf"
+                    },
+                    {
+                        "name":  "places/ChIJVYI8EjOrQjQRrwpq0ry33do/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twVlZUWlNPR05MUldseFVWOU5TRnB0TFRWNFluYxAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "炸蛋餃有點特別但貴，餐點有一定水準，是好吃的店",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "炸蛋餃有點特別但貴，餐點有一定水準，是好吃的店",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Youtube語風薯薯",
+                                                  "uri":  "https://www.google.com/maps/contrib/117977357838317874245/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXY3JK5HjQo5QAUHeDMK21H-7jIudroUsZGifTEBRfBXIkdR-Gx=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-12-17T04:52:09.021961195Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twVlZUWlNPR05MUldseFVWOU5TRnB0TFRWNFluYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twVlZUWlNPR05MUldseFVWOU5TRnB0TFRWNFluYxAB!2m1!1s0x3442ab33123c8255:0xdaddb7bcd26a0aaf"
+                    },
+                    {
+                        "name":  "places/ChIJVYI8EjOrQjQRrwpq0ry33do/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRbE9DS013EAE",
+                        "relativePublishTimeDescription":  "1 年前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "⭐⭐⭐⭐☆ (4/5)\n\n食物確實好吃，但價格偏高，且衛生狀況需要改善。鹽酥雞 5 塊 75 元，CP 值不高。吐司的籃子有點髒，叉子也沒洗乾淨，這點讓人不太放心。不過整體環境還算乾淨，鐵板麵的醬汁較多，口感偏湯湯水水。值得一提的是，店員態度非常好，服務親切，如果能改善衛生問題，會更值得再訪！",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "⭐⭐⭐⭐☆ (4/5)\n\n食物確實好吃，但價格偏高，且衛生狀況需要改善。鹽酥雞 5 塊 75 元，CP 值不高。吐司的籃子有點髒，叉子也沒洗乾淨，這點讓人不太放心。不過整體環境還算乾淨，鐵板麵的醬汁較多，口感偏湯湯水水。值得一提的是，店員態度非常好，服務親切，如果能改善衛生問題，會更值得再訪！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Yue Wei Wu",
+                                                  "uri":  "https://www.google.com/maps/contrib/117535574118207724492/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVRcDLL-cpd9l_P2bw0ga-jbrFaJEaDnzOr-eQveR4LPM2OuRU=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2025-03-02T05:36:27.593147Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRbE9DS013EAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRbE9DS013EAE!2m1!1s0x3442ab33123c8255:0xdaddb7bcd26a0aaf"
+                    },
+                    {
+                        "name":  "places/ChIJVYI8EjOrQjQRrwpq0ry33do/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxbUtlbFZBEAE",
+                        "relativePublishTimeDescription":  "2 年前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "態度超級好值得一百顆星！！連聽不懂中文的韓國朋友也感受到濃厚的親切感！特地帶著韓國朋友來這裡真的超有面子！不管再忙都還是會大聲跟客人打招呼～店家超級貼心，我們沒有要求就主動幫我們把麵包類料理切成4等分方便我們分食！環境衛生明亮，餐點清淡不油膩！韓國朋友說是這他們在台灣一周吃到最喜歡的台灣餐廳！韓國朋友吃下每道餐點的瞬間眼睛都瞪很大！廁所也維持很乾淨沒怪味！餐點便宜又好吃，開到下午三點，還有各種多元支付方式，超級無敵推薦！！！",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "態度超級好值得一百顆星！！連聽不懂中文的韓國朋友也感受到濃厚的親切感！特地帶著韓國朋友來這裡真的超有面子！不管再忙都還是會大聲跟客人打招呼～店家超級貼心，我們沒有要求就主動幫我們把麵包類料理切成4等分方便我們分食！環境衛生明亮，餐點清淡不油膩！韓國朋友說是這他們在台灣一周吃到最喜歡的台灣餐廳！韓國朋友吃下每道餐點的瞬間眼睛都瞪很大！廁所也維持很乾淨沒怪味！餐點便宜又好吃，開到下午三點，還有各種多元支付方式，超級無敵推薦！！！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Connir Klin",
+                                                  "uri":  "https://www.google.com/maps/contrib/106517274672317416434/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjU45453_MDnoDSkgfoOn6NGcxae1FjD6n1Cs4iaUwIJd4mL9YOtRQ=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2023-12-22T05:32:12.031202Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMxbUtlbFZBEAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMxbUtlbFZBEAE!2m1!1s0x3442ab33123c8255:0xdaddb7bcd26a0aaf"
+                    }
+                ],
+    "menuForChildren":  true,
+    "goodForChildren":  true
+}

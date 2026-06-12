@@ -1,0 +1,130 @@
+{
+  "id": "ChIJDZHrcOerQjQRfAnvL0NntRE",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2546 7126",
+  "formattedAddress": "105台灣臺北市松山區中正里慶城街12-1號",
+  "location": {
+    "latitude": 25.052979999999998,
+    "longitude": 121.54511
+  },
+  "rating": 4,
+  "websiteUri": "http://www.mvp-icecream.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1756,
+  "displayName": {
+    "text": "Mövenpick Café-莫凡彼台北慶城店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJDZHrcOerQjQRfAnvL0NntRE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxV1EzZFRWVzFUYkcxemJYaENNVFZuV1RWRWNuYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "食物普通，空間適合跟朋友聚餐，一個人來吃飯也很舒服\n以為焦糖布蕾會是小小一個，沒想到送上一個像台灣造型的布蕾😍熱可可有點過甜\n\n服務員動作很有效率\n小缺點是女廁只有一間，都要等比較久的時間",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "食物普通，空間適合跟朋友聚餐，一個人來吃飯也很舒服\n以為焦糖布蕾會是小小一個，沒想到送上一個像台灣造型的布蕾😍熱可可有點過甜\n\n服務員動作很有效率\n小缺點是女廁只有一間，都要等比較久的時間",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Xin Jing Lin",
+        "uri": "https://www.google.com/maps/contrib/106061150187484778295/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWn-WY9-uY5WL7_kUd203srDkh19YtP872JJiyFloefNzmh0QgXAw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-23T10:18:33.818781243Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxV1EzZFRWVzFUYkcxemJYaENNVFZuV1RWRWNuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxV1EzZFRWVzFUYkcxemJYaENNVFZuV1RWRWNuYxAB!2m1!1s0x3442abe770eb910d:0x11b567432fef097c"
+    },
+    {
+      "name": "places/ChIJDZHrcOerQjQRfAnvL0NntRE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWU1pVaDZTRVZmZWxKWWNqSjVhR3MzTUhaUWVXYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "跟朋友約在這邊吃飯聊天，東西餐點種類很多，畢竟是知名連鎖店，只是要掃QR Code的時候要注意，因為我們4個人一桌，但是有有兩組找菜單的QR Code，各自掃到不同的QR Code，結果買單的時候本來已經買好了服務人員又說還沒買單，後來才查出來",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "跟朋友約在這邊吃飯聊天，東西餐點種類很多，畢竟是知名連鎖店，只是要掃QR Code的時候要注意，因為我們4個人一桌，但是有有兩組找菜單的QR Code，各自掃到不同的QR Code，結果買單的時候本來已經買好了服務人員又說還沒買單，後來才查出來",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "要命的小方",
+        "uri": "https://www.google.com/maps/contrib/101145268547300274697/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6ZnUuibWApWLAwydzodaIaWbzJF-iS5aRts_l1IAtbyQVIVHNpw=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-08-26T11:54:48.091342006Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWU1pVaDZTRVZmZWxKWWNqSjVhR3MzTUhaUWVXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWU1pVaDZTRVZmZWxKWWNqSjVhR3MzTUhaUWVXYxAB!2m1!1s0x3442abe770eb910d:0x11b567432fef097c"
+    },
+    {
+      "name": "places/ChIJDZHrcOerQjQRfAnvL0NntRE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsNFJtTlBlVmR1ZGxabmJIUXpTVEZmZVc1Zk9HYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "套餐選項有七種選了烤雞跟松露野菇燉飯，也有茶點，很物超所值，服務人員也很親切",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "套餐選項有七種選了烤雞跟松露野菇燉飯，也有茶點，很物超所值，服務人員也很親切",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Wu Amanda",
+        "uri": "https://www.google.com/maps/contrib/106007065513839877905/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWsA9yq-SdI1RrwYZseyeUXp68ue_VBdDSJv84qNXAHnytQMqlg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-11-09T06:33:00.235951620Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsNFJtTlBlVmR1ZGxabmJIUXpTVEZmZVc1Zk9HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsNFJtTlBlVmR1ZGxabmJIUXpTVEZmZVc1Zk9HYxAB!2m1!1s0x3442abe770eb910d:0x11b567432fef097c"
+    },
+    {
+      "name": "places/ChIJDZHrcOerQjQRfAnvL0NntRE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5S09VUkRXRWxTYWpkdE4zTTRabUZyVFZGVmExRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 3,
+      "text": {
+        "text": "餐點份量夠但是不夠精緻，套餐主廚濃湯南瓜裡面搭配的高麗菜很奇怪，甜點普通",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點份量夠但是不夠精緻，套餐主廚濃湯南瓜裡面搭配的高麗菜很奇怪，甜點普通",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lichu Tang",
+        "uri": "https://www.google.com/maps/contrib/107910222293160787730/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLq1Ar-wH85EH54EunVN5VBTdaA53RfXGLb-FPK_4A5g-WXyg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-08-21T13:04:34.985679953Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5S09VUkRXRWxTYWpkdE4zTTRabUZyVFZGVmExRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5S09VUkRXRWxTYWpkdE4zTTRabUZyVFZGVmExRRAB!2m1!1s0x3442abe770eb910d:0x11b567432fef097c"
+    },
+    {
+      "name": "places/ChIJDZHrcOerQjQRfAnvL0NntRE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWa1prcHhWbnB2WXpkSGVWa3RZbko0Ym0xMVkwRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "服務人員親切，環境有些擁擠，空調有點悶\n但冰淇淋好吃，可以單點喜愛的口味。\n有西餐、甜點、飲品，選擇多樣性。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "服務人員親切，環境有些擁擠，空調有點悶\n但冰淇淋好吃，可以單點喜愛的口味。\n有西餐、甜點、飲品，選擇多樣性。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "蔡黑皮",
+        "uri": "https://www.google.com/maps/contrib/105258848187011633782/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYh-WO2F3iOXYs6-SOKsU1h9AlaI7b1B9F_Npu9eXM1Lb08q62=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-08-15T08:45:22.835420730Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWa1prcHhWbnB2WXpkSGVWa3RZbko0Ym0xMVkwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWa1prcHhWbnB2WXpkSGVWa3RZbko0Ym0xMVkwRRAB!2m1!1s0x3442abe770eb910d:0x11b567432fef097c"
+    }
+  ]
+}

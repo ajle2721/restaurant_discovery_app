@@ -1,0 +1,139 @@
+{
+  "id": "ChIJ18wdZ3ypQjQRAKnVm2zXIWo",
+  "types": [
+    "pizza_delivery",
+    "meal_delivery",
+    "meal_takeaway",
+    "food_delivery",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2322 1688",
+  "formattedAddress": "10059台灣臺北市中正區幸市里新生南路一段52-1號",
+  "location": {
+    "latitude": 25.0413808,
+    "longitude": 121.53248199999999
+  },
+  "rating": 4.3,
+  "websiteUri": "https://www.pizzahut.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 677,
+  "displayName": {
+    "text": "必勝客-新生外送店",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ18wdZ3ypQjQRAKnVm2zXIWo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21scFkzaHFWRm94YkZWbVVWcFdVR1ZYYmpaS1psRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 1,
+      "text": {
+        "text": "這種品質可以出餐？？？\n後續聯繫客服，雖給了補償，但反應過品質問題後，重新出餐竟然還是這種水準（最後一張照片）\n顯然這不只是偶發疏失，新生店的出餐及品管標準有嚴重瑕疵\n\n該店的比薩也真的很敷衍。\n\n不建議大家在此店訂購，會受一肚子氣\n\n—\n\n有跟客服反應\n客服回應非常抱歉，會加強改善",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這種品質可以出餐？？？\n後續聯繫客服，雖給了補償，但反應過品質問題後，重新出餐竟然還是這種水準（最後一張照片）\n顯然這不只是偶發疏失，新生店的出餐及品管標準有嚴重瑕疵\n\n該店的比薩也真的很敷衍。\n\n不建議大家在此店訂購，會受一肚子氣\n\n—\n\n有跟客服反應\n客服回應非常抱歉，會加強改善",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Berry J",
+        "uri": "https://www.google.com/maps/contrib/110463178152544827888/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV07Fu0789p4XTzoXEQqUAGSTHMqH5h__Wu3MxqrrGlcxHCXBQr=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-23T16:33:00.986140305Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21scFkzaHFWRm94YkZWbVVWcFdVR1ZYYmpaS1psRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21scFkzaHFWRm94YkZWbVVWcFdVR1ZYYmpaS1psRRAB!2m1!1s0x3442a97c671dccd7:0x6a21d76c9bd5a900"
+    },
+    {
+      "name": "places/ChIJ18wdZ3ypQjQRAKnVm2zXIWo/reviews/Ci9DQUlRQUNvZENodHljRjlvT25waExUSjRiSGxNZDJOQlVtTTFZMFoxWjBKYVFXYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 1,
+      "text": {
+        "text": "我點的是「 韓式泡菜豬五花比薩 」，左邊是送來的實際比薩，右邊是外送平台的圖片。\n\n一打開，還懷疑是不是送錯了⋯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "我點的是「 韓式泡菜豬五花比薩 」，左邊是送來的實際比薩，右邊是外送平台的圖片。\n\n一打開，還懷疑是不是送錯了⋯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jun Jun",
+        "uri": "https://www.google.com/maps/contrib/108152083398569473416/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdagP3K8UtI6Uzkw_4uIFh8V3qfxk4Dw0KaAgN49scymyQHvEd=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-06T09:35:40.358977095Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25waExUSjRiSGxNZDJOQlVtTTFZMFoxWjBKYVFXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25waExUSjRiSGxNZDJOQlVtTTFZMFoxWjBKYVFXYxAB!2m1!1s0x3442a97c671dccd7:0x6a21d76c9bd5a900"
+    },
+    {
+      "name": "places/ChIJ18wdZ3ypQjQRAKnVm2zXIWo/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oT1pWTXhkVXQzUkVRdGVrbHhZVEpMV0dKWGMwRRAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 5,
+      "text": {
+        "text": "回購多次，質和量一直蠻好。這次推出的熔岩火山鹹香開胃，餅皮還有芝心，好吃！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "回購多次，質和量一直蠻好。這次推出的熔岩火山鹹香開胃，餅皮還有芝心，好吃！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Inaria T.",
+        "uri": "https://www.google.com/maps/contrib/106515292622267560978/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVkLj3TuAj5HJrlNyCBIB627o2RP5CS30lyM6Q5dE6SUDDDL2whgw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-07-24T14:53:05.950060016Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oT1pWTXhkVXQzUkVRdGVrbHhZVEpMV0dKWGMwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oT1pWTXhkVXQzUkVRdGVrbHhZVEpMV0dKWGMwRRAB!2m1!1s0x3442a97c671dccd7:0x6a21d76c9bd5a900"
+    },
+    {
+      "name": "places/ChIJ18wdZ3ypQjQRAKnVm2zXIWo/reviews/ChdDSUhNMG9nS0VJQ0FnTURROTd6UXhBRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "2025/01/20，好吃，每次公司都只吃必勝客，超愛芝心",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2025/01/20，好吃，每次公司都只吃必勝客，超愛芝心",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Vera",
+        "uri": "https://www.google.com/maps/contrib/101634260225721075281/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXxCNgiNpUkr4jXQWhX62SCRe9o288OXwOxdKraam6MgKaSPYLZg=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-03-15T07:57:46.263911Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURROTd6UXhBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURROTd6UXhBRRAB!2m1!1s0x3442a97c671dccd7:0x6a21d76c9bd5a900"
+    },
+    {
+      "name": "places/ChIJ18wdZ3ypQjQRAKnVm2zXIWo/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2dzktNUl3EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 3,
+      "text": {
+        "text": "其實蠻常訂的，今天不知道為什麼我的189元的千層麵變成一塊扁平麵，這個賣69還差不多，平常的根本不是長這個樣子，到底是發生什麼事",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "其實蠻常訂的，今天不知道為什麼我的189元的千層麵變成一塊扁平麵，這個賣69還差不多，平常的根本不是長這個樣子，到底是發生什麼事",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chai-chun Yao",
+        "uri": "https://www.google.com/maps/contrib/103073049671800487815/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVBjbyYozhhCAzSWQFi61xlUTtb48oydE3ak9Kc4BrIotK2gj1t=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2024-12-23T14:28:09.184070Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2dzktNUl3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2dzktNUl3EAE!2m1!1s0x3442a97c671dccd7:0x6a21d76c9bd5a900"
+    }
+  ],
+  "menuForChildren": false
+}

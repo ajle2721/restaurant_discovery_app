@@ -1,0 +1,132 @@
+{
+  "id": "ChIJV_SOYpqpQjQRA9cnwa-fRdc",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2368 0045",
+  "formattedAddress": "100台灣臺北市中正區板溪里羅斯福路二段118號",
+  "location": {
+    "latitude": 25.026467999999998,
+    "longitude": 121.5227586
+  },
+  "rating": 4.6,
+  "websiteUri": "https://www.thecafeist.com/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 869,
+  "displayName": {
+    "text": "咖啡學人-傑克威爾 The Cafeist & Jackwell",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJV_SOYpqpQjQRA9cnwa-fRdc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SRmExZERSM1JqVVRsWE9FaHJTVTg1V2tSaU4xRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "很久沒來古亭站，咖啡學人聽起來蠻酷的…\n\n總是熱美式起跳，還ok，好像坐到了天位，看人來人往，滿座。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很久沒來古亭站，咖啡學人聽起來蠻酷的…\n\n總是熱美式起跳，還ok，好像坐到了天位，看人來人往，滿座。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "阿波",
+        "uri": "https://www.google.com/maps/contrib/100535362283550689169/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX2KO238ZsXwDppdAprVPw45ZxLus1mS56puAN0MLx_zre5jA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-12T15:35:50.655766281Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SRmExZERSM1JqVVRsWE9FaHJTVTg1V2tSaU4xRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SRmExZERSM1JqVVRsWE9FaHJTVTg1V2tSaU4xRRAB!2m1!1s0x3442a99a628ef457:0xd7459fafc127d703"
+    },
+    {
+      "name": "places/ChIJV_SOYpqpQjQRA9cnwa-fRdc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsRldYZFZOMkZLT0VoSFpFZGpPVGwyUkdzM1duYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "可以再次拜訪的店🎉\n\n​在天氣濕冷、心情又有些燥熱焦慮的日子來到傑克威爾。當時不知道該喝什麼，只跟店員強調希望手沖咖啡不要有苦味~\n​真的很感謝店家的專業推薦，這杯咖啡喝起來極致順口，完全沒有我害怕的苦澀感。雖然窗外很冷，但這杯好喝的咖啡讓原本煩躁的情緒瞬間平復，心情變得很平靜~這不僅是一杯咖啡，更是份貼心的療癒~",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "可以再次拜訪的店🎉\n\n​在天氣濕冷、心情又有些燥熱焦慮的日子來到傑克威爾。當時不知道該喝什麼，只跟店員強調希望手沖咖啡不要有苦味~\n​真的很感謝店家的專業推薦，這杯咖啡喝起來極致順口，完全沒有我害怕的苦澀感。雖然窗外很冷，但這杯好喝的咖啡讓原本煩躁的情緒瞬間平復，心情變得很平靜~這不僅是一杯咖啡，更是份貼心的療癒~",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "T T",
+        "uri": "https://www.google.com/maps/contrib/106991048940379391436/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI3VKX1oih_n3stJ2iDqTbU3l1yA_JMiX3Cp3NUyHTOQwz8mg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-09T15:11:30.241596498Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsRldYZFZOMkZLT0VoSFpFZGpPVGwyUkdzM1duYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsRldYZFZOMkZLT0VoSFpFZGpPVGwyUkdzM1duYxAB!2m1!1s0x3442a99a628ef457:0xd7459fafc127d703"
+    },
+    {
+      "name": "places/ChIJV_SOYpqpQjQRA9cnwa-fRdc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSTldIZGxOR05MZUZadE4xQlhja1l5ZDBkWWFsRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "久沒來\n咖啡一樣好喝到不行\n氛圍依舊獨特舒適\n可以一直都這樣不變\n真的很好",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "久沒來\n咖啡一樣好喝到不行\n氛圍依舊獨特舒適\n可以一直都這樣不變\n真的很好",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "ray Tsou",
+        "uri": "https://www.google.com/maps/contrib/112967900887366237572/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUVt0jeACwsElitMlLx--POcidjYTiwHCplfZs_Wd1Esnalpq_9=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-08-25T10:45:39.609159851Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSTldIZGxOR05MZUZadE4xQlhja1l5ZDBkWWFsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSTldIZGxOR05MZUZadE4xQlhja1l5ZDBkWWFsRRAB!2m1!1s0x3442a99a628ef457:0xd7459fafc127d703"
+    },
+    {
+      "name": "places/ChIJV_SOYpqpQjQRA9cnwa-fRdc/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2bjhHa21nRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "店內氣氛很好，會想要讓人駐足。飲品也很不錯。比較可惜的是靠近同安街的座位會聞到來自下水道的一些異味，但也確實是店家無法自行改善、同時是處於舊社區比較難避免的問題。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店內氣氛很好，會想要讓人駐足。飲品也很不錯。比較可惜的是靠近同安街的座位會聞到來自下水道的一些異味，但也確實是店家無法自行改善、同時是處於舊社區比較難避免的問題。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "San Lin",
+        "uri": "https://www.google.com/maps/contrib/112957548723855957385/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJB6tmuignBPfjfOyiivU0LujFwBTpGBpTYyOjS2E7B7RzE-Mqj=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2024-12-16T05:36:47.692961Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2bjhHa21nRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2bjhHa21nRRAB!2m1!1s0x3442a99a628ef457:0xd7459fafc127d703"
+    },
+    {
+      "name": "places/ChIJV_SOYpqpQjQRA9cnwa-fRdc/reviews/ChdDSUhNMG9nS0VJQ0FnTURRZ2J2VmdnRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "讓人蠻舒服的咖啡館，店面不大，座位不多，咖啡品質不錯，價格平實，地點交通方便，臨和平東西路與羅斯福路交口，古亭站旁。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "讓人蠻舒服的咖啡館，店面不大，座位不多，咖啡品質不錯，價格平實，地點交通方便，臨和平東西路與羅斯福路交口，古亭站旁。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Clarence Chu",
+        "uri": "https://www.google.com/maps/contrib/117036539200284020410/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIEqsovMnHHNAZO_kccBgppyEuIbyR71tA8zBXb1aZ0BNFNaA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-03-11T12:46:11.064314Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURRZ2J2VmdnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURRZ2J2VmdnRRAB!2m1!1s0x3442a99a628ef457:0xd7459fafc127d703"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

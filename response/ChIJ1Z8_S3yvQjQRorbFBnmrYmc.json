@@ -1,0 +1,129 @@
+﻿{
+    "id":  "ChIJ1Z8_S3yvQjQRorbFBnmrYmc",
+    "types":  [
+                  "restaurant",
+                  "vietnamese_restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2832 7008",
+    "formattedAddress":  "11160台灣臺北市士林區福佳里美崙街70號",
+    "location":  {
+                     "latitude":  25.097134099999998,
+                     "longitude":  121.52212709999998
+                 },
+    "rating":  4.7,
+    "userRatingCount":  107,
+    "displayName":  {
+                        "text":  "台越越南美食",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJ1Z8_S3yvQjQRorbFBnmrYmc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t3MVNVZHRhWHA0UjNwM2VqTlhUV3d6T1d4emFXYxAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "他們的河粉湯頭味道非常鮮甜。是用洋蔥、蘿蔔和紅蘿蔔燉煮出來的高湯。喝完嘴巴也不會乾。很少嚐到那麼好喝的湯頭。炒飯也有鍋氣，配上越南醃蘿蔔，我也非常喜歡。員工對待客人態度非常好，尤其是男店員，特別真誠又親切。價格也很合理，非常推薦！",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "他們的河粉湯頭味道非常鮮甜。是用洋蔥、蘿蔔和紅蘿蔔燉煮出來的高湯。喝完嘴巴也不會乾。很少嚐到那麼好喝的湯頭。炒飯也有鍋氣，配上越南醃蘿蔔，我也非常喜歡。員工對待客人態度非常好，尤其是男店員，特別真誠又親切。價格也很合理，非常推薦！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "K",
+                                                  "uri":  "https://www.google.com/maps/contrib/110310310936356724074/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocIEhop1ToarBo52BGiEYbsj3I3yt3yz4gOfiu0XUUtn94YE0R5a=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2026-01-23T11:25:04.234415704Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t3MVNVZHRhWHA0UjNwM2VqTlhUV3d6T1d4emFXYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t3MVNVZHRhWHA0UjNwM2VqTlhUV3d6T1d4emFXYxAB!2m1!1s0x3442af7c4b3f9fd5:0x6762ab7906c5b6a2"
+                    },
+                    {
+                        "name":  "places/ChIJ1Z8_S3yvQjQRorbFBnmrYmc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Wa1JubGxPUzEzUVRKdmVXZFJORmwwWDBaclUwRRAB",
+                        "relativePublishTimeDescription":  "6 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "溫馨的家庭餐廳！百元價位、量大到絕對吃到撐，還有免費奶茶可以喝(☆_☆)\n麵疙瘩必吃，Q彈不黏牙又炒的很入味，傳統牛肉河粉也超讚，檸檬汁自助加爆",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "溫馨的家庭餐廳！百元價位、量大到絕對吃到撐，還有免費奶茶可以喝(☆_☆)\n麵疙瘩必吃，Q彈不黏牙又炒的很入味，傳統牛肉河粉也超讚，檸檬汁自助加爆",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "hua hua",
+                                                  "uri":  "https://www.google.com/maps/contrib/107898041863955724876/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjU6BQLy-QX14dpOwn9bpXqC8rH8GEM-nxRoWoQP_j9ZASjwqjbqxw=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2025-11-09T10:41:31.748612624Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Wa1JubGxPUzEzUVRKdmVXZFJORmwwWDBaclUwRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Wa1JubGxPUzEzUVRKdmVXZFJORmwwWDBaclUwRRAB!2m1!1s0x3442af7c4b3f9fd5:0x6762ab7906c5b6a2"
+                    },
+                    {
+                        "name":  "places/ChIJ1Z8_S3yvQjQRorbFBnmrYmc/reviews/Ci9DQUlRQUNvZENodHljRjlvT214YWFtZERNSHBMVFZweWJFSlVNWHBRTTJvM1QxRRAB",
+                        "relativePublishTimeDescription":  "6 個月前",
+                        "rating":  3,
+                        "text":  {
+                                     "text":  "在Google地圖上搜到的店家，\n閒著沒事就跑來吃看看，\n\n當天是在平日中午十二點半左右進店，\n裡面只剩一桌空桌，\n其他全部坐滿，\n\n印象中店內有四張雙人桌，\n三張四人桌，\n一張單人桌，\n雙人桌都靠很近，\n店內空間屬於是比較狹小的類型，\n\n點了越式炒飯，（100元）\n\n餐點大約等了十分鐘左右，\n我覺得算是正常，\n畢竟店家前面一直有在上別桌先來的餐點，\n\n味道上的話，\n越式炒飯屬於我吃不太習慣的味道，\n不難吃，\n就是吃不習慣，\n奶茶就中規中矩，\n可以無限續，\n\n份量上的話，\n算是蠻多的，\n吃完有種像是吃了小火鍋加上兩碗白飯的份量，\n而且我當天是在下午一點左右用餐完，\n我到下午三點還在打飽嗝，\n\n環境上的話，\n還算乾淨，\n店家比較忙，\n基本都是有客人來，\n才有時間清桌子，\n但似乎都沒有擦桌子，\n來這用餐，\n大概是需要自己動手擦桌子，\n\n另外一提，\n炒飯裡有吃到蛋殼，\n（最後一張照片）\n不太清楚是不是個案，\n但建議來這用餐的客人要注意，\n\n總結：\n如果想吃粗飽的越式料理，\n我蠻推薦來吃這家店吃看看的，\n\n之後有空，\n我可能會再來吃看看別的餐點，\n至於越式炒飯我自己是吃不慣就是了，\n\n再另外一提，\n來這家店用餐的客人，\n似乎還蠻多的，\n因為我當天用餐的時候，\n我剛坐下最後一桌，\n後面不到五分鐘就來了三批客人在等，\n所以要來這用餐，\n可能要有排隊的心理準備。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "在Google地圖上搜到的店家，\n閒著沒事就跑來吃看看，\n\n當天是在平日中午十二點半左右進店，\n裡面只剩一桌空桌，\n其他全部坐滿，\n\n印象中店內有四張雙人桌，\n三張四人桌，\n一張單人桌，\n雙人桌都靠很近，\n店內空間屬於是比較狹小的類型，\n\n點了越式炒飯，（100元）\n\n餐點大約等了十分鐘左右，\n我覺得算是正常，\n畢竟店家前面一直有在上別桌先來的餐點，\n\n味道上的話，\n越式炒飯屬於我吃不太習慣的味道，\n不難吃，\n就是吃不習慣，\n奶茶就中規中矩，\n可以無限續，\n\n份量上的話，\n算是蠻多的，\n吃完有種像是吃了小火鍋加上兩碗白飯的份量，\n而且我當天是在下午一點左右用餐完，\n我到下午三點還在打飽嗝，\n\n環境上的話，\n還算乾淨，\n店家比較忙，\n基本都是有客人來，\n才有時間清桌子，\n但似乎都沒有擦桌子，\n來這用餐，\n大概是需要自己動手擦桌子，\n\n另外一提，\n炒飯裡有吃到蛋殼，\n（最後一張照片）\n不太清楚是不是個案，\n但建議來這用餐的客人要注意，\n\n總結：\n如果想吃粗飽的越式料理，\n我蠻推薦來吃這家店吃看看的，\n\n之後有空，\n我可能會再來吃看看別的餐點，\n至於越式炒飯我自己是吃不慣就是了，\n\n再另外一提，\n來這家店用餐的客人，\n似乎還蠻多的，\n因為我當天用餐的時候，\n我剛坐下最後一桌，\n後面不到五分鐘就來了三批客人在等，\n所以要來這用餐，\n可能要有排隊的心理準備。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "什麼鬼（好吧）",
+                                                  "uri":  "https://www.google.com/maps/contrib/116575475016487161310/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocIhXIrniDiwHIt7JI5h6aLLIb6MfJo3K_b-Y2rdMvsI5ZdyEg=s128-c0x00000000-cc-rp-mo-ba8"
+                                              },
+                        "publishTime":  "2025-11-20T06:58:28.174257963Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214YWFtZERNSHBMVFZweWJFSlVNWHBRTTJvM1QxRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214YWFtZERNSHBMVFZweWJFSlVNWHBRTTJvM1QxRRAB!2m1!1s0x3442af7c4b3f9fd5:0x6762ab7906c5b6a2"
+                    },
+                    {
+                        "name":  "places/ChIJ1Z8_S3yvQjQRorbFBnmrYmc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21zNVlrNVNTbXhEYTNoNFlYUnplbUUwUkZoVlQwRRAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "鮭魚炒飯很香很好吃，湯河粉清爽不失濃郁，內用奶茶免費喝，奶茶很好喝",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "鮭魚炒飯很香很好吃，湯河粉清爽不失濃郁，內用奶茶免費喝，奶茶很好喝",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Kate Cheng",
+                                                  "uri":  "https://www.google.com/maps/contrib/116293253313683940789/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWlKfQgotcpL6AZx6tI_x0-QCn7QZNLeZFZzYDDbUZv6IUCqELjzg=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2026-02-03T06:44:43.282419367Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21zNVlrNVNTbXhEYTNoNFlYUnplbUUwUkZoVlQwRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21zNVlrNVNTbXhEYTNoNFlYUnplbUUwUkZoVlQwRRAB!2m1!1s0x3442af7c4b3f9fd5:0x6762ab7906c5b6a2"
+                    },
+                    {
+                        "name":  "places/ChIJ1Z8_S3yvQjQRorbFBnmrYmc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GcE5HMVlNekZpZVRsQlFWOVVWRTl0U0d0ZmJVRRAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "平價美食，河粉口感好，東西新鮮，醬料美味，有免費冰奶茶味道不錯\n老闆人很好",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "平價美食，河粉口感好，東西新鮮，醬料美味，有免費冰奶茶味道不錯\n老闆人很好",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Jade C",
+                                                  "uri":  "https://www.google.com/maps/contrib/106465110537541742961/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocKk6gZly58ZpqkwwyHhx6IHIVT4MjxhaeTJP-dnHshslsO9ag=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-12-06T19:14:53.240661248Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GcE5HMVlNekZpZVRsQlFWOVVWRTl0U0d0ZmJVRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GcE5HMVlNekZpZVRsQlFWOVVWRTl0U0d0ZmJVRRAB!2m1!1s0x3442af7c4b3f9fd5:0x6762ab7906c5b6a2"
+                    }
+                ]
+}

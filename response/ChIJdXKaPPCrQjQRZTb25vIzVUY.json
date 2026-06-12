@@ -1,0 +1,130 @@
+{
+  "id": "ChIJdXKaPPCrQjQRZTb25vIzVUY",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2718 9807",
+  "formattedAddress": "105台灣臺北市松山區東勢里健康路60號1樓",
+  "location": {
+    "latitude": 25.0532839,
+    "longitude": 121.5533957
+  },
+  "rating": 4.7,
+  "userRatingCount": 128,
+  "displayName": {
+    "text": "Moore&moore摩爾摩爾早午餐點餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJdXKaPPCrQjQRZTb25vIzVUY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wWU16YzJVMjFXY0VOM1VGZHZSek15ZUROclExRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "這裡用餐環境比一般早餐店好很多，食材新鮮用料大方，生意很好，今天難得一家四口一起用餐就幸運遇到試吃新品，”歐姆蛋”裡面有鮪魚玉米起司，大家都讚不絕口，聽說還會有其他口味，值得期待😋",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這裡用餐環境比一般早餐店好很多，食材新鮮用料大方，生意很好，今天難得一家四口一起用餐就幸運遇到試吃新品，”歐姆蛋”裡面有鮪魚玉米起司，大家都讚不絕口，聽說還會有其他口味，值得期待😋",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "MELODY CHOU",
+        "uri": "https://www.google.com/maps/contrib/116956868899462310266/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXMnNEh2HF4zEyF5OhCnBGWAKljn9NCGQsx4MkpZ5wQTuh5mnxwHw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-27T08:08:03.268347847Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wWU16YzJVMjFXY0VOM1VGZHZSek15ZUROclExRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wWU16YzJVMjFXY0VOM1VGZHZSek15ZUROclExRRAB!2m1!1s0x3442abf03c9a7275:0x465533f2e6f63665"
+    },
+    {
+      "name": "places/ChIJdXKaPPCrQjQRZTb25vIzVUY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCRmIwZEVWVE5STVRoeFIzRnFRMG8yVG5CVWRYYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "1. 花生厚片，5顆星\n超好吃，有花生顆粒的那種，\n\n2. XO醬蘿蔔糕煨蛋，5顆星\n有滿滿的高麗菜，XO醬放得毫不吝嗇，對得起價格\n\n3. 鴛鴦咖啡(熱)，4.5顆星\n好好喝，不會太甜\n\n4. 薯餅蛋餅\n我沒吃，男友點的，據說一般般\n\n5. 雙層吉士牛肉堡\n千層堡我是選要脆一點不醬，\n咬起來香香脆脆的好好吃\n美生菜給很多\n\n6. 招牌套餐\n美生菜很鮮脆 (醬太多，忘記選不要醬)，雞塊、豬肉片和太陽蛋皆符合一般水準 (沒有令人驚艷之處但都好吃)",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "1. 花生厚片，5顆星\n超好吃，有花生顆粒的那種，\n\n2. XO醬蘿蔔糕煨蛋，5顆星\n有滿滿的高麗菜，XO醬放得毫不吝嗇，對得起價格\n\n3. 鴛鴦咖啡(熱)，4.5顆星\n好好喝，不會太甜\n\n4. 薯餅蛋餅\n我沒吃，男友點的，據說一般般\n\n5. 雙層吉士牛肉堡\n千層堡我是選要脆一點不醬，\n咬起來香香脆脆的好好吃\n美生菜給很多\n\n6. 招牌套餐\n美生菜很鮮脆 (醬太多，忘記選不要醬)，雞塊、豬肉片和太陽蛋皆符合一般水準 (沒有令人驚艷之處但都好吃)",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "WanGong Lin_林碗公（GiantBowl）",
+        "uri": "https://www.google.com/maps/contrib/100170392576416438085/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWv93E0A_EKr8xk7Iuu6emykWuFbrwvWaENHm-81LzztckzuBM3=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-13T01:46:49.145556964Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCRmIwZEVWVE5STVRoeFIzRnFRMG8yVG5CVWRYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCRmIwZEVWVE5STVRoeFIzRnFRMG8yVG5CVWRYYxAB!2m1!1s0x3442abf03c9a7275:0x465533f2e6f63665"
+    },
+    {
+      "name": "places/ChIJdXKaPPCrQjQRZTb25vIzVUY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oTWVVSkRkMHRzYkdGSU4yVnlRbTFqWmxGRlJXYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "#松山區\n#Moore&moore摩爾摩爾早午餐\n一早來吃早餐被老闆娘的美貌驚豔，戴口罩，沒化妝還是很漂亮內～💕\nX 0醬蘿蔔糕燴蛋，要求醬多，估計用掉250 C C的XO醬，那小干貝嚇到我的多，高麗菜也好多，加鮮奶茶，全部155，環境乾淨，冷氣夠冷，還有酒精隨便噴，這價錢真的不貴\n早上8:08我看到巳經全客滿嘍～💕\n\n大家都好奇老闆娘的長相😂",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "#松山區\n#Moore&moore摩爾摩爾早午餐\n一早來吃早餐被老闆娘的美貌驚豔，戴口罩，沒化妝還是很漂亮內～💕\nX 0醬蘿蔔糕燴蛋，要求醬多，估計用掉250 C C的XO醬，那小干貝嚇到我的多，高麗菜也好多，加鮮奶茶，全部155，環境乾淨，冷氣夠冷，還有酒精隨便噴，這價錢真的不貴\n早上8:08我看到巳經全客滿嘍～💕\n\n大家都好奇老闆娘的長相😂",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳欣怡",
+        "uri": "https://www.google.com/maps/contrib/105585070401090771981/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXen0Z1AT9qky0kbO4pi4Dx3sMloUhX-5yrRPmYP7rAYzykaijw=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-10-12T02:43:32.115288512Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oTWVVSkRkMHRzYkdGSU4yVnlRbTFqWmxGRlJXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oTWVVSkRkMHRzYkdGSU4yVnlRbTFqWmxGRlJXYxAB!2m1!1s0x3442abf03c9a7275:0x465533f2e6f63665"
+    },
+    {
+      "name": "places/ChIJdXKaPPCrQjQRZTb25vIzVUY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsa01XeFhOVFI1YWxwWU9FSmhNMDlUY2tFNVRYYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "店家待客溫馨，食物好吃，，環境寬敞舒適，CP值高！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店家待客溫馨，食物好吃，，環境寬敞舒適，CP值高！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Nick Chang",
+        "uri": "https://www.google.com/maps/contrib/109383719699935459581/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIhQpQrNo9CeXCBtwOTM1fx0O0hhZs2FyN_MAoQUZV_arEDdg=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-03-01T00:26:39.323005267Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsa01XeFhOVFI1YWxwWU9FSmhNMDlUY2tFNVRYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsa01XeFhOVFI1YWxwWU9FSmhNMDlUY2tFNVRYYxAB!2m1!1s0x3442abf03c9a7275:0x465533f2e6f63665"
+    },
+    {
+      "name": "places/ChIJdXKaPPCrQjQRZTb25vIzVUY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWUlMwNXFUbk01WHpaMmVrOUxiMVUxV1RaamRHYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "鮪魚蛋餅：份量很多，是乾的。蛋餅尚可\n總匯：菜量很多，整體蠻喜歡的\n\n位子偏小",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "鮪魚蛋餅：份量很多，是乾的。蛋餅尚可\n總匯：菜量很多，整體蠻喜歡的\n\n位子偏小",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "I",
+        "uri": "https://www.google.com/maps/contrib/114907559752368534833/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXToaWZRHJtIy-5c56rWL3_zEeR-DOTBKmrArL9PjASegX2Qt4=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-26T05:18:08.412094624Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWUlMwNXFUbk01WHpaMmVrOUxiMVUxV1RaamRHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWUlMwNXFUbk01WHpaMmVrOUxiMVUxV1RaamRHYxAB!2m1!1s0x3442abf03c9a7275:0x465533f2e6f63665"
+    }
+  ],
+  "goodForChildren": true
+}

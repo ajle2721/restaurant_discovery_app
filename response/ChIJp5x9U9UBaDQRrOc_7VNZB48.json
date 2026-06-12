@@ -1,0 +1,133 @@
+{
+  "id": "ChIJp5x9U9UBaDQRrOc_7VNZB48",
+  "types": [
+    "restaurant",
+    "tea_house",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2234 4688",
+  "formattedAddress": "116台灣臺北市文山區指南里指南路三段38巷33號2、3樓",
+  "location": {
+    "latitude": 24.967076199999997,
+    "longitude": 121.59077610000001
+  },
+  "rating": 4.5,
+  "websiteUri": "https://m.facebook.com/MT0222344688/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1551,
+  "displayName": {
+    "text": "貓空 山中茶-景觀餐廳",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJp5x9U9UBaDQRrOc_7VNZB48/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wTllrOTRlVVpZVUhwRGNVVjJaVGxyYTNoQmRYYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "2026農曆過年 四人套餐1800加一成\n\n湯好喝，照片沒拍完全部的，是吃蠻飽的。\n茶油麵線\n附送一壺茶，不可續。\n有點可惜茶不能續一杯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2026農曆過年 四人套餐1800加一成\n\n湯好喝，照片沒拍完全部的，是吃蠻飽的。\n茶油麵線\n附送一壺茶，不可續。\n有點可惜茶不能續一杯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "熊Bear",
+        "uri": "https://www.google.com/maps/contrib/108228830627993747862/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVk4B5SpLwt2MxviEIPW2hy9UNlZl1PrukBa0bcEmR4KXTS6-s4=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-20T05:00:49.953219213Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wTllrOTRlVVpZVUhwRGNVVjJaVGxyYTNoQmRYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wTllrOTRlVVpZVUhwRGNVVjJaVGxyYTNoQmRYYxAB!2m1!1s0x346801d5537d9ca7:0x8f075953ed3fe7ac"
+    },
+    {
+      "name": "places/ChIJp5x9U9UBaDQRrOc_7VNZB48/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poRmFXUXdlamhHWWs1clpXUllUMVZKYlcxWFluYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "環境很安靜，視野非常開闊，可以清楚看到 101。點了Q彈的雞油麵線、老闆很推的避風塘排骨還有熱熱的鳳梨苦瓜雞湯。離貓纜站走路很近，是個可以放鬆看風景、好好吃頓飯的好地方，下次會想來補看夜景。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境很安靜，視野非常開闊，可以清楚看到 101。點了Q彈的雞油麵線、老闆很推的避風塘排骨還有熱熱的鳳梨苦瓜雞湯。離貓纜站走路很近，是個可以放鬆看風景、好好吃頓飯的好地方，下次會想來補看夜景。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "許仁評",
+        "uri": "https://www.google.com/maps/contrib/115092385811718217450/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6rpG8nEgVqAFwwbeId7mDRXlkMhVUdkC10JBABzeh2MCQOhjj=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-07T12:03:30.660130091Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poRmFXUXdlamhHWWs1clpXUllUMVZKYlcxWFluYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poRmFXUXdlamhHWWs1clpXUllUMVZKYlcxWFluYxAB!2m1!1s0x346801d5537d9ca7:0x8f075953ed3fe7ac"
+    },
+    {
+      "name": "places/ChIJp5x9U9UBaDQRrOc_7VNZB48/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CRFEyZHNVR1ZhVUUxMU9VWXpRa281ZDFneFMzYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點色香味俱全，融入「茶」的元素，創新美味😋\n環境舒服且能俯瞰貓空纜車及台北全景！\n冷泡茶也順口清新，推推👍👍👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點色香味俱全，融入「茶」的元素，創新美味😋\n環境舒服且能俯瞰貓空纜車及台北全景！\n冷泡茶也順口清新，推推👍👍👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chien Kelly",
+        "uri": "https://www.google.com/maps/contrib/104635903840409159575/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIAiSaxmXGVdKjujPWiT1qgSvh4utuhQy75l8-m4qibp5PW6Q=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-10-12T07:51:07.836030757Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CRFEyZHNVR1ZhVUUxMU9VWXpRa281ZDFneFMzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CRFEyZHNVR1ZhVUUxMU9VWXpRa281ZDFneFMzYxAB!2m1!1s0x346801d5537d9ca7:0x8f075953ed3fe7ac"
+    },
+    {
+      "name": "places/ChIJp5x9U9UBaDQRrOc_7VNZB48/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWdk1rVk1TWGR6TVd0bGEySTFkMDAwVDNaMVZWRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐廳簡介：\n地址：台北市文山區指南路三段 38巷 33號之3。  ￼\n特點：位於山上，附有台北盆地與 台北101 遠景的景觀。餐廳以茶葉料理為主題，是來到貓空 觀景、品茶與用餐的不錯選擇。￼\n為什麼推薦：\n景觀優越：山上視野開闊，適合搭配一日遊、登山、搭乘 貓空纜車後用餐，食材新鮮好好吃😋。老闆及老闆娘服務都很親切，小妹妹服務生很漂亮😻，期待下一次再次來山中茶餐廳用餐。\n茶葉入菜特色：這邊不只是用來喝茶，也將茶葉融入料理中，是較特別的用餐體驗。例如以鐵觀音、烏龍茶入菜的選項。 ￼\n適合多人與家庭：既有景觀、茶文化氛圍，也提供餐食，帶著家人或朋友一起去比較放鬆。\n貼心建議：\n若想配合景觀＋美食，建議選擇天氣較佳的時候前往，視野會比較好。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐廳簡介：\n地址：台北市文山區指南路三段 38巷 33號之3。  ￼\n特點：位於山上，附有台北盆地與 台北101 遠景的景觀。餐廳以茶葉料理為主題，是來到貓空 觀景、品茶與用餐的不錯選擇。￼\n為什麼推薦：\n景觀優越：山上視野開闊，適合搭配一日遊、登山、搭乘 貓空纜車後用餐，食材新鮮好好吃😋。老闆及老闆娘服務都很親切，小妹妹服務生很漂亮😻，期待下一次再次來山中茶餐廳用餐。\n茶葉入菜特色：這邊不只是用來喝茶，也將茶葉融入料理中，是較特別的用餐體驗。例如以鐵觀音、烏龍茶入菜的選項。 ￼\n適合多人與家庭：既有景觀、茶文化氛圍，也提供餐食，帶著家人或朋友一起去比較放鬆。\n貼心建議：\n若想配合景觀＋美食，建議選擇天氣較佳的時候前往，視野會比較好。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "徐睿騏",
+        "uri": "https://www.google.com/maps/contrib/108337852932417714069/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW_e-LTKfGCYAFhLdVJHNaPNbwgFRcP_Fh8x3oGaVX2yQkuf2qq=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-08T12:53:31.588104930Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWdk1rVk1TWGR6TVd0bGEySTFkMDAwVDNaMVZWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWdk1rVk1TWGR6TVd0bGEySTFkMDAwVDNaMVZWRRAB!2m1!1s0x346801d5537d9ca7:0x8f075953ed3fe7ac"
+    },
+    {
+      "name": "places/ChIJp5x9U9UBaDQRrOc_7VNZB48/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKSFlVVXhYMnBaYUZWNWJFcDRjWGg2UTAxSWNWRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "地點比四哥的店好，一樣的樓梯誤打誤撞跑到山中茶餐廳，因為這裡景色更好餐點也不錯吃，排骨/炒飯很好吃，涼拌的過貓也很棒，下次來要嘗試一鍋的雞湯份量大所以沒點，點一鍋配個白飯+排骨or季節限定綠竹筍，一定很棒，我們今天只有二人點了炒飯過貓排骨，已經吃的很撐了，所以下次再來嘗試囉！推薦給大家試試看，老闆/闆娘也很客氣，還送了我們茶凍@@",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "地點比四哥的店好，一樣的樓梯誤打誤撞跑到山中茶餐廳，因為這裡景色更好餐點也不錯吃，排骨/炒飯很好吃，涼拌的過貓也很棒，下次來要嘗試一鍋的雞湯份量大所以沒點，點一鍋配個白飯+排骨or季節限定綠竹筍，一定很棒，我們今天只有二人點了炒飯過貓排骨，已經吃的很撐了，所以下次再來嘗試囉！推薦給大家試試看，老闆/闆娘也很客氣，還送了我們茶凍@@",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "井中月",
+        "uri": "https://www.google.com/maps/contrib/112006132562357058753/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWQ8Rg_irtrrRy44wpGA65KA4cxgRx2lh59lhEjyZM4jl1q9nAp=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-10-02T10:47:50.644922329Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKSFlVVXhYMnBaYUZWNWJFcDRjWGg2UTAxSWNWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKSFlVVXhYMnBaYUZWNWJFcDRjWGg2UTAxSWNWRRAB!2m1!1s0x346801d5537d9ca7:0x8f075953ed3fe7ac"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

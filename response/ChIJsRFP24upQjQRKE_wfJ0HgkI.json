@@ -1,0 +1,132 @@
+{
+  "id": "ChIJsRFP24upQjQRKE_wfJ0HgkI",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2362 6035",
+  "formattedAddress": "106台灣臺北市大安區大學里新生南路三段96號",
+  "location": {
+    "latitude": 25.0171721,
+    "longitude": 121.53313419999999
+  },
+  "rating": 4.2,
+  "websiteUri": "https://www.facebook.com/BrassJoy-cafe-%E9%8A%85%E6%A8%82%E5%92%96%E5%95%A1-1060813753959637/?fref=ts",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1496,
+  "displayName": {
+    "text": "Brass Joy cafe 銅樂咖啡",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJsRFP24upQjQRKE_wfJ0HgkI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGaFRFTmtYM2RMVGtaVE5sRkRkWFZhTVhJdE5YYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "在台大校門正對面。雖然位處精華地段，但室內環境意外地安靜。特別推薦二樓的吧台區，有提供插座可以使用，非常適合帶著筆電來這裡工作或讀書。\n今天點了薄餅與沙拉，薄餅外皮烤得非常酥脆，調味也很到位，吃起來很過癮；沙拉的部分食材新鮮，表現水準之上。這裡氛圍輕鬆，即使一個人來用餐也覺得非常自在舒服，是個會想再訪的好地方！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在台大校門正對面。雖然位處精華地段，但室內環境意外地安靜。特別推薦二樓的吧台區，有提供插座可以使用，非常適合帶著筆電來這裡工作或讀書。\n今天點了薄餅與沙拉，薄餅外皮烤得非常酥脆，調味也很到位，吃起來很過癮；沙拉的部分食材新鮮，表現水準之上。這裡氛圍輕鬆，即使一個人來用餐也覺得非常自在舒服，是個會想再訪的好地方！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃雅琪",
+        "uri": "https://www.google.com/maps/contrib/114161823077013055039/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJRUTCVEGfl-gJ-tAjzJ7iVefIK9SZ4BF41cJjJ7r5tJ57-Eg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-01T04:19:08.945497356Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGaFRFTmtYM2RMVGtaVE5sRkRkWFZhTVhJdE5YYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGaFRFTmtYM2RMVGtaVE5sRkRkWFZhTVhJdE5YYxAB!2m1!1s0x3442a98bdb4f11b1:0x4282079d7cf04f28"
+    },
+    {
+      "name": "places/ChIJsRFP24upQjQRKE_wfJ0HgkI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSQlRUZzJSbFpIWjIxeU5tRmFPVlZtY0RSdlduYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "很貼心的服務人員，知道我吃素，還主動提出要幫我更換素食湯品。餐食很好吃，薄餅超棒🥰",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很貼心的服務人員，知道我吃素，還主動提出要幫我更換素食湯品。餐食很好吃，薄餅超棒🥰",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Claire Chen",
+        "uri": "https://www.google.com/maps/contrib/112981179966881114192/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWvY3lSuDvjyAfR_7QRArPLFBAbughuAznVhp3DM57Zn4_54tWi=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-13T11:19:21.188116942Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSQlRUZzJSbFpIWjIxeU5tRmFPVlZtY0RSdlduYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSQlRUZzJSbFpIWjIxeU5tRmFPVlZtY0RSdlduYxAB!2m1!1s0x3442a98bdb4f11b1:0x4282079d7cf04f28"
+    },
+    {
+      "name": "places/ChIJsRFP24upQjQRKE_wfJ0HgkI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsdlZYbzBNM28yYVY5c2NXcG1iRGRtU1d4UWEyYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "這次點了咖哩蒜香嫩雞腿燉飯，如果是喜歡口味稍微重一點的朋友，這道非常推薦！咖哩醬汁給得很足，濃郁中帶有明顯的蒜香，每一粒米飯都能完整吸飽黃金色的醬汁，雖然米心是偏軟的台式口感（不是義式那種硬米心），但整體融合得很棒。\n\n最讓人驚豔的是主菜雞腿排，表皮煎得微焦酥脆，切開後肉汁鎖在裡面，咬下去口感濕潤不乾柴，，雖然菜單上畫了一根辣椒，但實際吃起來不太辣，怕辣的人也可以放心點，份量部分剛剛好，男生吃也能有飽足感。\n\n這裡地理位置就在學校大門口對面，非常方便，店內環境舒適，有多樣的餐點與飲料可選擇，對於學生來說，絕對是準備期中和期末考得好去處。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這次點了咖哩蒜香嫩雞腿燉飯，如果是喜歡口味稍微重一點的朋友，這道非常推薦！咖哩醬汁給得很足，濃郁中帶有明顯的蒜香，每一粒米飯都能完整吸飽黃金色的醬汁，雖然米心是偏軟的台式口感（不是義式那種硬米心），但整體融合得很棒。\n\n最讓人驚豔的是主菜雞腿排，表皮煎得微焦酥脆，切開後肉汁鎖在裡面，咬下去口感濕潤不乾柴，，雖然菜單上畫了一根辣椒，但實際吃起來不太辣，怕辣的人也可以放心點，份量部分剛剛好，男生吃也能有飽足感。\n\n這裡地理位置就在學校大門口對面，非常方便，店內環境舒適，有多樣的餐點與飲料可選擇，對於學生來說，絕對是準備期中和期末考得好去處。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "17",
+        "uri": "https://www.google.com/maps/contrib/112083356367283224278/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU10mb7mud3fjyOPnsJj9I4Aer1C_pswkWU1oBf_gbh8leBzgip=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-05T02:30:43.475450317Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsdlZYbzBNM28yYVY5c2NXcG1iRGRtU1d4UWEyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsdlZYbzBNM28yYVY5c2NXcG1iRGRtU1d4UWEyYxAB!2m1!1s0x3442a98bdb4f11b1:0x4282079d7cf04f28"
+    },
+    {
+      "name": "places/ChIJsRFP24upQjQRKE_wfJ0HgkI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1a1RYaEdUWGR6T0c1c2JIWXpiVVU1WmtOYVlYYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "​今天在銅樂咖啡點的這份鮮果沙拉，真的讓人非常驚艷。\n\n​這道沙拉上桌時，視覺上就極具誠意，盤中堆滿了當季新鮮的水果，每一口都能吃到鮮甜與爽口。\n\n相比於常見的輕食，這裡的水果種類豐富且切得大方，搭配上清脆的生菜，口感層次分明，食材新鮮度沒話說，份量也給得很足。\n\n​在繁忙的工作或學習空檔，來上這麼一盤充滿色彩與口感的料理，身體感覺輕盈許多，連帶心情也跟著放鬆不少。\n\n​這裡的空間寬敞、氛圍輕鬆，不管是想安靜處理點事情，或是跟朋友簡單聚聚，這份沙拉都是很舒服的選擇。\n\n如果你正好想吃點清爽健康的，這道很值得試試。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "​今天在銅樂咖啡點的這份鮮果沙拉，真的讓人非常驚艷。\n\n​這道沙拉上桌時，視覺上就極具誠意，盤中堆滿了當季新鮮的水果，每一口都能吃到鮮甜與爽口。\n\n相比於常見的輕食，這裡的水果種類豐富且切得大方，搭配上清脆的生菜，口感層次分明，食材新鮮度沒話說，份量也給得很足。\n\n​在繁忙的工作或學習空檔，來上這麼一盤充滿色彩與口感的料理，身體感覺輕盈許多，連帶心情也跟著放鬆不少。\n\n​這裡的空間寬敞、氛圍輕鬆，不管是想安靜處理點事情，或是跟朋友簡單聚聚，這份沙拉都是很舒服的選擇。\n\n如果你正好想吃點清爽健康的，這道很值得試試。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "YAN XIANG CHEN",
+        "uri": "https://www.google.com/maps/contrib/113096731504794701352/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVsYZdgGuAc9impMg7J3cBL0bGnn5SoVIY3XNf3KSINXJGUPUv0=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-02T04:56:03.837530779Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1a1RYaEdUWGR6T0c1c2JIWXpiVVU1WmtOYVlYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1a1RYaEdUWGR6T0c1c2JIWXpiVVU1WmtOYVlYYxAB!2m1!1s0x3442a98bdb4f11b1:0x4282079d7cf04f28"
+    },
+    {
+      "name": "places/ChIJsRFP24upQjQRKE_wfJ0HgkI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ORVVIWXlNVmg1VjIxWU0wRnBjbkJYUVdwbFYxRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 2,
+      "text": {
+        "text": "整間店給人一種很隨便的感覺。\n店內陰暗，食物也不好吃，份量更是不足，價錢對不上食物的品質。\n不知道為什麼網路上評分都那麼高。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "整間店給人一種很隨便的感覺。\n店內陰暗，食物也不好吃，份量更是不足，價錢對不上食物的品質。\n不知道為什麼網路上評分都那麼高。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "いぬまきとげ",
+        "uri": "https://www.google.com/maps/contrib/111467380894434003071/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjURUwY6EIapSU8wG9UZriVLu_VS2SzSdz1yf-Q-h78Bl9X52KiP=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-11-12T01:08:47.204647523Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ORVVIWXlNVmg1VjIxWU0wRnBjbkJYUVdwbFYxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ORVVIWXlNVmg1VjIxWU0wRnBjbkJYUVdwbFYxRRAB!2m1!1s0x3442a98bdb4f11b1:0x4282079d7cf04f28"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

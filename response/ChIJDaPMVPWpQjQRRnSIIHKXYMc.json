@@ -1,0 +1,130 @@
+{
+  "id": "ChIJDaPMVPWpQjQRRnSIIHKXYMc",
+  "types": [
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2356 4445",
+  "formattedAddress": "100台灣臺北市中正區南福里羅斯福路二段66巷16號1樓",
+  "location": {
+    "latitude": 25.027500099999997,
+    "longitude": 121.5211257
+  },
+  "rating": 4.6,
+  "websiteUri": "https://www.facebook.com/yyq23564445/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 273,
+  "displayName": {
+    "text": "小木斑馬 Brunch & coffee",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJDaPMVPWpQjQRRnSIIHKXYMc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGT2IxUmFRak4wV0hKMlgwaElUM1oxZVRka01YYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "禮拜六早上10點左右來店，剛好還有幾桌空位，後來很快就客滿了，早午餐選項沒有很多，所以點了招牌減脂嫩雞輕食餐和大蒜厚片，價格算非常平價，食物中規中矩，減脂嫩雞真的嫩，大蒜麵包和厚片也都很香。（含菜單）\n114.08.30",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "禮拜六早上10點左右來店，剛好還有幾桌空位，後來很快就客滿了，早午餐選項沒有很多，所以點了招牌減脂嫩雞輕食餐和大蒜厚片，價格算非常平價，食物中規中矩，減脂嫩雞真的嫩，大蒜麵包和厚片也都很香。（含菜單）\n114.08.30",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "MEI",
+        "uri": "https://www.google.com/maps/contrib/103272830514508505675/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJTEyAisMRam3OUkeY2waQ91xTpwmNnvaZ4A_9qTD7jumg4yA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-09-02T15:05:31.221545265Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGT2IxUmFRak4wV0hKMlgwaElUM1oxZVRka01YYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGT2IxUmFRak4wV0hKMlgwaElUM1oxZVRka01YYxAB!2m1!1s0x3442a9f554cca30d:0xc760977220887446"
+    },
+    {
+      "name": "places/ChIJDaPMVPWpQjQRRnSIIHKXYMc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WdGFVaHlkVTU1ZHpNMmVsZE1SbmM0Tkhkc2NIYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "*斑馬主廚推薦-\n沙拉、炒蛋、德腸、方塊雞、蒜香麵包\n\n每一樣 都可以感受到料理的用心\n沙拉醬口味可挑選\n一開始選了日式油醋\n沒想到芥末嗆到無法入口\n跟老闆換了胡麻口味 好吃好吃\n\n小小空間出產著好吃美食\n下回再來品嚐大家推薦的義大利麵♡",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "*斑馬主廚推薦-\n沙拉、炒蛋、德腸、方塊雞、蒜香麵包\n\n每一樣 都可以感受到料理的用心\n沙拉醬口味可挑選\n一開始選了日式油醋\n沒想到芥末嗆到無法入口\n跟老闆換了胡麻口味 好吃好吃\n\n小小空間出產著好吃美食\n下回再來品嚐大家推薦的義大利麵♡",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chloe Chen",
+        "uri": "https://www.google.com/maps/contrib/116270306675237879065/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUct4LvudzWpqC-WJssgaysZ027TP07JzH8tBVMYcx26wwC9z1RQw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-09-09T10:04:53.684772890Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WdGFVaHlkVTU1ZHpNMmVsZE1SbmM0Tkhkc2NIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WdGFVaHlkVTU1ZHpNMmVsZE1SbmM0Tkhkc2NIYxAB!2m1!1s0x3442a9f554cca30d:0xc760977220887446"
+    },
+    {
+      "name": "places/ChIJDaPMVPWpQjQRRnSIIHKXYMc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaa1gyaE1YMVF4ZVdsd09HVkJjUzF1WlZCRmQwRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "食物好吃、全都是單點、CP 值高！\n老闆親切，自己點餐、送餐，點的拿鐵有隻熊的臉（還有小嘴巴），很驚喜也很可愛，早上來吃很暖心。咖啡不會有焦黑苦味，滑順、很好入口，很推薦他們的義式咖啡系列飲品。\n現場有提供檸檬水，玻璃杯或塑膠杯都有提供。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "食物好吃、全都是單點、CP 值高！\n老闆親切，自己點餐、送餐，點的拿鐵有隻熊的臉（還有小嘴巴），很驚喜也很可愛，早上來吃很暖心。咖啡不會有焦黑苦味，滑順、很好入口，很推薦他們的義式咖啡系列飲品。\n現場有提供檸檬水，玻璃杯或塑膠杯都有提供。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Tina Hsieh",
+        "uri": "https://www.google.com/maps/contrib/117388913800087778644/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXofhGssnYRlFSqgUL2xC2TTngjdUJdYlNiu37G2gpvikpkeAi-=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-22T01:56:06.496993888Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaa1gyaE1YMVF4ZVdsd09HVkJjUzF1WlZCRmQwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaa1gyaE1YMVF4ZVdsd09HVkJjUzF1WlZCRmQwRRAB!2m1!1s0x3442a9f554cca30d:0xc760977220887446"
+    },
+    {
+      "name": "places/ChIJDaPMVPWpQjQRRnSIIHKXYMc/reviews/ChdDSUhNMG9nS0VJQ0FnSURIdl9lMHNnRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "青醬口味的義大利麵很好吃，味道很香，青醬是自己做的，所以吃起來的味道特別好喔！麵裡面的雞肉是炙燒的，煎烤出來的味道剛剛好也是很美味，奶油煙燻鮭魚義大利麵的奶油醬汁炒出來的味道很好，不會像其他店家吃一吃會覺得太膩，用心的料理，把奶油的香氣炒了出來，最後點了炸物拼盤每一項炸物都很不錯，尤其是雞米花，本人很喜歡。小孩子都吃的很滿足，希望下次有機會再來。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "青醬口味的義大利麵很好吃，味道很香，青醬是自己做的，所以吃起來的味道特別好喔！麵裡面的雞肉是炙燒的，煎烤出來的味道剛剛好也是很美味，奶油煙燻鮭魚義大利麵的奶油醬汁炒出來的味道很好，不會像其他店家吃一吃會覺得太膩，用心的料理，把奶油的香氣炒了出來，最後點了炸物拼盤每一項炸物都很不錯，尤其是雞米花，本人很喜歡。小孩子都吃的很滿足，希望下次有機會再來。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jenny Huang",
+        "uri": "https://www.google.com/maps/contrib/101447681389078686101/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUiI0s0vQdmTEZ_Nuej3jnZSw-UCmcXj-IVQhwbCUA52SIRK4Qy=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2024-09-21T11:52:44.225718Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURIdl9lMHNnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURIdl9lMHNnRRAB!2m1!1s0x3442a9f554cca30d:0xc760977220887446"
+    },
+    {
+      "name": "places/ChIJDaPMVPWpQjQRRnSIIHKXYMc/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3MHZlcFR3EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "2025/3/24晚上內用\n主廚香辣特製馬鈴薯好吃！必點！\n燉飯跟義大利麵的口味都是我們喜歡的，沒吃到雷的欸，這家很可以。\n馬鈴薯會辣，有提供白開水，很讚。\n環境也很乾淨、舒服，吃完也不會有食物味殘留在身上。\n難怪每次中午經過都看裡面客滿，真的很可以！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2025/3/24晚上內用\n主廚香辣特製馬鈴薯好吃！必點！\n燉飯跟義大利麵的口味都是我們喜歡的，沒吃到雷的欸，這家很可以。\n馬鈴薯會辣，有提供白開水，很讚。\n環境也很乾淨、舒服，吃完也不會有食物味殘留在身上。\n難怪每次中午經過都看裡面客滿，真的很可以！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hsinj H",
+        "uri": "https://www.google.com/maps/contrib/111917987214465807983/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKy58FwV286damtskLKqGeUGdcGE2ZzPEJDkYQDWYgBcDQ2ug=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-03-25T04:13:06.778193Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3MHZlcFR3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3MHZlcFR3EAE!2m1!1s0x3442a9f554cca30d:0xc760977220887446"
+    }
+  ]
+}

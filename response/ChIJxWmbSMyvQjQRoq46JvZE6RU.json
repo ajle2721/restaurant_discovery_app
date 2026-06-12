@@ -1,0 +1,132 @@
+{
+  "id": "ChIJxWmbSMyvQjQRoq46JvZE6RU",
+  "types": [
+    "vietnamese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2822 3514",
+  "formattedAddress": "112台灣臺北市北投區榮光里石牌路一段154號1樓",
+  "location": {
+    "latitude": 25.1142425,
+    "longitude": 121.5131851
+  },
+  "rating": 4.4,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 445,
+  "displayName": {
+    "text": "越鄉越式料理-石牌店（無訂位服務）Hong cam",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJxWmbSMyvQjQRoq46JvZE6RU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGYWJqRlFiMTlTV2podVVXOUpTVnBwYjNvd2JWRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "常見越南小店面，裡面滿座，但翻桌率蠻快的。上菜速度也很快，有準備檸檬水讓客人自取用，不錯吃都很入味，下次會在來。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "常見越南小店面，裡面滿座，但翻桌率蠻快的。上菜速度也很快，有準備檸檬水讓客人自取用，不錯吃都很入味，下次會在來。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "米米兔",
+        "uri": "https://www.google.com/maps/contrib/111683531545516480842/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI8MOdIxFdi-URc_uHZgn36ufgm8YfjXhwhJ45FnI8m6aYRsA=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-28T03:27:33.422224113Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGYWJqRlFiMTlTV2podVVXOUpTVnBwYjNvd2JWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGYWJqRlFiMTlTV2podVVXOUpTVnBwYjNvd2JWRRAB!2m1!1s0x3442afcc489b69c5:0x15e944f6263aaea2"
+    },
+    {
+      "name": "places/ChIJxWmbSMyvQjQRoq46JvZE6RU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0b1lXSkplbll6ZDNselVVczBYelkxZDNoeGNYYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "好吃的越式料理初體驗\n朋友在附近上班推薦這家！她常常來吃，用在時間都很多人，但翻桌也很快！\n今天點的都好吃😋海鮮河粉、月亮蝦餅、香茅雞肉飯、空心菜、炸春捲（還有生菜可以包來吃）、摩摩渣渣👍\n甜點摩摩渣渣好吃不會太甜！不像有些很甜！這邊的微糖剛剛好！💯\n整體也很乾淨整潔，還有檸檬水可以喝！很清爽🍋",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "好吃的越式料理初體驗\n朋友在附近上班推薦這家！她常常來吃，用在時間都很多人，但翻桌也很快！\n今天點的都好吃😋海鮮河粉、月亮蝦餅、香茅雞肉飯、空心菜、炸春捲（還有生菜可以包來吃）、摩摩渣渣👍\n甜點摩摩渣渣好吃不會太甜！不像有些很甜！這邊的微糖剛剛好！💯\n整體也很乾淨整潔，還有檸檬水可以喝！很清爽🍋",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jenny Y",
+        "uri": "https://www.google.com/maps/contrib/107971716209990846444/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUKT42VHyXAFQvgSMKxabL1-A1GnRMeJo30sZ-_00P2AxwpfPs_=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-30T23:55:00.716028094Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0b1lXSkplbll6ZDNselVVczBYelkxZDNoeGNYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0b1lXSkplbll6ZDNselVVczBYelkxZDNoeGNYYxAB!2m1!1s0x3442afcc489b69c5:0x15e944f6263aaea2"
+    },
+    {
+      "name": "places/ChIJxWmbSMyvQjQRoq46JvZE6RU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWSmRXMW9abkExVW1wVVltdElNRlJsYUZSbGJWRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點很好吃，店員都很親切，最喜歡摩摩渣渣🫶🏻\n之前每週都會去吃兩次晚餐😆\n春捲、椒麻雞飯、豬腳飯（肉燉得很嫩）、涼拌系列還有魚都很好吃～～～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點很好吃，店員都很親切，最喜歡摩摩渣渣🫶🏻\n之前每週都會去吃兩次晚餐😆\n春捲、椒麻雞飯、豬腳飯（肉燉得很嫩）、涼拌系列還有魚都很好吃～～～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "梨梨子",
+        "uri": "https://www.google.com/maps/contrib/101508984969228141973/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVa0-zHcxoIZigcwFNWfiQfJ9sqjyfqkWDvf742nihUl_6yQ3W7=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-09-29T05:33:41.448715679Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWSmRXMW9abkExVW1wVVltdElNRlJsYUZSbGJWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWSmRXMW9abkExVW1wVVltdElNRlJsYUZSbGJWRRAB!2m1!1s0x3442afcc489b69c5:0x15e944f6263aaea2"
+    },
+    {
+      "name": "places/ChIJxWmbSMyvQjQRoq46JvZE6RU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pneFJFNTRjVU5WTkhsYU5ITmlPWGRZVWt0UFIzYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "與士林店一樣美味！\n涼拌米線的料非常多、豬肉和蝦子非常新鮮，不會乾柴，也沒有腥膻味。\n夏天帶著微酸甜的口感非常開胃、蔬菜滿滿，十分健康。\n*店家很大方檸檬角可以在吧台自取。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "與士林店一樣美味！\n涼拌米線的料非常多、豬肉和蝦子非常新鮮，不會乾柴，也沒有腥膻味。\n夏天帶著微酸甜的口感非常開胃、蔬菜滿滿，十分健康。\n*店家很大方檸檬角可以在吧台自取。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Eunice Yeh",
+        "uri": "https://www.google.com/maps/contrib/103369693108782075611/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWxhEhfOmvQ9MXQ6lCoMD2kzWKXQXl5osplxsbpGLcsJiDRyhs=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-15T07:19:06.004536022Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pneFJFNTRjVU5WTkhsYU5ITmlPWGRZVWt0UFIzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pneFJFNTRjVU5WTkhsYU5ITmlPWGRZVWt0UFIzYxAB!2m1!1s0x3442afcc489b69c5:0x15e944f6263aaea2"
+    },
+    {
+      "name": "places/ChIJxWmbSMyvQjQRoq46JvZE6RU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsbFZFZERkM05GTjNkVVdrcHBNRkpyUlhoQ1oxRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "用料算實在的在地小吃店 越南服務人員親切 涼拌花枝推～ 米線比河粉口感好\n只收現金",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "用料算實在的在地小吃店 越南服務人員親切 涼拌花枝推～ 米線比河粉口感好\n只收現金",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "teresa chen",
+        "uri": "https://www.google.com/maps/contrib/110117208084866046828/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXls2M5fLI-iBRZpzH5jfZzOcgGwH2OJHA9yziBb5oc8lIKDwLpgQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-09T12:19:05.910980207Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsbFZFZERkM05GTjNkVVdrcHBNRkpyUlhoQ1oxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsbFZFZERkM05GTjNkVVdrcHBNRkpyUlhoQ1oxRRAB!2m1!1s0x3442afcc489b69c5:0x15e944f6263aaea2"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

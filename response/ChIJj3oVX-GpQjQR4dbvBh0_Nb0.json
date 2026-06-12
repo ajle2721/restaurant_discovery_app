@@ -1,0 +1,139 @@
+{
+  "id": "ChIJj3oVX-GpQjQR4dbvBh0_Nb0",
+  "types": [
+    "brunch_restaurant",
+    "meal_delivery",
+    "food_delivery",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 916 678 489",
+  "formattedAddress": "100台灣臺北市中正區光復里中華路一段21巷14號",
+  "location": {
+    "latitude": 25.0464357,
+    "longitude": 121.5104642
+  },
+  "rating": 4.5,
+  "websiteUri": "https://page.line.me/121zcrat",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 1602,
+  "displayName": {
+    "text": "可蜜達吐司（北門店）",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Warm restaurant offering up global plates & hearty breakfast fare in a slimmed-down dining area.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJj3oVX-GpQjQR4dbvBh0_Nb0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kZk0zTmZUVTlZY0daa2VWWnRZMWxpWWxoQk0xRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "很小的店面，工作人員都是小姐姐，應該有很多觀光客慕名而來店內提供各種語言的菜單\n\n位置不大，他家都竟然有趣的，吃早餐會限時30分鐘\n\n吐司不錯，cheese很香，紅茶很清爽。很像日本的一些小清新早餐店。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很小的店面，工作人員都是小姐姐，應該有很多觀光客慕名而來店內提供各種語言的菜單\n\n位置不大，他家都竟然有趣的，吃早餐會限時30分鐘\n\n吐司不錯，cheese很香，紅茶很清爽。很像日本的一些小清新早餐店。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Alan Jia (Alan)",
+        "uri": "https://www.google.com/maps/contrib/114546681922974967509/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUE8zmLpauTyFSFi351wwaEgcHsQXqVJJwDD5F4B6uOx5SyZ0ei=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-03-01T13:31:35.505141996Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kZk0zTmZUVTlZY0daa2VWWnRZMWxpWWxoQk0xRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kZk0zTmZUVTlZY0daa2VWWnRZMWxpWWxoQk0xRRAB!2m1!1s0x3442a9e15f157a8f:0xbd353f1d06efd6e1"
+    },
+    {
+      "name": "places/ChIJj3oVX-GpQjQR4dbvBh0_Nb0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aV2NuRldiVUpoYkVKMlZHTmFhSFpUZEZvM1VXYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "店內坐位不多客滿有限制用餐時間30分鐘，有許多外國觀光客，店員英文非常好，炭燒甘蔗鮮奶茶是必點，雖然好喝但感受不大出來甘蔗和炭燒香氣，起司肉蛋是招牌，有滿滿的起司非常香濃，肉排也很軟嫩，是北車附近有水準的早餐店。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店內坐位不多客滿有限制用餐時間30分鐘，有許多外國觀光客，店員英文非常好，炭燒甘蔗鮮奶茶是必點，雖然好喝但感受不大出來甘蔗和炭燒香氣，起司肉蛋是招牌，有滿滿的起司非常香濃，肉排也很軟嫩，是北車附近有水準的早餐店。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jeffery Lee (雞蛋糕生活美學)",
+        "uri": "https://www.google.com/maps/contrib/103763728935292258432/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUc3CrZ0umy_MmKdPWuA5wRe2I42cO84n0RfKWi7PN10oGOTM2z_Q=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-09-29T15:02:42.918336955Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aV2NuRldiVUpoYkVKMlZHTmFhSFpUZEZvM1VXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aV2NuRldiVUpoYkVKMlZHTmFhSFpUZEZvM1VXYxAB!2m1!1s0x3442a9e15f157a8f:0xbd353f1d06efd6e1"
+    },
+    {
+      "name": "places/ChIJj3oVX-GpQjQR4dbvBh0_Nb0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Kak5tZzFVamxuUjJnNGFFUmpkWEUxVFUxR1ExRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "在巷弄中，有低消，份量比想像中的少，但有好吃！店員態度也不錯，店家佈置的很可愛～有剛好來這一帶且要吃早餐的話，可以吃🙂‍↕️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在巷弄中，有低消，份量比想像中的少，但有好吃！店員態度也不錯，店家佈置的很可愛～有剛好來這一帶且要吃早餐的話，可以吃🙂‍↕️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Catherine Chen",
+        "uri": "https://www.google.com/maps/contrib/114148563680651104916/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLUWtcTshV9ma4IlCankIBiB2LgW2aOiz-eg6G6k9vcAp2lmg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-17T03:46:45.817114938Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Kak5tZzFVamxuUjJnNGFFUmpkWEUxVFUxR1ExRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Kak5tZzFVamxuUjJnNGFFUmpkWEUxVFUxR1ExRRAB!2m1!1s0x3442a9e15f157a8f:0xbd353f1d06efd6e1"
+    },
+    {
+      "name": "places/ChIJj3oVX-GpQjQR4dbvBh0_Nb0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oTmRFWjRUVmxCUlZoRVNraGFaM0o2VVROd01rRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "25.12.10 周二早上9.\n\n距離捷運北門站約10分鐘的步行路程\n店內空間不大\n這個時間到大概七成滿\n從進門到拿到餐點大概在10分鐘以內\n\n📍《鬼椒起司肉蛋吐司(半熟)》$90 ⭐️4.3/5.0\n本身非常嗜辣\n看品名上的鬼椒預期可能得到不錯辣度的餐點\n但實際上完全不辣(對我來說\n不過這也是能理解\n吐司烤得微焦\n不會嗑口軟硬適中\n蛋的熟度就我而言堪稱完美\n肉片非常入味不死鹹\n整體而言很不錯\n\n📍《馬告雞蛋餅》$65 ⭐️3.7/5.0\n這是第一次嘗試粉漿蛋餅\n餅皮非常Q\n細細咀嚼能品到淡淡的甜味\n不過我本身比較偏好薄脆的餅皮\n因此比較不在我的取向範圍\n雞胸肉非常入味不乾柴\n第一次嘗試馬告挺衝擊的\n感覺有點像是香茅和檸檬草的合體\n不過我挺喜歡的\n\n📍《碳燒甘蔗鮮奶茶》 $55 ⭐️3.2/5.0\n甜度無法調整\n對我來說有點太甜了\n碳燒香氣明顯但不搶戲\n整體喝起來像仙草口味鮮奶茶\n\n📍《整體評分》⭐️4.2/5.0\n整體體驗不錯\n服務人員態度親切\n點餐上餐迅速俐落\n也會詢問是否加辣加蔥\n價格以台北物價算是中規中矩\n有機會會想再訪",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "25.12.10 周二早上9.\n\n距離捷運北門站約10分鐘的步行路程\n店內空間不大\n這個時間到大概七成滿\n從進門到拿到餐點大概在10分鐘以內\n\n📍《鬼椒起司肉蛋吐司(半熟)》$90 ⭐️4.3/5.0\n本身非常嗜辣\n看品名上的鬼椒預期可能得到不錯辣度的餐點\n但實際上完全不辣(對我來說\n不過這也是能理解\n吐司烤得微焦\n不會嗑口軟硬適中\n蛋的熟度就我而言堪稱完美\n肉片非常入味不死鹹\n整體而言很不錯\n\n📍《馬告雞蛋餅》$65 ⭐️3.7/5.0\n這是第一次嘗試粉漿蛋餅\n餅皮非常Q\n細細咀嚼能品到淡淡的甜味\n不過我本身比較偏好薄脆的餅皮\n因此比較不在我的取向範圍\n雞胸肉非常入味不乾柴\n第一次嘗試馬告挺衝擊的\n感覺有點像是香茅和檸檬草的合體\n不過我挺喜歡的\n\n📍《碳燒甘蔗鮮奶茶》 $55 ⭐️3.2/5.0\n甜度無法調整\n對我來說有點太甜了\n碳燒香氣明顯但不搶戲\n整體喝起來像仙草口味鮮奶茶\n\n📍《整體評分》⭐️4.2/5.0\n整體體驗不錯\n服務人員態度親切\n點餐上餐迅速俐落\n也會詢問是否加辣加蔥\n價格以台北物價算是中規中矩\n有機會會想再訪",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "金槍魚尾巴",
+        "uri": "https://www.google.com/maps/contrib/118112049109383949007/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGR-7JRfOgzP-8W-oknKTR6WL-pMVnD822-5tG7WuUx75ui-CH=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-10T01:19:18.303747275Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oTmRFWjRUVmxCUlZoRVNraGFaM0o2VVROd01rRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oTmRFWjRUVmxCUlZoRVNraGFaM0o2VVROd01rRRAB!2m1!1s0x3442a9e15f157a8f:0xbd353f1d06efd6e1"
+    },
+    {
+      "name": "places/ChIJj3oVX-GpQjQR4dbvBh0_Nb0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xscVJrRmljbGxxWjJnelJ6UmxjbWM1TVdKQ09YYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "The toast is excellent, crispy on the outside with juicy, flavorful meat inside — a high-quality and satisfying breakfast. The drinks are also good, nicely balanced and refreshing.\n\nThe shop is small with limited seating, but when I visited in the morning, it wasn’t crowded, so I could dine comfortably. Service was quick and polite.\n\nA nice little breakfast spot worth stopping by if you’re in the area.\n\n吐司非常好吃，外酥內軟、肉質多汁，整體水準很高。飲品也不錯，口味順口、搭配餐點剛剛好。\n\n店面不大、座位有限，但我早上造訪時人不多，用餐起來很舒適。服務速度快、態度也禮貌。\n\n整體而言是間值得推薦的早餐小店，經過時可以順路來一份美味吐司。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "The toast is excellent, crispy on the outside with juicy, flavorful meat inside — a high-quality and satisfying breakfast. The drinks are also good, nicely balanced and refreshing.\n\nThe shop is small with limited seating, but when I visited in the morning, it wasn’t crowded, so I could dine comfortably. Service was quick and polite.\n\nA nice little breakfast spot worth stopping by if you’re in the area.\n\n吐司非常好吃，外酥內軟、肉質多汁，整體水準很高。飲品也不錯，口味順口、搭配餐點剛剛好。\n\n店面不大、座位有限，但我早上造訪時人不多，用餐起來很舒適。服務速度快、態度也禮貌。\n\n整體而言是間值得推薦的早餐小店，經過時可以順路來一份美味吐司。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "ThianYong Chan",
+        "uri": "https://www.google.com/maps/contrib/107571008733873139797/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXDQC5RDEqvukF-QbXgsWfpwHa1FiIZBFkX6Mo8dbHeqgDW9F8=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-10-29T13:15:12.312362451Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xscVJrRmljbGxxWjJnelJ6UmxjbWM1TVdKQ09YYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xscVJrRmljbGxxWjJnelJ6UmxjbWM1TVdKQ09YYxAB!2m1!1s0x3442a9e15f157a8f:0xbd353f1d06efd6e1"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

@@ -1,0 +1,131 @@
+{
+  "id": "ChIJqREtagCrQjQRUA2olqckivo",
+  "types": [
+    "buffet_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "116台灣臺北市文山區興光里興隆路三段153號",
+  "location": {
+    "latitude": 24.9989141,
+    "longitude": 121.56140189999999
+  },
+  "rating": 4.5,
+  "websiteUri": "https://www.tpa.edu.tw/",
+  "userRatingCount": 177,
+  "displayName": {
+    "text": "會員制思源廳",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJqREtagCrQjQRUA2olqckivo/reviews/Ci9DQUlRQUNvZENodHljRjlvT201emRrNHpTVmd4ZHkxM1RsSjBSR1Y2WlhjNFVtYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐廳衛生好（沒有老鼠蟑螂）\n服務態度優良（沒有對顧客大小聲）\n價格便宜（有簽約會員的話可以免費吃）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐廳衛生好（沒有老鼠蟑螂）\n服務態度優良（沒有對顧客大小聲）\n價格便宜（有簽約會員的話可以免費吃）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林彥呈",
+        "uri": "https://www.google.com/maps/contrib/109004868046188032106/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWtBF5am19GqA4EIi7mVa7Eel-i5Li-b83Qkto5KwJbwOMTg5HD=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-03-05T13:51:18.689595641Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201emRrNHpTVmd4ZHkxM1RsSjBSR1Y2WlhjNFVtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201emRrNHpTVmd4ZHkxM1RsSjBSR1Y2WlhjNFVtYxAB!2m1!1s0x3442ab006a2d11a9:0xfa8a24a796a80d50"
+    },
+    {
+      "name": "places/ChIJqREtagCrQjQRUA2olqckivo/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Bd01ISkNiRk5HVG1jMVpIWnRUbWRoWm5oM1gzYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 1,
+      "text": {
+        "text": "朋友表示六顆星 才吃半年就讚不絕口 包含掉筷小獎勵還有長官的精神激勵 以及飯前的閉眼靜坐陶冶心靈 讓他得到很大的昇華 便秘也被治癒了",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "朋友表示六顆星 才吃半年就讚不絕口 包含掉筷小獎勵還有長官的精神激勵 以及飯前的閉眼靜坐陶冶心靈 讓他得到很大的昇華 便秘也被治癒了",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "蔡徐坤",
+        "uri": "https://www.google.com/maps/contrib/111662258682086186246/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW50NK3vCA56zVC8aod4QQzyYrZpLBrYHkKksKdfUgOPTO26zg=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-18T14:55:32.264242559Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Bd01ISkNiRk5HVG1jMVpIWnRUbWRoWm5oM1gzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Bd01ISkNiRk5HVG1jMVpIWnRUbWRoWm5oM1gzYxAB!2m1!1s0x3442ab006a2d11a9:0xfa8a24a796a80d50"
+    },
+    {
+      "name": "places/ChIJqREtagCrQjQRUA2olqckivo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toU1pXVnVRMDlWUnpCMWNUTm1aWEpCVm5aRmMyYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點五花八門有時候還會有特餐\n服務生還是穿著整齊制服為您服務",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點五花八門有時候還會有特餐\n服務生還是穿著整齊制服為您服務",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "justin wu",
+        "uri": "https://www.google.com/maps/contrib/113169502373798468545/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVax9DK7CbvoWijaKmpQ9bn1qPu_ngZ-0IUxaOAuRZ1nqZzu5eR=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-04T03:19:25.305559025Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toU1pXVnVRMDlWUnpCMWNUTm1aWEpCVm5aRmMyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toU1pXVnVRMDlWUnpCMWNUTm1aWEpCVm5aRmMyYxAB!2m1!1s0x3442ab006a2d11a9:0xfa8a24a796a80d50"
+    },
+    {
+      "name": "places/ChIJqREtagCrQjQRUA2olqckivo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21RelNVbE9ZalV5VjFBM1MyOVdlbE5EWm1Od1ZHYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "燈光美，氣氛佳，一開始進去吃的時候會有強制1／2板凳和閉眼肅座，裡面的人也很熱情會有撥手的肢體接觸，是如此的讓人心跳加速，手被撥掉還有意想不到的獎勵！！！一起和幾千人一起有大家庭溫馨的感覺",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "燈光美，氣氛佳，一開始進去吃的時候會有強制1／2板凳和閉眼肅座，裡面的人也很熱情會有撥手的肢體接觸，是如此的讓人心跳加速，手被撥掉還有意想不到的獎勵！！！一起和幾千人一起有大家庭溫馨的感覺",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Garlic",
+        "uri": "https://www.google.com/maps/contrib/105186852091282006232/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXI3DNzNb73DWR0--fAfOSJqIUP-aOu6bzs0AXs2wwSx30XoGYW=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-09-18T02:29:39.645329165Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21RelNVbE9ZalV5VjFBM1MyOVdlbE5EWm1Od1ZHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21RelNVbE9ZalV5VjFBM1MyOVdlbE5EWm1Od1ZHYxAB!2m1!1s0x3442ab006a2d11a9:0xfa8a24a796a80d50"
+    },
+    {
+      "name": "places/ChIJqREtagCrQjQRUA2olqckivo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkYU9WSnRlREJFTm1KbFIwZFVhVEpCTUhZMmJGRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "在台北沒看過那麼多便宜又好吃的食物…\n服務員也很熱心餐點製作速度很快👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在台北沒看過那麼多便宜又好吃的食物…\n服務員也很熱心餐點製作速度很快👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "少羽",
+        "uri": "https://www.google.com/maps/contrib/114536516563743746331/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW7JrLNfbncGKjSUHtelPHGLjjJ0cSUqPXr0EBgC4mjzuZWsZSWmw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-10-20T03:41:10.530486786Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkYU9WSnRlREJFTm1KbFIwZFVhVEpCTUhZMmJGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkYU9WSnRlREJFTm1KbFIwZFVhVEpCTUhZMmJGRRAB!2m1!1s0x3442ab006a2d11a9:0xfa8a24a796a80d50"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

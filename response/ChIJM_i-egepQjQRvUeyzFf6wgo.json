@@ -1,0 +1,135 @@
+﻿{
+    "id":  "ChIJM_i-egepQjQRvUeyzFf6wgo",
+    "types":  [
+                  "brunch_restaurant",
+                  "bistro",
+                  "pub",
+                  "bar",
+                  "food_store",
+                  "store",
+                  "restaurant",
+                  "point_of_interest",
+                  "food",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2394 0070",
+    "formattedAddress":  "100台灣臺北市中正區梅花里金山北路1號1樓",
+    "location":  {
+                     "latitude":  25.044132599999998,
+                     "longitude":  121.5304059
+                 },
+    "rating":  4.7,
+    "websiteUri":  "https://inline.app/booking/-OTz1ePPP8SH7FpijK28:inline-live-3/-OTz1eYc8IZeled5UZTe?fbclid=PAQ0xDSwL9agRleHRuA2FlbQIxMQABpzLaNHZhSHAH1cozMsPEA_1VMTqjPFLjtW0DIAQuy7lJp5JRIA85Gz5-Xy0K_aem_qyX-ntZLVs2MTTEFLYJ8Nw",
+    "userRatingCount":  633,
+    "displayName":  {
+                        "text":  "酣然",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJM_i-egepQjQRvUeyzFf6wgo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sTVRVUnVibE5ZWDBGWVF6QTFRVGxmUVhkV2FIYxAB",
+                        "relativePublishTimeDescription":  "6 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "剛好住對面旅館。滑谷歌地圖滑到，看起來不錯，立馬預約訂位\n點了好幾道菜都無雷！！！！軟殼蟹燉飯超好吃！炸的很酥脆，沒有油膩感，燉飯帶有酸香味，幾人直接完食！餐點搭配的配菜-馬鈴薯泥超好吃！帶有淡淡的奶油香氣，很綿密順口！珠貝義大利麵也很濃郁，麵派的人，一定會愛這道菜！\n調酒類幾乎無雷！個個好看又好喝！\n女店員超美超正，拍照技術也超強超專業🤣店員每個都人超好\n超級大推耶！！！",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "剛好住對面旅館。滑谷歌地圖滑到，看起來不錯，立馬預約訂位\n點了好幾道菜都無雷！！！！軟殼蟹燉飯超好吃！炸的很酥脆，沒有油膩感，燉飯帶有酸香味，幾人直接完食！餐點搭配的配菜-馬鈴薯泥超好吃！帶有淡淡的奶油香氣，很綿密順口！珠貝義大利麵也很濃郁，麵派的人，一定會愛這道菜！\n調酒類幾乎無雷！個個好看又好喝！\n女店員超美超正，拍照技術也超強超專業🤣店員每個都人超好\n超級大推耶！！！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "小花何",
+                                                  "uri":  "https://www.google.com/maps/contrib/111615254145119417876/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVF93IylmPtustbcXHGm5D74vwo-WcGYylIsdgPZR-C5G0qMpYp=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2025-11-24T12:52:46.916824569Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sTVRVUnVibE5ZWDBGWVF6QTFRVGxmUVhkV2FIYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sTVRVUnVibE5ZWDBGWVF6QTFRVGxmUVhkV2FIYxAB!2m1!1s0x3442a9077abef833:0xac2fa57ccb247bd"
+                    },
+                    {
+                        "name":  "places/ChIJM_i-egepQjQRvUeyzFf6wgo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toeVQzTnpNRVIxYTJaQlJ6YzBWMkp6VFZjM2FuYxAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "餐點不是只有好看而已\n口味上也吃得出有用心\n感覺走得是創意料理的風格\n但融合得也非常好 很合台灣人的口味\n下次會再訪",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "餐點不是只有好看而已\n口味上也吃得出有用心\n感覺走得是創意料理的風格\n但融合得也非常好 很合台灣人的口味\n下次會再訪",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "蒼井ひじり",
+                                                  "uri":  "https://www.google.com/maps/contrib/102983357663499436716/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjW3iXnZMBqpxxYVhB8xkb3Df2WquW-Va5TlzXCWr1-T37-TfnA4=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-12-05T14:11:52.270339527Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toeVQzTnpNRVIxYTJaQlJ6YzBWMkp6VFZjM2FuYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toeVQzTnpNRVIxYTJaQlJ6YzBWMkp6VFZjM2FuYxAB!2m1!1s0x3442a9077abef833:0xac2fa57ccb247bd"
+                    },
+                    {
+                        "name":  "places/ChIJM_i-egepQjQRvUeyzFf6wgo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5TlltSjBUMUJCYlhFM1NXeE1PRE5JWVhSVWVIYxAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "假日每人低消500元\n消門檻設置的有點高\n等於1個人一定要吃正餐加其他食物或飲料\n對於食量不大的女生有點不友善\n位子剛好被安排在2樓廁所附近\n一直聞到煙味才發現原來設有吸煙區\n雖然有自動門作為出入（上下都有縫隙）\n但是煙味一直飄進來\n不喜歡煙味的人要特地選座位告知店員\n個人覺得味道非常臭😣\n食物好吃都無雷\n炸物炸的酥脆肉還是很嫩大推！\n但服務普普通通整體偏冷漠\n價格偏高但願意回訪\n今日餐點如下：\n食用開心果奶蓋\n椰香抹茶奶蓋\n西西里咖啡\n義式綜合炸海鮮\n松露綜合野菇燉飯\n蒜味奶油蛤蜊麵\n柚子和風雞腿塊",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "假日每人低消500元\n消門檻設置的有點高\n等於1個人一定要吃正餐加其他食物或飲料\n對於食量不大的女生有點不友善\n位子剛好被安排在2樓廁所附近\n一直聞到煙味才發現原來設有吸煙區\n雖然有自動門作為出入（上下都有縫隙）\n但是煙味一直飄進來\n不喜歡煙味的人要特地選座位告知店員\n個人覺得味道非常臭😣\n食物好吃都無雷\n炸物炸的酥脆肉還是很嫩大推！\n但服務普普通通整體偏冷漠\n價格偏高但願意回訪\n今日餐點如下：\n食用開心果奶蓋\n椰香抹茶奶蓋\n西西里咖啡\n義式綜合炸海鮮\n松露綜合野菇燉飯\n蒜味奶油蛤蜊麵\n柚子和風雞腿塊",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Abby",
+                                                  "uri":  "https://www.google.com/maps/contrib/111411267636504914506/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWghoFsScSjx-snXw1G-cGgJ_TPT3-M1kSwV1NsdDTHIYWLXV6J=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2025-12-28T09:05:12.451342022Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5TlltSjBUMUJCYlhFM1NXeE1PRE5JWVhSVWVIYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5TlltSjBUMUJCYlhFM1NXeE1PRE5JWVhSVWVIYxAB!2m1!1s0x3442a9077abef833:0xac2fa57ccb247bd"
+                    },
+                    {
+                        "name":  "places/ChIJM_i-egepQjQRvUeyzFf6wgo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1MVkzZGxWMTlpVG5kclkzRkJjblJsVWpkRFpuYxAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "氛圍很棒、調酒不錯、食物好吃但份量和價格對比起來價格偏中高\n小缺點是遇到一個沒有靈魂的服務人員，問他某道菜的內容是什麼，一副「你是白癡嗎？就是那樣啊有什麼好問的」的樣子",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "氛圍很棒、調酒不錯、食物好吃但份量和價格對比起來價格偏中高\n小缺點是遇到一個沒有靈魂的服務人員，問他某道菜的內容是什麼，一副「你是白癡嗎？就是那樣啊有什麼好問的」的樣子",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Stefani Lee",
+                                                  "uri":  "https://www.google.com/maps/contrib/108965218970865776811/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjU5VpBsMmnv7J4lhaGoVNcPKsyUIVGO3CcwyxcDfRCHf4XgqZAdlQ=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2026-01-19T03:43:16.803594788Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1MVkzZGxWMTlpVG5kclkzRkJjblJsVWpkRFpuYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1MVkzZGxWMTlpVG5kclkzRkJjblJsVWpkRFpuYxAB!2m1!1s0x3442a9077abef833:0xac2fa57ccb247bd"
+                    },
+                    {
+                        "name":  "places/ChIJM_i-egepQjQRvUeyzFf6wgo/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wS2QyNUVYM0pDZVROUWQxQlVNSGxPWjFNd1VGRRAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "餐點不錯，份量蠻多ㄉ，生菜沙拉鮮脆、牛肉鮮嫩不柴、滑蛋也很嫩口，可惜美式咖啡苦澀了點沒有香氣，佈置空間讓人很舒適放鬆，店員有點厭世感，比較沒有那麼親切，可以稍微熱情一點會更好～",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "餐點不錯，份量蠻多ㄉ，生菜沙拉鮮脆、牛肉鮮嫩不柴、滑蛋也很嫩口，可惜美式咖啡苦澀了點沒有香氣，佈置空間讓人很舒適放鬆，店員有點厭世感，比較沒有那麼親切，可以稍微熱情一點會更好～",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Ayu A",
+                                                  "uri":  "https://www.google.com/maps/contrib/105913626855175562263/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUW7cCF21FK0kzuxDnNgiigBvHE-6iQrV_bGzWHeQpHKdpo_PcnOQ=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2026-02-12T15:09:20.894253572Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wS2QyNUVYM0pDZVROUWQxQlVNSGxPWjFNd1VGRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wS2QyNUVYM0pDZVROUWQxQlVNSGxPWjFNd1VGRRAB!2m1!1s0x3442a9077abef833:0xac2fa57ccb247bd"
+                    }
+                ]
+}

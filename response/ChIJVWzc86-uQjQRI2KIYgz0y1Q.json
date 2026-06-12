@@ -1,0 +1,132 @@
+﻿{
+    "id":  "ChIJVWzc86-uQjQRI2KIYgz0y1Q",
+    "types":  [
+                  "coffee_shop",
+                  "cafe",
+                  "food_store",
+                  "food",
+                  "store",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 921 954 156",
+    "formattedAddress":  "111台灣臺北市士林區仁勇里文林路110巷13號",
+    "location":  {
+                     "latitude":  25.0878427,
+                     "longitude":  121.5266625
+                 },
+    "rating":  4.8,
+    "websiteUri":  "https://reurl.cc/vWzg4A?fbclid=PAAaYwcjB91a-hQLfTuEyYdW9qz0RAr8gpRhMswdaTVll4dRaKSXmxobyiPYQ",
+    "userRatingCount":  772,
+    "displayName":  {
+                        "text":  "藍儂說",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJVWzc86-uQjQRI2KIYgz0y1Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5UU4xQkRUMGRqVjBwTmRXODViR2xSY3pjNVQyYxAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "是常常會想念的味道，黑糖拿鐵真的好好喝🤎🤍",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "是常常會想念的味道，黑糖拿鐵真的好好喝🤎🤍",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Charli Bobolici",
+                                                  "uri":  "https://www.google.com/maps/contrib/110908814065787019237/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocKoefV4zALPttW_DVKflsJExFPOvC_NDQL28sRwtuU9F7bSig=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2026-02-11T22:35:09.539456855Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5UU4xQkRUMGRqVjBwTmRXODViR2xSY3pjNVQyYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5UU4xQkRUMGRqVjBwTmRXODViR2xSY3pjNVQyYxAB!2m1!1s0x3442aeaff3dc6c55:0x54cbf40c62886223"
+                    },
+                    {
+                        "name":  "places/ChIJVWzc86-uQjQRI2KIYgz0y1Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Ka1dGVTBaVVpoVXpoaFYwWTFjVmhFUW5aV1VsRRAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "從學生時期喝到嫁人，已經13年！！！每次回娘家一定會來喝，真的好愛好愛這裡的黑糖牛奶和黑糖拿鐵，別的地方喝不到這個味道🤤🤤",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "從學生時期喝到嫁人，已經13年！！！每次回娘家一定會來喝，真的好愛好愛這裡的黑糖牛奶和黑糖拿鐵，別的地方喝不到這個味道🤤🤤",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Carol Yang",
+                                                  "uri":  "https://www.google.com/maps/contrib/115920606015875350313/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUbyAIEmNeg_tta3yX4GuLzWGbs-Tv3OnpXIkd4m74h8xbH56be=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2026-01-15T11:44:11.633673110Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Ka1dGVTBaVVpoVXpoaFYwWTFjVmhFUW5aV1VsRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Ka1dGVTBaVVpoVXpoaFYwWTFjVmhFUW5aV1VsRRAB!2m1!1s0x3442aeaff3dc6c55:0x54cbf40c62886223"
+                    },
+                    {
+                        "name":  "places/ChIJVWzc86-uQjQRI2KIYgz0y1Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Kc2MzTm1PVmd4VEhoaFJURmxjRWRZWkhGdVdXYxAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "每次來士林夜市一定會來喝\n從高中喝到現在\n黑糖鮮奶真的是超棒超好喝\n尤其是現場喝還可以再續黑糖\n最喜歡看老闆邊轉杯子邊加黑糖）？",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "每次來士林夜市一定會來喝\n從高中喝到現在\n黑糖鮮奶真的是超棒超好喝\n尤其是現場喝還可以再續黑糖\n最喜歡看老闆邊轉杯子邊加黑糖）？",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "吃喝玩樂鬧個不停",
+                                                  "uri":  "https://www.google.com/maps/contrib/104990911992448560102/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWflgnkMrLBnuuHVSJbUPPwjU_zlfBAYVSb8XVu1k3fsqdGS38=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2026-02-09T16:22:31.482161515Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Kc2MzTm1PVmd4VEhoaFJURmxjRWRZWkhGdVdXYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Kc2MzTm1PVmd4VEhoaFJURmxjRWRZWkhGdVdXYxAB!2m1!1s0x3442aeaff3dc6c55:0x54cbf40c62886223"
+                    },
+                    {
+                        "name":  "places/ChIJVWzc86-uQjQRI2KIYgz0y1Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pNMGMzRnVUSGM0TUhObWFrNWthREJvV0hCVk1HYxAB",
+                        "relativePublishTimeDescription":  "8 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "我的士林必比登名單😂。\n喜歡喝咖啡的或是剛開始接觸咖啡的朋友都推薦👍🏻。\n招牌黑糖拿鐵真的好好喝，黑糖不夠可以再續加，加爆那種🥰。\n老闆是一位音樂人，本身有在玩樂團，又愛咖啡。店雖然不大，偏向外帶店，但真的很有氛圍感。老闆也很健談，是一個去一次就會喜歡的店🩵。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "我的士林必比登名單😂。\n喜歡喝咖啡的或是剛開始接觸咖啡的朋友都推薦👍🏻。\n招牌黑糖拿鐵真的好好喝，黑糖不夠可以再續加，加爆那種🥰。\n老闆是一位音樂人，本身有在玩樂團，又愛咖啡。店雖然不大，偏向外帶店，但真的很有氛圍感。老闆也很健談，是一個去一次就會喜歡的店🩵。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Ryan Lin",
+                                                  "uri":  "https://www.google.com/maps/contrib/100679519150051232209/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWEkS2maFiQXjkEUYi8Pgbla_fdCsF5fBbYZ9346lrqyqGfwE48=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2025-09-12T13:08:21.226256725Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pNMGMzRnVUSGM0TUhObWFrNWthREJvV0hCVk1HYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pNMGMzRnVUSGM0TUhObWFrNWthREJvV0hCVk1HYxAB!2m1!1s0x3442aeaff3dc6c55:0x54cbf40c62886223"
+                    },
+                    {
+                        "name":  "places/ChIJVWzc86-uQjQRI2KIYgz0y1Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GRGJUVlliMk5IWDFBNFpURnVjM05HZFVweVZtYxAB",
+                        "relativePublishTimeDescription":  "8 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "香濃好喝的黑糖拿鐵$100\n建議附木質攪拌棒或湯匙\n不然會浪費了杯底的黑糖",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "香濃好喝的黑糖拿鐵$100\n建議附木質攪拌棒或湯匙\n不然會浪費了杯底的黑糖",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Yilin Chu",
+                                                  "uri":  "https://www.google.com/maps/contrib/113311136938479469427/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVie_wHAynlOLHP8-t0UVExpmhuXO055WhVtNgHa0YJyfluYSNs=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-09-05T17:00:32.040551939Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GRGJUVlliMk5IWDFBNFpURnVjM05HZFVweVZtYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GRGJUVlliMk5IWDFBNFpURnVjM05HZFVweVZtYxAB!2m1!1s0x3442aeaff3dc6c55:0x54cbf40c62886223"
+                    }
+                ]
+}

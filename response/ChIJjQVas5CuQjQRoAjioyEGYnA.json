@@ -1,0 +1,137 @@
+{
+  "id": "ChIJjQVas5CuQjQRoAjioyEGYnA",
+  "types": [
+    "brunch_restaurant",
+    "coffee_shop",
+    "cafe",
+    "italian_restaurant",
+    "food_store",
+    "restaurant",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2834 1668",
+  "formattedAddress": "111台灣台北市士林区德行里中山北路六段77號5F",
+  "location": {
+    "latitude": 25.105306,
+    "longitude": 121.52459429999999
+  },
+  "rating": 4.1,
+  "websiteUri": "https://www.facebook.com/%E5%A4%A9%E6%AF%8Domocaf%C3%A9-303954116805736/?ref=bookmarks",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 966,
+  "displayName": {
+    "text": "天母omocafe 早午餐｜義大利麵｜下午茶",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJjQVas5CuQjQRoAjioyEGYnA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kSFpHMU9XVWMwYWtvdE5GUk5jVEJ6YlV3eWNIYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐廳在5F的角落裡，早午餐有全天候供應，盤子裏有生菜沙拉，炒蛋，鮭魚，可頌麵包和薯塊，還有優格，種類頗豐富，剛好坐在窗邊，夜晚天母的街道，寧靜中的繁華．．．．！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐廳在5F的角落裡，早午餐有全天候供應，盤子裏有生菜沙拉，炒蛋，鮭魚，可頌麵包和薯塊，還有優格，種類頗豐富，剛好坐在窗邊，夜晚天母的街道，寧靜中的繁華．．．．！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "水水",
+        "uri": "https://www.google.com/maps/contrib/100338572678216552813/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBVdPqiyUzYpOxfiV1aGJiQgUnvEpXYYtiAXQC9651jXLP0wY=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-23T15:50:03.030250757Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kSFpHMU9XVWMwYWtvdE5GUk5jVEJ6YlV3eWNIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kSFpHMU9XVWMwYWtvdE5GUk5jVEJ6YlV3eWNIYxAB!2m1!1s0x3442ae90b35a058d:0x70620621a3e208a0"
+    },
+    {
+      "name": "places/ChIJjQVas5CuQjQRoAjioyEGYnA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GRFpYVlFkbDlEVjNOdk56aDJkbXM0TW1ZeWEwRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "第二次來此店享用，在天母Sogo5樓，適合跟朋友聚會，餐點還OK, 但這次點西班牙燉飯，份量偏少一點，女生一個人吃是剛好。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第二次來此店享用，在天母Sogo5樓，適合跟朋友聚會，餐點還OK, 但這次點西班牙燉飯，份量偏少一點，女生一個人吃是剛好。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "温慧至",
+        "uri": "https://www.google.com/maps/contrib/114859178166822991085/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK2J7yquOaED6_60CzPD6qy18H7f31KFeJjMdclz-cVBB8TbA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-14T21:58:06.718166671Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GRFpYVlFkbDlEVjNOdk56aDJkbXM0TW1ZeWEwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GRFpYVlFkbDlEVjNOdk56aDJkbXM0TW1ZeWEwRRAB!2m1!1s0x3442ae90b35a058d:0x70620621a3e208a0"
+    },
+    {
+      "name": "places/ChIJjQVas5CuQjQRoAjioyEGYnA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21rMU5XOVBWbVZRUnkxTE1VRTVaSEJ1UkRoaGJYYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 1,
+      "text": {
+        "text": "先到先點餐客人等比較久 還有收服務費很不值得 有雞腿排也沒給刀切，有優格也沒給湯匙",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "先到先點餐客人等比較久 還有收服務費很不值得 有雞腿排也沒給刀切，有優格也沒給湯匙",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "米娜",
+        "uri": "https://www.google.com/maps/contrib/100058781668580059290/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVF4AaFOy01Iz7asO3UwFYj9nzww26FB7mEhIVAhgsB8KzP27vxDA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-08T02:02:08.215987930Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21rMU5XOVBWbVZRUnkxTE1VRTVaSEJ1UkRoaGJYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21rMU5XOVBWbVZRUnkxTE1VRTVaSEJ1UkRoaGJYYxAB!2m1!1s0x3442ae90b35a058d:0x70620621a3e208a0"
+    },
+    {
+      "name": "places/ChIJjQVas5CuQjQRoAjioyEGYnA/reviews/Ci9DQUlRQUNvZENodHljRjlvT201emIwVTFRVm94TVV0dVVHWk5UM05TU25SeVRHYxAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 4,
+      "text": {
+        "text": "位於百貨的5樓，在運動服飾愛迪達旁，因為門面有點內縮，所以要稍微找一下，進餐廳後，採光非常好，可惜無法被安排在窗邊，整體餐點採精緻型態，有單點也有加價升級套餐等，$120-310不等，餐點皆須加10%服務費！有義大利麵食、早午餐盤餐、烤飯（燉飯口感）、鐵鍋鬆餅、主廚甜點等，選擇蠻多樣性的！用餐價格算是中高！但餐點也不錯吃就是了！但以烤飯而言，覺得量偏少，其他餐點，由於不是自己食用的，較無法特別評論！\n冰磚咖啡造型可愛，咖啡磚是咖啡豆造型，外加1瓶牛奶再調製！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "位於百貨的5樓，在運動服飾愛迪達旁，因為門面有點內縮，所以要稍微找一下，進餐廳後，採光非常好，可惜無法被安排在窗邊，整體餐點採精緻型態，有單點也有加價升級套餐等，$120-310不等，餐點皆須加10%服務費！有義大利麵食、早午餐盤餐、烤飯（燉飯口感）、鐵鍋鬆餅、主廚甜點等，選擇蠻多樣性的！用餐價格算是中高！但餐點也不錯吃就是了！但以烤飯而言，覺得量偏少，其他餐點，由於不是自己食用的，較無法特別評論！\n冰磚咖啡造型可愛，咖啡磚是咖啡豆造型，外加1瓶牛奶再調製！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳家慧",
+        "uri": "https://www.google.com/maps/contrib/107600891412432213752/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIszDNWdvQ_cxVQBSF0OmPgm58QsVZnZQfH65PFimpUwjITjA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-07-27T10:48:38.745922204Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201emIwVTFRVm94TVV0dVVHWk5UM05TU25SeVRHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201emIwVTFRVm94TVV0dVVHWk5UM05TU25SeVRHYxAB!2m1!1s0x3442ae90b35a058d:0x70620621a3e208a0"
+    },
+    {
+      "name": "places/ChIJjQVas5CuQjQRoAjioyEGYnA/reviews/Ci9DQUlRQUNvZENodHljRjlvT25FeU1tNXJURFpMUWxNM1psVnVVek0xZDB4bFNuYxAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點味道滿好吃的，套餐的份量也很足，只是當天好像冰箱壞了，沒有冰淇淋，所以甜點少了冰淇淋，但是有額外給折扣補償！\n有很大一片落地窗可以看外面的風景，只是白天的風景好像沒什麼可看性😅\n服務人員態度很好，讚讚👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點味道滿好吃的，套餐的份量也很足，只是當天好像冰箱壞了，沒有冰淇淋，所以甜點少了冰淇淋，但是有額外給折扣補償！\n有很大一片落地窗可以看外面的風景，只是白天的風景好像沒什麼可看性😅\n服務人員態度很好，讚讚👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "0.0",
+        "uri": "https://www.google.com/maps/contrib/116844193246992125310/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVM6CpDieUIfs1Xuu5Jjpc-swGhx5RgdpO1s-3GVc1NEPubRSOmnA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-07-01T06:56:47.099391736Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25FeU1tNXJURFpMUWxNM1psVnVVek0xZDB4bFNuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25FeU1tNXJURFpMUWxNM1psVnVVek0xZDB4bFNuYxAB!2m1!1s0x3442ae90b35a058d:0x70620621a3e208a0"
+    }
+  ],
+  "goodForChildren": true
+}

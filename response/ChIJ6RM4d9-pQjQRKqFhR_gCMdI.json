@@ -1,0 +1,131 @@
+{
+  "id": "ChIJ6RM4d9-pQjQRKqFhR_gCMdI",
+  "types": [
+    "italian_restaurant",
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2522 3306",
+  "formattedAddress": "10444台灣臺北市中山區民安里南京西路14號3樓",
+  "location": {
+    "latitude": 25.0520994,
+    "longitude": 121.5206475
+  },
+  "rating": 4.7,
+  "websiteUri": "https://www.morepasta.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 3011,
+  "displayName": {
+    "text": "默爾 pasta pizza(台北誠品南西店)",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ6RM4d9-pQjQRKqFhR_gCMdI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0T01XVjROV3RQYlRkcFJHRm1TM1prWWtwNlNXYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "環境舒服、氣氛很加分\n餐點走精緻路線\n義大利麵醬香很濃\n麵體Q度剛好\n披薩是薄脆型越吃越涮嘴\n適合慢慢吃、慢慢聊的那種店\n會想再回訪",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境舒服、氣氛很加分\n餐點走精緻路線\n義大利麵醬香很濃\n麵體Q度剛好\n披薩是薄脆型越吃越涮嘴\n適合慢慢吃、慢慢聊的那種店\n會想再回訪",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "T. Z",
+        "uri": "https://www.google.com/maps/contrib/110253472850071266287/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUF7b2YG97_3RQ-LHEKWtcLCrQcu6wgklyEjUol43pHD-F_08nQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-17T23:08:40.183553507Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0T01XVjROV3RQYlRkcFJHRm1TM1prWWtwNlNXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0T01XVjROV3RQYlRkcFJHRm1TM1prWWtwNlNXYxAB!2m1!1s0x3442a9df773813e9:0xd23102f84761a12a"
+    },
+    {
+      "name": "places/ChIJ6RM4d9-pQjQRKqFhR_gCMdI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOVWFHMUtSbmw1VmpSMWRXTlZOamxMVkd0YU1uYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "因為套餐的設定不是我們偏愛的，就單點，點了跟套餐差不多錢。牛肉吃起來有點奇怪的味道，但青醬義大利麵很好吃。不限時可以聊很久。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "因為套餐的設定不是我們偏愛的，就單點，點了跟套餐差不多錢。牛肉吃起來有點奇怪的味道，但青醬義大利麵很好吃。不限時可以聊很久。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Suzanne Ho",
+        "uri": "https://www.google.com/maps/contrib/107322474330929625861/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVTKacSZdxzwuHs4zH-fWR9n7mMFIZNOJT44tK2eUsw0cUlHQNs=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-27T02:53:38.853846487Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOVWFHMUtSbmw1VmpSMWRXTlZOamxMVkd0YU1uYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOVWFHMUtSbmw1VmpSMWRXTlZOamxMVkd0YU1uYxAB!2m1!1s0x3442a9df773813e9:0xd23102f84761a12a"
+    },
+    {
+      "name": "places/ChIJ6RM4d9-pQjQRKqFhR_gCMdI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ac1NrTTJUMXBCVVhWSlRVUlhRV1UwVXpaWFYxRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 3,
+      "text": {
+        "text": "中規中矩，點一份義大利麵會有一個麵包（烤得蠻好吃的趁熱吃的時候，但附上的醬還好）培根是厚厚切丁的那種，咬起來很有嚼勁。算比較不膩的白醬，溫泉蛋拌開來之後也蠻好吃的。麵可以選要硬還是軟，我選硬我覺得是好吃的硬小麥義大利麵！可以掃描桌上QR code加ocard 會員，入會禮一杯飲料蠻划算的！（可樂/雪碧/蜜茶/紅茶擇一\n\n紅茶有蜜桃香，沒準備好的話會突然被打個措手不及😂",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "中規中矩，點一份義大利麵會有一個麵包（烤得蠻好吃的趁熱吃的時候，但附上的醬還好）培根是厚厚切丁的那種，咬起來很有嚼勁。算比較不膩的白醬，溫泉蛋拌開來之後也蠻好吃的。麵可以選要硬還是軟，我選硬我覺得是好吃的硬小麥義大利麵！可以掃描桌上QR code加ocard 會員，入會禮一杯飲料蠻划算的！（可樂/雪碧/蜜茶/紅茶擇一\n\n紅茶有蜜桃香，沒準備好的話會突然被打個措手不及😂",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張裴書",
+        "uri": "https://www.google.com/maps/contrib/116693475635404017148/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXgRke9EiqVc3UCa22WiSYzWgsFxr_0VKIJOAMpkOILuePdrA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-03-02T12:12:45.204531821Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25ac1NrTTJUMXBCVVhWSlRVUlhRV1UwVXpaWFYxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ac1NrTTJUMXBCVVhWSlRVUlhRV1UwVXpaWFYxRRAB!2m1!1s0x3442a9df773813e9:0xd23102f84761a12a"
+    },
+    {
+      "name": "places/ChIJ6RM4d9-pQjQRKqFhR_gCMdI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xVNWFIUnhNek5wYXpCSGJ6RmhjbEpaVHpVMlJYYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "東西滿好吃，隨便點三樣都很好吃\n飯麵份量對我來說算正常大小，不需另外加麵，男生的話可能需要\n披薩有雙拼口味讚讚",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "東西滿好吃，隨便點三樣都很好吃\n飯麵份量對我來說算正常大小，不需另外加麵，男生的話可能需要\n披薩有雙拼口味讚讚",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Xinya Ke",
+        "uri": "https://www.google.com/maps/contrib/109335487322894102025/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJm5zp19JiTXY4na69cr0C7MsX43yhdhlCGzF5Ek1SNhk53_coH=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-11-22T04:30:38.091028113Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xVNWFIUnhNek5wYXpCSGJ6RmhjbEpaVHpVMlJYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xVNWFIUnhNek5wYXpCSGJ6RmhjbEpaVHpVMlJYYxAB!2m1!1s0x3442a9df773813e9:0xd23102f84761a12a"
+    },
+    {
+      "name": "places/ChIJ6RM4d9-pQjQRKqFhR_gCMdI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aUlRreHRNa2hXYTNGMGFrTm9kWEo2YmtaWlZHYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 3,
+      "text": {
+        "text": "誠品南西店內的義大利麵店，環境十分寬闊舒適，很適合與同事、朋友來聚會😁\n\n---------------- 餐點介紹 ----------------\n🍝 松露蘑菇雞肉奶油義大利麵 $420\n只能說今天的義大利麵燉飯系列真的超級鹹...我們8個同事一起來吃，每個人都覺得自己點很鹹😂甚至有一位同事加了半杯水進去才覺得鹹度比較剛好...\n撇除鹹度的部分，松露的香氣與雞肉的口感都非常不錯，奶香味濃郁~\n\n🍕 那不勒斯漁夫海鮮披薩 $520\n個人覺得很普通，且蝦子看起來跟菜單上的樣子差蠻多的，一份要$520有點小貴，吃完後反而覺得經典瑪格麗特披薩比較好吃😂\n\n🍕 經典瑪格麗特披薩 $345\n這份大概是今晚最喜歡的一道，莫札瑞拉起司放的很足，一口咬下去牽絲的起司奶味十足，搭配適當紅醬，簡單又美味❤️\n\n🍗 明太子義式香料炸雞 $305\n炸雞份量偏少，但外皮酥脆、肉質軟嫩多汁，沾上香濃的明太子醬，做為一份開胃小點還不錯!!\n\n🫓 法式小圓法麵包\n此為義大利麵附餐送的麵包，外皮烤得酥脆，裡面的麵包體鬆軟，塗上附的大蒜奶油醬，難得吃到這麼好吃的附餐麵包✨\n\n------------------------------------------------\n整體來說炸雞、麵包、瑪格莉特披薩都很不錯，但單價較高的主食如義大利麵、燉飯都太鹹，那不勒斯漁夫海鮮披薩個人則是覺得很普通...只能說有點小失望😅\n\n(2025.08.13到訪)",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "誠品南西店內的義大利麵店，環境十分寬闊舒適，很適合與同事、朋友來聚會😁\n\n---------------- 餐點介紹 ----------------\n🍝 松露蘑菇雞肉奶油義大利麵 $420\n只能說今天的義大利麵燉飯系列真的超級鹹...我們8個同事一起來吃，每個人都覺得自己點很鹹😂甚至有一位同事加了半杯水進去才覺得鹹度比較剛好...\n撇除鹹度的部分，松露的香氣與雞肉的口感都非常不錯，奶香味濃郁~\n\n🍕 那不勒斯漁夫海鮮披薩 $520\n個人覺得很普通，且蝦子看起來跟菜單上的樣子差蠻多的，一份要$520有點小貴，吃完後反而覺得經典瑪格麗特披薩比較好吃😂\n\n🍕 經典瑪格麗特披薩 $345\n這份大概是今晚最喜歡的一道，莫札瑞拉起司放的很足，一口咬下去牽絲的起司奶味十足，搭配適當紅醬，簡單又美味❤️\n\n🍗 明太子義式香料炸雞 $305\n炸雞份量偏少，但外皮酥脆、肉質軟嫩多汁，沾上香濃的明太子醬，做為一份開胃小點還不錯!!\n\n🫓 法式小圓法麵包\n此為義大利麵附餐送的麵包，外皮烤得酥脆，裡面的麵包體鬆軟，塗上附的大蒜奶油醬，難得吃到這麼好吃的附餐麵包✨\n\n------------------------------------------------\n整體來說炸雞、麵包、瑪格莉特披薩都很不錯，但單價較高的主食如義大利麵、燉飯都太鹹，那不勒斯漁夫海鮮披薩個人則是覺得很普通...只能說有點小失望😅\n\n(2025.08.13到訪)",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Mochi糬糬小日子",
+        "uri": "https://www.google.com/maps/contrib/117842788043906129675/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6t758FQLtBRISIOtwqjf_bXLSsb7ENuwFFK536qIQeVZVH9ZepA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-09-22T14:56:30.147834101Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aUlRreHRNa2hXYTNGMGFrTm9kWEo2YmtaWlZHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aUlRreHRNa2hXYTNGMGFrTm9kWEo2YmtaWlZHYxAB!2m1!1s0x3442a9df773813e9:0xd23102f84761a12a"
+    }
+  ]
+}

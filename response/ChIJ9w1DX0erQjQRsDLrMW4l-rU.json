@@ -1,0 +1,128 @@
+﻿{
+    "id":  "ChIJ9w1DX0erQjQRsDLrMW4l-rU",
+    "types":  [
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "formattedAddress":  "116台灣臺北市文山區萬興里新光路二段30號",
+    "location":  {
+                     "latitude":  24.997351,
+                     "longitude":  121.583103
+                 },
+    "rating":  4.3,
+    "userRatingCount":  337,
+    "displayName":  {
+                        "text":  "貓熊餐廳 Panda Cafe",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJ9w1DX0erQjQRsDLrMW4l-rU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Rd1lUQXRhelI1YUdvMGFVeHZVa3BCV0RkU1VtYxAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "環境優，在熊貓館樓上、可以用餐看熊貓、東西不錯吃、只是量不大，吃不太飽。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "環境優，在熊貓館樓上、可以用餐看熊貓、東西不錯吃、只是量不大，吃不太飽。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Wendy Liu",
+                                                  "uri":  "https://www.google.com/maps/contrib/105100821083805948566/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXWQ9C8GE0iBmkeIrozC9eQntz73C2KAGld9TcIIWlg2AlFA1_ndA=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2026-02-12T14:28:37.692785792Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Rd1lUQXRhelI1YUdvMGFVeHZVa3BCV0RkU1VtYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Rd1lUQXRhelI1YUdvMGFVeHZVa3BCV0RkU1VtYxAB!2m1!1s0x3442ab475f430df7:0xb5fa256e31eb32b0"
+                    },
+                    {
+                        "name":  "places/ChIJ9w1DX0erQjQRsDLrMW4l-rU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKUlpWVkRPV0p3Y1hoYWRFdHRTSGxLVG5OdlNYYxAB",
+                        "relativePublishTimeDescription":  "8 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "​貓熊主題餐廳\n這間在動物園內的餐廳，是專為貓熊愛好者設計的。餐點味道很棒，尤其披薩跟義大利麵，口味讓還不錯！不過份量不大，對於食量較大的人來說可能會吃不飽。\n​低消設定為每人200元，五歲以下兒童則沒有此限制。但餐點價格的設計比較極端，不是高於200元很多就是遠低於200元，需要花點心思湊足低消。另外，想看貓熊的朋友要注意，只有少數靠窗座位才能看到，建議可以先詢問店員。\n\n​#動物園 #貓熊餐廳 #主題餐廳 #親子餐廳 #台北景點 #美食探險 #期間限定",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "​貓熊主題餐廳\n這間在動物園內的餐廳，是專為貓熊愛好者設計的。餐點味道很棒，尤其披薩跟義大利麵，口味讓還不錯！不過份量不大，對於食量較大的人來說可能會吃不飽。\n​低消設定為每人200元，五歲以下兒童則沒有此限制。但餐點價格的設計比較極端，不是高於200元很多就是遠低於200元，需要花點心思湊足低消。另外，想看貓熊的朋友要注意，只有少數靠窗座位才能看到，建議可以先詢問店員。\n\n​#動物園 #貓熊餐廳 #主題餐廳 #親子餐廳 #台北景點 #美食探險 #期間限定",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Mike Lin",
+                                                  "uri":  "https://www.google.com/maps/contrib/112633775638779496401/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUX5HDvb-o43XMNlUyN3R6f1XfQvCB-kW5Ua6SqZyQt4rcmHAHUKw=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-09-14T15:21:51.809127296Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKUlpWVkRPV0p3Y1hoYWRFdHRTSGxLVG5OdlNYYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKUlpWVkRPV0p3Y1hoYWRFdHRTSGxLVG5OdlNYYxAB!2m1!1s0x3442ab475f430df7:0xb5fa256e31eb32b0"
+                    },
+                    {
+                        "name":  "places/ChIJ9w1DX0erQjQRsDLrMW4l-rU/reviews/Ci9DQUlRQUNvZENodHljRjlvT205M2VGOUdTRGh0WlhSTk1XcFRiRGRyVnpWRFpuYxAB",
+                        "relativePublishTimeDescription":  "8 個月前",
+                        "rating":  1,
+                        "text":  {
+                                     "text":  "點了鳳梨蘋果汁，一杯$190，結果2/3杯全是泡沫\n分倒給小朋友喝才發現全都是渣\n跟服務人員反應，服務人員拿去內場後又拿出來\n說果汁都是現打的會有沉澱，攪一攪再喝。\n我跟服務人員說那不是沉澱，都是渣跟泡沫，不能喝也攪不散\n服務人員再次給我一個堅定的眼神，拿出粗吸管說要用這個攪⋯\n\n超浮誇的，有夠扯的店，一杯190的果汁，為了要看起來大杯，連濾都不濾，直接端一杯大便給客人喝，再跟客人說這杯不是大便，攪散了混合起來就不算大便\n\n不想跟他們爭執，圖片在此各位可自行評斷",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "點了鳳梨蘋果汁，一杯$190，結果2/3杯全是泡沫\n分倒給小朋友喝才發現全都是渣\n跟服務人員反應，服務人員拿去內場後又拿出來\n說果汁都是現打的會有沉澱，攪一攪再喝。\n我跟服務人員說那不是沉澱，都是渣跟泡沫，不能喝也攪不散\n服務人員再次給我一個堅定的眼神，拿出粗吸管說要用這個攪⋯\n\n超浮誇的，有夠扯的店，一杯190的果汁，為了要看起來大杯，連濾都不濾，直接端一杯大便給客人喝，再跟客人說這杯不是大便，攪散了混合起來就不算大便\n\n不想跟他們爭執，圖片在此各位可自行評斷",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Ah wen Taiwan",
+                                                  "uri":  "https://www.google.com/maps/contrib/101708339230380584364/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocJeUCN9RtVAli5yNc-if7xYFlX1toEPxNCxSfQmIf2UktBaTw=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2025-09-21T07:04:34.005236131Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205M2VGOUdTRGh0WlhSTk1XcFRiRGRyVnpWRFpuYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205M2VGOUdTRGh0WlhSTk1XcFRiRGRyVnpWRFpuYxAB!2m1!1s0x3442ab475f430df7:0xb5fa256e31eb32b0"
+                    },
+                    {
+                        "name":  "places/ChIJ9w1DX0erQjQRsDLrMW4l-rU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KRVREQjFSMHhtWjBORGJrd3hkSGt3TWs1VVdsRRAB",
+                        "relativePublishTimeDescription":  "10 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "👍夏威夷披薩鋪滿鳳梨與火腿，鹹甜交織，十分美味。\n\n👍菌菇披薩則出乎意料地好吃，香氣濃郁。\n\n👍蕃茄雞肉義大利麵份量偏少，但雞肉嫩口、醬汁入味。\n\n👍飲料表現普通，不過泡沫上有可愛熊貓糖，增添趣味。\n\n👍👍👍最加分的是室內冷氣涼爽，讓人在炎熱夏天中能舒適用餐。\n\n整體而言，原本對樂園餐廳不抱期待，結果味道讓人滿意，是意外的小確幸。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "👍夏威夷披薩鋪滿鳳梨與火腿，鹹甜交織，十分美味。\n\n👍菌菇披薩則出乎意料地好吃，香氣濃郁。\n\n👍蕃茄雞肉義大利麵份量偏少，但雞肉嫩口、醬汁入味。\n\n👍飲料表現普通，不過泡沫上有可愛熊貓糖，增添趣味。\n\n👍👍👍最加分的是室內冷氣涼爽，讓人在炎熱夏天中能舒適用餐。\n\n整體而言，原本對樂園餐廳不抱期待，結果味道讓人滿意，是意外的小確幸。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Q Q",
+                                                  "uri":  "https://www.google.com/maps/contrib/114437904981065096873/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocIR9mWqOBx0lpMSzEFWs-WbSecS6ZbhXuK3vCKKtHODzZE7mg=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2025-07-16T01:56:17.142298365Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KRVREQjFSMHhtWjBORGJrd3hkSGt3TWs1VVdsRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KRVREQjFSMHhtWjBORGJrd3hkSGt3TWs1VVdsRRAB!2m1!1s0x3442ab475f430df7:0xb5fa256e31eb32b0"
+                    },
+                    {
+                        "name":  "places/ChIJ9w1DX0erQjQRsDLrMW4l-rU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsUmMyNTZRa055WVhKRmRtaG5SRmxSTkRGRVJVRRAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "看貓熊最清楚，素食義大利麵，拿鐵咖啡，450元。20251129",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "看貓熊最清楚，素食義大利麵，拿鐵咖啡，450元。20251129",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "凱莉",
+                                                  "uri":  "https://www.google.com/maps/contrib/105727315308073062024/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUQzMgA1qTklL7ZMmoxurbeirha0b6k2ncuxkIclZ4D8lYKAVFrmA=s128-c0x00000000-cc-rp-mo-ba8"
+                                              },
+                        "publishTime":  "2025-11-29T08:38:46.186622592Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsUmMyNTZRa055WVhKRmRtaG5SRmxSTkRGRVJVRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsUmMyNTZRa055WVhKRmRtaG5SRmxSTkRGRVJVRRAB!2m1!1s0x3442ab475f430df7:0xb5fa256e31eb32b0"
+                    }
+                ],
+    "goodForChildren":  true
+}

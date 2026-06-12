@@ -1,0 +1,137 @@
+{
+  "id": "ChIJSQGJ-umrQjQRRfk3xwerc-s",
+  "types": [
+    "brunch_restaurant",
+    "italian_restaurant",
+    "food_store",
+    "event_venue",
+    "store",
+    "service",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2377 0566",
+  "formattedAddress": "106台灣台北市大安区黎孝里安居街8巷19號1樓",
+  "location": {
+    "latitude": 25.021833299999997,
+    "longitude": 121.55457729999999
+  },
+  "rating": 4.3,
+  "websiteUri": "https://www.instagram.com/2025hibi_cafe?igsh=YzlqanVjY2tob3E=&utm_source=qr",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 773,
+  "displayName": {
+    "text": "Hibi 日々咖啡",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJSQGJ-umrQjQRRfk3xwerc-s/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCUVRuSklNall4UVZScGVHVTJVRTEwYlhONFZWRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "2025.12.21\n餐點非常有水準，很好吃😋\n價格合理\n青醬義大利麵醬汁濃郁，吃起來不會有水味\nPizza是薄皮的，不會乾柴，料也給滿多的\n\n吃完東西，可以跟店員說想上手喔～\n評估過後可以上手的爬爬會再教學再怎麼上手！\n店員非常專業，也很會跟人互動，服務上我給200分，現場有什麼問題可以詢問\n\n（可惜蛇不喜歡我體溫太低，在我身上好躁動😂）\n\n這間推推！會再推坑朋友",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2025.12.21\n餐點非常有水準，很好吃😋\n價格合理\n青醬義大利麵醬汁濃郁，吃起來不會有水味\nPizza是薄皮的，不會乾柴，料也給滿多的\n\n吃完東西，可以跟店員說想上手喔～\n評估過後可以上手的爬爬會再教學再怎麼上手！\n店員非常專業，也很會跟人互動，服務上我給200分，現場有什麼問題可以詢問\n\n（可惜蛇不喜歡我體溫太低，在我身上好躁動😂）\n\n這間推推！會再推坑朋友",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "暴食小恐龍",
+        "uri": "https://www.google.com/maps/contrib/102091856631840018480/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWhivTMU7ydabU-Crtmms86IqoILYPJOfKgzucma_poD3iN9ds=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-30T06:17:40.475897953Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCUVRuSklNall4UVZScGVHVTJVRTEwYlhONFZWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCUVRuSklNall4UVZScGVHVTJVRTEwYlhONFZWRRAB!2m1!1s0x3442abe9fa890149:0xeb73ab07c737f945"
+    },
+    {
+      "name": "places/ChIJSQGJ-umrQjQRRfk3xwerc-s/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sT01HZEdOMEZWVmw5TmRFeHhNMnd5T1ZGbWJtYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "原本看到服務態度評論有點怕怕的🥹\n結果今天實際來，服務人員超溫柔！\n還教我們怎麼握住爬蟲們，讓牠們安心不緊張 🐰\n整體體驗真的很棒，推推❤️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "原本看到服務態度評論有點怕怕的🥹\n結果今天實際來，服務人員超溫柔！\n還教我們怎麼握住爬蟲們，讓牠們安心不緊張 🐰\n整體體驗真的很棒，推推❤️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "妹",
+        "uri": "https://www.google.com/maps/contrib/117077753659691542539/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKR5Yq8p4QrpRmIIGeG92eyJ6wToWhp8ORdFQx3pnwLwW5j=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-24T07:23:35.883645218Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sT01HZEdOMEZWVmw5TmRFeHhNMnd5T1ZGbWJtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sT01HZEdOMEZWVmw5TmRFeHhNMnd5T1ZGbWJtYxAB!2m1!1s0x3442abe9fa890149:0xeb73ab07c737f945"
+    },
+    {
+      "name": "places/ChIJSQGJ-umrQjQRRfk3xwerc-s/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Gb1dsUmZhRzVIU1RsQ2NEVnhSbEU0YzI1NVYzYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "這裡有陸龜 可愛的小蛇😍店員人很好很客氣 可以有禮貌的詢問能不能和動物們互動～拿鐵不錯 美式對我來說有點偏苦😅這裡還有販售輕食鬆餅等，帶小朋友來認識爬蟲類動物是不錯的地方呦～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這裡有陸龜 可愛的小蛇😍店員人很好很客氣 可以有禮貌的詢問能不能和動物們互動～拿鐵不錯 美式對我來說有點偏苦😅這裡還有販售輕食鬆餅等，帶小朋友來認識爬蟲類動物是不錯的地方呦～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Niki",
+        "uri": "https://www.google.com/maps/contrib/112986106701801730322/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWCGT6Pn77OtvwTrbuSOOoyJkCWNX1QRyCwKYs301URg5RA-4=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-10-24T06:39:22.644020375Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Gb1dsUmZhRzVIU1RsQ2NEVnhSbEU0YzI1NVYzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Gb1dsUmZhRzVIU1RsQ2NEVnhSbEU0YzI1NVYzYxAB!2m1!1s0x3442abe9fa890149:0xeb73ab07c737f945"
+    },
+    {
+      "name": "places/ChIJSQGJ-umrQjQRRfk3xwerc-s/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KUFkyb3lTVkpXU1VvMFNVRTRka0ZhZDNKd1JFRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點很好吃，店員服務態度也非常好。\n可以和店員詢問能不能接觸到蛇或守宮，\n體驗相當有趣！\n推薦喜歡爬蟲的人！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點很好吃，店員服務態度也非常好。\n可以和店員詢問能不能接觸到蛇或守宮，\n體驗相當有趣！\n推薦喜歡爬蟲的人！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "阿彤uwu",
+        "uri": "https://www.google.com/maps/contrib/101348350542415366382/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXq3fpEIeGaFW-G7tAtQ7RID-iOxdfHm8Xb213mdARpuvzK_iAc=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-02T04:43:28.579549608Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KUFkyb3lTVkpXU1VvMFNVRTRka0ZhZDNKd1JFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KUFkyb3lTVkpXU1VvMFNVRTRka0ZhZDNKd1JFRRAB!2m1!1s0x3442abe9fa890149:0xeb73ab07c737f945"
+    },
+    {
+      "name": "places/ChIJSQGJ-umrQjQRRfk3xwerc-s/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xvNE5uQnFja2g1YlY5cGVubGFWMkpwV2tkWUxVRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "這家咖啡廳的另一個重點在養了很多種類的爬蟲類，包含球蟒，豬鼻蛇，守宮，松果蜥蜴…幸運的話還可以讓店員讓你上手體驗一下！很棒的爬蟲類秘密基地，空間大很舒適！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這家咖啡廳的另一個重點在養了很多種類的爬蟲類，包含球蟒，豬鼻蛇，守宮，松果蜥蜴…幸運的話還可以讓店員讓你上手體驗一下！很棒的爬蟲類秘密基地，空間大很舒適！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Traveling 520",
+        "uri": "https://www.google.com/maps/contrib/112659779464742675474/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJVWpCRREy3HfYWHOxZHLBnbkpjlmkYufbN_U6keGTGr-mlAA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-08-05T05:30:13.879297907Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xvNE5uQnFja2g1YlY5cGVubGFWMkpwV2tkWUxVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xvNE5uQnFja2g1YlY5cGVubGFWMkpwV2tkWUxVRRAB!2m1!1s0x3442abe9fa890149:0xeb73ab07c737f945"
+    }
+  ],
+  "goodForChildren": true
+}

@@ -1,0 +1,138 @@
+{
+  "id": "ChIJyS57aNGrQjQRhRLHxCfDLdU",
+  "types": [
+    "taiwanese_restaurant",
+    "cafe",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2754 7002",
+  "formattedAddress": "106台灣臺北市大安區仁慈里復興南路一段313巷13號1樓",
+  "location": {
+    "latitude": 25.0343901,
+    "longitude": 121.54502570000001
+  },
+  "rating": 4.4,
+  "websiteUri": "https://m.facebook.com/Ting2Cafe/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 214,
+  "displayName": {
+    "text": "婷婷咖啡簡餐",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Down-to-earth restaurant dishing up breakfasts & down-home cooking in compact surrounds.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJyS57aNGrQjQRhRLHxCfDLdU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aeVFVWm5RbWxzY25VdGEyRnZWMVpyV21Nd1RrRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "非常棒的簡餐店，有媽媽的味道，也很精緻，少鹽少油健康餐，酒很多🤣（麻油類餐點），上班族或開車要點餐請注意。\n蒸魚和煎魚都很好吃，非常推，套餐單一價格，魚類這個價位非常實惠了。不過老闆年紀大了，預計115年3月會退休，不再繼續營業，想要來的朋友不要錯過！建議訂位可以確定有位置。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "非常棒的簡餐店，有媽媽的味道，也很精緻，少鹽少油健康餐，酒很多🤣（麻油類餐點），上班族或開車要點餐請注意。\n蒸魚和煎魚都很好吃，非常推，套餐單一價格，魚類這個價位非常實惠了。不過老闆年紀大了，預計115年3月會退休，不再繼續營業，想要來的朋友不要錯過！建議訂位可以確定有位置。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yvonne Peng",
+        "uri": "https://www.google.com/maps/contrib/108717672026060212244/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIMv5lQ1AXE0PrA5LAGNoR_UF-mXX4sBioWMDYt4LFre4suBKafw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-30T10:56:53.779363632Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aeVFVWm5RbWxzY25VdGEyRnZWMVpyV21Nd1RrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aeVFVWm5RbWxzY25VdGEyRnZWMVpyV21Nd1RrRRAB!2m1!1s0x3442abd1687b2ec9:0xd52dc327c4c71285"
+    },
+    {
+      "name": "places/ChIJyS57aNGrQjQRhRLHxCfDLdU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sVU5XRm9WVWgwZURNeVUxcE5PVlZLWVhnMFFrRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "家常簡餐，一直在找類似的餐廳。 有菜、有肉、有飯。 家常的菜單，煮得不錯。 通常有年紀大一點的人用餐，飯後會附水果跟飲料。\n\n除了這間，另外比較常去的是行天宮站的 映，我家廚房，以及善導寺站的蜜蜂咖啡。\n\n如果還有類似的餐廳，麻煩留言分享。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "家常簡餐，一直在找類似的餐廳。 有菜、有肉、有飯。 家常的菜單，煮得不錯。 通常有年紀大一點的人用餐，飯後會附水果跟飲料。\n\n除了這間，另外比較常去的是行天宮站的 映，我家廚房，以及善導寺站的蜜蜂咖啡。\n\n如果還有類似的餐廳，麻煩留言分享。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Wu Brandon",
+        "uri": "https://www.google.com/maps/contrib/101844502727988616091/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJF9E-d90ELHFe-aYXOR6fATKuZsMCANdhL3Pl11oD3iUTqLw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-27T04:45:23.823092246Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sVU5XRm9WVWgwZURNeVUxcE5PVlZLWVhnMFFrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sVU5XRm9WVWgwZURNeVUxcE5PVlZLWVhnMFFrRRAB!2m1!1s0x3442abd1687b2ec9:0xd52dc327c4c71285"
+    },
+    {
+      "name": "places/ChIJyS57aNGrQjQRhRLHxCfDLdU/reviews/Ci9DQUlRQUNvZENodHljRjlvT200M0xVRlBlRk00VTFSM2RXOHlRMFZtTFdsVk1GRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "簡餐均一價\n份量看起來不多 但吃完後意外有飽足感\n味道清爽沒有過多調味\n魚煎得香酥 外酥內嫩咬感很棒\n飯後還有水果、飲料",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "簡餐均一價\n份量看起來不多 但吃完後意外有飽足感\n味道清爽沒有過多調味\n魚煎得香酥 外酥內嫩咬感很棒\n飯後還有水果、飲料",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Zix",
+        "uri": "https://www.google.com/maps/contrib/114753602581401969497/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVgI_zqk9sKtlP8xGponzI4j2hdsS1uPCYCCgqYq4hPPsqoB8Q=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-08-29T14:35:20.219972147Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT200M0xVRlBlRk00VTFSM2RXOHlRMFZtTFdsVk1GRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT200M0xVRlBlRk00VTFSM2RXOHlRMFZtTFdsVk1GRRAB!2m1!1s0x3442abd1687b2ec9:0xd52dc327c4c71285"
+    },
+    {
+      "name": "places/ChIJyS57aNGrQjQRhRLHxCfDLdU/reviews/ChZDSUhNMG9nS0VJQ0FnSURuNFpUNkVnEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "客人幾乎都是長輩，配菜部分蠻健康清淡的，我點麻油松阪豬，酒味超濃，感覺是用全酒，喜歡酒味重的人應該會愛",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "客人幾乎都是長輩，配菜部分蠻健康清淡的，我點麻油松阪豬，酒味超濃，感覺是用全酒，喜歡酒味重的人應該會愛",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yi Hua Lin",
+        "uri": "https://www.google.com/maps/contrib/113464889227716850808/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVryYQBROgUaYdqTGmKoxb-HsndEvwjXcri-EtKpXf7_LOOSPmo=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2024-10-06T18:21:29.702505Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURuNFpUNkVnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURuNFpUNkVnEAE!2m1!1s0x3442abd1687b2ec9:0xd52dc327c4c71285"
+    },
+    {
+      "name": "places/ChIJyS57aNGrQjQRhRLHxCfDLdU/reviews/ChZDSUhNMG9nS0VJQ0FnSURaZ1o2TEp3EAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 3,
+      "text": {
+        "text": "比較像家庭式餐廳,服務親切,似乎都是老客人,不同桌的人卻全部一起聊天\n生意很好,所以食材也蠻新鮮\n單一價格,套餐式,可能地段的關係,貴了點....@330~\n優點是口味清淡.\n泰式檸檬魚有些小隻,口味不是很道地,但是新鮮.\n配菜我個人比較喜歡蔬菜類,3樣裡...只有一個菜,其他是咖喱馬玲薯和煙燻素豆皮\n這次用餐白飯的飯氣很重！這點算有雷到😅,量很少(愛吃飯的人請留意)\n附蘿蔔湯(好喝)/冰美式咖啡-原味(苦酸焦糖的口感)/水果-砂糖橘1顆\n因為自己不大習慣這樣家庭式餐廳的氛圍,水果和咖啡就外帶了😅",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "比較像家庭式餐廳,服務親切,似乎都是老客人,不同桌的人卻全部一起聊天\n生意很好,所以食材也蠻新鮮\n單一價格,套餐式,可能地段的關係,貴了點....@330~\n優點是口味清淡.\n泰式檸檬魚有些小隻,口味不是很道地,但是新鮮.\n配菜我個人比較喜歡蔬菜類,3樣裡...只有一個菜,其他是咖喱馬玲薯和煙燻素豆皮\n這次用餐白飯的飯氣很重！這點算有雷到😅,量很少(愛吃飯的人請留意)\n附蘿蔔湯(好喝)/冰美式咖啡-原味(苦酸焦糖的口感)/水果-砂糖橘1顆\n因為自己不大習慣這樣家庭式餐廳的氛圍,水果和咖啡就外帶了😅",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jewel",
+        "uri": "https://www.google.com/maps/contrib/101736188956455349216/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXqmHIKbxCBmGHzObkvYhHIeyhvwXcOYSUNbgH9IusSRP5nIpjzhQ=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2023-10-02T08:49:37.482345Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURaZ1o2TEp3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURaZ1o2TEp3EAE!2m1!1s0x3442abd1687b2ec9:0xd52dc327c4c71285"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

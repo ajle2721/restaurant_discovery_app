@@ -1,0 +1,144 @@
+{
+  "id": "ChIJW4sWepCpQjQRxbg-jFyB0jM",
+  "types": [
+    "cake_shop",
+    "pastry_shop",
+    "dessert_restaurant",
+    "dessert_shop",
+    "confectionery",
+    "bakery",
+    "wholesaler",
+    "manufacturer",
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2367 3067",
+  "formattedAddress": "106台灣臺北市大安區錦安里金山南路二段141巷1號",
+  "location": {
+    "latitude": 25.0297103,
+    "longitude": 121.52684629999999
+  },
+  "rating": 4.5,
+  "websiteUri": "https://minuit.com.tw/",
+  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+  "userRatingCount": 4213,
+  "displayName": {
+    "text": "深夜裡的法國手工甜點",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Trendy, relaxed cafe offering fancy desserts, cakes & fruit tarts, plus cookies.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJW4sWepCpQjQRxbg-jFyB0jM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0NWFVTjJWRU5oVG5STGMyOHpSMWszVXpaNmMxRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "1/18/'26\n甜點雙拼組合  700（白色乳酪草莓塔佐法國栗子泥＋生巧克力塔）       4.8顆星\n先嚐了生巧克力塔，塔皮酥脆，生巧克力濃郁滑順，苦甜平衡，精緻細膩。\n\n白色乳酪草莓塔佐法國栗子泥，有著美感十足的迷人外觀，清爽柔滑的馬茲卡彭乳酪為主，夾入滿滿的新鮮草莓，上層再鋪滿香甜栗子泥。塔皮酥脆，栗子泥綿密甜香，乳酪奶香撲鼻，草莓酸甜多汁，嚐起來起來相當過癮滿足。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "1/18/'26\n甜點雙拼組合  700（白色乳酪草莓塔佐法國栗子泥＋生巧克力塔）       4.8顆星\n先嚐了生巧克力塔，塔皮酥脆，生巧克力濃郁滑順，苦甜平衡，精緻細膩。\n\n白色乳酪草莓塔佐法國栗子泥，有著美感十足的迷人外觀，清爽柔滑的馬茲卡彭乳酪為主，夾入滿滿的新鮮草莓，上層再鋪滿香甜栗子泥。塔皮酥脆，栗子泥綿密甜香，乳酪奶香撲鼻，草莓酸甜多汁，嚐起來起來相當過癮滿足。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Deborah Lin",
+        "uri": "https://www.google.com/maps/contrib/106686829833842613830/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXL57VyvXbvMhD0JtTsjvoHhovF4aF2xW6ehD83s3mierdaWOeB=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-01-19T13:50:58.613204857Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0NWFVTjJWRU5oVG5STGMyOHpSMWszVXpaNmMxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0NWFVTjJWRU5oVG5STGMyOHpSMWszVXpaNmMxRRAB!2m1!1s0x3442a9907a168b5b:0x33d2815c8c3eb8c5"
+    },
+    {
+      "name": "places/ChIJW4sWepCpQjQRxbg-jFyB0jM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oZk1URlRWWE5QTldVNFducFVTbFpyZW5seFZtYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "香檸柑橘塔令人驚艷的好吃！完全對得起它的價格！柑橘的清甜中帶有一絲絲苦韻，大大推！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "香檸柑橘塔令人驚艷的好吃！完全對得起它的價格！柑橘的清甜中帶有一絲絲苦韻，大大推！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Esperanza Chou",
+        "uri": "https://www.google.com/maps/contrib/118168036806136521288/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVIsSazacFRHvx4D3vtoFdUBe5FdmO5Eu-gpLuzfFDP3552VM8=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-11-23T09:23:29.675742646Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oZk1URlRWWE5QTldVNFducFVTbFpyZW5seFZtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oZk1URlRWWE5QTldVNFducFVTbFpyZW5seFZtYxAB!2m1!1s0x3442a9907a168b5b:0x33d2815c8c3eb8c5"
+    },
+    {
+      "name": "places/ChIJW4sWepCpQjQRxbg-jFyB0jM/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnOGZUei13RRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "先簡評：幾個品項真的很好吃、服務和經營厲害，唯價格確實過高。\n🫴吃過21種，以下依推薦排序：\n\n➡️第一次買建議挑巧克力塔類，水果塔類或季節款比較見仁見智\n➡️累點兌換小氣且不合理，4000和8000點的兌換商品才差不到200元?\n\n🫴吃過21種，以下依推薦排序：\n\n1. 法國栗子雙夾生巧黑加利塔 ⭐️⭐️⭐️⭐️⭐️\n有驚豔，巧克力的苦、栗子的綿密輕甜、黑醋栗的酸甜和餅皮的酥脆，形成非常豐富有層次的口感，非常推薦直上此款！(但也貴)\n\n2. 黑櫻桃提拉米蘇蛋糕 ⭐️⭐️⭐️⭐️⭐️\n季節限定。是我吃過最好吃、外觀最精緻的提拉米蘇之一！個人不喜歡太濕軟爛的提拉米蘇，所以這款濕潤度和甜度較低的非常對我口，是大人味的提拉米蘇！唯一抱怨是乳酪口感可以更稀鬆否則會膩。酒味不明顯，整體口感紥實濃郁，易飽足，建議分食。\n\n3. 提拉米蘇塔 ⭐️⭐️⭐️⭐️⭐️\n乳酪+蛋白霜那層實在輕甜鬆軟好好吃，是回購意願最高款\n\n4. 蒙布朗栗子塔 ⭐️⭐️⭐️⭐️⭐️\n上層栗子泥輕甜，中層吃的到糖炒栗子，底層的梅酒凍酒味明顯，整體不膩口，很溫和清雅的感受，非常喜歡！但價錢太高...\n\n5. 松子抹茶生巧塔 ⭐️⭐️⭐️⭐️⭐️\n不愛堅果的我本來擔心松子會影響口感，結果居然和抹茶搭配得很好！松子的味道不會太搶戲，反而適度減少抹茶可能的膩感，非常順口的組合！\n\n6. 荔枝生乳酪塔佐覆盆莓 ⭐️⭐️⭐️⭐️\n清爽好吃安全牌，酸甜適中！最愛的是荔枝部分有果肉～\n\n7. 生巧克力塔 ⭐️⭐️⭐️⭐️\n不踩雷入門招牌經典款，但吃過栗子雙夾生巧那款後，這款就對比較為單調xd，不過它確實簡單又不膩口，也最能代表深法。\n\n8. 芒果乳酪塔 ⭐️⭐️⭐️⭐️\n芒果很鮮甜，乳酪意外不會過甜膩或過厚重，很清爽的一款。但這樣的組成賣500+....太貴了\n\n9. 萬丹抹茶紅豆塔 ⭐️⭐️⭐️⭐️\n甜度比想像中低很多！抹茶是帶苦味的，紅豆也不是蜜紅豆那種超甜的...），這兩層甜度都偏低。甜味反而主要是來自最下層薄薄的黑糖，但味道也不會很明顯。不過有2個缺點：1.紅豆層有點太厚(建議增加抹茶)  2.整體組成全是口感軟／甜的東西，吃得蠻膩口的，另一款松子抹茶塔比這個好吃多了。\n\n10. 香橙橘瓣塔 ⭐️⭐️⭐️⭐️\n以為水果類都雷，結果這款意外喜歡~ 口感輕甜爽口，不會酸，和餅皮整體搭配得簡單而和諧。\n\n---以下是不會想回購的品項----\n\n11. 蕉香巧克力乳酪塔 ⭐️⭐️⭐️\n其實意外不會太甜膩或香蕉味太突出，味道和諧紥實。但吃了幾口依然覺得很容易就飽、太heavy了(乳酪的問題)\n\n12. 覆盆子生巧克力塔 ⭐️⭐️⭐️\n這款是常態塔類，如預期地是安全牌，不雷但口感中規中矩沒有驚艷，且覆盆子真的太酸、籽還會一直塞牙，塔皮和巧克力的味道也被蓋過去了，選這款不如直接選法國栗子生巧那款，都是巧克力+酸果的組合。\n\n13. 酒漬葡萄布丁塔 ⭐️⭐️⭐️\n一開始幾口驚豔，但酒味過重，有點破壞和諧；且布丁餡和這款的餅皮吃久了會很膩，這款本來最期待結果有點失望～\n\n14. 無核黑櫻桃塔 ⭐️⭐️⭐️\n很普，水果塔類其實吃起來大同小異，因為都被上層杏桃果膠的味道蓋過去了，但這款至少比綜合莓果塔好，味道很像但比較不酸\n\n15. 焦糖核果蜂蜜乳酪塔 ⭐️⭐️⭐️\n焦糖核桃和上層乳酪口感很搭，但...真的太甜了，是吃過最甜膩的一款，無法多食\n\n16. 榛果生巧克力塔 ⭐️⭐️⭐️\n個人覺得榛果太干擾口感，吃幾口覺得太甜膩\n\n17. 生蘋果塔 ⭐️⭐️\n非常失望，吃這款不如吃橘瓣塔，因為厚厚的杏桃果膠搶盡所有味覺...阿蘋果呢？不突出且太酸。滿嘴杏桃果膠味...味道單調膩口，論酸甜清爽皆不如橘瓣塔。很勉強的吃完...\n\n18. 柚香焙茶栗子塔 ⭐️⭐️\n味道很溫和(?)，沒有特別突出的酸/甜/苦，但是上面厚厚的焙茶+白巧克力+乳酪實在太溼黏而膩口，不會想再試這款\n\n19. 蛋白霜檸檬塔 ⭐️⭐️\n這款...一言難盡，底層的檸檬膏撐起了主要味覺，但上面那層過厚的蛋白霜實在令人吃得痛苦 (整片我最後刮掉一半)，而且這價錢成本想到就不合理，覺得深法還是巧克力系列比較不踩雷\n\n20. 綜合野莓塔 ⭐️⭐️\n水果類因為上面的杏桃果膠覺得不太喜歡（過甜），而且莓果實在太酸口感太突出。\n\n21. 南瓜布丁塔 ⭐️\n一言難盡...很膩口很heavy，少數沒吃完的品項...",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "先簡評：幾個品項真的很好吃、服務和經營厲害，唯價格確實過高。\n🫴吃過21種，以下依推薦排序：\n\n➡️第一次買建議挑巧克力塔類，水果塔類或季節款比較見仁見智\n➡️累點兌換小氣且不合理，4000和8000點的兌換商品才差不到200元?\n\n🫴吃過21種，以下依推薦排序：\n\n1. 法國栗子雙夾生巧黑加利塔 ⭐️⭐️⭐️⭐️⭐️\n有驚豔，巧克力的苦、栗子的綿密輕甜、黑醋栗的酸甜和餅皮的酥脆，形成非常豐富有層次的口感，非常推薦直上此款！(但也貴)\n\n2. 黑櫻桃提拉米蘇蛋糕 ⭐️⭐️⭐️⭐️⭐️\n季節限定。是我吃過最好吃、外觀最精緻的提拉米蘇之一！個人不喜歡太濕軟爛的提拉米蘇，所以這款濕潤度和甜度較低的非常對我口，是大人味的提拉米蘇！唯一抱怨是乳酪口感可以更稀鬆否則會膩。酒味不明顯，整體口感紥實濃郁，易飽足，建議分食。\n\n3. 提拉米蘇塔 ⭐️⭐️⭐️⭐️⭐️\n乳酪+蛋白霜那層實在輕甜鬆軟好好吃，是回購意願最高款\n\n4. 蒙布朗栗子塔 ⭐️⭐️⭐️⭐️⭐️\n上層栗子泥輕甜，中層吃的到糖炒栗子，底層的梅酒凍酒味明顯，整體不膩口，很溫和清雅的感受，非常喜歡！但價錢太高...\n\n5. 松子抹茶生巧塔 ⭐️⭐️⭐️⭐️⭐️\n不愛堅果的我本來擔心松子會影響口感，結果居然和抹茶搭配得很好！松子的味道不會太搶戲，反而適度減少抹茶可能的膩感，非常順口的組合！\n\n6. 荔枝生乳酪塔佐覆盆莓 ⭐️⭐️⭐️⭐️\n清爽好吃安全牌，酸甜適中！最愛的是荔枝部分有果肉～\n\n7. 生巧克力塔 ⭐️⭐️⭐️⭐️\n不踩雷入門招牌經典款，但吃過栗子雙夾生巧那款後，這款就對比較為單調xd，不過它確實簡單又不膩口，也最能代表深法。\n\n8. 芒果乳酪塔 ⭐️⭐️⭐️⭐️\n芒果很鮮甜，乳酪意外不會過甜膩或過厚重，很清爽的一款。但這樣的組成賣500+....太貴了\n\n9. 萬丹抹茶紅豆塔 ⭐️⭐️⭐️⭐️\n甜度比想像中低很多！抹茶是帶苦味的，紅豆也不是蜜紅豆那種超甜的...），這兩層甜度都偏低。甜味反而主要是來自最下層薄薄的黑糖，但味道也不會很明顯。不過有2個缺點：1.紅豆層有點太厚(建議增加抹茶)  2.整體組成全是口感軟／甜的東西，吃得蠻膩口的，另一款松子抹茶塔比這個好吃多了。\n\n10. 香橙橘瓣塔 ⭐️⭐️⭐️⭐️\n以為水果類都雷，結果這款意外喜歡~ 口感輕甜爽口，不會酸，和餅皮整體搭配得簡單而和諧。\n\n---以下是不會想回購的品項----\n\n11. 蕉香巧克力乳酪塔 ⭐️⭐️⭐️\n其實意外不會太甜膩或香蕉味太突出，味道和諧紥實。但吃了幾口依然覺得很容易就飽、太heavy了(乳酪的問題)\n\n12. 覆盆子生巧克力塔 ⭐️⭐️⭐️\n這款是常態塔類，如預期地是安全牌，不雷但口感中規中矩沒有驚艷，且覆盆子真的太酸、籽還會一直塞牙，塔皮和巧克力的味道也被蓋過去了，選這款不如直接選法國栗子生巧那款，都是巧克力+酸果的組合。\n\n13. 酒漬葡萄布丁塔 ⭐️⭐️⭐️\n一開始幾口驚豔，但酒味過重，有點破壞和諧；且布丁餡和這款的餅皮吃久了會很膩，這款本來最期待結果有點失望～\n\n14. 無核黑櫻桃塔 ⭐️⭐️⭐️\n很普，水果塔類其實吃起來大同小異，因為都被上層杏桃果膠的味道蓋過去了，但這款至少比綜合莓果塔好，味道很像但比較不酸\n\n15. 焦糖核果蜂蜜乳酪塔 ⭐️⭐️⭐️\n焦糖核桃和上層乳酪口感很搭，但...真的太甜了，是吃過最甜膩的一款，無法多食\n\n16. 榛果生巧克力塔 ⭐️⭐️⭐️\n個人覺得榛果太干擾口感，吃幾口覺得太甜膩\n\n17. 生蘋果塔 ⭐️⭐️\n非常失望，吃這款不如吃橘瓣塔，因為厚厚的杏桃果膠搶盡所有味覺...阿蘋果呢？不突出且太酸。滿嘴杏桃果膠味...味道單調膩口，論酸甜清爽皆不如橘瓣塔。很勉強的吃完...\n\n18. 柚香焙茶栗子塔 ⭐️⭐️\n味道很溫和(?)，沒有特別突出的酸/甜/苦，但是上面厚厚的焙茶+白巧克力+乳酪實在太溼黏而膩口，不會想再試這款\n\n19. 蛋白霜檸檬塔 ⭐️⭐️\n這款...一言難盡，底層的檸檬膏撐起了主要味覺，但上面那層過厚的蛋白霜實在令人吃得痛苦 (整片我最後刮掉一半)，而且這價錢成本想到就不合理，覺得深法還是巧克力系列比較不踩雷\n\n20. 綜合野莓塔 ⭐️⭐️\n水果類因為上面的杏桃果膠覺得不太喜歡（過甜），而且莓果實在太酸口感太突出。\n\n21. 南瓜布丁塔 ⭐️\n一言難盡...很膩口很heavy，少數沒吃完的品項...",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "M",
+        "uri": "https://www.google.com/maps/contrib/104544733940420263134/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIDMNFeSXTWAOkF1GS9mLtOiYH05ze8d0ktMZAwTXXAgyhvqyFD=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-05T04:28:31.464782424Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnOGZUei13RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnOGZUei13RRAB!2m1!1s0x3442a9907a168b5b:0x33d2815c8c3eb8c5"
+    },
+    {
+      "name": "places/ChIJW4sWepCpQjQRxbg-jFyB0jM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSRVVGaGlha1ZsV0ZWNU9XcFdhbHBFWWxWU1dsRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "我們點白色乳酪草莓塔佐法國栗子泥及生蘋果塔，好奇是什麼乳酪，有淡淡的後味層次，栗子泥酒香很香，蘋果塔塔皮很酥，蘋果沒有過分調味，可以吃到原味。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "我們點白色乳酪草莓塔佐法國栗子泥及生蘋果塔，好奇是什麼乳酪，有淡淡的後味層次，栗子泥酒香很香，蘋果塔塔皮很酥，蘋果沒有過分調味，可以吃到原味。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "JNK Chang",
+        "uri": "https://www.google.com/maps/contrib/102566267920480106261/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIT0mTpLBsTbJNT0lSy9f7q6r9ObE0Mi6vQKh7f4aNPHjWDKw=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-27T08:43:56.612818017Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSRVVGaGlha1ZsV0ZWNU9XcFdhbHBFWWxWU1dsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSRVVGaGlha1ZsV0ZWNU9XcFdhbHBFWWxWU1dsRRAB!2m1!1s0x3442a9907a168b5b:0x33d2815c8c3eb8c5"
+    },
+    {
+      "name": "places/ChIJW4sWepCpQjQRxbg-jFyB0jM/reviews/Ci9DQUlRQUNvZENodHljRjlvT25nMVVWTkVWbnB0VFV0b2IwVm1lbUZPZDJ0U2JFRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "蛋糕品質很好，質感很細緻，很有特色。不用等到深夜也可以吃。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "蛋糕品質很好，質感很細緻，很有特色。不用等到深夜也可以吃。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "HM Yu",
+        "uri": "https://www.google.com/maps/contrib/102533604191481283601/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJzdBCpoLwheXCc5uOVmitF7mEujPCkd6jKoXpwF5ayt8AVgg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-18T17:35:42.350924660Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25nMVVWTkVWbnB0VFV0b2IwVm1lbUZPZDJ0U2JFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25nMVVWTkVWbnB0VFV0b2IwVm1lbUZPZDJ0U2JFRRAB!2m1!1s0x3442a9907a168b5b:0x33d2815c8c3eb8c5"
+    }
+  ]
+}

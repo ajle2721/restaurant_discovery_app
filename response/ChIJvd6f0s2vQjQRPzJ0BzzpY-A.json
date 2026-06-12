@@ -1,0 +1,133 @@
+{
+  "id": "ChIJvd6f0s2vQjQRPzJ0BzzpY-A",
+  "types": [
+    "breakfast_restaurant",
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2881 2360",
+  "formattedAddress": "111台灣臺北市士林區前港里後港街150-1號",
+  "location": {
+    "latitude": 25.0873056,
+    "longitude": 121.5209766
+  },
+  "rating": 4,
+  "websiteUri": "http://dailybreakfast.com.tw/dishes/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 377,
+  "displayName": {
+    "text": "達利早餐Daily Breakfast-士林後港店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJvd6f0s2vQjQRPzJ0BzzpY-A/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twRmJYcFpSR1pZTm0xQ1oxWjRSazlLTUhnd1FuYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "2026/2 造訪\n\n▫️可現金付款及 line pay\n\n🔸(盤餐)經典法式雞腿集合 $160\n🔹美式咖啡(中杯/無糖/熱) $35\n🔸里肌豬排堡(去奶油) $60\n🔹紅茶(中杯/無糖/溫) $20\n🔸麥克雞塊 $38\n🔹薯餅 $25",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2026/2 造訪\n\n▫️可現金付款及 line pay\n\n🔸(盤餐)經典法式雞腿集合 $160\n🔹美式咖啡(中杯/無糖/熱) $35\n🔸里肌豬排堡(去奶油) $60\n🔹紅茶(中杯/無糖/溫) $20\n🔸麥克雞塊 $38\n🔹薯餅 $25",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yi-Ru Lee",
+        "uri": "https://www.google.com/maps/contrib/112309251563679472597/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVDEXAazdnnTz5oBjTDvwDY-GWBRVVYoXOe1il9SX66fonlx5zk=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-02-13T07:37:25.663306752Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twRmJYcFpSR1pZTm0xQ1oxWjRSazlLTUhnd1FuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twRmJYcFpSR1pZTm0xQ1oxWjRSazlLTUhnd1FuYxAB!2m1!1s0x3442afcdd29fdebd:0xe063e93c0774323f"
+    },
+    {
+      "name": "places/ChIJvd6f0s2vQjQRPzJ0BzzpY-A/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xvelZVZERlVkpsY1RJdE5GbE5SVUpQYjFCWldVRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "拼盤不錯吃，Oreo吐司也不錯，奶茶不小心點到半糖太甜了@@，比較特別的是蔥蛋里肌吐司，好吃，醬也剛剛好",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "拼盤不錯吃，Oreo吐司也不錯，奶茶不小心點到半糖太甜了@@，比較特別的是蔥蛋里肌吐司，好吃，醬也剛剛好",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "JK",
+        "uri": "https://www.google.com/maps/contrib/106847663515362879388/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXPenHcmDDdNZ9R3dGKDyD7EFRx1LAa8GQlV6_Q-KuTNfcZRGDphA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-08T03:07:02.638374831Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xvelZVZERlVkpsY1RJdE5GbE5SVUpQYjFCWldVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xvelZVZERlVkpsY1RJdE5GbE5SVUpQYjFCWldVRRAB!2m1!1s0x3442afcdd29fdebd:0xe063e93c0774323f"
+    },
+    {
+      "name": "places/ChIJvd6f0s2vQjQRPzJ0BzzpY-A/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGNVJIWlVjM0l3VGpsU00ydDZNSGRSUlRWcE1VRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "可電子支付, 內用座位多.\n\n餐點便宜, 味道不錯.",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "可電子支付, 內用座位多.\n\n餐點便宜, 味道不錯.",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "yi",
+        "uri": "https://www.google.com/maps/contrib/112769875686149618314/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKQKt1_bpoQe8ZHzbQWUE51V0ugfMu8bX0x2rMmQYjj84Xj_w=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-01-31T08:52:38.630312900Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGNVJIWlVjM0l3VGpsU00ydDZNSGRSUlRWcE1VRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGNVJIWlVjM0l3VGpsU00ydDZNSGRSUlRWcE1VRRAB!2m1!1s0x3442afcdd29fdebd:0xe063e93c0774323f"
+    },
+    {
+      "name": "places/ChIJvd6f0s2vQjQRPzJ0BzzpY-A/reviews/Ci9DQUlRQUNvZENodHljRjlvT21FeldWWkxhbUZ1YW04MmFrSTBhVlZ6TlROMVozYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "需自帶墊子或寵物包可上座位～店員也很喜歡狗狗，能感覺到寵物友善餐點也好吃～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "需自帶墊子或寵物包可上座位～店員也很喜歡狗狗，能感覺到寵物友善餐點也好吃～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張翰堂",
+        "uri": "https://www.google.com/maps/contrib/112499556856428259712/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWUGt3dXrLLN_3dCwwxRkASuQT2_WNY-h0DRiNiP1iXkHeXkkRv=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-18T06:24:39.949050362Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21FeldWWkxhbUZ1YW04MmFrSTBhVlZ6TlROMVozYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21FeldWWkxhbUZ1YW04MmFrSTBhVlZ6TlROMVozYxAB!2m1!1s0x3442afcdd29fdebd:0xe063e93c0774323f"
+    },
+    {
+      "name": "places/ChIJvd6f0s2vQjQRPzJ0BzzpY-A/reviews/Ci9DQUlRQUNvZENodHljRjlvT214dlluTm9NMFZQV2xsdlMwMU9RVkpoVjNSNVpIYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "早餐好吃，內用環境佳。周邊為寧靜住宅區。\n10252524",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "早餐好吃，內用環境佳。周邊為寧靜住宅區。\n10252524",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jason YiZhen Lin",
+        "uri": "https://www.google.com/maps/contrib/103939476763483479537/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWcVJ4ipT1dkLN1jW0sIVcEPJUvuti8aeyLtJPHChUA3yYX5lrHCA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-03-02T11:24:49.513918579Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214dlluTm9NMFZQV2xsdlMwMU9RVkpoVjNSNVpIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214dlluTm9NMFZQV2xsdlMwMU9RVkpoVjNSNVpIYxAB!2m1!1s0x3442afcdd29fdebd:0xe063e93c0774323f"
+    }
+  ],
+  "goodForChildren": true
+}

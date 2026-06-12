@@ -1,0 +1,136 @@
+{
+  "id": "ChIJUWvDPUerQjQRewk1r5jXoWc",
+  "types": [
+    "pizza_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2653 2699",
+  "formattedAddress": "115台灣臺北市南港區中南里忠孝東路七段612號",
+  "location": {
+    "latitude": 25.052894499999997,
+    "longitude": 121.6156202
+  },
+  "rating": 4.6,
+  "websiteUri": "https://www.dominos.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 234,
+  "displayName": {
+    "text": "達美樂披薩 南港店",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Delivery, carryout & dine-in chain offering a wide range of pizzas, plus a variety of other dishes & sides.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJUWvDPUerQjQRewk1r5jXoWc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxWlF6WlhNRWRFWTFOS1JGSlNUek4wUjFacmRHYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "速度超快，而且味道超級好吃，裡面有個阿姨服務特別親切",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "速度超快，而且味道超級好吃，裡面有個阿姨服務特別親切",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Dorothy Lee",
+        "uri": "https://www.google.com/maps/contrib/109598618020142911660/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVgVKkRojnSRZR_HGxmmJmuZ4TOyCYGZkxG7pCJJb4gC3MDcbBA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-11T11:52:20.994910759Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxWlF6WlhNRWRFWTFOS1JGSlNUek4wUjFacmRHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxWlF6WlhNRWRFWTFOS1JGSlNUek4wUjFacmRHYxAB!2m1!1s0x3442ab473dc36b51:0x67a1d798af35097b"
+    },
+    {
+      "name": "places/ChIJUWvDPUerQjQRewk1r5jXoWc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tocGJEUkxNVkl0VG5aRE9GbDZaV3RSUm5kTVNVRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "外帶大披薩三個回家打開發現錯兩個，但是店員親送正確的來給五顆星",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "外帶大披薩三個回家打開發現錯兩個，但是店員親送正確的來給五顆星",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "JianYiTing",
+        "uri": "https://www.google.com/maps/contrib/107585627028874898391/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUDKeIPoTWaK_XIAOlngJQD6fG3yAocf3tnoQgGDLfdRnPIdVgaYw=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-20T13:18:32.609292313Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tocGJEUkxNVkl0VG5aRE9GbDZaV3RSUm5kTVNVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tocGJEUkxNVkl0VG5aRE9GbDZaV3RSUm5kTVNVRRAB!2m1!1s0x3442ab473dc36b51:0x67a1d798af35097b"
+    },
+    {
+      "name": "places/ChIJUWvDPUerQjQRewk1r5jXoWc/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBM3R1ZnpBRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "5這間只有外帶，火山pizza，過年半價，好玩，但沒吃飽！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "5這間只有外帶，火山pizza，過年半價，好玩，但沒吃飽！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "章R-C",
+        "uri": "https://www.google.com/maps/contrib/110321112089567092317/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVmE-QqBhXLJQ6lEDYfREa1foTuqLnpnGkF52iN7JVgfI5Cgh1q=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-02-01T06:22:50.661643Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBM3R1ZnpBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBM3R1ZnpBRRAB!2m1!1s0x3442ab473dc36b51:0x67a1d798af35097b"
+    },
+    {
+      "name": "places/ChIJUWvDPUerQjQRewk1r5jXoWc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOM1YzUkliRGxyZEVKMVltTTVWa0pFUlZsbWMxRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "感覺很推薦給大家！訂了一個多小時都還沒來，可以少吃很多東西就能準備入睡了",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "感覺很推薦給大家！訂了一個多小時都還沒來，可以少吃很多東西就能準備入睡了",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Vic",
+        "uri": "https://www.google.com/maps/contrib/104613013073318716153/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZ3YO2y7c3otQanG1pHRZtQdJrCoo7DBIMizIDe4ZyZ2zSNGOx_g=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-08T15:17:17.640893936Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOM1YzUkliRGxyZEVKMVltTTVWa0pFUlZsbWMxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOM1YzUkliRGxyZEVKMVltTTVWa0pFUlZsbWMxRRAB!2m1!1s0x3442ab473dc36b51:0x67a1d798af35097b"
+    },
+    {
+      "name": "places/ChIJUWvDPUerQjQRewk1r5jXoWc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkZk5WcEtVMWhwTlRCeE1URTJWMVJpZUZCQk4wRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "非常好的服務態度🥲因為外送app，我誤會了店家沒送餐，店家還跟我說不好意思，食物也美味，謝謝晚班店員讓我有愉快的晚餐🫶🏻",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "非常好的服務態度🥲因為外送app，我誤會了店家沒送餐，店家還跟我說不好意思，食物也美味，謝謝晚班店員讓我有愉快的晚餐🫶🏻",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "尤娜",
+        "uri": "https://www.google.com/maps/contrib/101054620749982392653/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUfvjiDBD8WYhkDB627FYcWZso6RiO2sIvyu1nC3-SWazYXHic=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-12T15:25:02.945372442Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkZk5WcEtVMWhwTlRCeE1URTJWMVJpZUZCQk4wRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkZk5WcEtVMWhwTlRCeE1URTJWMVJpZUZCQk4wRRAB!2m1!1s0x3442ab473dc36b51:0x67a1d798af35097b"
+    }
+  ],
+  "menuForChildren": false
+}

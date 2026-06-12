@@ -1,0 +1,133 @@
+﻿{
+    "id":  "ChIJKxsPoU2pQjQRUpfs__F_r1Y",
+    "types":  [
+                  "coffee_shop",
+                  "dog_cafe",
+                  "coffee_stand",
+                  "cafe",
+                  "food_store",
+                  "store",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 988 825 977",
+    "formattedAddress":  "10364台灣臺北市大同區雙連里錦西街88號",
+    "location":  {
+                     "latitude":  25.060174,
+                     "longitude":  121.51893740000001
+                 },
+    "rating":  4.9,
+    "userRatingCount":  159,
+    "displayName":  {
+                        "text":  "微停咖啡（歡迎帶毛孩來玩!!任何資訊請看IG:微停咖啡)",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJKxsPoU2pQjQRUpfs__F_r1Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ZeFpXbEpNMHBRZWtkVk5UUTBSVWRPZW1kdlFVRRAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "老闆超熱情！超好聊👍 ，一定要來一杯招牌的海鹽焦糖，拿鐵咖啡也很好玩哦！",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "老闆超熱情！超好聊👍 ，一定要來一杯招牌的海鹽焦糖，拿鐵咖啡也很好玩哦！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Once",
+                                                  "uri":  "https://www.google.com/maps/contrib/113039835160913321083/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocJmp3gHH9Y0tFcsK46fdGUE-vX21FyibMyXJssnCjEHVBny3DDA=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2026-01-22T07:47:06.357560148Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25ZeFpXbEpNMHBRZWtkVk5UUTBSVWRPZW1kdlFVRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ZeFpXbEpNMHBRZWtkVk5UUTBSVWRPZW1kdlFVRRAB!2m1!1s0x3442a94da10f1b2b:0x56af7ff1ffec9752"
+                    },
+                    {
+                        "name":  "places/ChIJKxsPoU2pQjQRUpfs__F_r1Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tNME5HSldjVFphTWpsVWFWQjJaRjlWYkVKblpsRRAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  1,
+                        "text":  {
+                                     "text":  "幾個月前買過覺得CP值還可以，\n今天再來外帶價格居然貴了30元\n看其他人評論的照片\n兩個月前還是原本價格？？\n而且本來貼在外面的大海報菜單有價格也不見了。\n不過也是自己沒問清楚價格就點了\n如果要來買的人，請記得先問價格！\n這個價格CP值真的太低了～～～～～～\n附近咖啡店也很多，你可以有更好的選擇\n\n拿鐵中杯360ml外帶是120$喔～\n其他調味拿鐵是150$\n要問清楚再買。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "幾個月前買過覺得CP值還可以，\n今天再來外帶價格居然貴了30元\n看其他人評論的照片\n兩個月前還是原本價格？？\n而且本來貼在外面的大海報菜單有價格也不見了。\n不過也是自己沒問清楚價格就點了\n如果要來買的人，請記得先問價格！\n這個價格CP值真的太低了～～～～～～\n附近咖啡店也很多，你可以有更好的選擇\n\n拿鐵中杯360ml外帶是120$喔～\n其他調味拿鐵是150$\n要問清楚再買。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Kelly Lin",
+                                                  "uri":  "https://www.google.com/maps/contrib/105191570343639326908/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjV-DCOEkdTeqxMeXbGeQDTCsykeiuJnEEtsT_h_-htKiQofpZk=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-12-13T02:59:57.511076018Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tNME5HSldjVFphTWpsVWFWQjJaRjlWYkVKblpsRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tNME5HSldjVFphTWpsVWFWQjJaRjlWYkVKblpsRRAB!2m1!1s0x3442a94da10f1b2b:0x56af7ff1ffec9752"
+                    },
+                    {
+                        "name":  "places/ChIJKxsPoU2pQjQRUpfs__F_r1Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsd2VXNUNhVTFSTlZSSGVpMUhYM1poVUVNdFNIYxAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "老闆很親切！貴妃烏龍好喝🫶🏻\n旺旺超級無敵可愛，好愛他啊啊啊啊啊啊",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "老闆很親切！貴妃烏龍好喝🫶🏻\n旺旺超級無敵可愛，好愛他啊啊啊啊啊啊",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "湘",
+                                                  "uri":  "https://www.google.com/maps/contrib/100132550810884390189/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjU4h3WVJzWv3a0qp7vQJ6Xj2h_3QRLo9jVHNjv5FuGBbzZgRQI=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2026-02-13T09:14:21.638896832Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsd2VXNUNhVTFSTlZSSGVpMUhYM1poVUVNdFNIYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsd2VXNUNhVTFSTlZSSGVpMUhYM1poVUVNdFNIYxAB!2m1!1s0x3442a94da10f1b2b:0x56af7ff1ffec9752"
+                    },
+                    {
+                        "name":  "places/ChIJKxsPoU2pQjQRUpfs__F_r1Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT21zMFlqbG5WMFpOU2pSalNqZENhM2xwWVdsalExRRAB",
+                        "relativePublishTimeDescription":  "9 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "咖啡好喝寵物友善唷～每次去都有機會認識新朋友🥰",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "咖啡好喝寵物友善唷～每次去都有機會認識新朋友🥰",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "H",
+                                                  "uri":  "https://www.google.com/maps/contrib/103401663000785699935/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVLeIOLNlWFJzx36OOUyqL_iEwAjTbbCg_RqbA_qtGbySP1u-Homw=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2025-08-28T06:08:39.052732307Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21zMFlqbG5WMFpOU2pSalNqZENhM2xwWVdsalExRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21zMFlqbG5WMFpOU2pSalNqZENhM2xwWVdsalExRRAB!2m1!1s0x3442a94da10f1b2b:0x56af7ff1ffec9752"
+                    },
+                    {
+                        "name":  "places/ChIJKxsPoU2pQjQRUpfs__F_r1Y/reviews/ChZDSUhNMG9nS0VJQ0FnTUR3bGFUS2JREAE",
+                        "relativePublishTimeDescription":  "1 年前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "茶很好喝\n因為不能喝咖啡點了茶\n不苦澀很香\n老闆很健談人很好\n可惜狗狗去洗澎澎了～\n有機會會帶我們家的狗狗們來玩",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "茶很好喝\n因為不能喝咖啡點了茶\n不苦澀很香\n老闆很健談人很好\n可惜狗狗去洗澎澎了～\n有機會會帶我們家的狗狗們來玩",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Tzu Han Chen",
+                                                  "uri":  "https://www.google.com/maps/contrib/113072379050933044173/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWrwwX9uxp8146vEpjvoLZsxk_0xgXegdMXyXnWGPg6NHkkC1Ju=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-04-14T11:42:21.611035Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUR3bGFUS2JREAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUR3bGFUS2JREAE!2m1!1s0x3442a94da10f1b2b:0x56af7ff1ffec9752"
+                    }
+                ]
+}

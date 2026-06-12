@@ -1,0 +1,132 @@
+{
+  "id": "ChIJX9vpOJWrQjQR5z5MEo3SAD4",
+  "types": [
+    "vegetarian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2766 6123",
+  "formattedAddress": "105台灣臺北市松山區慈祐里八德路四段658號",
+  "location": {
+    "latitude": 25.049889699999998,
+    "longitude": 121.57568469999998
+  },
+  "rating": 4.4,
+  "websiteUri": "https://www.facebook.com/VGestpizza",
+  "userRatingCount": 1087,
+  "displayName": {
+    "text": "蔬食百匯（首都松山店）",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJX9vpOJWrQjQR5z5MEo3SAD4/reviews/Ci9DQUlRQUNvZENodHljRjlvT21zdGEzTmhWMjkwUkd4cFJFeElOVXRCVDJsTVIyYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "餐點的內容以這個價格來講，性價比是高的。\n但是有個大問題，12點半之後菜盤空了幾乎就沒有再補，我朋友是1點多才到，基本上大部分的菜盤都是空的。\n下午2點半以後是下午茶時間，理論上就是把中午的菜一直延續到下午，不大懂為什麼不菜，因為還有下午茶基本上也不會浪費的。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點的內容以這個價格來講，性價比是高的。\n但是有個大問題，12點半之後菜盤空了幾乎就沒有再補，我朋友是1點多才到，基本上大部分的菜盤都是空的。\n下午2點半以後是下午茶時間，理論上就是把中午的菜一直延續到下午，不大懂為什麼不菜，因為還有下午茶基本上也不會浪費的。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Steven Liao",
+        "uri": "https://www.google.com/maps/contrib/103995666246512531533/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWzutsYyvsHUfes8xAW_JJZa631I3voLUHpFRs6jfSyuiEaZm8lcA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-03-09T09:02:55.115306280Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21zdGEzTmhWMjkwUkd4cFJFeElOVXRCVDJsTVIyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21zdGEzTmhWMjkwUkd4cFJFeElOVXRCVDJsTVIyYxAB!2m1!1s0x3442ab9538e9db5f:0x3e00d28d124c3ee7"
+    },
+    {
+      "name": "places/ChIJX9vpOJWrQjQR5z5MEo3SAD4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGZlExVkxaMjlOWjNWc1JXdzJUMnRTWDBOMVZFRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "Vgest整體挺不錯的!多種披薩可挑選，搭配多種蔬菜餡料，吃起來不油膩又滿足。素食餐點選擇豐富，炸物、燉飯、沙拉都很用心，每道都有特色且色彩繽紛，看得賞心悅目。最有趣的是我自己卷了花生捲冰淇淋，甜香花生搭配綿密冰淇淋，可惜沒有跟花生捲最搭的香草口味，不過自己動手卷的過程很療癒，吃起來特別有成就感。整體環境舒適、服務親切，值得推薦。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "Vgest整體挺不錯的!多種披薩可挑選，搭配多種蔬菜餡料，吃起來不油膩又滿足。素食餐點選擇豐富，炸物、燉飯、沙拉都很用心，每道都有特色且色彩繽紛，看得賞心悅目。最有趣的是我自己卷了花生捲冰淇淋，甜香花生搭配綿密冰淇淋，可惜沒有跟花生捲最搭的香草口味，不過自己動手卷的過程很療癒，吃起來特別有成就感。整體環境舒適、服務親切，值得推薦。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "柏諺",
+        "uri": "https://www.google.com/maps/contrib/100206648488770393569/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXWaRn8VHCtC82PKV9k-jatGS-yGUgHAZBR01TnI2XQPZA7rM6z=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-13T14:45:38.842082597Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGZlExVkxaMjlOWjNWc1JXdzJUMnRTWDBOMVZFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGZlExVkxaMjlOWjNWc1JXdzJUMnRTWDBOMVZFRRAB!2m1!1s0x3442ab9538e9db5f:0x3e00d28d124c3ee7"
+    },
+    {
+      "name": "places/ChIJX9vpOJWrQjQR5z5MEo3SAD4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkbmJHUkRXblYyUWxSd01YcGhNRE51ZWxRelNWRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "第一次吃素食吃到飽，披薩好吃，薄底的披薩可以吃比較多片，口味也不錯，白醬意大利麵跟青醬燉飯也好吃，炸物頗多，吃起來感覺差不多，壽司的飯太硬太扎實，大部分的菜品都不錯，但種類就沒有那麼多，可以吃的飽。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次吃素食吃到飽，披薩好吃，薄底的披薩可以吃比較多片，口味也不錯，白醬意大利麵跟青醬燉飯也好吃，炸物頗多，吃起來感覺差不多，壽司的飯太硬太扎實，大部分的菜品都不錯，但種類就沒有那麼多，可以吃的飽。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Simon Hsu",
+        "uri": "https://www.google.com/maps/contrib/105208708521927591143/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVD5l3vT29ySEcaGW7xO9t_EOMNud7IQZgdBPtaasLmbtfB9lEmDg=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-12-30T13:17:47.862447182Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkbmJHUkRXblYyUWxSd01YcGhNRE51ZWxRelNWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkbmJHUkRXblYyUWxSd01YcGhNRE51ZWxRelNWRRAB!2m1!1s0x3442ab9538e9db5f:0x3e00d28d124c3ee7"
+    },
+    {
+      "name": "places/ChIJX9vpOJWrQjQR5z5MEo3SAD4/reviews/Ci9DQUlRQUNvZENodHljRjlvT205V1ZtaElRVmRuZEdaUFIzRnlWM2g0TWkxS2RHYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "現在推出中餐吃到飽，加入會員第二人半價，我覺得以素食的菜色來說，現在中午468算是可以，菜色很多元！老闆說是奶蛋素，我沒有吃素所以我是覺得滿好吃的，\n連我這吃肉的人都覺得不錯，很厲害喔！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "現在推出中餐吃到飽，加入會員第二人半價，我覺得以素食的菜色來說，現在中午468算是可以，菜色很多元！老闆說是奶蛋素，我沒有吃素所以我是覺得滿好吃的，\n連我這吃肉的人都覺得不錯，很厲害喔！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "瑪姬幸福過日子",
+        "uri": "https://www.google.com/maps/contrib/112084371810887935570/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV-JAhDSFtWFLezstd6eBn7t-ijSH-IbWYiolLeTc74WP8Gezs=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-11-14T06:51:14.149826742Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205V1ZtaElRVmRuZEdaUFIzRnlWM2g0TWkxS2RHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205V1ZtaElRVmRuZEdaUFIzRnlWM2g0TWkxS2RHYxAB!2m1!1s0x3442ab9538e9db5f:0x3e00d28d124c3ee7"
+    },
+    {
+      "name": "places/ChIJX9vpOJWrQjQR5z5MEo3SAD4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taMk9FOUVZblIzV1cxU1JGZ3lPV2xDYjFWellXYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "蔬食很有創意，口感有層次，感受到店家對於蔬食的喜愛，非常值得素食者來試一次。\n壽司真是太有趣了，不僅是形狀一樣，連口感都仿真，我完全吃不出來烏魚子是用胡蘿蔔做的！超級推薦何首烏補氣湯，一點都不輸葷食的雞湯，蘿蔔糕跟義大利麵也非常美味。甜點冰淇淋很普通可以不用吃，鹹食跟湯品才是重點。\n服務人員效率好，價格樸實，建議要訂位。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "蔬食很有創意，口感有層次，感受到店家對於蔬食的喜愛，非常值得素食者來試一次。\n壽司真是太有趣了，不僅是形狀一樣，連口感都仿真，我完全吃不出來烏魚子是用胡蘿蔔做的！超級推薦何首烏補氣湯，一點都不輸葷食的雞湯，蘿蔔糕跟義大利麵也非常美味。甜點冰淇淋很普通可以不用吃，鹹食跟湯品才是重點。\n服務人員效率好，價格樸實，建議要訂位。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Fanny Hu",
+        "uri": "https://www.google.com/maps/contrib/107747697526430838260/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXMYgr9YG449uNxcBZ7o2Ql7LeMHhYTbj1cyXXihgo5tJg4f1se=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-26T00:31:11.271005952Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taMk9FOUVZblIzV1cxU1JGZ3lPV2xDYjFWellXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taMk9FOUVZblIzV1cxU1JGZ3lPV2xDYjFWellXYxAB!2m1!1s0x3442ab9538e9db5f:0x3e00d28d124c3ee7"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

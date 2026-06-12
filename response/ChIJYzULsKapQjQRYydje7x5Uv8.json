@@ -1,0 +1,137 @@
+{
+  "id": "ChIJYzULsKapQjQRYydje7x5Uv8",
+  "types": [
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2331 1117",
+  "formattedAddress": "100台灣臺北市中正區南門里延平南路163巷2號",
+  "location": {
+    "latitude": 25.0350403,
+    "longitude": 121.50792639999999
+  },
+  "rating": 4.2,
+  "websiteUri": "https://www.facebook.com/yufang.restaurant/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 2507,
+  "displayName": {
+    "text": "川揚郁坊小館",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Traditional Chinese fare is served at this unpretentious, streamlined restaurant.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJYzULsKapQjQRYydje7x5Uv8/reviews/Ci9DQUlRQUNvZENodHljRjlvT205bVpGSjFMV2hGUkVaMFNEVm1VazlrZG1KZmRIYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "在小巷內，客人很多，老先生很有個性 ，說人全到才能入席、還提醒我點太多肉 但最後還是忍不住多點了😆 。6人點了7道菜，不到2000，價格挺便宜划算 應會再回訪。\n豆乾肉絲 （這道菜全桌認為最好吃 有鍋氣）\n糖醋魚片（酸甜調味佳 ）\n粉蒸肉（是用五花肉 跟想像中不一樣。沒啥人動筷子 不該點的 調味類似桃源街牛肉麵的粉蒸系列 但不難吃）\n清炒芥藍（嫩+脆 沒苦味）\n雪菜百頁（清爽調味不重）\n東坡肉（很大盤 附刈包 口味偏甜）\n豆沙鍋餅（豆沙綿密表皮酥脆）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在小巷內，客人很多，老先生很有個性 ，說人全到才能入席、還提醒我點太多肉 但最後還是忍不住多點了😆 。6人點了7道菜，不到2000，價格挺便宜划算 應會再回訪。\n豆乾肉絲 （這道菜全桌認為最好吃 有鍋氣）\n糖醋魚片（酸甜調味佳 ）\n粉蒸肉（是用五花肉 跟想像中不一樣。沒啥人動筷子 不該點的 調味類似桃源街牛肉麵的粉蒸系列 但不難吃）\n清炒芥藍（嫩+脆 沒苦味）\n雪菜百頁（清爽調味不重）\n東坡肉（很大盤 附刈包 口味偏甜）\n豆沙鍋餅（豆沙綿密表皮酥脆）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Fiona Liang",
+        "uri": "https://www.google.com/maps/contrib/110859521138338195105/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIgl_10qz46MQspnjF1P4If9yIFvwqkNJ4QQmhop-lfHn91KA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-27T22:42:35.808293942Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205bVpGSjFMV2hGUkVaMFNEVm1VazlrZG1KZmRIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205bVpGSjFMV2hGUkVaMFNEVm1VazlrZG1KZmRIYxAB!2m1!1s0x3442a9a6b00b3563:0xff5279bc7b632763"
+    },
+    {
+      "name": "places/ChIJYzULsKapQjQRYydje7x5Uv8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psVGFqaEtXbXRsVFUxM1dITktSMFpvUjA1WlMzYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "許久未到訪，趁著到歷史博物館看展過來打牙祭。雖然好多菜都想吃想回味，但是這次只有兩個人，無法點食大菜色，倒也忍不住點了四道菜和一碗拌麵，筷子停不了，飽食滿足啊！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "許久未到訪，趁著到歷史博物館看展過來打牙祭。雖然好多菜都想吃想回味，但是這次只有兩個人，無法點食大菜色，倒也忍不住點了四道菜和一碗拌麵，筷子停不了，飽食滿足啊！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "iria wang",
+        "uri": "https://www.google.com/maps/contrib/109436102907311606729/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ4LAX1GxMIOwIIW6m1mnaV1WIDokUcQteoG8gXydfHrjnPOYfR=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-25T01:29:43.443390862Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psVGFqaEtXbXRsVFUxM1dITktSMFpvUjA1WlMzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psVGFqaEtXbXRsVFUxM1dITktSMFpvUjA1WlMzYxAB!2m1!1s0x3442a9a6b00b3563:0xff5279bc7b632763"
+    },
+    {
+      "name": "places/ChIJYzULsKapQjQRYydje7x5Uv8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCdVIxcHdiV0l5UWxSS01XNVlOMHhWVWtsRlgyYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "進來後，就忍不住一直看隔壁桌上什麼菜...\n無法訂位！\n\n份量不多但口味不錯。\n\n人超多，週日5點不到就有人排隊，進來後還一堆外帶訂單，門口還排一堆人\n\n努力點了九道菜，約3000，都好吃，可惜胃不夠大，不然好想點東坡肉和鴨",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "進來後，就忍不住一直看隔壁桌上什麼菜...\n無法訂位！\n\n份量不多但口味不錯。\n\n人超多，週日5點不到就有人排隊，進來後還一堆外帶訂單，門口還排一堆人\n\n努力點了九道菜，約3000，都好吃，可惜胃不夠大，不然好想點東坡肉和鴨",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Peter Pan",
+        "uri": "https://www.google.com/maps/contrib/116866306912427882832/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJCkecq4AO59anIoxRitwHBStKGJW8nSxQewXn9LikFGZna4Q=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-19T09:01:28.779884011Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCdVIxcHdiV0l5UWxSS01XNVlOMHhWVWtsRlgyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCdVIxcHdiV0l5UWxSS01XNVlOMHhWVWtsRlgyYxAB!2m1!1s0x3442a9a6b00b3563:0xff5279bc7b632763"
+    },
+    {
+      "name": "places/ChIJYzULsKapQjQRYydje7x5Uv8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25jMFRVd3liMjVsVEZOM2JqbHhSbHAyYUhOSFYwRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "完全是一分錢一分貨（褒義），比較貴的菜的確食材就比較昂貴，其他都驚人地便宜，卻不跟好吃程度成反比。\n\n好吃：\n不錯：肴肉、蝦仁豆苗、紅燒豆腐、粉蒸排骨、豆乾炒肉絲\n中間：蔥油煨麵\n不好吃：菜心（調味太重，醬太水）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "完全是一分錢一分貨（褒義），比較貴的菜的確食材就比較昂貴，其他都驚人地便宜，卻不跟好吃程度成反比。\n\n好吃：\n不錯：肴肉、蝦仁豆苗、紅燒豆腐、粉蒸排骨、豆乾炒肉絲\n中間：蔥油煨麵\n不好吃：菜心（調味太重，醬太水）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Darren Lin",
+        "uri": "https://www.google.com/maps/contrib/102568498993695269241/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKutTU41WRpIdVtzlaxAEVVIG4I505146RYzjjRjGj0N_Sv5A=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-10T13:28:06.830251347Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25jMFRVd3liMjVsVEZOM2JqbHhSbHAyYUhOSFYwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25jMFRVd3liMjVsVEZOM2JqbHhSbHAyYUhOSFYwRRAB!2m1!1s0x3442a9a6b00b3563:0xff5279bc7b632763"
+    },
+    {
+      "name": "places/ChIJYzULsKapQjQRYydje7x5Uv8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGTWFqbEpVMnRCUzBVMGVGTk9WRTFDWlZVM05XYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "紅燒肉搭配刈包很好吃，炒蝦仁也很推薦，其他的菜色也好吃，紅燒大肥跟一般的不大一樣，調味有一點點酸甜感，醬汁有勾芡，同桌友人就比較吃不習慣",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "紅燒肉搭配刈包很好吃，炒蝦仁也很推薦，其他的菜色也好吃，紅燒大肥跟一般的不大一樣，調味有一點點酸甜感，醬汁有勾芡，同桌友人就比較吃不習慣",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Kate Cheng",
+        "uri": "https://www.google.com/maps/contrib/116293253313683940789/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWlKfQgotcpL6AZx6tI_x0-QCn7QZNLeZFZzYDDbUZv6IUCqELjzg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-23T14:42:34.222713187Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGTWFqbEpVMnRCUzBVMGVGTk9WRTFDWlZVM05XYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGTWFqbEpVMnRCUzBVMGVGTk9WRTFDWlZVM05XYxAB!2m1!1s0x3442a9a6b00b3563:0xff5279bc7b632763"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

@@ -1,0 +1,137 @@
+{
+  "id": "ChIJk8-Zk9mrQjQRBEnxj2z9AG0",
+  "types": [
+    "italian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2778 8701",
+  "formattedAddress": "106台灣臺北市大安區誠安里忠孝東路三段251巷13弄2號1樓",
+  "location": {
+    "latitude": 25.043824299999997,
+    "longitude": 121.54172399999999
+  },
+  "rating": 4.7,
+  "websiteUri": "https://www.facebook.com/JR%E7%BE%A9%E6%B3%95-464650933930921/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1172,
+  "displayName": {
+    "text": "J&R義法",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Rustic-chic restaurant spotlighting elevated noodle & rice dishes, plus seafood meals.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJk8-Zk9mrQjQRBEnxj2z9AG0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCUmMySklTbVIyTFZadmR6aFFXVGx3ZGt0MFNVRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "想不到在台北能吃到這麼好吃的法式薄餅!!鹹的甜的都很好吃，價格也很合理! 有機會一定要再去品嚐其它口味的薄餅~👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "想不到在台北能吃到這麼好吃的法式薄餅!!鹹的甜的都很好吃，價格也很合理! 有機會一定要再去品嚐其它口味的薄餅~👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Vanessa Hsieh",
+        "uri": "https://www.google.com/maps/contrib/107829891787050505619/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZfDUFRjA4khpoEnkPAKhaHTpp366oJcyyJXbSP_onnN0hPFus=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-06T14:05:33.821089036Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCUmMySklTbVIyTFZadmR6aFFXVGx3ZGt0MFNVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCUmMySklTbVIyTFZadmR6aFFXVGx3ZGt0MFNVRRAB!2m1!1s0x3442abd99399cf93:0x6d00fd6c8ff14904"
+    },
+    {
+      "name": "places/ChIJk8-Zk9mrQjQRBEnxj2z9AG0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCUVRYcHBTRTExYVVzNVVUYzJabXRtZFU5V1ZXYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "非常好吃！份量看起來普通，但其實可以吃得滿飽的\n\n義大利麵醬汁濃厚，緊緊扒在麵條上很入味，硬度適中，肉類軟嫩多汁吃得到食材本身的味道\n\n烤餅鬆鬆脆脆的很香，甜的鹹的都很讚\n\n店家只能付現金，吃得太開心差點湊不出錢",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "非常好吃！份量看起來普通，但其實可以吃得滿飽的\n\n義大利麵醬汁濃厚，緊緊扒在麵條上很入味，硬度適中，肉類軟嫩多汁吃得到食材本身的味道\n\n烤餅鬆鬆脆脆的很香，甜的鹹的都很讚\n\n店家只能付現金，吃得太開心差點湊不出錢",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Zix",
+        "uri": "https://www.google.com/maps/contrib/114753602581401969497/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVgI_zqk9sKtlP8xGponzI4j2hdsS1uPCYCCgqYq4hPPsqoB8Q=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-24T09:09:30.768349690Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCUVRYcHBTRTExYVVzNVVUYzJabXRtZFU5V1ZXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCUVRYcHBTRTExYVVzNVVUYzJabXRtZFU5V1ZXYxAB!2m1!1s0x3442abd99399cf93:0x6d00fd6c8ff14904"
+    },
+    {
+      "name": "places/ChIJk8-Zk9mrQjQRBEnxj2z9AG0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSYVdEVktiMEp4WDBob1UzUkVTbE5SVldaSmVsRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 2,
+      "text": {
+        "text": "漁夫干貝海鮮義大利麵$430🌕🌗🌑🌑🌑\n海鮮新鮮，但是義大利麵體是使用比較粗的那種沒有口感軟軟的，醬汁和麵是分開的，沒有融合感，很失望\n青醬漁夫干貝海鮮燉飯$430🌕🌕🌕🌗🌑\n相較於義大利麵，燉飯好一些\n酥炸牡蠣(4顆)$220 🌕🌗🌑🌑🌑\n牡蠣超級無敵小～根本是一般蚵仔煎的蚵仔大小（附圖）完全沒有這個價位應有的價值\n套餐(濃湯 麵包 沙拉 飲品)$180🌕🌕🌕🌗🌑\n濃湯蠻好喝的，麵包也好吃，沙拉飲品一般\n焦糖香蕉薄餅$230🌕🌕🌕🌑🌑\n餅皮酥中帶軟，焦糖醬很多，香蕉上也有烤焦糖，冰淇淋也甜，所以吃到後來會有點膩",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "漁夫干貝海鮮義大利麵$430🌕🌗🌑🌑🌑\n海鮮新鮮，但是義大利麵體是使用比較粗的那種沒有口感軟軟的，醬汁和麵是分開的，沒有融合感，很失望\n青醬漁夫干貝海鮮燉飯$430🌕🌕🌕🌗🌑\n相較於義大利麵，燉飯好一些\n酥炸牡蠣(4顆)$220 🌕🌗🌑🌑🌑\n牡蠣超級無敵小～根本是一般蚵仔煎的蚵仔大小（附圖）完全沒有這個價位應有的價值\n套餐(濃湯 麵包 沙拉 飲品)$180🌕🌕🌕🌗🌑\n濃湯蠻好喝的，麵包也好吃，沙拉飲品一般\n焦糖香蕉薄餅$230🌕🌕🌕🌑🌑\n餅皮酥中帶軟，焦糖醬很多，香蕉上也有烤焦糖，冰淇淋也甜，所以吃到後來會有點膩",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Mina",
+        "uri": "https://www.google.com/maps/contrib/114010248881360237141/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLQn3KZjqdaiLgiPqe2cGWpBb24SanVNQDku30C5JX3cirmXw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-11-15T08:19:09.299970763Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSYVdEVktiMEp4WDBob1UzUkVTbE5SVldaSmVsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSYVdEVktiMEp4WDBob1UzUkVTbE5SVldaSmVsRRAB!2m1!1s0x3442abd99399cf93:0x6d00fd6c8ff14904"
+    },
+    {
+      "name": "places/ChIJk8-Zk9mrQjQRBEnxj2z9AG0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWclZucERORlZHWTE5TmNXWlVRak5tZG13M2NsRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "清爽無負擔但味道也沒在開玩笑，巴塞米醋沙拉醬味道有夠道地！薄餅香脆好吃地的另人驚豔，甚至比我在法國吃過的還好吃！芥茉籽雞肉也是厚切大塊很海派，鴨胸厚度則是嘟嘟好（太薄太厚都不夠美味），有神快拜啊～～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "清爽無負擔但味道也沒在開玩笑，巴塞米醋沙拉醬味道有夠道地！薄餅香脆好吃地的另人驚豔，甚至比我在法國吃過的還好吃！芥茉籽雞肉也是厚切大塊很海派，鴨胸厚度則是嘟嘟好（太薄太厚都不夠美味），有神快拜啊～～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hsin yin CHANG",
+        "uri": "https://www.google.com/maps/contrib/113770771412913254919/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocInCi6hM4Kn29VfwEjbEm9czw4-hmtK2oTHXInM41Rov3VJuA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-02T11:57:25.016738150Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWclZucERORlZHWTE5TmNXWlVRak5tZG13M2NsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWclZucERORlZHWTE5TmNXWlVRak5tZG13M2NsRRAB!2m1!1s0x3442abd99399cf93:0x6d00fd6c8ff14904"
+    },
+    {
+      "name": "places/ChIJk8-Zk9mrQjQRBEnxj2z9AG0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KMk1WSXlTRGt3T0V0RmVHWm1lWFkwVEc1dVZHYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "散步時偶然發現的寶藏店\n不管是甜鹹食都擁有高水準的味道\n薄餅吃多也不會膩，也很適合多人一起享用",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "散步時偶然發現的寶藏店\n不管是甜鹹食都擁有高水準的味道\n薄餅吃多也不會膩，也很適合多人一起享用",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "阿白",
+        "uri": "https://www.google.com/maps/contrib/102358601899952662130/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUpS4l_4u9qADcoszJlFbVQRqg8c7Y0Ox3VGhsR1sO2eYdWbh8=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-31T03:57:10.663216199Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KMk1WSXlTRGt3T0V0RmVHWm1lWFkwVEc1dVZHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KMk1WSXlTRGt3T0V0RmVHWm1lWFkwVEc1dVZHYxAB!2m1!1s0x3442abd99399cf93:0x6d00fd6c8ff14904"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

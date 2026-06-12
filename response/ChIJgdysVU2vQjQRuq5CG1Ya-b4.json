@@ -1,0 +1,132 @@
+{
+  "id": "ChIJgdysVU2vQjQRuq5CG1Ya-b4",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2883 4253",
+  "formattedAddress": "111台灣臺北市士林區福中里大南路285巷11之1號",
+  "location": {
+    "latitude": 25.0883058,
+    "longitude": 121.51929740000001
+  },
+  "rating": 4.8,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 164,
+  "displayName": {
+    "text": "292早餐店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJgdysVU2vQjQRuq5CG1Ya-b4/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sRGRWQndiR2RoZGtWSmNEQkhXbDgyWm10cmRFRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "老闆態度真的非常好!點餐後就可以入座了~而且還有電視可以看!!!\n推薦：\n1.鐵板麵(可加蛋)真的好吃~不像式料理包!吃起來味道超讚的.\n2.原味蛋餅也是超讚的選擇!點兩份超飽.\n3.九層塔蛋餅香氣十足,好吃又爽口.\n4.義大利肉醬麵,口感軟嫩超級好吃.",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "老闆態度真的非常好!點餐後就可以入座了~而且還有電視可以看!!!\n推薦：\n1.鐵板麵(可加蛋)真的好吃~不像式料理包!吃起來味道超讚的.\n2.原味蛋餅也是超讚的選擇!點兩份超飽.\n3.九層塔蛋餅香氣十足,好吃又爽口.\n4.義大利肉醬麵,口感軟嫩超級好吃.",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Willie Chiu",
+        "uri": "https://www.google.com/maps/contrib/103779060658020291098/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWvMZlvR7O3lmpcgPqs9-1ffS1JNVB7mVwBjmYMmA2DI27NaGs66w=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-31T02:05:35.916977951Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sRGRWQndiR2RoZGtWSmNEQkhXbDgyWm10cmRFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sRGRWQndiR2RoZGtWSmNEQkhXbDgyWm10cmRFRRAB!2m1!1s0x3442af4d55acdc81:0xbef91a561b42aeba"
+    },
+    {
+      "name": "places/ChIJgdysVU2vQjQRuq5CG1Ya-b4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSbGNrRjFSRTFWTUUxMFoxQkJiVm96T0VzelJFRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "雖然客人很多，每份早餐都是現做，估不到上餐速度亦得快。\n老板亦非常忙碌，服務態度依然很好，十分親切。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "雖然客人很多，每份早餐都是現做，估不到上餐速度亦得快。\n老板亦非常忙碌，服務態度依然很好，十分親切。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Tse Nick",
+        "uri": "https://www.google.com/maps/contrib/108125585923431838889/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXGv1J4mJcx7tFD-w8ovnXRYk9EIQAuEFqOhnmE-AqLBTE-c_a7=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-01T13:05:08.957396125Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSbGNrRjFSRTFWTUUxMFoxQkJiVm96T0VzelJFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSbGNrRjFSRTFWTUUxMFoxQkJiVm96T0VzelJFRRAB!2m1!1s0x3442af4d55acdc81:0xbef91a561b42aeba"
+    },
+    {
+      "name": "places/ChIJgdysVU2vQjQRuq5CG1Ya-b4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWcGNHWklXSEZFWlZFNGJsSk9PVWRNYTI5dWJHYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "今天點了九層塔蛋餅、蔥蛋飯糰、宮保雞丁鐵板麵都超級無敵好吃！ 價格很親民。老闆跟老闆娘都很客氣，以後會常常來光顧。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天點了九層塔蛋餅、蔥蛋飯糰、宮保雞丁鐵板麵都超級無敵好吃！ 價格很親民。老闆跟老闆娘都很客氣，以後會常常來光顧。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "chi helen",
+        "uri": "https://www.google.com/maps/contrib/100711024924236020573/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL8FLhKwse2clrjXaT5QrV2B_Y222fwJK9HvNNMlIHjdK8zAA=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-08T05:07:34.777324163Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWcGNHWklXSEZFWlZFNGJsSk9PVWRNYTI5dWJHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWcGNHWklXSEZFWlZFNGJsSk9PVWRNYTI5dWJHYxAB!2m1!1s0x3442af4d55acdc81:0xbef91a561b42aeba"
+    },
+    {
+      "name": "places/ChIJgdysVU2vQjQRuq5CG1Ya-b4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWSk56UjBRVlJRZFRGalYwZzNkRE5YWW1oelFtYxAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 5,
+      "text": {
+        "text": "士林\n中午不想吃正餐，就會想吃個早午餐\n這家是在福中公園旁的早餐店，這家叫「292早餐店」\n\n這家早餐店\n就開在公園的對面\n很適合吃完，在公園走走，散散步\n\n店外煎台區\n很古早味的煎台\n\n有別於連鎖早餐店，就是很古早味的感覺XD\n\n📌 店內位置\n有二人座*2、四人座*3\n\n桌上有辣油、醬油膏、吸管\n吸管放的罐子，整個很有古早味\n\n📌 菜單\n種類很多\n吐司/蛋餅/飯糰/包子/饅頭/鐵板麵/飲料\n\n📌 蘿蔔糕加蔥蛋 ($30+$20=$50)、紅茶-中杯 ($25)\n紅茶是古早味紅茶\n\n蘿蔔糕加蔥蛋\n現點現煎，所以要等一下\n大概等個6~7分鐘左右而已\n每塊蘿蔔糕都有蔥蛋，超讚！\n\n不加醬的版本\n蔥蛋的香氣，加上蘿蔔糕，軟軟的口感\n\n蘿蔔糕，還有絞肉\n所以不加醬，單吃就很好吃\n\n加醬油膏的版本\n醬油膏不死鹹，不會搶走蘿蔔糕的本體\n\n加辣椒的版本\n手工辣椒，很喜歡這種辣椒\n豆瓣醬，很容易搶走食物的原味\n辣椒屬於很麻很辣，建議愛吃辣必加！\n我比較愛加辣的蘿蔔糕，但各有各的風味，都好吃\n\n每塊蘿蔔糕的大小，都是容易入口的大小\n蔥蛋的蘿蔔糕，就是讚\n很推薦大家可以來吃～～\n\n✍️\n(1) 老闆很親切\n(2) 古早味早餐店\n(3) 蘿蔔糕加蔥蛋，必點\n(4) 吃完，可以在對面的公園散步\n(5) 種類很多，有些連鎖早餐店，點不到",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "士林\n中午不想吃正餐，就會想吃個早午餐\n這家是在福中公園旁的早餐店，這家叫「292早餐店」\n\n這家早餐店\n就開在公園的對面\n很適合吃完，在公園走走，散散步\n\n店外煎台區\n很古早味的煎台\n\n有別於連鎖早餐店，就是很古早味的感覺XD\n\n📌 店內位置\n有二人座*2、四人座*3\n\n桌上有辣油、醬油膏、吸管\n吸管放的罐子，整個很有古早味\n\n📌 菜單\n種類很多\n吐司/蛋餅/飯糰/包子/饅頭/鐵板麵/飲料\n\n📌 蘿蔔糕加蔥蛋 ($30+$20=$50)、紅茶-中杯 ($25)\n紅茶是古早味紅茶\n\n蘿蔔糕加蔥蛋\n現點現煎，所以要等一下\n大概等個6~7分鐘左右而已\n每塊蘿蔔糕都有蔥蛋，超讚！\n\n不加醬的版本\n蔥蛋的香氣，加上蘿蔔糕，軟軟的口感\n\n蘿蔔糕，還有絞肉\n所以不加醬，單吃就很好吃\n\n加醬油膏的版本\n醬油膏不死鹹，不會搶走蘿蔔糕的本體\n\n加辣椒的版本\n手工辣椒，很喜歡這種辣椒\n豆瓣醬，很容易搶走食物的原味\n辣椒屬於很麻很辣，建議愛吃辣必加！\n我比較愛加辣的蘿蔔糕，但各有各的風味，都好吃\n\n每塊蘿蔔糕的大小，都是容易入口的大小\n蔥蛋的蘿蔔糕，就是讚\n很推薦大家可以來吃～～\n\n✍️\n(1) 老闆很親切\n(2) 古早味早餐店\n(3) 蘿蔔糕加蔥蛋，必點\n(4) 吃完，可以在對面的公園散步\n(5) 種類很多，有些連鎖早餐店，點不到",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Tina 蒂娜",
+        "uri": "https://www.google.com/maps/contrib/100705679175089870675/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVnCQXb08rHwYZAV6mGbzYlWNn4-Tu4wMOmbei1zs7T1HjSb5rS=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-07-19T15:15:06.453759959Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWSk56UjBRVlJRZFRGalYwZzNkRE5YWW1oelFtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWSk56UjBRVlJRZFRGalYwZzNkRE5YWW1oelFtYxAB!2m1!1s0x3442af4d55acdc81:0xbef91a561b42aeba"
+    },
+    {
+      "name": "places/ChIJgdysVU2vQjQRuq5CG1Ya-b4/reviews/ChZDSUhNMG9nS0VMcWR1cEwwcGVHZUt3EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "饅頭夾起司蛋跟紅茶豆漿都超級喜歡🥹重點夾的蔥蛋 超級香！！\n蘿蔔糕加蛋不是那種煎到很脆的，而是保有原本蘿蔔糕的濕潤軟嫩，蔥蛋包裹著，會上癮\n不吃蔥或胡椒 老闆娘也會問你要不要加\n老闆娘非常親切的招呼我們\n我覺得可以每天吃\n環境乾淨有冷氣，桌子跟桌子間的距離很大 不會很擁擠",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "饅頭夾起司蛋跟紅茶豆漿都超級喜歡🥹重點夾的蔥蛋 超級香！！\n蘿蔔糕加蛋不是那種煎到很脆的，而是保有原本蘿蔔糕的濕潤軟嫩，蔥蛋包裹著，會上癮\n不吃蔥或胡椒 老闆娘也會問你要不要加\n老闆娘非常親切的招呼我們\n我覺得可以每天吃\n環境乾淨有冷氣，桌子跟桌子間的距離很大 不會很擁擠",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ming Yun Liu",
+        "uri": "https://www.google.com/maps/contrib/104569617800194716543/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWNPpqY1o4rTtW70HoqmGo6ZEqtGcUnsf8_YTlTkL7PosPO-oTi=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-05-14T04:33:49.650784Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VMcWR1cEwwcGVHZUt3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VMcWR1cEwwcGVHZUt3EAE!2m1!1s0x3442af4d55acdc81:0xbef91a561b42aeba"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

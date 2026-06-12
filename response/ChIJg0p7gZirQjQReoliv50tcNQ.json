@@ -1,0 +1,138 @@
+{
+  "id": "ChIJg0p7gZirQjQReoliv50tcNQ",
+  "types": [
+    "cafe",
+    "brunch_restaurant",
+    "coworking_space",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 8787 1782",
+  "formattedAddress": "110台灣臺北市信義區興雅里忠孝東路五段165巷3弄6號",
+  "location": {
+    "latitude": 25.041464299999998,
+    "longitude": 121.56897049999998
+  },
+  "rating": 4.1,
+  "websiteUri": "https://www.facebook.com/ArthereCafe",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1928,
+  "displayName": {
+    "text": "Arthere Café 上樓看看咖啡",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Laid-back cafe serving pasta, grills & risottos, plus specialty coffees & teas amid airy surrounds.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJg0p7gZirQjQReoliv50tcNQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wRmJHMWlNMVJZZWprNFNVaGtNemhzZGt3M1FYYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "這間CP值真的很不錯，燉飯和麵都好吃！牛肉不會太老，軟硬適中。\n但是位子相鄰有點近，整體空間有點嘈雜。\n炸物拼盤也不錯，不會太油膩！\n但個人覺得燈光還是偏昏黃偏暗，以坐長時間來說不是到很舒適，但吃飯是個很好的地方！\n\n飲料部分表現普通（飲料就偏貴了，餐點部分Cp值比較高🤣）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這間CP值真的很不錯，燉飯和麵都好吃！牛肉不會太老，軟硬適中。\n但是位子相鄰有點近，整體空間有點嘈雜。\n炸物拼盤也不錯，不會太油膩！\n但個人覺得燈光還是偏昏黃偏暗，以坐長時間來說不是到很舒適，但吃飯是個很好的地方！\n\n飲料部分表現普通（飲料就偏貴了，餐點部分Cp值比較高🤣）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "藍小魚",
+        "uri": "https://www.google.com/maps/contrib/109756575822924775563/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYQafqwnrqKf-USPwvERLTdfs-5_qz8juIAWe705NJcO2FBEc=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-18T15:49:53.389309093Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wRmJHMWlNMVJZZWprNFNVaGtNemhzZGt3M1FYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wRmJHMWlNMVJZZWprNFNVaGtNemhzZGt3M1FYYxAB!2m1!1s0x3442ab98817b4a83:0xd4702d9dbf62897a"
+    },
+    {
+      "name": "places/ChIJg0p7gZirQjQReoliv50tcNQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSUGRsRjBjV0p4VUVOMWFrNTJVR2hRVGpGWGVWRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第一次來這裡用餐，覺得還不錯吃食材新鮮\n雞腿凱撒生菜沙拉\n香辣鮮蝦燉飯\n松露野菇牛肝菌牛排燉飯\n明太子鮮蝦義大利麵",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次來這裡用餐，覺得還不錯吃食材新鮮\n雞腿凱撒生菜沙拉\n香辣鮮蝦燉飯\n松露野菇牛肝菌牛排燉飯\n明太子鮮蝦義大利麵",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ling Lee",
+        "uri": "https://www.google.com/maps/contrib/114569147505771135966/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUa8XW-po9NFNMq_EaahAGLjHiQvbALV3-Lw7YATQcbEwk2JF17=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-03-01T09:03:22.560112124Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSUGRsRjBjV0p4VUVOMWFrNTJVR2hRVGpGWGVWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSUGRsRjBjV0p4VUVOMWFrNTJVR2hRVGpGWGVWRRAB!2m1!1s0x3442ab98817b4a83:0xd4702d9dbf62897a"
+    },
+    {
+      "name": "places/ChIJg0p7gZirQjQReoliv50tcNQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25admQyWTVRMDV6TUZCSWQxTTRWSEJmVVhaRk9IYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "很喜歡能從二樓環形桌能看下去一樓的設計\n採光也很不錯\n-\n📌個人喜好：7.4/10\n\n#信義區咖啡廳 #上樓看看 #台北不限時咖啡廳",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很喜歡能從二樓環形桌能看下去一樓的設計\n採光也很不錯\n-\n📌個人喜好：7.4/10\n\n#信義區咖啡廳 #上樓看看 #台北不限時咖啡廳",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chihying Huang",
+        "uri": "https://www.google.com/maps/contrib/108844452958567402409/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVHHP2wSZc0OvjStDODUpw3F9zCJBLDeojmaklKsm7nexMz3Ai_=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-03-06T05:18:51.897916155Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25admQyWTVRMDV6TUZCSWQxTTRWSEJmVVhaRk9IYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25admQyWTVRMDV6TUZCSWQxTTRWSEJmVVhaRk9IYxAB!2m1!1s0x3442ab98817b4a83:0xd4702d9dbf62897a"
+    },
+    {
+      "name": "places/ChIJg0p7gZirQjQReoliv50tcNQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SelFsRk1XbGRxTFZaUWFrTjNSMVk1ZW1wT2VWRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "是間座位舒適的咖啡廳～對於有辦公需求的人來說，不論是不限時的使用或寬敞的座位空間都相當友善！餐點份量充足，而且下午時段訂位電話幾乎絡繹不絕哈哈，建議來訪前先電話訂位，才不會撲空～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "是間座位舒適的咖啡廳～對於有辦公需求的人來說，不論是不限時的使用或寬敞的座位空間都相當友善！餐點份量充足，而且下午時段訂位電話幾乎絡繹不絕哈哈，建議來訪前先電話訂位，才不會撲空～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "leen su",
+        "uri": "https://www.google.com/maps/contrib/116511785575051408249/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWywOIVLJ29xWKs51Xdqv8i3fIH_I6454H-M3anbYwiFx8NlH4m=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-27T15:24:32.388676861Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SelFsRk1XbGRxTFZaUWFrTjNSMVk1ZW1wT2VWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SelFsRk1XbGRxTFZaUWFrTjNSMVk1ZW1wT2VWRRAB!2m1!1s0x3442ab98817b4a83:0xd4702d9dbf62897a"
+    },
+    {
+      "name": "places/ChIJg0p7gZirQjQReoliv50tcNQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WSVZsbDBlSHA0VDJGbGNIVmthWGRVYVVkeVRFRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "食物 🍲:\n《抹茶牛奶》170元 👍\n飲料裝很滿 喝起來非常順口 完全沒有喝到抹茶粉 香醇濃郁\n\n付款 💳:  可現金、linepay\n\n總評 ⭐️:  很棒的咖啡廳 也有插座 氣氛很好 復古文青 按樓有投影幕會播放療瘉的影片 環境較吵雜 平日晚上來二樓幾乎都被訂位訂滿了 建議可以先訂位",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "食物 🍲:\n《抹茶牛奶》170元 👍\n飲料裝很滿 喝起來非常順口 完全沒有喝到抹茶粉 香醇濃郁\n\n付款 💳:  可現金、linepay\n\n總評 ⭐️:  很棒的咖啡廳 也有插座 氣氛很好 復古文青 按樓有投影幕會播放療瘉的影片 環境較吵雜 平日晚上來二樓幾乎都被訂位訂滿了 建議可以先訂位",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "曾子嘎嘎",
+        "uri": "https://www.google.com/maps/contrib/110331147049388423621/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXO5t-Okh5NNdVf6XULYCMnjGwQhPf3IlguH3-N0j-IhNXGQG2LOA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-25T10:12:42.925791507Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WSVZsbDBlSHA0VDJGbGNIVmthWGRVYVVkeVRFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WSVZsbDBlSHA0VDJGbGNIVmthWGRVYVVkeVRFRRAB!2m1!1s0x3442ab98817b4a83:0xd4702d9dbf62897a"
+    }
+  ],
+  "menuForChildren": false
+}

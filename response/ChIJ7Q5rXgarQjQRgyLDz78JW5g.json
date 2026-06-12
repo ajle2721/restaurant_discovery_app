@@ -1,0 +1,135 @@
+{
+  "id": "ChIJ7Q5rXgarQjQRgyLDz78JW5g",
+  "types": [
+    "cafe",
+    "brunch_restaurant",
+    "meal_delivery",
+    "breakfast_restaurant",
+    "food_delivery",
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2712 2028",
+  "formattedAddress": "104台灣臺北市中山區復華里長春路362號",
+  "location": {
+    "latitude": 25.054479699999998,
+    "longitude": 121.5424303
+  },
+  "rating": 4.6,
+  "websiteUri": "https://polu.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 179,
+  "displayName": {
+    "text": "波宇咖啡-2025咖啡烘烘烘第三場全國烘焙賽冠軍",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ7Q5rXgarQjQRgyLDz78JW5g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0c2IxbGxiekJYVm1VNE5XOU5aazFCYzFSMmIwRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "非常厲害的單品咖啡店，老闆的烘豆技術細膩，單品咖啡品項會不斷更新，提供癮士限定2hrs all you can drink，也供應全日早餐、自製起司蛋糕。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "非常厲害的單品咖啡店，老闆的烘豆技術細膩，單品咖啡品項會不斷更新，提供癮士限定2hrs all you can drink，也供應全日早餐、自製起司蛋糕。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Natalie Chiou",
+        "uri": "https://www.google.com/maps/contrib/100682592719419446640/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUyyfXWT4DjeKYane_3jITHbAMHeDxcEthUrvRAfipEykBUvq6-=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-10-25T07:24:53.181858287Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0c2IxbGxiekJYVm1VNE5XOU5aazFCYzFSMmIwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0c2IxbGxiekJYVm1VNE5XOU5aazFCYzFSMmIwRRAB!2m1!1s0x3442ab065e6b0eed:0x985b09bfcfc32283"
+    },
+    {
+      "name": "places/ChIJ7Q5rXgarQjQRgyLDz78JW5g/reviews/Ci9DQUlRQUNvZENodHljRjlvT201eU1FWlhUbTh4ZUcxcGVXdzBTMmgzUWtod01HYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "長春路上新開設的咖啡專賣店，很早開店對上班族是個佳音，手沖咖啡品質好，非常推薦",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "長春路上新開設的咖啡專賣店，很早開店對上班族是個佳音，手沖咖啡品質好，非常推薦",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "alfredhsieh",
+        "uri": "https://www.google.com/maps/contrib/110538225257965398967/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUg_L93G3GzpSGBWKRwEhI-T_zX3anXkCMAODkSJDkk49oYsTu71g=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-01-30T02:37:12.439216124Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201eU1FWlhUbTh4ZUcxcGVXdzBTMmgzUWtod01HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201eU1FWlhUbTh4ZUcxcGVXdzBTMmgzUWtod01HYxAB!2m1!1s0x3442ab065e6b0eed:0x985b09bfcfc32283"
+    },
+    {
+      "name": "places/ChIJ7Q5rXgarQjQRgyLDz78JW5g/reviews/Ci9DQUlRQUNvZENodHljRjlvT205bmVsQmhRbU00UXpNMVpYTlpkMEUxT0Zwb2VIYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "踩點店長拿鐵220，店家送了一小顆巧克力～人真好\n\n但今天運氣不好，隔壁客人從頭講電話講到尾，聽得我頭痛死了",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "踩點店長拿鐵220，店家送了一小顆巧克力～人真好\n\n但今天運氣不好，隔壁客人從頭講電話講到尾，聽得我頭痛死了",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳欣怡",
+        "uri": "https://www.google.com/maps/contrib/105585070401090771981/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXen0Z1AT9qky0kbO4pi4Dx3sMloUhX-5yrRPmYP7rAYzykaijw=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-01-15T07:02:21.784848475Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205bmVsQmhRbU00UXpNMVpYTlpkMEUxT0Zwb2VIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205bmVsQmhRbU00UXpNMVpYTlpkMEUxT0Zwb2VIYxAB!2m1!1s0x3442ab065e6b0eed:0x985b09bfcfc32283"
+    },
+    {
+      "name": "places/ChIJ7Q5rXgarQjQRgyLDz78JW5g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkeGJVdDBaMUp2YTAxblgzSTNVVFJXZEdwa2VYYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "很喜歡這家的單品手沖.\n豆子都是他們店內自己烘焙.\n有被店長親自製作的甜點驚艷到\n會期待下次造訪",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很喜歡這家的單品手沖.\n豆子都是他們店內自己烘焙.\n有被店長親自製作的甜點驚艷到\n會期待下次造訪",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Sandy Hu",
+        "uri": "https://www.google.com/maps/contrib/112507403549979672219/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLlZ6qF5dBO-iK8Td241_ecmSCqRuBwlHnhcnQ-wfTWAtSuzw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-12-15T03:08:22.383586703Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkeGJVdDBaMUp2YTAxblgzSTNVVFJXZEdwa2VYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkeGJVdDBaMUp2YTAxblgzSTNVVFJXZEdwa2VYYxAB!2m1!1s0x3442ab065e6b0eed:0x985b09bfcfc32283"
+    },
+    {
+      "name": "places/ChIJ7Q5rXgarQjQRgyLDz78JW5g/reviews/ChZDSUhNMG9nS0VJQ0FnSUNldVpuaktREAE",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 4,
+      "text": {
+        "text": "推薦這裡的貝果，不會太乾而且調味蠻好\n\n當天點了冰琴檸是🍋+☕️，檸檬的酸甜有平衡掉濃縮黑咖啡的苦，喝著喝著覺得蠻醒腦！\n\n焦糖雞蛋布丁個人覺得甜度稍甜(但是我平常是微糖人）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "推薦這裡的貝果，不會太乾而且調味蠻好\n\n當天點了冰琴檸是🍋+☕️，檸檬的酸甜有平衡掉濃縮黑咖啡的苦，喝著喝著覺得蠻醒腦！\n\n焦糖雞蛋布丁個人覺得甜度稍甜(但是我平常是微糖人）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Janice Kuo",
+        "uri": "https://www.google.com/maps/contrib/102202921416870078498/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtFEAkKgAzUMv7iGOCpioFPSbxetPU4bpLZLLc2s5yxvY6o8IW=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2022-09-18T12:53:49.073793Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNldVpuaktREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNldVpuaktREAE!2m1!1s0x3442ab065e6b0eed:0x985b09bfcfc32283"
+    }
+  ]
+}

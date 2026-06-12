@@ -1,0 +1,131 @@
+﻿{
+    "id":  "ChIJ1WUPDWatQjQRRiMWuoZaHT8",
+    "types":  [
+                  "brunch_restaurant",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2797 6806",
+    "formattedAddress":  "114台灣臺北市內湖區西康里文湖街7號",
+    "location":  {
+                     "latitude":  25.0853692,
+                     "longitude":  121.55982540000001
+                 },
+    "rating":  4.4,
+    "websiteUri":  "https://lin.ee/m90OGFl",
+    "userRatingCount":  101,
+    "displayName":  {
+                        "text":  "荳內早食",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJ1WUPDWatQjQRRiMWuoZaHT8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkak4yOVRNVUp4VFhSUWQydzJSV2xqYkV3MU9HYxAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  ".餐點多樣化，位置不多，小巧而精緻的早餐店。\n\n.定位介於傳統早餐店與正規餐廳之間，空間不大，翻桌率不錯，算是舒適的用餐環境。\n\n.餐點精美好吃，份量可以接受，品質相對於價格，算是OK的。餐食以木盤托襯，品味明顯高於傳統早餐店，是個不錯的賣點。\n\n.空間設計方面，不大的空間以及等待外帶的客人，整體紛圍使得食客用餐後即會離開，不會久坐，但用餐過程還算舒適。\n\n.廚房及煎台在餐廳中央，有聞到一些油煙味，似乎排煙系統需要改善。\n\n.在不大的空間內，外帶客人站一排等著取餐，對內用客人而言，確實有壓力而不致久坐，或許是無奈，但也提高了翻桌率，店家意外的收獲。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  ".餐點多樣化，位置不多，小巧而精緻的早餐店。\n\n.定位介於傳統早餐店與正規餐廳之間，空間不大，翻桌率不錯，算是舒適的用餐環境。\n\n.餐點精美好吃，份量可以接受，品質相對於價格，算是OK的。餐食以木盤托襯，品味明顯高於傳統早餐店，是個不錯的賣點。\n\n.空間設計方面，不大的空間以及等待外帶的客人，整體紛圍使得食客用餐後即會離開，不會久坐，但用餐過程還算舒適。\n\n.廚房及煎台在餐廳中央，有聞到一些油煙味，似乎排煙系統需要改善。\n\n.在不大的空間內，外帶客人站一排等著取餐，對內用客人而言，確實有壓力而不致久坐，或許是無奈，但也提高了翻桌率，店家意外的收獲。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "TS",
+                                                  "uri":  "https://www.google.com/maps/contrib/115222972806554432745/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocKzdrpTkxXmRcq2Ti8sanJyjIeHMAQYmHF6fhc4DT5rsxDF9WRh=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2026-01-15T09:59:09.234729803Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkak4yOVRNVUp4VFhSUWQydzJSV2xqYkV3MU9HYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkak4yOVRNVUp4VFhSUWQydzJSV2xqYkV3MU9HYxAB!2m1!1s0x3442ad660d0f65d5:0x3f1d5a86ba162346"
+                    },
+                    {
+                        "name":  "places/ChIJ1WUPDWatQjQRRiMWuoZaHT8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2padWNEWnpPREJ0YjIxVVQyUTRXVzA1VkU1SVZGRRAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "來到內湖必選早餐~荳內早餐~~\n荳內真的值得五顆星！用餐環境整潔舒適，空間溫馨明亮，讓人一早就有好心情。店員與老闆都非常親切，用心服務、態度熱情，讓人感受到滿滿的人情味。\n餐點不只好吃、份量足、口味也很用心，每一道都吃得出誠意。整體體驗非常棒，會讓人忍不住一來再來，真心推薦！",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "來到內湖必選早餐~荳內早餐~~\n荳內真的值得五顆星！用餐環境整潔舒適，空間溫馨明亮，讓人一早就有好心情。店員與老闆都非常親切，用心服務、態度熱情，讓人感受到滿滿的人情味。\n餐點不只好吃、份量足、口味也很用心，每一道都吃得出誠意。整體體驗非常棒，會讓人忍不住一來再來，真心推薦！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "張碩中",
+                                                  "uri":  "https://www.google.com/maps/contrib/102249701296304734108/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjX-IVySQFswS1-M9s5Ssu6sW2DHHAEIMV_ET7V62CrT6p1YZ84=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2026-01-12T00:47:24.950909143Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2padWNEWnpPREJ0YjIxVVQyUTRXVzA1VkU1SVZGRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2padWNEWnpPREJ0YjIxVVQyUTRXVzA1VkU1SVZGRRAB!2m1!1s0x3442ad660d0f65d5:0x3f1d5a86ba162346"
+                    },
+                    {
+                        "name":  "places/ChIJ1WUPDWatQjQRRiMWuoZaHT8/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRa042b0NBEAE",
+                        "relativePublishTimeDescription":  "1 年前",
+                        "rating":  2,
+                        "text":  {
+                                     "text":  "之前吃過咔啦雞腿堡裡面夾有很多生菜和一片番茄，所以很自然的會覺得點其他漢堡也應該同樣配有生菜。\n\n但今天點了里肌蛋堡，裡面只有滿滿的洋蔥+一片番茄？真的很不能接受只有一堆洋蔥的漢堡，就是為了生菜才點漢堡的啊......\n\n看了前面也有其他人反應同樣狀況，價差應該是隨主餐不同，不應該連生菜都拿掉，那60元顯得非常不合理😡😡，里肌肉也很薄完全沒這個價值\n\n如果漢堡裡的配菜會隨著品項有所不同，是否應該”在菜單和點餐系統上註明清楚”，客人看到就可以自行選擇要加購生菜還是改其他品項，不然打開看到只有滿滿洋蔥的漢堡真的心情很差，甚至我根本不吃洋蔥，一整天的第一餐直接毀掉，也非常空虛不好吃",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "之前吃過咔啦雞腿堡裡面夾有很多生菜和一片番茄，所以很自然的會覺得點其他漢堡也應該同樣配有生菜。\n\n但今天點了里肌蛋堡，裡面只有滿滿的洋蔥+一片番茄？真的很不能接受只有一堆洋蔥的漢堡，就是為了生菜才點漢堡的啊......\n\n看了前面也有其他人反應同樣狀況，價差應該是隨主餐不同，不應該連生菜都拿掉，那60元顯得非常不合理😡😡，里肌肉也很薄完全沒這個價值\n\n如果漢堡裡的配菜會隨著品項有所不同，是否應該”在菜單和點餐系統上註明清楚”，客人看到就可以自行選擇要加購生菜還是改其他品項，不然打開看到只有滿滿洋蔥的漢堡真的心情很差，甚至我根本不吃洋蔥，一整天的第一餐直接毀掉，也非常空虛不好吃",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Ally Chen",
+                                                  "uri":  "https://www.google.com/maps/contrib/106163749758736952193/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocLynCDAkvKvF4N4YPLbR_oMvifGUlzbPqdBOCgBmhq0zmgeQA=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-03-01T06:39:25.944518Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRa042b0NBEAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRa042b0NBEAE!2m1!1s0x3442ad660d0f65d5:0x3f1d5a86ba162346"
+                    },
+                    {
+                        "name":  "places/ChIJ1WUPDWatQjQRRiMWuoZaHT8/reviews/ChZDSUhNMG9nS0VJQ0FnSUNiaXJTMFZREAE",
+                        "relativePublishTimeDescription":  "1 年前",
+                        "rating":  3,
+                        "text":  {
+                                     "text":  "（202409更新 / 更新圖片在最後）\n先前都是點花醬咔拉雞腿堡，滿滿的生菜吃了很爽，不過，這次點里肌豬排堡就失望了。\n\n為什麼同樣是漢堡，花醬可以滿滿都是生菜，但里肌豬排卻只有洋蔥和番茄切片？價差應該是差在肉不一樣才對，居然連生菜都沒了。總之這次點里肌豬排堡吃著蠻空虛的🥲\n\n（初訪）\n食物美味、環境舒服明亮乾淨，店員親切，外帶的話很貼心會在飲料之間用衛生紙間隔，以免被杯壁的水沾濕。但座位很少，建議先線上點餐，到店直接取！",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "（202409更新 / 更新圖片在最後）\n先前都是點花醬咔拉雞腿堡，滿滿的生菜吃了很爽，不過，這次點里肌豬排堡就失望了。\n\n為什麼同樣是漢堡，花醬可以滿滿都是生菜，但里肌豬排卻只有洋蔥和番茄切片？價差應該是差在肉不一樣才對，居然連生菜都沒了。總之這次點里肌豬排堡吃著蠻空虛的🥲\n\n（初訪）\n食物美味、環境舒服明亮乾淨，店員親切，外帶的話很貼心會在飲料之間用衛生紙間隔，以免被杯壁的水沾濕。但座位很少，建議先線上點餐，到店直接取！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Leo Wu",
+                                                  "uri":  "https://www.google.com/maps/contrib/114866359756175660829/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXDsmLuI9Fi0kZANt7ygED1_A_-38dIW8KzP0WGSpHgdmEAXvg4=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2024-09-07T05:52:27.535797Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNiaXJTMFZREAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNiaXJTMFZREAE!2m1!1s0x3442ad660d0f65d5:0x3f1d5a86ba162346"
+                    },
+                    {
+                        "name":  "places/ChIJ1WUPDWatQjQRRiMWuoZaHT8/reviews/Ci9DQUlRQUNvZENodHljRjlvT20wMFEzaENTWFZ1TTA1Wk9VWnZjbmgzU0ZwM1RuYxAB",
+                        "relativePublishTimeDescription":  "8 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "今天初訪\n點了豪華總匯吐司和錫蘭紅茶\n好吃又好喝👍\n用餐環境也很明亮\n喜歡~",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "今天初訪\n點了豪華總匯吐司和錫蘭紅茶\n好吃又好喝👍\n用餐環境也很明亮\n喜歡~",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Peggy Jen",
+                                                  "uri":  "https://www.google.com/maps/contrib/101512538453528345927/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjX2KpDkVfmWzzOVHaxPZSMEmtyYGhwxL6GRMAShrxzSNGnZmdhYHw=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-08-30T14:55:01.866200236Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20wMFEzaENTWFZ1TTA1Wk9VWnZjbmgzU0ZwM1RuYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20wMFEzaENTWFZ1TTA1Wk9VWnZjbmgzU0ZwM1RuYxAB!2m1!1s0x3442ad660d0f65d5:0x3f1d5a86ba162346"
+                    }
+                ],
+    "goodForChildren":  true
+}

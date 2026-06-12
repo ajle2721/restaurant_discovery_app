@@ -1,0 +1,133 @@
+{
+  "id": "ChIJnclSGvKrQjQRnGBYr16yeU0",
+  "types": [
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 989 936 108",
+  "formattedAddress": "106台灣臺北市大安區仁愛里敦化南路一段236巷12號",
+  "location": {
+    "latitude": 25.0404768,
+    "longitude": 121.54784219999998
+  },
+  "rating": 4.5,
+  "websiteUri": "https://www.facebook.com/shanghaiyan888/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 643,
+  "displayName": {
+    "text": "上海宴",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJnclSGvKrQjQRnGBYr16yeU0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tJeVIwSXliRXA2UkMxNVNpMWFORTVSWVRKRFprRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 2,
+      "text": {
+        "text": "來這家吃飯千萬不要讓點餐的‘大美女🤣🤣🤣’知道你是帶國外回來的朋友來吃飯 不然最終就會像我們一樣 點什麼都說 什麼都賣完了 然後回來推一些特別貴的東西 然後最後還說我們同意點她推薦的菜 所以‘推薦的每一道菜都要多算 台幣120塊錢的餐費！！’\n\n豈有此理 過年帶老遠朋友來支持你們家的菜 結果發現自己給別人當笑話砍\n\n東西好吃不錯 可是這樣對客人很差勁",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "來這家吃飯千萬不要讓點餐的‘大美女🤣🤣🤣’知道你是帶國外回來的朋友來吃飯 不然最終就會像我們一樣 點什麼都說 什麼都賣完了 然後回來推一些特別貴的東西 然後最後還說我們同意點她推薦的菜 所以‘推薦的每一道菜都要多算 台幣120塊錢的餐費！！’\n\n豈有此理 過年帶老遠朋友來支持你們家的菜 結果發現自己給別人當笑話砍\n\n東西好吃不錯 可是這樣對客人很差勁",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "K Z",
+        "uri": "https://www.google.com/maps/contrib/100114231908484283284/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU9BvUBp5Zmgt0wOqTEupJID_-4GWz7AAZ70pOkzBmWD0-gDpCU=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-21T16:51:49.826099878Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tJeVIwSXliRXA2UkMxNVNpMWFORTVSWVRKRFprRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tJeVIwSXliRXA2UkMxNVNpMWFORTVSWVRKRFprRRAB!2m1!1s0x3442abf21a52c99d:0x4d79b25eaf58609c"
+    },
+    {
+      "name": "places/ChIJnclSGvKrQjQRnGBYr16yeU0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21obGNuRXlNbTVoZEhnNFoyUklXRVYyU0ZOWlowRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "這家餐廳整體表現令人滿意。餐點上桌時香氣十足，主菜火候掌握得宜，肉質鮮嫩多汁，調味不會過鹹，吃起來順口耐吃。配菜新鮮爽脆，與主菜搭配得當，提升整體層次感。湯品濃郁卻不油膩，尾韻帶點自然甘甜。擺盤簡潔大方，份量適中，以這個價位來說CP值算不錯。服務人員態度親切，上菜速度流暢，環境乾淨舒適，適合朋友聚餐或家庭用餐。整體而言是一家會讓人願意再訪的餐廳。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這家餐廳整體表現令人滿意。餐點上桌時香氣十足，主菜火候掌握得宜，肉質鮮嫩多汁，調味不會過鹹，吃起來順口耐吃。配菜新鮮爽脆，與主菜搭配得當，提升整體層次感。湯品濃郁卻不油膩，尾韻帶點自然甘甜。擺盤簡潔大方，份量適中，以這個價位來說CP值算不錯。服務人員態度親切，上菜速度流暢，環境乾淨舒適，適合朋友聚餐或家庭用餐。整體而言是一家會讓人願意再訪的餐廳。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "李庭安",
+        "uri": "https://www.google.com/maps/contrib/104091497533828488239/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtLEPLU2XX4BQ30DunebTPMd8vVsHSI03lvm7n_cEM8RW4XGP8=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-14T12:56:56.228122172Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21obGNuRXlNbTVoZEhnNFoyUklXRVYyU0ZOWlowRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21obGNuRXlNbTVoZEhnNFoyUklXRVYyU0ZOWlowRRAB!2m1!1s0x3442abf21a52c99d:0x4d79b25eaf58609c"
+    },
+    {
+      "name": "places/ChIJnclSGvKrQjQRnGBYr16yeU0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psNVJqTkRYMmg0YzJKU2RYVjRUMkZvZFdrNWFIYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "先說結論，菜色普遍表現不錯，要吃上海菜是間穩定的選擇，但似乎沒有像其他評論說一定比鼎泰豐便宜就是。\n\n醃篤鮮湯頭好喝，豆酥鱈魚個人比較不偏好濕掉的豆酥，絲瓜蝦仁小籠包有些沒吃到蝦仁的餡，芋泥鴨很特別第一次吃到這道料理，但不喜歡火鍋加芋頭的人可能會不愛。\n\nCP值:  ★ ★ ★ ☆\n美味:  ★ ★ ★ ★\n環境:  ★ ★ ★ ☆\n服務:  ★ ★ ★ ★\n等候:  ★ ★ ★ ★",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "先說結論，菜色普遍表現不錯，要吃上海菜是間穩定的選擇，但似乎沒有像其他評論說一定比鼎泰豐便宜就是。\n\n醃篤鮮湯頭好喝，豆酥鱈魚個人比較不偏好濕掉的豆酥，絲瓜蝦仁小籠包有些沒吃到蝦仁的餡，芋泥鴨很特別第一次吃到這道料理，但不喜歡火鍋加芋頭的人可能會不愛。\n\nCP值:  ★ ★ ★ ☆\n美味:  ★ ★ ★ ★\n環境:  ★ ★ ★ ☆\n服務:  ★ ★ ★ ★\n等候:  ★ ★ ★ ★",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Griffin",
+        "uri": "https://www.google.com/maps/contrib/111705085399331922820/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV2lMqLx4hRx0d6Yd1er-pCCqS5ljykWd6pGXQB0o_bRmqzXu2FTw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-12T06:54:30.590211852Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psNVJqTkRYMmg0YzJKU2RYVjRUMkZvZFdrNWFIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psNVJqTkRYMmg0YzJKU2RYVjRUMkZvZFdrNWFIYxAB!2m1!1s0x3442abf21a52c99d:0x4d79b25eaf58609c"
+    },
+    {
+      "name": "places/ChIJnclSGvKrQjQRnGBYr16yeU0/reviews/Ci9DQUlRQUNvZENodHljRjlvT213eGVsSk9OMmMxWjA4d2JsVmxTV0ZQVTJJeU0xRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "這次到上海宴用餐，整體感受相當不錯。一進門就能感受到餐廳的氣氛典雅又不失熱鬧，裝潢融合了中式古典與現代風格，讓人用餐時十分放鬆。服務人員態度親切，帶位與點餐都很細心，對菜色的介紹也相當清楚，讓人感覺備受重視。\n\n餐點方面，上海宴的菜色精緻且口味層次豐富，既保留了上海菜的傳統特色，又加入適度的創新。像是小籠包皮薄餡多、湯汁鮮甜，入口不膩；紅燒料理火候掌握得宜，醬香濃郁卻不死鹹，搭配白飯特別下飯。冷盤清爽開胃，能為整桌菜色做出很好的鋪陳。\n\n整體來說，上海宴不論在環境、服務或餐點品質上都展現出水準之上，適合家庭聚餐、朋友聚會或重要宴請。這次的用餐經驗讓人留下深刻印象，也會讓人願意再訪，細細品嚐更多道地又精緻的上海風味。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這次到上海宴用餐，整體感受相當不錯。一進門就能感受到餐廳的氣氛典雅又不失熱鬧，裝潢融合了中式古典與現代風格，讓人用餐時十分放鬆。服務人員態度親切，帶位與點餐都很細心，對菜色的介紹也相當清楚，讓人感覺備受重視。\n\n餐點方面，上海宴的菜色精緻且口味層次豐富，既保留了上海菜的傳統特色，又加入適度的創新。像是小籠包皮薄餡多、湯汁鮮甜，入口不膩；紅燒料理火候掌握得宜，醬香濃郁卻不死鹹，搭配白飯特別下飯。冷盤清爽開胃，能為整桌菜色做出很好的鋪陳。\n\n整體來說，上海宴不論在環境、服務或餐點品質上都展現出水準之上，適合家庭聚餐、朋友聚會或重要宴請。這次的用餐經驗讓人留下深刻印象，也會讓人願意再訪，細細品嚐更多道地又精緻的上海風味。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "安安走路嗎",
+        "uri": "https://www.google.com/maps/contrib/114434470097387168328/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUWyfk8CxjjY3Bz87QPHC65ywPEdCNJSuj0yAKwcyWPIFfgLx7gjg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-20T15:24:30.962651934Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT213eGVsSk9OMmMxWjA4d2JsVmxTV0ZQVTJJeU0xRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT213eGVsSk9OMmMxWjA4d2JsVmxTV0ZQVTJJeU0xRRAB!2m1!1s0x3442abf21a52c99d:0x4d79b25eaf58609c"
+    },
+    {
+      "name": "places/ChIJnclSGvKrQjQRnGBYr16yeU0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSNFNsWmxPWEJoZG1WTlpHWk1ialp1VW01R1NYYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "來吃了很多次，終於記得拍照寫評論了，個人喜歡他的小籠包遠遠現過於鼎泰豐，皮薄肉汁也算多，絲瓜蝦仁，蟹肉湯包表現都很不錯，最喜歡吃他們的椒汁豆腐，酸梅湯也蠻好喝的，茶資一個人$50比較意外一點點，因為畢竟不是港式飲茶，第二次吃到冬季限定青炒大豆苗很開心，東西都蠻好吃的",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "來吃了很多次，終於記得拍照寫評論了，個人喜歡他的小籠包遠遠現過於鼎泰豐，皮薄肉汁也算多，絲瓜蝦仁，蟹肉湯包表現都很不錯，最喜歡吃他們的椒汁豆腐，酸梅湯也蠻好喝的，茶資一個人$50比較意外一點點，因為畢竟不是港式飲茶，第二次吃到冬季限定青炒大豆苗很開心，東西都蠻好吃的",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Frances Fan",
+        "uri": "https://www.google.com/maps/contrib/107798634362692145536/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVg__ra_1VMdBQJOS1hFmhMNvNtrOGkvl62iZcP3YAYW1nJ7BQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-26T08:44:09.844947787Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSNFNsWmxPWEJoZG1WTlpHWk1ialp1VW01R1NYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSNFNsWmxPWEJoZG1WTlpHWk1ialp1VW01R1NYYxAB!2m1!1s0x3442abf21a52c99d:0x4d79b25eaf58609c"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

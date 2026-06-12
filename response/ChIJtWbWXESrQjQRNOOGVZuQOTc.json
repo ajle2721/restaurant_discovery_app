@@ -1,0 +1,131 @@
+{
+  "id": "ChIJtWbWXESrQjQRNOOGVZuQOTc",
+  "types": [
+    "breakfast_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 927 109 399",
+  "formattedAddress": "106台灣臺北市大安區黎孝里和平東路三段228巷13號",
+  "location": {
+    "latitude": 25.0216797,
+    "longitude": 121.5542919
+  },
+  "rating": 4.4,
+  "websiteUri": "https://www.facebook.com/no13breakfast",
+  "userRatingCount": 103,
+  "displayName": {
+    "text": "no13早餐店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJtWbWXESrQjQRNOOGVZuQOTc/reviews/ChdDSUhNMG9nS0VJQ0FnTURvcnBhaDRRRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 3,
+      "text": {
+        "text": "環境整潔，老闆親切，菜單只有入口處看板，點了漢堡肉吐司加蛋50元口味不錯，店內沒有廁所可用喔！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境整潔，老闆親切，菜單只有入口處看板，點了漢堡肉吐司加蛋50元口味不錯，店內沒有廁所可用喔！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Zoe柔",
+        "uri": "https://www.google.com/maps/contrib/104459724272728371531/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUH54cYnPUAf7ab5V3sXuAs50ong_RL12vMCe_x_id7Xnu5GbTk0A=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-04-25T01:45:19.785783Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvcnBhaDRRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvcnBhaDRRRRAB!2m1!1s0x3442ab445cd666b5:0x3739909b5586e334"
+    },
+    {
+      "name": "places/ChIJtWbWXESrQjQRNOOGVZuQOTc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNyeW9PTUtnEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "松子雞漢堡+蛋（$70+15）比起一般傳統早餐店是比較貴，但用料實在～蔬菜量多，吃起來很滿足。松子雞不是整塊雞肉或漢堡肉排那種，吃起來比較像美乃滋鮪魚的味道跟口感，下次想再試看看別的品項。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "松子雞漢堡+蛋（$70+15）比起一般傳統早餐店是比較貴，但用料實在～蔬菜量多，吃起來很滿足。松子雞不是整塊雞肉或漢堡肉排那種，吃起來比較像美乃滋鮪魚的味道跟口感，下次想再試看看別的品項。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Mint Lee",
+        "uri": "https://www.google.com/maps/contrib/118337104435653424075/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWxYGptcTYyqaGL5rgvGK1WRYt3dGej07GueUUjlVTJ6xDT77g=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2024-07-05T22:33:10.698227Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNyeW9PTUtnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNyeW9PTUtnEAE!2m1!1s0x3442ab445cd666b5:0x3739909b5586e334"
+    },
+    {
+      "name": "places/ChIJtWbWXESrQjQRNOOGVZuQOTc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCbWFsaFVTWEpJYVVadVIyRm1XRjg1YkRZNVZVRRAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 3,
+      "text": {
+        "text": "和朋友點了漢堡，一份要70元,上來後覺得超級空虛，連蛋或起司都沒有，要再另外加價購。不便宜，就連女生吃了也覺得不會飽。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "和朋友點了漢堡，一份要70元,上來後覺得超級空虛，連蛋或起司都沒有，要再另外加價購。不便宜，就連女生吃了也覺得不會飽。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Mengfan,Lin",
+        "uri": "https://www.google.com/maps/contrib/100562922480391123147/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVlPC9NK4nphzTv73-X9wAgRu4l8tyAkRY7eH3HJzQJi9-3go3_=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-08-10T02:13:02.474205761Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCbWFsaFVTWEpJYVVadVIyRm1XRjg1YkRZNVZVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCbWFsaFVTWEpJYVVadVIyRm1XRjg1YkRZNVZVRRAB!2m1!1s0x3442ab445cd666b5:0x3739909b5586e334"
+    },
+    {
+      "name": "places/ChIJtWbWXESrQjQRNOOGVZuQOTc/reviews/ChdDSUhNMG9nS0VJQ0FnSURpaHNMeXl3RRAB",
+      "relativePublishTimeDescription": "5 年前",
+      "rating": 5,
+      "text": {
+        "text": "吃很多年的早餐店\n老闆和老闆娘超用心\n每個食材都是自己作的哦！\n有別於其他連所早餐店\n每週的菜單都不一樣～就這樣吃了好幾年🤣🤣🤣\n都不會膩啦👍👍👍\n我也喜歡no13的咖啡☕️\n熱門時間人會比較多要耐心等候\n大部分客人都是老客戶🤣🤣🤣\n一吃成主顧\n\n*以上為個人感受僅供參考",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "吃很多年的早餐店\n老闆和老闆娘超用心\n每個食材都是自己作的哦！\n有別於其他連所早餐店\n每週的菜單都不一樣～就這樣吃了好幾年🤣🤣🤣\n都不會膩啦👍👍👍\n我也喜歡no13的咖啡☕️\n熱門時間人會比較多要耐心等候\n大部分客人都是老客戶🤣🤣🤣\n一吃成主顧\n\n*以上為個人感受僅供參考",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Sandy 劉淑婷 (diffusion)",
+        "uri": "https://www.google.com/maps/contrib/112961572273231114812/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU3KBhuvt92KqI3TP_fUyQxJ8tXrFv0SDIFw7mn4S-7-RVNrZrk=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2020-12-10T02:07:34.918673Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURpaHNMeXl3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURpaHNMeXl3RRAB!2m1!1s0x3442ab445cd666b5:0x3739909b5586e334"
+    },
+    {
+      "name": "places/ChIJtWbWXESrQjQRNOOGVZuQOTc/reviews/ChZDSUhNMG9nS0VJQ0FnTURRdTQ3ZU5BEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "因為早餐吃素的關係，這間早餐店有健康蔬菜吐司可以選擇，蔬菜給得很大方、也很好吃😋 招牌咖啡跟紅茶也都很好喝。老闆跟闆娘態度親切、像朋友一樣，提醒內用的朋友，要先結帳再入座；外帶的朋友，如果可以自備環保袋來裝早餐再好不過了。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "因為早餐吃素的關係，這間早餐店有健康蔬菜吐司可以選擇，蔬菜給得很大方、也很好吃😋 招牌咖啡跟紅茶也都很好喝。老闆跟闆娘態度親切、像朋友一樣，提醒內用的朋友，要先結帳再入座；外帶的朋友，如果可以自備環保袋來裝早餐再好不過了。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Mia Huang",
+        "uri": "https://www.google.com/maps/contrib/100341275736716955914/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVRDBbKLcToOvjFauLe7WZZfpGIZsOv8ABDlK34eJ7t8_wsHn6D=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-03-14T16:27:02.654630Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURRdTQ3ZU5BEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURRdTQ3ZU5BEAE!2m1!1s0x3442ab445cd666b5:0x3739909b5586e334"
+    }
+  ],
+  "goodForChildren": true
+}

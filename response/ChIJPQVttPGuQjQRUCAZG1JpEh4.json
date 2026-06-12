@@ -1,0 +1,141 @@
+{
+  "id": "ChIJPQVttPGuQjQRUCAZG1JpEh4",
+  "types": [
+    "fast_food_restaurant",
+    "brunch_restaurant",
+    "family_restaurant",
+    "hamburger_restaurant",
+    "american_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2821 0533",
+  "formattedAddress": "112台灣臺北市北投區立賢里承德路七段262號1樓",
+  "location": {
+    "latitude": 25.1160578,
+    "longitude": 121.50581760000001
+  },
+  "rating": 4,
+  "websiteUri": "https://www.mcdonalds.com/tw/zh-tw.html",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 5424,
+  "displayName": {
+    "text": "麥當勞",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Classic, long-running fast-food chain known for its burgers & fries.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJPQVttPGuQjQRUCAZG1JpEh4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGU1MwTjVlRVpSUWsxRmVsZERjRzVtV1RSdVVIYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 1,
+      "text": {
+        "text": "晚上過去取餐，或許是因為線上點餐關係 點完後也沒過多久就取餐了 到現場沒等到 餐點很快就拿到了 但當下店員已經知道紙袋快破了 只跟我說小心 但可能我疏忽 不太理解當下意思 最後了解了 謝謝麥當勞 且不知道是不是點優惠卷關係 東西不是冷掉 不然就是那個餐點看起來被炸過…謝謝北投的麥當勞 附近的兩間 餐點都很精彩 同個禮拜  麥當勞不快樂了…謝謝你們 很忙就算了 但現場看起來還好 也不太像餐期剛結束的樣子 所以無法接受這樣的餐點狀況",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "晚上過去取餐，或許是因為線上點餐關係 點完後也沒過多久就取餐了 到現場沒等到 餐點很快就拿到了 但當下店員已經知道紙袋快破了 只跟我說小心 但可能我疏忽 不太理解當下意思 最後了解了 謝謝麥當勞 且不知道是不是點優惠卷關係 東西不是冷掉 不然就是那個餐點看起來被炸過…謝謝北投的麥當勞 附近的兩間 餐點都很精彩 同個禮拜  麥當勞不快樂了…謝謝你們 很忙就算了 但現場看起來還好 也不太像餐期剛結束的樣子 所以無法接受這樣的餐點狀況",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "王宥驊",
+        "uri": "https://www.google.com/maps/contrib/100953823010917855497/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKhPF7Fi-ICneJmoj645EDmO7hpUUahgSs25T3ODk2-LnsYFw=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-24T15:05:42.109463330Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGU1MwTjVlRVpSUWsxRmVsZERjRzVtV1RSdVVIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGU1MwTjVlRVpSUWsxRmVsZERjRzVtV1RSdVVIYxAB!2m1!1s0x3442aef1b46d053d:0x1e1269521b192050"
+    },
+    {
+      "name": "places/ChIJPQVttPGuQjQRUCAZG1JpEh4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psSWVqaFNNREJaT0doQlRETlVTVWxIVUdaSk5IYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 1,
+      "text": {
+        "text": "已經好幾次，點大薯結果份量比中薯還少，之前都是外送遇到，這次是外帶，結果一樣發生這種事，因為趕時間來不及仔細檢查，回到家打開真的只有傻眼",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "已經好幾次，點大薯結果份量比中薯還少，之前都是外送遇到，這次是外帶，結果一樣發生這種事，因為趕時間來不及仔細檢查，回到家打開真的只有傻眼",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林純伃",
+        "uri": "https://www.google.com/maps/contrib/101653899540671275133/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV3mOmK-072FzqCcaxOV4huDEOH7X_16J7BGdw6R03E6lK2ReVWUg=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-11-21T09:27:37.643505142Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psSWVqaFNNREJaT0doQlRETlVTVWxIVUdaSk5IYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psSWVqaFNNREJaT0doQlRETlVTVWxIVUdaSk5IYxAB!2m1!1s0x3442aef1b46d053d:0x1e1269521b192050"
+    },
+    {
+      "name": "places/ChIJPQVttPGuQjQRUCAZG1JpEh4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tNM1NEWlVOVGhXY2tjdFNUTmZTWFJCVldoclEyYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 1,
+      "text": {
+        "text": "外送平台叫套餐，其中三包薯條🍟生到靠杯。今天的薯條工讀生可以在炸爛一點沒關係。根本炸沒熟，我以為在吃清蒸馬鈴薯🥔。超難吃，麥當勞全台灣最難吃的店家就給你了這位工讀生。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "外送平台叫套餐，其中三包薯條🍟生到靠杯。今天的薯條工讀生可以在炸爛一點沒關係。根本炸沒熟，我以為在吃清蒸馬鈴薯🥔。超難吃，麥當勞全台灣最難吃的店家就給你了這位工讀生。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Be",
+        "uri": "https://www.google.com/maps/contrib/116423385136929128220/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWD9lUGiBVzPGVHWnqBehhomPi7yD-QK0v1S83y5BuhyIEum11G=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-07T08:43:26.362882178Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tNM1NEWlVOVGhXY2tjdFNUTmZTWFJCVldoclEyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tNM1NEWlVOVGhXY2tjdFNUTmZTWFJCVldoclEyYxAB!2m1!1s0x3442aef1b46d053d:0x1e1269521b192050"
+    },
+    {
+      "name": "places/ChIJPQVttPGuQjQRUCAZG1JpEh4/reviews/Ci9DQUlRQUNvZENodHljRjlvT214MlZqTkRTa0ZhZDBRMVZHOVNRbFIxYzNWNlgwRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 1,
+      "text": {
+        "text": "漢堡製作員把漢堡包得亂七八糟，上下歪斜堆疊、捆包施加壓力，漢堡看就看起來就像被壓扁一樣！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "漢堡製作員把漢堡包得亂七八糟，上下歪斜堆疊、捆包施加壓力，漢堡看就看起來就像被壓扁一樣！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Kevin Chang",
+        "uri": "https://www.google.com/maps/contrib/107510717072338559666/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVRtyp42qVhto840ofLeEW-77KXAkQvOOAynO8JIBSEiwdZnw1I=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-07T11:51:35.476220209Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214MlZqTkRTa0ZhZDBRMVZHOVNRbFIxYzNWNlgwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214MlZqTkRTa0ZhZDBRMVZHOVNRbFIxYzNWNlgwRRAB!2m1!1s0x3442aef1b46d053d:0x1e1269521b192050"
+    },
+    {
+      "name": "places/ChIJPQVttPGuQjQRUCAZG1JpEh4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xZM01IbHJSekJSYlhKUmIwMUVhVTV2VlZWTlVWRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "這是一間鮮少休息的麥當勞，伴隨不同時段的客人與回憶，早晨、中午、晚上、半夜，有匆忙的上班族、活力十足的學生、焚膏繼晷的考生、相擁而坐的情侶，形成獨特的麥當勞風景，能在飢餓的夜裡嚐到薯條和可樂，真的是一種幸福。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這是一間鮮少休息的麥當勞，伴隨不同時段的客人與回憶，早晨、中午、晚上、半夜，有匆忙的上班族、活力十足的學生、焚膏繼晷的考生、相擁而坐的情侶，形成獨特的麥當勞風景，能在飢餓的夜裡嚐到薯條和可樂，真的是一種幸福。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Bowen Chang",
+        "uri": "https://www.google.com/maps/contrib/102857848249365796486/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUGeIRgrY1cPIt92thain4PcI5KHs2unPomxki-Nv3DPGqYJDS9=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-25T12:00:48.084969691Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xZM01IbHJSekJSYlhKUmIwMUVhVTV2VlZWTlVWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xZM01IbHJSekJSYlhKUmIwMUVhVTV2VlZWTlVWRRAB!2m1!1s0x3442aef1b46d053d:0x1e1269521b192050"
+    }
+  ],
+  "menuForChildren": true,
+  "goodForChildren": true
+}

@@ -1,0 +1,138 @@
+{
+  "id": "ChIJA3Tar4StQjQRADi3HQvT3ZM",
+  "types": [
+    "brunch_restaurant",
+    "sandwich_shop",
+    "american_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 70 1018 2730",
+  "formattedAddress": "No. 57號, 金湖路內湖區臺北市台灣 114",
+  "location": {
+    "latitude": 25.0819984,
+    "longitude": 121.5968505
+  },
+  "rating": 4.1,
+  "websiteUri": "https://www.omnivore-taipei.com/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 938,
+  "displayName": {
+    "text": "Omnivore",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Italian-inspired brunch menu offered in a comfortable coffee shop with a narrow terrace.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJA3Tar4StQjQRADi3HQvT3ZM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWSlNsWkpOMGRLTVVwVlVGSk9OV1JQYjB0RE5FRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "我完全沒想到，在台北吃到我心目中最好吃的薯條，竟然不是原本印象中那種酥脆的薯條；這一份不脆的薯條，反而成了我心中的 Taipei No.1。\n\nps:廁所門口那側評論簡直刷新我的眼界，這種客人其實去掉也好，老實說吃早餐也不想遇到。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "我完全沒想到，在台北吃到我心目中最好吃的薯條，竟然不是原本印象中那種酥脆的薯條；這一份不脆的薯條，反而成了我心中的 Taipei No.1。\n\nps:廁所門口那側評論簡直刷新我的眼界，這種客人其實去掉也好，老實說吃早餐也不想遇到。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Stephen L",
+        "uri": "https://www.google.com/maps/contrib/108136836494819150480/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU66_G_RU1XAS8wOE9xPJA_4i4iDj_B55yd7CDsGMPUJ7PV6hs=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-18T08:55:31.471827643Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWSlNsWkpOMGRLTVVwVlVGSk9OV1JQYjB0RE5FRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWSlNsWkpOMGRLTVVwVlVGSk9OV1JQYjB0RE5FRRAB!2m1!1s0x3442ad84afda7403:0x93ddd30b1db73800"
+    },
+    {
+      "name": "places/ChIJA3Tar4StQjQRADi3HQvT3ZM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5NlNFaGtOVGR2YkZVNFdrdEVPWFI0UkU1TlJsRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "OMNIVORE 雜食者，捷運內湖站旁的寵物友善早午餐餐廳，提供豐富多元的三明治、漢堡與沙拉，連奶蛋素與獵奇鹿肉也有選擇！餐廳距捷運站步行不到五分鐘，鄰近美國在台協會AIT，室內溫馨舒適，室外座位採光佳，歡迎帶毛小孩同樂。\n餐點現點現做，衛生安心，早午餐自由配可任選麵包、主食與配菜，煙燻鮭魚、起司炒蛋與燕麥粥份量十足；自家煙燻牛肉三明治給料大方，搭配薯條與生菜，超滿足。\n飲品推薦色彩繽紛的藍莓或巴西莓果昔，新鮮濃郁又健康。\n假日午後，與好友在OMNIVORE享受豐盛早午餐與舒適氛圍，把煩惱都拋在腦後，愜意度過美好時光。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "OMNIVORE 雜食者，捷運內湖站旁的寵物友善早午餐餐廳，提供豐富多元的三明治、漢堡與沙拉，連奶蛋素與獵奇鹿肉也有選擇！餐廳距捷運站步行不到五分鐘，鄰近美國在台協會AIT，室內溫馨舒適，室外座位採光佳，歡迎帶毛小孩同樂。\n餐點現點現做，衛生安心，早午餐自由配可任選麵包、主食與配菜，煙燻鮭魚、起司炒蛋與燕麥粥份量十足；自家煙燻牛肉三明治給料大方，搭配薯條與生菜，超滿足。\n飲品推薦色彩繽紛的藍莓或巴西莓果昔，新鮮濃郁又健康。\n假日午後，與好友在OMNIVORE享受豐盛早午餐與舒適氛圍，把煩惱都拋在腦後，愜意度過美好時光。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "七公主",
+        "uri": "https://www.google.com/maps/contrib/104048731011093959099/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVzwdiWuOW1ZsUT8xP0qc9uWEGjtypXncpQL6UY5U3zUNGOiQo=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-15T16:14:25.050370123Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5NlNFaGtOVGR2YkZVNFdrdEVPWFI0UkU1TlJsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5NlNFaGtOVGR2YkZVNFdrdEVPWFI0UkU1TlJsRRAB!2m1!1s0x3442ad84afda7403:0x93ddd30b1db73800"
+    },
+    {
+      "name": "places/ChIJA3Tar4StQjQRADi3HQvT3ZM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xJMFEzQk9kV0ZFZGpOTmNGcFRNR3RHU1V0V1ZWRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "建議點自選\n法式吐司軟硬適中無腥味\n鹿肉很特別但偏熟硬\n喜歡嫩蛋及炒菇搭菠菜💪",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "建議點自選\n法式吐司軟硬適中無腥味\n鹿肉很特別但偏熟硬\n喜歡嫩蛋及炒菇搭菠菜💪",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "小葵Queenie。健身調理。美食保健",
+        "uri": "https://www.google.com/maps/contrib/103063178826542189748/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjURQgwm4MLsGNeEwJW3OdUA1-Qu5mJyD6BhJyktCAk4ignrwb0=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-20T16:42:31.018334124Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xJMFEzQk9kV0ZFZGpOTmNGcFRNR3RHU1V0V1ZWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xJMFEzQk9kV0ZFZGpOTmNGcFRNR3RHU1V0V1ZWRRAB!2m1!1s0x3442ad84afda7403:0x93ddd30b1db73800"
+    },
+    {
+      "name": "places/ChIJA3Tar4StQjQRADi3HQvT3ZM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xvdFFYUlNSVk5CVEdVdFVWOTZUMm8wZEVkU01YYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "光是寵物友善就非常棒了！尤其是坐落在非常寧靜的社區～餐點也很好吃，咖啡也很好喝，真的非常推薦大家來～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "光是寵物友善就非常棒了！尤其是坐落在非常寧靜的社區～餐點也很好吃，咖啡也很好喝，真的非常推薦大家來～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yt頻道:騏樂繞地球",
+        "uri": "https://www.google.com/maps/contrib/114095042660974558020/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWQ4N4b4iTvwQ4BxGy7v6K46OeNobV02dDdIvFGhLVZu9BbqwVD=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-10T17:21:54.543911020Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xvdFFYUlNSVk5CVEdVdFVWOTZUMm8wZEVkU01YYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xvdFFYUlNSVk5CVEdVdFVWOTZUMm8wZEVkU01YYxAB!2m1!1s0x3442ad84afda7403:0x93ddd30b1db73800"
+    },
+    {
+      "name": "places/ChIJA3Tar4StQjQRADi3HQvT3ZM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sek5UWlJUV1ozYUhWcU1XaEZXRXhsWW5wTFptYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "有如其名，有雜食的選擇，可肉可素；環境及食物賣相一般，味道還不錯；原想先訂位，怕老遠跑到，摸空一場，但說訂位已滿，可試到現場，有部分位置留現場客戶，營造很受歡迎，難以預約之感，來也來了附近，就試試看，菜單也花了點氣力，有低消及服務費..",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "有如其名，有雜食的選擇，可肉可素；環境及食物賣相一般，味道還不錯；原想先訂位，怕老遠跑到，摸空一場，但說訂位已滿，可試到現場，有部分位置留現場客戶，營造很受歡迎，難以預約之感，來也來了附近，就試試看，菜單也花了點氣力，有低消及服務費..",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Desmond G",
+        "uri": "https://www.google.com/maps/contrib/102350612437608525305/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK0-37T7xF-oQqCkXrD7rMiymOxvAfVd14x7XbjoRKc5P_Xcw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-17T20:29:29.891238964Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sek5UWlJUV1ozYUhWcU1XaEZXRXhsWW5wTFptYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sek5UWlJUV1ozYUhWcU1XaEZXRXhsWW5wTFptYxAB!2m1!1s0x3442ad84afda7403:0x93ddd30b1db73800"
+    }
+  ],
+  "goodForChildren": true
+}

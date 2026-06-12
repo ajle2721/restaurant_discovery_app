@@ -1,0 +1,130 @@
+{
+  "id": "ChIJ1Tm3LDetQjQRRF48aBxvHzQ",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 8751 5272",
+  "formattedAddress": "114台灣臺北市內湖區西湖里瑞光路583巷31號1樓",
+  "location": {
+    "latitude": 25.0810577,
+    "longitude": 121.5681068
+  },
+  "rating": 4.5,
+  "websiteUri": "https://www.royalpark.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 528,
+  "displayName": {
+    "text": "樂雅樂餐廳 西湖店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ1Tm3LDetQjQRRF48aBxvHzQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsQ1VuQlJORzh0Vms5UFFURkJVRkpJUVZsdE0yYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "牛排熟度要加強.點了7分熟.來了約4-5分跟本無法吃.最後外帶了.服務品質不優.可能忙著收拾打洋吧.需要再加強",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "牛排熟度要加強.點了7分熟.來了約4-5分跟本無法吃.最後外帶了.服務品質不優.可能忙著收拾打洋吧.需要再加強",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "蘇明欽",
+        "uri": "https://www.google.com/maps/contrib/106269048107632504210/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJPyZdkSGXLRL-KTKyPxF7rIM3j7gqEfps90h7n7emZswR-2g=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-01-11T13:44:29.729628420Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsQ1VuQlJORzh0Vms5UFFURkJVRkpJUVZsdE0yYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsQ1VuQlJORzh0Vms5UFFURkJVRkpJUVZsdE0yYxAB!2m1!1s0x3442ad372cb739d5:0x341f6f1c683c5e44"
+    },
+    {
+      "name": "places/ChIJ1Tm3LDetQjQRRF48aBxvHzQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKRlIyeENNbk56VFZOaVgwSkZSVTh6YkdSRlNVRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 3,
+      "text": {
+        "text": "牛排太硬了…\n即使特價也不推薦牛排\n\n餐點口味不差，\n茶包不賴，飲料機的巧克力、牛奶都濃郁好喝，但這價格…\n叫做御膳感覺還是不夠豐盛🤣\n白飯過於粒粒分明，咬起來有顆粒感..\n\n用gomaji打七折的話，就可以考慮來嘗試一下\n\n環境看起來不錯，但廁所跟內部大樓共用顯得較差一點。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "牛排太硬了…\n即使特價也不推薦牛排\n\n餐點口味不差，\n茶包不賴，飲料機的巧克力、牛奶都濃郁好喝，但這價格…\n叫做御膳感覺還是不夠豐盛🤣\n白飯過於粒粒分明，咬起來有顆粒感..\n\n用gomaji打七折的話，就可以考慮來嘗試一下\n\n環境看起來不錯，但廁所跟內部大樓共用顯得較差一點。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "H. Yuan (阿谷)",
+        "uri": "https://www.google.com/maps/contrib/106020828943422194379/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXFQ01RqLEO5Bh3_ijns7Um_dh0wHKkaIlWsJkZZA1M8PJMHeFQZA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-12-02T10:43:19.027133451Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKRlIyeENNbk56VFZOaVgwSkZSVTh6YkdSRlNVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKRlIyeENNbk56VFZOaVgwSkZSVTh6YkdSRlNVRRAB!2m1!1s0x3442ad372cb739d5:0x341f6f1c683c5e44"
+    },
+    {
+      "name": "places/ChIJ1Tm3LDetQjQRRF48aBxvHzQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psb01IbzNORkZ1T0RKWmRFcFZUREo1TVZKUlUwRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 2,
+      "text": {
+        "text": "肉超硬 要到下巴會脫臼\n整體沒有很驚艷的味道價格偏高\n飲料吧就是一般可樂機台跟咖啡機\n沒有服務還要服務費\n唯一優點是蠻悠閒的",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "肉超硬 要到下巴會脫臼\n整體沒有很驚艷的味道價格偏高\n飲料吧就是一般可樂機台跟咖啡機\n沒有服務還要服務費\n唯一優點是蠻悠閒的",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "豆漿",
+        "uri": "https://www.google.com/maps/contrib/105578423142430262198/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBfTxDFude9OYZwknNidkzkh5C1Q2SCbM2O7TvnhGhPo1NAXLG4A=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-01T08:08:37.504503534Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psb01IbzNORkZ1T0RKWmRFcFZUREo1TVZKUlUwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psb01IbzNORkZ1T0RKWmRFcFZUREo1TVZKUlUwRRAB!2m1!1s0x3442ad372cb739d5:0x341f6f1c683c5e44"
+    },
+    {
+      "name": "places/ChIJ1Tm3LDetQjQRRF48aBxvHzQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0S1YwWkVNWEZNZEZwRU9VZFNiRGh5YUV4WFRHYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "店內環境舒適，服務人員態度也很好，餐點價格不便宜，餐點味道普通",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店內環境舒適，服務人員態度也很好，餐點價格不便宜，餐點味道普通",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Leon Lee",
+        "uri": "https://www.google.com/maps/contrib/101284231114592994164/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKwrTl9AHKD7jDgB3zzsDi4h5e89R0Wt2pl3MgP6zKjTLghBw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-21T14:57:21.921696895Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0S1YwWkVNWEZNZEZwRU9VZFNiRGh5YUV4WFRHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0S1YwWkVNWEZNZEZwRU9VZFNiRGh5YUV4WFRHYxAB!2m1!1s0x3442ad372cb739d5:0x341f6f1c683c5e44"
+    },
+    {
+      "name": "places/ChIJ1Tm3LDetQjQRRF48aBxvHzQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWblIwMTNWWEF6V2tWdWRYSklialkzY1dGS1JGRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "環境舒適，洗手間是大樓共用，可以從裡面的門進出，不需要走到外面風吹日曬雨淋。\n飲料吧可以盡情喝👍\n位置寬敞舒適，很喜歡西湖限定！\n已經趁工作外出來吃兩次！小菜和生菜都很好吃！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境舒適，洗手間是大樓共用，可以從裡面的門進出，不需要走到外面風吹日曬雨淋。\n飲料吧可以盡情喝👍\n位置寬敞舒適，很喜歡西湖限定！\n已經趁工作外出來吃兩次！小菜和生菜都很好吃！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "shihying Lin",
+        "uri": "https://www.google.com/maps/contrib/114523217851014198414/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIe1tenbGxUf-Q5Xy87NDHJZycg1GmA3c7Zt-0LeuODQfGqnbGL=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-09-22T12:26:25.820891906Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWblIwMTNWWEF6V2tWdWRYSklialkzY1dGS1JGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWblIwMTNWWEF6V2tWdWRYSklialkzY1dGS1JGRRAB!2m1!1s0x3442ad372cb739d5:0x341f6f1c683c5e44"
+    }
+  ]
+}

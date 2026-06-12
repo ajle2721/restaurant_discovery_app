@@ -1,0 +1,133 @@
+{
+  "id": "ChIJc66wXe2sQjQRcQTIjccOpDc",
+  "types": [
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2793 0788",
+  "formattedAddress": "114台灣臺北市內湖區內湖里成功路四段188號",
+  "location": {
+    "latitude": 25.0841289,
+    "longitude": 121.594372
+  },
+  "rating": 4.1,
+  "websiteUri": "https://www.sachifuku.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1277,
+  "displayName": {
+    "text": "さち福や(幸福家) 內湖店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJc66wXe2sQjQRcQTIjccOpDc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5RE1FMHRXRjlSTWtZMUxYaDRNMU5CTkdZeWFFRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "咖哩豬排(雖然咖哩稍清)還不錯，白飯、小菜、味增湯可以續用，等待上菜時間較久且店內空調不是太好，廚房油煙味很明顯的聞到。可惜…",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "咖哩豬排(雖然咖哩稍清)還不錯，白飯、小菜、味增湯可以續用，等待上菜時間較久且店內空調不是太好，廚房油煙味很明顯的聞到。可惜…",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Liou Miya",
+        "uri": "https://www.google.com/maps/contrib/100535516836851210615/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV21D7O5iDD_HCuPqv_xeRA6ZPAJLCclunfuGp_MCCRAUphJzDo=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-02-19T03:34:19.381368318Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5RE1FMHRXRjlSTWtZMUxYaDRNMU5CTkdZeWFFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5RE1FMHRXRjlSTWtZMUxYaDRNMU5CTkdZeWFFRRAB!2m1!1s0x3442aced5db0ae73:0x37a40ec78dc80471"
+    },
+    {
+      "name": "places/ChIJc66wXe2sQjQRcQTIjccOpDc/reviews/Ci9DQUlRQUNvZENodHljRjlvT201NlREaElNRU54U2xWRVQydzBlbTExYWs1RVEzYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 2,
+      "text": {
+        "text": "整份餐點口味很詭異\n咖喱像吃剩再加水\n完全沒味道而且很水\n漢堡排的牛肉味道也很怪\n感覺是巴拉圭牛肉再加工\n口感也假假的 不像手打漢堡排\n小菜也是\n冷凍青花菜 無任何調味\n泡菜也沒特色\n味增湯甜的很奇怪\n小點心是一個很加工的迷你銅鑼燒\n\n醬料是 味全 ！！！\n很雷 可以不要來吃 ～\n感覺隔壁的sukiya 還划算好吃許多",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "整份餐點口味很詭異\n咖喱像吃剩再加水\n完全沒味道而且很水\n漢堡排的牛肉味道也很怪\n感覺是巴拉圭牛肉再加工\n口感也假假的 不像手打漢堡排\n小菜也是\n冷凍青花菜 無任何調味\n泡菜也沒特色\n味增湯甜的很奇怪\n小點心是一個很加工的迷你銅鑼燒\n\n醬料是 味全 ！！！\n很雷 可以不要來吃 ～\n感覺隔壁的sukiya 還划算好吃許多",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "青蛙呱呱",
+        "uri": "https://www.google.com/maps/contrib/106513543588941429865/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXyF2CSX0gJxVo6DLMa3uzehpOrLV-D622fQ1pK0MbMiwqGzPM=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-02T12:28:04.509873895Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201NlREaElNRU54U2xWRVQydzBlbTExYWs1RVEzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201NlREaElNRU54U2xWRVQydzBlbTExYWs1RVEzYxAB!2m1!1s0x3442aced5db0ae73:0x37a40ec78dc80471"
+    },
+    {
+      "name": "places/ChIJc66wXe2sQjQRcQTIjccOpDc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pNeWNGZGFTVlExU0VOUVZtNU9UR0Y2VG5OQk9HYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "新推出的雞醋燴野菜定食蠻好吃😋的，我個人喜歡它的味道，它定食會有一塊小黑糖麻吉，它整體感覺和やよぃ好像。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "新推出的雞醋燴野菜定食蠻好吃😋的，我個人喜歡它的味道，它定食會有一塊小黑糖麻吉，它整體感覺和やよぃ好像。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Huang Rita",
+        "uri": "https://www.google.com/maps/contrib/113965040237157871050/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJEWZfXp0fcAi9pzXchW4EKhi1uayoYSY86gIUP4U24y022yw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-22T09:55:44.920357664Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pNeWNGZGFTVlExU0VOUVZtNU9UR0Y2VG5OQk9HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pNeWNGZGFTVlExU0VOUVZtNU9UR0Y2VG5OQk9HYxAB!2m1!1s0x3442aced5db0ae73:0x37a40ec78dc80471"
+    },
+    {
+      "name": "places/ChIJc66wXe2sQjQRcQTIjccOpDc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GSVIwOXVURUpPV1hRd1RteGpRalpPV20xUk5sRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 1,
+      "text": {
+        "text": "1.漲價多到難理解\n2.服務人員在遠遠地方聊天手舉了很久才有人來\n3.點了炸牡蠣，manual 照片上是三粒但菜出來才兩粒而且非常小要價120元，反應也沒用\n以後絕對不會再來這店！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "1.漲價多到難理解\n2.服務人員在遠遠地方聊天手舉了很久才有人來\n3.點了炸牡蠣，manual 照片上是三粒但菜出來才兩粒而且非常小要價120元，反應也沒用\n以後絕對不會再來這店！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "David Huang",
+        "uri": "https://www.google.com/maps/contrib/110310013662646193592/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKQwY48J0iFqt6rRI26VBHZBpCDq6VTqHaqSDmKgb7O7OsQZA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-12-07T11:26:06.201432215Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GSVIwOXVURUpPV1hRd1RteGpRalpPV20xUk5sRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GSVIwOXVURUpPV1hRd1RteGpRalpPV20xUk5sRRAB!2m1!1s0x3442aced5db0ae73:0x37a40ec78dc80471"
+    },
+    {
+      "name": "places/ChIJc66wXe2sQjQRcQTIjccOpDc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aZlowZEVNbWN4VWtoa2MxRk9PVGhWZFZkWFpHYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 1,
+      "text": {
+        "text": "碳烤花魚的腥味相當明顯，讓人難以下嚥，有些失望。向服務人員反映後，得到的回覆是「這是正常的」，但實際用餐感受並不理想。希望店家能再留意食材的新鮮度與處理方式。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "碳烤花魚的腥味相當明顯，讓人難以下嚥，有些失望。向服務人員反映後，得到的回覆是「這是正常的」，但實際用餐感受並不理想。希望店家能再留意食材的新鮮度與處理方式。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Andy Hsieh (Andy Hsieh)",
+        "uri": "https://www.google.com/maps/contrib/104652304383133305872/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUacZLM5fp2QsPEmfzr_Q0_in2YrsIklHk39zPlgF4CkrPeuGA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-16T06:05:16.256214482Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aZlowZEVNbWN4VWtoa2MxRk9PVGhWZFZkWFpHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aZlowZEVNbWN4VWtoa2MxRk9PVGhWZFZkWFpHYxAB!2m1!1s0x3442aced5db0ae73:0x37a40ec78dc80471"
+    }
+  ],
+  "menuForChildren": true,
+  "goodForChildren": true
+}

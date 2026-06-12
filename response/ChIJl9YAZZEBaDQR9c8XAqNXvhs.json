@@ -1,0 +1,132 @@
+{
+  "id": "ChIJl9YAZZEBaDQR9c8XAqNXvhs",
+  "types": [
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2234 0140",
+  "formattedAddress": "116台灣臺北市文山區指南里指南路三段38巷16-2號2樓",
+  "location": {
+    "latitude": 24.9692591,
+    "longitude": 121.5875054
+  },
+  "rating": 4.1,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 2497,
+  "displayName": {
+    "text": "貓空 四爺 Sih Ye",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJl9YAZZEBaDQR9c8XAqNXvhs/reviews/Ci9DQUlRQUNvZENodHljRjlvT21JMFdVNXVSbUpHY1dWNmQyMU1YM05EY2t0NU1rRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點都還蠻特別的，尤其是鐵觀音雞湯，真的很好喝，茶的味道也不會蓋過雞湯味，非常值得推薦\n松板豬水蓮也非常好吃，炒的非常剛好也入味，完全不會軟爛\n蜜汁排骨也非常入味好吃，還有地瓜陪襯，也值得一推\n整體來說非常棒，風景也非常的漂亮",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點都還蠻特別的，尤其是鐵觀音雞湯，真的很好喝，茶的味道也不會蓋過雞湯味，非常值得推薦\n松板豬水蓮也非常好吃，炒的非常剛好也入味，完全不會軟爛\n蜜汁排骨也非常入味好吃，還有地瓜陪襯，也值得一推\n整體來說非常棒，風景也非常的漂亮",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "CH Yang",
+        "uri": "https://www.google.com/maps/contrib/115623805129679417411/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVl_kyd0taVGPezS5LGLXVoiqli0P_UzXtqXfm5CTddmMfr4vdKyA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-25T15:51:02.762107729Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21JMFdVNXVSbUpHY1dWNmQyMU1YM05EY2t0NU1rRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21JMFdVNXVSbUpHY1dWNmQyMU1YM05EY2t0NU1rRRAB!2m1!1s0x346801916500d697:0x1bbe57a30217cff5"
+    },
+    {
+      "name": "places/ChIJl9YAZZEBaDQR9c8XAqNXvhs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5RVFUYzVSMmRqTkc4NFpUWldjbTEzZERVMWVVRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "假日用餐最好能預約訂位，內部清潔乾淨明亮，點餐後送餐超級快速，餐食可口味美好吃，茶品也香醇，用餐限時2小時。服務人員熱心親切有禮。價錢也划算。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "假日用餐最好能預約訂位，內部清潔乾淨明亮，點餐後送餐超級快速，餐食可口味美好吃，茶品也香醇，用餐限時2小時。服務人員熱心親切有禮。價錢也划算。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "周豊智",
+        "uri": "https://www.google.com/maps/contrib/106001915166642873958/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU374LCWoVjHhZhFiqAtKOtvb2tWym8Q25WKewNrlO-MsyKtD_yKg=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-01-17T15:03:25.413835589Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5RVFUYzVSMmRqTkc4NFpUWldjbTEzZERVMWVVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5RVFUYzVSMmRqTkc4NFpUWldjbTEzZERVMWVVRRAB!2m1!1s0x346801916500d697:0x1bbe57a30217cff5"
+    },
+    {
+      "name": "places/ChIJl9YAZZEBaDQR9c8XAqNXvhs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKTFRtVTVNakJ6U2tvd1ZrbEhNVFp4TkZSWVVtYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "*餐廳地點：離貓空纜車站非常近，走路3分鐘內可到達，搭纜車前往非常方便！也有設停車場。\n\n*用餐環境：\n1）尖峰時段用餐嚴格限時2小時，跟大多數熱門餐廳規定一樣，最好等全部的人都到齊再進去會比較好。\n2） 包廂設計古色古香，有一秒來到清朝的感覺，公共區域有小橋流水、櫻花、池塘、鯉魚、字畫，非常適合拍照。\n\n*食物餐點：\n1） 上菜速度快到爆炸，完全沒有其他網友說的等30-40分鐘。一點好餐、付完款（可刷卡），10分鐘後馬上就上了3道菜，我們這次點了19道菜，全都很快上來，桌子還擺不下全部。\n2） 這次只吃午餐，沒有點下午茶，食物味道中規中矩，稱不上超美味，但是還可接受，算是擺盤比較漂亮的家常菜。\n3） 「五彩小饅頭」居然是我們一行人的最愛！另外，茶飲很棒很好喝，感覺這間店有名的應該是茶點而不是正餐，下次要來試試茶點。\n\n*人員服務：老闆娘比較嚴肅，而有位年輕人及外籍服務員服務超好，隨時注意客人需求又幫忙拍照。\n\n整體而言，這裡是吃氣氛的成分較高，風景好，適合小朋友及長輩，帶外國朋友來也適合。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "*餐廳地點：離貓空纜車站非常近，走路3分鐘內可到達，搭纜車前往非常方便！也有設停車場。\n\n*用餐環境：\n1）尖峰時段用餐嚴格限時2小時，跟大多數熱門餐廳規定一樣，最好等全部的人都到齊再進去會比較好。\n2） 包廂設計古色古香，有一秒來到清朝的感覺，公共區域有小橋流水、櫻花、池塘、鯉魚、字畫，非常適合拍照。\n\n*食物餐點：\n1） 上菜速度快到爆炸，完全沒有其他網友說的等30-40分鐘。一點好餐、付完款（可刷卡），10分鐘後馬上就上了3道菜，我們這次點了19道菜，全都很快上來，桌子還擺不下全部。\n2） 這次只吃午餐，沒有點下午茶，食物味道中規中矩，稱不上超美味，但是還可接受，算是擺盤比較漂亮的家常菜。\n3） 「五彩小饅頭」居然是我們一行人的最愛！另外，茶飲很棒很好喝，感覺這間店有名的應該是茶點而不是正餐，下次要來試試茶點。\n\n*人員服務：老闆娘比較嚴肅，而有位年輕人及外籍服務員服務超好，隨時注意客人需求又幫忙拍照。\n\n整體而言，這裡是吃氣氛的成分較高，風景好，適合小朋友及長輩，帶外國朋友來也適合。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Peny Chang",
+        "uri": "https://www.google.com/maps/contrib/114460920785135534999/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU5nZFGiRTn_pCvo6GJFkr48VjQwuNYrEIY4M76lvuZuDZcAmw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-18T08:42:08.473747836Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKTFRtVTVNakJ6U2tvd1ZrbEhNVFp4TkZSWVVtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKTFRtVTVNakJ6U2tvd1ZrbEhNVFp4TkZSWVVtYxAB!2m1!1s0x346801916500d697:0x1bbe57a30217cff5"
+    },
+    {
+      "name": "places/ChIJl9YAZZEBaDQR9c8XAqNXvhs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsYVl6a3lUa3RqV0ZveVVYVlhTMDFsVVdONU9GRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "離貓空纜車車站很近，走一兩分鐘就到了~如果想在貓空吃東西是不錯的選擇，是包廂合菜比較適合三五好友一起吃\n比較麻煩的是進去包廂要脫鞋，而且要點單還要穿鞋出去再回來脫鞋，希望可以線上點單或是服務員來點單\n食物部分特別推薦蜜茶排骨，他的蜜汁地瓜超級好吃！！排骨也很嫩！為了這道菜我會再來\n還有鐵觀音茶雞湯，有茶香味很特別，暖暖的非常適合冬天~~\n茶香月亮以為是什麼很厲害的東西，結果是月亮蝦餅，味道蠻普的",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "離貓空纜車車站很近，走一兩分鐘就到了~如果想在貓空吃東西是不錯的選擇，是包廂合菜比較適合三五好友一起吃\n比較麻煩的是進去包廂要脫鞋，而且要點單還要穿鞋出去再回來脫鞋，希望可以線上點單或是服務員來點單\n食物部分特別推薦蜜茶排骨，他的蜜汁地瓜超級好吃！！排骨也很嫩！為了這道菜我會再來\n還有鐵觀音茶雞湯，有茶香味很特別，暖暖的非常適合冬天~~\n茶香月亮以為是什麼很厲害的東西，結果是月亮蝦餅，味道蠻普的",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jia Yin Foo",
+        "uri": "https://www.google.com/maps/contrib/102697726234320263595/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUQlnFHS-M-WF9kDq7WW_uCplLo7LVMt8OZDnDR3-jeVxJzrw1iPQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-04T18:11:05.513512965Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsYVl6a3lUa3RqV0ZveVVYVlhTMDFsVVdONU9GRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsYVl6a3lUa3RqV0ZveVVYVlhTMDFsVVdONU9GRRAB!2m1!1s0x346801916500d697:0x1bbe57a30217cff5"
+    },
+    {
+      "name": "places/ChIJl9YAZZEBaDQR9c8XAqNXvhs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toVVJsazRia1pHWm0xVWEzUnJUVkozWkd0WlNYYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 3,
+      "text": {
+        "text": "兩人點三樣菜品一個湯，外加飲料兩壺。\n點餐的時候以為飲料是一大杯，結果是一壺、以至於點兩壺喝到撐。\n景色室內座位還算可以、頂樓位置會稍微冷。\n點了雞湯 炸物，涼拌，跟炒菜。\n價格偏貴，但因為是跟朋友久久聚餐因此也還可以吧。\n炸物的份量夠2-3人吃，飲料兩個人喝一壺剛好。如果店員在點餐時有稍微提點，或許會更願意再次前往。\n涼拌就是如預期的口味～無功無過。\n好處是有停車場！！不用到處找位置，鄰近貓空站",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "兩人點三樣菜品一個湯，外加飲料兩壺。\n點餐的時候以為飲料是一大杯，結果是一壺、以至於點兩壺喝到撐。\n景色室內座位還算可以、頂樓位置會稍微冷。\n點了雞湯 炸物，涼拌，跟炒菜。\n價格偏貴，但因為是跟朋友久久聚餐因此也還可以吧。\n炸物的份量夠2-3人吃，飲料兩個人喝一壺剛好。如果店員在點餐時有稍微提點，或許會更願意再次前往。\n涼拌就是如預期的口味～無功無過。\n好處是有停車場！！不用到處找位置，鄰近貓空站",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "L-D Kou",
+        "uri": "https://www.google.com/maps/contrib/109676074183029632482/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKj1RmJv05kwAFcj8-u0MBSJguKnijIQJBj9m5AT4E6h_CgWEU=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-17T06:28:28.662911621Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toVVJsazRia1pHWm0xVWEzUnJUVkozWkd0WlNYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toVVJsazRia1pHWm0xVWEzUnJUVkozWkd0WlNYYxAB!2m1!1s0x346801916500d697:0x1bbe57a30217cff5"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

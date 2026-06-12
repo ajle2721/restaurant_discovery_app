@@ -1,0 +1,131 @@
+{
+  "id": "ChIJyztm1p2pQjQRjzLlFhzsSL0",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 909 785 115",
+  "formattedAddress": "10354台灣臺北市大同區雙連里萬全街46號",
+  "location": {
+    "latitude": 25.0585317,
+    "longitude": 121.51986459999998
+  },
+  "rating": 4.8,
+  "websiteUri": "https://reurl.cc/zAzGzV",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 2437,
+  "displayName": {
+    "text": "好啊咖啡",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJyztm1p2pQjQRjzLlFhzsSL0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWZk1uSllkaTFvTlZsME9FVklUR0Y1V0ZWSFJHYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "當天外帶，不能點提拉米蘇好可惜，有機會再去吃吃看還有其他特別品項，內用氛圍很不錯，一進門就咖啡香撲鼻，好幸福☺️\n\n——————————————————————\n\n草莓抹茶戚風$260\n草莓季限定，抹茶味沒很濃，那個草莓醬意外的讓人上癮，不過整體來說沒有很特別，沒什麼記憶點\n\n草莓抹茶山$180\n抹茶布丁上面配草莓，布丁滑順而且又夠抹，我覺得蠻好吃的，朋友超愛這款他說第一名\n\n日式焙茶千層$190\n我覺得這個最好吃！茶香味濃，然後不會太甜而膩口，而且還附了焙茶醬汁，淋上蛋糕會超焙超爽，不過為了避免流出來浪費，所以我直接把汁乾掉，很讚😎",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "當天外帶，不能點提拉米蘇好可惜，有機會再去吃吃看還有其他特別品項，內用氛圍很不錯，一進門就咖啡香撲鼻，好幸福☺️\n\n——————————————————————\n\n草莓抹茶戚風$260\n草莓季限定，抹茶味沒很濃，那個草莓醬意外的讓人上癮，不過整體來說沒有很特別，沒什麼記憶點\n\n草莓抹茶山$180\n抹茶布丁上面配草莓，布丁滑順而且又夠抹，我覺得蠻好吃的，朋友超愛這款他說第一名\n\n日式焙茶千層$190\n我覺得這個最好吃！茶香味濃，然後不會太甜而膩口，而且還附了焙茶醬汁，淋上蛋糕會超焙超爽，不過為了避免流出來浪費，所以我直接把汁乾掉，很讚😎",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Li Tzu Wang",
+        "uri": "https://www.google.com/maps/contrib/109219011406387629032/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVVl4cO8jLsmQc6z9z1fujVonVQaD_aURU4I_StjTuUroygZ0YQxA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-30T14:34:24.740667663Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWZk1uSllkaTFvTlZsME9FVklUR0Y1V0ZWSFJHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWZk1uSllkaTFvTlZsME9FVklUR0Y1V0ZWSFJHYxAB!2m1!1s0x3442a99dd6663bcb:0xbd48ec1c16e5328f"
+    },
+    {
+      "name": "places/ChIJyztm1p2pQjQRjzLlFhzsSL0/reviews/Ci9DQUlRQUNvZENodHljRjlvT205a1ZEWjVlbk5yYlZsMVRqRlZTa0pHYjFBMVZGRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "抹茶千層沒有完全退冰，中間很硬很冰，一塊$240的千層品質卻是這樣，朋友點的草莓千層蠻好吃的",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "抹茶千層沒有完全退冰，中間很硬很冰，一塊$240的千層品質卻是這樣，朋友點的草莓千層蠻好吃的",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Y Chen",
+        "uri": "https://www.google.com/maps/contrib/102395167105542241617/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdhFuwJLR9koETKC5bx7LCaoKyhKzhAjFDd-jRaSQDbxmc4klr=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-03-01T13:31:32.775813935Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205a1ZEWjVlbk5yYlZsMVRqRlZTa0pHYjFBMVZGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205a1ZEWjVlbk5yYlZsMVRqRlZTa0pHYjFBMVZGRRAB!2m1!1s0x3442a99dd6663bcb:0xbd48ec1c16e5328f"
+    },
+    {
+      "name": "places/ChIJyztm1p2pQjQRjzLlFhzsSL0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5R2VuRjZNSGQ1WDJRd2VYSktSV2RHVW5jeFJHYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "260220雙連 好啊咖啡\n網路上很有名的抹茶點心店，\n很漂亮的網美點心店。\n拿到餐點時，\n抹茶千層滿小片的，\n抹茶戚風蛋糕尺寸滿精緻的。\n店貓會神出鬼沒的突然出現。\n對抹茶點心與飲料的評價，大約是跟茶茶小王子接近的等級。\n65%抹茶沒有想像中的濃，\n香氣也沒有很香，\n口感微澀，\n類似一般點心用等級的抹茶風味。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "260220雙連 好啊咖啡\n網路上很有名的抹茶點心店，\n很漂亮的網美點心店。\n拿到餐點時，\n抹茶千層滿小片的，\n抹茶戚風蛋糕尺寸滿精緻的。\n店貓會神出鬼沒的突然出現。\n對抹茶點心與飲料的評價，大約是跟茶茶小王子接近的等級。\n65%抹茶沒有想像中的濃，\n香氣也沒有很香，\n口感微澀，\n類似一般點心用等級的抹茶風味。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "楊正旭",
+        "uri": "https://www.google.com/maps/contrib/115865424692864388981/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXxrSzNJnZBd1DCFX6VuTeqs0AUI-NtrZPI9ZFQzKW1Ap6T1Llg=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-02-20T05:18:05.797862645Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5R2VuRjZNSGQ1WDJRd2VYSktSV2RHVW5jeFJHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5R2VuRjZNSGQ1WDJRd2VYSktSV2RHVW5jeFJHYxAB!2m1!1s0x3442a99dd6663bcb:0xbd48ec1c16e5328f"
+    },
+    {
+      "name": "places/ChIJyztm1p2pQjQRjzLlFhzsSL0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25jdE5VUTNSelJITkVGWVdHMUJRMVZXZW5sMFRsRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 3,
+      "text": {
+        "text": "嗯…價格我覺得貴了點，主食咖哩如果不習慣吃太水跟甜又小盤的建議不用點！甜點部分提拉米蘇！9成抹茶醬1成蛋糕！味道不錯但口感真的像在吃抹茶奶油？！抹茶蛋糕不錯！抹茶飲品我覺得還行\n\n用餐時間2小時⋯⋯但等的時間快1小時！我1200進場咖喱快1.才來！ 座位兩人那邊比較擠可以就選前面一點的‼️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "嗯…價格我覺得貴了點，主食咖哩如果不習慣吃太水跟甜又小盤的建議不用點！甜點部分提拉米蘇！9成抹茶醬1成蛋糕！味道不錯但口感真的像在吃抹茶奶油？！抹茶蛋糕不錯！抹茶飲品我覺得還行\n\n用餐時間2小時⋯⋯但等的時間快1小時！我1200進場咖喱快1.才來！ 座位兩人那邊比較擠可以就選前面一點的‼️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "盛",
+        "uri": "https://www.google.com/maps/contrib/115056870034364877779/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVt30CfU615JHHaOf-SaahyV2sR4-gf1WnlvNG6qRTFyQn9tNer=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-23T06:04:41.175220181Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25jdE5VUTNSelJITkVGWVdHMUJRMVZXZW5sMFRsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25jdE5VUTNSelJITkVGWVdHMUJRMVZXZW5sMFRsRRAB!2m1!1s0x3442a99dd6663bcb:0xbd48ec1c16e5328f"
+    },
+    {
+      "name": "places/ChIJyztm1p2pQjQRjzLlFhzsSL0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psRmEwUnZjMGRPU0haWGVESTJVVlo0U2tvMFJXYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "外觀氛圍很好的咖啡店，但，空氣中的油煙味，掩蓋了咖啡香。\n抹茶蛋糕很濃郁，就是價位有點高。\n可以嘗試的店家。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "外觀氛圍很好的咖啡店，但，空氣中的油煙味，掩蓋了咖啡香。\n抹茶蛋糕很濃郁，就是價位有點高。\n可以嘗試的店家。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "蔡黑皮",
+        "uri": "https://www.google.com/maps/contrib/105258848187011633782/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYh-WO2F3iOXYs6-SOKsU1h9AlaI7b1B9F_Npu9eXM1Lb08q62=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-23T04:05:47.682727181Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psRmEwUnZjMGRPU0haWGVESTJVVlo0U2tvMFJXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psRmEwUnZjMGRPU0haWGVESTJVVlo0U2tvMFJXYxAB!2m1!1s0x3442a99dd6663bcb:0xbd48ec1c16e5328f"
+    }
+  ],
+  "menuForChildren": false
+}

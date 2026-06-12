@@ -1,0 +1,133 @@
+{
+  "id": "ChIJNfXsDd6rQjQRE_sflwrZjrM",
+  "types": [
+    "cafe",
+    "breakfast_restaurant",
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2506 9161",
+  "formattedAddress": "10491台灣台北市中山区复华里龙江路114巷1號1樓",
+  "location": {
+    "latitude": 25.053233400000003,
+    "longitude": 121.54019620000001
+  },
+  "rating": 4.4,
+  "websiteUri": "http://www.nanshancoffee.com.tw/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 346,
+  "displayName": {
+    "text": "嵐山咖啡",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJNfXsDd6rQjQRE_sflwrZjrM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2premJqQTBTRmhUVlRWSFh6UnliRkZMVEVrNGEyYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "商業區的最佳休憩場所，與朋友閒聊或是商務會議洽談都很適合，氛圍也不錯，尤其下午時刻陽光灑進來的那舒適溫馨感，重點是店內的咖啡都很有特色，選擇也多，個人最愛抹茶拿鐵，濃濃的抹茶味帶著咖啡的香氣非常香濃可口。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "商業區的最佳休憩場所，與朋友閒聊或是商務會議洽談都很適合，氛圍也不錯，尤其下午時刻陽光灑進來的那舒適溫馨感，重點是店內的咖啡都很有特色，選擇也多，個人最愛抹茶拿鐵，濃濃的抹茶味帶著咖啡的香氣非常香濃可口。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ishare_Pinlife (pinpin)",
+        "uri": "https://www.google.com/maps/contrib/105671869919617600170/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUCJDPovJVge5JX6IfSvL3QeiJr1RgajHVSr06L3DrI45vwmhan=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-15T12:05:58.477284033Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2premJqQTBTRmhUVlRWSFh6UnliRkZMVEVrNGEyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2premJqQTBTRmhUVlRWSFh6UnliRkZMVEVrNGEyYxAB!2m1!1s0x3442abde0decf535:0xb38ed90a971ffb13"
+    },
+    {
+      "name": "places/ChIJNfXsDd6rQjQRE_sflwrZjrM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOTlZqVlNNbEJpYmtoTFlXeGlNSEpmU0hKUlUyYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "南京東路與長春路間的40年老咖啡店，特色的虹吸式咖啡，看得出咖啡都是精品，人潮都是常客與老客，今天首次造訪品嚐，果然香醇濃郁好吃，非常推薦",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "南京東路與長春路間的40年老咖啡店，特色的虹吸式咖啡，看得出咖啡都是精品，人潮都是常客與老客，今天首次造訪品嚐，果然香醇濃郁好吃，非常推薦",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "alfredhsieh",
+        "uri": "https://www.google.com/maps/contrib/110538225257965398967/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUg_L93G3GzpSGBWKRwEhI-T_zX3anXkCMAODkSJDkk49oYsTu71g=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-01-29T13:13:59.297635870Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOTlZqVlNNbEJpYmtoTFlXeGlNSEpmU0hKUlUyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOTlZqVlNNbEJpYmtoTFlXeGlNSEpmU0hKUlUyYxAB!2m1!1s0x3442abde0decf535:0xb38ed90a971ffb13"
+    },
+    {
+      "name": "places/ChIJNfXsDd6rQjQRE_sflwrZjrM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Sc1EyODVjVlJYVEZWd2NGcFFXVzlYYjBKSWFXYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "日式懷舊風格的咖啡店，有來自世界各地的咖啡可以選擇，是家擁有40年歷史的台北老店。老闆娘親自煮咖啡，虹吸式咖啡煮法，煮出風味獨特的咖啡，香醇且濃郁，也有低咖啡因咖啡可以選。焦糖瑪琪朵義式咖啡也很好喝，還有漂亮的拉花圖案。整體環境乾淨明亮還有地下室，附近好停車，有廁所，服務態度親切，值得再訪。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "日式懷舊風格的咖啡店，有來自世界各地的咖啡可以選擇，是家擁有40年歷史的台北老店。老闆娘親自煮咖啡，虹吸式咖啡煮法，煮出風味獨特的咖啡，香醇且濃郁，也有低咖啡因咖啡可以選。焦糖瑪琪朵義式咖啡也很好喝，還有漂亮的拉花圖案。整體環境乾淨明亮還有地下室，附近好停車，有廁所，服務態度親切，值得再訪。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "くま",
+        "uri": "https://www.google.com/maps/contrib/114200992250385591141/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUxOBRpcuV-1AlnCpyZSC8WHkW5iOQqErED-vfjt_mtH-nCvVk=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-26T09:12:34.714714790Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Sc1EyODVjVlJYVEZWd2NGcFFXVzlYYjBKSWFXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Sc1EyODVjVlJYVEZWd2NGcFFXVzlYYjBKSWFXYxAB!2m1!1s0x3442abde0decf535:0xb38ed90a971ffb13"
+    },
+    {
+      "name": "places/ChIJNfXsDd6rQjQRE_sflwrZjrM/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GV1JFMTBhRUZTY1RCUGRGWktTVzlTWHpFMmMzYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "咖啡老店，回味昭和時代的日式咖啡。\n咖啡好喝，三明治是那種古早味（台式口味）！\n來客很多都是歐吉桑😅",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "咖啡老店，回味昭和時代的日式咖啡。\n咖啡好喝，三明治是那種古早味（台式口味）！\n來客很多都是歐吉桑😅",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "青蛙呱呱",
+        "uri": "https://www.google.com/maps/contrib/106513543588941429865/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUKq84rpdZhfAlDQqmjRDfR5y-vriA9mA0YFNEIEOLnbpPPDP8=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-31T05:16:25.573087884Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GV1JFMTBhRUZTY1RCUGRGWktTVzlTWHpFMmMzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GV1JFMTBhRUZTY1RCUGRGWktTVzlTWHpFMmMzYxAB!2m1!1s0x3442abde0decf535:0xb38ed90a971ffb13"
+    },
+    {
+      "name": "places/ChIJNfXsDd6rQjQRE_sflwrZjrM/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CWlNteFllR3hZVUU1U1dGRlVibmhNUjFONmIyYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "鬧區裡寧靜的小咖啡店\n適合坐下來談事情，輕食的部分偏普通，咖啡沒有點手沖感覺不出亮點",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "鬧區裡寧靜的小咖啡店\n適合坐下來談事情，輕食的部分偏普通，咖啡沒有點手沖感覺不出亮點",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Emily Wang",
+        "uri": "https://www.google.com/maps/contrib/115556604039176796260/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV_aiS242PjHZ9fVAAUJiTMtXSg_CEvjnSNbOu36-rdQiZhkIeR=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-15T12:29:15.907118482Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CWlNteFllR3hZVUU1U1dGRlVibmhNUjFONmIyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CWlNteFllR3hZVUU1U1dGRlVibmhNUjFONmIyYxAB!2m1!1s0x3442abde0decf535:0xb38ed90a971ffb13"
+    }
+  ]
+}

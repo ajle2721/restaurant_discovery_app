@@ -1,0 +1,131 @@
+{
+  "id": "ChIJvcFODQCrQjQRbRWTClHzfvo",
+  "types": [
+    "korean_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 926 743 848",
+  "formattedAddress": "115台灣臺北市松山區東新街10號",
+  "location": {
+    "latitude": 25.0502973,
+    "longitude": 121.5831409
+  },
+  "rating": 4.9,
+  "userRatingCount": 55,
+  "displayName": {
+    "text": "家庭私廚",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJvcFODQCrQjQRbRWTClHzfvo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toQk0yMHdiMFIyUWtwVmR6aHJRalpuYmpJM1NrRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "手工製的櫛瓜水餃，配老闆娘配的醬油超好吃！\n小菜拼盤份量也很足，可以吃的很滿足😌\n老闆娘雖然很忙，但還是很親切😭辛苦了",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "手工製的櫛瓜水餃，配老闆娘配的醬油超好吃！\n小菜拼盤份量也很足，可以吃的很滿足😌\n老闆娘雖然很忙，但還是很親切😭辛苦了",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "青椒肉絲",
+        "uri": "https://www.google.com/maps/contrib/111484845673225380590/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWokttQSum49vAc0i229HTcOJ3FlXvJo7R0p1wI0BGw1HP3NLct=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-14T06:37:30.617361605Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toQk0yMHdiMFIyUWtwVmR6aHJRalpuYmpJM1NrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toQk0yMHdiMFIyUWtwVmR6aHJRalpuYmpJM1NrRRAB!2m1!1s0x3442ab000d4ec1bd:0xfa7ef3510a93156d"
+    },
+    {
+      "name": "places/ChIJvcFODQCrQjQRbRWTClHzfvo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paRmJXWkpkMlZLVG5KaFdtb3haSFpKZDAweExYYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "雙椒皮蛋麵超厲害👍\n節瓜水餃清爽好吃\n老闆是會講中文的韓國人 非常用心準備料理🥰",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "雙椒皮蛋麵超厲害👍\n節瓜水餃清爽好吃\n老闆是會講中文的韓國人 非常用心準備料理🥰",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Nydia晏寧 L.",
+        "uri": "https://www.google.com/maps/contrib/108979796117539136440/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVmJlr0FIiSoqnORkN2zhphMgp7Xbf8UQIj5-St8X-q9HS-zGIEIg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-29T11:31:36.315658007Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paRmJXWkpkMlZLVG5KaFdtb3haSFpKZDAweExYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paRmJXWkpkMlZLVG5KaFdtb3haSFpKZDAweExYYxAB!2m1!1s0x3442ab000d4ec1bd:0xfa7ef3510a93156d"
+    },
+    {
+      "name": "places/ChIJvcFODQCrQjQRbRWTClHzfvo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGRk9XTkVXRFptWXpKaU9EaGFlRWM0YkVSR01tYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "節瓜水餃真的超好吃，連水餃皮都是自己做的\n臘八蒜的風味也很棒，但是一個人會有點吃不完，幾個人一起分享比較剛好",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "節瓜水餃真的超好吃，連水餃皮都是自己做的\n臘八蒜的風味也很棒，但是一個人會有點吃不完，幾個人一起分享比較剛好",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "方Fang",
+        "uri": "https://www.google.com/maps/contrib/101287453389205025297/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUVgAxL9xUY-cGqeHKxhVZ3DdEZCNYI73CmWi4WxpIdUecZx-nt=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-10T10:48:28.733473778Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGRk9XTkVXRFptWXpKaU9EaGFlRWM0YkVSR01tYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGRk9XTkVXRFptWXpKaU9EaGFlRWM0YkVSR01tYxAB!2m1!1s0x3442ab000d4ec1bd:0xfa7ef3510a93156d"
+    },
+    {
+      "name": "places/ChIJvcFODQCrQjQRbRWTClHzfvo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5aFRrdG5NR1ZQWkdwUU1rVlZWbkV5WDJWd04wRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "炸醬麵、皮蛋麵、櫛瓜水餃、小菜海帶芽，每一道都很好吃！\n闆娘說她每天大約工作 12 小時，一早就開始備料，走的是清爽不油膩的路線，吃得出真材實料與用心。\n闆娘人也很親切，店面隱身在騎樓下，是一間值得推薦的寶藏小店！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "炸醬麵、皮蛋麵、櫛瓜水餃、小菜海帶芽，每一道都很好吃！\n闆娘說她每天大約工作 12 小時，一早就開始備料，走的是清爽不油膩的路線，吃得出真材實料與用心。\n闆娘人也很親切，店面隱身在騎樓下，是一間值得推薦的寶藏小店！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Josh Lin",
+        "uri": "https://www.google.com/maps/contrib/112282426264729139419/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKRLlaCigbRCAPZq1PJ2hwU_ly3mh-1jaVPjd0BoSV41p4C2K1z=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-09-22T12:31:42.169417265Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5aFRrdG5NR1ZQWkdwUU1rVlZWbkV5WDJWd04wRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5aFRrdG5NR1ZQWkdwUU1rVlZWbkV5WDJWd04wRRAB!2m1!1s0x3442ab000d4ec1bd:0xfa7ef3510a93156d"
+    },
+    {
+      "name": "places/ChIJvcFODQCrQjQRbRWTClHzfvo/reviews/Ci9DQUlRQUNvZENodHljRjlvT210aVQwc3dUM05YVEhvMll6ZFlkbTUxVVhsRlIyYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "麵體本身很Q彈，調味也相當不錯！節瓜水餃吃起來很清爽。老闆很熱心！看得出來對食物相當熱忱有自己的堅持",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "麵體本身很Q彈，調味也相當不錯！節瓜水餃吃起來很清爽。老闆很熱心！看得出來對食物相當熱忱有自己的堅持",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Justina Wang",
+        "uri": "https://www.google.com/maps/contrib/107779693489260551739/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXDkjC5ThNyrB_m-VcdwkaQ32fwMc9faQxH4pQwOxiMu9jAdWES=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-05T15:47:54.351737154Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210aVQwc3dUM05YVEhvMll6ZFlkbTUxVVhsRlIyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210aVQwc3dUM05YVEhvMll6ZFlkbTUxVVhsRlIyYxAB!2m1!1s0x3442ab000d4ec1bd:0xfa7ef3510a93156d"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

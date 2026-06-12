@@ -1,0 +1,132 @@
+{
+  "id": "ChIJD02dKwCrQjQR6ANJO8otWYE",
+  "types": [
+    "coffee_shop",
+    "cafe",
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "105台灣臺北市松山區新中街6巷3號1樓",
+  "location": {
+    "latitude": 25.0583702,
+    "longitude": 121.5607492
+  },
+  "rating": 4.8,
+  "websiteUri": "https://instagram.com/clipcoffeeofficial?igshid=MzMyNGUyNmU2YQ==",
+  "userRatingCount": 114,
+  "displayName": {
+    "text": "clip coffee Taipei",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJD02dKwCrQjQR6ANJO8otWYE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pVNGNXSjNkekZhY1ZwUFREZHljM1pMT1U5SFVrRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "可愛的咖啡廳\n外帶杯logo超Q是店狗🐶（但我內用🥹）\n拿鐵、美式都很好喝\n配上店內音樂很舒服愜意☕️🫧🤎\n\n內用座位偏少 有戶外座位\n第二次經過終於有位置♪(*^^)",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "可愛的咖啡廳\n外帶杯logo超Q是店狗🐶（但我內用🥹）\n拿鐵、美式都很好喝\n配上店內音樂很舒服愜意☕️🫧🤎\n\n內用座位偏少 有戶外座位\n第二次經過終於有位置♪(*^^)",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Wei",
+        "uri": "https://www.google.com/maps/contrib/110902468354072633051/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXHIzLd27SasjoVA9wNpJ-9SZmQx0S2LmTx9CoRBlQTqDN_P7A=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-21T09:17:15.170935238Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pVNGNXSjNkekZhY1ZwUFREZHljM1pMT1U5SFVrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pVNGNXSjNkekZhY1ZwUFREZHljM1pMT1U5SFVrRRAB!2m1!1s0x3442ab002b9d4d0f:0x81592dca3b4903e8"
+    },
+    {
+      "name": "places/ChIJD02dKwCrQjQR6ANJO8otWYE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pBMWNUWnpiMlF5VTNCRmEyNU5WREJ4TVV4R05VRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "偶然在網路上發現的咖啡店\n周邊設計驚人的可愛\n\n平日中午來現場外帶\n（改天再來內用！）\n西班牙拿鐵 非常順口濃郁\n有添加煉乳但不會有甜膩厚重的感覺\n反而多了一點香味",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "偶然在網路上發現的咖啡店\n周邊設計驚人的可愛\n\n平日中午來現場外帶\n（改天再來內用！）\n西班牙拿鐵 非常順口濃郁\n有添加煉乳但不會有甜膩厚重的感覺\n反而多了一點香味",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "The Isaac Lin",
+        "uri": "https://www.google.com/maps/contrib/114655175137574370818/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWmLXXTRvK-lKJntSKdTVbTWcj9bgHKwfeSSXlaoTV-KBibWVRb=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-09T06:25:00.226422854Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pBMWNUWnpiMlF5VTNCRmEyNU5WREJ4TVV4R05VRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pBMWNUWnpiMlF5VTNCRmEyNU5WREJ4TVV4R05VRRAB!2m1!1s0x3442ab002b9d4d0f:0x81592dca3b4903e8"
+    },
+    {
+      "name": "places/ChIJD02dKwCrQjQR6ANJO8otWYE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWdE1HTXdTMnhTWkRWdFNWWkJkakJtWjI1SWNFRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 3,
+      "text": {
+        "text": "小巧輕便的咖啡店，老闆親切，咖啡中肯，沒有特別好或不好。店家老闆人緣應該很好，朋友來訪聊天說話充斥整個店⋯非常影響想來此休憩安靜一下的客人",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "小巧輕便的咖啡店，老闆親切，咖啡中肯，沒有特別好或不好。店家老闆人緣應該很好，朋友來訪聊天說話充斥整個店⋯非常影響想來此休憩安靜一下的客人",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Julie Kim",
+        "uri": "https://www.google.com/maps/contrib/114918774748473660449/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVFKF5tMSUKZ18oVo6tD-8pC5bMIzEC4DnYS9SX2CA5bayjbIU=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-05T03:47:10.277931559Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWdE1HTXdTMnhTWkRWdFNWWkJkakJtWjI1SWNFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWdE1HTXdTMnhTWkRWdFNWWkJkakJtWjI1SWNFRRAB!2m1!1s0x3442ab002b9d4d0f:0x81592dca3b4903e8"
+    },
+    {
+      "name": "places/ChIJD02dKwCrQjQR6ANJO8otWYE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaMGRXTnVaV2x5UlRobE5UVnljMEZpVGtkalpXYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "🔸Dirty:\n點了一杯dirty，小小的但非常順口，帶有咖啡苦味卻不強烈而是很溫潤的口感及味道，很喜歡！\n\n店小小一間，很幸運剛好有座位可以入席，再涼一點的天氣感覺坐在室外唯一的矮椅子上也會很舒服。店裡比較安靜但不壓抑，是一間不錯的小小咖啡店。\n\nK&L",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "🔸Dirty:\n點了一杯dirty，小小的但非常順口，帶有咖啡苦味卻不強烈而是很溫潤的口感及味道，很喜歡！\n\n店小小一間，很幸運剛好有座位可以入席，再涼一點的天氣感覺坐在室外唯一的矮椅子上也會很舒服。店裡比較安靜但不壓抑，是一間不錯的小小咖啡店。\n\nK&L",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lia C",
+        "uri": "https://www.google.com/maps/contrib/111488225096173797731/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXxxTNHOZDIg5UHy8UY1kGk2299ugB6kcfhZ5D4d7Pw2tQe-B7K=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-08T06:34:30.669352247Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaMGRXTnVaV2x5UlRobE5UVnljMEZpVGtkalpXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaMGRXTnVaV2x5UlRobE5UVnljMEZpVGtkalpXYxAB!2m1!1s0x3442ab002b9d4d0f:0x81592dca3b4903e8"
+    },
+    {
+      "name": "places/ChIJD02dKwCrQjQR6ANJO8otWYE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pZMlpYQnNTbk5XTFhaT2JVbzJjbWR4TlROTmNFRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "經過第二次終於吃到了😂\n（因為一開門就來了哈哈\n\n咖啡好喝 麵包好吃 喜歡🥰",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "經過第二次終於吃到了😂\n（因為一開門就來了哈哈\n\n咖啡好喝 麵包好吃 喜歡🥰",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yume",
+        "uri": "https://www.google.com/maps/contrib/107882982293704700385/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU6ka8JQxZEYinf12rMjuEj-BxggYM2Cr0eKV0TuoBk4uz5XFfR=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-29T12:00:12.530119684Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pZMlpYQnNTbk5XTFhaT2JVbzJjbWR4TlROTmNFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pZMlpYQnNTbk5XTFhaT2JVbzJjbWR4TlROTmNFRRAB!2m1!1s0x3442ab002b9d4d0f:0x81592dca3b4903e8"
+    }
+  ]
+}

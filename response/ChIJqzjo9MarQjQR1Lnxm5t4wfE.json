@@ -1,0 +1,138 @@
+{
+  "id": "ChIJqzjo9MarQjQR1Lnxm5t4wfE",
+  "types": [
+    "dessert_shop",
+    "dessert_restaurant",
+    "confectionery",
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2775 3660",
+  "formattedAddress": "10694台灣臺北市大安區華聲里光復南路200巷11號轉角第一家1樓",
+  "location": {
+    "latitude": 25.041922399999997,
+    "longitude": 121.55559129999999
+  },
+  "rating": 4.6,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 516,
+  "displayName": {
+    "text": "#LATTICE 比利時．列日鬆餅",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Charming cafe doling out made-to-order Belgian-style waffles with unique glazes & toppings.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJqzjo9MarQjQR1Lnxm5t4wfE/reviews/ChZDSUhNMG9nS0VLN1h4ZnVOajZqd0hnEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "幫同事們訂下午茶，找到這間比利時鬆餅，外送訂餐過程中，老闆都很有耐心的為我們解惑，也會附上照片供參考及欣賞美食。\n\n老闆外送當天還有幫忙注意天氣，怕下午後雷陣雨，提前將熱騰騰的鬆餅送達，謝謝老闆🥰\n\n最後，想跟老闆說～ 謝謝老闆做的好吃鬆餅，同事們都吃的很開心，也瘋狂稱讚！（個人也覺得好好吃！！ 螞蟻人的話，大推Oreo巧克力鬆餅～）\n希望有朝一日可以前往店面吃到現場的鬆餅🧇",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "幫同事們訂下午茶，找到這間比利時鬆餅，外送訂餐過程中，老闆都很有耐心的為我們解惑，也會附上照片供參考及欣賞美食。\n\n老闆外送當天還有幫忙注意天氣，怕下午後雷陣雨，提前將熱騰騰的鬆餅送達，謝謝老闆🥰\n\n最後，想跟老闆說～ 謝謝老闆做的好吃鬆餅，同事們都吃的很開心，也瘋狂稱讚！（個人也覺得好好吃！！ 螞蟻人的話，大推Oreo巧克力鬆餅～）\n希望有朝一日可以前往店面吃到現場的鬆餅🧇",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lynn",
+        "uri": "https://www.google.com/maps/contrib/102030874388116484589/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIPTIUiB14TbQczE3OCZzR-WRGWARFuMNKEwltAUHNz3V_zXg=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-05-20T07:15:48.255291Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VLN1h4ZnVOajZqd0hnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VLN1h4ZnVOajZqd0hnEAE!2m1!1s0x3442abc6f4e838ab:0xf1c1789b9bf1b9d4"
+    },
+    {
+      "name": "places/ChIJqzjo9MarQjQR1Lnxm5t4wfE/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3dmJHS0dBEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 3,
+      "text": {
+        "text": "鬆餅+咖啡折5元\n\n大理石巧克力 $70\n口感軟軟的\n跟印象中的比利時鬆餅不太一樣\n個人不愛\n\n拿鐵咖啡 $65\n一般般\n\n可用 街口支付",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "鬆餅+咖啡折5元\n\n大理石巧克力 $70\n口感軟軟的\n跟印象中的比利時鬆餅不太一樣\n個人不愛\n\n拿鐵咖啡 $65\n一般般\n\n可用 街口支付",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "食客EN",
+        "uri": "https://www.google.com/maps/contrib/114372114580533241524/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVNwm9qSBiWjboi4I4iVuqiy1mwJ2vDdQLujBYfgpwfVp4zeus=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-03-26T10:53:38.464081Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3dmJHS0dBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3dmJHS0dBEAE!2m1!1s0x3442abc6f4e838ab:0xf1c1789b9bf1b9d4"
+    },
+    {
+      "name": "places/ChIJqzjo9MarQjQR1Lnxm5t4wfE/reviews/ChZDSUhNMG9nS0VJQ0FnSURKd2FHRFV3EAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "在遠處就聞到店面香氣！\n一直都想品嚐這家的鬆餅🧇\n口味超級多樣‼️\n感覺徹底滿足了附近店家的味蕾，\n店面不大，但門口裝潢算顯眼，\n挑了個沒有出現在架上的口味，\n闆娘也是特別幫我現做，\n還特別送了我杯無糖紅茶（🉑️有糖）❤️\n我挑的是抹茶🫘跟雙重巧克力，\n前者是熱的要稍等烤下，紅豆偏硬，\n抹茶味就還好沒那麼重，\n後者是冷的非常好吃，是比較偏苦又香濃的唷～\n鬆餅口感偏鬆軟，確實還不錯吃👍🏻\n推薦有興趣的朋友可以去吃吃看！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在遠處就聞到店面香氣！\n一直都想品嚐這家的鬆餅🧇\n口味超級多樣‼️\n感覺徹底滿足了附近店家的味蕾，\n店面不大，但門口裝潢算顯眼，\n挑了個沒有出現在架上的口味，\n闆娘也是特別幫我現做，\n還特別送了我杯無糖紅茶（🉑️有糖）❤️\n我挑的是抹茶🫘跟雙重巧克力，\n前者是熱的要稍等烤下，紅豆偏硬，\n抹茶味就還好沒那麼重，\n後者是冷的非常好吃，是比較偏苦又香濃的唷～\n鬆餅口感偏鬆軟，確實還不錯吃👍🏻\n推薦有興趣的朋友可以去吃吃看！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "雨欸",
+        "uri": "https://www.google.com/maps/contrib/103634435692628769640/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVWbzR_VCxdLCCxp_-7yJvldr3VgaCVK8MqX9UwIU03IZi9Ra90=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2023-07-18T11:03:33.685379Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURKd2FHRFV3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURKd2FHRFV3EAE!2m1!1s0x3442abc6f4e838ab:0xf1c1789b9bf1b9d4"
+    },
+    {
+      "name": "places/ChIJqzjo9MarQjQR1Lnxm5t4wfE/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Ga1JHWnZNVFpKTmtwdVoxcFVNR2xuUVRSZldGRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "鬆餅很好吃～用料實在，訂大量的單也親切的確認內容和外送事宜，讓我準時的在活動上端出美食，同事們也讚不絕口🫶",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "鬆餅很好吃～用料實在，訂大量的單也親切的確認內容和外送事宜，讓我準時的在活動上端出美食，同事們也讚不絕口🫶",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chloe Huang",
+        "uri": "https://www.google.com/maps/contrib/101112034523421727628/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLvkgKwR0sBfuKcLDzLvqSDkKg9W1VJYX2wYXxXw7x-TRETRA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-21T07:38:10.915135911Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Ga1JHWnZNVFpKTmtwdVoxcFVNR2xuUVRSZldGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Ga1JHWnZNVFpKTmtwdVoxcFVNR2xuUVRSZldGRRAB!2m1!1s0x3442abc6f4e838ab:0xf1c1789b9bf1b9d4"
+    },
+    {
+      "name": "places/ChIJqzjo9MarQjQR1Lnxm5t4wfE/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xUGJrbzNaMWxpVFZwdk1YWmxjMnhzWTNobmFYYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 1,
+      "text": {
+        "text": "明明寫到20:00⋯⋯到門口有「外出中」紙條，但又沒聯絡電話，這邊的市話沒人接聽⋯⋯已等了快10分鐘也沒回來，都不知道要不要等下去",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "明明寫到20:00⋯⋯到門口有「外出中」紙條，但又沒聯絡電話，這邊的市話沒人接聽⋯⋯已等了快10分鐘也沒回來，都不知道要不要等下去",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃佑熙",
+        "uri": "https://www.google.com/maps/contrib/118067370767592863057/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXv9cCDi9cS5vv1PMIEKn4q-rrvD8eyYQIRIkY_K-0bISCb4GU=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-09-17T09:48:14.971917902Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xUGJrbzNaMWxpVFZwdk1YWmxjMnhzWTNobmFYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xUGJrbzNaMWxpVFZwdk1YWmxjMnhzWTNobmFYYxAB!2m1!1s0x3442abc6f4e838ab:0xf1c1789b9bf1b9d4"
+    }
+  ]
+}

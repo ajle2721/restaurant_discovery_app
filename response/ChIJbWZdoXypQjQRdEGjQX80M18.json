@@ -1,0 +1,133 @@
+{
+  "id": "ChIJbWZdoXypQjQRdEGjQX80M18",
+  "types": [
+    "italian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2395 6767",
+  "formattedAddress": "100台灣臺北市中正區梅花里八德路一段82巷9弄7號",
+  "location": {
+    "latitude": 25.043609,
+    "longitude": 121.53161
+  },
+  "rating": 4,
+  "websiteUri": "https://iampasta.com.tw/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 2447,
+  "displayName": {
+    "text": "I'M PASTA 光華店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJbWZdoXypQjQRdEGjQX80M18/reviews/Ci9DQUlRQUNvZENodHljRjlvT25neFUwc3hkMWR5UjBwRlYwZExNVEp0T0ZCZlJsRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "義式花椰菜很好吃 連不吃花椰菜的男友吃了兩個還想再吃\n\n義大利麵也還不錯 雖然會辣但也沒有很辣\n\n玉米濃湯是罐頭煮的\n\n餐包還蠻好吃\n\n焗烤普普",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "義式花椰菜很好吃 連不吃花椰菜的男友吃了兩個還想再吃\n\n義大利麵也還不錯 雖然會辣但也沒有很辣\n\n玉米濃湯是罐頭煮的\n\n餐包還蠻好吃\n\n焗烤普普",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Inès WU",
+        "uri": "https://www.google.com/maps/contrib/112965085511413413340/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWvutdGj795MC2YUjdwnU-Ar1bg0aTHmyD8LNx5XAB7PeM9Qgdc=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-03-09T03:33:56.976020565Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25neFUwc3hkMWR5UjBwRlYwZExNVEp0T0ZCZlJsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25neFUwc3hkMWR5UjBwRlYwZExNVEp0T0ZCZlJsRRAB!2m1!1s0x3442a97ca15d666d:0x5f33347f41a34174"
+    },
+    {
+      "name": "places/ChIJbWZdoXypQjQRdEGjQX80M18/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wZlltWmpSelF4WHpZNWVISTBjVFpLZVU1WlJFRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點對的起價格，很好吃\n\n在光華商場對面巷子，生意很好\n\n晚來的話一定要排隊，不然就早點去吃。\n\n德式香腸很好吃，裡面爆汁。\n\n餐包也很好吃，奶油和蒜味各一個。只需要加購60元套餐就有飲料、濃湯和兩個餐包。\n\n焗烤建議可以多幾個類別",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點對的起價格，很好吃\n\n在光華商場對面巷子，生意很好\n\n晚來的話一定要排隊，不然就早點去吃。\n\n德式香腸很好吃，裡面爆汁。\n\n餐包也很好吃，奶油和蒜味各一個。只需要加購60元套餐就有飲料、濃湯和兩個餐包。\n\n焗烤建議可以多幾個類別",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "JJ J",
+        "uri": "https://www.google.com/maps/contrib/106923152365060978953/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXIMiO2GlHhhC0HizYO02NJ6wO0kHjnHRsNL_UEkyMyO8eL5QyYPA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-21T13:46:27.799433156Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wZlltWmpSelF4WHpZNWVISTBjVFpLZVU1WlJFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wZlltWmpSelF4WHpZNWVISTBjVFpLZVU1WlJFRRAB!2m1!1s0x3442a97ca15d666d:0x5f33347f41a34174"
+    },
+    {
+      "name": "places/ChIJbWZdoXypQjQRdEGjQX80M18/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWdU5rdFdXbGhaY21sRFNYaDZWa2xwTjFWT1ozYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "燙青菜給一盤滿滿的花椰菜、非常的棒\n青醬的話表現一般般\n焗烤就非常好吃\n麵包的內餡是香蒜，這個非常好吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "燙青菜給一盤滿滿的花椰菜、非常的棒\n青醬的話表現一般般\n焗烤就非常好吃\n麵包的內餡是香蒜，這個非常好吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "小鑫",
+        "uri": "https://www.google.com/maps/contrib/111765501328132030635/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXzWjkxjeLTixLWZe08XfSjMZ4G_3RqH7Dx2xRB1AFDW8KxMEmA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-30T16:53:24.342436387Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWdU5rdFdXbGhaY21sRFNYaDZWa2xwTjFWT1ozYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWdU5rdFdXbGhaY21sRFNYaDZWa2xwTjFWT1ozYxAB!2m1!1s0x3442a97ca15d666d:0x5f33347f41a34174"
+    },
+    {
+      "name": "places/ChIJbWZdoXypQjQRdEGjQX80M18/reviews/Ci9DQUlRQUNvZENodHljRjlvT21rNVpEUnhhbXQxTFdkTVEwRkdaVU5QZFdwU0xYYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "CP值還不錯的義大利麵，我的話建議A套餐 飲料+湯包即可。玉米濃湯我覺得不太好喝，味道偏單一。女友點的白醬蔬菜鮭魚麵還不錯，可以嘗試～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "CP值還不錯的義大利麵，我的話建議A套餐 飲料+湯包即可。玉米濃湯我覺得不太好喝，味道偏單一。女友點的白醬蔬菜鮭魚麵還不錯，可以嘗試～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "TYLIN",
+        "uri": "https://www.google.com/maps/contrib/107273082890365413889/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW8KMa5uxu6FVjB038bJkcqMdrgctRlMmpGBI5_tdlAlSzAL4E=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-09T00:19:23.002215511Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21rNVpEUnhhbXQxTFdkTVEwRkdaVU5QZFdwU0xYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21rNVpEUnhhbXQxTFdkTVEwRkdaVU5QZFdwU0xYYxAB!2m1!1s0x3442a97ca15d666d:0x5f33347f41a34174"
+    },
+    {
+      "name": "places/ChIJbWZdoXypQjQRdEGjQX80M18/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sQ2VXOTZVREZRU0RscVNEWjJSV0pJZW5GMlNWRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "焗烤好吃，是一般外面焗烤的大小，份量很剛好，帶骨香腸很好吃，很多汁，鮮榨檸檬紅茶也很好喝",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "焗烤好吃，是一般外面焗烤的大小，份量很剛好，帶骨香腸很好吃，很多汁，鮮榨檸檬紅茶也很好喝",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "郢",
+        "uri": "https://www.google.com/maps/contrib/114809092828626348728/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWsjcU9PWHMIaH33p84iiglZqra5272fa67C0fjcPPiClmXP4XXpw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-03-01T18:11:17.436370901Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sQ2VXOTZVREZRU0RscVNEWjJSV0pJZW5GMlNWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sQ2VXOTZVREZRU0RscVNEWjJSV0pJZW5GMlNWRRAB!2m1!1s0x3442a97ca15d666d:0x5f33347f41a34174"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

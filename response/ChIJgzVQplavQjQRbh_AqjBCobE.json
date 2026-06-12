@@ -1,0 +1,131 @@
+{
+  "id": "ChIJgzVQplavQjQRbh_AqjBCobE",
+  "types": [
+    "brunch_restaurant",
+    "breakfast_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 910 368 490",
+  "formattedAddress": "112台灣臺北市北投區清江里大興街84號",
+  "location": {
+    "latitude": 25.130712799999998,
+    "longitude": 121.5023691
+  },
+  "rating": 4.5,
+  "userRatingCount": 47,
+  "displayName": {
+    "text": "締佳早餐坊",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJgzVQplavQjQRbh_AqjBCobE/reviews/Ci9DQUlRQUNvZENodHljRjlvT21obFUxTndaWEpZZEZkNFlWazBXV05ZWDNoeFdtYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "很多年沒有喝到這麼正宗的早餐店奶茶了～是記憶中的味道❤️\n\n蔬菜蛋餅加了蘋果別有巧思，但蘿蔔糕口感稍嫌軟爛一點。\n\n值得一提，通常去早餐店會礙於空間和通風問題，出來滿身油煙味導致我很怕在傳統早餐店內用；但這間開放式很通風，今天內用完沒有明顯油煙味，這點很讚！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很多年沒有喝到這麼正宗的早餐店奶茶了～是記憶中的味道❤️\n\n蔬菜蛋餅加了蘋果別有巧思，但蘿蔔糕口感稍嫌軟爛一點。\n\n值得一提，通常去早餐店會礙於空間和通風問題，出來滿身油煙味導致我很怕在傳統早餐店內用；但這間開放式很通風，今天內用完沒有明顯油煙味，這點很讚！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "bena chen",
+        "uri": "https://www.google.com/maps/contrib/112734829950368116794/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLQ5EtFMng6gqKf1dMbccpA0aeIdPlLW4RONQ7a9euIKm87Zw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-13T04:53:43.470034327Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21obFUxTndaWEpZZEZkNFlWazBXV05ZWDNoeFdtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21obFUxTndaWEpZZEZkNFlWazBXV05ZWDNoeFdtYxAB!2m1!1s0x3442af56a6503583:0xb1a14230aac01f6e"
+    },
+    {
+      "name": "places/ChIJgzVQplavQjQRbh_AqjBCobE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNfemN5LVR3EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "每次來至少吃兩個蛋餅😋\n今天第一次點了蔬菜蛋餅，發現裡面包含青菜、蘋果跟蕃茄，口感豐富又營養！而且他們家的辣油很好吃，不是辣豆瓣的死鹹，適合加一點點就很夠味囉！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "每次來至少吃兩個蛋餅😋\n今天第一次點了蔬菜蛋餅，發現裡面包含青菜、蘋果跟蕃茄，口感豐富又營養！而且他們家的辣油很好吃，不是辣豆瓣的死鹹，適合加一點點就很夠味囉！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "ABLIN",
+        "uri": "https://www.google.com/maps/contrib/113647200659324019585/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW2b_RZGD_TXWItoG_P-JBfb5WfvkM5IvuU3N7ZWc0pg5VYbHO7=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-01-18T03:32:28.350119Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNfemN5LVR3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNfemN5LVR3EAE!2m1!1s0x3442af56a6503583:0xb1a14230aac01f6e"
+    },
+    {
+      "name": "places/ChIJgzVQplavQjQRbh_AqjBCobE/reviews/ChdDSUhNMG9nS0VJQ0FnSURoLU1DM2tRRRAB",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 5,
+      "text": {
+        "text": "總匯三明治烤得好酥味道超好吃，蘿蔔糕也好吃，老闆娘很和藹可親，對於一個早餐控的我，這樣的早餐店cp值比連鎖還要高出非常的多，非常推薦唷🥰",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "總匯三明治烤得好酥味道超好吃，蘿蔔糕也好吃，老闆娘很和藹可親，對於一個早餐控的我，這樣的早餐店cp值比連鎖還要高出非常的多，非常推薦唷🥰",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lyde樣（Lyde）",
+        "uri": "https://www.google.com/maps/contrib/115898220907716300657/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ_bBKvgzVwsdMn5pHsRsNX3j2cqdXlWisGPqFtKKpdvUiykHA=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2023-03-01T05:45:16.186412Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURoLU1DM2tRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURoLU1DM2tRRRAB!2m1!1s0x3442af56a6503583:0xb1a14230aac01f6e"
+    },
+    {
+      "name": "places/ChIJgzVQplavQjQRbh_AqjBCobE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0UVRVUkRaMngzTjBwQk5UbHNWM2QyTjJ4RGRtYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "東西好吃美味，服務溫暖親切，價格實惠",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "東西好吃美味，服務溫暖親切，價格實惠",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "楊阿水",
+        "uri": "https://www.google.com/maps/contrib/100296293737785719281/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLPYywOaw1SnTtrhGPvwGyqFZflwMrqEUH12M99FlDv9VHv_Q=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-03T15:25:14.416343534Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0UVRVUkRaMngzTjBwQk5UbHNWM2QyTjJ4RGRtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0UVRVUkRaMngzTjBwQk5UbHNWM2QyTjJ4RGRtYxAB!2m1!1s0x3442af56a6503583:0xb1a14230aac01f6e"
+    },
+    {
+      "name": "places/ChIJgzVQplavQjQRbh_AqjBCobE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUeS1MY1d3EAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "蛋餅和蘿蔔糕很好吃，蔬菜蛋餅裡面有蘋果，很讚",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "蛋餅和蘿蔔糕很好吃，蔬菜蛋餅裡面有蘋果，很讚",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Han Han",
+        "uri": "https://www.google.com/maps/contrib/108534294029506949880/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJIhzwI6na6LGhSfZsRlM7xXHAnGiNSNFeRecMfr0Po7zOElw=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2024-05-19T05:50:36.975340Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNUeS1MY1d3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNUeS1MY1d3EAE!2m1!1s0x3442af56a6503583:0xb1a14230aac01f6e"
+    }
+  ],
+  "goodForChildren": true
+}

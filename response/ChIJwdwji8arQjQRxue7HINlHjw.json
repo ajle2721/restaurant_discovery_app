@@ -1,0 +1,134 @@
+{
+  "id": "ChIJwdwji8arQjQRxue7HINlHjw",
+  "types": [
+    "food_store",
+    "italian_restaurant",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2731 8658",
+  "formattedAddress": "106台灣臺北市大安區華聲里延吉街137巷30號之3",
+  "location": {
+    "latitude": 25.0418977,
+    "longitude": 121.55544889999999
+  },
+  "rating": 4.2,
+  "websiteUri": "https://www.instagram.com/streetpasta_2008/profilecard/?igsh=MXY3bnE1aWJtNGc5Zg==",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 202,
+  "displayName": {
+    "text": "Street Pasta街頭義大利麵",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJwdwji8arQjQRxue7HINlHjw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CRk1FUmZTRTR3WVRoU2MwbFRiSFU1ZVRaT1JWRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "第一次點蕃茄肉醬麵 味道濃香 ..跟我以前吃的肉燥不一樣 ..比較油吱吱 😅 我比較喜歡吃瘦一點的 個人問題🤣、第二次點蕃茄野菇.味道夠香 有入味唷😊⋯⋯下次來挑戰青醬",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次點蕃茄肉醬麵 味道濃香 ..跟我以前吃的肉燥不一樣 ..比較油吱吱 😅 我比較喜歡吃瘦一點的 個人問題🤣、第二次點蕃茄野菇.味道夠香 有入味唷😊⋯⋯下次來挑戰青醬",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "淑真林",
+        "uri": "https://www.google.com/maps/contrib/112735159568253938433/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVND0aqk_kb1tS5ZB2Xm4nRvH6nzSECGzYHjMSDwo5DGmSZsHmKdg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-13T06:29:24.865411664Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CRk1FUmZTRTR3WVRoU2MwbFRiSFU1ZVRaT1JWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CRk1FUmZTRTR3WVRoU2MwbFRiSFU1ZVRaT1JWRRAB!2m1!1s0x3442abc68b23dcc1:0x3c1e65831cbbe7c6"
+    },
+    {
+      "name": "places/ChIJwdwji8arQjQRxue7HINlHjw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SNGQzQmxUVVJqVEdnNVUwSlZTVWxHWTNwRVltYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "加購$95吃超級飽\n有沙拉&湯&飲料&烤花生麵包\n湯是我最愛的洋蔥湯\n義大利麵好吃\n收汁跟炒麵的火候技術很棒\n生意超好\n店面不大\n喝水自助\n離市政府捷運站一號出口超級近",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "加購$95吃超級飽\n有沙拉&湯&飲料&烤花生麵包\n湯是我最愛的洋蔥湯\n義大利麵好吃\n收汁跟炒麵的火候技術很棒\n生意超好\n店面不大\n喝水自助\n離市政府捷運站一號出口超級近",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Betty",
+        "uri": "https://www.google.com/maps/contrib/100068249631296610905/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWaiOh_nB1ytAhilcBqfGa2CxgZ_QHw5YuiBFtZvIxnvcyG3rav2g=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-17T20:49:45.326320600Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SNGQzQmxUVVJqVEdnNVUwSlZTVWxHWTNwRVltYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SNGQzQmxUVVJqVEdnNVUwSlZTVWxHWTNwRVltYxAB!2m1!1s0x3442abc68b23dcc1:0x3c1e65831cbbe7c6"
+    },
+    {
+      "name": "places/ChIJwdwji8arQjQRxue7HINlHjw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25WaWMxOXpWRFJCWldGSFpVeExVVzR6T1MxUE9WRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "好吃，已回訪2次，這次加了20元的麵結果多到吃不完⋯\n美中不足是我點小辣，但送來的完全沒加辣🥲少了辣味的鹹香感\n(窗外風景是AI生成😀)",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "好吃，已回訪2次，這次加了20元的麵結果多到吃不完⋯\n美中不足是我點小辣，但送來的完全沒加辣🥲少了辣味的鹹香感\n(窗外風景是AI生成😀)",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "L C",
+        "uri": "https://www.google.com/maps/contrib/113373136180068528100/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXcIPOuoUgi5-RsF5Ld6P6BziFFvTXt8HVzXuJkxPrEOTMsrAyW=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-18T18:06:44.634551290Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25WaWMxOXpWRFJCWldGSFpVeExVVzR6T1MxUE9WRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25WaWMxOXpWRFJCWldGSFpVeExVVzR6T1MxUE9WRRAB!2m1!1s0x3442abc68b23dcc1:0x3c1e65831cbbe7c6"
+    },
+    {
+      "name": "places/ChIJwdwji8arQjQRxue7HINlHjw/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnb3QtV2hRRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "2025/1月週五晚上18：00前來，內用位子不多，面壁吧台位8位+面對窗戶兩位，加一個高腳椅二人桌，用餐環境氣氛不錯，放著音樂，廚房就在旁邊，炒菜時能聞到淡淡香味，結帳時在老闆身上也能聞到淡淡煙味，且廚房就在路邊開放式，太介意廚房衛生不推薦來。看鹽罐上印的2008開始不知道真假。\n麵可以加的套餐，點了之後很快會先上。\n60元套餐：有每日濃湯與沙拉\n沙拉：ice Berg+切塊紅蘿蔔+紫高麗菜+像麥當勞的白醬，整個味道真的非常的像速食店的沙拉，雖然夠冰但說不上新鮮，不推薦。\n濃湯：有玉米粒的奶油濃湯，上來很燙溫度優秀，但不但偏稀而且有一股外面濃湯從來沒喝過的香味，與其說是奶香味已經接近香水味，如果閉著眼睛會以為在聞香薰，讓我想了很久有什麼義式香料會是這個味道，不推薦。\n然而，沙拉的碗是冰的，湯的杯子有保溫材質，即時放很久都是熱的，可以看出店家有注重小細節。\n接下來等大約10分鐘上麵，麵現炒熱騰騰的，溫度令人非常滿意，冬天吃有幸福感。加辣是直接小辣椒一起進去炒，辣的很爽。\n本次點了這家店稍微算高級的品項：\n豆漿蔬菜雞肉麵$220：小辣，首先第一口也是有濃湯同款微微的香水味，但因為麵本身調味比較重口所以可以忽略。麵本身份量算大，調味接近豆乳雞，食材就是最簡單的雞肉香菇花椰菜但好吃，與一般的白醬相比奶味比較不重，有點豆香味。\n香辣小豬義大利麵$200 ：小辣，蒜香口味，豬排就是類似早餐店蛋餅那種薄的豬排，配料一樣洋蔥花椰菜，一些切碎的大蒜，上面灑上一些起司粉，不會太重口但有味道，推薦。\n\n整體而言，麵本身確實和其他評論所說的，將均價200以內的平價義大利麵硬生生的炒出了更貴一個檔次的味道，受限於這個價格能提供的食材品質有限，但醬汁本身味道比一般平價的稍微好一些，而且沒有平價義大利麵常見的油耗味或是食材的腥味，加上恰當的火候，在同價位義大利麵中確實是中上水準，建議就點麵不要點套餐，考慮到路近的物價，如果預算不多是很好的選擇。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2025/1月週五晚上18：00前來，內用位子不多，面壁吧台位8位+面對窗戶兩位，加一個高腳椅二人桌，用餐環境氣氛不錯，放著音樂，廚房就在旁邊，炒菜時能聞到淡淡香味，結帳時在老闆身上也能聞到淡淡煙味，且廚房就在路邊開放式，太介意廚房衛生不推薦來。看鹽罐上印的2008開始不知道真假。\n麵可以加的套餐，點了之後很快會先上。\n60元套餐：有每日濃湯與沙拉\n沙拉：ice Berg+切塊紅蘿蔔+紫高麗菜+像麥當勞的白醬，整個味道真的非常的像速食店的沙拉，雖然夠冰但說不上新鮮，不推薦。\n濃湯：有玉米粒的奶油濃湯，上來很燙溫度優秀，但不但偏稀而且有一股外面濃湯從來沒喝過的香味，與其說是奶香味已經接近香水味，如果閉著眼睛會以為在聞香薰，讓我想了很久有什麼義式香料會是這個味道，不推薦。\n然而，沙拉的碗是冰的，湯的杯子有保溫材質，即時放很久都是熱的，可以看出店家有注重小細節。\n接下來等大約10分鐘上麵，麵現炒熱騰騰的，溫度令人非常滿意，冬天吃有幸福感。加辣是直接小辣椒一起進去炒，辣的很爽。\n本次點了這家店稍微算高級的品項：\n豆漿蔬菜雞肉麵$220：小辣，首先第一口也是有濃湯同款微微的香水味，但因為麵本身調味比較重口所以可以忽略。麵本身份量算大，調味接近豆乳雞，食材就是最簡單的雞肉香菇花椰菜但好吃，與一般的白醬相比奶味比較不重，有點豆香味。\n香辣小豬義大利麵$200 ：小辣，蒜香口味，豬排就是類似早餐店蛋餅那種薄的豬排，配料一樣洋蔥花椰菜，一些切碎的大蒜，上面灑上一些起司粉，不會太重口但有味道，推薦。\n\n整體而言，麵本身確實和其他評論所說的，將均價200以內的平價義大利麵硬生生的炒出了更貴一個檔次的味道，受限於這個價格能提供的食材品質有限，但醬汁本身味道比一般平價的稍微好一些，而且沒有平價義大利麵常見的油耗味或是食材的腥味，加上恰當的火候，在同價位義大利麵中確實是中上水準，建議就點麵不要點套餐，考慮到路近的物價，如果預算不多是很好的選擇。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yen-Po Chang",
+        "uri": "https://www.google.com/maps/contrib/114293399310203365279/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVU0L4APLa1rj5fkdkeUDxw8Ufp3rDsqSsOEraRcZrWhAFzWiA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-02-15T11:16:20.463376Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnb3QtV2hRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnb3QtV2hRRRAB!2m1!1s0x3442abc68b23dcc1:0x3c1e65831cbbe7c6"
+    },
+    {
+      "name": "places/ChIJwdwji8arQjQRxue7HINlHjw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSa1ZFOXpaWGRRUmxkNlFWSlZkeTFGV25CQ05IYxAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 3,
+      "text": {
+        "text": "之前吃過好幾次乾炒雞肉義大利麵外帶都很正常，收汁乾淨，炒料也都很香，但今天購買同樣品項，回去打開要吃發現整碗麵都泡在湯裡？？完全變湯麵了，麵都泡在湯汁裡，一點也不乾炒，炒料因為泡水也都只有水煮的味道了，不知道是出了什麼問題，讓人不敢再次購買了",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "之前吃過好幾次乾炒雞肉義大利麵外帶都很正常，收汁乾淨，炒料也都很香，但今天購買同樣品項，回去打開要吃發現整碗麵都泡在湯裡？？完全變湯麵了，麵都泡在湯汁裡，一點也不乾炒，炒料因為泡水也都只有水煮的味道了，不知道是出了什麼問題，讓人不敢再次購買了",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jennifer Su",
+        "uri": "https://www.google.com/maps/contrib/118244024342553715166/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJtBVg3XTf4C2JGyxWktMSY2lnVIT7duEhYBYHq49i9lqTAbg=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-07-30T04:50:01.417403668Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSa1ZFOXpaWGRRUmxkNlFWSlZkeTFGV25CQ05IYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSa1ZFOXpaWGRRUmxkNlFWSlZkeTFGV25CQ05IYxAB!2m1!1s0x3442abc68b23dcc1:0x3c1e65831cbbe7c6"
+    }
+  ],
+  "menuForChildren": false
+}

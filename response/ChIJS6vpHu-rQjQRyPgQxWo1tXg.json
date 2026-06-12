@@ -1,0 +1,136 @@
+﻿{
+    "id":  "ChIJS6vpHu-rQjQRyPgQxWo1tXg",
+    "types":  [
+                  "coffee_shop",
+                  "brunch_restaurant",
+                  "library",
+                  "cafe",
+                  "food_store",
+                  "service",
+                  "restaurant",
+                  "food",
+                  "store",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2712 2055",
+    "formattedAddress":  "10491台灣臺北市中山區復華里遼寧街134號",
+    "location":  {
+                     "latitude":  25.0535073,
+                     "longitude":  121.54198629999998
+                 },
+    "rating":  4,
+    "websiteUri":  "https://www.facebook.com/LIBRARY134/",
+    "userRatingCount":  785,
+    "displayName":  {
+                        "text":  "CE\u0027 \u0026 LIB-RARY 遼寧店",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJS6vpHu-rQjQRyPgQxWo1tXg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSSGNsQkliWFIwYzBsUExYSTBTbEExWkU1WGIzYxAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "遼寧街上的CE’ \u0026 Lib-early 咖啡很久以前就計畫要來，但都沒有成行，今天剛好有咖啡因需求，隔壁鬧蟬咖啡客滿，所以就來喝看看。\n\n今天天氣很熱喝了冰美式，有些許桃子香氣，整體偏清淡，但是是好喝的。\n\n內部像個圖書館，整體氛圍很好，二樓窗外有綠景，但連結兩區的透明地板，應該會讓懼高症的人心驚膽跳吧🤣。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "遼寧街上的CE’ \u0026 Lib-early 咖啡很久以前就計畫要來，但都沒有成行，今天剛好有咖啡因需求，隔壁鬧蟬咖啡客滿，所以就來喝看看。\n\n今天天氣很熱喝了冰美式，有些許桃子香氣，整體偏清淡，但是是好喝的。\n\n內部像個圖書館，整體氛圍很好，二樓窗外有綠景，但連結兩區的透明地板，應該會讓懼高症的人心驚膽跳吧🤣。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "LEO LIAW",
+                                                  "uri":  "https://www.google.com/maps/contrib/116018695407916913185/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocKB1Ct-038ILvspUFX918Q1Ius45z534n2IkM1Qo8OQwCfENg=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2026-02-23T04:03:02.766427462Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSSGNsQkliWFIwYzBsUExYSTBTbEExWkU1WGIzYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSSGNsQkliWFIwYzBsUExYSTBTbEExWkU1WGIzYxAB!2m1!1s0x3442abef1ee9ab4b:0x78b5356ac510f8c8"
+                    },
+                    {
+                        "name":  "places/ChIJS6vpHu-rQjQRyPgQxWo1tXg/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oNGEyUTRUMncyTXpWT2NIQjRTbG96VUdac0xVRRAB",
+                        "relativePublishTimeDescription":  "6 個月前",
+                        "rating":  3,
+                        "text":  {
+                                     "text":  "南京復興捷運站1號出口附近\n應該是不限時的餐廳\n有可以腳伸直的座位\n部分座位有插座\n\n1~2樓是自由空間座位區\n不能預定\n\n3樓是供6人以上訂位\n但我沒有走上去看\n裡面沒有電梯，只有樓梯\n\n全部採自助式，可線上付款\nQR CODE點餐\n還要註冊很麻煩\n點完餐要記得自己的餐點號碼\n它不是用名字也不是用桌號\n其實蠻麻煩的\n而且餐點做好了沒\n要自己看店內的螢幕顯示\n手機本人不會通知你\n若是同一個人點餐最好一次點完\n不要分開訂\n否則看不到前一張單的號碼\n\n📌低消是一杯飲料\n餐點份量不多，單價算高\n\n早午餐\n✅吐司很喜歡\n沙拉新鮮但內容 \u0026 醬汁很普通\n番茄湯不喜歡❎\n牛排很老❎\n\n咖啡不錯\n\n店內是類圖書館風格，還蠻文青",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "南京復興捷運站1號出口附近\n應該是不限時的餐廳\n有可以腳伸直的座位\n部分座位有插座\n\n1~2樓是自由空間座位區\n不能預定\n\n3樓是供6人以上訂位\n但我沒有走上去看\n裡面沒有電梯，只有樓梯\n\n全部採自助式，可線上付款\nQR CODE點餐\n還要註冊很麻煩\n點完餐要記得自己的餐點號碼\n它不是用名字也不是用桌號\n其實蠻麻煩的\n而且餐點做好了沒\n要自己看店內的螢幕顯示\n手機本人不會通知你\n若是同一個人點餐最好一次點完\n不要分開訂\n否則看不到前一張單的號碼\n\n📌低消是一杯飲料\n餐點份量不多，單價算高\n\n早午餐\n✅吐司很喜歡\n沙拉新鮮但內容 \u0026 醬汁很普通\n番茄湯不喜歡❎\n牛排很老❎\n\n咖啡不錯\n\n店內是類圖書館風格，還蠻文青",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "RUBY晉妤 LIU",
+                                                  "uri":  "https://www.google.com/maps/contrib/109458037094467652070/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXmFFAPyFG8KiRrp1__mf8A_5njquoC5eq2GuMNcfTH4wMfxyE=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-11-10T05:35:49.062321989Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oNGEyUTRUMncyTXpWT2NIQjRTbG96VUdac0xVRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oNGEyUTRUMncyTXpWT2NIQjRTbG96VUdac0xVRRAB!2m1!1s0x3442abef1ee9ab4b:0x78b5356ac510f8c8"
+                    },
+                    {
+                        "name":  "places/ChIJS6vpHu-rQjQRyPgQxWo1tXg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paVU1sbzBPVFZqZEd3MGVFMVZVbVpUWWxkVVdWRRAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "店內看書的氣氛很棒，2、3樓是專門設計給看書跟工作的地方，入場費平日是150元，假日收費是250元，場內有咖啡機跟水可以做飲用，必須先在一樓買完票後，在樓上的樓梯間刷卡進去。\n三樓有些插頭的設計離桌面稍微遠了許多，是放在腳下，比較麻煩。\n咖啡機在晚上7點半的時候就會收掉，蠻可惜的。\n樓上看書的時間可以到9點。\n樓下用餐的區域觀察起來，大部分的插頭都拔掉了，應該是避免工作的人來樓下用餐佔位置☠️。\n\n可以LINE pay付款。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "店內看書的氣氛很棒，2、3樓是專門設計給看書跟工作的地方，入場費平日是150元，假日收費是250元，場內有咖啡機跟水可以做飲用，必須先在一樓買完票後，在樓上的樓梯間刷卡進去。\n三樓有些插頭的設計離桌面稍微遠了許多，是放在腳下，比較麻煩。\n咖啡機在晚上7點半的時候就會收掉，蠻可惜的。\n樓上看書的時間可以到9點。\n樓下用餐的區域觀察起來，大部分的插頭都拔掉了，應該是避免工作的人來樓下用餐佔位置☠️。\n\n可以LINE pay付款。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "辰泗",
+                                                  "uri":  "https://www.google.com/maps/contrib/105487273149089779959/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUrSb2WqSC5jb9a_CgeA_bxprSJDVDRCh5bGIivG5le0-akWv7I=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2026-01-03T11:39:04.923998239Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paVU1sbzBPVFZqZEd3MGVFMVZVbVpUWWxkVVdWRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paVU1sbzBPVFZqZEd3MGVFMVZVbVpUWWxkVVdWRRAB!2m1!1s0x3442abef1ee9ab4b:0x78b5356ac510f8c8"
+                    },
+                    {
+                        "name":  "places/ChIJS6vpHu-rQjQRyPgQxWo1tXg/reviews/Ci9DQUlRQUNvZENodHljRjlvT201SmMwVkNOMUZ1ZGpSd1RYZGhTMkV6VmxseGVYYxAB",
+                        "relativePublishTimeDescription":  "7 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "加分的是空間～ 2樓3樓空間營造得很舒服，但可看出設計功力成功改造了舊式窄透天的缺點，光線及通透感加上面街的採光窗外就是一片綠意，很加分。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "加分的是空間～ 2樓3樓空間營造得很舒服，但可看出設計功力成功改造了舊式窄透天的缺點，光線及通透感加上面街的採光窗外就是一片綠意，很加分。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Sunny Kao",
+                                                  "uri":  "https://www.google.com/maps/contrib/100456134574865051325/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXYyUSc8ZsoJMVuZA0EnXvBrSj-GOTxJ9BqPagEpl02plVcmYcm7Q=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-09-29T04:53:44.559733459Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201SmMwVkNOMUZ1ZGpSd1RYZGhTMkV6VmxseGVYYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201SmMwVkNOMUZ1ZGpSd1RYZGhTMkV6VmxseGVYYxAB!2m1!1s0x3442abef1ee9ab4b:0x78b5356ac510f8c8"
+                    },
+                    {
+                        "name":  "places/ChIJS6vpHu-rQjQRyPgQxWo1tXg/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KM1lWRlhkbHBJYXpSbllpMXZWR3hTV213MWNIYxAB",
+                        "relativePublishTimeDescription":  "11 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "咖啡廳裏有圖書不稀奇，但圖書館咖啡廳卻少見，對畢業於圓書舘系的我，很有吸引力。\n位置很棒，不在大街上，在遼寧公園的旁邊，所以靜謐幽雅都有了，舘內一樓是廚房櫃檯與少量座位，二、三樓則是「圖書館」與咖啡座，圖書是排列在依牆大書架上，有個百千本書，二、三樓東面都是玻璃大窗，看出去是公園綠樹，很雅！\n書架上的書是些什麼書？幾乎完全沒看清楚，最主要是室內光線昏暗，雖設計原意是形式浪漫，製造一個書香咖啡舘的氣氛，事實上，我坐在那1個多小時，沒看到有人到書架拿書，都是在小桌上滑自己的手機或NB，倒是小桌設計是可擴張桌面的桌子，這一點算是為某些客人\n設想週到。\n三樓好像可作集會場所，在這𥚃開「讀書會」應該是最佳埸地。\n這家餐點算是OK，點了燻鮭魚可頌=235元+拿鐵= 150元= 385元\n這家餐廳的客人不算少，但服務仍值得商榷，點餐到拿餐到吃完回收，全部自己來，雖未收服務費，但餐飲業是服務業，服務是餐廳的基本元素。\n這家餐廳點在1樓，雅座在2、3樓，客人進來必定是先找座，但需爬上2、3樓找到位子，再下樓來點餐，點完餐又要回2樓坐下，才知道開水、餐具是自己拿，又得起身去拿開水餐具，吃完又得自行送回收櫃，更大的問題是餐點出來時，雖有電視顯示器顯示桌號，但我在點餐時並沒有告訴我，只告訴我要自已下來拿餐，試問一杯咖啡、一盤可頌西點或是更多，放在托盤由1樓托到2樓，這對我們老誒來說，不是很容易啊！而且還有危險，所以「服務」這項僅給2⭐️，事實上也沒什麼服務啊！\n2樓回收櫃腳下是安全透明玻璃，可看到樓下，像旅遊景點玻璃橋，這個設計滿特別的，不過，不注意也就沒看到。\n氣氛僅給3⭐️是因爲咖啡座靠得太近，像學校的課桌椅排列，一旁走道幾乎是要側身過，而且有一雙以上客人聊天，盡管已壓低音量，還是有干擾！",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "咖啡廳裏有圖書不稀奇，但圖書館咖啡廳卻少見，對畢業於圓書舘系的我，很有吸引力。\n位置很棒，不在大街上，在遼寧公園的旁邊，所以靜謐幽雅都有了，舘內一樓是廚房櫃檯與少量座位，二、三樓則是「圖書館」與咖啡座，圖書是排列在依牆大書架上，有個百千本書，二、三樓東面都是玻璃大窗，看出去是公園綠樹，很雅！\n書架上的書是些什麼書？幾乎完全沒看清楚，最主要是室內光線昏暗，雖設計原意是形式浪漫，製造一個書香咖啡舘的氣氛，事實上，我坐在那1個多小時，沒看到有人到書架拿書，都是在小桌上滑自己的手機或NB，倒是小桌設計是可擴張桌面的桌子，這一點算是為某些客人\n設想週到。\n三樓好像可作集會場所，在這𥚃開「讀書會」應該是最佳埸地。\n這家餐點算是OK，點了燻鮭魚可頌=235元+拿鐵= 150元= 385元\n這家餐廳的客人不算少，但服務仍值得商榷，點餐到拿餐到吃完回收，全部自己來，雖未收服務費，但餐飲業是服務業，服務是餐廳的基本元素。\n這家餐廳點在1樓，雅座在2、3樓，客人進來必定是先找座，但需爬上2、3樓找到位子，再下樓來點餐，點完餐又要回2樓坐下，才知道開水、餐具是自己拿，又得起身去拿開水餐具，吃完又得自行送回收櫃，更大的問題是餐點出來時，雖有電視顯示器顯示桌號，但我在點餐時並沒有告訴我，只告訴我要自已下來拿餐，試問一杯咖啡、一盤可頌西點或是更多，放在托盤由1樓托到2樓，這對我們老誒來說，不是很容易啊！而且還有危險，所以「服務」這項僅給2⭐️，事實上也沒什麼服務啊！\n2樓回收櫃腳下是安全透明玻璃，可看到樓下，像旅遊景點玻璃橋，這個設計滿特別的，不過，不注意也就沒看到。\n氣氛僅給3⭐️是因爲咖啡座靠得太近，像學校的課桌椅排列，一旁走道幾乎是要側身過，而且有一雙以上客人聊天，盡管已壓低音量，還是有干擾！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "KING (第10級在地嚮導)",
+                                                  "uri":  "https://www.google.com/maps/contrib/109750155652914128045/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocKtnNaC96pwKQ4ttcOAEx_lXrfkHJAzM2jYWMeiMxH_m3evWw=s128-c0x00000000-cc-rp-mo-ba8"
+                                              },
+                        "publishTime":  "2025-06-23T08:12:59.002969435Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KM1lWRlhkbHBJYXpSbllpMXZWR3hTV213MWNIYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KM1lWRlhkbHBJYXpSbllpMXZWR3hTV213MWNIYxAB!2m1!1s0x3442abef1ee9ab4b:0x78b5356ac510f8c8"
+                    }
+                ]
+}

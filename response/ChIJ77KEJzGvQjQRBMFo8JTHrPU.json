@@ -1,0 +1,132 @@
+{
+  "id": "ChIJ77KEJzGvQjQRBMFo8JTHrPU",
+  "types": [
+    "restaurant",
+    "food_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2834 2720",
+  "formattedAddress": "111台灣臺北市士林區福志里中正路124號",
+  "location": {
+    "latitude": 25.096068,
+    "longitude": 121.5284158
+  },
+  "rating": 4.3,
+  "websiteUri": "https://komeda.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 699,
+  "displayName": {
+    "text": "客美多咖啡 Komeda‘s Coffee - 士林店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ77KEJzGvQjQRBMFo8JTHrPU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aWFYwbG9TSEpPUjFWUGVWOVhWMnh6WTNWbVkxRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 1,
+      "text": {
+        "text": "比較晚進店內用的客人餐都已經送完，\n點外帶才快要到我的單？\n想請問有內用會先出餐的規則？\n烤土司還是焦的！！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "比較晚進店內用的客人餐都已經送完，\n點外帶才快要到我的單？\n想請問有內用會先出餐的規則？\n烤土司還是焦的！！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "meng-shiue Wu",
+        "uri": "https://www.google.com/maps/contrib/114264663213692597230/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXovVKYyI-bN_11odEpg_2yYmU67NGoa2sM77G_uTvQVJBkqm8I=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-01T03:46:43.292234692Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aWFYwbG9TSEpPUjFWUGVWOVhWMnh6WTNWbVkxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aWFYwbG9TSEpPUjFWUGVWOVhWMnh6WTNWbVkxRRAB!2m1!1s0x3442af312784b2ef:0xf5acc794f068c104"
+    },
+    {
+      "name": "places/ChIJ77KEJzGvQjQRBMFo8JTHrPU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWR1ZXRjZOUzB4V1dkaFlVeE9VRWhxU1V0TlFXYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "吐司好好吃，價格合理。環境舒適、乾淨，\n裝潢很復古昭和風，讓人放鬆🇯🇵\n熱咖啡歐蕾，順口好喝，不苦澀；冰奶茶就不特別推薦，太稀了😅\n·\n服務態度親切，很有禮貌😀\n掃描QR code點餐，餐後到櫃台結帳💰",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "吐司好好吃，價格合理。環境舒適、乾淨，\n裝潢很復古昭和風，讓人放鬆🇯🇵\n熱咖啡歐蕾，順口好喝，不苦澀；冰奶茶就不特別推薦，太稀了😅\n·\n服務態度親切，很有禮貌😀\n掃描QR code點餐，餐後到櫃台結帳💰",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Andrea",
+        "uri": "https://www.google.com/maps/contrib/104888622858273147687/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXYS0parhaTAWVpmVdDk6BmQWu1_--TNzNP3WCenWkaPyp9zeWbWg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-08-23T08:22:17.706311454Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWR1ZXRjZOUzB4V1dkaFlVeE9VRWhxU1V0TlFXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWR1ZXRjZOUzB4V1dkaFlVeE9VRWhxU1V0TlFXYxAB!2m1!1s0x3442af312784b2ef:0xf5acc794f068c104"
+    },
+    {
+      "name": "places/ChIJ77KEJzGvQjQRBMFo8JTHrPU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkaGVEWlBaRkJYVTFoRE4zcGljMFJMZW1oS2IyYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 3,
+      "text": {
+        "text": "內用雞蛋沙拉潛艇堡和味增豬排方堡。\n\n雞蛋沙拉潛艇堡的麵包體鬆厚，雞蛋沙拉口味普通，整體來說普通。\n\n味增豬排方堡麵包體鬆厚，豬排蠻厚的，口感還不錯，有點筋，中間夾的生菜絲好吃，整體來說還不錯。\n\n兩人坐的位子有點擠。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "內用雞蛋沙拉潛艇堡和味增豬排方堡。\n\n雞蛋沙拉潛艇堡的麵包體鬆厚，雞蛋沙拉口味普通，整體來說普通。\n\n味增豬排方堡麵包體鬆厚，豬排蠻厚的，口感還不錯，有點筋，中間夾的生菜絲好吃，整體來說還不錯。\n\n兩人坐的位子有點擠。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chien-Yu Chao",
+        "uri": "https://www.google.com/maps/contrib/103184852020588905388/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIK78YlhKWNDsAgzdRevCBp-V-H1uUKjKGt1At8edOYlAtthBA5A=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-12T06:56:18.557045119Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkaGVEWlBaRkJYVTFoRE4zcGljMFJMZW1oS2IyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkaGVEWlBaRkJYVTFoRE4zcGljMFJMZW1oS2IyYxAB!2m1!1s0x3442af312784b2ef:0xf5acc794f068c104"
+    },
+    {
+      "name": "places/ChIJ77KEJzGvQjQRBMFo8JTHrPU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKT1MzRlVTemhqVVRWUGRFOTBVREpqY1VWV2VFRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "咖啡很好喝，輕食也舒爽！座位也舒服",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "咖啡很好喝，輕食也舒爽！座位也舒服",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "USR FCU",
+        "uri": "https://www.google.com/maps/contrib/116095172426982039168/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX8SeDEOFEkdo3wiIWeyx7P6Ir8uR_hIw3EVfxOrWJZ-qV84Rdg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-20T03:33:34.145641687Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKT1MzRlVTemhqVVRWUGRFOTBVREpqY1VWV2VFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKT1MzRlVTemhqVVRWUGRFOTBVREpqY1VWV2VFRRAB!2m1!1s0x3442af312784b2ef:0xf5acc794f068c104"
+    },
+    {
+      "name": "places/ChIJ77KEJzGvQjQRBMFo8JTHrPU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xodlNsOVllV3BtZERaSFVHY3laM0ZoTFRkSFVtYxAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 4,
+      "text": {
+        "text": "烤土司上面刷奶油，再配上紅豆泥還蠻好吃的；座位設計的很有隱私，個人覺得還不錯。雖然我沒受到影響，但感覺廚房跟出餐口有些混亂，觀感上稍稍不太好。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "烤土司上面刷奶油，再配上紅豆泥還蠻好吃的；座位設計的很有隱私，個人覺得還不錯。雖然我沒受到影響，但感覺廚房跟出餐口有些混亂，觀感上稍稍不太好。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "TSH Y",
+        "uri": "https://www.google.com/maps/contrib/104559164307702004710/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWMqYb3b3Gq5_8x-3BEWc4uC_R8zcP3YletMvENGG83AuKw4Ik=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-06-15T04:20:04.996141327Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xodlNsOVllV3BtZERaSFVHY3laM0ZoTFRkSFVtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xodlNsOVllV3BtZERaSFVHY3laM0ZoTFRkSFVtYxAB!2m1!1s0x3442af312784b2ef:0xf5acc794f068c104"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "id": "ChIJgV9nKrWtQjQRSJnLTjDC7eU",
+  "types": [
+    "brunch_restaurant",
+    "breakfast_restaurant",
+    "meal_delivery",
+    "food_delivery",
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2627 0986",
+  "formattedAddress": "114台灣臺北市內湖區港富里內湖路一段737巷51弄22號",
+  "location": {
+    "latitude": 25.0803799,
+    "longitude": 121.580112
+  },
+  "rating": 4.4,
+  "websiteUri": "http://facebook.com/light09866",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 577,
+  "displayName": {
+    "text": "美好拾光cafe&brunch",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJgV9nKrWtQjQRSJnLTjDC7eU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wbFVrMDVWSGxXVW01d1VtMUNUbFl3T1dsSWVuYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "📍內湖國小對面，737巷早午餐\n莊園美式 × 盲盒厚片 × 皮蛋肉鬆蛋捲餅｜療癒系三品早午餐組合\n☕ 莊園美式咖啡\n單一莊園豆，中深焙。尾韻帶堅果焦糖甜感。不加糖也順口，\n🍞 盲盒四格厚片\n花生、草莓果醬、香蒜抹醬、奶酥甜鹹交錯、色彩分明。每一格都是驚喜。\n🥚 皮蛋肉鬆起司蛋捲餅\n台式靈魂食材融合起司蛋香，酥脆可口，鹹香濃郁卻不膩。搭配一點東泉辣椒醬，層次更豐富。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "📍內湖國小對面，737巷早午餐\n莊園美式 × 盲盒厚片 × 皮蛋肉鬆蛋捲餅｜療癒系三品早午餐組合\n☕ 莊園美式咖啡\n單一莊園豆，中深焙。尾韻帶堅果焦糖甜感。不加糖也順口，\n🍞 盲盒四格厚片\n花生、草莓果醬、香蒜抹醬、奶酥甜鹹交錯、色彩分明。每一格都是驚喜。\n🥚 皮蛋肉鬆起司蛋捲餅\n台式靈魂食材融合起司蛋香，酥脆可口，鹹香濃郁卻不膩。搭配一點東泉辣椒醬，層次更豐富。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "christine chang",
+        "uri": "https://www.google.com/maps/contrib/112964841365131311306/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW4Z8q_22m04-GfQdclusKetRq4qRB65PV2M10S_ydkiQJ8rcE=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-19T07:57:15.292690422Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wbFVrMDVWSGxXVW01d1VtMUNUbFl3T1dsSWVuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wbFVrMDVWSGxXVW01d1VtMUNUbFl3T1dsSWVuYxAB!2m1!1s0x3442adb52a675f81:0xe5edc2304ecb9948"
+    },
+    {
+      "name": "places/ChIJgV9nKrWtQjQRSJnLTjDC7eU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pNdExVeFlNMmhETXpBeE5IWnRkMEpLZW1SYVprRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "好吃、偏貴。線上點餐系統太難用了！！！第一張單自取 購物車就加了兩次，第二張單加五六次都會消失，最後用別人手機才完成下單😠",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "好吃、偏貴。線上點餐系統太難用了！！！第一張單自取 購物車就加了兩次，第二張單加五六次都會消失，最後用別人手機才完成下單😠",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "zz",
+        "uri": "https://www.google.com/maps/contrib/106682297160975094130/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUyS7oDsc0VK-_hSHsvvZesiOJg37f7z1Shc9P1TiYS39P9eSM4=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-03-09T09:12:09.167197591Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pNdExVeFlNMmhETXpBeE5IWnRkMEpLZW1SYVprRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pNdExVeFlNMmhETXpBeE5IWnRkMEpLZW1SYVprRRAB!2m1!1s0x3442adb52a675f81:0xe5edc2304ecb9948"
+    },
+    {
+      "name": "places/ChIJgV9nKrWtQjQRSJnLTjDC7eU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25VeGMxZGtNbFprZVU5RWEwOVBibXR1ZVd4UVNrRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "花生起司蛋三明治會塗膜自製抹醬（美乃滋為基底）以及花生醬，店家非常貼心的提供可以去抹醬、去生菜等等的客製化選項\n吐司的份量及大小大概是一個手掌大，男生有可能會吃不飽（可能要選擇夾肉類的），吐司稍微乾了一些\n但是生菜跟所有的配料吃起來都很乾淨清爽！\n蛋的熟度也很剛好，蛋黃吃起來不會非常乾\n\n雞柳條是使用原肉（非常值得讚賞）！這年代可以吃到原肉的食品真的難上加難\n可以搭配套餐，其實蠻划算的，畢竟用料不隨便，烹調也不會有過多的調味或是太油膩的情況\n\n飲料選項很多，咖啡喝起來感覺是使用不錯的咖啡豆，不會過於苦澀或是太淡",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "花生起司蛋三明治會塗膜自製抹醬（美乃滋為基底）以及花生醬，店家非常貼心的提供可以去抹醬、去生菜等等的客製化選項\n吐司的份量及大小大概是一個手掌大，男生有可能會吃不飽（可能要選擇夾肉類的），吐司稍微乾了一些\n但是生菜跟所有的配料吃起來都很乾淨清爽！\n蛋的熟度也很剛好，蛋黃吃起來不會非常乾\n\n雞柳條是使用原肉（非常值得讚賞）！這年代可以吃到原肉的食品真的難上加難\n可以搭配套餐，其實蠻划算的，畢竟用料不隨便，烹調也不會有過多的調味或是太油膩的情況\n\n飲料選項很多，咖啡喝起來感覺是使用不錯的咖啡豆，不會過於苦澀或是太淡",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Angela Wang",
+        "uri": "https://www.google.com/maps/contrib/109270466727301906463/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX9I0v9XWBLZoS0F6X08GqaJ5Ov2puaxEuKXhvaKfixiiUOYEFYsQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-11T08:47:08.421892186Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25VeGMxZGtNbFprZVU5RWEwOVBibXR1ZVd4UVNrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25VeGMxZGtNbFprZVU5RWEwOVBibXR1ZVd4UVNrRRAB!2m1!1s0x3442adb52a675f81:0xe5edc2304ecb9948"
+    },
+    {
+      "name": "places/ChIJgV9nKrWtQjQRSJnLTjDC7eU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w4MGN6SnJZVWRLUXpjNVdHOTZTMmxQV0RJdFZYYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "附近居民，第一次來，內用。\n先說結論：我覺得好感人😭😭😭\n\n這家存在我的名單很久了一直沒來吃過，今天有機會來吃，我的感想是怎麼會有一家店那麼認真做早餐😭認真到好感人，也很好吃用心。\n\n先說風格定位，覺得有點尷尬應該很多人看不懂，導致多數顧客會有錯誤期待：拿傳統早餐店比各方面也太不對等（不在一個賽道上）；但拿網美店比也太辱沒他。\n感覺只是老闆很有自己的理念與堅持、美感，表面上恰好跟流行網美店相似，實際完全是贏在硬實力不是外表。\n\n但這樣也讓我非常擔心老闆的心，因為理念是一條一般人注定看不懂的堅持，被不吃這套的客人誤會非常難熬，所以我希望我吃到好吃又用心的感人評論能鼓勵老闆🥲\n\n環境部分，透明半開放的廚房很大膽又美麗，對於乾淨的要求會比一般早餐店面高，很佩服選擇這條路。\n\n食物部分，最感人😭\nQR點餐，會介紹裡面有什麼食材，蜜蘋果片應是店家特色，每個品相幾乎都有，好吃又搭。有注意到店家連附餐雞柳條都是用原型肉不是合成肉，感人點之一😭為了健康用原型肉（因為通常愛吃雞柳條的人應該合成吃習慣了不在意這點）\n格子薯酥酥脆脆完全不油，冷掉也不油，而且份量好多😭這家價格比別人高我覺得很合理因為食材完全不在一個等級，但是這個價位能吃到這個份量好感動😭😭😭好多\n漢堡的麵包跟蛋是我覺得最感人的部分😭\n能吃出來有選好吃的皮😭😭😭\n蛋，我很會吃蛋，這家的蛋是買好蛋😭😭有吃過貴的蛋的人應該知道我在說什麼，而且烹飪方式也太用心，應該有用模具整理過很像水波蛋完全不油，天哪它是夾在漢堡裡看不到的部分欸，看不到還認真做我真的😭哭死😭\n然後送餐上來，包的好好的美美的，覺得被這樣用心對待好幸福😭😭😭😭😭\n\n飲料奶茶，身為一個超愛吃早餐店&奶茶控的人，很好喝🫶\n我對於奶茶的下限其實很低，但是！就我經驗觀察不知道為什麼，手藝好吃的非連鎖早餐店，最終都會敗在奶茶的茶葉👊就算用鮮奶做成鮮奶茶，茶不好喝也沒救（相反奶精還能拯救一下不好喝的茶味）\n這家店是很難得的，食物手藝好、奶茶也合格的店🎉🎉🎉🎉\n抱歉打那麼長可能看起來太誇張了🫣\n\n但我是真心想表達，認真吃到一家這麼用心的店，在這個越來越快速求效率求cp的世界來說，有多麼感動😭😭😭😭\n也希望老闆要持續開店喔😭😭😭😭你的理念雖然在世界上很難被突出的看見，但一定還是有客人默默喜歡你的用心的😭😭😭",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "附近居民，第一次來，內用。\n先說結論：我覺得好感人😭😭😭\n\n這家存在我的名單很久了一直沒來吃過，今天有機會來吃，我的感想是怎麼會有一家店那麼認真做早餐😭認真到好感人，也很好吃用心。\n\n先說風格定位，覺得有點尷尬應該很多人看不懂，導致多數顧客會有錯誤期待：拿傳統早餐店比各方面也太不對等（不在一個賽道上）；但拿網美店比也太辱沒他。\n感覺只是老闆很有自己的理念與堅持、美感，表面上恰好跟流行網美店相似，實際完全是贏在硬實力不是外表。\n\n但這樣也讓我非常擔心老闆的心，因為理念是一條一般人注定看不懂的堅持，被不吃這套的客人誤會非常難熬，所以我希望我吃到好吃又用心的感人評論能鼓勵老闆🥲\n\n環境部分，透明半開放的廚房很大膽又美麗，對於乾淨的要求會比一般早餐店面高，很佩服選擇這條路。\n\n食物部分，最感人😭\nQR點餐，會介紹裡面有什麼食材，蜜蘋果片應是店家特色，每個品相幾乎都有，好吃又搭。有注意到店家連附餐雞柳條都是用原型肉不是合成肉，感人點之一😭為了健康用原型肉（因為通常愛吃雞柳條的人應該合成吃習慣了不在意這點）\n格子薯酥酥脆脆完全不油，冷掉也不油，而且份量好多😭這家價格比別人高我覺得很合理因為食材完全不在一個等級，但是這個價位能吃到這個份量好感動😭😭😭好多\n漢堡的麵包跟蛋是我覺得最感人的部分😭\n能吃出來有選好吃的皮😭😭😭\n蛋，我很會吃蛋，這家的蛋是買好蛋😭😭有吃過貴的蛋的人應該知道我在說什麼，而且烹飪方式也太用心，應該有用模具整理過很像水波蛋完全不油，天哪它是夾在漢堡裡看不到的部分欸，看不到還認真做我真的😭哭死😭\n然後送餐上來，包的好好的美美的，覺得被這樣用心對待好幸福😭😭😭😭😭\n\n飲料奶茶，身為一個超愛吃早餐店&奶茶控的人，很好喝🫶\n我對於奶茶的下限其實很低，但是！就我經驗觀察不知道為什麼，手藝好吃的非連鎖早餐店，最終都會敗在奶茶的茶葉👊就算用鮮奶做成鮮奶茶，茶不好喝也沒救（相反奶精還能拯救一下不好喝的茶味）\n這家店是很難得的，食物手藝好、奶茶也合格的店🎉🎉🎉🎉\n抱歉打那麼長可能看起來太誇張了🫣\n\n但我是真心想表達，認真吃到一家這麼用心的店，在這個越來越快速求效率求cp的世界來說，有多麼感動😭😭😭😭\n也希望老闆要持續開店喔😭😭😭😭你的理念雖然在世界上很難被突出的看見，但一定還是有客人默默喜歡你的用心的😭😭😭",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "jia",
+        "uri": "https://www.google.com/maps/contrib/115174473560757838711/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUeiuM584Mgwqtb_zwcFKS6Vg1qXM4BPnlI5arPE04AMZ8dnrYS=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-10-28T13:38:22.992448661Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w4MGN6SnJZVWRLUXpjNVdHOTZTMmxQV0RJdFZYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w4MGN6SnJZVWRLUXpjNVdHOTZTMmxQV0RJdFZYYxAB!2m1!1s0x3442adb52a675f81:0xe5edc2304ecb9948"
+    },
+    {
+      "name": "places/ChIJgV9nKrWtQjQRSJnLTjDC7eU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paTVVsUk5kV0YyTkVGeVVWaDBaRWxNZDNSVVVtYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "建議真的不要用uber eat點餐，這樣要160！！！再加外送和服務費，三明治一份要220！！！\n點了東泉肉蛋三明治（活動）,但頁面內什麼內容物都看不到，所以拿到後更覺得傻眼。\n如果要吃的話,可能去店裡會覺得cp值合一點，但還是建議店家，可以在外送平台上的說明清楚些，不然真的很有被坑的感覺",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "建議真的不要用uber eat點餐，這樣要160！！！再加外送和服務費，三明治一份要220！！！\n點了東泉肉蛋三明治（活動）,但頁面內什麼內容物都看不到，所以拿到後更覺得傻眼。\n如果要吃的話,可能去店裡會覺得cp值合一點，但還是建議店家，可以在外送平台上的說明清楚些，不然真的很有被坑的感覺",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃馨萱",
+        "uri": "https://www.google.com/maps/contrib/111025886282412534434/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLcshrd0gqWO8od9m5vK9aFNxbQPhjBHcVJ293BcFz7eWSKnw=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-25T03:19:39.308685136Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paTVVsUk5kV0YyTkVGeVVWaDBaRWxNZDNSVVVtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paTVVsUk5kV0YyTkVGeVVWaDBaRWxNZDNSVVVtYxAB!2m1!1s0x3442adb52a675f81:0xe5edc2304ecb9948"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

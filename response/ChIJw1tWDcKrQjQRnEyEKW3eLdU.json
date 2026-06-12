@@ -1,0 +1,137 @@
+{
+  "id": "ChIJw1tWDcKrQjQRnEyEKW3eLdU",
+  "types": [
+    "health_food_store",
+    "salad_shop",
+    "food_store",
+    "store",
+    "health",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2577 8268",
+  "formattedAddress": "105台灣臺北市松山區復勢里南京東路四段168號1F",
+  "location": {
+    "latitude": 25.051362899999997,
+    "longitude": 121.55678640000001
+  },
+  "rating": 4.5,
+  "websiteUri": "https://www.facebook.com/SaladDenEnergySalad",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 959,
+  "displayName": {
+    "text": "Salad Den",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJw1tWDcKrQjQRnEyEKW3eLdU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taSVRFdHFZazFNUmkxU1JtdEhNRFpSUTBGUVMxRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "服務態度好，氣氛也好，五顏六色的蔬菜沙拉可以自己選擇，蕈菇歐姆蛋也好吃，因為飲控剛好覓食到的優質店家，很喜歡😊",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "服務態度好，氣氛也好，五顏六色的蔬菜沙拉可以自己選擇，蕈菇歐姆蛋也好吃，因為飲控剛好覓食到的優質店家，很喜歡😊",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Morika",
+        "uri": "https://www.google.com/maps/contrib/113950439391447593260/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXwBh746bcgdeLwO2Kj4T2vvq8Qzt8NuJNbgD76Gur12m7fjLY=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-03-01T07:56:35.936940755Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taSVRFdHFZazFNUmkxU1JtdEhNRFpSUTBGUVMxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taSVRFdHFZazFNUmkxU1JtdEhNRFpSUTBGUVMxRRAB!2m1!1s0x3442abc20d565bc3:0xd52dde6d29844c9c"
+    },
+    {
+      "name": "places/ChIJw1tWDcKrQjQRnEyEKW3eLdU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taUVUzSXhVMkpGVkVKbVYxOHpWRGxmVkZJNFNrRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 3,
+      "text": {
+        "text": "2022.9.22\n和朋友去吃印象中規中矩\n不過可以自選不同的蔬菜\n很健康～\n環境也很舒適",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2022.9.22\n和朋友去吃印象中規中矩\n不過可以自選不同的蔬菜\n很健康～\n環境也很舒適",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Peggy Wu",
+        "uri": "https://www.google.com/maps/contrib/116234001273625332956/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX8zJsJ2w0pbvA9TkIG1MqPn_7SM6q4ZaQom-zcpogtIoffirmXGA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-30T08:07:12.721105787Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taUVUzSXhVMkpGVkVKbVYxOHpWRGxmVkZJNFNrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taUVUzSXhVMkpGVkVKbVYxOHpWRGxmVkZJNFNrRRAB!2m1!1s0x3442abc20d565bc3:0xd52dde6d29844c9c"
+    },
+    {
+      "name": "places/ChIJw1tWDcKrQjQRnEyEKW3eLdU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tjd01YVnZOV3hWWWtFeUxWSjZUVFJ0U2xvMFdIYxAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 5,
+      "text": {
+        "text": "今天剛好公司聚餐大嗑垃圾食物炸雞飲料，但就是完全沒有吃到任何蔬菜。能夠有樣的一間可以一次吃到這麼多好蔬菜、一次滿足，真的好棒！\n\n蔬菜都蠻不錯的，檸檬油醋醬的味道也好吃。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天剛好公司聚餐大嗑垃圾食物炸雞飲料，但就是完全沒有吃到任何蔬菜。能夠有樣的一間可以一次吃到這麼多好蔬菜、一次滿足，真的好棒！\n\n蔬菜都蠻不錯的，檸檬油醋醬的味道也好吃。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "YJC Make Friends with the World",
+        "uri": "https://www.google.com/maps/contrib/102959838693800612256/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVBdMxzCjlzP2317u2fZEV2VmJde49-9mGSEe7rT2rLqD5eutMXDA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-06-20T12:15:15.977170155Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tjd01YVnZOV3hWWWtFeUxWSjZUVFJ0U2xvMFdIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tjd01YVnZOV3hWWWtFeUxWSjZUVFJ0U2xvMFdIYxAB!2m1!1s0x3442abc20d565bc3:0xd52dde6d29844c9c"
+    },
+    {
+      "name": "places/ChIJw1tWDcKrQjQRnEyEKW3eLdU/reviews/ChdDSUhNMG9nS0VJQ0FnSURUZ1BTTTl3RRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "這裡的服務人員非常親切且讓人有種放心的感覺，沙拉多樣化、新鮮、份量十足且沒有苦澀味道，用餐後很有飽足感，卻不會讓人有負擔的感覺；內用雖然有一些小貴，但是可以吃得健康又實在，是個很棒的餐廳。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這裡的服務人員非常親切且讓人有種放心的感覺，沙拉多樣化、新鮮、份量十足且沒有苦澀味道，用餐後很有飽足感，卻不會讓人有負擔的感覺；內用雖然有一些小貴，但是可以吃得健康又實在，是個很棒的餐廳。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hung老頭",
+        "uri": "https://www.google.com/maps/contrib/117130192221514452934/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVlYN82sEboqxqRWDUfYbjUF37Xpbp0Jy7T8uD1ykRfJwpgbrQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2024-05-21T04:30:59.373122Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURUZ1BTTTl3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURUZ1BTTTl3RRAB!2m1!1s0x3442abc20d565bc3:0xd52dde6d29844c9c"
+    },
+    {
+      "name": "places/ChIJw1tWDcKrQjQRnEyEKW3eLdU/reviews/ChZDSUhNMG9nS0VJQ0FnSUREbG91WlRREAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "沙拉很新鮮，還蠻好吃的，只是天氣冷的時候不適合吃，覺得太冰涼，我以為可能義大利麵是熱沙拉，結果全部都是冷的，但夏天吃應該很適合\n吃了三次，覺得都非常好吃，但湯有點淡，好像是類似蘑菇濃湯吧，覺得下次可能不考慮湯品\n今天選擇內用，原來內用價格比較貴，加湯和服務費要317，下次可能還是選擇外帶，雖然內用份量多，但吃的有點撐",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "沙拉很新鮮，還蠻好吃的，只是天氣冷的時候不適合吃，覺得太冰涼，我以為可能義大利麵是熱沙拉，結果全部都是冷的，但夏天吃應該很適合\n吃了三次，覺得都非常好吃，但湯有點淡，好像是類似蘑菇濃湯吧，覺得下次可能不考慮湯品\n今天選擇內用，原來內用價格比較貴，加湯和服務費要317，下次可能還是選擇外帶，雖然內用份量多，但吃的有點撐",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Joanne",
+        "uri": "https://www.google.com/maps/contrib/110092309851527600919/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXIqr4aNvAWk-OXk_bmahEGKayxxN0gvTqS7FRrNt2DuC4A3ry3=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2024-09-16T13:10:21.153779Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUREbG91WlRREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUREbG91WlRREAE!2m1!1s0x3442abc20d565bc3:0xd52dde6d29844c9c"
+    }
+  ],
+  "menuForChildren": true,
+  "goodForChildren": true
+}

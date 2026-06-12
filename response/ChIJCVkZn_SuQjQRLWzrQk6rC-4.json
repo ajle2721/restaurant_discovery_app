@@ -1,0 +1,130 @@
+{
+  "id": "ChIJCVkZn_SuQjQRLWzrQk6rC-4",
+  "types": [
+    "restaurant",
+    "chinese_restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2823 8945",
+  "formattedAddress": "112台灣臺北市北投區立農里西安街二段115號",
+  "location": {
+    "latitude": 25.118391499999998,
+    "longitude": 121.51243559999999
+  },
+  "rating": 4.8,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 723,
+  "displayName": {
+    "text": "禾竹私房料理（預約制）",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJCVkZn_SuQjQRLWzrQk6rC-4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xJMk9IcGtXVmg2WDBkbFRGcFFkRzVSVkZKUlkyYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "每道菜都做得非常的用心。雞肉鮮嫩不乾柴，特色菜蘋果烏魚子脆桶，烏魚子搭配外皮酥脆餅乾味道恰恰好。鬼馬紅酒燉牛肉，牛肉自然香甜入味。皮蛋豆腐店家很用心把皮蛋做成醬沾豆腐。炸鱈魚很新鮮，謝謝老闆娘招待的私房菜，會再回顧喔！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "每道菜都做得非常的用心。雞肉鮮嫩不乾柴，特色菜蘋果烏魚子脆桶，烏魚子搭配外皮酥脆餅乾味道恰恰好。鬼馬紅酒燉牛肉，牛肉自然香甜入味。皮蛋豆腐店家很用心把皮蛋做成醬沾豆腐。炸鱈魚很新鮮，謝謝老闆娘招待的私房菜，會再回顧喔！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Cindy",
+        "uri": "https://www.google.com/maps/contrib/112399164655649931379/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL5gNI2RMH8ieckYluyAcva0iw25_iv8XJ4Fp6bOZTcYUcipA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-04T07:39:14.754316959Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xJMk9IcGtXVmg2WDBkbFRGcFFkRzVSVkZKUlkyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xJMk9IcGtXVmg2WDBkbFRGcFFkRzVSVkZKUlkyYxAB!2m1!1s0x3442aef49f195909:0xee0bab4e42eb6c2d"
+    },
+    {
+      "name": "places/ChIJCVkZn_SuQjQRLWzrQk6rC-4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25semRtRXlWVFpsUzJ4eVVEUmFNelI2UmpaWmJtYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "創意無菜單料理，好吃又便宜！\n擺盤漂亮精緻，非常增加食慾！\n小桌數家庭，部門聚餐非常方便\n附有KTV可歡唱，平日幾乎包場\n漂亮美麗的闆娘幫忙做服務生\n\n無菜單料理價位\n$6800，$8800，$12800，$15,800，$20,000\n以10人份為主\n$12,800 要上就可以包場單獨享用喔！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "創意無菜單料理，好吃又便宜！\n擺盤漂亮精緻，非常增加食慾！\n小桌數家庭，部門聚餐非常方便\n附有KTV可歡唱，平日幾乎包場\n漂亮美麗的闆娘幫忙做服務生\n\n無菜單料理價位\n$6800，$8800，$12800，$15,800，$20,000\n以10人份為主\n$12,800 要上就可以包場單獨享用喔！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "馬奇克（小胖）",
+        "uri": "https://www.google.com/maps/contrib/115703607807420900628/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUFqkeyEFUrluYQKhJDYGXrtUXb921CvCD1yEtppj50LDiGrEa=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-24T04:28:02.862961217Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25semRtRXlWVFpsUzJ4eVVEUmFNelI2UmpaWmJtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25semRtRXlWVFpsUzJ4eVVEUmFNelI2UmpaWmJtYxAB!2m1!1s0x3442aef49f195909:0xee0bab4e42eb6c2d"
+    },
+    {
+      "name": "places/ChIJCVkZn_SuQjQRLWzrQk6rC-4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twaE5qTTNWRVEyUWtsWFlWRXlOVlkzY1V0dk9HYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "閨蜜姐姐生日快樂，聚餐的好地方，還有卡拉OK🎼🎤..重點食材好棒棒 👍好吃好吃。每一道菜非常非常的滿意😋",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "閨蜜姐姐生日快樂，聚餐的好地方，還有卡拉OK🎼🎤..重點食材好棒棒 👍好吃好吃。每一道菜非常非常的滿意😋",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "淑真林",
+        "uri": "https://www.google.com/maps/contrib/112735159568253938433/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVND0aqk_kb1tS5ZB2Xm4nRvH6nzSECGzYHjMSDwo5DGmSZsHmKdg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-31T13:28:26.954631958Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twaE5qTTNWRVEyUWtsWFlWRXlOVlkzY1V0dk9HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twaE5qTTNWRVEyUWtsWFlWRXlOVlkzY1V0dk9HYxAB!2m1!1s0x3442aef49f195909:0xee0bab4e42eb6c2d"
+    },
+    {
+      "name": "places/ChIJCVkZn_SuQjQRLWzrQk6rC-4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGd1ltMUxRalZHUjBWVVJISkxVMWhXU3pFd2FrRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "Hi 大家，今天來「禾竹」家庭聚餐，這道鮑魚料理真的讓人驚艷，五星好評實至名歸：\n​視覺饗宴：小巧玲瓏的湯勺盛裝著厚實鮑魚，搭配紅椒與蔥花點綴，色彩鮮明，光看就令人食指大動。\n​味覺層次：鮑魚口感極其鮮嫩彈牙，完全沒有腥味。蒜香與微辣的調味恰到好處，完美提煉出海鮮的清甜，每一口都是濃醇的高級感。\n​精緻衛生：一人一勺的擺盤不僅美觀，更兼顧了用餐的衛生與便利性，對於家庭聚餐來說非常貼心。\n​環境加分：餐廳桌面整潔乾淨，餐具選擇也充滿中式典雅風格，整體用餐氛圍既舒適又專業。\n​這份餐點展現了主廚對食材與細節的講究，絕對是來店必點的佳餚！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "Hi 大家，今天來「禾竹」家庭聚餐，這道鮑魚料理真的讓人驚艷，五星好評實至名歸：\n​視覺饗宴：小巧玲瓏的湯勺盛裝著厚實鮑魚，搭配紅椒與蔥花點綴，色彩鮮明，光看就令人食指大動。\n​味覺層次：鮑魚口感極其鮮嫩彈牙，完全沒有腥味。蒜香與微辣的調味恰到好處，完美提煉出海鮮的清甜，每一口都是濃醇的高級感。\n​精緻衛生：一人一勺的擺盤不僅美觀，更兼顧了用餐的衛生與便利性，對於家庭聚餐來說非常貼心。\n​環境加分：餐廳桌面整潔乾淨，餐具選擇也充滿中式典雅風格，整體用餐氛圍既舒適又專業。\n​這份餐點展現了主廚對食材與細節的講究，絕對是來店必點的佳餚！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Tb G",
+        "uri": "https://www.google.com/maps/contrib/103363087317381889872/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKsDBXzw5oKMyCtTrH2VddKJia-Z-Hn2Lb7ps-iZe62b8GbdQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-28T10:26:21.744477718Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGd1ltMUxRalZHUjBWVVJISkxVMWhXU3pFd2FrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGd1ltMUxRalZHUjBWVVJISkxVMWhXU3pFd2FrRRAB!2m1!1s0x3442aef49f195909:0xee0bab4e42eb6c2d"
+    },
+    {
+      "name": "places/ChIJCVkZn_SuQjQRLWzrQk6rC-4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pFeFpXRk1NRWM0WDFweExXSnhkVlpXUTNCSk1YYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "以下是我們聚餐今天的菜色\n一桌10人份\n每一道都真材實料，調味也好吃😋\n訂滿兩桌送卡拉OK（空間只有三桌）\n音量可以調小👍\n2025/08/24週日菜色如下：\n1、泰式鮑魚\n2、烏魚子脆筒\n3、椒麻皮蛋豆腐\n4、海南文昌雞\n5、紅酒燉牛肉\n6、西魯肉\n（打卡送炸豬肝，只送不賣）\n7、鳳梨蝦球馬鈴薯沙拉\n8、淮山燉三寶\n9、避風塘鱈魚\n10、港式臘腸米糕\n11、水果",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "以下是我們聚餐今天的菜色\n一桌10人份\n每一道都真材實料，調味也好吃😋\n訂滿兩桌送卡拉OK（空間只有三桌）\n音量可以調小👍\n2025/08/24週日菜色如下：\n1、泰式鮑魚\n2、烏魚子脆筒\n3、椒麻皮蛋豆腐\n4、海南文昌雞\n5、紅酒燉牛肉\n6、西魯肉\n（打卡送炸豬肝，只送不賣）\n7、鳳梨蝦球馬鈴薯沙拉\n8、淮山燉三寶\n9、避風塘鱈魚\n10、港式臘腸米糕\n11、水果",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林麗玲",
+        "uri": "https://www.google.com/maps/contrib/114615188673420053236/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWPBYbQLHcY-ZGFICzGglEdj7puy1nKPg8ofT4a9hN05HGrEaQ3=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-08-24T05:54:18.807395654Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pFeFpXRk1NRWM0WDFweExXSnhkVlpXUTNCSk1YYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pFeFpXRk1NRWM0WDFweExXSnhkVlpXUTNCSk1YYxAB!2m1!1s0x3442aef49f195909:0xee0bab4e42eb6c2d"
+    }
+  ]
+}

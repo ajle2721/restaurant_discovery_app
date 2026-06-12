@@ -1,0 +1,132 @@
+{
+  "id": "ChIJe5Fqk1ypQjQRBf0bK8GKZ1g",
+  "types": [
+    "gift_shop",
+    "cafe",
+    "restaurant",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2557 0506",
+  "formattedAddress": "103台灣臺北市大同區大有里迪化街一段248號",
+  "location": {
+    "latitude": 25.0601049,
+    "longitude": 121.5092682
+  },
+  "rating": 4.6,
+  "websiteUri": "http://www.inblooom.com/",
+  "userRatingCount": 158,
+  "displayName": {
+    "text": "印花作夥 inBlooom Together - 印花樂直營門市",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJe5Fqk1ypQjQRBf0bK8GKZ1g/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CQmVYa3pibXRqWm5aS2JHMTZWV3huU1ZJd1VFRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "購買了衣服裙子以及美麗的布。品質好。使用後心情愉悅。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "購買了衣服裙子以及美麗的布。品質好。使用後心情愉悅。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Pepa H",
+        "uri": "https://www.google.com/maps/contrib/114169680848257752817/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKCUqctazkWnSgf_WkBQi4UMIaevM7O2KOZkYzK3i3VxFFMRA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-25T09:25:40.695977863Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CQmVYa3pibXRqWm5aS2JHMTZWV3huU1ZJd1VFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CQmVYa3pibXRqWm5aS2JHMTZWV3huU1ZJd1VFRRAB!2m1!1s0x3442a95c936a917b:0x58678ac12b1bfd05"
+    },
+    {
+      "name": "places/ChIJe5Fqk1ypQjQRBf0bK8GKZ1g/reviews/Ci9DQUlRQUNvZENodHljRjlvT21obFdEZGxRV0ZOVDFaSGNETTJVR3BoU0c5alRtYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 2,
+      "text": {
+        "text": "2/22下午大約三點左右進店\n櫃檯店員正在”教育”另外一位店員\nA「客人問問題，妳不確定的話要怎麼說」\nB「會說稍等一下我確認一下」\nA「對啊但是剛剛妳就愣住然後看我」\n⋯blablabla\n\n很吵！\n逛這家店不是為了聽店員大小聲！\n要機會教育請控制音量\n整個一進空間裡，店員聲音比客人還大\n大過年的，這麼負能量好嗎？\n明明就是很溫馨的空間⋯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2/22下午大約三點左右進店\n櫃檯店員正在”教育”另外一位店員\nA「客人問問題，妳不確定的話要怎麼說」\nB「會說稍等一下我確認一下」\nA「對啊但是剛剛妳就愣住然後看我」\n⋯blablabla\n\n很吵！\n逛這家店不是為了聽店員大小聲！\n要機會教育請控制音量\n整個一進空間裡，店員聲音比客人還大\n大過年的，這麼負能量好嗎？\n明明就是很溫馨的空間⋯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "胖丁",
+        "uri": "https://www.google.com/maps/contrib/104941608823097720028/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUNZ0jE0K9lMeBqgPllxZoD1peVn5-jMBtr_Q_7HaaktWpbVr49ZA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-23T09:28:01.692883629Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21obFdEZGxRV0ZOVDFaSGNETTJVR3BoU0c5alRtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21obFdEZGxRV0ZOVDFaSGNETTJVR3BoU0c5alRtYxAB!2m1!1s0x3442a95c936a917b:0x58678ac12b1bfd05"
+    },
+    {
+      "name": "places/ChIJe5Fqk1ypQjQRBf0bK8GKZ1g/reviews/ChdDSUhNMG9nS0VJQ0FnTURvdFkzNjFBRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "大稻埕在地印花織物品牌，以結合設計感及在地文化的印花圖樣聞名，送禮自用兩相宜。不過迪化街上的這間店比較小，應該主要是以體驗課程及聯名品牌為主，2樓還有咖啡廳。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "大稻埕在地印花織物品牌，以結合設計感及在地文化的印花圖樣聞名，送禮自用兩相宜。不過迪化街上的這間店比較小，應該主要是以體驗課程及聯名品牌為主，2樓還有咖啡廳。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Brook Li",
+        "uri": "https://www.google.com/maps/contrib/102858033790446409074/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU2aGQHj_2ekPu_S4UQSPudxTz3UztKle1gOIJWF0_NS4_OPP_0=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-04-27T09:06:58.933477Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvdFkzNjFBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvdFkzNjFBRRAB!2m1!1s0x3442a95c936a917b:0x58678ac12b1bfd05"
+    },
+    {
+      "name": "places/ChIJe5Fqk1ypQjQRBf0bK8GKZ1g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pBNWRXTkpZVk00V0hZMlNuTklVWFZNTWt3MWRVRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "聖誕節當日門口正好在進行絹印手提袋的活動，看著遊客們開心驚呼的聲音，覺得很有熱鬧氣氛，如果能提供更大一點的空間會更棒。店內商品很有特色很棒不錯，能區別出與眾不同。因為單價中高，如果時不時能有優惠會更棒！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "聖誕節當日門口正好在進行絹印手提袋的活動，看著遊客們開心驚呼的聲音，覺得很有熱鬧氣氛，如果能提供更大一點的空間會更棒。店內商品很有特色很棒不錯，能區別出與眾不同。因為單價中高，如果時不時能有優惠會更棒！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "吳怪貓",
+        "uri": "https://www.google.com/maps/contrib/104642516929631642807/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVuxuFl7KlcURk8xCA4AMCGKye_mDeiWKLIkvrZQpsBfZ8fS5mY=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-27T10:00:28.535859847Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pBNWRXTkpZVk00V0hZMlNuTklVWFZNTWt3MWRVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pBNWRXTkpZVk00V0hZMlNuTklVWFZNTWt3MWRVRRAB!2m1!1s0x3442a95c936a917b:0x58678ac12b1bfd05"
+    },
+    {
+      "name": "places/ChIJe5Fqk1ypQjQRBf0bK8GKZ1g/reviews/ChZDSUhNMG9nS0VJQ0FnSUMxdXVfWERBEAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "#圖騰設計風格～清新文青風💖～花語百畫展～吸引自己的目光👁️\n翻閱書籍～文章顯現作者是浪漫💕主義者💞～浪漫💕的性格是靈感來源💖👍～\n\n#槁木死灰者是無法讓作品生動～也許～會創作出異同元素？也是🉑以！都有欣賞者！\n\n#印花作夥充滿著文青氣息💞設計風格展現於衣服、提袋～～～種類多～^_^～自己是喜歡💕遇見不錯會買💞\n\n#分享迪化街的美麗風景💞於你妳💞",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "#圖騰設計風格～清新文青風💖～花語百畫展～吸引自己的目光👁️\n翻閱書籍～文章顯現作者是浪漫💕主義者💞～浪漫💕的性格是靈感來源💖👍～\n\n#槁木死灰者是無法讓作品生動～也許～會創作出異同元素？也是🉑以！都有欣賞者！\n\n#印花作夥充滿著文青氣息💞設計風格展現於衣服、提袋～～～種類多～^_^～自己是喜歡💕遇見不錯會買💞\n\n#分享迪化街的美麗風景💞於你妳💞",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Brande Prestige",
+        "uri": "https://www.google.com/maps/contrib/102981056380450305287/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXKzXnl2Uqqd2qY6VTr_4nowM5-BlaVALP5ZhOaaWfRtKlENXxtng=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2023-12-28T10:34:35.984089Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMxdXVfWERBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMxdXVfWERBEAE!2m1!1s0x3442a95c936a917b:0x58678ac12b1bfd05"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "id": "ChIJ3WmlLQCvQjQRVKI5zuRlEsU",
+  "types": [
+    "japanese_restaurant",
+    "noodle_shop",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2828 3368",
+  "formattedAddress": "112台灣臺北市北投區吉利里石牌路一段39巷131弄28號1 樓",
+  "location": {
+    "latitude": 25.11819,
+    "longitude": 121.5086899
+  },
+  "rating": 4.4,
+  "userRatingCount": 317,
+  "displayName": {
+    "text": "小豆島日式烏龍麵(石牌形象店)",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ3WmlLQCvQjQRVKI5zuRlEsU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21JeVVDMTJaa0p0U0hOYVNFeGhiRTVEV25kaVdFRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "值得一吃乾淨美味\n牛肉烏龍麵（牛肉片👍）\n極上海陸天丼（牛排🥩好吃）\n唐揚雞很棒新鮮也夠燙\n套餐飲料可以免補差價直接換可樂👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "值得一吃乾淨美味\n牛肉烏龍麵（牛肉片👍）\n極上海陸天丼（牛排🥩好吃）\n唐揚雞很棒新鮮也夠燙\n套餐飲料可以免補差價直接換可樂👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "少東",
+        "uri": "https://www.google.com/maps/contrib/101158992261390906984/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWELD6VdrrSuQvCaVbzxlEgpmM4-MZyiTXYBpG9lN7mDNXpRKdz=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-03-03T11:46:49.285505996Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21JeVVDMTJaa0p0U0hOYVNFeGhiRTVEV25kaVdFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21JeVVDMTJaa0p0U0hOYVNFeGhiRTVEV25kaVdFRRAB!2m1!1s0x3442af002da569dd:0xc51265e4ce39a254"
+    },
+    {
+      "name": "places/ChIJ3WmlLQCvQjQRVKI5zuRlEsU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toRWJtZGtkalZ6UVhrd2VISTNWamx5V0ROTmNIYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "太好吃了，來不及拍照，只剩殘餘的食物，花椰菜跟秋葵都超新鮮，另外最特別的是用烏龍炸的如同麻花捲一樣這道（甘口炸烏龍），連冷掉都很Q😋大推",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "太好吃了，來不及拍照，只剩殘餘的食物，花椰菜跟秋葵都超新鮮，另外最特別的是用烏龍炸的如同麻花捲一樣這道（甘口炸烏龍），連冷掉都很Q😋大推",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Gisele Hsiao",
+        "uri": "https://www.google.com/maps/contrib/117550817173941282773/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZ7tqCbVbZ7tLXybcG-LzE1udWSIb5FrzFW9V2tjlBj2WP8poy=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-03-02T10:30:44.370613955Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toRWJtZGtkalZ6UVhrd2VISTNWamx5V0ROTmNIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toRWJtZGtkalZ6UVhrd2VISTNWamx5V0ROTmNIYxAB!2m1!1s0x3442af002da569dd:0xc51265e4ce39a254"
+    },
+    {
+      "name": "places/ChIJ3WmlLQCvQjQRVKI5zuRlEsU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCaE9HWlhPV2hQVm1NMWFuWjFRMngyUjJSTk9HYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "有感受到店家各方面的用心，餐點好吃不貴，服務非常好，會再帶小朋友來",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "有感受到店家各方面的用心，餐點好吃不貴，服務非常好，會再帶小朋友來",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jimmy Kuo",
+        "uri": "https://www.google.com/maps/contrib/115025539539733595487/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXawNmrKl1rAUtjREm2Y6Lzm6BQHTGgXEIOn9YNvQ2VE7U-XNEwIg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-10T06:00:04.574079291Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCaE9HWlhPV2hQVm1NMWFuWjFRMngyUjJSTk9HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCaE9HWlhPV2hQVm1NMWFuWjFRMngyUjJSTk9HYxAB!2m1!1s0x3442af002da569dd:0xc51265e4ce39a254"
+    },
+    {
+      "name": "places/ChIJ3WmlLQCvQjQRVKI5zuRlEsU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2swemFGcE1SRFk0UkdabVVrOU5VMEpuZGpSVlVXYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 2,
+      "text": {
+        "text": "等超久超久。明明就是冷面。等了快一小⋯⋯而且菜上的亂七八糟，還要一直重覆，連飲料（可爾必思）都要半小才上。建議外場服務這樣真的不行",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "等超久超久。明明就是冷面。等了快一小⋯⋯而且菜上的亂七八糟，還要一直重覆，連飲料（可爾必思）都要半小才上。建議外場服務這樣真的不行",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Sweet Love",
+        "uri": "https://www.google.com/maps/contrib/107274320538165735984/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWi_bNMubqbvjJ_Z1_DWtJSk7ruvLo4KLfKtoNZ2jbQVCBYhCI=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-28T14:35:59.053866881Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2swemFGcE1SRFk0UkdabVVrOU5VMEpuZGpSVlVXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2swemFGcE1SRFk0UkdabVVrOU5VMEpuZGpSVlVXYxAB!2m1!1s0x3442af002da569dd:0xc51265e4ce39a254"
+    },
+    {
+      "name": "places/ChIJ3WmlLQCvQjQRVKI5zuRlEsU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaUVZqQnNkRlV5T0d4bWQxcGpTbVZFWm0xQlNIYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "10/10 頂的 會再來吃 很讚 好吃 聽我的就吃這間了 兄弟不會騙你",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "10/10 頂的 會再來吃 很讚 好吃 聽我的就吃這間了 兄弟不會騙你",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "雪白",
+        "uri": "https://www.google.com/maps/contrib/106219949130063008207/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVlndO0dywLctxGW20Jo4BEJUnnjwdYgIC2Dozn4cKtig8_GM-7=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-28T11:18:08.264767974Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaUVZqQnNkRlV5T0d4bWQxcGpTbVZFWm0xQlNIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaUVZqQnNkRlV5T0d4bWQxcGpTbVZFWm0xQlNIYxAB!2m1!1s0x3442af002da569dd:0xc51265e4ce39a254"
+    }
+  ],
+  "menuForChildren": true,
+  "goodForChildren": true
+}

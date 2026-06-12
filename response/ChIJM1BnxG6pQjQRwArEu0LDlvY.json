@@ -1,0 +1,128 @@
+﻿{
+    "id":  "ChIJM1BnxG6pQjQRwArEu0LDlvY",
+    "types":  [
+                  "italian_restaurant",
+                  "restaurant",
+                  "point_of_interest",
+                  "food",
+                  "establishment"
+              ],
+    "formattedAddress":  "10491台灣臺北市中山區民安里中山北路一段140巷2號",
+    "location":  {
+                     "latitude":  25.051381,
+                     "longitude":  121.52180999999997
+                 },
+    "rating":  4,
+    "userRatingCount":  84,
+    "displayName":  {
+                        "text":  "舊帳號",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJM1BnxG6pQjQRwArEu0LDlvY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNkcnJ2cEF3EAE",
+                        "relativePublishTimeDescription":  "2 年前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "來過很多次了～以中山站來說很便宜🤣加量不加價真的很佛！\n燉飯、義大利麵跟披薩都很好吃，點過很多個口味，不管哪種醬都沒有短板，非常享受！而且蝦子全部都剝好了，超級貼心🦐甜點也很好吃！\n空間寬敞舒適，氣氛很好。廁所也很乾淨，而且有兩間。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "來過很多次了～以中山站來說很便宜🤣加量不加價真的很佛！\n燉飯、義大利麵跟披薩都很好吃，點過很多個口味，不管哪種醬都沒有短板，非常享受！而且蝦子全部都剝好了，超級貼心🦐甜點也很好吃！\n空間寬敞舒適，氣氛很好。廁所也很乾淨，而且有兩間。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Tammy",
+                                                  "uri":  "https://www.google.com/maps/contrib/114110698480677253501/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUFAYpuBS9s4lgke3sODkoAoEtUN_ontXl2fvxBh6R3UhCDEFwC1w=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2024-02-15T09:33:27.838683Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNkcnJ2cEF3EAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNkcnJ2cEF3EAE!2m1!1s0x3442a96ec4675033:0xf696c342bbc40ac0"
+                    },
+                    {
+                        "name":  "places/ChIJM1BnxG6pQjQRwArEu0LDlvY/reviews/ChdDSUhNMG9nS0VJQ0FnTUNBd2FXTjFRRRAB",
+                        "relativePublishTimeDescription":  "1 年前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "蘑菇酥皮濃湯好好喝😍外面沒喝過，很濃的奶香味👍喜歡番茄羅宋湯的西洋芹，香蒜麵包現烤，義大利麵的蝦子🦐還有剝殼，推推👍",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "蘑菇酥皮濃湯好好喝😍外面沒喝過，很濃的奶香味👍喜歡番茄羅宋湯的西洋芹，香蒜麵包現烤，義大利麵的蝦子🦐還有剝殼，推推👍",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Yuuly Chen",
+                                                  "uri":  "https://www.google.com/maps/contrib/100001748433601569230/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUtIxwOWdzybeRyO2wU6b0w9HfNKZz0HtWS97oL4gEiFfbHnbeKIA=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2025-02-01T12:23:42.130198Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNBd2FXTjFRRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNBd2FXTjFRRRAB!2m1!1s0x3442a96ec4675033:0xf696c342bbc40ac0"
+                    },
+                    {
+                        "name":  "places/ChIJM1BnxG6pQjQRwArEu0LDlvY/reviews/ChdDSUhNMG9nS0VJQ0FnSURSbmZDMGxBRRAB",
+                        "relativePublishTimeDescription":  "3 年前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "平價但不失水準的義大利麵！\n薯條有松露醬可以沾，好好吃呀～還能喝到好久不見的酥皮濃湯超讚的！",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "平價但不失水準的義大利麵！\n薯條有松露醬可以沾，好好吃呀～還能喝到好久不見的酥皮濃湯超讚的！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Shin-Mei Liu",
+                                                  "uri":  "https://www.google.com/maps/contrib/106299138302720423597/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjW_Qj5hABMVUiLIub_ukAObuUqp1D9BH5rSW1hRZ9S45AhzwKHk=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2023-05-01T15:45:32.846218Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURSbmZDMGxBRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURSbmZDMGxBRRAB!2m1!1s0x3442a96ec4675033:0xf696c342bbc40ac0"
+                    },
+                    {
+                        "name":  "places/ChIJM1BnxG6pQjQRwArEu0LDlvY/reviews/ChdDSUhNMG9nS0VJQ0FnSURBenF2enNBRRAB",
+                        "relativePublishTimeDescription":  "7 年前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "鄰近螺絲瑪麗\n沒收服務費加麵不加價\n也可以做外帶很多平日中午的優惠\n\n商業套餐60. 1130-1430\n玉米濃湯+麵包+飲料（紅茶\\奶茶\\咖啡）\n湯跟麵包我覺得中規中矩\n不會難吃不會地雷\n\n瑪格麗特披薩185\n餅皮均勻度很不好\n口感上不是很喜歡\n料倒是分佈的均勻\n想吃披薩可以過過癮\n普通想吃可以點\n\n辣味雞肉麵150\n點了大辣\n店員提醒是朝天椒我們表示同意\n結果送上來根本不辣超傻眼\n\n奶茶\n感覺是三合一粉泡奶茶\n大賣場的義美奶茶吧\n希望是店家特調\n不然我在家自己泡一杯沒幾塊錢\n所以覺得地雷\n\n整體感覺是滿舒服的\n店內環境整潔什麼的\n平日中午的餐點讓我覺得很超值優惠",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "鄰近螺絲瑪麗\n沒收服務費加麵不加價\n也可以做外帶很多平日中午的優惠\n\n商業套餐60. 1130-1430\n玉米濃湯+麵包+飲料（紅茶\\奶茶\\咖啡）\n湯跟麵包我覺得中規中矩\n不會難吃不會地雷\n\n瑪格麗特披薩185\n餅皮均勻度很不好\n口感上不是很喜歡\n料倒是分佈的均勻\n想吃披薩可以過過癮\n普通想吃可以點\n\n辣味雞肉麵150\n點了大辣\n店員提醒是朝天椒我們表示同意\n結果送上來根本不辣超傻眼\n\n奶茶\n感覺是三合一粉泡奶茶\n大賣場的義美奶茶吧\n希望是店家特調\n不然我在家自己泡一杯沒幾塊錢\n所以覺得地雷\n\n整體感覺是滿舒服的\n店內環境整潔什麼的\n平日中午的餐點讓我覺得很超值優惠",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "N U CHANG",
+                                                  "uri":  "https://www.google.com/maps/contrib/106320267148518600128/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUwzFRNNs9IbTXJZ_Hkn8JhBON1pvW4_Xu50Z3eMMnHkkQMaxNm=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2018-09-14T09:56:20.402947Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURBenF2enNBRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURBenF2enNBRRAB!2m1!1s0x3442a96ec4675033:0xf696c342bbc40ac0"
+                    },
+                    {
+                        "name":  "places/ChIJM1BnxG6pQjQRwArEu0LDlvY/reviews/ChZDSUhNMG9nS0VJQ0FnSUN3dUlMalF3EAE",
+                        "relativePublishTimeDescription":  "7 年前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "無意間經過的義大利麵店，\n對面就是羅斯瑪莉~\nPizza好吃~皮有嚼勁，\n但海鮮麵還好，蝦子感覺是冷凍蝦..\n可是可以免費加麵~\n算是經濟實惠!!",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "無意間經過的義大利麵店，\n對面就是羅斯瑪莉~\nPizza好吃~皮有嚼勁，\n但海鮮麵還好，蝦子感覺是冷凍蝦..\n可是可以免費加麵~\n算是經濟實惠!!",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Grace Chao",
+                                                  "uri":  "https://www.google.com/maps/contrib/116711138741968525792/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUftiaDzHUYzL6s70ZP18pw2Sm9B6nYgSmtFMv4rS9rtWXAKtYBTw=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2018-07-20T06:18:05.124Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN3dUlMalF3EAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN3dUlMalF3EAE!2m1!1s0x3442a96ec4675033:0xf696c342bbc40ac0"
+                    }
+                ]
+}

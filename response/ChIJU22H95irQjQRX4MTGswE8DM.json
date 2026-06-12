@@ -1,0 +1,133 @@
+﻿{
+    "id":  "ChIJU22H95irQjQRX4MTGswE8DM",
+    "types":  [
+                  "coffee_shop",
+                  "cafe",
+                  "food_store",
+                  "restaurant",
+                  "food",
+                  "store",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2775 1106",
+    "formattedAddress":  "106台灣臺北市大安區光武里復興南路一段107巷35號",
+    "location":  {
+                     "latitude":  25.043695,
+                     "longitude":  121.54582819999999
+                 },
+    "rating":  4.5,
+    "websiteUri":  "https://instagram.com/regulartaipeicafe",
+    "userRatingCount":  351,
+    "displayName":  {
+                        "text":  "台北日常咖啡商行 Regular Taipei cafe 優格 早餐",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJU22H95irQjQRX4MTGswE8DM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKWmMwSmplRlpuWldjdFMxWnFVa1U0U1VaRFprRRAB",
+                        "relativePublishTimeDescription":  "2 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "蘋果肉桂拿鐵很好喝，朋友說芭樂美式也好喝，而且咖啡可以選擇低咖啡因～店裡面的選項有寶寶奇諾，有廁所也有尿布檯！",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "蘋果肉桂拿鐵很好喝，朋友說芭樂美式也好喝，而且咖啡可以選擇低咖啡因～店裡面的選項有寶寶奇諾，有廁所也有尿布檯！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "張嘉凌",
+                                                  "uri":  "https://www.google.com/maps/contrib/104052149924643347984/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUKKxGv3D2TAeLSRf7iiVB2uG8SzToDbzzZCBP2TZ9x17cvOmo8Yw=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2026-02-27T08:27:59.562019488Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKWmMwSmplRlpuWldjdFMxWnFVa1U0U1VaRFprRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKWmMwSmplRlpuWldjdFMxWnFVa1U0U1VaRFprRRAB!2m1!1s0x3442ab98f7876d53:0x33f004cc1a13835f"
+                    },
+                    {
+                        "name":  "places/ChIJU22H95irQjQRX4MTGswE8DM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pnMFpWRkVWVEIwZFRGemFIaE5Uek5NV2tsUlZXYxAB",
+                        "relativePublishTimeDescription":  "8 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "原本安排好今天要去的店家臨時停電沒有營業，馬上開清單看附近有沒有其他儲存還沒跑的，就因此遇到了近期覺得很讚的蛋沙拉！屬於台系的濕度、偏日系的調味，個人喜好通常不會喜歡太濕的蛋沙拉（但也不愛太乾的），不過他們家就算濕卻保留足夠的蛋香，加了cheese提味加分👍沒有被美乃滋蓋掉，很棒！\n飲料點了芭樂美式，是比較天然健康不是濃縮液調出來的，還喝的到果粒那種，不過我本來預期會是很甜的，所以喝下去時稍微頓號一下🤣是好喝的啦 但不會被螞蟻人當首選～\n下次會想試試看佛卡夏，偷看隔壁桌的覺得很欠吃的好吃感\n不過今天用餐環境偏吵，如果想專心讀書辦公的這邊應該不是首選，想和朋友大聊特聊的話蠻不錯的，食物有甜有鹹選擇多樣。\n有插頭、有WiFi 、有廁所，客滿限時90分鐘，低消一杯飲料🥤",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "原本安排好今天要去的店家臨時停電沒有營業，馬上開清單看附近有沒有其他儲存還沒跑的，就因此遇到了近期覺得很讚的蛋沙拉！屬於台系的濕度、偏日系的調味，個人喜好通常不會喜歡太濕的蛋沙拉（但也不愛太乾的），不過他們家就算濕卻保留足夠的蛋香，加了cheese提味加分👍沒有被美乃滋蓋掉，很棒！\n飲料點了芭樂美式，是比較天然健康不是濃縮液調出來的，還喝的到果粒那種，不過我本來預期會是很甜的，所以喝下去時稍微頓號一下🤣是好喝的啦 但不會被螞蟻人當首選～\n下次會想試試看佛卡夏，偷看隔壁桌的覺得很欠吃的好吃感\n不過今天用餐環境偏吵，如果想專心讀書辦公的這邊應該不是首選，想和朋友大聊特聊的話蠻不錯的，食物有甜有鹹選擇多樣。\n有插頭、有WiFi 、有廁所，客滿限時90分鐘，低消一杯飲料🥤",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Lightning (蛋沙拉博士.芋頭碩士.生椰美士)",
+                                                  "uri":  "https://www.google.com/maps/contrib/110072671129431601460/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUVvZ0E-iVPonsFkJx0or8xg_h35dOb-hrpqf3WcoVrQSU2FuLaYw=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2025-09-05T12:53:17.387947599Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pnMFpWRkVWVEIwZFRGemFIaE5Uek5NV2tsUlZXYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pnMFpWRkVWVEIwZFRGemFIaE5Uek5NV2tsUlZXYxAB!2m1!1s0x3442ab98f7876d53:0x33f004cc1a13835f"
+                    },
+                    {
+                        "name":  "places/ChIJU22H95irQjQRX4MTGswE8DM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOcFdXOXRZMkZzUjJ4YVNVVktOMDVKVW1GclZuYxAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "心情不好的時候很適合來😊\n\n那天腳受傷走路不方便，早上又跟家人大吵一架，心情很煩躁，一踏進咖啡廳，店員很熱情的打招呼、停醒我小心走，平常掃碼點餐要先去櫃檯結帳，店員也很體諒我腳不方便，馬士示意我晚點再結帳沒關係\n\n點了拿鐵奶泡綿密與咖啡香味完美平衡，再加上一抬頭看到《今天的好心情由咖啡贊助》心情馬上就好起來了😊 就像牆上的標語 It’s a regular day in Taipei 想想好像又有勇氣去面對生活。\n\nPS.店家的Wi-Fi密碼也很可愛\n小地方都可見店家的貼心❤️\n點的蛋沙拉三明治也很有水準",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "心情不好的時候很適合來😊\n\n那天腳受傷走路不方便，早上又跟家人大吵一架，心情很煩躁，一踏進咖啡廳，店員很熱情的打招呼、停醒我小心走，平常掃碼點餐要先去櫃檯結帳，店員也很體諒我腳不方便，馬士示意我晚點再結帳沒關係\n\n點了拿鐵奶泡綿密與咖啡香味完美平衡，再加上一抬頭看到《今天的好心情由咖啡贊助》心情馬上就好起來了😊 就像牆上的標語 It’s a regular day in Taipei 想想好像又有勇氣去面對生活。\n\nPS.店家的Wi-Fi密碼也很可愛\n小地方都可見店家的貼心❤️\n點的蛋沙拉三明治也很有水準",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Huang Cynthia",
+                                                  "uri":  "https://www.google.com/maps/contrib/102425705228632719490/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocKxaDpxKETs6RoUvyGGw4k6yTa_TFk1iIDW-Ah7gCqI1BvMvw=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2025-12-11T02:34:57.837294542Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOcFdXOXRZMkZzUjJ4YVNVVktOMDVKVW1GclZuYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOcFdXOXRZMkZzUjJ4YVNVVktOMDVKVW1GclZuYxAB!2m1!1s0x3442ab98f7876d53:0x33f004cc1a13835f"
+                    },
+                    {
+                        "name":  "places/ChIJU22H95irQjQRX4MTGswE8DM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aTVlrbFdhMGhZVW5vdGNVNVRVamRTY0hGb09GRRAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "服務不錯，環境也算舒適。\n\n雞胸佛卡夏用料充足，口感豐富，麵包質感香脆。哥倫比亞豆冷萃咖啡味道相對較淡，香味一般。\n\n一共260台幣左右。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "服務不錯，環境也算舒適。\n\n雞胸佛卡夏用料充足，口感豐富，麵包質感香脆。哥倫比亞豆冷萃咖啡味道相對較淡，香味一般。\n\n一共260台幣左右。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "lafa ca",
+                                                  "uri":  "https://www.google.com/maps/contrib/107431684497404582479/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXEe14PqN2nfBWR8otoswDPUK5PY4aN0eyu4GQzdI5FfJbfY-xx=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2025-12-07T09:56:31.586001035Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aTVlrbFdhMGhZVW5vdGNVNVRVamRTY0hGb09GRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aTVlrbFdhMGhZVW5vdGNVNVRVamRTY0hGb09GRRAB!2m1!1s0x3442ab98f7876d53:0x33f004cc1a13835f"
+                    },
+                    {
+                        "name":  "places/ChIJU22H95irQjQRX4MTGswE8DM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paaVNYaFJObE5PYjBsaGEyTTVhM2RrVmxScmMyYxAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  2,
+                        "text":  {
+                                     "text":  "公司的餐盒加上飲料（NTD.300)\n裡面的餐點讓人非常空虛，這個價格，出這樣的點心….真的空。\n三明治很小 填充物很少\n布朗尼三小塊丁丁 大概都1.5-2公分不到\n起司蛋糕…正常。\n另一個雞胸佛卡夏夾蕃茄片跟蘋果片、雞胸也很小一塊。\n整個餐盒讓人傻眼。失望。\n\n服務不錯，環境也算舒適。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "公司的餐盒加上飲料（NTD.300)\n裡面的餐點讓人非常空虛，這個價格，出這樣的點心….真的空。\n三明治很小 填充物很少\n布朗尼三小塊丁丁 大概都1.5-2公分不到\n起司蛋糕…正常。\n另一個雞胸佛卡夏夾蕃茄片跟蘋果片、雞胸也很小一塊。\n整個餐盒讓人傻眼。失望。\n\n服務不錯，環境也算舒適。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Kueiying Liao",
+                                                  "uri":  "https://www.google.com/maps/contrib/100275516627471969172/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXNsiTYl098Mz94AdajORcMa-FYrua3WtEkKdxXCQgYKp-p2C96=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2026-02-09T03:06:06.650878904Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paaVNYaFJObE5PYjBsaGEyTTVhM2RrVmxScmMyYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paaVNYaFJObE5PYjBsaGEyTTVhM2RrVmxScmMyYxAB!2m1!1s0x3442ab98f7876d53:0x33f004cc1a13835f"
+                    }
+                ]
+}

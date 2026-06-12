@@ -1,0 +1,133 @@
+{
+  "id": "ChIJia7qaLusQjQRKvLJZQ-O7g4",
+  "types": [
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2633 8839",
+  "formattedAddress": "114台灣臺北市內湖區明湖里康寧路三段187號2樓",
+  "location": {
+    "latitude": 25.0699304,
+    "longitude": 121.61193709999999
+  },
+  "rating": 4,
+  "websiteUri": "http://www.ootoya.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 803,
+  "displayName": {
+    "text": "大戶屋東湖店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJia7qaLusQjQRKvLJZQ-O7g4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25velNuTlNlV3BWZHpGT2NFOUdhMEo2YUVkM2RHYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 2,
+      "text": {
+        "text": "來這裡吃過很多次了, 今天的腰內豬排…好黑, 而且不是完整的一塊, 像是拼湊起來的。腰內照理來說是比較嫩的, 但是…這裡的腰內好硬好柴也好乾, 第三張照片看起來明顯不是同一塊豬排, 有一塊偏白, 其他的偏黑, 外面那層皮炸得過久, 吃起來很燥。我請店員換份新的給我, 第二份是沒那麼黑, 但是依舊是拼湊的邊角, 而且炸過頭, 正常的豬排不是應該巴掌大小完整的橢圓形嗎? 照片上每一塊都是邊角… 我是食肉主義, 但是最後一塊豬排實在是吞不下去, 直接放棄。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "來這裡吃過很多次了, 今天的腰內豬排…好黑, 而且不是完整的一塊, 像是拼湊起來的。腰內照理來說是比較嫩的, 但是…這裡的腰內好硬好柴也好乾, 第三張照片看起來明顯不是同一塊豬排, 有一塊偏白, 其他的偏黑, 外面那層皮炸得過久, 吃起來很燥。我請店員換份新的給我, 第二份是沒那麼黑, 但是依舊是拼湊的邊角, 而且炸過頭, 正常的豬排不是應該巴掌大小完整的橢圓形嗎? 照片上每一塊都是邊角… 我是食肉主義, 但是最後一塊豬排實在是吞不下去, 直接放棄。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "MMC",
+        "uri": "https://www.google.com/maps/contrib/106449222212999975957/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUpc0KOsHC-AyE7SsVnI2ocRtGXF4hvKbToZO07C7I4K2Ra0hs=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-20T16:04:32.844018415Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25velNuTlNlV3BWZHpGT2NFOUdhMEo2YUVkM2RHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25velNuTlNlV3BWZHpGT2NFOUdhMEo2YUVkM2RHYxAB!2m1!1s0x3442acbb68eaae89:0xeee8e0f65c9f22a"
+    },
+    {
+      "name": "places/ChIJia7qaLusQjQRKvLJZQ-O7g4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxTFJWZExSRTFRVDB0Qk1HUkVkbWxpZERkdFIxRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "今天內用吃到的飯是黏的⋯不ok。上次外帶的5盒便當都是過鹹的味道，品質請加油",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天內用吃到的飯是黏的⋯不ok。上次外帶的5盒便當都是過鹹的味道，品質請加油",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Angela Tang",
+        "uri": "https://www.google.com/maps/contrib/100331562128673164072/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIsun_ZxRh-O8pq4rirAK3FLuOJ2XMpx-V9KRrJc8Iz22wiYA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-02T09:48:34.485530515Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxTFJWZExSRTFRVDB0Qk1HUkVkbWxpZERkdFIxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxTFJWZExSRTFRVDB0Qk1HUkVkbWxpZERkdFIxRRAB!2m1!1s0x3442acbb68eaae89:0xeee8e0f65c9f22a"
+    },
+    {
+      "name": "places/ChIJia7qaLusQjQRKvLJZQ-O7g4/reviews/Ci9DQUlRQUNvZENodHljRjlvT214aFlqaFBSVWRvZUhBeVNHd3pNVXMyZVdFek1IYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "10/30中午到店用餐，女性服務人員態度超好，聽到我們在討論選哪一道菜還主動介紹，上菜很快，午休期間來算安靜，白飯粒粒分明超好吃，主食、小菜也都不錯。\n\n結帳完離店不小心把識別證在位置上，同一位女服務人員還追出來🥺🥺🥺🥺，超級無敵感謝，真的是要哭了，一定會再來。(公司請嘉獎或加薪!!)",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "10/30中午到店用餐，女性服務人員態度超好，聽到我們在討論選哪一道菜還主動介紹，上菜很快，午休期間來算安靜，白飯粒粒分明超好吃，主食、小菜也都不錯。\n\n結帳完離店不小心把識別證在位置上，同一位女服務人員還追出來🥺🥺🥺🥺，超級無敵感謝，真的是要哭了，一定會再來。(公司請嘉獎或加薪!!)",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Tracy",
+        "uri": "https://www.google.com/maps/contrib/110452211329687281566/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXc2mxuUlMaMsCnCGtXbwJo-raMmH_-IunDtxo7DrHLGyBiAGtkbQ=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-11-03T07:35:52.458892291Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214aFlqaFBSVWRvZUhBeVNHd3pNVXMyZVdFek1IYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214aFlqaFBSVWRvZUhBeVNHd3pNVXMyZVdFek1IYxAB!2m1!1s0x3442acbb68eaae89:0xeee8e0f65c9f22a"
+    },
+    {
+      "name": "places/ChIJia7qaLusQjQRKvLJZQ-O7g4/reviews/Ci9DQUlRQUNvZENodHljRjlvT205c1VrUnNOVVZHVm5CalozaGhSV3N5U25WVlYwRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "1/11晚上7點多去用餐\n一進門就嚇了一跳，餐廳裡的客人比平常來的少\n店員說，應該是很多孩子都在家K書吧\n突然想起來，對耶！期末考快到了\n可愛的店員對著我身邊的孩子說\n「你應該是複習完才出來吃飯的吧」🤣\n整個用餐過程非常愉快，餐點也很好吃\n店員也都難得的輕鬆幽默可聊幾句\n雖然很希望每次來都能如此\n但，這樣下去老闆可能會不開心😅\n所以還是請東湖鄉親考完之後要繼續支持一下\n讓好店能繼續營運下去哦❤️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "1/11晚上7點多去用餐\n一進門就嚇了一跳，餐廳裡的客人比平常來的少\n店員說，應該是很多孩子都在家K書吧\n突然想起來，對耶！期末考快到了\n可愛的店員對著我身邊的孩子說\n「你應該是複習完才出來吃飯的吧」🤣\n整個用餐過程非常愉快，餐點也很好吃\n店員也都難得的輕鬆幽默可聊幾句\n雖然很希望每次來都能如此\n但，這樣下去老闆可能會不開心😅\n所以還是請東湖鄉親考完之後要繼續支持一下\n讓好店能繼續營運下去哦❤️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳怡舜",
+        "uri": "https://www.google.com/maps/contrib/114466873951357676476/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJJZdv0UBJgcXxaobCDSyTfx8zKBlP3YM1gqKVquVpopIfDhA=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-11T12:52:26.720617858Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205c1VrUnNOVVZHVm5CalozaGhSV3N5U25WVlYwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205c1VrUnNOVVZHVm5CalozaGhSV3N5U25WVlYwRRAB!2m1!1s0x3442acbb68eaae89:0xeee8e0f65c9f22a"
+    },
+    {
+      "name": "places/ChIJia7qaLusQjQRKvLJZQ-O7g4/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xZlNrVjRhVEU1TFhsTVl6UjVUVE5PVUVSaExYYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "初次來到東湖店，立馬認出以前在復興店微風店的店員。以往都是在吉林店用餐，自從歇業之後，很少進大戶屋。這次在東湖店用餐，很是滿意。餐點好吃、氣氛安靜，用餐環境很舒適。以後若有機會來附近，還會再來享用。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "初次來到東湖店，立馬認出以前在復興店微風店的店員。以往都是在吉林店用餐，自從歇業之後，很少進大戶屋。這次在東湖店用餐，很是滿意。餐點好吃、氣氛安靜，用餐環境很舒適。以後若有機會來附近，還會再來享用。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Maggie Huang",
+        "uri": "https://www.google.com/maps/contrib/102337266303547647960/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU7DLF0-bhy2MKtIACSIKYAHOjkHqFh4usuqN8KE5Ug5hhIVnP3SA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-09-04T10:44:21.384130779Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xZlNrVjRhVEU1TFhsTVl6UjVUVE5PVUVSaExYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xZlNrVjRhVEU1TFhsTVl6UjVUVE5PVUVSaExYYxAB!2m1!1s0x3442acbb68eaae89:0xeee8e0f65c9f22a"
+    }
+  ],
+  "menuForChildren": true,
+  "goodForChildren": true
+}

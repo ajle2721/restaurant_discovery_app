@@ -1,0 +1,134 @@
+{
+  "id": "ChIJ-xdRFYuuQjQRLkIxuLlhl3U",
+  "types": [
+    "brunch_restaurant",
+    "breakfast_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2822 1393",
+  "formattedAddress": "112台灣臺北市北投區東華里立農街二段285號",
+  "location": {
+    "latitude": 25.1188099,
+    "longitude": 121.51558079999998
+  },
+  "rating": 4.1,
+  "websiteUri": "https://morning-api.cinpos.com/line-online/scan/qrcode/696020",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 243,
+  "displayName": {
+    "text": "布咯漢堡 BURGER",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ-xdRFYuuQjQRLkIxuLlhl3U/reviews/Ci9DQUlRQUNvZENodHljRjlvT25abExYTTViSE41Y0VGTFdqUTJhREJVWXkwMFRIYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "臨近台北榮總 附近有很多家早餐店～\n餐點選擇很多 cp值高 有滿福堡 酥餅 河粉蛋餅 一般早餐店較少有的選項 店內生意不錯\n還有電视 上餐不會等很久 餐點不錯～\n不會太油！😉",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "臨近台北榮總 附近有很多家早餐店～\n餐點選擇很多 cp值高 有滿福堡 酥餅 河粉蛋餅 一般早餐店較少有的選項 店內生意不錯\n還有電视 上餐不會等很久 餐點不錯～\n不會太油！😉",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jennifer",
+        "uri": "https://www.google.com/maps/contrib/103972840051397729795/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJYZNh12gjzv1NtlPXR-Yh4HHY9fSYEPOFjXeJWeydkVeF18WJ2=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-10T23:36:54.201312536Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25abExYTTViSE41Y0VGTFdqUTJhREJVWXkwMFRIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25abExYTTViSE41Y0VGTFdqUTJhREJVWXkwMFRIYxAB!2m1!1s0x3442ae8b155117fb:0x759761b9b831422e"
+    },
+    {
+      "name": "places/ChIJ-xdRFYuuQjQRLkIxuLlhl3U/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psRmFWQmlMV3huVldGbWNIaHVkRkpVZVhkRlZHYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "早餐品項選擇多樣，口味還不錯，店家友善",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "早餐品項選擇多樣，口味還不錯，店家友善",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "litaPan",
+        "uri": "https://www.google.com/maps/contrib/116761993715047597582/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUPhJT1pS8c4I4uldTgPwG0swnk5fDSlH1U6xHFFuQdZBUOwCA=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-01-07T05:15:41.330572750Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psRmFWQmlMV3huVldGbWNIaHVkRkpVZVhkRlZHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psRmFWQmlMV3huVldGbWNIaHVkRkpVZVhkRlZHYxAB!2m1!1s0x3442ae8b155117fb:0x759761b9b831422e"
+    },
+    {
+      "name": "places/ChIJ-xdRFYuuQjQRLkIxuLlhl3U/reviews/ChdDSUhNMG9nS0VJM0RndlRPNk1EOW5nRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "很喜歡他們家的餐點\n尤其是特餐，不會因為特價就不好吃\n也可以看得出來一個老闆的善良跟用心\n\n每次都會點特餐，或是牛肉堡加蛋\n配上他們家的紅茶，他們家的熱紅茶\n我個人覺得非常好喝🥰\n\n我只要是去石牌榮總看診\n我一定會去他們家吃早餐",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很喜歡他們家的餐點\n尤其是特餐，不會因為特價就不好吃\n也可以看得出來一個老闆的善良跟用心\n\n每次都會點特餐，或是牛肉堡加蛋\n配上他們家的紅茶，他們家的熱紅茶\n我個人覺得非常好喝🥰\n\n我只要是去石牌榮總看診\n我一定會去他們家吃早餐",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Allen Lau",
+        "uri": "https://www.google.com/maps/contrib/113952640249116133484/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVU0R0LRvZnTO1qyk1LeuKv1KCguAgAbcvW6VUxx_7Tc4UYaKfM=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-05-28T14:48:49.180691Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJM0RndlRPNk1EOW5nRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJM0RndlRPNk1EOW5nRRAB!2m1!1s0x3442ae8b155117fb:0x759761b9b831422e"
+    },
+    {
+      "name": "places/ChIJ-xdRFYuuQjQRLkIxuLlhl3U/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CWlMyTlhOMUJ0TjFnMVVUVmtkR0pXTld4d1VXYxAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 3,
+      "text": {
+        "text": "（圖片已吃掉一塊）\n里肌河粉蛋餅 餅皮無味 整體很清淡\n蛋餅也是很清淡無味\n醬油膏是甜的 不是鹹的🥲\n不過價格是真的還不錯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "（圖片已吃掉一塊）\n里肌河粉蛋餅 餅皮無味 整體很清淡\n蛋餅也是很清淡無味\n醬油膏是甜的 不是鹹的🥲\n不過價格是真的還不錯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "楚珩霈",
+        "uri": "https://www.google.com/maps/contrib/105660971629792667391/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVouvHau0RzisMT-wmD-EwL2k-zoeMtOZ0dNS5R6dm840icpjRF=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-07-24T07:21:13.370169513Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CWlMyTlhOMUJ0TjFnMVVUVmtkR0pXTld4d1VXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CWlMyTlhOMUJ0TjFnMVVUVmtkR0pXTld4d1VXYxAB!2m1!1s0x3442ae8b155117fb:0x759761b9b831422e"
+    },
+    {
+      "name": "places/ChIJ-xdRFYuuQjQRLkIxuLlhl3U/reviews/ChdDSUhNMG9nS0VJQ0FnSUN4X2VtMW53RRAB",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 5,
+      "text": {
+        "text": "我點了《法式鮪魚吐司》＄55\n法式吐司上面居然還有撒奶粉 真的愛死\n外表吐司又軟又甜\n配上內餡的鹹香鮪魚\n真的好好吃～老闆娘人也很好喔",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "我點了《法式鮪魚吐司》＄55\n法式吐司上面居然還有撒奶粉 真的愛死\n外表吐司又軟又甜\n配上內餡的鹹香鮪魚\n真的好好吃～老闆娘人也很好喔",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳靖予",
+        "uri": "https://www.google.com/maps/contrib/116522338719139289057/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXCDxgPTmYi0pgrqke5Us2A3TVZHsVdGmJJPxhkumvmVwguKb4K=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2023-05-24T11:01:34.570849Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN4X2VtMW53RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN4X2VtMW53RRAB!2m1!1s0x3442ae8b155117fb:0x759761b9b831422e"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

@@ -1,0 +1,134 @@
+{
+  "id": "ChIJCW4NM-arQjQRjXDUDfKotew",
+  "types": [
+    "cafe",
+    "brunch_restaurant",
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2653 2693",
+  "formattedAddress": "115台灣臺北市南港區南港路一段43號",
+  "location": {
+    "latitude": 25.055062,
+    "longitude": 121.61638419999998
+  },
+  "rating": 4.5,
+  "websiteUri": "https://www.facebook.com/share/1Ba93MFEYT/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 379,
+  "displayName": {
+    "text": "宇啡商行Real cafė（準確營業時間請關注ig及臉書唷～感謝各位）",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJCW4NM-arQjQRjXDUDfKotew/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOQ1ZFdHVWRVY2VUZSYVVUTXljVzVVVDBseFVsRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "裝潢明亮、舒適，整體氛圍讓人放鬆。餐點選擇多樣，有輕食便當、生菜沙拉、三明治、咖啡、果汁等各類輕食，口味都還不錯，吃起來清爽不負擔。特別的是還提供素食選擇！是個適合簡單用餐或坐下來喝杯飲品的好地方。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "裝潢明亮、舒適，整體氛圍讓人放鬆。餐點選擇多樣，有輕食便當、生菜沙拉、三明治、咖啡、果汁等各類輕食，口味都還不錯，吃起來清爽不負擔。特別的是還提供素食選擇！是個適合簡單用餐或坐下來喝杯飲品的好地方。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chi Chi",
+        "uri": "https://www.google.com/maps/contrib/113576669966705004521/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZTznlTwhZtssvCcV4x69i5T4txAbrynQuL3jdVBCc38irLtit=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-11-25T13:15:37.443628459Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOQ1ZFdHVWRVY2VUZSYVVUTXljVzVVVDBseFVsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOQ1ZFdHVWRVY2VUZSYVVUTXljVzVVVDBseFVsRRAB!2m1!1s0x3442abe6330d6e09:0xecb5a8f20dd4708d"
+    },
+    {
+      "name": "places/ChIJCW4NM-arQjQRjXDUDfKotew/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SMVdHbzFRVlo2ZUc1YWJXSkpNMHhKUmxKM1FrRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第一次吃因為沒有厚片土司了所以單點了三明治跟飲料，已經覺得很好吃，但因為朋友點200套餐說很好吃，所以找一天特地來吃套餐，厚片土司真的讓我驚艷以及心心念念不忘，黑糖奶茶非常好喝，沒喝過黑咖聽說很順口說，南港品質好的餐廳不多，希望能長久開下去，我們才能吃到好吃的餐點，幸福下去😆。\n要說缺點，就是厚土司常常很早賣光🤣🤣⋯⋯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次吃因為沒有厚片土司了所以單點了三明治跟飲料，已經覺得很好吃，但因為朋友點200套餐說很好吃，所以找一天特地來吃套餐，厚片土司真的讓我驚艷以及心心念念不忘，黑糖奶茶非常好喝，沒喝過黑咖聽說很順口說，南港品質好的餐廳不多，希望能長久開下去，我們才能吃到好吃的餐點，幸福下去😆。\n要說缺點，就是厚土司常常很早賣光🤣🤣⋯⋯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ashley Change",
+        "uri": "https://www.google.com/maps/contrib/102231774729852177630/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWPSCAlJtVJxKV8wiPfllYXQ2bbj5HPTdGm9wbUHWfsRZ5pTNi8ug=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-09-25T06:34:29.257076561Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SMVdHbzFRVlo2ZUc1YWJXSkpNMHhKUmxKM1FrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SMVdHbzFRVlo2ZUc1YWJXSkpNMHhKUmxKM1FrRRAB!2m1!1s0x3442abe6330d6e09:0xecb5a8f20dd4708d"
+    },
+    {
+      "name": "places/ChIJCW4NM-arQjQRjXDUDfKotew/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SU1RFSnJhVmxYY2s4NWEzZEhWMU5LT0hkMWVVRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "是專業的咖啡店，餐點使用食材種類料理都非常用心，非咖啡因的飲料也很讚，店內的座位不多，卻常常滿席，同時有早餐供應，所以早上可以買咖啡早點，午餐可以去吃早午餐，一路營業到下午，一直是很愛光顧的愛店",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "是專業的咖啡店，餐點使用食材種類料理都非常用心，非咖啡因的飲料也很讚，店內的座位不多，卻常常滿席，同時有早餐供應，所以早上可以買咖啡早點，午餐可以去吃早午餐，一路營業到下午，一直是很愛光顧的愛店",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Annie Cheng",
+        "uri": "https://www.google.com/maps/contrib/103696944747363952957/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjURt2ESlyu2_LyuaZT8lMH2tCfRq00m2wYiwiRJlx4L-nN7KMzykw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-14T11:33:54.836835472Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SU1RFSnJhVmxYY2s4NWEzZEhWMU5LT0hkMWVVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SU1RFSnJhVmxYY2s4NWEzZEhWMU5LT0hkMWVVRRAB!2m1!1s0x3442abe6330d6e09:0xecb5a8f20dd4708d"
+    },
+    {
+      "name": "places/ChIJCW4NM-arQjQRjXDUDfKotew/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KV1owOVJkMkZ5VjBjNWFUVXdRVlpUWVZNM1JtYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "因為跟朋友約在附近，順路過來買杯鮮奶茶，喝完我感到大大的驚艷！\n很好喝！茶跟奶的比例抓的很好，而且牛奶的口感也很足夠，不會有很水的感覺！很棒！給五星！XDD",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "因為跟朋友約在附近，順路過來買杯鮮奶茶，喝完我感到大大的驚艷！\n很好喝！茶跟奶的比例抓的很好，而且牛奶的口感也很足夠，不會有很水的感覺！很棒！給五星！XDD",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "牆角",
+        "uri": "https://www.google.com/maps/contrib/101454959037645921891/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWxvG3gpV_7IVcY6e7Tmqpr4cUfxCWoM0DtufK5VVZaE_AoRnHA=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-31T01:55:53.471522343Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KV1owOVJkMkZ5VjBjNWFUVXdRVlpUWVZNM1JtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KV1owOVJkMkZ5VjBjNWFUVXdRVlpUWVZNM1JtYxAB!2m1!1s0x3442abe6330d6e09:0xecb5a8f20dd4708d"
+    },
+    {
+      "name": "places/ChIJCW4NM-arQjQRjXDUDfKotew/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kSlJ6WTBVV1ZDWVZkeVFrNXFTRTFoWXpsQlZtYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "雖說是逛展時為了找吃的才發現\n\n但不得不說，漢堡肉三明治真的好吃！\n\n可能擔心客人品嚐義式濃縮咖啡時，會有口感問題，還貼心的附上一杯氣泡水（還是原本就有的 XD）\n\n總之\n很適合在看展後到這裡沉澱心情，整理心得\n\n評價：9.1/10",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "雖說是逛展時為了找吃的才發現\n\n但不得不說，漢堡肉三明治真的好吃！\n\n可能擔心客人品嚐義式濃縮咖啡時，會有口感問題，還貼心的附上一杯氣泡水（還是原本就有的 XD）\n\n總之\n很適合在看展後到這裡沉澱心情，整理心得\n\n評價：9.1/10",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "李魚豪 Brian",
+        "uri": "https://www.google.com/maps/contrib/116606168834981764788/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW_pWo9MSFwkZkFCVNRDr8bbmYhzbLMgmg3yfBsS_URW_ypVGEA_A=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-19T09:47:22.936615226Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kSlJ6WTBVV1ZDWVZkeVFrNXFTRTFoWXpsQlZtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kSlJ6WTBVV1ZDWVZkeVFrNXFTRTFoWXpsQlZtYxAB!2m1!1s0x3442abe6330d6e09:0xecb5a8f20dd4708d"
+    }
+  ]
+}

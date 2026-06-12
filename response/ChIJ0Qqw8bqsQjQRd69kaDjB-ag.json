@@ -1,0 +1,133 @@
+{
+  "id": "ChIJ0Qqw8bqsQjQRd69kaDjB-ag",
+  "types": [
+    "pizza_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 987 493 088",
+  "formattedAddress": "114台灣臺北市內湖區安湖里東湖路113巷49弄43-1號",
+  "location": {
+    "latitude": 25.0695908,
+    "longitude": 121.6150969
+  },
+  "rating": 4.4,
+  "websiteUri": "https://www.facebook.com/buonopizza/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 397,
+  "displayName": {
+    "text": "Buono Pizza布諾手工窯烤披薩",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ0Qqw8bqsQjQRd69kaDjB-ag/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxRFMxTmZOemxxY1c5c2NEbFNXbWhSVWw5TVltYxAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 4,
+      "text": {
+        "text": "小兒子以前在對面山葉鋼琴學習，現在已大學畢業了～好久沒來買了，手工窯烤薄酥口感～馬格麗特，好吃😋海鮮批薩也不錯，我買各9吋共390元，偶爾想吃還是會回購的",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "小兒子以前在對面山葉鋼琴學習，現在已大學畢業了～好久沒來買了，手工窯烤薄酥口感～馬格麗特，好吃😋海鮮批薩也不錯，我買各9吋共390元，偶爾想吃還是會回購的",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "廖燕穗（花媽）",
+        "uri": "https://www.google.com/maps/contrib/114091044164532651730/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXzKCKiIAQp6QW5gTv7hFK71C-QNON4y4J_MuurxusjQzUTAvuL5g=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-07-30T08:14:07.863613979Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxRFMxTmZOemxxY1c5c2NEbFNXbWhSVWw5TVltYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxRFMxTmZOemxxY1c5c2NEbFNXbWhSVWw5TVltYxAB!2m1!1s0x3442acbaf1b00ad1:0xa8f9c1386864af77"
+    },
+    {
+      "name": "places/ChIJ0Qqw8bqsQjQRd69kaDjB-ag/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKQ05FcHZUM1ptV1dvMVpUVnBjVlpqVkhVM1JXYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 1,
+      "text": {
+        "text": "特地跑一趟跟妳買pizza，老闆娘態度惡劣到像是我欠妳好幾百萬一樣，我們問基本問題都被潑冷水、臭臉、瞪我們回應，被這樣無禮對待已經很不爽，我們忍住，現場等了至少半小時，給妳錢也不會說謝謝，有電話訂的客人來取餐態度就差十萬八千里，不想做新客生意就不要接啊！？\n羊奶pizza還可以，海鮮完全不行，只有小蝦仁還有不知什麼做成的一絲一絲的，吃過最難吃海鮮口味\n\n過年最差體驗，總之一次店",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "特地跑一趟跟妳買pizza，老闆娘態度惡劣到像是我欠妳好幾百萬一樣，我們問基本問題都被潑冷水、臭臉、瞪我們回應，被這樣無禮對待已經很不爽，我們忍住，現場等了至少半小時，給妳錢也不會說謝謝，有電話訂的客人來取餐態度就差十萬八千里，不想做新客生意就不要接啊！？\n羊奶pizza還可以，海鮮完全不行，只有小蝦仁還有不知什麼做成的一絲一絲的，吃過最難吃海鮮口味\n\n過年最差體驗，總之一次店",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Anna",
+        "uri": "https://www.google.com/maps/contrib/112458270239502530215/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKaQ-VRsEG5mDu-Vng1AVVDjharmuGd0yNkxpsM6nagB9Y6tg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-20T11:44:34.931818730Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKQ05FcHZUM1ptV1dvMVpUVnBjVlpqVkhVM1JXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKQ05FcHZUM1ptV1dvMVpUVnBjVlpqVkhVM1JXYxAB!2m1!1s0x3442acbaf1b00ad1:0xa8f9c1386864af77"
+    },
+    {
+      "name": "places/ChIJ0Qqw8bqsQjQRd69kaDjB-ag/reviews/ChZDSUhNMG9nS0VJQ0FnSUNRMXVxTVRBEAE",
+      "relativePublishTimeDescription": "8 年前",
+      "rating": 5,
+      "text": {
+        "text": "披薩餅皮薄脆可以吃到麵粉單純的香味，在披薩的調味上用料不會太複雜，可以吃到食材本身的原味，起司份量給的足夠，與主料搭配融洽，即使披薩冷掉了美味依舊不減，非常推薦愛吃披薩的人來嚐嚐。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "披薩餅皮薄脆可以吃到麵粉單純的香味，在披薩的調味上用料不會太複雜，可以吃到食材本身的原味，起司份量給的足夠，與主料搭配融洽，即使披薩冷掉了美味依舊不減，非常推薦愛吃披薩的人來嚐嚐。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "佐佐黃的美食玩樂評鑑",
+        "uri": "https://www.google.com/maps/contrib/116778004010697525300/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWlFuWVOkV1UfEsvRQyVqFd4LtexPDKTeIuIlqyKIMk7rOZ6zc=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2018-05-23T20:18:29.190Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNRMXVxTVRBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNRMXVxTVRBEAE!2m1!1s0x3442acbaf1b00ad1:0xa8f9c1386864af77"
+    },
+    {
+      "name": "places/ChIJ0Qqw8bqsQjQRd69kaDjB-ag/reviews/ChdDSUhNMG9nS0VJQ0FnSUNJM3FqMmlBRRAB",
+      "relativePublishTimeDescription": "7 年前",
+      "rating": 5,
+      "text": {
+        "text": "我所吃過的～東湖地區 最好的薄脆手工披薩！\n店很小，裏裏外外幾乎都只有老闆娘一個人，單純就是賣披薩，披薩，披薩！沒有其他任何品項了⋯\n既然是薄脆的披薩～想當然上面所能承載的用料就不可能像厚的披薩那般厚厚的一層，弄成那樣⋯那塊披薩還拿得起來嗎？\n這店～說真的是來吃巧的，而非讓你吃粗飽⋯倘若習慣吃厚厚餅皮的人～著實不推薦來這裡⋯\n12吋的手工薄脆披薩只要170～250⋯⋯夫復何求呢？\n雖然店內沒有什麼裝潢，但是在這種秋意濃濃的季節～坐在外面的木頭長椅上吃披薩～看著底下來來往往的行人，別有一番閒情逸致的感覺，享受一下假日的悠閒時光！\n由於店內最多2人，披薩也都現點、現做，建議去之前可以電話預購或點餐，店內有提供幾種飲料，也有洗手間可以使用哦～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "我所吃過的～東湖地區 最好的薄脆手工披薩！\n店很小，裏裏外外幾乎都只有老闆娘一個人，單純就是賣披薩，披薩，披薩！沒有其他任何品項了⋯\n既然是薄脆的披薩～想當然上面所能承載的用料就不可能像厚的披薩那般厚厚的一層，弄成那樣⋯那塊披薩還拿得起來嗎？\n這店～說真的是來吃巧的，而非讓你吃粗飽⋯倘若習慣吃厚厚餅皮的人～著實不推薦來這裡⋯\n12吋的手工薄脆披薩只要170～250⋯⋯夫復何求呢？\n雖然店內沒有什麼裝潢，但是在這種秋意濃濃的季節～坐在外面的木頭長椅上吃披薩～看著底下來來往往的行人，別有一番閒情逸致的感覺，享受一下假日的悠閒時光！\n由於店內最多2人，披薩也都現點、現做，建議去之前可以電話預購或點餐，店內有提供幾種飲料，也有洗手間可以使用哦～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "葉Sissel",
+        "uri": "https://www.google.com/maps/contrib/115017498799097808381/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXyz3QxMOuUAxu2bNt0rPsXbQeun8KyROBlUrpl0rDfWUwi9JdF=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2018-11-17T06:57:42.389806608Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNJM3FqMmlBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNJM3FqMmlBRRAB!2m1!1s0x3442acbaf1b00ad1:0xa8f9c1386864af77"
+    },
+    {
+      "name": "places/ChIJ0Qqw8bqsQjQRd69kaDjB-ag/reviews/ChdDSUhNMG9nS0VJQ0FnSURjaEotMDJ3RRAB",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 5,
+      "text": {
+        "text": "好吃的手工窯烤披薩，是老闆娘和助手在你眼前製作。\n薄皮口感佳，價格實在，值得推薦。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "好吃的手工窯烤披薩，是老闆娘和助手在你眼前製作。\n薄皮口感佳，價格實在，值得推薦。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張洸源",
+        "uri": "https://www.google.com/maps/contrib/116901695121509166618/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW2l3HDHtmfzyTTOf_vaAuZwUXTuJ5JuLv-4bY_IYxVBSVwnYDFiw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2023-05-14T14:31:12.592338Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURjaEotMDJ3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURjaEotMDJ3RRAB!2m1!1s0x3442acbaf1b00ad1:0xa8f9c1386864af77"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

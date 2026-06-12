@@ -1,0 +1,141 @@
+{
+  "id": "ChIJdZ60BserQjQR3cKEXVMVFBU",
+  "types": [
+    "pizza_restaurant",
+    "pizza_delivery",
+    "meal_delivery",
+    "food_delivery",
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2776 6600",
+  "formattedAddress": "10672台灣臺北市大安區華聲里忠孝東路四段341號2樓",
+  "location": {
+    "latitude": 25.0415562,
+    "longitude": 121.5573287
+  },
+  "rating": 4.2,
+  "websiteUri": "https://www.pizzahut.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 5866,
+  "displayName": {
+    "text": "必勝客 光復餐廳店",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJdZ60BserQjQR3cKEXVMVFBU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5VGMybENTMkYxV0Rkc1VXOXZNVkJLTWkxaWQxRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "2025年12月\n\n這是全台少見的必勝客吃到飽自助吧形式，對於想一次吃多樣品項的人來說蠻有吸引力。\n\n個人特別喜歡他們的烤雞系列，這次其實也是衝著烤雞來，Pizza 反而是搭配著吃。烤雞補菜速度算快，不過現場客人拿取速度也很快，建議可以稍微留意補餐時間，想吃熱門品項要抓一下節奏。\n\n保溫部分做得還不錯，義大利麵跟烤雞都有持續加熱；披薩的部分保溫感受就比較不明顯，有時候吃起來溫度偏常溫。\n\n披薩口味常態提供約四款葷食類，加上兩款甜點型 Pizza，選擇算基本盤。湯品是偏馬鈴薯風味的濃湯，個人比較不習慣，味道上也覺得偏淡、口感稍微偏稀，如果能再濃郁一點會更好。\n\n這次也多嘗試了自助吧的生菜沙拉，整體感覺比印象中進步不少，水果品項大約有三到四種，表現算穩定。\n\n價格確實不算便宜，但以吃到飽形式來說，如果是單純想吃雞肉跟披薩、輕鬆聚餐放鬆一下，整體體驗還不錯。時間到時若沒有候位客人，現場也不會刻意趕人，氛圍算舒服。\n\n整體而言，是偶爾想大口吃肉、吃披薩時可以考慮的選擇。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2025年12月\n\n這是全台少見的必勝客吃到飽自助吧形式，對於想一次吃多樣品項的人來說蠻有吸引力。\n\n個人特別喜歡他們的烤雞系列，這次其實也是衝著烤雞來，Pizza 反而是搭配著吃。烤雞補菜速度算快，不過現場客人拿取速度也很快，建議可以稍微留意補餐時間，想吃熱門品項要抓一下節奏。\n\n保溫部分做得還不錯，義大利麵跟烤雞都有持續加熱；披薩的部分保溫感受就比較不明顯，有時候吃起來溫度偏常溫。\n\n披薩口味常態提供約四款葷食類，加上兩款甜點型 Pizza，選擇算基本盤。湯品是偏馬鈴薯風味的濃湯，個人比較不習慣，味道上也覺得偏淡、口感稍微偏稀，如果能再濃郁一點會更好。\n\n這次也多嘗試了自助吧的生菜沙拉，整體感覺比印象中進步不少，水果品項大約有三到四種，表現算穩定。\n\n價格確實不算便宜，但以吃到飽形式來說，如果是單純想吃雞肉跟披薩、輕鬆聚餐放鬆一下，整體體驗還不錯。時間到時若沒有候位客人，現場也不會刻意趕人，氛圍算舒服。\n\n整體而言，是偶爾想大口吃肉、吃披薩時可以考慮的選擇。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張書銘",
+        "uri": "https://www.google.com/maps/contrib/115219580605788454946/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3qOlRqBoLGRYVO1zI6o2bHmo4ktXi_9_XkVMswvmB3INBtlo=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-19T15:10:14.712029393Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5VGMybENTMkYxV0Rkc1VXOXZNVkJLTWkxaWQxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5VGMybENTMkYxV0Rkc1VXOXZNVkJLTWkxaWQxRRAB!2m1!1s0x3442abc706b49e75:0x151415535d84c2dd"
+    },
+    {
+      "name": "places/ChIJdZ60BserQjQR3cKEXVMVFBU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsRFJGWkdURll5UXpsWFUyZGthbEl6T0UxRk1WRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "平日不限午晚餐$479 假日$529 要一成服務費\n\n評論大多說不能訂位 但實際上可以電話預訂 保留十分鐘 人沒到齊可以先進場 但時間照樣開始計時（本次用餐為平日晚餐  可能假日不能訂四）\n平日晚餐會客滿 ‼️ 不過沒有到大排隊的程度 門外少少的幾組人在等\n\n座位蠻多的 因為二樓轉角店面 所以有兩條路的靠窗座位\n大多為二或四人桌 最適合2~4人用餐了\n入口在忠孝東路這側\n➡️機車停車方面 街景是舊的 門前已經都不能停了 要停忠孝東路對向 或者光復南路南下方向\n\n用餐限時90min\n\n內用乾淨廁所\n\n披薩大約8~12種口味 8個盤子 有的盤子上會放不只一種口味 有薄皮的有厚皮的 有芝心餅皮\n水果新鮮好吃 有甜\n巧克力布朗尼好吃\n烤雞好吃\n脆薯普通 而且補貨慢\n湯還蠻燙的 好像沒有胡椒可以撒\n\n可以留意有沒有優惠代碼 可以免服務費 不過好像要事先講",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "平日不限午晚餐$479 假日$529 要一成服務費\n\n評論大多說不能訂位 但實際上可以電話預訂 保留十分鐘 人沒到齊可以先進場 但時間照樣開始計時（本次用餐為平日晚餐  可能假日不能訂四）\n平日晚餐會客滿 ‼️ 不過沒有到大排隊的程度 門外少少的幾組人在等\n\n座位蠻多的 因為二樓轉角店面 所以有兩條路的靠窗座位\n大多為二或四人桌 最適合2~4人用餐了\n入口在忠孝東路這側\n➡️機車停車方面 街景是舊的 門前已經都不能停了 要停忠孝東路對向 或者光復南路南下方向\n\n用餐限時90min\n\n內用乾淨廁所\n\n披薩大約8~12種口味 8個盤子 有的盤子上會放不只一種口味 有薄皮的有厚皮的 有芝心餅皮\n水果新鮮好吃 有甜\n巧克力布朗尼好吃\n烤雞好吃\n脆薯普通 而且補貨慢\n湯還蠻燙的 好像沒有胡椒可以撒\n\n可以留意有沒有優惠代碼 可以免服務費 不過好像要事先講",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "吉姆車",
+        "uri": "https://www.google.com/maps/contrib/109474986384391180907/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWhXTP_3mdgIaNR3UQWpKppB-oGYAs2m8eh0um5hmU_vgn5XU1QUg=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-02-02T18:12:35.424210092Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsRFJGWkdURll5UXpsWFUyZGthbEl6T0UxRk1WRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsRFJGWkdURll5UXpsWFUyZGthbEl6T0UxRk1WRRAB!2m1!1s0x3442abc706b49e75:0x151415535d84c2dd"
+    },
+    {
+      "name": "places/ChIJdZ60BserQjQR3cKEXVMVFBU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSbWVteE9UVzFDVTJJeGEzWXdWVkIzU2sxVmJXYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "造訪時間1600-1730\n人數二大二小\n用餐時間90分鐘，\n原則上足夠\n因為品項披薩，頓飯，義大利麵，烤雞\n都是容易有飽足感，\n口味，還是維持傳統\n服務人員，清潔快速親切\n布朗尼不錯\n玉米湯，有麥當勞的感覺\n沙拉吧，中規中矩\n大人價格，還可以\n小孩價格，划算！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "造訪時間1600-1730\n人數二大二小\n用餐時間90分鐘，\n原則上足夠\n因為品項披薩，頓飯，義大利麵，烤雞\n都是容易有飽足感，\n口味，還是維持傳統\n服務人員，清潔快速親切\n布朗尼不錯\n玉米湯，有麥當勞的感覺\n沙拉吧，中規中矩\n大人價格，還可以\n小孩價格，划算！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林小凱",
+        "uri": "https://www.google.com/maps/contrib/100165474627234116483/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVYarxOvMPkhzgQKyLwNSIRAGHTPkLSYqpcr3u4JvpFX9IoCwx9IQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-24T09:39:22.032981259Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSbWVteE9UVzFDVTJJeGEzWXdWVkIzU2sxVmJXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSbWVteE9UVzFDVTJJeGEzWXdWVkIzU2sxVmJXYxAB!2m1!1s0x3442abc706b49e75:0x151415535d84c2dd"
+    },
+    {
+      "name": "places/ChIJdZ60BserQjQR3cKEXVMVFBU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5blJHVkJNVzh6UTA1VmR6bEVWbkZYVkhCbVozYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "兒時的記憶回來啦！\n只不過在訂位上好像變困難了，候位區不大，卻擠滿了人……\n📍店內環境\n好久好久好久沒來了，自助吧內容跟以前差不多（尤其是冷盤區），只不過水果的種類變少了。店內座位很多，但整體動線有點擁擠，區域之間的走道又比較窄，所以有點不順。不過廁所很乾淨！服務人員也很親切。\n📍餐點\n基本上味道和以前沒什麼變化，但我家人都說披薩的餅皮比以前厚了許多（抱歉，我不記得以前的厚度了XD）\n蕃茄蔬菜湯的味道跟以前一模一樣哈哈～\n\n歡樂吧是我兒時的重要回憶，如今重溫，自然很開心！\n可以嚐鮮，也可以回味，但人潮多，希望動線設置得以有所改善🙏",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "兒時的記憶回來啦！\n只不過在訂位上好像變困難了，候位區不大，卻擠滿了人……\n📍店內環境\n好久好久好久沒來了，自助吧內容跟以前差不多（尤其是冷盤區），只不過水果的種類變少了。店內座位很多，但整體動線有點擁擠，區域之間的走道又比較窄，所以有點不順。不過廁所很乾淨！服務人員也很親切。\n📍餐點\n基本上味道和以前沒什麼變化，但我家人都說披薩的餅皮比以前厚了許多（抱歉，我不記得以前的厚度了XD）\n蕃茄蔬菜湯的味道跟以前一模一樣哈哈～\n\n歡樂吧是我兒時的重要回憶，如今重溫，自然很開心！\n可以嚐鮮，也可以回味，但人潮多，希望動線設置得以有所改善🙏",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "上官鳶",
+        "uri": "https://www.google.com/maps/contrib/102179595794179537093/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX2bdrOxaqCVElhfZeemASYjEyhkFCIw4X7HlIEQ7W7AvW1avGnAA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-04T07:24:31.097667035Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5blJHVkJNVzh6UTA1VmR6bEVWbkZYVkhCbVozYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5blJHVkJNVzh6UTA1VmR6bEVWbkZYVkhCbVozYxAB!2m1!1s0x3442abc706b49e75:0x151415535d84c2dd"
+    },
+    {
+      "name": "places/ChIJdZ60BserQjQR3cKEXVMVFBU/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CRU9WUm5lSGh3YkZwYU5rWlVaSGRvT0ZKU1EwRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 3,
+      "text": {
+        "text": "2025.11.16\n必勝客目前全台僅剩這家歡樂吧吃到飽,聽說歷經三週整修後在昨天正式回歸了,因店家不接受訂位於是今日現場約14:40去候位拿到119號😅候補第6,還好在外面候位區坐不到10分鐘幸運入場,家聚隨即展開限時90分鐘開吃享食,漲價30元後假日每位NT529(另加服務費10%)吃了幾盤&飲品的心得:烤雞切塊是以前的1/2大,等於要吃兩塊才約是以前的一大塊,且肉稍過乾柴不比以前那juice程度了!唯柳橙汁不是沖泡像是現壓榨的原汁,加了些冰塊後更好喝棒極了!👍(連喝兩杯),其他汽泡糖水可樂都省略免嚐了!😅臨走前最後來一杯拿鐵無糖咖啡當是下午茶囉!😆\n#烤雞吃12塊約以前的6塊比薩品項也變少了😒\n#吃了一片有加芝心起士當是抵那漲價的心情😌",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2025.11.16\n必勝客目前全台僅剩這家歡樂吧吃到飽,聽說歷經三週整修後在昨天正式回歸了,因店家不接受訂位於是今日現場約14:40去候位拿到119號😅候補第6,還好在外面候位區坐不到10分鐘幸運入場,家聚隨即展開限時90分鐘開吃享食,漲價30元後假日每位NT529(另加服務費10%)吃了幾盤&飲品的心得:烤雞切塊是以前的1/2大,等於要吃兩塊才約是以前的一大塊,且肉稍過乾柴不比以前那juice程度了!唯柳橙汁不是沖泡像是現壓榨的原汁,加了些冰塊後更好喝棒極了!👍(連喝兩杯),其他汽泡糖水可樂都省略免嚐了!😅臨走前最後來一杯拿鐵無糖咖啡當是下午茶囉!😆\n#烤雞吃12塊約以前的6塊比薩品項也變少了😒\n#吃了一片有加芝心起士當是抵那漲價的心情😌",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Thomas Hsu",
+        "uri": "https://www.google.com/maps/contrib/104536134692684666089/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV6n0B3eqn14nggDulgdh1Q9YzqABGO6wE_Nglfh898vPX4mX8owg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-27T01:22:05.919435228Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CRU9WUm5lSGh3YkZwYU5rWlVaSGRvT0ZKU1EwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CRU9WUm5lSGh3YkZwYU5rWlVaSGRvT0ZKU1EwRRAB!2m1!1s0x3442abc706b49e75:0x151415535d84c2dd"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

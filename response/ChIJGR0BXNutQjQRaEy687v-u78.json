@@ -1,0 +1,131 @@
+﻿{
+    "id":  "ChIJGR0BXNutQjQRaEy687v-u78",
+    "types":  [
+                  "restaurant",
+                  "food_store",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 8751 5251",
+    "formattedAddress":  "114台灣臺北市內湖區港墘里港墘路161號",
+    "location":  {
+                     "latitude":  25.0769126,
+                     "longitude":  121.5755186
+                 },
+    "rating":  4.6,
+    "websiteUri":  "https://go.wahsay.com/line-gmap",
+    "userRatingCount":  376,
+    "displayName":  {
+                        "text":  "Pasta à Pepe 佩佩奶奶大份量義大利麵 內科港墘店",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJGR0BXNutQjQRaEy687v-u78/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xFd2JIaGhlbXhqTmw5UGNrRnFiMVJYT1RSTk1tYxAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "外帶包裝有用保溫袋包著\n因此即使在寒冷的天氣帶著回到公司\n依然可以保有溫溫的美味\n也是附近少數假日有開門的店\n對於假日要上班的人來說 是一大福音\n整體價格也相當合理 食物也好吃 份量也足\n除了店內空間稍微狹窄了一點外\n其他各方面都相當不錯的店\n會願意再度光顧",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "外帶包裝有用保溫袋包著\n因此即使在寒冷的天氣帶著回到公司\n依然可以保有溫溫的美味\n也是附近少數假日有開門的店\n對於假日要上班的人來說 是一大福音\n整體價格也相當合理 食物也好吃 份量也足\n除了店內空間稍微狹窄了一點外\n其他各方面都相當不錯的店\n會願意再度光顧",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "蔡宜倫",
+                                                  "uri":  "https://www.google.com/maps/contrib/113690523482285506593/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocIsZxqXfxivHmo_dK1SDzBB-XKD2RTQZUb8301v3yb2oWDJ6g=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2026-02-07T10:09:40.966018704Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xFd2JIaGhlbXhqTmw5UGNrRnFiMVJYT1RSTk1tYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xFd2JIaGhlbXhqTmw5UGNrRnFiMVJYT1RSTk1tYxAB!2m1!1s0x3442addb5c011d19:0xbfbbfebbf3ba4c68"
+                    },
+                    {
+                        "name":  "places/ChIJGR0BXNutQjQRaEy687v-u78/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkeFJFWXphRTVmUlVjeGVXdG1ibXQyYTI1YVJFRRAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  1,
+                        "text":  {
+                                     "text":  "不推薦來吃\n\n乾炒香蒜義大利麵炒的辣椒籽都在麵上，每一口都超級辣，朋友民生東路的辣度剛剛好，這家根本亂搞。\n\n炸雞咖哩完全是冷的，飯、咖哩就連炸雞都可以是冷的，這家不知道是不是週六來吃超級不值得，就算再給我一次100元折價卷，也不會來吃的雷店",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "不推薦來吃\n\n乾炒香蒜義大利麵炒的辣椒籽都在麵上，每一口都超級辣，朋友民生東路的辣度剛剛好，這家根本亂搞。\n\n炸雞咖哩完全是冷的，飯、咖哩就連炸雞都可以是冷的，這家不知道是不是週六來吃超級不值得，就算再給我一次100元折價卷，也不會來吃的雷店",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "P AP",
+                                                  "uri":  "https://www.google.com/maps/contrib/116973895615779433946/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocKD6ech8wMV1Ofkn8Z4c51JMIfpuwuMW9iNXbqBrp1ggQSGag=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2025-12-27T11:37:41.833680339Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkeFJFWXphRTVmUlVjeGVXdG1ibXQyYTI1YVJFRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkeFJFWXphRTVmUlVjeGVXdG1ibXQyYTI1YVJFRRAB!2m1!1s0x3442addb5c011d19:0xbfbbfebbf3ba4c68"
+                    },
+                    {
+                        "name":  "places/ChIJGR0BXNutQjQRaEy687v-u78/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCQlYyNUhVRXRRYVVWelVrWkhiR0ZDV25CdU1HYxAB",
+                        "relativePublishTimeDescription":  "6 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "下午時段外帶招牌松露義大利麵和金黃酥炸雞翅.\n前者香氣濃郁, 即使放在密閉的袋中, 回家上樓時電梯滿洩著松露的香氣. 包括炸雞翅, 雖然食用時不到驚豔的地步, 整體來說還是不錯吃.\n罕見與驚喜的是, 外帶包裝居然給的是保溫袋, 領餐到回家食用時已隔1個半小時, 沒想到還是溫熱的, 省了微波的程序, 值得給6星.",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "下午時段外帶招牌松露義大利麵和金黃酥炸雞翅.\n前者香氣濃郁, 即使放在密閉的袋中, 回家上樓時電梯滿洩著松露的香氣. 包括炸雞翅, 雖然食用時不到驚豔的地步, 整體來說還是不錯吃.\n罕見與驚喜的是, 外帶包裝居然給的是保溫袋, 領餐到回家食用時已隔1個半小時, 沒想到還是溫熱的, 省了微波的程序, 值得給6星.",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "YL.J L",
+                                                  "uri":  "https://www.google.com/maps/contrib/108454606358360678664/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjX7XHcemJyCXURbT8J5vPKwUAWTwpg01-xB3R-pTcKKkfGA4DdO=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-11-10T16:06:14.382431513Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCQlYyNUhVRXRRYVVWelVrWkhiR0ZDV25CdU1HYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCQlYyNUhVRXRRYVVWelVrWkhiR0ZDV25CdU1HYxAB!2m1!1s0x3442addb5c011d19:0xbfbbfebbf3ba4c68"
+                    },
+                    {
+                        "name":  "places/ChIJGR0BXNutQjQRaEy687v-u78/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5VmRFbFJNRVJGTFVaNVZXazRTRUo0ZVdkMFRtYxAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "從在ubereats下單到拿到，差不多等了約一小時，有點久...不過，今天下著細雨，天氣很冷，所以，非常謝謝服務態度很好的外送人員！真是辛苦了！\n\n我是點招牌松露義大利麵，加購香嫩炸雞塊，結果，我會錯意了，沒想到這雞塊竟然是像麥當勞的麥克雞塊的那種雞塊...我還以為是真的炸雞那種雞塊...\n\n松露義大利麵的份量還不錯，可以讓一般人吃飽，不過，義大利麵條煮的太過軟爛了，感覺不是現煮麵條，而是再覆熱的那種，所以，口感才會過於軟爛...真的有些可惜！松露醬汁味道平平，不似其他評價般的濃郁，可能也是我自己想太多了...個人小小的建議，麵條可以不要煮這麼軟...\n\n這次拿到的外送包裝，是要價30元的紅色聖誕保溫袋，但因為餐點有超過200元，所以，免費！可以重複使用，很好很環保...不過，可能煮好等太久才有外送人員，加上天氣很冷，所以，我拿到時已經只剩一些溫度了...",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "從在ubereats下單到拿到，差不多等了約一小時，有點久...不過，今天下著細雨，天氣很冷，所以，非常謝謝服務態度很好的外送人員！真是辛苦了！\n\n我是點招牌松露義大利麵，加購香嫩炸雞塊，結果，我會錯意了，沒想到這雞塊竟然是像麥當勞的麥克雞塊的那種雞塊...我還以為是真的炸雞那種雞塊...\n\n松露義大利麵的份量還不錯，可以讓一般人吃飽，不過，義大利麵條煮的太過軟爛了，感覺不是現煮麵條，而是再覆熱的那種，所以，口感才會過於軟爛...真的有些可惜！松露醬汁味道平平，不似其他評價般的濃郁，可能也是我自己想太多了...個人小小的建議，麵條可以不要煮這麼軟...\n\n這次拿到的外送包裝，是要價30元的紅色聖誕保溫袋，但因為餐點有超過200元，所以，免費！可以重複使用，很好很環保...不過，可能煮好等太久才有外送人員，加上天氣很冷，所以，我拿到時已經只剩一些溫度了...",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Kimberley Wu吳亞亞",
+                                                  "uri":  "https://www.google.com/maps/contrib/109782987499190023742/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocKE_E3lUzjjuFdLFv-iAbBYip9hVgp_ziqjsA5GXqTkvFemwlI=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-12-30T13:51:32.958041165Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5VmRFbFJNRVJGTFVaNVZXazRTRUo0ZVdkMFRtYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5VmRFbFJNRVJGTFVaNVZXazRTRUo0ZVdkMFRtYxAB!2m1!1s0x3442addb5c011d19:0xbfbbfebbf3ba4c68"
+                    },
+                    {
+                        "name":  "places/ChIJGR0BXNutQjQRaEy687v-u78/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poTFJIVlRiRlUyUzFoM00xRmpaalpZTVdWS1FtYxAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  3,
+                        "text":  {
+                                     "text":  "第一次購買此家\n點外送...買了+麵款 完全沒味道\n還得加甜辣醬提味\n汁完全不見....\n也許內用美味 但外送的餐點也該調整一下....",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "第一次購買此家\n點外送...買了+麵款 完全沒味道\n還得加甜辣醬提味\n汁完全不見....\n也許內用美味 但外送的餐點也該調整一下....",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Rain Lin",
+                                                  "uri":  "https://www.google.com/maps/contrib/106447087947473323775/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVKAAM9mKjCPC5zlN3Z8oT2BIyThGV5DxzNgbPvqlJLIbWJptQsCA=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2025-12-19T05:57:29.390192111Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poTFJIVlRiRlUyUzFoM00xRmpaalpZTVdWS1FtYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poTFJIVlRiRlUyUzFoM00xRmpaalpZTVdWS1FtYxAB!2m1!1s0x3442addb5c011d19:0xbfbbfebbf3ba4c68"
+                    }
+                ]
+}

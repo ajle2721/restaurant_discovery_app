@@ -1,0 +1,136 @@
+{
+  "id": "ChIJozVmlq2rQjQRdEDj-K0Sd7I",
+  "types": [
+    "bistro",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2507 6000",
+  "formattedAddress": "105台灣臺北市松山區敦化里八德路三段12巷15-1號",
+  "location": {
+    "latitude": 25.046754699999997,
+    "longitude": 121.55079739999998
+  },
+  "rating": 4.7,
+  "websiteUri": "https://yinhomefood.weebly.com/",
+  "userRatingCount": 1799,
+  "displayName": {
+    "text": "鄞家食堂",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Straightforward eatery preparing local staples including fish, meat dishes, soups & noodles.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJozVmlq2rQjQRdEDj-K0Sd7I/reviews/Ci9DQUlRQUNvZENodHljRjlvT21jeU1uWjVaR00wV2xGd1dHWjZZVGRsZUV4MVVIYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "套餐價格實惠，環境清爽乾淨！口味水準之上，量豐，聽著店家放的中文歌曲（華語光輝年代的歌），覺得午餐時光很愉悅。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "套餐價格實惠，環境清爽乾淨！口味水準之上，量豐，聽著店家放的中文歌曲（華語光輝年代的歌），覺得午餐時光很愉悅。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "梁榮復",
+        "uri": "https://www.google.com/maps/contrib/111872597287558424502/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUuI_SAoiV7Q5cynl_CmDmF6D7Rm7aklQC-zihMheux8NI2tqg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-26T04:43:51.482306300Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21jeU1uWjVaR00wV2xGd1dHWjZZVGRsZUV4MVVIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21jeU1uWjVaR00wV2xGd1dHWjZZVGRsZUV4MVVIYxAB!2m1!1s0x3442abad966635a3:0xb27712adf8e34074"
+    },
+    {
+      "name": "places/ChIJozVmlq2rQjQRdEDj-K0Sd7I/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKTU5taG1aRFkyZGpaR2VGcHVSMkZmT1VKRGVtYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點口味佳，且以其地段而言價格算經濟實惠。推魚皮湯！可點套餐，其中有燙青菜。內用環境佳。\nACT23",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點口味佳，且以其地段而言價格算經濟實惠。推魚皮湯！可點套餐，其中有燙青菜。內用環境佳。\nACT23",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jason YiZhen Lin",
+        "uri": "https://www.google.com/maps/contrib/103939476763483479537/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWcVJ4ipT1dkLN1jW0sIVcEPJUvuti8aeyLtJPHChUA3yYX5lrHCA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-02-20T17:42:16.199165721Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKTU5taG1aRFkyZGpaR2VGcHVSMkZmT1VKRGVtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKTU5taG1aRFkyZGpaR2VGcHVSMkZmT1VKRGVtYxAB!2m1!1s0x3442abad966635a3:0xb27712adf8e34074"
+    },
+    {
+      "name": "places/ChIJozVmlq2rQjQRdEDj-K0Sd7I/reviews/Ci9DQUlRQUNvZENodHljRjlvT21adE9XMTZabE5HVkZCNVpWQjJSemg0VG5FM1JuYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "臭豆腐挺臭的\n還蠻好吃\n烤魚我愛得要命 好好吃 🤤\n整體來說行\n有很多魚類可以點 愛吃魚的可以來",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "臭豆腐挺臭的\n還蠻好吃\n烤魚我愛得要命 好好吃 🤤\n整體來說行\n有很多魚類可以點 愛吃魚的可以來",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "吳小咪",
+        "uri": "https://www.google.com/maps/contrib/111596001979233725689/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZit1X1x1vtgGAGWulMM1khYl4dFo0jT-VqmeIhJCbxSupSt02=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-10T07:23:48.971513330Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21adE9XMTZabE5HVkZCNVpWQjJSemg0VG5FM1JuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21adE9XMTZabE5HVkZCNVpWQjJSemg0VG5FM1JuYxAB!2m1!1s0x3442abad966635a3:0xb27712adf8e34074"
+    },
+    {
+      "name": "places/ChIJozVmlq2rQjQRdEDj-K0Sd7I/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5emIxVmlSMnRwWkRSdmIzQndWRFZxY0ZoSFRuYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "多種鮮魚可挑選 在北市來說 相對低價\n整體口味 也還不錯 😋",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "多種鮮魚可挑選 在北市來說 相對低價\n整體口味 也還不錯 😋",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chen Terry",
+        "uri": "https://www.google.com/maps/contrib/109582502200107206277/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBPEEeftvIm0-opTlf1xk5ppiE0dE-X6yaPNmlq2ZgzNtZUo8=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-08T01:26:09.722893294Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5emIxVmlSMnRwWkRSdmIzQndWRFZxY0ZoSFRuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5emIxVmlSMnRwWkRSdmIzQndWRFZxY0ZoSFRuYxAB!2m1!1s0x3442abad966635a3:0xb27712adf8e34074"
+    },
+    {
+      "name": "places/ChIJozVmlq2rQjQRdEDj-K0Sd7I/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xnNWEyaDRTM1ZvTVd4WFNVUm9aREJGWkZJMmJsRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "推臭豆腐好吃、燙青菜也不錯。魚皮湯魚肉新鮮，只不過湯有點沒味道。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "推臭豆腐好吃、燙青菜也不錯。魚皮湯魚肉新鮮，只不過湯有點沒味道。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Mars Hong",
+        "uri": "https://www.google.com/maps/contrib/105679298864670777602/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJvZtkJrKbWGl9UqPUvKsGhhexa1Tfygby0mQIB_p_CataLfQ=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-07T14:53:19.254339933Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xnNWEyaDRTM1ZvTVd4WFNVUm9aREJGWkZJMmJsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xnNWEyaDRTM1ZvTVd4WFNVUm9aREJGWkZJMmJsRRAB!2m1!1s0x3442abad966635a3:0xb27712adf8e34074"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

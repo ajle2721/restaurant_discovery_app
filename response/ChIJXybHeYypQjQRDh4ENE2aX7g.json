@@ -1,0 +1,137 @@
+{
+  "id": "ChIJXybHeYypQjQRDh4ENE2aX7g",
+  "types": [
+    "brunch_restaurant",
+    "middle_eastern_restaurant",
+    "meal_takeaway",
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2511 5787",
+  "formattedAddress": "104001台灣臺北市中山區民安里華陰街26號",
+  "location": {
+    "latitude": 25.0491681,
+    "longitude": 121.5197858
+  },
+  "rating": 4.1,
+  "websiteUri": "https://www.facebook.com/islandwoodbreakfast/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1169,
+  "displayName": {
+    "text": "嶼木islandwood",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJXybHeYypQjQRDh4ENE2aX7g/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oZmRXaHNTV3B0TTA1emRuVlhaa2RSY25JNVNIYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "每次經過嶼木總是聚集著排隊人潮，這回下定決心就算要排隊也要吃看看。\n\n室內座位算多，但桌距蠻近的，會感到擁擠；用餐限時90分鐘、無收取服務費。\n\n🔸️孜然羊肉酸奶辣醬捲 烤餅 $215\n烤餅富有彈性，嚼起來很香，孜然風味羊肉搭配酸奶辣醬好搭好美味，是很有層次的風味，加上生菜、洋蔥等配料的堆疊，很不錯！\n\n🔸️ 拿鐵 $140\n很順口好喝。\n\n付款方式：現金/Line PAY\n停車方式：店址附近有付費停車場",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "每次經過嶼木總是聚集著排隊人潮，這回下定決心就算要排隊也要吃看看。\n\n室內座位算多，但桌距蠻近的，會感到擁擠；用餐限時90分鐘、無收取服務費。\n\n🔸️孜然羊肉酸奶辣醬捲 烤餅 $215\n烤餅富有彈性，嚼起來很香，孜然風味羊肉搭配酸奶辣醬好搭好美味，是很有層次的風味，加上生菜、洋蔥等配料的堆疊，很不錯！\n\n🔸️ 拿鐵 $140\n很順口好喝。\n\n付款方式：現金/Line PAY\n停車方式：店址附近有付費停車場",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Bling B",
+        "uri": "https://www.google.com/maps/contrib/117454196967773959007/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKTgaHXaluczk7EyhFsL-JgUlu9drXWexJRAWduiJcgkcjakg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-07T09:12:04.744018253Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oZmRXaHNTV3B0TTA1emRuVlhaa2RSY25JNVNIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oZmRXaHNTV3B0TTA1emRuVlhaa2RSY25JNVNIYxAB!2m1!1s0x3442a98c79c7265f:0xb85f9a4d34041e0e"
+    },
+    {
+      "name": "places/ChIJXybHeYypQjQRDh4ENE2aX7g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKbVMzTjBRbU5vV0ZGZlMzWkhRVkJFVjJWU00yYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "漢堡咬起來軟軟的，是我偏愛的口感，酪梨檸檬加牛肉，吃起來清爽。\n\n卷餅皮吃起來也是我喜歡口感，軟Q，拿鐵咖啡味偏重，鮮奶茶微糖與無糖選項，微糖不會太甜，整體用餐感覺不錯💞",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "漢堡咬起來軟軟的，是我偏愛的口感，酪梨檸檬加牛肉，吃起來清爽。\n\n卷餅皮吃起來也是我喜歡口感，軟Q，拿鐵咖啡味偏重，鮮奶茶微糖與無糖選項，微糖不會太甜，整體用餐感覺不錯💞",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Teresa",
+        "uri": "https://www.google.com/maps/contrib/107985504910049111822/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVhyMKBhapK9Uz6rxFArDt29N1zTIij-dCHlIn7EopEpP3Jjlfu=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-19T06:00:57.133043105Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKbVMzTjBRbU5vV0ZGZlMzWkhRVkJFVjJWU00yYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKbVMzTjBRbU5vV0ZGZlMzWkhRVkJFVjJWU00yYxAB!2m1!1s0x3442a98c79c7265f:0xb85f9a4d34041e0e"
+    },
+    {
+      "name": "places/ChIJXybHeYypQjQRDh4ENE2aX7g/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oM2FWOVpWM3BYWkd4a1NVdEdlVFl0Tm1kS2VHYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "跟朋友來慶生🎉\n氛圍跟服務都很棒！\n音樂很復古！辦公跟聊天都適合！\n\n餐點很道地！\n馬撒拉咖喱酪梨醬雞肉捲列入「口袋名單」\n美式漢堡份量很足夠！\n\n還會找機會下次再帶朋友來用餐！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "跟朋友來慶生🎉\n氛圍跟服務都很棒！\n音樂很復古！辦公跟聊天都適合！\n\n餐點很道地！\n馬撒拉咖喱酪梨醬雞肉捲列入「口袋名單」\n美式漢堡份量很足夠！\n\n還會找機會下次再帶朋友來用餐！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳小柏",
+        "uri": "https://www.google.com/maps/contrib/112759642181318080119/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUapGOuXQl7mrAqTj72D9eHByF1LlFvJJ7J6L-VjE76ChhqBPg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-31T16:07:13.135588336Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oM2FWOVpWM3BYWkd4a1NVdEdlVFl0Tm1kS2VHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oM2FWOVpWM3BYWkd4a1NVdEdlVFl0Tm1kS2VHYxAB!2m1!1s0x3442a98c79c7265f:0xb85f9a4d34041e0e"
+    },
+    {
+      "name": "places/ChIJXybHeYypQjQRDh4ENE2aX7g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tneE1qRlVTbE40TUdsME1YSmphMEZ5UTJ0T2NtYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "烤餅沾馬撒拉雞肉咖哩好吃，我不太吃咖喱的人都吃了大半，花椰菜濃湯也很好喝，不是一般外面的奶油濃湯，湯上面一圈紅色的是辣油，但不會太辣，飲料點蜂蜜檸檬也不錯喝，只是餐點因為人多要等比較久，時間允許會再回訪",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "烤餅沾馬撒拉雞肉咖哩好吃，我不太吃咖喱的人都吃了大半，花椰菜濃湯也很好喝，不是一般外面的奶油濃湯，湯上面一圈紅色的是辣油，但不會太辣，飲料點蜂蜜檸檬也不錯喝，只是餐點因為人多要等比較久，時間允許會再回訪",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "吳佳穎",
+        "uri": "https://www.google.com/maps/contrib/102625699293000603499/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL77AkB2zgz9dbGksZeA-UVWGlWPuYjMQe7sADHqUxflEPyqw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-12-10T00:45:36.120071240Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tneE1qRlVTbE40TUdsME1YSmphMEZ5UTJ0T2NtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tneE1qRlVTbE40TUdsME1YSmphMEZ5UTJ0T2NtYxAB!2m1!1s0x3442a98c79c7265f:0xb85f9a4d34041e0e"
+    },
+    {
+      "name": "places/ChIJXybHeYypQjQRDh4ENE2aX7g/reviews/Ci9DQUlRQUNvZENodHljRjlvT205T1UweEVkWFJ5Y2kxS09FaE5lako0Y1RkR05sRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "原本已經訂位結果提早到也有座位坐，這間早午餐店原本在閱讀評論的時候大家都說上餐速度很慢，結果這次點完餐後大概不到五分鐘就上菜了，這個效率真的是值得稱讚，而且整體的份量蠻剛好的，是會想要再次來訪早午餐店，飲料的部分不知道為什麼鮮奶茶有點淡，其他都是不錯的，難怪一大早就已經很多人在這裡用餐",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "原本已經訂位結果提早到也有座位坐，這間早午餐店原本在閱讀評論的時候大家都說上餐速度很慢，結果這次點完餐後大概不到五分鐘就上菜了，這個效率真的是值得稱讚，而且整體的份量蠻剛好的，是會想要再次來訪早午餐店，飲料的部分不知道為什麼鮮奶茶有點淡，其他都是不錯的，難怪一大早就已經很多人在這裡用餐",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "何書翰",
+        "uri": "https://www.google.com/maps/contrib/112043866876852850419/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWUhBFKlYWyYiHzCXr0LMAGL09UDtmyBJJ7B7eivEbCr3wNaMr86A=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-26T02:45:52.206495366Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205T1UweEVkWFJ5Y2kxS09FaE5lako0Y1RkR05sRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205T1UweEVkWFJ5Y2kxS09FaE5lako0Y1RkR05sRRAB!2m1!1s0x3442a98c79c7265f:0xb85f9a4d34041e0e"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

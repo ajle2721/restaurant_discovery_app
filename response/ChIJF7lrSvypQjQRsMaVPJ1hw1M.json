@@ -1,0 +1,138 @@
+﻿{
+    "id":  "ChIJF7lrSvypQjQRsMaVPJ1hw1M",
+    "types":  [
+                  "food_store",
+                  "association_or_organization",
+                  "store",
+                  "event_venue",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "service",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2331 0566",
+    "formattedAddress":  "108台灣臺北市萬華區新起里漢中街205號3樓",
+    "location":  {
+                     "latitude":  25.0407381,
+                     "longitude":  121.5066444
+                 },
+    "rating":  5,
+    "websiteUri":  "https://paperboat-storyhouse.com/",
+    "userRatingCount":  3217,
+    "displayName":  {
+                        "text":  "小船故事館Ｉ桌遊咖啡廳（桌遊教學、獨立包廂、辦公空間）",
+                        "languageCode":  "zh-TW"
+                    },
+    "editorialSummary":  {
+                             "text":  "Easygoing gathering place offering board games to play along with tea \u0026 casual snacks.",
+                             "languageCode":  "en"
+                         },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJF7lrSvypQjQRsMaVPJ1hw1M/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tjMU5VMVVWa0pKTUVndGRYRk5ORU5MYjNwV04zYxAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "我其實很懶得留評論，但我覺得這家值得我來留言！！\n店員態度很好又有耐心！12/6女店員(抱歉我忘記妳叫什麼名字)幫忙拍照還會給情緒價值，真的愛了！\n還以為開在西門町會是舊舊的店，結果店內超美超乾淨，很像剛裝潢好的空間，很推薦大家去！！！",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "我其實很懶得留評論，但我覺得這家值得我來留言！！\n店員態度很好又有耐心！12/6女店員(抱歉我忘記妳叫什麼名字)幫忙拍照還會給情緒價值，真的愛了！\n還以為開在西門町會是舊舊的店，結果店內超美超乾淨，很像剛裝潢好的空間，很推薦大家去！！！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "吳佳紋",
+                                                  "uri":  "https://www.google.com/maps/contrib/107833141688306016753/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWUcmou_Dup9iLcet99XdipDBe9HLltM7tbtltUvBALqbg74zaKgA=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2025-12-06T17:33:06.805175530Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tjMU5VMVVWa0pKTUVndGRYRk5ORU5MYjNwV04zYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tjMU5VMVVWa0pKTUVndGRYRk5ORU5MYjNwV04zYxAB!2m1!1s0x3442a9fc4a6bb917:0x53c3619d3c95c6b0"
+                    },
+                    {
+                        "name":  "places/ChIJF7lrSvypQjQRsMaVPJ1hw1M/reviews/Ci9DQUlRQUNvZENodHljRjlvT210RllrbHFiRUZMWjI1ck9UTjZXbkZmUmxadlZGRRAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "環境很不錯的桌遊店，乾淨也很認真佈置的店，週五晚上入場$200，還有包廂可以玩\n不過這邊的餐食價格不算便宜，攜帶外食需要清潔費",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "環境很不錯的桌遊店，乾淨也很認真佈置的店，週五晚上入場$200，還有包廂可以玩\n不過這邊的餐食價格不算便宜，攜帶外食需要清潔費",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Hsin Y",
+                                                  "uri":  "https://www.google.com/maps/contrib/114759459931997788997/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVk2nrmZTSajCTZRrBT7sAkKx9aiQb-0X7KKPWkBfraggddKEYX=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2026-01-30T16:50:11.168712388Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210RllrbHFiRUZMWjI1ck9UTjZXbkZmUmxadlZGRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210RllrbHFiRUZMWjI1ck9UTjZXbkZmUmxadlZGRRAB!2m1!1s0x3442a9fc4a6bb917:0x53c3619d3c95c6b0"
+                    },
+                    {
+                        "name":  "places/ChIJF7lrSvypQjQRsMaVPJ1hw1M/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Rd2FXZEJVbWR3T1dKUFZsbEdaMGRCVkRJNFVVRRAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "和好姐妹一起過來玩，這是第一次來桌遊店\n整體的環境很棒，不僅乾淨而且很舒服；而且交通非常方便\n\n店員也非常非常的專業和熱情、親切\n下次絕對一定會再來訪！非常適合朋友、家人、和新朋友來的聚會地方",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "和好姐妹一起過來玩，這是第一次來桌遊店\n整體的環境很棒，不僅乾淨而且很舒服；而且交通非常方便\n\n店員也非常非常的專業和熱情、親切\n下次絕對一定會再來訪！非常適合朋友、家人、和新朋友來的聚會地方",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Apple Lin",
+                                                  "uri":  "https://www.google.com/maps/contrib/101360074182500716463/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXNdKkak92QzLRJfEcgxj_OL9_NnWAO1QHsWl4qKr5l2Tl6rzBa=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-12-27T08:57:02.124034664Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Rd2FXZEJVbWR3T1dKUFZsbEdaMGRCVkRJNFVVRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Rd2FXZEJVbWR3T1dKUFZsbEdaMGRCVkRJNFVVRRAB!2m1!1s0x3442a9fc4a6bb917:0x53c3619d3c95c6b0"
+                    },
+                    {
+                        "name":  "places/ChIJF7lrSvypQjQRsMaVPJ1hw1M/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oQlpHNU5UM2szZUZSSFRrSTVWSEZUYW1GdGEwRRAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "空間規劃得乾淨俐落，非常有特色。\n復古的氛圍營造得很有質感，整體環境舒適且讓人放鬆，非常推薦。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "空間規劃得乾淨俐落，非常有特色。\n復古的氛圍營造得很有質感，整體環境舒適且讓人放鬆，非常推薦。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "JY Park",
+                                                  "uri":  "https://www.google.com/maps/contrib/103240022224420391555/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXC9tE5dkLrop3erLk0xE90Ba9Qu1AOmN27PPkvBWAzmOZmM1FzGQ=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2026-02-19T07:11:54.335725394Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oQlpHNU5UM2szZUZSSFRrSTVWSEZUYW1GdGEwRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oQlpHNU5UM2szZUZSSFRrSTVWSEZUYW1GdGEwRRAB!2m1!1s0x3442a9fc4a6bb917:0x53c3619d3c95c6b0"
+                    },
+                    {
+                        "name":  "places/ChIJF7lrSvypQjQRsMaVPJ1hw1M/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSTVpHaHBVMEZGTURZd1pWSm9VbEJ1TkhWMU5XYxAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "桌遊種類超多的，店員也很親切，想不到要玩什麼的時候推薦的遊戲也都很有趣，餐點也越來越豐富，很喜歡",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "桌遊種類超多的，店員也很親切，想不到要玩什麼的時候推薦的遊戲也都很有趣，餐點也越來越豐富，很喜歡",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "吳幸宜",
+                                                  "uri":  "https://www.google.com/maps/contrib/100639685253955721856/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVCtmH_66QiOnv8Prm3GQuVUUHes_jToMPuD3M22lZgrQ720ME=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2026-01-24T07:41:53.196506134Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSTVpHaHBVMEZGTURZd1pWSm9VbEJ1TkhWMU5XYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSTVpHaHBVMEZGTURZd1pWSm9VbEJ1TkhWMU5XYxAB!2m1!1s0x3442a9fc4a6bb917:0x53c3619d3c95c6b0"
+                    }
+                ]
+}

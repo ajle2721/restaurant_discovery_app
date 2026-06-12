@@ -1,0 +1,140 @@
+{
+  "id": "ChIJm76gXhGqQjQRVg3L7b-iOys",
+  "types": [
+    "pizza_delivery",
+    "meal_delivery",
+    "meal_takeaway",
+    "food_delivery",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2935 7966",
+  "formattedAddress": "11695台灣臺北市文山區興泰里興隆路二段317號",
+  "location": {
+    "latitude": 25.0012759,
+    "longitude": 121.55377399999999
+  },
+  "rating": 4.8,
+  "websiteUri": "https://www.pizzahut.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1661,
+  "displayName": {
+    "text": "Pizza Hut",
+    "languageCode": "en"
+  },
+  "editorialSummary": {
+    "text": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJm76gXhGqQjQRVg3L7b-iOys/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KbmR6TXRZbGhpWWpWS1YyaHhVVmt4ZWpCdU5rRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 1,
+      "text": {
+        "text": "今天買了一個泡菜豬肉，口味和先前差很多，泡菜很酸，肉很少，還多了培根，味道整個很可怕😱⋯⋯是太久沒吃變樣了嗎。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天買了一個泡菜豬肉，口味和先前差很多，泡菜很酸，肉很少，還多了培根，味道整個很可怕😱⋯⋯是太久沒吃變樣了嗎。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "nina chang",
+        "uri": "https://www.google.com/maps/contrib/115300186376547893898/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL1zDJgRsUQPbOcA9as_YAvHagMtkvvFdmI3lyh19z_O1L9HA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-12-04T14:23:05.672378381Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KbmR6TXRZbGhpWWpWS1YyaHhVVmt4ZWpCdU5rRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KbmR6TXRZbGhpWWpWS1YyaHhVVmt4ZWpCdU5rRRAB!2m1!1s0x3442aa115ea0be9b:0x2b3ba2bfedcb0d56"
+    },
+    {
+      "name": "places/ChIJm76gXhGqQjQRVg3L7b-iOys/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoSmJFeDVXbVpyYzNkS1FWZENZWFZ2ZGkxR1JtYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 1,
+      "text": {
+        "text": "泡菜原本是我最愛的口味，但這次買超級難吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "泡菜原本是我最愛的口味，但這次買超級難吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "zoe Shi",
+        "uri": "https://www.google.com/maps/contrib/112133138269658954472/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJKNUIWzojd8TblKpkrdKYdm7LEIVHbjBKVnQwuftoEWid5I7-H=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-30T12:16:55.581339229Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoSmJFeDVXbVpyYzNkS1FWZENZWFZ2ZGkxR1JtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoSmJFeDVXbVpyYzNkS1FWZENZWFZ2ZGkxR1JtYxAB!2m1!1s0x3442aa115ea0be9b:0x2b3ba2bfedcb0d56"
+    },
+    {
+      "name": "places/ChIJm76gXhGqQjQRVg3L7b-iOys/reviews/ChZDSUhNMG9nS0VJQ0FnSUR6bjlQRFZ3EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "文山區方便的取餐地點！常有各式各樣的期間限定款披薩。最好事先官網上點取餐或叫外送平台，傻傻在現場等會等很久，尤其是逢年過節的時候。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "文山區方便的取餐地點！常有各式各樣的期間限定款披薩。最好事先官網上點取餐或叫外送平台，傻傻在現場等會等很久，尤其是逢年過節的時候。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lèvr【第10級在地嚮導】",
+        "uri": "https://www.google.com/maps/contrib/115131688509506708788/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWReqt4dR6N7p45ZpSr8ODGEAaWrEOYRW_WXQCLNWUULTLqEq91g=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2024-09-20T07:09:32.536865Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR6bjlQRFZ3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR6bjlQRFZ3EAE!2m1!1s0x3442aa115ea0be9b:0x2b3ba2bfedcb0d56"
+    },
+    {
+      "name": "places/ChIJm76gXhGqQjQRVg3L7b-iOys/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4eU5WTTNXbWxYVm1ScE4zTTNkRkpZY2pFelFsRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "一直以來都喜歡吃必勝客披薩～\n可以線上點餐也很方便～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一直以來都喜歡吃必勝客披薩～\n可以線上點餐也很方便～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳怡安",
+        "uri": "https://www.google.com/maps/contrib/101097381566406149716/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVbT1IICds8sQCit0QOVxVwmmWFSM-zV5evJ739BbS_Lfr_Y1FIBA=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-12T11:03:20.199487550Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4eU5WTTNXbWxYVm1ScE4zTTNkRkpZY2pFelFsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4eU5WTTNXbWxYVm1ScE4zTTNkRkpZY2pFelFsRRAB!2m1!1s0x3442aa115ea0be9b:0x2b3ba2bfedcb0d56"
+    },
+    {
+      "name": "places/ChIJm76gXhGqQjQRVg3L7b-iOys/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOcVJGaElaM042ZWxNd2VWTTNhSE5QWDBwbVYwRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 1,
+      "text": {
+        "text": "在foodpanda 訂餐，晚上6:08訂，小朋友癡癡等了兩個半小時（中間查看還有兩個外送員接單到現場等候，所以沒有取消。）莫名的沒有任何回覆被取消了訂單，外送客服回覆說店家沒接單，他們也沒辦法，我們自己打電話去確認通通沒接，當然是故意沒接電話，因為後來在家裡附近的必勝客電話點餐都順利拿到餐點（家裡附近的必勝客沒開foodpanda系統 畢竟靠近信義區可能會很忙）總之，要不是為了評論1顆星都不想給。外送客服回覆的罐頭的推卸責任很差勁👎，店家也差不多一樣差勁👎",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在foodpanda 訂餐，晚上6:08訂，小朋友癡癡等了兩個半小時（中間查看還有兩個外送員接單到現場等候，所以沒有取消。）莫名的沒有任何回覆被取消了訂單，外送客服回覆說店家沒接單，他們也沒辦法，我們自己打電話去確認通通沒接，當然是故意沒接電話，因為後來在家裡附近的必勝客電話點餐都順利拿到餐點（家裡附近的必勝客沒開foodpanda系統 畢竟靠近信義區可能會很忙）總之，要不是為了評論1顆星都不想給。外送客服回覆的罐頭的推卸責任很差勁👎，店家也差不多一樣差勁👎",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "孫品葳",
+        "uri": "https://www.google.com/maps/contrib/109774521502845938658/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL6ehhVv9bixE_1Z-YtPgq_yJrdmYg6SpecywgUYme4yJma8w=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-12-31T14:29:53.475486202Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOcVJGaElaM042ZWxNd2VWTTNhSE5QWDBwbVYwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOcVJGaElaM042ZWxNd2VWTTNhSE5QWDBwbVYwRRAB!2m1!1s0x3442aa115ea0be9b:0x2b3ba2bfedcb0d56"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": false
+}

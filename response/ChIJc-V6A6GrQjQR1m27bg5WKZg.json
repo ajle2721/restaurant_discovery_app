@@ -1,0 +1,132 @@
+{
+  "id": "ChIJc-V6A6GrQjQR1m27bg5WKZg",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2346 3923",
+  "formattedAddress": "110台灣臺北市信義區松光里忠孝東路五段524巷6號",
+  "location": {
+    "latitude": 25.0409208,
+    "longitude": 121.57953479999999
+  },
+  "rating": 4,
+  "websiteUri": "http://www.mwd.com.tw/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 997,
+  "displayName": {
+    "text": "麥味登cafe&brunch 北市忠孝店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJc-V6A6GrQjQR1m27bg5WKZg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsT2ExRk9XVXhUU0hCdFVYcElUbUpUYWxabGVFRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 3,
+      "text": {
+        "text": "營業時間到19:00，但18:27開始就對客人有種不耐煩的態度，甚至聽到店員和內場廚房的人聊著晚進來的客人。我因為要吃沙拉所以內用，想說很快就吃完了，明明用app掃碼點餐也看到系統有桌號，店員還是在櫃檯等我取餐。餐點部分就很普通，我吃燻雞沙拉所以也沒特別好壞，只能說還好有史努比聯名，看了可愛的裝飾心情好一點。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "營業時間到19:00，但18:27開始就對客人有種不耐煩的態度，甚至聽到店員和內場廚房的人聊著晚進來的客人。我因為要吃沙拉所以內用，想說很快就吃完了，明明用app掃碼點餐也看到系統有桌號，店員還是在櫃檯等我取餐。餐點部分就很普通，我吃燻雞沙拉所以也沒特別好壞，只能說還好有史努比聯名，看了可愛的裝飾心情好一點。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "歐強",
+        "uri": "https://www.google.com/maps/contrib/114969880595894125550/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWBBJM3qM13aF8IhAZDINSX3lo4CD4uxsX4f2eai5cuZjdk3pWh=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-27T10:58:48.209378989Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsT2ExRk9XVXhUU0hCdFVYcElUbUpUYWxabGVFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsT2ExRk9XVXhUU0hCdFVYcElUbUpUYWxabGVFRRAB!2m1!1s0x3442aba1037ae573:0x9829560e6ebb6dd6"
+    },
+    {
+      "name": "places/ChIJc-V6A6GrQjQR1m27bg5WKZg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkWGNrcGpUM2R5Y2tOTmRtcEJTSE14Y25aUWJsRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "薯餅起司鬆餅堡好吃\n掃碼點餐，可線上支付，叫號取餐，需自行收拾\n店內空間大，環境舒適",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "薯餅起司鬆餅堡好吃\n掃碼點餐，可線上支付，叫號取餐，需自行收拾\n店內空間大，環境舒適",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Wyanet Li",
+        "uri": "https://www.google.com/maps/contrib/112484519753421007181/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWzsXLtH4Koxg36n5IFISZ6ubwEhCHJBBJyWTi0ScJyjk6Mtf2f=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-09T09:41:43.888676196Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkWGNrcGpUM2R5Y2tOTmRtcEJTSE14Y25aUWJsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkWGNrcGpUM2R5Y2tOTmRtcEJTSE14Y25aUWJsRRAB!2m1!1s0x3442aba1037ae573:0x9829560e6ebb6dd6"
+    },
+    {
+      "name": "places/ChIJc-V6A6GrQjQR1m27bg5WKZg/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wbFNVUnZSbEppVjBSU1p6Z3pTSHBIUTNoWFJuYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 1,
+      "text": {
+        "text": "地瓜嫩雞餐$145，與圖片不符，吃的很空虛。早午餐附近有更好的選擇",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "地瓜嫩雞餐$145，與圖片不符，吃的很空虛。早午餐附近有更好的選擇",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "tangyin",
+        "uri": "https://www.google.com/maps/contrib/113449006159258546283/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUT5tFmKcmW2zlMP4hQTibz10IGvJp5vvkZGFX6lD5bgUBtHjo=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-13T07:30:53.272696236Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wbFNVUnZSbEppVjBSU1p6Z3pTSHBIUTNoWFJuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wbFNVUnZSbEppVjBSU1p6Z3pTSHBIUTNoWFJuYxAB!2m1!1s0x3442aba1037ae573:0x9829560e6ebb6dd6"
+    },
+    {
+      "name": "places/ChIJc-V6A6GrQjQR1m27bg5WKZg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOS1IySm5iVGhWZFZkbU5XdzBMWEY2VXpWRVZFRRAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 1,
+      "text": {
+        "text": "東西品質很差\n不知道是員工問題還是老闆默許\n最近來兩次拿到的滿福堡的蛋都是一般煎蛋（口感很差）\n薯餅捲捲，是在捲什麼東西看沒有（這種算是不合格的樣子都可以上餐桌銷售，真的很瞎）\n重點餐具都沒洗乾淨超噁！水漬明顯！\n\n再補一下原塊嫩雞煎過頭整個超級柴！\n煎臺人員有問題！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "東西品質很差\n不知道是員工問題還是老闆默許\n最近來兩次拿到的滿福堡的蛋都是一般煎蛋（口感很差）\n薯餅捲捲，是在捲什麼東西看沒有（這種算是不合格的樣子都可以上餐桌銷售，真的很瞎）\n重點餐具都沒洗乾淨超噁！水漬明顯！\n\n再補一下原塊嫩雞煎過頭整個超級柴！\n煎臺人員有問題！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "ㄒㄈㄑ",
+        "uri": "https://www.google.com/maps/contrib/110940989545683827047/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVMcUtEhxYwUWKEQJjcY9fFSSmInbLD7fzevzKms9QDlz9tleM=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-06-24T04:08:32.595515444Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOS1IySm5iVGhWZFZkbU5XdzBMWEY2VXpWRVZFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOS1IySm5iVGhWZFZkbU5XdzBMWEY2VXpWRVZFRRAB!2m1!1s0x3442aba1037ae573:0x9829560e6ebb6dd6"
+    },
+    {
+      "name": "places/ChIJc-V6A6GrQjQR1m27bg5WKZg/reviews/Ci9DQUlRQUNvZENodHljRjlvT25OVWIwMXJTRFI1YjAxR1pVdFVZVWxKYlhSbVpXYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第1次來外帶，第2次來現場吃，環境乾淨，現場人太多，出餐速度稍微慢一點點。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第1次來外帶，第2次來現場吃，環境乾淨，現場人太多，出餐速度稍微慢一點點。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lesley Tang",
+        "uri": "https://www.google.com/maps/contrib/117702244112925835395/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXTQu3VND5MkJTcH6_-jor9bENT8Ea1sRinzkGceIIFtSyVX7Bi=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-31T10:15:11.853897170Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25OVWIwMXJTRFI1YjAxR1pVdFVZVWxKYlhSbVpXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25OVWIwMXJTRFI1YjAxR1pVdFVZVWxKYlhSbVpXYxAB!2m1!1s0x3442aba1037ae573:0x9829560e6ebb6dd6"
+    }
+  ],
+  "goodForChildren": true
+}

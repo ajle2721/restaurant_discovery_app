@@ -1,0 +1,131 @@
+{
+  "id": "ChIJAQBMsBOpQjQRYOWOsWdpRe0",
+  "types": [
+    "breakfast_restaurant",
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 979 900 547",
+  "formattedAddress": "103台灣臺北市大同區永樂里塔城街57號",
+  "location": {
+    "latitude": 25.052909800000002,
+    "longitude": 121.5104477
+  },
+  "rating": 4.1,
+  "websiteUri": "https://www.facebook.com/sandwich57/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 873,
+  "displayName": {
+    "text": "初作早餐 塔城店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJAQBMsBOpQjQRYOWOsWdpRe0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGWU9URkhUVUo0WTNwRWFpMXlUVVIyU0VoRU9GRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "這個肉只給這樣薄薄一片，不對，是三分之一片是怎樣，要不要乾脆不要給，啊第二片就給剛好，肉的大小也太不平均了吧==這樣還要賣我105$喔？最扯的是居然有蛋殼⋯然後竹籤插成這樣我是要怎麼吃？總不可能6片吐司一起吃吧，兩塊三明治從竹籤上拿下來的時候生菜就已經掉滿地了==還不如不要插\n\n更：\n這邊店家回覆態度友善多給2顆星，退款的部分就不用了，只希望下次肉片能大小一樣然後不要有蛋殼。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這個肉只給這樣薄薄一片，不對，是三分之一片是怎樣，要不要乾脆不要給，啊第二片就給剛好，肉的大小也太不平均了吧==這樣還要賣我105$喔？最扯的是居然有蛋殼⋯然後竹籤插成這樣我是要怎麼吃？總不可能6片吐司一起吃吧，兩塊三明治從竹籤上拿下來的時候生菜就已經掉滿地了==還不如不要插\n\n更：\n這邊店家回覆態度友善多給2顆星，退款的部分就不用了，只希望下次肉片能大小一樣然後不要有蛋殼。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "cherry Apple",
+        "uri": "https://www.google.com/maps/contrib/117342974995924419591/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV-gL5y2bS-_UzZ7CWbP2_8RxuGWvEWbqJ_1cnxVi5Fm8ylWwaY=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-23T11:59:22.579742439Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGWU9URkhUVUo0WTNwRWFpMXlUVVIyU0VoRU9GRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGWU9URkhUVUo0WTNwRWFpMXlUVVIyU0VoRU9GRRAB!2m1!1s0x3442a913b04c0001:0xed456967b18ee560"
+    },
+    {
+      "name": "places/ChIJAQBMsBOpQjQRYOWOsWdpRe0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KSGJqTXdPV0l3VG1oUGN6a3dNWFZhTWxsQ1YxRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 1,
+      "text": {
+        "text": "點了花生給我豬排，點了冰奶茶給我溫奶茶。店員是個小男生, 堅持是我點錯的。這裡的三明治是拍照用的不是用來吃的。一開始就奔著當網紅店去的吧。一口咬下去這豬味重到我直接把三明治跟奶茶全扔進店裡的垃圾筒了。以早餐來說這味道太重了。貴也沒關係，但不能汙染我的胃。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點了花生給我豬排，點了冰奶茶給我溫奶茶。店員是個小男生, 堅持是我點錯的。這裡的三明治是拍照用的不是用來吃的。一開始就奔著當網紅店去的吧。一口咬下去這豬味重到我直接把三明治跟奶茶全扔進店裡的垃圾筒了。以早餐來說這味道太重了。貴也沒關係，但不能汙染我的胃。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "cpigdut Leo",
+        "uri": "https://www.google.com/maps/contrib/100053405837716053233/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLLKiIJNM2WQyPx0krQ8FurPMh3sdyGLp8RvYb2UB2H-lkXFw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-14T05:27:13.250036874Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KSGJqTXdPV0l3VG1oUGN6a3dNWFZhTWxsQ1YxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KSGJqTXdPV0l3VG1oUGN6a3dNWFZhTWxsQ1YxRRAB!2m1!1s0x3442a913b04c0001:0xed456967b18ee560"
+    },
+    {
+      "name": "places/ChIJAQBMsBOpQjQRYOWOsWdpRe0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tzMk1sUm1PWFZJTjBOYVZDMUhhMlppYzBWVVFuYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "住附近很常吃這家，但品質有點不穩定，前陣子因為食物裡都會有鼎賽，讓我很久沒去吃了，11/16來吃，覺得當初的初作又回來了，蛋很嫩熟度剛好，吐司很乾淨，腿排也煎的很好（之前被氣到就是有鼎賽就算了腿排還燒焦了！！一看就知道煎台的人有用心😍很開心今天吃到好吃的早餐，老闆真的要幫她加薪🥹🥹🥹",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "住附近很常吃這家，但品質有點不穩定，前陣子因為食物裡都會有鼎賽，讓我很久沒去吃了，11/16來吃，覺得當初的初作又回來了，蛋很嫩熟度剛好，吐司很乾淨，腿排也煎的很好（之前被氣到就是有鼎賽就算了腿排還燒焦了！！一看就知道煎台的人有用心😍很開心今天吃到好吃的早餐，老闆真的要幫她加薪🥹🥹🥹",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "017",
+        "uri": "https://www.google.com/maps/contrib/117194029930627859077/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVhYholOypaLGGLRSRsY7BxQc00jbsnaS52CIha0ppYYKHCvqNw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-16T04:17:41.249566181Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tzMk1sUm1PWFZJTjBOYVZDMUhhMlppYzBWVVFuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tzMk1sUm1PWFZJTjBOYVZDMUhhMlppYzBWVVFuYxAB!2m1!1s0x3442a913b04c0001:0xed456967b18ee560"
+    },
+    {
+      "name": "places/ChIJAQBMsBOpQjQRYOWOsWdpRe0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1NWNVZFhWaTFWTWtwQ1YxWjRTa05DVjFCRU9HYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "UberEats 用餐心得整理\n1️⃣整體評價：非常推薦，是外送的好選擇。\n2️⃣餐點口味：口味非常好吃 😋，飲品的溫度與甜度也適中。\n3️⃣餐點內容：實際收到的沙拉沒有圖示上的小黃瓜（與圖片不符但我剛好不吃小黃瓜）。\n4️⃣包裝與價格：包裝完整，且價格跟現場差異不大。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "UberEats 用餐心得整理\n1️⃣整體評價：非常推薦，是外送的好選擇。\n2️⃣餐點口味：口味非常好吃 😋，飲品的溫度與甜度也適中。\n3️⃣餐點內容：實際收到的沙拉沒有圖示上的小黃瓜（與圖片不符但我剛好不吃小黃瓜）。\n4️⃣包裝與價格：包裝完整，且價格跟現場差異不大。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "LIN CHIA",
+        "uri": "https://www.google.com/maps/contrib/114489136626438736891/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU4LHeGqoicLe5gYeeNQeEvSleHJPbC-x29ECPxg_A3ybFc5VB_=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-08T05:26:55.283421005Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1NWNVZFhWaTFWTWtwQ1YxWjRTa05DVjFCRU9HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1NWNVZFhWaTFWTWtwQ1YxWjRTa05DVjFCRU9HYxAB!2m1!1s0x3442a913b04c0001:0xed456967b18ee560"
+    },
+    {
+      "name": "places/ChIJAQBMsBOpQjQRYOWOsWdpRe0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGUFZFMVVNM28yVG01VVJWUjVhVTlYZUVGUVgwRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 3,
+      "text": {
+        "text": "三明治不錯，但美式咖啡一杯55像水一樣，太淡了，本以為是單次性問題，但今天再買一杯還是一樣的問題。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "三明治不錯，但美式咖啡一杯55像水一樣，太淡了，本以為是單次性問題，但今天再買一杯還是一樣的問題。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃品諺",
+        "uri": "https://www.google.com/maps/contrib/108544494420182134181/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLXgk-xONFAeLQS8MaZ14-WfTInPaoiQfQCEVrzgbdq1OoOQA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-11T00:56:19.936471107Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGUFZFMVVNM28yVG01VVJWUjVhVTlYZUVGUVgwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGUFZFMVVNM28yVG01VVJWUjVhVTlYZUVGUVgwRRAB!2m1!1s0x3442a913b04c0001:0xed456967b18ee560"
+    }
+  ]
+}

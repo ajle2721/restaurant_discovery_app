@@ -1,0 +1,139 @@
+{
+  "id": "ChIJNb58bLyuQjQR0UPiAqr3VDM",
+  "types": [
+    "pizza_delivery",
+    "pizza_restaurant",
+    "meal_delivery",
+    "food_delivery",
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2820 8100",
+  "formattedAddress": "112台灣臺北市北投區文林里致遠一路一段135號",
+  "location": {
+    "latitude": 25.1103538,
+    "longitude": 121.5146865
+  },
+  "rating": 4.1,
+  "websiteUri": "https://www.dominos.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 177,
+  "displayName": {
+    "text": "達美樂披薩PIZZA 石牌致遠一店",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Delivery, carryout & dine-in chain offering a wide range of pizzas, plus a variety of other dishes & sides.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJNb58bLyuQjQR0UPiAqr3VDM/reviews/Ci9DQUlRQUNvZENodHljRjlvT210MFQyNXNVbGQ2TUZOYWRGUk5WMlV0U1dKd1VuYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "2026年3月2日，下午5:00來買晚餐，服務人員耐心，禮貌且親切。店內環境乾淨整潔。店員是一位戴眼鏡綁馬尾的鄭小姐😃😃❤️❤️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2026年3月2日，下午5:00來買晚餐，服務人員耐心，禮貌且親切。店內環境乾淨整潔。店員是一位戴眼鏡綁馬尾的鄭小姐😃😃❤️❤️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lee Angie",
+        "uri": "https://www.google.com/maps/contrib/114330515282599365260/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVC_Fa5OCOVydwxV-Z994oBEfLDvmgJcbTfWEZpnO2Sdrp8rZ4g=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-03-02T09:42:59.835842524Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210MFQyNXNVbGQ2TUZOYWRGUk5WMlV0U1dKd1VuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210MFQyNXNVbGQ2TUZOYWRGUk5WMlV0U1dKd1VuYxAB!2m1!1s0x3442aebc6c7cbe35:0x3354f7aa02e243d1"
+    },
+    {
+      "name": "places/ChIJNb58bLyuQjQR0UPiAqr3VDM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xZNVMySTRRalYxVDI5UGVGRjRWRFZGYjBsUmVsRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "平日下午時段用他們平台叫外送超快就到了！\n從訂餐到送達大概不到半小時吧？！\n我桌面都還沒整理好就送來了？？？😳\n\n然後外送員很親切 大冷天的還幫我送到門口\n辛苦他了！也謝謝店家所有工作人員～！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "平日下午時段用他們平台叫外送超快就到了！\n從訂餐到送達大概不到半小時吧？！\n我桌面都還沒整理好就送來了？？？😳\n\n然後外送員很親切 大冷天的還幫我送到門口\n辛苦他了！也謝謝店家所有工作人員～！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Neko Liu",
+        "uri": "https://www.google.com/maps/contrib/104670064312269430444/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLrp-aIViXEcm5ETMNSKkC0Vgq-MFd-nMFme6NwWN8saWhHhZA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-06T13:45:29.763687726Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xZNVMySTRRalYxVDI5UGVGRjRWRFZGYjBsUmVsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xZNVMySTRRalYxVDI5UGVGRjRWRFZGYjBsUmVsRRAB!2m1!1s0x3442aebc6c7cbe35:0x3354f7aa02e243d1"
+    },
+    {
+      "name": "places/ChIJNb58bLyuQjQR0UPiAqr3VDM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCZmQwRjJWbWRUTTBGdllrTnhlWGh2WkhOcFIyYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 1,
+      "text": {
+        "text": "第一次叫披薩外送吃到沒有切的😆😆\n店員說因為訂單太多問我要拿刀子過去你那裡切嗎\n好酷的新體驗😀",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次叫披薩外送吃到沒有切的😆😆\n店員說因為訂單太多問我要拿刀子過去你那裡切嗎\n好酷的新體驗😀",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "吃吃",
+        "uri": "https://www.google.com/maps/contrib/104980176576365685644/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXyxQkDNV58kzCtPBzb3nxk7M-ZtfvJNtkGCl1KY649WzXTMbZG=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-11-27T11:46:19.084524712Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCZmQwRjJWbWRUTTBGdllrTnhlWGh2WkhOcFIyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCZmQwRjJWbWRUTTBGdllrTnhlWGh2WkhOcFIyYxAB!2m1!1s0x3442aebc6c7cbe35:0x3354f7aa02e243d1"
+    },
+    {
+      "name": "places/ChIJNb58bLyuQjQR0UPiAqr3VDM/reviews/Ci9DQUlRQUNvZENodHljRjlvT25JNFVFRldSbGgzUldVeVVVTTRNSGRaVXpSRE1HYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "過年期間還能吃上美味的披薩實在是太棒了\n外送人員親切 服務好 謝謝",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "過年期間還能吃上美味的披薩實在是太棒了\n外送人員親切 服務好 謝謝",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "阿飛",
+        "uri": "https://www.google.com/maps/contrib/110834312211520023518/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUgP4I_D9WnFG69p8Mp6suNKpCunyV6aDHk9SNKBS4qzE_A3Qpw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-22T11:42:10.066407206Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25JNFVFRldSbGgzUldVeVVVTTRNSGRaVXpSRE1HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25JNFVFRldSbGgzUldVeVVVTTRNSGRaVXpSRE1HYxAB!2m1!1s0x3442aebc6c7cbe35:0x3354f7aa02e243d1"
+    },
+    {
+      "name": "places/ChIJNb58bLyuQjQR0UPiAqr3VDM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21saVVWWjJkRTR5U2toMWVIcDJTRlkwU0hBMWMwRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "固定到榮總就醫的太太，已經厭倦了醫院樓下的食物，今天突然說了一句：「好想吃 Dominos 的瑪格麗特披薩喔！」二話不說，我拿出手機從 Google maps 找到了 為於致遠路上的 Dominos pizza 準備下單，才發現自己並不再是在旅居的國外，而是已回到台灣。這時候才想到一個問題：「台灣本地人是如何點購外送披薩的呀？」是和美國一樣打電話訂購？還是透過特定的外送APP呀？沒辦法，為了不想讓老婆等太久，更為了確保拿到手中的披薩還是滾燙的，我豁出去了直接到醫院一樓叫了台計程車直奔致遠路上的達美樂披薩店！不到六分鐘，計程車直達目的地。透過店員林先生熱心的幫忙，我順利的 ordered 了老婆想吃的瑪格麗特披薩，後來，林先生更耐心的教我用 LINE加入他們官網，下次下單直接用Line 就可以點pizza外賣啦！真是太方便了啦！謝謝致遠路上的達美樂披薩店，讓我順利完成了太太的願望！這樣的服務水平，完全超過美國的達美樂。食物品質更是好到沒可挑剔，披薩外酥內軟，送到病房中的太太面前，一口咬下，她那滿足的美美笑容已說明了一切，老婆，我愛你！達美樂，謝謝你！（糟糕！急著給老婆吃披薩，竟然忘了拍照！）\n\nMy wife, who regularly goes to Veterans General Hospital for treatment, was tired of the food downstairs. Today, she suddenly said, \"I really want to eat Domino's Margherita pizza!\" Without hesitation, I pulled out my phone, found Domino's Pizza on Zhiyuan Road on Google Maps, and was about to place an order when I realized I wasn't living abroad anymore, but back in Taiwan. That's when a question popped into my head: \"How do Taiwanese people order pizza delivery?\" Do they order by phone like in the US? Or through a specific delivery app? I didn't want my wife to wait too long, and to make sure the pizza was piping hot when she received it, I took the plunge and hailed a taxi on the first floor of the hospital, heading straight to Domino's Pizza on Zhiyuan Road! Less than six minutes later, the taxi arrived. Thanks to the helpful Mr. Lin, the staff member, I successfully ordered the Margherita pizza my wife wanted. Later, Mr. Lin patiently taught me how to add them on LINE to their website, so I can order pizza delivery directly through Line next time! It's so convenient! Thank you to Domino's Pizza on Zhiyuan Road for making it possible for my wife to fulfill her wish! The service was far superior to Domino's in the US. The food quality was impeccable; the pizza was crispy on the outside and soft on the inside. When I brought it to my wife in the hospital room, her satisfied smile after one bite said it all. Honey, I love you! Domino's, thank you! （OMG! I was too rush to present this pizza to my wife, I totally forgot to take photos...)",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "固定到榮總就醫的太太，已經厭倦了醫院樓下的食物，今天突然說了一句：「好想吃 Dominos 的瑪格麗特披薩喔！」二話不說，我拿出手機從 Google maps 找到了 為於致遠路上的 Dominos pizza 準備下單，才發現自己並不再是在旅居的國外，而是已回到台灣。這時候才想到一個問題：「台灣本地人是如何點購外送披薩的呀？」是和美國一樣打電話訂購？還是透過特定的外送APP呀？沒辦法，為了不想讓老婆等太久，更為了確保拿到手中的披薩還是滾燙的，我豁出去了直接到醫院一樓叫了台計程車直奔致遠路上的達美樂披薩店！不到六分鐘，計程車直達目的地。透過店員林先生熱心的幫忙，我順利的 ordered 了老婆想吃的瑪格麗特披薩，後來，林先生更耐心的教我用 LINE加入他們官網，下次下單直接用Line 就可以點pizza外賣啦！真是太方便了啦！謝謝致遠路上的達美樂披薩店，讓我順利完成了太太的願望！這樣的服務水平，完全超過美國的達美樂。食物品質更是好到沒可挑剔，披薩外酥內軟，送到病房中的太太面前，一口咬下，她那滿足的美美笑容已說明了一切，老婆，我愛你！達美樂，謝謝你！（糟糕！急著給老婆吃披薩，竟然忘了拍照！）\n\nMy wife, who regularly goes to Veterans General Hospital for treatment, was tired of the food downstairs. Today, she suddenly said, \"I really want to eat Domino's Margherita pizza!\" Without hesitation, I pulled out my phone, found Domino's Pizza on Zhiyuan Road on Google Maps, and was about to place an order when I realized I wasn't living abroad anymore, but back in Taiwan. That's when a question popped into my head: \"How do Taiwanese people order pizza delivery?\" Do they order by phone like in the US? Or through a specific delivery app? I didn't want my wife to wait too long, and to make sure the pizza was piping hot when she received it, I took the plunge and hailed a taxi on the first floor of the hospital, heading straight to Domino's Pizza on Zhiyuan Road! Less than six minutes later, the taxi arrived. Thanks to the helpful Mr. Lin, the staff member, I successfully ordered the Margherita pizza my wife wanted. Later, Mr. Lin patiently taught me how to add them on LINE to their website, so I can order pizza delivery directly through Line next time! It's so convenient! Thank you to Domino's Pizza on Zhiyuan Road for making it possible for my wife to fulfill her wish! The service was far superior to Domino's in the US. The food quality was impeccable; the pizza was crispy on the outside and soft on the inside. When I brought it to my wife in the hospital room, her satisfied smile after one bite said it all. Honey, I love you! Domino's, thank you! （OMG! I was too rush to present this pizza to my wife, I totally forgot to take photos...)",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Wan Tai",
+        "uri": "https://www.google.com/maps/contrib/117103492936272146343/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKlgPeXdDplgq9fgh0Circ7bK8g4_lOJB8Crt-vO_CNZJg5uQ=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-21T10:39:14.402961526Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21saVVWWjJkRTR5U2toMWVIcDJTRlkwU0hBMWMwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21saVVWWjJkRTR5U2toMWVIcDJTRlkwU0hBMWMwRRAB!2m1!1s0x3442aebc6c7cbe35:0x3354f7aa02e243d1"
+    }
+  ]
+}

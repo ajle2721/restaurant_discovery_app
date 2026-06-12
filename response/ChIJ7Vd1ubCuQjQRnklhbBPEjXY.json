@@ -1,0 +1,132 @@
+{
+  "id": "ChIJ7Vd1ubCuQjQRnklhbBPEjXY",
+  "types": [
+    "italian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2880 2566",
+  "formattedAddress": "111台灣臺北市士林區後港里大南路236號",
+  "location": {
+    "latitude": 25.088774599999997,
+    "longitude": 121.5210968
+  },
+  "rating": 4,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 360,
+  "displayName": {
+    "text": "米凱修義式料理",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ7Vd1ubCuQjQRnklhbBPEjXY/reviews/ChdDSUhNMG9nS0VJQ0FnTUNvMTZxYjRnRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "週末，我和內子、兒子一起踏入這家由鄰居推薦的義式料理店，期待品嚐一頓美食。推開門，裝潢竟然與想像中的義式風格有些不同，店內簡樸乾淨，更像是中式簡餐店的氛圍，卻也因此多了幾分親切感。\n\n座位間交談聲此起彼落，熟客們和店家話家常，宛如老友相聚。服務人員雖然忙碌，但待人親切，讓人感受到家的溫度。義大利麵端上桌，餐盤上的料理雖不算驚艷，卻是樸實溫飽之選，讓我們享受了一頓無壓力的家常餐。\n\n隔日與美食專家的鄰居閒聊時，才驚覺這家店並非他介紹的那間，是一次美麗的錯誤！然而，誤打誤撞之下，讓我們多光臨了一間餐廳，也算是一種意外收穫。或許，下次我們應該再去探索更多隱藏在巷弄間的美味驚喜。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "週末，我和內子、兒子一起踏入這家由鄰居推薦的義式料理店，期待品嚐一頓美食。推開門，裝潢竟然與想像中的義式風格有些不同，店內簡樸乾淨，更像是中式簡餐店的氛圍，卻也因此多了幾分親切感。\n\n座位間交談聲此起彼落，熟客們和店家話家常，宛如老友相聚。服務人員雖然忙碌，但待人親切，讓人感受到家的溫度。義大利麵端上桌，餐盤上的料理雖不算驚艷，卻是樸實溫飽之選，讓我們享受了一頓無壓力的家常餐。\n\n隔日與美食專家的鄰居閒聊時，才驚覺這家店並非他介紹的那間，是一次美麗的錯誤！然而，誤打誤撞之下，讓我們多光臨了一間餐廳，也算是一種意外收穫。或許，下次我們應該再去探索更多隱藏在巷弄間的美味驚喜。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "雙胞胎",
+        "uri": "https://www.google.com/maps/contrib/110603476848558193620/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUCX0NVka2aqmYXKV82cBKSCkweiIck2orknj3ZhwNUA6_HCk8=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-04-20T15:11:38.441849Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNvMTZxYjRnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNvMTZxYjRnRRAB!2m1!1s0x3442aeb0b97557ed:0x768dc4136c61499e"
+    },
+    {
+      "name": "places/ChIJ7Vd1ubCuQjQRnklhbBPEjXY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tnMFh6ZFlRbFZvVW5odWRraE1NWHBRYlZGVGFWRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點好吃，環境乾淨\n也很適合兒童來吃\n有兒童椅也有兒童餐具",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點好吃，環境乾淨\n也很適合兒童來吃\n有兒童椅也有兒童餐具",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Kenny Lo (Kenny)",
+        "uri": "https://www.google.com/maps/contrib/113538945747723390669/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJOpjsNkv1uE9GOzDF6Se01pal81-80AR5QZtOW23njAORaPA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-16T04:13:31.412370311Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tnMFh6ZFlRbFZvVW5odWRraE1NWHBRYlZGVGFWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tnMFh6ZFlRbFZvVW5odWRraE1NWHBRYlZGVGFWRRAB!2m1!1s0x3442aeb0b97557ed:0x768dc4136c61499e"
+    },
+    {
+      "name": "places/ChIJ7Vd1ubCuQjQRnklhbBPEjXY/reviews/ChdDSUhNMG9nS0VJQ0FnSUNieHZqanJ3RRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "意外好吃！以這樣的價格來說，份量也很多~我點的是焗烤番茄蘑菇🍄小辣還有清炒意大利面，整體真的不錯，會再來吃！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "意外好吃！以這樣的價格來說，份量也很多~我點的是焗烤番茄蘑菇🍄小辣還有清炒意大利面，整體真的不錯，會再來吃！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "燕子Debra",
+        "uri": "https://www.google.com/maps/contrib/100710896279129475780/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJhp0IquG2jeRpOtCqSEHHj5q_gxtiuiqbpYHLTjT-_nY5T6Q=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2024-07-26T12:21:45.631707Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNieHZqanJ3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNieHZqanJ3RRAB!2m1!1s0x3442aeb0b97557ed:0x768dc4136c61499e"
+    },
+    {
+      "name": "places/ChIJ7Vd1ubCuQjQRnklhbBPEjXY/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKck5uZFlREAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "薄批薩真的很好吃，起司超多，沙拉料豐富也超多，炸雞排皮脆肉Q彈，可惜義大利麵味道不夠鹹，也算不錯吃，還有免費飲料自己倒，冷氣很涼，各種支付結帳很方便",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "薄批薩真的很好吃，起司超多，沙拉料豐富也超多，炸雞排皮脆肉Q彈，可惜義大利麵味道不夠鹹，也算不錯吃，還有免費飲料自己倒，冷氣很涼，各種支付結帳很方便",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Rita Wu",
+        "uri": "https://www.google.com/maps/contrib/111245122259795032186/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWArMkfeQvjX9U4cxE9yNtvu4oi5i-D2M19VKyPXceLP6qOX0jw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2023-06-22T12:22:36.121768Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNKck5uZFlREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNKck5uZFlREAE!2m1!1s0x3442aeb0b97557ed:0x768dc4136c61499e"
+    },
+    {
+      "name": "places/ChIJ7Vd1ubCuQjQRnklhbBPEjXY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twWE1UZFRTMGhFWkZNME1WRkdTMWhVVDBsU1YwRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "餐點好吃，海鮮很新鮮！環境很乾淨，桌子不會黏黏的，餐具也擺放很整齊，看得出來店家很用心維護\n\n但⋯走進店家撲鼻而來的味道不是料理香味，而是化學香精味，後來進廁所也聞到相同的味道，應該就是廁所芳香劑的味道，再加上廁所的門沒有常關，芳香劑的味道整間餐廳都是，對味道敏感的人可能要再考慮一下",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點好吃，海鮮很新鮮！環境很乾淨，桌子不會黏黏的，餐具也擺放很整齊，看得出來店家很用心維護\n\n但⋯走進店家撲鼻而來的味道不是料理香味，而是化學香精味，後來進廁所也聞到相同的味道，應該就是廁所芳香劑的味道，再加上廁所的門沒有常關，芳香劑的味道整間餐廳都是，對味道敏感的人可能要再考慮一下",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "JT Peng",
+        "uri": "https://www.google.com/maps/contrib/114821699557013544908/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJi64mG7BF7gsvXwUtWJAh5YJaurOTHp-OtOpZ7RzA4OI9D6w=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-17T15:00:24.324179707Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twWE1UZFRTMGhFWkZNME1WRkdTMWhVVDBsU1YwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twWE1UZFRTMGhFWkZNME1WRkdTMWhVVDBsU1YwRRAB!2m1!1s0x3442aeb0b97557ed:0x768dc4136c61499e"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

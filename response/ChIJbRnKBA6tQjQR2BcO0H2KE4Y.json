@@ -1,0 +1,132 @@
+{
+  "id": "ChIJbRnKBA6tQjQR2BcO0H2KE4Y",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2794 0239",
+  "formattedAddress": "114台灣臺北市內湖區湖濱里內湖路二段239號",
+  "location": {
+    "latitude": 25.081871900000003,
+    "longitude": 121.5894136
+  },
+  "rating": 4.8,
+  "websiteUri": "https://www.facebook.com/neihurivercoffee",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 351,
+  "displayName": {
+    "text": "河流咖啡 RIVER COFFEE",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJbRnKBA6tQjQR2BcO0H2KE4Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tORE1VdGlSMDFCYW5JMGNIRXlabkJOWTFaQ1RtYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "不限時 價格相對便宜\n吐司酥脆好吃 拿鐵好喝 鮮奶茶普\n廁所乾淨\n脫鞋區超讚\n一般座位區有點悶座位也有點近\n裡面有很多書跟漫畫\n超安靜 讚",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "不限時 價格相對便宜\n吐司酥脆好吃 拿鐵好喝 鮮奶茶普\n廁所乾淨\n脫鞋區超讚\n一般座位區有點悶座位也有點近\n裡面有很多書跟漫畫\n超安靜 讚",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Leonie",
+        "uri": "https://www.google.com/maps/contrib/103603383840739600570/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLCwD4Cqdq043FVz5HQWWbr0V6CndV6ZgAKiBet8xDKDjRSKA=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-11T02:55:33.440993642Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tORE1VdGlSMDFCYW5JMGNIRXlabkJOWTFaQ1RtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tORE1VdGlSMDFCYW5JMGNIRXlabkJOWTFaQ1RtYxAB!2m1!1s0x3442ad0e04ca196d:0x86138a7dd00e17d8"
+    },
+    {
+      "name": "places/ChIJbRnKBA6tQjQR2BcO0H2KE4Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWcVpVNUtjWEEyZGpaNFJURXdjMkZtVDB4U2JFRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "手沖咖啡、布朗尼、音樂都喜歡，久違的看了漫畫挺不錯。\n好想坐看看窗邊及脫鞋座位區~",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "手沖咖啡、布朗尼、音樂都喜歡，久違的看了漫畫挺不錯。\n好想坐看看窗邊及脫鞋座位區~",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "orinda lin",
+        "uri": "https://www.google.com/maps/contrib/110088176417532037052/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJqpPJuuoDEb3bOhZUMg9BmqQz_n6hXH5DpsI8ISQoeYqECyA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-15T11:45:22.360231638Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWcVpVNUtjWEEyZGpaNFJURXdjMkZtVDB4U2JFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWcVpVNUtjWEEyZGpaNFJURXdjMkZtVDB4U2JFRRAB!2m1!1s0x3442ad0e04ca196d:0x86138a7dd00e17d8"
+    },
+    {
+      "name": "places/ChIJbRnKBA6tQjQR2BcO0H2KE4Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0T1NIZGxiME5CZUhwMFoydE5kSGh5ZGs1elluYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "常路過終於有機會\n看書的好地方\n店員溫和親切\n很抱歉我的大蒜厚片破壞了這美好的咖啡香氛滿屋🙄",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "常路過終於有機會\n看書的好地方\n店員溫和親切\n很抱歉我的大蒜厚片破壞了這美好的咖啡香氛滿屋🙄",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "練不起來的大叔-朱尼帕 ̊（Dm）",
+        "uri": "https://www.google.com/maps/contrib/100884188225530795061/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUHfnqb5GbE0EN1dhgolvtB4DjCyYBE1_X8We5q68FkxrfKwgEN=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-17T05:00:44.779599487Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0T1NIZGxiME5CZUhwMFoydE5kSGh5ZGs1elluYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0T1NIZGxiME5CZUhwMFoydE5kSGh5ZGs1elluYxAB!2m1!1s0x3442ad0e04ca196d:0x86138a7dd00e17d8"
+    },
+    {
+      "name": "places/ChIJbRnKBA6tQjQR2BcO0H2KE4Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOQmVXMVVRemRDUjFaSU9HUnFSRFJYYm1vMVpWRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "曾經到訪，有漫畫的咖啡廳，很安靜，甜點也好吃。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "曾經到訪，有漫畫的咖啡廳，很安靜，甜點也好吃。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hsuan",
+        "uri": "https://www.google.com/maps/contrib/117506998133029465058/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ4c_D5eLmlVmAvVqy2DfMOyACiSlzH1tL6M8XOjmmrb7y1XEw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-04T13:05:07.472070993Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOQmVXMVVRemRDUjFaSU9HUnFSRFJYYm1vMVpWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOQmVXMVVRemRDUjFaSU9HUnFSRFJYYm1vMVpWRRAB!2m1!1s0x3442ad0e04ca196d:0x86138a7dd00e17d8"
+    },
+    {
+      "name": "places/ChIJbRnKBA6tQjQR2BcO0H2KE4Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SblNtNDVkakJ0VVhjd09VMDFZMEpuY21aeGVXYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "很安靜的咖啡廳，適合辦公，現場的書籍也可以隨性閱讀",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很安靜的咖啡廳，適合辦公，現場的書籍也可以隨性閱讀",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Nadine Li",
+        "uri": "https://www.google.com/maps/contrib/103694141694628363621/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU6EIQKU6YYlERj3_LAsq3qiVDYRSsI7ky3-F-d7dawQedWTLEE=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-01T10:11:50.134996209Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SblNtNDVkakJ0VVhjd09VMDFZMEpuY21aeGVXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SblNtNDVkakJ0VVhjd09VMDFZMEpuY21aeGVXYxAB!2m1!1s0x3442ad0e04ca196d:0x86138a7dd00e17d8"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": false
+}

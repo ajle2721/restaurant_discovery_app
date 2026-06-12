@@ -1,0 +1,135 @@
+{
+  "id": "ChIJ8fDLnZGpQjQRGhuXi9pbQi8",
+  "types": [
+    "dog_cafe",
+    "coffee_roastery",
+    "coffee_shop",
+    "cafe",
+    "wholesaler",
+    "food_store",
+    "store",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "formattedAddress": "100台灣臺北市中正區河堤里金門街15號",
+  "location": {
+    "latitude": 25.021517199999998,
+    "longitude": 121.52319969999999
+  },
+  "rating": 4.8,
+  "websiteUri": "http://www.unicafestudio.com/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 618,
+  "displayName": {
+    "text": "UNI Cafe",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ8fDLnZGpQjQRGhuXi9pbQi8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkbldsZHVielJOTFVab1lXRnRibTVyV0cxMWRFRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "好喜歡這種氛圍的咖啡廳\n老闆親切 店內安靜 只有貓貓愛講話而且很親人😂\n餐點茶飲也很有水準\n下次想試試奶類👍🏻",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "好喜歡這種氛圍的咖啡廳\n老闆親切 店內安靜 只有貓貓愛講話而且很親人😂\n餐點茶飲也很有水準\n下次想試試奶類👍🏻",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林詩涵",
+        "uri": "https://www.google.com/maps/contrib/115020876266504644976/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJqI4jtLLHUQjJ9MfxSzytcQcaT33JKJGcuCcQLx9vqzz1gwA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-03-07T14:22:42.470587006Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkbldsZHVielJOTFVab1lXRnRibTVyV0cxMWRFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkbldsZHVielJOTFVab1lXRnRibTVyV0cxMWRFRRAB!2m1!1s0x3442a9919dcbf0f1:0x2f425bda8b971b1a"
+    },
+    {
+      "name": "places/ChIJ8fDLnZGpQjQRGhuXi9pbQi8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sbFdqRmtaSFZ6WjJOemIyZEZhMG8yU1VOUlFXYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "這間店離捷運站有點距離\n意外的是店裡幾乎是客滿\n\n蠻多人是自己來這邊帶電腦工作或唸書的，整體來說不會太吵雜\n\n不太適合來這邊聊天或是大講八卦\n\n店裡有貓貓，老闆會跟貓貓講話哈哈",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這間店離捷運站有點距離\n意外的是店裡幾乎是客滿\n\n蠻多人是自己來這邊帶電腦工作或唸書的，整體來說不會太吵雜\n\n不太適合來這邊聊天或是大講八卦\n\n店裡有貓貓，老闆會跟貓貓講話哈哈",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Liqun (liqun)",
+        "uri": "https://www.google.com/maps/contrib/116322691006994269551/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXTPb8lMuDz8huL49YhbB--tkSewt7DS4hSy0KdjkEiImXj41hz=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-03-08T09:31:35.343860727Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sbFdqRmtaSFZ6WjJOemIyZEZhMG8yU1VOUlFXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sbFdqRmtaSFZ6WjJOemIyZEZhMG8yU1VOUlFXYxAB!2m1!1s0x3442a9919dcbf0f1:0x2f425bda8b971b1a"
+    },
+    {
+      "name": "places/ChIJ8fDLnZGpQjQRGhuXi9pbQi8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1eFdsTnpTSFpSYkRCVWJ6QmtWM0o1YVVWd00xRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "今天喝了熱拿鐵，咖啡香氣十足、尾韻乾淨又順口。\n伯爵磅蛋糕好吃、比司吉外酥內軟，也很棒配咖啡剛剛好。\n\n店裡乾淨、舒服，氛圍復古又溫暖。\n胖胖、小芙都超可愛又親人，被貓咪陪伴的時間真的好療癒。\n\n跟老闆聊天也很開心～\n分享了恰恰的故事，他也很用心地跟我聊他養貓的心得，讓人覺得很溫暖。\n\n五顆星毫不猶豫 ⭐️⭐️⭐️⭐️⭐️\n會再來喝咖啡、吃甜點、找貓咪🐱的！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天喝了熱拿鐵，咖啡香氣十足、尾韻乾淨又順口。\n伯爵磅蛋糕好吃、比司吉外酥內軟，也很棒配咖啡剛剛好。\n\n店裡乾淨、舒服，氛圍復古又溫暖。\n胖胖、小芙都超可愛又親人，被貓咪陪伴的時間真的好療癒。\n\n跟老闆聊天也很開心～\n分享了恰恰的故事，他也很用心地跟我聊他養貓的心得，讓人覺得很溫暖。\n\n五顆星毫不猶豫 ⭐️⭐️⭐️⭐️⭐️\n會再來喝咖啡、吃甜點、找貓咪🐱的！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳筱涵",
+        "uri": "https://www.google.com/maps/contrib/103468131555890702567/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVyEaPrgThZ6WOikk6Ajib3k0wMrZQbkjhqBz8hHa5-iwyqAi0=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-07T12:26:04.572659273Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1eFdsTnpTSFpSYkRCVWJ6QmtWM0o1YVVWd00xRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1eFdsTnpTSFpSYkRCVWJ6QmtWM0o1YVVWd00xRRAB!2m1!1s0x3442a9919dcbf0f1:0x2f425bda8b971b1a"
+    },
+    {
+      "name": "places/ChIJ8fDLnZGpQjQRGhuXi9pbQi8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25rNVoyMXdTVzgyYVU1WUxYVnhhM2hrVldGNlUxRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "相當安靜的咖啡雅店 容我如此稱呼 UNI CAFE 一走進店 想起學生時的桌椅 正是這麼簡單 讓自己放鬆到 專注 定心 閱讀\n店內有提供插座與WIFI 值得您前來品咖啡 店內也有喵喵喔",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "相當安靜的咖啡雅店 容我如此稱呼 UNI CAFE 一走進店 想起學生時的桌椅 正是這麼簡單 讓自己放鬆到 專注 定心 閱讀\n店內有提供插座與WIFI 值得您前來品咖啡 店內也有喵喵喔",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "柚子木",
+        "uri": "https://www.google.com/maps/contrib/111011651545147084458/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWgoi7MOKEPKb2uWqoVM9ZcpqjqP-ZEJwo3YB8ABUI_zqxpnJRj0w=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-03-04T09:35:12.210555733Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25rNVoyMXdTVzgyYVU1WUxYVnhhM2hrVldGNlUxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25rNVoyMXdTVzgyYVU1WUxYVnhhM2hrVldGNlUxRRAB!2m1!1s0x3442a9919dcbf0f1:0x2f425bda8b971b1a"
+    },
+    {
+      "name": "places/ChIJ8fDLnZGpQjQRGhuXi9pbQi8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21jelduZHlRa0paUTFsR1pFSjFXbUpRYkhKeFFsRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "有喵有插頭有 wifi 不限時又有可愛老闆的咖啡廳去哪找\n\n一年 365 天不論晴天雨天，都適合來這裡慵懶一個下午，輕啜一杯在咖啡世界打滾多年老闆的好手藝\n\n偷聽老闆和喵們有一搭沒一搭地聊天，還有rhshjj$.’syuqjihdkah7/72&?’llajanl&,7jdiw…….（看照片就知道發生什麼事了🤪快被可愛死🤩）\n\nIG:m.y.doodles",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "有喵有插頭有 wifi 不限時又有可愛老闆的咖啡廳去哪找\n\n一年 365 天不論晴天雨天，都適合來這裡慵懶一個下午，輕啜一杯在咖啡世界打滾多年老闆的好手藝\n\n偷聽老闆和喵們有一搭沒一搭地聊天，還有rhshjj$.’syuqjihdkah7/72&?’llajanl&,7jdiw…….（看照片就知道發生什麼事了🤪快被可愛死🤩）\n\nIG:m.y.doodles",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Molly CHANG",
+        "uri": "https://www.google.com/maps/contrib/111380275855565626066/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXW6v3q7Csk1o0ywpT-7p4_yLrMxEUDWonFwdbxwl4MuEZW6DWR=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-28T06:04:00.159010750Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21jelduZHlRa0paUTFsR1pFSjFXbUpRYkhKeFFsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21jelduZHlRa0paUTFsR1pFSjFXbUpRYkhKeFFsRRAB!2m1!1s0x3442a9919dcbf0f1:0x2f425bda8b971b1a"
+    }
+  ]
+}

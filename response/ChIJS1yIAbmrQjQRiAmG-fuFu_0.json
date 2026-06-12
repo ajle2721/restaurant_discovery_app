@@ -1,0 +1,129 @@
+{
+  "id": "ChIJS1yIAbmrQjQRiAmG-fuFu_0",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2758 9211",
+  "formattedAddress": "112台灣台北市北投区大同里大业路554號1樓",
+  "location": {
+    "latitude": 25.135258,
+    "longitude": 121.49691500000002
+  },
+  "rating": 4.5,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 143,
+  "displayName": {
+    "text": "Mo's Kitchen 亮萌私房料理",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJS1yIAbmrQjQRiAmG-fuFu_0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xNeGJEWmpNRnBmUzNGa1ZURk5TME5wYWpSa1IxRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "路過被這家溫馨漂亮的小店吸引～\n亮萌老闆十分親切之外，餐點也非常好吃！！！\n在這邊度過一段良好的晚餐時光🥘✨\n一定會再回訪～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "路過被這家溫馨漂亮的小店吸引～\n亮萌老闆十分親切之外，餐點也非常好吃！！！\n在這邊度過一段良好的晚餐時光🥘✨\n一定會再回訪～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "BIBO",
+        "uri": "https://www.google.com/maps/contrib/105157202872059048376/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVvlwTjzzt4enATyGGKDxV5NpQ1LZ5J_Yz6GzcKy0KK3V3DIKEN=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-24T13:11:20.954502619Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xNeGJEWmpNRnBmUzNGa1ZURk5TME5wYWpSa1IxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xNeGJEWmpNRnBmUzNGa1ZURk5TME5wYWpSa1IxRRAB!2m1!1s0x3442abb901885c4b:0xfdbb85fbf9860988"
+    },
+    {
+      "name": "places/ChIJS1yIAbmrQjQRiAmG-fuFu_0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WRE5IWlhVbVZwV201SlZGTjFNbEpZZURWM1QwRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點很好吃😋\n店內氛圍很溫馨，老闆娘人超好，還有可愛的店貓虎克🐱",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點很好吃😋\n店內氛圍很溫馨，老闆娘人超好，還有可愛的店貓虎克🐱",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "洪家蓁",
+        "uri": "https://www.google.com/maps/contrib/102564767917630724345/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLIyJPbnx6rglJTDJxSLTsqBQh-xiBPWXNWiqEIwW1_HEXdMQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-24T11:29:36.453289075Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WRE5IWlhVbVZwV201SlZGTjFNbEpZZURWM1QwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WRE5IWlhVbVZwV201SlZGTjFNbEpZZURWM1QwRRAB!2m1!1s0x3442abb901885c4b:0xfdbb85fbf9860988"
+    },
+    {
+      "name": "places/ChIJS1yIAbmrQjQRiAmG-fuFu_0/reviews/ChdDSUhNMG9nS0VJQ0FnSUN2NUp1b3VRRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "北投的朋友有福了！\n\n情侶想要找個溫馨的小餐館低調慶生、紀念日等，在這裡！\n\n幾名好友想要餐敘，卻又不想要選擇連鎖店，這裡的氛圍不僅有溫度，食物還非常好吃。\n\n上班族如果想要午休時間，對自己好一點，有個安靜一點的用餐地方，來這裡就對了！\n\n捷運北投站附近有不少著名小吃，但是要找到用餐環境舒適的餐廳，食物美味的，似乎選擇不多。這家餐廳從北投捷運站出口步行過來約7分鐘的距離。餐廳原本在國父紀念館逸仙路經營十多年，遷移後我第一次來試看看，味道還在嗎？果然，老闆沒讓我失望。牛肋條有口感，高湯濃郁，新鮮的生菜沙拉，以後我到北投，總算有個舒適的地方可以停下來。\n\n詢問店家是否有提供素食餐點，\n1. 平常有提供不想吃肉蔬食套餐，但是鍋具並沒有跟葷食分開。\n2. 全素者，希望不以葷食料理鍋具者，請前一天以前預約，好讓老闆事先準備。\n\n推薦食物，也佩服老闆用心的佈置。\n期待再訪，也推薦給到北投旅遊的朋友。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "北投的朋友有福了！\n\n情侶想要找個溫馨的小餐館低調慶生、紀念日等，在這裡！\n\n幾名好友想要餐敘，卻又不想要選擇連鎖店，這裡的氛圍不僅有溫度，食物還非常好吃。\n\n上班族如果想要午休時間，對自己好一點，有個安靜一點的用餐地方，來這裡就對了！\n\n捷運北投站附近有不少著名小吃，但是要找到用餐環境舒適的餐廳，食物美味的，似乎選擇不多。這家餐廳從北投捷運站出口步行過來約7分鐘的距離。餐廳原本在國父紀念館逸仙路經營十多年，遷移後我第一次來試看看，味道還在嗎？果然，老闆沒讓我失望。牛肋條有口感，高湯濃郁，新鮮的生菜沙拉，以後我到北投，總算有個舒適的地方可以停下來。\n\n詢問店家是否有提供素食餐點，\n1. 平常有提供不想吃肉蔬食套餐，但是鍋具並沒有跟葷食分開。\n2. 全素者，希望不以葷食料理鍋具者，請前一天以前預約，好讓老闆事先準備。\n\n推薦食物，也佩服老闆用心的佈置。\n期待再訪，也推薦給到北投旅遊的朋友。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ellen Huang",
+        "uri": "https://www.google.com/maps/contrib/106299491654749277328/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUMOXUgD7hTscXNX2xy29rjJyxqtxpMH72Z2yt7vGB0Qxw6QHPJ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2024-12-08T08:49:45.694614Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUN2NUp1b3VRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUN2NUp1b3VRRRAB!2m1!1s0x3442abb901885c4b:0xfdbb85fbf9860988"
+    },
+    {
+      "name": "places/ChIJS1yIAbmrQjQRiAmG-fuFu_0/reviews/ChZDSUhNMG9nS0VJQ0FnTURnNDZ5RFRBEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "美味依舊，環境溫馨，適合聚餐好去處。\n\n蔬菜湯品，濃郁\n主菜，美味搭配\n今日蛋糕很讚，個人偏愛這種餅皮😍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "美味依舊，環境溫馨，適合聚餐好去處。\n\n蔬菜湯品，濃郁\n主菜，美味搭配\n今日蛋糕很讚，個人偏愛這種餅皮😍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳柏村",
+        "uri": "https://www.google.com/maps/contrib/111567221823169933588/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW_IPNZTAR9XUQlDZ3mNqlskctt15J4Ggwr5NQ8dKHp-TP1v09t=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-02-27T03:50:58.928568Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURnNDZ5RFRBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURnNDZ5RFRBEAE!2m1!1s0x3442abb901885c4b:0xfdbb85fbf9860988"
+    },
+    {
+      "name": "places/ChIJS1yIAbmrQjQRiAmG-fuFu_0/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfb0lDb3JBRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "主廚很用心，環境佈置溫馨，餐點美味，擺盤很有巧思，有時間可以去品嚐一下，可預先訂位，還有其他好吃甜品，建議親自體驗品嚐",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "主廚很用心，環境佈置溫馨，餐點美味，擺盤很有巧思，有時間可以去品嚐一下，可預先訂位，還有其他好吃甜品，建議親自體驗品嚐",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "羅彩廷",
+        "uri": "https://www.google.com/maps/contrib/106729924442945605398/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX-fVFLRRuH5IigJJn5uNmrsB40_4oH2R4yO7kd-5zu0LmTF2g=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-01-11T19:38:47.272993Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfb0lDb3JBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfb0lDb3JBRRAB!2m1!1s0x3442abb901885c4b:0xfdbb85fbf9860988"
+    }
+  ]
+}

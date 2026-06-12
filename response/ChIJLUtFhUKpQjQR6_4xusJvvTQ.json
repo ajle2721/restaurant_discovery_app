@@ -1,0 +1,138 @@
+{
+  "id": "ChIJLUtFhUKpQjQR6_4xusJvvTQ",
+  "types": [
+    "pizza_delivery",
+    "meal_delivery",
+    "food_delivery",
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2542 9698",
+  "formattedAddress": "10446台灣臺北市中山區中山里民生東路一段10號",
+  "location": {
+    "latitude": 25.0578362,
+    "longitude": 121.5233947
+  },
+  "rating": 4.5,
+  "websiteUri": "https://www.pizzahut.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1143,
+  "displayName": {
+    "text": "PIZZA HUT必勝客-馬偕外送店",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJLUtFhUKpQjQR6_4xusJvvTQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aaGVUaGxSbmxhTW14cmFHVTBTV1ZCYTBSWlNIYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 2,
+      "text": {
+        "text": "幾乎快1/3的餅皮沒有料，不能因為特價就偷工減料啊！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "幾乎快1/3的餅皮沒有料，不能因為特價就偷工減料啊！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "lily lin",
+        "uri": "https://www.google.com/maps/contrib/118155975149618016012/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWoj-T-Jb7bsLo1pInfviOx5IgQvXbTTfgBrkHWbrdRddgEk48=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-03-08T11:55:44.774626560Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aaGVUaGxSbmxhTW14cmFHVTBTV1ZCYTBSWlNIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aaGVUaGxSbmxhTW14cmFHVTBTV1ZCYTBSWlNIYxAB!2m1!1s0x3442a94285454b2d:0x34bd6fc2ba31feeb"
+    },
+    {
+      "name": "places/ChIJLUtFhUKpQjQR6_4xusJvvTQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OaFVWaFVVVXhDYlhod1JsaENiV1UyTUhCck5tYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 1,
+      "text": {
+        "text": "我不懂，跨年訂單滿單，我訂單送出時間晚上6點多，系統因單數過多跑到20:05，那就算了！20:10分與門市聯繫，卻跟我說訂單過多要20:45分才送，50分左右外送員送來，我下樓拿取披薩卻是別人家的披薩，聯繫外送員趕緊卻等了一段時間，打去門市卻回我要耐心等後外送員，想請問！！披薩我完整拿到時間21點，披薩也冷了，我應該嗎？人手不足為何沒做先前處理分配訂單這類的",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "我不懂，跨年訂單滿單，我訂單送出時間晚上6點多，系統因單數過多跑到20:05，那就算了！20:10分與門市聯繫，卻跟我說訂單過多要20:45分才送，50分左右外送員送來，我下樓拿取披薩卻是別人家的披薩，聯繫外送員趕緊卻等了一段時間，打去門市卻回我要耐心等後外送員，想請問！！披薩我完整拿到時間21點，披薩也冷了，我應該嗎？人手不足為何沒做先前處理分配訂單這類的",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "劉信宏",
+        "uri": "https://www.google.com/maps/contrib/101877240452212760727/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ2elOoN8Gab_OZ9gBpQl-jqEMqvEZW9GHmz_m7y0GrGVwSpQ=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-31T13:06:27.519363774Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OaFVWaFVVVXhDYlhod1JsaENiV1UyTUhCck5tYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OaFVWaFVVVXhDYlhod1JsaENiV1UyTUhCck5tYxAB!2m1!1s0x3442a94285454b2d:0x34bd6fc2ba31feeb"
+    },
+    {
+      "name": "places/ChIJLUtFhUKpQjQR6_4xusJvvTQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KZlVrOWlXVFZTV2paTGNEaDBVME54VkRWSldrRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 2,
+      "text": {
+        "text": "外送員是吃火藥嗎？下樓不用時間嗎？一直催口氣還很差",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "外送員是吃火藥嗎？下樓不用時間嗎？一直催口氣還很差",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "翔大",
+        "uri": "https://www.google.com/maps/contrib/100614800831927084273/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWHKEsqXT4qGTXjtiSkWfnsEEKGhGKCVjmmwRCHS0ClqTgnXD4=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-03-01T13:29:41.342238918Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KZlVrOWlXVFZTV2paTGNEaDBVME54VkRWSldrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KZlVrOWlXVFZTV2paTGNEaDBVME54VkRWSldrRRAB!2m1!1s0x3442a94285454b2d:0x34bd6fc2ba31feeb"
+    },
+    {
+      "name": "places/ChIJLUtFhUKpQjQR6_4xusJvvTQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oQllXOUhNa0oxYmxwQ1dUWlVjVlZLTkVSaWJrRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "都是在 app訂餐再前往拿取，每次餐點都能準時提供！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "都是在 app訂餐再前往拿取，每次餐點都能準時提供！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Annie Hsieh",
+        "uri": "https://www.google.com/maps/contrib/116987204530153045215/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXREU4ErCyxs70AbZYE_HMbblz0XueSzgKObUMYjmlk14eA6Lv2=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-16T13:41:13.307617220Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oQllXOUhNa0oxYmxwQ1dUWlVjVlZLTkVSaWJrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oQllXOUhNa0oxYmxwQ1dUWlVjVlZLTkVSaWJrRRAB!2m1!1s0x3442a94285454b2d:0x34bd6fc2ba31feeb"
+    },
+    {
+      "name": "places/ChIJLUtFhUKpQjQR6_4xusJvvTQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sc1pHNDJZa3B1V25kQ1NUZFdUREZZVVRObmJrRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "1/20（11:00）去外帶夏威夷披薩（這是不敗的口味），居然沒有辣椒粉.辣椒粉.辣椒粉…真的很難過💔據說是總公司不再提供.. ⋯披蕯沒有辣椒粉吃兩塊就很膩口，如果真的沒有辣椒粉，以後我不會再回購了。畢竟吃的是回憶⋯希望貴公司別省這個小錢，少了辣椒粉，味道都變了，就不值得吃了。此分店烤的披蕯很好吃，我們都很喜歡。\n謝謝回覆，更改為五顆星⋯希望辣椒粉可以儘快回歸。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "1/20（11:00）去外帶夏威夷披薩（這是不敗的口味），居然沒有辣椒粉.辣椒粉.辣椒粉…真的很難過💔據說是總公司不再提供.. ⋯披蕯沒有辣椒粉吃兩塊就很膩口，如果真的沒有辣椒粉，以後我不會再回購了。畢竟吃的是回憶⋯希望貴公司別省這個小錢，少了辣椒粉，味道都變了，就不值得吃了。此分店烤的披蕯很好吃，我們都很喜歡。\n謝謝回覆，更改為五顆星⋯希望辣椒粉可以儘快回歸。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "莊蘭芬",
+        "uri": "https://www.google.com/maps/contrib/116582469402457013173/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJK2BAzctgx1396g2vl19ihewJLuO6iNdSYYkM2NVvSd8-6g1o=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-20T12:37:38.413121353Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sc1pHNDJZa3B1V25kQ1NUZFdUREZZVVRObmJrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sc1pHNDJZa3B1V25kQ1NUZFdUREZZVVRObmJrRRAB!2m1!1s0x3442a94285454b2d:0x34bd6fc2ba31feeb"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+{
+  "id": "ChIJx5xcVLqrQjQRefj2K5gdaZo",
+  "types": [
+    "coffee_shop",
+    "cafe",
+    "bar",
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 6622 8018",
+  "formattedAddress": "110台灣臺北市信義區西村里松仁路38號1樓",
+  "location": {
+    "latitude": 25.038204399999998,
+    "longitude": 121.5680558
+  },
+  "rating": 4.1,
+  "websiteUri": "http://www.lemeridien-taipei.com/#/cuisine/4",
+  "userRatingCount": 458,
+  "displayName": {
+    "text": "北緯二十五",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Hotel cafe & restaurant offering coffee & international dishes in a chic, refined atmosphere.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJx5xcVLqrQjQRefj2K5gdaZo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCUVkybGpVRGh5VmtoWk5tZE9WbTFDWVZSa01WRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "拿鐵很淡可能需要多一份濃縮咖啡，鹹麵包很好吃，滿滿的蔥🥰",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "拿鐵很淡可能需要多一份濃縮咖啡，鹹麵包很好吃，滿滿的蔥🥰",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Julie Chiu",
+        "uri": "https://www.google.com/maps/contrib/108876809839924105833/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWGIMUC7KvypuHJve8rOfbqAx4iWIz6jHZ84QeoATVWtgLA_Phs=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-25T07:34:14.699442363Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCUVkybGpVRGh5VmtoWk5tZE9WbTFDWVZSa01WRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCUVkybGpVRGh5VmtoWk5tZE9WbTFDWVZSa01WRRAB!2m1!1s0x3442abba545c9cc7:0x9a691d982bf6f879"
+    },
+    {
+      "name": "places/ChIJx5xcVLqrQjQRefj2K5gdaZo/reviews/ChdDSUhNMG9nS0VPSEQ4cnFPMmRldXV3RRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "「名伶午後」雙人下午茶官網預訂，前一天下午6點需刷卡付清款項。一樓大廳側邊開放式用餐，環境冷氣不強造成部分甜點融化、路過客人略雜。三層鳥籠，鹹點現做開胃小品3道，精緻美味口感豐富。甜點6道視覺效果佳，風味清新，除「薰衣草聖荷諾」、「茉莉花紅絲絨蛋糕」吃不出花草香味，多數表現水準上。比較驚心的是茶飲，限點250元，只有冰紅茶，四款熱茶280元，均需補價差30元，雙人訂價1280元提高成1340元加服務費10%，建議把價差內含於訂價內，不要當場付現。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "「名伶午後」雙人下午茶官網預訂，前一天下午6點需刷卡付清款項。一樓大廳側邊開放式用餐，環境冷氣不強造成部分甜點融化、路過客人略雜。三層鳥籠，鹹點現做開胃小品3道，精緻美味口感豐富。甜點6道視覺效果佳，風味清新，除「薰衣草聖荷諾」、「茉莉花紅絲絨蛋糕」吃不出花草香味，多數表現水準上。比較驚心的是茶飲，限點250元，只有冰紅茶，四款熱茶280元，均需補價差30元，雙人訂價1280元提高成1340元加服務費10%，建議把價差內含於訂價內，不要當場付現。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "薇薇的天空",
+        "uri": "https://www.google.com/maps/contrib/102615735640700997708/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUlunC_hEdPmCdlZGfPXrAECqFOVdXMIUJIgAln8lQxS52WFHA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-05-17T10:39:04.232966Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VPSEQ4cnFPMmRldXV3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VPSEQ4cnFPMmRldXV3RRAB!2m1!1s0x3442abba545c9cc7:0x9a691d982bf6f879"
+    },
+    {
+      "name": "places/ChIJx5xcVLqrQjQRefj2K5gdaZo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxTmVIVndla0l3WldWYUxWUkNNblp1WkVwSWNGRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "星期六晚上\n如果在信義區找不到餐廳吃飯\n這是個優雅的好去處\n一門之隔就是哄鬧的人群",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "星期六晚上\n如果在信義區找不到餐廳吃飯\n這是個優雅的好去處\n一門之隔就是哄鬧的人群",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Roro Hunag",
+        "uri": "https://www.google.com/maps/contrib/114178102693388180058/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJMXkg8nDonlMuQJGJTsHMVZXJgCeVegmTErmL2G-bUxd1ph5MF=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-09T03:09:10.246951891Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxTmVIVndla0l3WldWYUxWUkNNblp1WkVwSWNGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxTmVIVndla0l3WldWYUxWUkNNblp1WkVwSWNGRRAB!2m1!1s0x3442abba545c9cc7:0x9a691d982bf6f879"
+    },
+    {
+      "name": "places/ChIJx5xcVLqrQjQRefj2K5gdaZo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toa1JVOTZTV2xDWkZCeVJqWmtla3RyV1c1RlgyYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 3,
+      "text": {
+        "text": "甜點蠻精緻的，可惜環境/餐具都普通\n服務人員親切友善，服務不錯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "甜點蠻精緻的，可惜環境/餐具都普通\n服務人員親切友善，服務不錯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Arora",
+        "uri": "https://www.google.com/maps/contrib/100127573398535082660/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXCkexWc2rU_gH8CsMCcvFNe-wrtH8hqtqqupGOwt84rjw6emUK=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-13T04:37:10.194304450Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toa1JVOTZTV2xDWkZCeVJqWmtla3RyV1c1RlgyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toa1JVOTZTV2xDWkZCeVJqWmtla3RyV1c1RlgyYxAB!2m1!1s0x3442abba545c9cc7:0x9a691d982bf6f879"
+    },
+    {
+      "name": "places/ChIJx5xcVLqrQjQRefj2K5gdaZo/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzMjdYQXhBRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 1,
+      "text": {
+        "text": "起司片發苦直接從自助餐台拿來拼裝（鮮度差），蠟腸味也是有股澀澀的味道因為我自己是常用辣腸配食紅酒的老饕，那顏色一看就是開封一天以上老了的色澤，起司盤含服務費快530元,但是供給吃自助餐內場上客人取剩下的真的很不舒服。\n最近有進口商驗出起司大腸桿菌希望你們注意，另再加強供餐的品質跟價格能合理。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "起司片發苦直接從自助餐台拿來拼裝（鮮度差），蠟腸味也是有股澀澀的味道因為我自己是常用辣腸配食紅酒的老饕，那顏色一看就是開封一天以上老了的色澤，起司盤含服務費快530元,但是供給吃自助餐內場上客人取剩下的真的很不舒服。\n最近有進口商驗出起司大腸桿菌希望你們注意，另再加強供餐的品質跟價格能合理。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "iswu Dallago",
+        "uri": "https://www.google.com/maps/contrib/106046785241199542229/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWsE3zID52zLnZ5D07uXIEZrqiS6NC3mgRPa0sXCtqvJm1V3-boYw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2024-11-19T07:56:13.657066Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzMjdYQXhBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzMjdYQXhBRRAB!2m1!1s0x3442abba545c9cc7:0x9a691d982bf6f879"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

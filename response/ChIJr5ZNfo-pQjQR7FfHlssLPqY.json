@@ -1,0 +1,131 @@
+{
+  "id": "ChIJr5ZNfo-pQjQR7FfHlssLPqY",
+  "types": [
+    "family_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2363 6434",
+  "formattedAddress": "106台灣臺北市大安區龍泉里師大路55號4 樓",
+  "location": {
+    "latitude": 25.0240448,
+    "longitude": 121.5286299
+  },
+  "rating": 5,
+  "userRatingCount": 28,
+  "displayName": {
+    "text": "師廬伙食團(師大崇德社)",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJr5ZNfo-pQjQR7FfHlssLPqY/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3bkltbXdnRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "這裡的廚師會把素食煮得超好吃😋，雖然只有一到五的晚上，但是這裡的氣氛超溫馨，每次來這裡就好像為自己充電一樣😍😍非常推薦大家可以來這裡吃素食，一餐只要50塊，營養又健康💪💪",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這裡的廚師會把素食煮得超好吃😋，雖然只有一到五的晚上，但是這裡的氣氛超溫馨，每次來這裡就好像為自己充電一樣😍😍非常推薦大家可以來這裡吃素食，一餐只要50塊，營養又健康💪💪",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "李炤彤",
+        "uri": "https://www.google.com/maps/contrib/100728718785400796321/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKhW6KODIMPuSz5cgbpTRUP2EO6dWApqMPvS7_lLGtesEzl4ZW7=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2024-08-22T09:04:49.392647Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ3bkltbXdnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ3bkltbXdnRRAB!2m1!1s0x3442a98f7e4d96af:0xa63e0bcb96c757ec"
+    },
+    {
+      "name": "places/ChIJr5ZNfo-pQjQR7FfHlssLPqY/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ3bkpIQUVnEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "能夠一起準備美味的蔬食餐點～好吃又便宜！\n也有美食DIY等不錯的活動可以參加！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "能夠一起準備美味的蔬食餐點～好吃又便宜！\n也有美食DIY等不錯的活動可以參加！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "05 Miao",
+        "uri": "https://www.google.com/maps/contrib/118407754256101157230/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUvC6M7n-mVCB7c_g00c6NImzc4y8y9_dqpBybgyP_hGMfIEjqI=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2024-08-22T09:00:58.129080Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ3bkpIQUVnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ3bkpIQUVnEAE!2m1!1s0x3442a98f7e4d96af:0xa63e0bcb96c757ec"
+    },
+    {
+      "name": "places/ChIJr5ZNfo-pQjQR7FfHlssLPqY/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwazRDRTNBRRAB",
+      "relativePublishTimeDescription": "6 年前",
+      "rating": 5,
+      "text": {
+        "text": "來師大想吃滷味的首選，腱子肉跟板條都是每次來必點的😋😋😋😋😋",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "來師大想吃滷味的首選，腱子肉跟板條都是每次來必點的😋😋😋😋😋",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "許佑齊",
+        "uri": "https://www.google.com/maps/contrib/114162692891803541193/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKL9zTXefQoF6aA0UFcXD4eNnulSIEcIVTzJrCUXrEapZtg1Q=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2019-10-09T03:44:40.290846Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMwazRDRTNBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMwazRDRTNBRRAB!2m1!1s0x3442a98f7e4d96af:0xa63e0bcb96c757ec"
+    },
+    {
+      "name": "places/ChIJr5ZNfo-pQjQR7FfHlssLPqY/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ3bkpYMHRBRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "平日都有好吃的家常菜😍超讚😍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "平日都有好吃的家常菜😍超讚😍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "徐睿妤",
+        "uri": "https://www.google.com/maps/contrib/108308438632622004441/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVoVH2qeumiIhbsaDRIiFqs87OI_FbgSg4bEM3wQcJig6uOaEAuTQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2024-08-22T09:14:20.882541Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ3bkpYMHRBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ3bkpYMHRBRRAB!2m1!1s0x3442a98f7e4d96af:0xa63e0bcb96c757ec"
+    },
+    {
+      "name": "places/ChIJr5ZNfo-pQjQR7FfHlssLPqY/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ3bko3OUtREAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "即使物價高漲，餐點仍維持便宜又好吃的高品質，一定會常常來🫶",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "即使物價高漲，餐點仍維持便宜又好吃的高品質，一定會常常來🫶",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "劉宜儒",
+        "uri": "https://www.google.com/maps/contrib/110149255560526459731/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKBEFJ8YwZaSETgJxE0QkFXD_gyP0L7w44Os4IH4hoOQszp9A=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2024-08-22T08:54:22.381894Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ3bko3OUtREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ3bko3OUtREAE!2m1!1s0x3442a98f7e4d96af:0xa63e0bcb96c757ec"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

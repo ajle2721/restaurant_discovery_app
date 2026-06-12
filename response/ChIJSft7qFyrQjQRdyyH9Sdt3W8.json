@@ -1,0 +1,131 @@
+﻿{
+    "id":  "ChIJSft7qFyrQjQRdyyH9Sdt3W8",
+    "types":  [
+                  "restaurant",
+                  "brunch_restaurant",
+                  "food_store",
+                  "food",
+                  "store",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 8661 8008",
+    "formattedAddress":  "116台灣臺北市文山區萬興里新光路一段189號1F",
+    "location":  {
+                     "latitude":  24.9932497,
+                     "longitude":  121.5740364
+                 },
+    "rating":  4.7,
+    "userRatingCount":  177,
+    "displayName":  {
+                        "text":  "FEED ZONE CAFE 運動早午餐",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJSft7qFyrQjQRdyyH9Sdt3W8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tadGNIbE5OVUpUWDFCeGFteHFkakZJUlVkdVNsRRAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "整體感覺很不錯👍\n唯一希望改進的是女生廁所。今天進去有兩間，但一間不能用，剩一間，馬桶有不乾淨。如果能刷得乾淨就完美了。\n另外今天用餐好像只有老闆一個人，所以等待的時間有點久。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "整體感覺很不錯👍\n唯一希望改進的是女生廁所。今天進去有兩間，但一間不能用，剩一間，馬桶有不乾淨。如果能刷得乾淨就完美了。\n另外今天用餐好像只有老闆一個人，所以等待的時間有點久。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "G蛋媽",
+                                                  "uri":  "https://www.google.com/maps/contrib/111321458566812944883/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjU2sc4Gjl7cI-y4ilTb29wWLolNWje8IZYufINb306mktpFDlpU1Q=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2026-02-11T06:20:26.134512589Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tadGNIbE5OVUpUWDFCeGFteHFkakZJUlVkdVNsRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tadGNIbE5OVUpUWDFCeGFteHFkakZJUlVkdVNsRRAB!2m1!1s0x3442ab5ca87bfb49:0x6fdd6d27f5872c77"
+                    },
+                    {
+                        "name":  "places/ChIJSft7qFyrQjQRdyyH9Sdt3W8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCVUxXbFZNV1JHTlVzNFMwVm5UVGxITTFWWFpGRRAB",
+                        "relativePublishTimeDescription":  "9 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "如果想安排動物園🦒🐒🐘🦍/貓空纜車🚡一日遊的早上，來這裡吃早午餐非常適合！！！環境明亮、舒適乾淨（也很安靜），餐點選擇也算蠻多樣化的👍🏻👍🏻👍🏻～\n跟朋友原本想點優格莓果碗，但不巧優格賣完了🥹🥹🥹…老闆說優格是他們自己做的，需要三天的時間⌛️（雖然這次沒有吃到覺得有點可惜，但也因此覺得，用料都是很實在的！下次有機會的話會想再訪🤩🤩🤩！看看能不能吃到嚕😚😚😚）\n店內裝潢、擺設真的很符合「運動」早午餐的名稱，看到許多腳踏車、運動用品的元素😆😆😆",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "如果想安排動物園🦒🐒🐘🦍/貓空纜車🚡一日遊的早上，來這裡吃早午餐非常適合！！！環境明亮、舒適乾淨（也很安靜），餐點選擇也算蠻多樣化的👍🏻👍🏻👍🏻～\n跟朋友原本想點優格莓果碗，但不巧優格賣完了🥹🥹🥹…老闆說優格是他們自己做的，需要三天的時間⌛️（雖然這次沒有吃到覺得有點可惜，但也因此覺得，用料都是很實在的！下次有機會的話會想再訪🤩🤩🤩！看看能不能吃到嚕😚😚😚）\n店內裝潢、擺設真的很符合「運動」早午餐的名稱，看到許多腳踏車、運動用品的元素😆😆😆",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Hao Yun Liu",
+                                                  "uri":  "https://www.google.com/maps/contrib/116737185394981787862/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocJmfkJnETQb8NmxtHTWrSQO6ISRNQ8xUWgnHo-c-jxFt4V6DA=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-08-22T16:21:50.220395424Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCVUxXbFZNV1JHTlVzNFMwVm5UVGxITTFWWFpGRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCVUxXbFZNV1JHTlVzNFMwVm5UVGxITTFWWFpGRRAB!2m1!1s0x3442ab5ca87bfb49:0x6fdd6d27f5872c77"
+                    },
+                    {
+                        "name":  "places/ChIJSft7qFyrQjQRdyyH9Sdt3W8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCU1VXSXpaWGd0VFhaeFowNUdTMVppU1dwcVlsRRAB",
+                        "relativePublishTimeDescription":  "7 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "餐點很好吃，吃得出用心\n不是拿冷凍食品來交差\n空間舒適，完美可架單車\n\n捲餅內好像有香菜調味…吃了有點怕..\n撇開香菜不說但整體上是很好吃的\n\n廁所還有提供衛生棉，友善空間值得讚賞",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "餐點很好吃，吃得出用心\n不是拿冷凍食品來交差\n空間舒適，完美可架單車\n\n捲餅內好像有香菜調味…吃了有點怕..\n撇開香菜不說但整體上是很好吃的\n\n廁所還有提供衛生棉，友善空間值得讚賞",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Ada Lin",
+                                                  "uri":  "https://www.google.com/maps/contrib/111156369353713482246/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVjFnNh-kcymRLd5JtIzjfpOXs9MJDcsH4EZ2ntYxLU-b_1-syoXQ=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-09-28T06:54:37.933833948Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCU1VXSXpaWGd0VFhaeFowNUdTMVppU1dwcVlsRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCU1VXSXpaWGd0VFhaeFowNUdTMVppU1dwcVlsRRAB!2m1!1s0x3442ab5ca87bfb49:0x6fdd6d27f5872c77"
+                    },
+                    {
+                        "name":  "places/ChIJSft7qFyrQjQRdyyH9Sdt3W8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCNFkzWXpWRFJVV21oWWVXWTROWEJVYVZoVVpXYxAB",
+                        "relativePublishTimeDescription":  "8 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "非常讚的餐，居然開在自行車店內，餐點好吃，也有異國味，店內有股淡淡地香氣，非常適合用餐，想必在次購買自行車或相關物品時，一定也是非常舒服的，是間值得推薦的店家。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "非常讚的餐，居然開在自行車店內，餐點好吃，也有異國味，店內有股淡淡地香氣，非常適合用餐，想必在次購買自行車或相關物品時，一定也是非常舒服的，是間值得推薦的店家。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Terry Chiang",
+                                                  "uri":  "https://www.google.com/maps/contrib/109053335007001422325/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXqxy9H39m4-eG6MRflJY-R9Fs3NrkjWTGuo5fXBD7h0bcx_3PVfQ=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2025-09-24T10:07:11.357978711Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCNFkzWXpWRFJVV21oWWVXWTROWEJVYVZoVVpXYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCNFkzWXpWRFJVV21oWWVXWTROWEJVYVZoVVpXYxAB!2m1!1s0x3442ab5ca87bfb49:0x6fdd6d27f5872c77"
+                    },
+                    {
+                        "name":  "places/ChIJSft7qFyrQjQRdyyH9Sdt3W8/reviews/Ci9DQUlRQUNvZENodHljRjlvT214M05tVlZNMUZYTkRacVIxTTBNMlpqVVhOMWFVRRAB",
+                        "relativePublishTimeDescription":  "2 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "餐點都很好吃，吃的出現做原形食物的品質，清爽舒服而且又健康👍",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "餐點都很好吃，吃的出現做原形食物的品質，清爽舒服而且又健康👍",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "楊林Carol Yang",
+                                                  "uri":  "https://www.google.com/maps/contrib/117431553213147806704/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXAP9KGMHYQkEQ9_3M8JF60V4SftZ2T1FRUy_OU_JGupKXpTMuOsg=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2026-03-08T07:37:33.899001077Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214M05tVlZNMUZYTkRacVIxTTBNMlpqVVhOMWFVRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214M05tVlZNMUZYTkRacVIxTTBNMlpqVVhOMWFVRRAB!2m1!1s0x3442ab5ca87bfb49:0x6fdd6d27f5872c77"
+                    }
+                ]
+}

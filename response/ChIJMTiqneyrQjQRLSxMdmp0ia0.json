@@ -1,0 +1,130 @@
+﻿{
+    "id":  "ChIJMTiqneyrQjQRLSxMdmp0ia0",
+    "types":  [
+                  "breakfast_restaurant",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2651 3852",
+    "formattedAddress":  "115台灣臺北市南港區三重里新民街37號",
+    "location":  {
+                     "latitude":  25.056106099999997,
+                     "longitude":  121.61279580000001
+                 },
+    "rating":  4.8,
+    "websiteUri":  "https://lin.ee/0a9i0Uo",
+    "userRatingCount":  18,
+    "displayName":  {
+                        "text":  "壹晨食光早午餐-南港人氣早午餐|熱門早午餐|外帶早午餐|平價早午餐|在地推薦早午餐|必吃早午餐|早午餐首選|好吃早午餐",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJMTiqneyrQjQRLSxMdmp0ia0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkYU9FMTFURU5tVTJSS09HZG9kVUpxYVdjMGRuYxAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "里肌蛋餅65元",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "里肌蛋餅65元",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "L",
+                                                  "uri":  "https://www.google.com/maps/contrib/105929241964797254567/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWHBXC9NOfuAJkhQAHB8ac85iHCEq4BVZZmCCvAK7GlUiMaDKTQ=s128-c0x00000000-cc-rp-mo-ba8"
+                                              },
+                        "publishTime":  "2025-12-09T01:31:49.520357927Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkYU9FMTFURU5tVTJSS09HZG9kVUpxYVdjMGRuYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkYU9FMTFURU5tVTJSS09HZG9kVUpxYVdjMGRuYxAB!2m1!1s0x3442abec9daa3831:0xad89746a764c2c2d"
+                    },
+                    {
+                        "name":  "places/ChIJMTiqneyrQjQRLSxMdmp0ia0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ObGRHbzJNVzEyUVMwMVRsTkZaRWQxUlRadmRtYxAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "還行蠻平價，但下次去吃不知道是哪時候",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "還行蠻平價，但下次去吃不知道是哪時候",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "あのさー",
+                                                  "uri":  "https://www.google.com/maps/contrib/105439340419249418068/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXKF8fI7F08jPAPLMHR4CScoD6q4aLwHlC1O57vGcteEorADZYh=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2026-01-22T07:39:01.814927427Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25ObGRHbzJNVzEyUVMwMVRsTkZaRWQxUlRadmRtYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ObGRHbzJNVzEyUVMwMVRsTkZaRWQxUlRadmRtYxAB!2m1!1s0x3442abec9daa3831:0xad89746a764c2c2d"
+                    },
+                    {
+                        "name":  "places/ChIJMTiqneyrQjQRLSxMdmp0ia0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkUmFXeFFha1ZKTFhJeFpETkVaWGRvTW1wWk5FRRAB",
+                        "relativePublishTimeDescription":  "8 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "餐點好吃，老闆很親切，會在回購喔！讚讚👍",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "餐點好吃，老闆很親切，會在回購喔！讚讚👍",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "高淑芬",
+                                                  "uri":  "https://www.google.com/maps/contrib/104438758501221544145/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocKEJ_yQ2i19NcVy3yLPm6vDqk_gCICDwlHVvJfxV9nrE9Gcxw=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2025-09-08T01:02:14.136618610Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkUmFXeFFha1ZKTFhJeFpETkVaWGRvTW1wWk5FRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkUmFXeFFha1ZKTFhJeFpETkVaWGRvTW1wWk5FRRAB!2m1!1s0x3442abec9daa3831:0xad89746a764c2c2d"
+                    },
+                    {
+                        "name":  "places/ChIJMTiqneyrQjQRLSxMdmp0ia0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twd01WTjNTRTFMV0VwdFYzazVYMEZCZURoNFVHYxAB",
+                        "relativePublishTimeDescription":  "8 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "餐點健康不油膩，內用無油煙味，服務很好！推薦～",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "餐點健康不油膩，內用無油煙味，服務很好！推薦～",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "kelly Lee",
+                                                  "uri":  "https://www.google.com/maps/contrib/103459760921369348428/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocIEHGV-_BG0DU6F7jrJwnmB7GfqCpPEbbui6aTUQH5Gr9y9Ww=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-09-12T05:15:28.696594553Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twd01WTjNTRTFMV0VwdFYzazVYMEZCZURoNFVHYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twd01WTjNTRTFMV0VwdFYzazVYMEZCZURoNFVHYxAB!2m1!1s0x3442abec9daa3831:0xad89746a764c2c2d"
+                    },
+                    {
+                        "name":  "places/ChIJMTiqneyrQjQRLSxMdmp0ia0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4VldrYzBlbmx4WTBKb1YxZFRRMjVIYmxSNGNFRRAB",
+                        "relativePublishTimeDescription":  "8 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "店家態度好，餐點不錯吃",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "店家態度好，餐點不錯吃",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "曾耀輝",
+                                                  "uri":  "https://www.google.com/maps/contrib/115616649423284953025/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjW10c_2rJCLr0A8x39iZUfjWO0vMA5Cupygw5LA3i-oSucGpeE=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2025-09-08T01:01:15.874167266Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4VldrYzBlbmx4WTBKb1YxZFRRMjVIYmxSNGNFRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4VldrYzBlbmx4WTBKb1YxZFRRMjVIYmxSNGNFRRAB!2m1!1s0x3442abec9daa3831:0xad89746a764c2c2d"
+                    }
+                ]
+}

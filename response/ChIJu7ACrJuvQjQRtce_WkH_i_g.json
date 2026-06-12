@@ -1,0 +1,130 @@
+{
+  "id": "ChIJu7ACrJuvQjQRtce_WkH_i_g",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 968 868 803",
+  "formattedAddress": "112台灣臺北市北投區中心里泉源路11號",
+  "location": {
+    "latitude": 25.137543599999997,
+    "longitude": 121.5039673
+  },
+  "rating": 4.6,
+  "websiteUri": "https://www.facebook.com/profile.php?id=100094094671178&mibextid=ZbWKwL",
+  "userRatingCount": 100,
+  "displayName": {
+    "text": "台北【麥飯糰】夏日輕食推薦 l 團體訂餐推薦 l 北投親子友善推薦｜北投美食推薦｜北投握飯糰/素食（蛋奶素）飯糰｜北投平價美食推薦｜北投下午茶推薦｜北投午餐推薦｜北投晚餐推薦",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJu7ACrJuvQjQRtce_WkH_i_g/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wbk5GVmxZME5ZUkdGSFIyWkNWVGRpTTBkeFJYYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "⭕塔塔蝦握飯糰90元，米飯口感粒粒分明，好吃。\n⭕店家有提供立食空間，方便不想邊走邊吃的食客。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "⭕塔塔蝦握飯糰90元，米飯口感粒粒分明，好吃。\n⭕店家有提供立食空間，方便不想邊走邊吃的食客。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chiao Ho",
+        "uri": "https://www.google.com/maps/contrib/104580027558411386758/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVD2wP4BvTFxZ-zRKx5ZMZrin2XqoU0CTYzJpUe00UO-SRCp5xZ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-23T10:46:55.463227388Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wbk5GVmxZME5ZUkdGSFIyWkNWVGRpTTBkeFJYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wbk5GVmxZME5ZUkdGSFIyWkNWVGRpTTBkeFJYYxAB!2m1!1s0x3442af9bac02b0bb:0xf88bff415abfc7b5"
+    },
+    {
+      "name": "places/ChIJu7ACrJuvQjQRtce_WkH_i_g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWeFkybHdlRGd6VVdSRVpsbFlTamhRTTNkbFNtYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "很好吃的飯糰，cp值高，來新北投無意間經過沒想到這麼好吃，希望可以開分店去市中心🥹",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很好吃的飯糰，cp值高，來新北投無意間經過沒想到這麼好吃，希望可以開分店去市中心🥹",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "蔡沛㚬",
+        "uri": "https://www.google.com/maps/contrib/106460248966821505360/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXXgX6yQYAJR_rKI8HfcP2S6XtuVbmyVkq5RpCh5CYKs7LbW4AEug=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-28T10:10:48.112694115Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWeFkybHdlRGd6VVdSRVpsbFlTamhRTTNkbFNtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWeFkybHdlRGd6VVdSRVpsbFlTamhRTTNkbFNtYxAB!2m1!1s0x3442af9bac02b0bb:0xf88bff415abfc7b5"
+    },
+    {
+      "name": "places/ChIJu7ACrJuvQjQRtce_WkH_i_g/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCUWQyRm9RVjlyU2pGb1oxRlJWRXBZYmpWNGFHYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "原味60，口味很不錯，包裝很用心，份量不大，如果美乃滋可以再多一點更好吃。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "原味60，口味很不錯，包裝很用心，份量不大，如果美乃滋可以再多一點更好吃。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "蔡小峰",
+        "uri": "https://www.google.com/maps/contrib/110492627090942724141/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocILJFNBrFTjeUuTPkYs9QMIamKgsAlBlKJTnh9yscoVkahK7w=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-14T02:38:47.851755497Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCUWQyRm9RVjlyU2pGb1oxRlJWRXBZYmpWNGFHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCUWQyRm9RVjlyU2pGb1oxRlJWRXBZYmpWNGFHYxAB!2m1!1s0x3442af9bac02b0bb:0xf88bff415abfc7b5"
+    },
+    {
+      "name": "places/ChIJu7ACrJuvQjQRtce_WkH_i_g/reviews/ChdDSUhNMG9nS0VJQ0FnSURfMHVuTndnRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "支援多元支付，發票可以存載具\n\n本次享用卡拉雞飯糰\n飯糰整體尚可，薯條脆脆好吃\n炸蝦粉偏厚，蝦偏小\n味增湯甜甜好喝",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "支援多元支付，發票可以存載具\n\n本次享用卡拉雞飯糰\n飯糰整體尚可，薯條脆脆好吃\n炸蝦粉偏厚，蝦偏小\n味增湯甜甜好喝",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Y I",
+        "uri": "https://www.google.com/maps/contrib/103916878421002513171/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7QNCM-9z9lkDjgVXhiiMET0ohSdiGuyC_PLCezjNUnHQM85I-=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-01-23T02:40:11.249651Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfMHVuTndnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfMHVuTndnRRAB!2m1!1s0x3442af9bac02b0bb:0xf88bff415abfc7b5"
+    },
+    {
+      "name": "places/ChIJu7ACrJuvQjQRtce_WkH_i_g/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2bHRHYVFnEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "冷冷的天來新北投泡湯，發現一家飯糰店，離捷運站很近，點了辣味炸雞和櫛瓜口味，熱熱吃很滿足，快速完食，下次會想試試塔塔蝦或炙燒明太子。店員推薦的鮮奶茶有讓我小驚艷，微微甜且有紅茶香。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "冷冷的天來新北投泡湯，發現一家飯糰店，離捷運站很近，點了辣味炸雞和櫛瓜口味，熱熱吃很滿足，快速完食，下次會想試試塔塔蝦或炙燒明太子。店員推薦的鮮奶茶有讓我小驚艷，微微甜且有紅茶香。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "YUJU LIN",
+        "uri": "https://www.google.com/maps/contrib/108028849050034441107/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUjw2sO3nE-TQriQG7cP2KCqI8qhUk1Dn_IUusfvmFgYUJpOVA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2024-12-20T07:21:57.370869Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2bHRHYVFnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2bHRHYVFnEAE!2m1!1s0x3442af9bac02b0bb:0xf88bff415abfc7b5"
+    }
+  ],
+  "menuForChildren": false
+}

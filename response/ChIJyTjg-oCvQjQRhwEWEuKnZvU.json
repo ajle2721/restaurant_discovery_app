@@ -1,0 +1,143 @@
+{
+  "id": "ChIJyTjg-oCvQjQRhwEWEuKnZvU",
+  "types": [
+    "restaurant",
+    "dessert_restaurant",
+    "brunch_restaurant",
+    "ice_cream_shop",
+    "dessert_shop",
+    "confectionery",
+    "meal_delivery",
+    "food_delivery",
+    "pet_care",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2891 9117",
+  "formattedAddress": "111台灣臺北市士林區前港里前港街60號",
+  "location": {
+    "latitude": 25.0848123,
+    "longitude": 121.52062129999997
+  },
+  "rating": 4.8,
+  "websiteUri": "https://store.dudooeat.com/orderv2/menu/8f8ed466dd6c487998dfde3c0b45b8a5",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 2193,
+  "displayName": {
+    "text": "正當冰台北劍潭店 簡餐貓咪咖啡廳【飯食/甜點/燒仙草/冰品/飲品】",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJyTjg-oCvQjQRhwEWEuKnZvU/reviews/Ci9DQUlRQUNvZENodHljRjlvT205TE1uZzNRblUxU1hod1ltNXNZM1JvU0ZwTFJsRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 1,
+      "text": {
+        "text": "店內環境非常悶，貓砂沒清理的味道很重，整體空氣品質很差\n還有很多小果蠅一直在餐點上飛\n店員服務態度也不理想，說話方式多為用喊的，例如「自己點完餐就來櫃檯結帳」。\n\n提供的餐具兩套都有破損\n告知店員這樣可能會割傷嘴巴並請求更換，店員卻回覆：「那你放著不要用。」處理方式與態度都讓人感受非常差\n\n希望店家能改善環境衛生與服務品質。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店內環境非常悶，貓砂沒清理的味道很重，整體空氣品質很差\n還有很多小果蠅一直在餐點上飛\n店員服務態度也不理想，說話方式多為用喊的，例如「自己點完餐就來櫃檯結帳」。\n\n提供的餐具兩套都有破損\n告知店員這樣可能會割傷嘴巴並請求更換，店員卻回覆：「那你放著不要用。」處理方式與態度都讓人感受非常差\n\n希望店家能改善環境衛生與服務品質。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Em",
+        "uri": "https://www.google.com/maps/contrib/104622927676498099928/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIAvWJHJfpxR14Ahonb3goy6KteP5yd8KO6xKAhi1_aA4yefbco=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-03-03T09:15:54.964364536Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205TE1uZzNRblUxU1hod1ltNXNZM1JvU0ZwTFJsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205TE1uZzNRblUxU1hod1ltNXNZM1JvU0ZwTFJsRRAB!2m1!1s0x3442af80fae038c9:0xf566a7e212160187"
+    },
+    {
+      "name": "places/ChIJyTjg-oCvQjQRhwEWEuKnZvU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWd2FYVXhOWEZ5U1RWa2VXRm1iamhQUlRSSmEyYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "鬆餅好好吃！！！ 冰淇淋也沒話說，巧克力口味好驚艷，都不會太甜 食材的原味 身體無負擔，來好幾趟了，想來看看小奇蹟，結果牠跟老闆出去玩了～哈哈（希望店內小果蠅的狀況可以改善）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "鬆餅好好吃！！！ 冰淇淋也沒話說，巧克力口味好驚艷，都不會太甜 食材的原味 身體無負擔，來好幾趟了，想來看看小奇蹟，結果牠跟老闆出去玩了～哈哈（希望店內小果蠅的狀況可以改善）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jennie Kung",
+        "uri": "https://www.google.com/maps/contrib/101038661434041568248/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWJNrHLvO58PknriomH5VxmCYU632k4VxtC_IL78SdMJDnuiGvtEg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-21T08:44:51.470494598Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWd2FYVXhOWEZ5U1RWa2VXRm1iamhQUlRSSmEyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWd2FYVXhOWEZ5U1RWa2VXRm1iamhQUlRSSmEyYxAB!2m1!1s0x3442af80fae038c9:0xf566a7e212160187"
+    },
+    {
+      "name": "places/ChIJyTjg-oCvQjQRhwEWEuKnZvU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tscVpFbDFOV2xmUzJac2NrMU5hRzFwT1U5amEzYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "一踏進店裡\n就有很溫暖的感覺\n位置雖然沒有很多\n但店內的顧客紛紛移動了位置\n就是為了讓我們一起與貓咪玩樂\n同步食物跟餐點都沒有化學的刺鼻味\n滿滿的天然味（包括貓砂）\n很棒的體驗\n推薦",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一踏進店裡\n就有很溫暖的感覺\n位置雖然沒有很多\n但店內的顧客紛紛移動了位置\n就是為了讓我們一起與貓咪玩樂\n同步食物跟餐點都沒有化學的刺鼻味\n滿滿的天然味（包括貓砂）\n很棒的體驗\n推薦",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林哲旭",
+        "uri": "https://www.google.com/maps/contrib/112846202976947684560/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL30g4JYglmFi8CtMEYslwAu1iIYgmBhhYdcFvfSSOxEiV1Rw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-26T09:00:26.138061816Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tscVpFbDFOV2xmUzJac2NrMU5hRzFwT1U5amEzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tscVpFbDFOV2xmUzJac2NrMU5hRzFwT1U5amEzYxAB!2m1!1s0x3442af80fae038c9:0xf566a7e212160187"
+    },
+    {
+      "name": "places/ChIJyTjg-oCvQjQRhwEWEuKnZvU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOaVowTnNSMDFJVkhOWlZtNWxjV0ZRYVdGWlZsRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "份量偏少，冰淇淋（香草和芒果）都很好吃，不會太甜，餐點小菜搭配薑黃很對味，咖哩天然美味，番茄燉牛肉軟爛好入口，店員很親切，貓咪很多不怕生給摸摸頭～氛圍很舒服的一家店，有鹹有甜有飲料，可列入會回訪的店😍😍😍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "份量偏少，冰淇淋（香草和芒果）都很好吃，不會太甜，餐點小菜搭配薑黃很對味，咖哩天然美味，番茄燉牛肉軟爛好入口，店員很親切，貓咪很多不怕生給摸摸頭～氛圍很舒服的一家店，有鹹有甜有飲料，可列入會回訪的店😍😍😍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chuang Jill",
+        "uri": "https://www.google.com/maps/contrib/114180046592431068029/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX3p55fZyEVsxUyRpNAsSxTEuwVBZZaK0DZ83E1filt0UOH-Cg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-18T08:28:45.453855405Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOaVowTnNSMDFJVkhOWlZtNWxjV0ZRYVdGWlZsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOaVowTnNSMDFJVkhOWlZtNWxjV0ZRYVdGWlZsRRAB!2m1!1s0x3442af80fae038c9:0xf566a7e212160187"
+    },
+    {
+      "name": "places/ChIJyTjg-oCvQjQRhwEWEuKnZvU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGc1pWSnhRMjl3WVhOd1pqVkpjbmRQWTBOeFkwRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "在這裡可以吃純天然的食物。草莓冰淇淋吃起來很好吃！入口即化！原來天然的草莓冰淇淋的成本很高，草莓真的有在冰淇淋裡面！\n餐廳的環境很友善，裡面有貓咪跟人互動\n講師很有耐心，很專業，我有學到很多新知識，原來色素可以調出很多味道，會影響身體健康。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在這裡可以吃純天然的食物。草莓冰淇淋吃起來很好吃！入口即化！原來天然的草莓冰淇淋的成本很高，草莓真的有在冰淇淋裡面！\n餐廳的環境很友善，裡面有貓咪跟人互動\n講師很有耐心，很專業，我有學到很多新知識，原來色素可以調出很多味道，會影響身體健康。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Cherry",
+        "uri": "https://www.google.com/maps/contrib/104444733275795311301/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJtyC2OrbOsKxLSeCMTajZ7glwwSrBs1kBOI4XrPTyVXJ5Q4w=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-04T04:40:27.460185096Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGc1pWSnhRMjl3WVhOd1pqVkpjbmRQWTBOeFkwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGc1pWSnhRMjl3WVhOd1pqVkpjbmRQWTBOeFkwRRAB!2m1!1s0x3442af80fae038c9:0xf566a7e212160187"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

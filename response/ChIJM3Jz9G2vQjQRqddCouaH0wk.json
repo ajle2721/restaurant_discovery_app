@@ -1,0 +1,144 @@
+﻿{
+    "id":  "ChIJM3Jz9G2vQjQRqddCouaH0wk",
+    "types":  [
+                  "health_food_store",
+                  "butcher_shop",
+                  "hawaiian_restaurant",
+                  "meal_delivery",
+                  "catering_service",
+                  "food_delivery",
+                  "american_restaurant",
+                  "ramen_restaurant",
+                  "food_store",
+                  "health",
+                  "manufacturer",
+                  "japanese_restaurant",
+                  "wholesaler",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "service",
+                  "store",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 987 523 579",
+    "formattedAddress":  "112台灣臺北市北投區振華里振華街14號",
+    "location":  {
+                     "latitude":  25.1157641,
+                     "longitude":  121.51937930000001
+                 },
+    "rating":  4.8,
+    "websiteUri":  "https://linktr.ee/lanostore520",
+    "userRatingCount":  346,
+    "displayName":  {
+                        "text":  "LANO食堂x健康餐盒",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJM3Jz9G2vQjQRqddCouaH0wk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tJeVFsSkxUa3RYVTBkeExUVkdMVkJKWldaSmNVRRAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "吃了也不算少的健康餐盒，所謂的健康餐盒，不是只是把食材用水燙熟而已。\n我很認真要找出這家的突出點，真沒有。\n配菜全部只是燙熟，太草率了，主菜似乎也是，媽呀！要多看看別人的健康餐盒怎麼做自己才會進步。\n健康餐盒還是有很多門道與可以用心的地方的，照片這玉米是怎麼一回事？只想擺盤用嗎？草率了，這樣讓消費者感覺很差。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "吃了也不算少的健康餐盒，所謂的健康餐盒，不是只是把食材用水燙熟而已。\n我很認真要找出這家的突出點，真沒有。\n配菜全部只是燙熟，太草率了，主菜似乎也是，媽呀！要多看看別人的健康餐盒怎麼做自己才會進步。\n健康餐盒還是有很多門道與可以用心的地方的，照片這玉米是怎麼一回事？只想擺盤用嗎？草率了，這樣讓消費者感覺很差。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "蔡大大",
+                                                  "uri":  "https://www.google.com/maps/contrib/100148050920581782872/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVmnjYG-4agXMo0pW6wZwDa_3yTu8nn_BqUszB97nMdfjbTgqWV3g=s128-c0x00000000-cc-rp-mo-ba8"
+                                              },
+                        "publishTime":  "2026-01-12T16:02:01.417418932Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tJeVFsSkxUa3RYVTBkeExUVkdMVkJKWldaSmNVRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tJeVFsSkxUa3RYVTBkeExUVkdMVkJKWldaSmNVRRAB!2m1!1s0x3442af6df4737233:0x9d387e6a242d7a9"
+                    },
+                    {
+                        "name":  "places/ChIJM3Jz9G2vQjQRqddCouaH0wk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25VNVpGazBjRVZHVjNnMU0xRllSamxVWDA5S1NVRRAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "點了蒜香雞胸蒜炒義大利麵加辣（辣粉）\n好吃！\n麵太多了下次要改麵少換菜\n菜的種類蠻多的也有根莖類\n\n老闆娘人很好～內用還有暖爐，會附上一杯溫水，還可以累積點數，下次有經過會再訪。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "點了蒜香雞胸蒜炒義大利麵加辣（辣粉）\n好吃！\n麵太多了下次要改麵少換菜\n菜的種類蠻多的也有根莖類\n\n老闆娘人很好～內用還有暖爐，會附上一杯溫水，還可以累積點數，下次有經過會再訪。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "zoey Lu",
+                                                  "uri":  "https://www.google.com/maps/contrib/117586606976746916124/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocK8FXvv8TYb6AM-CDoVamWtNkhwVGx-8L-NrImvwlDDB6wyAA=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2026-01-07T12:03:31.344836366Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25VNVpGazBjRVZHVjNnMU0xRllSamxVWDA5S1NVRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25VNVpGazBjRVZHVjNnMU0xRllSamxVWDA5S1NVRRAB!2m1!1s0x3442af6df4737233:0x9d387e6a242d7a9"
+                    },
+                    {
+                        "name":  "places/ChIJM3Jz9G2vQjQRqddCouaH0wk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCRmJuUjRRa2xxT1V0WGJWOHhTRloyU0RSWFJXYxAB",
+                        "relativePublishTimeDescription":  "6 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "內用要12點多才開放喔～\n點了松露雞腿，\n菜量等等都還好，\n沒有很驚艷，\n謝謝～\n2025.11月edited. ♪",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "內用要12點多才開放喔～\n點了松露雞腿，\n菜量等等都還好，\n沒有很驚艷，\n謝謝～\n2025.11月edited. ♪",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "張特別",
+                                                  "uri":  "https://www.google.com/maps/contrib/117786854641718905617/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUCd8avzTKCWiicboUdD_29L2KrnjWuZTAnB7idEA3Lt1uzzY7xBg=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-11-26T04:47:57.666665367Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCRmJuUjRRa2xxT1V0WGJWOHhTRloyU0RSWFJXYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCRmJuUjRRa2xxT1V0WGJWOHhTRloyU0RSWFJXYxAB!2m1!1s0x3442af6df4737233:0x9d387e6a242d7a9"
+                    },
+                    {
+                        "name":  "places/ChIJM3Jz9G2vQjQRqddCouaH0wk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2prNGJuQTNVWHBPV0RWRWJVSmpOVlo1YVRaRWRXYxAB",
+                        "relativePublishTimeDescription":  "2 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "真心推薦，低脂低鹽，沒有負擔的健康餐盒，青菜很豐富😋，很喜愛的一家店。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "真心推薦，低脂低鹽，沒有負擔的健康餐盒，青菜很豐富😋，很喜愛的一家店。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "M Y LIAO",
+                                                  "uri":  "https://www.google.com/maps/contrib/112243307280136092180/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVDL9F6qeW_idNNyt07Sazry6uLJUmyKiMSi77_8t7DQ7PeObUTzA=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2026-02-26T10:10:31.296190211Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2prNGJuQTNVWHBPV0RWRWJVSmpOVlo1YVRaRWRXYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2prNGJuQTNVWHBPV0RWRWJVSmpOVlo1YVRaRWRXYxAB!2m1!1s0x3442af6df4737233:0x9d387e6a242d7a9"
+                    },
+                    {
+                        "name":  "places/ChIJM3Jz9G2vQjQRqddCouaH0wk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGdlRrcG5Xbk5XUmpCa09HUm5XaTF3WkZjNFpGRRAB",
+                        "relativePublishTimeDescription":  "9 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "今天叫外送訂餐，配菜是隨機的，口味是蝦仁雞胸和海苔美乃滋，蝦仁感覺還是使用有泡過的，有點失望，六樣配菜很剛好有一半是我不喜歡的😭生洋蔥切的太大了超級辣的，也許可以考慮隨機配菜盡量不放洋蔥，另外就是配菜對我來說好冷門😭，小黃瓜玉米海帶芽苜蓿芽洋蔥紫高麗菜，偏偏使用的平台不給備註，下次會選擇用店家的賴預定或是點可以自選菜的餐點，整體還是很美味五顆星！優點是醬料分開裝，可以自己決定要加多少，食材也蠻新鮮的",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "今天叫外送訂餐，配菜是隨機的，口味是蝦仁雞胸和海苔美乃滋，蝦仁感覺還是使用有泡過的，有點失望，六樣配菜很剛好有一半是我不喜歡的😭生洋蔥切的太大了超級辣的，也許可以考慮隨機配菜盡量不放洋蔥，另外就是配菜對我來說好冷門😭，小黃瓜玉米海帶芽苜蓿芽洋蔥紫高麗菜，偏偏使用的平台不給備註，下次會選擇用店家的賴預定或是點可以自選菜的餐點，整體還是很美味五顆星！優點是醬料分開裝，可以自己決定要加多少，食材也蠻新鮮的",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "粽萬",
+                                                  "uri":  "https://www.google.com/maps/contrib/112617913164666711940/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWosEkC8fcQz2zlX5i7_61p7158Sj3kURdo4-Gcf4Qz4_3TY-9JLA=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2025-08-24T14:30:45.907535687Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGdlRrcG5Xbk5XUmpCa09HUm5XaTF3WkZjNFpGRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGdlRrcG5Xbk5XUmpCa09HUm5XaTF3WkZjNFpGRRAB!2m1!1s0x3442af6df4737233:0x9d387e6a242d7a9"
+                    }
+                ]
+}

@@ -1,0 +1,130 @@
+﻿{
+    "id":  "ChIJ6wciv2upQjQRf24tNIwSq1E",
+    "types":  [
+                  "brunch_restaurant",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2302 9867",
+    "formattedAddress":  "108台灣臺北市萬華區糖廍里西園路一段236號1樓",
+    "location":  {
+                     "latitude":  25.034872399999998,
+                     "longitude":  121.4988502
+                 },
+    "rating":  4.8,
+    "websiteUri":  "http://www.mine-mine2024.com/",
+    "userRatingCount":  408,
+    "displayName":  {
+                        "text":  "Mine Mine 早午餐 / 義大利麵 燉飯-萬華人氣早午餐| 必吃早午餐|包場活動 熱門下午茶|外帶義大利麵|義式燉飯|網美早午餐|CP漢堡|網美下午茶",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJ6wciv2upQjQRf24tNIwSq1E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWMGJtWmhZekV6Ukd4TGVsY3Ria2xTY1ZoMlJYYxAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "用餐時間建議訂位再前往，QR碼點餐.水跟餐具自取，現點現做候餐時間較久！早午餐附一杯飲料換購折抵20元，套餐加飲料或湯品可以折20元！！      餐點的1.雞腿排早午餐：外皮薄酥多汁的無骨雞腿，旁邊有兩個飽滿紮實微甜的菠蘿麵包，一顆對切半糖心蛋，有柑橘.小蕃茄.綠豆芽.生菜葉.濃郁和風醬的生菜沙拉，灑上豆類.枸杞.薄荷葉的不甜.微酸.不澀濃稠優格，份量是別家的2倍以上！          2.花雕酒鮑魚干貝海鮮燉飯：飯是圓米熟而不爛外層有奶香醬汁，燉飯上有灑新鮮不鹹明太子，旁邊有兩隻帶殼大蝦.無沙軟嫩的蛤蠣.炙燒過的彈牙干貝.鮑魚小但口感彈牙耐嚼.海鮮都算新鮮。           3.德國豬腳：外皮微酥內軟.厚實耐嚼不油，肉質紮實軟嫩不乾沒有調味，旁邊有煎過多汁的節瓜.紅蘿蔔球.綠花椰菜.玉米筍，搭配偏酸不鹹的酸菜跟奶香綿密的黃芥末醬。    4.繽紛水果蜂蜜冰淇淋鬆餅：鬆餅口感軟綿紮實灑上糖粉，旁邊有香蕉片.柑橘片.紅火龍果塊.龍眼蜂蜜.香草冰淇淋可以搭配。                 飲品1.檸檬汁狠酸微甜，感覺像原汁上面還有一片檸檬。     2.美式咖啡有碳培香，微苦微酸不澀不水。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "用餐時間建議訂位再前往，QR碼點餐.水跟餐具自取，現點現做候餐時間較久！早午餐附一杯飲料換購折抵20元，套餐加飲料或湯品可以折20元！！      餐點的1.雞腿排早午餐：外皮薄酥多汁的無骨雞腿，旁邊有兩個飽滿紮實微甜的菠蘿麵包，一顆對切半糖心蛋，有柑橘.小蕃茄.綠豆芽.生菜葉.濃郁和風醬的生菜沙拉，灑上豆類.枸杞.薄荷葉的不甜.微酸.不澀濃稠優格，份量是別家的2倍以上！          2.花雕酒鮑魚干貝海鮮燉飯：飯是圓米熟而不爛外層有奶香醬汁，燉飯上有灑新鮮不鹹明太子，旁邊有兩隻帶殼大蝦.無沙軟嫩的蛤蠣.炙燒過的彈牙干貝.鮑魚小但口感彈牙耐嚼.海鮮都算新鮮。           3.德國豬腳：外皮微酥內軟.厚實耐嚼不油，肉質紮實軟嫩不乾沒有調味，旁邊有煎過多汁的節瓜.紅蘿蔔球.綠花椰菜.玉米筍，搭配偏酸不鹹的酸菜跟奶香綿密的黃芥末醬。    4.繽紛水果蜂蜜冰淇淋鬆餅：鬆餅口感軟綿紮實灑上糖粉，旁邊有香蕉片.柑橘片.紅火龍果塊.龍眼蜂蜜.香草冰淇淋可以搭配。                 飲品1.檸檬汁狠酸微甜，感覺像原汁上面還有一片檸檬。     2.美式咖啡有碳培香，微苦微酸不澀不水。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "I Have a Dream",
+                                                  "uri":  "https://www.google.com/maps/contrib/111432216578457736065/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXUzMInuqKvCgxo4WOWhLzJ4_CXT6Gy0UnyMhbxszJu7Kllcws=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2026-02-14T05:58:19.490886930Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWMGJtWmhZekV6Ukd4TGVsY3Ria2xTY1ZoMlJYYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWMGJtWmhZekV6Ukd4TGVsY3Ria2xTY1ZoMlJYYxAB!2m1!1s0x3442a96bbf2207eb:0x51ab128c342d6e7f"
+                    },
+                    {
+                        "name":  "places/ChIJ6wciv2upQjQRf24tNIwSq1E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsUk1XOXJNeTFMT1hGWlIweDBVRFp6T0dSYWVsRRAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "115.02.12. 預約2人.\n❤️環境明亮簡潔🥰，\n📍綜合海鮮焗烤飯🥰\n📍松露薯條🥰\n📍冰火菠蘿油麵包🥰\n📍白醬蘑菇素火腿燉飯🥰\n💕菜品選擇很多樣，味道都很不錯，會再訪🥰👍",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "115.02.12. 預約2人.\n❤️環境明亮簡潔🥰，\n📍綜合海鮮焗烤飯🥰\n📍松露薯條🥰\n📍冰火菠蘿油麵包🥰\n📍白醬蘑菇素火腿燉飯🥰\n💕菜品選擇很多樣，味道都很不錯，會再訪🥰👍",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Sandy Hunag",
+                                                  "uri":  "https://www.google.com/maps/contrib/111682353615377819499/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWF8INA0eAkLUo9ZrA9KaQJlBs6DmMjKlfWQeuEtztgA1yswNHo=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2026-02-12T18:02:23.687987441Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsUk1XOXJNeTFMT1hGWlIweDBVRFp6T0dSYWVsRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsUk1XOXJNeTFMT1hGWlIweDBVRFp6T0dSYWVsRRAB!2m1!1s0x3442a96bbf2207eb:0x51ab128c342d6e7f"
+                    },
+                    {
+                        "name":  "places/ChIJ6wciv2upQjQRf24tNIwSq1E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxSFVITXlSVzVXWlZkbFNXSldabHBEWldveE4yYxAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "餐點份量精緻、環境簡約溫馨，松露鴨胸燉飯香氣濃郁、粒粒分明，培根義大利麵是溏心蛋很少見，奶香濃郁寬麵不會過硬，黑咖啡清爽順口，整體用餐體驗舒適，價格合理，值得再訪。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "餐點份量精緻、環境簡約溫馨，松露鴨胸燉飯香氣濃郁、粒粒分明，培根義大利麵是溏心蛋很少見，奶香濃郁寬麵不會過硬，黑咖啡清爽順口，整體用餐體驗舒適，價格合理，值得再訪。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "寧寧",
+                                                  "uri":  "https://www.google.com/maps/contrib/100958205696420091674/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXO8JDST0uzreFVHHusDqT5SzY7qhfh-appzn1XqX2zjVccs9Te=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2025-12-26T06:25:34.990610948Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxSFVITXlSVzVXWlZkbFNXSldabHBEWldveE4yYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxSFVITXlSVzVXWlZkbFNXSldabHBEWldveE4yYxAB!2m1!1s0x3442a96bbf2207eb:0x51ab128c342d6e7f"
+                    },
+                    {
+                        "name":  "places/ChIJ6wciv2upQjQRf24tNIwSq1E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKR1UyTm5aa0ZtZEZOSGJrcGlTekJtYVdOT1NWRRAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "第一次來用餐，早午餐點了雞腿排跟鮭魚排套餐。\n外場服務生態度很好，主動拿菜單跟條碼給我們掃，整個用餐下來並沒有網路評論的那樣不舒服的感覺。\n熱錫蘭紅茶好喝，不會太澀太甜。\n對切的唐心蛋好吃，生菜新鮮總類多份量多很讚，可惜凱薩醬沒有我的期待那種濃郁的起司香。\n無糖優格裡面加了燕麥，飽足感提升。\n酥皮波羅麵包需要趁熱吃，但澱粉類的我還是選擇最後才吃，麵包沾著優格吃還是挺好吃的。\n兩片鮭魚排，可能是視覺上的考量看起來比較好看，但口感就偏薄。雞腿排肉質乾柴，還是可惜了些。\n總結，位在龍山寺捷運站附近，是相約聚餐的好選擇。建議事先電話訂位。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "第一次來用餐，早午餐點了雞腿排跟鮭魚排套餐。\n外場服務生態度很好，主動拿菜單跟條碼給我們掃，整個用餐下來並沒有網路評論的那樣不舒服的感覺。\n熱錫蘭紅茶好喝，不會太澀太甜。\n對切的唐心蛋好吃，生菜新鮮總類多份量多很讚，可惜凱薩醬沒有我的期待那種濃郁的起司香。\n無糖優格裡面加了燕麥，飽足感提升。\n酥皮波羅麵包需要趁熱吃，但澱粉類的我還是選擇最後才吃，麵包沾著優格吃還是挺好吃的。\n兩片鮭魚排，可能是視覺上的考量看起來比較好看，但口感就偏薄。雞腿排肉質乾柴，還是可惜了些。\n總結，位在龍山寺捷運站附近，是相約聚餐的好選擇。建議事先電話訂位。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "蓉蓉",
+                                                  "uri":  "https://www.google.com/maps/contrib/114953489619865945264/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUKzfZ1kAhpByNrQe8QobPrQ47Npo16iEilhuRJ6TrOJWf8LWHgjw=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2026-01-11T07:33:09.002116975Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKR1UyTm5aa0ZtZEZOSGJrcGlTekJtYVdOT1NWRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKR1UyTm5aa0ZtZEZOSGJrcGlTekJtYVdOT1NWRRAB!2m1!1s0x3442a96bbf2207eb:0x51ab128c342d6e7f"
+                    },
+                    {
+                        "name":  "places/ChIJ6wciv2upQjQRf24tNIwSq1E/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CQ01GcEhNVU5sUTNaek9FVk5UbWQ1V20xSGRIYxAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "餐點精緻，🐷豬腳外脆內嫩，口感很好！\n連小配菜也完全不馬虎，居然還是熱的，超加分👏",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "餐點精緻，🐷豬腳外脆內嫩，口感很好！\n連小配菜也完全不馬虎，居然還是熱的，超加分👏",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "洪語彤",
+                                                  "uri":  "https://www.google.com/maps/contrib/116867151469194596635/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjV3ObSlVIT546Usp-4XrTQvTGIHRLhSl6FxGE9TmBIUQDlkTaHy=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2026-01-20T04:06:53.692679775Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CQ01GcEhNVU5sUTNaek9FVk5UbWQ1V20xSGRIYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CQ01GcEhNVU5sUTNaek9FVk5UbWQ1V20xSGRIYxAB!2m1!1s0x3442a96bbf2207eb:0x51ab128c342d6e7f"
+                    }
+                ]
+}

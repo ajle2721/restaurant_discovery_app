@@ -1,0 +1,132 @@
+{
+  "id": "ChIJxyg5guSvQjQR3e_FtvpF9AU",
+  "types": [
+    "coffee_shop",
+    "cafe",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "111台灣臺北市士林區福佳里承德路五段55號3F",
+  "location": {
+    "latitude": 25.0980653,
+    "longitude": 121.5153693
+  },
+  "rating": 4.9,
+  "userRatingCount": 27,
+  "displayName": {
+    "text": "瓦非屋",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJxyg5guSvQjQR3e_FtvpF9AU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGek9HMWhTeTFYTlhsV1RqQXpabXR6WjNFMGRtYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "付錢了，還忘記給冰淇淋，跟店員講之後，\n店員：我剛剛有給阿？\n🤣連餐點給誰都不知道，以後不會來買",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "付錢了，還忘記給冰淇淋，跟店員講之後，\n店員：我剛剛有給阿？\n🤣連餐點給誰都不知道，以後不會來買",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "任",
+        "uri": "https://www.google.com/maps/contrib/116148926589574937889/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWQcebfoS_ssoUiO4tDoonLHT1dYY9MR7SiJeHK27mtGhKFkmJz=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-26T06:18:24.529860897Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGek9HMWhTeTFYTlhsV1RqQXpabXR6WjNFMGRtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGek9HMWhTeTFYTlhsV1RqQXpabXR6WjNFMGRtYxAB!2m1!1s0x3442afe4823928c7:0x5f445fab6c5efdd"
+    },
+    {
+      "name": "places/ChIJxyg5guSvQjQR3e_FtvpF9AU/reviews/ChdDSUhNMG9nS0VJQ0FnSURCOTVPUF9nRRAB",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 4,
+      "text": {
+        "text": "這排餐廳，瓦非屋的價錢比較正常，熱狗不錯吃，薯條太貴",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這排餐廳，瓦非屋的價錢比較正常，熱狗不錯吃，薯條太貴",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Frank Huang",
+        "uri": "https://www.google.com/maps/contrib/107281188892328287039/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWyFCW4lcKIJcy-bzBGu72VXr-7ddUNks-KRSxtQzOrA57yQo5I=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2023-01-31T13:55:00.046704Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURCOTVPUF9nRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURCOTVPUF9nRRAB!2m1!1s0x3442afe4823928c7:0x5f445fab6c5efdd"
+    },
+    {
+      "name": "places/ChIJxyg5guSvQjQR3e_FtvpF9AU/reviews/ChdDSUhNMG9nS0VJQ0FnSURqaDRhZ19BRRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "披薩現烤的，好吃喔！\n雞腿也炸的很酥脆，讚！\n烤魷魚也很讚～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "披薩現烤的，好吃喔！\n雞腿也炸的很酥脆，讚！\n烤魷魚也很讚～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "gina Lin",
+        "uri": "https://www.google.com/maps/contrib/106451326668247527949/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVQI2mpHV2q2UFYby136cvkyiKz8aLW57uzKH4WAamVurEyUhdt=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2024-05-08T05:02:29.319762Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURqaDRhZ19BRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURqaDRhZ19BRRAB!2m1!1s0x3442afe4823928c7:0x5f445fab6c5efdd"
+    },
+    {
+      "name": "places/ChIJxyg5guSvQjQR3e_FtvpF9AU/reviews/ChdDSUhNMG9nS0VJQ0FnSURqaDlqdmpBRRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "服務良好，親切可愛，餐點都很。好吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "服務良好，親切可愛，餐點都很。好吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "峰帥哥",
+        "uri": "https://www.google.com/maps/contrib/116332295032988929315/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXh0rYqeb9lStnhPa-a68JMlFh37svngUwFQop9mK49NFJSQ_n=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2024-05-08T04:23:39.166512Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURqaDlqdmpBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURqaDlqdmpBRRAB!2m1!1s0x3442afe4823928c7:0x5f445fab6c5efdd"
+    },
+    {
+      "name": "places/ChIJxyg5guSvQjQR3e_FtvpF9AU/reviews/ChdDSUhNMG9nS0VJQ0FnSUNqX3REc3JBRRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "魷魚超好吃，其他餐點好吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "魷魚超好吃，其他餐點好吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "王麗玉",
+        "uri": "https://www.google.com/maps/contrib/115999511977661370101/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU3CpD2RPoizmQZUtr736NG7YBfCuxWIjova1-2sNMfJVL_hK79=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2024-04-22T07:31:54.508004Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNqX3REc3JBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNqX3REc3JBRRAB!2m1!1s0x3442afe4823928c7:0x5f445fab6c5efdd"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

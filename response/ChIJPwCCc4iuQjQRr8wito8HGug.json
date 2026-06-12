@@ -1,0 +1,130 @@
+{
+  "id": "ChIJPwCCc4iuQjQRr8wito8HGug",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2821 6111",
+  "formattedAddress": "112台灣臺北市北投區振華里振華街38號1樓",
+  "location": {
+    "latitude": 25.115921399999998,
+    "longitude": 121.5183887
+  },
+  "rating": 4.7,
+  "websiteUri": "https://m.facebook.com/ChangingCafe/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 320,
+  "displayName": {
+    "text": "Changing Cafe/淺淾咖啡",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJPwCCc4iuQjQRr8wito8HGug/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWa05HWTNRekZaV1dkTFozcGlkVWRVU2xSU1lWRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "家人推薦，當天因行程太滿採外帶，感覺店內氛圍滿悠閒舒適的。\n木質簡約的文青風格、搭配專業好喝的咖啡，視覺、味覺雙重享受。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "家人推薦，當天因行程太滿採外帶，感覺店內氛圍滿悠閒舒適的。\n木質簡約的文青風格、搭配專業好喝的咖啡，視覺、味覺雙重享受。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jasmine",
+        "uri": "https://www.google.com/maps/contrib/101209445916871623294/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVb4bWdnxvJ5emPiI_KsnhuRpThnHB5U3mZMO8Vy2eT8ykNjcg8=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-17T08:53:26.895337197Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWa05HWTNRekZaV1dkTFozcGlkVWRVU2xSU1lWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWa05HWTNRekZaV1dkTFozcGlkVWRVU2xSU1lWRRAB!2m1!1s0x3442ae887382003f:0xe81a078fb622ccaf"
+    },
+    {
+      "name": "places/ChIJPwCCc4iuQjQRr8wito8HGug/reviews/ChdDSUhNMG9nS0VJQ0FnTURJbnJleTN3RRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "很棒的自烘豆咖啡店，拿鐵、卡布順口。\n空間舒適，客人輕聲細語或用電腦，歌單聽著很舒服。\n甜點選項少。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很棒的自烘豆咖啡店，拿鐵、卡布順口。\n空間舒適，客人輕聲細語或用電腦，歌單聽著很舒服。\n甜點選項少。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jet Wu",
+        "uri": "https://www.google.com/maps/contrib/113022909048356095316/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVQ5B1MqbAAGzBmsO9iIRN62QJZI0wIH8Yro4ONEjz0J2C15CT6=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-04-10T04:15:00.998458Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJbnJleTN3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJbnJleTN3RRAB!2m1!1s0x3442ae887382003f:0xe81a078fb622ccaf"
+    },
+    {
+      "name": "places/ChIJPwCCc4iuQjQRr8wito8HGug/reviews/ChdDSUhNMG9nS0VJQ0FnTUNZcE9tX3Z3RRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "昨天找到這家在捷運石牌站附近的淺淾咖啡\n氣氛靜謐，老闆聲音很好聽。\n拿鐵與手沖咖啡都很有水準~\n(淾唸「飲」)\n\n伴侶點的是肯亞AA手沖咖啡\n他有滿意(aka 有酸)\n我點的是拿鐵\n他的拿鐵豆烘焙程度不深 (個人猜想)\n仍保留了咖啡豆的些微酸味且沒有苦味\n很順口喝起來無負擔~\n\n起司蛋糕不是那種奶油濃厚的\n口感比較樸素",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "昨天找到這家在捷運石牌站附近的淺淾咖啡\n氣氛靜謐，老闆聲音很好聽。\n拿鐵與手沖咖啡都很有水準~\n(淾唸「飲」)\n\n伴侶點的是肯亞AA手沖咖啡\n他有滿意(aka 有酸)\n我點的是拿鐵\n他的拿鐵豆烘焙程度不深 (個人猜想)\n仍保留了咖啡豆的些微酸味且沒有苦味\n很順口喝起來無負擔~\n\n起司蛋糕不是那種奶油濃厚的\n口感比較樸素",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Joanna Chen",
+        "uri": "https://www.google.com/maps/contrib/116530218846007667777/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVKyaBYhF6VJ9QWSTIQe_mk2CjrMP7m3hcmPDiWMOhU7LSuonps=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-05-01T13:37:35.707427Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNZcE9tX3Z3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNZcE9tX3Z3RRAB!2m1!1s0x3442ae887382003f:0xe81a078fb622ccaf"
+    },
+    {
+      "name": "places/ChIJPwCCc4iuQjQRr8wito8HGug/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aaFV6aHNlbDl5WlRSaU5FbHFXamxSUjA1V2JYYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "偶然路過的咖啡廳\n進店之後發現店內的環境和氣氛超級舒適，飲品也很好喝～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "偶然路過的咖啡廳\n進店之後發現店內的環境和氣氛超級舒適，飲品也很好喝～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "阿蘇",
+        "uri": "https://www.google.com/maps/contrib/104700600951284033616/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXoKr46Ti6oIdQGgNe4zbg2kd0pzoFd1KoPceUNTRH8hl-ZfNyI=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-22T03:47:49.529129077Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aaFV6aHNlbDl5WlRSaU5FbHFXamxSUjA1V2JYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aaFV6aHNlbDl5WlRSaU5FbHFXamxSUjA1V2JYYxAB!2m1!1s0x3442ae887382003f:0xe81a078fb622ccaf"
+    },
+    {
+      "name": "places/ChIJPwCCc4iuQjQRr8wito8HGug/reviews/ChZDSUhNMG9nS0VJQ0FnSUQtbjZYNUhBEAE",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 5,
+      "text": {
+        "text": "環境優質且飲品好喝的一家店🤎✨手沖咖啡品項很多（菜單內有詳細介紹），我點的拿鐵、可可牛奶都非常棒！可可濃淡適宜且不會過甜，拿鐵的奶泡濃郁，香氣也很足夠，而且有提供吸管，超級貼心\n\n店內蠻安靜的，有檯燈可供閱讀，部分座位也有插座可以使用，整體來說是家適合讀書的溫馨小店，回訪好幾次了，真的非常舒適，常常一不小心就待上一整個下午～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境優質且飲品好喝的一家店🤎✨手沖咖啡品項很多（菜單內有詳細介紹），我點的拿鐵、可可牛奶都非常棒！可可濃淡適宜且不會過甜，拿鐵的奶泡濃郁，香氣也很足夠，而且有提供吸管，超級貼心\n\n店內蠻安靜的，有檯燈可供閱讀，部分座位也有插座可以使用，整體來說是家適合讀書的溫馨小店，回訪好幾次了，真的非常舒適，常常一不小心就待上一整個下午～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "yajan chung",
+        "uri": "https://www.google.com/maps/contrib/109654627241647634769/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUzcdvKNSjm9CImsjKltoQtfaNZkunqqRA2E_FcgzpeN4F3N6bj=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2022-12-13T09:25:35.136801Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQtbjZYNUhBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQtbjZYNUhBEAE!2m1!1s0x3442ae887382003f:0xe81a078fb622ccaf"
+    }
+  ]
+}

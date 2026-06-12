@@ -1,0 +1,132 @@
+{
+  "id": "ChIJreHRsN-rQjQRdK09q30Jrc4",
+  "types": [
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2506 3980",
+  "formattedAddress": "10491台灣臺北市中山區南京東路三段92號1樓",
+  "location": {
+    "latitude": 25.051743199999997,
+    "longitude": 121.5396281
+  },
+  "rating": 4.2,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 403,
+  "displayName": {
+    "text": "金好家客家菜",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJreHRsN-rQjQRdK09q30Jrc4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pRdFZWaHhVa0V5TjBGVlNqQTJXVVpvVDNkT1MxRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "平價好吃的客家菜、家常菜😋 生意很好，不斷有客人進來取預定餐、也有好多外送單，內用更是高朋滿座，建議訂位😄",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "平價好吃的客家菜、家常菜😋 生意很好，不斷有客人進來取預定餐、也有好多外送單，內用更是高朋滿座，建議訂位😄",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Zhennn",
+        "uri": "https://www.google.com/maps/contrib/109358622179027344112/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUHzp1wiTezS6p4oJnYvBg1ubOMifzpuZdIRguwOAFircY68RGQEw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-27T12:07:16.757081507Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pRdFZWaHhVa0V5TjBGVlNqQTJXVVpvVDNkT1MxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pRdFZWaHhVa0V5TjBGVlNqQTJXVVpvVDNkT1MxRRAB!2m1!1s0x3442abdfb0d1e1ad:0xcead097dab3dad74"
+    },
+    {
+      "name": "places/ChIJreHRsN-rQjQRdK09q30Jrc4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoT1kxaEZXRGczWm5GalRtWnRXbFkwTjJKNlVFRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "清爽版客家菜，但很好吃。六個人點了13道再加一道重複點的薑絲大腸，共14道，除了油雞跟豆瓣魚固定的份量外，其他菜量是中份計費（菜單是小份價格），一人才830元很划算！\n\n我個人特別喜歡的有：\n招牌油雞：肉質紮實不柴，油香Q彈，配上桔醬解膩爽口；\n薑絲大腸：口味酸爽，大腸沒有腥味，連薑都好吃，還點了第二盤；\n現燙小卷：新鮮就是好吃；\n鮮蚵油條：鹹香有味、鮮蚵飽滿，是白飯殺手；\n香酥肥腸：果然香酥，一樣大腸沒有腥味，而且不油膩，雖然是加點的菜色大家都吃飽了，還是能拿來配聊天。\n\n也很不錯的菜色：\n煙燻中卷、桂竹筍牛肉、酸菜肚片湯。\n\n中規中矩的菜色：\n客家小炒、菜脯蛋、小魚杏菜、梅菜扣肉、豆瓣魚。\n\n完全無雷，因為菜好吃所以白飯忍不住吃了兩碗，而且服務的姐姐們人很好，上菜也迅速，是會再訪的餐廳。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "清爽版客家菜，但很好吃。六個人點了13道再加一道重複點的薑絲大腸，共14道，除了油雞跟豆瓣魚固定的份量外，其他菜量是中份計費（菜單是小份價格），一人才830元很划算！\n\n我個人特別喜歡的有：\n招牌油雞：肉質紮實不柴，油香Q彈，配上桔醬解膩爽口；\n薑絲大腸：口味酸爽，大腸沒有腥味，連薑都好吃，還點了第二盤；\n現燙小卷：新鮮就是好吃；\n鮮蚵油條：鹹香有味、鮮蚵飽滿，是白飯殺手；\n香酥肥腸：果然香酥，一樣大腸沒有腥味，而且不油膩，雖然是加點的菜色大家都吃飽了，還是能拿來配聊天。\n\n也很不錯的菜色：\n煙燻中卷、桂竹筍牛肉、酸菜肚片湯。\n\n中規中矩的菜色：\n客家小炒、菜脯蛋、小魚杏菜、梅菜扣肉、豆瓣魚。\n\n完全無雷，因為菜好吃所以白飯忍不住吃了兩碗，而且服務的姐姐們人很好，上菜也迅速，是會再訪的餐廳。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "吳秉真",
+        "uri": "https://www.google.com/maps/contrib/116377709410442719448/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUU-bcp2R1J4iRQFlZJn06eZmFnq87gzYSsR1DDuDZxnjQB18jfcw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-06T12:51:33.469292968Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoT1kxaEZXRGczWm5GalRtWnRXbFkwTjJKNlVFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoT1kxaEZXRGczWm5GalRtWnRXbFkwTjJKNlVFRRAB!2m1!1s0x3442abdfb0d1e1ad:0xcead097dab3dad74"
+    },
+    {
+      "name": "places/ChIJreHRsN-rQjQRdK09q30Jrc4/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kd1ZuWjNhVlZSTldveWEyeHlhaTFKUmsxTWFsRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "內用外送都試過 店裡沒什麼裝潢 但食物很美味 每一道都很到位 很多人聚餐喝酒 價位也合理 沒有遇到上菜很久的問題 非常推薦的家常菜",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "內用外送都試過 店裡沒什麼裝潢 但食物很美味 每一道都很到位 很多人聚餐喝酒 價位也合理 沒有遇到上菜很久的問題 非常推薦的家常菜",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Sapphic Hsiao",
+        "uri": "https://www.google.com/maps/contrib/114794663324671553710/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjULywQeDSdRs45xRMoi3gHIy17THhG7Co5KWUXYFdWUxNBhplIO=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-29T10:45:49.155056803Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kd1ZuWjNhVlZSTldveWEyeHlhaTFKUmsxTWFsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kd1ZuWjNhVlZSTldveWEyeHlhaTFKUmsxTWFsRRAB!2m1!1s0x3442abdfb0d1e1ad:0xcead097dab3dad74"
+    },
+    {
+      "name": "places/ChIJreHRsN-rQjQRdK09q30Jrc4/reviews/ChdDSUhNMG9nS0VJQ0FnTURvb2Fycnp3RRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "位於南京東路與龍江路口、是一家主打平價近80多道客家菜料理、經濟實惠物超所值且重點不貴---+++搭捷運南京復興站2號出口步行8分、店面外觀看起來樸實簡單風、桌位不多大部份都是附近公司上班族相約一起吃飯聚餐的場所+++++牆上貼著推薦的菜色提供選擇、門口也有蘋果日報媒體介紹、整體來說是經過改良後的客家菜跟外面熱炒/家常菜相似並不油膩死鹹但我覺得部份的炒功還是重口味出色......油雞、桂竹筍炒牛肉、鮮蚵燴油條、酸菜肉片湯吃下來都美味好吃....桌上無供應熱茶、冰箱有賣飲料.......有機會路過洽公可以來嚐鮮一下就行了######",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "位於南京東路與龍江路口、是一家主打平價近80多道客家菜料理、經濟實惠物超所值且重點不貴---+++搭捷運南京復興站2號出口步行8分、店面外觀看起來樸實簡單風、桌位不多大部份都是附近公司上班族相約一起吃飯聚餐的場所+++++牆上貼著推薦的菜色提供選擇、門口也有蘋果日報媒體介紹、整體來說是經過改良後的客家菜跟外面熱炒/家常菜相似並不油膩死鹹但我覺得部份的炒功還是重口味出色......油雞、桂竹筍炒牛肉、鮮蚵燴油條、酸菜肉片湯吃下來都美味好吃....桌上無供應熱茶、冰箱有賣飲料.......有機會路過洽公可以來嚐鮮一下就行了######",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chaoyi Lee",
+        "uri": "https://www.google.com/maps/contrib/111138830344948093189/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVk9VpF3IMCdP7m5dX198fNgLGCfiZ4pFrViQE9gkLiQ3VmwCftbA=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-04-25T17:41:23.906877Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURvb2Fycnp3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURvb2Fycnp3RRAB!2m1!1s0x3442abdfb0d1e1ad:0xcead097dab3dad74"
+    },
+    {
+      "name": "places/ChIJreHRsN-rQjQRdK09q30Jrc4/reviews/ChdDSUhNMG9nS0VJQ0FnSURmM2MtaDBnRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "老店，服務阿姨只有一名，一直找不到人幫忙點菜😅上菜也比較慢，等了30-40分鐘才開始慢慢上菜….\n梅乾扣肉還行～肉不柴，超級下飯，\n推～薑絲大腸、酸香有鍋氣！\n糖醋里肌口味特別，口感酥香，加的是烏醋，不是印象中的茄汁糖醋，意外的好吃😋\n紅燒魚表現也不錯👍🏻\n客家小炒略遜一籌😂不一定要點，給各位參考。\n整體吃完cp值真的很高，我們還喝了一手啤酒🍻，一個人花500元，超便宜😂",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "老店，服務阿姨只有一名，一直找不到人幫忙點菜😅上菜也比較慢，等了30-40分鐘才開始慢慢上菜….\n梅乾扣肉還行～肉不柴，超級下飯，\n推～薑絲大腸、酸香有鍋氣！\n糖醋里肌口味特別，口感酥香，加的是烏醋，不是印象中的茄汁糖醋，意外的好吃😋\n紅燒魚表現也不錯👍🏻\n客家小炒略遜一籌😂不一定要點，給各位參考。\n整體吃完cp值真的很高，我們還喝了一手啤酒🍻，一個人花500元，超便宜😂",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Sabrina Chen",
+        "uri": "https://www.google.com/maps/contrib/100375889934803116169/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV5NR1Ky17Xl3M4PfnoWzI6QlSsgDD2nU-71QO2LfXduYaQpw4=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-01-09T13:48:25.048412Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmM2MtaDBnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmM2MtaDBnRRAB!2m1!1s0x3442abdfb0d1e1ad:0xcead097dab3dad74"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

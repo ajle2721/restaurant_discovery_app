@@ -1,0 +1,132 @@
+{
+  "id": "ChIJhWnr7vKsQjQRES1FXX2pnsY",
+  "types": [
+    "taiwanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2796 7951",
+  "formattedAddress": "114台灣臺北市內湖區金龍里金龍路75號",
+  "location": {
+    "latitude": 25.0852778,
+    "longitude": 121.5922222
+  },
+  "rating": 4.3,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 359,
+  "displayName": {
+    "text": "源味軒",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJhWnr7vKsQjQRES1FXX2pnsY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCb2MwdE1VMDlmTFRWUFNVcEJXV3B0UlhsRFlYYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "好吃且價格實惠的在地館子\n（本次豆干肉絲、乾煸四季豆、宮保雙鮮、湖南蛋、五碗白飯=850）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "好吃且價格實惠的在地館子\n（本次豆干肉絲、乾煸四季豆、宮保雙鮮、湖南蛋、五碗白飯=850）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "伍德程",
+        "uri": "https://www.google.com/maps/contrib/103619052444529360258/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIFDwhisIx86jGjaK8QNRd0DzdNf_A86qrx7eC5uQl1gdwr3w=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-05T16:30:07.765459924Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCb2MwdE1VMDlmTFRWUFNVcEJXV3B0UlhsRFlYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCb2MwdE1VMDlmTFRWUFNVcEJXV3B0UlhsRFlYYxAB!2m1!1s0x3442acf2eeeb6985:0xc69ea97d5d452d11"
+    },
+    {
+      "name": "places/ChIJhWnr7vKsQjQRES1FXX2pnsY/reviews/Ci9DQUlRQUNvZENodHljRjlvT214U1JtSjVSbk5MUTJ4UWIxTmZZMmhOY0RWWmRHYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "不得不說這家餐廳真的好吃，鳳梨蝦球的蝦子好大一隻，口感Q彈，乾扁四季豆也不錯吃，沙茶牛肉的醬汁淋在飯上非常下飯，下次再點其他菜色試試看，祝店家生意興隆，看到此分享文的大大們，都能平安喜樂健康幸福每一天🙏\n\n又來開箱新的菜色了，這次要推的是“客家鹽焗雞”，尤其是沾那個特殊的醬料，超級無敵好吃😋",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "不得不說這家餐廳真的好吃，鳳梨蝦球的蝦子好大一隻，口感Q彈，乾扁四季豆也不錯吃，沙茶牛肉的醬汁淋在飯上非常下飯，下次再點其他菜色試試看，祝店家生意興隆，看到此分享文的大大們，都能平安喜樂健康幸福每一天🙏\n\n又來開箱新的菜色了，這次要推的是“客家鹽焗雞”，尤其是沾那個特殊的醬料，超級無敵好吃😋",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hung Boss 1218",
+        "uri": "https://www.google.com/maps/contrib/108558747375454324069/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUfSI2htsvIgweiyEDYxSl7AgmW89I1ghCjcBTc-iKQm7icSLp=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-11-02T20:58:10.157648728Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214U1JtSjVSbk5MUTJ4UWIxTmZZMmhOY0RWWmRHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214U1JtSjVSbk5MUTJ4UWIxTmZZMmhOY0RWWmRHYxAB!2m1!1s0x3442acf2eeeb6985:0xc69ea97d5d452d11"
+    },
+    {
+      "name": "places/ChIJhWnr7vKsQjQRES1FXX2pnsY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xnemJrUXlXVEZMTm1NM05HRkRhRm90VTNad2JXYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "好吃。洗手間是蹲式，會對於年長的長輩非常不便，到洗手間的走廊被椅子堆放到非常狹小，走廊有小階梯，帶長輩必須務必千萬要小心。除了洗手間不安全，炙熱及台階非常之高以外，餐點很好。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "好吃。洗手間是蹲式，會對於年長的長輩非常不便，到洗手間的走廊被椅子堆放到非常狹小，走廊有小階梯，帶長輩必須務必千萬要小心。除了洗手間不安全，炙熱及台階非常之高以外，餐點很好。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Sherry TANG",
+        "uri": "https://www.google.com/maps/contrib/106810830615365915939/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVc-ZSY3sdhATPYcJeVFMK9Rwf2Y2WTH6KoejV6PlDeOCQODFs=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-07T13:08:00.515619581Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xnemJrUXlXVEZMTm1NM05HRkRhRm90VTNad2JXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xnemJrUXlXVEZMTm1NM05HRkRhRm90VTNad2JXYxAB!2m1!1s0x3442acf2eeeb6985:0xc69ea97d5d452d11"
+    },
+    {
+      "name": "places/ChIJhWnr7vKsQjQRES1FXX2pnsY/reviews/ChdDSUhNMG9nS0VJQ0FnTUNZN3VHdGtnRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "離捷運站很近，菜色不錯，都是現點現做，但是如果客滿的時候要稍微有耐心等候上菜\n菜色都算好吃，很貼心有分大小盤，如果人少可以點小盤可以吃比較多種。\n當天等候比較久才上次，老闆娘很客氣 😄告知不好意思！\n假日建議要先訂位喔 😄",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "離捷運站很近，菜色不錯，都是現點現做，但是如果客滿的時候要稍微有耐心等候上菜\n菜色都算好吃，很貼心有分大小盤，如果人少可以點小盤可以吃比較多種。\n當天等候比較久才上次，老闆娘很客氣 😄告知不好意思！\n假日建議要先訂位喔 😄",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "M Lin",
+        "uri": "https://www.google.com/maps/contrib/103409675307963041548/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX6gcc7BC50Rw3oVo_6sayjyI7iAPoCI_4CSLkP_h4WFYcfsws-=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-05-04T12:35:05.851496Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNZN3VHdGtnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNZN3VHdGtnRRAB!2m1!1s0x3442acf2eeeb6985:0xc69ea97d5d452d11"
+    },
+    {
+      "name": "places/ChIJhWnr7vKsQjQRES1FXX2pnsY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsSU0yTTRTV0V4TmxWMGVFUnNlbVZSWkZodk0yYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "點了四道菜，湖南蛋有很棒的鍋氣，非常驚豔",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點了四道菜，湖南蛋有很棒的鍋氣，非常驚豔",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Rotary Chen",
+        "uri": "https://www.google.com/maps/contrib/114028638594299087019/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUVePW03_JE6CBkbAAkhbYq-8J0hz65usksiKJjrzhcMNyAvinl1g=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-09T11:13:53.861367661Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsSU0yTTRTV0V4TmxWMGVFUnNlbVZSWkZodk0yYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsSU0yTTRTV0V4TmxWMGVFUnNlbVZSWkZodk0yYxAB!2m1!1s0x3442acf2eeeb6985:0xc69ea97d5d452d11"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

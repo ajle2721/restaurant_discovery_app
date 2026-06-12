@@ -1,0 +1,134 @@
+{
+  "id": "ChIJkSeH9k-uQjQRJJ2Sydh38BA",
+  "types": [
+    "vegan_restaurant",
+    "vegetarian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2891 9394",
+  "formattedAddress": "112台灣臺北市北投區中心里大業路735號",
+  "location": {
+    "latitude": 25.137391200000003,
+    "longitude": 121.50250120000001
+  },
+  "rating": 4.5,
+  "websiteUri": "https://www.facebook.com/yummyveganhome/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 395,
+  "displayName": {
+    "text": "芽米日子純植物飲食",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJkSeH9k-uQjQRJJ2Sydh38BA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poNGVrOXhNaTFTYzJWd0xXUmhVWEpCUVd4S1VIYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "咖哩很好吃，是吃得到香料香氣的咖哩，配菜感覺有另外烤製處理，很鮮很美味~\n\n藍莓布朗尼無咖啡因，不是傳統用可可做的那種，外層鬆脆內層濕軟，是甜的，不過蠻好吃。\n\n點了增強免疫力的瑜珈茶，是茶包形式，平常沒有習慣喝花草茶，不過適應一下之後覺得還不錯喝。菜單上面有寫食材成分，因為有很特殊沒看過的植物，還上網去找茶包上的品牌XD\n\n裝飾得很可愛很溫馨的店，有很多用乾燥花草、果實種籽做成的飾品，謝謝經營這麼可愛的vegan店家🥰",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "咖哩很好吃，是吃得到香料香氣的咖哩，配菜感覺有另外烤製處理，很鮮很美味~\n\n藍莓布朗尼無咖啡因，不是傳統用可可做的那種，外層鬆脆內層濕軟，是甜的，不過蠻好吃。\n\n點了增強免疫力的瑜珈茶，是茶包形式，平常沒有習慣喝花草茶，不過適應一下之後覺得還不錯喝。菜單上面有寫食材成分，因為有很特殊沒看過的植物，還上網去找茶包上的品牌XD\n\n裝飾得很可愛很溫馨的店，有很多用乾燥花草、果實種籽做成的飾品，謝謝經營這麼可愛的vegan店家🥰",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Insta Pin",
+        "uri": "https://www.google.com/maps/contrib/107172511626904893217/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXz7355zavV6leRUt_Zl_I_ZSpGtHoZiverPAsH6IctZF5J01Hj=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-24T03:42:38.277455509Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poNGVrOXhNaTFTYzJWd0xXUmhVWEpCUVd4S1VIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poNGVrOXhNaTFTYzJWd0xXUmhVWEpCUVd4S1VIYxAB!2m1!1s0x3442ae4ff6872791:0x10f077d8c9929d24"
+    },
+    {
+      "name": "places/ChIJkSeH9k-uQjQRJJ2Sydh38BA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t3Mlh6bEhZVGN0TnpsdmRtOXdia1ZSV0VkbVZrRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "食材天然、有機，每一樣純植料理都吃的出老闆的用心。肉桂捲口味獨特。\n店內的氣氛讓人非常的放鬆舒適。值得推薦！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "食材天然、有機，每一樣純植料理都吃的出老闆的用心。肉桂捲口味獨特。\n店內的氣氛讓人非常的放鬆舒適。值得推薦！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "A L",
+        "uri": "https://www.google.com/maps/contrib/109281257163942557709/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUb9ZxdcLhmksSodHa7z0YGUyrX5InQAOPMW6xa6bflhU6i0CO=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-12-28T03:29:27.552107399Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t3Mlh6bEhZVGN0TnpsdmRtOXdia1ZSV0VkbVZrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t3Mlh6bEhZVGN0TnpsdmRtOXdia1ZSV0VkbVZrRRAB!2m1!1s0x3442ae4ff6872791:0x10f077d8c9929d24"
+    },
+    {
+      "name": "places/ChIJkSeH9k-uQjQRJJ2Sydh38BA/reviews/Ci9DQUlRQUNvZENodHljRjlvT214T1F6TmpibE5KUjI1cFF5MHlSakZXY25SRWRsRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "真的好好吃，餐點都無五辛，服務人員的態度超好，老闆跟老闆娘也都很親切，我吃的是番茄燉飯，下次要來試試別的餐點，超級好吃，大推！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "真的好好吃，餐點都無五辛，服務人員的態度超好，老闆跟老闆娘也都很親切，我吃的是番茄燉飯，下次要來試試別的餐點，超級好吃，大推！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "TUNGJUNG WU",
+        "uri": "https://www.google.com/maps/contrib/113624999703906597736/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJyHNu0zFy5-sDAFEHDBZkhfoJFBh5SqycLu1a6PKYyVOp8YPY=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-20T09:48:44.966705242Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214T1F6TmpibE5KUjI1cFF5MHlSakZXY25SRWRsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214T1F6TmpibE5KUjI1cFF5MHlSakZXY25SRWRsRRAB!2m1!1s0x3442ae4ff6872791:0x10f077d8c9929d24"
+    },
+    {
+      "name": "places/ChIJkSeH9k-uQjQRJJ2Sydh38BA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xweWRrbHVZbEJVV1dSTWVWUm9VME50Tm5OSk5GRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "一刷：白醬燉飯+佛拉費蔬菜球\n二刷：我愛動物漢堡排/馬鈴薯塊+濃湯\n三刷：和風漢堡/地瓜條\n四刷：咖喱飯+印度香料餅乾\n\n只要來北投就會到這吃飯，謝謝掌廚人",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一刷：白醬燉飯+佛拉費蔬菜球\n二刷：我愛動物漢堡排/馬鈴薯塊+濃湯\n三刷：和風漢堡/地瓜條\n四刷：咖喱飯+印度香料餅乾\n\n只要來北投就會到這吃飯，謝謝掌廚人",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "- CHENANJU",
+        "uri": "https://www.google.com/maps/contrib/115300528664510328481/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUe0ZWrOEHIk6NNqj2Kb4eeeQv31q96RznKeNEC0eqC3ofautT1=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-03T11:33:26.846023646Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xweWRrbHVZbEJVV1dSTWVWUm9VME50Tm5OSk5GRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xweWRrbHVZbEJVV1dSTWVWUm9VME50Tm5OSk5GRRAB!2m1!1s0x3442ae4ff6872791:0x10f077d8c9929d24"
+    },
+    {
+      "name": "places/ChIJkSeH9k-uQjQRJJ2Sydh38BA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKc05USTRkV2R0ZVhWWFExQTRaMVpmTkd4NGVFRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第一次來點了鷹嘴豆泥口袋餅和補血一下果昔，很喜歡外層口袋餅的口感，鷹嘴豆泥搭配裡面的沙拉醬，吃起來會有乳酪優格的風味，裡面的蔬菜也很豐富，吃完飽足感很夠，品項都是全素的，快樂豐盛的一餐，下次再來回訪～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次來點了鷹嘴豆泥口袋餅和補血一下果昔，很喜歡外層口袋餅的口感，鷹嘴豆泥搭配裡面的沙拉醬，吃起來會有乳酪優格的風味，裡面的蔬菜也很豐富，吃完飽足感很夠，品項都是全素的，快樂豐盛的一餐，下次再來回訪～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "feibi",
+        "uri": "https://www.google.com/maps/contrib/116303883608868307130/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUsZb7PVn5SURjS0pX9vBZ5BBHYzdxfFcwYtbM6CWhONpAMq61iOg=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-21T09:36:35.605076586Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKc05USTRkV2R0ZVhWWFExQTRaMVpmTkd4NGVFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKc05USTRkV2R0ZVhWWFExQTRaMVpmTkd4NGVFRRAB!2m1!1s0x3442ae4ff6872791:0x10f077d8c9929d24"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

@@ -1,0 +1,137 @@
+{
+  "id": "ChIJmRV02sGrQjQRFGHkeHvnUVc",
+  "types": [
+    "brunch_restaurant",
+    "breakfast_restaurant",
+    "american_restaurant",
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2543 5880",
+  "formattedAddress": "104台灣台北市中山区中吉里一江街60之1號1樓",
+  "location": {
+    "latitude": 25.0544495,
+    "longitude": 121.53137409999998
+  },
+  "rating": 4.5,
+  "websiteUri": "https://www.facebook.com/WOWbrunch/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 505,
+  "displayName": {
+    "text": "WOW早午餐 / 咖啡 / 厚蛋吐司",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJmRV02sGrQjQRFGHkeHvnUVc/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xQmJVRkpPVVE1VTJGRE5qWkdVRlZZTFcxbGNHYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "小小的店面但很乾淨，從高雄回台北後都找不太到滿意的早餐店，以台北來說這間好吃又平價，非常喜歡，歐姆蛋跟美式套餐都很好吃😋，鍋煮鮮奶茶超好喝！還有很多想嘗試的餐點之後慢慢來吃🤩",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "小小的店面但很乾淨，從高雄回台北後都找不太到滿意的早餐店，以台北來說這間好吃又平價，非常喜歡，歐姆蛋跟美式套餐都很好吃😋，鍋煮鮮奶茶超好喝！還有很多想嘗試的餐點之後慢慢來吃🤩",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林昀",
+        "uri": "https://www.google.com/maps/contrib/102519663156354426336/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6kQbvLFi8N0lQ7QQKxa0KtPE6Ytiu1UzdWi4tL8CDQvm8Qe4SwQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-20T04:32:44.274456653Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xQmJVRkpPVVE1VTJGRE5qWkdVRlZZTFcxbGNHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xQmJVRkpPVVE1VTJGRE5qWkdVRlZZTFcxbGNHYxAB!2m1!1s0x3442abc1da741599:0x5751e77b78e46114"
+    },
+    {
+      "name": "places/ChIJmRV02sGrQjQRFGHkeHvnUVc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2psUGRUUm1SWFpGVERkS2JVMXdNVTlmWm5WcFVXYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "外送，備餐還算快速，普遍來說算是好吃有水準，醬料和包裝給的有到位",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "外送，備餐還算快速，普遍來說算是好吃有水準，醬料和包裝給的有到位",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Andy",
+        "uri": "https://www.google.com/maps/contrib/106059469184316849189/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXQ2G-nIZH2X6ndBgjZtc9gbabQmw7pGIc-BfK1iTgmyfuRdIY=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-03-08T07:03:10.404876837Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2psUGRUUm1SWFpGVERkS2JVMXdNVTlmWm5WcFVXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2psUGRUUm1SWFpGVERkS2JVMXdNVTlmWm5WcFVXYxAB!2m1!1s0x3442abc1da741599:0x5751e77b78e46114"
+    },
+    {
+      "name": "places/ChIJmRV02sGrQjQRFGHkeHvnUVc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2poSmVGQlZibkp1U2pKV056aGlOR0oxUkV0VVYwRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "要內用的話桌上掃碼點餐\n內用有空位都可以坐\n坐位比較少\n剛好沒人來吃吃看\n價錢貴了點\n只能偶爾久久吃一下\n青醬義大利麵 培根 好好吃\n很久沒吃到這麼好吃義大利麵\n紅茶好好喝 可惜沒發票\n如果可以開發票會更好\n有機會會想點 奶油義大利麵",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "要內用的話桌上掃碼點餐\n內用有空位都可以坐\n坐位比較少\n剛好沒人來吃吃看\n價錢貴了點\n只能偶爾久久吃一下\n青醬義大利麵 培根 好好吃\n很久沒吃到這麼好吃義大利麵\n紅茶好好喝 可惜沒發票\n如果可以開發票會更好\n有機會會想點 奶油義大利麵",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "藍熊",
+        "uri": "https://www.google.com/maps/contrib/100481602745953074931/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXph__SmAJx5NW0IrY_fURIJBdhO7NSlUUkBNaziLRnA5CblslJ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-30T04:24:20.065791965Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2poSmVGQlZibkp1U2pKV056aGlOR0oxUkV0VVYwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2poSmVGQlZibkp1U2pKV056aGlOR0oxUkV0VVYwRRAB!2m1!1s0x3442abc1da741599:0x5751e77b78e46114"
+    },
+    {
+      "name": "places/ChIJmRV02sGrQjQRFGHkeHvnUVc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKcFJtSmtRbXB6ZFVwVWVWZHZXbUpPWldKelMzYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "每次到台北必吃的早午餐，\n最愛的就是紅茶啦！\n炒蛋、法式吐司也很好吃~",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "每次到台北必吃的早午餐，\n最愛的就是紅茶啦！\n炒蛋、法式吐司也很好吃~",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Tiffany Tan",
+        "uri": "https://www.google.com/maps/contrib/110523505976366556889/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIqajb8QZJJClNluuTGUAoSK0zlBWEs0h1drUYuPyNWTxx1mLhK=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-22T07:40:38.364670469Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKcFJtSmtRbXB6ZFVwVWVWZHZXbUpPWldKelMzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKcFJtSmtRbXB6ZFVwVWVWZHZXbUpPWldKelMzYxAB!2m1!1s0x3442abc1da741599:0x5751e77b78e46114"
+    },
+    {
+      "name": "places/ChIJmRV02sGrQjQRFGHkeHvnUVc/reviews/ChZDSUhNMG9nS0VJQ0FnTUNRa3F5SE13EAE",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "回訪新增煙燻培根牛肉起士漢堡\n酥脆肥美的香煎培根配上多汁的現煎牛絞肉，新鮮爽脆的生菜跟蕃茄搭配，大口咬定\n味道也是極好，用餐美到連路過老外都饞了，呼朋引伴一家坐下享用！\n\n///////////////////////////////////////////////////////////\n\n難得連續的假期因為前晚久違的演唱會觀賞High過頭，導致延遲到早上才倒頭入睡，醒來已經在週日下午兩點半過後，選擇現在才外出覓食顯然相當不智，主要多數店家多半都已經息灶打烊休息.\n\nWoW在一江街也忘了之前開的是什麼店家後接續的，首先抱持可能被店家拒絕的情況，這間有著濃濃人情溫度的店家也是難得在我初醒；腦袋暫時沒有想法的情況提供了最合適的餐點！\n\n由於現點現做，好吃美味必須等候！\n\n原味脆皮蛋餅餅皮煎的乾香酥脆，嚐到表面粗糙質感刺激舌頭，濃郁爽滑的蛋餡嚐得到新鮮.\n蛋餅用的醬料偏甜，中規中矩提供了合適的調味，辣椒更是再激發樂我沈睡的味蕾.\n\n店家小姊姊所推薦的牛肉起士漢堡深得我心、紮實 鬆軟現烘的漢堡皮夾著微融的濃郁起士，佐上現煎多汁的牛肉餅，雖然真的熱量炸彈，這個爆炸的驚人美味著時令人難以拒絕，大口咬下真的完全醒了！爽脆的生菜跟洋蔥讓我一口接一口停不下來.好久沒吃這麼好的牛肉漢堡，比起某當勞好吃得多！\n\n慵懶的假日讓我忘了已經是下午三點多，店家並沒有著急趕客已經讓我倍感窩心，店家還將我猶豫不決口誤多點的餐點；其實我真的忘了；還已經付過了錢，除了主動告知確認是否取消並退錢，這個誠懇著時值得點贊！\n\n為了不耽誤店家打烊時間，（其實都早就過了）大口吸允著奶茶，帶著另一杯桂花紅茶就趕緊倉促離去了。\n，美好的早午餐應當慢悠悠享受。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "回訪新增煙燻培根牛肉起士漢堡\n酥脆肥美的香煎培根配上多汁的現煎牛絞肉，新鮮爽脆的生菜跟蕃茄搭配，大口咬定\n味道也是極好，用餐美到連路過老外都饞了，呼朋引伴一家坐下享用！\n\n///////////////////////////////////////////////////////////\n\n難得連續的假期因為前晚久違的演唱會觀賞High過頭，導致延遲到早上才倒頭入睡，醒來已經在週日下午兩點半過後，選擇現在才外出覓食顯然相當不智，主要多數店家多半都已經息灶打烊休息.\n\nWoW在一江街也忘了之前開的是什麼店家後接續的，首先抱持可能被店家拒絕的情況，這間有著濃濃人情溫度的店家也是難得在我初醒；腦袋暫時沒有想法的情況提供了最合適的餐點！\n\n由於現點現做，好吃美味必須等候！\n\n原味脆皮蛋餅餅皮煎的乾香酥脆，嚐到表面粗糙質感刺激舌頭，濃郁爽滑的蛋餡嚐得到新鮮.\n蛋餅用的醬料偏甜，中規中矩提供了合適的調味，辣椒更是再激發樂我沈睡的味蕾.\n\n店家小姊姊所推薦的牛肉起士漢堡深得我心、紮實 鬆軟現烘的漢堡皮夾著微融的濃郁起士，佐上現煎多汁的牛肉餅，雖然真的熱量炸彈，這個爆炸的驚人美味著時令人難以拒絕，大口咬下真的完全醒了！爽脆的生菜跟洋蔥讓我一口接一口停不下來.好久沒吃這麼好的牛肉漢堡，比起某當勞好吃得多！\n\n慵懶的假日讓我忘了已經是下午三點多，店家並沒有著急趕客已經讓我倍感窩心，店家還將我猶豫不決口誤多點的餐點；其實我真的忘了；還已經付過了錢，除了主動告知確認是否取消並退錢，這個誠懇著時值得點贊！\n\n為了不耽誤店家打烊時間，（其實都早就過了）大口吸允著奶茶，帶著另一杯桂花紅茶就趕緊倉促離去了。\n，美好的早午餐應當慢悠悠享受。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Aray Chen",
+        "uri": "https://www.google.com/maps/contrib/112994044288528737202/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKvKxsrevddP5GiHe7ue6VG9TJJqtAG7KTIl-VwsZBO9QWylA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-03-07T14:23:04.443067125Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNRa3F5SE13EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNRa3F5SE13EAE!2m1!1s0x3442abc1da741599:0x5751e77b78e46114"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

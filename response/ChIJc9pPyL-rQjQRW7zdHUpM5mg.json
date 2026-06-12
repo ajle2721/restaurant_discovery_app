@@ -1,0 +1,132 @@
+{
+  "id": "ChIJc9pPyL-rQjQRW7zdHUpM5mg",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2758 5883",
+  "formattedAddress": "110台灣臺北市信義區三張里莊敬路357號",
+  "location": {
+    "latitude": 25.027809899999998,
+    "longitude": 121.56465610000001
+  },
+  "rating": 4.2,
+  "websiteUri": "https://www.mk2000.com.tw/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 381,
+  "displayName": {
+    "text": "晨間廚房早午餐信義莊敬店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJc9pPyL-rQjQRW7zdHUpM5mg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWdWIxWkVaVlV5TjNCWFRFSklZbXBZVDAwNExXYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 1,
+      "text": {
+        "text": "平常也算是偶爾會來吃\n今天外帶兩份麻辣燙細麵\n兩份都肉換成菜\n結果菜不但沒變多 連最基本的雞蛋都沒有\n湯就剩大概快要一半而已\n回去抱怨時拿給店員看\n他也很驚訝 我也很驚訝\n只回覆新人做的怎樣的\n你們給這什麼東西 這一份還要90元\n就問賣你這樣90你買不買\n物價上漲 縮水成這樣也太離譜\n什麼都沒有我幹嘛不自己煮\n真的很不爽 趕時間送老婆上班東西都吃了退費也不需要.",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "平常也算是偶爾會來吃\n今天外帶兩份麻辣燙細麵\n兩份都肉換成菜\n結果菜不但沒變多 連最基本的雞蛋都沒有\n湯就剩大概快要一半而已\n回去抱怨時拿給店員看\n他也很驚訝 我也很驚訝\n只回覆新人做的怎樣的\n你們給這什麼東西 這一份還要90元\n就問賣你這樣90你買不買\n物價上漲 縮水成這樣也太離譜\n什麼都沒有我幹嘛不自己煮\n真的很不爽 趕時間送老婆上班東西都吃了退費也不需要.",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "王毓文",
+        "uri": "https://www.google.com/maps/contrib/106390667532833365913/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWiMx-tSUewgS8m7oIWYsMSxz_lOVsdSjGlnwsbHMfK60PaTzlm=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-08T03:51:02.212171524Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWdWIxWkVaVlV5TjNCWFRFSklZbXBZVDAwNExXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWdWIxWkVaVlV5TjNCWFRFSklZbXBZVDAwNExXYxAB!2m1!1s0x3442abbfc84fda73:0x68e64c4a1dddbc5b"
+    },
+    {
+      "name": "places/ChIJc9pPyL-rQjQRW7zdHUpM5mg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xod2RsZDBPRWd0ZVVWTlIweElWMWM0Y2tSTk1VRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 3,
+      "text": {
+        "text": "熊貓外送～\n奶酥厚片超好吃！！！！\n但是這和風雞腿蛋堡的雞…還沒長大？",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "熊貓外送～\n奶酥厚片超好吃！！！！\n但是這和風雞腿蛋堡的雞…還沒長大？",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳曦",
+        "uri": "https://www.google.com/maps/contrib/113122517302630142476/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVE9LUgeYFMWb5NGLVL6tuRFYAAfMYraD6gEBk7P2xuGnVoj6Q=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-01T03:39:25.703397596Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xod2RsZDBPRWd0ZVVWTlIweElWMWM0Y2tSTk1VRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xod2RsZDBPRWd0ZVVWTlIweElWMWM0Y2tSTk1VRRAB!2m1!1s0x3442abbfc84fda73:0x68e64c4a1dddbc5b"
+    },
+    {
+      "name": "places/ChIJc9pPyL-rQjQRW7zdHUpM5mg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxMmNsOUNRVVZpVlhaeGRIQTFVSFJTUjBnd1IwRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 1,
+      "text": {
+        "text": "無語，台式炒泡麵外送要130，居然連肉都沒有，整碗只有高麗菜和蛋（火鍋料我自己不要的），第一次吃到這麼不爽",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "無語，台式炒泡麵外送要130，居然連肉都沒有，整碗只有高麗菜和蛋（火鍋料我自己不要的），第一次吃到這麼不爽",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Mico",
+        "uri": "https://www.google.com/maps/contrib/110172600518122505393/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUY40hxwAU7twvhK6xqf9t5csw4UFE8U7dr_mnLNExipnim-21V=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-03-05T02:28:05.105183793Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxMmNsOUNRVVZpVlhaeGRIQTFVSFJTUjBnd1IwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxMmNsOUNRVVZpVlhaeGRIQTFVSFJTUjBnd1IwRRAB!2m1!1s0x3442abbfc84fda73:0x68e64c4a1dddbc5b"
+    },
+    {
+      "name": "places/ChIJc9pPyL-rQjQRW7zdHUpM5mg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkNE4wZDJSRFk1UlRWTFYzcExjekpIU1ROTGVsRRAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 3,
+      "text": {
+        "text": "內用環境乾淨 內用座位不多\n半開放廚房會有點油煙味\n麻辣跟台式炒泡麵，正常份量就滿多的，加麵更大碗\n蘿蔔糕普通\n古早奶還可以稍微甜",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "內用環境乾淨 內用座位不多\n半開放廚房會有點油煙味\n麻辣跟台式炒泡麵，正常份量就滿多的，加麵更大碗\n蘿蔔糕普通\n古早奶還可以稍微甜",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Mavis Chen",
+        "uri": "https://www.google.com/maps/contrib/108553061807518132986/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXbhagm5XSr4voNW6eDTkB7kNk2STtd97DL0sN_8ollhmI7bA60PA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-07-06T06:00:17.314090398Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkNE4wZDJSRFk1UlRWTFYzcExjekpIU1ROTGVsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkNE4wZDJSRFk1UlRWTFYzcExjekpIU1ROTGVsRRAB!2m1!1s0x3442abbfc84fda73:0x68e64c4a1dddbc5b"
+    },
+    {
+      "name": "places/ChIJc9pPyL-rQjQRW7zdHUpM5mg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0SU9VbGxaekJMVFVSQlVXOTFjbFJQYVhOSU5IYxAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 1,
+      "text": {
+        "text": "蘿蔔糕翻到背面全是燒焦，蛋餅裡面的肉也是一片焦黑，是以為沒有人會發現嗎？\n\n很久以前就在莊敬路這家晨間廚房買到嚴重燒焦的荷包蛋（荷包蛋上還很多黑色屑屑），這次隔了大半年再吃，沒想到不僅沒有改進，甚至變本加厲。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "蘿蔔糕翻到背面全是燒焦，蛋餅裡面的肉也是一片焦黑，是以為沒有人會發現嗎？\n\n很久以前就在莊敬路這家晨間廚房買到嚴重燒焦的荷包蛋（荷包蛋上還很多黑色屑屑），這次隔了大半年再吃，沒想到不僅沒有改進，甚至變本加厲。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Fred Smith",
+        "uri": "https://www.google.com/maps/contrib/107635648776341897375/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLBwcg9tAHZTgPchh4UtEYT-_h5VfuK7Ty8meeeIlL8jUMCgQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-06-28T16:40:30.124529317Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0SU9VbGxaekJMVFVSQlVXOTFjbFJQYVhOSU5IYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0SU9VbGxaekJMVFVSQlVXOTFjbFJQYVhOSU5IYxAB!2m1!1s0x3442abbfc84fda73:0x68e64c4a1dddbc5b"
+    }
+  ],
+  "goodForChildren": true
+}

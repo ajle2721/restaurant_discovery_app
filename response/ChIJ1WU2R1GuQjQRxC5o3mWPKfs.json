@@ -1,0 +1,132 @@
+{
+  "id": "ChIJ1WU2R1GuQjQRxC5o3mWPKfs",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2896 1126",
+  "formattedAddress": "112台灣臺北市北投區大同里育仁路18號",
+  "location": {
+    "latitude": 25.1330916,
+    "longitude": 121.4983165
+  },
+  "rating": 4.2,
+  "websiteUri": "https://www.facebook.com/Ncafe18/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 599,
+  "displayName": {
+    "text": "N Café",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ1WU2R1GuQjQRxC5o3mWPKfs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKWlpVTlJPVTlrYmtWTmJXbGFibmhTYjBkbWVGRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "這家店是第一次來；記得上次是接近店家休息時間了才作罷！內部沒有什麼豪麗的裝潢，但有一種溫馨的感覺！點餐就靠點餐機來完成！繳費及收取發票一次就完成了！營業時間:09:00-19:00！\n個人覺得咖啡作的很好；以冰美式的角度來看；通常不會是很濃香的咖啡來做！很多都是草草以對；顏色對了就好了！\n店家離北投捷運站很近是靠育仁路這一邊！稍微看一下就看得到！下次一定還會再來！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這家店是第一次來；記得上次是接近店家休息時間了才作罷！內部沒有什麼豪麗的裝潢，但有一種溫馨的感覺！點餐就靠點餐機來完成！繳費及收取發票一次就完成了！營業時間:09:00-19:00！\n個人覺得咖啡作的很好；以冰美式的角度來看；通常不會是很濃香的咖啡來做！很多都是草草以對；顏色對了就好了！\n店家離北投捷運站很近是靠育仁路這一邊！稍微看一下就看得到！下次一定還會再來！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jimmy Chang",
+        "uri": "https://www.google.com/maps/contrib/108006352090996531429/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVOnY7foziaoZ6o6tMuzG-8P-So54RHHlI_EhmSw3zxru8XcJoKSA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-21T15:37:16.778256165Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKWlpVTlJPVTlrYmtWTmJXbGFibmhTYjBkbWVGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKWlpVTlJPVTlrYmtWTmJXbGFibmhTYjBkbWVGRRAB!2m1!1s0x3442ae51473665d5:0xfb298f65de682ec4"
+    },
+    {
+      "name": "places/ChIJ1WU2R1GuQjQRxC5o3mWPKfs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwR1FsWklWRzlRTVRWM2NtOTNaWEZhUkV4aFUyYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "午飯後隨意走進，本只想消磨時光，意想不到這家的輕食和甜品CP值蠻高。環境舒適，下次絕對要來試試午餐主食。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "午飯後隨意走進，本只想消磨時光，意想不到這家的輕食和甜品CP值蠻高。環境舒適，下次絕對要來試試午餐主食。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Iuing Wong",
+        "uri": "https://www.google.com/maps/contrib/100350574000999636516/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUdX4A8KKLBaMz2blETquzdh_FTWXomrFz03AbeWdyTi2KxFGsReA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-19T09:03:59.790862503Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwR1FsWklWRzlRTVRWM2NtOTNaWEZhUkV4aFUyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwR1FsWklWRzlRTVRWM2NtOTNaWEZhUkV4aFUyYxAB!2m1!1s0x3442ae51473665d5:0xfb298f65de682ec4"
+    },
+    {
+      "name": "places/ChIJ1WU2R1GuQjQRxC5o3mWPKfs/reviews/Ci9DQUlRQUNvZENodHljRjlvT25JNWJFdHNOMnhKZUZCQk5GVmlOell3ZFhGNFRtYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 1,
+      "text": {
+        "text": "這間咖啡廳事前完全沒有說明有用餐時間限制，菜單上也未標示。\n我一開始點了一份餐點與一杯飲料，之後又再加點一杯咖啡，打算繼續坐著喝。後來因為現場客人變多，服務人員就要求我將加點的咖啡改成外帶、讓出座位，真的讓人傻眼。\n\n如果一開始就清楚告知有限時或有相關規定，我就會直接離開，也不會再加點咖啡。這種事後才告知的做法，對消費者非常不友善。\n\n更讓人不舒服的是，服務人員是在其他顧客面前要求我離座，讓人相當尷尬，整體溝通方式與應對態度都非常有待加強。\n\n這次的消費經驗真的是我人生中最糟的一次，\n不會再訪。\n\nThis café did not inform customers in advance of any dining time limit, nor was it stated anywhere on the menu.\nI initially ordered a meal and a drink, and later ordered an additional coffee, planning to stay and enjoy it. However, once the café became more crowded, the staff asked me to change my newly ordered coffee to takeaway and give up my seat, which was honestly shocking.\n\nIf there had been clear communication about time limits or seating policies from the beginning, I would have left right away and would not have ordered another drink. Changing the rules after the fact is extremely unfriendly to customers.\n\nWhat made the experience even worse was that the staff asked me to leave in front of other customers, which was very embarrassing. Their communication skills and overall manner of handling the situation were seriously lacking.\n\nThis was one of the worst café experiences I’ve ever had, and I will not be returning.",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這間咖啡廳事前完全沒有說明有用餐時間限制，菜單上也未標示。\n我一開始點了一份餐點與一杯飲料，之後又再加點一杯咖啡，打算繼續坐著喝。後來因為現場客人變多，服務人員就要求我將加點的咖啡改成外帶、讓出座位，真的讓人傻眼。\n\n如果一開始就清楚告知有限時或有相關規定，我就會直接離開，也不會再加點咖啡。這種事後才告知的做法，對消費者非常不友善。\n\n更讓人不舒服的是，服務人員是在其他顧客面前要求我離座，讓人相當尷尬，整體溝通方式與應對態度都非常有待加強。\n\n這次的消費經驗真的是我人生中最糟的一次，\n不會再訪。\n\nThis café did not inform customers in advance of any dining time limit, nor was it stated anywhere on the menu.\nI initially ordered a meal and a drink, and later ordered an additional coffee, planning to stay and enjoy it. However, once the café became more crowded, the staff asked me to change my newly ordered coffee to takeaway and give up my seat, which was honestly shocking.\n\nIf there had been clear communication about time limits or seating policies from the beginning, I would have left right away and would not have ordered another drink. Changing the rules after the fact is extremely unfriendly to customers.\n\nWhat made the experience even worse was that the staff asked me to leave in front of other customers, which was very embarrassing. Their communication skills and overall manner of handling the situation were seriously lacking.\n\nThis was one of the worst café experiences I’ve ever had, and I will not be returning.",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Kay",
+        "uri": "https://www.google.com/maps/contrib/100082709396876651417/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLVEkpKlZUJkaJNtNE__7DIqIZAGk7EN-D8249h9Z70cwC2NGk=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-18T06:26:13.768074907Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25JNWJFdHNOMnhKZUZCQk5GVmlOell3ZFhGNFRtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25JNWJFdHNOMnhKZUZCQk5GVmlOell3ZFhGNFRtYxAB!2m1!1s0x3442ae51473665d5:0xfb298f65de682ec4"
+    },
+    {
+      "name": "places/ChIJ1WU2R1GuQjQRxC5o3mWPKfs/reviews/ChdDSUhNMG9nS0VJQ0FnTURJa2Q3V3BnRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "在北投營業多年的老店，從北投捷運站一號出口直走右前方步行3分鐘即可看到店家。\n入店可先找座位，再到自動點餐機選餐。耳聞它的黑咖哩小有名氣，但是每次光顧都是飯後來的，只能說無緣啊！\n對老北投人而言，這地區值得收藏的下午茶地點有四.五家，很主觀地認為這是其中一家。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在北投營業多年的老店，從北投捷運站一號出口直走右前方步行3分鐘即可看到店家。\n入店可先找座位，再到自動點餐機選餐。耳聞它的黑咖哩小有名氣，但是每次光顧都是飯後來的，只能說無緣啊！\n對老北投人而言，這地區值得收藏的下午茶地點有四.五家，很主觀地認為這是其中一家。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張齡方",
+        "uri": "https://www.google.com/maps/contrib/100041806720468198396/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW2z8u-slS3epAr8XZsoMIENXrh7WvXp2bPIkz7BWuO8m7sCJF3nw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-05-29T14:32:02.723174Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURJa2Q3V3BnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURJa2Q3V3BnRRAB!2m1!1s0x3442ae51473665d5:0xfb298f65de682ec4"
+    },
+    {
+      "name": "places/ChIJ1WU2R1GuQjQRxC5o3mWPKfs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsb1IzaExlRGxzUjFKc1lYUkdPRFZEVVhsbFJrRRAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 5,
+      "text": {
+        "text": "位於北投捷運站斜對面，應該是北投市區的老咖啡店了\n室內容客數約30人，還有沙發區，照明偏昏黃，室內左側沙發區桌距較寬；右側窗邊區桌距較窄，入座後須自行到點餐機點餐並付款，可使用載具\n提拉米蘇拿鐵@120，為拿鐵上舖上一層薄薄的提拉米蘇，口感不錯\n摩卡咖啡@120，拉花也滿漂亮的\n焦糖烤布蕾@100稍普通\n店員很客氣，看到沙發區客人離場後，還讓我們移座過去，很感恩她們的熱枕",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "位於北投捷運站斜對面，應該是北投市區的老咖啡店了\n室內容客數約30人，還有沙發區，照明偏昏黃，室內左側沙發區桌距較寬；右側窗邊區桌距較窄，入座後須自行到點餐機點餐並付款，可使用載具\n提拉米蘇拿鐵@120，為拿鐵上舖上一層薄薄的提拉米蘇，口感不錯\n摩卡咖啡@120，拉花也滿漂亮的\n焦糖烤布蕾@100稍普通\n店員很客氣，看到沙發區客人離場後，還讓我們移座過去，很感恩她們的熱枕",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lee Andy",
+        "uri": "https://www.google.com/maps/contrib/110027457359587861898/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXVvAfzq_Du99PQwxvCTynT48_I3GaAmxXUDtdquntjgOBmCLE=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-06-26T09:00:31.732731021Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsb1IzaExlRGxzUjFKc1lYUkdPRFZEVVhsbFJrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsb1IzaExlRGxzUjFKc1lYUkdPRFZEVVhsbFJrRRAB!2m1!1s0x3442ae51473665d5:0xfb298f65de682ec4"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

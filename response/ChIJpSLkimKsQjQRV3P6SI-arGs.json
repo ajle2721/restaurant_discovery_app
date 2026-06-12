@@ -1,0 +1,138 @@
+{
+  "id": "ChIJpSLkimKsQjQRV3P6SI-arGs",
+  "types": [
+    "bakery",
+    "breakfast_restaurant",
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2658 1211",
+  "formattedAddress": "114台灣臺北市內湖區瑞陽里文德路66巷10弄1號1樓",
+  "location": {
+    "latitude": 25.0778359,
+    "longitude": 121.58130740000001
+  },
+  "rating": 4.4,
+  "websiteUri": "https://liff.line.me/1645278921-kWRPP32q?accountId=197lrcfg&openerPlatform=native&openerKey=unifiedSearch#mst_challenge=HscEQkalm0M-7DfTTzrrGTChnM8pQbIscNRRt4EVPtk",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 1293,
+  "displayName": {
+    "text": "可來富麵包蛋餅店（內湖店）早午餐營業到14:00",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Down-to-earth restaurant fixing up sweet & savory baked goods, plus sandwiches, burgers & eggs.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJpSLkimKsQjQRV3P6SI-arGs/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aWVIzZzRkRkJYZDFkVU9YTmxjamwyT0doR1dVRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "每一種餐點都各有特色，本人強力推薦美式牛肉蛋捲。\n兒童餐的熊熊吐司超可愛的，上餐時連大人都會感到非常興奮🥰",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "每一種餐點都各有特色，本人強力推薦美式牛肉蛋捲。\n兒童餐的熊熊吐司超可愛的，上餐時連大人都會感到非常興奮🥰",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "賦賦",
+        "uri": "https://www.google.com/maps/contrib/102271298116550726547/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUhZBCPOEV2QcbuPJFuZojlpOZOFjCTkICJITHDNzDrYZVs4L-t=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-03-05T03:07:20.999446755Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aWVIzZzRkRkJYZDFkVU9YTmxjamwyT0doR1dVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aWVIzZzRkRkJYZDFkVU9YTmxjamwyT0doR1dVRRAB!2m1!1s0x3442ac628ae422a5:0x6bac9a8f48fa7357"
+    },
+    {
+      "name": "places/ChIJpSLkimKsQjQRV3P6SI-arGs/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GVlZUaGlWazQyV1cxR1F6aElkbk5MTldWNVJsRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "平日下午可以買麵包，早餐突擊蛋餅，脆脆的好好吃，尤其推薦鮪魚蛋餅。熱壓吐司、漢堡也很讚。鐵板麵相對就普通一些。可以用line線上點餐。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "平日下午可以買麵包，早餐突擊蛋餅，脆脆的好好吃，尤其推薦鮪魚蛋餅。熱壓吐司、漢堡也很讚。鐵板麵相對就普通一些。可以用line線上點餐。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "yng miin Toh",
+        "uri": "https://www.google.com/maps/contrib/108927376726235564397/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJqXoc0oc4oDJVAKfPudvjc6Vd0HzMkfWar2TqnnxkpmTsK-Q=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-06T00:05:55.034281885Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GVlZUaGlWazQyV1cxR1F6aElkbk5MTldWNVJsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GVlZUaGlWazQyV1cxR1F6aElkbk5MTldWNVJsRRAB!2m1!1s0x3442ac628ae422a5:0x6bac9a8f48fa7357"
+    },
+    {
+      "name": "places/ChIJpSLkimKsQjQRV3P6SI-arGs/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KeGRUWnVVSEZDZFMxR2NuRkJXa05PVmpGd1VuYxAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 5,
+      "text": {
+        "text": "114 7 16（三）\n到附近看牙科 才發現有熱鬧的小市場\n已消費多次了… 通常是賣麵包的時間!\n這一次中午來 才有機會吃到熱壓吐司\n雖不是住在附近 後來才看到【內用】\n居然有辣椒醬油 下次要早起來內用😅\n上次買了沙拉馬鈴薯麵包 讓牙口弱的\nㄚ母吃得好開心 在等待的期間 到處拍\n室外座位區 有洗手地方 造型特殊 !🚿\n🍀店家蠻有愛心 咖啡及環境非常用心\n服務的店員 非常的親切 辛苦了請加油",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "114 7 16（三）\n到附近看牙科 才發現有熱鬧的小市場\n已消費多次了… 通常是賣麵包的時間!\n這一次中午來 才有機會吃到熱壓吐司\n雖不是住在附近 後來才看到【內用】\n居然有辣椒醬油 下次要早起來內用😅\n上次買了沙拉馬鈴薯麵包 讓牙口弱的\nㄚ母吃得好開心 在等待的期間 到處拍\n室外座位區 有洗手地方 造型特殊 !🚿\n🍀店家蠻有愛心 咖啡及環境非常用心\n服務的店員 非常的親切 辛苦了請加油",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林曉鈴",
+        "uri": "https://www.google.com/maps/contrib/106103262735635697834/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL0v2gUjUjLPEJRoivrAZnv0q_U_lJwG5Vvx9y4p7ubxGDY8g=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-07-19T09:40:08.265942036Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KeGRUWnVVSEZDZFMxR2NuRkJXa05PVmpGd1VuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KeGRUWnVVSEZDZFMxR2NuRkJXa05PVmpGd1VuYxAB!2m1!1s0x3442ac628ae422a5:0x6bac9a8f48fa7357"
+    },
+    {
+      "name": "places/ChIJpSLkimKsQjQRV3P6SI-arGs/reviews/ChdDSUhNMG9nS0VJQ0FnTUNRLTZqOW9nRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "早餐非常好吃 價格便宜\n蘿蔔糕煎的酥酥的 裡面很軟\n本身沒調味就很好吃了\n厚片的吐司非常軟綿好吃\n芋泥蛋餅也不錯 但餅皮沒有特別愛",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "早餐非常好吃 價格便宜\n蘿蔔糕煎的酥酥的 裡面很軟\n本身沒調味就很好吃了\n厚片的吐司非常軟綿好吃\n芋泥蛋餅也不錯 但餅皮沒有特別愛",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jason Huang",
+        "uri": "https://www.google.com/maps/contrib/105383185777240474685/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWti9SgHUww0y0aJtkBD-rii1xHK-Jg5T4Xsr0MkDWfbo5atafoXQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-05-11T10:03:21.003587Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNRLTZqOW9nRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNRLTZqOW9nRRAB!2m1!1s0x3442ac628ae422a5:0x6bac9a8f48fa7357"
+    },
+    {
+      "name": "places/ChIJpSLkimKsQjQRV3P6SI-arGs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4MExXVm1NV2gzYW1ocmNFdDBRVkpvWlZGMWNtYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "要來給店家加油因為真的很好吃😋\n\n第一次吃到早餐店有真的蘿蔔～吃的到蘿蔔絲，真有良心！而且很好吃！\n\n熱壓吐司裡面有加乳酪，營養又美味，料也都加滿滿的；起士蛋餅的起士也放了很多很多會牽絲的起士，餅皮很厚實，吃一份就很飽！\n\n每一份早餐都讓人充滿驚喜，重點是價錢對得起品質～～很開心搬來內湖可以找到這麼好吃的早餐店 還開到下午兩點 超感謝💗",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "要來給店家加油因為真的很好吃😋\n\n第一次吃到早餐店有真的蘿蔔～吃的到蘿蔔絲，真有良心！而且很好吃！\n\n熱壓吐司裡面有加乳酪，營養又美味，料也都加滿滿的；起士蛋餅的起士也放了很多很多會牽絲的起士，餅皮很厚實，吃一份就很飽！\n\n每一份早餐都讓人充滿驚喜，重點是價錢對得起品質～～很開心搬來內湖可以找到這麼好吃的早餐店 還開到下午兩點 超感謝💗",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "smile",
+        "uri": "https://www.google.com/maps/contrib/114741703225136935569/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUcrIheKfU5bRghohLwlqScC_FlF-3QdEm154gPt629kZMZRHTJuQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-27T09:40:54.720103294Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4MExXVm1NV2gzYW1ocmNFdDBRVkpvWlZGMWNtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4MExXVm1NV2gzYW1ocmNFdDBRVkpvWlZGMWNtYxAB!2m1!1s0x3442ac628ae422a5:0x6bac9a8f48fa7357"
+    }
+  ]
+}

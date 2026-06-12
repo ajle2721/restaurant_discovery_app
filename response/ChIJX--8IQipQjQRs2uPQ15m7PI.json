@@ -1,0 +1,139 @@
+{
+  "id": "ChIJX--8IQipQjQRs2uPQ15m7PI",
+  "types": [
+    "brunch_restaurant",
+    "breakfast_restaurant",
+    "american_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2361 6998",
+  "formattedAddress": "108台灣臺北市萬華區昆明街214-1號",
+  "location": {
+    "latitude": 25.0406989,
+    "longitude": 121.5042775
+  },
+  "rating": 4.3,
+  "websiteUri": "https://m.facebook.com/whatdaykitchen/?ref=bookmarks",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 5406,
+  "displayName": {
+    "text": "花嘴廚房",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Unpretentious, family-owned cafe offering English-style breakfasts, burgers & other Western dishes.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJX--8IQipQjQRs2uPQ15m7PI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCeVZHeGlVako2WW5OTVpqQTBSM1JwZDA5UGIzYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "📌用餐環境\n不能預約，需現場先登記，待有空桌後再入座。內用位置算多，但桌子與桌子之間間隔較小，內用提供不鏽鋼餐具。還有不少恐龍玩具可以給小孩玩。\n\n📌經典早餐-炸雞\n兩次造訪都是點這個，早餐麵包選擇B鬆餅🥞，鬆餅單吃就好吃了，口感綿密，有淡淡的奶香氣，炸雞份量很足夠、口感很酥脆，真的好喜歡這個組合，再搭配一杯奶茶，根本絕了😚",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "📌用餐環境\n不能預約，需現場先登記，待有空桌後再入座。內用位置算多，但桌子與桌子之間間隔較小，內用提供不鏽鋼餐具。還有不少恐龍玩具可以給小孩玩。\n\n📌經典早餐-炸雞\n兩次造訪都是點這個，早餐麵包選擇B鬆餅🥞，鬆餅單吃就好吃了，口感綿密，有淡淡的奶香氣，炸雞份量很足夠、口感很酥脆，真的好喜歡這個組合，再搭配一杯奶茶，根本絕了😚",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "萬華小菜雞",
+        "uri": "https://www.google.com/maps/contrib/106859356416020677258/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWuoe4BFt-XkujKlbp7_nTI76ciba2PmSHubUlPjgnHXqxB5L0=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-20T14:11:02.438982413Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCeVZHeGlVako2WW5OTVpqQTBSM1JwZDA5UGIzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCeVZHeGlVako2WW5OTVpqQTBSM1JwZDA5UGIzYxAB!2m1!1s0x3442a90821bcef5f:0xf2ec665e438f6bb3"
+    },
+    {
+      "name": "places/ChIJX--8IQipQjQRs2uPQ15m7PI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WbVgwZ3lhMGxFWlVRMGNuaEtkazlvVURWcU9GRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "平實無華的早餐店。\n藍莓口味的產品很有名。\n建議不要坐裡面的位置，油煙味會非常的重。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "平實無華的早餐店。\n藍莓口味的產品很有名。\n建議不要坐裡面的位置，油煙味會非常的重。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳君毅",
+        "uri": "https://www.google.com/maps/contrib/106103670756392671624/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXfDcuUxH1lZ2fD9wYPXnIaEn8x-apo1UZqUYfoF_c_GpobWqVh=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-03-01T12:57:33.412255883Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WbVgwZ3lhMGxFWlVRMGNuaEtkazlvVURWcU9GRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WbVgwZ3lhMGxFWlVRMGNuaEtkazlvVURWcU9GRRAB!2m1!1s0x3442a90821bcef5f:0xf2ec665e438f6bb3"
+    },
+    {
+      "name": "places/ChIJX--8IQipQjQRs2uPQ15m7PI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5S2JGVkxWa3Q1YlZCcFVHbGpPSFpRVlhKUVkyYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "很好吃 高CP值\n\n部分服務人員親切\n\n藍莓吐司極力推薦\n咬下去\n還沒為非常豐富，帶著後續奶油的香氣\n第一次吃到果醬會留下來的那種滋味\n\n桌上有兩個醬，一個是番茄醬，一個是令人意想不到的楓糖\n\n野菇有意想不到味道相當的味\n不會有什麼菇的味道\n調味很讚",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很好吃 高CP值\n\n部分服務人員親切\n\n藍莓吐司極力推薦\n咬下去\n還沒為非常豐富，帶著後續奶油的香氣\n第一次吃到果醬會留下來的那種滋味\n\n桌上有兩個醬，一個是番茄醬，一個是令人意想不到的楓糖\n\n野菇有意想不到味道相當的味\n不會有什麼菇的味道\n調味很讚",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "營養師教練-世昕",
+        "uri": "https://www.google.com/maps/contrib/117255285848921399884/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWl3bUv6tnfxHqtvSvJp-OV6Ec4YY_ffdxUNt3T4S1Yh1iz564=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-24T02:52:41.455668076Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5S2JGVkxWa3Q1YlZCcFVHbGpPSFpRVlhKUVkyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5S2JGVkxWa3Q1YlZCcFVHbGpPSFpRVlhKUVkyYxAB!2m1!1s0x3442a90821bcef5f:0xf2ec665e438f6bb3"
+    },
+    {
+      "name": "places/ChIJX--8IQipQjQRs2uPQ15m7PI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2swd1VXSmlMVU01U1dSVWNraGxhbmRzYmtZM1kwRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "牛肝蕈口味驚豔，調味我很喜歡。\n綜合肉盤內容豐富，大蒜奶油風味很香……。\n飲料小小過甜，但CP值高。\n\n整體來說，這是一間很用心經營自家風味的店，而不是買現成食材，簡單加熱組合後，靠著精美擺盤，或裝潢假文青來吸引年輕人。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "牛肝蕈口味驚豔，調味我很喜歡。\n綜合肉盤內容豐富，大蒜奶油風味很香……。\n飲料小小過甜，但CP值高。\n\n整體來說，這是一間很用心經營自家風味的店，而不是買現成食材，簡單加熱組合後，靠著精美擺盤，或裝潢假文青來吸引年輕人。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "TITUS Chiang",
+        "uri": "https://www.google.com/maps/contrib/111289441711682556237/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI9PhKwnE_TRLCH9Vm4s321desc1RSrGhP-RbDYmybtb2FpqYrs=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-22T13:41:46.353973460Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2swd1VXSmlMVU01U1dSVWNraGxhbmRzYmtZM1kwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2swd1VXSmlMVU01U1dSVWNraGxhbmRzYmtZM1kwRRAB!2m1!1s0x3442a90821bcef5f:0xf2ec665e438f6bb3"
+    },
+    {
+      "name": "places/ChIJX--8IQipQjQRs2uPQ15m7PI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOQ2VXNWtNRWxUTmpWWlkxTnRVWGxPVWxOcWVtYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "就普通好吃，他少了網紅裝潢的價，我覺得很棒大概少80-110元左右，很棒\n還有附可愛動物公仔，食物份量很夠，我覺得麵包澱粉類比較普通也可能是我沒有點法國吐司，我點了佛卡跟朋友點了貝果但吃起來就像麵包。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "就普通好吃，他少了網紅裝潢的價，我覺得很棒大概少80-110元左右，很棒\n還有附可愛動物公仔，食物份量很夠，我覺得麵包澱粉類比較普通也可能是我沒有點法國吐司，我點了佛卡跟朋友點了貝果但吃起來就像麵包。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張右澄",
+        "uri": "https://www.google.com/maps/contrib/103895298216256783678/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWXfzsrA7tLO15xfrFSfe1VEQVUV3xmf-lRjtj8yvbKN3S794Ygcw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-28T16:26:48.932430589Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOQ2VXNWtNRWxUTmpWWlkxTnRVWGxPVWxOcWVtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOQ2VXNWtNRWxUTmpWWlkxTnRVWGxPVWxOcWVtYxAB!2m1!1s0x3442a90821bcef5f:0xf2ec665e438f6bb3"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

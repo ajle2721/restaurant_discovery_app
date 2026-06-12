@@ -1,0 +1,132 @@
+﻿{
+    "id":  "ChIJ24ETXymtQjQRznH-ZnUhaK8",
+    "types":  [
+                  "japanese_restaurant",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2533 6608",
+    "formattedAddress":  "10491台灣臺北市中山區大直里大直街32號",
+    "location":  {
+                     "latitude":  25.081685699999998,
+                     "longitude":  121.54632519999998
+                 },
+    "rating":  4.7,
+    "websiteUri":  "https://instagram.com/birdining?utm_medium=copy_link",
+    "userRatingCount":  752,
+    "displayName":  {
+                        "text":  "BirDining蔦飼料餐食料理",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJ24ETXymtQjQRznH-ZnUhaK8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sMlIxcHFZWGRqUVdoNk1XUllVWFJETFUxa2IxRRAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "餐點種類豐富，選擇性高。\n有飲料機，可自行取用。\n\n點了炸豬排定食 $165 + 明太子節瓜 $80。\n🔸炸豬排\n肉厚實有份量，口感紮實。\n不過麵衣表現普通，個人沒有特別喜歡。\n配菜有高麗菜絲、豆芽菜和醃漬蘿蔔，搭配算清爽。\n豆芽菜調味不錯，味道夠、帶點鹹香。\n\n🔸明太子節瓜\n鮮鹹中帶微辣，節瓜口感軟嫩又保有爽脆度，搭配魚卵顆粒感，層次豐富。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "餐點種類豐富，選擇性高。\n有飲料機，可自行取用。\n\n點了炸豬排定食 $165 + 明太子節瓜 $80。\n🔸炸豬排\n肉厚實有份量，口感紮實。\n不過麵衣表現普通，個人沒有特別喜歡。\n配菜有高麗菜絲、豆芽菜和醃漬蘿蔔，搭配算清爽。\n豆芽菜調味不錯，味道夠、帶點鹹香。\n\n🔸明太子節瓜\n鮮鹹中帶微辣，節瓜口感軟嫩又保有爽脆度，搭配魚卵顆粒感，層次豐富。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "濃湯棒",
+                                                  "uri":  "https://www.google.com/maps/contrib/109889414219670532916/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVf02cHW-_wXgFdo5IjDEDHQujjM2sN-BxoXRJnFcJKI0-6Cmw=s128-c0x00000000-cc-rp-mo-ba8"
+                                              },
+                        "publishTime":  "2026-02-23T21:33:17.265519672Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sMlIxcHFZWGRqUVdoNk1XUllVWFJETFUxa2IxRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sMlIxcHFZWGRqUVdoNk1XUllVWFJETFUxa2IxRRAB!2m1!1s0x3442ad295f1381db:0xaf68217566fe71ce"
+                    },
+                    {
+                        "name":  "places/ChIJ24ETXymtQjQRznH-ZnUhaK8/reviews/Ci9DQUlRQUNvZENodHljRjlvT214UWREVlJaM1pFVUZoeE0yNTZOR3hDWkRkcVRVRRAB",
+                        "relativePublishTimeDescription":  "7 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "大學附近美食，打卡送薯條🍟\n我還是給真實評價\n五歲以上要低消，用餐90分鐘\n店面不大，內用座位不多\n也有面牆吧檯座位\n\n定食類白飯🍚可續\n自助吧有可樂等飲料🥤，湯也是自己裝\n有點餐想說加購小農鮮奶茶才25元\n但真的很淡不怎麼好喝\n\n主食中規中矩\n薯條現炸還蠻好吃",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "大學附近美食，打卡送薯條🍟\n我還是給真實評價\n五歲以上要低消，用餐90分鐘\n店面不大，內用座位不多\n也有面牆吧檯座位\n\n定食類白飯🍚可續\n自助吧有可樂等飲料🥤，湯也是自己裝\n有點餐想說加購小農鮮奶茶才25元\n但真的很淡不怎麼好喝\n\n主食中規中矩\n薯條現炸還蠻好吃",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "•ɞ• X",
+                                                  "uri":  "https://www.google.com/maps/contrib/100642876481048919232/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUWmQHR_2-fTlrQeQM9C8zm40MmVYqDsOw6KEF2mGfuPH4GYjzIvw=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2025-10-01T10:47:04.980686807Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214UWREVlJaM1pFVUZoeE0yNTZOR3hDWkRkcVRVRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214UWREVlJaM1pFVUZoeE0yNTZOR3hDWkRkcVRVRRAB!2m1!1s0x3442ad295f1381db:0xaf68217566fe71ce"
+                    },
+                    {
+                        "name":  "places/ChIJ24ETXymtQjQRznH-ZnUhaK8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xNek4zQTVYMEYxVTNaSVNVMXdkbGxPVlhOUFFYYxAB",
+                        "relativePublishTimeDescription":  "6 個月前",
+                        "rating":  3,
+                        "text":  {
+                                     "text":  "評論送薯條🍟\n\n乾鍋飯有超多蔬菜，很棒\n其他的食材也都很不錯\n\n但是5歲以上要低消一份主餐太為難了\n\n飲料喝到飽\n但希望能提供開水的選項\n\n座位不多但滿寬敞的\n店裡會播放體育頻道",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "評論送薯條🍟\n\n乾鍋飯有超多蔬菜，很棒\n其他的食材也都很不錯\n\n但是5歲以上要低消一份主餐太為難了\n\n飲料喝到飽\n但希望能提供開水的選項\n\n座位不多但滿寬敞的\n店裡會播放體育頻道",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Rainy Chou",
+                                                  "uri":  "https://www.google.com/maps/contrib/116504280363086052189/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVd_NnkpKDcXjyHFQqhk19TTZoMalV0HWvFYISiIde1jDpIHaQ0=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-11-21T11:39:12.583181459Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xNek4zQTVYMEYxVTNaSVNVMXdkbGxPVlhOUFFYYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xNek4zQTVYMEYxVTNaSVNVMXdkbGxPVlhOUFFYYxAB!2m1!1s0x3442ad295f1381db:0xaf68217566fe71ce"
+                    },
+                    {
+                        "name":  "places/ChIJ24ETXymtQjQRznH-ZnUhaK8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KaFNuUkxlbmRrZFMxd1ZGVTBVa2xzTnpVd0xXYxAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  3,
+                        "text":  {
+                                     "text":  "份量確實很大，也有附湯和飲料，表面看起來很划算，但主餐真的不好吃，味道不對、口感也很糟，吃到後面很痛苦，和照片差距很大，屬於明顯圖文不符。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "份量確實很大，也有附湯和飲料，表面看起來很划算，但主餐真的不好吃，味道不對、口感也很糟，吃到後面很痛苦，和照片差距很大，屬於明顯圖文不符。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Anne Welker",
+                                                  "uri":  "https://www.google.com/maps/contrib/102248409797873712465/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVDAuRxllhjE9FqLiLKfa7YkIbTUz_JeSNUFz9vTiQeXyhjEmSb=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2025-12-18T05:01:50.099387180Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KaFNuUkxlbmRrZFMxd1ZGVTBVa2xzTnpVd0xXYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KaFNuUkxlbmRrZFMxd1ZGVTBVa2xzTnpVd0xXYxAB!2m1!1s0x3442ad295f1381db:0xaf68217566fe71ce"
+                    },
+                    {
+                        "name":  "places/ChIJ24ETXymtQjQRznH-ZnUhaK8/reviews/Ci9DQUlRQUNvZENodHljRjlvT210cWNqZGtPRFp1VnprdFpVeE1WMjV2WVZkZmNWRRAB",
+                        "relativePublishTimeDescription":  "7 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "中規中矩的丼飯，松露薯條很好吃，內用享有飲料無限暢飲，每份餐點都有一碗湯品，當天喝到的是蕃茄蛋花湯，覺得湯頭有高湯的味道很好喝，用餐時間時人很多，內用空間有點小～事先點餐會比較快，可以全支付跟line pay!",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "中規中矩的丼飯，松露薯條很好吃，內用享有飲料無限暢飲，每份餐點都有一碗湯品，當天喝到的是蕃茄蛋花湯，覺得湯頭有高湯的味道很好喝，用餐時間時人很多，內用空間有點小～事先點餐會比較快，可以全支付跟line pay!",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "陳珮祺",
+                                                  "uri":  "https://www.google.com/maps/contrib/116156974775141321464/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjW9gAUXX8p1GdrUxqUU0VIS3GJn0drPtOR4_dQnBgQ6QT-jRfzamQ=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-10-14T23:59:57.463678954Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210cWNqZGtPRFp1VnprdFpVeE1WMjV2WVZkZmNWRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210cWNqZGtPRFp1VnprdFpVeE1WMjV2WVZkZmNWRRAB!2m1!1s0x3442ad295f1381db:0xaf68217566fe71ce"
+                    }
+                ],
+    "menuForChildren":  false,
+    "goodForChildren":  true
+}

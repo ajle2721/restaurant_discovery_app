@@ -1,0 +1,138 @@
+{
+  "id": "ChIJsylGZZarQjQRkd8WJSN62N0",
+  "types": [
+    "pizza_delivery",
+    "meal_delivery",
+    "food_delivery",
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2748 8900",
+  "formattedAddress": "10565台灣臺北市松山區新聚里八德路四段293號",
+  "location": {
+    "latitude": 25.0491991,
+    "longitude": 121.5663493
+  },
+  "rating": 4.4,
+  "websiteUri": "https://www.pizzahut.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1034,
+  "displayName": {
+    "text": "PIZZA HUT必勝客-台北八德店",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJsylGZZarQjQRkd8WJSN62N0/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sclZqWkJiUzFKZEhZeFpWbGxUVTFXYWt4TVZVRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 1,
+      "text": {
+        "text": "17：33下訂，送達時間一直無限延後\n\n致電也無人接聽\n\n19：00打給總部電話，承諾會聯絡分店\n\n19：20再次致電給總部\n\n約19：24收到外送員電話\n\n然後送來一份品值很差的餐點\n\n芝心超硬、披薩超鹹、香腸像在嚼塑膠、薯餅超軟\n\n不建議訂購此店家的餐點",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "17：33下訂，送達時間一直無限延後\n\n致電也無人接聽\n\n19：00打給總部電話，承諾會聯絡分店\n\n19：20再次致電給總部\n\n約19：24收到外送員電話\n\n然後送來一份品值很差的餐點\n\n芝心超硬、披薩超鹹、香腸像在嚼塑膠、薯餅超軟\n\n不建議訂購此店家的餐點",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Andy HSU",
+        "uri": "https://www.google.com/maps/contrib/111803254577821591695/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUo4oulp3v9X0enX38nPOTwiF1tQrrPjOpVHO-JiXa8kjW_S4yW=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-01T11:45:19.606934528Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sclZqWkJiUzFKZEhZeFpWbGxUVTFXYWt4TVZVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sclZqWkJiUzFKZEhZeFpWbGxUVTFXYWt4TVZVRRAB!2m1!1s0x3442ab96654629b3:0xddd87a232516df91"
+    },
+    {
+      "name": "places/ChIJsylGZZarQjQRkd8WJSN62N0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkRGRsSjZWRmRQTm1oNk9WUmxXbmN3V2xsRlVrRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 1,
+      "text": {
+        "text": "玉米濃湯的料……是對的嗎？\n你們的圖片跟實物 真的差異很大！你們也賣得出來，有影片 但是上傳不上去",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "玉米濃湯的料……是對的嗎？\n你們的圖片跟實物 真的差異很大！你們也賣得出來，有影片 但是上傳不上去",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "妙小玲",
+        "uri": "https://www.google.com/maps/contrib/114965795372762154374/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX_10E8kiQU0OVosqy6YsrH_MG3vUDAMCmY1fjSMiXCiJRocWU=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-06T07:40:44.315523556Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkRGRsSjZWRmRQTm1oNk9WUmxXbmN3V2xsRlVrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkRGRsSjZWRmRQTm1oNk9WUmxXbmN3V2xsRlVrRRAB!2m1!1s0x3442ab96654629b3:0xddd87a232516df91"
+    },
+    {
+      "name": "places/ChIJsylGZZarQjQRkd8WJSN62N0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twVVdsRkJWQzE0VjNsTFNGWnNiRVpCVDI5M09WRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 1,
+      "text": {
+        "text": "披薩乾到已經好像在吃蘇打餅了！太爛了！吃披薩最爛體驗",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "披薩乾到已經好像在吃蘇打餅了！太爛了！吃披薩最爛體驗",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Vincent Chang",
+        "uri": "https://www.google.com/maps/contrib/103846814020896618513/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXBt1hdclZL93w74spZYuYJPnrJSx0HiLTOCAT-wpwhoA121Ew=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-25T12:00:38.358920266Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twVVdsRkJWQzE0VjNsTFNGWnNiRVpCVDI5M09WRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twVVdsRkJWQzE0VjNsTFNGWnNiRVpCVDI5M09WRRAB!2m1!1s0x3442ab96654629b3:0xddd87a232516df91"
+    },
+    {
+      "name": "places/ChIJsylGZZarQjQRkd8WJSN62N0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kwNVdXWTRRbFEzY1hwb1JuQk5XamxZUlRWMk9VRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 1,
+      "text": {
+        "text": "拿到的pizza是冰的跟餅乾一樣，不知道是不是放一整個下午了，還是你們要不要改名叫pizza ice",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "拿到的pizza是冰的跟餅乾一樣，不知道是不是放一整個下午了，還是你們要不要改名叫pizza ice",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "老鄧",
+        "uri": "https://www.google.com/maps/contrib/103149344421170899725/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWMo5zkBu0NdaZ3cHzOHlwiEJi2psbTgTnPIyrpEQyg-t3keC3k=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-12-31T10:33:41.170314975Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kwNVdXWTRRbFEzY1hwb1JuQk5XamxZUlRWMk9VRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kwNVdXWTRRbFEzY1hwb1JuQk5XamxZUlRWMk9VRRAB!2m1!1s0x3442ab96654629b3:0xddd87a232516df91"
+    },
+    {
+      "name": "places/ChIJsylGZZarQjQRkd8WJSN62N0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGVFFWQnJhRXh6ZVhKU1lrOXpiSHBDU1VsNWNrRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 1,
+      "text": {
+        "text": "這次的服務爛到掉渣；點餐時App顯示晚上6:30-6:45間到達，點餐後有個年輕男生打電話來：\n1. 完全沒有禮貌，口氣差到極點，直接用告知的語氣說「現在你的餐點要到8點才能到，可以等嗎？」\n2. 我說後面有行程，最多可以等到7:15，他就改口說「那等到7:30可以嗎？」\n3. 我說無法之後，他居然說「你前面也有別的顧客，你也不能要我幫你插隊」我根本沒說過要插隊，我是答應配合你們，在App顯示”應送達時間過後的半個小時”才拿到食物了，怎麼變成”我要你幫我插隊”了？這到底是誰的問題啊？\n\n這家店幾乎每次都會打電話來確認/更改時間，但從來沒有像這次，口氣差還把自己的問題變成是客人的錯，這種人沒資格做服務業。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這次的服務爛到掉渣；點餐時App顯示晚上6:30-6:45間到達，點餐後有個年輕男生打電話來：\n1. 完全沒有禮貌，口氣差到極點，直接用告知的語氣說「現在你的餐點要到8點才能到，可以等嗎？」\n2. 我說後面有行程，最多可以等到7:15，他就改口說「那等到7:30可以嗎？」\n3. 我說無法之後，他居然說「你前面也有別的顧客，你也不能要我幫你插隊」我根本沒說過要插隊，我是答應配合你們，在App顯示”應送達時間過後的半個小時”才拿到食物了，怎麼變成”我要你幫我插隊”了？這到底是誰的問題啊？\n\n這家店幾乎每次都會打電話來確認/更改時間，但從來沒有像這次，口氣差還把自己的問題變成是客人的錯，這種人沒資格做服務業。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Nicholas Chu",
+        "uri": "https://www.google.com/maps/contrib/116068488376999186840/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVgskYHnEVUScvSXt1HkcL5MwVwJweWv1BX9R4dRLpA3pC31oSG=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-22T10:57:23.040174610Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGVFFWQnJhRXh6ZVhKU1lrOXpiSHBDU1VsNWNrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGVFFWQnJhRXh6ZVhKU1lrOXpiSHBDU1VsNWNrRRAB!2m1!1s0x3442ab96654629b3:0xddd87a232516df91"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "ChIJf6FaKTirQjQRVWaZiD55weI",
+  "types": [
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "110台灣臺北市信義區永春里松山路221號",
+  "location": {
+    "latitude": 25.044912999999998,
+    "longitude": 121.577973
+  },
+  "rating": 4.6,
+  "userRatingCount": 376,
+  "displayName": {
+    "text": "Oguri Coffee 小栗原珈琲 · 咖啡",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJf6FaKTirQjQRVWaZiD55weI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KUlN6UnJVa1J2UTJaclZ6Wm1aVjk1UXpWa1JIYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "星期四上午來吃早午餐喝咖啡\n二樓有很大的內用空間，週四午間人不會很多，很悠閒舒適的空間，音樂也很好聽。\n\n餐點很好吃，我點馬告鮪魚佐辣果仁三明治（$165），口味非常特別，馬告的香氣讓人一口接一口，生菜也很多，清爽又好吃。\n\n飲品點了親熬薰衣草拿鐵（$140），超喜歡薰衣草飲品，但很少店家有此類型飲品，整體喝起來很溫順剛剛好。\n\n廁所很乾淨！佈置的很簡約漂亮🤩",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "星期四上午來吃早午餐喝咖啡\n二樓有很大的內用空間，週四午間人不會很多，很悠閒舒適的空間，音樂也很好聽。\n\n餐點很好吃，我點馬告鮪魚佐辣果仁三明治（$165），口味非常特別，馬告的香氣讓人一口接一口，生菜也很多，清爽又好吃。\n\n飲品點了親熬薰衣草拿鐵（$140），超喜歡薰衣草飲品，但很少店家有此類型飲品，整體喝起來很溫順剛剛好。\n\n廁所很乾淨！佈置的很簡約漂亮🤩",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Azure Z",
+        "uri": "https://www.google.com/maps/contrib/100379201234208003509/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWtzSQnUctHKfE42ZiuZnmWFU6kZvXbcuEAPnh3pNR3op3I5kOyPg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-11-20T04:16:42.591586367Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KUlN6UnJVa1J2UTJaclZ6Wm1aVjk1UXpWa1JIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KUlN6UnJVa1J2UTJaclZ6Wm1aVjk1UXpWa1JIYxAB!2m1!1s0x3442ab38295aa17f:0xe2c1793e88996655"
+    },
+    {
+      "name": "places/ChIJf6FaKTirQjQRVWaZiD55weI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21adFRuZERlRXBOWm1seFJIbEZYMVJrTkhwT2IzYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "咖啡好喝、有插座、店面跟廁所都乾淨，咖啡可免費加肉桂粉（居然厚厚一層），整體看得出老闆有用心注意細節，五星好評🌟支持這樣的小店🫶🏻",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "咖啡好喝、有插座、店面跟廁所都乾淨，咖啡可免費加肉桂粉（居然厚厚一層），整體看得出老闆有用心注意細節，五星好評🌟支持這樣的小店🫶🏻",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "emm",
+        "uri": "https://www.google.com/maps/contrib/106569074878645743923/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLVP7EXP6-BTb1nwC5esZm-4QpR81JJFEMgxAP7NPeyZgpmoQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-03-07T06:13:11.333720658Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21adFRuZERlRXBOWm1seFJIbEZYMVJrTkhwT2IzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21adFRuZERlRXBOWm1seFJIbEZYMVJrTkhwT2IzYxAB!2m1!1s0x3442ab38295aa17f:0xe2c1793e88996655"
+    },
+    {
+      "name": "places/ChIJf6FaKTirQjQRVWaZiD55weI/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OYVRHaHVORzFmTkRVM1RYQTBTMjFSZWpkM2JVRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "又一家難得早開的優質咖啡廳\n每個座位都有插座🔌\n很喜歡這安靜的氛圍♡",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "又一家難得早開的優質咖啡廳\n每個座位都有插座🔌\n很喜歡這安靜的氛圍♡",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chloe Chen",
+        "uri": "https://www.google.com/maps/contrib/116270306675237879065/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUct4LvudzWpqC-WJssgaysZ027TP07JzH8tBVMYcx26wwC9z1RQw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-30T01:01:24.617636841Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OYVRHaHVORzFmTkRVM1RYQTBTMjFSZWpkM2JVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OYVRHaHVORzFmTkRVM1RYQTBTMjFSZWpkM2JVRRAB!2m1!1s0x3442ab38295aa17f:0xe2c1793e88996655"
+    },
+    {
+      "name": "places/ChIJf6FaKTirQjQRVWaZiD55weI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xST1NUZDFaSFpLVGxOeWIwWXhTM05OVm5NNFZrRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "來台北玩，短暫的休息時光，雞腿肉鮮嫩有味，整體味道搭配得宜、不油膩，咖啡也很好喝～\n謝謝店家的用心🩷",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "來台北玩，短暫的休息時光，雞腿肉鮮嫩有味，整體味道搭配得宜、不油膩，咖啡也很好喝～\n謝謝店家的用心🩷",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林瑩",
+        "uri": "https://www.google.com/maps/contrib/105251447685030515817/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUjk45WBU9iB3j-Qm1ytnfhK6aNgYgI1WYBHa3NesIGTN-xYP9kA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-27T06:42:05.439029058Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xST1NUZDFaSFpLVGxOeWIwWXhTM05OVm5NNFZrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xST1NUZDFaSFpLVGxOeWIwWXhTM05OVm5NNFZrRRAB!2m1!1s0x3442ab38295aa17f:0xe2c1793e88996655"
+    },
+    {
+      "name": "places/ChIJf6FaKTirQjQRVWaZiD55weI/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xemIyRTVXalZLTFZZMWFsRXRkMVZ6ZGkxbWRXYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "UberEat 外送：\n\n1. 燕麥拿鐵👌\n2. 蛋沙拉三明治🥪滿滿的蛋沙拉跟生菜🥬，非常紮實👍\n\nUber外送雖然CP值不高，但是是吃完會想去店內享用的好商品。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "UberEat 外送：\n\n1. 燕麥拿鐵👌\n2. 蛋沙拉三明治🥪滿滿的蛋沙拉跟生菜🥬，非常紮實👍\n\nUber外送雖然CP值不高，但是是吃完會想去店內享用的好商品。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Rainie Lu",
+        "uri": "https://www.google.com/maps/contrib/108809565554351572809/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIzw01GbUpGTNB9oybkbs3jtxHQhPylQEXHp1PdG98nTam4NRo=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-09-22T09:45:34.767939777Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xemIyRTVXalZLTFZZMWFsRXRkMVZ6ZGkxbWRXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xemIyRTVXalZLTFZZMWFsRXRkMVZ6ZGkxbWRXYxAB!2m1!1s0x3442ab38295aa17f:0xe2c1793e88996655"
+    }
+  ],
+  "menuForChildren": true,
+  "goodForChildren": true
+}

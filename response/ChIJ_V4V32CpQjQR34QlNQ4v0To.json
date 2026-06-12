@@ -1,0 +1,134 @@
+{
+  "id": "ChIJ_V4V32CpQjQR34QlNQ4v0To",
+  "types": [
+    "brunch_restaurant",
+    "american_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2537 5859",
+  "formattedAddress": "104台灣臺北市中山區中吉里松江路124巷8號",
+  "location": {
+    "latitude": 25.0525392,
+    "longitude": 121.5324531
+  },
+  "rating": 4.3,
+  "websiteUri": "https://facebook.com/ok82855118",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 733,
+  "displayName": {
+    "text": "松江8號廚房",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ_V4V32CpQjQR34QlNQ4v0To/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSdlpXSnZkVGhNZW1aNVYwMDBWMHhXUkZsM2VWRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "炸雞 & 牛肉三明治好吃\n爆炸薯條有點油\n飲料只剩下茶類，沒有咖啡了\n有提供白水，只是杯子太小\n沒有限時間，部份座位有插座\n環境還不錯，座位彈性大\n就是油煙味有點重\n捷運出口旁邊，很方便",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "炸雞 & 牛肉三明治好吃\n爆炸薯條有點油\n飲料只剩下茶類，沒有咖啡了\n有提供白水，只是杯子太小\n沒有限時間，部份座位有插座\n環境還不錯，座位彈性大\n就是油煙味有點重\n捷運出口旁邊，很方便",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "RUBY晉妤 LIU",
+        "uri": "https://www.google.com/maps/contrib/109458037094467652070/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXmFFAPyFG8KiRrp1__mf8A_5njquoC5eq2GuMNcfTH4wMfxyE=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-22T05:43:30.330187939Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSdlpXSnZkVGhNZW1aNVYwMDBWMHhXUkZsM2VWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSdlpXSnZkVGhNZW1aNVYwMDBWMHhXUkZsM2VWRRAB!2m1!1s0x3442a960df155efd:0x3ad12f0e352584df"
+    },
+    {
+      "name": "places/ChIJ_V4V32CpQjQR34QlNQ4v0To/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkUlNXdENRWHBGV1hwWFFrdE5ibTFLVWpoUVJHYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "需要預約的早午餐店\n11：30菜單上有40%幾乎都已售完😅\n上餐速度很快，味道都不錯\n起司牛肉三明治很實在，Cp值不錯！\n班尼迪克蛋＆鮭魚也很好吃！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "需要預約的早午餐店\n11：30菜單上有40%幾乎都已售完😅\n上餐速度很快，味道都不錯\n起司牛肉三明治很實在，Cp值不錯！\n班尼迪克蛋＆鮭魚也很好吃！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "武邵靈",
+        "uri": "https://www.google.com/maps/contrib/107525439262358123402/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXX2irgN4X2KC0moD5qUYP7DQrwY5ilkIYbzx806Tr76Rj6y6e9=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-27T16:40:02.630734943Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkUlNXdENRWHBGV1hwWFFrdE5ibTFLVWpoUVJHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkUlNXdENRWHBGV1hwWFFrdE5ibTFLVWpoUVJHYxAB!2m1!1s0x3442a960df155efd:0x3ad12f0e352584df"
+    },
+    {
+      "name": "places/ChIJ_V4V32CpQjQR34QlNQ4v0To/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xMVMzbEhZa0puUzJ0amNrcHRTaTFZVVUxT2VGRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "優格很好吃、法式吐司跟沙拉也很好吃\n但是炸雞就比較還好，早餐店或速食店雞米花的口感接近",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "優格很好吃、法式吐司跟沙拉也很好吃\n但是炸雞就比較還好，早餐店或速食店雞米花的口感接近",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳巧瑜",
+        "uri": "https://www.google.com/maps/contrib/113929450536874997374/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUvCWvDjL2Y0smn_0Amwg4RGj5sc9M90s65lrA_waC0J9wVLR3A=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-01T08:40:35.441065220Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xMVMzbEhZa0puUzJ0amNrcHRTaTFZVVUxT2VGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xMVMzbEhZa0puUzJ0amNrcHRTaTFZVVUxT2VGRRAB!2m1!1s0x3442a960df155efd:0x3ad12f0e352584df"
+    },
+    {
+      "name": "places/ChIJ_V4V32CpQjQR34QlNQ4v0To/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGeFFqSlJSVk4wUlcxMVZ6SnliWEZuU2tkUmRIYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "德式香腸很多汁，半熟蛋很新鮮味道濃郁，生菜附有多種新鮮水果，麵包附有奶油可以自己斟酌用量塗抹，黑糖優格也很好吃！😋\n早午餐很熱門，用餐到一半聽到早午餐已經賣完了。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "德式香腸很多汁，半熟蛋很新鮮味道濃郁，生菜附有多種新鮮水果，麵包附有奶油可以自己斟酌用量塗抹，黑糖優格也很好吃！😋\n早午餐很熱門，用餐到一半聽到早午餐已經賣完了。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Aloe_tw",
+        "uri": "https://www.google.com/maps/contrib/101844844361565148118/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWbiirR6urFi5BQbdNMTWf9n8M7uM3eDZmi4-sDeZDhLAb4qTMqnQ=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-25T15:14:54.436909524Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGeFFqSlJSVk4wUlcxMVZ6SnliWEZuU2tkUmRIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGeFFqSlJSVk4wUlcxMVZ6SnliWEZuU2tkUmRIYxAB!2m1!1s0x3442a960df155efd:0x3ad12f0e352584df"
+    },
+    {
+      "name": "places/ChIJ_V4V32CpQjQR34QlNQ4v0To/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taVFRsOHRjMk42V1RScVZGbHVXbWxhWkc4MVprRRAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 4,
+      "text": {
+        "text": "餐點種類不算多，掃碼點餐\n大部分餐點都有照片\n\n早午餐價格中間，不過都沒有附飲品，感覺這個價位，可以配一杯紅茶也好\n\n起司牛肉三明治蠻好吃，吃起來有爽感，肉跟起司量都不少，算是有推薦\n搭配沙拉薯條是可以吃飽\n\n平日中午用餐人潮也不少",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點種類不算多，掃碼點餐\n大部分餐點都有照片\n\n早午餐價格中間，不過都沒有附飲品，感覺這個價位，可以配一杯紅茶也好\n\n起司牛肉三明治蠻好吃，吃起來有爽感，肉跟起司量都不少，算是有推薦\n搭配沙拉薯條是可以吃飽\n\n平日中午用餐人潮也不少",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林群弼",
+        "uri": "https://www.google.com/maps/contrib/118143425964326264924/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW0JE6WK13lE2Srcegj1T5y3KTG06fyS7CPqTBkMu9p5FJeadzE1w=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-07-29T16:30:28.894822671Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taVFRsOHRjMk42V1RScVZGbHVXbWxhWkc4MVprRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taVFRsOHRjMk42V1RScVZGbHVXbWxhWkc4MVprRRAB!2m1!1s0x3442a960df155efd:0x3ad12f0e352584df"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": false
+}

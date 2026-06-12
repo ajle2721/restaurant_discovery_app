@@ -1,0 +1,130 @@
+﻿{
+    "id":  "ChIJ87xRAC6rQjQRAxaD_4Otr3M",
+    "types":  [
+                  "breakfast_restaurant",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2230 6329",
+    "formattedAddress":  "116台灣台北市文山区兴光里兴隆路三段115巷2號一樓",
+    "location":  {
+                     "latitude":  24.9990758,
+                     "longitude":  121.5582348
+                 },
+    "rating":  4.4,
+    "websiteUri":  "http://store.dudooeat.com/redirect?type=order\u0026id=6604e79ac17d494c8650ad22f27bf286",
+    "userRatingCount":  109,
+    "displayName":  {
+                        "text":  "校園活力早午餐（5/17日有上班）",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJ87xRAC6rQjQRAxaD_4Otr3M/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toblpXTmZOa2hETW5Kc1lsUkNkbDlSZUdSMmFHYxAB",
+                        "relativePublishTimeDescription":  "2 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "老闆人很nice 、出餐很快餐點也好吃、用餐環境乾淨寬敞不擁擠！",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "老闆人很nice 、出餐很快餐點也好吃、用餐環境乾淨寬敞不擁擠！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "A A",
+                                                  "uri":  "https://www.google.com/maps/contrib/107569270509817860424/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocIj-VYFT3ogyDl28WyPJ-BULtU1UUCsOpdf_lE75B36oHxW3w=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2026-03-09T02:15:56.425329768Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toblpXTmZOa2hETW5Kc1lsUkNkbDlSZUdSMmFHYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toblpXTmZOa2hETW5Kc1lsUkNkbDlSZUdSMmFHYxAB!2m1!1s0x3442ab2e0051bcf3:0x73afad83ff831603"
+                    },
+                    {
+                        "name":  "places/ChIJ87xRAC6rQjQRAxaD_4Otr3M/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxVVRrNDBjVmxwVkZWTmFtZzVaRU52YW05cVRYYxAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "今天點鐵板麵、總匯很好吃！服務態度也很親和。每次帶媽媽來回診都會來這家吃早餐。很值得推薦～",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "今天點鐵板麵、總匯很好吃！服務態度也很親和。每次帶媽媽來回診都會來這家吃早餐。很值得推薦～",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "張德威",
+                                                  "uri":  "https://www.google.com/maps/contrib/113384075870507371843/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUG95OZE7s0E6nmjHmNGfFM8JQ2FwxfnPwMbgBbE4wKxaRGcKL6=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2026-01-02T01:21:22.211271135Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxVVRrNDBjVmxwVkZWTmFtZzVaRU52YW05cVRYYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxVVRrNDBjVmxwVkZWTmFtZzVaRU52YW05cVRYYxAB!2m1!1s0x3442ab2e0051bcf3:0x73afad83ff831603"
+                    },
+                    {
+                        "name":  "places/ChIJ87xRAC6rQjQRAxaD_4Otr3M/reviews/ChdDSUhNMG9nS0VJQ0FnSURIZy1hRzNRRRAB",
+                        "relativePublishTimeDescription":  "1 年前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "超級好吃😋惡魔雞塊超好吃，老闆特製辣椒超強，環境乾淨，服務親切，大推大家去吃吃看，當早餐餐吃的超級飽",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "超級好吃😋惡魔雞塊超好吃，老闆特製辣椒超強，環境乾淨，服務親切，大推大家去吃吃看，當早餐餐吃的超級飽",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Ni",
+                                                  "uri":  "https://www.google.com/maps/contrib/113105235224188434556/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjV36AgDXLnv1l0xD_2JWZZ9KqWOCahRLbrX957dg0NO14G9WoBxGA=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2024-09-19T08:09:38.604957Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURIZy1hRzNRRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURIZy1hRzNRRRAB!2m1!1s0x3442ab2e0051bcf3:0x73afad83ff831603"
+                    },
+                    {
+                        "name":  "places/ChIJ87xRAC6rQjQRAxaD_4Otr3M/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xrMllXSnhUbFF5TFMxMVVVSnlWM1pwVkdkSVIwRRAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "年輕的老闆、老闆娘服務親切，環境乾淨衛生，餐點都很衛生美味，喜歡中午來吃早午餐，鮪魚蛋餅、蘿蔔糕、薯條、雞塊、香醇豆漿都是我的最愛，都30年了。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "年輕的老闆、老闆娘服務親切，環境乾淨衛生，餐點都很衛生美味，喜歡中午來吃早午餐，鮪魚蛋餅、蘿蔔糕、薯條、雞塊、香醇豆漿都是我的最愛，都30年了。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "蔡丕椿",
+                                                  "uri":  "https://www.google.com/maps/contrib/110126499741399400155/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocL03eQhcHIIGOlb-rKzoKZdBl4wWQDO7qgPlofm8yIjQE5fzQ=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2025-12-12T04:50:23.639903102Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xrMllXSnhUbFF5TFMxMVVVSnlWM1pwVkdkSVIwRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xrMllXSnhUbFF5TFMxMVVVSnlWM1pwVkdkSVIwRRAB!2m1!1s0x3442ab2e0051bcf3:0x73afad83ff831603"
+                    },
+                    {
+                        "name":  "places/ChIJ87xRAC6rQjQRAxaD_4Otr3M/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2MjlTamNREAE",
+                        "relativePublishTimeDescription":  "1 年前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "餐點價格實惠\n環境乾淨\n內用餐盤非免洗餐具\n（筷子是免洗）\n有洗手間\n有很多公仔擺飾\n可line pay",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "餐點價格實惠\n環境乾淨\n內用餐盤非免洗餐具\n（筷子是免洗）\n有洗手間\n有很多公仔擺飾\n可line pay",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "sz sz Lian",
+                                                  "uri":  "https://www.google.com/maps/contrib/102605470531676274351/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjV-chyuJD0hz-zvCnS3f1FmDKyUL8rX5tM12TY9CZS5wX86d6WA=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2024-12-15T01:12:22.681571Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2MjlTamNREAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2MjlTamNREAE!2m1!1s0x3442ab2e0051bcf3:0x73afad83ff831603"
+                    }
+                ]
+}

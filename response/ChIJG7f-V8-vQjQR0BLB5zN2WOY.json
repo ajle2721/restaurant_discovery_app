@@ -1,0 +1,129 @@
+﻿{
+    "id":  "ChIJG7f-V8-vQjQR0BLB5zN2WOY",
+    "types":  [
+                  "cafe",
+                  "point_of_interest",
+                  "food",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2894 8626",
+    "formattedAddress":  "112台灣臺北市北投區大同里大興街9巷15號",
+    "location":  {
+                     "latitude":  25.1304612,
+                     "longitude":  121.4973952
+                 },
+    "rating":  4.8,
+    "websiteUri":  "https://catshub.tw/cht/index.php?",
+    "userRatingCount":  63,
+    "displayName":  {
+                        "text":  "喵喵有約-北投簡餐咖啡廳",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJG7f-V8-vQjQR0BLB5zN2WOY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5M1ZXNHdZVVZuVldGNFIwZGZlWGhHUjFvM1dsRRAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "這是一個讓人一走進來就能慢慢放鬆、被療癒的地方。\n空間乾淨舒適，氣氛安靜溫暖，服務人員親切又貼心，讓人完全沒有壓力。\n\n最令人驚喜的是這裡每一隻血統清楚的品種貓咪🐾 都漂亮又溫馴，乾淨、健康、脾氣極好，可以感受到牠們被細心照顧、被真正疼愛。看得出來主人在這些品種貓咪身上花了非常多的心思與用心，而這份愛也完整地呈現在每一個細節裡。她也希望把這份愛分享給大家～也希望你們能善待🐱貓咪們.\n\n我已經是第二次來了，每一次都覺得心被安靜地撫平。\n如果你最近需要放鬆、想被療癒，或只是想找一個舒服的地方待著，真的很推薦帶朋友一起來，親自感受這裡溫柔又安心的氛圍。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "這是一個讓人一走進來就能慢慢放鬆、被療癒的地方。\n空間乾淨舒適，氣氛安靜溫暖，服務人員親切又貼心，讓人完全沒有壓力。\n\n最令人驚喜的是這裡每一隻血統清楚的品種貓咪🐾 都漂亮又溫馴，乾淨、健康、脾氣極好，可以感受到牠們被細心照顧、被真正疼愛。看得出來主人在這些品種貓咪身上花了非常多的心思與用心，而這份愛也完整地呈現在每一個細節裡。她也希望把這份愛分享給大家～也希望你們能善待🐱貓咪們.\n\n我已經是第二次來了，每一次都覺得心被安靜地撫平。\n如果你最近需要放鬆、想被療癒，或只是想找一個舒服的地方待著，真的很推薦帶朋友一起來，親自感受這裡溫柔又安心的氛圍。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Stephanie Huang",
+                                                  "uri":  "https://www.google.com/maps/contrib/116222309410935384037/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocJluy0VYNzRbA7h8SK1-D7adu7mmGS63qehQOtToLadCdbtoQ=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2026-02-09T09:14:43.281318753Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5M1ZXNHdZVVZuVldGNFIwZGZlWGhHUjFvM1dsRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5M1ZXNHdZVVZuVldGNFIwZGZlWGhHUjFvM1dsRRAB!2m1!1s0x3442afcf57feb71b:0xe6587633e7c112d0"
+                    },
+                    {
+                        "name":  "places/ChIJG7f-V8-vQjQR0BLB5zN2WOY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SRFdXRjBNbTR0VGtscVZrSm1XR2hFVnpsd1RYYxAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "簡單、休閒 貓貓們超可愛🥰🥰🥰（專注於貓忘記拍餐點了😆好吃😋✨",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "簡單、休閒 貓貓們超可愛🥰🥰🥰（專注於貓忘記拍餐點了😆好吃😋✨",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Yaser雅瑟",
+                                                  "uri":  "https://www.google.com/maps/contrib/105860490934812136671/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUboobFmkGos-9E7y_h37e6DzkW5F0-MwoyuGKBxxMopAQNIwuW=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2026-02-10T11:31:03.756624243Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SRFdXRjBNbTR0VGtscVZrSm1XR2hFVnpsd1RYYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SRFdXRjBNbTR0VGtscVZrSm1XR2hFVnpsd1RYYxAB!2m1!1s0x3442afcf57feb71b:0xe6587633e7c112d0"
+                    },
+                    {
+                        "name":  "places/ChIJG7f-V8-vQjQR0BLB5zN2WOY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OZmFFeDJSak51ZGtFd1VISnROblJaUmtneGMwRRAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "有很多可愛的貓咪，照顧的很好也很親人，店內的空間也很舒適舒服",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "有很多可愛的貓咪，照顧的很好也很親人，店內的空間也很舒適舒服",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "蘇芮萱",
+                                                  "uri":  "https://www.google.com/maps/contrib/104068319618132038539/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocLGvABJf31mdCkXCvQHYBLlcKyIMw8MRpKkO2ZMNfSh8NbFFw=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2026-02-13T09:32:25.982477768Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OZmFFeDJSak51ZGtFd1VISnROblJaUmtneGMwRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OZmFFeDJSak51ZGtFd1VISnROblJaUmtneGMwRRAB!2m1!1s0x3442afcf57feb71b:0xe6587633e7c112d0"
+                    },
+                    {
+                        "name":  "places/ChIJG7f-V8-vQjQR0BLB5zN2WOY/reviews/Ci9DQUlRQUNvZENodHljRjlvT201U2RGWk5TR3BtTUUxcGVWQnpRMEYzUm1OVVdXYxAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "貓咪非常乾淨親人，很溫和，店員人也很親切，是非常棒的體驗！很喜歡。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "貓咪非常乾淨親人，很溫和，店員人也很親切，是非常棒的體驗！很喜歡。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "屁屁",
+                                                  "uri":  "https://www.google.com/maps/contrib/102043197428687140589/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocJGKVFWsSIlD2oapn6OhEJLC88bnZinoTVg01jrUgmwKEqFEQ=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2026-02-06T07:55:30.755988646Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201U2RGWk5TR3BtTUUxcGVWQnpRMEYzUm1OVVdXYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201U2RGWk5TR3BtTUUxcGVWQnpRMEYzUm1OVVdXYxAB!2m1!1s0x3442afcf57feb71b:0xe6587633e7c112d0"
+                    },
+                    {
+                        "name":  "places/ChIJG7f-V8-vQjQR0BLB5zN2WOY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sNFkyWmFSbTQ0U1RoME1sZEdUbkYzUVhSSmRWRRAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "喵好❤️\n人類好❤️\n餐點也好❤️\n用餐兩小時❤️\n費用包含10%服務費\n(我願稱之為罐罐費！)\n畢竟有這麼多長毛喵喵怪要養呢❤️❤️❤️",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "喵好❤️\n人類好❤️\n餐點也好❤️\n用餐兩小時❤️\n費用包含10%服務費\n(我願稱之為罐罐費！)\n畢竟有這麼多長毛喵喵怪要養呢❤️❤️❤️",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "水浮萍",
+                                                  "uri":  "https://www.google.com/maps/contrib/113499092412526518116/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUVDHIy5dS6sIc5YXLqycAtbTzm744AsiQUY-4ectJ0ISo7pur7=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2026-02-07T13:08:09.523492096Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sNFkyWmFSbTQ0U1RoME1sZEdUbkYzUVhSSmRWRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sNFkyWmFSbTQ0U1RoME1sZEdUbkYzUVhSSmRWRRAB!2m1!1s0x3442afcf57feb71b:0xe6587633e7c112d0"
+                    }
+                ]
+}

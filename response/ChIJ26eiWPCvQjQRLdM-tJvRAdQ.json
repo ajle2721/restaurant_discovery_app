@@ -1,0 +1,129 @@
+﻿{
+    "id":  "ChIJ26eiWPCvQjQRLdM-tJvRAdQ",
+    "types":  [
+                  "meal_takeaway",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "formattedAddress":  "104台灣臺北市中山區集英里錦西街4號",
+    "location":  {
+                     "latitude":  25.0601921,
+                     "longitude":  121.52205
+                 },
+    "rating":  4.7,
+    "websiteUri":  "https://www.instagram.com/bowerypastabar/",
+    "userRatingCount":  75,
+    "displayName":  {
+                        "text":  "Bowery Pasta Bar 寶日麵吧",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJ26eiWPCvQjQRLdM-tJvRAdQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CRVdsRlZaRVU1UWtOQlRWWTRYMWxaUzFSSlNIYxAB",
+                        "relativePublishTimeDescription":  "2 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "第一次吃手工義大利麵\n吃有檸檬的青醬\n第一次吃過\n青醬的葉片較大\n這也是第一次吃到\n麵吃起來韌韌的\n但不會糊\n如果做成外送的話蓋子大概會把麵悶住\n可能會不妙\n但不確定\n因為我買了很快就回去打開了\n很喜歡",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "第一次吃手工義大利麵\n吃有檸檬的青醬\n第一次吃過\n青醬的葉片較大\n這也是第一次吃到\n麵吃起來韌韌的\n但不會糊\n如果做成外送的話蓋子大概會把麵悶住\n可能會不妙\n但不確定\n因為我買了很快就回去打開了\n很喜歡",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "yt z",
+                                                  "uri":  "https://www.google.com/maps/contrib/111427206106224574578/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjU1QIG-FBMWJm695JdYDvS0kikieZY7zy4Lf6Wqy6jG0VrpvUuS=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2026-03-03T13:21:56.011226921Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CRVdsRlZaRVU1UWtOQlRWWTRYMWxaUzFSSlNIYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CRVdsRlZaRVU1UWtOQlRWWTRYMWxaUzFSSlNIYxAB!2m1!1s0x3442aff058a2a7db:0xd401d19bb43ed32d"
+                    },
+                    {
+                        "name":  "places/ChIJ26eiWPCvQjQRLdM-tJvRAdQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKVmIyMTBWR0YwVW5aVE0wRkdRbnB1TTA5UmJVRRAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "只限外帶，老闆人很好。\n我點的是手撕拿坡里肉醬（180）與日式明太子奶油（150），整體上都非常好吃很濃郁，個人都很喜歡；不過明太子奶油蠻乾的比較難以下嚥。整體上偏貴點。\n另外有點寶日尼格羅尼220元，調的很棒很好喝，推推！\n另外還有手工美式餅乾80元，非常好吃紮實。\n\n現金付款。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "只限外帶，老闆人很好。\n我點的是手撕拿坡里肉醬（180）與日式明太子奶油（150），整體上都非常好吃很濃郁，個人都很喜歡；不過明太子奶油蠻乾的比較難以下嚥。整體上偏貴點。\n另外有點寶日尼格羅尼220元，調的很棒很好喝，推推！\n另外還有手工美式餅乾80元，非常好吃紮實。\n\n現金付款。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "辰泗",
+                                                  "uri":  "https://www.google.com/maps/contrib/105487273149089779959/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUrSb2WqSC5jb9a_CgeA_bxprSJDVDRCh5bGIivG5le0-akWv7I=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2026-02-08T16:40:03.361010034Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKVmIyMTBWR0YwVW5aVE0wRkdRbnB1TTA5UmJVRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKVmIyMTBWR0YwVW5aVE0wRkdRbnB1TTA5UmJVRRAB!2m1!1s0x3442aff058a2a7db:0xd401d19bb43ed32d"
+                    },
+                    {
+                        "name":  "places/ChIJ26eiWPCvQjQRLdM-tJvRAdQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT200MGFGTnNRbWRqU0dwblozSkViRW96TFRKalpFRRAB",
+                        "relativePublishTimeDescription":  "9 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "騎車經過可愛的小店\n現場桿麵很吸引人，就停下來買看看\n\n今天是墨魚緞帶麵體\n第一次吃很香滿特別的\n但還是比較喜歡有點嚼勁的麵體。\n\n🦑日式明太子奶油$150\n🍝蛤蠣義大利麵$180",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "騎車經過可愛的小店\n現場桿麵很吸引人，就停下來買看看\n\n今天是墨魚緞帶麵體\n第一次吃很香滿特別的\n但還是比較喜歡有點嚼勁的麵體。\n\n🦑日式明太子奶油$150\n🍝蛤蠣義大利麵$180",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "李苑溶（Shorty）",
+                                                  "uri":  "https://www.google.com/maps/contrib/106875685367142556187/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWn-ZUh6O9m47HDHjDCaQuI9jbgnUmDi-k_lAWV-klKNau2o0HO=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-08-27T12:28:33.171761240Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT200MGFGTnNRbWRqU0dwblozSkViRW96TFRKalpFRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT200MGFGTnNRbWRqU0dwblozSkViRW96TFRKalpFRRAB!2m1!1s0x3442aff058a2a7db:0xd401d19bb43ed32d"
+                    },
+                    {
+                        "name":  "places/ChIJ26eiWPCvQjQRLdM-tJvRAdQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsa1IxaE9ZMnhZWkdOcVRsSTJaMHhKWW1aTlFuYxAB",
+                        "relativePublishTimeDescription":  "6 個月前",
+                        "rating":  1,
+                        "text":  {
+                                     "text":  "我就問 外送來的這是什麼東西…..？\n一團爛掉的麵團，完全沒醬汁\n在跟我開玩笑嗎？\n我原地傻眼了五分鐘………\n我人生第一次點到連一口都不想吃的義大利麵！\n本來很期待是手工義大利麵\n這到底是什麼鬼？？？？！！！\n慘不忍睹",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "我就問 外送來的這是什麼東西…..？\n一團爛掉的麵團，完全沒醬汁\n在跟我開玩笑嗎？\n我原地傻眼了五分鐘………\n我人生第一次點到連一口都不想吃的義大利麵！\n本來很期待是手工義大利麵\n這到底是什麼鬼？？？？！！！\n慘不忍睹",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Nnnn N",
+                                                  "uri":  "https://www.google.com/maps/contrib/117778416128332581191/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjU6s7n6bWdZj8-QfWPxb3UmJSmP4oeRDNySqKCSII_gIbDmGqMc=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-10-29T13:00:32.551010282Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsa1IxaE9ZMnhZWkdOcVRsSTJaMHhKWW1aTlFuYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsa1IxaE9ZMnhZWkdOcVRsSTJaMHhKWW1aTlFuYxAB!2m1!1s0x3442aff058a2a7db:0xd401d19bb43ed32d"
+                    },
+                    {
+                        "name":  "places/ChIJ26eiWPCvQjQRLdM-tJvRAdQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oSVZGWnpURzFTVVhoMlNpMTNUSGxpYVZRdFNtYxAB",
+                        "relativePublishTimeDescription":  "7 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "手工義大利麵真的跟一般的不一樣\n特別軟嫩\n手撕肉醬麵是用真的牛肉\n吃起來口感很好👍",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "手工義大利麵真的跟一般的不一樣\n特別軟嫩\n手撕肉醬麵是用真的牛肉\n吃起來口感很好👍",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "YC",
+                                                  "uri":  "https://www.google.com/maps/contrib/117669532791029061429/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWqk1CP2bjE3s2aRcrjeD-oDJHSIY8UIwTZ9ShGrxYFe2wnvwqL=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-10-16T13:02:50.934386660Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oSVZGWnpURzFTVVhoMlNpMTNUSGxpYVZRdFNtYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oSVZGWnpURzFTVVhoMlNpMTNUSGxpYVZRdFNtYxAB!2m1!1s0x3442aff058a2a7db:0xd401d19bb43ed32d"
+                    }
+                ]
+}

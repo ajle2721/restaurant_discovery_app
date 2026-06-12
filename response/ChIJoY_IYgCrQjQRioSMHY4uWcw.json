@@ -1,0 +1,134 @@
+{
+  "id": "ChIJoY_IYgCrQjQRioSMHY4uWcw",
+  "types": [
+    "brunch_restaurant",
+    "coffee_shop",
+    "cafe",
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2782 5025",
+  "formattedAddress": "115029台灣臺北市南港區東明里南港路二段136號",
+  "location": {
+    "latitude": 25.0535721,
+    "longitude": 121.6013783
+  },
+  "rating": 4.4,
+  "userRatingCount": 213,
+  "displayName": {
+    "text": "麥味登 世界明珠店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJoY_IYgCrQjQRioSMHY4uWcw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwdE16TlFialZXY21kRFQwSjFYM2xVV1ZveFVHYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "超級懷念麥味登，以前住三重也是要走段路才到\n巧克力吐司 掃Qrcode就能直接加蛋ㄟ 超讚👍\n還在想說再點個荷包蛋之類的🤣🤣🤣🤣\n吃不完想袋子，店員服務超好👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "超級懷念麥味登，以前住三重也是要走段路才到\n巧克力吐司 掃Qrcode就能直接加蛋ㄟ 超讚👍\n還在想說再點個荷包蛋之類的🤣🤣🤣🤣\n吃不完想袋子，店員服務超好👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "溫可可",
+        "uri": "https://www.google.com/maps/contrib/102963462825063976382/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVNY2onhXT_T277RRwt8hagVC1xbEO4Q3EwWPj8zNzek_Qf7pFm=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-18T08:59:27.242828505Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwdE16TlFialZXY21kRFQwSjFYM2xVV1ZveFVHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwdE16TlFialZXY21kRFQwSjFYM2xVV1ZveFVHYxAB!2m1!1s0x3442ab0062c88fa1:0xcc592e8e1d8c848a"
+    },
+    {
+      "name": "places/ChIJoY_IYgCrQjQRioSMHY4uWcw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoRmJXSmFSWFZuTTNGV1kyWlJabmRwY0dkVVZYYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 1,
+      "text": {
+        "text": "人多出餐慢合理 ，煎焦也就算了，還可以咬掉，\n但店家有老實嗎?\n\n今天週五中午用餐時間，如預期的人數不少，早有等待準備，\n之前已遇過人多時會有煎焦的狀況，今天不意外又遇到，\n受不了跟外場反映, 外場接過手後直接拿進內場，\n出來說正在重做一個，結果不到3分鐘就再拿出來,\n心想有那麼快? 有的話前面也不會塞車吧?\n打開來看，你跟我說這是重做的?\n所以是內場技術太差又煎焦了?  還是外場根本在說謊 ?\n\n你不想重做好歹做個樣子把焦掉部分刮掉我都還不會反感，\n也懶得爭了，拿了就走也不會再來光顧了",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "人多出餐慢合理 ，煎焦也就算了，還可以咬掉，\n但店家有老實嗎?\n\n今天週五中午用餐時間，如預期的人數不少，早有等待準備，\n之前已遇過人多時會有煎焦的狀況，今天不意外又遇到，\n受不了跟外場反映, 外場接過手後直接拿進內場，\n出來說正在重做一個，結果不到3分鐘就再拿出來,\n心想有那麼快? 有的話前面也不會塞車吧?\n打開來看，你跟我說這是重做的?\n所以是內場技術太差又煎焦了?  還是外場根本在說謊 ?\n\n你不想重做好歹做個樣子把焦掉部分刮掉我都還不會反感，\n也懶得爭了，拿了就走也不會再來光顧了",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "C",
+        "uri": "https://www.google.com/maps/contrib/116172458886526321841/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVaMYkm2P7Hy6Rmf_EMaaNELKQ6z9SzCGQ3SANlVIok71xEk2MfUg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-30T08:00:39.504194351Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoRmJXSmFSWFZuTTNGV1kyWlJabmRwY0dkVVZYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoRmJXSmFSWFZuTTNGV1kyWlJabmRwY0dkVVZYYxAB!2m1!1s0x3442ab0062c88fa1:0xcc592e8e1d8c848a"
+    },
+    {
+      "name": "places/ChIJoY_IYgCrQjQRioSMHY4uWcw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SV1NEUlJUelJ3V1RKUWMwbGZUell3VDFkNlMzYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "＞目前北市我覺得麥味登整體品質最優的一家。\n＞不確定是我自己錯覺嗎?覺得相同食物品項, 這家店的也較美味; 台灣人最在意的服務,目前半年來造訪數次的經驗, 也每次都讓人喜歡; 店面屬篇狹長型,但仍允人窗明几淨的明亮感、B1F也有座位區。/\n＞是家相對較新的分店, 期望能繼續維持所有好品質~",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "＞目前北市我覺得麥味登整體品質最優的一家。\n＞不確定是我自己錯覺嗎?覺得相同食物品項, 這家店的也較美味; 台灣人最在意的服務,目前半年來造訪數次的經驗, 也每次都讓人喜歡; 店面屬篇狹長型,但仍允人窗明几淨的明亮感、B1F也有座位區。/\n＞是家相對較新的分店, 期望能繼續維持所有好品質~",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "N",
+        "uri": "https://www.google.com/maps/contrib/106561527960276972283/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL0twm7UyYA9A7f6Bq-vlDzRIheOfn75dMsbW8wd4yQjcoskUrI=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-18T07:03:17.596593257Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SV1NEUlJUelJ3V1RKUWMwbGZUell3VDFkNlMzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SV1NEUlJUelJ3V1RKUWMwbGZUell3VDFkNlMzYxAB!2m1!1s0x3442ab0062c88fa1:0xcc592e8e1d8c848a"
+    },
+    {
+      "name": "places/ChIJoY_IYgCrQjQRioSMHY4uWcw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGcFlsQTVOamhYUjNkeVJ5MW1RVk54WTBOcmMzYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "這咖啡拿鐵還不錯喝欸50元很親民，朋友推薦厚雞起司滿分堡也是很好吃。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這咖啡拿鐵還不錯喝欸50元很親民，朋友推薦厚雞起司滿分堡也是很好吃。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lawrence Chen",
+        "uri": "https://www.google.com/maps/contrib/103682775355087762732/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVEpxCfbozUqWYvuapmfflFTNnipRgxjQrUoYfqaNFqCnZZ9Unq=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-13T00:24:36.702949863Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGcFlsQTVOamhYUjNkeVJ5MW1RVk54WTBOcmMzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGcFlsQTVOamhYUjNkeVJ5MW1RVk54WTBOcmMzYxAB!2m1!1s0x3442ab0062c88fa1:0xcc592e8e1d8c848a"
+    },
+    {
+      "name": "places/ChIJoY_IYgCrQjQRioSMHY4uWcw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGRk1ISTFVa1Z3YXpCME1GSkhkVVZxZEZwUVYwRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點好吃、裝潢環境舒服乾淨、服務完美，怎麼有這麼棒的早餐店！ 🥹🥹🥹",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點好吃、裝潢環境舒服乾淨、服務完美，怎麼有這麼棒的早餐店！ 🥹🥹🥹",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "叮媽",
+        "uri": "https://www.google.com/maps/contrib/112194448668980128835/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVig4CQgQ3jaUNQJqTdjlHsW12-Ks1Syi-whRaWEqSXp_JhBudN1Q=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-29T02:52:28.964187192Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGRk1ISTFVa1Z3YXpCME1GSkhkVVZxZEZwUVYwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGRk1ISTFVa1Z3YXpCME1GSkhkVVZxZEZwUVYwRRAB!2m1!1s0x3442ab0062c88fa1:0xcc592e8e1d8c848a"
+    }
+  ],
+  "goodForChildren": true
+}

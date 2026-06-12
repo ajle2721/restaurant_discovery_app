@@ -1,0 +1,129 @@
+﻿{
+    "id":  "ChIJByHxFGmpQjQRwfIvf8y292g",
+    "types":  [
+                  "restaurant",
+                  "point_of_interest",
+                  "food",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 930 612 789",
+    "formattedAddress":  "106台灣臺北市大安區古莊里浦城街9-4號",
+    "location":  {
+                     "latitude":  25.024698299999997,
+                     "longitude":  121.52720269999999
+                 },
+    "rating":  4.3,
+    "websiteUri":  "https://www.facebook.com/aluenbaker",
+    "userRatingCount":  84,
+    "displayName":  {
+                        "text":  "海倫鮮土司",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJByHxFGmpQjQRwfIvf8y292g/reviews/ChZDSUhNMG9nS0VJQ0FnTUNZM01uYU9BEAE",
+                        "relativePublishTimeDescription":  "1 年前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "來自香港的施老太太和女兒海倫所開吐司、蝦餃名店，每週1-2個晚上兼作私廚，須包場預訂8-10人，一人4800元，水資另計，美味的粵菜，500盤推薦了四盆，砂鍋雲吞雞、馬友鹹魚蒸內餅（午仔魚）、潤肺養顏老火湯、臘味滑雞煲仔飯等等都美味不膩。沒有豪奢大菜，以家常菜為主。最近漲價，CP值稍降。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "來自香港的施老太太和女兒海倫所開吐司、蝦餃名店，每週1-2個晚上兼作私廚，須包場預訂8-10人，一人4800元，水資另計，美味的粵菜，500盤推薦了四盆，砂鍋雲吞雞、馬友鹹魚蒸內餅（午仔魚）、潤肺養顏老火湯、臘味滑雞煲仔飯等等都美味不膩。沒有豪奢大菜，以家常菜為主。最近漲價，CP值稍降。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Victor Taipei",
+                                                  "uri":  "https://www.google.com/maps/contrib/113796461038283967732/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocJN6nQ1_7ASj5d8IAnzLaDcu4sNeDNCxLfeHHt2oipVqBcd1A=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-05-02T11:48:48.711830Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNZM01uYU9BEAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNZM01uYU9BEAE!2m1!1s0x3442a96914f12107:0x68f7b6cc7f2ff2c1"
+                    },
+                    {
+                        "name":  "places/ChIJByHxFGmpQjQRwfIvf8y292g/reviews/ChdDSUhNMG9nS0VJQ0FnSUREb2NhRV9BRRAB",
+                        "relativePublishTimeDescription":  "2 年前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "這裡不只賣吐司，有時會搖身一變成為“施家粵菜”私廚無菜單料理餐廳，一處很適合小團體聚會的地方。\n傳統地道的粵菜，由年長的施媽媽帶領女兒、徒弟一起手做，每口佳餚皆能感覺到食材處理不馬虎、烹飪過程繁複用心，對不常吃廣東料理的我們，每道菜餚都是驚喜！",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "這裡不只賣吐司，有時會搖身一變成為“施家粵菜”私廚無菜單料理餐廳，一處很適合小團體聚會的地方。\n傳統地道的粵菜，由年長的施媽媽帶領女兒、徒弟一起手做，每口佳餚皆能感覺到食材處理不馬虎、烹飪過程繁複用心，對不常吃廣東料理的我們，每道菜餚都是驚喜！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Travel x Freedom旅誌字遊",
+                                                  "uri":  "https://www.google.com/maps/contrib/103461523567305653860/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUD1YEf4fBtQmjVQxbNP2K4Mbjx0LCJ5xDjvKLE0yeJ9uC1bTRHBw=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2024-04-10T14:21:59.000460Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUREb2NhRV9BRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUREb2NhRV9BRRAB!2m1!1s0x3442a96914f12107:0x68f7b6cc7f2ff2c1"
+                    },
+                    {
+                        "name":  "places/ChIJByHxFGmpQjQRwfIvf8y292g/reviews/ChdDSUhNMG9nS0VJQ0FnSUNHMk9MMHhBRRAB",
+                        "relativePublishTimeDescription":  "4 年前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "「海倫．鮮土司」提供早午餐和晚餐預約，一次一組客人，除了店內空間有限之外，更希望的是提供來店享用餐點的人感受放鬆自在的氛圍；我認同這個出發點，畢竟誰都不希望吃飯時被隔壁桌的看來看去，但外面餐館多半沒法提供那樣的空間，而「海倫．鮮土司」做到了。\n\n除了早午餐，也有搭配的飲品，有精選咖啡、熱可可、花草茶、鍋煮奶茶，連港味濃厚的鹹檸七也有，最後我們點了精選祕魯手沖咖啡和鍋煮焙茶拿鐵，初秋時刻，最適合來杯鍋煮焙茶拿鐵了。\n\n除了招牌的大土司，肉桂捲和菠蘿麵包都是熱門品項，女友訂位時就有看到用餐前日有出爐菠蘿麵包，她就想吃香港菠蘿油，所以趕緊搶訂下來，這才有我們在早午餐之前吃到的菠蘿；店家將一個菠蘿麵包做成冰火菠蘿油、一個則以原貌登場，即使是回溫後，菠蘿麵包依然散發出陣陣香氣，而且外酥內軟，咬下一口我就知道完蛋惹、以後菠蘿麵包只能在這裡買了！\n\n早午餐上桌之前先來了季節水果優格，餐點都是現點現做，使用當季優質食材，早午餐裡不僅有當季溫蔬菜、當中甚至有日本栗子南瓜，搭配加了檸檬橄欖油和巴薩米克醋的有機沙拉菜和芝麻葉，而主角當然是自家製的酵母三明治，中間包了微辣提味的花生醬及厚培根佐一點芥末籽，再來一顆放牧土雞蛋，最後灑上陳年帕瑪森乳酪，豐富滿滿的餐盤盛裝的是「海倫．鮮土司」的心意。\n\n我們來的時間是近午，沒能吃到施媽媽的菜，但這晚剛好就有客人預約施家粵菜，我們踏進店裡時，施媽媽正在提點食材準備的細節，她嚴格的眼光完全可以感受到今晚客人的口福，黑嘉莉忍不住對我說，我們一定要找時間來吃一頓正港粵菜！",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "「海倫．鮮土司」提供早午餐和晚餐預約，一次一組客人，除了店內空間有限之外，更希望的是提供來店享用餐點的人感受放鬆自在的氛圍；我認同這個出發點，畢竟誰都不希望吃飯時被隔壁桌的看來看去，但外面餐館多半沒法提供那樣的空間，而「海倫．鮮土司」做到了。\n\n除了早午餐，也有搭配的飲品，有精選咖啡、熱可可、花草茶、鍋煮奶茶，連港味濃厚的鹹檸七也有，最後我們點了精選祕魯手沖咖啡和鍋煮焙茶拿鐵，初秋時刻，最適合來杯鍋煮焙茶拿鐵了。\n\n除了招牌的大土司，肉桂捲和菠蘿麵包都是熱門品項，女友訂位時就有看到用餐前日有出爐菠蘿麵包，她就想吃香港菠蘿油，所以趕緊搶訂下來，這才有我們在早午餐之前吃到的菠蘿；店家將一個菠蘿麵包做成冰火菠蘿油、一個則以原貌登場，即使是回溫後，菠蘿麵包依然散發出陣陣香氣，而且外酥內軟，咬下一口我就知道完蛋惹、以後菠蘿麵包只能在這裡買了！\n\n早午餐上桌之前先來了季節水果優格，餐點都是現點現做，使用當季優質食材，早午餐裡不僅有當季溫蔬菜、當中甚至有日本栗子南瓜，搭配加了檸檬橄欖油和巴薩米克醋的有機沙拉菜和芝麻葉，而主角當然是自家製的酵母三明治，中間包了微辣提味的花生醬及厚培根佐一點芥末籽，再來一顆放牧土雞蛋，最後灑上陳年帕瑪森乳酪，豐富滿滿的餐盤盛裝的是「海倫．鮮土司」的心意。\n\n我們來的時間是近午，沒能吃到施媽媽的菜，但這晚剛好就有客人預約施家粵菜，我們踏進店裡時，施媽媽正在提點食材準備的細節，她嚴格的眼光完全可以感受到今晚客人的口福，黑嘉莉忍不住對我說，我們一定要找時間來吃一頓正港粵菜！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "幕後黑手",
+                                                  "uri":  "https://www.google.com/maps/contrib/106882130235062342919/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVcEl-zAA1K0qtEwE-NwnakULX75BTZIlyKig_lPruh4HtY4eCQgw=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2021-10-19T15:18:15.995854Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNHMk9MMHhBRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNHMk9MMHhBRRAB!2m1!1s0x3442a96914f12107:0x68f7b6cc7f2ff2c1"
+                    },
+                    {
+                        "name":  "places/ChIJByHxFGmpQjQRwfIvf8y292g/reviews/ChdDSUhNMG9nS0VJQ0FnSUR5OTZ1UXZnRRAB",
+                        "relativePublishTimeDescription":  "5 年前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "肉桂捲 $90 （外帶）\n✅白蘭地糖霜令人驚艷，\n一顆外表勝過內在的捲。\n➡️肉桂淡雅，但有存在感。\n很溫和討喜的肉桂醬，不嗆辣。\n➡️內藏很多核桃。\n➡️麵包體紮實有嚼勁耐吃，屬乾式肉桂捲，但中心沒醬處太大塊，重度肉桂控嫌有點無聊給老公吃😂\n-\n在台大市集經過看到其他手作麵包很不錯，就決定試試看，意外薄薄一層糖霜帶來了驚喜，提味不搶味。\n老闆說師大有店面，看評價大家喜歡老闆選的好食材，若在附近可以試試看～",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "肉桂捲 $90 （外帶）\n✅白蘭地糖霜令人驚艷，\n一顆外表勝過內在的捲。\n➡️肉桂淡雅，但有存在感。\n很溫和討喜的肉桂醬，不嗆辣。\n➡️內藏很多核桃。\n➡️麵包體紮實有嚼勁耐吃，屬乾式肉桂捲，但中心沒醬處太大塊，重度肉桂控嫌有點無聊給老公吃😂\n-\n在台大市集經過看到其他手作麵包很不錯，就決定試試看，意外薄薄一層糖霜帶來了驚喜，提味不搶味。\n老闆說師大有店面，看評價大家喜歡老闆選的好食材，若在附近可以試試看～",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Lisa Chien",
+                                                  "uri":  "https://www.google.com/maps/contrib/104315054351293842725/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocIzVE9pwm3Gkc5VVUeK1uRgQ1sy7c2emSIqmc_UrV3gpr2lEQ=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2021-03-21T15:45:22.076604Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR5OTZ1UXZnRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR5OTZ1UXZnRRAB!2m1!1s0x3442a96914f12107:0x68f7b6cc7f2ff2c1"
+                    },
+                    {
+                        "name":  "places/ChIJByHxFGmpQjQRwfIvf8y292g/reviews/ChZDSUhNMG9nS0VJQ0FnSURUdTZMUWR3EAE",
+                        "relativePublishTimeDescription":  "1 年前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "施家粵菜私廚味道非常的道地也好吃，不油膩清淡可以也是好吃的家常粵菜。整體上每一道都不錯。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "施家粵菜私廚味道非常的道地也好吃，不油膩清淡可以也是好吃的家常粵菜。整體上每一道都不錯。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Kent Ma",
+                                                  "uri":  "https://www.google.com/maps/contrib/117670113311169207526/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVtU2QjV9iSRZnXF_lr1x95D4F9RnfFXDVw4GRm_50ZfXYfzgCdoA=s128-c0x00000000-cc-rp-mo-ba8"
+                                              },
+                        "publishTime":  "2024-05-28T12:52:10.228430Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURUdTZMUWR3EAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURUdTZMUWR3EAE!2m1!1s0x3442a96914f12107:0x68f7b6cc7f2ff2c1"
+                    }
+                ]
+}

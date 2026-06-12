@@ -1,0 +1,131 @@
+{
+  "id": "ChIJo8cmveipQjQR5EtNvSKd0mw",
+  "types": [
+    "buffet_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2368 9709",
+  "formattedAddress": "100台灣臺北市中正區水源里羅斯福路四段92號",
+  "location": {
+    "latitude": 25.0136853,
+    "longitude": 121.5349087
+  },
+  "rating": 4.2,
+  "userRatingCount": 103,
+  "displayName": {
+    "text": "水源市場．63號攤自助餐（李家灶咖）",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJo8cmveipQjQR5EtNvSKd0mw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOMk9TMHRhWE13TTA5Rk1HNVJNbVpsUVc1S1ZGRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "10點多一點到公館轉車，先到水源市場買個午餐，從側門進去，首先就看到李家灶咖，菜色繁多，擺得乾乾淨淨的，一旁也有座位，就不再搜尋其他家，直接點了坐下來吃。便當一律是一主菜三配菜，$100起，若是魚類主菜則是時價，若是鯖魚$160，秋刀魚$130；價位比起肉類主菜高了不少。\n吃來口味不會過油或過鹹，還不錯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "10點多一點到公館轉車，先到水源市場買個午餐，從側門進去，首先就看到李家灶咖，菜色繁多，擺得乾乾淨淨的，一旁也有座位，就不再搜尋其他家，直接點了坐下來吃。便當一律是一主菜三配菜，$100起，若是魚類主菜則是時價，若是鯖魚$160，秋刀魚$130；價位比起肉類主菜高了不少。\n吃來口味不會過油或過鹹，還不錯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lawrence Liu",
+        "uri": "https://www.google.com/maps/contrib/102262129151081989351/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXgfUNATRCyUIkyLBL3p5EjLbiZWZH199agDs9G5lgKMIY9Mos=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-27T05:22:12.362272596Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOMk9TMHRhWE13TTA5Rk1HNVJNbVpsUVc1S1ZGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOMk9TMHRhWE13TTA5Rk1HNVJNbVpsUVc1S1ZGRRAB!2m1!1s0x3442a9e8bd26c7a3:0x6cd29d22bd4d4be4"
+    },
+    {
+      "name": "places/ChIJo8cmveipQjQR5EtNvSKd0mw/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xU2VsRkdiWGx5VTNod2NFZFpaVkY2VDBkZlRIYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "2026.1.10內用\n\n老闆娘態度很好，\n內用份量超大超多，\n2個人一起吃還吃不完，cp值很高！！！\n雞排好脆，肉也很嫩！！！\n內用選三道菜，白飯或五穀飯也可以選擇～～完全學生的好朋友👭\n推👍👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2026.1.10內用\n\n老闆娘態度很好，\n內用份量超大超多，\n2個人一起吃還吃不完，cp值很高！！！\n雞排好脆，肉也很嫩！！！\n內用選三道菜，白飯或五穀飯也可以選擇～～完全學生的好朋友👭\n推👍👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "花路醬",
+        "uri": "https://www.google.com/maps/contrib/114482691975732728761/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXSEx0mgRT6d16Smu2aYXmRGXEUWj3WXVqofG_DS2PB4RCmNeL9=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-01-11T14:06:12.281662018Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xU2VsRkdiWGx5VTNod2NFZFpaVkY2VDBkZlRIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xU2VsRkdiWGx5VTNod2NFZFpaVkY2VDBkZlRIYxAB!2m1!1s0x3442a9e8bd26c7a3:0x6cd29d22bd4d4be4"
+    },
+    {
+      "name": "places/ChIJo8cmveipQjQR5EtNvSKd0mw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwdVUwMHpjbU53TXpGaE1VbHZiMTgxWWpaUVFVRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "常常來買 排骨都是現點現炸 雞腿很大隻肉也嫩 菜也都好吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "常常來買 排骨都是現點現炸 雞腿很大隻肉也嫩 菜也都好吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "高楚晴",
+        "uri": "https://www.google.com/maps/contrib/113795809815573159852/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV-07goL-lzVsyGbbRArRHZQIJ9RuFGhszPQYRbEV_QKqGsia55=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-13T11:31:35.922637175Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwdVUwMHpjbU53TXpGaE1VbHZiMTgxWWpaUVFVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwdVUwMHpjbU53TXpGaE1VbHZiMTgxWWpaUVFVRRAB!2m1!1s0x3442a9e8bd26c7a3:0x6cd29d22bd4d4be4"
+    },
+    {
+      "name": "places/ChIJo8cmveipQjQR5EtNvSKd0mw/reviews/ChdDSUhNMG9nS0VOM2drZjdvOXRlRjhBRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "今天第一次內用， 點了現炸排骨飯，配菜選了菜豆， 另外兩樣都選茄子，排骨厚度剛剛好， 口感有嚼勁， 米飯也很Q， 是喜歡的口感。有附海菜豆腐湯，自取，湯頭有入味。看到一旁的工作人員正在滷雞腿，滷好的雞腿整齊排列，上色後油油亮亮的，看起來很美味。\n只是一邊吃著飯，一邊聽到菜台的小姐一直在抱怨客人，這可是犯了服務業的大忌！ 即便她抱怨的那個客人已經離開了，但是現場的客人應該也沒有人想聽她抱怨！ 抱怨的話可以等到下班＆茶餘飯後的時候再說！而非在工作面對客人時碎唸！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天第一次內用， 點了現炸排骨飯，配菜選了菜豆， 另外兩樣都選茄子，排骨厚度剛剛好， 口感有嚼勁， 米飯也很Q， 是喜歡的口感。有附海菜豆腐湯，自取，湯頭有入味。看到一旁的工作人員正在滷雞腿，滷好的雞腿整齊排列，上色後油油亮亮的，看起來很美味。\n只是一邊吃著飯，一邊聽到菜台的小姐一直在抱怨客人，這可是犯了服務業的大忌！ 即便她抱怨的那個客人已經離開了，但是現場的客人應該也沒有人想聽她抱怨！ 抱怨的話可以等到下班＆茶餘飯後的時候再說！而非在工作面對客人時碎唸！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳伽瑜",
+        "uri": "https://www.google.com/maps/contrib/102651053622568883915/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocImRoT1rR6MGoGQVQBKYWzC8tHrNGAi-KNTamDVHeZtJ3VRZg=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-05-22T16:24:02.803281Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VOM2drZjdvOXRlRjhBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VOM2drZjdvOXRlRjhBRRAB!2m1!1s0x3442a9e8bd26c7a3:0x6cd29d22bd4d4be4"
+    },
+    {
+      "name": "places/ChIJo8cmveipQjQR5EtNvSKd0mw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSTVJWcFlkbVF0WW5WaWVGWmxlR3hxWmtWWFRXYxAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 3,
+      "text": {
+        "text": "今早不到10點去買便當，\n先拍了照問同事要不要買，\n等都選好主菜和配菜後再過去點餐，\n買了2個魯雞腿便當，\n後來要單買一隻雞腿，\n小姐說$90要切嗎？\n我：好。\n正在等裝袋時同事說只差30可以換雞腿便當嗎？\n老闆娘很不悅  說不行\n😅😅😅\n我看雞腿已經被切對半裝載塑膠袋內，\n後來問是因為已經裝袋子嗎？\n那我可以付塑膠袋錢，\n這樣可以改成雞腿便當嗎？\n老闆娘臉很臭更不爽的說不行，\n然後就把單隻雞腿拿起來，\n就說你就買兩個便當🙄🙄🙄\n好的～\n生意是老闆娘在做的…\n早上不到10點更本沒有人潮也不知道是在火氣大什麼😂\n這家的魯雞腿很好吃～\n但是一定要點便當才划算唷～～～\n雞腿一隻90是不給補塑膠袋錢和30換成雞腿便當🥹",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今早不到10點去買便當，\n先拍了照問同事要不要買，\n等都選好主菜和配菜後再過去點餐，\n買了2個魯雞腿便當，\n後來要單買一隻雞腿，\n小姐說$90要切嗎？\n我：好。\n正在等裝袋時同事說只差30可以換雞腿便當嗎？\n老闆娘很不悅  說不行\n😅😅😅\n我看雞腿已經被切對半裝載塑膠袋內，\n後來問是因為已經裝袋子嗎？\n那我可以付塑膠袋錢，\n這樣可以改成雞腿便當嗎？\n老闆娘臉很臭更不爽的說不行，\n然後就把單隻雞腿拿起來，\n就說你就買兩個便當🙄🙄🙄\n好的～\n生意是老闆娘在做的…\n早上不到10點更本沒有人潮也不知道是在火氣大什麼😂\n這家的魯雞腿很好吃～\n但是一定要點便當才划算唷～～～\n雞腿一隻90是不給補塑膠袋錢和30換成雞腿便當🥹",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "EMMA CHEN",
+        "uri": "https://www.google.com/maps/contrib/114003373352583878066/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXMaPqOBzmekoX1dQbqaCnZItdkVuZoGO1QuDgLQSGBN2kVwT37=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-07-16T02:46:45.318574433Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSTVJWcFlkbVF0WW5WaWVGWmxlR3hxWmtWWFRXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSTVJWcFlkbVF0WW5WaWVGWmxlR3hxWmtWWFRXYxAB!2m1!1s0x3442a9e8bd26c7a3:0x6cd29d22bd4d4be4"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

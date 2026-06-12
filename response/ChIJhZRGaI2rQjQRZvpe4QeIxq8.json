@@ -1,0 +1,133 @@
+{
+  "id": "ChIJhZRGaI2rQjQRZvpe4QeIxq8",
+  "types": [
+    "cafe",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 3765 2388",
+  "formattedAddress": "105台灣臺北市松山區東榮里民生東路五段137巷11號",
+  "location": {
+    "latitude": 25.059666,
+    "longitude": 121.56136799999999
+  },
+  "rating": 4.3,
+  "websiteUri": "https://zh-tw.facebook.com/narikucafe",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 829,
+  "displayName": {
+    "text": "晴空巷珈琲",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJhZRGaI2rQjQRZvpe4QeIxq8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0elRsQllabTk0V1VZMk1WUTRXVVJNTURBMmFVRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點美味，服務人員相當友好。\n很喜歡胡蘿蔔蛋糕，除了肉桂 應該也加了荳蔻（？ 整體吃起來香料感很多層次。\n蛋糕的裝飾醬料也會依照不同蛋糕做調整，附上微酸的小水果盅可以轉換口味！\n\n手羽先也很好吃，肉汁滿滿，附上的胡椒與辣粉 都很好吃。\n生菜都很新鮮。\n\n蘋果咖啡，喝下去有一種酒感的錯覺，是那種威士忌的木桶香氣。\n\n（其餘親友點的餐，沒品嚐）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點美味，服務人員相當友好。\n很喜歡胡蘿蔔蛋糕，除了肉桂 應該也加了荳蔻（？ 整體吃起來香料感很多層次。\n蛋糕的裝飾醬料也會依照不同蛋糕做調整，附上微酸的小水果盅可以轉換口味！\n\n手羽先也很好吃，肉汁滿滿，附上的胡椒與辣粉 都很好吃。\n生菜都很新鮮。\n\n蘋果咖啡，喝下去有一種酒感的錯覺，是那種威士忌的木桶香氣。\n\n（其餘親友點的餐，沒品嚐）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "青蛙呱呱",
+        "uri": "https://www.google.com/maps/contrib/106513543588941429865/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXyF2CSX0gJxVo6DLMa3uzehpOrLV-D622fQ1pK0MbMiwqGzPM=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-17T13:37:22.209931310Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0elRsQllabTk0V1VZMk1WUTRXVVJNTURBMmFVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0elRsQllabTk0V1VZMk1WUTRXVVJNTURBMmFVRRAB!2m1!1s0x3442ab8d68469485:0xafc68807e15efa66"
+    },
+    {
+      "name": "places/ChIJhZRGaI2rQjQRZvpe4QeIxq8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxNWFHWmlVbUpzZW1kVlRHOW1TRXhyVDBaM00wRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "焦糖脆脆甜度超剛好～焦糖香甜但完全不膩，脆脆搭起來口感超讚🤤\n鹹花生咖啡也超好喝～濃郁又滑順，撲鼻的花生香氣意外超搭！❤️\n一個令人感到放鬆充電的下午～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "焦糖脆脆甜度超剛好～焦糖香甜但完全不膩，脆脆搭起來口感超讚🤤\n鹹花生咖啡也超好喝～濃郁又滑順，撲鼻的花生香氣意外超搭！❤️\n一個令人感到放鬆充電的下午～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "sharlene cheng",
+        "uri": "https://www.google.com/maps/contrib/102350648169300837802/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXFCF4tMswRZQZQODhVkZXVckT2-uEJwXARpxeay6XFDtyvyJTbTg=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-24T06:28:38.016046555Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxNWFHWmlVbUpzZW1kVlRHOW1TRXhyVDBaM00wRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxNWFHWmlVbUpzZW1kVlRHOW1TRXhyVDBaM00wRRAB!2m1!1s0x3442ab8d68469485:0xafc68807e15efa66"
+    },
+    {
+      "name": "places/ChIJhZRGaI2rQjQRZvpe4QeIxq8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Sb1pIWXpOa0ZHTTBGSFJXMUJNRFZ2UlZWNloxRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "下過雨的午後，民生社區巷子裡更顯得安靜。\n\n走進一間有溫度的老屋咖啡館，點了一份香酥的薯條，配上一杯冰美式，就是最療癒的Me Time。\n\n有時候不用走遠，\n城市裡的午後，也能很平靜、很滿足。\n\n遇見｜晴空巷咖啡 Nariku Café",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "下過雨的午後，民生社區巷子裡更顯得安靜。\n\n走進一間有溫度的老屋咖啡館，點了一份香酥的薯條，配上一杯冰美式，就是最療癒的Me Time。\n\n有時候不用走遠，\n城市裡的午後，也能很平靜、很滿足。\n\n遇見｜晴空巷咖啡 Nariku Café",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "吳中信",
+        "uri": "https://www.google.com/maps/contrib/105164063762955534330/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXlOf0qQEFojFpgUm6r8kW0NHawG2smZQaod1ebGArclVbqdJaGgQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-02T06:57:18.771625082Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Sb1pIWXpOa0ZHTTBGSFJXMUJNRFZ2UlZWNloxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Sb1pIWXpOa0ZHTTBGSFJXMUJNRFZ2UlZWNloxRRAB!2m1!1s0x3442ab8d68469485:0xafc68807e15efa66"
+    },
+    {
+      "name": "places/ChIJhZRGaI2rQjQRZvpe4QeIxq8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OMldWSlFUamhuV0c5dk1scG9UV1pzWlVoT0xVRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "餐點都在水準之上，只是價格偏高；另外此店基本消費為一杯飲料，若有點餐飲料為半價",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點都在水準之上，只是價格偏高；另外此店基本消費為一杯飲料，若有點餐飲料為半價",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "楊榮翔",
+        "uri": "https://www.google.com/maps/contrib/113506223677426187347/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWDrsb9Gr9-W3Y_KV9ilbRZSE-wt6Qi777JVwwoKKxee9gq8gu6=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-14T02:26:18.462368221Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OMldWSlFUamhuV0c5dk1scG9UV1pzWlVoT0xVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OMldWSlFUamhuV0c5dk1scG9UV1pzWlVoT0xVRRAB!2m1!1s0x3442ab8d68469485:0xafc68807e15efa66"
+    },
+    {
+      "name": "places/ChIJhZRGaI2rQjQRZvpe4QeIxq8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaUFNDMVpTV2RPWVV4VlVqTTROVzE2VTI5V2JYYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "早午餐 生菜很多 cp值高\n花生咖啡很特別",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "早午餐 生菜很多 cp值高\n花生咖啡很特別",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yume",
+        "uri": "https://www.google.com/maps/contrib/107882982293704700385/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU6ka8JQxZEYinf12rMjuEj-BxggYM2Cr0eKV0TuoBk4uz5XFfR=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-15T12:06:36.772037927Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaUFNDMVpTV2RPWVV4VlVqTTROVzE2VTI5V2JYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaUFNDMVpTV2RPWVV4VlVqTTROVzE2VTI5V2JYYxAB!2m1!1s0x3442ab8d68469485:0xafc68807e15efa66"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

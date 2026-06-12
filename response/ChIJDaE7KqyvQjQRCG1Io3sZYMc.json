@@ -1,0 +1,131 @@
+{
+  "id": "ChIJDaE7KqyvQjQRCG1Io3sZYMc",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 989 480 802",
+  "formattedAddress": "111台灣臺北市士林區德華里福華路147巷28號",
+  "location": {
+    "latitude": 25.1031543,
+    "longitude": 121.52110409999999
+  },
+  "rating": 4.7,
+  "websiteUri": "https://instagram.com/migo_day?utm_medium=copy_link",
+  "userRatingCount": 458,
+  "displayName": {
+    "text": "米糕日子｜來自彰化員林的好味道",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJDaE7KqyvQjQRCG1Io3sZYMc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KeWJYRmlTbUpxT0ZsNWJFOVVkMUJTY25oWmQwRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "感受的到老闆娘滿滿的用心！\n店裡很舒適乾淨，還有小朋友的玩具、書\n甚至還有搖搖馬跟彈珠台，讓爸媽可以好好吃飯🥹\n推薦小菜：百香果佛手瓜，甜甜脆脆的口感\n一口接一口～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "感受的到老闆娘滿滿的用心！\n店裡很舒適乾淨，還有小朋友的玩具、書\n甚至還有搖搖馬跟彈珠台，讓爸媽可以好好吃飯🥹\n推薦小菜：百香果佛手瓜，甜甜脆脆的口感\n一口接一口～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Cristina Kuo",
+        "uri": "https://www.google.com/maps/contrib/107245302590865985161/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXYPR9Gu2bfyp1p7reGnqcwSS8ejQKV1ZjzbDj0dz-VQClntWMhFA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-28T06:36:12.126084449Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KeWJYRmlTbUpxT0ZsNWJFOVVkMUJTY25oWmQwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KeWJYRmlTbUpxT0ZsNWJFOVVkMUJTY25oWmQwRRAB!2m1!1s0x3442afac2a3ba10d:0xc760197ba3486d08"
+    },
+    {
+      "name": "places/ChIJDaE7KqyvQjQRCG1Io3sZYMc/reviews/Ci9DQUlRQUNvZENodHljRjlvT210VE5tWlJZekJGTjBjMFMzWm5jR3hTTVVsM1ZuYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "米糕是偏軟黏的但是米都有熟透所以喜歡，配米糕的小黃瓜有點過甜不太ok，應該酸甜酸甜比較解膩。嘴邊肉滷豆腐蠻好吃，豆干海帶偏普通不用點",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "米糕是偏軟黏的但是米都有熟透所以喜歡，配米糕的小黃瓜有點過甜不太ok，應該酸甜酸甜比較解膩。嘴邊肉滷豆腐蠻好吃，豆干海帶偏普通不用點",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Tnygsn",
+        "uri": "https://www.google.com/maps/contrib/116373753382357297607/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV4OavGFTcxmGcWq8pyNrqrP2jSitSS7tZVx59pE3jMpEKBOYc=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-12-02T16:17:22.848182562Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210VE5tWlJZekJGTjBjMFMzWm5jR3hTTVVsM1ZuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210VE5tWlJZekJGTjBjMFMzWm5jR3hTTVVsM1ZuYxAB!2m1!1s0x3442afac2a3ba10d:0xc760197ba3486d08"
+    },
+    {
+      "name": "places/ChIJDaE7KqyvQjQRCG1Io3sZYMc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kwdFpIbDFUMjVhY2pOUGNHcEZTVVJDTjBsTldHYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "天龍國巷弄內的精緻小吃，座位不多，乾淨舒適，也有老物件裝飾（居然看到匣式錄音帶）。傳統的南部米糕、乾麵、小菜都很不錯，自製辣醬很香，也有南部甜辣醬。去戲曲中心看表演時的用餐好選擇。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "天龍國巷弄內的精緻小吃，座位不多，乾淨舒適，也有老物件裝飾（居然看到匣式錄音帶）。傳統的南部米糕、乾麵、小菜都很不錯，自製辣醬很香，也有南部甜辣醬。去戲曲中心看表演時的用餐好選擇。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "DJ",
+        "uri": "https://www.google.com/maps/contrib/106093561094480467946/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL7k6PeDslAmm70thDx1UckU1xBYE6Eyjgq8X0qozDtyXeXYA=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-12-28T03:08:40.746642868Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kwdFpIbDFUMjVhY2pOUGNHcEZTVVJDTjBsTldHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kwdFpIbDFUMjVhY2pOUGNHcEZTVVJDTjBsTldHYxAB!2m1!1s0x3442afac2a3ba10d:0xc760197ba3486d08"
+    },
+    {
+      "name": "places/ChIJDaE7KqyvQjQRCG1Io3sZYMc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkeFJHazRibXR5Y1ZGbk1VeFZjMmw0VGw5TVIyYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "米糕味道很好，不輸大橋頭名店。\n青菜貢丸湯味道很自然，湯頭微甘。\n老闆媽媽炒的辣椒醬真的很辣，香氣很有層次。\n小黃瓜偏甜，剛開始不習慣，後來鹹食吃多了，吃幾口甜黃瓜倒是有轉換口味的感覺，清爽有趣。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "米糕味道很好，不輸大橋頭名店。\n青菜貢丸湯味道很自然，湯頭微甘。\n老闆媽媽炒的辣椒醬真的很辣，香氣很有層次。\n小黃瓜偏甜，剛開始不習慣，後來鹹食吃多了，吃幾口甜黃瓜倒是有轉換口味的感覺，清爽有趣。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Serina Huang",
+        "uri": "https://www.google.com/maps/contrib/101728212241080853928/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIFAz7-4l8_E5KSPtbNFDy93cAaQeX5X44_OT7nNYY_AJCWPQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-25T07:57:04.877396995Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkeFJHazRibXR5Y1ZGbk1VeFZjMmw0VGw5TVIyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkeFJHazRibXR5Y1ZGbk1VeFZjMmw0VGw5TVIyYxAB!2m1!1s0x3442afac2a3ba10d:0xc760197ba3486d08"
+    },
+    {
+      "name": "places/ChIJDaE7KqyvQjQRCG1Io3sZYMc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GMmMwY3daVVowZFRKTFUyUk1UbkJpYUcxdFFtYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "來北投四年第一次吃 老闆介紹詳細熱心 乾麵跟豆腐還不錯 甜米糕粥很推薦！\n店裡裝潢很復古可愛 今天來的時候還有小孩在打彈珠\n希望看到評論的各位都能來吃吃看🤩",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "來北投四年第一次吃 老闆介紹詳細熱心 乾麵跟豆腐還不錯 甜米糕粥很推薦！\n店裡裝潢很復古可愛 今天來的時候還有小孩在打彈珠\n希望看到評論的各位都能來吃吃看🤩",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "L C",
+        "uri": "https://www.google.com/maps/contrib/112361094166474627759/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU1RbKX5R5ZCO102GuCIiSlJDQ2kw_vLfiP2peXdyQaNAq-ouRC=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-03-05T10:49:38.230870670Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GMmMwY3daVVowZFRKTFUyUk1UbkJpYUcxdFFtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GMmMwY3daVVowZFRKTFUyUk1UbkJpYUcxdFFtYxAB!2m1!1s0x3442afac2a3ba10d:0xc760197ba3486d08"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

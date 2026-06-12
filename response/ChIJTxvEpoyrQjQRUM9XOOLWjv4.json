@@ -1,0 +1,137 @@
+﻿{
+    "id":  "ChIJTxvEpoyrQjQRUM9XOOLWjv4",
+    "types":  [
+                  "italian_restaurant",
+                  "deli",
+                  "wine_bar",
+                  "bar",
+                  "coffee_shop",
+                  "cafe",
+                  "food_store",
+                  "restaurant",
+                  "food",
+                  "store",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2749 1126",
+    "formattedAddress":  "105台灣臺北市松山區東光里南京東路五段163-11號",
+    "location":  {
+                     "latitude":  25.052023000000002,
+                     "longitude":  121.56269650000002
+                 },
+    "rating":  4.7,
+    "websiteUri":  "https://lapiada-gastronomia.oddle.me/zh_TW/",
+    "userRatingCount":  615,
+    "displayName":  {
+                        "text":  "LA PIADA - Gastronomia 義式薄餅店",
+                        "languageCode":  "en"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJTxvEpoyrQjQRUM9XOOLWjv4/reviews/Ci9DQUlRQUNvZENodHljRjlvT205NlZDMWliM0pMZURsUWNrTnpRMnBHUTFacVdGRRAB",
+                        "relativePublishTimeDescription":  "2 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "今天中午來用餐。室內空間屬個人高腳座椅。室外空間約有4-5張雙人桌。今天點了薄餅，但是換成佛卡夏+40元。水果飲料套餐+120元。整體用餐感覺不錯，唯獨比薩比想像中的薄，但是整體味道好吃。蔬菜沙拉+烤雞肉+80元。雞肉現煎。口感和味道都不錯。應該是茄子會辣，小朋友要吃的話可能要注意一下。會想再來用餐。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "今天中午來用餐。室內空間屬個人高腳座椅。室外空間約有4-5張雙人桌。今天點了薄餅，但是換成佛卡夏+40元。水果飲料套餐+120元。整體用餐感覺不錯，唯獨比薩比想像中的薄，但是整體味道好吃。蔬菜沙拉+烤雞肉+80元。雞肉現煎。口感和味道都不錯。應該是茄子會辣，小朋友要吃的話可能要注意一下。會想再來用餐。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Johnny Hsu",
+                                                  "uri":  "https://www.google.com/maps/contrib/102003950333342264396/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjU_YCrKYVudsSXZ-rQ9xgL69GYDzFnYH-ECrnnbWWFuvAQQLErZyA=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2026-02-26T09:23:34.704391849Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205NlZDMWliM0pMZURsUWNrTnpRMnBHUTFacVdGRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205NlZDMWliM0pMZURsUWNrTnpRMnBHUTFacVdGRRAB!2m1!1s0x3442ab8ca6c41b4f:0xfe8ed6e23857cf50"
+                    },
+                    {
+                        "name":  "places/ChIJTxvEpoyrQjQRUM9XOOLWjv4/reviews/Ci9DQUlRQUNvZENodHljRjlvT210YVF6aHJWbkpEV1U5eVNXMVlXbXBCWlVaNllsRRAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "這家的espresso 是好喝的！\n酸甜苦平衡，入口滑順，油脂感厚實，餘韻綿長\n認真推薦各位咖啡人來喝喝看\n這家還是專門做義大利薄餅的店\n點了牛肉薄餅！\n芝麻葉配上超嫩的牛肉！好吃！\n甜點是蘋果派\n口感像是蓬鬆一點的磅蛋糕！\n非常棒！！",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "這家的espresso 是好喝的！\n酸甜苦平衡，入口滑順，油脂感厚實，餘韻綿長\n認真推薦各位咖啡人來喝喝看\n這家還是專門做義大利薄餅的店\n點了牛肉薄餅！\n芝麻葉配上超嫩的牛肉！好吃！\n甜點是蘋果派\n口感像是蓬鬆一點的磅蛋糕！\n非常棒！！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "kurt lin",
+                                                  "uri":  "https://www.google.com/maps/contrib/103378281696942841956/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUhHOA2Zma8Kp5DMPL7cwKdPR8xXQUIAkIhdnMY1m9JSaGFh-gR=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2026-02-21T10:34:27.479419662Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT210YVF6aHJWbkpEV1U5eVNXMVlXbXBCWlVaNllsRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT210YVF6aHJWbkpEV1U5eVNXMVlXbXBCWlVaNllsRRAB!2m1!1s0x3442ab8ca6c41b4f:0xfe8ed6e23857cf50"
+                    },
+                    {
+                        "name":  "places/ChIJTxvEpoyrQjQRUM9XOOLWjv4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pjdGJsaFVaMFpsZDA4NVlXbHRPVFIxT0RaelZuYxAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "蠻好吃的、而且很特別，喜歡牛肉口味的薄餅，我們坐在外面用餐很開心、然後店裡沒有提供水喔 ，所以水要的話在另外買",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "蠻好吃的、而且很特別，喜歡牛肉口味的薄餅，我們坐在外面用餐很開心、然後店裡沒有提供水喔 ，所以水要的話在另外買",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Alien Cat Lin",
+                                                  "uri":  "https://www.google.com/maps/contrib/111756917607243812612/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXDp-KRSXb0lpeuEoVPJ0ZVBsJNwCSbfCp-SeWUIeKclIl9cjfdRA=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2026-01-10T06:12:05.746557007Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pjdGJsaFVaMFpsZDA4NVlXbHRPVFIxT0RaelZuYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pjdGJsaFVaMFpsZDA4NVlXbHRPVFIxT0RaelZuYxAB!2m1!1s0x3442ab8ca6c41b4f:0xfe8ed6e23857cf50"
+                    },
+                    {
+                        "name":  "places/ChIJTxvEpoyrQjQRUM9XOOLWjv4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOS1YxbERXbUpIVVZoelgwSXRlVlJtVTNGd1ZsRRAB",
+                        "relativePublishTimeDescription":  "7 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "老闆人很nice～餐前酒很好喝😍\n有兩種基酒，我選老闆推薦的金巴利香甜酒(campari)，特色是比另一款苦一點點～\n很喜歡生火腿+芝麻葉的組合，非常經典！\n（看到評論說生火腿太鹹，但生火腿本來就是比較鹹XDD）\nCannoli也很好吃，完全是記憶中的味道🤤\n因為剛好會說英文，所以聊的很愉快！\n推薦給喜歡異國料理的人～\nA perfect place to enjoy authentic Italian cuisine. Everything’s delicious, and the owner is super friendly! Don’t miss the aperitivo!!!",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "老闆人很nice～餐前酒很好喝😍\n有兩種基酒，我選老闆推薦的金巴利香甜酒(campari)，特色是比另一款苦一點點～\n很喜歡生火腿+芝麻葉的組合，非常經典！\n（看到評論說生火腿太鹹，但生火腿本來就是比較鹹XDD）\nCannoli也很好吃，完全是記憶中的味道🤤\n因為剛好會說英文，所以聊的很愉快！\n推薦給喜歡異國料理的人～\nA perfect place to enjoy authentic Italian cuisine. Everything’s delicious, and the owner is super friendly! Don’t miss the aperitivo!!!",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Annie",
+                                                  "uri":  "https://www.google.com/maps/contrib/116053100560206429412/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjW24YwqStwgppBPu9-kSPLdUdSaTLqo9dQHQO8X2ZyhmqTvaCttkg=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2025-10-24T11:32:12.565534087Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOS1YxbERXbUpIVVZoelgwSXRlVlJtVTNGd1ZsRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOS1YxbERXbUpIVVZoelgwSXRlVlJtVTNGd1ZsRRAB!2m1!1s0x3442ab8ca6c41b4f:0xfe8ed6e23857cf50"
+                    },
+                    {
+                        "name":  "places/ChIJTxvEpoyrQjQRUM9XOOLWjv4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSWVNrbFBaekk1YTBKeFZHeEhZVUU1TWpjeVgxRRAB",
+                        "relativePublishTimeDescription":  "2 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "博餅好吃，餡料豐富，食材真材實料。Pizza是薄皮的，又脆又香。值得再訪",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "博餅好吃，餡料豐富，食材真材實料。Pizza是薄皮的，又脆又香。值得再訪",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "DC Liao",
+                                                  "uri":  "https://www.google.com/maps/contrib/117988064881114142205/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUYPtUIOfrX481kRaxZBrDUAXr2MDPBQ384XzosEIugAG3r-hEL=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2026-02-28T02:51:12.901064624Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSWVNrbFBaekk1YTBKeFZHeEhZVUU1TWpjeVgxRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSWVNrbFBaekk1YTBKeFZHeEhZVUU1TWpjeVgxRRAB!2m1!1s0x3442ab8ca6c41b4f:0xfe8ed6e23857cf50"
+                    }
+                ]
+}

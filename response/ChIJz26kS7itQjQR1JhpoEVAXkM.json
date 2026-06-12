@@ -1,0 +1,133 @@
+{
+  "id": "ChIJz26kS7itQjQR1JhpoEVAXkM",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 978 699 402",
+  "formattedAddress": "11449台灣臺北市內湖區港華里港華街127號",
+  "location": {
+    "latitude": 25.0839361,
+    "longitude": 121.57255219999998
+  },
+  "rating": 4.7,
+  "websiteUri": "https://www.facebook.com/Hao-TOAST-%E8%B1%AA%E5%90%90%E5%8F%B8-914219492288493/?modal=admin_todo_tour",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 141,
+  "displayName": {
+    "text": "Hao & TOAST 豪吐司",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJz26kS7itQjQR1JhpoEVAXkM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tjMVNVeDFMVzl1Y2t4NFF6SjBUa3hWUkUwek0yYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "店內空間很舒適，有各種有趣可愛的小擺飾小裝置；並有一側老闆老闆娘的選品，感覺是對生活要求，品質好的及有機的食材們，老闆也會來跟我們稍微介紹，還沒點餐就讓我對這間店充滿信心！\n餐點以蛋沙拉為主搭配肉品，風味都非常優秀；沒有煎台的配置讓店內也不會有油煙味，整體來說非常推薦！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店內空間很舒適，有各種有趣可愛的小擺飾小裝置；並有一側老闆老闆娘的選品，感覺是對生活要求，品質好的及有機的食材們，老闆也會來跟我們稍微介紹，還沒點餐就讓我對這間店充滿信心！\n餐點以蛋沙拉為主搭配肉品，風味都非常優秀；沒有煎台的配置讓店內也不會有油煙味，整體來說非常推薦！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Junyou Liu",
+        "uri": "https://www.google.com/maps/contrib/104330852447456510249/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUBaEck5vtPIWVrxeL-0DfJbaGobqN1431KvW3vmQrmNLPo1Sxh=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-29T07:49:47.822967938Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tjMVNVeDFMVzl1Y2t4NFF6SjBUa3hWUkUwek0yYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tjMVNVeDFMVzl1Y2t4NFF6SjBUa3hWUkUwek0yYxAB!2m1!1s0x3442adb84ba46ecf:0x435e4045a06998d4"
+    },
+    {
+      "name": "places/ChIJz26kS7itQjQR1JhpoEVAXkM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ObVVITkVTalZaTFdWRFVFNTNaVGN3T1VOcVRIYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 4,
+      "text": {
+        "text": "雖然空間不大，但客人多很安靜，內用氛圍很好。\n\n吐司很好吃，第一次吃的用叉燒當主餐的吐司，搭配蛋沙拉的組合挺不賴的\n\n紅茶有別於其他早餐店的好喝，可以調甜度，無糖就很香😊\n\n價格偏高，但品質也不賴。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "雖然空間不大，但客人多很安靜，內用氛圍很好。\n\n吐司很好吃，第一次吃的用叉燒當主餐的吐司，搭配蛋沙拉的組合挺不賴的\n\n紅茶有別於其他早餐店的好喝，可以調甜度，無糖就很香😊\n\n價格偏高，但品質也不賴。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "H. Yuan (阿谷)",
+        "uri": "https://www.google.com/maps/contrib/106020828943422194379/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXFQ01RqLEO5Bh3_ijns7Um_dh0wHKkaIlWsJkZZA1M8PJMHeFQZA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-08-25T12:39:33.308667797Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ObVVITkVTalZaTFdWRFVFNTNaVGN3T1VOcVRIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ObVVITkVTalZaTFdWRFVFNTNaVGN3T1VOcVRIYxAB!2m1!1s0x3442adb84ba46ecf:0x435e4045a06998d4"
+    },
+    {
+      "name": "places/ChIJz26kS7itQjQR1JhpoEVAXkM/reviews/ChdDSUhNMG9nS0VJQ0FnSURUX05XY19BRRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 3,
+      "text": {
+        "text": "5/2 午餐不知道吃什麼，朋友搜尋一下，剛好看到這家評價也滿高的，和朋友立刻開車來這裡，這家店剛好在內湖區麗山國小的對面，我想開在學校附近應該生意會很好，因為左右看只有這一家早餐店，其他的離學校也是有小距離，我今天點了豪吐司洋芋，有四種口味可選，花生/莓果/薯餅/黑豚鬆，我選的是黑豬肉肉鬆，朋友點的是日式厚切炙燒，店家幫忙切開有兩份，所以和朋友各交換一份吃，吐司是店家自己做的口感和味道都還不錯，原本想要買吐司，但因為家裡還有麵包，所以就沒有購買，這家店營業到下午兩點，這天來沒什麼客人只有一位應該是他們的熟客，店內也有賣其他產品有海鮮有茶包，店內簡約的裝潢還蠻舒服的，周邊停車可能需要找一下，下次有機會在這附近應該還會再來享用餐點。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "5/2 午餐不知道吃什麼，朋友搜尋一下，剛好看到這家評價也滿高的，和朋友立刻開車來這裡，這家店剛好在內湖區麗山國小的對面，我想開在學校附近應該生意會很好，因為左右看只有這一家早餐店，其他的離學校也是有小距離，我今天點了豪吐司洋芋，有四種口味可選，花生/莓果/薯餅/黑豚鬆，我選的是黑豬肉肉鬆，朋友點的是日式厚切炙燒，店家幫忙切開有兩份，所以和朋友各交換一份吃，吐司是店家自己做的口感和味道都還不錯，原本想要買吐司，但因為家裡還有麵包，所以就沒有購買，這家店營業到下午兩點，這天來沒什麼客人只有一位應該是他們的熟客，店內也有賣其他產品有海鮮有茶包，店內簡約的裝潢還蠻舒服的，周邊停車可能需要找一下，下次有機會在這附近應該還會再來享用餐點。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "jocelyn chiang",
+        "uri": "https://www.google.com/maps/contrib/108680124689188204251/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXASImc0by-IK0QxyIFBNNrTlM9D30V2ysjvjga_i7LVUqk54Kwqg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2024-05-23T11:32:36.836862Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURUX05XY19BRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURUX05XY19BRRAB!2m1!1s0x3442adb84ba46ecf:0x435e4045a06998d4"
+    },
+    {
+      "name": "places/ChIJz26kS7itQjQR1JhpoEVAXkM/reviews/ChdDSUhNMG9nS0VJQ0FnSUMwdzlXQWlRRRAB",
+      "relativePublishTimeDescription": "6 年前",
+      "rating": 5,
+      "text": {
+        "text": "卡拉雞吐司炸到酥脆，雞肉多汁，魚排吐司也是，現作的熱熱的吃非常美味！吐司柔軟，微微烤過之後外脆內軟，雖然很好吃但也不會搶了其他食材的鋒頭，價格算是非常平價，店內空間卻很舒適，看得出很多地方有巧思，很有特色！店內用的蛋是有雞蛋，還可以直接買，蜂蜜芥末醬也是用自家採集的蜂蜜，感覺的出老闆和老闆娘的用心，還有自製的很獨特的手沖咖啡架，老闆說未來會讓客人自己體驗手沖咖啡，非常期待",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "卡拉雞吐司炸到酥脆，雞肉多汁，魚排吐司也是，現作的熱熱的吃非常美味！吐司柔軟，微微烤過之後外脆內軟，雖然很好吃但也不會搶了其他食材的鋒頭，價格算是非常平價，店內空間卻很舒適，看得出很多地方有巧思，很有特色！店內用的蛋是有雞蛋，還可以直接買，蜂蜜芥末醬也是用自家採集的蜂蜜，感覺的出老闆和老闆娘的用心，還有自製的很獨特的手沖咖啡架，老闆說未來會讓客人自己體驗手沖咖啡，非常期待",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "菜子Love",
+        "uri": "https://www.google.com/maps/contrib/109672061355944693914/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUokWyieBxm8qG1Am_2ZP-toS5gMvtPrYms0qZRD-P5qmYIqkLsaA=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2019-10-08T16:09:56.955225Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMwdzlXQWlRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMwdzlXQWlRRRAB!2m1!1s0x3442adb84ba46ecf:0x435e4045a06998d4"
+    },
+    {
+      "name": "places/ChIJz26kS7itQjQR1JhpoEVAXkM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNlNi15ZzVBRRAB",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 4,
+      "text": {
+        "text": "平常我不太吃肉鬆夾吐司，但這邊的肉鬆蛋沙拉吐司真的很美味。\n老闆娘很會做生意，遇到熟客買得又多的那種會特別熱情，然後後面排隊的客人就有得等了😇\n店內賣的冷凍生、熟食：甜不辣、秋刀魚甘露煮、松阪豬、切片鱈魚等，品質真的不錯👍🏻\n但飲品就普通，尤其是茶類。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "平常我不太吃肉鬆夾吐司，但這邊的肉鬆蛋沙拉吐司真的很美味。\n老闆娘很會做生意，遇到熟客買得又多的那種會特別熱情，然後後面排隊的客人就有得等了😇\n店內賣的冷凍生、熟食：甜不辣、秋刀魚甘露煮、松阪豬、切片鱈魚等，品質真的不錯👍🏻\n但飲品就普通，尤其是茶類。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "V T",
+        "uri": "https://www.google.com/maps/contrib/108579990928351347798/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVGBHgelDsme2EyEcFth_CvSRFneBMXYpV6hwfTm0pZiLl3RhH6OA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2022-11-17T08:11:35.692088Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNlNi15ZzVBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNlNi15ZzVBRRAB!2m1!1s0x3442adb84ba46ecf:0x435e4045a06998d4"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

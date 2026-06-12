@@ -1,0 +1,133 @@
+{
+  "id": "ChIJu0xV5jCrQjQRUkI8yduOZ5Q",
+  "types": [
+    "coffee_shop",
+    "cafe",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "115台灣臺北市南港區中南里忠孝東路七段487巷5號",
+  "location": {
+    "latitude": 25.053151099999997,
+    "longitude": 121.61153139999998
+  },
+  "rating": 4.6,
+  "websiteUri": "https://www.instagram.com/lost.alley_cafe",
+  "userRatingCount": 350,
+  "displayName": {
+    "text": "陋巷咖啡廳",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJu0xV5jCrQjQRUkI8yduOZ5Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSWVVsbDVXbkpZV2pob09GVk9OR05sT1VreVprRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "提拉米蘇非常大人味\n酒味很濃\n鳳梨美式很像飲料\n順口好喝\n環境個人認為濕氣非常重\n尤其廁所\n牆壁也蠻多黑黑像發霉？\n肥嘟嘟橘貓相當可愛",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "提拉米蘇非常大人味\n酒味很濃\n鳳梨美式很像飲料\n順口好喝\n環境個人認為濕氣非常重\n尤其廁所\n牆壁也蠻多黑黑像發霉？\n肥嘟嘟橘貓相當可愛",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Mavis Huang",
+        "uri": "https://www.google.com/maps/contrib/102209424227268093304/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZrwqQ5Y5TfeegwiqDdxpAstn_TIyHKyusjcK7jGoTDy4corU4=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-09T11:44:51.389623243Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSWVVsbDVXbkpZV2pob09GVk9OR05sT1VreVprRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSWVVsbDVXbkpZV2pob09GVk9OR05sT1VreVprRRAB!2m1!1s0x3442ab30e6554cbb:0x94678edbc93c4252"
+    },
+    {
+      "name": "places/ChIJu0xV5jCrQjQRUkI8yduOZ5Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GaWFqUnJTbG96Vm5kaGJtNUxhV28yY1dRdFRVRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "南港車站附近\n我很喜歡植栽，這家店直接被綠葉包圍了，很享受住在裡面的感覺！\n\n我是平日過來的，晚上幾乎八成滿，而且還會有人直接來外帶甜點喔！\n\n這邊只能收現金\n許願可以有無接觸支付\n\n飲料都蠻好喝的，而且很雅致\n提拉米蘇完全不會讓你失望🥰讚\n\n店內的裝潢很有自己的巧思，很有想法的店家！這家店我是蠻願意常來的🥰",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "南港車站附近\n我很喜歡植栽，這家店直接被綠葉包圍了，很享受住在裡面的感覺！\n\n我是平日過來的，晚上幾乎八成滿，而且還會有人直接來外帶甜點喔！\n\n這邊只能收現金\n許願可以有無接觸支付\n\n飲料都蠻好喝的，而且很雅致\n提拉米蘇完全不會讓你失望🥰讚\n\n店內的裝潢很有自己的巧思，很有想法的店家！這家店我是蠻願意常來的🥰",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "美喵",
+        "uri": "https://www.google.com/maps/contrib/107572858226558097119/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVwz6gxzrJMlPf5s5UsG5tvn7wAXiicvzygulcEVvKORSTrlh3m=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-04T17:12:02.474560767Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GaWFqUnJTbG96Vm5kaGJtNUxhV28yY1dRdFRVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GaWFqUnJTbG96Vm5kaGJtNUxhV28yY1dRdFRVRRAB!2m1!1s0x3442ab30e6554cbb:0x94678edbc93c4252"
+    },
+    {
+      "name": "places/ChIJu0xV5jCrQjQRUkI8yduOZ5Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5Rk9VaFdaVnBxVld4ek5XZHdSRWx1YldjM1RYYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "飲品非常美味，店內有不同風格的座位可以選擇，有可愛黏人的貓咪及很有戲的烏龜😍😍離南港捷運站步行大概5分鐘，整家店外觀很像熱帶雨林💕",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "飲品非常美味，店內有不同風格的座位可以選擇，有可愛黏人的貓咪及很有戲的烏龜😍😍離南港捷運站步行大概5分鐘，整家店外觀很像熱帶雨林💕",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "小風兒（小風兒）",
+        "uri": "https://www.google.com/maps/contrib/103040240969989531565/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0VaaU0fS9NkftutH7OSMRvAHRIXqGMPThMrd2KWrsd92HwepE=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-02T15:00:52.846024245Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5Rk9VaFdaVnBxVld4ek5XZHdSRWx1YldjM1RYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5Rk9VaFdaVnBxVld4ek5XZHdSRWx1YldjM1RYYxAB!2m1!1s0x3442ab30e6554cbb:0x94678edbc93c4252"
+    },
+    {
+      "name": "places/ChIJu0xV5jCrQjQRUkI8yduOZ5Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pndFZqa3dhVEJsT1RkdVJGOXphbkJLTWtJelFuYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 3,
+      "text": {
+        "text": "環境乾淨舒適，氣氛很安靜🌿\n甜點種類多，泰式千層扎實甜度適中，提拉米蘇酒味重蛋糕體很濕，布丁口感也是偏紮實吃得出蛋香味，甜點的部分個人覺得很普通，另外點了熱美式，熱鍋煮奶茶奶泡綿密很好喝。\n營業到晚上10點有賣一些酒，還有看到一隻可愛療癒的橘貓🐈🧡",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境乾淨舒適，氣氛很安靜🌿\n甜點種類多，泰式千層扎實甜度適中，提拉米蘇酒味重蛋糕體很濕，布丁口感也是偏紮實吃得出蛋香味，甜點的部分個人覺得很普通，另外點了熱美式，熱鍋煮奶茶奶泡綿密很好喝。\n營業到晚上10點有賣一些酒，還有看到一隻可愛療癒的橘貓🐈🧡",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "貓咪77",
+        "uri": "https://www.google.com/maps/contrib/117555446709402280104/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWAqBA5k_MRtuncPNMK8tftQnzdq4TjnzKoRzdbh0AvzMwQqeQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-20T00:32:20.380603732Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pndFZqa3dhVEJsT1RkdVJGOXphbkJLTWtJelFuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pndFZqa3dhVEJsT1RkdVJGOXphbkJLTWtJelFuYxAB!2m1!1s0x3442ab30e6554cbb:0x94678edbc93c4252"
+    },
+    {
+      "name": "places/ChIJu0xV5jCrQjQRUkI8yduOZ5Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT205clFTMVZkbmx0UjFkdk1EUlFUV0ZJWmxveFEwRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "二訪南港車站附近的咖啡廳～\n第一次來是平日來，這次是週末下午兩點左右來，平日的人潮相較假日真的少很多！\n不過無論來訪的客人有多少，兩次經驗下來環境都蠻安靜的～只是客滿的時候長桌會坐滿有時候出入會需要起身讓道有些不方便（對我而言是滿不方便的所以下次會挑平日下午來）\n兩次都點了果汁的美式還有千層蛋糕，推柳橙咖啡🦵🦵鐵觀音千層也很好吃！口感很綿密～第二次是點花生海鹽千層（因為想吃千層但沒有想要的口味嗚嗚）也不錯但是就是中規中矩。\n\n貓咪可愛！很親人會突然跑到桌上（其實有點怕貓第一次嚇得要死，但牠真的是很友善的貓貓）\n環境佈置得很用心～是植物系咖啡廳！會再回訪！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "二訪南港車站附近的咖啡廳～\n第一次來是平日來，這次是週末下午兩點左右來，平日的人潮相較假日真的少很多！\n不過無論來訪的客人有多少，兩次經驗下來環境都蠻安靜的～只是客滿的時候長桌會坐滿有時候出入會需要起身讓道有些不方便（對我而言是滿不方便的所以下次會挑平日下午來）\n兩次都點了果汁的美式還有千層蛋糕，推柳橙咖啡🦵🦵鐵觀音千層也很好吃！口感很綿密～第二次是點花生海鹽千層（因為想吃千層但沒有想要的口味嗚嗚）也不錯但是就是中規中矩。\n\n貓咪可愛！很親人會突然跑到桌上（其實有點怕貓第一次嚇得要死，但牠真的是很友善的貓貓）\n環境佈置得很用心～是植物系咖啡廳！會再回訪！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "奕妤",
+        "uri": "https://www.google.com/maps/contrib/108803084049194217379/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXPLlUuZaMNYROT9talCk-qYV7kpFtA1GDzgJjR5kcJqd6Sot6d=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-13T09:13:29.982115005Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205clFTMVZkbmx0UjFkdk1EUlFUV0ZJWmxveFEwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205clFTMVZkbmx0UjFkdk1EUlFUV0ZJWmxveFEwRRAB!2m1!1s0x3442ab30e6554cbb:0x94678edbc93c4252"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": false
+}

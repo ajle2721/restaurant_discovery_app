@@ -1,0 +1,131 @@
+﻿{
+    "id":  "ChIJ-0pMhzmrQjQRFWSqu3KbmAk",
+    "types":  [
+                  "brunch_restaurant",
+                  "breakfast_restaurant",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 981 468 074",
+    "formattedAddress":  "105台灣臺北市松山區安平里寶清街105巷23號3樓",
+    "location":  {
+                     "latitude":  25.053655,
+                     "longitude":  121.56896209999998
+                 },
+    "rating":  4.9,
+    "websiteUri":  "https://www.instagram.com/wooliyummy/.",
+    "userRatingCount":  54,
+    "displayName":  {
+                        "text":  "有妳的地方｜預約制｜請勿按電鈴",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJ-0pMhzmrQjQRFWSqu3KbmAk/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Sa2RHVk1XVEJuTlU1clpXazBWRWM0V1VndFRtYxAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "在google map上亂晃發現的寶藏店，環境很舒適，音樂很對味，小狗好可愛（那個小眼神(⁎⁍̴̛ᴗ⁍̴̛⁎)\n來之前有先研究留言，很多人推薦粉漿蛋餅與法式吐司，這次點了日式燒肉粉漿蛋餅、明太子鮪魚三明治、蘋果肉桂法式吐司、櫛瓜蘑菇起司烘蛋、wooli紅茶及紅玉紅茶。\n都好好吃欸好誇張，法式吐司私以為能榮登松山區最好吃法式吐司，鬆軟綿密充滿奶香，不會太甜底下還有些微焦脆；粉漿蛋餅那個恰恰的靈魂也很到位，連鮪魚三明治裡面的小番茄都煮的好好吃，每份餐點味道、口感，調味層次都感受到老闆的用心，必須回訪！",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "在google map上亂晃發現的寶藏店，環境很舒適，音樂很對味，小狗好可愛（那個小眼神(⁎⁍̴̛ᴗ⁍̴̛⁎)\n來之前有先研究留言，很多人推薦粉漿蛋餅與法式吐司，這次點了日式燒肉粉漿蛋餅、明太子鮪魚三明治、蘋果肉桂法式吐司、櫛瓜蘑菇起司烘蛋、wooli紅茶及紅玉紅茶。\n都好好吃欸好誇張，法式吐司私以為能榮登松山區最好吃法式吐司，鬆軟綿密充滿奶香，不會太甜底下還有些微焦脆；粉漿蛋餅那個恰恰的靈魂也很到位，連鮪魚三明治裡面的小番茄都煮的好好吃，每份餐點味道、口感，調味層次都感受到老闆的用心，必須回訪！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Yen-tsu Liu",
+                                                  "uri":  "https://www.google.com/maps/contrib/106309687699907944724/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWy7yKQXj1z5Ah1AnOQgUS59MyqwwuxibMbDDPHxt07Nk58KAcsAw=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2026-01-17T02:04:08.518009048Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Sa2RHVk1XVEJuTlU1clpXazBWRWM0V1VndFRtYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Sa2RHVk1XVEJuTlU1clpXazBWRWM0V1VndFRtYxAB!2m1!1s0x3442ab39874c4afb:0x9989b72bbaa6415"
+                    },
+                    {
+                        "name":  "places/ChIJ-0pMhzmrQjQRFWSqu3KbmAk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5SGIydzBUV3RZTXpOaVRFeDBORXhwVm1wb1FVRRAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "需提前用line預約，假日早上臨時傳訊息也能預約到位置。\n用餐環境很舒適，老闆的品味很讚，從空間佈置、擺設到音樂都很喜歡🤩\n起司粉漿蛋餅好吃，用料扎實，吃起來很滿足～ 梅子美式一開始喝味道稍淡，喝到一半左右梅子泡久了味道會慢慢出來。\n能感受到老闆的用心，會關心客人的感受與詢問回饋，很用心在經營！還有兩隻狗狗超可愛，很會撒嬌❤️",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "需提前用line預約，假日早上臨時傳訊息也能預約到位置。\n用餐環境很舒適，老闆的品味很讚，從空間佈置、擺設到音樂都很喜歡🤩\n起司粉漿蛋餅好吃，用料扎實，吃起來很滿足～ 梅子美式一開始喝味道稍淡，喝到一半左右梅子泡久了味道會慢慢出來。\n能感受到老闆的用心，會關心客人的感受與詢問回饋，很用心在經營！還有兩隻狗狗超可愛，很會撒嬌❤️",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "meng",
+                                                  "uri":  "https://www.google.com/maps/contrib/117926927395839565354/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVFy8sUy_Ro9rknnuIKALq2TA_LLuarNkZkDmKtbi_ERIctOjmA=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-12-21T13:02:04.469641354Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5SGIydzBUV3RZTXpOaVRFeDBORXhwVm1wb1FVRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5SGIydzBUV3RZTXpOaVRFeDBORXhwVm1wb1FVRRAB!2m1!1s0x3442ab39874c4afb:0x9989b72bbaa6415"
+                    },
+                    {
+                        "name":  "places/ChIJ-0pMhzmrQjQRFWSqu3KbmAk/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oc1drNVNPSGxvZUhCcWNXTk1ZVmxIUkdSRk1uYxAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "第一次吃到這麼好吃的粉漿蛋餅，外酥內軟配東泉辣椒醬超搭，吐司也好好吃，帥老闆一人作業很厲害",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "第一次吃到這麼好吃的粉漿蛋餅，外酥內軟配東泉辣椒醬超搭，吐司也好好吃，帥老闆一人作業很厲害",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "R L",
+                                                  "uri":  "https://www.google.com/maps/contrib/107961114288191765517/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocLdNnLm0T7Llh4bPuIigM6G9HJaGAbgsGe65ZT69sMEzamhYg=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-11-29T12:02:22.179909654Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oc1drNVNPSGxvZUhCcWNXTk1ZVmxIUkdSRk1uYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oc1drNVNPSGxvZUhCcWNXTk1ZVmxIUkdSRk1uYxAB!2m1!1s0x3442ab39874c4afb:0x9989b72bbaa6415"
+                    },
+                    {
+                        "name":  "places/ChIJ-0pMhzmrQjQRFWSqu3KbmAk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKV1MxcHdMVGRCY1haWFJuUkhNalZtU1UwMVExRRAB",
+                        "relativePublishTimeDescription":  "6 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "粉漿蛋餅和法式吐司都好吃，店裡環境乾淨舒服，老闆也很親切，唯獨缺點是一人作業等比較久（下次預約時要先詢問老闆預估等待時間），總而言之希望是不要被太多人發現的寶藏早餐店～",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "粉漿蛋餅和法式吐司都好吃，店裡環境乾淨舒服，老闆也很親切，唯獨缺點是一人作業等比較久（下次預約時要先詢問老闆預估等待時間），總而言之希望是不要被太多人發現的寶藏早餐店～",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Chen Yeh",
+                                                  "uri":  "https://www.google.com/maps/contrib/117921234459771220271/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWMMim_CUWW1EKSZ6FsMrU_utD0lfp0G00ouY5GmVgNR2x1uSYCLw=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-11-23T07:17:53.973607018Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKV1MxcHdMVGRCY1haWFJuUkhNalZtU1UwMVExRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKV1MxcHdMVGRCY1haWFJuUkhNalZtU1UwMVExRRAB!2m1!1s0x3442ab39874c4afb:0x9989b72bbaa6415"
+                    },
+                    {
+                        "name":  "places/ChIJ-0pMhzmrQjQRFWSqu3KbmAk/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGMlkwWlBYMkpvZUY5eVUzSTNXa0pvTVRoVVRGRRAB",
+                        "relativePublishTimeDescription":  "9 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "狗狗非常可愛\n🥞三重香法_肉鬆嫩蛋 $120\n法式吐司です。很香欸！這個是今天點的餐點裡面最喜歡的！泡過蛋液的麵包，口感非常鬆軟、又帶一點Q，奶香味很香，特別喜歡邊邊的部分，焦脆、奶油香氣特別明顯。\n因為本體的部分太讓人驚艷，配料肉鬆跟嫩蛋反而沒有特別感受，如果喜歡肉鬆再點這個口味就好，下次我應該會想試試花生或是肉桂口味。（不過老闆說下個月菜單就會大變動了）\n\n🥚恰恰粉漿脆皮蛋餅_原味 $65\n是很脆又帶焦香的粉漿蛋餅，外皮酥脆、裡面粉漿是有厚度的，可以吃到有存在感的粉漿內餡？（或者應該說粉漿做成的內餡？有差嗎？🤣）稍微有點油感，加點東泉會比較好。\n\n🥔WOOLI經典_風琴馬鈴薯 $110\n在點餐的時候問老闆雲端情人是什麼，老闆說就是好看但是他自己沒有很喜歡的東西🤣我就是喜歡這麼真實的老闆，所以接下來我又問他那風琴馬鈴薯如何？老闆又多了經典名句：「就是馬鈴薯。」，真的就是馬鈴薯，詳細一點解釋的話就是：稍微帶點香草調味的馬鈴薯，帶有一點脆感，沒有烤的很軟的馬鈴薯。\n\n🥗招牌蛋沙拉 $70\n蛋沙拉蠻好吃的，調味很剛好，不會油膩、蛋感十足，還拌有馬鈴薯塊（這裡面的馬鈴薯才是我的菜🤣）",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "狗狗非常可愛\n🥞三重香法_肉鬆嫩蛋 $120\n法式吐司です。很香欸！這個是今天點的餐點裡面最喜歡的！泡過蛋液的麵包，口感非常鬆軟、又帶一點Q，奶香味很香，特別喜歡邊邊的部分，焦脆、奶油香氣特別明顯。\n因為本體的部分太讓人驚艷，配料肉鬆跟嫩蛋反而沒有特別感受，如果喜歡肉鬆再點這個口味就好，下次我應該會想試試花生或是肉桂口味。（不過老闆說下個月菜單就會大變動了）\n\n🥚恰恰粉漿脆皮蛋餅_原味 $65\n是很脆又帶焦香的粉漿蛋餅，外皮酥脆、裡面粉漿是有厚度的，可以吃到有存在感的粉漿內餡？（或者應該說粉漿做成的內餡？有差嗎？🤣）稍微有點油感，加點東泉會比較好。\n\n🥔WOOLI經典_風琴馬鈴薯 $110\n在點餐的時候問老闆雲端情人是什麼，老闆說就是好看但是他自己沒有很喜歡的東西🤣我就是喜歡這麼真實的老闆，所以接下來我又問他那風琴馬鈴薯如何？老闆又多了經典名句：「就是馬鈴薯。」，真的就是馬鈴薯，詳細一點解釋的話就是：稍微帶點香草調味的馬鈴薯，帶有一點脆感，沒有烤的很軟的馬鈴薯。\n\n🥗招牌蛋沙拉 $70\n蛋沙拉蠻好吃的，調味很剛好，不會油膩、蛋感十足，還拌有馬鈴薯塊（這裡面的馬鈴薯才是我的菜🤣）",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "傑尼",
+                                                  "uri":  "https://www.google.com/maps/contrib/111287845272107683312/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWDYrrHRNJbVBGUWICZMlokEXKv5f5FYjXy65fi82OAE7Q1SOVu=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-08-02T09:27:45.351578055Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGMlkwWlBYMkpvZUY5eVUzSTNXa0pvTVRoVVRGRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGMlkwWlBYMkpvZUY5eVUzSTNXa0pvTVRoVVRGRRAB!2m1!1s0x3442ab39874c4afb:0x9989b72bbaa6415"
+                    }
+                ]
+}

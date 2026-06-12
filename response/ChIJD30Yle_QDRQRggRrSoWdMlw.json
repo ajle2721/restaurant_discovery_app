@@ -1,0 +1,131 @@
+{
+  "id": "ChIJD30Yle_QDRQRggRrSoWdMlw",
+  "types": [
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2523 8895",
+  "formattedAddress": "10491台灣臺北市中山區中庄里民生東路二段115巷38號",
+  "location": {
+    "latitude": 25.059828399999997,
+    "longitude": 121.53155729999999
+  },
+  "rating": 4.3,
+  "userRatingCount": 214,
+  "displayName": {
+    "text": "御壽司屋",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJD30Yle_QDRQRggRrSoWdMlw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ORU56aFlWbXRaVkhoSVNrNWxibGwwWTBaRGVHYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "好溫馨的店，茶跟味噌湯都自取但品質不錯。\n點了生魚片定食（$320）+山藥蛋（$160），吃到好飽好飽，我已經很長時間都不想吃生魚片了但今天覺得好吃好吃😚",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "好溫馨的店，茶跟味噌湯都自取但品質不錯。\n點了生魚片定食（$320）+山藥蛋（$160），吃到好飽好飽，我已經很長時間都不想吃生魚片了但今天覺得好吃好吃😚",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "米蘭Milan",
+        "uri": "https://www.google.com/maps/contrib/107217290052727119295/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW9Avp4KGmKmBfJtTVA3H0ffTYYP6rFJ_lJ9wMVIudrcoEMXOcg=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-07T11:42:51.156714782Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ORU56aFlWbXRaVkhoSVNrNWxibGwwWTBaRGVHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ORU56aFlWbXRaVkhoSVNrNWxibGwwWTBaRGVHYxAB!2m1!1s0x140dd0ef95187d0f:0x5c329d854a6b0482"
+    },
+    {
+      "name": "places/ChIJD30Yle_QDRQRggRrSoWdMlw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWVVpVaFhWRXRIVVhWSWJsVnJMVzFQTURJelVsRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 4,
+      "text": {
+        "text": "開在公司後面的日料店，看起來在地很久了，老闆夫妻倆經營，這次點了烤雞腿定食，店內熱麥茶跟紫菜味增湯可無限享用，定食有附茶碗蒸跟涼拌牛蒡跟醃菜，基本上算平價，想到可以來吃，不過店內冷氣不強，天氣太熱就先緩緩，天涼再常來。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "開在公司後面的日料店，看起來在地很久了，老闆夫妻倆經營，這次點了烤雞腿定食，店內熱麥茶跟紫菜味增湯可無限享用，定食有附茶碗蒸跟涼拌牛蒡跟醃菜，基本上算平價，想到可以來吃，不過店內冷氣不強，天氣太熱就先緩緩，天涼再常來。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "帶胃求嚐",
+        "uri": "https://www.google.com/maps/contrib/111004145261148695095/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXdFlICKh5UkVuciEt6ZBtCrMV1hKPtmQ1sav-HfkgeC6uzh-y0=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-09-08T05:24:34.807293611Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWVVpVaFhWRXRIVVhWSWJsVnJMVzFQTURJelVsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWVVpVaFhWRXRIVVhWSWJsVnJMVzFQTURJelVsRRAB!2m1!1s0x140dd0ef95187d0f:0x5c329d854a6b0482"
+    },
+    {
+      "name": "places/ChIJD30Yle_QDRQRggRrSoWdMlw/reviews/ChZDSUhNMG9nS0VJQ0FnSURiNllYbUVnEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "位於松江巿場旁小巷的日料店，門面、裝潢都不起眼，但食物好吃、食材新鮮、味噌湯免費喝到飽，還是好喝的那種。以食物品質來看，價位相對實惠，建議路過可以來試試。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "位於松江巿場旁小巷的日料店，門面、裝潢都不起眼，但食物好吃、食材新鮮、味噌湯免費喝到飽，還是好喝的那種。以食物品質來看，價位相對實惠，建議路過可以來試試。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "nicky tan",
+        "uri": "https://www.google.com/maps/contrib/106246233023563899644/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLtuKatGaU53SWeUElBCFP6epu4fVbTNd4VOU2Ko1zAbc8izA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2024-08-07T01:23:36.720376Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURiNllYbUVnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURiNllYbUVnEAE!2m1!1s0x140dd0ef95187d0f:0x5c329d854a6b0482"
+    },
+    {
+      "name": "places/ChIJD30Yle_QDRQRggRrSoWdMlw/reviews/ChZDSUhNMG9nS0VJQ0FnSUM3eDhlUEpBEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "平價的日式料理，非常好吃，老闆、老闆娘都很客氣，味增海帶芽湯喝到飽、白飯不夠可以告知老闆、老闆娘，有機會，會再回訪～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "平價的日式料理，非常好吃，老闆、老闆娘都很客氣，味增海帶芽湯喝到飽、白飯不夠可以告知老闆、老闆娘，有機會，會再回訪～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "山丘上的捕風人（山丘上的捕風人）",
+        "uri": "https://www.google.com/maps/contrib/111906483123360234483/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI6NjNXsdJmsxfnVjFZPrrbvx_D3I_sIjgbYAZznZlwuNkD_DI=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2024-08-18T15:25:12.974627Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM3eDhlUEpBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM3eDhlUEpBEAE!2m1!1s0x140dd0ef95187d0f:0x5c329d854a6b0482"
+    },
+    {
+      "name": "places/ChIJD30Yle_QDRQRggRrSoWdMlw/reviews/ChdDSUhNMG9nS0VJQ0FnSUROaDVhQmlRRRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 4,
+      "text": {
+        "text": "2023.09\n\n親子丼、炸天婦羅都很美味，有味噌湯和熱茶自取。是一個人也能來品嚐的家庭日式餐廳。\n\n東西好吃，願意回訪🙂",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2023.09\n\n親子丼、炸天婦羅都很美味，有味噌湯和熱茶自取。是一個人也能來品嚐的家庭日式餐廳。\n\n東西好吃，願意回訪🙂",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "溫在銘",
+        "uri": "https://www.google.com/maps/contrib/115481622274315605752/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXfPSMDq9YswmiYP7ovtplhnaM60y7_WJlcOngOLw9Q-42yDmk=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2024-01-26T15:33:07.694866Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUROaDVhQmlRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUROaDVhQmlRRRAB!2m1!1s0x140dd0ef95187d0f:0x5c329d854a6b0482"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

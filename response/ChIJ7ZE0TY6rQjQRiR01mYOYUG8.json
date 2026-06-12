@@ -1,0 +1,132 @@
+{
+  "id": "ChIJ7ZE0TY6rQjQRiR01mYOYUG8",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2346 0028",
+  "formattedAddress": "110台灣臺北市信義區大道里中坡南路34號",
+  "location": {
+    "latitude": 25.0429061,
+    "longitude": 121.5832392
+  },
+  "rating": 4.4,
+  "websiteUri": "https://www.facebook.com/JKTaipei/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 874,
+  "displayName": {
+    "text": "喬叔廚房 JOE’S Kitchen Taipei",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ7ZE0TY6rQjQRiR01mYOYUG8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CeVkzbEpVWE5oWXpaelIzaE9ablp2U1VwdGVsRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "門口停機車方便\n捷運也可以方便抵達\n烤雞超級好吃醃製入味份量足夠\n自製麵包外酥內軟搭配橄欖油醋很棒\n推！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "門口停機車方便\n捷運也可以方便抵達\n烤雞超級好吃醃製入味份量足夠\n自製麵包外酥內軟搭配橄欖油醋很棒\n推！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "NKnick Novis",
+        "uri": "https://www.google.com/maps/contrib/104686000209488295831/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWxeKHwMWzZ0Uvk9u4r4xO5g3fW0rDUptuWHT1vtrhtdfApyQv1=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-15T04:13:15.419288949Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CeVkzbEpVWE5oWXpaelIzaE9ablp2U1VwdGVsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CeVkzbEpVWE5oWXpaelIzaE9ablp2U1VwdGVsRRAB!2m1!1s0x3442ab8e4d3491ed:0x6f50988399351d89"
+    },
+    {
+      "name": "places/ChIJ7ZE0TY6rQjQRiR01mYOYUG8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCeFpVMWFVWGxGZURodVlsRlVlbk5PTFdOcWJYYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "經過中坡南路時被裝潢吸引進來的店。下午兩三點這種尷尬時段有營業很加分，主打美式餐點，口味有中上水準。最驚喜的是週末晚上有駐唱歌手，現場聽歌氣氛很好（還有 FB 直播），是個很適合週末放鬆、享受美食音樂的好地方。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "經過中坡南路時被裝潢吸引進來的店。下午兩三點這種尷尬時段有營業很加分，主打美式餐點，口味有中上水準。最驚喜的是週末晚上有駐唱歌手，現場聽歌氣氛很好（還有 FB 直播），是個很適合週末放鬆、享受美食音樂的好地方。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "謝roy",
+        "uri": "https://www.google.com/maps/contrib/101544380297737536195/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVTlHSXy2-NHOXfplNe9FsaLgUjKmM-EOKUKxDxk8A_jdw3iTs=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-03T04:24:30.946166379Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCeFpVMWFVWGxGZURodVlsRlVlbk5PTFdOcWJYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCeFpVMWFVWGxGZURodVlsRlVlbk5PTFdOcWJYYxAB!2m1!1s0x3442ab8e4d3491ed:0x6f50988399351d89"
+    },
+    {
+      "name": "places/ChIJ7ZE0TY6rQjQRiR01mYOYUG8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOdE9USjVNa2hRU25CdWVHcFZWMGhWZWpSNE0yYxAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 5,
+      "text": {
+        "text": "美式餐廳，沒見到喬叔，用完餐後的疑問是，這麼間餐廳，怎麼會開在中坡南路，看情況生意好像還不錯，顯然，只要各項要件合顧客口味，開在哪都ㄧ樣！\n餐廳有1、2樓，像美式老派餐廳，點了匈牙利牛肉（google前輩推薦）=398元+南瓜湯=93元+5%稅金=25元+++=526元。\n我是冲著匈牙利燉牛肉去的，由於早年曾在匈牙利吃過燉牛肉湯，那美味至今念念不忘，看到有Google前輩說，喬叔的匈牙利燉牛肉夠味，不禁含著口水前去一試，結論就是「不虛此行」、「名不虛傳」！如果硬要提它的特色，那就是那微辣的蕃茄醬汁，配著特製的麵包與火侯軟硬度剛好的牛肉塊，有嚼感又味美而且量充分。\n另他家的麵包，也勘稱一絕，我都吃不下了，服務生勸我打包帶走，平時我是不會要的，但這兩塊「招牌麵包」，我不能不帶走，其實帶回辦公司，還沒等著回家，就忍不住吃完了。\n氣氛僅給3⭐️，是現場有點零亂，可能是那演唱檯的堆積，這家餐廳周6、日有現場演唱。\n餐廳的位置在玉成公園中坡南路門斜對面，玉成公園有地下停車場🅿️。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "美式餐廳，沒見到喬叔，用完餐後的疑問是，這麼間餐廳，怎麼會開在中坡南路，看情況生意好像還不錯，顯然，只要各項要件合顧客口味，開在哪都ㄧ樣！\n餐廳有1、2樓，像美式老派餐廳，點了匈牙利牛肉（google前輩推薦）=398元+南瓜湯=93元+5%稅金=25元+++=526元。\n我是冲著匈牙利燉牛肉去的，由於早年曾在匈牙利吃過燉牛肉湯，那美味至今念念不忘，看到有Google前輩說，喬叔的匈牙利燉牛肉夠味，不禁含著口水前去一試，結論就是「不虛此行」、「名不虛傳」！如果硬要提它的特色，那就是那微辣的蕃茄醬汁，配著特製的麵包與火侯軟硬度剛好的牛肉塊，有嚼感又味美而且量充分。\n另他家的麵包，也勘稱一絕，我都吃不下了，服務生勸我打包帶走，平時我是不會要的，但這兩塊「招牌麵包」，我不能不帶走，其實帶回辦公司，還沒等著回家，就忍不住吃完了。\n氣氛僅給3⭐️，是現場有點零亂，可能是那演唱檯的堆積，這家餐廳周6、日有現場演唱。\n餐廳的位置在玉成公園中坡南路門斜對面，玉成公園有地下停車場🅿️。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "KING (第10級在地嚮導)",
+        "uri": "https://www.google.com/maps/contrib/109750155652914128045/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKtnNaC96pwKQ4ttcOAEx_lXrfkHJAzM2jYWMeiMxH_m3evWw=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-07-29T13:48:01.907062329Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOdE9USjVNa2hRU25CdWVHcFZWMGhWZWpSNE0yYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOdE9USjVNa2hRU25CdWVHcFZWMGhWZWpSNE0yYxAB!2m1!1s0x3442ab8e4d3491ed:0x6f50988399351d89"
+    },
+    {
+      "name": "places/ChIJ7ZE0TY6rQjQRiR01mYOYUG8/reviews/ChdDSUhNMG9nS0VJQ0FnTUNJbzRmc29BRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "這次造訪後山埤的「喬叔廚房」，整體用餐體驗相當滿意。這次點了多道菜色，像是香酥炸雞、焗烤通心粉、炸雞咖哩飯、比薩薄餅、香煎魚排等，每一道都色香味俱全，擺盤用心、口味溫潤，讓人感受到料理背後的誠意。特別推薦牛肉燉菜與玉米濃湯，濃郁而不膩，搭配手工麵包很對味。\n\n讓人感動的是店家對親子客人的貼心安排，我們有帶小朋友同行，店員主動帶我們到二樓寬敞的空間，讓孩子可以自在地用餐與活動，大大提升了用餐的舒適感。\n\n餐廳地點就在捷運後山埤站附近，步行約 3 分鐘，交通非常方便。不論是家庭聚餐、朋友小聚還是單純想吃點溫暖的家常料理，「喬叔廚房」都是值得推薦的一站！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這次造訪後山埤的「喬叔廚房」，整體用餐體驗相當滿意。這次點了多道菜色，像是香酥炸雞、焗烤通心粉、炸雞咖哩飯、比薩薄餅、香煎魚排等，每一道都色香味俱全，擺盤用心、口味溫潤，讓人感受到料理背後的誠意。特別推薦牛肉燉菜與玉米濃湯，濃郁而不膩，搭配手工麵包很對味。\n\n讓人感動的是店家對親子客人的貼心安排，我們有帶小朋友同行，店員主動帶我們到二樓寬敞的空間，讓孩子可以自在地用餐與活動，大大提升了用餐的舒適感。\n\n餐廳地點就在捷運後山埤站附近，步行約 3 分鐘，交通非常方便。不論是家庭聚餐、朋友小聚還是單純想吃點溫暖的家常料理，「喬叔廚房」都是值得推薦的一站！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "eman Shiau",
+        "uri": "https://www.google.com/maps/contrib/117885138318936053341/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJE2X5KGMdcS838DimHjrYNX13fV3Lro4jwuO__ON6B_EFOYQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-04-04T10:22:03.328041Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNJbzRmc29BRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNJbzRmc29BRRAB!2m1!1s0x3442ab8e4d3491ed:0x6f50988399351d89"
+    },
+    {
+      "name": "places/ChIJ7ZE0TY6rQjQRiR01mYOYUG8/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnOEpUZWVnEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "牛小排的醃醬鹹甜鹹甜，肉質有嚼勁，還不錯，紅胡椒醬怕不適應有請它另外放，是很特別的味道，有薯泥、烤蔬菜等，均衡一下。\n\n焗烤海鮮白醬飯口味不錯，不膩口，蝦子甜又彈很好吃，焗烤起司蠻多的。\n\n兩個人都點了當日濃湯，為南瓜濃湯有點份量，微甜，有飽足感，附上的蒜味麵包酥軟適中👍。\n\n炸鱈魚兩片蠻大蠻厚的。\n\n炸雞翅很優秀❤️，3小翅3小腿，但實在太飽，吃了一兩隻，剩下打包。\n\n蘋果熱紅茶解膩，櫃檯有熱水可自助回沖。\n\n用餐環境很不錯，服務周到，上菜很快，平日晚上6:00去的不用訂位，不擁擠，舒適。\n\n但兩個人點炸物吃有點太飽了，應該可以再多找一些人來share。\n\n主餐都是單點沒有套餐，但可以單點選擇也較自由。兩個人1800元，整體價位不算非常便宜，但口味及口感都很好故以餐點的品質來說也不算貴。有細扁麵看起來很不錯但這次沒有吃到，應該有機會還可以再訪。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "牛小排的醃醬鹹甜鹹甜，肉質有嚼勁，還不錯，紅胡椒醬怕不適應有請它另外放，是很特別的味道，有薯泥、烤蔬菜等，均衡一下。\n\n焗烤海鮮白醬飯口味不錯，不膩口，蝦子甜又彈很好吃，焗烤起司蠻多的。\n\n兩個人都點了當日濃湯，為南瓜濃湯有點份量，微甜，有飽足感，附上的蒜味麵包酥軟適中👍。\n\n炸鱈魚兩片蠻大蠻厚的。\n\n炸雞翅很優秀❤️，3小翅3小腿，但實在太飽，吃了一兩隻，剩下打包。\n\n蘋果熱紅茶解膩，櫃檯有熱水可自助回沖。\n\n用餐環境很不錯，服務周到，上菜很快，平日晚上6:00去的不用訂位，不擁擠，舒適。\n\n但兩個人點炸物吃有點太飽了，應該可以再多找一些人來share。\n\n主餐都是單點沒有套餐，但可以單點選擇也較自由。兩個人1800元，整體價位不算非常便宜，但口味及口感都很好故以餐點的品質來說也不算貴。有細扁麵看起來很不錯但這次沒有吃到，應該有機會還可以再訪。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳幸慈",
+        "uri": "https://www.google.com/maps/contrib/111018204352690107560/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUg_YuYd5k861tN1W8hrsidPJrq-udD9X-1cYRLoL4zMJBqdR4qiA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-02-13T14:41:15.748406Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnOEpUZWVnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnOEpUZWVnEAE!2m1!1s0x3442ab8e4d3491ed:0x6f50988399351d89"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

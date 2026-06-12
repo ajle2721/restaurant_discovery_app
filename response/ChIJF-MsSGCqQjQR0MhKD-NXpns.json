@@ -1,0 +1,135 @@
+﻿{
+    "id":  "ChIJF-MsSGCqQjQR0MhKD-NXpns",
+    "types":  [
+                  "convenience_store",
+                  "point_of_interest",
+                  "food_store",
+                  "food",
+                  "store",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 8661 8147",
+    "formattedAddress":  "116台灣臺北市文山區新光路二段30號1樓",
+    "location":  {
+                     "latitude":  24.998254700000004,
+                     "longitude":  121.5811215
+                 },
+    "rating":  3.6,
+    "websiteUri":  "https://www.7-11.com.tw/",
+    "userRatingCount":  182,
+    "displayName":  {
+                        "text":  "7-ELEVEN 動物園門市",
+                        "languageCode":  "zh-TW"
+                    },
+    "editorialSummary":  {
+                             "text":  "Pit stop for snacks, drinks \u0026 daily essentials",
+                             "languageCode":  "en"
+                         },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJF-MsSGCqQjQR0MhKD-NXpns/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKTkxWSlJhbkZmT0dKM2NrbGpja3N6WkZGVloyYxAB",
+                        "relativePublishTimeDescription":  "6 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "和後面企鵝館的萊爾富一樣，這家正門的小七也是無時無刻都超多人，開放三櫃一起結帳也都要排隊，不少人會選擇在這裡或旁邊的麥當勞解決動物園午餐，門口有座位可以用餐或休息。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "和後面企鵝館的萊爾富一樣，這家正門的小七也是無時無刻都超多人，開放三櫃一起結帳也都要排隊，不少人會選擇在這裡或旁邊的麥當勞解決動物園午餐，門口有座位可以用餐或休息。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Lèvr【第10級在地嚮導】",
+                                                  "uri":  "https://www.google.com/maps/contrib/115131688509506708788/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWWReqt4dR6N7p45ZpSr8ODGEAaWrEOYRW_WXQCLNWUULTLqEq91g=s128-c0x00000000-cc-rp-mo-ba8"
+                                              },
+                        "publishTime":  "2025-11-09T06:57:30.644561105Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKTkxWSlJhbkZmT0dKM2NrbGpja3N6WkZGVloyYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKTkxWSlJhbkZmT0dKM2NrbGpja3N6WkZGVloyYxAB!2m1!1s0x3442aa60482ce317:0x7ba657e30f4ac8d0"
+                    },
+                    {
+                        "name":  "places/ChIJF-MsSGCqQjQR0MhKD-NXpns/reviews/Ci9DQUlRQUNvZENodHljRjlvT21JNWJuRXdjRTEwYmxabGJtNDVXbko0Y2pkblUxRRAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "這間位於台北動物園入口附近的 7-ELEVEN 門市，是不少遊客和當地民眾進出補給、吃點心、買飲料、泡麵、冰品最直接的地方。位置特殊，加上交通方便，常常會出現人山人海、人潮擁擠的狀況。 ￼\n\n⸻\n\n🧍‍♂️ 人潮多的原因\n•\t📍 地點就在台北動物園旁，遊客進出必經，休憩與補充能量的需求高。 ￼\n•\t🍪 便利商店商品豐富又快速，適合當作中途休息站，很多家庭、學生或旅客都會停下來買東西。 ￼\n•\t🕐 無論是早上動物園開門、午餐時間，或下午離園高峰，都會看見結帳排隊排很長的情況。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "這間位於台北動物園入口附近的 7-ELEVEN 門市，是不少遊客和當地民眾進出補給、吃點心、買飲料、泡麵、冰品最直接的地方。位置特殊，加上交通方便，常常會出現人山人海、人潮擁擠的狀況。 ￼\n\n⸻\n\n🧍‍♂️ 人潮多的原因\n•\t📍 地點就在台北動物園旁，遊客進出必經，休憩與補充能量的需求高。 ￼\n•\t🍪 便利商店商品豐富又快速，適合當作中途休息站，很多家庭、學生或旅客都會停下來買東西。 ￼\n•\t🕐 無論是早上動物園開門、午餐時間，或下午離園高峰，都會看見結帳排隊排很長的情況。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "TINI KAS",
+                                                  "uri":  "https://www.google.com/maps/contrib/110921833182334821522/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVIqRWpu1s3yjg1od0U23DcTYVQ9O_jS_tteYTCEMdtGlaIW5Yf=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2026-02-18T20:26:07.993217003Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21JNWJuRXdjRTEwYmxabGJtNDVXbko0Y2pkblUxRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21JNWJuRXdjRTEwYmxabGJtNDVXbko0Y2pkblUxRRAB!2m1!1s0x3442aa60482ce317:0x7ba657e30f4ac8d0"
+                    },
+                    {
+                        "name":  "places/ChIJF-MsSGCqQjQR0MhKD-NXpns/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsS1JrRTVWamQyWVMxQ1ZtSklSbWg2V0hNMU9HYxAB",
+                        "relativePublishTimeDescription":  "6 個月前",
+                        "rating":  1,
+                        "text":  {
+                                     "text":  "聽孩子們回來說，店內人潮太多、動線擁擠，小朋友買餐盒時店員居然詢問孩子需要多少加熱時間，但最終卻沒加熱完整，孩子吃到冰的餐盒，甚至有一位因此拉肚子。\n餐盒加熱是最基本的食品安全，希望店家能改善流程、人力調度及完整的教育訓練。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "聽孩子們回來說，店內人潮太多、動線擁擠，小朋友買餐盒時店員居然詢問孩子需要多少加熱時間，但最終卻沒加熱完整，孩子吃到冰的餐盒，甚至有一位因此拉肚子。\n餐盒加熱是最基本的食品安全，希望店家能改善流程、人力調度及完整的教育訓練。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Eva Yang",
+                                                  "uri":  "https://www.google.com/maps/contrib/106205369006829369561/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjV6erHTCwbxUkadVgmZ2tgAV31-DSbOntSl7RfiwgfVuOfatOpkUw=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2025-11-21T09:53:54.140583439Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsS1JrRTVWamQyWVMxQ1ZtSklSbWg2V0hNMU9HYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsS1JrRTVWamQyWVMxQ1ZtSklSbWg2V0hNMU9HYxAB!2m1!1s0x3442aa60482ce317:0x7ba657e30f4ac8d0"
+                    },
+                    {
+                        "name":  "places/ChIJF-MsSGCqQjQR0MhKD-NXpns/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CT1VtSllSbmN0T1dkbmRFSlRlVGN5V25GVlgyYxAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "小朋友校外教學，因玩的太開心了，忘記購物時錢怎麼付的，致電店家時店員很熱心協助，也花了她們一些時間，真是不好意思。\n因距離有點遠，不克親自前往道謝，透過此評論給予回饋！感謝！",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "小朋友校外教學，因玩的太開心了，忘記購物時錢怎麼付的，致電店家時店員很熱心協助，也花了她們一些時間，真是不好意思。\n因距離有點遠，不克親自前往道謝，透過此評論給予回饋！感謝！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Cynthia Chang",
+                                                  "uri":  "https://www.google.com/maps/contrib/102968256196860294063/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocJMO7v2h8RHZGuFf3a7XuotEbRWE5pwCBIGuHy3-HbEs6kflQ=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2026-01-05T06:39:06.841542205Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CT1VtSllSbmN0T1dkbmRFSlRlVGN5V25GVlgyYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CT1VtSllSbmN0T1dkbmRFSlRlVGN5V25GVlgyYxAB!2m1!1s0x3442aa60482ce317:0x7ba657e30f4ac8d0"
+                    },
+                    {
+                        "name":  "places/ChIJF-MsSGCqQjQR0MhKD-NXpns/reviews/ChZDSUhNMG9nS0VJQ0FnSUNiNE56MlVBEAE",
+                        "relativePublishTimeDescription":  "1 年前",
+                        "rating":  1,
+                        "text":  {
+                                     "text":  "女店員服務態度差勁\n因冰淇淋無單一包裝，是整組包裝形式\n問有無單一份的冰淇淋售賣，店員語氣不耐煩的回直接拆開就好了啊\n\n試問一下，我招惹妳了嗎？\n我好聲好氣的詢問一聲妳這樣的態度\n若不詢問自己拆封，該店找我麻煩我找誰說理\n\n還請該店店長能落實員工對客人服務的教育訓練\n謝謝",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "女店員服務態度差勁\n因冰淇淋無單一包裝，是整組包裝形式\n問有無單一份的冰淇淋售賣，店員語氣不耐煩的回直接拆開就好了啊\n\n試問一下，我招惹妳了嗎？\n我好聲好氣的詢問一聲妳這樣的態度\n若不詢問自己拆封，該店找我麻煩我找誰說理\n\n還請該店店長能落實員工對客人服務的教育訓練\n謝謝",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "雲輕",
+                                                  "uri":  "https://www.google.com/maps/contrib/116479082264349336574/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWNmxUzEmMfl--cih5LZvfTiKrRffq1UhBgfJMWZO9hQHjmWZTB=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2024-07-22T07:07:46.844715Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNiNE56MlVBEAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNiNE56MlVBEAE!2m1!1s0x3442aa60482ce317:0x7ba657e30f4ac8d0"
+                    }
+                ]
+}

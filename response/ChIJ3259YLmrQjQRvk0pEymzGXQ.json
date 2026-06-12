@@ -1,0 +1,134 @@
+{
+  "id": "ChIJ3259YLmrQjQRvk0pEymzGXQ",
+  "types": [
+    "japanese_restaurant",
+    "asian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 8978 0886",
+  "formattedAddress": "b2, No. 8號忠孝東路五段興雅里信義區臺北市台灣 110",
+  "location": {
+    "latitude": 25.0406227,
+    "longitude": 121.56545860000001
+  },
+  "rating": 4.2,
+  "websiteUri": "http://www.ootoya.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1023,
+  "displayName": {
+    "text": "大戶屋 統一時代台北店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ3259YLmrQjQRvk0pEymzGXQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xc04yWkhOR00yU25KVWF6RmxVMXBvY2xCdE5HYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 2,
+      "text": {
+        "text": "常吃大戶屋，去過很多分店\n但統一時代這間的份量\n是吃過最明顯縮水的餐點\n一樣的價位一樣的Menu\n送上來整個比原本的少了1/3的量\n不管是菜還是肉的大小🤣\n\n是因為在一級戰區\n所以原物料縮水嗎\n\n但東西還是好吃的\n只是這個縮水，太明顯了",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "常吃大戶屋，去過很多分店\n但統一時代這間的份量\n是吃過最明顯縮水的餐點\n一樣的價位一樣的Menu\n送上來整個比原本的少了1/3的量\n不管是菜還是肉的大小🤣\n\n是因為在一級戰區\n所以原物料縮水嗎\n\n但東西還是好吃的\n只是這個縮水，太明顯了",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Vna FU",
+        "uri": "https://www.google.com/maps/contrib/117213979188271825888/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW5bmZGlcmIajewETklrxyvSM93Wa7q8D4ERe2Bzp6F7IYk-sbB=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-06T11:00:51.706646991Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xc04yWkhOR00yU25KVWF6RmxVMXBvY2xCdE5HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xc04yWkhOR00yU25KVWF6RmxVMXBvY2xCdE5HYxAB!2m1!1s0x3442abb9607d6edf:0x7419b32913294dbe"
+    },
+    {
+      "name": "places/ChIJ3259YLmrQjQRvk0pEymzGXQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKZmNrSm1TbWhNYmw4Mk4wRndTak5OUXkxTFRIYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第一次到訪統一時代的大戶屋，用餐時段人潮非常多，餐點美味、乾淨、份量足夠，整體的服務也好。美中不足的是烤類的餐會等很久。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次到訪統一時代的大戶屋，用餐時段人潮非常多，餐點美味、乾淨、份量足夠，整體的服務也好。美中不足的是烤類的餐會等很久。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Cherry Su",
+        "uri": "https://www.google.com/maps/contrib/104105884264894085992/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6Ufxb_Csl04VA4hq86uxghA8VWjI2MlceyplH_v0bltBbMr4qLQ=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-12-13T01:30:59.226904297Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKZmNrSm1TbWhNYmw4Mk4wRndTak5OUXkxTFRIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKZmNrSm1TbWhNYmw4Mk4wRndTak5OUXkxTFRIYxAB!2m1!1s0x3442abb9607d6edf:0x7419b32913294dbe"
+    },
+    {
+      "name": "places/ChIJ3259YLmrQjQRvk0pEymzGXQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xScFRVNUZWRGxxU1d4RVRHTXdkbDl3V1hkRmFGRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "假日需要排隊\n定食高麗菜、白飯可以免費續！\n首次加入會員還有60元飲料招待\n\n可以多元支付～推！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "假日需要排隊\n定食高麗菜、白飯可以免費續！\n首次加入會員還有60元飲料招待\n\n可以多元支付～推！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "TaiwanChih",
+        "uri": "https://www.google.com/maps/contrib/117905738191656644084/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKCaCfoTv6eIAznBj8g1EQdd5KJw4uqS3_8sl49xrKwwbeMyQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-09-22T03:53:48.659318512Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xScFRVNUZWRGxxU1d4RVRHTXdkbDl3V1hkRmFGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xScFRVNUZWRGxxU1d4RVRHTXdkbDl3V1hkRmFGRRAB!2m1!1s0x3442abb9607d6edf:0x7419b32913294dbe"
+    },
+    {
+      "name": "places/ChIJ3259YLmrQjQRvk0pEymzGXQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1cExVbFZiMjlTVEVONmRsSldhMjVaWjJsUVQyYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "第一次吃大戶屋，被烤雞沙拉驚艷到，吃了覺得今天的營養均衡並且圓滿了，晚上吃垃圾食物都沒關係。沙拉的份量多，幾乎沒有吃白飯（也可能冷熱食放一起不好進食），總之超棒的，這份好像320+10%",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次吃大戶屋，被烤雞沙拉驚艷到，吃了覺得今天的營養均衡並且圓滿了，晚上吃垃圾食物都沒關係。沙拉的份量多，幾乎沒有吃白飯（也可能冷熱食放一起不好進食），總之超棒的，這份好像320+10%",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "金神飯店",
+        "uri": "https://www.google.com/maps/contrib/117021514055689989717/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLWGbHDaQwN-AEL3EwRBHKnSSnJKBdiPJRlxhlb9gvHbN-jqOk=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-07T15:03:49.541069608Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1cExVbFZiMjlTVEVONmRsSldhMjVaWjJsUVQyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1cExVbFZiMjlTVEVONmRsSldhMjVaWjJsUVQyYxAB!2m1!1s0x3442abb9607d6edf:0x7419b32913294dbe"
+    },
+    {
+      "name": "places/ChIJ3259YLmrQjQRvk0pEymzGXQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SS2FsOTVSSFZhUlUxYVgyMXpORkJ4WlRWVGMyYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 1,
+      "text": {
+        "text": "喜歡大戶很多年，基本上出去工作三五好友不知道吃什麼優先選擇都會是大戶屋，不外乎就是好吃且穩定品質\n但統一阪急已經是第二次，實在糟糕才給予評價\n\n首先三份餐點，其中兩份都是常吃會在熱鐵板上的鹽麴豬五花和鹽麴松阪豬\n這兩個送上餐就近乎是涼的⋯⋯\n\n由於當天工作太疲累又餓只想快點吃飯\n結果雞皮完全連均勻煎脆都沒有⋯\n我第一次點雙拼⋯雞腿肉已經有點噁心\n\n更別說多年來至少吃過15次以上的鹽麴豬五花\n咬下去直接吐出來⋯\n第一完全就是沒有正常處理的豬油味粘膩\n第二因為沒有將豬肉油質煸出⋯除了噁心的油膩竟還滿嘴飄出儲藏的冰箱味⋯\n\n直接沒有胃口，由於又餓又生氣，反映給店員，說明要重新提供一份（但其實已經被滿嘴的冰箱味噁心到吃不下了）\n\n最後一直到朋友用餐完畢，重新做的都沒有補上來\n\n直到舉手詢問，與服務生對到眼第一件事還是按下背機看來是詢問狀況，完全也沒有過來說明現在到底什麼狀況⋯（繼續等）\n\n就這樣在起身付款前，突然送上一盤正常且盛盤是熱的餐點⋯⋯\n\n看到的當下與友人只能無奈的笑 一口都吃不下⋯\n明明是可以好好製作的餐點\n前面到底是多糟糕的心情可以將這樣餐點出給顧客⋯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "喜歡大戶很多年，基本上出去工作三五好友不知道吃什麼優先選擇都會是大戶屋，不外乎就是好吃且穩定品質\n但統一阪急已經是第二次，實在糟糕才給予評價\n\n首先三份餐點，其中兩份都是常吃會在熱鐵板上的鹽麴豬五花和鹽麴松阪豬\n這兩個送上餐就近乎是涼的⋯⋯\n\n由於當天工作太疲累又餓只想快點吃飯\n結果雞皮完全連均勻煎脆都沒有⋯\n我第一次點雙拼⋯雞腿肉已經有點噁心\n\n更別說多年來至少吃過15次以上的鹽麴豬五花\n咬下去直接吐出來⋯\n第一完全就是沒有正常處理的豬油味粘膩\n第二因為沒有將豬肉油質煸出⋯除了噁心的油膩竟還滿嘴飄出儲藏的冰箱味⋯\n\n直接沒有胃口，由於又餓又生氣，反映給店員，說明要重新提供一份（但其實已經被滿嘴的冰箱味噁心到吃不下了）\n\n最後一直到朋友用餐完畢，重新做的都沒有補上來\n\n直到舉手詢問，與服務生對到眼第一件事還是按下背機看來是詢問狀況，完全也沒有過來說明現在到底什麼狀況⋯（繼續等）\n\n就這樣在起身付款前，突然送上一盤正常且盛盤是熱的餐點⋯⋯\n\n看到的當下與友人只能無奈的笑 一口都吃不下⋯\n明明是可以好好製作的餐點\n前面到底是多糟糕的心情可以將這樣餐點出給顧客⋯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hh EF",
+        "uri": "https://www.google.com/maps/contrib/107469574623084882592/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXKiH2D9fdb6B7qWJ6kRx2_bTEJMssYk9ZfgQ6nJ3N_RwQhv_s1=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-02T08:47:46.671726798Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SS2FsOTVSSFZhUlUxYVgyMXpORkJ4WlRWVGMyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SS2FsOTVSSFZhUlUxYVgyMXpORkJ4WlRWVGMyYxAB!2m1!1s0x3442abb9607d6edf:0x7419b32913294dbe"
+    }
+  ],
+  "menuForChildren": true,
+  "goodForChildren": true
+}

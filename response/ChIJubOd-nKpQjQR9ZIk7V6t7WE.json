@@ -1,0 +1,133 @@
+{
+  "id": "ChIJubOd-nKpQjQR9ZIk7V6t7WE",
+  "types": [
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2361 2377",
+  "formattedAddress": "100台灣臺北市中正區黎明里忠孝西路一段38號B1",
+  "location": {
+    "latitude": 25.0462341,
+    "longitude": 121.51641450000001
+  },
+  "rating": 4.2,
+  "websiteUri": "http://www.ootoya.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1108,
+  "displayName": {
+    "text": "大戶屋 台北凱撒店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJubOd-nKpQjQR9ZIk7V6t7WE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSalpreHBNMncxYWxReU5XeHVUa3RtYlhkT2MzYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 2,
+      "text": {
+        "text": "2/27登門用餐，點了八丁味噌雞肉鍋，結果湯超甜，甜到難以下嚥，如果這是這味噌的滋味，請加註警語，太奇特了，另還有點雞肉燴黑醋定食，馬鈴薯不熟，醬汁多且鹹，大戶屋ㄧ向是外出用餐首選，當天實在吃的很不開心",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2/27登門用餐，點了八丁味噌雞肉鍋，結果湯超甜，甜到難以下嚥，如果這是這味噌的滋味，請加註警語，太奇特了，另還有點雞肉燴黑醋定食，馬鈴薯不熟，醬汁多且鹹，大戶屋ㄧ向是外出用餐首選，當天實在吃的很不開心",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "滿滿",
+        "uri": "https://www.google.com/maps/contrib/117545391146209320899/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXhVaiyzKhQuy12nRNx3i8jwWOF7eUHK6qMplRX1Y7XCS5VeGwH=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-03-03T16:28:01.819638561Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSalpreHBNMncxYWxReU5XeHVUa3RtYlhkT2MzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSalpreHBNMncxYWxReU5XeHVUa3RtYlhkT2MzYxAB!2m1!1s0x3442a972fa9db3b9:0x61edad5eed2492f5"
+    },
+    {
+      "name": "places/ChIJubOd-nKpQjQR9ZIk7V6t7WE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSTGVtRkdXVTFUYW1wSVRIUkdTMVZaYVhsRWVsRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 3,
+      "text": {
+        "text": "餐點還可以，但感覺價位上比其他類似的店高價，一樣可以免費加飯加湯加高麗菜。加上不懂沒啥服務還要收服務費的點在哪。只是剛入座給了一杯麥茶跟送餐，點餐也是掃描QR code 自己點，沒有感覺到被服務了啥呀。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點還可以，但感覺價位上比其他類似的店高價，一樣可以免費加飯加湯加高麗菜。加上不懂沒啥服務還要收服務費的點在哪。只是剛入座給了一杯麥茶跟送餐，點餐也是掃描QR code 自己點，沒有感覺到被服務了啥呀。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ronald Lee",
+        "uri": "https://www.google.com/maps/contrib/107125643047863333764/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIYOw88xMBJsFUxIt6aFX8eQZ5Yzh8lpnYK4ke6TDKmM-hg5w=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-20T14:30:05.342573978Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSTGVtRkdXVTFUYW1wSVRIUkdTMVZaYVhsRWVsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSTGVtRkdXVTFUYW1wSVRIUkdTMVZaYVhsRWVsRRAB!2m1!1s0x3442a972fa9db3b9:0x61edad5eed2492f5"
+    },
+    {
+      "name": "places/ChIJubOd-nKpQjQR9ZIk7V6t7WE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pFM2NVOW9WVXgyWjNKNldXbzVaSE0xWVVreWJXYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 1,
+      "text": {
+        "text": "超級阻止各位來吃大戶屋，越來越盤！超級傻眼！薄到不行的肉，幾乎快看不到那個雞肉的肉在哪裡，薄到快跟醃蘿蔔片一樣薄==\n碳烤牛肉不是碳烤牛排，雖然都一樣少跟薄，但牛肉那份真的是極致誇張，價格不便宜任何居然一堆整塊肥油！\n你們是在賣食物還是？？？\n再也不會來當盤子了",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "超級阻止各位來吃大戶屋，越來越盤！超級傻眼！薄到不行的肉，幾乎快看不到那個雞肉的肉在哪裡，薄到快跟醃蘿蔔片一樣薄==\n碳烤牛肉不是碳烤牛排，雖然都一樣少跟薄，但牛肉那份真的是極致誇張，價格不便宜任何居然一堆整塊肥油！\n你們是在賣食物還是？？？\n再也不會來當盤子了",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "H Irene",
+        "uri": "https://www.google.com/maps/contrib/112326990352988556676/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIe9qZAOJEeff-lnMsJxm34sH8ViTAFvcfynxbTCNLgKvAXXN4=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-03-03T04:56:47.234794311Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pFM2NVOW9WVXgyWjNKNldXbzVaSE0xWVVreWJXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pFM2NVOW9WVXgyWjNKNldXbzVaSE0xWVVreWJXYxAB!2m1!1s0x3442a972fa9db3b9:0x61edad5eed2492f5"
+    },
+    {
+      "name": "places/ChIJubOd-nKpQjQR9ZIk7V6t7WE/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OcVNrRlhhWGxhWDJVeFlVaFNlV3BVZEd0UFNrRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "帶位的應該是值班經理\n過來門口也沒問有沒有訂位菜單拿了平板按了就往內帶位 只喊了日語帶位招呼語 不知道是講話太小聲還是壓根沒講話這樣\n\n餐點依舊好吃但續加沒有生菜沙拉的和風醬可以續加\n\n2017年在大戶屋外場實習的那一年多跟現在的外場落差有點大",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "帶位的應該是值班經理\n過來門口也沒問有沒有訂位菜單拿了平板按了就往內帶位 只喊了日語帶位招呼語 不知道是講話太小聲還是壓根沒講話這樣\n\n餐點依舊好吃但續加沒有生菜沙拉的和風醬可以續加\n\n2017年在大戶屋外場實習的那一年多跟現在的外場落差有點大",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "我是你爹傻逼看啥",
+        "uri": "https://www.google.com/maps/contrib/117882005605672160086/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXPWvYBP4L3mOoEk3Ek3R1OoR3THtGeq7h_AFX8PzYgQ5MCelCi=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-27T15:09:20.414871382Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OcVNrRlhhWGxhWDJVeFlVaFNlV3BVZEd0UFNrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OcVNrRlhhWGxhWDJVeFlVaFNlV3BVZEd0UFNrRRAB!2m1!1s0x3442a972fa9db3b9:0x61edad5eed2492f5"
+    },
+    {
+      "name": "places/ChIJubOd-nKpQjQR9ZIk7V6t7WE/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WaFUyaHFaRTR0TVZrMllXMVFkbFZOUkhZMVptYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "日式定食料理，餐點美味好吃，服務人員親切，用餐環境很舒服😊",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "日式定食料理，餐點美味好吃，服務人員親切，用餐環境很舒服😊",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "みつい朝嚴",
+        "uri": "https://www.google.com/maps/contrib/117733649581622002970/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXdyVQTPV_tgQK5YUnDi2GBosVjr9ekujqn9kClWVRQyDCVdzqX=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-29T14:28:52.827592012Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WaFUyaHFaRTR0TVZrMllXMVFkbFZOUkhZMVptYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WaFUyaHFaRTR0TVZrMllXMVFkbFZOUkhZMVptYxAB!2m1!1s0x3442a972fa9db3b9:0x61edad5eed2492f5"
+    }
+  ],
+  "menuForChildren": true,
+  "goodForChildren": true
+}

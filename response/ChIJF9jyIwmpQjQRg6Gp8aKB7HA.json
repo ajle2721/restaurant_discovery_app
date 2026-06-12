@@ -1,0 +1,128 @@
+﻿{
+    "id":  "ChIJF9jyIwmpQjQRg6Gp8aKB7HA",
+    "types":  [
+                  "cafe",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2388 4371",
+    "formattedAddress":  "108台灣臺北市萬華區萬壽里西寧南路50巷1號",
+    "location":  {
+                     "latitude":  25.044356,
+                     "longitude":  121.50603659999999
+                 },
+    "rating":  4.2,
+    "userRatingCount":  145,
+    "displayName":  {
+                        "text":  "A-ONE義大利咖啡館",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJF9jyIwmpQjQRg6Gp8aKB7HA/reviews/ChZDSUhNMG9nS0VJQ0FnTUNnMHZmT2FREAE",
+                        "relativePublishTimeDescription":  "1 年前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "輕鬆愜意的氛圍\n不知道為啥假日晚餐時間沒人\n進來悠哉不錯的選擇\n剛好只是想找休息的地方\n沒點酒類不太知道其它品項如何",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "輕鬆愜意的氛圍\n不知道為啥假日晚餐時間沒人\n進來悠哉不錯的選擇\n剛好只是想找休息的地方\n沒點酒類不太知道其它品項如何",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "JK",
+                                                  "uri":  "https://www.google.com/maps/contrib/106318046433489404469/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVWWq5HJBKFHabaQzIqYB-St-ptTFLxRgOjCYY7xtW8Bi6Wii7E6w=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2025-02-15T16:39:30.477513Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNnMHZmT2FREAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNnMHZmT2FREAE!2m1!1s0x3442a90923f2d817:0x70ec81a2f1a9a183"
+                    },
+                    {
+                        "name":  "places/ChIJF9jyIwmpQjQRg6Gp8aKB7HA/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxdWUzbTVnRRAB",
+                        "relativePublishTimeDescription":  "2 年前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "今天點了草莓鮮奶茶，不會太甜不會太膩，味道調的剛剛好👍暖暖的冬天來上一杯熱奶茶真的好舒服😊\n總共有三層樓，麻雀雖小，五臟俱全！非常有人情味的一間咖啡店，老闆很熱情，很用心的介紹濃縮咖啡的飲用方式：加一包糖，不要攪拌！用吼搭啦的方式抬頭一口飲盡，真的是不甜不苦，咖啡韻味在齒喉間久久不散，非常推薦大家可以來品嚐看看喔！",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "今天點了草莓鮮奶茶，不會太甜不會太膩，味道調的剛剛好👍暖暖的冬天來上一杯熱奶茶真的好舒服😊\n總共有三層樓，麻雀雖小，五臟俱全！非常有人情味的一間咖啡店，老闆很熱情，很用心的介紹濃縮咖啡的飲用方式：加一包糖，不要攪拌！用吼搭啦的方式抬頭一口飲盡，真的是不甜不苦，咖啡韻味在齒喉間久久不散，非常推薦大家可以來品嚐看看喔！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "hst debby",
+                                                  "uri":  "https://www.google.com/maps/contrib/115388639642842667526/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocKB5e48JxTmEOPIMDnFgpbFQOCSsoemnF3wZPb4tv8llx7gyA=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2024-01-01T12:19:28.829730Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMxdWUzbTVnRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMxdWUzbTVnRRAB!2m1!1s0x3442a90923f2d817:0x70ec81a2f1a9a183"
+                    },
+                    {
+                        "name":  "places/ChIJF9jyIwmpQjQRg6Gp8aKB7HA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNiOFpXS3pBRRAB",
+                        "relativePublishTimeDescription":  "1 年前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "很多車子會行經往峨嵋停車場方向，也有不少外國觀光客經過，多以路邊小吃帶走為主，所以店內容易有座位，晚上2樓氣氛不錯！旁邊還有糰子、綠豆沙或果汁攤可以選購！",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "很多車子會行經往峨嵋停車場方向，也有不少外國觀光客經過，多以路邊小吃帶走為主，所以店內容易有座位，晚上2樓氣氛不錯！旁邊還有糰子、綠豆沙或果汁攤可以選購！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "vera kao",
+                                                  "uri":  "https://www.google.com/maps/contrib/114391182776545815644/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocIlE8DxLNh6mh2uCy3ro-jPZdiwZVpbiq_C6L7rdJn7o6hXAg=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2024-07-28T12:32:08.119368Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNiOFpXS3pBRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNiOFpXS3pBRRAB!2m1!1s0x3442a90923f2d817:0x70ec81a2f1a9a183"
+                    },
+                    {
+                        "name":  "places/ChIJF9jyIwmpQjQRg6Gp8aKB7HA/reviews/ChdDSUhNMG9nS0VJQ0FnSURHbDlfVDJRRRAB",
+                        "relativePublishTimeDescription":  "4 年前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "西門最Cyber的咖啡廳\n\n幾年前開始逛西門的時候\n每次經過這裡總是很好奇\n樓上到底有什麼呢？\n那這次就來探路解惑兼躲雨xd\n\n一進到店裡，看起來空間不大\n老闆很客氣地詢問需要什麼飲料\n我則點了一杯冰藍山\n接著老闆表示這裡有三層樓\n可以自己選位子\n我當然是選在最高的三樓囉～\n\n裡面看起來很有年代，雖然佈置隔間都不統一\n但這就是亂中有序吧，反而是一種特色\n\n跟大多數的老宅一樣，這裡的樓梯很陡要小心\n連老闆送咖啡的時候都為他捏一把冷汗ㄚ\n\n我來的時候完全沒人，可以在這個奇異的空間裡隨意走動到處看，還蠻讚的\n\n燈光偏暗、有插座、飲料還可以\n有調酒、有簡易食物、有廁所",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "西門最Cyber的咖啡廳\n\n幾年前開始逛西門的時候\n每次經過這裡總是很好奇\n樓上到底有什麼呢？\n那這次就來探路解惑兼躲雨xd\n\n一進到店裡，看起來空間不大\n老闆很客氣地詢問需要什麼飲料\n我則點了一杯冰藍山\n接著老闆表示這裡有三層樓\n可以自己選位子\n我當然是選在最高的三樓囉～\n\n裡面看起來很有年代，雖然佈置隔間都不統一\n但這就是亂中有序吧，反而是一種特色\n\n跟大多數的老宅一樣，這裡的樓梯很陡要小心\n連老闆送咖啡的時候都為他捏一把冷汗ㄚ\n\n我來的時候完全沒人，可以在這個奇異的空間裡隨意走動到處看，還蠻讚的\n\n燈光偏暗、有插座、飲料還可以\n有調酒、有簡易食物、有廁所",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Siang sheng Hong",
+                                                  "uri":  "https://www.google.com/maps/contrib/109149969242542858024/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUPlnXvPzQHNmivuTD2nyTwS5-48679hx3ym-LqsYrHilJzNhyOLQ=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2021-12-12T07:52:01.652888Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURHbDlfVDJRRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURHbDlfVDJRRRAB!2m1!1s0x3442a90923f2d817:0x70ec81a2f1a9a183"
+                    },
+                    {
+                        "name":  "places/ChIJF9jyIwmpQjQRg6Gp8aKB7HA/reviews/ChdDSUhNMG9nS0VJQ0FnSUNsdHJQSW5RRRAB",
+                        "relativePublishTimeDescription":  "2 年前",
+                        "rating":  3,
+                        "text":  {
+                                     "text":  "點了熱的鮮奶茶，味道還算不錯只是有點小杯。\n上樓的樓梯非常陡頗危險，不注意很容易會摔下來,好處是很隱密很適合聊天。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "點了熱的鮮奶茶，味道還算不錯只是有點小杯。\n上樓的樓梯非常陡頗危險，不注意很容易會摔下來,好處是很隱密很適合聊天。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "黃庭毅Allen",
+                                                  "uri":  "https://www.google.com/maps/contrib/100727664915706760035/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjW8cAHb7x-ESVBdtCr5IHQ87pzFGyepciwFbw4NekXDpYRZLf1W=s128-c0x00000000-cc-rp-mo-ba8"
+                                              },
+                        "publishTime":  "2023-11-18T06:04:28.027083Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNsdHJQSW5RRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNsdHJQSW5RRRAB!2m1!1s0x3442a90923f2d817:0x70ec81a2f1a9a183"
+                    }
+                ]
+}

@@ -1,0 +1,132 @@
+{
+  "id": "ChIJs0t5m5CtQjQRMGEZlhs8eRI",
+  "types": [
+    "breakfast_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2533 9233",
+  "formattedAddress": "10491台灣臺北市中山區北安里北安路813號",
+  "location": {
+    "latitude": 25.085133499999998,
+    "longitude": 121.55567409999999
+  },
+  "rating": 4.2,
+  "websiteUri": "https://m.facebook.com/%E6%85%A2%E6%85%A2%E6%97%A9-Slow-Morning-541910532933916/",
+  "userRatingCount": 623,
+  "displayName": {
+    "text": "慢慢早 Slow morning",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJs0t5m5CtQjQRMGEZlhs8eRI/reviews/Ci9DQUlRQUNvZENodHljRjlvT214SVV6Z3hWVUZuWWxGb05tWmFTV0oyY1VoeVZsRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "有氛圍的乾淨早餐店\n店員很貼心會預告餐點等候時間\n\n價格略高些\n是用日式風格碗、盤覺得很優\n若杯子不是紙杯就完美了\n\n餐點美味\n蛋餅很酥 覺得鮪魚能多點會更好\n有加柴魚片 很讚\n但辣醬汁是冰的 有點可惜\n\n會再訪❤️\n\n會再訪",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "有氛圍的乾淨早餐店\n店員很貼心會預告餐點等候時間\n\n價格略高些\n是用日式風格碗、盤覺得很優\n若杯子不是紙杯就完美了\n\n餐點美味\n蛋餅很酥 覺得鮪魚能多點會更好\n有加柴魚片 很讚\n但辣醬汁是冰的 有點可惜\n\n會再訪❤️\n\n會再訪",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "許嘉惠",
+        "uri": "https://www.google.com/maps/contrib/106184058029038419919/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXgLsu7u-jrMPkXh56cHZ9dWq_xR_3eXyeN0SMZtyaM_4j5065AJw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-14T10:42:58.144757975Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214SVV6Z3hWVUZuWWxGb05tWmFTV0oyY1VoeVZsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214SVV6Z3hWVUZuWWxGb05tWmFTV0oyY1VoeVZsRRAB!2m1!1s0x3442ad909b794bb3:0x12793c1b96196130"
+    },
+    {
+      "name": "places/ChIJs0t5m5CtQjQRMGEZlhs8eRI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCMFNsVkJNa3cwZUdveFkzTnZZa3RCZWpKdVpYYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "雞排蘑菇鐵板麵半熟蛋味道很正常 很喜歡半熟蛋！朋友說吃麵吃到後面感覺像在吃羹麵的感覺，薯餅蛋餅很不錯很酥脆，煎餃味道正常。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "雞排蘑菇鐵板麵半熟蛋味道很正常 很喜歡半熟蛋！朋友說吃麵吃到後面感覺像在吃羹麵的感覺，薯餅蛋餅很不錯很酥脆，煎餃味道正常。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "柴可夫司基",
+        "uri": "https://www.google.com/maps/contrib/105396851452653394753/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV7S2qZHu0tag7Lz61jiw4EwJy82eBGCwfCiALlxodGlV-SC3d1XA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-01-24T05:35:16.712441762Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCMFNsVkJNa3cwZUdveFkzTnZZa3RCZWpKdVpYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCMFNsVkJNa3cwZUdveFkzTnZZa3RCZWpKdVpYYxAB!2m1!1s0x3442ad909b794bb3:0x12793c1b96196130"
+    },
+    {
+      "name": "places/ChIJs0t5m5CtQjQRMGEZlhs8eRI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsb2JrOXZZVEZCUVcxc1FuTjViMlZEU2tsVE0wRRAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 4,
+      "text": {
+        "text": "蜜汁雞腿堡🍔還不錯\n\n煎餃🥟\n咬下會有湯汁滴出\n跟一般傳統早餐店偏乾的不同\n\n建議訂位 避免候位太久",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "蜜汁雞腿堡🍔還不錯\n\n煎餃🥟\n咬下會有湯汁滴出\n跟一般傳統早餐店偏乾的不同\n\n建議訂位 避免候位太久",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "大衛王D.W.",
+        "uri": "https://www.google.com/maps/contrib/104527452179478461022/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX0aNdrYsT3Si435pBR5Wgfo9FuRYoFDgMLiUzhgWbnfGpFmTZo=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-05-16T09:40:03.651722411Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsb2JrOXZZVEZCUVcxc1FuTjViMlZEU2tsVE0wRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsb2JrOXZZVEZCUVcxc1FuTjViMlZEU2tsVE0wRRAB!2m1!1s0x3442ad909b794bb3:0x12793c1b96196130"
+    },
+    {
+      "name": "places/ChIJs0t5m5CtQjQRMGEZlhs8eRI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxRVlWRllYMjl3WWtkdFpFUkRjVXhEWVdObGJrRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "薯餅蛋餅好好吃🤤今天有帶狗狗，原本想說坐在外面吃就好，沒想到老闆說可以帶進店裡，超級寵物友善！雖然等待時間較長，但美味值得等待！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "薯餅蛋餅好好吃🤤今天有帶狗狗，原本想說坐在外面吃就好，沒想到老闆說可以帶進店裡，超級寵物友善！雖然等待時間較長，但美味值得等待！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Sophy L.",
+        "uri": "https://www.google.com/maps/contrib/111950909514524065469/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXyFFwwLy9n9xEy8VR1dV0kiACc9Jyo04AoJaCvyH5Z25uR29fTlA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-09-16T09:10:59.288847021Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxRVlWRllYMjl3WWtkdFpFUkRjVXhEWVdObGJrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxRVlWRllYMjl3WWtkdFpFUkRjVXhEWVdObGJrRRAB!2m1!1s0x3442ad909b794bb3:0x12793c1b96196130"
+    },
+    {
+      "name": "places/ChIJs0t5m5CtQjQRMGEZlhs8eRI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGUVVrTnpVMHRUVFc5WmVFRnhMVWt3VVZkbFgwRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "Slow Morning內用位子不多，但是麵真的好好吃，上班日連續五天都來，把所有有興趣的餐點都點了一輪，真心覺的好吃，推薦一下。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "Slow Morning內用位子不多，但是麵真的好好吃，上班日連續五天都來，把所有有興趣的餐點都點了一輪，真心覺的好吃，推薦一下。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "莊崇源",
+        "uri": "https://www.google.com/maps/contrib/102538141840604716781/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLGTblrNgv2VWp4cYgBxURuCD1Nh7uMRb_vmgg7fb-uBNQWGg=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-09-18T10:55:55.786124647Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGUVVrTnpVMHRUVFc5WmVFRnhMVWt3VVZkbFgwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGUVVrTnpVMHRUVFc5WmVFRnhMVWt3VVZkbFgwRRAB!2m1!1s0x3442ad909b794bb3:0x12793c1b96196130"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

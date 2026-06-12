@@ -1,0 +1,134 @@
+{
+  "id": "ChIJKX3oQbypQjQRkvM-qBEwhfY",
+  "types": [
+    "brunch_restaurant",
+    "breakfast_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2301 2876",
+  "formattedAddress": "100台灣臺北市中正區永昌里中華路二段457-1號",
+  "location": {
+    "latitude": 25.0248052,
+    "longitude": 121.5097904
+  },
+  "rating": 4.1,
+  "websiteUri": "https://www.facebook.com/LAYATPECH/?ref=page_internal",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 223,
+  "displayName": {
+    "text": "拉亞漢堡 北市中華",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJKX3oQbypQjQRkvM-qBEwhfY/reviews/Ci9DQUlRQUNvZENodHljRjlvT205c05YWnpVVTlwT1hFeWNWZHJibmRxV2pST1FWRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "環境乾淨、燈光適中、餐點好吃、價格合理、服務親切，如果不是只有五星可能會給更多星",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境乾淨、燈光適中、餐點好吃、價格合理、服務親切，如果不是只有五星可能會給更多星",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "許院遲",
+        "uri": "https://www.google.com/maps/contrib/105373673449080017981/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWiJLasqYY-OdtyMc36-53ZEJEosHt1JlomF0sUOsVGvNXS09oa=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-09-26T11:13:11.435133066Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205c05YWnpVVTlwT1hFeWNWZHJibmRxV2pST1FWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205c05YWnpVVTlwT1hFeWNWZHJibmRxV2pST1FWRRAB!2m1!1s0x3442a9bc41e87d29:0xf6853011a83ef392"
+    },
+    {
+      "name": "places/ChIJKX3oQbypQjQRkvM-qBEwhfY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pFM1JuRlJOVmN3VEZScE4wWklka055ZW1ocVIwRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "鮪魚蛋皇后堡好吃！皇后堡麵包有滿滿的奶油奶香，軟軟的麵包配上滿滿的鮪魚沙拉，還有生菜絲，跟嫩蛋，整體吃起來濕潤但不會超過～爽口好吃！下次想吃里肌口味的～\n副餐的薯餅超級酥脆，薯塊一粒一粒的，紅茶微甜還不錯。\n用餐環境很寬敞～桌數不多，大概12:40就會開始收店不賣了，想吃要早點來",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "鮪魚蛋皇后堡好吃！皇后堡麵包有滿滿的奶油奶香，軟軟的麵包配上滿滿的鮪魚沙拉，還有生菜絲，跟嫩蛋，整體吃起來濕潤但不會超過～爽口好吃！下次想吃里肌口味的～\n副餐的薯餅超級酥脆，薯塊一粒一粒的，紅茶微甜還不錯。\n用餐環境很寬敞～桌數不多，大概12:40就會開始收店不賣了，想吃要早點來",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "cindy chi",
+        "uri": "https://www.google.com/maps/contrib/101968453904471213966/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKsXmUJxqpp6FBCwnpsvCIgBFWeZ8X9LTYjLWxN4AFPW7MwCA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-20T15:38:56.796554129Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pFM1JuRlJOVmN3VEZScE4wWklka055ZW1ocVIwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pFM1JuRlJOVmN3VEZScE4wWklka055ZW1ocVIwRRAB!2m1!1s0x3442a9bc41e87d29:0xf6853011a83ef392"
+    },
+    {
+      "name": "places/ChIJKX3oQbypQjQRkvM-qBEwhfY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKbmJqWnhNbmx1TVZOc1QxRXRNSEZpZEU1T1NGRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "老闆親切，服務態度極佳，環境整潔，餐點也好吃，尤其是蒜香奶油辣燻腸義大利麵+辣，根本就是美味！那個濃稠的白醬真是令人讚不絕口，一口接著一口，筷子都放不下來！根本無可匹敵👍👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "老闆親切，服務態度極佳，環境整潔，餐點也好吃，尤其是蒜香奶油辣燻腸義大利麵+辣，根本就是美味！那個濃稠的白醬真是令人讚不絕口，一口接著一口，筷子都放不下來！根本無可匹敵👍👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "游yoyo",
+        "uri": "https://www.google.com/maps/contrib/116367680861098829834/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocICpjFdnlZ7QN36xg0bK0FuK1LSousjWkit0Vole1I09zMT_Q=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-12-30T12:37:05.318014090Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKbmJqWnhNbmx1TVZOc1QxRXRNSEZpZEU1T1NGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKbmJqWnhNbmx1TVZOc1QxRXRNSEZpZEU1T1NGRRAB!2m1!1s0x3442a9bc41e87d29:0xf6853011a83ef392"
+    },
+    {
+      "name": "places/ChIJKX3oQbypQjQRkvM-qBEwhfY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pVeFQwMHROVlJaWDJkblYyZHJaSGRwY1RGQlVVRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "小孩從小吃到大，環境也很乾淨，餐點也很好吃，貝果、義大利麵都超好吃！！！！！！服務更是沒話說❤️最愛奶茶喝了不會很膩，又很香。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "小孩從小吃到大，環境也很乾淨，餐點也很好吃，貝果、義大利麵都超好吃！！！！！！服務更是沒話說❤️最愛奶茶喝了不會很膩，又很香。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Pan Mandy",
+        "uri": "https://www.google.com/maps/contrib/117753921855900115977/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIZglAIjFrBsrpFOh3NWN3T_1rxlu32ZykYxZG0icNEhR_qJQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-12-30T12:38:00.980922370Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pVeFQwMHROVlJaWDJkblYyZHJaSGRwY1RGQlVVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pVeFQwMHROVlJaWDJkblYyZHJaSGRwY1RGQlVVRRAB!2m1!1s0x3442a9bc41e87d29:0xf6853011a83ef392"
+    },
+    {
+      "name": "places/ChIJKX3oQbypQjQRkvM-qBEwhfY/reviews/ChZDSUhNMG9nS0VJQ0FnSUM1Mkx2elBBEAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 4,
+      "text": {
+        "text": "從國小吃到現在\n味道依舊沒有改變一樣好吃😋\n\n每次必點：燻雞蛋餅、拿波里肉醬義大利麵、蘋果茶、薯條、三角薯餅、厚牛堡、起司芋泥帕尼尼\n\n有來的時候都點不一樣的\n但就這幾個在循環🤤🤤🤤🤤🤤\n\n推推推讚讚👍🏻",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "從國小吃到現在\n味道依舊沒有改變一樣好吃😋\n\n每次必點：燻雞蛋餅、拿波里肉醬義大利麵、蘋果茶、薯條、三角薯餅、厚牛堡、起司芋泥帕尼尼\n\n有來的時候都點不一樣的\n但就這幾個在循環🤤🤤🤤🤤🤤\n\n推推推讚讚👍🏻",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "SIN JIA",
+        "uri": "https://www.google.com/maps/contrib/113989478511298547176/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUf_rdS1qaE7V30ooaEpV3zV3zqQW7v40TZAk5MwJmbeq0r9CIR=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2024-01-13T09:13:52.935115Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM1Mkx2elBBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM1Mkx2elBBEAE!2m1!1s0x3442a9bc41e87d29:0xf6853011a83ef392"
+    }
+  ],
+  "menuForChildren": true,
+  "goodForChildren": true
+}

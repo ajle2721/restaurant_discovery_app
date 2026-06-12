@@ -1,0 +1,133 @@
+{
+  "id": "ChIJ31fQYu6rQjQR6mdLBud5IYE",
+  "types": [
+    "european_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 8712 4099",
+  "formattedAddress": "105台灣臺北市松山區精忠里民生東路四段119號",
+  "location": {
+    "latitude": 25.058259,
+    "longitude": 121.553377
+  },
+  "rating": 4.3,
+  "websiteUri": "http://www.mvp-icecream.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1076,
+  "displayName": {
+    "text": "Mövenpick Café-莫凡彼台北民生店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ31fQYu6rQjQR6mdLBud5IYE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoaE1IQkJWVWxhU1ZBek1HazBXVFphUjJSTllsRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "我和朋友都是從台南來台北住宿，一起來吃早午餐。\n今天星期一，早上人不會擁擠，只有一位服務員和一位廚師，點餐時稍微等了一下，也還好！覺得他們真是辛苦耶！\n櫃檯點餐完，不久就上餐了，兩個人吃得還算飽，餐點也不錯喔！\n之後又吃了芒果牛奶冰淇淋，綿密有料，也很美味喔！\n這是吃過還會想再來的店家，價格可以接受，非常感恩！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "我和朋友都是從台南來台北住宿，一起來吃早午餐。\n今天星期一，早上人不會擁擠，只有一位服務員和一位廚師，點餐時稍微等了一下，也還好！覺得他們真是辛苦耶！\n櫃檯點餐完，不久就上餐了，兩個人吃得還算飽，餐點也不錯喔！\n之後又吃了芒果牛奶冰淇淋，綿密有料，也很美味喔！\n這是吃過還會想再來的店家，價格可以接受，非常感恩！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "曾靖琪",
+        "uri": "https://www.google.com/maps/contrib/101443523286980837047/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWQ6uo7g-nDi2ElFVNMsqAEfPsk8eO58XgvD2ooKv-AoqsDYOub=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-12T03:55:16.114447306Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoaE1IQkJWVWxhU1ZBek1HazBXVFphUjJSTllsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoaE1IQkJWVWxhU1ZBek1HazBXVFphUjJSTllsRRAB!2m1!1s0x3442abee62d057df:0x812179e7064b67ea"
+    },
+    {
+      "name": "places/ChIJ31fQYu6rQjQR6mdLBud5IYE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0eFVqZGFhRGRuYUdoMGFFSkZUa3B3UkhCamJsRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "內用可坐到40位，可以先預約，這次24位同仁一起去吃飯，上菜速度算快，味道也都美味好食，整體來說不錯👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "內用可坐到40位，可以先預約，這次24位同仁一起去吃飯，上菜速度算快，味道也都美味好食，整體來說不錯👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ying Ting Huang",
+        "uri": "https://www.google.com/maps/contrib/117052972868540332934/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXTsLZQvqz4WqlfRRdBrDFRdyysf36UD5iGCtQcljQfKizRjvDk=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-12-03T11:24:59.721476987Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0eFVqZGFhRGRuYUdoMGFFSkZUa3B3UkhCamJsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0eFVqZGFhRGRuYUdoMGFFSkZUa3B3UkhCamJsRRAB!2m1!1s0x3442abee62d057df:0x812179e7064b67ea"
+    },
+    {
+      "name": "places/ChIJ31fQYu6rQjQR6mdLBud5IYE/reviews/Ci9DQUlRQUNvZENodHljRjlvT205RVIwc3pla2t0UTJ4T05FNDRWazVLZUVFMmQzYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "其實以它的價位還行，不過都是要自己服務自己，雖然服務人員點餐的時候態度都是不錯的，但是還是覺得可以稍微多做一些服務，讓顧客們可以有點更好的服務。 小小的建議啦！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "其實以它的價位還行，不過都是要自己服務自己，雖然服務人員點餐的時候態度都是不錯的，但是還是覺得可以稍微多做一些服務，讓顧客們可以有點更好的服務。 小小的建議啦！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "shamus Tseng",
+        "uri": "https://www.google.com/maps/contrib/109132665585945212841/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIvkTo_HFRLSBnf4-K_sbDbnVxTA1lCu6DC5sqUHQkOjqOQ3Q=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-20T02:37:12.410434293Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205RVIwc3pla2t0UTJ4T05FNDRWazVLZUVFMmQzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205RVIwc3pla2t0UTJ4T05FNDRWazVLZUVFMmQzYxAB!2m1!1s0x3442abee62d057df:0x812179e7064b67ea"
+    },
+    {
+      "name": "places/ChIJ31fQYu6rQjQR6mdLBud5IYE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tJelNraHVlR3RzVDBVNVRrZEllVEp6UjNGSFRXYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "原本要外帶的，結果因為行程臨時改變，改內用，打包得很漂亮很用心！服務很好，大推！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "原本要外帶的，結果因為行程臨時改變，改內用，打包得很漂亮很用心！服務很好，大推！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Li Li",
+        "uri": "https://www.google.com/maps/contrib/102352125143760703458/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXjlXb_EVV3OWiqwDL8saFI1wU5Q7eguEyHe4P1hTQEbqlDePTP=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-13T10:18:57.317791233Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tJelNraHVlR3RzVDBVNVRrZEllVEp6UjNGSFRXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tJelNraHVlR3RzVDBVNVRrZEllVEp6UjNGSFRXYxAB!2m1!1s0x3442abee62d057df:0x812179e7064b67ea"
+    },
+    {
+      "name": "places/ChIJ31fQYu6rQjQR6mdLBud5IYE/reviews/ChZDSUhNMG9nS0VJQ0FnTUNROXVQeldBEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "在台北很多地方都看到「莫凡彼餐廳」，好吃鬼總是要去嚐嚐！\nㄧ進餐廳就是ㄧ屋子人，生意很好，但也很吵，因週日有家庭聚會，大人小孩大呼小叫，很熱鬧，看菜單就發現有很多「組合餐」可選，二人、六人、八人等等，且是多選一或選二，顯然是為聚餐設計。\n點的是①烤牛肉沙拉= 430元②黑咖啡=110元，++=540元+10%服務費=594元\n烤牛肉沙拉生菜部分還不錯，但牛肉太老、不夠鮮嫩。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在台北很多地方都看到「莫凡彼餐廳」，好吃鬼總是要去嚐嚐！\nㄧ進餐廳就是ㄧ屋子人，生意很好，但也很吵，因週日有家庭聚會，大人小孩大呼小叫，很熱鬧，看菜單就發現有很多「組合餐」可選，二人、六人、八人等等，且是多選一或選二，顯然是為聚餐設計。\n點的是①烤牛肉沙拉= 430元②黑咖啡=110元，++=540元+10%服務費=594元\n烤牛肉沙拉生菜部分還不錯，但牛肉太老、不夠鮮嫩。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "KING (第10級在地嚮導)",
+        "uri": "https://www.google.com/maps/contrib/109750155652914128045/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKtnNaC96pwKQ4ttcOAEx_lXrfkHJAzM2jYWMeiMxH_m3evWw=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-03-04T07:37:05.231688Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNROXVQeldBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNROXVQeldBEAE!2m1!1s0x3442abee62d057df:0x812179e7064b67ea"
+    }
+  ],
+  "menuForChildren": true,
+  "goodForChildren": true
+}

@@ -1,0 +1,131 @@
+{
+  "id": "ChIJj-pC4tevQjQR3WxBc5TD4PA",
+  "types": [
+    "restaurant",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2823 6073",
+  "formattedAddress": "112台灣臺北市北投區立農里吉利街149巷4號",
+  "location": {
+    "latitude": 25.1188946,
+    "longitude": 121.50771789999999
+  },
+  "rating": 5,
+  "websiteUri": "https://www.gowoof.com.tw/",
+  "userRatingCount": 476,
+  "displayName": {
+    "text": "狗窩GoWoof咖啡廳",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJj-pC4tevQjQR3WxBc5TD4PA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5TGIxa3diblp0TVhsRlZGWklVemczVTJWdllsRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "今天跟房東約在這裡吃飯 簽約 看到小黑才犬 好聰明又可愛 餐點也不錯 下次有機會再來",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天跟房東約在這裡吃飯 簽約 看到小黑才犬 好聰明又可愛 餐點也不錯 下次有機會再來",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張千千",
+        "uri": "https://www.google.com/maps/contrib/116221033384941529208/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW-saVkqOgDuYS_ySirAaObAmklvgNq4cSlOm977rdsoNl3adLZ=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-26T04:33:54.877861680Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5TGIxa3diblp0TVhsRlZGWklVemczVTJWdllsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5TGIxa3diblp0TVhsRlZGWklVemczVTJWdllsRRAB!2m1!1s0x3442afd7e242ea8f:0xf0e0c39473416cdd"
+    },
+    {
+      "name": "places/ChIJj-pC4tevQjQR3WxBc5TD4PA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGMFRGSnRXbmh0YkZSa2NUVnpWMjVTV1daT2NYYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "店面很乾淨、舒服\n桌距也夠大\n第一桌還有沙發感覺坐起來很舒服\n可惜已經有客人了🤣\n\n會不時看到可愛的狗狗\n有客人帶來用餐\n也有送來美容的\n看了覺得療癒～\n\n餐點還ok，可惜沒附飲料\n套餐才有附～\n\n離捷運唭哩岸站2號出口，出站還算近\n安靜的小巷內～\n還不錯👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店面很乾淨、舒服\n桌距也夠大\n第一桌還有沙發感覺坐起來很舒服\n可惜已經有客人了🤣\n\n會不時看到可愛的狗狗\n有客人帶來用餐\n也有送來美容的\n看了覺得療癒～\n\n餐點還ok，可惜沒附飲料\n套餐才有附～\n\n離捷運唭哩岸站2號出口，出站還算近\n安靜的小巷內～\n還不錯👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "鳥字咖Oka",
+        "uri": "https://www.google.com/maps/contrib/106861796684968525125/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU9Dm7t47zogrOZ_-BZUaFxuoB8dXsgnO1UljotAM9wJFxWrhrA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-31T09:43:52.242847777Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGMFRGSnRXbmh0YkZSa2NUVnpWMjVTV1daT2NYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGMFRGSnRXbmh0YkZSa2NUVnpWMjVTV1daT2NYYxAB!2m1!1s0x3442afd7e242ea8f:0xf0e0c39473416cdd"
+    },
+    {
+      "name": "places/ChIJj-pC4tevQjQR3WxBc5TD4PA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCVU5ITlpYelJPWTJaNlpHOVRaMnBmZDFsRVpVRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點好吃😋\n而且空間蠻大的 位置也很舒服ദ്ദി ˃ ᵕ ˂\n氣氛也不錯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點好吃😋\n而且空間蠻大的 位置也很舒服ദ്ദി ˃ ᵕ ˂\n氣氛也不錯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "賴思庭",
+        "uri": "https://www.google.com/maps/contrib/113357507919292836154/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJwUbRo-DN_uKoxNXlSlvO7Y3u7_iaBG-C0D3AalZ7JQCc928rS=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-22T06:03:42.962796315Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCVU5ITlpYelJPWTJaNlpHOVRaMnBmZDFsRVpVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCVU5ITlpYelJPWTJaNlpHOVRaMnBmZDFsRVpVRRAB!2m1!1s0x3442afd7e242ea8f:0xf0e0c39473416cdd"
+    },
+    {
+      "name": "places/ChIJj-pC4tevQjQR3WxBc5TD4PA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWWldYUlJVVTh4VW0wMFUwRmljRTE0V25oUFdsRRAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 5,
+      "text": {
+        "text": "咖啡廳環境很棒，平日下午去很清幽，低消一份餐點或飲品，不限時，下次希望能跟店狗多互動！\n\n餐點選擇：\n\n檸檬西西里咖啡，比大部分喝過的都還要厲害，價格也很親民\n\n紅茶拿鐵，乳源選擇很棒\n\n烤布蕾還行",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "咖啡廳環境很棒，平日下午去很清幽，低消一份餐點或飲品，不限時，下次希望能跟店狗多互動！\n\n餐點選擇：\n\n檸檬西西里咖啡，比大部分喝過的都還要厲害，價格也很親民\n\n紅茶拿鐵，乳源選擇很棒\n\n烤布蕾還行",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chia-Feng Chiang",
+        "uri": "https://www.google.com/maps/contrib/108264299476617908786/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUydGK90iS9oS2NFK8Ls4Qzf2oDsRiRXPSTioaUFefnBmPgVdlt=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-06-17T12:44:50.411825968Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWWldYUlJVVTh4VW0wMFUwRmljRTE0V25oUFdsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWWldYUlJVVTh4VW0wMFUwRmljRTE0V25oUFdsRRAB!2m1!1s0x3442afd7e242ea8f:0xf0e0c39473416cdd"
+    },
+    {
+      "name": "places/ChIJj-pC4tevQjQR3WxBc5TD4PA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wTVZHUjFURjl1ZDJJemRXeFdSbFpuVldObmVsRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "帶愛狗美容還可以一邊享用餐點，蠻不錯的地方",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "帶愛狗美容還可以一邊享用餐點，蠻不錯的地方",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Eric Yu",
+        "uri": "https://www.google.com/maps/contrib/110278511214624167812/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWTBpYZ7BWlBxcBe81w29YVsk2TTquke_f-1vp_vi3TupYohUnJTg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-01T09:22:27.208872587Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wTVZHUjFURjl1ZDJJemRXeFdSbFpuVldObmVsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wTVZHUjFURjl1ZDJJemRXeFdSbFpuVldObmVsRRAB!2m1!1s0x3442afd7e242ea8f:0xf0e0c39473416cdd"
+    }
+  ]
+}

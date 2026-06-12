@@ -1,0 +1,129 @@
+﻿{
+    "id":  "ChIJ5WXE1QSrQjQR939GUfh1Mhc",
+    "types":  [
+                  "brunch_restaurant",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2230 5931",
+    "formattedAddress":  "116台灣臺北市文山區興得里興隆路三段172號",
+    "location":  {
+                     "latitude":  24.998226,
+                     "longitude":  121.558535
+                 },
+    "rating":  4.1,
+    "userRatingCount":  204,
+    "displayName":  {
+                        "text":  "古德默尼早午餐「台北店」（週三為公休日，偶爾會不定時休）",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJ5WXE1QSrQjQR939GUfh1Mhc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taUllqSTNSakoyTlRSdVpqbEthVWN0VDJ0SmFsRRAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "肉燥麵好吃～蛋餅也不錯！奶茶好喝！辣椒很讚",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "肉燥麵好吃～蛋餅也不錯！奶茶好喝！辣椒很讚",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Han Han",
+                                                  "uri":  "https://www.google.com/maps/contrib/108534294029506949880/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocJIhzwI6na6LGhSfZsRlM7xXHAnGiNSNFeRecMfr0Po7zOElw=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2026-01-11T08:22:20.219806126Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taUllqSTNSakoyTlRSdVpqbEthVWN0VDJ0SmFsRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taUllqSTNSakoyTlRSdVpqbEthVWN0VDJ0SmFsRRAB!2m1!1s0x3442ab04d5c465e5:0x173275f851467ff7"
+                    },
+                    {
+                        "name":  "places/ChIJ5WXE1QSrQjQR939GUfh1Mhc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKRFNHbDBMVzkwUVMxM1dXSTBNRTlvUW10U2NrRRAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "河粉蛋餅超驚豔,很有特色\n餐點很美味",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "河粉蛋餅超驚豔,很有特色\n餐點很美味",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "尹成俊",
+                                                  "uri":  "https://www.google.com/maps/contrib/109311384665417038888/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocKjRoZR4eR8EdiFIwI75acZcN9WobLppiEkpNlkqKsHAqlWwQ=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2026-02-02T08:13:49.330544124Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKRFNHbDBMVzkwUVMxM1dXSTBNRTlvUW10U2NrRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKRFNHbDBMVzkwUVMxM1dXSTBNRTlvUW10U2NrRRAB!2m1!1s0x3442ab04d5c465e5:0x173275f851467ff7"
+                    },
+                    {
+                        "name":  "places/ChIJ5WXE1QSrQjQR939GUfh1Mhc/reviews/ChdDSUhNMG9nS0VJQ0FnSUNfei1LTXNBRRAB",
+                        "relativePublishTimeDescription":  "1 年前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "點外送，鮪魚河粉蛋餅讚！河粉外皮很Q內餡紮實，鮪魚還有加玉米，好吃。再訪點卡拉雞河粉蛋餅一樣好吃，很有飽足感，蛋餅真的可以五星！\n吐司系列中規中矩，預設有去邊，豬肉和里肌吐司還OK，就是一般早餐店水準(已自行將店家紙袋換成塑膠袋方便小朋友吃)。飲料部分紅茶有點淡，偏甜，豆漿普通。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "點外送，鮪魚河粉蛋餅讚！河粉外皮很Q內餡紮實，鮪魚還有加玉米，好吃。再訪點卡拉雞河粉蛋餅一樣好吃，很有飽足感，蛋餅真的可以五星！\n吐司系列中規中矩，預設有去邊，豬肉和里肌吐司還OK，就是一般早餐店水準(已自行將店家紙袋換成塑膠袋方便小朋友吃)。飲料部分紅茶有點淡，偏甜，豆漿普通。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Lèvr【第10級在地嚮導】",
+                                                  "uri":  "https://www.google.com/maps/contrib/115131688509506708788/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWWReqt4dR6N7p45ZpSr8ODGEAaWrEOYRW_WXQCLNWUULTLqEq91g=s128-c0x00000000-cc-rp-mo-ba8"
+                                              },
+                        "publishTime":  "2025-01-27T15:35:20.167873Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNfei1LTXNBRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNfei1LTXNBRRAB!2m1!1s0x3442ab04d5c465e5:0x173275f851467ff7"
+                    },
+                    {
+                        "name":  "places/ChIJ5WXE1QSrQjQR939GUfh1Mhc/reviews/ChZDSUhNMG9nS0VJQ0FnSUNlaDY2RlJBEAE",
+                        "relativePublishTimeDescription":  "3 年前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "愛店～來了好幾次都沒踩雷過！蔥抓蛋很酥很香 配店家的辣椒真的很搭 夠辣 很適合愛吃辣的人\n價錢也很公道 銅板價就可以吃到好吃的早午餐 讚讚😍",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "愛店～來了好幾次都沒踩雷過！蔥抓蛋很酥很香 配店家的辣椒真的很搭 夠辣 很適合愛吃辣的人\n價錢也很公道 銅板價就可以吃到好吃的早午餐 讚讚😍",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Claudia Lim",
+                                                  "uri":  "https://www.google.com/maps/contrib/111035343264289026683/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocJdwM4OoyCQsaYsAXdu2Fn0CPGaGTOxJyk5WE8E9zZPhbcKBw=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2022-09-25T11:03:02.382880Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNlaDY2RlJBEAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNlaDY2RlJBEAE!2m1!1s0x3442ab04d5c465e5:0x173275f851467ff7"
+                    },
+                    {
+                        "name":  "places/ChIJ5WXE1QSrQjQR939GUfh1Mhc/reviews/ChdDSUhNMG9nS0VJQ0FnSUREcUphaTBnRRAB",
+                        "relativePublishTimeDescription":  "2 年前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "附近有停車場，走路過來大概3分鐘。\n\n老闆和老闆娘很親切～\n環境整潔寬敞，麵食、漢堡、蛋餅（餅皮還有河粉可選）口味豐富！\n\n炸物種類很豐富又便宜！\n兩塊薯餅才40、薯條一大盤才35！雞塊多汁好吃，根本小朋友天堂～\n鐵板麵麵超Q不爛，黑胡椒辣得夠味、古典肉燥麵也很好吃，配上特製辣椒根本絕配～\n\n幸福地度過美好早晨🥰🥰🥰",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "附近有停車場，走路過來大概3分鐘。\n\n老闆和老闆娘很親切～\n環境整潔寬敞，麵食、漢堡、蛋餅（餅皮還有河粉可選）口味豐富！\n\n炸物種類很豐富又便宜！\n兩塊薯餅才40、薯條一大盤才35！雞塊多汁好吃，根本小朋友天堂～\n鐵板麵麵超Q不爛，黑胡椒辣得夠味、古典肉燥麵也很好吃，配上特製辣椒根本絕配～\n\n幸福地度過美好早晨🥰🥰🥰",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Mi mi",
+                                                  "uri":  "https://www.google.com/maps/contrib/110373595044414530339/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXyCcMZt2DzdJpBIa5p54NJDHqGJEklc7hMTK8GKgOEM3qe9zVu=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2024-04-05T03:37:40.057321Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUREcUphaTBnRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUREcUphaTBnRRAB!2m1!1s0x3442ab04d5c465e5:0x173275f851467ff7"
+                    }
+                ]
+}

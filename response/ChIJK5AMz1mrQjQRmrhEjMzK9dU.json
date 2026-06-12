@@ -1,0 +1,135 @@
+{
+  "id": "ChIJK5AMz1mrQjQRmrhEjMzK9dU",
+  "types": [
+    "hot_pot_restaurant",
+    "deli",
+    "taiwanese_restaurant",
+    "food_store",
+    "store",
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2783 4786",
+  "formattedAddress": "115台灣臺北市南港區新富里忠孝東路七段633號",
+  "location": {
+    "latitude": 25.0533217,
+    "longitude": 121.61597719999999
+  },
+  "rating": 4.5,
+  "websiteUri": "http://www.tain.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1011,
+  "displayName": {
+    "text": "帝王食補 世貿店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJK5AMz1mrQjQRmrhEjMzK9dU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5d1lsOU1TSE5CWkhwR09VOXhjVEpuWmpKUE4zYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 2,
+      "text": {
+        "text": "調味雖好吃，份量與價格不匹配，蛤蜊新鮮度不佳。\n\n不推薦的品項如下供參考，\n1. 蛤蜊一盤大約10顆（2-3顆壞的）\n2. 椒鹽蝦 300元 一盤7隻（調味不錯，但一隻43塊我覺得完全不會點\n3. 梅花牛肉片 200 元 （吃起來是有腥味的冷凍盒裝肉片）\n\n其他可以誇獎的地方：\n玉米甜、黃金麵線有特色、可以加湯（薑母鴨） 且湯頭特別、酒味濃。\n\n還行/普通安全的食物：\n1. 鴨肉—偏柴\n2. 鴨香蛋餃—火鍋料蛋餃的感覺，吃不出特別之處\n3. 鴨血— 腥味可以接受，口感不錯\n\n看了評價來，平均一人900塊。不推，大機率不再光顧。\n（唯一捨不得外帶的是麥仔茶飲料…",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "調味雖好吃，份量與價格不匹配，蛤蜊新鮮度不佳。\n\n不推薦的品項如下供參考，\n1. 蛤蜊一盤大約10顆（2-3顆壞的）\n2. 椒鹽蝦 300元 一盤7隻（調味不錯，但一隻43塊我覺得完全不會點\n3. 梅花牛肉片 200 元 （吃起來是有腥味的冷凍盒裝肉片）\n\n其他可以誇獎的地方：\n玉米甜、黃金麵線有特色、可以加湯（薑母鴨） 且湯頭特別、酒味濃。\n\n還行/普通安全的食物：\n1. 鴨肉—偏柴\n2. 鴨香蛋餃—火鍋料蛋餃的感覺，吃不出特別之處\n3. 鴨血— 腥味可以接受，口感不錯\n\n看了評價來，平均一人900塊。不推，大機率不再光顧。\n（唯一捨不得外帶的是麥仔茶飲料…",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "小食怪",
+        "uri": "https://www.google.com/maps/contrib/103317146371080402066/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXRW-jTvz5PAT1WjVvwRPUfc5VngC3lMFkYFBJVBX-PUEGPSbM=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-30T13:45:58.941603611Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5d1lsOU1TSE5CWkhwR09VOXhjVEpuWmpKUE4zYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5d1lsOU1TSE5CWkhwR09VOXhjVEpuWmpKUE4zYxAB!2m1!1s0x3442ab59cf0c902b:0xd5f5cacc8c44b89a"
+    },
+    {
+      "name": "places/ChIJK5AMz1mrQjQRmrhEjMzK9dU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kamVUUTNabmN0YmxWTE0wczVaVkozZHpSVk9FRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "薑母鴨很讚，酒味重煮久後轉化成甘甜的湯，配上蔬菜很搭。\n\n胡椒豬肚雞，我覺得還好，豬肚軟有胡椒味，但雞肉跟其他料完全是陌生人，是個單獨的存在。我吃不懂@@\n\n鹽酥鴨肉和鹽酥米血好吃，直接下手，根本啤酒殺手。米血如何做到外酥內軟。真的很強！大推薦！\n\n人員態度很友善\n\n環境稍嫌悶熱",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "薑母鴨很讚，酒味重煮久後轉化成甘甜的湯，配上蔬菜很搭。\n\n胡椒豬肚雞，我覺得還好，豬肚軟有胡椒味，但雞肉跟其他料完全是陌生人，是個單獨的存在。我吃不懂@@\n\n鹽酥鴨肉和鹽酥米血好吃，直接下手，根本啤酒殺手。米血如何做到外酥內軟。真的很強！大推薦！\n\n人員態度很友善\n\n環境稍嫌悶熱",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林政宇",
+        "uri": "https://www.google.com/maps/contrib/114154041447319224905/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVwQfxpsCzAlW0Xx5UQDbYQuoH9qdLNywzL7J9XNV27NmeDZuo8=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-06T02:15:51.067744374Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kamVUUTNabmN0YmxWTE0wczVaVkozZHpSVk9FRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kamVUUTNabmN0YmxWTE0wczVaVkozZHpSVk9FRRAB!2m1!1s0x3442ab59cf0c902b:0xd5f5cacc8c44b89a"
+    },
+    {
+      "name": "places/ChIJK5AMz1mrQjQRmrhEjMzK9dU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxVlRIUnBOR0poWkhvM2MwWlpTakU1TjBOcU5IYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "台灣味 冬天超適合多人聚餐小酌\n人均點下來五百初價格不算便宜\n薑母鴨湯頭好喝",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "台灣味 冬天超適合多人聚餐小酌\n人均點下來五百初價格不算便宜\n薑母鴨湯頭好喝",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Leo Kuo",
+        "uri": "https://www.google.com/maps/contrib/101293787903334896919/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXHkMwh9Pi5-NTsvgs5RlmLssOeIWKnJhtHyHJ0F930Aem6jMjS=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-03T09:45:39.801365918Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxVlRIUnBOR0poWkhvM2MwWlpTakU1TjBOcU5IYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxVlRIUnBOR0poWkhvM2MwWlpTakU1TjBOcU5IYxAB!2m1!1s0x3442ab59cf0c902b:0xd5f5cacc8c44b89a"
+    },
+    {
+      "name": "places/ChIJK5AMz1mrQjQRmrhEjMzK9dU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0U1ZGOU9RWFJGTm5rMUxWOHRMVUZZZFdwcVRHYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 3,
+      "text": {
+        "text": "點了一品紅燒羊，湯頭還可以，玉米很甜好吃，菜也都蠻新鮮的，羊肉尚可，整體來說還可以，天冷想吃鍋時可以吃看看",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點了一品紅燒羊，湯頭還可以，玉米很甜好吃，菜也都蠻新鮮的，羊肉尚可，整體來說還可以，天冷想吃鍋時可以吃看看",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "王小姐",
+        "uri": "https://www.google.com/maps/contrib/114174039588693235574/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJAXWEM_siIko4oJYy4i-l_oB1d60tnQ-hO-KNb2ru0Agp6aw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-14T12:04:53.310880011Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0U1ZGOU9RWFJGTm5rMUxWOHRMVUZZZFdwcVRHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0U1ZGOU9RWFJGTm5rMUxWOHRMVUZZZFdwcVRHYxAB!2m1!1s0x3442ab59cf0c902b:0xd5f5cacc8c44b89a"
+    },
+    {
+      "name": "places/ChIJK5AMz1mrQjQRmrhEjMzK9dU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxaFIxbEhUWEpZU0VVdE5Gb3dWRWRvU1VKMGVFRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 1,
+      "text": {
+        "text": "外帶400元一份的薑母鴨,全部內容如照片+湯水。一個頭、一小截脖子佔最大部分。店家說有8-9塊肉，也就是一小段脖子（3公分）、鴨頭、翅膀尾端也算鴨肉，整盤只湊出4小塊鴨肉。如照片所示。要不是谷歌一定要給一點，其實是連一點也不值。照片已是放大倍數的了。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "外帶400元一份的薑母鴨,全部內容如照片+湯水。一個頭、一小截脖子佔最大部分。店家說有8-9塊肉，也就是一小段脖子（3公分）、鴨頭、翅膀尾端也算鴨肉，整盤只湊出4小塊鴨肉。如照片所示。要不是谷歌一定要給一點，其實是連一點也不值。照片已是放大倍數的了。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Li Chou",
+        "uri": "https://www.google.com/maps/contrib/105764371137251682357/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKBe8nY3O_ZvnPSEq81IaBnr70GbdUh4pmM8QcdhBPjDju1aA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-09T04:36:56.428953623Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxaFIxbEhUWEpZU0VVdE5Gb3dWRWRvU1VKMGVFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxaFIxbEhUWEpZU0VVdE5Gb3dWRWRvU1VKMGVFRRAB!2m1!1s0x3442ab59cf0c902b:0xd5f5cacc8c44b89a"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "id": "ChIJxQLzBACpQjQR7aLkwWucdr0",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2595 5798",
+  "formattedAddress": "10491台灣臺北市中山區圓山里林森北路641號",
+  "location": {
+    "latitude": 25.0673823,
+    "longitude": 121.5258703
+  },
+  "rating": 4.4,
+  "userRatingCount": 203,
+  "displayName": {
+    "text": "Wanna旺納早餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJxQLzBACpQjQR7aLkwWucdr0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOdVpsOWtUakZTUTJFNVNWZ3hSa2QxVDNCRWVWRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 2,
+      "text": {
+        "text": "這家早餐店最大的問題就是份量太小，但價格卻相對很高。點了一個 115 元的漢堡，上桌時被那個迷你尺寸嚇到，裡面也只是很平凡的漢堡肉加蛋，吃完後完全沒飽。脆皮蛋餅吃起來口感很乾，並不是那種炸得酥脆的口感，有點失望。燉飯的味道很普通，吃起來有一種超商微波食品的感覺。整體來說，味道沒有亮點，份量與價格完全不成正比，在台北有更多CP值更高的早餐選擇，應該不會再回訪。\n\nThe biggest issue with Wanna Breakfast is the tiny portions combined with high prices. I ordered a burger for 115 TWD and was shocked by how small it was—just a basic patty and egg with no special flavor. The \"crispy\" egg crepe was actually just very dry, not the crispy texture I expected. The risotto also tasted quite average, reminiscent of a microwave meal from a convenience store. Overall, the taste doesn't stand out, and the value for money is very poor. There are plenty of better breakfast spots in Taipei with larger portions and lower prices. I won't be returning.",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這家早餐店最大的問題就是份量太小，但價格卻相對很高。點了一個 115 元的漢堡，上桌時被那個迷你尺寸嚇到，裡面也只是很平凡的漢堡肉加蛋，吃完後完全沒飽。脆皮蛋餅吃起來口感很乾，並不是那種炸得酥脆的口感，有點失望。燉飯的味道很普通，吃起來有一種超商微波食品的感覺。整體來說，味道沒有亮點，份量與價格完全不成正比，在台北有更多CP值更高的早餐選擇，應該不會再回訪。\n\nThe biggest issue with Wanna Breakfast is the tiny portions combined with high prices. I ordered a burger for 115 TWD and was shocked by how small it was—just a basic patty and egg with no special flavor. The \"crispy\" egg crepe was actually just very dry, not the crispy texture I expected. The risotto also tasted quite average, reminiscent of a microwave meal from a convenience store. Overall, the taste doesn't stand out, and the value for money is very poor. There are plenty of better breakfast spots in Taipei with larger portions and lower prices. I won't be returning.",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "SAIVE Liu",
+        "uri": "https://www.google.com/maps/contrib/109596743236155596188/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjViwkS9Bcavk9dEXy1XIx2C8zo67pLBNYpO9-OCCm1OnvJWJjNnKA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-01T06:59:40.393195861Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOdVpsOWtUakZTUTJFNVNWZ3hSa2QxVDNCRWVWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOdVpsOWtUakZTUTJFNVNWZ3hSa2QxVDNCRWVWRRAB!2m1!1s0x3442a90004f302c5:0xbd769c6bc1e4a2ed"
+    },
+    {
+      "name": "places/ChIJxQLzBACpQjQR7aLkwWucdr0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCcFdqaFlPV3RzV0VKbVMzaDBNM1k0Wm14eVdsRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "蛋餅建議內用會比較好吃\n外帶的蛋餅沒有那麼脆\n薯條還行\n飲料可以調整甜度很棒\n服務態度良好\n有線上支付",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "蛋餅建議內用會比較好吃\n外帶的蛋餅沒有那麼脆\n薯條還行\n飲料可以調整甜度很棒\n服務態度良好\n有線上支付",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "邱瑀婕",
+        "uri": "https://www.google.com/maps/contrib/109626042206460986840/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUSb47YHxVltjoc4P1d3YbTDHL2oQ0_ebvfoRUaRhAzR8o9VwU3CQ=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-01-29T07:27:15.182334920Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCcFdqaFlPV3RzV0VKbVMzaDBNM1k0Wm14eVdsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCcFdqaFlPV3RzV0VKbVMzaDBNM1k0Wm14eVdsRRAB!2m1!1s0x3442a90004f302c5:0xbd769c6bc1e4a2ed"
+    },
+    {
+      "name": "places/ChIJxQLzBACpQjQR7aLkwWucdr0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pselprRnBWa1E0Vlc5c1JYQmtaVlF4VlZONU5IYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "偶然經過來吃吃看，\n山形吐司很好吃欸！小朋友說吐司豪好吃～\n原味沙拉🥗用料新鮮，拿鐵咖啡也好喝\n（如果份量多一點就更棒了～）\n店內乾淨，水泥色牆壁搭配霓虹燈管的裝潢很好看",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "偶然經過來吃吃看，\n山形吐司很好吃欸！小朋友說吐司豪好吃～\n原味沙拉🥗用料新鮮，拿鐵咖啡也好喝\n（如果份量多一點就更棒了～）\n店內乾淨，水泥色牆壁搭配霓虹燈管的裝潢很好看",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ray Hsu",
+        "uri": "https://www.google.com/maps/contrib/103364508190861336117/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXeZQZ3NOCol9J1cBqbLAzst0xnBOFURmwkoh14GVvq4KT6ycigdg=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-08-24T10:32:48.095324953Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pselprRnBWa1E0Vlc5c1JYQmtaVlF4VlZONU5IYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pselprRnBWa1E0Vlc5c1JYQmtaVlF4VlZONU5IYxAB!2m1!1s0x3442a90004f302c5:0xbd769c6bc1e4a2ed"
+    },
+    {
+      "name": "places/ChIJxQLzBACpQjQR7aLkwWucdr0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pacWRtMWlVbWRHTjJSM1FtaGZNRzA0U3pKa1QyYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "✅吐司好吃給料不手軟、奶茶也好喝，以這價位能吃到這樣子不錯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "✅吐司好吃給料不手軟、奶茶也好喝，以這價位能吃到這樣子不錯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hasa",
+        "uri": "https://www.google.com/maps/contrib/116770125000332908835/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVnd-vl2YuWliirKtrMBqkmOlPq6wdXzlZlI3B-JmxcSF0iArY=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-01-03T13:19:00.658313733Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pacWRtMWlVbWRHTjJSM1FtaGZNRzA0U3pKa1QyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pacWRtMWlVbWRHTjJSM1FtaGZNRzA0U3pKa1QyYxAB!2m1!1s0x3442a90004f302c5:0xbd769c6bc1e4a2ed"
+    },
+    {
+      "name": "places/ChIJxQLzBACpQjQR7aLkwWucdr0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKSk5XeHBUbGhqZDJGaVYxUXlVVGhxWkd0WFgzYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 3,
+      "text": {
+        "text": "蛋餅份量不大又偏乾 價格偏貴了點 但離上課地點最近的早餐店只有這家  室內設計感覺還蠻舒服的 不過也看蠻多阿公阿嬤外帶的",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "蛋餅份量不大又偏乾 價格偏貴了點 但離上課地點最近的早餐店只有這家  室內設計感覺還蠻舒服的 不過也看蠻多阿公阿嬤外帶的",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "彤彤",
+        "uri": "https://www.google.com/maps/contrib/103688150213329394838/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVNTNSlytrJRkM7QVJe3g8olrSYDxk4MOBEuxnxNWNF4oOAqvk=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-10-02T15:09:34.647542185Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKSk5XeHBUbGhqZDJGaVYxUXlVVGhxWkd0WFgzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKSk5XeHBUbGhqZDJGaVYxUXlVVGhxWkd0WFgzYxAB!2m1!1s0x3442a90004f302c5:0xbd769c6bc1e4a2ed"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

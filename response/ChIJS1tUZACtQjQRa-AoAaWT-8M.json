@@ -1,0 +1,137 @@
+﻿{
+    "id":  "ChIJS1tUZACtQjQRa-AoAaWT-8M",
+    "types":  [
+                  "japanese_restaurant",
+                  "tonkatsu_restaurant",
+                  "ramen_restaurant",
+                  "meal_delivery",
+                  "noodle_shop",
+                  "food_delivery",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2633 9000",
+    "formattedAddress":  "114台灣臺北市內湖區葫洲里康寧路三段2號",
+    "location":  {
+                     "latitude":  25.072810099999998,
+                     "longitude":  121.60653939999999
+                 },
+    "rating":  4.3,
+    "websiteUri":  "https://www.facebook.com/profile.php?id=61559236584603\u0026mibextid=JRoKGi",
+    "userRatingCount":  363,
+    "displayName":  {
+                        "text":  "令和博多拉麵",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJS1tUZACtQjQRa-AoAaWT-8M/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsUGFqUlROMmcyYXpscmVuRmhWRTlxTFU5Wk9HYxAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "在網路上偶然搜尋到的龍蝦拉麵非常吸引我，於是就開了來回50多公里的車過來，幸好上班日後面巷子停車格非常多位子又便宜。\n\n1.環境\n位置在捷運站正一樓，非常好的位子，大馬路邊也不難找，裡面裝潢很好，簡介裡也有屋子從無到有的裝修過程，顯見老闆投入很多心血也很用心。\n\n2.龍蝦拉麵（$378）\n奔著這個來的，當然就直接點了。另外加$88就有套餐：可以選各種飲料、蝦茶碗蒸或者是冰淇淋一球。我選了可爾必思跟茶碗蒸，非常推薦茶碗蒸，料多而且口感非常好，相片看不出來，地下很多料呢。\n期待的拉麵來了，可惜龍蝦（小青龍）只有半隻呀，我記得上次看評論是整整一隻，難道漲價了？分兩口就吃完了，味道相當不錯；拉麵的配料也相當豐富，除了一般的蝦子🦐、小魚乾、三片大叉燒片外、居然還有一顆大干貝！真是驚喜。\n\n小缺點是湯頭跟拉麵屬於台式的風味，不是正宗日式的是有點可惜，拉麵類似面框框的那種麵缺乏嚼勁（我點的是最硬的），湯頭有蛋黃金莎的味道，缺乏日式的鮮甜是有點可惜，當然為了配合本地口味也無可厚非吧。\n\n整體而言，3.7分，算是中上的評價。（龍蝦物美價廉很好吃加分不少😋）",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "在網路上偶然搜尋到的龍蝦拉麵非常吸引我，於是就開了來回50多公里的車過來，幸好上班日後面巷子停車格非常多位子又便宜。\n\n1.環境\n位置在捷運站正一樓，非常好的位子，大馬路邊也不難找，裡面裝潢很好，簡介裡也有屋子從無到有的裝修過程，顯見老闆投入很多心血也很用心。\n\n2.龍蝦拉麵（$378）\n奔著這個來的，當然就直接點了。另外加$88就有套餐：可以選各種飲料、蝦茶碗蒸或者是冰淇淋一球。我選了可爾必思跟茶碗蒸，非常推薦茶碗蒸，料多而且口感非常好，相片看不出來，地下很多料呢。\n期待的拉麵來了，可惜龍蝦（小青龍）只有半隻呀，我記得上次看評論是整整一隻，難道漲價了？分兩口就吃完了，味道相當不錯；拉麵的配料也相當豐富，除了一般的蝦子🦐、小魚乾、三片大叉燒片外、居然還有一顆大干貝！真是驚喜。\n\n小缺點是湯頭跟拉麵屬於台式的風味，不是正宗日式的是有點可惜，拉麵類似面框框的那種麵缺乏嚼勁（我點的是最硬的），湯頭有蛋黃金莎的味道，缺乏日式的鮮甜是有點可惜，當然為了配合本地口味也無可厚非吧。\n\n整體而言，3.7分，算是中上的評價。（龍蝦物美價廉很好吃加分不少😋）",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "家光（公子光）",
+                                                  "uri":  "https://www.google.com/maps/contrib/100346457995402491370/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUwUzodlaWZgDW8T2LAZgIs2tSOpus21ThWJknK38n5LLbkeuMkNw=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2026-01-30T15:57:12.674332906Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsUGFqUlROMmcyYXpscmVuRmhWRTlxTFU5Wk9HYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsUGFqUlROMmcyYXpscmVuRmhWRTlxTFU5Wk9HYxAB!2m1!1s0x3442ad0064545b4b:0xc3fb93a50128e06b"
+                    },
+                    {
+                        "name":  "places/ChIJS1tUZACtQjQRa-AoAaWT-8M/reviews/Ci9DQUlRQUNvZENodHljRjlvT213dFNXNUtPVXRtUVhWWFNFUmpNVFZtYTFaU1gxRRAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "店內空間不算大，但座位安排得很寬敞，整體環境舒適，每到用餐時段幾乎都是客滿狀態，建議早點來或避開尖峰時段。\n\n🍜 正宗豚骨拉麵 $198\n湯頭熱騰騰，豚骨香氣濃郁，麵條充分吸附湯汁，整體口感很不錯，不過個人覺得湯頭稍微偏鹹一些。\n叉燒是偏瘦肉的部分，但口感不柴❤️\n拉麵可以更換成粗麵，也能調整麵條硬度，還提供免費加湯、加麵，對食量大的人來說很加分 😆\n\n除了拉麵本身，最讓我印象深刻的是店員親切又熱情的招呼，一進門就能感受到滿滿的活力，讓人有種回到家的溫暖感覺。整體用餐體驗很不錯，會讓人想再訪☺️",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "店內空間不算大，但座位安排得很寬敞，整體環境舒適，每到用餐時段幾乎都是客滿狀態，建議早點來或避開尖峰時段。\n\n🍜 正宗豚骨拉麵 $198\n湯頭熱騰騰，豚骨香氣濃郁，麵條充分吸附湯汁，整體口感很不錯，不過個人覺得湯頭稍微偏鹹一些。\n叉燒是偏瘦肉的部分，但口感不柴❤️\n拉麵可以更換成粗麵，也能調整麵條硬度，還提供免費加湯、加麵，對食量大的人來說很加分 😆\n\n除了拉麵本身，最讓我印象深刻的是店員親切又熱情的招呼，一進門就能感受到滿滿的活力，讓人有種回到家的溫暖感覺。整體用餐體驗很不錯，會讓人想再訪☺️",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Mochi糬糬小日子",
+                                                  "uri":  "https://www.google.com/maps/contrib/117842788043906129675/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjW6t758FQLtBRISIOtwqjf_bXLSsb7ENuwFFK536qIQeVZVH9ZepA=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-12-20T01:01:09.897190842Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT213dFNXNUtPVXRtUVhWWFNFUmpNVFZtYTFaU1gxRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT213dFNXNUtPVXRtUVhWWFNFUmpNVFZtYTFaU1gxRRAB!2m1!1s0x3442ad0064545b4b:0xc3fb93a50128e06b"
+                    },
+                    {
+                        "name":  "places/ChIJS1tUZACtQjQRa-AoAaWT-8M/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pRMWMxUnVVVGR3Uld4VFN6Qm9VMGxyUkVKcGVYYxAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "素食友善的好餐廳❤️👍\n\n感謝老闆願意在豚骨拉麵的菜單裡推出「素食蔬菜拉麵」，對晚下班很想吃碗熱騰騰麵食的素食者來說，真是佛心般的安慰🙏\n\n醬油清湯的湯底很清爽，整碗滿滿的蔬菜（有香菇、秋葵、蓮藕、白菜、玉米筍）還有蛋包很豐盛，選了最硬的細麵有嚼勁，配上溏心蛋一起吃很有飽足感😋\n\n加點的現炸薯條也非常美味喔！\n\n我是東湖人，很開心能在東湖吃到美味的素麵，感謝老闆🥹",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "素食友善的好餐廳❤️👍\n\n感謝老闆願意在豚骨拉麵的菜單裡推出「素食蔬菜拉麵」，對晚下班很想吃碗熱騰騰麵食的素食者來說，真是佛心般的安慰🙏\n\n醬油清湯的湯底很清爽，整碗滿滿的蔬菜（有香菇、秋葵、蓮藕、白菜、玉米筍）還有蛋包很豐盛，選了最硬的細麵有嚼勁，配上溏心蛋一起吃很有飽足感😋\n\n加點的現炸薯條也非常美味喔！\n\n我是東湖人，很開心能在東湖吃到美味的素麵，感謝老闆🥹",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Form Cheng (Form)",
+                                                  "uri":  "https://www.google.com/maps/contrib/116040198608606243679/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVLeMGht5iWyt0jE6sOQN1R4Pd5xXao3YZYC9DHjlrWC1oqOJGj=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2026-02-03T12:32:51.709504093Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pRMWMxUnVVVGR3Uld4VFN6Qm9VMGxyUkVKcGVYYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pRMWMxUnVVVGR3Uld4VFN6Qm9VMGxyUkVKcGVYYxAB!2m1!1s0x3442ad0064545b4b:0xc3fb93a50128e06b"
+                    },
+                    {
+                        "name":  "places/ChIJS1tUZACtQjQRa-AoAaWT-8M/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wb09IVnpXRXBNZVVjM1gxb3pTbTVQYVdKRmNIYxAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "內用環境小了一點，但個人覺得裝潢挺有日式風格，店員態度非常親切很讚!!!\n唐揚親子丼稍微鹹了點但炸雞很好吃。\n拉麵就正常味道，可以免費加湯加麵。\n茶碗蒸味道不錯而且很大碗，很滿足。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "內用環境小了一點，但個人覺得裝潢挺有日式風格，店員態度非常親切很讚!!!\n唐揚親子丼稍微鹹了點但炸雞很好吃。\n拉麵就正常味道，可以免費加湯加麵。\n茶碗蒸味道不錯而且很大碗，很滿足。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "黃庭毅Allen",
+                                                  "uri":  "https://www.google.com/maps/contrib/100727664915706760035/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjW8cAHb7x-ESVBdtCr5IHQ87pzFGyepciwFbw4NekXDpYRZLf1W=s128-c0x00000000-cc-rp-mo-ba8"
+                                              },
+                        "publishTime":  "2025-12-11T15:40:37.545891258Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wb09IVnpXRXBNZVVjM1gxb3pTbTVQYVdKRmNIYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wb09IVnpXRXBNZVVjM1gxb3pTbTVQYVdKRmNIYxAB!2m1!1s0x3442ad0064545b4b:0xc3fb93a50128e06b"
+                    },
+                    {
+                        "name":  "places/ChIJS1tUZACtQjQRa-AoAaWT-8M/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ocmVFVlFZbEF0ZVcxNVVUZG1VakJsYzBKWVdHYxAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "有一個女性服務員招呼客人很周到。\n今天點了季節限定的炸鮮蚵，酥脆好吃。\n冷冷的天吃碗湯頭濃郁的拉麵感覺非常溫暖。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "有一個女性服務員招呼客人很周到。\n今天點了季節限定的炸鮮蚵，酥脆好吃。\n冷冷的天吃碗湯頭濃郁的拉麵感覺非常溫暖。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "STONE",
+                                                  "uri":  "https://www.google.com/maps/contrib/107823173974920948493/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUN9qCXVVvVb7_0DqNsPtT0G_mmU2ueAl43ba1MieH6StLQdntT=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2026-01-12T06:44:12.651565530Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25ocmVFVlFZbEF0ZVcxNVVUZG1VakJsYzBKWVdHYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ocmVFVlFZbEF0ZVcxNVVUZG1VakJsYzBKWVdHYxAB!2m1!1s0x3442ad0064545b4b:0xc3fb93a50128e06b"
+                    }
+                ],
+    "menuForChildren":  true,
+    "goodForChildren":  true
+}

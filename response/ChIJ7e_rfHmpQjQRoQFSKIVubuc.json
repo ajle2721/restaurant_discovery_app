@@ -1,0 +1,132 @@
+{
+  "id": "ChIJ7e_rfHmpQjQRoQFSKIVubuc",
+  "types": [
+    "chinese_restaurant",
+    "family_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2396 7277",
+  "formattedAddress": "100台灣臺北市中正區文北里金山南路一段37號1樓",
+  "location": {
+    "latitude": 25.039749699999998,
+    "longitude": 121.529052
+  },
+  "rating": 4.3,
+  "websiteUri": "https://www.facebook.com/pages/%E8%89%AF%E5%8F%8B%E5%B0%8F%E9%A4%A8/207230822621562",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 2338,
+  "displayName": {
+    "text": "良友小館",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ7e_rfHmpQjQRoQFSKIVubuc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tFMFVFMTZiM2xIZGpCMFdEQmtUbU5GWW5SVFVHYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "趕在晚上五點營業前進來，上菜快，也不用跟別人併桌\n三個人點了一條赤鯮，看著還不小，果然不便宜，要900塊\n\n七道菜，三盤炒飯，平均每人要八百多，但是的確好吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "趕在晚上五點營業前進來，上菜快，也不用跟別人併桌\n三個人點了一條赤鯮，看著還不小，果然不便宜，要900塊\n\n七道菜，三盤炒飯，平均每人要八百多，但是的確好吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "CH Yang",
+        "uri": "https://www.google.com/maps/contrib/103938461659797641614/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUYQ6kUDgN6lnUJGKoMer_C4LeR__Cqi6Q8Ked79pO1moTW59GTJA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-11T10:30:38.834707209Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tFMFVFMTZiM2xIZGpCMFdEQmtUbU5GWW5SVFVHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tFMFVFMTZiM2xIZGpCMFdEQmtUbU5GWW5SVFVHYxAB!2m1!1s0x3442a9797cebefed:0xe76e6e85285201a1"
+    },
+    {
+      "name": "places/ChIJ7e_rfHmpQjQRoQFSKIVubuc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkdFZ6ZERORmhoVld4RFdrbERTWE5QYW5WeFZYYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "芋頭米粉湯是敗筆, 就是熱開水的湯\n其它很有古早味道...\n外場安排座位的.感覺心情都不太好不耐煩\n反而是來收桌整理打包的姐姐們都很客氣",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "芋頭米粉湯是敗筆, 就是熱開水的湯\n其它很有古早味道...\n外場安排座位的.感覺心情都不太好不耐煩\n反而是來收桌整理打包的姐姐們都很客氣",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "ʀᴜɴɴiɴɢ éмɪʟʏ",
+        "uri": "https://www.google.com/maps/contrib/114444968519223161425/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUraKgT5r4D_BcidYOC4OEHIBZJjaZGhe36fiCtzRaOOL0nFl0y=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-09-18T19:54:04.781194475Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkdFZ6ZERORmhoVld4RFdrbERTWE5QYW5WeFZYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkdFZ6ZERORmhoVld4RFdrbERTWE5QYW5WeFZYYxAB!2m1!1s0x3442a9797cebefed:0xe76e6e85285201a1"
+    },
+    {
+      "name": "places/ChIJ7e_rfHmpQjQRoQFSKIVubuc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xnNGFXWkdYM05WWTI5cWVqZENOMWhNTFZGUFQxRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "3道菜2人用餐，進來有空位，想坐小桌，店家不願意，執意要拼桌（非網友說的自己找位子），上菜速度快，唯一讓我覺得不錯，點菜單上沒價位，所以問了一下魚的餐點是怎樣，因該是老板娘，回說魚貴看點魚的類型估價，說馬頭魚約2000以上！所以心想一般吳郭魚也要500元吧！放棄，因為不愛吃吳郭魚。\n點了家常菜-宮保雞丁、蘿蔔蛋、客家小炒、2碗白飯。宮保雞丁，還算可以，但是沒有常吃的味道辣椒爆炒的不夠；蘿蔔蛋2人份的份量是2顆蛋➕些蘿蔔乾，煎的，蠻有自家料理風味；客家小炒——-超油的，豬肉都是肥的居多，魷魚沒切細小是牙口不好的人咬不動，芹菜跟大蒜葉都爆到焦，整盤油油的也黑黑的，這盤真的踩雷，永和的客家小館真的是我吃過餐廳炒的最好吃的-客家小炒。個人認為不推這道。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "3道菜2人用餐，進來有空位，想坐小桌，店家不願意，執意要拼桌（非網友說的自己找位子），上菜速度快，唯一讓我覺得不錯，點菜單上沒價位，所以問了一下魚的餐點是怎樣，因該是老板娘，回說魚貴看點魚的類型估價，說馬頭魚約2000以上！所以心想一般吳郭魚也要500元吧！放棄，因為不愛吃吳郭魚。\n點了家常菜-宮保雞丁、蘿蔔蛋、客家小炒、2碗白飯。宮保雞丁，還算可以，但是沒有常吃的味道辣椒爆炒的不夠；蘿蔔蛋2人份的份量是2顆蛋➕些蘿蔔乾，煎的，蠻有自家料理風味；客家小炒——-超油的，豬肉都是肥的居多，魷魚沒切細小是牙口不好的人咬不動，芹菜跟大蒜葉都爆到焦，整盤油油的也黑黑的，這盤真的踩雷，永和的客家小館真的是我吃過餐廳炒的最好吃的-客家小炒。個人認為不推這道。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "p peng",
+        "uri": "https://www.google.com/maps/contrib/103265950236874617547/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIK0zjHrxSa_jIvzW8JphY6-0WZXr5fSi82T_QB5BwD7RD5=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-18T13:11:38.367264594Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xnNGFXWkdYM05WWTI5cWVqZENOMWhNTFZGUFQxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xnNGFXWkdYM05WWTI5cWVqZENOMWhNTFZGUFQxRRAB!2m1!1s0x3442a9797cebefed:0xe76e6e85285201a1"
+    },
+    {
+      "name": "places/ChIJ7e_rfHmpQjQRoQFSKIVubuc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Wck1tWktiRTF4TUhkNFkxZEtPQzFDV0ZWVGJtYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "相鄰台北華山藝文特區及台北科技大學的「良友小館」，是家擁有30多年歷史的台式熱炒店，對於鄰近的住家學生上班族來說，是方便求溫飽的平價小吃。\n雖然無標價菜色平實且多樣家常式樣，像是炒飯麵、番茄炒蛋、蚵仔酥等，單人或多人簡單吃還是挺划算的，早期在光華商場工作，以及附近不遠處上班，也會與親友同事相偕來此聚餐…\n\n#良友小館 在地30多年台北美食\n無標價菜單 #熱炒店\n#捷運忠孝新生站 #台北熱炒",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "相鄰台北華山藝文特區及台北科技大學的「良友小館」，是家擁有30多年歷史的台式熱炒店，對於鄰近的住家學生上班族來說，是方便求溫飽的平價小吃。\n雖然無標價菜色平實且多樣家常式樣，像是炒飯麵、番茄炒蛋、蚵仔酥等，單人或多人簡單吃還是挺划算的，早期在光華商場工作，以及附近不遠處上班，也會與親友同事相偕來此聚餐…\n\n#良友小館 在地30多年台北美食\n無標價菜單 #熱炒店\n#捷運忠孝新生站 #台北熱炒",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Wisely的拍拍照寫寫字",
+        "uri": "https://www.google.com/maps/contrib/112893930602343237833/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZ0zXshlDSnDEwPdgRYOJShvvKBam7QU5OuPiEiRTyeY41pQo=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-07T12:28:31.889237807Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Wck1tWktiRTF4TUhkNFkxZEtPQzFDV0ZWVGJtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Wck1tWktiRTF4TUhkNFkxZEtPQzFDV0ZWVGJtYxAB!2m1!1s0x3442a9797cebefed:0xe76e6e85285201a1"
+    },
+    {
+      "name": "places/ChIJ7e_rfHmpQjQRoQFSKIVubuc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paTU9WQjVlVzVpWWs1WFNVSlVUMkUzZEU5TVNuYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "燈光明亮，冷氣舒適，炒的餐點都不錯吃，有家常的味道在。先點餐才會安排內用座位。\n服務也很親切，是個很適合朋友聚餐喝酒聊天的地方！也有烈酒可以點！大推！\n非常有台灣味且價位便宜 也很適合遊客來吃吃看。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "燈光明亮，冷氣舒適，炒的餐點都不錯吃，有家常的味道在。先點餐才會安排內用座位。\n服務也很親切，是個很適合朋友聚餐喝酒聊天的地方！也有烈酒可以點！大推！\n非常有台灣味且價位便宜 也很適合遊客來吃吃看。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Liam Chiu",
+        "uri": "https://www.google.com/maps/contrib/116170934063383517369/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUwUV_0dujyfJOrS5ZT62zoWY-9Us-7WztuaFaFJmpha_jhYm4=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-09-22T04:11:53.200626130Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paTU9WQjVlVzVpWWs1WFNVSlVUMkUzZEU5TVNuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paTU9WQjVlVzVpWWs1WFNVSlVUMkUzZEU5TVNuYxAB!2m1!1s0x3442a9797cebefed:0xe76e6e85285201a1"
+    }
+  ]
+}

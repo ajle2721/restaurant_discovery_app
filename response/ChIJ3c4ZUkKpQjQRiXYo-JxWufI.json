@@ -1,0 +1,133 @@
+{
+  "id": "ChIJ3c4ZUkKpQjQRiXYo-JxWufI",
+  "types": [
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2568 2138",
+  "formattedAddress": "10491台灣臺北市中山區集英里中山北路二段96巷13號",
+  "location": {
+    "latitude": 25.059873399999997,
+    "longitude": 121.52207150000001
+  },
+  "rating": 4.2,
+  "websiteUri": "http://linenchant.pixnet.net/blog/post/43495865",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 82,
+  "displayName": {
+    "text": "Luna咖啡簡餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ3c4ZUkKpQjQRiXYo-JxWufI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xBd2RqWTBZVk5tVEdaT1pYTkdRV2QxZDNsTlMxRRAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 3,
+      "text": {
+        "text": "配菜口味平實，白飯煮得好。路經肚餓有位可食，不會失望但就醬子。$260鯖魚定食附飲料，甜點。有地下室座位，托盤很黏，環境髒污有感，螞蟻桌面爬。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "配菜口味平實，白飯煮得好。路經肚餓有位可食，不會失望但就醬子。$260鯖魚定食附飲料，甜點。有地下室座位，托盤很黏，環境髒污有感，螞蟻桌面爬。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "UbiQuiTousLy",
+        "uri": "https://www.google.com/maps/contrib/104246833503747199140/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVWXBDMseft8Vswf0Y-w5s1HXNOCYzMbItscfCjNHh4-SNOAN043A=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-08-04T19:42:16.207374906Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xBd2RqWTBZVk5tVEdaT1pYTkdRV2QxZDNsTlMxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xBd2RqWTBZVk5tVEdaT1pYTkdRV2QxZDNsTlMxRRAB!2m1!1s0x3442a9425219cedd:0xf2b9569cf8287689"
+    },
+    {
+      "name": "places/ChIJ3c4ZUkKpQjQRiXYo-JxWufI/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzb0lXNmhnRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "老闆經營餐廳20年以上，料理十分可口道地，食材新鮮，附餐的咖啡非常好喝，美式咖啡是中山北路二段96巷所有餐廳裡面的第一名，可以用Line Pay付款，有地下室，全部面積寬敞，餐點種類不多，但是都非常好吃，配菜每天都會更換，副餐的蛋糕和茶凍都很好吃，真心推薦椒麻雞套餐。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "老闆經營餐廳20年以上，料理十分可口道地，食材新鮮，附餐的咖啡非常好喝，美式咖啡是中山北路二段96巷所有餐廳裡面的第一名，可以用Line Pay付款，有地下室，全部面積寬敞，餐點種類不多，但是都非常好吃，配菜每天都會更換，副餐的蛋糕和茶凍都很好吃，真心推薦椒麻雞套餐。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Willy H.",
+        "uri": "https://www.google.com/maps/contrib/100721465655108727512/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU8dzDrNpFy-GCj0d-vG4uAC3PanvIlw5Hd-xj2mVgRASXrmMcj=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2024-11-11T05:09:27.450860Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzb0lXNmhnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzb0lXNmhnRRAB!2m1!1s0x3442a9425219cedd:0xf2b9569cf8287689"
+    },
+    {
+      "name": "places/ChIJ3c4ZUkKpQjQRiXYo-JxWufI/reviews/ChZDSUhNMG9nS0VJQ0FnSURScWR1SEZ3EAE",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 3,
+      "text": {
+        "text": "因應疫情，戴口罩，勤洗手，保持社交距離。\n2023/04/28首次造訪該店家。\n點了糖醋里肌230元，清蒸午仔魚250元，單點蔥爆牛肉110元。\n首先配菜很特殊，涼拌煙燻素肚，培根馬鈴薯，炒豆子，番茄蛋花湯(味道稍嫌淡)，糖醋里肌口味不錯吃，但是份量少。午仔魚也很小尾，魚鱗沒清的很乾淨，但口味還不錯。加點的蔥爆牛肉不知為何幾乎沒蔥?而且嫩肉精味道太重，不推。\n附餐飲料紅茶，柳橙汁，茶凍都正常。\n有點小問題的是~一份230-250左右的套餐，主餐，配菜份量都如此少，不知道是否因為主打上班族女性?雖然口味不錯，但價位偏高，份量偏少。期間還加點一碗白飯15元(後來店家不知為何主動算10元?)，但仍然吃不飽因此屬於一次性店家，不會再回訪。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "因應疫情，戴口罩，勤洗手，保持社交距離。\n2023/04/28首次造訪該店家。\n點了糖醋里肌230元，清蒸午仔魚250元，單點蔥爆牛肉110元。\n首先配菜很特殊，涼拌煙燻素肚，培根馬鈴薯，炒豆子，番茄蛋花湯(味道稍嫌淡)，糖醋里肌口味不錯吃，但是份量少。午仔魚也很小尾，魚鱗沒清的很乾淨，但口味還不錯。加點的蔥爆牛肉不知為何幾乎沒蔥?而且嫩肉精味道太重，不推。\n附餐飲料紅茶，柳橙汁，茶凍都正常。\n有點小問題的是~一份230-250左右的套餐，主餐，配菜份量都如此少，不知道是否因為主打上班族女性?雖然口味不錯，但價位偏高，份量偏少。期間還加點一碗白飯15元(後來店家不知為何主動算10元?)，但仍然吃不飽因此屬於一次性店家，不會再回訪。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ann Tseng",
+        "uri": "https://www.google.com/maps/contrib/106509631777317561702/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLgfmbSl-LrPCiWRNyqTAr25cu4-A2dVYI7ZKJW8if_1L4aXw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2023-04-29T00:33:38.096430Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURScWR1SEZ3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURScWR1SEZ3EAE!2m1!1s0x3442a9425219cedd:0xf2b9569cf8287689"
+    },
+    {
+      "name": "places/ChIJ3c4ZUkKpQjQRiXYo-JxWufI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4MVUwNXRSVFk1TmpsU1YxZHNOVFJhV2pCRWNHYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "老闆和善親切\n餐點不論主餐還是點心跟飲品都好吃好喝\n(*๓´╰╯`๓)♡",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "老闆和善親切\n餐點不論主餐還是點心跟飲品都好吃好喝\n(*๓´╰╯`๓)♡",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳妞妞",
+        "uri": "https://www.google.com/maps/contrib/114102815252955239201/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV3W3TDs1WNzts96vxlmMXc9Fa7QEeUA0B9kp8WHnRPQNWH8Ik=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-07T06:03:22.022037156Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4MVUwNXRSVFk1TmpsU1YxZHNOVFJhV2pCRWNHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4MVUwNXRSVFk1TmpsU1YxZHNOVFJhV2pCRWNHYxAB!2m1!1s0x3442a9425219cedd:0xf2b9569cf8287689"
+    },
+    {
+      "name": "places/ChIJ3c4ZUkKpQjQRiXYo-JxWufI/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoOEo3b1VnEAE",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 5,
+      "text": {
+        "text": "很喜歡這家店的魚料理\n每次來台北馬偕都會來品嚐",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很喜歡這家店的魚料理\n每次來台北馬偕都會來品嚐",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Pat Lin",
+        "uri": "https://www.google.com/maps/contrib/110880324951429684492/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVLgZs7C5ki0oaWPW1BhvuP7qpcqbP-Bs-xJ80AxJ8wEuWqU7yw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2023-02-03T13:46:04.547686Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNoOEo3b1VnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNoOEo3b1VnEAE!2m1!1s0x3442a9425219cedd:0xf2b9569cf8287689"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

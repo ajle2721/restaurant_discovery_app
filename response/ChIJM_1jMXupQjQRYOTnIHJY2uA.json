@@ -1,0 +1,132 @@
+{
+  "id": "ChIJM_1jMXupQjQRYOTnIHJY2uA",
+  "types": [
+    "restaurant",
+    "food_store",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 3322 4949",
+  "formattedAddress": "100台灣臺北市中正區梅花里八德路一段1號中4D, 華山1914文創園區內 中4D館",
+  "location": {
+    "latitude": 25.0447834,
+    "longitude": 121.52950709999998
+  },
+  "rating": 4.3,
+  "websiteUri": "https://taiwanmama.com/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1312,
+  "displayName": {
+    "text": "一碗来",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJM_1jMXupQjQRYOTnIHJY2uA/reviews/Ci9DQUlRQUNvZENodHljRjlvT214dmNVUnVWamt3TkZKRlEyRnJXRk5SVEhGamNFRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "來華山文創看展很多次~第一次進來這家餐廳用餐~我們點了牛肉麵~獅子頭餐點~炸雞湯麵~吃了牛肉麵的人說口感感覺還好~牛肉口感很一般般~炸雞湯麵~炸雞還不錯吃~獅子頭餐點就是家常菜~\n基本上應該就是很家常菜的餐廳",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "來華山文創看展很多次~第一次進來這家餐廳用餐~我們點了牛肉麵~獅子頭餐點~炸雞湯麵~吃了牛肉麵的人說口感感覺還好~牛肉口感很一般般~炸雞湯麵~炸雞還不錯吃~獅子頭餐點就是家常菜~\n基本上應該就是很家常菜的餐廳",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "我是個不想選擇的臭大人",
+        "uri": "https://www.google.com/maps/contrib/100652842837410964683/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU6Z4e7V6g3QNQuXNRyEZ_Gl3hLidkQspI3UvYbDGVtgCXbTqg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-25T14:12:14.117680816Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214dmNVUnVWamt3TkZKRlEyRnJXRk5SVEhGamNFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214dmNVUnVWamt3TkZKRlEyRnJXRk5SVEhGamNFRRAB!2m1!1s0x3442a97b3163fd33:0xe0da587220e7e460"
+    },
+    {
+      "name": "places/ChIJM_1jMXupQjQRYOTnIHJY2uA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5eGRUQnFZMUoyVFU4MlJubE1TbWRHUkhwSE5FRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "食物都還不錯吃，服務態度親切，環境也很舒適乾淨。價位稍高，低消是一人一個套餐或250元。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "食物都還不錯吃，服務態度親切，環境也很舒適乾淨。價位稍高，低消是一人一個套餐或250元。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "沈です",
+        "uri": "https://www.google.com/maps/contrib/105761173772850190219/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV1UVqIKeLsxCY4_XH4ZSENSicGMgvqOXe_8dpGG6Ll9OI46iM=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-12-14T06:32:39.525167678Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5eGRUQnFZMUoyVFU4MlJubE1TbWRHUkhwSE5FRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5eGRUQnFZMUoyVFU4MlJubE1TbWRHUkhwSE5FRRAB!2m1!1s0x3442a97b3163fd33:0xe0da587220e7e460"
+    },
+    {
+      "name": "places/ChIJM_1jMXupQjQRYOTnIHJY2uA/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KeVZIUTVWRVE1Ympsc1dWYzFhVGhGVlZGR1FuYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "The food and space at this restaurant in @huashan1914_creative_park is so cute! Enjoyed a nice solo lunch here before going around to look at the exhibitions.\n\n這家在華山園區裡的臺灣菜環境跟擺盤都很可愛！在這裡享受了一下安靜的午餐後再去慢慢看展～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "The food and space at this restaurant in @huashan1914_creative_park is so cute! Enjoyed a nice solo lunch here before going around to look at the exhibitions.\n\n這家在華山園區裡的臺灣菜環境跟擺盤都很可愛！在這裡享受了一下安靜的午餐後再去慢慢看展～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Vicki",
+        "uri": "https://www.google.com/maps/contrib/102524958063200299256/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW3LP-0KHOgeYOGmrXE5urSaq_YeJTFIbujDNZALRlolpKttdWu=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-23T02:10:42.457114984Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KeVZIUTVWRVE1Ympsc1dWYzFhVGhGVlZGR1FuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KeVZIUTVWRVE1Ympsc1dWYzFhVGhGVlZGR1FuYxAB!2m1!1s0x3442a97b3163fd33:0xe0da587220e7e460"
+    },
+    {
+      "name": "places/ChIJM_1jMXupQjQRYOTnIHJY2uA/reviews/Ci9DQUlRQUNvZENodHljRjlvT2swdFlrNUlRVVpQZUVaUVVIbDJaMVYxTWtOM1MyYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "寵物友善餐廳🐶☑\n以攜帶推車、寵物籃/袋為主，客人少、不影響環境跟其他客人的前提下可以落地（牽繩、禮貌帶）\n\n食物🍚\n懷舊沙茶豬肉乾麵 5/5\n好好吃！套餐正常份量女生吃得飽，加麵免費\n麵體好吃，豬肉一點點柴但味道好，附胡麻醬空心菜照顧飲食均衡很貼心～\n\n手工白菜獅子頭飯 4/5\n獅子頭好吃，湯淋上飯也好吃，味道一點點點鹹，不影響整體味道，份量足夠👍\n\n碗碗炸炸雞🍀MVP\n超級好吃==外皮酥脆但不會難咬，非常多汁完全不柴，非常好入口，份量2-3個人吃足夠👍調味也超級好吃✨✨✨\n\n兩個人點兩套餐一副餐吃非常飽！\n價位整體偏中上（$280~500），但以華山來說這個價位也算正常\n\n整體服務、環境、氣氛、食物都非常滿足，謝謝貴店讓我們有這麼好的用餐體驗～～～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "寵物友善餐廳🐶☑\n以攜帶推車、寵物籃/袋為主，客人少、不影響環境跟其他客人的前提下可以落地（牽繩、禮貌帶）\n\n食物🍚\n懷舊沙茶豬肉乾麵 5/5\n好好吃！套餐正常份量女生吃得飽，加麵免費\n麵體好吃，豬肉一點點柴但味道好，附胡麻醬空心菜照顧飲食均衡很貼心～\n\n手工白菜獅子頭飯 4/5\n獅子頭好吃，湯淋上飯也好吃，味道一點點點鹹，不影響整體味道，份量足夠👍\n\n碗碗炸炸雞🍀MVP\n超級好吃==外皮酥脆但不會難咬，非常多汁完全不柴，非常好入口，份量2-3個人吃足夠👍調味也超級好吃✨✨✨\n\n兩個人點兩套餐一副餐吃非常飽！\n價位整體偏中上（$280~500），但以華山來說這個價位也算正常\n\n整體服務、環境、氣氛、食物都非常滿足，謝謝貴店讓我們有這麼好的用餐體驗～～～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Wang AG",
+        "uri": "https://www.google.com/maps/contrib/118035206695094368854/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUPwKSfaAVvvJ2xC7fTwWJbM7eeJn5m9zxq-uDID4RJle_e-pWzDA=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-09-17T07:27:21.520687191Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2swdFlrNUlRVVpQZUVaUVVIbDJaMVYxTWtOM1MyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2swdFlrNUlRVVpQZUVaUVVIbDJaMVYxTWtOM1MyYxAB!2m1!1s0x3442a97b3163fd33:0xe0da587220e7e460"
+    },
+    {
+      "name": "places/ChIJM_1jMXupQjQRYOTnIHJY2uA/reviews/Ci9DQUlRQUNvZENodHljRjlvT201dWRGWjBlVlU1Y1RoeFVqZHZNM0ZUU1hsNGNWRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "來吃他們的甜點，每一樣都很好吃，巴斯克蛋糕下面還有芋泥，很讚\n環境乾淨悠閒，適合來華山逛完後找個舒適用餐的好地方",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "來吃他們的甜點，每一樣都很好吃，巴斯克蛋糕下面還有芋泥，很讚\n環境乾淨悠閒，適合來華山逛完後找個舒適用餐的好地方",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "阿祖",
+        "uri": "https://www.google.com/maps/contrib/112649941151916184071/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXdl__wiTVDg7bQpM8XEWNDK2kmd6MR3Fw_MvYkN6KKl4SE4r9K=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-28T10:16:53.710262615Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201dWRGWjBlVlU1Y1RoeFVqZHZNM0ZUU1hsNGNWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201dWRGWjBlVlU1Y1RoeFVqZHZNM0ZUU1hsNGNWRRAB!2m1!1s0x3442a97b3163fd33:0xe0da587220e7e460"
+    }
+  ]
+}

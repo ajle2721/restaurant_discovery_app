@@ -1,0 +1,133 @@
+{
+  "id": "ChIJ0SFCGyOrQjQRx-fDUrsYJvc",
+  "types": [
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2729 0597",
+  "formattedAddress": "110台灣臺北市信義區西村里松仁路58號4 樓",
+  "location": {
+    "latitude": 25.036784899999997,
+    "longitude": 121.56795659999999
+  },
+  "rating": 4.4,
+  "websiteUri": "https://www.1010restaurant.com/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 862,
+  "displayName": {
+    "text": "1010湘食堂 遠百信義店 (台北信義區必吃美食推薦／信義遠百A13特色餐廳／家庭聚餐湘菜餐廳)",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ0SFCGyOrQjQRx-fDUrsYJvc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoSFNYRkhUVXhFWW5sbmQzaE1lVEl4VTI1R1RFRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "員工跟服務生很友善，水不夠也都馬上加水，春節連假期間態度也很親切！\n\n但食物個人覺得偏普通，沒有很亮眼的部分，但家母大推麻油松阪豬和黃金饅頭。\n\n適合多人聚餐，不會出什麼差錯，但味道沒有很特別。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "員工跟服務生很友善，水不夠也都馬上加水，春節連假期間態度也很親切！\n\n但食物個人覺得偏普通，沒有很亮眼的部分，但家母大推麻油松阪豬和黃金饅頭。\n\n適合多人聚餐，不會出什麼差錯，但味道沒有很特別。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Samuel",
+        "uri": "https://www.google.com/maps/contrib/115547372271454121270/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWFSZMim509Jr7VUKId7LArz38w3PgzaAcyQqQWekQZd8rLXoc=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-22T18:14:15.290899277Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoSFNYRkhUVXhFWW5sbmQzaE1lVEl4VTI1R1RFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoSFNYRkhUVXhFWW5sbmQzaE1lVEl4VTI1R1RFRRAB!2m1!1s0x3442ab231b4221d1:0xf72618bb52c3e7c7"
+    },
+    {
+      "name": "places/ChIJ0SFCGyOrQjQRx-fDUrsYJvc/reviews/Ci9DQUlRQUNvZENodHljRjlvT214eVYwTkxPVGswTmpsWWNWOWxhRnBJWlMxNE0xRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "精緻湘菜餚🥢\n食材品質好👍\n菜盤配色嘉👑\n環境燈光美🤩\n人員挺拔俏😘\n值得來試試喔🎉",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "精緻湘菜餚🥢\n食材品質好👍\n菜盤配色嘉👑\n環境燈光美🤩\n人員挺拔俏😘\n值得來試試喔🎉",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "詹Nathan",
+        "uri": "https://www.google.com/maps/contrib/107612912402760061263/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUv94AAZNhmnTJB-Tip1Y5BT-5KklptKtRkdmXCwH0v-RquH8SMhA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-27T10:59:07.792033116Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT214eVYwTkxPVGswTmpsWWNWOWxhRnBJWlMxNE0xRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT214eVYwTkxPVGswTmpsWWNWOWxhRnBJWlMxNE0xRRAB!2m1!1s0x3442ab231b4221d1:0xf72618bb52c3e7c7"
+    },
+    {
+      "name": "places/ChIJ0SFCGyOrQjQRx-fDUrsYJvc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSUGFXSlVXVGxEZWtWT1ZGTXpiMmRMVVZKTVUyYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 2,
+      "text": {
+        "text": "跟別的湖南菜比，這家不好吃，而且價位高，通常湖南菜都偏酸辣，但這家只有酸，所以沒有很推薦",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "跟別的湖南菜比，這家不好吃，而且價位高，通常湖南菜都偏酸辣，但這家只有酸，所以沒有很推薦",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "WeiMin Wu",
+        "uri": "https://www.google.com/maps/contrib/109026702252826045202/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKoo_RCs8ykWY23DB6yaWhlhShHZFDfvaVf-D6DSeHtNIzXyQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-02T23:39:30.576148406Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSUGFXSlVXVGxEZWtWT1ZGTXpiMmRMVVZKTVUyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSUGFXSlVXVGxEZWtWT1ZGTXpiMmRMVVZKTVUyYxAB!2m1!1s0x3442ab231b4221d1:0xf72618bb52c3e7c7"
+    },
+    {
+      "name": "places/ChIJ0SFCGyOrQjQRx-fDUrsYJvc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sQ09HUmxWVEpMWlhwbVEwOVdhMDlvVURNMVkxRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "🍽️ 亮點與氛圍\n主打地道湖南菜，店內風格融合復古與現代風格，很適合聚餐。\n白飯使用台灣西螺米，而且可以無限續飯，非常下飯\n✅ 優點（適合喜歡重口味／下飯者）\n\n招牌菜神仙孜然肋排骨香氣十足，肉質酥香，值得一試。\n如果喜歡香辣、重味道的人，像是麻婆豆腐就很合胃口，很下飯。\n炒青菜類的調味比較清爽，適合希望不喜歡重鹹／重辣的人。\n\n⚠️ 缺點／可能不適合的人\n整體味道偏重（偏鹹／偏香料／偏醬香），對於偏好清淡、淡口味料理的人可能會覺得過於厚味。\n份量／價格對某些料理來說可能偏高 — 如果預算有限或食量不大(除非多配點白飯)，可能需要斟酌。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "🍽️ 亮點與氛圍\n主打地道湖南菜，店內風格融合復古與現代風格，很適合聚餐。\n白飯使用台灣西螺米，而且可以無限續飯，非常下飯\n✅ 優點（適合喜歡重口味／下飯者）\n\n招牌菜神仙孜然肋排骨香氣十足，肉質酥香，值得一試。\n如果喜歡香辣、重味道的人，像是麻婆豆腐就很合胃口，很下飯。\n炒青菜類的調味比較清爽，適合希望不喜歡重鹹／重辣的人。\n\n⚠️ 缺點／可能不適合的人\n整體味道偏重（偏鹹／偏香料／偏醬香），對於偏好清淡、淡口味料理的人可能會覺得過於厚味。\n份量／價格對某些料理來說可能偏高 — 如果預算有限或食量不大(除非多配點白飯)，可能需要斟酌。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "簡啟瑞",
+        "uri": "https://www.google.com/maps/contrib/111263619083732907156/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXMu-23ZUo65rGbCze4FWPMvjcGKVKkjwH8pOQtun7BS75yKj4=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-12-09T06:09:31.394526657Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sQ09HUmxWVEpMWlhwbVEwOVdhMDlvVURNMVkxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sQ09HUmxWVEpMWlhwbVEwOVdhMDlvVURNMVkxRRAB!2m1!1s0x3442ab231b4221d1:0xf72618bb52c3e7c7"
+    },
+    {
+      "name": "places/ChIJ0SFCGyOrQjQRx-fDUrsYJvc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twR1dGQTNlamhJTFhWNVRFZE9XRlo2YkY5WFgyYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 2,
+      "text": {
+        "text": "口味偏重，鹹度比辣度更明顯。菜色選擇不多，信義店的用餐的區域座位偏小，用餐人一多就會變得很擁擠，想說平常常吃泰式或川菜料理，想說這次換個口味，來試試看湖南料理！結果一吃還是滿失望了。\n\n神仙孜然肋排骨 ；孜然味濃厚，肋排炸得酥香，外層調味重，單吃容易膩，一隻160的價格不太值得點。\n\n臭豆腐肥腸阿干鍋 $450；臭豆腐吸滿湯汁後帶有獨特香氣，肥腸處理還可以，口感軟嫩。整體偏香辣。\n\n麻油霜降豬 $365；看之前菜單是松阪豬，不過現在改成霜降豬。麻油香氣溫潤，搭配杏鮑菇與薑片，霜降豬肉片軟嫩，算是清爽的一道，可以平衡其他菜色的厚重感。\n\n湘西湖南高麗菜 $235；高麗菜炒得口感爽脆，加上臘肉的搭配油香更十足，味道比一般炒高麗菜更加濃烈，但也更鹹一些。\n\n松子糖醋魚 $520；魚肉已事先切片，方便分食。糖醋醬酸甜開胃，魚肉外酥內嫩，再搭配米香增添口感，算是當天評價最高的一道，不過魚很小隻，所以魚肉不多。\n\n嫩蔥爆鮮牛 $385；牛肉軟嫩不柴，蔥段爆香提味，醬汁也是偏重口味的，也是很適合搭白飯吃的一道餐點喔。\n\n醋溜土豆絲 $195；酸香開胃，馬鈴薯絲炒得爽脆，這道反而是整桌裡調味比較剛好、不會太鹹的菜色，唯一可惜就是酸味不夠明顯，口味很普通。\n\n白飯（台灣西螺米，一人$40，可續）；米飯香Q，搭配重口味菜色剛剛好。份量可續加，畢竟每道餐點都很下飯，白飯能無限續真的是很需要的。\n\n整體來說，菜色選擇偏少，價格也偏高，口味也是偏鹹重，習慣清爽料理的朋友可能會覺得負擔大些。雖是連鎖湖南菜館，卻少了一點驚喜感，屬於嚐鮮可以的餐廳，不會想回訪的店家。算是集團內最普通的一間餐廳，不太值得特地來用餐。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "口味偏重，鹹度比辣度更明顯。菜色選擇不多，信義店的用餐的區域座位偏小，用餐人一多就會變得很擁擠，想說平常常吃泰式或川菜料理，想說這次換個口味，來試試看湖南料理！結果一吃還是滿失望了。\n\n神仙孜然肋排骨 ；孜然味濃厚，肋排炸得酥香，外層調味重，單吃容易膩，一隻160的價格不太值得點。\n\n臭豆腐肥腸阿干鍋 $450；臭豆腐吸滿湯汁後帶有獨特香氣，肥腸處理還可以，口感軟嫩。整體偏香辣。\n\n麻油霜降豬 $365；看之前菜單是松阪豬，不過現在改成霜降豬。麻油香氣溫潤，搭配杏鮑菇與薑片，霜降豬肉片軟嫩，算是清爽的一道，可以平衡其他菜色的厚重感。\n\n湘西湖南高麗菜 $235；高麗菜炒得口感爽脆，加上臘肉的搭配油香更十足，味道比一般炒高麗菜更加濃烈，但也更鹹一些。\n\n松子糖醋魚 $520；魚肉已事先切片，方便分食。糖醋醬酸甜開胃，魚肉外酥內嫩，再搭配米香增添口感，算是當天評價最高的一道，不過魚很小隻，所以魚肉不多。\n\n嫩蔥爆鮮牛 $385；牛肉軟嫩不柴，蔥段爆香提味，醬汁也是偏重口味的，也是很適合搭白飯吃的一道餐點喔。\n\n醋溜土豆絲 $195；酸香開胃，馬鈴薯絲炒得爽脆，這道反而是整桌裡調味比較剛好、不會太鹹的菜色，唯一可惜就是酸味不夠明顯，口味很普通。\n\n白飯（台灣西螺米，一人$40，可續）；米飯香Q，搭配重口味菜色剛剛好。份量可續加，畢竟每道餐點都很下飯，白飯能無限續真的是很需要的。\n\n整體來說，菜色選擇偏少，價格也偏高，口味也是偏鹹重，習慣清爽料理的朋友可能會覺得負擔大些。雖是連鎖湖南菜館，卻少了一點驚喜感，屬於嚐鮮可以的餐廳，不會想回訪的店家。算是集團內最普通的一間餐廳，不太值得特地來用餐。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "愛吃喵",
+        "uri": "https://www.google.com/maps/contrib/102695207878689937598/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW_OHZeZydyt_ab97K6GkkZGSxCr7GcxfAiTKONyf4GdgW7BYg=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-08-21T08:12:56.057508275Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twR1dGQTNlamhJTFhWNVRFZE9XRlo2YkY5WFgyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twR1dGQTNlamhJTFhWNVRFZE9XRlo2YkY5WFgyYxAB!2m1!1s0x3442ab231b4221d1:0xf72618bb52c3e7c7"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

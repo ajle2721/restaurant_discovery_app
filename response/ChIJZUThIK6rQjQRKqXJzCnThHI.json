@@ -1,0 +1,133 @@
+{
+  "id": "ChIJZUThIK6rQjQRKqXJzCnThHI",
+  "types": [
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 966 679 162",
+  "formattedAddress": "115台灣臺北市南港區南港里中南街8號",
+  "location": {
+    "latitude": 25.054984599999997,
+    "longitude": 121.61520379999999
+  },
+  "rating": 4.2,
+  "websiteUri": "https://www.facebook.com/pages/category/Donburi-Restaurant/%E5%8D%A1%E5%A5%BD%E9%A3%9F%E5%A0%82-115003966544971/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 139,
+  "displayName": {
+    "text": "卡好食堂",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJZUThIK6rQjQRKqXJzCnThHI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSMU9FSm5iRjk0WW05aFZIZG1abEY0V25sVlRtYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "骰子牛夠嫩（可惜切的有點小顆，口感稍差，黑胡椒灑得太多有點過鹹）！蛤蜊清湯味美鮮甜！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "骰子牛夠嫩（可惜切的有點小顆，口感稍差，黑胡椒灑得太多有點過鹹）！蛤蜊清湯味美鮮甜！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "蔡曜竹",
+        "uri": "https://www.google.com/maps/contrib/101413089312231508330/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUbMOKgya7qO9n0fOts63NjBftJ96pH72ZJ4sTRksjwmCfuNos=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-19T04:04:22.171762071Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSMU9FSm5iRjk0WW05aFZIZG1abEY0V25sVlRtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSMU9FSm5iRjk0WW05aFZIZG1abEY0V25sVlRtYxAB!2m1!1s0x3442abae20e14465:0x7284d329ccc9a52a"
+    },
+    {
+      "name": "places/ChIJZUThIK6rQjQRKqXJzCnThHI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tnMlRVWk9YMk5uWjJOSFVVUkphRWxuUVVONFVuYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "在一個雨天路過來吃，老闆熱情招呼，親子丼的醬汁會鹹但味道偏清淡，白飯煮的比較乾，附有四項小菜。清酒蛤蠣湯內的五顆蛤蜊算飽滿無腥味，熱湯口味清淡。價格平實，接受line pay /Taiwan pay。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在一個雨天路過來吃，老闆熱情招呼，親子丼的醬汁會鹹但味道偏清淡，白飯煮的比較乾，附有四項小菜。清酒蛤蠣湯內的五顆蛤蜊算飽滿無腥味，熱湯口味清淡。價格平實，接受line pay /Taiwan pay。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "cindy12022",
+        "uri": "https://www.google.com/maps/contrib/105296154721054329499/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXkFIkt44Hh9i_Xuti4R1w82ME7XWWRhx-KeuTDg3hmIGDrBoQGBw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-22T11:34:08.581562757Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tnMlRVWk9YMk5uWjJOSFVVUkphRWxuUVVONFVuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tnMlRVWk9YMk5uWjJOSFVVUkphRWxuUVVONFVuYxAB!2m1!1s0x3442abae20e14465:0x7284d329ccc9a52a"
+    },
+    {
+      "name": "places/ChIJZUThIK6rQjQRKqXJzCnThHI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4NmIwdGplRjlzTTFSTFNHSlBkVzU1VFdWWFdGRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "丼飯美味, 內用空間比較小, 桌位乾淨整潔",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "丼飯美味, 內用空間比較小, 桌位乾淨整潔",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃俧達",
+        "uri": "https://www.google.com/maps/contrib/104602351069173094903/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX9KoO69cFrnNZfOHqg9r8INh3ZkP5PPYvjVsjLH53SIiQRGIOt=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-30T19:07:06.149101483Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4NmIwdGplRjlzTTFSTFNHSlBkVzU1VFdWWFdGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4NmIwdGplRjlzTTFSTFNHSlBkVzU1VFdWWFdGRRAB!2m1!1s0x3442abae20e14465:0x7284d329ccc9a52a"
+    },
+    {
+      "name": "places/ChIJZUThIK6rQjQRKqXJzCnThHI/reviews/ChZDSUhNMG9nS0VJQ0FnSUR2NktyaklBEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "平價好吃的丼飯\n去南港展覽館看展在附近尋找午餐，就看到這家店。位於南港展覽館的斜對面巷子裡，走路約五分鐘可到達。\n店面整潔小巧，可容納人數不多，坐位較靠近。\n價格在臺北市很平價，份量和食材品質也可以，味道不錯，肉片口感好有入味，配菜也做得不錯。是一家值得到訪的店。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "平價好吃的丼飯\n去南港展覽館看展在附近尋找午餐，就看到這家店。位於南港展覽館的斜對面巷子裡，走路約五分鐘可到達。\n店面整潔小巧，可容納人數不多，坐位較靠近。\n價格在臺北市很平價，份量和食材品質也可以，味道不錯，肉片口感好有入味，配菜也做得不錯。是一家值得到訪的店。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "YS C",
+        "uri": "https://www.google.com/maps/contrib/116807956512476941805/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZlXLhn9zhhH0o5jkUauxBeSylqz-mu-kiFMcqntkomiYO617cGA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2024-12-17T07:28:08.439197Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR2NktyaklBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR2NktyaklBEAE!2m1!1s0x3442abae20e14465:0x7284d329ccc9a52a"
+    },
+    {
+      "name": "places/ChIJZUThIK6rQjQRKqXJzCnThHI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGRGFGaGthblowVm1FelVXaDRNMVY1U2toSU9HYxAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 5,
+      "text": {
+        "text": "南港捷運站5號出口附近隱藏的平價美味～每一碗丼飯都有十足的配菜！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "南港捷運站5號出口附近隱藏的平價美味～每一碗丼飯都有十足的配菜！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Annie Lee",
+        "uri": "https://www.google.com/maps/contrib/103179000472657910671/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUtgSpJIL58b_XStxAoV8-gpVpmNRNsQO14hfhCDCBOx6Zr-maiCA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-07-08T11:04:26.658061709Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGRGFGaGthblowVm1FelVXaDRNMVY1U2toSU9HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGRGFGaGthblowVm1FelVXaDRNMVY1U2toSU9HYxAB!2m1!1s0x3442abae20e14465:0x7284d329ccc9a52a"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

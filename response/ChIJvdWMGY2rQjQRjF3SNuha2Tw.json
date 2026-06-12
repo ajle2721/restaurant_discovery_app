@@ -1,0 +1,142 @@
+{
+  "id": "ChIJvdWMGY2rQjQRjF3SNuha2Tw",
+  "types": [
+    "italian_restaurant",
+    "brunch_restaurant",
+    "coffee_shop",
+    "cafe",
+    "food_store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "store",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2765 0386",
+  "formattedAddress": "105台灣臺北市松山區三民里富錦街449號",
+  "location": {
+    "latitude": 25.0609334,
+    "longitude": 121.56160799999999
+  },
+  "rating": 4.2,
+  "websiteUri": "http://www.r-pinecone.com/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 2306,
+  "displayName": {
+    "text": "松果院子(午晚餐最後點餐時間：15:50/19:50)",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Relaxed restaurant featuring handmade noodles & baked goods, plus rice dishes & small plates.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJvdWMGY2rQjQRjF3SNuha2Tw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kdVl6WlFPVFpoWWpOamFHOHhRbTFyUjFVdFZWRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 1,
+      "text": {
+        "text": "來探店很是失望，洋蔥圈不怎麼好吃，肉桂卷是我吃過最難吃的，這麵團是怎麼了？超軟爛一點彈性也沒有，是發酵失敗了嗎？吃幾口就吃不下去了",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "來探店很是失望，洋蔥圈不怎麼好吃，肉桂卷是我吃過最難吃的，這麵團是怎麼了？超軟爛一點彈性也沒有，是發酵失敗了嗎？吃幾口就吃不下去了",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "shan ning Don",
+        "uri": "https://www.google.com/maps/contrib/114266620897873411558/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJYnVS-9vjjuN_IVhzKCACrmIn1qxfxHKCW2ttd6WVaJqyUfQ=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-28T15:50:29.288854789Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kdVl6WlFPVFpoWWpOamFHOHhRbTFyUjFVdFZWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kdVl6WlFPVFpoWWpOamFHOHhRbTFyUjFVdFZWRRAB!2m1!1s0x3442ab8d198cd5bd:0x3cd95ae836d25d8c"
+    },
+    {
+      "name": "places/ChIJvdWMGY2rQjQRjF3SNuha2Tw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOSGNsRktVemhqVEhsc05GZFRTQzEyUVRCcGIyYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 3,
+      "text": {
+        "text": "環境不錯，滿舒適的，假日中午人很多，建議先訂位，用餐時間兩小時，掃碼點餐，廁所很乾淨。\n\n餐點還算可以，沒有特別驚艷也沒不好吃，但份量不多，價位稍高。\n\n我點干貝烏魚子燉飯，奶味比較重，沒吃到什麼烏魚子味，飯是比較軟的那種，不像有的燉飯的飯偏硬，就正常發揮，沒有好吃到下次會想再來。\n\n中午想點甜點發現很多都沒有了，我想吃的只剩檸檬塔，檸檬塔偏酸，怕酸的人不建議。義大利可可的拉花很美，不過味道就是熱巧克力，沒有什麼特別。\n\n服務生會來補水，有提供免費的飲水，可以Line pay付款。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境不錯，滿舒適的，假日中午人很多，建議先訂位，用餐時間兩小時，掃碼點餐，廁所很乾淨。\n\n餐點還算可以，沒有特別驚艷也沒不好吃，但份量不多，價位稍高。\n\n我點干貝烏魚子燉飯，奶味比較重，沒吃到什麼烏魚子味，飯是比較軟的那種，不像有的燉飯的飯偏硬，就正常發揮，沒有好吃到下次會想再來。\n\n中午想點甜點發現很多都沒有了，我想吃的只剩檸檬塔，檸檬塔偏酸，怕酸的人不建議。義大利可可的拉花很美，不過味道就是熱巧克力，沒有什麼特別。\n\n服務生會來補水，有提供免費的飲水，可以Line pay付款。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "小蛙Judy",
+        "uri": "https://www.google.com/maps/contrib/117286423995551138735/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7xGGrJ5ydWpuPFtEgbuQg7TLxfTlVBEXKpmbHJx4U1-UcRyU_=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-15T08:03:57.979364922Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOSGNsRktVemhqVEhsc05GZFRTQzEyUVRCcGIyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOSGNsRktVemhqVEhsc05GZFRTQzEyUVRCcGIyYxAB!2m1!1s0x3442ab8d198cd5bd:0x3cd95ae836d25d8c"
+    },
+    {
+      "name": "places/ChIJvdWMGY2rQjQRjF3SNuha2Tw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SU1RsODBMVUU0WW0xTFEwVlpjRVU0WWw4eVlXYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "是個好聊天的地方~ 炸雞沙拉好吃但炸雞也太少了吧😂\n味道是不錯的，但份量太小吃不飽所以先給三星",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "是個好聊天的地方~ 炸雞沙拉好吃但炸雞也太少了吧😂\n味道是不錯的，但份量太小吃不飽所以先給三星",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Xin Ho",
+        "uri": "https://www.google.com/maps/contrib/113740663467431546332/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLM6rsgyqmeHmt_33Hh6crTbbfc9ztnvhvesf8n8s684L4LMQ=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-24T16:04:02.225917830Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SU1RsODBMVUU0WW0xTFEwVlpjRVU0WWw4eVlXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SU1RsODBMVUU0WW0xTFEwVlpjRVU0WWw4eVlXYxAB!2m1!1s0x3442ab8d198cd5bd:0x3cd95ae836d25d8c"
+    },
+    {
+      "name": "places/ChIJvdWMGY2rQjQRjF3SNuha2Tw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkM2IydE9WbEpJWTJaVU9UVnRRbWxGU1c5M04xRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "很舒服的一家咖啡廳\n植物系裝潢\n上餐速度滿快的\n假日有限時\n但沒客滿不會趕客人\n這點很不錯\n點餐+飲料可以折30\n餐點有加10%\n可以linepay結帳",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很舒服的一家咖啡廳\n植物系裝潢\n上餐速度滿快的\n假日有限時\n但沒客滿不會趕客人\n這點很不錯\n點餐+飲料可以折30\n餐點有加10%\n可以linepay結帳",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lin",
+        "uri": "https://www.google.com/maps/contrib/106130411138422956596/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKzGPAO2xeQTWTFKWn6OOc8B4B4EGNxHaHgmr-PBkfabZxWRvti=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-14T09:54:31.997730095Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkM2IydE9WbEpJWTJaVU9UVnRRbWxGU1c5M04xRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkM2IydE9WbEpJWTJaVU9UVnRRbWxGU1c5M04xRRAB!2m1!1s0x3442ab8d198cd5bd:0x3cd95ae836d25d8c"
+    },
+    {
+      "name": "places/ChIJvdWMGY2rQjQRjF3SNuha2Tw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tod2FWUmpTMDgxWTBwcFRtZEdibGhaYTBoemFHYxAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐廳有兒童椅，門口有樓梯旁有綠意盎然的植物。\n看起來有好好的照顧的漂亮植物。\n店員補水勤快、親切。\n\n🍟花生起司薯條很快就上桌，是帶皮的整個馬鈴薯製作的，份量適中。\n醬的口味偏甜，如何可椅比較希望醬有別的選項或是分開自行沾，因為醬整坨在某幾根薯條。\n\n牛肝菌松露燉飯，松露味很夠以這個價格來說，很不錯吃。中間是半熟蛋，滑破蛋液有刺激唾液的分泌😆\n燉飯米心是有點硬的熟度，餐點的主人喜歡。我個人覺得可以在稍微軟一點點點。\n\n唐揚雞的調味很有特色，ㄧ開始覺得入口的辣香粉味很明顯，但不辣、卻有引起食慾。雞肉口感滑嫩恰好。麵的調味不會過重鹹，孩子可以共食。\n麵條吃的出手工製作，有點會想念的ㄧ道義大利麵🍝\n\n期望日後有機會再訪時，依然有這樣的風味水準唷！\n\n有機會約人多，可以點更多分享品嚐不同口味。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐廳有兒童椅，門口有樓梯旁有綠意盎然的植物。\n看起來有好好的照顧的漂亮植物。\n店員補水勤快、親切。\n\n🍟花生起司薯條很快就上桌，是帶皮的整個馬鈴薯製作的，份量適中。\n醬的口味偏甜，如何可椅比較希望醬有別的選項或是分開自行沾，因為醬整坨在某幾根薯條。\n\n牛肝菌松露燉飯，松露味很夠以這個價格來說，很不錯吃。中間是半熟蛋，滑破蛋液有刺激唾液的分泌😆\n燉飯米心是有點硬的熟度，餐點的主人喜歡。我個人覺得可以在稍微軟一點點點。\n\n唐揚雞的調味很有特色，ㄧ開始覺得入口的辣香粉味很明顯，但不辣、卻有引起食慾。雞肉口感滑嫩恰好。麵的調味不會過重鹹，孩子可以共食。\n麵條吃的出手工製作，有點會想念的ㄧ道義大利麵🍝\n\n期望日後有機會再訪時，依然有這樣的風味水準唷！\n\n有機會約人多，可以點更多分享品嚐不同口味。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Green Chou",
+        "uri": "https://www.google.com/maps/contrib/101550564618253316070/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVanXnfyprL96OIFEJuO0G3X3vPqYUduxN4EdpsSTyy0CWsWuxo=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-07-13T09:34:48.670704678Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tod2FWUmpTMDgxWTBwcFRtZEdibGhaYTBoemFHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tod2FWUmpTMDgxWTBwcFRtZEdibGhaYTBoemFHYxAB!2m1!1s0x3442ab8d198cd5bd:0x3cd95ae836d25d8c"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

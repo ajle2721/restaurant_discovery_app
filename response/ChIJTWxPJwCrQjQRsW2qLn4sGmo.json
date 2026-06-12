@@ -1,0 +1,132 @@
+{
+  "id": "ChIJTWxPJwCrQjQRsW2qLn4sGmo",
+  "types": [
+    "bistro",
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2579 0556",
+  "formattedAddress": "105台灣臺北市松山區美仁里北寧路36號",
+  "location": {
+    "latitude": 25.049473199999998,
+    "longitude": 121.55277249999997
+  },
+  "rating": 4.9,
+  "userRatingCount": 362,
+  "displayName": {
+    "text": "皇宴天成",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJTWxPJwCrQjQRsW2qLn4sGmo/reviews/Ci9DQUlRQUNvZENodHljRjlvT25rNE1XOXpabmhqYW1oVVRrSlpaQzFMUXpoc1pVRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "師傅手藝超絕，點的每一樣菜都很好吃，尤其是無錫排骨，一抿脫骨，軟爛入味，真的是一次非常棒的用餐體驗，服務人員也很親切又專業，肯定會再來",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "師傅手藝超絕，點的每一樣菜都很好吃，尤其是無錫排骨，一抿脫骨，軟爛入味，真的是一次非常棒的用餐體驗，服務人員也很親切又專業，肯定會再來",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "kelvin Shen",
+        "uri": "https://www.google.com/maps/contrib/108322737994488567442/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJYWy1X3G-es40PVCfmGCRW2hF6nnm3Pip5k4rRmFfOig4E0g=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-28T11:38:16.920240799Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25rNE1XOXpabmhqYW1oVVRrSlpaQzFMUXpoc1pVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25rNE1XOXpabmhqYW1oVVRrSlpaQzFMUXpoc1pVRRAB!2m1!1s0x3442ab00274f6c4d:0x6a1a2c7e2eaa6db1"
+    },
+    {
+      "name": "places/ChIJTWxPJwCrQjQRsW2qLn4sGmo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwWE5UWmpXVFJzY201c01sWm9VMjg0VUdoR1RIYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第一次的體驗，很驚豔， 菜有特色，服務小姐很體貼介紹菜色， 很好吃，立即預訂年後第一餐。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次的體驗，很驚豔， 菜有特色，服務小姐很體貼介紹菜色， 很好吃，立即預訂年後第一餐。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Karen Yang",
+        "uri": "https://www.google.com/maps/contrib/103956026978472914163/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKH6IGv4xcSuqep70Y0uBO4omGhd6_zAX0xPgkwIojDzFfFqw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-15T10:26:59.738607691Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwWE5UWmpXVFJzY201c01sWm9VMjg0VUdoR1RIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwWE5UWmpXVFJzY201c01sWm9VMjg0VUdoR1RIYxAB!2m1!1s0x3442ab00274f6c4d:0x6a1a2c7e2eaa6db1"
+    },
+    {
+      "name": "places/ChIJTWxPJwCrQjQRsW2qLn4sGmo/reviews/Ci9DQUlRQUNvZENodHljRjlvT200NUxVeG1ZMWRvZGxSV01FWkVjMjV4Wlc1Sk1rRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "親子友善餐廳\n份量、cp值高\n很推薦大小朋友都愛吃的鳳梨蝦球，這家店的鳳梨蝦球是我目前在台北市吃到的第一名，就連我兒子都可以自己一個人吃了六隻蝦仁還想吃。\n帶辣的夫妻肺片，搭配小黃瓜香菜，辣而不膩口，讓人一口接一口的品嚐。\n乾煸四季豆份量明顯比其他餐廳多，味道也不遜色。\n唯一小缺憾是無錫排骨，因為非洲豬瘟的影響現在只能用冷凍豬肉，所以調味烹調美味還是無法有新鮮豬肉的軟韌口感（但店家說預計11月中旬就會解禁回覆原本豬肉供應，期待下次再來能吃到更美味的無錫排骨）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "親子友善餐廳\n份量、cp值高\n很推薦大小朋友都愛吃的鳳梨蝦球，這家店的鳳梨蝦球是我目前在台北市吃到的第一名，就連我兒子都可以自己一個人吃了六隻蝦仁還想吃。\n帶辣的夫妻肺片，搭配小黃瓜香菜，辣而不膩口，讓人一口接一口的品嚐。\n乾煸四季豆份量明顯比其他餐廳多，味道也不遜色。\n唯一小缺憾是無錫排骨，因為非洲豬瘟的影響現在只能用冷凍豬肉，所以調味烹調美味還是無法有新鮮豬肉的軟韌口感（但店家說預計11月中旬就會解禁回覆原本豬肉供應，期待下次再來能吃到更美味的無錫排骨）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "蝶",
+        "uri": "https://www.google.com/maps/contrib/110468119376406870112/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLEPJwJ8VcXGk498IpW4mFuitaH3Ceu-BTTLLvCP4VdJ9H-7g=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-10-31T11:35:55.119310107Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT200NUxVeG1ZMWRvZGxSV01FWkVjMjV4Wlc1Sk1rRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT200NUxVeG1ZMWRvZGxSV01FWkVjMjV4Wlc1Sk1rRRAB!2m1!1s0x3442ab00274f6c4d:0x6a1a2c7e2eaa6db1"
+    },
+    {
+      "name": "places/ChIJTWxPJwCrQjQRsW2qLn4sGmo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pnNWJqRnhNbTk0VUZkQ1VVRTVTRFJoTmsxRk1uYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "舒適的空間，座位不會擁擠\n難得在中式餐廳可以愜意吃一頓飯\n很舒服\n魚好吃、皮韭肉末👍🏻、芥菜雞湯😋\n最棒的是前場的大姐，很親切💕",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "舒適的空間，座位不會擁擠\n難得在中式餐廳可以愜意吃一頓飯\n很舒服\n魚好吃、皮韭肉末👍🏻、芥菜雞湯😋\n最棒的是前場的大姐，很親切💕",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Gladys Chiang",
+        "uri": "https://www.google.com/maps/contrib/105642643418409842840/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUyQUGKjGNRKwWVBYXpA0qs3qJ0e0suhRp2DPIus1W3NfKo6OmL=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-12T11:39:03.209100494Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pnNWJqRnhNbTk0VUZkQ1VVRTVTRFJoTmsxRk1uYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pnNWJqRnhNbTk0VUZkQ1VVRTVTRFJoTmsxRk1uYxAB!2m1!1s0x3442ab00274f6c4d:0x6a1a2c7e2eaa6db1"
+    },
+    {
+      "name": "places/ChIJTWxPJwCrQjQRsW2qLn4sGmo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kb01tSk1Wa1JNU0hnNWVHbEZRVGhUU1ZWd1pVRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第一次來吃，沒有一道是雷，每一道都很美味，連不敢吃韭菜的我也喜歡上蒼蠅頭了！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次來吃，沒有一道是雷，每一道都很美味，連不敢吃韭菜的我也喜歡上蒼蠅頭了！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Liyin Lee",
+        "uri": "https://www.google.com/maps/contrib/102394100278430790772/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJitpzZbGT__FenF_pMHuFNbnN-2F5QysebaVU-huJnL6l0qTzZ=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-28T11:19:22.859581793Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kb01tSk1Wa1JNU0hnNWVHbEZRVGhUU1ZWd1pVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kb01tSk1Wa1JNU0hnNWVHbEZRVGhUU1ZWd1pVRRAB!2m1!1s0x3442ab00274f6c4d:0x6a1a2c7e2eaa6db1"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

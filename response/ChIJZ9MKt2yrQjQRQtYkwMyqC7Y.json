@@ -1,0 +1,141 @@
+{
+  "id": "ChIJZ9MKt2yrQjQRQtYkwMyqC7Y",
+  "types": [
+    "coffee_shop",
+    "brunch_restaurant",
+    "cafe",
+    "dessert_shop",
+    "confectionery",
+    "food_store",
+    "restaurant",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2742 0575",
+  "formattedAddress": "110台灣台北市信义区永吉里松山路11號, 號 一 樓, 商場",
+  "location": {
+    "latitude": 25.0491901,
+    "longitude": 121.5782994
+  },
+  "rating": 4.8,
+  "websiteUri": "https://www.mcdonalds.com/tw/zh-tw/full-menu/mccafe.html",
+  "userRatingCount": 62,
+  "displayName": {
+    "text": "McCafé 咖啡-松山車站店",
+    "languageCode": "en"
+  },
+  "editorialSummary": {
+    "text": "McDonald's chain for a variety of specialty coffee drinks, baked goods & other food offerings.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJZ9MKt2yrQjQRQtYkwMyqC7Y/reviews/ChZDSUhNMG9nS0VJQ0FnSURTajY3aVNBEAE",
+      "relativePublishTimeDescription": "5 年前",
+      "rating": 5,
+      "text": {
+        "text": "謝謝咖啡師姐姐教我拉花🥰\n以後有空就到隔壁McCafe練習一下\n#第一次拉花就上手\n#咖啡師的天鵝太美了👍\n#歡迎光臨McCafe松山車站",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "謝謝咖啡師姐姐教我拉花🥰\n以後有空就到隔壁McCafe練習一下\n#第一次拉花就上手\n#咖啡師的天鵝太美了👍\n#歡迎光臨McCafe松山車站",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ming-Chieh Lin",
+        "uri": "https://www.google.com/maps/contrib/106354045909377251492/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW86jvrELQTOPMhf4D6s6uSZWH5k2N-2nAuLQbcu2HDa1Feah0r=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2021-01-13T08:59:53.258969Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURTajY3aVNBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURTajY3aVNBEAE!2m1!1s0x3442ab6cb70ad367:0xb60baaccc024d642"
+    },
+    {
+      "name": "places/ChIJZ9MKt2yrQjQRQtYkwMyqC7Y/reviews/ChZDSUhNMG9nS0VJQ0FnSURTajVMN0p3EAE",
+      "relativePublishTimeDescription": "5 年前",
+      "rating": 5,
+      "text": {
+        "text": "松山車站的咖啡師真的很親切\n每次來都會很有精神的跟我打招呼🙋‍♂️\n咖啡☕️也好好喝",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "松山車站的咖啡師真的很親切\n每次來都會很有精神的跟我打招呼🙋‍♂️\n咖啡☕️也好好喝",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "凱威",
+        "uri": "https://www.google.com/maps/contrib/111613343297300430806/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW77jekrxv9jWoAkn1_SrouzIahVP5ObZuantYn4Ot0l05x82U=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2021-01-13T08:12:11.740254Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURTajVMN0p3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURTajVMN0p3EAE!2m1!1s0x3442ab6cb70ad367:0xb60baaccc024d642"
+    },
+    {
+      "name": "places/ChIJZ9MKt2yrQjQRQtYkwMyqC7Y/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5OE1lNWRnEAE",
+      "relativePublishTimeDescription": "5 年前",
+      "rating": 5,
+      "text": {
+        "text": "很冷的天氣加一杯熱咖啡，看到咖啡師拉花拉得很漂亮喝起來好幸福哦😍\n#MCCafe咖啡好喝",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很冷的天氣加一杯熱咖啡，看到咖啡師拉花拉得很漂亮喝起來好幸福哦😍\n#MCCafe咖啡好喝",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yessylim",
+        "uri": "https://www.google.com/maps/contrib/116019375493615882716/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJUinZEgV3pjKFxJpvA7ZtrW-ZhJAl55ntQLCDMlaN3Kw3462Y=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2021-01-17T09:05:02.948590Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN5OE1lNWRnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN5OE1lNWRnEAE!2m1!1s0x3442ab6cb70ad367:0xb60baaccc024d642"
+    },
+    {
+      "name": "places/ChIJZ9MKt2yrQjQRQtYkwMyqC7Y/reviews/ChZDSUhNMG9nS0VJQ0FnSUN5OEtUSkhnEAE",
+      "relativePublishTimeDescription": "5 年前",
+      "rating": 5,
+      "text": {
+        "text": "松山車站的交通超便利🚂🚃🚆🚍🚖\n麥當勞的用餐環境超優優👏\nMcCafe'的咖啡超好喝好棒棒☕👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "松山車站的交通超便利🚂🚃🚆🚍🚖\n麥當勞的用餐環境超優優👏\nMcCafe'的咖啡超好喝好棒棒☕👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "joline sung",
+        "uri": "https://www.google.com/maps/contrib/116310721680343653100/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI29TuxyTjpoBlaD6OcVyJIDCundJJJHxmdVPsCIf_ug4FE79I=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2021-01-18T22:26:51.110755Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN5OEtUSkhnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN5OEtUSkhnEAE!2m1!1s0x3442ab6cb70ad367:0xb60baaccc024d642"
+    },
+    {
+      "name": "places/ChIJZ9MKt2yrQjQRQtYkwMyqC7Y/reviews/ChdDSUhNMG9nS0VJQ0FnSURTajc2dTB3RRAB",
+      "relativePublishTimeDescription": "5 年前",
+      "rating": 5,
+      "text": {
+        "text": "很喜歡這邊的環境，在等火車之餘能喝杯好喝的咖啡消磨時間～～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很喜歡這邊的環境，在等火車之餘能喝杯好喝的咖啡消磨時間～～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "墨墨",
+        "uri": "https://www.google.com/maps/contrib/110179102606172020895/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVdBkePbWK305Ter33uU-n01qO9ZUpUqROs0aa-YqV7cDyE4M4FUw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2021-01-13T09:12:26.046295Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURTajc2dTB3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURTajc2dTB3RRAB!2m1!1s0x3442ab6cb70ad367:0xb60baaccc024d642"
+    }
+  ],
+  "goodForChildren": true
+}

@@ -1,0 +1,130 @@
+{
+  "id": "ChIJlyoJRvKuQjQRrHnwM63EbOU",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2823 2153",
+  "formattedAddress": "11276台灣臺北市北投區吉利里實踐街69號",
+  "location": {
+    "latitude": 25.115351999999998,
+    "longitude": 121.51019699999999
+  },
+  "rating": 4.7,
+  "userRatingCount": 138,
+  "displayName": {
+    "text": "Wall.e 活力漢堡店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJlyoJRvKuQjQRrHnwM63EbOU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4ZlgyZEJZM2hMTVU0NFFWRkNVRkZpZVV4dk1VRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "點了卡拉雞蛋捲很好吃！ 看著就很有食慾了\n老闆也都很溫柔 吃完很滿足 整體給的感覺讓我很想給個評論",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點了卡拉雞蛋捲很好吃！ 看著就很有食慾了\n老闆也都很溫柔 吃完很滿足 整體給的感覺讓我很想給個評論",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Q Y",
+        "uri": "https://www.google.com/maps/contrib/110265551046410464744/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXJ3jFYgFm6Euf76e_p8aXbCsP46IOPq1eoSUX4FsqfDfqflDxAkg=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-03-08T09:25:36.207956247Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4ZlgyZEJZM2hMTVU0NFFWRkNVRkZpZVV4dk1VRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4ZlgyZEJZM2hMTVU0NFFWRkNVRkZpZVV4dk1VRRAB!2m1!1s0x3442aef246092a97:0xe56cc4ad33f079ac"
+    },
+    {
+      "name": "places/ChIJlyoJRvKuQjQRrHnwM63EbOU/reviews/ChZDSUhNMG9nS0VJTDRsWUtycU82SWNBEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 3,
+      "text": {
+        "text": "以營業成本餐點定價來看其實物有所值！\n店內裝潢很有想法，看得出來是用心的小本經營。但以顧客的角度說實話，餐點略微空虛…\n點了兩份看似主打的牛排套餐及脆皮起司吐司，吃完只有6分飽，吐司有想像中的爽感！但很可惜如果用大片山形吐司可能會更適合，牛排套餐的生菜配油醋醬味道很不錯！不過也是一口份量🥲\n做為社區小店應該會有不錯的評價，但全面而言還有進步空間。\n\n以下非針對本店心得：這裡發現附近地區一個奇特的現象，這裡店家特別是咖啡店，評價奇高！都是接近5顆星，懷疑這裡評價的可信度，客人如果好壞都給5星那就沒有參考價值了@@，下次有機會再來探究竟。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "以營業成本餐點定價來看其實物有所值！\n店內裝潢很有想法，看得出來是用心的小本經營。但以顧客的角度說實話，餐點略微空虛…\n點了兩份看似主打的牛排套餐及脆皮起司吐司，吃完只有6分飽，吐司有想像中的爽感！但很可惜如果用大片山形吐司可能會更適合，牛排套餐的生菜配油醋醬味道很不錯！不過也是一口份量🥲\n做為社區小店應該會有不錯的評價，但全面而言還有進步空間。\n\n以下非針對本店心得：這裡發現附近地區一個奇特的現象，這裡店家特別是咖啡店，評價奇高！都是接近5顆星，懷疑這裡評價的可信度，客人如果好壞都給5星那就沒有參考價值了@@，下次有機會再來探究竟。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Han Cheng",
+        "uri": "https://www.google.com/maps/contrib/100503977973739681975/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKuJj3aQ095fRKDpXLvY7zF7rMJ-l3EP3x1oxoZO16ggqWgXw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-05-07T05:41:30.016267Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJTDRsWUtycU82SWNBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJTDRsWUtycU82SWNBEAE!2m1!1s0x3442aef246092a97:0xe56cc4ad33f079ac"
+    },
+    {
+      "name": "places/ChIJlyoJRvKuQjQRrHnwM63EbOU/reviews/ChdDSUhNMG9nS0VJQ0FnSUMxNFltdHVBRRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "經典牛肉起司堡$90，現做等餐需要一些時間，但老闆態度好、餐點好吃所以覺得ok（不想等也可以先打電話去訂）。來說漢堡的部分，雖然皮煎過、也有香氣，但拿到後馬上吃還是冷掉的有點可惜。裡面的配料豐富，一口咬下去全部融合在一起超級好吃！這個價位非常值得。不過一個小缺點是洋蔥外皮沒剝掉，很硬也咬不掉，還要一邊叼出來吐掉。不過整體來說已經很好了，推薦去吃看看。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "經典牛肉起司堡$90，現做等餐需要一些時間，但老闆態度好、餐點好吃所以覺得ok（不想等也可以先打電話去訂）。來說漢堡的部分，雖然皮煎過、也有香氣，但拿到後馬上吃還是冷掉的有點可惜。裡面的配料豐富，一口咬下去全部融合在一起超級好吃！這個價位非常值得。不過一個小缺點是洋蔥外皮沒剝掉，很硬也咬不掉，還要一邊叼出來吐掉。不過整體來說已經很好了，推薦去吃看看。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "WL",
+        "uri": "https://www.google.com/maps/contrib/110429825691447643000/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXPVlTAirl6NdxDICmoRzAelo55lY5CKH2MmnTkKUsqVxquxFw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2023-12-31T06:25:54.177789Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUMxNFltdHVBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUMxNFltdHVBRRAB!2m1!1s0x3442aef246092a97:0xe56cc4ad33f079ac"
+    },
+    {
+      "name": "places/ChIJlyoJRvKuQjQRrHnwM63EbOU/reviews/ChdDSUhNMG9nS0VJQ0FnSUQtcnVLYXdnRRAB",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 5,
+      "text": {
+        "text": "今日二訪\n發現隱藏版菜單\n\n果然很用心♥️\n美國choice板腱牛排肉+清爽沙拉+升級鹽可頌\n覺得CP值有點高🤣🤣🤣🤣 很怕他虧本\n聽說還沒有上線\n有機會去的話要記得詢問可愛的老闆！！！🫣🫣🫣\n豆漿紅茶意外的好喝\n不會太甜\n很順口🤤🤤🤤🤤🤤\n\n------------------------\n店家自製的馬茲瑞拉條真的超好吃🥰🥰🥰\n五星玉米脆皮嫩雞堡。推👍👍👍👍👍👍\n店家親切\n伯爵茶味道很夠😍😍😍\n\n應該是北投難得的好店\n但因為空間不大建議大家打電話來外帶唷～～～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今日二訪\n發現隱藏版菜單\n\n果然很用心♥️\n美國choice板腱牛排肉+清爽沙拉+升級鹽可頌\n覺得CP值有點高🤣🤣🤣🤣 很怕他虧本\n聽說還沒有上線\n有機會去的話要記得詢問可愛的老闆！！！🫣🫣🫣\n豆漿紅茶意外的好喝\n不會太甜\n很順口🤤🤤🤤🤤🤤\n\n------------------------\n店家自製的馬茲瑞拉條真的超好吃🥰🥰🥰\n五星玉米脆皮嫩雞堡。推👍👍👍👍👍👍\n店家親切\n伯爵茶味道很夠😍😍😍\n\n應該是北投難得的好店\n但因為空間不大建議大家打電話來外帶唷～～～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Andy “Y.J. Andy” Shen",
+        "uri": "https://www.google.com/maps/contrib/102080148354375357406/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXIQ_He4DAB-EfbgUqZYvHDTDoQeiDaWfnT7ZINBs732FO1B7C7rA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2023-05-31T09:00:18.289666Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQtcnVLYXdnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQtcnVLYXdnRRAB!2m1!1s0x3442aef246092a97:0xe56cc4ad33f079ac"
+    },
+    {
+      "name": "places/ChIJlyoJRvKuQjQRrHnwM63EbOU/reviews/ChdDSUhNMG9nS0VJQ0FnSURUeGRYYWxnRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "我喜歡的小而美獨立，非連鎖店家！\n看得出，吃得出 獨特性與用心，\n可列入經常性口袋名單。\n裝食材的油紙，似乎比一般的厚很多\n應該成本也比較高\n這點小細節讓我有點意外。\n\n今天點\n@@4OZ 超豪華厚切牛肉漢堡 140元\n內有手打牛肉、焦香培根、鳳梨、起司，蛋、番茄、生菜。搭配店家自製的醬汁，每一口都非常多汁夠味。\n比起新莊 egg bun ,小小一個單薄漢堡要賣200多，這裡真的是非常值得。\n\n@@費城牛肉起司吐司 130元\n開起來還好，入口卻意外的好吃，滿滿多汁的牛肉片香（肉片處理不好很容易乾澀），也是搭配特調醬汁，很滿意。\n\n@@獨家超巨馬茲拉起司條\n店家自行果粉，非外面現成的起司條，外皮煎的酥香，確實味道有別與現成的。\n另外灑上忘記名字的紅粉調味香料，層次更豐富，加分不少，\n\n@@熱狗起司蛋捲\n蛋捲的口感，意外的厲害好吃，非常軟嫩，恰到好處的熟度，像玉子燒一樣的厚度，蠻不簡單的。\n\n紅茶-好喝有茶香，不會過甜，甜度比一般正常稍淡，是我喜歡的甜度，畢竟少糖比較健康一點。\n—————————————-\n店家用了不少的醬汁和調味料\n很多自製的食材與調味、烹飪手法\n有別於連鎖一層不變的工業化早餐\n值得來嘗試。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "我喜歡的小而美獨立，非連鎖店家！\n看得出，吃得出 獨特性與用心，\n可列入經常性口袋名單。\n裝食材的油紙，似乎比一般的厚很多\n應該成本也比較高\n這點小細節讓我有點意外。\n\n今天點\n@@4OZ 超豪華厚切牛肉漢堡 140元\n內有手打牛肉、焦香培根、鳳梨、起司，蛋、番茄、生菜。搭配店家自製的醬汁，每一口都非常多汁夠味。\n比起新莊 egg bun ,小小一個單薄漢堡要賣200多，這裡真的是非常值得。\n\n@@費城牛肉起司吐司 130元\n開起來還好，入口卻意外的好吃，滿滿多汁的牛肉片香（肉片處理不好很容易乾澀），也是搭配特調醬汁，很滿意。\n\n@@獨家超巨馬茲拉起司條\n店家自行果粉，非外面現成的起司條，外皮煎的酥香，確實味道有別與現成的。\n另外灑上忘記名字的紅粉調味香料，層次更豐富，加分不少，\n\n@@熱狗起司蛋捲\n蛋捲的口感，意外的厲害好吃，非常軟嫩，恰到好處的熟度，像玉子燒一樣的厚度，蠻不簡單的。\n\n紅茶-好喝有茶香，不會過甜，甜度比一般正常稍淡，是我喜歡的甜度，畢竟少糖比較健康一點。\n—————————————-\n店家用了不少的醬汁和調味料\n很多自製的食材與調味、烹飪手法\n有別於連鎖一層不變的工業化早餐\n值得來嘗試。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Eugene C (C)",
+        "uri": "https://www.google.com/maps/contrib/116823677166446796696/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVeeOHCqWZc4FHdRzqx1BSwn0icnCTfYpBmtD46kp5pcIfNf7Jw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2024-08-25T10:02:33.911795Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURUeGRYYWxnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURUeGRYYWxnRRAB!2m1!1s0x3442aef246092a97:0xe56cc4ad33f079ac"
+    }
+  ],
+  "goodForChildren": true
+}

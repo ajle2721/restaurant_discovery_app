@@ -1,0 +1,131 @@
+{
+  "id": "ChIJYQhsO0CpQjQRG0boedJsYpw",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2552 9339",
+  "formattedAddress": "103台灣臺北市大同區雙連里錦西街176號",
+  "location": {
+    "latitude": 25.059721999999997,
+    "longitude": 121.515978
+  },
+  "rating": 4.2,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 52,
+  "displayName": {
+    "text": "得意漢堡簡餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJYQhsO0CpQjQRG0boedJsYpw/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ4bmRHYk9BEAE",
+      "relativePublishTimeDescription": "5 年前",
+      "rating": 5,
+      "text": {
+        "text": "這家店一路走來始終如ㄧ，從兒子雙連國小入學的時候，我就來這邊吃了，兒子國小畢業國中畢業高中畢業，現在入大學，我還是來這邊吃，坐在一樣的位子上，心境真的不一樣，唯一不變的是他的餐，在這邊用餐覺得很輕鬆很自在，如果想要悠閑的吃個早餐，這邊的確是一個不錯的選擇，再加上他也三不五時會播放一些節目，應該算是國家地理頻道吧，哈哈，算是長一些知識吧！\n老闆老闆娘人都很和氣和善，有時候會看到一位帥哥來幫他們的忙，不知道是不是他們的兒子，總之就我個人而言，我給予五顆星的評分！\n加油！繼續保持下去！\n\nP S這是我點的是燻雞蛋堡以及中冰奶！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這家店一路走來始終如ㄧ，從兒子雙連國小入學的時候，我就來這邊吃了，兒子國小畢業國中畢業高中畢業，現在入大學，我還是來這邊吃，坐在一樣的位子上，心境真的不一樣，唯一不變的是他的餐，在這邊用餐覺得很輕鬆很自在，如果想要悠閑的吃個早餐，這邊的確是一個不錯的選擇，再加上他也三不五時會播放一些節目，應該算是國家地理頻道吧，哈哈，算是長一些知識吧！\n老闆老闆娘人都很和氣和善，有時候會看到一位帥哥來幫他們的忙，不知道是不是他們的兒子，總之就我個人而言，我給予五顆星的評分！\n加油！繼續保持下去！\n\nP S這是我點的是燻雞蛋堡以及中冰奶！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Allen Wang",
+        "uri": "https://www.google.com/maps/contrib/102110293963992006299/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXxddxrdWMGk7iIZXDlm8FaXMquMlIPIgYZfg99DgsnuT8XIYlT=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2020-07-26T03:31:47.269927Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ4bmRHYk9BEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ4bmRHYk9BEAE!2m1!1s0x3442a9403b6c0861:0x9c626cd279e8461b"
+    },
+    {
+      "name": "places/ChIJYQhsO0CpQjQRG0boedJsYpw/reviews/ChdDSUhNMG9nS0VJQ0FnSURndDZETHh3RRAB",
+      "relativePublishTimeDescription": "8 年前",
+      "rating": 4,
+      "text": {
+        "text": "薯餅蛋餅超好吃，與ㄧ般早餐店不同，播放舒服的音樂讓人感覺很放鬆ヾ(*´∀｀*)ﾉ榛果咖啡濃郁香醇",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "薯餅蛋餅超好吃，與ㄧ般早餐店不同，播放舒服的音樂讓人感覺很放鬆ヾ(*´∀｀*)ﾉ榛果咖啡濃郁香醇",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Alena HUNG",
+        "uri": "https://www.google.com/maps/contrib/100755279643551959645/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWLPS2i8oY7tlxenkzHhURMYAbJBzAj_MhToDLz4T9TFDIlWMdcHg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2017-09-11T02:40:13.312Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURndDZETHh3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURndDZETHh3RRAB!2m1!1s0x3442a9403b6c0861:0x9c626cd279e8461b"
+    },
+    {
+      "name": "places/ChIJYQhsO0CpQjQRG0boedJsYpw/reviews/ChZDSUhNMG9nS0VJQ0FnSURBMHREMll3EAE",
+      "relativePublishTimeDescription": "9 年前",
+      "rating": 5,
+      "text": {
+        "text": "燻雞蛋餅真的好好吃！除了早餐還有小火鍋、中餐可選擇！早午餐一次解決～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "燻雞蛋餅真的好好吃！除了早餐還有小火鍋、中餐可選擇！早午餐一次解決～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jessie Lin",
+        "uri": "https://www.google.com/maps/contrib/111680077406208745637/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXncQY_h_SsrqZ5a3xOApnaRWYeQfZ4zaLoVUHEl0LJ_VfOolH0=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2017-02-18T03:45:55.602Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURBMHREMll3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURBMHREMll3EAE!2m1!1s0x3442a9403b6c0861:0x9c626cd279e8461b"
+    },
+    {
+      "name": "places/ChIJYQhsO0CpQjQRG0boedJsYpw/reviews/ChZDSUhNMG9nS0VJQ0FnSURQM09YV0x3EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "老闆娘和老闆很親切  東西又好吃 今天吃了中餐海鮮麵❤️好吃😋",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "老闆娘和老闆很親切  東西又好吃 今天吃了中餐海鮮麵❤️好吃😋",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "妍妍",
+        "uri": "https://www.google.com/maps/contrib/108314320097389400379/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJlLRcaxvcsTzWFjkuJGjkwk8AzqAdzoG-kX7feB_LbIjwMwv5w=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2024-11-30T03:07:32.762517Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURQM09YV0x3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURQM09YV0x3EAE!2m1!1s0x3442a9403b6c0861:0x9c626cd279e8461b"
+    },
+    {
+      "name": "places/ChIJYQhsO0CpQjQRG0boedJsYpw/reviews/ChZDSUhNMG9nS0VJQ0FnSUNnZ2VTV1Z3EAE",
+      "relativePublishTimeDescription": "8 年前",
+      "rating": 5,
+      "text": {
+        "text": "料多味美，價錢便宜！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "料多味美，價錢便宜！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳俐蓁",
+        "uri": "https://www.google.com/maps/contrib/116236632986545093914/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXbx3OoFHHUEFScPfyAUquBOHe40GOD0vvOUHuZIisvFLD7wUhW=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2018-02-06T15:48:33.613Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNnZ2VTV1Z3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNnZ2VTV1Z3EAE!2m1!1s0x3442a9403b6c0861:0x9c626cd279e8461b"
+    }
+  ],
+  "goodForChildren": true
+}

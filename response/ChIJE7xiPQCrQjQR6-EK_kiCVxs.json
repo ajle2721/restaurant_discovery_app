@@ -1,0 +1,130 @@
+{
+  "id": "ChIJE7xiPQCrQjQR6-EK_kiCVxs",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2726 5366",
+  "formattedAddress": "110台灣臺北市信義區林口街66巷31號",
+  "location": {
+    "latitude": 25.0392387,
+    "longitude": 121.5804674
+  },
+  "rating": 4.4,
+  "websiteUri": "https://www.facebook.com/profile.php?id=61579460775637#",
+  "userRatingCount": 26,
+  "displayName": {
+    "text": "樹下生活早午餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJE7xiPQCrQjQR6-EK_kiCVxs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkb2NVZG5VMmxOYVVOeFdYbHVSbkZHWVVaaU4xRRAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 5,
+      "text": {
+        "text": "蘿蔔糕超級好吃，外皮恰恰是我喜歡的口感，笛奶茶真的很大杯，喝起來很過癮，是我會想要再去光顧的店家☺️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "蘿蔔糕超級好吃，外皮恰恰是我喜歡的口感，笛奶茶真的很大杯，喝起來很過癮，是我會想要再去光顧的店家☺️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Bonnie Pan",
+        "uri": "https://www.google.com/maps/contrib/107495905116166049100/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXTrtbG_BVZXVaHwaOs2Yn2bmw1Q6wwLWwLe_euH7lFzAzuiYul=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-05-19T06:08:41.188427245Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkb2NVZG5VMmxOYVVOeFdYbHVSbkZHWVVaaU4xRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkb2NVZG5VMmxOYVVOeFdYbHVSbkZHWVVaaU4xRRAB!2m1!1s0x3442ab003d62bc13:0x1b578248fe0ae1eb"
+    },
+    {
+      "name": "places/ChIJE7xiPQCrQjQR6-EK_kiCVxs/reviews/Ci9DQUlRQUNvZENodHljRjlvT21kcllrMDJkRE0wYjJkU2IwOHpUbGR5V1U1M1FtYxAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 4,
+      "text": {
+        "text": "原味蛋餅煎的熟硬度恰到好吃，咖啡口感也很不錯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "原味蛋餅煎的熟硬度恰到好吃，咖啡口感也很不錯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "NAGA9968 NAGA",
+        "uri": "https://www.google.com/maps/contrib/107317189004547018621/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIwBK_ht_xGd5Y8qJe65wlSpr1OwIoH7vWYj0iGjfMROgx8nA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-05-15T11:29:34.200099607Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21kcllrMDJkRE0wYjJkU2IwOHpUbGR5V1U1M1FtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21kcllrMDJkRE0wYjJkU2IwOHpUbGR5V1U1M1FtYxAB!2m1!1s0x3442ab003d62bc13:0x1b578248fe0ae1eb"
+    },
+    {
+      "name": "places/ChIJE7xiPQCrQjQR6-EK_kiCVxs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGWFoyMTJSMmRpUkZOR1JrcFZjRmhwVTFseGRGRRAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 5,
+      "text": {
+        "text": "CP 值很高，餐點有紫米飯，配菜也很清淡，整間店非常舒服，是附近上班族吃飯的好選擇！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "CP 值很高，餐點有紫米飯，配菜也很清淡，整間店非常舒服，是附近上班族吃飯的好選擇！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Celine Lu",
+        "uri": "https://www.google.com/maps/contrib/109907033119269256561/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIAWhFtaJYGRdtiP1xkgc0GyPDoZVj6cmiugUyHanvw_cXXQw=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-05-14T04:51:48.783702570Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGWFoyMTJSMmRpUkZOR1JrcFZjRmhwVTFseGRGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGWFoyMTJSMmRpUkZOR1JrcFZjRmhwVTFseGRGRRAB!2m1!1s0x3442ab003d62bc13:0x1b578248fe0ae1eb"
+    },
+    {
+      "name": "places/ChIJE7xiPQCrQjQR6-EK_kiCVxs/reviews/Ci9DQUlRQUNvZENodHljRjlvT201SmJrWjNWa2gxTkc5S01XZGpRVU5DYW1JeFFVRRAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 5,
+      "text": {
+        "text": "用料實在又好吃，CP值非常高，這幾次跟同事一起訂外送速度也很快，拿到時都還是熱的呢！已經成為我最常用餐的店之一！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "用料實在又好吃，CP值非常高，這幾次跟同事一起訂外送速度也很快，拿到時都還是熱的呢！已經成為我最常用餐的店之一！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jalen Huang",
+        "uri": "https://www.google.com/maps/contrib/109488077111920019591/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUruYi8iRe54gOvpga5nF0VslwJd1MiBvvpJva-UX0AZnEYgBxx=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-05-14T03:24:28.371978182Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201SmJrWjNWa2gxTkc5S01XZGpRVU5DYW1JeFFVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201SmJrWjNWa2gxTkc5S01XZGpRVU5DYW1JeFFVRRAB!2m1!1s0x3442ab003d62bc13:0x1b578248fe0ae1eb"
+    },
+    {
+      "name": "places/ChIJE7xiPQCrQjQR6-EK_kiCVxs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tzMGNubG5iSGwxUnpjMGF6WlFiblV6YVdoZmFFRRAB",
+      "relativePublishTimeDescription": "3 週前",
+      "rating": 5,
+      "text": {
+        "text": "剝皮辣椒蛋餅好吃，環境優，餐點美味，大推",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "剝皮辣椒蛋餅好吃，環境優，餐點美味，大推",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃光暉",
+        "uri": "https://www.google.com/maps/contrib/114771167764203703967/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKAaEoGT6-6ZY7B-O6USnQwgpGQHu0WoAWQE4g-aCpMooLY=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-05-12T12:20:42.434458340Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tzMGNubG5iSGwxUnpjMGF6WlFiblV6YVdoZmFFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tzMGNubG5iSGwxUnpjMGF6WlFiblV6YVdoZmFFRRAB!2m1!1s0x3442ab003d62bc13:0x1b578248fe0ae1eb"
+    }
+  ]
+}

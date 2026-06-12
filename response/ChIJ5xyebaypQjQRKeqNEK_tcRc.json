@@ -1,0 +1,139 @@
+{
+  "id": "ChIJ5xyebaypQjQRKeqNEK_tcRc",
+  "types": [
+    "restaurant",
+    "western_restaurant",
+    "italian_restaurant",
+    "american_restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2368 5345",
+  "formattedAddress": "106台灣臺北市大安區古風里泰順街60巷27號1樓",
+  "location": {
+    "latitude": 25.0225869,
+    "longitude": 121.52949520000001
+  },
+  "rating": 4.5,
+  "websiteUri": "https://www.facebook.com/janacafe0526?mibextid=LQQJ4d",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 607,
+  "displayName": {
+    "text": "Jana café 嚼咖啡餐廳",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Warm, narrow eatery offering classic Italian meals & deep-fried snacks, plus coffee, tea & desserts.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ5xyebaypQjQRKeqNEK_tcRc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25BMlVWVmlRVmszUnpOeVVXcE5WVlZYTlV0VVIzYxAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 5,
+      "text": {
+        "text": "意外發現的餐廳\n餐食用料很真實\n在師大這裡\n價錢算滿合理的\n\n而且食真的好吃😋\n味道融合的很平均\n但是也能夠分別吃到各類食材的香氣\n\n餐點：\n培根蛋黃義大利麵\n奶油白醬蝦義大利麵\n焦糖洋蔥手撕豬肉 加 九層塔蛋\n甜點：布朗妮",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "意外發現的餐廳\n餐食用料很真實\n在師大這裡\n價錢算滿合理的\n\n而且食真的好吃😋\n味道融合的很平均\n但是也能夠分別吃到各類食材的香氣\n\n餐點：\n培根蛋黃義大利麵\n奶油白醬蝦義大利麵\n焦糖洋蔥手撕豬肉 加 九層塔蛋\n甜點：布朗妮",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "賈祥國",
+        "uri": "https://www.google.com/maps/contrib/100653735765048143947/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI2vfwcEgYjR6cCy--EjFQ90tbGwCeG61XSE128QYr15TWBHBQ=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-06-25T06:50:35.395105894Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25BMlVWVmlRVmszUnpOeVVXcE5WVlZYTlV0VVIzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25BMlVWVmlRVmszUnpOeVVXcE5WVlZYTlV0VVIzYxAB!2m1!1s0x3442a9ac6d9e1ce7:0x1771edaf108dea29"
+    },
+    {
+      "name": "places/ChIJ5xyebaypQjQRKeqNEK_tcRc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2sxTE9IaHRkRGMxV0hoUlRXOWtRVk15ZWxOSVZVRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "肉醬義大利麵超級好吃，孩子非常喜歡😘服務親切，不能刷卡，只收現金.",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "肉醬義大利麵超級好吃，孩子非常喜歡😘服務親切，不能刷卡，只收現金.",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Bonnie Huang",
+        "uri": "https://www.google.com/maps/contrib/113691405105098662486/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKacn0L8rjNhKbFF_TnKcjj6SABJZqc1B0HgsuheM2HhX-E8S6X=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-12-21T09:13:00.830295343Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2sxTE9IaHRkRGMxV0hoUlRXOWtRVk15ZWxOSVZVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2sxTE9IaHRkRGMxV0hoUlRXOWtRVk15ZWxOSVZVRRAB!2m1!1s0x3442a9ac6d9e1ce7:0x1771edaf108dea29"
+    },
+    {
+      "name": "places/ChIJ5xyebaypQjQRKeqNEK_tcRc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sTWJXdFRNRmgwVFZONExVTXROVGxSWDJ0TGRYYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "服務態度給10顆星非常棒，讓人用餐很開心，非常顧到顧客的需求，當下讓人很感動，謝謝\n環境也非常好",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "服務態度給10顆星非常棒，讓人用餐很開心，非常顧到顧客的需求，當下讓人很感動，謝謝\n環境也非常好",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "呂維靜",
+        "uri": "https://www.google.com/maps/contrib/115799807927783262616/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZ2L4Z3YGIyQVoobtGNuslH7pG0wgAAFqconn_VXlI3jbKrlrq=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-09-07T06:18:18.635549760Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sTWJXdFRNRmgwVFZONExVTXROVGxSWDJ0TGRYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sTWJXdFRNRmgwVFZONExVTXROVGxSWDJ0TGRYYxAB!2m1!1s0x3442a9ac6d9e1ce7:0x1771edaf108dea29"
+    },
+    {
+      "name": "places/ChIJ5xyebaypQjQRKeqNEK_tcRc/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GMFduRTNVMU5uWDFBNVIxbHJRbDgyUnpobFRGRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "從義大利留學回台之後\n在台灣吃到唯一道地的義大利麵\n缺點是，假日常常客滿…\nBravo!",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "從義大利留學回台之後\n在台灣吃到唯一道地的義大利麵\n缺點是，假日常常客滿…\nBravo!",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "work jim",
+        "uri": "https://www.google.com/maps/contrib/107380065031290126011/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJsH0ixf9KmShWjTn2BC3Fy419-9HyhHm10vtBXljeow2lVMA=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-12-01T04:02:10.998645911Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GMFduRTNVMU5uWDFBNVIxbHJRbDgyUnpobFRGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GMFduRTNVMU5uWDFBNVIxbHJRbDgyUnpobFRGRRAB!2m1!1s0x3442a9ac6d9e1ce7:0x1771edaf108dea29"
+    },
+    {
+      "name": "places/ChIJ5xyebaypQjQRKeqNEK_tcRc/reviews/ChZDSUhNMG9nS0VJQ0FnSUM3bi1tSUtnEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "黑松露奶油蘑菇義大利麵超好吃！而且義大利麵條偏硬、奶油和香料調和地非常好。另外，義大利麵配上麵包也是一大特色，沾著醬汁吃很棒，而且也很有飽足感。店內乾淨舒適，不過要收10%的服務費就是了。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "黑松露奶油蘑菇義大利麵超好吃！而且義大利麵條偏硬、奶油和香料調和地非常好。另外，義大利麵配上麵包也是一大特色，沾著醬汁吃很棒，而且也很有飽足感。店內乾淨舒適，不過要收10%的服務費就是了。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "欸冷綠",
+        "uri": "https://www.google.com/maps/contrib/102761803572873673912/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWa55RLYZ1fYtnyC44xZnO98G0SDaNZqGjUccUTjeT2Q-X58bxg=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2024-08-19T14:41:42.370011Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM3bi1tSUtnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM3bi1tSUtnEAE!2m1!1s0x3442a9ac6d9e1ce7:0x1771edaf108dea29"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

@@ -1,0 +1,132 @@
+﻿{
+    "id":  "ChIJCdBOMP6rQjQRPExzFfbBQ9k",
+    "types":  [
+                  "coffee_shop",
+                  "cafe",
+                  "food_store",
+                  "food",
+                  "point_of_interest",
+                  "store",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 8789 0633",
+    "formattedAddress":  "110台灣臺北市信義區西村里松仁路58號 號B3",
+    "location":  {
+                     "latitude":  25.0368519,
+                     "longitude":  121.56778229999999
+                 },
+    "rating":  4.3,
+    "websiteUri":  "http://www.fikafikacafe.com/",
+    "userRatingCount":  808,
+    "displayName":  {
+                        "text":  "Fika Fika Cafe A13",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJCdBOMP6rQjQRPExzFfbBQ9k/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4TlgxZEljR2hCTkZOUVRuRm1OamxzY1hNeGNrRRAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  3,
+                        "text":  {
+                                     "text":  "人潮不少的咖啡廳☕️\n點了以下餐點：\n🫖冰英格蘭茶拿鐵 $190\n🥖燻鮭魚帕尼尼 $310\n🥗帕瑪森起司酪梨燻雞沙拉佐油醋醬 $250\n\n主餐跟沙拉都蠻中規中矩的🥺\n帕尼尼的燻鮭魚薄薄一片 主要是在吃麵包的感覺\n帕尼尼跟沙拉的價格跟品質都沒有等比例🥲\n不會不好吃 但CP值蠻低的\n奶茶就蠻好喝的 感覺應該要來吃下午茶 點甜點跟飲料或許比較適合✨\n早午餐的話有更多選擇🤔",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "人潮不少的咖啡廳☕️\n點了以下餐點：\n🫖冰英格蘭茶拿鐵 $190\n🥖燻鮭魚帕尼尼 $310\n🥗帕瑪森起司酪梨燻雞沙拉佐油醋醬 $250\n\n主餐跟沙拉都蠻中規中矩的🥺\n帕尼尼的燻鮭魚薄薄一片 主要是在吃麵包的感覺\n帕尼尼跟沙拉的價格跟品質都沒有等比例🥲\n不會不好吃 但CP值蠻低的\n奶茶就蠻好喝的 感覺應該要來吃下午茶 點甜點跟飲料或許比較適合✨\n早午餐的話有更多選擇🤔",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "雪倫Sharon",
+                                                  "uri":  "https://www.google.com/maps/contrib/112490506706990768419/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjX-I-c8qZ4JkIm6n7uj4UZrTKcKaS21UIPt-8JS85ygyoo_L0P2=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2026-02-21T12:38:28.192780211Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4TlgxZEljR2hCTkZOUVRuRm1OamxzY1hNeGNrRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4TlgxZEljR2hCTkZOUVRuRm1OamxzY1hNeGNrRRAB!2m1!1s0x3442abfe304ed009:0xd943c1f615734c3c"
+                    },
+                    {
+                        "name":  "places/ChIJCdBOMP6rQjQRPExzFfbBQ9k/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4VWVFMHlWbFJqTld0ZmJWQkhjVUpxVEVaUFpVRRAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "超好喝鹽之花季節限定第一名拿鐵，奶很濃郁綿密，咖啡竟然喝了不口渴會回甘，唯一的缺點是太小杯。店員人很親切。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "超好喝鹽之花季節限定第一名拿鐵，奶很濃郁綿密，咖啡竟然喝了不口渴會回甘，唯一的缺點是太小杯。店員人很親切。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Chanel P.",
+                                                  "uri":  "https://www.google.com/maps/contrib/115346361931165110749/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVLi78VG4FCCaNoGRsKER7_FkpE0UFGP2lbyJwzU-Y5m90hhuKh=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2026-02-07T11:01:29.532354828Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4VWVFMHlWbFJqTld0ZmJWQkhjVUpxVEVaUFpVRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4VWVFMHlWbFJqTld0ZmJWQkhjVUpxVEVaUFpVRRAB!2m1!1s0x3442abfe304ed009:0xd943c1f615734c3c"
+                    },
+                    {
+                        "name":  "places/ChIJCdBOMP6rQjQRPExzFfbBQ9k/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOUVVHWnVNUzAxWTFSSmVsaHRiMVF0YUhJNVVHYxAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "巴斯克非常推薦，這次是點紅玉口味！是榮登心中巴斯克第一名，軟硬適中中間有點流心感覺但不會過於軟，手沖也很棒！豆子風味層次分明\n\n環境非常舒服，店員人也非常親切。假日來可以先訂位，可以line pay非常便利",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "巴斯克非常推薦，這次是點紅玉口味！是榮登心中巴斯克第一名，軟硬適中中間有點流心感覺但不會過於軟，手沖也很棒！豆子風味層次分明\n\n環境非常舒服，店員人也非常親切。假日來可以先訂位，可以line pay非常便利",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Tzu-Chiao Lin",
+                                                  "uri":  "https://www.google.com/maps/contrib/108870685426631417668/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjX2x1oF_wM9k4ps9D3UN2LwSStRkD85wvOL3fw6ReurtAEvrf8=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2026-01-03T14:49:43.217417288Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOUVVHWnVNUzAxWTFSSmVsaHRiMVF0YUhJNVVHYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOUVVHWnVNUzAxWTFSSmVsaHRiMVF0YUhJNVVHYxAB!2m1!1s0x3442abfe304ed009:0xd943c1f615734c3c"
+                    },
+                    {
+                        "name":  "places/ChIJCdBOMP6rQjQRPExzFfbBQ9k/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkeVVYZHJVVWhyWnpOaWVuZHhlRUZOYVU1dGFrRRAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "假日的時候人非常多，\n無法事先預約訂位，\n要現場排隊。\n\n菜單是掃桌上的QR Code，\n如果看不習慣，\n也可以請店員提供紙本的菜單參考。\n每個人低消一杯飲料。\n\n座位的高度比較不是那麼舒服，\n飲料還可以，\n茶可以回沖。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "假日的時候人非常多，\n無法事先預約訂位，\n要現場排隊。\n\n菜單是掃桌上的QR Code，\n如果看不習慣，\n也可以請店員提供紙本的菜單參考。\n每個人低消一杯飲料。\n\n座位的高度比較不是那麼舒服，\n飲料還可以，\n茶可以回沖。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Emily Lee",
+                                                  "uri":  "https://www.google.com/maps/contrib/114356505159121643838/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocI69bOmbW-1B4d1Gx3kZOpiIFHtKbZtipSLB4NpKI5hE2lkhA=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2026-02-19T09:12:47.368080093Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkeVVYZHJVVWhyWnpOaWVuZHhlRUZOYVU1dGFrRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkeVVYZHJVVWhyWnpOaWVuZHhlRUZOYVU1dGFrRRAB!2m1!1s0x3442abfe304ed009:0xd943c1f615734c3c"
+                    },
+                    {
+                        "name":  "places/ChIJCdBOMP6rQjQRPExzFfbBQ9k/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkaFpHUlVTMloxTkhWdE1XdFRibFF5YzJSbGFHYxAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "亞洲50大咖啡館，台北特色咖啡Fika Fika，創辦人曾獲國際咖啡烘焙大賽冠軍，這裡的咖啡豆、甜點和輕食都非常有水準，但平常來這裡只喝咖啡跟吃甜點🤣\n咖啡店設計簡約大方，有慵懶沙發、高腳椅座位、小方桌，來喝杯冠軍咖啡加甜點，就很滿足🥰🥰🥰\n咖啡品項多，喜歡什麼就點什麼，或許Rosetta-Laced拿鐵會是個好選擇￼🤔\n✨甜點推薦肉桂蘋果塔、手工焦糖布丁、霜淇淋一定要❤️❤️❤️\n️⚠️提拉米蘇不推（偏濕）\n\n#入座限兩小時 （常客滿）\n#低消一人一杯飲品（霜淇淋不算）\n#Fika是瑞典語的Coffeebreak\n#伊通街跟A13有門市\n\n🌟另有Fika Fika SHIU XIANG(非常高級），主打手沖精品咖啡，價格從300-1000多都有👍👍👍",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "亞洲50大咖啡館，台北特色咖啡Fika Fika，創辦人曾獲國際咖啡烘焙大賽冠軍，這裡的咖啡豆、甜點和輕食都非常有水準，但平常來這裡只喝咖啡跟吃甜點🤣\n咖啡店設計簡約大方，有慵懶沙發、高腳椅座位、小方桌，來喝杯冠軍咖啡加甜點，就很滿足🥰🥰🥰\n咖啡品項多，喜歡什麼就點什麼，或許Rosetta-Laced拿鐵會是個好選擇￼🤔\n✨甜點推薦肉桂蘋果塔、手工焦糖布丁、霜淇淋一定要❤️❤️❤️\n️⚠️提拉米蘇不推（偏濕）\n\n#入座限兩小時 （常客滿）\n#低消一人一杯飲品（霜淇淋不算）\n#Fika是瑞典語的Coffeebreak\n#伊通街跟A13有門市\n\n🌟另有Fika Fika SHIU XIANG(非常高級），主打手沖精品咖啡，價格從300-1000多都有👍👍👍",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "jerry wei",
+                                                  "uri":  "https://www.google.com/maps/contrib/115354129188177027749/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVjUgy68QApAwfQlnQqj3zmMrfDMjpmSvOfz08knVa5goQbzDnn=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2025-12-25T11:15:17.990300806Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkaFpHUlVTMloxTkhWdE1XdFRibFF5YzJSbGFHYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkaFpHUlVTMloxTkhWdE1XdFRibFF5YzJSbGFHYxAB!2m1!1s0x3442abfe304ed009:0xd943c1f615734c3c"
+                    }
+                ]
+}

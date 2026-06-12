@@ -1,0 +1,129 @@
+{
+  "id": "ChIJkUVwpfGpQjQRsKaVrPyeFN8",
+  "types": [
+    "cafe",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2331 3313",
+  "formattedAddress": "100台灣臺北市中正區黎明里青島西路9 號",
+  "location": {
+    "latitude": 25.044989899999997,
+    "longitude": 121.5178638
+  },
+  "rating": 4.7,
+  "websiteUri": "https://www.cafein.com.tw/",
+  "userRatingCount": 55,
+  "displayName": {
+    "text": "CAFE!N 硬咖啡 北車門市",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJkUVwpfGpQjQRsKaVrPyeFN8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWNE1uZHhTMnhvVm1Wa01XYzRhbGhSVERkUFdFRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "空間小巧舒適\n店員小姐姐非常親切友善\n對小朋友也很有耐心\n地點方便，對於需要補充咖啡因的旅人是一間綠洲的存在🏝️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "空間小巧舒適\n店員小姐姐非常親切友善\n對小朋友也很有耐心\n地點方便，對於需要補充咖啡因的旅人是一間綠洲的存在🏝️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Painter Lin",
+        "uri": "https://www.google.com/maps/contrib/101904508417318571731/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXjnVSKcOYay0RP2kNQ0AtvX486-hW4OqmWtw_ox0kZJ8sz9xus=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-21T08:08:29.121503582Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWNE1uZHhTMnhvVm1Wa01XYzRhbGhSVERkUFdFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWNE1uZHhTMnhvVm1Wa01XYzRhbGhSVERkUFdFRRAB!2m1!1s0x3442a9f1a5704591:0xdf149efcac95a6b0"
+    },
+    {
+      "name": "places/ChIJkUVwpfGpQjQRsKaVrPyeFN8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5SVNtMUdhRWhmY1haRGQwTTFWV1Z2V0hCalNYYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "環境乾淨漂亮，服務人員親切，餐點口味也都很不錯！會再回訪～🤍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境乾淨漂亮，服務人員親切，餐點口味也都很不錯！會再回訪～🤍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Zhen",
+        "uri": "https://www.google.com/maps/contrib/111985700525969364329/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXqRC_R1uDOZfq2EPhXXxAmCqp9vUnb8NohWgICFEzKixsirxxu=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-12T06:47:00.086699562Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5SVNtMUdhRWhmY1haRGQwTTFWV1Z2V0hCalNYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5SVNtMUdhRWhmY1haRGQwTTFWV1Z2V0hCalNYYxAB!2m1!1s0x3442a9f1a5704591:0xdf149efcac95a6b0"
+    },
+    {
+      "name": "places/ChIJkUVwpfGpQjQRsKaVrPyeFN8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GT1FsZzVjMkp3VG14R2QyTnhaMHBCVERnM2RIYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "咖啡很好喝，店裡也有賣濾掛包跟咖啡豆，就在公司附近，想喝咖啡隨時走過來都很方便",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "咖啡很好喝，店裡也有賣濾掛包跟咖啡豆，就在公司附近，想喝咖啡隨時走過來都很方便",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Carrie Chia",
+        "uri": "https://www.google.com/maps/contrib/105808545640306074383/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVQTFp90a4Zj8NWEKdnPal_6OJvEWO73KfUCojDu0YdUgIju44=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-03-07T04:00:13.806624587Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GT1FsZzVjMkp3VG14R2QyTnhaMHBCVERnM2RIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GT1FsZzVjMkp3VG14R2QyTnhaMHBCVERnM2RIYxAB!2m1!1s0x3442a9f1a5704591:0xdf149efcac95a6b0"
+    },
+    {
+      "name": "places/ChIJkUVwpfGpQjQRsKaVrPyeFN8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xSYWNFbFdVMU5TVlVRM1FsZHBURWxWVUhwVlVIYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "店家態度客氣，營業時間不長，這間店也是新開，環境還蠻安靜的。咖啡覺得還好，不過可頌好吃。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店家態度客氣，營業時間不長，這間店也是新開，環境還蠻安靜的。咖啡覺得還好，不過可頌好吃。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Pony Liao",
+        "uri": "https://www.google.com/maps/contrib/113175978921866535736/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIos8gBuMQGlm9lICDbrK_qRS1W8sLpsoOvrufN5CxfbXZDiw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-17T08:00:33.732111984Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xSYWNFbFdVMU5TVlVRM1FsZHBURWxWVUhwVlVIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xSYWNFbFdVMU5TVlVRM1FsZHBURWxWVUhwVlVIYxAB!2m1!1s0x3442a9f1a5704591:0xdf149efcac95a6b0"
+    },
+    {
+      "name": "places/ChIJkUVwpfGpQjQRsKaVrPyeFN8/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xeWNGRTBNelpWTWpnNU4ySTRTRVJpZEVKTlQxRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "黑咖或是拿鐵好喝，茶飲或拿鐵類，還可以微客製化，餐點和甜點選擇多，北車和台大醫院附近多了一個覓食休息的地方，棒！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "黑咖或是拿鐵好喝，茶飲或拿鐵類，還可以微客製化，餐點和甜點選擇多，北車和台大醫院附近多了一個覓食休息的地方，棒！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "XW WANG",
+        "uri": "https://www.google.com/maps/contrib/110029763440980905830/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVKABFI_eZM8QLT0TSrduuyNd1I66agWvCDJbpIHqugX7Ye4FxC=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-13T04:01:22.932947933Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xeWNGRTBNelpWTWpnNU4ySTRTRVJpZEVKTlQxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xeWNGRTBNelpWTWpnNU4ySTRTRVJpZEVKTlQxRRAB!2m1!1s0x3442a9f1a5704591:0xdf149efcac95a6b0"
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "id": "ChIJt1LsYdOrQjQRPkElOQFEZr8",
+  "types": [
+    "italian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2720 5150",
+  "formattedAddress": "110台灣臺北市信義區雅祥里基隆路一段",
+  "location": {
+    "latitude": 25.036210099999998,
+    "longitude": 121.56125039999999
+  },
+  "rating": 4.9,
+  "userRatingCount": 63,
+  "displayName": {
+    "text": "米嵐義式便當 Italian Bento",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJt1LsYdOrQjQRPkElOQFEZr8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWdVpYcGZSWFprUm0xS1ZVRllVa0Y1VXpGNlVrRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "信義區上班族的午餐救星！義式口味的精緻便當\n沒想到義式料理也能做成便當，而且質感這麼好！便當的配菜很用心，不是隨便的加工品，而是烤蔬菜、新鮮番茄和清爽的豆子，吃起來營養非常均衡，感覺負擔很小。主菜不管是魚肉還是香腸，搭配經典的蒜香義大利麵都非常對味。對於想在忙碌工作天吃點好的、又不希望太油膩的人來說，這裡絕對是首選。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "信義區上班族的午餐救星！義式口味的精緻便當\n沒想到義式料理也能做成便當，而且質感這麼好！便當的配菜很用心，不是隨便的加工品，而是烤蔬菜、新鮮番茄和清爽的豆子，吃起來營養非常均衡，感覺負擔很小。主菜不管是魚肉還是香腸，搭配經典的蒜香義大利麵都非常對味。對於想在忙碌工作天吃點好的、又不希望太油膩的人來說，這裡絕對是首選。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Alice Tseng",
+        "uri": "https://www.google.com/maps/contrib/104688798529827083221/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUpsnq0EyF8S4IMT18htJyCwj5TjMen0sMEDJOvT0kBNm-Nhodw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-03-03T13:19:36.725681622Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWdVpYcGZSWFprUm0xS1ZVRllVa0Y1VXpGNlVrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWdVpYcGZSWFprUm0xS1ZVRllVa0Y1VXpGNlVrRRAB!2m1!1s0x3442abd361ec52b7:0xbf6644013925413e"
+    },
+    {
+      "name": "places/ChIJt1LsYdOrQjQRPkElOQFEZr8/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wVFpWRTRXa1phV0c0d2N6UjBSbW80UzNkWVFVRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第一次這麼義式的便當 很有特色很道地的味道\n配菜搭配也相當健康好吃\n飲料也很特別 也可回泡的紅玉紅茶\n值得大家來嚐嚐！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次這麼義式的便當 很有特色很道地的味道\n配菜搭配也相當健康好吃\n飲料也很特別 也可回泡的紅玉紅茶\n值得大家來嚐嚐！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "游云慈",
+        "uri": "https://www.google.com/maps/contrib/100955523882695122296/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWF1mWBNoepMBwxpCA-H3sl_J2IE7DIEr3K1w1I07UHyGk1YjP9mg=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-31T03:16:47.768933633Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wVFpWRTRXa1phV0c0d2N6UjBSbW80UzNkWVFVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wVFpWRTRXa1phV0c0d2N6UjBSbW80UzNkWVFVRRAB!2m1!1s0x3442abd361ec52b7:0xbf6644013925413e"
+    },
+    {
+      "name": "places/ChIJt1LsYdOrQjQRPkElOQFEZr8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsWFMweHBOVzEzTm1kSVdWSkJjRlJPVGs4M2EyYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "美味的便當，搭配的很漂亮\n青菜的橄欖油味道很棒，紅酒燉牛肉的味道很棒\n\n很用心的店家",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "美味的便當，搭配的很漂亮\n青菜的橄欖油味道很棒，紅酒燉牛肉的味道很棒\n\n很用心的店家",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "徐小姐",
+        "uri": "https://www.google.com/maps/contrib/107867244346713305810/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUjK6o3iKeZhjryH-WVdySlDNP3q4fP4OYhCQcGFH6wzn4ltP0=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-12T05:51:46.207740316Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsWFMweHBOVzEzTm1kSVdWSkJjRlJPVGs4M2EyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsWFMweHBOVzEzTm1kSVdWSkJjRlJPVGs4M2EyYxAB!2m1!1s0x3442abd361ec52b7:0xbf6644013925413e"
+    },
+    {
+      "name": "places/ChIJt1LsYdOrQjQRPkElOQFEZr8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21vNGJ6Y3dUVzVLV1ZWWlNEQTBiVTlzTmtrMmFXYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "真的很好吃😋\n附近開了新店當然要來捧場一下！\n很喜歡～絕對還會再訪的店❤️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "真的很好吃😋\n附近開了新店當然要來捧場一下！\n很喜歡～絕對還會再訪的店❤️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "BI DU",
+        "uri": "https://www.google.com/maps/contrib/107691810546584981410/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJP5ywi5p8qeBmcaNj-FBPfeAevFoY__bvBJiNsXCC8vdPY1A=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-09T04:31:43.142258708Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21vNGJ6Y3dUVzVLV1ZWWlNEQTBiVTlzTmtrMmFXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21vNGJ6Y3dUVzVLV1ZWWlNEQTBiVTlzTmtrMmFXYxAB!2m1!1s0x3442abd361ec52b7:0xbf6644013925413e"
+    },
+    {
+      "name": "places/ChIJt1LsYdOrQjQRPkElOQFEZr8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xwUFpqaG1SUzFLZGpWemNYZEtjbGxIU1d0Uk9HYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "義大利主廚做的便當料理，當季蔬菜，好吃的醬料，超級符合身體所需的多色蔬菜、蛋白質、澱粉，同時兼顧美味😋\n除了養身還悅目舒心，值得一試",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "義大利主廚做的便當料理，當季蔬菜，好吃的醬料，超級符合身體所需的多色蔬菜、蛋白質、澱粉，同時兼顧美味😋\n除了養身還悅目舒心，值得一試",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Judy Fan",
+        "uri": "https://www.google.com/maps/contrib/103621491663821428730/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKQPYi4h1wY4J705eGFyeHOXz-xOmmyZorST6taWczmO-vU=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-05T05:20:58.013312368Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xwUFpqaG1SUzFLZGpWemNYZEtjbGxIU1d0Uk9HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xwUFpqaG1SUzFLZGpWemNYZEtjbGxIU1d0Uk9HYxAB!2m1!1s0x3442abd361ec52b7:0xbf6644013925413e"
+    }
+  ]
+}

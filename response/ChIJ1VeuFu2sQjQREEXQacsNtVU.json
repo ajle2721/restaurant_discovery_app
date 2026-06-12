@@ -1,0 +1,133 @@
+{
+  "id": "ChIJ1VeuFu2sQjQREEXQacsNtVU",
+  "types": [
+    "pizza_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2790 9822",
+  "formattedAddress": "114台灣臺北市內湖區清白里成功路四段201號",
+  "location": {
+    "latitude": 25.084191699999998,
+    "longitude": 121.59589399999999
+  },
+  "rating": 4.8,
+  "websiteUri": "https://www.facebook.com/pages/Pizza-Mia/1485497178348756",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 382,
+  "displayName": {
+    "text": "Pizza Mia 窯烤披薩",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ1VeuFu2sQjQREEXQacsNtVU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xNMFQzcEliak10ZDA5RlRWZ3dkbXRGY0VOeWRrRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "前幾個月家人訂過這家披薩後，孩子一直念念不忘。今天剛好興致一來，問我晚上能不能再吃這家窯烤披薩。從老闆接起電話時親切的詢問，到取餐時準時拿到熱呼呼、餅皮香氣十足、料多味美的披薩，整個過程都讓人感覺踏實而愉快。現場只看到老闆一人忙碌，卻依然保持親切與耐心，令人安心。感謝老闆帶來滿滿的情緒價值，下次一定會再回購。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "前幾個月家人訂過這家披薩後，孩子一直念念不忘。今天剛好興致一來，問我晚上能不能再吃這家窯烤披薩。從老闆接起電話時親切的詢問，到取餐時準時拿到熱呼呼、餅皮香氣十足、料多味美的披薩，整個過程都讓人感覺踏實而愉快。現場只看到老闆一人忙碌，卻依然保持親切與耐心，令人安心。感謝老闆帶來滿滿的情緒價值，下次一定會再回購。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "洪嘉敏",
+        "uri": "https://www.google.com/maps/contrib/116011255600583441437/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXIuuIHEyKNvdEXvMzlzSgO8F3WTQbMWvjYasuzOyShTiwLiLFA5w=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-11-29T11:27:52.786569666Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xNMFQzcEliak10ZDA5RlRWZ3dkbXRGY0VOeWRrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xNMFQzcEliak10ZDA5RlRWZ3dkbXRGY0VOeWRrRRAB!2m1!1s0x3442aced16ae57d5:0x55b50dcb69d04510"
+    },
+    {
+      "name": "places/ChIJ1VeuFu2sQjQREEXQacsNtVU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSRFYyTkRYM0UzUlVsWmRXWjNiVTVXYlZWM1pGRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "如其它評論所說，披薩很好吃😋還會再次預訂的！\n建議及早電話預訂，不然可能訂不到想要的時間～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "如其它評論所說，披薩很好吃😋還會再次預訂的！\n建議及早電話預訂，不然可能訂不到想要的時間～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Peiyi Ciou",
+        "uri": "https://www.google.com/maps/contrib/110125472438142499502/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVIwb4ipbDL-R1fTH7qvIsHvCLJeAah9l9uX1dgh3UPFRUNCYDa=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-06T15:04:25.237990909Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSRFYyTkRYM0UzUlVsWmRXWjNiVTVXYlZWM1pGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSRFYyTkRYM0UzUlVsWmRXWjNiVTVXYlZWM1pGRRAB!2m1!1s0x3442aced16ae57d5:0x55b50dcb69d04510"
+    },
+    {
+      "name": "places/ChIJ1VeuFu2sQjQREEXQacsNtVU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t3NVZWaE5ia3hpVVhkeFdXVjVlREF3ZFRaVlMyYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餅皮的香氣十足，口感鬆軟帶點嚼勁，搭配窯烤的獨特風味，非常道地的南義風味。用料非常實在，番茄醬吃的到成塊的蕃茄肉。與大部分仿間披薩店所有口味一律使用同一種冷凍焗烤起司不同，這裡針對不同口味會使用不同的起司，而且給的量很足。肉類跟蔬菜也是給好給滿，一個披薩就可以餵飽食量不小的成年人。\n推薦綜合起司跟綜合海鮮，綜合起司的口味稍重，可以回家沾點油醋醬或橄欖油，比較不會膩。\n以這個價格（200多到400左右）在台北能吃到還原度這麼高的披薩很不容易，近期吃過幾間五星飯店義式餐廳（美福GMT,文華Bencotto,喜來登披薩屋）的披薩，吃起來跟Pizza Mia沒有明顯的差距，都很好吃，但這裡價格是一半甚至更低，非常推薦！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餅皮的香氣十足，口感鬆軟帶點嚼勁，搭配窯烤的獨特風味，非常道地的南義風味。用料非常實在，番茄醬吃的到成塊的蕃茄肉。與大部分仿間披薩店所有口味一律使用同一種冷凍焗烤起司不同，這裡針對不同口味會使用不同的起司，而且給的量很足。肉類跟蔬菜也是給好給滿，一個披薩就可以餵飽食量不小的成年人。\n推薦綜合起司跟綜合海鮮，綜合起司的口味稍重，可以回家沾點油醋醬或橄欖油，比較不會膩。\n以這個價格（200多到400左右）在台北能吃到還原度這麼高的披薩很不容易，近期吃過幾間五星飯店義式餐廳（美福GMT,文華Bencotto,喜來登披薩屋）的披薩，吃起來跟Pizza Mia沒有明顯的差距，都很好吃，但這裡價格是一半甚至更低，非常推薦！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Weian Wang",
+        "uri": "https://www.google.com/maps/contrib/102595573986929164362/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXACriHQdsmMYZA-TO8Ktl23FVdDhURtckhE-9XBPXVwekWpVmn=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-09-20T01:57:57.689128464Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t3NVZWaE5ia3hpVVhkeFdXVjVlREF3ZFRaVlMyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t3NVZWaE5ia3hpVVhkeFdXVjVlREF3ZFRaVlMyYxAB!2m1!1s0x3442aced16ae57d5:0x55b50dcb69d04510"
+    },
+    {
+      "name": "places/ChIJ1VeuFu2sQjQREEXQacsNtVU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWNE0yOHRXVmd0T0dRM1RqUlBaVFZ3YTJwUWVWRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "原本以為4.8高評分有疑慮，請大家不怕吃起來\n老闆人超級客氣又好客，而且pizza可以點雙拼，小家庭也能享用多種口味，pizza的份量和用料都不錯，希望內湖好吃的店要持續下去ㄚ～～［",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "原本以為4.8高評分有疑慮，請大家不怕吃起來\n老闆人超級客氣又好客，而且pizza可以點雙拼，小家庭也能享用多種口味，pizza的份量和用料都不錯，希望內湖好吃的店要持續下去ㄚ～～［",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Gina",
+        "uri": "https://www.google.com/maps/contrib/102502980159241716470/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLAuFSSC_jabMfXTK4YaglR6VqhlIfpXggW7LUrw_ZKjavtVvI=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-10-16T11:11:07.811349913Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWNE0yOHRXVmd0T0dRM1RqUlBaVFZ3YTJwUWVWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWNE0yOHRXVmd0T0dRM1RqUlBaVFZ3YTJwUWVWRRAB!2m1!1s0x3442aced16ae57d5:0x55b50dcb69d04510"
+    },
+    {
+      "name": "places/ChIJ1VeuFu2sQjQREEXQacsNtVU/reviews/ChdDSUhNMG9nS0VQX3FyZEcwdV9lUjh3RRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "老闆超級客氣！也很大方！放料沒有在手軟的！\n超級推海鮮！\n非常道地的拿波里風味披薩🍕！\n但老闆自己一個人 所以希望大家可以耐心等待或是打電話預訂📞\n（有時候太忙就沒有內用）\n這間小店很少人注意到 希望各位多來捧場！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "老闆超級客氣！也很大方！放料沒有在手軟的！\n超級推海鮮！\n非常道地的拿波里風味披薩🍕！\n但老闆自己一個人 所以希望大家可以耐心等待或是打電話預訂📞\n（有時候太忙就沒有內用）\n這間小店很少人注意到 希望各位多來捧場！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ray Lin",
+        "uri": "https://www.google.com/maps/contrib/112184723807732693404/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV084jvYAhGSb08glZUY1U-471iQwoH-HcXZ7RceBVOfGAoK2dm=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-05-22T15:30:37.619783Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VQX3FyZEcwdV9lUjh3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VQX3FyZEcwdV9lUjh3RRAB!2m1!1s0x3442aced16ae57d5:0x55b50dcb69d04510"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

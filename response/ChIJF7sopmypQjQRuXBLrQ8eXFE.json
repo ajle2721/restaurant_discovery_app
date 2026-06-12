@@ -1,0 +1,134 @@
+{
+  "id": "ChIJF7sopmypQjQRuXBLrQ8eXFE",
+  "types": [
+    "dessert_shop",
+    "dessert_restaurant",
+    "confectionery",
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 989 156 448",
+  "formattedAddress": "108台灣臺北市萬華區富福里西園路一段199號1樓",
+  "location": {
+    "latitude": 25.0338583,
+    "longitude": 121.49957110000001
+  },
+  "rating": 4.6,
+  "websiteUri": "https://www.instagram.com/good_place199?igsh=MWhrMzJhdGFqZjl0eQ==",
+  "userRatingCount": 58,
+  "displayName": {
+    "text": "好地方複合式冰店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJF7sopmypQjQRuXBLrQ8eXFE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25SQ1NrMWhXbXhWTWpaU1pIZEZlVTlSTFhsak1IYxAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 4,
+      "text": {
+        "text": "1-什錦粥（120元）：\n很多料很豐富的ㄧ碗粥，\n料真的很多又有肉片又有蝦又有火鍋料又有好多菜，\n粥也煮的不錯有入味感覺不是分開煮的，\n湯頭也很棒大熱天的我整碗把它整碗喝完，\n下次去經過肚子餓ㄧ定要再來吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "1-什錦粥（120元）：\n很多料很豐富的ㄧ碗粥，\n料真的很多又有肉片又有蝦又有火鍋料又有好多菜，\n粥也煮的不錯有入味感覺不是分開煮的，\n湯頭也很棒大熱天的我整碗把它整碗喝完，\n下次去經過肚子餓ㄧ定要再來吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃囍碧",
+        "uri": "https://www.google.com/maps/contrib/107219010538973686956/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVu0viLA2Lc4nG6quyn0AsOxcYjL3T1H_L6giN_pbzRMB6Kig=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-06-28T18:17:50.858074529Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25SQ1NrMWhXbXhWTWpaU1pIZEZlVTlSTFhsak1IYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25SQ1NrMWhXbXhWTWpaU1pIZEZlVTlSTFhsak1IYxAB!2m1!1s0x3442a96ca628bb17:0x515c1e0fad4b70b9"
+    },
+    {
+      "name": "places/ChIJF7sopmypQjQRuXBLrQ8eXFE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNsczRUdlJREAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 4,
+      "text": {
+        "text": "離家好近的新開幕甜品店，就在萬華車站附近。有茶飲有豆花有燒仙草有冰品，還有還有我最愛的紅豆湯😍，冷冷的天氣最適合來一碗，店家大姐很熱情介紹與招呼，配料給好給滿不怕吃不飽，配料也都不會過於甜膩，目前有喝過店家推薦的四季春茶無糖（真心不騙，茶香回甘完全沒苦澀）👍，紅豆湯、燒仙草也都不錯個人給過😎。推推推～以後肯定變常客囉😁",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "離家好近的新開幕甜品店，就在萬華車站附近。有茶飲有豆花有燒仙草有冰品，還有還有我最愛的紅豆湯😍，冷冷的天氣最適合來一碗，店家大姐很熱情介紹與招呼，配料給好給滿不怕吃不飽，配料也都不會過於甜膩，目前有喝過店家推薦的四季春茶無糖（真心不騙，茶香回甘完全沒苦澀）👍，紅豆湯、燒仙草也都不錯個人給過😎。推推推～以後肯定變常客囉😁",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "李爆爆",
+        "uri": "https://www.google.com/maps/contrib/113093684307984608857/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUjWsqUz3hNk23y3MlzY7ILyH3sZ4TtbB_pTKQ1cmq_svqmBRiy=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2023-11-26T14:09:29.844222Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNsczRUdlJREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNsczRUdlJREAE!2m1!1s0x3442a96ca628bb17:0x515c1e0fad4b70b9"
+    },
+    {
+      "name": "places/ChIJF7sopmypQjQRuXBLrQ8eXFE/reviews/ChZDSUhNMG9nS0VJQ0FnSUNib0xqUFl3EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 1,
+      "text": {
+        "text": "芋頭竟然是拿火鍋芋頭煮成甜湯\n有很明顯的油耗味！\n（第一次遇過）\n薏仁是我吃過最硬的！\n\n冰很粗\n所以整體口感差\n滿嘴油耗味的刨冰",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "芋頭竟然是拿火鍋芋頭煮成甜湯\n有很明顯的油耗味！\n（第一次遇過）\n薏仁是我吃過最硬的！\n\n冰很粗\n所以整體口感差\n滿嘴油耗味的刨冰",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "大博.",
+        "uri": "https://www.google.com/maps/contrib/113780282542899892116/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXcuh0zglNIy5CqyWIhKP8zG2gYzTXepZvi66e5hVjp2lcZNd3kww=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2024-07-22T04:35:42.658023Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNib0xqUFl3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNib0xqUFl3EAE!2m1!1s0x3442a96ca628bb17:0x515c1e0fad4b70b9"
+    },
+    {
+      "name": "places/ChIJF7sopmypQjQRuXBLrQ8eXFE/reviews/ChZDSUhNMG9nS0VJQ0FnSUQ3aDZLSERREAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "每樣食材都很鮮甜Q嫩\n阿嬤親切，也很大方\n黑糖仙草凍鮮奶，是加奶不加水\n位子做起來也舒服",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "每樣食材都很鮮甜Q嫩\n阿嬤親切，也很大方\n黑糖仙草凍鮮奶，是加奶不加水\n位子做起來也舒服",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "hsiu-lien lee",
+        "uri": "https://www.google.com/maps/contrib/114939594988913019056/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLON6wBIozY8bNQAfFIWBHWAFawBgHOGx_39kgYXI5fDn2G-A=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2024-08-29T05:10:51.358512Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQ3aDZLSERREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQ3aDZLSERREAE!2m1!1s0x3442a96ca628bb17:0x515c1e0fad4b70b9"
+    },
+    {
+      "name": "places/ChIJF7sopmypQjQRuXBLrQ8eXFE/reviews/ChZDSUhNMG9nS0VQS19fWWoxcG9MbWNREAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "熱食比冰好吃\n什錦系列料很多！大推💖",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "熱食比冰好吃\n什錦系列料很多！大推💖",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "gyoza deepfry",
+        "uri": "https://www.google.com/maps/contrib/110677020513933870229/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIOwRzUjvBPIuR0T88sQwNatJb_P7mmJ1Qkypt8s7fwoOUuuQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-05-08T12:03:19.500456Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VQS19fWWoxcG9MbWNREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VQS19fWWoxcG9MbWNREAE!2m1!1s0x3442a96ca628bb17:0x515c1e0fad4b70b9"
+    }
+  ]
+}

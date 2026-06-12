@@ -1,0 +1,128 @@
+﻿{
+    "id":  "ChIJIYAlMZevQjQRdEgcIZR7bB4",
+    "types":  [
+                  "cafe",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2821 0275",
+    "formattedAddress":  "112台灣臺北市北投區石牌里自強街126號",
+    "location":  {
+                     "latitude":  25.1108689,
+                     "longitude":  121.5158843
+                 },
+    "rating":  4.7,
+    "userRatingCount":  186,
+    "displayName":  {
+                        "text":  "群咖啡",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJIYAlMZevQjQRdEgcIZR7bB4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0amFWRkNVRGQxWmpNelQyUjJaVVU0Y1hkQ1dHYxAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "好久不見的朋友想嚕狗。\n找了咕狗好久終於看到這家小咖啡廳\n狗狗名字叫花花草草很乖也很好看\n會坐在你旁邊或是趴在腳邊 毛絨絨軟軟的超好摸超好吸\n我點了海鹽焦糖拿鐵 好喝 咖啡的香氣十足 是很好的豆子煮的咖啡\n海鹽焦糖汁在最下面 要攪一攪才好喝\n價錢也算公道 一百有找\n帥氣的長髮男生老闆還和狗狗們表演了坐下 往後的動作 真是好看 果然邊牧是邊牧 狗是狗\n舒服的小店 推薦悠閑的放假日來放鬆",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "好久不見的朋友想嚕狗。\n找了咕狗好久終於看到這家小咖啡廳\n狗狗名字叫花花草草很乖也很好看\n會坐在你旁邊或是趴在腳邊 毛絨絨軟軟的超好摸超好吸\n我點了海鹽焦糖拿鐵 好喝 咖啡的香氣十足 是很好的豆子煮的咖啡\n海鹽焦糖汁在最下面 要攪一攪才好喝\n價錢也算公道 一百有找\n帥氣的長髮男生老闆還和狗狗們表演了坐下 往後的動作 真是好看 果然邊牧是邊牧 狗是狗\n舒服的小店 推薦悠閑的放假日來放鬆",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Wai Bei",
+                                                  "uri":  "https://www.google.com/maps/contrib/102934248454780162272/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWhCjqXTwXhYJGCYGd3ulydmoCibfINwp-bmkItzi0ddLFpU9j8=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2026-01-31T13:08:39.578467865Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0amFWRkNVRGQxWmpNelQyUjJaVVU0Y1hkQ1dHYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0amFWRkNVRGQxWmpNelQyUjJaVVU0Y1hkQ1dHYxAB!2m1!1s0x3442af9731258021:0x1e6c7b94211c4874"
+                    },
+                    {
+                        "name":  "places/ChIJIYAlMZevQjQRdEgcIZR7bB4/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Ka1dGSTVTSEJoUjFVMmMxazVjMDkwT1RCTFNVRRAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "狗狗們超級超級可愛！一進門就被狗狗們熱情歡迎…花花跳起來把手放在我手裡真的覺得超級幸福…草草很漂亮，就是感覺比較文靜一點🥹🥰\n店比較小，還好來的時候人不多，和朋友四個人來待著很舒服。柚子茶很好喝，價格也很佛系，非常喜歡~",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "狗狗們超級超級可愛！一進門就被狗狗們熱情歡迎…花花跳起來把手放在我手裡真的覺得超級幸福…草草很漂亮，就是感覺比較文靜一點🥹🥰\n店比較小，還好來的時候人不多，和朋友四個人來待著很舒服。柚子茶很好喝，價格也很佛系，非常喜歡~",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "升Sheng",
+                                                  "uri":  "https://www.google.com/maps/contrib/116807670190836183443/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVU9WZ4a41ejQAs996jBoIo2pe4TvQeSidCUOJZuZIyGskkSgzi=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2025-11-29T01:50:09.813094365Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Ka1dGSTVTSEJoUjFVMmMxazVjMDkwT1RCTFNVRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Ka1dGSTVTSEJoUjFVMmMxazVjMDkwT1RCTFNVRRAB!2m1!1s0x3442af9731258021:0x1e6c7b94211c4874"
+                    },
+                    {
+                        "name":  "places/ChIJIYAlMZevQjQRdEgcIZR7bB4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kweFMybDBlblZSUVhaaldHcGxibU0zZWtONlEzYxAB",
+                        "relativePublishTimeDescription":  "11 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "狗狗很乖，環境舒適，東西好吃（好喝），價格合理~~~\n\n（蘋果冰茶+黃金歲月+奶酥厚片=260）",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "狗狗很乖，環境舒適，東西好吃（好喝），價格合理~~~\n\n（蘋果冰茶+黃金歲月+奶酥厚片=260）",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "伍德程",
+                                                  "uri":  "https://www.google.com/maps/contrib/103619052444529360258/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocIFDwhisIx86jGjaK8QNRd0DzdNf_A86qrx7eC5uQl1gdwr3w=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-05-30T09:57:53.430844588Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kweFMybDBlblZSUVhaaldHcGxibU0zZWtONlEzYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kweFMybDBlblZSUVhaaldHcGxibU0zZWtONlEzYxAB!2m1!1s0x3442af9731258021:0x1e6c7b94211c4874"
+                    },
+                    {
+                        "name":  "places/ChIJIYAlMZevQjQRdEgcIZR7bB4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pWQ2NYbExOVkJhVGxZdGRYbHRSMmxVV0V4SlIwRRAB",
+                        "relativePublishTimeDescription":  "8 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "美式咖啡便宜且很好喝，還可以選焙度，還有兩隻邊境怎麼輸",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "美式咖啡便宜且很好喝，還可以選焙度，還有兩隻邊境怎麼輸",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Wu Ker Shing",
+                                                  "uri":  "https://www.google.com/maps/contrib/106418131214754082275/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXq73-CHugn9k1i1UZk8rmTBOQgGOgNIO_y46waXgQiFm9jXYVZ=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-09-21T09:17:36.804839133Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pWQ2NYbExOVkJhVGxZdGRYbHRSMmxVV0V4SlIwRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pWQ2NYbExOVkJhVGxZdGRYbHRSMmxVV0V4SlIwRRAB!2m1!1s0x3442af9731258021:0x1e6c7b94211c4874"
+                    },
+                    {
+                        "name":  "places/ChIJIYAlMZevQjQRdEgcIZR7bB4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s1a1ZWQllVVm8wUW5ORFNVSlZZM2hUT1Zkek9FRRAB",
+                        "relativePublishTimeDescription":  "7 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "花草都好可愛又有修養。 雖然空間有限，但狗狗和餐點飲料都令人療癒",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "花草都好可愛又有修養。 雖然空間有限，但狗狗和餐點飲料都令人療癒",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "* Fulyouth",
+                                                  "uri":  "https://www.google.com/maps/contrib/100993184387557037417/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVn-QMlW-eiEqzbROK5gGllK7oAGSLwxzJCfhd2OW2asxNsvGqnAw=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2025-09-28T07:57:14.798899019Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s1a1ZWQllVVm8wUW5ORFNVSlZZM2hUT1Zkek9FRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s1a1ZWQllVVm8wUW5ORFNVSlZZM2hUT1Zkek9FRRAB!2m1!1s0x3442af9731258021:0x1e6c7b94211c4874"
+                    }
+                ]
+}

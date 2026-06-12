@@ -1,0 +1,137 @@
+{
+  "id": "ChIJ-xu50L6rQjQR-80MoLznv44",
+  "types": [
+    "restaurant",
+    "western_restaurant",
+    "brunch_restaurant",
+    "bistro",
+    "food_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2746 9892",
+  "formattedAddress": "110台灣臺北市信義區新仁里忠孝東路四段553巷22弄4號",
+  "location": {
+    "latitude": 25.0431572,
+    "longitude": 121.5631149
+  },
+  "rating": 4.1,
+  "websiteUri": "https://www.facebook.com/hersbistro/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1095,
+  "displayName": {
+    "text": "Hërs biströ她/的餐酒",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ-xu50L6rQjQR-80MoLznv44/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xVNVZrRlRaV293ZEcxTWRFZE9XR2xvYmtWTmRuYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "【奶香金沙椒鹽脆雞麵 270元 / 綠色海洋起司燉飯 295元】\n\n以信義區/松菸附近來說算是平價（餐點亦不收10%服務費），雖然用餐時間限制90分鐘（第一位入座時起算），但如果沒有客滿似乎不會強制趕人，牆上插座經與店家確認也是可以使用的，剛好可以應急幫手機充電🔋\n\n餐點本身中規中矩，份量適中，口味上不算太驚艷；椒鹽雞確實有脆、熱度也夠，可惜金沙的存在感比較影薄，燉飯也是該有的都有（？總體而言，如果有順路可以來嘗試看看！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "【奶香金沙椒鹽脆雞麵 270元 / 綠色海洋起司燉飯 295元】\n\n以信義區/松菸附近來說算是平價（餐點亦不收10%服務費），雖然用餐時間限制90分鐘（第一位入座時起算），但如果沒有客滿似乎不會強制趕人，牆上插座經與店家確認也是可以使用的，剛好可以應急幫手機充電🔋\n\n餐點本身中規中矩，份量適中，口味上不算太驚艷；椒鹽雞確實有脆、熱度也夠，可惜金沙的存在感比較影薄，燉飯也是該有的都有（？總體而言，如果有順路可以來嘗試看看！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "hc",
+        "uri": "https://www.google.com/maps/contrib/109673541182742869921/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWqgQdxU7ngM4M7VNQiCvbgKR8Sdw9EQrCpr2FRf9cJDWYKjtvX5g=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-03-01T23:44:28.833921347Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xVNVZrRlRaV293ZEcxTWRFZE9XR2xvYmtWTmRuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xVNVZrRlRaV293ZEcxTWRFZE9XR2xvYmtWTmRuYxAB!2m1!1s0x3442abbed0b91bfb:0x8ebfe7bca00ccdfb"
+    },
+    {
+      "name": "places/ChIJ-xu50L6rQjQR-80MoLznv44/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoeU5HMDFUa0prUjI1U1NraHNVRWhaZEdwb1ZsRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "商業午餐的份量，比起午、晚單點正餐雖然稍少一些，但口味，用料都給得很足。厚厚的豬排、雞柳，都是炸得外表酥脆，內嫩多汁，蛋包飯的蛋皮部分，也是又厚又香，吃得很滿足，CP值高。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "商業午餐的份量，比起午、晚單點正餐雖然稍少一些，但口味，用料都給得很足。厚厚的豬排、雞柳，都是炸得外表酥脆，內嫩多汁，蛋包飯的蛋皮部分，也是又厚又香，吃得很滿足，CP值高。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "溫宏娟",
+        "uri": "https://www.google.com/maps/contrib/105208483322260226211/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK41lQgvwY1nrix0-6IX3fc8vLqNIudHT-qnEUG61UT_rqU=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-28T14:10:40.410036533Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoeU5HMDFUa0prUjI1U1NraHNVRWhaZEdwb1ZsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoeU5HMDFUa0prUjI1U1NraHNVRWhaZEdwb1ZsRRAB!2m1!1s0x3442abbed0b91bfb:0x8ebfe7bca00ccdfb"
+    },
+    {
+      "name": "places/ChIJ-xu50L6rQjQR-80MoLznv44/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0UFFUTXhlVWR1V0ZNeFZXUnJSMUl3TkdkNlRWRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "氣氛輕鬆，環境簡潔，食物很好吃，性價比我覺得非常高（可能比很多台中的店都高）。來台中開我應該會常常來吃。而且中午有酒可以喝…🤣 推薦推薦",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "氣氛輕鬆，環境簡潔，食物很好吃，性價比我覺得非常高（可能比很多台中的店都高）。來台中開我應該會常常來吃。而且中午有酒可以喝…🤣 推薦推薦",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "George L",
+        "uri": "https://www.google.com/maps/contrib/101426858469829301967/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXhrXl3D063WhiwPTCGs8mttieQ3PakPJAxPossIjjPWX8Oj3R-=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-24T05:34:33.751978438Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0UFFUTXhlVWR1V0ZNeFZXUnJSMUl3TkdkNlRWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0UFFUTXhlVWR1V0ZNeFZXUnJSMUl3TkdkNlRWRRAB!2m1!1s0x3442abbed0b91bfb:0x8ebfe7bca00ccdfb"
+    },
+    {
+      "name": "places/ChIJ-xu50L6rQjQR-80MoLznv44/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SblJ6aG1WelZCUkU5c04yZHJhREJHT0VFeGRuYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 1,
+      "text": {
+        "text": "餐點和以前完全不同，什麼雲朵炒飯都沒了，但都進去坐下也就算了，點了兩份早午餐，還先確認餐盤中是沒有薯條的，才加點松露薯條，結果兩份餐上來都有薯條，而且我點的餐盤還有松露醬😓跟店員反應也只是說不好意思😓只好打包帶走，然後帶不進大巨蛋，只好丟掉…\n騙完人再說不好意思有用嗎？",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點和以前完全不同，什麼雲朵炒飯都沒了，但都進去坐下也就算了，點了兩份早午餐，還先確認餐盤中是沒有薯條的，才加點松露薯條，結果兩份餐上來都有薯條，而且我點的餐盤還有松露醬😓跟店員反應也只是說不好意思😓只好打包帶走，然後帶不進大巨蛋，只好丟掉…\n騙完人再說不好意思有用嗎？",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "April Huang",
+        "uri": "https://www.google.com/maps/contrib/105181980818746310173/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXMgvV1jl1Vw9JOB5LaRDr8o5SH3Vb8UV6EVhytAVd6AV4Fd69S=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-18T12:29:12.591923345Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SblJ6aG1WelZCUkU5c04yZHJhREJHT0VFeGRuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SblJ6aG1WelZCUkU5c04yZHJhREJHT0VFeGRuYxAB!2m1!1s0x3442abbed0b91bfb:0x8ebfe7bca00ccdfb"
+    },
+    {
+      "name": "places/ChIJ-xu50L6rQjQR-80MoLznv44/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tJNFpGazVVM0pmTFZneFMxTm9abVIxVVZWU1JsRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "餐點經濟實惠，口味也很棒，擺盤真的很漂亮！會是讓人想要回訪的店家！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點經濟實惠，口味也很棒，擺盤真的很漂亮！會是讓人想要回訪的店家！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Eric Chen",
+        "uri": "https://www.google.com/maps/contrib/100133072225129286669/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIgomZmxNUYkIIWPpQ2Wj4QlkdLd7C2X5whO_r3AIeEf-3vEQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-04T17:08:20.713303774Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tJNFpGazVVM0pmTFZneFMxTm9abVIxVVZWU1JsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tJNFpGazVVM0pmTFZneFMxTm9abVIxVVZWU1JsRRAB!2m1!1s0x3442abbed0b91bfb:0x8ebfe7bca00ccdfb"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

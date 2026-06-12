@@ -1,0 +1,129 @@
+﻿{
+    "id":  "ChIJTW9wBGqpQjQREpa8bc9E3fQ",
+    "types":  [
+                  "cafe",
+                  "point_of_interest",
+                  "food",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2367 9258",
+    "formattedAddress":  "100台灣臺北市中正區頂東里金門街4號",
+    "location":  {
+                     "latitude":  25.022968,
+                     "longitude":  121.52446789999998
+                 },
+    "rating":  4.6,
+    "websiteUri":  "https://www.facebook.com/OldJack",
+    "userRatingCount":  377,
+    "displayName":  {
+                        "text":  "咖啡學人-老傑克 The Cafeist \u0026 Old Jack",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJTW9wBGqpQjQREpa8bc9E3fQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WUk5HdHFaeTEyVWxCc2FHczNiVnBNWkU5Nk9GRRAB",
+                        "relativePublishTimeDescription":  "3 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "喜歡這邊的熱拿鐵咖啡，平價，可集點的熟客服務。\n也很推他們家的特調，有一點堅果的苦澀感。\n內用位子少，適合靜靜喝一杯咖啡，調劑一下生活節奏感。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "喜歡這邊的熱拿鐵咖啡，平價，可集點的熟客服務。\n也很推他們家的特調，有一點堅果的苦澀感。\n內用位子少，適合靜靜喝一杯咖啡，調劑一下生活節奏感。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "小美",
+                                                  "uri":  "https://www.google.com/maps/contrib/111793912831413635842/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUtCYYeeAKsi1MtLd-dB26-QiK11UVJeRH5fqlWIqEmwOAKCAotcQ=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2026-02-21T14:20:40.605817482Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WUk5HdHFaeTEyVWxCc2FHczNiVnBNWkU5Nk9GRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WUk5HdHFaeTEyVWxCc2FHczNiVnBNWkU5Nk9GRRAB!2m1!1s0x3442a96a04706f4d:0xf4dd44cf6dbc9612"
+                    },
+                    {
+                        "name":  "places/ChIJTW9wBGqpQjQREpa8bc9E3fQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25Cb09WOXlORmRqTVdGQ2VWVkNWM1p6T1VZeVNFRRAB",
+                        "relativePublishTimeDescription":  "10 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "🥨這家咖啡店是附近我蠻常去的一間，環境很舒服，氣氛也很好。\n最喜歡他們的拿鐵，奶泡很綿密，咖啡喝起來順順的，不會苦也不酸，味道剛剛好，很順口。每次喝完心情都很好，算是生活裡的小確幸。\n\n店裡不會太吵，適合一個人靜靜坐著，或是偶爾帶台電腦來換個環境。店員也很親切，整體感覺很放鬆自在。\n\n如果剛好在附近，蠻推薦來喝杯咖啡，會是個不錯的休息時光。\n\nThis is one of the coffee shops I visit quite often in the neighborhood. The environment is cozy, and the atmosphere feels great.\nI especially love their latte—the milk foam is really creamy, and the coffee is so smooth. It\u0027s not too bitter or sour, just perfectly balanced. Every time I finish a cup, it really lifts my mood. It feels like one of life\u0027s little joys.\n\nThe café is not too noisy, making it a great spot to sit quietly alone or bring a laptop to work for a while. The staff are also friendly, which makes the whole experience relaxing and pleasant.\n\nIf you\u0027re nearby, I definitely recommend stopping by for a cup of coffee—it’s a lovely little break in the day.",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "🥨這家咖啡店是附近我蠻常去的一間，環境很舒服，氣氛也很好。\n最喜歡他們的拿鐵，奶泡很綿密，咖啡喝起來順順的，不會苦也不酸，味道剛剛好，很順口。每次喝完心情都很好，算是生活裡的小確幸。\n\n店裡不會太吵，適合一個人靜靜坐著，或是偶爾帶台電腦來換個環境。店員也很親切，整體感覺很放鬆自在。\n\n如果剛好在附近，蠻推薦來喝杯咖啡，會是個不錯的休息時光。\n\nThis is one of the coffee shops I visit quite often in the neighborhood. The environment is cozy, and the atmosphere feels great.\nI especially love their latte—the milk foam is really creamy, and the coffee is so smooth. It\u0027s not too bitter or sour, just perfectly balanced. Every time I finish a cup, it really lifts my mood. It feels like one of life\u0027s little joys.\n\nThe café is not too noisy, making it a great spot to sit quietly alone or bring a laptop to work for a while. The staff are also friendly, which makes the whole experience relaxing and pleasant.\n\nIf you\u0027re nearby, I definitely recommend stopping by for a cup of coffee—it’s a lovely little break in the day.",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "peiju chen",
+                                                  "uri":  "https://www.google.com/maps/contrib/104563337051872575248/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWq2SVhLaRNrn8tS9OZinY6ZpPe2PYwIJ8v005is4aC5gK2Mg=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2025-07-08T12:53:56.539592811Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25Cb09WOXlORmRqTVdGQ2VWVkNWM1p6T1VZeVNFRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25Cb09WOXlORmRqTVdGQ2VWVkNWM1p6T1VZeVNFRRAB!2m1!1s0x3442a96a04706f4d:0xf4dd44cf6dbc9612"
+                    },
+                    {
+                        "name":  "places/ChIJTW9wBGqpQjQREpa8bc9E3fQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xV2MxWXlhWFpqZFRWeVUwazBOamg2TUdkVlNGRRAB",
+                        "relativePublishTimeDescription":  "10 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "好喝的咖啡\n\n氣氛十足的咖啡廳\n\n牆上貼滿熟客的集點卡😆\n\n今天喝的是卡布奇諾跟黑糖檸檬冰美式\n\n濃郁的卡布咖啡因十足\n\n冰美式很消暑\n\n店內座位不多\n\n有戶外長板凳的座位一組\n\n若客滿有90分鐘的限制\n\n抵消一人一杯咖啡",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "好喝的咖啡\n\n氣氛十足的咖啡廳\n\n牆上貼滿熟客的集點卡😆\n\n今天喝的是卡布奇諾跟黑糖檸檬冰美式\n\n濃郁的卡布咖啡因十足\n\n冰美式很消暑\n\n店內座位不多\n\n有戶外長板凳的座位一組\n\n若客滿有90分鐘的限制\n\n抵消一人一杯咖啡",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "WU MIA",
+                                                  "uri":  "https://www.google.com/maps/contrib/108526612484313506406/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjX5IOuqk6nRlWDYry2RYXNFT03sydjTTei9mTnAO4tSfBuh_lzX=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-07-14T01:07:03.454533183Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xV2MxWXlhWFpqZFRWeVUwazBOamg2TUdkVlNGRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xV2MxWXlhWFpqZFRWeVUwazBOamg2TUdkVlNGRRAB!2m1!1s0x3442a96a04706f4d:0xf4dd44cf6dbc9612"
+                    },
+                    {
+                        "name":  "places/ChIJTW9wBGqpQjQREpa8bc9E3fQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GdGIybHVXbk55WjNKcVpXRmZSM28zU0RCTVZHYxAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "手工餅乾好吃👍特調咖啡有加奶精鮮奶精的人會很喜歡。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "手工餅乾好吃👍特調咖啡有加奶精鮮奶精的人會很喜歡。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Tristan Chen",
+                                                  "uri":  "https://www.google.com/maps/contrib/105053119585483561961/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWSJTN8IrLnwOWScjRv7KxhlekaDYJqi67f0YoOoiO9vFjMxFY=s128-c0x00000000-cc-rp-mo-ba8"
+                                              },
+                        "publishTime":  "2026-01-18T08:06:24.048008987Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GdGIybHVXbk55WjNKcVpXRmZSM28zU0RCTVZHYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GdGIybHVXbk55WjNKcVpXRmZSM28zU0RCTVZHYxAB!2m1!1s0x3442a96a04706f4d:0xf4dd44cf6dbc9612"
+                    },
+                    {
+                        "name":  "places/ChIJTW9wBGqpQjQREpa8bc9E3fQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoVkxXNUdXbEJxU1daS1VWUndRVTQ0V25OWU1rRRAB",
+                        "relativePublishTimeDescription":  "10 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "第一次路過，沒想到是一家人氣咖啡店，喝大冰美式微甜，非常意外的好，這樣的喜悅就是，可以加入集點又滿足CP 值期待，值得天天來。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "第一次路過，沒想到是一家人氣咖啡店，喝大冰美式微甜，非常意外的好，這樣的喜悅就是，可以加入集點又滿足CP 值期待，值得天天來。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "袁昌德",
+                                                  "uri":  "https://www.google.com/maps/contrib/105085203509181351663/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocKIDnaZWBtmafoj7TxqGX8Bm55JKkDbFs5NDm4OpvCQRlKgeQ=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2025-07-28T04:13:52.543738896Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoVkxXNUdXbEJxU1daS1VWUndRVTQ0V25OWU1rRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoVkxXNUdXbEJxU1daS1VWUndRVTQ0V25OWU1rRRAB!2m1!1s0x3442a96a04706f4d:0xf4dd44cf6dbc9612"
+                    }
+                ]
+}

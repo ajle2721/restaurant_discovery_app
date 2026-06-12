@@ -1,0 +1,132 @@
+{
+  "id": "ChIJfajrth2qQjQREw2yHvSI4og",
+  "types": [
+    "vegetarian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2931 8099",
+  "formattedAddress": "116台灣臺北市文山區萬祥里興隆路一段14號",
+  "location": {
+    "latitude": 25.004156,
+    "longitude": 121.53939700000001
+  },
+  "rating": 4.4,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 197,
+  "displayName": {
+    "text": "溥善園精緻蔬食",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJfajrth2qQjQREw2yHvSI4og/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aV01XazBVM2xRZVRObVgyOTVVV05pV1dsNE1YYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 3,
+      "text": {
+        "text": "簡餐式的蔬食，氣氛很平靜悠閒，適合帶長輩一同享用聊天喝熱茶，每一個桌上都有一壺保溫瓶裝所以不會冷掉。這次點的是高麗菜素餃加100元升級套餐對滷味和甜食/咖啡擇一。滷味的話很小一個，開胃菜的感覺，算是好吃的素食滷味。我選了甜食，那時候的甜食一個是奶酪一個是綠豆白木耳。我選了奶酪，搭配香濃的芝麻醬非常好吃！主餐的部分店員不小心把水餃聽成煎餃，上來才發現錯，最後吃完還有送我們吃香蕉作補償。是人情味滿滿然後朋友吃素的話可以來的一個好餐廳～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "簡餐式的蔬食，氣氛很平靜悠閒，適合帶長輩一同享用聊天喝熱茶，每一個桌上都有一壺保溫瓶裝所以不會冷掉。這次點的是高麗菜素餃加100元升級套餐對滷味和甜食/咖啡擇一。滷味的話很小一個，開胃菜的感覺，算是好吃的素食滷味。我選了甜食，那時候的甜食一個是奶酪一個是綠豆白木耳。我選了奶酪，搭配香濃的芝麻醬非常好吃！主餐的部分店員不小心把水餃聽成煎餃，上來才發現錯，最後吃完還有送我們吃香蕉作補償。是人情味滿滿然後朋友吃素的話可以來的一個好餐廳～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張裴書",
+        "uri": "https://www.google.com/maps/contrib/116693475635404017148/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXgRke9EiqVc3UCa22WiSYzWgsFxr_0VKIJOAMpkOILuePdrA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-11-22T08:50:12.353693605Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aV01XazBVM2xRZVRObVgyOTVVV05pV1dsNE1YYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aV01XazBVM2xRZVRObVgyOTVVV05pV1dsNE1YYxAB!2m1!1s0x3442aa1db6eba87d:0x88e288f41eb20d13"
+    },
+    {
+      "name": "places/ChIJfajrth2qQjQREw2yHvSI4og/reviews/Ci9DQUlRQUNvZENodHljRjlvT25wVGRFUmtUalkzVGtscU1sTjRNV1JaWVZKM1lVRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "環境很舒服，餐點好吃\n三杯套餐、松露燉飯都很讚",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境很舒服，餐點好吃\n三杯套餐、松露燉飯都很讚",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "JoChin Chao",
+        "uri": "https://www.google.com/maps/contrib/105663432449979290748/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX7iEe8XuaH2YzRAdixweL5k5F39wHU2t1WPHcigpNbPKLBqA1e=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-26T09:02:13.575942024Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25wVGRFUmtUalkzVGtscU1sTjRNV1JaWVZKM1lVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25wVGRFUmtUalkzVGtscU1sTjRNV1JaWVZKM1lVRRAB!2m1!1s0x3442aa1db6eba87d:0x88e288f41eb20d13"
+    },
+    {
+      "name": "places/ChIJfajrth2qQjQREw2yHvSI4og/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ST1ZVZHhNV3B6TkdKeldFRkpaVWwxVTNZMGRXYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "彩色精緻、美味可口。值得再來",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "彩色精緻、美味可口。值得再來",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Guillaume Wu",
+        "uri": "https://www.google.com/maps/contrib/104011659585192866848/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocImFVcVfNBNZ3Nxs2BrsAqzky0SBN5w42ZalAk_BQ9mXXS-Xw=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-24T05:40:39.506919663Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ST1ZVZHhNV3B6TkdKeldFRkpaVWwxVTNZMGRXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ST1ZVZHhNV3B6TkdKeldFRkpaVWwxVTNZMGRXYxAB!2m1!1s0x3442aa1db6eba87d:0x88e288f41eb20d13"
+    },
+    {
+      "name": "places/ChIJfajrth2qQjQREw2yHvSI4og/reviews/ChdDSUhNMG9nS0VJQ0FnSUNYaS1tRm1BRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "焗烤飯很入味好吃，孜然披薩反而是菇的味道為主，孜然味道不會太重。熱茶和整個店內的氣氛很搭配，是令人心情平靜的用餐環境。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "焗烤飯很入味好吃，孜然披薩反而是菇的味道為主，孜然味道不會太重。熱茶和整個店內的氣氛很搭配，是令人心情平靜的用餐環境。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "許泓崴 Hung Wei Hsu",
+        "uri": "https://www.google.com/maps/contrib/105684421122424788387/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJwaToYHiSdspupPthHrw5Ds1NYDm-zYQJSVtdExKQdvKyAow=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2024-10-20T13:08:18.295403Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNYaS1tRm1BRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNYaS1tRm1BRRAB!2m1!1s0x3442aa1db6eba87d:0x88e288f41eb20d13"
+    },
+    {
+      "name": "places/ChIJfajrth2qQjQREw2yHvSI4og/reviews/ChdDSUhNMG9nS0VJQ0FnSUM3anUzS19RRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "空間不大，卻頗為舒適\n餐點十分精緻\n青醬時蔬燉飯還不錯\n滷味拼盤各項都有入味，口感各有不同\n臭豆腐水餃很有特色\n滿滿臭豆腐香味，十分推薦這邊也嚼勁的餃子皮",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "空間不大，卻頗為舒適\n餐點十分精緻\n青醬時蔬燉飯還不錯\n滷味拼盤各項都有入味，口感各有不同\n臭豆腐水餃很有特色\n滿滿臭豆腐香味，十分推薦這邊也嚼勁的餃子皮",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "佛客使",
+        "uri": "https://www.google.com/maps/contrib/117417391102752049976/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKH5D9Fadek0lMAwR3hGpQj_M558GJSJQmbR2fVS0mqEXGdJw=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2024-08-15T18:24:32.702448Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUM3anUzS19RRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUM3anUzS19RRRAB!2m1!1s0x3442aa1db6eba87d:0x88e288f41eb20d13"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

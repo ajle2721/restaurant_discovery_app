@@ -1,0 +1,141 @@
+{
+  "id": "ChIJgUx6gWCpQjQRAH03RdFplIg",
+  "types": [
+    "coffee_shop",
+    "brunch_restaurant",
+    "dessert_shop",
+    "cafe",
+    "confectionery",
+    "food_store",
+    "restaurant",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2504 2797",
+  "formattedAddress": "104台灣臺北市中山區中央里長春路172號",
+  "location": {
+    "latitude": 25.0546772,
+    "longitude": 121.53376399999999
+  },
+  "rating": 4.4,
+  "websiteUri": "https://www.mcdonalds.com/tw/zh-tw/full-menu/mccafe.html",
+  "userRatingCount": 88,
+  "displayName": {
+    "text": "McCafé 咖啡-長春店",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "McDonald's chain for a variety of specialty coffee drinks, baked goods & other food offerings.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJgUx6gWCpQjQRAH03RdFplIg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsRlkwTk5RM05tUzBsaWJFSjVNRE5wTW1SaFYwRRAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 3,
+      "text": {
+        "text": "原本座位區很多，已取消B1 的座位區，只剩一樓少數座位，但女廁所減少了，且空間變窄",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "原本座位區很多，已取消B1 的座位區，只剩一樓少數座位，但女廁所減少了，且空間變窄",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "美蘭王",
+        "uri": "https://www.google.com/maps/contrib/105429730707345907334/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ65kRlTqHhRf_Isp5ncJ7iOD6OXpIF7SqVqKD-WWdyGs5CEw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-06-25T01:16:27.355157371Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsRlkwTk5RM05tUzBsaWJFSjVNRE5wTW1SaFYwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsRlkwTk5RM05tUzBsaWJFSjVNRE5wTW1SaFYwRRAB!2m1!1s0x3442a960817a4c81:0x889469d145377d00"
+    },
+    {
+      "name": "places/ChIJgUx6gWCpQjQRAH03RdFplIg/reviews/ChZDSUhNMG9nS0VJQ0FnSUN0aE83c013EAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 2,
+      "text": {
+        "text": "電子支付設備故障，沒有在電子點餐機旁明顯處貼告示，告示放在人工結帳櫃台有何用，自助點餐機形同虛設？ 告知工作人員，回復語氣雖然沒有不禮貌，但感覺似乎態度不積極，沒有感覺設備故障造成客人困擾，有很大改善空間。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "電子支付設備故障，沒有在電子點餐機旁明顯處貼告示，告示放在人工結帳櫃台有何用，自助點餐機形同虛設？ 告知工作人員，回復語氣雖然沒有不禮貌，但感覺似乎態度不積極，沒有感覺設備故障造成客人困擾，有很大改善空間。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Eric Chang",
+        "uri": "https://www.google.com/maps/contrib/108425758324108525907/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLCkbrQOgIEdl0qL1zB6zSYJ3DwvuckjiYUK9zORXPCabtJiA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2024-01-29T00:09:42.006529Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN0aE83c013EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN0aE83c013EAE!2m1!1s0x3442a960817a4c81:0x889469d145377d00"
+    },
+    {
+      "name": "places/ChIJgUx6gWCpQjQRAH03RdFplIg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNoenFTNWNREAE",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 4,
+      "text": {
+        "text": "這裡位處商業辦公區，平時氣氛尚可，但一到用餐時間，因一樓服務區與用餐區共用，由於用餐點餐及外送取餐人員交錯，故稍嫌壅塞吵雜",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這裡位處商業辦公區，平時氣氛尚可，但一到用餐時間，因一樓服務區與用餐區共用，由於用餐點餐及外送取餐人員交錯，故稍嫌壅塞吵雜",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "賴文旭",
+        "uri": "https://www.google.com/maps/contrib/105353127316474952153/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLS5jYKpBMe3-kMhqmgSq3U4dAQljtLPlyVB6ZLNRjAyh96vQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2023-02-13T04:04:33.088871Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNoenFTNWNREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNoenFTNWNREAE!2m1!1s0x3442a960817a4c81:0x889469d145377d00"
+    },
+    {
+      "name": "places/ChIJgUx6gWCpQjQRAH03RdFplIg/reviews/ChZDSUhNMG9nS0VJQ0FnSUNqcVlHN0hnEAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 4,
+      "text": {
+        "text": "1樓改裝後空間很舒服，但B1不開放內用的場地非常小",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "1樓改裝後空間很舒服，但B1不開放內用的場地非常小",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Joey Li (野人二号)",
+        "uri": "https://www.google.com/maps/contrib/101456216514040903789/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXBfiNFUJGadJMNY3fDQwZ7Pt22luAzqD9C0yO13Sl3fZH0vAXv=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2024-04-23T08:30:59.138169Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNqcVlHN0hnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNqcVlHN0hnEAE!2m1!1s0x3442a960817a4c81:0x889469d145377d00"
+    },
+    {
+      "name": "places/ChIJgUx6gWCpQjQRAH03RdFplIg/reviews/ChdDSUhNMG9nS0VJQ0FnSURXbmRYZXB3RRAB",
+      "relativePublishTimeDescription": "4 年前",
+      "rating": 5,
+      "text": {
+        "text": "一直是麥當勞的門面擔當\n本店有新的點餐系統，自己跟銀幕點，決定如何付款，用習慣後滿好用的",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一直是麥當勞的門面擔當\n本店有新的點餐系統，自己跟銀幕點，決定如何付款，用習慣後滿好用的",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "金宏明（金老爹）",
+        "uri": "https://www.google.com/maps/contrib/103625261651602594819/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVST4R22gPgQlZQAau8uSZhjnd73oJyRB4BGZR97p72X98bXJY7=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2022-04-01T09:01:41.228360Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURXbmRYZXB3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURXbmRYZXB3RRAB!2m1!1s0x3442a960817a4c81:0x889469d145377d00"
+    }
+  ],
+  "goodForChildren": true
+}

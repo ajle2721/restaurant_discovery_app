@@ -1,0 +1,133 @@
+{
+  "id": "ChIJbe2hrQyvQjQRRntz_54mX3U",
+  "types": [
+    "cafe",
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2891 8883",
+  "formattedAddress": "112台灣臺北市北投區一德里中央北路四段515巷3弄1號1樓",
+  "location": {
+    "latitude": 25.1278927,
+    "longitude": 121.46866800000001
+  },
+  "rating": 4.2,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1201,
+  "displayName": {
+    "text": "Bonita廚房",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJbe2hrQyvQjQRRntz_54mX3U/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOdWVHcHhOR2RUZFdRM1RWUnNVbmhXZWpWTmVGRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "炸雞拼盤真的很爽但也真的不該吃那麼多；\n現在內用可以掃QRcode點餐有比以前方便了\n可惜的是壽星優惠越來越縮水，價格也越來越高\n平日午間建議先致電訂位",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "炸雞拼盤真的很爽但也真的不該吃那麼多；\n現在內用可以掃QRcode點餐有比以前方便了\n可惜的是壽星優惠越來越縮水，價格也越來越高\n平日午間建議先致電訂位",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Andy",
+        "uri": "https://www.google.com/maps/contrib/106059469184316849189/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXQ2G-nIZH2X6ndBgjZtc9gbabQmw7pGIc-BfK1iTgmyfuRdIY=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-05T13:59:46.410201916Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOdWVHcHhOR2RUZFdRM1RWUnNVbmhXZWpWTmVGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOdWVHcHhOR2RUZFdRM1RWUnNVbmhXZWpWTmVGRRAB!2m1!1s0x3442af0cada1ed6d:0x755f269eff737b46"
+    },
+    {
+      "name": "places/ChIJbe2hrQyvQjQRRntz_54mX3U/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkWFdYQjRWWEExVkZwNmFWWmlOek56VkVoS1YxRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "是一個較為台式但什麼都有的早午餐店\n關渡捷運站靠中央北路這邊能吃的選擇不多\n所以生意不差，週末時段建議訂位\n店內餐具飲料採自助模式，至少點餐有紅奶茶喝\n點餐採加Line進入，綁line pay，不然只能付現\n建議麵類跟飯類都需要加量（免費）\n如果食量大的人不夠吃\n基本點餐模式就是主菜搭配各種口味跟麵或飯\n可加點麵包濃湯，口味部分咖哩屬帶辣味，配菜十分混搭，義大利麵需要在調整濃郁口感，因為麵的水分過多，在萬物皆漲的狀況下，這個價位跟口味可以接受。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "是一個較為台式但什麼都有的早午餐店\n關渡捷運站靠中央北路這邊能吃的選擇不多\n所以生意不差，週末時段建議訂位\n店內餐具飲料採自助模式，至少點餐有紅奶茶喝\n點餐採加Line進入，綁line pay，不然只能付現\n建議麵類跟飯類都需要加量（免費）\n如果食量大的人不夠吃\n基本點餐模式就是主菜搭配各種口味跟麵或飯\n可加點麵包濃湯，口味部分咖哩屬帶辣味，配菜十分混搭，義大利麵需要在調整濃郁口感，因為麵的水分過多，在萬物皆漲的狀況下，這個價位跟口味可以接受。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "法蘭克斯基",
+        "uri": "https://www.google.com/maps/contrib/107315490070434278267/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJlENI_jLklI64CMgUNRQjsYtSuaDNO6gUeG9jOJn4KsrQi2g=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-11T03:55:55.050087224Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkWFdYQjRWWEExVkZwNmFWWmlOek56VkVoS1YxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkWFdYQjRWWEExVkZwNmFWWmlOek56VkVoS1YxRRAB!2m1!1s0x3442af0cada1ed6d:0x755f269eff737b46"
+    },
+    {
+      "name": "places/ChIJbe2hrQyvQjQRRntz_54mX3U/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0emRVMUJVVWR5YldWRFZtMUhSR1JMUmtFelYwRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "令人無可抗拒，不由自主地說出“下回有機會想再來點其他的套餐“的一家店。\n誤打誤撞來到關渡，心想先找家店坐下來安撫空空的胃，隨意網路搜尋，車子繞了兩圈都錯過目的地，只好先把車停在中央北路的停車場，再步行進入小巷弄。請注意喔！它的位子在面對地下道口的左手邊小路，請勿走入進地下道去。\n令人驚訝的餐點在於價位合理，食材新鮮，擺盤漂亮，套餐營養均衡....對我而言，很對味。\n飲料除了紅茶.奶茶.綠茶.冷開水.這四項直接到飲料區自取不加價外，其他的如咖啡和現打果汁需另外選購。\n蒜味烤土司味道很香，鮭魚肉也給得很大片，歐姆蛋煎的剛剛好熟度，酪梨牛奶濃度比例恰到好處。\n看到隔壁桌點的套餐菜色，忍不住心想下回還要再來點隔壁桌的雞腿排套餐。\n這是一家讓顧客感覺得出來老闆很用心在經營的餐廳。如果想坐沙發區，可以事前訂位。\n中央北路有數個停車場，請勿擔心停車問題。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "令人無可抗拒，不由自主地說出“下回有機會想再來點其他的套餐“的一家店。\n誤打誤撞來到關渡，心想先找家店坐下來安撫空空的胃，隨意網路搜尋，車子繞了兩圈都錯過目的地，只好先把車停在中央北路的停車場，再步行進入小巷弄。請注意喔！它的位子在面對地下道口的左手邊小路，請勿走入進地下道去。\n令人驚訝的餐點在於價位合理，食材新鮮，擺盤漂亮，套餐營養均衡....對我而言，很對味。\n飲料除了紅茶.奶茶.綠茶.冷開水.這四項直接到飲料區自取不加價外，其他的如咖啡和現打果汁需另外選購。\n蒜味烤土司味道很香，鮭魚肉也給得很大片，歐姆蛋煎的剛剛好熟度，酪梨牛奶濃度比例恰到好處。\n看到隔壁桌點的套餐菜色，忍不住心想下回還要再來點隔壁桌的雞腿排套餐。\n這是一家讓顧客感覺得出來老闆很用心在經營的餐廳。如果想坐沙發區，可以事前訂位。\n中央北路有數個停車場，請勿擔心停車問題。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張齡方",
+        "uri": "https://www.google.com/maps/contrib/100041806720468198396/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW2z8u-slS3epAr8XZsoMIENXrh7WvXp2bPIkz7BWuO8m7sCJF3nw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-26T16:23:23.629816783Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0emRVMUJVVWR5YldWRFZtMUhSR1JMUmtFelYwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0emRVMUJVVWR5YldWRFZtMUhSR1JMUmtFelYwRRAB!2m1!1s0x3442af0cada1ed6d:0x755f269eff737b46"
+    },
+    {
+      "name": "places/ChIJbe2hrQyvQjQRRntz_54mX3U/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pScVFXbGtjMWQzUTNKRFJsWnpWRWxaVkVSdE1HYxAB",
+      "relativePublishTimeDescription": "2 週前",
+      "rating": 5,
+      "text": {
+        "text": "熱奶茶可以續杯！對於喜歡喝熱飲的女生非常貼心❤️推薦推薦👍\n餐點真的都可以吃到很飽！下次還會來😚",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "熱奶茶可以續杯！對於喜歡喝熱飲的女生非常貼心❤️推薦推薦👍\n餐點真的都可以吃到很飽！下次還會來😚",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "汪瓷窯",
+        "uri": "https://www.google.com/maps/contrib/116855823952066682653/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXl04v6gCa6iOUk-zhzsrDoABEkDpGxC0rMWJwxmwYIiic3FpUltQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-05-24T04:12:25.266692680Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pScVFXbGtjMWQzUTNKRFJsWnpWRWxaVkVSdE1HYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pScVFXbGtjMWQzUTNKRFJsWnpWRWxaVkVSdE1HYxAB!2m1!1s0x3442af0cada1ed6d:0x755f269eff737b46"
+    },
+    {
+      "name": "places/ChIJbe2hrQyvQjQRRntz_54mX3U/reviews/Ci9DQUlRQUNvZENodHljRjlvT2treFFYcHNVR1Z1YkVseGFuUk1PRXd4Y21SeWVGRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "餐點🌟，餐廳環境很好🌟，上餐速度快🌟，附自助無糖紅、綠茶&有糖奶茶很讚🌟，兩人來只能坐兩人桌，需訂位才能坐四人桌\n共四顆星\n\n—————\n餐點部分\n1.太子拼盤（配餐”奶油”法國麵包&沙拉） $240 （🌕🌕🌕🌕🌑）\n蘑菇起司蛋捲很好吃🌕🌕🌕\n奶油法國麵包有含蜂蜜微甜好吃🌕\n\n2.花生醬牛肉堡（附餐薯條） $280 （🌕🌕🌑🌑🌑）\n身為普遍大口男性，咬了三口還咬不到肉排有點失望\n但更失望的是在咬的過程中看花生醬一直從後方流出，這是點花生醬牛肉堡的人最難過的事情，希望對於餐點的組合可以再調整一些\n肉排紮實肉汁少，味道不錯🌕但有點可惜，漢堡外皮挺好吃的🌕\n配餐薯條炸過頭，油膩感很重，外表可看出顏色偏深及油光，”極不推”配餐薯條\n\n+30的濃湯不錯喝",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點🌟，餐廳環境很好🌟，上餐速度快🌟，附自助無糖紅、綠茶&有糖奶茶很讚🌟，兩人來只能坐兩人桌，需訂位才能坐四人桌\n共四顆星\n\n—————\n餐點部分\n1.太子拼盤（配餐”奶油”法國麵包&沙拉） $240 （🌕🌕🌕🌕🌑）\n蘑菇起司蛋捲很好吃🌕🌕🌕\n奶油法國麵包有含蜂蜜微甜好吃🌕\n\n2.花生醬牛肉堡（附餐薯條） $280 （🌕🌕🌑🌑🌑）\n身為普遍大口男性，咬了三口還咬不到肉排有點失望\n但更失望的是在咬的過程中看花生醬一直從後方流出，這是點花生醬牛肉堡的人最難過的事情，希望對於餐點的組合可以再調整一些\n肉排紮實肉汁少，味道不錯🌕但有點可惜，漢堡外皮挺好吃的🌕\n配餐薯條炸過頭，油膩感很重，外表可看出顏色偏深及油光，”極不推”配餐薯條\n\n+30的濃湯不錯喝",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "管管",
+        "uri": "https://www.google.com/maps/contrib/111625254175893054230/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVr3x8fg3DaP3d-1YGlrVQ7mIxJC7C4OwMRbnE7vOs3jTDLWUzh=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-09-13T04:41:15.674530343Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2treFFYcHNVR1Z1YkVseGFuUk1PRXd4Y21SeWVGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2treFFYcHNVR1Z1YkVseGFuUk1PRXd4Y21SeWVGRRAB!2m1!1s0x3442af0cada1ed6d:0x755f269eff737b46"
+    }
+  ],
+  "menuForChildren": true,
+  "goodForChildren": true
+}

@@ -1,0 +1,134 @@
+{
+  "id": "ChIJdQ4AO-SrQjQRS8WzfKfL-HE",
+  "types": [
+    "pizza_restaurant",
+    "fast_food_restaurant",
+    "american_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2930 3066",
+  "formattedAddress": "116台灣臺北市文山區興隆路一段70巷11弄9號1 樓",
+  "location": {
+    "latitude": 25.0026544,
+    "longitude": 121.5403871
+  },
+  "rating": 4.9,
+  "websiteUri": "https://www.facebook.com/profile.php?id=100089283192647&mibextid=LQQJ4d",
+  "userRatingCount": 540,
+  "displayName": {
+    "text": "初披薩Truepizza（貓咖披薩店～請注意營業時間）",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJdQ4AO-SrQjQRS8WzfKfL-HE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pVM1R6RjNWVTVCV25acldrNUhiVVZ2VjBoMk5IYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "披薩好吃，現烤香氣十足🍕\n店裡還有三隻親人的貓咪，整個用餐體驗加分很多。\n喜歡貓又愛披薩的人，這家不能錯過！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "披薩好吃，現烤香氣十足🍕\n店裡還有三隻親人的貓咪，整個用餐體驗加分很多。\n喜歡貓又愛披薩的人，這家不能錯過！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Silvia Chen",
+        "uri": "https://www.google.com/maps/contrib/114654373863968999666/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX9qnel65P0qg1l8LktZEKSSqBK_zwXnEO3C7ZStXKhvOgtzEve=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-17T10:30:14.358323218Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pVM1R6RjNWVTVCV25acldrNUhiVVZ2VjBoMk5IYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pVM1R6RjNWVTVCV25acldrNUhiVVZ2VjBoMk5IYxAB!2m1!1s0x3442abe43b000e75:0x71f8cba77cb3c54b"
+    },
+    {
+      "name": "places/ChIJdQ4AO-SrQjQRS8WzfKfL-HE/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sSVVEZFFkR2xWT1VzMldWODBaM290WjNwbmJFRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "這是一家非常優，非常特別的披薩餐廳。店主幹主活，加上小女兒在幫忙送餐。店內有他養的喵在招呼客人。披薩非常好吃，非常地道。我第一次造訪，不幸沒有吃到我最喜歡的芝麻葉，所以一定還要再去。離捷運萬隆站非常近，值得大家去嘗鮮。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這是一家非常優，非常特別的披薩餐廳。店主幹主活，加上小女兒在幫忙送餐。店內有他養的喵在招呼客人。披薩非常好吃，非常地道。我第一次造訪，不幸沒有吃到我最喜歡的芝麻葉，所以一定還要再去。離捷運萬隆站非常近，值得大家去嘗鮮。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yih Hubert",
+        "uri": "https://www.google.com/maps/contrib/106495715350742740430/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWMS8UizOVLXXUIcFt0FHtoJE_KE0xEKobx4wnAnY4BLKaC88dgQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-04T12:01:29.108822341Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sSVVEZFFkR2xWT1VzMldWODBaM290WjNwbmJFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sSVVEZFFkR2xWT1VzMldWODBaM290WjNwbmJFRRAB!2m1!1s0x3442abe43b000e75:0x71f8cba77cb3c54b"
+    },
+    {
+      "name": "places/ChIJdQ4AO-SrQjQRS8WzfKfL-HE/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ab1R6QmhhVzl5UVU1bGRGWlFRazR6VjI1ek5tYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "店裡三隻貓🐈‍⬛一隻睡覺一隻睡倒在客人旁邊一隻活力招呼，環境維持很乾淨\n老闆一人作業，餐點現點現做，披薩吃的到食材原味，這次點了番茄鯷魚，口味清爽、餅皮Q彈，隔壁桌的芝麻葉看起來也好吃😋\n店內位置不多，建議事先訂位或早點入店",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店裡三隻貓🐈‍⬛一隻睡覺一隻睡倒在客人旁邊一隻活力招呼，環境維持很乾淨\n老闆一人作業，餐點現點現做，披薩吃的到食材原味，這次點了番茄鯷魚，口味清爽、餅皮Q彈，隔壁桌的芝麻葉看起來也好吃😋\n店內位置不多，建議事先訂位或早點入店",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "S W",
+        "uri": "https://www.google.com/maps/contrib/113348049180224672408/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLDIYjnIrfaizQ6eNRUXZ5QSS1FvpxPiCAkrSDk3R40ttqQa20=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-25T10:38:03.081563650Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25ab1R6QmhhVzl5UVU1bGRGWlFRazR6VjI1ek5tYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ab1R6QmhhVzl5UVU1bGRGWlFRazR6VjI1ek5tYxAB!2m1!1s0x3442abe43b000e75:0x71f8cba77cb3c54b"
+    },
+    {
+      "name": "places/ChIJdQ4AO-SrQjQRS8WzfKfL-HE/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSUGJEQlpTWHByU25OVVdUQjZPRFZ2TlhaeVpuYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "剛好在附近公園遊玩，就繞過來吃，一開始是被店裡的貓吸引🤩，家人都很喜歡貓🐱，店裡的氛圍不錯，適合帶小孩來，除了貓以外，還有一些小朋友的玩具可以玩，餐點的部分還不錯，出餐速度蠻快的，推薦親子前來👍👍👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "剛好在附近公園遊玩，就繞過來吃，一開始是被店裡的貓吸引🤩，家人都很喜歡貓🐱，店裡的氛圍不錯，適合帶小孩來，除了貓以外，還有一些小朋友的玩具可以玩，餐點的部分還不錯，出餐速度蠻快的，推薦親子前來👍👍👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Anderson Lo",
+        "uri": "https://www.google.com/maps/contrib/114721472979755537489/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ6KtlmZdOTfa0mXPHwk_TpGWVNU4E9d4j_FfX-5TkfSbGHiw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-18T04:13:20.836783634Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSUGJEQlpTWHByU25OVVdUQjZPRFZ2TlhaeVpuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSUGJEQlpTWHByU25OVVdUQjZPRFZ2TlhaeVpuYxAB!2m1!1s0x3442abe43b000e75:0x71f8cba77cb3c54b"
+    },
+    {
+      "name": "places/ChIJdQ4AO-SrQjQRS8WzfKfL-HE/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aeVMzVTNiVnBOYzA1ellWUjRVMHBTTVY5cVdFRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "重要的事先說：有漂亮的貓貓🐈‍⬛✨\n\n炸雞很好吃，肉很嫩、味道也好。\n披薩的餅皮很Q～\n\n因為我不小心把辣椒灑得整張披薩都是（罐子上有洞，但可能蓋子沒關緊掉下來就發生悲劇了₍ᐢ ›̥̥̥ ༝ ‹̥̥̥ ᐢ₎），所以沒有辦法好好品嚐披薩的口味，老闆還很好心地提議要再做一份給我們（失手浪費辣椒粉已經很不好意思了所以我們沒有接受），但很感謝老闆的好意:)\n\n店不大但是桌子之間有適當的距離，感覺很適合小群朋友聚會或情侶用餐。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "重要的事先說：有漂亮的貓貓🐈‍⬛✨\n\n炸雞很好吃，肉很嫩、味道也好。\n披薩的餅皮很Q～\n\n因為我不小心把辣椒灑得整張披薩都是（罐子上有洞，但可能蓋子沒關緊掉下來就發生悲劇了₍ᐢ ›̥̥̥ ༝ ‹̥̥̥ ᐢ₎），所以沒有辦法好好品嚐披薩的口味，老闆還很好心地提議要再做一份給我們（失手浪費辣椒粉已經很不好意思了所以我們沒有接受），但很感謝老闆的好意:)\n\n店不大但是桌子之間有適當的距離，感覺很適合小群朋友聚會或情侶用餐。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "April",
+        "uri": "https://www.google.com/maps/contrib/109831921077410199188/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV30ocJGr5q2UTYKwDEsTqWvsGGDZmW-npnT1iSksaJrkHYHsS-Ig=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-08-22T12:24:44.286209652Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aeVMzVTNiVnBOYzA1ellWUjRVMHBTTVY5cVdFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aeVMzVTNiVnBOYzA1ellWUjRVMHBTTVY5cVdFRRAB!2m1!1s0x3442abe43b000e75:0x71f8cba77cb3c54b"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

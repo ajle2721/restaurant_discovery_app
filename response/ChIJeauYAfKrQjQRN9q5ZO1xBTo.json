@@ -1,0 +1,131 @@
+{
+  "id": "ChIJeauYAfKrQjQRN9q5ZO1xBTo",
+  "types": [
+    "american_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2325 2074",
+  "formattedAddress": "106台灣臺北市大安區住安里四維路154巷1號",
+  "location": {
+    "latitude": 25.031079,
+    "longitude": 121.54778749999998
+  },
+  "rating": 4.6,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 377,
+  "displayName": {
+    "text": "饗樂餐廳 Feast &Fun",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJeauYAfKrQjQRN9q5ZO1xBTo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5R1RrbFNTbU5XWTNoaVMzcHFNMjk0WmpoeE1XYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "點的是早午餐，班尼迪克蛋的醬比較平淡，鮮奶茶也沒有什麼特別，覺得沙拉的量可以再多一點。非常認真殷勤的服務，可以感覺到店家很注意衛生、很愛乾淨。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點的是早午餐，班尼迪克蛋的醬比較平淡，鮮奶茶也沒有什麼特別，覺得沙拉的量可以再多一點。非常認真殷勤的服務，可以感覺到店家很注意衛生、很愛乾淨。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "N Naive",
+        "uri": "https://www.google.com/maps/contrib/100861623812317863595/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWW9wFalJPtpwUI9wSH65uiEbZnUaMN-AN003DELQAdihD8Ezp-=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-13T06:03:32.084471336Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5R1RrbFNTbU5XWTNoaVMzcHFNMjk0WmpoeE1XYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5R1RrbFNTbU5XWTNoaVMzcHFNMjk0WmpoeE1XYxAB!2m1!1s0x3442abf20198ab79:0x3a0571ed64b9da37"
+    },
+    {
+      "name": "places/ChIJeauYAfKrQjQRN9q5ZO1xBTo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ScWVIazNaVWRYZVVFeGNXVnplSFJzYzNCeE1IYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 1,
+      "text": {
+        "text": "店裡有一條規定寫在「紙本菜單」裡面，純用app點餐不會看到，規定「弄的太髒要付清節費300元」。\n今天帶一歲多寶寶來用餐，看到是寵物友善餐廳，也有嬰兒座椅，評價說店員親切，覺得帶寶寶來應該沒問題，沒想到結帳的時候才突然跟我說這個規定，我已經一手抱著寶寶準備要踏出去，只好又回去收。\n我的寶寶還在建立用餐習慣，在練習拿餐具，常常用手吃食物也一直掉地上，剛開始我一個一個撿，到後來就是不想再製造麻煩才趕快吃吃趕快走，我也想說紙巾和濕紙巾清潔沒什麼效率，擦完地板的垃圾好像放桌上也不對。\n我剛剛研究了一下好像大部分父母都會收乾淨地面再走，作為小朋友教養的一部分，很多當過服務人員的人也說很討厭不清的客人，踩的到處都是很髒，所以可能我的比較標準不對，之前都在連鎖大餐廳，沒有帶小孩來過這種小店，看來應該是我要整理乾淨。\n我也希望店家在一開始就跟我說明這個規定，用餐期間也可以多提醒，如果你們認為這不包含在服務費的項目裡，如果可以更友善的提供一些清潔工具會更好。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店裡有一條規定寫在「紙本菜單」裡面，純用app點餐不會看到，規定「弄的太髒要付清節費300元」。\n今天帶一歲多寶寶來用餐，看到是寵物友善餐廳，也有嬰兒座椅，評價說店員親切，覺得帶寶寶來應該沒問題，沒想到結帳的時候才突然跟我說這個規定，我已經一手抱著寶寶準備要踏出去，只好又回去收。\n我的寶寶還在建立用餐習慣，在練習拿餐具，常常用手吃食物也一直掉地上，剛開始我一個一個撿，到後來就是不想再製造麻煩才趕快吃吃趕快走，我也想說紙巾和濕紙巾清潔沒什麼效率，擦完地板的垃圾好像放桌上也不對。\n我剛剛研究了一下好像大部分父母都會收乾淨地面再走，作為小朋友教養的一部分，很多當過服務人員的人也說很討厭不清的客人，踩的到處都是很髒，所以可能我的比較標準不對，之前都在連鎖大餐廳，沒有帶小孩來過這種小店，看來應該是我要整理乾淨。\n我也希望店家在一開始就跟我說明這個規定，用餐期間也可以多提醒，如果你們認為這不包含在服務費的項目裡，如果可以更友善的提供一些清潔工具會更好。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chi L",
+        "uri": "https://www.google.com/maps/contrib/117938123821457499070/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVG8WuLGWHITZZ5Ns3N6sQDuaUowsRPDQnb_eIQtgKYFKYZHuDC=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-03T20:56:06.138695832Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ScWVIazNaVWRYZVVFeGNXVnplSFJzYzNCeE1IYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ScWVIazNaVWRYZVVFeGNXVnplSFJzYzNCeE1IYxAB!2m1!1s0x3442abf20198ab79:0x3a0571ed64b9da37"
+    },
+    {
+      "name": "places/ChIJeauYAfKrQjQRN9q5ZO1xBTo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKbFExTldPV3ByYVZCSmNGUlFhamxNY1hWclMxRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "點了早午餐\n內容物 還行 瑪芬麵包 、薯條不好吃（吃得出來是食品廠直接批貨的）\n\n餐後甜點 100元 吃了個空虛寂寞 成本很低的東西 …\n美式咖啡的咖啡用的也是商用等級 （大概就 … 吃到飽自動咖啡機的那種咖啡豆）\n\n食材成本壓得蠻低的，應該是租金怪獸吧！\n自己記得 不是自己喜歡的口味～下次會略過！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點了早午餐\n內容物 還行 瑪芬麵包 、薯條不好吃（吃得出來是食品廠直接批貨的）\n\n餐後甜點 100元 吃了個空虛寂寞 成本很低的東西 …\n美式咖啡的咖啡用的也是商用等級 （大概就 … 吃到飽自動咖啡機的那種咖啡豆）\n\n食材成本壓得蠻低的，應該是租金怪獸吧！\n自己記得 不是自己喜歡的口味～下次會略過！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "青蛙呱呱",
+        "uri": "https://www.google.com/maps/contrib/106513543588941429865/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXyF2CSX0gJxVo6DLMa3uzehpOrLV-D622fQ1pK0MbMiwqGzPM=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-09T13:17:25.176967099Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKbFExTldPV3ByYVZCSmNGUlFhamxNY1hWclMxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKbFExTldPV3ByYVZCSmNGUlFhamxNY1hWclMxRRAB!2m1!1s0x3442abf20198ab79:0x3a0571ed64b9da37"
+    },
+    {
+      "name": "places/ChIJeauYAfKrQjQRN9q5ZO1xBTo/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oU1pVcHdjV3BqTTJSNlMwbzBWamhSZEVaNFNIYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "服務非常好\n炸物爽口不油膩\n沙拉醬汁有多種選擇\n用餐環境溫馨不吵雜\n價格適中\n可刷信用卡\n由大安捷運站步行約10分鐘\n尖峰時刻用餐有限制時間\n建議先訂位\n會再訪",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "服務非常好\n炸物爽口不油膩\n沙拉醬汁有多種選擇\n用餐環境溫馨不吵雜\n價格適中\n可刷信用卡\n由大安捷運站步行約10分鐘\n尖峰時刻用餐有限制時間\n建議先訂位\n會再訪",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lin Jes",
+        "uri": "https://www.google.com/maps/contrib/113116514071521210818/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKsnAa4eQJFI0o9GwZjctObwEfaDzCSQN391Q-gSlB7nmjUvmg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-14T18:53:17.368844367Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oU1pVcHdjV3BqTTJSNlMwbzBWamhSZEVaNFNIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oU1pVcHdjV3BqTTJSNlMwbzBWamhSZEVaNFNIYxAB!2m1!1s0x3442abf20198ab79:0x3a0571ed64b9da37"
+    },
+    {
+      "name": "places/ChIJeauYAfKrQjQRN9q5ZO1xBTo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WdVl6SlBia3hKZVhJMmVpMVBWMjl5YmpCdmJVRRAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 4,
+      "text": {
+        "text": "因為要去中華電信參加狗狗電影會活動，在網上找了一家寵物友善餐廳先吃早午餐，這家的菜色口味偏中規中矩普通，白醬義大利麵味道不錯但雞肉有點柴，生菜沙拉也還可以份量不大，拿鐵還不錯喝起來很乾淨，濃湯好喝麵包也好吃，我超欽佩店員小姐的耐心跟服務熱忱，是對這間店超級無敵加分，不然我應該只會給2顆星，她會主動幫客人整理外食的垃圾，桌上的當然更是呵護至極，對客人的小孩跟寵物都很友善很有愛，唯一美中不足的是餐廳燈光可能溫度很高，冷氣一直沒有很冷，我變吃變喊熱，希望下次可以調整一下燈光不要直射座位其實吃飯不用那麼亮，空調可以修正一下。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "因為要去中華電信參加狗狗電影會活動，在網上找了一家寵物友善餐廳先吃早午餐，這家的菜色口味偏中規中矩普通，白醬義大利麵味道不錯但雞肉有點柴，生菜沙拉也還可以份量不大，拿鐵還不錯喝起來很乾淨，濃湯好喝麵包也好吃，我超欽佩店員小姐的耐心跟服務熱忱，是對這間店超級無敵加分，不然我應該只會給2顆星，她會主動幫客人整理外食的垃圾，桌上的當然更是呵護至極，對客人的小孩跟寵物都很友善很有愛，唯一美中不足的是餐廳燈光可能溫度很高，冷氣一直沒有很冷，我變吃變喊熱，希望下次可以調整一下燈光不要直射座位其實吃飯不用那麼亮，空調可以修正一下。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Eleen Len",
+        "uri": "https://www.google.com/maps/contrib/109391912796517671948/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJEINvZoGlEDu5fsZ01SpYBzkDZAYYkfRiKobWqZxwmyWuU1w=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-07-22T07:17:02.028052672Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WdVl6SlBia3hKZVhJMmVpMVBWMjl5YmpCdmJVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WdVl6SlBia3hKZVhJMmVpMVBWMjl5YmpCdmJVRRAB!2m1!1s0x3442abf20198ab79:0x3a0571ed64b9da37"
+    }
+  ],
+  "goodForChildren": true
+}

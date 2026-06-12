@@ -1,0 +1,131 @@
+{
+  "id": "ChIJr3PdVCupQjQR7m9_pCmXPpM",
+  "types": [
+    "family_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 967 103 616",
+  "formattedAddress": "111台灣臺北市士林區仁勇里文林路110巷9號",
+  "location": {
+    "latitude": 25.0879177,
+    "longitude": 121.52661189999999
+  },
+  "rating": 4.7,
+  "userRatingCount": 88,
+  "displayName": {
+    "text": "銘傳越南美食",
+    "languageCode": "zh"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJr3PdVCupQjQR7m9_pCmXPpM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KM1EwSkZOVXhzTjFWSkxXeFZjRUpVYlVoa2VrRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "臨時經過這間在銘傳大學附近的巷子內的越南美食，排骨飯比越南當地多數的排骨飯都好吃，飯Q、排骨醃入味又不柴，淋上附的醬又是另一種口感，老闆娘也很友善的推薦怎麼吃會更符合當地吃法及美味，很棒的越南料理。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "臨時經過這間在銘傳大學附近的巷子內的越南美食，排骨飯比越南當地多數的排骨飯都好吃，飯Q、排骨醃入味又不柴，淋上附的醬又是另一種口感，老闆娘也很友善的推薦怎麼吃會更符合當地吃法及美味，很棒的越南料理。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "孔, 芳Erica",
+        "uri": "https://www.google.com/maps/contrib/107251351928753941342/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJGdd25brQs32p1tRV1E18SHvT0G_cED2orhLB6BZF0zJ83Jxw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-10-20T06:50:55.047962515Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KM1EwSkZOVXhzTjFWSkxXeFZjRUpVYlVoa2VrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KM1EwSkZOVXhzTjFWSkxXeFZjRUpVYlVoa2VrRRAB!2m1!1s0x3442a92b54dd73af:0x933e9729a47f6fee"
+    },
+    {
+      "name": "places/ChIJr3PdVCupQjQR7m9_pCmXPpM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKTWRuQjFXRWRHTmtKelRtc3ljMng0ZWxCWmFHYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "酸辣海鮮河粉味道很讚\n酸的很剛好\n旁邊附的自製辣椒香香好吃\n春捲份量大又好吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "酸辣海鮮河粉味道很讚\n酸的很剛好\n旁邊附的自製辣椒香香好吃\n春捲份量大又好吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "楊咩咩",
+        "uri": "https://www.google.com/maps/contrib/102219342968063515624/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXH-2TeLxF0658g1g-2yh57YzOop4CkFsG2zQx1a_9B5gDVAle5=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-15T08:29:24.781410773Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKTWRuQjFXRWRHTmtKelRtc3ljMng0ZWxCWmFHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKTWRuQjFXRWRHTmtKelRtc3ljMng0ZWxCWmFHYxAB!2m1!1s0x3442a92b54dd73af:0x933e9729a47f6fee"
+    },
+    {
+      "name": "places/ChIJr3PdVCupQjQR7m9_pCmXPpM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KVFRWcFdTVkJyVm5kTVpEVllOVmRDV1VWdVZtYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "有到越南的味道，就來開個胃😍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "有到越南的味道，就來開個胃😍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "謝瑜宸（harris shieh）",
+        "uri": "https://www.google.com/maps/contrib/111545530565110827127/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXFfcb8wiqdzrVyo7pQN5NfaBiPUWlfwKUNpC9lDQ_qEIkTn9e3=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-14T10:35:05.468607353Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KVFRWcFdTVkJyVm5kTVpEVllOVmRDV1VWdVZtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KVFRWcFdTVkJyVm5kTVpEVllOVmRDV1VWdVZtYxAB!2m1!1s0x3442a92b54dd73af:0x933e9729a47f6fee"
+    },
+    {
+      "name": "places/ChIJr3PdVCupQjQR7m9_pCmXPpM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNoN0xXTm9nRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "湯頭好喝, 原味酸辣都推薦, 河粉彈具口感, 份量也夠, 市場內所以內用位置少, 可先電話訂外帶, 越式麵包口感不錯,內餡多, 老闆娘親切,也想盡量維持越式口味, 稍有別於台化的越式法國麵包。之前夏天常常吃鮮蝦春卷跟涼麵! 雙醬涼麵很推。新菜色, 炸粽子跟春卷也好吃!",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "湯頭好喝, 原味酸辣都推薦, 河粉彈具口感, 份量也夠, 市場內所以內用位置少, 可先電話訂外帶, 越式麵包口感不錯,內餡多, 老闆娘親切,也想盡量維持越式口味, 稍有別於台化的越式法國麵包。之前夏天常常吃鮮蝦春卷跟涼麵! 雙醬涼麵很推。新菜色, 炸粽子跟春卷也好吃!",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "huangbin chen",
+        "uri": "https://www.google.com/maps/contrib/101337218247471605843/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIrmLqu0eSa0Ow6eogV6qNurcCCcNlHEdEi1RamsBh34BgdyQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2024-10-20T12:57:42.370427Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNoN0xXTm9nRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNoN0xXTm9nRRAB!2m1!1s0x3442a92b54dd73af:0x933e9729a47f6fee"
+    },
+    {
+      "name": "places/ChIJr3PdVCupQjQR7m9_pCmXPpM/reviews/ChZDSUhNMG9nS0VJQ0FnSURwdDlqakx3EAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "市場裡面的越式美食，老闆娘從越南嫁來台灣工作，人非常親切用心，第一次吃是在晚上，原本點小份的涼麵居然還幫我免費加大🤣\n\n會來光顧看起來都是熟客，不過因為只有老闆娘一個人，偶爾會需要等比較久，若趕時間會建議點涼麵！特別推薦泰式涼麵，泰式醬酸甜清爽，只有一點點辣吃起來非常順口，很適合夏天。\n\n紅燒牛肉湯湯頭原汁原味，用心熬煮，裡面有牛肉洋蔥番茄等等，料多到滿出來，可以點法國麵包沾著吃，不過還是比較喜歡口味重一點的湯\n\n非常推薦👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "市場裡面的越式美食，老闆娘從越南嫁來台灣工作，人非常親切用心，第一次吃是在晚上，原本點小份的涼麵居然還幫我免費加大🤣\n\n會來光顧看起來都是熟客，不過因為只有老闆娘一個人，偶爾會需要等比較久，若趕時間會建議點涼麵！特別推薦泰式涼麵，泰式醬酸甜清爽，只有一點點辣吃起來非常順口，很適合夏天。\n\n紅燒牛肉湯湯頭原汁原味，用心熬煮，裡面有牛肉洋蔥番茄等等，料多到滿出來，可以點法國麵包沾著吃，不過還是比較喜歡口味重一點的湯\n\n非常推薦👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Madi Huang",
+        "uri": "https://www.google.com/maps/contrib/105396096723527338303/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUqtlm1I3_AEUoDf-AVje7crG1OJcLewhgDl2ztdhW3qO4IYP9l=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2023-08-31T04:22:12.359489Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURwdDlqakx3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURwdDlqakx3EAE!2m1!1s0x3442a92b54dd73af:0x933e9729a47f6fee"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

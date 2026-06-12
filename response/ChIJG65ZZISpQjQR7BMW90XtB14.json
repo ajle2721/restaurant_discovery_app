@@ -1,0 +1,133 @@
+{
+  "id": "ChIJG65ZZISpQjQR7BMW90XtB14",
+  "types": [
+    "american_restaurant",
+    "brunch_restaurant",
+    "italian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2391 8827",
+  "formattedAddress": "106台灣臺北市大安區錦安里潮州街133號",
+  "location": {
+    "latitude": 25.0285577,
+    "longitude": 121.5289153
+  },
+  "rating": 4.3,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1184,
+  "displayName": {
+    "text": "Bea's Bistro 美式餐館",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJG65ZZISpQjQR7BMW90XtB14/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taV2N6UkpiVEZYT1cxZmEwdDRZblZFUldSRVpIYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "Bea’s Bistro美式餐館位於台北市大安區潮州街133號，店內從早午餐、熱壓吐司、輕食沙拉、炸物開胃菜、義大利麵、燉飯到漢堡、墨西哥捲餅選項豐富。菜單價格屬於中高價位，可使用優惠券更划算🤨\n上週與同事中午聚餐，選在這家從未造訪過的店。店內佈置簡約舒適，明亮的落地窗搭配盆栽、木質家具，營造美式鄉村風格。因為用餐人潮不少，我們事前點好自己的主餐並加價升級為套餐😌套餐附有湯品、冰紅茶及當日蛋糕。我點的是「紅醬海鮮番茄義大利燉飯」，米粒濕潤、番茄紅醬濃而不膩、海鮮份量也豐富，而當日蛋糕為巧克力布朗尼，扎實的口感令我印象深刻🙂唯一感可惜的是上菜速度略慢、結帳時被插隊的小插曲也讓整體用餐體驗打了折扣，但整體餐點與氛圍還是值得再次造訪。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "Bea’s Bistro美式餐館位於台北市大安區潮州街133號，店內從早午餐、熱壓吐司、輕食沙拉、炸物開胃菜、義大利麵、燉飯到漢堡、墨西哥捲餅選項豐富。菜單價格屬於中高價位，可使用優惠券更划算🤨\n上週與同事中午聚餐，選在這家從未造訪過的店。店內佈置簡約舒適，明亮的落地窗搭配盆栽、木質家具，營造美式鄉村風格。因為用餐人潮不少，我們事前點好自己的主餐並加價升級為套餐😌套餐附有湯品、冰紅茶及當日蛋糕。我點的是「紅醬海鮮番茄義大利燉飯」，米粒濕潤、番茄紅醬濃而不膩、海鮮份量也豐富，而當日蛋糕為巧克力布朗尼，扎實的口感令我印象深刻🙂唯一感可惜的是上菜速度略慢、結帳時被插隊的小插曲也讓整體用餐體驗打了折扣，但整體餐點與氛圍還是值得再次造訪。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "CHANG WEI",
+        "uri": "https://www.google.com/maps/contrib/111524615923872800210/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV2sb1tfpcqvycliqbz4GUrI9tTcAlEYBP_dvJ81AHw516iimyZbQ=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-10-18T10:04:47.952490596Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taV2N6UkpiVEZYT1cxZmEwdDRZblZFUldSRVpIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taV2N6UkpiVEZYT1cxZmEwdDRZblZFUldSRVpIYxAB!2m1!1s0x3442a9846459ae1b:0x5e07ed45f71613ec"
+    },
+    {
+      "name": "places/ChIJG65ZZISpQjQR7BMW90XtB14/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxRWNsODBWemRJUlVWcGNVVnpNVUZoVUVJMVRXYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "濃湯蠻好喝的，麵價格也正常而且煙燻鮭魚很好吃，醬蠻濃的，套餐才加99真的蠻便宜，有服務費",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "濃湯蠻好喝的，麵價格也正常而且煙燻鮭魚很好吃，醬蠻濃的，套餐才加99真的蠻便宜，有服務費",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "洪聖凱",
+        "uri": "https://www.google.com/maps/contrib/104387681341080340091/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI4HHOSas5lXjXrqaTHeNSPPdgcQjOEH_ppBOV6p0S6rUIpUw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-01T09:42:59.757653246Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxRWNsODBWemRJUlVWcGNVVnpNVUZoVUVJMVRXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxRWNsODBWemRJUlVWcGNVVnpNVUZoVUVJMVRXYxAB!2m1!1s0x3442a9846459ae1b:0x5e07ed45f71613ec"
+    },
+    {
+      "name": "places/ChIJG65ZZISpQjQR7BMW90XtB14/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCTWNUTnRla2MyVWxCdE9EaDBhbTk0VGxJMWVrRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "2025/12/23中午內用\n青醬雞肉蘑菇義大利麵，加99元套餐。\n義大利麵中規中矩，濃湯蠻好喝的，甜點我本來就沒有特別喜歡巧克力，但好像也沒有別的選項就是了。\n紅茶超級甜，平常喝微糖以下飲料的人可能會覺得眼睛要瞎掉的程度，所以最後沒喝完🤣\n可街口、linepay、台灣pay等各式線上支付。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2025/12/23中午內用\n青醬雞肉蘑菇義大利麵，加99元套餐。\n義大利麵中規中矩，濃湯蠻好喝的，甜點我本來就沒有特別喜歡巧克力，但好像也沒有別的選項就是了。\n紅茶超級甜，平常喝微糖以下飲料的人可能會覺得眼睛要瞎掉的程度，所以最後沒喝完🤣\n可街口、linepay、台灣pay等各式線上支付。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hsinj H",
+        "uri": "https://www.google.com/maps/contrib/111917987214465807983/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKy58FwV286damtskLKqGeUGdcGE2ZzPEJDkYQDWYgBcDQ2ug=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-25T14:44:11.448436379Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCTWNUTnRla2MyVWxCdE9EaDBhbTk0VGxJMWVrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCTWNUTnRla2MyVWxCdE9EaDBhbTk0VGxJMWVrRRAB!2m1!1s0x3442a9846459ae1b:0x5e07ed45f71613ec"
+    },
+    {
+      "name": "places/ChIJG65ZZISpQjQR7BMW90XtB14/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKQk1EVm1TaTF0ZW0xV1FXZDRWV05CWVZaMmRrRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 3,
+      "text": {
+        "text": "用餐環境不佳，櫃檯非常擁擠，用餐完畢餐具收回直接在外場就洗聲音很大，無法安靜的享用餐點，附餐的咖啡很苦，果汁還可以，餐點都還好，之所以評價3.5顆🌟是因爲太吵，隨時都可以聽到碗盤的碰撞聲音，難喝的咖啡又再扣半顆🌟",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "用餐環境不佳，櫃檯非常擁擠，用餐完畢餐具收回直接在外場就洗聲音很大，無法安靜的享用餐點，附餐的咖啡很苦，果汁還可以，餐點都還好，之所以評價3.5顆🌟是因爲太吵，隨時都可以聽到碗盤的碰撞聲音，難喝的咖啡又再扣半顆🌟",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Kelly Chu",
+        "uri": "https://www.google.com/maps/contrib/112942356445924570031/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUM_vTfdG3ueto7bqfeDBDqxEtQJpKS9VgLTD0f_9Dod0luMDhB=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-29T10:09:02.160535476Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKQk1EVm1TaTF0ZW0xV1FXZDRWV05CWVZaMmRrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKQk1EVm1TaTF0ZW0xV1FXZDRWV05CWVZaMmRrRRAB!2m1!1s0x3442a9846459ae1b:0x5e07ed45f71613ec"
+    },
+    {
+      "name": "places/ChIJG65ZZISpQjQR7BMW90XtB14/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOcVptdG1UMGxhWjBWV1gyUkZNbWhFTFdOeVpuYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 1,
+      "text": {
+        "text": "提醒：請小心自己所點餐點有被隨意上菜可能\n\n中午點了蘑菇菠菜班奈狄克，結果上來原味班奈狄克，餐點一上桌才剛開口反應，點餐的小姐口氣兇惡的表示她剛才沒點錯，但我們點餐時確定有明白覆述我們的餐點。但點餐小姐沒有要調整意思。\n隔了15分鐘，隔壁桌也被隨意硬上了錯誤的鮭魚班奶狄克蛋。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "提醒：請小心自己所點餐點有被隨意上菜可能\n\n中午點了蘑菇菠菜班奈狄克，結果上來原味班奈狄克，餐點一上桌才剛開口反應，點餐的小姐口氣兇惡的表示她剛才沒點錯，但我們點餐時確定有明白覆述我們的餐點。但點餐小姐沒有要調整意思。\n隔了15分鐘，隔壁桌也被隨意硬上了錯誤的鮭魚班奶狄克蛋。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chen",
+        "uri": "https://www.google.com/maps/contrib/105546870294925239224/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV8J-Hcle4eJHxl_cPWRWgAiw6xynHUhn10Im7sI692KWS4dwZv=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-09T10:49:42.098381504Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOcVptdG1UMGxhWjBWV1gyUkZNbWhFTFdOeVpuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOcVptdG1UMGxhWjBWV1gyUkZNbWhFTFdOeVpuYxAB!2m1!1s0x3442a9846459ae1b:0x5e07ed45f71613ec"
+    }
+  ],
+  "goodForChildren": true
+}

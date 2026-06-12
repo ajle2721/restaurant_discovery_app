@@ -1,0 +1,130 @@
+{
+  "id": "ChIJv26AB6isQjQRFYRlw7bXGrU",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 7709 4320",
+  "formattedAddress": "115台灣臺北市南港區三重里經貿二路1號",
+  "location": {
+    "latitude": 25.0564452,
+    "longitude": 121.6179513
+  },
+  "rating": 4.2,
+  "websiteUri": "http://www.realforreal.com.tw/",
+  "userRatingCount": 257,
+  "displayName": {
+    "text": "REAL真烘焙坊(南港展覽館1店)",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJv26AB6isQjQRFYRlw7bXGrU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxcU1FMVhhV2Q1Y0RWS2NYRnZOR1JoYVZsYWVsRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 3,
+      "text": {
+        "text": "參展來吃的，東西貴貴的，內用還有低消限制。座位不多、而且跟隔壁距離有點近，採自助式取餐與自行處理餐盤。 健康餐的醬還有蛋白質給的很充足，價格偏貴。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "參展來吃的，東西貴貴的，內用還有低消限制。座位不多、而且跟隔壁距離有點近，採自助式取餐與自行處理餐盤。 健康餐的醬還有蛋白質給的很充足，價格偏貴。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jessica Ca",
+        "uri": "https://www.google.com/maps/contrib/115051481306891999799/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVvh9yAUDLKRT9sRrnjocQ6yaME-PbOd0_CfDxdUAJjn5RvfS2X=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-09T12:32:28.743643991Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxcU1FMVhhV2Q1Y0RWS2NYRnZOR1JoYVZsYWVsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxcU1FMVhhV2Q1Y0RWS2NYRnZOR1JoYVZsYWVsRRAB!2m1!1s0x3442aca807806ebf:0xb51ad7b6c3658415"
+    },
+    {
+      "name": "places/ChIJv26AB6isQjQRFYRlw7bXGrU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oaFh6aHlka3cyWDNvMk1WQjFXbEI2VVU5QmJVRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "看展方便但價格稍貴，口味中規中矩\n\n地點位於南港展覽館1館一樓大廳，對於參展或看展的人來說非常方便，是就近果腹的好選擇。\n\n不過午餐時段人潮非常多，要自己找位子，很容易客滿。整體口味就是中規中矩。如果是為了方便求快可以接受，但追求性價比的話可能會失望。\n\n這家店給人的感覺就像是「展覽館裡的綠洲」，雖然能解燃眉之急（肚子餓），但因為水源稀缺（位子少、熱門餐點少），價格也相對高昂一些。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "看展方便但價格稍貴，口味中規中矩\n\n地點位於南港展覽館1館一樓大廳，對於參展或看展的人來說非常方便，是就近果腹的好選擇。\n\n不過午餐時段人潮非常多，要自己找位子，很容易客滿。整體口味就是中規中矩。如果是為了方便求快可以接受，但追求性價比的話可能會失望。\n\n這家店給人的感覺就像是「展覽館裡的綠洲」，雖然能解燃眉之急（肚子餓），但因為水源稀缺（位子少、熱門餐點少），價格也相對高昂一些。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃永裕 Eddy Huang",
+        "uri": "https://www.google.com/maps/contrib/116404278817514148417/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV4C8uyjwuxeghErrXjT7Citwy5reRRQIvYVTCQbk05mjhycrPqVA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-06T04:49:42.400304662Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oaFh6aHlka3cyWDNvMk1WQjFXbEI2VVU5QmJVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oaFh6aHlka3cyWDNvMk1WQjFXbEI2VVU5QmJVRRAB!2m1!1s0x3442aca807806ebf:0xb51ad7b6c3658415"
+    },
+    {
+      "name": "places/ChIJv26AB6isQjQRFYRlw7bXGrU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xvNFYzQktWM2RzTVZsWVkyWmxVRE14UldkVVJrRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 1,
+      "text": {
+        "text": "一碗湯70塊錢，有告知很小杯可以接受，結果打開裡面居然裝不到2/3…\n\n建議把容器換成更小的杯子，以免是客人期待有落差。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一碗湯70塊錢，有告知很小杯可以接受，結果打開裡面居然裝不到2/3…\n\n建議把容器換成更小的杯子，以免是客人期待有落差。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lin Family",
+        "uri": "https://www.google.com/maps/contrib/103443706948206110891/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV5-PYVG7pHluushAuH80Sq65j3p6hcvHGNBmc-wFa9Lqv3J60=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-10-28T05:36:39.951397175Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xvNFYzQktWM2RzTVZsWVkyWmxVRE14UldkVVJrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xvNFYzQktWM2RzTVZsWVkyWmxVRE14UldkVVJrRRAB!2m1!1s0x3442aca807806ebf:0xb51ad7b6c3658415"
+    },
+    {
+      "name": "places/ChIJv26AB6isQjQRFYRlw7bXGrU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aaE1IZ3dibXczY1RSSVdqaFRUSFJUYUVwSWVYYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "參加展覽排隊前來這邊外帶麵包是個好選擇\n\n❌本次沒有內用\n\n🔹鮪魚三明治：蠻好吃的，雖然鮪魚不多，很清爽，配上生菜口感不錯還有蛋沙拉。\n🔹奶酥厚片：才40元蠻不錯的，不會太甜，醬夠多。\n🔹鮮奶茶：偏淡，但還可以",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "參加展覽排隊前來這邊外帶麵包是個好選擇\n\n❌本次沒有內用\n\n🔹鮪魚三明治：蠻好吃的，雖然鮪魚不多，很清爽，配上生菜口感不錯還有蛋沙拉。\n🔹奶酥厚片：才40元蠻不錯的，不會太甜，醬夠多。\n🔹鮮奶茶：偏淡，但還可以",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "冰淇淋",
+        "uri": "https://www.google.com/maps/contrib/117840721831823791594/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVybCdxxyBiTyhSx8x0kBhDw1r6bW3us-CVIm84cTBrxMh4xQqK=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-08-12T16:03:57.349175868Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aaE1IZ3dibXczY1RSSVdqaFRUSFJUYUVwSWVYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aaE1IZ3dibXczY1RSSVdqaFRUSFJUYUVwSWVYYxAB!2m1!1s0x3442aca807806ebf:0xb51ad7b6c3658415"
+    },
+    {
+      "name": "places/ChIJv26AB6isQjQRFYRlw7bXGrU/reviews/ChdDSUhNMG9nS0VJQ0FnSURfeTk2Wmd3RRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "我最近在南港展覽館附近發現了一家超棒的咖啡店——Real 真CAF’E•.BREAD，真的是一次意外的驚喜！當時因為電玩展的關係，旁邊的摩斯漢堡和7-11人超多，完全找不到座位，想說難道只能坐到地下室？於是查了一下網路，發現這家店評價不錯，於是決定走進去。\n\n一進門就被店裡舒適寬敞的空間吸引住，座位不僅多，環境也非常放鬆，讓人有種想待久一點的感覺。店裡有各式各樣的麵包，每一款看起來都新鮮可口，還有健康餐盒選擇，讓我這種健康飲食控十分開心。當然，不能錯過的還是他們的咖啡和茶飲，選擇豐富且口味不錯，喝上一口讓我立刻覺得輕鬆愉快。\n\n最驚喜的是，儘管店內有不少人，卻並不會覺得擁擠吵雜，整體內用餐體驗非常愉快。我原本只是找個地方避開人群，結果意外發現這麼舒適的一家店，下次來展覽館一定會再光顧，強烈推薦給大家！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "我最近在南港展覽館附近發現了一家超棒的咖啡店——Real 真CAF’E•.BREAD，真的是一次意外的驚喜！當時因為電玩展的關係，旁邊的摩斯漢堡和7-11人超多，完全找不到座位，想說難道只能坐到地下室？於是查了一下網路，發現這家店評價不錯，於是決定走進去。\n\n一進門就被店裡舒適寬敞的空間吸引住，座位不僅多，環境也非常放鬆，讓人有種想待久一點的感覺。店裡有各式各樣的麵包，每一款看起來都新鮮可口，還有健康餐盒選擇，讓我這種健康飲食控十分開心。當然，不能錯過的還是他們的咖啡和茶飲，選擇豐富且口味不錯，喝上一口讓我立刻覺得輕鬆愉快。\n\n最驚喜的是，儘管店內有不少人，卻並不會覺得擁擠吵雜，整體內用餐體驗非常愉快。我原本只是找個地方避開人群，結果意外發現這麼舒適的一家店，下次來展覽館一定會再光顧，強烈推薦給大家！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Randy Kuo",
+        "uri": "https://www.google.com/maps/contrib/100944785395991185359/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW0Zip8mwEKlwToJEy3Jp1z1_ss-ELHjTKGfiC3m_Hwjw-RRtYX=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-01-27T04:34:05.510311Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURfeTk2Wmd3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURfeTk2Wmd3RRAB!2m1!1s0x3442aca807806ebf:0xb51ad7b6c3658415"
+    }
+  ],
+  "goodForChildren": true
+}

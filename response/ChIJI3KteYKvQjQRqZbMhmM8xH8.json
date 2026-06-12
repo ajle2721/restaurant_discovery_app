@@ -1,0 +1,131 @@
+{
+  "id": "ChIJI3KteYKvQjQRqZbMhmM8xH8",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2876 3062",
+  "formattedAddress": "111台灣臺北市士林區天玉里天母西路35 號",
+  "location": {
+    "latitude": 25.118590100000002,
+    "longitude": 121.5276651
+  },
+  "rating": 4.7,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 150,
+  "displayName": {
+    "text": "櫛瓜咖啡 Zucchini Café",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJI3KteYKvQjQRqZbMhmM8xH8/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wU2JWZGlSa3RyY1RGRVREbFBSREZaVUhsc2NWRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "食材新鮮、美味、令人驚艷，裝潢溫馨別緻，會想很快再來用餐的一家店！（套餐飲料可以續，非常適合與友人聚會聊天）",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "食材新鮮、美味、令人驚艷，裝潢溫馨別緻，會想很快再來用餐的一家店！（套餐飲料可以續，非常適合與友人聚會聊天）",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "桑妮",
+        "uri": "https://www.google.com/maps/contrib/103908260030387780626/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVws5vP6ICh9d4BrzeYPJo2VG8QDOiAGe4gILB---hNY_dxCFBSIw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-03-01T06:59:34.918864818Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wU2JWZGlSa3RyY1RGRVREbFBSREZaVUhsc2NWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wU2JWZGlSa3RyY1RGRVREbFBSREZaVUhsc2NWRRAB!2m1!1s0x3442af8279ad7223:0x7fc43c6386cc96a9"
+    },
+    {
+      "name": "places/ChIJI3KteYKvQjQRqZbMhmM8xH8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSNmFVMXVZbGRJTkVkMVREVjRXalJKWDFobFJHYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "也太好吃了！從整隻的墨魚到麵條&櫛瓜都很鮮美。是一人覓食，可以大快朵頤的首選。健康又美味🤤",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "也太好吃了！從整隻的墨魚到麵條&櫛瓜都很鮮美。是一人覓食，可以大快朵頤的首選。健康又美味🤤",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Harper Harper",
+        "uri": "https://www.google.com/maps/contrib/103806519323807486848/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK6uh5E_Pnz19NHPs3SU3Y3Ti5qf2FdTUDlvvBEEFZl8yuH=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-20T10:39:56.659375278Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSNmFVMXVZbGRJTkVkMVREVjRXalJKWDFobFJHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSNmFVMXVZbGRJTkVkMVREVjRXalJKWDFobFJHYxAB!2m1!1s0x3442af8279ad7223:0x7fc43c6386cc96a9"
+    },
+    {
+      "name": "places/ChIJI3KteYKvQjQRqZbMhmM8xH8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4M2FrOXBhR2czTVVFMFEyb3lRbXB0YkhjMmVYYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "很好吃，兒子也有嬰兒座椅。\n整體蠻高級的。\n薯餅跟兩顆半熟蛋的搭配恰到好處",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很好吃，兒子也有嬰兒座椅。\n整體蠻高級的。\n薯餅跟兩顆半熟蛋的搭配恰到好處",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張冠程",
+        "uri": "https://www.google.com/maps/contrib/108667525327614965646/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWy8k5cy4vjh5-QCK0P2m5a6V_FaFauHKKqf7uma-C-Ym-2yleP=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-18T04:56:14.613714283Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4M2FrOXBhR2czTVVFMFEyb3lRbXB0YkhjMmVYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4M2FrOXBhR2czTVVFMFEyb3lRbXB0YkhjMmVYYxAB!2m1!1s0x3442af8279ad7223:0x7fc43c6386cc96a9"
+    },
+    {
+      "name": "places/ChIJI3KteYKvQjQRqZbMhmM8xH8/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCeFlrTnZla1ZaZGtaUVJFWktiMnBUWVZGdVJrRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "環境舒適，餐食好吃，可續杯的茶也好喝。看起來不多卻能吃好很飽。炸魚莎莎醬不錯。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境舒適，餐食好吃，可續杯的茶也好喝。看起來不多卻能吃好很飽。炸魚莎莎醬不錯。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jenny Cheng",
+        "uri": "https://www.google.com/maps/contrib/116334935831312092993/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjURAmCSsELj6BTnflJc_fb57ecqCi8oNk2Jbz2asy288LLG9xs=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-08-12T13:17:48.905945750Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCeFlrTnZla1ZaZGtaUVJFWktiMnBUWVZGdVJrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCeFlrTnZla1ZaZGtaUVJFWktiMnBUWVZGdVJrRRAB!2m1!1s0x3442af8279ad7223:0x7fc43c6386cc96a9"
+    },
+    {
+      "name": "places/ChIJI3KteYKvQjQRqZbMhmM8xH8/reviews/ChZDSUhNMG9nS0VJQ0FnSUMzM3EtWWV3EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "價位中高，餐廳不限時是可以耗一整天的好去處。整體環境上不會太吵雜，燈光也ok不會太暗。*加10%服務費💰*\n—餐點—🥘\n·經典早午餐$390\n還不錯，可推薦。副餐的飲料（咖啡/奶茶/紅茶/綠茶）可無限續♾️但不能更換選項\n·西西里咖啡$180\n不推薦⋯淡如水💧沒有檸檬味",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "價位中高，餐廳不限時是可以耗一整天的好去處。整體環境上不會太吵雜，燈光也ok不會太暗。*加10%服務費💰*\n—餐點—🥘\n·經典早午餐$390\n還不錯，可推薦。副餐的飲料（咖啡/奶茶/紅茶/綠茶）可無限續♾️但不能更換選項\n·西西里咖啡$180\n不推薦⋯淡如水💧沒有檸檬味",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "琳",
+        "uri": "https://www.google.com/maps/contrib/116458217030367176616/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtmbf1ka60pHyLLX_6GwRQi8hkKuXXqlsvYlM8pXrXoutdcft3=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2024-11-05T23:39:57.877568Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUMzM3EtWWV3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUMzM3EtWWV3EAE!2m1!1s0x3442af8279ad7223:0x7fc43c6386cc96a9"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

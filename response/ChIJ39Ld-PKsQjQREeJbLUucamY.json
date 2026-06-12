@@ -1,0 +1,131 @@
+{
+  "id": "ChIJ39Ld-PKsQjQREeJbLUucamY",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 8791 3719",
+  "formattedAddress": "114台灣臺北市內湖區金龍里內湖路三段71號 號",
+  "location": {
+    "latitude": 25.086071099999998,
+    "longitude": 121.5916335
+  },
+  "rating": 4.5,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 136,
+  "displayName": {
+    "text": "欣晨堡早午餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ39Ld-PKsQjQREeJbLUucamY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGRVlXaE5jM0p6ZWpZNFdEZExkV2c0U2pSQlgzYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 2,
+      "text": {
+        "text": "各種餐點都不太行...鐵板麵裡面有個噁心的魚露味，也很像塑膠味；紅茶有套水套太多的感覺，總匯很薄，夾一片若有似無薄如紙的生菜，裡面還拿肉鬆衝量...\n兩顆星多的那一顆給服務，餐點真的不太行。\n麵的味道真的太噁，吃不下去...\n這是個人的感覺給大家參考，反正是不會再去吃了。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "各種餐點都不太行...鐵板麵裡面有個噁心的魚露味，也很像塑膠味；紅茶有套水套太多的感覺，總匯很薄，夾一片若有似無薄如紙的生菜，裡面還拿肉鬆衝量...\n兩顆星多的那一顆給服務，餐點真的不太行。\n麵的味道真的太噁，吃不下去...\n這是個人的感覺給大家參考，反正是不會再去吃了。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Pin Nan Xie",
+        "uri": "https://www.google.com/maps/contrib/105070200034574781854/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVo4KvvPfC8K2ypyiYqhdwNKbXjkwDdbw-ufHHBKGqLbY4SJAF3=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-24T04:52:30.681131039Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGRVlXaE5jM0p6ZWpZNFdEZExkV2c0U2pSQlgzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGRVlXaE5jM0p6ZWpZNFdEZExkV2c0U2pSQlgzYxAB!2m1!1s0x3442acf2f8ddd2df:0x666a9c4b2d5be211"
+    },
+    {
+      "name": "places/ChIJ39Ld-PKsQjQREeJbLUucamY/reviews/ChdDSUhNMG9nS0VJQ0FnSURXMDcycTdRRRAB",
+      "relativePublishTimeDescription": "4 年前",
+      "rating": 4,
+      "text": {
+        "text": "鐵板麵套餐加上半熟蛋，平價美味，屬於油麵，裡面有豆芽菜增加口感。鮪魚蛋餅內餡是有拌美乃滋的，滑順好吃，可惜內用會有些油煙味。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "鐵板麵套餐加上半熟蛋，平價美味，屬於油麵，裡面有豆芽菜增加口感。鮪魚蛋餅內餡是有拌美乃滋的，滑順好吃，可惜內用會有些油煙味。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "CJ LIN",
+        "uri": "https://www.google.com/maps/contrib/103535889458369340516/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKFu0zrAi7yZVUB5nzBqoCeADHw12XAxwD-JcchNOn0iOMHlg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2022-04-03T13:04:02.389779Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURXMDcycTdRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURXMDcycTdRRRAB!2m1!1s0x3442acf2f8ddd2df:0x666a9c4b2d5be211"
+    },
+    {
+      "name": "places/ChIJ39Ld-PKsQjQREeJbLUucamY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGTFNrZFJNMVpaWVdSaWNYVllSbGxrZDA1c1VsRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "假日必吃早點，卡拉雞三明治配上蘿蔔糕加蛋以及小熱狗，完美絕配\n唯一可惜的是鐵板麵我覺得有變不好吃，但其他餐點很出色，不影響五星評論",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "假日必吃早點，卡拉雞三明治配上蘿蔔糕加蛋以及小熱狗，完美絕配\n唯一可惜的是鐵板麵我覺得有變不好吃，但其他餐點很出色，不影響五星評論",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "TINGAN LIN",
+        "uri": "https://www.google.com/maps/contrib/104144846672481362097/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXW1r0IEXmV-iBZSVgakPaTy0zN9GwX4gP7FbD33invPYF5o1t6=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-10-28T14:11:23.710722948Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGTFNrZFJNMVpaWVdSaWNYVllSbGxrZDA1c1VsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGTFNrZFJNMVpaWVdSaWNYVllSbGxrZDA1c1VsRRAB!2m1!1s0x3442acf2f8ddd2df:0x666a9c4b2d5be211"
+    },
+    {
+      "name": "places/ChIJ39Ld-PKsQjQREeJbLUucamY/reviews/ChZDSUhNMG9nS0VJQ0FnSURPb2NUZkFnEAE",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 5,
+      "text": {
+        "text": "神好吃鐵板麵！肉超香有夠讚！連吃了好幾天⁺o(⁎˃ᴗ˂⁎)o⁺💛",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "神好吃鐵板麵！肉超香有夠讚！連吃了好幾天⁺o(⁎˃ᴗ˂⁎)o⁺💛",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lillian Lee",
+        "uri": "https://www.google.com/maps/contrib/114602273986371676777/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6pFtWN8pnXVmBfxW9W6EKnc_OfW_CUaf_aNY8ICYr1SOa_YJT=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2022-07-07T04:30:41.223376Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURPb2NUZkFnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURPb2NUZkFnEAE!2m1!1s0x3442acf2f8ddd2df:0x666a9c4b2d5be211"
+    },
+    {
+      "name": "places/ChIJ39Ld-PKsQjQREeJbLUucamY/reviews/ChdDSUhNMG9nS0VJQ0FnSURjMjRyYS1nRRAB",
+      "relativePublishTimeDescription": "5 年前",
+      "rating": 5,
+      "text": {
+        "text": "讓人很放鬆的一家早餐店🥳🥳🥳\n現場還有⬇️⬇️⬇️\n帥氣老闆、美麗闆娘、待人很好很大方的闆媽媽總是熱情招呼歡迎🤗🤗🤗\n\n最愛吃店裡的（肉燥麵）獨一無二的古早味。\n還有（玉米濃湯）天啊！濃濃的奶味，每天必點的ㄧ杯。🥰🥰🥰\n還有（辣惡魔腿排）.....一吃就上癮的辣味道，喜歡辣的饕饕者一定要來享食🤩🤩🤩\n\n重點是，價格平民。\n也很適合早中餐一起在這裡吃喔！\n\n⭐️第一首選早餐店⭐️",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "讓人很放鬆的一家早餐店🥳🥳🥳\n現場還有⬇️⬇️⬇️\n帥氣老闆、美麗闆娘、待人很好很大方的闆媽媽總是熱情招呼歡迎🤗🤗🤗\n\n最愛吃店裡的（肉燥麵）獨一無二的古早味。\n還有（玉米濃湯）天啊！濃濃的奶味，每天必點的ㄧ杯。🥰🥰🥰\n還有（辣惡魔腿排）.....一吃就上癮的辣味道，喜歡辣的饕饕者一定要來享食🤩🤩🤩\n\n重點是，價格平民。\n也很適合早中餐一起在這裡吃喔！\n\n⭐️第一首選早餐店⭐️",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "李培培",
+        "uri": "https://www.google.com/maps/contrib/102764248516884991933/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjULRWL21FiWnXlWqj6pTk7HNPT8NjILdd5O142jcSQiCptdFgvyyg=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2020-07-01T08:41:45.393228Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURjMjRyYS1nRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURjMjRyYS1nRRAB!2m1!1s0x3442acf2f8ddd2df:0x666a9c4b2d5be211"
+    }
+  ],
+  "goodForChildren": true
+}

@@ -1,0 +1,131 @@
+{
+  "id": "ChIJHTQHYI-pQjQRqU4LFb5A6pU",
+  "types": [
+    "pizza_restaurant",
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2368 5222",
+  "formattedAddress": "106台灣臺北市大安區古莊里浦城街33-9號",
+  "location": {
+    "latitude": 25.0232252,
+    "longitude": 121.5268564
+  },
+  "rating": 4.2,
+  "websiteUri": "http://www.maryjanepizza.com/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1008,
+  "displayName": {
+    "text": "瑪莉珍披薩 師大店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJHTQHYI-pQjQRqU4LFb5A6pU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pRNVVYSllNMlJUTTJOdFNWa3lNMlpRUW01MlpYYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "去剛好遇到週二第二個披薩半價（加入會員）還可以折抵點數，也有送飲料兌換券，只是一次只能選一個優惠～最愛瑪莉珍披薩的口味很好吃！😍青醬口味很香起司也很多，另一個是副機長口味也不錯但起司沒有另一個多\n平日午餐沒什麼人，還有加購套餐汽水+奶酪甜點$100，但覺得奶酪很普通，飲料很大杯大好像有點小貴～但人均這樣點下來才兩百多快三百還蠻划算的",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "去剛好遇到週二第二個披薩半價（加入會員）還可以折抵點數，也有送飲料兌換券，只是一次只能選一個優惠～最愛瑪莉珍披薩的口味很好吃！😍青醬口味很香起司也很多，另一個是副機長口味也不錯但起司沒有另一個多\n平日午餐沒什麼人，還有加購套餐汽水+奶酪甜點$100，但覺得奶酪很普通，飲料很大杯大好像有點小貴～但人均這樣點下來才兩百多快三百還蠻划算的",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Irene",
+        "uri": "https://www.google.com/maps/contrib/101681814458381079925/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLYQVWZclBSUbgl6LhLRnxMlLOympJyWel54-RRx4mNkVWe6xE=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-20T07:01:03.703032901Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pRNVVYSllNMlJUTTJOdFNWa3lNMlpRUW01MlpYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pRNVVYSllNMlJUTTJOdFNWa3lNMlpRUW01MlpYYxAB!2m1!1s0x3442a98f6007341d:0x95ea40be150b4ea9"
+    },
+    {
+      "name": "places/ChIJHTQHYI-pQjQRqU4LFb5A6pU/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aeVVtcFlWRmhvTUhwdldXUlNhbDlrVEVWbFJGRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "🍗 蜜汁醬燒雞翅 ｜185\n必點！！蜜汁是靈魂，裹上雞翅外皮，吃起來外酥內嫩，吃到最後再把骨頭跟手舔一遍\n\n🍕 早安卜派｜300\n加上半熟蛋畫龍點睛，將菠菜、培根與牽絲起司還有薄脆餅皮融合在一起，推！\n\n🍕 鄉村俱樂部｜310\n鄉村比較樸實無華的味道。\n\n店內氣氛也不錯，適合聚餐～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "🍗 蜜汁醬燒雞翅 ｜185\n必點！！蜜汁是靈魂，裹上雞翅外皮，吃起來外酥內嫩，吃到最後再把骨頭跟手舔一遍\n\n🍕 早安卜派｜300\n加上半熟蛋畫龍點睛，將菠菜、培根與牽絲起司還有薄脆餅皮融合在一起，推！\n\n🍕 鄉村俱樂部｜310\n鄉村比較樸實無華的味道。\n\n店內氣氛也不錯，適合聚餐～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Joey Tribbiani",
+        "uri": "https://www.google.com/maps/contrib/115327781192000714610/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXL0atfHgH7PWmWvvlluNDIU1I-sDsehIixkcEQ9_ZykQsQ2J8=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-31T10:35:49.800115705Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aeVVtcFlWRmhvTUhwdldXUlNhbDlrVEVWbFJGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aeVVtcFlWRmhvTUhwdldXUlNhbDlrVEVWbFJGRRAB!2m1!1s0x3442a98f6007341d:0x95ea40be150b4ea9"
+    },
+    {
+      "name": "places/ChIJHTQHYI-pQjQRqU4LFb5A6pU/reviews/Ci9DQUlRQUNvZENodHljRjlvT201eFlWSlNUbTVtWW1SUGFXZExNMHhHU1dkNFZYYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "昨天（9/26）週五傍晚，和閨蜜在師大附近覓食，決定看哪一家順眼就進去吃。我突然想起多年前曾在這附近吃過一家披薩店，Google了一下想起來是這家，於是決定試試看。閨蜜堅持請客，因為慶祝她成交，真是太感動感謝她了❤️🤗！\n\n因為我們都不是很餓，所以只點了2個披薩：招牌的瑪麗珍&搖滾阿明哥（菜單上有一根辣椒圖樣，表示會辣）。瑪麗珍皮薄酥脆，紅醬基底，上面綠色的醬（青醬？）和蘑菇的香味，都很濃郁。搖滾阿明哥，口味較豐富，雖然菜單上有一根辣椒，但吃起來完全不辣。這兩種口味的披薩都不錯，他們的披薩是薄皮的，我喜歡。\n\n開水、杯盤、餐具、調味料，都自取，沒收服務費。\n\nP.S. 低消$230/人，先付款，限時90分鐘。\nP.P.S. 每週二第二個披薩5折。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "昨天（9/26）週五傍晚，和閨蜜在師大附近覓食，決定看哪一家順眼就進去吃。我突然想起多年前曾在這附近吃過一家披薩店，Google了一下想起來是這家，於是決定試試看。閨蜜堅持請客，因為慶祝她成交，真是太感動感謝她了❤️🤗！\n\n因為我們都不是很餓，所以只點了2個披薩：招牌的瑪麗珍&搖滾阿明哥（菜單上有一根辣椒圖樣，表示會辣）。瑪麗珍皮薄酥脆，紅醬基底，上面綠色的醬（青醬？）和蘑菇的香味，都很濃郁。搖滾阿明哥，口味較豐富，雖然菜單上有一根辣椒，但吃起來完全不辣。這兩種口味的披薩都不錯，他們的披薩是薄皮的，我喜歡。\n\n開水、杯盤、餐具、調味料，都自取，沒收服務費。\n\nP.S. 低消$230/人，先付款，限時90分鐘。\nP.P.S. 每週二第二個披薩5折。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jane Lee",
+        "uri": "https://www.google.com/maps/contrib/107059433905827650379/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjURjX1-Nnh-VfRDoViK4MJQtMG0SzYmtAvEynaiWVxYwru6F1PmNA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-09-27T11:06:08.442486378Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201eFlWSlNUbTVtWW1SUGFXZExNMHhHU1dkNFZYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201eFlWSlNUbTVtWW1SUGFXZExNMHhHU1dkNFZYYxAB!2m1!1s0x3442a98f6007341d:0x95ea40be150b4ea9"
+    },
+    {
+      "name": "places/ChIJHTQHYI-pQjQRqU4LFb5A6pU/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xveWFYUlROM28xYjFsNlkyUXhVVUk1UXpoaWRrRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "兩個女生，點兩個披薩。瑪莉珍披薩和搖滾阿三哥。兩個都好好吃喔！薄皮烤得香脆，起司濃郁。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "兩個女生，點兩個披薩。瑪莉珍披薩和搖滾阿三哥。兩個都好好吃喔！薄皮烤得香脆，起司濃郁。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Eevee",
+        "uri": "https://www.google.com/maps/contrib/106810123466789203266/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUP3Q2u9asZkmLJ-r9XKRZtpfEgxfGBQXh_zVuRcSTR0jdjGOkn6w=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-09-26T17:04:43.131596832Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xveWFYUlROM28xYjFsNlkyUXhVVUk1UXpoaWRrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xveWFYUlROM28xYjFsNlkyUXhVVUk1UXpoaWRrRRAB!2m1!1s0x3442a98f6007341d:0x95ea40be150b4ea9"
+    },
+    {
+      "name": "places/ChIJHTQHYI-pQjQRqU4LFb5A6pU/reviews/ChdDSUhNMG9nS0VJQ0FnTUNnbTVhT2l3RRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "🥬凱薩沙拉 220\n怕吃披薩太油膩，點了這份沙拉來搭配，裡面有吃起來新鮮脆口的青菜，還有應該是鮭魚塊在裡面，但是他的麵包不是很好吃，吃起來像是放太久的烤麵包，有點可惜。\n\n🍟炸物三兄弟 280\n裡面有薯條、炸洋蔥🧅、還有帶皮的馬鈴薯🥔，所以其實這道菜就是馬鈴薯加洋蔥Xd 感覺如果有3-4個人來吃，應該是還不錯的，兩個人的話就有點太膩，如果第三種馬鈴薯可以換成別的應該會更好吃。\n\n🍕瑪麗珍披薩 260\n有滿滿的青醬、香菇跟起司，是薄片披薩，咬起來不會很累，整體濕潤偏軟爛，但因為口味偏重所以也很難吃太多，也是建議2-3人一起吃個兩種口味應該會很不錯。\n\n🧀️青醬起司螺旋麵 260\n沒有螺旋麵所以變成貝殼麵，不確定是不是現在都沒有螺旋麵了，這一道覺得很好吃，起司味道濃郁，絕對是起司愛好者的天堂，最後是直接清空還把底下黏住的醬汁吃乾淨👍\n\n不收服務費💰，是一間週五晚上去會需要排隊的店，店內空間跟環境都蠻好的，適合朋友們聚餐，還有起司粉可以使用，這點加分🤪水的部分也是自由取用，下一次想再吃看看白醬披薩，應該也會很不錯👌",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "🥬凱薩沙拉 220\n怕吃披薩太油膩，點了這份沙拉來搭配，裡面有吃起來新鮮脆口的青菜，還有應該是鮭魚塊在裡面，但是他的麵包不是很好吃，吃起來像是放太久的烤麵包，有點可惜。\n\n🍟炸物三兄弟 280\n裡面有薯條、炸洋蔥🧅、還有帶皮的馬鈴薯🥔，所以其實這道菜就是馬鈴薯加洋蔥Xd 感覺如果有3-4個人來吃，應該是還不錯的，兩個人的話就有點太膩，如果第三種馬鈴薯可以換成別的應該會更好吃。\n\n🍕瑪麗珍披薩 260\n有滿滿的青醬、香菇跟起司，是薄片披薩，咬起來不會很累，整體濕潤偏軟爛，但因為口味偏重所以也很難吃太多，也是建議2-3人一起吃個兩種口味應該會很不錯。\n\n🧀️青醬起司螺旋麵 260\n沒有螺旋麵所以變成貝殼麵，不確定是不是現在都沒有螺旋麵了，這一道覺得很好吃，起司味道濃郁，絕對是起司愛好者的天堂，最後是直接清空還把底下黏住的醬汁吃乾淨👍\n\n不收服務費💰，是一間週五晚上去會需要排隊的店，店內空間跟環境都蠻好的，適合朋友們聚餐，還有起司粉可以使用，這點加分🤪水的部分也是自由取用，下一次想再吃看看白醬披薩，應該也會很不錯👌",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "小資吃貨",
+        "uri": "https://www.google.com/maps/contrib/106308543345989042032/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW2tJb_Yzk5mjwbCh0XZq6C-x4dPhzQ2rawrwmq6SUx-vb2zUQ0KQ=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-02-21T01:04:15.451742Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNnbTVhT2l3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNnbTVhT2l3RRAB!2m1!1s0x3442a98f6007341d:0x95ea40be150b4ea9"
+    }
+  ]
+}

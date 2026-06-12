@@ -1,0 +1,131 @@
+{
+  "id": "ChIJ94hxiL2vQjQR5H7l0jecDus",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2875 5066",
+  "formattedAddress": "111台灣臺北市士林區天山里中山北路七段96號2樓",
+  "location": {
+    "latitude": 25.1217552,
+    "longitude": 121.5318035
+  },
+  "rating": 4.8,
+  "websiteUri": "https://www.facebook.com/profile.php?id=61550093490414&mibextid=ZbWKwL",
+  "userRatingCount": 63,
+  "displayName": {
+    "text": "Papa Vito Kitchen",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ94hxiL2vQjQR5H7l0jecDus/reviews/ChdDSUhNMG9nS0VJQ0FnSUQ5cGVqM3pRRRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 4,
+      "text": {
+        "text": "（好吃，很用心又划算）會來這巷裡吃是因為家人網搜後想嘗試看看，我們通常一起踩點的勇氣都是來自..肚子餓。他們都是手工麵條（比一般義大利麵寬且Q很多），白醬綜合菇菇義大利麵很爽口，適合追求清淡但不能無味的人們。羅勒雞肉義大利麵鹹味略重但不至於過頭算剛好滿好吃的，我們一家人這盤撿一點配那盤這吃法意外成功，你不妨試試。白酒雞肝義大利麵我們改成麵疙瘩+小辣，一開始吃會覺得雞肝很搶味道，不過配幾個小小麵疙瘩一起嚼會發現…像我們過的生活那樣，有時會覺得想重口味一下有時又OK，但重點是叉子都在自己手上可以自由決定怎搭，這道餐點讓我很有感。另外加冰淇淋的肉桂捲、開心沙拉、南瓜濃湯，嚐起來你會有自己想要的味道，這間餐廳有很多用心在。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "（好吃，很用心又划算）會來這巷裡吃是因為家人網搜後想嘗試看看，我們通常一起踩點的勇氣都是來自..肚子餓。他們都是手工麵條（比一般義大利麵寬且Q很多），白醬綜合菇菇義大利麵很爽口，適合追求清淡但不能無味的人們。羅勒雞肉義大利麵鹹味略重但不至於過頭算剛好滿好吃的，我們一家人這盤撿一點配那盤這吃法意外成功，你不妨試試。白酒雞肝義大利麵我們改成麵疙瘩+小辣，一開始吃會覺得雞肝很搶味道，不過配幾個小小麵疙瘩一起嚼會發現…像我們過的生活那樣，有時會覺得想重口味一下有時又OK，但重點是叉子都在自己手上可以自由決定怎搭，這道餐點讓我很有感。另外加冰淇淋的肉桂捲、開心沙拉、南瓜濃湯，嚐起來你會有自己想要的味道，這間餐廳有很多用心在。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Richard Lien",
+        "uri": "https://www.google.com/maps/contrib/110687962994072710682/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWtMfFPum1vPhJvaCHPKuF3lvTFODIe4j9juSx-bfq6ONdb925x=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2024-03-19T04:05:06.816369Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQ5cGVqM3pRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQ5cGVqM3pRRRAB!2m1!1s0x3442afbd887188f7:0xeb0e9c37d2e57ee4"
+    },
+    {
+      "name": "places/ChIJ94hxiL2vQjQR5H7l0jecDus/reviews/ChZDSUhNMG9nS0VJQ0FnSUR6aXRmU2F3EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "手工義大利麵跟Pizza.  這家店以手工義大利麵為主，鮭魚黑夜雞肉丸子的味道也不錯，調味偏清淡一點。Pizza口味只有兩種，要吃pizza的話要去中山北路七段。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "手工義大利麵跟Pizza.  這家店以手工義大利麵為主，鮭魚黑夜雞肉丸子的味道也不錯，調味偏清淡一點。Pizza口味只有兩種，要吃pizza的話要去中山北路七段。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Kent Ma",
+        "uri": "https://www.google.com/maps/contrib/117670113311169207526/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVtU2QjV9iSRZnXF_lr1x95D4F9RnfFXDVw4GRm_50ZfXYfzgCdoA=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2024-06-09T04:48:56.215952Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR6aXRmU2F3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR6aXRmU2F3EAE!2m1!1s0x3442afbd887188f7:0xeb0e9c37d2e57ee4"
+    },
+    {
+      "name": "places/ChIJ94hxiL2vQjQR5H7l0jecDus/reviews/ChdDSUhNMG9nS0VJQ0FnSURUb2NxMnp3RRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "和四個好朋友一起來喝下午茶，店裡的披薩、沙拉、義大利麵都是老闆手工做的，非常美味可口，擺盤也很適合拍照，超級推薦朋友聚會時來喔！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "和四個好朋友一起來喝下午茶，店裡的披薩、沙拉、義大利麵都是老闆手工做的，非常美味可口，擺盤也很適合拍照，超級推薦朋友聚會時來喔！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "趙湘玲",
+        "uri": "https://www.google.com/maps/contrib/107690660910953662707/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXSnByMy8xvUB4kk0B8nKUlGwWhWMDicZSrcYehISgVvVxSQM44=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2024-05-25T09:10:57.119191Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURUb2NxMnp3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURUb2NxMnp3RRAB!2m1!1s0x3442afbd887188f7:0xeb0e9c37d2e57ee4"
+    },
+    {
+      "name": "places/ChIJ94hxiL2vQjQR5H7l0jecDus/reviews/ChZDSUhNMG9nS0VJQ0FnSUNUeE1QV1RREAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "一直很喜歡他們家在中山北路七段的pizza，這次已經是二訪了，很道地的義大利麵，而且升級套餐超划算，再來吃早午餐套餐，老闆娘跟員工都很親切，喜歡道地義大利麵的不能錯過！！🥰🥰🥰",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一直很喜歡他們家在中山北路七段的pizza，這次已經是二訪了，很道地的義大利麵，而且升級套餐超划算，再來吃早午餐套餐，老闆娘跟員工都很親切，喜歡道地義大利麵的不能錯過！！🥰🥰🥰",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "juichi ho",
+        "uri": "https://www.google.com/maps/contrib/111285140394594786868/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVjO-GU6E0_tyXaSiA25TFluO0NCKUsxio65Zl9LyTZP6DiqOpz=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2024-05-11T10:26:07.025139Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNUeE1QV1RREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNUeE1QV1RREAE!2m1!1s0x3442afbd887188f7:0xeb0e9c37d2e57ee4"
+    },
+    {
+      "name": "places/ChIJ94hxiL2vQjQR5H7l0jecDus/reviews/ChZDSUhNMG9nS0VJQ0FnSUR0aFBpTFZnEAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "義式天作之合濃湯 $180\n裡面有通心粉、菠菜、肉丸、少許起司\n湯的口感溫潤，肉丸口感紮實\n蠻有飽足感的一道湯品\n\n白醬菇菇義大利麵 $250\n起鍋時加的橄欖油很香\n裡面的菇類切的夠厚，口感Q彈且菇的香氣十足\n義大利麵的口感很好，很好吃的一道義大利麵\n\n德式蘋果肉桂捲 $180\n中規中矩\n\n店內環境乾淨整潔\nCP值也蠻不錯的一家店",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "義式天作之合濃湯 $180\n裡面有通心粉、菠菜、肉丸、少許起司\n湯的口感溫潤，肉丸口感紮實\n蠻有飽足感的一道湯品\n\n白醬菇菇義大利麵 $250\n起鍋時加的橄欖油很香\n裡面的菇類切的夠厚，口感Q彈且菇的香氣十足\n義大利麵的口感很好，很好吃的一道義大利麵\n\n德式蘋果肉桂捲 $180\n中規中矩\n\n店內環境乾淨整潔\nCP值也蠻不錯的一家店",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Betty",
+        "uri": "https://www.google.com/maps/contrib/115917085211633824643/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLVZwf4ml-dNsv06vFttck-s0vDBeLJ1BWtlcpBMPloGLq3PA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2024-02-02T13:15:46.673483Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR0aFBpTFZnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR0aFBpTFZnEAE!2m1!1s0x3442afbd887188f7:0xeb0e9c37d2e57ee4"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": false
+}

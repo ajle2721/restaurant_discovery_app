@@ -1,0 +1,130 @@
+{
+  "id": "ChIJT6hrQ0CpQjQRDIQ07J62prM",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2557 4605",
+  "formattedAddress": "103台灣臺北市大同區民權里涼州街2號",
+  "location": {
+    "latitude": 25.060810999999998,
+    "longitude": 121.51574649999999
+  },
+  "rating": 4.4,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 316,
+  "displayName": {
+    "text": "Apple203涼州店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJT6hrQ0CpQjQRDIQ07J62prM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2twVk9DMXdhR1pEY2sxWlFqUkRUbDgxTm1kVFoyYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 2,
+      "text": {
+        "text": "已經提早20分鐘先打電話預訂餐點，\n但現場還是要等，餐點也做錯！\n生意蠻不錯，店員人數也有4～5個以上\n但菜口的店員，動作慢，早上客人等不了，\n可能是因為這個環節問題吧。\n建議增加人員或是把菜口人員換動作快的。\n買早餐的客人大都是要趕上班\n真的沒時間等很久…",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "已經提早20分鐘先打電話預訂餐點，\n但現場還是要等，餐點也做錯！\n生意蠻不錯，店員人數也有4～5個以上\n但菜口的店員，動作慢，早上客人等不了，\n可能是因為這個環節問題吧。\n建議增加人員或是把菜口人員換動作快的。\n買早餐的客人大都是要趕上班\n真的沒時間等很久…",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Wu Jessica",
+        "uri": "https://www.google.com/maps/contrib/105263785202433187847/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKb_vWwF_Y_FxEuql1bD4m7gC84ukyJfhJ8WOwEbYmTBNvUWQ=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-11-07T01:28:26.193705590Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2twVk9DMXdhR1pEY2sxWlFqUkRUbDgxTm1kVFoyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2twVk9DMXdhR1pEY2sxWlFqUkRUbDgxTm1kVFoyYxAB!2m1!1s0x3442a940436ba84f:0xb3a6b69eec34840c"
+    },
+    {
+      "name": "places/ChIJT6hrQ0CpQjQRDIQ07J62prM/reviews/ChZDSUhNMG9nS0VJQ0FnSURadk5qNFp3EAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 3,
+      "text": {
+        "text": "餐點還行，唯一無法接受的就是油煙味很重，可能當天排風頭不良吧！\n還有如果真的有不小心烤焦的東西就不要上桌了，雖然我還是吃完，但不是每個客人都能接受的。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點還行，唯一無法接受的就是油煙味很重，可能當天排風頭不良吧！\n還有如果真的有不小心烤焦的東西就不要上桌了，雖然我還是吃完，但不是每個客人都能接受的。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "法尼斯",
+        "uri": "https://www.google.com/maps/contrib/114095247915599380879/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUpxspjLXzRHFDY2Jo0eXTuiBN0JRr1o7pPqvH2aNt17iJurKrYvQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2023-09-26T16:29:58.527570Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURadk5qNFp3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURadk5qNFp3EAE!2m1!1s0x3442a940436ba84f:0xb3a6b69eec34840c"
+    },
+    {
+      "name": "places/ChIJT6hrQ0CpQjQRDIQ07J62prM/reviews/Ci9DQUlRQUNvZENodHljRjlvT25aNkxWQlZiVk5qTVhaVmNITnFjVWhOWVRGRlVYYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "公司附近便宜又好吃的早餐店，店家人員都非常親切，老闆備餐動作迅速又頭腦清晰，我28歲了還是叫我妹妹，超級讚！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "公司附近便宜又好吃的早餐店，店家人員都非常親切，老闆備餐動作迅速又頭腦清晰，我28歲了還是叫我妹妹，超級讚！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chloe Li",
+        "uri": "https://www.google.com/maps/contrib/107494808062821896568/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIMh3gqoqlm5v7wfWjE07VZhtvbtLdyc2HKg5a9_7Jz9qGTzOc=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-03-05T23:48:55.585965877Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25aNkxWQlZiVk5qTVhaVmNITnFjVWhOWVRGRlVYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25aNkxWQlZiVk5qTVhaVmNITnFjVWhOWVRGRlVYYxAB!2m1!1s0x3442a940436ba84f:0xb3a6b69eec34840c"
+    },
+    {
+      "name": "places/ChIJT6hrQ0CpQjQRDIQ07J62prM/reviews/ChdDSUhNMG9nS0VJQ0FnSUNab2RpMnR3RRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 3,
+      "text": {
+        "text": "看評價不錯第一次來吃這家，開門的時候因為是前面一位開的沒注意到門的設計直接彈回來弄傷了腳，希望店家能改善這部分。\n開門請務必注意小心❗️❗️❗️\n座位部分偏窄入座時感覺很卡，太陽直照頗熱。\n食物方面在台北市這價格真的很便宜，點了可頌套餐75以及鐵板麵套餐70外加星星魚45\n味道就普通早餐店水準，雖然因為門不愉快但吃的很飽很滿足會再度光臨。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "看評價不錯第一次來吃這家，開門的時候因為是前面一位開的沒注意到門的設計直接彈回來弄傷了腳，希望店家能改善這部分。\n開門請務必注意小心❗️❗️❗️\n座位部分偏窄入座時感覺很卡，太陽直照頗熱。\n食物方面在台北市這價格真的很便宜，點了可頌套餐75以及鐵板麵套餐70外加星星魚45\n味道就普通早餐店水準，雖然因為門不愉快但吃的很飽很滿足會再度光臨。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "夏瑤",
+        "uri": "https://www.google.com/maps/contrib/115655764390727913804/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU0cBSrqEqolMDJ1cu8wQHdfXPJAP3kyOjWp5Sk6dEazGj1JSvbEg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2023-09-12T00:05:55.270611Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNab2RpMnR3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNab2RpMnR3RRAB!2m1!1s0x3442a940436ba84f:0xb3a6b69eec34840c"
+    },
+    {
+      "name": "places/ChIJT6hrQ0CpQjQRDIQ07J62prM/reviews/ChZDSUhNMG9nS0VJQ0FnSURaaVBtMWVnEAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "早午餐神店，價格只有其他網美店的一半左右，份量感覺還比較多一點，現煎蛋餅和豬里肌都超好吃，之後大概每週都會來吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "早午餐神店，價格只有其他網美店的一半左右，份量感覺還比較多一點，現煎蛋餅和豬里肌都超好吃，之後大概每週都會來吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Rain Wu",
+        "uri": "https://www.google.com/maps/contrib/103303971400315962394/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUvKCZHhm2oszIj0yb5w7E1YLACEU01fokXXEEhHIA_pX5beNVv=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2023-09-23T05:03:24.084846Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURaaVBtMWVnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURaaVBtMWVnEAE!2m1!1s0x3442a940436ba84f:0xb3a6b69eec34840c"
+    }
+  ]
+}

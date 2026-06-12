@@ -1,0 +1,135 @@
+{
+  "id": "ChIJ6SD9j1OpQjQR9PEGhor-D9c",
+  "types": [
+    "steak_house",
+    "western_restaurant",
+    "french_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2368 0986",
+  "formattedAddress": "106台灣臺北市大安區古莊里浦城街26巷2號",
+  "location": {
+    "latitude": 25.022762,
+    "longitude": 121.526565
+  },
+  "rating": 4.5,
+  "websiteUri": "https://www.facebook.com/LE-SAGE-%E8%8C%B1%E8%8E%89%E9%87%91%E7%89%9B%E6%8E%92%E9%A4%90%E9%A4%A8-113875963688652",
+  "priceLevel": "PRICE_LEVEL_EXPENSIVE",
+  "userRatingCount": 1936,
+  "displayName": {
+    "text": "茱莉金牛排餐酒館",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ6SD9j1OpQjQR9PEGhor-D9c/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGa2MzcHZZalJOZFU0NFVEQlRVak5wTmtWRFdWRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "今天到店裡慶祝生日，裝潢還不錯，但是餐點普普，生菜沙拉非常的普通，感覺沒有必要升級套餐還有南瓜濃湯非常淡一點味道都沒有！這真的是南瓜濃湯嗎？廚房真的自己有喝過嗎？主餐部分一般沒有驚艷，不會再回訪…這個價位可以直接去吃鐵板燒cp值還比較高",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "今天到店裡慶祝生日，裝潢還不錯，但是餐點普普，生菜沙拉非常的普通，感覺沒有必要升級套餐還有南瓜濃湯非常淡一點味道都沒有！這真的是南瓜濃湯嗎？廚房真的自己有喝過嗎？主餐部分一般沒有驚艷，不會再回訪…這個價位可以直接去吃鐵板燒cp值還比較高",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Josie",
+        "uri": "https://www.google.com/maps/contrib/106522744482227346337/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJJKNGdh2jUXDL2h_hcWgHDorkd-taEleeCtMuCnK2GiU4VmQ=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-03-03T15:39:36.184302227Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGa2MzcHZZalJOZFU0NFVEQlRVak5wTmtWRFdWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGa2MzcHZZalJOZFU0NFVEQlRVak5wTmtWRFdWRRAB!2m1!1s0x3442a9538ffd20e9:0xd70ffe8a8606f1f4"
+    },
+    {
+      "name": "places/ChIJ6SD9j1OpQjQR9PEGhor-D9c/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xoT1YzSlZjV1o1TTAxdlEyUjBURGczV21STk4xRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第一次來到這感受到服務人員薄荷的用心👍👍除了餐點好吃😋我又是今天的壽星，服務人員薄荷還有問我喜歡什麼圖案的嗎，畫了可愛的史努比💕還特別加上日期🩷真的很讚👍👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次來到這感受到服務人員薄荷的用心👍👍除了餐點好吃😋我又是今天的壽星，服務人員薄荷還有問我喜歡什麼圖案的嗎，畫了可愛的史努比💕還特別加上日期🩷真的很讚👍👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林佩蓉",
+        "uri": "https://www.google.com/maps/contrib/107610126117863195061/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLcA-T6VfFdOSkLGzUcUip-vkem1ZiA7scF7vqiDrqwr7guEg=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-28T05:09:10.772902930Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xoT1YzSlZjV1o1TTAxdlEyUjBURGczV21STk4xRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xoT1YzSlZjV1o1TTAxdlEyUjBURGczV21STk4xRRAB!2m1!1s0x3442a9538ffd20e9:0xd70ffe8a8606f1f4"
+    },
+    {
+      "name": "places/ChIJ6SD9j1OpQjQR9PEGhor-D9c/reviews/Ci9DQUlRQUNvZENodHljRjlvT21GM1MxWm5TV3BIWTBsZmNXczVWazVLV2pkdWRWRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 1,
+      "text": {
+        "text": "（圖片右邊是五分熟和牛，左邊是五分熟安格斯勒眼）跟服務生反應後，得到的答案是廚師出餐前都有用探針確認溫度…\n\n其他缺點：瓷盤沒有保溫，和牛過熟肉質吃起來一點也不嫩，可惜薯條不是裹粉脆薯，服務生收餐盤也沒有問空的薯條和氣泡飲料需不需要續，餐桌的邊框設計非常容易卡污漬⋯⋯\n\n優點：有詢問壽星優惠便主動送上小蛋糕（圖案和字體就見仁見智）\n\n第一次光臨沒想到留下這麼不好的印象，以大台北地區來說，人均2000可以有很多更好的選擇。\n\n2/14更新業者回覆*\n這下更扯 你完全搞錯桌了吧？你要不要再去調監視器查清楚我到底是哪一桌的客人！！？",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "（圖片右邊是五分熟和牛，左邊是五分熟安格斯勒眼）跟服務生反應後，得到的答案是廚師出餐前都有用探針確認溫度…\n\n其他缺點：瓷盤沒有保溫，和牛過熟肉質吃起來一點也不嫩，可惜薯條不是裹粉脆薯，服務生收餐盤也沒有問空的薯條和氣泡飲料需不需要續，餐桌的邊框設計非常容易卡污漬⋯⋯\n\n優點：有詢問壽星優惠便主動送上小蛋糕（圖案和字體就見仁見智）\n\n第一次光臨沒想到留下這麼不好的印象，以大台北地區來說，人均2000可以有很多更好的選擇。\n\n2/14更新業者回覆*\n這下更扯 你完全搞錯桌了吧？你要不要再去調監視器查清楚我到底是哪一桌的客人！！？",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "En Wei Liang",
+        "uri": "https://www.google.com/maps/contrib/104889639849476711719/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXCFJCETFBZON2oAIMhfRJN2a7JysLYjVK115YgIjhX5zrpCAhN4Q=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-14T15:13:08.259944966Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21GM1MxWm5TV3BIWTBsZmNXczVWazVLV2pkdWRWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21GM1MxWm5TV3BIWTBsZmNXczVWazVLV2pkdWRWRRAB!2m1!1s0x3442a9538ffd20e9:0xd70ffe8a8606f1f4"
+    },
+    {
+      "name": "places/ChIJ6SD9j1OpQjQR9PEGhor-D9c/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pORFRtZHRjMGxIZW1RMFdrUlhUVXd3TTBoVlIwRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "位在古亭和台電大樓站之間，主打牛排的餐酒館。\n本次來訪點了以下餐點：\n・12盎司安格斯肋眼牛排（1580元+10%）+ 豪華套餐（每日湯品、套餐麵包、薯條、沙拉、當日甜點，299元+10%）— 牛排肉質一般般，沒有煎得特別熱，在使用一般的餐盤搭配冷天氣的情況下，牛油很快凝固，影響整體口感與享用體驗，較為可惜。\n・酥皮德國豬腳（710元+10%）+ 經典套餐（每日湯品、套餐麵包、當日甜點，209元+10%）— 豬腳表現中規中矩，但也稱不上亮眼。\n附餐如菠菜湯、麵包與沙拉皆屬穩定發揮，整體表現偏保守，未留下特別深刻的印象。\n用餐環境乾淨舒適，氣氛悠閒。週五晚上來訪時並未客滿，沒有時間壓力。\n整體用餐體驗普通，以這個價位來說，若以牛排為主要考量，臺北市還有很多其他的選擇。\n\n餐點：★★★☆☆\n擺盤：★★★☆☆\n份量：★★★★☆\n環境：★★★★☆\n服務：★★★★☆\n訂位難度：★★☆☆☆\n性價比：★★★☆☆",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "位在古亭和台電大樓站之間，主打牛排的餐酒館。\n本次來訪點了以下餐點：\n・12盎司安格斯肋眼牛排（1580元+10%）+ 豪華套餐（每日湯品、套餐麵包、薯條、沙拉、當日甜點，299元+10%）— 牛排肉質一般般，沒有煎得特別熱，在使用一般的餐盤搭配冷天氣的情況下，牛油很快凝固，影響整體口感與享用體驗，較為可惜。\n・酥皮德國豬腳（710元+10%）+ 經典套餐（每日湯品、套餐麵包、當日甜點，209元+10%）— 豬腳表現中規中矩，但也稱不上亮眼。\n附餐如菠菜湯、麵包與沙拉皆屬穩定發揮，整體表現偏保守，未留下特別深刻的印象。\n用餐環境乾淨舒適，氣氛悠閒。週五晚上來訪時並未客滿，沒有時間壓力。\n整體用餐體驗普通，以這個價位來說，若以牛排為主要考量，臺北市還有很多其他的選擇。\n\n餐點：★★★☆☆\n擺盤：★★★☆☆\n份量：★★★★☆\n環境：★★★★☆\n服務：★★★★☆\n訂位難度：★★☆☆☆\n性價比：★★★☆☆",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Kevin Yang",
+        "uri": "https://www.google.com/maps/contrib/111194132296800591776/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVyU4_3TJsZX3i4xZk1Lep0Bnb3iHOURRXFZCJ2ul0w2rGvq_A11Q=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-21T12:00:41.061583134Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pORFRtZHRjMGxIZW1RMFdrUlhUVXd3TTBoVlIwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pORFRtZHRjMGxIZW1RMFdrUlhUVXd3TTBoVlIwRRAB!2m1!1s0x3442a9538ffd20e9:0xd70ffe8a8606f1f4"
+    },
+    {
+      "name": "places/ChIJ6SD9j1OpQjQR9PEGhor-D9c/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OVWR6aHpUWE5VVGs4MlYzQnpXa2RVZVROa01rRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "與家人ㄧ起過生日，推薦酥烤法式半雞、櫻桃鴨胸，好吃👍。\n告知服務員（薄荷）有2位壽星，馬上就幫我補上，其他服務員也很親切的介紹餐品，下次還會再來用餐。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "與家人ㄧ起過生日，推薦酥烤法式半雞、櫻桃鴨胸，好吃👍。\n告知服務員（薄荷）有2位壽星，馬上就幫我補上，其他服務員也很親切的介紹餐品，下次還會再來用餐。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "謝玉美",
+        "uri": "https://www.google.com/maps/contrib/113887105118038765767/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXNxZTCkHkrYZTlEyMXBmNaMlpjJpYWcE6pIKgF8eGujvr1Hmta=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-31T05:07:49.605053500Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OVWR6aHpUWE5VVGs4MlYzQnpXa2RVZVROa01rRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OVWR6aHpUWE5VVGs4MlYzQnpXa2RVZVROa01rRRAB!2m1!1s0x3442a9538ffd20e9:0xd70ffe8a8606f1f4"
+    }
+  ],
+  "menuForChildren": true,
+  "goodForChildren": true
+}

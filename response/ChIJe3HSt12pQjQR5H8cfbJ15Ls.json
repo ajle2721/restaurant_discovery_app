@@ -1,0 +1,138 @@
+{
+  "id": "ChIJe3HSt12pQjQR5H8cfbJ15Ls",
+  "types": [
+    "pizza_delivery",
+    "pizza_restaurant",
+    "meal_delivery",
+    "food_delivery",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2523 9788",
+  "formattedAddress": "10491台灣台北市中山区新生里吉林路233號1樓",
+  "location": {
+    "latitude": 25.060980699999998,
+    "longitude": 121.530413
+  },
+  "rating": 4.3,
+  "websiteUri": "https://www.dominos.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 366,
+  "displayName": {
+    "text": "達美樂披薩 吉林店",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Delivery, carryout & dine-in chain offering a wide range of pizzas, plus a variety of other dishes & sides.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJe3HSt12pQjQR5H8cfbJ15Ls/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSaU9HWkxNV1JJVFhRNVNYZHlaM3B4VWxkalEwRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "10／15下午三點多，鏟子超人有送一個披薩，我事先打電話問店員是否還有，還有我就趕快跑來換。兩個女生店員都很友善親切。沒有因為我是換免費的而不耐煩，還讓我挑口味，感謝她們的好服務。沒想到比必勝客好吃非常多，我認真❣️！！\n我自願寫五星好評的啦。還有位置可以坐下等。讚",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "10／15下午三點多，鏟子超人有送一個披薩，我事先打電話問店員是否還有，還有我就趕快跑來換。兩個女生店員都很友善親切。沒有因為我是換免費的而不耐煩，還讓我挑口味，感謝她們的好服務。沒想到比必勝客好吃非常多，我認真❣️！！\n我自願寫五星好評的啦。還有位置可以坐下等。讚",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "W精靈",
+        "uri": "https://www.google.com/maps/contrib/105765695124666293160/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJn_QD9JmCx77CftroBRuMSBCup8Dhx_yVAidrdIiBykSmlyg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-10-15T07:52:42.740737775Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSaU9HWkxNV1JJVFhRNVNYZHlaM3B4VWxkalEwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSaU9HWkxNV1JJVFhRNVNYZHlaM3B4VWxkalEwRRAB!2m1!1s0x3442a95db7d2717b:0xbbe475b27d1c7fe4"
+    },
+    {
+      "name": "places/ChIJe3HSt12pQjQR5H8cfbJ15Ls/reviews/ChZDSUhNMG9nS0VJQ0FnTUN3Ni1EUlVnEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "現在大披薩感覺好像有縮水。先不論大小，達美樂有所謂四喜（四種口味）的選項真的不錯，料雖然感覺稍嫌少了一點，但還算好吃。但不知道為何吃完嘴巴怪怪的，猜測是地瓜薯刮嘴。店員蠻客氣的。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "現在大披薩感覺好像有縮水。先不論大小，達美樂有所謂四喜（四種口味）的選項真的不錯，料雖然感覺稍嫌少了一點，但還算好吃。但不知道為何吃完嘴巴怪怪的，猜測是地瓜薯刮嘴。店員蠻客氣的。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "沈です",
+        "uri": "https://www.google.com/maps/contrib/105761173772850190219/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV1UVqIKeLsxCY4_XH4ZSENSicGMgvqOXe_8dpGG6Ll9OI46iM=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-03-21T08:47:22.948871Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUN3Ni1EUlVnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUN3Ni1EUlVnEAE!2m1!1s0x3442a95db7d2717b:0xbbe475b27d1c7fe4"
+    },
+    {
+      "name": "places/ChIJe3HSt12pQjQR5H8cfbJ15Ls/reviews/ChZDSUhNMG9nS0VJQ0FnTUNReGVYYUx3EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "看脆本來想說應該不怎麼樣，但又想試一試點了一組外帶，沒想到真的很好吃！沒有像脆上說的那樣文圖不符！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "看脆本來想說應該不怎麼樣，但又想試一試點了一組外帶，沒想到真的很好吃！沒有像脆上說的那樣文圖不符！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "魚魚",
+        "uri": "https://www.google.com/maps/contrib/104552303641520039785/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXUz0K175Sx7cYXFRKeDCR5GWDYoDOwsoWqMNBNDQhsUWUdoVb2=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-03-06T06:55:54.818312Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTUNReGVYYUx3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTUNReGVYYUx3EAE!2m1!1s0x3442a95db7d2717b:0xbbe475b27d1c7fe4"
+    },
+    {
+      "name": "places/ChIJe3HSt12pQjQR5H8cfbJ15Ls/reviews/ChZDSUhNMG9nS0VJQ0FnSUNHM3N2TUZnEAE",
+      "relativePublishTimeDescription": "4 年前",
+      "rating": 5,
+      "text": {
+        "text": "服務人員反應超快\n因準時到店外帶拿披薩\n大概訂單太多有小delay一點點時間\n從後台突然冒出聲音...應該是店長?(女生)\n直接送上\"Sorry we are late 小披薩兌換券\"有點意外很貼心\n等待時看到店員都會和外帶客人再確認訂單內容\n服務品質給五顆星\n※這次巴掌麵包蓬鬆柔軟很好吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "服務人員反應超快\n因準時到店外帶拿披薩\n大概訂單太多有小delay一點點時間\n從後台突然冒出聲音...應該是店長?(女生)\n直接送上\"Sorry we are late 小披薩兌換券\"有點意外很貼心\n等待時看到店員都會和外帶客人再確認訂單內容\n服務品質給五顆星\n※這次巴掌麵包蓬鬆柔軟很好吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Kelly Kang",
+        "uri": "https://www.google.com/maps/contrib/117881974508358046343/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUc-UYtI9y00v3qZmkVkKjrc-AZjD5SB0IVE6a5z83TQrCxh59e=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2021-10-30T15:24:44.386962Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNHM3N2TUZnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNHM3N2TUZnEAE!2m1!1s0x3442a95db7d2717b:0xbbe475b27d1c7fe4"
+    },
+    {
+      "name": "places/ChIJe3HSt12pQjQR5H8cfbJ15Ls/reviews/ChdDSUhNMG9nS0VJQ0FnTURnd2Fmanp3RRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "火山熔岩披薩🍕，不建議用鋁箔紙盒放中間的作法，原因是周圍那一圈焦掉的皮會卡到後面的披薩，加上店員沒有做特殊處理，正常來說我會希望他們做好造型的時候，可以直接把中間的鋁箔紙盒壓平然後切過去，不然就是將中間再切一圈圓形⭕️把披薩🍕跟中間隔開，這樣披薩🍕比較好拿，之前吃得時候後面餅皮都是胖胖飽滿的，這次變成薄脆了，加上中間的披薩變成紙盒又是空心的，讓我失望，原本是以為他中間會用什麼模具弄出造型，然後底下是實心的披薩加上會用圓形刀⚙️將披薩🍕深切紋路清晰分明方便取用，如果改成這樣就很棒了，用個⭕️模具耐高溫替代鋁箔紙盒，還能多次使用省成本，加上不佔空間，中間的火山起司就算沒辦法定型垮了也沒差，畢竟我吃的是口感味道，跟外觀沒有太大的關係，中間焦掉的那層如果是巧克力餅乾就更好吃了",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "火山熔岩披薩🍕，不建議用鋁箔紙盒放中間的作法，原因是周圍那一圈焦掉的皮會卡到後面的披薩，加上店員沒有做特殊處理，正常來說我會希望他們做好造型的時候，可以直接把中間的鋁箔紙盒壓平然後切過去，不然就是將中間再切一圈圓形⭕️把披薩🍕跟中間隔開，這樣披薩🍕比較好拿，之前吃得時候後面餅皮都是胖胖飽滿的，這次變成薄脆了，加上中間的披薩變成紙盒又是空心的，讓我失望，原本是以為他中間會用什麼模具弄出造型，然後底下是實心的披薩加上會用圓形刀⚙️將披薩🍕深切紋路清晰分明方便取用，如果改成這樣就很棒了，用個⭕️模具耐高溫替代鋁箔紙盒，還能多次使用省成本，加上不佔空間，中間的火山起司就算沒辦法定型垮了也沒差，畢竟我吃的是口感味道，跟外觀沒有太大的關係，中間焦掉的那層如果是巧克力餅乾就更好吃了",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "大願",
+        "uri": "https://www.google.com/maps/contrib/112130201393690741446/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV5x_lHAF-XcjoTgl3CFxPt9_kL9lfBZfjhjFXeLYvXoBRqqVg=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-02-25T07:06:00.052988Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURnd2Fmanp3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURnd2Fmanp3RRAB!2m1!1s0x3442a95db7d2717b:0xbbe475b27d1c7fe4"
+    }
+  ]
+}

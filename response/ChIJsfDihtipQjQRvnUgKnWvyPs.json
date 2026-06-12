@@ -1,0 +1,133 @@
+{
+  "id": "ChIJsfDihtipQjQRvnUgKnWvyPs",
+  "types": [
+    "chinese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2311 7989",
+  "formattedAddress": "100台灣臺北市中正區黎明里北平西路3號2樓",
+  "location": {
+    "latitude": 25.047746699999998,
+    "longitude": 121.5169983
+  },
+  "rating": 4.3,
+  "websiteUri": "https://www.facebook.com/ChungChingstore/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1703,
+  "displayName": {
+    "text": "忠青商行 微風台北車站店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJsfDihtipQjQRvnUgKnWvyPs/reviews/Ci9DQUlRQUNvZENodHljRjlvT21wdlJGOU1UbTlhWTJzeVpXMTRjbE5DTVZsWGIxRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第一次在這裡用餐，已經過了尖峰用餐時間一點點。\n點了蝦仁飯套餐，有一盤炸排骨和一碗魚丸湯，排骨是現炸的很酥脆，剛炸好的排骨粉衣搭配小黃瓜很解膩。\n整體說來很好吃，蝦仁也不少隻，飯有淋上些許醬汁，吃起來濕潤美味。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次在這裡用餐，已經過了尖峰用餐時間一點點。\n點了蝦仁飯套餐，有一盤炸排骨和一碗魚丸湯，排骨是現炸的很酥脆，剛炸好的排骨粉衣搭配小黃瓜很解膩。\n整體說來很好吃，蝦仁也不少隻，飯有淋上些許醬汁，吃起來濕潤美味。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "千風",
+        "uri": "https://www.google.com/maps/contrib/115546019080532149055/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKFfAc-c-NT-vp43NvRxVkKtWPc7xDDwUYAGnIB3alu7B3fvw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-24T06:46:45.747169562Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21wdlJGOU1UbTlhWTJzeVpXMTRjbE5DTVZsWGIxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21wdlJGOU1UbTlhWTJzeVpXMTRjbE5DTVZsWGIxRRAB!2m1!1s0x3442a9d886e2f0b1:0xfbc8af752a2075be"
+    },
+    {
+      "name": "places/ChIJsfDihtipQjQRvnUgKnWvyPs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t0UE9YZDBXREpFYlVsR1JEVnJPSE5RUTJFd1JWRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "掃碼點餐，出餐蠻快的，主食飯還不錯，紅燒肉不油會酥不硬，不錯吃，香腸一般，不肥不瘦，不過也沒有記憶點，蝦子ok是新鮮的，調味沒有太特別，但不難吃，蒸蛋也還不錯，配菜相對一般，青菜有些粗苦，調味一般，花干也一般，湯也一般。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "掃碼點餐，出餐蠻快的，主食飯還不錯，紅燒肉不油會酥不硬，不錯吃，香腸一般，不肥不瘦，不過也沒有記憶點，蝦子ok是新鮮的，調味沒有太特別，但不難吃，蒸蛋也還不錯，配菜相對一般，青菜有些粗苦，調味一般，花干也一般，湯也一般。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "shane weng",
+        "uri": "https://www.google.com/maps/contrib/116909493864225407343/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIVpGr0seNMzTH5_nURTzQ0MCLT_H9_i5d8fYCqBw2ck6X-YA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-19T00:56:49.769125092Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t0UE9YZDBXREpFYlVsR1JEVnJPSE5RUTJFd1JWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t0UE9YZDBXREpFYlVsR1JEVnJPSE5RUTJFd1JWRRAB!2m1!1s0x3442a9d886e2f0b1:0xfbc8af752a2075be"
+    },
+    {
+      "name": "places/ChIJsfDihtipQjQRvnUgKnWvyPs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCblNXb3pZVTVmYmxGbWRYZHhXaTE1YTBoU2MyYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "之前在別家忠青商行吃過 覺得普普通通 cp值偏低 這家的話一樣的招牌蝦仁香腸蛋覺得不錯吃 不到很好吃 但是加50元蝦仁加量蠻有感的 肉包非常好吃 整體還是好評 服務人員有的好有的普通",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "之前在別家忠青商行吃過 覺得普普通通 cp值偏低 這家的話一樣的招牌蝦仁香腸蛋覺得不錯吃 不到很好吃 但是加50元蝦仁加量蠻有感的 肉包非常好吃 整體還是好評 服務人員有的好有的普通",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "維妮",
+        "uri": "https://www.google.com/maps/contrib/109932774710021759373/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVJ5RiGnbGMSSe5DiHLhA4YrRzcBovRs4aORa1ve421rK-IiPQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-10T13:22:48.755800252Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCblNXb3pZVTVmYmxGbWRYZHhXaTE1YTBoU2MyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCblNXb3pZVTVmYmxGbWRYZHhXaTE1YTBoU2MyYxAB!2m1!1s0x3442a9d886e2f0b1:0xfbc8af752a2075be"
+    },
+    {
+      "name": "places/ChIJsfDihtipQjQRvnUgKnWvyPs/reviews/Ci9DQUlRQUNvZENodHljRjlvT21jelVFVkNSbWR1YjNJNFVtMUhNbTAxZW1odVNuYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "等了一陣子入座\n炸排骨套餐很好吃，紅糟肉還好\n奶黃包非常普，可以不用點",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "等了一陣子入座\n炸排骨套餐很好吃，紅糟肉還好\n奶黃包非常普，可以不用點",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "HSIN MIN LO",
+        "uri": "https://www.google.com/maps/contrib/101947096828809570662/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX8wrRP_3Q5jYJ8dJej8Xx_fbYFAKtjg5_RfF3LhFh0aG-A9mWzAA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-28T09:03:03.327509059Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21jelVFVkNSbWR1YjNJNFVtMUhNbTAxZW1odVNuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21jelVFVkNSbWR1YjNJNFVtMUhNbTAxZW1odVNuYxAB!2m1!1s0x3442a9d886e2f0b1:0xfbc8af752a2075be"
+    },
+    {
+      "name": "places/ChIJsfDihtipQjQRvnUgKnWvyPs/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4UFVHVk5TSGhKV1dOWE5YQllSRk5FT1hSMWRtYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "滷肉飯加排骨真的很可以，滷肉香氣十足又不死鹹，配上排骨剛剛好，一口接一口完全停不下來。炸雞飯也讓人驚喜，外酥內嫩、不油不膩，吃完很有滿足感。整體餐點表現都很穩定，是會讓人想再回訪的好味道。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "滷肉飯加排骨真的很可以，滷肉香氣十足又不死鹹，配上排骨剛剛好，一口接一口完全停不下來。炸雞飯也讓人驚喜，外酥內嫩、不油不膩，吃完很有滿足感。整體餐點表現都很穩定，是會讓人想再回訪的好味道。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "jamie kung",
+        "uri": "https://www.google.com/maps/contrib/105953454405063699028/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU0m0C66EKvYMG5mWlMNN8muNoxkQH0e8Rtqi28Hvxgd5iRUkktLw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-14T11:28:00.692721268Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4UFVHVk5TSGhKV1dOWE5YQllSRk5FT1hSMWRtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4UFVHVk5TSGhKV1dOWE5YQllSRk5FT1hSMWRtYxAB!2m1!1s0x3442a9d886e2f0b1:0xfbc8af752a2075be"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

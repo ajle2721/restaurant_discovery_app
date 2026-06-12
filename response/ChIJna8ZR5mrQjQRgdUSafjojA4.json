@@ -1,0 +1,130 @@
+{
+  "id": "ChIJna8ZR5mrQjQRgdUSafjojA4",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2767 0016",
+  "formattedAddress": "110台灣臺北市信義區四育里虎林街11之1號",
+  "location": {
+    "latitude": 25.0489553,
+    "longitude": 121.5760241
+  },
+  "rating": 4.4,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 160,
+  "displayName": {
+    "text": "京元堡早午餐店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJna8ZR5mrQjQRgdUSafjojA4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CWmIydFlNVUpMVjJ4bk5rYzBSV3BwUm5KelNXYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "食物 🍲:\n《鮪魚蛋餅》45元 👍\n蛋餅皮是微脆 醬汁有點太多 不過還是好吃的蛋餅\n\n《豆漿紅茶》 大 30元 👍\n有炭培的味道 甜度剛好 不錯\n\n付款 💳:  僅現金",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "食物 🍲:\n《鮪魚蛋餅》45元 👍\n蛋餅皮是微脆 醬汁有點太多 不過還是好吃的蛋餅\n\n《豆漿紅茶》 大 30元 👍\n有炭培的味道 甜度剛好 不錯\n\n付款 💳:  僅現金",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "曾子嘎嘎",
+        "uri": "https://www.google.com/maps/contrib/110331147049388423621/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXO5t-Okh5NNdVf6XULYCMnjGwQhPf3IlguH3-N0j-IhNXGQG2LOA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-03-09T09:16:25.429647210Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CWmIydFlNVUpMVjJ4bk5rYzBSV3BwUm5KelNXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CWmIydFlNVUpMVjJ4bk5rYzBSV3BwUm5KelNXYxAB!2m1!1s0x3442ab994719af9d:0xe8ce8f86912d581"
+    },
+    {
+      "name": "places/ChIJna8ZR5mrQjQRgdUSafjojA4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kwM1ZIQlpUMHRrYzFob1gycDFWbnBSVkRSb1dVRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "看評價來的，內用只有4人座4桌，生意真的很好，所以員工就有5～6位，點了培根蛋土司+起司，黑胡椒肉醬鐵板麵，真的好吃大推👍🏻完食後，忍不住又點了藍莓土司😋好吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "看評價來的，內用只有4人座4桌，生意真的很好，所以員工就有5～6位，點了培根蛋土司+起司，黑胡椒肉醬鐵板麵，真的好吃大推👍🏻完食後，忍不住又點了藍莓土司😋好吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "笑笑",
+        "uri": "https://www.google.com/maps/contrib/105586056013647914464/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXn58OVvH1_ThLOAI0PaFFKMCXOAEtZnzRoxo848-lh77ynZRg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-13T03:25:26.708638448Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kwM1ZIQlpUMHRrYzFob1gycDFWbnBSVkRSb1dVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kwM1ZIQlpUMHRrYzFob1gycDFWbnBSVkRSb1dVRRAB!2m1!1s0x3442ab994719af9d:0xe8ce8f86912d581"
+    },
+    {
+      "name": "places/ChIJna8ZR5mrQjQRgdUSafjojA4/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oak5uY3hOa2xSTWxwR2FGWnhWVzUyYTA5aWFXYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "鮪魚蛋餅好吃！是有加美乃滋的那種鮪魚蛋餅\n店內座位不多，老闆娘看起來有點忙不過來，但態度還是很好，講話很親切，雖然看起來不太起眼，但會一直想來吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "鮪魚蛋餅好吃！是有加美乃滋的那種鮪魚蛋餅\n店內座位不多，老闆娘看起來有點忙不過來，但態度還是很好，講話很親切，雖然看起來不太起眼，但會一直想來吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Wei",
+        "uri": "https://www.google.com/maps/contrib/108066820792709329188/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU-fKlVrmM6GJ1ApY0ZEfOLkXxeBU1NZfrF_MpXPDS464gKporf=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-26T02:15:22.042848223Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oak5uY3hOa2xSTWxwR2FGWnhWVzUyYTA5aWFXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oak5uY3hOa2xSTWxwR2FGWnhWVzUyYTA5aWFXYxAB!2m1!1s0x3442ab994719af9d:0xe8ce8f86912d581"
+    },
+    {
+      "name": "places/ChIJna8ZR5mrQjQRgdUSafjojA4/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5T2JsSnVkMmxVTkdOTlIzVXRXRFZJVkZOM1pIYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "老闆娘人很親切\n餐點很好吃美味\n推玉米鮪魚河粉\n還有他們冰奶茶\n早餐最佳好去處\n👍🏻👍🏻👍🏻👍🏻👍🏻",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "老闆娘人很親切\n餐點很好吃美味\n推玉米鮪魚河粉\n還有他們冰奶茶\n早餐最佳好去處\n👍🏻👍🏻👍🏻👍🏻👍🏻",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "周好",
+        "uri": "https://www.google.com/maps/contrib/117858204352793061031/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKRxvi4_ow-GqfhvkUP5_XrfYaeEma_rqElaq8gZbndKTb8cA=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-09-30T02:23:41.990234464Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5T2JsSnVkMmxVTkdOTlIzVXRXRFZJVkZOM1pIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5T2JsSnVkMmxVTkdOTlIzVXRXRFZJVkZOM1pIYxAB!2m1!1s0x3442ab994719af9d:0xe8ce8f86912d581"
+    },
+    {
+      "name": "places/ChIJna8ZR5mrQjQRgdUSafjojA4/reviews/ChZDSUhNMG9nS0VJQ0FnSUNKOE0yZERREAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 4,
+      "text": {
+        "text": "內有冷氣～ 薯餅還用成愛心的樣子，很可愛☺️法式吐司也很不錯原味的好吃，紅茶也是不會太甜、有點古早味的味道調的很剛好。店內人員都很親切，是會想再訪的早餐店",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "內有冷氣～ 薯餅還用成愛心的樣子，很可愛☺️法式吐司也很不錯原味的好吃，紅茶也是不會太甜、有點古早味的味道調的很剛好。店內人員都很親切，是會想再訪的早餐店",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "silvia Cheng",
+        "uri": "https://www.google.com/maps/contrib/112510358755222745701/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJU2lTGP3cL_w2XoY2M2LI_X0FHJTmb79R6vixz_LRQmgjT0ZE=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2023-06-19T14:12:32.490526Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNKOE0yZERREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNKOE0yZERREAE!2m1!1s0x3442ab994719af9d:0xe8ce8f86912d581"
+    }
+  ],
+  "goodForChildren": true
+}

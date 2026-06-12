@@ -1,0 +1,132 @@
+{
+  "id": "ChIJj0YqfmypQjQRTVDvYpKciog",
+  "types": [
+    "italian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2556 9587",
+  "formattedAddress": "103台灣臺北市大同區建泰里南京西路202號",
+  "location": {
+    "latitude": 25.0532193,
+    "longitude": 121.51703109999998
+  },
+  "rating": 4.3,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 250,
+  "displayName": {
+    "text": "甜椒義麵屋",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJj0YqfmypQjQRTVDvYpKciog/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsM1MyeFRXWEpFVG1OUldqQmhTRU5hYzBoUVZtYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "義大利麵：料、醬都給很多，麵偏硬，份量夠，好吃不貴\n麵包：很大份，蒜醬給很多，熱熱的時候很好吃，放涼會有點油\n濃湯：味道個人不太喜歡\n飲料：葡萄汁，有點甜\n\n去的時候有很多組客人帶小孩，有點吵，但整體來說體驗很好，有空會再訪",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "義大利麵：料、醬都給很多，麵偏硬，份量夠，好吃不貴\n麵包：很大份，蒜醬給很多，熱熱的時候很好吃，放涼會有點油\n濃湯：味道個人不太喜歡\n飲料：葡萄汁，有點甜\n\n去的時候有很多組客人帶小孩，有點吵，但整體來說體驗很好，有空會再訪",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "BOW BOW",
+        "uri": "https://www.google.com/maps/contrib/101776063401620178346/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKo3TNG5ic_6GInvpDnILZU11pc4Yc4kLLLdwqvtGKjtpPBFw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-09-06T14:12:08.175223462Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsM1MyeFRXWEpFVG1OUldqQmhTRU5hYzBoUVZtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsM1MyeFRXWEpFVG1OUldqQmhTRU5hYzBoUVZtYxAB!2m1!1s0x3442a96c7e2a468f:0x888a9c9262ef504d"
+    },
+    {
+      "name": "places/ChIJj0YqfmypQjQRTVDvYpKciog/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzaVlheTVnRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "實在太好吃啦！台北排名前三的義大利麵，雖然裝潢略微簡單卻顯得溫馨，但無損食物的美味，老闆夫妻會熱情招呼，廚房看來只有一人作業，但出餐速度不會太慢，食材新鮮，麵的醬汁都能完整裹附在麵體上，看得出店家的用心，下次會在回訪，老闆加油！吃了個盤底朝天，一定要PO上來鼓勵店家。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "實在太好吃啦！台北排名前三的義大利麵，雖然裝潢略微簡單卻顯得溫馨，但無損食物的美味，老闆夫妻會熱情招呼，廚房看來只有一人作業，但出餐速度不會太慢，食材新鮮，麵的醬汁都能完整裹附在麵體上，看得出店家的用心，下次會在回訪，老闆加油！吃了個盤底朝天，一定要PO上來鼓勵店家。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "廖國良",
+        "uri": "https://www.google.com/maps/contrib/117700050061212859709/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVCGvfh5OB90ZKIw2GVWCvyqToCHnSVxWnhXHshZAf4wG383YI=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2024-11-16T06:08:54.457068Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzaVlheTVnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzaVlheTVnRRAB!2m1!1s0x3442a96c7e2a468f:0x888a9c9262ef504d"
+    },
+    {
+      "name": "places/ChIJj0YqfmypQjQRTVDvYpKciog/reviews/ChdDSUhNMG9nS0VJQ0FnSUQzaVo2MHp3RRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "老闆佛心來著，在寸土寸金的台北市街頭賣這樣的價格，很怕店家沒賺錢啊！餐點好吃份量足夠，還可以加麵加飯不加價，燉飯食材豐富新鮮，大蒜麵包超級無敵好吃，濃湯稠度比例完美，連葡萄汁都誠意十足，看來以後三餐都要來這裏報到了！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "老闆佛心來著，在寸土寸金的台北市街頭賣這樣的價格，很怕店家沒賺錢啊！餐點好吃份量足夠，還可以加麵加飯不加價，燉飯食材豐富新鮮，大蒜麵包超級無敵好吃，濃湯稠度比例完美，連葡萄汁都誠意十足，看來以後三餐都要來這裏報到了！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "wang wang",
+        "uri": "https://www.google.com/maps/contrib/105839785949742205114/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ2FNKA3nh0IZa28ZfKqv97HFgffQVtu_ZnuMdVqvX6ywliEg=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2024-11-16T06:18:12.413940Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUQzaVo2MHp3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUQzaVo2MHp3RRAB!2m1!1s0x3442a96c7e2a468f:0x888a9c9262ef504d"
+    },
+    {
+      "name": "places/ChIJj0YqfmypQjQRTVDvYpKciog/reviews/ChZDSUhNMG9nS0VJQ0FnSUQzX2NQZ2JBEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "第一次來，環境是比較普通的那種\n價位跟餐點成正比\n大蒜麵包很大個 這樣價位算便宜\n義大利麵普通 可以吃飽的那種\n玉米濃湯自助 愛喝多少自己倒\n飲料沒喝 無法評論\n\n是會回訪的店家",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次來，環境是比較普通的那種\n價位跟餐點成正比\n大蒜麵包很大個 這樣價位算便宜\n義大利麵普通 可以吃飽的那種\n玉米濃湯自助 愛喝多少自己倒\n飲料沒喝 無法評論\n\n是會回訪的店家",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "波吉拉",
+        "uri": "https://www.google.com/maps/contrib/106986994757227825636/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJmf6pDX0Yh2UE1WnEW2e83CSpNw4WzHD1A6mTJNGxLUobQUjE=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2024-11-18T05:24:56.522311Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQzX2NQZ2JBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQzX2NQZ2JBEAE!2m1!1s0x3442a96c7e2a468f:0x888a9c9262ef504d"
+    },
+    {
+      "name": "places/ChIJj0YqfmypQjQRTVDvYpKciog/reviews/ChdDSUhNMG9nS0VJdmEzczZvcUpyQ2hnRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 3,
+      "text": {
+        "text": "老闆都會主動問你要不要加量，加完之後義大利麵還有燉飯的份量都蠻多的，可以吃飽，味道的話就是還行，內用有附的玉米濃湯也還可以，但是葡萄汁就有點太甜，價格的話也是中等水準，不貴但是也沒有到十分便宜",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "老闆都會主動問你要不要加量，加完之後義大利麵還有燉飯的份量都蠻多的，可以吃飽，味道的話就是還行，內用有附的玉米濃湯也還可以，但是葡萄汁就有點太甜，價格的話也是中等水準，不貴但是也沒有到十分便宜",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Paul",
+        "uri": "https://www.google.com/maps/contrib/115451235890270717661/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocICGncnUyR3Hp7Ha2SHFcs_Uufp3t5WKzF-Ga23CyJy4_kIGg=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-05-25T12:23:30.257025Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJdmEzczZvcUpyQ2hnRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJdmEzczZvcUpyQ2hnRRAB!2m1!1s0x3442a96c7e2a468f:0x888a9c9262ef504d"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

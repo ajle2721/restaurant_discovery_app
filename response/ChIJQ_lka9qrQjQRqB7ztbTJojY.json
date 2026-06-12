@@ -1,0 +1,133 @@
+{
+  "id": "ChIJQ_lka9qrQjQRqB7ztbTJojY",
+  "types": [
+    "taiwanese_restaurant",
+    "brunch_restaurant",
+    "japanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2771 5736",
+  "formattedAddress": "106台灣臺北市大安區光武里復興南路一段133-2號",
+  "location": {
+    "latitude": 25.042731,
+    "longitude": 121.54426029999999
+  },
+  "rating": 4,
+  "websiteUri": "http://www.fullwant.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1781,
+  "displayName": {
+    "text": "扶旺號 - 復興店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJQ_lka9qrQjQRqB7ztbTJojY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOUVZHY3diMUpuWlVKRWFHaFFiRzV2UzNrdFluYxAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 3,
+      "text": {
+        "text": "2026.03.04\n🥜花生煉乳吐司-60元\n內餡算蠻多的，非常罪惡非常甜\n\n🌯馬令奇蛋捲餅-90元\n馬鈴薯蛋沙拉捲餅，普\n\n🍗：雞腿皮薄不乾柴，還行\n\n（加價套餐紅茶非～～～～～～常甜）\n價格稍微偏高一點\n地下內用空間沙發舒服",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2026.03.04\n🥜花生煉乳吐司-60元\n內餡算蠻多的，非常罪惡非常甜\n\n🌯馬令奇蛋捲餅-90元\n馬鈴薯蛋沙拉捲餅，普\n\n🍗：雞腿皮薄不乾柴，還行\n\n（加價套餐紅茶非～～～～～～常甜）\n價格稍微偏高一點\n地下內用空間沙發舒服",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "暴食小恐龍",
+        "uri": "https://www.google.com/maps/contrib/102091856631840018480/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWhivTMU7ydabU-Crtmms86IqoILYPJOfKgzucma_poD3iN9ds=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-03-05T07:22:50.255317711Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOUVZHY3diMUpuWlVKRWFHaFFiRzV2UzNrdFluYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOUVZHY3diMUpuWlVKRWFHaFFiRzV2UzNrdFluYxAB!2m1!1s0x3442abda6b64f943:0x36a2c9b4b5f31ea8"
+    },
+    {
+      "name": "places/ChIJQ_lka9qrQjQRqB7ztbTJojY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOTU0yRlpUbWQ0TUdwek1XbHVaMWxVUjI5bFNrRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "外帶日期：2026.1.23 早上8:35\n店員是外籍人士，服務態度都蠻親切的\n內用區在B1，好網美，很適合拍照，\nlogo設計的很可愛！\n現在已經沒有每日限定餐點\n但五星好評，一樣有送決明子茶一杯",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "外帶日期：2026.1.23 早上8:35\n店員是外籍人士，服務態度都蠻親切的\n內用區在B1，好網美，很適合拍照，\nlogo設計的很可愛！\n現在已經沒有每日限定餐點\n但五星好評，一樣有送決明子茶一杯",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "王怡蒨",
+        "uri": "https://www.google.com/maps/contrib/116802887401460334316/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUA47z6j6lmhKO9bXlw83VmJAJe98nsIK8nnw8rTxFzBeHiDkM=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-23T00:43:47.556279629Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOTU0yRlpUbWQ0TUdwek1XbHVaMWxVUjI5bFNrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOTU0yRlpUbWQ0TUdwek1XbHVaMWxVUjI5bFNrRRAB!2m1!1s0x3442abda6b64f943:0x36a2c9b4b5f31ea8"
+    },
+    {
+      "name": "places/ChIJQ_lka9qrQjQRqB7ztbTJojY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKZk5IUndjVUZqVTJkQ1JHeEtVbmxEV1dSS1lsRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "這次要跟大家分享的是在忠孝復興捷運站旁邊的一間港式餐點店 扶旺號（復興店）。我自己覺得餐點還不錯吃，不過比較建議大家選擇外帶，因為內用區在地下室，環境稍微潮濕一點。\n\n我這次點了三樣：招牌鐵板吐司、招牌炒飯、牛軋起司鐵板卷餅，另外還加了套餐（附地瓜薯條＋紅茶）。\n\n炒飯偏鹹，醬油味比較重，如果平常吃清淡的朋友可能會覺得口味重了一些。\n\n鐵板吐司吃起來很有早餐店的感覺，但又多了一點港式鹹味，算是蠻特別的體驗。\n\n牛軋起司鐵板卷餅是最後才注意到的餐點，包裝是直立紙袋設計，吃的時候起司容易往下掉，前段吃到的起司比較少，後段才比較多，整體吃起來沒有想像中那麼均衡。\n\n套餐部分就比較普通，薯條跟紅茶都算一般水準，但沒有難吃。整體來說，我會想再回訪，主要還是因為餐點口味不錯，只是會選擇外帶比較舒服。\n\n如果你剛好在附近，想吃點港式風味的餐點，可以試試看這間～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這次要跟大家分享的是在忠孝復興捷運站旁邊的一間港式餐點店 扶旺號（復興店）。我自己覺得餐點還不錯吃，不過比較建議大家選擇外帶，因為內用區在地下室，環境稍微潮濕一點。\n\n我這次點了三樣：招牌鐵板吐司、招牌炒飯、牛軋起司鐵板卷餅，另外還加了套餐（附地瓜薯條＋紅茶）。\n\n炒飯偏鹹，醬油味比較重，如果平常吃清淡的朋友可能會覺得口味重了一些。\n\n鐵板吐司吃起來很有早餐店的感覺，但又多了一點港式鹹味，算是蠻特別的體驗。\n\n牛軋起司鐵板卷餅是最後才注意到的餐點，包裝是直立紙袋設計，吃的時候起司容易往下掉，前段吃到的起司比較少，後段才比較多，整體吃起來沒有想像中那麼均衡。\n\n套餐部分就比較普通，薯條跟紅茶都算一般水準，但沒有難吃。整體來說，我會想再回訪，主要還是因為餐點口味不錯，只是會選擇外帶比較舒服。\n\n如果你剛好在附近，想吃點港式風味的餐點，可以試試看這間～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "旦旦℡¨甦（喵喵貓）",
+        "uri": "https://www.google.com/maps/contrib/106072270057788901931/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVs3kx7psrs9yqClAehIVOi4op3pMXl89q9FjXWm5SGBG94-W53Mw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-08-18T18:33:34.435776285Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKZk5IUndjVUZqVTJkQ1JHeEtVbmxEV1dSS1lsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKZk5IUndjVUZqVTJkQ1JHeEtVbmxEV1dSS1lsRRAB!2m1!1s0x3442abda6b64f943:0x36a2c9b4b5f31ea8"
+    },
+    {
+      "name": "places/ChIJQ_lka9qrQjQRqB7ztbTJojY/reviews/Ci9DQUlRQUNvZENodHljRjlvT201SlRHMDVTV3hrWkVGUmJsSllkM0ZCYzNOWVRVRRAB",
+      "relativePublishTimeDescription": "2 個月前",
+      "rating": 5,
+      "text": {
+        "text": "鐵板炒飯不錯吃耶，內用離開時手上帶著沒吃完的餐點，女店員看到還主動詢問需不需要裝紙袋比較方便，很棒",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "鐵板炒飯不錯吃耶，內用離開時手上帶著沒吃完的餐點，女店員看到還主動詢問需不需要裝紙袋比較方便，很棒",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "香豆腐（豆腐）",
+        "uri": "https://www.google.com/maps/contrib/109594398185527246933/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocImPzvAK7h5-wqHqZ6R9lDmDlwTu40FABgd_t_O4MsAGkdmJlo=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-03-02T15:46:11.935444856Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201SlRHMDVTV3hrWkVGUmJsSllkM0ZCYzNOWVRVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201SlRHMDVTV3hrWkVGUmJsSllkM0ZCYzNOWVRVRRAB!2m1!1s0x3442abda6b64f943:0x36a2c9b4b5f31ea8"
+    },
+    {
+      "name": "places/ChIJQ_lka9qrQjQRqB7ztbTJojY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGWFVtcGpNMlJhUkhGS2RHdHJiME15WVVGMVgxRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第一次到這家店內用，環境和飾品擺設讓人看了很舒服，餐點不錯吃~😋",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次到這家店內用，環境和飾品擺設讓人看了很舒服，餐點不錯吃~😋",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "邱微瑄",
+        "uri": "https://www.google.com/maps/contrib/111317468307780064318/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVLKJhh_1XjYFAcqxU_w7ga2YMdPiEl84mgjX3T6QF0hAsvc-zTUg=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-07T06:08:11.344543126Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGWFVtcGpNMlJhUkhGS2RHdHJiME15WVVGMVgxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGWFVtcGpNMlJhUkhGS2RHdHJiME15WVVGMVgxRRAB!2m1!1s0x3442abda6b64f943:0x36a2c9b4b5f31ea8"
+    }
+  ]
+}

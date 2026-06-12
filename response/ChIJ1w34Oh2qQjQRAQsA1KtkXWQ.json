@@ -1,0 +1,140 @@
+{
+  "id": "ChIJ1w34Oh2qQjQRAQsA1KtkXWQ",
+  "types": [
+    "pizza_delivery",
+    "meal_delivery",
+    "food_delivery",
+    "meal_takeaway",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2933 3969",
+  "formattedAddress": "11675台灣臺北市文山區萬隆里羅斯福路五段242號",
+  "location": {
+    "latitude": 25.001306,
+    "longitude": 121.538965
+  },
+  "rating": 4.5,
+  "websiteUri": "https://www.pizzahut.com.tw/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 539,
+  "displayName": {
+    "text": "Pizza Hut 必勝客-景美萬隆店",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Popular delivery, carry-out & dine-in chain known for pizza, wings & pasta, plus sides & desserts.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ1w34Oh2qQjQRAQsA1KtkXWQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tsMVUxRldNVlpPZEdad2FUSkxNVkZ0Y0daQlQxRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 1,
+      "text": {
+        "text": "爛透了。\n\n我用了電子票卷，有10種口味可挑，但沒有菜單可看（我說上週來還有，推託說換菜單了），唸了四個大品相（雞肉、海鮮、夏威夷、某某），我問說有10種啊，\n\n櫃檯回我說「這樣我要唸很久」。\n\n令人聽不下去，完全打壞了用餐的心情。\n\n不想服務就不要來接啊。懶惰的話你手寫一張啊。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "爛透了。\n\n我用了電子票卷，有10種口味可挑，但沒有菜單可看（我說上週來還有，推託說換菜單了），唸了四個大品相（雞肉、海鮮、夏威夷、某某），我問說有10種啊，\n\n櫃檯回我說「這樣我要唸很久」。\n\n令人聽不下去，完全打壞了用餐的心情。\n\n不想服務就不要來接啊。懶惰的話你手寫一張啊。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "紀小蛋",
+        "uri": "https://www.google.com/maps/contrib/116751182294361713197/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVAPBoEcS1zNlMriF9LI0ZWKm-nxyWTFUqYWYjoFPHqA2XbQDO3=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-08T12:51:56.063472151Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tsMVUxRldNVlpPZEdad2FUSkxNVkZ0Y0daQlQxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tsMVUxRldNVlpPZEdad2FUSkxNVkZ0Y0daQlQxRRAB!2m1!1s0x3442aa1d3af80dd7:0x645d64abd4000b01"
+    },
+    {
+      "name": "places/ChIJ1w34Oh2qQjQRAQsA1KtkXWQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUREMWVHQnhBRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "非常失望新口味的起司牛肉大蝦；牛肉醃過搭起司,非常非常的鹹,鹹到吃不出肉的原味,而且很卡牙.\n再搭上兩種起司及表面BBQ sauce?及底層茄紅醬的鹹!\n大蝦應有新鮮,但完合吃不出原味了.\n和之前的月見起司牛很像,白白浪費好食材!\n看著廣告,對於這麼好的原料,很響往好吃的大餐,没想到大失所望!",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "非常失望新口味的起司牛肉大蝦；牛肉醃過搭起司,非常非常的鹹,鹹到吃不出肉的原味,而且很卡牙.\n再搭上兩種起司及表面BBQ sauce?及底層茄紅醬的鹹!\n大蝦應有新鮮,但完合吃不出原味了.\n和之前的月見起司牛很像,白白浪費好食材!\n看著廣告,對於這麼好的原料,很響往好吃的大餐,没想到大失所望!",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lee Jill",
+        "uri": "https://www.google.com/maps/contrib/116788377311151250613/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIKxFBn-wHe_FcwW2mCT9opnbuo1fRvY6ihLD9uL-JHcIL8Zw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-11-27T11:42:26.539352044Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUREMWVHQnhBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUREMWVHQnhBRRAB!2m1!1s0x3442aa1d3af80dd7:0x645d64abd4000b01"
+    },
+    {
+      "name": "places/ChIJ1w34Oh2qQjQRAQsA1KtkXWQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CdU1GUktNMFJTVERWeGJIcFRObHBaZWtoUVUwRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 2,
+      "text": {
+        "text": "點了一個79元副餐雞塊只有四塊+一塊邊角料⋯太誇張",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "點了一個79元副餐雞塊只有四塊+一塊邊角料⋯太誇張",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Tiff Li",
+        "uri": "https://www.google.com/maps/contrib/104925234927599565128/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVVw2pjFBFNweVI9nn-QCiTAyKfUZOaSQgxmLL88tRTxcYgq4n5dQ=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-01-28T11:40:59.377151033Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CdU1GUktNMFJTVERWeGJIcFRObHBaZWtoUVUwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CdU1GUktNMFJTVERWeGJIcFRObHBaZWtoUVUwRRAB!2m1!1s0x3442aa1d3af80dd7:0x645d64abd4000b01"
+    },
+    {
+      "name": "places/ChIJ1w34Oh2qQjQRAQsA1KtkXWQ/reviews/ChdDSUhNMG9nS0VJQ0FnTUNZanFIdGt3RRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "在附近咖啡廳看到紙包飯的套餐覺得好酷就預訂了一份回程順路拿！~剛好App裡面有+1元送小雙翅腿的方案就加點了~\n嗯總體來說我覺得很像超商能吃到的燉飯丼飯類口感，只是上面的海鮮更加豐富多樣一些！值不值得見仁見智但也不到難吃！要特別吃嗎也不用哈哈哈！\n挺新鮮的就是~~然後櫃檯的服務生很有朝氣！蠻有趣的！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "在附近咖啡廳看到紙包飯的套餐覺得好酷就預訂了一份回程順路拿！~剛好App裡面有+1元送小雙翅腿的方案就加點了~\n嗯總體來說我覺得很像超商能吃到的燉飯丼飯類口感，只是上面的海鮮更加豐富多樣一些！值不值得見仁見智但也不到難吃！要特別吃嗎也不用哈哈哈！\n挺新鮮的就是~~然後櫃檯的服務生很有朝氣！蠻有趣的！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "YI WEN CHIEN (有妖四處飄_文文)",
+        "uri": "https://www.google.com/maps/contrib/116887029036108706527/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUl97TCKAA2VE6hq_yd_Z-waTgebllf29zIRDeluAxtfboWv2HX-w=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-05-04T09:00:01.302370Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNZanFIdGt3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNZanFIdGt3RRAB!2m1!1s0x3442aa1d3af80dd7:0x645d64abd4000b01"
+    },
+    {
+      "name": "places/ChIJ1w34Oh2qQjQRAQsA1KtkXWQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4dmIyUmhiR3MyUlVwNlRXSlVjVVpVYWtsd1VYYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 1,
+      "text": {
+        "text": "比原定要到的時間晚了一個小時，就想要用100折價卷了事，態度又差，送來的餐點也是微冷掉，爛",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "比原定要到的時間晚了一個小時，就想要用100折價卷了事，態度又差，送來的餐點也是微冷掉，爛",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "23紀雅馨",
+        "uri": "https://www.google.com/maps/contrib/116149995548610313502/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWmoFFDMhqXkytHG3YEp6VCDq_62YGY8nylMdLIAAlXQOuIUXrxWw=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-20T11:31:57.565008567Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4dmIyUmhiR3MyUlVwNlRXSlVjVVpVYWtsd1VYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4dmIyUmhiR3MyUlVwNlRXSlVjVVpVYWtsd1VYYxAB!2m1!1s0x3442aa1d3af80dd7:0x645d64abd4000b01"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

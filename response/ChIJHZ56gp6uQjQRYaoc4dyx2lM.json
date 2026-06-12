@@ -1,0 +1,135 @@
+{
+  "id": "ChIJHZ56gp6uQjQRYaoc4dyx2lM",
+  "types": [
+    "chinese_restaurant",
+    "taiwanese_restaurant",
+    "asian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2838 3250",
+  "formattedAddress": "111台灣臺北市士林區福志里雨農路31號",
+  "location": {
+    "latitude": 25.0989039,
+    "longitude": 121.53224080000001
+  },
+  "rating": 4.3,
+  "websiteUri": "https://www.facebook.com/%E5%B0%8F%E8%83%96-%E5%90%89%E7%A5%A5%E5%B0%8F%E9%A4%A8-598425126888171/info/?tab=page_info",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 845,
+  "displayName": {
+    "text": "吉祥小館",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJHZ56gp6uQjQRYaoc4dyx2lM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWbWJEQmtkVkJ5VW00MmEzcHpNMmN0ZFVGamNVRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "服務員態度親切\n餐點上菜速度快\n料理吃起來好吃😋\n大人小孩都很愛\n很適合家庭聚會或是跟親朋好友來吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "服務員態度親切\n餐點上菜速度快\n料理吃起來好吃😋\n大人小孩都很愛\n很適合家庭聚會或是跟親朋好友來吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃國倫",
+        "uri": "https://www.google.com/maps/contrib/114620338196406358382/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL1kmLU0lUFBXwOfAhzfRgzVHJR8K5x6FxDDxrkveMAK9GfWA=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-12-25T10:17:27.630938351Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWbWJEQmtkVkJ5VW00MmEzcHpNMmN0ZFVGamNVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWbWJEQmtkVkJ5VW00MmEzcHpNMmN0ZFVGamNVRRAB!2m1!1s0x3442ae9e827a9e1d:0x53dab1dce11caa61"
+    },
+    {
+      "name": "places/ChIJHZ56gp6uQjQRYaoc4dyx2lM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5SU5ERktRVUZtVWs5dlVpMXllSHBMWm1Sd1RVRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 4,
+      "text": {
+        "text": "蒜泥鮮蚵 320 鮮蚵新鮮，如果蒜泥要分開要先說。\n\n五更腸旺250 不會很辣，鴨血很多，腸不多。\n\n紅燒獅子頭 感覺必點🤣\n\n放山雞很嫩，有叫桌菜很適合預留。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "蒜泥鮮蚵 320 鮮蚵新鮮，如果蒜泥要分開要先說。\n\n五更腸旺250 不會很辣，鴨血很多，腸不多。\n\n紅燒獅子頭 感覺必點🤣\n\n放山雞很嫩，有叫桌菜很適合預留。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Doris Chang",
+        "uri": "https://www.google.com/maps/contrib/102523164366084319480/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWgzcFtCLwQmQhgcgEDukw9-rOrgj42NoT-uaTLFslPACg8EkRyIw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-08-09T12:46:51.362492410Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5SU5ERktRVUZtVWs5dlVpMXllSHBMWm1Sd1RVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5SU5ERktRVUZtVWs5dlVpMXllSHBMWm1Sd1RVRRAB!2m1!1s0x3442ae9e827a9e1d:0x53dab1dce11caa61"
+    },
+    {
+      "name": "places/ChIJHZ56gp6uQjQRYaoc4dyx2lM/reviews/ChdDSUhNMG9nS0VJQ0FnSUREdHJieHF3RRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "這家真的相見恨晚!!!當天點的每一道菜都好好吃!!!!\n吉祥小館價格實惠、餐點口味很棒、菜色選擇性多、上菜速度很快、老闆跟店員服務態度都很好\n佛跳牆:料多實在,湯頭走清爽型的不會太過濃郁吃起來有負擔 是一道保有古早味的料理\n宮保雞丁:真的很少吃到雞丁比花生跟乾辣椒還多的!雞丁口感鮮嫩多汁調味適中不會過鹹\n糖醋排骨:排骨不會很老咬不動,醬汁勾芡的恰恰好不會很稠肉量很多很划算!\n蔥爆牛肉:肉超多超嫩,蔥爆的鍋香氣十足很適合扒飯吃\n五更腸旺:裡面的腸子洗得很乾淨沒有臭味,整體調味很棒鹹香下飯\n紅燒魚:裡面的蒜頭好好吃魚很新鮮 調味的醬汁也很棒~於新鮮怎麼料理都不會採雷\n會再回訪的餐廳,式和朋友聚會家庭聚餐都超適合的!!",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這家真的相見恨晚!!!當天點的每一道菜都好好吃!!!!\n吉祥小館價格實惠、餐點口味很棒、菜色選擇性多、上菜速度很快、老闆跟店員服務態度都很好\n佛跳牆:料多實在,湯頭走清爽型的不會太過濃郁吃起來有負擔 是一道保有古早味的料理\n宮保雞丁:真的很少吃到雞丁比花生跟乾辣椒還多的!雞丁口感鮮嫩多汁調味適中不會過鹹\n糖醋排骨:排骨不會很老咬不動,醬汁勾芡的恰恰好不會很稠肉量很多很划算!\n蔥爆牛肉:肉超多超嫩,蔥爆的鍋香氣十足很適合扒飯吃\n五更腸旺:裡面的腸子洗得很乾淨沒有臭味,整體調味很棒鹹香下飯\n紅燒魚:裡面的蒜頭好好吃魚很新鮮 調味的醬汁也很棒~於新鮮怎麼料理都不會採雷\n會再回訪的餐廳,式和朋友聚會家庭聚餐都超適合的!!",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "EVELYN WU",
+        "uri": "https://www.google.com/maps/contrib/104396752380053582910/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWqhTyVicFhj0rzMa6vUrADJZwNwk0PjhQel7rrz5zFCdfcrpgt=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2024-04-09T07:10:27.752450Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUREdHJieHF3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUREdHJieHF3RRAB!2m1!1s0x3442ae9e827a9e1d:0x53dab1dce11caa61"
+    },
+    {
+      "name": "places/ChIJHZ56gp6uQjQRYaoc4dyx2lM/reviews/ChdDSUhNMG9nS0VJQ0FnTURBaG9qVDh3RRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "超級好的的餐廳\n1.客家小炒的調味有夠讚\n希望豆乾可以選更有口感的\n吃起來會更讚\n獅子頭需要預約\n當天很剛好是最後一份\n裡面菜菜很多相當於一個手掌的量\n2.獅子頭吃起來香甜可口\n表皮脆脆的裡面嫩嫩的\n超讚的～\n3.鐵板豆腐\n裡面的配菜跟調味有夠讚\n蝦仁新鮮姑姑有夠大顆有夠讚\n裡面的碎肉有夠讚\n主角豆腐外皮脆脆裡面嫩嫩\n一盤至少可以配3碗飯\n有夠無敵讚\n白飯20元吃到飽算是對男生狠優惠\n裡面不敢吃辣要直接跟老闆娘講\n他可能會直接幫你配中辣\n辣歸辣但還是很讚",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "超級好的的餐廳\n1.客家小炒的調味有夠讚\n希望豆乾可以選更有口感的\n吃起來會更讚\n獅子頭需要預約\n當天很剛好是最後一份\n裡面菜菜很多相當於一個手掌的量\n2.獅子頭吃起來香甜可口\n表皮脆脆的裡面嫩嫩的\n超讚的～\n3.鐵板豆腐\n裡面的配菜跟調味有夠讚\n蝦仁新鮮姑姑有夠大顆有夠讚\n裡面的碎肉有夠讚\n主角豆腐外皮脆脆裡面嫩嫩\n一盤至少可以配3碗飯\n有夠無敵讚\n白飯20元吃到飽算是對男生狠優惠\n裡面不敢吃辣要直接跟老闆娘講\n他可能會直接幫你配中辣\n辣歸辣但還是很讚",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "呂冠廷",
+        "uri": "https://www.google.com/maps/contrib/113836309606538055029/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV2YMj4_-qiu2oQMyBAeLLXLTab3A2rZt7GvXXqY46i_MCwDcM=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-02-08T12:48:19.787669Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBaG9qVDh3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBaG9qVDh3RRAB!2m1!1s0x3442ae9e827a9e1d:0x53dab1dce11caa61"
+    },
+    {
+      "name": "places/ChIJHZ56gp6uQjQRYaoc4dyx2lM/reviews/ChZDSUhNMG9nS0VJQ0FnSUNadVBtVEtREAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "份量足、價格實在、要先訂位、玉米雞、獅子頭要先預約、白飯以人頭計價、每人$20、可以續碗！\n\n清炒蝦-🦐新鮮肥美、一份十隻、大推$300\n\n椒鹽排骨-酥，鹹但是不夠香$270\n\n玉米雞-Q彈、甜、有嚼勁、跟一般市售的雞肉不一樣$390\n\n五更腸旺-太油、大腸不夠軟、不夠辣、整體味道不融合、不推薦$230\n\n竹筍排骨湯-竹筍鮮甜細緻、湯頭清爽、假日限定、服務人員説竹筍湯要大鍋煮才好吃、$180\n\n香煎虱目魚-魚新鮮、魚肚的部分油脂非常豐富、再加上煎得非常酥、好吃、大推$220\n\n獅子頭-招牌菜、中規中矩、因為我個人原本就不喜歡吃獅子頭、所以不特別評論$270\n\n鹹酥🦐-蝦子鮮甜又大隻、調位部分蔥、蒜、辣椒、不知道是不是為了擺盤美觀、爆炒的不夠久、有點生生的感覺、但是還是好吃$300\n\n蔥爆牛肉-份量多、味道普通、因為點太多菜吃不完、所以打包、隔天再用鍋子炒一下加一點水、結果還不錯喔！很下飯$260\n\n糖醋排骨-偏甜、酸度不夠$270\n\n點菜建議-一個人最多點一道主菜、再加上一、二種青菜、還有無限制可績的白飯一定吃得飽！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "份量足、價格實在、要先訂位、玉米雞、獅子頭要先預約、白飯以人頭計價、每人$20、可以續碗！\n\n清炒蝦-🦐新鮮肥美、一份十隻、大推$300\n\n椒鹽排骨-酥，鹹但是不夠香$270\n\n玉米雞-Q彈、甜、有嚼勁、跟一般市售的雞肉不一樣$390\n\n五更腸旺-太油、大腸不夠軟、不夠辣、整體味道不融合、不推薦$230\n\n竹筍排骨湯-竹筍鮮甜細緻、湯頭清爽、假日限定、服務人員説竹筍湯要大鍋煮才好吃、$180\n\n香煎虱目魚-魚新鮮、魚肚的部分油脂非常豐富、再加上煎得非常酥、好吃、大推$220\n\n獅子頭-招牌菜、中規中矩、因為我個人原本就不喜歡吃獅子頭、所以不特別評論$270\n\n鹹酥🦐-蝦子鮮甜又大隻、調位部分蔥、蒜、辣椒、不知道是不是為了擺盤美觀、爆炒的不夠久、有點生生的感覺、但是還是好吃$300\n\n蔥爆牛肉-份量多、味道普通、因為點太多菜吃不完、所以打包、隔天再用鍋子炒一下加一點水、結果還不錯喔！很下飯$260\n\n糖醋排骨-偏甜、酸度不夠$270\n\n點菜建議-一個人最多點一道主菜、再加上一、二種青菜、還有無限制可績的白飯一定吃得飽！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "May Hou",
+        "uri": "https://www.google.com/maps/contrib/109888979133378247875/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLzg4T5TANFU42L5slzxEvm-EeVtyFDHFVhFM991u6EE-RLskw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2024-07-31T12:46:44.075538Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNadVBtVEtREAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNadVBtVEtREAE!2m1!1s0x3442ae9e827a9e1d:0x53dab1dce11caa61"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

@@ -1,0 +1,136 @@
+{
+  "id": "ChIJM3P2ruCpQjQREtSGnl9tftI",
+  "types": [
+    "italian_restaurant",
+    "brunch_restaurant",
+    "cafe",
+    "american_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 3365 1995",
+  "formattedAddress": "106台灣臺北市大安區羅斯福路三段283巷3號",
+  "location": {
+    "latitude": 25.0182077,
+    "longitude": 121.53150749999999
+  },
+  "rating": 4,
+  "websiteUri": "https://www.facebook.com/%E7%A7%98%E5%BE%91%E5%B0%8F%E9%A3%9F%E5%85%89-2900973299945328/?modal=admin_todo_tour",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 598,
+  "displayName": {
+    "text": "秘徑小食光",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJM3P2ruCpQjQREtSGnl9tftI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWelJFaERjRTlIVnpOc2NXMXBTalJYT0VKU2JuYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "去吃下午茶，空間舒適乾淨特別是洗手間，可見老闆是個愛乾淨的人。一開始要點鬆餅時，看了別人評價說鬆餅沒熟，心裡有點怕怕，最後點了水果麻糬鬆餅，才知道之前評價的人誤會了，麻糬鬆餅裡面的顏色本來就那樣啊！好吃、量多，水果也新鮮，鬆餅本人沒有不熟的問題啊！\n\n飲品原先點了兩個無糖茶飲，都沒有賣，最後點蜜桃烏龍，沒想到是微糖的，有點可惜，無糖應該會更好。\n\n另外，建議門口盆栽可以整理一下，廢棄的塑膠盆可以移除，看起來會更美喔！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "去吃下午茶，空間舒適乾淨特別是洗手間，可見老闆是個愛乾淨的人。一開始要點鬆餅時，看了別人評價說鬆餅沒熟，心裡有點怕怕，最後點了水果麻糬鬆餅，才知道之前評價的人誤會了，麻糬鬆餅裡面的顏色本來就那樣啊！好吃、量多，水果也新鮮，鬆餅本人沒有不熟的問題啊！\n\n飲品原先點了兩個無糖茶飲，都沒有賣，最後點蜜桃烏龍，沒想到是微糖的，有點可惜，無糖應該會更好。\n\n另外，建議門口盆栽可以整理一下，廢棄的塑膠盆可以移除，看起來會更美喔！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Clair Chuang",
+        "uri": "https://www.google.com/maps/contrib/115839683309902627170/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL3V3_HqsT33MKH6aNSRbwsgaBmRznOGQ8pIkZCnsQj049ypVjG=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-18T01:01:02.374245254Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWelJFaERjRTlIVnpOc2NXMXBTalJYT0VKU2JuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWelJFaERjRTlIVnpOc2NXMXBTalJYT0VKU2JuYxAB!2m1!1s0x3442a9e0aef67333:0xd27e6d5f9e86d412"
+    },
+    {
+      "name": "places/ChIJM3P2ruCpQjQREtSGnl9tftI/reviews/Ci9DQUlRQUNvZENodHljRjlvT2paS2RtZ3pVMjVKZEU1elZEVTFOakV3U1dsQ2JsRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "台電大樓站的小秘境餐廳，如不是要到附近聚餐的不容易發現。環境優雅，空間大，適合朋友聚餐跟家庭聚會。選的是鮭魚燉飯，星期天晚上吃的份量很足夠，價格算合理，動作蠻快就上菜了。未來公館商圈聚餐去處又多一個。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "台電大樓站的小秘境餐廳，如不是要到附近聚餐的不容易發現。環境優雅，空間大，適合朋友聚餐跟家庭聚會。選的是鮭魚燉飯，星期天晚上吃的份量很足夠，價格算合理，動作蠻快就上菜了。未來公館商圈聚餐去處又多一個。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Luke Hsieh",
+        "uri": "https://www.google.com/maps/contrib/113088314019193768254/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXn7TQmNPIcjBKAwcJrfRi_F7nGEimfJSYP6-MYqpLRsYk98bK68g=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-11-11T16:31:43.690824016Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2paS2RtZ3pVMjVKZEU1elZEVTFOakV3U1dsQ2JsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2paS2RtZ3pVMjVKZEU1elZEVTFOakV3U1dsQ2JsRRAB!2m1!1s0x3442a9e0aef67333:0xd27e6d5f9e86d412"
+    },
+    {
+      "name": "places/ChIJM3P2ruCpQjQREtSGnl9tftI/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GRmQySkNVVTVsVVZwRU9GQkZhM055YWpnM05WRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 3,
+      "text": {
+        "text": "商業午餐：碳烤豬排$280\n豬排：中等\n白飯：超難吃，結塊，太軟，很像麻糬前狀態\n湯：只有玉米味\n配菜：豆干不錯吃、綠菜普通\n水煮蛋：接近溏心蛋，好吃\n甜點：焦糖布丁很好吃",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "商業午餐：碳烤豬排$280\n豬排：中等\n白飯：超難吃，結塊，太軟，很像麻糬前狀態\n湯：只有玉米味\n配菜：豆干不錯吃、綠菜普通\n水煮蛋：接近溏心蛋，好吃\n甜點：焦糖布丁很好吃",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃一倫",
+        "uri": "https://www.google.com/maps/contrib/101667882214191484793/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXSXJSLFQjK82-lmN_FARq-aYCyYru5UT6BetytYFa3Y91jsg=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-10-02T04:25:17.251516210Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GRmQySkNVVTVsVVZwRU9GQkZhM055YWpnM05WRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GRmQySkNVVTVsVVZwRU9GQkZhM055YWpnM05WRRAB!2m1!1s0x3442a9e0aef67333:0xd27e6d5f9e86d412"
+    },
+    {
+      "name": "places/ChIJM3P2ruCpQjQREtSGnl9tftI/reviews/ChdDSUhNMG9nS0VJQ0FnTURBNXNYUXN3RRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "店員很服務很熟稔 快速招呼安排位子\n店內很寬敞舒適 明亮 廁所也很乾淨\n默默邊上餐邊收桌子 桌子一直都保持乾淨\n今天用餐是沒有收服務費的\n\n上菜速度比預想快\n濃湯味道很普通但是夠熱\n沒有很濃偏稀 不奶也沒有很咸\n\n貝果很脆很好吃就是有點刮嘴\n裡面配料跟味道比較單一\n只有鮭魚生菜配一點起士跟芥末梓醬\n吃到後來有點膩口\n太陽蛋煎的很完美灑點鹽提味\n薯條脆而不油膩 沙拉新鮮～\n\n燉牛肉很普通 聞起來很像 牛肉軟嫩微柴\n不是濃稠的那種 飯煮的還可以 份量足\n鹹淡合宜 還算下飯\n\n沒有拍到飲料\n約克夏鮮奶茶熱的好好喝\n但是大約有5分糖的甜度\n茶味不重 奶味溫醇",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店員很服務很熟稔 快速招呼安排位子\n店內很寬敞舒適 明亮 廁所也很乾淨\n默默邊上餐邊收桌子 桌子一直都保持乾淨\n今天用餐是沒有收服務費的\n\n上菜速度比預想快\n濃湯味道很普通但是夠熱\n沒有很濃偏稀 不奶也沒有很咸\n\n貝果很脆很好吃就是有點刮嘴\n裡面配料跟味道比較單一\n只有鮭魚生菜配一點起士跟芥末梓醬\n吃到後來有點膩口\n太陽蛋煎的很完美灑點鹽提味\n薯條脆而不油膩 沙拉新鮮～\n\n燉牛肉很普通 聞起來很像 牛肉軟嫩微柴\n不是濃稠的那種 飯煮的還可以 份量足\n鹹淡合宜 還算下飯\n\n沒有拍到飲料\n約克夏鮮奶茶熱的好好喝\n但是大約有5分糖的甜度\n茶味不重 奶味溫醇",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "彭郁婷",
+        "uri": "https://www.google.com/maps/contrib/101431704735201436587/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUrwaxJWc-443QYtA_-MX9Kb0BfKvaImjaW_S0SVwj0__koNyU=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-02-08T17:27:04.426082Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTURBNXNYUXN3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTURBNXNYUXN3RRAB!2m1!1s0x3442a9e0aef67333:0xd27e6d5f9e86d412"
+    },
+    {
+      "name": "places/ChIJM3P2ruCpQjQREtSGnl9tftI/reviews/ChZDSUhNMG9nS0VJQ0FnSURubHVLRFZnEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "蕈菇奶醬義大利麵好吃，已經很推了。殊不知例湯才是最猛的那個。例湯是玉米濃湯，有熬煮的洋蔥、馬鈴薯、玉米，吃起來非常鮮甜濃郁，超讚！內用環境很大、舒適，某些位置甚至有插座。氣氛非常適合朋友聚餐聊天。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "蕈菇奶醬義大利麵好吃，已經很推了。殊不知例湯才是最猛的那個。例湯是玉米濃湯，有熬煮的洋蔥、馬鈴薯、玉米，吃起來非常鮮甜濃郁，超讚！內用環境很大、舒適，某些位置甚至有插座。氣氛非常適合朋友聚餐聊天。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "欸冷綠",
+        "uri": "https://www.google.com/maps/contrib/102761803572873673912/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWa55RLYZ1fYtnyC44xZnO98G0SDaNZqGjUccUTjeT2Q-X58bxg=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2024-10-05T13:41:48.860481Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURubHVLRFZnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURubHVLRFZnEAE!2m1!1s0x3442a9e0aef67333:0xd27e6d5f9e86d412"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": false
+}

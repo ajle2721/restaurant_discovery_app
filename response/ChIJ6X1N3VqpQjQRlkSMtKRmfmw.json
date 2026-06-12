@@ -1,0 +1,134 @@
+{
+  "id": "ChIJ6X1N3VqpQjQRlkSMtKRmfmw",
+  "types": [
+    "coffee_shop",
+    "cafe",
+    "food_store",
+    "food",
+    "store",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2595 3480",
+  "formattedAddress": "104台灣臺北市中山區晴光里農安街53號",
+  "location": {
+    "latitude": 25.064995999999997,
+    "longitude": 121.52694600000001
+  },
+  "rating": 4.2,
+  "websiteUri": "http://www.lottycafe.biz/menus",
+  "userRatingCount": 188,
+  "displayName": {
+    "text": "Lotty Café",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ6X1N3VqpQjQRlkSMtKRmfmw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oTGVuUjVPV0ZFZDJsT00wTlpNM0kxYTNsTVVYYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "咖啡太好喝了吧！！！驚為天人 ，搭配套餐也不貴，CP值有夠高，點了印度香料奶茶，好香，層次豐富，是難得一見的高手咖啡～\n\n份量也比一般店多個3分之一，我不住這附近只是路過，但特別來這邊看書喝咖啡很值得",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "咖啡太好喝了吧！！！驚為天人 ，搭配套餐也不貴，CP值有夠高，點了印度香料奶茶，好香，層次豐富，是難得一見的高手咖啡～\n\n份量也比一般店多個3分之一，我不住這附近只是路過，但特別來這邊看書喝咖啡很值得",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yi Ting Chiang",
+        "uri": "https://www.google.com/maps/contrib/110531232034385818239/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV1ObicZWYTTN8VQd8-wB4o-3fG1m25tb_am9UJKgWFLoLPUlte7w=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-26T02:35:53.501464566Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oTGVuUjVPV0ZFZDJsT00wTlpNM0kxYTNsTVVYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oTGVuUjVPV0ZFZDJsT00wTlpNM0kxYTNsTVVYYxAB!2m1!1s0x3442a95add4d7de9:0x6c7e66a4b48c4496"
+    },
+    {
+      "name": "places/ChIJ6X1N3VqpQjQRlkSMtKRmfmw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oSlRFNU9NRk16Y0hJeVRpMUVUMFkzVHkweE1uYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 4,
+      "text": {
+        "text": "很常從這經過，總是看到有人坐在門口桌前喝飲料聊天，但一直沒有機會入內用餐。\n\n這次在七月初再次經過，因剛好遇到午後雷陣雨，我們就臨時在這停留喝個咖啡下午茶，飲料和甜點比預期好！\n\n隔壁桌有幾位退休的爺爺們，看起來應該是常客，假日聚在一起聊聊時事、分享經驗，挺愜意的。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很常從這經過，總是看到有人坐在門口桌前喝飲料聊天，但一直沒有機會入內用餐。\n\n這次在七月初再次經過，因剛好遇到午後雷陣雨，我們就臨時在這停留喝個咖啡下午茶，飲料和甜點比預期好！\n\n隔壁桌有幾位退休的爺爺們，看起來應該是常客，假日聚在一起聊聊時事、分享經驗，挺愜意的。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jeff Kuo",
+        "uri": "https://www.google.com/maps/contrib/102930559243433350796/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJiZIeBDCmst-CuuufzWcbv4Wpr7rNYEjL0do1It6WZuCQS8A=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-09-06T12:30:55.221728223Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oSlRFNU9NRk16Y0hJeVRpMUVUMFkzVHkweE1uYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oSlRFNU9NRk16Y0hJeVRpMUVUMFkzVHkweE1uYxAB!2m1!1s0x3442a95add4d7de9:0x6c7e66a4b48c4496"
+    },
+    {
+      "name": "places/ChIJ6X1N3VqpQjQRlkSMtKRmfmw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tFNGJVaE5jV1ZZUWtGWlJGZHljWE0yVmxCQlUzYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "環境很好，飲料好喝，店員也很和善！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境很好，飲料好喝，店員也很和善！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "葉芮均",
+        "uri": "https://www.google.com/maps/contrib/114941312169783889467/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLMsgv4sNYuHG-NGNNbP8YDy0irDRQaSmSRxrB2Mm89HLjROw=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-03-08T06:39:19.005950032Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tFNGJVaE5jV1ZZUWtGWlJGZHljWE0yVmxCQlUzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tFNGJVaE5jV1ZZUWtGWlJGZHljWE0yVmxCQlUzYxAB!2m1!1s0x3442a95add4d7de9:0x6c7e66a4b48c4496"
+    },
+    {
+      "name": "places/ChIJ6X1N3VqpQjQRlkSMtKRmfmw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNidnNyenVRRRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "屬於老式裝潢的咖啡廳，有賣飲品、甜點、鹹食，菜單還算滿豐富的，服務人員很勤勞的加水，服務很好。\n\n飲品的Size滿有份量的，但價格也比較高沒錯，點了阿薩姆鮮奶茶去冰無糖，很爽口，但覺得奶味稍微淡了些，感覺鮮奶的比例可以再多一點。另外有品嚐奇異果汁，味道很濃欸，滿有酸度的，喜歡奇異果的會很愛，有真材實料的感覺。\n\n鹹甜點我們都是點套餐，飲品就加價換購。食物我們點了蔬菜鮭魚鹹派、核桃巧克力生乳酪、焙茶乳酪和橙香提拉米蘇，我覺得都很好吃，雖然不到特別精緻，但口味都算到位，甜食的部分也不會過於甜膩。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "屬於老式裝潢的咖啡廳，有賣飲品、甜點、鹹食，菜單還算滿豐富的，服務人員很勤勞的加水，服務很好。\n\n飲品的Size滿有份量的，但價格也比較高沒錯，點了阿薩姆鮮奶茶去冰無糖，很爽口，但覺得奶味稍微淡了些，感覺鮮奶的比例可以再多一點。另外有品嚐奇異果汁，味道很濃欸，滿有酸度的，喜歡奇異果的會很愛，有真材實料的感覺。\n\n鹹甜點我們都是點套餐，飲品就加價換購。食物我們點了蔬菜鮭魚鹹派、核桃巧克力生乳酪、焙茶乳酪和橙香提拉米蘇，我覺得都很好吃，雖然不到特別精緻，但口味都算到位，甜食的部分也不會過於甜膩。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "mu mu",
+        "uri": "https://www.google.com/maps/contrib/115675681630425395358/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVsS5iQfpLz5lSxUlc6zSXK7IYjemCdKDYC-EcFYkqtX6Qt54gmow=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2024-07-27T15:30:53.370702Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNidnNyenVRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNidnNyenVRRRAB!2m1!1s0x3442a95add4d7de9:0x6c7e66a4b48c4496"
+    },
+    {
+      "name": "places/ChIJ6X1N3VqpQjQRlkSMtKRmfmw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w5MU1YaE1jMmxaVWt4dmJqUnRkMDVvUVVsVFEwRRAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 5,
+      "text": {
+        "text": "一杯不簡單的咖啡，用心讓人感受到好品質！\n\n點心與咖啡都很用心，新推出來的西瓜拿鐵好好喝",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一杯不簡單的咖啡，用心讓人感受到好品質！\n\n點心與咖啡都很用心，新推出來的西瓜拿鐵好好喝",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hui Lin",
+        "uri": "https://www.google.com/maps/contrib/101520935820859810331/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjULgIk6J6KHRspF20F3Y9P5gEdNLejn4VpkVGyZfvr-eXk4jtm8=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-07-22T13:38:11.893760557Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w5MU1YaE1jMmxaVWt4dmJqUnRkMDVvUVVsVFEwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w5MU1YaE1jMmxaVWt4dmJqUnRkMDVvUVVsVFEwRRAB!2m1!1s0x3442a95add4d7de9:0x6c7e66a4b48c4496"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

@@ -1,0 +1,131 @@
+﻿{
+    "id":  "ChIJ--MWv0GtQjQRyoI54_BoueY",
+    "types":  [
+                  "italian_restaurant",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2633 8555#2",
+    "formattedAddress":  "114台灣臺北市內湖區金湖里成功路五段462號3樓",
+    "location":  {
+                     "latitude":  25.0733914,
+                     "longitude":  121.6064016
+                 },
+    "rating":  4.8,
+    "websiteUri":  "https://www.dahuparkhotel.com.tw/restaurant/hotel-floor-restaurant-bar/",
+    "userRatingCount":  727,
+    "displayName":  {
+                        "text":  "共味食光 HotelFloor",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJ--MWv0GtQjQRyoI54_BoueY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tKa1ZHdHdXWGM1TkdWZlh6SnJVMVJmWTBwVWFuYxAB",
+                        "relativePublishTimeDescription":  "2 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "餐點不錯，是個人想吃的\n這次共味經典蟹肉可樂餅班尼蛋\n大概有吃過好吃的蟹肉餅\n所以覺得這裡有點可惜",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "餐點不錯，是個人想吃的\n這次共味經典蟹肉可樂餅班尼蛋\n大概有吃過好吃的蟹肉餅\n所以覺得這裡有點可惜",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "RuoYuTaiwan",
+                                                  "uri":  "https://www.google.com/maps/contrib/111420246818176082192/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXono7MjJvghxX9fg60KnLg9vGOdbhaUI-iQltjbsHENN0Q2lo=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2026-03-06T16:29:03.310878385Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tKa1ZHdHdXWGM1TkdWZlh6SnJVMVJmWTBwVWFuYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tKa1ZHdHdXWGM1TkdWZlh6SnJVMVJmWTBwVWFuYxAB!2m1!1s0x3442ad41bf16e3fb:0xe6b968f0e33982ca"
+                    },
+                    {
+                        "name":  "places/ChIJ--MWv0GtQjQRyoI54_BoueY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2t4ak5rZGtaV0ZpYjJOMk5tWm1VMUY0T1VScldGRRAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "我覺得很不錯的一家餐廳，其實本身應該為飯店內部的餐廳，大門口不好找😆，目前用餐似乎不限時，但當天我們約坐到下午三點左右，位置上的電燈突然被關掉，所以推測應該是要趕客人換場（完餐），建議如果是換場或是休息時間到，可以跟客人說一下，我們會立即離開，不過餐點是好吃的，CP值高，店員態度也非常好，有機會會再光臨的",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "我覺得很不錯的一家餐廳，其實本身應該為飯店內部的餐廳，大門口不好找😆，目前用餐似乎不限時，但當天我們約坐到下午三點左右，位置上的電燈突然被關掉，所以推測應該是要趕客人換場（完餐），建議如果是換場或是休息時間到，可以跟客人說一下，我們會立即離開，不過餐點是好吃的，CP值高，店員態度也非常好，有機會會再光臨的",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "陳潔兒",
+                                                  "uri":  "https://www.google.com/maps/contrib/118232860300883922129/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocJ1UuJiIN6cIG4jR6GrKxghz88K7VZle3_aeLSU1Wie218fMw=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2025-12-25T10:48:50.572265279Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2t4ak5rZGtaV0ZpYjJOMk5tWm1VMUY0T1VScldGRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2t4ak5rZGtaV0ZpYjJOMk5tWm1VMUY0T1VScldGRRAB!2m1!1s0x3442ad41bf16e3fb:0xe6b968f0e33982ca"
+                    },
+                    {
+                        "name":  "places/ChIJ--MWv0GtQjQRyoI54_BoueY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tFM1kzWk9OV1JtV2pscVNYRlpVMUJzT0c5cFgyYxAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "菜色很多元，也很好吃。生意很好，服務親切。不過點餐app怪怪的，需要人工協助點餐。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "菜色很多元，也很好吃。生意很好，服務親切。不過點餐app怪怪的，需要人工協助點餐。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Martin Hsieh (馬丁謝)",
+                                                  "uri":  "https://www.google.com/maps/contrib/102199655360147461018/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjV69izw_TEiEfzEZ8-tZjbz6zLm_M63LsUoCi8bJghlxlVU6g2QeCM=s128-c0x00000000-cc-rp-mo-ba8"
+                                              },
+                        "publishTime":  "2025-12-20T08:54:18.775977094Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tFM1kzWk9OV1JtV2pscVNYRlpVMUJzT0c5cFgyYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tFM1kzWk9OV1JtV2pscVNYRlpVMUJzT0c5cFgyYxAB!2m1!1s0x3442ad41bf16e3fb:0xe6b968f0e33982ca"
+                    },
+                    {
+                        "name":  "places/ChIJ--MWv0GtQjQRyoI54_BoueY/reviews/ChdDSUhNMG9nS0VJQ0FnTUNZNUlqMjhRRRAB",
+                        "relativePublishTimeDescription":  "1 年前",
+                        "rating":  3,
+                        "text":  {
+                                     "text":  "位在捷運葫洲站附近，一棟旅店三樓的共味食光，內部空間還算蠻大的，當到了中午時段來店用餐的人還蠻多的☺️\n\n------------------ 餐點介紹 ------------------\n🍝蒜香白酒蛤蜊義大利麵 $360 + 套餐 $180\n麵體很好吃，軟硬適中，蛤蜊也十分的大顆，大概給了10顆左右吧😋 但麵上的炸蒜頭不夠酥脆，有點軟掉了，另外醬汁太油了，每吃一口義大利麵就喝了一口油的感覺🫠\n\n- 加套餐 $180\n套餐分別多了“麵包、沙拉、湯、甜點、飲料”，麵包內部Q彈外皮脆，塗上奶油後更是奶香十足❤️\n**今日的例湯是番茄湯，個人覺得有點太酸了😂 沒什麼新鮮番茄的鮮甜味，風味比較像是番茄罐頭的味道...\n**甜點選的是千層蛋糕，蛋糕塗的奶油有點像冰淇淋的感覺，算是蠻好吃的，沒有什麼香味，個人覺得一般般😅\n\n🍳鮮蝦酪梨班尼蛋 $360\n除了這盤外，餐前跟餐後各會附上果汁跟飲品，班尼蛋的部分底部麵包有個焦香味，口感又Q又彈，個人很喜歡~但上面的酪梨感覺有泡過檸檬汁之類的，太酸了，越吃越覺得不搭😂 去掉酪梨可能會好吃點...但蝦子很新鮮好ㄘ👍 **水果的部分，加上炙燒後的糖的葡萄柚超讚~ 中和掉了葡萄柚的苦味☺️\n\n----------------------------------------------\n整體來說，室內是很舒適的，只是冷氣開的有點太強了，另外餐點的部分雖然份量都很夠，但味道的部分就有點差強人意，cp值不算高...",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "位在捷運葫洲站附近，一棟旅店三樓的共味食光，內部空間還算蠻大的，當到了中午時段來店用餐的人還蠻多的☺️\n\n------------------ 餐點介紹 ------------------\n🍝蒜香白酒蛤蜊義大利麵 $360 + 套餐 $180\n麵體很好吃，軟硬適中，蛤蜊也十分的大顆，大概給了10顆左右吧😋 但麵上的炸蒜頭不夠酥脆，有點軟掉了，另外醬汁太油了，每吃一口義大利麵就喝了一口油的感覺🫠\n\n- 加套餐 $180\n套餐分別多了“麵包、沙拉、湯、甜點、飲料”，麵包內部Q彈外皮脆，塗上奶油後更是奶香十足❤️\n**今日的例湯是番茄湯，個人覺得有點太酸了😂 沒什麼新鮮番茄的鮮甜味，風味比較像是番茄罐頭的味道...\n**甜點選的是千層蛋糕，蛋糕塗的奶油有點像冰淇淋的感覺，算是蠻好吃的，沒有什麼香味，個人覺得一般般😅\n\n🍳鮮蝦酪梨班尼蛋 $360\n除了這盤外，餐前跟餐後各會附上果汁跟飲品，班尼蛋的部分底部麵包有個焦香味，口感又Q又彈，個人很喜歡~但上面的酪梨感覺有泡過檸檬汁之類的，太酸了，越吃越覺得不搭😂 去掉酪梨可能會好吃點...但蝦子很新鮮好ㄘ👍 **水果的部分，加上炙燒後的糖的葡萄柚超讚~ 中和掉了葡萄柚的苦味☺️\n\n----------------------------------------------\n整體來說，室內是很舒適的，只是冷氣開的有點太強了，另外餐點的部分雖然份量都很夠，但味道的部分就有點差強人意，cp值不算高...",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Mochi糬糬小日子",
+                                                  "uri":  "https://www.google.com/maps/contrib/117842788043906129675/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjW6t758FQLtBRISIOtwqjf_bXLSsb7ENuwFFK536qIQeVZVH9ZepA=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-05-01T13:50:58.867400Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnTUNZNUlqMjhRRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnTUNZNUlqMjhRRRAB!2m1!1s0x3442ad41bf16e3fb:0xe6b968f0e33982ca"
+                    },
+                    {
+                        "name":  "places/ChIJ--MWv0GtQjQRyoI54_BoueY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOVGNXaHNOSGRYT0dWRFRXTmpNME5YUkdKcFNsRRAB",
+                        "relativePublishTimeDescription":  "8 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "牛排🥩很好吃😋班尼迪克水準之上，每份套餐有兩種飲料很好喝，焦糖紅葡萄柚超讚👍環境舒適，收入口袋名單",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "牛排🥩很好吃😋班尼迪克水準之上，每份套餐有兩種飲料很好喝，焦糖紅葡萄柚超讚👍環境舒適，收入口袋名單",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Vettel",
+                                                  "uri":  "https://www.google.com/maps/contrib/108056553839014777646/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUAk7IwCBTUwnYGEBMKI8cPe5CQmb2Z25L7B9vC7Oqk8WmSBsKRFw=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2025-09-05T08:41:27.018239618Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOVGNXaHNOSGRYT0dWRFRXTmpNME5YUkdKcFNsRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOVGNXaHNOSGRYT0dWRFRXTmpNME5YUkdKcFNsRRAB!2m1!1s0x3442ad41bf16e3fb:0xe6b968f0e33982ca"
+                    }
+                ],
+    "goodForChildren":  true
+}

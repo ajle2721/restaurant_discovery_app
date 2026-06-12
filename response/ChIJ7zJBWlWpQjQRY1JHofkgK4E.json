@@ -1,0 +1,135 @@
+﻿{
+    "id":  "ChIJ7zJBWlWpQjQRY1JHofkgK4E",
+    "types":  [
+                  "asian_restaurant",
+                  "japanese_curry_restaurant",
+                  "cafeteria",
+                  "fast_food_restaurant",
+                  "meal_takeaway",
+                  "japanese_restaurant",
+                  "restaurant",
+                  "point_of_interest",
+                  "food",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 989 398 322",
+    "formattedAddress":  "臺北市大安區新生南路一段1號綠光庭園, 2樓 日光料理 進入綠光庭園後請用左邊的電梯到, No. 1號新生南路一段民輝里大安區臺北市台灣 106",
+    "location":  {
+                     "latitude":  25.044019,
+                     "longitude":  121.53322700000001
+                 },
+    "rating":  4.7,
+    "websiteUri":  "https://bit.ly/3TunYpE",
+    "userRatingCount":  21,
+    "displayName":  {
+                        "text":  "日光料理",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJ7zJBWlWpQjQRY1JHofkgK4E/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sRWMwWXhRVmxLV1dOWGEwaGZOV2h3ZGpnMVRrRRAB",
+                        "relativePublishTimeDescription":  "7 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "台科大旁邊的美食區域. 一，二樓有很多不同的餐飲. 座位在中間區域. 餐後自行回收餐盤. 各店家會有標明的回收盒.\n日月見牛肉丼飯口味還不錯. 美中不足是完全沒有青菜. 第一次點也不知道. 所以沒有另外點小菜. 餐點可以選飲料或者湯.",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "台科大旁邊的美食區域. 一，二樓有很多不同的餐飲. 座位在中間區域. 餐後自行回收餐盤. 各店家會有標明的回收盒.\n日月見牛肉丼飯口味還不錯. 美中不足是完全沒有青菜. 第一次點也不知道. 所以沒有另外點小菜. 餐點可以選飲料或者湯.",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "莉莉（愛吃美食的人）",
+                                                  "uri":  "https://www.google.com/maps/contrib/111718691166709900465/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocKPuoP4BE6rUqhIPWZBVJuemIFj9Ss8UvbdDZTbIZDSWQiTiA=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-10-08T02:04:00.872296233Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sRWMwWXhRVmxLV1dOWGEwaGZOV2h3ZGpnMVRrRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sRWMwWXhRVmxLV1dOWGEwaGZOV2h3ZGpnMVRrRRAB!2m1!1s0x3442a9555a4132ef:0x812b20f9a1475263"
+                    },
+                    {
+                        "name":  "places/ChIJ7zJBWlWpQjQRY1JHofkgK4E/reviews/ChZDSUhNMG9nS0VJQ0FnSUM3OTUyamRREAE",
+                        "relativePublishTimeDescription":  "1 年前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "服務態度親切，品項款式豐富，地點便利，鄰近捷運忠孝新生站，附近有華山/三創可逛，值得再訪。\n唐揚炸雞丼飯：炸雞外酥內嫩，飯菜量足夠，附野菜湯或無糖烏龍茶。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "服務態度親切，品項款式豐富，地點便利，鄰近捷運忠孝新生站，附近有華山/三創可逛，值得再訪。\n唐揚炸雞丼飯：炸雞外酥內嫩，飯菜量足夠，附野菜湯或無糖烏龍茶。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Black Thunder (阿宗)",
+                                                  "uri":  "https://www.google.com/maps/contrib/100416346739387742949/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjX7ihUbpoo5QRLIj_knbWZGX0vP7jW5a0j7C18-IR64dCZqOIE=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2024-08-19T04:58:40.521827Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM3OTUyamRREAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM3OTUyamRREAE!2m1!1s0x3442a9555a4132ef:0x812b20f9a1475263"
+                    },
+                    {
+                        "name":  "places/ChIJ7zJBWlWpQjQRY1JHofkgK4E/reviews/Ci9DQUlRQUNvZENodHljRjlvT2w4eGJEVkZXVFpCUVVWTFdWQjVXVTFGVHpSb2FuYxAB",
+                        "relativePublishTimeDescription":  "8 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "中碗 野菜炸雞飯 附無糖茶 $120\n配菜是水煮 健康的餐點",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "中碗 野菜炸雞飯 附無糖茶 $120\n配菜是水煮 健康的餐點",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Y.C",
+                                                  "uri":  "https://www.google.com/maps/contrib/116892710425925741331/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocLxSJi3Y7r9YwbBdY3zrit47eDSA8wLZl5PaTfkzTLmQms6WA=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2025-09-09T12:05:28.287323613Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2w4eGJEVkZXVFpCUVVWTFdWQjVXVTFGVHpSb2FuYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2w4eGJEVkZXVFpCUVVWTFdWQjVXVTFGVHpSb2FuYxAB!2m1!1s0x3442a9555a4132ef:0x812b20f9a1475263"
+                    },
+                    {
+                        "name":  "places/ChIJ7zJBWlWpQjQRY1JHofkgK4E/reviews/ChZDSUhNMG9nS0VJQ0FnSUNWenBYVkZREAE",
+                        "relativePublishTimeDescription":  "2 年前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "地點超方便，就在DonDon Donki鈄對面。以為只招待台灣科技大學學生，原來也對外開放。餐廳在2樓，環境很乾淨。如果來光華商場購物可以來這裡吃東西。讚！",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "地點超方便，就在DonDon Donki鈄對面。以為只招待台灣科技大學學生，原來也對外開放。餐廳在2樓，環境很乾淨。如果來光華商場購物可以來這裡吃東西。讚！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "shirley formosa",
+                                                  "uri":  "https://www.google.com/maps/contrib/116440406654130773723/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocLOgS1wejmwvypS9VzbPv9w6j2UpmrHHOQTSL3-x4tJ_eZyGw=s128-c0x00000000-cc-rp-mo-ba2"
+                                              },
+                        "publishTime":  "2023-12-07T06:32:11.676515Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNWenBYVkZREAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNWenBYVkZREAE!2m1!1s0x3442a9555a4132ef:0x812b20f9a1475263"
+                    },
+                    {
+                        "name":  "places/ChIJ7zJBWlWpQjQRY1JHofkgK4E/reviews/Ci9DQUlRQUNvZENodHljRjlvT21SM0xXNDBUVE5WUVdOUmVEbENiekpZWVhFNVkzYxAB",
+                        "relativePublishTimeDescription":  "10 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "外帶唐揚炸雞丼飯中盛，附綠茶，不是自己吃，同學吃光，味道應該可以吧",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "外帶唐揚炸雞丼飯中盛，附綠茶，不是自己吃，同學吃光，味道應該可以吧",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "chang jeffrey",
+                                                  "uri":  "https://www.google.com/maps/contrib/117159946593165475925/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUfR5i2L0QcLjMro0_lkcJ0rBffX7HiygT3Gx9aCRKykLeQkOg=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2025-07-14T09:14:08.820289282Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21SM0xXNDBUVE5WUVdOUmVEbENiekpZWVhFNVkzYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21SM0xXNDBUVE5WUVdOUmVEbENiekpZWVhFNVkzYxAB!2m1!1s0x3442a9555a4132ef:0x812b20f9a1475263"
+                    }
+                ]
+}

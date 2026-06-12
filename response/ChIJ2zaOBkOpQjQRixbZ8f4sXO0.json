@@ -1,0 +1,135 @@
+{
+  "id": "ChIJ2zaOBkOpQjQRixbZ8f4sXO0",
+  "types": [
+    "hot_pot_restaurant",
+    "restaurant",
+    "point_of_interest",
+    "food",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2585 2555",
+  "formattedAddress": "10491台灣臺北市中山區集英里中山北路三段26號1樓",
+  "location": {
+    "latitude": 25.0651463,
+    "longitude": 121.52192129999997
+  },
+  "rating": 4.6,
+  "websiteUri": "https://zex.com.tw/togetopot",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 1519,
+  "displayName": {
+    "text": "汆食 ｜作伙鍋｜台北中山店",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Mellow, contemporary restaurant with tabletop stoves for cook-your-own hot pot with meat & seafood.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ2zaOBkOpQjQRixbZ8f4sXO0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KSWQwaHNXR3BTZUZCT1dEZFBiMVkyVldnemFuYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "給4.5顆星，假日中午來這裡用餐，假日套餐只能選雙人套餐以上，沒有個人套餐，位於雙城街福利麵包斜對面，從民權西路捷運站走過來大約5分鐘。\n位置寬敞舒服，醬料跟菜盤肉品都是由服務生上菜，我們點了一個雙人肉品套餐跟雙人海陸套餐，肉品海鮮很不錯，服務也好，方方面面都有不錯的品質，很適合家庭聚餐及朋友聚會好選擇。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "給4.5顆星，假日中午來這裡用餐，假日套餐只能選雙人套餐以上，沒有個人套餐，位於雙城街福利麵包斜對面，從民權西路捷運站走過來大約5分鐘。\n位置寬敞舒服，醬料跟菜盤肉品都是由服務生上菜，我們點了一個雙人肉品套餐跟雙人海陸套餐，肉品海鮮很不錯，服務也好，方方面面都有不錯的品質，很適合家庭聚餐及朋友聚會好選擇。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "1 ocean",
+        "uri": "https://www.google.com/maps/contrib/101921116827369648266/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU_ewDyQDrU9swzIlyzTnFMb-xKkI-R5Vrv1IOi8gT7iZVi7SE=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-01-27T15:41:15.994782112Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KSWQwaHNXR3BTZUZCT1dEZFBiMVkyVldnemFuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KSWQwaHNXR3BTZUZCT1dEZFBiMVkyVldnemFuYxAB!2m1!1s0x3442a943068e36db:0xed5c2cfef1d9168b"
+    },
+    {
+      "name": "places/ChIJ2zaOBkOpQjQRixbZ8f4sXO0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taSGJGZEJORFZhYkZwaVRqVnFiVzFGTjBSVFpYYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "鳳梨蛤蠣湯底很特別，菜盤份量足種類也豐富\n食材也都很新鮮\n座位寬敞舒適，吃完也不會有火鍋臭",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "鳳梨蛤蠣湯底很特別，菜盤份量足種類也豐富\n食材也都很新鮮\n座位寬敞舒適，吃完也不會有火鍋臭",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "青椒肉絲",
+        "uri": "https://www.google.com/maps/contrib/111484845673225380590/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWokttQSum49vAc0i229HTcOJ3FlXvJo7R0p1wI0BGw1HP3NLct=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-08T13:44:13.616276789Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taSGJGZEJORFZhYkZwaVRqVnFiVzFGTjBSVFpYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taSGJGZEJORFZhYkZwaVRqVnFiVzFGTjBSVFpYYxAB!2m1!1s0x3442a943068e36db:0xed5c2cfef1d9168b"
+    },
+    {
+      "name": "places/ChIJ2zaOBkOpQjQRixbZ8f4sXO0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCdlNHVTBkV3RaVlhKNVdHaHNXVmhuVFUxMk4zYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "雙人肉肉套餐梅花豬和雪花牛十分鮮嫩可口😊🥩雞湯、羊骨湯底熬煮入味👍冷泡茶無糖順口😋冰淇淋甜而不膩😌",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "雙人肉肉套餐梅花豬和雪花牛十分鮮嫩可口😊🥩雞湯、羊骨湯底熬煮入味👍冷泡茶無糖順口😋冰淇淋甜而不膩😌",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Wen Hsuan",
+        "uri": "https://www.google.com/maps/contrib/114729426701986345530/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWxEU925Z8pWFZoQggqMm9oI916Qap61kbiWEGG9gorcKhsh4g=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-25T11:57:21.464186880Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCdlNHVTBkV3RaVlhKNVdHaHNXVmhuVFUxMk4zYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCdlNHVTBkV3RaVlhKNVdHaHNXVmhuVFUxMk4zYxAB!2m1!1s0x3442a943068e36db:0xed5c2cfef1d9168b"
+    },
+    {
+      "name": "places/ChIJ2zaOBkOpQjQRixbZ8f4sXO0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxVlgwTlhPSFJSU2xoT2QwNW5TVlJQYVcxTFdHYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 2,
+      "text": {
+        "text": "空間明亮且座位算多\n這次點的是鴛鴦鍋（雞湯＋麻辣）。\n個人覺得雞湯的味道相對清淡，記憶點不高；但麻辣鍋裡的鴨血和豆腐表現不錯，入味又滑嫩，是整體比較加分的部分。\n\n肉品方面，向日葵梅花豬口感鮮嫩、表現蠻好；另外加點的牛肉排則稍微偏柴，覺得中規中矩。\n本次選擇海陸雙人餐，海鮮部分滿有驚喜——牡蠣顆粒飽滿、蛤蜊也很肥美，新鮮度不錯。\n\n飲料提供的是茶類，清爽解膩，搭配火鍋很剛好。\n甜點為芋頭冰淇淋，但整體風味普通，口感與香氣都稍微可惜一點，是本次比較沒有記憶點的部分。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "空間明亮且座位算多\n這次點的是鴛鴦鍋（雞湯＋麻辣）。\n個人覺得雞湯的味道相對清淡，記憶點不高；但麻辣鍋裡的鴨血和豆腐表現不錯，入味又滑嫩，是整體比較加分的部分。\n\n肉品方面，向日葵梅花豬口感鮮嫩、表現蠻好；另外加點的牛肉排則稍微偏柴，覺得中規中矩。\n本次選擇海陸雙人餐，海鮮部分滿有驚喜——牡蠣顆粒飽滿、蛤蜊也很肥美，新鮮度不錯。\n\n飲料提供的是茶類，清爽解膩，搭配火鍋很剛好。\n甜點為芋頭冰淇淋，但整體風味普通，口感與香氣都稍微可惜一點，是本次比較沒有記憶點的部分。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "吃喝玩樂鬧個不停",
+        "uri": "https://www.google.com/maps/contrib/104990911992448560102/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWflgnkMrLBnuuHVSJbUPPwjU_zlfBAYVSb8XVu1k3fsqdGS38=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-09T16:19:08.025418085Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxVlgwTlhPSFJSU2xoT2QwNW5TVlJQYVcxTFdHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxVlgwTlhPSFJSU2xoT2QwNW5TVlJQYVcxTFdHYxAB!2m1!1s0x3442a943068e36db:0xed5c2cfef1d9168b"
+    },
+    {
+      "name": "places/ChIJ2zaOBkOpQjQRixbZ8f4sXO0/reviews/Ci9DQUlRQUNvZENodHljRjlvT20weldrWXhRVzV4VVRWbldXeHljWGxWWjFOV2RYYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "環境乾淨明亮，食材新鮮\n用的是商業午餐\n外場服務小哥當天只有一人，但仍然親切又賣力！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "環境乾淨明亮，食材新鮮\n用的是商業午餐\n外場服務小哥當天只有一人，但仍然親切又賣力！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Nancy Hsu",
+        "uri": "https://www.google.com/maps/contrib/106312990453727661713/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUxFkg38ca6HjHOFgehJS3InbfuZYOgpTj-5lc0Ogr9YwqgBHb9Nw=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-11-02T00:46:20.909776154Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20weldrWXhRVzV4VVRWbldXeHljWGxWWjFOV2RYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20weldrWXhRVzV4VVRWbldXeHljWGxWWjFOV2RYYxAB!2m1!1s0x3442a943068e36db:0xed5c2cfef1d9168b"
+    }
+  ]
+}

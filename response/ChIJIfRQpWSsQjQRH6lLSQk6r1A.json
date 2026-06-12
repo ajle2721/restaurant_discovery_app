@@ -1,0 +1,133 @@
+﻿{
+    "id":  "ChIJIfRQpWSsQjQRH6lLSQk6r1A",
+    "types":  [
+                  "italian_restaurant",
+                  "hamburger_restaurant",
+                  "american_restaurant",
+                  "food_store",
+                  "store",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2797 1838",
+    "formattedAddress":  "114台灣臺北市內湖區港墘里江南街96巷32號",
+    "location":  {
+                     "latitude":  25.0772862,
+                     "longitude":  121.57629179999999
+                 },
+    "rating":  4.3,
+    "userRatingCount":  271,
+    "displayName":  {
+                        "text":  "GREEN BUNNY restaurant",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJIfRQpWSsQjQRH6lLSQk6r1A/reviews/Ci9DQUlRQUNvZENodHljRjlvT21KR2JVaDJZMmRXYVU0MWNsUXdWVkZhWkcxUFZuYxAB",
+                        "relativePublishTimeDescription":  "5 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "推薦辣皮蛋麵，不愛皮蛋的我也覺得好吃，但吃小辣的人來說真的有辣喔。謝謝老闆親切讓我們預訂樓上，還幫忙搬推車入1樓，還客製狗狗餐！真的很感謝🥹",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "推薦辣皮蛋麵，不愛皮蛋的我也覺得好吃，但吃小辣的人來說真的有辣喔。謝謝老闆親切讓我們預訂樓上，還幫忙搬推車入1樓，還客製狗狗餐！真的很感謝🥹",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "lulu na",
+                                                  "uri":  "https://www.google.com/maps/contrib/117372867224207245597/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocJqoiljSIR4LOqcDn4U4mSJuvGmiA99JN3hDSUhETBVAE3fRFY=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2025-12-24T05:10:58.320834481Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21KR2JVaDJZMmRXYVU0MWNsUXdWVkZhWkcxUFZuYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21KR2JVaDJZMmRXYVU0MWNsUXdWVkZhWkcxUFZuYxAB!2m1!1s0x3442ac64a550f421:0x50af3a09494ba91f"
+                    },
+                    {
+                        "name":  "places/ChIJIfRQpWSsQjQRH6lLSQk6r1A/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taaFYwNU1YMjh6ZEVaSWFWaENaR0ZpVERjNU1sRRAB",
+                        "relativePublishTimeDescription":  "8 個月前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "平日中午沒什麼人 環境舒適 小缺點廁所微髒😅\n\n兩個人點了 雞胸肉沙拉 紅油皮蛋麵 南瓜奶油燉飯\n吃超多哈哈哈哈哈 但因為很好吃所以只有開胃而已\n\n📍雞胸肉沙拉尚可 份量還行 調味一般 凱撒醬微酸 想瘦的人可以點\n\n📍紅油皮蛋麵 辣得很爽 香氣很足 皮蛋可以中和辣度 絞肉給的有誠意 很好吃\n\n📍南瓜奶油燉飯 吃進去第一口就很驚艷 微微青醬的香和南瓜的甜在口中迸發 燉飯醬完美扒著粒粒分明的米粒 米粒還保留著恰到好處的硬度 十分中的十分\n\n這家是目前在台北吃到最好吃的義大利麵 價格有平易近人 如果住內湖的話會天天來",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "平日中午沒什麼人 環境舒適 小缺點廁所微髒😅\n\n兩個人點了 雞胸肉沙拉 紅油皮蛋麵 南瓜奶油燉飯\n吃超多哈哈哈哈哈 但因為很好吃所以只有開胃而已\n\n📍雞胸肉沙拉尚可 份量還行 調味一般 凱撒醬微酸 想瘦的人可以點\n\n📍紅油皮蛋麵 辣得很爽 香氣很足 皮蛋可以中和辣度 絞肉給的有誠意 很好吃\n\n📍南瓜奶油燉飯 吃進去第一口就很驚艷 微微青醬的香和南瓜的甜在口中迸發 燉飯醬完美扒著粒粒分明的米粒 米粒還保留著恰到好處的硬度 十分中的十分\n\n這家是目前在台北吃到最好吃的義大利麵 價格有平易近人 如果住內湖的話會天天來",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Kenneth Chen",
+                                                  "uri":  "https://www.google.com/maps/contrib/106505761315932159564/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVZshzlMwoqnFEBN9UePj7zkr5YNwz31Ux2UICFVA3wCP-_TkM=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-09-12T07:07:34.966290490Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taaFYwNU1YMjh6ZEVaSWFWaENaR0ZpVERjNU1sRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taaFYwNU1YMjh6ZEVaSWFWaENaR0ZpVERjNU1sRRAB!2m1!1s0x3442ac64a550f421:0x50af3a09494ba91f"
+                    },
+                    {
+                        "name":  "places/ChIJIfRQpWSsQjQRH6lLSQk6r1A/reviews/ChZDSUhNMG9nS0VJQ0FnSUN2akt5Zlh3EAE",
+                        "relativePublishTimeDescription":  "1 年前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "價格中等，義大利份量大。沙拉偏甜口帶酸，蠻提升食慾的。濃湯普普。紅茶無糖不會澀ok。中西合併的紅油炒少皮帶義大利麵，意外好吃。豬肉偏瘦不會炒太辣，皮蛋可以中和一些油膩的感覺，義大利麵體偏硬，個人剛好偏好這種口感👍店內環境不錯，慢慢吃店員不會催促。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "價格中等，義大利份量大。沙拉偏甜口帶酸，蠻提升食慾的。濃湯普普。紅茶無糖不會澀ok。中西合併的紅油炒少皮帶義大利麵，意外好吃。豬肉偏瘦不會炒太辣，皮蛋可以中和一些油膩的感覺，義大利麵體偏硬，個人剛好偏好這種口感👍店內環境不錯，慢慢吃店員不會催促。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "彼得平",
+                                                  "uri":  "https://www.google.com/maps/contrib/110416572294552957489/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXQSRUdBDt9azOtmbtJYaUu8ezoVXjpJxHK3H0lDVjtuPNb7jSJAg=s128-c0x00000000-cc-rp-mo-ba7"
+                                              },
+                        "publishTime":  "2024-12-08T14:11:49.417819Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN2akt5Zlh3EAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN2akt5Zlh3EAE!2m1!1s0x3442ac64a550f421:0x50af3a09494ba91f"
+                    },
+                    {
+                        "name":  "places/ChIJIfRQpWSsQjQRH6lLSQk6r1A/reviews/ChZDSUhNMG9nS0VJQ0FnSUNIcjRpZ2RBEAE",
+                        "relativePublishTimeDescription":  "1 年前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "古巴三明治還蠻好吃的，不過主餐量有點少，靠薯條飽。餐廳如果不往廚房和廁所看的話環境還算乾淨。偶爾可以來，位子不少，四個人也適合。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "古巴三明治還蠻好吃的，不過主餐量有點少，靠薯條飽。餐廳如果不往廚房和廁所看的話環境還算乾淨。偶爾可以來，位子不少，四個人也適合。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Eric Lee",
+                                                  "uri":  "https://www.google.com/maps/contrib/114740827728466063499/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjX1NBUX82JL-Z-vTpXLmyINXqF932Z7RaZR4n_DQ_4hvtSkjaPY=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2024-09-10T10:19:56.423299Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNIcjRpZ2RBEAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNIcjRpZ2RBEAE!2m1!1s0x3442ac64a550f421:0x50af3a09494ba91f"
+                    },
+                    {
+                        "name":  "places/ChIJIfRQpWSsQjQRH6lLSQk6r1A/reviews/ChZDSUhNMG9nS0VJQ0FnSUN6Nk1POFhnEAE",
+                        "relativePublishTimeDescription":  "1 年前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "溫馨的義大利麵小店，價格大約200-300，餐點都蠻好吃，份量也不小\n薯條是切的很薄現炸的，也不錯吃\n\n有在附近推薦可以來吃一下",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "溫馨的義大利麵小店，價格大約200-300，餐點都蠻好吃，份量也不小\n薯條是切的很薄現炸的，也不錯吃\n\n有在附近推薦可以來吃一下",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Mars Ho",
+                                                  "uri":  "https://www.google.com/maps/contrib/102023976001073391040/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjXbZ4SMdMx2doiLbDsbDhV3FCWfDnibWfuQrP-_KckcHJZCi7rh=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2024-05-30T12:44:28.819034Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUN6Nk1POFhnEAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUN6Nk1POFhnEAE!2m1!1s0x3442ac64a550f421:0x50af3a09494ba91f"
+                    }
+                ]
+}

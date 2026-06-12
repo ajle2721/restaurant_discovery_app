@@ -1,0 +1,132 @@
+{
+  "id": "ChIJu7jm2m6pQjQRUGurGMKbbdc",
+  "types": [
+    "italian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2876 0698",
+  "formattedAddress": "11112台灣臺北市士林區天山里中山北路七段140巷1號1樓",
+  "location": {
+    "latitude": 25.123158900000004,
+    "longitude": 121.5323609
+  },
+  "rating": 4.4,
+  "websiteUri": "https://psbuburestaurant.com/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 815,
+  "displayName": {
+    "text": "PS BUBU 金屋藏車食堂",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJu7jm2m6pQjQRUGurGMKbbdc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCdlR6ZHNZbFE1Y21kemVtWmxhV2w1V1RScmJXYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第一次到天母隨機google到這家寵物友善餐廳，這裡有人類食物也有狗狗餐點，點了南加州義大利麵跟泰式燉飯，好吃！湯品及甜點也很棒！下次有到天母會再回訪。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次到天母隨機google到這家寵物友善餐廳，這裡有人類食物也有狗狗餐點，點了南加州義大利麵跟泰式燉飯，好吃！湯品及甜點也很棒！下次有到天母會再回訪。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ashley _",
+        "uri": "https://www.google.com/maps/contrib/100024277019483729788/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUm_oVfB3_-XdVKLhibEositsh-6X_h6arOB5ILQ7WrowCaATuA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-03-01T17:50:02.890565327Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCdlR6ZHNZbFE1Y21kemVtWmxhV2w1V1RScmJXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCdlR6ZHNZbFE1Y21kemVtWmxhV2w1V1RScmJXYxAB!2m1!1s0x3442a96edae6b8bb:0xd76d9bc218ab6b50"
+    },
+    {
+      "name": "places/ChIJu7jm2m6pQjQRUGurGMKbbdc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCRFpFOHdNR1ZXVGxGVVNWQllkbXB2TkdGSGNrRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "這家主題餐廳真的讓人一走進來就充滿驚喜！從裝潢到音樂都緊扣主題，氛圍感十足，非常適合拍照打卡。餐點不只外觀用心，味道也超乎期待，食材新鮮、調味恰到好處，每一道都能感受到廚師的巧思。服務人員親切細心，用餐過程很愉快，是會讓人想再訪、也願意推薦給朋友的優質餐廳。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這家主題餐廳真的讓人一走進來就充滿驚喜！從裝潢到音樂都緊扣主題，氛圍感十足，非常適合拍照打卡。餐點不只外觀用心，味道也超乎期待，食材新鮮、調味恰到好處，每一道都能感受到廚師的巧思。服務人員親切細心，用餐過程很愉快，是會讓人想再訪、也願意推薦給朋友的優質餐廳。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Shywrn Hu",
+        "uri": "https://www.google.com/maps/contrib/107621912575755641632/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVt3B8e650hKHtm4kptiHW6_1JLL8qH56kt4hJSYmAObgB2bC8ktQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-10T06:26:30.277199298Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCRFpFOHdNR1ZXVGxGVVNWQllkbXB2TkdGSGNrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCRFpFOHdNR1ZXVGxGVVNWQllkbXB2TkdGSGNrRRAB!2m1!1s0x3442a96edae6b8bb:0xd76d9bc218ab6b50"
+    },
+    {
+      "name": "places/ChIJu7jm2m6pQjQRUGurGMKbbdc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WVVR6WTNOQzA0VVRsYWRHSk5TR3BKVTI0dGVWRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第一次到金屋藏車就感覺相當專業，從接待到說明都很有條理，會先了解用車習慣，再提出合適的處理方式，讓人覺得不是制式化服務。現場環境乾淨，工具與設備整理完善，施工過程也能清楚看到進度。師傅對細節很要求，小地方也不馬虎，完成後的成果超出預期，車子看起來煥然一新。整體溝通順暢、價格清楚，沒有隱藏費用，讓人消費起來很安心。若在找重視品質與信任感的店家，金屋藏車是相當不錯的選擇。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次到金屋藏車就感覺相當專業，從接待到說明都很有條理，會先了解用車習慣，再提出合適的處理方式，讓人覺得不是制式化服務。現場環境乾淨，工具與設備整理完善，施工過程也能清楚看到進度。師傅對細節很要求，小地方也不馬虎，完成後的成果超出預期，車子看起來煥然一新。整體溝通順暢、價格清楚，沒有隱藏費用，讓人消費起來很安心。若在找重視品質與信任感的店家，金屋藏車是相當不錯的選擇。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Dison A",
+        "uri": "https://www.google.com/maps/contrib/115728861831120711225/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXr6Pr61ff9TxqB5S63Mno3HQF5fFPVe4ehW_SfxjhCtwO5cbPT=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-10T06:07:17.649026332Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WVVR6WTNOQzA0VVRsYWRHSk5TR3BKVTI0dGVWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WVVR6WTNOQzA0VVRsYWRHSk5TR3BKVTI0dGVWRRAB!2m1!1s0x3442a96edae6b8bb:0xd76d9bc218ab6b50"
+    },
+    {
+      "name": "places/ChIJu7jm2m6pQjQRUGurGMKbbdc/reviews/Ci9DQUlRQUNvZENodHljRjlvT21aSGNuSjVWQzExWXpaU1UwcHJXWGhuVjJWeFVIYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "隨意找的一間餐廳\n結果走進去整個嚇到 裡面太可愛了 好多車子造型的座位 餐廳也是寵物友善 寵物都可以坐在座位上 重點老闆娘人超客氣 我們點寵物餐還給我們電風扇散熱！\n餐點也是真的好吃 點餐的時候還選擇障礙不知道要吃什麼\n超級推推的！！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "隨意找的一間餐廳\n結果走進去整個嚇到 裡面太可愛了 好多車子造型的座位 餐廳也是寵物友善 寵物都可以坐在座位上 重點老闆娘人超客氣 我們點寵物餐還給我們電風扇散熱！\n餐點也是真的好吃 點餐的時候還選擇障礙不知道要吃什麼\n超級推推的！！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "蘇雯雯",
+        "uri": "https://www.google.com/maps/contrib/114896919626218470591/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVwibEtR1KZ5cv8sBXISuR2BpFmvfvIe-HOoKfSRFJBk6j5KUzj=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-10-15T11:35:50.520277923Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21aSGNuSjVWQzExWXpaU1UwcHJXWGhuVjJWeFVIYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21aSGNuSjVWQzExWXpaU1UwcHJXWGhuVjJWeFVIYxAB!2m1!1s0x3442a96edae6b8bb:0xd76d9bc218ab6b50"
+    },
+    {
+      "name": "places/ChIJu7jm2m6pQjQRUGurGMKbbdc/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKWGRFWkRUamN3VUZGMGMzZEVZVmhKVVRGMlNGRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "這是一家坐落於天母的車車餐廳，更是一家動物友善餐廳。22-23年前的流星花園也是在此取景拍攝（轟動全亞洲）\n餐點（套餐）非常可以：\n沙拉、湯、主菜、蛋糕、飲料\n服務小姐懂英文，非常友善。\n若要預約中間粉紅車車，要提前預約。\n若是要慶生，可以提前告知，有送蛋糕喔。\n餐廳後區域的山區有天和公園，最有名是非常冰涼清澈的湧泉。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這是一家坐落於天母的車車餐廳，更是一家動物友善餐廳。22-23年前的流星花園也是在此取景拍攝（轟動全亞洲）\n餐點（套餐）非常可以：\n沙拉、湯、主菜、蛋糕、飲料\n服務小姐懂英文，非常友善。\n若要預約中間粉紅車車，要提前預約。\n若是要慶生，可以提前告知，有送蛋糕喔。\n餐廳後區域的山區有天和公園，最有名是非常冰涼清澈的湧泉。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林鴻文",
+        "uri": "https://www.google.com/maps/contrib/105603073976632770787/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVzQZJ5n4JJ47TO2KuoY3nCLe5O3rQMbNA3PyNgk9dxxYdgOcPw=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-10-08T07:06:16.835594728Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKWGRFWkRUamN3VUZGMGMzZEVZVmhKVVRGMlNGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKWGRFWkRUamN3VUZGMGMzZEVZVmhKVVRGMlNGRRAB!2m1!1s0x3442a96edae6b8bb:0xd76d9bc218ab6b50"
+    }
+  ],
+  "goodForChildren": true
+}

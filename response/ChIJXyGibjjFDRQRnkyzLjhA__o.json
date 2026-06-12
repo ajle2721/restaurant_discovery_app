@@ -1,0 +1,131 @@
+{
+  "id": "ChIJXyGibjjFDRQRnkyzLjhA__o",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2822 2688",
+  "formattedAddress": "112台灣臺北市北投區東華里立農街二段283號",
+  "location": {
+    "latitude": 25.1187741,
+    "longitude": 121.51551299999998
+  },
+  "rating": 4.1,
+  "websiteUri": "https://www.daynice.tw/home",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 297,
+  "displayName": {
+    "text": "Day Nice 日久阿囉哈早午餐 - 立農店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJXyGibjjFDRQRnkyzLjhA__o/reviews/Ci9DQUlRQUNvZENodHljRjlvT25JdE5sRm5jMUUxVlZoWk9HOWhlbWRaT1dOSVYyYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "2026/1\n\n店面有重新裝潢過，座位很多，有電視可以看，桌上有QR Code可以掃描點餐，醬料等等都自取。\n\n整體而言餐點美味出餐快速，老闆人很好。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2026/1\n\n店面有重新裝潢過，座位很多，有電視可以看，桌上有QR Code可以掃描點餐，醬料等等都自取。\n\n整體而言餐點美味出餐快速，老闆人很好。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lulu",
+        "uri": "https://www.google.com/maps/contrib/114398821210644521212/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXZSmmACPUGltDiydFXkwtihvbbjqPE4tnLeBZ2kb4sdeJ56plB=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-27T03:39:04.140052924Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25JdE5sRm5jMUUxVlZoWk9HOWhlbWRaT1dOSVYyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25JdE5sRm5jMUUxVlZoWk9HOWhlbWRaT1dOSVYyYxAB!2m1!1s0x140dc5386ea2215f:0xfaff40382eb34c9e"
+    },
+    {
+      "name": "places/ChIJXyGibjjFDRQRnkyzLjhA__o/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xvd1dFZHlRMEZ3WVMxa2IwNXpSRWxJUzNSRE9VRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "這間早餐店是我的愛店之一，餐點美味價格也親民，上菜速度更是快，今天是第一次裝潢後去吃，覺得整體用餐環境又更加舒適（冷氣很涼很讚），再加上老闆們親切的服務態度，讓整體用餐體驗變得又更佳，而且附近的學生也多，也常來光顧此店，顯得店內相當有朝氣，氣氛佳。\n今天叫了培根蛋餅及薯條來吃，我真的覺得這家培根蛋餅是我吃過最好吃的培根蛋餅，加上甜醬油膏，真的是緊繃好吃，薯條除了經典番茄醬外，他們也有在一般早餐店不容易看到的蜂蜜芥末醬，很搭配，很獨特。\n#我覺得大家絕對不能錯過這麼棒的一家早餐店\n#最頂的",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這間早餐店是我的愛店之一，餐點美味價格也親民，上菜速度更是快，今天是第一次裝潢後去吃，覺得整體用餐環境又更加舒適（冷氣很涼很讚），再加上老闆們親切的服務態度，讓整體用餐體驗變得又更佳，而且附近的學生也多，也常來光顧此店，顯得店內相當有朝氣，氣氛佳。\n今天叫了培根蛋餅及薯條來吃，我真的覺得這家培根蛋餅是我吃過最好吃的培根蛋餅，加上甜醬油膏，真的是緊繃好吃，薯條除了經典番茄醬外，他們也有在一般早餐店不容易看到的蜂蜜芥末醬，很搭配，很獨特。\n#我覺得大家絕對不能錯過這麼棒的一家早餐店\n#最頂的",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "楊子霆",
+        "uri": "https://www.google.com/maps/contrib/105123674561074589456/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUiwXDucHMB8BuEqmd1wbew8ABtfunYxUcJ65DszTspY49ieemq=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-10-08T05:27:58.402370543Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xvd1dFZHlRMEZ3WVMxa2IwNXpSRWxJUzNSRE9VRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xvd1dFZHlRMEZ3WVMxa2IwNXpSRWxJUzNSRE9VRRAB!2m1!1s0x140dc5386ea2215f:0xfaff40382eb34c9e"
+    },
+    {
+      "name": "places/ChIJXyGibjjFDRQRnkyzLjhA__o/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GTVluRmxZVVJpWm0xcVV6ZGpaSHBQUlVSM2EwRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "蔬菜蛋餅非常好吃，蔬菜料超多❤️，還有起司，超級滿足😍😍👍🏻\n奶茶好喝！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "蔬菜蛋餅非常好吃，蔬菜料超多❤️，還有起司，超級滿足😍😍👍🏻\n奶茶好喝！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "蔡芮郁 / 芮芮去哪裡",
+        "uri": "https://www.google.com/maps/contrib/106422463849055579580/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjU1nh-IY8XPqEVxLBk8AHy-TPk165moHZktz4KNOHnN-07wcKTFtw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-01-20T03:18:10.332428318Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GTVluRmxZVVJpWm0xcVV6ZGpaSHBQUlVSM2EwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GTVluRmxZVVJpWm0xcVV6ZGpaSHBQUlVSM2EwRRAB!2m1!1s0x140dc5386ea2215f:0xfaff40382eb34c9e"
+    },
+    {
+      "name": "places/ChIJXyGibjjFDRQRnkyzLjhA__o/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCWU5YZFBlblpmZDJFMGNXTk9hSFowZFdwUVlYYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "感謝店家特製我的餐點，無油餐點撿脂餐點，享用的環境非常的優良，讓人值得回味的地方，員工也很親招待。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "感謝店家特製我的餐點，無油餐點撿脂餐點，享用的環境非常的優良，讓人值得回味的地方，員工也很親招待。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "采涓",
+        "uri": "https://www.google.com/maps/contrib/100690448607345416340/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXQyZ4XHn9l0Krzmc8qGHnrkijjhQPXAZB72QokXKr1OZ8vuUAQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-09T04:24:14.423280923Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCWU5YZFBlblpmZDJFMGNXTk9hSFowZFdwUVlYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCWU5YZFBlblpmZDJFMGNXTk9hSFowZFdwUVlYYxAB!2m1!1s0x140dc5386ea2215f:0xfaff40382eb34c9e"
+    },
+    {
+      "name": "places/ChIJXyGibjjFDRQRnkyzLjhA__o/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tZeGJtWlFWWFZVVHpSd09HeHRWek5mWVY5SVkzYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "老闆態度很好 點餐有效率\n員工做餐點速度很快\n最近菜單有更動，現在可以掃Qrcore看最新的菜單跟點餐唷👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "老闆態度很好 點餐有效率\n員工做餐點速度很快\n最近菜單有更動，現在可以掃Qrcore看最新的菜單跟點餐唷👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "彤",
+        "uri": "https://www.google.com/maps/contrib/117943913035843488297/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJKcfYes3Sbdgzd66eGS9CcP9WrNE8vnG4ld8qQTQcgjy9uq41v=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-10-24T03:41:47.999303343Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tZeGJtWlFWWFZVVHpSd09HeHRWek5mWVY5SVkzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tZeGJtWlFWWFZVVHpSd09HeHRWek5mWVY5SVkzYxAB!2m1!1s0x140dc5386ea2215f:0xfaff40382eb34c9e"
+    }
+  ],
+  "goodForChildren": true
+}

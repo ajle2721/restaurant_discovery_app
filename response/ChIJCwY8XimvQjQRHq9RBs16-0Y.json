@@ -1,0 +1,129 @@
+﻿{
+    "id":  "ChIJCwY8XimvQjQRHq9RBs16-0Y",
+    "types":  [
+                  "family_restaurant",
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "formattedAddress":  "111台灣臺北市士林區福佳里承德路五段55號",
+    "location":  {
+                     "latitude":  25.098117499999997,
+                     "longitude":  121.515366
+                 },
+    "rating":  4.6,
+    "userRatingCount":  198,
+    "displayName":  {
+                        "text":  "鴻屋蛋包飯",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJCwY8XimvQjQRHq9RBs16-0Y/reviews/ChZDSUhNMG9nS0VQZjM0WXZQb3FiRlFREAE",
+                        "relativePublishTimeDescription":  "1 年前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "在2F美食街，做餐神速，假日中午人多也是兩分鐘就做好了，白飯、咖哩、蛋包和豬排都有水準以上，還附了蠻好吃的薯條，沾咖哩醬很讚很快樂，以樂園裡來說這個口味和價格很不錯了，還有冷氣吹，值得推薦的中午用餐地點。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "在2F美食街，做餐神速，假日中午人多也是兩分鐘就做好了，白飯、咖哩、蛋包和豬排都有水準以上，還附了蠻好吃的薯條，沾咖哩醬很讚很快樂，以樂園裡來說這個口味和價格很不錯了，還有冷氣吹，值得推薦的中午用餐地點。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Lèvr【第10級在地嚮導】",
+                                                  "uri":  "https://www.google.com/maps/contrib/115131688509506708788/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWWReqt4dR6N7p45ZpSr8ODGEAaWrEOYRW_WXQCLNWUULTLqEq91g=s128-c0x00000000-cc-rp-mo-ba8"
+                                              },
+                        "publishTime":  "2025-05-17T09:20:19.988177Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VQZjM0WXZQb3FiRlFREAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VQZjM0WXZQb3FiRlFREAE!2m1!1s0x3442af295e3c060b:0x46fb7acd0651af1e"
+                    },
+                    {
+                        "name":  "places/ChIJCwY8XimvQjQRHq9RBs16-0Y/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pKWk0xcERiblJOWVhWU2VtVllVM0ZrWW1seVdHYxAB",
+                        "relativePublishTimeDescription":  "2 個月前",
+                        "rating":  1,
+                        "text":  {
+                                     "text":  "兒童咖喱的是辣的，跟服務人員反應，堅持說「只是加香料，然後胡椒」\n我？？？兒童咖哩加胡椒⋯\n\n兩份餐，\n色澤完全不同、吃起來也不同\n一群孩子，只有有吃咖喱飯的兩個孩子，嚴重腸胃炎、上吐下瀉，廁所跑不停，請謹慎查看自家品質。\n\n兒童咖喱辣的，本身就不太理想。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "兒童咖喱的是辣的，跟服務人員反應，堅持說「只是加香料，然後胡椒」\n我？？？兒童咖哩加胡椒⋯\n\n兩份餐，\n色澤完全不同、吃起來也不同\n一群孩子，只有有吃咖喱飯的兩個孩子，嚴重腸胃炎、上吐下瀉，廁所跑不停，請謹慎查看自家品質。\n\n兒童咖喱辣的，本身就不太理想。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Joss Chang",
+                                                  "uri":  "https://www.google.com/maps/contrib/103176257056915305607/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWFI2pppPuN2nrJBeHDNrlmBUe8fG03vASoa5t88lWjYV6RqW81=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2026-03-03T04:16:00.363022333Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pKWk0xcERiblJOWVhWU2VtVllVM0ZrWW1seVdHYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pKWk0xcERiblJOWVhWU2VtVllVM0ZrWW1seVdHYxAB!2m1!1s0x3442af295e3c060b:0x46fb7acd0651af1e"
+                    },
+                    {
+                        "name":  "places/ChIJCwY8XimvQjQRHq9RBs16-0Y/reviews/ChZDSUhNMG9nS0VJQ0FnSUNuZ0t1MmVREAE",
+                        "relativePublishTimeDescription":  "1 年前",
+                        "rating":  4,
+                        "text":  {
+                                     "text":  "餐點價格和其他樂園內餐廳一樣偏高，但咖哩、歐姆蛋、白飯都是好吃的，薯條也不錯、但部分薯條沾到咖哩變得有點濕軟。出餐速度很快，服務人員態度也好。",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "餐點價格和其他樂園內餐廳一樣偏高，但咖哩、歐姆蛋、白飯都是好吃的，薯條也不錯、但部分薯條沾到咖哩變得有點濕軟。出餐速度很快，服務人員態度也好。",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Paige Siara",
+                                                  "uri":  "https://www.google.com/maps/contrib/112663146337096942618/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVr88IWniNO2CgLRQ31LGZGpwH3k2BDwv4YLxcwYupMnLR0r1GE=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2024-09-22T00:52:42.919284Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNuZ0t1MmVREAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNuZ0t1MmVREAE!2m1!1s0x3442af295e3c060b:0x46fb7acd0651af1e"
+                    },
+                    {
+                        "name":  "places/ChIJCwY8XimvQjQRHq9RBs16-0Y/reviews/ChdDSUhNMG9nS0VJQ0FnSURYdW9MY3NnRRAB",
+                        "relativePublishTimeDescription":  "1 年前",
+                        "rating":  1,
+                        "text":  {
+                                     "text":  "點了一份炸雞蛋包飯，跟一份雞米花兒童餐，出餐速度慢就算了，薯條是冷的，飯粒掉出盤子外，還會跳起來，感覺比我的肝還硬，內心的陰影讓天都黑了，\n\n園區內還有其他更好的選擇",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "點了一份炸雞蛋包飯，跟一份雞米花兒童餐，出餐速度慢就算了，薯條是冷的，飯粒掉出盤子外，還會跳起來，感覺比我的肝還硬，內心的陰影讓天都黑了，\n\n園區內還有其他更好的選擇",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Lawrence",
+                                                  "uri":  "https://www.google.com/maps/contrib/107728227642228687414/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocItz58nGS5okk-GyqfxstdKP1_7CPuyzcBusk0Ygm3GRLPGsA=s128-c0x00000000-cc-rp-mo-ba5"
+                                              },
+                        "publishTime":  "2024-10-26T11:19:14.099650Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURYdW9MY3NnRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURYdW9MY3NnRRAB!2m1!1s0x3442af295e3c060b:0x46fb7acd0651af1e"
+                    },
+                    {
+                        "name":  "places/ChIJCwY8XimvQjQRHq9RBs16-0Y/reviews/ChdDSUhNMG9nS0VJQ0FnSURmdElDTHR3RRAB",
+                        "relativePublishTimeDescription":  "1 年前",
+                        "rating":  3,
+                        "text":  {
+                                     "text":  "兒童餐的薯條、雞塊和白飯都很硬，可能是因為拿到都已經偏冷包含咖喱，布丁和養樂多的品牌是味全",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "兒童餐的薯條、雞塊和白飯都很硬，可能是因為拿到都已經偏冷包含咖喱，布丁和養樂多的品牌是味全",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "W. Jil",
+                                                  "uri":  "https://www.google.com/maps/contrib/108592637170916049347/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocIBaXRSUCcOkTMO8wr1dLQ4u3INU6tud6VBpupDRhRylGfVgA=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2025-01-04T06:06:16.939701Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURmdElDTHR3RRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURmdElDTHR3RRAB!2m1!1s0x3442af295e3c060b:0x46fb7acd0651af1e"
+                    }
+                ],
+    "goodForChildren":  true
+}

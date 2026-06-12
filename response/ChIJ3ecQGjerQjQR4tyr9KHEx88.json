@@ -1,0 +1,129 @@
+﻿{
+    "id":  "ChIJ3ecQGjerQjQR4tyr9KHEx88",
+    "types":  [
+                  "restaurant",
+                  "food",
+                  "point_of_interest",
+                  "establishment"
+              ],
+    "internationalPhoneNumber":  "+886 2 2933 1178",
+    "formattedAddress":  "116台灣臺北市文山區羅斯福路六段159巷19-1號",
+    "location":  {
+                     "latitude":  24.9973879,
+                     "longitude":  121.5421346
+                 },
+    "rating":  4.8,
+    "websiteUri":  "https://myship.7-11.com.tw/general/detail/GM2108047641979",
+    "userRatingCount":  219,
+    "displayName":  {
+                        "text":  "咖啡異象 Coffee Vision",
+                        "languageCode":  "zh-TW"
+                    },
+    "reviews":  [
+                    {
+                        "name":  "places/ChIJ3ecQGjerQjQR4tyr9KHEx88/reviews/Ci9DQUlRQUNvZENodHljRjlvT205Q1EydHRiazVuVFMwemFuQjZlbTFKTUZGdmVWRRAB",
+                        "relativePublishTimeDescription":  "7 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "在巷子中的咖啡廳～\n拿鐵好喝 價格適宜\n\n環境好 室內溫度,整潔度,桌椅高度都很舒適\n氣氛佳 適合辦公 讀書 聊天聚會，也有空間租借\n服務態度好 有溫度 有耐心～\n未來會再訪！！",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "在巷子中的咖啡廳～\n拿鐵好喝 價格適宜\n\n環境好 室內溫度,整潔度,桌椅高度都很舒適\n氣氛佳 適合辦公 讀書 聊天聚會，也有空間租借\n服務態度好 有溫度 有耐心～\n未來會再訪！！",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Kinoko Jun",
+                                                  "uri":  "https://www.google.com/maps/contrib/115043919496792230091/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjVRstCfhp17HwGW1adMpNDTgXmegeMgWgh4vY1kJfU0lTquP6-M=s128-c0x00000000-cc-rp-mo-ba4"
+                                              },
+                        "publishTime":  "2025-10-08T06:42:34.937061134Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205Q1EydHRiazVuVFMwemFuQjZlbTFKTUZGdmVWRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205Q1EydHRiazVuVFMwemFuQjZlbTFKTUZGdmVWRRAB!2m1!1s0x3442ab371a10e7dd:0xcfc7c4a1f4abdce2"
+                    },
+                    {
+                        "name":  "places/ChIJ3ecQGjerQjQR4tyr9KHEx88/reviews/Ci9DQUlRQUNvZENodHljRjlvT25kUGJtb3hTMlpwTWpOeGNWVkxkbXQyUkhSdFpGRRAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "環境舒服安靜\n拿鐵的咖啡與牛奶很平衡\n麵包也很好吃 感覺得出店家的用心",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "環境舒服安靜\n拿鐵的咖啡與牛奶很平衡\n麵包也很好吃 感覺得出店家的用心",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "Elaine Huang",
+                                                  "uri":  "https://www.google.com/maps/contrib/103782913502233697434/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjUbYYVCV06hSPsebdTihnVKjFwqMUHc4eFz48DOhR9H5qtX3osx=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2025-12-31T04:38:14.386025090Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25kUGJtb3hTMlpwTWpOeGNWVkxkbXQyUkhSdFpGRRAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25kUGJtb3hTMlpwTWpOeGNWVkxkbXQyUkhSdFpGRRAB!2m1!1s0x3442ab371a10e7dd:0xcfc7c4a1f4abdce2"
+                    },
+                    {
+                        "name":  "places/ChIJ3ecQGjerQjQR4tyr9KHEx88/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oamJVeEdVVjlRWm5rM1JuSjRaREZPVW5CRlEyYxAB",
+                        "relativePublishTimeDescription":  "10 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "這家座位很舒服而且不會很貴\n下午茶、正餐都有賣\n地下室可租借商辦空間\n大螢幕、座位齊全\n很適合公司開會、團體活動",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "這家座位很舒服而且不會很貴\n下午茶、正餐都有賣\n地下室可租借商辦空間\n大螢幕、座位齊全\n很適合公司開會、團體活動",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "YY Chen",
+                                                  "uri":  "https://www.google.com/maps/contrib/106198659875918207947/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a/ACg8ocII074NxSKMcZlRlSQaTltvYEOwEAeG6U2_rqidiAYVvGG2Gpjj=s128-c0x00000000-cc-rp-mo-ba6"
+                                              },
+                        "publishTime":  "2025-07-03T15:29:08.886971315Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oamJVeEdVVjlRWm5rM1JuSjRaREZPVW5CRlEyYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oamJVeEdVVjlRWm5rM1JuSjRaREZPVW5CRlEyYxAB!2m1!1s0x3442ab371a10e7dd:0xcfc7c4a1f4abdce2"
+                    },
+                    {
+                        "name":  "places/ChIJ3ecQGjerQjQR4tyr9KHEx88/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pObFpGbHlTR2hJWmtsSmNFYzBOMFJQYVd4d2IzYxAB",
+                        "relativePublishTimeDescription":  "4 個月前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "空間舒適 冰美式十分好喝 請務必點藍莓乳酪歐包👍👍",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "空間舒適 冰美式十分好喝 請務必點藍莓乳酪歐包👍👍",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "簡摸摸",
+                                                  "uri":  "https://www.google.com/maps/contrib/110541794342354791903/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjX7ICsn-Melkz6Y-AU-RkWeUUaqFOrAH0mhLqMGUcFELBklObzueg=s128-c0x00000000-cc-rp-mo-ba3"
+                                              },
+                        "publishTime":  "2026-01-04T07:22:18.722954879Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pObFpGbHlTR2hJWmtsSmNFYzBOMFJQYVd4d2IzYxAB\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pObFpGbHlTR2hJWmtsSmNFYzBOMFJQYVd4d2IzYxAB!2m1!1s0x3442ab371a10e7dd:0xcfc7c4a1f4abdce2"
+                    },
+                    {
+                        "name":  "places/ChIJ3ecQGjerQjQR4tyr9KHEx88/reviews/ChZDSUhNMG9nS0VJQ0FnSUNmeDhIOFpBEAE",
+                        "relativePublishTimeDescription":  "1 年前",
+                        "rating":  5,
+                        "text":  {
+                                     "text":  "很棒的地方，輕柔的音樂，溫馨的氛圍，服務人員，很耐心的為我們解說回答餐點內容。\n輕食套餐，南瓜濃湯，沙拉好吃，清爽，素材很天然，副餐麵包非常好吃，還可免費續喔",
+                                     "languageCode":  "zh-Hant"
+                                 },
+                        "originalText":  {
+                                             "text":  "很棒的地方，輕柔的音樂，溫馨的氛圍，服務人員，很耐心的為我們解說回答餐點內容。\n輕食套餐，南瓜濃湯，沙拉好吃，清爽，素材很天然，副餐麵包非常好吃，還可免費續喔",
+                                             "languageCode":  "zh-Hant"
+                                         },
+                        "authorAttribution":  {
+                                                  "displayName":  "田雍媜（Jane）",
+                                                  "uri":  "https://www.google.com/maps/contrib/112026057674996815721/reviews",
+                                                  "photoUri":  "https://lh3.googleusercontent.com/a-/ALV-UjWiwzz4MgttwbJEabwubqPztZKRy1RnEYC6b3FPWxyxW7DfTlfQUA=s128-c0x00000000-cc-rp-mo"
+                                              },
+                        "publishTime":  "2025-01-02T05:45:28.056249Z",
+                        "flagContentUri":  "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNmeDhIOFpBEAE\u0026d=17924085\u0026t=1",
+                        "googleMapsUri":  "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNmeDhIOFpBEAE!2m1!1s0x3442ab371a10e7dd:0xcfc7c4a1f4abdce2"
+                    }
+                ]
+}

@@ -1,0 +1,130 @@
+{
+  "id": "ChIJTTzboOyrQjQRIPPnc7hEv38",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2783 2755",
+  "formattedAddress": "115台灣臺北市南港區南港里南港路一段158號",
+  "location": {
+    "latitude": 25.055412999999998,
+    "longitude": 121.6121237
+  },
+  "rating": 4.6,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 180,
+  "displayName": {
+    "text": "卵食力手工蛋餅專賣店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJTTzboOyrQjQRIPPnc7hEv38/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xSFIzUlBPRlZ0UTFsNWJIaHdaamcyY25wcFoyYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "「比比登推薦」比比收藏這家很久了，可是一直沒有恰當的時間過去，這次比比特別安排了卵食力蛋餅加LaLaport看鏈鋸人早場的行程。這家蛋餅店很專業真的除了飲料外只有蛋餅，沒有內用區。這裏大部份人都說預定的，像比比這次就等了20多分鐘。\n他們家的蛋餅煎的很用心，讓比比很期待；吃起來的口感餅皮薄酥脆但內軟而，內餡比比加點微辣剛剛好，比比覺得很讚！順帶提一下這裡不提供醬油辣椒給妳在外面亂加。\n小魚干拌炒是這裡的特別項，不過比比不敢吃小魚所以就作罷囉！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "「比比登推薦」比比收藏這家很久了，可是一直沒有恰當的時間過去，這次比比特別安排了卵食力蛋餅加LaLaport看鏈鋸人早場的行程。這家蛋餅店很專業真的除了飲料外只有蛋餅，沒有內用區。這裏大部份人都說預定的，像比比這次就等了20多分鐘。\n他們家的蛋餅煎的很用心，讓比比很期待；吃起來的口感餅皮薄酥脆但內軟而，內餡比比加點微辣剛剛好，比比覺得很讚！順帶提一下這裡不提供醬油辣椒給妳在外面亂加。\n小魚干拌炒是這裡的特別項，不過比比不敢吃小魚所以就作罷囉！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "鼠比比",
+        "uri": "https://www.google.com/maps/contrib/103023870386877207742/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWlrAk0oNhBiLErC7u1OTkzVhzaHvvaLWY5s9utWvhnlwBl0wc=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-11-08T02:05:57.693252497Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xSFIzUlBPRlZ0UTFsNWJIaHdaamcyY25wcFoyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xSFIzUlBPRlZ0UTFsNWJIaHdaamcyY25wcFoyYxAB!2m1!1s0x3442abeca0db3c4d:0x7fbf44b873e7f320"
+    },
+    {
+      "name": "places/ChIJTTzboOyrQjQRIPPnc7hEv38/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkWVkybzJSMkptYVRORWFHaHpjekY0ZEdKNllXYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "第一次吃高麗菜蛋餅~好吃\n不油不膩 醬也包在裡面了😊\n\n下次想試試看起士口味~",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "第一次吃高麗菜蛋餅~好吃\n不油不膩 醬也包在裡面了😊\n\n下次想試試看起士口味~",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "張蕙羽",
+        "uri": "https://www.google.com/maps/contrib/117125422285909392473/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXFpNkbYlt4rvwBhLm8k1dvPqzd-1C6DqhdS4bnXI7ouSmgefo=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-09T10:32:13.525637662Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkWVkybzJSMkptYVRORWFHaHpjekY0ZEdKNllXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkWVkybzJSMkptYVRORWFHaHpjekY0ZEdKNllXYxAB!2m1!1s0x3442abeca0db3c4d:0x7fbf44b873e7f320"
+    },
+    {
+      "name": "places/ChIJTTzboOyrQjQRIPPnc7hEv38/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xkVWFqVnBSWE42ZFRGTk9XZERjSGw0YW5wbGMzYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "2025.11 路過時看到店名有趣就買來嚐鮮一下，沒有內用，僅能外帶。原味蛋餅$45，外皮蠻酥脆的符合個人喜愛，不過搭配的醬油膏太甜了些，下次如果再來就要記得請老闆不要淋上醬油膏。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "2025.11 路過時看到店名有趣就買來嚐鮮一下，沒有內用，僅能外帶。原味蛋餅$45，外皮蠻酥脆的符合個人喜愛，不過搭配的醬油膏太甜了些，下次如果再來就要記得請老闆不要淋上醬油膏。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Frank Koh",
+        "uri": "https://www.google.com/maps/contrib/107509501389899388606/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVt5dEkMDIsXApLEvljnJ7uZADtIr-MgYxtqTWGfBbj8UMvBqUt=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-11-29T02:42:27.690865210Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xkVWFqVnBSWE42ZFRGTk9XZERjSGw0YW5wbGMzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xkVWFqVnBSWE42ZFRGTk9XZERjSGw0YW5wbGMzYxAB!2m1!1s0x3442abeca0db3c4d:0x7fbf44b873e7f320"
+    },
+    {
+      "name": "places/ChIJTTzboOyrQjQRIPPnc7hEv38/reviews/Ci9DQUlRQUNvZENodHljRjlvT25sUVltaElTVFZQVmtWeGNtTlBSWHBITWxKbE0wRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "以各式蛋餅，擄獲南港展覽館一帶的上班族味蕾。其餅皮酥脆，醬汁濃郁，料理手法猶如揉合台式蛋餅，以及大阪文字燒，呈現乾爽紮實口感。可惜火候控制不佳，菜葉多見微焦，略為影響用餐體驗。\n\n有關外送部分，當前修改為下午時段，中午繁忙時間，仍需自行取餐（無論金額多寡）。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "以各式蛋餅，擄獲南港展覽館一帶的上班族味蕾。其餅皮酥脆，醬汁濃郁，料理手法猶如揉合台式蛋餅，以及大阪文字燒，呈現乾爽紮實口感。可惜火候控制不佳，菜葉多見微焦，略為影響用餐體驗。\n\n有關外送部分，當前修改為下午時段，中午繁忙時間，仍需自行取餐（無論金額多寡）。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "成天樂《 10級在地嚮導 》",
+        "uri": "https://www.google.com/maps/contrib/110769903940151157521/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjViS2d3OHp88qETII4bKtKexlv655s8_mCa_Ix21O5xLCBeIeO2=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-09-12T10:55:22.450583470Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25sUVltaElTVFZQVmtWeGNtTlBSWHBITWxKbE0wRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25sUVltaElTVFZQVmtWeGNtTlBSWHBITWxKbE0wRRAB!2m1!1s0x3442abeca0db3c4d:0x7fbf44b873e7f320"
+    },
+    {
+      "name": "places/ChIJTTzboOyrQjQRIPPnc7hEv38/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xWd1luWjJjazE1YzJJeE9VMTNXWGhqZUZsTGJYYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 4,
+      "text": {
+        "text": "蛋餅皮是會煎的酥酥的那種 很好吃\n能吃辣的 建議都加點辣 整體味道能夠提升\n這次是點高麗菜豬排起司 $100元\n餡的高麗菜沒有爆滿 量是剛剛好那樣\n所以覺得價格稍微有點偏高\n\n如果再點一杯飲料 這個價格真的可以吃便當",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "蛋餅皮是會煎的酥酥的那種 很好吃\n能吃辣的 建議都加點辣 整體味道能夠提升\n這次是點高麗菜豬排起司 $100元\n餡的高麗菜沒有爆滿 量是剛剛好那樣\n所以覺得價格稍微有點偏高\n\n如果再點一杯飲料 這個價格真的可以吃便當",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Boris Wang",
+        "uri": "https://www.google.com/maps/contrib/107649703585152902364/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXxaP7ia-dOPKrsLNOE-OdZ1Z1tSGJhgfFwPn40xde69Y9N2svE=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-08-21T06:33:36.525971041Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xWd1luWjJjazE1YzJJeE9VMTNXWGhqZUZsTGJYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xWd1luWjJjazE1YzJJeE9VMTNXWGhqZUZsTGJYYxAB!2m1!1s0x3442abeca0db3c4d:0x7fbf44b873e7f320"
+    }
+  ]
+}

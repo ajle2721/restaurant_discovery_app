@@ -1,0 +1,132 @@
+{
+  "id": "ChIJvwkYkW6sQjQR5v3EGLb2tnM",
+  "types": [
+    "italian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 910 918 794",
+  "formattedAddress": "114台灣臺北市內湖區內湖路一段285號二樓之96 西湖市場",
+  "location": {
+    "latitude": 25.0825776,
+    "longitude": 121.56670179999999
+  },
+  "rating": 4.3,
+  "websiteUri": "http://www.facebook.com/Penugia",
+  "userRatingCount": 201,
+  "displayName": {
+    "text": "貝魯佳義大利麵",
+    "languageCode": "zh"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJvwkYkW6sQjQR5v3EGLb2tnM/reviews/Ci9DQUlRQUNvZENodHljRjlvT21oWWJHWmpiMDF5ZEZwVk0wNHdkSEEyWWpCWmFXYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "原本想吃焗烤，老闆娘說焗烤等候時間較長，今天改點了鮮蝦羊肉燉飯\n我的媽呀⋯⋯好好吃喔\n份量又很十足，因為太好吃食量很小的我硬把飯都吃光光\n完食！滿足👍🏻",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "原本想吃焗烤，老闆娘說焗烤等候時間較長，今天改點了鮮蝦羊肉燉飯\n我的媽呀⋯⋯好好吃喔\n份量又很十足，因為太好吃食量很小的我硬把飯都吃光光\n完食！滿足👍🏻",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lily Kuo",
+        "uri": "https://www.google.com/maps/contrib/110184588556127028414/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVVNO_an2Wdj1Pp3mjr4ljfZxmiiod3hvIWRbDGDqsby3HDxKQK=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-05T09:32:41.044966590Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21oWWJHWmpiMDF5ZEZwVk0wNHdkSEEyWWpCWmFXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21oWWJHWmpiMDF5ZEZwVk0wNHdkSEEyWWpCWmFXYxAB!2m1!1s0x3442ac6e911809bf:0x73b6f6b618c4fde6"
+    },
+    {
+      "name": "places/ChIJvwkYkW6sQjQR5v3EGLb2tnM/reviews/Ci9DQUlRQUNvZENodHljRjlvT25KaE5rUnBNR3REUXpsNmJ6aFhZbU5JZGtKeVZGRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 4,
+      "text": {
+        "text": "清炒蛤蜊義大利麵不錯\n辣雞焗烤飯+紅醬吃起來有點像蛋包飯，焗烤需要等20-25分鐘，原本想說要提早打電話點不用等，結果打了10通都沒有接。。最後還是現場等\n附的濃湯味道不錯 料不是很多",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "清炒蛤蜊義大利麵不錯\n辣雞焗烤飯+紅醬吃起來有點像蛋包飯，焗烤需要等20-25分鐘，原本想說要提早打電話點不用等，結果打了10通都沒有接。。最後還是現場等\n附的濃湯味道不錯 料不是很多",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "YI-FANG LEE",
+        "uri": "https://www.google.com/maps/contrib/110562619897740316230/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIddjO_5o0QUVzs65cUaLJnkmV9BfPPCYXoUNEvbXn0eZtDug=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-01T14:54:37.315658010Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25KaE5rUnBNR3REUXpsNmJ6aFhZbU5JZGtKeVZGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25KaE5rUnBNR3REUXpsNmJ6aFhZbU5JZGtKeVZGRRAB!2m1!1s0x3442ac6e911809bf:0x73b6f6b618c4fde6"
+    },
+    {
+      "name": "places/ChIJvwkYkW6sQjQR5v3EGLb2tnM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaUmVsTnZaakpyYkhobVkxRklZems1U1hocGFFRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "附的冬瓜茶有點過甜，不合我的喜好，濃湯味道相對清淡，\n\n重點的義大利麵很香很好吃，\n蛤蜊也都很飽滿😊",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "附的冬瓜茶有點過甜，不合我的喜好，濃湯味道相對清淡，\n\n重點的義大利麵很香很好吃，\n蛤蜊也都很飽滿😊",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "H. Yuan (阿谷)",
+        "uri": "https://www.google.com/maps/contrib/106020828943422194379/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXFQ01RqLEO5Bh3_ijns7Um_dh0wHKkaIlWsJkZZA1M8PJMHeFQZA=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-08-21T05:24:34.981251695Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaUmVsTnZaakpyYkhobVkxRklZems1U1hocGFFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaUmVsTnZaakpyYkhobVkxRklZems1U1hocGFFRRAB!2m1!1s0x3442ac6e911809bf:0x73b6f6b618c4fde6"
+    },
+    {
+      "name": "places/ChIJvwkYkW6sQjQR5v3EGLb2tnM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOVFJsazRkRUZJTkhsV2RGZDZUSFJSWHpWemJrRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 1,
+      "text": {
+        "text": "中午11：00點蒜香鮮菇洋香菜焗烤麵，一開始那女人沒聽清楚要焗烤就說要等20分鐘，後來聽到要焗烤變成要等1個鐘頭，我想應該前面有多單我有同意並付錢,結果因為沒什麼好逛就回她攤位前面坐位等，結果發現她在30幾分接單，而且很快就給餐後面又有二個先生點餐她也接單，結果我到55分去攤位有個小姐訂12：00那女人也給她，我就去問為什麼比我晚來的人都已經拿了,那女人很不客氣的說不是跟你說12點？奇怪的是那打電話12：00，那女人不是55分給她，那女人故意把早就做好的麵到12點才丟出來，我很生氣的說自以為是名店，我們常吃莫凡彼和貳樓也沒像這女人這麼囂張，小烤箱焗烤要40分鍾如果有烤過的人都知道是睜眼說瞎話，回來看果然如我猜想放久起司塌了麵也涼了，其實米克斯食材口味都比那女人他們好吃多了生意也好，老闆和老闆娘非常的客氣，又很年輕我誇他們可以做幾十年，這是我兒子突然想吃焗烤才受這次氣,我早就不削吃\n預祝她們早點關門就不用煩了！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "中午11：00點蒜香鮮菇洋香菜焗烤麵，一開始那女人沒聽清楚要焗烤就說要等20分鐘，後來聽到要焗烤變成要等1個鐘頭，我想應該前面有多單我有同意並付錢,結果因為沒什麼好逛就回她攤位前面坐位等，結果發現她在30幾分接單，而且很快就給餐後面又有二個先生點餐她也接單，結果我到55分去攤位有個小姐訂12：00那女人也給她，我就去問為什麼比我晚來的人都已經拿了,那女人很不客氣的說不是跟你說12點？奇怪的是那打電話12：00，那女人不是55分給她，那女人故意把早就做好的麵到12點才丟出來，我很生氣的說自以為是名店，我們常吃莫凡彼和貳樓也沒像這女人這麼囂張，小烤箱焗烤要40分鍾如果有烤過的人都知道是睜眼說瞎話，回來看果然如我猜想放久起司塌了麵也涼了，其實米克斯食材口味都比那女人他們好吃多了生意也好，老闆和老闆娘非常的客氣，又很年輕我誇他們可以做幾十年，這是我兒子突然想吃焗烤才受這次氣,我早就不削吃\n預祝她們早點關門就不用煩了！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "許素芳",
+        "uri": "https://www.google.com/maps/contrib/101651186283763968423/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJl2OtCTT1ekjlu8d5Xio5eHUWR5auk_wg8ZAHOOTM1QTYY1A=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-02-02T18:17:08.958977576Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOVFJsazRkRUZJTkhsV2RGZDZUSFJSWHpWemJrRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOVFJsazRkRUZJTkhsV2RGZDZUSFJSWHpWemJrRRAB!2m1!1s0x3442ac6e911809bf:0x73b6f6b618c4fde6"
+    },
+    {
+      "name": "places/ChIJvwkYkW6sQjQR5v3EGLb2tnM/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGRmRXTkNaRVpVUWxScFFtTmhUakJqUjNOQ00xRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "一直以來對平價義大利麵沒什麼興趣，吃到這家直接愛上！麵條軟硬度、醬料調配、食材都非常厲害，重點是又很便宜",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一直以來對平價義大利麵沒什麼興趣，吃到這家直接愛上！麵條軟硬度、醬料調配、食材都非常厲害，重點是又很便宜",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chen Jason",
+        "uri": "https://www.google.com/maps/contrib/110927719214299846067/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLNkMxRn2qPhs-Ri8_0AL2D_k67w_s1ry-lgkSsiUo5hK4O_Q=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-31T05:58:45.189279885Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGRmRXTkNaRVpVUWxScFFtTmhUakJqUjNOQ00xRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGRmRXTkNaRVpVUWxScFFtTmhUakJqUjNOQ00xRRAB!2m1!1s0x3442ac6e911809bf:0x73b6f6b618c4fde6"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

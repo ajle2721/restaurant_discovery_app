@@ -1,0 +1,132 @@
+{
+  "id": "ChIJz9YRa9apQjQRRvkaval6qgw",
+  "types": [
+    "brunch_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2595 5715",
+  "formattedAddress": "103台灣臺北市大同區揚雅里昌吉街116號",
+  "location": {
+    "latitude": 25.0658672,
+    "longitude": 121.51457789999999
+  },
+  "rating": 4.4,
+  "websiteUri": "https://instagram.com/oj_morning?igshid=1qyinl3ra2ttr",
+  "userRatingCount": 404,
+  "displayName": {
+    "text": "OJ Morning 早午餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJz9YRa9apQjQRRvkaval6qgw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WTk4xZERTMjFOUkdsV1RrUk1PRWx2Tm5sWk5rRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "蛋餅一如既往的油酥脆，甜吐司原來是兩片，吃起來超飽！忘記說蛋半熟，沒想到蘿蔔糕是用炸的！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "蛋餅一如既往的油酥脆，甜吐司原來是兩片，吃起來超飽！忘記說蛋半熟，沒想到蘿蔔糕是用炸的！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Nori Yang",
+        "uri": "https://www.google.com/maps/contrib/110937410378158916057/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUgN92jhxakHdBd58cC5jQNwwUPRYywsjgBS20SChgNUnESyhir=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-25T18:35:12.694429707Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WTk4xZERTMjFOUkdsV1RrUk1PRWx2Tm5sWk5rRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WTk4xZERTMjFOUkdsV1RrUk1PRWx2Tm5sWk5rRRAB!2m1!1s0x3442a9d66b11d6cf:0xcaa7aa9bd1af946"
+    },
+    {
+      "name": "places/ChIJz9YRa9apQjQRRvkaval6qgw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKUWJFcDJRekp2V1hOdGRURlZWR05DVWtjNWEzYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "運動完路過進去吃看看\n點了優惠套餐\n\n卡啦雞配莓果醬意外覺得很搭",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "運動完路過進去吃看看\n點了優惠套餐\n\n卡啦雞配莓果醬意外覺得很搭",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "卯貓吃飯飯",
+        "uri": "https://www.google.com/maps/contrib/113228014702107529357/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXKdhUeJq-A3MROuRrYz2dHSzcUiO7RaosLbIndB2nzqiUDRFc=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-03-01T10:46:07.172400972Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKUWJFcDJRekp2V1hOdGRURlZWR05DVWtjNWEzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKUWJFcDJRekp2V1hOdGRURlZWR05DVWtjNWEzYxAB!2m1!1s0x3442a9d66b11d6cf:0xcaa7aa9bd1af946"
+    },
+    {
+      "name": "places/ChIJz9YRa9apQjQRRvkaval6qgw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21ReE1VdG1VVlZGWlUweFQyUmhPV0p5V0ROR2VFRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "蛋餅酥脆、蘿蔔糕用炸的口感也相當好",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "蛋餅酥脆、蘿蔔糕用炸的口感也相當好",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "范寶營",
+        "uri": "https://www.google.com/maps/contrib/113843507363973347057/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWF8RUw9PGZbz1tV8cezZncrNJYwiWSm9L-BwJ3kAQ6seSjXT7coQ=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-02-03T06:35:39.965590294Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21ReE1VdG1VVlZGWlUweFQyUmhPV0p5V0ROR2VFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21ReE1VdG1VVlZGWlUweFQyUmhPV0p5V0ROR2VFRRAB!2m1!1s0x3442a9d66b11d6cf:0xcaa7aa9bd1af946"
+    },
+    {
+      "name": "places/ChIJz9YRa9apQjQRRvkaval6qgw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tGSk1EWkJORmRDTVVabWRYSlBhbHB6TTI4d1pGRRAB",
+      "relativePublishTimeDescription": "11 個月前",
+      "rating": 5,
+      "text": {
+        "text": "一直都很喜歡酥炸蛋餅，但最近不知道為什麼蛋餅皮跟菜頭貴沒有像以前那麼酥脆🥺好像變了，以前外帶也不會因為悶著變濕軟，最近炸的口感變的跟其他早餐店一樣普通，真心希望希望能恢復以前那麼細緻酥脆的口感～！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "一直都很喜歡酥炸蛋餅，但最近不知道為什麼蛋餅皮跟菜頭貴沒有像以前那麼酥脆🥺好像變了，以前外帶也不會因為悶著變濕軟，最近炸的口感變的跟其他早餐店一樣普通，真心希望希望能恢復以前那麼細緻酥脆的口感～！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "enna L",
+        "uri": "https://www.google.com/maps/contrib/105405934657015197184/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK0TRNj5q8zP0cvMeJyPVtlr6Gm7xnY3Db5MFt780PkSyIgnQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-06-17T05:10:01.579888219Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tGSk1EWkJORmRDTVVabWRYSlBhbHB6TTI4d1pGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tGSk1EWkJORmRDTVVabWRYSlBhbHB6TTI4d1pGRRAB!2m1!1s0x3442a9d66b11d6cf:0xcaa7aa9bd1af946"
+    },
+    {
+      "name": "places/ChIJz9YRa9apQjQRRvkaval6qgw/reviews/ChdDSUhNMG9nS0VJQ0FnSUNmal9DM3h3RRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "假日早上外帶，基本上櫃檯都會擺一些店內規定，可以看一下，算是一些小提醒啦，算蠻有個性的一家店，只收現金，點了法式花生豬嫩蛋、手工豬肉蛋吐司、美式培根蛋餅。\n法式花生豬嫩蛋，吐司本身不會太油，加上花生醬給的滿大方的不會只有薄薄一點，豬肉咬起來也不會太韌，整體鹹甜鹹甜還不錯。\n手工吐司咬起來蠻有嚼勁的，不會太軟帶點香氣，豬肉也是一樣好咬配上蛋滿夠味的。\n培根蛋餅真的滿好吃的，外皮有點酥炸感的那種，脆皮又不會太油，整體口感真的不錯，蠻像花蓮炸彈蔥油餅，少了蔥多了餅皮的香，真的該點。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "假日早上外帶，基本上櫃檯都會擺一些店內規定，可以看一下，算是一些小提醒啦，算蠻有個性的一家店，只收現金，點了法式花生豬嫩蛋、手工豬肉蛋吐司、美式培根蛋餅。\n法式花生豬嫩蛋，吐司本身不會太油，加上花生醬給的滿大方的不會只有薄薄一點，豬肉咬起來也不會太韌，整體鹹甜鹹甜還不錯。\n手工吐司咬起來蠻有嚼勁的，不會太軟帶點香氣，豬肉也是一樣好咬配上蛋滿夠味的。\n培根蛋餅真的滿好吃的，外皮有點酥炸感的那種，脆皮又不會太油，整體口感真的不錯，蠻像花蓮炸彈蔥油餅，少了蔥多了餅皮的香，真的該點。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Air Person",
+        "uri": "https://www.google.com/maps/contrib/105999531511164385153/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVib2YxJW8YhdUHsbUcVtND-SQDUVUfipzRQzIvCOAUbvY0h_RSmw=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-01-02T16:24:20.702218Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNmal9DM3h3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNmal9DM3h3RRAB!2m1!1s0x3442a9d66b11d6cf:0xcaa7aa9bd1af946"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

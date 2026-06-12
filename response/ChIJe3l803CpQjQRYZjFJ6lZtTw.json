@@ -1,0 +1,130 @@
+{
+  "id": "ChIJe3l803CpQjQRYZjFJ6lZtTw",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "formattedAddress": "104027台灣臺北市中山區集英里撫順街39之2號1樓",
+  "location": {
+    "latitude": 25.063450099999997,
+    "longitude": 121.5194581
+  },
+  "rating": 4.7,
+  "websiteUri": "https://yoogup.com/",
+  "userRatingCount": 174,
+  "displayName": {
+    "text": "Yoogup優貝島X冷萃希臘優格X超開放優格早午餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJe3l803CpQjQRYZjFJ6lZtTw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xCS1R6RlBkazlxTXpsc01FVm9aVXRtTm5jM1VtYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "喜歡他的貝果表皮脆脆的，特製的開心果抹醬很好吃！\n早午餐份量足夠，附贈的優格濃郁又好吃！\n雖然店面不大，但店家很努力幫我們分配位置，讓我們可以舒適的用餐，謝謝店家的貼心！\n肯定會再回訪！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "喜歡他的貝果表皮脆脆的，特製的開心果抹醬很好吃！\n早午餐份量足夠，附贈的優格濃郁又好吃！\n雖然店面不大，但店家很努力幫我們分配位置，讓我們可以舒適的用餐，謝謝店家的貼心！\n肯定會再回訪！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chung Chloe",
+        "uri": "https://www.google.com/maps/contrib/105186047070486160593/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXgZxJXNtGeBha9yqSKOZAxDzz6sbASo4V4gAnzd59ZzSu2SLk=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-17T10:01:19.163594978Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xCS1R6RlBkazlxTXpsc01FVm9aVXRtTm5jM1VtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xCS1R6RlBkazlxTXpsc01FVm9aVXRtTm5jM1VtYxAB!2m1!1s0x3442a970d37c797b:0x3cb559a927c59861"
+    },
+    {
+      "name": "places/ChIJe3l803CpQjQRYZjFJ6lZtTw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2taR1prTkZZbWhMTTFoMlpHSk9MVWhWZVhCcFFYYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "回訪了！！！\n\n極萃原味優格碗—綜合野莓淋醬很厲害 非常搭配 這種優格的口感真的愛死 乾乾的很耐咬 像起司蛋糕 第一次是配優格也超級好吃…\n\n提拉米蘇—兩個人吃一杯完全不夠滿足 太好吃 沒有負擔也不會很甜 超級喜歡\n\n土耳其水波蛋—單吃會有點鹹 建議一定要配麵包\n\n鮮蝦酪梨水波蛋三明治—真的很會煮蛋 熟度控制完美 配特製蕃茄很好吃\n\n沙拉—就是個甜甜的沙拉 用水果和優格取代油膩沙拉醬滿舒服的\n\n還會持續回訪！！！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "回訪了！！！\n\n極萃原味優格碗—綜合野莓淋醬很厲害 非常搭配 這種優格的口感真的愛死 乾乾的很耐咬 像起司蛋糕 第一次是配優格也超級好吃…\n\n提拉米蘇—兩個人吃一杯完全不夠滿足 太好吃 沒有負擔也不會很甜 超級喜歡\n\n土耳其水波蛋—單吃會有點鹹 建議一定要配麵包\n\n鮮蝦酪梨水波蛋三明治—真的很會煮蛋 熟度控制完美 配特製蕃茄很好吃\n\n沙拉—就是個甜甜的沙拉 用水果和優格取代油膩沙拉醬滿舒服的\n\n還會持續回訪！！！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Liwei Hsieh",
+        "uri": "https://www.google.com/maps/contrib/110860972559572143379/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXs-206_tr26FfWKfC1fSk-seDMyPUQJNOPDNgUeOQeuoKV9ora=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-10-26T09:53:50.846919247Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2taR1prTkZZbWhMTTFoMlpHSk9MVWhWZVhCcFFYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2taR1prTkZZbWhMTTFoMlpHSk9MVWhWZVhCcFFYYxAB!2m1!1s0x3442a970d37c797b:0x3cb559a927c59861"
+    },
+    {
+      "name": "places/ChIJe3l803CpQjQRYZjFJ6lZtTw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xNdFVHdDFSR2htWDBoYWF6Qm1abVZvWW5oT1JtYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "覺得食物對不太上價位，套餐吃起來沒有整體性，每個食材像是現成的東西拼湊（不是說現成的不好，但吃起來很普）\n\n點的提拉米蘇覺得咖啡液吃起來有點像二合一泡的（體感，不確定實際，大家可以點點看～）\n\n位置也非常擁擠，桌子選的不太好，腳會一直卡到。\n\n反正評論滿高的，只是來回饋不同聲音～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "覺得食物對不太上價位，套餐吃起來沒有整體性，每個食材像是現成的東西拼湊（不是說現成的不好，但吃起來很普）\n\n點的提拉米蘇覺得咖啡液吃起來有點像二合一泡的（體感，不確定實際，大家可以點點看～）\n\n位置也非常擁擠，桌子選的不太好，腳會一直卡到。\n\n反正評論滿高的，只是來回饋不同聲音～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "安子",
+        "uri": "https://www.google.com/maps/contrib/105034019614863099471/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVwkZxdqHT_fIdK1a07wVk66f4rEYAqyytcuPRF1tOPkkRWe76zag=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-18T04:45:30.179723437Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xNdFVHdDFSR2htWDBoYWF6Qm1abVZvWW5oT1JtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xNdFVHdDFSR2htWDBoYWF6Qm1abVZvWW5oT1JtYxAB!2m1!1s0x3442a970d37c797b:0x3cb559a927c59861"
+    },
+    {
+      "name": "places/ChIJe3l803CpQjQRYZjFJ6lZtTw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2toME0zaGtkRzVOYkhBellsUnNRWGxzTUV4ZlduYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 5,
+      "text": {
+        "text": "食物新鮮好吃、優格搭配起來，味道很搭，可再訪的店家。\n唯一缺點 空間小桌距很近，位置沒有那麼的舒適。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "食物新鮮好吃、優格搭配起來，味道很搭，可再訪的店家。\n唯一缺點 空間小桌距很近，位置沒有那麼的舒適。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "邱小宇",
+        "uri": "https://www.google.com/maps/contrib/100541011805923297520/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUONLIfjddbgF3nDD8UhUb7TiPYv1T7Np5YEFlgHO9XG2yQyUWyKA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-28T04:49:56.193031311Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2toME0zaGtkRzVOYkhBellsUnNRWGxzTUV4ZlduYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2toME0zaGtkRzVOYkhBellsUnNRWGxzTUV4ZlduYxAB!2m1!1s0x3442a970d37c797b:0x3cb559a927c59861"
+    },
+    {
+      "name": "places/ChIJe3l803CpQjQRYZjFJ6lZtTw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s4dGFURnhkekZ3TkZKTU1rOUhUa3hvUVcxMldYYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 3,
+      "text": {
+        "text": "目前二訪\n換了菜單可能有各種考量\n懷念第一次的豐富菜單\n但優格真的蠻好吃很推👍\n不過⋯⋯\n太妃糖奶茶？？？一杯125元？？？\n我冰塊只加兩塊\n還沒融化送來直接喝第一口\n可以稀成這樣很不可思議\n我寧願去外面飲料店買隨便都有品質🥲",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "目前二訪\n換了菜單可能有各種考量\n懷念第一次的豐富菜單\n但優格真的蠻好吃很推👍\n不過⋯⋯\n太妃糖奶茶？？？一杯125元？？？\n我冰塊只加兩塊\n還沒融化送來直接喝第一口\n可以稀成這樣很不可思議\n我寧願去外面飲料店買隨便都有品質🥲",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "吳玉秀",
+        "uri": "https://www.google.com/maps/contrib/103559554476603368236/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXr109huBFIiXBuxtPCLP-93m-xzoQV-_OrnibMsnrlpyxvbzYebA=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-22T07:09:48.339093792Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s4dGFURnhkekZ3TkZKTU1rOUhUa3hvUVcxMldYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s4dGFURnhkekZ3TkZKTU1rOUhUa3hvUVcxMldYYxAB!2m1!1s0x3442a970d37c797b:0x3cb559a927c59861"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

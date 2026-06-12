@@ -1,0 +1,134 @@
+{
+  "id": "ChIJw5-D6-apQjQRjXh0VqdClgw",
+  "types": [
+    "cafe",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2311 6100",
+  "formattedAddress": "100台灣臺北市中正區黎明里忠孝西路一段70號1樓",
+  "location": {
+    "latitude": 25.0466999,
+    "longitude": 121.51449499999998
+  },
+  "rating": 4.5,
+  "websiteUri": "https://www.cafesole.co/",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 520,
+  "displayName": {
+    "text": "COFFEE TO (國家攝影文化中心門市)",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJw5-D6-apQjQRjXh0VqdClgw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tOUlNYWmZia1Z0WTNFMlpuaFpWMWd6TTJ4RlgzYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "除了咖啡吧台用餐區外，整體的購物展示也非常有創意。那你等候手沖咖啡時也能夠在這裡慢慢挑選伴手禮。最頂端的圖書室展示了一些具有紀念意義的特殊書籍。提供手套供大家溫柔參閱是一項很棒的服務。也是我認為在這空間裡最美的地方。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "除了咖啡吧台用餐區外，整體的購物展示也非常有創意。那你等候手沖咖啡時也能夠在這裡慢慢挑選伴手禮。最頂端的圖書室展示了一些具有紀念意義的特殊書籍。提供手套供大家溫柔參閱是一項很棒的服務。也是我認為在這空間裡最美的地方。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "MiMi",
+        "uri": "https://www.google.com/maps/contrib/100200618389369232406/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJM9p7dlZhmKZGlKC8RWLx_E607JFvOF2v6Y5HL7rHsk3xcHw=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-27T15:54:08.437853529Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tOUlNYWmZia1Z0WTNFMlpuaFpWMWd6TTJ4RlgzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tOUlNYWmZia1Z0WTNFMlpuaFpWMWd6TTJ4RlgzYxAB!2m1!1s0x3442a9e6eb839fc3:0xc9642a75674788d"
+    },
+    {
+      "name": "places/ChIJw5-D6-apQjQRjXh0VqdClgw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WQlNsUmtRVEJ4VW1ObFMxQmlTRGg0ZUdKYWRVRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "偶然發現這家咖啡廳，很多客人都是觀光客。反而本地客人比較少。早午餐不錯，但餐廳居然沒有鹽罐也沒有胡椒罐。氣氛很好旁邊也有一些文青商品販賣，是個約會的好地方。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "偶然發現這家咖啡廳，很多客人都是觀光客。反而本地客人比較少。早午餐不錯，但餐廳居然沒有鹽罐也沒有胡椒罐。氣氛很好旁邊也有一些文青商品販賣，是個約會的好地方。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Maggie Chang",
+        "uri": "https://www.google.com/maps/contrib/108772620396731590470/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXKLVznzS6gI6Hke9VUZKHx3E5UjpALjp0TF5HyXC1-bEe8Ebg=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2026-02-20T09:49:56.430362602Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WQlNsUmtRVEJ4VW1ObFMxQmlTRGg0ZUdKYWRVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WQlNsUmtRVEJ4VW1ObFMxQmlTRGg0ZUdKYWRVRRAB!2m1!1s0x3442a9e6eb839fc3:0xc9642a75674788d"
+    },
+    {
+      "name": "places/ChIJw5-D6-apQjQRjXh0VqdClgw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGSVgyOURTVmhKT1dSRmMxTmtja3BSZEZkRWRXYxAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "如果不走進去，很難想像裡面別有洞天，文青小物市集，咖啡shop, 氛圍很chill, 適合夏季午後享受悠閒時光。\n雖是coffee shop, 但是有賣幾款很有特色的啤酒，鳳梨酥啤酒口感清爽，帶有鳳梨香與奶味，挺有意思的\n桂圓啤酒口感帶苦，但柴燒風味讓人回味，尾蘊豐富，也很不錯\n是家原因再度蒞臨的商店。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "如果不走進去，很難想像裡面別有洞天，文青小物市集，咖啡shop, 氛圍很chill, 適合夏季午後享受悠閒時光。\n雖是coffee shop, 但是有賣幾款很有特色的啤酒，鳳梨酥啤酒口感清爽，帶有鳳梨香與奶味，挺有意思的\n桂圓啤酒口感帶苦，但柴燒風味讓人回味，尾蘊豐富，也很不錯\n是家原因再度蒞臨的商店。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "LIN",
+        "uri": "https://www.google.com/maps/contrib/106060608137304181359/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWWK-QzJXTd_1xtnQaunpVyAPRvHSvpQHkel3w3rH_8OUwYegK-4A=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-02T11:35:21.400071344Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGSVgyOURTVmhKT1dSRmMxTmtja3BSZEZkRWRXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGSVgyOURTVmhKT1dSRmMxTmtja3BSZEZkRWRXYxAB!2m1!1s0x3442a9e6eb839fc3:0xc9642a75674788d"
+    },
+    {
+      "name": "places/ChIJw5-D6-apQjQRjXh0VqdClgw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKc1NUbFpkV1J3YW5aeFlqbG1SbTE2V1daYVNVRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "預計12月份有一個大的咖啡展辦在花博，等待的同時順便玩跑咖台北，抱著嘗鮮的心情來體驗。若每杯平均300元，9杯3000有找，算是小貴。這裡提供的特調價位250，剛好遇到碰面次數較多的店員，為日常增添一點小驚喜感。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "預計12月份有一個大的咖啡展辦在花博，等待的同時順便玩跑咖台北，抱著嘗鮮的心情來體驗。若每杯平均300元，9杯3000有找，算是小貴。這裡提供的特調價位250，剛好遇到碰面次數較多的店員，為日常增添一點小驚喜感。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "H莎",
+        "uri": "https://www.google.com/maps/contrib/106655045170959014203/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWJJJdbdDy5oTcmUu62XKcn1P5NjfsSd-O4VVWarerVmmXFsiEQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-13T12:32:29.687801389Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKc1NUbFpkV1J3YW5aeFlqbG1SbTE2V1daYVNVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKc1NUbFpkV1J3YW5aeFlqbG1SbTE2V1daYVNVRRAB!2m1!1s0x3442a9e6eb839fc3:0xc9642a75674788d"
+    },
+    {
+      "name": "places/ChIJw5-D6-apQjQRjXh0VqdClgw/reviews/Ci9DQUlRQUNvZENodHljRjlvT20xNGEwWk1ORE5VZFdGdlRXdHFSVFZwVERFeFkwRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 1,
+      "text": {
+        "text": "10/30下午六點整到店點了一杯限定飲品〈葉語晨光〉。這款飲品的特色之一在於漸層，但我拿到的成品完全沒有層次，和官方照片以及過去在同店喝到的品質差異極大。\n\n當時發生的情境是：距離打烊還有一小時，我選擇坐在店內較安靜的座位。但店員以『要收拾』為由，希望我不要坐裡面，我婉拒了這個建議，因為時間上還合理。這是我能想到的唯一原因，導致隨後我拿到的飲料在製作上明顯草率、與產品特色不符。\n\n離開前，我主動詢問店員：「為什麼我的飲料是這樣的情況與品質？」店員楞住了當下無法回答，後來給的答案竟然是：可能是剛剛另外去做其他的事情導致漸層消失（請問這是理由嗎？為什麼先去做其他的事情呢？為什麼這款飲品最重要的漸層讓他消失了？）\n\n若真是因為我堅持坐在裡面，就遭遇到這樣的報復服務，這讓人非常失望。\n\n顧客選擇在標示的營業時間內入座，是再合理不過的事，店員不應該因個人方便，將情緒帶入服務，甚至反映在產品品質上。這對店家的商譽是非常大的損害。\n\n我理解營業辛苦，但品質與態度應該是品牌的底線。希望店家能正視這個問題，否則會讓人懷疑：如果顧客的選擇不合員工心意，就會得到敷衍的產品與待遇嗎？\n\n我不確定這個人到底是員工還是老闆，如果是員工真的需要好好考慮一下這位店員的去留，非常沒有職業道德，並且在打烊時間尚未到，這間店就常常有要清洗咖啡機的理由拒絕客人點餐。\n\n這樣的體驗會嚴重影響顧客信任與回訪意願。建議好好正視這個問題，你們是國家的門面，國家攝影中心有這樣的品質商店真的是非常的令人失望與堪憂。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "10/30下午六點整到店點了一杯限定飲品〈葉語晨光〉。這款飲品的特色之一在於漸層，但我拿到的成品完全沒有層次，和官方照片以及過去在同店喝到的品質差異極大。\n\n當時發生的情境是：距離打烊還有一小時，我選擇坐在店內較安靜的座位。但店員以『要收拾』為由，希望我不要坐裡面，我婉拒了這個建議，因為時間上還合理。這是我能想到的唯一原因，導致隨後我拿到的飲料在製作上明顯草率、與產品特色不符。\n\n離開前，我主動詢問店員：「為什麼我的飲料是這樣的情況與品質？」店員楞住了當下無法回答，後來給的答案竟然是：可能是剛剛另外去做其他的事情導致漸層消失（請問這是理由嗎？為什麼先去做其他的事情呢？為什麼這款飲品最重要的漸層讓他消失了？）\n\n若真是因為我堅持坐在裡面，就遭遇到這樣的報復服務，這讓人非常失望。\n\n顧客選擇在標示的營業時間內入座，是再合理不過的事，店員不應該因個人方便，將情緒帶入服務，甚至反映在產品品質上。這對店家的商譽是非常大的損害。\n\n我理解營業辛苦，但品質與態度應該是品牌的底線。希望店家能正視這個問題，否則會讓人懷疑：如果顧客的選擇不合員工心意，就會得到敷衍的產品與待遇嗎？\n\n我不確定這個人到底是員工還是老闆，如果是員工真的需要好好考慮一下這位店員的去留，非常沒有職業道德，並且在打烊時間尚未到，這間店就常常有要清洗咖啡機的理由拒絕客人點餐。\n\n這樣的體驗會嚴重影響顧客信任與回訪意願。建議好好正視這個問題，你們是國家的門面，國家攝影中心有這樣的品質商店真的是非常的令人失望與堪憂。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Lin Ralph",
+        "uri": "https://www.google.com/maps/contrib/112312801986040198335/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocL1aTZElB-g6KX-ubcXXdCBVZaifgXn7MhGsSGB9y5LqTs3yw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-30T16:18:51.243380048Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT20xNGEwWk1ORE5VZFdGdlRXdHFSVFZwVERFeFkwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT20xNGEwWk1ORE5VZFdGdlRXdHFSVFZwVERFeFkwRRAB!2m1!1s0x3442a9e6eb839fc3:0xc9642a75674788d"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

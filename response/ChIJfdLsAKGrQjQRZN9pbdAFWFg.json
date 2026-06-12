@@ -1,0 +1,133 @@
+{
+  "id": "ChIJfdLsAKGrQjQRZN9pbdAFWFg",
+  "types": [
+    "italian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2728 3017",
+  "formattedAddress": "110台灣臺北市信義區松光里忠孝東路五段524巷10號",
+  "location": {
+    "latitude": 25.040688,
+    "longitude": 121.57961199999998
+  },
+  "rating": 4.1,
+  "websiteUri": "https://www.facebook.com/%E9%98%BF3%E7%9A%84%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5-139056956109081/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 834,
+  "displayName": {
+    "text": "阿3義大利麵",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJfdLsAKGrQjQRZN9pbdAFWFg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tVd1RYUkpVbEoyWkdWclltbFhkMm8zUkVod2NtYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 4,
+      "text": {
+        "text": "跟朋友一起不小心走進來的。 算是對得起它的價位的平價義大利麵了。 麵比我自己喜歡的稍硬了些，不過不同的老闆可能有自己喜歡的出餐狀態。 整體來說，如果想吃平價義大利麵的朋友，簡簡單單吃一頓，環境也希望好點的，這裡應該還是不錯的選擇。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "跟朋友一起不小心走進來的。 算是對得起它的價位的平價義大利麵了。 麵比我自己喜歡的稍硬了些，不過不同的老闆可能有自己喜歡的出餐狀態。 整體來說，如果想吃平價義大利麵的朋友，簡簡單單吃一頓，環境也希望好點的，這裡應該還是不錯的選擇。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "shamus Tseng",
+        "uri": "https://www.google.com/maps/contrib/109132665585945212841/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIvkTo_HFRLSBnf4-K_sbDbnVxTA1lCu6DC5sqUHQkOjqOQ3Q=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-09T00:15:54.236953385Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tVd1RYUkpVbEoyWkdWclltbFhkMm8zUkVod2NtYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tVd1RYUkpVbEoyWkdWclltbFhkMm8zUkVod2NtYxAB!2m1!1s0x3442aba100ecd27d:0x585805d06d69df64"
+    },
+    {
+      "name": "places/ChIJfdLsAKGrQjQRZN9pbdAFWFg/reviews/Ci9DQUlRQUNvZENodHljRjlvT25ZeU5XNUpYekpGYWtoTlV6TlBjR3BCTkVWWmVYYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "濃湯好喝，內用有冬瓜茶，清爽。主餐點了青醬燉飯，飯軟硬度剛好，加焗烤跟蒜辣更好吃。環境還算舒適，整體還行。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "濃湯好喝，內用有冬瓜茶，清爽。主餐點了青醬燉飯，飯軟硬度剛好，加焗烤跟蒜辣更好吃。環境還算舒適，整體還行。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Rosalind Lee",
+        "uri": "https://www.google.com/maps/contrib/110046156252367351651/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWxAdu8Q1NCd1j2ZMZoF0ZYv_cH42kze5faUQeYXE46HvXAM4Pk=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-01T12:29:50.566325320Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25ZeU5XNUpYekpGYWtoTlV6TlBjR3BCTkVWWmVYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25ZeU5XNUpYekpGYWtoTlV6TlBjR3BCTkVWWmVYYxAB!2m1!1s0x3442aba100ecd27d:0x585805d06d69df64"
+    },
+    {
+      "name": "places/ChIJfdLsAKGrQjQRZN9pbdAFWFg/reviews/Ci9DQUlRQUNvZENodHljRjlvT21OcE9FNHlkVFkyWVhFME1uUjJhRmRqWTNGbVNVRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "跟著地圖的介紹，第一次來到阿3義大利麵，因為老婆想要吃燉飯，我們點了青醬蛤蠣焗烤燉飯、蕃茄雞肉焗烤燉飯，吃的很開心很好吃也很飽，平易近人的價位CP值很高，老闆娘很漂亮，當然吃起來更開心",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "跟著地圖的介紹，第一次來到阿3義大利麵，因為老婆想要吃燉飯，我們點了青醬蛤蠣焗烤燉飯、蕃茄雞肉焗烤燉飯，吃的很開心很好吃也很飽，平易近人的價位CP值很高，老闆娘很漂亮，當然吃起來更開心",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "伊文",
+        "uri": "https://www.google.com/maps/contrib/109451183758374351987/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVWSW8YIJdKekhNvYRK9gRfmITQhZTxFDMei1ihO0tA52xL-f_EPA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-12-06T15:09:02.562485001Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21OcE9FNHlkVFkyWVhFME1uUjJhRmRqWTNGbVNVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21OcE9FNHlkVFkyWVhFME1uUjJhRmRqWTNGbVNVRRAB!2m1!1s0x3442aba100ecd27d:0x585805d06d69df64"
+    },
+    {
+      "name": "places/ChIJfdLsAKGrQjQRZN9pbdAFWFg/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pSelVXeHhTbWhMVEY4d05uVTJSblZETmsxMGIyYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 2,
+      "text": {
+        "text": "份量不多就算了 燉飯口感完全不行餒…👎飯粒硬…青醬很死鹹@@而且雞肉口感不嫩量也夠少的（$160這價位）用料不實在只有飯雞肉沒其他配料❌嘖嘖\n早知道超商7-11吃一吃還划算 好吃@@！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "份量不多就算了 燉飯口感完全不行餒…👎飯粒硬…青醬很死鹹@@而且雞肉口感不嫩量也夠少的（$160這價位）用料不實在只有飯雞肉沒其他配料❌嘖嘖\n早知道超商7-11吃一吃還划算 好吃@@！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Tina Li",
+        "uri": "https://www.google.com/maps/contrib/111877523007968166942/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocI69kfJ3WeDUPR_GWk3G1R4ZizIEZFDhLRS6pxen1xM-qrKkd3E=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-27T05:20:00.492357916Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pSelVXeHhTbWhMVEY4d05uVTJSblZETmsxMGIyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pSelVXeHhTbWhMVEY4d05uVTJSblZETmsxMGIyYxAB!2m1!1s0x3442aba100ecd27d:0x585805d06d69df64"
+    },
+    {
+      "name": "places/ChIJfdLsAKGrQjQRZN9pbdAFWFg/reviews/Ci9DQUlRQUNvZENodHljRjlvT21WV1VHZzFUekpOZEVKUVowSm1aVWwxT0dwRFQxRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 4,
+      "text": {
+        "text": "平價。味道尚可，麵條煮的不會爛，奶油餐包奶油滿溢十分好吃😋，油香。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "平價。味道尚可，麵條煮的不會爛，奶油餐包奶油滿溢十分好吃😋，油香。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "四加一",
+        "uri": "https://www.google.com/maps/contrib/112793408387205573833/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXW-Eydril1lFZmb0Ucu4sDgS0c5Ye2i-nTnEnnm4sv4IqFZx9v=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-11T07:48:24.897819973Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21WV1VHZzFUekpOZEVKUVowSm1aVWwxT0dwRFQxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21WV1VHZzFUekpOZEVKUVowSm1aVWwxT0dwRFQxRRAB!2m1!1s0x3442aba100ecd27d:0x585805d06d69df64"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

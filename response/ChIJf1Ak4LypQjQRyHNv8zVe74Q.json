@@ -1,0 +1,136 @@
+{
+  "id": "ChIJf1Ak4LypQjQRyHNv8zVe74Q",
+  "types": [
+    "brunch_restaurant",
+    "catering_service",
+    "food_delivery",
+    "food_store",
+    "store",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "service",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2339 2667",
+  "formattedAddress": "100台灣臺北市中正區汀州路一段184號",
+  "location": {
+    "latitude": 25.0282634,
+    "longitude": 121.5090139
+  },
+  "rating": 4.2,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 168,
+  "displayName": {
+    "text": "初張嘴餐飲店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJf1Ak4LypQjQRyHNv8zVe74Q/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pGTU1tc3dXbXh4TFd4QmVXNDJRMHc0WkVaSGRWRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 4,
+      "text": {
+        "text": "牛肉捲捲餅套餐125。牛肉有點鹹。\n整體份量沒有很大～適合夏天太熱吃不下。什麼都想吃一點的女生～\n100多的早午餐點起來比一般早餐店份量少些，但也比較便宜。\n之後會想試試看帕里尼",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "牛肉捲捲餅套餐125。牛肉有點鹹。\n整體份量沒有很大～適合夏天太熱吃不下。什麼都想吃一點的女生～\n100多的早午餐點起來比一般早餐店份量少些，但也比較便宜。\n之後會想試試看帕里尼",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "潘奕涵",
+        "uri": "https://www.google.com/maps/contrib/103782208651949431571/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocK_t4Ci9RHNpyok-8_XNVHrksa8Ts66iAl4vM3rHcsx-GXCWA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-10-07T03:54:51.426588362Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pGTU1tc3dXbXh4TFd4QmVXNDJRMHc0WkVaSGRWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pGTU1tc3dXbXh4TFd4QmVXNDJRMHc0WkVaSGRWRRAB!2m1!1s0x3442a9bce024507f:0x84ef5e35f36f73c8"
+    },
+    {
+      "name": "places/ChIJf1Ak4LypQjQRyHNv8zVe74Q/reviews/ChZDSUhNMG9nS0VJQ0FnSURSbzdUT2J3EAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 3,
+      "text": {
+        "text": "很有趣的街邊小店，一樓七八個座位，還好週六早上客人不多，一家三口坐起來倒是舒適愜意。整體裝潢的色系不是太顯眼，是因為在地圖上搜尋才注意到這家餐飲店，開車經過很容易錯過。\n菜單選項非常的多，有選擇困難的人可能會有點困擾。超值早餐大組合，可以嘗試到三種不同的麵包，其中又以餐包特別好吃，歐姆蛋跟生菜相對比較普通，但薯條好吃，以份量來論一份110算是超值。日式燒肉米漢堡，米算是有顆粒感，但肉非常多汁，所以吃起來不會乾硬，份量也是不小。費城牛肉捲餅的蔬菜量很多，營養均衡，但餅卷不住餡料，很容易就分家讓人有點困擾。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很有趣的街邊小店，一樓七八個座位，還好週六早上客人不多，一家三口坐起來倒是舒適愜意。整體裝潢的色系不是太顯眼，是因為在地圖上搜尋才注意到這家餐飲店，開車經過很容易錯過。\n菜單選項非常的多，有選擇困難的人可能會有點困擾。超值早餐大組合，可以嘗試到三種不同的麵包，其中又以餐包特別好吃，歐姆蛋跟生菜相對比較普通，但薯條好吃，以份量來論一份110算是超值。日式燒肉米漢堡，米算是有顆粒感，但肉非常多汁，所以吃起來不會乾硬，份量也是不小。費城牛肉捲餅的蔬菜量很多，營養均衡，但餅卷不住餡料，很容易就分家讓人有點困擾。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Manic Peng",
+        "uri": "https://www.google.com/maps/contrib/104099353534655840910/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXBiS1tUUmg00UGM7tSvg2AWNBC_891RQTOkUOtk-hYyEhcr_8=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2023-08-19T02:27:51.854881Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURSbzdUT2J3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURSbzdUT2J3EAE!2m1!1s0x3442a9bce024507f:0x84ef5e35f36f73c8"
+    },
+    {
+      "name": "places/ChIJf1Ak4LypQjQRyHNv8zVe74Q/reviews/ChdDSUhNMG9nS0VJQ0FnSURIc0lfdzJ3RRAB",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "與家人來訪\n其實這間吃過蠻多次了。\n以早午餐來說算是實惠的價格、不錯的味道。\n這次點一個蔬菜組合+捲餅套餐及單點一個牛肉漢堡。\n東西都是好吃的，也有附紅綠茶。\n只是最近店家忙著做月餅訂單，只能在門口內用，環境上有一些克難。\n但不妨礙味道及價格上的優秀表現。\n下次會再來。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "與家人來訪\n其實這間吃過蠻多次了。\n以早午餐來說算是實惠的價格、不錯的味道。\n這次點一個蔬菜組合+捲餅套餐及單點一個牛肉漢堡。\n東西都是好吃的，也有附紅綠茶。\n只是最近店家忙著做月餅訂單，只能在門口內用，環境上有一些克難。\n但不妨礙味道及價格上的優秀表現。\n下次會再來。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "希克",
+        "uri": "https://www.google.com/maps/contrib/116057526657151599988/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWRlpV1toNYWE9I2bv5Z37PiWIiRKbT4_8fM2O778i6uiLTQ0bB=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2024-09-11T15:53:06.234262Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSURIc0lfdzJ3RRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSURIc0lfdzJ3RRAB!2m1!1s0x3442a9bce024507f:0x84ef5e35f36f73c8"
+    },
+    {
+      "name": "places/ChIJf1Ak4LypQjQRyHNv8zVe74Q/reviews/ChZDSUhNMG9nS0VJQ0FnSUM3OUpmZ0NnEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 4,
+      "text": {
+        "text": "內用位子非常的小\n可以近距離看到店家在製作餐點\n檯面看起來還蠻乾淨\n除了早餐以外，他們應該還有在做餐盒\n菜單有點讓人看不懂\n餐點還算OK",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "內用位子非常的小\n可以近距離看到店家在製作餐點\n檯面看起來還蠻乾淨\n除了早餐以外，他們應該還有在做餐盒\n菜單有點讓人看不懂\n餐點還算OK",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Mavis Huang",
+        "uri": "https://www.google.com/maps/contrib/102209424227268093304/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVZrwqQ5Y5TfeegwiqDdxpAstn_TIyHKyusjcK7jGoTDy4corU4=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2024-08-13T05:11:57.271913Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUM3OUpmZ0NnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUM3OUpmZ0NnEAE!2m1!1s0x3442a9bce024507f:0x84ef5e35f36f73c8"
+    },
+    {
+      "name": "places/ChIJf1Ak4LypQjQRyHNv8zVe74Q/reviews/ChZDSUhNMG9nS0VJQ0FnTURJZ3MzV0dBEAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 2,
+      "text": {
+        "text": "鐵鍋排餐，薯條不錯吃，麵包若能回烤一下比較好，所以我只吃一口，雞蛋布丁還可以只是有點膩，沙拉醬若可以不要整坨淋在苜蓿芽上會好一點",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "鐵鍋排餐，薯條不錯吃，麵包若能回烤一下比較好，所以我只吃一口，雞蛋布丁還可以只是有點膩，沙拉醬若可以不要整坨淋在苜蓿芽上會好一點",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "周敏玲",
+        "uri": "https://www.google.com/maps/contrib/112397525594750018417/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXFrPZ-cWQRbPOP5nkIkbO-O2XTlbgMZ1Q9QvO5shT_8sPNcNIp=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-04-08T08:23:23.431920Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnTURJZ3MzV0dBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnTURJZ3MzV0dBEAE!2m1!1s0x3442a9bce024507f:0x84ef5e35f36f73c8"
+    }
+  ],
+  "goodForChildren": true
+}

@@ -1,0 +1,133 @@
+{
+  "id": "ChIJ61710V2pQjQR5npI5jQjsvY",
+  "types": [
+    "taiwanese_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2511 3265",
+  "formattedAddress": "10491台灣臺北市中山區中吉里民生東路二段86號",
+  "location": {
+    "latitude": 25.057837,
+    "longitude": 121.53066199999999
+  },
+  "rating": 4.3,
+  "websiteUri": "https://page.line.me/dsa1263p",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 852,
+  "displayName": {
+    "text": "儂來台菜宴",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJ61710V2pQjQR5npI5jQjsvY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pONGEyazNURkJKZW1NeldqUjZkVmhmY2tGQk0zYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "場地算大(1~3樓)，裝潢算新，上菜快，餐點好吃(特推蟹黃海鮮煲、紅糟鰻魚、豬肋排)，甜點稍弱(果凍充數)，價位平實，服務尚可，適合餐敘。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "場地算大(1~3樓)，裝潢算新，上菜快，餐點好吃(特推蟹黃海鮮煲、紅糟鰻魚、豬肋排)，甜點稍弱(果凍充數)，價位平實，服務尚可，適合餐敘。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "黃蓉",
+        "uri": "https://www.google.com/maps/contrib/101857896392903629878/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWaKwTUbOZXHpJ9BdAl-iDJtqmCO60-HB019j-A-k9A6_Tks6U=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-03-08T20:15:35.072862311Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pONGEyazNURkJKZW1NeldqUjZkVmhmY2tGQk0zYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pONGEyazNURkJKZW1NeldqUjZkVmhmY2tGQk0zYxAB!2m1!1s0x3442a95dd1f55eeb:0xf6b22334e6487ae6"
+    },
+    {
+      "name": "places/ChIJ61710V2pQjQR5npI5jQjsvY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pjNE0zVkJVR0ZyVURreVZUTklXRU5yZWxCTVkxRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "好吃！沒有雷，果然龍師父的招牌是可信賴的。只是那盤青菜（炒胡瓜）的份量有點少還$260元，以那樣的份量$180的價格就到頂了。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "好吃！沒有雷，果然龍師父的招牌是可信賴的。只是那盤青菜（炒胡瓜）的份量有點少還$260元，以那樣的份量$180的價格就到頂了。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "樂在生活",
+        "uri": "https://www.google.com/maps/contrib/105140424068419441983/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLXJppcG4ElSxzrTKnyYdSxSmD0mGtwB9lRqjiNJEzlVvreSBQ=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-06T23:19:45.842123260Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pjNE0zVkJVR0ZyVURreVZUTklXRU5yZWxCTVkxRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pjNE0zVkJVR0ZyVURreVZUTklXRU5yZWxCTVkxRRAB!2m1!1s0x3442a95dd1f55eeb:0xf6b22334e6487ae6"
+    },
+    {
+      "name": "places/ChIJ61710V2pQjQR5npI5jQjsvY/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xsaVNYaElPVGxLWkY5SmNVWktkbTl5T0d0RlpFRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 5,
+      "text": {
+        "text": "#團隊聚餐的好所在\n#阿姨們服務超週到\n#食物份量很大吃不完還打包\n#新鮮食材每道都給讚",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "#團隊聚餐的好所在\n#阿姨們服務超週到\n#食物份量很大吃不完還打包\n#新鮮食材每道都給讚",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "楊晟鑫",
+        "uri": "https://www.google.com/maps/contrib/116472123358376128102/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXVThM-LwAWF1kZRERUnudwsvrfyKV1a45TVmUEGV_SbiwwyrNn=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2025-12-31T06:59:09.379992358Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xsaVNYaElPVGxLWkY5SmNVWktkbTl5T0d0RlpFRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xsaVNYaElPVGxLWkY5SmNVWktkbTl5T0d0RlpFRRAB!2m1!1s0x3442a95dd1f55eeb:0xf6b22334e6487ae6"
+    },
+    {
+      "name": "places/ChIJ61710V2pQjQR5npI5jQjsvY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21walRGSjVkSHB0Um0xclJGQkNRWGxqTFhKYWFWRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "經典的台菜料理，味道好，適合配酒；適合三五好友小聚。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "經典的台菜料理，味道好，適合配酒；適合三五好友小聚。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Po-kai Chang",
+        "uri": "https://www.google.com/maps/contrib/117560719181001059515/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVgYLf-C1sHEM1zvvvo_1360uVVzPz1nMlQlsHmXRaFj1tqD5XV=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-03-03T07:04:22.218859205Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21walRGSjVkSHB0Um0xclJGQkNRWGxqTFhKYWFWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21walRGSjVkSHB0Um0xclJGQkNRWGxqTFhKYWFWRRAB!2m1!1s0x3442a95dd1f55eeb:0xf6b22334e6487ae6"
+    },
+    {
+      "name": "places/ChIJ61710V2pQjQR5npI5jQjsvY/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sUWVXc3dZbkJIY2pOVGFuQjBibEJyZUhCeVRXYxAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 4,
+      "text": {
+        "text": "經濟實惠的台菜餐廳，我們家族聚餐直接預訂桌菜，人數陸續抵達就可以直接上桌享用。\n拼盤首先上菜，有生魚片、烏魚子、海蜇皮、鯊魚煙、牛肚等。生魚片是常見的鮪魚、鮭魚、旗魚等，油脂偏少，很一般的生魚片，至於其他小品，味道跟喜宴菜色相仿，個人覺得沒有特別突出之處。\n油雞切盤份量十足，雞肉軟嫩，可惜沒有適合的沾醬來提味。豆腐海鮮煲用料豐富，有蝦仁、蛤蜊、金珍珠等，蝦仁蠻多的，喜歡這一道的朋友千萬不要錯過。接著是白灼大蝦，剛上桌的蝦子肉質緊實又鮮美，喜歡吃蝦蝦的朋友動作要快，冷掉就不好吃了。\n櫻花蝦米糕是桌菜料理的澱粉類，還用了蓮子、火腿丁一起蒸煮，吃到這裡其實已經都飽了。清蒸石斑魚也是桌菜常見的菜色，醬汁不過鹹，所以味道很不錯。爆炒牛肉店家特別強調是用安格斯牛肉烹調，經過大火爆炒，口味相對較重，算是當日喜愛的菜色之一，牛肉軟嫩、醬汁微鹹，再加上蒜末與豌豆調味，非常下飯！\n緊接著是酥炸海鰻，這鰻魚有先經過醃製再進行油炸，所以入口酥軟，魚肉有醬香味，非常適合當作下酒菜，當天沒吃完，直接打包。看到豬肋排上桌時，已經吃不下了，選了最小的一根拿拿味，繼續打包。\n最後的湯品是蒜頭雞湯，把蒜末跟雞肉、干貝絲、蛤蜊一起燉煮，味道鮮甜，光是湯頭，長輩就非常喜歡，然後繼續打包。\n最後的甜點是西瓜和果凍，真的非常的飽足，也是許多小朋友的最愛。\n結帳時建議用現金，付現金不收服務費，刷卡會加10%服務費，另外上桌前的果汁飲料若不用，可以再減300，建議是先退掉，再自己拿喜歡的飲料。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "經濟實惠的台菜餐廳，我們家族聚餐直接預訂桌菜，人數陸續抵達就可以直接上桌享用。\n拼盤首先上菜，有生魚片、烏魚子、海蜇皮、鯊魚煙、牛肚等。生魚片是常見的鮪魚、鮭魚、旗魚等，油脂偏少，很一般的生魚片，至於其他小品，味道跟喜宴菜色相仿，個人覺得沒有特別突出之處。\n油雞切盤份量十足，雞肉軟嫩，可惜沒有適合的沾醬來提味。豆腐海鮮煲用料豐富，有蝦仁、蛤蜊、金珍珠等，蝦仁蠻多的，喜歡這一道的朋友千萬不要錯過。接著是白灼大蝦，剛上桌的蝦子肉質緊實又鮮美，喜歡吃蝦蝦的朋友動作要快，冷掉就不好吃了。\n櫻花蝦米糕是桌菜料理的澱粉類，還用了蓮子、火腿丁一起蒸煮，吃到這裡其實已經都飽了。清蒸石斑魚也是桌菜常見的菜色，醬汁不過鹹，所以味道很不錯。爆炒牛肉店家特別強調是用安格斯牛肉烹調，經過大火爆炒，口味相對較重，算是當日喜愛的菜色之一，牛肉軟嫩、醬汁微鹹，再加上蒜末與豌豆調味，非常下飯！\n緊接著是酥炸海鰻，這鰻魚有先經過醃製再進行油炸，所以入口酥軟，魚肉有醬香味，非常適合當作下酒菜，當天沒吃完，直接打包。看到豬肋排上桌時，已經吃不下了，選了最小的一根拿拿味，繼續打包。\n最後的湯品是蒜頭雞湯，把蒜末跟雞肉、干貝絲、蛤蜊一起燉煮，味道鮮甜，光是湯頭，長輩就非常喜歡，然後繼續打包。\n最後的甜點是西瓜和果凍，真的非常的飽足，也是許多小朋友的最愛。\n結帳時建議用現金，付現金不收服務費，刷卡會加10%服務費，另外上桌前的果汁飲料若不用，可以再減300，建議是先退掉，再自己拿喜歡的飲料。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Allen Chien",
+        "uri": "https://www.google.com/maps/contrib/108256479781760994112/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXiCdrn-2B1Rg9s-OyEUHv0eo_RGvMeC5ll6mqhW-i8N8xME0y2=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-08-03T08:02:56.149200453Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sUWVXc3dZbkJIY2pOVGFuQjBibEJyZUhCeVRXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sUWVXc3dZbkJIY2pOVGFuQjBibEJyZUhCeVRXYxAB!2m1!1s0x3442a95dd1f55eeb:0xf6b22334e6487ae6"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

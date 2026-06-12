@@ -1,0 +1,135 @@
+{
+  "id": "ChIJwxIRHY6uQjQRqjTgoMGf1kQ",
+  "types": [
+    "coffee_shop",
+    "cafe",
+    "food_store",
+    "store",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2820 3666",
+  "formattedAddress": "112台灣臺北市北投區裕民里明德路157-1號",
+  "location": {
+    "latitude": 25.111017,
+    "longitude": 121.520747
+  },
+  "rating": 4.4,
+  "websiteUri": "https://m.facebook.com/LuYeXianZongWonderlandCafe/?locale2=zh_TW",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 477,
+  "displayName": {
+    "text": "綠野仙蹤Wonderland cafe",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJwxIRHY6uQjQRqjTgoMGf1kQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT25oQlozbFZZM1ppVlRScVpUWkZibVJ0YkVaWU5rRRAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 5,
+      "text": {
+        "text": "童話氛圍濃厚的咖啡館，有萌熊與乾燥花裝飾，手寫菜單可愛精緻。必試麻糬鬆餅、手沖咖啡，有插座和 Wi-Fi，平日不限時，適合悠閒聊下午茶。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "童話氛圍濃厚的咖啡館，有萌熊與乾燥花裝飾，手寫菜單可愛精緻。必試麻糬鬆餅、手沖咖啡，有插座和 Wi-Fi，平日不限時，適合悠閒聊下午茶。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "TsungHao",
+        "uri": "https://www.google.com/maps/contrib/108392521200856868498/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUO2skoSZXdEs69hjVWuhZA7Cj7LlcQU8P_2OaBEPejM329wv0=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-08-10T14:56:36.948356477Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25oQlozbFZZM1ppVlRScVpUWkZibVJ0YkVaWU5rRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25oQlozbFZZM1ppVlRScVpUWkZibVJ0YkVaWU5rRRAB!2m1!1s0x3442ae8e1d1112c3:0x44d69fc1a0e034aa"
+    },
+    {
+      "name": "places/ChIJwxIRHY6uQjQRqjTgoMGf1kQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2kxVmMyVk1WbnBhWjJOZlZWTlJUVzV1UzNKblEzYxAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 5,
+      "text": {
+        "text": "這是一家氣氛溫馨的鄰里咖啡店，老闆親手烘焙店內所用的咖啡豆喔！\n那天跟他聊起咖啡時，他也讓我和孩子透過玻璃，一窺入門右手邊的烘焙室。店內餐點也十分好吃，感受得出來店家的用心，食材新鮮，經過他們用心備餐和烹調，孩子跟大人都在這裡享受了一頓舒心又暖胃的早午餐。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這是一家氣氛溫馨的鄰里咖啡店，老闆親手烘焙店內所用的咖啡豆喔！\n那天跟他聊起咖啡時，他也讓我和孩子透過玻璃，一窺入門右手邊的烘焙室。店內餐點也十分好吃，感受得出來店家的用心，食材新鮮，經過他們用心備餐和烹調，孩子跟大人都在這裡享受了一頓舒心又暖胃的早午餐。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Zoe Chiu",
+        "uri": "https://www.google.com/maps/contrib/115758300233159369903/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXqAq9wY03GtLCd-TD2zYel-8c7I2OZHfvDgOGk1tiD9dsw0fpL=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2025-07-28T16:19:06.237569364Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2kxVmMyVk1WbnBhWjJOZlZWTlJUVzV1UzNKblEzYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2kxVmMyVk1WbnBhWjJOZlZWTlJUVzV1UzNKblEzYxAB!2m1!1s0x3442ae8e1d1112c3:0x44d69fc1a0e034aa"
+    },
+    {
+      "name": "places/ChIJwxIRHY6uQjQRqjTgoMGf1kQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xST1dFVnBWazkwV2xkUk5qTmhjRFJRWVRsa2ExRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "早餐組合超值、好吃！\n咖啡上來太香了忘記先拍喝了一口😂\n老闆人超親切👍！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "早餐組合超值、好吃！\n咖啡上來太香了忘記先拍喝了一口😂\n老闆人超親切👍！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "MEILING TASI",
+        "uri": "https://www.google.com/maps/contrib/117589634569623558363/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLX7s6AglSq0B8_cqojZMd-b9lZglirScuQMF9vmmo6gEKdEw=s128-c0x00000000-cc-rp-mo-ba2"
+      },
+      "publishTime": "2025-08-23T02:10:12.509261873Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xST1dFVnBWazkwV2xkUk5qTmhjRFJRWVRsa2ExRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xST1dFVnBWazkwV2xkUk5qTmhjRFJRWVRsa2ExRRAB!2m1!1s0x3442ae8e1d1112c3:0x44d69fc1a0e034aa"
+    },
+    {
+      "name": "places/ChIJwxIRHY6uQjQRqjTgoMGf1kQ/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tWT1FXTnNibGRmTXpSYU0ySmtSelIzWHpGb1VVRRAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 5,
+      "text": {
+        "text": "去圖書館回來的休息站，很久沒有來吃了，鬆餅好吃，有果汁給小朋友喝，不用擔心小朋友吵著要喝飲料。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "去圖書館回來的休息站，很久沒有來吃了，鬆餅好吃，有果汁給小朋友喝，不用擔心小朋友吵著要喝飲料。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Mike",
+        "uri": "https://www.google.com/maps/contrib/104356851948906092256/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWPWLhMmKZskgD-sQ-NWIc1rj3GH5Z5OZN4ZLRNCCPs4uWX8H0=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-08-09T06:38:13.484475658Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tWT1FXTnNibGRmTXpSYU0ySmtSelIzWHpGb1VVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tWT1FXTnNibGRmTXpSYU0ySmtSelIzWHpGb1VVRRAB!2m1!1s0x3442ae8e1d1112c3:0x44d69fc1a0e034aa"
+    },
+    {
+      "name": "places/ChIJwxIRHY6uQjQRqjTgoMGf1kQ/reviews/ChdDSUhNMG9nS0VJQ0FnSUNocktEbnJBRRAB",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 5,
+      "text": {
+        "text": "店裡氛圍很溫馨～～～\n能夠讓人很自在的聊天\n也能感受到店家對咖啡的用心\n\n點了棉花糖鬆餅（還加了麻糬）\n麻糬的口感較軟不是我想像中帶點Q度的口感\n但還是很不錯吃\n\n司康的部分有點小小可惜\n當天吃的司康真的有點點硬\n\n蜂蜜菊花茶很香\n喝了很放鬆～～～～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "店裡氛圍很溫馨～～～\n能夠讓人很自在的聊天\n也能感受到店家對咖啡的用心\n\n點了棉花糖鬆餅（還加了麻糬）\n麻糬的口感較軟不是我想像中帶點Q度的口感\n但還是很不錯吃\n\n司康的部分有點小小可惜\n當天吃的司康真的有點點硬\n\n蜂蜜菊花茶很香\n喝了很放鬆～～～～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Amy",
+        "uri": "https://www.google.com/maps/contrib/103813295388554981877/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVklM1KVJy-c5nGkZHvxZNRYyvOXsokv-0NZHsbXUL0w8kzeR6tfQ=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2023-02-07T05:09:50.188359Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNocktEbnJBRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNocktEbnJBRRAB!2m1!1s0x3442ae8e1d1112c3:0x44d69fc1a0e034aa"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

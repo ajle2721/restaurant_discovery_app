@@ -1,0 +1,132 @@
+{
+  "id": "ChIJpffEL-2sQjQR8QGHG2t4hJo",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2796 8098",
+  "formattedAddress": "114台灣臺北市內湖區清白里金湖路24號",
+  "location": {
+    "latitude": 25.083047,
+    "longitude": 121.59625729999999
+  },
+  "rating": 4.3,
+  "websiteUri": "http://www.facebook.com/parsleybistro",
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 675,
+  "displayName": {
+    "text": "巴西里小館",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJpffEL-2sQjQR8QGHG2t4hJo/reviews/Ci9DQUlRQUNvZENodHljRjlvT25CR1YySnBVak5pU3paUmVGazFVMlV5TTNvd2NsRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "雙起司番茄寬麵+A套餐\n番茄醬汁普通，吃到最後有點膩，但是菜跟麵都給很多。加套餐CP值高，紅茶微微澀 不過整體來說不錯！上菜很快",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "雙起司番茄寬麵+A套餐\n番茄醬汁普通，吃到最後有點膩，但是菜跟麵都給很多。加套餐CP值高，紅茶微微澀 不過整體來說不錯！上菜很快",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "YI-FANG LEE",
+        "uri": "https://www.google.com/maps/contrib/110562619897740316230/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIddjO_5o0QUVzs65cUaLJnkmV9BfPPCYXoUNEvbXn0eZtDug=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2026-02-22T13:15:29.634786787Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25CR1YySnBVak5pU3paUmVGazFVMlV5TTNvd2NsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25CR1YySnBVak5pU3paUmVGazFVMlV5TTNvd2NsRRAB!2m1!1s0x3442aced2fc4f7a5:0x9a84786b1b8701f1"
+    },
+    {
+      "name": "places/ChIJpffEL-2sQjQR8QGHG2t4hJo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sb1JWQlZjbkpRVkVWMVZFSkRjVlZmZWtSaFIwRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "氣氛溫馨，食材新鮮、處理的很乾淨、調味適中、價格/份量也抓的很棒，家庭、朋友、情侶都適合",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "氣氛溫馨，食材新鮮、處理的很乾淨、調味適中、價格/份量也抓的很棒，家庭、朋友、情侶都適合",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Aries Yu",
+        "uri": "https://www.google.com/maps/contrib/110987651675680745568/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUktFrXYFrDkd9T_9Nnzg5h7D2zNGnsWufyxVunGbvoC2YHYoo=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-03-06T12:37:12.015730998Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sb1JWQlZjbkpRVkVWMVZFSkRjVlZmZWtSaFIwRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sb1JWQlZjbkpRVkVWMVZFSkRjVlZmZWtSaFIwRRAB!2m1!1s0x3442aced2fc4f7a5:0x9a84786b1b8701f1"
+    },
+    {
+      "name": "places/ChIJpffEL-2sQjQR8QGHG2t4hJo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pkdGJHRjNVbkJ4VGkxdlJUQndUemg0ZVc1TldsRRAB",
+      "relativePublishTimeDescription": "8 個月前",
+      "rating": 5,
+      "text": {
+        "text": "吃了很多次了，幾乎把菜單上的義大利麵都吃過了，太好吃了！！！\n單點主菜就有附飲料，價格還相當划算！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "吃了很多次了，幾乎把菜單上的義大利麵都吃過了，太好吃了！！！\n單點主菜就有附飲料，價格還相當划算！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "hpm",
+        "uri": "https://www.google.com/maps/contrib/113638954843549834001/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW6vZmxLgcnXS9aStkbBBLnCDMe4v7mfhApsq4exBIJWaxSDEYo=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2025-09-21T04:46:04.286135633Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pkdGJHRjNVbkJ4VGkxdlJUQndUemg0ZVc1TldsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pkdGJHRjNVbkJ4VGkxdlJUQndUemg0ZVc1TldsRRAB!2m1!1s0x3442aced2fc4f7a5:0x9a84786b1b8701f1"
+    },
+    {
+      "name": "places/ChIJpffEL-2sQjQR8QGHG2t4hJo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tSR1JGOXVSWE5xZFRsSVNHSnJSamR5U0hwQlZHYxAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "來內湖工作已經九個月了，還有好多看起來不錯的餐廳想要去開箱嚐鮮，這間平常日的生意就不錯了，假日一定更好，所以就事先訂位了，訂了5：30第一批，還沒到5：30就有一些人在外頭等待了，當然包括小弟在內😅，一進去感覺裝潢還算可以，桌子的間距也算寬，沒有很阿雜的感覺，照慣例到一間新的餐廳，一定要點菜單上頭最貴的菜，於是就點了個“紐西蘭 PS 菲力 8 Oz”，第二貴的是紅酒燉羊膝，由於小弟不敢吃羊，就pass換點第三貴的“德國豬腳”，怕吃不飽所以又再點了個“奶油金沙海鮮義大利麵”，不得不說他們家的份量都不算少，尤其是德國豬腳吃完非常有飽足感，沾點芥末醬更添風味，菲力七分熟也非常的軟嫩，只可惜沒有美國牛肉那種香氣，奶油金沙海鮮義大利麵就中規中矩，如果加150.-點C 餐還能有湯、麵包、沙拉、甜點，CP值算是很高了，難怪客人絡繹不絕，幾乎都是客滿的狀態，有機會再來嚐嚐其他的品項，在此祝店家生意興隆財源廣進，看到此分享文的大大都能平安喜樂健康幸福每一天🙏\n\n又來解鎖了，這次點“綠咖哩佐烤雞腿飯(辣)”也一樣非常好吃，不過還蠻辣的，可能我不太能吃辣😅\n祝大家新年快樂~事事順心~心想事成🙏",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "來內湖工作已經九個月了，還有好多看起來不錯的餐廳想要去開箱嚐鮮，這間平常日的生意就不錯了，假日一定更好，所以就事先訂位了，訂了5：30第一批，還沒到5：30就有一些人在外頭等待了，當然包括小弟在內😅，一進去感覺裝潢還算可以，桌子的間距也算寬，沒有很阿雜的感覺，照慣例到一間新的餐廳，一定要點菜單上頭最貴的菜，於是就點了個“紐西蘭 PS 菲力 8 Oz”，第二貴的是紅酒燉羊膝，由於小弟不敢吃羊，就pass換點第三貴的“德國豬腳”，怕吃不飽所以又再點了個“奶油金沙海鮮義大利麵”，不得不說他們家的份量都不算少，尤其是德國豬腳吃完非常有飽足感，沾點芥末醬更添風味，菲力七分熟也非常的軟嫩，只可惜沒有美國牛肉那種香氣，奶油金沙海鮮義大利麵就中規中矩，如果加150.-點C 餐還能有湯、麵包、沙拉、甜點，CP值算是很高了，難怪客人絡繹不絕，幾乎都是客滿的狀態，有機會再來嚐嚐其他的品項，在此祝店家生意興隆財源廣進，看到此分享文的大大都能平安喜樂健康幸福每一天🙏\n\n又來解鎖了，這次點“綠咖哩佐烤雞腿飯(辣)”也一樣非常好吃，不過還蠻辣的，可能我不太能吃辣😅\n祝大家新年快樂~事事順心~心想事成🙏",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Hung Boss 1218",
+        "uri": "https://www.google.com/maps/contrib/108558747375454324069/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUUfSI2htsvIgweiyEDYxSl7AgmW89I1ghCjcBTc-iKQm7icSLp=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2026-01-05T06:52:44.382785261Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tSR1JGOXVSWE5xZFRsSVNHSnJSamR5U0hwQlZHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tSR1JGOXVSWE5xZFRsSVNHSnJSamR5U0hwQlZHYxAB!2m1!1s0x3442aced2fc4f7a5:0x9a84786b1b8701f1"
+    },
+    {
+      "name": "places/ChIJpffEL-2sQjQR8QGHG2t4hJo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xOb2FXdHBWMVF3U2xCUk1WQnBaVVJOWlhObFpGRRAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "好吃，都是外面吃不到的義大利麵口味。\n推薦：雙起司番茄麵、綠咖哩雞腿燉飯（很辣，小心）\n份量很大，每次吃完都很撐。\n蛋糕是店家自製。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "好吃，都是外面吃不到的義大利麵口味。\n推薦：雙起司番茄麵、綠咖哩雞腿燉飯（很辣，小心）\n份量很大，每次吃完都很撐。\n蛋糕是店家自製。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Alicia Lee",
+        "uri": "https://www.google.com/maps/contrib/111316345763066112424/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjViM5KjPG2-y882-AazWPacDzNplPy32PM5hCeblQo4M3k1FIdM=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-28T07:44:11.962683578Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xOb2FXdHBWMVF3U2xCUk1WQnBaVVJOWlhObFpGRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xOb2FXdHBWMVF3U2xCUk1WQnBaVVJOWlhObFpGRRAB!2m1!1s0x3442aced2fc4f7a5:0x9a84786b1b8701f1"
+    }
+  ],
+  "menuForChildren": true,
+  "goodForChildren": true
+}

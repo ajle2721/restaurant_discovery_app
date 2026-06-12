@@ -1,0 +1,132 @@
+{
+  "id": "ChIJqdsDgUmpQjQR2C7KTyATAqw",
+  "types": [
+    "italian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2382 1233",
+  "formattedAddress": "100台灣臺北市中正區館前路6號3樓",
+  "location": {
+    "latitude": 25.046138,
+    "longitude": 121.514762
+  },
+  "rating": 4,
+  "websiteUri": "http://www.saliya.com.tw/",
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 2214,
+  "displayName": {
+    "text": "薩莉亞 台北館前店",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJqdsDgUmpQjQR2C7KTyATAqw/reviews/Ci9DQUlRQUNvZENodHljRjlvT25GcGIyOWlhVk5hVVVabWEyaFZNRTUwT0hrNU1XYxAB",
+      "relativePublishTimeDescription": "6 個月前",
+      "rating": 5,
+      "text": {
+        "text": "很久很久沒吃囉經過就順路來懷舊一下，又是一次美味快樂的經驗。帶位的應該是店長（戴眼鏡的年輕男生）服務很好也很親切友善，店裡其他的服務員妹妹也都是服務滿分喔。食物平價好吃，真心認為這種超值價位沒甚麼好嫌的。每回吃薩莉亞都是開心又飽足的離開。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "很久很久沒吃囉經過就順路來懷舊一下，又是一次美味快樂的經驗。帶位的應該是店長（戴眼鏡的年輕男生）服務很好也很親切友善，店裡其他的服務員妹妹也都是服務滿分喔。食物平價好吃，真心認為這種超值價位沒甚麼好嫌的。每回吃薩莉亞都是開心又飽足的離開。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "布小達",
+        "uri": "https://www.google.com/maps/contrib/108688393681427506845/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUIJWGpUMsVuRbZ7av5S03xdulLoNBF-PQ8bRA97FshFCeEm8vJfA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-11-10T18:16:46.918640113Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT25GcGIyOWlhVk5hVVVabWEyaFZNRTUwT0hrNU1XYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT25GcGIyOWlhVk5hVVVabWEyaFZNRTUwT0hrNU1XYxAB!2m1!1s0x3442a9498103dba9:0xac0213204fca2ed8"
+    },
+    {
+      "name": "places/ChIJqdsDgUmpQjQR2C7KTyATAqw/reviews/Ci9DQUlRQUNvZENodHljRjlvT21Ga1lVOXplRTFLUzE5R2RFTlZOVXB4TkhSalpHYxAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 4,
+      "text": {
+        "text": "位於台北車站附近的日本洋食連鎖餐廳，價格划算，餐點也算美味。這次點了青醬雞肉麵、雞肉沙拉、橄欖油蒜海鮮烤蔬菜、香辣海瓜子麵、黑胡椒腿排中卷、半熟蛋培根蛋奶麵、橄欖佛卡夏和飲料吧。義大利麵煮的略有麵心，不管是做成奶油白醬或是青醬都好吃。生菜沙拉新鮮美味，份量也大，很適合飲控的朋友。雞腿排外皮酥脆。簡單水煮的中卷放到鐵盤上，簡單的美味。整體餐點口味清淡好吃。\n\nThis Japanese chain restaurant near Taipei Main Station offers reasonably priced and delicious meals. This time, I ordered chicken pasta with pesto sauce, chicken salad, grilled vegetables with olive oil and garlic seafood, spicy clam pasta, black pepper leg fillet roll, soft-boiled egg and bacon custard pasta, olive focaccia, and a drink. The pasta was cooked to a perfect consistency and was delicious with either a creamy white sauce or pesto sauce. The salad was fresh and delicious, and the portion was generous, perfect for those with a heavy drink. The chicken thigh fillet had a crispy skin. The simply poached fillet roll, served on a steel plate, was a simple yet delicious experience. Overall, the meal was light and delicious.",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "位於台北車站附近的日本洋食連鎖餐廳，價格划算，餐點也算美味。這次點了青醬雞肉麵、雞肉沙拉、橄欖油蒜海鮮烤蔬菜、香辣海瓜子麵、黑胡椒腿排中卷、半熟蛋培根蛋奶麵、橄欖佛卡夏和飲料吧。義大利麵煮的略有麵心，不管是做成奶油白醬或是青醬都好吃。生菜沙拉新鮮美味，份量也大，很適合飲控的朋友。雞腿排外皮酥脆。簡單水煮的中卷放到鐵盤上，簡單的美味。整體餐點口味清淡好吃。\n\nThis Japanese chain restaurant near Taipei Main Station offers reasonably priced and delicious meals. This time, I ordered chicken pasta with pesto sauce, chicken salad, grilled vegetables with olive oil and garlic seafood, spicy clam pasta, black pepper leg fillet roll, soft-boiled egg and bacon custard pasta, olive focaccia, and a drink. The pasta was cooked to a perfect consistency and was delicious with either a creamy white sauce or pesto sauce. The salad was fresh and delicious, and the portion was generous, perfect for those with a heavy drink. The chicken thigh fillet had a crispy skin. The simply poached fillet roll, served on a steel plate, was a simple yet delicious experience. Overall, the meal was light and delicious.",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Eric Chiu",
+        "uri": "https://www.google.com/maps/contrib/117293018478126498768/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWzEinFgZEfhSvGkl1fp08i_tuMX7ZJ05MUObCh8L1QIeNwVsjqCg=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-09-08T16:29:31.239074879Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21Ga1lVOXplRTFLUzE5R2RFTlZOVXB4TkhSalpHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21Ga1lVOXplRTFLUzE5R2RFTlZOVXB4TkhSalpHYxAB!2m1!1s0x3442a9498103dba9:0xac0213204fca2ed8"
+    },
+    {
+      "name": "places/ChIJqdsDgUmpQjQR2C7KTyATAqw/reviews/Ci9DQUlRQUNvZENodHljRjlvT205UFEzWlNWRkpYVXkxRUxYRTNjMk14UW1ac1NsRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 1,
+      "text": {
+        "text": "20251103\n跟國外朋友在北車找隨意找個用餐地方邊吃邊聊，\n餐食真的加足夠味～鹹，湯是温的。 結果朋友跟我抬頭突然跟米奇對視⋯⋯，朋友差點驚叫。\n\n離開時有告知櫃檯，並告知位子，他們淡淡的說會告訴公司做清消～結束。\n\n這應該是一次性消費了。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "20251103\n跟國外朋友在北車找隨意找個用餐地方邊吃邊聊，\n餐食真的加足夠味～鹹，湯是温的。 結果朋友跟我抬頭突然跟米奇對視⋯⋯，朋友差點驚叫。\n\n離開時有告知櫃檯，並告知位子，他們淡淡的說會告訴公司做清消～結束。\n\n這應該是一次性消費了。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Doris (光的旅者)",
+        "uri": "https://www.google.com/maps/contrib/109271918252447093922/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXXUPbHgOsJb6LYr9kFxJ09GEzV_bdAdt8ihO7Ckta-vmeww3kL=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-11-04T13:56:02.717421113Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT205UFEzWlNWRkpYVXkxRUxYRTNjMk14UW1ac1NsRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT205UFEzWlNWRkpYVXkxRUxYRTNjMk14UW1ac1NsRRAB!2m1!1s0x3442a9498103dba9:0xac0213204fca2ed8"
+    },
+    {
+      "name": "places/ChIJqdsDgUmpQjQR2C7KTyATAqw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pCT2NHUkpURFJMY1hCemVuVXRPRGxMV1ZGak4wRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 3,
+      "text": {
+        "text": "掃碼點餐，選了“平日精選超值午餐”+飲料吧，加上“雞米花”\n香烤辣味雞米花  65元\n很快就送上來了，外脆內軟，很不錯吃！\n結果雞米花都吃完了，主餐還沒上，左等右等，心想“不妙了”，果然等到主餐上來後一看，焦了\n焗烤雞肉咖哩飯+飲料吧  135元\n因為烤太久，雞肉變得乾乾的，雞皮變脆，咖哩醬汁幾乎乾掉，裡面的薑黃飯也快變鍋巴了，好吃的餐就這樣半毀了，但還是把它吃完了\n飲料種類還不少，不錯喝！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "掃碼點餐，選了“平日精選超值午餐”+飲料吧，加上“雞米花”\n香烤辣味雞米花  65元\n很快就送上來了，外脆內軟，很不錯吃！\n結果雞米花都吃完了，主餐還沒上，左等右等，心想“不妙了”，果然等到主餐上來後一看，焦了\n焗烤雞肉咖哩飯+飲料吧  135元\n因為烤太久，雞肉變得乾乾的，雞皮變脆，咖哩醬汁幾乎乾掉，裡面的薑黃飯也快變鍋巴了，好吃的餐就這樣半毀了，但還是把它吃完了\n飲料種類還不少，不錯喝！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Richard Wang",
+        "uri": "https://www.google.com/maps/contrib/111386791291124656704/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUTC4XjsSViAWbPACmCup1nE2iZfAVOFwn5AgYOccITnobq-0w=s128-c0x00000000-cc-rp-mo-ba8"
+      },
+      "publishTime": "2025-10-15T20:41:34.734410734Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pCT2NHUkpURFJMY1hCemVuVXRPRGxMV1ZGak4wRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pCT2NHUkpURFJMY1hCemVuVXRPRGxMV1ZGak4wRRAB!2m1!1s0x3442a9498103dba9:0xac0213204fca2ed8"
+    },
+    {
+      "name": "places/ChIJqdsDgUmpQjQR2C7KTyATAqw/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xKUFdHaERaR2RmVlRGbVRrVklWRzl2ZEVwMFFWRRAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 1,
+      "text": {
+        "text": "雖然一個人吃只點了麵和湯\n送上來是冷的湯\n我想說初三可能人手不夠\n好言希望他們再幫忙熱一下\n覺得不好意思\n結果再送上來還是冷的\n一點變熱的沒有\n我只能啞巴吃黃連\n連麵送上來都冷冷的\n你們是微波爐壞了嗎",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "雖然一個人吃只點了麵和湯\n送上來是冷的湯\n我想說初三可能人手不夠\n好言希望他們再幫忙熱一下\n覺得不好意思\n結果再送上來還是冷的\n一點變熱的沒有\n我只能啞巴吃黃連\n連麵送上來都冷冷的\n你們是微波爐壞了嗎",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Weiray Yeh",
+        "uri": "https://www.google.com/maps/contrib/112853459951378727408/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKgjTs8KjLrz7f3wJxrJSoHC4YzwwIaVo2LuIbiEAFcNEsNvA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-02-19T04:58:32.727686693Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xKUFdHaERaR2RmVlRGbVRrVklWRzl2ZEVwMFFWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xKUFdHaERaR2RmVlRGbVRrVklWRzl2ZEVwMFFWRRAB!2m1!1s0x3442a9498103dba9:0xac0213204fca2ed8"
+    }
+  ],
+  "goodForChildren": true
+}

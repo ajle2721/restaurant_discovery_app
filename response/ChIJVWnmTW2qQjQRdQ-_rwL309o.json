@@ -1,0 +1,130 @@
+{
+  "id": "ChIJVWnmTW2qQjQRdQ-_rwL309o",
+  "types": [
+    "breakfast_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2239 7139",
+  "formattedAddress": "116台灣臺北市文山區興光里興隆路三段177號",
+  "location": {
+    "latitude": 24.9963576,
+    "longitude": 121.5602299
+  },
+  "rating": 4.2,
+  "priceLevel": "PRICE_LEVEL_INEXPENSIVE",
+  "userRatingCount": 85,
+  "displayName": {
+    "text": "早安豆漿 中西式早餐",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJVWnmTW2qQjQRdQ-_rwL309o/reviews/ChdDSUhNMG9nS0VKREF6TlBOOXB2ei1RRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 5,
+      "text": {
+        "text": "燒餅是軟皮有夠愛 好好吃！喜歡這種軟皮蛋餅 醬油膏有蒜味但偏甜 烤巧克力吐司也很好吃…餐飲品質高 滿驚喜的🤣",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "燒餅是軟皮有夠愛 好好吃！喜歡這種軟皮蛋餅 醬油膏有蒜味但偏甜 烤巧克力吐司也很好吃…餐飲品質高 滿驚喜的🤣",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "L",
+        "uri": "https://www.google.com/maps/contrib/104549360804297514571/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVSCJJ8YSANTDBYkw1FxX3Lw3E7A49_RPIL5uTScV2afu6p2bb3Yw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-08-21T05:05:02.857137626Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VKREF6TlBOOXB2ei1RRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VKREF6TlBOOXB2ei1RRRAB!2m1!1s0x3442aa6d4de66955:0xdad3f702afbf0f75"
+    },
+    {
+      "name": "places/ChIJVWnmTW2qQjQRdQ-_rwL309o/reviews/Ci9DQUlRQUNvZENodHljRjlvT21VMVIzZGFiemQ0Ykc1RlJVaE9iRlIxVDA5UWJWRRAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "老闆跟老闆娘超客氣的，有一次錢少帶，老闆說沒關係，小錢。隔天早上趕緊補回去，這說明了，社會上還是有一些心存善念的人。但還時太少了。生意興隆，財源滾滾，平安順心。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "老闆跟老闆娘超客氣的，有一次錢少帶，老闆說沒關係，小錢。隔天早上趕緊補回去，這說明了，社會上還是有一些心存善念的人。但還時太少了。生意興隆，財源滾滾，平安順心。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "美眉",
+        "uri": "https://www.google.com/maps/contrib/114269489037010499967/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocKF-8glovz_3pBxNjUnQWW562LDbbRNPBC0g1l_xoVLsKJaww=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-10-24T09:46:55.095155247Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21VMVIzZGFiemQ0Ykc1RlJVaE9iRlIxVDA5UWJWRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21VMVIzZGFiemQ0Ykc1RlJVaE9iRlIxVDA5UWJWRRAB!2m1!1s0x3442aa6d4de66955:0xdad3f702afbf0f75"
+    },
+    {
+      "name": "places/ChIJVWnmTW2qQjQRdQ-_rwL309o/reviews/ChZDSUhNMG9nS0VJQ0FnSURfNDZ5Skh3EAE",
+      "relativePublishTimeDescription": "1 年前",
+      "rating": 5,
+      "text": {
+        "text": "所有東西都是現點現做，而且奶精奶茶蠻好喝的，店家也很親切，推一個",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "所有東西都是現點現做，而且奶精奶茶蠻好喝的，店家也很親切，推一個",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "趙偉志",
+        "uri": "https://www.google.com/maps/contrib/107209585859709775929/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWHNL43UZ1tNrPjCnycQUuJHbJ54dWMVOAPSPhPL4H0L-szoczA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-01-26T19:06:31.034467Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSURfNDZ5Skh3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSURfNDZ5Skh3EAE!2m1!1s0x3442aa6d4de66955:0xdad3f702afbf0f75"
+    },
+    {
+      "name": "places/ChIJVWnmTW2qQjQRdQ-_rwL309o/reviews/ChZDSUhNMG9nS0VJQ0FnSUNlcUoyRVR3EAE",
+      "relativePublishTimeDescription": "3 年前",
+      "rating": 4,
+      "text": {
+        "text": "餐點份量很足夠，而且豆漿是新鮮熬煮的！\n我不確定營業時間是否只到10:30～但感覺真的是早餐店，不是早午餐店營業時間可能會開到中午12:00，如果早起運動從運動中心運動完，超級適合來這裡用餐的，用完餐還可以去旁邊的超商吹冷氣😂\n\n夏天的缺點就是沒有冷氣，但因為店面是開放式的空間，如果有風的話會比較不悶熱。\n\n店內的環境尚可～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "餐點份量很足夠，而且豆漿是新鮮熬煮的！\n我不確定營業時間是否只到10:30～但感覺真的是早餐店，不是早午餐店營業時間可能會開到中午12:00，如果早起運動從運動中心運動完，超級適合來這裡用餐的，用完餐還可以去旁邊的超商吹冷氣😂\n\n夏天的缺點就是沒有冷氣，但因為店面是開放式的空間，如果有風的話會比較不悶熱。\n\n店內的環境尚可～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Jing Wu",
+        "uri": "https://www.google.com/maps/contrib/104093595311863381764/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWw28Q6rT8Y3SgGzLm2JcQwgtVVuJKNEGKOIG3d4a9LO1sua4_k8Q=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2022-09-05T03:47:03.418374Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNlcUoyRVR3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNlcUoyRVR3EAE!2m1!1s0x3442aa6d4de66955:0xdad3f702afbf0f75"
+    },
+    {
+      "name": "places/ChIJVWnmTW2qQjQRdQ-_rwL309o/reviews/ChZDSUhNMG9nS0VJQ0FnSUR4bmVDUUZBEAE",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "這就是那傳統早餐店的味道！\n這鐵板麵 真的在鐵板上炒 汁又收得乾👍🏻吃起來真是超好吃的啦，拜託那些改用煮鐵板麵的不要鬧了⋯\n鮪魚蛋餅的鮪魚也是我小時候吃過的味道\n這好吃的味道，我忘不掉\n蘿蔔糕也是一等一的美味\n希望這樣的早餐店永遠存在著 不要消失\n美味的餐點、人情味，覺得回到過去了！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "這就是那傳統早餐店的味道！\n這鐵板麵 真的在鐵板上炒 汁又收得乾👍🏻吃起來真是超好吃的啦，拜託那些改用煮鐵板麵的不要鬧了⋯\n鮪魚蛋餅的鮪魚也是我小時候吃過的味道\n這好吃的味道，我忘不掉\n蘿蔔糕也是一等一的美味\n希望這樣的早餐店永遠存在著 不要消失\n美味的餐點、人情味，覺得回到過去了！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "史汀",
+        "uri": "https://www.google.com/maps/contrib/114783648904381759166/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUizUbrUMbWcn9PAL0rKxUoDevOPzcDIXaiwV_5XxzMbGW1M0Sptw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2023-06-13T17:26:33.959844Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUR4bmVDUUZBEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUR4bmVDUUZBEAE!2m1!1s0x3442aa6d4de66955:0xdad3f702afbf0f75"
+    }
+  ]
+}

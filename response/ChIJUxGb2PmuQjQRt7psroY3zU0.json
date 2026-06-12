@@ -1,0 +1,132 @@
+{
+  "id": "ChIJUxGb2PmuQjQRt7psroY3zU0",
+  "types": [
+    "italian_restaurant",
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2892 5351",
+  "formattedAddress": "112台灣臺北市北投區八仙里公舘路420號",
+  "location": {
+    "latitude": 25.1221975,
+    "longitude": 121.50258910000001
+  },
+  "rating": 4.2,
+  "priceLevel": "PRICE_LEVEL_MODERATE",
+  "userRatingCount": 385,
+  "displayName": {
+    "text": "希斯酪義大利麵",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJUxGb2PmuQjQRt7psroY3zU0/reviews/Ci9DQUlRQUNvZENodHljRjlvT21sSGFFaG9kREYyTjI1UldtRm1ZVTVwTTAxc2NXYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 3,
+      "text": {
+        "text": "不能訂位，位置先到先坐\n我們還在傻傻的以為要帶位 🤣\n香蒜麵包的香蒜醬是另外附的\n吃的到蒜的醬 🤣\n南瓜濃湯跟巧達濃湯現點現做，湯頭偏鹹\n咖哩焗烤飯份量適中，會有一點點辣度\n只能說老闆態度很有個性 😂",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "不能訂位，位置先到先坐\n我們還在傻傻的以為要帶位 🤣\n香蒜麵包的香蒜醬是另外附的\n吃的到蒜的醬 🤣\n南瓜濃湯跟巧達濃湯現點現做，湯頭偏鹹\n咖哩焗烤飯份量適中，會有一點點辣度\n只能說老闆態度很有個性 😂",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "語",
+        "uri": "https://www.google.com/maps/contrib/100121618378142657345/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXCYzqe_-gEDqv-stTdiLUML2-pOeGz5GXJUkVroA-13RfXrhkeUA=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-01-18T11:42:26.943187307Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21sSGFFaG9kREYyTjI1UldtRm1ZVTVwTTAxc2NXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21sSGFFaG9kREYyTjI1UldtRm1ZVTVwTTAxc2NXYxAB!2m1!1s0x3442aef9d89b1153:0x4dcd3786ae6cbab7"
+    },
+    {
+      "name": "places/ChIJUxGb2PmuQjQRt7psroY3zU0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tkYWJXNXBXSFJXTFd4dWExUjJNblI2YjA4M2EyYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "番茄蔬菜湯清爽很順口，奶油培根焗烤飯鹹香不膩口",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "番茄蔬菜湯清爽很順口，奶油培根焗烤飯鹹香不膩口",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "李斌",
+        "uri": "https://www.google.com/maps/contrib/102444180855490362017/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocLuv-ljDZS9_ChYDLYyR9PjfXH161pm3M5JYfT8IbCjYQoKbw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-01-15T11:16:50.766173396Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tkYWJXNXBXSFJXTFd4dWExUjJNblI2YjA4M2EyYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tkYWJXNXBXSFJXTFd4dWExUjJNblI2YjA4M2EyYxAB!2m1!1s0x3442aef9d89b1153:0x4dcd3786ae6cbab7"
+    },
+    {
+      "name": "places/ChIJUxGb2PmuQjQRt7psroY3zU0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2tjelgxTlNOWFowTTJOS1JsUkVaMk5VYVc1MlowRRAB",
+      "relativePublishTimeDescription": "9 個月前",
+      "rating": 4,
+      "text": {
+        "text": "奶油蛤蠣管麵 還不錯吃 蠻濃郁的\n香蒜麵包 是大蒜醬另外附要自己抹～\n蠻偏 家庭式的用餐環境 ～ 店裡燈光也蠻橘黃的\n就在捷運站旁邊～\n偶爾想吃義大利麵 可以吃看看這家 還不錯～",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "奶油蛤蠣管麵 還不錯吃 蠻濃郁的\n香蒜麵包 是大蒜醬另外附要自己抹～\n蠻偏 家庭式的用餐環境 ～ 店裡燈光也蠻橘黃的\n就在捷運站旁邊～\n偶爾想吃義大利麵 可以吃看看這家 還不錯～",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "kiki",
+        "uri": "https://www.google.com/maps/contrib/110913131765703145755/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVvluy-3vvGsDyJEmxVGM2xj_oqRuShBmWEGln688fSJ7LLlDIk=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-08-18T14:53:54.067321591Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2tjelgxTlNOWFowTTJOS1JsUkVaMk5VYVc1MlowRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2tjelgxTlNOWFowTTJOS1JsUkVaMk5VYVc1MlowRRAB!2m1!1s0x3442aef9d89b1153:0x4dcd3786ae6cbab7"
+    },
+    {
+      "name": "places/ChIJUxGb2PmuQjQRt7psroY3zU0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xGQlpUbFlOM05pWm1keWJUUlpWMmhYV0ZOdmNHYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 1,
+      "text": {
+        "text": "等了一小時的焗飯，然後就只有這兩塊有焗烤，飯的量也少得可憐，不推薦所有想嚐鮮的人",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "等了一小時的焗飯，然後就只有這兩塊有焗烤，飯的量也少得可憐，不推薦所有想嚐鮮的人",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "陳皓",
+        "uri": "https://www.google.com/maps/contrib/116492544688507847698/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocIgAeC0wr1HDfhE700S7yMAunFUy1qT5Ct3fNQ963fywxW4EA=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2026-01-16T12:22:43.990425326Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xGQlpUbFlOM05pWm1keWJUUlpWMmhYV0ZOdmNHYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xGQlpUbFlOM05pWm1keWJUUlpWMmhYV0ZOdmNHYxAB!2m1!1s0x3442aef9d89b1153:0x4dcd3786ae6cbab7"
+    },
+    {
+      "name": "places/ChIJUxGb2PmuQjQRt7psroY3zU0/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pNM1RHMTVSM0l5TW00elQzaG9Nemg2UlRWaU9VRRAB",
+      "relativePublishTimeDescription": "10 個月前",
+      "rating": 4,
+      "text": {
+        "text": "老闆因為與英國希斯酪結緣，因此在奇岩捷運站附近開了這家屬於老闆的希斯酪風味義大利麵。\n\n現點現做的好味道，本次點了奶油培根義大利麵，印象深刻的是義大利麵，相較一般麵體醋ㄧ點點，軟中帶Q，搭配濃郁起司🧀與奶油香味非常好吃😋，含有🥓培根好吃。\n\n整體cp值不錯，多年沒有漲價，我覺得有經過一定不要錯過，很適合家庭或是三五好友聚會，不過下午有休息時間，要注意前往用餐時間。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "老闆因為與英國希斯酪結緣，因此在奇岩捷運站附近開了這家屬於老闆的希斯酪風味義大利麵。\n\n現點現做的好味道，本次點了奶油培根義大利麵，印象深刻的是義大利麵，相較一般麵體醋ㄧ點點，軟中帶Q，搭配濃郁起司🧀與奶油香味非常好吃😋，含有🥓培根好吃。\n\n整體cp值不錯，多年沒有漲價，我覺得有經過一定不要錯過，很適合家庭或是三五好友聚會，不過下午有休息時間，要注意前往用餐時間。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "patty lin",
+        "uri": "https://www.google.com/maps/contrib/110459474223925510523/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjUaWT8ecUyk5U8x8Aj0g8YNVeqSLrZxRc88sYb9FVkXJ3Bi5SM9=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2025-07-29T05:23:21.686069391Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pNM1RHMTVSM0l5TW00elQzaG9Nemg2UlRWaU9VRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pNM1RHMTVSM0l5TW00elQzaG9Nemg2UlRWaU9VRRAB!2m1!1s0x3442aef9d89b1153:0x4dcd3786ae6cbab7"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

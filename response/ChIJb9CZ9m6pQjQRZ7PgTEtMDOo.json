@@ -1,0 +1,134 @@
+{
+  "id": "ChIJb9CZ9m6pQjQRZ7PgTEtMDOo",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2563 5900",
+  "formattedAddress": "104台灣臺北市中山區中山北路二段96-1號雙連郵局隔壁",
+  "location": {
+    "latitude": 25.05945,
+    "longitude": 121.5225471
+  },
+  "rating": 4.6,
+  "userRatingCount": 605,
+  "displayName": {
+    "text": "嘉廚 Collective Excellent restaurant",
+    "languageCode": "zh-TW"
+  },
+  "editorialSummary": {
+    "text": "Hip, industrial-style venue with a global menu featuring dim sum, meat dishes & more.",
+    "languageCode": "en"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJb9CZ9m6pQjQRZ7PgTEtMDOo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xVMVdVZzRkMkpuTjI5eVkwcHdaRVJCYzJSQ1JVRRAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "用餐時間：115.02.07中午 使用線上訂位\n\n這次中午來用餐，整體體驗算是蠻不錯的。\n服務人員態度親切、有耐心，點餐與上菜過程都很順，讓人感覺很舒服。不過用餐環境稍微偏小，加上背景音樂音量有點大，導致大家聊天時都得提高音量，氣氛稍微吵了一點。\n\n餐點我們加了300元套餐，包含飲料、湯、前菜與甜點。\n紅茶喝起來略帶苦澀，個人比較無感；薯條口感酥脆很好吃，但調味偏鹹。\n湯品則非常加分，味道濃郁順口，會讓人忍不住想再續一碗。\n\n主餐部分表現亮眼，香料烤雞搭配松露燉飯味道協調、不膩口；法式香烤羊小排選五分熟，肉質相當嫩，搭配鹽巴就很美味。\n\n甜點提拉米蘇不只好吃，份量也給得很大，誠意十足。\n\n店內有廁所，牆壁上掛了很多畫，支援信用卡付款與發票載具，整體來說仍是值得再訪的餐廳。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "用餐時間：115.02.07中午 使用線上訂位\n\n這次中午來用餐，整體體驗算是蠻不錯的。\n服務人員態度親切、有耐心，點餐與上菜過程都很順，讓人感覺很舒服。不過用餐環境稍微偏小，加上背景音樂音量有點大，導致大家聊天時都得提高音量，氣氛稍微吵了一點。\n\n餐點我們加了300元套餐，包含飲料、湯、前菜與甜點。\n紅茶喝起來略帶苦澀，個人比較無感；薯條口感酥脆很好吃，但調味偏鹹。\n湯品則非常加分，味道濃郁順口，會讓人忍不住想再續一碗。\n\n主餐部分表現亮眼，香料烤雞搭配松露燉飯味道協調、不膩口；法式香烤羊小排選五分熟，肉質相當嫩，搭配鹽巴就很美味。\n\n甜點提拉米蘇不只好吃，份量也給得很大，誠意十足。\n\n店內有廁所，牆壁上掛了很多畫，支援信用卡付款與發票載具，整體來說仍是值得再訪的餐廳。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "嘉紘（Louis）",
+        "uri": "https://www.google.com/maps/contrib/117622683096809701097/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a/ACg8ocJ9JdwIJSYRfGhA6USJEzoVt9I3gKkjmmxV8qZzB1t_yJ37NQ=s128-c0x00000000-cc-rp-mo-ba7"
+      },
+      "publishTime": "2026-02-07T16:00:22.880336282Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xVMVdVZzRkMkpuTjI5eVkwcHdaRVJCYzJSQ1JVRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xVMVdVZzRkMkpuTjI5eVkwcHdaRVJCYzJSQ1JVRRAB!2m1!1s0x3442a96ef699d06f:0xea0c4c4b4ce0b367"
+    },
+    {
+      "name": "places/ChIJb9CZ9m6pQjQRZ7PgTEtMDOo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2pOa1pHOWZjemhYT0VGVFZHVTRjWEozZVV3eVFuYxAB",
+      "relativePublishTimeDescription": "4 個月前",
+      "rating": 4,
+      "text": {
+        "text": "之前看別人的照片，豬肋排只有4根看起來少少的，怕吃不飽所以沒點，結果就是後悔。同事們都是40歲以上的人，一整套餐對我們而言真的很多。炸薯條滿大一份，湯也好喝，可惜的是湯跟烤雞燉飯是相同味道，吃的有點膩，應該配清湯才對。烤雞燉飯份量不少，我沒吃完。\n其他人點香烤小牛肋排有8支，真的很難全部吃完，因為實在太飽！而最後甜點的份量也好大一份⋯⋯打包，這真的要打包才行！\n說真的我們被網上的圖片騙了，以為餐點份量不多，根本不是這樣……或許對20多歲的人來說吃完一套餐可能剛好，但我們只能吃一半😆。\n感謝部門主管舉辦的忘年會，好吃好玩，嘉廚的環境氣氛也很不錯👍…希望有機會再來光顧。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "之前看別人的照片，豬肋排只有4根看起來少少的，怕吃不飽所以沒點，結果就是後悔。同事們都是40歲以上的人，一整套餐對我們而言真的很多。炸薯條滿大一份，湯也好喝，可惜的是湯跟烤雞燉飯是相同味道，吃的有點膩，應該配清湯才對。烤雞燉飯份量不少，我沒吃完。\n其他人點香烤小牛肋排有8支，真的很難全部吃完，因為實在太飽！而最後甜點的份量也好大一份⋯⋯打包，這真的要打包才行！\n說真的我們被網上的圖片騙了，以為餐點份量不多，根本不是這樣……或許對20多歲的人來說吃完一套餐可能剛好，但我們只能吃一半😆。\n感謝部門主管舉辦的忘年會，好吃好玩，嘉廚的環境氣氛也很不錯👍…希望有機會再來光顧。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Chiang Weiwei",
+        "uri": "https://www.google.com/maps/contrib/103846115600821066847/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjW1kwzhSSJESLQ1hF3p0VINKRaOxWh-TDo0UzShLjSobdJ8XwQ0mQ=s128-c0x00000000-cc-rp-mo"
+      },
+      "publishTime": "2026-01-17T09:02:00.045192567Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2pOa1pHOWZjemhYT0VGVFZHVTRjWEozZVV3eVFuYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2pOa1pHOWZjemhYT0VGVFZHVTRjWEozZVV3eVFuYxAB!2m1!1s0x3442a96ef699d06f:0xea0c4c4b4ce0b367"
+    },
+    {
+      "name": "places/ChIJb9CZ9m6pQjQRZ7PgTEtMDOo/reviews/Ci9DQUlRQUNvZENodHljRjlvT201Q1dUWlVVVWM1WkUxRFlUTllXVFV4VTI4M2FYYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "過年期間有開的店不多\n當天沒有訂位卻還有位子很幸運\n\n環境很舒適乾淨\n服務人員也都蠻親切的\n當天本來想吃之前吃過的溫沙拉\n但是沒賣\n也想吃龍蝦，但是也不能單點龍餐（只能加點）\n最後只好吃牛膝\n牛膝燉得很嫩，唯獨醬料部分吃到後面會有一點點膩，好險有點紅酒配\n\n也謝謝老闆還幫我加酒",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "過年期間有開的店不多\n當天沒有訂位卻還有位子很幸運\n\n環境很舒適乾淨\n服務人員也都蠻親切的\n當天本來想吃之前吃過的溫沙拉\n但是沒賣\n也想吃龍蝦，但是也不能單點龍餐（只能加點）\n最後只好吃牛膝\n牛膝燉得很嫩，唯獨醬料部分吃到後面會有一點點膩，好險有點紅酒配\n\n也謝謝老闆還幫我加酒",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Yoco",
+        "uri": "https://www.google.com/maps/contrib/114670039782094879342/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXtjYvUoh3odlm__hRnex1nbLfpTorJeKXy_998hOsWS4uZ9N2L=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2026-02-27T11:15:30.178140835Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT201Q1dUWlVVVWM1WkUxRFlUTllXVFV4VTI4M2FYYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT201Q1dUWlVVVWM1WkUxRFlUTllXVFV4VTI4M2FYYxAB!2m1!1s0x3442a96ef699d06f:0xea0c4c4b4ce0b367"
+    },
+    {
+      "name": "places/ChIJb9CZ9m6pQjQRZ7PgTEtMDOo/reviews/Ci9DQUlRQUNvZENodHljRjlvT2xaU1FUTXljbVJSUVV4S1MxUktOR3BaVDFSbU1tYxAB",
+      "relativePublishTimeDescription": "3 個月前",
+      "rating": 5,
+      "text": {
+        "text": "大堂高挑，裝潢用心，座位約50個，適合包場。美式風格，份量也非常美式~很大份。鮭魚沙律，蔬菜份量非常多。焗羊膝，這隻羊應該很大一隻吧! 蘑菇烤雞燉飯: 蘑菇放入烤雞內，很入味。16安士牛扒: 很有扒房的水準，外脆內軟，份量也很大。當你肚子餓，胃口大，就應該要再來了。",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "大堂高挑，裝潢用心，座位約50個，適合包場。美式風格，份量也非常美式~很大份。鮭魚沙律，蔬菜份量非常多。焗羊膝，這隻羊應該很大一隻吧! 蘑菇烤雞燉飯: 蘑菇放入烤雞內，很入味。16安士牛扒: 很有扒房的水準，外脆內軟，份量也很大。當你肚子餓，胃口大，就應該要再來了。",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "HK Lee",
+        "uri": "https://www.google.com/maps/contrib/116035155805771149077/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjX_mwkvXGpuBnyu9M2TMGN3NFiirjwRbjtHuZBlLPjsoAxoTACX=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2026-02-17T11:26:27.202273371Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2xaU1FUTXljbVJSUVV4S1MxUktOR3BaVDFSbU1tYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2xaU1FUTXljbVJSUVV4S1MxUktOR3BaVDFSbU1tYxAB!2m1!1s0x3442a96ef699d06f:0xea0c4c4b4ce0b367"
+    },
+    {
+      "name": "places/ChIJb9CZ9m6pQjQRZ7PgTEtMDOo/reviews/Ci9DQUlRQUNvZENodHljRjlvT21RMFR6aGtSRXRuWTBoa2VXcGFXWGwxYXpZeU4wRRAB",
+      "relativePublishTimeDescription": "5 個月前",
+      "rating": 4,
+      "text": {
+        "text": "從中山北路走入餐廳\n那份寧靜頓時令人放鬆\n酥脆的薯條、濃郁的松露燉飯\n都相當美味可口\n老闆也親切的送我們松露醬\n享受薯條的口味層次感\n\n可惜網友評論好吃的牛肋排\n送上來時真的牙口不好咬不動\n肉也肥肥生生的讓人卻步\n老闆帶著笑容為我們加熱\n可惜口味依然令人費解\n蘑菇醬的香氣可說是這盤最大亮點\n\n另外，服務阿姨每次上餐的口氣都相當不悅\n好像客人欠他很多錢一樣\n隔壁桌客人進來時\n恰巧許多餐點已經售罄\n這位阿姨的口氣彷彿客人應該要知道般的不悅\n果然人一離開隔壁桌就開始complain\n這麼好的餐廳\n真的建議留意全員的服務品質\n如果下次不吃排餐\n還是很願意再訪的好店",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "從中山北路走入餐廳\n那份寧靜頓時令人放鬆\n酥脆的薯條、濃郁的松露燉飯\n都相當美味可口\n老闆也親切的送我們松露醬\n享受薯條的口味層次感\n\n可惜網友評論好吃的牛肋排\n送上來時真的牙口不好咬不動\n肉也肥肥生生的讓人卻步\n老闆帶著笑容為我們加熱\n可惜口味依然令人費解\n蘑菇醬的香氣可說是這盤最大亮點\n\n另外，服務阿姨每次上餐的口氣都相當不悅\n好像客人欠他很多錢一樣\n隔壁桌客人進來時\n恰巧許多餐點已經售罄\n這位阿姨的口氣彷彿客人應該要知道般的不悅\n果然人一離開隔壁桌就開始complain\n這麼好的餐廳\n真的建議留意全員的服務品質\n如果下次不吃排餐\n還是很願意再訪的好店",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "林奕廷",
+        "uri": "https://www.google.com/maps/contrib/116386197012589690588/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWPzBof7kCAqI8QRvsjLbiBmSebAD1JdAYLLfmwc9e4C5WlwoL0jw=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2025-12-20T13:37:55.676183475Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT21RMFR6aGtSRXRuWTBoa2VXcGFXWGwxYXpZeU4wRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT21RMFR6aGtSRXRuWTBoa2VXcGFXWGwxYXpZeU4wRRAB!2m1!1s0x3442a96ef699d06f:0xea0c4c4b4ce0b367"
+    }
+  ],
+  "menuForChildren": false,
+  "goodForChildren": true
+}

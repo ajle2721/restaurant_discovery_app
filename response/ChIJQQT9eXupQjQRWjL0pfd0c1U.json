@@ -1,0 +1,129 @@
+{
+  "id": "ChIJQQT9eXupQjQRWjL0pfd0c1U",
+  "types": [
+    "restaurant",
+    "food",
+    "point_of_interest",
+    "establishment"
+  ],
+  "internationalPhoneNumber": "+886 2 2327 8281",
+  "formattedAddress": "100台灣臺北市中正區幸市里臨沂街6巷1號",
+  "location": {
+    "latitude": 25.042550799999997,
+    "longitude": 121.53060289999999
+  },
+  "rating": 4.7,
+  "userRatingCount": 41,
+  "displayName": {
+    "text": "Amanda Cafe",
+    "languageCode": "zh-TW"
+  },
+  "reviews": [
+    {
+      "name": "places/ChIJQQT9eXupQjQRWjL0pfd0c1U/reviews/Ci9DQUlRQUNvZENodHljRjlvT2s5bFlqUlVPVGxwU2w5allrNXZSMmh3TmxSVGVXYxAB",
+      "relativePublishTimeDescription": "7 個月前",
+      "rating": 5,
+      "text": {
+        "text": "貝果是藍莓口味，塗醬是用cream cheese超頂\n生菜也是給得非常大方，多到基本上一口沒辦法咬\n但是一定要在11點前訂餐，中午人很多，店家人手有限，排隊會等滿久的",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "貝果是藍莓口味，塗醬是用cream cheese超頂\n生菜也是給得非常大方，多到基本上一口沒辦法咬\n但是一定要在11點前訂餐，中午人很多，店家人手有限，排隊會等滿久的",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Zora佐拉",
+        "uri": "https://www.google.com/maps/contrib/104127413217124570049/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjXWwRYsePiSRWJiXzc9tzJ-iGro33VoJBNE25HSyOxI5nevwo0xNw=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2025-10-25T14:51:10.753036272Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=Ci9DQUlRQUNvZENodHljRjlvT2s5bFlqUlVPVGxwU2w5allrNXZSMmh3TmxSVGVXYxAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sCi9DQUlRQUNvZENodHljRjlvT2s5bFlqUlVPVGxwU2w5allrNXZSMmh3TmxSVGVXYxAB!2m1!1s0x3442a97b79fd0441:0x557374f7a5f4325a"
+    },
+    {
+      "name": "places/ChIJQQT9eXupQjQRWjL0pfd0c1U/reviews/ChZDSUhNMG9nS0VJQ0FnSUQwNnNHUFpnEAE",
+      "relativePublishTimeDescription": "6 年前",
+      "rating": 5,
+      "text": {
+        "text": "生菜捲裡面的菜類多，而且超有誠意🥰🥰🥰\n本來沒有要買便當，但看到本人後，立馬揪朋友一起分食！還是買了😂😂\n點了蒜泥白肉，肉質超嫩好好吃，而且清爽不油膩～非常可以！！",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "生菜捲裡面的菜類多，而且超有誠意🥰🥰🥰\n本來沒有要買便當，但看到本人後，立馬揪朋友一起分食！還是買了😂😂\n點了蒜泥白肉，肉質超嫩好好吃，而且清爽不油膩～非常可以！！",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ita Lee",
+        "uri": "https://www.google.com/maps/contrib/101811055779400285908/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjVUZzm-2oPD7DNuFbcPia7zyq4nS5Kc6TI_XFw94XzBfb-dGKk=s128-c0x00000000-cc-rp-mo-ba4"
+      },
+      "publishTime": "2019-11-01T04:31:02.643579Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUQwNnNHUFpnEAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUQwNnNHUFpnEAE!2m1!1s0x3442a97b79fd0441:0x557374f7a5f4325a"
+    },
+    {
+      "name": "places/ChIJQQT9eXupQjQRWjL0pfd0c1U/reviews/ChdDSUhNMG9nS0VJQ0FnSUR0ZzVQRWpRRRAB",
+      "relativePublishTimeDescription": "2 年前",
+      "rating": 5,
+      "text": {
+        "text": "早餐、便當都好吃，品質不錯👍",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "早餐、便當都好吃，品質不錯👍",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Ha Ru",
+        "uri": "https://www.google.com/maps/contrib/113687350705372375507/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWk_0IpCwoYPOQ0DvkEW0nhumf8lxU8jk62ukIm9mBrt3ZlVUiG=s128-c0x00000000-cc-rp-mo-ba5"
+      },
+      "publishTime": "2024-03-11T14:59:57.734339Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUR0ZzVQRWpRRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUR0ZzVQRWpRRRAB!2m1!1s0x3442a97b79fd0441:0x557374f7a5f4325a"
+    },
+    {
+      "name": "places/ChIJQQT9eXupQjQRWjL0pfd0c1U/reviews/ChdDSUhNMG9nS0VJQ0FnSUNveHZDZG1RRRAB",
+      "relativePublishTimeDescription": "7 年前",
+      "rating": 4,
+      "text": {
+        "text": "肉鬆蛋沙拉吐司40\n店家有販售方便帶著走的三明治\n蔬菜新鮮多多 蛋沙拉搭上肉鬆也好吃\n\n菜單蠻多選項選擇\n主打健康路線",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "肉鬆蛋沙拉吐司40\n店家有販售方便帶著走的三明治\n蔬菜新鮮多多 蛋沙拉搭上肉鬆也好吃\n\n菜單蠻多選項選擇\n主打健康路線",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "FatJoe",
+        "uri": "https://www.google.com/maps/contrib/104316597897973125028/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjWlhZGTgSA967FIzuC85IhMNCoPJCL3U2xz9_Zg13rb1GiA_esA=s128-c0x00000000-cc-rp-mo-ba6"
+      },
+      "publishTime": "2019-02-13T01:42:27.319640Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChdDSUhNMG9nS0VJQ0FnSUNveHZDZG1RRRAB&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChdDSUhNMG9nS0VJQ0FnSUNveHZDZG1RRRAB!2m1!1s0x3442a97b79fd0441:0x557374f7a5f4325a"
+    },
+    {
+      "name": "places/ChIJQQT9eXupQjQRWjL0pfd0c1U/reviews/ChZDSUhNMG9nS0VJQ0FnSUNXNEo3WmF3EAE",
+      "relativePublishTimeDescription": "4 年前",
+      "rating": 5,
+      "text": {
+        "text": "我的情人節大餐，好好吃，重點是很健康的少油餐點，我好需要喔喔喔喔❤️謝謝老闆的用心",
+        "languageCode": "zh-Hant"
+      },
+      "originalText": {
+        "text": "我的情人節大餐，好好吃，重點是很健康的少油餐點，我好需要喔喔喔喔❤️謝謝老闆的用心",
+        "languageCode": "zh-Hant"
+      },
+      "authorAttribution": {
+        "displayName": "Xichen0719",
+        "uri": "https://www.google.com/maps/contrib/107497902673153386327/reviews",
+        "photoUri": "https://lh3.googleusercontent.com/a-/ALV-UjV_ZsqQHxb5oiYNHE8jcxbVIE5DKb2aiJmunoLHSZ7VOVfysiTn=s128-c0x00000000-cc-rp-mo-ba3"
+      },
+      "publishTime": "2022-02-15T05:50:31.676018Z",
+      "flagContentUri": "https://www.google.com/local/content/rap/report?postId=ChZDSUhNMG9nS0VJQ0FnSUNXNEo3WmF3EAE&d=17924085&t=1",
+      "googleMapsUri": "https://www.google.com/maps/reviews/data=!4m6!14m5!1m4!2m3!1sChZDSUhNMG9nS0VJQ0FnSUNXNEo3WmF3EAE!2m1!1s0x3442a97b79fd0441:0x557374f7a5f4325a"
+    }
+  ],
+  "menuForChildren": false
+}
