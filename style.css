@@ -838,13 +838,6 @@ body {
     word-break: normal;
 }
 
-.map-popup-rating {
-    font-size: 0.85rem;
-    font-weight: 700;
-    color: #FFB800;
-    white-space: nowrap;
-}
-
 .map-popup-meta-row {
     display: flex;
     align-items: center;
@@ -959,15 +952,6 @@ body {
 
 .card-cuisine {
     white-space: nowrap;
-}
-
-.card-footer-row .card-rating {
-    font-weight: 700;
-    color: #f59e0b;
-    white-space: nowrap;
-    display: inline-flex;
-    align-items: center;
-    gap: 0.15rem;
 }
 
 
@@ -1713,11 +1697,6 @@ body {
     flex-shrink: 0; /* Don't let it be squished */
 }
 
-.map-popup-rating {
-    font-size: 0.9rem;
-    margin-bottom: 6px;
-}
-
 .map-popup-btn {
     width: 100%;
     padding: 8px;
@@ -1863,19 +1842,6 @@ body {
     border: 1px solid rgba(79, 179, 170, 0.2);
     padding: 2px 8px;
     border-radius: 6px;
-    white-space: nowrap;
-    display: inline-flex;
-    align-items: center;
-}
-
-.match-rate-badge-small {
-    font-size: 0.75rem;
-    font-weight: 700;
-    color: #64748b; /* Slate 500 */
-    background: #f1f5f9; /* Slate 100 */
-    border: 1px solid #e2e8f0; /* Slate 200 */
-    padding: 2px 6px;
-    border-radius: 4px;
     white-space: nowrap;
     display: inline-flex;
     align-items: center;

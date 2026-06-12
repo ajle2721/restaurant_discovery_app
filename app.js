@@ -249,42 +249,42 @@ function getPFSummaryTags(res, overrideLevel, simpleFormat = false) {
             has_tableware: {
                 yes: '兒童餐具',
                 no: '無提供兒童餐具',
-                unknown: '評論未提及餐具提供'
+                unknown: '目前整理資料未提及餐具提供'
             },
             high_chair_available: {
                 yes: '兒童椅',
                 no: '無提供兒童椅',
-                unknown: '評論未提及兒童椅'
+                unknown: '目前整理資料未提及兒童椅'
             },
             has_diaper_table: {
                 yes: '有尿布台',
                 no: '無尿布台',
-                unknown: '評論未提及尿布台'
+                unknown: '目前整理資料未提及尿布台'
             },
             kids_menu: {
                 yes: '兒童餐',
                 no: '無提供兒童餐',
-                unknown: '評論未提及兒童餐'
+                unknown: '目前整理資料未提及兒童餐'
             },
             kid_noise_tolerant: {
                 yes: '不怕吵鬧',
                 no: '氣氛較安靜',
-                unknown: '評論未提及氣氛安靜度'
+                unknown: '目前整理資料未提及氣氛安靜度'
             },
             spacious_seating: {
                 yes: '空間寬敞',
                 no: '空間較為擁擠',
-                unknown: '評論未提及空間大小'
+                unknown: '目前整理資料未提及空間大小'
             },
             has_play_area: {
                 yes: '有遊樂區',
                 no: '無遊樂區',
-                unknown: '評論未提及遊戲設施'
+                unknown: '目前整理資料未提及遊戲設施'
             },
             has_private_room: {
                 yes: '有包廂或可包場',
                 no: '無提供包廂或包場',
-                unknown: '評論未提及包廂或包場'
+                unknown: '目前整理資料未提及包廂或包場'
             }
         };
 
@@ -321,12 +321,12 @@ function getPFSummaryTags(res, overrideLevel, simpleFormat = false) {
             });
             if (unknownNouns.length > 0) {
                 if (unknownNouns.length === 1) {
-                    return `評論未提及${unknownNouns[0]}`;
+                    return `目前整理資料未提及${unknownNouns[0]}`;
                 } else if (unknownNouns.length === 2) {
-                    return `評論未提及${unknownNouns[0]}與${unknownNouns[1]}`;
+                    return `目前整理資料未提及${unknownNouns[0]}與${unknownNouns[1]}`;
                 } else {
                     const lastNoun = unknownNouns.pop();
-                    return `評論未提及${unknownNouns.join('、')}與${lastNoun}`;
+                    return `目前整理資料未提及${unknownNouns.join('、')}與${lastNoun}`;
                 }
             }
         }
@@ -1364,6 +1364,12 @@ async function geocodeAddress(query) {
     return null;
 }
 
+function isAddressLikeQuery(query) {
+    const value = String(query || '').trim();
+    if (!value) return false;
+    return /[路街巷弄段大道橋區里鄰號樓]|台北|臺北|新北|\d/.test(value);
+}
+
 // Main custom search handler
 async function executeSearch(query) {
     if (!query) return;
@@ -1402,8 +1408,22 @@ async function executeSearch(query) {
     }
 
     try {
-        // 3. Local restaurant name / address / cuisine fuzzy match
         const q = query.toLowerCase();
+
+        // 3. Address / road segment searches should behave as area searches.
+        // This keeps first search results consistent with URL reload results.
+        if (isAddressLikeQuery(query)) {
+            const geocoded = await geocodeAddress(query);
+            if (geocoded) {
+                if (geocoded.isFallback) {
+                    showToast(`📍 地圖圖資未收錄此門牌，已定位至鄰近路段「${geocoded.fallbackName}」`, 5000);
+                }
+                selectLocation(geocoded, 'nominatim_geocoding');
+                return;
+            }
+        }
+
+        // 4. Local restaurant name / address / cuisine fuzzy match
         const localMatches = restaurantData.filter(res => 
             (res.name && res.name.toLowerCase().includes(q)) ||
             (res.address && res.address.toLowerCase().includes(q)) ||
@@ -1426,7 +1446,7 @@ async function executeSearch(query) {
             return;
         }
 
-        // 4. Online Geocoding via Nominatim
+        // 5. Online Geocoding via Nominatim
         const geocoded = await geocodeAddress(query);
         if (geocoded) {
             if (geocoded.isFallback) {
@@ -1564,10 +1584,27 @@ function selectLocation(loc, source = 'other', pushState = true) {
     updateQuickLinksUI();
 }
 
+function getParentFriendlyBaseScore(res) {
+    const level = res.parent_friendly_level || 'Insufficient Info';
+    const levelScoreMap = {
+        '高': 300,
+        'High': 300,
+        '中': 200,
+        'Medium': 200,
+        '需留意': 50,
+        'Needs Attention': 50,
+        '資訊不足': 0,
+        'Insufficient Info': 0
+    };
+    const attrs = res.attributes || {};
+    const knownPositiveCount = Object.values(attrs).filter(val => val === 'yes' || val === 'likely').length;
+    return (levelScoreMap[level] ?? 0) + knownPositiveCount;
+}
+
 function calculatePersonalizedScore(res) {
     if (!state.filters || state.filters.size === 0) {
         return {
-            score: res.rating * 10, // Default sorting
+            score: getParentFriendlyBaseScore(res),
             level: res.parent_friendly_level || 'Insufficient Info'
         };
     }
@@ -2045,16 +2082,17 @@ function renderCard(res, container, overrideLevel) {
     }
 
     const priceSymbol = priceSymbols[res.price_level];
-    let footerHtml = `<span class="card-rating">⭐ ${res.rating}</span>`;
+    const footerParts = [];
     if (res.cuisine) {
-        footerHtml += `<span class="card-meta-dot">·</span><span class="card-cuisine">${res.cuisine}</span>`;
+        footerParts.push(`<span class="card-cuisine">${res.cuisine}</span>`);
     }
     if (priceSymbol) {
-        footerHtml += `<span class="card-meta-dot">·</span><span class="card-price" title="${res.price_level}">${priceSymbol}</span>`;
+        footerParts.push(`<span class="card-price" title="${res.price_level}">${priceSymbol}</span>`);
     }
     if (timeHtml) {
-        footerHtml += `<span class="card-meta-dot">·</span>${timeHtml}`;
+        footerParts.push(timeHtml);
     }
+    const footerHtml = footerParts.join('<span class="card-meta-dot">·</span>');
 
     const isFav = state.favorites.has(res.place_id);
     card.innerHTML = `
@@ -2207,7 +2245,7 @@ function renderDetailContent(restaurant) {
             if (isMatched) tagClass += ' matched';
             if (isLikely) tagClass += ' likely';
             
-            const titleAttr = isLikely ? ' title="此設施基於 Google 官方「適合兒童」標記推估，目前評論尚無具體提及。建議前往前去電確認。"' : '';
+            const titleAttr = isLikely ? ' title="依公開地點資訊推估，尚未由店家或使用者明確確認，建議出發前再確認。"' : '';
             const checkIcon = isMatched ? '✓ ' : '';
             const suffix = isLikely ? '<span style="font-size:0.65em;opacity:0.7;letter-spacing:0;margin-left:2px;">(估)</span>' : '';
             
@@ -2243,7 +2281,7 @@ function renderDetailContent(restaurant) {
             summaryTags = '🔍 ' + summaryTags;
         } else if (summaryTags.startsWith('具備其他')) {
             summaryTags = '✨ ' + summaryTags;
-        } else if (summaryTags.startsWith('評論未提及')) {
+        } else if (summaryTags.startsWith('目前整理資料未提及')) {
             summaryTags = 'ℹ️ ' + summaryTags;
         }
     }
@@ -2270,17 +2308,18 @@ function renderDetailContent(restaurant) {
     const mapTarget = isApp ? '_self' : '_blank';
 
     const priceSymbol = priceSymbols[restaurant.price_level];
-    let detailMetaHtml = `⭐ ${restaurant.rating || 'N/A'}`;
+    const detailMetaParts = [];
     if (restaurant.cuisine) {
-        detailMetaHtml += ` <span class="card-meta-dot">·</span> ${restaurant.cuisine}`;
+        detailMetaParts.push(restaurant.cuisine);
     }
     if (priceSymbol) {
-        detailMetaHtml += ` <span class="card-meta-dot">·</span> ${priceSymbol}`;
+        detailMetaParts.push(priceSymbol);
     }
+    const detailMetaHtml = detailMetaParts.join(' <span class="card-meta-dot">·</span> ');
 
     detailContent.innerHTML = `
         <h1 style="margin-bottom: 0.5rem; color: var(--text-main);">${formatRestaurantName(restaurant.name || '未命名餐廳')}</h1>
-        <div class="restaurant-rating" style="font-size: 1.1rem; margin-bottom: 0.5rem;">${detailMetaHtml}</div>
+        ${detailMetaHtml ? `<div class="restaurant-meta" style="font-size: 1.1rem; margin-bottom: 0.5rem;">${detailMetaHtml}</div>` : ''}
         <div class="restaurant-address" style="font-size: 0.9rem; margin-bottom: 0.85rem;">📍 ${fixSimplifiedAddress(restaurant.address || '')}</div>
         
         ${timeHtml}
@@ -2300,7 +2339,7 @@ function renderDetailContent(restaurant) {
         </div>
 
         <div class="ai-summary" style="margin-bottom: 1.5rem;">
-            <div class="ai-summary-title">親子用餐摘要（AI根據公開評論整理）</div>
+            <div class="ai-summary-title">親子用餐摘要（根據目前整理資料產生，僅供參考）</div>
             <div class="ai-summary-text">${(restaurant.ai_summary || '目前尚無摘要資訊。').replace(/\n/g, '<br>')}</div>
         </div>
         
@@ -2715,11 +2754,9 @@ function refreshMapMarkers() {
 
     const prominenceRanks = new Map();
     if (totalCount > 60) {
-        // Sort restaurants by prominence score: reviews * rating + rating
+        // Sort markers by parent-friendly relevance.
         const sorted = [...state.mapRestaurants].sort((a, b) => {
-            const scoreA = (a.user_ratings_total || 0) * (parseFloat(a.rating) || 0) + (parseFloat(a.rating) || 0);
-            const scoreB = (b.user_ratings_total || 0) * (parseFloat(b.rating) || 0) + (parseFloat(b.rating) || 0);
-            return scoreB - scoreA;
+            return getParentFriendlyBaseScore(b) - getParentFriendlyBaseScore(a);
         });
         sorted.forEach((res, index) => {
             prominenceRanks.set(res.place_id, index);
@@ -2828,7 +2865,6 @@ function refreshMapMarkers() {
             marker.bindPopup(`<div class="map-popup-compact">
                 <div class="map-popup-title-row">
                     <span class="map-popup-name">${formatRestaurantName(res.name)}</span>
-                    <span class="map-popup-rating">⭐${res.rating}</span>
                 </div>
                 <div class="map-popup-meta-row">
                     <span class="map-popup-level-tag" style="background: ${color}">${status.label}</span>
@@ -2883,6 +2919,9 @@ function getShareUrl() {
             params.set('locType', 'restaurant');
         } else if (state.searchLocation.type === '關鍵字搜尋') {
             params.set('locType', 'keyword');
+            if (state.searchLocation.keyword) {
+                params.set('keyword', state.searchLocation.keyword);
+            }
         }
     }
     state.filters.forEach(f => params.append('f', f));
@@ -3028,6 +3067,7 @@ function syncStateFromUrl(isInitialLoad = false, animate = false) {
             const isFallback = params.get('isFallback') === '1';
             const fallbackName = params.get('fbName');
             const resolvedAddress = params.get('addr');
+            const keyword = params.get('keyword');
 
             const loc = {
                 name: locName || '分享的位置',
@@ -3036,7 +3076,8 @@ function syncStateFromUrl(isInitialLoad = false, animate = false) {
                 type: matchedType,
                 isFallback: isFallback,
                 fallbackName: fallbackName,
-                resolvedAddress: resolvedAddress
+                resolvedAddress: resolvedAddress,
+                keyword: keyword || undefined
             };
             
             // When syncing state back, do not push to history again
@@ -3255,17 +3296,69 @@ function formatRestaurantName(name) {
     }).join('<wbr>');
 }
 
+function neutralizeSummarySourceCopy(summary) {
+    if (!summary) return '';
+    return String(summary)
+        .replace(/Google Maps\s*官方標記/g, '公開地點資訊標示')
+        .replace(/Google Maps\s*標記/g, '公開地點資訊標示')
+        .replace(/Google\s*Maps/g, '公開地點資訊')
+        .replace(/Google\s*官方/g, '公開地點資訊')
+        .replace(/Google/g, '公開地點資訊')
+        .replace(/官方明確標示/g, '店家資訊顯示')
+        .replace(/官方明確表示/g, '店家資訊顯示')
+        .replace(/官方明確/g, '目前資料明確')
+        .replace(/官方標記/g, '公開地點資訊標示')
+        .replace(/官方標示/g, '公開地點資訊標示')
+        .replace(/官方資訊/g, '公開地點資訊')
+        .replace(/官方/g, '店家資訊')
+        .replace(/根據評論分析/g, '根據目前整理資料')
+        .replace(/根據評論/g, '根據目前整理資料')
+        .replace(/AI根據公開評論整理/g, '根據目前整理資料產生，僅供參考')
+        .replace(/AI 根據公開評論整理/g, '根據目前整理資料產生，僅供參考')
+        .replace(/公開評論整理/g, '目前整理資料')
+        .replace(/公開評論/g, '目前整理資料')
+        .replace(/顧客評論/g, '顧客回饋')
+        .replace(/評論資訊/g, '顧客回饋')
+        .replace(/評論多集中/g, '目前整理資料多集中')
+        .replace(/評論反映/g, '目前整理資料顯示')
+        .replace(/有評論指出/g, '目前整理資料指出')
+        .replace(/評論指出/g, '目前整理資料指出')
+        .replace(/有評論提到/g, '目前整理資料提到')
+        .replace(/有評論提及/g, '目前整理資料提及')
+        .replace(/評論提到/g, '目前整理資料提到')
+        .replace(/評論提及/g, '目前整理資料提及')
+        .replace(/評論中目前未提及/g, '目前整理資料中未提及')
+        .replace(/目前評論中較少提及/g, '目前整理資料較少提及')
+        .replace(/目前評論中未提及/g, '目前整理資料中未提及')
+        .replace(/目前評論中/g, '目前整理資料中')
+        .replace(/評論中也未提及/g, '目前整理資料中也未提及')
+        .replace(/評論中並未提及/g, '目前整理資料中未提及')
+        .replace(/評論中尚未提及/g, '目前整理資料中尚未提及')
+        .replace(/評論中未有明確提及/g, '目前整理資料尚未明確提及')
+        .replace(/評論中未明確提及/g, '目前整理資料尚未明確提及')
+        .replace(/評論中沒有提及/g, '目前整理資料中未提及')
+        .replace(/評論中也提到/g, '目前整理資料也提到')
+        .replace(/評論中提及/g, '目前整理資料提及')
+        .replace(/評論中未提及/g, '目前整理資料中未提及')
+        .replace(/評論中/g, '目前整理資料中')
+        .replace(/評論未提及/g, '目前整理資料未提及')
+        .replace(/評論顯示/g, '目前整理資料顯示')
+        .replace(/有顧客評論提到/g, '目前整理資料提到')
+        .replace(/顧客評論提到/g, '目前整理資料提到')
+        .replace(/評論/g, '目前整理資料');
+}
+
 
 function patchAiSummary(restaurant, summary) {
     const attrs = restaurant.attributes || {};
 
-    // Detect facilities that are only "likely" (inferred from Google, not review-confirmed)
+    // Detect facilities that are only "likely" (inferred, not explicitly confirmed)
     const likelyFacilities = [];
     if (attrs.high_chair_available === 'likely') likelyFacilities.push('兒童椅');
     if (attrs.has_tableware === 'likely') likelyFacilities.push('兒童餐具');
 
-    // If no likely-only items, return summary unchanged
-    if (likelyFacilities.length === 0) return summary || '';
+    // If no likely-only items, still neutralize source wording.
+    if (likelyFacilities.length === 0) return neutralizeSummarySourceCopy(summary || '');
 
     // Collect confirmed (yes) facilities to naturally weave in
     const confirmedParts = [];
@@ -3277,19 +3370,19 @@ function patchAiSummary(restaurant, summary) {
     if (attrs.kid_noise_tolerant === 'yes') confirmedParts.push('環境不怕吵鬧');
 
     const likelyStr = likelyFacilities.join('與');
-    let note = `此餐廳 Google Maps 官方標記為「適合兒童」，系統推估可能備有${likelyStr}（標示為「估」），但評論中未有明確提及，建議前往前先向店家確認。`;
+    let note = `根據公開地點資訊，這家餐廳被標示為適合兒童，因此系統推估可能備有${likelyStr}（標示為「估」）。目前尚未取得明確設備資訊，建議出發前向店家確認。`;
 
     if (confirmedParts.length > 0) {
         note += `此外，此店${confirmedParts.join('、')}。`;
     }
 
-    if (!summary || !summary.trim()) return note;
+    if (!summary || !summary.trim()) return neutralizeSummarySourceCopy(note);
 
     // Extract unique context from the original summary — skip sentences that only repeat
     // what our note already covers (Google marking, child facilities absence, visit recommendation).
     const skipKeywords = [
-        '官方標記', '適合兒童用餐', '適合兒童', 'Google',
-        '評論中並未提及', '評論未提及', '評論中沒有',
+        '官方標記', '官方標示', '適合兒童用餐', '適合兒童', 'Google', '公開地點資訊標示',
+        '評論中並未提及', '評論未提及', '評論中沒有', '目前整理資料中未提及',
         '建議前往前', '建議攜帶幼童', '先向店家確認',
         '系統推估', '兒童椅', '兒童餐具'
     ];
@@ -3309,7 +3402,7 @@ function patchAiSummary(restaurant, summary) {
         note += extraSentences.join('');
     }
 
-    return note;
+    return neutralizeSummarySourceCopy(note);
 }
 
 
@@ -3585,7 +3678,6 @@ function renderShortlistDrawer() {
                     <div class="shortlist-info">
                         <div class="shortlist-name-row">
                             <span class="shortlist-name">${formatRestaurantName(res.name)}</span>
-                            <span class="match-rate-badge-small">${res.rating} ⭐</span>
                         </div>
                         <div class="shortlist-summary">${res.card_summary || res.ai_summary || '無摘要'}</div>
                         <div class="shortlist-amenities">${amsText}</div>
@@ -3633,7 +3725,6 @@ function renderShortlistDrawer() {
                     <thead>
                         <tr>
                             <th>餐廳名稱</th>
-                            <th>評分</th>
                             <th>兒童餐具</th>
                             <th>兒童椅</th>
                             <th>尿布台</th>
@@ -3653,7 +3744,7 @@ function renderShortlistDrawer() {
             const attrs = res.attributes || {};
             
             const checkIcon = '<span class="check-icon">✓ 有</span>';
-            const checkLikelyIcon = '<span class="check-icon likely-icon" title="此設施基於 Google 官方「適合兒童」標記推估，目前評論尚無具體提及。建議前往前去電確認。">✓ 估</span>';
+            const checkLikelyIcon = '<span class="check-icon likely-icon" title="依公開地點資訊推估，尚未由店家或使用者明確確認，建議出發前再確認。">✓ 估</span>';
             const crossIcon = '<span class="cross-icon">✗ 較小</span>';
             const crossGeneralIcon = '<span class="cross-icon">✗ 無</span>';
             const unknownIcon = '<span class="unknown-icon">? 未知</span>';
@@ -3678,7 +3769,6 @@ function renderShortlistDrawer() {
                             <a href="#" onclick="window.showDetailFromMap('${res.place_id}'); return false;">${formatRestaurantName(res.name)}</a>
                         </div>
                     </td>
-                    <td style="font-weight: 700; color: var(--primary);">${res.rating} ⭐</td>
                     <td>${tableware}</td>
                     <td>${chair}</td>
                     <td>${diaper}</td>

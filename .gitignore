@@ -4,6 +4,21 @@
 GOOGLE_MAP_KEY
 .direnv/
 
+# Google Places raw API responses should stay local-only.
+response/*.json
+
+# Local backup / scratch artifacts
+app*.tmp
+app_backup.js
+app_recovered.js
+app_v*.js
+data.js.bak*
+*.diff
+diff_output.txt
+expanded_restaurants*.csv
+expanded_restaurants*.json
+ai_review/index_new.js
+
 # Python
 __pycache__/
 *.py[cod]
