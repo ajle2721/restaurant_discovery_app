@@ -106,6 +106,28 @@ function trackEvent(eventName, params) {
     }
 }
 
+function getLocationContext() {
+    if (!state.searchLocation) return 'none';
+    return state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name;
+}
+
+function getRestaurantEventParams(res, source) {
+    const level = res?.dynamicLevel || res?.parent_friendly_level;
+    return {
+        restaurant_name: res?.name || '',
+        source,
+        recommendation_level: levelLabels[level] || level || '',
+        location_context: getLocationContext()
+    };
+}
+
+function trackSearchLocation(searchMethod, location) {
+    trackEvent('search_location', {
+        search_method: searchMethod,
+        location
+    });
+}
+
 // Throttle function for map interactions
 function throttle(func, limit) {
     let inThrottle;
@@ -504,7 +526,7 @@ function setupEventListeners() {
     // Nearby Button
     if (btnNearby) {
         btnNearby.addEventListener('click', () => {
-            trackEvent('search_location', { search_method: 'popular_button', location: '我附近' });
+            trackSearchLocation('popular_button', '我附近');
             handleNearby();
         });
     }
@@ -512,7 +534,7 @@ function setupEventListeners() {
     const btnNearbyProminent = document.getElementById('btn-nearby-prominent');
     if (btnNearbyProminent) {
         btnNearbyProminent.addEventListener('click', () => {
-            trackEvent('search_location', { search_method: 'popular_button', location: '我附近' });
+            trackSearchLocation('popular_button', '我附近');
             if (state.searchLocation && state.searchLocation.name === '我附近') {
                 resetSearchBtn.click();
             } else {
@@ -524,7 +546,7 @@ function setupEventListeners() {
     const btnTaipeiAll = document.getElementById('btn-taipei-all');
     if (btnTaipeiAll) {
         btnTaipeiAll.addEventListener('click', () => {
-            trackEvent('search_location', { search_method: 'popular_button', location: '台北市全區' });
+            trackSearchLocation('popular_button', '台北市全區');
             const taipeiAllLoc = {
                 name: '整個台北市',
                 type: '全市',
@@ -546,7 +568,7 @@ function setupEventListeners() {
             const locName = btn.dataset.loc;
             if (!locName) return; // Skip buttons without data-loc like "我附近" or "台北市全區" to avoid duplicate handlers
             
-            trackEvent('search_location', { search_method: 'popular_button', location: locName });
+            trackSearchLocation('popular_button', locName);
             
             if (state.searchLocation && state.searchLocation.name === locName) {
                 resetSearchBtn.click();
@@ -751,8 +773,6 @@ function setupEventListeners() {
             const filter = item.dataset.filter;
             const scenarioTitle = item.textContent.trim();
             
-            trackEvent('click_suggested_scenario', { scenario_title: scenarioTitle });
-
             // Set filters
             state.filters.clear();
             if (filter) {
@@ -937,6 +957,10 @@ function setupEventListeners() {
             
             const shareText = `這是我精選的台北親子友善餐廳口袋名單，分享給你！`;
             const fullContent = `${shareText}\n${shareUrl.toString()}`;
+            trackEvent('share_shortlist', {
+                shortlist_count: state.favorites.size,
+                location_context: getLocationContext()
+            });
             
             if (navigator.share) {
                 navigator.share({
@@ -1344,7 +1368,7 @@ async function geocodeAddress(query) {
 async function executeSearch(query) {
     if (!query) return;
 
-    trackEvent('search_location', { search_method: 'keyword', location: query });
+    trackSearchLocation('keyword', query);
 
     // Dismiss dropdown
     autocompleteDropdown.classList.add('hidden');
@@ -2078,10 +2102,7 @@ function renderCard(res, container, overrideLevel) {
     card.addEventListener('click', (e) => {
         console.log('Card clicked, showing details:', res.name);
         try {
-            trackEvent('view_restaurant_detail', {
-                restaurant_name: res.name,
-                source: 'list_card'
-            });
+            trackEvent('view_restaurant_detail', getRestaurantEventParams(res, 'list_card'));
         } catch (err) {}
         
         showDetail(res);
@@ -2820,14 +2841,6 @@ function refreshMapMarkers() {
                 autoPanPadding: L.point(20, 20)
             });
 
-            marker.on('click', () => {
-                trackEvent('click_map_restaurant', {
-                    restaurant_name: res.name,
-                    recommendation_level: levelLabels[res.parent_friendly_level] || res.parent_friendly_level,
-                    location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
-                });
-            });
-
             state.markers.push(marker);
             state.markerMap[res.place_id] = marker;
         } catch (err) {
@@ -2840,13 +2853,7 @@ window.showDetailFromMap = (id) => {
     // Priority: find in current dynamic results first to get personalized level
     const res = state.currentResults.find(r => r.place_id === id) || restaurantData.find(r => r.place_id === id);
     if (res) {
-        const level = res.dynamicLevel || res.parent_friendly_level;
-        trackEvent('view_restaurant_detail', {
-            restaurant_name: res.name,
-            source: 'map_card',
-            recommendation_level: levelLabels[level] || level,
-            location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
-        });
+        trackEvent('view_restaurant_detail', getRestaurantEventParams(res, 'map_card'));
         showDetail(res);
     }
 };
@@ -3139,6 +3146,9 @@ function shareRestaurant(res) {
     const cleanAddr = fixSimplifiedAddress(res.address);
     const shareText = `推薦這間親子友善餐廳給你：${res.name}！\n地址：${cleanAddr}`;
     const fullContent = `${shareText}\n${url}`;
+    const params = getRestaurantEventParams(res, 'detail_share_button');
+
+    trackEvent('share_restaurant', params);
 
     if (navigator.share) {
         navigator.share({
@@ -3908,6 +3918,12 @@ async function handleFeedbackSubmit(e) {
         const result = await response.json();
         
         if (response.ok && result.success) {
+            trackEvent('submit_feedback_form', {
+                restaurant_name: restaurantName,
+                issue_count: checkedIssues.length,
+                has_description: description ? 'yes' : 'no',
+                has_email: email ? 'yes' : 'no'
+            });
             showToast('感謝您的回報與貢獻！我們會核實並儘快更新。');
             closeFeedbackModal();
         } else {
