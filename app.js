@@ -2074,7 +2074,7 @@ function renderCard(res, container, overrideLevel) {
     card.addEventListener('click', (e) => {
         console.log('Card clicked, showing details:', res.name);
         try {
-            trackEvent('click_restaurant_card', {
+            trackEvent('view_restaurant_detail', {
                 restaurant_name: res.name,
                 source: 'list_card'
             });
@@ -4075,15 +4075,28 @@ function setupPwaInstallPrompt() {
 
     if (cancelBtn) {
         cancelBtn.addEventListener('click', () => {
+            if (cancelBtn.textContent === '我知道了') {
+                trackEvent('close_pwa_tutorial');
+            } else {
+                trackEvent('click_pwa_cancel');
+            }
             if (promptEl) promptEl.classList.remove('show');
-            // Store that prompt was dismissed so we don't bug them again in the future
-            safeLocal.setItem('pwa_prompt_dismissed', 'true');
-            console.log('PWA prompt dismissed by user');
+            
+            // Store session dismissal
+            safeSession.setItem('pwa_dismissed_this_session', 'true');
+            
+            // Increment total dismiss count
+            let dismissCount = parseInt(safeLocal.getItem('pwa_dismiss_count') || '0', 10);
+            dismissCount++;
+            safeLocal.setItem('pwa_dismiss_count', dismissCount.toString());
+            
+            console.log('PWA prompt dismissed by user. Total dismisses: ' + dismissCount);
         });
     }
 
     if (installBtn) {
         installBtn.addEventListener('click', () => {
+            trackEvent('click_pwa_install', { pwa_mode: promptEl.dataset.pwaMode || 'unknown' });
             const ua = navigator.userAgent;
             const isIOS = /iPad|iPhone|iPod/.test(ua) && !window.MSStream;
             const isAndroid = /Android/.test(ua);
@@ -4287,8 +4300,16 @@ function checkPwaInstallTrigger() {
     }
 
     // Check if dismissed (unless forced via URL)
-    if (!forceShow && safeLocal.getItem('pwa_prompt_dismissed') === 'true') {
-        return;
+    if (!forceShow) {
+        // Hide if dismissed in current session
+        if (safeSession.getItem('pwa_dismissed_this_session') === 'true') return;
+        
+        // Hide permanently if dismissed 3 or more times
+        const dismissCount = parseInt(safeLocal.getItem('pwa_dismiss_count') || '0', 10);
+        if (dismissCount >= 3) return;
+        
+        // Backwards compatibility for old dismissed flag
+        if (safeLocal.getItem('pwa_prompt_dismissed') === 'true') return;
     }
 
     // Skip desktop users (devices with a precise pointer, i.e. mouse)
@@ -4303,7 +4324,8 @@ function checkPwaInstallTrigger() {
     // Show if: forced from a browser handoff, OR used continuously for 60+ seconds.
     // Do not use visit count as an early trigger: on iOS Chrome this made the prompt
     // appear almost immediately for returning users.
-    const shouldShow = forceShow || (sessionDuration >= 60);
+    const hasViewedDetail = state.detailViews && state.detailViews.size > 0;
+    const shouldShow = forceShow || (sessionDuration >= 60 && hasViewedDetail);
 
     if (shouldShow && !promptEl.classList.contains('show')) {
         console.log(`Triggering PWA install prompt: visits=${visitCount}, duration=${sessionDuration.toFixed(1)}s, forceShow=${forceShow}`);
