@@ -20,9 +20,9 @@
                                "confidence":  1.0
                            },
     "has_play_area":  {
-                          "result":  "Yes",
-                          "evidence":  "我們後面有台遊戲機有2個小朋友玩遊戲很大聲",
-                          "confidence":  0.9
+                          "result":  "No",
+                          "evidence":  "使用者回報沒有遊樂區，但有兩台遊戲機台可玩",
+                          "confidence":  1
                       },
     "has_private_room":  {
                              "result":  "Unknown",
@@ -48,6 +48,6 @@
                               "Google Maps Attributes: Good for children (官方標記：適合兒童)",
                               "Google 摰?餉??拙??咱?券?"
                           ],
-    "generated_summary":  "該餐廳雖然被 Google Maps 標記為適合兒童，且店內設有遊戲機供孩童使用，但官方明確表示不提供兒童餐。此外，評論中提到店內油煙味較重，可能會影響嬰幼兒的用餐體驗，建議家長前往時多加考量。",
+    "generated_summary":  "該餐廳雖然被 Google Maps 標記為適合兒童，且店內有兩台遊戲機台可玩，但沒有遊樂區；官方也明確表示不提供兒童餐。此外，評論中提到店內油煙味較重，可能會影響嬰幼兒的用餐體驗，建議家長前往時多加考量。",
     "card_summary":  ""
 }

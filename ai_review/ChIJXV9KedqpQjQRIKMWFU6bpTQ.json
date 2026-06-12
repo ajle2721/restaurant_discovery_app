@@ -20,9 +20,9 @@
                                "confidence":  0.4
                            },
     "has_play_area":  {
-                          "result":  "Yes",
-                          "evidence":  "還有提供玩具可以讓小朋友打發時間",
-                          "confidence":  0.8
+                          "result":  "No",
+                          "evidence":  "使用者回報有提供桌邊小遊戲可以玩，但沒有遊樂區",
+                          "confidence":  1
                       },
     "has_private_room":  {
                              "result":  "Unknown",
@@ -39,7 +39,7 @@
                              "evidence":  null,
                              "confidence":  0.4
                          },
-    "generated_summary":  "根據評論分析，店內用餐空間規劃寬敞，活動動線舒適。設有遊戲區讓孩子放電。",
+    "generated_summary":  "根據評論分析，店內有提供桌邊小遊戲與小玩具可讓小朋友打發時間，但沒有遊樂區。店內空間不大但算舒適，座位數不多，熱門時段前往可留意候位與用餐時間。",
     "card_summary":  "",
     "generated_signals":  [
                               "還有提供玩具可以讓小朋友打發時間"

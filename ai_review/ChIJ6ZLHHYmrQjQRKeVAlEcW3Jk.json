@@ -20,9 +20,9 @@
                                "confidence":  1
                            },
     "has_play_area":  {
-                          "result":  "Yes",
-                          "evidence":  null,
-                          "confidence":  0.4
+                          "result":  "No",
+                          "evidence":  "使用者回報沒有遊樂區",
+                          "confidence":  1
                       },
     "has_private_room":  {
                              "result":  "Unknown",
@@ -39,13 +39,12 @@
                              "evidence":  null,
                              "confidence":  0.4
                          },
-    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點，設有遊戲區讓孩子放電。",
+    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點；但店內沒有遊樂區，若孩子需要活動空間可先斟酌安排。",
     "card_summary":  "",
     "generated_signals":  [
                               "使用者回報與人工校正：提供兒童椅",
                               "使用者回報與人工校正：提供兒童餐點",
                               "Google 官方登記適合兒童用餐",
-                              "系統自動識別：親子主題餐廳提供遊戲/玩具空間",
                               "使用者回報與人工校正：貼心提供兒童餐具碗盤"
                           ],
     "parent_friendly_score":  7,
