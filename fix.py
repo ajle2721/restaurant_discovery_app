@@ -1,0 +1,334 @@
+import re
+
+with open('app.js', 'r', encoding='utf-8') as f:
+    content = f.read()
+
+start_marker = """        if (searchInput.value.trim().length > 0) {
+            autocompleteDropdown.classList.remove('hidden');
+        } else {"""
+
+end_marker = """    // Shortlist Floating Button and Drawer Trigger"""
+
+original_code = """        if (searchInput.value.trim().length > 0) {
+            autocompleteDropdown.classList.remove('hidden');
+        } else {
+            showPopularRecommendations();
+        }
+    });
+    searchInput.addEventListener('click', () => {
+        if (searchInput.value.trim().length === 0) {
+            showPopularRecommendations();
+        }
+    });
+    searchInput.addEventListener('keydown', (e) => {
+        if (e.key === 'Enter') {
+            executeSearch(searchInput.value.trim());
+        }
+    });
+
+    if (searchMagnifier) {
+        searchMagnifier.addEventListener('click', () => {
+            executeSearch(searchInput.value.trim());
+        });
+    }
+
+    // Close autocomplete on click outside
+    document.addEventListener('click', (e) => {
+        if (!searchInput.contains(e.target) && !autocompleteDropdown.contains(e.target)) {
+            autocompleteDropdown.classList.add('hidden');
+        }
+    });
+
+    // Clear Search
+    clearSearchBtn.addEventListener('click', () => {
+        searchInput.value = '';
+        clearSearchBtn.classList.add('hidden');
+        autocompleteDropdown.classList.add('hidden');
+        searchInput.focus();
+    });
+
+    // Nearby Button
+    if (btnNearby) {
+        btnNearby.addEventListener('click', () => {
+            trackEvent('search_location', { location: '我附近' });
+            handleNearby();
+        });
+    }
+
+    const btnNearbyProminent = document.getElementById('btn-nearby-prominent');
+    if (btnNearbyProminent) {
+        btnNearbyProminent.addEventListener('click', () => {
+            trackEvent('search_location', { location: '我附近' });
+            if (state.searchLocation && state.searchLocation.name === '我附近') {
+                resetSearchBtn.click();
+            } else {
+                handleNearby();
+            }
+        });
+    }
+
+    const btnTaipeiAll = document.getElementById('btn-taipei-all');
+    if (btnTaipeiAll) {
+        btnTaipeiAll.addEventListener('click', () => {
+            trackEvent('search_location', { location: '台北市全區' });
+            const taipeiAllLoc = {
+                name: '整個台北市',
+                type: '全市',
+                district: '全市',
+                lat: 25.037487, // Taipei Center
+                lng: 121.564766
+            };
+            if (state.searchLocation && (state.searchLocation.name === '整個台北市' || state.searchLocation.name === '台北市全區' || state.searchLocation.type === '全市')) {
+                resetSearchBtn.click();
+            } else {
+                selectLocation(taipeiAllLoc, 'taipei_all');
+            }
+        });
+    }
+
+    // Quick Links
+    document.querySelectorAll('.quick-link-item').forEach(btn => {
+        btn.addEventListener('click', () => {
+            const locName = btn.dataset.loc;
+            if (!locName) return; // Skip buttons without data-loc like '我附近' or '台北市全區' to avoid duplicate handlers
+            
+            trackEvent('search_location', { location: locName });
+            
+            if (state.searchLocation && state.searchLocation.name === locName) {
+                resetSearchBtn.click();
+            } else {
+                const locObj = state.locationData.find(l => l.name === locName);
+                if (locObj) selectLocation(locObj, 'popular_location');
+            }
+        });
+    });
+
+    // Filter Chips
+    document.querySelectorAll('.filter-chip').forEach(chip => {
+        chip.addEventListener('click', () => {
+            const filter = chip.dataset.filter;
+            let action = 'select';
+            
+            if (state.filters.has(filter)) {
+                state.filters.delete(filter);
+                chip.classList.remove('active');
+                action = 'deselect';
+            } else {
+                state.filters.add(filter);
+                chip.classList.add('active');
+            }
+            
+            state.recommendedLimit = 30; // Reset pagination limit
+            state.othersLimit = 30; // Reset pagination limit
+            
+            // Toggle active state in UI instantly, then defer heavy search execution
+            setTimeout(() => {
+                trackEvent('use_filter', {
+                    filter_name: filterMap[filter] || filter,
+                    action: action
+                });
+                
+                renderResults();
+                updateUrl();
+            }, 20);
+        });
+    });
+
+    // Clear All Filters
+    const clearAllFiltersBtn = document.getElementById('clear-all-filters');
+    if (clearAllFiltersBtn) {
+        clearAllFiltersBtn.addEventListener('click', () => {
+            state.filters.clear();
+            document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
+            state.recommendedLimit = 30; // Reset pagination limit
+            state.othersLimit = 30; // Reset pagination limit
+            
+            // Reset active states in UI instantly, then defer heavy search execution
+            setTimeout(() => {
+                renderResults();
+                updateUrl();
+            }, 20);
+        });
+    }
+
+    // Map Marker Toggle
+    const hideMarkersToggle = document.getElementById('hide-others-markers');
+    if (hideMarkersToggle) {
+        hideMarkersToggle.addEventListener('change', (e) => {
+            state.hideLowQualityMarkers = e.target.checked;
+            state.showOthers = !e.target.checked; // Sync list expansion with map toggle
+            
+            trackEvent('toggle_recommended_only', {
+                action: state.hideLowQualityMarkers ? 'on' : 'off',
+                location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
+            });
+            
+            // Update checkbox state instantly, then defer heavy rendering
+            setTimeout(() => {
+                renderResults();
+            }, 20);
+        });
+    }
+
+    // Toggle Others
+    toggleOthersBtn.addEventListener('click', () => {
+        // Track BEFORE state change to get current counts
+        const recommended = state.currentResults.filter(r => ['High', 'Medium', '高', '中'].includes(r.parent_friendly_level));
+        const others = state.currentResults.filter(r => ['Insufficient Info', 'Needs Attention', '資訊不足', '需留意'].includes(r.parent_friendly_level));
+        
+        if (!state.showOthers) {
+            trackEvent('click_show_more', {
+                location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none',
+                visible_restaurant_count: recommended.length,
+                hidden_restaurant_count: others.length
+            });
+        }
+
+        state.showOthers = !state.showOthers;
+        state.hideLowQualityMarkers = !state.showOthers; // Sync map toggle with list expansion
+        if (hideMarkersToggle) hideMarkersToggle.checked = state.hideLowQualityMarkers;
+        
+        // Reset othersLimit when toggled
+        state.othersLimit = 30;
+        
+        // Toggle expansion instantly, then defer heavy rendering
+        setTimeout(() => {
+            renderResults();
+        }, 20);
+    });
+
+    // Reset Search
+    resetSearchBtn.addEventListener('click', () => {
+        state.searchLocation = null;
+        state.userLocation = null;
+        state.lastGeographicLocation = null;
+        state.filters.clear();
+        state.hideLowQualityMarkers = true; // Reset to default: hide low quality
+        state.showOthers = false; // Reset to default: hide others list
+        state.recommendedLimit = 30; // Reset pagination limit
+        state.othersLimit = 30; // Reset pagination limit
+        
+        document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
+        const clearAllFiltersBtn = document.getElementById('clear-all-filters');
+        if (clearAllFiltersBtn) clearAllFiltersBtn.classList.add('hidden');
+        
+        searchInput.value = '';
+        clearSearchBtn.classList.add('hidden');
+        searchResultsView.classList.add('hidden');
+        if (floatShareBtn) floatShareBtn.classList.add('hidden');
+        
+        // Update checkbox UI
+        const hideMarkersToggle = document.getElementById('hide-others-markers');
+        if (hideMarkersToggle) hideMarkersToggle.checked = true;
+        
+        const trendingSection = document.querySelector('.trending-section');
+        if (trendingSection) trendingSection.classList.remove('hidden');
+        const featuresSection = document.querySelector('.features-section');
+        if (featuresSection) featuresSection.classList.remove('hidden');
+        document.querySelector('.main-header').style.display = 'block';
+        homeView.classList.remove('search-active');
+        homeView.classList.remove('header-collapsed');
+        const btnShowResultsContainer = document.getElementById('btn-show-results-container');
+        if (btnShowResultsContainer) btnShowResultsContainer.style.display = 'none';
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+        updateUrl(true);
+        updateQuickLinksUI();
+    });
+
+    // Show Results Button
+    const btnShowResults = document.getElementById('btn-show-results');
+    if (btnShowResults) {
+        btnShowResults.addEventListener('click', () => {
+            homeView.classList.add('header-collapsed');
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+            setTimeout(() => {
+                if (window.map) {
+                    window.map.invalidateSize();
+                }
+            }, 300);
+        });
+    }
+
+    // Modify Search Button
+    const modifySearchBtn = document.getElementById('modify-search');
+    if (modifySearchBtn) {
+        modifySearchBtn.addEventListener('click', () => {
+            homeView.classList.remove('header-collapsed');
+            window.scrollTo({ top: 0, behavior: 'smooth' });
+        });
+    }
+
+    // Navigation
+    backHomeBtn.addEventListener('click', () => {
+        const params = new URLSearchParams(window.location.search);
+        if (params.get('loc') || params.get('f') || window.history.length > 1) {
+            state.isUiNavigation = true;
+            window.history.back();
+            // Safety timeout to reset the flag if popstate is blocked/not fired
+            setTimeout(() => {
+                state.isUiNavigation = false;
+            }, 100);
+        } else {
+            switchView('home');
+            updateUrl(false);
+        }
+    });
+
+    // Sharing
+    if (floatShareBtn) floatShareBtn.addEventListener('click', shareCurrentFilters);
+    detailShareBtn.addEventListener('click', () => {
+        if (state.selectedRestaurant) shareRestaurant(state.selectedRestaurant);
+    });
+
+    // Detail Favorite Button
+    const detailFavBtn = document.getElementById('btn-detail-fav');
+    if (detailFavBtn) {
+        detailFavBtn.addEventListener('click', () => {
+            if (state.selectedRestaurant) {
+                toggleFavorite(state.selectedRestaurant.place_id);
+            }
+        });
+    }
+
+    // Trending Items
+    document.querySelectorAll('.trending-item').forEach(item => {
+        item.addEventListener('click', () => {
+            const locName = item.dataset.loc;
+            const filter = item.dataset.filter;
+            const scenarioTitle = item.textContent.trim();
+            
+            trackEvent('click_suggested_scenario', { scenario_title: scenarioTitle });
+
+            // Set filters
+            state.filters.clear();
+            if (filter) {
+                state.filters.add(filter);
+                // Sync UI chips
+                document.querySelectorAll('.filter-chip').forEach(chip => {
+                    chip.classList.toggle('active', chip.dataset.filter === filter);
+                });
+            } else {
+                document.querySelectorAll('.filter-chip').forEach(chip => chip.classList.remove('active'));
+            }
+
+            const locObj = state.locationData.find(l => l.name === locName);
+            if (locObj) selectLocation(locObj, 'suggested_scenario');
+        });
+    });\n\n"""
+
+start_idx = content.find(start_marker)
+if start_idx == -1:
+    print('Failed to find start marker')
+    exit(1)
+
+end_idx = content.find(end_marker, start_idx)
+if end_idx == -1:
+    print('Failed to find end marker')
+    exit(1)
+
+new_content = content[:start_idx] + original_code + content[end_idx:]
+
+with open('app.js', 'w', encoding='utf-8') as f:
+    f.write(new_content)
+
+print('Success')
