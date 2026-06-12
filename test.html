@@ -3,10 +3,15 @@
 <head>
     <script>
         window.onerror = function(msg, url, line, col, error) {
-            console.log("ERROR: " + msg + " at line " + line + " col " + col);
+            document.title = "ERROR|" + msg + "|" + line;
         };
     </script>
-    <script src="file:///c:/Users/aou/Desktop/Alice/Study/side%20project/restaurant%20map/app.js"></script>
+    <script src="app.js"></script>
+    <script>
+        if (document.title.indexOf("ERROR") === -1) {
+            document.title = "SUCCESS";
+        }
+    </script>
 </head>
 <body></body>
 </html>
