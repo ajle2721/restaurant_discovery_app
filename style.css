@@ -257,6 +257,46 @@ body {
     cursor: help;
 }
 
+.tag.likely[role="button"] {
+    user-select: none;
+}
+
+.tag.likely.expanded {
+    background: rgba(48, 179, 169, 0.14);
+    border-color: var(--secondary);
+    box-shadow: 0 0 0 3px rgba(48, 179, 169, 0.08);
+}
+
+.tag-estimate-suffix {
+    font-size: 0.65em;
+    opacity: 0.75;
+    letter-spacing: 0;
+    margin-left: 2px;
+}
+
+.tag-estimate-info {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 1em;
+    height: 1em;
+    margin-left: 0.25rem;
+    font-size: 0.75em;
+    opacity: 0.78;
+}
+
+.estimated-tag-note {
+    margin: -0.85rem 0 1.35rem;
+    padding: 0.7rem 0.85rem;
+    border: 1px solid rgba(48, 179, 169, 0.22);
+    border-radius: 0.85rem;
+    background: rgba(48, 179, 169, 0.07);
+    color: #0f766e;
+    font-size: 0.8rem;
+    font-weight: 600;
+    line-height: 1.55;
+}
+
 .autocomplete-item .name {
     font-size: 0.9rem;
     font-weight: 700;

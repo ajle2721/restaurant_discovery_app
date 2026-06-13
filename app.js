@@ -220,6 +220,8 @@ const attributeLabels = {
     has_private_room: '包廂或可包場'
 };
 
+const ESTIMATED_ATTRIBUTE_TOOLTIP = '依公開地點資訊推估，尚未由店家或使用者明確確認，建議出發前再確認。';
+
 const levelLabels = {
     'High': '👍 適合帶小孩',
     'Medium': '🙂 可以考慮',
@@ -2259,6 +2261,43 @@ function focusOnMap(e, placeId) {
 
 window.focusRestaurantOnMap = focusOnMap; // For backward compatibility if any
 
+function setupEstimatedTagToggles(root) {
+    const note = root.querySelector('#estimated-tag-note');
+    const tags = Array.from(root.querySelectorAll('.tag.likely'));
+    if (!note || !tags.length) return;
+
+    const closeNote = () => {
+        note.classList.add('hidden');
+        tags.forEach(tag => {
+            tag.classList.remove('expanded');
+            tag.setAttribute('aria-expanded', 'false');
+        });
+    };
+
+    const toggleNote = (tag) => {
+        const isExpanded = tag.classList.contains('expanded') && !note.classList.contains('hidden');
+        closeNote();
+        if (isExpanded) return;
+
+        note.textContent = tag.getAttribute('title') || ESTIMATED_ATTRIBUTE_TOOLTIP;
+        note.classList.remove('hidden');
+        tag.classList.add('expanded');
+        tag.setAttribute('aria-expanded', 'true');
+    };
+
+    tags.forEach(tag => {
+        tag.addEventListener('click', (e) => {
+            e.preventDefault();
+            toggleNote(tag);
+        });
+        tag.addEventListener('keydown', (e) => {
+            if (e.key !== 'Enter' && e.key !== ' ') return;
+            e.preventDefault();
+            toggleNote(tag);
+        });
+    });
+}
+
 function renderDetailContent(restaurant) {
     let dist = undefined;
     let originLabel = '';
@@ -2305,9 +2344,9 @@ function renderDetailContent(restaurant) {
             if (isMatched) tagClass += ' matched';
             if (isLikely) tagClass += ' likely';
             
-            const titleAttr = isLikely ? ' title="依公開地點資訊推估，尚未由店家或使用者明確確認，建議出發前再確認。"' : '';
+            const titleAttr = isLikely ? ` title="${ESTIMATED_ATTRIBUTE_TOOLTIP}" role="button" tabindex="0" aria-expanded="false" aria-controls="estimated-tag-note"` : '';
             const checkIcon = isMatched ? '✓ ' : '';
-            const suffix = isLikely ? '<span style="font-size:0.65em;opacity:0.7;letter-spacing:0;margin-left:2px;">(估)</span>' : '';
+            const suffix = isLikely ? '<span class="tag-estimate-suffix">(估)</span><span class="tag-estimate-info" aria-hidden="true">ⓘ</span>' : '';
             
             tagsHtml += `<span class="${tagClass}"${titleAttr}><span>${checkIcon}${attributeIcons[attr] || '✨'}</span> <span style="display:flex;align-items:center;">${attributeLabels[attr]}${suffix}</span></span>`;
         }
@@ -2397,6 +2436,7 @@ function renderDetailContent(restaurant) {
         <div class="tag-container" style="gap: 0.75rem; margin-bottom: 1.5rem;">
             ${tagsHtml}
         </div>
+        <div id="estimated-tag-note" class="estimated-tag-note hidden" aria-live="polite">${ESTIMATED_ATTRIBUTE_TOOLTIP}</div>
 
         <div class="ai-summary" style="margin-bottom: 1.5rem;">
             <div class="ai-summary-title">親子用餐摘要</div>
@@ -2455,6 +2495,8 @@ function renderDetailContent(restaurant) {
             <span>🚩</span> 協助回報與貢獻此餐廳資訊
         </button>
     `;
+
+    setupEstimatedTagToggles(detailContent);
 
     const detailFavBtn = document.getElementById('btn-detail-fav');
     if (detailFavBtn) {
@@ -3510,7 +3552,7 @@ function facilityIsAlreadyMentioned(text, key) {
         has_diaper_table: /尿布台|哺乳室|親子廁所/,
         has_play_area: /遊樂|玩具|遊戲|遊戲區|遊樂桌|裝扮|拍照區/,
         spacious_seating: /寬敞|挑高|空間舒適|座位較寬/,
-        kid_noise_tolerant: /不怕吵|吵鬧.*包容|氣氛歡樂|氣氛對孩子較友善|熱鬧/,
+        kid_noise_tolerant: /不怕吵|吵鬧.*包容|孩子聲音.*包容|氣氛歡樂|氣氛對孩子較友善|熱鬧/,
         has_private_room: /包廂|包場|慶生|抓週|活動服務/
     };
     return patterns[key]?.test(positiveText) || false;

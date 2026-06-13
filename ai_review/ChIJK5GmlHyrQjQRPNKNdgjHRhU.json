@@ -1,8 +1,8 @@
 ﻿{
     " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
+                                  "result":  "Yes",
+                                  "evidence":  "人工校正：根據公開資訊，此餐廳提供兒童椅。",
+                                  "confidence":  0.9
                               },
     "Spacious seating":  {
                              "result":  "Unknown",
@@ -15,9 +15,9 @@
                                 "confidence":  0.4
                             },
     "kid_noise_tolerant":  {
-                               "result":  "Unknown",
-                               "evidence":  null,
-                               "confidence":  0.4
+                               "result":  "Yes",
+                               "evidence":  "人工校正：環境適合兒童。",
+                               "confidence":  0.85
                            },
     "has_play_area":  {
                           "result":  "Unknown",
@@ -30,21 +30,23 @@
                              "confidence":  0.4
                          },
     "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
+                          "result":  "Likely",
+                          "evidence":  "人工校正：有兒童餐具（推估）。",
+                          "confidence":  0.75
                       },
     "has_diaper_table":  {
                              "result":  "Unknown",
                              "evidence":  null,
                              "confidence":  0.4
                          },
-    "generated_summary":  "根據評論分析，店內用餐空間規劃寬敞，活動動線舒適。",
+    "generated_summary":  "根據公開資訊，此餐廳提供兒童椅，且推估亦提供兒童餐具，整體環境對孩子聲音較包容。",
     "card_summary":  "",
     "generated_signals":  [
-
+                              "有兒童椅",
+                              "有兒童餐具（推估）",
+                              "環境適合兒童"
                           ],
-    "parent_friendly_score":  0,
-    "parent_friendly_level":  "資訊不足",
+    "parent_friendly_score":  3,
+    "parent_friendly_level":  "高",
     "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }
