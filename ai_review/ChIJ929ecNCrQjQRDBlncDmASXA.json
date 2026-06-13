@@ -1,8 +1,8 @@
 ﻿{
     " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
+                                  "result":  "Yes",
+                                  "evidence":  "人工校正：確定提供兒童椅。",
+                                  "confidence":  0.95
                               },
     "Spacious seating":  {
                              "result":  "Unknown",
@@ -15,9 +15,9 @@
                                 "confidence":  0.4
                             },
     "kid_noise_tolerant":  {
-                               "result":  "Unknown",
-                               "evidence":  null,
-                               "confidence":  0.4
+                               "result":  "Yes",
+                               "evidence":  "人工校正：環境不怕小孩聲音。",
+                               "confidence":  0.95
                            },
     "has_play_area":  {
                           "result":  "Unknown",
@@ -30,21 +30,24 @@
                              "confidence":  0.9
                          },
     "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
+                          "result":  "Yes",
+                          "evidence":  "人工校正：確定提供兒童餐具。",
+                          "confidence":  0.95
                       },
     "has_diaper_table":  {
                              "result":  "Unknown",
                              "evidence":  null,
                              "confidence":  0.4
                          },
-    "generated_summary":  "根據評論分析，店內用餐空間規劃寬敞，活動動線舒適。此外，店內還設有舒適的獨立包廂空間，是親友、家庭聚餐時的理想選擇。",
+    "generated_summary":  "提供兒童椅與兒童餐具，環境對孩子聲音較包容；店內也有包廂，適合家庭聚餐。",
     "card_summary":  "",
     "generated_signals":  [
-
+                              "有兒童椅",
+                              "有兒童餐具",
+                              "環境不怕吵",
+                              "有包廂"
                           ],
-    "parent_friendly_score":  0,
-    "parent_friendly_level":  "中",
+    "parent_friendly_score":  4,
+    "parent_friendly_level":  "高",
     "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }
