@@ -35,17 +35,17 @@
         "confidence": 1
     },
     "has_diaper_table": {
-        "result": "Yes",
-        "evidence": "位於百貨公司/商場/大樓內，可使用商場/大樓附設之尿布台",
-        "confidence": 1
+        "result": "Unknown",
+        "evidence": "地址為南京東路三段335巷5-3號，未能確認位於微風南京百貨內；不應推定可使用商場尿布台",
+        "confidence": 0.4,
+        "override_existing": true
     },
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
     "reason": "人工校正與AI綜合評估",
     "generated_signals": [
-        "位於百貨公司/商場/大樓內，可使用商場/大樓附設之尿布台",
         "Google 摰?餉??拙??咱?券?"
     ],
-    "generated_summary": "這家餐廳提供兒童座椅、兒童餐具、可使用商場附設之尿布台、環境氣氛適合帶小孩。目前評論中較少提及其他親子用餐的具體細節，建議前往前可先向店家確認。",
+    "generated_summary": "這家餐廳提供兒童座椅、兒童餐具，環境氣氛適合帶小孩。目前評論中較少提及其他親子用餐的具體細節，建議前往前可先向店家確認。",
     "card_summary": ""
 }

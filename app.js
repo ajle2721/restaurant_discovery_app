@@ -238,6 +238,15 @@ const priceSymbols = {
     'PRICE_LEVEL_VERY_EXPENSIVE': '$$$$'
 };
 
+function isPositiveAttributeValue(value) {
+    return value === 'yes' ||
+        value === 'likely' ||
+        value === 'room' ||
+        value === 'venue' ||
+        value === 'likely_room' ||
+        value === 'likely_venue';
+}
+
 function getPFSummaryTags(res, overrideLevel, simpleFormat = false) {
     const attrs = res.attributes || {};
     
@@ -435,6 +444,41 @@ function updateShowResultsButton(matchCount = 0) {
     }
 }
 
+function getShowResultsPreviewCount() {
+    if (!state.searchLocation || !state.filters || state.filters.size === 0) return 0;
+    if (typeof restaurantData === 'undefined' || !restaurantData) return 0;
+
+    const center = state.searchLocation;
+    let filtered;
+    if (center.keyword) {
+        const q = center.keyword.toLowerCase();
+        filtered = restaurantData.filter(res =>
+            (res.name && res.name.toLowerCase().includes(q)) ||
+            (res.address && res.address.toLowerCase().includes(q)) ||
+            (res.cuisine && res.cuisine.toLowerCase().includes(q)) ||
+            (res.district && res.district.toLowerCase().includes(q))
+        );
+    } else {
+        const maxRadius = (center.type === '全市' || center.name === '整個台北市')
+            ? 99999
+            : (state.expandedRadius ? (center.type === '行政區' ? 5.0 : 3.0) : (center.type === '行政區' ? 2.5 : 1.5));
+
+        filtered = restaurantData.filter(res => {
+            const distance = calculateDistance(center.lat, center.lng, res.latitude, res.longitude);
+            return distance <= maxRadius;
+        });
+    }
+
+    return filtered.filter(res => {
+        const status = getDynamicStatus(res, state.filters);
+        return status.level === 'High' || status.level === 'Medium';
+    }).length;
+}
+
+function refreshShowResultsButton() {
+    updateShowResultsButton(getShowResultsPreviewCount());
+}
+
 // Initialization
 function init() {
     try {
@@ -606,6 +650,7 @@ function setupEventListeners() {
             
             state.recommendedLimit = 30; // Reset pagination limit
             state.othersLimit = 30; // Reset pagination limit
+            refreshShowResultsButton();
             
             // Toggle active state in UI instantly, then defer heavy search execution
             setTimeout(() => {
@@ -628,6 +673,7 @@ function setupEventListeners() {
             document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
             state.recommendedLimit = 30; // Reset pagination limit
             state.othersLimit = 30; // Reset pagination limit
+            refreshShowResultsButton();
             
             // Reset active states in UI instantly, then defer heavy search execution
             setTimeout(() => {
@@ -663,7 +709,7 @@ function setupEventListeners() {
         const others = state.currentResults.filter(r => ['Insufficient Info', 'Needs Attention', '資訊不足', '需留意'].includes(r.parent_friendly_level));
         
         if (!state.showOthers) {
-            trackEvent('click_show_more', {
+            trackEvent('expand_other_results', {
                 location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none',
                 visible_restaurant_count: recommended.length,
                 hidden_restaurant_count: others.length
@@ -912,6 +958,9 @@ function setupEventListeners() {
             tabList.classList.remove('active');
             document.getElementById('shortlist-compare-view').classList.add('active');
             document.getElementById('shortlist-list-view').classList.remove('active');
+            trackEvent('view_shortlist_compare', {
+                shortlist_count: state.favorites.size
+            });
             renderShortlistDrawer();
             syncComparisonExpandButton();
         });
@@ -1560,6 +1609,7 @@ function selectLocation(loc, source = 'other', pushState = true) {
     searchResultsView.classList.remove('hidden');
     if (floatShareBtn) floatShareBtn.classList.add('hidden'); // Ensure hidden as per user feedback
     currentSearchLocText.textContent = loc.name;
+    refreshShowResultsButton();
     
     // CRITICAL: Leaflet needs to know the size changed after being unhidden
     if (state.map) {
@@ -1607,7 +1657,7 @@ function getParentFriendlyBaseScore(res) {
         'Insufficient Info': 0
     };
     const attrs = res.attributes || {};
-    const knownPositiveCount = Object.values(attrs).filter(val => val === 'yes' || val === 'likely').length;
+    const knownPositiveCount = Object.values(attrs).filter(isPositiveAttributeValue).length;
     return (levelScoreMap[level] ?? 0) + knownPositiveCount;
 }
 
@@ -1631,7 +1681,7 @@ function calculatePersonalizedScore(res) {
         const val = attrs[key];
         const isSelected = state.filters.has(key);
 
-        if (val === 'yes' || val === 'likely') {
+        if (isPositiveAttributeValue(val)) {
             if (isSelected) {
                 score += 100;
                 matchCount++;
@@ -1999,7 +2049,7 @@ function getDynamicStatus(res, selectedFilters) {
     let matchCount = 0;
     if (selectedFilters && selectedFilters.size > 0) {
         selectedFilters.forEach(f => {
-            if (attrs[f] === 'yes' || attrs[f] === 'likely') matchCount++;
+            if (isPositiveAttributeValue(attrs[f])) matchCount++;
         });
     }
 
@@ -2031,7 +2081,7 @@ function getDynamicStatus(res, selectedFilters) {
         // 其他友善選擇 (Zero matches, but something else is 'yes')
         let hasOtherYes = false;
         allKeys.forEach(k => {
-            if (!selectedFilters.has(k) && (attrs[k] === 'yes' || attrs[k] === 'likely')) hasOtherYes = true;
+            if (!selectedFilters.has(k) && isPositiveAttributeValue(attrs[k])) hasOtherYes = true;
         });
         if (hasOtherYes) {
             return { level: 'Low Match', label: '其他友善選擇', class: 'low-match', matchCount: matchCount };
@@ -2041,15 +2091,15 @@ function getDynamicStatus(res, selectedFilters) {
     }
 
     // Default view (no filters selected)
-    const hasTableware = attrs['has_tableware'] === 'yes' || attrs['has_tableware'] === 'likely';
-    const hasHighChair = attrs['high_chair_available'] === 'yes' || attrs['high_chair_available'] === 'likely';
-    const hasKidsMenu = attrs['kids_menu'] === 'yes' || attrs['kids_menu'] === 'likely';
-    const hasPlayArea = attrs['has_play_area'] === 'yes' || attrs['has_play_area'] === 'likely';
+    const hasTableware = isPositiveAttributeValue(attrs['has_tableware']);
+    const hasHighChair = isPositiveAttributeValue(attrs['high_chair_available']);
+    const hasKidsMenu = isPositiveAttributeValue(attrs['kids_menu']);
+    const hasPlayArea = isPositiveAttributeValue(attrs['has_play_area']);
     
     const isRecommended = (hasTableware && hasHighChair) || (hasKidsMenu || hasPlayArea);
     
     let totalYes = 0;
-    allKeys.forEach(k => { if (attrs[k] === 'yes' || attrs[k] === 'likely') totalYes++; });
+    allKeys.forEach(k => { if (isPositiveAttributeValue(attrs[k])) totalYes++; });
     
     if (isRecommended) return { level: 'High', label: '值得推薦', class: 'high', matchCount: 0 };
     if (totalYes >= 1) return { level: 'Medium', label: '可以考慮', class: 'medium', matchCount: 0 };
@@ -2058,11 +2108,11 @@ function getDynamicStatus(res, selectedFilters) {
 
 function renderCard(res, container, overrideLevel) {
     if (res.ai_summary && !res._ai_summary_patched) {
-        res.ai_summary = patchAiSummary(res, res.ai_summary);
+        res.ai_summary = patchAiSummary(res, res.ai_summary, { maxSentences: 4, maxChars: 360 });
         res._ai_summary_patched = true;
     }
     if (res.card_summary && !res._card_summary_patched) {
-        res.card_summary = patchAiSummary(res, res.card_summary);
+        res.card_summary = patchAiSummary(res, res.card_summary, { maxSentences: 3, maxChars: 220 });
         res._card_summary_patched = true;
     }
 
@@ -2234,11 +2284,11 @@ function renderDetailContent(restaurant) {
         }
     }
     if (restaurant.ai_summary && !restaurant._ai_summary_patched) {
-        restaurant.ai_summary = patchAiSummary(restaurant, restaurant.ai_summary);
+        restaurant.ai_summary = patchAiSummary(restaurant, restaurant.ai_summary, { maxSentences: 4, maxChars: 360 });
         restaurant._ai_summary_patched = true;
     }
     if (restaurant.card_summary && !restaurant._card_summary_patched) {
-        restaurant.card_summary = patchAiSummary(restaurant, restaurant.card_summary);
+        restaurant.card_summary = patchAiSummary(restaurant, restaurant.card_summary, { maxSentences: 3, maxChars: 220 });
         restaurant._card_summary_patched = true;
     }
 
@@ -2247,9 +2297,9 @@ function renderDetailContent(restaurant) {
     const orderedKeys = ['has_tableware', 'high_chair_available', 'has_diaper_table', 'kids_menu', 'kid_noise_tolerant', 'spacious_seating', 'has_play_area', 'has_private_room'];
     orderedKeys.forEach(attr => {
         const val = attributes[attr];
-        if ((val === 'yes' || val === 'likely') && attributeLabels[attr]) {
+        if (isPositiveAttributeValue(val) && attributeLabels[attr]) {
             const isMatched = state.filters && state.filters.has(attr);
-            const isLikely = val === 'likely';
+            const isLikely = val === 'likely' || val === 'likely_room' || val === 'likely_venue';
             
             let tagClass = 'tag';
             if (isMatched) tagClass += ' matched';
@@ -2277,7 +2327,7 @@ function renderDetailContent(restaurant) {
     const attributes_for_count = restaurant.attributes || {};
     if (state.filters && state.filters.size > 0) {
         state.filters.forEach(f => {
-            if (attributes_for_count[f] === 'yes' || attributes_for_count[f] === 'likely') matchCount++;
+            if (isPositiveAttributeValue(attributes_for_count[f])) matchCount++;
         });
     }
     
@@ -2349,7 +2399,7 @@ function renderDetailContent(restaurant) {
         </div>
 
         <div class="ai-summary" style="margin-bottom: 1.5rem;">
-            <div class="ai-summary-title">親子用餐摘要（根據目前整理資料產生，僅供參考）</div>
+            <div class="ai-summary-title">親子用餐摘要</div>
             <div class="ai-summary-text">${(restaurant.ai_summary || '目前尚無摘要資訊。').replace(/\n/g, '<br>')}</div>
         </div>
         
@@ -2514,7 +2564,7 @@ function isLowMatchGlobal(restaurant, level) {
         let matchCount = 0;
         const attributes = restaurant.attributes || {};
         state.filters.forEach(f => {
-            if (attributes[f] === 'yes' || attributes[f] === 'likely') matchCount++;
+            if (isPositiveAttributeValue(attributes[f])) matchCount++;
         });
         return matchCount === 0;
     }
@@ -3369,75 +3419,252 @@ function neutralizeSummarySourceCopy(summary, privateRoomVal) {
         .replace(/評論/g, '目前整理資料');
 }
 
+function splitSummarySentences(summary) {
+    const matches = String(summary || '').replace(/\s+/g, ' ').match(/[^。！？!?]+[。！？!?]?/g);
+    return (matches || []).map(s => s.trim()).filter(Boolean);
+}
 
-function patchAiSummary(restaurant, summary) {
-    const attrs = restaurant.attributes || {};
-    const roomVal = attrs.has_private_room;
+function normalizeSummarySentence(sentence) {
+    return String(sentence || '')
+        .replace(/^[，、。；;\s]+/, '')
+        .replace(/^(此外|另外|同時|並且|而且|整體來說|總體而言)[，,、\s]*/, '')
+        .replace(/^(根據|依據)?目前整理資料(產生，僅供參考|顯示|指出|提到|提及|中)?[，,、\s]*/g, '')
+        .replace(/^資料(顯示|指出|提到|提及)[，,、\s]*/g, '')
+        .replace(/建議(出發|前往)前向店家確認。?/g, '')
+        .replace(/建議(出發|前往)前先向店家確認。?/g, '')
+        .replace(/目前尚未取得明確設備資訊，?/g, '')
+        .replace(/（標示為「估」）/g, '')
+        .replace(/\s+/g, ' ')
+        .trim();
+}
 
-    // Detect facilities that are only "likely" (inferred, not explicitly confirmed)
-    const likelyFacilities = [];
-    if (attrs.high_chair_available === 'likely') likelyFacilities.push('兒童椅');
-    if (attrs.has_tableware === 'likely') likelyFacilities.push('兒童餐具');
-    if (roomVal === 'likely_room') {
-        likelyFacilities.push('包廂');
-    } else if (roomVal === 'likely_venue') {
-        likelyFacilities.push('包場空間');
-    } else if (roomVal === 'likely') {
-        likelyFacilities.push('包廂或包場空間');
+function isLikelyAttributeValue(value) {
+    return value === 'likely' || value === 'likely_room' || value === 'likely_venue';
+}
+
+function getPrivateRoomSummaryLabel(value) {
+    if (value === 'room') return '有包廂';
+    if (value === 'venue') return '可包場';
+    if (value === 'yes') return '有包廂或可包場';
+    if (value === 'likely_room') return '可能有包廂';
+    if (value === 'likely_venue') return '可包場（推估）';
+    if (value === 'likely') return '可能有包廂或可包場';
+    return '';
+}
+
+function joinChineseList(items) {
+    const unique = [];
+    const seen = new Set();
+    items.forEach(item => {
+        if (!item || seen.has(item)) return;
+        seen.add(item);
+        unique.push(item);
+    });
+    return unique.join('、');
+}
+
+function getPositiveFamilyFacilities(attrs) {
+    const items = [];
+    const add = (key, label) => {
+        if (isPositiveAttributeValue(attrs[key])) {
+            items.push(label + (isLikelyAttributeValue(attrs[key]) ? '（推估）' : ''));
+        }
+    };
+
+    add('high_chair_available', '兒童椅');
+    add('has_tableware', '兒童餐具');
+    add('kids_menu', '兒童餐');
+    add('has_diaper_table', '尿布台');
+    add('has_play_area', '遊樂區');
+    add('spacious_seating', '座位較寬敞');
+    add('kid_noise_tolerant', '環境對孩子聲音較包容');
+
+    const roomLabel = getPrivateRoomSummaryLabel(attrs.has_private_room);
+    if (roomLabel) items.push(roomLabel);
+
+    return items;
+}
+
+function getFamilyCautions(attrs) {
+    const cautions = [];
+    if (attrs.kids_menu === 'no') cautions.push('未提供兒童餐');
+    if (attrs.high_chair_available === 'no') cautions.push('未提供兒童椅');
+    if (attrs.has_tableware === 'no') cautions.push('未提供兒童餐具');
+    if (attrs.has_diaper_table === 'no') cautions.push('無尿布台');
+    if (attrs.has_play_area === 'no') cautions.push('無遊樂區');
+    if (attrs.spacious_seating === 'no') cautions.push('座位較為緊湊');
+    if (attrs.kid_noise_tolerant === 'no') cautions.push('環境偏安靜');
+    if (attrs.has_private_room === 'no') cautions.push('無包廂或包場資訊');
+    return cautions;
+}
+
+function facilityIsAlreadyMentioned(text, key) {
+    if (!text) return false;
+    const positiveText = splitSummarySentences(text)
+        .filter(sentence => !/未提及|較少提及|尚未明確提及|沒有提及|並未提及/.test(sentence))
+        .join('');
+    const patterns = {
+        high_chair_available: /兒童(座|餐)?椅|高腳椅|寶寶椅/,
+        has_tableware: /兒童餐具|專用(碗盤|餐具)|碗盤餐具/,
+        kids_menu: /兒童餐|兒童菜單|孩子.*餐點/,
+        has_diaper_table: /尿布台|哺乳室|親子廁所/,
+        has_play_area: /遊樂|玩具|遊戲|遊戲區|遊樂桌|裝扮|拍照區/,
+        spacious_seating: /寬敞|挑高|空間舒適|座位較寬/,
+        kid_noise_tolerant: /不怕吵|吵鬧.*包容|氣氛歡樂|氣氛對孩子較友善|熱鬧/,
+        has_private_room: /包廂|包場|慶生|抓週|活動服務/
+    };
+    return patterns[key]?.test(positiveText) || false;
+}
+
+function getUnmentionedFamilyFacilities(attrs, sourceText) {
+    const items = [];
+    const add = (key, label) => {
+        if (isPositiveAttributeValue(attrs[key]) && !facilityIsAlreadyMentioned(sourceText, key)) {
+            items.push(label + (isLikelyAttributeValue(attrs[key]) ? '（推估）' : ''));
+        }
+    };
+
+    add('high_chair_available', '提供兒童椅');
+    add('has_tableware', '備有兒童餐具');
+    add('kids_menu', '提供兒童餐');
+    add('has_diaper_table', '設有尿布台');
+    add('has_play_area', '設有遊樂區');
+    add('spacious_seating', '座位較寬敞');
+    add('kid_noise_tolerant', '環境對孩子聲音較包容');
+
+    const roomLabel = getPrivateRoomSummaryLabel(attrs.has_private_room);
+    if (roomLabel && !facilityIsAlreadyMentioned(sourceText, 'has_private_room')) items.push(roomLabel);
+
+    return items;
+}
+
+function getSummarySourceText(summary, restaurant) {
+    const attrs = restaurant?.attributes || {};
+    return neutralizeSummarySourceCopy(summary || '', attrs.has_private_room);
+}
+
+function isSpecificRestaurantHighlight(clause) {
+    return /玩具|遊樂桌|遊樂區|遊戲|圍裙|裝扮|拍照|慶生|生日|抓週|包場活動|活動服務|天然食材|新鮮|食材|餐點|烹調|口味|服務|挑高|寬敞|包廂|包場|家庭聚餐|吵鬧|包容|熱鬧/.test(clause);
+}
+
+function hasConcreteFamilyInfo(sentence) {
+    return /兒童(座)?椅|高腳椅|寶寶椅|兒童餐具|專用(碗盤|餐具)|碗盤餐具|兒童餐|尿布台|哺乳室|遊樂|玩具|遊戲|包廂|包場|慶生|抓週|不怕吵|吵鬧.*包容/.test(sentence);
+}
+
+function cleanupHighlightSentence(sentence) {
+    return sentence
+        .replace(/該餐廳/g, '店內')
+        .replace(/這家餐廳/g, '店內')
+        .replace(/^[^，。]*被標記為親子友善餐廳，?/, '')
+        .replace(/^[^，。]*雖然?被標記為適合兒童，但/, '')
+        .replace(/^[^，。]*被標記為適合兒童，?且?/, '')
+        .replace(/，?並被標記為適合兒童[^，。]*/g, '')
+        .replace(/，?且被標記為適合兒童[^，。]*/g, '')
+        .replace(/，?環境氛圍被標記為適合兒童/g, '')
+        .replace(/，?且明確不提供兒童餐/g, '')
+        .replace(/且適合親子前往/g, '')
+        .replace(/適合親子前往/g, '')
+        .replace(/店內以([^，。]+)，店內空間/g, '店內以$1，空間')
+        .replace(/提供兒童座椅/g, '提供兒童椅')
+        .replace(/可使用商場附設之尿布台/g, '可使用商場附設尿布台')
+        .replace(/環境氣氛適合帶小孩/g, '氣氛對孩子較友善')
+        .replace(/環境氣氛適合帶孩子/g, '氣氛對孩子較友善')
+        .replace(/環境氣氛適合兒童/g, '氣氛對孩子較友善')
+        .replace(/設有包廂/g, '有包廂')
+        .replace(/舒適的獨立包廂空間/g, '獨立包廂空間')
+        .replace(/，?適合家庭聚餐/g, '')
+        .replace(/，?適合帶(孩子|小孩|兒童).*$/g, '')
+        .replace(/座位較(為)?緊湊/g, '')
+        .replace(/^[，、。；;\s]+|[，、；;\s]+$/g, '')
+        .trim();
+}
+
+function extractDistinctiveSummaryParts(summary, restaurant, maxParts = 2) {
+    const source = getSummarySourceText(summary, restaurant);
+    const rawSentences = splitSummarySentences(source);
+    const selected = [];
+    const seenKeys = new Set();
+
+    rawSentences.forEach(rawSentence => {
+        let sentence = normalizeSummarySentence(rawSentence).replace(/[。！？!?]+$/, '');
+        if (!sentence) return;
+        if (/Google|Maps|評論|公開地點資訊|店家資訊|目前資料/.test(sentence)) return;
+        if (/僅供參考|系統推估|目前尚未取得明確設備資訊/.test(sentence)) return;
+        if (/未提及|較少提及|尚未明確提及|資訊較有限|無相關親子設施資訊|建議.*(確認|考量|留意)/.test(sentence)) return;
+        if (/座位較(為)?緊湊.*適合帶/.test(sentence)) {
+            sentence = sentence.replace(/座位較(為)?緊湊，?適合帶(孩子|小孩|兒童).*$/, '');
+        }
+        if (/親子友善|適合兒童|適合帶/.test(sentence) && !isSpecificRestaurantHighlight(sentence) && !hasConcreteFamilyInfo(sentence)) return;
+
+        sentence = cleanupHighlightSentence(sentence);
+        if (!sentence || sentence.length < 6) return;
+
+        const key = sentence.replace(/[，。、！？!?；;（）()「」\s]/g, '');
+        if (seenKeys.has(key)) return;
+        seenKeys.add(key);
+        selected.push(sentence);
+    });
+
+    return selected.slice(0, maxParts);
+}
+
+function compactSummaryText(summary, restaurant, options = {}) {
+    const attrs = restaurant?.attributes || {};
+    const maxChars = options.maxChars || 160;
+    const source = getSummarySourceText(summary, restaurant);
+    const cautions = getFamilyCautions(attrs);
+    const distinctiveParts = extractDistinctiveSummaryParts(summary, restaurant, 4);
+    const highlightText = distinctiveParts.join('。');
+    const unmentionedFacilities = getUnmentionedFamilyFacilities(attrs, highlightText);
+    const sentences = [];
+
+    if (distinctiveParts.length > 0) {
+        sentences.push(`${distinctiveParts.join('。')}。`);
+    } else if (getPositiveFamilyFacilities(attrs).length === 0) {
+        sentences.push('目前整理資料未看到明確的親子友善設備。');
     }
 
-    // If no likely-only items, still neutralize source wording.
-    if (likelyFacilities.length === 0) return neutralizeSummarySourceCopy(summary || '', roomVal);
-
-    // Collect confirmed (yes) facilities to naturally weave in
-    const confirmedParts = [];
-    if (attrs.kids_menu === 'yes') confirmedParts.push('提供兒童餐');
-    if (attrs.has_diaper_table === 'yes') confirmedParts.push('設有尿布台');
-    if (attrs.has_play_area === 'yes') confirmedParts.push('設有遊樂區');
-    if (roomVal === 'room') {
-        confirmedParts.push('有包廂');
-    } else if (roomVal === 'venue') {
-        confirmedParts.push('可包場');
-    } else if (roomVal === 'yes') {
-        confirmedParts.push('有包廂或可包場');
-    }
-    if (attrs.spacious_seating === 'yes') confirmedParts.push('座位較寬敞');
-    if (attrs.kid_noise_tolerant === 'yes') confirmedParts.push('環境不怕吵鬧');
-
-    const likelyStr = likelyFacilities.join('與');
-    let note = `根據公開地點資訊，這家餐廳被標示為適合兒童，因此系統推估可能備有${likelyStr}（標示為「估」）。目前尚未取得明確設備資訊，建議出發前向店家確認。`;
-
-    if (confirmedParts.length > 0) {
-        note += `此外，此店${confirmedParts.join('、')}。`;
+    if (unmentionedFacilities.length > 0) {
+        const onlyNoiseSupplement = unmentionedFacilities.length === 1 && /^環境/.test(unmentionedFacilities[0]);
+        const prefix = sentences.length > 0 && !onlyNoiseSupplement ? '另外' : '';
+        sentences.push(`${prefix}${joinChineseList(unmentionedFacilities)}。`);
     }
 
-    if (!summary || !summary.trim()) return neutralizeSummarySourceCopy(note, roomVal);
-
-    // Extract unique context from the original summary — skip sentences that only repeat
-    // what our note already covers (Google marking, child facilities absence, visit recommendation).
-    const skipKeywords = [
-        '官方標記', '官方標示', '適合兒童用餐', '適合兒童', 'Google', '公開地點資訊標示',
-        '評論中並未提及', '評論未提及', '評論中沒有', '目前整理資料中未提及',
-        '建議前往前', '建議攜帶幼童', '先向店家確認',
-        '系統推估', '兒童椅', '兒童餐具'
-    ];
-
-    // Split original into sentences (split on 。 keeping the period)
-    const rawParts = summary.split('。');
-    const sentences = rawParts
-        .slice(0, rawParts[rawParts.length - 1].trim() === '' ? -1 : rawParts.length)
-        .map(s => s.trim())
-        .filter(Boolean);
-
-    const extraSentences = sentences.filter(s =>
-        !skipKeywords.some(kw => s.includes(kw))
-    ).map(s => s + '。');
-
-    if (extraSentences.length > 0) {
-        note += extraSentences.join('');
+    if (cautions.length > 0) {
+        sentences.push(`需留意${joinChineseList(cautions)}。`);
     }
 
-    return neutralizeSummarySourceCopy(note, roomVal);
+    let compact = sentences.join('');
+    if (compact.length > maxChars) {
+        const required = sentences[0] || '';
+        compact = required;
+        sentences.slice(1).forEach(sentence => {
+            if ((compact + sentence).length <= maxChars) {
+                compact += sentence;
+            }
+        });
+        if (compact.length > maxChars) compact = compact.slice(0, maxChars).replace(/[，、；;][^，、；;]*$/, '') + '。';
+    }
+
+    return compact
+        .replace(/座位較為緊湊，?適合帶(孩子|小孩|兒童).*?。/g, '座位較為緊湊。')
+        .replace(/座位較緊湊，?適合帶(孩子|小孩|兒童).*?。/g, '座位較為緊湊。')
+        .replace(/Google|Maps|評論/g, '')
+        .trim();
+}
+
+
+function patchAiSummary(restaurant, summary, options = {}) {
+    const patched = compactSummaryText(summary || '', restaurant, {
+        ...options,
+        maxChars: options.maxChars || 160
+    });
+
+    if (options.maxSentences) {
+        return splitSummarySentences(patched).slice(0, options.maxSentences).join('');
+    }
+
+    return patched;
 }
 
 
@@ -3527,6 +3754,9 @@ function openComparisonModal() {
     overlay.classList.add('active');
     modal.classList.add('active');
     document.body.classList.add('modal-open');
+    trackEvent('open_shortlist_compare_modal', {
+        shortlist_count: state.favorites.size
+    });
 }
 
 function refreshComparisonModal() {
@@ -3672,11 +3902,11 @@ function renderShortlistDrawer() {
             const res = restaurantData.find(r => r.place_id === id);
             if (!res) return null;
             if (res.ai_summary && !res._ai_summary_patched) {
-                res.ai_summary = patchAiSummary(res, res.ai_summary);
+                res.ai_summary = patchAiSummary(res, res.ai_summary, { maxSentences: 4, maxChars: 360 });
                 res._ai_summary_patched = true;
             }
             if (res.card_summary && !res._card_summary_patched) {
-                res.card_summary = patchAiSummary(res, res.card_summary);
+                res.card_summary = patchAiSummary(res, res.card_summary, { maxSentences: 3, maxChars: 220 });
                 res._card_summary_patched = true;
             }
             const copy = { ...res };
@@ -3941,7 +4171,7 @@ function openFeedbackModal(restaurant) {
 
         let gridHtml = '';
         specs.forEach(spec => {
-            const hasFeature = attrs[spec.key] === 'yes' || attrs[spec.key] === 'likely';
+            const hasFeature = isPositiveAttributeValue(attrs[spec.key]);
             const label = hasFeature ? spec.yesLabel : spec.noLabel;
             const value = hasFeature ? spec.yesValue : spec.noValue;
             gridHtml += `

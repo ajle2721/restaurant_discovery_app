@@ -37,6 +37,10 @@ function normalizeResult(result) {
   if (value === "yes") return "yes";
   if (value === "no") return "no";
   if (value === "likely") return "likely";
+  if (value === "room") return "room";
+  if (value === "venue") return "venue";
+  if (value === "likely_room") return "likely_room";
+  if (value === "likely_venue") return "likely_venue";
   return "unknown";
 }
 
@@ -66,6 +70,13 @@ function hasGoogleEvidence(...evidenceValues) {
 
 function keepExistingWhenUnknown(nextValue, existingValue) {
   return nextValue === "unknown" ? normalizeResult(existingValue) : nextValue;
+}
+
+function keepExistingUnlessOverrideUnknown(nextValue, existingValue, sourceObj) {
+  if (nextValue === "unknown" && sourceObj?.override_existing) {
+    return "unknown";
+  }
+  return keepExistingWhenUnknown(nextValue, existingValue);
 }
 
 function neutralizeSummarySourceCopy(summary, privateRoomVal) {
@@ -208,9 +219,10 @@ function getAiAttributes(aiReview, existingAttributes = {}) {
       tableware,
       existingAttributes.has_tableware
     ),
-    has_diaper_table: keepExistingWhenUnknown(
+    has_diaper_table: keepExistingUnlessOverrideUnknown(
       normalizeResult(aiReview.has_diaper_table?.result),
-      existingAttributes.has_diaper_table
+      existingAttributes.has_diaper_table,
+      aiReview.has_diaper_table
     ),
   };
 }
