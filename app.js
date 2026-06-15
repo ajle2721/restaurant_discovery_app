@@ -65,6 +65,7 @@ const state = {
     expandedRadius: false,
     recommendedLimit: 30,
     othersLimit: 30,
+    viewedRestaurantIdsInSearch: new Set(),
     detailViews: new Set(JSON.parse(safeSession.getItem('pwa_detail_views') || '[]'))
 };
 
@@ -119,6 +120,21 @@ function getRestaurantEventParams(res, source) {
         recommendation_level: levelLabels[level] || level || '',
         location_context: getLocationContext()
     };
+}
+
+function resetViewedRestaurantCount() {
+    state.viewedRestaurantIdsInSearch = new Set();
+}
+
+function recordRestaurantDetailView(res) {
+    if (res?.place_id) {
+        state.viewedRestaurantIdsInSearch.add(res.place_id);
+    }
+    return state.viewedRestaurantIdsInSearch.size;
+}
+
+function getViewedRestaurantCount() {
+    return state.viewedRestaurantIdsInSearch.size;
 }
 
 function trackSearchLocation(searchMethod, location) {
@@ -736,6 +752,7 @@ function setupEventListeners() {
         state.searchLocation = null;
         state.userLocation = null;
         state.lastGeographicLocation = null;
+        resetViewedRestaurantCount();
         state.filters.clear();
         state.hideLowQualityMarkers = true; // Reset to default: hide low quality
         state.showOthers = false; // Reset to default: hide others list
@@ -1606,6 +1623,7 @@ function handleNearby() {
 
 function selectLocation(loc, source = 'other', pushState = true) {
     state.searchLocation = loc;
+    resetViewedRestaurantCount();
     if (loc && loc.type !== '特定餐廳') {
         state.lastGeographicLocation = loc;
     }
@@ -2227,7 +2245,11 @@ function renderCard(res, container, overrideLevel) {
     card.addEventListener('click', (e) => {
         console.log('Card clicked, showing details:', res.name);
         try {
-            trackEvent('view_restaurant_detail', getRestaurantEventParams(res, 'list_card'));
+            const viewedCount = recordRestaurantDetailView(res);
+            trackEvent('view_restaurant_detail', {
+                ...getRestaurantEventParams(res, 'list_card'),
+                viewed_restaurant_count: viewedCount
+            });
         } catch (err) {}
         
         showDetail(res);
@@ -2538,6 +2560,7 @@ function renderDetailContent(restaurant) {
             try {
                 trackEvent('open_google_maps', {
                     restaurant_name: restaurant.name,
+                    viewed_restaurant_count: getViewedRestaurantCount(),
                     location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
                 });
             } catch (e) {}
@@ -2603,6 +2626,7 @@ function showDetail(restaurant) {
     if (!restaurant) return;
     
     try {
+        recordRestaurantDetailView(restaurant);
         state.selectedRestaurant = restaurant;
         renderDetailContent(restaurant);
         switchView('detail');
@@ -3016,7 +3040,11 @@ window.showDetailFromMap = (id) => {
     // Priority: find in current dynamic results first to get personalized level
     const res = state.currentResults.find(r => r.place_id === id) || restaurantData.find(r => r.place_id === id);
     if (res) {
-        trackEvent('view_restaurant_detail', getRestaurantEventParams(res, 'map_card'));
+        const viewedCount = recordRestaurantDetailView(res);
+        trackEvent('view_restaurant_detail', {
+            ...getRestaurantEventParams(res, 'map_card'),
+            viewed_restaurant_count: viewedCount
+        });
         showDetail(res);
     }
 };
