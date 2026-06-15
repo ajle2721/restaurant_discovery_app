@@ -1124,6 +1124,31 @@ function setupEventListeners() {
         feedbackForm.addEventListener('submit', handleFeedbackSubmit);
     }
 
+    const siteFeedbackBtn = document.getElementById('float-site-feedback');
+    if (siteFeedbackBtn) {
+        siteFeedbackBtn.addEventListener('click', openSiteFeedbackModal);
+    }
+
+    const closeSiteFeedbackBtn = document.getElementById('close-site-feedback-modal');
+    if (closeSiteFeedbackBtn) {
+        closeSiteFeedbackBtn.addEventListener('click', closeSiteFeedbackModal);
+    }
+
+    const cancelSiteFeedbackBtn = document.getElementById('btn-cancel-site-feedback');
+    if (cancelSiteFeedbackBtn) {
+        cancelSiteFeedbackBtn.addEventListener('click', closeSiteFeedbackModal);
+    }
+
+    const siteFeedbackOverlay = document.getElementById('site-feedback-modal-overlay');
+    if (siteFeedbackOverlay) {
+        siteFeedbackOverlay.addEventListener('click', closeSiteFeedbackModal);
+    }
+
+    const siteFeedbackForm = document.getElementById('site-feedback-form');
+    if (siteFeedbackForm) {
+        siteFeedbackForm.addEventListener('submit', handleSiteFeedbackSubmit);
+    }
+
     // Touch Swiping Gestures for Feedback Modal on Mobile
     const feedbackModal = document.getElementById('feedback-modal');
     const feedbackDragHandle = feedbackModal ? feedbackModal.querySelector('.drawer-drag-handle') : null;
@@ -4256,6 +4281,123 @@ function closeFeedbackModal() {
     // Restore scrolling only if detail view is NOT active
     if (state.view !== 'detail') {
         document.body.style.overflow = '';
+    }
+}
+
+function openSiteFeedbackModal() {
+    trackEvent('open_site_feedback_modal', {
+        current_view: state.view,
+        location_context: getLocationContext(),
+        has_filters: state.filters && state.filters.size > 0 ? 'yes' : 'no'
+    });
+
+    const modalOverlay = document.getElementById('site-feedback-modal-overlay');
+    const modal = document.getElementById('site-feedback-modal');
+    const form = document.getElementById('site-feedback-form');
+
+    if (form) form.reset();
+    if (modalOverlay) modalOverlay.classList.add('active');
+    if (modal) {
+        modal.classList.add('active');
+        modal.style.opacity = '1';
+        modal.style.visibility = 'visible';
+        modal.style.transform = window.matchMedia('(max-width: 600px)').matches
+            ? 'translateY(0)'
+            : 'translate(-50%, -50%) scale(1)';
+    }
+    document.body.style.overflow = 'hidden';
+}
+
+function closeSiteFeedbackModal() {
+    const modalOverlay = document.getElementById('site-feedback-modal-overlay');
+    const modal = document.getElementById('site-feedback-modal');
+
+    if (modalOverlay) modalOverlay.classList.remove('active');
+    if (modal) {
+        modal.classList.remove('active');
+        modal.style.opacity = '';
+        modal.style.visibility = '';
+        modal.style.transform = '';
+    }
+
+    if (state.view !== 'detail') {
+        document.body.style.overflow = '';
+    }
+}
+
+async function handleSiteFeedbackSubmit(e) {
+    e.preventDefault();
+
+    const form = e.currentTarget;
+    const submitBtn = document.getElementById('btn-submit-site-feedback');
+    const originalBtnText = submitBtn ? submitBtn.innerHTML : '送出回饋';
+    const ratingInput = form.querySelector('input[name="site-feedback-rating"]:checked');
+    const comment = document.getElementById('site-feedback-comment')?.value.trim() || '';
+    const honeypot = form.querySelector('.hidden-honeypot');
+
+    if (!ratingInput) {
+        alert('請先選擇 1-5 分的好用度評分。');
+        return;
+    }
+
+    if (honeypot && honeypot.checked) {
+        console.warn('Bot detected');
+        closeSiteFeedbackModal();
+        return;
+    }
+
+    const rating = ratingInput.value;
+
+    try {
+        if (submitBtn) {
+            submitBtn.disabled = true;
+            submitBtn.innerHTML = '送出中...';
+        }
+
+        const formData = new URLSearchParams();
+        formData.append('access_key', WEB3FORMS_ACCESS_KEY);
+        formData.append('name', '親子餐廳地圖 - 使用回饋');
+        formData.append('subject', `使用回饋：好用度 ${rating}/5`);
+        formData.append('feedback_type', 'site_usability');
+        formData.append('helpfulness_rating', rating);
+        formData.append('comment', comment);
+        formData.append('current_view', state.view || '');
+        formData.append('location_context', getLocationContext());
+        formData.append('active_filters', Array.from(state.filters || []).join(', '));
+        formData.append('shortlist_count', state.favorites ? String(state.favorites.size) : '0');
+        formData.append('page_url', window.location.href);
+
+        const response = await fetch('https://api.web3forms.com/submit', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/x-www-form-urlencoded',
+                'Accept': 'application/json'
+            },
+            body: formData.toString()
+        });
+
+        const result = await response.json();
+
+        if (response.ok && result.success) {
+            trackEvent('submit_site_feedback_form', {
+                helpfulness_rating: rating,
+                has_comment: comment ? 'yes' : 'no',
+                current_view: state.view,
+                location_context: getLocationContext()
+            });
+            showToast('謝謝你的回饋，會用來繼續改善這個工具。');
+            closeSiteFeedbackModal();
+        } else {
+            throw new Error(result.message || '送出失敗');
+        }
+    } catch (err) {
+        console.error('Error submitting site feedback:', err);
+        alert('送出失敗：' + err.message + '\n\n請稍後再試一次。');
+    } finally {
+        if (submitBtn) {
+            submitBtn.disabled = false;
+            submitBtn.innerHTML = originalBtnText;
+        }
     }
 }
 

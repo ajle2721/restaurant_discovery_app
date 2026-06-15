@@ -17,7 +17,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@500;600;700;800;900&family=M+PLUS+Rounded+1c:wght@700;800&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css?v=20260611160000">
+    <link rel="stylesheet" href="style.css?v=20260615104500">
     <link rel="manifest" href="manifest.json">
     <!-- Leaflet Map Library -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
@@ -227,6 +227,13 @@
         <span id="shortlist-count" class="badge">0</span>
     </button>
 
+    <button id="float-site-feedback" class="site-feedback-fab" type="button" aria-label="提供回饋">
+        <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+            <path d="M21 15a4 4 0 0 1-4 4H8l-5 3V7a4 4 0 0 1 4-4h10a4 4 0 0 1 4 4z"></path>
+        </svg>
+        <span>回饋</span>
+    </button>
+
     <!-- Shortlist Drawer Overlay -->
     <div id="shortlist-drawer-overlay" class="drawer-overlay"></div>
     <div id="shortlist-drawer" class="drawer">
@@ -285,6 +292,60 @@
             <button id="close-comparison-modal" class="close-btn" title="關閉放大檢視" aria-label="關閉放大檢視">&times;</button>
         </div>
         <div id="comparison-modal-body" class="comparison-modal-body"></div>
+    </div>
+
+    <!-- Site Feedback Modal -->
+    <div id="site-feedback-modal-overlay" class="modal-overlay"></div>
+    <div id="site-feedback-modal" class="modal site-feedback-modal" role="dialog" aria-modal="true" aria-labelledby="site-feedback-modal-title">
+        <div class="drawer-drag-handle"></div>
+        <button id="close-site-feedback-modal" class="modal-close-btn" title="關閉">&times;</button>
+        <div class="modal-header">
+            <h2 id="site-feedback-modal-title" class="modal-title">使用回饋</h2>
+            <p class="modal-subtitle">想知道這個工具有沒有真的幫上忙，謝謝你願意留下想法。</p>
+        </div>
+        <form id="site-feedback-form" class="modal-body">
+            <input type="checkbox" name="botcheck" class="hidden-honeypot" style="display: none;">
+
+            <div class="form-group">
+                <label class="form-label" id="site-feedback-rating-label">這個工具有幫助你找到適合帶小孩的餐廳嗎？</label>
+                <div class="rating-scale" role="radiogroup" aria-labelledby="site-feedback-rating-label">
+                    <label class="rating-option">
+                        <input type="radio" name="site-feedback-rating" value="1" required>
+                        <span>1</span>
+                    </label>
+                    <label class="rating-option">
+                        <input type="radio" name="site-feedback-rating" value="2">
+                        <span>2</span>
+                    </label>
+                    <label class="rating-option">
+                        <input type="radio" name="site-feedback-rating" value="3">
+                        <span>3</span>
+                    </label>
+                    <label class="rating-option">
+                        <input type="radio" name="site-feedback-rating" value="4">
+                        <span>4</span>
+                    </label>
+                    <label class="rating-option">
+                        <input type="radio" name="site-feedback-rating" value="5">
+                        <span>5</span>
+                    </label>
+                </div>
+                <div class="rating-scale-labels" aria-hidden="true">
+                    <span>完全沒幫助</span>
+                    <span>非常有幫助</span>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="form-label" for="site-feedback-comment">任何意見或建議</label>
+                <textarea id="site-feedback-comment" class="form-textarea" rows="4" placeholder="例如：哪裡好用、哪裡卡住、還希望看到什麼資訊..."></textarea>
+            </div>
+
+            <div class="form-actions">
+                <button type="button" id="btn-cancel-site-feedback" class="btn-cancel">取消</button>
+                <button type="submit" id="btn-submit-site-feedback" class="btn-submit">送出回饋</button>
+            </div>
+        </form>
     </div>
 
     <!-- Feedback Modal -->
@@ -366,7 +427,7 @@
     <!-- Data and App Logic -->
     <script src="locations.js"></script>
     <script src="ai_review/index.js?v=20260612122700"></script>
-    <script src="app.js?v=20260612164000"></script>
+    <script src="app.js?v=20260615104500"></script>
 </body>
 
 </html>
