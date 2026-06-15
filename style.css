@@ -3132,12 +3132,7 @@ body {
 
 @media (max-width: 600px) {
     .site-feedback-fab {
-        right: 1rem;
-        bottom: calc(4.85rem + env(safe-area-inset-bottom));
-        min-width: 5.15rem;
-        height: 2.55rem;
-        padding: 0 0.85rem;
-        font-size: 0.86rem;
+        display: none;
     }
 
     .modal {
