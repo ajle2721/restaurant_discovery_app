@@ -3671,6 +3671,9 @@ function cleanupHighlightSentence(sentence) {
         .replace(/，?適合帶(孩子|小孩|兒童).*$/g, '')
         .replace(/座位較(為)?緊湊/g, '')
         .replace(/^[，、。；;\s]+|[，、；;\s]+$/g, '')
+        .trim()
+        .replace(/，?(但|且|並|而|不過|而且|並且|但是)$/g, '')
+        .replace(/^[，、。；;\s]+|[，、；;\s]+$/g, '')
         .trim();
 }
 
