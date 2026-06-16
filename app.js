@@ -134,7 +134,8 @@ function recordRestaurantDetailView(res) {
 }
 
 function getViewedRestaurantCount() {
-    return state.viewedRestaurantIdsInSearch.size;
+    const viewedIds = state.viewedRestaurantIdsInSearch;
+    return viewedIds && typeof viewedIds.size === 'number' ? viewedIds.size : 0;
 }
 
 function trackSearchLocation(searchMethod, location) {
@@ -2558,11 +2559,15 @@ function renderDetailContent(restaurant) {
     if (gMapBtn) {
         gMapBtn.onclick = () => {
             try {
-                trackEvent('open_google_maps', {
+                const viewedRestaurantCount = getViewedRestaurantCount();
+                const googleMapsPayload = {
                     restaurant_name: restaurant.name,
-                    viewed_restaurant_count: getViewedRestaurantCount(),
-                    location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
-                });
+                    viewed_restaurant_count: viewedRestaurantCount,
+                    location_context: getLocationContext()
+                };
+                console.log('[GA4] open_google_maps viewed_restaurant_count:', viewedRestaurantCount);
+                console.log('[GA4] open_google_maps payload:', googleMapsPayload);
+                trackEvent('open_google_maps', googleMapsPayload);
             } catch (e) {}
         };
     }
