@@ -122,6 +122,17 @@ function getRestaurantEventParams(res, source) {
     };
 }
 
+function trackAiSummaryFeedbackVote(restaurant, isHelpful) {
+    trackEvent(isHelpful ? 'ai_summary_helpful_click' : 'ai_summary_unhelpful_click', {
+        restaurant_name: restaurant?.name || '',
+        restaurant_id: restaurant?.place_id || '',
+        recommendation_level: levelLabels[restaurant?.dynamicLevel || restaurant?.parent_friendly_level] || restaurant?.parent_friendly_level || '',
+        location_context: getLocationContext(),
+        feedback_vote: isHelpful ? 'helpful' : 'unhelpful',
+        has_ai_summary: Boolean(restaurant?.ai_summary)
+    });
+}
+
 function resetViewedRestaurantCount() {
     state.viewedRestaurantIdsInSearch = new Set();
 }
@@ -2589,6 +2600,7 @@ function renderDetailContent(restaurant) {
 
     if (btnHelpful) {
         btnHelpful.onclick = () => {
+            trackAiSummaryFeedbackVote(restaurant, true);
             feedbackOptions.classList.add('hidden');
             feedbackThankYou.classList.remove('hidden');
             submitAiFeedback(true, [], '', '', restaurant);
@@ -2597,6 +2609,7 @@ function renderDetailContent(restaurant) {
 
     if (btnUnhelpful) {
         btnUnhelpful.onclick = () => {
+            trackAiSummaryFeedbackVote(restaurant, false);
             feedbackOptions.classList.add('hidden');
             feedbackFormContainer.classList.remove('hidden');
         };
