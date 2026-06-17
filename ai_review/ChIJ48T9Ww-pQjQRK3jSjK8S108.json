@@ -1,0 +1,54 @@
+{
+    " child_seat available": {
+        "result": "Yes",
+        "evidence": "有提供兒童椅",
+        "confidence": 1.0
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "空間寬敞",
+        "confidence": 1.0
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "不怕吵",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Yes",
+        "evidence": "有提供兒童餐具",
+        "confidence": 1.0
+    },
+    "has_diaper_table": {
+        "result": "Yes",
+        "evidence": "有提供尿布台",
+        "confidence": 1.0
+    },
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "有兒童椅、空間寬敞、不怕小孩吵、有兒童餐具、有尿布台",
+    "generated_signals": [
+        "有提供兒童椅",
+        "空間寬敞",
+        "不怕吵",
+        "有提供兒童餐具",
+        "有提供尿布台"
+    ],
+    "generated_summary": "餐廳主打現點現做，融合港點與私房台菜，並提供合菜及生猛海鮮。餐廳營業至凌晨，是極具人氣的深夜食堂。店內裝潢結合現代歐風與懷舊復古，環境寬敞且不怕吵，貼心備有兒童座椅、專用餐具與尿布台，適合家庭多人聚餐。",
+    "card_summary": ""
+}
