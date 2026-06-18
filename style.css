@@ -3187,13 +3187,6 @@ body {
 
 /* --- Mobile UX Optimizations --- */
 
-/* Compact Header when search is active */
-.search-active .main-title,
-.search-active .subtitle,
-.search-active .header-stats {
-    display: none !important;
-}
-
 .search-active .main-header {
     padding: calc(1rem + var(--safe-area-inset-top)) 1.5rem 1rem;
     border-radius: 0 0 1.5rem 1.5rem;

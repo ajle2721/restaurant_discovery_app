@@ -1675,28 +1675,10 @@ function selectLocation(loc, source = 'other', pushState = true) {
             renderResults();
             updateUrl(pushState);
             
-            // Only scroll to results on manual user search, not during back/forward URL synchronization
-            if (source !== 'url_sync') {
-                const searchCard = document.querySelector('.main-search-card');
-                if (searchCard) {
-                    safeScrollIntoView(searchCard);
-                } else {
-                    safeScrollIntoView(searchResultsView);
-                }
-            }
         }, 120);
     } else {
         renderResults();
         updateUrl(pushState);
-        
-        if (source !== 'url_sync') {
-            const searchCard = document.querySelector('.main-search-card');
-            if (searchCard) {
-                safeScrollIntoView(searchCard);
-            } else {
-                safeScrollIntoView(searchResultsView);
-            }
-        }
     }
     updateQuickLinksUI();
 }
