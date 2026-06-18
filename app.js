@@ -3605,7 +3605,7 @@ function getFamilyCautions(attrs) {
     if (attrs.has_tableware === 'no') cautions.push('未提供兒童餐具');
     if (attrs.has_diaper_table === 'no') cautions.push('無尿布台');
     if (attrs.has_play_area === 'no') cautions.push('無遊樂區');
-    if (attrs.spacious_seating === 'no') cautions.push('座位較為緊湊');
+    if (attrs.spacious_seating === 'no') cautions.push('座位較為緊密');
     if (attrs.kid_noise_tolerant === 'no') cautions.push('環境偏安靜');
     if (attrs.has_private_room === 'no') cautions.push('無包廂或包場資訊');
     return cautions;
@@ -3617,7 +3617,7 @@ function facilityIsAlreadyMentioned(text, key) {
         .filter(sentence => !/未提及|較少提及|尚未明確提及|沒有提及|並未提及/.test(sentence))
         .join('');
     const patterns = {
-        high_chair_available: /兒童(座|餐)?椅|高腳椅|寶寶椅/,
+        high_chair_available: /兒童(座|餐|專用)?椅|高腳椅|寶寶椅/,
         has_tableware: /兒童餐具|專用(碗盤|餐具)|碗盤餐具/,
         kids_menu: /兒童餐|兒童菜單|孩子.*餐點/,
         has_diaper_table: /尿布台|哺乳室|親子廁所/,
@@ -3687,7 +3687,7 @@ function cleanupHighlightSentence(sentence) {
         .replace(/舒適的獨立包廂空間/g, '獨立包廂空間')
         .replace(/，?(非常|特別|極其|特別|十分|相當)?適合家庭聚餐/g, '')
         .replace(/，?(常|非常|特別|極其|特別|十分|相當)?適合帶(孩子|小孩|兒童).*$/g, '')
-        .replace(/座位較(為)?緊湊/g, '')
+        .replace(/座位較(為)?緊密/g, '')
         .replace(/^[，、。；;\s]+|[，、；;\s]+$/g, '')
         .trim()
         .replace(/，?(但|且|並|而|不過|而且|並且|但是)$/g, '')
