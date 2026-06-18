@@ -1,8 +1,9 @@
 {
     " child_seat available": {
-        "result": "Yes",
-        "evidence": "依據連鎖品牌【Dreamers Coffee Roasters】統一設定",
-        "confidence": 1
+        "result": "Unknown",
+        "evidence": "使用者查證：尚未確認品牌分店提供兒童椅",
+        "confidence": 0.4,
+        "override_existing": true
     },
     "Spacious seating": {
         "result": "Unknown",
@@ -10,8 +11,8 @@
         "confidence": 0.4
     },
     "Kids menu available": {
-        "result": "Yes",
-        "evidence": "依據連鎖品牌【Dreamers Coffee Roasters】統一設定",
+        "result": "No",
+        "evidence": "使用者查證：Dreamers Coffee Roasters 未提供兒童餐",
         "confidence": 1
     },
     "kid_noise_tolerant": {
@@ -30,9 +31,10 @@
         "confidence": 0.4
     },
     "has_tableware": {
-        "result": "Yes",
-        "evidence": "依據連鎖品牌【Dreamers Coffee Roasters】統一設定",
-        "confidence": 0.9
+        "result": "Unknown",
+        "evidence": "使用者查證：尚未確認品牌分店提供兒童餐具",
+        "confidence": 0.4,
+        "override_existing": true
     },
     "has_diaper_table": {
         "result": "Unknown",
@@ -43,9 +45,9 @@
     "parent_friendly_level": "高",
     "reason": "人工校正與AI綜合評估",
     "generated_signals": [
-        "依據連鎖品牌【Dreamers Coffee Roasters】統一設定",
+        "使用者查證：尚未確認品牌分店提供兒童椅或兒童餐具，且未提供兒童餐",
         "Google 摰?餉??拙??咱?券?"
     ],
-    "generated_summary": "這家餐廳提供兒童座椅、兒童餐具、兒童餐點、環境氣氛適合帶小孩。目前評論中較少提及其他親子用餐的具體細節，建議前往前可先向店家確認。",
-    "card_summary": ""
+    "generated_summary": "Dreamers Coffee Roasters 未提供兒童餐；目前尚未確認是否提供兒童椅或兒童餐具。建議有相關需求的家長前往前先向店家確認。",
+    "card_summary": "Dreamers Coffee Roasters 未提供兒童餐；目前尚未確認是否提供兒童椅或兒童餐具。建議有相關需求的家長前往前先向店家確認。"
 }

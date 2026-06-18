@@ -1,8 +1,9 @@
 ﻿{
     " child_seat available":  {
-                                  "result":  "Yes",
-                                  "evidence":  "使用者回報與人工校正：所有默爾分店均提供兒童餐椅",
-                                  "confidence":  1
+                                  "result":  "Unknown",
+                                  "evidence":  "使用者查證：尚未確認品牌分店提供兒童椅",
+                                  "confidence":  0.4,
+                                  "override_existing":  true
                               },
     "Spacious seating":  {
                              "result":  "Unknown",
@@ -10,8 +11,8 @@
                              "confidence":  0.4
                          },
     "Kids menu available":  {
-                                "result":  "Yes",
-                                "evidence":  "使用者回報與人工校正：所有默爾分店均提供兒童餐點",
+                                "result":  "No",
+                                "evidence":  "使用者查證：DREAMERS COFFEE ROASTERS 未提供兒童餐",
                                 "confidence":  1
                             },
     "kid_noise_tolerant":  {
@@ -30,22 +31,22 @@
                              "confidence":  0.4
                          },
     "has_tableware":  {
-                          "result":  "Yes",
-                          "evidence":  "使用者回報與人工校正：所有Lazy Pasta分店均貼心提供兒童餐具",
-                          "confidence":  1
+                          "result":  "Unknown",
+                          "evidence":  "使用者查證：尚未確認品牌分店提供兒童餐具",
+                          "confidence":  0.4,
+                          "override_existing":  true
                       },
     "has_diaper_table":  {
                              "result":  "Unknown",
                              "evidence":  null,
                              "confidence":  0.4
                          },
-    "generated_summary":  "根據評論分析，手作麵包與特色輕食風味獲得顧客好評。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點。",
-    "card_summary":  "",
+    "generated_summary":  "根據目前整理資料，手作麵包與特色輕食風味獲得顧客好評。此品牌未提供兒童餐；目前尚未確認是否提供兒童椅或兒童餐具。",
+    "card_summary":  "根據目前整理資料，手作麵包與特色輕食風味獲得顧客好評。此品牌未提供兒童餐；目前尚未確認是否提供兒童椅或兒童餐具。",
     "generated_signals":  [
-                              "使用者回報與人工校正：所有默爾分店均提供兒童餐椅",
-                              "使用者回報與人工校正：所有默爾分店均提供兒童餐點",
-                              "系統自動識別：同時提供兒童椅與兒童餐具，通常為親子友善且不怕吵之用餐環境",
-                              "使用者回報與人工校正：所有默爾分店均貼心提供兒童餐具"
+                              "使用者查證：尚未確認品牌分店提供兒童椅",
+                              "使用者查證：DREAMERS COFFEE ROASTERS 未提供兒童餐",
+                              "使用者查證：尚未確認品牌分店提供兒童餐具"
                           ],
     "parent_friendly_score":  5,
     "parent_friendly_level":  "高",

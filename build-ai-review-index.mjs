@@ -191,33 +191,42 @@ function getAiAttributes(aiReview, existingAttributes = {}) {
 
   return {
     ...existingAttributes,
-    high_chair_available: keepExistingWhenUnknown(
+    high_chair_available: keepExistingUnlessOverrideUnknown(
       highChair,
-      existingAttributes.high_chair_available
+      existingAttributes.high_chair_available,
+      aiReview[" child_seat available"] ||
+        aiReview["child_seat available"] ||
+        aiReview["High chair available"]
     ),
-    kids_menu: keepExistingWhenUnknown(
+    kids_menu: keepExistingUnlessOverrideUnknown(
       normalizeResult(aiReview["Kids menu available"]?.result),
-      existingAttributes.kids_menu
+      existingAttributes.kids_menu,
+      aiReview["Kids menu available"]
     ),
-    spacious_seating: keepExistingWhenUnknown(
+    spacious_seating: keepExistingUnlessOverrideUnknown(
       normalizeResult(aiReview["Spacious seating"]?.result),
-      existingAttributes.spacious_seating
+      existingAttributes.spacious_seating,
+      aiReview["Spacious seating"]
     ),
-    kid_noise_tolerant: keepExistingWhenUnknown(
+    kid_noise_tolerant: keepExistingUnlessOverrideUnknown(
       normalizeResult(aiReview.kid_noise_tolerant?.result),
-      existingAttributes.kid_noise_tolerant
+      existingAttributes.kid_noise_tolerant,
+      aiReview.kid_noise_tolerant
     ),
-    has_play_area: keepExistingWhenUnknown(
+    has_play_area: keepExistingUnlessOverrideUnknown(
       normalizeResult(aiReview.has_play_area?.result),
-      existingAttributes.has_play_area
+      existingAttributes.has_play_area,
+      aiReview.has_play_area
     ),
-    has_private_room: keepExistingWhenUnknown(
+    has_private_room: keepExistingUnlessOverrideUnknown(
       getPrivateRoomValue(aiReview),
-      existingAttributes.has_private_room
+      existingAttributes.has_private_room,
+      aiReview.has_private_room
     ),
-    has_tableware: keepExistingWhenUnknown(
+    has_tableware: keepExistingUnlessOverrideUnknown(
       tableware,
-      existingAttributes.has_tableware
+      existingAttributes.has_tableware,
+      aiReview.has_tableware
     ),
     has_diaper_table: keepExistingUnlessOverrideUnknown(
       normalizeResult(aiReview.has_diaper_table?.result),

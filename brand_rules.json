@@ -4334,13 +4334,14 @@
     },
     "DREAMERS COFFEE ROASTERS": {
         " child_seat available": {
-            "result": "Yes",
-            "evidence": "依據連鎖品牌【DREAMERS COFFEE ROASTERS】統一設定",
-            "confidence": 1
+            "result": "Unknown",
+            "evidence": "使用者查證：尚未確認品牌分店提供兒童椅",
+            "confidence": 0.4,
+            "override_existing": true
         },
         "Kids menu available": {
-            "result": "Yes",
-            "evidence": "依據連鎖品牌【DREAMERS COFFEE ROASTERS】統一設定",
+            "result": "No",
+            "evidence": "使用者查證：品牌分店未提供兒童餐",
             "confidence": 1
         },
         "kid_noise_tolerant": {
@@ -4349,9 +4350,10 @@
             "confidence": 1
         },
         "has_tableware": {
-            "result": "Yes",
-            "evidence": "依據連鎖品牌【DREAMERS COFFEE ROASTERS】統一設定",
-            "confidence": 1
+            "result": "Unknown",
+            "evidence": "使用者查證：尚未確認品牌分店提供兒童餐具",
+            "confidence": 0.4,
+            "override_existing": true
         }
     },
     "東方樓": {
@@ -4513,13 +4515,14 @@
     },
     "Dreamers Coffee Roasters": {
         " child_seat available": {
-            "result": "Yes",
-            "evidence": "依據連鎖品牌【Dreamers Coffee Roasters】統一設定",
-            "confidence": 1
+            "result": "Unknown",
+            "evidence": "使用者查證：尚未確認品牌分店提供兒童椅",
+            "confidence": 0.4,
+            "override_existing": true
         },
         "Kids menu available": {
-            "result": "Yes",
-            "evidence": "依據連鎖品牌【Dreamers Coffee Roasters】統一設定",
+            "result": "No",
+            "evidence": "使用者查證：品牌分店未提供兒童餐",
             "confidence": 1
         },
         "kid_noise_tolerant": {
@@ -4528,9 +4531,10 @@
             "confidence": 0.9
         },
         "has_tableware": {
-            "result": "Yes",
-            "evidence": "依據連鎖品牌【Dreamers Coffee Roasters】統一設定",
-            "confidence": 0.9
+            "result": "Unknown",
+            "evidence": "使用者查證：尚未確認品牌分店提供兒童餐具",
+            "confidence": 0.4,
+            "override_existing": true
         }
     },
     "北投奇岩一號": {

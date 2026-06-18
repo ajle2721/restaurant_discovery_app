@@ -2480,7 +2480,7 @@ function renderDetailContent(restaurant) {
         <div id="estimated-tag-note" class="estimated-tag-note hidden" aria-live="polite">${ESTIMATED_ATTRIBUTE_TOOLTIP}</div>
 
         <div class="ai-summary" style="margin-bottom: 1.5rem;">
-            <div class="ai-summary-title">親子用餐摘要</div>
+            <div class="ai-summary-title">AI親子用餐摘要</div>
             <div class="ai-summary-text">${(restaurant.ai_summary || '目前尚無摘要資訊。').replace(/\n/g, '<br>')}</div>
         </div>
         
@@ -3582,7 +3582,6 @@ function getPositiveFamilyFacilities(attrs) {
 
 function getFamilyCautions(attrs) {
     const cautions = [];
-    if (attrs.kids_menu === 'no') cautions.push('未提供兒童餐');
     if (attrs.high_chair_available === 'no') cautions.push('未提供兒童椅');
     if (attrs.has_tableware === 'no') cautions.push('未提供兒童餐具');
     if (attrs.has_diaper_table === 'no') cautions.push('無尿布台');

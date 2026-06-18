@@ -1,53 +1,53 @@
-﻿{
-    " child_seat available":  {
-                                  "evidence":  "Google 摰?餉??拙??咱?券?",
-                                  "result":  "Yes",
-                                  "confidence":  1
-                              },
-    "Spacious seating":  {
-                             "result":  "No",
-                             "evidence":  "座位還蠻多，但是有點擠。",
-                             "confidence":  0.9
-                         },
-    "Kids menu available":  {
-                                "result":  "Yes",
-                                "evidence":  "Menu for children (官方標記：提供兒童餐)",
-                                "confidence":  1.0
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "Good for children (官方標記：適合兒童)",
-                               "confidence":  1.0
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "evidence":  "Google 摰?餉??拙??咱?券?",
-                          "result":  "Yes",
-                          "confidence":  1
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "高",
-    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals":  [
-                              "Good for children (官方標記：適合兒童)",
-                              "Menu for children (官方標記：提供兒童餐)",
-                              "座位還蠻多，但是有點擠。",
-                              "Google 摰?餉??拙??咱?券?"
-                          ],
-    "generated_summary":  "店內店經官方標記為適合兒童且提供兒童餐，對親子客群友善。不過根據評論，店內座位雖然數量不少，但空間較為擁擠，建議攜帶推車的家長留意。其餘如兒童座椅、餐具或尿布台等設施，評論中並未提及。",
-    "card_summary":  ""
+{
+    " child_seat available": {
+        "result": "Yes",
+        "evidence": "確認提供兒童座椅",
+        "confidence": 1.0
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "座位還蠻多，但是空間較為緊密/狹小。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": "確認提供兒童餐點",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "確認適合兒童",
+        "confidence": 1.0
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Yes",
+        "evidence": "確認提供兒童餐具",
+        "confidence": 1.0
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 2,
+    "parent_friendly_level": "高",
+    "reason": "確認提供兒童椅、兒童餐具與兒童餐",
+    "generated_signals": [
+        "確認提供兒童座椅",
+        "確認提供兒童餐點",
+        "確認提供兒童餐具",
+        "座位還蠻多，但是空間較為緊密/狹小。"
+    ],
+    "generated_summary": "此店經公開地點資訊標示為適合兒童，並確認提供兒童椅、兒童餐具與兒童餐，對親子客群友善。不過根據目前整理資料，店內座位雖然數量不少，但空間較為緊密/狹小，建議攜帶推車的家長留意。",
+    "card_summary": ""
 }
