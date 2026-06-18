@@ -1,51 +1,51 @@
-{
-    " child_seat available": {
-        "result": "Yes",
-        "evidence": "門口還有臺灣尚勇春聯😍來吃來吃～有兒童餐椅唷～",
-        "confidence": 0.8
-    },
-    "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Kids menu available": {
-        "result": "No",
-        "evidence": "Google 官方登記無提供兒童餐點",
-        "confidence": 1
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "Google 官方登記適合兒童用餐",
-        "confidence": 1
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "generated_summary": "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。餐廳官方標示為適合兒童的友善場所，並貼心備有兒童座椅，預期會提供兒童餐具，讓家庭顧客能安心享受美食。",
-    "card_summary": "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。餐廳官方標示為適合兒童的友善場所，並貼心備有兒童座椅，預期會提供兒童餐具，讓家庭顧客能安心享受美食。",
-    "generated_signals": [
-        "門口還有臺灣尚勇春聯😍來吃來吃～有兒童餐椅唷～",
-        "Google 官方登記適合兒童用餐"
-    ],
-    "parent_friendly_score": 3,
-    "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Yes",
+                                  "evidence":  "門口還有臺灣尚勇春聯😍來吃來吃～有兒童餐椅唷～",
+                                  "confidence":  0.8
+                              },
+    "Spacious seating":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "Kids menu available":  {
+                                "result":  "No",
+                                "evidence":  "Google 官方登記無提供兒童餐點",
+                                "confidence":  1
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "Google 官方登記適合兒童用餐",
+                               "confidence":  1
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，獲得好評。餐廳官方標示為適合兒童的友善場所，並貼心備有兒童座椅，預期會提供兒童餐具，讓家庭顧客能安心享受美食。",
+    "card_summary":  "根據評論分析，店內餐點烹調用心、口味良好，獲得好評。餐廳官方標示為適合兒童的友善場所，並貼心備有兒童座椅，預期會提供兒童餐具，讓家庭顧客能安心享受美食。",
+    "generated_signals":  [
+                              "門口還有臺灣尚勇春聯😍來吃來吃～有兒童餐椅唷～",
+                              "Google 官方登記適合兒童用餐"
+                          ],
+    "parent_friendly_score":  3,
+    "parent_friendly_level":  "中",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

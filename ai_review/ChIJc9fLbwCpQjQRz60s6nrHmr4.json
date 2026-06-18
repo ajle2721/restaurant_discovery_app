@@ -1,54 +1,54 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "裡面十分的寬敞舒適，甜點也好吃，比比推一波…",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "No",
-        "evidence": "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)",
-        "confidence": 1.0
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "高挑大空間下，大家說話很吵雜，假日人多。",
-        "confidence": 0.9
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "中",
-    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals": [
-        "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)",
-        "裡面十分的寬敞舒適",
-        "高挑大空間下，大家說話很吵雜",
-        "裡面十分的寬敞舒適，甜點也好吃，比比推一波…",
-        "高挑大空間下，大家說話很吵雜，假日人多。"
-    ],
-    "generated_summary": "Chis coffee 時拾咖啡擁有挑高且寬敞舒適的用餐空間，環境氛圍較為熱鬧吵雜。店家明確標示不提供兒童餐，且目前評論中未提及兒童座椅、餐具或尿布台等親子友善設施，建議攜帶幼童前往時需自行準備相關用品。",
-    "card_summary": ""
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "裡面十分的寬敞舒適，甜點也好吃，比比推一波…",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "No",
+                                "evidence":  "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)",
+                                "confidence":  1.0
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "高挑大空間下，大家說話很吵雜，假日人多。",
+                               "confidence":  0.9
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "中",
+    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals":  [
+                              "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)",
+                              "裡面十分的寬敞舒適",
+                              "高挑大空間下，大家說話很吵雜",
+                              "裡面十分的寬敞舒適，甜點也好吃，比比推一波…",
+                              "高挑大空間下，大家說話很吵雜，假日人多。"
+                          ],
+    "generated_summary":  "店內擁有挑高且寬敞舒適的用餐空間，環境氛圍較為熱鬧吵雜。店家明確標示不提供兒童餐，且目前評論中未提及兒童座椅、餐具或尿布台等親子友善設施，建議攜帶幼童前往時需自行準備相關用品。",
+    "card_summary":  ""
 }

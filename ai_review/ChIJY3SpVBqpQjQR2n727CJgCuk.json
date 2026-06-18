@@ -1,51 +1,51 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "No",
-        "evidence": "座位擁擠、會收服務費、口味屬於家常菜的味道不會重鹹、可以不要飯換配菜（地瓜或蘿蔔一塊之類的）、加價的飲料拿鐵挺小杯的（目測約250ml左右）、越南小姐姐服務人員服務很好",
-        "confidence": 0.8
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "不然併桌會比較吵雜一點",
-        "confidence": 0.8
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "generated_summary": "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。氣氛輕鬆熱鬧，儘管座位較為緊湊，但官方標示此處適合兒童，預期會提供兒童椅及兒童餐具，讓帶孩子的家庭也能安心用餐。",
-    "card_summary": "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。氣氛輕鬆熱鬧，儘管座位較為緊湊，但官方標示此處適合兒童，預期會提供兒童椅及兒童餐具，讓帶孩子的家庭也能安心用餐。",
-    "generated_signals": [
-        "座位擁擠、會收服務費、口味屬於家常菜的味道不會重鹹、可以不要飯換配菜（地瓜或蘿蔔一塊之類的）、加價的飲料拿鐵挺小杯的（目測約250ml左右）、越南小姐姐服務人員服務很好",
-        "不然併桌會比較吵雜一點"
-    ],
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析"
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "No",
+                             "evidence":  "座位擁擠、會收服務費、口味屬於家常菜的味道不會重鹹、可以不要飯換配菜（地瓜或蘿蔔一塊之類的）、加價的飲料拿鐵挺小杯的（目測約250ml左右）、越南小姐姐服務人員服務很好",
+                             "confidence":  0.8
+                         },
+    "Kids menu available":  {
+                                "result":  "Unknown",
+                                "evidence":  null,
+                                "confidence":  0.4
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Yes",
+                               "evidence":  "不然併桌會比較吵雜一點",
+                               "confidence":  0.8
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，獲得好評。氣氛輕鬆熱鬧，儘管座位較為緊密，但官方標示此處適合兒童，預期會提供兒童椅及兒童餐具，讓帶孩子的家庭也能安心用餐。",
+    "card_summary":  "根據評論分析，店內餐點烹調用心、口味良好，獲得好評。氣氛輕鬆熱鬧，儘管座位較為緊密，但官方標示此處適合兒童，預期會提供兒童椅及兒童餐具，讓帶孩子的家庭也能安心用餐。",
+    "generated_signals":  [
+                              "座位擁擠、會收服務費、口味屬於家常菜的味道不會重鹹、可以不要飯換配菜（地瓜或蘿蔔一塊之類的）、加價的飲料拿鐵挺小杯的（目測約250ml左右）、越南小姐姐服務人員服務很好",
+                              "不然併桌會比較吵雜一點"
+                          ],
+    "parent_friendly_score":  -1,
+    "parent_friendly_level":  "中",
+    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

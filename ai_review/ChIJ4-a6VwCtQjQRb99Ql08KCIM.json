@@ -1,4 +1,4 @@
-{
+﻿{
     " child_seat available":  {
                                   "result":  "Yes",
                                   "evidence":  "系統自動識別：店內提供兒童座椅",
@@ -39,7 +39,7 @@
                              "evidence":  null,
                              "confidence":  0.4
                          },
-    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。店內除了貼心提供兒童座椅與專用餐具外，還備有舒適的小包廂，為攜帶小孩與寵物的家庭提供更為安心且獨立的用餐空間。",
+    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，獲得好評。店內除了貼心提供兒童座椅與專用餐具外，還備有舒適的小包廂。",
     "card_summary":  "",
     "generated_signals":  [
                               "系統自動識別：店內提供兒童座椅",

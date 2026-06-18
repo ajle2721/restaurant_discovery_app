@@ -1,51 +1,51 @@
-{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "店內其實比想像中大，也有冷氣環境算還行。",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "No",
-        "evidence": "官方標記：不提供兒童餐",
-        "confidence": 1.0
-    },
-    "kid_noise_tolerant": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals": [
-        "店內其實比想像中大，也有冷氣環境算還行。",
-        "官方標記：不提供兒童餐"
-    ],
-    "generated_summary": "楊家小館排骨麵店內空間比外觀看起來寬敞，但官方標記明確表示不提供兒童餐。目前評論中未提及兒童座椅、兒童餐具、尿布台或遊戲區等親子友善設施，且部分評論指出店內環境衛生與油煙問題較為明顯，建議前往前可先向店家確認是否適合攜帶幼童。",
-    "card_summary": ""
+﻿{
+    " child_seat available":  {
+                                  "result":  "Unknown",
+                                  "evidence":  null,
+                                  "confidence":  0.4
+                              },
+    "Spacious seating":  {
+                             "result":  "Yes",
+                             "evidence":  "店內其實比想像中大，也有冷氣環境算還行。",
+                             "confidence":  0.9
+                         },
+    "Kids menu available":  {
+                                "result":  "No",
+                                "evidence":  "官方標記：不提供兒童餐",
+                                "confidence":  1.0
+                            },
+    "kid_noise_tolerant":  {
+                               "result":  "Unknown",
+                               "evidence":  null,
+                               "confidence":  0.4
+                           },
+    "has_play_area":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_private_room":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "has_tableware":  {
+                          "result":  "Unknown",
+                          "evidence":  null,
+                          "confidence":  0.4
+                      },
+    "has_diaper_table":  {
+                             "result":  "Unknown",
+                             "evidence":  null,
+                             "confidence":  0.4
+                         },
+    "parent_friendly_score":  1,
+    "parent_friendly_level":  "中",
+    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
+    "generated_signals":  [
+                              "店內其實比想像中大，也有冷氣環境算還行。",
+                              "官方標記：不提供兒童餐"
+                          ],
+    "generated_summary":  "店內店內空間比外觀看起來寬敞，但官方標記明確表示不提供兒童餐。目前評論中未提及兒童座椅、兒童餐具、尿布台或遊戲區等親子友善設施，且部分評論指出店內環境衛生與油煙問題較為明顯，建議前往前可先向店家確認是否適合攜帶幼童。",
+    "card_summary":  ""
 }

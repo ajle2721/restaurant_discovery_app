@@ -3685,8 +3685,8 @@ function cleanupHighlightSentence(sentence) {
         .replace(/環境氣氛適合兒童/g, '氣氛對孩子較友善')
         .replace(/設有包廂/g, '有包廂')
         .replace(/舒適的獨立包廂空間/g, '獨立包廂空間')
-        .replace(/，?適合家庭聚餐/g, '')
-        .replace(/，?適合帶(孩子|小孩|兒童).*$/g, '')
+        .replace(/，?(非常|特別|極其|特別|十分|相當)?適合家庭聚餐/g, '')
+        .replace(/，?(常|非常|特別|極其|特別|十分|相當)?適合帶(孩子|小孩|兒童).*$/g, '')
         .replace(/座位較(為)?緊湊/g, '')
         .replace(/^[，、。；;\s]+|[，、；;\s]+$/g, '')
         .trim()
@@ -3707,8 +3707,8 @@ function extractDistinctiveSummaryParts(summary, restaurant, maxParts = 2) {
         if (/Google|Maps|評論|公開地點資訊|店家資訊|目前資料/.test(sentence)) return;
         if (/僅供參考|系統推估|目前尚未取得明確設備資訊/.test(sentence)) return;
         if (/未提及|較少提及|尚未明確提及|資訊較有限|無相關親子設施資訊|建議.*(確認|考量|留意)/.test(sentence)) return;
-        if (/座位較(為)?緊湊.*適合帶/.test(sentence)) {
-            sentence = sentence.replace(/座位較(為)?緊湊，?適合帶(孩子|小孩|兒童).*$/, '');
+        if (/座位較(為)?緊密.*適合帶/.test(sentence)) {
+            sentence = sentence.replace(/座位較(為)?緊密，?適合帶(孩子|小孩|兒童).*$/, '');
         }
         if (/親子友善|適合兒童|適合帶/.test(sentence) && !isSpecificRestaurantHighlight(sentence) && !hasConcreteFamilyInfo(sentence)) return;
 
@@ -3763,9 +3763,10 @@ function compactSummaryText(summary, restaurant, options = {}) {
     }
 
     return compact
-        .replace(/座位較為緊湊，?適合帶(孩子|小孩|兒童).*?。/g, '座位較為緊湊。')
-        .replace(/座位較緊湊，?適合帶(孩子|小孩|兒童).*?。/g, '座位較為緊湊。')
+        .replace(/座位較為緊密，?適合帶(孩子|小孩|兒童).*?。/g, '座位較為緊密。')
+        .replace(/座位較緊密，?適合帶(孩子|小孩|兒童).*?。/g, '座位較為緊密。')
         .replace(/Google|Maps|評論/g, '')
+        .replace(/^(不過|但是|然而|此外|另外|而且|因此|並|且|但)[，\s]*/, '')
         .trim();
 }
 
