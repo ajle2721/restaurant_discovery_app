@@ -2339,6 +2339,53 @@ function setupEstimatedTagToggles(root) {
     });
 }
 
+function setupAiSummaryTooltip(root) {
+    const button = root.querySelector('#ai-summary-info-btn');
+    const tooltip = root.querySelector('#ai-summary-tooltip');
+    if (!button || !tooltip) return;
+
+    let pinnedOpen = false;
+
+    const setOpen = (isOpen) => {
+        tooltip.hidden = !isOpen;
+        tooltip.classList.toggle('active', isOpen);
+        button.setAttribute('aria-expanded', String(isOpen));
+    };
+
+    button.addEventListener('click', (e) => {
+        e.preventDefault();
+        e.stopPropagation();
+        pinnedOpen = tooltip.hidden;
+        setOpen(pinnedOpen);
+    });
+
+    button.addEventListener('mouseenter', () => {
+        if (!pinnedOpen) setOpen(true);
+    });
+
+    button.addEventListener('mouseleave', () => {
+        if (!pinnedOpen) setOpen(false);
+    });
+
+    button.addEventListener('focus', () => setOpen(true));
+    button.addEventListener('blur', () => {
+        if (!pinnedOpen) setOpen(false);
+    });
+
+    button.addEventListener('keydown', (e) => {
+        if (e.key !== 'Escape') return;
+        pinnedOpen = false;
+        setOpen(false);
+        button.blur();
+    });
+
+    root.addEventListener('click', (e) => {
+        if (tooltip.hidden || button.contains(e.target) || tooltip.contains(e.target)) return;
+        pinnedOpen = false;
+        setOpen(false);
+    });
+}
+
 function renderDetailContent(restaurant) {
     let dist = undefined;
     let originLabel = '';
@@ -2480,7 +2527,13 @@ function renderDetailContent(restaurant) {
         <div id="estimated-tag-note" class="estimated-tag-note hidden" aria-live="polite">${ESTIMATED_ATTRIBUTE_TOOLTIP}</div>
 
         <div class="ai-summary" style="margin-bottom: 1.5rem;">
-            <div class="ai-summary-title">AI親子用餐摘要</div>
+            <div class="ai-summary-header">
+                <div class="ai-summary-title">
+                    AI親子用餐摘要
+                    <button class="ai-summary-info-btn" id="ai-summary-info-btn" type="button" aria-label="查看摘要來源說明" aria-expanded="false" aria-controls="ai-summary-tooltip">i</button>
+                </div>
+            </div>
+            <div class="ai-summary-tooltip" id="ai-summary-tooltip" role="tooltip" hidden>AI 整理公開資訊後產生，部分內容經人工或使用者回饋校正，僅供參考。</div>
             <div class="ai-summary-text">${(restaurant.ai_summary || '目前尚無摘要資訊。').replace(/\n/g, '<br>')}</div>
         </div>
         
@@ -2538,6 +2591,7 @@ function renderDetailContent(restaurant) {
     `;
 
     setupEstimatedTagToggles(detailContent);
+    setupAiSummaryTooltip(detailContent);
 
     const detailFavBtn = document.getElementById('btn-detail-fav');
     if (detailFavBtn) {
@@ -3709,7 +3763,10 @@ function compactSummaryText(summary, restaurant, options = {}) {
     const attrs = restaurant?.attributes || {};
     const maxChars = options.maxChars || 160;
     const source = getSummarySourceText(summary, restaurant);
-    const cautions = getFamilyCautions(attrs);
+    let cautions = getFamilyCautions(attrs);
+    if (/座位(配置)?較(為)?緊密/.test(source)) {
+        cautions = cautions.filter(caution => caution !== '座位較為緊密');
+    }
     const distinctiveParts = extractDistinctiveSummaryParts(summary, restaurant, 4);
     const highlightText = distinctiveParts.join('。');
     const unmentionedFacilities = getUnmentionedFamilyFacilities(attrs, highlightText);

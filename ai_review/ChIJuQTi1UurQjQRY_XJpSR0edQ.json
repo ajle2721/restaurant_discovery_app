@@ -1,51 +1,51 @@
-﻿{
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "No",
-        "evidence": "無意間經過的早午餐店 店內座位算多不過稍微擁擠一點",
-        "confidence": 0.8
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "一進來就有感受到滿滿親子友善～^_^小孩有圖畫工具",
-        "confidence": 0.8
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "generated_summary": "根據評論分析，店內規劃與氛圍對攜帶幼童的家庭相當友善，氣氛輕鬆熱鬧，適合帶孩子前來用餐。儘管座位較為緊密，官方仍標示其適合兒童，並預期提供兒童椅及兒童餐具，方便家庭顧客使用。",
-    "card_summary": "根據評論分析，店內規劃與氛圍對攜帶幼童的家庭相當友善，氣氛輕鬆熱鬧，適合帶孩子前來用餐。儘管座位較為緊密，官方仍標示其適合兒童，並預期提供兒童椅及兒童餐具，方便家庭顧客使用。",
-    "generated_signals": [
-        "無意間經過的早午餐店 店內座位算多不過稍微擁擠一點",
-        "一進來就有感受到滿滿親子友善～^_^小孩有圖畫工具"
-    ],
-    "parent_friendly_score": -1,
-    "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析"
+{
+  " child_seat available": {
+    "result": "Yes",
+    "evidence": "使用者回報與人工校正：店內有提供兒童椅",
+    "confidence": 1
+  },
+  "Spacious seating": {
+    "result": "No",
+    "evidence": "無意間經過的早午餐店 店內座位算多不過稍微擁擠一點",
+    "confidence": 0.8
+  },
+  "Kids menu available": {
+    "result": "Yes",
+    "evidence": "使用者回報與人工校正：店內有提供兒童餐",
+    "confidence": 1
+  },
+  "kid_noise_tolerant": {
+    "result": "Yes",
+    "evidence": "使用者回報與人工校正：氣氛輕鬆不怕吵鬧，常見兒童和家庭客前來用餐",
+    "confidence": 1
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_tableware": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "generated_summary": "有一樓和地下室座位區，一樓座位配置較緊密，但旁邊有空間可放置推車。有提供兒童椅和兒童餐，氣氛輕鬆不怕吵鬧，常見兒童和家庭客前來用餐。",
+  "card_summary": "有一樓和地下室座位區，一樓座位配置較緊密，但旁邊有空間可放置推車。有提供兒童椅和兒童餐，氣氛輕鬆不怕吵鬧，常見兒童和家庭客前來用餐。",
+  "generated_signals": [
+    "無意間經過的早午餐店 店內座位算多不過稍微擁擠一點",
+    "一進來就有感受到滿滿親子友善～^_^小孩有圖畫工具"
+  ],
+  "parent_friendly_score": -1,
+  "parent_friendly_level": "中",
+  "reason": "Google 官方親子標籤與評論/簡介語意關聯分析"
 }
