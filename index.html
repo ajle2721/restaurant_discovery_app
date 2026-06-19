@@ -17,7 +17,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@500;600;700;800;900&family=M+PLUS+Rounded+1c:wght@700;800&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="style.css?v=20260615105500">
+    <link rel="stylesheet" href="style.css?v=20260620000100">
     <link rel="manifest" href="manifest.json">
     <!-- Leaflet Map Library -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
@@ -200,21 +200,11 @@
                 </main>
             </div>
         </div>
-        <section class="home-feedback-section" aria-labelledby="home-feedback-title">
-            <div class="home-feedback-copy">
-                <span class="home-feedback-badge">一起更新</span>
-                <h2 id="home-feedback-title">讓台北親子友善餐廳名單更完整</h2>
-                <p>知道哪間餐廳適合帶小孩，或想回饋這個工具哪裡可以更好，都可以在這裡告訴我們。</p>
-            </div>
-            <div class="home-feedback-actions">
-                <button id="home-contribute-restaurant" class="home-feedback-btn home-feedback-btn-primary" type="button">
-                    <span>貢獻台北市親子友善餐廳</span>
-                </button>
-                <button id="home-site-feedback" class="home-feedback-btn home-feedback-btn-secondary" type="button">
-                    <span>提供使用回饋</span>
-                </button>
-            </div>
-        </section>
+        <nav class="home-feedback-links" aria-label="協助更新與回饋">
+            <a id="home-contribute-restaurant" href="#">貢獻親子友善餐廳</a>
+            <span aria-hidden="true">·</span>
+            <a id="home-site-feedback" href="#">提供使用回饋</a>
+        </nav>
     </div>
 
     <div id="detail-view" class="view">
@@ -441,7 +431,7 @@
     <!-- Data and App Logic -->
     <script src="locations.js"></script>
     <script src="ai_review/index.js?v=20260612122700"></script>
-    <script src="app.js?v=20260615110500"></script>
+    <script src="app.js?v=20260620000100"></script>
 </body>
 
 </html>

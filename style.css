@@ -2090,6 +2090,49 @@ body {
         white-space: normal;
     }
 }
+.home-feedback-links {
+    max-width: 1080px;
+    margin: -1.25rem auto 3.5rem;
+    padding: 0 1.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.65rem;
+    color: rgba(113, 128, 150, 0.72);
+    font-size: 0.86rem;
+    font-weight: 700;
+}
+
+.home-feedback-links a {
+    color: var(--text-muted);
+    text-decoration: underline;
+    text-underline-offset: 0.2em;
+    text-decoration-thickness: 1px;
+    cursor: pointer;
+    transition: color 0.2s ease, text-decoration-color 0.2s ease;
+}
+
+.home-feedback-links a:hover,
+.home-feedback-links a:focus-visible {
+    color: var(--secondary);
+    text-decoration-color: currentColor;
+    outline: none;
+}
+
+@media (min-width: 601px) {
+    .site-feedback-fab {
+        display: none;
+    }
+}
+
+@media (max-width: 600px) {
+    .home-feedback-links {
+        margin: -1.75rem auto 3rem;
+        padding: 0 1.25rem;
+        flex-wrap: wrap;
+        font-size: 0.84rem;
+    }
+}
 .match-rate-badge {
     font-size: 0.7rem;
     font-weight: 800;

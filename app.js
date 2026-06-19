@@ -1160,12 +1160,18 @@ function setupEventListeners() {
 
     const homeSiteFeedbackBtn = document.getElementById('home-site-feedback');
     if (homeSiteFeedbackBtn) {
-        homeSiteFeedbackBtn.addEventListener('click', openSiteFeedbackModal);
+        homeSiteFeedbackBtn.addEventListener('click', (e) => {
+            e.preventDefault();
+            openSiteFeedbackModal();
+        });
     }
 
     const homeContributeBtn = document.getElementById('home-contribute-restaurant');
     if (homeContributeBtn) {
-        homeContributeBtn.addEventListener('click', openContributionModal);
+        homeContributeBtn.addEventListener('click', (e) => {
+            e.preventDefault();
+            openContributionModal();
+        });
     }
 
     const closeSiteFeedbackBtn = document.getElementById('close-site-feedback-modal');
