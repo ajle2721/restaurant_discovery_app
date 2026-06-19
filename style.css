@@ -2101,10 +2101,17 @@ body {
     color: rgba(113, 128, 150, 0.72);
     font-size: 0.86rem;
     font-weight: 700;
+    position: relative;
+    z-index: 250;
+    pointer-events: auto;
 }
 
 .home-feedback-links a {
     color: var(--text-muted);
+    display: inline-flex;
+    align-items: center;
+    min-height: 2rem;
+    padding: 0.1rem 0.15rem;
     text-decoration: underline;
     text-underline-offset: 0.2em;
     text-decoration-thickness: 1px;
@@ -3315,6 +3322,9 @@ body {
     color: var(--text-muted);
     font-size: 0.78rem;
     font-weight: 700;
+    position: relative;
+    z-index: 250;
+    pointer-events: auto;
 }
 
 /* Detail view feedback button style */

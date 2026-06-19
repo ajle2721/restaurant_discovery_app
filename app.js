@@ -5086,6 +5086,22 @@ function checkPwaInstallTrigger() {
     }
 }
 
+
+function handleHomeFeedbackLinkClick(e) {
+    if (e.defaultPrevented) return;
+    const link = e.target.closest('[data-home-feedback-action]');
+    if (!link) return;
+
+    e.preventDefault();
+    const action = link.dataset.homeFeedbackAction;
+    if (action === 'contribute') {
+        openContributionModal();
+    } else if (action === 'site-feedback') {
+        openSiteFeedbackModal();
+    }
+}
+
+document.addEventListener('click', handleHomeFeedbackLinkClick);
 // Start the app
 init();
 
