@@ -3674,7 +3674,7 @@ function facilityIsAlreadyMentioned(text, key) {
         has_diaper_table: /尿布台|哺乳室|親子廁所/,
         has_play_area: /遊樂|玩具|遊戲|遊戲區|遊樂桌|裝扮|拍照區/,
         spacious_seating: /寬敞|挑高|空間舒適|座位較寬/,
-        kid_noise_tolerant: /不怕吵|吵鬧.*包容|孩子聲音.*包容|氣氛歡樂|氣氛對孩子較友善|熱鬧/,
+        kid_noise_tolerant: /不怕吵|吵鬧.*包容|孩子聲音.*包容|氣氛歡樂|氣氛對孩子較友善|熱鬧|對孩子.*吸引力/,
         has_private_room: /包廂|包場|慶生|抓週|活動服務/
     };
     return patterns[key]?.test(positiveText) || false;
@@ -3782,6 +3782,12 @@ function compactSummaryText(summary, restaurant, options = {}) {
     let cautions = getFamilyCautions(attrs);
     if (/座位(配置)?較(為)?緊密/.test(source)) {
         cautions = cautions.filter(caution => caution !== '座位較為緊密');
+    }
+    if (/沒有遊樂區|無遊樂區|未設有兒童遊戲區/.test(source)) {
+        cautions = cautions.filter(caution => caution !== '無遊樂區');
+    }
+    if (/無尿布台|沒有尿布台|未設.*尿布台/.test(source)) {
+        cautions = cautions.filter(caution => caution !== '無尿布台');
     }
     const distinctiveParts = extractDistinctiveSummaryParts(summary, restaurant, 4);
     const highlightText = distinctiveParts.join('。');

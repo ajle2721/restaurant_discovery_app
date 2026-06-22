@@ -20,14 +20,16 @@
                                "confidence":  0.8
                            },
     "has_play_area":  {
-                          "result":  "Yes",
-                          "evidence":  "有別於其他親子餐廳只提供遊戲區",
-                          "confidence":  0.9
+                          "result":  "No",
+                          "evidence":  "使用者回報與人工校正：沒有遊樂區，但有滿滿的迪士尼布偶與裝飾品，並提供手作活動讓孩子等待餐點時體驗",
+                          "confidence":  1,
+                          "override_existing":  true
                       },
     "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
+                             "result":  "Yes",
+                             "evidence":  "使用者回報與人工校正：店家標示適合辦慶生活動，可以包場",
+                             "confidence":  1,
+                             "override_existing":  true
                          },
     "has_tableware":  {
                           "result":  "Yes",
@@ -35,17 +37,20 @@
                           "confidence":  1
                       },
     "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
+                             "result":  "No",
+                             "evidence":  "使用者回報與人工校正：店內無尿布台",
+                             "confidence":  1,
+                             "override_existing":  true
                          },
-    "generated_summary":  "根據評論分析，店內規劃與氛圍對攜帶幼童的家庭相當友善。店內貼心備有兒童座椅與專用餐具，設有遊戲區讓孩子放電。",
-    "card_summary":  "",
+    "generated_summary":  "雖然沒有遊樂區，但店內有滿滿的迪士尼布偶與裝飾品，裝餐點的器具也很可愛，對孩子很有吸引力。店內備有兒童椅與兒童餐具，也提供手作活動讓孩子在等待餐點時體驗；店家標示適合辦慶生活動，可包場舉辦聚會，但須留意門口有階梯，推車推入較不便，且店內無尿布台，帶嬰兒的家長須斟酌。",
+    "card_summary":  "雖然沒有遊樂區，但店內有滿滿的迪士尼布偶與裝飾品，裝餐點的器具也很可愛，對孩子很有吸引力。店內備有兒童椅與兒童餐具，也提供手作活動讓孩子在等待餐點時體驗；店家標示適合辦慶生活動，可包場舉辦聚會，但須留意門口有階梯，推車推入較不便，且店內無尿布台，帶嬰兒的家長須斟酌。",
     "generated_signals":  [
                               "使用者回報與人工校正：有提供兒童椅",
                               "而不是盯著手機或吵鬧",
-                              "有別於其他親子餐廳只提供遊戲區",
-                              "系統自動識別：親子主題餐廳必備兒童專用碗盤"
+                              "使用者回報與人工校正：沒有遊樂區，但有滿滿的迪士尼布偶與裝飾品，並提供手作活動讓孩子等待餐點時體驗",
+                              "系統自動識別：親子主題餐廳必備兒童專用碗盤",
+                              "使用者回報與人工校正：店家標示適合辦慶生活動，可以包場",
+                              "使用者回報與人工校正：門口有階梯不適合推車，店內無尿布台，帶嬰兒的家長須斟酌"
                           ],
     "parent_friendly_score":  6,
     "parent_friendly_level":  "高",
