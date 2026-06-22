@@ -1,8 +1,9 @@
 ﻿{
     " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
+                                  "result":  "Yes",
+                                  "evidence":  "使用者回報與人工校正：有兒童椅",
+                                  "confidence":  1,
+                                  "override_existing":  true
                               },
     "Spacious seating":  {
                              "result":  "Yes",
@@ -10,9 +11,10 @@
                              "confidence":  0.8
                          },
     "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
+                                "result":  "Yes",
+                                "evidence":  "使用者回報與人工校正：有兒童餐",
+                                "confidence":  1,
+                                "override_existing":  true
                             },
     "kid_noise_tolerant":  {
                                "result":  "Yes",
@@ -30,22 +32,28 @@
                              "confidence":  0.4
                          },
     "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
+                          "result":  "Yes",
+                          "evidence":  "使用者回報與人工校正：有兒童餐具",
+                          "confidence":  1,
+                          "override_existing":  true
                       },
     "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
+                             "result":  "Yes",
+                             "evidence":  "使用者回報與人工校正：有尿布台",
+                             "confidence":  1,
+                             "override_existing":  true
                          },
-    "generated_summary":  "根據評論分析，服務人員接待熱忱、服務態度良好。空間寬敞舒適，氣氛熱鬧親子友善，適合帶孩子前來用餐。",
-    "card_summary":  "",
+    "generated_summary":  "ivette Da An 空間寬敞舒適，氣氛熱鬧且對孩子聲音較包容，適合親子家庭用餐。店內備有兒童椅、兒童餐具、兒童餐與尿布台，親子友善設施相當完整。",
+    "card_summary":  "空間寬敞舒適、氣氛熱鬧親子友善；店內備有兒童椅、兒童餐具、兒童餐與尿布台。",
     "generated_signals":  [
                               "但從擺盤跟料理的方式能感受到這家餐廳的用心 加上空間寬敞 會想再訪",
-                              "所以人多的時候聲音+迴音會滿吵雜的"
+                              "所以人多的時候聲音+迴音會滿吵雜的",
+                              "使用者回報與人工校正：有兒童椅",
+                              "使用者回報與人工校正：有兒童餐具",
+                              "使用者回報與人工校正：有兒童餐",
+                              "使用者回報與人工校正：有尿布台"
                           ],
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "中",
+    "parent_friendly_score":  6,
+    "parent_friendly_level":  "高",
     "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

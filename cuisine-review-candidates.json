@@ -1,0 +1,2156 @@
+{
+  "generated_at": "2026-06-22",
+  "count": 307,
+  "description": "菜系仍無法由店名高信心判斷的餐廳，建議人工確認後再補入。",
+  "restaurants": [
+    {
+      "place_id": "ChIJ-0-weL2rQjQRyzUgFcOcehU",
+      "name": "The Stage Canteen",
+      "address": "106台灣臺北市大安區信義路四段265巷31弄1號",
+      "district": "大安區",
+      "summary": "目前整理資料較少提及與親子用餐相關的具體資訊，且店內空間較為狹小、座位有限，建議前往前可先向店家確認是否適合攜帶兒童。"
+    },
+    {
+      "place_id": "ChIJ-2J0amatQjQREtiVMjZoflE",
+      "name": "樂湖Le lakeshore",
+      "address": "114台灣臺北市內湖區大湖里大湖山莊街221號1樓",
+      "district": "內湖區",
+      "summary": "公開地點資訊標示提供兒童餐且適合兒童，店內擁有寬敞的餐廳空間，並設有可容納約八人的獨立包廂，非常適合家庭聚會。不過目前整理資料中未提及是否提供兒童椅、兒童餐具、尿布台或遊戲區，建議有相關需求的家長前往前先向店家確認。"
+    },
+    {
+      "place_id": "ChIJ-8zkfACvQjQRtnDVLroN020",
+      "name": "小廚房",
+      "address": "112台灣臺北市北投區立賢里承德路七段280巷11號",
+      "district": "北投區",
+      "summary": "根據公開地點資訊標示，這家餐廳適合兒童用餐，但並不提供兒童餐。由於目前整理資料多集中於外送餐點的口味與份量討論，目前較少提及店內用餐環境（如兒童椅、餐具、空間大小等）的具體資訊。"
+    },
+    {
+      "place_id": "ChIJ-WB-7nerQjQRB4yWvA0THi4",
+      "name": "磚窯古早料理南港創始店",
+      "address": "115台灣臺北市南港區松河街318號",
+      "district": "南港區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。"
+    },
+    {
+      "place_id": "ChIJ-wWUb-WrQjQRRalMaORtvUc",
+      "name": "松山區立可康餐廳",
+      "address": "105台灣臺北市松山區民有里民權東路三段160巷19弄4號",
+      "district": "松山區",
+      "summary": "本餐廳被公開地點資訊標示為適合兒童，但並不提供兒童專屬餐點。目前整理資料提及店內「環境舒適」且「環境溫馨舒適」，整體用餐氛圍良好。然而，目前整理資料中未提及兒童椅、兒童餐具、遊戲區或尿布台等具體親子設施，建議前往前先向店家確認。"
+    },
+    {
+      "place_id": "ChIJ0-nOESOtQjQRhFzda1p-6CM",
+      "name": "閑茗樓 內湖店",
+      "address": "114004台灣臺北市內湖區麗山里內湖路一段623號1樓",
+      "district": "內湖區",
+      "summary": "根據目前整理資料，用餐環境舒適，氣氛輕鬆愜意。"
+    },
+    {
+      "place_id": "ChIJ0TklDKqrQjQRLAWzZf2HNbI",
+      "name": "樂雅樂餐廳 生技園區店",
+      "address": "115台灣臺北市南港區忠孝東路七段508號2樓",
+      "district": "南港區",
+      "summary": "根據目前整理資料，店內用餐空間規劃寬敞，活動動線舒適。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點。"
+    },
+    {
+      "place_id": "ChIJ0aVR2n6pQjQRJ3oqiho-A7E",
+      "name": "菲立斯自助餐",
+      "address": "100台灣臺北市中正區三愛里新生南路一段132巷5號",
+      "district": "中正區",
+      "summary": "根據公開地點資訊標示，這家餐廳適合兒童用餐，但並未提供專門的兒童餐。目前整理資料中未提及兒童椅、兒童餐具、遊戲區或尿布台等具體親子設施，建議前往前先向店家確認。"
+    },
+    {
+      "place_id": "ChIJ12eM2ZWrQjQRDLcoyTxlV6I",
+      "name": "集客人間茶館-東興店",
+      "address": "105台灣臺北市松山區新聚里東興路16號",
+      "district": "松山區",
+      "summary": "這家餐廳提供兒童座椅、兒童餐具、環境氣氛適合帶小孩。目前整理資料較少提及其他親子用餐的具體細節，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJ1Tm3LDetQjQRRF48aBxvHzQ",
+      "name": "樂雅樂餐廳 西湖店",
+      "address": "114台灣臺北市內湖區西湖里瑞光路583巷31號1樓",
+      "district": "內湖區",
+      "summary": "根據目前整理資料，服務人員接待熱忱、服務態度良好。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點。"
+    },
+    {
+      "place_id": "ChIJ1WJhMgCrQjQRTpOKfFXLTVk",
+      "name": "皿皿家料理",
+      "address": "116台灣臺北市文山區景華里羅斯福路六段",
+      "district": "文山區",
+      "summary": "根據目前整理資料，服務人員接待熱忱、服務態度良好。店內貼心備有兒童座椅。"
+    },
+    {
+      "place_id": "ChIJ1aZy0q6pQjQRwBhj14mvCbo",
+      "name": "兩喜號 Liang Xi Hao - 西園店",
+      "address": "108台灣臺北市萬華區西園路一段194號",
+      "district": "萬華區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。"
+    },
+    {
+      "place_id": "ChIJ1eXQShWrQjQR-9Ev_CR9KkI",
+      "name": "初泰信義象山門市",
+      "address": "110台灣臺北市信義區信義路五段122號",
+      "district": "信義區",
+      "summary": "根據目前整理資料，服務人員接待熱忱、服務態度良好。空間寬敞舒適，適合帶孩子前來用餐。"
+    },
+    {
+      "place_id": "ChIJ22KOy-irQjQRnrFOQj_aanw",
+      "name": "gonnaPLUS地中海健康旗艦餐廳",
+      "address": "110台灣臺北市信義區新仁里光復南路133號松山文創園區生態池畔旁",
+      "district": "信義區",
+      "summary": "根據目前整理資料，用餐環境整潔，衛生維持良好。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點。"
+    },
+    {
+      "place_id": "ChIJ2wazo1GuQjQRALmOYCuzFYQ",
+      "name": "山林涼麵",
+      "address": "112台灣臺北市北投區大同里大同街139號",
+      "district": "北投區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。"
+    },
+    {
+      "place_id": "ChIJ2wpBPompQjQRnNdkOhvOaS8",
+      "name": "希臘左巴 歐陸風味館",
+      "address": "106台灣臺北市大安區大學里羅斯福路三段283巷7弄16號",
+      "district": "大安區",
+      "summary": "根據 公開地點資訊標示，該餐廳被歸類為適合兒童的環境，但並不提供專屬的兒童餐點。目前整理資料中未提及兒童座椅、餐具、尿布台或遊戲區等具體設施資訊，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJ2zaOBkOpQjQRixbZ8f4sXO0",
+      "name": "汆食",
+      "address": "10491台灣臺北市中山區集英里中山北路三段26號1樓",
+      "district": "中山區",
+      "summary": "根據目前整理資料，店內用餐空間規劃寬敞，活動動線舒適。空間寬敞舒適，適合帶孩子前來用餐。"
+    },
+    {
+      "place_id": "ChIJ3-qdbQ2pQjQRT18amXFhVNM",
+      "name": "大叔食事unclefoodday",
+      "address": "103台灣臺北市大同區哈密街89號",
+      "district": "大同區",
+      "summary": "根據目前整理資料，手作麵包與特色輕食風味獲得顧客好評。"
+    },
+    {
+      "place_id": "ChIJ30htQ9SrQjQRYDoLUkQf9vk",
+      "name": "hi kidsroom 하이키즈룸 嗨有趣",
+      "address": "10491台灣臺北市中山區民權東路三段60巷5號",
+      "district": "中山區",
+      "summary": "嗨有趣是一間非常適合親子聚會的空間，店內提供兒童餐、兒童餐椅及哺乳安撫室等完善設施。環境寬敞且設有球池、溜滑梯、積木區及繪畫區，並有陪玩姊姊協助照顧，讓家長能放鬆休息。此外，該店也提供包場服務。"
+    },
+    {
+      "place_id": "ChIJ30uGv7-pQjQRPpzonaRvoGo",
+      "name": "蓋子普拉斯小餐館-新生店",
+      "address": "106台灣臺北市大安區民輝里忠孝東路三段10巷22號",
+      "district": "大安區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。座位較為緊密，適合帶孩子前來用餐。"
+    },
+    {
+      "place_id": "ChIJ36bf5syvQjQRYHkVc3LY1NI",
+      "name": "好食廚 House Cook 私廚外燴",
+      "address": "112台灣臺北市北投區榮華里東華街一段22巷4弄9號1樓",
+      "district": "北投區",
+      "summary": "好食廚 House Cook 為私廚外燴服務，由廚師團隊前往客戶指定地點（如家中）進行料理，因此餐廳本身的硬體設施（如兒童椅、遊戲區、尿布台等）並不適用於此服務模式。目前整理資料中未提及與親子用餐相關的具體設施資訊。"
+    },
+    {
+      "place_id": "ChIJ36lzRZurQjQRhd8GdopItfQ",
+      "name": "親愛的Bon appétit輕食餐盒萬芳店",
+      "address": "116078台灣臺北市文山區興得里興隆路三段112巷2弄23號1樓",
+      "district": "文山區",
+      "summary": "該店主要提供健康餐盒，店內空間較為狹小，且店家資訊顯示不提供兒童餐。目前整理資料中未提及兒童座椅、兒童餐具或育嬰設施等親子友善資訊，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJ3T8zRs6rQjQRjBJiUOZkbMI",
+      "name": "民彩",
+      "address": "106台灣臺北市大安區敦安里仁愛路四段112巷3弄6號",
+      "district": "大安區",
+      "summary": "根據公開地點資訊標示，該餐廳被歸類為適合兒童，但明確標示不提供兒童餐。目前整理資料中未提及兒童座椅、餐具、遊戲區或尿布台等設施，建議家長前往前可先向店家確認相關設備需求。"
+    },
+    {
+      "place_id": "ChIJ407ieRGpQjQRI_PKSoESqLg",
+      "name": "Engolili 英格莉莉 (微風北車)",
+      "address": "100024台灣臺北市中正區黎明里北平西路3號2樓",
+      "district": "中正區",
+      "summary": "這家餐廳提供兒童座椅、兒童餐具、可使用商場附設之尿布台、環境氣氛適合帶小孩。目前整理資料較少提及其他親子用餐的具體細節，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJ4RSE4purQjQR_yxcNhN2dvM",
+      "name": "長廊粵式腸粉 Changlang Rice Noodle Rolls",
+      "address": "105台灣臺北市松山區慈祐里八德路四段679號",
+      "district": "松山區",
+      "summary": "該店被公開地點資訊標示為適合兒童，但店內空間較為小巧擁擠，且不提供兒童餐點。由於目前整理資料中未提及兒童座椅、餐具或尿布台等設施，建議家長前往前可先向店家確認相關設備需求。"
+    },
+    {
+      "place_id": "ChIJ4Z8YGY2sQjQRxOZSCQRmIWw",
+      "name": "田中園 內湖店",
+      "address": "114台灣臺北市內湖區內湖里成功路四段30巷13號",
+      "district": "內湖區",
+      "summary": "根據目前整理資料，燒肉與烤物料理火候適中，食材品質良好。店內貼心備有兒童座椅。"
+    },
+    {
+      "place_id": "ChIJ4f0XTJyvQjQRkZbOhd6LqgM",
+      "name": "鼎豐FOOD",
+      "address": "111台灣臺北市士林區福佳里承德路五段55號",
+      "district": "士林區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，獲得好評。店內提供兒童餐點。位於兒童新樂園內，可使用園區公共尿布台及哺乳室。"
+    },
+    {
+      "place_id": "ChIJ5QfnixSrQjQR6DGgi6nUJfg",
+      "name": "義意",
+      "address": "105台灣臺北市松山區中正里南京東路三段256巷20弄2號",
+      "district": "松山區",
+      "summary": "根據目前整理資料，清爽健康的蔬食與沙拉料理深受顧客青睞。"
+    },
+    {
+      "place_id": "ChIJ5VPSAOerQjQRqTvsq7wj0Ao",
+      "name": "吳哥窟風味小吃",
+      "address": "105台灣臺北市松山區中正里長春路454-2號",
+      "district": "松山區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。"
+    },
+    {
+      "place_id": "ChIJ5c_DMaKpQjQRvlJFgB4AboI",
+      "name": "大象飯館(大象吃咖哩2.0)",
+      "address": "103台灣臺北市大同區至聖里民族西路47號",
+      "district": "大同區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，獲得好評。氣氛輕鬆親子友善，適合帶孩子前來用餐。"
+    },
+    {
+      "place_id": "ChIJ5dVK6NurQjQRzVlfiCLENRA",
+      "name": "葡萄園(Vine Yard)",
+      "address": "116台灣臺北市文山區興得里興隆路三段36巷14弄7號1樓",
+      "district": "文山區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。座位較為緊密，適合帶孩子前來用餐。"
+    },
+    {
+      "place_id": "ChIJ6UOhWBqrQjQRQqcIfv1K1NE",
+      "name": "Marinheiro No.9 水手9號",
+      "address": "10583台灣臺北市松山區東榮里富錦街389號1樓",
+      "district": "松山區",
+      "summary": "水手9號環境溫馨舒適，公開地點資訊標示適合兒童且適合家庭聚餐，但店內空間較為精緻小巧，且不提供兒童餐點。店家提供包場服務，適合中小型聚會，建議前往前可先向店家確認是否有兒童座椅等相關設施。"
+    },
+    {
+      "place_id": "ChIJ6_ECFKipQjQR9fU8jospsIo",
+      "name": "久居小廚",
+      "address": "104台灣臺北市中山區集英里中山北路二段96巷36號",
+      "district": "中山區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。"
+    },
+    {
+      "place_id": "ChIJ6ere6rurQjQRCmicPiS523g",
+      "name": "INPARADISE 饗饗 微風信義店",
+      "address": "110台灣台北市信义区忠孝東路五段68號46樓微風信義",
+      "district": "",
+      "summary": "根據目前整理資料，手工甜點與下午茶點心口感精緻，評價優良。店內貼心備有兒童座椅與專用餐具，可就近使用商場內公共尿布台及哺乳室。"
+    },
+    {
+      "place_id": "ChIJ6wpUyd-pQjQRWljHRBfZLFw",
+      "name": "綠色舞動 旗艦店",
+      "address": "10491台灣臺北市中山區朱園里伊通街8號",
+      "district": "中山區",
+      "summary": "根據 公開地點資訊標示，該店被標示為適合兒童，但明確指出不提供兒童餐。目前整理資料中並未提及兒童座椅、餐具、尿布台或遊戲區等親子友善設施的具體資訊，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJ6y4JAJOvQjQRhiE0QRlXljY",
+      "name": "芳儀台越料理",
+      "address": "111台灣臺北市士林區天福里天母東路8巷31弄8號1樓",
+      "district": "士林區",
+      "summary": "該餐廳經公開地點資訊標記為適合兒童，但目前未提供兒童餐點。目前整理資料中對於兒童座椅、餐具、尿布台及遊戲區等設施皆無明確提及，建議前往用餐前可先向店家確認相關設備需求。"
+    },
+    {
+      "place_id": "ChIJ6yJJIGWqQjQRk0JZXZX_-p0",
+      "name": "龎家肉羹",
+      "address": "116台灣臺北市文山區萬興里新光路一段193號",
+      "district": "文山區",
+      "summary": "店內經公開地點資訊標示為適合兒童用餐，但店內並不提供兒童餐點。目前整理資料較少提及其他親子友善設施（如兒童椅、餐具或遊戲區等），建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJ7TAYfLyrQjQRysgf1KWfY2A",
+      "name": "星馬快餐 Sin Ma Express 海南雞飯 星馬料理專賣店 台北南港環球百貨店",
+      "address": "115台灣臺北市南港區忠孝東路七段371號地址：115B1F (環球購物中心南港店）櫃位B116",
+      "district": "南港區",
+      "summary": "根據目前整理資料，手作麵包與特色輕食風味獲得顧客好評。可就近使用商場內公共尿布台及哺乳室。"
+    },
+    {
+      "place_id": "ChIJ7ZE0TY6rQjQRiR01mYOYUG8",
+      "name": "喬叔廚房 JOE’S Kitchen Taipei",
+      "address": "110台灣臺北市信義區大道里中坡南路34號",
+      "district": "信義區",
+      "summary": "根據目前整理資料，店內用餐空間規劃寬敞，活動動線舒適。空間寬敞舒適，氣氛熱鬧親子友善，適合帶孩子前來用餐。"
+    },
+    {
+      "place_id": "ChIJ7aTC9I6pQjQRKtS6QmUbOvI",
+      "name": "擱再來海鮮快炒店",
+      "address": "100台灣台北市中正区文盛里罗斯福路三段244巷12-1號1樓",
+      "district": "",
+      "summary": "根據 公開地點資訊標示，該餐廳被歸類為適合兒童用餐，但並不提供兒童專屬菜單。目前整理資料中未提及兒童座椅、餐具、遊戲區或尿布台等設施，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJ83F0JbupQjQRHfl00WP-Nh0",
+      "name": "小漁村精緻海鮮平價快炒",
+      "address": "100台灣臺北市中正區忠勤里中華路二段311巷19號",
+      "district": "中正區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。"
+    },
+    {
+      "place_id": "ChIJ87f1t3CrQjQRG3fIJco7190",
+      "name": "粨一桌食藝料理",
+      "address": "115台灣臺北市南港區新富里富康街47巷1號",
+      "district": "南港區",
+      "summary": "該餐廳標記為適合兒童用餐，並設有包廂空間，但店家資訊顯示不提供兒童餐，且目前整理資料中未提及兒童座椅、餐具或尿布台等設施，建議家長前往前可先致電確認相關親子友善設備。"
+    },
+    {
+      "place_id": "ChIJ89QkcQCtQjQR5jOCwSGoPtc",
+      "name": "擁灣晨食所 台北內湖店",
+      "address": "114台灣臺北市內湖區內湖路一段437巷4弄4號",
+      "district": "內湖區",
+      "summary": "根據目前整理資料，手作麵包與特色輕食風味獲得顧客好評。"
+    },
+    {
+      "place_id": "ChIJ8R3JH0WuQjQR_5ttGeLOWTs",
+      "name": "天饗食坊",
+      "address": "112台灣臺北市北投區中山路3號",
+      "district": "北投區",
+      "summary": "根據目前整理資料，小籠包與各式中式點心風味地道，深受好評。"
+    },
+    {
+      "place_id": "ChIJ8U512jaqQjQR-hxDu-hsn08",
+      "name": "義家人_六張犁",
+      "address": "106台灣臺北市大安區黎孝里安居街16號1樓",
+      "district": "大安區",
+      "summary": "根據目前整理資料，店內提供的義大利麵等義式餐點口感良好，獲得顧客肯定。氣氛輕鬆親子友善，適合帶孩子前來用餐。"
+    },
+    {
+      "place_id": "ChIJ8fV-LIGsQjQRUOES7t37eaA",
+      "name": "瑞記海南雞飯 內湖成功店",
+      "address": "114台灣臺北市內湖區紫星里成功路三段173號",
+      "district": "內湖區",
+      "summary": "根據 公開地點資訊標示，該餐廳被歸類為適合兒童用餐，但店內並不提供兒童餐點。目前整理資料中未提及兒童座椅、餐具、遊戲區或尿布台等設施，建議若有攜帶幼童的需求，可事先致電店家確認相關設備。"
+    },
+    {
+      "place_id": "ChIJ94hxiL2vQjQR5H7l0jecDus",
+      "name": "Papa Vito Kitchen",
+      "address": "111台灣臺北市士林區天山里中山北路七段96號2樓",
+      "district": "士林區",
+      "summary": "根據 公開地點資訊標示，該餐廳被標示為不適合兒童且不提供兒童餐，建議攜帶幼童的家長在前往前多加評估。"
+    },
+    {
+      "place_id": "ChIJ97N8KHGqQjQRwyZ8CRnNiuQ",
+      "name": "潮飯",
+      "address": "116台灣臺北市文山區開元街36號",
+      "district": "文山區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。"
+    },
+    {
+      "place_id": "ChIJ9QaFVImpQjQRNp2gEkhxhc4",
+      "name": "蠶居生活美食",
+      "address": "106台灣臺北市大安區大學里羅斯福路三段283巷7弄2號",
+      "district": "大安區",
+      "summary": "該餐廳經 公開地點資訊標示為適合兒童，但並未提供兒童餐。目前整理資料中未提及兒童座椅、餐具、遊戲區或尿布台等設施，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJ9WtGHK2pQjQRSLa412XJHU4",
+      "name": "中子廚房",
+      "address": "103台灣臺北市大同區南京西路239巷21號",
+      "district": "大同區",
+      "summary": "這家餐廳提供兒童座椅、兒童餐具、環境氣氛適合帶小孩。目前整理資料較少提及其他親子用餐的具體細節，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJ9fOjOhKsQjQRL6BiIDTYm2M",
+      "name": "豐 FOOD 海陸百匯",
+      "address": "10491台灣臺北市中山區成功里植福路8號1樓",
+      "district": "中山區",
+      "summary": "根據目前整理資料，店內用餐空間規劃寬敞，活動動線舒適。氣氛輕鬆親子友善，適合帶孩子前來用餐。"
+    },
+    {
+      "place_id": "ChIJA-CSdISpQjQRdIySsQDlW6Y",
+      "name": "妖食 手作食堂",
+      "address": "106台灣臺北市大安區錦安里永康街73號",
+      "district": "大安區",
+      "summary": "該餐廳被公開地點資訊標示為適合兒童，但店內空間非常狹小（僅約13個座位），且不提供兒童餐。由於店內環境較為狹小，建議攜帶幼童前往時需考量空間限制。"
+    },
+    {
+      "place_id": "ChIJA5yzqgGqQjQRCdLMEefq3TQ",
+      "name": "龍哥食堂",
+      "address": "116台灣臺北市文山區萬慶街17號",
+      "district": "文山區",
+      "summary": "店內經公開地點資訊標示為適合兒童用餐，且店內環境相對寬敞、不會人擠人，適合家庭前往。不過店家目前不提供兒童餐，且目前整理資料中未提及兒童座椅、餐具或尿布台等設施，建議家長前往前可先致電確認相關設備。"
+    },
+    {
+      "place_id": "ChIJA7xCuqirQjQRGwBOltepJQk",
+      "name": "安好食 和平店",
+      "address": "106台灣臺北市大安區龍淵里辛亥路二段201號1樓",
+      "district": "大安區",
+      "summary": "根據目前整理資料，這家餐廳氣氛輕鬆親子友善。"
+    },
+    {
+      "place_id": "ChIJAyQaP3urQjQRhZYKdSAgfEs",
+      "name": "That's all",
+      "address": "115台灣臺北市南港區西新里成功路一段28號1樓",
+      "district": "南港區",
+      "summary": "根據目前整理資料，目前整理資料較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJByHxFGmpQjQRwfIvf8y292g",
+      "name": "海倫鮮土司",
+      "address": "106台灣臺北市大安區古莊里浦城街9-4號",
+      "district": "大安區",
+      "summary": "根據目前整理資料，店內餐點烹調用心，家常粵式料理口味精緻美味。餐廳在特定時段以私廚形式經營，需提前預約包場（建議人數為 8-10 人），非常適合小組團體與親友進行專屬的私密聚會用餐。"
+    },
+    {
+      "place_id": "ChIJC-1uOBOpQjQRq_pdWQgSpBU",
+      "name": "新醉紅樓菜館",
+      "address": "103台灣臺北市大同區建功里天水路14號2樓",
+      "district": "大同區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。此外，店內還設有舒適的獨立包廂空間，是親友、家庭聚餐時的理想選擇。"
+    },
+    {
+      "place_id": "ChIJCSZY80GrQjQRq34Y_zQ0h14",
+      "name": "玖仰茶食文化 jiuyang(仁愛延吉)",
+      "address": "106台灣臺北市大安區延吉街233-4號",
+      "district": "大安區",
+      "summary": "根據目前整理資料，手工甜點與下午茶點心口感精緻，評價優良。"
+    },
+    {
+      "place_id": "ChIJCYvjW5-pQjQR-Ie6cd7DPA0",
+      "name": "自彈自唱 Dolce far Niemte",
+      "address": "106台灣臺北市大安區溫州街48巷24號",
+      "district": "大安區",
+      "summary": "這家餐廳環境舒適且座位寬敞，店員對親子非常友善且包容，現場提供教具供孩童遊玩，非常適合家庭前往享受音樂與美食。不過需注意店家公開地點資訊標示不提供兒童餐，且目前整理資料中未提及兒童餐具與尿布台等設施。"
+    },
+    {
+      "place_id": "ChIJCwY8XimvQjQRHq9RBs16-0Y",
+      "name": "鴻屋蛋包飯",
+      "address": "111台灣臺北市士林區福佳里承德路五段55號",
+      "district": "士林區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，獲得好評。店內貼心備有兒童座椅，並提供兒童餐點。位於兒童新樂園內，可使用園區公共尿布台及哺乳室。"
+    },
+    {
+      "place_id": "ChIJD044UFytQjQRc2pdLITKvgE",
+      "name": "巴特咬吐司",
+      "address": "114台灣臺北市內湖區港華街75號",
+      "district": "內湖區",
+      "summary": "店內經公開地點資訊標示為適合兒童用餐，店內走道寬敞，環境不會過於擁擠。不過店家明確標示不提供兒童餐，且目前整理資料中未提及兒童座椅、餐具或尿布台等設施，建議家長前往時可自行準備相關用品。"
+    },
+    {
+      "place_id": "ChIJDSgyVE-rQjQRXy9Z9vJMWBA",
+      "name": "早安獸",
+      "address": "116台灣臺北市文山區景華里羅斯福路六段267號1樓後棟",
+      "district": "文山區",
+      "summary": "根據目前整理資料，服務人員接待熱忱、服務態度良好。"
+    },
+    {
+      "place_id": "ChIJDV97lMepQjQRlAEkrbTiSfA",
+      "name": "克萊樂創義料理",
+      "address": "103台灣臺北市大同區民權里民權西路144巷9之1號",
+      "district": "大同區",
+      "summary": "根據目前整理資料，手作麵包與特色輕食風味獲得顧客好評。"
+    },
+    {
+      "place_id": "ChIJD_w8zSavQjQRdGub8mniLZU",
+      "name": "食光機芝山店",
+      "address": "111台灣臺北市士林區福華路166巷5號",
+      "district": "士林區",
+      "summary": "店內被標記為適合兒童，且因餐點健康、蔬菜量多，常有家長點餐給幼兒食用。不過店家並未提供專屬兒童餐，且目前整理資料中未提及兒童座椅、餐具或尿布台等親子友善設施，建議家長前往前可先向店家確認相關設備。"
+    },
+    {
+      "place_id": "ChIJDaE7KqyvQjQRCG1Io3sZYMc",
+      "name": "米糕日子",
+      "address": "111台灣臺北市士林區德華里福華路147巷28號",
+      "district": "士林區",
+      "summary": "該餐廳對兒童相當友善，店內有小朋友的玩具和書，也有搖搖馬與彈珠台，讓家長能更輕鬆地用餐；但店內沒有遊樂區。公開地點資訊標示顯示適合兒童，不過店內空間較為精緻、座位數不多，且不提供兒童餐，建議前往時可留意空間配置。"
+    },
+    {
+      "place_id": "ChIJDypQ2IuvQjQRq-eDcQ_5cBU",
+      "name": "無名-中西式早點",
+      "address": "112台灣臺北市北投區關渡里知行路225巷23號",
+      "district": "北投區",
+      "summary": "這家餐廳提供兒童座椅、兒童餐具、環境氣氛適合帶小孩。目前整理資料較少提及其他親子用餐的具體細節，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJE3nu7rWpQjQRaQOvDIWq5FM",
+      "name": "大院子",
+      "address": "106台灣臺北市大安區龍坡里和平東路一段248巷10號1樓",
+      "district": "大安區",
+      "summary": "店內環境寬敞舒適，且公開地點資訊標示顯示適合兒童前往，但店內並不提供兒童餐點。目前整理資料中未提及兒童座椅、餐具或尿布台等設施，建議家長前往前可先行致電詢問。"
+    },
+    {
+      "place_id": "ChIJE5WLUEKpQjQRJclmSUePuLM",
+      "name": "叼饞重慶麻辣炸物-台北大同店",
+      "address": "103台灣臺北市大同區蘭州街107號",
+      "district": "大同區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。"
+    },
+    {
+      "place_id": "ChIJE9VkEfupQjQRDV-R2oV0w70",
+      "name": "姥姥酸菜魚 微風北車店",
+      "address": "100台灣臺北市中正區北平西路3號2樓",
+      "district": "中正區",
+      "summary": "根據目前整理資料，服務人員接待熱忱、服務態度良好。店內貼心備有兒童座椅與專用餐具，可就近使用商場內公共尿布台及哺乳室。"
+    },
+    {
+      "place_id": "ChIJF-MsSGCqQjQR0MhKD-NXpns",
+      "name": "7-ELEVEN 動物園門市",
+      "address": "116台灣臺北市文山區新光路二段30號1樓",
+      "district": "文山區",
+      "summary": "根據目前整理資料，這家餐廳座位較為緊密。"
+    },
+    {
+      "place_id": "ChIJF2DZ87arQjQR-bBHd6PFEUQ",
+      "name": "樂米餐盒_和平店",
+      "address": "10664台灣臺北市大安區龍生里和平東路二段125號",
+      "district": "大安區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。"
+    },
+    {
+      "place_id": "ChIJF52lPTWpQjQROyhGZ90skmk",
+      "name": "三代魚翅羹",
+      "address": "100台灣臺北市中正區光復里開封街一段51號",
+      "district": "中正區",
+      "summary": "根據目前整理資料，這家餐廳氣氛輕鬆親子友善，店內貼心備有兒童座椅。"
+    },
+    {
+      "place_id": "ChIJF7sopmypQjQRuXBLrQ8eXFE",
+      "name": "好地方複合式冰店",
+      "address": "108台灣臺北市萬華區富福里西園路一段199號1樓",
+      "district": "萬華區",
+      "summary": "目前整理資料較少提及與親子用餐相關的具體資訊，僅提到店內座位坐起來舒適，建議前往前可先向店家確認是否有提供兒童座椅或餐具等設施。"
+    },
+    {
+      "place_id": "ChIJFe7qqgCrQjQRzlALrqyVN24",
+      "name": "鴨覓 烤鴨餐廳 - 信義南山店",
+      "address": "110台灣臺北市信義區西村里松智路17號B1",
+      "district": "信義區",
+      "summary": "鴨覓烤鴨餐廳（信義南山店）被公開地點資訊標示為適合兒童，且店內用餐空間舒適。不過，店家明確標示不提供兒童餐，且目前整理資料中未提及兒童座椅、餐具、尿布台或遊戲區等設施，建議家長前往前可先向店家確認相關設備需求。"
+    },
+    {
+      "place_id": "ChIJFekkptgBaDQRNxL7DbKmF8E",
+      "name": "-焱鬼鍋燒專門店-文山三番店 木柵美食 木柵餐廳 木柵小吃 木柵restaurant 動物園美食 政大美食",
+      "address": "116台灣臺北市文山區木新路二段252號",
+      "district": "文山區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。"
+    },
+    {
+      "place_id": "ChIJFfUnrQivQjQRK0wmMZkCGEs",
+      "name": "尾田家オダヤ",
+      "address": "112台灣臺北市北投區大同里大同街21號1樓",
+      "district": "北投區",
+      "summary": "尾田家被標記為適合兒童用餐，但店內並不提供兒童餐點。目前整理資料中未提及兒童座椅、餐具、遊戲區或尿布台等設施，且店內空間與環境資訊較少，建議家長前往前可先向店家確認相關親子友善設施。"
+    },
+    {
+      "place_id": "ChIJFyCtdQGpQjQR4djMX1rPQPs",
+      "name": "渣男 中山店",
+      "address": "10353台灣臺北市大同區承德路二段14號",
+      "district": "大同區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。環境較為安靜，帶小孩用餐時可能需要多加留意。"
+    },
+    {
+      "place_id": "ChIJG3lCC6mpQjQRjdUJV4xltuQ",
+      "name": "醉華樓菜館",
+      "address": "108台灣臺北市萬華區華西街127號",
+      "district": "萬華區",
+      "summary": "根據目前整理資料，這家餐廳氣氛輕鬆熱鬧，但座位較為緊密。"
+    },
+    {
+      "place_id": "ChIJGUQiXkmvQjQRo59OxREZD-I",
+      "name": "士林廚房",
+      "address": "11141台灣臺北市士林區中山北路五段470巷8號1樓",
+      "district": "士林區",
+      "summary": "根據目前整理資料，手作麵包與特色輕食風味獲得顧客好評。環境較為安靜，帶小孩用餐時可能需要多加留意。"
+    },
+    {
+      "place_id": "ChIJGWgKS3SpQjQROonnyuoCVOk",
+      "name": "龍爺鳳娘湯品 圓山店",
+      "address": "10365台灣臺北市大同區至聖里民族西路63號",
+      "district": "大同區",
+      "summary": "該餐廳被標記為適合兒童，但店內並不提供兒童餐。用餐環境方面，目前整理資料指出桌子空間較為狹窄，且目前整理資料中未提及兒童座椅、餐具、遊戲區或尿布台等設施，建議家長前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJGZIplKCtQjQRlsUdzV3hjrg",
+      "name": "YAYOI彌生軒 南港LaLaport店",
+      "address": "115台灣臺北市南港區經貿二路131號5F",
+      "district": "南港區",
+      "summary": "根據目前整理資料，店內用餐空間規劃寬敞，活動動線舒適。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點，可就近使用商場內公共尿布台及哺乳室。"
+    },
+    {
+      "place_id": "ChIJGaiHCqmpQjQReQD8Dmqjdvk",
+      "name": "小王煮瓜",
+      "address": "108台灣臺北市萬華區華西街17之4號攤位153號",
+      "district": "萬華區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。座位較為緊密，適合帶孩子前來用餐。"
+    },
+    {
+      "place_id": "ChIJHR0dIIGvQjQRZVRBYUYu-_s",
+      "name": "Matcha Prince茶茶王国のおうじちゃま-士林店",
+      "address": "111台灣臺北市士林區福林里中正路235巷20號",
+      "district": "士林區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。"
+    },
+    {
+      "place_id": "ChIJHT9SJOivQjQRuSqsS7lwkpY",
+      "name": "BOE Cuisine 歐點餐食",
+      "address": "111019台灣臺北市士林區天福里忠誠路二段166巷15號1樓",
+      "district": "士林區",
+      "summary": "根據公開地點資訊標示，該餐廳被標示為不適合兒童且不提供兒童餐，建議家長在規劃用餐時將此因素納入考量。"
+    },
+    {
+      "place_id": "ChIJHwH_sC8AaDQR4JPPrq-ZgMY",
+      "name": "奉陪茶莊",
+      "address": "116台灣臺北市文山區指南里指南路三段38巷37-1號2 樓",
+      "district": "文山區",
+      "summary": "這家餐廳提供兒童座椅、兒童餐具、環境氣氛適合帶小孩。目前整理資料較少提及其他親子用餐的具體細節，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJIwQ334qrQjQRSOLTH_2l5EA",
+      "name": "恰到好處本舖",
+      "address": "116台灣臺北市文山區萬芳里萬安街No. 17號",
+      "district": "文山區",
+      "summary": "根據目前整理資料，餐點與整體服務品質獲得顧客良好回饋。"
+    },
+    {
+      "place_id": "ChIJJ_ukvpapQjQRIAN7BSlzwiA",
+      "name": "漫漫喫",
+      "address": "104台灣臺北市中山區民安里長安西路12號",
+      "district": "中山區",
+      "summary": "根據目前整理資料，用餐環境整潔，衛生維持良好。環境較為安靜，帶小孩用餐時可能需要多加留意。此外，店內設有獨立包廂（有最低消費或折抵限制），為需要隱私的聚會提供舒適的空間。"
+    },
+    {
+      "place_id": "ChIJK1F48RerQjQRG-IT9J-isRg",
+      "name": "DON DON DONKI 忠孝新生店",
+      "address": "100台灣臺北市中正區梅花里八德路一段55號B1",
+      "district": "中正區",
+      "summary": "目前整理資料較少提及與親子用餐相關的具體資訊，且店內空間較為擁擠，建議前往前可先向店家確認相關設施。"
+    },
+    {
+      "place_id": "ChIJK5AMz1mrQjQRmrhEjMzK9dU",
+      "name": "帝王食補 世貿店",
+      "address": "115台灣臺北市南港區新富里忠孝東路七段633號",
+      "district": "南港區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。"
+    },
+    {
+      "place_id": "ChIJK6DAeVCuQjQRaf0HHeCGHfc",
+      "name": "轉角小市場",
+      "address": "112台灣臺北市北投區長安里光明路148-1號",
+      "district": "北投區",
+      "summary": "店內被公開地點資訊標示為適合兒童，且目前整理資料中提到適合親子共餐，氣氛友善。不過店家明確標示不提供兒童餐，且目前整理資料中未提及兒童座椅、餐具、遊戲區或尿布台等設施，建議家長前往前可先向店家確認相關設備需求。"
+    },
+    {
+      "place_id": "ChIJKX8_B98BaDQRNv-wGZXLk7U",
+      "name": "德意事歐式美食屋",
+      "address": "116台灣臺北市文山區木新路三段97號",
+      "district": "文山區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。"
+    },
+    {
+      "place_id": "ChIJK_Cgj4upQjQRDrLCS1URSQQ",
+      "name": "義樂麵屋",
+      "address": "100台灣臺北市中正區文盛里羅斯福路三段284巷5號",
+      "district": "中正區",
+      "summary": "店內的用餐環境評價舒適，但店家資訊已標記不提供兒童餐。目前整理資料較少提及與親子用餐相關的具體資訊（如兒童椅、餐具或尿布台等），建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJKcS7n-6tQjQRbJt52ZpsE9A",
+      "name": "轉角貓",
+      "address": "114台灣臺北市內湖區紫星里成功路三段187巷3弄2號",
+      "district": "內湖區",
+      "summary": "根據 公開地點資訊標示，該餐廳被歸類為適合兒童，但並不提供兒童餐。目前整理資料中未提及兒童座椅、餐具、尿布台或遊戲區等具體親子設施，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJL3zx0rgBaDQRdw7IJgZql9g",
+      "name": "寶杏堂 手切滷肉飯 溫補羊肉湯",
+      "address": "116台灣臺北市文山區木新路三段179號",
+      "district": "文山區",
+      "summary": "根據目前整理資料，用餐環境舒適，氣氛輕鬆愜意。"
+    },
+    {
+      "place_id": "ChIJLU89EYKpQjQRoPkxb7kg0Aw",
+      "name": "吐司利亞 永康店",
+      "address": "106台灣臺北市大安區信義路二段200號",
+      "district": "大安區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。"
+    },
+    {
+      "place_id": "ChIJLYuEGmKpQjQRPcp6vt8pTnM",
+      "name": "4+ Break Breakfast",
+      "address": "10491台灣臺北市中山區朱園里松江路53號",
+      "district": "中山區",
+      "summary": "該餐廳經 公開地點資訊標示為適合兒童，但店家資訊同時註明不提供兒童餐。目前整理資料中未提及兒童座椅、遊戲區、尿布台或兒童餐具等具體親子設施，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJLZxabbKpQjQR6cN-5ukbq78",
+      "name": "忠青商行",
+      "address": "100台灣臺北市中正區青島東路6-1號",
+      "district": "中正區",
+      "summary": "根據目前整理資料，店內用餐空間規劃寬敞，活動動線舒適。"
+    },
+    {
+      "place_id": "ChIJM9l4kmOpQjQR9DEpCZWOlCM",
+      "name": "遊霂食光 MuMu Land",
+      "address": "108台灣臺北市萬華區富民里西園路一段145號號店坊B2樓-7",
+      "district": "萬華區",
+      "summary": "根據目前整理資料，店內規劃與氛圍對攜帶幼童的家庭相當友善。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點，設有遊戲區讓孩子放電。"
+    },
+    {
+      "place_id": "ChIJMW8gEBerQjQRgGpRidgSAIQ",
+      "name": "REALHOMIEBREAKFAST （景興店）",
+      "address": "116台灣臺北市文山區景東里景興路111號",
+      "district": "文山區",
+      "summary": "根據目前整理資料，用餐環境整潔，衛生維持良好。座位較為緊密，適合帶孩子前來用餐。"
+    },
+    {
+      "place_id": "ChIJM_1jMXupQjQRYOTnIHJY2uA",
+      "name": "一碗来",
+      "address": "100台灣臺北市中正區梅花里八德路一段1號中4D, 華山1914文創園區內 中4D館",
+      "district": "中正區",
+      "summary": "根據目前整理資料，用餐環境整潔，衛生維持良好。環境較為安靜，帶小孩用餐時可能需要多加留意。"
+    },
+    {
+      "place_id": "ChIJMcs8xF2rQjQR7BccAbbR-jM",
+      "name": "TG 蔬坊 The Greenery 南港環球店",
+      "address": "115台灣臺北市南港區新光里忠孝東路七段371號B1",
+      "district": "南港區",
+      "summary": "根據目前整理資料，服務人員接待熱忱、服務態度良好。可就近使用商場內公共尿布台及哺乳室。"
+    },
+    {
+      "place_id": "ChIJN1YpLEWuQjQRrdssZr1Xj8o",
+      "name": "水美食府",
+      "address": "112台灣臺北市北投區光明路224號2樓",
+      "district": "北投區",
+      "summary": "根據目前整理資料，目前整理資料較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJN8glUJSrQjQRQPm3qjfy9HA",
+      "name": "好餵早點",
+      "address": "105台灣臺北市松山區南京東路五段66巷25號",
+      "district": "松山區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。"
+    },
+    {
+      "place_id": "ChIJNR6EwOerQjQRdm-NnC3KFgg",
+      "name": "田中園(微風南京店）",
+      "address": "105台灣臺北市松山區中正里南京東路三段303巷14弄2號",
+      "district": "松山區",
+      "summary": "這家餐廳提供兒童座椅、兒童餐具、可使用商場附設之尿布台、環境氣氛適合帶小孩。目前整理資料較少提及其他親子用餐的具體細節，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJNZqcBoerQjQRvs1gO8HapYA",
+      "name": "黑馬小廚",
+      "address": "105台灣臺北市松山區寶清街71號",
+      "district": "松山區",
+      "summary": "根據目前整理資料，手工甜點與下午茶點心口感精緻，評價優良。"
+    },
+    {
+      "place_id": "ChIJNc0LPgutQjQRrSvB7evg2BE",
+      "name": "島語 台北漢來店",
+      "address": "115台灣臺北市南港區經貿一路168號2樓",
+      "district": "南港區",
+      "summary": "根據目前整理資料，手工甜點與下午茶點心口感精緻，評價優良。店內貼心備有兒童座椅與專用餐具。"
+    },
+    {
+      "place_id": "ChIJNdc2GH8BaDQRKB38TnUNpwg",
+      "name": "貓空 找茶屋 found.your.tea",
+      "address": "116台灣臺北市文山區指南里指南路三段38巷33-5 號對面 (請找雙橡園招牌入口下來左轉/ 無停車場開車請找白線停車/ 山區一定有蚊子請自備防蚊備品",
+      "district": "文山區",
+      "summary": "該餐廳環境舒適且適合家庭聚會，公開地點資訊標示顯示其適合兒童，但店內並不提供兒童餐。由於目前整理資料中未提及兒童座椅、餐具或尿布台等設施，建議攜帶幼童前往時可先向店家確認相關設備。"
+    },
+    {
+      "place_id": "ChIJNeL_00SpQjQR42XSXxCX1NQ",
+      "name": "老闆屬狗 So Good",
+      "address": "10491台灣臺北市中山區恆安里雙城街17巷32號",
+      "district": "中山區",
+      "summary": "該餐廳被標記為適合兒童，但店內空間較為狹小且有油煙味，且店家資訊顯示不提供兒童餐。目前整理資料中未提及兒童椅、餐具或尿布台等設施，建議攜帶幼童前往前可先向店家確認相關設備。"
+    },
+    {
+      "place_id": "ChIJNfWwdpqpQjQRLmhpS1LGEzU",
+      "name": "鍋HoMe即享鍋",
+      "address": "103台灣臺北市大同區玉泉里鄭州路125號",
+      "district": "大同區",
+      "summary": "根據目前整理資料，店內採光充足、環境明亮。座位較為緊密，適合帶孩子前來用餐。"
+    },
+    {
+      "place_id": "ChIJO16aXm-pQjQR5OsC7hn8zKo",
+      "name": "梅子台灣料理餐廳 林森老店",
+      "address": "10443台灣臺北市中山區林森北路107巷1號",
+      "district": "中山區",
+      "summary": "根據目前整理資料，服務人員接待熱忱、服務態度良好。"
+    },
+    {
+      "place_id": "ChIJO6ccWQCqQjQRlD4wgKxecCM",
+      "name": "景美麵點小吃",
+      "address": "116台灣臺北市文山區景美里萬慶街13巷29號",
+      "district": "文山區",
+      "summary": "根據目前整理資料，服務人員接待熱忱、服務態度良好。"
+    },
+    {
+      "place_id": "ChIJOZb-_gWtQjQRXA4QgcB7KLE",
+      "name": "柚子花花青春客家菜(南港LalaPort)",
+      "address": "115台灣臺北市南港區經貿二路131號6樓",
+      "district": "南港區",
+      "summary": "根據目前整理資料，服務人員接待熱忱、服務態度良好。可就近使用商場內公共尿布台及哺乳室。"
+    },
+    {
+      "place_id": "ChIJObAPmYyuQjQRpFI6mLHcmT0",
+      "name": "水龜伯古早味",
+      "address": "112台灣臺北市北投區石牌路二段75巷8號",
+      "district": "北投區",
+      "summary": "根據目前整理資料，手工甜點與下午茶點心口感精緻，評價優良。"
+    },
+    {
+      "place_id": "ChIJP6YFq-urQjQRxiqqPoCY7cE",
+      "name": "青丹扎西_南港展覽館店",
+      "address": "115台灣臺北市南港區南港路一段53號",
+      "district": "南港區",
+      "summary": "根據目前整理資料，目前整理資料較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJP8T_FPapQjQROFmvlR8zt9g",
+      "name": "爐子煮賣所 Forno & Stufa",
+      "address": "116台灣臺北市文山區萬和里汀州路四段132號1樓",
+      "district": "文山區",
+      "summary": "根據目前整理資料，手作麵包與特色輕食風味獲得顧客好評。"
+    },
+    {
+      "place_id": "ChIJP9NOG2yvQjQRaS3wT8t85kY",
+      "name": "John的料理",
+      "address": "111台灣臺北市士林區福林路197號1樓",
+      "district": "士林區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。"
+    },
+    {
+      "place_id": "ChIJPZVQ1FipQjQRHqGDCfQ8glU",
+      "name": "紅巷 Red Alley",
+      "address": "108台灣臺北市萬華區新起里漢中街171巷3號",
+      "district": "萬華區",
+      "summary": "根據目前整理資料，服務人員接待熱忱、服務態度良好。"
+    },
+    {
+      "place_id": "ChIJQ-BOjHquQjQR6wF4HJDqnaE",
+      "name": "察爾斯廚房 華山餐廳",
+      "address": "100台灣臺北市中正區梅花里八德路一段1號華山文創園區中3A之一",
+      "district": "中正區",
+      "summary": "根據目前整理資料，手作麵包與特色輕食風味獲得顧客好評。"
+    },
+    {
+      "place_id": "ChIJQQ4fUYqpQjQRo8HegHH7Yew",
+      "name": "大一女美食餐廳",
+      "address": "106台灣臺北市大安區學府里舟山路280巷",
+      "district": "大安區",
+      "summary": "店內經公開地點資訊標示為適合兒童，但目前未提供兒童餐。由於目前整理資料中較少提及兒童椅、餐具、遊戲區或尿布台等具體親子設施資訊，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJR-GbSXusQjQRGliZVJ6iaSE",
+      "name": "陽光廚坊",
+      "address": "114台灣臺北市內湖區港富里環山路三段3號",
+      "district": "內湖區",
+      "summary": "該餐廳經公開地點資訊標示為適合兒童，但店內空間較為小巧精緻，且明確不提供兒童餐。目前整理資料中未提及兒童座椅、餐具、遊戲區或尿布台等設施，建議家長前往前可先向店家確認相關設備。"
+    },
+    {
+      "place_id": "ChIJRRkE4_yrQjQR0Wxxt_bOVuk",
+      "name": "Cow過來（原悅喀西餐）",
+      "address": "116台灣臺北市文山區木柵路一段222號",
+      "district": "文山區",
+      "summary": "根據目前整理資料，排餐與肉類料理火候恰當、肉質扎實，受食客肯定。"
+    },
+    {
+      "place_id": "ChIJRTWlIQCrQjQRRSYVaiqbfAg",
+      "name": "肉肉大米",
+      "address": "110台灣臺北市信義區西村里松壽路11號B2",
+      "district": "信義區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，獲得好評。店內貼心備有兒童座椅與專用餐具，可就近使用商場內公共尿布台及哺乳室。"
+    },
+    {
+      "place_id": "ChIJRwWA2S2rQjQRiO7WShOX2Ms",
+      "name": "向晨蛋餅專賣店",
+      "address": "115台灣臺北市南港區新光里昆陽街151號",
+      "district": "南港區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。"
+    },
+    {
+      "place_id": "ChIJS1yIAbmrQjQRiAmG-fuFu_0",
+      "name": "Mo's Kitchen 亮萌私房料理",
+      "address": "112台灣台北市北投区大同里大业路554號1樓",
+      "district": "",
+      "summary": "根據目前整理資料，服務人員接待熱忱、服務態度良好。環境較為安靜，帶小孩用餐時可能需要多加留意。"
+    },
+    {
+      "place_id": "ChIJS72tQS6pQjQRYdRsgI8Ay-E",
+      "name": "古摩尼 GOOD MORNING",
+      "address": "10491台灣臺北市中山區朱園里松江路97巷4號",
+      "district": "中山區",
+      "summary": "根據目前整理資料，餐點與整體服務品質獲得顧客良好回饋。店內提供兒童餐點。"
+    },
+    {
+      "place_id": "ChIJSVOJyLipQjQRT_OG-Tg1QRg",
+      "name": "PAPA RESTAURANT （台北師大店）",
+      "address": "106台灣臺北市大安區師大路80巷1-1號",
+      "district": "大安區",
+      "summary": "根據目前整理資料，精緻的燉飯與焗烤料理深受顧客好評。此外，店內提供包場服務，空間寬敞且配備完善，非常適合商務會議、公司聚餐或大型活動。"
+    },
+    {
+      "place_id": "ChIJSXag0BKvQjQR2r-f-_NIhZo",
+      "name": "水鳥公園52號",
+      "address": "112台灣臺北市北投區關渡里知行路260巷52號",
+      "district": "北投區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，獲得好評。氣氛輕鬆親子友善，適合帶孩子前來用餐。"
+    },
+    {
+      "place_id": "ChIJSZ89XCmrQjQRlzpduQTbttA",
+      "name": "筷炒KUAICHAO",
+      "address": "11073台灣臺北市信義區松仁路58號14樓",
+      "district": "信義區",
+      "summary": "店內經 公開地點資訊標示為適合兒童，且店內環境舒適、座位安排寬敞，不像傳統熱炒店擁擠，適合家庭聚餐。不過店家並未提供兒童餐，且目前整理資料中未提及兒童座椅、餐具或尿布台等設施，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJT4KnlrapQjQRXX-2crB-I-8",
+      "name": "雞泰炒 《Kanokwan老麵攤總店》 《隱藏版料理》",
+      "address": "10485台灣臺北市中山區中央里南京東路二段163號",
+      "district": "中山區",
+      "summary": "根據 公開地點資訊標示，該餐廳被標示為適合兒童，但並不提供兒童餐。目前整理資料中未提及兒童座椅、餐具、尿布台或遊戲區等具體親子設施，建議前往用餐前可先致電店家確認相關設備需求。"
+    },
+    {
+      "place_id": "ChIJT5DCioGsQjQRbQedv2ZyHgA",
+      "name": "Home Garden餐廳-昇恆昌旗艦店",
+      "address": "11469台灣臺北市內湖區金莊路129號5F",
+      "district": "內湖區",
+      "summary": "根據目前整理資料，特調咖啡與各式飲品口感精緻。空間寬敞舒適，適合帶孩子前來用餐。此外，店內還設有舒適的獨立包廂空間。"
+    },
+    {
+      "place_id": "ChIJTZdhJ5OuQjQRc3k35AVkjHA",
+      "name": "必勝客 石牌致遠店",
+      "address": "11290台灣臺北市北投區文林里致遠一路一段103號",
+      "district": "北投區",
+      "summary": "該店經 公開地點資訊標示為適合兒童，但未提供兒童餐。目前目前整理資料多集中於外送延遲、訂單處理及餐點品質問題，並未提及店內是否有兒童座椅、餐具或遊戲區等親子設施。"
+    },
+    {
+      "place_id": "ChIJTb-0xPqrQjQRyldoASUCmPU",
+      "name": "gubami Social",
+      "address": "110台灣臺北市信義區松壽路9號6樓",
+      "district": "信義區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，獲得好評。可就近使用商場內公共尿布台及哺乳室。"
+    },
+    {
+      "place_id": "ChIJTx9g6ImqQjQRS0zkHp2PCwM",
+      "name": "老虎店",
+      "address": "116台灣臺北市文山區萬興里新光路二段30號",
+      "district": "文山區",
+      "summary": "根據目前整理資料，這家餐廳氣氛輕鬆親子友善。"
+    },
+    {
+      "place_id": "ChIJTxZvioStQjQRnhz-x1rJLx8",
+      "name": "Mini Club",
+      "address": "10491台灣臺北市中山區區樂群三路200號 3F",
+      "district": "中山區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，獲得好評。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點，設有遊戲區讓孩子放電，店內設有尿布台或哺乳室。"
+    },
+    {
+      "place_id": "ChIJU0FslFauQjQRUCV8bMYsq3k",
+      "name": "上清料理",
+      "address": "112台灣臺北市北投區大同里大興街23巷21號",
+      "district": "北投區",
+      "summary": "根據目前整理資料，店內採光充足、環境明亮。"
+    },
+    {
+      "place_id": "ChIJU0O98aesQjQRXsDcaOW-mzw",
+      "name": "樂雅樂餐廳 南港店",
+      "address": "115台灣臺北市南港區三重里經貿二路66之1號",
+      "district": "南港區",
+      "summary": "根據目前整理資料，店內用餐空間規劃寬敞，活動動線舒適。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點。"
+    },
+    {
+      "place_id": "ChIJU32eU66pQjQRhbvE4r33OLE",
+      "name": "百宴自助餐廳",
+      "address": "108台灣臺北市萬華區艋舺大道167號5F",
+      "district": "萬華區",
+      "summary": "根據目前整理資料，手工甜點與下午茶點心口感精緻，評價優良。"
+    },
+    {
+      "place_id": "ChIJU7cRla6pQjQRhchv-ZhGAis",
+      "name": "艋舺熱海 海鮮餐廳",
+      "address": "108台灣臺北市萬華區和平西路三段162號",
+      "district": "萬華區",
+      "summary": "根據目前整理資料，日式料理與主食口感風味良好。"
+    },
+    {
+      "place_id": "ChIJVQR_uWusQjQRYNp5Wdmei40",
+      "name": "Ho'me廚房&親子友善餐廳",
+      "address": "79號, 文湖街內湖區臺北市台灣 11445",
+      "district": "內湖區",
+      "summary": "根據目前整理資料，這家餐廳是極熱門的慶生與抓周派對舉辦地，家長特別稱讚餐點美味且服務親切。店內為親子用餐配備了齊全的友善設施，包含兒童座椅、專用碗盤餐具、哺乳室與尿布台，並設有精緻的遊戲區讓小孩放電，非常適合多組家庭一同前來聚會。此外，店內也提供包場服務，是舉辦各式團體活動與親友聚餐的優質選擇。"
+    },
+    {
+      "place_id": "ChIJVT6RPpevQjQRCAJVSSETNQ4",
+      "name": "好食居",
+      "address": "112台灣臺北市北投區明德路331巷35號1樓",
+      "district": "北投區",
+      "summary": "根據目前整理資料，店內採光充足、環境明亮。"
+    },
+    {
+      "place_id": "ChIJVTNtvfSuQjQRRQa96XsYbQ4",
+      "name": "仙客來海鮮庭園餐廳",
+      "address": "112台灣臺北市北投區東華街二段114號",
+      "district": "北投區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。"
+    },
+    {
+      "place_id": "ChIJVdLedLysQjQRRsgnoYBGG_M",
+      "name": "花暖簾",
+      "address": "114台灣臺北市內湖區葫洲里康寧路三段16巷126號",
+      "district": "內湖區",
+      "summary": "店內經公開地點資訊標示為適合兒童的餐廳，店內環境舒適且座位充足。不過店家並未提供兒童餐，且目前整理資料中未提及兒童座椅、餐具或尿布台等設施，建議家長前往前可先向店家確認相關需求。"
+    },
+    {
+      "place_id": "ChIJW5esxZeuQjQRlWxyAQ4gFyE",
+      "name": "士林廣澤擔仔麵",
+      "address": "111台灣臺北市士林區福華路10號",
+      "district": "士林區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，獲得好評。氣氛輕鬆親子友善，適合帶孩子前來用餐。此外，店內還設有舒適的獨立包廂空間。"
+    },
+    {
+      "place_id": "ChIJW90YbsirQjQRidMprboPfUg",
+      "name": "Shake your dreams! 田木昔",
+      "address": "116台灣臺北市文山區景行里羅斯福路六段455巷18號",
+      "district": "文山區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。"
+    },
+    {
+      "place_id": "ChIJWTAAaEOpQjQRucZJhb_zETY",
+      "name": "No.18 Dream Breakfast",
+      "address": "10491台灣臺北市中山區聚葉里中山北路二段137巷18號",
+      "district": "中山區",
+      "summary": "根據目前整理資料，餐點與整體服務品質獲得顧客良好回饋。空間寬敞舒適，適合帶孩子前來用餐。"
+    },
+    {
+      "place_id": "ChIJWUhu1qesQjQRuDKEkbrAZ1g",
+      "name": "PappaRich金爸爸-南港中信店",
+      "address": "115台灣臺北市南港區三重里經貿二路166號中國信託金融園區1樓",
+      "district": "南港區",
+      "summary": "PappaRich金爸爸南港中信店對親子相當友善，公開地點資訊標示顯示提供兒童餐及適合兒童的環境。店內用餐空間寬敞且座位不擁擠，適合家庭聚餐，但目前整理資料中未提及兒童餐具、遊戲區或尿布台等具體設施。"
+    },
+    {
+      "place_id": "ChIJW_lv_hmpQjQRFslAyToEpRE",
+      "name": "YABI KITCHEN 台北誠品南西店",
+      "address": "104台灣臺北市中山區南京西路14號2F",
+      "district": "中山區",
+      "summary": "根據目前整理資料，店內用餐空間規劃寬敞，活動動線舒適。店內貼心備有兒童座椅與專用餐具，可就近使用商場內公共尿布台及哺乳室。"
+    },
+    {
+      "place_id": "ChIJWaAsubqsQjQRf7ZcgWiLzDE",
+      "name": "名順海鮮料理",
+      "address": "114台灣臺北市內湖區五分里東湖路108號",
+      "district": "內湖區",
+      "summary": "該餐廳被標記為適合兒童用餐，但店內並不提供兒童餐。由於目前整理資料中未提及兒童椅、餐具或尿布台等設施，且店內空間與環境資訊較少，建議家長前往前可先致電確認相關親子友善設施。"
+    },
+    {
+      "place_id": "ChIJXcfVuYSrQjQROcYuv1Ti-Dg",
+      "name": "文",
+      "address": "106台灣臺北市大安區文昌街80號1樓",
+      "district": "大安區",
+      "summary": "根據目前整理資料，手作麵包與特色輕食風味獲得顧客好評。"
+    },
+    {
+      "place_id": "ChIJXw3oGNWpQjQR4CS7NTPdKss",
+      "name": "英吉利私房料理(預約制)",
+      "address": "104台灣臺北市中山區民安里中山北路一段82號二樓",
+      "district": "中山區",
+      "summary": "該餐廳被標記為適合兒童，且設有獨立包廂，適合家庭聚餐。不過公開地點資訊顯示不提供兒童餐，且目前整理資料中未提及兒童座椅、餐具或尿布台等設施，建議家長前往前可先向店家確認相關需求。"
+    },
+    {
+      "place_id": "ChIJY3SpVBqpQjQR2n727CJgCuk",
+      "name": "北棲 邸家 North house -",
+      "address": "100台灣臺北市中正區幸福里忠孝東路二段40號1樓",
+      "district": "中正區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，獲得好評。氣氛輕鬆熱鬧，儘管座位較為緊密，但公開地點資訊標示此處適合兒童，預期會提供兒童椅及兒童餐具，讓帶孩子的家庭也能安心用餐。"
+    },
+    {
+      "place_id": "ChIJY4KDoKmpQjQR2RFjiDc6c2Y",
+      "name": "源芳刈包",
+      "address": "108台灣臺北市萬華區華西街17-2號",
+      "district": "萬華區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，獲得好評。氣氛輕鬆親子友善，適合帶孩子前來用餐。"
+    },
+    {
+      "place_id": "ChIJYYuh_6-uQjQRdRs0Vw2YV4k",
+      "name": "辛發亭冰品名店",
+      "address": "111台灣臺北市士林區仁勇里安平街1號",
+      "district": "士林區",
+      "summary": "根據目前整理資料，用餐環境整潔，衛生維持良好。"
+    },
+    {
+      "place_id": "ChIJZ4DQRqKpQjQR9IJ4UG9nqus",
+      "name": "蕃薯藤自然食堂-台北植物園店",
+      "address": "100台灣臺北市中正區南門里南海路41號5樓",
+      "district": "中正區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，獲得好評。氣氛輕鬆且親子友善，公開地點資訊標示此處適合兒童，預期會貼心提供兒童椅及兒童餐具，讓攜帶孩子的家庭也能安心用餐。"
+    },
+    {
+      "place_id": "ChIJZ9PLeZqrQjQR5A9V3xca_kw",
+      "name": "虎笑麵屋 無訂位服務",
+      "address": "105台灣臺北市松山區三民路113巷18號5樓",
+      "district": "松山區",
+      "summary": "根據目前整理資料，目前整理資料較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJZRDvqRKrQjQRGcKD88AZjA0",
+      "name": "早安美芝城 北市永吉概念店",
+      "address": "11068台灣臺北市信義區五全里永吉路326巷42號",
+      "district": "信義區",
+      "summary": "該店被 公開地點資訊標示為適合兒童，且用餐環境舒適，服務態度親切。不過目前整理資料中未提及兒童座椅、餐具、遊戲區或尿布台等具體親子設施，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJZcgOlIeuQjQRutc16fs58Hg",
+      "name": "八藤家",
+      "address": "111台灣臺北市士林區天玉里天母西路41巷1弄2號",
+      "district": "士林區",
+      "summary": "八藤家有提供兒童椅、兒童餐與兒童餐具，對帶小孩用餐的家庭更友善，適合親子一起前往。"
+    },
+    {
+      "place_id": "ChIJZe-3S7qpQjQRomolCrIbqkM",
+      "name": "流金歲月紅茶餐坊",
+      "address": "108台灣臺北市萬華區新和里青年路26號",
+      "district": "萬華區",
+      "summary": "根據目前整理資料，這家餐廳有提供兒童餐點，但無兒童座椅與遊樂設施。另外，店內座位寬敞但有高低差，可能不適合推車進入。"
+    },
+    {
+      "place_id": "ChIJZxTUNKWuQjQRslb5hyPdbtg",
+      "name": "滿佳香",
+      "address": "111台灣臺北市士林區仁勇里大北路56號",
+      "district": "士林區",
+      "summary": "根據目前整理資料，手作麵包與特色輕食風味獲得顧客好評。座位較為緊密，適合帶孩子前來用餐。"
+    },
+    {
+      "place_id": "ChIJZxaW3SOrQjQRGzm1zwc6r2U",
+      "name": "活海鮮私廚（預約制需提前預約）",
+      "address": "105台灣臺北市松山區民權東路三段106巷3弄26號",
+      "district": "松山區",
+      "summary": "根據目前整理資料，這家餐廳氣氛輕鬆且親子友善。公開地點資訊標示此處適合兒童，並確認店內不僅提供兒童餐點，預期也會貼心備有兒童椅及兒童餐具，讓攜帶孩子的家庭能安心用餐。"
+    },
+    {
+      "place_id": "ChIJ_3LZiLyvQjQR3SvEA0zV4Hk",
+      "name": "大俠請留步",
+      "address": "111台灣臺北市士林區文林路188號",
+      "district": "士林區",
+      "summary": "根據目前整理資料，目前整理資料較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJ_QSp5uWpQjQRRuAnY7GgxAY",
+      "name": "長春亰華海鮮餐廳",
+      "address": "10491台灣臺北市中山區康樂里長春路26號",
+      "district": "中山區",
+      "summary": "該餐廳經 公開地點資訊標示為適合兒童，適合家庭聚餐，但店家資訊顯示不提供兒童餐。目前整理資料中未提及兒童椅、餐具、尿布台或遊戲區等設施，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJ_VhAK9GpQjQRgkQFRTEdgDE",
+      "name": "馬友友印度快餐店 Dhaba by MIK",
+      "address": "105台灣臺北市松山區復勢里光復北路10號",
+      "district": "松山區",
+      "summary": "根據 公開地點資訊標示，該餐廳被歸類為適合兒童用餐，但並不提供專屬的兒童餐點。目前整理資料中未提及兒童座椅、餐具、尿布台或遊戲區等設施，建議攜帶幼童前往時可先向店家確認相關設備需求。"
+    },
+    {
+      "place_id": "ChIJ_Y6YDzIAaDQRRdbdkfSUIPI",
+      "name": "貓空茶言觀舍",
+      "address": "116台灣臺北市文山區指南里指南路三段38巷20號",
+      "district": "文山區",
+      "summary": "店內被公開地點資訊標示為適合兒童，且餐點口味受到好評，其中糖醋魚塊非常適合小孩食用。不過店內空間較為狹小，僅有約10張桌子，且店家資訊顯示不提供兒童餐，亦無相關親子設施的明確資訊，建議前往前可先向店家確認是否有兒童椅等設備。"
+    },
+    {
+      "place_id": "ChIJ_cGoEQCvQjQRaXdtAsUBw2c",
+      "name": "雞老闆 桶仔雞 士林店",
+      "address": "111台灣臺北市士林區文林路101巷2號",
+      "district": "士林區",
+      "summary": "根據目前整理資料，服務人員接待熱忱、服務態度良好。氣氛輕鬆親子友善，適合帶孩子前來用餐。"
+    },
+    {
+      "place_id": "ChIJaSZ-CpupQjQRaqvVbaJ4FaM",
+      "name": "大樹先生的家",
+      "address": "106台灣臺北市大安區潮州街38號",
+      "district": "大安區",
+      "summary": "根據目前整理資料，店內提供的義大利麵等義式餐點口感良好，獲得顧客肯定。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點，設有遊戲區讓孩子放電，店內設有尿布台或哺乳室。此外，店內設有具包廂感的舒適座位，為顧客提供相對獨立且放鬆的用餐環境。"
+    },
+    {
+      "place_id": "ChIJad0qbLarQjQROo8t5fAtfhE",
+      "name": "岡心食堂",
+      "address": "106台灣臺北市大安區敦化南路一段190巷43號1樓",
+      "district": "大安區",
+      "summary": "根據目前整理資料，目前整理資料較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJawiLIGGrQjQRXjfuz42WHf8",
+      "name": "綠色舞動 微風南京店",
+      "address": "105台灣臺北市松山區中正里南京東路三段335巷5-3號",
+      "district": "松山區",
+      "summary": "這家餐廳提供兒童座椅、兒童餐具，環境氣氛適合帶小孩。目前整理資料較少提及其他親子用餐的具體細節，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJb5lNxSqtQjQRf59m5TxmF_o",
+      "name": "大春廚房",
+      "address": "114台灣臺北市內湖區紫星里成功路四段41巷7弄2號",
+      "district": "內湖區",
+      "summary": "根據 公開地點資訊標示，該餐廳被標示為適合兒童，但並不提供專屬的兒童餐點。目前整理資料中未提及兒童座椅、餐具、尿布台或遊戲區等設施，建議前往用餐前可先致電店家確認相關親子友善設備的細節。"
+    },
+    {
+      "place_id": "ChIJb60C59GpQjQRqYxtu0IA9dI",
+      "name": "芙稻菓室 Fú Dàu Pastry Studio",
+      "address": "10344台灣臺北市大同區朝陽里延平北路二段25號1F",
+      "district": "大同區",
+      "summary": "芙稻菓室的用餐環境寬敞舒適，適合放鬆享用甜點。目前整理資料較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認是否有兒童座椅或相關友善設施。"
+    },
+    {
+      "place_id": "ChIJb9CZ9m6pQjQRZ7PgTEtMDOo",
+      "name": "嘉廚 Collective Excellent restaurant",
+      "address": "104台灣臺北市中山區中山北路二段96-1號雙連郵局隔壁",
+      "district": "中山區",
+      "summary": "該餐廳經公開地點資訊標示為適合兒童，但店內空間較為狹小且背景音樂音量較大，環境較為熱鬧。餐廳不提供兒童餐，且目前整理資料中未提及兒童座椅、餐具或尿布台等設施。餐廳設有適合包場的空間，建議家長前往前可先致電確認相關親子友善設備。"
+    },
+    {
+      "place_id": "ChIJbxZcI3upQjQRw7T6jN5BexU",
+      "name": "華山青鳥書店",
+      "address": "100台灣臺北市中正區八德路一段1號2樓",
+      "district": "中正區",
+      "summary": "根據目前整理資料，店內用餐空間規劃寬敞，活動動線舒適。環境較為安靜，帶小孩用餐時可能需要多加留意。"
+    },
+    {
+      "place_id": "ChIJc1XPj76rQjQRZvGXOQPchqA",
+      "name": "馬克與鐵鍋-小巨蛋店",
+      "address": "10580台灣臺北市松山區東勢里南京東路四段75巷14弄3號1樓",
+      "district": "松山區",
+      "summary": "根據 公開地點資訊標示，該餐廳被標示為適合兒童，但並不提供兒童餐。目前整理資料中未提及兒童座椅、餐具、尿布台或遊戲區等具體親子設施，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJcQV2D2GrQjQRNnfEuAacZp0",
+      "name": "YABI KITCHEN DREAM PLAZA店",
+      "address": "4樓, No. 11號松高路信義區臺北市台灣 11073",
+      "district": "信義區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，獲得好評。店內貼心備有兒童座椅與專用餐具。"
+    },
+    {
+      "place_id": "ChIJcQY8MKipQjQRUUFUWrZM7Fg",
+      "name": "157料理",
+      "address": "108台灣臺北市萬華區富民里貴陽街二段198號",
+      "district": "萬華區",
+      "summary": "這家餐廳提供兒童座椅、兒童餐具、環境氣氛適合帶小孩。目前整理資料較少提及其他親子用餐的具體細節，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJcSTTfwOqQjQReskPxion2iQ",
+      "name": "Chaup ! 轉角冰",
+      "address": "116台灣臺北市文山區景華里景興路42巷8弄1號",
+      "district": "文山區",
+      "summary": "根據目前整理資料，餐點與整體服務品質獲得顧客良好回饋。座位較擁擠且環境偏安靜，適合帶孩子前來用餐。"
+    },
+    {
+      "place_id": "ChIJcaceqxOqQjQRjSTp2mVr7A0",
+      "name": "福鼎湯包店",
+      "address": "116台灣臺北市文山區興隆路三段112巷2弄13號",
+      "district": "文山區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。"
+    },
+    {
+      "place_id": "ChIJcdguChCrQjQR8jOmAGPBHGo",
+      "name": "THE SHIN 初心-南京復興捷運站",
+      "address": "105台灣臺北市松山區松基里復興北路223號",
+      "district": "松山區",
+      "summary": "根據目前整理資料，用餐環境舒適，氣氛輕鬆愜意。環境較為安靜，帶小孩用餐時可能需要多加留意。"
+    },
+    {
+      "place_id": "ChIJcwObHJ6pQjQRQIt7kUup1qo",
+      "name": "春水堂 中正店",
+      "address": "100台灣臺北市中正區中山南路21之1號",
+      "district": "中正區",
+      "summary": "根據目前整理資料，目前整理資料較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJd9QKFaWuQjQRLPGO-ltaXj4",
+      "name": "歡樂便所主題餐廳",
+      "address": "111台灣臺北市士林區仁勇里文林路173號2F",
+      "district": "士林區",
+      "summary": "根據目前整理資料，手作麵包與特色輕食風味獲得顧客好評。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點，設有遊戲區讓孩子放電，店內設有尿布台或哺乳室。"
+    },
+    {
+      "place_id": "ChIJdUh_TNGtQjQRQVbtYiPl_1w",
+      "name": "小庭院泰食",
+      "address": "114台灣臺北市內湖區瑞光里江南街71巷16弄50號",
+      "district": "內湖區",
+      "summary": "根據目前整理資料，手工甜點與下午茶點心口感精緻，評價優良。空間寬敞舒適，適合帶孩子前來用餐。"
+    },
+    {
+      "place_id": "ChIJdYbLUxOvQjQRfTcV2nf560Q",
+      "name": "92水鳥",
+      "address": "112台灣臺北市北投區關渡里知行路92號",
+      "district": "北投區",
+      "summary": "店內被標記為適合兒童用餐，且目前整理資料中提到曾有親子用餐優惠活動及贈送兒童套餐的紀錄。餐廳空間適合包場聚餐，但關於兒童座椅、餐具及尿布台等具體設施則未有明確資訊，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJe20-7lOuQjQRzfKxBZfB19E",
+      "name": "喬園海鮮料理餐廳",
+      "address": "112台灣臺北市北投區大同里大業路512號",
+      "district": "北投區",
+      "summary": "店內環境寬敞舒適，公開地點資訊標示適合兒童且氣氛熱鬧，適合家庭聚餐，部分分店設有包廂。不過餐廳明確標示不提供兒童餐，且目前整理資料中未提及兒童座椅、餐具或尿布台等設施，建議家長前往時可自行準備相關用品。"
+    },
+    {
+      "place_id": "ChIJe3eA6VauQjQRFuDwSEBoX9w",
+      "name": "樂雅樂餐廳 北投店",
+      "address": "112台灣臺北市北投區北投路二段9號",
+      "district": "北投區",
+      "summary": "根據目前整理資料，店內用餐空間規劃寬敞，活動動線舒適。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點。"
+    },
+    {
+      "place_id": "ChIJeWZB7-upQjQR2XDGRe7nT_I",
+      "name": "小蒔日咖哩",
+      "address": "103台灣臺北市大同區永樂里迪化街一段72巷23號一樓",
+      "district": "大同區",
+      "summary": "店內經公開地點資訊標示適合兒童，但店內空間較為狹小，座位數不多，建議前往前先訂位。此外，店家不提供兒童餐，且目前整理資料中未提及兒童椅、餐具或尿布台等設施，建議攜帶幼童前往前可先致電店家確認相關設備。"
+    },
+    {
+      "place_id": "ChIJe_9Xzq2tQjQRW_X242Ij31g",
+      "name": "mama says yes 大馬人",
+      "address": "114台灣臺北市內湖區港富里內湖路一段737巷51弄9號",
+      "district": "內湖區",
+      "summary": "這家餐廳環境整潔，提供舒適的用餐空間。公開地點資訊標示為適合兒童的友善場所，預期會提供兒童椅及兒童餐具，讓家庭顧客能安心用餐，享受愉快的親子時光。"
+    },
+    {
+      "place_id": "ChIJecc4RGKsQjQRqBL26F3o7UQ",
+      "name": "Bonjour 日安",
+      "address": "114台灣臺北市內湖區港富里內湖路二段56號",
+      "district": "內湖區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，獲得好評。"
+    },
+    {
+      "place_id": "ChIJeenGGhCrQjQRl_3s9xMzPCE",
+      "name": "宏記飯館",
+      "address": "105台灣臺北市松山區介壽里新中街13-2號",
+      "district": "松山區",
+      "summary": "店內被標記為適合兒童用餐，但店內空間較為狹小，且店家資訊顯示不提供兒童餐。目前整理資料中未提及兒童座椅、餐具或尿布台等設施，建議攜帶幼童前往時可先確認空間與設備需求。"
+    },
+    {
+      "place_id": "ChIJew2-LO2tQjQR00p4FijVT3M",
+      "name": "食樂波",
+      "address": "115台灣臺北市南港區三重里三重路19之4號",
+      "district": "南港區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，獲得好評。"
+    },
+    {
+      "place_id": "ChIJeyrNBUKuQjQR9nEJ_PLE_Ps",
+      "name": "少帥禪園-台北北投張學良幽禁舊居",
+      "address": "112台灣臺北市北投區幽雅路34號",
+      "district": "北投區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，獲得好評。空間寬敞舒適，適合帶孩子前來用餐。"
+    },
+    {
+      "place_id": "ChIJf4_MRW6pQjQRQPr0ZtXPyHg",
+      "name": "隨意小吃",
+      "address": "10491台灣臺北市中山區正得里中山北路一段33巷10號",
+      "district": "中山區",
+      "summary": "店內雖然被標記為適合兒童，但店內空間較為狹小且座位不多，建議攜帶幼童前往時需留意空間需求。此外，店家未提供兒童餐，且目前整理資料中未提及兒童椅、餐具或尿布台等設施，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJf5b9IeOvQjQRXyHwj63mp6A",
+      "name": "北投飢廠",
+      "address": "112台灣臺北市北投區中央北路三段17-1號",
+      "district": "北投區",
+      "summary": "根據目前整理資料，服務人員接待熱忱、服務態度良好。空間寬敞舒適，適合帶孩子前來用餐。"
+    },
+    {
+      "place_id": "ChIJf9I0P9SrQjQRhIIDDEjwvfA",
+      "name": "PapaRoy Italian Cuisine",
+      "address": "110台灣臺北市信義區新仁里忠孝東路四段553巷16號",
+      "district": "信義區",
+      "summary": "根據目前整理資料，店內製作的披薩口味深受顧客推崇。"
+    },
+    {
+      "place_id": "ChIJfSaCyLqsQjQRJYTlZXff4kE",
+      "name": "享宴小廚",
+      "address": "114台灣臺北市內湖區五分里東湖路106巷12號",
+      "district": "內湖區",
+      "summary": "該餐廳經公開地點資訊標示為適合兒童，且店內用餐環境舒適，座位安排不會過於擁擠。不過，店家並不提供兒童餐，且目前整理資料中未提及兒童椅、餐具或尿布台等設施，建議家長前往前可先致電確認相關親子友善設備。"
+    },
+    {
+      "place_id": "ChIJfbKZpxKsQjQRvtD8q4M0Su8",
+      "name": "Garden Kitchen",
+      "address": "10491台灣臺北市中山區金泰里樂群二路199號",
+      "district": "中山區",
+      "summary": "這家餐廳以用心製作的餐點聞名，同時公開地點資訊標示為適合兒童的友善場所，預期會提供兒童椅及兒童餐具，讓家庭顧客能安心用餐。"
+    },
+    {
+      "place_id": "ChIJfeUCFeSpQjQR9fJzBtezjXI",
+      "name": "Este día 這一天異國廚房 古巴三明治（台北總店）",
+      "address": "100台灣臺北市中正區文盛里羅斯福路三段244巷15號",
+      "district": "中正區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，獲得好評。餐廳公開地點資訊標示為適合兒童的友善場所，並貼心備有兒童座椅，預期會提供兒童餐具，讓家庭顧客能安心享受美食。"
+    },
+    {
+      "place_id": "ChIJffZkwGSrQjQRRunrr_xZnVc",
+      "name": "南港海岸活蝦之家",
+      "address": "115台灣臺北市南港區東新里向陽路128號",
+      "district": "南港區",
+      "summary": "根據目前整理資料，服務人員接待熱忱、服務態度良好。儘管座位較為緊密，餐廳仍公開地點資訊標示為適合兒童的友善場所，預期會提供兒童椅及兒童餐具，讓帶孩子的家庭也能輕鬆用餐。"
+    },
+    {
+      "place_id": "ChIJfzCuAQ8BaDQRz885zkbg0dI",
+      "name": "MAOLAN 貓懶 景觀茶屋",
+      "address": "116台灣臺北市文山區指南里指南路三段38巷16-2號3樓",
+      "district": "文山區",
+      "summary": "該餐廳經公開地點資訊標示為適合兒童，且設有包廂空間，適合家庭聚餐。不過，店家目前不提供兒童餐，且目前整理資料中未提及兒童座椅、餐具或尿布台等設施，建議家長前往前可先致電確認相關設備。"
+    },
+    {
+      "place_id": "ChIJg3D5FFSpQjQRjxW3v1V5q4c",
+      "name": "瑪喜餐廳",
+      "address": "10491台灣臺北市中山區中山北路三段26-1號民權西路捷運站 9 or 10號出口400公尺",
+      "district": "中山區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。"
+    },
+    {
+      "place_id": "ChIJg7t8FAutQjQRazEswhlCqTE",
+      "name": "馬友友印度廚房內湖店",
+      "address": "114台灣臺北市內湖區清白里成功路四段203號",
+      "district": "內湖區",
+      "summary": "店內經公開地點資訊標示為適合兒童且提供兒童餐，對於親子家庭相對友善。不過，目前的顧客回饋中並未提及兒童座椅、餐具、尿布台或遊戲區等具體設施資訊，建議前往用餐前可先致電店家確認相關細節。"
+    },
+    {
+      "place_id": "ChIJgU0snm6pQjQRmpAKNURzvss",
+      "name": "Bun Bun 棒棒 中山店",
+      "address": "103台灣臺北市大同區建泰里南京西路18巷20號",
+      "district": "大同區",
+      "summary": "Bun Bun 棒棒中山店的用餐環境寬敞舒適，且 公開地點資訊標示為適合兒童，適合家庭客前往。不過店家並未提供兒童餐，且目前整理資料中未提及兒童座椅、餐具或尿布台等設施，建議家長前往前可先向店家確認相關需求。"
+    },
+    {
+      "place_id": "ChIJgUo_u46uQjQRTuXU4tZmReM",
+      "name": "313鵝肉擔",
+      "address": "112台灣臺北市北投區振華里明德路313號",
+      "district": "北投區",
+      "summary": "根據目前整理資料，服務人員接待熱忱、服務態度良好。店內貼心備有兒童座椅。"
+    },
+    {
+      "place_id": "ChIJgzGaspGpQjQRFGy1wbG9YWQ",
+      "name": "Morning Love",
+      "address": "100台灣臺北市中正區河堤里汀州路二段204號",
+      "district": "中正區",
+      "summary": "根據目前整理資料，用餐環境舒適，氣氛輕鬆愜意。"
+    },
+    {
+      "place_id": "ChIJh95A0_mvQjQRNWUI5vSVcfw",
+      "name": "對味廚房銀光食驗室",
+      "address": "112台灣臺北市北投區奇岩里三合街一段119號1樓",
+      "district": "北投區",
+      "summary": "店內經公開地點資訊標示為適合兒童，且目前整理資料提到大人與小朋友都很喜歡該餐廳，不過店家並未提供兒童餐。目前整理資料較少提及兒童椅、餐具、尿布台或遊戲區等具體親子設施資訊，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJh9qrSxOpQjQRWF3RtcG5kL8",
+      "name": "必勝客-圓環外送店",
+      "address": "10357台灣臺北市大同區建功里重慶北路一段108號",
+      "district": "大同區",
+      "summary": "目前整理資料較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJhUvUfS0AaDQR68OSQ6AYPow",
+      "name": "談天園",
+      "address": "116台灣臺北市文山區指南里指南路三段38巷14之3號",
+      "district": "文山區",
+      "summary": "這家餐廳提供兒童座椅、兒童餐具、環境氣氛適合帶小孩。目前整理資料較少提及其他親子用餐的具體細節，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJhWnr7vKsQjQRES1FXX2pnsY",
+      "name": "源味軒",
+      "address": "114台灣臺北市內湖區金龍里金龍路75號",
+      "district": "內湖區",
+      "summary": "店內被標記為適合兒童用餐，但店內並不提供兒童餐。需特別注意的是，店內走廊空間狹窄且有階梯，對於攜帶推車或長輩的家庭來說動線較為不便，建議前往時多加留意。"
+    },
+    {
+      "place_id": "ChIJh_KxcJKrQjQRFv_v-q2UyHs",
+      "name": "敘。暖暖",
+      "address": "105台灣臺北市松山區三民路113巷15號1樓",
+      "district": "松山區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。"
+    },
+    {
+      "place_id": "ChIJhcugMgKrQjQRsBPxJXoZMgw",
+      "name": "化石先生Mr. Fossil 貓熊餐廳",
+      "address": "116台灣臺北市文山區萬興里新光路二段30號",
+      "district": "文山區",
+      "summary": "根據目前整理資料，這家餐廳位於動物園大貓熊館二樓，有提供兒童椅和兒童餐具，可俯瞰大貓熊活動，環境氣氛適合帶小孩用餐。"
+    },
+    {
+      "place_id": "ChIJhdUJQkWuQjQRBjl-hfM5hUo",
+      "name": "PURE CUISINE",
+      "address": "112台灣臺北市北投區中和街2號1F",
+      "district": "北投區",
+      "summary": "根據目前整理資料，鬆餅等下午茶甜品口味獲得顧客青睞。"
+    },
+    {
+      "place_id": "ChIJhdX4M6mpQjQRmAgMlFTjsow",
+      "name": "四方阿九魯肉飯 萬華店",
+      "address": "108台灣臺北市萬華區廣州街225號",
+      "district": "萬華區",
+      "summary": "根據目前整理資料，服務人員接待熱忱、服務態度良好。"
+    },
+    {
+      "place_id": "ChIJi3rVcBGqQjQR6KHE0qLoBFk",
+      "name": "瑞麟美又美 (興隆老店)",
+      "address": "116台灣臺北市文山區興業里興隆路二段244巷22號",
+      "district": "文山區",
+      "summary": "店內（興隆老店）為在地經營30多年的平價早餐店，公開地點資訊標示顯示其適合兒童，但目前整理資料中未提及兒童座椅、餐具、遊戲區或尿布台等具體親子設施，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJiS1A5bSrQjQRpOLKXFAJ5oA",
+      "name": "莊記泡沬紅茶",
+      "address": "110台灣臺北市信義區景新里莊敬路303號",
+      "district": "信義區",
+      "summary": "莊記泡沫紅茶經公開地點資訊標示為適合兒童，且店內氛圍溫馨親切，適合家庭用餐。不過，店家目前並未提供兒童餐，且目前整理資料中未提及兒童椅、餐具或尿布台等設施，建議家長前往前可先致電確認相關設備需求。"
+    },
+    {
+      "place_id": "ChIJiU5dGbevQjQR4xyi0i2ZWsg",
+      "name": "亞瑟蘭印度餐廳(士林店)Asrah Indian Cuisines 清真認證Halal",
+      "address": "111台灣臺北市士林區德華里德行西路114號",
+      "district": "士林區",
+      "summary": "該餐廳經公開地點資訊標示為適合兒童，且目前整理資料中亦有提及現場有家庭客帶著小孩用餐，對親子客群相對友善。不過，店家明確標示不提供兒童餐，且目前整理資料中未提及兒童椅、餐具或尿布台等設施資訊，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJibotTQCvQjQRrTBtFzaQncE",
+      "name": "1021炭烤吐司-石牌致遠店",
+      "address": "112台灣臺北市北投區吉利里致遠二路98號",
+      "district": "北投區",
+      "summary": "這家餐廳提供兒童座椅、兒童餐具、環境氣氛適合帶小孩。目前整理資料較少提及其他親子用餐的具體細節，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJjQOvwrurQjQRgDyYoUuwjp8",
+      "name": "禾溢承精緻潤餅(南港軟體園區店)",
+      "address": "115台灣臺北市南港區三重里新民街37號",
+      "district": "南港區",
+      "summary": "目前整理資料較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJjTSZ0Z6vQjQRDNOAqXk7IB4",
+      "name": "池先生Kopitiam (士林店)",
+      "address": "111台灣臺北市士林區福華路150號",
+      "district": "士林區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，獲得好評。店內貼心備有兒童座椅。"
+    },
+    {
+      "place_id": "ChIJj_MnZ16rQjQRIaKbVNAOGkA",
+      "name": "義薩格餐廳 Isaac Eatalian cuisine",
+      "address": "115台灣臺北市南港區南港里南港路一段295號",
+      "district": "南港區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。"
+    },
+    {
+      "place_id": "ChIJjdG_wRuvQjQR5Yz3qI5MtFw",
+      "name": "馬可的地中海料理教室&馬可私廚",
+      "address": "111台灣臺北市士林區天玉里天母北路28巷11號一樓",
+      "district": "士林區",
+      "summary": "該餐廳雖被標記為適合兒童，但店內空間較為精緻小巧，且店家資訊顯示不提供兒童餐。餐廳採私廚預約制，環境溫馨舒適，適合包場聚會，但關於兒童座椅、餐具及尿布台等設施，目前整理資料中未提及，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJjfzEsLCrQjQRVcQNcIk94A8",
+      "name": "饗食天堂 台北信義店",
+      "address": "110台灣臺北市信義區松壽路12號ATT 4 FUN百貨6樓",
+      "district": "信義區",
+      "summary": "根據目前整理資料，餐點與整體服務品質獲得顧客良好回饋。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點，可就近使用商場內公共尿布台及哺乳室。"
+    },
+    {
+      "place_id": "ChIJk0uU_XKpQjQRtLULt5DMK6c",
+      "name": "樂雅樂餐廳 站前店",
+      "address": "100台灣臺北市中正區黎明里許昌街19號",
+      "district": "中正區",
+      "summary": "這家餐廳提供兒童座椅、兒童餐具、兒童餐點、環境氣氛適合帶小孩。目前整理資料較少提及其他親子用餐的具體細節，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJk1zYdgCtQjQRxm0I58yBV_c",
+      "name": "食時樂",
+      "address": "114台灣臺北市內湖區南湖里康寧路三段168號",
+      "district": "內湖區",
+      "summary": "根據目前整理資料，店內用餐空間規劃寬敞，活動動線舒適。設有遊戲區讓孩子放電。"
+    },
+    {
+      "place_id": "ChIJk2LX-RqrQjQRSS2nzlB6eUA",
+      "name": "中南58 手作•輕•飲•食",
+      "address": "115台灣臺北市南港區中南里中南街58號",
+      "district": "南港區",
+      "summary": "根據目前整理資料，服務人員接待熱忱、服務態度良好。"
+    },
+    {
+      "place_id": "ChIJk7sai7evQjQRSu7Q7UCAlzg",
+      "name": "春霖小食",
+      "address": "111台灣臺北市士林區承德里後港街30號",
+      "district": "士林區",
+      "summary": "根據目前整理資料，店內用餐空間規劃寬敞，活動動線舒適。空間寬敞舒適，適合帶孩子前來用餐。"
+    },
+    {
+      "place_id": "ChIJkSPQRqqrQjQRQAm7CU-MQPQ",
+      "name": "午食在",
+      "address": "10552台灣台北市松山區中正里八德路二段437巷1弄2號1樓",
+      "district": "松山區",
+      "summary": "該餐廳經 公開地點資訊標示為適合兒童，但並未提供兒童餐。目前整理資料中未提及兒童椅、餐具、遊戲區或尿布台等設施，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJkTIGMZepQjQRx2j4MkjgDUE",
+      "name": "康爐",
+      "address": "108台灣臺北市萬華區貴陽街二段230號之1",
+      "district": "萬華區",
+      "summary": "店內環境乾淨明亮，相較於一般小吃店更適合家庭用餐，且公開地點資訊標示為適合兒童。不過店內未提供兒童餐，且目前整理資料中未提及兒童座椅、餐具或尿布台等設施，建議家長前往時可先確認需求。"
+    },
+    {
+      "place_id": "ChIJlVNfWeqrQjQRqO4OMZ0keZ4",
+      "name": "羽樂歐陸創意料理",
+      "address": "105台灣臺北市松山區復勢里南京東路四段162號",
+      "district": "松山區",
+      "summary": "根據目前整理資料，手作麵包與特色輕食風味獲得顧客好評。空間寬敞舒適，氣氛熱鬧親子友善，適合帶孩子前來用餐。"
+    },
+    {
+      "place_id": "ChIJm55L88arQjQRBcIEuwL0fCc",
+      "name": "格里歐's三明治Grilled Sendwish",
+      "address": "106台灣臺北市大安區華聲里延吉街137巷31號",
+      "district": "大安區",
+      "summary": "根據 公開地點資訊標示，該餐廳被歸類為適合兒童用餐，但店內並不提供兒童餐點。目前整理資料中未提及兒童座椅、餐具、遊戲區或尿布台等設施，建議前往前可先向店家確認相關設備需求。"
+    },
+    {
+      "place_id": "ChIJmTvw8BWpQjQRnJz6yNEbGVs",
+      "name": "同安樂",
+      "address": "103台灣臺北市大同區大有里迪化街一段235號1號樓 二進",
+      "district": "大同區",
+      "summary": "店內位於迪化街的老宅中，擁有寬敞且具歷史韻味的空間，公開地點資訊標示顯示其適合兒童用餐，但店家明確表示不提供兒童餐，且目前整理資料中未提及兒童座椅、餐具或尿布台等設施，建議家長前往前可先致電確認相關設備。"
+    },
+    {
+      "place_id": "ChIJmURK7l2rQjQR2T4AgotOy6s",
+      "name": "敘日 全日餐廳-台北六福萬怡酒店",
+      "address": "115台灣臺北市南港區忠孝東路七段359號7樓",
+      "district": "南港區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，獲得好評。可就近使用商場內公共尿布台及哺乳室。"
+    },
+    {
+      "place_id": "ChIJmaVySZ-rQjQRFNg_hzak7II",
+      "name": "嘉潤齋茶莊",
+      "address": "114台灣臺北市內湖區麗山里內湖路一段629巷14號",
+      "district": "內湖區",
+      "summary": "根據目前整理資料，店內用餐空間規劃寬敞，活動動線舒適。餐廳公開地點資訊標示為適合兒童的友善場所，預期會提供兒童椅及兒童餐具，讓帶孩子的家庭也能輕鬆自在地享受用餐時光。"
+    },
+    {
+      "place_id": "ChIJncAcXYypQjQRRxSiHwm5-P0",
+      "name": "水蛙家",
+      "address": "100台灣臺北市中正區新營里杭州南路二段52-2號一樓",
+      "district": "中正區",
+      "summary": "店內經公開地點資訊標示為適合兒童用餐，但店內並不提供兒童餐點。目前整理資料中未提及兒童座椅、餐具、遊戲區或尿布台等設施，建議家長前往前可先向店家確認相關設備需求。"
+    },
+    {
+      "place_id": "ChIJnea3ei-rQjQRJJpRyMTUlEE",
+      "name": "URBAN PARADISE 信義店",
+      "address": "110台灣臺北市信義區松高路11號5樓",
+      "district": "信義區",
+      "summary": "根據目前整理資料，用餐環境整潔，衛生維持良好。可就近使用商場內公共尿布台及哺乳室。"
+    },
+    {
+      "place_id": "ChIJnxmQysCrQjQR4PuOIqfa5gU",
+      "name": "關於你的早晨",
+      "address": "115台灣臺北市南港區南港里新民街69號",
+      "district": "南港區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，獲得好評。"
+    },
+    {
+      "place_id": "ChIJo1AkxEerQjQRqZifoDTKgEw",
+      "name": "靜心苑",
+      "address": "115台灣臺北市南港區昆陽街164號",
+      "district": "南港區",
+      "summary": "根據目前整理資料，服務人員接待熱忱、服務態度良好。店內貼心備有兒童座椅。"
+    },
+    {
+      "place_id": "ChIJo3zbZ5SrQjQRyHe3a5WfeIU",
+      "name": "一品香便當",
+      "address": "106台灣臺北市大安區住安里信義路四段60-66號",
+      "district": "大安區",
+      "summary": "一品香便當主要為外帶導向的平價便當店，店內座位設置於騎樓，環境較為簡陋且無提供兒童餐、兒童餐具或相關親子設施，用餐品質受限，較不建議攜帶幼童前往內用。"
+    },
+    {
+      "place_id": "ChIJo5uKl5ipQjQRUDGwOBCHUWs",
+      "name": "農人餐桌",
+      "address": "100台灣台北市中正區重慶南路二段51號B1永豐餘大樓內",
+      "district": "中正區",
+      "summary": "根據目前整理資料，這家餐廳設有深受孩子喜愛的廚房玩具遊樂桌與圍裙裝扮拍照區，挑高的用餐空間寬敞舒適，氣氛歡樂熱鬧。店內專注於選用新鮮天然食材，並貼心備有兒童座椅與專用碗盤餐具，同時提供精緻的親子生日慶生與寶寶週歲抓週包場活動服務。"
+    },
+    {
+      "place_id": "ChIJo8cmveipQjQR5EtNvSKd0mw",
+      "name": "水源市場．63號攤自助餐（李家灶咖）",
+      "address": "100台灣臺北市中正區水源里羅斯福路四段92號",
+      "district": "中正區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，獲得好評。餐廳氣氛輕鬆親子友善，公開地點資訊標示為適合兒童的場所，預期會提供兒童椅及兒童餐具，非常適合帶孩子前來用餐。"
+    },
+    {
+      "place_id": "ChIJoaiywAWpQjQRZl6XrDU3z3I",
+      "name": "波麗路餐廳-創始本店",
+      "address": "103台灣臺北市大同區民生西路314號",
+      "district": "大同區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。"
+    },
+    {
+      "place_id": "ChIJp3mUMN6tQjQR35PJqtDtbg4",
+      "name": "鮮廚房",
+      "address": "114台灣臺北市內湖區港富里內湖路一段737巷19弄4號",
+      "district": "內湖區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，獲得好評。店內貼心備有兒童座椅。"
+    },
+    {
+      "place_id": "ChIJp5x9U9UBaDQRrOc_7VNZB48",
+      "name": "貓空 山中茶-景觀餐廳",
+      "address": "116台灣臺北市文山區指南里指南路三段38巷33號2、3樓",
+      "district": "文山區",
+      "summary": "該餐廳被 公開地點資訊標示為適合兒童，環境舒適且視野開闊，適合家庭聚餐。不過，目前公開地點資訊顯示該店不提供兒童餐，且目前整理資料中未提及兒童椅、餐具或尿布台等親子設施，建議前往前可先向店家確認相關設備。"
+    },
+    {
+      "place_id": "ChIJp6GC5NGrQjQRDuHabyIYADA",
+      "name": "MUME",
+      "address": "106台灣臺北市大安區四維路28號",
+      "district": "大安區",
+      "summary": "根據目前整理資料，手工甜點與下午茶點心口感精緻，評價優良。"
+    },
+    {
+      "place_id": "ChIJp8t44mepQjQReTRHDcIxHf0",
+      "name": "好小子海鮮店",
+      "address": "104台灣臺北市中山區中山里林森北路305號",
+      "district": "中山區",
+      "summary": "為傳統台式海鮮餐廳，環境氛圍熱鬧，適合聚餐喧嘩，但店家資訊已標記不提供兒童餐，且目前整理資料中未提及兒童座椅、餐具或尿布台等親子友善設施，建議攜帶幼童前往前先向店家確認相關需求。"
+    },
+    {
+      "place_id": "ChIJpS0kjcutQjQRbpsifszPImg",
+      "name": "食在偉大 WeiCome Kitchen",
+      "address": "115台灣臺北市南港區南港里南港路一段191號",
+      "district": "南港區",
+      "summary": "根據 公開地點資訊標示，該餐廳明確標示為不適合兒童且不提供兒童餐，目前整理資料中亦未提及任何親子友善設施，建議攜帶幼童前往時需多加考量。"
+    },
+    {
+      "place_id": "ChIJpWEDTmSrQjQRc-bf3kJg8uM",
+      "name": "叁食",
+      "address": "110台灣臺北市信義區正和里仁愛路四段440號",
+      "district": "信義區",
+      "summary": "根據目前整理資料，店內提供的義大利麵等義式餐點口感良好，獲得顧客肯定。"
+    },
+    {
+      "place_id": "ChIJpYd6QkWuQjQRB3XO_o5xjMw",
+      "name": "輕鬆餐廳",
+      "address": "112台灣臺北市北投區中心里中和街12號",
+      "district": "北投區",
+      "summary": "店內非常適合親子用餐，店內空間寬敞且友善嬰兒車進入，公開地點資訊標示顯示提供兒童餐及適合兒童。目前整理資料中提到店員對家庭客非常貼心，會主動觀察小朋友需求並注意送餐安全，是當地高CP值的親子友善選擇。"
+    },
+    {
+      "place_id": "ChIJpfoexc2rQjQRTYSFv1cqWF0",
+      "name": "PICO PICO",
+      "address": "106台灣臺北市大安區安和路一段102巷28號",
+      "district": "大安區",
+      "summary": "根據目前整理資料，裝潢風格溫馨舒適，適合聚餐。"
+    },
+    {
+      "place_id": "ChIJpwJIT6WuQjQRw0vYVcv1nZY",
+      "name": "食來運轉",
+      "address": "111台灣臺北市士林區小東街31號",
+      "district": "士林區",
+      "summary": "根據目前整理資料，特調咖啡與各式飲品口感精緻。"
+    },
+    {
+      "place_id": "ChIJq18eZoeuQjQRAFv_4NskjTw",
+      "name": "愛幸福Love Happiness",
+      "address": "111台灣臺北市士林區天玉里天母西路3之67號",
+      "district": "士林區",
+      "summary": "根據公開地點資訊標示，該餐廳被歸類為適合兒童的環境，但並不提供專屬的兒童餐點。目前整理資料中未提及兒童座椅、餐具、遊戲區或尿布台等設施，建議攜帶幼童前往前可先向店家確認相關設備。"
+    },
+    {
+      "place_id": "ChIJq6qqqrOuQjQRGGwRH9rZtlU",
+      "name": "第二好吃私房菜",
+      "address": "111台灣臺北市中山區新生里吉林路229號",
+      "district": "中山區",
+      "summary": "根據 公開地點資訊標示，該餐廳被歸類為適合兒童用餐，但明確標示不提供兒童餐。目前整理資料中未提及兒童座椅、餐具、尿布台或遊戲區等設施，建議前往前可先向店家確認相關親子友善設備。"
+    },
+    {
+      "place_id": "ChIJqREtagCrQjQRUA2olqckivo",
+      "name": "會員制思源廳",
+      "address": "116台灣臺北市文山區興光里興隆路三段153號",
+      "district": "文山區",
+      "summary": "這家餐廳提供兒童座椅、兒童餐具、環境氣氛適合帶小孩。目前整理資料較少提及其他親子用餐的具體細節，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJqcTs72muQjQR6_66vECtOOs",
+      "name": "雍翠庭 Chinese Cuisine - 北投麗禧溫泉酒店 Grand View Resort Beitou",
+      "address": "112台灣臺北市北投區幽雅路30號",
+      "district": "北投區",
+      "summary": "根據目前整理資料，服務人員接待熱忱、服務態度良好。"
+    },
+    {
+      "place_id": "ChIJqcTs72muQjQRZrBTzCnlQVs",
+      "name": "歐陸餐廳 C'est Bon - 北投麗禧溫泉酒店 Grand View Resort Beitou",
+      "address": "112台灣臺北市北投區幽雅路30號",
+      "district": "北投區",
+      "summary": "根據目前整理資料，裝潢風格溫馨舒適，適合聚餐。"
+    },
+    {
+      "place_id": "ChIJqxSUlAypQjQRx1e_MFwNIdg",
+      "name": "擂銗餐廳",
+      "address": "103台灣臺北市大同區長安西路57號",
+      "district": "大同區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。"
+    },
+    {
+      "place_id": "ChIJr1zL6w6pQjQR7vQtUE63e14",
+      "name": "季然食事",
+      "address": "60之4號, 濟南路二段幸市里中正區臺北市台灣 100023",
+      "district": "中正區",
+      "summary": "這家餐廳提供兒童座椅、兒童餐具、環境氣氛適合帶小孩。目前整理資料較少提及其他親子用餐的具體細節，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJr2PsqSGtQjQR9a7aBciVG4Y",
+      "name": "拌路食事（ 週二、週三休息）",
+      "address": "114台灣臺北市內湖區內湖路二段60號",
+      "district": "內湖區",
+      "summary": "店內被公開地點資訊標示為適合兒童，且目前整理資料提到小朋友很喜歡該店，但店內空間較為狹小、座位數不多，且店家資訊確認不提供兒童餐，建議家長前往時需留意空間與餐點選擇。"
+    },
+    {
+      "place_id": "ChIJr5ZNfo-pQjQR7FfHlssLPqY",
+      "name": "師廬伙食團(師大崇德社)",
+      "address": "106台灣臺北市大安區龍泉里師大路55號4 樓",
+      "district": "大安區",
+      "summary": "該餐廳經公開地點資訊標示為適合兒童，氣氛溫馨，但目前未提供兒童餐點，且目前整理資料中未提及兒童座椅、餐具或尿布台等設施資訊，建議家長前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJr9JFPW-pQjQRvynzM2OVS6I",
+      "name": "青葉台灣料理（創始店）",
+      "address": "104台灣臺北市中山區中山北路一段105巷10號",
+      "district": "中山區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。此外，店內還設有舒適的獨立包廂空間，是親友、家庭聚餐時的理想選擇。"
+    },
+    {
+      "place_id": "ChIJr_Ztmn2uQjQRvLHz4FTo-_Q",
+      "name": "大為廚坊",
+      "address": "111台灣臺北市士林區天玉里天玉街38巷9-1號",
+      "district": "士林區",
+      "summary": "店內被標記為適合兒童用餐的環境，適合家庭聚餐，但店家並未提供兒童餐點。目前整理資料中未提及兒童座椅、餐具、尿布台或遊戲區等設施，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJs0t5m5CtQjQRMGEZlhs8eRI",
+      "name": "慢慢早 Slow morning",
+      "address": "10491台灣臺北市中山區北安里北安路813號",
+      "district": "中山區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，獲得好評。餐廳氣氛輕鬆且親子友善，非常適合帶孩子前來用餐。店家資訊也標示其適合兒童，預期會提供兒童椅及兒童餐具，讓家庭顧客能輕鬆享受美食。"
+    },
+    {
+      "place_id": "ChIJs3uWUmSpQjQRnZdSKz6jS0g",
+      "name": "Puzzle Kitchen 味道拼圖 西寧店",
+      "address": "108台灣臺北市萬華區萬壽里西寧南路46號2樓",
+      "district": "萬華區",
+      "summary": "根據目前整理資料，服務人員接待熱忱、服務態度良好。氣氛輕鬆親子友善，適合帶孩子前來用餐。"
+    },
+    {
+      "place_id": "ChIJsS8FHNyvQjQRwtaRVpPMyAI",
+      "name": "甲蟲秘境",
+      "address": "111台灣臺北市士林區克強路30號1樓",
+      "district": "士林區",
+      "summary": "以活體甲蟲與昆蟲生態為主題的親子餐廳，雖然空間不大，但有遊樂區讓孩子放電，周末亦提供昆蟲生態導覽。店內備有兒童座椅、兒童餐具和兒童餐點，廁所有尿布台，環境對孩子聲音較包容。"
+    },
+    {
+      "place_id": "ChIJsU0If6ivQjQRwIx85Fv2f_o",
+      "name": "小肚子私房料理",
+      "address": "111台灣臺北市士林區德華里福華路141巷6號",
+      "district": "士林區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，獲得好評。"
+    },
+    {
+      "place_id": "ChIJsUWRSBSpQjQREQpfu4sF6z0",
+      "name": "臺北科技大學-綠光庭園",
+      "address": "106台灣臺北市大安區民輝里新生南路一段1號2樓",
+      "district": "大安區",
+      "summary": "這家餐廳提供兒童座椅、兒童餐具、環境氣氛適合帶小孩。目前整理資料較少提及其他親子用餐的具體細節，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJsWsw0pCvQjQRZLTNGrOgg3Y",
+      "name": "Tea Lab茶坊",
+      "address": "11141台灣臺北市士林區福林里中山北路五段470巷8號1樓",
+      "district": "士林區",
+      "summary": "根據目前整理資料，店內用餐空間規劃寬敞，活動動線舒適。空間寬敞但環境較為安靜，帶好動小孩用餐時可能需要多加留意。"
+    },
+    {
+      "place_id": "ChIJsejDS-irQjQRx1pISkZN5Ns",
+      "name": "Darci's Italian Kitchen",
+      "address": "105台灣臺北市松山區中華里南京東路四段53巷3弄1號",
+      "district": "松山區",
+      "summary": "店內經公開地點資訊標示為適合兒童，但店內空間較為狹小，且不提供兒童餐。目前整理資料中未提及兒童座椅、餐具或尿布台等設施，建議攜帶幼童前往時可先與店家確認相關設備。"
+    },
+    {
+      "place_id": "ChIJswgE9kCpQjQReuxY4WDtFaE",
+      "name": "大同海產商行",
+      "address": "103台灣臺北市大同區民權西路144巷19弄1號",
+      "district": "大同區",
+      "summary": "根據目前整理資料，用餐環境整潔，衛生維持良好。環境較為安靜，帶小孩用餐時可能需要多加留意。"
+    },
+    {
+      "place_id": "ChIJt9661tCrQjQRXMVpa4A5Bmg",
+      "name": "L' AGE 熟成餐廳",
+      "address": "106台灣臺北市大安區仁愛路三段143巷25號",
+      "district": "大安區",
+      "summary": "根據目前整理資料，服務人員接待熱忱、服務態度良好。氣氛輕鬆親子友善，適合帶孩子前來用餐。"
+    },
+    {
+      "place_id": "ChIJtRycdgCrQjQREYtf2Ale9K4",
+      "name": "Nomonohe のものへ",
+      "address": "110台灣臺北市信義區景勤里吳興街170巷1弄1號",
+      "district": "信義區",
+      "summary": "根據 公開地點資訊標示，該餐廳明確標示為不適合兒童且不提供兒童餐，建議家長在規劃用餐時將此因素納入考量。"
+    },
+    {
+      "place_id": "ChIJtT-8VKOpQjQRRpmHnNwXNog",
+      "name": "新東南海鮮餐廳 汀州店",
+      "address": "100台灣臺北市中正區龍興里汀州路一段105號",
+      "district": "中正區",
+      "summary": "根據目前整理資料，餐點與整體服務品質獲得顧客良好回饋。"
+    },
+    {
+      "place_id": "ChIJtVpEo1upQjQRb1_0kc7FT2c",
+      "name": "集客人間茶館-民權店",
+      "address": "104台灣臺北市中山區新福里民權東路二段21號",
+      "district": "中山區",
+      "summary": "該餐廳雖被標記為適合兒童，但根據目前整理資料，店內空間配置較為狹小，特別是雙人桌位空間不足以擺放完整餐點。目前整理資料中未提及兒童椅、兒童餐具、遊戲區或尿布台等具體親子設施，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJtbu-JE2oQjQRdRYZ7jLitwE",
+      "name": "珍寶園餐廳",
+      "address": "108台灣臺北市萬華區環河南路二段308號",
+      "district": "萬華區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，獲得好評。氣氛輕鬆親子友善，適合帶孩子前來用餐。"
+    },
+    {
+      "place_id": "ChIJu-P6-H2rQjQRWseKixF7B-Y",
+      "name": "IKEA瑞典餐廳 內湖店",
+      "address": "114台灣臺北市內湖區舊宗路一段128號",
+      "district": "內湖區",
+      "summary": "根據目前整理資料，這家餐廳氣氛輕鬆親子友善，店內貼心備有兒童座椅與專用餐具，並提供兒童餐點。"
+    },
+    {
+      "place_id": "ChIJu-Tf4WyvQjQR_mFKKQET9s8",
+      "name": "麥町吐司工房",
+      "address": "112台灣臺北市北投區關渡里知行路293巷9弄37號",
+      "district": "北投區",
+      "summary": "該店雖被 公開地點資訊標示為適合兒童，但根據目前整理資料指出店內空間較為狹窄且略顯悶熱。目前整理資料中未提及兒童椅、兒童餐具、遊戲區或尿布台等具體親子設施，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJu7ACrJuvQjQRtce_WkH_i_g",
+      "name": "台北【麥飯糰】夏日輕食推薦 l 團體訂餐推薦 l 北投親子友善推薦",
+      "address": "112台灣臺北市北投區中心里泉源路11號",
+      "district": "北投區",
+      "summary": "該店主要提供立食空間，環境較為狹小，且店家資訊已標記不提供兒童餐。目前整理資料較少提及其他親子友善設施，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJu7beqj2vQjQRHONTMfd4CmA",
+      "name": "天空廚房",
+      "address": "112台灣臺北市北投區關渡里知行路260巷48號",
+      "district": "北投區",
+      "summary": "根據目前整理資料，這家餐廳氣氛輕鬆親子友善。"
+    },
+    {
+      "place_id": "ChIJuUtBISitQjQRakLTiX_fBFI",
+      "name": "餉義饗廚坊",
+      "address": "114台灣臺北市內湖區安湖里東湖路113巷3弄3號1樓",
+      "district": "內湖區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。環境較為安靜，帶小孩用餐時可能需要多加留意。"
+    },
+    {
+      "place_id": "ChIJuamf88ipQjQRJcO86MISxFI",
+      "name": "璞田PureTime家庭料理",
+      "address": "10660台灣臺北市大安區大學里新生南路三段60巷5號",
+      "district": "大安區",
+      "summary": "店內雖然被公開地點資訊標記為適合兒童，但店內環境偏向舒服幽靜，適合輕聲交談，可能較不適合過於吵鬧的幼童。此外，店家明確表示不提供兒童餐，且目前整理資料中未提及兒童椅、餐具或尿布台等設施，建議家長前往前可先致電確認相關設備。"
+    },
+    {
+      "place_id": "ChIJuyhfTVmvQjQRqS9NO23JTKY",
+      "name": "喜歡西餐廳(大地酒店)",
+      "address": "112台灣臺北市北投區奇岩路1號",
+      "district": "北投區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。環境較為安靜，帶小孩用餐時可能需要多加留意。"
+    },
+    {
+      "place_id": "ChIJv2DKasSrQjQRuOouZgxHSMQ",
+      "name": "饗食雪屋",
+      "address": "116台灣臺北市文山區興得里興隆路三段112巷2弄2號1樓",
+      "district": "文山區",
+      "summary": "根據目前整理資料，服務人員接待熱忱、服務態度良好。座位較為緊密，適合帶孩子前來用餐。"
+    },
+    {
+      "place_id": "ChIJvRoeHQCpQjQRipGnzblimh0",
+      "name": "LOMA露芒 Kitchen",
+      "address": "104台灣臺北市中山區恆安里雙城街13巷７號",
+      "district": "中山區",
+      "summary": "LOMA露芒 Kitchen 空間較為狹小，座位數有限，且根據 公開地點資訊標示，該店並不適合兒童且未提供兒童餐，建議家長評估後再前往。"
+    },
+    {
+      "place_id": "ChIJvS0scJ-tQjQRrZXTJtWMRw8",
+      "name": "Uncle-K 火烤店 아저씨감자탕",
+      "address": "114017台灣臺北市內湖區清白里成功路四段147號",
+      "district": "內湖區",
+      "summary": "店內有兩台遊戲機台可玩，但不屬於遊樂區，因此未列為「有遊樂區」條件。此餐廳 公開地點資訊標示為適合兒童，系統推估可能備有兒童椅與兒童餐具（標示為「估」），但目前整理資料尚未明確提及，建議前往前先向店家確認。店家資訊顯示不提供兒童餐，且目前整理資料提到店內油煙味較重，可能影響嬰幼兒用餐體驗。"
+    },
+    {
+      "place_id": "ChIJvWWkxO6rQjQRHf_zc9VTcAE",
+      "name": "樂雅樂餐廳 敦化店",
+      "address": "105台灣臺北市松山區精忠里敦化北路199巷9號",
+      "district": "松山區",
+      "summary": "根據目前整理資料，這家餐廳氣氛輕鬆親子友善，店內貼心備有兒童座椅與專用餐具，並提供兒童餐點。"
+    },
+    {
+      "place_id": "ChIJvwXRVKGrQjQRRybMDkwdL2k",
+      "name": "六年13班 複合式餐飲",
+      "address": "110台灣臺北市信義區廣居里虎林街132巷78號",
+      "district": "信義區",
+      "summary": "六年13班是一間風格溫馨的懷舊複合式餐飲店，根據公開地點資訊標示適合兒童，但店內空間較為狹小，且目前整理資料中未提及兒童座椅、餐具、尿布台或兒童餐等具體親子設施，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJvz0AwVmvQjQRa3dZ9XjMP28",
+      "name": "萃茶風 兒童新樂園店",
+      "address": "111台灣臺北市士林區福佳里承德路五段55號",
+      "district": "士林區",
+      "summary": "根據目前整理資料，目前較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。然而，由於餐廳位於商場或園區內，周邊通常設有尿布台等便利設施，為攜帶幼童的家庭提供額外便利。"
+    },
+    {
+      "place_id": "ChIJvzfj0wKqQjQRtegvs93SKHQ",
+      "name": "遇見 ice to meet you",
+      "address": "116台灣臺北市文山區萬隆里羅斯福路六段18號",
+      "district": "文山區",
+      "summary": "根據 公開地點資訊標示，該店被歸類為適合兒童的環境，但並不提供兒童餐點。目前整理資料中未提及兒童座椅、餐具、遊戲區或尿布台等設施，建議家長前往前可先向店家確認相關設備。"
+    },
+    {
+      "place_id": "ChIJw1tWDcKrQjQRnEyEKW3eLdU",
+      "name": "Salad Den",
+      "address": "105台灣臺北市松山區復勢里南京東路四段168號1F",
+      "district": "松山區",
+      "summary": "根據公開地點資訊標示，Salad Den 提供兒童餐且適合兒童用餐，但目前整理資料中未提及兒童座椅、餐具、尿布台或遊戲區等具體親子設施資訊，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJw85eB0qpQjQR-zLCDOmMTWo",
+      "name": "FIKA FIKA SHIU XIANG",
+      "address": "104095台灣臺北市中山區朱園里伊通街38號",
+      "district": "中山區",
+      "summary": "目前整理資料較少提及與親子用餐相關的具體資訊，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJw96R4MyrQjQR8Yxjqehlj1o",
+      "name": "蝦太太",
+      "address": "11087台灣臺北市信義區四育里松隆路286號",
+      "district": "信義區",
+      "summary": "根據公開地點資訊標示，該餐廳適合兒童用餐，但明確標示不提供兒童餐。目前整理資料中提到用餐環境舒適且廁所乾淨，適合帶小朋友前往，但關於兒童座椅、餐具及遊戲區等具體設施則未有明確資訊，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJwQvTceOpQjQRhxBKSCWjU6A",
+      "name": "真珠-台灣佳味 京站店",
+      "address": "10351台灣臺北市大同區承德路一段1號B3",
+      "district": "大同區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，獲得好評。店內貼心備有兒童座椅與專用餐具，可就近使用商場內公共尿布台及哺乳室。此外，店內設有獨立包廂（有最低消費或折抵限制）。"
+    },
+    {
+      "place_id": "ChIJwZylKgOqQjQR1ONe3dVlxWs",
+      "name": "御珍鮑",
+      "address": "1樓, No. 11號羅斯福路六段萬祥里文山區臺北市台灣 116",
+      "district": "文山區",
+      "summary": "這家餐廳提供兒童座椅、兒童餐具、環境氣氛適合帶小孩。目前整理資料較少提及其他親子用餐的具體細節，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJwySZTampQjQRjDgDXnuZRHY",
+      "name": "兩喜號 Liang Xi Hao - 總店",
+      "address": "108台灣臺北市萬華區廣州街245號",
+      "district": "萬華區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。"
+    },
+    {
+      "place_id": "ChIJx5ETtLquQjQRAMnE00uPGtc",
+      "name": "海友十全排骨",
+      "address": "111台灣臺北市士林區大東路49號",
+      "district": "士林區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，深受顧客好評。"
+    },
+    {
+      "place_id": "ChIJx7BexjypQjQRxzd5depLb-I",
+      "name": "中華樓",
+      "address": "B1, No. 206號南京東路二段朱園里中山區臺北市台灣 104",
+      "district": "中山區",
+      "summary": "店內被公開地點資訊標示為適合兒童用餐，環境適合家庭聚餐，但店家並不提供兒童餐點。目前整理資料中未提及兒童椅、餐具、尿布台或遊戲區等具體親子設施，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJx7XHJk-uQjQRPBllRcowRAc",
+      "name": "哈麵飯店",
+      "address": "112台灣臺北市北投區開明里中和街320巷12號",
+      "district": "北投區",
+      "summary": "該餐廳經 公開地點資訊標示為適合兒童，但並未提供兒童餐。目前整理資料中未提及兒童座椅、餐具、遊戲區或尿布台等設施，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJx9kLTcCrQjQReOhQ7rph6sY",
+      "name": "永心鳳茶奶茶專門所 YONSHIN MILKTEA MANSION",
+      "address": "110台灣臺北市信義區西村里松智路17號2樓",
+      "district": "信義區",
+      "summary": "根據公開地點資訊標示，該餐廳被標註為適合兒童，但並不提供兒童餐。目前整理資料中未提及兒童座椅、餐具、遊戲區或尿布台等設施，建議前往前可先向店家確認相關親子設備。"
+    },
+    {
+      "place_id": "ChIJxS5AOACpQjQRESSmGlpIraI",
+      "name": "瑞記海南雞飯 西門店",
+      "address": "108台灣臺北市萬華區西門里成都路27巷17號1樓",
+      "district": "萬華區",
+      "summary": "根據目前整理資料，店內採光充足、環境明亮，營造出舒適宜人的用餐氛圍。公開地點資訊標示此處適合兒童，預期會貼心提供兒童椅及兒童餐具，讓攜帶孩子的家庭顧客也能安心享受美食，是個親子友善的好選擇。"
+    },
+    {
+      "place_id": "ChIJxUlI1ZCuQjQRmhTI36h17So",
+      "name": "SUBBER",
+      "address": "111台灣臺北市士林區德行里德行西路60之1號",
+      "district": "士林區",
+      "summary": "店內經公開地點資訊標示為適合兒童的餐廳，但店內空間較為狹小且座位不多，用餐尖峰時段常需排隊。此外，店家未提供專屬兒童餐，且目前整理資料中未提及兒童座椅、餐具或尿布台等設施，建議家長前往前可先確認空間狀況。"
+    },
+    {
+      "place_id": "ChIJxWyMgiyqQjQRvxsABDJsO68",
+      "name": "姊姊的廚房",
+      "address": "106台灣臺北市大安區龍陣里復興南路二段128巷3-2號",
+      "district": "大安區",
+      "summary": "該餐廳被標記為適合兒童，且有家庭客前往用餐，但店內空間較為狹小且容易客滿，且店家資訊顯示不提供兒童餐，建議攜帶幼童前往時需留意空間與餐點需求。"
+    },
+    {
+      "place_id": "ChIJxaIcSp6rQjQRhc47ZASYmn0",
+      "name": "松山機場2F美食廣場",
+      "address": "105台灣臺北市松山區敦化北路340-9號第二航厦 (國內線航厦)",
+      "district": "松山區",
+      "summary": "根據目前整理資料，店內用餐空間規劃寬敞，活動動線舒適。空間寬敞舒適，適合帶孩子前來用餐。"
+    },
+    {
+      "place_id": "ChIJyWoJeMmpQjQRi6xQIJ11JzI",
+      "name": "凱蒂窩KatieHouse",
+      "address": "103台灣臺北市大同區至聖里承德路三段247巷16號1樓",
+      "district": "大同區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，獲得好評。氣氛輕鬆親子友善，適合帶孩子前來用餐。"
+    },
+    {
+      "place_id": "ChIJy_eZROGvQjQRVCS92xM-GDo",
+      "name": "朝早來Day",
+      "address": "112台灣臺北市北投區承德路七段382之1號",
+      "district": "北投區",
+      "summary": "根據目前整理資料，店內餐點烹調用心、口味良好，獲得好評。氣氛輕鬆親子友善，適合帶孩子前來用餐。"
+    },
+    {
+      "place_id": "ChIJyxaRjvCtQjQRUvo5xvwyXWk",
+      "name": "麻媽家(東湖店)",
+      "address": "114台灣臺北市內湖區東湖里東湖路119巷8號",
+      "district": "內湖區",
+      "summary": "這家餐廳提供兒童座椅、兒童餐具、環境氣氛適合帶小孩。目前整理資料較少提及其他親子用餐的具體細節，建議前往前可先向店家確認。"
+    },
+    {
+      "place_id": "ChIJyyNcAlypQjQR9eK2YpdBP44",
+      "name": "三重奏加蚋 Trio kitchen",
+      "address": "108台灣臺北市萬華區東園街114號",
+      "district": "萬華區",
+      "summary": "根據目前整理資料，店內提供的義大利麵等義式餐點口感良好，獲得顧客肯定。"
+    },
+    {
+      "place_id": "ChIJzbOpOnurQjQR9nOFIF4c1F4",
+      "name": "安佳複合式餐點",
+      "address": "115台灣臺北市南港區西新里成功路一段3號",
+      "district": "南港區",
+      "summary": "該餐廳雖被 公開地點資訊 標記為適合兒童，但根據目前整理資料描述，店內環境較為狹小且燈光較暗，屬於傳統在地早餐店，目前整理資料中未提及兒童椅、兒童餐具或遊戲區等親子友善設施，建議攜帶幼童前往時需多加留意空間狀況。"
+    },
+    {
+      "place_id": "ChIJzbWfE9avQjQRO9epSFm33dI",
+      "name": "季節廚房",
+      "address": "112台灣臺北市北投區知行路241號",
+      "district": "北投區",
+      "summary": "店內雖被標記為適合兒童，但店內空間狹小且座位有限，環境因工業風設計較為嘈雜，且店家資訊顯示不提供兒童餐。目前整理資料中未提及兒童椅、餐具或尿布台等設施，建議攜帶幼童前往前先與店家確認相關需求。"
+    },
+    {
+      "place_id": "ChIJzwJyNACpQjQRHdGFtGIMWdw",
+      "name": "民樂園私廚",
+      "address": "103台灣臺北市大同區大有里民樂街62號",
+      "district": "大同區",
+      "summary": "根據 公開地點資訊標示，該餐廳被歸類為適合兒童，但並不提供兒童餐。目前整理資料中未提及兒童座椅、餐具、遊戲區或尿布台等設施，建議攜帶幼童前往前可先向店家確認相關設備。"
+    }
+  ]
+}
