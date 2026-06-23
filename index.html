@@ -86,9 +86,6 @@
                     </div>
                 </div>
 
-                <!-- Divider -->
-                <div class="search-widget-divider"></div>
-
                 <!-- Step 2: Filters -->
                 <div class="search-widget-section">
                     <div class="filter-header">
@@ -105,6 +102,33 @@
                         <button class="filter-chip" data-filter="has_play_area">🧸 有遊樂區</button>
                         <button class="filter-chip" data-filter="has_private_room">🚪 包廂或可包場</button>
                     </div>
+
+                    <div class="optional-cuisine">
+                        <button id="toggle-cuisine-filter" class="optional-cuisine-toggle" type="button" aria-expanded="false" aria-controls="cuisine-options">
+                            <span class="optional-cuisine-title">🍽️ 可選：菜系偏好</span>
+                            <span id="selected-cuisine-label" class="selected-cuisine-label hidden"></span>
+                            <span class="optional-cuisine-arrow" aria-hidden="true">⌄</span>
+                        </button>
+                        <div id="cuisine-options" class="optional-cuisine-panel hidden">
+                            <div class="optional-cuisine-header">
+                                <span>想吃特定菜系時再選</span>
+                                <button id="clear-cuisine-filter" class="btn-text hidden">清除</button>
+                            </div>
+                            <div class="cuisines-scroll">
+                                <button class="cuisine-chip" data-cuisine="台式/中式料理">🥟 台式/中式</button>
+                                <button class="cuisine-chip" data-cuisine="日式料理">🍣 日式</button>
+                                <button class="cuisine-chip" data-cuisine="韓式料理">🍲 韓式</button>
+                                <button class="cuisine-chip" data-cuisine="義式料理">🍕 義式</button>
+                                <button class="cuisine-chip" data-cuisine="西式料理">🥩 歐美/西式</button>
+                                <button class="cuisine-chip" data-cuisine="星馬料理">🍛 星馬/泰越</button>
+                                <button class="cuisine-chip" data-cuisine="罕見異國料理">🌮 異國料理</button>
+                                <button class="cuisine-chip" data-cuisine="茶館與咖啡廳">☕ 咖啡/甜點</button>
+                                <button class="cuisine-chip" data-cuisine="餐酒館">🍷 餐酒館</button>
+                                <button class="cuisine-chip" data-cuisine="複合式料理">🥗 複合式</button>
+                            </div>
+                        </div>
+                    </div>
+
                     <div id="btn-show-results-container" style="margin-top: 1.25rem; text-align: center; display: none;">
                         <button id="btn-show-results" class="btn-nearby">查看結果</button>
                     </div>

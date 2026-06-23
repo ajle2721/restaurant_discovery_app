@@ -6,6 +6,16 @@ const baseDir = process.cwd();
 const aiReviewDir = path.join(baseDir, "ai_review");
 const outputPath = path.join(aiReviewDir, "index.js");
 
+const cuisinesMappingPath = path.join(aiReviewDir, "cuisines_mapping.json");
+let cuisinesMapping = {};
+if (fs.existsSync(cuisinesMappingPath)) {
+  try {
+    cuisinesMapping = JSON.parse(fs.readFileSync(cuisinesMappingPath, "utf8"));
+  } catch (err) {
+    console.error("Error loading cuisines_mapping.json:", err.message);
+  }
+}
+
 const temporarilyHiddenPlaceIds = new Set([
   "ChIJH_WVdGWpQjQRunfMO1rsZiU", // 舒啡•序 RelaxCafeChic, temporarily closed
 ]);
@@ -26,6 +36,7 @@ const columns = [
   "ai_summary",
   "card_summary",
   "parent_friendly_level",
+  "cuisine_group",
 ];
 
 const manualRecords = [
@@ -457,6 +468,107 @@ function getPrivateRoomValue(aiReview) {
   return result;
 }
 
+function getMajorCuisine(cuisine) {
+  if (!cuisine) return "複合式料理";
+  
+  const c = cuisine.trim();
+
+  // 1. 台式/中式料理
+  if (
+    /台式|中式|台灣|台菜|粵菜|港式|川菜|四川|湘菜|上海|江浙|點心|熱炒|合菜|便當|涼麵|眷村|水餃|鍋貼|粥|麵線|小籠包|燒臘|自助餐|火鍋|中式湯品|鍋燒麵|海鮮|家常菜|家常料理/.test(c) ||
+    c === "中式料理" || c === "台式料理" || c === "港式料理" || c === "台灣小吃" || c === "台式小吃" || c === "台灣料理"
+  ) {
+    return "台式/中式料理";
+  }
+
+  // 2. 日式料理
+  if (
+    /日式|居酒屋|壽司|拉麵|燒肉|丼飯|定食|烏龍麵|和食|割烹|懷石|天婦羅|鐵板燒|咖哩/.test(c) ||
+    c === "日式料理" || c === "壽司" || c === "拉麵" || c === "燒肉"
+  ) {
+    return "日式料理";
+  }
+
+  // 3. 韓式料理
+  if (/韓式|韓國|韓食|韓餐/.test(c) || c === "韓式料理") {
+    return "韓式料理";
+  }
+
+  // 4. 義式料理
+  if (/義大利|義式|披薩|比薩|pizza/i.test(c) || c === "義大利料理" || c === "披薩") {
+    return "義式料理";
+  }
+
+  // 5. 西式料理
+  if (
+    /美式|法式|法國|德式|西班牙|瑞典|古巴|希臘|歐陸|歐式|西式|地中海|牛排|漢堡|熱狗|墨西哥|英式|俄式/.test(c) ||
+    c === "美式料理" || c === "法式料理" || c === "牛排館"
+  ) {
+    return "西式料理";
+  }
+
+  // 6. 星馬料理
+  if (/星馬|馬來西亞|新加坡|泰式|泰國|越南|星馬|柬埔寨|東南亞|印尼|菲律賓/.test(c) || c === "泰式料理" || c === "越南料理") {
+    return "星馬料理";
+  }
+
+  // 7. 罕見異國料理
+  if (/印度|尼泊爾|西藏|秘魯|祕魯|土耳其|黎巴嫩|中東|巴西|罕見異國|異國/.test(c)) {
+    return "罕見異國料理";
+  }
+
+  // 8. 茶館與咖啡廳
+  if (
+    /咖啡|cafe|café|coffee|茶館|茶藝|茶專賣|烘焙|甜點|蛋糕|麵包|鬆餅|舒芙蕾|冰淇淋|糕點|下午茶|冰品|飲品|飲料/.test(c) ||
+    c === "咖啡廳" || c === "烘焙/甜點" || c === "冰品" || c === "飲品店"
+  ) {
+    return "茶館與咖啡廳";
+  }
+
+  // 9. 餐酒館
+  if (/餐酒館|小酒館|酒吧|酒館|bistro|bar|pub/i.test(c) || c === "小酒館/餐酒館" || c === "酒吧/餐酒館") {
+    return "餐酒館";
+  }
+
+  // 10. 複合式料理
+  return "複合式料理";
+}
+
+function getCuisine(placeId, baseRestaurant) {
+  return (typeof cuisinesMapping !== 'undefined' ? cuisinesMapping[placeId] : null) || baseRestaurant.cuisine || inferCuisineFromName(baseRestaurant.name) || null;
+}
+
+function buildRecord(placeId, baseRestaurant, aiReview) {
+  const attributes = getAiAttributes(
+    aiReview,
+    baseRestaurant.attributes || {},
+    baseRestaurant.name || "",
+    baseRestaurant.address || baseRestaurant.formatted_address || "",
+    baseRestaurant.price_level ?? null
+  );
+
+  const cuisine = getCuisine(placeId, baseRestaurant);
+
+  return [
+    placeId,
+    baseRestaurant.name || "",
+    baseRestaurant.address || baseRestaurant.formatted_address || "",
+    baseRestaurant.district || "",
+    baseRestaurant.price_level ?? null,
+    cuisine,
+    baseRestaurant.latitude ?? null,
+    baseRestaurant.longitude ?? null,
+    baseRestaurant.url || baseRestaurant.google_maps_url || "",
+    attributes,
+    neutralizeSummarySourceCopy(aiReview.generated_summary || baseRestaurant.ai_summary || "", attributes.has_private_room),
+    neutralizeSummarySourceCopy(aiReview.card_summary || baseRestaurant.card_summary || "", attributes.has_private_room),
+    aiReview.parent_friendly_level ||
+      baseRestaurant.parent_friendly_level ||
+      "資訊不足",
+    getMajorCuisine(cuisine),
+  ];
+}
+
 function getAiAttributes(aiReview, existingAttributes = {}, name = "", address = "", priceLevel = null) {
   let highChair = normalizeResult(
     aiReview[" child_seat available"]?.result ||
@@ -577,11 +689,11 @@ function inferCuisineFromName(name) {
   return exact ? exact.cuisine : matched[0].cuisine;
 }
 
-function getCuisine(baseRestaurant) {
+function getCuisine_old(baseRestaurant) {
   return baseRestaurant.cuisine || inferCuisineFromName(baseRestaurant.name) || null;
 }
 
-function buildRecord(placeId, baseRestaurant, aiReview) {
+function buildRecord_old(placeId, baseRestaurant, aiReview) {
   const attributes = getAiAttributes(
     aiReview,
     baseRestaurant.attributes || {},
@@ -596,7 +708,7 @@ function buildRecord(placeId, baseRestaurant, aiReview) {
     baseRestaurant.address || baseRestaurant.formatted_address || "",
     baseRestaurant.district || "",
     baseRestaurant.price_level ?? null,
-    getCuisine(baseRestaurant),
+    getCuisine_old(baseRestaurant),
     baseRestaurant.latitude ?? null,
     baseRestaurant.longitude ?? null,
     baseRestaurant.url || baseRestaurant.google_maps_url || "",
@@ -646,6 +758,10 @@ function main() {
   const existingRecordIds = new Set(records.map((record) => record[0]));
   for (const record of manualRecords) {
     if (!temporarilyHiddenPlaceIds.has(record[0]) && !existingRecordIds.has(record[0])) {
+      if (record.length < columns.length) {
+        const cuisine = record[5];
+        record.push(getMajorCuisine(cuisine));
+      }
       records.push(record);
     }
   }

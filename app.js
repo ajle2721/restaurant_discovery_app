@@ -42,6 +42,7 @@ const safeLocal = {
 
 const state = {
     filters: new Set(),
+    cuisineFilter: new Set(),
     searchLocation: null, // {name, lat, lng, type, district}
     userLocation: null, // {lat, lng}
     lastGeographicLocation: null, // {name, lat, lng, type, district}
@@ -458,14 +459,77 @@ function isAreaSearchLocation(loc) {
     return loc.type === '目前位置' || loc.type === '全市';
 }
 
+function hasCuisineFilters() {
+    return state.cuisineFilter && state.cuisineFilter.size > 0;
+}
+
+function matchesCuisineFilter(res) {
+    if (!hasCuisineFilters()) return true;
+    return state.cuisineFilter.has(res.cuisine_group) || state.cuisineFilter.has(res.cuisine);
+}
+
+function getCuisineFilterLabel(cuisine) {
+    const labels = {
+        '台式/中式料理': '台式/中式',
+        '日式料理': '日式',
+        '韓式料理': '韓式',
+        '義式料理': '義式',
+        '西式料理': '歐美/西式',
+        '星馬料理': '星馬/泰越',
+        '罕見異國料理': '異國料理',
+        '茶館與咖啡廳': '咖啡/甜點',
+        '餐酒館': '餐酒館',
+        '複合式料理': '複合式'
+    };
+    return labels[cuisine] || (cuisine ? cuisine.replace(/料理$/, '') : '');
+}
+
+function getCuisineFilterSummary() {
+    if (!hasCuisineFilters()) return '';
+    const labels = Array.from(state.cuisineFilter).map(getCuisineFilterLabel);
+    if (labels.length <= 2) return labels.join('、');
+    return `${labels.slice(0, 2).join('、')} +${labels.length - 2}`;
+}
+function updateCuisineFilterUI(options = {}) {
+    const toggle = document.getElementById('toggle-cuisine-filter');
+    const panel = document.getElementById('cuisine-options');
+    const selectedLabel = document.getElementById('selected-cuisine-label');
+    const clearCuisineBtn = document.getElementById('clear-cuisine-filter');
+    const shouldExpand = typeof options.expand === 'boolean'
+        ? options.expand
+        : toggle?.getAttribute('aria-expanded') === 'true';
+
+    document.querySelectorAll('.cuisine-chip').forEach(chip => {
+        chip.classList.toggle('active', state.cuisineFilter.has(chip.dataset.cuisine));
+    });
+
+    if (clearCuisineBtn) {
+        clearCuisineBtn.classList.toggle('hidden', !hasCuisineFilters());
+    }
+
+    if (selectedLabel) {
+        selectedLabel.textContent = getCuisineFilterSummary();
+        selectedLabel.classList.toggle('hidden', !hasCuisineFilters());
+    }
+
+    if (toggle) {
+        toggle.classList.toggle('active', shouldExpand);
+        toggle.setAttribute('aria-expanded', String(shouldExpand));
+    }
+
+    if (panel) {
+        panel.classList.toggle('hidden', !shouldExpand);
+    }
+}
+
 function updateShowResultsButton(matchCount = 0) {
     const btnShowResultsContainer = document.getElementById('btn-show-results-container');
     const btnShowResults = document.getElementById('btn-show-results');
     if (!btnShowResultsContainer || !btnShowResults) return;
 
+    const hasActiveFilters = (state.filters && state.filters.size > 0) || hasCuisineFilters();
     const shouldShow = isAreaSearchLocation(state.searchLocation)
-        && state.filters
-        && state.filters.size > 0
+        && hasActiveFilters
         && matchCount > 0;
 
     btnShowResultsContainer.style.display = shouldShow ? 'block' : 'none';
@@ -475,7 +539,9 @@ function updateShowResultsButton(matchCount = 0) {
 }
 
 function getShowResultsPreviewCount() {
-    if (!state.searchLocation || !state.filters || state.filters.size === 0) return 0;
+    if (!state.searchLocation) return 0;
+    const hasActiveFilters = (state.filters && state.filters.size > 0) || hasCuisineFilters();
+    if (!hasActiveFilters) return 0;
     if (typeof restaurantData === 'undefined' || !restaurantData) return 0;
 
     const center = state.searchLocation;
@@ -486,6 +552,7 @@ function getShowResultsPreviewCount() {
             (res.name && res.name.toLowerCase().includes(q)) ||
             (res.address && res.address.toLowerCase().includes(q)) ||
             (res.cuisine && res.cuisine.toLowerCase().includes(q)) ||
+            (res.cuisine_group && res.cuisine_group.toLowerCase().includes(q)) ||
             (res.district && res.district.toLowerCase().includes(q))
         );
     } else {
@@ -498,6 +565,8 @@ function getShowResultsPreviewCount() {
             return distance <= maxRadius;
         });
     }
+
+    filtered = filtered.filter(matchesCuisineFilter);
 
     return filtered.filter(res => {
         const status = getDynamicStatus(res, state.filters);
@@ -695,6 +764,63 @@ function setupEventListeners() {
         });
     });
 
+    const toggleCuisineFilterBtn = document.getElementById('toggle-cuisine-filter');
+    if (toggleCuisineFilterBtn) {
+        toggleCuisineFilterBtn.addEventListener('click', () => {
+            updateCuisineFilterUI({
+                expand: toggleCuisineFilterBtn.getAttribute('aria-expanded') !== 'true'
+            });
+        });
+    }
+    // Cuisine Chips
+    document.querySelectorAll('.cuisine-chip').forEach(chip => {
+        chip.addEventListener('click', () => {
+            const cuisine = chip.dataset.cuisine;
+            let action = 'select';
+
+            if (state.cuisineFilter.has(cuisine)) {
+                state.cuisineFilter.delete(cuisine);
+                action = 'deselect';
+            } else {
+                state.cuisineFilter.add(cuisine);
+            }
+
+            updateCuisineFilterUI({ expand: true });
+
+            state.recommendedLimit = 30; // Reset pagination limit
+            state.othersLimit = 30; // Reset pagination limit
+            refreshShowResultsButton();
+
+            // Toggle active state in UI instantly, then defer heavy search execution
+            setTimeout(() => {
+                trackEvent('use_cuisine_filter', {
+                    cuisine_name: cuisine,
+                    action: action
+                });
+                renderResults();
+                updateUrl();
+            }, 20);
+        });
+    });
+
+    // Clear Cuisine Filter
+    const clearCuisineFilterBtn = document.getElementById('clear-cuisine-filter');
+    if (clearCuisineFilterBtn) {
+        clearCuisineFilterBtn.addEventListener('click', () => {
+            state.cuisineFilter.clear();
+            updateCuisineFilterUI({ expand: false });
+            
+            state.recommendedLimit = 30; // Reset pagination limit
+            state.othersLimit = 30; // Reset pagination limit
+            refreshShowResultsButton();
+
+            setTimeout(() => {
+                renderResults();
+                updateUrl();
+            }, 20);
+        });
+    }
+
     // Clear All Filters
     const clearAllFiltersBtn = document.getElementById('clear-all-filters');
     if (clearAllFiltersBtn) {
@@ -766,12 +892,14 @@ function setupEventListeners() {
         state.lastGeographicLocation = null;
         resetViewedRestaurantCount();
         state.filters.clear();
+        state.cuisineFilter.clear();
         state.hideLowQualityMarkers = true; // Reset to default: hide low quality
         state.showOthers = false; // Reset to default: hide others list
         state.recommendedLimit = 30; // Reset pagination limit
         state.othersLimit = 30; // Reset pagination limit
         
         document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
+        updateCuisineFilterUI({ expand: false });
         const clearAllFiltersBtn = document.getElementById('clear-all-filters');
         if (clearAllFiltersBtn) clearAllFiltersBtn.classList.add('hidden');
         
@@ -1319,6 +1447,7 @@ function handleAutocomplete() {
         restaurantMatches = restaurantData.filter(res => {
             return (res.name && res.name.toLowerCase().includes(query)) ||
                    (res.cuisine && res.cuisine.toLowerCase().includes(query)) ||
+                   (res.cuisine_group && res.cuisine_group.toLowerCase().includes(query)) ||
                    (res.address && res.address.toLowerCase().includes(query)) ||
                    (res.district && res.district.toLowerCase().includes(query));
         }).slice(0, 5);
@@ -1559,6 +1688,7 @@ async function executeSearch(query) {
             (res.name && res.name.toLowerCase().includes(q)) ||
             (res.address && res.address.toLowerCase().includes(q)) ||
             (res.cuisine && res.cuisine.toLowerCase().includes(q)) ||
+            (res.cuisine_group && res.cuisine_group.toLowerCase().includes(q)) ||
             (res.district && res.district.toLowerCase().includes(q))
         );
 
@@ -1668,7 +1798,7 @@ function selectLocation(loc, source = 'other', pushState = true) {
     }
     
     autocompleteDropdown.classList.add('hidden');
-    clearSearchBtn.classList.remove('hidden');
+    clearSearchBtn.classList.add('hidden');
     
     // Switch UI to results mode
     document.querySelector('.main-header').style.display = 'block'; 
@@ -1759,11 +1889,11 @@ function calculatePersonalizedScore(res) {
     // Determine level based on requested hierarchy
     let level = 'Insufficient Info';
     if (missCount > 0) {
-        level = 'Needs Attention'; // "不符合條件"
+        level = 'Needs Attention'; // "銝泵??隞?
     } else if (matchCount === state.filters.size && state.filters.size > 0) {
-        level = 'High'; // "很適合你"
+        level = 'High'; // "敺??"
     } else if (matchCount > 0 || (otherMatchCount > 0 && missCount === 0)) {
-        level = 'Medium'; // "可以考慮"
+        level = 'Medium'; // "?臭誑?"
     } else if (unknownCount === allKeys.length) {
         level = 'Insufficient Info';
     }
@@ -1788,16 +1918,44 @@ async function renderResults() {
         const activeFiltersBar = document.getElementById('active-filters-bar');
         if (activeFiltersBar) {
             activeFiltersBar.innerHTML = '';
-            if (state.filters && state.filters.size > 0) {
+            const hasFilters = state.filters && state.filters.size > 0;
+            const hasCuisine = hasCuisineFilters();
+
+            if (hasFilters || hasCuisine) {
                 activeFiltersBar.classList.remove('hidden');
-                state.filters.forEach(f => {
-                    const icon = attributeIcons[f] || '✨';
-                    const label = attributeLabels[f] || f;
-                    const indicator = document.createElement('span');
-                    indicator.className = 'filter-indicator-mini';
-                    indicator.innerHTML = `${icon} ${label}`;
-                    activeFiltersBar.appendChild(indicator);
-                });
+
+                if (hasCuisine) {
+                    const cuisineEmojis = {
+                        '台式/中式料理': '🥟',
+                        '日式料理': '🍣',
+                        '韓式料理': '🍲',
+                        '義式料理': '🍕',
+                        '西式料理': '🥩',
+                        '星馬料理': '🍛',
+                        '罕見異國料理': '🌮',
+                        '茶館與咖啡廳': '☕',
+                        '餐酒館': '🍷',
+                        '複合式料理': '🥗'
+                    };
+                    state.cuisineFilter.forEach(cuisine => {
+                        const indicator = document.createElement('span');
+                        indicator.className = 'filter-indicator-mini filter-cuisine-indicator';
+                        const emoji = cuisineEmojis[cuisine] || '🍽️';
+                        indicator.textContent = `${emoji} ${getCuisineFilterLabel(cuisine)}`;
+                        activeFiltersBar.appendChild(indicator);
+                    });
+                }
+
+                if (hasFilters) {
+                    state.filters.forEach(f => {
+                        const icon = attributeIcons[f] || '✨';
+                        const label = attributeLabels[f] || f;
+                        const indicator = document.createElement('span');
+                        indicator.className = 'filter-indicator-mini';
+                        indicator.textContent = `${icon} ${label}`;
+                        activeFiltersBar.appendChild(indicator);
+                    });
+                }
             } else {
                 activeFiltersBar.classList.add('hidden');
             }
@@ -1834,6 +1992,7 @@ async function renderResults() {
                 (res.name && res.name.toLowerCase().includes(q)) ||
                 (res.address && res.address.toLowerCase().includes(q)) ||
                 (res.cuisine && res.cuisine.toLowerCase().includes(q)) ||
+                (res.cuisine_group && res.cuisine_group.toLowerCase().includes(q)) ||
                 (res.district && res.district.toLowerCase().includes(q))
             );
         } else {
@@ -1843,6 +2002,9 @@ async function renderResults() {
             }
             filtered = restaurants.filter(res => res.distance <= maxRadius);
         }
+
+        // Apply cuisine filter if active
+        filtered = filtered.filter(matchesCuisineFilter);
 
         if (filtered.length === 0) {
             updateShowResultsButton(0);
@@ -3150,6 +3312,9 @@ function getShareUrl() {
         }
     }
     state.filters.forEach(f => params.append('f', f));
+    if (hasCuisineFilters()) {
+        state.cuisineFilter.forEach(cuisine => params.append('cuisine', cuisine));
+    }
     if (state.view === 'detail' && state.selectedRestaurant) {
         params.set('r', state.selectedRestaurant.place_id);
     }
@@ -3201,6 +3366,13 @@ function urlMatchesCurrentState(params) {
     
     for (let f of urlFilters) {
         if (!state.filters.has(f)) return false;
+    }
+
+    // Check cuisine
+    const urlCuisines = params.getAll('cuisine');
+    if (urlCuisines.length !== state.cuisineFilter.size) return false;
+    for (let cuisine of urlCuisines) {
+        if (!state.cuisineFilter.has(cuisine)) return false;
     }
     
     return true;
@@ -3268,6 +3440,11 @@ function syncStateFromUrl(isInitialLoad = false, animate = false) {
             if (chip) chip.classList.add('active');
         });
 
+        // 2.5 恢復菜系過濾條件
+        state.cuisineFilter.clear();
+        params.getAll('cuisine').forEach(cuisine => state.cuisineFilter.add(cuisine));
+        updateCuisineFilterUI({ expand: false });
+
         // 3. 恢復搜尋地點
         const locName = params.get('loc');
         const lat = params.get('lat');
@@ -3333,6 +3510,9 @@ function syncStateFromUrl(isInitialLoad = false, animate = false) {
             const clearAllFiltersBtn = document.getElementById('clear-all-filters');
             if (clearAllFiltersBtn) clearAllFiltersBtn.classList.add('hidden');
             
+            state.cuisineFilter.clear();
+            updateCuisineFilterUI({ expand: false });
+
             const trendingSection = document.querySelector('.trending-section');
             if (trendingSection) trendingSection.classList.remove('hidden');
             const featuresSection = document.querySelector('.features-section');

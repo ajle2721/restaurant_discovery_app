@@ -598,6 +598,136 @@ body {
     content: '✓';
     margin-right: 4px;
 }
+.main-search-card .optional-cuisine {
+    margin-top: 1rem;
+}
+
+.main-search-card .optional-cuisine-toggle {
+    width: 100%;
+    min-height: 2.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.65rem;
+    padding: 0.65rem 0.85rem;
+    border-radius: 0.75rem;
+    border: 1px solid rgba(255, 255, 255, 0.22);
+    background: rgba(255, 255, 255, 0.12);
+    color: rgba(255, 255, 255, 0.92);
+    cursor: pointer;
+    transition: var(--transition);
+}
+
+.main-search-card .optional-cuisine-toggle:hover,
+.main-search-card .optional-cuisine-toggle.active {
+    background: rgba(255, 255, 255, 0.2);
+    border-color: rgba(255, 255, 255, 0.38);
+}
+
+.main-search-card .optional-cuisine-title {
+    font-size: 0.85rem;
+    font-weight: 750;
+    min-width: 0;
+}
+
+.main-search-card .selected-cuisine-label {
+    margin-left: auto;
+    display: inline-flex;
+    align-items: center;
+    min-height: 1.65rem;
+    padding: 0.28rem 0.65rem;
+    border-radius: 999px;
+    background: var(--accent);
+    color: var(--text-main);
+    border: 1px solid rgba(255, 217, 61, 0.75);
+    font-size: 0.8rem;
+    font-weight: 800;
+    line-height: 1.1;
+    white-space: nowrap;
+}
+
+.main-search-card .optional-cuisine-arrow {
+    font-size: 1rem;
+    line-height: 1;
+    transition: transform 0.2s ease;
+    flex-shrink: 0;
+}
+
+.main-search-card .optional-cuisine-toggle.active .optional-cuisine-arrow {
+    transform: rotate(180deg);
+}
+
+.main-search-card .optional-cuisine-panel {
+    margin-top: 0.75rem;
+    padding-top: 0.75rem;
+    border-top: 1px solid rgba(255, 255, 255, 0.16);
+}
+
+.main-search-card .optional-cuisine-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0.75rem;
+    margin-bottom: 0.65rem;
+    color: white;
+    font-size: 0.85rem;
+    font-weight: 800;
+    letter-spacing: 0.05em;
+    opacity: 0.95;
+}
+
+.main-search-card .cuisines-scroll {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    overflow-x: visible;
+    padding-bottom: 0;
+}
+
+.main-search-card .cuisines-scroll::-webkit-scrollbar {
+    display: none; /* Chrome, Safari and Opera */
+}
+
+.main-search-card .cuisine-chip {
+    flex: 1 1 calc(50% - 0.25rem);
+    justify-content: center;
+    min-width: 8rem;
+    padding: 0.5rem 1rem;
+    border-radius: 2rem;
+    background: rgba(255, 255, 255, 0.15);
+    color: white;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    font-size: 0.9rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+}
+
+.main-search-card .cuisine-chip:hover {
+    background: rgba(255, 255, 255, 0.28);
+    border-color: rgba(255, 255, 255, 0.4);
+    transform: translateY(-1px);
+}
+
+.main-search-card .cuisine-chip:active {
+    transform: translateY(0);
+}
+
+.main-search-card .cuisine-chip.active {
+    background: var(--accent);
+    color: var(--text-main);
+    border-color: var(--accent);
+    box-shadow: 0 4px 12px rgba(255, 217, 61, 0.35);
+}
+
+.main-search-card .cuisine-chip.active::before {
+    content: '✓';
+    margin-right: 2px;
+    font-weight: 800;
+}
 
 .main-search-card .search-container {
     max-width: 100%;
@@ -3438,6 +3568,12 @@ body {
     align-items: center;
     gap: 2px;
     border: 1px solid rgba(255, 126, 103, 0.15);
+}
+
+.active-filters-bar-compact .filter-cuisine-indicator {
+    background: rgba(255, 217, 61, 0.15);
+    border-color: rgba(255, 217, 61, 0.4);
+    color: #b25e00;
 }
 
 .card-meta-dot {
