@@ -227,6 +227,60 @@ manualRecords.push(
   ],
 );
 
+const brandRulesPath = path.join(baseDir, "brand_rules.json");
+let brandRules = {};
+if (fs.existsSync(brandRulesPath)) {
+  try {
+    brandRules = JSON.parse(fs.readFileSync(brandRulesPath, "utf8"));
+  } catch (err) {
+    console.error("Error loading brand_rules.json:", err.message);
+  }
+}
+
+function isInShoppingMall(name, address) {
+  const mallKeywords = [
+    "百貨", "商場", "廣場", "購物中心", "誠品", "SOGO", "微風", 
+    "新光三越", "遠東", "FE21", "統一時代", "京站", "美麗華", 
+    "BELLAVITA", "ATT 4 FUN", "三創", "CITYLINK", "LALAPORT", 
+    "大葉高島屋", "明曜", "NOKE", "環球購物", "GLOBAL MALL",
+    "大樓", "地下街"
+  ];
+  const nameUpper = String(name || "").toUpperCase();
+  const addressUpper = String(address || "").toUpperCase();
+  return mallKeywords.some(kw => nameUpper.includes(kw) || addressUpper.includes(kw));
+}
+
+function cleanBrandName(name) {
+  if (!name) return "";
+  let cleaned = name.replace(/([\(（\[【])(.*?)([\)）\]】])/g, '');
+  const branchPatterns = [
+    /\s*\(.*?店\)$/i, /\s*（.*?店）$/i, /\s*\[.*?店\]$/i, /\s*【.*?店】$/i,
+    /\s+臺?北\w*店$/i, /\s*\w+店$/i, /\s*\w+分店$/i, /\s*-\s*\w+店$/i, /\s*-\w+店$/i,
+    /\s+旗旗店$/i, /\s+門市$/i, /\s*\w+門市$/i, /\s*\w+館$/i, /\s+臺?北\w*館$/i
+  ];
+  for (const pattern of branchPatterns) {
+    cleaned = cleaned.replace(pattern, '');
+  }
+  cleaned = cleaned.replace(/[\/／\|｜~～].*$/, '');
+  return cleaned.trim();
+}
+
+function isChainBrand(name) {
+  const brand = cleanBrandName(name);
+  if (!brand) return false;
+  const brandLower = brand.toLowerCase();
+  return Object.keys(brandRules).some(k => k.toLowerCase() === brandLower);
+}
+
+function isExpensiveOrHotel(name, priceLevel) {
+  if (priceLevel === "PRICE_LEVEL_EXPENSIVE" || priceLevel === "PRICE_LEVEL_VERY_EXPENSIVE") {
+    return true;
+  }
+  const highEndKeywords = ["飯店", "酒店", "會館", "賓館", "VILLA"];
+  const nameUpper = String(name || "").toUpperCase();
+  return highEndKeywords.some(kw => nameUpper.includes(kw));
+}
+
 function readJson(filePath) {
   try {
     const content = fs.readFileSync(filePath, "utf8");
@@ -274,7 +328,14 @@ function hasGoogleEvidence(...evidenceValues) {
 }
 
 function keepExistingWhenUnknown(nextValue, existingValue) {
-  return nextValue === "unknown" ? normalizeResult(existingValue) : nextValue;
+  const normExisting = normalizeResult(existingValue);
+  if (nextValue === "unknown") {
+    if (normExisting === "likely" || normExisting === "likely_room" || normExisting === "likely_venue") {
+      return "unknown";
+    }
+    return normExisting;
+  }
+  return nextValue;
 }
 
 function keepExistingUnlessOverrideUnknown(nextValue, existingValue, sourceObj) {
@@ -371,13 +432,17 @@ function getPrivateRoomValue(aiReview) {
   return result;
 }
 
-function getAiAttributes(aiReview, existingAttributes = {}) {
+function getAiAttributes(aiReview, existingAttributes = {}, name = "", address = "", priceLevel = null) {
   let highChair = normalizeResult(
     aiReview[" child_seat available"]?.result ||
       aiReview["child_seat available"]?.result ||
       aiReview["High chair available"]?.result
   );
   let tableware = normalizeResult(aiReview.has_tableware?.result);
+
+  const inMall = isInShoppingMall(name, address);
+  const isChain = isChainBrand(name);
+  const isExpensive = isExpensiveOrHotel(name, priceLevel);
 
   if (
     highChair === "yes" &&
@@ -387,11 +452,23 @@ function getAiAttributes(aiReview, existingAttributes = {}) {
       aiReview["High chair available"]?.evidence
     )
   ) {
-    highChair = "likely";
+    if (inMall || isChain) {
+      highChair = "yes";
+    } else if (isExpensive) {
+      highChair = "likely";
+    } else {
+      highChair = "unknown";
+    }
   }
 
   if (tableware === "yes" && hasGoogleEvidence(aiReview.has_tableware?.evidence)) {
-    tableware = "likely";
+    if (inMall || isChain) {
+      tableware = "yes";
+    } else if (isExpensive) {
+      tableware = "likely";
+    } else {
+      tableware = "unknown";
+    }
   }
 
   return {
@@ -480,7 +557,13 @@ function getCuisine(baseRestaurant) {
 }
 
 function buildRecord(placeId, baseRestaurant, aiReview) {
-  const attributes = getAiAttributes(aiReview, baseRestaurant.attributes || {});
+  const attributes = getAiAttributes(
+    aiReview,
+    baseRestaurant.attributes || {},
+    baseRestaurant.name || "",
+    baseRestaurant.address || baseRestaurant.formatted_address || "",
+    baseRestaurant.price_level ?? null
+  );
 
   return [
     placeId,
@@ -551,3 +634,4 @@ function main() {
 }
 
 main();
+
