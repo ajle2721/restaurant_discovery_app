@@ -227,6 +227,31 @@ manualRecords.push(
   ],
 );
 
+manualRecords.push([
+  "manual-mwd-dazhi-zhifu",
+  "麥味登 大直植福店",
+  "台北市中山區北安路608巷5弄7號",
+  "中山區",
+  "PRICE_LEVEL_INEXPENSIVE",
+  "早午餐",
+  25.082042,
+  121.549705,
+  "https://www.google.com/maps/search/?api=1&query=%E9%BA%A5%E5%91%B3%E7%99%BB%20%E5%A4%A7%E7%9B%B4%E6%A4%8D%E7%A6%8F%E5%BA%97",
+  {
+    high_chair_available: "yes",
+    kids_menu: "no",
+    spacious_seating: "unknown",
+    kid_noise_tolerant: "yes",
+    has_play_area: "unknown",
+    has_private_room: "unknown",
+    has_tableware: "yes",
+    has_diaper_table: "unknown",
+  },
+  "提供兒童椅與兒童餐具，店內更貼心備有拼圖供小朋友玩耍，是家長帶孩子用餐的優質早午餐選擇。",
+  "提供兒童椅、兒童餐具，並備有拼圖供小孩玩耍的親子友善早午餐店。",
+  "高",
+]);
+
 const brandRulesPath = path.join(baseDir, "brand_rules.json");
 let brandRules = {};
 if (fs.existsSync(brandRulesPath)) {
