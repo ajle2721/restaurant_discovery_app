@@ -1,51 +1,51 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  "使用者回報與人工校正：新型旗艦大店通常會備有 1~2 張簡易兒童椅",
-                                  "confidence":  1
-                              },
-    "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "Kids menu available":  {
-                                "result":  "Yes",
-                                "evidence":  "使用者回報與人工校正：菜單上有專屬的兒童套餐（有雞塊、熱狗、小薯條）",
-                                "confidence":  1
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Unknown",
-                               "evidence":  null,
-                               "confidence":  0.4
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "result":  "Yes",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_diaper_table":  {
-                             "result":  "No",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，這家餐廳店內貼心備有兒童專用餐具，並提供兒童餐點。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "使用者回報與人工校正：菜單上有專屬的兒童套餐（有雞塊、熱狗、小薯條）",
-                              "使用者回報與人工校正：店內有提供兒童餐具"
-                          ],
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "高",
-    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": "依據連鎖品牌【麥味登】統一設定",
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Kids menu available": {
+        "result": "No",
+        "evidence": "依據連鎖品牌【麥味登】統一設定",
+        "confidence": 1
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "依據連鎖品牌【麥味登】統一設定",
+        "confidence": 0.9
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "likely",
+        "evidence": "依據連鎖品牌【麥味登】統一設定",
+        "confidence": 1
+    },
+    "has_diaper_table": {
+        "result": "No",
+        "evidence": "依據連鎖品牌【麥味登】統一設定",
+        "confidence": 1
+    },
+    "generated_summary": "依據連鎖品牌【麥味登】統一設定：不怕吵，無提供兒童餐，有提供兒童餐具（估），無提供兒童椅及尿布台。",
+    "card_summary": "依據連鎖品牌【麥味登】統一設定：不怕吵，有提供兒童餐具（估），無提供兒童餐與兒童椅。",
+    "generated_signals": [
+        "使用者回報與人工校正：菜單上有專屬的兒童套餐（有雞塊、熱狗、小薯條）",
+        "使用者回報與人工校正：店內有提供兒童餐具"
+    ],
+    "parent_friendly_score": 1,
+    "parent_friendly_level": "中",
+    "reason": "連鎖/商場規則預設評估"
 }

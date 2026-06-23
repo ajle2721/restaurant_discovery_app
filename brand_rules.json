@@ -436,13 +436,23 @@
         }
     },
     "麥味登": {
+        " child_seat available": {
+            "result": "Unknown",
+            "evidence": "依據連鎖品牌【麥味登】統一設定",
+            "confidence": 0.4
+        },
+        "child_seat available": {
+            "result": "Unknown",
+            "evidence": "依據連鎖品牌【麥味登】統一設定",
+            "confidence": 0.4
+        },
         "Kids menu available": {
-            "result": "Yes",
+            "result": "No",
             "evidence": "依據連鎖品牌【麥味登】統一設定",
             "confidence": 1
         },
         "has_tableware": {
-            "result": "Yes",
+            "result": "likely",
             "evidence": "依據連鎖品牌【麥味登】統一設定",
             "confidence": 1
         },
@@ -1206,23 +1216,6 @@
             "result": "Yes",
             "evidence": "依據連鎖品牌【清晨吐絲】統一設定",
             "confidence": 1
-        }
-    },
-    "麥味登北市八德金控店-中山平價早午餐": {
-        "Kids menu available": {
-            "result": "Yes",
-            "evidence": "依據連鎖品牌【麥味登北市八德金控店-中山平價早午餐】統一設定",
-            "confidence": 1
-        },
-        "has_tableware": {
-            "result": "Yes",
-            "evidence": "依據連鎖品牌【麥味登北市八德金控店-中山平價早午餐】統一設定",
-            "confidence": 0.9
-        },
-        "has_diaper_table": {
-            "result": "No",
-            "evidence": "依據連鎖品牌【麥味登北市八德金控店-中山平價早午餐】統一設定",
-            "confidence": 0.9
         }
     },
     "BACKMOUNT.後山咖啡": {
@@ -1989,23 +1982,6 @@
         "has_diaper_table": {
             "result": "No",
             "evidence": "依據連鎖品牌【澄食小人屋《湖光店》】統一設定",
-            "confidence": 0.9
-        }
-    },
-    "麥味登 內湖BOSS店": {
-        "Kids menu available": {
-            "result": "Yes",
-            "evidence": "依據連鎖品牌【麥味登 內湖BOSS店】統一設定",
-            "confidence": 1
-        },
-        "has_tableware": {
-            "result": "Yes",
-            "evidence": "依據連鎖品牌【麥味登 內湖BOSS店】統一設定",
-            "confidence": 0.9
-        },
-        "has_diaper_table": {
-            "result": "No",
-            "evidence": "依據連鎖品牌【麥味登 內湖BOSS店】統一設定",
             "confidence": 0.9
         }
     },
