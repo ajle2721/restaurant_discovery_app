@@ -1,50 +1,56 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "店面不大但位置寬敞舒適",
-                             "confidence":  1
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Unknown",
-                               "evidence":  "感覺比較適合聚餐",
-                               "confidence":  1
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，店內用餐空間規劃寬敞，活動動線舒適。空間寬敞舒適，適合帶孩子前來用餐。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "店面不大但位置寬敞舒適"
-                          ],
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "中",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+{
+    " child_seat available": {
+        "result": "Yes",
+        "evidence": "使用者回報：有兒童椅。",
+        "confidence": 1
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "使用者回報：空間不大。",
+        "confidence": 1
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": "使用者回報：有兒童餐。",
+        "confidence": 1
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "使用者回報：不怕小孩吵。",
+        "confidence": 1
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Yes",
+        "evidence": "使用者回報：有兒童餐具。",
+        "confidence": 1
+    },
+    "has_diaper_table": {
+        "result": "Yes",
+        "evidence": "使用者回報：有尿布台。",
+        "confidence": 1
+    },
+    "generated_summary": "晴天廚房提供兒童椅、兒童餐、兒童餐具與尿布台，且環境對孩子聲音較包容。不過店內空間不大，尖峰時段或推嬰兒車前往時建議先向店家確認座位安排。",
+    "card_summary": "",
+    "generated_signals": [
+        "店面不大但位置寬敞舒適",
+        "使用者回報：有兒童椅。",
+        "使用者回報：有兒童餐。",
+        "使用者回報：有兒童餐具。",
+        "使用者回報：有尿布台。",
+        "使用者回報：不怕小孩吵。",
+        "使用者回報：空間不大。"
+    ],
+    "parent_friendly_score": 4,
+    "parent_friendly_level": "高",
+    "reason": "使用者回報校正親子友善設施與空間狀況"
 }

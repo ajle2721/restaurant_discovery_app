@@ -568,6 +568,10 @@ function getShowResultsPreviewCount() {
 
     filtered = filtered.filter(matchesCuisineFilter);
 
+    if (!state.filters || state.filters.size === 0) {
+        return filtered.length;
+    }
+
     return filtered.filter(res => {
         const status = getDynamicStatus(res, state.filters);
         return status.level === 'High' || status.level === 'Medium';
@@ -2067,7 +2071,10 @@ async function renderResults() {
             btnShowResults.textContent = `查看 ${exactMatches.length} 間餐廳`;
         }
 
-        updateShowResultsButton(exactMatches.length);
+        const showResultsCount = (state.filters && state.filters.size > 0)
+            ? exactMatches.length
+            : filtered.length;
+        updateShowResultsButton(showResultsCount);
 
         // Render recommended cards up to the recommendedLimit
         const visibleRecommended = recommended.slice(0, state.recommendedLimit);
