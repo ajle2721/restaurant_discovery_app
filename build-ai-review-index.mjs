@@ -1,4 +1,4 @@
-import fs from "node:fs";
+﻿import fs from "node:fs";
 import path from "node:path";
 import vm from "node:vm";
 
@@ -301,6 +301,141 @@ function cleanBrandName(name) {
   return cleaned.trim();
 }
 
+function isPositiveAttributeValue(value) {
+  return value === "yes" || value === "likely";
+}
+
+function sanitizeSourceMarkerSummary(summary) {
+  if (!summary) return "";
+
+  const cleanupSentence = (sentence) => String(sentence || "")
+    .replace(/^根據公開地點資訊(?:的資訊)?標示[，,]?/, "")
+    .replace(/^根據公開地點資訊(?:的資訊)?[，,]?/, "")
+    .replace(/^店內(?:在)?公開地點資訊標示(?:中)?(?:顯示|為)?[^，。！？!?]*適合兒童(?:的友善空間)?[，,但]*/, "")
+    .replace(/^本餐廳被公開地點資訊標示為適合兒童[，,但]*/, "")
+    .replace(/^該餐廳經公開地點資訊標示為適合兒童[，,但]*/, "")
+    .replace(/^雖然公開地點資訊標示適合兒童[，,但]*/, "")
+    .replace(/^雖然 公開地點資訊標示該餐廳適合兒童[，,但]*/, "")
+    .replace(/^雖然 Google Maps 標記該店適合兒童[，,但]*/, "")
+    .replace(/^店內雖然被標記為適合兒童[，,但]*/, "")
+    .replace(/^該店被標記為適合兒童[，,但]*/, "")
+    .replace(/^該餐廳被(?:歸類|標記)為適合兒童[，,但]*/, "")
+    .replace(/^這家餐廳適合兒童用餐[，,但]*/, "")
+    .replace(/^這家餐廳適合兒童[，,但]*/, "")
+    .replace(/^此餐廳適合兒童[，,但]*/, "")
+    .replace(/^適合兒童用餐[，,但]*/, "")
+    .replace(/^適合兒童[，,但]*/, "")
+    .replace(/^(?:但|且|並|，|,)+/, "")
+    .trim();
+
+  const sourceMarkerPattern = /公開地點資訊|被標記|被歸類|標示.*適合兒童|標記.*適合兒童|Google|Maps|官方/;
+  return String(summary)
+    .replace(/\s+/g, " ")
+    .match(/[^。！？!?]+[。！？!?]?/g)
+    ?.map((sentence) => cleanupSentence(sentence))
+    .filter((sentence) => sentence && !sourceMarkerPattern.test(sentence))
+    .join("") || "";
+}
+function sanitizeNoiseConflictSummary(summary, attributes = {}) {
+  if (!summary || !isPositiveAttributeValue(attributes.kid_noise_tolerant)) return summary || "";
+
+  const quietConflictPattern = /環境[^。！？!?]*(?:安靜|靜謐|靜靜聊天)|(?:安靜|靜謐|靜靜聊天|較安靜|偏安靜)[^。！？!?]*(?:帶小孩|孩童|孩子|幼童|好動|吵鬧|留意|不適合)|帶(?:好動)?小孩用餐時可能需要多加留意|帶小孩用餐時可能需要多加留意|不適合較吵鬧的孩童|可能不適合較吵鬧/;
+  return String(summary)
+    .replace(/\s+/g, " ")
+    .match(/[^。！？!?]+[。！？!?]?/g)
+    ?.map((sentence) => sentence.trim())
+    .filter((sentence) => sentence && !quietConflictPattern.test(sentence))
+    .join("") || "";
+}
+
+function sanitizeUnavailableFamilyFacilitySummary(summary, attributes = {}) {
+  if (!summary) return "";
+
+  const unavailablePatterns = [];
+  if (!isPositiveAttributeValue(attributes.high_chair_available)) {
+    unavailablePatterns.push(/兒童椅|兒童座椅|寶寶椅|高腳椅/);
+  }
+  if (!isPositiveAttributeValue(attributes.has_tableware)) {
+    unavailablePatterns.push(/兒童餐具|專用餐具|專用碗盤|碗盤餐具|兒童碗|兒童餐盤/);
+  }
+  if (unavailablePatterns.length === 0) return summary;
+
+  return String(summary)
+    .replace(/\s+/g, " ")
+    .match(/[^。！？!?]+[。！？!?]?/g)
+    ?.map((sentence) => sentence.trim())
+    .filter((sentence) => !unavailablePatterns.some((pattern) => pattern.test(sentence)))
+    .join("") || "";
+}
+function joinChineseList(items) {
+  const unique = [];
+  const seen = new Set();
+  items.forEach((item) => {
+    if (!item || seen.has(item)) return;
+    seen.add(item);
+    unique.push(item);
+  });
+  return unique.join('、');
+}
+
+function getRestaurantTypeSummaryLabel(restaurant = {}) {
+  const cuisine = String(restaurant.cuisine || restaurant.major_cuisine || '').trim();
+  if (!cuisine) return '餐廳';
+  const labels = {
+    '咖啡廳': '咖啡廳',
+    '早午餐': '早午餐店',
+    '烘焙/甜點': '甜點店',
+    '火鍋': '火鍋店',
+    '披薩': '披薩店',
+    '壽司': '壽司店',
+    '拉麵': '拉麵店',
+    '牛排館': '牛排館',
+    '小酒館/餐酒館': '餐酒館'
+  };
+  if (labels[cuisine]) return labels[cuisine];
+  if (/料理$/.test(cuisine)) return `${cuisine}餐廳`;
+  return `${cuisine}餐廳`;
+}
+
+function getPositiveFamilyFacilityLabels(attributes = {}) {
+  const items = [];
+  const add = (key, label) => {
+    if (isPositiveAttributeValue(attributes[key])) {
+      items.push(label + (attributes[key] === 'likely' ? '（推估）' : ''));
+    }
+  };
+  add('high_chair_available', '提供兒童椅');
+  add('has_tableware', '備有兒童餐具');
+  add('kids_menu', '提供兒童餐');
+  add('has_diaper_table', '設有尿布台');
+  add('has_play_area', '設有遊樂區');
+  add('spacious_seating', '座位較寬敞');
+  add('kid_noise_tolerant', '環境對孩子聲音較包容');
+  const roomLabel = getPrivateRoomSummaryLabel(attributes.has_private_room);
+  if (roomLabel) items.push(roomLabel);
+  return items;
+}
+
+function getFallbackFamilySummary(restaurant = {}, attributes = {}) {
+  const facilities = getPositiveFamilyFacilityLabels(attributes);
+  if (facilities.length === 0) return '';
+  return `這間${getRestaurantTypeSummaryLabel(restaurant)}${joinChineseList(facilities)}。`;
+}
+
+function removeEmptySummaryCopy(summary) {
+  return /^(目前尚無摘要資訊|目前親子友善資訊較有限|尚無摘要資訊|無摘要)[。.!！?？]*$/.test(String(summary || '').trim()) ? '' : summary;
+}
+
+function getCleanFamilySummary(summary, restaurant = {}, attributes = {}) {
+  const cleaned = sanitizeNoiseConflictSummary(
+    sanitizeUnavailableFamilyFacilitySummary(
+      sanitizeSourceMarkerSummary(neutralizeSummarySourceCopy(removeEmptySummaryCopy(summary || ''), attributes.has_private_room)),
+      attributes
+    ),
+    attributes
+  );
+  return (cleaned || getFallbackFamilySummary(restaurant, attributes)).replace(/需留意環境偏安靜。?/g, '');
+}
 function isChainBrand(name) {
   const brand = cleanBrandName(name);
   if (!brand) return false;
@@ -560,8 +695,8 @@ function buildRecord(placeId, baseRestaurant, aiReview) {
     baseRestaurant.longitude ?? null,
     baseRestaurant.url || baseRestaurant.google_maps_url || "",
     attributes,
-    neutralizeSummarySourceCopy(aiReview.generated_summary || baseRestaurant.ai_summary || "", attributes.has_private_room),
-    neutralizeSummarySourceCopy(aiReview.card_summary || baseRestaurant.card_summary || "", attributes.has_private_room),
+    getCleanFamilySummary(aiReview.generated_summary || baseRestaurant.ai_summary || "", { ...baseRestaurant, cuisine }, attributes),
+    getCleanFamilySummary(aiReview.card_summary || baseRestaurant.card_summary || "", { ...baseRestaurant, cuisine }, attributes),
     aiReview.parent_friendly_level ||
       baseRestaurant.parent_friendly_level ||
       "資訊不足",
@@ -713,8 +848,8 @@ function buildRecord_old(placeId, baseRestaurant, aiReview) {
     baseRestaurant.longitude ?? null,
     baseRestaurant.url || baseRestaurant.google_maps_url || "",
     attributes,
-    neutralizeSummarySourceCopy(aiReview.generated_summary || baseRestaurant.ai_summary || "", attributes.has_private_room),
-    neutralizeSummarySourceCopy(aiReview.card_summary || baseRestaurant.card_summary || "", attributes.has_private_room),
+    getCleanFamilySummary(aiReview.generated_summary || baseRestaurant.ai_summary || "", { ...baseRestaurant, cuisine }, attributes),
+    getCleanFamilySummary(aiReview.card_summary || baseRestaurant.card_summary || "", { ...baseRestaurant, cuisine }, attributes),
     aiReview.parent_friendly_level ||
       baseRestaurant.parent_friendly_level ||
       "資訊不足",
@@ -775,4 +910,5 @@ function main() {
 }
 
 main();
+
 

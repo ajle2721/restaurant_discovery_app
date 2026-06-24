@@ -2399,7 +2399,7 @@ function renderCard(res, container, overrideLevel) {
             </div>
             ${extraInfoHtml}
         </div>
-        <div class="card-summary">${res.card_summary || res.ai_summary || '目前親子友善資訊較有限。'}</div>
+        <div class="card-summary">${getDisplaySummary(res, res.card_summary || res.ai_summary, { maxSentences: 3, maxChars: 220 })}</div>
         <div class="card-footer-row">
             ${footerHtml}
         </div>
@@ -2719,7 +2719,7 @@ function renderDetailContent(restaurant) {
                 </div>
             </div>
             <div class="ai-summary-tooltip" id="ai-summary-tooltip" role="tooltip" hidden>AI 整理公開資訊後產生，部分內容經人工或使用者回饋校正，僅供參考。</div>
-            <div class="ai-summary-text">${(restaurant.ai_summary || '目前尚無摘要資訊。').replace(/\n/g, '<br>')}</div>
+            <div class="ai-summary-text">${getDisplaySummary(restaurant, restaurant.ai_summary, { maxSentences: 4, maxChars: 360 }).replace(/\n/g, '<br>')}</div>
         </div>
         
         <div class="detail-feedback-section" id="ai-summary-feedback-container" style="margin-top: 1.5rem; margin-bottom: 1.5rem; border-top: 1px solid #e2e8f0; padding-top: 1.25rem;">
@@ -3771,6 +3771,18 @@ function neutralizeSummarySourceCopy(summary, privateRoomVal) {
         .replace(/評論/g, '目前整理資料');
 }
 
+function sanitizeNoiseConflictSummary(summary, attributes = {}) {
+    if (!summary || !isPositiveAttributeValue(attributes.kid_noise_tolerant)) return summary || '';
+
+    const quietConflictPattern = /環境[^。！？!?]*(?:安靜|靜謐|靜靜聊天)|(?:安靜|靜謐|靜靜聊天|較安靜|偏安靜)[^。！？!?]*(?:帶小孩|孩童|孩子|幼童|好動|吵鬧|留意|不適合)|帶(?:好動)?小孩用餐時可能需要多加留意|帶小孩用餐時可能需要多加留意|不適合較吵鬧的孩童|可能不適合較吵鬧/;
+    return String(summary)
+        .replace(/\s+/g, ' ')
+        .match(/[^。！？!?]+[。！？!?]?/g)
+        ?.map(sentence => sentence.trim())
+        .filter(sentence => sentence && !quietConflictPattern.test(sentence))
+        .join('') || '';
+}
+
 function splitSummarySentences(summary) {
     const matches = String(summary || '').replace(/\s+/g, ' ').match(/[^。！？!?]+[。！？!?]?/g);
     return (matches || []).map(s => s.trim()).filter(Boolean);
@@ -3837,6 +3849,30 @@ function getPositiveFamilyFacilities(attrs) {
     return items;
 }
 
+function getRestaurantTypeSummaryLabel(restaurant = {}) {
+    const cuisine = String(restaurant.cuisine || restaurant.major_cuisine || '').trim();
+    if (!cuisine) return '餐廳';
+
+    const labels = {
+        '咖啡廳': '咖啡廳',
+        '早午餐': '早午餐店',
+        '烘焙/甜點': '甜點店',
+        '火鍋': '火鍋店',
+        '披薩': '披薩店',
+        '壽司': '壽司店',
+        '拉麵': '拉麵店',
+        '牛排館': '牛排館',
+        '小酒館/餐酒館': '餐酒館'
+    };
+    if (labels[cuisine]) return labels[cuisine];
+    if (/料理$/.test(cuisine)) return `${cuisine}餐廳`;
+    return `${cuisine}餐廳`;
+}
+
+function getFallbackFamilySummaryIntro(restaurant = {}) {
+    return `這間${getRestaurantTypeSummaryLabel(restaurant)}`;
+}
+
 function getFamilyCautions(attrs) {
     const cautions = [];
     if (attrs.high_chair_available === 'no') cautions.push('未提供兒童椅');
@@ -3844,7 +3880,6 @@ function getFamilyCautions(attrs) {
     if (attrs.has_diaper_table === 'no') cautions.push('無尿布台');
     if (attrs.has_play_area === 'no') cautions.push('無遊樂區');
     if (attrs.spacious_seating === 'no') cautions.push('座位較為緊密');
-    if (attrs.kid_noise_tolerant === 'no') cautions.push('環境偏安靜');
     if (attrs.has_private_room === 'no') cautions.push('無包廂或包場資訊');
     return cautions;
 }
@@ -3891,7 +3926,7 @@ function getUnmentionedFamilyFacilities(attrs, sourceText) {
 
 function getSummarySourceText(summary, restaurant) {
     const attrs = restaurant?.attributes || {};
-    return neutralizeSummarySourceCopy(summary || '', attrs.has_private_room);
+    return sanitizeNoiseConflictSummary(neutralizeSummarySourceCopy(summary || '', attrs.has_private_room), attrs);
 }
 
 function isSpecificRestaurantHighlight(clause) {
@@ -3917,7 +3952,8 @@ function cleanupHighlightSentence(sentence) {
         .replace(/適合親子前往/g, '')
         .replace(/店內以([^，。]+)，店內空間/g, '店內以$1，空間')
         .replace(/提供兒童座椅/g, '提供兒童椅')
-        .replace(/可使用商場附設之尿布台/g, '可使用商場附設尿布台')
+        .replace(/店內提供可使用商場附設之尿布台|店內提供可使用商場附設尿布台|可使用商場附設之尿布台|可使用商場附設尿布台/g, '可就近使用商場內尿布台')
+        .replace(/店內提供可就近使用商場內尿布台|這家餐廳提供可就近使用商場內尿布台|提供可就近使用商場內尿布台/g, '可就近使用商場內尿布台')
         .replace(/環境氣氛適合帶小孩/g, '氣氛對孩子較友善')
         .replace(/環境氣氛適合帶孩子/g, '氣氛對孩子較友善')
         .replace(/環境氣氛適合兒童/g, '氣氛對孩子較友善')
@@ -3942,9 +3978,12 @@ function extractDistinctiveSummaryParts(summary, restaurant, maxParts = 2) {
     rawSentences.forEach(rawSentence => {
         let sentence = normalizeSummarySentence(rawSentence).replace(/[。！？!?]+$/, '');
         if (!sentence) return;
+        const compactRestaurantName = String(restaurant?.name || '').replace(/[\s!！.．・･。！？?-–—_＿（）()「」『』【】[]]/g, '').toLowerCase();
+        const compactSentence = sentence.replace(/[\s!！.．・･。！？?-–—_＿（）()「」『』【】[]]/g, '').toLowerCase();
+        if (compactSentence && compactRestaurantName.startsWith(compactSentence) && compactSentence.length <= 8) return;
         if (/Google|Maps|評論|公開地點資訊|店家資訊|目前資料/.test(sentence)) return;
         if (/僅供參考|系統推估|目前尚未取得明確設備資訊/.test(sentence)) return;
-        if (/未提及|較少提及|尚未明確提及|資訊較有限|無相關親子設施資訊|建議.*(確認|考量|留意)/.test(sentence)) return;
+        if (/未提及|較少提及|尚未明確提及|資訊較有限|無相關親子設施資訊|目前尚無摘要資訊|目前親子友善資訊較有限|尚無摘要資訊|無摘要|建議.*(確認|考量|留意)/.test(sentence)) return;
         if (/座位較(為)?緊密.*適合帶/.test(sentence)) {
             sentence = sentence.replace(/座位較(為)?緊密，?適合帶(孩子|小孩|兒童).*$/, '');
         }
@@ -3983,6 +4022,9 @@ function compactSummaryText(summary, restaurant, options = {}) {
 
     if (distinctiveParts.length > 0) {
         sentences.push(`${distinctiveParts.join('。')}。`);
+    } else if (unmentionedFacilities.length > 0) {
+        sentences.push(`${getFallbackFamilySummaryIntro(restaurant)}${joinChineseList(unmentionedFacilities)}。`);
+        unmentionedFacilities.length = 0;
     } else if (getPositiveFamilyFacilities(attrs).length === 0) {
         sentences.push('目前整理資料未看到明確的親子友善設備。');
     }
@@ -4012,6 +4054,7 @@ function compactSummaryText(summary, restaurant, options = {}) {
     return compact
         .replace(/座位較為緊密，?適合帶(孩子|小孩|兒童).*?。/g, '座位較為緊密。')
         .replace(/座位較緊密，?適合帶(孩子|小孩|兒童).*?。/g, '座位較為緊密。')
+        .replace(/需留意環境偏安靜。?/g, '')
         .replace(/Google|Maps|評論/g, '')
         .replace(/^(不過|但是|然而|此外|另外|而且|因此|並|且|但)[，\s]*/, '')
         .trim();
@@ -4029,6 +4072,10 @@ function patchAiSummary(restaurant, summary, options = {}) {
     }
 
     return patched;
+}
+
+function getDisplaySummary(restaurant, summary, options = {}) {
+    return patchAiSummary(restaurant, summary || '', options) || '目前整理資料未看到明確的親子友善設備。';
 }
 
 
@@ -4312,7 +4359,7 @@ function renderShortlistDrawer() {
                         <div class="shortlist-name-row">
                             <span class="shortlist-name">${formatRestaurantName(res.name)}</span>
                         </div>
-                        <div class="shortlist-summary">${res.card_summary || res.ai_summary || '無摘要'}</div>
+                        <div class="shortlist-summary">${getDisplaySummary(res, res.card_summary || res.ai_summary, { maxSentences: 3, maxChars: 180 })}</div>
                         <div class="shortlist-amenities">${amsText}</div>
                     </div>
                     <button class="shortlist-del-btn" data-place-id="${res.place_id}" title="移出清單">
