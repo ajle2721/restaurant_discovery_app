@@ -397,6 +397,16 @@ function getRestaurantTypeSummaryLabel(restaurant = {}) {
   return `${cuisine}餐廳`;
 }
 
+function getPrivateRoomSummaryLabel(value) {
+  if (value === 'room') return '有包廂';
+  if (value === 'venue') return '可包場';
+  if (value === 'likely_room') return '可能有包廂';
+  if (value === 'likely_venue') return '可包場（推估）';
+  if (value === 'yes') return '包廂或包場資訊';
+  if (value === 'likely') return '包廂或包場資訊（推估）';
+  return '';
+}
+
 function getPositiveFamilyFacilityLabels(attributes = {}) {
   const items = [];
   const add = (key, label) => {
