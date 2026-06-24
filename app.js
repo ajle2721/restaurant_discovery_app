@@ -2609,14 +2609,13 @@ function buildVisitActionsHtml(restaurant, googleMapsUrl, mapTarget) {
         buttons.push(`<a id="btn-call-restaurant" class="visit-action-btn phone" href="${phoneHref}">電話詢問</a>`);
     }
     if (websiteUrl) {
-        buttons.push(`<a id="btn-open-website" class="visit-action-btn website" href="${websiteUrl}" target="_blank" rel="noopener noreferrer">查看官網</a>`);
+        buttons.push(`<a id="btn-open-website" class="visit-action-btn website" href="${websiteUrl}" target="_blank" rel="noopener noreferrer">官網</a>`);
     }
-    buttons.push(`<a id="btn-open-google-maps" class="visit-action-btn map" href="${googleMapsUrl}" target="${mapTarget}" rel="noopener noreferrer">在 Google 地圖中開啟</a>`);
+    buttons.push(`<a id="btn-open-google-maps" class="visit-action-btn map" href="${googleMapsUrl}" target="${mapTarget}" rel="noopener noreferrer">Google 地圖</a>`);
 
     return `
         <div class="visit-actions-section">
-            <div class="visit-actions-title">準備前往？</div>
-            <div class="visit-actions-desc">建議先確認座位與親子設備。</div>
+            <div class="visit-actions-title">行前確認或訂位：</div>
             <div class="visit-actions-grid">${buttons.join('')}</div>
         </div>
     `;
@@ -2789,15 +2788,22 @@ function renderDetailContent(restaurant) {
             <div class="ai-summary-tooltip" id="ai-summary-tooltip" role="tooltip" hidden>AI 整理公開資訊後產生，部分內容經人工或使用者回饋校正，僅供參考。</div>
             <div class="ai-summary-text">${getDisplaySummary(restaurant, restaurant.ai_summary, { maxSentences: 4, maxChars: 360 }).replace(/\n/g, '<br>')}</div>
         </div>
+
+        ${visitActionsHtml}
         
         <div class="detail-feedback-section" id="ai-summary-feedback-container" style="margin-top: 1.5rem; margin-bottom: 1.5rem; border-top: 1px solid #e2e8f0; padding-top: 1.25rem;">
-            <div style="font-size: 0.8rem; font-weight: 700; color: var(--text-muted); margin-bottom: 0.65rem;">本頁資訊有幫助嗎？</div>
-            <div id="ai-feedback-options" style="display: flex; gap: 0.6rem;">
+            <div class="detail-feedback-heading">
+                <div class="detail-feedback-title">本頁資訊有幫助嗎？</div>
+            </div>
+            <div id="ai-feedback-options" style="display: flex; align-items: center; flex-wrap: wrap; gap: 0.45rem;">
                 <button class="feedback-vote-btn" id="btn-feedback-helpful" style="display: inline-flex; align-items: center; gap: 0.25rem; background: #f1f5f9; border: 1px solid #cbd5e1; border-radius: 0.5rem; padding: 0.35rem 0.75rem; font-size: 0.75rem; font-weight: 600; color: var(--text-main); cursor: pointer; transition: all 0.2s;">
                     👍 有幫助
                 </button>
                 <button class="feedback-vote-btn" id="btn-feedback-unhelpful" style="display: inline-flex; align-items: center; gap: 0.25rem; background: #f1f5f9; border: 1px solid #cbd5e1; border-radius: 0.5rem; padding: 0.35rem 0.75rem; font-size: 0.75rem; font-weight: 600; color: var(--text-main); cursor: pointer; transition: all 0.2s;">
                     👎 沒幫助
+                </button>
+                <button id="btn-trigger-feedback" class="btn-feedback-trigger compact inline-report">
+                    <span>🚩</span> 回報/貢獻此餐廳資訊
                 </button>
             </div>
             <div id="ai-feedback-form-container" class="hidden" style="margin-top: 1rem; background: #f8fafc; border: 1px solid #e2e8f0; border-radius: 0.75rem; padding: 1rem; font-size: 0.9rem; color: var(--text-main);">
@@ -2835,10 +2841,7 @@ function renderDetailContent(restaurant) {
             </div>
         </div>
 
-        ${visitActionsHtml}
-        <button id="btn-trigger-feedback" class="btn-feedback-trigger">
-            <span>🚩</span> 協助回報與貢獻此餐廳資訊
-        </button>
+
     `;
 
     setupEstimatedTagToggles(detailContent);
