@@ -2403,6 +2403,7 @@ function renderCard(res, container, overrideLevel) {
         <div class="card-footer-row">
             ${footerHtml}
         </div>
+        <div class="card-detail-hint">查看詳情與行前資訊 ›</div>
     `;
 
     const mapBtn = card.querySelector('.card-map-btn');
@@ -2571,6 +2572,72 @@ function setupAiSummaryTooltip(root) {
     });
 }
 
+function normalizeExternalActionUrl(url) {
+    const value = String(url || '').trim();
+    if (!value) return '';
+    if (/^(https?:)?\/\//i.test(value)) return value.startsWith('//') ? `https:${value}` : value;
+    return `https://${value}`;
+}
+
+function normalizePhoneHref(phone) {
+    const value = String(phone || '').trim();
+    if (!value) return '';
+    const normalized = value.replace(/[^+\d]/g, '');
+    return normalized ? `tel:${normalized}` : '';
+}
+
+function getRestaurantActionPayload(restaurant) {
+    return {
+        restaurant_name: restaurant?.name || "",
+        place_id: restaurant?.place_id || "",
+        viewed_restaurant_count: getViewedRestaurantCount(),
+        location_context: getLocationContext()
+    };
+}
+
+function buildVisitActionsHtml(restaurant, googleMapsUrl, mapTarget) {
+    const reservationUrl = normalizeExternalActionUrl(restaurant?.reservation_url || restaurant?.reservationUrl);
+    const websiteUrl = normalizeExternalActionUrl(restaurant?.website_url || restaurant?.website || restaurant?.websiteUri);
+    const phone = String(restaurant?.phone || restaurant?.national_phone_number || restaurant?.international_phone_number || '').trim();
+    const phoneHref = normalizePhoneHref(phone);
+    const buttons = [];
+
+    if (reservationUrl) {
+        buttons.push(`<a id="btn-open-reservation" class="visit-action-btn reservation" href="${reservationUrl}" target="_blank" rel="noopener noreferrer">線上訂位</a>`);
+    }
+    if (phoneHref) {
+        buttons.push(`<a id="btn-call-restaurant" class="visit-action-btn phone" href="${phoneHref}">電話詢問</a>`);
+    }
+    if (websiteUrl) {
+        buttons.push(`<a id="btn-open-website" class="visit-action-btn website" href="${websiteUrl}" target="_blank" rel="noopener noreferrer">查看官網</a>`);
+    }
+    buttons.push(`<a id="btn-open-google-maps" class="visit-action-btn map" href="${googleMapsUrl}" target="${mapTarget}" rel="noopener noreferrer">在 Google 地圖中開啟</a>`);
+
+    return `
+        <div class="visit-actions-section">
+            <div class="visit-actions-title">準備前往？</div>
+            <div class="visit-actions-desc">建議先確認座位與親子設備。</div>
+            <div class="visit-actions-grid">${buttons.join('')}</div>
+        </div>
+    `;
+}
+
+function bindVisitActionTracking(restaurant) {
+    const bind = (id, eventName) => {
+        const el = document.getElementById(id);
+        if (!el) return;
+        el.onclick = () => {
+            try {
+                trackEvent(eventName, getRestaurantActionPayload(restaurant));
+            } catch (e) {}
+        };
+    };
+    bind('btn-open-reservation', 'click_reservation');
+    bind('btn-call-restaurant', 'click_phone');
+    bind('btn-open-website', 'click_website');
+    bind('btn-open-google-maps', 'open_google_maps');
+}
+
 function renderDetailContent(restaurant) {
     let dist = undefined;
     let originLabel = '';
@@ -2688,6 +2755,7 @@ function renderDetailContent(restaurant) {
         detailMetaParts.push(priceSymbol);
     }
     const detailMetaHtml = detailMetaParts.join(' <span class="card-meta-dot">·</span> ');
+    const visitActionsHtml = buildVisitActionsHtml(restaurant, googleMapsUrl, mapTarget);
 
     detailContent.innerHTML = `
         <h1 style="margin-bottom: 0.5rem; color: var(--text-main);">${formatRestaurantName(restaurant.name || '未命名餐廳')}</h1>
@@ -2767,9 +2835,7 @@ function renderDetailContent(restaurant) {
             </div>
         </div>
 
-        <a id="btn-open-google-maps" class="btn btn-primary" href="${googleMapsUrl}" target="${mapTarget}" rel="noopener noreferrer" style="width: 100%; margin-top: 1rem; padding: 1.125rem; text-decoration: none; color: white; box-sizing: border-box;">
-            在 Google 地圖中開啟
-        </a>
+        ${visitActionsHtml}
         <button id="btn-trigger-feedback" class="btn-feedback-trigger">
             <span>🚩</span> 協助回報與貢獻此餐廳資訊
         </button>
@@ -2787,22 +2853,7 @@ function renderDetailContent(restaurant) {
         detailFavBtn.title = isNowFav ? '移出口袋名單' : '加入口袋名單';
     }
 
-    const gMapBtn = document.getElementById('btn-open-google-maps');
-    if (gMapBtn) {
-        gMapBtn.onclick = () => {
-            try {
-                const viewedRestaurantCount = getViewedRestaurantCount();
-                const googleMapsPayload = {
-                    restaurant_name: restaurant.name,
-                    viewed_restaurant_count: viewedRestaurantCount,
-                    location_context: getLocationContext()
-                };
-                console.log('[GA4] open_google_maps viewed_restaurant_count:', viewedRestaurantCount);
-                console.log('[GA4] open_google_maps payload:', googleMapsPayload);
-                trackEvent('open_google_maps', googleMapsPayload);
-            } catch (e) {}
-        };
-    }
+    bindVisitActionTracking(restaurant);
 
     const feedbackTriggerBtn = document.getElementById('btn-trigger-feedback');
     if (feedbackTriggerBtn) {

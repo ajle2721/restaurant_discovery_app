@@ -6,6 +6,16 @@ const baseDir = process.cwd();
 const aiReviewDir = path.join(baseDir, "ai_review");
 const outputPath = path.join(aiReviewDir, "index.js");
 
+const contactLinksPath = path.join(aiReviewDir, "contact_links.json");
+let contactLinks = {};
+if (fs.existsSync(contactLinksPath)) {
+  try {
+    contactLinks = JSON.parse(fs.readFileSync(contactLinksPath, "utf8").replace(/^\uFEFF/, ""));
+  } catch (err) {
+    console.error("Error loading contact_links.json:", err.message);
+  }
+}
+
 const cuisinesMappingPath = path.join(aiReviewDir, "cuisines_mapping.json");
 let cuisinesMapping = {};
 if (fs.existsSync(cuisinesMappingPath)) {
@@ -37,6 +47,9 @@ const columns = [
   "card_summary",
   "parent_friendly_level",
   "cuisine_group",
+  "phone",
+  "website_url",
+  "reservation_url",
 ];
 
 const manualRecords = [
@@ -679,6 +692,15 @@ function getMajorCuisine(cuisine) {
   return "複合式料理";
 }
 
+function getContactInfo(placeId, baseRestaurant = {}) {
+  const contact = contactLinks[placeId] || {};
+  return {
+    phone: contact.phone || baseRestaurant.phone || baseRestaurant.national_phone_number || baseRestaurant.international_phone_number || "",
+    website_url: contact.website_url || baseRestaurant.website_url || baseRestaurant.website || baseRestaurant.websiteUri || "",
+    reservation_url: contact.reservation_url || baseRestaurant.reservation_url || "",
+  };
+}
+
 function getCuisine(placeId, baseRestaurant) {
   return (typeof cuisinesMapping !== 'undefined' ? cuisinesMapping[placeId] : null) || baseRestaurant.cuisine || inferCuisineFromName(baseRestaurant.name) || null;
 }
@@ -693,6 +715,7 @@ function buildRecord(placeId, baseRestaurant, aiReview) {
   );
 
   const cuisine = getCuisine(placeId, baseRestaurant);
+  const contactInfo = getContactInfo(placeId, baseRestaurant);
 
   return [
     placeId,
@@ -711,6 +734,9 @@ function buildRecord(placeId, baseRestaurant, aiReview) {
       baseRestaurant.parent_friendly_level ||
       "資訊不足",
     getMajorCuisine(cuisine),
+    contactInfo.phone,
+    contactInfo.website_url,
+    contactInfo.reservation_url,
   ];
 }
 
@@ -867,7 +893,12 @@ function buildRecord_old(placeId, baseRestaurant, aiReview) {
 }
 
 function writeIndex(records) {
-  const content = `const columns = ${JSON.stringify(columns)};\n\nconst rows = ${JSON.stringify(records)};\n\nconst restaurantData = [];\nfor (let i = 0; i < rows.length; i++) {\n  Object.defineProperty(restaurantData, i, {\n    get() {\n      const row = rows[i];\n      const obj = {};\n      columns.forEach((col, k) => {\n        obj[col] = row[k];\n      });\n      obj.formatted_address = obj.address;\n      obj.google_maps_url = obj.url;\n      Object.defineProperty(restaurantData, i, {\n        value: obj,\n        writable: true,\n        configurable: true,\n        enumerable: true\n      });\n      return obj;\n    },\n    configurable: true,\n    enumerable: true\n  });\n}\n`;
+  const normalizedRecords = records.map((record) => {
+    const row = Array.from(record);
+    while (row.length < columns.length) row.push("");
+    return row.slice(0, columns.length);
+  });
+  const content = `const columns = ${JSON.stringify(columns)};\n\nconst rows = ${JSON.stringify(normalizedRecords)};\n\nconst restaurantData = [];\nfor (let i = 0; i < rows.length; i++) {\n  Object.defineProperty(restaurantData, i, {\n    get() {\n      const row = rows[i];\n      const obj = {};\n      columns.forEach((col, k) => {\n        obj[col] = row[k];\n      });\n      obj.formatted_address = obj.address;\n      obj.google_maps_url = obj.url;\n      Object.defineProperty(restaurantData, i, {\n        value: obj,\n        writable: true,\n        configurable: true,\n        enumerable: true\n      });\n      return obj;\n    },\n    configurable: true,\n    enumerable: true\n  });\n}\n`;
   fs.writeFileSync(outputPath, content, "utf8");
 }
 

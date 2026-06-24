@@ -247,7 +247,7 @@ body {
 
 .tag.likely.matched {
     background: rgba(223, 107, 85, 0.09);
-    color: var(--primary-dark);
+    color: #8f6d63;
     border: 1.5px dashed var(--primary-dark);
     box-shadow: none;
     font-weight: 700;
@@ -3816,3 +3816,97 @@ body {
 }
 
 
+
+
+.visit-actions-section {
+    margin: 1.5rem 0;
+    padding: 1rem;
+    border: 1px solid #e2e8f0;
+    border-radius: 0.75rem;
+    background: #f8fafc;
+}
+
+.visit-actions-title {
+    font-size: 0.95rem;
+    font-weight: 800;
+    color: var(--text-main);
+    margin-bottom: 0.25rem;
+}
+
+.visit-actions-desc {
+    font-size: 0.82rem;
+    font-weight: 600;
+    color: var(--text-muted);
+    line-height: 1.5;
+    margin-bottom: 0.85rem;
+}
+
+.visit-actions-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr));
+    gap: 0.6rem;
+}
+
+.visit-action-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 2.85rem;
+    padding: 0.7rem 0.9rem;
+    border: 1px solid #cbd5e1;
+    border-radius: 0.65rem;
+    background: #ffffff;
+    color: var(--text-main);
+    text-decoration: none;
+    font-size: 0.9rem;
+    font-weight: 800;
+    line-height: 1.25;
+    text-align: center;
+    box-sizing: border-box;
+    transition: transform 0.16s ease, box-shadow 0.16s ease, border-color 0.16s ease;
+}
+
+.visit-action-btn:hover {
+    border-color: #94a3b8;
+    box-shadow: 0 0.35rem 1rem rgba(15, 23, 42, 0.08);
+    transform: translateY(-1px);
+}
+
+.visit-action-btn.phone,
+.visit-action-btn.website,
+.visit-action-btn.map,
+.visit-action-btn.reservation {
+    background: #fff1ee;
+    border-color: #fbc1b4;
+    color: #b83f2e;
+}
+
+.visit-action-btn.phone:hover,
+.visit-action-btn.website:hover,
+.visit-action-btn.map:hover,
+.visit-action-btn.reservation:hover {
+    border-color: #f6846f;
+    box-shadow: 0 0.35rem 1rem rgba(246, 132, 111, 0.12);
+}
+
+
+@media (max-width: 520px) {
+    .visit-actions-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+
+.card-detail-hint {
+    margin-top: 0.7rem;
+    padding-top: 0.7rem;
+    border-top: 1px solid #edf2f7;
+    color: #a98074;
+    font-size: 0.82rem;
+    font-weight: 800;
+    line-height: 1.35;
+}
+
+.restaurant-card:hover .card-detail-hint {
+    color: var(--primary-dark);
+}

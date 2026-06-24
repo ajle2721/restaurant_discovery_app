@@ -1,53 +1,54 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "餐點不錯，內用位子多，環境舒適",
-                             "confidence":  0.9
-                         },
-    "Kids menu available":  {
-                                "result":  "No",
-                                "evidence":  "No menu for children (官方標記：不提供兒童餐)",
-                                "confidence":  1.0
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "最加分的是店員親子友善的氛圍，對孩子非常包容，不會因為小聲聊天或走動就投以壓力的眼光，反而讓爸媽能安心享受音樂。",
-                               "confidence":  0.9
-                           },
-    "has_play_area":  {
-                          "result":  "Yes",
-                          "evidence":  "孩童來用餐有店內的教具(如七巧板)可以玩",
-                          "confidence":  0.9
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "高",
-    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals":  [
-                              "最加分的是店員親子友善的氛圍，對孩子非常包容，不會因為小聲聊天或走動就投以壓力的眼光，反而讓爸媽能安心享受音樂。",
-                              "No menu for children (官方標記：不提供兒童餐)",
-                              "孩童來用餐有店內的教具(如七巧板)可以玩",
-                              "餐點不錯，內用位子多，環境舒適"
-                          ],
-    "generated_summary":  "這家餐廳環境舒適且座位寬敞，店員對親子非常友善且包容，現場提供教具供孩童遊玩，非常適合家庭前往享受音樂與美食。不過需注意店家官方標記不提供兒童餐，且目前評論中未提及兒童餐具與尿布台等設施。",
-    "card_summary":  ""
+{
+  " child_seat available": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "Spacious seating": {
+    "result": "Yes",
+    "evidence": "餐點不錯，內用位子多，環境舒適",
+    "confidence": 0.9
+  },
+  "Kids menu available": {
+    "result": "No",
+    "evidence": "No menu for children (官方標記：不提供兒童餐)",
+    "confidence": 1
+  },
+  "kid_noise_tolerant": {
+    "result": "Yes",
+    "evidence": "最加分的是店員親子友善的氛圍，對孩子非常包容，不會因為小聲聊天或走動就投以壓力的眼光，反而讓爸媽能安心享受音樂。",
+    "confidence": 0.9
+  },
+  "has_play_area": {
+    "result": "unknown",
+    "evidence": "使用者回報：目前看不出有明確遊戲區。",
+    "confidence": 1,
+    "override_existing": true
+  },
+  "has_private_room": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_tableware": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "parent_friendly_score": 2,
+  "parent_friendly_level": "高",
+  "reason": "AI語意綜合與連鎖/商場與評論語意分析",
+  "generated_signals": [
+    "最加分的是店員親子友善的氛圍，對孩子非常包容，不會因為小聲聊天或走動就投以壓力的眼光，反而讓爸媽能安心享受音樂。",
+    "No menu for children (官方標記：不提供兒童餐)",
+    "孩童來用餐有店內的教具(如七巧板)可以玩",
+    "餐點不錯，內用位子多，環境舒適"
+  ],
+  "generated_summary": "這家餐廳環境舒適且座位較寬敞，店員對親子友善且包容，適合家庭前往享受音樂與美食。",
+  "card_summary": "環境舒適、座位較寬敞，店員對親子友善且包容，適合家庭享受音樂與美食。"
 }

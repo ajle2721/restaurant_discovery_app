@@ -1,0 +1,710 @@
+{
+  "fetchedAt": "2026-06-24T06:20:53.346Z",
+  "requested": 100,
+  "success": 94,
+  "withPhone": 92,
+  "withWebsite": 60,
+  "errors": 6,
+  "report": [
+    {
+      "place_id": "ChIJjcMN1u2rQjQR2TXnggAE0h8",
+      "name": "「早安亞譜-興中店",
+      "ok": true,
+      "phone": "02 2783 5661",
+      "website_url": "https://www.facebook.com/%E6%97%A9%E5%AE%89%E4%BA%9E%E8%AD%9C%E8%88%88%E4%B8%AD%E5%BA%97-100280088887854"
+    },
+    {
+      "place_id": "ChIJq6qqqgasQjQRUVuv8NetxkA",
+      "name": "1010湘 天母三越店",
+      "ok": true,
+      "phone": "02 2875 2955",
+      "website_url": "http://www.1010restaurant.com/"
+    },
+    {
+      "place_id": "ChIJ0SFCGyOrQjQRx-fDUrsYJvc",
+      "name": "1010湘食堂 遠百信義店",
+      "ok": true,
+      "phone": "02 2729 0597",
+      "website_url": "https://www.1010restaurant.com/"
+    },
+    {
+      "place_id": "ChIJibotTQCvQjQRrTBtFzaQncE",
+      "name": "1021炭烤吐司-石牌致遠店",
+      "ok": true,
+      "phone": "02 2821 8353",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJc9Q84qepQjQRbp2NUplR8x8",
+      "name": "108早午餐（貴陽店)",
+      "ok": true,
+      "phone": "02 2311 6638",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJcQY8MKipQjQRUUFUWrZM7Fg",
+      "name": "157料理",
+      "ok": true,
+      "phone": "02 2314 3895",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJm0n_IGWqQjQR8o7BmQS0mm0",
+      "name": "191 enjoy 早餐店",
+      "ok": true,
+      "phone": "02 2234 3191",
+      "website_url": "https://www.facebook.com/pages/191enjoy-%E6%97%A9%E9%A4%90/399037973599001"
+    },
+    {
+      "place_id": "ChIJ24oL92qvQjQRAgYcZh0ScI8",
+      "name": "1975 Antique’s Cafe Tea Room",
+      "ok": true,
+      "phone": "02 2897 6885",
+      "website_url": "https://www.facebook.com/743580522660711/"
+    },
+    {
+      "place_id": "ChIJW0OQrW6rQjQRTBBxz1LZCdw",
+      "name": "1985窯烤披薩(台北中山店)",
+      "ok": true,
+      "phone": "02 2515 1985",
+      "website_url": "https://1985pizza.com.tw/"
+    },
+    {
+      "place_id": "ChIJ4cQJ4KivQjQR1Tvuk-F3hxo",
+      "name": "1996 COFFEE",
+      "ok": true,
+      "phone": "02 2898 5289",
+      "website_url": "https://instagram.com/1996_coffee?igshid=YmMyMTA2M2Y="
+    },
+    {
+      "place_id": "ChIJh3gOxAmpQjQRnmo-kWg8e_Y",
+      "name": "201 Cafe Restaurant",
+      "ok": true,
+      "phone": "02 2312 2273",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJY60vUo2tQjQRwPwb4_mJCOQ",
+      "name": "2018搞食堂",
+      "ok": true,
+      "phone": "02 2631 5679",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJnYxSleuvQjQRVJKzqV8upU4",
+      "name": "208早餐",
+      "ok": true,
+      "phone": "02 2821 1237",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJtw5OakipQjQRbMVgZ25379M",
+      "name": "272早午餐",
+      "ok": true,
+      "phone": "02 2595 3201",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJgdysVU2vQjQRuq5CG1Ya-b4",
+      "name": "292早餐店",
+      "ok": true,
+      "phone": "02 2883 4253",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJu1lFmSuqQjQRk53G7FFCMNo",
+      "name": "29號館 義大利麵",
+      "ok": true,
+      "phone": "02 2706 6577",
+      "website_url": "https://www.facebook.com/No.29thPastaRestaurant"
+    },
+    {
+      "place_id": "ChIJJTPZCnStQjQRIYdV7Je_P8E",
+      "name": "30小時老麵吐司",
+      "ok": true,
+      "phone": "02 2630 8050",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJgUo_u46uQjQRTuXU4tZmReM",
+      "name": "313鵝肉擔",
+      "ok": true,
+      "phone": "02 2826 1751",
+      "website_url": "https://www.facebook.com/pages/313%E9%B5%9D%E8%82%89%E6%94%A4/122464341164582"
+    },
+    {
+      "place_id": "ChIJLYuEGmKpQjQRPcp6vt8pTnM",
+      "name": "4+ Break Breakfast",
+      "ok": true,
+      "phone": "02 2507 3505",
+      "website_url": "https://www.facebook.com/4breakbreakfast/"
+    },
+    {
+      "place_id": "ChIJvzjuDb2sQjQReX8NDADrayk",
+      "name": "55号BRUNCH早餐店",
+      "ok": true,
+      "phone": "02 2634 2821",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJLdS6e-yvQjQRPR4mQ-uDddo",
+      "name": "86義大利麵",
+      "ok": true,
+      "phone": "02 2838 1689",
+      "website_url": "https://www.facebook.com/86fresh/"
+    },
+    {
+      "place_id": "ChIJdYbLUxOvQjQRfTcV2nf560Q",
+      "name": "92水鳥",
+      "ok": true,
+      "phone": "02 2858 8668",
+      "website_url": "https://www.tapashouse.com.tw/tapas92"
+    },
+    {
+      "place_id": "ChIJ_at8yxipQjQRoy_8Sfl7fjk",
+      "name": "一間咖啡花茶簡餐店",
+      "ok": true,
+      "phone": "02 2388 9688",
+      "website_url": "https://www.facebook.com/pages/J%E4%B8%80%E9%96%93%E5%92%96%E5%95%A1%E8%8A%B1%E8%8C%B6%E7%B0%A1%E9%A4%90/254929871269940"
+    },
+    {
+      "place_id": "ChIJv3Jm0qipQjQRO4TqszGi_fc",
+      "name": "一鑫(一心)鵝肉",
+      "ok": true,
+      "phone": "02 2306 8838",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJxzPiMampQjQR7lFBc-z3SSs",
+      "name": "九日咖啡（老店）9 Days Coffee",
+      "ok": true,
+      "phone": "02 2306 2885",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJQ7TFVlmpQjQRuitpST9NrpY",
+      "name": "九如 義大利麵 蛋包飯",
+      "ok": true,
+      "phone": "02 2542 3321",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJV3gdP2ivQjQRGIffCx1zcsM",
+      "name": "九湯屋日式拉麵 台北士林中正店",
+      "ok": true,
+      "phone": "02 2831 0190",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJFVHeZlypQjQRn6Cbt_jLTD0",
+      "name": "九點零一分韓式早午餐",
+      "ok": true,
+      "phone": "0908 163 036",
+      "website_url": "https://myppt.cc/JUekn"
+    },
+    {
+      "place_id": "ChIJk0LydwWvQjQRaRVaP2OOp3o",
+      "name": "八方悅日式鍋物 北投永興店",
+      "ok": true,
+      "phone": "02 8228 7399",
+      "website_url": "https://8funyay.com/"
+    },
+    {
+      "place_id": "ChIJZcgOlIeuQjQRutc16fs58Hg",
+      "name": "八藤家",
+      "ok": true,
+      "phone": "02 2875 3063",
+      "website_url": "https://www.instagram.com/abc28753185/"
+    },
+    {
+      "place_id": "ChIJ929ecNCrQjQRDBlncDmASXA",
+      "name": "十得私廚-台菜料理",
+      "ok": true,
+      "phone": "0933 737 893",
+      "website_url": "https://shidecomtw.com/"
+    },
+    {
+      "place_id": "ChIJSWJDv_SrQjQR5qvn_mwEjwU",
+      "name": "三亞米售完提早打烊，最後點菜16:30",
+      "ok": true,
+      "phone": "02 2346 0002",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJ0VQM3aKrQjQRUZ8FG4sSA-s",
+      "name": "三隻猴子美食廚房 3 Monkeys kitchen",
+      "ok": true,
+      "phone": "02 2662 0055",
+      "website_url": "https://www.facebook.com/3-monkeys-%E4%B8%89%E9%9A%BB%E7%8C%B4%E5%AD%90%E7%BE%8E%E9%A3%9F%E5%BB%9A%E6%88%BF-107222184809211/"
+    },
+    {
+      "place_id": "ChIJc1u3TfurQjQRskNy0tE9hCg",
+      "name": "上山採覓",
+      "ok": true,
+      "phone": "02 2517 0709",
+      "website_url": "https://lifemoun.tw/"
+    },
+    {
+      "place_id": "ChIJg2MM8VGuQjQRF16ushVKQGw",
+      "name": "上享庭園餐廳",
+      "ok": true,
+      "phone": "02 2894 1808",
+      "website_url": "https://inline.app/booking/-LmdC7mfh9gjasAHdJAx:inline-live-1/-LmdC8C0kQOPWfguGvlm?language=zh-tw"
+    },
+    {
+      "place_id": "ChIJN7t0M02qQjQR30gCnEEMbhw",
+      "name": "上品客家小館",
+      "ok": true,
+      "phone": "02 2758 0045",
+      "website_url": "http://www.facebook.com/changmama269"
+    },
+    {
+      "place_id": "ChIJnclSGvKrQjQRnGBYr16yeU0",
+      "name": "上海宴",
+      "ok": true,
+      "phone": "0989 936 108",
+      "website_url": "https://www.facebook.com/shanghaiyan888/"
+    },
+    {
+      "place_id": "ChIJX8eX-HapQjQRy9LwKA9dxCM",
+      "name": "上海鄉村 濟南店",
+      "ok": true,
+      "phone": "02 2322 3333",
+      "website_url": "http://www.shanghaikitchen.com.tw/"
+    },
+    {
+      "place_id": "ChIJ_9PRANKrQjQRbo33FDEvocI",
+      "name": "千螢早餐店",
+      "ok": true,
+      "phone": "02 2755 7760",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJQQ4fUYqpQjQRo8HegHH7Yew",
+      "name": "大一女美食餐廳",
+      "ok": true,
+      "phone": "02 8369 5637",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJubOd-nKpQjQR9ZIk7V6t7WE",
+      "name": "大戶屋 台北凱撒店",
+      "ok": true,
+      "phone": "02 2361 2377",
+      "website_url": "http://www.ootoya.com.tw/"
+    },
+    {
+      "place_id": "ChIJS2oVop6rQjQRF7WCG3-Tzwk",
+      "name": "大戶屋 松山車站店",
+      "ok": true,
+      "phone": "02 2528 7775",
+      "website_url": "http://www.ootoya.com.tw/"
+    },
+    {
+      "place_id": "ChIJ3259YLmrQjQRvk0pEymzGXQ",
+      "name": "大戶屋 統一時代台北店",
+      "ok": true,
+      "phone": "02 8978 0886",
+      "website_url": "http://www.ootoya.com.tw/"
+    },
+    {
+      "place_id": "ChIJGeUSyV6pQjQR3ChjSq2Pzmc",
+      "name": "大戶屋行天宮站店",
+      "ok": true,
+      "phone": "02 2562 5811",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJia7qaLusQjQRKvLJZQ-O7g4",
+      "name": "大戶屋東湖店",
+      "ok": true,
+      "phone": "02 2633 8839",
+      "website_url": "http://www.ootoya.com.tw/"
+    },
+    {
+      "place_id": "ChIJgcXkf1CuQjQRc3SOGvEDkvk",
+      "name": "大戶屋新北投店",
+      "ok": true,
+      "phone": "02 2895 1255",
+      "website_url": "http://www.ootoya.com.tw/"
+    },
+    {
+      "place_id": "ChIJuX3KNWipQjQROrWPgPThYhc",
+      "name": "大戶屋誠品南西店",
+      "ok": true,
+      "phone": "02 2531 1808",
+      "website_url": "http://www.ootoya.com.tw/"
+    },
+    {
+      "place_id": "ChIJdx-Kr5OvQjQR7EqeVkiFsWk",
+      "name": "大木屋",
+      "ok": true,
+      "phone": "02 8866 1882",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJcY8PAKepQjQR2amPr6VDbIo",
+      "name": "大城早午餐",
+      "ok": true,
+      "phone": "02 2308 5878",
+      "website_url": "https://www.facebook.com/%E5%A4%A7%E5%9F%8E%E6%97%A9%E5%8D%88%E9%A4%90-1628353847381724/"
+    },
+    {
+      "place_id": "ChIJb5lNxSqtQjQRf59m5TxmF_o",
+      "name": "大春廚房",
+      "ok": true,
+      "phone": "0987 944 284",
+      "website_url": "https://www.facebook.com/%E5%A4%A7%E6%98%A5%E7%BE%A9%E5%A4%A7%E5%88%A9%E9%BA%B5-2229061397338336/"
+    },
+    {
+      "place_id": "ChIJr_Ztmn2uQjQRvLHz4FTo-_Q",
+      "name": "大為廚坊",
+      "ok": true,
+      "phone": "02 2871 7766",
+      "website_url": "https://www.facebook.com/%E5%A4%A7%E7%82%BA%E5%BB%9A%E5%9D%8A-636545429821565/"
+    },
+    {
+      "place_id": "ChIJE3nu7rWpQjQRaQOvDIWq5FM",
+      "name": "大院子",
+      "ok": true,
+      "phone": "02 2369 7357",
+      "website_url": "https://www.facebook.com/TheHistoricalGrandCourtyard/"
+    },
+    {
+      "place_id": "ChIJb8PqPa2rQjQRFccELUVuSlo",
+      "name": "大烹小饌 福客粥",
+      "ok": true,
+      "phone": "02 2747 6261",
+      "website_url": "https://www.greathuta.com/"
+    },
+    {
+      "place_id": "ChIJedKtv4atQjQRWnFLUWmqUTA",
+      "name": "大勝手作早午餐內湖店",
+      "ok": true,
+      "phone": "0912 446 255",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJ5c_DMaKpQjQRvlJFgB4AboI",
+      "name": "大象飯館(大象吃咖哩2.0)",
+      "ok": true,
+      "phone": "02 2599 5595",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJC8EevbSrQjQRptByC6VR5rk",
+      "name": "大蒜義式加州廚房",
+      "ok": true,
+      "phone": "02 2758 5918",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJaSZ-CpupQjQRaqvVbaJ4FaM",
+      "name": "大樹先生的家",
+      "ok": true,
+      "phone": "02 3393 3313",
+      "website_url": "https://mr-tree.webnode.tw/"
+    },
+    {
+      "place_id": "ChIJ24Za5H-uQjQRVinjqQDbZUo",
+      "name": "女娘的店",
+      "ok": true,
+      "phone": "02 2874 1981",
+      "website_url": "https://redlantern.eatingout.com.tw/catalog.asp"
+    },
+    {
+      "place_id": "ChIJBy9WAHyrQjQRCDU8Cp-PLAc",
+      "name": "子木咖啡",
+      "ok": true,
+      "phone": "02 2713 4890",
+      "website_url": ""
+    },
+    {
+      "place_id": "manual-little-tree-food-0km",
+      "name": "小小樹食 0km 山物所",
+      "ok": false,
+      "status": 400,
+      "error": "The provided Place ID: manual-little-tree-food-0km is not valid.\n"
+    },
+    {
+      "place_id": "manual-little-tree-food-daan",
+      "name": "小小樹食 大安店",
+      "ok": false,
+      "status": 400,
+      "error": "The provided Place ID: manual-little-tree-food-daan is not valid.\n"
+    },
+    {
+      "place_id": "manual-little-tree-food-noke",
+      "name": "小小樹食 忠泰店 NOKE",
+      "ok": false,
+      "status": 400,
+      "error": "The provided Place ID: manual-little-tree-food-noke is not valid.\n"
+    },
+    {
+      "place_id": "manual-little-tree-food-dunnan",
+      "name": "小小樹食 敦南店",
+      "ok": false,
+      "status": 400,
+      "error": "The provided Place ID: manual-little-tree-food-dunnan is not valid.\n"
+    },
+    {
+      "place_id": "manual-little-tree-food-breeze-nanshan",
+      "name": "小小樹食 微風南山店",
+      "ok": false,
+      "status": 400,
+      "error": "The provided Place ID: manual-little-tree-food-breeze-nanshan is not valid.\n"
+    },
+    {
+      "place_id": "manual-little-tree-food-diamond-towers",
+      "name": "小小樹食 Diamond Towers 店",
+      "ok": false,
+      "status": 400,
+      "error": "The provided Place ID: manual-little-tree-food-diamond-towers is not valid.\n"
+    },
+    {
+      "place_id": "ChIJjTvL5jEAaDQRNmeCT3xxzxU",
+      "name": "小日子lazyday",
+      "ok": true,
+      "phone": "02 2301 7070",
+      "website_url": "https://www.facebook.com/lazyday"
+    },
+    {
+      "place_id": "ChIJg46c7XqpQjQRteb5r9TthIg",
+      "name": "小皮蛋食堂",
+      "ok": true,
+      "phone": "0982 178 655",
+      "website_url": "https://portal.wifiotg.com/activities/E4gnJlvmW/link/QaNXGbOQl?campaignId=E4gnJlvmW&campaignType=activity&sourceType=links&businessId=P_6JLEqvq0N"
+    },
+    {
+      "place_id": "ChIJn56GqSWpQjQRWNpfqjw-qE8",
+      "name": "小仺館ココクラ",
+      "ok": true,
+      "phone": "",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJsU0If6ivQjQRwIx85Fv2f_o",
+      "name": "小肚子私房料理",
+      "ok": true,
+      "phone": "02 2832 2520",
+      "website_url": "https://store.dudooeat.com/order/store/9f863c236d1448bcb4145f31e2fb9cc8"
+    },
+    {
+      "place_id": "ChIJ3WmlLQCvQjQRVKI5zuRlEsU",
+      "name": "小豆島日式烏龍麵(石牌形象店)",
+      "ok": true,
+      "phone": "02 2828 3368",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJJZUgxIqpQjQRNgt_MjaUBB0",
+      "name": "小旺號 - 公館店",
+      "ok": true,
+      "phone": "02 2367 8716",
+      "website_url": "http://www.showwant.com.tw/"
+    },
+    {
+      "place_id": "ChIJufENh4-pQjQR97xj6L-J9eo",
+      "name": "小南風咖啡 Minami Cafe",
+      "ok": true,
+      "phone": "02 2362 2737",
+      "website_url": "https://minamicafe.carrd.co/"
+    },
+    {
+      "place_id": "ChIJbxyLRlirQjQRRO4iZVRY6Uc",
+      "name": "小南港-懶人私廚",
+      "ok": true,
+      "phone": "0905 271 685",
+      "website_url": "http://www.facebook.com/Nankang2014"
+    },
+    {
+      "place_id": "ChIJr3yJdCivQjQRTw7whA_c6VU",
+      "name": "小紅花Cafe",
+      "ok": true,
+      "phone": "0981 097 975",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJdUh_TNGtQjQRQVbtYiPl_1w",
+      "name": "小庭院泰食",
+      "ok": true,
+      "phone": "02 2657 1460",
+      "website_url": "https://xiaotingyuan.weebly.com/"
+    },
+    {
+      "place_id": "ChIJNb6GQrWpQjQRImUqecT3qcQ",
+      "name": "小紐約披薩 中山店 LNYPIZZA Little New York Pizzeria Zhongshan",
+      "ok": true,
+      "phone": "02 2511 0105",
+      "website_url": "https://www.facebook.com/lnyzhongshan/?modal=admin_todo_tour"
+    },
+    {
+      "place_id": "ChIJ0cV-48OrQjQRnS93QuZM59k",
+      "name": "小紐約披薩 敦南店 LNYPIZZA Dunnan little New York pizzeria",
+      "ok": true,
+      "phone": "02 2579 6692",
+      "website_url": "https://www.instagram.com/"
+    },
+    {
+      "place_id": "ChIJB8HhqYurQjQRSOLmsl5TQFQ",
+      "name": "小院子⋄特色地方熱炒⋄陝西外省⋄麵食⋄飯類⋄",
+      "ok": true,
+      "phone": "02 3765 1103",
+      "website_url": "https://xiaoyuanzi-rechao.weebly.com/"
+    },
+    {
+      "place_id": "ChIJVVVVVRWsQjQRmPdlBQr3qys",
+      "name": "小飯館兒",
+      "ok": true,
+      "phone": "02 2369 8800",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJtQu-B5yrQjQRnaOoD4-V3VY",
+      "name": "小義城義大利麵 本店 ( 松山 )",
+      "ok": true,
+      "phone": "02 2747 6653",
+      "website_url": "https://www.facebook.com/easonpasta"
+    },
+    {
+      "place_id": "ChIJeWZB7-upQjQR2XDGRe7nT_I",
+      "name": "小蒔日咖哩",
+      "ok": true,
+      "phone": "02 2559 0100",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJ-8zkfACvQjQRtnDVLroN020",
+      "name": "小廚房",
+      "ok": true,
+      "phone": "",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJo7MDdNOrQjQRHj-ZspLJxYw",
+      "name": "小器食堂微風南山店",
+      "ok": true,
+      "phone": "02 2723 0979",
+      "website_url": "https://thexiaoqi.com/"
+    },
+    {
+      "place_id": "ChIJtb9NmICsQjQRnd1IUZ7oRaY",
+      "name": "小樹天然早午餐",
+      "ok": true,
+      "phone": "02 2630 5807",
+      "website_url": "https://www.facebook.com/profile.php?id=100043052007030"
+    },
+    {
+      "place_id": "ChIJsyC8HAmpQjQRJhlFsK6wvYA",
+      "name": "小鬍子丼ヒゲちゃん",
+      "ok": true,
+      "phone": "02 2314 3554",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJ2S6bSsarQjQRoYoAwWWKZGM",
+      "name": "山本漢堡排",
+      "ok": true,
+      "phone": "02 2711 3816",
+      "website_url": "https://www.facebook.com/orehan.taiwan/"
+    },
+    {
+      "place_id": "ChIJk7jbcxKvQjQR-HWxzlgfSLY",
+      "name": "山边咖啡 Brae Café",
+      "ok": true,
+      "phone": "02 2893 9325",
+      "website_url": "https://www.facebook.com/BraeCafe"
+    },
+    {
+      "place_id": "ChIJYzULsKapQjQRYydje7x5Uv8",
+      "name": "川揚郁坊小館",
+      "ok": true,
+      "phone": "02 2331 1117",
+      "website_url": "https://www.facebook.com/yufang.restaurant/"
+    },
+    {
+      "place_id": "ChIJe0uG6WupQjQRuMuJa1-1YQE",
+      "name": "不萊梅 圓山店",
+      "ok": true,
+      "phone": "02 2591 3005",
+      "website_url": "https://www.facebook.com/Bremen%E4%B8%8D%E8%90%8A%E6%A2%85%E5%9C%93%E5%B1%B1%E5%BA%97-1106337509513940/?__tn__=%2Cdk*F*F-R&eid=ARCIUbJqKJ3v1yQ0LjZgXVfLuoJF5SIWsRbq4IiTp0yCyEw3SVQZeR0gVvMnswnBn5G5XTQxcEMNMyTh&tn-str=k*F"
+    },
+    {
+      "place_id": "ChIJZ86q7YarQjQR-xBj0x1I8lQ",
+      "name": "不想早起 get up",
+      "ok": true,
+      "phone": "02 2783 9873",
+      "website_url": "https://linktr.ee/getup1025"
+    },
+    {
+      "place_id": "ChIJ9WtGHK2pQjQRSLa412XJHU4",
+      "name": "中子廚房",
+      "ok": true,
+      "phone": "0911 503 608",
+      "website_url": "https://www.facebook.com/CTctKitchen"
+    },
+    {
+      "place_id": "ChIJk2LX-RqrQjQRSS2nzlB6eUA",
+      "name": "中南58 手作•輕•飲•食",
+      "ok": true,
+      "phone": "0937 623 477",
+      "website_url": "https://www.facebook.com/zhongnan58?mibextid=ZbWKwL"
+    },
+    {
+      "place_id": "ChIJkbHoPeGpQjQRfrtDD6SufVY",
+      "name": "中原早午餐",
+      "ok": true,
+      "phone": "02 2523 2006",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJx7BexjypQjQRxzd5depLb-I",
+      "name": "中華樓",
+      "ok": true,
+      "phone": "02 2506 7858",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJ_1s2eRKvQjQR0hdltagyk1M",
+      "name": "丰園小館",
+      "ok": true,
+      "phone": "02 2832 0688",
+      "website_url": "https://lin.ee/UiZYpKn"
+    },
+    {
+      "place_id": "ChIJrQJK7oyuQjQRiFNJVkxDYBU",
+      "name": "五年九班",
+      "ok": true,
+      "phone": "02 2828 0056",
+      "website_url": "https://www.facebook.com/people/%E4%BA%94%E5%B9%B4%E4%B9%9D%E7%8F%AD/100063997003742/"
+    },
+    {
+      "place_id": "ChIJlVpcPr2rQjQRT1GbZBFRr9w",
+      "name": "元炁小鎮早午餐",
+      "ok": true,
+      "phone": "02 2640 2274",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJvwXRVKGrQjQRRybMDkwdL2k",
+      "name": "六年13班 複合式餐飲",
+      "ok": true,
+      "phone": "02 8786 2201",
+      "website_url": ""
+    },
+    {
+      "place_id": "ChIJz6ZRGACpQjQRvBPKifsQQXo",
+      "name": "六堆伙房 北車站前店",
+      "ok": true,
+      "phone": "02 2389 6139",
+      "website_url": "https://www.liouduai.com.tw/"
+    },
+    {
+      "place_id": "ChIJN2doL1qrQjQR75pbsQemcKQ",
+      "name": "勾勾漢堡早午餐",
+      "ok": true,
+      "phone": "02 2789 3936",
+      "website_url": "https://www.facebook.com/profile.php?id=100063935056922"
+    }
+  ]
+}
