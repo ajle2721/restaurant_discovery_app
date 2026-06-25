@@ -314,6 +314,11 @@ def main():
             # 判斷是否位於百貨商場/大樓
             in_mall = is_in_shopping_mall(name, address)
             
+            # 判斷是否為連鎖/高價位
+            price_level = data.get("priceLevel") or data.get("price_level")
+            is_expensive = (price_level in ["PRICE_LEVEL_EXPENSIVE", "PRICE_LEVEL_VERY_EXPENSIVE"]) or any(kw in name.upper() for kw in ["飯店", "酒店", "會館", "賓館", "VILLA"])
+            is_chain = bool(applied_brand_rules)
+            
             # 判斷是否有手動設定
             preserved_keys = {}
             if existing_ai:
@@ -378,12 +383,16 @@ def main():
                     
                 # 3.5 依據 Google 官方「適合兒童」屬性自動設定兒童椅、兒童餐具與環境適合兒童用餐
                 if (index_key == " child_seat available" or index_key == "has_tableware" or index_key == "kid_noise_tolerant") and good_for_children is True:
-                    final_attrs[index_key] = {
-                        "result": "Yes",
-                        "evidence": "Google 官方登記適合兒童用餐",
-                        "confidence": 1.0
-                    }
-                    continue
+                    if (index_key == " child_seat available" or index_key == "has_tableware") and not (in_mall or is_chain or is_expensive):
+                        # 如果不是商場、連鎖或高價位餐廳，即使官方標示適合兒童，也不自動預設有椅/餐具，需依賴評論/LLM
+                        pass
+                    else:
+                        final_attrs[index_key] = {
+                            "result": "Yes",
+                            "evidence": "Google 官方商標或設施提供兒童椅" if index_key == " child_seat available" else ("Google 官方商標或設施提供兒童餐具" if index_key == "has_tableware" else "Google 官方登記適合兒童用餐"),
+                            "confidence": 1.0
+                        }
+                        continue
 
                     
                 # 4. 套用 LLM 評估或預設空值

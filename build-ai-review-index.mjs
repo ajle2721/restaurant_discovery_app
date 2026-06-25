@@ -1,4 +1,4 @@
-﻿import fs from "node:fs";
+import fs from "node:fs";
 import path from "node:path";
 import vm from "node:vm";
 
@@ -1208,6 +1208,7 @@ function getAiAttributes(aiReview, existingAttributes = {}, name = "", address =
   const isChain = isChainBrand(name);
   const isExpensive = isExpensiveOrHotel(name, priceLevel);
 
+  let isHighChairGoogleDemoted = false;
   if (
     highChair === "yes" &&
     hasGoogleEvidence(
@@ -1222,9 +1223,11 @@ function getAiAttributes(aiReview, existingAttributes = {}, name = "", address =
       highChair = "likely";
     } else {
       highChair = "unknown";
+      isHighChairGoogleDemoted = true;
     }
   }
 
+  let isTablewareGoogleDemoted = false;
   if (tableware === "yes" && hasGoogleEvidence(aiReview.has_tableware?.evidence)) {
     if (inMall || isChain) {
       tableware = "yes";
@@ -1232,12 +1235,13 @@ function getAiAttributes(aiReview, existingAttributes = {}, name = "", address =
       tableware = "likely";
     } else {
       tableware = "unknown";
+      isTablewareGoogleDemoted = true;
     }
   }
 
   return {
     ...existingAttributes,
-    high_chair_available: keepExistingUnlessOverrideUnknown(
+    high_chair_available: isHighChairGoogleDemoted ? "unknown" : keepExistingUnlessOverrideUnknown(
       highChair,
       existingAttributes.high_chair_available,
       aiReview[" child_seat available"] ||
@@ -1269,7 +1273,7 @@ function getAiAttributes(aiReview, existingAttributes = {}, name = "", address =
       existingAttributes.has_private_room,
       aiReview.has_private_room
     ),
-    has_tableware: keepExistingUnlessOverrideUnknown(
+    has_tableware: isTablewareGoogleDemoted ? "unknown" : keepExistingUnlessOverrideUnknown(
       tableware,
       existingAttributes.has_tableware,
       aiReview.has_tableware

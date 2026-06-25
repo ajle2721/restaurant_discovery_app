@@ -1,4 +1,4 @@
-﻿const WEB3FORMS_ACCESS_KEY = "c7b3994f-f590-4126-a12f-111c28c58a19";
+const WEB3FORMS_ACCESS_KEY = "c7b3994f-f590-4126-a12f-111c28c58a19";
 
 const safeSession = {
     getItem(key) {
@@ -2366,17 +2366,15 @@ function renderCard(res, container, overrideLevel) {
     }
 
     const priceSymbol = priceSymbols[res.price_level];
-    const footerParts = [];
+    const metaParts = [];
     if (res.cuisine) {
-        footerParts.push(`<span class="card-cuisine">${res.cuisine}</span>`);
+        metaParts.push(`<span class="card-cuisine">${res.cuisine}</span>`);
     }
     if (priceSymbol) {
-        footerParts.push(`<span class="card-price" title="${res.price_level}">${priceSymbol}</span>`);
+        metaParts.push(`<span class="card-price" title="${res.price_level}">${priceSymbol}</span>`);
     }
-    if (timeHtml) {
-        footerParts.push(timeHtml);
-    }
-    const footerHtml = footerParts.join('<span class="card-meta-dot">·</span>');
+
+    const metaHtml = metaParts.join('<span class="card-meta-dot">·</span>');
 
     const isFav = state.favorites.has(res.place_id);
     card.innerHTML = `
@@ -2392,6 +2390,11 @@ function renderCard(res, container, overrideLevel) {
         <div class="card-header-row">
             <div class="restaurant-name">${formatRestaurantName(res.name)}</div>
         </div>
+        ${metaHtml ? `
+        <div class="card-meta-row">
+            ${metaHtml}
+        </div>
+        ` : ''}
         <div class="card-status-row">
             <div class="decision-summary ${levelClass}">
                 <span class="status-dot"></span>
@@ -2400,9 +2403,20 @@ function renderCard(res, container, overrideLevel) {
             ${extraInfoHtml}
         </div>
         <div class="card-summary">${getDisplaySummary(res, res.card_summary || res.ai_summary, { maxSentences: 3, maxChars: 220 })}</div>
-        <div class="card-footer-row">
-            ${footerHtml}
+        ${(res.address || timeHtml) ? `
+        <div class="card-address-row">
+            ${res.address ? `
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="12" height="12" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
+                <circle cx="12" cy="10" r="3"></circle>
+            </svg>
+            <span class="restaurant-address" title="${fixSimplifiedAddress(res.address)}">${formatAddressForCard(res.address, res.district)}</span>
+            ` : ''}
+            ${(res.address && timeHtml) ? `<span class="card-meta-dot">\u00B7</span>` : ''}
+            ${timeHtml ? timeHtml : ''}
         </div>
+        ` : ''}
+
         <div class="card-detail-hint">查看詳情與行前資訊 ›</div>
     `;
 
@@ -3673,6 +3687,28 @@ function shareRestaurant(res) {
 }
 
 // Utilities
+function formatAddressForCard(address, district) {
+    if (!address) return '';
+    const cleanAddr = fixSimplifiedAddress(address);
+    const prefixRegex1 = /^\d{3}[\u53f0\u81fa]\u7063[\u81fa\u53f0]\u5317\u5e02/;
+    const prefixRegex2 = /^[\u53f0\u81fa]\u7063[\u81fa\u53f0]\u5317\u5e02/;
+    const prefixRegex3 = /^[\u81fa\u53f0]\u5317\u5e02/;
+    let shortAddr = cleanAddr.replace(prefixRegex1, '')
+                             .replace(prefixRegex2, '')
+                             .replace(prefixRegex3, '')
+                             .trim();
+    if (district) {
+        if (shortAddr.startsWith(district)) {
+            return shortAddr;
+        }
+        const idx = shortAddr.indexOf(district);
+        if (idx >= 0 && idx < 12) {
+            return shortAddr.substring(idx);
+        }
+        return `${district} ${shortAddr}`;
+    }
+    return shortAddr;
+}
 function fixSimplifiedAddress(addr) {
     if (!addr) return '';
     

@@ -1,4 +1,4 @@
-:root {
+﻿:root {
     --primary: #F6846F;
     --primary-light: #FBC1B4;
     --primary-dark: #DF6B55;
@@ -1085,6 +1085,31 @@ body {
     padding-right: 6.5rem; /* Safe space to prevent overlapping with absolute favorite and map buttons */
 }
 
+.card-address-row {
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    margin-top: 0.1rem;
+    margin-bottom: 0.65rem;
+    padding-right: 6.5rem; /* Safe space to prevent overlapping with absolute favorite and map buttons */
+    color: var(--text-muted);
+    font-size: 0.78rem;
+    font-weight: 500;
+    line-height: 1.3;
+}
+
+.card-address-row svg {
+    flex-shrink: 0;
+    color: var(--text-muted);
+    opacity: 0.75;
+}
+
+.restaurant-address {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
 .time-tag, .time-tag-text {
     background: #f8fafc;
     border: 1.5px solid #e2e8f0;
@@ -1110,14 +1135,16 @@ body {
     align-items: center;
 }
 
-.card-footer-row {
+.card-meta-row {
     display: flex;
     align-items: center;
     flex-wrap: wrap;
     gap: 0.25rem 0.35rem;
-    font-size: 0.72rem;
-    color: #64748b;
-    margin-top: 0.8rem;
+    font-size: 0.75rem;
+    margin-top: -0.25rem;
+    margin-bottom: 0.55rem;
+    padding-right: 6.5rem; /* Safe space to prevent overlapping with absolute favorite and map buttons */
+    color: var(--text-muted);
 }
 
 .card-cuisine {
