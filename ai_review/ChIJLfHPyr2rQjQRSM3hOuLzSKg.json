@@ -1,13 +1,15 @@
 ﻿{
     " child_seat available":  {
-                                  "result":  "Yes",
-                                  "evidence":  "使用者回報與人工校正：所有午葉分店均提供兒童椅",
-                                  "confidence":  1
+                                  "result":  "Unknown",
+                                  "evidence":  "使用者回報與人工校正：午葉信義不確定是否提供兒童椅",
+                                  "confidence":  0.4,
+                                  "override_existing":  true
                               },
     "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
+                             "result":  "Yes",
+                             "evidence":  "使用者回報與人工校正：空間算寬敞",
+                             "confidence":  1,
+                             "override_existing":  true
                          },
     "Kids menu available":  {
                                 "result":  "Unknown",
@@ -15,9 +17,10 @@
                                 "confidence":  0.4
                             },
     "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "系統自動識別：同時提供兒童椅與兒童餐具，通常為親子友善且不怕吵之用餐環境",
-                               "confidence":  1
+                               "result":  "Unknown",
+                               "evidence":  null,
+                               "confidence":  0.4,
+                               "override_existing":  true
                            },
     "has_play_area":  {
                           "result":  "Unknown",
@@ -30,23 +33,24 @@
                              "confidence":  0.4
                          },
     "has_tableware":  {
-                          "result":  "Yes",
-                          "evidence":  "使用者回報與人工校正：所有午葉分店均貼心提供兒童專用碗盤餐具",
-                          "confidence":  1
+                          "result":  "Unknown",
+                          "evidence":  "使用者回報與人工校正：午葉信義不確定是否提供兒童餐具",
+                          "confidence":  0.4,
+                          "override_existing":  true
                       },
     "has_diaper_table":  {
                              "result":  "Unknown",
                              "evidence":  null,
                              "confidence":  0.4
                          },
-    "generated_summary":  "根據評論分析，手作麵包與特色輕食風味獲得顧客好評。店內貼心備有兒童座椅與專用餐具。",
-    "card_summary":  "",
+    "generated_summary":  "LEAVES Cafe 午葉信義空間算寬敞，店內有許多美麗植栽，氛圍舒適。親子備品目前尚未確認，建議前往前先向店家詢問。",
+    "card_summary":  "LEAVES Cafe 午葉信義空間算寬敞，店內有許多美麗植栽，氛圍舒適。親子備品目前尚未確認，建議前往前先向店家詢問。",
     "generated_signals":  [
-                              "使用者回報與人工校正：所有午葉分店均提供兒童椅",
-                              "系統自動識別：同時提供兒童椅與兒童餐具，通常為親子友善且不怕吵之用餐環境",
-                              "使用者回報與人工校正：所有午葉分店均貼心提供兒童專用碗盤餐具"
+                              "使用者回報與人工校正：空間算寬敞",
+                              "使用者回報與人工校正：店內有許多美麗植栽",
+                              "使用者回報與人工校正：兒童椅與兒童餐具尚未確認"
                           ],
-    "parent_friendly_score":  4,
-    "parent_friendly_level":  "高",
-    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "中",
+    "reason":  "使用者回報校正：午葉信義兒童椅與兒童餐具尚未確認；空間寬敞且有植栽"
 }

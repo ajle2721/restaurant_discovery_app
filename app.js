@@ -1,4 +1,4 @@
-const WEB3FORMS_ACCESS_KEY = "c7b3994f-f590-4126-a12f-111c28c58a19";
+﻿const WEB3FORMS_ACCESS_KEY = "c7b3994f-f590-4126-a12f-111c28c58a19";
 
 const safeSession = {
     getItem(key) {
@@ -4116,7 +4116,9 @@ function compactSummaryText(summary, restaurant, options = {}) {
 
 
 function patchAiSummary(restaurant, summary, options = {}) {
-    const patched = compactSummaryText(summary || '', restaurant, {
+    if (restaurant?.place_id === 'ChIJVSlgImqtQjQRbQdqBcuQMuo' || restaurant?.place_id === 'ChIJLfHPyr2rQjQRSM3hOuLzSKg') {
+        return summary || '';
+    }    const patched = compactSummaryText(summary || '', restaurant, {
         ...options,
         maxChars: options.maxChars || 160
     });

@@ -1,8 +1,8 @@
-﻿{
+{
     " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
+                                  "result":  "Yes",
+                                  "evidence":  "有提供兒童椅",
+                                  "confidence":  1.0
                               },
     "Spacious seating":  {
                              "result":  "Unknown",
@@ -10,9 +10,9 @@
                              "confidence":  1
                          },
     "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
+                                "result":  "No",
+                                "evidence":  "不提供兒童餐",
+                                "confidence":  1.0
                             },
     "kid_noise_tolerant":  {
                                "result":  "Yes",
@@ -30,21 +30,21 @@
                              "confidence":  0.4
                          },
     "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
+                          "result":  "Yes",
+                          "evidence":  "提供可愛造型的兒童餐具",
+                          "confidence":  1.0
                       },
     "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
+                             "result":  "Yes",
+                             "evidence":  "店內設有尿布台",
+                             "confidence":  1.0
                          },
-    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，獲得好評。氣氛輕鬆親子友善，適合帶孩子前來用餐。",
+    "generated_summary":  "店內餐點烹調用心、口味良好。雖然不提供兒童餐，但店內貼心備有兒童座椅、可愛造型的兒童餐具與尿布台，且店員會主動介紹餐點成分供家長參考選擇。",
     "card_summary":  "",
     "generated_signals":  [
                               "整個桌面非常「熱鬧」"
                           ],
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "中",
+    "parent_friendly_score":  6,
+    "parent_friendly_level":  "高",
     "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }
