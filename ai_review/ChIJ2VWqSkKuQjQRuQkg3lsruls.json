@@ -1,51 +1,52 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  "User provided info",
-                                  "confidence":  1
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "最令人滿意的是空間寬敞，早餐時間客人不多，宜人的用餐空間。",
-                             "confidence":  1
-                         },
-    "Kids menu available":  {
-                                "result":  "Yes",
-                                "evidence":  "有沙拉、義大利麵、燉飯、排餐、兒童餐",
-                                "confidence":  1
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Unknown",
-                               "evidence":  "在士林想找一間能好好坐下來吃早午餐、慢慢聊天的地方，這裡會是安心的選擇。",
-                               "confidence":  1
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，精緻的燉飯與焗烤料理深受顧客好評。店內提供兒童餐點。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "最令人滿意的是空間寬敞",
-                              "有沙拉、義大利麵、燉飯、排餐、兒童餐"
-                          ],
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "高",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+{
+  " child_seat available": {
+    "result": "Unknown",
+    "evidence": "User provided info",
+    "confidence": 1
+  },
+  "Spacious seating": {
+    "result": "Yes",
+    "evidence": "最令人滿意的是空間寬敞，早餐時間客人不多，宜人的用餐空間。",
+    "confidence": 1
+  },
+  "Kids menu available": {
+    "result": "Yes",
+    "evidence": "有沙拉、義大利麵、燉飯、排餐、兒童餐",
+    "confidence": 1
+  },
+  "kid_noise_tolerant": {
+    "result": "Unknown",
+    "evidence": "在士林想找一間能好好坐下來吃早午餐、慢慢聊天的地方，這裡會是安心的選擇。",
+    "confidence": 1
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_tableware": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "generated_summary": "根據評論分析，精緻的燉飯與焗烤料理深受顧客好評。店內提供兒童餐點。店內會提供畫畫用品給小孩使用。",
+  "card_summary": "店內會提供畫畫用品給小孩使用。",
+  "generated_signals": [
+    "最令人滿意的是空間寬敞",
+    "有沙拉、義大利麵、燉飯、排餐、兒童餐",
+    "使用者回報與人工校正：此連鎖品牌提供畫畫用品"
+  ],
+  "parent_friendly_score": 2,
+  "parent_friendly_level": "高",
+  "reason": "Google 官方親子標籤與評論/簡介語意關聯分析；使用者回報校正：提供畫畫用品"
 }

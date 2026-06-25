@@ -250,6 +250,22 @@ def main():
     else:
         print(f"[INFO] 開始處理 {len(response_files)} 筆資料...")
     
+    # 預先掃描所有 response 檔案以建立品牌出現次數統計
+    brand_counts = {}
+    for filename in response_files:
+        filepath = os.path.join(response_dir, filename)
+        try:
+            with open(filepath, 'r', encoding='utf-8-sig') as f:
+                data = json.load(f)
+            name = data.get("displayName", {}).get("text") or data.get("name", "Unknown")
+            brand = clean_brand_name(name)
+            if brand:
+                brand_lower = brand.lower()
+                brand_counts[brand_lower] = brand_counts.get(brand_lower, 0) + 1
+        except Exception:
+            pass
+
+    
     count = 0
     for filename in response_files:
         filepath = os.path.join(response_dir, filename)
@@ -317,7 +333,8 @@ def main():
             # 判斷是否為連鎖/高價位
             price_level = data.get("priceLevel") or data.get("price_level")
             is_expensive = (price_level in ["PRICE_LEVEL_EXPENSIVE", "PRICE_LEVEL_VERY_EXPENSIVE"]) or any(kw in name.upper() for kw in ["飯店", "酒店", "會館", "賓館", "VILLA"])
-            is_chain = bool(applied_brand_rules)
+            is_chain = bool(applied_brand_rules) and (brand_counts.get(brand.lower(), 0) >= 2)
+
             
             # 判斷是否有手動設定
             preserved_keys = {}

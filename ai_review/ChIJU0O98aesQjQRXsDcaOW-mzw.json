@@ -1,54 +1,55 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Yes",
-                                  "evidence":  "使用者回報與人工校正：有提供兒童椅",
-                                  "confidence":  1
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "餐廳空間寬敞明亮，座位舒適，環境乾淨。",
-                             "confidence":  1
-                         },
-    "Kids menu available":  {
-                                "result":  "Yes",
-                                "evidence":  "使用者回報與人工校正：日式家庭餐廳風格，兒童餐選擇豐富，如飛機模型餐盤的咖哩飯、經典日式漢堡排等",
-                                "confidence":  1
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "旁邊展示櫃有可愛的角落生物公仔，滿療癒的，女生或親子客應該會喜歡。",
-                               "confidence":  1
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "result":  "Yes",
-                          "evidence":  "使用者回報與人工校正：有提供兒童餐具",
-                          "confidence":  1
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，店內用餐空間規劃寬敞，活動動線舒適。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "使用者回報與人工校正：有提供兒童椅",
-                              "餐廳空間寬敞明亮",
-                              "使用者回報與人工校正：日式家庭餐廳風格，兒童餐選擇豐富，如飛機模型餐盤的咖哩飯、經典日式漢堡排等",
-                              "Google 官方登記適合兒童用餐",
-                              "使用者回報與人工校正：有提供兒童餐具"
-                          ],
-    "parent_friendly_score":  6,
-    "parent_friendly_level":  "高",
-    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
+{
+  " child_seat available": {
+    "result": "Yes",
+    "evidence": "使用者回報與人工校正：有提供兒童椅",
+    "confidence": 1
+  },
+  "Spacious seating": {
+    "result": "Yes",
+    "evidence": "餐廳空間寬敞明亮，座位舒適，環境乾淨。",
+    "confidence": 1
+  },
+  "Kids menu available": {
+    "result": "Yes",
+    "evidence": "使用者回報與人工校正：日式家庭餐廳風格，兒童餐選擇豐富，如飛機模型餐盤的咖哩飯、經典日式漢堡排等",
+    "confidence": 1
+  },
+  "kid_noise_tolerant": {
+    "result": "Yes",
+    "evidence": "旁邊展示櫃有可愛的角落生物公仔，滿療癒的，女生或親子客應該會喜歡。",
+    "confidence": 1
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_tableware": {
+    "result": "Yes",
+    "evidence": "使用者回報與人工校正：有提供兒童餐具",
+    "confidence": 1
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "generated_summary": "根據評論分析，店內用餐空間規劃寬敞，活動動線舒適。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點。店內會提供畫畫用品給小孩使用。",
+  "card_summary": "店內會提供畫畫用品給小孩使用。",
+  "generated_signals": [
+    "使用者回報與人工校正：有提供兒童椅",
+    "餐廳空間寬敞明亮",
+    "使用者回報與人工校正：日式家庭餐廳風格，兒童餐選擇豐富，如飛機模型餐盤的咖哩飯、經典日式漢堡排等",
+    "Google 官方登記適合兒童用餐",
+    "使用者回報與人工校正：有提供兒童餐具",
+    "使用者回報與人工校正：此連鎖品牌提供畫畫用品"
+  ],
+  "parent_friendly_score": 6,
+  "parent_friendly_level": "高",
+  "reason": "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析；使用者回報校正：提供畫畫用品"
 }

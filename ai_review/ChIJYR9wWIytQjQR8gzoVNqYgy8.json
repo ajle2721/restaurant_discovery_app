@@ -1,4 +1,4 @@
-﻿{
+{
     " child_seat available":  {
                                   "result":  "Yes",
                                   "evidence":  "使用者回報與人工校正：店內備有兒童餐椅，但精品咖啡環境較為安靜，空間更適合靜態用餐",
@@ -29,23 +29,23 @@
                              "evidence":  null,
                              "confidence":  0.4
                          },
-    "has_tableware":  {
-                          "result":  "Yes",
-                          "evidence":  "使用者回報與人工校正：貼心提供兒童專用餐具",
-                          "confidence":  1
-                      },
-    "has_diaper_table":  {
-                             "result":  "No",
-                             "evidence":  "使用者回報與人工校正：店內無設置尿布台",
-                             "confidence":  1
-                         },
-    "generated_summary":  "根據評論分析，店內精緻的早午餐拼盤深受顧客喜愛。此處官方標示適合兒童，並貼心備有兒童座椅與專用餐具，讓攜帶孩子的家庭也能輕鬆享受美食。",
-    "card_summary":  "根據評論分析，店內精緻的早午餐拼盤深受顧客喜愛。此處官方標示適合兒童，並貼心備有兒童座椅與專用餐具，讓攜帶孩子的家庭也能輕鬆享受美食。",
-    "generated_signals":  [
-                              "使用者回報與人工校正：店內備有兒童餐椅，但精品咖啡環境較為安靜，空間更適合靜態用餐",
-                              "使用者回報與人工校正：貼心提供兒童專用餐具"
-                          ],
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "高",
-    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4,
+        "override_existing": true
+    },
+    "has_diaper_table": {
+        "result": "No",
+        "evidence": "使用者回報與人工校正：店內無設置尿布台",
+        "confidence": 1
+    },
+    "generated_summary": "根據評論分析，店內精緻的早午餐拼盤深受顧客喜愛。此處官方標示適合兒童，並貼心備有兒童座椅，讓攜帶孩子的家庭也能輕鬆享受美食。",
+    "card_summary": "根據評論分析，店內精緻的早午餐拼盤深受顧客喜愛。此處官方標示適合兒童，並貼心備有兒童座椅，讓攜帶孩子的家庭也能輕鬆享受美食。",
+    "generated_signals": [
+        "使用者回報與人工校正：店內備有兒童餐椅，但精品咖啡環境較為安靜，空間更適合靜態用餐"
+    ],
+    "parent_friendly_score": 0,
+    "parent_friendly_level": "中",
+    "reason": "人工校正與AI綜合評估"
 }

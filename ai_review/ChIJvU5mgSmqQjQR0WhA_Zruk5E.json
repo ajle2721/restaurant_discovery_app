@@ -1,54 +1,55 @@
-﻿{
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "這裡的座位配置寬敞舒適，無論是和朋友家人聚餐，或是獨自一人享受片刻寧靜，都能找到最適合你的角落。",
-                             "confidence":  1
-                         },
-    " child_seat available":  {
-                                  "evidence":  "Manual update",
-                                  "result":  "Yes",
-                                  "confidence":  1
-                              },
-    "Kids menu available":  {
-                                "evidence":  "Manual update",
-                                "result":  "Yes",
-                                "confidence":  1
-                            },
-    "kid_noise_tolerant":  {
-                               "evidence":  "Manual update",
-                               "result":  "Yes",
-                               "confidence":  1
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "result":  "Yes",
-                          "evidence":  "使用者回報與人工校正：樂子餐廳均有貼心提供兒童專用餐具",
-                          "confidence":  1
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，服務人員接待熱忱、服務態度良好。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "使用者回報與人工校正：樂子餐廳均有提供兒童座椅",
-                              "這裡的座位配置寬敞舒適",
-                              "使用者回報與人工校正：樂子餐廳均有提供專屬美式兒童餐點",
-                              "系統自動識別：同時提供兒童椅與兒童餐具，通常為親子友善且不怕吵之用餐環境",
-                              "使用者回報與人工校正：樂子餐廳均有貼心提供兒童專用餐具"
-                          ],
-    "parent_friendly_score":  6,
-    "parent_friendly_level":  "高",
-    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
+{
+  "Spacious seating": {
+    "result": "Yes",
+    "evidence": "這裡的座位配置寬敞舒適，無論是和朋友家人聚餐，或是獨自一人享受片刻寧靜，都能找到最適合你的角落。",
+    "confidence": 1
+  },
+  " child_seat available": {
+    "evidence": "Manual update",
+    "result": "Yes",
+    "confidence": 1
+  },
+  "Kids menu available": {
+    "evidence": "Manual update",
+    "result": "Yes",
+    "confidence": 1
+  },
+  "kid_noise_tolerant": {
+    "evidence": "Manual update",
+    "result": "Yes",
+    "confidence": 1
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_tableware": {
+    "result": "Yes",
+    "evidence": "使用者回報與人工校正：樂子餐廳均有貼心提供兒童專用餐具",
+    "confidence": 1
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "generated_summary": "根據評論分析，服務人員接待熱忱、服務態度良好。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點。店內會提供畫畫用品給小孩使用。",
+  "card_summary": "店內會提供畫畫用品給小孩使用。",
+  "generated_signals": [
+    "使用者回報與人工校正：樂子餐廳均有提供兒童座椅",
+    "這裡的座位配置寬敞舒適",
+    "使用者回報與人工校正：樂子餐廳均有提供專屬美式兒童餐點",
+    "系統自動識別：同時提供兒童椅與兒童餐具，通常為親子友善且不怕吵之用餐環境",
+    "使用者回報與人工校正：樂子餐廳均有貼心提供兒童專用餐具",
+    "使用者回報與人工校正：此連鎖品牌提供畫畫用品"
+  ],
+  "parent_friendly_score": 6,
+  "parent_friendly_level": "高",
+  "reason": "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析；使用者回報校正：提供畫畫用品"
 }

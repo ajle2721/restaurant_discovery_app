@@ -1,53 +1,54 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Yes",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  null,
-                               "confidence":  0.4
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "result":  "Yes",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_diaper_table":  {
-                             "result":  "Yes",
-                             "evidence":  "位於百貨商場/大樓（115台灣臺北市南港區忠孝東路七段369號9樓C棟），商場內設有公共尿布台及哺乳室",
-                             "confidence":  1
-                         },
-    "generated_summary":  "根據評論分析，服務人員接待熱忱、服務態度良好。店內貼心備有兒童座椅與專用餐具，可就近使用商場內公共尿布台及哺乳室。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "使用者回報與人工校正：瓦城集團分店均有提供兒童座椅",
-                              "系統自動識別：同時提供兒童椅與兒童餐具，通常為親子友善且不怕吵之用餐環境",
-                              "使用者回報與人工校正：瓦城集團分店均貼心提供兒童專用餐具",
-                              "系統自動識別：位於百貨商場/大樓（CityLink南港店），可使用商場內公共尿布台及哺乳室"
-                          ],
-    "parent_friendly_score":  5,
-    "parent_friendly_level":  "高",
-    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
+{
+  " child_seat available": {
+    "result": "Yes",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "Spacious seating": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "Kids menu available": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "kid_noise_tolerant": {
+    "result": "Yes",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_tableware": {
+    "result": "Yes",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_diaper_table": {
+    "result": "Yes",
+    "evidence": "位於百貨商場/大樓（115台灣臺北市南港區忠孝東路七段369號9樓C棟），商場內設有公共尿布台及哺乳室",
+    "confidence": 1
+  },
+  "generated_summary": "根據評論分析，服務人員接待熱忱、服務態度良好。店內貼心備有兒童座椅與專用餐具，可就近使用商場內公共尿布台及哺乳室。店內會提供畫畫用品給小孩使用。",
+  "card_summary": "店內會提供畫畫用品給小孩使用。",
+  "generated_signals": [
+    "使用者回報與人工校正：瓦城集團分店均有提供兒童座椅",
+    "系統自動識別：同時提供兒童椅與兒童餐具，通常為親子友善且不怕吵之用餐環境",
+    "使用者回報與人工校正：瓦城集團分店均貼心提供兒童專用餐具",
+    "系統自動識別：位於百貨商場/大樓（CityLink南港店），可使用商場內公共尿布台及哺乳室",
+    "使用者回報與人工校正：此連鎖品牌提供畫畫用品"
+  ],
+  "parent_friendly_score": 5,
+  "parent_friendly_level": "高",
+  "reason": "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析；使用者回報校正：提供畫畫用品"
 }

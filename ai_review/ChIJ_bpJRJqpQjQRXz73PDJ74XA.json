@@ -1,54 +1,55 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Yes",
-                                  "evidence":  "使用者回報與人工校正：所有Fridays分店均提供美式兒童座椅",
-                                  "confidence":  1
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "古亭店以寬敞的二樓用餐區聞名",
-                             "confidence":  0.8
-                         },
-    "Kids menu available":  {
-                                "result":  "Yes",
-                                "evidence":  "使用者回報與人工校正：所有Fridays分店均有提供專屬美式兒童套餐點",
-                                "confidence":  1
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "週末則熱鬧非凡",
-                               "confidence":  0.8
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "result":  "Yes",
-                          "evidence":  "使用者回報與人工校正：所有Fridays分店均貼心提供兒童專用碗盤",
-                          "confidence":  1
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  "系統自動識別：位於百貨商場/大樓（統一時代百貨），可使用商場內公共尿布台及哺乳室",
-                             "confidence":  1
-                         },
-    "generated_summary":  "根據評論分析，此餐廳服務人員接待熱忱、態度良好。官方標示此處適合兒童，並確認店內貼心備有兒童座椅、專用餐具，同時也提供兒童餐點，讓攜帶孩子的家庭能安心用餐。",
-    "card_summary":  "根據評論分析，此餐廳服務人員接待熱忱、態度良好。官方標示此處適合兒童，並確認店內貼心備有兒童座椅、專用餐具，同時也提供兒童餐點，讓攜帶孩子的家庭能安心用餐。",
-    "generated_signals":  [
-                              "使用者回報與人工校正：所有Fridays分店均提供美式兒童座椅",
-                              "古亭店以寬敞的二樓用餐區聞名",
-                              "使用者回報與人工校正：所有Fridays分店均有提供專屬美式兒童套餐點",
-                              "週末則熱鬧非凡",
-                              "使用者回報與人工校正：所有Fridays分店均貼心提供兒童專用碗盤"
-                          ],
-    "parent_friendly_score":  6,
-    "parent_friendly_level":  "高",
-    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
+{
+  " child_seat available": {
+    "result": "Yes",
+    "evidence": "使用者回報與人工校正：所有Fridays分店均提供美式兒童座椅",
+    "confidence": 1
+  },
+  "Spacious seating": {
+    "result": "Yes",
+    "evidence": "古亭店以寬敞的二樓用餐區聞名",
+    "confidence": 0.8
+  },
+  "Kids menu available": {
+    "result": "Yes",
+    "evidence": "使用者回報與人工校正：所有Fridays分店均有提供專屬美式兒童套餐點",
+    "confidence": 1
+  },
+  "kid_noise_tolerant": {
+    "result": "Yes",
+    "evidence": "週末則熱鬧非凡",
+    "confidence": 0.8
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_tableware": {
+    "result": "Yes",
+    "evidence": "使用者回報與人工校正：所有Fridays分店均貼心提供兒童專用碗盤",
+    "confidence": 1
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": "系統自動識別：位於百貨商場/大樓（統一時代百貨），可使用商場內公共尿布台及哺乳室",
+    "confidence": 1
+  },
+  "generated_summary": "根據評論分析，此餐廳服務人員接待熱忱、態度良好。官方標示此處適合兒童，並確認店內貼心備有兒童座椅、專用餐具，同時也提供兒童餐點，讓攜帶孩子的家庭能安心用餐。店內會提供畫畫用品給小孩使用。",
+  "card_summary": "根據評論分析，此餐廳服務人員接待熱忱、態度良好。官方標示此處適合兒童，並確認店內貼心備有兒童座椅、專用餐具，同時也提供兒童餐點，讓攜帶孩子的家庭能安心用餐。店內會提供畫畫用品給小孩使用。",
+  "generated_signals": [
+    "使用者回報與人工校正：所有Fridays分店均提供美式兒童座椅",
+    "古亭店以寬敞的二樓用餐區聞名",
+    "使用者回報與人工校正：所有Fridays分店均有提供專屬美式兒童套餐點",
+    "週末則熱鬧非凡",
+    "使用者回報與人工校正：所有Fridays分店均貼心提供兒童專用碗盤",
+    "使用者回報與人工校正：此連鎖品牌提供畫畫用品"
+  ],
+  "parent_friendly_score": 6,
+  "parent_friendly_level": "高",
+  "reason": "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析；使用者回報校正：提供畫畫用品"
 }

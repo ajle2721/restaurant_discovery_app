@@ -1,51 +1,56 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "環境更為寬敞與安靜",
-                             "confidence":  0.8
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "外面的桌席似乎比較吵雜",
-                               "confidence":  0.8
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Yes",
-                             "evidence":  "這次聚餐訂在包廂相對安靜氣氛很好，外面的桌席似乎比較吵雜，幸好有訂到包廂。",
-                             "confidence":  0.9
-                         },
-    "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，服務人員接待熱忱、服務態度良好。空間寬敞舒適，氣氛熱鬧親子友善，適合帶孩子前來用餐。此外，店內還設有舒適的獨立包廂空間。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "環境更為寬敞與安靜",
-                              "外面的桌席似乎比較吵雜"
-                          ],
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "中",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+{
+  " child_seat available": {
+    "result": "Yes",
+    "evidence": "使用者回報：松滿樓有提供兒童椅。",
+    "confidence": 1,
+    "override_existing": true
+  },
+  "Spacious seating": {
+    "result": "Yes",
+    "evidence": "環境更為寬敞與安靜",
+    "confidence": 0.8
+  },
+  "Kids menu available": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "kid_noise_tolerant": {
+    "result": "Yes",
+    "evidence": "使用者回報：氣氛熱鬧。",
+    "confidence": 1,
+    "override_existing": true
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Room",
+    "evidence": "使用者回報與已有資料：店內設有獨立包廂空間。",
+    "confidence": 1,
+    "override_existing": true
+  },
+  "has_tableware": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "generated_summary": "有提供兒童椅、氣氛熱鬧，店內還設有獨立包廂空間。",
+  "card_summary": "有提供兒童椅、氣氛熱鬧，店內還設有獨立包廂空間。",
+  "generated_signals": [
+    "環境更為寬敞與安靜",
+    "外面的桌席似乎比較吵雜",
+    "使用者回報與人工校正：松滿樓有兒童椅",
+    "使用者回報與人工校正：松滿樓有獨立包廂"
+  ],
+  "parent_friendly_score": 2,
+  "parent_friendly_level": "中",
+  "reason": "使用者回報校正：有兒童椅、氣氛熱鬧、有獨立包廂空間"
 }

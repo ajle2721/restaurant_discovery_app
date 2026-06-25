@@ -1,53 +1,54 @@
-﻿{
-    " child_seat available":  {
-                                  "evidence":  "Manual update",
-                                  "result":  "Yes",
-                                  "confidence":  1
-                              },
-    "Spacious seating":  {
-                             "evidence":  "Manual update",
-                             "result":  "Unknown",
-                             "confidence":  1
-                         },
-    "Kids menu available":  {
-                                "evidence":  "Manual update",
-                                "result":  "Yes",
-                                "confidence":  1
-                            },
-    "kid_noise_tolerant":  {
-                               "evidence":  "Manual update",
-                               "result":  "Yes",
-                               "confidence":  1
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "result":  "Yes",
-                          "evidence":  "使用者回報與人工校正：所有貳樓分店均貼心提供兒童餐具",
-                          "confidence":  1
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，服務人員接待熱忱、服務態度良好。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點，且店內貼心提供畫紙與蠟筆給小孩畫畫。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "使用者回報與人工校正：所有貳樓分店均提供兒童座椅",
-                              "使用者回報與人工校正：所有貳樓分店均提供專屬兒童餐點",
-                              "Google 官方登記適合兒童用餐",
-                              "使用者回報與人工校正：所有貳樓分店均貼心提供兒童餐具"
-                          ],
-    "parent_friendly_score":  5,
-    "parent_friendly_level":  "高",
-    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
+{
+  " child_seat available": {
+    "evidence": "Manual update",
+    "result": "Yes",
+    "confidence": 1
+  },
+  "Spacious seating": {
+    "evidence": "Manual update",
+    "result": "Unknown",
+    "confidence": 1
+  },
+  "Kids menu available": {
+    "evidence": "Manual update",
+    "result": "Yes",
+    "confidence": 1
+  },
+  "kid_noise_tolerant": {
+    "evidence": "Manual update",
+    "result": "Yes",
+    "confidence": 1
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_tableware": {
+    "result": "Yes",
+    "evidence": "使用者回報與人工校正：所有貳樓分店均貼心提供兒童餐具",
+    "confidence": 1
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "generated_summary": "根據評論分析，服務人員接待熱忱、服務態度良好。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點，且店內貼心提供畫紙與蠟筆給小孩畫畫。",
+  "card_summary": "店內會提供畫畫用品給小孩使用。",
+  "generated_signals": [
+    "使用者回報與人工校正：所有貳樓分店均提供兒童座椅",
+    "使用者回報與人工校正：所有貳樓分店均提供專屬兒童餐點",
+    "Google 官方登記適合兒童用餐",
+    "使用者回報與人工校正：所有貳樓分店均貼心提供兒童餐具",
+    "使用者回報與人工校正：此連鎖品牌提供畫畫用品"
+  ],
+  "parent_friendly_score": 5,
+  "parent_friendly_level": "高",
+  "reason": "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析；使用者回報校正：提供畫畫用品"
 }

@@ -546,7 +546,52 @@ function getShowResultsPreviewCount() {
 
     const center = state.searchLocation;
     let filtered;
-    if (center.keyword) {
+    if (center.type === '多行政區') {
+        filtered = restaurantData.filter(res => 
+            res.district && center.districts.includes(res.district)
+        );
+    } else if (center.type === '多地點') {
+        filtered = restaurantData.filter(res => {
+            let matched = false;
+            let minDistance = Infinity;
+            center.locations.forEach(loc => {
+                if (loc.type === '行政區') {
+                    if (res.district === loc.name) {
+                        matched = true;
+                        const distToLoc = calculateDistance(loc.lat, loc.lng, res.latitude, res.longitude);
+                        if (distToLoc < minDistance) {
+                            minDistance = distToLoc;
+                        }
+                    }
+                } else {
+                    const distToLoc = calculateDistance(loc.lat, loc.lng, res.latitude, res.longitude);
+                    let maxRadius = (loc.type === '全市') ? 99999 : ((loc.type === '行政區') ? 2.5 : 1.5);
+                    if (state.expandedRadius) {
+                        maxRadius = (loc.type === '全市') ? 99999 : ((loc.type === '行政區') ? 5.0 : 3.0);
+                    }
+                    if (distToLoc <= maxRadius) {
+                        matched = true;
+                        if (distToLoc < minDistance) {
+                            minDistance = distToLoc;
+                        }
+                    }
+                }
+            });
+            return matched;
+        });
+    } else if (center.type === '捷運站周邊') {
+        const mrtStations = state.locationData.filter(l => l.type === '捷運站' || l.name.endsWith('站'));
+        filtered = restaurantData.filter(res => {
+            let minMrtDist = Infinity;
+            mrtStations.forEach(mrt => {
+                const dist = calculateDistance(mrt.lat, mrt.lng, res.latitude, res.longitude);
+                if (dist < minMrtDist) {
+                    minMrtDist = dist;
+                }
+            });
+            return minMrtDist <= 0.8; // 800m
+        });
+    } else if (center.keyword) {
         const q = center.keyword.toLowerCase();
         filtered = restaurantData.filter(res =>
             (res.name && res.name.toLowerCase().includes(q)) ||
@@ -591,7 +636,15 @@ function init() {
             console.error('locationData is not loaded. Make sure locations.js is included.');
             state.locationData = [];
         } else {
-            state.locationData = locationData;
+            state.locationData = [...locationData];
+            // Add virtual location for "捷運站周邊" (Near MRT Station)
+            state.locationData.push({
+                name: "捷運站周邊",
+                type: "捷運站周邊",
+                lat: 25.0374,
+                lng: 121.5645,
+                keywords: ["捷運", "捷運站", "捷運站周邊", "捷運周邊", "mrt"]
+            });
         }
 
         if (typeof restaurantData === 'undefined') {
@@ -1445,6 +1498,52 @@ function handleAutocomplete() {
                (loc.keywords && loc.keywords.some(k => k.toLowerCase().includes(query)));
     }).slice(0, 5);
 
+    // Support searching multiple locations (districts, MRT stations, or landmarks) at once
+    const tokens = query.split(/[\s,、，]+/);
+    const matchedLocations = [];
+    tokens.forEach(tok => {
+        const t = tok.trim().toLowerCase();
+        if (!t) return;
+        const match = state.locationData.find(loc => {
+            const nameLower = loc.name.toLowerCase();
+            return nameLower === t || 
+                   nameLower.replace('區', '') === t || 
+                   nameLower.replace('站', '') === t ||
+                   (loc.keywords && loc.keywords.some(k => k.toLowerCase() === t));
+        });
+        if (match && !matchedLocations.some(l => l.name === match.name)) {
+            matchedLocations.push(match);
+        }
+    });
+
+    if (matchedLocations.length > 1) {
+        const multiName = matchedLocations.map(l => l.name).join('、');
+        let sumLat = 0, sumLng = 0, count = 0;
+        matchedLocations.forEach(loc => {
+            sumLat += loc.lat;
+            sumLng += loc.lng;
+            count++;
+        });
+        const avgLat = count > 0 ? sumLat / count : 25.0374;
+        const avgLng = count > 0 ? sumLng / count : 121.5645;
+        
+        const allDistricts = matchedLocations.every(l => l.type === '行政區');
+        const multiLocType = allDistricts ? '多行政區' : '多地點';
+
+        const multiLocationObj = {
+            name: multiName,
+            type: multiLocType,
+            locations: matchedLocations,
+            districts: allDistricts ? matchedLocations.map(l => l.name) : [],
+            lat: avgLat,
+            lng: avgLng
+        };
+        if (!state.locationData.some(l => l.name === multiName)) {
+            state.locationData.push(multiLocationObj);
+        }
+        locationMatches.unshift(multiLocationObj);
+    }
+
     // 2. Filter restaurant matches (matching name, cuisine, address, or district)
     let restaurantMatches = [];
     if (typeof restaurantData !== 'undefined') {
@@ -1639,6 +1738,53 @@ async function executeSearch(query) {
     if (!query) return;
 
     trackSearchLocation('keyword', query);
+
+    // Support manual search of multiple locations
+    const tokens = query.split(/[\s,、，]+/);
+    const matchedLocations = [];
+    tokens.forEach(tok => {
+        const t = tok.trim().toLowerCase();
+        if (!t) return;
+        const match = state.locationData.find(loc => {
+            const nameLower = loc.name.toLowerCase();
+            return nameLower === t || 
+                   nameLower.replace('區', '') === t || 
+                   nameLower.replace('站', '') === t ||
+                   (loc.keywords && loc.keywords.some(k => k.toLowerCase() === t));
+        });
+        if (match && !matchedLocations.some(l => l.name === match.name)) {
+            matchedLocations.push(match);
+        }
+    });
+
+    if (matchedLocations.length > 1) {
+        const multiName = matchedLocations.map(l => l.name).join('、');
+        let sumLat = 0, sumLng = 0, count = 0;
+        matchedLocations.forEach(loc => {
+            sumLat += loc.lat;
+            sumLng += loc.lng;
+            count++;
+        });
+        const avgLat = count > 0 ? sumLat / count : 25.0374;
+        const avgLng = count > 0 ? sumLng / count : 121.5645;
+        
+        const allDistricts = matchedLocations.every(l => l.type === '行政區');
+        const multiLocType = allDistricts ? '多行政區' : '多地點';
+
+        const multiLocationObj = {
+            name: multiName,
+            type: multiLocType,
+            locations: matchedLocations,
+            districts: allDistricts ? matchedLocations.map(l => l.name) : [],
+            lat: avgLat,
+            lng: avgLng
+        };
+        if (!state.locationData.some(l => l.name === multiName)) {
+            state.locationData.push(multiLocationObj);
+        }
+        selectLocation(multiLocationObj, 'manual_input');
+        return;
+    }
 
     // Dismiss dropdown
     autocompleteDropdown.classList.add('hidden');
@@ -1990,7 +2136,58 @@ async function renderResults() {
 
         // 2. Filter by distance or keyword
         let filtered;
-        if (center.keyword) {
+        if (center.type === '多行政區') {
+            filtered = restaurants.filter(res => 
+                res.district && center.districts.includes(res.district)
+            );
+        } else if (center.type === '多地點') {
+            filtered = restaurants.filter(res => {
+                let matched = false;
+                let minDistance = Infinity;
+                center.locations.forEach(loc => {
+                    if (loc.type === '行政區') {
+                        if (res.district === loc.name) {
+                            matched = true;
+                            const distToLoc = calculateDistance(loc.lat, loc.lng, res.latitude, res.longitude);
+                            if (distToLoc < minDistance) {
+                                minDistance = distToLoc;
+                            }
+                        }
+                    } else {
+                        const distToLoc = calculateDistance(loc.lat, loc.lng, res.latitude, res.longitude);
+                        let maxRadius = (loc.type === '全市') ? 99999 : ((loc.type === '行政區') ? 2.5 : 1.5);
+                        if (state.expandedRadius) {
+                            maxRadius = (loc.type === '全市') ? 99999 : ((loc.type === '行政區') ? 5.0 : 3.0);
+                        }
+                        if (distToLoc <= maxRadius) {
+                            matched = true;
+                            if (distToLoc < minDistance) {
+                                minDistance = distToLoc;
+                            }
+                        }
+                    }
+                });
+                if (matched) {
+                    res.distance = minDistance;
+                    return true;
+                }
+                return false;
+            });
+        } else if (center.type === '捷運站周邊') {
+            // Find all MRT stations in locationData
+            const mrtStations = state.locationData.filter(l => l.type === '捷運站' || l.name.endsWith('站'));
+            filtered = restaurants.filter(res => {
+                let minMrtDist = Infinity;
+                mrtStations.forEach(mrt => {
+                    const dist = calculateDistance(mrt.lat, mrt.lng, res.latitude, res.longitude);
+                    if (dist < minMrtDist) {
+                        minMrtDist = dist;
+                    }
+                });
+                res.distance = minMrtDist;
+                return minMrtDist <= 0.8; // 800m
+            });
+        } else if (center.keyword) {
             const q = center.keyword.toLowerCase();
             filtered = restaurants.filter(res => 
                 (res.name && res.name.toLowerCase().includes(q)) ||
@@ -2148,7 +2345,7 @@ async function renderResults() {
                     recommendation = '您可以考慮減少篩選條件以獲得更多推薦。';
                 }
 
-                const isWholeCity = (center.type === '全市' || center.name === '整個台北市');
+                const isWholeCity = (center.type === '全市' || center.name === '整個台北市' || center.type === '多行政區');
                 let expandHtml = '';
                 if (!isWholeCity) {
                     if (!state.expandedRadius) {
@@ -2358,11 +2555,47 @@ function renderCard(res, container, overrideLevel) {
         extraInfoHtml = `<span class="summary-tags-text ${levelClass}">${summaryTags}</span>`;
     }
 
-    const isWholeCity = state.searchLocation && (state.searchLocation.type === '全市' || state.searchLocation.name === '整個台北市');
+    let nearestName = '';
+    if (state.searchLocation) {
+        if (state.searchLocation.type === '多地點') {
+            let minDistance = Infinity;
+            let nearestLoc = null;
+            state.searchLocation.locations.forEach(loc => {
+                const d = calculateDistance(loc.lat, loc.lng, res.latitude, res.longitude);
+                if (d < minDistance) {
+                    minDistance = d;
+                    nearestLoc = loc;
+                }
+            });
+            if (nearestLoc) {
+                nearestName = nearestLoc.name;
+            }
+        } else if (state.searchLocation.type === '捷運站周邊') {
+            const mrtStations = state.locationData.filter(l => l.type === '捷運站' || l.name.endsWith('站'));
+            let minMrtDist = Infinity;
+            let nearestMrt = null;
+            mrtStations.forEach(mrt => {
+                const d = calculateDistance(mrt.lat, mrt.lng, res.latitude, res.longitude);
+                if (d < minMrtDist) {
+                    minMrtDist = d;
+                    nearestMrt = mrt;
+                }
+            });
+            if (nearestMrt) {
+                nearestName = nearestMrt.name;
+            }
+        }
+    }
+
+    const isWholeCity = state.searchLocation && (state.searchLocation.type === '全市' || state.searchLocation.name === '整個台北市' || state.searchLocation.type === '多行政區');
     const times = (!isWholeCity && res.distance) ? calculateTravelTimes(res.distance) : null;
     let timeHtml = '';
     if (times) {
-        timeHtml = `<span class="card-footer-time">(🚶${times.walking}分鐘·🚗${times.driving}分鐘)</span>`;
+        if (nearestName) {
+            timeHtml = `<span class="card-footer-time">(${nearestName} 🚶${times.walking}分·🚗${times.driving}分)</span>`;
+        } else {
+            timeHtml = `<span class="card-footer-time">(🚶${times.walking}分鐘·🚗${times.driving}分鐘)</span>`;
+        }
     }
 
     const priceSymbol = priceSymbols[res.price_level];
@@ -2668,11 +2901,38 @@ function renderDetailContent(restaurant) {
             }
         }
     } else if (state.searchLocation && restaurant.latitude && restaurant.longitude) {
-        dist = calculateDistance(state.searchLocation.lat, state.searchLocation.lng, restaurant.latitude, restaurant.longitude);
-        if (state.searchLocation.type === '行政區') {
-            originLabel = `「${state.searchLocation.name}中心點」`;
+        if (state.searchLocation.type === '多地點') {
+            let minDistance = Infinity;
+            let nearestLoc = null;
+            state.searchLocation.locations.forEach(loc => {
+                const d = calculateDistance(loc.lat, loc.lng, restaurant.latitude, restaurant.longitude);
+                if (d < minDistance) {
+                    minDistance = d;
+                    nearestLoc = loc;
+                }
+            });
+            dist = minDistance;
+            originLabel = `「${nearestLoc ? nearestLoc.name : '搜尋起點'}」`;
+        } else if (state.searchLocation.type === '捷運站周邊') {
+            const mrtStations = state.locationData.filter(l => l.type === '捷運站' || l.name.endsWith('站'));
+            let minMrtDist = Infinity;
+            let nearestMrt = null;
+            mrtStations.forEach(mrt => {
+                const d = calculateDistance(mrt.lat, mrt.lng, restaurant.latitude, restaurant.longitude);
+                if (d < minMrtDist) {
+                    minMrtDist = d;
+                    nearestMrt = mrt;
+                }
+            });
+            dist = minMrtDist;
+            originLabel = `「${nearestMrt ? nearestMrt.name : '捷運站'}」`;
         } else {
-            originLabel = `「${state.searchLocation.name}」`;
+            dist = calculateDistance(state.searchLocation.lat, state.searchLocation.lng, restaurant.latitude, restaurant.longitude);
+            if (state.searchLocation.type === '行政區') {
+                originLabel = `「${state.searchLocation.name}中心點」`;
+            } else {
+                originLabel = `「${state.searchLocation.name}」`;
+            }
         }
     }
     if (restaurant.ai_summary && !restaurant._ai_summary_patched) {
@@ -2738,7 +2998,7 @@ function renderDetailContent(restaurant) {
         }
     }
 
-    const isWholeCity = !isSpecificRestaurant && state.searchLocation && (state.searchLocation.type === '全市' || state.searchLocation.name === '整個台北市');
+    const isWholeCity = !isSpecificRestaurant && state.searchLocation && (state.searchLocation.type === '全市' || state.searchLocation.name === '整個台北市' || state.searchLocation.type === '多行政區');
     const times = (!isWholeCity && dist !== undefined) ? calculateTravelTimes(dist) : null;
     let timeHtml = '';
     if (times) {
@@ -3052,7 +3312,7 @@ function renderMap(restaurants) {
     let minLng = Infinity, maxLng = -Infinity;
     let hasPoints = false;
     
-    const isWholeCity = state.searchLocation && (state.searchLocation.type === '全市' || state.searchLocation.name === '整個台北市');
+    const isWholeCity = state.searchLocation && (state.searchLocation.type === '全市' || state.searchLocation.name === '整個台北市' || state.searchLocation.type === '捷運站周邊' || state.searchLocation.type === '多行政區' || state.searchLocation.type === '多地點');
     if (state.searchLocation && !isWholeCity) {
         const lat = state.searchLocation.lat;
         const lng = state.searchLocation.lng;
@@ -3146,8 +3406,7 @@ function refreshMapMarkers() {
         'Insufficient Info': '#94a3b8', '資訊不足': '#94a3b8',
         'Low Match': '#0284c7'
     };
-
-    const isWholeCity = state.searchLocation && (state.searchLocation.type === '全市' || state.searchLocation.name === '整個台北市');
+    const isWholeCity = state.searchLocation && (state.searchLocation.type === '全市' || state.searchLocation.name === '整個台北市' || state.searchLocation.type === '捷運站周邊' || state.searchLocation.type === '多行政區' || state.searchLocation.type === '多地點');
     
     let zoom = 13;
     try {
@@ -3206,6 +3465,87 @@ function refreshMapMarkers() {
         `;
         centerMarker.bindPopup(popupContent);
         state.markers.push(centerMarker);
+    }
+
+    // Render searched locations if "多地點" is active
+    if (state.searchLocation && state.searchLocation.type === '多地點') {
+        state.searchLocation.locations.forEach(loc => {
+            if (loc.type === '捷運站' || loc.name.endsWith('站')) {
+                const mrtIcon = L.divIcon({
+                    html: `<div class="mrt-marker-inner" style="width: 32px; height: 32px; display: flex; align-items: center; justify-content: center; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.45)); cursor: pointer;" title="${loc.name}">
+                             <svg viewBox="0 0 100 100" width="32" height="32" xmlns="http://www.w3.org/2000/svg" style="display: block;">
+                               <g transform="translate(13, 10) scale(1.3)">
+                                 <g stroke="#ffffff" stroke-width="8" stroke-linejoin="round" stroke-linecap="round" fill="#ffffff">
+                                   <path d="M0,17.973L2.927,14.258C4.063,12.815 5.74,11.982 7.508,11.982L9.418,11.982C11.186,11.982 12.864,11.149 14,9.706L19.853,2.276C20.989,0.833 22.666,0 24.434,0L44.109,0L41.183,3.715C40.047,5.158 38.369,5.991 36.602,5.991L34.691,5.991C32.923,5.991 31.246,6.824 30.11,8.267L24.257,15.697C23.12,17.14 21.443,17.973 19.675,17.973L0,17.973Z"/>
+                                   <path d="M0,17.973L2.927,14.258C4.063,12.815 5.74,11.982 7.508,11.982L9.418,11.982C11.186,11.982 12.864,11.149 14,9.706L19.853,2.276C20.989,0.833 22.666,0 24.434,0L44.109,0L41.183,3.715C40.047,5.158 38.369,5.991 36.602,5.991L34.691,5.991C32.923,5.991 31.246,6.824 30.11,8.267L24.257,15.697C23.12,17.14 21.443,17.973 19.675,17.973L0,17.973Z" transform="translate(13.026, 11.985)"/>
+                                 </g>
+                                 <path d="M0,17.973L2.927,14.258C4.063,12.815 5.74,11.982 7.508,11.982L9.418,11.982C11.186,11.982 12.864,11.149 14,9.706L19.853,2.276C20.989,0.833 22.666,0 24.434,0L44.109,0L41.183,3.715C40.047,5.158 38.369,5.991 36.602,5.991L34.691,5.991C32.923,5.991 31.246,6.824 30.11,8.267L24.257,15.697C23.12,17.14 21.443,17.973 19.675,17.973L0,17.973Z" fill="#4bb748"/>
+                                 <path d="M0,17.973L2.927,14.258C4.063,12.815 5.74,11.982 7.508,11.982L9.418,11.982C11.186,11.982 12.864,11.149 14,9.706L19.853,2.276C20.989,0.833 22.666,0 24.434,0L44.109,0L41.183,3.715C40.047,5.158 38.369,5.991 36.602,5.991L34.691,5.991C32.923,5.991 31.246,6.824 30.11,8.267L24.257,15.697C23.12,17.14 21.443,17.973 19.675,17.973L0,17.973Z" fill="#0079a9" transform="translate(13.026, 11.985)"/>
+                               </g>
+                             </svg>
+                           </div>`,
+                    className: 'mrt-marker-outer',
+                    iconSize: [32, 20],
+                    iconAnchor: [16, 10]
+                });
+                const mrtMarker = L.marker([loc.lat, loc.lng], {
+                    icon: mrtIcon,
+                    interactive: true
+                }).addTo(state.map);
+                mrtMarker.bindPopup(`<strong style="color: #2563eb; font-size: 0.9rem;">🚇 ${loc.name}</strong>`);
+                state.markers.push(mrtMarker);
+            } else if (loc.type !== '行政區') {
+                const centerIcon = L.divIcon({
+                    html: `<div class="search-center-marker-inner" style="width: 30px; height: 30px; display: flex; align-items: center; justify-content: center;">
+                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="30" height="30" style="display: block; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.3));">
+                               <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7z" fill="#EA4335"/>
+                               <circle cx="12" cy="9" r="3.2" fill="#7A1E1A"/>
+                             </svg>
+                           </div>`,
+                    className: 'search-center-marker-outer',
+                    iconSize: [30, 30],
+                    iconAnchor: [15, 27]
+                });
+                const centerMarker = L.marker([loc.lat, loc.lng], {
+                    icon: centerIcon,
+                    interactive: true
+                }).addTo(state.map);
+                centerMarker.bindPopup(`<strong style="color: var(--primary); font-size: 0.9rem;">📍 ${loc.name}</strong>`);
+                state.markers.push(centerMarker);
+            }
+        });
+    }
+
+    // Render MRT Station Markers if "捷運站周邊" is active
+    if (state.searchLocation && state.searchLocation.type === '捷運站周邊') {
+        const mrtStations = state.locationData.filter(l => l.type === '捷運站' || l.name.endsWith('站'));
+        mrtStations.forEach(mrt => {
+            const mrtIcon = L.divIcon({
+                html: `<div class="mrt-marker-inner" style="width: 38px; height: 23px; display: flex; align-items: center; justify-content: center; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.45)); cursor: pointer;" title="${mrt.name}">
+                         <svg viewBox="0 0 100 60" width="38" height="23" xmlns="http://www.w3.org/2000/svg" style="display: block;">
+                           <!-- White silhouette backing to ensure contrast on any map background -->
+                           <g transform="translate(13, 10) scale(1.3)">
+                             <g stroke="#ffffff" stroke-width="8" stroke-linejoin="round" stroke-linecap="round" fill="#ffffff">
+                               <path d="M0,17.973L2.927,14.258C4.063,12.815 5.74,11.982 7.508,11.982L9.418,11.982C11.186,11.982 12.864,11.149 14,9.706L19.853,2.276C20.989,0.833 22.666,0 24.434,0L44.109,0L41.183,3.715C40.047,5.158 38.369,5.991 36.602,5.991L34.691,5.991C32.923,5.991 31.246,6.824 30.11,8.267L24.257,15.697C23.12,17.14 21.443,17.973 19.675,17.973L0,17.973Z"/>
+                               <path d="M0,17.973L2.927,14.258C4.063,12.815 5.74,11.982 7.508,11.982L9.418,11.982C11.186,11.982 12.864,11.149 14,9.706L19.853,2.276C20.989,0.833 22.666,0 24.434,0L44.109,0L41.183,3.715C40.047,5.158 38.369,5.991 36.602,5.991L34.691,5.991C32.923,5.991 31.246,6.824 30.11,8.267L24.257,15.697C23.12,17.14 21.443,17.973 19.675,17.973L0,17.973Z" transform="translate(13.026, 11.985)"/>
+                             </g>
+                             <!-- Colored TRTC wings: Green (top/left) and Blue (bottom/right) -->
+                             <path d="M0,17.973L2.927,14.258C4.063,12.815 5.74,11.982 7.508,11.982L9.418,11.982C11.186,11.982 12.864,11.149 14,9.706L19.853,2.276C20.989,0.833 22.666,0 24.434,0L44.109,0L41.183,3.715C40.047,5.158 38.369,5.991 36.602,5.991L34.691,5.991C32.923,5.991 31.246,6.824 30.11,8.267L24.257,15.697C23.12,17.14 21.443,17.973 19.675,17.973L0,17.973Z" fill="#4bb748"/>
+                             <path d="M0,17.973L2.927,14.258C4.063,12.815 5.74,11.982 7.508,11.982L9.418,11.982C11.186,11.982 12.864,11.149 14,9.706L19.853,2.276C20.989,0.833 22.666,0 24.434,0L44.109,0L41.183,3.715C40.047,5.158 38.369,5.991 36.602,5.991L34.691,5.991C32.923,5.991 31.246,6.824 30.11,8.267L24.257,15.697C23.12,17.14 21.443,17.973 19.675,17.973L0,17.973Z" fill="#0079a9" transform="translate(13.026, 11.985)"/>
+                           </g>
+                         </svg>
+                       </div>`,
+                className: 'mrt-marker-outer',
+                iconSize: [38, 23],
+                iconAnchor: [19, 11.5]
+            });
+            const mrtMarker = L.marker([mrt.lat, mrt.lng], {
+                icon: mrtIcon,
+                interactive: true
+            }).addTo(state.map);
+            mrtMarker.bindPopup(`<strong style="color: #2563eb; font-size: 0.9rem;">🚇 ${mrt.name}</strong>`);
+            state.markers.push(mrtMarker);
+        });
     }
 
     const usedCoords = new Map();
@@ -3318,7 +3658,7 @@ function refreshMapMarkers() {
                 icon: pinIcon
             }).addTo(state.map);
             
-            const times = (!isWholeCity) ? calculateTravelTimes(res.distance) : null;
+            const times = (state.searchLocation && state.searchLocation.type !== '全市' && state.searchLocation.name !== '整個台北市' && state.searchLocation.type !== '多行政區' && res.distance) ? calculateTravelTimes(res.distance) : null;
 
             marker.bindPopup(`<div class="map-popup-compact">
                 <div class="map-popup-title-row">
@@ -3522,6 +3862,42 @@ function syncStateFromUrl(isInitialLoad = false, animate = false) {
 
         // 3. 恢復搜尋地點
         const locName = params.get('loc');
+        
+        // Auto-recreate multi-location or multi-district location dynamically if present
+        if (locName && locName.includes('、')) {
+            const parts = locName.split('、');
+            const matchedLocations = [];
+            parts.forEach(p => {
+                const locObj = state.locationData.find(l => l.name === p);
+                if (locObj) {
+                    matchedLocations.push(locObj);
+                }
+            });
+            if (matchedLocations.length > 1) {
+                const allDistricts = matchedLocations.every(l => l.type === '行政區');
+                const multiLocType = allDistricts ? '多行政區' : '多地點';
+                let sumLat = 0, sumLng = 0, count = 0;
+                matchedLocations.forEach(loc => {
+                    sumLat += loc.lat;
+                    sumLng += loc.lng;
+                    count++;
+                });
+                const avgLat = count > 0 ? sumLat / count : 25.0374;
+                const avgLng = count > 0 ? sumLng / count : 121.5645;
+                const multiLocationObj = {
+                    name: locName,
+                    type: multiLocType,
+                    locations: matchedLocations,
+                    districts: allDistricts ? matchedLocations.map(l => l.name) : [],
+                    lat: avgLat,
+                    lng: avgLng
+                };
+                if (!state.locationData.some(l => l.name === locName)) {
+                    state.locationData.push(multiLocationObj);
+                }
+            }
+        }
+        
         const lat = params.get('lat');
         const lng = params.get('lng');
         
@@ -4532,7 +4908,7 @@ function renderShortlistDrawer() {
             const isRoomLikely = ['likely', 'likely_room', 'likely_venue'].includes(attrs.has_private_room);
             const room = isRoomPositive ? checkIcon : (isRoomLikely ? checkLikelyIcon : (attrs.has_private_room === 'no' ? crossGeneralIcon : unknownIcon));
 
-            const isWholeCity = state.searchLocation && (state.searchLocation.type === '全市' || state.searchLocation.name === '整個台北市');
+            const isWholeCity = state.searchLocation && (state.searchLocation.type === '全市' || state.searchLocation.name === '整個台北市' || state.searchLocation.type === '多行政區');
             const times = (!isWholeCity && res.distance) ? calculateTravelTimes(res.distance) : null;
             const travelText = times ? `🚗${times.driving}分 / 🚶${times.walking}分` : (isWholeCity ? '全市範圍' : '未定位');
 

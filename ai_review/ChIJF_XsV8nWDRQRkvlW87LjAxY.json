@@ -1,53 +1,58 @@
 {
-    " child_seat available": {
-        "result": "Yes",
-        "evidence": "確認提供兒童座椅",
-        "confidence": 1.0
-    },
-    "Spacious seating": {
-        "result": "No",
-        "evidence": "座位還蠻多，但是空間較為緊密/狹小。",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "Yes",
-        "evidence": "確認提供兒童餐點",
-        "confidence": 1.0
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "確認適合兒童",
-        "confidence": 1.0
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_tableware": {
-        "result": "Yes",
-        "evidence": "確認提供兒童餐具",
-        "confidence": 1.0
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 2,
-    "parent_friendly_level": "高",
-    "reason": "確認提供兒童椅、兒童餐具與兒童餐",
-    "generated_signals": [
-        "確認提供兒童座椅",
-        "確認提供兒童餐點",
-        "確認提供兒童餐具",
-        "座位還蠻多，但是空間較為緊密/狹小。"
-    ],
-    "generated_summary": "此店經公開地點資訊標示為適合兒童，並確認提供兒童椅、兒童餐具與兒童餐，對親子客群友善。不過根據目前整理資料，店內座位雖然數量不少，但空間較為緊密/狹小，建議攜帶推車的家長留意。",
-    "card_summary": ""
+  " child_seat available": {
+    "result": "Yes",
+    "evidence": "使用者回報：此日式系列親子友善餐廳具備兒童椅。",
+    "confidence": 1,
+    "override_existing": true
+  },
+  "Spacious seating": {
+    "result": "No",
+    "evidence": "座位還蠻多，但是空間較為緊密/狹小。",
+    "confidence": 0.9
+  },
+  "Kids menu available": {
+    "result": "Yes",
+    "evidence": "此品牌或既有資料顯示有兒童餐點，人工校正保留為有。",
+    "confidence": 1,
+    "override_existing": true
+  },
+  "kid_noise_tolerant": {
+    "result": "Yes",
+    "evidence": "使用者回報：此日式系列親子友善餐廳環境對孩子聲音較包容。",
+    "confidence": 1,
+    "override_existing": true
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_tableware": {
+    "result": "Yes",
+    "evidence": "使用者回報：此日式系列親子友善餐廳具備兒童餐具。",
+    "confidence": 1,
+    "override_existing": true
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "parent_friendly_score": 2,
+  "parent_friendly_level": "高",
+  "reason": "確認提供兒童椅、兒童餐具與兒童餐；使用者回報校正：日式系列親子友善條件",
+  "generated_signals": [
+    "確認提供兒童座椅",
+    "確認提供兒童餐點",
+    "確認提供兒童餐具",
+    "座位還蠻多，但是空間較為緊密/狹小。",
+    "使用者回報與人工校正：日式系列具備兒童椅、兒童餐具且不怕吵"
+  ],
+  "generated_summary": "此店經公開地點資訊標示為適合兒童，並確認提供兒童椅、兒童餐具與兒童餐，對親子客群友善。不過根據目前整理資料，店內座位雖然數量不少，但空間較為緊密/狹小，建議攜帶推車的家長留意。",
+  "card_summary": "提供兒童椅、兒童餐具，環境對孩子聲音較包容。"
 }

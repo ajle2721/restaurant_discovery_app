@@ -43,11 +43,11 @@
             <div class="main-search-card">
                 <!-- Step 1: Location -->
                 <div class="search-widget-section">
-                    <div class="search-step-label">第一步：輸入搜尋地點</div>
+                    <div class="search-step-label">第一步：輸入搜尋地點 <span style="font-size: 0.78rem; color: rgba(255, 255, 255, 0.9); font-weight: 500; margin-left: 6px;">（支援輸入多個行政區或捷運站）</span></div>
                     <div class="search-container">
                         <div class="search-input-wrapper">
                             <svg class="search-icon" viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
-                            <input type="text" id="location-search" placeholder="輸入捷運站、地標、行政區或路段" autocomplete="off">
+                            <input type="text" id="location-search" placeholder="輸入行政區、捷運站或地標（可輸入多個，以空格隔開）" autocomplete="off">
                             <button id="clear-search" class="clear-search hidden">&times;</button>
                             <button id="search-magnifier" class="search-magnifier-embed" title="搜尋" type="button">
                                 <svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
@@ -79,6 +79,7 @@
                                 </span>
                                 <span>台北市全區</span>
                             </button>
+                            <button class="quick-link-item" data-loc="捷運站周邊">捷運站周邊</button>
                             <button class="quick-link-item" data-loc="台北車站">台北車站</button>
                             <button class="quick-link-item" data-loc="西門町">西門町</button>
                             <button class="quick-link-item" data-loc="中山站">中山站</button>

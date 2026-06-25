@@ -1,53 +1,58 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Yes",
-                                  "evidence":  "使用者回報與人工校正：所有貳樓分店均提供兒童座椅",
-                                  "confidence":  1
-                              },
-    "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "Kids menu available":  {
-                                "result":  "Yes",
-                                "evidence":  "使用者回報與人工校正：所有貳樓分店均提供專屬兒童餐點",
-                                "confidence":  1
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "最棒的是親子友善",
-                               "confidence":  0.8
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "result":  "Yes",
-                          "evidence":  "使用者回報與人工校正：所有貳樓分店均貼心提供兒童餐具",
-                          "confidence":  1
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  "系統自動識別：位於百貨商場/大樓（微風廣場/微風商場），可使用商場內公共尿布台及哺乳室",
-                             "confidence":  1
-                         },
-    "generated_summary":  "根據評論分析，店內規劃與氛圍對攜帶幼童的家庭相當友善。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點，且店內貼心提供畫紙與蠟筆給小孩畫畫。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "使用者回報與人工校正：所有貳樓分店均提供兒童座椅",
-                              "使用者回報與人工校正：所有貳樓分店均提供專屬兒童餐點",
-                              "最棒的是親子友善",
-                              "使用者回報與人工校正：所有貳樓分店均貼心提供兒童餐具"
-                          ],
-    "parent_friendly_score":  5,
-    "parent_friendly_level":  "高",
-    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
+{
+  " child_seat available": {
+    "result": "Yes",
+    "evidence": "使用者回報與人工校正：所有貳樓分店均提供兒童座椅",
+    "confidence": 1
+  },
+  "Spacious seating": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "Kids menu available": {
+    "result": "Yes",
+    "evidence": "使用者回報與人工校正：所有貳樓分店均提供專屬兒童餐點",
+    "confidence": 1
+  },
+  "kid_noise_tolerant": {
+    "result": "Yes",
+    "evidence": "最棒的是親子友善",
+    "confidence": 0.8
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Room",
+    "evidence": "使用者回報：Second Floor 貳樓仁愛店有包廂。",
+    "confidence": 1,
+    "override_existing": true
+  },
+  "has_tableware": {
+    "result": "Yes",
+    "evidence": "使用者回報與人工校正：所有貳樓分店均貼心提供兒童餐具",
+    "confidence": 1
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": "系統自動識別：位於百貨商場/大樓（微風廣場/微風商場），可使用商場內公共尿布台及哺乳室",
+    "confidence": 1
+  },
+  "generated_summary": "根據評論分析，店內規劃與氛圍對攜帶幼童的家庭相當友善。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點，且店內貼心提供畫紙與蠟筆給小孩畫畫。店內有包廂可供家庭聚餐使用。",
+  "card_summary": "店內會提供畫畫用品給小孩使用。店內有包廂可供家庭聚餐使用。",
+  "generated_signals": [
+    "使用者回報與人工校正：所有貳樓分店均提供兒童座椅",
+    "使用者回報與人工校正：所有貳樓分店均提供專屬兒童餐點",
+    "最棒的是親子友善",
+    "使用者回報與人工校正：所有貳樓分店均貼心提供兒童餐具",
+    "使用者回報與人工校正：此連鎖品牌提供畫畫用品",
+    "使用者回報與人工校正：貳樓仁愛店有包廂"
+  ],
+  "parent_friendly_score": 5,
+  "parent_friendly_level": "高",
+  "reason": "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析；使用者回報校正：提供畫畫用品；使用者回報校正：有包廂",
+  "has_private_room_override_existing": true,
+  "has_private_room_evidence": "使用者回報：Second Floor 貳樓仁愛店有包廂。"
 }

@@ -1,53 +1,58 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Yes",
-                                  "evidence":  "使用者回報與人工校正：彌生軒分店均有提供兒童餐椅",
-                                  "confidence":  1
-                              },
-    "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  "假日下午已過用餐時段還是有不少人，還好店內座位夠多，沒有訂位可以直接入座，服務員都客氣有禮，之後有機會會再來用餐",
-                             "confidence":  1
-                         },
-    "Kids menu available":  {
-                                "result":  "Yes",
-                                "evidence":  "使用者回報與人工校正：彌生軒分店均有提供專屬兒童套餐點",
-                                "confidence":  1
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "系統自動識別：同時提供兒童椅與兒童餐具，通常為親子友善且不怕吵之用餐環境",
-                               "confidence":  1
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "result":  "Yes",
-                          "evidence":  "使用者回報與人工校正：彌生軒分店均有提供兒童專用餐具",
-                          "confidence":  1
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，日式料理與主食口感風味良好。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "使用者回報與人工校正：彌生軒分店均有提供兒童餐椅",
-                              "使用者回報與人工校正：彌生軒分店均有提供專屬兒童套餐點",
-                              "系統自動識別：同時提供兒童椅與兒童餐具，通常為親子友善且不怕吵之用餐環境",
-                              "使用者回報與人工校正：彌生軒分店均有提供兒童專用餐具"
-                          ],
-    "parent_friendly_score":  5,
-    "parent_friendly_level":  "高",
-    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
+{
+  " child_seat available": {
+    "result": "Yes",
+    "evidence": "使用者回報：此日式系列親子友善餐廳具備兒童椅。",
+    "confidence": 1,
+    "override_existing": true
+  },
+  "Spacious seating": {
+    "result": "Unknown",
+    "evidence": "假日下午已過用餐時段還是有不少人，還好店內座位夠多，沒有訂位可以直接入座，服務員都客氣有禮，之後有機會會再來用餐",
+    "confidence": 1
+  },
+  "Kids menu available": {
+    "result": "Yes",
+    "evidence": "此品牌或既有資料顯示有兒童餐點，人工校正保留為有。",
+    "confidence": 1,
+    "override_existing": true
+  },
+  "kid_noise_tolerant": {
+    "result": "Yes",
+    "evidence": "使用者回報：此日式系列親子友善餐廳環境對孩子聲音較包容。",
+    "confidence": 1,
+    "override_existing": true
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_tableware": {
+    "result": "Yes",
+    "evidence": "使用者回報：此日式系列親子友善餐廳具備兒童餐具。",
+    "confidence": 1,
+    "override_existing": true
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "generated_summary": "根據評論分析，日式料理與主食口感風味良好。店內貼心備有兒童座椅與專用餐具，並提供兒童餐點。",
+  "card_summary": "提供兒童椅、兒童餐具，環境對孩子聲音較包容。",
+  "generated_signals": [
+    "使用者回報與人工校正：彌生軒分店均有提供兒童餐椅",
+    "使用者回報與人工校正：彌生軒分店均有提供專屬兒童套餐點",
+    "系統自動識別：同時提供兒童椅與兒童餐具，通常為親子友善且不怕吵之用餐環境",
+    "使用者回報與人工校正：彌生軒分店均有提供兒童專用餐具",
+    "使用者回報與人工校正：日式系列具備兒童椅、兒童餐具且不怕吵"
+  ],
+  "parent_friendly_score": 5,
+  "parent_friendly_level": "高",
+  "reason": "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析；使用者回報校正：日式系列親子友善條件"
 }
