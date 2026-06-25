@@ -2609,6 +2609,10 @@ function renderCard(res, container, overrideLevel) {
 
     const metaHtml = metaParts.join('<span class="card-meta-dot">·</span>');
 
+    const cardDistrict = getCardDistrict(res.address, res.district);
+    const cardAddress = formatAddressForCard(res.address, cardDistrict);
+    const cardStreetAddress = formatStreetAddressForCard(cardAddress, cardDistrict);
+
     const isFav = state.favorites.has(res.place_id);
     card.innerHTML = `
         <button class="card-map-btn" data-place-id="${res.place_id}" title="在地圖上查看">
@@ -2643,7 +2647,8 @@ function renderCard(res, container, overrideLevel) {
                 <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
                 <circle cx="12" cy="10" r="3"></circle>
             </svg>
-            <span class="restaurant-address" title="${fixSimplifiedAddress(res.address)}">${formatAddressForCard(res.address, res.district)}</span>
+            ${cardDistrict ? `<span class="restaurant-district">${cardDistrict}</span>` : ''}
+            ${cardStreetAddress ? `<span class="restaurant-address" title="${fixSimplifiedAddress(res.address)}">${cardStreetAddress}</span>` : ''}
             ` : ''}
             ${(res.address && timeHtml) ? `<span class="card-meta-dot">\u00B7</span>` : ''}
             ${timeHtml ? timeHtml : ''}
@@ -4063,6 +4068,22 @@ function shareRestaurant(res) {
 }
 
 // Utilities
+function getCardDistrict(address, district) {
+    if (district) return district;
+    const cleanAddr = fixSimplifiedAddress(address || '');
+    const match = cleanAddr.match(/(?:[\u53f0\u81fa]\u5317\u5e02)?([\u4e00-\u9fff]{1,4}\u5340)/);
+    return match ? match[1] : '';
+}
+
+function formatStreetAddressForCard(addressText, district) {
+    if (!addressText) return '';
+    let text = String(addressText).trim();
+    if (district && text.startsWith(district)) {
+        text = text.slice(district.length).trim();
+    }
+    return text;
+}
+
 function formatAddressForCard(address, district) {
     if (!address) return '';
     const cleanAddr = fixSimplifiedAddress(address);
