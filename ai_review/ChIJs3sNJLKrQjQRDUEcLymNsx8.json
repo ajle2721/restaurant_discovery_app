@@ -1,6 +1,6 @@
 ﻿{
     " child_seat available":  {
-                                  "evidence":  "Google 摰?餉??拙??咱?券?",
+                                  "evidence":  "使用者回報：提供兒童座椅",
                                   "result":  "Yes",
                                   "confidence":  1
                               },
@@ -30,8 +30,8 @@
                              "confidence":  0.4
                          },
     "has_tableware":  {
-                          "evidence":  "Google 摰?餉??拙??咱?券?",
-                          "result":  "Yes",
+                          "evidence":  "無提供兒童餐具",
+                          "result":  "No",
                           "confidence":  1
                       },
     "has_diaper_table":  {
@@ -46,7 +46,7 @@
                               "Good for children (官方標記：適合兒童)",
                               "No menu for children (官方標記：不提供兒童餐)",
                               "一走進店裡就能感受到濃濃的澳洲咖啡館氛圍，空間寬敞舒服，木質調搭配自然採光。",
-                              "Google 摰?餉??拙??咱?券?"
+                              "使用者回報：提供兒童餐椅"
                           ],
     "generated_summary":  "店內富錦店環境寬敞舒適，且官方標記為適合兒童，對家庭客相對友善。不過需注意店家明確標示不提供兒童餐，且評論提到店內桌距較近、環境較為熱鬧吵雜，建議家長前往時可自行準備兒童餐具或確認相關設施需求。",
     "card_summary":  ""

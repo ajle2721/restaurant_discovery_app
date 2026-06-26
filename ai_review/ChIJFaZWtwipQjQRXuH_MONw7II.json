@@ -16,7 +16,7 @@
                             },
     "kid_noise_tolerant":  {
                                "result":  "Yes",
-                               "evidence":  "系統自動識別：同時提供兒童椅與兒童餐具，通常為親子友善且不怕吵之用餐環境",
+                               "evidence":  "目前整理資料顯示環境對兒童用餐相對友善，但兒童餐具尚未確認",
                                "confidence":  1
                            },
     "has_play_area":  {
@@ -30,21 +30,21 @@
                              "confidence":  0.4
                          },
     "has_tableware":  {
-                          "result":  "Yes",
-                          "evidence":  null,
-                          "confidence":  0.4
+                          "result":  "Unknown",
+                          "evidence":  "目前整理資料未能確認此店提供兒童專用餐具",
+                          "confidence":  0.4,
+                          "override_existing":  true
                       },
     "has_diaper_table":  {
                              "result":  "No",
                              "evidence":  null,
                              "confidence":  0.4
                          },
-    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，獲得好評。店內貼心備有兒童座椅與專用餐具。",
+    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，獲得好評。店內貼心備有兒童座椅；兒童專用餐具目前整理資料未明確提及，建議前往前先向店家確認。",
     "card_summary":  "",
     "generated_signals":  [
                               "使用者回報與人工校正：現場備有兒童椅",
-                              "系統自動識別：同時提供兒童椅與兒童餐具，通常為親子友善且不怕吵之用餐環境",
-                              "使用者回報與人工校正：貼心提供兒童專用餐具"
+                              "目前整理資料未能確認此店提供兒童專用餐具"
                           ],
     "parent_friendly_score":  4,
     "parent_friendly_level":  "高",

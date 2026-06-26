@@ -30,8 +30,8 @@
                              "confidence":  0.4
                          },
     "has_tableware":  {
-                          "result":  "Yes",
-                          "evidence":  "使用者回報與人工校正：覺旅咖啡分店均貼心提供兒童餐具",
+                          "result":  "No",
+                          "evidence":  "使用者回報與人工校正：無提供兒童餐具",
                           "confidence":  1
                       },
     "has_diaper_table":  {
@@ -39,7 +39,7 @@
                              "evidence":  null,
                              "confidence":  0.4
                          },
-    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，獲得好評。店內貼心備有兒童座椅與專用餐具。",
+    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，獲得好評。店內貼心備有兒童座椅。",
     "card_summary":  "",
     "generated_signals":  [
                               "使用者回報與人工校正：覺旅咖啡分店均提供兒童餐椅",

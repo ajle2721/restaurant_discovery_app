@@ -30,19 +30,20 @@
                              "confidence":  0.4
                          },
     "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
+                          "result":  "Yes",
+                          "evidence":  "使用者回報與人工校正：店內有提供兒童餐具",
+                          "confidence":  1
                       },
     "has_diaper_table":  {
                              "result":  "Unknown",
                              "evidence":  null,
                              "confidence":  0.4
                          },
-    "generated_summary":  "根據評論分析，這裡的手作麵包與特色輕食風味獲得顧客好評。店內貼心備有兒童座椅，官方也標示其適合兒童，預期會提供兒童椅及兒童餐具，讓攜帶幼童的家庭能安心用餐。",
-    "card_summary":  "根據評論分析，這裡的手作麵包與特色輕食風味獲得顧客好評。店內貼心備有兒童座椅，官方也標示其適合兒童，預期會提供兒童椅及兒童餐具，讓攜帶幼童的家庭能安心用餐。",
+    "generated_summary":  "根據評論分析，這裡的手作麵包與特色輕食風味獲得顧客好評。店內提供兒童椅與兒童餐具，也會提供蠟筆和畫紙讓小孩畫畫，對親子用餐相當友善。",
+    "card_summary":  "手作麵包與特色輕食風味獲得好評。店內提供兒童椅與兒童餐具，也會提供蠟筆和畫紙讓小孩畫畫。",
     "generated_signals":  [
                               "有提供兒童椅與畫筆圖紙",
+                              "使用者回報與人工校正：店內有提供兒童餐具",
                               "十分親子友善😀"
                           ],
     "parent_friendly_score":  3,

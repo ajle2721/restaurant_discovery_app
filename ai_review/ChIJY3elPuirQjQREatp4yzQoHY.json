@@ -1,6 +1,6 @@
 ﻿{
     " child_seat available":  {
-                                  "evidence":  "Google 摰?餉??拙??咱?券?",
+                                  "evidence":  "使用者回報與人工校正：店內確定提供兒童椅",
                                   "result":  "Yes",
                                   "confidence":  1
                               },
@@ -30,7 +30,7 @@
                              "confidence":  0.9
                          },
     "has_tableware":  {
-                          "evidence":  "Google 摰?餉??拙??咱?券?",
+                          "evidence":  "使用者回報與人工校正：店內確定提供兒童餐具",
                           "result":  "Yes",
                           "confidence":  1
                       },
@@ -43,12 +43,13 @@
     "parent_friendly_level":  "高",
     "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
     "generated_signals":  [
+                              "使用者回報與人工校正：店內確定提供兒童椅",
+                              "使用者回報與人工校正：店內確定提供兒童餐具",
                               "店內看似小小 但包廂很多",
-                              "Good for children (官方標記：適合兒童)",
-                              "No menu for children (官方標記：不提供兒童餐)",
                               "座位寬敞走道很寬",
-                              "Google 摰?餉??拙??咱?券?"
+                              "Good for children (官方標記：適合兒童)",
+                              "No menu for children (官方標記：不提供兒童餐)"
                           ],
-    "generated_summary":  "店內環境寬敞且設有包廂，適合家庭聚餐，官方標記顯示適合兒童，但店內並不提供兒童餐。目前評論中未提及兒童椅、兒童餐具或尿布台等設施，建議前往前可先向店家確認。",
-    "card_summary":  ""
+    "generated_summary":  "這間中式料理餐廳提供兒童椅與兒童餐具，座位寬敞、環境對孩子聲音較包容，並設有包廂，適合家庭聚餐。店內不提供兒童餐。",
+    "card_summary":  "提供兒童椅與兒童餐具，座位寬敞、環境對孩子聲音較包容，也有包廂適合家庭聚餐。"
 }

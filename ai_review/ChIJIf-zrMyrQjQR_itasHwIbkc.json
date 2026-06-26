@@ -1,8 +1,9 @@
 ﻿{
     " child_seat available":  {
-                                  "result":  "Yes",
-                                  "evidence":  "還有一排高腳椅區（提供插座）",
-                                  "confidence":  0.8
+                                  "result":  "Unknown",
+                                  "evidence":  "評論提到高腳椅座位，但目前整理資料未能確認為兒童座椅",
+                                  "confidence":  0.4,
+                                  "override_existing":  true
                               },
     "Spacious seating":  {
                              "result":  "Unknown",
@@ -39,10 +40,10 @@
                              "evidence":  null,
                              "confidence":  0.4
                          },
-    "generated_summary":  "根據評論分析，店內採光充足、環境明亮。店內貼心備有兒童座椅。",
-    "card_summary":  "",
+    "generated_summary":  "根據評論分析，店內採光充足、環境明亮。兒童座椅目前整理資料未明確提及，建議前往前先向店家確認。",
+    "card_summary":  "店內採光充足、環境明亮。兒童座椅目前整理資料未明確提及，建議前往前先向店家確認。",
     "generated_signals":  [
-                              "還有一排高腳椅區（提供插座）",
+                              "評論提到高腳椅座位，但目前整理資料未能確認為兒童座椅",
                               "Google 官方登記適合兒童用餐",
                               "Google 摰?餉??拙??咱?券?"
                           ],

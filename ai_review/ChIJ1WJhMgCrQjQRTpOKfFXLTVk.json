@@ -1,8 +1,9 @@
 ﻿{
     " child_seat available":  {
-                                  "result":  "Yes",
-                                  "evidence":  "系統自動識別：官方登記為家庭式餐飲，提供兒童座椅",
-                                  "confidence":  0.8
+                                  "result":  "Unknown",
+                                  "evidence":  "目前整理資料未能確認此店提供兒童座椅",
+                                  "confidence":  0.4,
+                                  "override_existing":  true
                               },
     "Spacious seating":  {
                              "result":  "Unknown",
@@ -39,10 +40,10 @@
                              "evidence":  null,
                              "confidence":  0.4
                          },
-    "generated_summary":  "根據評論分析，服務人員接待熱忱、服務態度良好。店內貼心備有兒童座椅。",
+    "generated_summary":  "根據評論分析，服務人員接待熱忱、服務態度良好。兒童座椅目前整理資料未明確提及，建議前往前先向店家確認。",
     "card_summary":  "",
     "generated_signals":  [
-                              "系統自動識別：官方登記為家庭式餐飲，提供兒童座椅",
+                              "目前整理資料未能確認此店提供兒童座椅",
                               "系統自動識別：官方登記為家庭式餐飲，環境適合家庭客用餐，不怕吵"
                           ],
     "parent_friendly_score":  3,

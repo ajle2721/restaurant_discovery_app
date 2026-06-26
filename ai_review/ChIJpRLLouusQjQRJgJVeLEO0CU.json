@@ -1,6 +1,6 @@
 ﻿{
     " child_seat available":  {
-                                  "evidence":  "Google 摰?餉??拙??咱?券?",
+                                  "evidence":  "使用者回報：有提供兒童椅",
                                   "result":  "Yes",
                                   "confidence":  1
                               },
@@ -30,8 +30,8 @@
                              "confidence":  0.4
                          },
     "has_tableware":  {
-                          "evidence":  "Google 摰?餉??拙??咱?券?",
-                          "result":  "Yes",
+                          "evidence":  "無提供兒童餐具",
+                          "result":  "No",
                           "confidence":  1
                       },
     "has_diaper_table":  {
@@ -42,7 +42,7 @@
     "generated_summary":  "根據評論分析，店內提供的義大利麵等義式餐點口感良好，獲得顧客肯定。",
     "card_summary":  "",
     "generated_signals":  [
-                              "Google 摰?餉??拙??咱?券?"
+                              "使用者回報：有提供兒童椅"
                           ],
     "parent_friendly_score":  3,
     "parent_friendly_level":  "高",

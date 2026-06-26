@@ -30,21 +30,22 @@
                              "confidence":  0.4
                          },
     "has_tableware":  {
-                          "result":  "Yes",
-                          "evidence":  "使用者回報與人工校正：有提供兒童餐具",
-                          "confidence":  1
+                          "result":  "Unknown",
+                          "evidence":  "目前整理資料未能確認此店提供兒童專用餐具",
+                          "confidence":  0.4,
+                          "override_existing":  true
                       },
     "has_diaper_table":  {
                              "result":  "No",
                              "evidence":  "使用者回報與人工校正：無設置尿布台",
                              "confidence":  1
                          },
-    "generated_summary":  "根據評論分析，店內製作的披薩口味深受顧客推崇。店內貼心備有兒童座椅與專用餐具。",
-    "card_summary":  "",
+    "generated_summary":  "根據評論分析，店內製作的披薩口味深受顧客推崇。店內貼心備有兒童座椅；兒童專用餐具目前整理資料未明確提及，建議前往前先向店家確認。",
+    "card_summary":  "店內製作的披薩口味深受顧客推崇。店內貼心備有兒童座椅；兒童專用餐具目前整理資料未明確提及。",
     "generated_signals":  [
                               "使用者回報與人工校正：有提供兒童餐椅",
                               "對於部分怕生討厭吵雜的內向者來說",
-                              "使用者回報與人工校正：有提供兒童餐具"
+                              "目前整理資料未能確認此店提供兒童專用餐具"
                           ],
     "parent_friendly_score":  4,
     "parent_friendly_level":  "高",

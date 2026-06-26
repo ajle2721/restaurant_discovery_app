@@ -1,8 +1,9 @@
 ﻿{
     " child_seat available":  {
-                                  "result":  "Yes",
-                                  "evidence":  "加一個高腳椅二人桌",
-                                  "confidence":  0.8
+                                  "result":  "Unknown",
+                                  "evidence":  "評論提到高腳椅座位，但目前整理資料未能確認為兒童座椅",
+                                  "confidence":  0.4,
+                                  "override_existing":  true
                               },
     "Spacious seating":  {
                              "result":  "Unknown",
@@ -39,10 +40,10 @@
                              "evidence":  null,
                              "confidence":  0.4
                          },
-    "generated_summary":  "根據評論分析，餐點與整體服務品質獲得顧客良好回饋。店內貼心備有兒童座椅。",
-    "card_summary":  "",
+    "generated_summary":  "根據評論分析，餐點與整體服務品質獲得顧客良好回饋。兒童座椅目前整理資料未明確提及，建議前往前先向店家確認。",
+    "card_summary":  "餐點與整體服務品質獲得顧客良好回饋。兒童座椅目前整理資料未明確提及，建議前往前先向店家確認。",
     "generated_signals":  [
-                              "加一個高腳椅二人桌"
+                              "評論提到高腳椅座位，但目前整理資料未能確認為兒童座椅"
                           ],
     "parent_friendly_score":  2,
     "parent_friendly_level":  "中",

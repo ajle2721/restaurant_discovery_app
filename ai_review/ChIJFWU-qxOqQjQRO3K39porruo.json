@@ -1,8 +1,8 @@
 ﻿{
     " child_seat available":  {
-                                  "result":  "Yes",
-                                  "evidence":  "使用者回報與人工校正：所有I\u0027m Pasta分店均提供兒童餐椅",
-                                  "confidence":  1
+                                  "result":  "Likely",
+                                  "evidence":  "使用者回報與人工校正：I\u0027m Pasta 分店可能提供兒童餐椅，建議此分店前往前確認",
+                                  "confidence":  0.7
                               },
     "Spacious seating":  {
                              "result":  "Unknown",
@@ -30,21 +30,21 @@
                              "confidence":  0.4
                          },
     "has_tableware":  {
-                          "result":  "Yes",
-                          "evidence":  "使用者回報與人工校正：有提供兒童餐具",
-                          "confidence":  1
+                          "result":  "Likely",
+                          "evidence":  "使用者回報與人工校正：I\u0027m Pasta 分店可能提供兒童餐具，建議此分店前往前確認",
+                          "confidence":  0.7
                       },
     "has_diaper_table":  {
                              "result":  "Unknown",
                              "evidence":  null,
                              "confidence":  0.4
                          },
-    "generated_summary":  "根據評論分析，這家餐廳氣氛輕鬆親子友善，店內貼心備有兒童座椅與專用餐具。",
-    "card_summary":  "",
+    "generated_summary":  "根據評論分析，這家餐廳氣氛輕鬆親子友善，店內可能備有兒童座椅與專用餐具，建議前往前先向店家確認。",
+    "card_summary":  "這家餐廳氣氛輕鬆親子友善，店內可能備有兒童座椅與專用餐具，建議前往前先向店家確認。",
     "generated_signals":  [
-                              "使用者回報與人工校正：所有I\u0027m Pasta分店均提供兒童餐椅",
-                              "系統自動識別：同時提供兒童椅與兒童餐具，通常為親子友善且不怕吵之用餐環境",
-                              "使用者回報與人工校正：所有I\u0027m Pasta分店均貼心提供兒童餐具"
+                              "使用者回報與人工校正：I\u0027m Pasta 分店可能提供兒童餐椅，建議此分店前往前確認",
+                              "系統自動識別：同時可能提供兒童椅與兒童餐具，通常為親子友善且不怕吵之用餐環境",
+                              "使用者回報與人工校正：I\u0027m Pasta 分店可能提供兒童餐具，建議此分店前往前確認"
                           ],
     "parent_friendly_score":  4,
     "parent_friendly_level":  "高",

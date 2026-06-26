@@ -1,8 +1,9 @@
 ﻿{
     " child_seat available":  {
-                                  "result":  "Yes",
-                                  "evidence":  "使用者回報與人工校正：現場備有兒童椅",
-                                  "confidence":  1
+                                  "result":  "Unknown",
+                                  "evidence":  "目前整理資料未能確認此分店提供兒童座椅",
+                                  "confidence":  0.4,
+                                  "override_existing":  true
                               },
     "Spacious seating":  {
                              "result":  "Unknown",
@@ -16,7 +17,7 @@
                             },
     "kid_noise_tolerant":  {
                                "result":  "Yes",
-                               "evidence":  "系統自動識別：同時提供兒童椅與兒童餐具，通常為親子友善且不怕吵之用餐環境",
+                               "evidence":  "目前整理資料顯示店內對兒童用餐相對友善，但兒童座椅尚未確認",
                                "confidence":  1
                            },
     "has_play_area":  {
@@ -39,11 +40,10 @@
                              "evidence":  null,
                              "confidence":  0.4
                          },
-    "generated_summary":  "根據評論分析，店內提供的義大利麵等義式餐點口感良好，獲得顧客肯定。店內貼心備有兒童座椅與專用餐具。",
+    "generated_summary":  "根據評論分析，店內提供的義大利麵等義式餐點口感良好，獲得顧客肯定。店內是否備有兒童座椅目前整理資料未明確提及，建議前往前先向店家確認。",
     "card_summary":  "",
     "generated_signals":  [
-                              "使用者回報與人工校正：現場備有兒童椅",
-                              "系統自動識別：同時提供兒童椅與兒童餐具，通常為親子友善且不怕吵之用餐環境",
+                              "目前整理資料未能確認此分店提供兒童座椅",
                               "使用者回報與人工校正：貼心提供兒童專用餐具"
                           ],
     "parent_friendly_score":  4,
