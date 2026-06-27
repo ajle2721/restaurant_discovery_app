@@ -1,51 +1,51 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "Kids menu available":  {
-                                "result":  "Yes",
-                                "evidence":  "有水杯、餐具、兒童餐具、衛生紙、置物籃",
-                                "confidence":  0.8
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Unknown",
-                               "evidence":  null,
-                               "confidence":  0.4
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "result":  "Yes",
-                          "evidence":  "有水杯、餐具、兒童餐具、衛生紙、置物籃",
-                          "confidence":  0.8
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，店內提供的義大利麵等義式餐點口感良好，獲得顧客肯定。店內貼心備有兒童專用餐具，並提供兒童餐點。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "有水杯、餐具、兒童餐具、衛生紙、置物籃",
-                              "有水杯、餐具、兒童餐具、衛生紙、置物籃"
-                          ],
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "高",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+{
+  " child_seat available": {
+    "result": "Yes",
+    "evidence": "使用者回報：有兒童椅",
+    "confidence": 1
+  },
+  "Spacious seating": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "Kids menu available": {
+    "result": "Yes",
+    "evidence": "有水杯、餐具、兒童餐具、衛生紙、置物籃",
+    "confidence": 0.8
+  },
+  "kid_noise_tolerant": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_tableware": {
+    "result": "Yes",
+    "evidence": "有水杯、餐具、兒童餐具、衛生紙、置物籃",
+    "confidence": 0.8
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "generated_summary": "根據評論分析，店內提供的義大利麵等義式餐點口感良好，獲得顧客肯定。店內貼心備有兒童專用餐具，並提供兒童餐點。 店內有兒童椅。",
+  "card_summary": "根據評論分析，店內提供的義大利麵等義式餐點口感良好，獲得顧客肯定。店內貼心備有兒童專用餐具，並提供兒童餐點。 店內有兒童椅。",
+  "generated_signals": [
+    "有水杯、餐具、兒童餐具、衛生紙、置物籃",
+    "使用者回報：有兒童椅"
+  ],
+  "parent_friendly_score": 2,
+  "parent_friendly_level": "高",
+  "reason": "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

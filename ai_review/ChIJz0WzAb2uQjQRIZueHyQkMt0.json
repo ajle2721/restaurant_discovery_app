@@ -1,51 +1,53 @@
-﻿{
-    " child_seat available":  {
-                                  "evidence":  "Google 摰?餉??拙??咱?券?",
-                                  "result":  "Yes",
-                                  "confidence":  1
-                              },
-    "Spacious seating":  {
-                             "result":  "No",
-                             "evidence":  "使用者回報與人工校正：排隊翻桌快，且現場空間環境較為擁擠，不便推車",
-                             "confidence":  1.0
-                         },
-    "Kids menu available":  {
-                                "result":  "No",
-                                "evidence":  "使用者回報與人工校正：人氣台式早午餐無專屬兒童餐，餐點可與兒童分食",
-                                "confidence":  1.0
-                            },
-    "kid_noise_tolerant":  {
-                               "evidence":  "Google 摰?餉??拙??咱?券?",
-                               "result":  "Yes",
-                               "confidence":  1
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "result":  "Yes",
-                          "evidence":  "使用者回報與人工校正：有提供兒童餐具",
-                          "confidence":  1.0
-                      },
-    "has_diaper_table":  {
-                             "result":  "No",
-                             "evidence":  "使用者回報與人工校正：無設置尿布台",
-                             "confidence":  1.0
-                         },
-    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，獲得好評。店內貼心備有兒童專用餐具。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "使用者回報與人工校正：有提供兒童餐具",
-                              "Google 摰?餉??拙??咱?券?"
-                          ],
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "高",
-    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
+{
+  " child_seat available": {
+    "evidence": "Google 摰?餉??拙??咱?券?",
+    "result": "Yes",
+    "confidence": 1
+  },
+  "Spacious seating": {
+    "result": "No",
+    "evidence": "使用者回報與人工校正：排隊翻桌快，且現場空間環境較為擁擠，不便推車",
+    "confidence": 1.0
+  },
+  "Kids menu available": {
+    "result": "Yes",
+    "evidence": "使用者回報：兒童餐有炸物",
+    "confidence": 1
+  },
+  "kid_noise_tolerant": {
+    "evidence": "Google 摰?餉??拙??咱?券?",
+    "result": "Yes",
+    "confidence": 1
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_tableware": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4,
+    "override_existing": true
+  },
+  "has_diaper_table": {
+    "result": "No",
+    "evidence": "使用者回報與人工校正：無設置尿布台",
+    "confidence": 1.0
+  },
+  "generated_summary": "根據評論分析，店內餐點烹調用心、口味良好，獲得好評。店內貼心備有兒童專用餐具。 兒童餐有炸物。",
+  "card_summary": "根據評論分析，店內餐點烹調用心、口味良好，獲得好評。店內貼心備有兒童專用餐具。 兒童餐有炸物。",
+  "generated_signals": [
+    "使用者回報與人工校正：有提供兒童餐具",
+    "Google 摰?餉??拙??咱?券?",
+    "使用者回報：兒童餐有炸物"
+  ],
+  "parent_friendly_score": 1,
+  "parent_friendly_level": "高",
+  "reason": "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
 }

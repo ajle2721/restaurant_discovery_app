@@ -1,51 +1,54 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Yes",
-                                  "evidence":  "偷偷告訴你~ 一進門玻璃窗邊的高腳椅座位最受貓咪們青睞喔",
-                                  "confidence":  0.8
-                              },
-    "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "唯一小缺點 前往當日許多父母帶小孩一同前往 小孩較不受控音量很大 使整個環境變的些許吵雜",
-                               "confidence":  0.8
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，手工甜點與下午茶點心口感精緻，評價優良。店內貼心備有兒童座椅。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "偷偷告訴你~ 一進門玻璃窗邊的高腳椅座位最受貓咪們青睞喔",
-                              "唯一小缺點 前往當日許多父母帶小孩一同前往 小孩較不受控音量很大 使整個環境變的些許吵雜"
-                          ],
-    "parent_friendly_score":  3,
-    "parent_friendly_level":  "中",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+{
+  " child_seat available": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4,
+    "override_existing": true
+  },
+  "Spacious seating": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "Kids menu available": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "kid_noise_tolerant": {
+    "result": "Yes",
+    "evidence": "唯一小缺點 前往當日許多父母帶小孩一同前往 小孩較不受控音量很大 使整個環境變的些許吵雜",
+    "confidence": 0.8
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_tableware": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "generated_summary": "根據評論分析，手工甜點與下午茶點心口感精緻，評價優良。店裡有可愛的貓，且會招待小朋友一杯牛奶。",
+  "card_summary": "根據評論分析，手工甜點與下午茶點心口感精緻，評價優良。店裡有可愛的貓，且會招待小朋友一杯牛奶。",
+  "generated_signals": [
+    "偷偷告訴你~ 一進門玻璃窗邊的高腳椅座位最受貓咪們青睞喔",
+    "唯一小缺點 前往當日許多父母帶小孩一同前往 小孩較不受控音量很大 使整個環境變的些許吵雜",
+    "使用者回報：店裡有可愛的貓",
+    "使用者回報：會招待小朋友一杯牛奶"
+  ],
+  "parent_friendly_score": 3,
+  "parent_friendly_level": "中",
+  "reason": "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

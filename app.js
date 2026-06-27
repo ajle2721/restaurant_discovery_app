@@ -53,6 +53,7 @@ const state = {
     markerMap: {},
     locationData: [], // From taipei_locations.json
     showOthers: false,
+    showLowQualityResults: false,
     get hideLowQualityMarkers() {
         return !this.showOthers;
     },
@@ -529,8 +530,7 @@ function updateShowResultsButton(matchCount = 0) {
 
     const hasActiveFilters = (state.filters && state.filters.size > 0) || hasCuisineFilters();
     const shouldShow = isAreaSearchLocation(state.searchLocation)
-        && hasActiveFilters
-        && matchCount > 0;
+        && hasActiveFilters;
 
     btnShowResultsContainer.style.display = shouldShow ? 'block' : 'none';
     if (shouldShow) {
@@ -619,7 +619,7 @@ function getShowResultsPreviewCount() {
 
     return filtered.filter(res => {
         const status = getDynamicStatus(res, state.filters);
-        return status.level === 'High' || status.level === 'Medium';
+        return status.level === 'High';
     }).length;
 }
 
@@ -933,8 +933,9 @@ function setupEventListeners() {
         state.hideLowQualityMarkers = !state.showOthers; // Sync map toggle with list expansion
         if (hideMarkersToggle) hideMarkersToggle.checked = state.hideLowQualityMarkers;
         
-        // Reset othersLimit when toggled
+        // Reset extra result paging when toggled
         state.othersLimit = 30;
+        state.showLowQualityResults = false;
         
         // Toggle expansion instantly, then defer heavy rendering
         setTimeout(() => {
@@ -952,6 +953,7 @@ function setupEventListeners() {
         state.cuisineFilter.clear();
         state.hideLowQualityMarkers = true; // Reset to default: hide low quality
         state.showOthers = false; // Reset to default: hide others list
+        state.showLowQualityResults = false;
         state.recommendedLimit = 30; // Reset pagination limit
         state.othersLimit = 30; // Reset pagination limit
         
@@ -1935,7 +1937,8 @@ function selectLocation(loc, source = 'other', pushState = true) {
     if (loc && loc.type !== '特定餐廳') {
         state.lastGeographicLocation = loc;
     }
-    state.showOthers = false; // Reset to only show High+Medium results on new search
+    state.showOthers = false; // Reset to only show fully matching results on new search
+    state.showLowQualityResults = false;
     state.expandedRadius = false; // Reset search range expansion
     state.recommendedLimit = 30; // Reset pagination limit
     state.othersLimit = 30; // Reset pagination limit
@@ -2248,16 +2251,21 @@ async function renderResults() {
         });
 
         // 4. Split and Render
-        const exactMatches = sorted.filter(r => r.dynamicLevel === 'High' || r.dynamicLevel === 'Medium');
-        
-        let recommended, others;
-        if (exactMatches.length > 0) {
-            recommended = exactMatches;
-            others = sorted.filter(r => r.dynamicLevel === 'Low Match' || r.dynamicLevel === 'Insufficient Info' || r.dynamicLevel === 'Needs Attention');
-        } else {
-            recommended = sorted.filter(r => r.dynamicLevel === 'Low Match');
-            others = sorted.filter(r => r.dynamicLevel === 'Insufficient Info' || r.dynamicLevel === 'Needs Attention');
-        }
+        const hasSelectedFacilityFilters = state.filters && state.filters.size > 0;
+        const fullMatches = hasSelectedFacilityFilters
+            ? sorted.filter(r => r.dynamicLevel === 'High')
+            : sorted.filter(r => r.dynamicLevel === 'High' || r.dynamicLevel === 'Medium');
+        const considerMatches = hasSelectedFacilityFilters
+            ? sorted.filter(r => r.dynamicLevel === 'Medium')
+            : [];
+        const otherMatches = sorted.filter(r =>
+            r.dynamicLevel === 'Low Match' ||
+            r.dynamicLevel === 'Insufficient Info' ||
+            r.dynamicLevel === 'Needs Attention'
+        );
+
+        const recommended = fullMatches;
+        const others = [...considerMatches, ...otherMatches];
 
         state.currentResults = sorted; 
 
@@ -2265,11 +2273,11 @@ async function renderResults() {
         const btnShowResults = document.getElementById('btn-show-results');
         if (btnShowResultsContainer && btnShowResults) {
             btnShowResultsContainer.style.display = 'block';
-            btnShowResults.textContent = `查看 ${exactMatches.length} 間餐廳`;
+            btnShowResults.textContent = `查看 ${fullMatches.length} 間餐廳`;
         }
 
         const showResultsCount = (state.filters && state.filters.size > 0)
-            ? exactMatches.length
+            ? fullMatches.length
             : filtered.length;
         updateShowResultsButton(showResultsCount);
 
@@ -2293,28 +2301,48 @@ async function renderResults() {
             recommendedList.appendChild(loadMoreBtn);
         }
 
-        // Lazy Rendering of others list based on state.showOthers
-        if (state.showOthers) {
-            const visibleOthers = others.slice(0, state.othersLimit);
-            visibleOthers.forEach(res => renderCard(res, othersList, res.dynamicLevel));
+        const primaryOtherResults = others.filter(r => r.dynamicLevel === 'Medium' || r.dynamicLevel === 'Low Match');
+        const lowQualityResults = others.filter(r => r.dynamicLevel === 'Insufficient Info' || r.dynamicLevel === 'Needs Attention');
 
-            // If there are more others items, render the Load More button
-            if (others.length > state.othersLimit) {
+        // Lazy Rendering of extra lists based on state.showOthers.
+        // First layer: useful alternatives. Second layer: information gaps or known mismatches.
+        if (state.showOthers) {
+            const visiblePrimaryOthers = primaryOtherResults.slice(0, state.othersLimit);
+            visiblePrimaryOthers.forEach(res => renderCard(res, othersList, res.dynamicLevel));
+
+            if (primaryOtherResults.length > state.othersLimit) {
                 const loadMoreBtn = document.createElement('button');
                 loadMoreBtn.className = 'btn-load-more';
-                loadMoreBtn.textContent = '\u8f09\u5165\u66f4\u591a\u9078\u9805';
+                loadMoreBtn.textContent = '載入更多可以考慮的選項';
                 loadMoreBtn.addEventListener('click', () => {
                     trackEvent('click_load_more_others', {
                         current_limit: state.othersLimit,
-                        total_count: others.length
+                        total_count: primaryOtherResults.length
                     });
                     state.othersLimit += 30;
                     renderResults();
                 });
                 othersList.appendChild(loadMoreBtn);
             }
-        }
 
+            if (lowQualityResults.length > 0) {
+                if (state.showLowQualityResults) {
+                    lowQualityResults.forEach(res => renderCard(res, othersList, res.dynamicLevel));
+                } else {
+                    const showLowQualityBtn = document.createElement('button');
+                    showLowQualityBtn.className = 'btn-load-more';
+                    showLowQualityBtn.textContent = '查看更多（含資訊不足和不符合條件）';
+                    showLowQualityBtn.addEventListener('click', () => {
+                        trackEvent('expand_low_quality_results', {
+                            total_count: lowQualityResults.length
+                        });
+                        state.showLowQualityResults = true;
+                        renderResults();
+                    });
+                    othersList.appendChild(showLowQualityBtn);
+                }
+            }
+        }
         // Check if fully matching restaurants are 3 or fewer when filters are active
         const activeFiltersCount = (state.filters && state.filters.size > 0) ? state.filters.size : 0;
         fallbackHint.innerHTML = '';
@@ -2369,7 +2397,7 @@ async function renderResults() {
                     };
                 }
             }
-        } else if (state.filters && state.filters.size > 0 && exactMatches.length === 0) {
+        } else if (state.filters && state.filters.size > 0 && fullMatches.length === 0) {
             if (recommended.length > 0) {
                 fallbackHint.innerHTML = '找不到符合勾選條件的餐廳，請參考以下其他友善選擇：';
             } else {
@@ -2381,10 +2409,10 @@ async function renderResults() {
         // Update Toggle UI
         othersList.classList.toggle('hidden', !state.showOthers);
         toggleOthersBtn.classList.toggle('active', state.showOthers);
-        toggleOthersBtn.querySelector('span').textContent = state.showOthers ? '收合額外選項' : '查看更多 (含資訊不足或不符合條件)';
+        toggleOthersBtn.querySelector('span').textContent = state.showOthers ? '收合額外選項' : ((state.filters && state.filters.size > 0) ? '查看更多（含可以考慮和其他友善選擇）' : '查看更多（含其他友善選擇）');
         document.getElementById('others-section').classList.toggle('hidden', others.length === 0);
 
-        const mapData = state.showOthers ? sorted : recommended;
+        const mapData = state.showOthers ? [...recommended, ...primaryOtherResults, ...(state.showLowQualityResults ? lowQualityResults : [])] : recommended;
         renderMap(mapData); 
 
         // Update Clear Filters button visibility
@@ -4549,9 +4577,14 @@ function compactSummaryText(summary, restaurant, options = {}) {
 
 
 function patchAiSummary(restaurant, summary, options = {}) {
-    if (restaurant?.place_id === 'ChIJVSlgImqtQjQRbQdqBcuQMuo' || restaurant?.place_id === 'ChIJLfHPyr2rQjQRSM3hOuLzSKg') {
+    if (
+        restaurant?.place_id === 'ChIJVSlgImqtQjQRbQdqBcuQMuo' ||
+        restaurant?.place_id === 'ChIJLfHPyr2rQjQRSM3hOuLzSKg' ||
+        restaurant?.place_id === 'ChIJCQRu0QaqQjQRI3j4lpYZdbQ'
+    ) {
         return summary || '';
-    }    const patched = compactSummaryText(summary || '', restaurant, {
+    }
+    const patched = compactSummaryText(summary || '', restaurant, {
         ...options,
         maxChars: options.maxChars || 160
     });
@@ -5833,4 +5866,11 @@ function handleHomeFeedbackLinkClick(e) {
 document.addEventListener('click', handleHomeFeedbackLinkClick);
 // Start the app
 init();
+
+
+
+
+
+
+
 

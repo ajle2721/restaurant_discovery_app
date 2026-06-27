@@ -1,52 +1,53 @@
-﻿{
-    " child_seat available":  {
-                                  "evidence":  "使用者回報確定有兒童椅",
-                                  "result":  "Yes",
-                                  "confidence":  1
-                              },
-    "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "適合帶小孩來",
-                               "confidence":  0.8
-                           },
-    "has_play_area":  {
-                          "result":  "No",
-                          "evidence":  "使用者回報沒有遊樂區；評論提到玩具與店貓，但不等同於遊樂區",
-                          "confidence":  1
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "evidence":  "Google 摰?餉??拙??咱?券?",
-                          "result":  "Yes",
-                          "confidence":  1
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "此餐廳適合帶孩子用餐，使用者回報店內確定提供兒童椅。店內有親人的貓，評論也提到氛圍友善、適合帶小孩前往；但店內沒有遊樂區，若孩子需要活動空間可先斟酌安排。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "適合帶小孩來",
-                              "店內有親人的貓",
-                              "Google 摰?餉??拙??咱?券?"
-                          ],
-    "parent_friendly_score":  3,
-    "parent_friendly_level":  "高",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+{
+  " child_seat available": {
+    "evidence": "使用者回報確定有兒童椅",
+    "result": "Yes",
+    "confidence": 1
+  },
+  "Spacious seating": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "Kids menu available": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "kid_noise_tolerant": {
+    "result": "Yes",
+    "evidence": "適合帶小孩來",
+    "confidence": 0.8
+  },
+  "has_play_area": {
+    "result": "No",
+    "evidence": "使用者回報沒有遊樂區；評論提到玩具與店貓，但不等同於遊樂區",
+    "confidence": 1
+  },
+  "has_private_room": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_tableware": {
+    "evidence": "Google 摰?餉??拙??咱?券?",
+    "result": "Yes",
+    "confidence": 1
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "generated_summary": "此餐廳適合帶孩子用餐，使用者回報店內確定提供兒童椅。店內有親人的貓，評論也提到氛圍友善、適合帶小孩前往；但店內沒有遊樂區，若孩子需要活動空間可先斟酌安排。 店內有提供玩具給小孩玩。",
+  "card_summary": "此餐廳適合帶孩子用餐，使用者回報店內確定提供兒童椅。店內有親人的貓，評論也提到氛圍友善、適合帶小孩前往；但店內沒有遊樂區，若孩子需要活動空間可先斟酌安排。 店內有提供玩具給小孩玩。",
+  "generated_signals": [
+    "適合帶小孩來",
+    "店內有親人的貓",
+    "Google 摰?餉??拙??咱?券?",
+    "使用者回報：有提供玩具給小孩玩"
+  ],
+  "parent_friendly_score": 3,
+  "parent_friendly_level": "高",
+  "reason": "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

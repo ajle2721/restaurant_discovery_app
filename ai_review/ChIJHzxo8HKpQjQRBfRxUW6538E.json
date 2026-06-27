@@ -1,54 +1,56 @@
 {
-    " child_seat available": {
-        "result": "Yes",
-        "evidence": "使用者回報：有兒童椅。",
-        "confidence": 1
-    },
-    "Spacious seating": {
-        "result": "No",
-        "evidence": "店不大，環境乾淨舒適。",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "Google Maps Attributes: Good for children (官方標記：適合兒童)",
-        "confidence": 1
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_tableware": {
-        "evidence": "Google 摰?餉??拙??咱?券?",
-        "result": "Yes",
-        "confidence": 1
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "高",
-    "reason": "使用者回報與既有親子友善資料校正",
-    "generated_signals": [
-        "店不大，環境乾淨舒適。",
-        "Google Maps Attributes: Good for children (官方標記：適合兒童)",
-        "Google 摰?餉??拙??咱?券?",
-        "???????????",
-        "使用者回報：有兒童椅。"
-    ],
-    "generated_summary": "店內經公開地點資訊標示為適合兒童，環境乾淨但空間較為狹小。店內提供兒童椅，適合需要座椅輔助的家庭；目前整理資料中未提及遊戲區或尿布台等設施，建議前往前可先向店家確認。",
-    "card_summary": ""
+  " child_seat available": {
+    "result": "Yes",
+    "evidence": "使用者回報：有兒童椅。",
+    "confidence": 1
+  },
+  "Spacious seating": {
+    "result": "No",
+    "evidence": "店不大，環境乾淨舒適。",
+    "confidence": 0.9
+  },
+  "Kids menu available": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "kid_noise_tolerant": {
+    "result": "Yes",
+    "evidence": "Google Maps Attributes: Good for children (官方標記：適合兒童)",
+    "confidence": 1
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_tableware": {
+    "evidence": "使用者回報：有兒童餐具",
+    "result": "Yes",
+    "confidence": 1
+  },
+  "has_diaper_table": {
+    "result": "Yes",
+    "evidence": "使用者回報：商場廁所設有尿布台",
+    "confidence": 1
+  },
+  "parent_friendly_score": 1,
+  "parent_friendly_level": "高",
+  "reason": "使用者回報與既有親子友善資料校正",
+  "generated_signals": [
+    "店不大，環境乾淨舒適。",
+    "Google Maps Attributes: Good for children (官方標記：適合兒童)",
+    "Google 摰?餉??拙??咱?券?",
+    "???????????",
+    "使用者回報：有兒童椅。",
+    "使用者回報：有兒童餐具",
+    "使用者回報：商場廁所設有尿布台"
+  ],
+  "generated_summary": "店內經公開地點資訊標示為適合兒童，環境乾淨但空間較為狹小。店內提供兒童椅，適合需要座椅輔助的家庭；目前整理資料中未提及遊戲區或尿布台等設施，建議前往前可先向店家確認。",
+  "card_summary": ""
 }

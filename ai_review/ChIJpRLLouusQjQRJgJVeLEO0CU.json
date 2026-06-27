@@ -1,50 +1,51 @@
-﻿{
-    " child_seat available":  {
-                                  "evidence":  "使用者回報：有提供兒童椅",
-                                  "result":  "Yes",
-                                  "confidence":  1
-                              },
-    "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "evidence":  "Google 摰?餉??拙??咱?券?",
-                               "result":  "Yes",
-                               "confidence":  1
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "evidence":  "無提供兒童餐具",
-                          "result":  "No",
-                          "confidence":  1
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，店內提供的義大利麵等義式餐點口感良好，獲得顧客肯定。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "使用者回報：有提供兒童椅"
-                          ],
-    "parent_friendly_score":  3,
-    "parent_friendly_level":  "高",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+{
+  " child_seat available": {
+    "evidence": "使用者回報：有提供兒童椅",
+    "result": "Yes",
+    "confidence": 1
+  },
+  "Spacious seating": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "Kids menu available": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "kid_noise_tolerant": {
+    "evidence": "Google 摰?餉??拙??咱?券?",
+    "result": "Yes",
+    "confidence": 1
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_tableware": {
+    "evidence": null,
+    "result": "Unknown",
+    "confidence": 0.4,
+    "override_existing": true
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "generated_summary": "根據評論分析，店內提供的義大利麵等義式餐點口感良好，獲得顧客肯定。",
+  "card_summary": "",
+  "generated_signals": [
+    "使用者回報：有提供兒童椅"
+  ],
+  "parent_friendly_score": 3,
+  "parent_friendly_level": "高",
+  "reason": "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

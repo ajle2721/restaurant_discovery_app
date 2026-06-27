@@ -1,52 +1,53 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Yes",
-                                  "evidence":  "有高腳椅的座位區區",
-                                  "confidence":  0.8
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "走進室內顯得寬敞悠閒",
-                             "confidence":  0.8
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Unknown",
-                               "evidence":  null,
-                               "confidence":  0.4
-                           },
-    "has_play_area":  {
-                          "result":  "Yes",
-                          "evidence":  "還有兒童遊戲室",
-                          "confidence":  0.9
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，這家餐廳空間寬敞舒適，店內貼心備有兒童座椅，設有遊戲區讓孩子放電。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "有高腳椅的座位區區",
-                              "走進室內顯得寬敞悠閒",
-                              "還有兒童遊戲室"
-                          ],
-    "parent_friendly_score":  5,
-    "parent_friendly_level":  "高",
-    "reason":  "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
+{
+  " child_seat available": {
+    "result": "Yes",
+    "evidence": "有高腳椅的座位區區",
+    "confidence": 0.8
+  },
+  "Spacious seating": {
+    "result": "Yes",
+    "evidence": "走進室內顯得寬敞悠閒",
+    "confidence": 0.8
+  },
+  "Kids menu available": {
+    "result": "Yes",
+    "evidence": "使用者回報：有兒童餐",
+    "confidence": 1
+  },
+  "kid_noise_tolerant": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_play_area": {
+    "result": "Yes",
+    "evidence": "還有兒童遊戲室",
+    "confidence": 0.9
+  },
+  "has_private_room": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_tableware": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "generated_summary": "根據評論分析，這家餐廳空間寬敞舒適，店內貼心備有兒童座椅，設有遊戲區讓孩子放電。 店內有提供兒童餐。",
+  "card_summary": "",
+  "generated_signals": [
+    "有高腳椅的座位區區",
+    "走進室內顯得寬敞悠閒",
+    "還有兒童遊戲室",
+    "使用者回報：有兒童餐"
+  ],
+  "parent_friendly_score": 5,
+  "parent_friendly_level": "高",
+  "reason": "人工校正數據（特定包場慶生/親子活動餐廳）與評論語意融合分析"
 }

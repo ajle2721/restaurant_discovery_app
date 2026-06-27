@@ -1,52 +1,54 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Yes",
-                                  "evidence":  "系統自動識別：官方登記為家庭式餐飲，提供兒童座椅",
-                                  "confidence":  0.8
-                              },
-    "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "Kids menu available":  {
-                                "result":  "No",
-                                "evidence":  "Google 官方登記無提供兒童餐點",
-                                "confidence":  1
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "Google 官方登記適合兒童用餐",
-                               "confidence":  1
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "evidence":  "Google 摰?餉??拙??咱?券?",
-                          "result":  "Yes",
-                          "confidence":  1
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，燒肉與烤物料理火候適中，食材品質良好。店內貼心備有兒童座椅。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "Google 官方登記適合兒童用餐",
-                              "系統自動識別：官方登記為家庭式餐飲，提供兒童座椅",
-                              "Google 摰?餉??拙??咱?券?"
-                          ],
-    "parent_friendly_score":  3,
-    "parent_friendly_level":  "高",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+{
+  " child_seat available": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4,
+    "override_existing": true
+  },
+  "Spacious seating": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "Kids menu available": {
+    "result": "No",
+    "evidence": "Google 官方登記無提供兒童餐點",
+    "confidence": 1
+  },
+  "kid_noise_tolerant": {
+    "result": "Yes",
+    "evidence": "Google 官方登記適合兒童用餐",
+    "confidence": 1
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_tableware": {
+    "evidence": "使用者回報：有兒童餐具",
+    "result": "Yes",
+    "confidence": 1
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "generated_summary": "根據評論分析，燒肉與烤物料理火候適中，食材品質良好。店內貼心備有兒童座椅。",
+  "card_summary": "",
+  "generated_signals": [
+    "Google 官方登記適合兒童用餐",
+    "系統自動識別：官方登記為家庭式餐飲，提供兒童座椅",
+    "Google 摰?餉??拙??咱?券?",
+    "使用者回報：有兒童餐具"
+  ],
+  "parent_friendly_score": 3,
+  "parent_friendly_level": "高",
+  "reason": "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

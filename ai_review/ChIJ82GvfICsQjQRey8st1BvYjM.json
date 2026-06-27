@@ -1,51 +1,52 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Yes",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "適合家庭或同事間的聚餐。",
-                               "confidence":  1
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，店內採光充足、環境明亮。店內貼心備有兒童座椅。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "系統自動識別：官方登記為家庭式餐飲，提供兒童座椅",
-                              "系統自動識別：官方登記為家庭式餐飲，環境適合家庭客用餐，不怕吵"
-                          ],
-    "parent_friendly_score":  3,
-    "parent_friendly_level":  "中",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+{
+  " child_seat available": {
+    "result": "Yes",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "Spacious seating": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "Kids menu available": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "kid_noise_tolerant": {
+    "result": "Yes",
+    "evidence": "適合家庭或同事間的聚餐。",
+    "confidence": 1
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Room",
+    "evidence": "使用者回報：內湖店有包廂",
+    "confidence": 1
+  },
+  "has_tableware": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "generated_summary": "根據評論分析，店內採光充足、環境明亮。店內貼心備有兒童座椅。 店內有包廂。",
+  "card_summary": "",
+  "generated_signals": [
+    "系統自動識別：官方登記為家庭式餐飲，提供兒童座椅",
+    "系統自動識別：官方登記為家庭式餐飲，環境適合家庭客用餐，不怕吵",
+    "使用者回報：內湖店有包廂"
+  ],
+  "parent_friendly_score": 3,
+  "parent_friendly_level": "中",
+  "reason": "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

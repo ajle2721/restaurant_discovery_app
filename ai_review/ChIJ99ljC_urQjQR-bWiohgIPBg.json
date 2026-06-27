@@ -1,52 +1,53 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Yes",
-                                  "evidence":  "高腳椅有些掉皮需要注意",
-                                  "confidence":  0.8
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "空間寬敞舒適",
-                             "confidence":  0.8
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "No",
-                               "evidence":  "店內算安靜",
-                               "confidence":  0.8
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，獲得好評。店內貼心備有兒童座椅。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "高腳椅有些掉皮需要注意",
-                              "空間寬敞舒適",
-                              "店內算安靜"
-                          ],
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "中",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+{
+  " child_seat available": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4,
+    "override_existing": true
+  },
+  "Spacious seating": {
+    "result": "Yes",
+    "evidence": "空間寬敞舒適",
+    "confidence": 0.8
+  },
+  "Kids menu available": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "kid_noise_tolerant": {
+    "result": "No",
+    "evidence": "店內算安靜",
+    "confidence": 0.8
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_tableware": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "generated_summary": "根據評論分析，店內餐點烹調用心、口味良好，獲得好評。",
+  "card_summary": "",
+  "generated_signals": [
+    "高腳椅有些掉皮需要注意",
+    "空間寬敞舒適",
+    "店內算安靜"
+  ],
+  "parent_friendly_score": 1,
+  "parent_friendly_level": "中",
+  "reason": "Google 官方親子標籤與評論/簡介語意關聯分析"
 }
