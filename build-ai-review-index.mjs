@@ -1,4 +1,4 @@
-﻿import fs from "node:fs";
+import fs from "node:fs";
 import path from "node:path";
 import vm from "node:vm";
 
@@ -1339,72 +1339,124 @@ function getPrivateRoomValue(aiReview) {
   return result;
 }
 
-function getMajorCuisine(cuisine) {
-  if (!cuisine) return "複合式料理";
-  
-  const c = cuisine.trim();
+function getMajorCuisines(cuisine, name = "") {
+  const c = String(cuisine || "").trim();
+  const n = String(name || "").trim();
+  const text = c + " " + n;
+  const groups = [];
+  const add = (group) => {
+    if (!groups.includes(group)) groups.push(group);
+  };
 
-  // 1. 台式/中式料理
+  if (/火鍋|鍋物|涮涮|麻辣鍋|石頭鍋|小火鍋|hot\s*pot/i.test(text) || c === "火鍋") {
+    add("火鍋");
+  }
+
+  if (/早午餐|早餐|brunch|吐司|三明治|漢堡早餐|蛋餅|輕食/i.test(text) || c === "早午餐") {
+    add("早午餐");
+  }
+
+  if (/親子餐廳|親子主題|兒童餐廳|kids|money\s*jump/i.test(text)) {
+    add("親子餐廳");
+  }
+
+  if (/素食|蔬食|全素|蛋奶素|vegan|vegetarian/i.test(text) || c === "蔬食料理") {
+    add("素食/蔬食");
+  }
+
   if (
-    /台式|中式|台灣|台菜|粵菜|港式|川菜|四川|湘菜|上海|江浙|點心|熱炒|合菜|便當|涼麵|眷村|水餃|鍋貼|粥|麵線|小籠包|燒臘|自助餐|火鍋|中式湯品|鍋燒麵|海鮮|家常菜|家常料理/.test(c) ||
-    c === "中式料理" || c === "台式料理" || c === "港式料理" || c === "台灣小吃" || c === "台式小吃" || c === "台灣料理"
+    /台式|中式|台灣|台菜|粵菜|港式|川菜|四川|湘菜|上海|江浙|點心|熱炒|合菜|便當|涼麵|眷村|水餃|鍋貼|粥|麵線|小籠包|燒臘|自助餐|中式湯品|鍋燒麵|海鮮|家常菜|家常料理/.test(text) ||
+    ["中式料理", "台式料理", "港式料理", "台灣小吃", "台式小吃", "台灣料理"].includes(c)
   ) {
-    return "台式/中式料理";
+    add("台式/中式料理");
   }
 
-  // 2. 日式料理
   if (
-    /日式|居酒屋|壽司|拉麵|燒肉|丼飯|定食|烏龍麵|和食|割烹|懷石|天婦羅|鐵板燒|咖哩/.test(c) ||
-    c === "日式料理" || c === "壽司" || c === "拉麵" || c === "燒肉"
+    /日式|日本|居酒屋|壽司|拉麵|燒肉|丼飯|定食|烏龍麵|和食|割烹|懷石|天婦羅|鐵板燒|咖哩|韓式|韓國|韓食|韓餐/.test(text) ||
+    ["日式料理", "韓式料理", "壽司", "拉麵", "燒肉"].includes(c)
   ) {
-    return "日式料理";
+    add("日韓料理");
   }
 
-  // 3. 韓式料理
-  if (/韓式|韓國|韓食|韓餐/.test(c) || c === "韓式料理") {
-    return "韓式料理";
+  if (/義大利|義式|披薩|比薩|pizza/i.test(text) || c === "義大利料理" || c === "披薩") {
+    add("義式料理");
   }
 
-  // 4. 義式料理
-  if (/義大利|義式|披薩|比薩|pizza/i.test(c) || c === "義大利料理" || c === "披薩") {
-    return "義式料理";
-  }
-
-  // 5. 西式料理
   if (
-    /美式|法式|法國|德式|西班牙|瑞典|古巴|希臘|歐陸|歐式|西式|地中海|牛排|漢堡|熱狗|墨西哥|英式|俄式/.test(c) ||
-    c === "美式料理" || c === "法式料理" || c === "牛排館"
+    /美式|法式|法國|德式|西班牙|瑞典|歐陸|歐式|西式|牛排|漢堡|熱狗|英式|俄式/.test(text) ||
+    ["美式料理", "法式料理", "牛排館"].includes(c)
   ) {
-    return "西式料理";
+    add("西式料理");
   }
 
-  // 6. 星馬料理
-  if (/星馬|馬來西亞|新加坡|泰式|泰國|越南|星馬|柬埔寨|東南亞|印尼|菲律賓/.test(c) || c === "泰式料理" || c === "越南料理") {
-    return "星馬料理";
-  }
-
-  // 7. 罕見異國料理
-  if (/印度|尼泊爾|西藏|秘魯|祕魯|土耳其|黎巴嫩|中東|巴西|罕見異國|異國/.test(c)) {
-    return "罕見異國料理";
-  }
-
-  // 8. 茶館與咖啡廳
   if (
-    /咖啡|cafe|café|coffee|茶館|茶藝|茶專賣|烘焙|甜點|蛋糕|麵包|鬆餅|舒芙蕾|冰淇淋|糕點|下午茶|冰品|飲品|飲料/.test(c) ||
-    c === "咖啡廳" || c === "烘焙/甜點" || c === "冰品" || c === "飲品店"
+    /咖啡|珈琲|cafe|café|coffee|茶館|茶藝|茶專賣|烘焙|甜點|蛋糕|麵包|鬆餅|舒芙蕾|冰淇淋|糕點|下午茶|冰品|飲品|飲料/.test(text) ||
+    ["咖啡廳", "烘焙/甜點", "冰品", "飲品店"].includes(c)
   ) {
-    return "茶館與咖啡廳";
+    add("咖啡甜點");
   }
 
-  // 9. 餐酒館
-  if (/餐酒館|小酒館|酒吧|酒館|bistro|bar|pub/i.test(c) || c === "小酒館/餐酒館" || c === "酒吧/餐酒館") {
-    return "餐酒館";
+  if (
+    /星馬|馬來西亞|新加坡|泰式|泰國|越南|柬埔寨|東南亞|印尼|菲律賓|印度|尼泊爾|西藏|秘魯|祕魯|土耳其|黎巴嫩|中東|巴西|墨西哥|古巴|地中海|異國|餐酒館|小酒館|酒吧|酒館|bistro|bar|pub/i.test(text)
+  ) {
+    add("異國/其他");
   }
 
-  // 10. 複合式料理
-  return "複合式料理";
+  if (groups.length === 0) add("異國/其他");
+  return groups;
 }
 
+function getMajorCuisine(cuisine, name = "") {
+  return getMajorCuisines(cuisine, name)[0] || "異國/其他";
+}
+
+
+const familyFriendlyChainPatterns = [
+  /石二鍋/i,
+  /荖子鍋/i,
+  /涮乃葉/i,
+  /橘色(涮涮屋)?/i,
+  /築間幸福鍋物/i,
+  /牛棒碗安|GOBO/i,
+  /聚\s*(北海道|日式)?鍋物/i,
+  /BELLINI\s*Pasta/i,
+  /薩利亞|薩莉亞|Saizeriya/i,
+  /薄多義|Bite2Eat/i,
+  /托斯卡尼尼/i,
+  /BUNA\s*CAFE/i,
+  /赤虎/i,
+  /OH\s*MY\s*原燒|原燒/i,
+  /涓豆腐/i,
+  /北村豆腐家/i,
+  /開飯川食堂/i,
+  /春水堂/i,
+  /JOYFULL|珍有福/i,
+  /漢來上海湯包/i,
+  /享鴨/i,
+];
+
+function isFamilyFriendlyChain(name = "") {
+  const text = String(name || "");
+  return familyFriendlyChainPatterns.some((pattern) => pattern.test(text));
+}
+
+function applyFamilyFriendlyChainAttributes(attributes, name = "") {
+  if (!isFamilyFriendlyChain(name)) return attributes;
+  return {
+    ...attributes,
+    high_chair_available: "yes",
+    has_tableware: "yes",
+    kid_noise_tolerant: "yes",
+  };
+}
+
+function appendFamilyFriendlyChainSummary(summary, name = "") {
+  if (!isFamilyFriendlyChain(name)) return summary || "";
+  const base = String(summary || "").trim();
+  const addition = "此連鎖品牌具備兒童椅與兒童餐具，環境對孩子聲音較包容，適合親子家庭用餐。";
+  if (base.includes("兒童椅") && base.includes("兒童餐具") && base.includes("孩子聲音")) return base;
+  return base ? `${base}${base.endsWith("。") ? "" : "。"}${addition}` : addition;
+}
 function getContactInfo(placeId, baseRestaurant = {}) {
   const contact = contactLinks[placeId] || {};
   return {
@@ -1419,13 +1471,15 @@ function getCuisine(placeId, baseRestaurant) {
 }
 
 function buildRecord(placeId, baseRestaurant, aiReview) {
-  const attributes = getAiAttributes(
+  let attributes = getAiAttributes(
     aiReview,
     baseRestaurant.attributes || {},
     baseRestaurant.name || "",
     baseRestaurant.address || baseRestaurant.formatted_address || "",
     baseRestaurant.price_level ?? null
   );
+
+  attributes = applyFamilyFriendlyChainAttributes(attributes, baseRestaurant.name || "");
 
   const cuisine = getCuisine(placeId, baseRestaurant);
   const contactInfo = getContactInfo(placeId, baseRestaurant);
@@ -1441,12 +1495,14 @@ function buildRecord(placeId, baseRestaurant, aiReview) {
     baseRestaurant.longitude ?? null,
     baseRestaurant.url || baseRestaurant.google_maps_url || "",
     attributes,
-    getCleanFamilySummary(aiReview.generated_summary || baseRestaurant.ai_summary || "", { ...baseRestaurant, cuisine }, attributes),
-    getCleanFamilySummary(aiReview.card_summary || baseRestaurant.card_summary || "", { ...baseRestaurant, cuisine }, attributes),
-    aiReview.parent_friendly_level ||
+    getCleanFamilySummary(appendFamilyFriendlyChainSummary(aiReview.generated_summary || baseRestaurant.ai_summary || "", baseRestaurant.name || ""), { ...baseRestaurant, cuisine }, attributes),
+    getCleanFamilySummary(appendFamilyFriendlyChainSummary(aiReview.card_summary || baseRestaurant.card_summary || "", baseRestaurant.name || ""), { ...baseRestaurant, cuisine }, attributes),
+    isFamilyFriendlyChain(baseRestaurant.name || "") ? "高" : (
+      aiReview.parent_friendly_level ||
       baseRestaurant.parent_friendly_level ||
-      "資訊不足",
-    getMajorCuisine(cuisine),
+      "資訊不足"
+    ),
+    getMajorCuisines(cuisine, baseRestaurant.name || ""),
     contactInfo.phone,
     contactInfo.website_url,
     contactInfo.reservation_url,
@@ -1601,14 +1657,13 @@ function buildRecord_old(placeId, baseRestaurant, aiReview) {
     baseRestaurant.longitude ?? null,
     baseRestaurant.url || baseRestaurant.google_maps_url || "",
     attributes,
-    getCleanFamilySummary(aiReview.generated_summary || baseRestaurant.ai_summary || "", { ...baseRestaurant, cuisine }, attributes),
-    getCleanFamilySummary(aiReview.card_summary || baseRestaurant.card_summary || "", { ...baseRestaurant, cuisine }, attributes),
+    getCleanFamilySummary(aiReview.generated_summary || baseRestaurant.ai_summary || "", baseRestaurant, attributes),
+    getCleanFamilySummary(aiReview.card_summary || baseRestaurant.card_summary || "", baseRestaurant, attributes),
     aiReview.parent_friendly_level ||
       baseRestaurant.parent_friendly_level ||
       "資訊不足",
   ];
 }
-
 function writeIndex(records) {
   const normalizedRecords = records.map((record) => {
     const row = Array.from(record);
@@ -2659,6 +2714,18 @@ manualRecords.push(
   ],
 );
 
+
+const extraManualRecordsPath = path.join(aiReviewDir, "manual_chain_branches.json");
+if (fs.existsSync(extraManualRecordsPath)) {
+  try {
+    const extraManualRecords = JSON.parse(fs.readFileSync(extraManualRecordsPath, "utf8").replace(/^\uFEFF/, ""));
+    if (Array.isArray(extraManualRecords)) {
+      manualRecords.push(...extraManualRecords);
+    }
+  } catch (err) {
+    console.error("Error loading manual_chain_branches.json:", err.message);
+  }
+}
 const manualCatalogByPlaceId = new Map(
     manualRecords.map((record) => [
       record[0],
@@ -2686,10 +2753,9 @@ const manualCatalogByPlaceId = new Map(
   const existingRecordIds = new Set(records.map((record) => record[0]));
   for (const record of manualRecords) {
     if (!temporarilyHiddenPlaceIds.has(record[0]) && !existingRecordIds.has(record[0])) {
-      if (record.length < columns.length) {
-        const cuisine = record[5];
-        record.push(getMajorCuisine(cuisine));
-      }
+      const cuisine = record[5];
+      while (record.length < columns.length) record.push("");
+      record[13] = getMajorCuisines(cuisine, record[1] || "");
       records.push(record);
     }
   }
@@ -2703,6 +2769,9 @@ const manualCatalogByPlaceId = new Map(
 }
 
 main();
+
+
+
 
 
 

@@ -464,23 +464,53 @@ function hasCuisineFilters() {
     return state.cuisineFilter && state.cuisineFilter.size > 0;
 }
 
+function getCuisineGroups(res) {
+    const rawGroups = Array.isArray(res?.cuisine_group) ? res.cuisine_group : [res?.cuisine_group];
+    const groups = rawGroups
+        .filter(Boolean)
+        .flatMap(group => String(group).split(/[、,，]/))
+        .map(group => normalizeCuisineFilter(group.trim()))
+        .filter(Boolean);
+    const cuisine = normalizeCuisineFilter(res?.cuisine);
+    if (cuisine) groups.push(cuisine);
+    return Array.from(new Set(groups));
+}
+
+function getCuisineSearchText(res) {
+    return getCuisineGroups(res).join(' ');
+}
+
 function matchesCuisineFilter(res) {
     if (!hasCuisineFilters()) return true;
-    return state.cuisineFilter.has(res.cuisine_group) || state.cuisineFilter.has(res.cuisine);
+    return getCuisineGroups(res).some(group => state.cuisineFilter.has(group));
+}
+
+function normalizeCuisineFilter(cuisine) {
+    const aliases = {
+        '日式料理': '日韓料理',
+        '韓式料理': '日韓料理',
+        '星馬料理': '異國/其他',
+        '罕見異國料理': '異國/其他',
+        '餐酒館': '異國/其他',
+        '複合式料理': '異國/其他',
+        '茶館與咖啡廳': '咖啡甜點',
+        '蔬食料理': '素食/蔬食'
+    };
+    return aliases[cuisine] || cuisine;
 }
 
 function getCuisineFilterLabel(cuisine) {
     const labels = {
+        '火鍋': '火鍋',
+        '早午餐': '早午餐',
         '台式/中式料理': '台式/中式',
-        '日式料理': '日式',
-        '韓式料理': '韓式',
+        '日韓料理': '日韓',
         '義式料理': '義式',
         '西式料理': '歐美/西式',
-        '星馬料理': '星馬/泰越',
-        '罕見異國料理': '異國料理',
-        '茶館與咖啡廳': '咖啡/甜點',
-        '餐酒館': '餐酒館',
-        '複合式料理': '複合式'
+        '咖啡甜點': '咖啡/甜點',
+        '素食/蔬食': '素食/蔬食',
+        '親子餐廳': '親子餐廳',
+        '異國/其他': '異國/其他'
     };
     return labels[cuisine] || (cuisine ? cuisine.replace(/料理$/, '') : '');
 }
@@ -597,15 +627,18 @@ function getShowResultsPreviewCount() {
             (res.name && res.name.toLowerCase().includes(q)) ||
             (res.address && res.address.toLowerCase().includes(q)) ||
             (res.cuisine && res.cuisine.toLowerCase().includes(q)) ||
-            (res.cuisine_group && res.cuisine_group.toLowerCase().includes(q)) ||
+            (getCuisineSearchText(res).toLowerCase().includes(q)) ||
             (res.district && res.district.toLowerCase().includes(q))
         );
     } else {
+        const isWholeCity = center.type === '全市' || center.name === '整個台北市';
         const maxRadius = (center.type === '全市' || center.name === '整個台北市')
             ? 99999
             : (state.expandedRadius ? (center.type === '行政區' ? 5.0 : 3.0) : (center.type === '行政區' ? 2.5 : 1.5));
 
         filtered = restaurantData.filter(res => {
+            if (isWholeCity) return true;
+            if (center.type === '行政區' && res.district === center.name) return true;
             const distance = calculateDistance(center.lat, center.lng, res.latitude, res.longitude);
             return distance <= maxRadius;
         });
@@ -839,7 +872,7 @@ function setupEventListeners() {
                 state.cuisineFilter.delete(cuisine);
                 action = 'deselect';
             } else {
-                state.cuisineFilter.add(cuisine);
+                state.cuisineFilter.add(normalizeCuisineFilter(cuisine));
             }
 
             updateCuisineFilterUI({ expand: true });
@@ -1552,7 +1585,7 @@ function handleAutocomplete() {
         restaurantMatches = restaurantData.filter(res => {
             return (res.name && res.name.toLowerCase().includes(query)) ||
                    (res.cuisine && res.cuisine.toLowerCase().includes(query)) ||
-                   (res.cuisine_group && res.cuisine_group.toLowerCase().includes(query)) ||
+                   (getCuisineSearchText(res).toLowerCase().includes(query)) ||
                    (res.address && res.address.toLowerCase().includes(query)) ||
                    (res.district && res.district.toLowerCase().includes(query));
         }).slice(0, 5);
@@ -1840,7 +1873,7 @@ async function executeSearch(query) {
             (res.name && res.name.toLowerCase().includes(q)) ||
             (res.address && res.address.toLowerCase().includes(q)) ||
             (res.cuisine && res.cuisine.toLowerCase().includes(q)) ||
-            (res.cuisine_group && res.cuisine_group.toLowerCase().includes(q)) ||
+            (getCuisineSearchText(res).toLowerCase().includes(q)) ||
             (res.district && res.district.toLowerCase().includes(q))
         );
 
@@ -2079,16 +2112,16 @@ async function renderResults() {
 
                 if (hasCuisine) {
                     const cuisineEmojis = {
+                        '火鍋': '🍲',
+                        '早午餐': '🍳',
                         '台式/中式料理': '🥟',
-                        '日式料理': '🍣',
-                        '韓式料理': '🍲',
+                        '日韓料理': '🍣',
                         '義式料理': '🍕',
                         '西式料理': '🥩',
-                        '星馬料理': '🍛',
-                        '罕見異國料理': '🌮',
-                        '茶館與咖啡廳': '☕',
-                        '餐酒館': '🍷',
-                        '複合式料理': '🥗'
+                        '咖啡甜點': '☕',
+                        '素食/蔬食': '🥗',
+                        '親子餐廳': '🧸',
+                        '異國/其他': '🌮'
                     };
                     state.cuisineFilter.forEach(cuisine => {
                         const indicator = document.createElement('span');
@@ -2132,14 +2165,19 @@ async function renderResults() {
         }
 
         // 1. Calculate distances directly on references to avoid object copying
+        const centerHasCoordinates = hasLocationCoordinates(center);
         restaurantData.forEach(res => {
-            res.distance = calculateDistance(center.lat, center.lng, res.latitude, res.longitude);
+            res.distance = centerHasCoordinates && hasRestaurantCoordinates(res)
+                ? calculateDistance(center.lat, center.lng, res.latitude, res.longitude)
+                : Infinity;
         });
         let restaurants = restaurantData;
 
         // 2. Filter by distance or keyword
         let filtered;
-        if (center.type === '多行政區') {
+        if (center.type === '特定餐廳' && center.place_id) {
+            filtered = restaurants.filter(res => res.place_id === center.place_id);
+        } else if (center.type === '多行政區') {
             filtered = restaurants.filter(res => 
                 res.district && center.districts.includes(res.district)
             );
@@ -2196,15 +2234,20 @@ async function renderResults() {
                 (res.name && res.name.toLowerCase().includes(q)) ||
                 (res.address && res.address.toLowerCase().includes(q)) ||
                 (res.cuisine && res.cuisine.toLowerCase().includes(q)) ||
-                (res.cuisine_group && res.cuisine_group.toLowerCase().includes(q)) ||
+                (getCuisineSearchText(res).toLowerCase().includes(q)) ||
                 (res.district && res.district.toLowerCase().includes(q))
             );
         } else {
+            const isWholeCity = center.type === '全市' || center.name === '整個台北市';
             let maxRadius = (center.type === '全市' || center.name === '整個台北市') ? 99999 : ((center.type === '行政區') ? 2.5 : 1.5);
             if (state.expandedRadius) {
                 maxRadius = (center.type === '全市' || center.name === '整個台北市') ? 99999 : ((center.type === '行政區') ? 5.0 : 3.0);
             }
-            filtered = restaurants.filter(res => res.distance <= maxRadius);
+            filtered = restaurants.filter(res => {
+                if (isWholeCity) return true;
+                if (center.type === '行政區' && res.district === center.name) return true;
+                return res.distance <= maxRadius;
+            });
         }
 
         // Apply cuisine filter if active
@@ -2455,7 +2498,7 @@ window.selectLocationByName = (name) => {
 };
 
 function calculateDistance(lat1, lon1, lat2, lon2) {
-    if (!lat1 || !lon1 || !lat2 || !lon2) return Infinity;
+    if (!hasValidLatLng(lat1, lon1) || !hasValidLatLng(lat2, lon2)) return Infinity;
     const R = 6371;
     const dLat = (lat2 - lat1) * Math.PI / 180;
     const dLon = (lon2 - lon1) * Math.PI / 180;
@@ -2464,6 +2507,18 @@ function calculateDistance(lat1, lon1, lat2, lon2) {
               Math.sin(dLon/2) * Math.sin(dLon/2);
     const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
     return R * c;
+}
+
+function hasValidLatLng(lat, lng) {
+    return typeof lat === 'number' && typeof lng === 'number' && Number.isFinite(lat) && Number.isFinite(lng);
+}
+
+function hasRestaurantCoordinates(res) {
+    return !!res && hasValidLatLng(res.latitude, res.longitude);
+}
+
+function hasLocationCoordinates(loc) {
+    return !!loc && hasValidLatLng(loc.lat, loc.lng);
 }
 
 function calculateTravelTimes(km) {
@@ -2616,7 +2671,7 @@ function renderCard(res, container, overrideLevel) {
     }
 
     const isWholeCity = state.searchLocation && (state.searchLocation.type === '全市' || state.searchLocation.name === '整個台北市' || state.searchLocation.type === '多行政區');
-    const times = (!isWholeCity && res.distance) ? calculateTravelTimes(res.distance) : null;
+    const times = (!isWholeCity && Number.isFinite(res.distance)) ? calculateTravelTimes(res.distance) : null;
     let timeHtml = '';
     if (times) {
         if (nearestName) {
@@ -2642,13 +2697,14 @@ function renderCard(res, container, overrideLevel) {
     const cardStreetAddress = formatStreetAddressForCard(cardAddress, cardDistrict);
 
     const isFav = state.favorites.has(res.place_id);
+    const canShowOnMap = hasRestaurantCoordinates(res);
     card.innerHTML = `
-        <button class="card-map-btn" data-place-id="${res.place_id}" title="在地圖上查看">
+        ${canShowOnMap ? `<button class="card-map-btn" data-place-id="${res.place_id}" title="在地圖上查看">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                 <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
                 <circle cx="12" cy="10" r="3"></circle>
             </svg>
-        </button>
+        </button>` : ``}
         <button class="card-favorite-btn ${isFav ? 'active' : ''}" data-place-id="${res.place_id}" title="${isFav ? '移出口袋名單' : '加入口袋名單'}">
             ${isFav ? '❤️' : '🤍'}
         </button>
@@ -2722,6 +2778,11 @@ function focusOnMap(e, placeId) {
     e.stopPropagation();
     const res = restaurantData.find(r => r.place_id === placeId);
     const resultsView = document.getElementById('search-results-view');
+    if (res && !hasRestaurantCoordinates(res)) {
+        showToast('這間餐廳目前沒有地圖座標，請以地址或 Google 地圖確認位置');
+        return;
+    }
+
     if (res && state.map && resultsView) {
         let needsReRender = false;
         
@@ -3346,7 +3407,7 @@ function renderMap(restaurants) {
     let hasPoints = false;
     
     const isWholeCity = state.searchLocation && (state.searchLocation.type === '全市' || state.searchLocation.name === '整個台北市' || state.searchLocation.type === '捷運站周邊' || state.searchLocation.type === '多行政區' || state.searchLocation.type === '多地點');
-    if (state.searchLocation && !isWholeCity) {
+    if (state.searchLocation && !isWholeCity && hasLocationCoordinates(state.searchLocation)) {
         const lat = state.searchLocation.lat;
         const lng = state.searchLocation.lng;
         if (typeof lat === 'number' && typeof lng === 'number' && !isNaN(lat) && !isNaN(lng)) {
@@ -3389,19 +3450,19 @@ function renderMap(restaurants) {
                 }
             } catch (e) {
                 console.error('fitBounds / setView failed:', e);
-                if (state.searchLocation) {
+                if (hasLocationCoordinates(state.searchLocation)) {
                     state.map.setView([state.searchLocation.lat, state.searchLocation.lng], 15);
                 }
             }
         } else {
             console.warn('Map container has 0 size, using setView fallback');
-            if (state.searchLocation) {
-                state.map.setView([state.searchLocation.lat, state.searchLocation.lng], 15);
-            }
+            if (hasLocationCoordinates(state.searchLocation)) {
+                    state.map.setView([state.searchLocation.lat, state.searchLocation.lng], 15);
+                }
         }
-    } else if (state.searchLocation) {
-        state.map.setView([state.searchLocation.lat, state.searchLocation.lng], 15);
-    }
+    } else if (hasLocationCoordinates(state.searchLocation)) {
+                    state.map.setView([state.searchLocation.lat, state.searchLocation.lng], 15);
+                }
 
     // Perform initial marker rendering based on new view/zoom
     refreshMapMarkers();
@@ -3458,7 +3519,7 @@ function refreshMapMarkers() {
     const totalCount = state.mapRestaurants.length;
 
     // 1. Render Search Center Pin
-    if (state.searchLocation && !isWholeCity) {
+    if (state.searchLocation && !isWholeCity && hasLocationCoordinates(state.searchLocation)) {
         const centerIcon = L.divIcon({
             html: `<div class="search-center-marker-inner" style="width: 36px; height: 36px; display: flex; align-items: center; justify-content: center;">
                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="36" height="36" style="display: block; filter: drop-shadow(0 3px 5px rgba(0,0,0,0.3));">
@@ -3890,7 +3951,7 @@ function syncStateFromUrl(isInitialLoad = false, animate = false) {
 
         // 2.5 恢復菜系過濾條件
         state.cuisineFilter.clear();
-        params.getAll('cuisine').forEach(cuisine => state.cuisineFilter.add(cuisine));
+        params.getAll('cuisine').forEach(cuisine => state.cuisineFilter.add(normalizeCuisineFilter(cuisine)));
         updateCuisineFilterUI({ expand: false });
 
         // 3. 恢復搜尋地點
