@@ -1859,5 +1859,215 @@
     "02 2760 0182",
     "",
     ""
+  ],
+  [
+    "manual-torisan-taipei-q-square",
+    "雞湯桑 Torisan 京站店",
+    "台北市大同區承德路一段1號B3",
+    "大同區",
+    "PRICE_LEVEL_MODERATE",
+    "拉麵",
+    25.049308,
+    121.5171936,
+    "https://www.google.com/maps/search/?api=1&query=%E9%9B%9E%E6%B9%AF%E6%A1%91%20Torisan%20%E4%BA%AC%E7%AB%99%E5%BA%97",
+    {
+      "high_chair_available": "yes",
+      "kids_menu": "yes",
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "yes",
+      "has_diaper_table": "unknown"
+    },
+    "雞湯桑提供可愛兒童餐具、兒童椅與兒童餐（兒童拉麵或兒童雞湯泡飯），環境不怕吵，也會提供著色畫紙讓小孩畫畫。兒童餐以全雞熬煮的清爽雞湯為基底，調味減量，搭配 Q 彈米飯或拉麵、可愛魚板、糖心蛋與果汁；雞肉會切成小塊，方便孩子自主進餐。店家也常有點餐贈草莓霜淇淋或小餅乾等活動，適合全家一起用餐。",
+    "提供兒童餐具、兒童椅、兒童拉麵或雞湯泡飯，也有著色畫紙；環境不怕吵，適合親子用餐。",
+    "高",
+    [
+      "日韓料理"
+    ],
+    "",
+    "https://www.facebook.com/Torisan.tw/",
+    ""
+  ],
+  [
+    "manual-torisan-taipei-zhongshan",
+    "雞湯桑 Torisan 中山店",
+    "台北市中山區民生西路10號1樓",
+    "中山區",
+    "PRICE_LEVEL_MODERATE",
+    "拉麵",
+    25.0576934,
+    121.5222193,
+    "https://www.google.com/maps/search/?api=1&query=%E9%9B%9E%E6%B9%AF%E6%A1%91%20Torisan%20%E4%B8%AD%E5%B1%B1%E5%BA%97",
+    {
+      "high_chair_available": "yes",
+      "kids_menu": "yes",
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "yes",
+      "has_diaper_table": "unknown"
+    },
+    "雞湯桑提供可愛兒童餐具、兒童椅與兒童餐（兒童拉麵或兒童雞湯泡飯），環境不怕吵，也會提供著色畫紙讓小孩畫畫。兒童餐以全雞熬煮的清爽雞湯為基底，調味減量，搭配 Q 彈米飯或拉麵、可愛魚板、糖心蛋與果汁；雞肉會切成小塊，方便孩子自主進餐。店家也常有點餐贈草莓霜淇淋或小餅乾等活動，適合全家一起用餐。",
+    "提供兒童餐具、兒童椅、兒童拉麵或雞湯泡飯，也有著色畫紙；環境不怕吵，適合親子用餐。",
+    "高",
+    [
+      "日韓料理"
+    ],
+    "",
+    "https://www.facebook.com/Torisan.tw/",
+    ""
+  ],
+  [
+    "manual-torisan-taipei-xingtian-temple",
+    "雞湯桑 Torisan 行天宮店",
+    "台北市中山區松江路273號1樓",
+    "中山區",
+    "PRICE_LEVEL_MODERATE",
+    "拉麵",
+    25.0598665,
+    121.5334631,
+    "https://www.google.com/maps/search/?api=1&query=%E9%9B%9E%E6%B9%AF%E6%A1%91%20Torisan%20%E8%A1%8C%E5%A4%A9%E5%AE%AE%E5%BA%97",
+    {
+      "high_chair_available": "yes",
+      "kids_menu": "yes",
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "yes",
+      "has_diaper_table": "unknown"
+    },
+    "雞湯桑提供可愛兒童餐具、兒童椅與兒童餐（兒童拉麵或兒童雞湯泡飯），環境不怕吵，也會提供著色畫紙讓小孩畫畫。兒童餐以全雞熬煮的清爽雞湯為基底，調味減量，搭配 Q 彈米飯或拉麵、可愛魚板、糖心蛋與果汁；雞肉會切成小塊，方便孩子自主進餐。店家也常有點餐贈草莓霜淇淋或小餅乾等活動，適合全家一起用餐。",
+    "提供兒童餐具、兒童椅、兒童拉麵或雞湯泡飯，也有著色畫紙；環境不怕吵，適合親子用餐。",
+    "高",
+    [
+      "日韓料理"
+    ],
+    "",
+    "https://www.facebook.com/Torisan.tw/",
+    ""
+  ],
+  [
+    "manual-torisan-taipei-nanjing-1",
+    "雞湯桑 Torisan 南京一店",
+    "台北市松山區南京東路三段275號1樓",
+    "松山區",
+    "PRICE_LEVEL_MODERATE",
+    "拉麵",
+    25.0521313,
+    121.5456822,
+    "https://www.google.com/maps/search/?api=1&query=%E9%9B%9E%E6%B9%AF%E6%A1%91%20Torisan%20%E5%8D%97%E4%BA%AC%E4%B8%80%E5%BA%97",
+    {
+      "high_chair_available": "yes",
+      "kids_menu": "yes",
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "yes",
+      "has_diaper_table": "unknown"
+    },
+    "雞湯桑提供可愛兒童餐具、兒童椅與兒童餐（兒童拉麵或兒童雞湯泡飯），環境不怕吵，也會提供著色畫紙讓小孩畫畫。兒童餐以全雞熬煮的清爽雞湯為基底，調味減量，搭配 Q 彈米飯或拉麵、可愛魚板、糖心蛋與果汁；雞肉會切成小塊，方便孩子自主進餐。店家也常有點餐贈草莓霜淇淋或小餅乾等活動，適合全家一起用餐。",
+    "提供兒童餐具、兒童椅、兒童拉麵或雞湯泡飯，也有著色畫紙；環境不怕吵，適合親子用餐。",
+    "高",
+    [
+      "日韓料理"
+    ],
+    "02 2547 2566",
+    "https://www.facebook.com/Torisan.tw/",
+    ""
+  ],
+  [
+    "manual-torisan-taipei-city-hall",
+    "雞湯桑 Torisan 市府店",
+    "台北市信義區忠孝東路五段149號1樓",
+    "信義區",
+    "PRICE_LEVEL_MODERATE",
+    "拉麵",
+    25.0411855,
+    121.5683575,
+    "https://www.google.com/maps/search/?api=1&query=%E9%9B%9E%E6%B9%AF%E6%A1%91%20Torisan%20%E5%B8%82%E5%BA%9C%E5%BA%97",
+    {
+      "high_chair_available": "yes",
+      "kids_menu": "yes",
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "yes",
+      "has_diaper_table": "unknown"
+    },
+    "雞湯桑提供可愛兒童餐具、兒童椅與兒童餐（兒童拉麵或兒童雞湯泡飯），環境不怕吵，也會提供著色畫紙讓小孩畫畫。兒童餐以全雞熬煮的清爽雞湯為基底，調味減量，搭配 Q 彈米飯或拉麵、可愛魚板、糖心蛋與果汁；雞肉會切成小塊，方便孩子自主進餐。店家也常有點餐贈草莓霜淇淋或小餅乾等活動，適合全家一起用餐。",
+    "提供兒童餐具、兒童椅、兒童拉麵或雞湯泡飯，也有著色畫紙；環境不怕吵，適合親子用餐。",
+    "高",
+    [
+      "日韓料理"
+    ],
+    "",
+    "https://www.facebook.com/Torisan.tw/",
+    ""
+  ],
+  [
+    "manual-torisan-taipei-gangqian",
+    "雞湯桑 Torisan 港墘店",
+    "台北市內湖區港墘路157號",
+    "內湖區",
+    "PRICE_LEVEL_MODERATE",
+    "拉麵",
+    25.077053,
+    121.5755922,
+    "https://www.google.com/maps/search/?api=1&query=%E9%9B%9E%E6%B9%AF%E6%A1%91%20Torisan%20%E6%B8%AF%E5%A2%98%E5%BA%97",
+    {
+      "high_chair_available": "yes",
+      "kids_menu": "yes",
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "yes",
+      "has_diaper_table": "unknown"
+    },
+    "雞湯桑提供可愛兒童餐具、兒童椅與兒童餐（兒童拉麵或兒童雞湯泡飯），環境不怕吵，也會提供著色畫紙讓小孩畫畫。兒童餐以全雞熬煮的清爽雞湯為基底，調味減量，搭配 Q 彈米飯或拉麵、可愛魚板、糖心蛋與果汁；雞肉會切成小塊，方便孩子自主進餐。店家也常有點餐贈草莓霜淇淋或小餅乾等活動，適合全家一起用餐。",
+    "提供兒童餐具、兒童椅、兒童拉麵或雞湯泡飯，也有著色畫紙；環境不怕吵，適合親子用餐。",
+    "高",
+    [
+      "日韓料理"
+    ],
+    "02 8751 2883",
+    "https://www.facebook.com/Torisan.tw/",
+    ""
+  ],
+  [
+    "manual-torisan-taipei-nangang-lalaport",
+    "雞湯桑 南港lalaport",
+    "台北市南港區經貿二路131號B1",
+    "南港區",
+    "PRICE_LEVEL_MODERATE",
+    "拉麵",
+    25.0592558,
+    121.618031,
+    "https://www.google.com/maps/search/?api=1&query=%E9%9B%9E%E6%B9%AF%E6%A1%91%20%E5%8D%97%E6%B8%AFlalaport",
+    {
+      "high_chair_available": "yes",
+      "kids_menu": "yes",
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "yes",
+      "has_diaper_table": "unknown"
+    },
+    "雞湯桑提供可愛兒童餐具、兒童椅與兒童餐（兒童拉麵或兒童雞湯泡飯），環境不怕吵，也會提供著色畫紙讓小孩畫畫。兒童餐以全雞熬煮的清爽雞湯為基底，調味減量，搭配 Q 彈米飯或拉麵、可愛魚板、糖心蛋與果汁；雞肉會切成小塊，方便孩子自主進餐。店家也常有點餐贈草莓霜淇淋或小餅乾等活動，適合全家一起用餐。",
+    "提供兒童餐具、兒童椅、兒童拉麵或雞湯泡飯，也有著色畫紙；環境不怕吵，適合親子用餐。",
+    "高",
+    [
+      "日韓料理"
+    ],
+    "",
+    "https://www.facebook.com/Torisan.tw/",
+    ""
   ]
 ]

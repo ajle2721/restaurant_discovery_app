@@ -1,18 +1,18 @@
 ﻿{
     " child_seat available":  {
-                                  "evidence":  "Google 摰?餉??拙??咱?券?",
+                                  "evidence":  "使用者提供：有兒童椅。",
                                   "result":  "Yes",
                                   "confidence":  1
                               },
     "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
+                             "result":  "Yes",
+                             "evidence":  "使用者提供：空間寬敞。",
+                             "confidence":  1
                          },
     "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
+                                "result":  "Yes",
+                                "evidence":  "使用者提供：有兒童餐（兒童 pizza）。",
+                                "confidence":  1
                             },
     "kid_noise_tolerant":  {
                                "result":  "Yes",
@@ -20,24 +20,24 @@
                                "confidence":  1.0
                            },
     "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
+                          "result":  "Yes",
+                          "evidence":  "使用者提供：地下室有兒童遊樂區，包含小桌椅、廚房玩具和積木組。",
+                          "confidence":  1
                       },
     "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
+                             "result":  "Yes",
+                             "evidence":  "使用者提供：適合包場辦小孩活動。",
+                             "confidence":  1
                          },
     "has_tableware":  {
-                          "evidence":  "Google 摰?餉??拙??咱?券?",
+                          "evidence":  "使用者提供：有兒童餐具。",
                           "result":  "Yes",
                           "confidence":  1
                       },
     "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
+                             "result":  "Yes",
+                             "evidence":  "使用者提供：有尿布台。",
+                             "confidence":  1
                          },
     "parent_friendly_score":  3,
     "parent_friendly_level":  "高",
@@ -45,8 +45,10 @@
     "generated_signals":  [
                               "客人迅速爆滿，家庭成員，朋友聚餐都很多！",
                               "Google Maps Attributes: Good for children (官方標記：適合兒童)",
-                              "Google 摰?餉??拙??咱?券?"
+                              "Google 摰?餉??拙??咱?券?",
+                              "使用者提供：有兒童餐具、兒童椅、不怕小孩吵、空間寬敞、有遊樂區、兒童餐、適合包場辦小孩活動、有尿布台。",
+                              "使用者提供：地下室遊樂區有小桌椅、廚房玩具和積木組，適合 3~12 歲小孩，3 歲以下需家長陪同；進入遊樂區須脫襪。飲料和冰淇淋可無限續。"
                           ],
-    "generated_summary":  "店內經 Google Maps 標記為適合兒童，且評論中提到店內常有家庭客聚餐，氣氛熱鬧，適合帶小孩前往。不過，目前評論中未提及兒童椅、兒童餐具、遊戲區或尿布台等具體親子設施，建議前往前可先向店家確認。",
-    "card_summary":  ""
+    "generated_summary":  "這家餐廳的親子友善設施很完整，提供兒童餐具、兒童椅、兒童餐（兒童 pizza）與尿布台，空間寬敞且不怕小孩吵。地下室設有兒童遊樂區，主要有小桌椅、廚房玩具和積木組，特別適合 3~12 歲小孩，3 歲以下可由家長陪同入內；進入遊樂區須脫襪。店內也適合包場辦小孩活動，飲料和冰淇淋可無限續。",
+    "card_summary":  "有兒童餐具、兒童椅、兒童 pizza、尿布台與地下室遊樂區，空間寬敞且可包場辦小孩活動。遊樂區適合 3~12 歲，3 歲以下需家長陪同；飲料和冰淇淋可無限續。"
 }

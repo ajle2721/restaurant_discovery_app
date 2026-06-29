@@ -53,7 +53,6 @@ const state = {
     markerMap: {},
     locationData: [], // From taipei_locations.json
     showOthers: false,
-    showLowQualityResults: false,
     get hideLowQualityMarkers() {
         return !this.showOthers;
     },
@@ -464,53 +463,39 @@ function hasCuisineFilters() {
     return state.cuisineFilter && state.cuisineFilter.size > 0;
 }
 
-function getCuisineGroups(res) {
-    const rawGroups = Array.isArray(res?.cuisine_group) ? res.cuisine_group : [res?.cuisine_group];
-    const groups = rawGroups
-        .filter(Boolean)
-        .flatMap(group => String(group).split(/[、,，]/))
-        .map(group => normalizeCuisineFilter(group.trim()))
-        .filter(Boolean);
-    const cuisine = normalizeCuisineFilter(res?.cuisine);
-    if (cuisine) groups.push(cuisine);
-    return Array.from(new Set(groups));
+function getCuisineGroupValues(res) {
+    const values = [];
+    if (Array.isArray(res.cuisine_group)) {
+        values.push(...res.cuisine_group);
+    } else if (res.cuisine_group) {
+        values.push(res.cuisine_group);
+    }
+    if (res.cuisine) values.push(res.cuisine);
+    return values.filter(Boolean);
 }
 
-function getCuisineSearchText(res) {
-    return getCuisineGroups(res).join(' ');
+function getSearchableText(value) {
+    if (Array.isArray(value)) return value.filter(Boolean).join(' ');
+    return value ? String(value) : '';
 }
 
 function matchesCuisineFilter(res) {
     if (!hasCuisineFilters()) return true;
-    return getCuisineGroups(res).some(group => state.cuisineFilter.has(group));
-}
-
-function normalizeCuisineFilter(cuisine) {
-    const aliases = {
-        '日式料理': '日韓料理',
-        '韓式料理': '日韓料理',
-        '星馬料理': '異國/其他',
-        '罕見異國料理': '異國/其他',
-        '餐酒館': '異國/其他',
-        '複合式料理': '異國/其他',
-        '茶館與咖啡廳': '咖啡甜點',
-        '蔬食料理': '素食/蔬食'
-    };
-    return aliases[cuisine] || cuisine;
+    return getCuisineGroupValues(res).some(cuisine => state.cuisineFilter.has(cuisine));
 }
 
 function getCuisineFilterLabel(cuisine) {
     const labels = {
-        '火鍋': '火鍋',
-        '早午餐': '早午餐',
         '台式/中式料理': '台式/中式',
-        '日韓料理': '日韓',
+        '日式料理': '日式',
+        '韓式料理': '韓式',
         '義式料理': '義式',
         '西式料理': '歐美/西式',
-        '咖啡甜點': '咖啡/甜點',
-        '素食/蔬食': '素食/蔬食',
-        '親子餐廳': '親子餐廳',
-        '異國/其他': '異國/其他'
+        '星馬料理': '星馬/泰越',
+        '罕見異國料理': '異國料理',
+        '茶館與咖啡廳': '咖啡/甜點',
+        '餐酒館': '餐酒館',
+        '複合式料理': '複合式'
     };
     return labels[cuisine] || (cuisine ? cuisine.replace(/料理$/, '') : '');
 }
@@ -560,7 +545,8 @@ function updateShowResultsButton(matchCount = 0) {
 
     const hasActiveFilters = (state.filters && state.filters.size > 0) || hasCuisineFilters();
     const shouldShow = isAreaSearchLocation(state.searchLocation)
-        && hasActiveFilters;
+        && hasActiveFilters
+        && matchCount > 0;
 
     btnShowResultsContainer.style.display = shouldShow ? 'block' : 'none';
     if (shouldShow) {
@@ -627,18 +613,15 @@ function getShowResultsPreviewCount() {
             (res.name && res.name.toLowerCase().includes(q)) ||
             (res.address && res.address.toLowerCase().includes(q)) ||
             (res.cuisine && res.cuisine.toLowerCase().includes(q)) ||
-            (getCuisineSearchText(res).toLowerCase().includes(q)) ||
+            (getSearchableText(res.cuisine_group).toLowerCase().includes(q)) ||
             (res.district && res.district.toLowerCase().includes(q))
         );
     } else {
-        const isWholeCity = center.type === '全市' || center.name === '整個台北市';
         const maxRadius = (center.type === '全市' || center.name === '整個台北市')
             ? 99999
             : (state.expandedRadius ? (center.type === '行政區' ? 5.0 : 3.0) : (center.type === '行政區' ? 2.5 : 1.5));
 
         filtered = restaurantData.filter(res => {
-            if (isWholeCity) return true;
-            if (center.type === '行政區' && res.district === center.name) return true;
             const distance = calculateDistance(center.lat, center.lng, res.latitude, res.longitude);
             return distance <= maxRadius;
         });
@@ -652,7 +635,7 @@ function getShowResultsPreviewCount() {
 
     return filtered.filter(res => {
         const status = getDynamicStatus(res, state.filters);
-        return status.level === 'High';
+        return status.level === 'High' || status.level === 'Medium';
     }).length;
 }
 
@@ -872,7 +855,7 @@ function setupEventListeners() {
                 state.cuisineFilter.delete(cuisine);
                 action = 'deselect';
             } else {
-                state.cuisineFilter.add(normalizeCuisineFilter(cuisine));
+                state.cuisineFilter.add(cuisine);
             }
 
             updateCuisineFilterUI({ expand: true });
@@ -966,9 +949,8 @@ function setupEventListeners() {
         state.hideLowQualityMarkers = !state.showOthers; // Sync map toggle with list expansion
         if (hideMarkersToggle) hideMarkersToggle.checked = state.hideLowQualityMarkers;
         
-        // Reset extra result paging when toggled
+        // Reset othersLimit when toggled
         state.othersLimit = 30;
-        state.showLowQualityResults = false;
         
         // Toggle expansion instantly, then defer heavy rendering
         setTimeout(() => {
@@ -986,7 +968,6 @@ function setupEventListeners() {
         state.cuisineFilter.clear();
         state.hideLowQualityMarkers = true; // Reset to default: hide low quality
         state.showOthers = false; // Reset to default: hide others list
-        state.showLowQualityResults = false;
         state.recommendedLimit = 30; // Reset pagination limit
         state.othersLimit = 30; // Reset pagination limit
         
@@ -1585,7 +1566,7 @@ function handleAutocomplete() {
         restaurantMatches = restaurantData.filter(res => {
             return (res.name && res.name.toLowerCase().includes(query)) ||
                    (res.cuisine && res.cuisine.toLowerCase().includes(query)) ||
-                   (getCuisineSearchText(res).toLowerCase().includes(query)) ||
+                   (getSearchableText(res.cuisine_group).toLowerCase().includes(query)) ||
                    (res.address && res.address.toLowerCase().includes(query)) ||
                    (res.district && res.district.toLowerCase().includes(query));
         }).slice(0, 5);
@@ -1873,7 +1854,7 @@ async function executeSearch(query) {
             (res.name && res.name.toLowerCase().includes(q)) ||
             (res.address && res.address.toLowerCase().includes(q)) ||
             (res.cuisine && res.cuisine.toLowerCase().includes(q)) ||
-            (getCuisineSearchText(res).toLowerCase().includes(q)) ||
+            (getSearchableText(res.cuisine_group).toLowerCase().includes(q)) ||
             (res.district && res.district.toLowerCase().includes(q))
         );
 
@@ -1970,8 +1951,7 @@ function selectLocation(loc, source = 'other', pushState = true) {
     if (loc && loc.type !== '特定餐廳') {
         state.lastGeographicLocation = loc;
     }
-    state.showOthers = false; // Reset to only show fully matching results on new search
-    state.showLowQualityResults = false;
+    state.showOthers = false; // Reset to only show High+Medium results on new search
     state.expandedRadius = false; // Reset search range expansion
     state.recommendedLimit = 30; // Reset pagination limit
     state.othersLimit = 30; // Reset pagination limit
@@ -2112,16 +2092,16 @@ async function renderResults() {
 
                 if (hasCuisine) {
                     const cuisineEmojis = {
-                        '火鍋': '🍲',
-                        '早午餐': '🍳',
                         '台式/中式料理': '🥟',
-                        '日韓料理': '🍣',
+                        '日式料理': '🍣',
+                        '韓式料理': '🍲',
                         '義式料理': '🍕',
                         '西式料理': '🥩',
-                        '咖啡甜點': '☕',
-                        '素食/蔬食': '🥗',
-                        '親子餐廳': '🧸',
-                        '異國/其他': '🌮'
+                        '星馬料理': '🍛',
+                        '罕見異國料理': '🌮',
+                        '茶館與咖啡廳': '☕',
+                        '餐酒館': '🍷',
+                        '複合式料理': '🥗'
                     };
                     state.cuisineFilter.forEach(cuisine => {
                         const indicator = document.createElement('span');
@@ -2165,19 +2145,14 @@ async function renderResults() {
         }
 
         // 1. Calculate distances directly on references to avoid object copying
-        const centerHasCoordinates = hasLocationCoordinates(center);
         restaurantData.forEach(res => {
-            res.distance = centerHasCoordinates && hasRestaurantCoordinates(res)
-                ? calculateDistance(center.lat, center.lng, res.latitude, res.longitude)
-                : Infinity;
+            res.distance = calculateDistance(center.lat, center.lng, res.latitude, res.longitude);
         });
         let restaurants = restaurantData;
 
         // 2. Filter by distance or keyword
         let filtered;
-        if (center.type === '特定餐廳' && center.place_id) {
-            filtered = restaurants.filter(res => res.place_id === center.place_id);
-        } else if (center.type === '多行政區') {
+        if (center.type === '多行政區') {
             filtered = restaurants.filter(res => 
                 res.district && center.districts.includes(res.district)
             );
@@ -2234,20 +2209,15 @@ async function renderResults() {
                 (res.name && res.name.toLowerCase().includes(q)) ||
                 (res.address && res.address.toLowerCase().includes(q)) ||
                 (res.cuisine && res.cuisine.toLowerCase().includes(q)) ||
-                (getCuisineSearchText(res).toLowerCase().includes(q)) ||
+                (getSearchableText(res.cuisine_group).toLowerCase().includes(q)) ||
                 (res.district && res.district.toLowerCase().includes(q))
             );
         } else {
-            const isWholeCity = center.type === '全市' || center.name === '整個台北市';
             let maxRadius = (center.type === '全市' || center.name === '整個台北市') ? 99999 : ((center.type === '行政區') ? 2.5 : 1.5);
             if (state.expandedRadius) {
                 maxRadius = (center.type === '全市' || center.name === '整個台北市') ? 99999 : ((center.type === '行政區') ? 5.0 : 3.0);
             }
-            filtered = restaurants.filter(res => {
-                if (isWholeCity) return true;
-                if (center.type === '行政區' && res.district === center.name) return true;
-                return res.distance <= maxRadius;
-            });
+            filtered = restaurants.filter(res => res.distance <= maxRadius);
         }
 
         // Apply cuisine filter if active
@@ -2294,21 +2264,16 @@ async function renderResults() {
         });
 
         // 4. Split and Render
-        const hasSelectedFacilityFilters = state.filters && state.filters.size > 0;
-        const fullMatches = hasSelectedFacilityFilters
-            ? sorted.filter(r => r.dynamicLevel === 'High')
-            : sorted.filter(r => r.dynamicLevel === 'High' || r.dynamicLevel === 'Medium');
-        const considerMatches = hasSelectedFacilityFilters
-            ? sorted.filter(r => r.dynamicLevel === 'Medium')
-            : [];
-        const otherMatches = sorted.filter(r =>
-            r.dynamicLevel === 'Low Match' ||
-            r.dynamicLevel === 'Insufficient Info' ||
-            r.dynamicLevel === 'Needs Attention'
-        );
-
-        const recommended = fullMatches;
-        const others = [...considerMatches, ...otherMatches];
+        const exactMatches = sorted.filter(r => r.dynamicLevel === 'High' || r.dynamicLevel === 'Medium');
+        
+        let recommended, others;
+        if (exactMatches.length > 0) {
+            recommended = exactMatches;
+            others = sorted.filter(r => r.dynamicLevel === 'Low Match' || r.dynamicLevel === 'Insufficient Info' || r.dynamicLevel === 'Needs Attention');
+        } else {
+            recommended = sorted.filter(r => r.dynamicLevel === 'Low Match');
+            others = sorted.filter(r => r.dynamicLevel === 'Insufficient Info' || r.dynamicLevel === 'Needs Attention');
+        }
 
         state.currentResults = sorted; 
 
@@ -2316,11 +2281,11 @@ async function renderResults() {
         const btnShowResults = document.getElementById('btn-show-results');
         if (btnShowResultsContainer && btnShowResults) {
             btnShowResultsContainer.style.display = 'block';
-            btnShowResults.textContent = `查看 ${fullMatches.length} 間餐廳`;
+            btnShowResults.textContent = `查看 ${exactMatches.length} 間餐廳`;
         }
 
         const showResultsCount = (state.filters && state.filters.size > 0)
-            ? fullMatches.length
+            ? exactMatches.length
             : filtered.length;
         updateShowResultsButton(showResultsCount);
 
@@ -2344,48 +2309,28 @@ async function renderResults() {
             recommendedList.appendChild(loadMoreBtn);
         }
 
-        const primaryOtherResults = others.filter(r => r.dynamicLevel === 'Medium' || r.dynamicLevel === 'Low Match');
-        const lowQualityResults = others.filter(r => r.dynamicLevel === 'Insufficient Info' || r.dynamicLevel === 'Needs Attention');
-
-        // Lazy Rendering of extra lists based on state.showOthers.
-        // First layer: useful alternatives. Second layer: information gaps or known mismatches.
+        // Lazy Rendering of others list based on state.showOthers
         if (state.showOthers) {
-            const visiblePrimaryOthers = primaryOtherResults.slice(0, state.othersLimit);
-            visiblePrimaryOthers.forEach(res => renderCard(res, othersList, res.dynamicLevel));
+            const visibleOthers = others.slice(0, state.othersLimit);
+            visibleOthers.forEach(res => renderCard(res, othersList, res.dynamicLevel));
 
-            if (primaryOtherResults.length > state.othersLimit) {
+            // If there are more others items, render the Load More button
+            if (others.length > state.othersLimit) {
                 const loadMoreBtn = document.createElement('button');
                 loadMoreBtn.className = 'btn-load-more';
-                loadMoreBtn.textContent = '載入更多可以考慮的選項';
+                loadMoreBtn.textContent = '\u8f09\u5165\u66f4\u591a\u9078\u9805';
                 loadMoreBtn.addEventListener('click', () => {
                     trackEvent('click_load_more_others', {
                         current_limit: state.othersLimit,
-                        total_count: primaryOtherResults.length
+                        total_count: others.length
                     });
                     state.othersLimit += 30;
                     renderResults();
                 });
                 othersList.appendChild(loadMoreBtn);
             }
-
-            if (lowQualityResults.length > 0) {
-                if (state.showLowQualityResults) {
-                    lowQualityResults.forEach(res => renderCard(res, othersList, res.dynamicLevel));
-                } else {
-                    const showLowQualityBtn = document.createElement('button');
-                    showLowQualityBtn.className = 'btn-load-more';
-                    showLowQualityBtn.textContent = '查看更多（含資訊不足和不符合條件）';
-                    showLowQualityBtn.addEventListener('click', () => {
-                        trackEvent('expand_low_quality_results', {
-                            total_count: lowQualityResults.length
-                        });
-                        state.showLowQualityResults = true;
-                        renderResults();
-                    });
-                    othersList.appendChild(showLowQualityBtn);
-                }
-            }
         }
+
         // Check if fully matching restaurants are 3 or fewer when filters are active
         const activeFiltersCount = (state.filters && state.filters.size > 0) ? state.filters.size : 0;
         fallbackHint.innerHTML = '';
@@ -2440,7 +2385,7 @@ async function renderResults() {
                     };
                 }
             }
-        } else if (state.filters && state.filters.size > 0 && fullMatches.length === 0) {
+        } else if (state.filters && state.filters.size > 0 && exactMatches.length === 0) {
             if (recommended.length > 0) {
                 fallbackHint.innerHTML = '找不到符合勾選條件的餐廳，請參考以下其他友善選擇：';
             } else {
@@ -2452,10 +2397,10 @@ async function renderResults() {
         // Update Toggle UI
         othersList.classList.toggle('hidden', !state.showOthers);
         toggleOthersBtn.classList.toggle('active', state.showOthers);
-        toggleOthersBtn.querySelector('span').textContent = state.showOthers ? '收合額外選項' : ((state.filters && state.filters.size > 0) ? '查看更多（含可以考慮和其他友善選擇）' : '查看更多（含其他友善選擇）');
+        toggleOthersBtn.querySelector('span').textContent = state.showOthers ? '收合額外選項' : '查看更多 (含資訊不足或不符合條件)';
         document.getElementById('others-section').classList.toggle('hidden', others.length === 0);
 
-        const mapData = state.showOthers ? [...recommended, ...primaryOtherResults, ...(state.showLowQualityResults ? lowQualityResults : [])] : recommended;
+        const mapData = state.showOthers ? sorted : recommended;
         renderMap(mapData); 
 
         // Update Clear Filters button visibility
@@ -2498,7 +2443,7 @@ window.selectLocationByName = (name) => {
 };
 
 function calculateDistance(lat1, lon1, lat2, lon2) {
-    if (!hasValidLatLng(lat1, lon1) || !hasValidLatLng(lat2, lon2)) return Infinity;
+    if (!lat1 || !lon1 || !lat2 || !lon2) return Infinity;
     const R = 6371;
     const dLat = (lat2 - lat1) * Math.PI / 180;
     const dLon = (lon2 - lon1) * Math.PI / 180;
@@ -2507,18 +2452,6 @@ function calculateDistance(lat1, lon1, lat2, lon2) {
               Math.sin(dLon/2) * Math.sin(dLon/2);
     const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
     return R * c;
-}
-
-function hasValidLatLng(lat, lng) {
-    return typeof lat === 'number' && typeof lng === 'number' && Number.isFinite(lat) && Number.isFinite(lng);
-}
-
-function hasRestaurantCoordinates(res) {
-    return !!res && hasValidLatLng(res.latitude, res.longitude);
-}
-
-function hasLocationCoordinates(loc) {
-    return !!loc && hasValidLatLng(loc.lat, loc.lng);
 }
 
 function calculateTravelTimes(km) {
@@ -2671,7 +2604,7 @@ function renderCard(res, container, overrideLevel) {
     }
 
     const isWholeCity = state.searchLocation && (state.searchLocation.type === '全市' || state.searchLocation.name === '整個台北市' || state.searchLocation.type === '多行政區');
-    const times = (!isWholeCity && Number.isFinite(res.distance)) ? calculateTravelTimes(res.distance) : null;
+    const times = (!isWholeCity && res.distance) ? calculateTravelTimes(res.distance) : null;
     let timeHtml = '';
     if (times) {
         if (nearestName) {
@@ -2697,14 +2630,13 @@ function renderCard(res, container, overrideLevel) {
     const cardStreetAddress = formatStreetAddressForCard(cardAddress, cardDistrict);
 
     const isFav = state.favorites.has(res.place_id);
-    const canShowOnMap = hasRestaurantCoordinates(res);
     card.innerHTML = `
-        ${canShowOnMap ? `<button class="card-map-btn" data-place-id="${res.place_id}" title="在地圖上查看">
+        <button class="card-map-btn" data-place-id="${res.place_id}" title="在地圖上查看">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
                 <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
                 <circle cx="12" cy="10" r="3"></circle>
             </svg>
-        </button>` : ``}
+        </button>
         <button class="card-favorite-btn ${isFav ? 'active' : ''}" data-place-id="${res.place_id}" title="${isFav ? '移出口袋名單' : '加入口袋名單'}">
             ${isFav ? '❤️' : '🤍'}
         </button>
@@ -2778,11 +2710,6 @@ function focusOnMap(e, placeId) {
     e.stopPropagation();
     const res = restaurantData.find(r => r.place_id === placeId);
     const resultsView = document.getElementById('search-results-view');
-    if (res && !hasRestaurantCoordinates(res)) {
-        showToast('這間餐廳目前沒有地圖座標，請以地址或 Google 地圖確認位置');
-        return;
-    }
-
     if (res && state.map && resultsView) {
         let needsReRender = false;
         
@@ -3407,7 +3334,7 @@ function renderMap(restaurants) {
     let hasPoints = false;
     
     const isWholeCity = state.searchLocation && (state.searchLocation.type === '全市' || state.searchLocation.name === '整個台北市' || state.searchLocation.type === '捷運站周邊' || state.searchLocation.type === '多行政區' || state.searchLocation.type === '多地點');
-    if (state.searchLocation && !isWholeCity && hasLocationCoordinates(state.searchLocation)) {
+    if (state.searchLocation && !isWholeCity) {
         const lat = state.searchLocation.lat;
         const lng = state.searchLocation.lng;
         if (typeof lat === 'number' && typeof lng === 'number' && !isNaN(lat) && !isNaN(lng)) {
@@ -3450,19 +3377,19 @@ function renderMap(restaurants) {
                 }
             } catch (e) {
                 console.error('fitBounds / setView failed:', e);
-                if (hasLocationCoordinates(state.searchLocation)) {
+                if (state.searchLocation) {
                     state.map.setView([state.searchLocation.lat, state.searchLocation.lng], 15);
                 }
             }
         } else {
             console.warn('Map container has 0 size, using setView fallback');
-            if (hasLocationCoordinates(state.searchLocation)) {
-                    state.map.setView([state.searchLocation.lat, state.searchLocation.lng], 15);
-                }
+            if (state.searchLocation) {
+                state.map.setView([state.searchLocation.lat, state.searchLocation.lng], 15);
+            }
         }
-    } else if (hasLocationCoordinates(state.searchLocation)) {
-                    state.map.setView([state.searchLocation.lat, state.searchLocation.lng], 15);
-                }
+    } else if (state.searchLocation) {
+        state.map.setView([state.searchLocation.lat, state.searchLocation.lng], 15);
+    }
 
     // Perform initial marker rendering based on new view/zoom
     refreshMapMarkers();
@@ -3519,7 +3446,7 @@ function refreshMapMarkers() {
     const totalCount = state.mapRestaurants.length;
 
     // 1. Render Search Center Pin
-    if (state.searchLocation && !isWholeCity && hasLocationCoordinates(state.searchLocation)) {
+    if (state.searchLocation && !isWholeCity) {
         const centerIcon = L.divIcon({
             html: `<div class="search-center-marker-inner" style="width: 36px; height: 36px; display: flex; align-items: center; justify-content: center;">
                      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="36" height="36" style="display: block; filter: drop-shadow(0 3px 5px rgba(0,0,0,0.3));">
@@ -3951,7 +3878,7 @@ function syncStateFromUrl(isInitialLoad = false, animate = false) {
 
         // 2.5 恢復菜系過濾條件
         state.cuisineFilter.clear();
-        params.getAll('cuisine').forEach(cuisine => state.cuisineFilter.add(normalizeCuisineFilter(cuisine)));
+        params.getAll('cuisine').forEach(cuisine => state.cuisineFilter.add(cuisine));
         updateCuisineFilterUI({ expand: false });
 
         // 3. 恢復搜尋地點
@@ -4472,7 +4399,7 @@ function facilityIsAlreadyMentioned(text, key) {
         has_diaper_table: /尿布台|哺乳室|親子廁所/,
         has_play_area: /遊樂|玩具|遊戲|遊戲區|遊樂桌|裝扮|拍照區/,
         spacious_seating: /寬敞|挑高|空間舒適|座位較寬/,
-        kid_noise_tolerant: /不怕吵|吵鬧.*包容|孩子聲音.*包容|氣氛歡樂|氣氛對孩子較友善|熱鬧|對孩子.*吸引力/,
+        kid_noise_tolerant: /不怕吵|不怕小孩吵|不怕小孩聲音|吵鬧.*包容|孩子聲音.*包容|氣氛歡樂|氣氛對孩子較友善|熱鬧|對孩子.*吸引力/,
         has_private_room: /包廂|包場|慶生|抓週|活動服務/
     };
     return patterns[key]?.test(positiveText) || false;
@@ -4638,14 +4565,9 @@ function compactSummaryText(summary, restaurant, options = {}) {
 
 
 function patchAiSummary(restaurant, summary, options = {}) {
-    if (
-        restaurant?.place_id === 'ChIJVSlgImqtQjQRbQdqBcuQMuo' ||
-        restaurant?.place_id === 'ChIJLfHPyr2rQjQRSM3hOuLzSKg' ||
-        restaurant?.place_id === 'ChIJCQRu0QaqQjQRI3j4lpYZdbQ'
-    ) {
+    if (restaurant?.place_id === 'ChIJVSlgImqtQjQRbQdqBcuQMuo' || restaurant?.place_id === 'ChIJLfHPyr2rQjQRSM3hOuLzSKg') {
         return summary || '';
-    }
-    const patched = compactSummaryText(summary || '', restaurant, {
+    }    const patched = compactSummaryText(summary || '', restaurant, {
         ...options,
         maxChars: options.maxChars || 160
     });
@@ -5927,11 +5849,4 @@ function handleHomeFeedbackLinkClick(e) {
 document.addEventListener('click', handleHomeFeedbackLinkClick);
 // Start the app
 init();
-
-
-
-
-
-
-
 

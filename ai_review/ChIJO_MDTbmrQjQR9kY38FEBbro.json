@@ -1,53 +1,58 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Yes",
-                                  "evidence":  "店家除了協助準備兒童座椅、兒童餐具",
-                                  "confidence":  0.8
-                              },
-    "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4,
-                                "override_existing":  true
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "系統自動識別：同時提供兒童椅與兒童餐具，通常為親子友善且不怕吵之用餐環境",
-                               "confidence":  1
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "result":  "Yes",
-                          "evidence":  "店家除了協助準備兒童座椅、兒童餐具",
-                          "confidence":  0.9
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，服務人員接待熱忱、服務態度良好。店內貼心備有兒童座椅與專用餐具。",
-    "card_summary":  "根據目前整理資料，服務人員接待熱忱、服務態度良好。店內貼心備有兒童座椅與專用餐具。",
-    "generated_signals":  [
-                              "店家除了協助準備兒童座椅、兒童餐具",
-                              "店家除了協助準備兒童座椅、兒童餐具",
-                              "系統自動識別：同時提供兒童椅與兒童餐具，通常為親子友善且不怕吵之用餐環境"
-                          ],
-    "parent_friendly_score":  5,
-    "parent_friendly_level":  "高",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+{
+  " child_seat available": {
+    "result": "Yes",
+    "evidence": "店內提供兒童椅",
+    "confidence": 1
+  },
+  "Spacious seating": {
+    "result": "No",
+    "evidence": "空間不大且座位不多，不建議多人聚餐",
+    "confidence": 1
+  },
+  "Kids menu available": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4,
+    "override_existing": true
+  },
+  "kid_noise_tolerant": {
+    "result": "Yes",
+    "evidence": "老闆和店員對小孩很友善，會主動協助調整餐點口味並提供麵包給孩子頂餓",
+    "confidence": 1
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_tableware": {
+    "result": "Yes",
+    "evidence": "店內提供兒童餐具",
+    "confidence": 1
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "generated_summary": "根據家長回饋，We&Me Cafe好好文化創意的老闆和店員對小孩很友善，點餐時會主動詢問哪些餐點是要給小孩、口味是否需要調整；等餐時也會主動提供麵包讓孩子頂餓，對家長和小孩都非常貼心。店內提供兒童椅與兒童餐具，不過空間不大且座位不多，不建議多人聚餐。",
+  "card_summary": "根據家長回饋，We&Me Cafe好好文化創意的老闆和店員對小孩很友善，點餐時會主動詢問哪些餐點是要給小孩、口味是否需要調整；等餐時也會主動提供麵包讓孩子頂餓，對家長和小孩都非常貼心。店內提供兒童椅與兒童餐具，不過空間不大且座位不多，不建議多人聚餐。",
+  "generated_signals": [
+    "店家除了協助準備兒童座椅、兒童餐具",
+    "系統自動識別：同時提供兒童椅與兒童餐具，通常為親子友善且不怕吵之用餐環境",
+    "老闆和店員對小孩很友善",
+    "點餐時會主動詢問哪些餐點要給小孩、口味是否需要調整",
+    "等餐時會主動提供麵包讓孩子頂餓",
+    "店內提供兒童椅",
+    "店內提供兒童餐具",
+    "空間不大且座位不多，不建議多人聚餐"
+  ],
+  "parent_friendly_score": 5,
+  "parent_friendly_level": "高",
+  "reason": "人工校正與AI綜合評估"
 }

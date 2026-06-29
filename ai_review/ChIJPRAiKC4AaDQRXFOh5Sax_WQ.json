@@ -1,51 +1,61 @@
 {
-    " child_seat available": {
-        "evidence": "Google 摰?餉??拙??咱?券?",
-        "result": "Yes",
-        "confidence": 1
-    },
-    "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "evidence": "Google 摰?餉??拙??咱?券?",
-        "result": "Yes",
-        "confidence": 1
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_tableware": {
-        "evidence": "Google 摰?餉??拙??咱?券?",
-        "result": "Yes",
-        "confidence": 1
-    },
-    "has_diaper_table": {
-        "result": "Yes",
-        "evidence": "位於百貨公司/商場/大樓內，可使用商場/大樓附設之尿布台",
-        "confidence": 1
-    },
-    "parent_friendly_score": 3,
-    "parent_friendly_level": "高",
-    "reason": "人工校正與AI綜合評估",
-    "generated_signals": [
-        "位於百貨公司/商場/大樓內，可使用商場/大樓附設之尿布台",
-        "Google 摰?餉??拙??咱?券?"
-    ],
-    "generated_summary": "這家餐廳提供兒童座椅、兒童餐具、可使用商場附設之尿布台、環境氣氛適合帶小孩。目前評論中較少提及其他親子用餐的具體細節，建議前往前可先向店家確認。",
-    "card_summary": ""
+  " child_seat available": {
+    "result": "Yes",
+    "evidence": "店內提供兒童椅",
+    "confidence": 1
+  },
+  "Spacious seating": {
+    "result": "Yes",
+    "evidence": "空間寬敞",
+    "confidence": 1
+  },
+  "Kids menu available": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "kid_noise_tolerant": {
+    "result": "Yes",
+    "evidence": "環境不怕吵",
+    "confidence": 1
+  },
+  "has_play_area": {
+    "result": "Yes",
+    "evidence": "附設兒童遊戲室",
+    "confidence": 1
+  },
+  "has_private_room": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_tableware": {
+    "result": "Yes",
+    "evidence": "店內提供兒童餐具",
+    "confidence": 1
+  },
+  "has_diaper_table": {
+    "result": "Yes",
+    "evidence": "廁所有尿布台",
+    "confidence": 1
+  },
+  "parent_friendly_score": 5,
+  "parent_friendly_level": "高",
+  "reason": "人工校正與AI綜合評估",
+  "generated_signals": [
+    "位於百貨公司/商場/大樓內，可使用商場/大樓附設之尿布台",
+    "Google 摰?餉??拙??咱?券?",
+    "店內有可愛的貓",
+    "附設兒童遊戲室，有遊樂區",
+    "店內提供兒童椅",
+    "店內提供兒童餐具",
+    "附設兒童遊戲室",
+    "有可愛的店貓",
+    "廁所有兒童馬桶和尿布台",
+    "環境不怕吵",
+    "空間寬敞",
+    "須爬台階才能前往餐廳，推嬰兒推車的家長須留意"
+  ],
+  "generated_summary": "店內提供兒童椅、兒童餐具且附設兒童遊戲室，還有可愛的店貓。廁所有兒童馬桶和尿布台，環境不怕吵且空間寬敞，但須爬台階才能前往餐廳，推嬰兒推車的家長須留意。",
+  "card_summary": "店內提供兒童椅、兒童餐具且附設兒童遊戲室，還有可愛的店貓。廁所有兒童馬桶和尿布台，環境不怕吵且空間寬敞，但須爬台階才能前往餐廳，推嬰兒推車的家長須留意。"
 }
