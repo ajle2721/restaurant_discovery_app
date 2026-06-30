@@ -538,6 +538,12 @@ function updateCuisineFilterUI(options = {}) {
     }
 }
 
+function isFullAttributeFilterMatch(res, selectedFilters = state.filters) {
+    if (!selectedFilters || selectedFilters.size === 0) return true;
+    const attrs = res.attributes || {};
+    return Array.from(selectedFilters).every(filter => isPositiveAttributeValue(attrs[filter]));
+}
+
 function updateShowResultsButton(matchCount = 0) {
     const btnShowResultsContainer = document.getElementById('btn-show-results-container');
     const btnShowResults = document.getElementById('btn-show-results');
@@ -633,10 +639,7 @@ function getShowResultsPreviewCount() {
         return filtered.length;
     }
 
-    return filtered.filter(res => {
-        const status = getDynamicStatus(res, state.filters);
-        return status.level === 'High' || status.level === 'Medium';
-    }).length;
+    return filtered.filter(res => isFullAttributeFilterMatch(res, state.filters)).length;
 }
 
 function refreshShowResultsButton() {
@@ -2277,17 +2280,10 @@ async function renderResults() {
 
         state.currentResults = sorted; 
 
-        const btnShowResultsContainer = document.getElementById('btn-show-results-container');
-        const btnShowResults = document.getElementById('btn-show-results');
-        if (btnShowResultsContainer && btnShowResults) {
-            btnShowResultsContainer.style.display = 'block';
-            btnShowResults.textContent = `查看 ${exactMatches.length} 間餐廳`;
-        }
-
-        const showResultsCount = (state.filters && state.filters.size > 0)
-            ? exactMatches.length
+        const fullMatchCount = (state.filters && state.filters.size > 0)
+            ? sorted.filter(res => isFullAttributeFilterMatch(res, state.filters)).length
             : filtered.length;
-        updateShowResultsButton(showResultsCount);
+        updateShowResultsButton(fullMatchCount);
 
         // Render recommended cards up to the recommendedLimit
         const visibleRecommended = recommended.slice(0, state.recommendedLimit);
