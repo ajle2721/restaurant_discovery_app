@@ -5,8 +5,8 @@
                                   "confidence":  0.4
                               },
     "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "依據連鎖品牌【CAFE!N 硬咖啡】統一設定",
+                             "result":  "No",
+                             "evidence":  "人工校正：北車門市空間不寬敞",
                              "confidence":  0.9
                          },
     "Kids menu available":  {
@@ -47,6 +47,6 @@
                               "空間小巧舒適",
                               "環境還蠻安靜的。"
                           ],
-    "generated_summary":  "CAFE!N 硬咖啡北車門市環境乾淨且服務親切，但空間較為小巧，且店內氛圍較為安靜，目前評論中未提及兒童座椅、兒童餐點或相關親子設施，建議攜帶幼童前往時需多加留意。",
-    "card_summary":  ""
+    "generated_summary":  "CAFE!N 硬咖啡北車門市環境乾淨且服務親切，但空間較為小巧、氛圍較安靜，帶小孩前往時建議多加留意。",
+    "card_summary":  "CAFE!N 硬咖啡北車門市環境乾淨且服務親切，但空間較為小巧、氛圍較安靜，帶小孩前往時建議多加留意。"
 }

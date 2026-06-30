@@ -3806,7 +3806,7 @@ function urlMatchesCurrentState(params) {
     for (let cuisine of urlCuisines) {
         if (!state.cuisineFilter.has(cuisine)) return false;
     }
-    
+
     return true;
 }
 
