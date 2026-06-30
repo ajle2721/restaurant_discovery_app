@@ -1,4 +1,4 @@
-const WEB3FORMS_ACCESS_KEY = "c7b3994f-f590-4126-a12f-111c28c58a19";
+﻿const WEB3FORMS_ACCESS_KEY = "c7b3994f-f590-4126-a12f-111c28c58a19";
 
 const safeSession = {
     getItem(key) {
@@ -4564,10 +4564,32 @@ function compactSummaryText(summary, restaurant, options = {}) {
 }
 
 
+const EXACT_SUMMARY_PLACE_IDS = new Set([
+    'ChIJVSlgImqtQjQRbQdqBcuQMuo',
+    'ChIJLfHPyr2rQjQRSM3hOuLzSKg',
+    'manual-david-alpaca',
+    'ChIJg-VN6l-tQjQRRxat9_Vo0hk',
+    'manual-antica-pizza-yangmingshan',
+    'manual-julien-camping-restaurant',
+    'ChIJMQTebJqrQjQR3p3Zb5ewRsk',
+    'ChIJb61nBQmrQjQRSzjQlYaN8_Y',
+    'ChIJxZuN7UurQjQRgYLtdVB27N4',
+    'ChIJjRHspSCrQjQRrNW8m8IhrTA',
+    'ChIJeZnryQ-pQjQRNnLc5C4JK8s',
+    'ChIJieKHJvurQjQRV0sWxBYJhfI',
+    'manual-new-great-gobi-ximen',
+    'manual-skylark-heping-park',
+    'manual-skylark-donghu-kangning',
+    'ChIJ2VWqSkKuQjQRuQkg3lsruls',
+    'manual-lunxian-skewers-bar',
+    'manual-nice-to-meet-u-newborn-cafe'
+]);
+
 function patchAiSummary(restaurant, summary, options = {}) {
-    if (restaurant?.place_id === 'ChIJVSlgImqtQjQRbQdqBcuQMuo' || restaurant?.place_id === 'ChIJLfHPyr2rQjQRSM3hOuLzSKg') {
+    if (EXACT_SUMMARY_PLACE_IDS.has(restaurant?.place_id)) {
         return summary || '';
-    }    const patched = compactSummaryText(summary || '', restaurant, {
+    }
+    const patched = compactSummaryText(summary || '', restaurant, {
         ...options,
         maxChars: options.maxChars || 160
     });

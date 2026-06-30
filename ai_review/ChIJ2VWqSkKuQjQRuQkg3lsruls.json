@@ -1,7 +1,7 @@
 {
   " child_seat available": {
-    "result": "Unknown",
-    "evidence": "User provided info",
+    "result": "Yes",
+    "evidence": "使用者補充：Skylark洋食‧芳鄰台北市分店皆有兒童椅。",
     "confidence": 1
   },
   "Spacious seating": {
@@ -11,12 +11,12 @@
   },
   "Kids menu available": {
     "result": "Yes",
-    "evidence": "有沙拉、義大利麵、燉飯、排餐、兒童餐",
+    "evidence": "使用者補充：Skylark洋食‧芳鄰台北市各分店皆有兒童餐。",
     "confidence": 1
   },
   "kid_noise_tolerant": {
-    "result": "Unknown",
-    "evidence": "在士林想找一間能好好坐下來吃早午餐、慢慢聊天的地方，這裡會是安心的選擇。",
+    "result": "Yes",
+    "evidence": "使用者補充：Skylark洋食‧芳鄰台北市分店環境不怕吵。",
     "confidence": 1
   },
   "has_play_area": {
@@ -30,23 +30,25 @@
     "confidence": 0.4
   },
   "has_tableware": {
-    "result": "Unknown",
-    "evidence": null,
-    "confidence": 0.4
+    "result": "Yes",
+    "evidence": "使用者補充：Skylark洋食‧芳鄰台北市分店皆有兒童餐具。",
+    "confidence": 1
   },
   "has_diaper_table": {
     "result": "Unknown",
     "evidence": null,
     "confidence": 0.4
   },
-  "generated_summary": "根據評論分析，精緻的燉飯與焗烤料理深受顧客好評。店內提供兒童餐點。店內會提供畫畫用品給小孩使用。",
-  "card_summary": "店內會提供畫畫用品給小孩使用。",
+  "generated_summary": "Skylark洋食‧芳鄰 士林中山北店提供兒童椅、兒童餐具與兒童餐，環境對孩子聲音較包容，適合親子家庭用餐。點主餐可享現烤麵包吃到飽。",
+  "card_summary": "提供兒童椅、兒童餐具與兒童餐，環境不怕吵；點主餐可享現烤麵包吃到飽。",
   "generated_signals": [
-    "最令人滿意的是空間寬敞",
-    "有沙拉、義大利麵、燉飯、排餐、兒童餐",
-    "使用者回報與人工校正：此連鎖品牌提供畫畫用品"
+    "兒童椅",
+    "兒童餐具",
+    "兒童餐",
+    "環境不怕吵",
+    "點主餐現烤麵包吃到飽"
   ],
-  "parent_friendly_score": 2,
+  "parent_friendly_score": 4,
   "parent_friendly_level": "高",
-  "reason": "Google 官方親子標籤與評論/簡介語意關聯分析；使用者回報校正：提供畫畫用品"
+  "reason": "使用者補充親子友善設施與兒童餐；官方資訊顯示點主餐可享現烤麵包吃到飽。"
 }

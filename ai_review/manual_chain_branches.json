@@ -2115,19 +2115,410 @@
       "kids_menu": "unknown",
       "spacious_seating": "yes",
       "kid_noise_tolerant": "yes",
-      "has_play_area": "unknown",
+      "has_play_area": "likely",
       "has_private_room": "venue",
       "has_tableware": "unknown",
       "has_diaper_table": "unknown"
     },
-    "想 陽明山提供兒童椅，空間寬敞且環境不怕小孩吵，適合親子家庭用餐。店家也適合包場辦小孩活動，旁邊有停車場與庭院，方便家長帶孩子放風。",
-    "有兒童椅，空間寬敞且不怕小孩吵；適合包場辦小孩活動，旁邊有停車場與庭院可放風。",
+    "提供兒童椅，空間寬敞且環境不怕小孩吵，適合親子家庭用餐，也適合包場辦小孩活動。旁邊有停車場可免費停車，還有戶外草地，適合讓小孩放電跑跳。",
+    "提供兒童椅，空間寬敞且環境不怕小孩吵，適合親子家庭用餐，也適合包場辦小孩活動。旁邊有停車場可免費停車，還有戶外草地，適合讓小孩放電跑跳。",
     "高",
     [
       "異國/其他"
     ],
     "02 2862 6628",
     "https://www.facebook.com/pages/category/Restaurant/The-cafe-by-%E6%83%B3-%E9%99%BD%E6%98%8E%E5%B1%B1-254572831880580/",
+    ""
+  ],
+  [
+    "manual-david-alpaca",
+    "大衛小小羊 David & Alpaca",
+    "111臺北市士林區陽明里國泰街9號",
+    "士林區",
+    null,
+    "親子餐廳",
+    25.1368429,
+    121.5427545,
+    "https://www.google.com/maps/search/?api=1&query=%E5%A4%A7%E8%A1%9B%E5%B0%8F%E5%B0%8F%E7%BE%8A%20David%20%26%20Alpaca%20111%E8%87%BA%E5%8C%97%E5%B8%82%E5%A3%AB%E6%9E%97%E5%8D%80%E9%99%BD%E6%98%8E%E9%87%8C%E5%9C%8B%E6%B3%B0%E8%A1%979%E8%99%9F",
+    {
+      "high_chair_available": "yes",
+      "kids_menu": "yes",
+      "spacious_seating": "yes",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "likely",
+      "has_private_room": "venue",
+      "has_tableware": "yes",
+      "has_diaper_table": "unknown"
+    },
+    "大衛小小羊 David & Alpaca 提供兒童椅、兒童餐具與兒童餐，空間寬敞且環境不怕小孩吵，適合親子家庭用餐，也適合包場辦小孩活動。店內有兩隻可愛的羊駝，並有不小的草地庭院空間，適合讓小孩放電跑跳。",
+    "大衛小小羊 David & Alpaca 提供兒童椅、兒童餐具與兒童餐，空間寬敞且環境不怕小孩吵，適合親子家庭用餐，也適合包場辦小孩活動。店內有兩隻可愛的羊駝，並有不小的草地庭院空間，適合讓小孩放電跑跳。",
+    "高",
+    [
+      "親子餐廳"
+    ],
+    "0228619668",
+    "https://www.facebook.com/2020DavidAlpaca/?locale=zh_TW",
+    ""
+  ],
+  [
+    "manual-antica-pizza-yangmingshan",
+    "阿緹卡義大利pizza專賣店Antica",
+    "111臺北市士林區陽明里國泰街",
+    "士林區",
+    null,
+    "披薩",
+    25.1365235,
+    121.5423748,
+    "https://www.google.com/maps/place/%E9%98%BF%E7%B7%B9%E5%8D%A1%E7%BE%A9%E5%A4%A7%E5%88%A9pizza%E5%B0%88%E8%B3%A3%E5%BA%97Antica/@25.1365235,121.5423748,17z/data=!3m1!4b1!4m6!3m5!1s0x3442ad69d909c73b:0x5692f505dc5fdd93!8m2!3d25.1365235!4d121.5423748!16s%2Fg%2F11rdhd2063?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+    {
+      "high_chair_available": "yes",
+      "kids_menu": "unknown",
+      "spacious_seating": "yes",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "likely",
+      "has_private_room": "unknown",
+      "has_tableware": "yes",
+      "has_diaper_table": "unknown"
+    },
+    "阿緹卡義大利pizza專賣店Antica 提供兒童椅與兒童餐具，空間寬敞且環境不怕小孩吵，適合親子家庭用餐。周邊有免費停車場，戶外有廣大的庭院草地可讓小孩跑跳。",
+    "提供兒童椅與兒童餐具，空間寬敞且不怕吵；周邊有免費停車場，戶外有廣大的庭院草地可讓小孩跑跳。",
+    "高",
+    [
+      "義式料理"
+    ],
+    "0228622288",
+    "https://www.facebook.com/antica58.pizza",
+    ""
+  ],
+  [
+    "manual-julien-camping-restaurant",
+    "朱里昂露營風餐廳",
+    "111臺北市士林區陽明里國泰街",
+    "士林區",
+    null,
+    "景觀餐廳",
+    25.1361012,
+    121.5431953,
+    "https://www.google.com/maps/place/%E6%9C%B1%E9%87%8C%E6%98%82%E9%9C%B2%E7%87%9F%E9%A2%A8%E9%A4%90%E5%BB%B3/@25.1361012,121.5431953,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a988eb90cf8f:0x64b62f782e792a50!8m2!3d25.1361012!4d121.5431953!16s%2Fg%2F11c5fz8n1v?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+    {
+      "high_chair_available": "yes",
+      "kids_menu": "yes",
+      "spacious_seating": "yes",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "likely",
+      "has_private_room": "venue",
+      "has_tableware": "yes",
+      "has_diaper_table": "unknown"
+    },
+    "朱里昂露營風餐廳提供兒童椅、兒童餐與兒童餐具，空間寬敞且環境不怕小孩吵，適合親子家庭用餐，也適合包場辦活動。餐廳主打免裝備帳篷烤肉與森林系野餐體驗，結合歐式木屋與室內帳篷造景，也提供慶生派對方案；戶外庭院可讓小孩跑跳，並是寵物友善空間。",
+    "提供兒童椅、兒童餐與兒童餐具，空間寬敞且不怕吵；主打免裝備帳篷烤肉與森林系野餐，戶外庭院可讓小孩跑跳。",
+    "高",
+    [
+      "異國/其他"
+    ],
+    "0223653731",
+    "https://www.facebook.com/julienkitchen/",
+    ""
+  ],
+  [
+    "ChIJMQTebJqrQjQR3p3Zb5ewRsk",
+    "瀧厚炙燒熟成牛排 台北大安店",
+    "台北市大安區和平東路二段183號",
+    "大安區",
+    null,
+    "牛排館",
+    25.0252936,
+    121.5419408,
+    "https://maps.google.com/?cid=14503473814456344030",
+    {
+      "high_chair_available": "yes",
+      "kids_menu": "unknown",
+      "spacious_seating": "yes",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "yes",
+      "has_diaper_table": "unknown"
+    },
+    "瀧厚炙燒熟成牛排提供兒童椅（適合已經能自己坐的寶寶）與兒童餐具，空間寬敞、推車可推入，環境不怕小孩吵，適合親子家庭用餐。店內湯品與飲料可免費續用。",
+    "提供兒童椅與兒童餐具，空間寬敞可推車進入，不怕吵；湯品與飲料可免費續用。",
+    "高",
+    [
+      "西式料理"
+    ],
+    "02-2701-5885",
+    "https://inline.app/booking/-MLHp_wjp5wZZpinPS_o:inline-live-1",
+    "https://inline.app/booking/-MLHp_wjp5wZZpinPS_o:inline-live-1/-MLHpa6zZJulNXNqRY_Y?language=zh-tw"
+  ],
+  [
+    "ChIJb61nBQmrQjQRSzjQlYaN8_Y",
+    "瀧厚炙燒熟成牛排 台北民生店",
+    "台北市松山區民生東路五段99號1樓",
+    "松山區",
+    null,
+    "牛排館",
+    25.05884379999999,
+    121.5598674,
+    "https://maps.google.com/?cid=17794722161849546827",
+    {
+      "high_chair_available": "yes",
+      "kids_menu": "unknown",
+      "spacious_seating": "yes",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "yes",
+      "has_diaper_table": "unknown"
+    },
+    "瀧厚炙燒熟成牛排提供兒童椅（適合已經能自己坐的寶寶）與兒童餐具，空間寬敞、推車可推入，環境不怕小孩吵，適合親子家庭用餐。店內湯品與飲料可免費續用。",
+    "提供兒童椅與兒童餐具，空間寬敞可推車進入，不怕吵；湯品與飲料可免費續用。",
+    "高",
+    [
+      "西式料理"
+    ],
+    "02-2761-0068",
+    "https://inline.app/booking/-MLHp_wjp5wZZpinPS_o:inline-live-1",
+    "https://inline.app/booking/-MLHp_wjp5wZZpinPS_o:inline-live-1/-MP8ArZRVuOD1Hl-NBkq?language=zh-tw"
+  ],
+  [
+    "ChIJxZuN7UurQjQRgYLtdVB27N4",
+    "瀧厚炙燒熟成牛排 台北復北店",
+    "台北市松山區復興北路69號",
+    "松山區",
+    null,
+    "牛排館",
+    25.0509057,
+    121.5442303,
+    "https://maps.google.com/?cid=16063344058871677569",
+    {
+      "high_chair_available": "yes",
+      "kids_menu": "unknown",
+      "spacious_seating": "yes",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "yes",
+      "has_diaper_table": "unknown"
+    },
+    "瀧厚炙燒熟成牛排提供兒童椅（適合已經能自己坐的寶寶）與兒童餐具，空間寬敞、推車可推入，環境不怕小孩吵，適合親子家庭用餐。店內湯品與飲料可免費續用。",
+    "提供兒童椅與兒童餐具，空間寬敞可推車進入，不怕吵；湯品與飲料可免費續用。",
+    "高",
+    [
+      "西式料理"
+    ],
+    "02-8773-6900",
+    "https://inline.app/booking/-MLHp_wjp5wZZpinPS_o:inline-live-1",
+    "https://inline.app/booking/-MLHp_wjp5wZZpinPS_o:inline-live-1/-M_3zob0zpNBiFeq7KmG?language=zh-tw"
+  ],
+  [
+    "ChIJjRHspSCrQjQRrNW8m8IhrTA",
+    "瀧厚炙燒熟成牛排 台北南港店",
+    "台北市南港區忠孝東路七段369號3樓（Citylink A棟）",
+    "南港區",
+    null,
+    "牛排館",
+    25.0527358,
+    121.6065258,
+    "https://maps.google.com/?cid=3507496804511700396",
+    {
+      "high_chair_available": "yes",
+      "kids_menu": "unknown",
+      "spacious_seating": "yes",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "yes",
+      "has_diaper_table": "unknown"
+    },
+    "瀧厚炙燒熟成牛排提供兒童椅（適合已經能自己坐的寶寶）與兒童餐具，空間寬敞、推車可推入，環境不怕小孩吵，適合親子家庭用餐。店內湯品與飲料可免費續用。",
+    "提供兒童椅與兒童餐具，空間寬敞可推車進入，不怕吵；湯品與飲料可免費續用。",
+    "高",
+    [
+      "西式料理"
+    ],
+    "02-2652-9292",
+    "https://inline.app/booking/-MLHp_wjp5wZZpinPS_o:inline-live-1",
+    "https://inline.app/booking/-MLHp_wjp5wZZpinPS_o:inline-live-1/-N6Rs7qG_Cq8Zb_1W-17?language=zh-tw"
+  ],
+  [
+    "ChIJeZnryQ-pQjQRNnLc5C4JK8s",
+    "瀧厚炙燒熟成牛排 台北北車店",
+    "100台北市中正區北平西路3號2樓（台北車站2樓微風美食廣場）",
+    "中正區",
+    null,
+    "牛排館",
+    25.0477467,
+    121.5169983,
+    "https://maps.google.com/?cid=14643172167440110134",
+    {
+      "high_chair_available": "yes",
+      "kids_menu": "unknown",
+      "spacious_seating": "yes",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "yes",
+      "has_diaper_table": "unknown"
+    },
+    "瀧厚炙燒熟成牛排提供兒童椅（適合已經能自己坐的寶寶）與兒童餐具，空間寬敞、推車可推入，環境不怕小孩吵，適合親子家庭用餐。店內湯品與飲料可免費續用。",
+    "提供兒童椅與兒童餐具，空間寬敞可推車進入，不怕吵；湯品與飲料可免費續用。",
+    "高",
+    [
+      "西式料理"
+    ],
+    "02-2311-0698",
+    "https://inline.app/booking/-MLHp_wjp5wZZpinPS_o:inline-live-1",
+    "https://inline.app/booking/-MLHp_wjp5wZZpinPS_o:inline-live-1/-NszzXKFUPGXhZibtdOE?language=zh-tw"
+  ],
+  [
+    "ChIJieKHJvurQjQRV0sWxBYJhfI",
+    "瀧厚炙燒熟成牛排 台北ATT店",
+    "台北市信義區松壽路12號5樓",
+    "信義區",
+    null,
+    "牛排館",
+    25.0353886,
+    121.5660759,
+    "https://maps.google.com/?cid=17475383922464803671",
+    {
+      "high_chair_available": "yes",
+      "kids_menu": "unknown",
+      "spacious_seating": "yes",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "yes",
+      "has_diaper_table": "unknown"
+    },
+    "瀧厚炙燒熟成牛排提供兒童椅（適合已經能自己坐的寶寶）與兒童餐具，空間寬敞、推車可推入，環境不怕小孩吵，適合親子家庭用餐。店內湯品與飲料可免費續用。",
+    "提供兒童椅與兒童餐具，空間寬敞可推車進入，不怕吵；湯品與飲料可免費續用。",
+    "高",
+    [
+      "西式料理"
+    ],
+    "02-7734-2008",
+    "https://inline.app/booking/-MLHp_wjp5wZZpinPS_o:inline-live-1",
+    "https://inline.app/booking/-MLHp_wjp5wZZpinPS_o:inline-live-1/-NQPiDpk073f8BotrFZ6?language=zh-tw"
+  ],
+  [
+    "manual-new-great-gobi-ximen",
+    "新大戈壁蒙古烤肉 西門旗艦店",
+    "台北市萬華區成都路81號4樓",
+    "萬華區",
+    "PRICE_LEVEL_MODERATE",
+    "蒙古烤肉",
+    25.0431071,
+    121.505162,
+    "https://www.google.com/maps/place/%E6%96%B0%E5%A4%A7%E6%88%88%E5%A3%81%E8%92%99%E5%8F%A4%E7%83%A4%E8%82%89+%E8%A5%BF%E9%96%80%E6%97%97%E8%89%A6%E5%BA%97/@25.0431071,121.505162,17z/data=!3m1!4b1!4m6!3m5!1s0x3442a9005920a6a7:0xaeb08c60f8d6ba58!8m2!3d25.0431071!4d121.505162!16s%2Fg%2F11v_4rhr32?entry=ttu&g_ep=EgoyMDI2MDYyNC4wIKXMDSoASAFQAw%3D%3D",
+    {
+      "high_chair_available": "yes",
+      "kids_menu": "unknown",
+      "spacious_seating": "yes",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "unknown",
+      "has_diaper_table": "unknown"
+    },
+    "新大戈壁蒙古烤肉西門旗艦店提供兒童椅，空間寬敞且環境不怕小孩吵，適合親子家庭用餐。店內有熟食自助吧，110公分以下兒童免費。",
+    "提供兒童椅，空間寬敞且不怕吵；有熟食自助吧，110公分以下兒童免費。",
+    "高",
+    [
+      "台式/中式料理",
+      "火鍋"
+    ],
+    "02-2311-5656",
+    "https://www.facebook.com/p/%E6%96%B0%E5%A4%A7%E6%88%88%E5%A3%81%E8%92%99%E5%8F%A4%E7%83%A4%E8%82%89-%E8%A5%BF%E9%96%80%E6%97%97%E8%89%A6%E5%BA%97-61560583575006/",
+    "https://yumii.tw/index.html?key=e06bc9"
+  ],
+  [
+    "manual-skylark-donghu-kangning",
+    "Skylark洋食‧芳鄰 東湖康寧店",
+    "114台北市內湖區康寧路三段72號2樓",
+    "內湖區",
+    "PRICE_LEVEL_MODERATE",
+    "美式料理",
+    25.069912,
+    121.611461,
+    "https://www.google.com/maps/place/%E5%8A%A0%E5%B7%9E%E9%A2%A8%E6%B4%8B%E9%A3%9F%E9%A4%A8Skylark/@25.0699168,121.6092723,17z/data=!4m12!1m6!3m5!1s0x3442ab86c4f08871:0x682479d41693cbcf!2z5Yqg5bee6aKo5rSL6aOf6aSoU2t5bGFyaw!8m2!3d25.069912!4d121.611461!3m4!1s0x3442ab86c4f08871:0x682479d41693cbcf!8m2!3d25.069912!4d121.611461",
+    {
+      "high_chair_available": "yes",
+      "kids_menu": "yes",
+      "spacious_seating": "no",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "yes",
+      "has_diaper_table": "unknown"
+    },
+    "Skylark洋食‧芳鄰 東湖康寧店提供兒童椅、兒童餐具與兒童餐，環境對孩子聲音較包容，適合親子家庭用餐。點主餐可享現烤麵包吃到飽。",
+    "提供兒童椅、兒童餐具與兒童餐，環境不怕吵；點主餐可享現烤麵包吃到飽。",
+    "高",
+    [
+      "西式料理"
+    ],
+    "02-2633-2850",
+    "https://sky-lark.com.tw/",
+    "https://inline.app/booking/-LlizNeJmJVtny4QF0sN:inline-live-1?language=zh-tw"
+  ],
+  [
+    "manual-skylark-heping-park",
+    "Skylark洋食‧芳鄰 和平公園店",
+    "台北市中正區懷寧街90號",
+    "中正區",
+    "PRICE_LEVEL_MODERATE",
+    "美式料理",
+    25.042781,
+    121.513943,
+    "https://www.google.com/maps/place/SKYLARK%E5%92%8C%E5%B9%B3%E5%85%AC%E5%9C%92%E5%BA%97/@25.0427858,121.5117543,17z/data=!3m1!4b1!4m5!3m4!1s0x3442a90b4da2dccb:0xe7402e0b9cda650f!8m2!3d25.042781!4d121.513943",
+    {
+      "high_chair_available": "yes",
+      "kids_menu": "yes",
+      "spacious_seating": "no",
+      "kid_noise_tolerant": "yes",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "yes",
+      "has_diaper_table": "unknown"
+    },
+    "Skylark洋食‧芳鄰 和平公園店提供兒童椅、兒童餐具與兒童餐，環境對孩子聲音較包容，適合親子家庭用餐。點主餐可享現烤麵包吃到飽。",
+    "提供兒童椅、兒童餐具與兒童餐，環境不怕吵；點主餐可享現烤麵包吃到飽。",
+    "高",
+    [
+      "西式料理"
+    ],
+    "02-2375-6364",
+    "https://sky-lark.com.tw/",
+    "https://inline.app/booking/-LlizNeJmJVtny4QF0sN:inline-live-1/-NiE7sAid6BbjVw7QDud"
+  ],
+  [
+    "manual-lunxian-skewers-bar",
+    "淪陷串酒社",
+    "106臺北市大安區光武里敦化南路一段160巷34-4號",
+    "大安區",
+    null,
+    "串燒居酒屋",
+    25.04688635,
+    121.5266816,
+    "https://www.google.com/maps/place/%E6%B7%AA%E9%99%B7%E4%B8%B2%E9%85%92%E7%A4%BE/data=!4m2!3m1!1s0x3442ab006c99fbe5:0x7f5cebc13e275faf?sa=X&ved=1t:242&ictx=111",
+    {
+      "high_chair_available": "yes",
+      "kids_menu": "no",
+      "spacious_seating": "unknown",
+      "kid_noise_tolerant": "unknown",
+      "has_play_area": "unknown",
+      "has_private_room": "unknown",
+      "has_tableware": "yes",
+      "has_diaper_table": "unknown"
+    },
+    "淪陷串酒社提供兒童椅與兒童餐具。雖然沒有兒童餐或寶寶餐點，但部分原形食物可請店家不灑鹽，較適合寶寶食用；店內也免費提供小朋友畫板和小貼紙。",
+    "提供兒童椅與兒童餐具；部分原形食物可不灑鹽給寶寶食用，並免費提供畫板和小貼紙。",
+    "高",
+    [
+      "日韓料理"
+    ],
+    "",
+    "",
     ""
   ]
 ]
