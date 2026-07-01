@@ -1430,7 +1430,22 @@ body.detail-open #home-view {
     overflow-wrap: anywhere;
     word-break: normal;
 }
+#detail-view .detail-header,
+#detail-view .detail-content {
+    transform: translate3d(1.35rem, 0, 0);
+    transition: transform 0.28s cubic-bezier(0.16, 1, 0.3, 1);
+    will-change: transform;
+}
 
+#detail-view.active .detail-header,
+#detail-view.active .detail-content {
+    transform: translate3d(0, 0, 0);
+}
+
+#detail-view.no-transition .detail-header,
+#detail-view.no-transition .detail-content {
+    transition: none !important;
+}
 .ai-summary {
     background: linear-gradient(135deg, #FFF9F0 0%, #FFF5E8 100%);
     border-radius: 1.5rem;
