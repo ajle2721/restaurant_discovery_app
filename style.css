@@ -1345,6 +1345,7 @@ body {
 
 body.detail-open #home-view {
     visibility: hidden;
+    pointer-events: none;
 }
 
 #detail-view {
@@ -1361,10 +1362,8 @@ body.detail-open #home-view {
     z-index: 5000;
     overflow: hidden;
     overscroll-behavior: contain;
-    transition: transform 0.3s cubic-bezier(0.25, 1, 0.3, 1),
-                opacity 0.3s cubic-bezier(0.25, 1, 0.3, 1),
-                visibility 0.3s cubic-bezier(0.25, 1, 0.3, 1);
-    transform: translate3d(100%, 0, 0);
+    transition: opacity 0.2s ease, visibility 0.2s ease;
+    transform: none;
     opacity: 0;
     visibility: hidden;
     display: flex !important; /* Force override display none to support transitions */
@@ -1376,7 +1375,6 @@ body.detail-open #home-view {
 }
 
 #detail-view.active {
-    transform: translate3d(0, 0, 0);
     opacity: 1;
     visibility: visible;
 }
