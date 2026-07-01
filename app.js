@@ -3263,6 +3263,7 @@ function switchView(viewName, animate = true) {
 
     if (viewName === 'detail') {
         state.view = 'detail';
+        document.body.classList.add('detail-open');
         lastScrollY = window.scrollY;
         
         detailView.classList.add('active');
@@ -3275,6 +3276,7 @@ function switchView(viewName, animate = true) {
         
         const restoreHomeState = () => {
             document.body.style.overflow = ''; // Unlock background window scroll
+            document.body.classList.remove('detail-open');
             window.scrollTo(0, lastScrollY);
         };
 

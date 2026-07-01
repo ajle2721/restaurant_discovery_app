@@ -1343,6 +1343,10 @@ body {
     display: block;
 }
 
+body.detail-open #home-view {
+    visibility: hidden;
+}
+
 #detail-view {
     position: fixed;
     top: calc(-1 * var(--safe-area-inset-top));
