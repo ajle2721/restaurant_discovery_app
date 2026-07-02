@@ -1,53 +1,50 @@
-﻿{
-    " child_seat available":  {
-                                  "evidence":  "Google 摰?餉??拙??咱?券?",
-                                  "result":  "Yes",
-                                  "confidence":  1
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "座位超級多，很多長輩會來喝咖啡聊天。",
-                             "confidence":  0.9
-                         },
-    "Kids menu available":  {
-                                "result":  "Yes",
-                                "evidence":  "Menu for children (官方標記：提供兒童餐)",
-                                "confidence":  1.0
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "Good for children (官方標記：適合兒童)",
-                               "confidence":  1.0
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "evidence":  "Google 摰?餉??拙??咱?券?",
-                          "result":  "Yes",
-                          "confidence":  1
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "parent_friendly_score":  5,
-    "parent_friendly_level":  "高",
-    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals":  [
-                              "座位超級多，很多長輩會來喝咖啡聊天。",
-                              "Menu for children (官方標記：提供兒童餐)",
-                              "Good for children (官方標記：適合兒童)",
-                              "Google 摰?餉??拙??咱?券?"
-                          ],
-    "generated_summary":  "Naissance Coffee士運門市位於士林運動中心內，空間寬敞且座位充足，環境舒適，官方標記顯示其適合兒童並提供兒童餐。",
-    "card_summary":  ""
+{
+    " child_seat available": {
+        "evidence": "Google 摰?餉??拙??咱?券?",
+        "result": "Yes",
+        "confidence": 1
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "座位超級多，很多長輩會來喝咖啡聊天。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": "Menu for children (官方標記：提供兒童餐)",
+        "confidence": 1
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "使用者回報親子友善資訊",
+        "confidence": 1
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "evidence": "Google 摰?餉??拙??咱?券?",
+        "result": "Yes",
+        "confidence": 1
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 4,
+    "parent_friendly_level": "高",
+    "reason": "使用者回報親子友善資訊",
+    "generated_signals": [
+        "店家對小孩友善"
+    ],
+    "generated_summary": "Naissance Coffee 士運門市位於士林運動中心內，店家對小孩友善，空間寬敞且座位充足，適合親子家庭用餐。",
+    "card_summary": "店家對小孩友善，空間寬敞且座位充足。"
 }

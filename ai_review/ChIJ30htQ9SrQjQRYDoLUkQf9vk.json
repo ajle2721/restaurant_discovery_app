@@ -1,57 +1,59 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Yes",
-                                  "evidence":  "座位區、兒童餐椅、各種小物販售區",
-                                  "confidence":  1.0
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "空間：採光一級棒，食物品項我們覺得很剛好，也可以叫外送，在台北市有球池跟溜滑梯🛝可以放電的地方好棒～推薦！！",
-                             "confidence":  0.9
-                         },
-    "Kids menu available":  {
-                                "result":  "Yes",
-                                "evidence":  "Menu for children (官方標記：提供兒童餐)",
-                                "confidence":  1.0
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "Good for children (官方標記：適合兒童)",
-                               "confidence":  1.0
-                           },
-    "has_play_area":  {
-                          "result":  "Yes",
-                          "evidence":  "雪白球池溜滑梯、積木玩具遊戲區、韓式顏料繪畫區",
-                          "confidence":  1.0
-                      },
-    "has_private_room":  {
-                             "result":  "Yes",
-                             "evidence":  "這裡一直是我包場的口袋名單，在北市很難找到這種場地了!!",
-                             "confidence":  0.9
-                         },
-    "has_tableware":  {
-                          "evidence":  "Google 摰?餉??拙??咱?券?",
-                          "result":  "Yes",
-                          "confidence":  1
-                      },
-    "has_diaper_table":  {
-                             "result":  "Yes",
-                             "evidence":  "哺乳安撫室、雪白球池溜滑梯、積木玩具遊戲區、韓式顏料繪畫區、廁所/更衣室、嬰兒床",
-                             "confidence":  0.9
-                         },
-    "parent_friendly_score":  5,
-    "parent_friendly_level":  "高",
-    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals":  [
-                              "雪白球池溜滑梯、積木玩具遊戲區、韓式顏料繪畫區",
-                              "空間：採光一級棒，食物品項我們覺得很剛好，也可以叫外送，在台北市有球池跟溜滑梯🛝可以放電的地方好棒～推薦！！",
-                              "哺乳安撫室、雪白球池溜滑梯、積木玩具遊戲區、韓式顏料繪畫區、廁所/更衣室、嬰兒床",
-                              "座位區、兒童餐椅、各種小物販售區",
-                              "Menu for children (官方標記：提供兒童餐)",
-                              "Good for children (官方標記：適合兒童)",
-                              "這裡一直是我包場的口袋名單，在北市很難找到這種場地了!!",
-                              "Google 摰?餉??拙??咱?券?"
-                          ],
-    "generated_summary":  "嗨有趣是一間非常適合親子聚會的空間，店內提供兒童餐、兒童餐椅及哺乳安撫室等完善設施。環境寬敞且設有球池、溜滑梯、積木區及繪畫區，並有陪玩姊姊協助照顧，讓家長能放鬆休息。此外，該店也提供包場服務。",
-    "card_summary":  ""
+{
+    " child_seat available": {
+        "result": "Yes",
+        "evidence": "使用者回報：提供兒童椅",
+        "confidence": 1
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "使用者回報：空間寬敞",
+        "confidence": 1
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": "使用者回報：提供兒童餐",
+        "confidence": 1
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "使用者回報：環境對孩子聲音較包容",
+        "confidence": 1
+    },
+    "has_play_area": {
+        "result": "Yes",
+        "evidence": "雪白球池溜滑梯、積木玩具遊戲區、韓式顏料繪畫區",
+        "confidence": 1
+    },
+    "has_private_room": {
+        "result": "Venue",
+        "evidence": "使用者回報：可包場辦活動",
+        "confidence": 1
+    },
+    "has_tableware": {
+        "evidence": "Google 摰?餉??拙??咱?券?",
+        "result": "Yes",
+        "confidence": 1
+    },
+    "has_diaper_table": {
+        "result": "Yes",
+        "evidence": "使用者回報：設有尿布台",
+        "confidence": 1
+    },
+    "parent_friendly_score": 5,
+    "parent_friendly_level": "高",
+    "reason": "使用者回報親子友善資訊",
+    "generated_signals": [
+        "室內親子空間",
+        "球池、遊戲室與主題活動",
+        "店內有陪玩人員",
+        "有座位區可等候",
+        "有兒童椅",
+        "有兒童餐",
+        "有尿布台",
+        "空間寬敞",
+        "不怕吵",
+        "可包場辦活動"
+    ],
+    "generated_summary": "hi kidsroom 嗨有趣是一個室內親子空間，提供球池、遊戲室與主題活動，適合想讓孩子放電、家長稍微休息的家庭。店內有陪玩人員，也有座位區可等候；整體比較像「親子遊戲空間＋輕食咖啡座」。提供兒童椅、兒童餐、設有尿布台、空間寬敞、環境對孩子聲音較包容、可包場辦活動。",
+    "card_summary": "hi kidsroom 嗨有趣是一個室內親子空間，提供球池、遊戲室與主題活動，適合想讓孩子放電、家長稍微休息的家庭。店內有陪玩人員，也有座位區可等候；整體比較像「親子遊戲空間＋輕食咖啡座」。提供兒童椅、兒童餐、設有尿布台、空間寬敞、環境對孩子聲音較包容、可包場辦活動。"
 }

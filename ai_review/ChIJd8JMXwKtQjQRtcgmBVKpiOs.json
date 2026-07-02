@@ -1,52 +1,53 @@
-﻿{
-    " child_seat available":  {
-                                  "evidence":  "Google 摰?餉??拙??咱?券?",
-                                  "result":  "Yes",
-                                  "confidence":  1
-                              },
-    "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  "這間餐廳給人的第一印象相當不錯，座位寬敞、沙發區坐起來非常舒適，即使是一個人前來用餐，也能感受到放鬆自在的氛圍。",
-                             "confidence":  1
-                         },
-    "Kids menu available":  {
-                                "result":  "Yes",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "雖然店內人潮不少、環境稍微吵雜，但整體空間開闊，不會讓人感到壓迫。",
-                               "confidence":  1
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "evidence":  "Google 摰?餉??拙??咱?券?",
-                          "result":  "Yes",
-                          "confidence":  1
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，用餐環境舒適，氣氛輕鬆愜意。店內提供兒童餐點。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "Google 官方登記提供兒童餐點",
-                              "Google 官方登記適合兒童用餐",
-                              "Google 摰?餉??拙??咱?券?"
-                          ],
-    "parent_friendly_score":  4,
-    "parent_friendly_level":  "高",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+{
+    " child_seat available": {
+        "result": "Yes",
+        "evidence": "使用者回報親子友善資訊",
+        "confidence": 1
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "使用者回報親子友善資訊",
+        "confidence": 1
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "雖然店內人潮不少、環境稍微吵雜，但整體空間開闊，不會讓人感到壓迫。",
+        "confidence": 1
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Likely",
+        "evidence": "使用者回報親子友善資訊",
+        "confidence": 0.7
+    },
+    "has_diaper_table": {
+        "result": "Yes",
+        "evidence": "使用者回報親子友善資訊",
+        "confidence": 1
+    },
+    "generated_summary": "Timama kitchen 提供尿布台、兒童椅，空間寬敞，兒童餐具為推估資訊，適合親子家庭用餐。",
+    "card_summary": "提供尿布台、兒童椅，空間寬敞；兒童餐具為推估資訊。",
+    "generated_signals": [
+        "有尿布台",
+        "有兒童椅",
+        "空間寬敞",
+        "兒童餐具（估）"
+    ],
+    "parent_friendly_score": 5,
+    "parent_friendly_level": "高",
+    "reason": "使用者回報親子友善資訊"
 }

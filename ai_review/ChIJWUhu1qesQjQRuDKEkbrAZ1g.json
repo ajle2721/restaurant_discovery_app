@@ -1,55 +1,51 @@
-﻿{
-    " child_seat available":  {
-                                  "evidence":  "Google 摰?餉??拙??咱?券?",
-                                  "result":  "Yes",
-                                  "confidence":  1
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "用餐環境寬敞，座位不擁擠。",
-                             "confidence":  0.9
-                         },
-    "Kids menu available":  {
-                                "result":  "Yes",
-                                "evidence":  "Google Maps Attributes: Menu for children",
-                                "confidence":  1.0
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "Google Maps Attributes: Good for children",
-                               "confidence":  1.0
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "evidence":  "Google 摰?餉??拙??咱?券?",
-                          "result":  "Yes",
-                          "confidence":  1
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "parent_friendly_score":  5,
-    "parent_friendly_level":  "高",
-    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals":  [
-                              "Google Maps Attributes: Menu for children",
-                              "用餐環境寬敞，座位不擁擠。",
-                              "用餐環境寬敞",
-                              "座位不擁擠",
-                              "Google Maps Attributes: Good for children",
-                              "Google 摰?餉??拙??咱?券?"
-                          ],
-    "generated_summary":  "PappaRich金爸爸南港中信店對親子相當友善，官方標記顯示提供兒童餐及適合兒童的環境。店內用餐空間寬敞且座位不擁擠，適合家庭聚餐，但目前評論中未提及兒童餐具、遊戲區或尿布台等具體設施。",
-    "card_summary":  ""
+{
+    " child_seat available": {
+        "result": "Yes",
+        "evidence": "使用者回報親子友善資訊",
+        "confidence": 1
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "用餐環境寬敞，座位不擁擠。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": "Google Maps Attributes: Menu for children",
+        "confidence": 1
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "Google Maps Attributes: Good for children",
+        "confidence": 1
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Yes",
+        "evidence": "使用者回報親子友善資訊",
+        "confidence": 1
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 5,
+    "parent_friendly_level": "高",
+    "reason": "使用者回報親子友善資訊",
+    "generated_signals": [
+        "有兒童椅",
+        "有兒童餐具"
+    ],
+    "generated_summary": "PappaRich金爸爸-南港中信店提供兒童椅與兒童餐具，店內也有兒童餐與寬敞空間，適合親子家庭用餐。",
+    "card_summary": "提供兒童椅、兒童餐具與兒童餐，空間較寬敞。"
 }

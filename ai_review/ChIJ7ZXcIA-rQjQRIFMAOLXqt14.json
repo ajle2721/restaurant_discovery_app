@@ -1,54 +1,52 @@
-﻿{
-    " child_seat available":  {
-                                  "evidence":  "Google 摰?餉??拙??咱?券?",
-                                  "result":  "Yes",
-                                  "confidence":  1
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "空間設計的非常棒，很寬敞。",
-                             "confidence":  0.9
-                         },
-    "Kids menu available":  {
-                                "result":  "Yes",
-                                "evidence":  "不過當天最喜歡的是兒童餐，有水果和布丁，超級豐富，哈哈。",
-                                "confidence":  1.0
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "Good for children (官方標記：適合兒童)",
-                               "confidence":  1.0
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "evidence":  "Google 摰?餉??拙??咱?券?",
-                          "result":  "Yes",
-                          "confidence":  1
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "parent_friendly_score":  5,
-    "parent_friendly_level":  "高",
-    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals":  [
-                              "Menu for children (官方標記：提供兒童餐)",
-                              "Good for children (官方標記：適合兒童)",
-                              "不過當天最喜歡的是兒童餐，有水果和布丁，超級豐富，哈哈。",
-                              "空間設計的非常棒，很寬敞。",
-                              "Google 摰?餉??拙??咱?券?"
-                          ],
-    "generated_summary":  "WIRED CHAYA茶屋南港店環境寬敞舒適，且官方標記適合兒童，並提供豐富的兒童餐點，非常適合親子家庭前往用餐。用餐後還可順道至店內的蔦屋書店閱讀繪本。",
-    "card_summary":  ""
+{
+    " child_seat available": {
+        "result": "Yes",
+        "evidence": "使用者回報親子友善資訊",
+        "confidence": 1
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "使用者回報親子友善資訊",
+        "confidence": 1
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": "不過當天最喜歡的是兒童餐，有水果和布丁，超級豐富，哈哈。",
+        "confidence": 1
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "Good for children (官方標記：適合兒童)",
+        "confidence": 1
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Yes",
+        "evidence": "使用者回報親子友善資訊",
+        "confidence": 1
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 5,
+    "parent_friendly_level": "高",
+    "reason": "使用者回報親子友善資訊",
+    "generated_signals": [
+        "有兒童椅",
+        "有兒童餐具",
+        "空間寬敞"
+    ],
+    "generated_summary": "WIRED CHAYA茶屋 南港店提供兒童椅與兒童餐具，空間寬敞，也有兒童餐紀錄，適合親子家庭用餐。",
+    "card_summary": "提供兒童椅、兒童餐具與兒童餐，空間寬敞。"
 }

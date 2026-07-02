@@ -1,51 +1,52 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "第一次用餐，滿驚豔的 空間舒適寬敞，服務人員態度良好，餐點CP值高，份量超大，兒童餐夠一大一小（3歲）吃",
-                             "confidence":  1
-                         },
-    "Kids menu available":  {
-                                "result":  "Yes",
-                                "evidence":  "第一次用餐，滿驚豔的 空間舒適寬敞，服務人員態度良好，餐點CP值高，份量超大，兒童餐夠一大一小（3歲）吃",
-                                "confidence":  1
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Unknown",
-                               "evidence":  "第一次用餐，滿驚豔的 空間舒適寬敞，服務人員態度良好，餐點CP值高，份量超大，兒童餐夠一大一小（3歲）吃",
-                               "confidence":  1
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Yes",
-                             "evidence":  "店內的氛圍是還不錯的，中間有大螢幕播著棒球比賽、環境很大也算明亮，餐點不會等太久，是線上點餐的方式，店員都很有禮貌，座位有雙人四人還有包廂的，選擇蠻多的，店往前一點就有一個停車場",
-                             "confidence":  0.9
-                         },
-    "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，店內用餐空間規劃寬敞，活動動線舒適。店內提供兒童餐點。此外，店內還設有舒適的獨立包廂空間。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "滿驚豔的 空間舒適寬敞",
-                              "兒童餐夠一大一小（3歲）吃"
-                          ],
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "高",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+{
+    " child_seat available": {
+        "result": "Yes",
+        "evidence": "使用者回報親子友善資訊",
+        "confidence": 1
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "第一次用餐，滿驚豔的 空間舒適寬敞，服務人員態度良好，餐點CP值高，份量超大，兒童餐夠一大一小（3歲）吃",
+        "confidence": 1
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": "第一次用餐，滿驚豔的 空間舒適寬敞，服務人員態度良好，餐點CP值高，份量超大，兒童餐夠一大一小（3歲）吃",
+        "confidence": 1
+    },
+    "kid_noise_tolerant": {
+        "result": "Unknown",
+        "evidence": "第一次用餐，滿驚豔的 空間舒適寬敞，服務人員態度良好，餐點CP值高，份量超大，兒童餐夠一大一小（3歲）吃",
+        "confidence": 1
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Yes",
+        "evidence": "店內的氛圍是還不錯的，中間有大螢幕播著棒球比賽、環境很大也算明亮，餐點不會等太久，是線上點餐的方式，店員都很有禮貌，座位有雙人四人還有包廂的，選擇蠻多的，店往前一點就有一個停車場",
+        "confidence": 0.9
+    },
+    "has_tableware": {
+        "result": "Yes",
+        "evidence": "使用者回報親子友善資訊",
+        "confidence": 1
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "generated_summary": "漫時生活提供兒童椅與兒童餐具，家長分享兒童餐點除了薯條外多為健康食物，適合重視餐點內容的親子家庭。",
+    "card_summary": "提供兒童椅與兒童餐具，兒童餐點除了薯條外多為健康食物。",
+    "generated_signals": [
+        "有兒童椅",
+        "有兒童餐具",
+        "兒童餐點除了薯條外都是健康食物"
+    ],
+    "parent_friendly_score": 4,
+    "parent_friendly_level": "高",
+    "reason": "使用者回報親子友善資訊"
 }

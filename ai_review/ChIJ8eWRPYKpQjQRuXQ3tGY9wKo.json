@@ -1,56 +1,50 @@
-﻿{
-    " child_seat available":  {
-                                  "evidence":  "Google 摰?餉??拙??咱?券?",
-                                  "result":  "Yes",
-                                  "confidence":  1
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "地下室位子滿寬敞的，還有大螢幕可以看球賽。",
-                             "confidence":  0.9
-                         },
-    "Kids menu available":  {
-                                "result":  "Yes",
-                                "evidence":  "Google Maps Attributes",
-                                "confidence":  1.0
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "Google Maps Attributes",
-                               "confidence":  1.0
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "evidence":  "Google 摰?餉??拙??咱?券?",
-                          "result":  "Yes",
-                          "confidence":  1
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "parent_friendly_score":  5,
-    "parent_friendly_level":  "高",
-    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals":  [
-                              "Google Maps Attributes: Menu for children (官方標記：提供兒童餐)",
-                              "牛排早午餐的牛排我沒吃到，但小孩很稱讚",
-                              "地下室位子滿寬敞的，還有大螢幕可以看球賽。",
-                              "週末11點多到，剛坐下，許多小家庭陸陸續續進來",
-                              "Google Maps Attributes: Good for children (官方標記：適合兒童)",
-                              "Google Maps Attributes",
-                              "Google 摰?餉??拙??咱?券?"
-                          ],
-    "generated_summary":  "店內對親子家庭相當友善，不僅官方標記提供兒童餐與適合兒童，評論中也提到有許多小家庭前往用餐。店內地下室空間寬敞，適合家庭聚餐，且環境氛圍熱鬧，適合帶小孩前往。不過，目前評論中未提及兒童餐具、尿布台或遊戲區等具體設施，建議前往前可先向店家確認。",
-    "card_summary":  ""
+{
+    " child_seat available": {
+        "result": "Yes",
+        "evidence": "使用者回報親子友善資訊",
+        "confidence": 1
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "地下室位子滿寬敞的，還有大螢幕可以看球賽。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": "Google Maps Attributes",
+        "confidence": 1
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "Google Maps Attributes",
+        "confidence": 1
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "evidence": "Google 摰?餉??拙??咱?券?",
+        "result": "Yes",
+        "confidence": 1
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 4,
+    "parent_friendly_level": "高",
+    "reason": "使用者回報親子友善資訊",
+    "generated_signals": [
+        "有兒童椅"
+    ],
+    "generated_summary": "Focus kitchen肯恩廚房提供兒童椅，適合需要基本親子座椅設備的家庭用餐。",
+    "card_summary": "提供兒童椅。"
 }

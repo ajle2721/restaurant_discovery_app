@@ -1,50 +1,52 @@
 {
-  " child_seat available": {
-    "result": "Unknown",
-    "evidence": null,
-    "confidence": 0.4
-  },
-  "Spacious seating": {
-    "result": "Unknown",
-    "evidence": null,
-    "confidence": 0.4
-  },
-  "Kids menu available": {
-    "result": "Unknown",
-    "evidence": null,
-    "confidence": 0.4
-  },
-  "kid_noise_tolerant": {
-    "result": "Unknown",
-    "evidence": null,
-    "confidence": 0.4
-  },
-  "has_play_area": {
-    "result": "Unknown",
-    "evidence": null,
-    "confidence": 0.4
-  },
-  "has_private_room": {
-    "result": "Unknown",
-    "evidence": null,
-    "confidence": 0.4
-  },
-  "has_tableware": {
-    "result": "Unknown",
-    "evidence": null,
-    "confidence": 0.4
-  },
-  "has_diaper_table": {
-    "result": "Unknown",
-    "evidence": "位於百貨商場/大樓（110台灣臺北市信義區松仁路58號14樓），商場內設有公共尿布台及哺乳室",
-    "confidence": 1
-  },
-  "generated_summary": "根據評論分析，店內提供的義大利麵等義式餐點口感良好，獲得顧客肯定。店內會提供畫畫用品給小孩使用。",
-  "card_summary": "店內會提供畫畫用品給小孩使用。",
-  "generated_signals": [
-    "使用者回報與人工校正：此連鎖品牌提供畫畫用品"
-  ],
-  "parent_friendly_score": 0,
-  "parent_friendly_level": "資訊不足",
-  "reason": "Google 官方親子標籤與評論/簡介語意關聯分析；使用者回報校正：提供畫畫用品"
+    " child_seat available": {
+        "result": "Yes",
+        "evidence": "使用者回報親子友善資訊",
+        "confidence": 1
+    },
+    "Spacious seating": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": "使用者回報親子友善資訊",
+        "confidence": 1
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "使用者回報親子友善資訊",
+        "confidence": 1
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": "位於百貨商場/大樓（110台灣臺北市信義區松仁路58號14樓），商場內設有公共尿布台及哺乳室",
+        "confidence": 1
+    },
+    "generated_summary": "HOOTERS美式餐廳 信義店提供兒童椅與兒童餐，環境較熱鬧、對孩子聲音較包容，適合親子家庭用餐。",
+    "card_summary": "提供兒童椅與兒童餐，環境較熱鬧且不怕吵。",
+    "generated_signals": [
+        "有兒童椅",
+        "不怕吵",
+        "有兒童餐"
+    ],
+    "parent_friendly_score": 5,
+    "parent_friendly_level": "高",
+    "reason": "使用者回報親子友善資訊"
 }

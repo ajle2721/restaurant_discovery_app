@@ -572,6 +572,10 @@ function getShowResultsPreviewCount() {
         filtered = restaurantData.filter(res => 
             res.district && center.districts.includes(res.district)
         );
+    } else if (center.type === '行政區') {
+        filtered = restaurantData.filter(res => 
+            res.district === center.name
+        );
     } else if (center.type === '多地點') {
         filtered = restaurantData.filter(res => {
             let matched = false;
@@ -625,7 +629,7 @@ function getShowResultsPreviewCount() {
     } else {
         const maxRadius = (center.type === '全市' || center.name === '整個台北市')
             ? 99999
-            : (state.expandedRadius ? (center.type === '行政區' ? 5.0 : 3.0) : (center.type === '行政區' ? 2.5 : 1.5));
+            : (state.expandedRadius ? 3.0 : 1.5);
 
         filtered = restaurantData.filter(res => {
             const distance = calculateDistance(center.lat, center.lng, res.latitude, res.longitude);
@@ -2159,6 +2163,10 @@ async function renderResults() {
             filtered = restaurants.filter(res => 
                 res.district && center.districts.includes(res.district)
             );
+        } else if (center.type === '行政區') {
+            filtered = restaurants.filter(res => 
+                res.district === center.name
+            );
         } else if (center.type === '多地點') {
             filtered = restaurants.filter(res => {
                 let matched = false;
@@ -2216,9 +2224,9 @@ async function renderResults() {
                 (res.district && res.district.toLowerCase().includes(q))
             );
         } else {
-            let maxRadius = (center.type === '全市' || center.name === '整個台北市') ? 99999 : ((center.type === '行政區') ? 2.5 : 1.5);
+            let maxRadius = (center.type === '全市' || center.name === '整個台北市') ? 99999 : 1.5;
             if (state.expandedRadius) {
-                maxRadius = (center.type === '全市' || center.name === '整個台北市') ? 99999 : ((center.type === '行政區') ? 5.0 : 3.0);
+                maxRadius = (center.type === '全市' || center.name === '整個台北市') ? 99999 : 3.0;
             }
             filtered = restaurants.filter(res => res.distance <= maxRadius);
         }
@@ -2357,7 +2365,7 @@ async function renderResults() {
                     recommendation = '您可以考慮減少篩選條件以獲得更多推薦。';
                 }
 
-                const isWholeCity = (center.type === '全市' || center.name === '整個台北市' || center.type === '多行政區');
+                const isWholeCity = (center.type === '全市' || center.name === '整個台北市' || center.type === '多行政區' || center.type === '行政區');
                 let expandHtml = '';
                 if (!isWholeCity) {
                     if (!state.expandedRadius) {
