@@ -43,6 +43,7 @@ const safeLocal = {
 const state = {
     filters: new Set(),
     cuisineFilter: new Set(),
+    priceFilter: new Set(),
     searchLocation: null, // {name, lat, lng, type, district}
     userLocation: null, // {lat, lng}
     lastGeographicLocation: null, // {name, lat, lng, type, district}
@@ -484,6 +485,290 @@ function matchesCuisineFilter(res) {
     return getCuisineGroupValues(res).some(cuisine => state.cuisineFilter.has(cuisine));
 }
 
+function hasPriceFilters() {
+    return state.priceFilter && state.priceFilter.size > 0;
+}
+
+const brandPriceOverrides = {
+    // New Overrides
+    "雞湯桑": "PRICE_LEVEL_INEXPENSIVE",
+    "Torisan": "PRICE_LEVEL_INEXPENSIVE",
+    "筷炒": "PRICE_LEVEL_MODERATE",
+    "KUAICHAO": "PRICE_LEVEL_MODERATE",
+    "PappaRich": "PRICE_LEVEL_MODERATE",
+    "PappaRich金爸爸": "PRICE_LEVEL_MODERATE",
+    "SHANN SHANN": "PRICE_LEVEL_MODERATE",
+    "小香": "PRICE_LEVEL_MODERATE",
+    "URBAN PARADISE": "PRICE_LEVEL_EXPENSIVE",
+    "鴨覓": "PRICE_LEVEL_EXPENSIVE",
+    "嵩": "PRICE_LEVEL_EXPENSIVE",
+    "sung": "PRICE_LEVEL_EXPENSIVE",
+    
+    // User requested unifications
+    "TGI FRIDAYS": "PRICE_LEVEL_MODERATE",
+    "TGI": "PRICE_LEVEL_MODERATE",
+    "星期五美式餐廳": "PRICE_LEVEL_MODERATE",
+    "金色三麥": "PRICE_LEVEL_MODERATE",
+    "UMAMI": "PRICE_LEVEL_MODERATE",
+    "HOOTERS美式餐廳": "PRICE_LEVEL_MODERATE",
+    "HOOTERS": "PRICE_LEVEL_MODERATE",
+    "波赫士領地精品咖啡館": "PRICE_LEVEL_MODERATE",
+    "早吧": "PRICE_LEVEL_INEXPENSIVE",
+    "Morning Bar": "PRICE_LEVEL_INEXPENSIVE",
+    "渣男": "PRICE_LEVEL_MODERATE",
+    "美術系壽司": "PRICE_LEVEL_MODERATE",
+    
+    // Latest requests
+    "淪陷": "PRICE_LEVEL_MODERATE",
+    "淪陷串酒社": "PRICE_LEVEL_MODERATE",
+    "大衛小小羊": "PRICE_LEVEL_MODERATE",
+    "阿緹卡": "PRICE_LEVEL_MODERATE",
+    "朱里昂": "PRICE_LEVEL_MODERATE",
+    "馬友友": "PRICE_LEVEL_MODERATE",
+    "馬友友印度廚房": "PRICE_LEVEL_MODERATE",
+    "The Quiet Light": "PRICE_LEVEL_INEXPENSIVE",
+    "默光咖啡": "PRICE_LEVEL_INEXPENSIVE",
+    "Cloud 9 Cafe": "PRICE_LEVEL_INEXPENSIVE",
+    "Cloud 9": "PRICE_LEVEL_INEXPENSIVE",
+    
+    // 王品集團
+    "王品": "PRICE_LEVEL_EXPENSIVE",
+    "西堤": "PRICE_LEVEL_MODERATE",
+    "陶板屋": "PRICE_LEVEL_MODERATE",
+    "夏慕尼": "PRICE_LEVEL_EXPENSIVE",
+    "原燒": "PRICE_LEVEL_MODERATE",
+    "聚": "PRICE_LEVEL_MODERATE",
+    "藝奇": "PRICE_LEVEL_MODERATE",
+    "享鴨": "PRICE_LEVEL_MODERATE",
+    "青花驕": "PRICE_LEVEL_EXPENSIVE",
+    "莆田": "PRICE_LEVEL_MODERATE",
+    "丰禾": "PRICE_LEVEL_MODERATE",
+    "和牛涮": "PRICE_LEVEL_EXPENSIVE",
+    "肉次方": "PRICE_LEVEL_MODERATE",
+    "初瓦": "PRICE_LEVEL_MODERATE",
+    "嚮辣": "PRICE_LEVEL_EXPENSIVE",
+    // 饗賓餐旅
+    "饗食天堂": "PRICE_LEVEL_EXPENSIVE",
+    "饗饗": "PRICE_LEVEL_VERY_EXPENSIVE",
+    "旭集": "PRICE_LEVEL_VERY_EXPENSIVE",
+    "果然匯": "PRICE_LEVEL_MODERATE",
+    "開飯": "PRICE_LEVEL_MODERATE",
+    "開飯川食堂": "PRICE_LEVEL_MODERATE",
+    "饗泰多": "PRICE_LEVEL_MODERATE",
+    "真珠": "PRICE_LEVEL_MODERATE",
+    "小福利": "PRICE_LEVEL_MODERATE",
+    // 瓦城泰統
+    "瓦城": "PRICE_LEVEL_MODERATE",
+    "非常泰": "PRICE_LEVEL_MODERATE",
+    "1010湘": "PRICE_LEVEL_MODERATE",
+    "時時香": "PRICE_LEVEL_MODERATE",
+    "YABI": "PRICE_LEVEL_MODERATE",
+    "樂子": "PRICE_LEVEL_MODERATE",
+    // 乾杯集團
+    "乾杯": "PRICE_LEVEL_MODERATE",
+    "老乾杯": "PRICE_LEVEL_EXPENSIVE",
+    "黑毛屋": "PRICE_LEVEL_EXPENSIVE",
+    "麻辣45": "PRICE_LEVEL_EXPENSIVE",
+    // 馬辣集團
+    "馬辣": "PRICE_LEVEL_EXPENSIVE",
+    "新馬辣": "PRICE_LEVEL_EXPENSIVE",
+    "問鼎": "PRICE_LEVEL_EXPENSIVE",
+    "涮樂和牛": "PRICE_LEVEL_MODERATE",
+    "狗一下": "PRICE_LEVEL_MODERATE",
+    // 漢來集團
+    "漢來": "PRICE_LEVEL_MODERATE",
+    // 其他中高價名店
+    "鼎泰豐": "PRICE_LEVEL_MODERATE",
+    "點點心": "PRICE_LEVEL_MODERATE",
+    "添好運": "PRICE_LEVEL_MODERATE",
+    "高記": "PRICE_LEVEL_MODERATE",
+    "春水堂": "PRICE_LEVEL_MODERATE",
+    "貳樓": "PRICE_LEVEL_MODERATE",
+    "樂雅樂": "PRICE_LEVEL_MODERATE",
+    "Mo-Mo-Paradise": "PRICE_LEVEL_MODERATE",
+    "壽司郎": "PRICE_LEVEL_MODERATE",
+    "藏壽司": "PRICE_LEVEL_MODERATE",
+    "欣葉": "PRICE_LEVEL_MODERATE",
+    "一風堂": "PRICE_LEVEL_MODERATE",
+    "屯京拉麵": "PRICE_LEVEL_MODERATE",
+    "花月嵐": "PRICE_LEVEL_MODERATE",
+    "大戶屋": "PRICE_LEVEL_MODERATE",
+    "彌生軒": "PRICE_LEVEL_MODERATE",
+    "YAYOI": "PRICE_LEVEL_MODERATE",
+    "點爭鮮": "PRICE_LEVEL_MODERATE",
+    "吉野家": "PRICE_LEVEL_INEXPENSIVE",
+    "薩莉亞": "PRICE_LEVEL_INEXPENSIVE",
+    "爭鮮": "PRICE_LEVEL_INEXPENSIVE",
+    "定食8": "PRICE_LEVEL_INEXPENSIVE",
+    "福勝亭": "PRICE_LEVEL_INEXPENSIVE",
+    "三商巧福": "PRICE_LEVEL_INEXPENSIVE",
+    "麥當勞": "PRICE_LEVEL_INEXPENSIVE",
+    "摩斯": "PRICE_LEVEL_INEXPENSIVE",
+    "摩斯漢堡": "PRICE_LEVEL_INEXPENSIVE",
+    "肯德基": "PRICE_LEVEL_INEXPENSIVE",
+    "SUBWAY": "PRICE_LEVEL_INEXPENSIVE",
+    "稻舍": "PRICE_LEVEL_MODERATE",
+    "稻舍食館": "PRICE_LEVEL_MODERATE"
+};
+
+const brandPricesPropagated = {};
+const overrideKeys = Object.keys(brandPriceOverrides).sort((a, b) => b.length - a.length);
+
+function initBrandPricesPropagated() {
+    if (typeof restaurantData === 'undefined' || !restaurantData) return;
+    restaurantData.forEach(r => {
+        if (r.price_level) {
+            const brand = getBrandName(r.name);
+            if (brand) {
+                brandPricesPropagated[brand] = r.price_level;
+            }
+        }
+    });
+}
+
+function getBrandName(name) {
+    if (!name) return "";
+    let cleanName = name.trim();
+    if (cleanName.toLowerCase().startsWith("the ")) {
+        cleanName = cleanName.substring(4).trim();
+    } else if (cleanName.toLowerCase().startsWith("a ")) {
+        cleanName = cleanName.substring(2).trim();
+    } else if (cleanName.toLowerCase().startsWith("an ")) {
+        cleanName = cleanName.substring(3).trim();
+    }
+    
+    const firstPart = cleanName.split(/\s+/)[0];
+    if (firstPart) {
+        return firstPart.split('-')[0].split('—')[0].split('~')[0].split('－')[0].split('–')[0];
+    }
+    return "";
+}
+
+function inferPriceLevel(res) {
+    const name = (res.name || '').trim();
+    
+    // 1. Check manual overrides (longest keys first)
+    for (const key of overrideKeys) {
+        if (name.includes(key)) {
+            return brandPriceOverrides[key];
+        }
+    }
+
+    if (res.price_level) return res.price_level;
+    
+    // 2. Check propagated brand prices
+    const brand = getBrandName(name);
+    if (Object.keys(brandPricesPropagated).length === 0) {
+        initBrandPricesPropagated();
+    }
+    if (brand && brandPricesPropagated[brand]) {
+        return brandPricesPropagated[brand];
+    }
+    
+    // 3. Keyword/cuisine-based inference
+    const cuisine = (res.cuisine || '').toLowerCase();
+    const summary = (res.card_summary || '').toLowerCase();
+    const nameLower = name.toLowerCase();
+    
+    // Expensive keywords
+    const expensiveKeywords = ["私廚", "無菜單", "預約制", "高級", "高檔", "頂級", "奢華", "餐酒館", "和牛", "板前", "bistronomy", "bistro", "fine dining", "omakase"];
+    const isExpensive = expensiveKeywords.some(kw => nameLower.includes(kw) || cuisine.includes(kw) || summary.includes(kw));
+    if (isExpensive) {
+        return 'PRICE_LEVEL_EXPENSIVE';
+    }
+
+    // Moderate keywords (300 - 800)
+    const moderateKeywords = [
+        "咖啡", "下午茶", "義大利", "義大利麵", "披薩", "火鍋", "燒肉", "牛排", "鐵板燒",
+        "義式", "韓式", "日式", "泰式", "美式", "早午餐", "西餐", 
+        "歐式", "德式", "法式", "印式", "墨式", "地中海", "港式", "茶餐廳",
+        "brunch", "cafe", "pasta", "pizza", "shabu", "hotpot", "steak", "bbq", "ramen"
+    ];
+    const isModerate = moderateKeywords.some(kw => nameLower.includes(kw) || cuisine.includes(kw) || summary.includes(kw));
+    if (isModerate) {
+        return 'PRICE_LEVEL_MODERATE';
+    }
+
+    // Inexpensive by default (under 300)
+    return 'PRICE_LEVEL_INEXPENSIVE';
+}
+
+const dualPriceBrands = new Set([
+    "雙月食品社",
+    "雙月",
+    "雞湯桑",
+    "Torisan",
+    "芝生食堂",
+    "波赫士領地精品咖啡館",
+    "波赫士領地",
+    "安德烈廚房",
+    "André Fine Food",
+    "葉子異國小廚坊",
+    "葉子異國",
+    "大戶屋",
+    "OOTOYA",
+    "樂麵屋",
+    "Rakumenya"
+]);
+
+const mediumHighPriceBrands = new Set([
+    "TGI FRIDAYS",
+    "TGI",
+    "星期五美式餐廳",
+    "金色三麥",
+    "UMAMI",
+    "HOOTERS美式餐廳",
+    "HOOTERS"
+]);
+
+function isStrictlyHighEnd(res) {
+    if (!res) return false;
+    const name = res.name || '';
+    
+    // 1. If Google Maps explicitly rated it as Expensive/Very Expensive ($$$ or $$$$)
+    if (res.price_level === 'PRICE_LEVEL_EXPENSIVE' || res.price_level === 'PRICE_LEVEL_VERY_EXPENSIVE') {
+        return true;
+    }
+    
+    // 2. Known premium high-end brands (Wang Prime, Sheraton, Grand Hyatt, Orange Shabu, etc.)
+    const highEndKeywords = [
+        "喜來登", "王品", "橘色", "夏慕尼", "嚮辣", "饗饗", "旭集", 
+        "老乾杯", "黑毛屋", "麻辣45", "馬辣", "新馬辣", "問鼎", 
+        "和牛涮", "青花驕", "饗食天堂", "寒舍艾美", "晶華", 
+        "君悅", "美福", "六福", "故宮晶華", "凱達"
+    ];
+    
+    return highEndKeywords.some(kw => name.includes(kw));
+}
+
+function matchesPriceFilter(res) {
+    if (!hasPriceFilters()) return true;
+    const price = inferPriceLevel(res);
+    
+    const allowedGroups = new Set([price]);
+    if (price === 'PRICE_LEVEL_VERY_EXPENSIVE') {
+        allowedGroups.add('PRICE_LEVEL_EXPENSIVE');
+    }
+    
+    // Dual price boundary cases (low-medium)
+    const name = (res.name || '');
+    const isDual = Array.from(dualPriceBrands).some(brand => name.includes(brand));
+    if (isDual) {
+        allowedGroups.add('PRICE_LEVEL_INEXPENSIVE');
+        allowedGroups.add('PRICE_LEVEL_MODERATE');
+    }
+    
+    // Dual price boundary cases (medium-high)
+    const isMediumHighBrand = Array.from(mediumHighPriceBrands).some(brand => name.includes(brand));
+    const isMediumHighInferred = (price === 'PRICE_LEVEL_EXPENSIVE' || price === 'PRICE_LEVEL_VERY_EXPENSIVE') && !isStrictlyHighEnd(res);
+    if (isMediumHighBrand || isMediumHighInferred) {
+        allowedGroups.add('PRICE_LEVEL_MODERATE');
+        allowedGroups.add('PRICE_LEVEL_EXPENSIVE');
+    }
+    
+    return Array.from(state.priceFilter).some(userPrice => allowedGroups.has(userPrice));
+}
+
 function getCuisineFilterLabel(cuisine) {
     const labels = {
         '台式/中式料理': '台式/中式',
@@ -549,7 +834,7 @@ function updateShowResultsButton(matchCount = 0) {
     const btnShowResults = document.getElementById('btn-show-results');
     if (!btnShowResultsContainer || !btnShowResults) return;
 
-    const hasActiveFilters = (state.filters && state.filters.size > 0) || hasCuisineFilters();
+    const hasActiveFilters = (state.filters && state.filters.size > 0) || hasCuisineFilters() || hasPriceFilters();
     const shouldShow = isAreaSearchLocation(state.searchLocation)
         && hasActiveFilters
         && matchCount > 0;
@@ -562,7 +847,7 @@ function updateShowResultsButton(matchCount = 0) {
 
 function getShowResultsPreviewCount() {
     if (!state.searchLocation) return 0;
-    const hasActiveFilters = (state.filters && state.filters.size > 0) || hasCuisineFilters();
+    const hasActiveFilters = (state.filters && state.filters.size > 0) || hasCuisineFilters() || hasPriceFilters();
     if (!hasActiveFilters) return 0;
     if (typeof restaurantData === 'undefined' || !restaurantData) return 0;
 
@@ -637,7 +922,7 @@ function getShowResultsPreviewCount() {
         });
     }
 
-    filtered = filtered.filter(matchesCuisineFilter);
+    filtered = filtered.filter(matchesCuisineFilter).filter(matchesPriceFilter);
 
     if (!state.filters || state.filters.size === 0) {
         return filtered.length;
@@ -813,7 +1098,7 @@ function setupEventListeners() {
     });
 
     // Filter Chips
-    document.querySelectorAll('.filter-chip').forEach(chip => {
+    document.querySelectorAll('.filter-chip:not(.price-chip)').forEach(chip => {
         chip.addEventListener('click', () => {
             const filter = chip.dataset.filter;
             let action = 'select';
@@ -835,6 +1120,37 @@ function setupEventListeners() {
             setTimeout(() => {
                 trackEvent('use_filter', {
                     filter_name: filterMap[filter] || filter,
+                    action: action
+                });
+                
+                renderResults();
+                updateUrl();
+            }, 20);
+        });
+    });
+
+    // Price Chips
+    document.querySelectorAll('.price-chip').forEach(chip => {
+        chip.addEventListener('click', () => {
+            const price = chip.dataset.price;
+            let action = 'select';
+            
+            if (state.priceFilter.has(price)) {
+                state.priceFilter.delete(price);
+                chip.classList.remove('active');
+                action = 'deselect';
+            } else {
+                state.priceFilter.add(price);
+                chip.classList.add('active');
+            }
+            
+            state.recommendedLimit = 30; // Reset pagination limit
+            state.othersLimit = 30; // Reset pagination limit
+            refreshShowResultsButton();
+            
+            setTimeout(() => {
+                trackEvent('use_price_filter', {
+                    price_level: price,
                     action: action
                 });
                 
@@ -906,7 +1222,9 @@ function setupEventListeners() {
     if (clearAllFiltersBtn) {
         clearAllFiltersBtn.addEventListener('click', () => {
             state.filters.clear();
-            document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
+            state.priceFilter.clear();
+            document.querySelectorAll('.filter-chip:not(.price-chip)').forEach(c => c.classList.remove('active'));
+            document.querySelectorAll('.price-chip').forEach(c => c.classList.remove('active'));
             state.recommendedLimit = 30; // Reset pagination limit
             state.othersLimit = 30; // Reset pagination limit
             refreshShowResultsButton();
@@ -973,12 +1291,14 @@ function setupEventListeners() {
         resetViewedRestaurantCount();
         state.filters.clear();
         state.cuisineFilter.clear();
+        state.priceFilter.clear();
         state.hideLowQualityMarkers = true; // Reset to default: hide low quality
         state.showOthers = false; // Reset to default: hide others list
         state.recommendedLimit = 30; // Reset pagination limit
         state.othersLimit = 30; // Reset pagination limit
         
-        document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
+        document.querySelectorAll('.filter-chip:not(.price-chip)').forEach(c => c.classList.remove('active'));
+        document.querySelectorAll('.price-chip').forEach(c => c.classList.remove('active'));
         updateCuisineFilterUI({ expand: false });
         const clearAllFiltersBtn = document.getElementById('clear-all-filters');
         if (clearAllFiltersBtn) clearAllFiltersBtn.classList.add('hidden');
@@ -1073,11 +1393,11 @@ function setupEventListeners() {
             if (filter) {
                 state.filters.add(filter);
                 // Sync UI chips
-                document.querySelectorAll('.filter-chip').forEach(chip => {
+                document.querySelectorAll('.filter-chip:not(.price-chip)').forEach(chip => {
                     chip.classList.toggle('active', chip.dataset.filter === filter);
                 });
             } else {
-                document.querySelectorAll('.filter-chip').forEach(chip => chip.classList.remove('active'));
+                document.querySelectorAll('.filter-chip:not(.price-chip)').forEach(chip => chip.classList.remove('active'));
             }
 
             const locObj = state.locationData.find(l => l.name === locName);
@@ -2093,9 +2413,24 @@ async function renderResults() {
             activeFiltersBar.innerHTML = '';
             const hasFilters = state.filters && state.filters.size > 0;
             const hasCuisine = hasCuisineFilters();
+            const hasPrice = hasPriceFilters();
 
-            if (hasFilters || hasCuisine) {
+            if (hasFilters || hasCuisine || hasPrice) {
                 activeFiltersBar.classList.remove('hidden');
+
+                if (hasPrice) {
+                    const priceLabels = {
+                        'PRICE_LEVEL_INEXPENSIVE': '💰 平價',
+                        'PRICE_LEVEL_MODERATE': '💵 中價',
+                        'PRICE_LEVEL_EXPENSIVE': '💎 高檔'
+                    };
+                    state.priceFilter.forEach(price => {
+                        const indicator = document.createElement('span');
+                        indicator.className = 'filter-indicator-mini filter-price-indicator';
+                        indicator.textContent = priceLabels[price] || price;
+                        activeFiltersBar.appendChild(indicator);
+                    });
+                }
 
                 if (hasCuisine) {
                     const cuisineEmojis = {
@@ -2232,7 +2567,7 @@ async function renderResults() {
         }
 
         // Apply cuisine filter if active
-        filtered = filtered.filter(matchesCuisineFilter);
+        filtered = filtered.filter(matchesCuisineFilter).filter(matchesPriceFilter);
 
         if (filtered.length === 0) {
             updateShowResultsButton(0);
@@ -2410,7 +2745,7 @@ async function renderResults() {
         // Update Clear Filters button visibility
         const clearAllFiltersBtn = document.getElementById('clear-all-filters');
         if (clearAllFiltersBtn) {
-            clearAllFiltersBtn.classList.toggle('hidden', state.filters.size === 0);
+            clearAllFiltersBtn.classList.toggle('hidden', state.filters.size === 0 && state.priceFilter.size === 0);
         }
 
         const hideMarkersToggle = document.getElementById('hide-others-markers');
@@ -2618,13 +2953,24 @@ function renderCard(res, container, overrideLevel) {
         }
     }
 
-    const priceSymbol = priceSymbols[res.price_level];
+    const inferredPrice = inferPriceLevel(res);
+    let priceSymbol = priceSymbols[inferredPrice];
+    const name = res.name || '';
+    const isDual = Array.from(dualPriceBrands).some(brand => name.includes(brand));
+    const isMediumHighBrand = Array.from(mediumHighPriceBrands).some(brand => name.includes(brand));
+    const isMediumHighInferred = (inferredPrice === 'PRICE_LEVEL_EXPENSIVE' || inferredPrice === 'PRICE_LEVEL_VERY_EXPENSIVE') && !isStrictlyHighEnd(res);
+    const isMediumHigh = isMediumHighBrand || isMediumHighInferred;
+    if (isDual) {
+        priceSymbol = '$ ~ $$';
+    } else if (isMediumHigh) {
+        priceSymbol = '$$ ~ $$$';
+    }
     const metaParts = [];
     if (res.cuisine) {
         metaParts.push(`<span class="card-cuisine">${res.cuisine}</span>`);
     }
     if (priceSymbol) {
-        metaParts.push(`<span class="card-price" title="${res.price_level}">${priceSymbol}</span>`);
+        metaParts.push(`<span class="card-price" title="${(isDual || isMediumHigh) ? 'PRICE_LEVEL_DUAL' : inferredPrice}">${priceSymbol}</span>`);
     }
 
     const metaHtml = metaParts.join('<span class="card-meta-dot">·</span>');
@@ -3044,7 +3390,18 @@ function renderDetailContent(restaurant) {
     const isApp = isInAppBrowser();
     const mapTarget = isApp ? '_self' : '_blank';
 
-    const priceSymbol = priceSymbols[restaurant.price_level];
+    const inferredPrice = inferPriceLevel(restaurant);
+    let priceSymbol = priceSymbols[inferredPrice];
+    const name = restaurant.name || '';
+    const isDual = Array.from(dualPriceBrands).some(brand => name.includes(brand));
+    const isMediumHighBrand = Array.from(mediumHighPriceBrands).some(brand => name.includes(brand));
+    const isMediumHighInferred = (inferredPrice === 'PRICE_LEVEL_EXPENSIVE' || inferredPrice === 'PRICE_LEVEL_VERY_EXPENSIVE') && !isStrictlyHighEnd(restaurant);
+    const isMediumHigh = isMediumHighBrand || isMediumHighInferred;
+    if (isDual) {
+        priceSymbol = '$ ~ $$';
+    } else if (isMediumHigh) {
+        priceSymbol = '$$ ~ $$$';
+    }
     const detailMetaParts = [];
     if (restaurant.cuisine) {
         detailMetaParts.push(restaurant.cuisine);
@@ -3755,6 +4112,9 @@ function getShareUrl() {
     if (hasCuisineFilters()) {
         state.cuisineFilter.forEach(cuisine => params.append('cuisine', cuisine));
     }
+    if (hasPriceFilters()) {
+        state.priceFilter.forEach(price => params.append('price', price));
+    }
     if (state.view === 'detail' && state.selectedRestaurant) {
         params.set('r', state.selectedRestaurant.place_id);
     }
@@ -3815,6 +4175,13 @@ function urlMatchesCurrentState(params) {
         if (!state.cuisineFilter.has(cuisine)) return false;
     }
 
+    // Check price
+    const urlPrices = params.getAll('price');
+    if (urlPrices.length !== state.priceFilter.size) return false;
+    for (let price of urlPrices) {
+        if (!state.priceFilter.has(price)) return false;
+    }
+
     return true;
 }
 
@@ -3873,7 +4240,7 @@ function syncStateFromUrl(isInitialLoad = false, animate = false) {
         state.othersLimit = 30; // Reset pagination limit
         // 2. 恢復過濾條件
         state.filters.clear();
-        document.querySelectorAll('.filter-chip').forEach(c => c.classList.remove('active'));
+        document.querySelectorAll('.filter-chip:not(.price-chip)').forEach(c => c.classList.remove('active'));
         params.getAll('f').forEach(f => {
             state.filters.add(f);
             const chip = document.querySelector(`.filter-chip[data-filter="${f}"]`);
@@ -3884,6 +4251,15 @@ function syncStateFromUrl(isInitialLoad = false, animate = false) {
         state.cuisineFilter.clear();
         params.getAll('cuisine').forEach(cuisine => state.cuisineFilter.add(cuisine));
         updateCuisineFilterUI({ expand: false });
+
+        // 2.7 恢復價位過濾條件
+        state.priceFilter.clear();
+        document.querySelectorAll('.price-chip').forEach(c => c.classList.remove('active'));
+        params.getAll('price').forEach(price => {
+            state.priceFilter.add(price);
+            const chip = document.querySelector(".price-chip[data-price=\"" + price + "\"]");
+            if (chip) chip.classList.add('active');
+        });
 
         // 3. 恢復搜尋地點
         const locName = params.get('loc');
@@ -3988,6 +4364,9 @@ function syncStateFromUrl(isInitialLoad = false, animate = false) {
             
             state.cuisineFilter.clear();
             updateCuisineFilterUI({ expand: false });
+            
+            state.priceFilter.clear();
+            document.querySelectorAll('.price-chip').forEach(c => c.classList.remove('active'));
 
             const trendingSection = document.querySelector('.trending-section');
             if (trendingSection) trendingSection.classList.remove('hidden');

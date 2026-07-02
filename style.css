@@ -1,4 +1,4 @@
-﻿:root {
+:root {
     --primary: #F6846F;
     --primary-light: #FBC1B4;
     --primary-dark: #DF6B55;
@@ -3951,5 +3951,28 @@ body {
 
 .restaurant-card:hover .card-detail-hint {
     color: var(--primary-dark);
+}
+
+/* Price Filters Layout (Single row for both desktop & mobile) */
+.price-filters-container {
+    display: flex;
+    gap: 0.5rem;
+    width: 100%;
+    flex-wrap: nowrap;
+}
+
+.price-filters-container .price-chip {
+    flex: 1 1 0;
+    justify-content: center;
+    white-space: nowrap;
+    font-size: 0.85rem;
+    padding: 0.75rem 0.25rem;
+}
+
+@media (max-width: 400px) {
+    .price-filters-container .price-chip {
+        font-size: 0.75rem;
+        padding: 0.75rem 0.15rem;
+    }
 }
 
