@@ -1,53 +1,54 @@
-﻿{
-    " child_seat available":  {
-                                  "evidence":  "Google 摰?餉??拙??咱?券?",
-                                  "result":  "Yes",
-                                  "confidence":  1
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "座位配置也比以前更寬敞",
-                             "confidence":  0.8
-                         },
-    "Kids menu available":  {
-                                "result":  "Yes",
-                                "evidence":  "Google 官方登記提供兒童餐點",
-                                "confidence":  1
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "Google 官方登記適合兒童用餐",
-                               "confidence":  1
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "evidence":  "Google 摰?餉??拙??咱?券?",
-                          "result":  "Yes",
-                          "confidence":  1
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，用餐環境整潔，衛生維持良好。店內提供兒童餐點。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "座位配置也比以前更寬敞",
-                              "Google 官方登記提供兒童餐點",
-                              "Google 官方登記適合兒童用餐",
-                              "Google 摰?餉??拙??咱?券?"
-                          ],
-    "parent_friendly_score":  5,
-    "parent_friendly_level":  "高",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+{
+    " child_seat available": {
+        "evidence": "使用者回報：定食 8 台北市各分店有兒童椅",
+        "result": "Yes",
+        "confidence": 1
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "使用者回報：定食 8 台北市各分店空間寬敞",
+        "confidence": 1
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": "使用者回報：定食 8 台北市各分店有兒童餐",
+        "confidence": 1
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "使用者回報：定食 8 台北市各分店不怕吵",
+        "confidence": 1
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "evidence": "使用者回報：定食 8 台北市各分店有兒童餐具",
+        "result": "Yes",
+        "confidence": 1
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "generated_summary": "定食 8 提供兒童椅、兒童餐具與兒童餐，座位配置較寬敞，環境對孩子聲音較包容，適合親子家庭用餐。",
+    "card_summary": "提供兒童椅、兒童餐具與兒童餐，空間寬敞且不怕小孩吵。",
+    "generated_signals": [
+        "使用者回報：定食 8 台北市各分店有兒童椅",
+        "使用者回報：定食 8 台北市各分店有兒童餐具",
+        "使用者回報：定食 8 台北市各分店有兒童餐",
+        "使用者回報：定食 8 台北市各分店不怕吵",
+        "使用者回報：定食 8 台北市各分店空間寬敞"
+    ],
+    "parent_friendly_score": 5,
+    "parent_friendly_level": "高",
+    "reason": "使用者回報親子設施與用餐環境資訊"
 }

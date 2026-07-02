@@ -32,6 +32,7 @@ const temporarilyHiddenPlaceIds = new Set([
 ]);
 
 temporarilyHiddenPlaceIds.add("ChIJXUuOM7mrQjQRUTsJAPEerr0"); // Micky House Brunch, closed
+temporarilyHiddenPlaceIds.add("ChIJjXjbqvqpQjQRe_vZGgCX438"); // 復唧集時尚咖啡廳, closed
 
 const columns = [
   "place_id",

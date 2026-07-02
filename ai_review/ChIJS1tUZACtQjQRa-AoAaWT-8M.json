@@ -1,53 +1,53 @@
-﻿{
-    " child_seat available":  {
-                                  "evidence":  "Google 摰?餉??拙??咱?券?",
-                                  "result":  "Yes",
-                                  "confidence":  1
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "但座位安排得很寬敞",
-                             "confidence":  0.8
-                         },
-    "Kids menu available":  {
-                                "result":  "Yes",
-                                "evidence":  "Google 官方登記提供兒童餐點",
-                                "confidence":  1
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "Google 官方登記適合兒童用餐",
-                               "confidence":  1
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "evidence":  "Google 摰?餉??拙??咱?券?",
-                          "result":  "Yes",
-                          "confidence":  1
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，服務人員接待熱忱、服務態度良好。店內提供兒童餐點。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "但座位安排得很寬敞",
-                              "Google 官方登記提供兒童餐點",
-                              "Google 官方登記適合兒童用餐",
-                              "Google 摰?餉??拙??咱?券?"
-                          ],
-    "parent_friendly_score":  5,
-    "parent_friendly_level":  "高",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+{
+    "child_seat available": {
+        "result": "Yes",
+        "evidence": "使用者回報：有兒童椅",
+        "confidence": 1
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "但座位安排得很寬敞",
+        "confidence": 0.8
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": "Google 官方登記提供兒童餐點",
+        "confidence": 1
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "使用者回報：店家友善接待小朋友",
+        "confidence": 1
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "generated_summary": "令和博多拉麵提供兒童椅與兒童餐點，座位安排較寬敞，店家也友善接待小朋友，適合親子家庭用餐。",
+    "card_summary": "有兒童椅與兒童餐點，座位較寬敞，店家友善接待小朋友。",
+    "generated_signals": [
+        "使用者回報：有兒童椅",
+        "使用者回報：店家友善接待小朋友",
+        "但座位安排得很寬敞",
+        "Google 官方登記提供兒童餐點"
+    ],
+    "parent_friendly_score": 5,
+    "parent_friendly_level": "高",
+    "reason": "使用者回報補充親子設施，並結合既有親子標籤與評論/簡介語意分析"
 }

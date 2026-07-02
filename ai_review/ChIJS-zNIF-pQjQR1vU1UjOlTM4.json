@@ -1,52 +1,55 @@
-﻿{
-    " child_seat available":  {
-                                  "evidence":  "Google 摰?餉??拙??咱?券?",
-                                  "result":  "Yes",
-                                  "confidence":  1
-                              },
-    "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  "整體來說體驗非常好，內用環境乾淨舒適，空間也大，相當適合三五好友聚會聊天吃美食。",
-                             "confidence":  1
-                         },
-    "Kids menu available":  {
-                                "result":  "Yes",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  null,
-                               "confidence":  0.4
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "evidence":  "Google 摰?餉??拙??咱?券?",
-                          "result":  "Yes",
-                          "confidence":  1
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，獲得好評。店內提供兒童餐點。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "Google 官方登記提供兒童餐點",
-                              "Google 官方登記適合兒童用餐",
-                              "Google 摰?餉??拙??咱?券?"
-                          ],
-    "parent_friendly_score":  4,
-    "parent_friendly_level":  "高",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+{
+    " child_seat available": {
+        "result": "Yes",
+        "evidence": "使用者回報：威尼斯義大利餐廳有兒童椅",
+        "confidence": 1
+    },
+    "Spacious seating": {
+        "result": "Unknown",
+        "evidence": "既有評論提及內用環境乾淨舒適、空間較大，適合聚會",
+        "confidence": 0.6
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": "既有資料標示提供兒童餐點",
+        "confidence": 0.8
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "既有資料標示適合兒童用餐",
+        "confidence": 0.8
+    },
+    "has_play_area": {
+        "result": "Likely",
+        "evidence": "使用者回報：店內有童書區",
+        "confidence": 0.8
+    },
+    "has_private_room": {
+        "result": "Venue",
+        "evidence": "使用者回報：適合包場辦兒童活動",
+        "confidence": 1
+    },
+    "has_tableware": {
+        "result": "Yes",
+        "evidence": "使用者回報：威尼斯義大利餐廳有兒童餐具",
+        "confidence": 1
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "generated_summary": "威尼斯義大利餐廳提供兒童椅與兒童餐具，並有兒童餐點紀錄，適合親子家庭用餐。店內設有童書區，也適合包場辦兒童活動。",
+    "card_summary": "提供兒童椅與兒童餐具，店內有童書區，也適合包場辦兒童活動。",
+    "generated_signals": [
+        "使用者回報：威尼斯義大利餐廳有兒童椅",
+        "使用者回報：威尼斯義大利餐廳有兒童餐具",
+        "使用者回報：適合包場辦兒童活動",
+        "使用者回報：店內有童書區",
+        "既有資料標示提供兒童餐點",
+        "既有資料標示適合兒童用餐"
+    ],
+    "parent_friendly_score": 5,
+    "parent_friendly_level": "高",
+    "reason": "使用者回報親子設施與活動空間資訊"
 }

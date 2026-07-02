@@ -1,53 +1,52 @@
-﻿{
-    " child_seat available":  {
-                                  "evidence":  "Google 摰?餉??拙??咱?券?",
-                                  "result":  "Yes",
-                                  "confidence":  1
-                              },
-    "Spacious seating":  {
-                             "result":  "No",
-                             "evidence":  "內用位不多，靠牆邊桌6位，四人小桌兩張，二人小桌一張，騎樓兩張二人小桌。",
-                             "confidence":  0.9
-                         },
-    "Kids menu available":  {
-                                "result":  "Yes",
-                                "evidence":  "Menu for children (官方標記：提供兒童餐)",
-                                "confidence":  1.0
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "Good for children (官方標記：適合兒童)",
-                               "confidence":  1.0
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "evidence":  "Google 摰?餉??拙??咱?券?",
-                          "result":  "Yes",
-                          "confidence":  1
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "高",
-    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals":  [
-                              "Menu for children (官方標記：提供兒童餐)",
-                              "Good for children (官方標記：適合兒童)",
-                              "內用位不多，靠牆邊桌6位，四人小桌兩張，二人小桌一張，騎樓兩張二人小桌。",
-                              "Google 摰?餉??拙??咱?券?"
-                          ],
-    "generated_summary":  "店內經官方標記為適合兒童且提供兒童餐，對親子客群友善。不過店內用餐空間較為有限，座位數不多，建議前往時留意空間配置。",
-    "card_summary":  ""
+{
+    " child_seat available": {
+        "evidence": "Google 官方資料或既有資料標示提供兒童椅",
+        "result": "Yes",
+        "confidence": 1
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "使用者補充：空間不大且內用座位不多，推車須留意",
+        "confidence": 1
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": "Menu for children (官方標記：提供兒童餐)",
+        "confidence": 1
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "Good for children (官方標記：適合兒童)",
+        "confidence": 1
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "evidence": "Google 官方資料或既有資料標示提供兒童餐具",
+        "result": "Yes",
+        "confidence": 1
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "使用者補充空間限制與既有親子友善資訊",
+    "generated_signals": [
+        "Menu for children (官方標記：提供兒童餐)",
+        "Good for children (官方標記：適合兒童)",
+        "使用者補充：空間不大且內用座位不多，推車須留意"
+    ],
+    "generated_summary": "媽寶堡早午餐提供兒童餐，環境對孩子聲音較包容，也有兒童椅與兒童餐具紀錄。不過店內空間不大、內用座位不多，若推嬰兒推車前往需特別留意空間配置。",
+    "card_summary": "提供兒童餐，店內空間不大且內用座位不多，推車須留意。"
 }

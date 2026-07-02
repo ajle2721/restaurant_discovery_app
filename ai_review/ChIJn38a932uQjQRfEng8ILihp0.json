@@ -1,57 +1,54 @@
-﻿{
-    " child_seat available":  {
-                                  "evidence":  "Google 摰?餉??拙??咱?券?",
-                                  "result":  "Yes",
-                                  "confidence":  1
-                              },
-    "Spacious seating":  {
-                             "result":  "No",
-                             "evidence":  "裡面座位較小，桌面上東西太多，感覺更擠，也沒有什麼空位可以擺推車。",
-                             "confidence":  0.9
-                         },
-    "Kids menu available":  {
-                                "result":  "Yes",
-                                "evidence":  "Google Maps Attributes: Menu for children (官方標記：提供兒童餐)",
-                                "confidence":  1.0
-                            },
-    "kid_noise_tolerant":  {
-                               "evidence":  "Google 摰?餉??拙??咱?券?",
-                               "result":  "Yes",
-                               "confidence":  1
-                           },
-    "has_play_area":  {
-                          "result":  "No",
-                          "evidence":  "不適合多人、帶小孩（沒地方跑）。",
-                          "confidence":  0.9
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "evidence":  "Google 摰?餉??拙??咱?券?",
-                          "result":  "Yes",
-                          "confidence":  1
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "高",
-    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals":  [
-                              "裡面座位較小，桌面上東西太多，感覺更擠，也沒有什麼空位可以擺推車。",
-                              "裡面座位較小，桌面上東西太多，感覺更擠",
-                              "Google Maps Attributes: Menu for children (官方標記：提供兒童餐)",
-                              "不適合多人、帶小孩（沒地方跑）",
-                              "不適合多人、帶小孩（沒地方跑）。",
-                              "也沒有什麼空位可以擺推車",
-                              "Google Maps Attributes: Good for children (官方標記：適合兒童)",
-                              "Google 摰?餉??拙??咱?券?"
-                          ],
-    "generated_summary":  "初芽雖然官方標記適合兒童並提供兒童餐，但根據顧客評論，店內空間較為狹小且座位擁擠，不僅難以擺放推車，也沒有適合小孩活動的空間，因此評論者認為較不適合攜帶小孩前往。",
-    "card_summary":  ""
+{
+    "child_seat available": {
+        "result": "Yes",
+        "evidence": "使用者回報：有兒童椅",
+        "confidence": 1
+    },
+    "Spacious seating": {
+        "result": "No",
+        "evidence": "裡面座位較小，桌面上東西太多，感覺更擠，也沒有什麼空位可以擺推車。",
+        "confidence": 0.9
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": "Google Maps Attributes: Menu for children (官方標記：提供兒童餐)",
+        "confidence": 1.0
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "Google Maps Attributes: Good for children (官方標記：適合兒童)",
+        "confidence": 1
+    },
+    "has_play_area": {
+        "result": "No",
+        "evidence": "不適合多人、帶小孩（沒地方跑）。",
+        "confidence": 0.9
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Yes",
+        "evidence": "使用者回報：有兒童餐具",
+        "confidence": 1
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "高",
+    "reason": "使用者回報補充親子設施，並結合既有親子標籤與評論語意分析",
+    "generated_signals": [
+        "使用者回報：有兒童椅",
+        "使用者回報：有兒童餐具",
+        "Google Maps Attributes: Menu for children (官方標記：提供兒童餐)",
+        "Google Maps Attributes: Good for children (官方標記：適合兒童)",
+        "裡面座位較小，桌面上東西太多，感覺更擠，也沒有什麼空位可以擺推車。"
+    ],
+    "generated_summary": "初芽 Sprout 提供兒童椅、兒童餐具與兒童餐，對親子用餐更友善；不過店內空間較小、較不適合推車或讓小孩活動，前往時可留意座位空間。",
+    "card_summary": "有兒童椅、兒童餐具與兒童餐；店內空間較小，推車較不方便。"
 }
