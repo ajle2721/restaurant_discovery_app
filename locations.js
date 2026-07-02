@@ -1491,5 +1491,18 @@ var locationData = [
       "國立故宮博物院",
       "National Palace Museum"
     ]
+  },
+  {
+    "name": "陽明山",
+    "type": "景點",
+    "district": "士林區",
+    "lat": 25.1370,
+    "lng": 121.5430,
+    "keywords": [
+      "陽明山",
+      "陽明山國家公園",
+      "草山",
+      "Yangmingshan"
+    ]
   }
 ];
