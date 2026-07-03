@@ -608,7 +608,8 @@ const brandPriceOverrides = {
     "肯德基": "PRICE_LEVEL_INEXPENSIVE",
     "SUBWAY": "PRICE_LEVEL_INEXPENSIVE",
     "稻舍": "PRICE_LEVEL_MODERATE",
-    "稻舍食館": "PRICE_LEVEL_MODERATE"
+    "稻舍食館": "PRICE_LEVEL_MODERATE",
+    "Mini Club": "PRICE_LEVEL_MODERATE"
 };
 
 const brandPricesPropagated = {};
@@ -708,7 +709,8 @@ const dualPriceBrands = new Set([
     "大戶屋",
     "OOTOYA",
     "樂麵屋",
-    "Rakumenya"
+    "Rakumenya",
+    "parco義大利麵"
 ]);
 
 const mediumHighPriceBrands = new Set([
@@ -718,7 +720,8 @@ const mediumHighPriceBrands = new Set([
     "金色三麥",
     "UMAMI",
     "HOOTERS美式餐廳",
-    "HOOTERS"
+    "HOOTERS",
+    "海底撈"
 ]);
 
 function isStrictlyHighEnd(res) {
@@ -2422,7 +2425,7 @@ async function renderResults() {
                     const priceLabels = {
                         'PRICE_LEVEL_INEXPENSIVE': '💰 平價',
                         'PRICE_LEVEL_MODERATE': '💵 中價',
-                        'PRICE_LEVEL_EXPENSIVE': '💎 高檔'
+                        'PRICE_LEVEL_EXPENSIVE': '💎 高價'
                     };
                     state.priceFilter.forEach(price => {
                         const indicator = document.createElement('span');

@@ -1468,7 +1468,24 @@ function getContactInfo(placeId, baseRestaurant = {}) {
 }
 
 function getCuisine(placeId, baseRestaurant) {
+  if (/Mini Club/i.test(baseRestaurant.name || "")) return "親子餐廳 / 咖啡廳";
   return (typeof cuisinesMapping !== 'undefined' ? cuisinesMapping[placeId] : null) || baseRestaurant.cuisine || inferCuisineFromName(baseRestaurant.name) || null;
+}
+
+function getPriceLevel(baseRestaurant) {
+  const name = baseRestaurant.name || "";
+  if (/Mini Club/i.test(name)) return "PRICE_LEVEL_MODERATE";
+  if (/海底撈/.test(name)) return "PRICE_LEVEL_MODERATE";
+  return baseRestaurant.price_level ?? null;
+}
+
+function getRestaurantMapUrl(baseRestaurant) {
+  const name = baseRestaurant.name || "";
+  if (/YAYOI|彌生/.test(name)) {
+    const query = encodeURIComponent(`${name} ${baseRestaurant.address || baseRestaurant.formatted_address || "台北"}`);
+    return `https://www.google.com/maps/search/?api=1&query=${query}`;
+  }
+  return baseRestaurant.url || baseRestaurant.google_maps_url || "";
 }
 
 function buildRecord(placeId, baseRestaurant, aiReview) {
@@ -1477,7 +1494,7 @@ function buildRecord(placeId, baseRestaurant, aiReview) {
     baseRestaurant.attributes || {},
     baseRestaurant.name || "",
     baseRestaurant.address || baseRestaurant.formatted_address || "",
-    baseRestaurant.price_level ?? null
+    getPriceLevel(baseRestaurant)
   );
 
   attributes = applyFamilyFriendlyChainAttributes(attributes, baseRestaurant.name || "");
@@ -1490,11 +1507,11 @@ function buildRecord(placeId, baseRestaurant, aiReview) {
     baseRestaurant.name || "",
     baseRestaurant.address || baseRestaurant.formatted_address || "",
     baseRestaurant.district || "",
-    baseRestaurant.price_level ?? null,
+    getPriceLevel(baseRestaurant),
     cuisine,
     baseRestaurant.latitude ?? null,
     baseRestaurant.longitude ?? null,
-    baseRestaurant.url || baseRestaurant.google_maps_url || "",
+    getRestaurantMapUrl(baseRestaurant),
     attributes,
     getCleanFamilySummary(appendFamilyFriendlyChainSummary(aiReview.generated_summary || baseRestaurant.ai_summary || "", baseRestaurant.name || ""), { ...baseRestaurant, cuisine }, attributes),
     getCleanFamilySummary(appendFamilyFriendlyChainSummary(aiReview.card_summary || baseRestaurant.card_summary || "", baseRestaurant.name || ""), { ...baseRestaurant, cuisine }, attributes),
@@ -1644,7 +1661,7 @@ function buildRecord_old(placeId, baseRestaurant, aiReview) {
     baseRestaurant.attributes || {},
     baseRestaurant.name || "",
     baseRestaurant.address || baseRestaurant.formatted_address || "",
-    baseRestaurant.price_level ?? null
+    getPriceLevel(baseRestaurant)
   );
 
   return [
@@ -1656,7 +1673,7 @@ function buildRecord_old(placeId, baseRestaurant, aiReview) {
     getCuisine_old(baseRestaurant),
     baseRestaurant.latitude ?? null,
     baseRestaurant.longitude ?? null,
-    baseRestaurant.url || baseRestaurant.google_maps_url || "",
+    getRestaurantMapUrl(baseRestaurant),
     attributes,
     getCleanFamilySummary(aiReview.generated_summary || baseRestaurant.ai_summary || "", baseRestaurant, attributes),
     getCleanFamilySummary(aiReview.card_summary || baseRestaurant.card_summary || "", baseRestaurant, attributes),
@@ -2754,8 +2771,12 @@ const manualCatalogByPlaceId = new Map(
   const existingRecordIds = new Set(records.map((record) => record[0]));
   for (const record of manualRecords) {
     if (!temporarilyHiddenPlaceIds.has(record[0]) && !existingRecordIds.has(record[0])) {
-      const cuisine = record[5];
+      const manualBaseRestaurant = Object.fromEntries(columns.map((column, index) => [column, record[index]]));
+      const cuisine = getCuisine(record[0], manualBaseRestaurant);
       while (record.length < columns.length) record.push("");
+      record[4] = getPriceLevel(manualBaseRestaurant);
+      record[5] = cuisine;
+      record[8] = getRestaurantMapUrl(manualBaseRestaurant);
       record[13] = getMajorCuisines(cuisine, record[1] || "");
       records.push(record);
     }
