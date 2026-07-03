@@ -1656,6 +1656,8 @@ function getCuisine(placeId, baseRestaurant) {
 function getPriceLevel(baseRestaurant) {
   const name = baseRestaurant.name || "";
   if (/Mini Club/i.test(name)) return "PRICE_LEVEL_MODERATE";
+  if (/米克ㄙ義大利麵&燉飯/.test(name) || /西湖市場74攤/.test(name)) return "PRICE_LEVEL_INEXPENSIVE";
+  if (/校園活力早午餐/.test(name)) return "PRICE_LEVEL_INEXPENSIVE";
   if (/海底撈/.test(name)) return "PRICE_LEVEL_MODERATE";
   return baseRestaurant.price_level ?? null;
 }
