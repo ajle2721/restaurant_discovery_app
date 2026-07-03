@@ -1234,6 +1234,38 @@ function hasGoogleEvidence(...evidenceValues) {
     String(evidence || "").trim().toLowerCase().startsWith("google")
   );
 }
+function collectAiReviewText(value, parts = []) {
+  if (value == null) return parts;
+  if (typeof value === "string" || typeof value === "number" || typeof value === "boolean") {
+    parts.push(String(value));
+    return parts;
+  }
+  if (Array.isArray(value)) {
+    value.forEach((item) => collectAiReviewText(item, parts));
+    return parts;
+  }
+  if (typeof value === "object") {
+    Object.values(value).forEach((item) => collectAiReviewText(item, parts));
+  }
+  return parts;
+}
+
+function hasQuietAtmosphereEvidence(aiReview = {}) {
+  const text = collectAiReviewText({
+    kid_noise_tolerant: aiReview.kid_noise_tolerant,
+    generated_signals: aiReview.generated_signals,
+    generated_summary: aiReview.generated_summary,
+    card_summary: aiReview.card_summary,
+    reason: aiReview.reason,
+  }).join(" ");
+
+  return /環境[^。！？!?]*(安靜|靜謐|清幽|寧靜|低語|輕聲)|氣氛[^。！？!?]*(安靜|靜謐|清幽|寧靜|低語|輕聲)|店內[^。！？!?]*(安靜|靜謐|清幽|寧靜|低語|輕聲)|用餐[^。！？!?]*(安靜|靜謐|清幽|寧靜|低語|輕聲)|較安靜|偏安靜|非常安靜|安靜用餐|保持安靜|不適合吵鬧|不適合較吵|吵鬧[^。！？!?]*(不適合|留意|避免)|quiet|tranquil|serene|peaceful/i.test(text);
+}
+
+function getKidNoiseToleranceValue(aiReview = {}) {
+  return hasQuietAtmosphereEvidence(aiReview) ? "no" : "yes";
+}
+
 
 function keepExistingWhenUnknown(nextValue, existingValue) {
   const normExisting = normalizeResult(existingValue);
@@ -1589,11 +1621,7 @@ function getAiAttributes(aiReview, existingAttributes = {}, name = "", address =
       existingAttributes.spacious_seating,
       aiReview["Spacious seating"]
     ),
-    kid_noise_tolerant: keepExistingUnlessOverrideUnknown(
-      normalizeResult(aiReview.kid_noise_tolerant?.result),
-      existingAttributes.kid_noise_tolerant,
-      aiReview.kid_noise_tolerant
-    ),
+    kid_noise_tolerant: getKidNoiseToleranceValue(aiReview),
     has_play_area: keepExistingUnlessOverrideUnknown(
       normalizeResult(aiReview.has_play_area?.result),
       existingAttributes.has_play_area,
