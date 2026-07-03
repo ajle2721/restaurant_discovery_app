@@ -336,6 +336,62 @@ manualRecords.push(
     "",
   ],
 );
+manualRecords.push([
+  "manual-daylight-huashan",
+  "Daylight光合箱子 華山店",
+  "100臺北市中正區梅花里八德路一段1號",
+  "中正區",
+  "PRICE_LEVEL_MODERATE",
+  "早午餐",
+  25.0441,
+  121.5301,
+  "https://www.google.com/maps/search/?api=1&query=Daylight%E5%85%89%E5%90%88%E7%AE%B1%E5%AD%90%20%E8%8F%AF%E5%B1%B1%E5%BA%97%20100%E8%87%BA%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E6%A2%85%E8%8A%B1%E9%87%8C%E5%85%AB%E5%BE%B7%E8%B7%AF%E4%B8%80%E6%AE%B51%E8%99%9F",
+  {
+    high_chair_available: "yes",
+    kids_menu: "unknown",
+    spacious_seating: "yes",
+    kid_noise_tolerant: "yes",
+    has_play_area: "unknown",
+    has_private_room: "unknown",
+    has_tableware: "yes",
+    has_diaper_table: "unknown",
+  },
+  "光合箱子華山店提供兒童椅與兒童餐具，座位空間較寬敞，環境對孩子聲音較包容，適合親子家庭用餐。",
+  "提供兒童椅與兒童餐具，座位空間較寬敞，環境對孩子聲音較包容。",
+  "高",
+  ["早午餐"],
+  "",
+  "",
+  "",
+]);
+manualRecords.push([
+  "ChIJP7RGDQCpQjQRcY8fYCcGq8Q",
+  "貳加貳早午餐 兒童餐",
+  "100臺北市中正區梅花里紹興北街25號1樓",
+  "中正區",
+  "PRICE_LEVEL_INEXPENSIVE",
+  "早午餐",
+  25.0442,
+  121.5261,
+  "https://www.google.com/maps/search/?api=1&query=%E8%B2%B3%E5%8A%A0%E8%B2%B3%E6%97%A9%E5%8D%88%E9%A4%90%20%E5%85%92%E7%AB%A5%E9%A4%90%20100%E8%87%BA%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E6%A2%85%E8%8A%B1%E9%87%8C%E7%B4%B9%E8%88%88%E5%8C%97%E8%A1%9725%E8%99%9F1%E6%A8%93&query_place_id=ChIJP7RGDQCpQjQRcY8fYCcGq8Q",
+  {
+    high_chair_available: "yes",
+    kids_menu: "unknown",
+    spacious_seating: "unknown",
+    kid_noise_tolerant: "yes",
+    has_play_area: "unknown",
+    has_private_room: "room",
+    has_tableware: "unknown",
+    has_diaper_table: "unknown",
+  },
+  "貳加貳早午餐是平價早午餐店，提供兒童椅，環境對孩子聲音較包容，並有透明獨立用餐區可作為包廂使用。",
+  "平價早午餐店，提供兒童椅、不怕吵，並有透明獨立用餐區。",
+  "高",
+  ["早午餐"],
+  "",
+  "",
+  "",
+]);
 const brandRulesPath = path.join(baseDir, "brand_rules.json");
 let brandRules = {};
 let brandCounts = {};
@@ -1548,6 +1604,41 @@ function appendFamilyFriendlyChainSummary(summary, name = "") {
   if (base.includes("兒童椅") && base.includes("兒童餐具") && base.includes("孩子聲音")) return base;
   return base ? `${base}${base.endsWith("。") ? "" : "。"}${addition}` : addition;
 }
+function isDaylightBrand(name = "") {
+  return /光合箱子|Daylight/i.test(String(name || ""));
+}
+
+function applyDaylightBrandAttributes(attributes, name = "") {
+  if (!isDaylightBrand(name)) return attributes;
+  return {
+    ...attributes,
+    high_chair_available: "yes",
+    has_tableware: "yes",
+    kid_noise_tolerant: "yes",
+    spacious_seating: "yes",
+  };
+}
+
+function appendDaylightBrandSummary(summary, name = "") {
+  if (!isDaylightBrand(name)) return summary || "";
+  const base = String(summary || "")
+    .replace(/、?有包廂/g, "")
+    .replace(/並有半開放式?包廂座位/g, "")
+    .trim();
+  const addition = "光合箱子提供兒童椅與兒童餐具，座位空間較寬敞，環境對孩子聲音較包容，適合親子家庭用餐。";
+  if (base.includes("兒童椅") && base.includes("兒童餐具") && base.includes("空間") && base.includes("孩子聲音")) return base;
+  return base ? `${base}${base.endsWith("。") ? "" : "。"}${addition}` : addition;
+}
+
+function applyPlaceSpecificAttributeOverrides(attributes, placeId = "") {
+  if (placeId === "ChIJnVCcwqypQjQRunZOaoCjiTo") {
+    return {
+      ...attributes,
+      has_private_room: "unknown",
+    };
+  }
+  return attributes;
+}
 function getContactInfo(placeId, baseRestaurant = {}) {
   const contact = contactLinks[placeId] || {};
   return {
@@ -1588,6 +1679,8 @@ function buildRecord(placeId, baseRestaurant, aiReview) {
   );
 
   attributes = applyFamilyFriendlyChainAttributes(attributes, baseRestaurant.name || "");
+  attributes = applyDaylightBrandAttributes(attributes, baseRestaurant.name || "");
+  attributes = applyPlaceSpecificAttributeOverrides(attributes, placeId);
 
   const cuisine = getCuisine(placeId, baseRestaurant);
   const contactInfo = getContactInfo(placeId, baseRestaurant);
@@ -1603,9 +1696,9 @@ function buildRecord(placeId, baseRestaurant, aiReview) {
     baseRestaurant.longitude ?? null,
     getRestaurantMapUrl(baseRestaurant),
     attributes,
-    getCleanFamilySummary(appendFamilyFriendlyChainSummary(aiReview.generated_summary || baseRestaurant.ai_summary || "", baseRestaurant.name || ""), { ...baseRestaurant, cuisine }, attributes),
-    getCleanFamilySummary(appendFamilyFriendlyChainSummary(aiReview.card_summary || baseRestaurant.card_summary || "", baseRestaurant.name || ""), { ...baseRestaurant, cuisine }, attributes),
-    isFamilyFriendlyChain(baseRestaurant.name || "") ? "高" : (
+    getCleanFamilySummary(appendDaylightBrandSummary(appendFamilyFriendlyChainSummary(aiReview.generated_summary || baseRestaurant.ai_summary || "", baseRestaurant.name || ""), baseRestaurant.name || ""), { ...baseRestaurant, cuisine }, attributes),
+    getCleanFamilySummary(appendDaylightBrandSummary(appendFamilyFriendlyChainSummary(aiReview.card_summary || baseRestaurant.card_summary || "", baseRestaurant.name || ""), baseRestaurant.name || ""), { ...baseRestaurant, cuisine }, attributes),
+    (isFamilyFriendlyChain(baseRestaurant.name || "") || isDaylightBrand(baseRestaurant.name || "")) ? "高" : (
       aiReview.parent_friendly_level ||
       baseRestaurant.parent_friendly_level ||
       "資訊不足"
