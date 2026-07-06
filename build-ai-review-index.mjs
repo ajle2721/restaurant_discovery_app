@@ -392,6 +392,62 @@ manualRecords.push([
   "",
   "",
 ]);
+manualRecords.push([
+  "manual-ponderosa-ntu",
+  "龐德羅莎(台大店)",
+  "106臺北市大安區學府里羅斯福路四段85號台大管理學院第二活動中心二樓",
+  "大安區",
+  "PRICE_LEVEL_MODERATE",
+  "美式料理",
+  25.0148,
+  121.5343,
+  "https://www.google.com/maps/search/?api=1&query=%E9%BE%90%E5%BE%B7%E7%BE%85%E8%8E%8E(%E5%8F%B0%E5%A4%A7%E5%BA%97)%20106%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%AD%B8%E5%BA%9C%E9%87%8C%E7%BE%85%E6%96%AF%E7%A6%8F%E8%B7%AF%E5%9B%9B%E6%AE%B585%E8%99%9F%E5%8F%B0%E5%A4%A7%E7%AE%A1%E7%90%86%E5%AD%B8%E9%99%A2%E7%AC%AC%E4%BA%8C%E6%B4%BB%E5%8B%95%E4%B8%AD%E5%BF%83%E4%BA%8C%E6%A8%93",
+  {
+    high_chair_available: "yes",
+    kids_menu: "yes",
+    spacious_seating: "yes",
+    kid_noise_tolerant: "yes",
+    has_play_area: "unknown",
+    has_private_room: "unknown",
+    has_tableware: "yes",
+    has_diaper_table: "no",
+  },
+  "公館捷運站步行即可抵達，開車也可利用旁邊或公館商圈周邊停車場。店內有自助吧，菜色多樣且會補上不同菜色，但多數餐點已有調味，一歲以下仍吃無調味副食品的寶寶可選擇較少；店家本身提供兒童餐，超過90公分的幼童才開始收費。店內提供兒童椅與兒童餐具，環境對孩子聲音較包容、空間寬敞，也很適合推車，搭電梯需從一樓的全家超商進入。雖然沒有尿布台，但可使用寬敞的無障礙廁所換尿布。",
+  "近公館捷運站，提供兒童椅、兒童餐具與兒童餐，空間寬敞且推車友善，自助吧菜色多樣。",
+  "高",
+  ["西式料理"],
+  "",
+  "",
+  "",
+]);
+manualRecords.push([
+  "manual-ponderosa-breeze-fuxing",
+  "龐德羅莎 復興微風店",
+  "105臺北市松山區復興南路一段39號微風廣場地下G層8號電梯旁",
+  "松山區",
+  "PRICE_LEVEL_MODERATE",
+  "美式料理",
+  25.0456,
+  121.5448,
+  "https://www.google.com/maps/search/?api=1&query=%E9%BE%90%E5%BE%B7%E7%BE%85%E8%8E%8E%20%E5%BE%A9%E8%88%88%E5%BE%AE%E9%A2%A8%E5%BA%97%20105%E8%87%BA%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80%E5%BE%A9%E8%88%88%E5%8D%97%E8%B7%AF%E4%B8%80%E6%AE%B539%E8%99%9F%E5%BE%AE%E9%A2%A8%E5%BB%A3%E5%A0%B4%E5%9C%B0%E4%B8%8BG%E5%B1%A48%E8%99%9F%E9%9B%BB%E6%A2%AF%E6%97%81",
+  {
+    high_chair_available: "yes",
+    kids_menu: "yes",
+    spacious_seating: "yes",
+    kid_noise_tolerant: "yes",
+    has_play_area: "unknown",
+    has_private_room: "unknown",
+    has_tableware: "yes",
+    has_diaper_table: "yes",
+  },
+  "捷運站步行8~10分鐘可抵達，開車也可利用微風百貨停車場。店內有自助吧，菜色多樣且會補上不同菜色，但多數餐點已有調味，一歲以下仍吃無調味副食品的寶寶可選擇較少；店家提供兒童餐、兒童椅與兒童餐具，環境對孩子聲音較包容、空間寬敞，也很適合推車，可使用商場的尿布台。",
+  "位於微風廣場地下G層，提供兒童餐、兒童椅與兒童餐具，空間寬敞推車友善，可使用商場尿布台。",
+  "高",
+  ["西式料理"],
+  "02 7374 233",
+  "",
+  "",
+]);
 const brandRulesPath = path.join(baseDir, "brand_rules.json");
 let brandRules = {};
 let brandCounts = {};
@@ -1637,6 +1693,13 @@ function applyPlaceSpecificAttributeOverrides(attributes, placeId = "") {
       has_private_room: "unknown",
     };
   }
+  if (placeId === "ChIJsQ90xYWrQjQRJJDWGPfOH6U") {
+    return {
+      ...attributes,
+      spacious_seating: "yes",
+      has_tableware: "yes",
+    };
+  }
   return attributes;
 }
 function getContactInfo(placeId, baseRestaurant = {}) {
@@ -1656,10 +1719,41 @@ function getCuisine(placeId, baseRestaurant) {
 function getPriceLevel(baseRestaurant) {
   const name = baseRestaurant.name || "";
   if (/Mini Club/i.test(name)) return "PRICE_LEVEL_MODERATE";
+  if ([
+    /Labu cafe/i,
+    /輕鬆餐廳/,
+    /Slipper Cafe 拖鞋咖啡/i,
+    /優鮮主意/,
+    /荷蘭小鬆餅/,
+    /找午倉Brunch/i,
+    /晴天廚房/,
+    /鳥玩義兒/,
+    /Café Kitsuné LaLaport 南港/i,
+    /Cafe Kitsune LaLaport 南港/i
+  ].some((pattern) => pattern.test(name))) return "PRICE_LEVEL_MODERATE";
+  if (/I['’]?M PASTA/i.test(name)) return "PRICE_LEVEL_INEXPENSIVE";
+  if (/早饗&晚饗/.test(name)) return "PRICE_LEVEL_INEXPENSIVE";
   if (/米克ㄙ義大利麵&燉飯/.test(name) || /西湖市場74攤/.test(name)) return "PRICE_LEVEL_INEXPENSIVE";
   if (/校園活力早午餐/.test(name)) return "PRICE_LEVEL_INEXPENSIVE";
+  if (/等一下Pasta/i.test(name)) return "PRICE_LEVEL_INEXPENSIVE";
+  if (/小旺號 - 公館店/.test(name)) return "PRICE_LEVEL_INEXPENSIVE";
+  if (/EGG BRUNCH 小蛋布朗奇/i.test(name)) return "PRICE_LEVEL_INEXPENSIVE";
+  if (/景美萬隆愛上愛莉早餐店/.test(name)) return "PRICE_LEVEL_INEXPENSIVE";
+  if (/敘日 全日餐廳-台北六福萬怡酒店/.test(name)) return "PRICE_LEVEL_EXPENSIVE";
+  if (/蘭花廳/.test(name) && /兄弟大飯店/.test(name)) return "PRICE_LEVEL_EXPENSIVE";
+  if (/蘭花廳(台菜海鮮) - 兄弟大飯店/.test(name)) return "PRICE_LEVEL_EXPENSIVE";
   if (/海底撈/.test(name)) return "PRICE_LEVEL_MODERATE";
   return baseRestaurant.price_level ?? null;
+}
+
+
+function removeGenericSummaryPhrases(summary = "") {
+  return String(summary || "")
+    .replace(/根據目前整理資料，?清爽健康的蔬食與沙拉料理深受顧客青睞。/g, "")
+    .replace(/清爽健康的蔬食與沙拉料理深受顧客青睞。/g, "")
+    .replace(/^[，、。s]+/, "")
+    .replace(/s+/g, " ")
+    .trim();
 }
 
 function getRestaurantMapUrl(baseRestaurant) {
@@ -1698,8 +1792,8 @@ function buildRecord(placeId, baseRestaurant, aiReview) {
     baseRestaurant.longitude ?? null,
     getRestaurantMapUrl(baseRestaurant),
     attributes,
-    getCleanFamilySummary(appendDaylightBrandSummary(appendFamilyFriendlyChainSummary(aiReview.generated_summary || baseRestaurant.ai_summary || "", baseRestaurant.name || ""), baseRestaurant.name || ""), { ...baseRestaurant, cuisine }, attributes),
-    getCleanFamilySummary(appendDaylightBrandSummary(appendFamilyFriendlyChainSummary(aiReview.card_summary || baseRestaurant.card_summary || "", baseRestaurant.name || ""), baseRestaurant.name || ""), { ...baseRestaurant, cuisine }, attributes),
+    getCleanFamilySummary(removeGenericSummaryPhrases(appendDaylightBrandSummary(appendFamilyFriendlyChainSummary(aiReview.generated_summary || baseRestaurant.ai_summary || "", baseRestaurant.name || ""), baseRestaurant.name || "")), { ...baseRestaurant, cuisine }, attributes),
+    getCleanFamilySummary(removeGenericSummaryPhrases(appendDaylightBrandSummary(appendFamilyFriendlyChainSummary(aiReview.card_summary || baseRestaurant.card_summary || "", baseRestaurant.name || ""), baseRestaurant.name || "")), { ...baseRestaurant, cuisine }, attributes),
     (isFamilyFriendlyChain(baseRestaurant.name || "") || isDaylightBrand(baseRestaurant.name || "")) ? "高" : (
       aiReview.parent_friendly_level ||
       baseRestaurant.parent_friendly_level ||
@@ -1856,8 +1950,8 @@ function buildRecord_old(placeId, baseRestaurant, aiReview) {
     baseRestaurant.longitude ?? null,
     getRestaurantMapUrl(baseRestaurant),
     attributes,
-    getCleanFamilySummary(aiReview.generated_summary || baseRestaurant.ai_summary || "", baseRestaurant, attributes),
-    getCleanFamilySummary(aiReview.card_summary || baseRestaurant.card_summary || "", baseRestaurant, attributes),
+    getCleanFamilySummary(removeGenericSummaryPhrases(aiReview.generated_summary || baseRestaurant.ai_summary || ""), baseRestaurant, attributes),
+    getCleanFamilySummary(removeGenericSummaryPhrases(aiReview.card_summary || baseRestaurant.card_summary || ""), baseRestaurant, attributes),
     aiReview.parent_friendly_level ||
       baseRestaurant.parent_friendly_level ||
       "資訊不足",

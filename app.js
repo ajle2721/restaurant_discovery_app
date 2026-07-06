@@ -710,7 +710,17 @@ const dualPriceBrands = new Set([
     "OOTOYA",
     "樂麵屋",
     "Rakumenya",
-    "parco義大利麵"
+    "parco義大利麵",
+    "大木屋",
+    "松江8號廚房",
+    "Labu cafe",
+    "輕鬆餐廳",
+    "Slipper Cafe 拖鞋咖啡",
+    "優鮮主意",
+    "荷蘭小鬆餅",
+    "找午倉Brunch",
+    "晴天廚房",
+    "鳥玩義兒"
 ]);
 
 const mediumHighPriceBrands = new Set([
