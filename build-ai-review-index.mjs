@@ -1700,6 +1700,12 @@ function applyPlaceSpecificAttributeOverrides(attributes, placeId = "") {
       has_tableware: "yes",
     };
   }
+  if (placeId === "ChIJnea3ei-rQjQRJJpRyMTUlEE") {
+    return {
+      ...attributes,
+      high_chair_available: "yes",
+    };
+  }
   return attributes;
 }
 function getContactInfo(placeId, baseRestaurant = {}) {
@@ -1719,6 +1725,7 @@ function getCuisine(placeId, baseRestaurant) {
 function getPriceLevel(baseRestaurant) {
   const name = baseRestaurant.name || "";
   if (/Mini Club/i.test(name)) return "PRICE_LEVEL_MODERATE";
+  if (/URBAN PARADISE 信義店/i.test(name)) return "PRICE_LEVEL_EXPENSIVE";
   if ([
     /Labu cafe/i,
     /輕鬆餐廳/,
@@ -1746,6 +1753,14 @@ function getPriceLevel(baseRestaurant) {
   return baseRestaurant.price_level ?? null;
 }
 
+
+
+function applyPlaceSpecificSummaryOverrides(summary = "", placeId = "") {
+  if (placeId === "ChIJnea3ei-rQjQRJJpRyMTUlEE") {
+    return "URBAN PARADISE 信義店是高價餐酒館 buffet，餐廳定位較偏上班族下班聚會，並非特別以親子用餐為主。店內可提供兒童椅，但訂位時需要主動註明需求；可就近使用商場內公共尿布台及哺乳室。";
+  }
+  return summary || "";
+}
 
 function removeGenericSummaryPhrases(summary = "") {
   return String(summary || "")
@@ -1792,8 +1807,8 @@ function buildRecord(placeId, baseRestaurant, aiReview) {
     baseRestaurant.longitude ?? null,
     getRestaurantMapUrl(baseRestaurant),
     attributes,
-    getCleanFamilySummary(removeGenericSummaryPhrases(appendDaylightBrandSummary(appendFamilyFriendlyChainSummary(aiReview.generated_summary || baseRestaurant.ai_summary || "", baseRestaurant.name || ""), baseRestaurant.name || "")), { ...baseRestaurant, cuisine }, attributes),
-    getCleanFamilySummary(removeGenericSummaryPhrases(appendDaylightBrandSummary(appendFamilyFriendlyChainSummary(aiReview.card_summary || baseRestaurant.card_summary || "", baseRestaurant.name || ""), baseRestaurant.name || "")), { ...baseRestaurant, cuisine }, attributes),
+    getCleanFamilySummary(removeGenericSummaryPhrases(applyPlaceSpecificSummaryOverrides(appendDaylightBrandSummary(appendFamilyFriendlyChainSummary(aiReview.generated_summary || baseRestaurant.ai_summary || "", baseRestaurant.name || ""), baseRestaurant.name || ""), placeId)), { ...baseRestaurant, cuisine }, attributes),
+    getCleanFamilySummary(removeGenericSummaryPhrases(applyPlaceSpecificSummaryOverrides(appendDaylightBrandSummary(appendFamilyFriendlyChainSummary(aiReview.card_summary || baseRestaurant.card_summary || "", baseRestaurant.name || ""), baseRestaurant.name || ""), placeId)), { ...baseRestaurant, cuisine }, attributes),
     (isFamilyFriendlyChain(baseRestaurant.name || "") || isDaylightBrand(baseRestaurant.name || "")) ? "高" : (
       aiReview.parent_friendly_level ||
       baseRestaurant.parent_friendly_level ||
@@ -1950,8 +1965,8 @@ function buildRecord_old(placeId, baseRestaurant, aiReview) {
     baseRestaurant.longitude ?? null,
     getRestaurantMapUrl(baseRestaurant),
     attributes,
-    getCleanFamilySummary(removeGenericSummaryPhrases(aiReview.generated_summary || baseRestaurant.ai_summary || ""), baseRestaurant, attributes),
-    getCleanFamilySummary(removeGenericSummaryPhrases(aiReview.card_summary || baseRestaurant.card_summary || ""), baseRestaurant, attributes),
+    getCleanFamilySummary(removeGenericSummaryPhrases(applyPlaceSpecificSummaryOverrides(aiReview.generated_summary || baseRestaurant.ai_summary || "", placeId)), baseRestaurant, attributes),
+    getCleanFamilySummary(removeGenericSummaryPhrases(applyPlaceSpecificSummaryOverrides(aiReview.card_summary || baseRestaurant.card_summary || "", placeId)), baseRestaurant, attributes),
     aiReview.parent_friendly_level ||
       baseRestaurant.parent_friendly_level ||
       "資訊不足",
