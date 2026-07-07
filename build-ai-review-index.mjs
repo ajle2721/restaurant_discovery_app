@@ -1722,7 +1722,8 @@ function getCuisine(placeId, baseRestaurant) {
   return (typeof cuisinesMapping !== 'undefined' ? cuisinesMapping[placeId] : null) || baseRestaurant.cuisine || inferCuisineFromName(baseRestaurant.name) || null;
 }
 
-function getPriceLevel(baseRestaurant) {
+function getPriceLevel(baseRestaurant, placeId = "") {
+  if (["ChIJ4Z8YGY2sQjQRxOZSCQRmIWw", "ChIJNR6EwOerQjQRdm-NnC3KFgg"].includes(placeId)) return "PRICE_LEVEL_INEXPENSIVE";
   const name = baseRestaurant.name || "";
   if (/Mini Club/i.test(name)) return "PRICE_LEVEL_MODERATE";
   if (/URBAN PARADISE 信義店/i.test(name)) return "PRICE_LEVEL_EXPENSIVE";
@@ -1786,7 +1787,7 @@ function buildRecord(placeId, baseRestaurant, aiReview) {
     baseRestaurant.attributes || {},
     baseRestaurant.name || "",
     baseRestaurant.address || baseRestaurant.formatted_address || "",
-    getPriceLevel(baseRestaurant)
+    getPriceLevel(baseRestaurant, placeId)
   );
 
   attributes = applyFamilyFriendlyChainAttributes(attributes, baseRestaurant.name || "");
@@ -1801,7 +1802,7 @@ function buildRecord(placeId, baseRestaurant, aiReview) {
     baseRestaurant.name || "",
     baseRestaurant.address || baseRestaurant.formatted_address || "",
     baseRestaurant.district || "",
-    getPriceLevel(baseRestaurant),
+    getPriceLevel(baseRestaurant, placeId),
     cuisine,
     baseRestaurant.latitude ?? null,
     baseRestaurant.longitude ?? null,
@@ -1951,7 +1952,7 @@ function buildRecord_old(placeId, baseRestaurant, aiReview) {
     baseRestaurant.attributes || {},
     baseRestaurant.name || "",
     baseRestaurant.address || baseRestaurant.formatted_address || "",
-    getPriceLevel(baseRestaurant)
+    getPriceLevel(baseRestaurant, placeId)
   );
 
   return [
@@ -3064,7 +3065,7 @@ const manualCatalogByPlaceId = new Map(
       const manualBaseRestaurant = Object.fromEntries(columns.map((column, index) => [column, record[index]]));
       const cuisine = getCuisine(record[0], manualBaseRestaurant);
       while (record.length < columns.length) record.push("");
-      record[4] = getPriceLevel(manualBaseRestaurant);
+      record[4] = getPriceLevel(manualBaseRestaurant, record[0]);
       record[5] = cuisine;
       record[8] = getRestaurantMapUrl(manualBaseRestaurant);
       record[13] = getMajorCuisines(cuisine, record[1] || "");

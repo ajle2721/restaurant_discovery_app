@@ -1,8 +1,9 @@
 {
     " child_seat available": {
-        "result": "Yes",
-        "evidence": "依據連鎖品牌【田中園】統一設定",
-        "confidence": 0.9
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4,
+        "override_existing": true
     },
     "Spacious seating": {
         "result": "Unknown",
@@ -15,9 +16,9 @@
         "confidence": 1
     },
     "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "依據連鎖品牌【田中園】統一設定",
-        "confidence": 1
+        "result": "No",
+        "evidence": "環境可能偏安靜",
+        "confidence": 0.8
     },
     "has_play_area": {
         "result": "Unknown",
@@ -30,23 +31,24 @@
         "confidence": 0.4
     },
     "has_tableware": {
-        "evidence": "Google 摰?餉??拙??咱?券?",
-        "result": "Yes",
-        "confidence": 1
+        "result": "Likely",
+        "evidence": "使用者回報：應該有兒童餐具",
+        "confidence": 0.8
     },
     "has_diaper_table": {
-        "result": "Yes",
-        "evidence": "位於百貨公司/商場/大樓內，可使用商場/大樓附設之尿布台",
+        "result": "No",
+        "evidence": "使用者回報：無尿布台",
         "confidence": 1
     },
     "parent_friendly_score": 3,
     "parent_friendly_level": "高",
     "reason": "人工校正與AI綜合評估",
     "generated_signals": [
-        "依據連鎖品牌【田中園】統一設定",
-        "位於百貨公司/商場/大樓內，可使用商場/大樓附設之尿布台",
-        "Google 摰?餉??拙??咱?券?"
+        "使用者回報：不知有無兒童椅",
+        "使用者回報：應該有兒童餐具",
+        "使用者回報：無尿布台",
+        "環境可能偏安靜"
     ],
-    "generated_summary": "這家餐廳提供兒童座椅、兒童餐具、可使用商場附設之尿布台、環境氣氛適合帶小孩。目前評論中較少提及其他親子用餐的具體細節，建議前往前可先向店家確認。",
-    "card_summary": ""
+    "generated_summary": "菜單品項主要是中式套餐與飲料，店家提供兒童餐具，且有免費漫畫與雜誌可供閱覽，環境可能偏安靜。",
+    "card_summary": "菜單品項主要是中式套餐與飲料，店家提供兒童餐具，且有免費漫畫與雜誌可供閱覽，環境可能偏安靜。"
 }

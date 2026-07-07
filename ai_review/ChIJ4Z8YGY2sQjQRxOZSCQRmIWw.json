@@ -16,9 +16,9 @@
     "confidence": 1
   },
   "kid_noise_tolerant": {
-    "result": "Yes",
-    "evidence": "Google 官方登記適合兒童用餐",
-    "confidence": 1
+    "result": "No",
+    "evidence": "環境可能偏安靜",
+    "confidence": 0.8
   },
   "has_play_area": {
     "result": "Unknown",
@@ -40,13 +40,13 @@
     "evidence": null,
     "confidence": 0.4
   },
-  "generated_summary": "根據評論分析，燒肉與烤物料理火候適中，食材品質良好。店內貼心備有兒童座椅。",
-  "card_summary": "",
+  "generated_summary": "菜單品項主要是中式套餐與飲料，店家提供兒童餐具，且有免費漫畫與雜誌可供閱覽，環境可能偏安靜。",
+  "card_summary": "菜單品項主要是中式套餐與飲料，店家提供兒童餐具，且有免費漫畫與雜誌可供閱覽，環境可能偏安靜。",
   "generated_signals": [
-    "Google 官方登記適合兒童用餐",
     "系統自動識別：官方登記為家庭式餐飲，提供兒童座椅",
     "Google 摰?餉??拙??咱?券?",
-    "使用者回報：有兒童餐具"
+    "使用者回報：有兒童餐具",
+    "環境可能偏安靜"
   ],
   "parent_friendly_score": 3,
   "parent_friendly_level": "高",
