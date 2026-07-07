@@ -3024,6 +3024,30 @@ manualRecords.push(
 );
 
 
+manualRecords.push([
+  "manual-wen-curry-jinan",
+  "溫咖哩 Wen Curry",
+  "100臺北市中正區幸福里濟南路二段3-8號",
+  "中正區",
+  null,
+  "日式咖哩",
+  25.04135,
+  121.5243,
+  "https://www.google.com/maps/search/?api=1&query=%E6%BA%AB%E5%92%96%E5%93%A9%20Wen%20Curry%20100%E8%87%BA%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E5%B9%B8%E7%A6%8F%E9%87%8C%E6%BF%9F%E5%8D%97%E8%B7%AF%E4%BA%8C%E6%AE%B53-8%E8%99%9F",
+  {
+    high_chair_available: "yes",
+    kids_menu: "yes",
+    spacious_seating: "no",
+    kid_noise_tolerant: "yes",
+    has_play_area: "unknown",
+    has_private_room: "unknown",
+    has_tableware: "yes",
+    has_diaper_table: "unknown",
+  },
+  "溫咖哩 Wen Curry 提供兒童椅、兒童餐具與兒童餐，兒童餐限身高 100-140 公分孩童點選。店內氣氛對孩子聲音較包容，不過空間不大，帶孩子用餐時建議避開尖峰時段。",
+  "提供兒童椅、兒童餐具與兒童餐，兒童餐限身高 100-140 公分孩童點選；環境不怕吵，但空間不大。",
+  "高",
+]);
 const extraManualRecordsPath = path.join(aiReviewDir, "manual_chain_branches.json");
 if (fs.existsSync(extraManualRecordsPath)) {
   try {
