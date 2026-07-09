@@ -1,50 +1,52 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "包廂裡人蠻多的難免吵雜",
-                               "confidence":  0.8
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Yes",
-                             "evidence":  "一進門便是一個如同回到家般的玄關衣帽櫃，包廂裡人蠻多的難免吵雜，還好包廂門拉上後讓吧台前回到一個安靜舒適的空間。",
-                             "confidence":  0.9
-                         },
-    "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，獲得好評。氣氛輕鬆親子友善，適合帶孩子前來用餐。此外，店內還設有舒適的獨立包廂空間。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "包廂裡人蠻多的難免吵雜"
-                          ],
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "中",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+{
+  " child_seat available": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "Spacious seating": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "Kids menu available": {
+    "result": "Yes",
+    "evidence": "使用者回報：有兒童餐，且可能附贈小禮物。",
+    "confidence": 0.9
+  },
+  "kid_noise_tolerant": {
+    "result": "Yes",
+    "evidence": "包廂裡人蠻多的難免吵雜",
+    "confidence": 0.8
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Yes",
+    "evidence": "一進門便是一個如同回到家般的玄關衣帽櫃，包廂裡人蠻多的難免吵雜，還好包廂門拉上後讓吧台前回到一個安靜舒適的空間。",
+    "confidence": 0.9
+  },
+  "has_tableware": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "generated_summary": "根據評論分析，炭火料理與私廚式餐點口味良好，店內設有包廂，適合家庭聚餐。店家提供兒童餐，且兒童餐可能附贈小禮物。",
+  "card_summary": "根據評論分析，炭火料理與私廚式餐點口味良好，店內設有包廂，適合家庭聚餐。店家提供兒童餐，且兒童餐可能附贈小禮物。",
+  "generated_signals": [
+    "包廂裡人蠻多的難免吵雜",
+    "有兒童餐",
+    "兒童餐可能附贈小禮物"
+  ],
+  "parent_friendly_score": 1,
+  "parent_friendly_level": "中",
+  "reason": "Google 官方親子標籤與評論/簡介語意關聯分析"
 }

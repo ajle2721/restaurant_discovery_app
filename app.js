@@ -270,6 +270,24 @@ const priceSymbols = {
     'PRICE_LEVEL_VERY_EXPENSIVE': '$$$$'
 };
 
+const priceLevelOrder = [
+    'PRICE_LEVEL_INEXPENSIVE',
+    'PRICE_LEVEL_MODERATE',
+    'PRICE_LEVEL_EXPENSIVE',
+    'PRICE_LEVEL_VERY_EXPENSIVE'
+];
+
+function normalizePriceLevels(priceLevel) {
+    const rawLevels = Array.isArray(priceLevel) ? priceLevel : (priceLevel ? [priceLevel] : []);
+    const validLevels = rawLevels.filter(level => priceLevelOrder.includes(level));
+    return [...new Set(validLevels)].sort((a, b) => priceLevelOrder.indexOf(a) - priceLevelOrder.indexOf(b));
+}
+
+function getPriceSymbolForLevels(levels) {
+    if (!levels || levels.length === 0) return '';
+    if (levels.length === 1) return priceSymbols[levels[0]] || '';
+    return levels.map(level => priceSymbols[level]).filter(Boolean).join(' ~ ');
+}
 function isPositiveAttributeValue(value) {
     return value === 'yes' ||
         value === 'likely' ||
@@ -655,7 +673,8 @@ function inferPriceLevel(res) {
         }
     }
 
-    if (res.price_level) return res.price_level;
+    const explicitPriceLevels = normalizePriceLevels(res.price_level);
+    if (explicitPriceLevels.length > 0) return explicitPriceLevels[explicitPriceLevels.length - 1];
     
     // 2. Check propagated brand prices
     const brand = getBrandName(name);
@@ -739,8 +758,9 @@ function isStrictlyHighEnd(res) {
     const name = res.name || '';
     
     // 1. If Google Maps explicitly rated it as Expensive/Very Expensive ($$$ or $$$$)
-    if (res.price_level === 'PRICE_LEVEL_EXPENSIVE' || res.price_level === 'PRICE_LEVEL_VERY_EXPENSIVE') {
-        return true;
+    const explicitPriceLevels = normalizePriceLevels(res.price_level);
+    if (explicitPriceLevels.length > 0) {
+        return explicitPriceLevels.every(level => level === 'PRICE_LEVEL_EXPENSIVE' || level === 'PRICE_LEVEL_VERY_EXPENSIVE');
     }
     
     // 2. Known premium high-end brands (Wang Prime, Sheraton, Grand Hyatt, Orange Shabu, etc.)
@@ -754,31 +774,44 @@ function isStrictlyHighEnd(res) {
     return highEndKeywords.some(kw => name.includes(kw));
 }
 
-function matchesPriceFilter(res) {
-    if (!hasPriceFilters()) return true;
-    const price = inferPriceLevel(res);
-    
-    const allowedGroups = new Set([price]);
-    if (price === 'PRICE_LEVEL_VERY_EXPENSIVE') {
+function getPriceLevels(res) {
+    const explicitLevels = normalizePriceLevels(res.price_level);
+    const allowedGroups = new Set(explicitLevels.length > 0 ? explicitLevels : [inferPriceLevel(res)]);
+
+    if (allowedGroups.has('PRICE_LEVEL_VERY_EXPENSIVE')) {
         allowedGroups.add('PRICE_LEVEL_EXPENSIVE');
     }
-    
-    // Dual price boundary cases (low-medium)
-    const name = (res.name || '');
+
+    const name = res.name || '';
     const isDual = Array.from(dualPriceBrands).some(brand => name.includes(brand));
     if (isDual) {
         allowedGroups.add('PRICE_LEVEL_INEXPENSIVE');
         allowedGroups.add('PRICE_LEVEL_MODERATE');
     }
-    
-    // Dual price boundary cases (medium-high)
+
+    const inferredPrice = inferPriceLevel(res);
     const isMediumHighBrand = Array.from(mediumHighPriceBrands).some(brand => name.includes(brand));
-    const isMediumHighInferred = (price === 'PRICE_LEVEL_EXPENSIVE' || price === 'PRICE_LEVEL_VERY_EXPENSIVE') && !isStrictlyHighEnd(res);
+    const isMediumHighInferred = (inferredPrice === 'PRICE_LEVEL_EXPENSIVE' || inferredPrice === 'PRICE_LEVEL_VERY_EXPENSIVE') && !isStrictlyHighEnd(res);
     if (isMediumHighBrand || isMediumHighInferred) {
         allowedGroups.add('PRICE_LEVEL_MODERATE');
         allowedGroups.add('PRICE_LEVEL_EXPENSIVE');
     }
-    
+
+    return priceLevelOrder.filter(level => allowedGroups.has(level));
+}
+
+function getDisplayPriceLevels(res) {
+    const explicitLevels = normalizePriceLevels(res.price_level);
+    return explicitLevels.length > 0 ? explicitLevels : getPriceLevels(res);
+}
+
+function getDisplayPriceSymbol(res) {
+    return getPriceSymbolForLevels(getDisplayPriceLevels(res));
+}
+
+function matchesPriceFilter(res) {
+    if (!hasPriceFilters()) return true;
+    const allowedGroups = new Set(getPriceLevels(res));
     return Array.from(state.priceFilter).some(userPrice => allowedGroups.has(userPrice));
 }
 
@@ -2966,24 +2999,16 @@ function renderCard(res, container, overrideLevel) {
         }
     }
 
-    const inferredPrice = inferPriceLevel(res);
-    let priceSymbol = priceSymbols[inferredPrice];
-    const name = res.name || '';
-    const isDual = Array.from(dualPriceBrands).some(brand => name.includes(brand));
-    const isMediumHighBrand = Array.from(mediumHighPriceBrands).some(brand => name.includes(brand));
-    const isMediumHighInferred = (inferredPrice === 'PRICE_LEVEL_EXPENSIVE' || inferredPrice === 'PRICE_LEVEL_VERY_EXPENSIVE') && !isStrictlyHighEnd(res);
-    const isMediumHigh = isMediumHighBrand || isMediumHighInferred;
-    if (isDual) {
-        priceSymbol = '$ ~ $$';
-    } else if (isMediumHigh) {
-        priceSymbol = '$$ ~ $$$';
-    }
+    const displayPriceLevels = getDisplayPriceLevels(res);
+    const priceSymbol = getPriceSymbolForLevels(displayPriceLevels);
+    const isMultiPrice = displayPriceLevels.length > 1;
+    const inferredPrice = displayPriceLevels[displayPriceLevels.length - 1] || inferPriceLevel(res);
     const metaParts = [];
     if (res.cuisine) {
         metaParts.push(`<span class="card-cuisine">${res.cuisine}</span>`);
     }
     if (priceSymbol) {
-        metaParts.push(`<span class="card-price" title="${(isDual || isMediumHigh) ? 'PRICE_LEVEL_DUAL' : inferredPrice}">${priceSymbol}</span>`);
+        metaParts.push(`<span class="card-price" title="${isMultiPrice ? displayPriceLevels.join(',') : inferredPrice}">${priceSymbol}</span>`);
     }
 
     const metaHtml = metaParts.join('<span class="card-meta-dot">·</span>');
@@ -3403,18 +3428,7 @@ function renderDetailContent(restaurant) {
     const isApp = isInAppBrowser();
     const mapTarget = isApp ? '_self' : '_blank';
 
-    const inferredPrice = inferPriceLevel(restaurant);
-    let priceSymbol = priceSymbols[inferredPrice];
-    const name = restaurant.name || '';
-    const isDual = Array.from(dualPriceBrands).some(brand => name.includes(brand));
-    const isMediumHighBrand = Array.from(mediumHighPriceBrands).some(brand => name.includes(brand));
-    const isMediumHighInferred = (inferredPrice === 'PRICE_LEVEL_EXPENSIVE' || inferredPrice === 'PRICE_LEVEL_VERY_EXPENSIVE') && !isStrictlyHighEnd(restaurant);
-    const isMediumHigh = isMediumHighBrand || isMediumHighInferred;
-    if (isDual) {
-        priceSymbol = '$ ~ $$';
-    } else if (isMediumHigh) {
-        priceSymbol = '$$ ~ $$$';
-    }
+    const priceSymbol = getDisplayPriceSymbol(restaurant);
     const detailMetaParts = [];
     if (restaurant.cuisine) {
         detailMetaParts.push(restaurant.cuisine);
@@ -4905,7 +4919,13 @@ function compactSummaryText(summary, restaurant, options = {}) {
     const maxChars = options.maxChars || 160;
     const source = getSummarySourceText(summary, restaurant);
     let cautions = getFamilyCautions(attrs);
+    if (/未提供兒童椅|無兒童椅|沒有兒童椅|不提供兒童椅|未設.*兒童椅/.test(source)) {
+        cautions = cautions.filter(caution => caution !== '未提供兒童椅');
+    }
     if (/座位(配置)?較(為)?緊密/.test(source)) {
+        cautions = cautions.filter(caution => caution !== '座位較為緊密');
+    }
+    if (/空間較小|空間較為狹小|座位有限|不適合推車/.test(source)) {
         cautions = cautions.filter(caution => caution !== '座位較為緊密');
     }
     if (/沒有遊樂區|無遊樂區|未設有兒童遊戲區/.test(source)) {
@@ -6267,4 +6287,3 @@ function handleHomeFeedbackLinkClick(e) {
 document.addEventListener('click', handleHomeFeedbackLinkClick);
 // Start the app
 init();
-

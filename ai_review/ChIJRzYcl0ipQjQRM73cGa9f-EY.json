@@ -39,10 +39,12 @@
         "evidence": null,
         "confidence": 0.4
     },
-    "generated_summary": "根據評論分析，排餐與肉類料理火候恰當、肉質扎實，受食客肯定。氣氛輕鬆親子友善，適合帶孩子前來用餐。",
-    "card_summary": "",
+    "generated_summary": "根據評論分析，這家餐廳以日式咖哩餐點為主，店家不提供兒童餐；有家長分享可針對小孩做不辣的咖哩。",
+    "card_summary": "根據評論分析，這家餐廳以日式咖哩餐點為主，店家不提供兒童餐；有家長分享可針對小孩做不辣的咖哩。",
     "generated_signals": [
-        "Google 官方登記適合兒童用餐"
+        "Google 官方登記適合兒童用餐",
+        "有家長分享可針對小孩做不辣的咖哩"
+    
     ],
     "parent_friendly_score": 1,
     "parent_friendly_level": "中",

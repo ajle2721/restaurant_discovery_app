@@ -1706,6 +1706,14 @@ function applyPlaceSpecificAttributeOverrides(attributes, placeId = "") {
       high_chair_available: "yes",
     };
   }
+  if (placeId === "ChIJqQiO7kSpQjQRXfHwz8UCk78") {
+    return {
+      ...attributes,
+      high_chair_available: "no",
+      spacious_seating: "no",
+      kid_noise_tolerant: "unknown",
+    };
+  }
   return attributes;
 }
 function getContactInfo(placeId, baseRestaurant = {}) {
@@ -1724,6 +1732,11 @@ function getCuisine(placeId, baseRestaurant) {
 
 function getPriceLevel(baseRestaurant, placeId = "") {
   if (["ChIJ4Z8YGY2sQjQRxOZSCQRmIWw", "ChIJNR6EwOerQjQRdm-NnC3KFgg"].includes(placeId)) return "PRICE_LEVEL_INEXPENSIVE";
+  if (placeId === "ChIJ_daWjWCpQjQR07ZxjRhveNE") return "PRICE_LEVEL_MODERATE";
+  if (placeId === "ChIJuQTi1UurQjQRY_XJpSR0edQ") return "PRICE_LEVEL_INEXPENSIVE";
+  if (placeId === "ChIJT2RRd_-rQjQRdhdP8tbNvbU") return "PRICE_LEVEL_EXPENSIVE";
+  if (placeId === "ChIJkbeqYWypQjQRvQWa7UGvPK0") return "PRICE_LEVEL_MODERATE";
+  if (placeId === "ChIJRzYcl0ipQjQRM73cGa9f-EY") return ["PRICE_LEVEL_INEXPENSIVE", "PRICE_LEVEL_MODERATE"];
   const name = baseRestaurant.name || "";
   if (/Mini Club/i.test(name)) return "PRICE_LEVEL_MODERATE";
   if (/URBAN PARADISE 信義店/i.test(name)) return "PRICE_LEVEL_EXPENSIVE";
@@ -1808,8 +1821,8 @@ function buildRecord(placeId, baseRestaurant, aiReview) {
     baseRestaurant.longitude ?? null,
     getRestaurantMapUrl(baseRestaurant),
     attributes,
-    getCleanFamilySummary(removeGenericSummaryPhrases(applyPlaceSpecificSummaryOverrides(appendDaylightBrandSummary(appendFamilyFriendlyChainSummary(aiReview.generated_summary || baseRestaurant.ai_summary || "", baseRestaurant.name || ""), baseRestaurant.name || ""), placeId)), { ...baseRestaurant, cuisine }, attributes),
-    getCleanFamilySummary(removeGenericSummaryPhrases(applyPlaceSpecificSummaryOverrides(appendDaylightBrandSummary(appendFamilyFriendlyChainSummary(aiReview.card_summary || baseRestaurant.card_summary || "", baseRestaurant.name || ""), baseRestaurant.name || ""), placeId)), { ...baseRestaurant, cuisine }, attributes),
+    (placeId === "ChIJV5d72mKrQjQRm-ynukg7ojY" ? "這間早午餐店備有兒童餐具、環境對孩子聲音較包容、有包廂。" : (placeId === "ChIJqQiO7kSpQjQRXfHwz8UCk78" ? "根據目前整理資料，店內以咖哩餐點為主，店內主要是靠牆座位、空間較小，不適合推車進入，且咖哩口味偏辣。" : getCleanFamilySummary(removeGenericSummaryPhrases(applyPlaceSpecificSummaryOverrides(appendDaylightBrandSummary(appendFamilyFriendlyChainSummary(aiReview.generated_summary || baseRestaurant.ai_summary || "", baseRestaurant.name || ""), baseRestaurant.name || ""), placeId)), { ...baseRestaurant, cuisine }, attributes))),
+    (placeId === "ChIJV5d72mKrQjQRm-ynukg7ojY" ? "這間早午餐店備有兒童餐具、環境對孩子聲音較包容、有包廂。" : (placeId === "ChIJqQiO7kSpQjQRXfHwz8UCk78" ? "根據目前整理資料，店內以咖哩餐點為主，店內主要是靠牆座位、空間較小，不適合推車進入，且咖哩口味偏辣。" : getCleanFamilySummary(removeGenericSummaryPhrases(applyPlaceSpecificSummaryOverrides(appendDaylightBrandSummary(appendFamilyFriendlyChainSummary(aiReview.card_summary || baseRestaurant.card_summary || "", baseRestaurant.name || ""), baseRestaurant.name || ""), placeId)), { ...baseRestaurant, cuisine }, attributes))),
     (isFamilyFriendlyChain(baseRestaurant.name || "") || isDaylightBrand(baseRestaurant.name || "")) ? "高" : (
       aiReview.parent_friendly_level ||
       baseRestaurant.parent_friendly_level ||

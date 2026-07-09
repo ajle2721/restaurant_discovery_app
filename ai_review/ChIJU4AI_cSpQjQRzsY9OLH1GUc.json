@@ -1,8 +1,9 @@
 ﻿{
     " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
+                                  "result":  "Yes",
+                                  "evidence":  "使用者回報：有兒童椅。",
+                                  "confidence":  1
+                              
                               },
     "Spacious seating":  {
                              "result":  "Unknown",
@@ -30,21 +31,26 @@
                              "confidence":  0.4
                          },
     "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
+                          "result":  "Yes",
+                          "evidence":  "使用者回報：有兒童餐具。",
+                          "confidence":  1
+                      
                       },
     "has_diaper_table":  {
                              "result":  "Unknown",
                              "evidence":  null,
                              "confidence":  0.4
                          },
-    "generated_summary":  "根據評論分析，排餐與肉類料理火候恰當、肉質扎實，受食客肯定。",
-    "card_summary":  "",
+    "generated_summary":  "根據評論分析，這家店以日式居酒屋與燒烤料理為主，有評論提到店家對小孩友善；店內有兒童椅與兒童餐具。",
+    "card_summary":  "根據評論分析，這家店以日式居酒屋與燒烤料理為主，有評論提到店家對小孩友善；店內有兒童椅與兒童餐具。",
     "generated_signals":  [
+                              "店家對小孩很友善，值得再來！",
+                              "有兒童椅",
+                              "有兒童餐具"
+                          
 
                           ],
-    "parent_friendly_score":  0,
-    "parent_friendly_level":  "資訊不足",
+    "parent_friendly_score":  2,
+    "parent_friendly_level":  "高",
     "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
 }
