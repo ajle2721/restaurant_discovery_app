@@ -366,14 +366,14 @@ manualRecords.push([
 ]);
 manualRecords.push([
   "ChIJP7RGDQCpQjQRcY8fYCcGq8Q",
-  "貳加貳早午餐 兒童餐",
+  "貳加貳早午餐",
   "100臺北市中正區梅花里紹興北街25號1樓",
   "中正區",
   "PRICE_LEVEL_INEXPENSIVE",
   "早午餐",
   25.0442,
   121.5261,
-  "https://www.google.com/maps/search/?api=1&query=%E8%B2%B3%E5%8A%A0%E8%B2%B3%E6%97%A9%E5%8D%88%E9%A4%90%20%E5%85%92%E7%AB%A5%E9%A4%90%20100%E8%87%BA%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E6%A2%85%E8%8A%B1%E9%87%8C%E7%B4%B9%E8%88%88%E5%8C%97%E8%A1%9725%E8%99%9F1%E6%A8%93&query_place_id=ChIJP7RGDQCpQjQRcY8fYCcGq8Q",
+  "https://www.google.com/maps/search/?api=1&query=%E8%B2%B3%E5%8A%A0%E8%B2%B3%E6%97%A9%E5%8D%88%E9%A4%90%20100%E8%87%BA%E5%8C%97%E5%B8%82%E4%B8%AD%E6%AD%A3%E5%8D%80%E6%A2%85%E8%8A%B1%E9%87%8C%E7%B4%B9%E8%88%88%E5%8C%97%E8%A1%9725%E8%99%9F1%E6%A8%93&query_place_id=ChIJP7RGDQCpQjQRcY8fYCcGq8Q",
   {
     high_chair_available: "yes",
     kids_menu: "unknown",
@@ -909,13 +909,13 @@ manualRecords.push(
   [
     "manual-haidilao-taipei-q-square",
     "海底撈 京站店",
-    "台北市大同區承德路一段1號4樓 (京站廣場)",
+    "103台灣臺北市大同區建明里承德路一段1號4 樓",
     "大同區",
     null,
     "火鍋",
-    25.0493,
-    121.5165,
-    "https://www.abic.com.tw/place/view/id/10856",
+    25.0496268,
+    121.5169766,
+    "https://maps.google.com/?cid=15962383779520217772",
     {
       high_chair_available: "yes",
       kids_menu: "yes",
@@ -930,20 +930,20 @@ manualRecords.push(
     "有兒童椅、兒童餐具、寶寶蒸蛋、遊戲室與陪玩人員，另有嬰兒床。",
     "高",
     "台式/中式料理",
-    "02-2559-0125",
+    "02 2559 0125",
     "https://www.haidilao.com/tw/",
     "",
   ],
   [
     "manual-haidilao-taipei-qingcheng",
     "海底撈 慶城店",
-    "台北市松山區慶城街1號3樓",
+    "105台灣臺北市松山區中正里慶城街1號3F",
     "松山區",
     null,
     "火鍋",
-    25.0524,
-    121.5446,
-    "https://bunnyann.tw/lamxb/",
+    25.0527995,
+    121.5444372,
+    "https://maps.google.com/?cid=3646508975314301394",
     {
       high_chair_available: "yes",
       kids_menu: "yes",
@@ -958,20 +958,20 @@ manualRecords.push(
     "有兒童椅、兒童餐具、寶寶蒸蛋與親子遊戲區，空間寬敞不怕吵。",
     "高",
     "台式/中式料理",
-    "",
+    "02 2719 3155",
     "https://www.haidilao.com/tw/",
     "",
   ],
   [
     "manual-haidilao-taipei-ximen",
     "海底撈 西門店",
-    "台北市萬華區西寧南路36號",
+    "108412台灣台北市萬華區仁德里桂林路1號4樓",
     "萬華區",
     null,
     "火鍋",
-    25.0454,
-    121.5064,
-    "https://www.google.com/maps/search/?api=1&query=%E6%B5%B7%E5%BA%95%E6%92%88%20%E8%A5%BF%E9%96%80%E5%BA%97%20%E5%8F%B0%E5%8C%97",
+    25.0379886,
+    121.5057373,
+    "https://maps.google.com/?cid=8568515344415161857",
     {
       high_chair_available: "yes",
       kids_menu: "yes",
@@ -986,20 +986,20 @@ manualRecords.push(
     "有兒童椅、兒童餐具、寶寶蒸蛋、兒童遊戲室與陪玩人員。",
     "高",
     "台式/中式料理",
-    "",
+    "02 2314 6868",
     "https://www.haidilao.com/tw/",
     "",
   ],
   [
     "manual-haidilao-taipei-breeze-nanshan",
     "海底撈 信義微風南山店",
-    "台北市信義區松智路17號B2 (微風南山)",
+    "110台灣臺北市信義區松智路17號B2",
     "信義區",
     null,
     "火鍋",
-    25.0340,
-    121.5672,
-    "https://travel.udn.com/travel/story/7193/7540050",
+    25.0344145,
+    121.5660775,
+    "https://maps.google.com/?cid=5970809412175292994",
     {
       high_chair_available: "yes",
       kids_menu: "yes",
@@ -1014,7 +1014,7 @@ manualRecords.push(
     "有兒童椅、兒童餐具、寶寶蒸蛋、兒童遊戲室與陪玩人員。",
     "高",
     "台式/中式料理",
-    "",
+    "02 8780 1866",
     "https://www.haidilao.com/tw/",
     "",
   ],
@@ -1737,6 +1737,7 @@ function getPriceLevel(baseRestaurant, placeId = "") {
   if (placeId === "ChIJT2RRd_-rQjQRdhdP8tbNvbU") return "PRICE_LEVEL_EXPENSIVE";
   if (placeId === "ChIJkbeqYWypQjQRvQWa7UGvPK0") return "PRICE_LEVEL_MODERATE";
   if (placeId === "ChIJRzYcl0ipQjQRM73cGa9f-EY") return ["PRICE_LEVEL_INEXPENSIVE", "PRICE_LEVEL_MODERATE"];
+  if (["ChIJFfVmWxOrQjQRpZNkwn69ODk", "ChIJe0uG6WupQjQRuMuJa1-1YQE", "ChIJvwDbIb2uQjQRZDfl_UYYHkE"].includes(placeId)) return ["PRICE_LEVEL_INEXPENSIVE", "PRICE_LEVEL_MODERATE"];
   const name = baseRestaurant.name || "";
   if (/Mini Club/i.test(name)) return "PRICE_LEVEL_MODERATE";
   if (/URBAN PARADISE 信義店/i.test(name)) return "PRICE_LEVEL_EXPENSIVE";
@@ -1785,7 +1786,55 @@ function removeGenericSummaryPhrases(summary = "") {
     .trim();
 }
 
-function getRestaurantMapUrl(baseRestaurant) {
+const mapUrlOverrides = {
+  "manual-dintaifung-taipei-xinyi": "https://maps.google.com/?cid=10663098530229991004",
+  "manual-dintaifung-taipei-fuxing": "https://maps.google.com/?cid=345482929943964166",
+  "manual-dintaifung-taipei-tianmu": "https://maps.google.com/?cid=17090229889021022318",
+  "manual-dintaifung-taipei-101": "https://maps.google.com/?cid=5895780768888079129",
+  "manual-dintaifung-taipei-nanxi": "https://maps.google.com/?cid=16094901985538208302",
+  "manual-dintaifung-taipei-a4": "https://maps.google.com/?cid=16213733224484544158",
+  "manual-dintaifung-taipei-a13": "https://maps.google.com/?cid=7294456140752511044",
+  "manual-dintaifung-taipei-xinsheng": "https://maps.google.com/?cid=6292126131638321145",
+  "manual-tokiya-taipei-fuxing-north": "https://maps.google.com/?cid=9316044514889728276",
+  "manual-chamonix-taipei-zhongshan-north": "https://maps.google.com/?cid=16766130385498564447",
+  "manual-chamonix-taipei-dazhi-jingye": "https://maps.google.com/?cid=9775725416229365096",
+  "manual-chamonix-taipei-nanchang": "https://maps.google.com/?cid=1731573374261922272",
+  "manual-chamonix-taipei-zhongxiao-east": "https://maps.google.com/?cid=6336823280486610796",
+  "manual-tasty-taipei-chongqing-south": "https://maps.google.com/?cid=5706277949773658131",
+  "manual-tasty-taipei-guangfu-south": "https://maps.google.com/?cid=8818510498777477087",
+  "manual-tasty-taipei-nanjing-east": "https://maps.google.com/?cid=14260476398847703955",
+  "manual-tasty-taipei-roosevelt": "https://maps.google.com/?cid=10713725019251933170",
+  "manual-second-floor-taipei-dunnan": "https://maps.google.com/?cid=17835539384920904832",
+  "manual-second-floor-taipei-gongguan": "https://maps.google.com/?cid=16249221565562406208",
+  "manual-fridays-taipei-miramar": "https://maps.google.com/?cid=6242177921935044667",
+  "manual-fridays-taipei-ximen": "https://maps.google.com/?cid=7962355395235933055",
+  "manual-fridays-taipei-linsen": "https://maps.google.com/?cid=12739528072934664069",
+  "manual-fridays-taipei-songgao": "https://maps.google.com/?cid=7888404879265950612",
+  "manual-texas-roadhouse-taipei-minsheng": "https://maps.google.com/?cid=211620931969558108",
+  "manual-texas-roadhouse-taipei-fuxing": "https://maps.google.com/?cid=189719219741066567",
+  "manual-texas-roadhouse-taipei-songgao": "https://maps.google.com/?cid=11969524607797163582",
+  "manual-hooters-taipei-qingcheng": "https://maps.google.com/?cid=14682388055836993581",
+  "manual-anzu-taipei-caesar": "https://maps.google.com/?cid=3601722486388077516",
+  "manual-anzu-taipei-q-square": "https://maps.google.com/?cid=3230396233155290938",
+  "manual-kura-taipei-guanqian": "https://maps.google.com/?cid=14425020235779465369",
+  "manual-kura-taipei-songjiang-nanjing": "https://maps.google.com/?cid=5291094693592919910",
+  "manual-kura-taipei-breeze-songgao": "https://maps.google.com/?cid=13612487973589555319",
+  "manual-kura-taipei-xinyi-att": "https://maps.google.com/?cid=10493309077122022688",
+  "manual-kura-taipei-zhongshan-nanxi": "https://maps.google.com/?cid=13136084518931039445",
+  "manual-kura-taipei-nangang-citylink": "https://maps.google.com/?cid=7951973049706854090",
+  "manual-coco-ichibanya-taipei-shishang": "https://maps.google.com/?cid=2940552940551435537",
+  "manual-coco-ichibanya-taipei-xinyi-a8": "https://maps.google.com/?cid=6450532920110864890",
+  "manual-coco-ichibanya-taipei-syntrend": "https://maps.google.com/?cid=11761599129808585588",
+  "manual-coco-ichibanya-taipei-nanjing-fuxing": "https://maps.google.com/?cid=6027450894757557796",
+  "manual-coco-ichibanya-taipei-gongguan": "https://maps.google.com/?cid=9167966570219137457",
+  "manual-coco-ichibanya-taipei-ximen-hanzhong": "https://maps.google.com/?cid=15511612982704019094",
+  "manual-coco-ichibanya-taipei-songshan": "https://maps.google.com/?cid=11815537163917620964",
+  "manual-coco-ichibanya-taipei-tianmu-takashimaya": "https://maps.google.com/?cid=7591851834181188858",
+  "manual-coco-ichibanya-taipei-nanjing-jianguo": "https://maps.google.com/?cid=9657251424426384006"
+};
+
+function getRestaurantMapUrl(baseRestaurant, placeId = "") {
+  if (mapUrlOverrides[placeId]) return mapUrlOverrides[placeId];
   const name = baseRestaurant.name || "";
   if (/YAYOI|彌生/.test(name)) {
     const query = encodeURIComponent(`${name} ${baseRestaurant.address || baseRestaurant.formatted_address || "台北"}`);
@@ -1794,41 +1843,51 @@ function getRestaurantMapUrl(baseRestaurant) {
   return baseRestaurant.url || baseRestaurant.google_maps_url || "";
 }
 
+function getDisplayRestaurantName(placeId, name = "") {
+  if (placeId === "ChIJP7RGDQCpQjQRcY8fYCcGq8Q") {
+    return String(name || "").replace(/\s*兒童餐\s*/g, "").trim();
+  }
+  return name || "";
+}
+
 function buildRecord(placeId, baseRestaurant, aiReview) {
+  const displayName = getDisplayRestaurantName(placeId, baseRestaurant.name || "");
+  const displayRestaurant = { ...baseRestaurant, name: displayName };
+
   let attributes = getAiAttributes(
     aiReview,
     baseRestaurant.attributes || {},
-    baseRestaurant.name || "",
+    displayName,
     baseRestaurant.address || baseRestaurant.formatted_address || "",
     getPriceLevel(baseRestaurant, placeId)
   );
 
-  attributes = applyFamilyFriendlyChainAttributes(attributes, baseRestaurant.name || "");
-  attributes = applyDaylightBrandAttributes(attributes, baseRestaurant.name || "");
+  attributes = applyFamilyFriendlyChainAttributes(attributes, displayName);
+  attributes = applyDaylightBrandAttributes(attributes, displayName);
   attributes = applyPlaceSpecificAttributeOverrides(attributes, placeId);
 
-  const cuisine = getCuisine(placeId, baseRestaurant);
+  const cuisine = getCuisine(placeId, displayRestaurant);
   const contactInfo = getContactInfo(placeId, baseRestaurant);
 
   return [
     placeId,
-    baseRestaurant.name || "",
+    displayName,
     baseRestaurant.address || baseRestaurant.formatted_address || "",
     baseRestaurant.district || "",
     getPriceLevel(baseRestaurant, placeId),
     cuisine,
     baseRestaurant.latitude ?? null,
     baseRestaurant.longitude ?? null,
-    getRestaurantMapUrl(baseRestaurant),
+    getRestaurantMapUrl(baseRestaurant, placeId),
     attributes,
-    (placeId === "ChIJV5d72mKrQjQRm-ynukg7ojY" ? "這間早午餐店備有兒童餐具、環境對孩子聲音較包容、有包廂。" : (placeId === "ChIJqQiO7kSpQjQRXfHwz8UCk78" ? "根據目前整理資料，店內以咖哩餐點為主，店內主要是靠牆座位、空間較小，不適合推車進入，且咖哩口味偏辣。" : getCleanFamilySummary(removeGenericSummaryPhrases(applyPlaceSpecificSummaryOverrides(appendDaylightBrandSummary(appendFamilyFriendlyChainSummary(aiReview.generated_summary || baseRestaurant.ai_summary || "", baseRestaurant.name || ""), baseRestaurant.name || ""), placeId)), { ...baseRestaurant, cuisine }, attributes))),
-    (placeId === "ChIJV5d72mKrQjQRm-ynukg7ojY" ? "這間早午餐店備有兒童餐具、環境對孩子聲音較包容、有包廂。" : (placeId === "ChIJqQiO7kSpQjQRXfHwz8UCk78" ? "根據目前整理資料，店內以咖哩餐點為主，店內主要是靠牆座位、空間較小，不適合推車進入，且咖哩口味偏辣。" : getCleanFamilySummary(removeGenericSummaryPhrases(applyPlaceSpecificSummaryOverrides(appendDaylightBrandSummary(appendFamilyFriendlyChainSummary(aiReview.card_summary || baseRestaurant.card_summary || "", baseRestaurant.name || ""), baseRestaurant.name || ""), placeId)), { ...baseRestaurant, cuisine }, attributes))),
-    (isFamilyFriendlyChain(baseRestaurant.name || "") || isDaylightBrand(baseRestaurant.name || "")) ? "高" : (
+    (placeId === "ChIJV5d72mKrQjQRm-ynukg7ojY" ? "這間早午餐店備有兒童餐具、環境對孩子聲音較包容、有包廂。" : (placeId === "ChIJqQiO7kSpQjQRXfHwz8UCk78" ? "根據目前整理資料，店內以咖哩餐點為主，店內主要是靠牆座位、空間較小，不適合推車進入，且咖哩口味偏辣。" : getCleanFamilySummary(removeGenericSummaryPhrases(applyPlaceSpecificSummaryOverrides(appendDaylightBrandSummary(appendFamilyFriendlyChainSummary(aiReview.generated_summary || baseRestaurant.ai_summary || "", displayName), displayName), placeId)), { ...displayRestaurant, cuisine }, attributes))),
+    (placeId === "ChIJV5d72mKrQjQRm-ynukg7ojY" ? "這間早午餐店備有兒童餐具、環境對孩子聲音較包容、有包廂。" : (placeId === "ChIJqQiO7kSpQjQRXfHwz8UCk78" ? "根據目前整理資料，店內以咖哩餐點為主，店內主要是靠牆座位、空間較小，不適合推車進入，且咖哩口味偏辣。" : getCleanFamilySummary(removeGenericSummaryPhrases(applyPlaceSpecificSummaryOverrides(appendDaylightBrandSummary(appendFamilyFriendlyChainSummary(aiReview.card_summary || baseRestaurant.card_summary || "", displayName), displayName), placeId)), { ...displayRestaurant, cuisine }, attributes))),
+    (isFamilyFriendlyChain(displayName) || isDaylightBrand(displayName)) ? "高" : (
       aiReview.parent_friendly_level ||
       baseRestaurant.parent_friendly_level ||
       "資訊不足"
     ),
-    getMajorCuisines(cuisine, baseRestaurant.name || ""),
+    getMajorCuisines(cuisine, displayName),
     contactInfo.phone,
     contactInfo.website_url,
     contactInfo.reservation_url,
@@ -1977,7 +2036,7 @@ function buildRecord_old(placeId, baseRestaurant, aiReview) {
     getCuisine_old(baseRestaurant),
     baseRestaurant.latitude ?? null,
     baseRestaurant.longitude ?? null,
-    getRestaurantMapUrl(baseRestaurant),
+    getRestaurantMapUrl(baseRestaurant, placeId),
     attributes,
     getCleanFamilySummary(removeGenericSummaryPhrases(applyPlaceSpecificSummaryOverrides(aiReview.generated_summary || baseRestaurant.ai_summary || "", placeId)), baseRestaurant, attributes),
     getCleanFamilySummary(removeGenericSummaryPhrases(applyPlaceSpecificSummaryOverrides(aiReview.card_summary || baseRestaurant.card_summary || "", placeId)), baseRestaurant, attributes),
@@ -3104,7 +3163,7 @@ const manualCatalogByPlaceId = new Map(
       while (record.length < columns.length) record.push("");
       record[4] = getPriceLevel(manualBaseRestaurant, record[0]);
       record[5] = cuisine;
-      record[8] = getRestaurantMapUrl(manualBaseRestaurant);
+      record[8] = getRestaurantMapUrl(manualBaseRestaurant, record[0]);
       record[13] = getMajorCuisines(cuisine, record[1] || "");
       records.push(record);
     }
