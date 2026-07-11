@@ -1,51 +1,51 @@
 ﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "店內空間非常寬敞、座位也多",
-                             "confidence":  0.8
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "📌 親子友善、寵物友善（不落地）",
-                               "confidence":  0.8
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，獲得好評。空間寬敞舒適，氣氛熱鬧親子友善，適合帶孩子前來用餐。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "店內空間非常寬敞、座位也多",
-                              "📌 親子友善、寵物友善（不落地）"
-                          ],
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "中",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+    " child_seat available": {
+        "result": "Yes",
+        "evidence": "使用者回報與人工補充：一茶一瓦 OTOT 提供兒童椅",
+        "confidence": 1
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "店內空間非常寬敞、座位也多",
+        "confidence": 0.8
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "📌 親子友善、寵物友善（不落地）",
+        "confidence": 0.8
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "generated_summary": "一茶一瓦 OTOT 是茶藝館，提供兒童椅；店內空間較寬敞、座位較多，環境對孩子聲音較包容。其他兒童餐、兒童餐具、遊戲區與尿布台等設施尚未確認。",
+    "card_summary": "空間較寬敞的茶藝館，提供兒童椅，環境對孩子聲音較包容。",
+    "generated_signals": [
+        "店內空間非常寬敞、座位也多",
+        "📌 親子友善、寵物友善（不落地）"
+    ],
+    "parent_friendly_score": 4,
+    "parent_friendly_level": "高",
+    "reason": "使用者回報與人工補充，結合既有空間及親子友善資訊"
 }

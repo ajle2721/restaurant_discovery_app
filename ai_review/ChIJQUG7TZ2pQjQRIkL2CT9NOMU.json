@@ -1,50 +1,50 @@
 ﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "環境很舒服乾淨",
-                             "confidence":  0.8
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Unknown",
-                               "evidence":  null,
-                               "confidence":  0.4
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，獲得好評。空間寬敞舒適，適合帶孩子前來用餐。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "環境很舒服乾淨"
-                          ],
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "中",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "環境很舒服乾淨",
+        "confidence": 0.8
+    },
+    "Kids menu available": {
+        "result": "Yes",
+        "evidence": "使用者回報與人工補充：維克私廚提供兒童餐",
+        "confidence": 1
+    },
+    "kid_noise_tolerant": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Likely",
+        "evidence": "使用者回報與人工補充：維克私廚應有兒童餐具，尚待店家確認",
+        "confidence": 0.7
+    },
+    "has_diaper_table": {
+        "result": "Yes",
+        "evidence": "使用者回報與人工補充：維克私廚位於萬華運動中心內，可使用尿布台",
+        "confidence": 1
+    },
+    "generated_summary": "維克私廚位於萬華運動中心內，是平價餐廳，主要提供健康餐盒、輕食與咖啡等餐飲。店內提供兒童餐，可使用尿布台，應有兒童餐具但尚待店家確認；座位空間較寬敞，環境對孩子聲音較包容。",
+    "card_summary": "位於萬華運動中心內的平價健康餐盒與輕食餐廳，提供兒童餐與尿布台；兒童餐具尚待確認。",
+    "generated_signals": [
+        "環境很舒服乾淨"
+    ],
+    "parent_friendly_score": 5,
+    "parent_friendly_level": "高",
+    "reason": "使用者回報與人工補充，結合既有空間資訊"
 }

@@ -1,50 +1,50 @@
 ﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "座位寬敞，桌與桌的間距很大，連娃娃車應該都能輕鬆推過，不用擔心被隔壁客人影響。",
-                             "confidence":  1
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Unknown",
-                               "evidence":  "剛好遇到隔壁桌有失控尖叫的小孩，可能擔心我們會受到影響，主動向我們提出更換座位的安排，以及招待超美味的甜點，美福表現出高水準的處理能力。",
-                               "confidence":  1
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，手作麵包與特色輕食風味獲得顧客好評。空間寬敞舒適，適合帶孩子前來用餐。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "座位寬敞"
-                          ],
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "中",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+    " child_seat available": {
+        "result": "Yes",
+        "evidence": "使用者回報與人工補充：美福乾式熟成牛排館提供兒童椅",
+        "confidence": 1
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "座位寬敞，桌與桌的間距很大，連娃娃車應該都能輕鬆推過，不用擔心被隔壁客人影響。",
+        "confidence": 1
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Unknown",
+        "evidence": "剛好遇到隔壁桌有失控尖叫的小孩，可能擔心我們會受到影響，主動向我們提出更換座位的安排，以及招待超美味的甜點，美福表現出高水準的處理能力。",
+        "confidence": 1
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Likely",
+        "evidence": "使用者回報與人工補充：推估美福乾式熟成牛排館提供兒童餐具，尚待店家確認",
+        "confidence": 0.7
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "generated_summary": "美福乾式熟成牛排館提供兒童椅，推估有兒童餐具但尚待店家確認。座位寬敞、桌距較大，推車通行相對方便。",
+    "card_summary": "提供兒童椅，推估有兒童餐具；座位與桌距較寬敞，推車通行相對方便。",
+    "generated_signals": [
+        "座位寬敞"
+    ],
+    "parent_friendly_score": 4,
+    "parent_friendly_level": "高",
+    "reason": "使用者回報與人工補充；既有評論僅支持寬敞座位及甜點正評，不支持手作麵包與特色輕食正評"
 }

@@ -543,10 +543,21 @@ function sanitizeUnavailableFamilyFacilitySummary(summary, attributes = {}) {
   }
   if (!isPositiveAttributeValue(attributes.has_tableware)) {
     unavailablePatterns.push(/兒童餐具|專用餐具|專用碗盤|碗盤餐具|兒童碗|兒童餐盤/);
+  }  if (!isPositiveAttributeValue(attributes.kids_menu)) {
+    unavailablePatterns.push(/兒童餐(?!具)(?:點|菜單)?|兒童套餐/);
+  }
+  if (!isPositiveAttributeValue(attributes.has_play_area)) {
+    unavailablePatterns.push(/遊戲區|遊樂區|遊戲空間|兒童遊戲/);
+  }
+  if (!["yes", "likely", "room", "likely_room", "venue", "likely_venue"].includes(attributes.has_private_room)) {
+    unavailablePatterns.push(/包廂|獨立用餐區/);
+  }
+  if (!isPositiveAttributeValue(attributes.has_diaper_table)) {
+    unavailablePatterns.push(/尿布台|換尿布|更換尿布/);
   }
   if (unavailablePatterns.length === 0) return summary;
 
-  const negativeFacilityPattern = /(?:未提供|沒有|無提供|不提供|需留意未提供|需自備|自行準備)/;
+  const negativeFacilityPattern = /(?:未提供|沒有|無提供|不提供|尚未(?:明確)?確認|未(?:明確)?確認|資訊(?:尚)?未確認|需留意未提供|需自備|自行準備)/;
   return String(summary)
     .replace(/\s+/g, " ")
     .match(/[^。！？!?]+[。！？!?]?/g)
@@ -1285,6 +1296,7 @@ function getRestaurantTypeSummaryLabel(restaurant = {}) {
     '壽司': '壽司店',
     '拉麵': '拉麵店',
     '牛排館': '牛排館',
+    '餐館': '餐館',
     '小酒館/餐酒館': '餐酒館'
   };
   if (labels[cuisine]) return labels[cuisine];
@@ -1731,6 +1743,13 @@ function getCuisine(placeId, baseRestaurant) {
 }
 
 function getPriceLevel(baseRestaurant, placeId = "") {
+  if (placeId === "ChIJQUG7TZ2pQjQRIkL2CT9NOMU") return "PRICE_LEVEL_INEXPENSIVE";
+  if (placeId === "ChIJIWFwqW-pQjQRG1swI_5bSsc") return ["PRICE_LEVEL_INEXPENSIVE", "PRICE_LEVEL_MODERATE"];
+  if (placeId === "ChIJTWxPJwCrQjQRsW2qLn4sGmo") return "PRICE_LEVEL_MODERATE";
+  if (placeId === "ChIJqekue9yrQjQR6OpTrxGHO9U") return ["PRICE_LEVEL_INEXPENSIVE", "PRICE_LEVEL_MODERATE"];
+  if (placeId === "ChIJly19jbyrQjQRBN17akR0XKo") return ["PRICE_LEVEL_MODERATE", "PRICE_LEVEL_EXPENSIVE"];
+  if (placeId === "ChIJg_WonMKtQjQR4YMFdeW1ew4") return "PRICE_LEVEL_MODERATE";
+  if (placeId === "ChIJfWGyPn2uQjQR64K_LG8uJ8Y") return "PRICE_LEVEL_MODERATE";
   if (["ChIJ4Z8YGY2sQjQRxOZSCQRmIWw", "ChIJNR6EwOerQjQRdm-NnC3KFgg"].includes(placeId)) return "PRICE_LEVEL_INEXPENSIVE";
   if (placeId === "ChIJ_daWjWCpQjQR07ZxjRhveNE") return "PRICE_LEVEL_MODERATE";
   if (placeId === "ChIJuQTi1UurQjQRY_XJpSR0edQ") return "PRICE_LEVEL_INEXPENSIVE";
@@ -1786,6 +1805,67 @@ function removeGenericSummaryPhrases(summary = "") {
     .trim();
 }
 
+function hasExplicitTasteEvidence(aiReview = {}, sentence = "") {
+  const evidence = [];
+  const visit = (value, key = "") => {
+    if (value == null) return;
+    if (typeof value === "string") {
+      if (key === "evidence" || key === "generated_signals" || key === "manual_note") evidence.push(value);
+      return;
+    }
+    if (Array.isArray(value)) {
+      value.forEach((item) => visit(item, key));
+      return;
+    }
+    if (typeof value === "object") Object.entries(value).forEach(([childKey, childValue]) => visit(childValue, childKey));
+  };
+  visit(aiReview);
+  const evidenceText = evidence.join(" ");
+  const foodCategories = [
+    { claim: /麵包|吐司/, evidence: /麵包|吐司/ },
+    { claim: /輕食/, evidence: /輕食/ },
+    { claim: /小籠包|中式點心/, evidence: /小籠包|點心|蝦餃|燒賣/ },
+    { claim: /甜點|蛋糕|鬆餅|布丁|冰淇淋/, evidence: /甜點|蛋糕|鬆餅|布丁|冰淇淋/ },
+    { claim: /披薩|比薩/, evidence: /披薩|比薩|pizza/i },
+    { claim: /義大利麵|意大利麵|燉飯/, evidence: /義大利麵|意大利麵|燉飯|pasta|risotto/i },
+    { claim: /牛排/, evidence: /牛排|steak/i },
+    { claim: /沙拉|蔬食|素食/, evidence: /沙拉|蔬食|素食|vegan|vegetarian/i },
+    { claim: /咖啡/, evidence: /咖啡|coffee/i },
+    { claim: /咖哩/, evidence: /咖哩|curry/i },
+    { claim: /拉麵/, evidence: /拉麵|ramen/i },
+    { claim: /壽司|生魚片/, evidence: /壽司|生魚片|sushi/i },
+    { claim: /火鍋|鍋物|涮涮鍋/, evidence: /火鍋|鍋物|涮涮鍋/ },
+    { claim: /燒肉|烤肉/, evidence: /燒肉|烤肉/ },
+    { claim: /海鮮/, evidence: /海鮮/ },
+  ];
+  const claimedCategories = foodCategories.filter(({ claim }) => claim.test(sentence));
+  if (claimedCategories.length > 0 && !claimedCategories.every(({ evidence: pattern }) => pattern.test(evidenceText))) {
+    return false;
+  }
+  return /(?<!好)好吃|美味|可口|味道.{0,6}(?:好|佳|不錯)|口味.{0,6}(?:好|佳|不錯)|風味.{0,6}(?:好|佳|地道|出色)|餐點.{0,6}(?:好|佳|不錯)|料理.{0,6}(?:好|佳|不錯)|口感.{0,6}(?:好|佳|不錯|精緻)/.test(evidenceText);
+}
+
+function isCuisineClaimCompatible(sentence = "", restaurant = {}) {
+  const context = `${restaurant.name || ""} ${restaurant.cuisine || restaurant.major_cuisine || ""}`;
+  if (/小籠包|中式點心/.test(sentence) && !/中式|台式|港式|上海|江浙|鼎泰豐|點心/.test(context)) return false;
+  if (/蔬食|素食|沙拉料理/.test(sentence) && !/蔬食|素食|健康餐|沙拉/.test(context)) return false;
+  return true;
+}
+
+function sanitizeUnsupportedFoodPraise(summary = "", restaurant = {}, aiReview = {}) {
+  if (!summary) return "";
+  const unsupportedPraise = /(?:好吃|美味|可口|烹調用心|口味.{0,8}(?:良好|不錯|佳)|味道.{0,8}(?:良好|不錯|佳)|風味.{0,8}(?:地道|絕佳|出色)|口感.{0,8}(?:精緻|出色|佳)|獲得.{0,8}好評|廣受.{0,8}(?:好評|青睞|稱讚)|深受.{0,10}(?:好評|青睞|稱讚)|評價優良|值得推薦)/;
+  return String(summary)
+    .match(/[^。！？!?]+[。！？!?]?/g)
+    ?.map((sentence) => sentence.trim())
+    .filter((sentence) => isCuisineClaimCompatible(sentence, restaurant))
+    .filter((sentence) => hasExplicitTasteEvidence(aiReview, sentence) || !unsupportedPraise.test(sentence))
+    .join("") || "";
+}
+
+function getEvidenceCheckedFamilySummary(summary, restaurant = {}, attributes = {}, aiReview = {}) {
+  return getCleanFamilySummary(sanitizeUnsupportedFoodPraise(summary, restaurant, aiReview), restaurant, attributes);
+}
 const mapUrlOverrides = {
   "manual-dintaifung-taipei-xinyi": "https://maps.google.com/?cid=10663098530229991004",
   "manual-dintaifung-taipei-fuxing": "https://maps.google.com/?cid=345482929943964166",
@@ -1844,6 +1924,7 @@ function getRestaurantMapUrl(baseRestaurant, placeId = "") {
 }
 
 function getDisplayRestaurantName(placeId, name = "") {
+  if (placeId === "ChIJQUG7TZ2pQjQRIkL2CT9NOMU") return "維克私廚";
   if (placeId === "ChIJP7RGDQCpQjQRcY8fYCcGq8Q") {
     return String(name || "").replace(/\s*兒童餐\s*/g, "").trim();
   }
@@ -1880,8 +1961,8 @@ function buildRecord(placeId, baseRestaurant, aiReview) {
     baseRestaurant.longitude ?? null,
     getRestaurantMapUrl(baseRestaurant, placeId),
     attributes,
-    (placeId === "ChIJV5d72mKrQjQRm-ynukg7ojY" ? "這間早午餐店備有兒童餐具、環境對孩子聲音較包容、有包廂。" : (placeId === "ChIJqQiO7kSpQjQRXfHwz8UCk78" ? "根據目前整理資料，店內以咖哩餐點為主，店內主要是靠牆座位、空間較小，不適合推車進入，且咖哩口味偏辣。" : getCleanFamilySummary(removeGenericSummaryPhrases(applyPlaceSpecificSummaryOverrides(appendDaylightBrandSummary(appendFamilyFriendlyChainSummary(aiReview.generated_summary || baseRestaurant.ai_summary || "", displayName), displayName), placeId)), { ...displayRestaurant, cuisine }, attributes))),
-    (placeId === "ChIJV5d72mKrQjQRm-ynukg7ojY" ? "這間早午餐店備有兒童餐具、環境對孩子聲音較包容、有包廂。" : (placeId === "ChIJqQiO7kSpQjQRXfHwz8UCk78" ? "根據目前整理資料，店內以咖哩餐點為主，店內主要是靠牆座位、空間較小，不適合推車進入，且咖哩口味偏辣。" : getCleanFamilySummary(removeGenericSummaryPhrases(applyPlaceSpecificSummaryOverrides(appendDaylightBrandSummary(appendFamilyFriendlyChainSummary(aiReview.card_summary || baseRestaurant.card_summary || "", displayName), displayName), placeId)), { ...displayRestaurant, cuisine }, attributes))),
+    (placeId === "ChIJV5d72mKrQjQRm-ynukg7ojY" ? "這間早午餐店備有兒童餐具、環境對孩子聲音較包容、有包廂。" : (placeId === "ChIJqQiO7kSpQjQRXfHwz8UCk78" ? "根據目前整理資料，店內以咖哩餐點為主，店內主要是靠牆座位、空間較小，不適合推車進入，且咖哩口味偏辣。" : getEvidenceCheckedFamilySummary(removeGenericSummaryPhrases(applyPlaceSpecificSummaryOverrides(appendDaylightBrandSummary(appendFamilyFriendlyChainSummary(aiReview.generated_summary || baseRestaurant.ai_summary || "", displayName), displayName), placeId)), { ...displayRestaurant, cuisine }, attributes, aiReview))),
+    (placeId === "ChIJV5d72mKrQjQRm-ynukg7ojY" ? "這間早午餐店備有兒童餐具、環境對孩子聲音較包容、有包廂。" : (placeId === "ChIJqQiO7kSpQjQRXfHwz8UCk78" ? "根據目前整理資料，店內以咖哩餐點為主，店內主要是靠牆座位、空間較小，不適合推車進入，且咖哩口味偏辣。" : getEvidenceCheckedFamilySummary(removeGenericSummaryPhrases(applyPlaceSpecificSummaryOverrides(appendDaylightBrandSummary(appendFamilyFriendlyChainSummary(aiReview.card_summary || baseRestaurant.card_summary || "", displayName), displayName), placeId)), { ...displayRestaurant, cuisine }, attributes, aiReview))),
     (isFamilyFriendlyChain(displayName) || isDaylightBrand(displayName)) ? "高" : (
       aiReview.parent_friendly_level ||
       baseRestaurant.parent_friendly_level ||
@@ -2038,8 +2119,8 @@ function buildRecord_old(placeId, baseRestaurant, aiReview) {
     baseRestaurant.longitude ?? null,
     getRestaurantMapUrl(baseRestaurant, placeId),
     attributes,
-    getCleanFamilySummary(removeGenericSummaryPhrases(applyPlaceSpecificSummaryOverrides(aiReview.generated_summary || baseRestaurant.ai_summary || "", placeId)), baseRestaurant, attributes),
-    getCleanFamilySummary(removeGenericSummaryPhrases(applyPlaceSpecificSummaryOverrides(aiReview.card_summary || baseRestaurant.card_summary || "", placeId)), baseRestaurant, attributes),
+    getEvidenceCheckedFamilySummary(removeGenericSummaryPhrases(applyPlaceSpecificSummaryOverrides(aiReview.generated_summary || baseRestaurant.ai_summary || "", placeId)), baseRestaurant, attributes, aiReview),
+    getEvidenceCheckedFamilySummary(removeGenericSummaryPhrases(applyPlaceSpecificSummaryOverrides(aiReview.card_summary || baseRestaurant.card_summary || "", placeId)), baseRestaurant, attributes, aiReview),
     aiReview.parent_friendly_level ||
       baseRestaurant.parent_friendly_level ||
       "資訊不足",
