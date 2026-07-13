@@ -1743,6 +1743,7 @@ function getCuisine(placeId, baseRestaurant) {
 }
 
 function getPriceLevel(baseRestaurant, placeId = "") {
+  if (placeId === "ChIJ079AtyOrQjQRKtxKHhdlL80") return "PRICE_LEVEL_MODERATE";
   if (placeId === "ChIJQUG7TZ2pQjQRIkL2CT9NOMU") return "PRICE_LEVEL_INEXPENSIVE";
   if (placeId === "ChIJIWFwqW-pQjQRG1swI_5bSsc") return ["PRICE_LEVEL_INEXPENSIVE", "PRICE_LEVEL_MODERATE"];
   if (placeId === "ChIJTWxPJwCrQjQRsW2qLn4sGmo") return "PRICE_LEVEL_MODERATE";
