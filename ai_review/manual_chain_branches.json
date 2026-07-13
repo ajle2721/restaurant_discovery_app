@@ -2820,5 +2820,127 @@
         "",
         "",
         ""
+    ],
+    [
+        "manual-reale-cucina-italiana",
+        "Reale Cucina Italiana",
+        "106臺北市大安區仁愛里仁愛路四段91巷17號",
+        "大安區",
+        null,
+        "義大利料理",
+        25.03867,
+        121.54665,
+        "https://www.google.com/maps/search/?api=1&query=Reale%20Cucina%20Italiana%20106%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E4%BB%81%E6%84%9B%E9%87%8C%E4%BB%81%E6%84%9B%E8%B7%AF%E5%9B%9B%E6%AE%B591%E5%B7%B717%E8%99%9F",
+        {
+            "high_chair_available": "yes",
+            "kids_menu": "unknown",
+            "spacious_seating": "unknown",
+            "kid_noise_tolerant": "yes",
+            "has_play_area": "unknown",
+            "has_private_room": "unknown",
+            "has_tableware": "yes",
+            "has_diaper_table": "unknown"
+        },
+        "Reale Cucina Italiana 提供兒童椅與兒童餐具，環境對孩子聲音較包容；雖然菜單上沒有兒童餐，但可協助客製幼兒餐點，適合親子家庭用餐前先與店家確認需求。",
+        "提供兒童椅與兒童餐具，不怕吵；菜單無兒童餐，但可客製幼兒餐點。",
+        "高",
+        [
+            "義式料理"
+        ],
+        "",
+        "",
+        ""
+    ],
+    [
+        "manual-yuan-hot-pot-songshan-nanjing",
+        "Yuan.Hot Pot 原火鍋",
+        "10564臺北市松山區吉祥里南京東路五段66巷18號1樓",
+        "松山區",
+        null,
+        "火鍋",
+        25.05029,
+        121.56072,
+        "https://www.google.com/maps/search/?api=1&query=Yuan.Hot%20Pot%20%E5%8E%9F%E7%81%AB%E9%8D%8B%2010564%E8%87%BA%E5%8C%97%E5%B8%82%E6%9D%BE%E5%B1%B1%E5%8D%80%E5%90%89%E7%A5%A5%E9%87%8C%E5%8D%97%E4%BA%AC%E6%9D%B1%E8%B7%AF%E4%BA%94%E6%AE%B566%E5%B7%B718%E8%99%9F1%E6%A8%93",
+        {
+            "high_chair_available": "yes",
+            "kids_menu": "unknown",
+            "spacious_seating": "unknown",
+            "kid_noise_tolerant": "yes",
+            "has_play_area": "unknown",
+            "has_private_room": "unknown",
+            "has_tableware": "yes",
+            "has_diaper_table": "unknown"
+        },
+        "Yuan.Hot Pot 原火鍋提供兒童椅與兒童餐具，環境對孩子聲音較包容；湯頭未加味精，較適合寶寶同行用餐，也有家長回饋此店親子友善。",
+        "提供兒童椅與兒童餐具，不怕吵；湯頭未加味精，適合寶寶，家長回饋親子友善。",
+        "高",
+        [
+            "火鍋"
+        ],
+        "",
+        "",
+        ""
+    ],
+    [
+        "manual-coco32-cafe-neihu-baishihu",
+        "coco32咖啡棧",
+        "114臺北市內湖區碧山里碧山路32號",
+        "內湖區",
+        null,
+        "複合式餐廳",
+        25.099,
+        121.5877,
+        "https://www.google.com/maps/search/?api=1&query=coco32%E5%92%96%E5%95%A1%E6%A3%A7%20114%E8%87%BA%E5%8C%97%E5%B8%82%E5%85%A7%E6%B9%96%E5%8D%80%E7%A2%A7%E5%B1%B1%E9%87%8C%E7%A2%A7%E5%B1%B1%E8%B7%AF32%E8%99%9F",
+        {
+            "high_chair_available": "yes",
+            "kids_menu": "unknown",
+            "spacious_seating": "yes",
+            "kid_noise_tolerant": "yes",
+            "has_play_area": "likely",
+            "has_private_room": "venue",
+            "has_tableware": "yes",
+            "has_diaper_table": "yes"
+        },
+        "coco32咖啡棧是位在白石湖吊橋旁的庭院式複合式餐廳，提供中西式餐點與飲料，並有室內雅座與戶外田園座位。店內有兒童椅、兒童餐具與尿布台，環境對孩子聲音較包容，也可包場；可能設有兒童遊戲區，並提供種植小盆栽教學、染布、體驗製作小鬆餅等 DIY 活動，適合親子家庭安排半日小旅行。",
+        "白石湖吊橋旁庭院式複合式餐廳，提供中西式餐點與飲料；有兒童椅、兒童餐具、尿布台，不怕吵、可包場，可能有遊戲區與 DIY 活動。",
+        "高",
+        [
+            "異國/其他",
+            "咖啡甜點"
+        ],
+        "",
+        "",
+        ""
+    ],
+    [
+        "manual-nongshe-garden-cafe-neihu-baishihu",
+        "穠舍田園咖啡 餐廳 休閒農場",
+        "114臺北市內湖區碧山里碧山路38號",
+        "內湖區",
+        null,
+        "複合式餐廳",
+        25.0991,
+        121.5879,
+        "https://www.google.com/maps/search/?api=1&query=%E7%A9%A0%E8%88%8D%E7%94%B0%E5%9C%92%E5%92%96%E5%95%A1%20%E9%A4%90%E5%BB%B3%20%E4%BC%91%E9%96%92%E8%BE%B2%E5%A0%B4%20114%E8%87%BA%E5%8C%97%E5%B8%82%E5%85%A7%E6%B9%96%E5%8D%80%E7%A2%A7%E5%B1%B1%E9%87%8C%E7%A2%A7%E5%B1%B1%E8%B7%AF38%E8%99%9F",
+        {
+            "high_chair_available": "yes",
+            "kids_menu": "yes",
+            "spacious_seating": "yes",
+            "kid_noise_tolerant": "yes",
+            "has_play_area": "yes",
+            "has_private_room": "unknown",
+            "has_tableware": "yes",
+            "has_diaper_table": "yes"
+        },
+        "穠舍田園咖啡 餐廳 休閒農場位於內湖碧山路，提供室內與戶外用餐區，空間寬敞、環境對孩子聲音較包容。店內有兒童椅、兒童餐與兒童餐具，戶外提供粉筆讓小孩在地板塗鴉，也有呼拉圈和搖搖馬；廁所有尿布台，洗手台前也備有墊高階梯，整體相當親子友善。",
+        "內湖碧山路的田園複合式餐廳，提供兒童椅、兒童餐、兒童餐具與尿布台；空間寬敞、不怕吵，有室內外座位、粉筆塗鴉、呼拉圈與搖搖馬。",
+        "高",
+        [
+            "異國/其他",
+            "咖啡甜點"
+        ],
+        "",
+        "",
+        ""
     ]
 ]

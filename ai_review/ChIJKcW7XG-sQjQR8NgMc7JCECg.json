@@ -1,50 +1,54 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Unknown",
-                               "evidence":  null,
-                               "confidence":  0.4
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，清爽健康的蔬食與沙拉料理深受顧客青睞。",
-    "card_summary":  "",
-    "generated_signals":  [
-
-                          ],
-    "parent_friendly_score":  0,
-    "parent_friendly_level":  "資訊不足",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+{
+    " child_seat available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4,
+        "override_existing": true
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "使用者回報：可包場辦活動，空間約可容納20人左右",
+        "confidence": 1
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "使用者回報：環境不怕吵",
+        "confidence": 1
+    },
+    "has_play_area": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_private_room": {
+        "result": "venue",
+        "evidence": "使用者回報：可包場辦活動，空間可容納20人左右",
+        "confidence": 1
+    },
+    "has_tableware": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4,
+        "override_existing": true
+    },
+    "has_diaper_table": {
+        "result": "Likely",
+        "evidence": "使用者回報：有尿布台（估）",
+        "confidence": 0.7
+    },
+    "generated_summary": "兔兔日子環境對孩子聲音較包容；店內可包場辦活動，空間約可容納20人左右。另有尿布台資訊但目前為估計，建議前往前可再向店家確認。",
+    "card_summary": "不怕吵；可包場辦活動，空間約20人，尿布台為估計資訊。",
+    "generated_signals": [
+        "使用者回報：有尿布台（估）",
+        "使用者回報：可包場辦活動，空間可容納20人左右",
+        "使用者回報：環境不怕吵"
+    ],
+    "parent_friendly_score": 3,
+    "parent_friendly_level": "中",
+    "reason": "使用者回報與人工校正；兒童椅與兒童餐具改為未知並覆寫既有值"
 }

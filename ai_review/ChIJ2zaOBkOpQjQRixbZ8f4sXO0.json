@@ -1,50 +1,54 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "位置寬敞舒服",
-                             "confidence":  0.8
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Unknown",
-                               "evidence":  null,
-                               "confidence":  0.4
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，店內用餐空間規劃寬敞，活動動線舒適。空間寬敞舒適，適合帶孩子前來用餐。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "位置寬敞舒服"
-                          ],
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "中",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+{
+    " child_seat available": {
+        "result": "Yes",
+        "evidence": "使用者回報：有兒童椅",
+        "confidence": 1
+    },
+    "Spacious seating": {
+        "result": "Yes",
+        "evidence": "使用者回報：空間寬敞，推車可推入",
+        "confidence": 1
+    },
+    "Kids menu available": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "kid_noise_tolerant": {
+        "result": "Yes",
+        "evidence": "使用者回報：環境不怕吵",
+        "confidence": 1
+    },
+    "has_play_area": {
+        "result": "Yes",
+        "evidence": "使用者回報：有小小的兒童遊樂區",
+        "confidence": 1
+    },
+    "has_private_room": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "has_tableware": {
+        "result": "Yes",
+        "evidence": "使用者回報：有兒童餐具",
+        "confidence": 1
+    },
+    "has_diaper_table": {
+        "result": "Unknown",
+        "evidence": null,
+        "confidence": 0.4
+    },
+    "generated_summary": "汆食｜作伙鍋｜台北中山店提供兒童椅與兒童餐具，空間寬敞、推車可推入，環境對孩子聲音較包容，並設有小小的兒童遊樂區，適合親子家庭用餐。",
+    "card_summary": "提供兒童椅與兒童餐具，空間寬敞可推車入內，不怕吵，並有小小兒童遊樂區。",
+    "generated_signals": [
+        "使用者回報：有兒童椅",
+        "使用者回報：有兒童餐具",
+        "使用者回報：環境不怕吵",
+        "使用者回報：空間寬敞，推車可推入",
+        "使用者回報：有小小的兒童遊樂區"
+    ],
+    "parent_friendly_score": 6,
+    "parent_friendly_level": "高",
+    "reason": "使用者回報與人工校正"
 }
