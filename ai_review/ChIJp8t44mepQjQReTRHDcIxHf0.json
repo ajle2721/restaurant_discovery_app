@@ -1,51 +1,52 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "Kids menu available":  {
-                                "result":  "No",
-                                "evidence":  "No menu for children (官方標記：不提供兒童餐)",
-                                "confidence":  1.0
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "有人情味的正港台式餐廳，可喧嘩可闊論，可洽公可獨酌，是老派的公司經營者的最愛。",
-                               "confidence":  0.9
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "中",
-    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals":  [
-                              "有人情味的正港台式餐廳，可喧嘩可闊論，可洽公可獨酌，是老派的公司經營者的最愛。",
-                              "No menu for children (官方標記：不提供兒童餐)"
-                          ],
-    "generated_summary":  "為傳統台式海鮮餐廳，環境氛圍熱鬧，適合聚餐喧嘩，但官方已標記不提供兒童餐，且評論中未提及兒童座椅、餐具或尿布台等親子友善設施，建議攜帶幼童前往前先向店家確認相關需求。",
-    "card_summary":  ""
+{
+  " child_seat available": {
+    "result": "Yes",
+    "evidence": "官方資訊標示提供兒童高腳椅",
+    "confidence": 1
+  },
+  "Spacious seating": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "Kids menu available": {
+    "result": "No",
+    "evidence": "No menu for children (官方標記：不提供兒童餐)",
+    "confidence": 1
+  },
+  "kid_noise_tolerant": {
+    "result": "Yes",
+    "evidence": "有人情味的正港台式餐廳，可喧嘩可闊論，可洽公可獨酌，是老派的公司經營者的最愛。",
+    "confidence": 0.9
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_tableware": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "parent_friendly_score": 2,
+  "parent_friendly_level": "中",
+  "reason": "AI語意綜合與連鎖/商場與評論語意分析提供兒童椅。",
+  "generated_signals": [
+    "有人情味的正港台式餐廳，可喧嘩可闊論，可洽公可獨酌，是老派的公司經營者的最愛。",
+    "No menu for children (官方標記：不提供兒童餐)",
+    "提供兒童椅"
+  ],
+  "generated_summary": "為傳統台式海鮮餐廳，環境氛圍熱鬧，適合聚餐喧嘩，但官方已標記不提供兒童餐，且評論中未提及兒童座椅、餐具或尿布台等親子友善設施，建議攜帶幼童前往前先向店家確認相關需求。提供兒童椅。",
+  "card_summary": "為傳統台式海鮮餐廳，環境氛圍熱鬧，適合聚餐喧嘩，但官方已標記不提供兒童餐，且評論中未提及兒童座椅、餐具或尿布台等親子友善設施，建議攜帶幼童前往前先向店家確認相關需求。提供兒童椅。"
 }

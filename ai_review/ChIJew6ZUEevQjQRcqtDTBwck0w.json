@@ -1,50 +1,51 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "No",
-                               "evidence":  "環境清幽，在幾乎客滿的情況下仍能保持安靜，用餐品質還不錯",
-                               "confidence":  1
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。環境較為安靜，帶小孩用餐時可能需要多加留意。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "在幾乎客滿的情況下仍能保持安靜"
-                          ],
-    "parent_friendly_score":  -2,
-    "parent_friendly_level":  "資訊不足",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+{
+  " child_seat available": {
+    "result": "Yes",
+    "evidence": "官方資訊標示提供兒童高腳椅",
+    "confidence": 1
+  },
+  "Spacious seating": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "Kids menu available": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "kid_noise_tolerant": {
+    "result": "No",
+    "evidence": "環境清幽，在幾乎客滿的情況下仍能保持安靜，用餐品質還不錯",
+    "confidence": 1
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_tableware": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "generated_summary": "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。環境較為安靜，帶小孩用餐時可能需要多加留意。提供兒童椅。",
+  "card_summary": "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。環境較為安靜，帶小孩用餐時可能需要多加留意。提供兒童椅。",
+  "generated_signals": [
+    "在幾乎客滿的情況下仍能保持安靜",
+    "提供兒童椅"
+  ],
+  "parent_friendly_score": 2,
+  "parent_friendly_level": "中",
+  "reason": "官方親子標籤與評論/簡介語意關聯分析提供兒童椅。"
 }

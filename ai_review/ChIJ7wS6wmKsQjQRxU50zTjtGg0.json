@@ -1,53 +1,54 @@
-﻿{
-    " child_seat available":  {
-                                  "evidence":  "Google 摰?餉??拙??咱?券?",
-                                  "result":  "Yes",
-                                  "confidence":  1
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "用餐環境很寬敞明亮重新裝潢過。",
-                             "confidence":  0.9
-                         },
-    "Kids menu available":  {
-                                "result":  "No",
-                                "evidence":  "Google Maps Attributes: No menu for children",
-                                "confidence":  1.0
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "Google Maps Attributes: Good for children",
-                               "confidence":  1.0
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "evidence":  "Google 摰?餉??拙??咱?券?",
-                          "result":  "Yes",
-                          "confidence":  1
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "parent_friendly_score":  4,
-    "parent_friendly_level":  "高",
-    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals":  [
-                              "Google Maps Attributes: No menu for children",
-                              "用餐環境很寬敞明亮重新裝潢過。",
-                              "Google Maps Attributes: Good for children",
-                              "Google 摰?餉??拙??咱?券?"
-                          ],
-    "generated_summary":  "店內經官方標記為適合兒童，且店內用餐環境寬敞明亮，適合家庭前往。不過店家目前不提供兒童餐，且評論中未提及兒童座椅、餐具或尿布台等設施，建議家長前往前可先向店家確認相關設備。",
-    "card_summary":  ""
+{
+  " child_seat available": {
+    "result": "Yes",
+    "evidence": "官方資訊標示提供兒童高腳椅",
+    "confidence": 1
+  },
+  "Spacious seating": {
+    "result": "Yes",
+    "evidence": "用餐環境很寬敞明亮重新裝潢過。",
+    "confidence": 0.9
+  },
+  "Kids menu available": {
+    "result": "No",
+    "evidence": "Google Maps Attributes: No menu for children",
+    "confidence": 1
+  },
+  "kid_noise_tolerant": {
+    "result": "Yes",
+    "evidence": "Google Maps Attributes: Good for children",
+    "confidence": 1
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_tableware": {
+    "evidence": "Google 摰?餉??拙??咱?券?",
+    "result": "Yes",
+    "confidence": 1
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "parent_friendly_score": 4,
+  "parent_friendly_level": "高",
+  "reason": "AI語意綜合與連鎖/商場與評論語意分析提供兒童椅。",
+  "generated_signals": [
+    "Attributes: No menu for children",
+    "用餐環境很寬敞明亮重新裝潢過。",
+    "Attributes: Good for children",
+    "摰?餉??拙??咱?券?",
+    "提供兒童椅"
+  ],
+  "generated_summary": "店內經官方標記為適合兒童，且店內用餐環境寬敞明亮，適合家庭前往。不過店家目前不提供兒童餐，且評論中未提及兒童座椅、餐具或尿布台等設施，建議家長前往前可先向店家確認相關設備。提供兒童椅。",
+  "card_summary": "店內經官方標記為適合兒童，且店內用餐環境寬敞明亮，適合家庭前往。不過店家目前不提供兒童餐，且評論中未提及兒童座椅、餐具或尿布台等設施，建議家長前往前可先向店家確認相關設備。提供兒童椅。"
 }

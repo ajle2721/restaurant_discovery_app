@@ -1,50 +1,51 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "餐廳的桌距是完全沒在客氣的寬敞",
-                             "confidence":  1
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Unknown",
-                               "evidence":  "整體來說，本店絕不是CP值最高或最驚奇的餐廳，卻是帶家人、朋友、客戶來訪可以開心吃飯而不失體面的選擇",
-                               "confidence":  1
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Yes",
-                             "evidence":  "記錄2026.2.16除夕中午的團圓飯，包廂容納三桌。地下室停車方便，大廳寬敞，佈置充滿新春紅通通的喜氣。餐點精緻美味。",
-                             "confidence":  0.9
-                         },
-    "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，特調咖啡與各式飲品口感精緻。空間寬敞舒適，適合帶孩子前來用餐。此外，店內還設有舒適的獨立包廂空間。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "餐廳的桌距是完全沒在客氣的寬敞"
-                          ],
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "中",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+{
+  " child_seat available": {
+    "result": "Yes",
+    "evidence": "官方資訊標示提供兒童高腳椅",
+    "confidence": 1
+  },
+  "Spacious seating": {
+    "result": "Yes",
+    "evidence": "餐廳的桌距是完全沒在客氣的寬敞",
+    "confidence": 1
+  },
+  "Kids menu available": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "kid_noise_tolerant": {
+    "result": "Unknown",
+    "evidence": "整體來說，本店絕不是CP值最高或最驚奇的餐廳，卻是帶家人、朋友、客戶來訪可以開心吃飯而不失體面的選擇",
+    "confidence": 1
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Yes",
+    "evidence": "記錄2026.2.16除夕中午的團圓飯，包廂容納三桌。地下室停車方便，大廳寬敞，佈置充滿新春紅通通的喜氣。餐點精緻美味。",
+    "confidence": 0.9
+  },
+  "has_tableware": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "generated_summary": "根據評論分析，特調咖啡與各式飲品口感精緻。空間寬敞舒適，適合帶孩子前來用餐。此外，店內還設有舒適的獨立包廂空間。提供兒童椅。",
+  "card_summary": "根據評論分析，特調咖啡與各式飲品口感精緻。空間寬敞舒適，適合帶孩子前來用餐。此外，店內還設有舒適的獨立包廂空間。提供兒童椅。",
+  "generated_signals": [
+    "餐廳的桌距是完全沒在客氣的寬敞",
+    "提供兒童椅"
+  ],
+  "parent_friendly_score": 2,
+  "parent_friendly_level": "中",
+  "reason": "官方親子標籤與評論/簡介語意關聯分析提供兒童椅。"
 }

@@ -1,50 +1,50 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  "只可惜店內空間有限，內用座位數量不是很多，建議先預約訂位可以減少在現場等待的時間",
-                             "confidence":  1
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Unknown",
-                               "evidence":  null,
-                               "confidence":  0.4
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  "位於百貨商場/大樓（110台灣臺北市信義區松壽路12號4 樓），商場內設有公共尿布台及哺乳室",
-                             "confidence":  1
-                         },
-    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。",
-    "card_summary":  "",
-    "generated_signals":  [
-
-                          ],
-    "parent_friendly_score":  0,
-    "parent_friendly_level":  "資訊不足",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+{
+  " child_seat available": {
+    "result": "Yes",
+    "evidence": "官方資訊標示提供兒童高腳椅",
+    "confidence": 1
+  },
+  "Spacious seating": {
+    "result": "Unknown",
+    "evidence": "只可惜店內空間有限，內用座位數量不是很多，建議先預約訂位可以減少在現場等待的時間",
+    "confidence": 1
+  },
+  "Kids menu available": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "kid_noise_tolerant": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_tableware": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": "位於百貨商場/大樓（110台灣臺北市信義區松壽路12號4 樓），商場內設有公共尿布台及哺乳室",
+    "confidence": 1
+  },
+  "generated_summary": "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。提供兒童椅。",
+  "card_summary": "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。提供兒童椅。",
+  "generated_signals": [
+    "提供兒童椅"
+  ],
+  "parent_friendly_score": 2,
+  "parent_friendly_level": "中",
+  "reason": "官方親子標籤與評論/簡介語意關聯分析提供兒童椅。"
 }

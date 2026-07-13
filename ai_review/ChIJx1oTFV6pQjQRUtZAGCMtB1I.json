@@ -1,50 +1,50 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  "在寸土寸金的台北鬧區，餐館裡面的佈置非常的讓人覺得可以淡定下來，而且不會為了追求桌數而犧牲顧客行走的舒適，行走的動線上面，留了許多餘裕，享受美食之餘，不會為了走動或者座位空間而覺得憋屈，很難得。",
-                             "confidence":  1
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Unknown",
-                               "evidence":  null,
-                               "confidence":  0.4
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Yes",
-                             "evidence":  "可能因為坐包廂 所以要找服務人員不是很方便",
-                             "confidence":  0.9
-                         },
-    "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。此外，店內還設有舒適的獨立包廂空間，是親友、家庭聚餐時的理想選擇。",
-    "card_summary":  "",
-    "generated_signals":  [
-
-                          ],
-    "parent_friendly_score":  0,
-    "parent_friendly_level":  "中",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+{
+  " child_seat available": {
+    "result": "Yes",
+    "evidence": "官方資訊標示提供兒童高腳椅",
+    "confidence": 1
+  },
+  "Spacious seating": {
+    "result": "Unknown",
+    "evidence": "在寸土寸金的台北鬧區，餐館裡面的佈置非常的讓人覺得可以淡定下來，而且不會為了追求桌數而犧牲顧客行走的舒適，行走的動線上面，留了許多餘裕，享受美食之餘，不會為了走動或者座位空間而覺得憋屈，很難得。",
+    "confidence": 1
+  },
+  "Kids menu available": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "kid_noise_tolerant": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Yes",
+    "evidence": "可能因為坐包廂 所以要找服務人員不是很方便",
+    "confidence": 0.9
+  },
+  "has_tableware": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "generated_summary": "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。此外，店內還設有舒適的獨立包廂空間，是親友、家庭聚餐時的理想選擇。提供兒童椅。",
+  "card_summary": "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。此外，店內還設有舒適的獨立包廂空間，是親友、家庭聚餐時的理想選擇。提供兒童椅。",
+  "generated_signals": [
+    "提供兒童椅"
+  ],
+  "parent_friendly_score": 2,
+  "parent_friendly_level": "中",
+  "reason": "官方親子標籤與評論/簡介語意關聯分析提供兒童椅。"
 }

@@ -1,56 +1,57 @@
-﻿{
-    " child_seat available":  {
-                                  "evidence":  "Google 摰?餉??拙??咱?券?",
-                                  "result":  "Yes",
-                                  "confidence":  1
-                              },
-    "Spacious seating":  {
-                             "result":  "No",
-                             "evidence":  "桌子擺放的非常的擠，入座時為了避免屁股朝著隔壁用餐的人的臉，所以是正臉對著隔壁桌子、側著身子進去的，結果連要轉過身子坐下去都很困難。",
-                             "confidence":  0.9
-                         },
-    "Kids menu available":  {
-                                "result":  "No",
-                                "evidence":  "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)",
-                                "confidence":  1.0
-                            },
-    "kid_noise_tolerant":  {
-                               "evidence":  "Google 摰?餉??拙??咱?券?",
-                               "result":  "Yes",
-                               "confidence":  1
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "evidence":  "Google 摰?餉??拙??咱?券?",
-                          "result":  "Yes",
-                          "confidence":  1
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "高",
-    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals":  [
-                              "非常不推薦：第一次約會的情侶、家庭聚會（有帶老人家或小孩）",
-                              "店內比較吵雜會聽到隔壁桌的聊天聲，上菜速度蠻快的，桌面空間沒有很大",
-                              "非常不推薦：第一次約會的情侶、家庭聚會（有帶老人家或小孩）。",
-                              "桌子擺放的非常的擠，入座時為了避免屁股朝著隔壁用餐的人的臉，所以是正臉對著隔壁桌子、側著身子進去的，結果連要轉過身子坐下去都很困難。",
-                              "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)",
-                              "Google Maps Attributes: Good for children (官方標記：適合兒童)",
-                              "Google 摰?餉??拙??咱?券?"
-                          ],
-    "generated_summary":  "店內雖然在 Google Maps 上被標記為適合兒童，但根據評論，店內座位空間非常狹窄擁擠，且用餐時間限制嚴格，有評論明確指出不推薦家庭聚會攜帶小孩前往。此外，店家明確不提供兒童餐，且未提及兒童座椅、餐具或尿布台等設施，建議家長前往前需審慎評估。",
-    "card_summary":  ""
+{
+  " child_seat available": {
+    "result": "Yes",
+    "evidence": "官方資訊標示提供兒童高腳椅",
+    "confidence": 1
+  },
+  "Spacious seating": {
+    "result": "No",
+    "evidence": "桌子擺放的非常的擠，入座時為了避免屁股朝著隔壁用餐的人的臉，所以是正臉對著隔壁桌子、側著身子進去的，結果連要轉過身子坐下去都很困難。",
+    "confidence": 0.9
+  },
+  "Kids menu available": {
+    "result": "No",
+    "evidence": "Google Maps Attributes: No menu for children (官方標記：不提供兒童餐)",
+    "confidence": 1
+  },
+  "kid_noise_tolerant": {
+    "evidence": "Google 摰?餉??拙??咱?券?",
+    "result": "Yes",
+    "confidence": 1
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_tableware": {
+    "evidence": "Google 摰?餉??拙??咱?券?",
+    "result": "Yes",
+    "confidence": 1
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "parent_friendly_score": 2,
+  "parent_friendly_level": "高",
+  "reason": "AI語意綜合與連鎖/商場與評論語意分析提供兒童椅。",
+  "generated_signals": [
+    "非常不推薦：第一次約會的情侶、家庭聚會（有帶老人家或小孩）",
+    "店內比較吵雜會聽到隔壁桌的聊天聲，上菜速度蠻快的，桌面空間沒有很大",
+    "非常不推薦：第一次約會的情侶、家庭聚會（有帶老人家或小孩）。",
+    "桌子擺放的非常的擠，入座時為了避免屁股朝著隔壁用餐的人的臉，所以是正臉對著隔壁桌子、側著身子進去的，結果連要轉過身子坐下去都很困難。",
+    "Attributes: No menu for children (官方標記：不提供兒童餐)",
+    "Attributes: Good for children (官方標記：適合兒童)",
+    "摰?餉??拙??咱?券?",
+    "提供兒童椅"
+  ],
+  "generated_summary": "店內雖然在 上被標記為適合兒童，但根據評論，店內座位空間非常狹窄擁擠，且用餐時間限制嚴格，有評論明確指出不推薦家庭聚會攜帶小孩前往。此外，店家明確不提供兒童餐，且未提及兒童座椅、餐具或尿布台等設施，建議家長前往前需審慎評估。提供兒童椅。",
+  "card_summary": "店內雖然在 上被標記為適合兒童，但根據評論，店內座位空間非常狹窄擁擠，且用餐時間限制嚴格，有評論明確指出不推薦家庭聚會攜帶小孩前往。此外，店家明確不提供兒童餐，且未提及兒童座椅、餐具或尿布台等設施，建議家長前往前需審慎評估。提供兒童椅。"
 }

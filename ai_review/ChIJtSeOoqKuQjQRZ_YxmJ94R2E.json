@@ -1,51 +1,52 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "空間寬敞&廁所乾淨加分❤️",
-                             "confidence":  1
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "唯獨真的是太熱絡了，所以用餐時間稍稍難免會有吵雜，但可以接受的範圍囉！",
-                               "confidence":  1
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Yes",
-                             "evidence":  "入門區域的沙發座位方便客人等候帶位時可以先舒適地坐著。用餐環境燈光柔和溫暖舒適，最裡面一區用餐桌與桌的距離雖然較近，但還不至於有壓迫感，其他的用餐區域有大型包廂也有沙發四人座。",
-                             "confidence":  0.9
-                         },
-    "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，清爽健康的蔬食與沙拉料理深受顧客青睞。空間寬敞舒適，氣氛熱鬧親子友善，適合帶孩子前來用餐。此外，店內還設有舒適的獨立包廂空間。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "空間寬敞&廁所乾淨加分❤️",
-                              "所以用餐時間稍稍難免會有吵雜"
-                          ],
-    "parent_friendly_score":  2,
-    "parent_friendly_level":  "中",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+{
+  " child_seat available": {
+    "result": "Yes",
+    "evidence": "官方資訊標示提供兒童高腳椅",
+    "confidence": 1
+  },
+  "Spacious seating": {
+    "result": "Yes",
+    "evidence": "空間寬敞&廁所乾淨加分❤️",
+    "confidence": 1
+  },
+  "Kids menu available": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "kid_noise_tolerant": {
+    "result": "Yes",
+    "evidence": "唯獨真的是太熱絡了，所以用餐時間稍稍難免會有吵雜，但可以接受的範圍囉！",
+    "confidence": 1
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Yes",
+    "evidence": "入門區域的沙發座位方便客人等候帶位時可以先舒適地坐著。用餐環境燈光柔和溫暖舒適，最裡面一區用餐桌與桌的距離雖然較近，但還不至於有壓迫感，其他的用餐區域有大型包廂也有沙發四人座。",
+    "confidence": 0.9
+  },
+  "has_tableware": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "generated_summary": "根據評論分析，清爽健康的蔬食與沙拉料理深受顧客青睞。空間寬敞舒適，氣氛熱鬧親子友善，適合帶孩子前來用餐。此外，店內還設有舒適的獨立包廂空間。提供兒童椅。",
+  "card_summary": "根據評論分析，清爽健康的蔬食與沙拉料理深受顧客青睞。空間寬敞舒適，氣氛熱鬧親子友善，適合帶孩子前來用餐。此外，店內還設有舒適的獨立包廂空間。提供兒童椅。",
+  "generated_signals": [
+    "空間寬敞&廁所乾淨加分❤️",
+    "所以用餐時間稍稍難免會有吵雜",
+    "提供兒童椅"
+  ],
+  "parent_friendly_score": 2,
+  "parent_friendly_level": "中",
+  "reason": "官方親子標籤與評論/簡介語意關聯分析提供兒童椅。"
 }

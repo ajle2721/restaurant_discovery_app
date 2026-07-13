@@ -1,51 +1,52 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "No",
-                             "evidence":  "我們位置本來就小，還一直縮小我們能用餐的範圍，打包的店員一直搖晃我們的餐桌，用餐環境真的很差。",
-                             "confidence":  1
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "客人吵雜聲超大。",
-                               "confidence":  1
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，店內用餐空間規劃寬敞，活動動線舒適。氣氛輕鬆熱鬧，但座位較為緊密，適合帶孩子前來用餐。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "環境比較擁擠",
-                              "*客人吵雜聲超大"
-                          ],
-    "parent_friendly_score":  -1,
-    "parent_friendly_level":  "中",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+{
+  " child_seat available": {
+    "result": "Yes",
+    "evidence": "官方資訊標示提供兒童高腳椅",
+    "confidence": 1
+  },
+  "Spacious seating": {
+    "result": "No",
+    "evidence": "我們位置本來就小，還一直縮小我們能用餐的範圍，打包的店員一直搖晃我們的餐桌，用餐環境真的很差。",
+    "confidence": 1
+  },
+  "Kids menu available": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "kid_noise_tolerant": {
+    "result": "Yes",
+    "evidence": "客人吵雜聲超大。",
+    "confidence": 1
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_tableware": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "generated_summary": "根據評論分析，店內用餐空間規劃寬敞，活動動線舒適。氣氛輕鬆熱鬧，但座位較為緊密，適合帶孩子前來用餐。提供兒童椅。",
+  "card_summary": "根據評論分析，店內用餐空間規劃寬敞，活動動線舒適。氣氛輕鬆熱鬧，但座位較為緊密，適合帶孩子前來用餐。提供兒童椅。",
+  "generated_signals": [
+    "環境比較擁擠",
+    "*客人吵雜聲超大",
+    "提供兒童椅"
+  ],
+  "parent_friendly_score": 2,
+  "parent_friendly_level": "中",
+  "reason": "官方親子標籤與評論/簡介語意關聯分析提供兒童椅。"
 }

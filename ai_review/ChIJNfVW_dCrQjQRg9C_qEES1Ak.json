@@ -1,8 +1,8 @@
 {
   " child_seat available": {
-    "result": "Unknown",
-    "evidence": null,
-    "confidence": 0.4
+    "result": "Yes",
+    "evidence": "官方資訊標示提供兒童高腳椅",
+    "confidence": 1
   },
   "Spacious seating": {
     "result": "Unknown",
@@ -39,12 +39,13 @@
     "evidence": null,
     "confidence": 0.4
   },
-  "generated_summary": "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。店內會提供畫畫用品給小孩使用。",
-  "card_summary": "店內會提供畫畫用品給小孩使用。",
+  "generated_summary": "根據評論分析，店內餐點烹調用心、口味良好，深受顧客好評。店內會提供畫畫用品給小孩使用。提供兒童椅。",
+  "card_summary": "店內會提供畫畫用品給小孩使用。提供兒童椅。",
   "generated_signals": [
-    "使用者回報與人工校正：此連鎖品牌提供畫畫用品"
+    "使用者回報與人工校正：此連鎖品牌提供畫畫用品",
+    "提供兒童椅"
   ],
-  "parent_friendly_score": 0,
-  "parent_friendly_level": "資訊不足",
-  "reason": "Google 官方親子標籤與評論/簡介語意關聯分析；使用者回報校正：提供畫畫用品"
+  "parent_friendly_score": 2,
+  "parent_friendly_level": "中",
+  "reason": "官方親子標籤與評論/簡介語意關聯分析；使用者回報校正：提供畫畫用品提供兒童椅。"
 }

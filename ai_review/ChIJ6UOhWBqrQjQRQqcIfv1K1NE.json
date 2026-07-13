@@ -1,56 +1,57 @@
-﻿{
-    " child_seat available":  {
-                                  "evidence":  "Google 摰?餉??拙??咱?券?",
-                                  "result":  "Yes",
-                                  "confidence":  1
-                              },
-    "Spacious seating":  {
-                             "result":  "No",
-                             "evidence":  "一進來，整個小小溫馨的佈置，環境明亮很不錯",
-                             "confidence":  0.9
-                         },
-    "Kids menu available":  {
-                                "result":  "No",
-                                "evidence":  "No menu for children (官方標記：不提供兒童餐)",
-                                "confidence":  1.0
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "Good for children (官方標記：適合兒童)",
-                               "confidence":  1.0
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Yes",
-                             "evidence":  "店家可接受提前預約包場，中小型公司聚會非常適合",
-                             "confidence":  0.9
-                         },
-    "has_tableware":  {
-                          "evidence":  "Google 摰?餉??拙??咱?券?",
-                          "result":  "Yes",
-                          "confidence":  1
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "parent_friendly_score":  1,
-    "parent_friendly_level":  "高",
-    "reason":  "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals":  [
-                              "一進來，整個小小溫馨的佈置，環境明亮很不錯",
-                              "No menu for children (官方標記：不提供兒童餐)",
-                              "店家可接受提前預約包場",
-                              "一進來，整個小小溫馨的佈置",
-                              "店家可接受提前預約包場，中小型公司聚會非常適合",
-                              "Good for children (官方標記：適合兒童)",
-                              "Google 摰?餉??拙??咱?券?"
-                          ],
-    "generated_summary":  "水手9號環境溫馨舒適，官方標記適合兒童且適合家庭聚餐，但店內空間較為精緻小巧，且不提供兒童餐點。店家提供包場服務，適合中小型聚會，建議前往前可先向店家確認是否有兒童座椅等相關設施。",
-    "card_summary":  ""
+{
+  " child_seat available": {
+    "result": "Yes",
+    "evidence": "官方資訊標示提供兒童高腳椅",
+    "confidence": 1
+  },
+  "Spacious seating": {
+    "result": "No",
+    "evidence": "一進來，整個小小溫馨的佈置，環境明亮很不錯",
+    "confidence": 0.9
+  },
+  "Kids menu available": {
+    "result": "No",
+    "evidence": "No menu for children (官方標記：不提供兒童餐)",
+    "confidence": 1
+  },
+  "kid_noise_tolerant": {
+    "result": "Yes",
+    "evidence": "Good for children (官方標記：適合兒童)",
+    "confidence": 1
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Yes",
+    "evidence": "店家可接受提前預約包場，中小型公司聚會非常適合",
+    "confidence": 0.9
+  },
+  "has_tableware": {
+    "evidence": "Google 摰?餉??拙??咱?券?",
+    "result": "Yes",
+    "confidence": 1
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "parent_friendly_score": 2,
+  "parent_friendly_level": "高",
+  "reason": "AI語意綜合與連鎖/商場與評論語意分析提供兒童椅。",
+  "generated_signals": [
+    "一進來，整個小小溫馨的佈置，環境明亮很不錯",
+    "No menu for children (官方標記：不提供兒童餐)",
+    "店家可接受提前預約包場",
+    "一進來，整個小小溫馨的佈置",
+    "店家可接受提前預約包場，中小型公司聚會非常適合",
+    "Good for children (官方標記：適合兒童)",
+    "摰?餉??拙??咱?券?",
+    "提供兒童椅"
+  ],
+  "generated_summary": "水手9號環境溫馨舒適，官方標記適合兒童且適合家庭聚餐，但店內空間較為精緻小巧，且不提供兒童餐點。店家提供包場服務，適合中小型聚會，建議前往前可先向店家確認是否有兒童座椅等相關設施。提供兒童椅。",
+  "card_summary": "水手9號環境溫馨舒適，官方標記適合兒童且適合家庭聚餐，但店內空間較為精緻小巧，且不提供兒童餐點。店家提供包場服務，適合中小型聚會，建議前往前可先向店家確認是否有兒童座椅等相關設施。提供兒童椅。"
 }

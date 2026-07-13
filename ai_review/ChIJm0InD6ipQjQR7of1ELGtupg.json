@@ -1,52 +1,53 @@
 {
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "No",
-        "evidence": "這是老字號店雖然小小間",
-        "confidence": 0.9
-    },
-    "Kids menu available": {
-        "result": "No",
-        "evidence": "Google Maps Attributes: No menu for children",
-        "confidence": 1.0
-    },
-    "kid_noise_tolerant": {
-        "result": "No",
-        "evidence": "Google Maps Attributes: Not good for children",
-        "confidence": 1.0
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": -2,
-    "parent_friendly_level": "資訊不足",
-    "reason": "AI語意綜合與連鎖/商場與評論語意分析",
-    "generated_signals": [
-        "這是老字號店雖然小小間",
-        "Google Maps Attributes: No menu for children",
-        "Google Maps Attributes: Not good for children"
-    ],
-    "generated_summary": "和風屋日料店內空間較為狹小，且根據官方標記資訊，該餐廳並不適合兒童，亦不提供兒童餐點，建議攜帶幼童的家長評估後再前往。",
-    "card_summary": ""
+  " child_seat available": {
+    "result": "Yes",
+    "evidence": "官方資訊標示提供兒童高腳椅",
+    "confidence": 1
+  },
+  "Spacious seating": {
+    "result": "No",
+    "evidence": "這是老字號店雖然小小間",
+    "confidence": 0.9
+  },
+  "Kids menu available": {
+    "result": "No",
+    "evidence": "Google Maps Attributes: No menu for children",
+    "confidence": 1
+  },
+  "kid_noise_tolerant": {
+    "result": "No",
+    "evidence": "Google Maps Attributes: Not good for children",
+    "confidence": 1
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_tableware": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "parent_friendly_score": 2,
+  "parent_friendly_level": "中",
+  "reason": "AI語意綜合與連鎖/商場與評論語意分析提供兒童椅。",
+  "generated_signals": [
+    "這是老字號店雖然小小間",
+    "Attributes: No menu for children",
+    "Attributes: Not good for children",
+    "提供兒童椅"
+  ],
+  "generated_summary": "和風屋日料店內空間較為狹小，且根據官方標記資訊，該餐廳並不適合兒童，亦不提供兒童餐點，建議攜帶幼童的家長評估後再前往。提供兒童椅。",
+  "card_summary": "和風屋日料店內空間較為狹小，且根據官方標記資訊，該餐廳並不適合兒童，亦不提供兒童餐點，建議攜帶幼童的家長評估後再前往。提供兒童椅。"
 }

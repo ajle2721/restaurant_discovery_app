@@ -1,54 +1,55 @@
-﻿{
-    " child_seat available":  {
-                                  "evidence":  "Google 摰?餉??拙??咱?券?",
-                                  "result":  "Yes",
-                                  "confidence":  1
-                              },
-    "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Yes",
-                               "evidence":  "Google 官方登記適合兒童用餐",
-                               "confidence":  1
-                           },
-    "has_play_area":  {
-                          "result":  "Yes",
-                          "evidence":  "使用者回報與人工校正：有一個小遊樂區",
-                          "confidence":  1,
-                          "override_existing":  true
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "evidence":  "使用者回報與人工校正：沒有兒童餐具",
-                          "result":  "No",
-                          "confidence":  1,
-                          "override_existing":  true
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "服務人員服務態度良好，氣氛輕鬆親子友善，環境對孩子聲音較包容。提供兒童椅，有一個小遊樂區可讓小孩玩樂；需留意未提供兒童餐具。",
-    "card_summary":  "服務人員服務態度良好，氣氛輕鬆親子友善，環境對孩子聲音較包容。提供兒童椅，有一個小遊樂區可讓小孩玩樂；需留意未提供兒童餐具。",
-    "generated_signals":  [
-                              "Google 官方登記適合兒童用餐",
-                              "使用者回報與人工校正：有一個小遊樂區",
-                              "使用者回報與人工校正：沒有兒童餐具"
-                          ],
-    "parent_friendly_score":  3,
-    "parent_friendly_level":  "高",
-    "reason":  "使用者回報校正：沒有兒童餐具；有小遊樂區；保留 Google 官方適合兒童用餐標記"
+{
+  " child_seat available": {
+    "result": "Yes",
+    "evidence": "官方資訊標示提供兒童高腳椅",
+    "confidence": 1
+  },
+  "Spacious seating": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "Kids menu available": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "kid_noise_tolerant": {
+    "result": "Yes",
+    "evidence": "Google 官方登記適合兒童用餐",
+    "confidence": 1
+  },
+  "has_play_area": {
+    "result": "Yes",
+    "evidence": "使用者回報與人工校正：有一個小遊樂區",
+    "confidence": 1,
+    "override_existing": true
+  },
+  "has_private_room": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_tableware": {
+    "evidence": "使用者回報與人工校正：沒有兒童餐具",
+    "result": "No",
+    "confidence": 1,
+    "override_existing": true
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "generated_summary": "服務人員服務態度良好，氣氛輕鬆親子友善，環境對孩子聲音較包容。提供兒童椅，有一個小遊樂區可讓小孩玩樂；需留意未提供兒童餐具。提供兒童椅。",
+  "card_summary": "服務人員服務態度良好，氣氛輕鬆親子友善，環境對孩子聲音較包容。提供兒童椅，有一個小遊樂區可讓小孩玩樂；需留意未提供兒童餐具。提供兒童椅。",
+  "generated_signals": [
+    "官方登記適合兒童用餐",
+    "使用者回報與人工校正：有一個小遊樂區",
+    "使用者回報與人工校正：沒有兒童餐具",
+    "提供兒童椅"
+  ],
+  "parent_friendly_score": 3,
+  "parent_friendly_level": "高",
+  "reason": "使用者回報校正：沒有兒童餐具；有小遊樂區；保留 官方適合兒童用餐標記提供兒童椅。"
 }

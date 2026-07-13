@@ -1,50 +1,51 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Yes",
-                             "evidence":  "空間大",
-                             "confidence":  0.8
-                         },
-    "Kids menu available":  {
-                                "result":  "No",
-                                "evidence":  "Google 官方登記無提供兒童餐點",
-                                "confidence":  1
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "No",
-                               "evidence":  "Google 官方登記不適合兒童用餐",
-                               "confidence":  1
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，手工甜點與下午茶點心口感精緻，評價優良。空間寬敞但環境較為安靜，帶好動小孩用餐時可能需要多加留意。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "空間大"
-                          ],
-    "parent_friendly_score":  -1,
-    "parent_friendly_level":  "中",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+{
+  " child_seat available": {
+    "result": "Yes",
+    "evidence": "官方資訊標示提供兒童高腳椅",
+    "confidence": 1
+  },
+  "Spacious seating": {
+    "result": "Yes",
+    "evidence": "空間大",
+    "confidence": 0.8
+  },
+  "Kids menu available": {
+    "result": "No",
+    "evidence": "Google 官方登記無提供兒童餐點",
+    "confidence": 1
+  },
+  "kid_noise_tolerant": {
+    "result": "No",
+    "evidence": "Google 官方登記不適合兒童用餐",
+    "confidence": 1
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_tableware": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "generated_summary": "根據評論分析，手工甜點與下午茶點心口感精緻，評價優良。空間寬敞但環境較為安靜，帶好動小孩用餐時可能需要多加留意。提供兒童椅。",
+  "card_summary": "根據評論分析，手工甜點與下午茶點心口感精緻，評價優良。空間寬敞但環境較為安靜，帶好動小孩用餐時可能需要多加留意。提供兒童椅。",
+  "generated_signals": [
+    "空間大",
+    "提供兒童椅"
+  ],
+  "parent_friendly_score": 2,
+  "parent_friendly_level": "中",
+  "reason": "官方親子標籤與評論/簡介語意關聯分析提供兒童椅。"
 }

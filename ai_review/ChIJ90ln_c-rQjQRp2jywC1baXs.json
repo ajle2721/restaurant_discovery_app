@@ -1,51 +1,52 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "No",
-                             "evidence":  "內部空間很安靜舒適，不會太擁擠，餐桌多是4人小桌，靠窗的座位一半是沙發、一半是座椅，但也有小包箱，適合私人小聚會。",
-                             "confidence":  1
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "No",
-                               "evidence":  "內部空間很安靜舒適，不會太擁擠，餐桌多是4人小桌，靠窗的座位一半是沙發、一半是座椅，但也有小包箱，適合私人小聚會。",
-                               "confidence":  1
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Yes",
-                             "evidence":  "如果想要私密空間 建議訂包廂",
-                             "confidence":  0.9
-                         },
-    "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，店內提供的義大利麵等義式餐點口感良好，獲得顧客肯定。座位較擁擠且環境偏安靜，適合帶孩子前來用餐。此外，店內還設有舒適的獨立包廂空間，是親友、家庭聚餐時的理想選擇。",
-    "card_summary":  "",
-    "generated_signals":  [
-                              "不會太擁擠",
-                              "內部空間很安靜舒適"
-                          ],
-    "parent_friendly_score":  -2,
-    "parent_friendly_level":  "中",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+{
+  " child_seat available": {
+    "result": "Yes",
+    "evidence": "官方資訊標示提供兒童高腳椅",
+    "confidence": 1
+  },
+  "Spacious seating": {
+    "result": "No",
+    "evidence": "內部空間很安靜舒適，不會太擁擠，餐桌多是4人小桌，靠窗的座位一半是沙發、一半是座椅，但也有小包箱，適合私人小聚會。",
+    "confidence": 1
+  },
+  "Kids menu available": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "kid_noise_tolerant": {
+    "result": "No",
+    "evidence": "內部空間很安靜舒適，不會太擁擠，餐桌多是4人小桌，靠窗的座位一半是沙發、一半是座椅，但也有小包箱，適合私人小聚會。",
+    "confidence": 1
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Yes",
+    "evidence": "如果想要私密空間 建議訂包廂",
+    "confidence": 0.9
+  },
+  "has_tableware": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "generated_summary": "根據評論分析，店內提供的義大利麵等義式餐點口感良好，獲得顧客肯定。座位較擁擠且環境偏安靜，適合帶孩子前來用餐。此外，店內還設有舒適的獨立包廂空間，是親友、家庭聚餐時的理想選擇。提供兒童椅。",
+  "card_summary": "根據評論分析，店內提供的義大利麵等義式餐點口感良好，獲得顧客肯定。座位較擁擠且環境偏安靜，適合帶孩子前來用餐。此外，店內還設有舒適的獨立包廂空間，是親友、家庭聚餐時的理想選擇。提供兒童椅。",
+  "generated_signals": [
+    "不會太擁擠",
+    "內部空間很安靜舒適",
+    "提供兒童椅"
+  ],
+  "parent_friendly_score": 2,
+  "parent_friendly_level": "中",
+  "reason": "官方親子標籤與評論/簡介語意關聯分析提供兒童椅。"
 }

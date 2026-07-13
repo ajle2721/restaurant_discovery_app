@@ -1,50 +1,51 @@
 {
-    " child_seat available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Spacious seating": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "Kids menu available": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "雖然旁邊客人是有小孩的有一點吵雜但還算舒適",
-        "confidence": 0.8
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_tableware": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "generated_summary": "根據評論分析，店內提供的義大利麵等義式餐點口感良好，獲得顧客肯定。餐廳氣氛輕鬆且親子友善，非常適合帶孩子前來用餐。官方也標示其適合兒童，預期會提供兒童椅及兒童餐具，讓家庭顧客能輕鬆享���美食。",
-    "card_summary": "根據評論分析，店內提供的義大利麵等義式餐點口感良好，獲得顧客肯定。餐廳氣氛輕鬆且親子友善，非常適合帶孩子前來用餐。官方也標示其適合兒童，預期會提供兒童椅及兒童餐具，讓家庭顧客能輕鬆享���美食。",
-    "generated_signals": [
-        "雖然旁邊客人是有小孩的有一點吵雜但還算舒適"
-    ],
-    "parent_friendly_score": 1,
-    "parent_friendly_level": "中",
-    "reason": "Google 官方親子標籤與評論/簡介語意關聯分析"
+  " child_seat available": {
+    "result": "Yes",
+    "evidence": "官方資訊標示提供兒童高腳椅",
+    "confidence": 1
+  },
+  "Spacious seating": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "Kids menu available": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "kid_noise_tolerant": {
+    "result": "Yes",
+    "evidence": "雖然旁邊客人是有小孩的有一點吵雜但還算舒適",
+    "confidence": 0.8
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_tableware": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "generated_summary": "根據評論分析，店內提供的義大利麵等義式餐點口感良好，獲得顧客肯定。餐廳氣氛輕鬆且親子友善，非常適合帶孩子前來用餐。官方也標示其適合兒童，預期會提供兒童椅及兒童餐具，讓家庭顧客能輕鬆享���美食。提供兒童椅。",
+  "card_summary": "根據評論分析，店內提供的義大利麵等義式餐點口感良好，獲得顧客肯定。餐廳氣氛輕鬆且親子友善，非常適合帶孩子前來用餐。官方也標示其適合兒童，預期會提供兒童椅及兒童餐具，讓家庭顧客能輕鬆享���美食。提供兒童椅。",
+  "generated_signals": [
+    "雖然旁邊客人是有小孩的有一點吵雜但還算舒適",
+    "提供兒童椅"
+  ],
+  "parent_friendly_score": 2,
+  "parent_friendly_level": "中",
+  "reason": "官方親子標籤與評論/簡介語意關聯分析提供兒童椅。"
 }

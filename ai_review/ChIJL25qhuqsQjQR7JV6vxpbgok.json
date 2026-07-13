@@ -1,55 +1,56 @@
 {
-    " child_seat available": {
-        "result": "Yes",
-        "evidence": "使用者回報：有兒童椅",
-        "confidence": 1
-    },
-    "Spacious seating": {
-        "result": "Yes",
-        "evidence": "使用者回報：位於大湖公園旁，空間寬敞，可放嬰兒推車",
-        "confidence": 1
-    },
-    "Kids menu available": {
-        "result": "Yes",
-        "evidence": "使用者回報：有兒童餐",
-        "confidence": 1
-    },
-    "kid_noise_tolerant": {
-        "result": "Yes",
-        "evidence": "使用者回報：環境不怕吵",
-        "confidence": 1
-    },
-    "has_play_area": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_private_room": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "has_tableware": {
-        "result": "Yes",
-        "evidence": "使用者回報：有兒童餐具",
-        "confidence": 1
-    },
-    "has_diaper_table": {
-        "result": "Unknown",
-        "evidence": null,
-        "confidence": 0.4
-    },
-    "parent_friendly_score": 6,
-    "parent_friendly_level": "高",
-    "reason": "使用者回報與人工校正",
-    "generated_signals": [
-        "使用者回報：位於大湖公園旁",
-        "使用者回報：有兒童椅",
-        "使用者回報：有兒童餐具",
-        "使用者回報：有兒童餐",
-        "使用者回報：環境不怕吵",
-        "使用者回報：空間寬敞，可放嬰兒推車"
-    ],
-    "generated_summary": "饗趣31義式景觀餐廳位於大湖公園旁，屬於義式料理餐廳。店內提供兒童椅、兒童餐具與兒童餐，空間寬敞，可放嬰兒推車，環境對孩子聲音較包容，適合親子家庭用餐。",
-    "card_summary": "大湖公園旁的義式景觀餐廳，提供兒童椅、兒童餐具與兒童餐，空間寬敞可放推車，不怕吵。"
+  " child_seat available": {
+    "result": "Yes",
+    "evidence": "官方資訊標示提供兒童高腳椅",
+    "confidence": 1
+  },
+  "Spacious seating": {
+    "result": "Yes",
+    "evidence": "使用者回報：位於大湖公園旁，空間寬敞，可放嬰兒推車",
+    "confidence": 1
+  },
+  "Kids menu available": {
+    "result": "Yes",
+    "evidence": "使用者回報：有兒童餐",
+    "confidence": 1
+  },
+  "kid_noise_tolerant": {
+    "result": "Yes",
+    "evidence": "使用者回報：環境不怕吵",
+    "confidence": 1
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_tableware": {
+    "result": "Yes",
+    "evidence": "使用者回報：有兒童餐具",
+    "confidence": 1
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "parent_friendly_score": 6,
+  "parent_friendly_level": "高",
+  "reason": "使用者回報與人工校正提供兒童椅。",
+  "generated_signals": [
+    "使用者回報：位於大湖公園旁",
+    "使用者回報：有兒童椅",
+    "使用者回報：有兒童餐具",
+    "使用者回報：有兒童餐",
+    "使用者回報：環境不怕吵",
+    "使用者回報：空間寬敞，可放嬰兒推車",
+    "提供兒童椅"
+  ],
+  "generated_summary": "饗趣31義式景觀餐廳位於大湖公園旁，屬於義式料理餐廳。店內提供兒童椅、兒童餐具與兒童餐，空間寬敞，可放嬰兒推車，環境對孩子聲音較包容，適合親子家庭用餐。提供兒童椅。",
+  "card_summary": "大湖公園旁的義式景觀餐廳，提供兒童椅、兒童餐具與兒童餐，空間寬敞可放推車，不怕吵。提供兒童椅。"
 }

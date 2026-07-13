@@ -1,50 +1,50 @@
-﻿{
-    " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
-                              },
-    "Spacious seating":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "Kids menu available":  {
-                                "result":  "Unknown",
-                                "evidence":  null,
-                                "confidence":  0.4
-                            },
-    "kid_noise_tolerant":  {
-                               "result":  "Unknown",
-                               "evidence":  null,
-                               "confidence":  0.4
-                           },
-    "has_play_area":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_private_room":  {
-                             "result":  "Yes",
-                             "evidence":  "火鍋湯頭一般，份量算多的，唯一不一樣的地方是用餐結束後，可以到後院喂水豚（喂水豚不計入用餐時間）近距離接觸水豚，牧草是免費的，用餐時間限90分鐘，入場後要趕快點餐，因為用餐人數眾多，所以上餐速度有點慢，需要提前在網路預約，座位及通道有點擠，所以需要小心行走，可現金、刷卡、電子支付，可載具存發票，低消490元，10%服務費另計，價位可參考照片，服務人員都很親切，會提醒用餐時間剩幾分鐘，有一間包廂可以6人一起用餐，全部的裝潢、餐具，看得到的地方都是和可愛的水豚有關，飲料、冰淇淋、白飯、王子麵、寬冬粉，無限供應，下次還會想再來吃鍋",
-                             "confidence":  0.9
-                         },
-    "has_tableware":  {
-                          "result":  "Unknown",
-                          "evidence":  null,
-                          "confidence":  0.4
-                      },
-    "has_diaper_table":  {
-                             "result":  "Unknown",
-                             "evidence":  null,
-                             "confidence":  0.4
-                         },
-    "generated_summary":  "根據評論分析，服務人員接待熱忱、服務態度良好。此外，店內設有獨立包廂（有最低消費或折抵限制），為需要隱私的聚會提供舒適的空間。",
-    "card_summary":  "",
-    "generated_signals":  [
-
-                          ],
-    "parent_friendly_score":  0,
-    "parent_friendly_level":  "中",
-    "reason":  "Google 官方親子標籤與評論/簡介語意關聯分析"
+{
+  " child_seat available": {
+    "result": "Yes",
+    "evidence": "官方資訊標示提供兒童高腳椅",
+    "confidence": 1
+  },
+  "Spacious seating": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "Kids menu available": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "kid_noise_tolerant": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_play_area": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_private_room": {
+    "result": "Yes",
+    "evidence": "火鍋湯頭一般，份量算多的，唯一不一樣的地方是用餐結束後，可以到後院喂水豚（喂水豚不計入用餐時間）近距離接觸水豚，牧草是免費的，用餐時間限90分鐘，入場後要趕快點餐，因為用餐人數眾多，所以上餐速度有點慢，需要提前在網路預約，座位及通道有點擠，所以需要小心行走，可現金、刷卡、電子支付，可載具存發票，低消490元，10%服務費另計，價位可參考照片，服務人員都很親切，會提醒用餐時間剩幾分鐘，有一間包廂可以6人一起用餐，全部的裝潢、餐具，看得到的地方都是和可愛的水豚有關，飲料、冰淇淋、白飯、王子麵、寬冬粉，無限供應，下次還會想再來吃鍋",
+    "confidence": 0.9
+  },
+  "has_tableware": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "has_diaper_table": {
+    "result": "Unknown",
+    "evidence": null,
+    "confidence": 0.4
+  },
+  "generated_summary": "根據評論分析，服務人員接待熱忱、服務態度良好。此外，店內設有獨立包廂（有最低消費或折抵限制），為需要隱私的聚會提供舒適的空間。提供兒童椅。",
+  "card_summary": "根據評論分析，服務人員接待熱忱、服務態度良好。此外，店內設有獨立包廂（有最低消費或折抵限制），為需要隱私的聚會提供舒適的空間。提供兒童椅。",
+  "generated_signals": [
+    "提供兒童椅"
+  ],
+  "parent_friendly_score": 2,
+  "parent_friendly_level": "中",
+  "reason": "官方親子標籤與評論/簡介語意關聯分析提供兒童椅。"
 }
