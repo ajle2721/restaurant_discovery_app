@@ -1,8 +1,8 @@
-﻿{
+{
     " child_seat available":  {
-                                  "result":  "Unknown",
-                                  "evidence":  null,
-                                  "confidence":  0.4
+                                  "result":  "Yes",
+                                  "evidence":  "使用者回報：店內有兒童椅",
+                                  "confidence":  1
                               },
     "Spacious seating":  {
                              "result":  "Unknown",
@@ -39,10 +39,10 @@
                              "evidence":  null,
                              "confidence":  0.4
                          },
-    "generated_summary":  "根據評論分析，店內提供的義大利麵等義式餐點口感良好，獲得顧客肯定。",
-    "card_summary":  "",
+    "generated_summary":  "店內提供兒童椅。",
+    "card_summary":  "提供兒童椅。",
     "generated_signals":  [
-
+                              "使用者回報：店內有兒童椅"
                           ],
     "parent_friendly_score":  0,
     "parent_friendly_level":  "資訊不足",

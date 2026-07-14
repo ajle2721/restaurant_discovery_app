@@ -1738,11 +1738,13 @@ function getContactInfo(placeId, baseRestaurant = {}) {
 }
 
 function getCuisine(placeId, baseRestaurant) {
+  if (placeId === "ChIJ9YBU_wqpQjQR2mdxvvdOhTo") return "早午餐 / 咖啡廳 / 甜點";
   if (/Mini Club/i.test(baseRestaurant.name || "")) return "親子餐廳 / 咖啡廳";
   return (typeof cuisinesMapping !== 'undefined' ? cuisinesMapping[placeId] : null) || baseRestaurant.cuisine || inferCuisineFromName(baseRestaurant.name) || null;
 }
 
 function getPriceLevel(baseRestaurant, placeId = "") {
+  if (placeId === "ChIJ9YBU_wqpQjQR2mdxvvdOhTo") return "PRICE_LEVEL_MODERATE";
   if (placeId === "ChIJ079AtyOrQjQRKtxKHhdlL80") return "PRICE_LEVEL_MODERATE";
   if (placeId === "ChIJQUG7TZ2pQjQRIkL2CT9NOMU") return "PRICE_LEVEL_INEXPENSIVE";
   if (placeId === "ChIJIWFwqW-pQjQRG1swI_5bSsc") return ["PRICE_LEVEL_INEXPENSIVE", "PRICE_LEVEL_MODERATE"];
