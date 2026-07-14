@@ -33,12 +33,14 @@ if (fs.existsSync(googlePlaceSummariesPath)) {
     const csvRows = parseCsvRows(fs.readFileSync(googlePlaceSummariesPath, "utf8").replace(/^\uFEFF/, ""));
     const headers = csvRows.shift() || [];
     const placeIdIndex = headers.indexOf("Place ID");
+    const addressIndex = headers.indexOf("地址");
     const cuisineIndex = headers.indexOf("Google 類別");
     const priceIndex = headers.indexOf("Google 價位");
     for (const row of csvRows) {
       const placeId = String(row[placeIdIndex] || "").trim();
       if (!placeId) continue;
       googlePlaceSummaries.set(placeId, {
+        address: String(row[addressIndex] || "").trim(),
         cuisine: String(row[cuisineIndex] || "").trim(),
         price: String(row[priceIndex] || "").trim(),
       });
@@ -2239,10 +2241,49 @@ function buildRecord_old(placeId, baseRestaurant, aiReview) {
       "資訊不足",
   ];
 }
+function normalizeTaiwanAddress(address = "") {
+  const original = String(address || "").trim();
+  if (!/\bNo\./i.test(original)) return original;
+
+  const districtMatches = [...original.matchAll(/(中正區|大同區|中山區|松山區|大安區|萬華區|信義區|士林區|北投區|內湖區|南港區|文山區)/g)];
+  const districtMatch = districtMatches.at(-1);
+  if (!districtMatch) return original;
+
+  const district = districtMatch[1];
+  const zipMatch = original.match(/\b(\d{3,5})\s*$/);
+  const zip = zipMatch?.[1] || "";
+  const city = /臺北市/.test(original) ? "臺北市" : (/台北市/.test(original) ? "台北市" : "臺北市");
+  const lastNoIndex = original.toLowerCase().lastIndexOf("no.");
+  if (lastNoIndex < 0 || lastNoIndex > districtMatch.index) return original;
+
+  const prefix = original.slice(0, lastNoIndex).replace(/[，,\s]+$/g, "");
+  let location = original.slice(lastNoIndex + 3, districtMatch.index)
+    .replace(/^\s+|[，,\s]+$/g, "")
+    .replace(/(?:Da['’]?an District|Taipei City)/gi, "")
+    .replace(/[，,]+$/g, "")
+    .trim();
+  location = location.replace(/[\p{Script=Han}]{2}里$/u, "");
+
+  const houseMatch = location.match(/^(\d+(?:之\d+|-\d+)?(?:號)?)[，,]?\s*(.+)$/);
+  if (!houseMatch) return original;
+  const houseNumber = `${houseMatch[1].trim().replace(/號$/, "")}號`;
+  const street = houseMatch[2].replace(/^[，,\s]+|[，,\s]+$/g, "").trim();
+  if (!street || !/(路|街|巷|弄|大道|段)/.test(street)) return original;
+
+  const floorMatches = [...prefix.matchAll(/(?:地下\s*\d+\s*樓|B\d+|\d+\s*(?:樓|F)|Floor\s*\d+)/gi)];
+  let floor = floorMatches.at(-1)?.[0] || "";
+  floor = floor.replace(/^Floor\s*(\d+)$/i, "$1樓").replace(/^(\d+)F$/i, "$1樓").replace(/\s+/g, "").toUpperCase();
+
+  return `${zip}${city}${district}${street}${houseNumber}${floor}`;
+}
 function writeIndex(records) {
   const normalizedRecords = records.map((record) => {
     const row = Array.from(record);
     while (row.length < columns.length) row.push("");
+    const sourceAddress = googlePlaceSummaries.get(row[0])?.address;
+    if (sourceAddress) row[2] = sourceAddress;
+    if (row[0] === "ChIJ3259YLmrQjQRvk0pEymzGXQ") row[2] = "110臺北市信義區忠孝東路五段8號B2";
+    row[2] = normalizeTaiwanAddress(row[2]);
     if (kidsMenuYesPlaceIds.has(row[0])) {
       row[9] = {
         ...(row[9] || {}),
