@@ -26,6 +26,97 @@ if (fs.existsSync(cuisinesMappingPath)) {
   }
 }
 
+const googlePlaceSummariesPath = path.join(baseDir, "餐廳類別 - google_maps_place_summaries.csv");
+const googlePlaceSummaries = new Map();
+if (fs.existsSync(googlePlaceSummariesPath)) {
+  try {
+    const csvRows = parseCsvRows(fs.readFileSync(googlePlaceSummariesPath, "utf8").replace(/^\uFEFF/, ""));
+    const headers = csvRows.shift() || [];
+    const placeIdIndex = headers.indexOf("Place ID");
+    const cuisineIndex = headers.indexOf("Google 類別");
+    const priceIndex = headers.indexOf("Google 價位");
+    for (const row of csvRows) {
+      const placeId = String(row[placeIdIndex] || "").trim();
+      if (!placeId) continue;
+      googlePlaceSummaries.set(placeId, {
+        cuisine: String(row[cuisineIndex] || "").trim(),
+        price: String(row[priceIndex] || "").trim(),
+      });
+    }
+  } catch (err) {
+    console.error("Error loading 餐廳類別 - google_maps_place_summaries.csv:", err.message);
+  }
+}
+
+function parseCsvRows(text) {
+  const rows = [];
+  let row = [];
+  let field = "";
+  let quoted = false;
+  for (let index = 0; index < text.length; index += 1) {
+    const char = text[index];
+    if (quoted) {
+      if (char === '"' && text[index + 1] === '"') {
+        field += '"';
+        index += 1;
+      } else if (char === '"') {
+        quoted = false;
+      } else {
+        field += char;
+      }
+    } else if (char === '"') {
+      quoted = true;
+    } else if (char === ",") {
+      row.push(field);
+      field = "";
+    } else if (char === "\n") {
+      row.push(field.replace(/\r$/, ""));
+      rows.push(row);
+      row = [];
+      field = "";
+    } else {
+      field += char;
+    }
+  }
+  if (field || row.length) {
+    row.push(field.replace(/\r$/, ""));
+    rows.push(row);
+  }
+  return rows;
+}
+
+function getGooglePriceLevel(priceText = "") {
+  const values = [...String(priceText).matchAll(/\d[\d,]*/g)].map((match) => Number(match[0].replaceAll(",", "")));
+  if (values.length === 0) return null;
+  let minimum = values[0];
+  let maximum = values.length > 1 ? values[1] : values[0];
+  if (values.length > 1 && maximum < minimum) {
+    const digits = String(values[1]).length;
+    const magnitude = 10 ** Math.max(0, String(minimum).length - digits);
+    maximum *= magnitude;
+  }
+  if (maximum < minimum) [minimum, maximum] = [maximum, minimum];
+  const levels = [];
+  if (minimum <= 300) levels.push("PRICE_LEVEL_INEXPENSIVE");
+  if (maximum > 300 && minimum < 800) levels.push("PRICE_LEVEL_MODERATE");
+  if (maximum > 800 || minimum >= 800) levels.push("PRICE_LEVEL_EXPENSIVE");
+  return levels.length === 1 ? levels[0] : levels;
+}
+const kidsMenuYesCsvPath = path.join(baseDir, "google_kids_menu_missing_in_site - google_kids_menu_missing_in_site.csv");
+const kidsMenuYesPlaceIds = new Set();
+if (fs.existsSync(kidsMenuYesCsvPath)) {
+  try {
+    const csvRows = parseCsvRows(fs.readFileSync(kidsMenuYesCsvPath, "utf8").replace(/^\uFEFF/, ""));
+    const headers = csvRows.shift() || [];
+    const placeIdIndex = headers.indexOf("Place ID");
+    for (const row of csvRows) {
+      const placeId = String(row[placeIdIndex] || "").trim();
+      if (placeId) kidsMenuYesPlaceIds.add(placeId);
+    }
+  } catch (err) {
+    console.error("Error loading google_kids_menu_missing_in_site CSV:", err.message);
+  }
+}
 const temporarilyHiddenPlaceIds = new Set([
   "ChIJH_WVdGWpQjQRunfMO1rsZiU", // 舒啡•序 RelaxCafeChic, temporarily closed
   "ChIJpzAkec2rQjQRLYceVmNNtq4", // 默爾 pasta pizza 信義威秀店, closed
@@ -1593,7 +1684,7 @@ function getMajorCuisines(cuisine, name = "") {
     add("日韓料理");
   }
 
-  if (/義大利|義式|披薩|比薩|pizza/i.test(text) || c === "義大利料理" || c === "披薩") {
+  if (/義大利|意大利|義式|披薩|比薩|薄餅|pizza/i.test(text) || c === "義大利料理" || c === "披薩") {
     add("義式料理");
   }
 
@@ -1699,6 +1790,12 @@ function appendDaylightBrandSummary(summary, name = "") {
 }
 
 function applyPlaceSpecificAttributeOverrides(attributes, placeId = "") {
+  if (kidsMenuYesPlaceIds.has(placeId)) {
+    attributes = {
+      ...attributes,
+      kids_menu: "yes",
+    };
+  }
   if (placeId === "ChIJnVCcwqypQjQRunZOaoCjiTo") {
     return {
       ...attributes,
@@ -1738,13 +1835,15 @@ function getContactInfo(placeId, baseRestaurant = {}) {
 }
 
 function getCuisine(placeId, baseRestaurant) {
-  if (placeId === "ChIJ9YBU_wqpQjQR2mdxvvdOhTo") return "早午餐 / 咖啡廳 / 甜點";
+  const googleCuisine = googlePlaceSummaries.get(placeId)?.cuisine;
+  if (googleCuisine) return googleCuisine;
   if (/Mini Club/i.test(baseRestaurant.name || "")) return "親子餐廳 / 咖啡廳";
   return (typeof cuisinesMapping !== 'undefined' ? cuisinesMapping[placeId] : null) || baseRestaurant.cuisine || inferCuisineFromName(baseRestaurant.name) || null;
 }
 
 function getPriceLevel(baseRestaurant, placeId = "") {
-  if (placeId === "ChIJ9YBU_wqpQjQR2mdxvvdOhTo") return "PRICE_LEVEL_MODERATE";
+  const googlePrice = getGooglePriceLevel(googlePlaceSummaries.get(placeId)?.price);
+  if (googlePrice) return googlePrice;
   if (placeId === "ChIJ079AtyOrQjQRKtxKHhdlL80") return "PRICE_LEVEL_MODERATE";
   if (placeId === "ChIJQUG7TZ2pQjQRIkL2CT9NOMU") return "PRICE_LEVEL_INEXPENSIVE";
   if (placeId === "ChIJIWFwqW-pQjQRG1swI_5bSsc") return ["PRICE_LEVEL_INEXPENSIVE", "PRICE_LEVEL_MODERATE"];
@@ -1792,6 +1891,17 @@ function getPriceLevel(baseRestaurant, placeId = "") {
 
 
 
+function appendKidsMenuSummary(summary = "", placeId = "") {
+  if (!kidsMenuYesPlaceIds.has(placeId)) return summary || "";
+  const negativeKidsMenuPattern = /(?:不提供|沒有|無提供|尚未(?:明確)?確認|未(?:明確)?確認|資訊(?:尚)?未確認)[^。！？!?]*兒童餐(?!具)|兒童餐(?!具)[^。！？!?]*(?:不提供|沒有|無提供|尚未(?:明確)?確認|未(?:明確)?確認|資訊(?:尚)?未確認)/;
+  const cleaned = String(summary || "")
+    .match(/[^。！？!?]+[。！？!?]?/g)
+    ?.map((sentence) => sentence.trim())
+    .filter((sentence) => sentence && !negativeKidsMenuPattern.test(sentence) && !/親子備品[^。！？!?]*(?:未確認|詢問)/.test(sentence))
+    .join("") || "";
+  if (/(?:提供|備有|有)兒童餐(?!具)/.test(cleaned)) return cleaned;
+  return `${cleaned}${cleaned && !/[。！？!?]$/.test(cleaned) ? "。" : ""}提供兒童餐。`;
+}
 function applyPlaceSpecificSummaryOverrides(summary = "", placeId = "") {
   if (placeId === "ChIJnea3ei-rQjQRJJpRyMTUlEE") {
     return "URBAN PARADISE 信義店是高價餐酒館 buffet，餐廳定位較偏上班族下班聚會，並非特別以親子用餐為主。店內可提供兒童椅，但訂位時需要主動註明需求；可就近使用商場內公共尿布台及哺乳室。";
@@ -2133,9 +2243,18 @@ function writeIndex(records) {
   const normalizedRecords = records.map((record) => {
     const row = Array.from(record);
     while (row.length < columns.length) row.push("");
+    if (kidsMenuYesPlaceIds.has(row[0])) {
+      row[9] = {
+        ...(row[9] || {}),
+        kids_menu: "yes",
+      };
+      row[10] = appendKidsMenuSummary(row[10], row[0]);
+      row[11] = appendKidsMenuSummary(row[11], row[0]);
+    }
     return row.slice(0, columns.length);
   });
-  const content = `const columns = ${JSON.stringify(columns)};\n\nconst rows = ${JSON.stringify(normalizedRecords)};\n\nconst restaurantData = [];\nfor (let i = 0; i < rows.length; i++) {\n  Object.defineProperty(restaurantData, i, {\n    get() {\n      const row = rows[i];\n      const obj = {};\n      columns.forEach((col, k) => {\n        obj[col] = row[k];\n      });\n      obj.formatted_address = obj.address;\n      obj.google_maps_url = obj.url;\n      Object.defineProperty(restaurantData, i, {\n        value: obj,\n        writable: true,\n        configurable: true,\n        enumerable: true\n      });\n      return obj;\n    },\n    configurable: true,\n    enumerable: true\n  });\n}\n`;
+  const serializedRows = JSON.stringify(normalizedRecords).replaceAll("意大利", "義大利");
+  const content = `const columns = ${JSON.stringify(columns)};\n\nconst rows = ${serializedRows};\n\nconst restaurantData = [];\nfor (let i = 0; i < rows.length; i++) {\n  Object.defineProperty(restaurantData, i, {\n    get() {\n      const row = rows[i];\n      const obj = {};\n      columns.forEach((col, k) => {\n        obj[col] = row[k];\n      });\n      obj.formatted_address = obj.address;\n      obj.google_maps_url = obj.url;\n      Object.defineProperty(restaurantData, i, {\n        value: obj,\n        writable: true,\n        configurable: true,\n        enumerable: true\n      });\n      return obj;\n    },\n    configurable: true,\n    enumerable: true\n  });\n}\n`;
   fs.writeFileSync(outputPath, content, "utf8");
 }
 
