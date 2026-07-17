@@ -1999,6 +1999,7 @@ function handleAutocomplete() {
                     const placeId = item.dataset.id;
                     const res = restaurantMatches.find(r => r.place_id === placeId);
                     if (res) {
+                        trackSearchLocation('autocomplete_restaurant', res.name);
                         const customLoc = {
                             name: res.name,
                             lat: res.latitude,
@@ -2007,6 +2008,11 @@ function handleAutocomplete() {
                             place_id: res.place_id
                         };
                         selectLocation(customLoc, 'autocomplete_restaurant');
+                        const viewedCount = recordRestaurantDetailView(res);
+                        trackEvent('view_restaurant_detail', {
+                            ...getRestaurantEventParams(res, 'autocomplete_restaurant'),
+                            viewed_restaurant_count: viewedCount
+                        });
                         showDetail(res);
                     }
                 }
