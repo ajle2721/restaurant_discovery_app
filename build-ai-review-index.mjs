@@ -1798,7 +1798,12 @@ function applyPlaceSpecificAttributeOverrides(attributes, placeId = "") {
       kids_menu: "yes",
     };
   }
-  if (placeId === "ChIJnVCcwqypQjQRunZOaoCjiTo") {
+  if (placeId === "ChIJzxNdESWpQjQR3fTbZzBvgF4") {
+    return {
+      ...attributes,
+      kid_noise_tolerant: "yes",
+    };
+  }  if (placeId === "ChIJnVCcwqypQjQRunZOaoCjiTo") {
     return {
       ...attributes,
       has_private_room: "unknown",
@@ -1905,6 +1910,9 @@ function appendKidsMenuSummary(summary = "", placeId = "") {
   return `${cleaned}${cleaned && !/[。！？!?]$/.test(cleaned) ? "。" : ""}提供兒童餐。`;
 }
 function applyPlaceSpecificSummaryOverrides(summary = "", placeId = "") {
+  if (placeId === "ChIJzxNdESWpQjQR3fTbZzBvgF4") {
+    return "一間日本人開的牛肉麵店，小孩無低消，環境對孩子聲音較包容。";
+  }
   if (placeId === "ChIJnea3ei-rQjQRJJpRyMTUlEE") {
     return "URBAN PARADISE 信義店是高價餐酒館 buffet，餐廳定位較偏上班族下班聚會，並非特別以親子用餐為主。店內可提供兒童椅，但訂位時需要主動註明需求；可就近使用商場內公共尿布台及哺乳室。";
   }
