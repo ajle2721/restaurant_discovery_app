@@ -419,7 +419,7 @@ function getPFSummaryTags(res, overrideLevel, simpleFormat = false) {
         });
         if (matchCount > 0) {
             if (simpleFormat) {
-                return `符合 ${matchCount}/${state.filters.size} 項勾選條件`;
+                return `符合你勾選的 ${matchCount}/${state.filters.size} 項：${matchedNames.join('、')}`;
             }
             return `符合 ${matchCount}/${state.filters.size}：${matchedNames.join('、')}`;
         }
@@ -3368,15 +3368,16 @@ function renderDetailContent(restaurant) {
             const isMatched = state.filters && state.filters.has(attr);
             const isLikely = val === 'likely' || val === 'likely_room' || val === 'likely_venue';
             
-            let tagClass = 'tag';
-            if (isMatched) tagClass += ' matched';
+            let tagClass = 'tag amenity-available';
+            if (isMatched) tagClass += ' selected-filter';
             if (isLikely) tagClass += ' likely';
             
             const titleAttr = isLikely ? ` title="${ESTIMATED_ATTRIBUTE_TOOLTIP}" role="button" tabindex="0" aria-expanded="false" aria-controls="estimated-tag-note"` : '';
-            const checkIcon = isMatched ? '✓ ' : '';
+            const statusIcon = isLikely ? '≈' : '✓';
             const suffix = isLikely ? '<span class="tag-estimate-suffix">(估)</span><span class="tag-estimate-info" aria-hidden="true">ⓘ</span>' : '';
+            const selectedBadge = isMatched ? '<span class="tag-user-condition">你的條件</span>' : '';
             
-            tagsHtml += `<span class="${tagClass}"${titleAttr}><span>${checkIcon}${attributeIcons[attr] || '✨'}</span> <span style="display:flex;align-items:center;">${attributeLabels[attr]}${suffix}</span></span>`;
+            tagsHtml += `<span class="${tagClass}"${titleAttr}><span class="tag-availability-icon" aria-hidden="true">${statusIcon}</span><span aria-hidden="true">${attributeIcons[attr] || '✨'}</span> <span class="tag-label">${attributeLabels[attr]}${suffix}</span>${selectedBadge}</span>`;
         }
     });
 
@@ -3461,7 +3462,8 @@ function renderDetailContent(restaurant) {
             ${summaryTags ? `<div class="summary-tags-text ${levelClass}" style="font-size: 0.85rem; font-weight: 600; margin-top: 0.5rem; line-height: 1.5;">${summaryTags}</div>` : ''}
         </div>
         
-        <div style="font-weight: 700; margin-bottom: 1rem; color: var(--text-muted);">親子友善條件</div>
+        <div style="font-weight: 700; margin-bottom: 0.35rem; color: var(--text-muted);">這間餐廳有的親子友善設施與環境</div>
+        <div class="amenity-status-legend">✓ 已確認提供；標示「估」的項目為推估資料</div>
         <div class="tag-container" style="gap: 0.75rem; margin-bottom: 1.5rem;">
             ${tagsHtml}
         </div>
