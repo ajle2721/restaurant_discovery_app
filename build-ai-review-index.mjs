@@ -1911,8 +1911,16 @@ function applyPlaceSpecificSummaryOverrides(summary = "", placeId = "") {
   return summary || "";
 }
 
-function removeGenericSummaryPhrases(summary = "") {
+function removeLowValueTastePraise(summary = "") {
   return String(summary || "")
+    .match(/[^。！？]+[。！？]?/g)
+    ?.map((sentence) => sentence.trim())
+    .filter((sentence) => !/(?:口味良好|口感風味良好|餐點烹調用心[^。！？]*(?:獲得|深受)[^。！？]*好評|深受顧客好評)/.test(sentence))
+    .join("") || "";
+}
+
+function removeGenericSummaryPhrases(summary = "") {
+  return removeLowValueTastePraise(String(summary || ""))
     .replace(/根據目前整理資料，?清爽健康的蔬食與沙拉料理深受顧客青睞。/g, "")
     .replace(/清爽健康的蔬食與沙拉料理深受顧客青睞。/g, "")
     .replace(/^[，、。s]+/, "")
@@ -3363,6 +3371,30 @@ manualRecords.push([
   "溫咖哩 Wen Curry 提供兒童椅、兒童餐具與兒童餐，兒童餐限身高 100-140 公分孩童點選。店內氣氛對孩子聲音較包容，不過空間不大，帶孩子用餐時建議避開尖峰時段。",
   "提供兒童椅、兒童餐具與兒童餐，兒童餐限身高 100-140 公分孩童點選；環境不怕吵，但空間不大。",
   "高",
+]);
+manualRecords.push([
+  "manual-uchi-grill-bistro-zhongxiao",
+  "UCHI吾居炭火餐酒（忠孝店）",
+  "106臺北市大安區建安里忠孝東路四段223巷59號1樓",
+  "大安區",
+  "PRICE_LEVEL_EXPENSIVE",
+  "餐酒館",
+  25.0439,
+  121.5537,
+  "https://www.google.com/maps/search/?api=1&query=UCHI%E5%90%BE%E5%B1%85%E7%82%AD%E7%81%AB%E9%A4%90%E9%85%92%EF%BC%88%E5%BF%A0%E5%AD%9D%E5%BA%97%EF%BC%89%20106%E8%87%BA%E5%8C%97%E5%B8%82%E5%A4%A7%E5%AE%89%E5%8D%80%E5%BB%BA%E5%AE%89%E9%87%8C%E5%BF%A0%E5%AD%9D%E6%9D%B1%E8%B7%AF%E5%9B%9B%E6%AE%B5223%E5%B7%B759%E8%99%9F1%E6%A8%93",
+  {
+    high_chair_available: "unknown",
+    kids_menu: "unknown",
+    spacious_seating: "unknown",
+    kid_noise_tolerant: "yes",
+    has_play_area: "unknown",
+    has_private_room: "room",
+    has_tableware: "unknown",
+    has_diaper_table: "unknown",
+  },
+  "設有大小包廂且備有大螢幕和影音設備，適合慶生與親友聚會。",
+  "設有大小包廂且備有大螢幕和影音設備，適合慶生與親友聚會。",
+  "中",
 ]);
 const extraManualRecordsPath = path.join(aiReviewDir, "manual_chain_branches.json");
 if (fs.existsSync(extraManualRecordsPath)) {
