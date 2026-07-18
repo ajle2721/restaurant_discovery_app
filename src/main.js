@@ -3,6 +3,7 @@ import { locationData } from "./data/locations.js";
 import { restaurantData } from "./data/restaurant-index.js";
 import { createFeedbackController } from "./feedback/feedback-controller.js";
 import { createLeafletMapController } from "./map/leaflet-map.js";
+import { createUrlStateController } from "./navigation/url-state-controller.js";
 import { trackEvent } from "./analytics/events.js";
 import { levelLabels } from "./restaurants/attributes.js";
 import {
@@ -32,6 +33,21 @@ const {
     setupFeedbackEvents,
     submitAiFeedback,
 } = createFeedbackController({ getLocationContext, showToast });
+
+const {
+    getShareUrl,
+    syncStateFromUrl,
+    updateUrl,
+} = createUrlStateController({
+    renderDetailContent: (...args) => renderDetailContent(...args),
+    renderShortlistDrawer: (...args) => renderShortlistDrawer(...args),
+    saveFavorites: (...args) => saveFavorites(...args),
+    selectLocation: (...args) => selectLocation(...args),
+    switchView: (...args) => switchView(...args),
+    updateCuisineFilterUI: (...args) => updateCuisineFilterUI(...args),
+    updateQuickLinksUI: (...args) => updateQuickLinksUI(...args),
+    updateShortlistUI: (...args) => updateShortlistUI(...args),
+});
 
 const {
     loadFavorites,
@@ -703,320 +719,6 @@ function switchView(viewName, animate = true) {
     }
 }
 
-
-function getShareUrl() {
-    const params = new URLSearchParams();
-    if (state.searchLocation) {
-        params.set('loc', state.searchLocation.name);
-        if (state.searchLocation.lat && state.searchLocation.lng) {
-            // 對於「我附近」或任何帶有座標的動態位置，強制附上經緯度
-            params.set('lat', state.searchLocation.lat.toFixed(6));
-            params.set('lng', state.searchLocation.lng.toFixed(6));
-        }
-        if (state.searchLocation.isFallback) {
-            params.set('isFallback', '1');
-            params.set('fbName', state.searchLocation.fallbackName);
-        }
-        if (state.searchLocation.resolvedAddress) {
-            params.set('addr', state.searchLocation.resolvedAddress);
-        }
-        if (state.searchLocation.type === '特定餐廳' || state.searchLocation.place_id) {
-            params.set('locType', 'restaurant');
-        } else if (state.searchLocation.type === '關鍵字搜尋') {
-            params.set('locType', 'keyword');
-            if (state.searchLocation.keyword) {
-                params.set('keyword', state.searchLocation.keyword);
-            }
-        }
-    }
-    state.filters.forEach(f => params.append('f', f));
-    if (hasCuisineFilters()) {
-        state.cuisineFilter.forEach(cuisine => params.append('cuisine', cuisine));
-    }
-    if (hasPriceFilters()) {
-        state.priceFilter.forEach(price => params.append('price', price));
-    }
-    if (state.view === 'detail' && state.selectedRestaurant) {
-        params.set('r', state.selectedRestaurant.place_id);
-    }
-    
-    // 保持 favorites 在網址中，讓「在瀏覽器中開啟」能順利傳遞口袋名單
-    if (state.favorites && state.favorites.size > 0) {
-        params.set('favs', Array.from(state.favorites).join(','));
-    }
-    
-    const queryString = params.toString();
-    return window.location.origin + window.location.pathname + (queryString ? '?' + queryString : '');
-}
-
-function updateUrl(push = false) {
-    const newUrl = getShareUrl();
-    if (push) {
-        if (window.location.href === newUrl && window.history.state && window.history.state.view === state.view) {
-            return;
-        }
-        window.history.pushState({ view: state.view }, '', newUrl);
-    } else {
-        window.history.replaceState({ view: state.view }, '', newUrl);
-    }
-}
-
-function urlMatchesCurrentState(params) {
-    const locName = params.get('loc');
-    const lat = params.get('lat');
-    const lng = params.get('lng');
-    
-    const hasLocInUrl = !!locName;
-    const hasLocInState = !!state.searchLocation;
-    
-    if (hasLocInUrl !== hasLocInState) return false;
-    
-    if (hasLocInUrl && hasLocInState) {
-        if (state.searchLocation.name !== locName) return false;
-        if (lat && state.searchLocation.lat) {
-            if (Math.abs(state.searchLocation.lat - parseFloat(lat)) > 0.0001) return false;
-        }
-        if (lng && state.searchLocation.lng) {
-            if (Math.abs(state.searchLocation.lng - parseFloat(lng)) > 0.0001) return false;
-        }
-    }
-    
-    // Check filters
-    const urlFilters = params.getAll('f');
-    if (urlFilters.length !== state.filters.size) return false;
-    
-    for (let f of urlFilters) {
-        if (!state.filters.has(f)) return false;
-    }
-
-    // Check cuisine
-    const urlCuisines = params.getAll('cuisine');
-    if (urlCuisines.length !== state.cuisineFilter.size) return false;
-    for (let cuisine of urlCuisines) {
-        if (!state.cuisineFilter.has(cuisine)) return false;
-    }
-
-    // Check price
-    const urlPrices = params.getAll('price');
-    if (urlPrices.length !== state.priceFilter.size) return false;
-    for (let price of urlPrices) {
-        if (!state.priceFilter.has(price)) return false;
-    }
-
-    return true;
-}
-
-function syncStateFromUrl(isInitialLoad = false, animate = false) {
-    const params = new URLSearchParams(window.location.search);
-    
-    // 1. 檢查是否有分享的考慮清單
-    const favsParam = params.get('favs');
-    if (favsParam) {
-        console.log('Shared favorites detected:', favsParam);
-        const ids = favsParam.split(',');
-        let loadedAny = false;
-        ids.forEach(id => {
-            if (id && typeof restaurantData !== 'undefined' && restaurantData.some(r => r.place_id === id)) {
-                state.favorites.add(id);
-                loadedAny = true;
-            }
-        });
-        if (loadedAny) {
-            saveFavorites();
-            updateShortlistUI();
-            
-            // 使用 sessionStorage 來記錄此連線階段是否已自動開啟過此分享的抽屜
-            if (isInitialLoad) {
-                const sessionKey = 'shortlist_auto_opened_' + favsParam;
-                if (!safeSession.getItem(sessionKey)) {
-                    safeSession.setItem(sessionKey, 'true');
-                    
-                    // 自動開啟口袋名單抽屜，讓使用者立即看到分享的項目
-                    const openDrawer = () => {
-                        const shortlistDrawer = document.getElementById('shortlist-drawer');
-                        const shortlistDrawerOverlay = document.getElementById('shortlist-drawer-overlay');
-                        if (shortlistDrawer && shortlistDrawerOverlay) {
-                            shortlistDrawer.classList.add('active');
-                            shortlistDrawerOverlay.classList.add('active');
-                            renderShortlistDrawer();
-                        }
-                    };
-                    if (document.readyState === 'complete') {
-                        openDrawer();
-                    } else {
-                        window.addEventListener('load', openDrawer);
-                    }
-                }
-            }
-        }
-    }
-
-    // Check if the search parameters in URL match current active search state.
-    // If they match, skip re-evaluating and re-rendering to prevent scroll resets/jumps!
-    const searchStateMatches = urlMatchesCurrentState(params);
-
-    if (!searchStateMatches) {
-        console.log('Syncing search state from URL...');
-        state.recommendedLimit = 30; // Reset pagination limit
-        state.othersLimit = 30; // Reset pagination limit
-        // 2. 恢復過濾條件
-        state.filters.clear();
-        document.querySelectorAll('.filter-chip:not(.price-chip)').forEach(c => c.classList.remove('active'));
-        params.getAll('f').forEach(f => {
-            state.filters.add(f);
-            const chip = document.querySelector(`.filter-chip[data-filter="${f}"]`);
-            if (chip) chip.classList.add('active');
-        });
-
-        // 2.5 恢復菜系過濾條件
-        state.cuisineFilter.clear();
-        params.getAll('cuisine').forEach(cuisine => state.cuisineFilter.add(cuisine));
-        updateCuisineFilterUI({ expand: false });
-
-        // 2.7 恢復價位過濾條件
-        state.priceFilter.clear();
-        document.querySelectorAll('.price-chip').forEach(c => c.classList.remove('active'));
-        params.getAll('price').forEach(price => {
-            state.priceFilter.add(price);
-            const chip = document.querySelector(".price-chip[data-price=\"" + price + "\"]");
-            if (chip) chip.classList.add('active');
-        });
-
-        // 3. 恢復搜尋地點
-        const locName = params.get('loc');
-        
-        // Auto-recreate multi-location or multi-district location dynamically if present
-        if (locName && locName.includes('、')) {
-            const parts = locName.split('、');
-            const matchedLocations = [];
-            parts.forEach(p => {
-                const locObj = state.locationData.find(l => l.name === p);
-                if (locObj) {
-                    matchedLocations.push(locObj);
-                }
-            });
-            if (matchedLocations.length > 1) {
-                const allDistricts = matchedLocations.every(l => l.type === '行政區');
-                const multiLocType = allDistricts ? '多行政區' : '多地點';
-                let sumLat = 0, sumLng = 0, count = 0;
-                matchedLocations.forEach(loc => {
-                    sumLat += loc.lat;
-                    sumLng += loc.lng;
-                    count++;
-                });
-                const avgLat = count > 0 ? sumLat / count : 25.0374;
-                const avgLng = count > 0 ? sumLng / count : 121.5645;
-                const multiLocationObj = {
-                    name: locName,
-                    type: multiLocType,
-                    locations: matchedLocations,
-                    districts: allDistricts ? matchedLocations.map(l => l.name) : [],
-                    lat: avgLat,
-                    lng: avgLng
-                };
-                if (!state.locationData.some(l => l.name === locName)) {
-                    state.locationData.push(multiLocationObj);
-                }
-            }
-        }
-        
-        const lat = params.get('lat');
-        const lng = params.get('lng');
-        
-        if (lat && lng) {
-            console.log('Syncing location from URL:', lat, lng);
-            let matchedType = '分享位置';
-            const locType = params.get('locType');
-            if (locType === 'restaurant') {
-                matchedType = '特定餐廳';
-            } else if (locType === 'keyword') {
-                matchedType = '關鍵字搜尋';
-            }
-            if (locName && state.locationData && state.locationData.length > 0) {
-                const matchedLoc = state.locationData.find(l => l.name === locName);
-                if (matchedLoc) {
-                    matchedType = matchedLoc.type;
-                }
-            }
-
-            const isFallback = params.get('isFallback') === '1';
-            const fallbackName = params.get('fbName');
-            const resolvedAddress = params.get('addr');
-            const keyword = params.get('keyword');
-
-            const loc = {
-                name: locName || '分享的位置',
-                lat: parseFloat(lat),
-                lng: parseFloat(lng),
-                type: matchedType,
-                isFallback: isFallback,
-                fallbackName: fallbackName,
-                resolvedAddress: resolvedAddress,
-                keyword: keyword || undefined
-            };
-            
-            // When syncing state back, do not push to history again
-            if (document.readyState === 'complete') {
-                selectLocation(loc, 'url_sync', false);
-            } else {
-                window.addEventListener('load', () => selectLocation(loc, 'url_sync', false));
-            }
-        } else if (locName && state.locationData.length > 0) {
-            const loc = state.locationData.find(l => l.name === locName);
-            if (loc) {
-                if (document.readyState === 'complete') {
-                    selectLocation(loc, 'url_sync', false);
-                } else {
-                    window.addEventListener('load', () => selectLocation(loc, 'url_sync', false));
-                }
-            }
-        } else {
-            // No location in URL: we are back at the landing page!
-            state.searchLocation = null;
-            state.userLocation = null;
-            state.showOthers = false;
-            searchInput.value = '';
-            clearSearchBtn.classList.add('hidden');
-            searchResultsView.classList.add('hidden');
-            if (floatShareBtn) floatShareBtn.classList.add('hidden');
-            
-            const clearAllFiltersBtn = document.getElementById('clear-all-filters');
-            if (clearAllFiltersBtn) clearAllFiltersBtn.classList.add('hidden');
-            
-            state.cuisineFilter.clear();
-            updateCuisineFilterUI({ expand: false });
-            
-            state.priceFilter.clear();
-            document.querySelectorAll('.price-chip').forEach(c => c.classList.remove('active'));
-
-            const trendingSection = document.querySelector('.trending-section');
-            if (trendingSection) trendingSection.classList.remove('hidden');
-            const featuresSection = document.querySelector('.features-section');
-            if (featuresSection) featuresSection.classList.remove('hidden');
-            document.querySelector('.main-header').style.display = 'block';
-            homeView.classList.remove('search-active');
-            window.scrollTo({ top: 0, behavior: 'smooth' });
-            updateQuickLinksUI();
-        }
-    } else {
-        console.log('URL search state matches current state, skipping search re-render.');
-    }
-
-    // 4. 恢復餐廳詳情
-    const resId = params.get('r');
-    if (resId && typeof restaurantData !== 'undefined') {
-        const res = restaurantData.find(r => r.place_id === resId);
-        if (res) {
-            state.selectedRestaurant = res;
-            renderDetailContent(res);
-            switchView('detail', animate);
-        } else {
-            switchView('home', animate);
-        }
-    } else {
-        switchView('home', animate);
-    }
-}
 
 function copyToClipboard(text, quiet = false) {
     const performCopy = (txt) => {
