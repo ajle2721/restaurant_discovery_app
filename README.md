@@ -21,6 +21,14 @@ just install
 just dev
 ```
 
+`just dev` runs the HMR development server. To inspect the same loading path as
+the deployed site, build and serve the production output:
+
+```sh
+just build
+just serve
+```
+
 This workstation stores the repository on a `noexec` volume. If `npm install`
 reports an esbuild `EACCES` error, install executable dependencies under `/tmp`:
 
@@ -40,6 +48,7 @@ just preview
 ```
 
 `just build` regenerates `src/data/restaurant-index.js` and creates `dist/`.
+`just serve` and `just preview` both serve that production output.
 Neither step reads ignored `response/*.json`. `just verify-data` parses all
 committed analysis files, checks curated inputs, validates catalog loading, and
 checks generated records for required fields and duplicate IDs.

@@ -38,7 +38,7 @@ clean:
   rm -rf dist
 
 serve:
-  npm run dev -- --host=0.0.0.0 --port={{port}}
+  npm run preview -- --host=0.0.0.0 --port={{port}}
 
 serve-open:
-  npm run dev -- --host=0.0.0.0 --port={{port}} --open
+  npm run preview -- --host=0.0.0.0 --port={{port}} --open

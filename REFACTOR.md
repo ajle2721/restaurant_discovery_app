@@ -203,6 +203,10 @@ needed for deterministic comparison.
   modal used 3001, so the active modal was hidden behind the detail page. The
   refactor's modal z-index 6001 is a functional bug fix and must not be reverted
   for screenshot parity.
+- The stylesheet is declared directly in `index.html` instead of being injected
+  by the JavaScript entry module, preventing an unstyled first paint in Vite dev
+  mode. `just serve` now serves the built production output; `just dev` remains
+  the explicit HMR workflow.
 
 ## Current Line Distribution
 

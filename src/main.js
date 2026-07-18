@@ -1,5 +1,4 @@
-﻿import "./styles/main.css";
-import { locationData } from "./data/locations.js";
+﻿import { locationData } from "./data/locations.js";
 import { restaurantData } from "./data/restaurant-index.js";
 import { createFeedbackController } from "./feedback/feedback-controller.js";
 import { createLeafletMapController } from "./map/leaflet-map.js";
