@@ -183,6 +183,27 @@ Phase 10 acceptance criteria:
 - Unit tests, root-base and GitHub Pages-base production builds, desktop/mobile
   smoke tests, browser history, and shared shortlist URL restoration pass.
 
+### Worktree Visual Parity Audit
+
+A detached worktree at the `main` revision was served beside the production
+build from `refactor`. Playwright captured the same content, viewport, state,
+and interactions for 20 desktop/mobile screens, with map tiles masked where
+needed for deterministic comparison.
+
+- 19 screens have byte-identical PNG screenshots and identical DOM/layout
+  snapshots, including home, autocomplete, results, filters, extra results,
+  detail, map size, marker popup, shortlist, comparison, contribution, and site
+  feedback states.
+- The audit found one unintended cascade difference: Vite loads application CSS
+  after Leaflet, while the original page loaded Leaflet last. Popup spacing,
+  line height, shadow, and tip styles now explicitly preserve the effective
+  Leaflet 1.9.4 values from `main`, independent of stylesheet order.
+- One intentional difference remains: the restaurant-report modal is visible
+  above the detail view. In `main`, the detail view uses z-index 5000 while the
+  modal used 3001, so the active modal was hidden behind the detail page. The
+  refactor's modal z-index 6001 is a functional bug fix and must not be reverted
+  for screenshot parity.
+
 ## Current Line Distribution
 
 Generated data is excluded from runtime source comparisons. The generated
