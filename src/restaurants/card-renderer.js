@@ -25,7 +25,7 @@ export function createRestaurantCardRenderer({
     showDetail,
     toggleFavorite,
 }) {
-    function renderCard(res, container, overrideLevel) {
+    function renderCard(res, container) {
         if (res.ai_summary && !res._ai_summary_patched) {
             res.ai_summary = patchAiSummary(res, res.ai_summary, { maxSentences: 4, maxChars: 360 });
             res._ai_summary_patched = true;
@@ -193,4 +193,3 @@ export function createRestaurantCardRenderer({
 
     return { renderCard };
 }
-

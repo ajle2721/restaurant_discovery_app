@@ -8,7 +8,6 @@ import {
     attributeIcons,
     attributeLabels,
     filterMap,
-    isPositiveAttributeValue,
     levelLabels,
 } from "./restaurants/attributes.js";
 import {
@@ -25,7 +24,7 @@ import {
     hasCuisineFilters as hasSelectedCuisineFilters,
     matchesCuisineFilter as matchesRestaurantCuisineFilter,
 } from "./search/cuisine-filter.js";
-import { calculateDistance, formatDistance } from "./search/distance.js";
+import { calculateDistance } from "./search/distance.js";
 import {
     matchesPriceFilter as matchesRestaurantPriceFilter,
 } from "./search/price-filter.js";
@@ -44,7 +43,6 @@ const {
     handleFeedbackSubmit,
     handleHomeFeedbackLinkClick,
     handleSiteFeedbackSubmit,
-    openContributionModal,
     openFeedbackModal,
     openSiteFeedbackModal,
     submitAiFeedback,
@@ -330,7 +328,6 @@ function getPFSummaryTags(res, overrideLevel, simpleFormat = false) {
 }
 
 // DOM Elements
-const restaurantList = document.getElementById('restaurant-list');
 const homeView = document.getElementById('home-view');
 const detailView = document.getElementById('detail-view');
 const detailContent = document.getElementById('detail-content');
@@ -347,10 +344,7 @@ const clearSearchBtn = document.getElementById('clear-search');
 const searchResultsView = document.getElementById('search-results-view');
 const currentSearchLocText = document.getElementById('current-search-location');
 const resetSearchBtn = document.getElementById('reset-search');
-const recommendedList = document.getElementById('recommended-list');
-const othersList = document.getElementById('others-list');
 const toggleOthersBtn = document.getElementById('toggle-others');
-const fallbackHint = document.getElementById('fallback-hint');
 const noResultsState = document.getElementById('no-results');
 
 const {
@@ -956,8 +950,8 @@ function setupEventListeners() {
             homeView.classList.add('header-collapsed');
             window.scrollTo({ top: 0, behavior: 'smooth' });
             setTimeout(() => {
-                if (window.map) {
-                    window.map.invalidateSize();
+                if (state.map) {
+                    state.map.invalidateSize();
                 }
             }, 300);
         });
@@ -1771,7 +1765,7 @@ async function renderResults() {
 
         // Render recommended cards up to the recommendedLimit
         const visibleRecommended = recommended.slice(0, state.recommendedLimit);
-        visibleRecommended.forEach(res => renderCard(res, recommendedList, res.dynamicLevel));
+        visibleRecommended.forEach(res => renderCard(res, recommendedList));
 
         // If there are more recommended items, render the Load More button
         if (recommended.length > state.recommendedLimit) {
@@ -1792,7 +1786,7 @@ async function renderResults() {
         // Lazy Rendering of others list based on state.showOthers
         if (state.showOthers) {
             const visibleOthers = others.slice(0, state.othersLimit);
-            visibleOthers.forEach(res => renderCard(res, othersList, res.dynamicLevel));
+            visibleOthers.forEach(res => renderCard(res, othersList));
 
             // If there are more others items, render the Load More button
             if (others.length > state.othersLimit) {
@@ -1970,9 +1964,6 @@ function focusOnMap(e, placeId) {
         safeScrollIntoView(resultsView);
     }
 }
-
-window.focusRestaurantOnMap = focusOnMap; // For backward compatibility if any
-
 
 function showDetail(restaurant) {
     if (!restaurant) return;

@@ -432,15 +432,9 @@ export function createLeafletMapController({
         }
     };
     
-    window.showDetailById = (id) => {
-        const res = state.currentResults.find(r => r.place_id === id) || restaurantData.find(r => r.place_id === id);
-        if (res) showDetail(res);
-    };
-
     return {
         initMap,
         refreshMapMarkers,
         renderMap,
     };
 }
-

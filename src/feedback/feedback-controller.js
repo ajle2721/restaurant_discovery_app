@@ -476,7 +476,6 @@ export function createFeedbackController({ getLocationContext, showToast }) {
         handleFeedbackSubmit,
         handleHomeFeedbackLinkClick,
         handleSiteFeedbackSubmit,
-        openContributionModal,
         openFeedbackModal,
         openSiteFeedbackModal,
         submitAiFeedback,
