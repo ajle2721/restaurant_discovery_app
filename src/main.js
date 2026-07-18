@@ -4,11 +4,7 @@ import { restaurantData } from "./data/restaurant-index.js";
 import { createFeedbackController } from "./feedback/feedback-controller.js";
 import { createLeafletMapController } from "./map/leaflet-map.js";
 import { trackEvent } from "./analytics/events.js";
-import {
-    attributeIcons,
-    attributeLabels,
-    levelLabels,
-} from "./restaurants/attributes.js";
+import { levelLabels } from "./restaurants/attributes.js";
 import {
     fixSimplifiedAddress,
 } from "./restaurants/presentation.js";
@@ -18,22 +14,15 @@ import { getPFSummaryTags as formatPFSummaryTags } from "./restaurants/summary-t
 import { setupPwaInstallPrompt } from "./pwa/install-prompt.js";
 import { createAutocompleteController } from "./search/autocomplete-controller.js";
 import {
-    getCuisineFilterLabel,
     getCuisineFilterSummary as formatCuisineFilterSummary,
-    getSearchableText,
     hasCuisineFilters as hasSelectedCuisineFilters,
-    matchesCuisineFilter as matchesRestaurantCuisineFilter,
 } from "./search/cuisine-filter.js";
-import { calculateDistance } from "./search/distance.js";
-import {
-    matchesPriceFilter as matchesRestaurantPriceFilter,
-} from "./search/price-filter.js";
 import {
     getDynamicStatus,
     getParentFriendlyBaseScore,
-    isFullAttributeFilterMatch,
 } from "./search/scoring.js";
 import { createSearchEvents } from "./search/search-events.js";
+import { createResultsController } from "./search/results-controller.js";
 import { createShortlistController } from "./shortlist/shortlist-controller.js";
 import { state } from "./state/app-state.js";
 import { safeSession } from "./state/storage.js";
@@ -202,7 +191,6 @@ const searchResultsView = document.getElementById('search-results-view');
 const currentSearchLocText = document.getElementById('current-search-location');
 const resetSearchBtn = document.getElementById('reset-search');
 const toggleOthersBtn = document.getElementById('toggle-others');
-const noResultsState = document.getElementById('no-results');
 
 const {
     executeSearch,
@@ -240,6 +228,17 @@ const { renderCard } = createRestaurantCardRenderer({
     recordRestaurantDetailView,
     showDetail,
     toggleFavorite,
+});
+
+const {
+    getResultMatchCount,
+    renderResults,
+} = createResultsController({
+    renderCard,
+    renderMap,
+    selectLocation,
+    showToast,
+    updateShowResultsButton,
 });
 
 const { setupSearchEvents } = createSearchEvents({
@@ -281,16 +280,8 @@ function hasCuisineFilters() {
     return hasSelectedCuisineFilters(state.cuisineFilter);
 }
 
-function matchesCuisineFilter(res) {
-    return matchesRestaurantCuisineFilter(res, state.cuisineFilter);
-}
-
 function hasPriceFilters() {
     return state.priceFilter && state.priceFilter.size > 0;
-}
-
-function matchesPriceFilter(res) {
-    return matchesRestaurantPriceFilter(res, state.priceFilter);
 }
 
 function getCuisineFilterSummary() {
@@ -344,94 +335,8 @@ function updateShowResultsButton(matchCount = 0) {
     }
 }
 
-function getShowResultsPreviewCount() {
-    if (!state.searchLocation) return 0;
-    const hasActiveFilters = (state.filters && state.filters.size > 0) || hasCuisineFilters() || hasPriceFilters();
-    if (!hasActiveFilters) return 0;
-    if (typeof restaurantData === 'undefined' || !restaurantData) return 0;
-
-    const center = state.searchLocation;
-    let filtered;
-    if (center.type === '多行政區') {
-        filtered = restaurantData.filter(res => 
-            res.district && center.districts.includes(res.district)
-        );
-    } else if (center.type === '行政區') {
-        filtered = restaurantData.filter(res => 
-            res.district === center.name
-        );
-    } else if (center.type === '多地點') {
-        filtered = restaurantData.filter(res => {
-            let matched = false;
-            let minDistance = Infinity;
-            center.locations.forEach(loc => {
-                if (loc.type === '行政區') {
-                    if (res.district === loc.name) {
-                        matched = true;
-                        const distToLoc = calculateDistance(loc.lat, loc.lng, res.latitude, res.longitude);
-                        if (distToLoc < minDistance) {
-                            minDistance = distToLoc;
-                        }
-                    }
-                } else {
-                    const distToLoc = calculateDistance(loc.lat, loc.lng, res.latitude, res.longitude);
-                    let maxRadius = (loc.type === '全市') ? 99999 : ((loc.type === '行政區') ? 2.5 : 1.5);
-                    if (state.expandedRadius) {
-                        maxRadius = (loc.type === '全市') ? 99999 : ((loc.type === '行政區') ? 5.0 : 3.0);
-                    }
-                    if (distToLoc <= maxRadius) {
-                        matched = true;
-                        if (distToLoc < minDistance) {
-                            minDistance = distToLoc;
-                        }
-                    }
-                }
-            });
-            return matched;
-        });
-    } else if (center.type === '捷運站周邊') {
-        const mrtStations = state.locationData.filter(l => l.type === '捷運站' || l.name.endsWith('站'));
-        filtered = restaurantData.filter(res => {
-            let minMrtDist = Infinity;
-            mrtStations.forEach(mrt => {
-                const dist = calculateDistance(mrt.lat, mrt.lng, res.latitude, res.longitude);
-                if (dist < minMrtDist) {
-                    minMrtDist = dist;
-                }
-            });
-            return minMrtDist <= 0.8; // 800m
-        });
-    } else if (center.keyword) {
-        const q = center.keyword.toLowerCase();
-        filtered = restaurantData.filter(res =>
-            (res.name && res.name.toLowerCase().includes(q)) ||
-            (res.address && res.address.toLowerCase().includes(q)) ||
-            (res.cuisine && res.cuisine.toLowerCase().includes(q)) ||
-            (getSearchableText(res.cuisine_group).toLowerCase().includes(q)) ||
-            (res.district && res.district.toLowerCase().includes(q))
-        );
-    } else {
-        const maxRadius = (center.type === '全市' || center.name === '整個台北市')
-            ? 99999
-            : (state.expandedRadius ? 3.0 : 1.5);
-
-        filtered = restaurantData.filter(res => {
-            const distance = calculateDistance(center.lat, center.lng, res.latitude, res.longitude);
-            return distance <= maxRadius;
-        });
-    }
-
-    filtered = filtered.filter(matchesCuisineFilter).filter(matchesPriceFilter);
-
-    if (!state.filters || state.filters.size === 0) {
-        return filtered.length;
-    }
-
-    return filtered.filter(res => isFullAttributeFilterMatch(res, state.filters)).length;
-}
-
 function refreshShowResultsButton() {
-    updateShowResultsButton(getShowResultsPreviewCount());
+    updateShowResultsButton(getResultMatchCount());
 }
 
 // Initialization
@@ -676,394 +581,6 @@ function selectLocation(loc, source = 'other', pushState = true) {
     }
     updateQuickLinksUI();
 }
-
-async function renderResults() {
-    try {
-        const recommendedList = document.getElementById('recommended-list');
-        const othersList = document.getElementById('others-list');
-        const toggleOthersBtn = document.getElementById('toggle-others');
-        const fallbackHint = document.getElementById('fallback-hint');
-        const noResultsState = document.getElementById('no-results');
-
-        recommendedList.innerHTML = '';
-        othersList.innerHTML = '';
-        fallbackHint.classList.add('hidden');
-        noResultsState.classList.add('hidden');
-
-        // Update dynamic active filter indicators in sticky search-status-bar
-        const activeFiltersBar = document.getElementById('active-filters-bar');
-        if (activeFiltersBar) {
-            activeFiltersBar.innerHTML = '';
-            const hasFilters = state.filters && state.filters.size > 0;
-            const hasCuisine = hasCuisineFilters();
-            const hasPrice = hasPriceFilters();
-
-            if (hasFilters || hasCuisine || hasPrice) {
-                activeFiltersBar.classList.remove('hidden');
-
-                if (hasPrice) {
-                    const priceLabels = {
-                        'PRICE_LEVEL_INEXPENSIVE': '💰 平價',
-                        'PRICE_LEVEL_MODERATE': '💵 中價',
-                        'PRICE_LEVEL_EXPENSIVE': '💎 高價'
-                    };
-                    state.priceFilter.forEach(price => {
-                        const indicator = document.createElement('span');
-                        indicator.className = 'filter-indicator-mini filter-price-indicator';
-                        indicator.textContent = priceLabels[price] || price;
-                        activeFiltersBar.appendChild(indicator);
-                    });
-                }
-
-                if (hasCuisine) {
-                    const cuisineEmojis = {
-                        '台式/中式料理': '🥟',
-                        '日式料理': '🍣',
-                        '韓式料理': '🍲',
-                        '義式料理': '🍕',
-                        '西式料理': '🥩',
-                        '星馬料理': '🍛',
-                        '罕見異國料理': '🌮',
-                        '茶館與咖啡廳': '☕',
-                        '餐酒館': '🍷',
-                        '複合式料理': '🥗'
-                    };
-                    state.cuisineFilter.forEach(cuisine => {
-                        const indicator = document.createElement('span');
-                        indicator.className = 'filter-indicator-mini filter-cuisine-indicator';
-                        const emoji = cuisineEmojis[cuisine] || '🍽️';
-                        indicator.textContent = `${emoji} ${getCuisineFilterLabel(cuisine)}`;
-                        activeFiltersBar.appendChild(indicator);
-                    });
-                }
-
-                if (hasFilters) {
-                    state.filters.forEach(f => {
-                        const icon = attributeIcons[f] || '✨';
-                        const label = attributeLabels[f] || f;
-                        const indicator = document.createElement('span');
-                        indicator.className = 'filter-indicator-mini';
-                        indicator.textContent = `${icon} ${label}`;
-                        activeFiltersBar.appendChild(indicator);
-                    });
-                }
-            } else {
-                activeFiltersBar.classList.add('hidden');
-            }
-        }
-
-        // Update Level Labels for this session
-        levelLabels['Needs Attention'] = '不符合條件';
-        levelLabels['High'] = (state.filters && state.filters.size > 0) ? '很適合你' : '值得推薦';
-        levelLabels['Medium'] = '可以考慮';
-        levelLabels['Insufficient Info'] = '資訊不足';
-
-        const center = state.searchLocation;
-        if (!center) {
-            updateShowResultsButton(0);
-            return;
-        }
-
-        if (typeof restaurantData === 'undefined' || !restaurantData) {
-            console.error('restaurantData is missing');
-            return;
-        }
-
-        // 1. Calculate distances directly on references to avoid object copying
-        restaurantData.forEach(res => {
-            res.distance = calculateDistance(center.lat, center.lng, res.latitude, res.longitude);
-        });
-        let restaurants = restaurantData;
-
-        // 2. Filter by distance or keyword
-        let filtered;
-        if (center.type === '多行政區') {
-            filtered = restaurants.filter(res => 
-                res.district && center.districts.includes(res.district)
-            );
-        } else if (center.type === '行政區') {
-            filtered = restaurants.filter(res => 
-                res.district === center.name
-            );
-        } else if (center.type === '多地點') {
-            filtered = restaurants.filter(res => {
-                let matched = false;
-                let minDistance = Infinity;
-                center.locations.forEach(loc => {
-                    if (loc.type === '行政區') {
-                        if (res.district === loc.name) {
-                            matched = true;
-                            const distToLoc = calculateDistance(loc.lat, loc.lng, res.latitude, res.longitude);
-                            if (distToLoc < minDistance) {
-                                minDistance = distToLoc;
-                            }
-                        }
-                    } else {
-                        const distToLoc = calculateDistance(loc.lat, loc.lng, res.latitude, res.longitude);
-                        let maxRadius = (loc.type === '全市') ? 99999 : ((loc.type === '行政區') ? 2.5 : 1.5);
-                        if (state.expandedRadius) {
-                            maxRadius = (loc.type === '全市') ? 99999 : ((loc.type === '行政區') ? 5.0 : 3.0);
-                        }
-                        if (distToLoc <= maxRadius) {
-                            matched = true;
-                            if (distToLoc < minDistance) {
-                                minDistance = distToLoc;
-                            }
-                        }
-                    }
-                });
-                if (matched) {
-                    res.distance = minDistance;
-                    return true;
-                }
-                return false;
-            });
-        } else if (center.type === '捷運站周邊') {
-            // Find all MRT stations in locationData
-            const mrtStations = state.locationData.filter(l => l.type === '捷運站' || l.name.endsWith('站'));
-            filtered = restaurants.filter(res => {
-                let minMrtDist = Infinity;
-                mrtStations.forEach(mrt => {
-                    const dist = calculateDistance(mrt.lat, mrt.lng, res.latitude, res.longitude);
-                    if (dist < minMrtDist) {
-                        minMrtDist = dist;
-                    }
-                });
-                res.distance = minMrtDist;
-                return minMrtDist <= 0.8; // 800m
-            });
-        } else if (center.keyword) {
-            const q = center.keyword.toLowerCase();
-            filtered = restaurants.filter(res => 
-                (res.name && res.name.toLowerCase().includes(q)) ||
-                (res.address && res.address.toLowerCase().includes(q)) ||
-                (res.cuisine && res.cuisine.toLowerCase().includes(q)) ||
-                (getSearchableText(res.cuisine_group).toLowerCase().includes(q)) ||
-                (res.district && res.district.toLowerCase().includes(q))
-            );
-        } else {
-            let maxRadius = (center.type === '全市' || center.name === '整個台北市') ? 99999 : 1.5;
-            if (state.expandedRadius) {
-                maxRadius = (center.type === '全市' || center.name === '整個台北市') ? 99999 : 3.0;
-            }
-            filtered = restaurants.filter(res => res.distance <= maxRadius);
-        }
-
-        // Apply cuisine filter if active
-        filtered = filtered.filter(matchesCuisineFilter).filter(matchesPriceFilter);
-
-        if (filtered.length === 0) {
-            updateShowResultsButton(0);
-            handleNoResults(center);
-            return;
-        }
-
-        const resultsContainer = document.getElementById('search-results-view');
-        resultsContainer.classList.remove('hidden');
-        homeView.classList.add('search-active');
-
-        // Apply new dynamic status to each restaurant for sorting/rendering directly on references
-        filtered.forEach(res => {
-            const status = getDynamicStatus(res, state.filters);
-            res.dynamicLevel = status.level;
-            res.dynamicStatus = status;
-        });
-        const processed = filtered;
-
-        // Priority for sorting
-        const priority = {
-            'High': 5,
-            'Medium': 4,
-            'Low Match': 3,
-            'Insufficient Info': 2,
-            'Needs Attention': 1
-        };
-
-        const sorted = processed.sort((a, b) => {
-            const pA = priority[a.dynamicLevel] || 0;
-            const pB = priority[b.dynamicLevel] || 0;
-            if (pA !== pB) return pB - pA;
-
-            // Within the same dynamicLevel, sort by matchCount descending
-            const mA = a.dynamicStatus.matchCount || 0;
-            const mB = b.dynamicStatus.matchCount || 0;
-            if (mA !== mB) return mB - mA;
-
-            return (a.distance || 0) - (b.distance || 0); // Tertiarily sort by distance (nearest first)
-        });
-
-        // 4. Split and Render
-        const exactMatches = sorted.filter(r => r.dynamicLevel === 'High' || r.dynamicLevel === 'Medium');
-        
-        let recommended, others;
-        if (exactMatches.length > 0) {
-            recommended = exactMatches;
-            others = sorted.filter(r => r.dynamicLevel === 'Low Match' || r.dynamicLevel === 'Insufficient Info' || r.dynamicLevel === 'Needs Attention');
-        } else {
-            recommended = sorted.filter(r => r.dynamicLevel === 'Low Match');
-            others = sorted.filter(r => r.dynamicLevel === 'Insufficient Info' || r.dynamicLevel === 'Needs Attention');
-        }
-
-        state.currentResults = sorted; 
-
-        const fullMatchCount = (state.filters && state.filters.size > 0)
-            ? sorted.filter(res => isFullAttributeFilterMatch(res, state.filters)).length
-            : filtered.length;
-        updateShowResultsButton(fullMatchCount);
-
-        // Render recommended cards up to the recommendedLimit
-        const visibleRecommended = recommended.slice(0, state.recommendedLimit);
-        visibleRecommended.forEach(res => renderCard(res, recommendedList));
-
-        // If there are more recommended items, render the Load More button
-        if (recommended.length > state.recommendedLimit) {
-            const loadMoreBtn = document.createElement('button');
-            loadMoreBtn.className = 'btn-load-more';
-            loadMoreBtn.textContent = '\u8f09\u5165\u66f4\u591a\u63a8\u85a6';
-            loadMoreBtn.addEventListener('click', () => {
-                trackEvent('click_load_more_recommended', {
-                    current_limit: state.recommendedLimit,
-                    total_count: recommended.length
-                });
-                state.recommendedLimit += 30;
-                renderResults();
-            });
-            recommendedList.appendChild(loadMoreBtn);
-        }
-
-        // Lazy Rendering of others list based on state.showOthers
-        if (state.showOthers) {
-            const visibleOthers = others.slice(0, state.othersLimit);
-            visibleOthers.forEach(res => renderCard(res, othersList));
-
-            // If there are more others items, render the Load More button
-            if (others.length > state.othersLimit) {
-                const loadMoreBtn = document.createElement('button');
-                loadMoreBtn.className = 'btn-load-more';
-                loadMoreBtn.textContent = '\u8f09\u5165\u66f4\u591a\u9078\u9805';
-                loadMoreBtn.addEventListener('click', () => {
-                    trackEvent('click_load_more_others', {
-                        current_limit: state.othersLimit,
-                        total_count: others.length
-                    });
-                    state.othersLimit += 30;
-                    renderResults();
-                });
-                othersList.appendChild(loadMoreBtn);
-            }
-        }
-
-        // Check if fully matching restaurants are 3 or fewer when filters are active
-        const activeFiltersCount = (state.filters && state.filters.size > 0) ? state.filters.size : 0;
-        fallbackHint.innerHTML = '';
-        fallbackHint.classList.add('hidden');
-
-        if (activeFiltersCount > 0) {
-            const fullyMatchingCount = sorted.filter(r => r.dynamicLevel === 'High').length;
-            if (fullyMatchingCount <= 3) {
-                let msg = '';
-                if (fullyMatchingCount === 0) {
-                    msg = '找不到完全符合篩選條件的餐廳。';
-                } else {
-                    msg = `此區域附近完全符合條件的選擇較少（僅 ${fullyMatchingCount} 間）。`;
-                }
-
-                // Check what else is available
-                const mediumCount = sorted.filter(r => r.dynamicLevel === 'Medium').length;
-                const hasOthers = sorted.some(r => r.dynamicLevel === 'Low Match' || r.dynamicLevel === 'Insufficient Info');
-                
-                let recommendation = '';
-                if (mediumCount > 0 && hasOthers) {
-                    recommendation = '您可以考慮減少篩選條件，或參考下方「可以考慮」與「其他友善選擇」的餐廳。';
-                } else if (mediumCount > 0) {
-                    recommendation = '您可以考慮減少篩選條件，或參考下方「可以考慮（符合部分條件）」的餐廳。';
-                } else if (hasOthers) {
-                    recommendation = '您可以考慮減少篩選條件，或參考下方「其他友善選擇」的餐廳。';
-                } else {
-                    recommendation = '您可以考慮減少篩選條件以獲得更多推薦。';
-                }
-
-                const isWholeCity = (center.type === '全市' || center.name === '整個台北市' || center.type === '多行政區' || center.type === '行政區');
-                let expandHtml = '';
-                if (!isWholeCity) {
-                    if (!state.expandedRadius) {
-                        expandHtml = `或者，您可以嘗試 <a href="#" id="btn-expand-search" style="color: #2563eb; text-decoration: underline; cursor: pointer; font-weight: 700; margin-left: 2px;">擴大搜尋範圍</a>。`;
-                    } else {
-                        expandHtml = `（已擴大搜尋範圍）`;
-                    }
-                }
-
-                fallbackHint.innerHTML = `${msg}${recommendation}${expandHtml}`;
-                fallbackHint.classList.remove('hidden');
-
-                const btnExpand = document.getElementById('btn-expand-search');
-                if (btnExpand) {
-                    btnExpand.onclick = (e) => {
-                        e.preventDefault();
-                        state.expandedRadius = true;
-                        state.recommendedLimit = 30; // Reset pagination limit
-                        state.othersLimit = 30; // Reset pagination limit
-                        renderResults();
-                    };
-                }
-            }
-        } else if (state.filters && state.filters.size > 0 && exactMatches.length === 0) {
-            if (recommended.length > 0) {
-                fallbackHint.innerHTML = '找不到符合勾選條件的餐廳，請參考以下其他友善選擇：';
-            } else {
-                fallbackHint.innerHTML = '找不到符合勾選條件的餐廳，請調整條件，或參考下方「查看更多」選項。';
-            }
-            fallbackHint.classList.remove('hidden');
-        }
-        
-        // Update Toggle UI
-        othersList.classList.toggle('hidden', !state.showOthers);
-        toggleOthersBtn.classList.toggle('active', state.showOthers);
-        toggleOthersBtn.querySelector('span').textContent = state.showOthers ? '收合額外選項' : '查看更多 (含資訊不足或不符合條件)';
-        document.getElementById('others-section').classList.toggle('hidden', others.length === 0);
-
-        const mapData = state.showOthers ? sorted : recommended;
-        renderMap(mapData); 
-
-        // Update Clear Filters button visibility
-        const clearAllFiltersBtn = document.getElementById('clear-all-filters');
-        if (clearAllFiltersBtn) {
-            clearAllFiltersBtn.classList.toggle('hidden', state.filters.size === 0 && state.priceFilter.size === 0);
-        }
-
-        const hideMarkersToggle = document.getElementById('hide-others-markers');
-        if (hideMarkersToggle) {
-            hideMarkersToggle.checked = state.hideLowQualityMarkers;
-        }
-    } catch (err) {
-        console.error('Error rendering results:', err);
-        showToast('載入結果時發生錯誤');
-    }
-}
-
-function handleNoResults(center) {
-    noResultsState.classList.remove('hidden');
-    document.getElementById('no-results-title').textContent = `找不到「${center.name}」附近的親子友善餐廳`;
-    
-    // Find suggestions: closest districts or landmarks
-    const suggestions = state.locationData
-        .filter(l => l.name !== center.name)
-        .sort((a, b) => calculateDistance(center.lat, center.lng, a.lat, a.lng) - calculateDistance(center.lat, center.lng, b.lat, b.lng))
-        .slice(0, 3);
-
-    const suggestionContainer = document.getElementById('no-results-suggestions');
-    suggestionContainer.innerHTML = suggestions.map(s => `
-        <button class="suggestion-chip" onclick="selectLocationByName('${s.name}')">${s.name}</button>
-    `).join('');
-    
-    renderMap([]);
-}
-
-window.selectLocationByName = (name) => {
-    const loc = state.locationData.find(l => l.name === name);
-    if (loc) selectLocation(loc);
-};
-
 
 function focusOnMap(e, placeId) {
     e.stopPropagation();
