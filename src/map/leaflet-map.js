@@ -22,7 +22,13 @@ export function createLeafletMapController({
             attribution: '&copy; CARTO'
         }).addTo(state.map);
         L.control.zoom({ position: 'bottomright' }).addTo(state.map);
-    
+        state.map.on('popupopen', () => {
+            state.popupOpen = true;
+        });
+        state.map.on('popupclose', () => {
+            state.popupOpen = false;
+        });
+
         // GA4: map_interaction (Deferred to avoid initialization issues)
         setTimeout(() => {
             if (!state.map) return;
@@ -32,22 +38,22 @@ export function createLeafletMapController({
                     location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
                 });
             }, 2000);
-    
+
             state.map.on('dragend', () => trackMapInteraction('drag'));
             state.map.on('zoomend', () => trackMapInteraction('zoom'));
         }, 1000);
     }
-    
+
     function renderMap(restaurants) {
         if (!state.map) return;
-        
+
         // Store restaurants for progressive zoom-based rendering
         state.mapRestaurants = restaurants;
-        
+
         let minLat = Infinity, maxLat = -Infinity;
         let minLng = Infinity, maxLng = -Infinity;
         let hasPoints = false;
-        
+
         const isWholeCity = state.searchLocation && (state.searchLocation.type === '全市' || state.searchLocation.name === '整個台北市' || state.searchLocation.type === '捷運站周邊' || state.searchLocation.type === '多行政區' || state.searchLocation.type === '多地點');
         if (state.searchLocation && !isWholeCity) {
             const lat = state.searchLocation.lat;
@@ -60,16 +66,16 @@ export function createLeafletMapController({
                 hasPoints = true;
             }
         }
-        
+
         restaurants.forEach(res => {
             if (typeof res.latitude === 'number' && typeof res.longitude === 'number' && !isNaN(res.latitude) && !isNaN(res.longitude)) {
                 const status = getDynamicStatus(res, state.filters);
                 const level = status.level;
                 const isLowQuality = (level === 'Insufficient Info' || level === 'Needs Attention');
-    
+
                 // Skip if user wants to hide low quality markers
                 if (state.hideLowQualityMarkers && isLowQuality) return;
-    
+
                 minLat = Math.min(minLat, res.latitude);
                 maxLat = Math.max(maxLat, res.latitude);
                 minLng = Math.min(minLng, res.longitude);
@@ -77,7 +83,7 @@ export function createLeafletMapController({
                 hasPoints = true;
             }
         });
-    
+
         if (hasPoints && minLat !== Infinity) {
             const mapSize = state.map.getSize();
             if (mapSize.x > 0 && mapSize.y > 0) {
@@ -105,10 +111,10 @@ export function createLeafletMapController({
         } else if (state.searchLocation) {
             state.map.setView([state.searchLocation.lat, state.searchLocation.lng], 15);
         }
-    
+
         // Perform initial marker rendering based on new view/zoom
         refreshMapMarkers();
-    
+
         // Setup moveend listener once to handle pans and zooms
         if (!state.mapMoveEndListenerSetup) {
             state.map.on('moveend', () => {
@@ -120,10 +126,10 @@ export function createLeafletMapController({
             state.mapMoveEndListenerSetup = true;
         }
     }
-    
+
     function refreshMapMarkers() {
         if (!state.map || !state.mapRestaurants) return;
-    
+
         // Clear existing markers
         state.markers.forEach(m => {
             try {
@@ -134,7 +140,7 @@ export function createLeafletMapController({
         });
         state.markers = [];
         state.markerMap = {};
-    
+
         const colorMap = {
             'High': '#059669', '高': '#059669',
             'Medium': '#84cc16', '中': '#84cc16',
@@ -143,23 +149,23 @@ export function createLeafletMapController({
             'Low Match': '#0284c7'
         };
         const isWholeCity = state.searchLocation && (state.searchLocation.type === '全市' || state.searchLocation.name === '整個台北市' || state.searchLocation.type === '捷運站周邊' || state.searchLocation.type === '多行政區' || state.searchLocation.type === '多地點');
-        
+
         let zoom = 13;
         try {
             zoom = state.map.getZoom();
         } catch (e) {
             console.warn('Failed to get map zoom:', e);
         }
-    
+
         let mapBounds = null;
         try {
             mapBounds = state.map.getBounds();
         } catch (e) {
             console.warn('Failed to get map bounds:', e);
         }
-    
+
         const totalCount = state.mapRestaurants.length;
-    
+
         // 1. Render Search Center Pin
         if (state.searchLocation && !isWholeCity) {
             const centerIcon = L.divIcon({
@@ -174,19 +180,19 @@ export function createLeafletMapController({
                 iconAnchor: [18, 33],
                 popupAnchor: [0, -33]
             });
-    
+
             const centerMarker = L.marker([state.searchLocation.lat, state.searchLocation.lng], {
                 icon: centerIcon,
                 interactive: true
             }).addTo(state.map);
-            
+
             const isCurrent = state.searchLocation.type === '目前位置' || state.searchLocation.name === '我附近';
             let popupTitle = isCurrent ? '您的目前位置' : '您搜尋的位置';
             let popupWarning = '';
             if (state.searchLocation.isFallback) {
                 popupWarning = `<div style="font-size: 0.72rem; color: var(--text-muted); margin-top: 4px; border-top: 1px dashed #e2e8f0; padding-top: 4px; line-height: 1.3;">📍 地圖圖資未收錄此門牌，已定位至鄰近路段「${state.searchLocation.fallbackName}」</div>`;
             }
-    
+
             const popupContent = `
                 <div class="map-popup-compact" style="text-align: center; padding: 4px; min-width: 160px;">
                     <div style="font-size: 1.25rem; margin-bottom: 4px;">${isCurrent ? '📍' : '🔍'}</div>
@@ -202,7 +208,7 @@ export function createLeafletMapController({
             centerMarker.bindPopup(popupContent);
             state.markers.push(centerMarker);
         }
-    
+
         // Render searched locations if "多地點" is active
         if (state.searchLocation && state.searchLocation.type === '多地點') {
             state.searchLocation.locations.forEach(loc => {
@@ -251,7 +257,7 @@ export function createLeafletMapController({
                 }
             });
         }
-    
+
         // Render MRT Station Markers if "捷運站周邊" is active
         if (state.searchLocation && state.searchLocation.type === '捷運站周邊') {
             const mrtStations = state.locationData.filter(l => l.type === '捷運站' || l.name.endsWith('站'));
@@ -283,9 +289,9 @@ export function createLeafletMapController({
                 state.markers.push(mrtMarker);
             });
         }
-    
+
         const usedCoords = new Map();
-    
+
         const prominenceRanks = new Map();
         if (totalCount > 60) {
             // Sort markers by parent-friendly relevance.
@@ -296,7 +302,7 @@ export function createLeafletMapController({
                 prominenceRanks.set(res.place_id, index);
             });
         }
-    
+
         // Pre-calculate top 60 viewport-contained markers at zoom >= 14 to prevent OOM / CPU crash
         let allowedPlaceIds = null;
         if (totalCount > 60 && zoom >= 14 && mapBounds && typeof mapBounds.contains === 'function') {
@@ -308,7 +314,7 @@ export function createLeafletMapController({
                 if (state.hideLowQualityMarkers && isLowQuality) return false;
                 return mapBounds.contains([res.latitude, res.longitude]);
             });
-            
+
             if (inViewport.length > 60) {
                 inViewport.sort((a, b) => {
                     const rankA = prominenceRanks.has(a.place_id) ? prominenceRanks.get(a.place_id) : Infinity;
@@ -318,18 +324,18 @@ export function createLeafletMapController({
                 allowedPlaceIds = new Set(inViewport.slice(0, 60).map(r => r.place_id));
             }
         }
-    
+
         // 2. Filter mapRestaurants by zoom level and viewport bounds if count is large (> 60)
         const filteredRestaurants = state.mapRestaurants.filter(res => {
             if (typeof res.latitude !== 'number' || typeof res.longitude !== 'number' || isNaN(res.latitude) || isNaN(res.longitude)) return false;
-    
+
             const status = getDynamicStatus(res, state.filters);
             const level = status.level;
             const isLowQuality = (level === 'Insufficient Info' || level === 'Needs Attention');
-    
+
             // Apply global hideLowQualityMarkers toggle
             if (state.hideLowQualityMarkers && isLowQuality) return false;
-    
+
             // Progressive filtering logic based on zoom levels (Google Maps style - prominence-based)
             if (totalCount > 60) {
                 const rank = prominenceRanks.has(res.place_id) ? prominenceRanks.get(res.place_id) : Infinity;
@@ -354,31 +360,31 @@ export function createLeafletMapController({
             }
             return true;
         });
-    
+
         // 3. Render filtered restaurant markers
         filteredRestaurants.forEach(res => {
             let markerLat = res.latitude;
             let markerLng = res.longitude;
-    
+
             // Jitter logic for overlapping pins
             const coordKey = `${res.latitude.toFixed(5)},${res.longitude.toFixed(5)}`;
             if (usedCoords.has(coordKey)) {
                 const count = usedCoords.get(coordKey);
                 usedCoords.set(coordKey, count + 1);
-                const angle = (count - 1) * (2 * Math.PI / 8); 
-                const radius = 0.0002; 
+                const angle = (count - 1) * (2 * Math.PI / 8);
+                const radius = 0.0002;
                 markerLat += Math.cos(angle) * radius;
                 markerLng += Math.sin(angle) * radius;
             } else {
                 usedCoords.set(coordKey, 1);
             }
-    
+
             const status = getDynamicStatus(res, state.filters);
             const level = status.level;
             const color = colorMap[level] || '#94a3b8';
             const isLowQuality = (level === 'Insufficient Info' || level === 'Needs Attention');
             const isHollow = isLowQuality;
-    
+
             const pinIcon = L.divIcon({
                 html: `<div class="custom-pin">
                          <div class="pin-teardrop ${isHollow ? 'hollow' : ''}" style="background-color: ${color}; color: ${color};"></div>
@@ -388,14 +394,14 @@ export function createLeafletMapController({
                 iconAnchor: [12, 30],
                 popupAnchor: [0, -30]
             });
-    
+
             try {
                 const marker = L.marker([markerLat, markerLng], {
                     icon: pinIcon
                 }).addTo(state.map);
-                
+
                 const times = (state.searchLocation && state.searchLocation.type !== '全市' && state.searchLocation.name !== '整個台北市' && state.searchLocation.type !== '多行政區' && res.distance) ? calculateTravelTimes(res.distance) : null;
-    
+
                 marker.bindPopup(`<div class="map-popup-compact">
                     <div class="map-popup-title-row">
                         <span class="map-popup-name">${formatRestaurantName(res.name)}</span>
@@ -406,11 +412,11 @@ export function createLeafletMapController({
                     </div>
                     <div class="map-popup-address">📍 ${fixSimplifiedAddress(res.address)}</div>
                     <button class="map-popup-action" onclick="showDetailFromMap('${res.place_id}')">查看詳情</button>
-                </div>`, { 
+                </div>`, {
                     maxWidth: 240,
                     autoPanPadding: L.point(20, 20)
                 });
-    
+
                 state.markers.push(marker);
                 state.markerMap[res.place_id] = marker;
             } catch (err) {
@@ -418,7 +424,7 @@ export function createLeafletMapController({
             }
         });
     }
-    
+
     window.showDetailFromMap = (id) => {
         // Priority: find in current dynamic results first to get personalized level
         const res = state.currentResults.find(r => r.place_id === id) || restaurantData.find(r => r.place_id === id);
@@ -431,10 +437,58 @@ export function createLeafletMapController({
             showDetail(res);
         }
     };
-    
+
+    function setupMapEvents() {
+        // Map size toggle (Enlarge Map)
+        const toggleMapSizeBtn = document.getElementById('btn-toggle-map-size');
+        const mapContainer = document.getElementById('map-container');
+        if (toggleMapSizeBtn && mapContainer) {
+            toggleMapSizeBtn.addEventListener('click', () => {
+                const isEnlarged = mapContainer.classList.toggle('enlarged');
+                const iconSpan = toggleMapSizeBtn.querySelector('.icon');
+                const textSpan = toggleMapSizeBtn.querySelector('.toggle-btn-text');
+
+                if (isEnlarged) {
+                    if (iconSpan) {
+                        iconSpan.innerHTML = `
+                            <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="display: block;">
+                                <path d="M4 14h6v6M20 10h-6V4M14 10l7-7M10 14l-7 7"/>
+                            </svg>
+                        `;
+                    }
+                    if (textSpan) textSpan.textContent = '收合地圖';
+                    trackEvent('enlarge_map', { action: 'enlarge' });
+                } else {
+                    if (iconSpan) {
+                        iconSpan.innerHTML = `
+                            <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="display: block;">
+                                <path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/>
+                            </svg>
+                        `;
+                    }
+                    if (textSpan) textSpan.textContent = '放大地圖';
+                    trackEvent('enlarge_map', { action: 'collapse' });
+                }
+
+                // Redraw Leaflet map size dynamically during the height transition
+                let count = 0;
+                const interval = setInterval(() => {
+                    if (state.map) {
+                        state.map.invalidateSize();
+                    }
+                    count++;
+                    if (count >= 20) { // 20 iterations * 20ms = 400ms transition duration
+                        clearInterval(interval);
+                    }
+                }, 20);
+            });
+        }
+    }
+
     return {
         initMap,
         refreshMapMarkers,
         renderMap,
+        setupMapEvents,
     };
 }

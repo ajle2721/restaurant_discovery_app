@@ -7,7 +7,6 @@ import { trackEvent } from "./analytics/events.js";
 import {
     attributeIcons,
     attributeLabels,
-    filterMap,
     levelLabels,
 } from "./restaurants/attributes.js";
 import {
@@ -33,6 +32,7 @@ import {
     getParentFriendlyBaseScore,
     isFullAttributeFilterMatch,
 } from "./search/scoring.js";
+import { createSearchEvents } from "./search/search-events.js";
 import { createShortlistController } from "./shortlist/shortlist-controller.js";
 import { state } from "./state/app-state.js";
 import { safeSession } from "./state/storage.js";
@@ -62,6 +62,7 @@ const {
     initMap,
     refreshMapMarkers,
     renderMap,
+    setupMapEvents,
 } = createLeafletMapController({
     getDynamicStatus,
     getParentFriendlyBaseScore,
@@ -383,6 +384,31 @@ const { renderCard } = createRestaurantCardRenderer({
     toggleFavorite,
 });
 
+const { setupSearchEvents } = createSearchEvents({
+    autocompleteDropdown,
+    btnNearby,
+    clearSearchBtn,
+    executeSearch,
+    floatShareBtn,
+    handleAutocomplete,
+    handleNearby,
+    homeView,
+    refreshShowResultsButton,
+    renderResults,
+    resetSearchBtn,
+    resetViewedRestaurantCount,
+    searchInput,
+    searchMagnifier,
+    searchResultsView,
+    selectLocation,
+    showPopularRecommendations,
+    toggleOthersBtn,
+    trackSearchLocation,
+    updateCuisineFilterUI,
+    updateQuickLinksUI,
+    updateUrl,
+});
+
 function isAreaSearchLocation(loc) {
     if (!loc) return false;
     if (loc.place_id || loc.type === '特定餐廳') return false;
@@ -586,25 +612,6 @@ function init() {
         updateShortlistUI();
         setupPwaInstallPrompt();
 
-        // Global listener for map popup buttons (View Details)
-        state.map.on('popupopen', (e) => {
-            // Prevent moveend from wiping markers (Leaflet auto-pans when opening a popup)
-            state.popupOpen = true;
-            const container = e.popup.getElement();
-            const btn = container.querySelector('.btn-show-detail-from-map');
-            if (btn) {
-                const res = e.popup.options.restaurantData;
-                if (res) {
-                    btn.addEventListener('click', () => {
-                        showDetail(res);
-                    });
-                }
-            }
-        });
-        state.map.on('popupclose', () => {
-            state.popupOpen = false;
-        });
-
         console.log('Map initialized');
         syncStateFromUrl(true);
         console.log('App initialized successfully');
@@ -615,354 +622,7 @@ function init() {
 }
 
 function setupEventListeners() {
-    // Search Input
-    searchInput.addEventListener('input', handleAutocomplete);
-    searchInput.addEventListener('focus', () => {
-        if (searchInput.value.trim().length > 0) {
-            autocompleteDropdown.classList.remove('hidden');
-        } else {
-            showPopularRecommendations();
-        }
-    });
-    searchInput.addEventListener('click', () => {
-        if (searchInput.value.trim().length === 0) {
-            showPopularRecommendations();
-        }
-    });
-    searchInput.addEventListener('keydown', (e) => {
-        if (e.key === 'Enter') {
-            executeSearch(searchInput.value.trim());
-        }
-    });
-
-    if (searchMagnifier) {
-        searchMagnifier.addEventListener('click', () => {
-            executeSearch(searchInput.value.trim());
-        });
-    }
-
-    // Close autocomplete on click outside
-    document.addEventListener('click', (e) => {
-        if (!searchInput.contains(e.target) && !autocompleteDropdown.contains(e.target)) {
-            autocompleteDropdown.classList.add('hidden');
-        }
-    });
-
-    // Clear Search
-    clearSearchBtn.addEventListener('click', () => {
-        searchInput.value = '';
-        clearSearchBtn.classList.add('hidden');
-        autocompleteDropdown.classList.add('hidden');
-        searchInput.focus();
-    });
-
-    // Nearby Button
-    if (btnNearby) {
-        btnNearby.addEventListener('click', () => {
-            trackSearchLocation('popular_button', '我附近');
-            handleNearby();
-        });
-    }
-
-    const btnNearbyProminent = document.getElementById('btn-nearby-prominent');
-    if (btnNearbyProminent) {
-        btnNearbyProminent.addEventListener('click', () => {
-            trackSearchLocation('popular_button', '我附近');
-            if (state.searchLocation && state.searchLocation.name === '我附近') {
-                resetSearchBtn.click();
-            } else {
-                handleNearby();
-            }
-        });
-    }
-
-    const btnTaipeiAll = document.getElementById('btn-taipei-all');
-    if (btnTaipeiAll) {
-        btnTaipeiAll.addEventListener('click', () => {
-            trackSearchLocation('popular_button', '台北市全區');
-            const taipeiAllLoc = {
-                name: '整個台北市',
-                type: '全市',
-                district: '全市',
-                lat: 25.037487, // Taipei Center
-                lng: 121.564766
-            };
-            if (state.searchLocation && (state.searchLocation.name === '整個台北市' || state.searchLocation.name === '台北市全區' || state.searchLocation.type === '全市')) {
-                resetSearchBtn.click();
-            } else {
-                selectLocation(taipeiAllLoc, 'taipei_all');
-            }
-        });
-    }
-
-    // Quick Links
-    document.querySelectorAll('.quick-link-item').forEach(btn => {
-        btn.addEventListener('click', () => {
-            const locName = btn.dataset.loc;
-            if (!locName) return; // Skip buttons without data-loc like "我附近" or "台北市全區" to avoid duplicate handlers
-            
-            trackSearchLocation('popular_button', locName);
-            
-            if (state.searchLocation && state.searchLocation.name === locName) {
-                resetSearchBtn.click();
-            } else {
-                const locObj = state.locationData.find(l => l.name === locName);
-                if (locObj) selectLocation(locObj, 'popular_location');
-            }
-        });
-    });
-
-    // Filter Chips
-    document.querySelectorAll('.filter-chip:not(.price-chip)').forEach(chip => {
-        chip.addEventListener('click', () => {
-            const filter = chip.dataset.filter;
-            let action = 'select';
-            
-            if (state.filters.has(filter)) {
-                state.filters.delete(filter);
-                chip.classList.remove('active');
-                action = 'deselect';
-            } else {
-                state.filters.add(filter);
-                chip.classList.add('active');
-            }
-            
-            state.recommendedLimit = 30; // Reset pagination limit
-            state.othersLimit = 30; // Reset pagination limit
-            refreshShowResultsButton();
-            
-            // Toggle active state in UI instantly, then defer heavy search execution
-            setTimeout(() => {
-                trackEvent('use_filter', {
-                    filter_name: filterMap[filter] || filter,
-                    action: action
-                });
-                
-                renderResults();
-                updateUrl();
-            }, 20);
-        });
-    });
-
-    // Price Chips
-    document.querySelectorAll('.price-chip').forEach(chip => {
-        chip.addEventListener('click', () => {
-            const price = chip.dataset.price;
-            let action = 'select';
-            
-            if (state.priceFilter.has(price)) {
-                state.priceFilter.delete(price);
-                chip.classList.remove('active');
-                action = 'deselect';
-            } else {
-                state.priceFilter.add(price);
-                chip.classList.add('active');
-            }
-            
-            state.recommendedLimit = 30; // Reset pagination limit
-            state.othersLimit = 30; // Reset pagination limit
-            refreshShowResultsButton();
-            
-            setTimeout(() => {
-                trackEvent('use_price_filter', {
-                    price_level: price,
-                    action: action
-                });
-                
-                renderResults();
-                updateUrl();
-            }, 20);
-        });
-    });
-
-    const toggleCuisineFilterBtn = document.getElementById('toggle-cuisine-filter');
-    if (toggleCuisineFilterBtn) {
-        toggleCuisineFilterBtn.addEventListener('click', () => {
-            updateCuisineFilterUI({
-                expand: toggleCuisineFilterBtn.getAttribute('aria-expanded') !== 'true'
-            });
-        });
-    }
-    // Cuisine Chips
-    document.querySelectorAll('.cuisine-chip').forEach(chip => {
-        chip.addEventListener('click', () => {
-            const cuisine = chip.dataset.cuisine;
-            let action = 'select';
-
-            if (state.cuisineFilter.has(cuisine)) {
-                state.cuisineFilter.delete(cuisine);
-                action = 'deselect';
-            } else {
-                state.cuisineFilter.add(cuisine);
-            }
-
-            updateCuisineFilterUI({ expand: true });
-
-            state.recommendedLimit = 30; // Reset pagination limit
-            state.othersLimit = 30; // Reset pagination limit
-            refreshShowResultsButton();
-
-            // Toggle active state in UI instantly, then defer heavy search execution
-            setTimeout(() => {
-                trackEvent('use_cuisine_filter', {
-                    cuisine_name: cuisine,
-                    action: action
-                });
-                renderResults();
-                updateUrl();
-            }, 20);
-        });
-    });
-
-    // Clear Cuisine Filter
-    const clearCuisineFilterBtn = document.getElementById('clear-cuisine-filter');
-    if (clearCuisineFilterBtn) {
-        clearCuisineFilterBtn.addEventListener('click', () => {
-            state.cuisineFilter.clear();
-            updateCuisineFilterUI({ expand: false });
-            
-            state.recommendedLimit = 30; // Reset pagination limit
-            state.othersLimit = 30; // Reset pagination limit
-            refreshShowResultsButton();
-
-            setTimeout(() => {
-                renderResults();
-                updateUrl();
-            }, 20);
-        });
-    }
-
-    // Clear All Filters
-    const clearAllFiltersBtn = document.getElementById('clear-all-filters');
-    if (clearAllFiltersBtn) {
-        clearAllFiltersBtn.addEventListener('click', () => {
-            state.filters.clear();
-            state.priceFilter.clear();
-            document.querySelectorAll('.filter-chip:not(.price-chip)').forEach(c => c.classList.remove('active'));
-            document.querySelectorAll('.price-chip').forEach(c => c.classList.remove('active'));
-            state.recommendedLimit = 30; // Reset pagination limit
-            state.othersLimit = 30; // Reset pagination limit
-            refreshShowResultsButton();
-            
-            // Reset active states in UI instantly, then defer heavy search execution
-            setTimeout(() => {
-                renderResults();
-                updateUrl();
-            }, 20);
-        });
-    }
-
-    // Map Marker Toggle
-    const hideMarkersToggle = document.getElementById('hide-others-markers');
-    if (hideMarkersToggle) {
-        hideMarkersToggle.addEventListener('change', (e) => {
-            state.hideLowQualityMarkers = e.target.checked;
-            state.showOthers = !e.target.checked; // Sync list expansion with map toggle
-            
-            trackEvent('toggle_recommended_only', {
-                action: state.hideLowQualityMarkers ? 'on' : 'off',
-                location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none'
-            });
-            
-            // Update checkbox state instantly, then defer heavy rendering
-            setTimeout(() => {
-                renderResults();
-            }, 20);
-        });
-    }
-
-    // Toggle Others
-    toggleOthersBtn.addEventListener('click', () => {
-        // Track BEFORE state change to get current counts
-        const recommended = state.currentResults.filter(r => ['High', 'Medium', '高', '中'].includes(r.parent_friendly_level));
-        const others = state.currentResults.filter(r => ['Insufficient Info', 'Needs Attention', '資訊不足', '需留意'].includes(r.parent_friendly_level));
-        
-        if (!state.showOthers) {
-            trackEvent('expand_other_results', {
-                location_context: state.searchLocation ? (state.searchLocation.name === '我附近' ? 'nearby' : state.searchLocation.name) : 'none',
-                visible_restaurant_count: recommended.length,
-                hidden_restaurant_count: others.length
-            });
-        }
-
-        state.showOthers = !state.showOthers;
-        state.hideLowQualityMarkers = !state.showOthers; // Sync map toggle with list expansion
-        if (hideMarkersToggle) hideMarkersToggle.checked = state.hideLowQualityMarkers;
-        
-        // Reset othersLimit when toggled
-        state.othersLimit = 30;
-        
-        // Toggle expansion instantly, then defer heavy rendering
-        setTimeout(() => {
-            renderResults();
-        }, 20);
-    });
-
-    // Reset Search
-    resetSearchBtn.addEventListener('click', () => {
-        state.searchLocation = null;
-        state.userLocation = null;
-        state.lastGeographicLocation = null;
-        resetViewedRestaurantCount();
-        state.filters.clear();
-        state.cuisineFilter.clear();
-        state.priceFilter.clear();
-        state.hideLowQualityMarkers = true; // Reset to default: hide low quality
-        state.showOthers = false; // Reset to default: hide others list
-        state.recommendedLimit = 30; // Reset pagination limit
-        state.othersLimit = 30; // Reset pagination limit
-        
-        document.querySelectorAll('.filter-chip:not(.price-chip)').forEach(c => c.classList.remove('active'));
-        document.querySelectorAll('.price-chip').forEach(c => c.classList.remove('active'));
-        updateCuisineFilterUI({ expand: false });
-        const clearAllFiltersBtn = document.getElementById('clear-all-filters');
-        if (clearAllFiltersBtn) clearAllFiltersBtn.classList.add('hidden');
-        
-        searchInput.value = '';
-        clearSearchBtn.classList.add('hidden');
-        searchResultsView.classList.add('hidden');
-        if (floatShareBtn) floatShareBtn.classList.add('hidden');
-        
-        // Update checkbox UI
-        const hideMarkersToggle = document.getElementById('hide-others-markers');
-        if (hideMarkersToggle) hideMarkersToggle.checked = true;
-        
-        const trendingSection = document.querySelector('.trending-section');
-        if (trendingSection) trendingSection.classList.remove('hidden');
-        const featuresSection = document.querySelector('.features-section');
-        if (featuresSection) featuresSection.classList.remove('hidden');
-        document.querySelector('.main-header').style.display = 'block';
-        homeView.classList.remove('search-active');
-        homeView.classList.remove('header-collapsed');
-        const btnShowResultsContainer = document.getElementById('btn-show-results-container');
-        if (btnShowResultsContainer) btnShowResultsContainer.style.display = 'none';
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-        updateUrl(true);
-        updateQuickLinksUI();
-    });
-
-    // Show Results Button
-    const btnShowResults = document.getElementById('btn-show-results');
-    if (btnShowResults) {
-        btnShowResults.addEventListener('click', () => {
-            homeView.classList.add('header-collapsed');
-            window.scrollTo({ top: 0, behavior: 'smooth' });
-            setTimeout(() => {
-                if (state.map) {
-                    state.map.invalidateSize();
-                }
-            }, 300);
-        });
-    }
-
-    // Modify Search Button
-    const modifySearchBtn = document.getElementById('modify-search');
-    if (modifySearchBtn) {
-        modifySearchBtn.addEventListener('click', () => {
-            homeView.classList.remove('header-collapsed');
-            window.scrollTo({ top: 0, behavior: 'smooth' });
-        });
-    }
+    setupSearchEvents();
 
     // Navigation
     backHomeBtn.addEventListener('click', () => {
@@ -996,29 +656,6 @@ function setupEventListeners() {
         });
     }
 
-    // Trending Items
-    document.querySelectorAll('.trending-item').forEach(item => {
-        item.addEventListener('click', () => {
-            const locName = item.dataset.loc;
-            const filter = item.dataset.filter;
-            const scenarioTitle = item.textContent.trim();
-            
-            // Set filters
-            state.filters.clear();
-            if (filter) {
-                state.filters.add(filter);
-                // Sync UI chips
-                document.querySelectorAll('.filter-chip:not(.price-chip)').forEach(chip => {
-                    chip.classList.toggle('active', chip.dataset.filter === filter);
-                });
-            } else {
-                document.querySelectorAll('.filter-chip:not(.price-chip)').forEach(chip => chip.classList.remove('active'));
-            }
-
-            const locObj = state.locationData.find(l => l.name === locName);
-            if (locObj) selectLocation(locObj, 'suggested_scenario');
-        });
-    });
 
     setupShortlistEvents();
 
@@ -1030,50 +667,7 @@ function setupEventListeners() {
         syncStateFromUrl(false, useAnimation);
     });
 
-    // Map size toggle (Enlarge Map)
-    const toggleMapSizeBtn = document.getElementById('btn-toggle-map-size');
-    const mapContainer = document.getElementById('map-container');
-    if (toggleMapSizeBtn && mapContainer) {
-        toggleMapSizeBtn.addEventListener('click', () => {
-            const isEnlarged = mapContainer.classList.toggle('enlarged');
-            const iconSpan = toggleMapSizeBtn.querySelector('.icon');
-            const textSpan = toggleMapSizeBtn.querySelector('.toggle-btn-text');
-            
-            if (isEnlarged) {
-                if (iconSpan) {
-                    iconSpan.innerHTML = `
-                        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="display: block;">
-                            <path d="M4 14h6v6M20 10h-6V4M14 10l7-7M10 14l-7 7"/>
-                        </svg>
-                    `;
-                }
-                if (textSpan) textSpan.textContent = '收合地圖';
-                trackEvent('enlarge_map', { action: 'enlarge' });
-            } else {
-                if (iconSpan) {
-                    iconSpan.innerHTML = `
-                        <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" style="display: block;">
-                            <path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/>
-                        </svg>
-                    `;
-                }
-                if (textSpan) textSpan.textContent = '放大地圖';
-                trackEvent('enlarge_map', { action: 'collapse' });
-            }
-            
-            // Redraw Leaflet map size dynamically during the height transition
-            let count = 0;
-            const interval = setInterval(() => {
-                if (state.map) {
-                    state.map.invalidateSize();
-                }
-                count++;
-                if (count >= 20) { // 20 iterations * 20ms = 400ms transition duration
-                    clearInterval(interval);
-                }
-            }, 20);
-        });
-    }
+    setupMapEvents();
 
     setupFeedbackEvents();
 
