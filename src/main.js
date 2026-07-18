@@ -25,6 +25,13 @@ import {
     patchAiSummary,
 } from "./restaurants/presentation.js";
 import { setupPwaInstallPrompt } from "./pwa/install-prompt.js";
+import {
+    getCuisineFilterLabel,
+    getCuisineFilterSummary as formatCuisineFilterSummary,
+    getSearchableText,
+    hasCuisineFilters as hasSelectedCuisineFilters,
+    matchesCuisineFilter as matchesRestaurantCuisineFilter,
+} from "./search/cuisine-filter.js";
 import { calculateDistance, calculateTravelTimes, formatDistance } from "./search/distance.js";
 import {
     getDisplayPriceLevels,
@@ -32,6 +39,11 @@ import {
     inferPriceLevel,
     matchesPriceFilter as matchesRestaurantPriceFilter,
 } from "./search/price-filter.js";
+import {
+    getDynamicStatus,
+    getParentFriendlyBaseScore,
+    isFullAttributeFilterMatch,
+} from "./search/scoring.js";
 import { createShortlistController } from "./shortlist/shortlist-controller.js";
 import { state } from "./state/app-state.js";
 import { safeSession } from "./state/storage.js";
@@ -362,28 +374,11 @@ function isAreaSearchLocation(loc) {
 }
 
 function hasCuisineFilters() {
-    return state.cuisineFilter && state.cuisineFilter.size > 0;
-}
-
-function getCuisineGroupValues(res) {
-    const values = [];
-    if (Array.isArray(res.cuisine_group)) {
-        values.push(...res.cuisine_group);
-    } else if (res.cuisine_group) {
-        values.push(res.cuisine_group);
-    }
-    if (res.cuisine) values.push(res.cuisine);
-    return values.filter(Boolean);
-}
-
-function getSearchableText(value) {
-    if (Array.isArray(value)) return value.filter(Boolean).join(' ');
-    return value ? String(value) : '';
+    return hasSelectedCuisineFilters(state.cuisineFilter);
 }
 
 function matchesCuisineFilter(res) {
-    if (!hasCuisineFilters()) return true;
-    return getCuisineGroupValues(res).some(cuisine => state.cuisineFilter.has(cuisine));
+    return matchesRestaurantCuisineFilter(res, state.cuisineFilter);
 }
 
 function hasPriceFilters() {
@@ -394,27 +389,8 @@ function matchesPriceFilter(res) {
     return matchesRestaurantPriceFilter(res, state.priceFilter);
 }
 
-function getCuisineFilterLabel(cuisine) {
-    const labels = {
-        '台式/中式料理': '台式/中式',
-        '日式料理': '日式',
-        '韓式料理': '韓式',
-        '義式料理': '義式',
-        '西式料理': '歐美/西式',
-        '星馬料理': '星馬/泰越',
-        '罕見異國料理': '異國料理',
-        '茶館與咖啡廳': '咖啡/甜點',
-        '餐酒館': '餐酒館',
-        '複合式料理': '複合式'
-    };
-    return labels[cuisine] || (cuisine ? cuisine.replace(/料理$/, '') : '');
-}
-
 function getCuisineFilterSummary() {
-    if (!hasCuisineFilters()) return '';
-    const labels = Array.from(state.cuisineFilter).map(getCuisineFilterLabel);
-    if (labels.length <= 2) return labels.join('、');
-    return `${labels.slice(0, 2).join('、')} +${labels.length - 2}`;
+    return formatCuisineFilterSummary(state.cuisineFilter);
 }
 function updateCuisineFilterUI(options = {}) {
     const toggle = document.getElementById('toggle-cuisine-filter');
@@ -446,12 +422,6 @@ function updateCuisineFilterUI(options = {}) {
     if (panel) {
         panel.classList.toggle('hidden', !shouldExpand);
     }
-}
-
-function isFullAttributeFilterMatch(res, selectedFilters = state.filters) {
-    if (!selectedFilters || selectedFilters.size === 0) return true;
-    const attrs = res.attributes || {};
-    return Array.from(selectedFilters).every(filter => isPositiveAttributeValue(attrs[filter]));
 }
 
 function updateShowResultsButton(matchCount = 0) {
@@ -1937,78 +1907,6 @@ function selectLocation(loc, source = 'other', pushState = true) {
     updateQuickLinksUI();
 }
 
-function getParentFriendlyBaseScore(res) {
-    const level = res.parent_friendly_level || 'Insufficient Info';
-    const levelScoreMap = {
-        '高': 300,
-        'High': 300,
-        '中': 200,
-        'Medium': 200,
-        '需留意': 50,
-        'Needs Attention': 50,
-        '資訊不足': 0,
-        'Insufficient Info': 0
-    };
-    const attrs = res.attributes || {};
-    const knownPositiveCount = Object.values(attrs).filter(isPositiveAttributeValue).length;
-    return (levelScoreMap[level] ?? 0) + knownPositiveCount;
-}
-
-function calculatePersonalizedScore(res) {
-    if (!state.filters || state.filters.size === 0) {
-        return {
-            score: getParentFriendlyBaseScore(res),
-            level: res.parent_friendly_level || 'Insufficient Info'
-        };
-    }
-
-    let score = 0;
-    let matchCount = 0;
-    let missCount = 0;
-    let otherMatchCount = 0;
-    let unknownCount = 0;
-    const attrs = res.attributes || {};
-    const allKeys = ['has_tableware', 'high_chair_available', 'has_diaper_table', 'kids_menu', 'kid_noise_tolerant', 'spacious_seating', 'has_play_area', 'has_private_room'];
-
-    allKeys.forEach(key => {
-        const val = attrs[key];
-        const isSelected = state.filters.has(key);
-
-        if (isPositiveAttributeValue(val)) {
-            if (isSelected) {
-                score += 100;
-                matchCount++;
-            } else {
-                score += 1;
-                otherMatchCount++;
-            }
-        } else if (val === 'no') {
-            if (isSelected) {
-                score -= 1000; // Dealbreaker
-                missCount++;
-            } else {
-                score -= 1;
-            }
-        } else {
-            unknownCount++;
-        }
-    });
-
-    // Determine level based on requested hierarchy
-    let level = 'Insufficient Info';
-    if (missCount > 0) {
-        level = 'Needs Attention'; // "銝泵??隞?
-    } else if (matchCount === state.filters.size && state.filters.size > 0) {
-        level = 'High'; // "敺??"
-    } else if (matchCount > 0 || (otherMatchCount > 0 && missCount === 0)) {
-        level = 'Medium'; // "?臭誑?"
-    } else if (unknownCount === allKeys.length) {
-        level = 'Insufficient Info';
-    }
-
-    return { score, level };
-}
-
 async function renderResults() {
     try {
         const recommendedList = document.getElementById('recommended-list');
@@ -2395,70 +2293,6 @@ window.selectLocationByName = (name) => {
     const loc = state.locationData.find(l => l.name === name);
     if (loc) selectLocation(loc);
 };
-
-function getDynamicStatus(res, selectedFilters) {
-    const attrs = res.attributes || {};
-    const allKeys = ['has_tableware', 'high_chair_available', 'has_diaper_table', 'kids_menu', 'kid_noise_tolerant', 'spacious_seating', 'has_play_area', 'has_private_room'];
-    
-    let matchCount = 0;
-    if (selectedFilters && selectedFilters.size > 0) {
-        selectedFilters.forEach(f => {
-            if (isPositiveAttributeValue(attrs[f])) matchCount++;
-        });
-    }
-
-    // 1. 不符合條件 (Any selected filter is 'no')
-    let hasNo = false;
-    if (selectedFilters && selectedFilters.size > 0) {
-        selectedFilters.forEach(f => {
-            if (attrs[f] === 'no') hasNo = true;
-        });
-    }
-    if (hasNo) return { level: 'Needs Attention', label: '不符合條件', class: 'attention', matchCount: matchCount };
-
-    // 2. 資訊不足 (All 4 are unknown/missing)
-    const allUnknown = allKeys.every(k => !attrs[k] || attrs[k] === 'unknown');
-    if (allUnknown) return { level: 'Insufficient Info', label: '資訊不足', class: 'info', matchCount: matchCount };
-
-    // If user has selected filters
-    if (selectedFilters && selectedFilters.size > 0) {
-        // 很適合你 (Perfect match of all selected filters)
-        if (matchCount === selectedFilters.size) {
-            return { level: 'High', label: '很適合你', class: 'high', matchCount: matchCount };
-        }
-        
-        // 可以考慮 (At least one match, and we already know there's no 'no')
-        if (matchCount >= 1) {
-            return { level: 'Medium', label: '可以考慮', class: 'medium', matchCount: matchCount };
-        }
-
-        // 其他友善選擇 (Zero matches, but something else is 'yes')
-        let hasOtherYes = false;
-        allKeys.forEach(k => {
-            if (!selectedFilters.has(k) && isPositiveAttributeValue(attrs[k])) hasOtherYes = true;
-        });
-        if (hasOtherYes) {
-            return { level: 'Low Match', label: '其他友善選擇', class: 'low-match', matchCount: matchCount };
-        }
-        
-        return { level: 'Insufficient Info', label: '資訊不足', class: 'info', matchCount: matchCount };
-    }
-
-    // Default view (no filters selected)
-    const hasTableware = isPositiveAttributeValue(attrs['has_tableware']);
-    const hasHighChair = isPositiveAttributeValue(attrs['high_chair_available']);
-    const hasKidsMenu = isPositiveAttributeValue(attrs['kids_menu']);
-    const hasPlayArea = isPositiveAttributeValue(attrs['has_play_area']);
-    
-    const isRecommended = (hasTableware && hasHighChair) || (hasKidsMenu || hasPlayArea);
-    
-    let totalYes = 0;
-    allKeys.forEach(k => { if (isPositiveAttributeValue(attrs[k])) totalYes++; });
-    
-    if (isRecommended) return { level: 'High', label: '值得推薦', class: 'high', matchCount: 0 };
-    if (totalYes >= 1) return { level: 'Medium', label: '可以考慮', class: 'medium', matchCount: 0 };
-    return { level: 'Insufficient Info', label: '資訊不足', class: 'info', matchCount: 0 };
-}
 
 function renderCard(res, container, overrideLevel) {
     if (res.ai_summary && !res._ai_summary_patched) {
@@ -3155,23 +2989,6 @@ function showDetail(restaurant) {
         showToast('無法載入詳情，請稍後再試');
     }
 }
-
-// Global helper to check for low match condition
-function isLowMatchGlobal(restaurant, level) {
-    if (state.filters && state.filters.size > 0) {
-        const isRecommended = (level === 'High' || level === '高' || level === 'Medium' || level === '中');
-        if (!isRecommended) return false;
-
-        let matchCount = 0;
-        const attributes = restaurant.attributes || {};
-        state.filters.forEach(f => {
-            if (isPositiveAttributeValue(attributes[f])) matchCount++;
-        });
-        return matchCount === 0;
-    }
-    return false;
-}
-
 
 let lastScrollY = 0;
 
