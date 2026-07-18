@@ -1,0 +1,55 @@
+:root {
+    --primary: #F6846F;
+    --primary-light: #FBC1B4;
+    --primary-dark: #DF6B55;
+    --secondary: #30B3A9;
+    --bg-color: #FFF6F3;
+    --card-bg: #FFFFFF;
+    --text-main: #2D3748;
+    --text-muted: #718096;
+    --accent: #FFC72C;
+    --primary-wash: #FFF1EE;
+    --border-warm: rgba(246, 132, 111, 0.18);
+    --safe-area-inset-top: env(safe-area-inset-top);
+    --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    --shadow: 0 4px 12px rgba(0, 0, 0, 0.07), 0 2px 4px rgba(0, 0, 0, 0.04);
+    --shadow-lg: 0 10px 28px -3px rgba(0, 0, 0, 0.1), 0 4px 8px -2px rgba(0, 0, 0, 0.04);
+    --shadow-warm: 0 4px 16px rgba(246, 132, 111, 0.18), 0 2px 6px rgba(0, 0, 0, 0.04);
+    --shadow-warm-lg: 0 10px 32px rgba(246, 132, 111, 0.25), 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
+}
+
+html {
+    scrollbar-gutter: stable;
+}
+
+body {
+    font-family: 'Nunito', 'Inter', -apple-system, BlinkMacSystemFont, "PingFang TC", "Noto Sans TC", "Microsoft JhengHei", sans-serif;
+    background-color: var(--bg-color);
+    color: var(--text-main);
+    line-height: 1.5;
+    overflow-x: hidden;
+}
+
+.hidden {
+    display: none !important;
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+

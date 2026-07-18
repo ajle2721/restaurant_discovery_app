@@ -1,4 +1,4 @@
-var locationData = [
+export const locationData = [
   {
     "name": "中正區",
     "type": "行政區",

@@ -9,6 +9,8 @@ GOOGLE_MAP_KEY
 response/*.json
 
 # Local backup / scratch artifacts
+dist/
+src/data/restaurant-index.js
 crawler/*
 !crawler/.keep
 app*.tmp
@@ -20,7 +22,10 @@ data.js.bak*
 diff_output.txt
 expanded_restaurants*.csv
 expanded_restaurants*.json
-ai_review/index_new.js
+data/generated/restaurant-catalog-new.js
+
+# Frontend dependencies
+node_modules
 
 # Python
 __pycache__/

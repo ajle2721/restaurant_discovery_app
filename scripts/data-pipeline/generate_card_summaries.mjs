@@ -1,8 +1,8 @@
 import fs from 'fs';
 import path from 'path';
+import { aiReviewDir, projectRoot } from '../lib/paths.mjs';
 
-const aiReviewDir = 'ai_review';
-const responseDir = 'response';
+const responseDir = path.join(projectRoot, 'response');
 
 const files = fs.readdirSync(aiReviewDir).filter(f => f.endsWith('.json') && f !== 'index.js');
 

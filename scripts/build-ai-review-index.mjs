@@ -1,12 +1,18 @@
 import fs from "node:fs";
 import path from "node:path";
-import vm from "node:vm";
+import { loadRestaurantCatalog } from "./lib/catalog.mjs";
+import {
+  aiReviewDir,
+  curatedDir,
+  projectRoot,
+  restaurantCatalogPath,
+  restaurantIndexPath,
+} from "./lib/paths.mjs";
 
-const baseDir = process.cwd();
-const aiReviewDir = path.join(baseDir, "ai_review");
-const outputPath = path.join(aiReviewDir, "index.js");
+const baseDir = projectRoot;
+const outputPath = restaurantIndexPath;
 
-const contactLinksPath = path.join(aiReviewDir, "contact_links.json");
+const contactLinksPath = path.join(curatedDir, "contact_links.json");
 let contactLinks = {};
 if (fs.existsSync(contactLinksPath)) {
   try {
@@ -16,7 +22,7 @@ if (fs.existsSync(contactLinksPath)) {
   }
 }
 
-const cuisinesMappingPath = path.join(aiReviewDir, "cuisines_mapping.json");
+const cuisinesMappingPath = path.join(curatedDir, "cuisines_mapping.json");
 let cuisinesMapping = {};
 if (fs.existsSync(cuisinesMappingPath)) {
   try {
@@ -541,7 +547,7 @@ manualRecords.push([
   "",
   "",
 ]);
-const brandRulesPath = path.join(baseDir, "brand_rules.json");
+const brandRulesPath = path.join(curatedDir, "brand_rules.json");
 let brandRules = {};
 let brandCounts = {};
 if (fs.existsSync(brandRulesPath)) {
@@ -1486,24 +1492,6 @@ function normalizeResult(result) {
   return "unknown";
 }
 
-function getExistingRestaurantData() {
-  if (!fs.existsSync(outputPath)) {
-    throw new Error(
-      "ai_review/index.js is required as the restaurant catalog. " +
-        "Restore it before rebuilding."
-    );
-  }
-
-  const code = fs.readFileSync(outputPath, "utf8");
-  const context = {};
-  vm.createContext(context);
-  vm.runInContext(`${code}\nthis.restaurantData = restaurantData;`, context);
-  if (!Array.isArray(context.restaurantData)) {
-    throw new Error("Unable to load restaurantData from ai_review/index.js.");
-  }
-  return context.restaurantData.map((restaurant) => ({ ...restaurant }));
-}
-
 function hasGoogleEvidence(...evidenceValues) {
   return evidenceValues.some((evidence) =>
     String(evidence || "").trim().toLowerCase().startsWith("google")
@@ -2311,12 +2299,12 @@ function writeIndex(records) {
     return row.slice(0, columns.length);
   });
   const serializedRows = JSON.stringify(normalizedRecords).replaceAll("意大利", "義大利");
-  const content = `const columns = ${JSON.stringify(columns)};\n\nconst rows = ${serializedRows};\n\nconst restaurantData = [];\nfor (let i = 0; i < rows.length; i++) {\n  Object.defineProperty(restaurantData, i, {\n    get() {\n      const row = rows[i];\n      const obj = {};\n      columns.forEach((col, k) => {\n        obj[col] = row[k];\n      });\n      obj.formatted_address = obj.address;\n      obj.google_maps_url = obj.url;\n      Object.defineProperty(restaurantData, i, {\n        value: obj,\n        writable: true,\n        configurable: true,\n        enumerable: true\n      });\n      return obj;\n    },\n    configurable: true,\n    enumerable: true\n  });\n}\n`;
+  const content = `const columns = ${JSON.stringify(columns)};\n\nconst rows = ${serializedRows};\n\nexport const restaurantData = [];\nfor (let i = 0; i < rows.length; i++) {\n  Object.defineProperty(restaurantData, i, {\n    get() {\n      const row = rows[i];\n      const obj = {};\n      columns.forEach((col, k) => {\n        obj[col] = row[k];\n      });\n      obj.formatted_address = obj.address;\n      obj.google_maps_url = obj.url;\n      Object.defineProperty(restaurantData, i, {\n        value: obj,\n        writable: true,\n        configurable: true,\n        enumerable: true\n      });\n      return obj;\n    },\n    configurable: true,\n    enumerable: true\n  });\n}\n`;
   fs.writeFileSync(outputPath, content, "utf8");
 }
 
 function main() {
-  const existingRestaurants = getExistingRestaurantData();
+  const existingRestaurants = loadRestaurantCatalog(restaurantCatalogPath);
   brandCounts = {};
   for (const r of existingRestaurants) {
     const brand = cleanBrandName(r.name);
@@ -3404,7 +3392,7 @@ manualRecords.push([
   "設有大小包廂且備有大螢幕和影音設備，適合慶生與親友聚會。",
   "中",
 ]);
-const extraManualRecordsPath = path.join(aiReviewDir, "manual_chain_branches.json");
+const extraManualRecordsPath = path.join(curatedDir, "manual_chain_branches.json");
 if (fs.existsSync(extraManualRecordsPath)) {
   try {
     const extraManualRecords = JSON.parse(fs.readFileSync(extraManualRecordsPath, "utf8").replace(/^\uFEFF/, ""));
@@ -3457,14 +3445,11 @@ const manualCatalogByPlaceId = new Map(
 
   console.log(`Built ${outputPath} with ${records.length} restaurants.`);
   if (skipped.length > 0) {
-    console.log(`Skipped ${skipped.length} records missing from ai_review/index.js.`);
+    console.log(`Skipped ${skipped.length} records missing from the restaurant catalog.`);
   }
 }
 
 main();
-
-
-
 
 
 

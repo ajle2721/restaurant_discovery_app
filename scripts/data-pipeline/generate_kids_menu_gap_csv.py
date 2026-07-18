@@ -4,10 +4,10 @@ import os
 import re
 
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-INDEX_JS_PATH = os.path.join(BASE_DIR, "ai_review", "index.js")
-GOOGLE_ATTRIBUTES_CSV_PATH = os.path.join(BASE_DIR, "google_maps_place_attributes.csv")
-OUTPUT_CSV_PATH = os.path.join(BASE_DIR, "google_kids_menu_missing_in_site.csv")
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
+INDEX_JS_PATH = os.path.join(BASE_DIR, "data", "generated", "restaurant-catalog.js")
+GOOGLE_ATTRIBUTES_CSV_PATH = os.path.join(BASE_DIR, "data", "generated", "google_maps_place_attributes.csv")
+OUTPUT_CSV_PATH = os.path.join(BASE_DIR, "data", "generated", "google_kids_menu_missing_in_site.csv")
 
 POSITIVE_GOOGLE_STATUSES = {"", "有", "提供", "設有", "適合", "供應"}
 NEGATIVE_GOOGLE_STATUSES = {"不提供", "未設有", "不允許", "不接受", "不適合", "無"}
@@ -18,7 +18,7 @@ def extract_js_json_assignment(source, variable_name):
     pattern = rf"const {re.escape(variable_name)} = "
     start = source.find(pattern)
     if start == -1:
-        raise ValueError(f"Cannot find const {variable_name} assignment in ai_review/index.js")
+        raise ValueError(f"Cannot find const {variable_name} assignment in the restaurant catalog")
     value_start = start + len(pattern)
     value_end = source.find(";\n", value_start)
     if value_end == -1:

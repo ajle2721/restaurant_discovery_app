@@ -31,7 +31,7 @@ def safe_print(*args, **kwargs):
 builtins.print = safe_print
 
 response_dir = "response"
-output_dir = "ai_review"
+output_dir = "data/ai_review"
 os.makedirs(output_dir, exist_ok=True)
 
 # 嘗試手動讀取 .env，避免依賴 python-dotenv
@@ -60,9 +60,10 @@ if not API_KEY:
 
 # 載入連鎖品牌預設規則
 BRAND_RULES = {}
-if os.path.exists("brand_rules.json"):
+brand_rules_path = "data/curated/brand_rules.json"
+if os.path.exists(brand_rules_path):
     try:
-        with open("brand_rules.json", "r", encoding="utf-8") as f:
+        with open(brand_rules_path, "r", encoding="utf-8") as f:
             BRAND_RULES = json.load(f)
         print(f"[INFO] 成功載入 {len(BRAND_RULES)} 個連鎖品牌的評估規則。")
     except Exception as e:

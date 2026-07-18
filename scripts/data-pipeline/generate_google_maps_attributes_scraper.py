@@ -22,14 +22,14 @@ except ImportError:
     print("[ERROR] Playwright is unavailable. Enter the project shell with: nix develop")
     sys.exit(1)
 
-base_dir = os.path.dirname(os.path.abspath(__file__))
-ai_review_dir = os.path.join(base_dir, "ai_review")
-index_js_path = os.path.join(ai_review_dir, "index.js")
-output_csv_path = os.path.join(base_dir, "high_chair_list.csv")
-attributes_csv_path = os.path.join(base_dir, "google_maps_place_attributes.csv")
-attributes_json_path = os.path.join(base_dir, "google_maps_place_attributes.json")
-summaries_csv_path = os.path.join(base_dir, "google_maps_place_summaries.csv")
-checkpoint_path = os.path.join(base_dir, ".google_maps_attributes_scraper_checkpoint.json")
+project_root = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
+generated_dir = os.path.join(project_root, "data", "generated")
+index_js_path = os.path.join(generated_dir, "restaurant-catalog.js")
+output_csv_path = os.path.join(generated_dir, "high_chair_list.csv")
+attributes_csv_path = os.path.join(generated_dir, "google_maps_place_attributes.csv")
+attributes_json_path = os.path.join(generated_dir, "google_maps_place_attributes.json")
+summaries_csv_path = os.path.join(generated_dir, "google_maps_place_summaries.csv")
+checkpoint_path = os.path.join(generated_dir, ".google_maps_attributes_scraper_checkpoint.json")
 checkpoint_schema_version = 3
 high_chair_fieldnames = ["Place ID", "餐廳名稱", "地址", "Google 地圖網址", "高腳椅屬性", "佐證/說明"]
 summary_fieldnames = [
@@ -95,8 +95,8 @@ def parse_args():
     )
     parser.add_argument(
         "--output-dir",
-        default=base_dir,
-        help="Directory for CSV/JSON outputs and checkpoint (default: project directory).",
+        default=generated_dir,
+        help="Directory for CSV/JSON outputs and checkpoint (default: data/generated).",
     )
     parser.add_argument(
         "--output-prefix",

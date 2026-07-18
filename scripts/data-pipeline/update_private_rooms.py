@@ -4,7 +4,7 @@ import re
 
 base_dir = os.getcwd()
 response_dir = os.path.join(base_dir, "response")
-ai_review_dir = os.path.join(base_dir, "ai_review")
+ai_review_dir = os.path.join(base_dir, "data", "ai_review")
 
 # Positive patterns to detect private rooms or venue booking
 POS_PATTERNS = [

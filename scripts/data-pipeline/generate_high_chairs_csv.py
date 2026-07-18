@@ -3,10 +3,10 @@ import json
 import re
 import csv
 
-base_dir = "/home/jason9075/data/restaurant_discovery_app"
-ai_review_dir = os.path.join(base_dir, "ai_review")
-index_js_path = os.path.join(ai_review_dir, "index.js")
-output_csv_path = os.path.join(base_dir, "high_chair_list.csv")
+base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
+ai_review_dir = os.path.join(base_dir, "data", "ai_review")
+index_js_path = os.path.join(base_dir, "data", "generated", "restaurant-catalog.js")
+output_csv_path = os.path.join(base_dir, "data", "generated", "high_chair_list.csv")
 
 # 1. Read index.js to extract metadata (name, address, google_maps_url) for each place_id
 id_to_meta = {}
@@ -39,7 +39,7 @@ if os.path.exists(index_js_path):
 else:
     print("Warning: index.js not found.")
 
-# 2. Scan all JSON files in ai_review/
+# 2. Scan all JSON files in data/ai_review/
 json_files = [f for f in os.listdir(ai_review_dir) if f.endswith(".json") and f not in ["contact_links.json", "cuisines_mapping.json", "manual_chain_branches.json"]]
 print(f"Scanning {len(json_files)} restaurant detail files...")
 

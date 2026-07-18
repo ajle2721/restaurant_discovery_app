@@ -3,7 +3,7 @@ import json
 import re
 
 response_dir = "response"
-output_dir = "ai_review"
+output_dir = "data/ai_review"
 os.makedirs(output_dir, exist_ok=True)
 
 # Extended keywords for child-friendly detection

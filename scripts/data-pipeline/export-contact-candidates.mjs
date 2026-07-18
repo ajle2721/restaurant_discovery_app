@@ -1,11 +1,14 @@
 import fs from "node:fs";
 import path from "node:path";
-import vm from "node:vm";
+import { loadRestaurantCatalog } from "../lib/catalog.mjs";
+import {
+  curatedDir,
+  projectRoot,
+  restaurantCatalogPath,
+} from "../lib/paths.mjs";
 
-const baseDir = process.cwd();
-const indexPath = path.join(baseDir, "ai_review", "index.js");
-const contactPath = path.join(baseDir, "ai_review", "contact_links.json");
-const outputPath = path.join(baseDir, "contact_candidates.csv");
+const contactPath = path.join(curatedDir, "contact_links.json");
+const outputPath = path.join(projectRoot, "contact_candidates.csv");
 
 function readContactLinks() {
   if (!fs.existsSync(contactPath)) return {};
@@ -13,11 +16,7 @@ function readContactLinks() {
 }
 
 function loadRestaurants() {
-  const code = fs.readFileSync(indexPath, "utf8");
-  const context = {};
-  vm.createContext(context);
-  vm.runInContext(code + "\nthis.restaurantData = restaurantData;", context);
-  return context.restaurantData.map((restaurant) => ({ ...restaurant }));
+  return loadRestaurantCatalog(restaurantCatalogPath);
 }
 
 function hasPositiveFamilyCondition(attrs = {}) {
