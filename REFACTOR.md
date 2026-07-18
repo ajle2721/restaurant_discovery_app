@@ -16,13 +16,20 @@ production GitHub Pages base path.
   reports, and scratch files now have separate directories.
 - Phase 4 complete for the low-risk extraction pass: state/storage, analytics,
   restaurant attributes/pricing/presentation, distance helpers, and PWA install
-  behavior are ES modules. DOM-heavy map, shortlist, and feedback controllers
-  remain in `src/main.js` so this pass does not rewrite event ownership.
+  behavior became ES modules. The DOM-heavy controllers intentionally left at
+  that stage were subsequently extracted in Phases 7 and 8.
 - Phase 5 complete: the original stylesheet was split into seven ordered files;
   their concatenated content was verified against the pre-refactor stylesheet.
 - Phase 6 complete: the build uses shared path/catalog modules, active refresh
   tools are under `scripts/data-pipeline/`, historical repair tools are under
   `scripts/archive/`, and `just verify-data` performs no-credential validation.
+- Phase 7 complete: feedback, shortlist, and Leaflet map behavior now live in
+  feature controllers with callback-based integration from `src/main.js`.
+- Phase 8 complete for the planned behavior-preserving pass: autocomplete,
+  geocoding, price/cuisine matching, scoring, card rendering, and detail
+  rendering have explicit module boundaries and focused tests.
+- Phase 9 complete for synchronous payload separation: Rollup emits the catalog
+  as an independent cacheable chunk without changing startup behavior.
 
 The implemented source layout is:
 
@@ -30,9 +37,12 @@ The implemented source layout is:
 src/
 ├── analytics/
 ├── data/
+├── feedback/
+├── map/
 ├── pwa/
 ├── restaurants/
 ├── search/
+├── shortlist/
 ├── state/
 ├── styles/
 └── main.js
@@ -54,26 +64,28 @@ Validation completed after the refactor:
 
 - 2,225 analysis JSON files parsed successfully.
 - 2,393 catalog records and 2,393 generated browser records validated.
-- 5 Node unit tests passed.
+- 20 Node unit tests passed.
 - Python data-pipeline files passed bytecode compilation.
 - A production build with `/restaurant_discovery_app/` base completed.
-- Playwright desktop (1440x900) and mobile (390x844) smoke tests covered home,
-  full-city results, map initialization, restaurant cards, and detail view.
+- Playwright desktop (1440x1000) and mobile (390x844) smoke tests covered home
+  feedback, compound filters, single- and multi-location autocomplete, full-city
+  results, map markers and popup focus, shortlist comparison, restaurant cards,
+  detail navigation, detail feedback, and tooltip interactions.
 
-The remaining Vite warning is the approximately 2.16 MB JavaScript chunk, which
-is dominated by the embedded restaurant catalog. A later performance change can
-load the catalog as a separate JSON/data chunk; it should be measured before
-changing the current eager-loading behavior.
+The original production JavaScript bundle was approximately 2.17 MB (414 KB
+gzip). It is now split into a 165.5 KB application chunk (47.4 KB gzip) and a
+2.00 MB catalog chunk (363.7 KB gzip). Total initial transfer remains similar,
+but application code and generated data can now be cached independently.
 
-## Continuation Plan
+## Continued Refactor Results
 
 The first pass established build and ownership boundaries but intentionally left
-DOM-heavy controllers in `src/main.js`. Continue with small behavior-preserving
-commits on the `refactor` branch.
+DOM-heavy controllers in `src/main.js`. The continuation used small,
+behavior-preserving commits on the `refactor` branch.
 
 ### Phase 7: Extract Runtime Controllers
 
-Status: in progress.
+Status: complete.
 
 Extract controllers in this order because it follows increasing coupling:
 
@@ -92,7 +104,7 @@ Extract controllers in this order because it follows increasing coupling:
 
 Phase 7 acceptance criteria:
 
-- `src/main.js` is below 4,000 lines.
+- `src/main.js` is 2,463 lines, down from approximately 6,300 lines originally.
 - Feature modules do not import `src/main.js` or create circular imports.
 - Existing global handlers used by inline markup remain available through a
   narrow compatibility layer.
@@ -101,39 +113,64 @@ Phase 7 acceptance criteria:
 
 ### Phase 8: Separate Search And Rendering
 
-Status: pending Phase 7.
+Status: complete for the behavior-preserving extraction pass.
 
-- Move autocomplete and geocoding to `src/search/`.
-- Move filter matching and personalized scoring to pure modules with tests.
-- Move restaurant card and detail templates to `src/restaurants/` after their
-  dependencies are explicit.
-- Keep URL synchronization and top-level event wiring in `src/main.js` until the
-  extracted modules no longer depend on implicit globals.
+- Autocomplete and geocoding moved to `src/search/`; Nominatim behavior accepts
+  an injected fetch implementation for deterministic tests.
+- Cuisine, price, attribute matching, and recommendation scoring are pure search
+  modules with fixture-based tests.
+- Restaurant card and detail rendering moved to `src/restaurants/` controllers
+  with their cross-feature actions supplied as callbacks.
+- URL synchronization and top-level event wiring remain in `src/main.js` as the
+  explicit application coordination layer.
 
 Phase 8 acceptance criteria:
 
 - Pure filter/scoring behavior has fixture-based unit tests.
-- `src/main.js` primarily contains bootstrap, URL state, and cross-feature event
-  wiring.
+- `src/main.js` now contains bootstrap, result orchestration, URL state, view
+  transitions, and cross-feature event wiring rather than feature templates.
 - Search results and recommendation ordering match the pre-extraction behavior.
 
 ### Phase 9: Split The Catalog Payload
 
-Status: deferred until runtime extraction is stable.
+Status: synchronous catalog split complete; asynchronous loading deferred.
 
-- Measure initial load and interaction timing before changing data loading.
-- Compare a separate compressed JSON request with a lazy JavaScript data chunk.
-- Preserve direct GitHub Pages hosting without adding a server dependency.
-- Add a visible loading/error state before making restaurant data asynchronous.
+- The catalog measured 2.04 MB as generated source and 368 KB with gzip.
+- A Rollup manual chunk now separates generated catalog data from application
+  code while preserving direct GitHub Pages hosting and eager module loading.
+- Asynchronous JSON or dynamic-import loading was not adopted because it would
+  not reduce the required catalog transfer for the first search and would add a
+  new loading/error lifecycle across multiple controllers.
+- If future measurements justify asynchronous loading, add a visible loading and
+  error state before changing the restaurant data contract.
 
-Do not combine Phase 9 with controller extraction. Its rollback and performance
-characteristics are different from source-only modularization.
+The catalog split remains its own commit because its rollback and caching
+characteristics differ from source-only modularization.
+
+## Current Line Distribution
+
+Generated data is excluded from runtime source comparisons. The generated
+`src/data/restaurant-index.js` is 2.04 MB but only 27 serialized lines, so line
+count is not a useful complexity measure for that file.
+
+| Area | Size | Notes |
+| --- | ---: | --- |
+| `src/main.js` | 2,463 | Bootstrap, result orchestration, URL/view wiring |
+| Runtime JavaScript excluding generated catalog | 7,971 | Includes 1,508-line location dataset |
+| Runtime JavaScript excluding both data files | 6,463 | Application and feature modules |
+| Stylesheets | 4,104 | Seven ordered style modules plus entry file |
+| Node unit tests | 20 tests | Presentation, distance, cuisine, price, geocode, scoring |
+
+The largest extracted runtime modules are now bounded by responsibility:
+`presentation.js` (528 lines), `detail-controller.js` (487),
+`feedback-controller.js` (484), `leaflet-map.js` (446), and
+`shortlist-controller.js` (420).
 
 ## Commit Strategy
 
 - Keep the completed Phase 1-6 migration as the structural baseline commit.
-- Commit each Phase 7 controller only after unit/build/browser validation.
-- Commit Phase 8 by pure domain boundary rather than by arbitrary line ranges.
+- Each Phase 7 controller was committed after unit/build/browser validation.
+- Phase 8 was committed by domain boundary rather than arbitrary line ranges.
 - Do not push the `refactor` branch until it is reviewed locally.
 
 ## Original State
