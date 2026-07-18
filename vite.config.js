@@ -5,5 +5,15 @@ export default defineConfig({
     build: {
         outDir: "dist",
         emptyOutDir: true,
+        chunkSizeWarningLimit: 2050,
+        rollupOptions: {
+            output: {
+                manualChunks(id) {
+                    if (id.endsWith("/src/data/restaurant-index.js")) {
+                        return "restaurant-catalog";
+                    }
+                },
+            },
+        },
     },
 });
