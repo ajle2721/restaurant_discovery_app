@@ -30,6 +30,10 @@ production GitHub Pages base path.
   rendering have explicit module boundaries and focused tests.
 - Phase 9 complete for synchronous payload separation: Rollup emits the catalog
   as an independent cacheable chunk without changing startup behavior.
+- Phase 10 complete: feature controllers now own their event registration;
+  result orchestration and URL state moved out of `src/main.js`; confirmed stale
+  globals, imports, DOM bindings, selectors, and an unreachable fallback branch
+  were removed.
 
 The implemented source layout is:
 
@@ -39,6 +43,7 @@ src/
 ├── data/
 ├── feedback/
 ├── map/
+├── navigation/
 ├── pwa/
 ├── restaurants/
 ├── search/
@@ -64,17 +69,19 @@ Validation completed after the refactor:
 
 - 2,225 analysis JSON files parsed successfully.
 - 2,393 catalog records and 2,393 generated browser records validated.
-- 20 Node unit tests passed.
+- 25 Node unit tests passed.
 - Python data-pipeline files passed bytecode compilation.
 - A production build with `/restaurant_discovery_app/` base completed.
 - Playwright desktop (1440x1000) and mobile (390x844) smoke tests covered home
   feedback, compound filters, single- and multi-location autocomplete, full-city
   results, map markers and popup focus, shortlist comparison, restaurant cards,
-  detail navigation, detail feedback, and tooltip interactions.
+  detail navigation, detail feedback, tooltip interactions, URL restoration,
+  browser history, and shared shortlist restoration.
 
 The original production JavaScript bundle was approximately 2.17 MB (414 KB
 gzip). It is now split into a 165.5 KB application chunk (47.4 KB gzip) and a
-2.00 MB catalog chunk (363.7 KB gzip). Total initial transfer remains similar,
+2.00 MB catalog chunk (363.7 KB gzip). The latest application chunk is 164.1 KB
+(48.0 KB gzip). Total initial transfer remains similar,
 but application code and generated data can now be cached independently.
 
 ## Continued Refactor Results
@@ -121,8 +128,8 @@ Status: complete for the behavior-preserving extraction pass.
   modules with fixture-based tests.
 - Restaurant card and detail rendering moved to `src/restaurants/` controllers
   with their cross-feature actions supplied as callbacks.
-- URL synchronization and top-level event wiring remain in `src/main.js` as the
-  explicit application coordination layer.
+- URL synchronization and top-level event wiring remained in `src/main.js` at
+  the end of this phase and were subsequently separated in Phase 10.
 
 Phase 8 acceptance criteria:
 
@@ -147,6 +154,35 @@ Status: synchronous catalog split complete; asynchronous loading deferred.
 The catalog split remains its own commit because its rollback and caching
 characteristics differ from source-only modularization.
 
+### Phase 10: Reduce Main To Application Coordination
+
+Status: complete.
+
+- Feedback, shortlist, search, and map controllers now register the events they
+  own. `setupEventListeners()` only coordinates cross-view application events.
+- `src/search/results-controller.js` owns location filtering, recommendation
+  sorting, result pagination, filter indicators, fallback hints, map result
+  selection, and empty-result suggestions.
+- The duplicate preview-count location filtering path now reuses the results
+  controller instead of maintaining a second implementation in `src/main.js`.
+- `src/navigation/url-state-controller.js` owns URL/history restoration and
+  shared shortlist handling. Pure URL serialization and comparison live in
+  `src/navigation/url-state.js` with focused tests.
+- `src/restaurants/summary-tags.js` isolates the remaining restaurant summary
+  formatting logic and has focused tests.
+- Removed confirmed dead code: unused imports and DOM bindings, obsolete window
+  globals, a stale map-popup selector, an ineffective `window.map` check, and an
+  unreachable result fallback branch.
+
+Phase 10 acceptance criteria:
+
+- `src/main.js` is 820 physical lines (713 nonblank), down approximately 87%
+  from the original 6,300-line file.
+- Every remaining named function in `src/main.js` has at least one runtime
+  reference; no unused top-level function was found in the final symbol audit.
+- Unit tests, root-base and GitHub Pages-base production builds, desktop/mobile
+  smoke tests, browser history, and shared shortlist URL restoration pass.
+
 ## Current Line Distribution
 
 Generated data is excluded from runtime source comparisons. The generated
@@ -155,22 +191,24 @@ count is not a useful complexity measure for that file.
 
 | Area | Size | Notes |
 | --- | ---: | --- |
-| `src/main.js` | 2,463 | Bootstrap, result orchestration, URL/view wiring |
-| Runtime JavaScript excluding generated catalog | 7,971 | Includes 1,508-line location dataset |
-| Runtime JavaScript excluding both data files | 6,463 | Application and feature modules |
+| `src/main.js` | 820 | Bootstrap, app coordination, location/detail transitions |
+| Runtime JavaScript excluding generated catalog | 8,005 | Includes 1,508-line location dataset |
+| Runtime JavaScript excluding both data files | 6,497 | Application and feature modules |
 | Stylesheets | 4,104 | Seven ordered style modules plus entry file |
-| Node unit tests | 20 tests | Presentation, distance, cuisine, price, geocode, scoring |
+| Node unit tests | 25 tests | Presentation, filters, geocode, scoring, summaries, URL state |
 
 The largest extracted runtime modules are now bounded by responsibility:
-`presentation.js` (528 lines), `detail-controller.js` (487),
-`feedback-controller.js` (484), `leaflet-map.js` (446), and
-`shortlist-controller.js` (420).
+`shortlist-controller.js` (629 lines), `feedback-controller.js` (588),
+`presentation.js` (528), `leaflet-map.js` (494), `detail-controller.js` (487),
+and `results-controller.js` (464).
 
 ## Commit Strategy
 
 - Keep the completed Phase 1-6 migration as the structural baseline commit.
 - Each Phase 7 controller was committed after unit/build/browser validation.
 - Phase 8 was committed by domain boundary rather than arbitrary line ranges.
+- Phase 10 was split into dead-code cleanup, event ownership, result rendering,
+  summary formatting, and URL-state commits, each validated before commit.
 - Do not push the `refactor` branch until it is reviewed locally.
 
 ## Original State
