@@ -18,6 +18,7 @@
           python-dotenv
           pandas
           python-dateutil
+          playwright
         ]);
       in {
         devShells.default = pkgs.mkShell {
@@ -29,11 +30,15 @@
             pkgs.jq
             pkgs.just
             pkgs.ripgrep
+            pkgs.playwright-driver
           ];
+
+          PLAYWRIGHT_BROWSERS_PATH = pkgs.playwright-driver.browsers;
+          PLAYWRIGHT_SKIP_VALIDATE_HOST_REQUIREMENTS = "true";
 
           shellHook = ''
             echo "Dev shell ready."
-            echo "Available tools: just, live-server, node, npm, python, rg, jq"
+            echo "Available tools: just, live-server, node, npm, python, playwright, rg, jq"
           '';
         };
       });

@@ -1,4 +1,5 @@
 # Secrets
+.codex
 .env
 .env.txt
 GOOGLE_MAP_KEY
@@ -8,6 +9,8 @@ GOOGLE_MAP_KEY
 response/*.json
 
 # Local backup / scratch artifacts
+crawler/*
+!crawler/.keep
 app*.tmp
 app_backup.js
 app_recovered.js
